@@ -60,10 +60,91 @@ const UserDataManager = {
     },
 
     updateStatsDisplay() {
-        const stats = userStats.stats || { totalStudied: 0, totalMastered: 0, totalErrors: 0 };
-        document.getElementById('total-studied').textContent = stats.totalStudied || 0;
-        document.getElementById('total-mastered').textContent = stats.totalMastered || 0;
-        document.getElementById('total-errors').textContent = stats.totalErrors || 0;
+        const studyHistory = userStats.studyHistory || {};
+        const now = new Date();
+        const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+        const weekStart = new Date(today);
+        weekStart.setDate(today.getDate() - today.getDay()); // 本周周日
+        const monthStart = new Date(now.getFullYear(), now.getMonth(), 1); // 本月第一天
+
+        let countToday = 0;
+        let countWeek = 0;
+        let countMonth = 0;
+        let countTotal = 0;
+
+        const dailyActivity = {}; // 用于热力图
+
+        for (const [qid, data] of Object.entries(studyHistory)) {
+            if (!data.lastStudied) continue;
+
+            const studyDate = new Date(data.lastStudied);
+            const studyDay = new Date(studyDate.getFullYear(), studyDate.getMonth(), studyDate.getDate());
+            const dayKey = studyDay.toISOString().split('T')[0];
+
+            // 计数每天的活动
+            dailyActivity[dayKey] = (dailyActivity[dayKey] || 0) + 1;
+
+            countTotal++;
+            if (studyDay >= today) countToday++;
+            if (studyDay >= weekStart) countWeek++;
+            if (studyDay >= monthStart) countMonth++;
+        }
+
+        document.getElementById('stat-today').textContent = countToday;
+        document.getElementById('stat-week').textContent = countWeek;
+        document.getElementById('stat-month').textContent = countMonth;
+        document.getElementById('stat-total').textContent = countTotal;
+
+        // 生成热力图
+        this.generateHeatmap(dailyActivity);
+    },
+
+    generateHeatmap(dailyActivity) {
+        const container = document.getElementById('heatmap-container');
+        container.innerHTML = '';
+
+        // 生成最近12周的热力图
+        const weeks = 12;
+        const today = new Date();
+        const startDate = new Date(today);
+        startDate.setDate(today.getDate() - weeks * 7);
+
+        // 找到最大值用于颜色分级
+        const maxCount = Math.max(...Object.values(dailyActivity), 1);
+
+        // 生成周
+        for (let week = 0; week < weeks; week++) {
+            const weekDiv = document.createElement('div');
+            weekDiv.className = 'heatmap-week';
+
+            // 生成7天
+            for (let day = 0; day < 7; day++) {
+                const currentDate = new Date(startDate);
+                currentDate.setDate(startDate.getDate() + week * 7 + day);
+
+                const dayKey = currentDate.toISOString().split('T')[0];
+                const count = dailyActivity[dayKey] || 0;
+
+                const dayDiv = document.createElement('div');
+                dayDiv.className = 'heatmap-day';
+                dayDiv.dataset.date = dayKey;
+                dayDiv.dataset.count = count;
+
+                // 计算颜色等级 (0-4)
+                let level = 0;
+                if (count > 0) {
+                    level = Math.min(4, Math.ceil((count / maxCount) * 4));
+                }
+                dayDiv.dataset.level = level;
+
+                // 工具提示
+                dayDiv.title = `${dayKey}: ${count} questions`;
+
+                weekDiv.appendChild(dayDiv);
+            }
+
+            container.appendChild(weekDiv);
+        }
     }
 };
 
@@ -145,30 +226,6 @@ async function handleLogout() {
     }
 }
 
-// 错题集
-function reviewErrors() {
-    if (!userStats || !userStats.studyHistory) {
-        alert('No error history found | 暂无错题记录');
-        return;
-    }
-
-    // 收集所有错题
-    const errorQuestions = [];
-    for (const [qid, data] of Object.entries(userStats.studyHistory)) {
-        if (data.isError) {
-            errorQuestions.push(qid);
-        }
-    }
-
-    if (errorQuestions.length === 0) {
-        alert('No errors found | 暂无错题');
-        return;
-    }
-
-    // 跳转到错题模式
-    window.location.href = `quiz.html?mode=errors`;
-}
-
 // 初始化
 document.addEventListener('DOMContentLoaded', async () => {
     LanguageManager.init();
@@ -191,5 +248,4 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // 事件监听
     document.getElementById('logout-btn').addEventListener('click', handleLogout);
-    document.getElementById('review-errors-btn').addEventListener('click', reviewErrors);
 });

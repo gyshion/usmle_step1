@@ -56,35 +56,62 @@
             </h2>
             <div class="stats-grid">
                 <div class="stat-card">
-                    <div class="stat-number" id="total-studied">0</div>
+                    <div class="stat-number" id="stat-today">0</div>
                     <div class="stat-label">
-                        <span class="text-zh">已学习</span>
-                        <span class="text-en">Studied</span>
+                        <span class="text-zh">今天</span>
+                        <span class="text-en">Today</span>
                     </div>
                 </div>
                 <div class="stat-card">
-                    <div class="stat-number" id="total-mastered">0</div>
+                    <div class="stat-number" id="stat-week">0</div>
                     <div class="stat-label">
-                        <span class="text-zh">已掌握</span>
-                        <span class="text-en">Mastered</span>
+                        <span class="text-zh">本周</span>
+                        <span class="text-en">This Week</span>
                     </div>
                 </div>
-                <div class="stat-card error-card">
-                    <div class="stat-number" id="total-errors">0</div>
+                <div class="stat-card">
+                    <div class="stat-number" id="stat-month">0</div>
                     <div class="stat-label">
-                        <span class="text-zh">错题数</span>
-                        <span class="text-en">Errors</span>
+                        <span class="text-zh">本月</span>
+                        <span class="text-en">This Month</span>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="stat-total">0</div>
+                    <div class="stat-label">
+                        <span class="text-zh">总计</span>
+                        <span class="text-en">Total</span>
                     </div>
                 </div>
             </div>
-        </div>
 
-        <!-- 错题集按钮 -->
-        <div class="action-section">
-            <button class="primary-btn error-btn" id="review-errors-btn">
-                <span class="text-zh">复习错题集</span>
-                <span class="text-en">Review Error Collection</span>
-            </button>
+            <!-- 学习热力图 -->
+            <div class="heatmap-section">
+                <h3 class="heatmap-title">
+                    <span class="text-zh">学习活动</span>
+                    <span class="text-en">Study Activity</span>
+                </h3>
+                <div class="heatmap-container" id="heatmap-container">
+                    <!-- 动态生成热力图 -->
+                </div>
+                <div class="heatmap-legend">
+                    <span class="legend-label">
+                        <span class="text-zh">少</span>
+                        <span class="text-en">Less</span>
+                    </span>
+                    <div class="legend-colors">
+                        <div class="legend-color" data-level="0"></div>
+                        <div class="legend-color" data-level="1"></div>
+                        <div class="legend-color" data-level="2"></div>
+                        <div class="legend-color" data-level="3"></div>
+                        <div class="legend-color" data-level="4"></div>
+                    </div>
+                    <span class="legend-label">
+                        <span class="text-zh">多</span>
+                        <span class="text-en">More</span>
+                    </span>
+                </div>
+            </div>
         </div>
     </div>
 

@@ -415,7 +415,7 @@ body {
 /* 统计卡片 */
 .stats-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(4, 1fr);
     gap: 20px;
 }
 
@@ -441,6 +441,114 @@ body {
 .stat-label {
     color: var(--color-text-light);
     font-size: 16px;
+}
+
+/* 热力图 */
+.heatmap-section {
+    margin-top: 40px;
+    background: white;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: var(--shadow);
+}
+
+.heatmap-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--color-text);
+    margin-bottom: 20px;
+}
+
+.heatmap-container {
+    display: flex;
+    gap: 3px;
+    overflow-x: auto;
+    padding: 10px 0;
+}
+
+.heatmap-week {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.heatmap-day {
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+    background: #ebedf0;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.heatmap-day:hover {
+    transform: scale(1.2);
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
+}
+
+.heatmap-day[data-level="0"] {
+    background: #ebedf0;
+}
+
+.heatmap-day[data-level="1"] {
+    background: #9be9a8;
+}
+
+.heatmap-day[data-level="2"] {
+    background: #40c463;
+}
+
+.heatmap-day[data-level="3"] {
+    background: #30a14e;
+}
+
+.heatmap-day[data-level="4"] {
+    background: #216e39;
+}
+
+.heatmap-legend {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 8px;
+    margin-top: 15px;
+    font-size: 12px;
+    color: var(--color-text-light);
+}
+
+.legend-colors {
+    display: flex;
+    gap: 3px;
+}
+
+.legend-color {
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+}
+
+.legend-color[data-level="0"] {
+    background: #ebedf0;
+}
+
+.legend-color[data-level="1"] {
+    background: #9be9a8;
+}
+
+.legend-color[data-level="2"] {
+    background: #40c463;
+}
+
+.legend-color[data-level="3"] {
+    background: #30a14e;
+}
+
+.legend-color[data-level="4"] {
+    background: #216e39;
+}
+
+.legend-label {
+    font-size: 11px;
 }
 
 .action-section {
@@ -916,6 +1024,12 @@ body {
 }
 
 /* ==================== 响应式设计 ==================== */
+@media (max-width: 1024px) {
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
 @media (max-width: 768px) {
     .container {
         padding: 15px;
@@ -942,6 +1056,16 @@ body {
 
     .stats-grid {
         grid-template-columns: 1fr;
+    }
+
+    .heatmap-day {
+        width: 10px;
+        height: 10px;
+    }
+
+    .legend-color {
+        width: 10px;
+        height: 10px;
     }
 
     .page-header {

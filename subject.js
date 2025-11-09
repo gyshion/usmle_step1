@@ -172,7 +172,20 @@ function displayQuestions() {
 // 格式化标签
 function formatTags(tags) {
     if (!tags) return '';
-    const tagArray = tags.split(';').map(t => t.trim()).filter(t => t);
+
+    // 处理不同类型的tags
+    let tagArray;
+    if (Array.isArray(tags)) {
+        // tags已经是数组
+        tagArray = tags;
+    } else if (typeof tags === 'string') {
+        // tags是字符串，需要分割
+        tagArray = tags.split(';').map(t => t.trim()).filter(t => t);
+    } else {
+        // tags是其他类型，返回空
+        return '';
+    }
+
     return tagArray.slice(0, 3).map(tag => `<span class="tag">${tag}</span>`).join(' ');
 }
 

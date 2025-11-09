@@ -1,0 +1,32 @@
+# Firebase配置（可能包含敏感信息）
+# Firebase config (may contain sensitive info)
+# 如果需要公开部署，请确保API密钥配置了适当的安全规则
+# If deploying publicly, ensure API keys have proper security rules
+# firebase-config.js
+
+# 开发工具
+# Development tools
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Firebase
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+
+# Node modules (如果使用)
+node_modules/
+package-lock.json
+
+# 备份文件
+*.backup
+*.bak
+*~

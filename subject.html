@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question List | USMLE Step 1</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="subject-page">
+    <!-- 语言切换 -->
+    <div class="language-switcher">
+        <button class="lang-btn active" data-lang="en">Eng</button>
+        <button class="lang-btn" data-lang="zh">中</button>
+        <button class="lang-btn" data-lang="both">Both</button>
+        <button class="lang-btn logout-btn" id="logout-btn">
+            <span class="text-zh">登出</span>
+            <span class="text-en">Logout</span>
+        </button>
+    </div>
+
+    <!-- 主容器 -->
+    <div class="container">
+        <!-- 头部 -->
+        <div class="page-header">
+            <button class="back-btn" id="back-btn">
+                <span class="text-zh">← 返回主页</span>
+                <span class="text-en">← Back to Home</span>
+            </button>
+            <h1 class="page-title" id="subject-title">
+                <span class="text-zh">题目列表</span>
+                <span class="text-en">Question List</span>
+            </h1>
+            <div class="header-actions">
+                <button class="action-btn" id="shuffle-btn" title="Random Shuffle | 随机排序">
+                    Shuffle
+                </button>
+                <button class="action-btn error-btn" id="errors-btn" title="Wrong Questions | 错题集">
+                    Errors <span class="badge" id="error-count">0</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- 加载指示器 -->
+        <div class="loading-container" id="loading">
+            <div class="spinner"></div>
+            <p>
+                <span class="text-zh">正在加载题目...</span>
+                <span class="text-en">Loading questions...</span>
+            </p>
+        </div>
+
+        <!-- 题目表格 -->
+        <div class="table-container hidden" id="table-container">
+            <table class="question-table">
+                <thead>
+                    <tr>
+                        <th class="sortable" data-sort="days">
+                            <span class="text-zh">天数</span>
+                            <span class="text-en">Days</span>
+                            <span class="sort-indicator"></span>
+                        </th>
+                        <th class="sortable" data-sort="id">
+                            <span class="text-zh">题号</span>
+                            <span class="text-en">Q#</span>
+                            <span class="sort-indicator"></span>
+                        </th>
+                        <th class="sortable" data-sort="status">
+                            <span class="text-zh">状态</span>
+                            <span class="text-en">Status</span>
+                            <span class="sort-indicator"></span>
+                        </th>
+                        <th>
+                            <span class="text-zh">标签</span>
+                            <span class="text-en">Tags</span>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody id="question-tbody">
+                    <!-- 动态生成 -->
+                </tbody>
+            </table>
+        </div>
+
+        <!-- 空状态 -->
+        <div class="empty-state hidden" id="empty-state">
+            <p>
+                <span class="text-zh">没有找到题目</span>
+                <span class="text-en">No questions found</span>
+            </p>
+        </div>
+    </div>
+
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore-compat.js"></script>
+
+    <!-- 配置和脚本 -->
+    <script src="firebase-config.js"></script>
+    <script src="data-loader.js"></script>
+    <script src="subject.js"></script>
+</body>
+</html>

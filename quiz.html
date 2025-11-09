@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz | USMLE Step 1</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="quiz-page">
+    <!-- 语言切换 -->
+    <div class="language-switcher">
+        <button class="lang-btn active" data-lang="en">Eng</button>
+        <button class="lang-btn" data-lang="zh">中</button>
+        <button class="lang-btn" data-lang="both">Both</button>
+    </div>
+
+    <!-- 主容器 -->
+    <div class="container">
+        <!-- 头部 -->
+        <div class="quiz-header">
+            <button class="back-btn" id="back-btn">
+                <span class="text-zh">← 返回</span>
+                <span class="text-en">← Back</span>
+            </button>
+            <div class="quiz-info">
+                <span id="question-progress">Question 1 of 10</span>
+                <span id="question-id" class="question-id">Q#123</span>
+            </div>
+        </div>
+
+        <!-- 加载指示器 -->
+        <div class="loading-container" id="loading">
+            <div class="spinner"></div>
+            <p>
+                <span class="text-zh">正在加载...</span>
+                <span class="text-en">Loading...</span>
+            </p>
+        </div>
+
+        <!-- 题目卡片 -->
+        <div class="quiz-card hidden" id="quiz-card">
+            <!-- 题干 -->
+            <div class="question-stem" id="question-stem"></div>
+
+            <!-- 问题 -->
+            <div class="question-text" id="question-text"></div>
+
+            <!-- 选项 -->
+            <div class="options-container" id="options-container">
+                <!-- 动态生成 -->
+            </div>
+
+            <!-- 答案和解析区域 -->
+            <div class="answer-section hidden" id="answer-section">
+                <div class="correct-answer">
+                    <strong>
+                        <span class="text-zh">正确答案：</span>
+                        <span class="text-en">Correct Answer: </span>
+                    </strong>
+                    <span id="correct-answer-text"></span>
+                </div>
+
+                <div class="explanation">
+                    <strong>
+                        <span class="text-zh">详细解析</span>
+                        <span class="text-en">Explanation</span>
+                    </strong>
+                    <div id="explanation-text"></div>
+                </div>
+
+                <!-- 掌握状态按钮 -->
+                <div class="mastery-buttons">
+                    <button class="mastery-btn not-mastered" id="not-mastered-btn">
+                        <span class="text-zh">还不会</span>
+                        <span class="text-en">Not Yet</span>
+                    </button>
+                    <button class="mastery-btn mastered" id="mastered-btn">
+                        <span class="text-zh">会了</span>
+                        <span class="text-en">Got It</span>
+                    </button>
+                </div>
+
+                <!-- 下一题按钮 -->
+                <button class="next-btn" id="next-btn">
+                    <span class="text-zh">下一题</span>
+                    <span class="text-en">Next</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Exhibit 模态框 -->
+    <div class="exhibit-modal hidden" id="exhibit-modal">
+        <div class="exhibit-content">
+            <button class="close-btn" id="close-exhibit">×</button>
+            <img id="exhibit-image" src="" alt="Exhibit">
+        </div>
+    </div>
+
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore-compat.js"></script>
+
+    <!-- 配置和脚本 -->
+    <script src="firebase-config.js"></script>
+    <script src="data-loader.js"></script>
+    <script src="quiz.js"></script>
+</body>
+</html>

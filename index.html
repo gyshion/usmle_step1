@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>USMLE Step 1 Review System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="main-page">
+    <!-- 语言切换和登出 -->
+    <div class="language-switcher">
+        <button class="lang-btn active" data-lang="en">Eng</button>
+        <button class="lang-btn" data-lang="zh">中</button>
+        <button class="lang-btn" data-lang="both">Both</button>
+        <button class="lang-btn logout-btn" id="logout-btn">
+            <span class="text-zh">登出</span>
+            <span class="text-en">Logout</span>
+        </button>
+    </div>
+
+    <!-- 主容器 -->
+    <div class="container">
+        <!-- 欢迎信息 -->
+        <div class="welcome-section">
+            <h1 class="main-title">
+                <span class="text-zh">USMLE Step 1 复习系统</span>
+                <span class="text-en">USMLE Step 1 Review System</span>
+            </h1>
+            <p class="user-info" id="user-info">
+                <span class="text-zh">欢迎</span>
+                <span class="text-en">Welcome</span>
+                <span id="user-email"></span>
+            </p>
+        </div>
+
+        <!-- 科目选择 -->
+        <div class="subject-section">
+            <h2 class="section-title">
+                <span class="text-zh">选择复习科目</span>
+                <span class="text-en">Select Subject</span>
+            </h2>
+            <div class="loading" id="subjects-loading">
+                <span class="text-zh">加载中...</span>
+                <span class="text-en">Loading...</span>
+            </div>
+            <div class="subject-grid" id="subject-grid">
+                <!-- 动态生成科目卡片 -->
+            </div>
+        </div>
+
+        <!-- 学习统计 -->
+        <div class="stats-section">
+            <h2 class="section-title">
+                <span class="text-zh">学习统计</span>
+                <span class="text-en">Study Statistics</span>
+            </h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number" id="total-studied">0</div>
+                    <div class="stat-label">
+                        <span class="text-zh">已学习</span>
+                        <span class="text-en">Studied</span>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="total-mastered">0</div>
+                    <div class="stat-label">
+                        <span class="text-zh">已掌握</span>
+                        <span class="text-en">Mastered</span>
+                    </div>
+                </div>
+                <div class="stat-card error-card">
+                    <div class="stat-number" id="total-errors">0</div>
+                    <div class="stat-label">
+                        <span class="text-zh">错题数</span>
+                        <span class="text-en">Errors</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 错题集按钮 -->
+        <div class="action-section">
+            <button class="primary-btn error-btn" id="review-errors-btn">
+                <span class="text-zh">复习错题集</span>
+                <span class="text-en">Review Error Collection</span>
+            </button>
+        </div>
+    </div>
+
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore-compat.js"></script>
+
+    <!-- 配置和脚本 -->
+    <script src="firebase-config.js"></script>
+    <script src="data-loader.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

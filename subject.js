@@ -159,6 +159,11 @@ function displayQuestions() {
         `;
 
         row.addEventListener('click', () => {
+            // 保存当前题目列表顺序到sessionStorage
+            const questionIds = questions.map(q => q.question_id);
+            sessionStorage.setItem('questionList', JSON.stringify(questionIds));
+            sessionStorage.setItem('currentSubject', currentSubject.key);
+
             window.location.href = `quiz.html?subject=${currentSubject.key}&question=${q.question_id}`;
         });
 

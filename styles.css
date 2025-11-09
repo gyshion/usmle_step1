@@ -878,8 +878,15 @@ body {
     color: var(--color-success);
 }
 
-.next-btn {
-    width: 100%;
+/* 导航按钮容器 */
+.navigation-buttons {
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.nav-btn {
+    flex: 1;
     padding: 15px;
     background: var(--color-primary);
     color: white;
@@ -889,6 +896,19 @@ body {
     font-weight: 600;
     cursor: pointer;
     transition: all 0.3s;
+}
+
+.nav-btn:hover:not(:disabled) {
+    background: var(--color-primary-dark);
+}
+
+.nav-btn:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+}
+
+.next-btn {
+    background: var(--color-primary);
 }
 
 .next-btn:hover {

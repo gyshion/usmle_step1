@@ -90,19 +90,36 @@ async function loadQuestions() {
                 return;
             }
         } else if (questionId) {
-            // 单题模式
-            const question = allQuestions.find(q => q.question_id === questionId);
-            if (question) {
-                questions = [question];
+            // 从subject页面传递的题目列表
+            const questionListStr = sessionStorage.getItem('questionList');
+            const storedSubject = sessionStorage.getItem('currentSubject');
+
+            if (questionListStr && storedSubject === subjectKey) {
+                // 使用传递的题目顺序
+                const questionList = JSON.parse(questionListStr);
+                questions = questionList.map(qid =>
+                    allQuestions.find(q => q.question_id === qid)
+                ).filter(q => q !== undefined);
+
+                // 找到当前题目的索引
+                currentIndex = questions.findIndex(q => q.question_id === questionId);
+                if (currentIndex === -1) currentIndex = 0;
             } else {
-                throw new Error('Question not found');
+                // 单题模式（如果没有列表）
+                const question = allQuestions.find(q => q.question_id === questionId);
+                if (question) {
+                    questions = [question];
+                    currentIndex = 0;
+                } else {
+                    throw new Error('Question not found');
+                }
             }
         } else {
             // 全部题目模式
             questions = allQuestions;
         }
 
-        // 显示第一题
+        // 显示当前题
         displayQuestion();
 
         document.getElementById('loading').classList.add('hidden');
@@ -186,6 +203,27 @@ function getText(obj, lang) {
     }
 }
 
+// 格式化解析文本（分段显示）
+function formatExplanation(text) {
+    if (!text) return '';
+
+    // 按照双换行符分段
+    let paragraphs = text.split('\n\n');
+
+    // 如果没有双换行符，尝试按单换行符分段
+    if (paragraphs.length === 1) {
+        paragraphs = text.split('\n');
+    }
+
+    // 过滤掉空段落并添加段落标签
+    paragraphs = paragraphs
+        .map(p => p.trim())
+        .filter(p => p.length > 0)
+        .map(p => `<p>${p}</p>`);
+
+    return paragraphs.join('');
+}
+
 // 显示选项
 function displayOptions(q) {
     const container = document.getElementById('options-container');
@@ -252,8 +290,10 @@ function showAnswer(isCorrect) {
     const correctText = getText(q.options[q.correct_answer], lang);
     document.getElementById('correct-answer-text').innerHTML = `<strong>${q.correct_answer}</strong>: ${correctText}`;
 
-    // 显示解析
-    const explanationText = getText(q.explanation, lang);
+    // 显示解析（处理exhibit和分段）
+    let explanationText = getText(q.explanation, lang);
+    explanationText = processExhibits(explanationText, q);
+    explanationText = formatExplanation(explanationText);
     document.getElementById('explanation-text').innerHTML = explanationText;
 
     // 显示答案区域
@@ -330,12 +370,53 @@ function nextQuestion() {
     if (currentIndex < questions.length - 1) {
         currentIndex++;
         displayQuestion();
+        updateNavigationButtons();
         window.scrollTo(0, 0);
     } else {
         // 已完成所有题目
         if (confirm('已完成所有题目！返回题目列表？\nAll questions completed! Back to question list?')) {
             window.history.back();
         }
+    }
+}
+
+// 上一题
+function prevQuestion() {
+    if (currentIndex > 0) {
+        currentIndex--;
+        displayQuestion();
+        updateNavigationButtons();
+        window.scrollTo(0, 0);
+    }
+}
+
+// 更新导航按钮状态
+function updateNavigationButtons() {
+    const prevBtn = document.getElementById('prev-btn');
+    const nextBtn = document.getElementById('next-btn');
+
+    // 如果是第一题，禁用上一题按钮
+    if (currentIndex === 0) {
+        prevBtn.disabled = true;
+        prevBtn.style.opacity = '0.5';
+        prevBtn.style.cursor = 'not-allowed';
+    } else {
+        prevBtn.disabled = false;
+        prevBtn.style.opacity = '1';
+        prevBtn.style.cursor = 'pointer';
+    }
+
+    // 如果是最后一题，更新下一题按钮文字
+    if (currentIndex === questions.length - 1) {
+        nextBtn.innerHTML = `
+            <span class="text-zh">返回列表</span>
+            <span class="text-en">Back to List</span>
+        `;
+    } else {
+        nextBtn.innerHTML = `
+            <span class="text-zh">下一题 →</span>
+            <span class="text-en">Next →</span>
+        `;
     }
 }
 
@@ -390,5 +471,9 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     document.getElementById('mastered-btn').addEventListener('click', () => markAsMastered(true));
     document.getElementById('not-mastered-btn').addEventListener('click', () => markAsMastered(false));
+    document.getElementById('prev-btn').addEventListener('click', prevQuestion);
     document.getElementById('next-btn').addEventListener('click', nextQuestion);
+
+    // 初始化导航按钮状态
+    updateNavigationButtons();
 });

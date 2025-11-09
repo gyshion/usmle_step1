@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 56-year-old man comes to the emergency department due to fever and malaise for the past day. The patient was recently diagnosed with diffuse large B-cell lymphoma and completed the first cycle of combination chemotherapy 10 days ago. Temperature is 38.4 C (101.1 F). Physical examination is unremarkable with the exception of diffuse lymphadenopathy. The patient is hospitalized, and empiric antibiotics are initiated. Two days later, blood cultures drawn on admission grow yeast forms with pseudohyphae and demonstrate an ability to form germ tubes.",
+    "zh": "一名56岁男性因发烧和不适于过去一天来到急诊科就诊。该患者最近被诊断患有弥漫性大B细胞淋巴瘤，并在10天前完成了第一周期的联合化疗。体温为38.4摄氏度（101.1华氏度）。体格检查无特殊发现，除了弥漫性淋巴结病。患者住院治疗，并开始经验性抗生素治疗。两天后，入院时抽取的血培养生长出酵母形式，具有假菌丝，并显示出形成芽管的能力。"
+  },
+  "question": {
+    "en": "Which of the following immunodeficiency mechanisms is most likely responsible for the invasiveness of this patient's infection?",
+    "zh": "以下哪种免疫缺陷机制最有可能导致该患者感染的侵袭性？"
+  },
+  "options": {
+    "A": {
+      "en": "Complement deficiency",
+      "zh": "补体缺陷"
+    },
+    "B": {
+      "en": "Hypogammaglobulinemia",
+      "zh": "低丙种球蛋白血症"
+    },
+    "C": {
+      "en": "Low eosinophil count",
+      "zh": "嗜酸性粒细胞计数低"
+    },
+    "D": {
+      "en": "Low neutrophil count",
+      "zh": "嗜中性粒细胞计数低"
+    },
+    "E": {
+      "en": "Low T-lymphocyte count",
+      "zh": "T淋巴细胞计数低"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient underwent cytotoxic chemotherapy and subsequently developed a bloodstream infection with *Candida albicans*, a small, elliptical, budding yeast. Visualization of *pseudohyphae*, a chain of budding yeasts joined together with end-to-end at constrictions, is an important diagnostic clue. *C albicans* is distinguished from other *Candida* species by its ability to form *germ tubes* (true hyphae with no constrictions) when incubated at 37 C (98.6 F) for 2-3 hours (ie, germ tube test).\n\n*C albicans* is a human commensal organism that may cause mucocutaneous infection in otherwise healthy individuals but rarely causes invasive disease. Protection against infection is mediated by the following:\n\n*   Intact epithelium: *Candida* triggers toll-like receptors on epithelial cells to release proinflammatory cytokines, which recruit immune cells to the area; epithelial cells also release beta-defensins, which provide antifungal activity.\n*   Resident macrophages/monocytes: Penetration of epithelial cells by fungal hyphae causes resident macrophages to release inflammatory cytokines that recruit lymphocytes, monocytes, and neutrophils to the area of infection. T helper lymphocytes specific for *Candida* antigens help drive the epithelial and macrophage response, and are important for prevention of superficial *Candida* infection (eg, oral/esophageal, cutaneous, vulvovaginitis).\n*   Neutrophils: Neutrophils are the most important immune cell in the protection against invasive *Candida* (eg, candidemia, deep tissue infections). Neutrophils kill *Candida* by releasing reactive oxygen species, lactoferrin, lysozyme, elastase, and beta-defensins. They are also the only immune cell that is able to prevent germination of *Candida* yeasts into penetrating hyphae.\n\nPatients who undergo cytotoxic chemotherapy and develop NEUTROPENIA are at dramatically increased risk for invasive infection. Indwelling central intravascular catheters are also a major risk factor for invasive disease.\n\n(Choice A) Early complement proteins (eg, C3b, C5b) assist opsonization, and late complement proteins (C5-C9) form the membrane attack complex. Complement is crucial for control of bacterial infections, but it plays a minimal role in the control of *Candida*. In addition, complement levels are not particularly diminished by chemotherapy.\n\n(Choice B) *Candida* is primarily controlled by neutrophils, macrophages, and helper T cells; immunoglobulins have more of an adjunctive role. In addition, immunoglobulin levels are not typically affected by most cytotoxic chemotherapy because memory B cells are long lasting and have low rates of cellular division.\n\n(Choice C) Although chemotherapy impairs the production of granulocytes, which include eosinophils, basophils, and neutrophils, transient reduction in eosinophil and basophil count does not drastically increase risk of infection.\n\n(Choice E) T lymphocytes (particularly Tₕ1 and Tₕ17 subtypes) primarily prevent superficial *Candida* infection by strengthening the mucosal immune defense; conditions that impair cell-mediated immunity (eg, HIV) are associated with higher risk of mucocutaneous *Candida* infection (eg, thrush, esophagitis). However, protection against invasive disease is mediated primarily by neutrophils, not lymphocytes.\n\nEducational objective:\nNeutrophils are the most important immune cell in the defense against invasive *Candida* infection; therefore, patients with neutropenia (eg, following cytotoxic chemotherapy) are at high risk for invasive disease (eg, candidemia, meningitis). In contrast, T lymphocytes are more important for prevention of superficial, mucocutaneous infection (eg, thrush).",
+    "zh": "该患者接受了细胞毒性化疗，随后发展为由白色念珠菌（*Candida albicans*）引起的血流感染，这是一种小的、椭圆形的芽殖酵母菌。观察到*假菌丝*，这是一串芽殖酵母菌通过末端收缩连接在一起，是重要的诊断线索。 白色念珠菌与其他念珠菌属的区别在于它在37摄氏度（98.6华氏度）孵育2-3小时后能够形成*芽管*（没有收缩的真菌丝）（即，芽管试验）。\n\n白色念珠菌是一种人类共生生物，可能在其他方面健康的个体中引起皮肤黏膜感染，但很少引起侵袭性疾病。防止感染的机制如下：\n\n*   完整的上皮：念珠菌触发上皮细胞上的Toll样受体释放促炎细胞因子，这些细胞因子将免疫细胞募集到该区域；上皮细胞还释放β-防御素，提供抗真菌活性。\n*   驻留巨噬细胞/单核细胞：真菌菌丝穿透上皮细胞会导致驻留巨噬细胞释放炎症细胞因子，将淋巴细胞、单核细胞和中性粒细胞募集到感染区域。针对念珠菌抗原的T辅助淋巴细胞有助于驱动上皮和巨噬细胞反应，并且对于预防浅表念珠菌感染（例如，口腔/食道、皮肤、外阴阴道炎）很重要。\n*   中性粒细胞：中性粒细胞是抵抗侵袭性念珠菌（例如，念珠菌血症、深部组织感染）最重要的免疫细胞。中性粒细胞通过释放活性氧、乳铁蛋白、溶菌酶、弹性蛋白酶和β-防御素来杀死念珠菌。它们也是唯一能够阻止念珠菌酵母菌发育成穿透性菌丝的免疫细胞。\n\n接受细胞毒性化疗并发生中性粒细胞减少症的患者发生侵袭性感染的风险显着增加。留置中心血管内导管也是侵袭性疾病的主要危险因素。\n\n（选项 A）早期补体蛋白（例如，C3b，C5b）协助调理吞噬，晚期补体蛋白（C5-C9）形成膜攻击复合物。补体对于控制细菌感染至关重要，但它在控制念珠菌方面作用很小。此外，化疗并不会特别降低补体水平。\n\n（选项 B）念珠菌主要由中性粒细胞、巨噬细胞和辅助T细胞控制；免疫球蛋白起辅助作用。此外，大多数细胞毒性化疗通常不会影响免疫球蛋白水平，因为记忆B细胞寿命长，细胞分裂率低。\n\n（选项 C）虽然化疗会损害包括嗜酸性粒细胞、嗜碱性粒细胞和中性粒细胞在内的粒细胞的产生，但嗜酸性粒细胞和嗜碱性粒细胞计数的短暂减少并不会显着增加感染风险。\n\n（选项 E）T淋巴细胞（尤其是Tₕ1和Tₕ17亚型）主要通过加强黏膜免疫防御来预防浅表念珠菌感染；损害细胞介导免疫的疾病（例如，HIV）与更高的皮肤黏膜念珠菌感染风险相关（例如，鹅口疮、食管炎）。然而，抵抗侵袭性疾病的保护主要由中性粒细胞介导，而不是淋巴细胞。\n\n教学目标：\n中性粒细胞是抵抗侵袭性念珠菌感染最重要的免疫细胞；因此，中性粒细胞减少症患者（例如，在细胞毒性化疗后）发生侵袭性疾病（例如，念珠菌血症、脑膜炎）的风险很高。相比之下，T淋巴细胞对于预防浅表的、皮肤黏膜感染（例如，鹅口疮）更为重要。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the immunodeficiency mechanisms that predispose patients to invasive Candida infections, particularly in the context of chemotherapy-induced neutropenia. It emphasizes the critical role of neutrophils in preventing invasive candidiasis.\n\nTo solve this question, recognize the patient's risk factors (chemotherapy, neutropenia) and the type of infection (invasive Candida). Then, identify the immune cell most important for defense against invasive Candida, which is neutrophils.",
+    "zh": "这个问题测试对易患侵袭性念珠菌感染的免疫缺陷机制的了解，尤其是在化疗引起的中性粒细胞减少症的背景下。它强调了中性粒细胞在预防侵袭性念珠菌病中的关键作用。\n\n要解决这个问题，需要认识到患者的危险因素（化疗、中性粒细胞减少症）和感染类型（侵袭性念珠菌）。然后，确定对抵抗侵袭性念珠菌最重要的免疫细胞，即中性粒细胞。"
+  },
+  "tags": "Candida albicans; Invasive candidiasis; Neutropenia; Chemotherapy; Immunodeficiency; Fungal infections; Neutrophils; Pseudohyphae; Germ tubes; Infectious diseases",
+  "category": "Micro",
+  "question_id": "112",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\112",
+  "extracted_at": "2025-11-05T14:50:09.517541",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:05:15.775781",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

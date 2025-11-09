@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old man comes to the emergency department due to a 1-week history of progressively worsening shortness of breath and cough. The shortness of breath is exacerbated when the patient lies flat in bed; he has to prop himself up with 3 pillows to sleep well at night. He was treated for a myocardial infarction 2 weeks ago and had 2 stents placed in the left anterior descending artery. The patient's other medical conditions include long-standing hypertension and type 2 diabetes mellitus. Blood pressure is 120/80 mm Hg, pulse is 92/min, and respirations are 22/min. Pulse oximetry is 89% on room air. Physical examination reveals bilateral crackles at the lung bases and an S3.",
+    "zh": "一名63岁男性因进行性加重的呼吸困难和咳嗽1周而到急诊科就诊。当患者平躺在床上时，呼吸困难加重；他必须用3个枕头垫高自己才能在夜间安睡。2周前他接受了心肌梗死治疗，并在左前降支动脉植入了2个支架。患者的其他疾病包括长期高血压和2型糖尿病。血压120/80 mmHg，脉搏92次/分，呼吸22次/分。在常温空气下脉搏血氧饱和度为89%。体格检查显示双肺底部有啰音，并有S3。"
+  },
+  "question": {
+    "en": "Which of the following is most likely present in this patient?",
+    "zh": "该患者最有可能出现以下哪种情况？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased alveolar surface tension",
+      "zh": "肺泡表面张力降低"
+    },
+    "B": {
+      "en": "Decreased lung compliance",
+      "zh": "肺顺应性降低"
+    },
+    "C": {
+      "en": "Increased dead space ventilation",
+      "zh": "无效腔通气增加"
+    },
+    "D": {
+      "en": "Increased functional residual capacity",
+      "zh": "功能残气量增加"
+    },
+    "E": {
+      "en": "Left-to-right cardiac shunting",
+      "zh": "左向右心内分流"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's dyspnea, orthopnea, bibasilar crackles, and S3 suggest LEFT-SIDED HEART FAILURE due to recent myocardial infarction (MI). Atherosclerotic plaque rupture in the left anterior descending or left circumflex artery can infarct large areas of the left ventricular myocardium, leading to decreased contractility and reduced cardiac output. This can result in elevation of end-diastolic pressure that impairs diastolic return from the pulmonary veins, leading to increased hydrostatic pressure in the pulmonary capillaries with transudation of fluid into the lung parenchyma (PULMONARY EDEMA).\n\nPulmonary edema in the alveoli impairs ventilation and causes intrapulmonary shunting. In addition, edema in the lung interstitium makes the lungs heavy and stiff, restricting pulmonary expansion during inspiration. This decreased lung compliance can mimic that seen with other causes of restrictive lung physiology (eg, interstitial lung disease).\n\n(Choice A) Surfactant decreases the surface tension of the fluid layer that lines alveolar cells, helping prevent alveolar collapse. Pulmonary edema dilutes pulmonary surfactant, increasing both alveolar surface tension and the tendency for alveolar collapse.\n\n(Choice C) Ventilation-perfusion (V/Q) mismatch exists on a spectrum with intrapulmonary shunting (perfusion without ventilation) and dead space ventilation (ventilation without perfusion) on either end. Pulmonary edema causes V/Q mismatch via increased intrapulmonary shunting with a corresponding decrease in dead space ventilation. V/Q mismatch via increased dead space ventilation is seen with pulmonary embolism.\n\n(Choice D) Functional residual capacity is the volume of air in the lungs at the end of normal expiration. It is increased in conditions with increased lung compliance (eg, chronic obstructive pulmonary disease) and decreased in conditions such as pulmonary edema that reduce lung compliance.\n\n(Choice E) Interventricular septal rupture is a mechanical complication of MI that causes left-to-right cardiac shunting. However, this complication usually occurs within 3-5 days following MI and precipitates a dramatic and acute, rather than gradual, presentation of heart failure.",
+    "zh": "该患者的呼吸困难、端坐呼吸、双肺底部啰音和S3提示近期心肌梗死（MI）引起的左心衰竭。左前降支或左回旋动脉的动脉粥样硬化斑块破裂可导致左心室心肌大面积梗死，导致收缩力降低和心输出量减少。这会导致舒张末期压力升高，从而损害肺静脉的舒张期回流，导致肺毛细血管内静水压升高，液体渗入肺实质（肺水肿）。\n\n肺泡内的肺水肿会损害通气并导致肺内分流。此外，肺间质水肿使肺部沉重而僵硬，限制了吸气时的肺扩张。这种肺顺应性降低可能类似于其他限制性肺生理学原因所见（例如，间质性肺病）。\n\n（选项A）表面活性剂可降低覆盖肺泡细胞的液体层的表面张力，有助于防止肺泡塌陷。肺水肿会稀释肺表面活性剂，增加肺泡表面张力以及肺泡塌陷的趋势。\n\n（选项C）通气-血流比（V/Q）失调存在于一个谱系中，其两端分别是肺内分流（无通气的灌注）和无效腔通气（无灌注的通气）。肺水肿通过增加肺内分流导致V/Q失调，同时导致无效腔通气相应减少。肺栓塞可见通过增加无效腔通气引起的V/Q失调。\n\n（选项D）功能残气量是指正常呼气结束时肺内的空气量。在肺顺应性增加的情况下（例如，慢性阻塞性肺病）它会增加，而在肺水肿等降低肺顺应性的情况下会减少。\n\n（选项E）室间隔破裂是MI的一种机械并发症，可引起左向右心内分流。然而，这种并发症通常在MI后3-5天内发生，并会引发急剧而急性的心力衰竭表现，而不是逐渐出现。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of left-sided heart failure following myocardial infarction, specifically the pathophysiology of pulmonary edema and its effect on lung compliance. The question requires recognizing the clinical signs and symptoms of heart failure and understanding the resulting changes in lung mechanics.\n\nThe approach to solving this question involves identifying the key findings suggestive of heart failure (dyspnea, orthopnea, crackles, S3), understanding the underlying mechanism of pulmonary edema, and relating it to the resulting decrease in lung compliance. Ruling out other causes of respiratory distress is also important.",
+    "zh": "本题考察了心肌梗死后左心衰竭的知识，特别是肺水肿的病理生理学及其对肺顺应性的影响。本题需要识别心力衰竭的临床体征和症状，并了解由此导致的肺力学变化。\n\n解决此问题的方法包括识别提示心力衰竭的关键发现（呼吸困难、端坐呼吸、啰音、S3），了解肺水肿的潜在机制，并将其与由此导致的肺顺应性降低联系起来。排除其他呼吸窘迫的原因也很重要。"
+  },
+  "tags": "Left-sided heart failure; Pulmonary edema; Lung compliance; Myocardial infarction; Cardiology; Respiratory system; Orthopnea; Dyspnea",
+  "category": "Chest",
+  "question_id": "1585",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1585",
+  "extracted_at": "2025-11-05T11:40:59.525269",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:36:14.061231",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

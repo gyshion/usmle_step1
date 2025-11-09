@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man with an unremarkable past medical history is evaluated for an enlarged lymph node in his anterior cervical chain that measures 4 cm in diameter. The patient first felt the lymph node several weeks ago and states that it has been steadily increasing in size. He is concerned about whether or not he \"has cancer.\" The patient is referred to a specialist for surgical removal of the enlarged node. Biopsy reveals abnormal lymph node architecture and numerous lymphocytes.",
+    "zh": "一名病史无特殊之处的34岁男性因其前颈链的一个淋巴结肿大而接受评估，该淋巴结直径为4 cm。患者几周前首次感觉到淋巴结，并表示其大小一直在稳步增加。他担心自己“是否患有癌症”。患者被转诊给专家进行手术切除肿大的淋巴结。活检显示淋巴结结构异常，并有大量淋巴细胞。"
+  },
+  "question": {
+    "en": "Which of the following, if present, would be most consistent with malignancy in this patient?",
+    "zh": "如果存在以下哪一项，最符合该患者的恶性肿瘤情况？"
+  },
+  "options": {
+    "A": {
+      "en": "Lymphocyte pleomorphism",
+      "zh": "淋巴细胞多形性"
+    },
+    "B": {
+      "en": "Abundant mitotic figures within the lymph node",
+      "zh": "淋巴结内有大量有丝分裂象"
+    },
+    "C": {
+      "en": "Nuclear changes in lymphocytes",
+      "zh": "淋巴细胞的核改变"
+    },
+    "D": {
+      "en": "Monoclonal T-cell receptor gene rearrangements",
+      "zh": "单克隆T细胞受体基因重排"
+    },
+    "E": {
+      "en": "Admixture of several lymphoid cell types within the lymph node",
+      "zh": "淋巴结内几种淋巴细胞类型的混合"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Lyphadenopathy\ncan\nrepresent inflammatory changes within the lymph node (reactive hyperplasia) or malignant\ntransformation. Reactive hyperplasia is a broad term that encompasses all benign, reversible enlargement of the\nlymphoid tissue secondary to an antigenic stimulus. The nodal response to antigenic stimuli is highly variable and\ncan be classified as follicular hyperplasia, sinus hyperplasia, or diffuse hyperplasia. Follicular hyperplasia occurs\nwhen the follicles increase in size and number, whereas sinus hyperplasia occurs when the sinuses enlarge and fill\nwith histiocytes. Diffuse hyperplasia is observed when the nodal architecture is diffusely effaced by sheets of\nlymphocytes, immunoblasts, and macrophages. When malignant transformation occurs (as in lymphomas), the\nnormal lymph node architecture is distorted or effaced by the proliferation of malignant lymphoid cells, often to a\ngreater extent than that seen with reactive hyperplasia. Malignancy-associated effacement of nodal architecture\nmay be follicular or diffuse.\n\nReactive lymphoid hyperplasia is polyclonal in that it consists of a proliferation of many different cell types within\nthe lymph node. For each type of lymphocyte responding to an antigenic stimulus, multiple genetically-distinct\ncells of that variety undergo limited monoclonal expansion, leading to an overall polyclonal response. Malignant\ntransformation, in contrast, is monoclonal in that it results from the unchecked proliferation of a single genetically\nunique cell from only one cell line.\n\nEvaluation for monoclonality of the lymphocyte population is important when lymphoma is suspected. The clonality\nof a T-cell population is assessed by molecular methods, such as PCR, that examine the rearrangement of T-cell\nreceptor (TCR) genes. If a single allele for the V region of the T-cell receptor predominates in a lymphocytic\npopulation, monoclonal proliferation is suspected. The same principle applies when assessing B-cell clonality.\nMonoclonal rearrangement of the genes for immunoglobulin variable regions is suggestive of a B-cell lymphoma.\nOf the choices given, monoclonal TCR gene rearrangement is most indicative of malignant processes, especially in\nthe context of appropriate clinical features (i.e., weight loss, night sweats, fever, anorexia).\n\n(Choices A, B, & C) Pleomorphism, increased mitoses, and nuclear changes are all commonly seen in the\nlymphocytes of a reactive hyperplastic lymph node. These findings do not automatically classify the specimen as\nmalignant.\n\n(Choice E) An admixture of several lymphoid cell types in a lymph node is suggestive of a benign process. A\npredominantly monomorphic cell population is indicative of malignancy and is characteristic of non-Hodgkin's\nlymphoma. Hodgkin's lymphoma does demonstrate an admixture of several lymphoid cell types within the lymph\nnodes; however, this does not distinguish Hodgkin's lymphoma from reactive hyperplasia. Additionally,\ngenetic analysis of Reed-Sternberg cells most often reveals monoclonal characteristics.\n\nEducational objective:\nBenign lymph node enlargement in response to antigenic stimulation is associated with a polyclonal proliferation of\nlymphocytes. A monoclonal lymphocytic proliferation is strong evidence of malignancy.",
+    "zh": "淋巴结病\n可能代表淋巴结内的炎症变化（反应性增生）或恶性转化。反应性增生是一个广泛的术语，涵盖了所有良性、可逆的淋巴组织因抗原刺激而引起的肿大。淋巴结对抗原刺激的反应高度可变，可分为滤泡性增生、窦性增生或弥漫性增生。滤泡性增生发生在滤泡大小和数量增加时，而窦性增生发生在窦扩张并充满组织细胞时。弥漫性增生发生在淋巴结结构被淋巴细胞、免疫母细胞和巨噬细胞广泛消蚀时。当发生恶性转化（如淋巴瘤）时，正常的淋巴结结构会因恶性淋巴细胞的增殖而发生变形或消蚀，程度通常大于反应性增生。与恶性肿瘤相关的淋巴结结构消蚀可以是滤泡性或弥漫性的。\n\n反应性淋巴样增生是多克隆的，因为它由淋巴结内多种不同细胞类型的增殖组成。对于每种对抗原刺激产生反应的淋巴细胞，该类型的多个遗传上不同的细胞会发生有限的单克隆扩增，从而导致总体的多克隆反应。相比之下，恶性转化是单克隆的，因为它是由来自单个细胞系的单个遗传上独特的细胞的不受控制的增殖引起的。\n\n当怀疑患有淋巴瘤时，评估淋巴细胞群体的单克隆性非常重要。通过分子方法（如PCR）评估T细胞群体的克隆性，这些方法检查T细胞受体(TCR)基因的重排。如果T细胞受体V区的一个等位基因在淋巴细胞群体中占主导地位，则怀疑发生单克隆增殖。评估B细胞克隆性时也适用相同的原则。免疫球蛋白可变区基因的单克隆重排提示B细胞淋巴瘤。\n在给出的选项中，单克隆TCR基因重排最能表明恶性过程，尤其是在适当的临床特征（即体重减轻、盗汗、发烧、厌食）的背景下。\n\n（选项A、B和C）多形性、有丝分裂增加和核改变都常见于反应性增生性淋巴结的淋巴细胞中。这些发现并不能自动将标本归类为恶性。\n\n（选项E）淋巴结中几种淋巴细胞类型的混合提示良性过程。单形性细胞群主要提示恶性肿瘤，是non-Hodgkin淋巴瘤的特征。霍奇金淋巴瘤确实显示淋巴结内几种淋巴细胞类型的混合；然而，这并不能将霍奇金淋巴瘤与反应性增生区分开来。此外，对Reed-Sternberg细胞的基因分析通常显示单克隆特性。\n\n教育目标：\n对刺激的抗原反应引起的良性淋巴结肿大与淋巴细胞的多克隆增殖有关。单克隆淋巴细胞增殖是恶性肿瘤的有力证据。"
+  },
+  "summary": {
+    "en": "This question tests the ability to differentiate between benign and malignant lymph node changes based on cellular characteristics. Specifically, it focuses on the concept of monoclonality versus polyclonality in lymphocyte proliferation. \n\nThe key to solving this question is understanding that reactive lymph node hyperplasia is typically polyclonal, while malignant transformation is monoclonal. Recognizing that monoclonal T-cell receptor gene rearrangements suggest a malignant process is crucial for selecting the correct answer.",
+    "zh": "此问题测试根据细胞特征区分良性和恶性淋巴结变化的能力。具体而言，它侧重于淋巴细胞增殖中单克隆性与多克隆性的概念。\n\n解决此问题的关键是理解反应性淋巴结增生通常是多克隆的，而恶性转化是单克隆的。认识到单克隆T细胞受体基因重排提示恶性过程对于选择正确的答案至关重要。"
+  },
+  "tags": "Lymphadenopathy; Lymphoma; Monoclonality; Polyclonality; T-cell receptor; Gene rearrangement; Malignancy; Reactive hyperplasia; Pathology; PCR",
+  "category": "Blood",
+  "question_id": "1754",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1754",
+  "extracted_at": "2025-11-05T13:30:34.261005",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:28:57.664611",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

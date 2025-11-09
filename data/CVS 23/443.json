@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 64-year-old man becomes unconscious after experiencing severe retrosternal chest pain. He has a history of hypertension and dyslipidemia but is nonadherent with his prescribed medication regimen. He also has a long history of heavy smoking. Paramedics are called, and the man is pronounced dead on arrival to the emergency department. An autopsy reveals diffuse atherosclerotic vascular disease involving the coronary arteries. One of the atheromatous plaques in the left main artery has a ruptured fibrous cap with an overlying occluding thrombus.",
+    "zh": "一名64岁男性在经历严重的胸骨后疼痛后失去意识。他有高血压和血脂异常病史，但未按处方服药。他也有长期重度吸烟史。呼叫了医护人员，该男子在抵达急诊室时被宣布死亡。尸检显示弥漫性动脉粥样硬化性血管疾病，累及冠状动脉。左主动脉中的一个粥样斑块具有破裂的纤维帽和覆盖的闭塞性血栓。"
+  },
+  "question": {
+    "en": "Which of the following cellular components is most directly involved in formation of the fibrous portion of this patient's plaque?",
+    "zh": "以下哪种细胞成分与该患者斑块的纤维部分的形成最直接相关？"
+  },
+  "options": {
+    "A": {
+      "en": "Activated platelets",
+      "zh": "活化的血小板"
+    },
+    "B": {
+      "en": "Endothelial cells",
+      "zh": "内皮细胞"
+    },
+    "C": {
+      "en": "Foamy macrophages",
+      "zh": "泡沫巨噬细胞"
+    },
+    "D": {
+      "en": "Infiltrating T lymphocytes",
+      "zh": "浸润的T淋巴细胞"
+    },
+    "E": {
+      "en": "Smooth muscle cells",
+      "zh": "平滑肌细胞"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Atherosclerosis is a chronic inflammatory and fibroproliferative disease triggered by endothelial cell injury from chronic hemodynamic stress (eg, hypertension), hypercholesterolemia, diabetes mellitus, and/or cigarette smoking. The resulting endothelial cell dysfunction allows adherence and migration of monocytes and T lymphocytes into the intima (Choices B and D). Increased vascular permeability also allows LDL cholesterol into the intima, where it becomes oxidized and is phagocytosed by the accumulating macrophages to produce lipid-laden foam cells (Choice C).\n\nOver time, the infiltrating leukocytes and dysfunctional endothelium (along with activated platelets [Choice A]) release cytokines and growth factors (eg, platelet-derived growth factor, fibroblast growth factor, endothelin-1) that promote migration and proliferation of medial smooth muscle cells (SMCs) into the intima.\n\nThis chronic inflammatory state drives further deposition of oxidized LDL cholesterol and proliferation of SMCs with increased production of extracellular matrix proteins (eg, collagen, proteoglycans), eventually forming the fibrous cap typical of a mature atheroma (ie, fibrofatty plaque). As the atheroma grows larger, the likelihood increases that the fibrous cap will be disrupted (atherosclerotic plaque rupture), followed by rapid luminal thrombosis that has catastrophic clinical consequences (eg, acute coronary syndrome, sudden cardiac death).\n\nMedial smooth muscle cells are responsible for synthesizing the extracellular matrix proteins (eg, collagen, proteoglycans) that form the fibrous cap of a mature atheroma. Progressive atheroma enlargement increases the likelihood of plaque rupture with resulting luminal thrombosis. {{exhibit_1}}",
+    "zh": "动脉粥样硬化是一种慢性炎症性和纤维增生性疾病，由慢性血流动力学应激（如高血压）、高胆固醇血症、糖尿病和/或吸烟引起的内皮细胞损伤引发。由此产生的内皮细胞功能障碍使单核细胞和T淋巴细胞粘附并迁移到内膜中（选项B和D）。血管通透性增加也允许LDL胆固醇进入内膜，在那里它被氧化，并被积聚的巨噬细胞吞噬，产生富含脂质的泡沫细胞（选项C）。\n\n随着时间的推移，浸润的白细胞和功能失调的内皮细胞（以及活化的血小板[选项A]）释放细胞因子和生长因子（如血小板衍生生长因子、成纤维细胞生长因子、内皮素-1），促进内膜中介质平滑肌细胞（SMC）的迁移和增殖。\n\n这种慢性炎症状态驱动氧化型LDL胆固醇的进一步沉积以及SMC的增殖，并增加细胞外基质蛋白（如胶原蛋白、蛋白聚糖）的产生，最终形成成熟粥瘤（即纤维脂肪斑块）的典型纤维帽。随着粥瘤的增大，纤维帽破裂（动脉粥样硬化斑块破裂）的可能性增加，随后发生快速的管腔血栓形成，从而导致灾难性的临床后果（如急性冠状动脉综合征、心脏性猝死）。\n\n介质平滑肌细胞负责合成形成成熟粥瘤纤维帽的细胞外基质蛋白（如胶原蛋白、蛋白聚糖）。进行性粥瘤增大增加了斑块破裂和随之而来的管腔血栓形成的可能性。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of atherosclerosis, specifically the cellular components involved in the formation of the fibrous cap of an atheromatous plaque. It requires understanding the role of smooth muscle cells in synthesizing extracellular matrix proteins like collagen.\n\nThe best approach is to recall the key steps in atherogenesis, focusing on which cells are responsible for producing the fibrous cap. Eliminate options that are primarily involved in other stages of plaque formation, such as endothelial dysfunction, inflammation, or lipid accumulation.",
+    "zh": "这个问题考察了对动脉粥样硬化病理生理学的了解，特别是与粥样斑块纤维帽形成相关的细胞成分。它需要理解平滑肌细胞在合成细胞外基质蛋白（如胶原蛋白）中的作用。\n\n最好的方法是回忆动脉粥样硬化的关键步骤，重点关注哪些细胞负责产生纤维帽。排除主要参与斑块形成其他阶段的选项，如内皮功能障碍、炎症或脂质积聚。"
+  },
+  "tags": "Atherosclerosis; Coronary artery disease; Smooth muscle cells; Fibrous cap; Plaque rupture; Cardiovascular system; Pathology",
+  "category": "CVS",
+  "question_id": "443",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\443",
+  "extracted_at": "2025-11-05T12:14:06.968363",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:29:54.079989",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

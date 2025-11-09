@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 44-year-old male is hospitalized with unstable angina. On the fourth day of hospitalization he develops severe foot pain and right toe paleness. His laboratory testing is significant for platelet count of 60,000/mm³. Treatment with argatroban is initiated immediately.",
+    "zh": "一名44岁男性因不稳定型心绞痛住院。住院第四天，他出现严重的足部疼痛和右脚趾苍白。他的实验室检查结果显示血小板计数为60,000/mm³。立即开始使用阿加曲班治疗。"
+  },
+  "question": {
+    "en": "The drug (argatroban) used to treat this patient's current condition has which mechanism of action?",
+    "zh": "用于治疗该患者目前病情的药物（阿加曲班）具有哪种作用机制？"
+  },
+  "options": {
+    "A": {
+      "en": "Binds to the thrombin active site",
+      "zh": "与凝血酶活性位点结合"
+    },
+    "B": {
+      "en": "Blocks glutamate residue carboxylation",
+      "zh": "阻断谷氨酸残基羧化"
+    },
+    "C": {
+      "en": "Block ADP receptors",
+      "zh": "阻断ADP受体"
+    },
+    "D": {
+      "en": "Block GP IIb/IIIa surface receptors",
+      "zh": "阻断GP IIb/IIIa表面受体"
+    },
+    "E": {
+      "en": "Inhibits phosphodiesterase",
+      "zh": "抑制磷酸二酯酶"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Heparin is the most important cause of thrombocytopenia in hospitalized patients. Occurrence of heparin-induced thrombocytopenia (HIT) is much more common with the use of unfractionated heparin compared to low molecular weight heparin. HIT more commonly leads to paradoxical thrombosis rather than bleeding. HIT is a serious disorder caused by antibodies to heparin and platelet factor IV.\n\nDirect thrombin inhibitors (hirudin, lepirudin and argatroban) do not require antithrombin-III for their action and are drugs of choice in the treatment of HIT. Patients with HIT need ongoing anticoagulation due to the presence of, or possibility of thrombosis. Upon clinical suspicion of HIT, the most important initial step in treatment is to stop all forms of heparin.\n\n(Choice B) Warfarin inhibits vitamin K dependent γ-carboxylation of glutamic acid residues of clotting factors II, VII, IX and X.\n\n(Choices C, D and E) Platelet plug formation involves three critical steps: adhesion, aggregation and release (see diagram). Drugs that inhibit platelet aggregation work by different mechanisms {{exhibit_1}}.\n\nAspirin irreversibly acetylates platelet cyclooxygenase-I leading to decreased formation of thromboxane A2.\n\nTiclopidine and clopidogrel inhibit ADP mediated platelet aggregation. They are useful following percutaneous coronary intervention (PCI), and for treatment of unstable angina and non-Q wave myocardial infarction.\n\nDipyridamole and cilostazol inhibit platelet aggregation by inhibiting phosphodiesterase activity and increasing cAMP.\n\nGlycoprotein IIb/IIIa inhibitors inhibit binding of platelet glycoprotein IIb/IIIa with fibrinogen and fibronectin. The glycoprotein IIb/IIIa inhibitors abciximab, eptifibatide and tirofiban are approved for use following percutaneous intervention (PCI) in acute coronary syndrome.\n\nEducational objective:\nHeparin-induced thrombocytopenia (HIT) is treated with direct thrombin inhibitors (DTIs) such as argatroban. Both high molecular weight heparin and LMWH should be avoided in these patients.",
+    "zh": "肝素是住院患者血小板减少症的最重要原因。与低分子量肝素相比，使用普通肝素更容易发生肝素诱导的血小板减少症（HIT）。HIT更常见的是导致矛盾性血栓形成，而不是出血。HIT是一种严重的疾病，由针对肝素和血小板因子IV的抗体引起。\n\n直接凝血酶抑制剂（水蛭素、来匹芦定和阿加曲班）不需要抗凝血酶-III发挥作用，是治疗HIT的首选药物。HIT患者需要持续抗凝治疗，因为存在血栓形成或可能发生血栓形成。一旦临床怀疑HIT，治疗中最重要的第一步是停止所有形式的肝素。\n\n（选项B）华法林抑制凝血因子II、VII、IX和X的维生素K依赖性γ-羧化谷氨酸残基。\n\n（选项C、D和E）血小板栓子形成涉及三个关键步骤：黏附、聚集和释放（见图）。抑制血小板聚集的药物通过不同的机制起作用 {{exhibit_1}}。\n\n阿司匹林不可逆地乙酰化血小板环氧合酶-I，导致血栓烷A2的形成减少。\n\n替氯匹定和氯吡格雷抑制ADP介导的血小板聚集。它们在经皮冠状动脉介入治疗（PCI）后以及治疗不稳定型心绞痛和非Q波心肌梗死时有用。\n\n双嘧达莫和西洛他唑通过抑制磷酸二酯酶活性和增加cAMP来抑制血小板聚集。\n\n糖蛋白IIb/IIIa抑制剂抑制血小板糖蛋白IIb/IIIa与纤维蛋白原和纤连蛋白的结合。糖蛋白IIb/IIIa抑制剂阿昔单抗、依替巴肽和替罗非班被批准用于急性冠状动脉综合征的经皮介入治疗（PCI）。\n\n教育目标：\n肝素诱导的血小板减少症（HIT）用直接凝血酶抑制剂（DTI）如阿加曲班治疗。在这些患者中应避免使用高分子量肝素和低分子量肝素。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of heparin-induced thrombocytopenia (HIT) and the mechanism of action of direct thrombin inhibitors like argatroban. It requires understanding the pathophysiology of HIT and the appropriate treatment strategies.\n\nThe key to solving this question is recognizing the clinical scenario suggestive of HIT (thrombocytopenia after heparin exposure) and knowing that argatroban, a direct thrombin inhibitor, is used to treat it. Understanding the mechanism of action of argatroban as a direct thrombin inhibitor is crucial.",
+    "zh": "这个问题测试了对肝素诱导的血小板减少症（HIT）以及阿加曲班等直接凝血酶抑制剂的作用机制的了解。它需要理解HIT的病理生理学和适当的治疗策略。\n\n解决这个问题的关键是认识到提示HIT的临床情况（肝素暴露后的血小板减少症）并知道阿加曲班（一种直接凝血酶抑制剂）用于治疗它。了解阿加曲班作为直接凝血酶抑制剂的作用机制至关重要。"
+  },
+  "tags": "Heparin-induced thrombocytopenia; HIT; Argatroban; Direct thrombin inhibitor; Anticoagulation; Hematology; Thrombosis; Platelet aggregation",
+  "category": "Blood",
+  "question_id": "1078",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1078",
+  "extracted_at": "2025-11-05T11:18:46.585602",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:25:28.126652",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

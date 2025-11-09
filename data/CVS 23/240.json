@@ -1,0 +1,69 @@
+{
+  "question_stem": {
+    "en": "A 10-year-old boy is brought to the emergency department due to shortness of breath and palpitations for the past day. He also has associated fever and fatigue. Vital signs indicate tachypnea, tachycardia, and hypotension. On cardiac auscultation, the patient has a new holosystolic murmur. He is admitted to the hospital for further workup and management. A cardiac biopsy is performed due to decompensation and an unclear diagnosis. Light microscopy of the tissue specimen is shown {{exhibit_1}} in the image below.",
+    "zh": "一名10岁男孩因过去一天出现呼吸急促和心悸而被送往急诊科。他同时伴有发烧和疲劳。生命体征显示呼吸急促、心动过速和低血压。心脏听诊时，患者出现新的全收缩期杂音。他被收入医院进行进一步检查和治疗。由于代偿失调和诊断不明，进行了心脏活检。组织标本的光学显微镜检查见下图{{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following most likely preceded development of this patient's current condition?",
+    "zh": "以下哪项最有可能先于该患者目前病情的发生？"
+  },
+  "options": {
+    "A": {
+      "en": "Antibiotic exposure",
+      "zh": "抗生素暴露"
+    },
+    "B": {
+      "en": "Bacterial infection",
+      "zh": "细菌感染"
+    },
+    "C": {
+      "en": "Chemotherapy",
+      "zh": "化疗"
+    },
+    "D": {
+      "en": "Genetic mutation",
+      "zh": "基因突变"
+    },
+    "E": {
+      "en": "Travel to South America",
+      "zh": "前往南美洲旅行"
+    },
+    "F": {
+      "en": "Viral infection",
+      "zh": "病毒感染"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "pharyngeal infection. The most serious manifestation of ARF is pancarditis, which can cause nonspecific fever, fatigue, and anorexia as well as altered vital signs (tachycardia, tachypnea, hypotension). Endocardial involvement resulting in valvular dysfunction (specifically acute mitral valve regurgitation) is the most likely cause of the patient's new holosystolic murmur.\n\nThis patient's myocardial biopsy shows {{exhibit_2}} a lesion consisting of lymphocytes and macrophages as well as scattered multinucleated giant cells. This interstitial myocardial granuloma, or Aschoff body, is pathognomonic for ARF-related myocarditis. Plump macrophages with abundant cytoplasm and central, slender chromatin ribbons called Anitschkow (or caterpillar) cells are also often present. Over subsequent years, Aschoff bodies are replaced by fibrous scar tissue, leading to chronic mitral valve stenosis and regurgitation.\n\n(Choice A) Hypersensitivity myocarditis, which results from an autoimmune reaction to a medication, is characterized by an interstitial infiltrate of eosinophils. Many classes of drugs, including diuretics (eg, furosemide, hydrochlorothiazide) and antibiotics (eg, ampicillin, azithromycin), can cause this hypersensitivity reaction.\n\n(Choice C) Anthracyclines (eg, doxorubicin, daunorubicin) are cardiotoxic chemotherapeutic agents. These agents can cause dose-related acute and chronic cardiac damage (eg, dilated cardiomyopathy). On biopsy, patchy fibrosis with vacuolization and lysis of myocytes are evident.\n\n(Choice D) A genetic mutation involving sarcomere genes can lead to the development of hypertrophic cardiomyopathy (HCM). HCM leads to left ventricular hypertrophy and, in turn, both systolic and diastolic dysfunction. The pathology involves disorganized, hypertrophied myocytes.\n\n(Choice E) Recent travel to South America is associated with Chagas disease, which is caused by the protozoan parasite Trypanosoma cruzi. Chagas disease can result in a myocarditis characterized by distension of individual myofibers with intracellular trypanosomes.\n\n(Choice F) Viral myocarditis produces a predominantly lymphocytic interstitial infiltrate with focal necrosis of myocytes. Aschoff bodies are not seen. Viral infection (eg, adenovirus, Coxsackie B virus, parvovirus B19) is the most common cause of myocarditis in the general population.\n\nEducational objective:\nInterstitial myocardial granulomas (Aschoff bodies) are found in carditis due to acute rheumatic fever, which develops after an untreated group A streptococcal pharyngeal infection. Aschoff bodies contain plump macrophages with abundant cytoplasm and central, slender ribbons of chromatin (Anitschkow, or caterpillar, cells). {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "咽部感染。ARF最严重的表现是全心炎，可引起非特异性发烧、疲劳和厌食，以及生命体征改变（心动过速、呼吸急促、低血压）。心内膜受累导致瓣膜功能障碍（特别是急性二尖瓣反流）是患者出现新的全收缩期杂音的最可能原因。\n\n该患者的心肌活检显示{{exhibit_2}}一个由淋巴细胞和巨噬细胞以及散在的多核巨细胞组成的病变。这种间质性心肌肉芽肿，即Aschoff小体，是ARF相关性心肌炎的特征性表现。通常也存在具有丰富细胞质和中央细长染色质带的肥大巨噬细胞，称为Anitschkow（或毛虫）细胞。在随后的几年中，Aschoff小体被纤维瘢痕组织取代，导致慢性二尖瓣狭窄和反流。\n\n（选项A）超敏反应性心肌炎，是由对药物的自身免疫反应引起的，其特征是嗜酸性粒细胞的间质浸润。许多种类的药物，包括利尿剂（如呋塞米、氢氯噻嗪）和抗生素（如氨苄青霉素、阿奇霉素），都可引起这种超敏反应。\n\n（选项C）蒽环类药物（如多柔比星、柔红霉素）是心脏毒性化疗药物。这些药物可引起剂量相关的急性和慢性心脏损害（如扩张型心肌病）。活检时，可见肌细胞的斑片状纤维化伴空泡变性和溶解。\n\n（选项D）涉及肌节基因的基因突变可导致肥厚型心肌病（HCM）的发生。HCM导致左心室肥大，进而导致收缩和舒张功能障碍。病理学涉及无序的肥大心肌细胞。\n\n（选项E）最近前往南美洲与恰加斯病有关，恰加斯病是由原虫寄生虫克氏锥虫引起的。恰加斯病可导致心肌炎，其特征是单个肌纤维扩张伴细胞内锥虫。\n\n（选项F）病毒性心肌炎产生以淋巴细胞为主的间质浸润，伴有心肌细胞的局灶性坏死。未见Aschoff小体。病毒感染（如腺病毒、柯萨奇B病毒、细小病毒B19）是普通人群中心肌炎最常见的原因。\n\n教育目标：\n间质性心肌肉芽肿（Aschoff小体）见于由急性风湿热引起的心炎，急性风湿热发生在未经治疗的A组链球菌咽部感染之后。Aschoff小体包含具有丰富细胞质和中央细长染色质带的肥大巨噬细胞（Anitschkow细胞或毛虫细胞）。{{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of acute rheumatic fever (ARF) and its cardiac manifestations, specifically pancarditis and the characteristic Aschoff bodies seen on myocardial biopsy. It requires recognizing the clinical presentation and linking it to the preceding streptococcal infection. \n\nTo solve this question, identify the key findings (holosystolic murmur, biopsy showing Aschoff bodies) and associate them with ARF. Rule out other causes of myocarditis based on clinical context and biopsy findings.",
+    "zh": "本题考察对急性风湿热（ARF）及其心脏表现的了解，特别是全心炎和心肌活检中可见的特征性Aschoff小体。它需要识别临床表现并将其与先前的链球菌感染联系起来。\n\n要解决这个问题，确定关键发现（全收缩期杂音、活检显示Aschoff小体）并将它们与ARF联系起来。根据临床背景和活检结果排除心肌炎的其他原因。"
+  },
+  "tags": "Acute rheumatic fever; Myocarditis; Aschoff bodies; Group A Streptococcus; Pancarditis; Cardiology; Infectious disease; Pathology; Holosystolic murmur",
+  "category": "CVS",
+  "question_id": "240",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\240",
+  "extracted_at": "2025-11-05T12:12:20.334436",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:29:13.759110",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

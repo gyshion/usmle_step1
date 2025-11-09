@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 6-year-old, previously healthy girl is brought to the emergency department due to fever, abdominal pain, and diarrhea for the past day. The symptoms began abruptly with high fever, as well as cramping periumbilical pain, and were quickly followed by low-volume diarrhea mixed with blood and mucus. The patient has had no sick contacts and has not traveled recently; the family had dinner at a buffet restaurant 3 days ago. Temperature is 38.9 C (102 F). Physical examination reveals mild, diffuse abdominal tenderness with no guarding or rebound tenderness. Bowel sounds are hyperactive. Stool occult blood testing is positive, with numerous leukocytes in the stool. Culture of stool yields gram-negative, oxidase-positive, curved rods. Which of the following is the most likely pathogen responsible for this patient's symptoms? {{exhibit_1}}",
+    "zh": "一名先前健康的6岁女孩因发烧、腹痛和腹泻一天被带到急诊科。 症状突然开始，伴有高烧，以及痉挛性脐周疼痛，随后很快出现少量腹泻，混合血液和黏液。 患者没有患病接触史，最近也没有旅行； 家人三天前在自助餐厅用餐。 体温为38.9摄氏度（102华氏度）。 体格检查显示轻度、弥漫性腹部压痛，无腹肌紧张或反跳痛。 肠鸣音亢进。 粪便潜血试验呈阳性，粪便中有大量白细胞。 粪便培养物产生革兰氏阴性、氧化酶阳性、弯曲的杆菌。 以下哪种病原体最有可能导致该患者的症状？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely pathogen responsible for this patient's symptoms?",
+    "zh": "以下哪种病原体最有可能导致该患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Campylobacter jejuni",
+      "zh": "空肠弯曲菌"
+    },
+    "B": {
+      "en": "Escherichia coli",
+      "zh": "大肠杆菌"
+    },
+    "C": {
+      "en": "Salmonella serovar Enteritidis",
+      "zh": "肠炎沙门氏菌血清型"
+    },
+    "D": {
+      "en": "Shigella flexneri",
+      "zh": "弗氏志贺菌"
+    },
+    "E": {
+      "en": "Vibrio cholerae",
+      "zh": "霍乱弧菌"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Campylobacter jejuni is a motile, oxidase-positive, gram-negative, curved rod that is a leading cause of bacterial gastroenteritis. This pathogen resides in the gastrointestinal tract of a wide range of mammals and is transmitted via the fecal-oral route. Most cases arise when humans ingest contaminated food, particularly UNDERCOOKED POULTRY or unpasteurized milk, but a minority are caused by close contact with domesticated animals (eg, dogs, farm animals).\n\nC. jejuni is enteroinvasive and typically causes fever, abdominal pain, and DIARRHEA that may be bloody. Stool studies usually reveal inflammation (ie, blood, leukocytes); culture of stool (enriched media at 42 C [107.6 F] and microaerophilic conditions) is diagnostic. Most cases are self-limited and resolve within a week with supportive treatment.\n\n(Choice B) Escherichia coli causes many forms of gastroenteritis, including enterotoxin-mediated watery diarrhea (enterotoxigenic), Shiga toxin-mediated hemorrhagic colitis (enterohemorrhagic), and invasive colitis (enteroinvasive). Although this pathogen is a gram-negative enteric rod, it is oxidase negative and not described as curved.\n\n(Choice C) Nontyphoidal Salmonella (eg, S serovar Enteritidis) is a common cause of bacterial gastroenteritis. This enteroinvasive pathogen frequently causes self-limited abdominal pain, fever, and watery diarrhea; bloody diarrhea is less common but can occur. However, Salmonella is oxidase negative and not described as curved.\n\n(Choice D) Shigella is a highly virulent bacterium that is often transmitted via the fecal-oral route in day care centers or other areas of communal habituation. It causes inflammatory colitis with fever, abdominal pain, and mucoid, bloody, and/or watery diarrhea. However, Shigella is oxidase negative and is not described as curved.\n\n(Choice E) Vibrio cholerae is a curved, oxidase-positive, gram-negative enteric rod and can therefore occasionally be misidentified as a Campylobacter species. However, V cholerae causes massive watery diarrhea (due to cholera toxin) that is noninflammatory (ie, no fecal leukocytes or erythrocytes).\n\nEducational objective:\nCampylobacter jejuni is an oxidase-positive, gram-negative, curved rod that is a leading cause of gastroenteritis. The pathogen is a zoonotic organism most commonly contracted by consuming contaminated, undercooked poultry. The infection is marked by fever, abdominal pain, and diarrhea that may be bloody.",
+    "zh": "空肠弯曲菌是一种能动、氧化酶阳性、革兰氏阴性、弯曲的杆菌，是细菌性胃肠炎的主要病因。 这种病原体寄生于多种哺乳动物的胃肠道中，并通过粪口途径传播。 大多数病例发生在人类摄入受污染的食物时，尤其是未煮熟的家禽或未经巴氏消毒的牛奶，但少数病例是由与家养动物（例如，狗、农场动物）密切接触引起的。\n\n空肠弯曲菌具有肠侵袭性，通常引起发烧、腹痛和腹泻，腹泻可能带血。 粪便研究通常显示炎症（即，血液、白细胞）；粪便培养（42 摄氏度 [107.6 华氏度] 和微需氧条件下的富集培养基）具有诊断意义。 大多数病例为自限性，并在支持性治疗后一周内消退。\n\n（选项B）大肠杆菌可引起多种类型的胃肠炎，包括由肠毒素介导的水样腹泻（产毒性）、志贺毒素介导的出血性结肠炎（出血性）和侵袭性结肠炎（侵袭性）。 尽管这种病原体是一种革兰氏阴性肠杆菌，但它呈氧化酶阴性，并且不呈弯曲状。\n\n（选项 C）非伤寒沙门氏菌（例如，肠炎沙门氏菌血清型）是细菌性胃肠炎的常见病因。 这种肠侵袭性病原体经常引起自限性腹痛、发烧和水样腹泻； 血性腹泻不太常见，但可能发生。 然而，沙门氏菌呈氧化酶阴性，并且不呈弯曲状。\n\n（选项D）志贺菌是一种剧毒细菌，通常通过粪口途径在日托中心或其他共同生活区传播。 它引起炎症性结肠炎，伴有发烧、腹痛和黏液性、血性和/或水样腹泻。 然而，志贺菌呈氧化酶阴性，并且不呈弯曲状。\n\n（选项 E）霍乱弧菌是一种弯曲的、氧化酶阳性、革兰氏阴性肠杆菌，因此有时可能被误认为是弯曲菌。 然而，霍乱弧菌引起大量水样腹泻（由于霍乱毒素），这种腹泻是非炎性的（即，无粪便白细胞或红细胞）。\n\n教育目标：\n空肠弯曲菌是一种氧化酶阳性、革兰氏阴性、弯曲的杆菌，是胃肠炎的主要病因。 这种病原体是一种人畜共患生物，最常通过食用受污染的未煮熟的家禽而感染。 这种感染的特征是发烧、腹痛和可能带血的腹泻。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of common causes of bacterial gastroenteritis, specifically Campylobacter jejuni, and its characteristic presentation and risk factors. It also assesses the ability to differentiate Campylobacter from other bacterial causes of gastroenteritis based on stool culture results and clinical presentation.\n\nTo solve this question, focus on the stool culture results (gram-negative, oxidase-positive, curved rods) and the patient's symptoms (fever, abdominal pain, bloody diarrhea). Consider the common sources of infection and the typical presentation of each potential pathogen to narrow down the diagnosis.",
+    "zh": "此问题测试对细菌性胃肠炎常见病因（特别是空肠弯曲菌）的了解，以及其特征性表现和危险因素。 它还评估了根据粪便培养结果和临床表现区分空肠弯曲菌与其他细菌性胃肠炎病因的能力。\n\n要解决这个问题，请关注粪便培养结果（革兰氏阴性、氧化酶阳性、弯曲杆菌）和患者的症状（发烧、腹痛、血性腹泻）。 考虑常见的感染来源以及每种潜在病原体的典型表现，以缩小诊断范围。"
+  },
+  "tags": "Campylobacter jejuni; Gastroenteritis; Bacterial infection; Foodborne illness; Diarrhea; Microbiology; Infectious Diseases; Stool culture; Oxidase test; Gram stain",
+  "category": "Micro",
+  "question_id": "6731",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\6731",
+  "extracted_at": "2025-11-05T15:04:59.073691",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:12:47.968642",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

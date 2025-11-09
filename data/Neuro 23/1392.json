@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 58-year-old man comes to the emergency department with fever, headache, and nausea for the past day. He underwent kidney transplantation last year. His temperature is 39.4 C (103 F), blood pressure is 130/80 mm Hg, pulse is 98/min, and respirations are 16/min. Neck stiffness is present on physical examination. Cerebrospinal fluid (CSF) results are as follows:\n\nGlucose 40 mg/dL\nProtein 80 mg/dL\nLeukocytes 900/mm³\nNeutrophils 80%\n\nGram-positive rods with tumbling motility at room temperature are seen on CSF microscopy.",
+    "zh": "一名58岁男性因发热、头痛和恶心来到急诊科就诊，病程持续一天。他去年接受了肾脏移植。体温为39.4°C（103°F），血压为130/80 mmHg，脉搏为98次/分钟，呼吸为16次/分钟。体格检查发现颈部僵硬。脑脊液（CSF）结果如下：\n\n葡萄糖40 mg/dL\n蛋白质80 mg/dL\n白细胞900/mm³\n中性粒细胞80%\n\n在室温下，CSF显微镜检查可见革兰氏阳性杆菌，具有翻滚运动。"
+  },
+  "question": {
+    "en": "This patient's infection was most likely transmitted through which of the following mechanisms?",
+    "zh": "该患者的感染最有可能通过以下哪种机制传播？"
+  },
+  "options": {
+    "A": {
+      "en": "Arthropod bite",
+      "zh": "节肢动物叮咬"
+    },
+    "B": {
+      "en": "Contaminated food",
+      "zh": "受污染的食物"
+    },
+    "C": {
+      "en": "Needlestick",
+      "zh": "针刺"
+    },
+    "D": {
+      "en": "Respiratory droplets",
+      "zh": "呼吸道飞沫"
+    },
+    "E": {
+      "en": "Unprotected sex",
+      "zh": "无保护性行为"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient, who is almost certainly taking anti-rejection immunosuppressants given his kidney transplantation, has fever, headache, nausea, and neck stiffness that are suggestive of bacterial meningitis. His cerebrospinal fluid (CSF) findings (elevated leukocytes with neutrophil predominance, elevated protein, low-normal glucose, presence of bacteria) confirm the diagnosis.\n\nThe microbiologic characteristics are further consistent with Listeria monocytogenes, a facultative intracellular (grows within macrophages), gram-positive rod, with distinctive flagellar-based tumbling motility (typically seen at room temperature but not at human body temperatures). Listeria can multiply in cold temperatures (4-10 C), a unique feature that allows it to grow well in refrigerated foods.\n\nListeriosis most often occurs in immunocompromised adults (eg, renal transplantation, hematologic malignancy). The bacteria can access the bloodstream following ingestion of contaminated food (eg, unpasteurized milk and milk products, undercooked meats, unwashed raw vegetables) and cause bacteremia and meningoencephalitis. Listeria can also be transmitted transplacentally or via vaginal contact during delivery, causing neonatal meningitis. Ampicillin is the antibiotic of choice.\n\n(Choice A) Leishmaniasis (sandfly bite), Plasmodium/malaria (Anopheles mosquito bite), Chagas disease (reduviid bug bite), and Borrelia burgdorferi/Lyme disease (Ixodes tick bite) are all transmitted by arthropod bite. None of these would account for this patient's CSF findings of a gram-positive rod with tumbling motility.\n\n(Choice C) Needlesticks can transmit HIV, hepatitis B and C, and other infections.\n\n(Choice D) Neisseria meningitidis (gram-negative diplococcus), Haemophilus influenzae (gram-negative coccobacillus), and Streptococcus pneumoniae (gram-positive diplococcus) are common causes of meningitis transmitted via respiratory droplets. Listeria (gram-positive rod that tumbles at room temperature) is not transmitted in this manner.\n\n(Choice E) Unprotected sex is the mode of transmission of HIV, hepatitis B, gonorrhea, chlamydia, syphilis, human papillomavirus (a cause of cervical cancer), and others.\n\nEducational objective:\nListeriosis is most commonly transmitted through food ingestions and can cause meningitis in immunocompromised adults. Listeria is a gram-positive rod with tumbling motility. It grows well in cold temperatures and can therefore contaminate refrigerated food.",
+    "zh": "考虑到该患者接受了肾脏移植，几乎可以肯定他正在服用抗排异免疫抑制剂。他出现发热、头痛、恶心和颈部僵硬，提示细菌性脑膜炎。他的脑脊液（CSF）检查结果（白细胞升高，以中性粒细胞为主，蛋白升高，葡萄糖正常偏低，存在细菌）证实了诊断。\n\n微生物学特征进一步与单核细胞增生李斯特菌（一种兼性细胞内细菌，可在巨噬细胞内生长）一致，它是一种革兰氏阳性杆菌，具有独特的基于鞭毛的翻滚运动（通常在室温下可见，但在人体体温下不可见）。李斯特菌可以在低温（4-10°C）下繁殖，这是一个独特的特征，使其能够在冷藏食品中良好生长。\n\n李斯特菌病最常发生在免疫功能低下的成年人中（例如，肾脏移植，血液系统恶性肿瘤）。细菌可以通过摄入受污染的食物（例如，未经巴氏消毒的牛奶和奶制品、未煮熟的肉类、未清洗的生蔬菜）进入血液，引起菌血症和脑膜脑炎。李斯特菌也可以通过胎盘或分娩时的阴道接触传播，引起新生儿脑膜炎。氨苄西林是首选的抗生素。\n\n(选项A) 利什曼病（白蛉叮咬）、疟疾（按蚊叮咬）、恰加斯病（锥蝽叮咬）和伯氏疏螺旋体/莱姆病（硬蜱叮咬）均通过节肢动物叮咬传播。这些均不能解释该患者CSF检查结果中革兰氏阳性杆菌具有翻滚运动的发现。\n\n(选项C) 针刺可以传播HIV、乙型和丙型肝炎以及其他感染。\n\n(选项D) 脑膜炎奈瑟菌（革兰氏阴性双球菌）、流感嗜血杆菌（革兰氏阴性杆菌）和肺炎链球菌（革兰氏阳性双球菌）是常见的通过呼吸道飞沫传播的脑膜炎病原体。李斯特菌（在室温下翻滚的革兰氏阳性杆菌）不以此方式传播。\n\n(选项E) 无保护性行为是HIV、乙型肝炎、淋病、衣原体、梅毒、人乳头瘤病毒（宫颈癌的病因）等的传播方式。\n\n教育目标：\n李斯特菌病最常通过食物摄入传播，并可引起免疫功能低下成人的脑膜炎。李斯特菌是一种革兰氏阳性杆菌，具有翻滚运动。它在低温下生长良好，因此可以污染冷藏食物。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Listeria monocytogenes meningitis, including its common presentation in immunocompromised patients and its transmission via contaminated food. It also tests the ability to interpret CSF findings and correlate them with the causative organism.\n\nTo solve this question, recognize the patient's immunocompromised state (kidney transplant), the CSF findings suggestive of bacterial meningitis, and the characteristic features of Listeria (gram-positive rod with tumbling motility). Then, recall the common mode of transmission for Listeria, which is through contaminated food.",
+    "zh": "此问题考察了对单核细胞增生李斯特菌脑膜炎的了解，包括其在免疫功能低下患者中的常见表现及其通过受污染食物的传播方式。它还考察了解读CSF结果并将其与病原体相关联的能力。\n\n要解决这个问题，需要识别患者的免疫功能低下状态（肾脏移植），提示细菌性脑膜炎的CSF结果，以及李斯特菌的特征（具有翻滚运动的革兰氏阳性杆菌）。然后，回想一下李斯特菌的常见传播方式，即通过受污染的食物。"
+  },
+  "tags": "Listeria monocytogenes; Meningitis; Immunocompromised; Foodborne illness; CSF analysis; Gram-positive bacteria; Kidney transplantation; Infectious disease; Neurology; Microbiology",
+  "category": "Neuro",
+  "question_id": "1392",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1392",
+  "extracted_at": "2025-11-05T15:15:45.587698",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:19:15.577744",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

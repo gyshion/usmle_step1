@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 3-year-old boy is brought to the office for a well-child visit. His mother reports that, apart from an ear infection last year, he is in good health. The child started preschool this year. He plays with other children and often copies what they are doing but does not play \"make believe\" like his older sister. The patient knows his age and sex and can speak in 3-word sentences. He can ride a tricycle but cannot hop on one foot. The patient cannot use a spoon or fork and enjoys eating with his hands. He scribbles spontaneously but cannot copy a circle.",
+    "zh": "一名3岁男孩因健康体检被带到诊所。他的母亲报告说，除了去年的一次耳部感染外，他身体健康。孩子今年开始上学前班。他和其他孩子一起玩耍，并且经常模仿他们所做的事情，但不会像他姐姐那样玩“假装”游戏。患者知道他的年龄和性别，并且可以说出包含3个单词的句子。他可以骑三轮车，但不能单脚跳。患者不能使用勺子或叉子，喜欢用手吃饭。他可以自发地涂鸦，但不能画一个圆圈。"
+  },
+  "question": {
+    "en": "Which of the following developmental milestones is likely delayed in this patient?",
+    "zh": "该患者最有可能延迟以下哪种发育里程碑？"
+  },
+  "options": {
+    "A": {
+      "en": "Cognitive",
+      "zh": "认知"
+    },
+    "B": {
+      "en": "Fine motor",
+      "zh": "精细运动"
+    },
+    "C": {
+      "en": "Gross motor",
+      "zh": "大运动"
+    },
+    "D": {
+      "en": "Language",
+      "zh": "语言"
+    },
+    "E": {
+      "en": "Social",
+      "zh": "社交"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The patient is 3 years old. The developmental milestones of toddlers are shown below {{exhibit_1}}. \n\nGross motor milestones achieved by most 3-year-olds include the ability to ride a tricycle and walk up the stairs with alternating feet. The patient can ride a tricycle, which is age-appropriate. The ability to hop on one foot is not expected until age 5 (Choice C).\n\nA 3-year-old should also be able to speak in simple sentences containing at least 3 words and know their age and sex. The patient can speak in 3-word sentences and knows his age and sex, which are age-appropriate language milestones (Choice D).\n\nMoreover, instead of playing alongside peers (ie, parallel play), which is typical of children age 2, 3-year-olds interact more with their peers and learn by copying the actions of other children. This patient's social interactions are normal for his age, and imaginative play (\"make-believe\") is not expected until age 4 (Choice E).\n\nThe concerning feature in this patient's history is his delay in fine motor milestones. At age 3, he should have the fine motor skills to copy a circle, put on some clothing items (eg, loose-fitting pants, jacket), and use utensils. This patient cannot use a fork or spoon or copy a circle and should undergo additional evaluation.\n\nEducational objective:\nBy age 3, a child is expected to ride a tricycle, play with others, and speak in simple sentences. Fine motor milestones for this age include the ability to copy a circle, help dress oneself, and use utensils.",
+    "zh": "该患者3岁。幼儿的发育里程碑如下所示 {{exhibit_1}}。\n\n大多数3岁儿童实现的大运动里程碑包括能够骑三轮车和交替使用双脚上下楼梯。患者可以骑三轮车，这符合其年龄。单脚跳的能力要到5岁才能实现（选项C）。\n\n3岁的孩子还应该能够说出包含至少3个单词的简单句子，并知道他们的年龄和性别。患者可以说出包含3个单词的句子，并知道他的年龄和性别，这些都是符合年龄的语言里程碑（选项D）。\n\n此外，与2岁儿童典型的平行游戏相比，3岁儿童更多地与同伴互动，并通过模仿其他孩子的行为来学习。该患者的社交互动在其年龄段是正常的，并且想象力游戏（“假装”）要到4岁才能实现（选项E）。\n\n该患者病史中最令人担忧的特征是其精细运动里程碑的延迟。在3岁时，他应该具备复制一个圆圈、穿上一些衣物（例如，宽松的裤子、夹克）和使用餐具的精细运动技能。该患者不能使用叉子或勺子，也不能复制一个圆圈，应该接受进一步的评估。\n\n教育目标：\n到3岁时，预计孩子可以骑三轮车、与其他孩子一起玩耍，并说出简单的句子。该年龄的精细运动里程碑包括能够复制一个圆圈、帮助自己穿衣和使用餐具。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of age-appropriate developmental milestones in toddlers across various domains, including gross motor, fine motor, language, cognitive, and social development.\n\nTo solve this question, one must compare the patient's reported abilities and deficits with the expected developmental milestones for a 3-year-old, as outlined in developmental charts. Identifying the specific areas where the patient falls short of these expectations is key to determining the delayed milestone.",
+    "zh": "此题考察了对幼儿在各个领域中与年龄相符的发育里程碑的理解，包括大运动、精细运动、语言、认知和社会发展。\n\n要解决这个问题，必须将患者报告的能力和缺陷与发育图表中概述的3岁儿童的预期发育里程碑进行比较。确定患者未达到这些期望的具体领域是确定延迟里程碑的关键。"
+  },
+  "tags": "Developmental milestones; Toddler development; Fine motor skills; Gross motor skills; Language development; Social development; Cognitive development; Pediatric assessment",
+  "category": "Psychiatry",
+  "question_id": "1781",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\1781",
+  "extracted_at": "2025-11-05T19:50:21.053532",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:54:41.734844",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

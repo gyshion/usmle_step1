@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old man comes to the office due to several months of dysphagia, fatigue, occasional chest discomfort, and indigestion. He has a history of hypertension and takes amlodipine. The patient smokes 1 or 2 cigars daily. His blood pressure is 140/80 mm Hg. Physical examination is normal. An endoscopic evaluation with esophageal biopsy is performed. The histopathology of the specimen is shown in the image below {{exhibit_1}}.",
+    "zh": "一名 63 岁男性因吞咽困难、疲劳、偶尔胸部不适和消化不良数月来诊。 他有高血压病史，并服用氨氯地平。 患者每天吸 1 或 2 支雪茄。 他的血压为 140/80 毫米汞柱。 体格检查正常。 进行了内镜评估和食管活检。 标本的组织病理学见下图 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's dysphagia?",
+    "zh": "以下哪项最可能是该患者吞咽困难的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Benign tumor with slow growth",
+      "zh": "生长缓慢的良性肿瘤"
+    },
+    "B": {
+      "en": "Malignancy with probable poor prognosis",
+      "zh": "恶性肿瘤，预后可能不良"
+    },
+    "C": {
+      "en": "Metaplasia with increased risk of adenocarcinoma",
+      "zh": "化生，增加患腺癌的风险"
+    },
+    "D": {
+      "en": "Motor dysfunction with increased risk of carcinoma",
+      "zh": "运动功能障碍，增加患癌风险"
+    },
+    "E": {
+      "en": "Reflux esophagitis with high risk of metaplasia",
+      "zh": "反流性食管炎，化生风险高"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's biopsy is consistent with esophageal SQUAMOUS CELL CARCINOMA (SCC). The histopathologic features of this condition include solid nests of neoplastic squamous cells with abundant eosinophilic cytoplasm and distinct borders (compared to normal esophagus). Areas of KERATINIZATION are identified (keratin pearls). The presence of intercellular bridges is also characteristic of squamous differentiation.\n\nMost cases of esophageal SCC occur in men age >50 with a history of prolonged smoking and alcohol use. Patients typically present with solid food DYSPHAGIA as the tumor gradually obstructs the esophageal lumen, which can progress to liquid dysphagia. Retrosternal discomfort/burning and significant WEIGHT LOSS are also common. Chronic gastrointestinal blood loss may result in iron deficiency anemia with fatigue. The PROGNOSIS for esophageal cancer is generally POOR as many patients present with incurable locally advanced or metastatic disease.\n\n(Choice A) Benign tumors of the esophagus (most commonly leiomyomas) are rare and slow growing. On light microscopy, leiomyomas consist of fascicles of spindle cells with variable amounts of fibrosis.\n\n(Choices C and E) Reflux esophagitis commonly occurs due to gastroesophageal reflux disease and is characterized histologically by elongation of the papillae, basal cell hyperplasia, and intraepithelial eosinophils. Repeated epithelial injury by reflux esophagitis may lead to Barrett esophagus, which is characterized by intestinal metaplasia with goblet cells. Barrett esophagus is a premalignant condition that significantly increases the risk of esophageal adenocarcinoma.\n\n(Choice D) Achalasia is an esophageal motility disorder characterized by failed relaxation of the lower esophageal sphincter resulting in food retention, dilation of the esophageal body, and symptoms of solid/liquid dysphagia. Achalasia increases the risk of squamous cell carcinoma of the esophagus.\n\nEducational objective:\nThe histopathologic features of esophageal squamous cell carcinoma include solid nests of neoplastic squamous cells with abundant eosinophilic cytoplasm and distinct borders. Areas of keratinization and the presence of intercellular bridges are also characteristic. Patients typically present with progressive solid and eventually liquid dysphagia and weight loss. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "该患者的活检结果与食管鳞状细胞癌 (SCC) 一致。 这种情况的组织病理学特征包括由丰富的嗜酸性细胞质和清晰边界（与正常食管相比）组成的新生鳞状细胞的实性巢。 发现了角化区域（角蛋白珍珠）。 细胞间桥的存在也是鳞状分化的特征。\n\n大多数食管 SCC 病例发生在 50 岁以上的男性中，他们有长期吸烟和饮酒史。 患者通常表现为固体食物吞咽困难，因为肿瘤逐渐阻塞食管腔，这可能进展为液体吞咽困难。 胸骨后不适/烧灼感和明显的体重减轻也很常见。 慢性胃肠道失血可能导致缺铁性贫血并伴有疲劳。 食管癌的预后通常较差，因为许多患者表现为不可治愈的局部晚期或转移性疾病。\n\n（选项 A）食管良性肿瘤（最常见的是平滑肌瘤）罕见且生长缓慢。 在光学显微镜下，平滑肌瘤由梭形细胞束组成，其中有不同量的纤维化。\n\n（选项 C 和 E）反流性食管炎通常由于胃食管反流病而发生，其组织学特征是乳头延长、基底细胞增生和上皮内嗜酸性粒细胞。 反流性食管炎引起的反复上皮损伤可能导致 Barrett 食管，其特征是肠化生伴有杯状细胞。 Barrett 食管是一种癌前病变，会显着增加食管腺癌的风险。\n\n（选项 D）失弛缓症是一种食管运动障碍，其特征是食管下括约肌无法松弛，导致食物滞留、食管体扩张以及固体/液体吞咽困难的症状。 失弛缓症会增加患食管鳞状细胞癌的风险。\n\n教育目标：\n食管鳞状细胞癌的组织病理学特征包括由丰富的嗜酸性细胞质和清晰边界组成的新生鳞状细胞的实性巢。 角化区域和细胞间桥的存在也是其特征。 患者通常表现为进行性固体并最终液体吞咽困难和体重减轻。 {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of esophageal squamous cell carcinoma (SCC), including its risk factors, clinical presentation, and histopathological features. It requires recognizing the characteristic features of SCC on biopsy and differentiating it from other esophageal conditions.\n\nTo solve this question, focus on the patient's risk factors (smoking), symptoms (dysphagia), and the histopathology report. Recognize the key features of SCC (keratinization, intercellular bridges) to arrive at the correct diagnosis.",
+    "zh": "此问题测试对食管鳞状细胞癌 (SCC) 的了解，包括其危险因素、临床表现和组织病理学特征。 它需要识别活检中 SCC 的特征性特征，并将其与其他食管疾病区分开来。\n\n要解决这个问题，请关注患者的危险因素（吸烟）、症状（吞咽困难）和组织病理学报告。 识别 SCC 的关键特征（角化、细胞间桥）以得出正确的诊断。"
+  },
+  "tags": "Esophageal squamous cell carcinoma; Dysphagia; Histopathology; Keratinization; Intercellular bridges; Oncology; Gastroenterology; Smoking; Malignancy",
+  "category": "GIT",
+  "question_id": "287",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\287",
+  "extracted_at": "2025-11-05T14:32:38.011604",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:55:44.905669",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

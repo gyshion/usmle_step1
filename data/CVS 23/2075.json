@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "The blood cultures obtained from this patient on admission grow *Streptococcus* species.",
+    "zh": "该患者入院时获得的血培养显示生长链球菌属。"
+  },
+  "question": {
+    "en": "Which of the following processes was the most likely initiating step in the pathogenesis of this patient's condition?",
+    "zh": "以下哪种过程最可能是该患者病情发病机制的起始步骤？"
+  },
+  "options": {
+    "A": {
+      "en": "Endocardial fibrosis",
+      "zh": "心内膜纤维化"
+    },
+    "B": {
+      "en": "Fibrin deposition",
+      "zh": "纤维蛋白沉积"
+    },
+    "C": {
+      "en": "Liquefactive necrosis",
+      "zh": "液化性坏死"
+    },
+    "D": {
+      "en": "Myxomatous degeneration",
+      "zh": "黏液样变性"
+    },
+    "E": {
+      "en": "White blood cell infiltration",
+      "zh": "白细胞浸润"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The initial process involved in the pathogenesis of infective endocarditis (IE) is a disruption of normal endocardial surface. This occurs most commonly at the areas of maximal turbulence to blood flow in preexisting valvular lesions, typically the atrial surface of incompetent atrioventricular valves or the ventricular surface of incompetent semilunar valves. This is followed by focal adherence of fibrin and platelets, forming a sterile fibrin-platelet nidus.\n\nDuring bacteremia from any cause, microorganisms colonize the sterile nidus on the endothelial surface with subsequent microbial growth leading to further activation of the coagulation system. Streptococci infect the cardiac valves with preexisting endothelial lesions. In contrast, *Staphylococcus aureus* can adhere to damaged or normal endothelial cells. Macroscopic vegetations consist of fibrin and platelets on the surface, with red blood cell debris, leukocytes, and clusters of microorganisms embedded deep within the lesion.\n\n(Choice A) Endomyocardial fibrosis is a restrictive cardiomyopathy characterized by thickening and fibrosis of the apical endocardial surface. It occurs most commonly in tropical regions (eg, Uganda).\n\n(Choices C and E) Neutrophil-rich inflammatory infiltrates with subsequent abscess formation and/or liquefactive necrosis of underlying cardiac tissue are common in advanced lesions.\n\n(Choice D) Myxomatous degeneration of the mitral valve is characterized by thickened and redundant mitral leaflets with elongated chordae leading to prolapse of one or both mitral leaflets (mitral valve prolapse). Myxomatous degeneration can predispose patients to the development of endocarditis; however, endocarditis vegetations themselves are not formed through myxomatous degeneration.",
+    "zh": "感染性心内膜炎 (IE) 发病机制的初始过程是正常心内膜表面的破坏。这种情况最常发生在血流湍流最大的区域，即已存在的瓣膜病变，通常是不全房室瓣的房面或不全半月瓣的室面。随后是纤维蛋白和血小板的局灶性粘附，形成无菌的纤维蛋白-血小板核心。\n\n在任何原因引起的菌血症期间，微生物会定植在内皮表面的无菌核心上，随后的微生物生长会导致凝血系统的进一步激活。链球菌感染具有预先存在内皮病变的瓣膜。相比之下，金黄色葡萄球菌可以粘附在受损或正常内皮细胞上。肉眼可见的赘生物由表面上的纤维蛋白和血小板组成，伴有红细胞碎片、白细胞和深埋在病变内的微生物簇。\n\n(选项 A) 心内膜心肌纤维化是一种限制性心肌病，其特征是心尖心内膜表面增厚和纤维化。它最常见于热带地区（例如乌干达）。\n\n(选项 C 和 E) 富含中性粒细胞的炎性浸润，随后出现脓肿形成和/或潜在心肌组织的液化性坏死，常见于晚期病变。\n\n(选项 D) 二尖瓣黏液样变性的特征是二尖瓣叶增厚和冗余，伴有腱索延长，导致一个或两个二尖瓣叶脱垂（二尖瓣脱垂）。黏液样变性可能使患者易患心内膜炎；然而，心内膜炎赘生物本身并非通过黏液样变性形成。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathogenesis of infective endocarditis, specifically the initial steps involving disruption of the endocardial surface and subsequent fibrin deposition. Understanding the sequence of events leading to vegetation formation is crucial for answering this question.\n\nThe best approach is to recall the initial steps in the development of infective endocarditis. The disruption of the endocardial surface leads to fibrin and platelet deposition, forming a sterile nidus that bacteria can then colonize. Eliminate options that describe later stages or unrelated processes.",
+    "zh": "本题考察对感染性心内膜炎发病机制的了解，特别是涉及心内膜表面破坏和随后纤维蛋白沉积的初始步骤。了解导致赘生物形成的事件顺序对于回答这个问题至关重要。\n\n最好的方法是回忆感染性心内膜炎发展的初始步骤。心内膜表面的破坏导致纤维蛋白和血小板沉积，形成一个无菌核心，然后细菌可以定植。排除描述后期阶段或不相关过程的选项。"
+  },
+  "tags": "Infective endocarditis; Streptococcus; Fibrin deposition; Endocardial damage; Vegetation formation; Cardiology; Microbiology; Pathogenesis",
+  "category": "CVS",
+  "question_id": "2075",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\2075",
+  "extracted_at": "2025-11-05T12:09:36.548364",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:27:55.507351",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

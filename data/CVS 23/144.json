@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old man comes to the office for follow-up of hypertension and coronary heart disease. He has been on several medications in the past with suboptimal blood pressure control. The physician considers adding verapamil to the patient's current regimen, as its vasodilatory properties make it useful for controlling systemic hypertension. Verapamil also affects cardiac contractility but has a minimal effect on skeletal muscle. Which of the following properties of skeletal muscle is responsible for its resistance to the medication?",
+    "zh": "一名55岁男性因高血压和冠心病的复诊来到诊所。他过去曾服用过几种药物，但血压控制不佳。医生考虑在患者目前的治疗方案中加入维拉帕米，因为其血管舒张特性使其可用于控制全身高血压。维拉帕米也会影响心脏收缩力，但对骨骼肌的影响很小。以下哪种骨骼肌的特性是其对该药物产生耐药性的原因？"
+  },
+  "question": {
+    "en": "Which of the following properties of skeletal muscle is responsible for its resistance to the medication?",
+    "zh": "以下哪种骨骼肌的特性是其对该药物产生耐药性的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Calmodulin-independent excitation-contraction coupling",
+      "zh": "钙调蛋白非依赖性兴奋-收缩偶联"
+    },
+    "B": {
+      "en": "Decreased troponin affinity to intracellular calcium",
+      "zh": "肌钙蛋白对细胞内钙的亲和力降低"
+    },
+    "C": {
+      "en": "Elaborate T-tubular system",
+      "zh": "发达的T小管系统"
+    },
+    "D": {
+      "en": "Lack of internal automaticity",
+      "zh": "缺乏内在自律性"
+    },
+    "E": {
+      "en": "Little dependence on extracellular calcium influx",
+      "zh": "对细胞外钙内流的依赖性小"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Calcium plays an important role in excitation-contraction coupling in cardiac, smooth, and skeletal muscle cells. Myocyte depolarization causes activation of L-type calcium channels on the plasma membrane. In cardiac and smooth muscle cells, this leads to an influx of extracellular calcium that activates sarcoplasmic RyR channels, inducing the release of additional calcium from the sarcoplasmic reticulum (calcium-induced calcium release). The released calcium binds to troponin (cardiac muscle) or calmodulin (smooth muscle), allowing actin and myosin to interact and cause muscle contraction.\n\nIn contrast, the L-type calcium channels in skeletal muscle directly interact with RyR calcium channels to release calcium from the sarcoplasmic reticulum. This mechanical coupling {{exhibit_1}} between the receptors allows sarcoplasmic calcium release to occur without significant influx of calcium across the plasma membrane. Verapamil is a nondihydropyridine calcium channel blocker that acts by blocking L-type calcium channels, preventing the initial calcium influx into cardiac myocytes and vascular smooth muscle cells. Because skeletal muscle is not dependent on extracellular calcium influx, calcium channel blockers do not affect skeletal muscle contractility.\n\n(Choice A) Troponin (but not calmodulin) is responsible for contraction of both cardiac and skeletal muscle. Unlike skeletal muscle, cardiac muscle is affected by verapamil due to its dependence on extracellular calcium to induce calcium release from the sarcoplasmic reticulum.\n\n(Choice B) A rise in intracellular calcium concentration results in a structural change in the troponin complex that allows actin and myosin to interact and cause skeletal muscle contraction. Calcium channel blockers do not affect troponin's affinity to intracellular calcium.\n\n(Choice C) An elaborate T tubule system is present in skeletal and cardiac muscle but not in smooth muscle. T tubules are a communication of the extracellular space that allows the depolarization impulse to reach deep into the cell, nearer to the myofilaments. They are in close proximity to the sarcoplasmic reticulum and therefore facilitate rapid release of intracellular calcium stores.\n\n(Choice D) Unlike cardiac myocytes and specialized smooth muscle tissue (eg, gastrointestinal tract, ureters), skeletal muscle does not display automaticity and contracts only in response to the neurotransmitter acetylcholine. However, the mechanical coupling between L-type and RyR calcium channels is responsible for skeletal muscle's resistance to verapamil.\n\nEducational objective:\nContraction initiation in cardiac and smooth muscle cells is dependent on extracellular calcium influx through L-type calcium channels, which can be prevented by calcium channel blockers (eg, verapamil). Skeletal muscle is resistant to calcium channel blockers, as calcium release by the sarcoplasmic reticulum is triggered by a mechanical interaction between L-type and RyR calcium channels. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "钙在心肌、平滑肌和骨骼肌细胞的兴奋-收缩偶联中起重要作用。肌细胞去极化导致质膜上的L型钙通道激活。在心肌和平滑肌细胞中，这会导致细胞外钙内流，激活肌质网RyR通道，诱导肌质网释放额外的钙（钙诱导的钙释放）。释放的钙与肌钙蛋白（心肌）或钙调蛋白（平滑肌）结合，从而使肌动蛋白和肌球蛋白相互作用并引起肌肉收缩。\n\n相比之下，骨骼肌中的L型钙通道直接与RyR钙通道相互作用，从肌质网释放钙。这种受体之间的机械偶联 {{exhibit_1}} 使得肌质网钙释放能够发生，而无需大量的钙穿过质膜内流。维拉帕米是一种非二氢吡啶类钙通道阻滞剂，通过阻断L型钙通道发挥作用，从而阻止钙最初流入心肌细胞和血管平滑肌细胞。由于骨骼肌不依赖于细胞外钙内流，因此钙通道阻滞剂不会影响骨骼肌收缩力。\n\n(选项A) 肌钙蛋白（而非钙调蛋白）负责心肌和骨骼肌的收缩。与骨骼肌不同，心肌受维拉帕米的影响，因为它依赖于细胞外钙来诱导肌质网释放钙。\n\n(选项B) 细胞内钙浓度的升高导致肌钙蛋白复合物的结构变化，从而使肌动蛋白和肌球蛋白相互作用并引起骨骼肌收缩。钙通道阻滞剂不会影响肌钙蛋白对细胞内钙的亲和力。\n\n(选项C) 骨骼肌和心肌中存在发达的T小管系统，但平滑肌中不存在。T小管是细胞外空间的一种延伸，使去极化冲动能够到达细胞深处，更靠近肌丝。它们与肌质网非常接近，因此有助于快速释放细胞内钙储存。\n\n(选项D) 与心肌细胞和特殊平滑肌组织（例如，胃肠道、输尿管）不同，骨骼肌不表现出自律性，仅响应神经递质乙酰胆碱而收缩。然而，L型和RyR钙通道之间的机械偶联是骨骼肌对维拉帕米产生耐药性的原因。\n\n教学目标：\n心肌和平滑肌细胞收缩的起始依赖于通过L型钙通道的细胞外钙内流，而钙通道阻滞剂（例如，维拉帕米）可以阻止这种内流。骨骼肌对钙通道阻滞剂具有耐药性，因为肌质网释放钙是由L型和RyR钙通道之间的机械相互作用触发的。 {{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests the mechanism of action of verapamil and the differences in calcium handling between cardiac, smooth, and skeletal muscle. Specifically, it focuses on why skeletal muscle is less affected by calcium channel blockers like verapamil compared to cardiac and smooth muscle.\n\nTo solve this question, understand that verapamil blocks L-type calcium channels, which are important for extracellular calcium influx in cardiac and smooth muscle. Skeletal muscle relies more on intracellular calcium release from the sarcoplasmic reticulum via mechanical coupling, making it less dependent on extracellular calcium influx and therefore less sensitive to verapamil.",
+    "zh": "此问题考察维拉帕米的作用机制以及心肌、平滑肌和骨骼肌之间钙处理的差异。具体来说，它侧重于为什么骨骼肌比心肌和平滑肌更少地受到钙通道阻滞剂（如维拉帕米）的影响。\n\n要解决这个问题，请了解维拉帕米会阻断L型钙通道，这对于心肌和平滑肌中的细胞外钙内流很重要。骨骼肌更多地依赖于肌质网通过机械偶联释放细胞内钙，使其对细胞外钙内流的依赖性降低，因此对维拉帕米不敏感。"
+  },
+  "tags": "Verapamil; Calcium channel blockers; Skeletal muscle; Cardiac muscle; Smooth muscle; Excitation-contraction coupling; L-type calcium channels; Ryanodine receptors; Sarcoplasmic reticulum; Hypertension",
+  "category": "CVS",
+  "question_id": "144",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\144",
+  "extracted_at": "2025-11-05T11:53:35.424259",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:45:31.234331",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

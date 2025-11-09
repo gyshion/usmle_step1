@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 56-year-old man is brought to the emergency department due to progressive weakness and lethargy. The patient has also had a nonproductive cough for the past several weeks. He has no prior medical conditions and takes no medications. He has smoked a pack of cigarettes daily for 30 years. Physical examination shows no abnormalities. Chest x-ray reveals a lung mass. Further evaluation reveals an electrolyte abnormality induced by ectopic antidiuretic hormone production from a lung mass.",
+    "zh": "一名56岁男性因进行性乏力和嗜睡被送往急诊科。患者在过去几周内也有非生产性咳嗽。他之前没有病史，也没有服用药物。他每天吸一包香烟，持续30年。体格检查显示无异常。胸部X光片显示肺部肿块。进一步评估显示，肺部肿块异位抗利尿激素分泌引起了电解质异常。"
+  },
+  "question": {
+    "en": "This patient is at greatest risk of which of the following conditions if his electrolyte abnormality is corrected too quickly?",
+    "zh": "如果该患者的电解质异常被纠正得过快，他最有可能面临以下哪种情况的风险？"
+  },
+  "options": {
+    "A": {
+      "en": "Cardiac arrhythmias",
+      "zh": "心律失常"
+    },
+    "B": {
+      "en": "Cerebral demyelination",
+      "zh": "脑髓鞘脱失"
+    },
+    "C": {
+      "en": "Cerebral edema",
+      "zh": "脑水肿"
+    },
+    "D": {
+      "en": "Diffuse myonecrosis",
+      "zh": "弥漫性肌坏死"
+    },
+    "E": {
+      "en": "Intravascular hemolysis",
+      "zh": "血管内溶血"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's ectopic antidiuretic hormone production is likely to cause chronic hyponatremia due to excessive resorption of free water by the kidneys. Decreased serum tonicity causes water to cross the blood brain barrier and enter the central nervous system. In response to cellular swelling, brain cells excrete osmolytes (organic solutes [glutamate, myoinositol], electrolytes), resulting in intracellular water loss and normalization of brain volume.\n\nOverly rapid correction of chronic hyponatremia can cause OSMOTIC DEMYELINATION SYNDROME (also known as central pontine myelinolysis). A rapid increase in extracellular tonicity (eg, due to aggressive saline hydration) quickly draws water out of central nervous system cells. The resulting uncontrolled cell shrinkage leads to degeneration of astrocytes (crucial for myelin maintenance) and oligodendrocytes. Demyelination typically affects the PONS, but can also occur at extrapontine sites (eg, basal ganglia and cerebral white matter).\n\nClinical features typically become apparent within 2-6 days. Features may include SPASTIC QUADRIPLEGIA (corticospinal tract involvement) and PSEUDOBULBAR PALSy (dysphagia, dysarthria, tongue paresis). Patients with involvement of the bilateral pons may develop LOCKED-IN SYNDROME with near-total paralysis and aphasia but with intact cognitive abilities, blinking, and vertical eye movements.\n\n(Choice A) Parathyroid hormone-related protein production is associated with squamous cell carcinoma of the lung; the resultant hypercalcemia can cause cardiac arrhythmias. However, rapid correction of hypercalcemia is not associated with arrhythmias.\n\n(Choice C) Cerebral edema results from rapid correction of hypernatremia with hypotonic fluids (free water flows into brain cells). This typically occurs in patients with chronic dehydration or diabetes insipidus (antidiuretic hormone deficiency or resistance), not with excessive antidiuretic hormone production.\n\n(Choices D and E) Severe hypophosphatemia can occur when feeding a severely malnourished patient (refeeding syndrome). It results in ATP depletion, which can cause hemolysis and rhabdomyolysis (diffuse myonecrosis). Patients require rapid correction of the phosphorus deficiency to prevent these conditions (unlike sodium, which should be corrected slowly to prevent osmotic demyelination).\n\nEducational objective: Rapid correction of chronic hyponatremia may lead to osmotic demyelination syndrome (also known as central pontine myelinolysis). It typically manifests 2-6 days after the osmotic insult with spastic quadriplegia, pseudobulbar palsy, and locked-in syndrome.",
+    "zh": "该患者的异位抗利尿激素分泌可能导致慢性低钠血症，原因是肾脏过度重吸收游离水。血清渗透压降低导致水穿过血脑屏障进入中枢神经系统。为了应对细胞肿胀，脑细胞会排出渗透物（有机溶质[谷氨酸、肌醇]，电解质），导致细胞内失水和脑容量正常化。\n\n过度快速纠正慢性低钠血症可导致渗透性脱髓鞘综合征（也称为桥脑中央髓鞘溶解症）。细胞外渗透压的快速升高（例如，由于积极的盐水补液）会迅速将水从中枢神经系统细胞中吸出。由此产生的失控细胞收缩会导致星形胶质细胞（对髓磷脂维持至关重要）和少突胶质细胞的变性。脱髓鞘通常会影响脑桥，但也可能发生在桥外部位（例如，基底神经节和大脑白质）。\n\n临床表现通常在2-6天内变得明显。表现可能包括痉挛性四肢瘫（皮质脊髓束受累）和假性延髓麻痹（吞咽困难、构音障碍、舌瘫）。双侧脑桥受累的患者可能会发展为闭锁综合征，表现为近乎完全的瘫痪和失语，但认知能力、眨眼和垂直眼球运动完好。\n\n（选项A）甲状旁腺激素相关蛋白的产生与肺鳞状细胞癌有关；由此导致的高钙血症可引起心律失常。然而，快速纠正高钙血症与心律失常无关。\n\n（选项C）脑水肿是由于用低渗液体（游离水流入脑细胞）快速纠正高钠血症所致。这种情况通常发生在慢性脱水或尿崩症（抗利尿激素缺乏或抵抗）患者中，而不是在抗利尿激素分泌过多的患者中。\n\n（选项D和E）当给严重营养不良的患者喂食时（再喂养综合征），可能会发生严重的低磷酸盐血症。它会导致ATP耗竭，从而导致溶血和横纹肌溶解（弥漫性肌坏死）。患者需要快速纠正磷缺乏症以预防这些情况（与钠不同，钠应缓慢纠正以防止渗透性脱髓鞘）。\n\n教育目标：快速纠正慢性低钠血症可能导致渗透性脱髓鞘综合征（也称为桥脑中央髓鞘溶解症）。它通常在渗透性损伤后2-6天出现，表现为痉挛性四肢瘫、假性延髓麻痹和闭锁综合征。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the risks associated with the rapid correction of chronic hyponatremia, specifically the development of osmotic demyelination syndrome. It requires knowledge of the pathophysiology of hyponatremia and the consequences of rapid electrolyte shifts on the central nervous system.\n\nTo solve this question, identify the underlying electrolyte abnormality (chronic hyponatremia due to ectopic ADH production) and recall the potential complications of its rapid correction. Differentiate this from conditions caused by rapid correction of other electrolyte imbalances like hypernatremia or hypophosphatemia.",
+    "zh": "这个问题测试了对与快速纠正慢性低钠血症相关的风险的理解，特别是渗透性脱髓鞘综合征的发展。它需要了解低钠血症的病理生理学以及快速电解质变化对中枢神经系统的影响。\n\n要解决这个问题，请确定潜在的电解质异常（由于异位ADH产生的慢性低钠血症）并回忆其快速纠正的潜在并发症。将其与因快速纠正其他电解质失衡（如高钠血症或低磷酸盐血症）引起的病症区分开来。"
+  },
+  "tags": "Hyponatremia; SIADH; Ectopic ADH production; Lung mass; Osmotic demyelination syndrome; Central pontine myelinolysis; Neurological complications; Electrolyte abnormalities; Oncology",
+  "category": "Neuro",
+  "question_id": "915",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\915",
+  "extracted_at": "2025-11-05T19:42:18.503648",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:43:55.828816",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

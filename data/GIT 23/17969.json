@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "62-year-old male presents with abdominal swelling. Exam reveals icteric sclera and spider angiomas. Labs show sodium 130 mEq/dL and creatinine 1.1 mg/dL. {{exhibit_1}} Which of the following would most likely be seen in this patient?",
+    "zh": "一名62岁男性出现腹胀。体格检查显示巩膜黄染和蜘蛛痣。实验室检查显示钠130 mEq/dL，肌酐1.1 mg/dL。{{exhibit_1}} 该患者最有可能出现以下哪种情况？"
+  },
+  "question": {
+    "en": "Which of the following would most likely be seen in this patient?",
+    "zh": "该患者最有可能出现以下哪种情况？"
+  },
+  "options": {
+    "A": {
+      "en": "Serum antidiuretic hormone: ↑, Urine sodium: ↓, Total body volume: ↑",
+      "zh": "血清抗利尿激素：↑，尿钠：↓，总体液量：↑"
+    },
+    "B": {
+      "en": "Serum antidiuretic hormone: ↑, Urine sodium: ↓, Total body volume: ↓",
+      "zh": "血清抗利尿激素：↑，尿钠：↓，总体液量：↓"
+    },
+    "C": {
+      "en": "Serum antidiuretic hormone: ↑, Urine sodium: ↑, Total body volume: normal",
+      "zh": "血清抗利尿激素：↑，尿钠：↑，总体液量：正常"
+    },
+    "D": {
+      "en": "Serum antidiuretic hormone: ↓, Urine sodium: ↑, Total body volume: normal",
+      "zh": "血清抗利尿激素：↓，尿钠：↑，总体液量：正常"
+    },
+    "E": {
+      "en": "Serum antidiuretic hormone: ↑, Urine sodium: ↑, Total body volume: ↓",
+      "zh": "血清抗利尿激素：↑，尿钠：↑，总体液量：↓"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The patient has cirrhosis, leading to portal hypertension and ascites. This results in reduced renal perfusion and activation of the renin-angiotensin-aldosterone system (RAAS) and increased release of antidiuretic hormone (ADH) in an effort to restore circulating volume. The combined aldosterone and ADH effects lead to increased renal resorption of sodium (i.e., lower urine sodium) and water. This leads to increased total body volume. {{exhibit_2}}",
+    "zh": "该患者患有肝硬化，导致门静脉高压和腹水。这导致肾脏灌注减少，并激活肾素-血管紧张素-醛固酮系统 (RAAS)，同时增加抗利尿激素 (ADH) 的释放，以试图恢复循环血容量。醛固酮和ADH的共同作用导致肾脏对钠（即，较低的尿钠）和水的重吸收增加。这导致总体液量增加。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "A patient with cirrhosis and ascites will have increased ADH and aldosterone, leading to increased sodium and water retention, resulting in increased total body volume and decreased urine sodium.",
+    "zh": "患有肝硬化和腹水的患者将增加ADH和醛固酮，导致钠和水的潴留增加，从而导致总体液量增加和尿钠减少。"
+  },
+  "tags": [
+    "Cirrhosis",
+    "Ascites",
+    "ADH",
+    "Aldosterone",
+    "Sodium Retention",
+    "Fluid Balance"
+  ],
+  "category": "GIT",
+  "question_id": "17969",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\17969",
+  "extracted_at": "2025-11-05T14:28:31.927826",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T17:53:16.998844",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

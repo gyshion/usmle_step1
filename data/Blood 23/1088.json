@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 72-year-old woman comes to the office for a routine follow-up appointment. She has no symptoms and her past medical history is insignificant. Her temperature is 36.7 C (98 F), blood pressure is 110/80 mm Hg, and pulse is 76/min and irregular. ECG shows atrial fibrillation with no ischemic changes. Anticoagulation therapy with warfarin is initiated for stroke prevention. Two days later, the patient is hospitalized with severe skin and subcutaneous fat necrosis. ",
+    "zh": "一名72岁女性因常规复诊来到诊室。她无症状，既往病史无重要意义。体温36.7°C（98°F），血压110/80 mmHg，脉搏76次/分钟且不规律。心电图显示房颤，无缺血性改变。为预防卒中，开始华法林抗凝治疗。两天后，患者因严重的皮肤和皮下脂肪坏死而住院。"
+  },
+  "question": {
+    "en": "Drug effects on which of the following processes are most likely responsible for this patient's skin findings?",
+    "zh": "药物对以下哪种过程的影响最可能导致该患者的皮肤表现？"
+  },
+  "options": {
+    "A": {
+      "en": "Factor IX synthesis",
+      "zh": "因子IX合成"
+    },
+    "B": {
+      "en": "Factor VIIa activity",
+      "zh": "因子VIIa活性"
+    },
+    "C": {
+      "en": "Factor XIa activity",
+      "zh": "因子XIa活性"
+    },
+    "D": {
+      "en": "Fibrinogen conversion",
+      "zh": "纤维蛋白原转化"
+    },
+    "E": {
+      "en": "Protein C activity",
+      "zh": "蛋白C活性"
+    },
+    "F": {
+      "en": "Prothrombin conversion",
+      "zh": "凝血酶原转化"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient has warfarin-induced skin necrosis, a rare but important complication of warfarin initiation. It is thought to be due to a transient hypercoagulable state that can occur during the first few days of warfarin therapy.\n\nThe overall anticoagulant effect of warfarin is due primarily to its inhibition of the vitamin K-dependent gamma-carboxylation of clotting factors II, VII, IX, and X (\"vitamin K-dependent clotting factors\"). However, warfarin also decreases carboxylation of proteins C and S, which normally exert an anticoagulant effect (through proteolysis and deactivation of factors V and VIII). Protein C has a short half-life, so its anticoagulant activity is reduced quickly when warfarin therapy is initiated, by about 50% within the first day. During this time, the vitamin K-dependent clotting factors II, IX, and X continue to exert a procoagulant effect as they have longer half-lives (factor VII has a short half-life similar to protein C).\n\nThis difference in half-lives translates into a transient hypercoagulable state:\n\n*   Decreased protein C (anticoagulant) activity → procoagulant effect\n*   Persistent clotting factor II, IX, and X activity → procoagulant effect\n\nThrombosis and clot can interrupt blood flow to the skin and lead to skin necrosis. For this reason, overlapping coadministration of heparin (\"heparin bridge\") is commonly used when warfarin is initiated. The risk of warfarin-induced skin necrosis is increased in patients with a preexisting protein C deficiency, as well as in those started on a large loading dose of warfarin.\n\n(Choice A) Warfarin affects coagulation factor carboxylation, not synthesis.\n\n(Choice B) Factor VII inhibition by warfarin has an anticoagulant effect.\n\n(Choice C) Warfarin does not have a major direct effect on factor XI activity that would cause skin necrosis.\n\n(Choices D and F) Fibrinogen and prothrombin activity may be impacted downstream, but this is not the primary process affected by warfarin.\n\nEducational objective:\nWarfarin inhibits proteins C and S (natural anticoagulants present in blood), which can lead to skin necrosis, particularly in patients with protein C or S deficiency. This complication is usually seen in the first few days of warfarin therapy.",
+    "zh": "该患者患有华法林诱导的皮肤坏死，这是华法林起始治疗的一种罕见但重要的并发症。这被认为是由于在华法林治疗的最初几天可能发生的短暂高凝状态所致。\n\n华法林的整体抗凝作用主要归因于其对维生素K依赖性凝血因子II、VII、IX和X（“维生素K依赖性凝血因子”）的γ-羧化作用的抑制。然而，华法林也会降低蛋白C和S的羧化作用，而蛋白C和S通常发挥抗凝作用（通过蛋白水解和使因子V和VIII失活）。蛋白C的半衰期短，因此当开始华法林治疗时，其抗凝活性会迅速降低，在第一天内降低约50%。在此期间，维生素K依赖性凝血因子II、IX和X继续发挥促凝作用，因为它们的半衰期较长（因子VII的半衰期与蛋白C相似）。\n\n这种半衰期的差异转化为短暂的高凝状态：\n\n*   蛋白C（抗凝剂）活性降低 → 促凝作用\n*   持续的凝血因子II、IX和X活性 → 促凝作用\n\n血栓形成和血凝块会中断流向皮肤的血流，并导致皮肤坏死。因此，当开始使用华法林时，通常同时使用肝素（“肝素桥接”）。华法林诱导的皮肤坏死的风险在已存在蛋白C缺乏症的患者以及开始大剂量华法林的患者中增加。\n\n（选项A）华法林影响凝血因子的羧化作用，而不是合成。\n\n（选项B）华法林对因子VII的抑制具有抗凝作用。\n\n（选项C）华法林对因子XI活性没有主要的直接影响，不会引起皮肤坏死。\n\n（选项D和F）纤维蛋白原和凝血酶原活性可能会受到下游的影响，但这并不是华法林影响的主要过程。\n\n教育目标：\n华法林抑制蛋白C和S（血液中存在的天然抗凝剂），这可能导致皮肤坏死，尤其是在蛋白C或S缺乏症患者中。这种并发症通常发生在华法林治疗的最初几天。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of warfarin-induced skin necrosis, a rare but serious complication of warfarin therapy. It assesses understanding of the mechanism of action of warfarin and the transient hypercoagulable state that can occur during the initial days of treatment due to the differential effects on vitamin K-dependent clotting factors and proteins C and S.\n\nThe key to solving this question is recognizing that warfarin initially decreases protein C levels more rapidly than other clotting factors, leading to a temporary procoagulant state. This is especially important in patients with pre-existing protein C deficiency.",
+    "zh": "这个问题考察了对华法林诱导的皮肤坏死的了解，这是一种罕见但严重的华法林治疗并发症。它评估了对华法林作用机制的理解，以及由于对维生素K依赖性凝血因子和蛋白C和S的不同影响而在治疗初期几天可能发生的短暂高凝状态。\n\n解决这个问题的关键是认识到华法林最初降低蛋白C水平的速度比其他凝血因子快，从而导致暂时的促凝状态。这对于已存在蛋白C缺乏症的患者尤为重要。"
+  },
+  "tags": "Warfarin-induced skin necrosis; Warfarin; Protein C; Anticoagulation; Hypercoagulable state; Vitamin K-dependent clotting factors; Hematology; Drug side effects",
+  "category": "Blood",
+  "question_id": "1088",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1088",
+  "extracted_at": "2025-11-05T11:19:01.428237",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:25:38.295474",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

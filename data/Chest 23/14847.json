@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 37-year-old woman is evaluated for exertional shortness of breath. The patient has had progressive dyspnea for the last year and for the last 2 months has been unable to walk half a block without stopping to rest. She also describes lightheadedness during exertion. Medical history is insignificant, and vital signs are within normal limits. BMI is 23 kg/m². Physical examination reveals a 2/6 holosystolic murmur at the lower sternal border, which increases with inspiration. Further evaluation indicates no evidence of obstructive or interstitial lung disease or venous thromboembolism. Cardiac catheterization results are as follows:\n\nMean pulmonary artery pressure 43 mm Hg (normal: 8-20)\nPulmonary capillary wedge pressure 9 mm Hg (normal: 6-12)",
+    "zh": "一位37岁的女性因劳力性呼吸困难就诊。患者在过去一年中出现进行性呼吸困难，并且在过去的2个月中，她无法在不停下来休息的情况下走半个街区。她还描述了在劳力时感到头晕。病史无特殊，生命体征在正常范围内。BMI为23 kg/m²。体格检查显示胸骨下缘有2/6的全收缩期杂音，吸气时增强。进一步评估表明没有阻塞性或间质性肺病或静脉血栓栓塞的证据。心脏导管插入术结果如下：\n\n平均肺动脉压 43 mm Hg（正常：8-20）\n肺毛细血管楔压 9 mm Hg（正常：6-12）"
+  },
+  "question": {
+    "en": "Pharmacotherapy blocking the effects of which of the following substances is most likely to benefit this patient?",
+    "zh": "阻断以下哪种物质的作用的药物治疗最有可能使该患者获益？"
+  },
+  "options": {
+    "A": {
+      "en": "Aldosterone",
+      "zh": "醛固酮"
+    },
+    "B": {
+      "en": "Angiotensin II",
+      "zh": "血管紧张素II"
+    },
+    "C": {
+      "en": "Endothelin",
+      "zh": "内皮素"
+    },
+    "D": {
+      "en": "Norepinephrine",
+      "zh": "去甲肾上腺素"
+    },
+    "E": {
+      "en": "Serotonin",
+      "zh": "血清素"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has pulmonary hypertension, which typically presents with progressive dyspnea and fatigue, sometimes with associated chest pain and exertional lightheadedness or syncope. Due to right ventricular enlargement, a holosystolic murmur of functional tricuspid regurgitation is often present.\n\nPulmonary hypertension can occur due to a primary change in the pulmonary arteries or it can be secondary to a separate disease process; secondary causes include left-sided heart failure (ruled out by pulmonary capillary wedge pressure ≤12 mm Hg), chronic lung hypoxia (eg, interstitial lung disease), and chronic pulmonary thromboembolic disease. Pulmonary hypertension due to a primary change in the pulmonary arteries, termed pulmonary arterial hypertension (PAH), results from proliferative vasculopathy of the pulmonary arteriolar smooth muscle, which may occur in the setting of hereditary genetic mutation (BMPR2 mutation is most common), connective tissue disease, or HIV infection.\n\nEndothelin is a potent vasoconstrictor that also promotes smooth muscle cell proliferation; it is typically found in high concentrations in patients with PAH and it is an important target of therapy for the disease. Endothelin receptor antagonists (eg, bosentan, ambrisentan) inhibit pulmonary arteriolar smooth muscle proliferation and alleviate vasoconstriction to lower pulmonary arterial pressure and improve dyspnea in patients with PAH.\n\n(Choices A, B, and D) Aldosterone (mineralocorticoid) receptor antagonists (eg, spironolactone), angiotensin II receptor blockers (eg, losartan), and beta blockers (antagonists of the beta-1 adrenergic receptors that norepinephrine stimulates, eg, metoprolol) help prevent cardiac remodeling in patients with left ventricular systolic dysfunction. These drugs can be used to treat pulmonary hypertension that develops secondary to left-sided heart failure; however, they are not used for PAH as a direct effect on pulmonary vascular remodeling has not been established.\n\n(Choice E) In carcinoid syndrome, high circulating levels of serotonin may cause deposition of fibrous tissue on the right-sided heart valves, typically leading to tricuspid regurgitation and/or pulmonic stenosis. Agents that block the effects of serotonin (eg, octreotide) can be helpful in treating carcinoid syndrome; however, carcinoid syndrome would not explain the elevated pulmonary arterial pressure in this patient. The role of serotonin in PAH has not been well-defined.\n\nEducational objective:\nPulmonary hypertension can occur due to a primary change in the pulmonary arteries (ie, pulmonary arterial hypertension) or it can be secondary to a separate disease process such as left-sided heart failure (ruled out by normal pulmonary capillary wedge pressure). Endothelin receptor antagonists (eg, bosentan, ambrisentan) lower pulmonary arterial pressure and improve dyspnea in patients with PAH. {{exhibit_1}} {{exhibit_2}}",
+    "zh": "该患者患有肺动脉高压，通常表现为进行性呼吸困难和疲劳，有时伴有胸痛和劳力性头晕或晕厥。由于右心室扩大，通常存在功能性三尖瓣反流的全收缩期杂音。\n\n肺动脉高压可由于肺动脉的初级改变而发生，或者可能继发于单独的疾病过程；继发原因包括左心衰竭（由肺毛细血管楔压≤12 mm Hg排除），慢性肺低氧血症（例如，间质性肺病）和慢性肺血栓栓塞性疾病。由于肺动脉的初级改变导致的肺动脉高压，称为肺动脉高压 (PAH)，是由肺小动脉平滑肌的增殖性血管病变引起的，这可能发生在遗传基因突变（BMPR2 突变最常见）、结缔组织疾病或 HIV 感染的情况下。\n\n内皮素是一种强效血管收缩剂，也可促进平滑肌细胞增殖；它通常在 PAH 患者中以高浓度存在，并且是该疾病的重要治疗靶点。内皮素受体拮抗剂（例如，波生坦、安立生坦）抑制肺小动脉平滑肌增殖并减轻血管收缩，以降低肺动脉压力并改善 PAH 患者的呼吸困难。\n\n（选项 A、B 和 D）醛固酮（盐皮质激素）受体拮抗剂（例如，螺内酯）、血管紧张素 II 受体阻滞剂（例如，氯沙坦）和 β 受体阻滞剂（β-1 肾上腺素能受体的拮抗剂，去甲肾上腺素刺激，例如，美托洛尔）有助于预防左心室收缩功能障碍患者的心脏重塑。这些药物可用于治疗继发于左心衰竭的肺动脉高压；但是，它们不用于 PAH，因为尚未确定对肺血管重塑的直接影响。\n\n（选项 E）在类癌综合征中，高循环水平的血清素可能导致纤维组织沉积在右侧心脏瓣膜上，通常导致三尖瓣反流和/或肺动脉狭窄。阻断血清素作用的药物（例如，奥曲肽）可能有助于治疗类癌综合征；但是，类癌综合征不能解释该患者肺动脉压力的升高。血清素在 PAH 中的作用尚未明确。\n\n教育目标：\n肺动脉高压可由于肺动脉的初级改变（即，肺动脉高压）而发生，或者可能继发于单独的疾病过程，例如左心衰竭（由正常的肺毛细血管楔压排除）。内皮素受体拮抗剂（例如，波生坦、安立生坦）降低肺动脉压力并改善 PAH 患者的呼吸困难。{{exhibit_1}} {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pulmonary hypertension, specifically pulmonary arterial hypertension (PAH), and the mechanism of action of endothelin receptor antagonists in treating PAH. It also requires differentiating PAH from other causes of pulmonary hypertension.\n\nTo solve this question, recognize the signs and symptoms of pulmonary hypertension, rule out secondary causes based on the provided data (normal wedge pressure), and identify endothelin as a key mediator in PAH pathophysiology, making endothelin receptor antagonists the appropriate treatment target.",
+    "zh": "这道题测试对肺动脉高压的知识，特别是肺动脉高压 (PAH)，以及内皮素受体拮抗剂治疗 PAH 的作用机制。它还需要将 PAH 与肺动脉高压的其他原因区分开来。\n\n要解决这个问题，需要识别肺动脉高压的体征和症状，根据提供的数据（正常楔压）排除继发原因，并将内皮素确定为 PAH 病理生理学的关键介质，从而使内皮素受体拮抗剂成为合适的治疗靶点。"
+  },
+  "tags": "Pulmonary hypertension; Pulmonary arterial hypertension; Endothelin; Vasoconstriction; Right heart failure; Cardiac catheterization; BMPR2 mutation; Endothelin receptor antagonists; Bosentan; Ambrisentan",
+  "category": "Chest",
+  "question_id": "14847",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\14847",
+  "extracted_at": "2025-11-05T11:37:36.284004",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:34:32.301835",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

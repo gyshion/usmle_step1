@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man with a history of atrial fibrillation comes to the office due to numbness of his left hand for the past 3 weeks. When the eyes are closed, he is unable to recognize the letters written on his left hand with a stylus. Muscle strength is normal in all extremities. Deep tendon reflexes are 2+. Gait is normal. This patient most likely has a lesion in which of the following locations of the brain? {{exhibit_1}}",
+    "zh": "一位有心房颤动病史的65岁男性因左手麻木3周前来就诊。闭上眼睛时，他无法用触笔识别写在他左手上的字母。所有四肢的肌肉力量正常。深腱反射为2+。步态正常。这位患者最有可能在脑部的以下哪个位置有病变？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "This patient most likely has a lesion in which of the following locations of the brain?",
+    "zh": "这位患者最有可能在脑部的以下哪个位置有病变？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has isolated numbness of his left hand and graphesthesia, which are suspicious for a lesion impacting the right somatosensory cortex. A small lesion of the somatosensory cortex leads to contralateral deficits impacting the corresponding area of the body. Higher-level sensory processing (ie, cortical sensory signs) can also be impaired. This may include loss of the following:\n\n•\tTwo-point discrimination\n•\tStereognosis, or the ability to recognize an object only through touch\n•\tAbility to perceive multiple stimuli at the same time (loss of this is called extinction)\n•\tGraphesthesia, or the ability to recognize numbers or letters traced on the palm\n\nThe primary somatosensory cortex is located on the postcentral gyrus, which is posterior to the central sulcus and superior to the lateral sulcus.\n\n(Choice B) The area just anterior to the central sulcus (precentral gyrus) is the primary motor cortex. A lesion in this area would lead to weakness according to the somatotopic organization of the cortex.\n\n(Choice C) This area indicates the frontal eye fields, an area that directs gaze to produce conjugate horizontal gaze. An ischemic lesion in this area would lead to gaze deviation toward the side of the lesion (ie, rightward deviation if the right hemisphere is impacted).\n\n(Choice D) This is the occipital cortex, the area of the primary visual cortex. A lesion in this area would cause cortical blindness.\n\n(Choice E) A lesion impacting the cerebellum typically leads to ataxia and vertigo.\n\nEducational objective:\nA lesion of the somatosensory cortex, located just posterior to the central sulcus, leads to contralateral sensory deficits and cortical sensory signs.",
+    "zh": "该患者左手出现孤立性麻木和图形感觉缺失，这提示可能影响右侧体感皮层的病变。体感皮层的小病变会导致对侧身体相应区域的缺陷。高级感觉处理（即皮质感觉体征）也可能受损。这可能包括以下内容的缺失：\n\n•\t两点辨别觉\n•\t物体触觉识别，或仅通过触摸识别物体的能力\n•\t同时感知多个刺激的能力（这种能力的丧失称为消退）\n•\t图形感觉缺失，或识别在手掌上描画的数字或字母的能力\n\n主要的体感皮层位于中央后回，该区域位于中央沟的后方，外侧沟的上方。\n\n(选项 B) 中央沟正前方的区域（中央前回）是主要的运动皮层。根据皮质的体感定位组织，该区域的病变会导致无力。\n\n(选项 C) 该区域指示额叶眼动区，该区域引导注视以产生共轭水平凝视。该区域的缺血性病变将导致凝视偏向病变侧（即，如果影响右半球，则向右偏斜）。\n\n(选项 D) 这是枕叶皮层，是主要视觉皮层的区域。该区域的病变会导致皮质盲。\n\n(选项 E) 影响小脑的病变通常会导致共济失调和眩晕。\n\n教育目标：\n体感皮层的病变，位于中央沟的正后方，导致对侧感觉缺陷和皮质感觉体征。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the somatosensory cortex and the deficits that arise from lesions in this area, specifically graphesthesia. It also tests the ability to localize the somatosensory cortex on a brain diagram.\n\nTo solve this question, recognize that graphesthesia indicates a lesion in the somatosensory cortex. Then, identify the postcentral gyrus (somatosensory cortex) on the brain diagram {{exhibit_2}}, {{exhibit_3}}, {{exhibit_4}}.",
+    "zh": "本题测试对体感皮层的知识以及该区域病变引起的缺陷，特别是图形感觉缺失。它还测试了在脑图上定位体感皮层的功能。\n\n要解决这个问题，首先要认识到图形感觉缺失表明体感皮层存在病变。然后，在脑图{{exhibit_2}}、{{exhibit_3}}、{{exhibit_4}}上识别中央后回（体感皮层）。"
+  },
+  "tags": "Somatosensory cortex; Graphesthesia; Postcentral gyrus; Neurology; Sensory deficits",
+  "category": "Neuro",
+  "question_id": "105534",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\105534",
+  "extracted_at": "2025-11-05T15:07:31.304898",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:16:06.205078",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old man experiences severe intolerance to certain medications. On 2 occasions, his reactions to various drugs have necessitated hospital admission. His family pedigree with respect to this condition is shown below, with the red arrow indicating his position within the family. {{exhibit_2}}",
+    "zh": "一名25岁男性对某些药物出现严重不耐受。在过去的2次中，他对各种药物的反应都需要住院治疗。他的家族谱系显示了这种情况，红箭头表示他在家族中的位置。{{exhibit_2}}"
+  },
+  "question": {
+    "en": "Assuming that the genetic condition demonstrates complete penetrance and is rare in the general population, which of the following inheritance patterns is most likely?",
+    "zh": "假设这种遗传状况表现出完全外显率，并且在普通人群中很罕见，那么以下哪种遗传模式最有可能？"
+  },
+  "options": {
+    "A": {
+      "en": "Autosomal dominant",
+      "zh": "常染色体显性遗传"
+    },
+    "B": {
+      "en": "Autosomal recessive",
+      "zh": "常染色体隐性遗传"
+    },
+    "C": {
+      "en": "X-linked dominant",
+      "zh": "X连锁显性遗传"
+    },
+    "D": {
+      "en": "X-linked recessive",
+      "zh": "X连锁隐性遗传"
+    },
+    "E": {
+      "en": "mitochondrial",
+      "zh": "线粒体遗传"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The pedigree shows that only males are affected by the drug intolerance. Specifically, MALE OFFSPRING OF UNAFFECTED PARENTS are affected. There is no evidence of male-to-male transmission. This pattern is most consistent with X-LINKED RECESSIVE inheritance from an asymptomatic carrier female in the first generation. In X-LINKED RECESSIVE inheritance:\n\n1.  Affected males will always produce UNAFFECTED sons and carrier daughters.\n2.  Carrier females have a 50% chance of producing an affected son or carrier daughter.",
+    "zh": "家系图显示只有男性受到药物不耐受的影响。具体来说，未受影响的父母的男性后代受到影响。没有证据表明存在男性之间的传播。这种模式与第一代无症状携带者女性的X连锁隐性遗传最为一致。在X连锁隐性遗传中：\n\n1. 受影响的男性将始终产生未受影响的儿子和携带者女儿。\n2. 携带者女性有50%的几率产生受影响的儿子或携带者女儿。"
+  },
+  "summary": {
+    "en": "1) Inheritance patterns 2) To solve, note that only males are affected by the drug intolerance, and that male offspring of unaffected parents are affected. This is most consistent with X-linked recessive inheritance.",
+    "zh": "1) 遗传模式 2) 要解决此问题，请注意只有男性受到药物不耐受的影响，并且未受影响的父母的男性后代受到影响。这与X连锁隐性遗传最为一致。"
+  },
+  "tags": "Genetics; Inheritance patterns; X-linked recessive",
+  "category": "Bio",
+  "question_id": "1727",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1727",
+  "extracted_at": "2025-11-05T10:59:38.439360",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:21:50.312898",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "Zeracizumab is an experimental angiogenesis inhibitor targeting vascular endothelial growth factor that is being tested for the treatment of advanced, chemotherapy-naive, non-squamous non-small cell lung cancer (NSCLC). Part of the drug company's evaluation process is to analyze the 1-year survival after treatment to determine the clinical efficacy of the experimental treatment. The results are given in the table below.",
+    "zh": "Zeracizumab 是一种实验性血管生成抑制剂，靶向血管内皮生长因子，目前正在测试用于治疗晚期、未经化疗的非鳞状非小细胞肺癌 (NSCLC)。制药公司评估流程的一部分是分析治疗后 1 年的生存率，以确定实验性治疗的临床疗效。结果如下表所示。"
+  },
+  "question": {
+    "en": "Which of the following best represents the number needed to harm for the zeracizumab-containing regimen?",
+    "zh": "以下哪一项最能代表含 zeracizumab 方案的需要治疗的有害人数？"
+  },
+  "options": {
+    "A": {
+      "en": "2",
+      "zh": "2"
+    },
+    "B": {
+      "en": "25",
+      "zh": "25"
+    },
+    "C": {
+      "en": "40",
+      "zh": "40"
+    },
+    "D": {
+      "en": "72",
+      "zh": "72"
+    },
+    "E": {
+      "en": "94",
+      "zh": "94"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The NUMBER NEEDED TO HARM (NNH) represents the number of people who must be treated before 1 additional adverse event occurs. It is calculated in a manner similar to the number needed to treat (NNT) but using the ABSOLUTE RISK INCREASE (attributable risk) instead of the absolute risk reduction:\n\nNNH = 1 / Absolute risk increase\n\nTo determine the absolute risk increase, first CALCULATE THE ADVERSE EVENT RATE (eg, death) in the experimental and control groups. In this case, the adverse event of interest is death at 1 year. There were 40 + 60 = 100 people treated with the experimental treatment (ie, zeracizumab-containing regimen); of those, 60 were dead at 1 year. Similarly, there were 51 + 69 = 120 people treated with standard chemotherapy; of those, 69 were dead at 1 year. Therefore:\n\nAdverse event rate in experimental group = 60 / 100 = 0.60 (ie, 60%)\nAdverse event rate in control group = 69 / 120 = 0.575 (ie, 57.5%)\n\nThe absolute risk increase can then be calculated by SUBTRACTING the adverse event rate in the control group from the adverse event rate in the treatment group:\n\nAbsolute risk increase = 0.60 – 0.575 = 0.025 (ie, 2.5%)\n\nThe absolute risk increase attributable to the treatment is 2.5% (60% risk of being dead at 1 year in the treatment group compared to 57.5% in the control group). The NNH then is simply the INVERSE of the absolute risk increase:\n\nNNH = 1 / 0.026 = 40\n\nThis result indicates that, on average, 40 PATIENTS NEED TO BE TREATED with a zeracizumab-containing regimen for 1 additional person to experience an adverse event (ie, death in 1 year).",
+    "zh": "需要治疗的有害人数 (NNH) 代表在发生 1 例额外不良事件之前必须接受治疗的人数。它以类似于需要治疗的人数 (NNT) 的方式计算，但使用绝对风险增加（可归因风险）而不是绝对风险降低：\n\nNNH = 1 / 绝对风险增加\n\n要确定绝对风险增加，首先要计算实验组和对照组中的不良事件发生率（例如，死亡）。在这种情况下，关注的不良事件是 1 年死亡。有 40 + 60 = 100 人接受了实验性治疗（即，含 zeracizumab 方案）；其中，60 人在 1 年内死亡。同样，有 51 + 69 = 120 人接受了标准化学疗法；其中，69 人在 1 年内死亡。因此：\n\n实验组不良事件发生率 = 60 / 100 = 0.60（即，60%）\n对照组不良事件发生率 = 69 / 120 = 0.575（即，57.5%）\n\n然后可以通过从对照组的不良事件发生率中减去治疗组的不良事件发生率来计算绝对风险增加：\n\n绝对风险增加 = 0.60 – 0.575 = 0.025（即，2.5%）\n\n归因于治疗的绝对风险增加为 2.5%（治疗组在 1 年内死亡的风险为 60%，而对照组为 57.5%）。然后 NNH 只是绝对风险增加的倒数：\n\nNNH = 1 / 0.026 = 40\n\n该结果表明，平均而言，需要用含 zeracizumab 方案治疗 40 名患者，才能让另一个人经历不良事件（即，1 年内死亡）。"
+  },
+  "summary": {
+    "en": "1) How to calculate the number needed to harm (NNH). 2) Calculate the adverse event rate for each group, subtract to find the absolute risk increase, and then take the inverse.",
+    "zh": "1) 如何计算需要治疗的有害人数 (NNH)。 2) 计算每组的不良事件发生率，相减得出绝对风险增加，然后取倒数。"
+  },
+  "tags": "Number needed to harm; NNH; Absolute risk increase; Adverse event rate; Biostatistics",
+  "category": "Bio",
+  "question_id": "1231",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1231",
+  "extracted_at": "2025-11-05T10:58:36.840770",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:19:53.050074",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

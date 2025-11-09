@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 22-year-old man comes to the emergency department with abdominal pain and vomiting. His symptoms began acutely 24 hours ago with nausea and decreased appetite. His medical history is unremarkable. The patient drinks 3-4 beers a week and does not use tobacco or illicit drugs. BMI is 37 kg/m2. Physical examination is notable for moderate epigastric tenderness with decreased bowel sounds but no rebound tenderness, guarding, or abdominal rigidity. Fasting laboratory studies show a serum triglyceride concentration of 1,500 mg/dL (normal: <200 mg/dL).",
+    "zh": "一名22岁男性因腹痛和呕吐来到急诊科就诊。他的症状于24小时前急性起病，伴有恶心和食欲下降。他的病史无特殊。患者每周饮用3-4杯啤酒，不吸烟或使用违禁药物。BMI为37 kg/m2。体格检查显示中度剑突下压痛，伴有肠鸣音减弱，但无反跳痛、腹肌紧张或腹部僵硬。空腹实验室检查显示血清甘油三酯浓度为1,500 mg/dL（正常值：<200 mg/dL）。"
+  },
+  "question": {
+    "en": "Once the patient has been medically stabilized, which of the following medications would be most helpful in preventing recurrences of his condition?",
+    "zh": "在患者病情得到医学稳定后，以下哪种药物对预防其病情复发最有帮助？"
+  },
+  "options": {
+    "A": {
+      "en": "Atorvastatin",
+      "zh": "阿托伐他汀"
+    },
+    "B": {
+      "en": "Cholestyramine",
+      "zh": "考来烯胺"
+    },
+    "C": {
+      "en": "Ezetimibe",
+      "zh": "依折麦布"
+    },
+    "D": {
+      "en": "Fenofibrate",
+      "zh": "非诺贝特"
+    },
+    "E": {
+      "en": "Niacin",
+      "zh": "烟酸"
+    },
+    "F": {
+      "en": "Omega-3 fatty acids",
+      "zh": "ω-3脂肪酸"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient most likely has ACUTE PANCREATITIS due to severe HYPERTRIGLYCERIDEMIA. Small quantities of pancreatic lipase normally leak into the pancreatic capillaries, where they can metabolize triglycerides to free fatty acids, which have toxic and inflammatory effects on the pancreas. The risk of pancreatitis rises with increasing triglyceride levels and is most significant when triglycerides are severely elevated (>1,000 mg/dL){{exhibit_1}}.\n\nTriglycerides loosely reflect caloric balance; a calorie-restricted diet with increased exercise and reduced alcohol intake can provide a rapid and significant drop in triglyceride levels. Lipid-lowering medications are also indicated for patients with moderate to severe hypertriglyceridemia. Fibrates (eg, fenofibrate, gemfibrozil) work by activating peroxisome proliferator-activated receptor-alpha (PPAR-α), which increases the synthesis of lipoprotein lipase.\n\n(Choice A) Although statins (eg, atorvastatin) are the preferred lipid-lowering agents for the prevention of cardiovascular disease, they only modestly lower triglyceride levels and would be less effective than fibrates for preventing recurrent pancreatitis due to hypertriglyceridemia.\n\n(Choices B and C) Bile acid-binding resins (eg, cholestyramine) work by binding bile acids in the gastrointestinal tract, subsequently interfering with enterohepatic bile acid circulation. Ezetimibe selectively inhibits intestinal cholesterol absorption. These medications are used primarily for the treatment of hypercholesterolemia.\n\n(Choice E) Niacin decreases hepatic production of VLDLs and reduces triglyceride release from adipose tissue. It has a weaker effect in lowering triglycerides than fibrates and is associated with significant side effects, especially flushing.\n\n(Choice F) Fish oil supplements containing omega-3 fatty acids lower triglyceride levels by decreasing the production of VLDLs. Fish oils decrease serum triglycerides to a lesser degree than fibrates but may be added to fibrates in patients whose triglyceride levels are not adequately controlled with a fibrate alone.\n\nEducational objective:\nIn patients with severe hypertriglyceridemia, pancreatic lipases can cause toxic levels of free fatty acids to be released within the pancreatic tissue, leading to acute pancreatitis. Fibrates (eg, fenofibrate) are the most effective agents for the treatment of hypertriglyceridemia.",
+    "zh": "该患者最有可能患有由严重高甘油三酯血症引起的急性胰腺炎。少量胰脂肪酶通常会渗漏到胰腺毛细血管中，在那里它们可以将甘油三酯代谢为游离脂肪酸，而游离脂肪酸对胰腺具有毒性和炎症作用。胰腺炎的风险随着甘油三酯水平的升高而增加，并且在甘油三酯严重升高（>1,000 mg/dL）时最为显著{{exhibit_1}}。\n\n甘油三酯大致反映热量平衡；限制热量的饮食、增加运动和减少酒精摄入可以使甘油三酯水平迅速而显着下降。降脂药物也适用于中度至重度高甘油三酯血症患者。贝特类药物（例如，非诺贝特、吉非罗齐）通过激活过氧化物酶体增殖物激活受体α（PPAR-α）来发挥作用，从而增加脂蛋白脂肪酶的合成。\n\n（选项A）尽管他汀类药物（例如，阿托伐他汀）是预防心血管疾病的首选降脂药物，但它们只能适度降低甘油三酯水平，并且在预防因高甘油三酯血症引起的复发性胰腺炎方面不如贝特类药物有效。\n\n（选项B和C）胆汁酸结合树脂（例如，考来烯胺）通过在胃肠道中结合胆汁酸来发挥作用，从而干扰肝肠循环。依折麦布选择性抑制肠道胆固醇吸收。这些药物主要用于治疗高胆固醇血症。\n\n（选项E）烟酸降低肝脏产生VLDL的量，并减少脂肪组织释放甘油三酯。它在降低甘油三酯方面的效果不如贝特类药物，并且与明显的副作用有关，尤其是潮红。\n\n（选项F）含有ω-3脂肪酸的鱼油补充剂通过减少VLDL的产生来降低甘油三酯水平。鱼油降低血清甘油三酯的程度不如贝特类药物，但可添加到贝特类药物中，用于单独使用贝特类药物无法充分控制甘油三酯水平的患者。\n\n教育目标：\n对于患有严重高甘油三酯血症的患者，胰脂肪酶会导致胰腺组织内释放出有毒水平的游离脂肪酸，从而导致急性胰腺炎。贝特类药物（例如，非诺贝特）是治疗高甘油三酯血症最有效的药物。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the etiology and management of acute pancreatitis, specifically focusing on hypertriglyceridemia-induced pancreatitis and the appropriate lipid-lowering medication for prevention. The question requires understanding the mechanism of action of different lipid-lowering agents and their effectiveness in lowering triglyceride levels.\n\nThe best approach is to recognize the patient's presentation as likely acute pancreatitis due to severe hypertriglyceridemia. Then, select the medication that is most effective in lowering triglyceride levels, which in this case is a fibrate.",
+    "zh": "此问题测试对急性胰腺炎病因和管理的了解，特别是侧重于高甘油三酯血症引起的胰腺炎以及用于预防的适当降脂药物。此问题需要了解不同降脂药物的作用机制及其在降低甘油三酯水平方面的有效性。\n\n最佳方法是认识到患者的症状很可能由于严重的高甘油三酯血症而导致急性胰腺炎。然后，选择最能有效降低甘油三酯水平的药物，在这种情况下是贝特类药物。"
+  },
+  "tags": "Acute pancreatitis; Hypertriglyceridemia; Lipid-lowering agents; Fibrates; Fenofibrate; Gastroenterology; Endocrinology; Metabolic disorders",
+  "category": "Endo",
+  "question_id": "166",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\166",
+  "extracted_at": "2025-11-05T14:01:42.678359",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:38:22.804651",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

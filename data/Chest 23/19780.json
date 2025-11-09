@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A neonate at 38 weeks gestation is delivered vaginally following an uncomplicated pregnancy. Immediately after delivery, the neonate has respiratory distress. Examination shows cyanosis, tachypnea, and poor perfusion. The patient is emergently intubated, and mechanical ventilation is initiated. A nasogastric tube is also inserted. On auscultation, asymmetric aeration with decreased left-sided breath sounds are noted. The abdomen is scaphoid. A chest x-ray is shown in the exhibit {{exhibit_1}}.",
+    "zh": "一名妊娠38周的足月新生儿在无并发症的妊娠后经阴道分娩。分娩后，新生儿立即出现呼吸窘迫。检查显示发绀、呼吸急促和灌注不良。患者紧急气管插管，并开始机械通气。同时插入鼻胃管。听诊发现不对称通气，左侧呼吸音减弱。腹部呈舟状。胸片见于展品{{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's respiratory distress?",
+    "zh": "以下哪项是该患者呼吸窘迫最可能的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Dilated airspaces with bronchiolar metaplasia",
+      "zh": "扩张的肺泡伴细支气管化生"
+    },
+    "B": {
+      "en": "Increased pulmonary capillary wedge pressure",
+      "zh": "肺毛细血管楔压升高"
+    },
+    "C": {
+      "en": "Loss of negative intrapleural pressure",
+      "zh": "胸腔内负压消失"
+    },
+    "D": {
+      "en": "Pulmonary surfactant deficiency",
+      "zh": "肺表面活性物质缺乏"
+    },
+    "E": {
+      "en": "Underdevelopment of pulmonary tissue",
+      "zh": "肺组织发育不全"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This neonate has respiratory distress with asymmetric breath sounds and a scaphoid abdomen, findings concerning for congenital diaphragmatic hernia (CDH) {{exhibit_2}}. This condition develops in the first trimester due to incomplete fusion of the pleuroperitoneal folds, which permits herniation of abdominal contents into the thoracic cavity (most commonly the left side). Compression of the developing lung results in pulmonary hypoplasia, or underdevelopment of lung tissue. \n\nNeonates typically develop respiratory distress (eg, tachypnea, retractions) within hours of birth and decreased unilateral breath sounds; a scaphoid abdomen from superiorly shifted abdominal viscera is common. Chest x-ray findings include the presence of thoracic bowel loops with minimal or absent lung markings and an indistinct hemidiaphragm on the affected side. In addition, the distal end of a feeding tube may be seen within the thorax instead of the abdomen. {{exhibit_3}}\n\n(Choices A and D) Pulmonary surfactant deficiency occurs in premature (not term) neonates and causes respiratory distress syndrome (RDS). X-ray reveals ground glass opacities and air bronchograms. RDS can be complicated by bronchopulmonary dysplasia, characterized by dilation of airspaces with bronchiolar metaplasia. Patients with CDH may also develop bronchopulmonary dysplasia, but this is a late complication (age >30 days) and is not present at birth. {{exhibit_4}}\n\n(Choice B) Pulmonary capillary wedge pressure reflects left ventricular end-diastolic pressure and is increased in left-sided congenital heart disease (eg, aortic stenosis). Poor perfusion would be expected, but a scaphoid abdomen and abnormally placed feeding tube would not be seen.\n\n(Choice C) Pneumothorax is characterized by loss of negative intrapleural pressure and can cause asymmetric breath sounds and respiratory distress. Although a mediastinal shift can also be seen on imaging, a visceral pleural edge with the absence of distal lung markings would be expected. {{exhibit_5}}",
+    "zh": "这名新生儿出现呼吸窘迫，伴有不对称的呼吸音和舟状腹，这些发现提示先天性膈疝（CDH）{{exhibit_2}}。这种情况发生在妊娠早期，是由于胸膜腹膜褶融合不全，导致腹腔内容物疝入胸腔（最常见的是左侧）。发育中的肺受到压迫导致肺发育不全或肺组织发育不足。\n\n新生儿通常在出生后数小时内出现呼吸窘迫（如呼吸急促、呼吸凹陷）和单侧呼吸音减弱；腹部由于腹腔内脏向上移位而呈舟状很常见。胸片表现包括胸腔内肠袢存在，肺纹理很少或缺失，受累侧半膈肌模糊不清。此外，喂养管的远端可能位于胸腔内而不是腹腔内。{{exhibit_3}}\n\n（选项 A 和 D）肺表面活性物质缺乏症发生在早产儿（而非足月儿）中，引起呼吸窘迫综合征 (RDS)。X 线显示毛玻璃样阴影和支气管充气征。RDS 可并发支气管肺发育不良，其特征是肺泡扩张伴细支气管化生。CDH 患者也可能发生支气管肺发育不良，但这是一种晚期并发症（年龄 >30 天），并非出生时即有。{{exhibit_4}}\n\n（选项 B）肺毛细血管楔压反映左心室舒张末期压力，在左侧先天性心脏病（如主动脉瓣狭窄）中升高。预计会出现灌注不良，但不会出现舟状腹和异常放置的喂养管。\n\n（选项 C）气胸的特征是胸腔内负压消失，可引起不对称的呼吸音和呼吸窘迫。虽然在影像学检查中也可以看到纵隔移位，但预计会出现脏层胸膜边缘，且缺乏远端肺纹理。{{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of congenital diaphragmatic hernia (CDH) presentation, pathophysiology, and diagnostic findings. It requires recognizing the classic triad of respiratory distress, scaphoid abdomen, and asymmetric breath sounds in a newborn. \n\nTo solve this question, correlate the clinical findings (scaphoid abdomen, asymmetric breath sounds) with the most likely underlying cause. Consider the pathophysiology of CDH (herniation of abdominal contents into the thorax) and its impact on lung development.",
+    "zh": "本题考察先天性膈疝 (CDH) 的表现、病理生理学和诊断发现。它需要识别新生儿呼吸窘迫、舟状腹和不对称呼吸音的典型三联征。\n\n要解决这个问题，需要将临床发现（舟状腹、不对称呼吸音）与最有可能的根本原因相关联。考虑 CDH 的病理生理学（腹腔内容物疝入胸腔）及其对肺发育的影响。"
+  },
+  "tags": "Congenital diaphragmatic hernia; Pulmonary hypoplasia; Neonatal respiratory distress; Scaphoid abdomen; Chest X-ray; Neonatology; Pediatric surgery",
+  "category": "Chest",
+  "question_id": "19780",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\19780",
+  "extracted_at": "2025-11-05T11:42:57.753530",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:38:06.128701",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

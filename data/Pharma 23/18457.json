@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "Researchers investigating the effects of heart failure on the pharmacokinetics of antidiabetic medications develop a cohort of experimental animals with anthracycline-induced heart failure. The experimental animals are then administered an oral dose of metformin, and serum levels are monitored over time. The test is repeated in control animals with normal heart function and the results are shown below: {{exhibit_1}}\n\nWhich of the following best explains the change in serum metformin levels seen in the experimental animals?",
+    "zh": "研究人员调查心力衰竭对降糖药物药代动力学的影响，建立了一组患有蒽环类药物引起的心力衰竭的实验动物。然后给实验动物口服剂量的二甲双胍，并监测血清水平随时间的变化。对照组动物心脏功能正常，重复该试验，结果如下：{{exhibit_1}}\n\n以下哪项最能解释实验动物中观察到的血清二甲双胍水平的变化？"
+  },
+  "question": {
+    "en": "Which of the following best explains the change in serum metformin levels seen in the experimental animals?",
+    "zh": "以下哪项最能解释实验动物中观察到的血清二甲双胍水平的变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Cytochrome P450 inhibition",
+      "zh": "细胞色素P450抑制"
+    },
+    "B": {
+      "en": "Decreased renal blood flow",
+      "zh": "肾血流量减少"
+    },
+    "C": {
+      "en": "Extracellular fluid accumulation",
+      "zh": "细胞外液积聚"
+    },
+    "D": {
+      "en": "Hepatic venous congestion",
+      "zh": "肝静脉淤血"
+    },
+    "E": {
+      "en": "Intestinal wall edema",
+      "zh": "肠壁水肿"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Heart failure can cause changes in pharmacokinetic parameters that can alter drug effectiveness and lead to increased toxicity. Decreased cardiac output leads to tissue hypoperfusion, lowering the volume of distribution of many drugs and reducing perfusion of organs responsible for drug clearance (eg, liver, kidneys). This can result in higher serum drug levels and a prolonged elimination phase, which can be particularly important for drugs with a narrow therapeutic index (eg, digoxin, antiarrhythmics).\n\nIn this example, serum metformin levels are seen to increase in animals with experimentally induced heart failure. Because metformin is renally cleared, this effect is most likely due to decreased renal blood flow as a result of reduced cardiac output. Because of the risk of lactic acidosis, metformin should be used with caution in patients with heart failure or impaired renal function from other causes.\n\n(Choices A and D) Heart failure frequently causes high central venous pressure and hepatic congestion. The resulting impairment in nutrient and oxygen delivery leads to hepatocellular damage and downregulation of CYP enzymes involved in drug metabolism. Reduced hepatic blood flow also results in decreased drug delivery to the liver, further impairing hepatic drug metabolism and clearance. However, metformin is not metabolized by the liver; it is excreted unchanged by the kidney.\n\n(Choice C) Decreased tissue perfusion in heart failure typically leads to a reduced volume of distribution of most drugs. Although the extracellular fluid accumulation that occurs in decompensated heart failure can potentially increase the volume of distribution of water-soluble drugs, this increased distribution volume would result in a decrease in serum drug levels.\n\n(Choice E) Increased central venous pressure in heart failure can lead to intestinal wall edema with increased intestinal wall thickness. This can result in delayed or decreased intestinal drug absorption. However, this effect would be expected to cause reduced serum drug concentrations and delayed peak levels.\n\nEducational objective:\nHeart failure leads to reduced liver and kidney perfusion, resulting in reduced drug clearance. Metformin is excreted unchanged by the kidney; therefore, patients with significant renal insufficiency due to heart failure or other causes (eg, chronic kidney disease) are at increased risk of toxicity (eg, lactic acidosis).",
+    "zh": "心力衰竭可导致药代动力学参数的变化，从而改变药物的疗效并导致毒性增加。心输出量减少导致组织灌注不足，降低许多药物的分布容积，并减少负责药物清除的器官（如肝脏、肾脏）的灌注。这可能导致血清药物水平升高和消除期延长，这对于治疗指数窄的药物（如地高辛、抗心律失常药）尤其重要。\n\n在本例中，实验诱发心力衰竭的动物血清二甲双胍水平升高。由于二甲双胍通过肾脏清除，这种影响很可能是由于心输出量减少导致肾血流量减少。由于乳酸酸中毒的风险，在患有心力衰竭或因其他原因导致肾功能受损的患者中，应谨慎使用二甲双胍。\n\n（选项A和D）心力衰竭常导致中心静脉压升高和肝脏淤血。由此导致的营养和氧气输送障碍导致肝细胞损伤和参与药物代谢的 CYP 酶下调。肝血流量减少也导致药物输送到肝脏的量减少，进一步损害肝脏药物代谢和清除。然而，二甲双胍不被肝脏代谢；它通过肾脏以原形排出。\n\n（选项C）心力衰竭时组织灌注减少通常会导致大多数药物的分布容积减少。虽然失代偿性心力衰竭中发生的细胞外液积聚可能会增加水溶性药物的分布容积，但这种分布容积的增加会导致血清药物水平降低。\n\n（选项E）心力衰竭时中心静脉压升高可导致肠壁水肿，伴有肠壁增厚。这可能导致肠道药物吸收延迟或减少。然而，这种影响预计会导致血清药物浓度降低和峰值水平延迟。\n\n教育目标：\n心力衰竭导致肝脏和肾脏灌注减少，导致药物清除减少。二甲双胍通过肾脏以原形排出；因此，由于心力衰竭或其他原因（如慢性肾脏病）导致肾功能不全的患者，毒性（如乳酸酸中毒）的风险增加。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of how heart failure affects drug pharmacokinetics, specifically the impact on metformin clearance and serum levels due to reduced renal blood flow. It assesses the ability to correlate physiological changes in heart failure with altered drug disposition.\n\nTo solve this question, one must first recognize that metformin is primarily renally excreted. Then, consider how heart failure, characterized by decreased cardiac output and reduced organ perfusion, would impact renal blood flow and consequently, the clearance of renally excreted drugs. Evaluating the other options for their likelihood of causing increased serum metformin levels is also crucial.",
+    "zh": "本题考察对心力衰竭如何影响药物药代动力学的理解，特别是由于肾血流量减少对二甲双胍清除率和血清水平的影响。它评估了将心力衰竭的生理变化与改变的药物处置相关联的能力。\n\n要解决这个问题，首先必须认识到二甲双胍主要通过肾脏排出。然后，考虑以心输出量减少和器官灌注减少为特征的心力衰竭将如何影响肾血流量，从而影响肾脏排泄药物的清除。评估其他选项导致血清二甲双胍水平升高的可能性也很重要。"
+  },
+  "tags": "Heart failure; Pharmacokinetics; Metformin; Drug clearance; Renal blood flow; Cardiac output; Drug toxicity; Lactic acidosis",
+  "category": "Pharma",
+  "question_id": "18457",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\18457",
+  "extracted_at": "2025-11-05T19:45:22.778531",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:47:31.665552",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A new study is conducted to investigate the efficacy of intravenous immunoglobulin versus analgesics on pain alleviation in patients with idiopathic small fiber neuropathy. A total of 100 eligible patients who fulfilled the inclusion/exclusion criteria are assigned to one of two groups based on random selection by a computer. The method of assigning patients to treatment groups in this study is most likely intended to produce which of the following?",
+    "zh": "一项新研究旨在调查静脉注射免疫球蛋白与止痛药对特发性小纤维神经病患者缓解疼痛的疗效。共有 100 名符合纳入/排除标准的合格患者，通过计算机随机选择被分配到两组中的一组。本研究中将患者分配到治疗组的方法最有可能旨在产生以下哪种结果？"
+  },
+  "question": {
+    "en": "The method of assigning patients to treatment groups in this study is most likely intended to produce which of the following?",
+    "zh": "本研究中将患者分配到治疗组的方法最有可能旨在产生以下哪种结果？"
+  },
+  "options": {
+    "A": {
+      "en": "One group in which participants are blinded to the intervention they receive and another in which participants are not",
+      "zh": "一组参与者对他们接受的干预措施不知情，另一组则知情"
+    },
+    "B": {
+      "en": "One group in which researchers but not participants are aware of the intervention received and another in which participants but not researchers are aware of the intervention received",
+      "zh": "一组研究人员知道所接受的干预措施，但参与者不知道，另一组参与者知道所接受的干预措施，但研究人员不知道"
+    },
+    "C": {
+      "en": "Two groups of participants that will only be analyzed based on their initial treatment allocation",
+      "zh": "仅根据其初始治疗分配进行分析的两组参与者"
+    },
+    "D": {
+      "en": "Two groups that have equal numbers of participants",
+      "zh": "参与者人数相等的两组"
+    },
+    "E": {
+      "en": "Two groups in which participants are similar in underlying characteristics",
+      "zh": "参与者在潜在特征上相似的两组"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Randomization refers to the process of randomly (ie, by chance) assigning subjects to experimental groups (eg, treatment vs control group). Randomization prevents selection bias and potentially produces comparable groups by balancing the frequency of confounding variables (eg, sex, age, severity of disease) between experimental groups. Making experimental groups as similar as possible (except for the treatment assigned) cancels the effect that these characteristics may have on the outcome of interest.\n\nFor Example having that groups are dissimilar (ie, unbalanced) with respect to severity of disease may underestimate or overestimate the effect of a treatment, depending on which group has a greater proportion of severe cases. The best way to account for the effects of these variables is to randomly assign subjects to experimental groups. Afterward, the groups are analyzed to ensure that they are statistically similar in underlying variables, with the results often reported in a baseline characteristics table (eg, weight, sex, age).\n\nTherefore, randomization increases the likelihood that any difference observed between groups is due exclusively to the treatment and not to other characteristics.\n\n(Choices A and B) A blind study is a type of clinical trial in which either the participants or the researchers (ie, single blind) or both the participants and the researchers (ie, double blind) are unaware of treatment assignments. Although this study used randomization to assign patients to treatment groups, no information is provided regarding the awareness of participants or researchers to treatment assignments. By itself, randomization does not make a study blind.\n\n(Choice C) A study that analyzes all participants as initially allocated after randomization, regardless of what happens during the study period, is using an intention-to-treat (ITT) analysis. ITT is not a result of randomization; instead, it is used to preserve the effect of randomization.\n\n(Choice D) Depending on the randomization method (eg, simple, complete) used to allocate participants into experimental groups, a study may or may not result in groups that are similar in sample size. Regardless, the goal of randomization is not to create groups of similar size (which can be done trivially by alternating group assignment as patients enroll) but rather to make the underlying characteristics of experimental groups as similar as possible.\n\nEducational objective:\nRandomization refers to the process of using random methods to assign subjects to experimental groups. Its purpose is to make experimental groups as similar as possible (except for the treatment assignment) to ensure that any difference observed between groups is due exclusively to the treatment and not to other underlying factors.",
+    "zh": "随机化是指将受试者随机（即，通过偶然）分配到实验组（例如，治疗组与对照组）的过程。随机化可防止选择偏倚，并通过平衡实验组之间的混杂变量（例如，性别、年龄、疾病严重程度）的频率来产生可比的组。使实验组尽可能相似（除了分配的治疗），可以消除这些特征可能对感兴趣结果产生的影响。\n\n例如，如果各组在疾病严重程度方面不同（即，不平衡），则可能会低估或高估治疗的效果，这取决于哪个组的重症病例比例更大。解决这些变量影响的最佳方法是将受试者随机分配到实验组。之后，对各组进行分析，以确保它们在潜在变量方面在统计学上相似，结果通常在基线特征表中报告（例如，体重、性别、年龄）。\n\n因此，随机化增加了在各组之间观察到的任何差异仅归因于治疗，而不是其他特征的可能性。\n\n（选项 A 和 B）盲法研究是一种临床试验，其中参与者或研究人员（即，单盲）或参与者和研究人员（即，双盲）都不知道治疗分配。尽管本研究使用随机化将患者分配到治疗组，但未提供有关参与者或研究人员对治疗分配的意识的信息。仅靠随机化并不能使研究盲法。\n\n（选项 C）一项研究在随机化后，无论研究期间发生什么情况，都按照最初的分配分析所有参与者，该研究正在使用意向性治疗 (ITT) 分析。ITT 并非随机化的结果；相反，它用于保留随机化的效果。\n\n（选项 D）根据用于将参与者分配到实验组的随机化方法（例如，简单、完整），一项研究可能产生或可能不产生样本量相似的组。无论如何，随机化的目标不是创建大小相似的组（通过在患者入组时交替组分配可以轻松实现），而是使实验组的潜在特征尽可能相似。\n\n教育目标：\n随机化是指使用随机方法将受试者分配到实验组的过程。其目的是使实验组尽可能相似（除了治疗分配），以确保在各组之间观察到的任何差异仅归因于治疗，而不是其他潜在因素。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of randomization in clinical trials and its purpose in creating comparable groups. Randomization aims to minimize selection bias and ensure that any observed differences between groups are attributable to the treatment rather than underlying characteristics.\n\nThe best approach is to recognize that randomization is primarily used to balance confounding variables and create groups that are as similar as possible at baseline. This helps to isolate the effect of the intervention being studied.",
+    "zh": "本题测试对临床试验中随机化的理解及其在创建可比组中的作用。随机化的目的是尽量减少选择偏倚，并确保在各组之间观察到的任何差异都归因于治疗而非潜在特征。\n\n最好的方法是认识到随机化主要用于平衡混杂变量，并创建在基线时尽可能相似的组。这有助于隔离所研究干预措施的效果。"
+  },
+  "tags": "Randomization; Clinical trials; Selection bias; Confounding variables; Research methodology; Statistical analysis",
+  "category": "Bio",
+  "question_id": "19315",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19315",
+  "extracted_at": "2025-11-05T13:21:15.886158",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:22:30.806640",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

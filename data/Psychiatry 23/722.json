@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 38-year-old woman comes to the office due to breast tenderness and absence of menstrual periods over the last 3 months. The patient has a history of schizophrenia and familial hypercholesterolemia. Medications include risperidone, which has led to significant improvement in psychotic symptoms, and atorvastatin. BMI is 26 kg/m², down from 30 kg/m² 6 months ago after following a strict dietary plan. Basic serum chemistry panel and thyroid function tests are normal, and urine pregnancy test is negative.",
+    "zh": "一名38岁的女性因乳房胀痛和过去3个月未有月经来潮而前来就诊。患者有精神分裂症和家族性高胆固醇血症病史。用药包括利培酮，该药已显着改善精神病症状，以及阿托伐他汀。 BMI为26 kg/m²，低于6个月前的30 kg/m²，此前遵循严格的饮食计划。 基本血清化学检查和甲状腺功能检查均正常，尿妊娠试验阴性。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely explanation for this patient's amenorrhea?",
+    "zh": "以下哪项最有可能解释该患者的闭经？"
+  },
+  "options": {
+    "A": {
+      "en": "21-hydroxylase deficiency",
+      "zh": "21-羟化酶缺乏症"
+    },
+    "B": {
+      "en": "Asherman syndrome",
+      "zh": "Asherman 综合征"
+    },
+    "C": {
+      "en": "Drug-induced amenorrhea",
+      "zh": "药物引起的闭经"
+    },
+    "D": {
+      "en": "Polycystic ovary syndrome",
+      "zh": "多囊卵巢综合征"
+    },
+    "E": {
+      "en": "Primary ovarian insufficiency",
+      "zh": "原发性卵巢功能不全"
+    },
+    "F": {
+      "en": "Weight loss",
+      "zh": "体重减轻"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient presents with amenorrhea and breast tenderness. She is taking risperidone, an antipsychotic medication. Risperidone is known to cause hyperprolactinemia by blocking dopamine D2 receptors. Dopamine normally inhibits prolactin release from the anterior pituitary. By blocking D2 receptors on lactotrophs, risperidone leads to increased prolactin secretion. Elevated prolactin levels (hyperprolactinemia) can suppress the pulsatile release of gonadotropin-releasing hormone (GnRH) from the hypothalamus, leading to decreased luteinizing hormone (LH) and follicle-stimulating hormone (FSH) secretion. This hypogonadotropic hypogonadism results in anovulation and amenorrhea. The breast tenderness can also be attributed to the elevated prolactin levels, which can stimulate breast tissue. The patient's recent weight loss is unlikely to be the primary cause of amenorrhea given the presence of breast tenderness and the initiation of risperidone. \n\n(Choice A) Nonclassic 21-hydroxylase deficiency is a form of congenital adrenal hyperplasia that typically presents with hirsutism, irregular menses, and acne in women, often in childhood or adolescence. It is not directly associated with breast tenderness.\n\n(Choice B) Asherman syndrome is characterized by intrauterine adhesions that cause amenorrhea and infertility. It typically occurs after procedures like dilation and curettage or in patients with chronic endometritis. It does not explain breast tenderness.\n\n(Choice D) Polycystic ovary syndrome (PCOS) is a common cause of irregular menses and hyperandrogenism, usually presenting in adolescence or early adulthood. While it can cause amenorrhea, it is typically associated with other signs of androgen excess (hirsutism, acne) and is less likely to cause breast tenderness.\n\n(Choice E) Primary ovarian insufficiency (POI) is characterized by amenorrhea and elevated gonadotropin levels in women under 40. While it can cause amenorrhea, it is associated with decreased estrogen production, which would typically lead to decreased breast tissue density, not tenderness.\n\n(Choice F) Severe weight loss can cause hypothalamic amenorrhea by suppressing GnRH release. However, the presence of breast tenderness is not a typical feature of weight-loss-induced amenorrhea. Furthermore, the patient's BMI is 26 kg/m², which is in the overweight category, and she has lost weight, but the timing and the medication are more suggestive of drug-induced hyperprolactinemia.\n\nEducational objective: The secretion of prolactin is controlled by the inhibitory effect of hypothalamic dopamine. Risperidone and other antipsychotics cause hyperprolactinemia by blocking D2 receptors on lactotrophs. Elevated prolactin leads to amenorrhea (inhibition of gonadotropin-releasing hormone release), galactorrhea, and breast soreness.",
+    "zh": "该患者表现为闭经和乳房胀痛。她正在服用利培酮，一种抗精神病药物。已知利培酮通过阻断多巴胺D2受体引起高催乳素血症。多巴胺通常抑制催乳素从垂体前叶的释放。通过阻断泌乳素细胞上的D2受体，利培酮导致催乳素分泌增加。催乳素水平升高（高催乳素血症）可以抑制下丘脑释放促性腺激素释放激素(GnRH)的脉冲式释放，从而导致黄体生成素（LH）和卵泡刺激素（FSH）的分泌减少。这种低促性腺激素性性腺功能减退导致无排卵和闭经。乳房胀痛也可能归因于催乳素水平升高，催乳素水平升高可以刺激乳腺组织。考虑到乳房胀痛的存在和利培酮的起始，患者最近的体重减轻不太可能是闭经的主要原因。\n\n（选项A）非典型21-羟化酶缺乏症是一种先天性肾上腺增生症，通常表现为女性多毛症、月经不规律和痤疮，通常在儿童或青春期。 它与乳房胀痛没有直接关系。\n\n（选项B）Asherman综合征的特征是子宫内粘连，导致闭经和不孕症。 它通常发生在扩张和刮宫等手术后或患有慢性子宫内膜炎的患者中。 它不能解释乳房胀痛。\n\n（选项D）多囊卵巢综合征（PCOS）是月经不规律和雄激素过多的常见原因，通常在青春期或成年早期出现。 虽然它会导致闭经，但通常与其他雄激素过多的迹象（多毛症、痤疮）相关，并且不太可能引起乳房胀痛。\n\n（选项E）原发性卵巢功能不全（POI）的特征是40岁以下女性闭经和促性腺激素水平升高。 虽然它会导致闭经，但它与雌激素产生减少有关，这通常会导致乳腺组织密度降低，而不是胀痛。\n\n（选项F）严重的体重减轻会通过抑制GnRH的释放引起下丘脑闭经。 然而，乳房胀痛的出现并不是体重减轻引起的闭经的典型特征。 此外，患者的BMI为26 kg/m²，属于超重类别，并且她已经减轻了体重，但时间和药物治疗更提示药物引起的高催乳素血症。\n\n教育目标：催乳素的分泌受下丘脑多巴胺的抑制作用控制。 利培酮和其他抗精神病药物通过阻断泌乳素细胞上的D2受体引起高催乳素血症。 催乳素升高会导致闭经（抑制促性腺激素释放激素的释放）、溢乳和乳房酸痛。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of drug-induced hyperprolactinemia and its effect on the hypothalamic-pituitary-gonadal axis, leading to amenorrhea and breast tenderness. It requires differentiating this condition from other causes of amenorrhea.\n\nTo solve this question, identify the patient's medications and their known side effects. Consider the constellation of symptoms (amenorrhea and breast tenderness) in the context of the patient's medical history and current drug regimen. Evaluate each differential diagnosis based on its typical presentation and association with the patient's symptoms.",
+    "zh": "这个问题考察了对药物引起的高催乳素血症及其对下丘脑-垂体-性腺轴的影响的理解，导致闭经和乳房胀痛。它需要将这种情况与其他闭经原因区分开来。\n\n要解决这个问题，请确定患者的药物及其已知的副作用。 结合患者的病史和目前的药物治疗方案，考虑症状的组合（闭经和乳房胀痛）。 根据每个鉴别诊断的典型表现及其与患者症状的关联性进行评估。"
+  },
+  "tags": "Amenorrhea; Hyperprolactinemia; Risperidone; Antipsychotics; Dopamine D2 receptor antagonists; Hypothalamic-pituitary-gonadal axis; Drug-induced amenorrhea; Breast tenderness; Endocrinology",
+  "category": "Psychiatry",
+  "question_id": "722",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\722",
+  "extracted_at": "2025-11-05T19:51:20.650365",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:56:13.186741",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

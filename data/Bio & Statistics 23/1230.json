@@ -1,0 +1,53 @@
+{
+  "question_stem": {
+    "en": "A research laboratory is evaluating a new dipstick test for diagnosing urinary tract infections (UTIs). The new test is compared to urinalysis of a midstream urine specimen (considered the diagnostic gold standard) to establish diagnostic test parameters. The study enrolls 300 patients, of which 100 have a UTI as determined by urinalysis. The new dipstick test is determined to be 70% sensitive and 90% specific for the diagnosis of UTIs.",
+    "zh": "一个研究实验室正在评估一种用于诊断尿路感染 (UTI) 的新型尿液试纸测试。将该新测试与尿液中段尿液样本的尿液分析（被认为是诊断的金标准）进行比较，以建立诊断测试参数。该研究招募了 300 名患者，其中 100 名患者通过尿液分析确定患有 UTI。 新型尿液试纸测试被确定对 UTI 的诊断具有 70% 的灵敏度和 90% 的特异性。"
+  },
+  "question": {
+    "en": "How many false positives are present in the study?",
+    "zh": "研究中有多少假阳性？"
+  },
+  "options": {
+    "A": {
+      "en": "20",
+      "zh": "20"
+    },
+    "B": {
+      "en": "30",
+      "zh": "30"
+    },
+    "C": {
+      "en": "70",
+      "zh": "70"
+    },
+    "D": {
+      "en": "120",
+      "zh": "120"
+    },
+    "E": {
+      "en": "180",
+      "zh": "180"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "False positives describe people who test positive for a disease but do not actually have it.\n\nThe number of false positives can be calculated using the test's specificity and total number of patients without urinary tract infections (UTIs). The specificity of a test refers to the number of true negatives (d) divided by the total number of patients without the disease (b + d). In this case, the specificity is 90% (ie, 0.9) and the total number of patients without UTIs (b + d) equals 300 – 100 = 200. Using this information, the number of true negatives (d) can be calculated:\n\nSpecificity = d/(b + d)\n0.  9 = d/200\nd = 180\n\nThe total number of patients without the disease (b + d) equals 200, and the number of true negatives (d) equals 180. Using this information, the number of false positives (b) can be calculated:\n\nFalse positives = (b + d) – d = 200 – 180 = 20\n\nThe number of true negatives and false positives can be more quickly calculated using the following equations:\n\nTrue negatives = (Specificity) * (Number of patients confirmed without the disease)\nFalse positives = (1 – Specificity) * (Number of patients confirmed without the disease)",
+    "zh": "假阳性是指检测结果呈阳性但实际上并未患病的患者。\n\n假阳性的数量可以使用测试的特异性和没有尿路感染 (UTI) 的患者总数来计算。测试的特异性是指真阴性 (d) 的数量除以没有该疾病的患者总数 (b + d)。在这种情况下，特异性为 90%（即 0.9），没有 UTI 的患者总数 (b + d) 等于 300 – 100 = 200。 使用此信息，可以计算真阴性 (d) 的数量：\n\n特异性 = d/(b + d)\n0. 9 = d/200\nd = 180\n\n没有该疾病的患者总数 (b + d) 等于 200，真阴性 (d) 的数量等于 180。使用此信息，可以计算假阳性 (b) 的数量：\n\n假阳性 = (b + d) – d = 200 – 180 = 20\n\n可以使用以下公式更快地计算真阴性和假阳性的数量：\n\n真阴性 = (特异性) * (确诊未患该疾病的患者数量)\n假阳性 = (1 – 特异性) * (确诊未患该疾病的患者数量)"
+  },
+  "summary": {
+    "en": "This question assesses the understanding of test characteristics, specifically specificity, and how to calculate the number of false positives in a study. It requires applying the definition of specificity to determine the number of true negatives and then using that information to calculate the number of false positives.\n\nTo solve this type of question, understand the definitions of sensitivity, specificity, positive predictive value, and negative predictive value. Identify the given values and use the appropriate formulas to calculate the desired outcome, in this case the number of false positives.",
+    "zh": "本题评估对测试特性（特别是特异性）的理解，以及如何计算研究中假阳性的数量。它需要应用特异性的定义来确定真阴性的数量，然后使用该信息来计算假阳性的数量。\n\n要解决这类问题，请理解灵敏度、特异性、阳性预测值和阴性预测值的定义。确定给定的值并使用适当的公式来计算所需的结果，在本例中为假阳性的数量。"
+  },
+  "tags": "Sensitivity; Specificity; False positive; Urinary tract infection; Diagnostic testing; Biostatistics",
+  "category": "Bio",
+  "question_id": "1230",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1230",
+  "extracted_at": "2025-11-05T10:30:50.936674",
+  "translated_at": "2025-11-07T16:19:51.360436",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

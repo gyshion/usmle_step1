@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 28-year-old man comes to the office due to a rash on the lower extremity. The patient noticed a pruritic papule on the dorsum of his right foot just prior to returning from a south Florida beach 2 days ago. He walked barefoot on the beach but does not recall any trauma. Since his return home, the rash and itching have progressively worsened. The patient has no other medical problems and takes no medications. Physical examination findings are shown below {{exhibit_1}}.",
+    "zh": "一名28岁的男性因下肢皮疹前来就诊。患者在2天前从佛罗里达州南部海滩返回前，注意到右脚背部有一个瘙痒性丘疹。他在海滩上赤脚行走，但记不起任何外伤。自从他回家以来，皮疹和瘙痒逐渐加重。患者没有其他健康问题，也没有服用药物。体格检查结果如下所示 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's current condition?",
+    "zh": "以下哪项最可能是导致该患者目前病情的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Brown recluse spider bite",
+      "zh": "褐寡妇蜘蛛叮咬"
+    },
+    "B": {
+      "en": "Hookworm infection",
+      "zh": "钩虫感染"
+    },
+    "C": {
+      "en": "Mycobacterium marinum infection",
+      "zh": "海分枝杆菌感染"
+    },
+    "D": {
+      "en": "Sporothrix schenckii infection",
+      "zh": "申克孢子丝菌感染"
+    },
+    "E": {
+      "en": "Staphylococcus aureus infection",
+      "zh": "金黄色葡萄球菌感染"
+    },
+    "F": {
+      "en": "Vibrio vulnificus infection",
+      "zh": "创伤弧菌感染"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient, who developed a serpiginous, pruritic rash shortly after walking barefoot on a beach, likely has hookworm infection. Hookworms spread when egg-containing feces are deposited into shady, warm, moist sand or soil. Eggs hatch into larvae and are transmitted when they come into DIRECT CONTACT with human skin (eg, when walking barefoot). \n\nDermal penetration is usually marked by a pruritic maculopapular lesion (\"ground itch\") at the site of larval entry (eg, foot, toe webs). Spread of larvae through the adjacent dermal tissue can lead to the formation of migrating, reddish-brown, serpiginous tracks. Deeper spread may occur, depending on the species of infecting hookworm, as follows:\n\n*   Human hookworms (eg, *Necator americanus, A duodenale*) penetrate the basement membrane and spread from the dermis to the bloodstream. They rupture into the alveoli and are coughed up and swallowed into the small intestine. There, larvae mature into adult hookworms that feed on blood from the duodenal mucosa (often causing iron deficiency anemia) and shed up to 10,000 eggs/day, thereby spreading the infection to others.\n*   Cat and dog hookworms (eg, *Ancylostoma braziliense, A caninum*) cause a dermal eruption in humans but are unable to penetrate the cutaneous basement membrane and spread to deeper tissues. Therefore, larvae do not mature into adult hookworms or spread from human-to-human (humans are incidental hosts).\n\n(Choice A) A brown recluse spider bite usually appears as a red plaque or papule with central pallor; it may develop a dark central eschar that ulcerates due to necrosis. Pain is often severe.\n\n(Choice C) *Mycobacterium marinum* lesions usually form a few weeks after exposure to contaminated fresh/salt water (eg, swimming pool, fish tank). Lesions begin as solitary papules or nodules that eventually ulcerate and scar. Serpiginous tracts would be uncommon.\n\n(Choice D) *Sporothrix schenckii*, a dimorphic fungus, is usually transmitted when contaminated organic material (eg, moss, soil) is inoculated into the skin or subcutaneous tissue. A papule forms at the inoculation site and usually ulcerates; additional lesions form along the proximal route of lymphatic drainage.\n\n(Choice E) *Staphylococcus aureus* is the most common cause of purulent cellulitis. Lesions tend to develop over days and are characterized by painful areas of fluctuance with surrounding erythema.\n\n(Choice F) *Vibrio vulnificus* is a free-living bacterium that grows in brackish water and marine environments. It can contaminate wounds and cause mild cellulitis. More severe manifestations (eg, myositis, necrotizing fasciitis, sepsis) can develop in patients with certain underlying comorbidities (eg, liver disease, hemochromatosis).\n\nEducational objective:\nHookworm infections are transmitted via direct contact between human skin and contaminated soil/sand (eg, walking barefoot). Dermal penetration is often characterized by an intensely pruritic papule that may form serpiginous tracks due to the subcutaneous migration of hookworm larvae.",
+    "zh": "该患者在海滩上赤脚行走后不久出现匐行性瘙痒性皮疹，很可能患有钩虫感染。当含虫卵的粪便被沉积到阴暗、温暖、潮湿的沙子或土壤中时，钩虫就会传播。虫卵孵化成幼虫，并通过直接接触人体皮肤传播（例如，赤脚行走时）。\n\n皮肤穿透通常以幼虫进入部位（例如，足部、趾间）的瘙痒性丘疹、丘疹性病变（“地痒病”）为特征。幼虫通过邻近的真皮组织扩散会导致移动的、红棕色的、匐行性的痕迹形成。更深度的扩散可能发生，具体取决于感染钩虫的种类，如下所示：\n\n*   人类钩虫（例如，*美洲板口线虫、十二指肠钩口线虫*）穿透基底膜，从真皮扩散到血流。它们破裂进入肺泡，被咳出并吞咽到小肠中。在那里，幼虫发育成成虫钩虫，以十二指肠黏膜中的血液为食（通常引起缺铁性贫血），每天释放多达10,000个卵，从而将感染传播给其他人。\n*   猫和狗的钩虫（例如，*巴西钩口线虫、犬钩口线虫*）会导致人类出现皮肤疹，但无法穿透皮肤基底膜并扩散到更深层的组织。因此，幼虫不会发育成成虫钩虫，也不会在人与人之间传播（人类是偶然宿主）。\n\n（选项A）褐寡妇蜘蛛叮咬通常表现为红色斑块或丘疹，中央苍白；它可能会形成一个由于坏死而溃疡的深色中心焦痂。疼痛通常很剧烈。\n\n（选项C）*海分枝杆菌*病变通常在接触受污染的淡水/盐水（例如，游泳池、鱼缸）几周后形成。病变开始时为孤立的丘疹或结节，最终溃疡和瘢痕化。匐行性通道并不常见。\n\n（选项D）*申克孢子丝菌*是一种二形性真菌，通常通过将受污染的有机材料（例如，苔藓、土壤）接种到皮肤或皮下组织中传播。接种部位形成丘疹，通常会溃疡；其他病变沿着淋巴引流的近端路线形成。\n\n（选项E）*金黄色葡萄球菌*是化脓性蜂窝组织炎最常见的原因。病变往往在几天内发展，其特征是伴有周围红斑的疼痛波动区域。\n\n（选项F）*创伤弧菌*是一种生活在咸水和海洋环境中的自由生活细菌。它可以污染伤口并引起轻度蜂窝组织炎。在患有某些潜在合并症（例如，肝病、血色素沉着病）的患者中，可能会出现更严重的表现（例如，肌炎、坏死性筋膜炎、败血症）。\n\n教育目标：\n钩虫感染通过人体皮肤与受污染的土壤/沙子（例如，赤脚行走）之间的直接接触传播。皮肤穿透的特征通常是强烈的瘙痒性丘疹，由于钩虫幼虫的皮下迁移，该丘疹可能会形成匐行性痕迹。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hookworm infection, its transmission, clinical presentation, and differentiation from other skin infections. The key is recognizing the serpiginous rash and the history of walking barefoot on a beach.\n\nTo solve this question, consider the patient's history of barefoot beach walking, the appearance of the rash (serpiginous), and the associated pruritus. Rule out other causes of skin lesions based on their typical presentations and risk factors.",
+    "zh": "此题考察了对钩虫感染、其传播方式、临床表现以及与其他皮肤感染的区别的了解。关键在于识别匐行性皮疹以及在海滩上赤脚行走的历史。\n\n要解决这个问题，请考虑患者赤脚在海滩上行走的历史、皮疹的外观（匐行性）以及相关的瘙痒。根据皮肤损伤的典型表现和危险因素，排除其他病因。"
+  },
+  "tags": "Hookworm infection; Cutaneous larva migrans; Parasitology; Dermatology; Necator americanus; Ancylostoma duodenale; Pruritic rash; Serpiginous lesion; Tropical medicine",
+  "category": "Derma",
+  "question_id": "15431",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\15431",
+  "extracted_at": "2025-11-05T12:21:33.098702",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:34:13.429511",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old man comes to the office due to a 1 year history of abdominal pain and greasy stools. He has also noticed a 7-kg (15.4-lb) weight loss over the past 6 months. Medical history is significant for several years of joint pain in his knees and wrists but is otherwise unremarkable. The patient does not use tobacco or alcohol. After an initial workup, a duodenal biopsy is performed. Microscopic examination {{exhibit_1}} shows numerous macrophages in the lamina propria filled with inclusions positive for periodic acid–Schiff stain.",
+    "zh": "一名45岁男性因1年腹痛和油腻便来就诊。他还注意到过去6个月体重减轻了7公斤（15.4磅）。病史中有多年膝关节和腕关节疼痛的病史，但其他方面无特殊。患者不吸烟也不饮酒。在初步检查后，进行了十二指肠活检。镜下检查 {{exhibit_1}} 显示固有层中有大量巨噬细胞，充满了对PAS（过碘酸-希夫）染色呈阳性的包涵体。"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate treatment for this patient?",
+    "zh": "以下哪项是该患者最合适的治疗方法？"
+  },
+  "options": {
+    "A": {
+      "en": "Aminosalicylic acid derivatives",
+      "zh": "氨基水杨酸衍生物"
+    },
+    "B": {
+      "en": "Antibiotics",
+      "zh": "抗生素"
+    },
+    "C": {
+      "en": "Enzyme supplementation",
+      "zh": "酶补充"
+    },
+    "D": {
+      "en": "Modified diet",
+      "zh": "饮食调整"
+    },
+    "E": {
+      "en": "Surgical resection",
+      "zh": "手术切除"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient with joint pain and malabsorption (eg, greasy stools, weight loss) has biopsy findings consistent with **Whipple disease**, a rare, systemic disease caused by chronic infection with the gram-positive bacillus *Tropheryma whipplei*. It usually presents in middle-aged men (age 40-60) and often affects multiple organ systems, most commonly the small intestine (eg, **abdominal pain, diarrhea**, steatorrhea, weight loss), joints (eg, **arthralgia**), and CNS (eg, dementia). *T whipplei* proliferates within the macrophages of affected tissues and provokes minimal inflammatory response, allowing persistent infection.\n\nDiagnosis can be confirmed with biopsy of the small intestine, which shows numerous foamy macrophages distended by bacilli in the lamina propria. The bacilli are characteristically positive for **periodic acid–Schiff** (PAS), which stains polysaccharides in the *T whipplei* membrane. Long-term (ie, ≥12 months) **antibiotic therapy** is usually successful in resolving the symptoms, although relapses can occur.\n\n(Choice A) Aminosalicylic acid derivatives are appropriate treatment for ulcerative colitis (UC). Although UC can present with gastrointestinal symptoms, weight loss, and joint pain, microscopic examination of the intestine typically shows diffuse mucosal inflammation, including crypt abscesses and ulceration.\n\n(Choice C) Digestive enzyme supplementation is appropriate treatment for patients with diminished exocrine pancreatic function (eg, chronic pancreatitis). Patients with chronic pancreatitis may have abdominal discomfort, greasy stools, and weight loss. However, PAS-positive macrophages would not be expected.\n\n(Choice D) A modified diet is indicated for patients with celiac disease or other food-sensitive conditions. Celiac disease can present with abdominal discomfort, greasy stools, and weight loss, but histologic findings typically include duodenal villous blunting, increased intraepithelial lymphocytes, and crypt hyperplasia.\n\n(Choice E) Surgery is appropriate for patients with bowel conditions unresponsive to medical treatment (eg, ischemic infarction). Intestinal infarction typically presents with severe abdominal pain, and microscopic examination may show coagulative necrosis.\n\nEducational objective:\nWhipple disease, caused by the gram-positive actinomycete *Tropheryma whipplei*, is a rare systemic illness that often involves the small intestine, joints, and CNS. Classic intestinal histologic findings include foamy macrophages in the lamina propria filled with bacilli positive for periodic acid–Schiff stain. Treatment is with antibiotics. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "该患者出现关节痛和吸收不良（例如，油腻便、体重减轻），活检结果与**Whipple病**一致，这是一种罕见的全身性疾病，由革兰氏阳性杆菌*Tropheryma whipplei*的慢性感染引起。它通常发生在中年男性（40-60岁），并且经常影响多个器官系统，最常见的是小肠（例如，**腹痛、腹泻**、脂肪泻、体重减轻）、关节（例如，**关节痛**）和中枢神经系统（例如，痴呆）。*T whipplei*在受影响组织的巨噬细胞内增殖，并引起轻微的炎症反应，从而导致持续感染。\n\n可以通过小肠活检来确诊，活检显示固有层中有大量泡沫状巨噬细胞，其中充满了杆菌。这些杆菌的特征是对**过碘酸-希夫（PAS）**呈阳性，它会染色*T whipplei*细胞膜中的多糖。长期（即 ≥12 个月）**抗生素治疗**通常可以成功缓解症状，尽管可能会复发。\n\n（选项 A）氨基水杨酸衍生物是治疗溃疡性结肠炎 (UC) 的合适方法。虽然UC可表现为胃肠道症状、体重减轻和关节疼痛，但肠道的显微镜检查通常显示弥漫性黏膜炎症，包括隐窝脓肿和溃疡。\n\n（选项 C）消化酶补充剂是治疗外分泌胰腺功能减退（例如，慢性胰腺炎）患者的合适方法。慢性胰腺炎患者可能出现腹部不适、油腻便和体重减轻。但是，不应出现PAS阳性巨噬细胞。\n\n（选项 D）饮食调整适用于患有乳糜泻或其他食物敏感疾病的患者。乳糜泻可表现为腹部不适、油腻便和体重减轻，但组织学发现通常包括十二指肠绒毛变钝、上皮内淋巴细胞增多和隐窝增生。\n\n（选项 E）手术适用于对内科治疗无反应的肠道疾病患者（例如，缺血性梗死）。肠梗死通常表现为严重的腹痛，显微镜检查可能显示凝固性坏死。\n\n教育目标：\nWhipple病，由革兰氏阳性放线菌*Tropheryma whipplei*引起，是一种罕见的全身性疾病，通常累及小肠、关节和中枢神经系统。典型的肠道组织学发现包括固有层中充满了对PAS染色的杆菌的泡沫状巨噬细胞。治疗方法是使用抗生素。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Whipple's disease, its clinical presentation (malabsorption, joint pain), diagnostic findings (PAS-positive macrophages on biopsy), and appropriate treatment (antibiotics).\n\nTo solve this question, recognize the classic triad of symptoms and the key biopsy finding. Rule out other conditions that cause similar symptoms but have different histological features and treatments.",
+    "zh": "这个问题考察了对Whipple病的认识，包括其临床表现（吸收不良、关节痛）、诊断发现（活检PAS阳性巨噬细胞）和合适的治疗方法（抗生素）。\n\n要解决这个问题，需要识别经典的症状三联征和关键的活检发现。排除其他引起相似症状但具有不同组织学特征和治疗方法的疾病。"
+  },
+  "tags": "Whipple disease; Tropheryma whipplei; Malabsorption; Arthralgia; Periodic acid-Schiff stain; Antibiotics; Infectious disease; Gastroenterology; Rheumatology",
+  "category": "GIT",
+  "question_id": "131",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\131",
+  "extracted_at": "2025-11-05T14:23:27.124325",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:51:01.522053",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

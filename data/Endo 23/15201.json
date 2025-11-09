@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "Fifty obese adults without diabetes mellitus are enrolled in a 10-week weight loss program. The program includes a low-calorie diet and moderate-intensity exercise for at least 150 minutes per week. The study subjects who are adherent to the regimen lose an average of 7 kg (15.5 lb) at the end of 10 weeks. Venous blood samples to study biochemical changes induced by weight loss are taken at the start of the trial and at the 10-week follow-up visit. Which of the following hormonal changes are likely to occur during the course of the study? {{exhibit_1}}",
+    "zh": "50名无糖尿病的肥胖成年人参加为期10周的减肥计划。该计划包括低热量饮食和每周至少150分钟的中等强度运动。遵守该计划的研究对象在10周结束时平均减重7公斤（15.5磅）。在试验开始时和10周的随访中采集静脉血样本，以研究减肥引起的生化变化。在研究过程中，以下哪种激素变化最有可能发生？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following hormonal changes are likely to occur during the course of the study?",
+    "zh": "在研究过程中，以下哪种激素变化最有可能发生？"
+  },
+  "options": {
+    "A": {
+      "en": "Ghrelin ^; Leptin ↓; Insulin ↓",
+      "zh": "生长素释放肽升高；瘦素降低；胰岛素降低"
+    },
+    "B": {
+      "en": "Ghrelin ↓; Leptin ↓; Insulin ↓",
+      "zh": "生长素释放肽降低；瘦素降低；胰岛素降低"
+    },
+    "C": {
+      "en": "Ghrelin ↓; Leptin ^; Insulin ^",
+      "zh": "生长素释放肽降低；瘦素升高；胰岛素升高"
+    },
+    "D": {
+      "en": "Ghrelin ^; Leptin ^; Insulin ^",
+      "zh": "生长素释放肽升高；瘦素升高；胰岛素升高"
+    },
+    "E": {
+      "en": "Ghrelin ^; Leptin ^; Insulin ↓",
+      "zh": "生长素释放肽升高；瘦素升高；胰岛素降低"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Energy homeostasis and body fat content are regulated by a complex network of hormones. Prominent hormones involved in weight regulation include:\n\n•\tGhrelin: Produced primarily in the stomach in response to fasting, ghrelin stimulates appetite and promotes weight gain.\n\n•\tLeptin: Produced primarily by fat cells in response to short-term food intake and long-term adequacy of fat stores, leptin acts on the hypothalamus to decrease appetite (obesity blunts this action). During fasting states, leptin levels fall.\n\n•\tInsulin: Produced by pancreatic beta cells in response to high blood glucose levels, insulin acts on the CNS to decrease appetite, in addition to its effects on glucose metabolism. Levels are higher and effects are blunted in obesity (insulin resistance); weight loss is associated with greater insulin sensitivity and lower insulin levels.\n\nCaloric restriction and falling fat stores, as in these study subjects, lead to increased ghrelin levels along with decreased insulin and leptin levels. This causes an increase in appetite and, typically, regain of weight. The effect can last up to a year or more and accounts for much of the difficulty patients have in maintaining short-term weight loss.\n\n(Choice B) Certain bariatric procedures that alter stomach capacity (eg, sleeve gastrectomy) can induce weight loss with decreased ghrelin production (may reduce weight loss-associated appetite stimulation). However, dietary modification and exercise alone would lead to increased ghrelin secretion.\n\n(Choice C) Overeating and weight gain suppress ghrelin secretion and increase secretion of leptin and insulin.\n\n(Choice D) HIV-associated lipodystrophy is an alteration in fat distribution, most often seen in patients receiving highly active antiretroviral therapy. Numerous metabolic abnormalities have been seen in this disorder, including increased insulin levels, increased ghrelin, and decreased leptin secretion.\n\n(Choice E) Fasting states that stimulate ghrelin and suppress insulin secretion generally lead to lower, not higher, leptin levels.\n\nEducational objective:\nGhrelin stimulates appetite and promotes weight gain. Leptin and insulin act in the CNS to decrease appetite. Caloric restriction leads to increased ghrelin levels along with decreased insulin and leptin levels, causing an increase in appetite that can make it difficult to maintain weight loss.",
+    "zh": "能量稳态和体内脂肪含量由复杂的激素网络调节。与体重调节相关的突出激素包括：\n\n•\t生长素释放肽：主要在胃中产生，以响应禁食，生长素释放肽刺激食欲并促进体重增加。\n\n•\t瘦素：主要由脂肪细胞产生，以响应短期食物摄入和长期脂肪储存的充足性，瘦素作用于下丘脑以降低食欲（肥胖会削弱这种作用）。在禁食状态下，瘦素水平下降。\n\n•\t胰岛素：由胰腺β细胞产生，以响应高血糖水平，胰岛素作用于中枢神经系统以降低食欲，此外，它还影响葡萄糖代谢。在肥胖症中，胰岛素水平较高，作用减弱（胰岛素抵抗）；体重减轻与更高的胰岛素敏感性和更低的胰岛素水平相关。\n\n热量限制和脂肪储存减少，如在这些研究对象中，会导致生长素释放肽水平升高，同时胰岛素和瘦素水平降低。这会导致食欲增加，通常会导致体重反弹。这种影响可持续一年或更长时间，并且是患者难以维持短期体重减轻的主要原因。\n\n（选项B）某些改变胃容量的减肥手术（例如，袖状胃切除术）可以诱导体重减轻，同时生长素释放肽的产生减少（可能减少与体重减轻相关的食欲刺激）。然而，仅通过饮食调整和锻炼就会导致生长素释放肽分泌增加。\n\n（选项C）暴饮暴食和体重增加会抑制生长素释放肽的分泌，并增加瘦素和胰岛素的分泌。\n\n（选项D）HIV相关脂肪代谢障碍是脂肪分布的改变，最常见于接受高效抗逆转录病毒治疗的患者。在这种疾病中可见多种代谢异常，包括胰岛素水平升高、生长素释放肽升高和瘦素分泌减少。\n\n（选项E）刺激生长素释放肽并抑制胰岛素分泌的禁食状态通常会导致瘦素水平降低，而不是升高。\n\n教育目标：\n生长素释放肽刺激食欲并促进体重增加。瘦素和胰岛素在中枢神经系统中发挥作用以降低食欲。热量限制会导致生长素释放肽水平升高，同时胰岛素和瘦素水平降低，从而导致食欲增加，这可能使维持体重减轻变得困难。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hormonal changes associated with weight loss, specifically focusing on ghrelin, leptin, and insulin. It requires understanding how caloric restriction and changes in fat stores affect the secretion and function of these hormones.\n\nThe best approach is to recall the roles of each hormone in appetite regulation and energy homeostasis. Consider how weight loss through diet and exercise would impact fat stores and glucose levels, and then predict the corresponding changes in hormone levels.",
+    "zh": "这个问题考察了与体重减轻相关的激素变化知识，特别是侧重于生长素释放肽、瘦素和胰岛素。它要求理解热量限制和脂肪储存的变化如何影响这些激素的分泌和功能。\n\n最好的方法是回忆每种激素在食欲调节和能量稳态中的作用。考虑通过饮食和运动减轻体重将如何影响脂肪储存和葡萄糖水平，然后预测激素水平的相应变化。"
+  },
+  "tags": "Ghrelin; Leptin; Insulin; Weight loss; Obesity; Appetite regulation; Endocrinology; Metabolism",
+  "category": "Endo",
+  "question_id": "15201",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\15201",
+  "extracted_at": "2025-11-05T14:00:53.161721",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:37:52.427470",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

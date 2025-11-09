@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 52-year-old woman with a history of locally advanced breast cancer comes to the office for follow-up. The patient is undergoing trastuzumab-based chemotherapy but has not received radiation therapy. She has no symptoms except mild fatigue. Blood pressure is 120/72 mm Hg and pulse is 85/min and regular. The patient is afebrile. Transthoracic echocardiography reveals a left ventricular ejection fraction of 40% with no evidence of valvular disease. Cardiac assessment prior to chemotherapy initiation was normal.",
+    "zh": "一名 52 岁女性，既往有局部晚期乳腺癌病史，前来复诊。患者正在接受曲妥珠单抗为基础的化疗，但未接受放疗。除轻度疲劳外，无其他症状。血压 120/72 mmHg，脉搏 85 次/分钟，规律。患者无发热。经胸超声心动图显示左心室射血分数为 40%，无瓣膜疾病的证据。化疗开始前的**心脏评估是正常的**。"
+  },
+  "question": {
+    "en": "Which of the following pathologic findings is most likely to be present in this patient's heart?",
+    "zh": "以下哪种病理发现最有可能出现在该患者的心脏中？"
+  },
+  "options": {
+    "A": {
+      "en": "Abnormal protein accumulation in the extracellular space",
+      "zh": "细胞外间隙中出现异常蛋白积聚"
+    },
+    "B": {
+      "en": "Focal ischemic cardiomyocyte necrosis",
+      "zh": "局灶性缺血性心肌细胞坏死"
+    },
+    "C": {
+      "en": "Myocardial tumor cell infiltration",
+      "zh": "心肌肿瘤细胞浸润"
+    },
+    "D": {
+      "en": "Patchy cardiomyocyte necrosis with diffuse myocardial fibrosis",
+      "zh": "斑片状心肌细胞坏死伴弥漫性心肌纤维化"
+    },
+    "E": {
+      "en": "Reduced cardiomyocyte contractility with no fibrosis",
+      "zh": "心肌细胞收缩力降低，无纤维化"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Trastuzumab is a monoclonal antibody used in the treatment of breast cancer caused by tumor cells that overexpress human epidermal growth factor receptor-2 (HER2). By binding to HER2, trastuzumab blocks downstream signaling that promotes cellular proliferation and thereby encourages malignant cell apoptosis.\n\nThe major adverse effect of trastuzumab is a risk of CARDIOTOXICITY, likely because HER2 signaling plays a role in minimizing oxidative stress on cardiomyocytes and preserving cardiomyocyte function. Cardiotoxicity typically manifests as a decrease in myocardial contractility (myocardial stunning) without cardiomyocyte destruction or myocardial fibrosis. Patients usually experience an asymptomatic decline in left ventricular ejection fraction; however, overt heart failure can also occur. Unlike the cardiotoxicity that occurs with anthracyclines (eg, doxorubicin), trastuzumab-induced cardiotoxicity is not related to the cumulative chemotherapy dose and is often reversible with discontinuation of therapy.\n\n(Choice A) Abnormal protein accumulation in the cardiac extracellular space is seen in patients with amyloidosis, namely with the light-chain (AL) and transthyretin (ATTR) subtypes. The disease typically manifests initially as restrictive cardiomyopathy with impaired diastolic function and preserved ejection fraction.\n\n(Choice B) Focal ischemic cardiomyocyte necrosis leading to left ventricular systolic dysfunction is seen in patients with a prior myocardial infarction due to coronary heart disease.\n\n(Choice C) Breast cancer is one of the most common malignancies to metastasize to the heart, typically causing pericardial effusion that may gradually progress to cardiac tamponade. However, tamponade predominantly affects diastolic filling of the right-sided heart chambers and does not decrease left ventricular ejection fraction.\n\n(Choice D) Anthracycline-induced cardiotoxicity occurs due to oxidative damage of cellular membranes, leading to cardiomyocyte necrosis and death with eventual myocardial fibrosis.",
+    "zh": "曲妥珠单抗是一种单克隆抗体，用于治疗由过表达人表皮生长因子受体-2 (HER2) 的肿瘤细胞引起的乳腺癌。通过与 HER2 结合，曲妥珠单抗阻断了促进细胞增殖的下游信号传导，从而促进恶性细胞凋亡。\n\n曲妥珠单抗的主要不良反应是**心脏毒性**的风险，这可能是因为 HER2 信号传导在最大限度地减少心肌细胞氧化应激和维持心肌细胞功能方面发挥作用。心脏毒性通常表现为心肌收缩力下降（心肌顿抑），而无心肌细胞破坏或心肌纤维化。患者通常会经历左室射血分数无症状下降；然而，也可能发生明显的心力衰竭。与蒽环类药物（如阿霉素）引起的心脏毒性不同，曲妥珠单抗引起的心脏毒性与累积化疗剂量无关，并且通常可在停药后逆转。\n\n(选项 A) 心脏细胞外间隙出现异常蛋白积聚见于患有淀粉样变性的患者，特别是轻链 (AL) 和转甲状腺素蛋白 (ATTR) 亚型。该疾病通常最初表现为限制性心肌病，伴有舒张功能受损和射血分数保留。\n\n(选项 B) 局灶性缺血性心肌细胞坏死导致左室收缩功能障碍见于既往因冠心病发生心肌梗死的患者。\n\n(选项 C) 乳腺癌是最常见的转移至心脏的恶性肿瘤之一，通常引起心包积液，并可能逐渐进展为心脏压塞。然而，压塞主要影响右侧心腔的舒张期充盈，并且不会降低左室射血分数。\n\n(选项 D) 蒽环类药物引起的心脏毒性是由于细胞膜的氧化损伤，导致心肌细胞坏死和死亡，最终导致心肌纤维化。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of trastuzumab-induced cardiotoxicity, specifically its mechanism and clinical presentation. It requires understanding the drug's effect on HER2 receptors and the resulting impact on cardiomyocyte function.\n\nThe best approach is to recall the mechanism of trastuzumab and its association with decreased myocardial contractility without cardiomyocyte destruction. Eliminate options that describe other cardiac pathologies or mechanisms of cardiotoxicity.",
+    "zh": "本题考察对曲妥珠单抗引起的心脏毒性的知识，特别是其机制和临床表现。它需要理解该药物对 HER2 受体的作用以及由此对心肌细胞功能的影响。\n\n最好的方法是回忆曲妥珠单抗的机制及其与心肌收缩力降低而无心肌细胞破坏的关系。排除描述其他心脏病理或心脏毒性机制的选项。"
+  },
+  "tags": "Trastuzumab; Cardiotoxicity; HER2; Breast cancer; Chemotherapy; Myocardial contractility; Cardiomyopathy; Oncology; Cardiology",
+  "category": "CVS",
+  "question_id": "14844",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\14844",
+  "extracted_at": "2025-11-05T11:53:59.243847",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:45:48.783646",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

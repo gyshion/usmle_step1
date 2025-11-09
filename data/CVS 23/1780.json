@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 79-year-old man is brought to the hospital due to confusion for the past 2 days. The patient has had nausea, decreased appetite, and poor oral intake for several weeks. He has also mentioned that everything around him has \"a yellow tint.\" He has no abdominal pain. Medical history includes long-standing heart failure with reduced ejection fraction and atrial fibrillation. Medications include metoprolol, digoxin, lisinopril, and apixaban. The patient is afebrile. Blood pressure is 130/80 mm Hg and pulse is 58/min. The abdomen is soft and nontender; there is no rigidity or rebound and no masses are present.",
+    "zh": "一名79岁男性因过去2天出现意识模糊而被送往医院。患者过去几周出现恶心、食欲下降和口腔摄入不足。他提到周围的一切都呈现“黄色调”。他没有腹痛。病史包括长期射血分数降低的心力衰竭和心房颤动。药物包括美托洛尔、地高辛、赖诺普利和阿哌沙班。患者无发热。血压为130/80 mmHg，脉搏为58次/分钟。腹部柔软且无压痛；无僵硬或反跳痛，且无肿块。"
+  },
+  "question": {
+    "en": "Age-related changes in which of the following factors most likely accounts for this patient's symptoms?",
+    "zh": "以下哪种因素的年龄相关性变化最有可能导致该患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Intestinal absorption",
+      "zh": "肠道吸收"
+    },
+    "B": {
+      "en": "Liver enzyme activity",
+      "zh": "肝酶活性"
+    },
+    "C": {
+      "en": "Muscle mass",
+      "zh": "肌肉量"
+    },
+    "D": {
+      "en": "Plasma protein binding",
+      "zh": "血浆蛋白结合"
+    },
+    "E": {
+      "en": "Renal clearance",
+      "zh": "肾清除率"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Digoxin is a cardiac glycoside that can be used to treat atrial fibrillation and systolic heart failure. This patient is experiencing symptoms classically associated with DIGOXIN TOXICITY, which include visual changes (particularly YELLOW TINTING of objects) and gastrointestinal disturbances. Digoxin is RENALLY CLEARED and has a narrow therapeutic window, so toxicity frequently results from alterations in kidney function. As patients age, renal function decreases progressively. This decrease in renal function is often not accompanied by a concomitant rise in serum creatinine, as creatinine is derived from muscle tissue and lean body mass also decreases with age. Therefore, elderly patients (even those with a normal serum creatinine) should receive reduced doses of renally cleared medications to prevent toxicity.\n\n(Choice A) Intestinal absorption affects the dose of digoxin that reaches the bloodstream. Some preparations of digoxin may have a higher bioavailability than others, and some patients may carry gut bacteria that degrade digoxin before it has the ability to cross into the bloodstream.\n\n(Choice B) Liver enzyme activity plays a small role in the elimination of digoxin, as this agent is primarily excreted unchanged by the kidney.\n\n(Choice C) This patient's lean muscle mass is important to consider when dosing digoxin based on weight, as this serves as the primary site where digoxin is stored in the body. Lean body mass does tend to decrease in an age-related manner, but age-related renal insufficiency is more directly related to toxicity of digoxin in the elderly.\n\n(Choice D) Plasma protein binding of digoxin is not as significant as renal clearance when considering toxicity. Typically less than one-third of the digoxin that gains access to the bloodstream will be protein-bound; the remainder of the dose circulates unbound.\n\nEducational objective:\nDigoxin is a cardiac glycoside that is predominantly cleared by the kidneys. Elderly patients typically exhibit age-related renal insufficiency, even in the presence of normal creatinine levels. The dose of digoxin must be reduced in these patients to prevent toxicity.",
+    "zh": "地高辛是一种强心苷，可用于治疗心房颤动和收缩性心力衰竭。该患者正在经历与地高辛毒性相关的典型症状，包括视觉改变（尤其是物体呈现黄色调）和胃肠道不适。地高辛经肾脏清除，治疗窗口狭窄，因此毒性经常由肾功能改变导致。随着患者年龄的增长，肾功能逐渐下降。这种肾功能的下降通常不会伴随血清肌酐的相应升高，因为肌酐来源于肌肉组织，并且瘦体重也会随着年龄的增长而下降。因此，老年患者（即使血清肌酐正常）也应减少肾脏清除药物的剂量，以防止毒性。\n\n（选项A）肠道吸收影响到达血流中的地高辛剂量。某些地高辛制剂可能具有比其他制剂更高的生物利用度，并且一些患者可能携带在药物进入血流之前降解地高辛的肠道细菌。\n\n（选项B）肝酶活性在地高辛的消除中起着很小的作用，因为该药物主要以原形通过肾脏排泄。\n\n（选项C）在根据体重给药地高辛时，考虑该患者的瘦肌肉量很重要，因为这是地高辛在体内的主要储存部位。瘦体重确实有随年龄下降的趋势，但与老年人地高辛的毒性更直接相关的是年龄相关的肾功能不全。\n\n（选项D）血浆蛋白结合在地高辛毒性考虑中不如肾清除率重要。通常，进入血流的地高辛中不到三分之一会与蛋白质结合；剩余剂量以游离形式循环。\n\n教育目标：地高辛是一种主要通过肾脏清除的强心苷。老年患者通常表现出与年龄相关的肾功能不全，即使血清肌酐水平正常。必须在这些患者中减少地高辛的剂量以防止毒性。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of digoxin toxicity and the impact of age-related renal function decline on drug clearance. It assesses the ability to recognize symptoms of digoxin toxicity and understand the pharmacokinetic changes in elderly patients.\n\nTo solve this question, identify the symptoms suggestive of digoxin toxicity (yellow tint, nausea). Recognize that digoxin is renally cleared and that renal function declines with age, leading to increased drug levels and toxicity in elderly patients.",
+    "zh": "本题考察对地高辛毒性的认识以及与年龄相关的肾功能下降对药物清除的影响。评估识别地高辛毒性症状和了解老年患者药代动力学变化的能力。\n\n要解决这个问题，需要识别提示地高辛毒性的症状（黄色调、恶心）。认识到地高辛经肾脏清除，肾功能随年龄下降，导致老年患者的药物水平升高和毒性增加。"
+  },
+  "tags": "Digoxin toxicity; Renal clearance; Geriatrics; Heart failure; Atrial fibrillation; Cardiac glycosides; Drug metabolism; Kidney function",
+  "category": "CVS",
+  "question_id": "1780",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1780",
+  "extracted_at": "2025-11-05T12:02:09.328557",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:52:26.964506",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

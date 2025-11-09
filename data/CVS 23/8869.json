@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old man who was recently started on medication for paroxysmal atrial fibrillation undergoes stress ECG testing. The patient exercises on a treadmill for 9 minutes and reaches 98% of age-predicted maximal heart rate without chest pain or ST-segment changes. His pre-test resting QRS complex duration is 95 msec (normal: 80-120 msec) and corrected QT (QTc) interval duration is 410 msec (normal ≤440 msec). ECG findings recorded at his maximally achieved heart rate show a QRS complex duration of 125 msec and QTc interval duration of 400 msec. Based on the patient's test results, which of the following medications is most likely being used to treat his atrial fibrillation?",
+    "zh": "一名45岁男性，近期开始服用药物治疗阵发性房颤，接受了运动心电图测试。患者在跑步机上运动9分钟，达到预测最大心率的98%，没有出现胸痛或ST段改变。他的测试前静息QRS波群时限为95毫秒（正常：80-120毫秒），校正QT（QTc）间期为410毫秒（正常≤440毫秒）。在他达到最大心率时记录的心电图结果显示，QRS波群时限为125毫秒，QTc间期为400毫秒。根据患者的测试结果，以下哪种药物最有可能用于治疗他的房颤？"
+  },
+  "question": {
+    "en": "Based on the patient's test results, which of the following medications is most likely being used to treat his atrial fibrillation?",
+    "zh": "根据患者的测试结果，以下哪种药物最有可能用于治疗他的房颤？"
+  },
+  "options": {
+    "A": {
+      "en": "Atenolol",
+      "zh": "阿替洛尔"
+    },
+    "B": {
+      "en": "Digoxin",
+      "zh": "地高辛"
+    },
+    "C": {
+      "en": "Dofetilide",
+      "zh": "多非利特"
+    },
+    "D": {
+      "en": "Flecainide",
+      "zh": "氟卡尼"
+    },
+    "E": {
+      "en": "Verapamil",
+      "zh": "维拉帕米"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Flecainide is a class IC antiarrhythmic that slows conduction velocity that accompanies faster heart rates. However, this patient's QRS duration is normal at rest and prolonged at near-maximal heart rate. This suggests that the drug used to treat his atrial fibrillation lengthens the QRS duration in a rate-dependent manner, which is consistent with a drug exhibiting strong use-dependence such as flecainide.\n\nFlecainide is a class 1C antiarrhythmic that is typically used to treat supraventricular tachycardias such as those caused by atrial fibrillation. Class 1C antiarrhythmics bind to the fast sodium channels responsible for phase 0 depolarization of cardiac myocytes, blocking the inward sodium current. This prolongs the QRS duration with little effect on total action potential or QT interval duration. Class 1C drugs are the slowest of the class 1 agents to dissociate from the sodium channel, and do so primarily during diastole. This results in a phenomenon known as use-dependence, in which their sodium-blocking effects intensify as the heart rate increases due to less time for the medication to dissociate from the receptor. {{exhibit_1}}\n\n(Choice A) Selective β1 blockers such as atenolol do not significantly affect QRS duration. However, their use during exercise ECG testing can limit the maximal heart rate that is achieved.\n\n(Choice B) Digoxin can cause false-positive ST-segment depression during exercise ECG testing as well as lower the maximal achievable heart rate. It does not significantly affect QRS duration.\n\n(Choice C) Dofetilide is a class III antiarrhythmic drug that blocks the outward potassium current during repolarization. As a result, it increases the QT interval duration but does not affect QRS duration. Class III agents demonstrate reverse use-dependence (the slower the heart rate, the more the QT interval is prolonged).\n\n(Choice E) Verapamil (a class IV antiarrhythmic) is a calcium channel blocker that slows sinoatrial and atrioventricular nodal conduction. It also increases coronary blood flow and reduces myocardial oxygen demand, which can mask ischemia during stress testing. Verapamil does not affect QRS duration.\n\nEducational objective:\nClass 1C antiarrhythmics such as flecainide are potent sodium channel blockers that have increased effect at faster heart rates (use-dependence). This makes them more effective at treating tachyarrhythmias, but can also cause prolonged QRS duration (a proarrhythmic effect) at higher heart rates.",
+    "zh": "氟卡尼是一种IC类抗心律失常药物，可以减缓伴随较快心率的传导速度。然而，该患者的QRS波群时限在静息状态下是正常的，但在接近最大心率时延长。这表明用于治疗其房颤的药物以依赖于心率的方式延长QRS波群时限，这与表现出强烈使用依赖性的药物（如氟卡尼）一致。\n\n氟卡尼是一种1C类抗心律失常药物，通常用于治疗室上性心动过速，例如由房颤引起的。1C类抗心律失常药物与负责心肌细胞0相去极化的快速钠通道结合，阻断内向钠电流。这会延长QRS波群时限，对总动作电位或QT间期影响很小。1C类药物是1类药物中最慢的从钠通道解离的药物，主要在舒张期解离。这导致了一种被称为使用依赖性的现象，其阻断钠的作用随着心率的增加而增强，因为药物从受体解离的时间减少。{{exhibit_1}}\n\n（选项A）选择性β1受体阻滞剂（如阿替洛尔）不会显著影响QRS波群时限。然而，在运动心电图测试中使用它们可能会限制所达到的最大心率。\n\n（选项B）地高辛在运动心电图测试中可引起假阳性的ST段压低，并降低最大可达到的心率。它不会显著影响QRS波群时限。\n\n（选项C）多非利特是一种III类抗心律失常药物，它阻断复极化期间的外向钾电流。因此，它会增加QT间期，但不影响QRS波群时限。III类药物表现出反向使用依赖性（心率越慢，QT间期延长越多）。\n\n（选项E）维拉帕米（一种IV类抗心律失常药物）是一种钙通道阻滞剂，可减缓窦房结和房室结传导。它还会增加冠状血流量并降低心肌耗氧量，这可能会掩盖运动测试期间的缺血。维拉帕米不影响QRS波群时限。\n\n教育目标：\n1C类抗心律失常药物（如氟卡尼）是强效钠通道阻滞剂，在较快心率下具有增强作用（使用依赖性）。这使得它们在治疗快速性心律失常方面更有效，但也会导致在高心率下QRS波群时限延长（促心律失常作用）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of antiarrhythmic drug effects on ECG intervals, specifically the concept of use-dependence with Class 1C antiarrhythmics like flecainide. It requires understanding how these drugs affect QRS duration at different heart rates.\n\nThe key to solving this question is recognizing the change in QRS duration with exercise and relating it to the mechanism of action of Class 1C antiarrhythmics. Consider the concept of use-dependence and how it manifests on ECG during stress testing.",
+    "zh": "此题考察了对心律失常药物对心电图间期的影响的认识，特别是1C类抗心律失常药（如氟卡尼）的使用依赖性概念。它要求理解这些药物如何影响不同心率下的QRS波群时限。\n\n解决此问题的关键是认识到运动时QRS波群时限的变化，并将其与1C类抗心律失常药物的作用机制联系起来。考虑使用依赖性的概念以及它在运动测试期间如何表现在心电图上。"
+  },
+  "tags": "Atrial fibrillation; Flecainide; Antiarrhythmics; ECG interpretation; Use-dependence; QRS duration; Stress testing; Cardiology; Electrophysiology",
+  "category": "CVS",
+  "question_id": "8869",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\8869",
+  "extracted_at": "2025-11-05T12:18:16.657443",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:32:13.667490",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

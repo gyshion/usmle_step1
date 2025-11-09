@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old woman comes to the office due to dysuria. The patient has a history of recurrent urinary tract infections. A urine sample is collected and sent for culture. Gram-negative bacteria isolated from the urine are found to form pink colonies on lactose-containing MacConkey agar. Several days later, bacterial isolates from a second urine sample are found to form white colonies when plated on the same type of medium. Genetic analysis shows that the more recent isolates have a single nucleotide deletion within the *lac* operon DNA sequence. {{exhibit_1}}",
+    "zh": "一位34岁女性因尿痛来就诊。患者有复发性尿路感染病史。采集尿液样本并送去培养。从尿液中分离出的革兰氏阴性菌在含有乳糖的麦康凯琼脂上形成粉红色菌落。几天后，从第二个尿液样本中分离出的细菌在同一类型的培养基上接种时形成白色菌落。基因分析表明，最近分离的菌株在*lac*操纵子DNA序列内有一个单核苷酸缺失。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "This genomic change is most consistent with which of the following?",
+    "zh": "这种基因组变化最符合以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Conservative mutation",
+      "zh": "保守突变"
+    },
+    "B": {
+      "en": "Frameshift mutation",
+      "zh": "移码突变"
+    },
+    "C": {
+      "en": "Missense mutation",
+      "zh": "错义突变"
+    },
+    "D": {
+      "en": "Nonsense mutation",
+      "zh": "无义突变"
+    },
+    "E": {
+      "en": "Silent mutation",
+      "zh": "沉默突变"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "In this case, the single nucleotide deletion within the *lac* operon DNA sequence of the newer isolates impairs lactose metabolism most likely by preventing the formation of a required enzyme. Because the mutation is a single base deletion, it will cause a FRAMESHIFT MUTATION if it occurs within the coding region (exons) of the gene.\n\nFrameshift mutations are caused by deletion or insertion of any number of nucleotides that are not multiples of 3. The result is a change in the reading frame during protein translation, which causes the production of an entirely different protein that is often shorter than the original due to formation of a premature stop codon.\n\nThe other mutations listed are all examples of point mutations (ie, single base substitutions) that can lead to a variety of changes in the coded protein.\n\n(Choices A and C) Missense mutations are single base substitutions that result in the placement of an incorrect amino acid in a protein sequence. These mutations occur within the coding region of a gene and do not alter protein length. A conservative mutation is a type of missense mutation where an amino acid is replaced with another that has similar biochemical characteristics. Conservative mutations generally preserve protein function unless the mutation occurs in a critical region (eg, active site of enzyme).\n\n(Choice D) Nonsense mutations introduce a premature stop codon in a coding region, resulting in the production of a truncated protein. The mutation described is not a nonsense mutation because it was caused by a single base deletion (not a base substitution).\n\n(Choice E) A silent mutation is a single base substitution within a codon that does not change the amino acid (due to codon redundancy). Silent mutations have no effect on protein formation or function. {{exhibit_2}}\n\nEducational objective:\nA frameshift mutation occurs with the deletion/addition of a number of bases not divisible by 3 in the coding region of a gene. Frameshift mutations alter the reading frame of the genetic code, dramatically changing the protein structure and often resulting in the formation of a premature stop codon.",
+    "zh": "在这种情况下，较新分离株的*lac*操纵子DNA序列内的单核苷酸缺失通过阻止所需酶的形成而损害乳糖代谢。由于这种突变是单个碱基缺失，如果它发生在基因的编码区（外显子）内，将导致移码突变。\n\n移码突变是由任何不是3的倍数的核苷酸的缺失或插入引起的。结果是在蛋白质翻译过程中阅读框架的改变，这会导致产生一个完全不同的蛋白质，由于过早终止密码子的形成，该蛋白质通常比原始蛋白质短。\n\n列出的其他突变都是点突变的例子（即，单碱基取代），这些突变会导致编码蛋白质的各种变化。\n\n（选项A和C）错义突变是单碱基取代，导致在蛋白质序列中放置错误的氨基酸。这些突变发生在基因的编码区内，不会改变蛋白质长度。保守突变是一种错义突变，其中一个氨基酸被另一个具有相似生化特性的氨基酸取代。保守突变通常保留蛋白质功能，除非突变发生在关键区域（例如，酶的活性位点）。\n\n（选项D）无义突变在编码区引入过早的终止密码子，导致产生截短的蛋白质。所描述的突变不是无义突变，因为它是由单个碱基缺失引起的（不是碱基取代）。\n\n（选项E）沉默突变是密码子内的单碱基取代，不会改变氨基酸（由于密码子冗余）。沉默突变对蛋白质形成或功能没有影响。{{exhibit_2}}\n\n教育目标：\n移码突变发生在基因编码区内，删除/添加的碱基数不能被3整除。移码突变改变了遗传密码的阅读框，极大地改变了蛋白质结构，并且通常导致过早终止密码子的形成。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of different types of mutations and their effects on protein synthesis, specifically focusing on frameshift mutations caused by single nucleotide deletions. It requires understanding how these mutations alter the reading frame and lead to non-functional proteins.\n\nTo solve this question, identify the type of mutation described (single nucleotide deletion) and its effect on the reading frame. Rule out other types of mutations based on their mechanisms and effects on protein synthesis.",
+    "zh": "这个问题考察了不同类型的突变及其对蛋白质合成的影响的知识，特别是侧重于由单核苷酸缺失引起的移码突变。它要求理解这些突变如何改变阅读框架并导致无功能蛋白。\n\n为了解决这个问题，确定所描述的突变类型（单核苷酸缺失）及其对阅读框架的影响。根据其机制和对蛋白质合成的影响，排除其他类型的突变。"
+  },
+  "tags": "Frameshift mutation; Single nucleotide deletion; Lac operon; Protein synthesis; Genetic mutations; Microbiology; Bacterial genetics",
+  "category": "Bio",
+  "question_id": "2027",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\2027",
+  "extracted_at": "2025-11-05T11:15:06.728808",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:23:48.831126",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

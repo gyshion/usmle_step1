@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old man comes to the office due to progressive fatigue, easy bruising, and recurring episodes of gum bleeding. Physical examination shows several ecchymoses in his lower extremities. Laboratory studies are as follows: {{exhibit_1}} Bone marrow biopsy is performed and fluorescence in situ hybridization studies reveal a balanced translocation between the long arms of chromosomes 15 and 17.",
+    "zh": "一位32岁的男性因进行性疲劳、易瘀伤和反复发作的牙龈出血来诊。体格检查显示其下肢有多处瘀斑。实验室检查结果如下：{{exhibit_1}} 骨髓活检显示荧光原位杂交研究显示第15号和第17号染色体长臂之间存在平衡易位。"
+  },
+  "question": {
+    "en": "Which of the following proteins is most likely to be abnormal in the hematopoietic cells of this patient?",
+    "zh": "该患者的造血细胞中最有可能异常的蛋白质是以下哪一种？"
+  },
+  "options": {
+    "A": {
+      "en": "Epidermal growth factor receptor",
+      "zh": "表皮生长因子受体"
+    },
+    "B": {
+      "en": "GTP-binding protein",
+      "zh": "GTP结合蛋白"
+    },
+    "C": {
+      "en": "Platelet-derived growth factor receptor",
+      "zh": "血小板衍生生长因子受体"
+    },
+    "D": {
+      "en": "Retinoblastoma gene product",
+      "zh": "视网膜母细胞瘤基因产物"
+    },
+    "E": {
+      "en": "Retinoic acid receptor",
+      "zh": "维甲酸受体"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Acute myelogenous leukemia (AML), characterized by failure of immature myeloid precursors (myeloblasts) to differentiate into mature granulocytes, is divided into 8 types (M0 through M7). ACUTE PROMYELOCYTIC LEUKEMIA (APML), the M3 variant of AML, is associated with the t(15;17) cytogenetic translocation involving the promyelocytic leukemia (PML) gene on chromosome 15 and the retinoic acid receptor alpha (RARA) gene on chromosome 17. Fusion of these 2 genes produces PML/RARA, a chimeric gene (illustrated in this fluorescence in situ hybridization image) that codes for an abnormal RETINOIC ACID RECEPTOR, which then inhibits myeloblast differentiation. Abnormal promyelocytes and Auer rods are seen on the smear.\n\nThe clinical manifestations of AML, including anemia (fatigue, pallor), thrombocytopenia (petechiae, hemorrhages), and neutropenia (fever, opportunistic infections), result from marrow replacement by leukemic cells. As seen in this patient, APML is associated with DISSEMINATED INTRAVASCULAR COAGULATION (DIC), which is characterized by activation of the coagulation cascade. Laboratory findings seen in DIC include thrombocytopenia, elevated D-dimer due to fibrinolysis, and prolonged coagulation profile times (eg, prothrombin time, activated partial thromboplastin time) and low fibrinogen due to consumption.\n\nAll-trans retinoic acid is used for treatment of APML.\n\n(Choice A) Mutations in the genes that code for the epidermal growth factor receptors are associated with certain lung (ERBB1), breast (ERBB2, also known as HER2/neu), ovarian, and gastric tumors.\n\n(Choice B) GTP-binding proteins are involved in cellular signal transduction.\n\n(Choice C) A defective platelet-derived growth factor receptor plays a role in the pathogenesis of several cancers, including ovarian cancers.\n\n(Choice D) An abnormal RB gene predisposes to development of retinoblastoma and osteosarcoma.",
+    "zh": "急性髓细胞性白血病（AML）的特征是未成熟的髓系前体细胞（成髓细胞）无法分化成成熟的粒细胞，分为8种类型（M0到M7）。急性早幼粒细胞白血病（APML）是AML的M3亚型，与t(15;17)细胞遗传学易位相关，涉及第15号染色体上的早幼粒细胞白血病（PML）基因和第17号染色体上的维甲酸受体α（RARA）基因。这2个基因的融合产生PML/RARA，这是一个嵌合基因（如本荧光原位杂交图像所示），编码异常的维甲酸受体，进而抑制成髓细胞分化。涂片上可见异常的早幼粒细胞和Auer小体。\n\nAML的临床表现，包括贫血（疲劳、苍白）、血小板减少症（瘀点、出血）和中性粒细胞减少症（发热、机会性感染），是由于骨髓被白血病细胞取代所致。如该患者所示，APML与弥散性血管内凝血（DIC）相关，其特征是凝血级联反应的激活。DIC的实验室检查结果包括血小板减少症、由于纤维蛋白溶解而升高的D-二聚体、凝血酶原时间、活化部分凝血活酶时间等凝血指标延长，以及由于消耗而降低的纤维蛋白原。\n\n全反式维甲酸用于治疗APML。\n\n（选项A）编码表皮生长因子受体的基因突变与某些肺（ERBB1）、乳腺（ERBB2，也称为HER2/neu）、卵巢和胃肿瘤相关。\n\n（选项B）GTP结合蛋白参与细胞信号转导。\n\n（选项C）有缺陷的血小板衍生生长因子受体在几种癌症的发病机制中起作用，包括卵巢癌。\n\n（选项D）异常的RB基因易患视网膜母细胞瘤和骨肉瘤。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of acute promyelocytic leukemia (APML), specifically the genetic translocation t(15;17) and its impact on the retinoic acid receptor. It also assesses understanding of the clinical and laboratory findings associated with APML and disseminated intravascular coagulation (DIC).\n\nTo solve this question, recognize the association between the t(15;17) translocation and APML. Recall that this translocation affects the retinoic acid receptor, leading to abnormal myeloblast differentiation. Consider the clinical presentation and lab findings suggestive of DIC, which is common in APML.",
+    "zh": "本题测试关于急性早幼粒细胞白血病（APML）的知识，特别是遗传易位t(15;17)及其对维甲酸受体的影响。它还评估对与APML和弥散性血管内凝血（DIC）相关的临床和实验室发现的理解。\n\n要解决这个问题，需要认识到t(15;17)易位与APML之间的联系。回想一下，这种易位会影响维甲酸受体，导致成髓细胞分化异常。考虑提示DIC的临床表现和实验室检查结果，DIC在APML中很常见。"
+  },
+  "tags": "Acute promyelocytic leukemia; APML; t(15;17); Retinoic acid receptor; Disseminated intravascular coagulation; DIC; Hematology; Oncology; Bone marrow biopsy; Fluorescence in situ hybridization",
+  "category": "Blood",
+  "question_id": "1403",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1403",
+  "extracted_at": "2025-11-05T11:23:08.610284",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:26:58.418697",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": " A  year-old woman with Alzheimer disease is brought to the emergency department after getting lost while taking a walk in her neighborhood. Her son has been unable to contact the patient for the last 2 days, and today the police found her wandering in a park. The patient says that she drank water from a park fountain but has not had anything to eat for over 24 hours. On physical examination, she is mildly confused with dry mucous membranes. Laboratory studies show a blood glucose level of 92 mg/dL. Which of the following hormones binds to an intracellular receptor to help maintain this patient's laboratory findings within the normal range? {{exhibit_1}}",
+    "zh": "一位患有阿尔茨海默病的 年轻女性在邻里散步时迷路后被带到急诊科。她的儿子在过去的 2 天里一直无法联系到患者，今天警方在公园里发现了她。患者说她喝了公园喷泉里的水，但 24 小时以上没有吃任何东西。体格检查显示，她轻度意识模糊，粘膜干燥。实验室研究显示血糖水平为 92 mg/dL。以下哪种激素与细胞内受体结合，有助于将该患者的实验室检查结果维持在正常范围内？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following hormones binds to an intracellular receptor to help maintain this patient's laboratory findings within the normal range?",
+    "zh": "以下哪种激素与细胞内受体结合，有助于将该患者的实验室检查结果维持在正常范围内？"
+  },
+  "options": {
+    "A": {
+      "en": "Cortisol",
+      "zh": "皮质醇"
+    },
+    "B": {
+      "en": "Epinephrine",
+      "zh": "肾上腺素"
+    },
+    "C": {
+      "en": "Glucagon",
+      "zh": "胰高血糖素"
+    },
+    "D": {
+      "en": "Growth hormone",
+      "zh": "生长激素"
+    },
+    "E": {
+      "en": "Insulin",
+      "zh": "胰岛素"
+    },
+    "F": {
+      "en": "Norepinephrine",
+      "zh": "去甲肾上腺素"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has experienced a prolonged fast, but her blood glucose level is normal. As blood glucose levels fall in the fasting state, hypoglycemia is prevented due to suppression of insulin secretion and activation of counterregulatory hormones. Glucagon is the primary hormone secreted acutely in response to falling glucose levels; it stimulates hepatic glycogenolysis and gluconeogenesis. Concurrently, epinephrine further stimulates glycogenolysis and gluconeogenesis, increases the release of gluconeogenic substrates from muscle and fat, and limits glucose utilization by some insulin-sensitive peripheral tissues.\n\nAs the fast continues, secretion of cortisol and growth hormone increases; these hormones attenuate hypoglycemia by altering transcription of key enzymes. In the inactivated state, intracellular cortisol receptors are found in the cytoplasm in association with heat shock proteins. Binding of cortisol to the carboxy terminal portion of the receptor causes the release of the heat shock proteins and allows receptor dimerization. The activated homodimers are then transported to the nucleus, where they control gene expression by binding to hormone-responsive DNA elements in the promoter region of target genes. Cortisol increases transcription of gluconeogenic enzymes as well as those involved in lipolysis and proteolysis. {{exhibit_2}}\n\n(Choices B, C, and F) Catecholamines (eg, epinephrine, norepinephrine) and glucagon attenuate hypoglycemia. However, they exert their metabolic effects via extracellular, transmembrane, G protein–coupled receptors that activate adenylyl cyclase and increase cyclic AMP production.\n\n(Choice D) Growth hormone acts via an extracellular, transmembrane receptor that activates a JAK-STAT pathway. Growth hormone antagonizes insulin action, increases gluconeogenesis, and promotes lipolysis (provides gluconeogenic substrates).\n\n(Choice E) In addition to the production of counterregulatory hormones, the inhibition of insulin release from pancreatic beta cells plays a primary role in preventing hypoglycemia during fasting. However, insulin acts on an extracellular transmembrane receptor with intrinsic tyrosine kinase activity.\n\nEducational objective:\nIn a fasting state, glucagon and epinephrine bind to transmembrane receptors and prevent hypoglycemia by increasing hepatic glycogenolysis and gluconeogenesis. Prolonged fasting increases the secretion of cortisol, a steroid hormone that binds to an intracellular receptor and acts to increase transcription of enzymes involved in gluconeogenesis, lipolysis, and proteolysis.",
+    "zh": "该患者经历了长时间的禁食，但她的血糖水平正常。当空腹状态下血糖水平下降时，由于胰岛素分泌受到抑制和拮抗调节激素的激活，可预防低血糖。胰高血糖素是响应血糖下降而急性分泌的主要激素；它刺激肝糖原分解和糖异生。同时，肾上腺素进一步刺激糖原分解和糖异生，增加来自肌肉和脂肪的糖异生底物的释放，并限制某些胰岛素敏感性外周组织对葡萄糖的利用。\n\n随着禁食的持续，皮质醇和生长激素的分泌增加；这些激素通过改变关键酶的转录来减轻低血糖。在失活状态下，细胞内皮质醇受体与热休克蛋白结合存在于细胞质中。皮质醇与受体的羧基末端结合会导致热休克蛋白的释放并允许受体二聚化。然后，活化的同源二聚体被转运到细胞核，在那里它们通过与靶基因启动子区域的激素反应性 DNA 元件结合来控制基因表达。皮质醇增加糖异生酶以及参与脂肪分解和蛋白水解的酶的转录。 {{exhibit_2}}\n\n（选项 B、C 和 F）儿茶酚胺（如肾上腺素、去甲肾上腺素）和胰高血糖素可减轻低血糖。然而，它们通过细胞外、跨膜、G 蛋白偶联受体发挥其代谢作用，这些受体激活腺苷酸环化酶并增加环磷酸腺苷的产生。\n\n（选项 D）生长激素通过激活 JAK-STAT 通路的细胞外、跨膜受体发挥作用。生长激素拮抗胰岛素的作用，增加糖异生，并促进脂肪分解（提供糖异生底物）。\n\n（选项 E）除了产生拮抗调节激素外，抑制胰岛 β 细胞释放胰岛素在禁食期间预防低血糖方面也起着主要作用。然而，胰岛素作用于具有内在酪氨酸激酶活性的细胞外跨膜受体。\n\n教育目标：\n在空腹状态下，胰高血糖素和肾上腺素与跨膜受体结合，通过增加肝糖原分解和糖异生来预防低血糖。长时间禁食会增加皮质醇的分泌，皮质醇是一种类固醇激素，与细胞内受体结合，并发挥增加参与糖异生、脂肪分解和蛋白水解的酶的转录的作用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the hormonal response to fasting and the mechanism of action of cortisol. Specifically, it assesses the ability to identify that cortisol binds to an intracellular receptor and promotes gluconeogenesis during prolonged fasting. \n\nTo solve this question, recall the counterregulatory hormones involved in preventing hypoglycemia during fasting. Recognize that cortisol is a steroid hormone that binds to an intracellular receptor and increases transcription of gluconeogenic enzymes.",
+    "zh": "这个问题测试了对禁食的激素反应和皮质醇的作用机制的了解。具体来说，它评估了识别皮质醇与细胞内受体结合并在长时间禁食期间促进糖异生的能力。\n\n要解决这个问题，请回忆一下参与禁食期间预防低血糖的拮抗调节激素。认识到皮质醇是一种类固醇激素，它与细胞内受体结合并增加糖异生酶的转录。"
+  },
+  "tags": "Fasting; Gluconeogenesis; Cortisol; Intracellular receptors; Endocrinology; Metabolism",
+  "category": "Bio",
+  "question_id": "989",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\989",
+  "extracted_at": "2025-11-05T11:17:14.575960",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:24:53.307520",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

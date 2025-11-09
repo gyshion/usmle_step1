@@ -1,0 +1,74 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old man with poorly controlled hypertension and type 2 diabetes mellitus comes to the emergency department due to difficulty seeing. He has had blurry vision for the last 2 weeks, and 1 day he suddenly noticed a shadow develop across the visual field of his left eye. The patient has no recent headache, double vision, vertigo, light sensitivity, or nausea. On examination, pupils are equal and reactive to light. There is an area of reduced vision in the left eye. Funduscopic examination reveals a flame-shaped hemorrhage in the left temporal hemiretina. {{exhibit_1}} Transmission of visual information to which of the following structures is most likely impaired in this patient?",
+    "zh": "一名55岁男性，患有控制不佳的高血压和2型糖尿病，因视力困难来到急诊科就诊。他在过去的2周里视力模糊，1天前突然注意到左眼视野中出现阴影。患者近期无头痛、复视、眩晕、畏光或恶心。体格检查显示，瞳孔等大，对光反应灵敏。左眼存在视力下降的区域。眼底镜检查显示左侧颞半视网膜出现火焰状出血。{{exhibit_1}} 该患者的视觉信息传导至以下哪个结构最有可能受损？"
+  },
+  "question": {
+    "en": "Transmission of visual information to which of the following structures is most likely impaired in this patient?",
+    "zh": "该患者的视觉信息传导至以下哪个结构最有可能受损？"
+  },
+  "options": {
+    "A": {
+      "en": "Left inferior colliculus",
+      "zh": "左侧下丘"
+    },
+    "B": {
+      "en": "Left lateral geniculate body",
+      "zh": "左侧外侧膝状体"
+    },
+    "C": {
+      "en": "Left medial geniculate body",
+      "zh": "左侧内侧膝状体"
+    },
+    "D": {
+      "en": "Medial optic chiasm",
+      "zh": "内侧视交叉"
+    },
+    "E": {
+      "en": "Right inferior colliculus",
+      "zh": "右侧下丘"
+    },
+    "F": {
+      "en": "Right lateral geniculate body",
+      "zh": "右侧外侧膝状体"
+    },
+    "G": {
+      "en": "Right medial geniculate body",
+      "zh": "右侧内侧膝状体"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Visual information from the nasal visual field of the left eye will be conveyed through:\n- left temporal hemiretina (light that enters the eye forms an image on the retina that is inverted and reversed).\n- left optic nerve, which transmits information from one eye.\n- left lateral portion of the optic chiasm. Information from the temporal hemiretina does NOT cross at the optic chiasm but travels along the lateral edge of the chiasm to stay in the left side of the brain.\n- left optic tract. After the optic chiasm, information from the binocular right visual fields travels together in the left optic tract.\n- left lateral geniculate nucleus of the thalamus. Neurons from the optic tract synapse on the lateral geniculate nucleus.\n- optic radiations. The inferior optic radiations carry information from the superior visual field through the temporal lobe (Meyer loop), and the superior optic radiations carry information from the inferior visual field through the parietal lobe.\n- primary visual cortex, which is located in the occipital lobe.\n(Choices A, C, E and G) The inferior colliculi and medial geniculate bodies are part of the auditory pathway.\n(Choice D) The medial optic chiasm contains crossing nerve fibers that transmit visual information from the bilateral nasal hemiretinas.\n(Choice F) The right lateral geniculate body receives visual information from the right temporal hemiretina and the left nasal hemiretina (ie, homonomous left visual fields).",
+    "zh": "来自左眼鼻侧视野的视觉信息将通过以下途径传递：\n- 左侧颞侧半视网膜（进入眼睛的光线在视网膜上形成倒置和反转的图像）。\n- 左侧视神经，传递来自一只眼睛的信息。\n- 视交叉的左侧部分。来自颞侧半视网膜的信息不会在视交叉处交叉，而是沿着视交叉的侧缘行进，保持在左侧大脑中。\n- 左侧视束。在视交叉后，来自双眼右侧视野的信息一起在左侧视束中传递。\n- 丘脑的左侧外侧膝状体。来自视束的神经元在侧膝状体处突触。\n- 视放射。下视放射通过颞叶（Meyer环）携带来自上方视野的信息，上视放射通过顶叶携带来自下方视野的信息。\n- 位于枕叶的初级视觉皮层。\n（选项A、C、E和G）下丘和内侧膝状体是听觉通路的一部分。\n（选项D）内侧视交叉包含传递来自双侧鼻侧半视网膜的视觉信息的交叉神经纤维。\n（选项F）右侧外侧膝状体接收来自右侧颞侧半视网膜和左侧鼻侧半视网膜的视觉信息（即，同侧左视野）。"
+  },
+  "summary": {
+    "en": "The patient has reduced vision in the left eye with a flame-shaped hemorrhage in the left temporal hemiretina. This indicates damage to the visual pathway. The question asks which structure is most likely impaired. The explanation details the visual pathway, highlighting that the left temporal hemiretina's visual information travels through the left optic nerve, left optic tract, and synapses in the left lateral geniculate nucleus before proceeding to the optic radiations and visual cortex. Therefore, the left lateral geniculate body is the most likely impaired structure.",
+    "zh": "患者左眼视力下降，左颞半视网膜出现火焰状出血。这表明视觉通路受损。问题询问哪个结构最有可能受损。解释详细说明了视觉通路，强调左颞半视网膜的视觉信息通过左视神经、左视束，并在左侧外侧膝状体核处突触，然后进入视放射和视觉皮层。因此，左侧外侧膝状体是最有可能受损的结构。"
+  },
+  "tags": [
+    "ophthalmology",
+    "neurology",
+    "visual pathway",
+    "retinal hemorrhage",
+    "lateral geniculate body"
+  ],
+  "category": "Neuro",
+  "question_id": "11685",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\11685",
+  "extracted_at": "2025-11-05T19:32:16.797047",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:31:23.695463",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

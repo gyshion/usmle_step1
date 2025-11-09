@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 57-year-old unconscious man is brought to the emergency department by his wife. Thirty minutes prior, the patient developed severe chest pain and asked to be taken to the hospital. On the way, he became unresponsive. According to his wife, the patient had been having intermittent, short-lived episodes of chest pain over the past several days. The patient's medical history is significant for hypertension, type 2 diabetes mellitus, and hypercholesterolemia. He is not adherent with medications or follow-up. In the emergency department, the patient has no spontaneous respirations or circulation and is pronounced dead. An autopsy examination is performed, and a cross-section of the mid-right coronary artery is shown in the exhibit {{exhibit_1}}. Which of the following is the most likely immediate cause of death in this patient?",
+    "zh": "一名57岁无意识的男性由其妻子送至急诊科。30分钟前，患者出现严重胸痛，并要求送往医院。在路上，他失去了反应。据他的妻子说，患者在过去几天一直有间歇性、短暂的胸痛发作。患者的病史包括高血压、2型糖尿病和高胆固醇血症。他不坚持服药或复诊。在急诊科，患者没有自主呼吸或循环，被宣布死亡。进行尸检，并在展品{{exhibit_1}}中显示了右冠状动脉中段的横截面。以下哪项是该患者最可能的直接死亡原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely immediate cause of death in this patient?",
+    "zh": "以下哪项是该患者最可能的直接死亡原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Atrial fibrillation",
+      "zh": "心房颤动"
+    },
+    "B": {
+      "en": "Cardiac free wall rupture",
+      "zh": "心脏游离壁破裂"
+    },
+    "C": {
+      "en": "Embolic stroke",
+      "zh": "栓塞性卒中"
+    },
+    "D": {
+      "en": "Regional contractile dysfunction",
+      "zh": "局部收缩功能障碍"
+    },
+    "E": {
+      "en": "Ventricular fibrillation",
+      "zh": "室颤"
+    },
+    "F": {
+      "en": "Ventricular septal rupture",
+      "zh": "室间隔破裂"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The patient's clinical features are suggestive of coronary artery disease (chest pain and multiple non-factors) causing an ACUTE MYOCARDIAL INFARCTION (MI). The diagnosis is confirmed by autopsy showing a large atheromatous plaque with superimposed thrombosis causing complete obstruction of the right coronary artery {{exhibit_2}}. \n\nAcute MI is a common cause of SUDDEN CARDIAC DEATH (SCD) (the abrupt cessation of organized cardiac activity leading to hemodynamic collapse and inadequate tissue perfusion). SCD due to acute MI usually results from a malignant ventricular arrhythmia (i.e. VENTRICULAR FIBRILLATION or ventricular tachycardia degenerating to ventricular fibrillation) that is triggered by electrical instability in the ischemic myocardium. \n\n(Choice A) Atrial fibrillation can sometimes occur during acute MI; however, organ perfusion is usually maintained and it is not a common cause of SCD.\n\n(Choices B and F) Ventricular septal rupture (most common with left anterior descending artery occlusion) and cardiac free wall rupture are mechanical complications of acute MI that typically occur several days following the event. Septal rupture can sometimes occur acutely, but it is likely to cause symptomatic cardiogenic shock (eg, hypotension, respiratory distress/failure) rather than SCD.\n\n(Choice C) Embolic stroke can result from embolization of a left ventricular (LV) mural thrombus that forms in an area of infarcted and akinetic myocardium. However, LV thrombus typically takes several days to form, and embolic stroke does not typically lead to SCD.\n\n(Choice D) Acute MI commonly causes regional contractile dysfunction in the area of myocardium supplied by the affected artery. Infarction involving >50% of the myocardium can cause ventricular failure and cardiogenic shock, typically presenting with hypotension and respiratory distress rather than SCD.\n\nEducational objective:\nVentricular fibrillation is the most common mechanism of sudden cardiac death due to acute myocardial infarction. It results from arrhythmogenic foci triggered by electrical instability in the ischemic myocardium. {{exhibit_3}}",
+    "zh": "患者的临床表现提示冠状动脉疾病（胸痛和多种非因素）导致急性心肌梗死（MI）。尸检证实了诊断，显示一个大的粥样硬化斑块伴有血栓形成，导致右冠状动脉完全阻塞{{exhibit_2}}。\n\n急性心肌梗死是猝死（SCD）（有组织的血流动力学活动突然停止，导致血流动力学崩溃和组织灌注不足）的常见原因。由急性心肌梗死引起的SCD通常由恶性室性心律失常（即室颤或进展为室颤的室性心动过速）引起，这种心律失常由缺血心肌的电不稳定触发。\n\n（选项A）心房颤动有时可在急性心肌梗死期间发生；然而，通常维持器官灌注，它不是SCD的常见原因。\n\n（选项B和F）室间隔破裂（最常见于左前降支动脉闭塞）和心脏游离壁破裂是急性心肌梗死的机械并发症，通常发生在事件发生后的几天。室间隔破裂有时会急性发生，但它更有可能引起症状性心源性休克（例如，低血压、呼吸窘迫/衰竭），而不是SCD。\n\n（选项C）栓塞性卒中可由在梗死和无动力心肌区域形成的左心室（LV）壁栓子栓塞引起。然而，LV血栓通常需要几天才能形成，并且栓塞性卒中通常不会导致SCD。\n\n（选项D）急性心肌梗死通常会导致受累动脉供应的心肌区域的局部收缩功能障碍。涉及>50%心肌的梗死可引起心室衰竭和心源性休克，通常表现为低血压和呼吸窘迫，而不是SCD。\n\n教育目标：\n室颤是由于急性心肌梗死引起的猝死的最常见机制。它是由缺血心肌的电不稳定触发的致心律失常灶引起的。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the most common cause of sudden cardiac death (SCD) following an acute myocardial infarction (MI). Specifically, it assesses the understanding of ventricular fibrillation as the primary mechanism leading to SCD in this context.\n\nThe best approach is to recognize the clinical scenario as an acute MI and then recall that ventricular fibrillation is the most frequent cause of immediate death due to electrical instability in the ischemic myocardium. Rule out other complications of MI that typically occur later or are less common causes of SCD.",
+    "zh": "这个问题测试了关于急性心肌梗死（MI）后猝死（SCD）的最常见原因的知识。具体来说，它评估了对室颤作为在这种情况下导致SCD的主要机制的理解。\n\n最好的方法是将临床情况识别为急性心肌梗死，然后回想起室颤是由于缺血心肌的电不稳定导致直接死亡的最常见原因。排除通常发生在后期或不太常见的SCD原因的其他心肌梗死并发症。"
+  },
+  "tags": "Sudden cardiac death; Acute myocardial infarction; Ventricular fibrillation; Coronary artery disease; Arrhythmia; Cardiology; Pathology; Atherosclerosis",
+  "category": "CVS",
+  "question_id": "192",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\192",
+  "extracted_at": "2025-11-05T12:04:51.526255",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:25:33.785036",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

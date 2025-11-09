@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 15-month-old boy is brought to the clinic for evaluation of recurrent mouth ulcers. Over the past 5 months, his mother has noted that he has had periodic episodes of mouth pain and oral ulcers. She says the episodes usually last for a couple of days and then resolve without intervention. The boy has no known medical conditions and takes no medications. Vital signs are normal. Examination shows mucositis. The rest of the examination is unremarkable. Complete blood count (CBC) reveals an absolute neutrophil count of 390/mm3. Hemoglobin level and platelet count are normal. Serial CBC results are documented over the next 6 weeks, revealing the pattern shown below: {{exhibit_1}}",
+    "zh": "一名15个月大的男孩因反复口腔溃疡前来就诊。在过去的5个月里，他的母亲注意到他曾 periodic 出现口腔疼痛和口腔溃疡发作。她说，这些发作通常持续几天，然后未经干预就自行缓解。该男孩没有已知的疾病，也没有服用药物。生命体征正常。检查显示黏膜炎。其余检查无特殊发现。全血细胞计数（CBC）显示中性粒细胞绝对计数为390/mm3。血红蛋白水平和血小板计数正常。连续CBC结果记录在接下来的6周内，显示如下所示：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "The patient returns to the clinic on Day 39. Examination of this patient's bone marrow would most likely reveal an abnormal increase in which of the following?",
+    "zh": "患者在第39天返回诊所。对该患者骨髓的检查最有可能显示以下哪一项的异常增加？"
+  },
+  "options": {
+    "A": {
+      "en": "Adipocytes and stroma relative to hematopoietic cells",
+      "zh": "相对于造血细胞，脂肪细胞和基质增加"
+    },
+    "B": {
+      "en": "Hypersegmented neutrophils and megaloblastic erythroid cells",
+      "zh": "过度分叶的中性粒细胞和巨幼红细胞"
+    },
+    "C": {
+      "en": "Lymphoid cells with eccentrically located round nuclei and pale perinuclear area",
+      "zh": "具有偏心圆形核和苍白核周区域的淋巴细胞"
+    },
+    "D": {
+      "en": "Myeloblasts with open chromatin and prominent nucleoli",
+      "zh": "具有开放染色质和突出核仁的成髓细胞"
+    },
+    "E": {
+      "en": "Myeloid progenitors with nuclear fragmentation and membrane blebbing",
+      "zh": "具有核碎裂和膜起泡的髓系祖细胞"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient has isolated, severe neutropenia defined by an absolute neutrophil count (ANC) <500/mm3. It resolves and recurs in a predictable pattern, a finding characteristic of cyclic neutropenia. Cyclic neutropenia occurs due to a mutation in the gene encoding neutrophil elastase. This enzyme is normally packaged within neutrophil granules and plays a role in the degradation of virulence factors on bacterial pathogens.\n\nMisfolded neutrophil elastase increases endoplasmic reticulum stress, causing a portion of the neutrophil precursors in the bone marrow to undergo apoptosis. Bone marrow aspirate would show myeloid progenitor cells with features characteristic of apoptosis (eg, nuclear fragmentation, membrane blebbing). The depressed ANC is thought to transiently upregulate granulocyte colony-stimulating factor (G-CSF), which stimulates neutrophil production from the hematopoietic stem cells that did not undergo apoptosis. As neutrophil numbers normalize, G-CSF production decreases, allowing neutrophil counts to decline again.\n\nClinical manifestations of cyclic neutropenia correlate with neutrophil nadirs, which typically occur every 3 weeks, and include recurrent episodes of fever, fatigue, and mucositis (eg, gingival ulcers, inflammation) in young children. Life-threatening infection in cyclic neutropenia is rare due to the brief duration of neutropenic periods, and patients are typically asymptomatic between episodes. Serial ANC measurements over 6-8 weeks showing predictable oscillations support the diagnosis, and genetic testing is confirmatory.\n\n(Choice A) Increased adipocytes and stroma relative to hematopoietic cells describes aplastic anemia, in which severe, chronic neutropenia can occur but would be accompanied by other cytopenias (eg, anemia, thrombocytopenia).\n\n(Choice B) Hypersegmented neutrophils and megaloblastic erythroid cells are characteristic of vitamin B12 or folate deficiency. Neutropenia is common but would be persistent. In addition, a macrocytic anemia would be expected.\n\n(Choice C) Lymphoid cells with eccentrically located round nuclei and pale perinuclear area describes plasma cells seen in multiple myeloma. Neutropenia can occur due to bone marrow infiltration but would be nonoscillating, and anemia is usually present. Moreover, this diagnosis is extremely unlikely in patients age <40.\n\n(Choice D) A hypercellular marrow revealing myeloblasts with open chromatin and prominent nucleoli is seen in acute myeloid leukemia. Persistently low, not oscillating, ANCs are often seen along with anemia and/or thrombocytopenia. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "该患者患有孤立性重度中性粒细胞减少症，定义为中性粒细胞绝对计数（ANC）<500/mm3。它以可预测的模式消退和复发，这是周期性中性粒细胞减少症的特征。周期性中性粒细胞减少症是由于编码中性粒细胞弹性蛋白酶的基因突变引起的。该酶通常包装在中性粒细胞颗粒内，并在细菌病原体毒力因子的降解中发挥作用。\n\n错误折叠的中性粒细胞弹性蛋白酶会增加内质网应激，导致骨髓中一部分中性粒细胞前体细胞凋亡。骨髓穿刺物将显示具有凋亡特征的髓系祖细胞（例如，核碎裂，膜起泡）。ANC降低被认为会短暂上调粒细胞集落刺激因子（G-CSF），后者刺激未发生凋亡的造血干细胞产生中性粒细胞。随着中性粒细胞数量恢复正常，G-CSF的产生减少，从而使中性粒细胞计数再次下降。\n\n周期性中性粒细胞减少症的临床表现与中性粒细胞最低点相关，中性粒细胞最低点通常每3周出现一次，包括幼儿反复发热、疲劳和黏膜炎（例如，牙龈溃疡、炎症）。由于中性粒细胞减少期的持续时间很短，因此周期性中性粒细胞减少症的危及生命的感染很少见，并且患者在发作之间通常没有症状。在6-8周内进行的连续ANC测量显示可预测的振荡，支持诊断，并且基因检测具有确定性。\n\n（选项A）相对于造血细胞，脂肪细胞和基质的增加描述了再生障碍性贫血，其中可能发生严重的慢性中性粒细胞减少症，但伴有其他血细胞减少症（例如，贫血，血小板减少症）。\n\n（选项B）过度分叶的中性粒细胞和巨幼红细胞是维生素B12或叶酸缺乏症的特征。中性粒细胞减少症很常见，但会持续存在。此外，预计会出现大细胞性贫血。\n\n（选项C）具有偏心圆形核和苍白核周区域的淋巴细胞描述了在多发性骨髓瘤中看到的浆细胞。中性粒细胞减少症可能由于骨髓浸润而发生，但不会振荡，并且通常存在贫血。此外，这种诊断在40岁以下的患者中极不可能。\n\n（选项D）在急性髓细胞白血病中可以看到一个细胞增生性骨髓，显示具有开放染色质和突出核仁的成髓细胞。持续低，不振荡的ANC通常与贫血和/或血小板减少症一起出现。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of cyclic neutropenia, its pathophysiology involving neutrophil elastase mutation, and characteristic bone marrow findings. It also assesses the ability to differentiate cyclic neutropenia from other causes of neutropenia based on clinical presentation and bone marrow findings.\n\nTo solve this question, recognize the cyclical pattern of neutropenia from the provided graph. Understand that cyclic neutropenia is caused by increased apoptosis of neutrophil precursors, leading to specific bone marrow findings of nuclear fragmentation and membrane blebbing.",
+    "zh": "此题考察了对周期性中性粒细胞减少症的认识，其病理生理学涉及中性粒细胞弹性蛋白酶突变，以及特征性骨髓表现。它还评估了根据临床表现和骨髓表现区分周期性中性粒细胞减少症与其他中性粒细胞减少症病因的能力。\n\n要解决这个问题，需要从提供的图中识别中性粒细胞减少症的周期性模式。了解周期性中性粒细胞减少症是由中性粒细胞前体细胞凋亡增加引起的，导致特定的骨髓表现，即核碎裂和膜起泡。"
+  },
+  "tags": "Cyclic neutropenia; Neutropenia; Neutrophil elastase; Bone marrow; Apoptosis; Mucositis; Hematology; Genetic mutation",
+  "category": "Blood",
+  "question_id": "106780",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\106780",
+  "extracted_at": "2025-11-05T11:18:32.519021",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:25:19.226700",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

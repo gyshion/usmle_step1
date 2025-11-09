@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 53-year-old man comes to the physician for a follow-up visit after an acute myocardial infarction. His medications include metoprolol and low-dose aspirin. He used to smoke 2 packs of cigarettes daily but quit after his myocardial infarction. The patient's father has hypertension and his mother has type 2 diabetes mellitus. He currently weighs 100 kg (220 lb) and is 178 cm (70 in) tall. Examination shows an obese male with no other abnormalities. His total serum cholesterol level is 155 mg/dL, with an HDL level of 27 mg/dL and a triglyceride level of 92 mg/dL.",
+    "zh": "一名53岁的男性在急性心肌梗死后前来就诊复诊。他的药物包括美托洛尔和低剂量阿司匹林。他过去每天吸2包烟，但在心肌梗死后戒了烟。患者的父亲患有高血压，母亲患有2型糖尿病。他目前的体重为100 kg (220 lb)，身高178 cm (70 in)。检查显示肥胖男性，无其他异常。他的总血清胆固醇水平为155 mg/dL，HDL水平为27 mg/dL，甘油三酯水平为92 mg/dL。"
+  },
+  "question": {
+    "en": "Which of the following lipid-lowering agents would be most effective for preventing future cardiovascular events in this patient?",
+    "zh": "对于该患者，以下哪种降脂药物对预防未来的心血管事件最有效？"
+  },
+  "options": {
+    "A": {
+      "en": "Absorption inhibitor",
+      "zh": "吸收抑制剂"
+    },
+    "B": {
+      "en": "Cationic exchange resin",
+      "zh": "阳离子交换树脂"
+    },
+    "C": {
+      "en": "Enzyme inhibitor",
+      "zh": "酶抑制剂"
+    },
+    "D": {
+      "en": "Essential fatty acids",
+      "zh": "必需脂肪酸"
+    },
+    "E": {
+      "en": "Pharmacologic vitamin",
+      "zh": "药理学维生素"
+    },
+    "F": {
+      "en": "Transcription factor ligand",
+      "zh": "转录因子配体"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "(Choice A) Ezetimibe inhibits cholesterol absorption from the gastrointestinal tract, but evidence for reduction in cardiovascular events is mixed, and benefits over statin monotherapy are likely minimal. It may be considered for patients who cannot take statins due to significant hepatotoxicity or myopathy, or who have very high LDL levels despite statin therapy.\n\n(Choice B) Cationic exchange resins (eg, cholestyramine) decrease LDL cholesterol by interfering with the enterohepatic circulation of bile acids. Bile acid binding resins can significantly increase triglyceride levels in patients with pre-existing hypertriglyceridemia. In addition, cationic exchange resins have not been proven to prevent cardiac events.\n\n(Choice D) Omega-3 essential fatty acids are sometimes used for hyperlipidemia treatment. They cause a decrease in serum triglycerides and a slight increase in HDL concentration but do not appear to significantly reduce cardiovascular events.\n\n(Choice E) Niacin (vitamin B3) given in pharmacologic doses is the most effective agent for raising HDL levels, but does not reduce the risk of cardiovascular events and is associated with adverse effects (eg, flushing, hyperglycemia). It is primarily used for patients who have failed other lipid-lowering drugs.\n\n(Choice F) Fibrates activate peroxisomal proliferator-activated receptor alpha, a transcription factor that increases lipoprotein lipase activity. Fibrates decrease triglyceride levels and raise HDL levels. However, fibrates are inferior to statins for reducing cardiovascular events and are primarily used to prevent pancreatitis in patients with very high triglyceride levels.\n\nEducational objective:\nAlthough low HDL concentration is associated with increased cardiovascular risk, the use of medications to raise HDL levels does not improve cardiovascular outcomes. HMG-CoA reductase inhibitors (statins) lower total cholesterol and LDL levels. Statins are the most effective lipid-lowering drugs for primary and secondary prevention of cardiovascular events, regardless of baseline lipid levels.",
+    "zh": "(选项A) 依折麦布抑制胆固醇从胃肠道的吸收，但其降低心血管事件的证据尚不明确，并且相对于他汀类单药治疗，其获益可能很小。对于由于严重的肝毒性或肌病而无法服用他汀类药物的患者，或者尽管接受他汀类药物治疗，但LDL水平仍然很高的患者，可以考虑使用依折麦布。\n\n(选项B) 阳离子交换树脂（如考来烯胺）通过干扰胆汁酸的肝肠循环来降低LDL胆固醇。胆汁酸结合树脂可显着增加已患有高甘油三酯血症的患者的甘油三酯水平。此外，阳离子交换树脂尚未被证明可以预防心脏事件。\n\n(选项D) 欧米茄-3必需脂肪酸有时用于高脂血症的治疗。它们会导致血清甘油三酯降低和HDL浓度略有增加，但似乎并未显着降低心血管事件。\n\n(选项E) 给予药理剂量烟酸（维生素B3）是提高HDL水平最有效的药物，但不会降低心血管事件的风险，并且与不良反应相关（例如，潮红，高血糖症）。它主要用于对其他降脂药物治疗无效的患者。\n\n(选项F) 贝特类药物激活过氧化物酶体增殖物激活受体α，这是一种转录因子，可增加脂蛋白脂肪酶活性。贝特类药物降低甘油三酯水平并升高HDL水平。然而，贝特类药物在降低心血管事件方面不如他汀类药物，主要用于预防甘油三酯水平非常高的患者的胰腺炎。\n\n教育目的：\n尽管低HDL浓度与心血管风险增加相关，但使用药物来提高HDL水平并不能改善心血管结局。HMG-CoA还原酶抑制剂（他汀类药物）降低总胆固醇和LDL水平。他汀类药物是预防心血管事件的一级和二级预防最有效的降脂药物，与基线血脂水平无关。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of lipid-lowering agents and their effectiveness in preventing cardiovascular events, particularly in a patient with a history of myocardial infarction and low HDL levels. It emphasizes the importance of statins as the primary choice for secondary prevention.\n\nThe best approach is to recognize that statins are the most effective lipid-lowering drugs for preventing cardiovascular events, regardless of baseline lipid levels. Other options may have some benefits but are not as effective as statins in this context.",
+    "zh": "本题考察对降脂药物的知识及其在预防心血管事件方面的有效性，特别是对于有心肌梗死病史和低HDL水平的患者。它强调了他汀类药物作为二级预防的主要选择的重要性。\n\n最好的方法是认识到他汀类药物是预防心血管事件最有效的降脂药物，无论基线血脂水平如何。其他选项可能有一些益处，但在这种情况下不如他汀类药物有效。"
+  },
+  "tags": "Lipid-lowering agents; Statins; Myocardial infarction; Secondary prevention; HDL cholesterol; Cardiovascular disease; HMG-CoA reductase inhibitors; Hyperlipidemia; Cardiology",
+  "category": "CVS",
+  "question_id": "781",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\781",
+  "extracted_at": "2025-11-05T12:16:48.627696",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:31:23.987119",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

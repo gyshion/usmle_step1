@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 64-year-old man comes to the emergency department after an episode of hematemesis. He also reports dark stools and abdominal pain for the past several days. The patient has a history of chronic pancreatitis. Abdominal examination shows epigastric tenderness to palpation. Rectal examination is notable for black, guaiac-positive feces. Upper gastrointestinal endoscopy reveals a bleeding spot within a cluster of enlarged tortuous veins in the gastric fundus. The rest of the stomach and esophagus appears normal. Increased pressure in which of the following vascular structures is the most likely cause of this patient's condition?",
+    "zh": "一名64岁男性因呕血到急诊科就诊。他还报告了过去几天黑便和腹痛。患者有慢性胰腺炎病史。腹部检查显示上腹部触痛。直肠检查可见黑色、愈创木脂试验阳性粪便。上消化内镜检查显示胃底一簇扩张扭曲静脉内的出血点。胃和食管的其余部分看起来正常。以下哪种血管结构的压力升高最可能是导致该患者病情的原因？"
+  },
+  "question": {
+    "en": "Increased pressure in which of the following vascular structures is the most likely cause of this patient's condition?",
+    "zh": "以下哪种血管结构的压力升高最可能是导致该患者病情的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Azygos vein",
+      "zh": "奇静脉"
+    },
+    "B": {
+      "en": "Left gastric vein",
+      "zh": "左胃静脉"
+    },
+    "C": {
+      "en": "Pancreaticoduodenal vein",
+      "zh": "胰十二指肠静脉"
+    },
+    "D": {
+      "en": "Splenic vein",
+      "zh": "脾静脉"
+    },
+    "E": {
+      "en": "Superior mesenteric vein",
+      "zh": "肠系膜上静脉"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Gastric varices are dilated submucosal veins that can cause life-threatening bleeding in the upper gastrointestinal tract. The varices are commonly due to portal hypertension, which can be a complication of cirrhosis. Gastric varices can also be seen with SPLENIC VEIN THROMBOSIS due to chronic pancreatitis, pancreatic cancer, and abdominal tumors. The splenic vein runs along the posterior surface of the pancreas and can develop a blood clot from pancreatic inflammation. The SHORT GASTRIC VEINS drain the fundus of the stomach into the splenic vein. Splenic vein thrombosis can increase pressure in the short gastric veins and cause GASTRIC VARICES only in the fundus {{exhibit_1}}. The rest of the stomach and esophagus are usually not affected.\n\n(Choice A) The azygos vein drains blood from the esophageal veins into the superior vena cava. The formation of ESOPHAGEAL VARICES in the setting of portal hypertension provides collateral drainage from the portal venous system to the azygos system. The azygos vein also provides collateral circulation between the superior and inferior vena cava and can become enlarged with caval obstruction.\n\n(Choice B) The left gastric vein drains blood from the upper stomach and lower esophagus into the portal vein. Portal hypertension can increase pressure in the left gastric veins and usually causes both gastric and esophageal varices.\n\n(Choices C and E) The pancreaticoduodenal vein drains the pancreas and duodenum into the superior mesenteric vein (SMV). The SMV also drains blood from the lower stomach (via the right gastroepiploic vein) and small intestine. Blockage of the SMV could lead to variceal formation in the lower stomach, but not the upper regions.",
+    "zh": "胃静脉曲张是扩张的黏膜下静脉，可引起上消化道的危及生命的大出血。静脉曲张通常是由于门静脉高压，这可能是肝硬化的并发症。脾静脉血栓形成也可引起胃静脉曲张，病因包括慢性胰腺炎、胰腺癌和腹部肿瘤。脾静脉沿胰腺后表面走行，可因胰腺炎症而形成血栓。短胃静脉将血液引流到胃底并入脾静脉。脾静脉血栓形成可增加短胃静脉的压力，并仅在胃底引起胃静脉曲张 {{exhibit_1}}。胃和食管的其余部分通常不受影响。\n\n(选项 A) 奇静脉将血液从食管静脉引流入上腔静脉。在门静脉高压的情况下，食管静脉曲张的形成提供了从门静脉系统到奇静脉系统的侧支引流。奇静脉还提供上腔静脉和下腔静脉之间的侧支循环，并且在腔静脉阻塞时可能增大。\n\n(选项 B) 左胃静脉将血液从胃上部和食管下部引流入门静脉。门静脉高压可增加左胃静脉的压力，通常导致胃静脉曲张和食管静脉曲张。\n\n(选项 C 和 E) 胰十二指肠静脉将血液从胰腺和十二指肠引流入肠系膜上静脉 (SMV)。SMV 还将血液从胃下部（通过右胃网膜静脉）和小肠引流。SMV 的阻塞可能导致胃下部形成静脉曲张，但不会引起上部区域的静脉曲张。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the causes of gastric varices, specifically splenic vein thrombosis secondary to chronic pancreatitis. It requires understanding of the venous drainage of the stomach and the pathophysiology of variceal formation.\n\nTo solve this question, consider the patient's history of chronic pancreatitis and the location of the varices in the gastric fundus. Recall that splenic vein thrombosis can lead to isolated gastric varices in the fundus due to increased pressure in the short gastric veins.",
+    "zh": "本题考查对胃静脉曲张病因的了解，特别是继发于慢性胰腺炎的脾静脉血栓形成。它需要了解胃的静脉引流和静脉曲张形成的病理生理学。\n\n为了解决这个问题，需要考虑患者的慢性胰腺炎病史和胃底静脉曲张的位置。回想一下，脾静脉血栓形成可导致胃底孤立性胃静脉曲张，原因是短胃静脉压力升高。"
+  },
+  "tags": "Gastric varices; Splenic vein thrombosis; Chronic pancreatitis; Hematemesis; Gastrointestinal bleeding",
+  "category": "GIT",
+  "question_id": "11795",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\11795",
+  "extracted_at": "2025-11-05T14:22:32.137268",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:50:23.880604",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

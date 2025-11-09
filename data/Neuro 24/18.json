@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old man collapses at home after experiencing severe retrosternal chest pain. The emergency medical team finds him with no pulse, and cardiac monitoring shows ventricular fibrillation. Cardiopulmonary resuscitation is performed, and the patient regains spontaneous circulation after several minutes. On arrival at the hospital, he has stable vital signs but does not follow commands or respond to strong stimuli.",
+    "zh": "一名 63 岁男性在家中经历严重胸骨后疼痛后倒下。急救医疗队发现他没有脉搏，心脏监护显示室颤。进行了心肺复苏，几分钟后患者恢复自主循环。到达医院时，他的生命体征稳定，但不能服从指令或对强烈刺激做出反应。"
+  },
+  "question": {
+    "en": "Which of the following areas is most likely to be affected first by ischemic damage in this patient?",
+    "zh": "该患者最有可能首先受到缺血性损伤的区域是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Caudate nucleus",
+      "zh": "尾状核"
+    },
+    "B": {
+      "en": "Hippocampus",
+      "zh": "海马体"
+    },
+    "C": {
+      "en": "Hypothalamus",
+      "zh": "下丘脑"
+    },
+    "D": {
+      "en": "Substantia nigra",
+      "zh": "黑质"
+    },
+    "E": {
+      "en": "Thalamic nuclei",
+      "zh": "丘脑核"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's cardiac arrest, secondary to ventricular fibrillation, caused rapid cessation of cerebral blood flow and GLOBAL CEREBRAL ISCHEMIA. Although cardiac function and circulation were restored after medical intervention, the patient's brain was subjected to ischemia for an unknown length of time, resulting in neurological impairment.\n\nGlobal ischemia lasting longer than 3-5 minutes can cause irreversible damage to neurons. The cells that are typically affected first by hypoxia are the CA1 pyramidal neurons of the HIPPOCAMPUS, which can be damaged by ischemia in as little as 3 minutes. The cerebellar Purkinje cells and neocortex pyramidal neurons are also highly susceptible to damage if ischemia lasts for 5-10 minutes. These neurons are likely vulnerable to ischemia because of their HIGH METABOLIC DEMAND and unique neurochemical characteristics (eg, inability to repolarize after anoxic depolarization).\n\nThe hippocampus is located in the medial temporal lobe and plays an essential role in memory, spatial processing, and response inhibition. Selective damage to the hippocampus is common with transient ischemia and can result in an inability to make new memories (anterograde amnesia) and disorientation or time.\n\n(Choices A, C, D, and E) Although the caudate nucleus, hypothalamus, substantia nigra, and thalamic nuclei are also vulnerable to ischemia if cerebral hypoxia is sustained, they are not as susceptible to damage as the hippocampal CA1 pyramidal neurons.\n\nEducational objective:\nGlobal cerebral ischemia is typically precipitated by systemic hypotension (eg, cardiac arrest). The cells most susceptible to ischemia are the CA1 pyramidal neurons of the hippocampus. Other areas of the brain that are damaged early in the course of global cerebral ischemia include the cerebellar Purkinje cells and the pyramidal neurons of the neocortex.\n\nReferences:\n• Mechanisms of injury in hypoxic-ischemic encephalopathy: implications to therapy.\n• Mechanisms of brain injury after global cerebral ischemia.",
+    "zh": "该患者的室颤导致心脏骤停，继发脑血流迅速停止和全球脑缺血。尽管在医疗干预后恢复了心脏功能和循环，但患者的脑部在未知的时间内经历了缺血，导致神经系统损伤。\n\n全球缺血持续超过 3-5 分钟可导致神经元不可逆转的损伤。通常首先受到缺氧影响的细胞是海马体的 CA1 锥体神经元，这些神经元在短短 3 分钟的缺血中就会受到损伤。如果缺血持续 5-10 分钟，小脑浦肯野细胞和新皮质锥体神经元也极易受到损伤。这些神经元可能易受缺血影响，因为它们具有高代谢需求和独特的神经化学特性（例如，在缺氧去极化后无法复极化）。\n\n海马体位于内侧颞叶，在记忆、空间处理和反应抑制中起重要作用。短暂性缺血常伴有海马体选择性损伤，可导致无法形成新的记忆（顺行性遗忘）和定向障碍或时间感缺失。\n\n（选项 A、C、D 和 E）虽然尾状核、下丘脑、黑质和丘脑核如果持续存在脑缺氧也容易受到缺血的影响，但它们不像海马体 CA1 锥体神经元那样容易受到损伤。\n\n教育目标：\n全身性低血压（例如，心脏骤停）通常会引发全球脑缺血。最易受缺血影响的细胞是海马体的 CA1 锥体神经元。在全球脑缺血早期受损的其他脑区包括小脑浦肯野细胞和新皮质的锥体神经元。\n\n参考文献：\n• 缺氧缺血性脑病中的损伤机制：对治疗的启示。\n• 全球脑缺血后脑损伤的机制。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the differential vulnerability of brain structures to global cerebral ischemia following cardiac arrest. It assesses the knowledge of which neuronal populations are most susceptible to hypoxic-ischemic damage and the resulting clinical manifestations.\n\nTo solve this question, one must recognize that global cerebral ischemia occurs during cardiac arrest and identify the brain regions most sensitive to oxygen deprivation. The hippocampus, particularly the CA1 pyramidal neurons, is known to be the most vulnerable structure, leading to characteristic neurological deficits like memory impairment.",
+    "zh": "此问题测试对心脏骤停后脑结构对全球脑缺血差异性易损性的理解。它评估了对哪些神经元群体最易受到缺氧缺血性损伤以及由此产生的临床表现的知识。\n\n要解决这个问题，必须认识到全球脑缺血发生于心脏骤停期间，并确定对氧气剥夺最敏感的脑区。已知海马体，特别是 CA1 锥体神经元是最脆弱的结构，导致特征性的神经功能缺损，如记忆障碍。"
+  },
+  "tags": "Global cerebral ischemia; Hypoxia; Hippocampus; CA1 pyramidal neurons; Cardiac arrest; Ventricular fibrillation; Neuronal vulnerability; Anterograde amnesia; High metabolic demand",
+  "category": "Neuro",
+  "question_id": "18",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\18",
+  "extracted_at": "2025-11-05T19:36:41.220303",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:35:57.292369",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 46-year-old man comes to the office due to abdominal discomfort and diarrhea. The symptoms began 6 months ago, and he has now developed significant weight loss. The patient does not use tobacco or alcohol. Intestinal biopsy is performed, and a periodic acid-Schiff (PAS) stained section is shown in the image below: {{exhibit_1}}",
+    "zh": "一名46岁的男性因腹部不适和腹泻来诊。症状始于6个月前，并且他现在出现了明显的体重减轻。患者不吸烟或饮酒。进行了肠活检，并在下面的图像中显示了过碘酸-希夫（PAS）染色的切片：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "以下哪项最可能是该患者症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Chronic bacterial infection",
+      "zh": "慢性细菌感染"
+    },
+    "B": {
+      "en": "Immune-mediated gluten sensitivity",
+      "zh": "免疫介导的麸质敏感性"
+    },
+    "C": {
+      "en": "Impaired lipoprotein formation",
+      "zh": "脂蛋白形成受损"
+    },
+    "D": {
+      "en": "Lactase deficiency",
+      "zh": "乳糖酶缺乏症"
+    },
+    "E": {
+      "en": "Viral infection",
+      "zh": "病毒感染"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient with abdominal pain and malabsorption has intestinal biopsy findings consistent with Whipple disease, a rare, systemic, chronic bacterial infection that most commonly presents in middle-aged men (age 40-60). It is caused by Tropheryma whipplei, a gram-positive, rod-shaped actinomycete.\n\nFollowing ingestion, the bacteria are engulfed by macrophages in the small intestine mucosa. T whipplei interferes with phagolysosome development and antigen presentation, allowing the organism to replicate within macrophages with minimal inflammatory response. Buildup of infected macrophages can block lymphatic channels, leading to malabsorption (eg, diarrhea, steatorrhea, weight loss, abdominal pain). T whipplei can also spread to the joints, causing arthralgia. In later stages of the disease, the infection can involve the central nervous system (eg, dementia) and heart (eg, endocarditis).\n\nDiagnosis can be confirmed with biopsy of the small intestine. Microscopic examination of the lamina propria shows numerous foamy macrophages distended by bacilli that are characteristically positive for periodic acid-Schiff (PAS) stain. PAS stains polysaccharides in the T whipplei membrane, imparting a magenta color. {{exhibit_2}}\n\n(Choice B) Celiac disease, an immune-mediated hypersensitivity to dietary gluten, can present with abdominal pain, diarrhea, and weight loss. However, biopsy of the small intestine would likely show villous atrophy, increased intraepithelial lymphocytes, and crypt hyperplasia.\n\n(Choice C) Abetalipoproteinemia is caused by an inherited defect in formation of apolipoprotein B–containing lipoproteins. This results in impaired lipid transport, leading to fat accumulation within enterocytes. Although malabsorptive symptoms are seen, this disease presents during the first year of life, and intestinal biopsy shows enterocytes with clear cytoplasmic lipid vacuoles.\n\n(Choice D) Lactase deficiency can cause abdominal pain and diarrhea following dairy consumption. However, microscopic examination of the small intestine typically shows no abnormalities.\n\n(Choice E) Although viral gastroenteritis (eg, norovirus) often presents with abdominal pain and diarrhea, symptoms typically resolve within a week in immunocompetent patients. Intestinal biopsy may show inflammation in the lamina propria, but PAS-positive macrophages would not be expected.\n\nEducational objective:\nWhipple disease is caused by a chronic infection with Tropheryma whipplei, a gram-positive bacterium that can affect multiple organ systems. It typically presents in middle-aged men with malabsorption and arthralgia. Intestinal biopsy characteristically shows foamy macrophages in the lamina propria filled with bacilli that are positive for periodic acid–Schiff stain. {{exhibit_3}} {{exhibit_4}}",
+    "zh": "这位出现腹痛和吸收不良的患者的肠活检结果与Whipple病一致，Whipple病是一种罕见的、全身性的慢性细菌感染，最常见于中年男性（40-60岁）。它是由Whipple病原体（Tropheryma whipplei）引起的，这是一种革兰氏阳性、杆状放线菌。\n\n摄入后，细菌被小肠黏膜中的巨噬细胞吞噬。Whipple病原体会干扰吞噬溶酶体的发育和抗原呈递，从而使生物体在巨噬细胞内复制，炎症反应极小。受感染的巨噬细胞的堆积会阻塞淋巴管，导致吸收不良（如腹泻、脂肪泻、体重减轻、腹痛）。Whipple病原体也会扩散到关节，引起关节痛。在疾病的后期，感染会涉及中枢神经系统（如痴呆）和心脏（如心内膜炎）。\n\n可以通过小肠活检来确诊。对固有层的显微镜检查显示，存在大量泡沫状巨噬细胞，这些细胞被杆菌撑大，这些杆菌特征性地对过碘酸-希夫（PAS）染色呈阳性。PAS染色可以染上Whipple病原体细胞膜中的多糖，呈现出洋红色。{{exhibit_2}}\n\n（选项 B）乳糜泻是一种对膳食麸质的免疫介导的超敏反应，可表现为腹痛、腹泻和体重减轻。然而，小肠活检可能会显示绒毛萎缩、上皮内淋巴细胞增多和隐窝增生。\n\n（选项 C）无β脂蛋白血症是由apolipoprotein B–含脂蛋白形成缺陷引起的。这导致脂质转运受损，导致脂肪在肠细胞内积聚。尽管可见吸收不良的症状，但这种疾病在生命的头一年就会出现，肠活检显示肠细胞具有清晰的细胞质脂质空泡。\n\n（选项 D）乳糖酶缺乏症可导致食用乳制品后出现腹痛和腹泻。然而，小肠的显微镜检查通常未见异常。\n\n（选项 E）虽然病毒性胃肠炎（如诺如病毒）通常表现为腹痛和腹泻，但在免疫功能正常的患者中，症状通常在一周内消退。肠活检可能会显示固有层的炎症，但不会出现PAS阳性的巨噬细胞。\n\n教育目标：\nWhipple病是由Whipple病原体（Tropheryma whipplei）慢性感染引起的，这是一种革兰氏阳性菌，可影响多个器官系统。它通常表现为中年男性出现吸收不良和关节痛。肠活检的特征是在固有层中显示泡沫状巨噬细胞，这些巨噬细胞充满了对过碘酸-希夫染色呈阳性的杆菌。{{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Whipple disease, a rare systemic infection caused by Tropheryma whipplei. It assesses the ability to recognize the characteristic clinical presentation (malabsorption, arthralgia) and diagnostic findings (PAS-positive macrophages on intestinal biopsy). \n\nThe key to solving this question is recognizing the constellation of symptoms (abdominal pain, diarrhea, weight loss) in a middle-aged man, and associating them with the diagnostic clue of PAS-positive macrophages on intestinal biopsy. Consider Whipple disease in the differential diagnosis of malabsorption syndromes.",
+    "zh": "这个问题测试了对Whipple病的了解，Whipple病是由Whipple病原体（Tropheryma whipplei）引起的罕见全身性感染。它评估了识别特征性临床表现（吸收不良、关节痛）和诊断结果（肠活检的PAS阳性巨噬细胞）的能力。\n\n解决这个问题的关键是识别中年男性的症状组合（腹痛、腹泻、体重减轻），并将它们与肠活检的PAS阳性巨噬细胞的诊断线索联系起来。在吸收不良综合征的鉴别诊断中考虑Whipple病。"
+  },
+  "tags": "Whipple disease; Tropheryma whipplei; Chronic bacterial infection; Malabsorption; Periodic acid-Schiff stain; Intestinal biopsy; Gastroenterology; Infectious disease",
+  "category": "GIT",
+  "question_id": "132",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\132",
+  "extracted_at": "2025-11-05T14:23:28.551092",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:51:07.197148",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

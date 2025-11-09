@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 42-year-old woman comes to the office with a nonproductive cough and worsening shortness of breath with exertion. The patient has a history of primary pulmonary hypertension and underwent lung transplantation 8 months ago. She states that she has not missed any doses of her transplant medications. A chest x-ray reveals surgical evidence of her transplant but clear lung fields. Pulmonary function testing demonstrates a forced expiratory volume in 1 second (FEV₁), 67% of her best posttransplant FEV₁. Her forced vital capacity remains largely unchanged. A lung biopsy shows areas of total fibrotic obstruction in the terminal bronchioles.",
+    "zh": "一位42岁的女性来到诊所，主诉干咳，活动时呼吸困难加重。患者有原发性肺动脉高压病史，8个月前接受了肺移植。她表示没有漏服任何移植药物。胸部X光片显示移植手术的迹象，但肺野清晰。肺功能检查显示，1秒用力呼气量(FEV₁)为她最佳移植后FEV₁的67%。她的用力肺活量基本保持不变。肺活检显示终末细支气管有完全纤维性阻塞区域。"
+  },
+  "question": {
+    "en": "This patient's condition is most likely caused by which of the following?",
+    "zh": "该患者的病情最可能由以下哪项引起？"
+  },
+  "options": {
+    "A": {
+      "en": "Acute transplant rejection",
+      "zh": "急性移植排斥"
+    },
+    "B": {
+      "en": "Chronic obstructive pulmonary disease",
+      "zh": "慢性阻塞性肺病"
+    },
+    "C": {
+      "en": "Chronic transplant rejection",
+      "zh": "慢性移植排斥"
+    },
+    "D": {
+      "en": "Ischemia-reperfusion injury",
+      "zh": "缺血再灌注损伤"
+    },
+    "E": {
+      "en": "Opportunistic infection",
+      "zh": "机会性感染"
+    },
+    "F": {
+      "en": "Recurrence of pulmonary hypertension",
+      "zh": "肺动脉高压复发"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with cough, dyspnea, obstructive findings on spirometry, and fibrotic destruction of the small airways likely has CHRONIC TRANSPLANT REJECTION. Lung transplantation may be complicated by both acute and chronic rejection. Chronic rejection is a major cause of morbidity and mortality and occurs in almost half of all patients within 5 years of transplantation. These patients commonly present with dyspnea and a dry cough. Spirometry shows an AIRFLOW LIMITATION with a drop in both the forced expiratory volume in 1 second (FEV₁) and the FEV₁ to forced vital capacity (FVC) ratio.\n\nChronic rejection affects the small bronchioli producing the obstructive lung disease known as BRONCHIOLITIS OBLITERANS. Initially, histopathology shows lymphocytic inflammation and destruction of the epithelium of the small airways. Subsequently, fibrinopurulent exudate and granulation tissue are found in the lumen of the bronchioli, which ultimately results in fibrosis, scarring, and the progressive obliteration of small airways.\n\n(Choice A) Acute rejection usually occurs within the first 6 months. It is frequently asymptomatic and commonly discovered on surveillance biopsies. Histopathology demonstrates perivascular and interstitial mononuclear cell infiltrates.\n\n(Choices B and F) Underlying lung disease, such as pulmonary hypertension or chronic obstructive pulmonary disease (COPD), may recur in the lung allograft. However, the obstructive pattern on spirometry and the histopathology findings are better explained by chronic rejection than by pulmonary hypertension or COPD, the latter of which would also show increased goblet cells and mucus gland hyperplasia.\n\n(Choice D) Ischemia-reperfusion injury is a form of noncardiogenic pulmonary edema that occurs in the allograft due to surgical trauma or organ ischemia. It is seen during the first few days following transplantation.\n\n(Choice E) Infection is a leading cause of death in lung transplant recipients. CYTOMEGALOVIRUS causes the most significant opportunistic infection in transplant recipients. Infected cells have a characteristic intranuclear inclusion surrounded by a clear halo (owl's eye inclusion).",
+    "zh": "这位患者出现咳嗽、呼吸困难、肺功能检查显示阻塞性表现，以及小气道的纤维性破坏，很可能患有慢性移植排斥。肺移植可能并发急性或慢性排斥反应。慢性排斥反应是发病率和死亡率的主要原因，几乎一半的患者在移植后5年内发生。这些患者常表现为呼吸困难和干咳。肺活量测定显示气流受限，1秒用力呼气量(FEV₁)和FEV₁与用力肺活量(FVC)比值均下降。\n\n慢性排斥反应影响小的细支气管，产生称为闭塞性细支气管炎的阻塞性肺病。最初，组织病理学显示淋巴细胞炎症和小气道上皮的破坏。随后，在细支气管腔内发现纤维脓性渗出物和肉芽组织，最终导致纤维化、瘢痕形成和进行性的小气道闭塞。\n\n(选项A) 急性排斥反应通常发生在移植后的前6个月内。它通常无症状，通常通过监测活检发现。组织病理学显示血管周围和间质单核细胞浸润。\n\n(选项B和F) 潜在的肺部疾病，如肺动脉高压或慢性阻塞性肺病(COPD)，可能在肺移植肺中复发。然而，肺功能检查中的阻塞模式和组织病理学发现更好地解释了慢性排斥反应，而不是肺动脉高压或COPD，后者也会显示杯状细胞增多和粘液腺增生。\n\n(选项D) 缺血再灌注损伤是一种非心源性肺水肿，由于手术创伤或器官缺血发生在移植肺中。它通常发生在移植后的最初几天。\n\n(选项E) 感染是肺移植受者死亡的主要原因。巨细胞病毒是移植受者中最严重的机会性感染。受感染的细胞具有特征性的核内包涵体，周围环绕着清晰的光晕(猫头鹰眼包涵体)。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the complications of lung transplantation, specifically chronic rejection and its presentation. It assesses the ability to recognize the clinical features, spirometry findings, and histopathology associated with bronchiolitis obliterans.\n\nTo solve this question, consider the patient's history of lung transplantation, the time frame since the transplant, and the presenting symptoms. Evaluate the spirometry results for evidence of airflow obstruction and correlate with the lung biopsy findings to narrow the differential diagnosis.",
+    "zh": "此题考察对肺移植并发症的了解，特别是慢性排斥反应及其表现。它评估识别与闭塞性细支气管炎相关的临床特征、肺活量测定结果和组织病理学表现的能力。\n\n解决此问题时，请考虑患者的肺移植病史、移植后的时间以及目前的症状。评估肺活量测定结果中是否存在气流阻塞的证据，并与肺活检结果相关联，以缩小鉴别诊断范围。"
+  },
+  "tags": "Lung transplantation; Chronic rejection; Bronchiolitis obliterans; Pulmonary function testing; Spirometry; Airflow obstruction; Respiratory medicine; Transplant medicine",
+  "category": "Chest",
+  "question_id": "535",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\535",
+  "extracted_at": "2025-11-05T11:46:19.944027",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:40:45.513754",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

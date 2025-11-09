@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "Physicians involved in regenerative medicine research conduct a series of animal experiments to determine pulmonary tissue regeneration capacity. During one of the experiments, lung alveoli are exposed to NO₂ and massive necrosis of the epithelial lining ensues. Histologic examination of the injured tissues a month later shows partial recovery of the alveolar epithelial lining. This regenerated tissue is most likely derived from which of the following cell types?",
+    "zh": "参与再生医学研究的医生进行一系列动物实验，以确定肺组织再生能力。在其中一项实验中，肺泡暴露于NO₂，随后发生上皮内衬的大量坏死。一个月后对受损组织的组织学检查显示肺泡上皮内衬部分恢复。这种再生的组织最可能来源于以下哪种细胞类型？"
+  },
+  "question": {
+    "en": "This regenerated tissue is most likely derived from which of the following cell types?",
+    "zh": "这种再生的组织最可能来源于以下哪种细胞类型？"
+  },
+  "options": {
+    "A": {
+      "en": "Alveolar macrophages",
+      "zh": "肺泡巨噬细胞"
+    },
+    "B": {
+      "en": "Ciliated epithelium",
+      "zh": "纤毛上皮"
+    },
+    "C": {
+      "en": "Club cells",
+      "zh": "Clara细胞"
+    },
+    "D": {
+      "en": "Goblet cells",
+      "zh": "杯状细胞"
+    },
+    "E": {
+      "en": "Type I pneumocytes",
+      "zh": "I型肺泡细胞"
+    },
+    "F": {
+      "en": "Type II pneumocytes",
+      "zh": "II型肺泡细胞"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "Ninety-five percent of the alveolar surface is covered by flat type I pneumocytes. The remaining 5% is covered by interspersed cuboidal type II pneumocytes that make up more than half of the total number of alveolar cells. Type II pneumocytes are the source of pulmonary surfactant and have the ability to proliferate in response to injury. They also act as progenitor cells for type I pneumocytes, which cannot regenerate on their own (Choice E).\n\n(Choice A) Alveolar macrophages are a self-maintaining population derived from fetal monocytes during lung development. They are the principal cells involved in clearing inhaled foreign particles from the terminal respiratory units.\n\n(Choice B) The pseudostratified, ciliated, columnar epithelium of the tracheobronchial tree gradually tapers to become a simple ciliated cuboidal epithelium at the level of the terminal bronchioles. Ciliated cells are absent from the lining of alveolar ducts and alveolar sacs.\n\n(Choice C) Club cells are nonciliated, secretory cells found predominantly in the terminal portions of the bronchioles. These cells can act as a regenerative source of ciliated cells in the bronchioles.\n\n(Choice D) Goblet cells are found in the respiratory epithelium of the bronchi and larger bronchioles; they are absent from the alveolar mucosa. Goblet cells are considered terminally-differentiated, mucin-producing cells. {{exhibit_1}}\n\nEducational objective:\nType II pneumocytes have 2 important functions: regeneration of the alveolar lining following injury and surfactant production.",
+    "zh": "95%的肺泡表面被扁平的I型肺泡细胞覆盖。剩余的5%被散布的立方状II型肺泡细胞覆盖，它们占肺泡细胞总数的一半以上。II型肺泡细胞是肺表面活性物质的来源，并且具有对损伤作出反应而增殖的能力。它们也充当I型肺泡细胞的祖细胞，而I型肺泡细胞本身不能再生（选项E）。\n\n（选项A）肺泡巨噬细胞是在肺发育过程中源自胎儿单核细胞的自我维持群体。它们是清除吸入的异物颗粒的主要细胞。\n\n（选项B）气管支气管树的假复层纤毛柱状上皮逐渐变细，在末端细支气管水平变为单层纤毛立方上皮。纤毛细胞不存在于肺泡导管和肺泡囊的内衬中。\n\n（选项C）Clara细胞是非纤毛的、分泌细胞，主要存在于细支气管的末端部分。这些细胞可以作为细支气管中纤毛细胞的再生来源。\n\n（选项D）杯状细胞存在于支气管和较大细支气管的呼吸上皮中；它们不存在于肺泡粘膜中。杯状细胞被认为是终末分化的、产生粘蛋白的细胞。{{exhibit_1}}\n\n教育目标：\nII型肺泡细胞具有2个重要功能：损伤后肺泡内衬的再生和表面活性物质的产生。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the cellular composition of the alveoli and the regenerative capacity of different alveolar cell types following injury. Specifically, it focuses on the role of Type II pneumocytes in regenerating the alveolar lining.\n\nTo answer this question, recall the function of Type II pneumocytes as progenitor cells capable of proliferation and differentiation into Type I pneumocytes. Recognize that Type I pneumocytes, which cover most of the alveolar surface, cannot regenerate on their own.",
+    "zh": "这个问题考察了对肺泡细胞组成以及不同肺泡细胞类型在损伤后的再生能力的了解。具体来说，它侧重于II型肺泡细胞在再生肺泡内衬中的作用。\n\n为了回答这个问题，回忆一下II型肺泡细胞作为能够增殖并分化成I型肺泡细胞的祖细胞的功能。认识到覆盖大多数肺泡表面的I型肺泡细胞本身不能再生。"
+  },
+  "tags": "Alveolar cells; Type II pneumocytes; Lung regeneration; Pulmonary surfactant; Respiratory epithelium",
+  "category": "Chest",
+  "question_id": "478",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\478",
+  "extracted_at": "2025-11-05T11:45:27.879352",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:39:38.835057",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "An 18-year-old man comes to the clinic for a routine physical. The patient has no medical conditions and takes no medications. He does not use tobacco, alcohol, or recreational drugs. He plays on his high school football team. Review of systems is unremarkable. Blood pressure is 120/76 mm Hg, pulse is 68/min, and respirations are 15/min. BMI is 28 kg/m². Blood pressures in the upper and lower extremities are equal. There is no jugular venous distension. Carotid upstrokes are brisk. A grade 2/6 midsystolic murmur is present along the left sternal border. The murmur decreases in intensity with handgrip and passive leg elevation. Lung sounds are normal without crackles or wheezes. Echocardiography is most likely to demonstrate which of the following findings? {{exhibit_1}}",
+    "zh": "一名18岁的男性因常规体检来到诊所。患者无任何疾病史，未服用任何药物。他不吸烟、不饮酒，也不使用娱乐性药物。他是高中橄榄球队的队员。系统回顾无特殊。血压120/76 mmHg，脉搏68次/分，呼吸15次/分。BMI为28 kg/m²。上肢和下肢的血压相等。无颈静脉怒张。颈动脉搏动有力。左侧胸骨旁存在2/6级的中收缩期杂音。该杂音在握力和被动抬腿时减弱。肺部听诊正常，无啰音或喘鸣。超声心动图最可能显示以下哪种发现？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Echocardiography is most likely to demonstrate which of the following findings?",
+    "zh": "超声心动图最可能显示以下哪种发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Increased Left ventricular mass; Dilated Left ventricular cavity size; Decreased Left ventricular ejection fraction; Normal Left ventricular relaxation",
+      "zh": "左心室质量增加；左心室腔扩大；左心室射血分数降低；左心室舒张功能正常"
+    },
+    "B": {
+      "en": "Increased Left ventricular mass; Normal Left ventricular cavity size; Preserved Left ventricular ejection fraction; Normal Left ventricular relaxation",
+      "zh": "左心室质量增加；左心室腔大小正常；左心室射血分数保持；左心室舒张功能正常"
+    },
+    "C": {
+      "en": "Increased Left ventricular mass; Small Left ventricular cavity size; Decreased Left ventricular ejection fraction; Impaired Left ventricular relaxation",
+      "zh": "左心室质量增加；左心室腔小；左心室射血分数降低；左心室舒张功能受损"
+    },
+    "D": {
+      "en": "Increased Left ventricular mass; Small Left ventricular cavity size; Preserved Left ventricular ejection fraction; Impaired Left ventricular relaxation",
+      "zh": "左心室质量增加；左心室腔小；左心室射血分数保持；左心室舒张功能受损"
+    },
+    "E": {
+      "en": "Normal Left ventricular mass; Normal Left ventricular cavity size; Preserved Left ventricular ejection fraction; Impaired Left ventricular relaxation",
+      "zh": "左心室质量正常；左心室腔大小正常；左心室射血分数保持；左心室舒张功能受损"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with a systolic murmur along the left sternal border that decreases in intensity with maneuvers that increase left ventricular (LV) blood volume likely has hypertrophic cardiomyopathy (HCM). HCM typically involves hypertrophy of the interventricular septum that can partially obstruct LV outflow and cause a murmur. Increases in LV blood volume, caused by maneuvers that increase preload (eg, passive leg elevation) or afterload (eg, handgrip), alleviate LV outflow obstruction and decrease the intensity of the murmur.\n\nCharacteristic findings in HCM include increased LV muscle mass and a small LV cavity. Because LV contractility is typically intact and outflow obstruction is dynamic and commonly present only with exercise, there is usually preserved ejection fraction (EF) at rest (ie, carotid pulses are full). Diastolic dysfunction is typically present due to impaired relaxation of the hypertrophied LV wall.\n\nAffected patients can be asymptomatic or may have exertional symptoms, depending on the level of phenotypic expression and degree of LV outflow tract obstruction.\n\n(Choices A and E) Increased LV mass with a dilated LV cavity, decreased EF, and normal LV relaxation are consistent with dilated cardiomyopathy. Normal LV mass and cavity size with preserved EF and impaired relaxation describe restrictive cardiomyopathy; the LV walls are stiff but not typically thickened. Both conditions are likely to lead to symptomatic heart failure with jugular venous distension and pulmonary edema (evidenced by crackles on lung auscultation).\n\n(Choice B) Increased LV mass with normal relaxation and normal (or somewhat increased) LV cavity size and ejection fraction are consistent with athlete's heart, in which physiologic cardiac changes (eg, LV cavity enlargement and wall thickening) improve cardiac function in response to intense endurance training. A systolic flow murmur may be heard but does not decrease in intensity with maneuvers that increase LV blood volume.\n\n(Choice C) Increased LV mass with small LV cavity size, decreased EF, and impaired relaxation occur in severe aortic stenosis. The fixed obstruction created by the stenotic valve leads to pressure overload and concentric LV hypertrophy, and also restricts stroke volume to decrease EF. The murmur of aortic stenosis is similar to that of HCM but is differentiated by a decrease in intensity with maneuvers that decrease, rather than increase, LV preload (eg, abrupt standing, Valsalva strain phase).\n\nEducational objective:\nHypertrophic cardiomyopathy (HCM) typically involves interventricular septal hypertrophy that obstructs left ventricular (LV) outflow and creates a systolic murmur that decreases in intensity with maneuvers that increase LV blood volume (eg, handgrip, passive leg elevation). HCM is characterized by increased LV muscle mass with a small LV cavity, preserved ejection fraction, and impaired relaxation leading to diastolic dysfunction.",
+    "zh": "该患者左胸骨旁存在收缩期杂音，且在增加左心室（LV）血容量的动作时杂音减弱，很可能患有肥厚型心肌病(HCM)。HCM通常涉及室间隔肥大，这可能部分阻塞LV流出道并引起杂音。增加LV血容量，如通过增加前负荷的动作（例如，被动抬腿）或后负荷的动作（例如，握力），减轻LV流出道梗阻并降低杂音的强度。\n\nHCM的特征性表现包括LV肌肉质量增加和LV腔小。由于LV收缩功能通常完整，并且流出道梗阻是动态的，通常仅在运动时出现，因此在静息状态下通常保留射血分数（EF）（即，颈动脉搏动充盈）。由于肥厚的LV壁舒张受损，通常存在舒张功能障碍。\n\n受影响的患者可能无症状，或者可能出现劳力性症状，这取决于表型表达的水平和LV流出道梗阻的程度。\n\n（选项A和E）LV质量增加伴LV腔扩大、EF降低和LV舒张功能正常，与扩张型心肌病一致。LV质量和腔大小正常伴EF保留和舒张功能受损描述了限制型心肌病；LV壁僵硬，但通常不增厚。这两种情况都可能导致有症状的心力衰竭，伴有颈静脉怒张和肺水肿（由肺部听诊的啰音证实）。\n\n（选项B）LV质量增加伴舒张功能正常和LV腔大小和射血分数正常（或略有增加），与运动员的心脏一致，在这种情况下，生理性心脏变化（例如，LV腔增大和壁增厚）改善心脏功能以应对剧烈的耐力训练。可能会听到收缩期血流杂音，但其强度不会随着增加LV血容量的动作而降低。\n\n（选项C）LV质量增加伴LV腔小、EF降低和舒张功能受损，发生在严重的主动脉瓣狭窄。由狭窄瓣膜产生的固定阻塞导致压力超负荷和向心性LV肥大，并限制每搏输出量以降低EF。主动脉瓣狭窄的杂音与HCM的杂音相似，但通过在减少而不是增加LV前负荷的动作（例如，突然站立、Valsalva用力呼气）时强度降低来区分。\n\n教学目标：\n肥厚型心肌病（HCM）通常涉及室间隔肥大，阻塞左心室（LV）流出道，并产生在增加LV血容量的动作（例如，握力、被动抬腿）时强度降低的收缩期杂音。HCM的特征是LV肌肉质量增加、LV腔小、射血分数保留和舒张功能受损，导致舒张功能障碍。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hypertrophic cardiomyopathy (HCM) and its characteristic echocardiographic findings. It requires understanding the pathophysiology of HCM, including left ventricular hypertrophy, outflow obstruction, and diastolic dysfunction.\n\nThe key to solving this question is recognizing the clinical scenario suggestive of HCM (young athlete with a murmur that decreases with increased preload/afterload) and then selecting the echocardiographic findings that align with this diagnosis: increased LV mass, small LV cavity, preserved ejection fraction, and impaired relaxation.",
+    "zh": "此题考察对肥厚型心肌病(HCM)及其特征性超声心动图表现的了解。它需要理解HCM的病理生理学，包括左心室肥大、流出道梗阻和舒张功能障碍。\n\n解决此问题的关键在于识别提示HCM的临床情况（年轻运动员，杂音随前负荷/后负荷增加而减弱），然后选择与该诊断相符的超声心动图表现：左心室质量增加，左心室腔小，射血分数保留和舒张功能受损。"
+  },
+  "tags": "Hypertrophic cardiomyopathy; Echocardiography; Left ventricular hypertrophy; Diastolic dysfunction; Cardiology; Murmur; Preload; Afterload",
+  "category": "CVS",
+  "question_id": "15516",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\15516",
+  "extracted_at": "2025-11-05T11:59:24.508083",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:49:28.998064",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

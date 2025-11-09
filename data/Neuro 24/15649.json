@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 70-year-old man is brought to the emergency department due to left-sided weakness and slurred speech upon awakening 30 minutes ago. The patient was asymptomatic when he went to bed last night. Medical history includes type 2 diabetes mellitus, hypertension, and hyperlipidemia. The patient is a former smoker with a 30-pack-year history. Physical examination shows a right gaze preference, left lower facial droop, and hemiplegia and hemisensory loss on the left. CT scan of the brain reveals early infarction in the right middle cerebral artery territory with no acute hemorrhage. The patient is hospitalized for further management. Several hours later, he becomes progressively obtunded with elevated intracranial pressure. A repeat CT scan reveals edema in the region of acute infarction causing mass effect.",
+    "zh": "一名70岁男性因左侧肢体无力和言语不清被送至急诊科，发病于30分钟前。患者昨晚睡觉时无任何症状。病史包括2型糖尿病、高血压和高脂血症。患者有吸烟史，30包年。体格检查显示右侧凝视偏向、左侧面部下垂、左侧偏瘫和偏身感觉缺失。脑部CT扫描显示右侧大脑中动脉区域早期梗死，无急性出血。患者住院进一步治疗。数小时后，他逐渐意识模糊，颅内压升高。复查CT扫描显示急性梗死区域出现水肿，引起占位效应。"
+  },
+  "question": {
+    "en": "What is the primary contributor to the pathogenesis of this patient's raised intracranial pressure?",
+    "zh": "该患者颅内压升高的主要病理机制是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Decrease in plasma oncotic pressure",
+      "zh": "血浆胶体渗透压降低"
+    },
+    "B": {
+      "en": "Failure of ATP-dependent ion transporters",
+      "zh": "ATP依赖性离子转运蛋白功能障碍"
+    },
+    "C": {
+      "en": "Inadequate absorption of cerebrospinal fluid",
+      "zh": "脑脊液吸收不足"
+    },
+    "D": {
+      "en": "Increase in capillary hydrostatic pressure",
+      "zh": "毛细血管静水压升高"
+    },
+    "E": {
+      "en": "Proliferation of astrocytes and microglia",
+      "zh": "星形胶质细胞和小胶质细胞增生"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient had a right hemispheric ISCHEMIC STROKE and developed altered mental status and increased intracranial pressure (ICP) secondary to CEREBRAL EDEMA. The fixed volume of the skull necessitates that a significant increase in volume of any component of the CNS (eg, brain tissue, blood, cerebrospinal fluid) will raise ICP. This increased ICP can cause progressive NEUROLOGIC IMPAIRMENT through direct pressure-induced cell injury or mechanical damage due to brain herniation.\n\nIrreversible ischemic neural and glial cell injury initiates a sequence of chemical changes that promote edema:\n\n*   CYTOTOXIC (IONIC) EDEMA begins hours after the ischemic injury due to decreased ATP. The failure of ATP-DEPENDENT ION PUMPS, combined with the release of excitatory amino acids (eg, glutamate), leads to the accumulation of intracellular Na+ and water in neural and glial cells despite an intact blood-brain barrier.\n*   VASOGENIC EDEMA follows 24-48 hours later, when the release of inflammatory mediators disrupts the tight junctions of the blood-brain barrier, allowing proteins (eg, albumin) and water to enter the interstitial space. This vasogenic phase can cause persistent cerebral edema for weeks after the initial injury.\n\n(Choice A) Although a decrease in oncotic pressure can cause peripheral edema (eg, nephrotic syndrome), it is not a significant factor in the development of cerebral edema. Mannitol is used in the treatment of cerebral edema because it increases plasma oncotic pressure and temporarily disrupts the blood-brain barrier, allowing movement of fluid out of the CNS to decrease ICP.\n\n(Choice C) Inadequate absorption of cerebrospinal fluid at the arachnoid granulations can cause communicating hydrocephalus. Although this process raises ICP, ventriculomegaly would likely be prominent on CT scan.\n\n(Choice D) Increased hydrostatic pressure secondary to central venous thrombosis or hypertensive encephalopathy can cause cerebral edema and increased ICP. However, patients typically have gradually worsening headache before development of neurologic abnormalities.\n\n(Choice E) Gliosis is the process of repairing damaged tissue in the CNS by proliferating astrocytes and microglia. This process occurs slowly in the months to years after CNS injury and would not be expected to cause acute changes in ICP.\n\nEducational objective:\nThe primary mechanism underlying cytotoxic (early) edema following cerebral ischemia is the accumulation of intracellular Na+ and water due to the failure of ATP-dependent ion transporters in hypoxic cells. Cerebral edema causes progressive neurologic decline by raising intracranial pressure, which can directly damage neural tissue or result in mechanical damage due to brain herniation.",
+    "zh": "该患者患有右半球缺血性卒中，继发于脑水肿，出现精神状态改变和颅内压(ICP)升高。颅骨的固定容积决定了中枢神经系统(如脑组织、血液、脑脊液)任何组成部分的体积显著增加都会导致ICP升高。这种ICP升高可能通过直接压力诱导的细胞损伤或由于脑疝引起的机械损伤导致进行性神经功能障碍。\n\n不可逆的缺血性神经细胞和神经胶质细胞损伤引发一系列促进水肿的化学变化：\n\n*   细胞毒性(离子)水肿在缺血性损伤后数小时开始，这是由于ATP降低所致。ATP依赖性离子泵功能障碍，加上兴奋性氨基酸(如谷氨酸)的释放，导致神经细胞和神经胶质细胞内Na+和水的积聚，尽管血脑屏障完好。\n*   血管源性水肿在24-48小时后发生，炎症介质的释放破坏血脑屏障的紧密连接，使蛋白质(如白蛋白)和水进入间质间隙。这种血管源性阶段可以在最初损伤后几周内引起持续性脑水肿。\n\n(选项A)虽然胶体渗透压降低会导致周围水肿(如肾病综合征)，但它不是脑水肿发展的重要因素。甘露醇用于治疗脑水肿，因为它增加了血浆胶体渗透压，并暂时破坏血脑屏障，允许液体从CNS移出以降低ICP。\n\n(选项C)蛛网膜颗粒对脑脊液的吸收不足可引起交通性脑积水。虽然这个过程会升高ICP，但在CT扫描上脑室增大可能会很明显。\n\n(选项D)继发于中心静脉血栓形成或高血压脑病的静水压升高可引起脑水肿和ICP升高。然而，患者通常在出现神经功能异常之前有逐渐加重的头痛。\n\n(选项E)神经胶质增生是通过增生星形胶质细胞和小胶质细胞来修复CNS受损组织的过程。这个过程发生在CNS损伤后数月到数年，预计不会引起ICP的急性变化。\n\n教育目标：\n缺血性脑病后细胞毒性(早期)水肿的主要机制是由于缺氧细胞中ATP依赖性离子转运蛋白的功能障碍导致细胞内Na+和水的积聚。脑水肿通过升高颅内压导致进行性神经功能下降，这可以直接损害神经组织，或由于脑疝导致机械损伤。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathophysiology of cerebral edema following ischemic stroke, specifically the mechanisms leading to increased intracranial pressure. It requires differentiating between cytotoxic and vasogenic edema and understanding the role of cellular energy failure in the early stages.\n\nTo solve this question, identify the clinical scenario as an acute ischemic stroke with subsequent development of cerebral edema and increased intracranial pressure. Recall the two main types of cerebral edema (cytotoxic and vasogenic) and their underlying mechanisms. Focus on the early phase of edema formation, which is primarily cytotoxic and driven by cellular energy depletion and ion pump failure.",
+    "zh": "本题考察对缺血性卒中后脑水肿的病理生理学理解，特别是导致颅内压升高的机制。它要求区分细胞毒性水肿和血管源性水肿，并理解细胞能量衰竭在早期阶段的作用。\n\n要解决这个问题，需要将临床情况确定为急性缺血性卒中，随后发展为脑水肿和颅内压升高。回忆脑水肿的两种主要类型（细胞毒性和血管源性）及其潜在机制。关注水肿形成的早期阶段，这主要是细胞毒性的，并由细胞能量耗竭和离子泵衰竭驱动。"
+  },
+  "tags": "Ischemic stroke; Cerebral edema; Intracranial pressure; Cytotoxic edema; Vasogenic edema; ATP-dependent ion transporters; Pathophysiology; Neurology; Emergency medicine",
+  "category": "Neuro",
+  "question_id": "15649",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\15649",
+  "extracted_at": "2025-11-05T19:35:02.407281",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:34:52.894057",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

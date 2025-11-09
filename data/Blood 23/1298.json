@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 50-year-old woman with a history of systemic lupus erythematosus is admitted with fever, chills, vomiting, and burning pain when urinating. Temperature is 39.3 C (102.7 F), blood pressure is 80/50 mm Hg, pulse is 120/min, and respirations are 20/min. On examination, costovertebral angle tenderness is present. The patient is given intravenous antibiotics. Over the next several hours, she has decreased urine output despite aggressive intravenous hydration. Blood is oozing around the central venous catheter. Laboratory results are as follows:\n\nComplete blood count\nHemoglobin 9.0 g/dL\nPlatelets 68,000/mm³\nLeukocytes 24,500/mm³\n\nCoagulation studies\nProthrombin time 23 sec\nPartial thromboplastin time 60 sec\nPlasma fibrinogen 100 mg/dL (150-350)",
+    "zh": "一名有系统性红斑狼疮病史的50岁女性因发热、寒战、呕吐和排尿时灼痛入院。体温39.3摄氏度（102.7华氏度），血压80/50毫米汞柱，脉搏120次/分，呼吸20次/分。体格检查显示，肋脊角压痛。患者接受静脉注射抗生素治疗。在接下来的几个小时内，尽管积极进行静脉补液，但她的尿量减少。血液从中心静脉导管周围渗出。实验室检查结果如下：\n\n全血细胞计数\n血红蛋白9.0克/分升\n血小板68,000/mm³\n白细胞24,500/mm³\n\n凝血功能检查\n凝血酶原时间23秒\n部分凝血活酶时间60秒\n血浆纤维蛋白原100毫克/分升（150-350）"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's hematologic abnormalities?",
+    "zh": "以下哪项最可能是该患者血液学异常的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Accumulation of anticardiolipin antibodies",
+      "zh": "抗心磷脂抗体积累"
+    },
+    "B": {
+      "en": "Accumulation of ultra-large von Willebrand factor multimers",
+      "zh": "超大血管性血友病因子多聚体积累"
+    },
+    "C": {
+      "en": "Consumptive coagulopathy",
+      "zh": "消耗性凝血病"
+    },
+    "D": {
+      "en": "Immune-mediated platelet destruction",
+      "zh": "免疫介导的血小板破坏"
+    },
+    "E": {
+      "en": "Impaired hepatic synthetic activity",
+      "zh": "肝脏合成功能受损"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "(Choice A) Anticardiolipin antibody is antiphospholipid antibody often seen in patients with lupus erythematosus. It can cause antiphospholipid antibody syndrome, which is marked by thromboembolism and fetal loss (not bleeding). Although patients often have prolonged PTT (because the antiphospholipid interferes with the PTT test), PT is normal.\n\n(Choice B) Thrombotic thrombocytopenic purpura (TTP) is caused by reduced activity of von Willebrand factor–cleaving protein ADAMTS13, leading to the accumulation of ultra-large von Willebrand factor multimers that trap platelets and generate platelet-rich thrombi in the microvasculature. Although patients usually develop thrombocytopenia, MAHA, fever, confusion, and organ damage (eg, acute renal failure), the coagulation cascade is unaffected; therefore, PT/PTT and fibrinolysis (fibrinogen level) are normal, and bleeding does not occur.\n\n(Choice D) Immune (idiopathic) thrombocytopenic purpura (ITP) is marked by autoantibodies to platelets/megakaryocytes; thrombocytopenia is the only peripheral blood abnormality. Coagulation studies (eg, PT, PTT) and fibrinogen levels are normal. Spontaneous bleeding is very uncommon unless the platelet count is <10,000/mm³.\n\n(Choice E) The liver generates thrombopoietin and the majority of clotting factors. Therefore, patients with significantly impaired hepatic function (eg, cirrhosis) sometimes have mild thrombocytopenia and prolonged coagulation studies. However, fibrinogen level is usually normal and this patient has no other signs of advanced hepatic dysfunction (eg, ascites, jaundice).\n\nEducational objective:\nDisseminated intravascular coagulation commonly occurs in the setting of sepsis and is characterized by widespread activation of the coagulation cascade with formation of microthrombi. Laboratory results reveal prolonged PT/PTT, thrombocytopenia, and low fibrinogen (ie, a consumptive coagulopathy), and patients usually have signs of bleeding (eg, oozing from venipuncture sites).",
+    "zh": "(选项A) 抗心磷脂抗体是抗磷脂抗体，常在红斑狼疮患者中发现。它可引起抗磷脂抗体综合征，其特征是血栓栓塞和胎儿丢失（而非出血）。尽管患者通常PTT延长（因为抗磷脂抗体干扰PTT测试），但PT是正常的。\n\n(选项B) 血栓性血小板减少性紫癜(TTP)是由切割血管性血友病因子(vWF)的蛋白ADAMTS13活性降低引起的，导致超大血管性血友病因子多聚体积累，从而捕获血小板并在微血管中产生富含血小板的血栓。尽管患者通常会发生血小板减少症、MAHA、发热、意识模糊和器官损害（如急性肾衰竭），但凝血级联反应不受影响；因此，PT/PTT和纤维蛋白溶解（纤维蛋白原水平）是正常的，并且不会发生出血。\n\n(选项D) 免疫性（特发性）血小板减少性紫癜(ITP)的特征是针对血小板/巨核细胞的自身抗体；血小板减少症是唯一的周围血异常。凝血功能检查（例如，PT、PTT）和纤维蛋白原水平是正常的。除非血小板计数<10,000/mm³，否则自发性出血非常罕见。\n\n(选项E) 肝脏产生血小板生成素和大多数凝血因子。因此，肝功能严重受损的患者（例如，肝硬化）有时会出现轻度血小板减少症和凝血功能检查延长。然而，纤维蛋白原水平通常是正常的，并且该患者没有其他晚期肝功能障碍的迹象（例如，腹水、黄疸）。\n\n教育目标：\n弥散性血管内凝血(DIC)常见于脓毒症，其特征是凝血级联反应广泛激活，形成微血栓。实验室结果显示PT/PTT延长、血小板减少和纤维蛋白原降低（即，消耗性凝血病），并且患者通常有出血征象（例如，静脉穿刺部位渗血）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of disseminated intravascular coagulation (DIC) in the setting of sepsis, including its characteristic laboratory findings of thrombocytopenia, prolonged PT/PTT, and low fibrinogen. It also requires differentiating DIC from other causes of thrombocytopenia and coagulopathy.\n\nTo solve this question, recognize the patient's presentation of sepsis (fever, hypotension, leukocytosis) and bleeding (oozing from catheter site). Then, correlate these findings with the laboratory abnormalities to identify DIC as the most likely cause of the hematologic abnormalities.",
+    "zh": "本题考察了脓毒症背景下播散性血管内凝血(DIC)的知识，包括其特征性的实验室发现，如血小板减少症、PT/PTT延长和纤维蛋白原降低。它还要求将DIC与其他引起血小板减少症和凝血病的病因区分开来。\n\n要解决这个问题，首先识别患者的脓毒症表现（发热、低血压、白细胞增多症）和出血（导管部位渗血）。然后，将这些发现与实验室异常相关联，以确定DIC最可能是血液学异常的原因。"
+  },
+  "tags": "Disseminated intravascular coagulation (DIC); Sepsis; Thrombocytopenia; Coagulopathy; Prothrombin time (PT); Partial thromboplastin time (PTT); Fibrinogen; Systemic lupus erythematosus; Infectious disease; Hematology",
+  "category": "Blood",
+  "question_id": "1298",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1298",
+  "extracted_at": "2025-11-05T13:24:53.012474",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:26:49.258041",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

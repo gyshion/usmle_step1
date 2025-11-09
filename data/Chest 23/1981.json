@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 44-year-old man comes to the emergency department due to sudden-onset shortness of breath that started a few hours ago. Last week, he sustained a crush injury after a motorcycle drove over his left foot, and he has been immobilized since then due to pain. The patient drinks alcohol occasionally and does not use tobacco or illicit drugs. Temperature is 36.1 C (97 F), blood pressure is 118/76 mm Hg, pulse is 102/min, and respirations are 28/min. BMI is 37 kg/m². On physical examination, heart rhythm is regular with normal S1 and S2. The lungs are clear to auscultation bilaterally. The dorsum of the left foot has resolving ecchymoses and swelling compared to when he was evaluated last week. The right calf is swollen and tender. {{exhibit_1}}",
+    "zh": "一名44岁男性因数小时前开始的突发性呼吸困难来到急诊科。 上周，他遭遇了一场压碎伤，一辆摩托车从他的左脚上碾过，自那以后他一直因疼痛而无法活动。 患者偶尔饮酒，不吸烟也不使用违禁药物。 体温36.1摄氏度（97华氏度），血压118/76毫米汞柱，脉搏102次/分钟，呼吸28次/分钟。 BMI为37千克/平方米。 体格检查显示，心律规则，S1和S2正常。 双侧肺部听诊清晰。 与上周评估时相比，左脚背瘀斑正在消退，肿胀。 右小腿肿胀且触痛。 {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following arterial blood gas values are most likely to be present in this patient?",
+    "zh": "该患者最有可能出现以下哪种动脉血气值？"
+  },
+  "options": {
+    "A": {
+      "en": "pH 7.30\nPaO₂ (mm Hg) 101\nPaCO₂ (mm Hg) 23\nSerum HCO₃ (mEq/L) 11",
+      "zh": "pH 7.30\nPaO₂ (毫米汞柱) 101\nPaCO₂ (毫米汞柱) 23\n血清HCO₃ (毫当量/升) 11"
+    },
+    "B": {
+      "en": "pH 7.32\nPaO₂ (mm Hg) 60\nPaCO₂ (mm Hg) 64\nSerum HCO₃ (mEq/L) 32",
+      "zh": "pH 7.32\nPaO₂ (毫米汞柱) 60\nPaCO₂ (毫米汞柱) 64\n血清HCO₃ (毫当量/升) 32"
+    },
+    "C": {
+      "en": "pH 7.38\nPaO₂ (mm Hg) 80\nPaCO₂ (mm Hg) 40\nSerum HCO₃ (mEq/L) 23",
+      "zh": "pH 7.38\nPaO₂ (毫米汞柱) 80\nPaCO₂ (毫米汞柱) 40\n血清HCO₃ (毫当量/升) 23"
+    },
+    "D": {
+      "en": "pH 7.57\nPaO₂ (mm Hg) 65\nPaCO₂ (mm Hg) 26\nSerum HCO₃ (mEq/L) 23",
+      "zh": "pH 7.57\nPaO₂ (毫米汞柱) 65\nPaCO₂ (毫米汞柱) 26\n血清HCO₃ (毫当量/升) 23"
+    },
+    "E": {
+      "en": "pH 7.47\nPaO₂ (mm Hg) 96\nPaCO₂ (mm Hg) 24\nSerum HCO₃ (mEq/L) 17",
+      "zh": "pH 7.47\nPaO₂ (毫米汞柱) 96\nPaCO₂ (毫米汞柱) 24\n血清HCO₃ (毫当量/升) 17"
+    },
+    "F": {
+      "en": "pH 7.49\nPaO₂ (mm Hg) 75\nPaCO₂ (mm Hg) 49\nSerum HCO₃ (mEq/L) 36",
+      "zh": "pH 7.49\nPaO₂ (毫米汞柱) 75\nPaCO₂ (毫米汞柱) 49\n血清HCO₃ (毫当量/升) 36"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Sudden-onset dyspnea in the setting of recent calf swelling is strongly suggestive of pulmonary embolism (PE). Dyspnea is the most common symptom of PE and risk factors include obesity, smoking, and prolonged immobilization. The embolus typically arises from a deep venous thrombus in the lower extremities (causes calf swelling) and lodges itself within the arterial blood supply of the lungs. \n\nPE occludes or significantly reduces blood flow to a portion of the pulmonary parenchyma, resulting in increased dead space ventilation and redistribution of pulmonary blood flow away from the affected segments. This leads to increased ventilation/perfusion (V/Q) mismatch in the remainder of the lungs with consequent hypoxemia. Stimulation of central respiratory drive occurs in response to dyspnea and inflammatory mediators released by ischemic pulmonary tissue. Hyperventilation does not significantly improve arterial oxygenation because hemoglobin is nearly fully saturated with O₂ in areas of normal V/Q ratio, allowing little capacity for high V/Q regions to increase blood O₂ content much further. In contrast, CO₂ removal is more directly dependent on ventilation, and high V/Q regions have large capacity to exhale additional CO₂. Therefore, the hyperventilation leads to hypocapnia (low PaCO₂) and respiratory alkalosis. The serum HCO₃- is near normal in the acute setting, but metabolic compensation with renal bicarbonate loss takes place over the next 72 hours.\n\n(Choice A) Low blood pH of 7.30 with low serum HCO₃ indicates metabolic acidosis, which is compensated by hyperventilation leading to low PaCO₂.\n\n(Choice B) A low pH of 7.32 with high PaCO₂ reflects respiratory acidosis. The high HCO₃ indicates renal compensation by bicarbonate retention. Although PE may eventually lead to respiratory collapse with an acute increase in PaCO₂, a renal compensatory response would not be expected so abruptly.\n\n(Choice C) These arterial blood gas values are considered normal, reflecting an absence of acid-base disturbance.\n\n(Choice E) A high pH of 7.47 with low PaCO₂ reflects respiratory alkalosis. The low HCO₃ indicates renal compensation, which is expected with chronic respiratory alkalosis but should not be present with acute PE. Normal PaO₂ can occasionally be present in acute PE but is less likely.\n\n(Choice F) A high pH of 7.48 with high serum HCO₃ reflects metabolic alkalosis, which is compensated by hypoventilation leading to high PaCO₂.\n\nEducational objective:\nThe combination of calf swelling, history of prolonged immobility, and sudden-onset dyspnea is strongly suggestive of acute pulmonary embolism (PE). PE typically presents with hypoxemia due to ventilation/perfusion mismatch and acute respiratory alkalosis (hypocapnia) due to hyperventilation. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "近期出现小腿肿胀情况下的突发性呼吸困难强烈提示肺栓塞 (PE)。 呼吸困难是PE最常见的症状，危险因素包括肥胖、吸烟和长期制动。 栓子通常源于下肢深静脉血栓（引起小腿肿胀），并阻塞在肺部的动脉血供中。\n\nPE会阻塞或显著减少肺实质一部分的血流，导致无效腔通气增加，并将肺血流重新分布到受影响的肺段之外。 这导致肺部其余部分的通气/灌注 (V/Q) 失调增加，进而导致低氧血症。 中枢呼吸驱动的刺激是由于呼吸困难和缺血肺组织释放的炎症介质引起的。 换气过度并不能显着改善动脉氧合，因为在V/Q比率正常的区域，血红蛋白几乎完全被O₂饱和，这使得高V/Q区域进一步增加血液O₂含量的能力很小。 相比之下，CO₂的清除更直接地依赖于通气，而高V/Q区域有很大的能力呼出额外的CO₂。 因此，过度通气会导致低碳酸血症（低PaCO₂）和呼吸性碱中毒。 在急性情况下，血清HCO₃-接近正常水平，但在接下来的72小时内会发生代谢代偿，伴有肾脏碳酸氢盐丢失。\n\n(选项A) 7.30的低血pH值和低血清HCO₃表明代谢性酸中毒，这由过度通气代偿导致低PaCO₂。\n\n(选项B) 7.32的低pH值和高PaCO₂反映了呼吸性酸中毒。 高HCO₃表明肾脏通过碳酸氢盐潴留进行代偿。 尽管PE最终可能导致呼吸衰竭伴有PaCO₂的急性升高，但肾脏代偿反应不会如此突然地发生。\n\n(选项C) 这些动脉血气值被认为是正常的，反映了不存在酸碱失衡。\n\n(选项E) 7.47的高pH值和低PaCO₂反映了呼吸性碱中毒。 低HCO₃表明肾脏代偿，这在慢性呼吸性碱中毒中是预期的，但不应出现在急性PE中。 急性PE中偶尔会出现正常的PaO₂，但可能性较小。\n\n(选项F) 7.48的高pH值和高血清HCO₃反映了代谢性碱中毒，这由通气不足代偿导致高PaCO₂。\n\n教育目标：\n小腿肿胀、长期制动史和突发性呼吸困难的组合强烈提示急性肺栓塞 (PE)。 PE通常表现为由于通气/灌注失调引起的低氧血症和由于过度通气引起的急性呼吸性碱中毒（低碳酸血症）。 {{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the typical presentation of pulmonary embolism (PE) and the expected arterial blood gas (ABG) findings, specifically respiratory alkalosis with hypoxemia. It also requires understanding of V/Q mismatch pathophysiology. \n\nTo solve this question, recognize the risk factors and symptoms suggestive of PE. Then, recall that PE causes V/Q mismatch, leading to hypoxemia and hyperventilation, resulting in respiratory alkalosis. Select the ABG values that reflect these derangements.",
+    "zh": "本题考察对肺栓塞 (PE) 的典型表现以及预期的动脉血气 (ABG) 结果的了解，特别是呼吸性碱中毒伴低氧血症。 它还需要了解V/Q失调的病理生理学。\n\n要解决这个问题，首先要识别提示PE的危险因素和症状。 然后，回想一下PE会导致V/Q失调，导致低氧血症和过度通气，从而导致呼吸性碱中毒。 选择反映这些紊乱的ABG值。"
+  },
+  "tags": "Pulmonary embolism; Respiratory alkalosis; Hypoxemia; Ventilation-perfusion mismatch; Arterial blood gas; Deep vein thrombosis; Calf swelling; Dyspnea; Emergency medicine; Respiratory medicine",
+  "category": "Chest",
+  "question_id": "1981",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1981",
+  "extracted_at": "2025-11-05T11:43:29.568017",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:38:23.867044",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "Researchers find that repeated stimulation of hippocampal neurons involved in memory and learning leads to potentiation of synaptic transmission. Patch-clamp recordings of stimulated neurons are shown below (dotted line: baseline; solid line: after repeated stimulation [potentiated]). {{exhibit_1}} {{exhibit_2}}",
+    "zh": "研究人员发现，重复刺激参与记忆和学习的海马神经元会导致突触传递的增强。 下面显示了受刺激神经元的膜片钳记录（虚线：基线；实线：重复刺激后 [增强]）。 {{exhibit_1}} {{exhibit_2}}"
+  },
+  "question": {
+    "en": "Which of the following neurotransmitter receptors on the postsynaptic membrane is most likely involved in this process?",
+    "zh": "以下哪种突触后膜上的神经递质受体最有可能参与这一过程？"
+  },
+  "options": {
+    "A": {
+      "en": "Dopamine D₂ receptor",
+      "zh": "多巴胺 D₂ 受体"
+    },
+    "B": {
+      "en": "GABA-B receptor",
+      "zh": "GABA-B 受体"
+    },
+    "C": {
+      "en": "Glutamate NMDA receptor",
+      "zh": "谷氨酸 NMDA 受体"
+    },
+    "D": {
+      "en": "Glycine receptor",
+      "zh": "甘氨酸受体"
+    },
+    "E": {
+      "en": "Norepinephrine alpha-2 receptor",
+      "zh": "去甲肾上腺素 α-2 受体"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The top panel in this experiment demonstrates a classic excitatory postsynaptic potential (EPSP), a small depolarization that moves the postsynaptic neuron closer to the threshold for full action potential firing. The EPSP occurs with rising intracellular calcium, {{exhibit_3}} indicating that the involved postsynaptic receptor acts, at least in part, by increasing calcium conductance. The glutamate NMDA receptor becomes permeable to cations causing net depolarization (sodium and calcium in > potassium out) when bound by glutamate. The increased calcium entry also initiates second-messenger signaling cascades (eg, protein kinase C) to regulate synaptic plasticity; repetitive excitation of postsynaptic neurons renders them more responsive, producing stronger EPSPs over time. This process, known as LONG-TERM POTENTIATION (LTP), dictates synaptic strength between hippocampal neurons and plays a critical role in the basis of memory, learning, and addiction.\n\nBecause of its role in memory, ACUTE blockade of glutamate NMDA receptors confers the amnestic property of certain medications (ie, ketamine) and some drugs of illicit use (ie, phencyclidine [PCP]). However, CHRONIC blockade (eg, memantine) can exert NEUROPROTECTIVE effects by dampening glutamate-induced excitotoxicity (ie, neuron apoptosis due to calcium overload).\n\n(Choice A) Dopamine can be either excitatory or inhibitory depending on the receptor subtype. D₂ receptors are generally coupled to G proteins that inhibit protein kinase A, leading to the opening of potassium channels that INHIBIT neuronal depolarization.\n\n(Choice B) GABA is the chief INHIBITORY neurotransmitter, causing postsynaptic hyperpolarization via increased chloride and bicarbonate influx (ie, ionotropic GABA-A ion channel) or increased potassium efflux (ie, metabotropic GABA-B receptor).\n\n(Choice D) The glycine receptor causes INHIBITORY postsynaptic hyperpolarization via increasing membrane permeability to chloride. This receptor mediates inhibitory interneuron transmission in the spinal cord.\n\n(Choice E) The norepinephrine alpha₂ receptor is located predominantly on PRESYNAPTIC (not postsynaptic) nerve terminals throughout the CNS and the peripheral nervous system. Activation of these receptors inhibits norepinephrine release from the nerve terminal, inducing SYMPATHOLYTIC effects (eg, reduced heart rate, vasodilation).",
+    "zh": "该实验的顶部面板展示了一个经典的兴奋性突触后电位 (EPSP)，一种小的去极化，它使突触后神经元更接近于完全动作电位放电的阈值。EPSP 伴随着细胞内钙的升高，{{exhibit_3}} 表明所涉及的突触后受体至少部分通过增加钙电导来发挥作用。当与谷氨酸结合时，谷氨酸 NMDA 受体对阳离子变得通透，引起净去极化（钠和钙内流 > 钾外流）。钙的增加也启动了第二信使信号级联反应（例如，蛋白激酶 C）来调节突触可塑性；重复刺激突触后神经元使其反应更灵敏，从而随着时间的推移产生更强的 EPSP。这一过程被称为长时程增强 (LTP)，它决定了海马神经元之间的突触强度，并在记忆、学习和成瘾的基础上发挥着关键作用。\n\n由于其在记忆中的作用，急性阻断谷氨酸 NMDA 受体会赋予某些药物（即氯胺酮）和一些非法使用药物（即苯环利定 [PCP]）的遗忘特性。 然而，慢性阻断（例如，美金刚）可以通过抑制谷氨酸诱导的兴奋性毒性（即，由于钙超载引起的神经元凋亡）来发挥神经保护作用。\n\n（选项 A）多巴胺可以是兴奋性的，也可以是抑制性的，这取决于受体亚型。 D₂ 受体通常与抑制蛋白激酶 A 的 G 蛋白偶联，导致钾通道开放，从而抑制神经元去极化。\n\n（选项 B）GABA 是主要的抑制性神经递质，通过增加氯离子和碳酸氢根离子内流（即，离子型 GABA-A 离子通道）或增加钾离子外流（即，代谢型 GABA-B 受体）引起突触后超极化。\n\n（选项 D）甘氨酸受体通过增加对氯离子的膜通透性来引起抑制性突触后超极化。该受体介导脊髓中的抑制性中间神经元传递。\n\n（选项 E）去甲肾上腺素 α₂ 受体主要位于整个 CNS 和周围神经系统中的突触前（而非突触后）神经末梢。激活这些受体可抑制神经末梢释放去甲肾上腺素，从而诱导拟交感神经抑制作用（例如，心率降低，血管舒张）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of synaptic plasticity, specifically long-term potentiation (LTP), and the role of specific neurotransmitter receptors, particularly the NMDA receptor, in this process. It assesses the ability to interpret electrophysiological data showing increased postsynaptic potential and intracellular calcium concentration following stimulation.\n\nThe approach to solving this question involves correlating the observed physiological changes (EPSP and increased intracellular calcium) with the known functions of different neurotransmitter receptors. Recognizing that LTP is an excitatory process involving calcium influx and that NMDA receptors are crucial for this mechanism is key to identifying the correct answer.",
+    "zh": "这个问题测试了对突触可塑性的理解，特别是长时程增强 (LTP)，以及特定神经递质受体（尤其是 NMDA 受体）在此过程中的作用。它评估了解释电生理数据的能力，这些数据表明刺激后突触后电位和细胞内钙浓度的增加。\n\n解决此问题的方法包括将观察到的生理变化（EPSP 和细胞内钙增加）与不同神经递质受体的已知功能相关联。认识到 LTP 是一个涉及钙内流的兴奋性过程，并且 NMDA 受体对此机制至关重要，是确定正确答案的关键。"
+  },
+  "tags": "Long-term potentiation; Hippocampal neurons; Synaptic transmission; Patch-clamp recording; Postsynaptic potential; Intracellular calcium concentration; Glutamate NMDA receptor; Excitatory neurotransmission; Memory; Learning; Neurophysiology",
+  "category": "Neuro",
+  "question_id": "19722",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\19722",
+  "extracted_at": "2025-11-05T19:38:34.070874",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:37:58.852111",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

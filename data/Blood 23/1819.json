@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "An investigator is studying a line of tumor cells that has developed resistance to several anticancer agents. The tumor cells are exposed to various chemotherapeutic agents, and the intracellular drug concentration is subsequently measured. Following exposure to doxorubicin, the intracellular drug concentration is reduced compared to control cells with no doxorubicin resistance. Western blot analysis shows the tumor cells have increased expression of a specific glycoprotein.",
+    "zh": "一名研究人员正在研究一组对几种抗癌药物产生耐药性的肿瘤细胞。将肿瘤细胞暴露于各种化疗药物，随后测量细胞内药物浓度。在暴露于多柔比星后，细胞内药物浓度与没有多柔比星耐药性的对照细胞相比降低。蛋白质印迹分析显示肿瘤细胞对特定糖蛋白的表达增加。"
+  },
+  "question": {
+    "en": "This protein most likely has which of the following functions?",
+    "zh": "这种蛋白质最有可能具有以下哪种功能？"
+  },
+  "options": {
+    "A": {
+      "en": "Apoptosis regulator",
+      "zh": "细胞凋亡调节剂"
+    },
+    "B": {
+      "en": "ATP-dependent transporter",
+      "zh": "ATP 依赖性转运蛋白"
+    },
+    "C": {
+      "en": "Cell adhesion molecule",
+      "zh": "细胞粘附分子"
+    },
+    "D": {
+      "en": "DNA repair enzyme",
+      "zh": "DNA 修复酶"
+    },
+    "E": {
+      "en": "Receptor tyrosine kinase",
+      "zh": "受体酪氨酸激酶"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Tumor cells can develop the ability to resist chemotherapeutic agents, resulting in reduced drug efficacy. The tumor cells in this experiment have acquired resistance to multiple drugs by decreasing intracellular concentration of the drugs, most likely via increased expression of efflux pumps such as P-glycoprotein {{exhibit_1}}. \n\nP-glycoprotein, encoded by the multidrug resistance 1 gene (MDR1), is a transmembrane protein that functions as an ATP-dependent efflux pump. It is normally highly expressed in intestinal and renal tubular epithelial cells (functions to eliminate foreign compounds from the body) as well as in the endothelium of the vessels that form the blood-brain barrier (prevents penetration of foreign compounds into the CNS).\n\nIn tumor cells, increased expression of P-glycoprotein can increase the efflux of numerous chemotherapeutic agents from the cytosol, particularly hydrophobic agents (eg, doxorubicin, vincristine). This results in decreased intracellular drug accumulation and is an important mechanism underlying multidrug resistance.\n\n(Choices A and D) Tumor cells can evade apoptosis by expressing expression of DNA repair proteins (eg, endonucleases) and antiapoptotic proteins (eg, BCL2). As a result, they become more resistant to chemotherapeutic drugs that damage DNA and induce apoptosis. However, decreased intracellular drug concentration would not be expected.\n\n(Choice C) Cell adhesion molecules (eg, cadherins) are proteins located on the cell surface that mediate binding with other cells or with the extracellular matrix. Cell adhesion molecules are often downregulated in malignant tumors, allowing these cells to spread from their site of origin.\n\n(Choice E) Receptor tyrosine kinases (eg, HER2) generally mediate the effects of hormones that promote cell growth. HER2 is overexpressed in some cases of breast carcinoma and can be targeted by trastuzumab, a monoclonal antibody.",
+    "zh": "肿瘤细胞可以发展出抵抗化疗药物的能力，导致药物疗效降低。本实验中的肿瘤细胞通过降低药物的细胞内浓度获得了对多种药物的耐药性，这很可能通过增加外排泵（如 P-糖蛋白 {{exhibit_1}}）的表达来实现。\n\nP-糖蛋白由多药耐药 1 基因 (MDR1) 编码，是一种跨膜蛋白，其功能是作为 ATP 依赖性外排泵。它通常在肠和肾小管上皮细胞（功能是消除体内的异物）以及形成血脑屏障的血管内皮细胞（防止异物渗透到中枢神经系统）中高度表达。\n\n在肿瘤细胞中，P-糖蛋白表达增加可以增加细胞质中多种化疗药物的外排，特别是疏水性药物（例如，多柔比星、长春新碱）。这导致细胞内药物积累减少，是多药耐药性的一个重要机制。\n\n（选项 A 和 D）肿瘤细胞可以通过表达 DNA 修复蛋白（例如，核酸内切酶）和抗凋亡蛋白（例如，BCL2）来逃避细胞凋亡。因此，它们变得对损伤 DNA 并诱导细胞凋亡的化疗药物更具抵抗力。然而，不应期望细胞内药物浓度降低。\n\n（选项 C）细胞粘附分子（例如，钙黏蛋白）是位于细胞表面的蛋白质，介导与其他细胞或细胞外基质的结合。细胞粘附分子在恶性肿瘤中通常会被下调，从而使这些细胞从其起源部位扩散。\n\n（选项 E）受体酪氨酸激酶（例如，HER2）通常介导促进细胞生长的激素的作用。HER2 在某些乳腺癌病例中过表达，并且可以通过曲妥珠单抗（一种单克隆抗体）进行靶向。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of mechanisms of drug resistance in cancer cells, specifically the role of P-glycoprotein in multidrug resistance. It requires understanding how increased expression of efflux pumps can reduce intracellular drug concentration.\n\nTo solve this question, identify the key finding: reduced intracellular drug concentration despite exposure. Recognize that this is likely due to increased efflux. Recall that P-glycoprotein is an ATP-dependent efflux pump commonly associated with multidrug resistance in cancer cells.",
+    "zh": "这个问题考察了对癌细胞耐药机制的了解，特别是 P-糖蛋白在多药耐药性中的作用。它要求理解外排泵表达增加如何降低细胞内药物浓度。\n\n要解决这个问题，请确定关键发现：尽管暴露于药物，但细胞内药物浓度降低。认识到这很可能归因于外排增加。回想一下，P-糖蛋白是一种 ATP 依赖性外排泵，通常与癌细胞中的多药耐药性相关。"
+  },
+  "tags": "Drug resistance; Cancer; Chemotherapy; P-glycoprotein; ATP-dependent transporter; Multidrug resistance; MDR1; Efflux pump",
+  "category": "Blood",
+  "question_id": "1819",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1819",
+  "extracted_at": "2025-11-05T11:28:30.565918",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:29:21.292893",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

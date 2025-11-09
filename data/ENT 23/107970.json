@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 56-year-old man comes to the office due to feeling \"dizzy\" over the past 2 weeks. He works in a warehouse and says he experiences a brief, severe spinning sensation when looking up at objects on a high shelf. Vital signs are normal. Examination shows normal hearing. Ocular movements in a sitting position are normal, but when the patient's head is rotated to the right side off the examination table, he develops vertigo and rotatory nystagmus. The remainder of the examination shows no abnormalities. Which of the following is the most likely cause of this patient's symptoms? {{exhibit_1}}",
+    "zh": "一名56岁的男性因过去2周感到“头晕”而来诊。他在仓库工作，他说当抬头看高架上的物体时，会感到短暂而剧烈的旋转感。生命体征正常。检查显示听力正常。坐姿下的眼球运动正常，但当患者的头部向右侧偏离检查台时，他会出现眩晕和旋转性眼震。其余检查未见异常。以下哪项最可能是该患者症状的原因？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "以下哪项最可能是该患者症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Carotid baroreceptor dysfunction",
+      "zh": "颈动脉压力感受器功能障碍"
+    },
+    "B": {
+      "en": "Elevated endolymphatic hydrostatic pressure",
+      "zh": "内淋巴静水压力升高"
+    },
+    "C": {
+      "en": "Elevated hydrostatic pressure in the middle ear",
+      "zh": "中耳静水压力升高"
+    },
+    "D": {
+      "en": "Loose semicircular canal debris",
+      "zh": "半规管内碎屑松动"
+    },
+    "E": {
+      "en": "Transient cerebellar hypoperfusion",
+      "zh": "小脑短暂性低灌注"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has vertigo, often described as a spinning (as in this patient), whirling, or tilting sensation that can be due to an underlying disease in either the peripheral or central nervous system. This patient's brief (<1min), episodic vertigo triggered by head position changes (eg, sitting up from bed, looking around a kitchen) is consistent with benign paroxysmal positional vertigo (BPPV), the most common cause of vertigo.\n\nRotational head movement is sensed by the semicircular canals, which are filled with endolymphatic fluid. The relative movement of this fluid stimulates hair cells that generate electrical impulses which are transmitted to the brain. BPPV is most often attributed to canalithiasis, or the presence of crystalline debris (canaliths) in the semicircular canals. These canaliths disrupt the normal flow of fluid in the semicircular canals, leading to contradictory signaling from the corresponding canals. {{exhibit_2}}\n\nDiagnosis is based on clinical features. The Dix-Hallpike maneuver can help diagnose BPPV: vertigo and nystagmus are triggered as the patient quickly lies back into a supine position with the head rotated 45 degrees. No further workup is needed in patients with classic presentations. Treatment with canalith repositioning maneuvers (eg, Epley) is typically effective.\n\n(Choices A and E) Carotid baroreceptor dysfunction can lead to wide fluctuations in blood pressure. Hypoperfusion due to this or other causes (eg, arterial stenosis) can lead to lightheadedness, which is frequently interpreted by patients as dizziness. However, this patient's positive Dix-Hallpike and spinning sensation (vs lightheadedness) are more consistent with BPPV.\n\n(Choice B) Elevated endolymphatic pressure in the semicircular canals is thought to underly the development of Ménière disease. In contrast to this patient's presentation, Ménière disease classically presents with episodic vertigo lasting 20 minutes to 24 hours and is associated with unilateral hearing loss, tinnitus, and aural fullness.\n\n(Choice C) Infected fluid in the middle ear (ie, acute otitis media) can lead to elevated hydrostatic pressure in the middle ear, causing a bulging tympanic membrane and sometimes leading to tympanic membrane rupture. However, acute otitis media presents with pain, fevers, and hearing loss, features absent in this patient.\n\nEducational objective:\nBenign paroxysmal positional vertigo causes brief (<1 min) episodes of vertigo triggered by changes in head position. Triggering an episode by using provocative head positioning maneuvers (eg, Dix-Hallpike) is diagnostic.",
+    "zh": "该患者患有眩晕，通常被描述为旋转（如该患者）、打旋或倾斜感，这可能由于周围神经系统或中枢神经系统的潜在疾病引起。该患者短暂（<1分钟）、阵发性眩晕，由头部位置改变（例如，从床上坐起、环顾厨房）触发，与良性阵发性位置性眩晕（BPPV）一致，BPPV是眩晕最常见的原因。\n\n旋转头部运动由半规管感知，半规管充满内淋巴液。这种液体的相对运动刺激毛细胞，产生传导到大脑的电脉冲。BPPV最常归因于管石症，即半规管中存在晶体碎屑（管石）。这些管石会干扰半规管中液体的正常流动，导致来自相应管的矛盾信号。{{exhibit_2}}\n\n诊断基于临床特征。Dix-Hallpike 检查可帮助诊断 BPPV：当患者快速仰卧，头部旋转 45 度时，会触发眩晕和眼震。对于典型表现的患者，无需进一步检查。使用管石复位手法（例如，Epley）的治疗通常有效。\n\n（选项 A 和 E）颈动脉压力感受器功能障碍可导致血压大幅波动。由此或其他原因（例如，动脉狭窄）引起的低灌注可导致头昏眼花，患者经常将其解释为头晕。然而，该患者的 Dix-Hallpike 试验阳性和旋转感（而非头昏眼花）与 BPPV 更为一致。\n\n（选项 B）半规管内淋巴压力升高被认为是美尼尔病发展的基础。与该患者的表现相反，美尼尔病通常表现为阵发性眩晕，持续 20 分钟至 24 小时，并伴有单侧听力损失、耳鸣和耳胀。\n\n（选项 C）中耳感染性液体（即，急性中耳炎）可导致中耳静水压力升高，引起鼓膜膨胀，有时会导致鼓膜破裂。然而，急性中耳炎表现为疼痛、发热和听力损失，这些特征在该患者中不存在。\n\n教育目标：\n良性阵发性位置性眩晕会导致短暂（<1 分钟）的眩晕发作，由头部位置的变化触发。通过使用激发性头部定位手法（例如，Dix-Hallpike 检查）触发发作具有诊断意义。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the clinical presentation and diagnosis of benign paroxysmal positional vertigo (BPPV). It requires recognizing the characteristic features of BPPV, such as brief episodes of vertigo triggered by changes in head position. \n\nThe key to solving this question is identifying the positional nature of the vertigo and the absence of other associated symptoms like hearing loss or tinnitus. The Dix-Hallpike maneuver is a crucial diagnostic tool for BPPV, and the patient's symptoms align with this condition.",
+    "zh": "此题考察对良性阵发性位置性眩晕 (BPPV) 的临床表现和诊断的知识。它要求识别 BPPV 的特征，例如由头部位置变化触发的短暂性眩晕发作。\n\n解决此题的关键是识别眩晕的位置性质以及没有其他相关症状，如听力损失或耳鸣。Dix-Hallpike 检查是 BPPV 的关键诊断工具，患者的症状与此病症一致。"
+  },
+  "tags": "Benign paroxysmal positional vertigo; BPPV; Vertigo; Dizziness; Dix-Hallpike maneuver; Canalithiasis; Inner ear; Otolaryngology; Neurology",
+  "category": "ENT",
+  "question_id": "107970",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\ENT 23\\107970",
+  "extracted_at": "2025-11-05T14:13:15.378289",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:44:08.800920",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

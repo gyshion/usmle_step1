@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old man with cystic fibrosis comes to the clinic for a routine follow-up appointment. The patient has had multiple hospital admissions over the last few years for pulmonary exacerbations. Pulmonary function testing today will most likely reveal which of the following results? {{exhibit_1}}",
+    "zh": "一名患有囊性纤维化的 25 岁男性来到诊所进行例行复诊。过去几年，该患者曾多次因肺部加重而住院。今天的肺功能检查最有可能显示以下哪种结果？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Pulmonary function testing today will most likely reveal which of the following results?",
+    "zh": "今天的肺功能检查最有可能显示以下哪种结果？"
+  },
+  "options": {
+    "A": {
+      "en": "TLC ↓; FEV1/FVC ↓; FVC normal; RV ↑",
+      "zh": "TLC ↓；FEV1/FVC ↓；FVC 正常；RV ↑"
+    },
+    "B": {
+      "en": "TLC ↓; FEV1/FVC ↑; FVC ↓; RV ↓",
+      "zh": "TLC ↓；FEV1/FVC ↑；FVC ↓；RV ↓"
+    },
+    "C": {
+      "en": "TLC ↑; FEV1/FVC ↓; FVC ↓; RV ↑",
+      "zh": "TLC ↑；FEV1/FVC ↓；FVC ↓；RV ↑"
+    },
+    "D": {
+      "en": "TLC ↑; FEV1/FVC ↓; FVC ↓; RV ↑",
+      "zh": "TLC ↑；FEV1/FVC ↓；FVC ↓；RV ↑"
+    },
+    "E": {
+      "en": "TLC ↑; FEV1/FVC normal; FVC ↑; RV normal",
+      "zh": "TLC ↑；FEV1/FVC 正常；FVC ↑；RV 正常"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Cystic fibrosis (CF) is an autosomal recessive disorder caused by a mutation (eg, ΔF508) in the gene encoding the CF transmembrane conductance regulator. A defect in this chloride channel results in the build-up of thick, dehydrated mucus, which causes progressive damage to various organ systems, such as the respiratory and gastrointestinal tracts.\n\nThe lungs are the predominant organ affected in CF due to the accumulation of viscous secretions in the airways. Bacteria colonize the airways and cause recurrent infection and chronic inflammation that eventually leads to scarring of the bronchial walls (ie, bronchiectasis). Progressive bronchiectasis (ie, weakened, dilated bronchioles that collapse easily) and mucus-plugging result in obstructive lung disease. {{exhibit_2}}\n\nAn obstructive pattern on spirometry is characterized by decreased forced expiratory volume in 1 second (FEV1) and forced vital capacity (FVC). Because the decrease in FEV1 is more profound in obstructive disease, FEV1/FVC ratio is also reduced. The airway obstruction prevents full expiration (ie, causes air trapping), leading to increased residual volume (RV) and hyperinflated lungs with increased total lung capacity (TLC). This progressive increase is clinically apparent by a barrel-shaped chest on examination and lung hyperexpansion on x-ray. {{exhibit_3}}\n\n(Choices A and C) As RV increases or decreases, TLC follows concordantly; therefore, these results are unlikely to represent a true clinical situation.\n\n(Choice B) Restrictive lung disease (eg, pulmonary fibrosis) is characterized by a normal-to-increased FEV1/FVC ratio because FVC decreases to a greater extent than FEV1. RV and TLC are both decreased.\n\n(Choice E) Normal RV with increased TLC can be seen in highly trained athletes due to increased FVC.\n\nEducational objective:\nPulmonary function testing in cystic fibrosis reveals an obstructive pattern, characterized by a decreased FEV1/FVC ratio and an increased total lung capacity and residual volume.",
+    "zh": "囊性纤维化 (CF) 是一种常染色体隐性遗传病，由编码 CF 跨膜电导调节器的基因突变（例如，ΔF508）引起。 这种氯离子通道的缺陷导致浓稠、脱水的粘液积聚，从而对各种器官系统造成进行性损伤，如呼吸道和胃肠道。\n\n由于气道中粘稠分泌物的积聚，肺是 CF 中受影响的主要器官。 细菌定植于气道并引起反复感染和慢性炎症，最终导致支气管壁瘢痕形成（即，支气管扩张）。 进行性支气管扩张（即，变弱、扩张的细支气管容易塌陷）和粘液阻塞导致阻塞性肺病。 {{exhibit_2}}\n\n在肺活量测定中，阻塞性模式的特征是 1 秒用力呼气量 (FEV1) 和用力肺活量 (FVC) 降低。 由于 FEV1 的降低在阻塞性疾病中更明显，因此 FEV1/FVC 比率也会降低。 气道阻塞阻止完全呼气（即，导致气体滞留），导致残余量 (RV) 增加和肺过度充气，总肺活量 (TLC) 增加。 这种进行性增加在检查中通过桶状胸和 X 光片上的肺过度扩张临床可见。 {{exhibit_3}}\n\n（选项 A 和 C）随着 RV 的增加或减少，TLC 相应地变化； 因此，这些结果不太可能代表真实的临床情况。\n\n（选项 B）限制性肺病（例如，肺纤维化）的特征是 FEV1/FVC 比率正常到升高，因为 FVC 的降低程度大于 FEV1。 RV 和 TLC 均降低。\n\n（选项 E）在训练有素的运动员中，由于 FVC 增加，可见 RV 正常，TLC 增加。\n\n教育目标：\n囊性纤维化的肺功能检查显示阻塞模式，其特征是 FEV1/FVC 比率降低以及总肺活量和残余量增加。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pulmonary function test interpretation in the context of cystic fibrosis, specifically identifying the pattern consistent with obstructive lung disease. Key findings include decreased FEV1/FVC ratio, increased total lung capacity, and increased residual volume. \n\nTo solve this question, recall that cystic fibrosis leads to mucus plugging and bronchiectasis, resulting in an obstructive pattern. Recognize the characteristic PFT changes associated with obstructive lung disease: decreased FEV1/FVC ratio due to disproportionate reduction in FEV1, and increased TLC and RV due to air trapping.",
+    "zh": "此题考察了在囊性纤维化背景下对肺功能测试结果的解读，特别是确定与阻塞性肺病相符的模式。关键发现包括 FEV1/FVC 比率降低、总肺活量增加和残余量增加。\n\n要解决这个问题，请回忆一下囊性纤维化会导致粘液阻塞和支气管扩张，从而导致阻塞模式。 认识与阻塞性肺病相关的特征性肺功能检查变化：由于 FEV1 减少不成比例，导致 FEV1/FVC 比率降低，以及由于气体滞留导致 TLC 和 RV 增加。"
+  },
+  "tags": "Cystic fibrosis; Pulmonary function tests; Obstructive lung disease; FEV1/FVC ratio; Total lung capacity; Residual volume; Bronchiectasis; Respiratory system",
+  "category": "Chest",
+  "question_id": "19379",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\19379",
+  "extracted_at": "2025-11-05T11:42:21.638275",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:37:35.997388",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

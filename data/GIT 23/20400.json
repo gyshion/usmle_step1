@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old woman comes to the office due to progressive fatigue and dizziness for several months. She also has intermittent loose stools and abdominal cramps but no hematochezia, melena, vomiting, or abnormal menses. Vital signs are within normal limits. Conjunctival pallor is present. The abdomen is mildly distended but nontender. Laboratory evaluation reveals anemia and a low ferritin level. Fecal occult blood testing is negative. An upper endoscopy is performed and reveals no visible abnormalities of the stomach or duodenum, although biopsies of the duodenum are significant for intraepithelial lymphocytosis. {{exhibit_1}} Which of the following is the most likely cause of this patient's condition?",
+    "zh": "一名25岁女性因进行性疲劳和头晕数月来诊。她还间断性出现稀便和腹部绞痛，但无便血、黑便、呕吐或月经异常。生命体征在正常范围内。结膜苍白。腹部轻度膨胀但无压痛。实验室评估显示贫血和低铁蛋白水平。粪便隐血试验阴性。进行上消化内镜检查，显示胃或十二指肠无明显异常，但十二指肠活检对上皮内淋巴细胞增多有重要意义。{{exhibit_1}} 以下哪项最可能是该患者病情的病因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's condition?",
+    "zh": "以下哪项最可能是该患者病情的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Brush border enzyme deficiency",
+      "zh": "刷状缘酶缺乏症"
+    },
+    "B": {
+      "en": "Helicobacter pylori infection",
+      "zh": "幽门螺杆菌感染"
+    },
+    "C": {
+      "en": "HLA-associated autoimmune disorder",
+      "zh": "HLA相关自身免疫性疾病"
+    },
+    "D": {
+      "en": "Irritable bowel syndrome",
+      "zh": "肠易激综合征"
+    },
+    "E": {
+      "en": "Nonsteroidal anti-inflammatory drugs",
+      "zh": "非甾体抗炎药"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with loose stools and crampy abdominal pain has celiac disease, an autoimmune disorder of the small intestine triggered by dietary gluten. Besides intestinal symptoms, celiac disease commonly causes nutrient malabsorption that leads to weight loss, steatorrhea (ie, greasy, malodorous stools), and deficiency of iron (eg, anemia, low serum ferritin) and vitamin D (eg, loss of bone density). {{exhibit_2}}\n\nInitial testing for celiac disease typically includes an anti-tissue transglutaminase IgA assay. The diagnosis is confirmed with duodenal biopsy. The earliest histologic finding is intraepithelial lymphocytosis; crypt hyperplasia and villous blunting develop later as the disorder progresses.\n\nCeliac disease occurs almost exclusively (>99%) in individuals with an HLA-DQ2 or -DQ8 serotype. These variants must be present on antigen-presenting cells for recognition of deamidated gliadin (a breakdown product of gluten) and induction of the T-cell-mediated response.\n\n(Choice A) Lactose intolerance is caused by a deficiency in lactase, an enzyme located on the small intestine brush border. Although diarrhea is common, lactose intolerance does not cause iron deficiency anemia or intraepithelial lymphocytosis.\n\n(Choices B and E) Both Helicobacter pylori and nonsteroidal anti-inflammatory drugs can cause iron deficiency due to chronic upper gastrointestinal blood loss. However, they typically cause gastritis, duodenitis, or peptic ulcer disease, none of which was identified during this patient's endoscopy. Diarrhea, duodenal lymphocytosis, and a negative fecal occult blood test make celiac disease more likely.\n\n(Choice D) Irritable bowel syndrome is a disorder of bowel motility that causes abdominal pain associated with defecation, as well as diarrhea and/or constipation. It does not cause iron deficiency anemia or duodenal intraepithelial lymphocytosis.\n\nEducational objective:\nCeliac disease is an autoimmune disorder triggered by dietary gluten that develops almost exclusively in patients with HLA-DQ2 or -DQ8 serotypes. It often causes diarrhea and malabsorption (eg, iron deficiency anemia). The earliest histologic finding is duodenal intraepithelial lymphocytosis; crypt hyperplasia and villous blunting develop later. {{exhibit_3}}",
+    "zh": "这位出现稀便和腹部绞痛的患者患有乳糜泻，这是一种由饮食中麸质触发的小肠自身免疫性疾病。除了肠道症状外，乳糜泻常导致营养吸收不良，从而导致体重减轻、脂肪泻（即油腻、恶臭的粪便）以及铁（如贫血、低血清铁蛋白）和维生素D（如骨密度下降）的缺乏。{{exhibit_2}}\n\n乳糜泻的初步检查通常包括抗组织转谷氨酰胺IgA检测。诊断通过十二指肠活检确认。最早的组织学发现是上皮内淋巴细胞增多；隐窝增生和绒毛变钝随后发展，随着疾病的进展。\n\n乳糜泻几乎只发生在具有HLA-DQ2或-DQ8血清型个体的身上（>99%）。这些变异体必须存在于抗原呈递细胞上，才能识别脱酰胺的麦醇溶蛋白（麸质的分解产物）并诱导T细胞介导的反应。\n\n（选项A）乳糖不耐受是由乳糖酶（位于小肠刷状缘的一种酶）缺乏引起的。虽然腹泻很常见，但乳糖不耐受不会引起缺铁性贫血或上皮内淋巴细胞增多。\n\n（选项B和E）幽门螺杆菌和非甾体抗炎药均可因慢性上消化道失血引起缺铁。然而，它们通常会导致胃炎、十二指肠炎或消化性溃疡病，这些均未在该患者的内镜检查中发现。腹泻、十二指肠淋巴细胞增多和粪便隐血试验阴性使乳糜泻的可能性更大。\n\n（选项D）肠易激综合征是一种肠道动力障碍，可引起与排便相关的腹痛，以及腹泻和/或便秘。它不会引起缺铁性贫血或十二指肠上皮内淋巴细胞增多。\n\n教育目标：\n乳糜泻是一种由饮食中麸质触发的自身免疫性疾病，几乎只发生在具有HLA-DQ2或-DQ8血清型的患者身上。它经常引起腹泻和吸收不良（例如，缺铁性贫血）。最早的组织学发现是十二指肠上皮内淋巴细胞增多；隐窝增生和绒毛变钝随后发生。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of celiac disease presentation, diagnosis, and pathophysiology. It requires recognizing the constellation of symptoms (diarrhea, anemia, fatigue) and the key diagnostic finding of intraepithelial lymphocytosis on duodenal biopsy. \n\nThe best approach is to consider common causes of diarrhea and anemia, then evaluate whether the additional findings (negative fecal occult blood test, intraepithelial lymphocytosis) point towards a specific diagnosis like celiac disease. Understanding the role of HLA-DQ2/DQ8 in celiac disease is also helpful.",
+    "zh": "此问题考察对乳糜泻表现、诊断和病理生理学的了解。它需要识别症状的组合（腹泻、贫血、疲劳）和十二指肠活检中上皮内淋巴细胞增多的关键诊断发现。\n\n最好的方法是考虑腹泻和贫血的常见病因，然后评估额外的发现（粪便隐血试验阴性、上皮内淋巴细胞增多）是否指向乳糜泻等特定诊断。了解HLA-DQ2/DQ8在乳糜泻中的作用也很有帮助。"
+  },
+  "tags": "Celiac disease; Autoimmune disorder; Malabsorption; Diarrhea; Anemia; Intraepithelial lymphocytosis; HLA-DQ2; HLA-DQ8; Gastroenterology; Duodenal biopsy",
+  "category": "GIT",
+  "question_id": "20400",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\20400",
+  "extracted_at": "2025-11-05T14:31:04.839525",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:54:44.673104",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

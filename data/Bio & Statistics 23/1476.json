@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "6 year old boy with extreme sensitivity to sunlight and has developed freckles on his face, neck, and limbs since infancy. On physical examination, the skin in sun-exposed areas is dry and rough with numerous freckles and erythematous macules. There is an ulcerated plaque on the left face; a biopsy reveals squamous cell carcinoma. Further testing leads to a diagnosis of xeroderma pigmentosum.",
+    "zh": "一名6岁男孩，对阳光极度敏感，自婴儿时期以来，面部、颈部和四肢出现雀斑。体格检查显示，暴露在阳光下的皮肤干燥粗糙，有大量雀斑和红斑性斑疹。左侧面部有一处溃疡斑块；活检显示鳞状细胞癌。进一步检查确诊为色素性干皮病。"
+  },
+  "question": {
+    "en": "A defect in which of the following enzymes is most likely causing this patient's condition?",
+    "zh": "以下哪种酶的缺陷最有可能导致该患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "3' -5' exonuclease",
+      "zh": "3'-5' 外切核酸酶"
+    },
+    "B": {
+      "en": "DNA ligase",
+      "zh": "DNA 连接酶"
+    },
+    "C": {
+      "en": "Endonuclease",
+      "zh": "内切核酸酶"
+    },
+    "D": {
+      "en": "Helicase",
+      "zh": "解旋酶"
+    },
+    "E": {
+      "en": "Topoisomerase",
+      "zh": "拓扑异构酶"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The patient has xeroderma pigmentosum, an autosomal recessive disorder characterized by defects in NUCLEOTIDE EXCISION REPAIR. DNA can be damaged by ULTRAVIOLET rays, leading to formation of THYMINE DIMERS between 2 adjacent thymine residues. These thymine dimers are repaired by UV-SPECIFIC ENDONUCLEASE, an enzyme that is frequently deficient in patients with xeroderma pigmentosum.",
+    "zh": "该患者患有色素性干皮病，这是一种常染色体隐性遗传病，其特征是核苷酸切除修复缺陷。DNA 可被紫外线损伤，导致两个相邻的胸腺嘧啶残基之间形成胸腺嘧啶二聚体。这些胸腺嘧啶二聚体由 UV 特异性内切核酸酶修复，这种酶在色素性干皮病患者中经常缺乏。"
+  },
+  "summary": {
+    "en": "1) Xeroderma pigmentosum is an autosomal recessive disorder characterized by defective nucleotide excision repair often caused by a deficiency in UV-specific endonuclease. 2) Recognize the clinical presentation of xeroderma pigmentosum and associate it with a defect in nucleotide excision repair, specifically the UV-specific endonuclease.",
+    "zh": "1) 色素性干皮病是一种常染色体隐性遗传病，其特征是核苷酸切除修复缺陷，通常由 UV 特异性内切核酸酶缺乏引起。 2) 认识色素性干皮病的临床表现，并将其与核苷酸切除修复缺陷，特别是 UV 特异性内切核酸酶的缺陷联系起来。"
+  },
+  "tags": "Xeroderma Pigmentosum; Nucleotide Excision Repair; UV-specific Endonuclease; Thymine Dimers; DNA Repair",
+  "category": "Bio",
+  "question_id": "1476",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1476",
+  "extracted_at": "2025-11-05T10:59:15.574881",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:21:30.902888",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

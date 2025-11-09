@@ -1,0 +1,79 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old woman is brought to the emergency department because of acute chest pain. She also complains of diaphoresis, nausea, and lightheadedness. Her blood pressure is 90/60 mm Hg and pulse is 42/min. An ECG reveals ST-segment elevation in the inferior leads. {{exhibit_1}} The appropriate therapy is initiated, including a medication to treat her bradycardia. After initial treatment, her blood pressure is 120/70 mm Hg and pulse is 76/min. However, she now complains of severe right-sided eye pain. Which of the following is the most likely cause for this patient's eye pain?",
+    "zh": "一名62岁的女性因急性胸痛被送往急诊科。她还主诉出汗、恶心和头晕。她的血压为90/60 mmHg，脉搏为42次/分。心电图显示下壁导联ST段抬高。{{exhibit_1}} 启动适当的治疗，包括用于治疗心动过缓的药物。初步治疗后，她的血压为120/70 mmHg，脉搏为76次/分。然而，她现在主诉右眼严重疼痛。以下哪项最可能是该患者眼痛的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause for this patient's eye pain?",
+    "zh": "以下哪项最可能是该患者眼痛的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Iridocyclitis",
+      "zh": "虹膜睫状体炎"
+    },
+    "B": {
+      "en": "Retinal artery thrombosis",
+      "zh": "视网膜动脉血栓形成"
+    },
+    "C": {
+      "en": "Acute conjunctivitis",
+      "zh": "急性结膜炎"
+    },
+    "D": {
+      "en": "Glaucoma",
+      "zh": "青光眼"
+    },
+    "E": {
+      "en": "Cataract",
+      "zh": "白内障"
+    },
+    "F": {
+      "en": "Retinal vein thrombosis",
+      "zh": "视网膜静脉血栓形成"
+    },
+    "G": {
+      "en": "Retinal detachment",
+      "zh": "视网膜脱离"
+    },
+    "H": {
+      "en": "Vitreous hemorrhage",
+      "zh": "玻璃体出血"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The patient was treated with a medication for bradycardia. The ECG finding of ST-segment elevation in the inferior leads is diagnostic of an inferior myocardial infarction (MI). Inferior MIs are often caused by blockage of the right coronary artery, which supplies the sinoatrial (SA) and atrioventricular (AV) nodes. Therefore, inferior MIs are often associated with bradycardia. Atropine is a medication that can be used to treat bradycardia by blocking vagal influence on the SA and AV nodes. However, atropine has anticholinergic side effects, including mydriasis (pupil dilation) and a decrease in the outflow of aqueous humor. This can precipitate acute angle-closure glaucoma in susceptible individuals, especially those with shallow anterior chambers or higher than normal intraocular pressures. Acute closed-angle glaucoma presents with unilateral severe eye pain and visual disturbances such as halos. The patient's complaint of severe right-sided eye pain after receiving a medication for bradycardia is highly suggestive of acute angle-closure glaucoma. The table provided shows that atropine causes mydriasis and cycloplegia, and that glaucoma is contraindicated for its use. Options B, E, F, G, and H are less likely because these conditions typically do not cause acute, severe eye pain and are not directly precipitated by anticholinergic medications. Iridocyclitis (Choice A) can cause eye pain, but atropine does not precipitate it; rather, it is used to treat it by reducing inflammation and preventing adhesions.",
+    "zh": "患者接受了治疗心动过缓的药物。心电图显示下壁导联ST段抬高，诊断为下壁心肌梗死（MI）。下壁MI通常由右冠状动脉阻塞引起，该动脉供应窦房结（SA）和房室结（AV）。因此，下壁MI常与心动过缓相关。阿托品是一种可通过阻断迷走神经对SA和AV结的影响来治疗心动过缓的药物。然而，阿托品具有抗胆碱能副作用，包括瞳孔散大和房水流出减少。这可能导致易感个体发生急性闭角型青光眼，尤其是有前房浅或眼内压高于正常水平的人。急性闭角型青光眼表现为单侧严重眼痛和视力障碍，如光晕。患者在接受治疗心动过缓的药物后主诉右眼严重疼痛，高度提示急性闭角型青光眼。提供的表格显示，阿托品引起瞳孔散大和睫状肌麻痹，并且青光眼禁用其。选项B、E、F、G和H不太可能，因为这些疾病通常不会引起急性、严重的眼痛，并且不会直接由抗胆碱能药物引起。虹膜睫状体炎（选项A）可引起眼痛，但阿托品不会诱发它；相反，它用于治疗它，通过减少炎症和防止粘连。"
+  },
+  "summary": {
+    "en": "A patient with an inferior myocardial infarction treated for bradycardia develops severe right-sided eye pain. This is likely due to acute angle-closure glaucoma precipitated by the anticholinergic medication used to treat her bradycardia.",
+    "zh": "一名患有下壁心肌梗死且接受心动过缓治疗的患者出现严重的右眼疼痛。这很可能由于使用抗胆碱能药物治疗其心动过缓而诱发的急性闭角型青光眼所致。"
+  },
+  "tags": [
+    "myocardial infarction",
+    "bradycardia",
+    "atropine",
+    "glaucoma",
+    "ophthalmology",
+    "cardiology"
+  ],
+  "category": "Ophthalmology",
+  "question_id": "1372",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ophthalmology 23\\1372",
+  "extracted_at": "2025-11-05T19:42:44.635525",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:44:29.091194",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

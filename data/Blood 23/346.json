@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 17-year-old girl comes to the office for follow-up on anemia. She has taken iron supplements regularly since being diagnosed with iron deficiency anemia 3 months ago. However, the patient still feels fatigued and does not think that the supplements have improved her symptoms. She has occasional gingival bleeding when brushing her teeth. Menses occur every 27-28 days and last 7-8 days with heavy flow, sometimes requiring her to change pads every hour. Platelet count is normal. Further evaluation reveals that the patient's platelets do not agglutinate appropriately in response to ristocetin. When normal plasma is added to the solution of patient platelets and ristocetin, appropriate platelet agglutination occurs. {{exhibit_1}}",
+    "zh": "一名17岁女孩来诊所复诊，检查贫血情况。她自从3个月前被诊断为缺铁性贫血以来，一直定期服用铁补充剂。然而，患者仍然感到疲倦，并且认为补充剂并没有改善她的症状。她刷牙时偶尔会出现牙龈出血。月经每27-28天来一次，持续7-8天，经量大，有时需要每小时更换卫生巾。血小板计数正常。进一步评估显示，患者的血小板对利多霉素的反应不适当凝集。当将正常血浆添加到患者血小板和利多霉素的溶液中时，发生适当的血小板凝集。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is most likely deficient in this patient?",
+    "zh": "该患者最有可能缺乏以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Glycoprotein Ib receptors",
+      "zh": "糖蛋白Ib受体"
+    },
+    "B": {
+      "en": "Glycoprotein IIb-IIIa receptors",
+      "zh": "糖蛋白IIb-IIIa受体"
+    },
+    "C": {
+      "en": "Hageman factor",
+      "zh": "Hageman因子"
+    },
+    "D": {
+      "en": "Thromboxane A2",
+      "zh": "血栓烷A2"
+    },
+    "E": {
+      "en": "Von Willebrand factor",
+      "zh": "血管性血友病因子"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Von Willebrand factor (vWF) is an important hemostatic glycoprotein (GP) synthesized by endothelial cells and megakaryocytes. Following endothelial damage, vWF binds GP Ib receptors on the platelet membrane and mediates platelet adhesion to subendothelial collagen. Deficiency of vWF impairs platelet adhesion and can lead to easy bruising and prolonged mucocutaneous bleeding (eg, gingival bleeding, heavy menses).\n\nLaboratory workup in vWF deficiency reveals a normal platelet count and an abnormal ristocetin cofactor assay. The ristocetin cofactor assay measures in-vitro, vWF-dependent platelet agglutination (indicative of impaired platelet adhesion in-vivo). Ristocetin activates GP Ib receptors on platelets and makes them available for vWF binding; when the vWF level is decreased, there is poor platelet agglutination in the presence of ristocetin. When normal plasma that contains vWF is added, appropriate platelet agglutination occurs.\n\nvWF also serves as a carrier for factor VIII to prolong its half-life, and vWF deficiency can lead to functional deficiency of factor VIII that further contributes to bleeding complications. PTT may be normal or prolonged depending on the degree of factor VIII impairment.\n\nCombined oral contraceptives are often used for treatment of menorrhagia due to vWF deficiency. Patients can also be treated with desmopressin, which stimulates vWF release from endothelium.\n\n(Choice A) Bernard-Soulier syndrome (hereditary deficiency of GP Ib receptors) is characterized by thrombocytopenia, enlarged platelets, and mucocutaneous bleeding. Platelet agglutination to ristocetin will be abnormal and, because the deficiency is with GP Ib receptors and not vWF, the addition of normal plasma will not correct the agglutination.\n\n(Choice B) Hereditary deficiency of GP IIb/IIIa receptors occurs in Glanzmann thrombasthenia, which manifests with mucocutaneous bleeding. Platelet agglutination in response to ristocetin is normal because the levels of vWF and GP Ib receptors are normal.\n\n(Choice C) Congenital deficiency of factor XII (Hageman) causes marked PTT prolongation; however, it does not cause clinical bleeding complications. Instead, patients may have a tendency for thromboembolic complications for unclear reasons.\n\n(Choice D) Thromboxane A2 deficiency is associated with aspirin treatment due to irreversible inactivation of cyclooxygenase in platelets. The major effect is on GP IIb/IIIa-mediated platelet aggregation rather than GP Ib-mediated platelet adhesion; therefore, platelet agglutination to ristocetin is normal.\n\nEducational objective:\nFollowing endothelial damage, von Willebrand factor (vWF) binds glycoprotein Ib receptors on platelets to mediate platelet adherence. The ristocetin cofactor assay measures platelet agglutination via binding of glycoprotein Ib receptors to vWF; it will be abnormal in vWF deficiency but will correct with the addition of normal (vWF-containing) plasma.",
+    "zh": "血管性血友病因子 (vWF) 是一种重要的止血糖蛋白 (GP)，由内皮细胞和巨核细胞合成。在内皮损伤后，vWF 与血小板膜上的 GP Ib 受体结合，并介导血小板与内皮下胶原蛋白的粘附。vWF 缺乏会损害血小板粘附，并可能导致易于瘀伤和长期皮肤粘膜出血（例如，牙龈出血、月经过多）。\n\nvWF 缺乏症的实验室检查显示血小板计数正常，但利多霉素辅助因子试验异常。利多霉素辅助因子试验测量体外依赖于 vWF 的血小板凝集（表明体内血小板粘附受损）。利多霉素激活血小板上的 GP Ib 受体，使其可用于 vWF 结合；当 vWF 水平降低时，存在利多霉素时血小板凝集不良。当添加含有 vWF 的正常血浆时，发生适当的血小板凝集。\n\nvWF 还用作因子 VIII 的载体以延长其半衰期，并且 vWF 缺乏可导致因子 VIII 的功能性缺乏，从而进一步导致出血并发症。PTT 可能正常或延长，具体取决于因子 VIII 损伤的程度。\n\n联合口服避孕药通常用于治疗因 vWF 缺乏引起的月经过多。患者还可以使用去氨加压素治疗，去氨加压素可刺激内皮释放 vWF。\n\n(选项 A) Bernard-Soulier 综合征（GP Ib 受体遗传性缺乏症）的特征是血小板减少症、血小板增大和皮肤粘膜出血。对利多霉素的血小板凝集将异常，并且由于缺乏的是 GP Ib 受体而不是 vWF，添加正常血浆不能纠正凝集。\n\n(选项 B) GP IIb/IIIa 受体遗传性缺乏症发生在 Glanzmann 血小板无力症中，表现为皮肤粘膜出血。对利多霉素的血小板凝集正常，因为 vWF 和 GP Ib 受体的水平正常。\n\n(选项 C) XII 因子（Hageman 因子）先天性缺乏会导致明显的 PTT 延长；但是，它不会引起临床出血并发症。相反，患者可能由于不明原因而倾向于发生血栓栓塞并发症。\n\n(选项 D) 血栓烷 A2 缺乏与阿司匹林治疗相关，原因是血小板中环氧合酶的不可逆失活。主要影响是 GP IIb/IIIa 介导的血小板聚集，而不是 GP Ib 介导的血小板粘附；因此，对利多霉素的血小板凝集正常。\n\n教育目标：\n在内皮损伤后，血管性血友病因子 (vWF) 与血小板上的糖蛋白 Ib 受体结合以介导血小板粘附。利多霉素辅助因子试验通过糖蛋白 Ib 受体与 vWF 的结合来测量血小板凝集；在 vWF 缺乏症中它会异常，但通过添加正常（含 vWF）血浆会得到纠正。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of von Willebrand factor (vWF) deficiency, its clinical presentation (mucocutaneous bleeding, heavy menses), and laboratory findings (abnormal ristocetin cofactor assay). It also tests understanding of the role of vWF in platelet adhesion and its interaction with glycoprotein Ib receptors.\n\nTo solve this question, recognize the clinical features suggestive of a platelet adhesion disorder (gingival bleeding, heavy menses) with a normal platelet count. The key is the abnormal ristocetin cofactor assay that corrects with the addition of normal plasma, pointing towards vWF deficiency.",
+    "zh": "此问题测试对血管性血友病因子 (vWF) 缺乏症的了解、其临床表现（皮肤粘膜出血、月经过多）和实验室检查结果（异常的利多霉素辅助因子试验）。它还测试对 vWF 在血小板粘附中的作用及其与糖蛋白 Ib 受体相互作用的理解。\n\n要解决这个问题，请识别提示血小板粘附障碍的临床特征（牙龈出血、月经过多）以及正常的血小板计数。关键是异常的利多霉素辅助因子试验，该试验通过添加正常血浆来纠正，指向 vWF 缺乏症。"
+  },
+  "tags": "Von Willebrand factor deficiency; Platelet adhesion; Ristocetin cofactor assay; Mucocutaneous bleeding; Menorrhagia; Hematology; Coagulation disorders",
+  "category": "Blood",
+  "question_id": "346",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\346",
+  "extracted_at": "2025-11-05T11:33:18.012762",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:32:06.703707",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

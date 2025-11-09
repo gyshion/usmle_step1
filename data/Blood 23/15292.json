@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 60-year-old man comes to the emergency department due to 10 days of worsening cough, shortness of breath, and right-sided chest pain. The patient also has had low-grade fever, fatigue, and unspecified weight loss. A month ago, he was hospitalized for 2 days due to right lower lobe pneumonia. Although oral antibiotics were prescribed at discharge, he did not get the prescription filled because his symptoms had improved. Temperature is 38.2 C (100.8 F), blood pressure is 116/70 mm Hg, pulse is 104/min, and respirations are 18/min. Physical examination is notable for decreased breath sounds at the right lung base. Chest imaging reveals loculated pleural fluid on the right side. Laboratory analysis reveals the following:\n\nHemoglobin 10.4 g/dL\nMean corpuscular volume 96 µm³\nPlatelets 580,000/mm³\nLeukocytes 17,200/mm³ (80% neutrophils)\n\nBlood cell counts were normal a month ago at the time of hospital discharge.",
+    "zh": "一名60岁男性因咳嗽加重10天、呼吸困难和右侧胸痛来到急诊科就诊。患者还伴有低热、疲劳和不明原因的体重减轻。一个月前，他因右下肺肺炎住院2天。虽然出院时开了口服抗生素，但他没有去药房取药，因为他的症状有所改善。体温38.2摄氏度（100.8华氏度），血压116/70 mmHg，脉搏104次/分钟，呼吸18次/分钟。体格检查显示右肺底部呼吸音减弱。胸部影像学检查显示右侧有分隔性胸腔积液。实验室分析显示如下：\n\n血红蛋白10.4 g/dL\n平均红细胞体积 96 µm³\n血小板 580,000/mm³\n白细胞 17,200/mm³（80% 中性粒细胞）\n\n一个月前出院时，血细胞计数正常。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying cause of this patient's increased platelet count?",
+    "zh": "以下哪项最可能是该患者血小板计数升高的潜在原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Autonomous clonal proliferation of megakaryocytes",
+      "zh": "巨核细胞的自主克隆增殖"
+    },
+    "B": {
+      "en": "Chronic hypoxia-induced erythropoietin release",
+      "zh": "慢性缺氧诱导的促红细胞生成素释放"
+    },
+    "C": {
+      "en": "Cytokine-mediated megakaryocyte proliferation and maturation",
+      "zh": "细胞因子介导的巨核细胞增殖和成熟"
+    },
+    "D": {
+      "en": "Decreased platelet sequestration by the spleen",
+      "zh": "脾脏对血小板的隔离减少"
+    },
+    "E": {
+      "en": "Increased platelet production from extramedullary hematopoiesis",
+      "zh": "骨髓外造血增加血小板生成"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with partially treated pneumonia developed progressive pulmonary symptoms and pleural effusion indicating likely empyema. Although laboratory results were normal when he was discharged a month ago, his complete blood cell count now reveals signs of ongoing infection (neutrophilic leukocytosis) and inflammation (anemia, thrombocytosis).\n\nInfections are associated with the release of inflammatory cytokines (eg, IL-6, TNF-alpha) from activated immune cells. Elevated circulating concentrations of IL-6 stimulate the liver to increase production of thrombopoietin, which triggers megakaryocyte proliferation and maturation in the bone marrow. The subsequent increase in serum platelet count is called reactive thrombocytosis because it is a secondary process that typically resolves when the infection is adequately treated. Reactive thrombocytosis is seen in a wide range of inflammatory (eg, malignancy, rheumatoid disease, burns) and noninflammatory (eg, iron deficiency, hemolysis, blood loss, postsplenectomy) conditions and is the most common cause of elevated platelet count in all age groups.\n\nElevated circulating levels of inflammatory cytokines also trigger the liver to generate hepcidin, which down-regulates iron absorption in the gut and iron release by the reticuloendothelial system; this frequently leads to concurrent anemia of chronic disease (normocytic anemia) due to reduced iron availability for reticulocytosis.\n\n(Choices A and E) Essential thrombocythemia, a myeloproliferative disorder characterized by the autonomous clonal proliferation of megakaryocytes, is marked by thrombocytosis, vasomotor symptoms (eg, dizziness), and increased risk of thrombosis. Primary myelofibrosis is a chronic myeloproliferative disorder characterized by significant extramedullary hematopoiesis (eg, hepatosplenomegaly); it can occasionally be associated with thrombocytosis. It is quite unlikely that this patient developed a myeloproliferative disorder in the month since he was admitted to the hospital; it is far more likely that he has reactive thrombocytosis due to his ongoing infection.\n\n(Choice B) Chronic hypoxemia (eg, chronic obstructive pulmonary disease) can trigger the release of erythropoietin from interstitial cells in the kidneys, leading to increased erythrocytosis and subsequent polycythemia. This would not significantly affect platelet count.\n\n(Choice D) Patients with congestive splenomegaly often have thrombocytosis due to reduced platelet sequestration in the spleen. However, it is far more likely that this patient has reactive thrombocytosis due to empyema.\n\nEducational objective:\nReactive thrombocytosis is the most common cause of elevated platelet count in all age groups. It is generally caused by high levels of inflammatory cytokines (eg, IL-6), which prompt the liver to release thrombopoietin. Reactive thrombocytosis is seen in chronic infection, rheumatoid disease, and burns; it can also occur with hemolysis and iron deficiency anemia.",
+    "zh": "这位部分治疗的肺炎患者出现了进行性肺部症状和胸腔积液，提示可能为脓胸。虽然一个月前出院时实验室检查结果正常，但现在他的全血细胞计数显示有持续感染（中性粒细胞增多）和炎症（贫血、血小板增多）的迹象。\n\n感染与活化免疫细胞释放炎症细胞因子（如IL-6、TNF-alpha）有关。循环中IL-6浓度升高刺激肝脏增加血小板生成素的产生，进而触发骨髓中巨核细胞的增殖和成熟。随后血清血小板计数的增加被称为反应性血小板增多症，因为它是一个继发过程，通常在感染得到充分治疗后消退。反应性血小板增多症可见于各种炎症性（如恶性肿瘤、类风湿性疾病、烧伤）和非炎症性（如缺铁、溶血、失血、脾切除术后）疾病，并且是所有年龄组血小板计数升高的最常见原因。\n\n循环中炎症细胞因子水平升高也会触发肝脏产生铁调素，铁调素下调肠道对铁的吸收和网状内皮系统的铁释放；这通常会导致慢性病性贫血（正细胞性贫血），因为红细胞生成减少了铁的利用率。\n\n（选项 A 和 E）原发性血小板增多症是一种骨髓增生性疾病，其特征是巨核细胞的自主克隆增殖，其特征是血小板增多症、血管舒缩症状（如头晕）和血栓形成风险增加。原发性骨髓纤维化是一种慢性骨髓增生性疾病，其特征是明显的骨髓外造血（如肝脾肿大）；它有时可能与血小板增多症相关。这位患者自从住院以来的一个月内不太可能发展成骨髓增生性疾病；他更有可能是由于持续感染而出现反应性血小板增多症。\n\n（选项 B）慢性低氧血症（如慢性阻塞性肺病）可触发肾脏间质细胞释放促红细胞生成素，导致红细胞增多症和随后的红细胞增多症。这不会显着影响血小板计数。\n\n（选项 D）患有充血性脾肿大的患者通常由于脾脏中血小板隔离减少而出现血小板增多症。然而，这位患者更有可能因脓胸而出现反应性血小板增多症。\n\n教育目标：\n反应性血小板增多症是所有年龄组血小板计数升高的最常见原因。它通常由高水平的炎症细胞因子（如 IL-6）引起，这些细胞因子促使肝脏释放血小板生成素。反应性血小板增多症可见于慢性感染、类风湿性疾病和烧伤；它也可能发生在溶血和缺铁性贫血中。"
+  },
+  "summary": {
+    "en": "This question tests the etiology of thrombocytosis, specifically reactive thrombocytosis in the setting of infection and inflammation. It requires understanding the role of inflammatory cytokines in stimulating thrombopoietin production and megakaryocyte proliferation.\n\nTo solve this question, recognize the patient's ongoing infection (empyema) and the acute onset of thrombocytosis. Consider reactive causes of thrombocytosis, such as infection and inflammation, over chronic myeloproliferative disorders or other less likely etiologies.",
+    "zh": "本题考察血小板增多症的病因，特别是感染和炎症情况下的反应性血小板增多症。它需要了解炎症细胞因子在刺激血小板生成素产生和巨核细胞增殖中的作用。\n\n要解决这个问题，要认识到患者持续的感染（脓胸）和血小板增多症的急性发作。考虑血小板增多症的反应性病因，例如感染和炎症，而不是慢性骨髓增生性疾病或其他不太可能的病因。"
+  },
+  "tags": "Thrombocytosis; Reactive thrombocytosis; Cytokines; Thrombopoietin; Empyema; Infection; Inflammation; Hematology; Complete blood count",
+  "category": "Blood",
+  "question_id": "15292",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\15292",
+  "extracted_at": "2025-11-05T11:25:10.001606",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:27:44.861245",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

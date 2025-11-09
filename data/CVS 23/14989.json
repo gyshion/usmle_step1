@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 61-year-old woman is hospitalized due to chest pressure and shortness of breath. Two days ago her husband died in a car accident. The patient's medical history is significant for hypertension, hyperlipidemia, and gout. Five years ago, she was diagnosed with breast cancer and treated with surgery and chemotherapy. Blood pressure is 165/90 mm Hg and pulse is 95/min and regular. Physical examination is unremarkable. ECG shows normal sinus rhythm with T-wave inversions in the anterior leads. Echocardiogram shows hypokinesis of the apical wall with decreased left ventricular ejection fraction. Diagnostic coronary angiography shows no evidence of obstructive coronary artery disease. The patient is treated medically and discharged home. Four weeks later, she is seen in the office and has no symptoms. Repeat echocardiography demonstrates normal left ventricular wall motion and ejection fraction.",
+    "zh": "一位61岁女性因胸闷和呼吸短促而住院。 两天前，她的丈夫死于车祸。 患者的病史包括高血压、高脂血症和痛风。 五年前，她被诊断出患有乳腺癌，并接受了手术和化疗。 血压为165/90 mmHg，脉搏为95次/分钟，规律。 体格检查无特殊发现。 心电图显示窦性心律，前导联T波倒置。 超声心动图显示心尖壁运动减弱，左室射血分数降低。 诊断性冠状动脉造影显示无阻塞性冠状动脉疾病的证据。 患者接受内科治疗后出院。 四周后，她在诊所复诊，没有症状。 重复超声心动图显示左心室壁运动和射血分数正常。"
+  },
+  "question": {
+    "en": "Which of the following is the likely cause of this patient's initial presentation?",
+    "zh": "以下哪项是该患者初始表现的可能原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Catecholamine-induced myocardial stunning",
+      "zh": "儿茶酚胺诱导的心肌顿抑"
+    },
+    "B": {
+      "en": "Ischemia-induced transmural myocardial necrosis",
+      "zh": "缺血诱发的透壁性心肌坏死"
+    },
+    "C": {
+      "en": "Myocardial hypertrophy and fibrosis due to uncontrolled hypertension",
+      "zh": "由于血压控制不佳导致的心肌肥大和纤维化"
+    },
+    "D": {
+      "en": "Myocardial infiltration by mature lymphocytes",
+      "zh": "成熟淋巴细胞浸润心肌"
+    },
+    "E": {
+      "en": "Toxin-induced myocardial injury",
+      "zh": "毒素引起的心肌损伤"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient likely has stress-induced (takotsubo) cardiomyopathy, which is characterized by hypokinesis of the mid and apical segments and hyperkinesis of the basal segments of the left ventricle (LV), leading to systolic dysfunction and reduced ejection fraction. The condition is likely caused by a catecholamine surge in the setting of physical or emotional stress (eg, death of a loved one). Catecholamines may cause microvascular spasm leading to ischemia and myocardial stunning or they may cause direct myocardial dysfunction. The resulting segmental LV dysfunction creates a characteristic balloon shape on echocardiogram that mimics that of an octopus trap (takotsubo means \"octopus trap\" in Japanese). {{exhibit_1}}\n\nStress-induced cardiomyopathy most commonly affects postmenopausal women. Patients typically have chest pain that can mimic a myocardial infarction and may also have symptoms of heart failure (eg, dyspnea, lower extremity swelling). ECG often shows evidence of ischemia (eg, ST elevation, T-wave inversion) in the anterior precordial leads; however, coronary angiography typically reveals an absence of obstructive coronary artery disease. The condition usually resolves within several weeks with supportive treatment only.\n\n(Choice B) Ischemia-induced transmural myocardial necrosis is seen in patients with acute myocardial infarction, which is unlikely in this patient with no evidence of obstructive coronary artery disease on coronary angiography.\n\n(Choice C) LV hypertrophy due to uncontrolled hypertension typically leads to diastolic dysfunction without systolic wall motion abnormalities.\n\n(Choices D and E) Myocardial infiltration with lymphocytes is seen in patients with acute viral myocarditis. Toxin-induced myocardial injury can occur with exposure to a variety of agents, including alcohol, cocaine, and certain chemotherapy drugs (eg, anthracyclines). These myocardial insults typically lead to dilated cardiomyopathy with global (rather than segmental) LV systolic dysfunction.",
+    "zh": "该患者可能患有应激性（章鱼壶）心肌病，其特征是左心室（LV）中部和心尖段运动减弱，基底段运动增强，导致收缩功能障碍和射血分数降低。 这种情况很可能由身体或情绪应激（例如，亲人去世）时儿茶酚胺激增引起。 儿茶酚胺可能导致微血管痉挛，进而导致缺血和心肌顿抑，或者它们可能导致直接的心肌功能障碍。 导致的分段LV功能障碍会在超声心动图上产生特有的气球形状，类似于章鱼陷阱（Takotsubo在日语中意为“章鱼陷阱”）。 {{exhibit_1}}\n\n应激性心肌病最常影响绝经后妇女。 患者通常会出现胸痛，类似于心肌梗死，也可能出现心力衰竭的症状（例如，呼吸困难，下肢肿胀）。 心电图通常显示前胸导联有缺血的证据（例如，ST段抬高，T波倒置）； 然而，冠状动脉造影通常显示无阻塞性冠状动脉疾病。 这种情况通常在几周内通过支持性治疗即可缓解。\n\n（选项B）缺血诱导的透壁性心肌坏死见于急性心肌梗死患者，该患者的冠状动脉造影无阻塞性冠状动脉疾病的证据，因此不太可能。\n\n（选项C）由于血压控制不佳导致的左室肥大通常会导致舒张功能障碍，而没有收缩期壁运动异常。\n\n（选项D和E）淋巴细胞浸润心肌见于急性病毒性心肌炎患者。 接触多种药物，包括酒精、可卡因和某些化疗药物（例如，蒽环类药物）后，可能发生毒素诱导的心肌损伤。 这些心肌损伤通常会导致扩张型心肌病，并伴有整体（而不是分段）的左室收缩功能障碍。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of stress-induced (takotsubo) cardiomyopathy, its presentation, and differentiating features from other cardiac conditions. It emphasizes the role of catecholamine surge in response to physical or emotional stress leading to transient left ventricular dysfunction.\n\nTo solve this question, recognize the recent emotional stressor (husband's death), the echocardiogram findings of apical hypokinesis, and the absence of obstructive coronary artery disease on angiography. This combination points towards takotsubo cardiomyopathy.",
+    "zh": "这个问题考察对应激性（章鱼壶）心肌病、其表现以及与其他心脏病的区别特征的了解。 它强调儿茶酚胺激增在应对身体或情绪压力时所起的作用，从而导致短暂的左心室功能障碍。\n\n要解决这个问题，需要认识到近期的情绪应激源（丈夫去世）、超声心动图的心尖运动减弱的发现以及血管造影无阻塞性冠状动脉疾病。 这种组合指向章鱼壶心肌病。"
+  },
+  "tags": "Takotsubo cardiomyopathy; Stress-induced cardiomyopathy; Catecholamines; Myocardial stunning; Echocardiography; Cardiology; Emotional stress; Left ventricular dysfunction",
+  "category": "CVS",
+  "question_id": "14989",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\14989",
+  "extracted_at": "2025-11-05T11:54:28.322401",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:46:07.070755",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

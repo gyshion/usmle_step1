@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 29-year-old woman comes to the office due to unintentional weight loss, fatigue, and sweating. The patient has had no neck pain. Two months ago, she delivered a healthy boy with no perinatal complications. The patient does not breastfeed the infant. She has no chronic medical conditions and takes no medications. Blood pressure is 140/70 mm Hg, pulse is 110/min, and respirations are 16/min. Oxygen saturation is 98% on room air. Neck examination shows mild, diffuse enlargement of the thyroid gland with no tenderness. The remainder of the physical examination, including pelvic examination, is normal. Laboratory evaluation reveals low serum TSH, elevated serum thyroxine (T4), and elevated serum triiodothyronine (T3). Thyrotropin receptor antibodies are negative. ",
+    "zh": "一名29岁的女性因非意向性体重减轻、疲劳和出汗前来就诊。患者无颈部疼痛史。两个月前，她顺产一名健康男婴，无围产期并发症。患者未母乳喂养婴儿。她没有慢性疾病，也没有服用药物。血压140/70 mmHg，脉搏110次/分，呼吸16次/分。在室内空气中氧饱和度为98%。颈部检查显示甲状腺轻度弥漫性增大，无压痛。体格检查的其余部分，包括盆腔检查，均正常。实验室评估显示血清促甲状腺激素（TSH）低，血清甲状腺素（T4）升高，血清三碘甲状腺原氨酸（T3）升高。促甲状腺素受体抗体呈阴性。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "以下哪项最可能是该患者症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Exogenous intake of thyroid hormone",
+      "zh": "外源性摄入甲状腺激素"
+    },
+    "B": {
+      "en": "Granulomatous inflammation of the thyroid gland",
+      "zh": "甲状腺肉芽肿性炎症"
+    },
+    "C": {
+      "en": "Lymphocytic inflammation of the pituitary gland",
+      "zh": "淋巴细胞性垂体炎症"
+    },
+    "D": {
+      "en": "Lymphocytic inflammation of the thyroid gland",
+      "zh": "淋巴细胞性甲状腺炎症"
+    },
+    "E": {
+      "en": "Tumor production of β-HCG",
+      "zh": "肿瘤产生β-HCG"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has weight loss, tachycardia, and a painless, diffuse goiter; her serum thyroid hormone levels are elevated and TSH is suppressed, findings consistent with primary hyperthyroidism. In light of her recent pregnancy and negative thyrotropin receptor antibody assay (which makes Graves disease unlikely) this is most likely due to postpartum thyroiditis. {{exhibit_1}}\n\nPostpartum thyroiditis occurs within 12 months of pregnancy and is characterized by autoimmune destruction of thyroid follicles similar to that seen in chronic lymphocytic (Hashimoto) thyroiditis. Histologic inspection demonstrates lymphocytic infiltration, sometimes with the formation of germinal centers. The breakdown of follicle margins and loss of colloid may also be seen.\n\nPostpartum thyroiditis typically begins with a hyperthyroid phase due to the release of preformed thyroid hormone, followed by a transient hypothyroid phase due to the depletion of thyroid hormone and an eventual return to a euthyroid state.\n\n(Choice A) Intake of exogenous thyroid hormone can cause thyrotoxicosis with suppression of TSH. However, thyroid enlargement would not be seen (thyroid atrophy is more typical).\n\n(Choice B) Like postpartum thyroiditis, subacute granulomatous (de Quervain/postviral) thyroiditis can have a transient hyperthyroid phase due to the release of preformed thyroid hormone. However, patients typically have low-grade fever, myalgias, and a painful, tender goiter.\n\n(Choice C) Lymphocytic hypophysitis is an uncommon disorder that may occur in postpartum women. TSH would be low due to loss of pituitary thyrotrophs, but thyroid hormone levels would also be low (ie, central/secondary hypothyroidism).\n\n(Choice E) The beta subunit of hCG shares homology with TSH and can stimulate TSH receptors on follicular cells. Gestational trophoblastic neoplasia refers to a group of hCG-secreting tumors that most commonly occur in association with molar pregnancy (uncommon following live birth). Most patients have associated symptoms such as amenorrhea or abnormal uterine bleeding, and examination often shows uterine enlargement. {{exhibit_2}}\n\nEducational objective:\nPostpartum thyroiditis occurs within 12 months of pregnancy and is characterized by autoimmune destruction of thyroid follicles. It typically begins with a hyperthyroid phase due to the release of preformed thyroid hormone, followed by a hypothyroid phase due to depletion of thyroid hormone and an eventual return to a euthyroid state. Histologic inspection demonstrates lymphocytic infiltration with the formation of germinal centers, which is similar to chronic lymphocytic (Hashimoto) thyroiditis.",
+    "zh": "该患者出现体重减轻、心动过速和无痛性弥漫性甲状腺肿；其血清甲状腺激素水平升高，TSH受到抑制，这些发现与原发性甲状腺功能亢进症一致。鉴于她最近的怀孕史和促甲状腺素受体抗体检测阴性（这使得 Graves 病不太可能），这很可能由于产后甲状腺炎引起。{{exhibit_1}}\n\n产后甲状腺炎发生在妊娠后12个月内，其特征是甲状腺滤泡的自身免疫破坏，类似于慢性淋巴细胞性（桥本氏）甲状腺炎。组织学检查显示淋巴细胞浸润，有时伴有生发中心的形成。也可以看到滤泡边缘的破坏和胶体物质的丢失。\n\n产后甲状腺炎通常始于甲状腺功能亢进期，原因是释放预先形成的甲状腺激素，随后是由于甲状腺激素耗竭而引起的短暂甲状腺功能减退期，最终恢复到甲状腺功能正常状态。\n\n（选项A）摄入外源性甲状腺激素可引起甲状腺毒症，并抑制TSH。然而，不会看到甲状腺肿大（甲状腺萎缩更为典型）。\n\n（选项B）与产后甲状腺炎一样，亚急性肉芽肿性（de Quervain/病毒感染后）甲状腺炎也可能由于释放预先形成的甲状腺激素而出现短暂的甲状腺功能亢进期。然而，患者通常有低烧、肌痛和疼痛性、压痛性甲状腺肿。\n\n（选项C）淋巴细胞性垂体炎是一种罕见疾病，可能发生在产后妇女中。由于垂体促甲状腺素细胞的缺失，TSH会降低，但甲状腺激素水平也会降低（即，中枢/继发性甲状腺功能减退症）。\n\n（选项E）hCG的β亚基与TSH具有同源性，可以刺激滤泡细胞上的TSH受体。妊娠滋养细胞肿瘤是指一组分泌hCG的肿瘤，最常见于与葡萄胎相关的妊娠（活产后不常见）。大多数患者有相关症状，如闭经或异常子宫出血，检查通常显示子宫增大。{{exhibit_2}}\n\n教育目标：\n产后甲状腺炎发生在妊娠后12个月内，其特征是甲状腺滤泡的自身免疫破坏。它通常始于甲状腺功能亢进期，原因是释放预先形成的甲状腺激素，随后是由于甲状腺激素耗竭而引起的甲状腺功能减退期，最终恢复到甲状腺功能正常状态。组织学检查显示淋巴细胞浸润伴有生发中心的形成，这类似于慢性淋巴细胞性（桥本氏）甲状腺炎。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of postpartum thyroiditis, a common cause of transient hyperthyroidism in the postpartum period. It assesses the ability to differentiate it from other causes of hyperthyroidism based on clinical presentation and laboratory findings. \n\nThe key to solving this question is recognizing the postpartum period, the painless goiter, and the laboratory findings of low TSH and elevated thyroid hormones. Ruling out Graves' disease with negative thyrotropin receptor antibodies is also crucial.",
+    "zh": "此问题测试对产后甲状腺炎的了解，产后甲状腺炎是产后期间短暂性甲状腺功能亢进的常见原因。它评估了根据临床表现和实验室结果将其与其他甲状腺功能亢进症的原因区分开来的能力。\n\n解决此问题的关键是认识到产后时期、无痛性甲状腺肿以及低TSH和甲状腺激素升高的实验室结果。通过阴性的促甲状腺素受体抗体排除 Graves 病也很重要。"
+  },
+  "tags": "Postpartum thyroiditis; Hyperthyroidism; Thyroid disease; Autoimmune disease; Endocrinology; Thyroid hormones; TSH; Pregnancy",
+  "category": "Endo",
+  "question_id": "20366",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\20366",
+  "extracted_at": "2025-11-05T14:06:12.214072",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:40:34.072739",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

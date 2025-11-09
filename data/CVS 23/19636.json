@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A newborn is transferred to the neonatal intensive care unit 4 hours after delivery due to cyanosis. The infant was born via a spontaneous vaginal delivery at 41 weeks gestation to a 22-year-old gravida 2 para 2 woman. The pregnancy and delivery were uncomplicated. Three hours after delivery, circumoral cyanosis was noted after the infant was breastfed. Pulse oximetry readings were 98% in the right hand and 83% in the left foot. On physical examination, the patient has subcostal retractions and grunting. Cardiac examination reveals a 2/6 systolic murmur at the left lower sternal border. Femoral pulses are strong bilaterally. {{exhibit_1}} Which of the following is the most likely cause of this infant's cyanosis?",
+    "zh": "一名新生儿因发绀在分娩后 4 小时被转入新生儿重症监护病房。该婴儿通过自然阴道分娩出生，孕 41 周，母亲为 22 岁的孕 2 产 2 妇女。妊娠和分娩过程无并发症。分娩后 3 小时，在婴儿母乳喂养后发现口周发绀。脉搏血氧饱和度读数，右手为 98%，左脚为 83%。体格检查显示患者有肋下凹陷和呻吟。心脏检查显示左侧胸骨下缘有 2/6 级收缩期杂音。双侧股动脉搏动强。{{exhibit_1}} 下列哪项最可能是该婴儿发绀的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this infant's cyanosis?",
+    "zh": "下列哪项最可能是该婴儿发绀的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Left-to-right shunt via atrial septal defect",
+      "zh": "通过房间隔缺损的左向右分流"
+    },
+    "B": {
+      "en": "Left-to-right shunt via patent ductus arteriosus",
+      "zh": "通过动脉导管未闭的左向右分流"
+    },
+    "C": {
+      "en": "Left-to-right shunt via ventricular septal defect",
+      "zh": "通过室间隔缺损的左向右分流"
+    },
+    "D": {
+      "en": "Right-to-left shunt via atrial septal defect",
+      "zh": "通过房间隔缺损的右向左分流"
+    },
+    "E": {
+      "en": "Right-to-left shunt via patent ductus arteriosus",
+      "zh": "通过动脉导管未闭的右向左分流"
+    },
+    "F": {
+      "en": "Right-to-left shunt via ventricular septal defect",
+      "zh": "通过室间隔缺损的右向左分流"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This infant has central cyanosis, a condition characterized by blue discoloration of the mucous membranes and/or skin (not confined to the distal extremities). Central cyanosis is caused by circulation of deoxygenated hemoglobin because of a pulmonary, cardiac, or hematologic condition.\n\nIn this case, the neonate also has a postductal (left foot) oxygen saturation level that is significantly lower than the preductal saturation (right hand) measurement. This differential cyanosis (or differential hypoxemia) suggests that some deoxygenated blood from the pulmonary artery is flowing to the aorta and mixing with oxygenated blood from the left ventricle. In other words, this patient has an extracardiac right-to-left shunt across a patent ductus arteriosus (PDA), a condition typically associated with PERSISTENT PULMONARY HYPERTENSION of the newborn (PPHN) or congenital heart diseases with left-sided outflow tract obstruction (eg, severe aortic coarctation).\n\nPPHN results from failure of pulmonary vascular resistance (PVR) to decline following birth, and is more likely given this patient's strong femoral pulses (as opposed to the diminished pulses seen in left-sided outflow tract obstruction). In PPHN, suprasystemic pulmonary arterial pressure drives deoxygenated blood through the PDA to the aorta. Tricuspid regurgitation, which can occur in PPHN due to elevated PVR leading to tricuspid valve insufficiency, is the likely cause of this neonate's murmur. Patients also typically have respiratory distress (eg, grunting, retractions) within hours of birth due to an underlying pulmonary pathology (eg, pulmonary hypoplasia, meconium aspiration). {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\n(Choices A, B, and C) Left-to-right shunts through septal defects and PDAs are characterized by oxygenated blood crossing back into the right-sided circulation. Therefore, cyanosis does not occur.\n\n(Choices D and F) Examples of intracardiac right-to-left shunts include a patent foramen ovale in PPHN and a ventricular septal defect in tetralogy of Fallot. Because the mixing of deoxygenated and oxygenated blood occurs within the heart in these cases, preductal and postductal saturations would be equally low.\n\nEducational objective:\nDifferential cyanosis (ie, postductal < preductal oxygen saturation) in a neonate suggests right-to-left shunting across a patent ductus arteriosus, such as in persistent pulmonary hypertension of the newborn (PPHN). Patients with PPHN typically have an underlying pulmonary disorder with respiratory distress and strong femoral pulses.",
+    "zh": "该婴儿患有中心性发绀，其特征是黏膜和/或皮肤呈蓝色变色（不局限于肢端）。中心性发绀是由于肺部、心脏或血液系统疾病导致脱氧血红蛋白循环所致。\n\n在这种情况下，新生儿的导管后（左脚）血氧饱和度明显低于导管前（右手）血氧饱和度。这种差异性发绀（或差异性低氧血症）提示来自肺动脉的一些脱氧血流流向主动脉，并与来自左心室的含氧血混合。换句话说，该患者患有通过动脉导管未闭（PDA）的体外右向左分流，这种情况通常与新生儿持续性肺动脉高压 (PPHN) 或伴有左侧流出道梗阻的先天性心脏病（如重度主动脉缩窄）相关。\n\nPPHN 是由于出生后肺血管阻力 (PVR) 未能下降所致，考虑到该患者股动脉搏动强（与左侧流出道梗阻所见的脉搏减弱相反），更有可能发生 PPHN。在 PPHN 中，超体循环肺动脉压迫使脱氧血流通过 PDA 流向主动脉。三尖瓣反流，可在 PPHN 中发生，由于 PVR 升高导致三尖瓣功能不全，这可能是该新生儿杂音的可能原因。由于潜在的肺部病理（如肺发育不全、胎粪吸入），患者通常也会在出生后数小时内出现呼吸窘迫（如呻吟、凹陷）。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\n（选项 A、B 和 C）通过间隔缺损和 PDA 的左向右分流的特征是含氧血流回流到右侧循环。因此，不会发生发绀。\n\n（选项 D 和 F）心内右向左分流的例子包括 PPHN 中的卵圆孔未闭和法洛四联症中的室间隔缺损。由于在这些情况下，脱氧血和含氧血的混合发生在心脏内，导管前和导管后饱和度将同样低。\n\n教育目标：\n新生儿的差异性发绀（即，导管后 < 导管前血氧饱和度）提示通过动脉导管未闭的右向左分流，例如新生儿持续性肺动脉高压 (PPHN)。患有 PPHN 的患者通常有潜在的肺部疾病，伴有呼吸窘迫和强劲的股动脉搏动。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of differential cyanosis in newborns, specifically the presentation and underlying pathophysiology of persistent pulmonary hypertension of the newborn (PPHN). It also assesses the ability to differentiate between preductal and postductal oxygen saturation and their implications for diagnosing right-to-left shunts. \n\nThe key to solving this question is recognizing the differential cyanosis (lower postductal saturation) and the presence of strong femoral pulses, which points towards an extracardiac right-to-left shunt, most commonly due to PPHN with shunting across a patent ductus arteriosus. Understanding the pathophysiology of PPHN and its effect on pulmonary vascular resistance is crucial.",
+    "zh": "此题考察新生儿差异性发绀的知识，特别是新生儿持续性肺动脉高压 (PPHN) 的表现和潜在病理生理学。它还评估区分导管前和导管后血氧饱和度及其对诊断右向左分流的意义的能力。\n\n解决此题的关键是认识到差异性发绀（较低的导管后饱和度）和股动脉搏动强，这表明体外右向左分流，最常见的原因是 PPHN 并通过动脉导管未闭分流。了解 PPHN 的病理生理学及其对肺血管阻力的影响至关重要。"
+  },
+  "tags": "Persistent pulmonary hypertension of the newborn; Differential cyanosis; Patent ductus arteriosus; Right-to-left shunt; Neonatology; Pulmonary hypertension; Hypoxemia; Pulse oximetry; Cardiac murmur",
+  "category": "CVS",
+  "question_id": "19636",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\19636",
+  "extracted_at": "2025-11-05T12:06:49.388025",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:26:56.983169",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

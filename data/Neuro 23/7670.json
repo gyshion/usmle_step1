@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 41-year-old woman is undergoing evaluation for progressively worsening headaches. The patient has a history of hypertension and hyperlipidemia. She drinks a glass of wine daily and does not use tobacco or recreational drugs. Sagittal MRI is shown in the image below: {{exhibit_1}}",
+    "zh": "一位41岁女性正在接受对进行性加重头痛的评估。患者有高血压和高脂血症病史。她每天喝一杯葡萄酒，不吸烟或吸食娱乐性药物。矢状MRI如下图所示：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following physical examination findings is most likely to be found in this patient?",
+    "zh": "该患者最有可能出现以下哪种体格检查结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Facial palsy",
+      "zh": "面神经麻痹"
+    },
+    "B": {
+      "en": "hemianopia",
+      "zh": "偏盲"
+    },
+    "C": {
+      "en": "Hemiparesis",
+      "zh": "偏瘫"
+    },
+    "D": {
+      "en": "Unilateral ataxia",
+      "zh": "单侧共济失调"
+    },
+    "E": {
+      "en": "Upward gaze palsy",
+      "zh": "向上凝视麻痹"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has a large pituitary adenoma (macroadenoma) {{exhibit_2}}. In addition to metabolic effects related to alterations in pituitary hormone production, large adenomas can cause symptoms due to compression of surrounding structures; mass effect headaches are common.\n\nBecause of the close approximation of the pituitary to the optic chiasm, pituitary tumors can cause compression of optic nerve fibers (CN II) as they decussate at the chiasm, leading to impaired vision in the temporal fields (ie, bitemporal hemianopia). Unusually severe or acute pituitary enlargement (eg, pituitary apoplexy) can also occasionally affect the oculomotor nerve (CN III), leading to diplopia.\n\n(Choice A) Facial (eg, Bell) palsy typically results from inflammation (eg, herpes simplex virus) or surgical injury to the facial nerve (CN VII).\n(Choice C) Pituitary adenomas are not associated with hemiparesis, which is more commonly caused by stroke.\n(Choice D) Unilateral ataxia would result from unilateral damage to the cerebellum or sensory pathways, not from a lesion in the pituitary.\n(Choice E) Upward gaze palsy occurs as a component of Parinaud (ie, dorsal midbrain) syndrome, which results from damage to the posterior commissure.\n\nEducational objective:\nLarge pituitary adenomas can cause bitemporal hemianopia due to compression of the optic chiasm. {{exhibit_3}}",
+    "zh": "该患者患有大型垂体腺瘤（大腺瘤）{{exhibit_2}}。除了与垂体激素分泌改变相关的代谢影响外，大型腺瘤还会因压迫周围结构而引起症状； 占位效应性头痛很常见。\n\n由于垂体与视交叉的紧密接近，垂体肿瘤可压迫视神经纤维（CN II），当它们在交叉处交叉时，导致颞侧视野受损（即双颞侧偏盲）。异常严重或急性的垂体增大（例如，垂体卒中）有时也会影响动眼神经（CN III），导致复视。\n\n（选项 A）面神经（例如，贝尔氏）麻痹通常由炎症（例如，单纯疱疹病毒）或对面神经（CN VII）的手术损伤引起。\n（选项 C）垂体腺瘤与偏瘫无关，偏瘫更常见的原因是中风。\n（选项 D）单侧共济失调将由小脑或感觉通路的单侧损伤引起，而不是由垂体病变引起。\n（选项 E）向上凝视麻痹是帕里诺综合征（即，背侧中脑）的一个组成部分，帕里诺综合征是由于后连合损伤引起的。\n\n教学目标：\n大型垂体腺瘤可因压迫视交叉而引起双颞侧偏盲。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the clinical manifestations of a large pituitary adenoma, specifically focusing on the neurological deficits caused by mass effect on adjacent structures.\n\nThe approach to solving this question involves correlating the imaging findings of a pituitary macroadenoma with potential neurological deficits. Recognizing the anatomical proximity of the pituitary gland to the optic chiasm is crucial for identifying the most likely visual field defect.",
+    "zh": "此问题测试对大型垂体腺瘤临床表现的理解，特别是侧重于由占位效应对邻近结构引起的神经功能缺损。\n\n解决此问题的方法包括将垂体大腺瘤的影像学发现与潜在的神经功能缺损相关联。认识到垂体与视交叉的解剖学邻近性对于识别最可能的视野缺损至关重要。"
+  },
+  "tags": "Pituitary adenoma; Mass effect; Optic chiasm; Bitemporal hemianopia; Headache; Neurology; Endocrinology; Neuroimaging; MRI",
+  "category": "Neuro",
+  "question_id": "7670",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\7670",
+  "extracted_at": "2025-11-05T19:29:38.964554",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:28:29.435344",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

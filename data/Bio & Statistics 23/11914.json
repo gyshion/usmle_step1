@@ -1,0 +1,56 @@
+{
+  "question_stem": {
+    "en": "A 19-year-old woman is evaluated for new onset generalized tonic-clonic seizures. For the past several years, she has also been having erratic jerks of her arms and legs, and intermittent muscle weakness. The girl has multiple family members with similar symptoms. Neurological examination reveals decreased sensation in the lower extremities and a broad-based gait. Skeletal muscle biopsy shows ragged, red-appearing muscle fibers. Further analysis reveals that the patient's symptoms are due to a mutation affecting extranuclear DNA.",
+    "zh": "一名19岁的女性因新发全身性强直-阵挛性癫痫发作就诊。在过去的几年里，她也一直出现四肢不自主抽搐，以及间歇性肌无力。该女孩有多个家庭成员有类似的症状。神经系统检查显示下肢感觉减退和宽步态。骨骼肌活检显示出现粗糙、红色的肌纤维。进一步分析表明，患者的症状是由于影响细胞核外DNA的突变引起的。"
+  },
+  "question": {
+    "en": "Which of the following pedigrees is most likely to represent this patient's family history? (The arrow points to the patient.)",
+    "zh": "以下哪一个家谱最有可能代表该患者的家族史？（箭头指向患者。）"
+  },
+  "options": {
+    "A": {
+      "en": "{{exhibit_1}}",
+      "zh": "{{exhibit_1}}"
+    },
+    "B": {
+      "en": "{{exhibit_1}}",
+      "zh": "{{exhibit_1}}"
+    },
+    "C": {
+      "en": "{{exhibit_1}}",
+      "zh": "{{exhibit_1}}"
+    },
+    "D": {
+      "en": "{{exhibit_1}}",
+      "zh": "{{exhibit_1}}"
+    },
+    "E": {
+      "en": "{{exhibit_1}}",
+      "zh": "{{exhibit_1}}"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient most likely has a form of mitochondrial myopathy. Without properly functioning mitochondria, cells are unable to use oxidative phosphorylation to efficiently produce adequate levels of ATP. Organ systems such as the brain and skeletal muscle will be affected first due to their high metabolic demand relative to other tissues. Affected patients often present with myopathy (eg, muscle weakness, myalgia), lactic acidosis due to impaired aerobic glycolysis, and nervous system dysfunction (eg, neuropathy, seizures). Muscle biopsy classically shows ragged red fibers.\n\nMitochondria are unique organelles because they contain their own DNA, known as mtDNA. Offspring inherit mtDNA in a maternal fashion with no paternal contribution (maternal inheritance). Only affected females transmit abnormal mitochondria to offspring; transmission never occurs through males (even if they are affected).\n\n(Choice A) Autosomal dominant disorders affect 50% of all children (males and females) born to one affected parent. The disease will appear in consecutive generations, and father-to-son transmission can occur.\n\n(Choice B) Autosomal recessive conditions affect about 25% of all children (males and females) with two carrier parents. Offspring of a single affected parent will be carriers for the disorder. As a result, the disease can skip generations, but consanguineous families will show increased incidence.\n\n(Choice C) In X-linked dominant disorders, all female children of affected males will have the condition, but both female and male children of an affected female have a 50% chance of being affected. There is no father-to-son transmission.\n\n(Choice D) In X-linked recessive conditions, male offspring of a carrier female have a 50% chance of being affected, whereas female offspring have a 50% chance of being carriers. Female children of an affected father are obligate carriers. The disease can skip generations, and there is no father-to-son transmission.\n\nEducational objective:\nMitochondrial dysfunction frequently presents with myopathy, nervous system dysfunction, lactic acidosis, and ragged red fibers on muscle biopsy. Mitochondrial myopathies due to mtDNA mutations are inherited solely in a maternal fashion (ie, maternal inheritance). Therefore, transmission occurs only through affected females and never through males.",
+    "zh": "该患者最有可能患有一种线粒体肌病。如果线粒体功能不正常，细胞就无法使用氧化磷酸化来有效地产生足够的ATP。由于脑和骨骼肌等器官系统的代谢需求相对于其他组织较高，因此会首先受到影响。受影响的患者通常表现为肌病（例如，肌无力、肌痛）、由于有氧糖酵解受损引起的乳酸酸中毒以及神经系统功能障碍（例如，神经病变、癫痫发作）。肌肉活检通常显示粗糙的红染纤维。\n\n线粒体是独特的细胞器，因为它们含有自己的DNA，称为mtDNA。后代以母系方式遗传mtDNA，而没有父系贡献（母系遗传）。只有受影响的女性才会将异常的线粒体遗传给后代；男性（即使他们受到影响）也永远不会发生这种遗传。\n\n（选项A）常染色体显性遗传病会影响一个受影响的父母所生的所有孩子（男孩和女孩）的50%。该疾病将在连续的几代人中出现，并且可能发生父传子。\n\n（选项B）常染色体隐性遗传病会影响约25%的有两个携带者父母的（男孩和女孩）孩子。单个受影响父母的后代将成为该疾病的携带者。因此，该疾病可以跳代发生，但近亲结婚的家庭会表现出更高的发病率。\n\n（选项C）在X连锁显性遗传病中，受影响男性的所有女性子女都将患有该病，但受影响女性的子女（男孩和女孩）都有50%的几率受到影响。没有父传子。\n\n（选项D）在X连锁隐性遗传病中，携带者女性的男性后代有50%的几率受到影响，而女性后代有50%的几率成为携带者。受影响父亲的女儿是强制性携带者。该疾病可以跳代发生，并且没有父传子。\n\n教育目标：\n线粒体功能障碍经常表现为肌病、神经系统功能障碍、乳酸酸中毒和肌肉活检显示粗糙的红染纤维。由于mtDNA突变引起的线粒体肌病仅以母系方式遗传（即，母系遗传）。因此，只有通过受影响的女性才会发生遗传，而绝不会通过男性发生。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of mitochondrial inheritance patterns, particularly how mutations in mitochondrial DNA (mtDNA) are transmitted exclusively through the maternal line. The presentation includes features of mitochondrial myopathy such as seizures, myopathy, and ragged red fibers on muscle biopsy.\n\nTo solve this question, identify pedigrees showing maternal inheritance, where only affected females transmit the disease to their offspring. Exclude pedigrees with paternal transmission, autosomal inheritance, or X-linked inheritance.",
+    "zh": "这个问题测试了对线粒体遗传模式的了解，特别是线粒体DNA (mtDNA) 的突变如何仅通过母系遗传。表现包括线粒体肌病的特征，如癫痫发作、肌病和肌肉活检显示粗糙的红染纤维。\n\n要解决这个问题，需要确定显示母系遗传的家谱，其中只有受影响的女性才会将疾病遗传给后代。排除具有父系遗传、常染色体遗传或X连锁遗传的家谱。"
+  },
+  "tags": "Mitochondrial inheritance; Mitochondrial myopathy; Neuromuscular disorders; Genetics; Pedigree analysis; Maternal inheritance; mtDNA mutations; Seizures; Myopathy; Ragged red fibers",
+  "category": "Bio",
+  "question_id": "11914",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\11914",
+  "extracted_at": "2025-11-05T10:28:59.187776",
+  "translated_at": "2025-11-07T16:19:22.185032",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

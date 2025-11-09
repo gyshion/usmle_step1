@@ -1,0 +1,53 @@
+{
+  "question_stem": {
+    "en": "A large cohort study is conducted to assess the association between smoking and squamous cell carcinoma of the esophagus among middle-aged Chinese men. During 10 years of follow-up, smokers have 5 times the risk of esophageal carcinoma compared to non-smokers (relative risk = 5.0, 95% confidence interval = 2.9-7.1).",
+    "zh": "一项大型队列研究旨在评估吸烟与中国中年男性食管鳞状细胞癌之间的关联。 在 10 年的随访期间，吸烟者患食管癌的风险是非吸烟者的 5 倍（相对风险 = 5.0，95% 置信区间 = 2.9-7.1）。"
+  },
+  "question": {
+    "en": "According to the study results, what percentage of squamous cell carcinoma of the esophagus in smokers can be attributed to smoking?",
+    "zh": "根据研究结果，吸烟者中，多少比例的食管鳞状细胞癌可归因于吸烟？"
+  },
+  "options": {
+    "A": {
+      "en": "25% (12%)",
+      "zh": "25% (12%)"
+    },
+    "B": {
+      "en": "50% (13%)",
+      "zh": "50% (13%)"
+    },
+    "C": {
+      "en": "70% (10%)",
+      "zh": "70% (10%)"
+    },
+    "D": {
+      "en": "80% (52%)",
+      "zh": "80% (52%)"
+    },
+    "E": {
+      "en": "90% (11%)",
+      "zh": "90% (11%)"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The **attributable risk percent in the exposed (ARPexposed)** is an important measure of the impact of a risk factor. ARPexposed represents the excess risk in an exposed population that can be explained by exposure to a particular risk factor. It is calculated using the following formula:\n\nARPexposed = 100 × [(risk in exposed – risk in unexposed)/risk in exposed]\n\nThis basic definition can be used to derive an equivalent formula involving relative risk (RR):\n\nARPexposed = 100 × [(RR – 1)/RR], where RR = risk in exposed/risk in unexposed\n\nApplying the formula to this example:\n\nARPexposed = 100 × [(RR – 1)/RR] = 100 × [(5 – 1)/5] = 100 × (4/5) = 100 × 0.8 = 80%\n\nTherefore, according to the study results, 80% of esophageal squamous cell carcinoma cases in smokers were attributable to smoking.\n\nThe ARPexposed is related to the attributable risk (AR), which is simply the difference between risk in the exposed and risk in the unexposed.\n\n**Educational objective:**\nThe attributable risk percent (ARP) in the exposed represents the excess risk in the exposed population that can be attributed to the risk factor. It can be easily derived from the relative risk (RR) using the formula: ARPexposed = 100 × [(RR – 1)/RR].",
+    "zh": "暴露人群的**暴露人群的归因风险百分比 (ARPexposed)** 是衡量风险因素影响的重要指标。ARPexposed 表示暴露人群中可由暴露于特定风险因素解释的额外风险。它使用以下公式计算：\n\nARPexposed = 100 × [(暴露人群的风险 – 未暴露人群的风险)/暴露人群的风险]\n\n此基本定义可用于推导出涉及相对风险 (RR) 的等效公式：\n\nARPexposed = 100 × [(RR – 1)/RR]，其中 RR = 暴露人群的风险/未暴露人群的风险\n\n将该公式应用于此示例：\n\nARPexposed = 100 × [(RR – 1)/RR] = 100 × [(5 – 1)/5] = 100 × (4/5) = 100 × 0.8 = 80%\n\n因此，根据研究结果，吸烟者中 80% 的食管鳞状细胞癌病例可归因于吸烟。\n\nARPexposed 与归因风险 (AR) 相关，AR 只是暴露人群与未暴露人群之间风险的差异。\n\n**教育目标：**\n暴露人群中的归因风险百分比 (ARP) 代表暴露人群中可归因于风险因素的额外风险。可以使用公式 ARPexposed = 100 × [(RR – 1)/RR] 从相对风险 (RR) 中轻松推导出来。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of attributable risk percent in the exposed population (ARPexposed) and its calculation using relative risk (RR). Understanding this concept is crucial for interpreting the impact of risk factors on disease incidence within a specific population.\n\nThe key to solving this question is to recognize that the question is asking for the attributable risk percent and to apply the appropriate formula using the given relative risk value. Plugging the RR into the formula ARPexposed = 100 × [(RR – 1)/RR] directly leads to the correct answer.",
+    "zh": "此问题测试对暴露人群的归因风险百分比 (ARPexposed) 及其使用相对风险 (RR) 计算的理解。 理解此概念对于解释风险因素对特定人群中疾病发病率的影响至关重要。\n\n解决此问题的关键是认识到问题要求计算归因风险百分比，并使用给定的相对风险值应用适当的公式。 将 RR 插入公式 ARPexposed = 100 × [(RR – 1)/RR] 可直接得出正确答案。"
+  },
+  "tags": "Attributable risk; Relative risk; Epidemiology; Biostatistics; Squamous cell carcinoma; Esophageal cancer; Smoking; Cohort study",
+  "category": "Bio",
+  "question_id": "1186",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1186",
+  "extracted_at": "2025-11-05T10:28:04.390403",
+  "translated_at": "2025-11-07T16:19:06.931085",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

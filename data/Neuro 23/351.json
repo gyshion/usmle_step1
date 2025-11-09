@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old woman is brought to the emergency department after having a tonic-clonic seizure. She has a history of epilepsy and takes phenytoin. She does not use tobacco, alcohol, or recreational drugs. Physical examination is unremarkable. Laboratory studies show a lower than normal plasma phenytoin level. This patient most likely recently started taking which of the following medications?",
+    "zh": "一名23岁的女性因发生强直-阵挛性癫痫发作被送往急诊科。她有癫痫病史，并服用苯妥英钠。她不使用烟草、酒精或娱乐性药物。体格检查无特殊发现。实验室研究显示血浆苯妥英钠水平低于正常。该患者最近最有可能开始服用以下哪种药物？"
+  },
+  "question": {
+    "en": "This patient most likely recently started taking which of the following medications?",
+    "zh": "该患者最近最有可能开始服用以下哪种药物？"
+  },
+  "options": {
+    "A": {
+      "en": "Amoxicillin",
+      "zh": "阿莫西林"
+    },
+    "B": {
+      "en": "Rifampin",
+      "zh": "利福平"
+    },
+    "C": {
+      "en": "Fluconazole",
+      "zh": "氟康唑"
+    },
+    "D": {
+      "en": "Cimetidine",
+      "zh": "西咪替丁"
+    },
+    "E": {
+      "en": "Omeprazole",
+      "zh": "奥美拉唑"
+    },
+    "F": {
+      "en": "Oral contraceptives",
+      "zh": "口服避孕药"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "As with many other medications, phenytoin is metabolized by hepatic P450 oxidase. Plasma drug level, efficacy, and the severity of side effects are directly influenced by the rate of metabolism of phenytoin. The following features of phenytoin metabolism are important:\n\n*   Hepatic hydroxylation of phenytoin is dose-dependent. When low doses of phenytoin are administered, a large number of free enzyme molecules are available to rapidly bind and eliminate the drug. Higher doses of phenytoin cause the enzymes to be fully saturated; increasing the dose above the saturation limit prolongs drug metabolism (switches from first- to zero-order kinetics) and leads to a rapid rise in plasma levels.\n*   Phenytoin is an inducer of P450 oxidase. P450 inducers can increase the rate of elimination of medications that are metabolized by the liver, such as oral contraceptives, thereby reducing efficacy.\n*   Because phenytoin itself is metabolized by P450 enzymes, its level is affected when it is co-administered with other medications that induce or inhibit the P450 system. The co-administration of phenytoin with P450 inducers (eg, rifampin, carbamazepine) decreases concentration of phenytoin in plasma and diminishes its effectiveness.\n\n(Choice A) Amoxicillin does not affect the hepatic metabolism of phenytoin.\n\n(Choices C, D and E) Fluconazole, cimetidine, and omeprazole inhibit P450 enzymes and increase the concentration of phenytoin in the serum.\n\n(Choice F) Oral contraceptives are metabolized by hepatic P450 oxidase, but neither induce nor inhibit the activity of P450 oxidase.",
+    "zh": "与其他许多药物一样，苯妥英钠通过肝脏P450氧化酶代谢。血浆药物水平、疗效和副作用的严重程度直接受到苯妥英钠代谢速率的影响。苯妥英钠代谢的以下特征很重要：\n\n*   苯妥英钠的肝羟基化呈剂量依赖性。当给予低剂量苯妥英钠时，大量游离酶分子可快速结合并消除药物。较高剂量的苯妥英钠会导致酶完全饱和；将剂量增加到饱和极限以上会延长药物代谢（从一级动力学转变为零级动力学），并导致血浆水平迅速升高。\n*   苯妥英钠是P450氧化酶的诱导剂。P450诱导剂可以增加通过肝脏代谢的药物（如口服避孕药）的消除速率，从而降低疗效。\n*   由于苯妥英钠本身由P450酶代谢，因此当它与其他诱导或抑制P450系统的药物合用时，其水平会受到影响。苯妥英钠与P450诱导剂（如利福平、卡马西平）合用会降低血浆中苯妥英钠的浓度，并降低其疗效。\n\n(选项 A) 阿莫西林不影响苯妥英钠的肝脏代谢。\n\n(选项 C、D 和 E) 氟康唑、西咪替丁和奥美拉唑抑制P450酶，并增加血清中苯妥英钠的浓度。\n\n(选项 F) 口服避孕药由肝脏P450氧化酶代谢，但既不诱导也不抑制P450氧化酶的活性。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of drug interactions, specifically how other medications can affect the metabolism and serum levels of phenytoin, an anti-epileptic drug. It requires understanding of P450 enzyme induction and inhibition.\n\nTo solve this question, identify medications that are known P450 inducers. These medications will decrease phenytoin levels, leading to breakthrough seizures. Recognize that rifampin is a strong P450 inducer.",
+    "zh": "本题考察药物相互作用的知识，特别是其他药物如何影响抗癫痫药苯妥英钠的代谢和血清水平。它要求理解P450酶的诱导和抑制。\n\n要解决这个问题，请确定已知为P450诱导剂的药物。这些药物会降低苯妥英钠水平，导致爆发性癫痫发作。认识到利福平是一种强效的P450诱导剂。"
+  },
+  "tags": "Drug interactions; Phenytoin; Epilepsy; P450 enzymes; Rifampin; Seizures; Neurology; Pharmacology",
+  "category": "Neuro",
+  "question_id": "351",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\351",
+  "extracted_at": "2025-11-05T15:34:10.352714",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:26:09.047877",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

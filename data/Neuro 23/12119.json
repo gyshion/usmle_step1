@@ -1,0 +1,71 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man is brought to the emergency department after he suddenly became unresponsive at home. When the paramedics arrived at his residence, they found him pulseless with ventricular fibrillation. After 10 minutes of cardiopulmonary resuscitation, the patient regained spontaneous circulation. In the hospital, he is intubated and placed on mechanical ventilation. Vital signs remain stable. A therapeutic hypothermia protocol is initiated for the next 72 hours. Following rewarming, he remains comatose with fixed and dilated pupils. There is no direct or consensual pupillary response to light. MRI of the brain reveals diffuse loss of gray-white matter differentiation with sulcal effacement {{exhibit_1}}.",
+    "zh": "一名65岁男性在家中突然失去反应后被送往急诊科。当医护人员到达其住所时，发现他无脉搏并伴有室颤。在进行了10分钟的心肺复苏后，患者恢复了自主循环。在医院，他被插管并接受机械通气。生命体征保持稳定。在接下来的72小时内启动了治疗性低温协议。复温后，他仍处于昏迷状态，瞳孔固定和散大。对光无直接或间接的瞳孔反应。脑部MRI显示灰白质分化弥漫性丧失，伴有脑沟变浅 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "This patient's pupillary findings are most likely caused by damage to which of the following brain regions?",
+    "zh": "该患者的瞳孔表现最可能由以下哪个脑区损伤引起？"
+  },
+  "options": {
+    "A": {
+      "en": "Medulla",
+      "zh": "延髓"
+    },
+    "B": {
+      "en": "Midbrain",
+      "zh": "中脑"
+    },
+    "C": {
+      "en": "Occipital lobe",
+      "zh": "枕叶"
+    },
+    "D": {
+      "en": "Parietal lobe",
+      "zh": "顶叶"
+    },
+    "E": {
+      "en": "Pons",
+      "zh": "脑桥"
+    },
+    "F": {
+      "en": "Temporal lobe",
+      "zh": "颞叶"
+    },
+    "G": {
+      "en": "Thalamus",
+      "zh": "丘脑"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's presentation and MRI findings (eg, loss of gray-white matter differentiation with sulcal effacement) are consistent with anoxic brain injury due to cardiac arrest. The presence of nonreactive pupils to light stimulation following cardiac arrest carries a poor prognosis and indicates anoxic damage to the brainstem at the level of the upper midbrain.\n\nDuring the normal pupillary reflex, the optic nerve and tract transmit the light stimulus to the midbrain at the level of the superior colliculus, where it is received by the pretectal nucleus and subsequently relayed to the bilateral Edinger-Westphal nuclei. These nuclei subsequently project preganglionic parasympathetic fibers through the oculomotor nerve (CN III) to the ciliary ganglion, which then projects postganglionic fibers that innervate the sphincter pupillae muscle (constricts the pupil). When light is shone in one eye, both the ipsilateral pupil (direct response) and contralateral pupil (consensual response) constrict.\n\n(Choice A) The medulla contains the glossopharyngeal (CN IX) and vagus (CN X) nerves, which provide the afferent and efferent limbs of the gag reflex, respectively.\n\n(Choice C) The occipital lobe contains the primary visual cortex. Unilateral occipital lobe damage can cause contralateral homonymous hemianopia (± sparing of the macula), whereas bilateral occipital lesions may result in cortical blindness.\n\n(Choice D) The superior optic radiations (which carry information from the superior retina/inferior visual field) travel through the parietal lobe. Lesions can lead to contralateral homonymous inferior quadrantanopia.\n\n(Choice E) The pons contains the horizontal gaze center, which helps mediate the oculocephalic (doll's eye) reflex. It also contains the trigeminal (CN V) and facial (CN VII) nerves, which mediate the afferent and efferent limb of the corneal reflex, respectively.\n\n(Choice F) The inferior optic radiations (which carry information from the inferior retina/superior visual field) travel through the temporal lobe (ie, Meyer's loop). Lesions classically cause contralateral homonymous superior quadrantanopia.\n\n(Choice G) After passing through the optic tract, fibers containing information from the contralateral visual fields synapse in the lateral geniculate nucleus of the thalamus before fanning out into the optic radiations; lesions impacting this region lead to contralateral homonymous hemianopia. In contrast, the fibers that mediate the pupillary reflex synapse at the pretectal nucleus.\n\nEducational objective:\nThe upper midbrain contains the neural structures (eg, optic nerve, pretectal nuclei, Edinger-Westphal nuclei, oculomotor nerve) that mediate the direct and consensual pupillary light reflex. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "该患者的表现和MRI结果（例如，灰白质分化丧失伴脑沟变浅）与心脏骤停引起的缺氧性脑损伤相符。心脏骤停后对光刺激无反应的瞳孔预后不良，表明脑干在上中脑水平受到缺氧性损伤。\n\n在正常的瞳孔反射过程中，视神经和视束将光刺激传导到中脑上丘水平，在那里被前顶核接收，随后传递到双侧Edinger-Westphal核。这些核随后通过动眼神经（CN III）投射节前副交感神经纤维到睫状神经节，然后投射节后纤维支配瞳孔括约肌（使瞳孔收缩）。当光照射一只眼睛时，同侧瞳孔（直接反应）和对侧瞳孔（间接反应）都会收缩。\n\n（选项A）延髓包含舌咽神经（CN IX）和迷走神经（CN X），分别提供咽反射的传入和传出神经。\n\n（选项C）枕叶包含主要的视觉皮层。单侧枕叶损伤可导致对侧同侧偏盲（±黄斑保留），而双侧枕叶损伤可能导致皮质性失明。\n\n（选项D）上视放射（携带来自视网膜上部/下视野的信息）通过顶叶。病变可导致对侧同侧下象限盲。\n\n（选项E）脑桥包含水平凝视中心，有助于介导眼球头反射（娃娃眼反射）。它还包含三叉神经（CN V）和面神经（CN VII），分别介导角膜反射的传入和传出神经。\n\n（选项F）下视放射（携带来自视网膜下部/上视野的信息）通过颞叶（即Meyer环）。病变经典地导致对侧同侧上象限盲。\n\n（选项G）在穿过视束后，来自对侧视野的信息纤维在丘脑外侧膝状体核处突触，然后散开进入视放射；影响该区域的病变导致对侧同侧偏盲。相比之下，介导瞳孔反射的纤维在前顶核处突触。\n\n教育目标：\n上中脑包含神经结构（例如，视神经、前顶核、Edinger-Westphal核、动眼神经），介导直接和间接的瞳孔对光反射。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pupillary light reflex pathway and the impact of brainstem injury on pupillary function. Specifically, it assesses the ability to correlate clinical findings (fixed and dilated pupils) with the anatomical location of the lesion (midbrain) following anoxic brain injury.\n\nTo solve this question, recall the pupillary light reflex pathway, which involves the optic nerve, midbrain (pretectal nucleus and Edinger-Westphal nucleus), and oculomotor nerve. Recognize that damage to the midbrain disrupts this pathway, leading to fixed and dilated pupils, especially in the context of anoxic brain injury.",
+    "zh": "这个问题测试对瞳孔对光反射通路以及脑干损伤对瞳孔功能的影响的了解。具体来说，它评估了在缺氧性脑损伤后，将临床表现（固定和散大的瞳孔）与病变解剖学位置（中脑）相关联的能力。\n\n要解决这个问题，请回忆瞳孔对光反射通路，该通路涉及视神经、中脑（前顶核和Edinger-Westphal核）和动眼神经。认识到中脑的损伤会破坏该通路，导致瞳孔固定和散大，尤其是在缺氧性脑损伤的情况下。"
+  },
+  "tags": "Pupillary light reflex; Midbrain; Anoxic brain injury; Brainstem; Neurology; Coma; Cardiac arrest; Neuroanatomy",
+  "category": "Neuro",
+  "question_id": "12119",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\12119",
+  "extracted_at": "2025-11-05T15:13:52.859150",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:18:12.456850",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

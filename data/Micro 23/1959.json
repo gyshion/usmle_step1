@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A mother brings her 4-year-old son to see you because he has been experiencing decreased appetite, fever, and right-sided ear discharge for the past 24 hours. His past medical history is significant for three episodes of otitis media over the last year. You prescribe amoxicillin. Adding clavulanic acid to this treatment regimen would serve which of the following purposes?",
+    "zh": "一位母亲带她 4 岁的儿子来看您，因为他在过去 24 小时内出现了食欲下降、发烧和右耳流脓的症状。他的既往病史中，在过去一年有三次中耳炎发作。您开了阿莫西林。在此治疗方案中加入克拉维酸钾的作用是什么？"
+  },
+  "question": {
+    "en": "Adding clavulanic acid to this treatment regimen would serve which of the following purposes?",
+    "zh": "在此治疗方案中加入克拉维酸钾的作用是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Kill bacteria via a different mechanism of action",
+      "zh": "通过不同的作用机制杀死细菌"
+    },
+    "B": {
+      "en": "Decrease amoxicillin cleavage by immune cells",
+      "zh": "减少免疫细胞对阿莫西林的分解"
+    },
+    "C": {
+      "en": "Decrease amoxicillin cleavage by bacterial cells",
+      "zh": "减少细菌细胞对阿莫西林的分解"
+    },
+    "D": {
+      "en": "Slow liver metabolism of amoxicillin",
+      "zh": "减缓肝脏对阿莫西林的代谢"
+    },
+    "E": {
+      "en": "Decrease renal clearance of amoxicillin",
+      "zh": "减少阿莫西林的肾脏清除"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Certain strains of bacteria produce the beta-lactamase enzyme, which hydrolyzes the beta-lactam ring of penicillin family antibiotics rendering them ineffective. To help prevent this effect, beta-lactamase inhibiting compounds have been developed. The beta-lactamase inhibitors include clavulanic acid, sulbactam and tazobactam. Concurrent administration of a beta-lactamase inhibitor with a beta-lactamase susceptible antibiotic allows that antibiotic to retain its efficacy against the offending bacterium. For example, giving clavulanate together with amoxicillin expands amoxicillin's spectrum of activity to include strains of beta-lactamase synthesizing bacteria which would otherwise have been resistant to amoxicillin alone.\n\n(Choice A) Clavulanic acid has negligible intrinsic antibacterial activity.\n\n(Choice B) Immune cells do not produce beta-lactamases.\n\n(Choice D) Clavulanic acid has no effect on the biotransformation of amoxicillin in the liver. Moreover amoxicillin undergoes enterohepatic recirculation and is excreted primarily in unchanged form in the urine.\n\n(Choice E) Probenecid is a compound that decreases the renal clearance of penicillins by inhibiting the tubular organic acid secretion system. This agent has been utilized to prolong the action of penicillin in some settings.",
+    "zh": "某些细菌菌株会产生 β-内酰胺酶，该酶水解青霉素类抗生素的 β-内酰胺环，使其失效。为了帮助防止这种影响，已经开发了 β-内酰胺酶抑制剂。β-内酰胺酶抑制剂包括克拉维酸钾、舒巴坦和他唑巴坦。同时使用 β-内酰胺酶抑制剂和对 β-内酰胺酶敏感的抗生素，可使该抗生素保持其对病原菌的疗效。例如，将克拉维酸钾与阿莫西林一起使用，可扩大阿莫西林的活性谱，使其包括能够合成 β-内酰胺酶的细菌菌株，这些菌株原本对单独使用阿莫西林具有耐药性。\n\n（选项 A）克拉维酸钾的内在抗菌活性可忽略不计。\n\n（选项 B）免疫细胞不产生 β-内酰胺酶。\n\n（选项 D）克拉维酸钾对阿莫西林在肝脏中的生物转化没有影响。此外，阿莫西林会发生肝肠循环，主要以原形从尿液中排出。\n\n（选项 E）丙磺舒是一种通过抑制肾小管有机酸分泌系统来减少青霉素肾脏清除的化合物。该药物已用于在某些情况下延长青霉素的作用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of antibiotic resistance mechanisms and the role of beta-lactamase inhibitors in overcoming resistance to beta-lactam antibiotics like amoxicillin.\n\nThe key to solving this question is understanding that clavulanic acid inhibits bacterial beta-lactamase, preventing the breakdown of amoxicillin and allowing it to remain effective against resistant bacteria.",
+    "zh": "本题考察对抗菌素耐药机制的了解，以及 β-内酰胺酶抑制剂在克服对β-内酰胺类抗生素（如阿莫西林）的耐药性方面的作用。\n\n解决本题的关键是理解克拉维酸钾抑制细菌的 β-内酰胺酶，从而阻止阿莫西林的分解，使其对耐药细菌保持有效。"
+  },
+  "tags": "Otitis media; Amoxicillin; Clavulanic acid; Beta-lactamase inhibitors; Antibiotic resistance; Infectious diseases; Pharmacology",
+  "category": "Micro",
+  "question_id": "1959",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1959",
+  "extracted_at": "2025-11-05T15:02:55.048314",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:11:08.327980",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

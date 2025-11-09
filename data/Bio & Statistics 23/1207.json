@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A study evaluated the role of angiotensin-converting enzyme (ACE) inhibitors in the prevention of coronary events in patients with diabetes. During 5 years of follow-up, 120 out of 400 diabetic patients who had taken an ACE inhibitor developed an acute coronary event. Over the same time, 100 out of 300 diabetic patients who had not taken an ACE inhibitor experienced coronary events. What was the relative risk of developing a coronary event in diabetic patients who were taking ACE inhibitors compared to diabetic patients who were not taking ACE inhibitors?",
+    "zh": "一项研究评估了血管紧张素转换酶 (ACE) 抑制剂在预防糖尿病患者冠心病事件中的作用。在 5 年的随访期间，400 名服用 ACE 抑制剂的糖尿病患者中有 120 人发生了急性冠心病事件。在同一时期，300 名未服用 ACE 抑制剂的糖尿病患者中有 100 人发生了冠心病事件。与未服用 ACE 抑制剂的糖尿病患者相比，服用 ACE 抑制剂的糖尿病患者发生冠心病事件的相对风险是多少？"
+  },
+  "question": {
+    "en": "What was the relative risk of developing a coronary event in diabetic patients who were taking ACE inhibitors compared to diabetic patients who were not taking ACE inhibitors?",
+    "zh": "与未服用 ACE 抑制剂的糖尿病患者相比，服用 ACE 抑制剂的糖尿病患者发生冠心病事件的相对风险是多少？"
+  },
+  "options": {
+    "A": {
+      "en": "(120x100)/(280x200)",
+      "zh": "(120x100)/(280x200)"
+    },
+    "B": {
+      "en": "(120x200)/(100x280)",
+      "zh": "(120x200)/(100x280)"
+    },
+    "C": {
+      "en": "(120x280)/(100x200)",
+      "zh": "(120x280)/(100x200)"
+    },
+    "D": {
+      "en": "(120/220)/(280/480)",
+      "zh": "(120/220)/(280/480)"
+    },
+    "E": {
+      "en": "(120/400)/(100/300)",
+      "zh": "(120/400)/(100/300)"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The relative risk (RR) represents the RISK of an outcome (eg, coronary event) in the exposed (eg, angiotensin-converting enzyme [ACE] inhibitor) divided by the RISK of that outcome in the unexposed (eg, no ACE inhibitor). For cohort studies, it is calculated using the following formula: RR = [a/(a+b)] / [c/(c+d)] = (120/400)/(100/300) = 0.90\nUnderstanding the values calculated (rather than memorizing several formulas) would prevent errors that could occur if the standard format for the 2x2 table is not followed. By definition, RR = risk among the exposed/risk among the unexposed. In this example, 400 diabetic patients were taking ACE inhibitors (exposed) and 120 of those had a coronary event. Therefore, the risk among the exposed is 120/400. Similarly, 300 diabetic patients were not taking ACE inhibitors (unexposed) and 100 of those had a coronary event. Therefore, the risk among the unexposed is 100/300. The RR is the ratio of those 2 values: RR = (120/400)/(100/300).",
+    "zh": "相对风险 (RR) 代表暴露组（例如，血管紧张素转换酶 [ACE] 抑制剂）中发生结局（例如，冠心病事件）的风险除以未暴露组（例如，未服用 ACE 抑制剂）中发生该结局的风险。对于队列研究，它使用以下公式计算：RR = [a/(a+b)] / [c/(c+d)] = (120/400)/(100/300) = 0.90\n理解计算值（而不是记住几个公式）将防止如果未遵循 2x2 表的标准格式而可能发生的错误。根据定义，RR = 暴露组中的风险/未暴露组中的风险。在本例中，400 名糖尿病患者正在服用 ACE 抑制剂（暴露组），其中 120 人发生了冠心病事件。因此，暴露组的风险为 120/400。同样，300 名糖尿病患者未服用 ACE 抑制剂（未暴露组），其中 100 人发生了冠心病事件。因此，未暴露组的风险为 100/300。RR 是这两个值的比率：RR = (120/400)/(100/300)。"
+  },
+  "summary": {
+    "en": "1) Biostatistics; 2) Relative risk is the risk in the exposed divided by the risk in the unexposed.",
+    "zh": "1) 生物统计学；2) 相对风险是暴露组的风险除以未暴露组的风险。"
+  },
+  "tags": "Biostatistics; Relative Risk; ACE Inhibitors; Diabetes; Coronary Event",
+  "category": "Bio",
+  "question_id": "1207",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1207",
+  "extracted_at": "2025-11-05T10:58:28.973735",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:19:41.130613",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

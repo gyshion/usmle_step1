@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man comes to the office due to 2 months of itching, occasional ulceration, and crusting of a skin lesion on his upper chest. A year ago, the patient was diagnosed with squamous cell carcinoma with perineural invasion at the site of the lesion. Surgical resection with clear margins was achieved, followed by adjuvant radiotherapy to the site. He reports no other symptoms. The patient's lesion is shown in the exhibit {{exhibit_1}}. If a biopsy is performed at the periphery of the lesion, which of the following histologic changes is most likely to be seen?",
+    "zh": "一名65岁男性因上胸部皮损瘙痒、偶有溃疡和结痂2个月来诊。一年前，该患者被诊断为该病灶部位伴有神经浸润的鳞状细胞癌。手术切除达到切缘干净，随后对该部位进行了辅助放疗。他报告没有其他症状。该患者的病灶显示在展品{{exhibit_1}}中。如果在病灶边缘进行活检，最有可能看到以下哪种组织学改变？"
+  },
+  "question": {
+    "en": "If a biopsy is performed at the periphery of the lesion, which of the following histologic changes is most likely to be seen?",
+    "zh": "如果在病灶边缘进行活检，最有可能看到以下哪种组织学改变？"
+  },
+  "options": {
+    "A": {
+      "en": "Full-thickness epidermal necrosis",
+      "zh": "全层表皮坏死"
+    },
+    "B": {
+      "en": "Homogenization of dermal collagen bundles",
+      "zh": "真皮胶原束均质化"
+    },
+    "C": {
+      "en": "Neutrophilic infiltrates and elongated dermal papillae",
+      "zh": "中性粒细胞浸润和真皮乳头延长"
+    },
+    "D": {
+      "en": "Perivascular collections of eosinophils",
+      "zh": "嗜酸性粒细胞的血管周围聚集"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has a persistent, itchy, ulcerating skin lesion with hypopigmentation and telangiectasias at a site of prior radiotherapy, consistent with late-stage radiation dermatitis. Radiotherapy can be used with excision in the treatment of high-risk, invasive skin cancer to kill remaining cancer cells and decrease recurrence risk. Ionizing radiation causes apoptosis of rapidly dividing cancer cells directly by inducing DNA damage and indirectly by generating free radicals {{exhibit_2}}. \n\nHowever, all rapidly dividing cells in the area (eg, hair follicle stem cells, melanocytes, basal keratinocytes) treated by the radiation can be affected, initiating a series of characteristic skin changes:\n\n*   Acute (<90 days after radiotherapy):\n    *   Apoptosis of basal keratinocytes and epidermal edema\n    *   Dose-dependent effects ranging from erythema to desquamation (ie, skin peeling), superficial ulceration, and/or blistering\n    *   Pigment changes and loss of skin appendages (eg, hair follicles, sebaceous glands)\n*   Late (months to years after radiotherapy):\n    *   Fibrosis, characterized histologically by homogenization of dermal collagen, due to fibroblast activation by transforming growth factor-beta from damaged tissue and responding immune cells\n    *   Vascular damage, resulting in chronic hypoxia and ulceration\n    *   Abnormal, dilated microvasculature (ie, telangiectasias)\n\n(Choice A) Full-thickness epidermal necrosis with subepidermal bullae is characteristic of STEVENS-JOHNSON syndrome/toxic epidermal necrolysis. This systemic immune reaction to certain medications (eg, allopurinol, carbamazepine, sulfonamides) results in fever, skin tenderness, desquamation, and widespread blistering.\n\n(Choice C) Neutrophilic infiltrates and elongation of dermal papillae are characteristic of psoriasis vulgaris, which typically causes symmetric, salmon-colored scaly plaques with sharply defined borders.\n\n(Choice D) During an urticarial reaction, mast cells release inflammatory mediators and cytokines (eg, IL-5) that can recruit eosinophils, resulting in perivascular collections of eosinophils in and around the urticarial lesion. Urticaria usually manifests as pruritic, erythematous plaques (ie, wheal and flare reaction).\n\nEducational objective:\n\nLate-stage radiation dermatitis occurs months to years after radiation exposure and is characterized grossly by pigment changes, telangiectasias, and chronic ulceration. Typical histologic changes include vascular abnormalities, fibroblast proliferation, and homogenization of dermal collagen (ie, fibrosis) due to the increased expression of transforming growth factor-beta. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "该患者在既往放疗部位出现持续性、瘙痒性、溃疡性皮损，伴有色素减退和毛细血管扩张，与晚期放射性皮炎一致。放疗可与切除术联合用于治疗高危、浸润性皮肤癌，以杀灭残留癌细胞并降低复发风险。电离辐射通过诱导DNA损伤直接导致快速分裂的癌细胞凋亡，并通过产生自由基间接导致细胞凋亡{{exhibit_2}}。\n\n然而，该区域内所有快速分裂的细胞（例如，毛囊干细胞、黑素细胞、基底角质形成细胞）均可受到放疗的影响，从而引发一系列特征性皮肤改变：\n\n*   急性期（放疗后<90天）：\n    *   基底角质形成细胞凋亡和表皮水肿\n    *   剂量依赖性效应，范围从红斑到脱屑（即皮肤脱皮）、浅表性溃疡和/或起泡\n    *   色素改变和皮肤附属器（例如，毛囊、皮脂腺）的缺失\n*   晚期（放疗后数月至数年）：\n    *   纤维化，其组织学特征为真皮胶原均质化，是由于来自受损组织和反应性免疫细胞的转化生长因子-β激活成纤维细胞所致\n    *   血管损伤，导致慢性缺氧和溃疡\n    *   异常、扩张的微血管（即毛细血管扩张）\n\n（选项A）全层表皮坏死伴有表皮下大疱是史蒂文斯-约翰逊综合征/中毒性表皮坏死的特征。这种对某些药物（例如，别嘌呤醇、卡马西平、磺胺类药物）的全身免疫反应会导致发热、皮肤触痛、脱屑和广泛性水疱。\n\n（选项C）中性粒细胞浸润和真皮乳头延长是寻常型银屑病的特征，寻常型银屑病通常会导致对称性、鲑鱼色鳞屑性斑块，边界清晰。\n\n（选项D）在荨麻疹反应期间，肥大细胞释放炎症介质和细胞因子（例如，IL-5），这些介质和细胞因子可以募集嗜酸性粒细胞，导致荨麻疹病灶内及周围出现嗜酸性粒细胞的血管周围聚集。荨麻疹通常表现为瘙痒性、红斑性斑块（即风团和红晕反应）。\n\n教学目标：\n\n晚期放射性皮炎发生在放射线暴露后数月至数年，其特点是色素改变、毛细血管扩张和慢性溃疡。典型的组织学改变包括血管异常、成纤维细胞增生和真皮胶原均质化（即纤维化），这是由于转化生长因子-β的表达增加所致。{{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of late-stage radiation dermatitis, its clinical presentation (hyperpigmentation, telangiectasias, ulceration), and characteristic histologic findings (homogenization of dermal collagen). It requires differentiating radiation dermatitis from other skin conditions based on clinical and histological features.\n\nTo solve this question, recognize the history of radiation exposure and the typical skin changes associated with late-stage radiation dermatitis. Eliminate answer choices that describe other dermatologic conditions such as Stevens-Johnson syndrome, psoriasis, or urticaria.",
+    "zh": "本题测试对晚期放射性皮炎的认识，包括其临床表现（色素沉着过度、毛细血管扩张、溃疡）和特征性组织学表现（真皮胶原均质化）。它要求根据临床和组织学特征区分放射性皮炎与其他皮肤病。\n\n要解决这个问题，需要认识到放射线暴露史以及与晚期放射性皮炎相关的典型皮肤改变。排除描述其他皮肤病（例如史蒂文斯-约翰逊综合征、银屑病或荨麻疹）的选项。"
+  },
+  "tags": "Radiation dermatitis; Late effects of radiation; Skin pathology; Histopathology; Telangiectasia; Fibrosis; Squamous cell carcinoma; Oncology; Dermatology",
+  "category": "Derma",
+  "question_id": "18927",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\18927",
+  "extracted_at": "2025-11-05T13:55:08.660703",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:34:57.245210",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

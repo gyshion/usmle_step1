@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "Experimental gastric function monitoring in healthy subjects before, during and after a meal shows an initial rise, peak, and then decline in gastric acid production.",
+    "zh": "在健康受试者餐前、餐中和餐后的实验性胃功能监测显示胃酸分泌最初升高，达到峰值，然后下降。"
+  },
+  "question": {
+    "en": "Which of the following helps most to down-regulate gastric secretion after a meal?",
+    "zh": "以下哪项最有助于餐后下调胃分泌？"
+  },
+  "options": {
+    "A": {
+      "en": "Basal secretion",
+      "zh": "基础分泌"
+    },
+    "B": {
+      "en": "Cephalic phase",
+      "zh": "头相"
+    },
+    "C": {
+      "en": "Gastrin release",
+      "zh": "胃泌素释放"
+    },
+    "D": {
+      "en": "Intestinal influences",
+      "zh": "肠道影响"
+    },
+    "E": {
+      "en": "Receptive relaxation",
+      "zh": "容受性舒张"
+    },
+    "F": {
+      "en": "Postprandial alkaline tide",
+      "zh": "餐后碱性潮"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Classically, the stimulation of acid secretion within the stomach is separated into three phases: cephalic, gastric, and intestinal. The cephalic phase is mediated primarily by cholinergic and vagal mechanisms, and is triggered by the thought, sight, smell, and taste of food. The gastric phase is mediated by the presence of gastrin (which stimulates histamine secretion and therefore, indirectly, acid secretion), and is triggered by the chemical stimulus of food and distension of the stomach. The intestinal phase is initiated when protein-containing food enters the duodenum, but this phase plays only a minor role in stimulating gastric acid secretion.\n\nIn fact, intestinal influences are effective in down-regulating gastric acid secretion after a meal. The ileum and colon release peptide YY, which binds to receptors on the endocrine, histamine-containing cells described as enterochromaffin-like (ECLs). Such binding counteracts the cephalic and gastric phases of acid secretion by inhibiting gastrin-stimulated histamine release from ECLs. Other factors that inhibit acid secretion include somatostatin and prostaglandins.\n\n(Choice A) Basal gastric secretion has been defined as the gastric juices secreted in the absence of intentional or avoidable stimuli (essentially, the \"baseline\" gastric acid secretion). Basal gastric secretion is not an important factor in the down-regulation of postprandial gastric secretion.\n\n(Choices B and C) The cephalic and gastric phases both stimulate gastric acid secretion, not down-regulate it.\n\n(Choice E) Receptive relaxation is a reflex that allows the gastric fundus to dilate in anticipation of food passing through the pharynx and esophagus. It is not an important factor in the down-regulation of postprandial gastric secretion.\n\n(Choice F) Postprandial alkaline tide is defined as an increase in plasma HCO3− and decrease in plasma Cl− secondary to the surge of acid within the gastric lumen. It is not an important factor in the down-regulation of postprandial gastric secretion.",
+    "zh": "经典地，胃内酸分泌的刺激分为三个阶段：头相、胃相和肠相。头相主要由胆碱能和迷走神经机制介导，并由食物的思考、视觉、气味和味道触发。胃相由胃泌素的存在介导（刺激组胺分泌，因此间接刺激酸分泌），并由食物的化学刺激和胃的扩张触发。肠相在含蛋白质的食物进入十二指肠时开始，但此相在刺激胃酸分泌中仅起次要作用。\n\n事实上，肠道影响在餐后下调胃酸分泌方面是有效的。回肠和结肠释放肽YY，肽YY与内分泌、含组胺细胞（称为嗜铬样细胞（ECLs））上的受体结合。这种结合通过抑制胃泌素刺激的ECLs释放组胺来抵消头相和胃相的酸分泌。抑制酸分泌的其他因素包括生长抑素和前列腺素。\n\n（选项 A）基础胃分泌被定义为在没有有意或可避免的刺激下分泌的胃液（本质上是“基线”胃酸分泌）。基础胃分泌不是餐后胃分泌下调的重要因素。\n\n（选项 B 和 C）头相和胃相都刺激胃酸分泌，而不是下调它。\n\n（选项 E）容受性舒张是一种反射，允许胃底在预期食物通过咽和食管时扩张。它不是餐后胃分泌下调的重要因素。\n\n（选项 F）餐后碱性潮被定义为继发于胃腔内酸涌入的血浆HCO3−增加和血浆Cl−减少。它不是餐后胃分泌下调的重要因素。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the different phases of gastric acid secretion and the factors that regulate it, specifically focusing on the mechanisms that down-regulate secretion after a meal.\n\nThe best approach is to recall the three phases of gastric acid secretion (cephalic, gastric, and intestinal) and their respective roles in stimulating or inhibiting acid production. Understanding that intestinal influences play a key role in down-regulating gastric acid secretion after a meal is crucial for answering correctly.",
+    "zh": "本题考察对胃酸分泌不同阶段及其调节因素的了解，特别是侧重于餐后下调分泌的机制。\n\n最好的方法是回忆胃酸分泌的三个阶段（头相、胃相和肠相）及其在刺激或抑制酸产生中的各自作用。理解肠道影响在餐后下调胃酸分泌中起关键作用，对于正确回答至关重要。"
+  },
+  "tags": "Gastric acid secretion; Intestinal influences; Cephalic phase; Gastric phase; Peptide YY; Enterochromaffin-like cells; Gastroenterology; Physiology",
+  "category": "GIT",
+  "question_id": "126",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\126",
+  "extracted_at": "2025-11-05T14:23:14.479957",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:50:50.199011",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old woman comes to the emergency department with vaginal bleeding and lower abdominal cramps. Her last menstrual period was 6 weeks ago, and a home pregnancy test was positive. She has no medical history and does not use tobacco or alcohol. Pelvic ultrasonography reveals a gestational sac in the left fallopian tube without evidence of rupture. A single dose of methotrexate is administered to treat her condition.",
+    "zh": "一名23岁的女性因阴道出血和下腹部痉挛来到急诊科。她上次月经是6周前，在家进行的妊娠试验呈阳性。她没有病史，并且不吸烟或饮酒。盆腔超声检查显示左侧输卵管内有妊娠囊，无破裂迹象。给予单剂量的甲氨蝶呤以治疗她的病情。"
+  },
+  "question": {
+    "en": "Which of the following substances will most likely accumulate in embryonic tissues as a result of treatment?",
+    "zh": "由于治疗，以下哪种物质最有可能在胚胎组织中积累？"
+  },
+  "options": {
+    "A": {
+      "en": "Dihydrofolate polyglutamate",
+      "zh": "二氢叶酸多聚谷氨酸"
+    },
+    "B": {
+      "en": "Folinic acid",
+      "zh": "亚叶酸"
+    },
+    "C": {
+      "en": "Para-aminobenzoic acid",
+      "zh": "对氨基苯甲酸"
+    },
+    "D": {
+      "en": "Tetrahydrofolate",
+      "zh": "四氢叶酸"
+    },
+    "E": {
+      "en": "Thymidylic acid",
+      "zh": "胸苷酸"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Methotrexate (MTX), a folate antagonist, is the drug of choice for non-surgical treatment of an early, unruptured ectopic pregnancy. Folic acid is a required precursor to nucleic acid synthesis. Barriers to its metabolism are especially effective in hindering the growth of rapidly proliferating cells such as in a developing embryo or certain types of cancer.\n\nNormally, folic acid is reduced to dihydrofolate (DHF) by dihydrofolate reductase and then reduced further to tetrahydrofolate (THF), an integral precursor of DNA synthesis. MTX is structurally similar to folic acid and competitively and irreversibly inhibits DHF reductase. DHF reductase inhibition prevents the formation of THF (Choice D).\n\nAfter entering the target cell, MTX undergoes polyglutamation, which prevents the movement of MTX out of the cell, resulting in intracellular accumulation of MTX for later use. Similarly, folate and recycled DHF are stored within the cell via polyglutamation. Because MTX inhibits DHF reductase, folic acid and DHF polyglutamate will accumulate in cells {{exhibit_1}}.\n\n(Choice B) Folinic acid (leucovorin) is a reduced form of folic acid that can be used to counter the toxic effects of MTX chemotherapy. Folinic acid selectively \"rescues\" normal cells by competing with MTX for DHF reductase binding sites. It can reactivate DHF reductase, therefore allowing re-initiation of DNA synthesis.\n\n(Choice C) Para-aminobenzoic acid (PABA) is a folic acid precursor in prokaryotes. Sulfonamide antibiotics are chemical analogues of PABA that inhibit the enzyme dihydropteroate synthetase, preventing bacterial conversion of PABA to folic acid. Humans lack the ability to convert PABA to folic acid and require dietary folate.\n\n(Choice E) Thymidylic acid is a nucleotide that contributes to pyrimidine formation. Its synthesis is inhibited by MTX.\n\nEducational objective:\nMethotrexate is a folic acid antagonist used to treat ectopic pregnancy. It competitively inhibits the enzyme dihydrofolate (DHF) reductase, which catalyzes the synthesis of tetrahydrofolate. DHF reductase inhibition causes the intermediate DHF to accumulate intracellularly.",
+    "zh": "甲氨蝶呤 (MTX) 是一种叶酸拮抗剂，是早期、未破裂的宫外孕的非手术治疗的首选药物。叶酸是核酸合成的必需前体。其代谢的障碍特别有效地阻碍了快速增殖细胞的生长，例如在发育中的胚胎或某些类型的癌症中。\n\n通常，叶酸在二氢叶酸还原酶的作用下被还原为二氢叶酸 (DHF)，然后进一步被还原为四氢叶酸 (THF)，后者是 DNA 合成的组成部分。MTX 在结构上与叶酸相似，并且以竞争性和不可逆的方式抑制 DHF 还原酶。DHF 还原酶抑制作用阻止了 THF 的形成（选项 D）。\n\n进入靶细胞后，MTX 会发生多谷氨酸化，这阻止了 MTX 移出细胞，导致 MTX 在细胞内积累以备后用。同样，叶酸和再循环的 DHF 通过多谷氨酸化储存在细胞内。由于 MTX 抑制 DHF 还原酶，叶酸和 DHF 多聚谷氨酸将在细胞内积累 {{exhibit_1}}。\n\n（选项 B）亚叶酸（甲酰四氢叶酸）是叶酸的还原形式，可用于对抗 MTX 化疗的毒性作用。亚叶酸通过与 MTX 竞争 DHF 还原酶结合位点来选择性地“拯救”正常细胞。它可以重新激活 DHF 还原酶，从而允许重新启动 DNA 合成。\n\n（选项 C）对氨基苯甲酸 (PABA) 是原核生物中的叶酸前体。磺胺类抗生素是 PABA 的化学类似物，可抑制二氢蝶酸合成酶，阻止细菌将 PABA 转化为叶酸。人类缺乏将 PABA 转化为叶酸的能力，需要膳食叶酸。\n\n（选项 E）胸苷酸是一种有助于嘧啶形成的核苷酸。其合成受到 MTX 的抑制。\n\n教育目标：\n甲氨蝶呤是一种用于治疗宫外孕的叶酸拮抗剂。它以竞争性方式抑制二氢叶酸 (DHF) 还原酶，后者催化四氢叶酸的合成。DHF 还原酶抑制作用导致中间产物 DHF 在细胞内积累。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of methotrexate's mechanism of action as a folate antagonist in the treatment of ectopic pregnancy, specifically how it inhibits dihydrofolate reductase and leads to the accumulation of dihydrofolate polyglutamate.\n\nThe key to solving this question is understanding the folic acid pathway and how methotrexate interferes with it. Recognizing that methotrexate inhibits dihydrofolate reductase and promotes the accumulation of dihydrofolate polyglutamate is crucial for selecting the correct answer.",
+    "zh": "本题考察了关于甲氨蝶呤作为叶酸拮抗剂在治疗宫外孕中的作用机制的知识，特别是它如何抑制二氢叶酸还原酶并导致二氢叶酸多聚谷氨酸的积累。\n\n解决此问题的关键是了解叶酸通路以及甲氨蝶呤如何干扰它。认识到甲氨蝶呤抑制二氢叶酸还原酶并促进二氢叶酸多聚谷氨酸的积累对于选择正确答案至关重要。"
+  },
+  "tags": "Methotrexate; Ectopic pregnancy; Folate antagonist; Dihydrofolate reductase; Dihydrofolate polyglutamate; Nucleic acid synthesis; Embryonic development; Pharmacology",
+  "category": "Blood",
+  "question_id": "1857",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1857",
+  "extracted_at": "2025-11-05T11:28:37.594585",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:29:32.481154",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

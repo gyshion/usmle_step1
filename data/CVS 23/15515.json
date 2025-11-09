@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old man comes to the office due to shortness of breath. He states that even moderate exertion forces him to stop to catch his breath. The patient has no family history of sudden cardiac death. He does not use tobacco or illicit drugs. On examination, the patient has a faint systolic murmur at the left sternal border in the supine position that increases to 3/6 in intensity with Valsalva maneuver. Echocardiography shows interventricular septal hypertrophy and increased left ventricular mass. The patient is started on high-dose beta blocker therapy. On follow-up 2 weeks later, he reports significant improvement in his shortness of breath. Physical examination reveals no murmurs supine or with Valsalva.",
+    "zh": "一名25岁男性因呼吸困难就诊。他表示，即使是中等强度的运动也会迫使他停下来喘口气。患者无猝死家族史。他不吸烟，也不使用违禁药物。体格检查显示，患者在仰卧位时左侧胸骨旁可闻及轻微的收缩期杂音，Valsalva动作时杂音增强至3/6级。超声心动图显示室间隔肥厚和左心室质量增加。患者开始接受大剂量β受体阻滞剂治疗。两周后复诊，他报告呼吸困难明显改善。体格检查显示仰卧位或Valsalva动作时无杂音。"
+  },
+  "question": {
+    "en": "Which of the following best accounts for improvement of this patient's symptoms?",
+    "zh": "以下哪项最能解释该患者症状的改善？"
+  },
+  "options": {
+    "A": {
+      "en": "Dilation of epicardial coronary arteries",
+      "zh": "心外膜冠状动脉扩张"
+    },
+    "B": {
+      "en": "Increase in left ventricular outflow tract flow velocity",
+      "zh": "左心室流出道血流速度增加"
+    },
+    "C": {
+      "en": "Reduction in left ventricular contractility",
+      "zh": "左心室收缩力降低"
+    },
+    "D": {
+      "en": "Reduction in left ventricular mass",
+      "zh": "左心室质量减少"
+    },
+    "E": {
+      "en": "Reduction in left ventricular preload",
+      "zh": "左心室前负荷降低"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient's echocardiogram shows increased left ventricular (LV) mass with predominant interventricular SEPTAL HYPERTROPHY, which are classic findings for HYPERTROPHIC CARDIOMYOPATHY (HCM). Many patients with HCM have LV outflow tract obstruction that can lead to symptoms of poor cardiac output (eg, dyspnea, syncope). The outflow tract obstruction worsens with decreased LV blood volume (as can occur during exercise due to decreased LV filling time and increased LV contractility); on physical examination, this effect is evidenced by a systolic murmur that increases in intensity with maneuvers that decrease LV blood volume (eg, Valsalva strain phase, abrupt standing).\n\nIn patients with HCM and symptomatic LV outflow tract obstruction, beta blockers (eg, metoprolol, nadolol) improve symptoms mostly via an increase in LV volume that reduces LV outflow tract obstruction. This occurs via the following 2 mechanisms:\n\n*   Beta blockers reduce heart rate, which lengthens diastolic filling time to increase LV end-diastolic volume (ie, preload)\n*   Beta blockers reduce LV contractility, which decreases the amount of blood ejected during ventricular systole (ie, increased end-systolic volume)\n\nNondihydropyridine calcium channel blockers (eg, verapamil) have similar effects and can be used in patients with a contraindication to beta blockers or as additional therapy for persistent symptoms.\n\n(Choice A) Some patients with HCM may experience anginal symptoms due to inadequate blood supply to the increased myocardial mass. Beta blockers may help alleviate these symptoms by decreasing LV wall stress to reduce myocardial oxygen demand and improve the coronary artery perfusion gradient; however, they have minimal dilatory effect on the coronary arteries.\n\n(Choice B) By increasing the cross-sectional area of the LV outflow tract, beta blockers tend to decrease flow velocity (flow velocity = volumetric flow rate / cross-sectional area). Consequently, the intensity of the HCM murmur is also decreased.\n\n(Choice D) Over time, beta blockers may reduce the compensatory LV hypertrophy that can occur in HCM due to prolonged contraction against the outflow tract obstruction (similar to aortic stenosis); however, this effect would not be evident within 2 weeks.\n\n(Choice E) Beta blockers increase LV preload. Medications that reduce LV preload (eg, nitrates, diuretics) can worsen LV outflow tract obstruction and should be avoided in patients with HCM.\n\nEducational objective:\nMany patients with hypertrophic cardiomyopathy have exercise intolerance due to left ventricular (LV) outflow tract obstruction. This outflow obstruction is worsened by decreased LV blood volume. Beta blockers decrease heart rate and LV contractility to increase LV blood volume, reduce LV outflow tract obstruction, and improve symptoms.",
+    "zh": "该患者的超声心动图显示左心室(LV)质量增加，以室间隔肥厚为主，这是肥厚型心肌病(HCM)的典型表现。许多HCM患者存在左心室流出道梗阻，这可能导致心输出量不足的症状（如呼吸困难、晕厥）。流出道梗阻会因左心室血容量减少而加重（如运动时由于左心室充盈时间缩短和左心室收缩力增加而发生）；体格检查中，这种影响表现为收缩期杂音，其强度随着减少左心室血容量的动作（如Valsalva用力期、突然站立）而增强。\n\n在HCM合并有症状性左心室流出道梗阻的患者中，β受体阻滞剂（如美托洛尔、纳多洛尔）通过增加左心室容量来改善症状，从而减轻左心室流出道梗阻。这通过以下两种机制发生：\n\n*   β受体阻滞剂降低心率，延长舒张期充盈时间，从而增加左心室舒张末期容量（即前负荷）\n*   β受体阻滞剂降低左心室收缩力，从而减少心室收缩期间射出的血量（即增加收缩末期容量）\n\n非二氢吡啶类钙通道阻滞剂（如维拉帕米）具有类似作用，可用于对β受体阻滞剂有禁忌症的患者，或作为持续症状的补充治疗。\n\n（选项A）一些HCM患者可能因心肌质量增加导致供血不足而出现心绞痛症状。β受体阻滞剂可能通过降低左心室壁应力来缓解这些症状，从而降低心肌耗氧量并改善冠状动脉灌注梯度；然而，它们对冠状动脉的扩张作用很小。\n\n（选项B）通过增加左心室流出道横截面积，β受体阻滞剂往往会降低血流速度（血流速度=血容量/横截面积）。因此，HCM杂音的强度也会降低。\n\n（选项D）随着时间的推移，β受体阻滞剂可能减少HCM中由于对抗流出道梗阻的长期收缩而可能发生的代偿性左心室肥厚（类似于主动脉瓣狭窄）；然而，这种影响在2周内不会显现。\n\n（选项E）β受体阻滞剂增加左心室前负荷。降低左心室前负荷的药物（如硝酸盐、利尿剂）会加重左心室流出道梗阻，应避免用于HCM患者。\n\n教学目标：\n许多肥厚型心肌病患者因左心室(LV)流出道梗阻而出现运动耐受性差。这种流出道梗阻会因左心室血容量减少而加重。β受体阻滞剂可降低心率和左心室收缩力，从而增加左心室血容量，减轻左心室流出道梗阻，改善症状。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hypertrophic cardiomyopathy (HCM), its pathophysiology, and the mechanism of action of beta-blockers in treating its symptoms. It requires understanding how beta-blockers improve symptoms by reducing left ventricular contractility and heart rate, thereby increasing left ventricular volume and decreasing outflow tract obstruction.\n\nThe best approach is to recognize the clinical presentation of HCM (dyspnea, murmur increasing with Valsalva), understand the underlying pathophysiology of outflow obstruction, and then select the option that aligns with the mechanism of action of beta-blockers in improving symptoms in HCM patients.",
+    "zh": "本题考察了肥厚型心肌病（HCM）的知识、其病理生理学以及β受体阻滞剂治疗其症状的机制。需要理解β受体阻滞剂如何通过降低左心室收缩力和心率来改善症状，从而增加左心室容量并减少流出道梗阻。\n\n最好的方法是识别HCM的临床表现（呼吸困难、Valsalva动作时杂音增强），了解流出道梗阻的潜在病理生理学，然后选择与β受体阻滞剂在HCM患者中改善症状的机制相符的选项。"
+  },
+  "tags": "Hypertrophic cardiomyopathy; Beta-blockers; Left ventricular outflow tract obstruction; Cardiology; Heart murmur; Valsalva maneuver",
+  "category": "CVS",
+  "question_id": "15515",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\15515",
+  "extracted_at": "2025-11-05T11:59:17.213403",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:49:14.455136",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

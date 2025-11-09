@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 43-year-old man comes to the office due to fatigue and worsening pedal edema over the past several weeks. The patient was diagnosed with advanced HIV infection and started on antiretroviral therapy 3 months ago. He also has a history of hypertension. Physical examination shows bilateral lower extremity pitting edema. Serum creatinine is elevated and serum phosphorus is decreased compared to test results 3 months ago. Urinalysis reveals moderate proteinuria and glucosuria. Renal biopsy shows cytoplasmic vacuolization in the proximal tubules accompanied by loss of brush border and basement membrane denudation. Intracytoplasmic eosinophilic inclusions are also seen in the proximal tubules. There are no significant interstitial inflammatory infiltrates, and the glomeruli appear normal.",
+    "zh": "一名43岁男性因过去几周的疲劳和进行性加重的足部水肿前来就诊。患者被诊断为晚期HIV感染，并于3个月前开始抗逆转录病毒治疗。他也有高血压病史。体格检查显示双侧下肢凹陷性水肿。与3个月前的检查结果相比，血清肌酐升高，血清磷降低。尿液分析显示中度蛋白尿和糖尿。肾活检显示近曲小管细胞质空泡变性，伴有刷状缘缺失和基底膜剥脱。近曲小管中也可见胞质内嗜酸性包涵体。没有明显的间质炎症浸润，肾小球外观正常。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis in this patient?",
+    "zh": "该患者最可能的诊断是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "HIV-associated nephropathy",
+      "zh": "HIV相关性肾病"
+    },
+    "B": {
+      "en": "Hypertensive nephrosclerosis",
+      "zh": "高血压性肾硬化"
+    },
+    "C": {
+      "en": "Postinfectious glomerulonephritis",
+      "zh": "感染后性肾小球肾炎"
+    },
+    "D": {
+      "en": "Tenofovir-induced nephrotoxicity",
+      "zh": "替诺福韦诱导的肾毒性"
+    },
+    "E": {
+      "en": "Trimethoprim-sulfamethoxazole-induced nephrotoxicity",
+      "zh": "复方磺胺甲噁唑诱导的肾毒性"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with HIV was recently started on antiretroviral therapy and subsequently developed evidence of proximal tubule dysfunction (eg, hypophosphatemia, glucosuria, proteinuria, biopsy abnormalities), raising concern for tenofovir-induced nephrotoxicity. Tenofovir is a common part of first-line HIV therapy. It is an adenosine analogue that is a member of the nucleotide reverse transcriptase inhibitors (NRTIs). NRTIs prevent reverse transcriptase from converting the HIV RNA genome into complementarily double-stranded DNA, which inhibits viral replication.\n\nTenofovir is primarily eliminated via the proximal tubule cells of the kidney. High concentrations of tenofovir in these cells can interfere with mitochondrial DNA synthesis and result in cellular damage. This typically manifests with ACUTE KIDNEY INJURY (eg, elevated creatinine, water retention) and/or signs of proximal tubule dysfunction (eg, phosphaturia, glucosuria, proteinuria). Histopathology may show damage to proximal tubule cells (eg, loss of brush border, basement membrane denudation) and evidence of giant mitochondria (eg, large eosinophilic inclusions). Renal abnormalities typically improve once tenofovir is discontinued.\n\n(Choice A) HIV-associated nephropathy is due to viral infection of kidney epithelial cells and typically manifests with hematuria, hypertension, and edema. Biopsy classically shows focal segmental glomerulosclerosis and significant interstitial inflammation.\n\n(Choice B) Hypertensive nephrosclerosis is most common in black patients who have markedly elevated blood pressure. It usually is characterized by proteinuria with or without renal insufficiency. Biopsy typically reveals damage to the renal vasculature (eg, intimal thickening, luminal narrowing), glomeruli (eg, glomerulosclerosis), and renal interstitium (eg, fibrosis, atrophy).\n\n(Choice C) Poststreptococcal glomerulonephritis is an immune complex disease of the glomeruli caused by a preceding infection with a nephritogenic strain of group A beta-hemolytic streptococcus. Patients may have proteinuria, edema, hypertension, and/or acute kidney injury. However, they usually also have red/brown urine and biopsy evidence of diffuse proliferative glomerulonephritis.\n\n(Choice E) Trimethoprim-sulfamethoxazole is often used in patients with advanced AIDS to prevent Pneumocystis pneumonia and/or Toxoplasma gondii. It can cause interstitial nephritis and acute kidney injury but does not usually cause focal damage to the proximal tubule.",
+    "zh": "这位HIV患者最近开始抗逆转录病毒治疗，随后出现近曲小管功能障碍的证据（例如，低磷血症、糖尿、蛋白尿、活检异常），引起了对替诺福韦诱导的肾毒性的担忧。替诺福韦是HIV一线治疗的常用药物。它是一种腺苷类似物，属于核苷逆转录酶抑制剂 (NRTIs)。 NRTIs 阻止逆转录酶将 HIV RNA 基因组转化为互补双链 DNA，从而抑制病毒复制。\n\n替诺福韦主要通过肾脏的近曲小管细胞排出。这些细胞中高浓度的替诺福韦会干扰线粒体DNA的合成并导致细胞损伤。这通常表现为急性肾损伤（例如，肌酐升高、水潴留）和/或近曲小管功能障碍的迹象（例如，磷酸盐尿、糖尿、蛋白尿）。组织病理学检查可能显示近曲小管细胞的损伤（例如，刷状缘缺失、基底膜剥脱）以及巨大线粒体的证据（例如，大的嗜酸性包涵体）。一旦停止使用替诺福韦，肾脏异常通常会改善。\n\n(选项 A) HIV相关性肾病是由于肾脏上皮细胞的病毒感染引起的，通常表现为血尿、高血压和水肿。活检通常显示局灶节段性肾小球硬化和明显的间质炎症。\n\n(选项 B) 高血压性肾硬化常见于血压显着升高的黑人患者。它通常以蛋白尿为特征，伴有或不伴有肾功能不全。活检通常显示肾血管的损伤（例如，内膜增厚、管腔狭窄）、肾小球（例如，肾小球硬化）和肾间质（例如，纤维化、萎缩）。\n\n(选项 C) 链球菌感染后肾小球肾炎是一种肾小球的免疫复合物疾病，由先前感染了A组β-溶血性链球菌的肾炎菌株引起。患者可能出现蛋白尿、水肿、高血压和/或急性肾损伤。然而，他们通常也有红色/棕色尿液和弥漫性增生性肾小球肾炎的活检证据。\n\n(选项 E) 复方磺胺甲噁唑常用于晚期AIDS患者预防肺孢子虫肺炎和/或弓形虫病。它可引起间质性肾炎和急性肾损伤，但通常不会导致近曲小管的局灶性损伤。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of drug-induced nephrotoxicity, specifically tenofovir, and its effects on the proximal tubules of the kidney. It also requires differentiating this condition from other causes of kidney disease in HIV patients.\n\nTo solve this question, recognize the temporal relationship between starting tenofovir and the onset of proximal tubule dysfunction. Consider the patient's HIV status and the potential for drug-related side effects, and rule out other common causes of kidney disease based on the biopsy findings.",
+    "zh": "此题考察对药物诱导性肾毒性（特别是替诺福韦）的了解，以及它对肾脏近曲小管的影响。它还需要将这种情况与其他HIV患者肾脏疾病的原因区分开来。\n\n为了解决这个问题，要认识到开始使用替诺福韦与近曲小管功能障碍的发生之间的时间关系。考虑患者的HIV状况和药物相关副作用的可能性，并根据活检结果排除其他常见的肾脏疾病原因。"
+  },
+  "tags": "Tenofovir; Nephrotoxicity; HIV; Proximal tubule; Kidney disease; Antiretroviral therapy; Renal biopsy; Glucosuria; Proteinuria; Acute kidney injury",
+  "category": "Micro",
+  "question_id": "15113",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\15113",
+  "extracted_at": "2025-11-05T14:57:57.184053",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:08:15.376074",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

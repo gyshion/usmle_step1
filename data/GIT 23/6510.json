@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 46-year-old HIV-positive man is hospitalized with fever, cramping abdominal pain, and watery diarrhea. Evaluation shows high fever, hypotension, tachycardia, and lower abdominal distension and tenderness. Abdominal x-ray reveals free intraperitoneal air, and the patient is taken for urgent exploratory laparotomy. Operative findings include an erythematous and dilated colon. A focus of bowel wall necrosis with perforation is resected. Histopathologic analysis reveals acute inflammatory changes, epithelial necrosis, and a layer of denuded epithelium, fibrin, and inflammatory cells overlaying the mucosa.",
+    "zh": "一名46岁的HIV阳性男性因发热、腹部绞痛和水样腹泻住院。评估显示高热、低血压、心动过速以及下腹部膨胀和压痛。腹部X光片显示腹腔内游离气体，患者接受了紧急的探查性剖腹手术。手术发现包括结肠发红和扩张。切除了一处伴有穿孔的肠壁坏死病灶。组织病理学分析显示急性炎症变化、上皮坏死以及覆盖粘膜的一层剥脱的上皮、纤维蛋白和炎性细胞。"
+  },
+  "question": {
+    "en": "Which of the following pathogens is most likely responsible for this patient's current condition?",
+    "zh": "以下哪种病原体最有可能导致该患者目前的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Campylobacter jejuni",
+      "zh": "空肠弯曲菌"
+    },
+    "B": {
+      "en": "Clostridioides difficile",
+      "zh": "艰难梭菌"
+    },
+    "C": {
+      "en": "Salmonella typhi",
+      "zh": "伤寒沙门菌"
+    },
+    "D": {
+      "en": "Shigella flexneri",
+      "zh": "弗氏志贺菌"
+    },
+    "E": {
+      "en": "Vibrio cholerae",
+      "zh": "霍乱弧菌"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient with diarrhea, abdominal pain, and fever developed a colonic perforation. Given his histologic findings consistent with pseudomembrane formation, this presentation is highly suggestive of Clostridioides difficile infection (CDI) (formerly Clostridium genus). C difficile is an anaerobic, spore-forming, toxigenic, gram-positive rod that causes infectious colitis. The most significant risk factor for the development of CDI is antibiotic use. Antibiotics (particularly clindamycin, fluoroquinolones, and cephalosporins) alter the normal bowel flora, thereby predisposing to C difficile overgrowth. Other risk factors include hospitalization, older age, and proton pump inhibitor use.\n\nC difficile produces 2 toxins: Toxin A (enterotoxin) and Toxin B (cytotoxin). These toxins disrupt cellular cytoskeletons and intercellular tight junctions, leading to colonocyte apoptosis. The colonic mucosa responds to toxin exposure by forming yellow-white, patchy pseudomembranes, which consist of a neutrophil-predominant inflammatory infiltrate, fibrin, bacteria, and necrotic epithelium. Patients with severe disease may develop a nonobstructive colonic dilation known as toxic megacolon, which leads to increased risk of colonic perforation (as seen in this patient).\n\n(Choice A) Campylobacter jejuni is associated with watery diarrhea that may become bloody, abdominal cramping, and fever. Neutrophilic infiltrate and crypt abscesses are identified on histology.\n\n(Choice C) Salmonella typhi causes typhoid fever, which manifests with diarrhea, abdominal pain, high fever, and salmon-colored macules located mainly on the trunk. Histology demonstrates histiocytes, a lymphoplasmacytic inflammatory infiltrate, and associated hemorrhage.\n\n(Choice D) Shigella flexneri infection is characterized by sudden onset of severe abdominal cramping, bloody diarrhea, vomiting, and high fever. Cryptitis, ulcerations, and crypt abscesses are identified on histology.\n\n(Choice E) Vibrio cholerae causes cholera, which manifests with sudden onset, voluminous, \"rice water\" diarrhea and vomiting. Histology typically remains normal.\n\nEducational objective:\nClostridioides (formerly Clostridium) difficile infection is associated with yellow-white, patchy pseudomembranes on the bowel mucosa. These pseudomembranes consist of a neutrophil-predominant inflammatory infiltrate, fibrin, bacteria, and necrotic epithelium. Patients may develop a nonobstructive colonic dilation known as toxic megacolon, which can lead to colonic perforation. {{exhibit_1}} {{exhibit_2}}",
+    "zh": "该患者出现腹泻、腹痛和发热，并发生了结肠穿孔。鉴于其组织学发现与假膜形成一致，这种表现高度提示艰难梭菌感染 (CDI)（原产于梭菌属）。 艰难梭菌是一种厌氧、产芽孢、产毒素的革兰氏阳性杆菌，可引起感染性结肠炎。 发生CDI的最显着的危险因素是使用抗生素。 抗生素（特别是克林霉素、氟喹诺酮类和头孢菌素）会改变正常的肠道菌群，从而易于艰难梭菌过度生长。 其他危险因素包括住院、高龄和使用质子泵抑制剂。\n\n艰难梭菌产生2种毒素：毒素A（肠毒素）和毒素B（细胞毒素）。 这些毒素会破坏细胞骨架和细胞间紧密连接，导致结肠细胞凋亡。 结肠粘膜对毒素的反应是形成黄白色、斑片状的假膜，这些假膜由以中性粒细胞为主的炎性浸润、纤维蛋白、细菌和坏死性上皮组成。 患有严重疾病的患者可能会出现非梗阻性结肠扩张，称为中毒性巨结肠，这会导致结肠穿孔的风险增加（如本患者所示）。\n\n（选项 A）空肠弯曲菌与水样腹泻相关，腹泻可能变成血性，并伴有腹部绞痛和发热。 组织学上可见中性粒细胞浸润和隐窝脓肿。\n\n（选项 C）伤寒沙门菌引起伤寒，表现为腹泻、腹痛、高烧和主要位于躯干上的鲑鱼色斑丘疹。 组织学显示组织细胞、淋巴浆细胞性炎性浸润和相关出血。\n\n（选项 D）弗氏志贺菌感染的特征是突然出现的严重腹部绞痛、血性腹泻、呕吐和高烧。 组织学上可见隐窝炎、溃疡和隐窝脓肿。\n\n（选项 E）霍乱弧菌引起霍乱，表现为突然发作的大量“米汤样”腹泻和呕吐。 组织学通常保持正常。\n\n教育目的：\n艰难梭菌感染与肠粘膜上的黄白色、斑片状假膜有关。 这些假膜由以中性粒细胞为主的炎性浸润、纤维蛋白、细菌和坏死性上皮组成。 患者可能会出现非梗阻性结肠扩张，称为中毒性巨结肠，这可能导致结肠穿孔。 {{exhibit_1}} {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Clostridioides difficile infection (CDI), its risk factors, pathophysiology, and clinical presentation, including the potential for toxic megacolon and colonic perforation. It also requires differentiating CDI from other causes of infectious diarrhea based on clinical and histological findings.\n\nTo solve this question, consider the patient's risk factors (HIV, potential antibiotic use), the presence of fever, abdominal pain, and diarrhea, and the finding of colonic perforation. The histopathological findings of pseudomembranes should strongly suggest CDI.",
+    "zh": "此题考察对艰难梭菌感染 (CDI) 的了解，包括其危险因素、病理生理学和临床表现，包括中毒性巨结肠和结肠穿孔的可能性。 它还需要根据临床和组织学发现将CDI与其他感染性腹泻的原因区分开来。\n\n要解决这个问题，请考虑患者的危险因素（HIV、潜在的抗生素使用）、发热、腹痛和腹泻的存在以及结肠穿孔的发现。 假膜的组织病理学发现应强烈提示CDI。"
+  },
+  "tags": "Clostridioides difficile; Infectious colitis; Toxic megacolon; Colonic perforation; Pseudomembranous colitis; Gastroenterology; Antibiotic-associated diarrhea; HIV; Histopathology",
+  "category": "GIT",
+  "question_id": "6510",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\6510",
+  "extracted_at": "2025-11-05T14:37:39.397285",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:58:43.720356",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "An 83-year-old woman is brought to the emergency department from a nursing home due to fever and altered mental status. The patient has a history of hypertension, diabetes, dementia, fecal incontinence, and bladder dysfunction requiring intermittent urinary catheterization. Her temperature is 38.3 C (100.9 F), blood pressure is 100/68 mm Hg, and pulse is 114/min. She is lethargic and unable to answer questions. Her abdomen is soft, with suprapubic tenderness. Lungs are clear bilaterally. There is no cardiac murmur or skin rash. Laboratory results are as follows:\n\nBlood\nLeukocytes 17,000/mm³\nPotassium 3.8 mEq/L\nBicarbonate 22 mEq/L\nCreatinine 0.8 mg/dL\n\nUrinalysis\nLeukocyte esterase positive\nNitrites positive\nLeukocytes 10/hpf\n\nChest x-ray reveals normal-appearing lungs. Blood and urine cultures are performed, and empiric antibiotics are initiated. Urine cultures are positive for bacteria that grow readily on MacConkey agar, are lactose-fermenting, and are indole-positive.",
+    "zh": "一名83岁女性从养老院被送往急诊科，原因是发热和精神状态改变。患者有高血压、糖尿病、痴呆、大便失禁和膀胱功能障碍病史，需要间歇性导尿。她的体温为38.3°C (100.9°F)，血压为100/68 mmHg，脉搏为114次/分。她嗜睡，无法回答问题。她的腹部柔软，有耻骨上压痛。双肺清晰。没有心脏杂音或皮疹。实验室结果如下：\n\n血常规\n白细胞17,000/mm³\n钾3.8 mEq/L\n碳酸氢盐22 mEq/L\n肌酐0.8 mg/dL\n\n尿液分析\n白细胞酯酶阳性\n亚硝酸盐阳性\n白细胞10/hpf\n\n胸部X光片显示肺部正常。进行了血液和尿液培养，并开始经验性抗生素治疗。尿培养结果显示，细菌可在麦康凯琼脂上迅速生长，能发酵乳糖，并且吲哚试验阳性。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely organism causing this patient's infection?",
+    "zh": "以下哪种病原体最有可能引起该患者的感染？"
+  },
+  "options": {
+    "A": {
+      "en": "Enterobacter cloacae",
+      "zh": "阴沟肠杆菌"
+    },
+    "B": {
+      "en": "Escherichia coli",
+      "zh": "大肠杆菌"
+    },
+    "C": {
+      "en": "Proteus mirabilis",
+      "zh": "奇异变形杆菌"
+    },
+    "D": {
+      "en": "Pseudomonas aeruginosa",
+      "zh": "铜绿假单胞菌"
+    },
+    "E": {
+      "en": "Staphylococcus saprophyticus",
+      "zh": "腐生葡萄球菌"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient with fever, tachycardia, and altered mental status has sepsis; the presence of leukocytes, nitrites, leukocyte esterase, and bacteria in the urine make a URINARY TRACT INFECTION (UTI) the most likely infectious source.\n\nThe pathogenic organism can be determined based on microbiological features. For instance, MacConkey agar is selective for gram-negative rods because gram-positive bacteria are unable to grow on this culture medium. Some gram-negative rods can ferment lactose, causing colonies to turn pink, and both Escherichia coli and Enterobacter cloacae are fast lactose fermenters. The ability to convert tryptophan to indole (ie, indole-positive) can further differentiate bacteria, and the indole-positivity of E coli distinguishes it from E cloacae (Choice A). \n\nAmong the organisms listed, this patient with lactose-fermenting, indole-positive bacterial growth on MacConkey agar has infection due to E coli, the most common cause of UTI. Women are more likely than men to develop UTIs due to a shorter distance between the anus and urethra, and fecal incontinence increases the risk of introducing gastrointestinal flora such as E coli into the urinary tract. Other predisposing factors for E coli UTI—particularly in older women—include diabetes, urinary retention or incontinence, and instrumentation of the urethra (eg, intermittent catheterization), all of which are present in this patient.\n\n(Choices C and D) Proteus mirabilis and Pseudomonas aeruginosa are gram-negative rods that can cause UTI, most commonly in patients with indwelling Foley catheters. However, in contrast to E coli, these organisms are lactose nonfermenters (ie, do not form pink colonies on MacConkey agar).\n\n(Choice E) Staphylococcus saprophyticus is the second-most frequent cause of UTI after E coli in young, sexually active women but is less common in the elderly population. Moreover, staphylococci are gram-positive, and therefore would not grow on MacConkey agar.\n\nEducational objective:\nEscherichia coli are lactose-fermenting, indole-positive, gram-negative rods that grow on MacConkey agar and are the most common pathogen causing urinary tract infection.",
+    "zh": "这位患者出现发热、心动过速和精神状态改变，提示脓毒症；尿液中存在白细胞、亚硝酸盐、白细胞酯酶和细菌，使得尿路感染（UTI）成为最可能的感染来源。\n\n病原体可根据微生物学特征确定。例如，麦康凯琼脂对革兰氏阴性杆菌具有选择性，因为革兰氏阳性细菌无法在该培养基上生长。一些革兰氏阴性杆菌可以发酵乳糖，导致菌落变成粉红色，并且大肠杆菌和阴沟肠杆菌都是快速发酵乳糖的细菌。将色氨酸转化为吲哚（即吲哚阳性）的能力可以进一步区分细菌，大肠杆菌的吲哚阳性将其与阴沟肠杆菌区分开来（选项A）。\n\n在列出的病原体中，该患者在麦康凯琼脂上出现乳糖发酵、吲哚阳性细菌生长，感染由大肠杆菌引起，这是UTI最常见的原因。女性比男性更容易发生UTI，因为肛门和尿道之间的距离较短，而大便失禁会增加将肠道菌群（如大肠杆菌）引入尿道的风险。大肠杆菌UTI的其他诱发因素——尤其是在老年女性中——包括糖尿病、尿潴留或失禁以及尿道器械插入（例如，间歇性导尿），所有这些都存在于该患者中。\n\n（选项C和D）奇异变形杆菌和铜绿假单胞菌是革兰氏阴性杆菌，可引起UTI，最常见于留置Foley导管的患者。但是，与大肠杆菌相比，这些细菌不发酵乳糖（即，不在麦康凯琼脂上形成粉红色菌落）。\n\n（选项E）腐生葡萄球菌是继大肠杆菌之后年轻、性活跃女性UTI的第二大常见原因，但在老年人群中不太常见。此外，葡萄球菌是革兰氏阳性菌，因此不会在麦康凯琼脂上生长。\n\n教育目标：\n大肠杆菌是乳糖发酵、吲哚阳性的革兰氏阴性杆菌，可在麦康凯琼脂上生长，是引起尿路感染的最常见病原体。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the common causes of urinary tract infections (UTIs) and the interpretation of urine culture results, specifically focusing on bacterial characteristics such as lactose fermentation and indole production on MacConkey agar.\n\nTo solve this question, identify the key characteristics of the bacteria from the urine culture (lactose-fermenting, indole-positive, grows on MacConkey agar) and match them to the most common UTI pathogen, considering the patient's risk factors (elderly, female, diabetes, catheterization).",
+    "zh": "此题考察对尿路感染（UTI）常见原因的了解，以及对尿培养结果的解读，特别是侧重于细菌特征，如在麦康凯琼脂上的乳糖发酵和吲哚生成。\n\n要解决此问题，请从尿培养中识别细菌的关键特征（乳糖发酵、吲哚阳性、在麦康凯琼脂上生长），并将它们与最常见的UTI病原体进行匹配，同时考虑患者的危险因素（老年、女性、糖尿病、导尿）。"
+  },
+  "tags": "Urinary tract infection; UTI; Escherichia coli; E. coli; MacConkey agar; Lactose fermentation; Indole test; Gram-negative bacteria; Infectious disease; Geriatrics",
+  "category": "Micro",
+  "question_id": "11766",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\11766",
+  "extracted_at": "2025-11-05T14:51:40.254374",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:06:12.858230",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

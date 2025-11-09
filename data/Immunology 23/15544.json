@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 19-year-old woman comes to the office to discuss treatment options for seasonal sneezing, rhinorrhea, and nasal congestion. She has had these symptoms for the past few springs and summers but is now willing to \"try anything\" to allow her to concentrate on her upcoming final exams. The patient has no significant medical history, takes no medications, and has no drug allergies. Vital signs are within normal limits and physical examination reveals mild bilateral pale and boggy nasal turbinates with copious clear mucus. Fluticasone, an intranasal glucocorticoid, is prescribed.",
+    "zh": "一名19岁的女性来诊所讨论治疗季节性喷嚏、鼻漏和鼻塞的方案。她在过去的几个春夏季节都有这些症状，但现在愿意“尝试任何方法”来让她能够专注于即将到来的期末考试。患者没有重要的病史，没有服用药物，也没有药物过敏史。生命体征在正常范围内，体格检查显示轻度双侧苍白和水肿的鼻甲，伴有大量的清亮黏液。处方氟替卡松，一种鼻内糖皮质激素。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely mechanism of action of this drug?",
+    "zh": "该药物最可能的作用机制是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Apoptosis of tissue eosinophils",
+      "zh": "组织嗜酸性粒细胞凋亡"
+    },
+    "B": {
+      "en": "Antagonism of leukotriene receptors",
+      "zh": "白三烯受体拮抗"
+    },
+    "C": {
+      "en": "Binding and removal of circulating IgE",
+      "zh": "结合并清除循环中的IgE"
+    },
+    "D": {
+      "en": "Reduced differentiation of regulatory T cells (Treg)",
+      "zh": "减少调节性T细胞（Treg）的分化"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient with allergic rhinitis has been prescribed fluticasone, an intranasal glucocorticoid. Anti-inflammatory effects of glucocorticoids {{exhibit_1}}\n\nGlucocorticoids bind to cytoplasmic receptors and translocate to the nucleus where they inhibit transcription of genes that encode inflammatory mediators and decrease immune cell survival and propagation. This results in wide-ranging effects that suppress immunostimulatory activity of all leukocyte cell lines, including the following:\n\n*   Decreased tissue production of proinflammatory prostaglandins and leukotrienes through the inhibition of phospholipase A₂.\n*   Decreased synthesis of almost all proinflammatory cytokines, with increased anti-inflammatory cytokine (eg, IL-10) production\n*   Impaired macrophage activation and neutrophil emigration\n*   Increased apoptosis of eosinophils, T cells, and monocytes, perhaps by decreasing Bcl-2 expression\n\nGlucocorticoids also act on nonimmune cells in the nose (including epithelial cells, goblet cells, and vascular endothelial cells) to decrease uptake of allergen particles, decrease mucus production, and decrease vascular permeability.\n\n(Choice B) Mast cells and eosinophils release cysteinyl-containing leukotrienes (leukotriene C₄, D₄, and E₄) that trigger mucus secretion and edema. Cysteinyl leukotriene receptor antagonists (eg, montelukast, zafirlukast) block these leukotriene-mediated effects to improve symptoms of allergic rhinitis.\n\n(Choice C) The anti-IgE antibody omalizumab binds circulating IgE to decrease serum IgE levels and limit the allergen-induced immunologic response.\n\n(Choice D) In addition to inducing T cell apoptosis, glucocorticoids also promote (not reduce) differentiation of T cells into regulatory subsets. These regulatory T cells (Treg) decrease the immune response to allergens partly by producing IL-10, which inhibits macrophage function and downregulates expression of major histocompatibility complex (MHC) class II on antigen-presenting cells.\n\nEducational objective:\nGlucocorticoids inhibit transcription of proinflammatory mediators and promote apoptosis of eosinophils, T cells, and monocytes.",
+    "zh": "这位患有过敏性鼻炎的患者已被处方氟替卡松，一种鼻内糖皮质激素。糖皮质激素的抗炎作用 {{exhibit_1}}\n\n糖皮质激素与细胞质受体结合，并易位至细胞核，在那里抑制编码炎症介质的基因的转录，并减少免疫细胞的存活和增殖。这导致广泛的影响，抑制所有白细胞谱系的免疫刺激活性，包括以下内容：\n\n*   通过抑制磷脂酶 A₂ 减少组织中促炎前列腺素和白三烯的产生。\n*   减少几乎所有促炎细胞因子的合成，同时增加抗炎细胞因子（例如，IL-10）的产生\n*   损害巨噬细胞活化和中性粒细胞外渗\n*   增加嗜酸性粒细胞、T细胞和单核细胞的凋亡，这可能通过减少 Bcl-2 的表达来实现\n\n糖皮质激素还会作用于鼻腔内的非免疫细胞（包括上皮细胞、杯状细胞和血管内皮细胞），以减少过敏原颗粒的摄取、减少黏液产生和降低血管通透性。\n\n（选项 B）肥大细胞和嗜酸性粒细胞释放含半胱氨酰基的白三烯（白三烯 C₄、D₄ 和 E₄），这些物质会触发黏液分泌和水肿。半胱氨酰白三烯受体拮抗剂（例如，孟鲁司特，扎鲁司特）阻断这些白三烯介导的作用，以改善过敏性鼻炎的症状。\n\n（选项 C）抗IgE抗体奥马珠单抗结合循环中的IgE，以降低血清IgE水平并限制过敏原诱导的免疫反应。\n\n（选项 D）除了诱导T细胞凋亡外，糖皮质激素还促进（而非减少）T细胞分化为调节性亚群。这些调节性T细胞（Treg）部分通过产生IL-10来降低对过敏原的免疫反应，IL-10抑制巨噬细胞功能并下调抗原呈递细胞上主要组织相容性复合物（MHC）II类的表达。\n\n教育目标：\n糖皮质激素抑制促炎介质的转录，并促进嗜酸性粒细胞、T细胞和单核细胞的凋亡。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of action of intranasal glucocorticoids like fluticasone in treating allergic rhinitis. Glucocorticoids work by inhibiting the transcription of inflammatory mediators and promoting apoptosis of eosinophils, T cells, and monocytes. \n\nTo solve this question, recall that glucocorticoids are potent anti-inflammatory agents. Consider the effects of glucocorticoids on immune cells and inflammatory mediators to determine the most likely mechanism of action in the context of allergic rhinitis.",
+    "zh": "这个问题测试了关于鼻内糖皮质激素（如氟替卡松）治疗过敏性鼻炎的作用机制的知识。糖皮质激素通过抑制炎症介质的转录并促进嗜酸性粒细胞、T细胞和单核细胞的凋亡来发挥作用。\n\n要解决这个问题，请回忆糖皮质激素是强效的抗炎剂。考虑糖皮质激素对免疫细胞和炎症介质的影响，以确定最可能的作用机制，结合过敏性鼻炎的背景。"
+  },
+  "tags": "Allergic rhinitis; Glucocorticoids; Fluticasone; Eosinophils; Apoptosis; Inflammation; Immunology; Allergy & Immunology; Rhinitis",
+  "category": "Immunology",
+  "question_id": "15544",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\15544",
+  "extracted_at": "2025-11-05T14:40:37.236416",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:00:33.767611",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 44-year-old previously healthy woman comes to the emergency department due to a 2-day history of left flank pain, dysuria, fever, and chills. Temperature is 38.9 C (102 F), blood pressure is 80/40 mm Hg, and pulse is 140/min and regular. Physical examination shows left costovertebral angle tenderness. Laboratory studies reveal leukocytosis, pyuria, and bacteriuria. Empiric broad-spectrum antibiotics and intravenous fluids are administered. The patient remains persistently hypotensive, and an intravenous phenylephrine infusion is begun. Several minutes later, her heart rate decreases to 100/min. Compared to just prior to the infusion, which of the following intracellular changes are expected in this patient? {{exhibit_1}}",
+    "zh": "一名先前健康的44岁女性因左侧腰痛、排尿困难、发热和寒战2天而到急诊科就诊。体温为38.9°C (102°F)，血压为80/40 mmHg，脉搏为140次/分钟且规律。体格检查显示左侧肋脊角压痛。实验室研究显示白细胞增多、脓尿和菌尿。经验性广谱抗生素和静脉输液已给药。患者持续性低血压，并开始静脉注射苯肾上腺素。几分钟后，她的心率降至100次/分钟。与输注前相比，该患者预计会出现以下哪些细胞内变化？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Compared to just prior to the infusion, which of the following intracellular changes are expected in this patient?",
+    "zh": "与输注前相比，该患者预计会出现以下哪些细胞内变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased; Increased; Decreased",
+      "zh": "降低；升高；降低"
+    },
+    "B": {
+      "en": "Decreased; Decreased; No change",
+      "zh": "降低；降低；无变化"
+    },
+    "C": {
+      "en": "Increased; Increased; Increased",
+      "zh": "升高；升高；升高"
+    },
+    "D": {
+      "en": "Increased; No change; Increased",
+      "zh": "升高；无变化；升高"
+    },
+    "E": {
+      "en": "No change; Decreased; Decreased",
+      "zh": "无变化；降低；降低"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Phenylephrine is a selective alpha-1 adrenergic receptor agonist that causes vasoconstriction and increased blood pressure by increasing inositol triphosphate (IP3) levels in vascular smooth muscle cells. The abrupt increase in blood pressure triggers a baroreceptor reflex, resulting in increased parasympathetic and decreased sympathetic outflow to the heart and vasculature. {{exhibit_2}}\n\nThe baroreceptor reflex-driven changes in the heart are mediated by beta-1 adrenergic receptors and muscarinic-2 receptors. Both reduced sympathetic stimulation of beta-1 receptors and increased parasympathetic stimulation of muscarinic-2 receptors trigger a decrease in cyclic AMP (cAMP) levels, which leads to a decrease in heart rate and contractility to reduce cardiac output and lessen the increase in blood pressure. The reduction in heart rate is driven in part by decreased inward calcium current during phases 4 and 0 of the sinoatrial node action potential.\n\nThe above baroreceptor response also affects vascular smooth muscle, which is mostly under sympathetic control. Although this response causes reduced sympathetic stimulation of vascular alpha-1 receptors, the infusion of phenylephrine still maintains IP3 activity above baseline, resulting in a persistent vasoconstrictive effect.\n\nIn contrast, an abrupt decrease in blood pressure triggers the opposite regulatory response via the baroreceptor reflex.\n\nEducational objective:\nPhenylephrine increase's pressure while decreasing via an alpha-1 receptor-mediated increase in inositol triphosphate in vascular smooth muscle cells. The abrupt increase in blood pressure triggers a reflexive increase in parasympathetic activity while decreasing sympathetic outflow. This leads to decreased cyclic AMP activity in the heart (mediated by beta-1 adrenergic and muscarinic-2 receptors), which decreases heart rate and myocardial contractility. The reduction in heart rate is driven in part by decreased inward calcium current in sinoatrial cells.",
+    "zh": "苯肾上腺素是一种选择性α-1肾上腺素受体激动剂，通过增加血管平滑肌细胞中的肌醇三磷酸 (IP3) 水平来引起血管收缩和血压升高。血压的突然升高会触发压力感受器反射，导致迷走神经活动增加和交感神经对心脏和血管的流出减少。{{exhibit_2}}\n\n压力感受器反射驱动的心脏变化由β-1肾上腺素受体和毒蕈碱-2受体介导。 β-1受体交感神经刺激的减少和毒蕈碱-2受体副交感神经刺激的增加都会触发环磷酸腺苷 (cAMP) 水平的降低，从而导致心率和收缩力降低，以减少心输出量并减轻血压升高。心率的降低部分是由窦房结动作电位4期和0期内向钙电流减少所驱动的。\n\n上述压力感受器反应也会影响血管平滑肌，血管平滑肌主要受交感神经控制。 尽管这种反应会导致血管α-1受体的交感神经刺激减少，但苯肾上腺素的输注仍然保持IP3活性高于基线，导致持续的血管收缩作用。\n\n相反，血压的突然下降会通过压力感受器反射触发相反的调节反应。\n\n教育目标：\n苯肾上腺素通过α-1受体介导的血管平滑肌细胞中肌醇三磷酸的增加来升高血压，同时降低心率。血压的突然升高会触发反射性迷走神经活动增加，同时减少交感神经流出。这导致心脏中环磷酸腺苷活性降低（由β-1肾上腺素受体和毒蕈碱-2受体介导），从而降低心率和心肌收缩力。心率的降低部分是由窦房结细胞内向钙电流减少所驱动的。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the baroreceptor reflex and the intracellular changes that occur in response to changes in blood pressure. It also tests understanding of the effects of alpha-1 adrenergic agonists on vascular smooth muscle and the subsequent compensatory mechanisms in the heart.\n\nTo solve this question, one must understand that phenylephrine, an alpha-1 agonist, increases blood pressure, triggering the baroreceptor reflex. This reflex increases parasympathetic and decreases sympathetic outflow, leading to decreased cAMP in ventricular myocytes and decreased inward calcium current in sinoatrial nodal cells, while phenylephrine directly increases inositol triphosphate in vascular smooth muscle.",
+    "zh": "本题考察对压力感受器反射以及对血压变化反应中发生的细胞内变化的了解。它还考察对α-1肾上腺素激动剂对血管平滑肌的影响以及心脏中随后的代偿机制的理解。\n\n要解决这个问题，必须了解苯肾上腺素（一种α-1激动剂）会升高血压，从而触发压力感受器反射。该反射增加副交感神经活动并减少交感神经流出，导致心室肌细胞中cAMP降低，窦房结细胞中内向钙电流降低，而苯肾上腺素直接增加血管平滑肌中的肌醇三磷酸。"
+  },
+  "tags": "Baroreceptor reflex; Alpha-1 adrenergic receptors; Inositol triphosphate; Cyclic AMP; Calcium channels; Vascular smooth muscle; Sinoatrial node; Phenylephrine; Autonomic nervous system; Cardiovascular physiology",
+  "category": "CVS",
+  "question_id": "18618",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\18618",
+  "extracted_at": "2025-11-05T12:04:03.595830",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:53:23.184763",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

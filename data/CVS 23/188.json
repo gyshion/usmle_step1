@@ -1,0 +1,71 @@
+{
+  "question_stem": {
+    "en": "A 5-week-old boy is being evaluated for a week-long history of rapid breathing and tiring with feeds. The infant was born at home after an uneventful pregnancy. The mother declined all prenatal testing and ultrasound evaluations. His temperature is 36.7 C (98 F), blood pressure is 76/38 mm Hg, pulse is 124/min, and respirations are 66/min. The patient's cardiovascular examination is notable for a hyperdynamic precordium, a mid-diastolic rumble at the left sternal border, and a 3/6 holosystolic murmur in the apex that radiates to the left axilla. An echocardiogram shows defects {{exhibit_1}} in the lower part of the interatrial septum and the interventricular septum.",
+    "zh": "一名5周大的男孩因一周来呼吸急促和进食时疲劳而接受评估。该婴儿在无并发症的妊娠后在家中出生。母亲拒绝了所有产前检查和超声评估。他的体温为36.7°C (98°F)，血压为76/38 mmHg，脉搏为124次/分钟，呼吸为66次/分钟。患者的心血管检查值得注意的是前胸区过度活跃，左侧胸骨旁的舒张中期隆隆声，以及心尖处3/6级全收缩期杂音，向左腋窝放射。超声心动图显示心房间隔和室间隔下部的{{exhibit_1}}有缺陷。"
+  },
+  "question": {
+    "en": "This patient's condition is most likely associated with which of the following genetic conditions?",
+    "zh": "该患者的病情最有可能与以下哪种遗传疾病相关？"
+  },
+  "options": {
+    "A": {
+      "en": "22q11.2 deletion",
+      "zh": "22q11.2 缺失"
+    },
+    "B": {
+      "en": "Autosomal trisomy",
+      "zh": "常染色体三体"
+    },
+    "C": {
+      "en": "Fibrillin mutation",
+      "zh": "原纤维蛋白突变"
+    },
+    "D": {
+      "en": "Frataxin mutation",
+      "zh": "共济蛋白突变"
+    },
+    "E": {
+      "en": "Hamartin gene mutation",
+      "zh": "错构素基因突变"
+    },
+    "F": {
+      "en": "Sex chromosome monosomy",
+      "zh": "性染色体单体"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's echocardiogram suggests a complete atrioventricular (AV) canal defect, the most common type of cardiac defect in patients with Down syndrome, an autosomal trisomy. Failure of endocardial cushion fusion results in an ostium primum atrial septal defect; a ventricular septal defect; and a single AV valve. Significant left-to-right shunting and AV valve regurgitation lead to excessive pulmonary blood flow and symptoms of heart failure (eg, tachypnea, poor feeding). Auscultatory findings of AV valve regurgitation (holosystolic, best heard at apex) and increased pulmonary venous return (mid-diastolic rumble) are characteristic.\n\n(Choice A) DiGeorge syndrome (22q11.2 deletion) is characterized by thymic aplasia (T cell deficiency) and hypoparathyroidism (hypocalcemia). It is associated with tetralogy of Fallot, truncus arteriosus, and transposition of the great arteries.\n\n(Choice C) Marfan syndrome (fibrillin-1 mutation) is associated with cystic medial necrosis of the aorta, which may result in dissecting aortic aneurysms and aortic valve regurgitation. Mitral valve prolapse is also common, but septal defects are not.\n\n(Choice D) Mutations in frataxin, a mitochondrial protein important in iron homeostasis and respiratory function, cause Friedreich ataxia. It is characterized by spinocerebellar degeneration and is associated with hypertrophic cardiomyopathy, but not septal defects.\n\n(Choice E) Mutations in tuberin and hamartin are seen in tuberous sclerosis. These patients may develop cardiac rhabdomyomas in ventricular walls and AV valves, cutaneous angiofibromas (adenoma sebaceum), central nervous system hamartomas, and renal cysts. However, septal defects are not characteristic.\n\n(Choice F) A missing sex chromosome (monosomy) is seen in Turner syndrome (45,X), which is associated with bicuspid aortic valve (most common cardiac lesion) and coarctation of the aorta.\n\nA complete atrioventricular (AV) canal defect is comprised of an atrial septal defect, a ventricular septal defect, and a common AV valve. It is the most common congenital cardiac anomaly associated with DOWN SYNDROME. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}} {{exhibit_8}}",
+    "zh": "该患者的超声心动图提示完全性房室 (AV) 管道缺损，这是唐氏综合征（一种常染色体三体）患者中最常见的先天性心脏缺陷类型。心内膜垫融合失败导致第一孔房间隔缺损；室间隔缺损；以及单个房室瓣。明显的左向右分流和房室瓣反流导致肺血流量过多和心力衰竭的症状（如呼吸急促、喂养困难）。房室瓣反流（全收缩期，心尖处听诊最佳）和肺静脉回流增加（舒张中期隆隆声）的听诊结果是其特征。\n\n（选项 A） DiGeorge 综合征 (22q11.2 缺失) 的特征是胸腺发育不全（T 细胞缺陷）和甲状旁腺功能减退（低钙血症）。它与法洛四联症、动脉干和主动脉转位有关。\n\n（选项 C） 马凡综合征（原纤维蛋白-1突变）与主动脉囊性中层坏死有关，这可能导致主动脉夹层和主动脉瓣反流。二尖瓣脱垂也很常见，但间隔缺损则不然。\n\n（选项 D） 共济蛋白突变，共济蛋白是一种在线粒体中重要的蛋白质，在铁稳态和呼吸功能中发挥作用，会导致 Friedreich 共济失调。其特征是脊髓小脑变性，并与肥厚型心肌病有关，但与间隔缺损无关。\n\n（选项 E） 结节蛋白和错构素的突变可见于结节性硬化症。这些患者可能会在室壁和房室瓣中出现心肌横纹肌瘤、皮肤血管纤维瘤（皮脂腺瘤）、中枢神经系统错构瘤和肾囊肿。然而，间隔缺损并非其特征。\n\n（选项 F） 在特纳综合征（45,X）中可见缺失的性染色体（单体），该病与二叶式主动脉瓣（最常见的心脏病变）和主动脉缩窄有关。\n\n完全性房室 (AV) 管道缺损包括房间隔缺损、室间隔缺损和共同的房室瓣。它是与唐氏综合征相关的最常见的先天性心脏异常。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}} {{exhibit_8}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of congenital heart defects, specifically atrioventricular canal defects, and their association with genetic conditions like Down syndrome. It requires recognizing the clinical presentation and echocardiogram findings suggestive of an AV canal defect.\n\nThe best approach is to correlate the clinical findings (tachypnea, poor feeding, heart murmur) with the echocardiogram description (atrial and ventricular septal defects) to identify the AV canal defect. Then, recall the common genetic associations of this defect, particularly Down syndrome (trisomy 21).",
+    "zh": "此问题测试对先天性心脏缺陷（特别是房室管缺损）的了解，以及它们与唐氏综合征等遗传疾病的关系。它要求识别提示房室管缺损的临床表现和超声心动图结果。\n\n最好的方法是将临床表现（呼吸急促、喂养困难、心脏杂音）与超声心动图描述（心房和室间隔缺损）联系起来，以识别房室管缺损。然后，回忆该缺陷的常见遗传关联，特别是唐氏综合征（21三体）。"
+  },
+  "tags": "Atrioventricular canal defect; Down syndrome; Trisomy 21; Congenital heart disease; Cardiology; Genetics; Echocardiogram",
+  "category": "CVS",
+  "question_id": "188",
+  "has_exhibits": true,
+  "exhibit_count": 8,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\188",
+  "extracted_at": "2025-11-05T12:04:24.721725",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:53:38.576820",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

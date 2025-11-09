@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old, previously healthy woman is evaluated for skin rash, joint pains, and renal failure. She is found to have decreased C3 and C4 levels and a normal factor B level.",
+    "zh": "一名 24 岁、素来健康的女性因皮疹、关节疼痛和肾衰竭就诊。检查发现她的 C3 和 C4 水平降低，而因子 B 水平正常。"
+  },
+  "question": {
+    "en": "Which of the following most likely triggered the complement system activation in this patient?",
+    "zh": "以下哪项最有可能触发了该患者的补体系统激活？"
+  },
+  "options": {
+    "A": {
+      "en": "Antigens binding to IgA",
+      "zh": "抗原与 IgA 结合"
+    },
+    "B": {
+      "en": "Autoactivation of C3 component",
+      "zh": "C3 组分的自激活"
+    },
+    "C": {
+      "en": "C1 components binding to C1 inhibitor",
+      "zh": "C1 组分与 C1 抑制剂结合"
+    },
+    "D": {
+      "en": "C9-lipid membrane complex formation",
+      "zh": "C9-脂质膜复合物形成"
+    },
+    "E": {
+      "en": "IgG-antigen complex formation",
+      "zh": "IgG-抗原复合物形成"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The complement cascade is an ancient proteolytic defense mechanism that plays a major role in both the innate and adaptive immune responses. It is activated by 3 major inciting events, all of which terminate in the generation of C3 convertase as follows:\n\n*   Antibody-antigen binding (classical pathway): The C1 complex (C1q/r/s) forms on the Fc portion of an IgM or IgG antibody that is bound to an antigen; the C1 complex then cleaves C4 and C2 into C3 convertase.\n*   Lectin pattern recognition receptor binding (lectin pathway): Host pattern recognition receptors bind to carbohydrates that are produced only by foreign pathogens; binding generates proteases that cleave C4 and C2 into C3 convertase without requiring the C1 complex.\n*   C3b binding (alternative pathway): A small amount of autoactivated C3b continually forms in the intravascular space and is rapidly inactivated by healthy cells. However, the presence of microbes or damaged cells amplifies the production of C3b, which then engages with factor B and factor D and generates C3 convertase.\n\nC3 convertase catalyzes the formation of proteins that opsonize pathogens, promote inflammation, and lead to the generation of membrane attack complexes.\n\nThe most common cause of complement deficiency is autoantibodies, which activate the classical complement system after binding host antigens. Classical complement pathway activation is marked by low C4 and C3 levels and normal factor B levels {{exhibit_1}}. CH50, a measure of functional activity of the entire classical pathway (eg, sufficient C1-C9), will also be low. This pattern is common in systemic lupus erythematosus, particularly in the setting of active renal, skin, and joint disease.\n\n(Choice A) The Fc portions of IgA, IgE, and IgD cannot activate the complement system. Therefore, IgA-antigen binding does not reduce C3 and C4 levels.\n\n(Choice B) Autoactivation of C3b triggers the alternative complement pathway, which is marked by normal C4, low C3, and low factor B levels; AH50, a measure of functional activity of the alternative pathway, will also be low.\n\n(Choice C) C1 inhibitors remove C1r/s from the Fc portion of immunoglobulin (classical pathway) and block the activation of C2/C4 by lectin pattern recognition receptors (lectin pathway). Therefore, C1 inhibitors prevent activation of the complement cascade and increase (not decrease) complement levels.\n\n(Choice D) The complement cascade culminates with the generation of a membrane attack complex using C9 multimers in combination with C5-C8, leading to cell lysis.\n\nEducational objective:\nThe binding of autoantibodies to host antigens can trigger the classical complement cascade, leading to low C4 and C3 levels. Because autoantibodies do not activate the alternative complement cascade, factor B levels remain normal. This pattern is frequently seen in rheumatologic diseases such as systemic lupus erythematosus.",
+    "zh": "补体级联反应是一种古老的蛋白水解防御机制，在先天性和适应性免疫反应中都起着重要作用。它由 3 个主要诱发事件激活，所有这些事件最终都会生成 C3 转化酶，具体如下：\n\n*   抗体-抗原结合（经典途径）：C1 复合物（C1q/r/s）形成于与抗原结合的 IgM 或 IgG 抗体的 Fc 片段上；然后 C1 复合物将 C4 和 C2 裂解成 C3 转化酶。\n*   凝集素模式识别受体结合（凝集素途径）：宿主模式识别受体与仅由外来病原体产生的碳水化合物结合；结合产生蛋白酶，将 C4 和 C2 裂解成 C3 转化酶，而不需要 C1 复合物。\n*   C3b 结合（替代途径）：少量自激活的 C3b 持续在血管内空间形成，并被健康细胞迅速灭活。然而，微生物或受损细胞的存在会放大 C3b 的产生，然后与因子 B 和因子 D 结合并生成 C3 转化酶。\n\nC3 转化酶催化形成调理病原体、促进炎症并导致膜攻击复合物生成的蛋白质。\n\n补体缺陷最常见的原因是自身抗体，它们在与宿主抗原结合后激活经典补体系统。经典补体途径激活的特征是 C4 和 C3 水平低，因子 B 水平正常 {{exhibit_1}}。CH50，一种衡量整个经典途径（例如，足够的 C1-C9）的功能活性，也会较低。这种模式常见于系统性红斑狼疮，尤其是在活动性肾脏、皮肤和关节疾病的背景下。\n\n（选项 A）IgA、IgE 和 IgD 的 Fc 片段不能激活补体系统。因此，IgA-抗原结合不会降低 C3 和 C4 水平。\n\n（选项 B）C3b 的自激活触发替代补体途径，其特征是 C4 正常、C3 低和因子 B 水平低；AH50，一种衡量替代途径功能活性的指标，也会较低。\n\n（选项 C）C1 抑制剂从免疫球蛋白的 Fc 片段（经典途径）中去除 C1r/s，并阻断凝集素模式识别受体（凝集素途径）对 C2/C4 的激活。因此，C1 抑制剂可防止补体级联反应的激活，并增加（而不是减少）补体水平。\n\n（选项 D）补体级联反应最终产生膜攻击复合物，使用 C9 多聚体与 C5-C8 结合，导致细胞溶解。\n\n教育目标：\n自身抗体与宿主抗原的结合可触发经典补体级联反应，导致 C4 和 C3 水平降低。由于自身抗体不激活替代补体级联反应，因此因子 B 水平保持正常。这种模式经常见于风湿病，如系统性红斑狼疮。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the complement system, specifically the classical pathway and its activation by IgG-antigen complexes in autoimmune diseases like systemic lupus erythematosus (SLE). It also tests the ability to differentiate between the classical, alternative, and lectin pathways based on complement component levels.\n\nTo solve this question, recognize the clinical presentation suggestive of SLE (skin rash, joint pains, renal failure) and the complement profile (low C3 and C4, normal factor B) indicative of classical pathway activation. Eliminate options that do not align with this pattern or involve other complement pathways.",
+    "zh": "这道题考察了对补体系统的认识，特别是经典途径及其在自身免疫性疾病（如系统性红斑狼疮 (SLE)）中由 IgG-抗原复合物激活。它还考察了根据补体组分水平区分经典、替代和凝集素途径的能力。\n\n要解决这个问题，需要识别提示 SLE 的临床表现（皮疹、关节疼痛、肾衰竭）和指示经典途径激活的补体特征（C3 和 C4 低，因子 B 正常）。排除与此模式不符或涉及其他补体途径的选项。"
+  },
+  "tags": "Complement system; Classical pathway; Autoantibodies; Systemic lupus erythematosus; C3; C4; Factor B; Immunology; Rheumatology; Renal failure",
+  "category": "Immunology",
+  "question_id": "7609",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\7609",
+  "extracted_at": "2025-11-05T14:46:12.590202",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:03:19.687224",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

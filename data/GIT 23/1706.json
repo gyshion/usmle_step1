@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 47-year-old man comes to the office due to dysphagia. The patient says that it feels like food has been getting stuck in his throat over the last month. He has changed his diet to accommodate his symptoms and now consumes only liquid foods. The patient has a long history of postprandial heartburn that sometimes awakens him from sleep. He has treated his heartburn with over-the-counter antacids but usually only has partial relief. A thoracic CT image near the level of the aortic arch is shown below {{exhibit_1}}. This patient's symptoms are most likely related to pathology involving which of the following structures?",
+    "zh": "一名47岁男性因吞咽困难就诊。患者表示，过去一个月感觉食物卡在喉咙里。他已经改变了饮食以适应症状，现在只吃流质食物。患者有长期餐后反酸病史，有时会从睡眠中醒来。他用非处方抗酸剂治疗反酸，但通常只能部分缓解。下面显示了主动脉弓水平附近的胸部CT图像 {{exhibit_1}}。该患者的症状最可能与以下哪个结构的病理有关？"
+  },
+  "question": {
+    "en": "This patient's symptoms are most likely related to pathology involving which of the following structures?",
+    "zh": "该患者的症状最可能与以下哪个结构的病理有关？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's prolonged history of heartburn is suggestive of gastroesophageal reflux disease (GERD), a condition that affects the esophagus. Dysphagia (ie, difficulty swallowing) is common in patients with longstanding GERD and can be caused by impaired peristalsis, esophageal inflammation/stricture, or malignancy.\n\nIn the thorax, the esophagus courses between the trachea and vertebral bodies and is typically collapsed with no visible lumen. The trachea serves as a good landmark because the radiolucency of the air in this structure allows one to differentiate it from the esophagus posteriorly and the great vessels anteriorly (Choice C).\n\n(Choice A) This is the descending aorta.\n\n(Choice D) This is the arch of the azygos vein as it curves over the right main bronchus to join with the superior vena cava. The azygos vein itself ascends along the thoracic vertebral column to the right of the esophagus.\n\n(Choice E) This is a section of the top of the pulmonary artery as it passes underneath the aortic arch.\n\nEducational objective:\nThe esophagus is located between the trachea and the vertebral bodies in the superior thorax. It is typically collapsed with no visible lumen on CT images of the chest. {{exhibit_2}}",
+    "zh": "该患者长期反酸病史提示胃食管反流病 (GERD)，这是一种影响食管的疾病。吞咽困难（即吞咽困难）在患有长期 GERD 的患者中很常见，可能由蠕动功能障碍、食管炎症/狭窄或恶性肿瘤引起。\n\n在胸腔中，食管位于气管和椎体之间，通常塌陷且没有可见的管腔。气管是一个很好的标志，因为该结构中空气的透射性使其能够将其与后方的食管和前方的血管（选项 C）区分开来。\n\n（选项 A）这是降主动脉。\n\n（选项 D）这是奇静脉弓，它弯曲在右主支气管上方，与上腔静脉相连。奇静脉本身沿着胸椎向食管的右侧上升。\n\n（选项 E）这是肺动脉顶部的一部分，它位于主动脉弓下方。\n\n教育目标：\n食管位于胸腔上部的气管和椎体之间。在胸部 CT 图像上，它通常塌陷，没有可见的管腔。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of esophageal anatomy and the relationship of the esophagus to other structures in the mediastinum, as well as the clinical presentation of GERD and its potential complications like dysphagia.\n\nTo solve this question, review the CT image and identify the anatomical structures. Consider the patient's history of heartburn, which suggests esophageal pathology. Correlate the clinical findings with the anatomical location of the esophagus.",
+    "zh": "此题考察对食管解剖结构的了解以及食管与纵隔内其他结构的关系，以及 GERD 的临床表现及其潜在并发症（如吞咽困难）。\n\n要解决这个问题，请查看 CT 图像并识别解剖结构。考虑患者的反酸病史，这表明食管病变。将临床发现与食管的解剖位置相关联。"
+  },
+  "tags": "Esophagus; Gastroesophageal reflux disease; Dysphagia; Anatomy; Computed tomography; Thorax; Mediastinum",
+  "category": "GIT",
+  "question_id": "1706",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\1706",
+  "extracted_at": "2025-11-05T14:27:41.795987",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:53:08.616737",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

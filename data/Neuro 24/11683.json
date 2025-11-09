@@ -1,0 +1,70 @@
+{
+  "question_stem": {
+    "en": "A 36-year-old woman is evaluated for several months of tingling and numbness of the right hand and fingers that has progressed to dull, aching pain. The symptoms initially were intermittent but have become persistent, with the pain worsening overnight. {{exhibit_1}} The patient works as an office secretary and has had difficulty typing and holding the phone due to hand weakness. On examination, she has weakness of thumb opposition and atrophy of the thenar eminence. The patient attempted treatment with conservative measures but had no significant improvement and has now been referred for surgery. {{exhibit_2}} During surgery, incision of which of the following structures is most likely to improve this patient's symptoms?",
+    "zh": "一名36岁的女性因右手和手指麻木、刺痛数月而就诊，症状已进展为钝痛和酸痛。 最初症状是间歇性的，但已变得持续存在，且夜间疼痛加重。 {{exhibit_1}} 患者是一名办公室秘书，由于手部无力，打字和拿电话都很困难。 体格检查显示拇指对掌无力，鱼际肌萎缩。 患者尝试了保守治疗，但没有明显改善，现已转诊进行手术。 {{exhibit_2}} 在手术过程中，切开以下哪个结构最有可能改善患者的症状？"
+  },
+  "question": {
+    "en": "Which of the following structures is most likely to improve this patient's symptoms?",
+    "zh": "以下哪个结构最有可能改善该患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Fibrous flexor sheaths",
+      "zh": "纤维屈肌腱鞘"
+    },
+    "B": {
+      "en": "Flexor carpi ulnaris aponeurosis",
+      "zh": "尺侧腕屈肌腱膜"
+    },
+    "C": {
+      "en": "Palmar aponeurosis",
+      "zh": "掌腱膜"
+    },
+    "D": {
+      "en": "Synovial sheaths of flexor tendons",
+      "zh": "屈肌腱的滑膜鞘"
+    },
+    "E": {
+      "en": "Transverse carpal ligament",
+      "zh": "腕横韧带"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient has right hand pain and numbness, thenar atrophy, and weakness of thumb opposition characteristic of carpal tunnel syndrome (CTS). {{exhibit_3}} The carpal tunnel is an anatomic space in the wrist between the carpal bones and the transverse carpal ligament (flexor retinaculum). The median nerve and 9 tendons (eg, flexor digitorum superficialis and profundus, flexor pollicis longus) pass through the carpal tunnel to enter the hand. CTS occurs when increased pressure within the carpal tunnel (eg, compression, inflammation) causes median nerve damage. {{exhibit_4}} Often, CTS can be managed successfully with nonsurgical treatments (eg, wrist splint, glucocorticoid injection). However, patients with significant impairment and evidence of median nerve injury on electromyography are often treated with surgical decompression. A longitudinal incision through the transverse carpal ligament decreases the pressure on the median nerve, improving patients' symptoms.",
+    "zh": "该患者有右手疼痛和麻木、鱼际肌萎缩以及拇指对掌无力，这些是腕管综合征 (CTS) 的特征。 {{exhibit_3}} 腕管是腕部腕骨和腕横韧带（屈肌支持带）之间的解剖空间。 正中神经和9条肌腱（例如，指浅屈肌和深屈肌、拇长屈肌）通过腕管进入手部。 当腕管内压力增加（例如，压迫、炎症）导致正中神经损伤时，就会发生CTS。 {{exhibit_4}} 通常，CTS可以通过非手术治疗（例如，腕部夹板、糖皮质激素注射）成功控制。 然而，在肌电图上出现明显损伤和正中神经损伤证据的患者通常通过手术减压治疗。 通过切开腕横韧带进行的纵向切口可减轻正中神经的压力，改善患者的症状。"
+  },
+  "summary": {
+    "en": "The patient presents with symptoms consistent with carpal tunnel syndrome, including pain, numbness, weakness, and thenar atrophy in the right hand. Surgical decompression by incising the transverse carpal ligament is the most likely intervention to improve her symptoms.",
+    "zh": "患者表现出与腕管综合征一致的症状，包括右手疼痛、麻木、无力和鱼际肌萎缩。 通过切开腕横韧带进行的手术减压是最有可能改善其症状的干预措施。"
+  },
+  "tags": [
+    "carpal tunnel syndrome",
+    "median nerve",
+    "transverse carpal ligament",
+    "surgery",
+    "neurology",
+    "orthopedics"
+  ],
+  "category": "Neuro",
+  "question_id": "11683",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\11683",
+  "extracted_at": "2025-11-05T19:32:23.663335",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:31:21.752050",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

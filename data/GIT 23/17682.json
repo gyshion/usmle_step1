@@ -1,0 +1,56 @@
+{
+  "question_stem": {
+    "en": "A 37-year-old man comes to the emergency department due to worsening fatigue and a prolonged history of abdominal pain. He has had no surgeries and takes no medications. Examination shows mucosal pallor and epigastric tenderness on deep palpation. Blood samples are obtained for testing. Laboratory results are as follows:\n\nHemoglobin 8.2 g/dL\nMean corpuscular volume 110 μm³\nFolate 10 ng/mL (normal: 2.5-20)\nVitamin B₁₂ 90 pg/mL (normal: 200-800)\nGastrin 168 pg/mL (normal: 0-180)\nIntrinsic factor-blocking antibody negative\n\nCT scan of the abdomen reveals atrophy of the pancreas with multiple calcifications {{exhibit_1}}.",
+    "zh": "一名37岁男性因疲劳加重和长期腹痛史来急诊科就诊。他没有接受过手术，也没有服用药物。体格检查显示黏膜苍白，深部触诊有上腹部压痛。采集血样进行检测。实验室检查结果如下：\n\n血红蛋白 8.2 g/dL\n平均红细胞体积 110 μm³\n叶酸 10 ng/mL（正常值：2.5-20）\n维生素B₁₂ 90 pg/mL（正常值：200-800）\n胃泌素 168 pg/mL（正常值：0-180）\n内因子阻断抗体阴性\n\n腹部CT扫描显示胰腺萎缩，伴有多发钙化灶 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "A primary impairment in which of the following steps of cobalamin absorption is the most likely cause of this patient's anemia?",
+    "zh": "该患者贫血最可能的原因是钴胺素吸收的以下哪个步骤的主要受损？"
+  },
+  "options": {
+    "A": {
+      "en": "Acid-mediated release of cobalamin from an animal protein",
+      "zh": "钴胺素从动物蛋白中酸介导释放"
+    },
+    "B": {
+      "en": "Cobalamin binding to transcobalamin II",
+      "zh": "钴胺素与转钴胺素II结合"
+    },
+    "C": {
+      "en": "Enzyme-mediated cleavage of cobalamin from R protein",
+      "zh": "酶介导的钴胺素从R蛋白中裂解"
+    },
+    "D": {
+      "en": "Production of intrinsic factor",
+      "zh": "内因子的产生"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Vitamin B₁₂ (ie cobalamin) deficiency. This history, combined with imaging findings of pancreatic atrophy and calcifications, is consistent with CHRONIC PANCREATITIS, a progressive inflammatory disease that ultimately leads to pancreatic fibrosis.\n\nIn chronic pancreatitis, acinar cell destruction leads to decreased secretion of pancreatic proteolytic enzymes (eg, EXOCRINE INSUFFICIENCY). This not only affects protein and fat absorption, which can cause weight loss and steatorrhea, but also may lead to vitamin B₁₂ deficiency. Pancreatic proteolytic enzymes are needed to release vitamin B₁₂ from the vitamin B₁₂–R protein complex (R protein is also known as transcobalamin I or haptocorrin), a necessary step that enables vitamin B₁₂ to bind intrinsic factor, which ultimately facilitates terminal ileal absorption. Chronic pancreatitis may also lead to islet cell destruction and cause diabetes mellitus (eg, endocrine insufficiency).\n\n(Choice A) Long-term use of a proton pump inhibitor (PPI) may cause vitamin B₁₂ deficiency due to the inhibition of gastric acid secretion, which is needed to release vitamin B₁₂ from animal proteins. This patient does not use a PPI; furthermore, hypergastrinemia (ie, elevated serum gastrin) is expected in the setting of decreased gastric acid secretion.\n\n(Choice B) Transcobalamin II is a carrier protein that transports vitamin B₁₂ in the circulation after terminal ileal absorption. Transcobalamin II deficiency is a rare genetic condition that presents in infancy with failure to thrive and megaloblastic anemia.\n\n(Choice D) Pernicious anemia is an autoimmune condition that causes parietal cell destruction, decreased intrinsic factor production, and vitamin B₁₂ deficiency. Hypergastrinemia is expected because parietal cell destruction leads to decreased gastric acid secretion. This patient is also younger than most individuals with pernicious anemia, which is usually diagnosed later in life (median age 70-80).\n\nEducational objective:\nChronic pancreatitis may cause vitamin B₁₂ deficiency due to decreased production of pancreatic proteolytic enzymes (eg, exocrine insufficiency), which are needed to release vitamin B₁₂ from R protein. Other manifestations of chronic pancreatitis include chronic epigastric pain, weight loss, and steatorrhea.",
+    "zh": "维生素B₁₂（即钴胺素）缺乏症。该病史，结合胰腺萎缩和钙化的影像学发现，与慢性胰腺炎一致，这是一种进行性炎症性疾病，最终导致胰腺纤维化。\n\n在慢性胰腺炎中，腺泡细胞破坏导致胰蛋白酶分泌减少（例如，外分泌功能不全）。这不仅影响蛋白质和脂肪的吸收，从而导致体重减轻和脂肪泻，还可能导致维生素B₁₂缺乏。胰蛋白酶需要将维生素B₁₂从维生素B₁₂-R蛋白复合物（R蛋白也称为转钴胺素I或触珠蛋白）中释放出来，这是使维生素B₁₂能够与内因子结合的必要步骤，最终促进末端回肠吸收。慢性胰腺炎也可能导致胰岛细胞破坏并引起糖尿病（例如，内分泌功能不全）。\n\n(选项A) 长期使用质子泵抑制剂 (PPI) 可能会导致维生素B₁₂缺乏，因为其抑制胃酸分泌，而胃酸分泌是释放动物蛋白中的维生素B₁₂所必需的。该患者未使用PPI；此外，在胃酸分泌减少的情况下，预计会出现高胃泌素血症（即，血清胃泌素升高）。\n\n(选项B) 转钴胺素 II 是一种载体蛋白，在末端回肠吸收后在循环中转运维生素B₁₂。转钴胺素II缺乏症是一种罕见的遗传病，在婴儿期表现为生长迟缓和巨幼细胞性贫血。\n\n(选项D) 恶性贫血是一种自身免疫性疾病，可引起壁细胞破坏、内因子产生减少和维生素B₁₂缺乏。预计会出现高胃泌素血症，因为壁细胞破坏会导致胃酸分泌减少。该患者也比大多数患有恶性贫血的个体年轻，恶性贫血通常在晚年诊断（中位年龄 70-80 岁）。\n\n教学目标：\n慢性胰腺炎可能导致维生素B₁₂缺乏，因为胰蛋白酶（例如，外分泌功能不全）产生减少，而胰蛋白酶是将维生素B₁₂从R蛋白中释放所必需的。慢性胰腺炎的其他表现包括慢性上腹痛、体重减轻和脂肪泻。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of vitamin B12 deficiency caused by chronic pancreatitis and the mechanism of cobalamin absorption. It requires understanding the role of pancreatic enzymes in releasing vitamin B12 from R protein.\n\nThe best approach is to consider the patient's history of abdominal pain, pancreatic atrophy/calcifications, and vitamin B12 deficiency. Rule out other causes of B12 deficiency based on the clinical presentation and lab findings.",
+    "zh": "本题考察对慢性胰腺炎引起的维生素B12缺乏症以及钴胺素吸收机制的了解。需要理解胰酶在从R蛋白中释放维生素B12中的作用。\n\n最好的方法是考虑患者的腹痛病史、胰腺萎缩/钙化和维生素B12缺乏症。根据临床表现和实验室检查结果，排除B12缺乏症的其他原因。"
+  },
+  "tags": "Vitamin B12 deficiency; Chronic pancreatitis; Cobalamin absorption; Exocrine insufficiency; Pancreatic enzymes; Gastroenterology; Hematology",
+  "category": "GIT",
+  "question_id": "17682",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\17682",
+  "extracted_at": "2025-11-05T14:27:53.459151",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:53:19.517176",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

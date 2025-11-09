@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old man with a history of bipolar disorder is brought to the emergency department by his wife. He has been unable to sleep for more than 3 hours a night for the past week. Over the past several weeks, the patient has been irritable at home and has argued constantly with his wife. He has racing thoughts and speaks rapidly. The patient has stopped going to his job as a plumber, having decided to stay home and \"unravel the secrets of the universe.\" He has been drawing shapes and equations on the walls, and he has accused his wife of working for the police and trying to steal his secrets. Prior to examination, the patient becomes increasingly agitated and is hospitalized again against his will. He has no other medical conditions. Vital signs, physical exam findings, and laboratory findings are normal. He is prescribed multiple medications to address his symptoms. Five days later, the patient is calm but has difficulty moving spontaneously or getting out of bed. He does not respond appropriately to questions and appears newly disoriented and confused. Temperature is 39.4 C (102.9 F), blood pressure is 162/98 mm Hg, pulse is 98/min, and respirations are 20/min.",
+    "zh": "一名32岁男性，有双相情感障碍病史，由妻子带到急诊科。过去一周，他每晚睡眠时间不足3小时。过去几周，患者在家中易怒，并不断与妻子争吵。他思维奔逸，说话语速快。患者停止了管道工的工作，决定待在家里“解开宇宙的秘密”。他一直在墙上画形状和方程式，并指责妻子为警察工作，试图窃取他的秘密。在检查前，患者变得越来越激动，并再次违背他的意愿住院。他没有其他疾病。生命体征、体格检查结果和实验室检查结果均正常。他被开具多种药物来治疗他的症状。五天后，患者平静下来，但难以自主活动或起床。他无法对问题做出适当的回答，并且看起来新近定向力障碍和意识模糊。体温39.4摄氏度（102.9华氏度），血压162/98毫米汞柱，脉搏98次/分钟，呼吸20次/分钟。"
+  },
+  "question": {
+    "en": "Dysregulation of which of the following neurotransmitters is most likely to be the primary cause of this patient's new symptoms?",
+    "zh": "以下哪种神经递质的失调最可能是导致该患者新症状的主要原因？"
+  },
+  "options": {
+    "A": {
+      "en": "5-hydroxytryptamine",
+      "zh": "5-羟色胺"
+    },
+    "B": {
+      "en": "Dopamine",
+      "zh": "多巴胺"
+    },
+    "C": {
+      "en": "Gamma-aminobutyric acid",
+      "zh": "γ-氨基丁酸"
+    },
+    "D": {
+      "en": "Glutamate",
+      "zh": "谷氨酸"
+    },
+    "E": {
+      "en": "Norepinephrine",
+      "zh": "去甲肾上腺素"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient initially had multiple symptoms of an ACUTE MANIC EPISODE (increased activity, decreased need for sleep, racing thoughts, pressured speech, grandiose and paranoid delusions) and likely received ANTIPSYCHOTIC MEDICATION to target his agitation and psychosis. His subsequent development of fever, confusion, abnormal vital signs, and difficulty moving 5 days later is consistent with NEUROLEPTIC MALIGNANT SYNDROME (NMS), an uncommon but life-threatening complication of dopamine antagonists.\n\nNMS is characterized by HYPERTHERMIA, severe MUSCULAR RIGIDITY, ALTERED MENTAL STATUS, and AUTONOMIC DYSFUNCTION (eg, labile blood pressure, tachycardia, diaphoresis). It most commonly occurs within the first 2 weeks of initiation of therapy but can occur anytime during treatment. NMS is thought to be primarily due to DYSREGULATION OF DOPAMINE. D2 antagonism is the mechanism of action of all first-generation and most second-generation antipsychotics. Central dopamine receptor blockade in the hypothalamus is believed to be responsible for autonomic dysregulation and hyperthermia. Dopamine antagonism in the nigrostriatal pathway may lead to the diffuse \"lead-pipe\" rigidity.\n\n(Choices A and E) 5-hydroxytryptamine (serotonin) and norepinephrine reuptake inhibition is the mechanism of action of many antidepressants (eg, selective serotonin reuptake inhibitors, serotonin-norepinephrine reuptake inhibitors). However, antidepressants are not used in the treatment of acute mania. Serotonergic drugs can cause SEROTONIN SYNDROME (SS), but not NMS. SS has overlapping features with NMS (eg, autonomic dysregulation, mental status changes) but is characterized by neuromuscular irritability and hyperreflexia (eg, clonus) rather than generalized muscle rigidity.\n\n(Choice C) Medications that enhance the inhibitory effects of gamma-aminobutyric acid (eg, benzodiazepines) are often used as adjunctive treatment in acute mania to target agitation and insomnia. However, benzodiazepines do not cause NMS.\n\n(Choice D) Glutamate (which is the major excitatory neurotransmitter in the brain) may be affected by some antipsychotic medications and mood stabilizers, but it is not known to have a primary role in the development of NMS.\n\nEducational objective:\nNeuroleptic malignant syndrome (NMS) is characterized by severe muscular rigidity, mental status changes, autonomic dysregulation, and hyperthermia. Dopamine antagonism, the mechanism of action of most antipsychotics, has been implicated as a primary cause of NMS.",
+    "zh": "该患者最初表现出急性躁狂发作的多种症状（活动增加、睡眠需求减少、思维奔逸、言语急促、夸大妄想和偏执妄想），并且可能接受了抗精神病药物治疗以控制其激动和精神病症状。他在5天后随后出现发热、意识模糊、生命体征异常以及行动困难，这与神经阻滞剂恶性综合征（NMS）一致，这是一种罕见但危及生命的，由多巴胺拮抗剂引起的并发症。\n\nNMS的特征是高热、严重的肌肉僵硬、精神状态改变和自主神经功能障碍（例如，血压不稳定、心动过速、出汗）。它最常发生在治疗开始后的最初2周内，但可以在治疗期间的任何时间发生。NMS被认为主要由于多巴胺失调所致。D2受体拮抗是所有第一代和大多数第二代抗精神病药物的作用机制。下丘脑中枢多巴胺受体阻滞被认为是导致自主神经功能失调和高热的原因。黑质纹状体通路中的多巴胺拮抗可能导致弥漫性的“铅管样”僵硬。\n\n（选项A和E）5-羟色胺（血清素）和去甲肾上腺素再摄取抑制是许多抗抑郁药（例如，选择性血清素再摄取抑制剂、血清素-去甲肾上腺素再摄取抑制剂）的作用机制。然而，抗抑郁药不用于治疗急性躁狂症。血清素能药物可引起血清素综合征（SS），但不会引起NMS。SS与NMS具有重叠的特征（例如，自主神经功能障碍、精神状态改变），但其特征是神经肌肉兴奋性和反射亢进（例如，阵挛），而不是全身肌肉僵硬。\n\n（选项C）增强γ-氨基丁酸（例如，苯二氮卓类药物）抑制作用的药物通常被用作急性躁狂症的辅助治疗，以控制激动和失眠。然而，苯二氮卓类药物不会引起NMS。\n\n（选项D）谷氨酸（是脑中的主要兴奋性神经递质）可能受到一些抗精神病药物和情绪稳定剂的影响，但尚未发现其在NMS的发展中起主要作用。\n\n教育目标：\n神经阻滞剂恶性综合征（NMS）的特征是严重的肌肉僵硬、精神状态改变、自主神经功能障碍和高热。多巴胺拮抗，大多数抗精神病药物的作用机制，已被认为是NMS的主要原因。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of Neuroleptic Malignant Syndrome (NMS), its clinical presentation, and its underlying pathophysiology related to neurotransmitter dysregulation, specifically dopamine blockade by antipsychotic medications.\n\nTo solve this question, one must recognize the signs and symptoms suggestive of NMS following the initiation of antipsychotic medication, differentiate it from other conditions like serotonin syndrome, and identify dopamine as the primary neurotransmitter implicated in its development.",
+    "zh": "本题考察对神经阻滞剂恶性综合征（NMS）的理解，包括其临床表现以及与神经递质失调相关的潜在病理生理学，特别是抗精神病药物对多巴胺的阻断。\n\n要解决这个问题，必须认识到在开始使用抗精神病药物后，提示NMS的体征和症状，将其与其他情况（如血清素综合征）区分开来，并将多巴胺确定为与其发展相关的主要神经递质。"
+  },
+  "tags": "Neuroleptic Malignant Syndrome; Dopamine; Antipsychotics; Central nervous system; Pharmacology; Psychiatry; Autonomic dysfunction; Hyperthermia; Muscular rigidity",
+  "category": "Psychiatry",
+  "question_id": "20474",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\20474",
+  "extracted_at": "2025-11-05T19:50:30.765413",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:55:01.120844",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

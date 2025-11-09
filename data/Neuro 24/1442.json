@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 75-year-old woman is brought to the office by her son for evaluation of worsening forgetfulness over the past few years. She has had difficulty remembering names of the people she meets and frequently misplaces household items. Recently, the patient forgot to turn off the stove after cooking but had no major fire. She has also had disrupted sleep with frequent awakenings throughout the night. Vital signs are within normal limits. On physical examination, the patient is alert and cooperative but disoriented to time and can recall only 1 of 3 items on a short-term memory test. MRI of the head reveals diffuse cortical atrophy. A medication with which of the following effects would be most beneficial for this patient?",
+    "zh": "一位75岁的女性由她的儿子带到诊所，评估她过去几年记忆力不断恶化的情况。她很难记住她遇到的人的名字，并且经常放错家里的物品。最近，病人在做饭后忘记关掉炉子，但没有发生重大火灾。她也有睡眠中断，整夜频繁醒来。生命体征在正常范围内。在体格检查中，患者清醒并配合，但对时间定向力差，在短期记忆测试中只能回忆起3个项目中的1个。头部MRI显示弥漫性皮质萎缩。以下哪种药物的作用对该患者最有益？"
+  },
+  "question": {
+    "en": "A medication with which of the following effects would be most beneficial for this patient?",
+    "zh": "以下哪种药物的作用对该患者最有益？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased presynaptic norepinephrine reuptake",
+      "zh": "减少突触前去甲肾上腺素再摄取"
+    },
+    "B": {
+      "en": "Decreased synaptic acetylcholine degradation",
+      "zh": "减少突触乙酰胆碱降解"
+    },
+    "C": {
+      "en": "Increased postsynaptic NMDA receptor activity",
+      "zh": "增加突触后NMDA受体活性"
+    },
+    "D": {
+      "en": "Increased presynaptic dopamine synthesis",
+      "zh": "增加突触前多巴胺合成"
+    },
+    "E": {
+      "en": "Increased serotonergic neurotransmission",
+      "zh": "增加血清素能神经传递"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's progressive memory loss, functional impairments (ie, trouble with activities of daily living), and sleep disturbances are consistent with a dementia syndrome. MRI of the head reveals only diffuse cortical atrophy and no evidence of structural disease (eg, hydrocephalus, chronic subdural hematoma, vascular infarction). Therefore, she is most likely suffering from Alzheimer disease (AD), the most common form of primary dementia.\n\nThe pathogenesis of AD is complex but culminates in diffuse atrophy of cortical neurons. Specifically, DEGENERATION OF CHOLINERGIC NEURONS in the basal forebrain contributes to memory loss and functional decline. These cholinergic neurons project throughout the neocortex to positively regulate areas involved in memory (hippocampal formations) and executive function (frontal cortex), which are impaired in AD. CHOLINESTERASE INHIBITORS (eg, donepezil, galantamine) block acetylcholinesterase in the synaptic cleft to compensate for the loss of cholinergic transmission.\n\nCholinesterase inhibitors have modest effects on memory and cognition to IMPROVE DAILY FUNCTIONING. Cholinergic therapy should be considered in most patients with AD. Conversely, anticholinergic medications (eg, tricyclic antidepressants) should be discontinued whenever feasible because they can exacerbate cognitive dysfunction.\n\nAlthough they improve symptoms, procholinergic agents do not enhance neuron survival, so they have little impact on the overall trajectory of AD. In contrast, NMDA receptor antagonists (eg, memantine) INHIBIT glutamate NMDA signaling (Choice C) to prevent excitotoxicity (calcium overload) and subsequent neuronal apoptosis. These agents likely serve a neuroprotective role, slowing disease progression.\n\n(Choice A) Norepinephrine-dopamine reuptake inhibitors (eg, methylphenidate, atomoxetine) are central stimulants. They can promote wakefulness to treat narcolepsy or enhance concentration to treat attention deficit hyperactivity disorder.\n\n(Choice D) Dopamine precursors (eg, levodopa) can enhance dopamine availability in Parkinson disease (PD), which can be associated with dementia in later stages. They are used to improve motor rigidity but have no role in PD-related cognitive decline.\n\n(Choice E) Selective serotonin reuptake inhibitors (SSRI; eg, citalopram) are first-line medications for major depressive disorder, which may mimic dementia (ie, pseudodementia). SSRIs are also used to manage the depressive mood symptoms related to AD. They do not address the underlying cognitive impairment due to neuron cell death and loss of cholinergic signaling.\n\nEducational objective:\nAlzheimer disease (AD) is a progressive dementia featuring diffuse cortical atrophy involving loss of cholinergic neurons. Memory, cognitive, and functional impairments of AD are partially mediated by insufficient cholinergic output. Cholinesterase inhibitors (eg, donepezil) enhance cholinergic neurotransmission to compensate for this defect.",
+    "zh": "该患者进行性记忆力减退、功能障碍（即日常生活活动困难）和睡眠障碍与痴呆综合征一致。头部MRI仅显示弥漫性皮质萎缩，无结构性疾病的证据（例如，脑积水、慢性硬膜下血肿、血管梗死）。因此，她很可能患有阿尔茨海默病（AD），这是最常见的原发性痴呆形式。\n\nAD的发病机制很复杂，但最终会导致皮质神经元的弥漫性萎缩。具体而言，基底前脑中胆碱能神经元的变性导致记忆力减退和功能衰退。这些胆碱能神经元投射到整个新皮质，以积极调节涉及记忆（海马体）和执行功能（额叶皮质）的区域，这些区域在AD中受损。胆碱酯酶抑制剂（例如，多奈哌齐、加兰他敏）阻断突触间隙中的乙酰胆碱酯酶，以补偿胆碱能传递的丧失。\n\n胆碱酯酶抑制剂对记忆和认知有适度影响，可以改善日常功能。在大多数AD患者中应考虑胆碱能治疗。相反，抗胆碱能药物（例如，三环类抗抑郁药）应尽可能停用，因为它们会加重认知功能障碍。\n\n尽管它们可以改善症状，但促胆碱能药物不能增强神经元的存活，因此对AD的总体病程影响很小。相反，NMDA受体拮抗剂（例如，美金刚）抑制谷氨酸NMDA信号传导（选项C），以防止兴奋性毒性（钙超载）和随后的神经元凋亡。这些药物可能起到神经保护作用，延缓疾病进展。\n\n（选项A）去甲肾上腺素-多巴胺再摄取抑制剂（例如，哌甲酯、阿托莫西汀）是中枢兴奋剂。它们可以促进清醒，用于治疗发作性睡病，或增强注意力，用于治疗注意力缺陷多动障碍。\n\n（选项D）多巴胺前体（例如，左旋多巴）可以增强帕金森病（PD）中多巴胺的利用，晚期可与痴呆相关。它们用于改善运动僵硬，但对PD相关的认知能力下降没有作用。\n\n（选项E）选择性血清素再摄取抑制剂（SSRI；例如，西酞普兰）是重度抑郁症的一线药物，可能模仿痴呆（即，假性痴呆）。SSRI也用于管理与AD相关的抑郁情绪症状。它们无法解决由于神经元细胞死亡和胆碱能信号传导丧失引起的潜在认知障碍。\n\n教育目标：\n阿尔茨海默病（AD）是一种进行性痴呆，其特征是弥漫性皮质萎缩，涉及胆碱能神经元的丧失。AD的记忆、认知和功能障碍部分由胆碱能输出不足介导。胆碱酯酶抑制剂（例如，多奈哌齐）增强胆碱能神经传递，以补偿这种缺陷。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathophysiology of Alzheimer disease and the mechanism of action of symptomatic treatments. Specifically, it assesses the knowledge that Alzheimer disease involves the degeneration of cholinergic neurons and that cholinesterase inhibitors are used to increase acetylcholine levels in the synaptic cleft, thereby improving cognitive function.\n\nTo solve this question, one must first identify the likely diagnosis of Alzheimer disease based on the patient's age, progressive cognitive decline, and MRI findings of diffuse cortical atrophy. Then, recall the key neurotransmitter deficit in Alzheimer disease (acetylcholine) and the mechanism of action of medications used to treat it (cholinesterase inhibitors). Finally, match this mechanism to the provided options.",
+    "zh": "此问题测试对阿尔茨海默病病理生理学和对症治疗机制的理解。具体来说，它评估了以下知识：阿尔茨海默病涉及胆碱能神经元的变性，胆碱酯酶抑制剂用于增加突触间隙中的乙酰胆碱水平，从而改善认知功能。\n\n要解决这个问题，首先必须根据患者的年龄、进行性认知能力下降和弥漫性皮质萎缩的MRI结果来确定阿尔茨海默病的可能诊断。然后，回想起阿尔茨海默病的关键神经递质缺陷（乙酰胆碱）和用于治疗它的药物的机制（胆碱酯酶抑制剂）。最后，将此机制与提供的选项匹配。"
+  },
+  "tags": "Alzheimer disease; Dementia; Cholinergic neurons; Acetylcholine; Cholinesterase inhibitors; Neurotransmission; Cognitive impairment; Geriatrics; Neurology",
+  "category": "Neuro",
+  "question_id": "1442",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\1442",
+  "extracted_at": "2025-11-05T19:33:56.362763",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:33:53.299310",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

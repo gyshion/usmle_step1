@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "Pharmacology researchers develop a novel monoclonal antibody medication to treat the wet form of age-related macular degeneration. The antibody binds vascular endothelial growth factor, decreasing abnormal blood vessel formation in the subretinal space. In a clinical trial, the medication is found to improve visual function. During the next phase of the study, researchers use only the antigen binding fragment (Fab) of the antibody instead of the whole immunoglobulin. Which of the following is most likely to be observed with use of the antibody fragments compared to the intact immunoglobulin?",
+    "zh": "药理学研究人员开发了一种新型单克隆抗体药物来治疗年龄相关性黄斑变性的湿性形式。该抗体与血管内皮生长因子结合，减少视网膜下腔的异常血管形成。在临床试验中，该药物被发现可以改善视力功能。在研究的下一阶段，研究人员仅使用抗体的抗原结合片段 (Fab)，而不是整个免疫球蛋白。与使用完整的免疫球蛋白相比，使用抗体片段最有可能观察到以下哪一项？"
+  },
+  "question": {
+    "en": "Which of the following is most likely to be observed with use of the antibody fragments compared to the intact immunoglobulin?",
+    "zh": "与使用完整的免疫球蛋白相比，使用抗体片段最有可能观察到以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased renal excretion of the drug",
+      "zh": "药物的肾脏排泄减少"
+    },
+    "B": {
+      "en": "Greater tissue penetration of the drug",
+      "zh": "药物的组织穿透性更强"
+    },
+    "C": {
+      "en": "Higher receptor-mediated uptake by macrophages",
+      "zh": "巨噬细胞对受体的摄取更高"
+    },
+    "D": {
+      "en": "Increased complement-dependent cytotoxicity",
+      "zh": "补体依赖性细胞毒性增加"
+    },
+    "E": {
+      "en": "Lower affinity for the target antigen",
+      "zh": "对靶抗原的亲和力较低"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Immunoglobulins (antibodies) are the principal component of the humoral immune system. They are effector proteins that bind to specific epitopes of antigens based on the unique group of 110-130 amino acids present in the hypervariable region of the immunoglobulin light and heavy chain. Because individual immunoglobulins can identify molecular targets with a high degree of specificity, immunotherapy therapy (immunotherapy) has been developed to target specific ligands, cytokines, receptors, growth factors, and other proteins that contribute to the pathogenesis or progression of inflammatory and neoplastic conditions.\n\nImmunotherapy is monoclonal because all the immunoglobulin components in the medication have the same hypervariable region (produced from the same B-cell clone). However, most immunotherapy regimens use a fragment of the immunoglobulin with 1 valence (binding) site rather than the full immunoglobulin with 2 valence sites, because fragments are significantly smaller than the full immunoglobulin, which improves tissue/tumor penetration and medication pharmacokinetics.\n\nCommon types of immunoglobulin fragments include the following:\n\n*   Antigen binding fragments (Fab) contain a variable domain and the first constant region of a heavy and light chain. Because Fab fragments do not contain an Fc region, they do not activate complement or trigger phagocytosis via the Fc receptor on macrophages (Choices C and D). Therefore, Fab fragments generally are not used in applications that require cell death (eg, cancer immunotherapy).\n*   Single-chain variable fragments (scFv) contain a light chain and heavy chain variable region linked together by a peptide.\n*   Single-domain antibody (sdAb) has only a light chain variable region or a heavy chain variable region.\n\n(Choice A) Antibody fragments pass through the glomerular basement membrane into the collecting system more easily than full immunoglobulins due to their small size; therefore, antibody fragments typically are excreted more (not less) quickly.\n\n(Choice E) Because the hypervariable region in a Fab fragment is the same as that in the full immunoglobulin, the fragment and full immunoglobulin bind the antigen with an equivalent affinity. {{exhibit_1}} {{exhibit_2}}\n\nEducational objective:\n\nImmunotherapy medications often utilize fragments of a monoclonal immunoglobulin rather than the full hypervariable region (produced from the same B-cell clone). However, most immunotherapy regimens use a fragment of the immunoglobulin with 1 valence (binding) site rather than the full immunoglobulin with 2 valence sites, because fragments are smaller, they typically have better tissue penetration and pharmacokinetics. Fab fragments contain a variable domain and the first constant region from a heavy and light chain; because they do not contain an Fc region, Fab fragments cannot trigger cell killing via complement or phagocytosis.",
+    "zh": "免疫球蛋白（抗体）是体液免疫系统的主要组成部分。它们是效应蛋白，基于免疫球蛋白轻链和重链高变区中存在的独特的 110-130 个氨基酸组，与抗原的特定表位结合。由于单个免疫球蛋白可以高度特异性地识别分子靶标，因此已开发出免疫治疗（免疫疗法）来靶向有助于炎症和肿瘤性疾病的发病机制或进展的特定配体、细胞因子、受体、生长因子和其他蛋白质。\n\n免疫疗法是单克隆的，因为药物中所有免疫球蛋白成分都具有相同的高变区（由相同的 B 细胞克隆产生）。然而，大多数免疫治疗方案使用具有 1 个价（结合）位点的免疫球蛋白片段，而不是具有 2 个价位点的完整免疫球蛋白，因为片段明显小于完整的免疫球蛋白，这改善了组织/肿瘤穿透性和药物药代动力学。\n\n常见的免疫球蛋白片段类型包括以下几种：\n\n*   抗原结合片段 (Fab) 包含一个可变域以及重链和轻链的第一个恒定区。由于 Fab 片段不包含 Fc 区，因此它们不会激活补体或通过巨噬细胞上的 Fc 受体触发吞噬作用（选项 C 和 D）。因此，Fab 片段通常不用于需要细胞死亡的应用（例如，癌症免疫治疗）。\n*   单链可变片段 (scFv) 包含一个由肽连接在一起的轻链和重链可变区。\n*   单域抗体 (sdAb) 仅具有轻链可变区或重链可变区。\n\n（选项 A）由于其体积小，抗体片段比完整的免疫球蛋白更容易通过肾小球基底膜进入收集系统；因此，抗体片段通常被更快地（而不是更慢地）排出。\n\n（选项 E）由于 Fab 片段中的高变区与完整免疫球蛋白中的高变区相同，因此片段和完整免疫球蛋白以相同的亲和力结合抗原。{{exhibit_1}} {{exhibit_2}}\n\n教育目标：\n\n免疫治疗药物通常使用单克隆免疫球蛋白的片段，而不是完整的、由相同的 B 细胞克隆产生的高变区。然而，大多数免疫治疗方案使用具有 1 个价（结合）位点的免疫球蛋白片段，而不是具有 2 个价位点的完整免疫球蛋白，因为片段较小，它们通常具有更好的组织穿透性和药代动力学。Fab 片段包含一个可变域和重链和轻链的第一个恒定区；由于它们不包含 Fc 区，因此 Fab 片段无法通过补体或吞噬作用触发细胞杀伤。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the properties of antibody fragments, specifically Fab fragments, and how they differ from intact immunoglobulins in terms of tissue penetration, renal excretion, and effector functions. It also assesses understanding of the structural components of antibodies and how these components influence their biological activity.\n\nThe key to solving this question is recognizing that Fab fragments are smaller than intact antibodies, which allows for better tissue penetration. Additionally, understanding that Fab fragments lack the Fc region, which is responsible for complement activation and macrophage-mediated phagocytosis, is crucial for eliminating incorrect options.",
+    "zh": "本题考察对抗体片段（特别是 Fab 片段）特性的了解，以及它们在组织穿透、肾脏排泄和效应功能方面与完整免疫球蛋白有何不同。它还评估对抗体结构成分及其影响其生物活性的理解。\n\n解决此问题的关键是认识到 Fab 片段小于完整的抗体，这使得组织穿透性更好。此外，了解 Fab 片段缺乏负责补体激活和巨噬细胞介导的吞噬作用的 Fc 区对于排除不正确的选项至关重要。"
+  },
+  "tags": "Immunology; Antibody fragments; Fab fragments; Tissue penetration; Renal excretion; Complement activation; Macrophages; Monoclonal antibodies; Immunotherapy",
+  "category": "Immunology",
+  "question_id": "20817",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\20817",
+  "extracted_at": "2025-11-05T14:44:19.337283",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:01:53.403145",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 68-year-old woman comes to the emergency department due to shortness of breath, poor appetite, and abdominal distension for the past 3 months. Her symptoms have progressively worsened, and now she is unable to perform her daily activities. The patient has a history of coronary artery disease and underwent coronary artery bypass grafting 3 years ago. She also has myelodysplastic syndrome for which she receives intermittent blood transfusions. Physical examination shows jugular venous distension, abdominal distension, hepatomegaly, and lower extremity edema. A representative liver biopsy image is shown in the exh bit {{exhibit_1}}. Which of the following is the most likely cause of this patient's liver findings?",
+    "zh": "一位68岁的女性因过去3个月出现呼吸急促、食欲不振和腹胀而就诊于急诊科。她的症状逐渐恶化，现在她无法进行日常活动。患者有冠状动脉疾病病史，3年前接受了冠状动脉旁路移植术。她还有骨髓增生异常综合征，因此接受间歇性输血。体格检查显示颈静脉扩张、腹胀、肝肿大和下肢水肿。代表性的肝活检图像显示在{{exhibit_1}}。以下哪一项最可能是导致该患者肝脏发现的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's liver findings?",
+    "zh": "以下哪项最可能是该患者肝脏发现的最可能原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Autoimmune biliary destruction",
+      "zh": "自身免疫性胆管破坏"
+    },
+    "B": {
+      "en": "Excessive deposition of iron",
+      "zh": "铁过度沉积"
+    },
+    "C": {
+      "en": "Hepatitis virus infection",
+      "zh": "肝炎病毒感染"
+    },
+    "D": {
+      "en": "Metastatic spread to the liver",
+      "zh": "肝转移"
+    },
+    "E": {
+      "en": "Passive hepatic congestion",
+      "zh": "被动性肝淤血"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's shortness of breath accompanied by abdominal distension (ascites), hepatomegaly, jugular venous distension, and lower extremity edema—is consistent with right-sided heart failure; her liver biopsy demonstrates evidence of congestive hepatopathy {{exhibit_2}}.\n\nIn congestive hepatopathy, outflow of blood from the hepatic veins is impeded by elevated right atrial and vena caval pressures, which leads to increased hydrostatic pressure in the central veins of the liver. There is consequent seepage of fluid into the surrounding hepatocytes with resulting congestion and hepatic necrosis. The hepatocellular damage favors the centrilobular areas (zone 3) where congestion is most prominent. On microscopy, patchy hemorrhage is seen surrounding the central veins consistent with centrilobular necrosis {{exhibit_3}}. These areas of necrosis contrast with the relatively normal-appearing hepatocytes in the periportal regions (zone 1), creating an overall heterogeneous appearance sometimes referred to as \"nutmeg liver.\"\n\nIn addition to signs and symptoms of right-sided heart failure, patients with congestive hepatopathy may have localized right upper quadrant pain (due to stretching of the hepatic capsule), and laboratory results may demonstrate modest elevations in serum bilirubin and transaminases.\n\n(Choice A) Autoimmune destruction of intrahepatic biliary ducts occurs in primary biliary cholangitis (formerly primary biliary cirrhosis). Because intrahepatic bile ducts are concentrated in the periportal regions, histopathology demonstrates periportal fibrosis predominantly in those regions {{exhibit_4}}.\n\n(Choice B) Excessive hepatic deposition of iron most commonly occurs due to hemochromatosis. Patients receiving frequent blood transfusions are also at risk; however, histopathology would demonstrate periportal fibrosis and numerous brown pigments representing iron deposits. Fibrosis favors the periportal regions likely because those hepatocytes are exposed to the highest concentrations of iron-rich blood coming from the portal vein {{exhibit_5}}.\n\n(Choice C) Histopathology in chronic viral hepatitis (eg, chronic hepatitis C) reveals dense infiltrate of mononuclear inflammatory cells in the periportal regions; there is often gradual development of periportal fibrosis that may eventually bridge to the centrilobular regions {{exhibit_6}}.\n\n(Choice D) Histopathology of metastatic spread to the liver is unlikely to demonstrate a consistent pattern of lobular necrosis, but it can reveal an abrupt demarcation between normal hepatocellular tissue and the metastatic tumor {{exhibit_7}}.\n\nEducational objective:\nCongestive hepatopathy is a common complication of right-sided heart failure. Patchy hemorrhage and necrosis predominantly affect the centrilobular regions (zone 3) where hepatic congestion is most prominent. The centrilobular necrosis, combined with relatively normal-appearing periportal regions (zone 1), creates an overall heterogeneous appearance sometimes referred to as \"nutmeg liver\" {{exhibit_8}}.",
+    "zh": "该患者的呼吸急促伴腹胀（腹水）、肝肿大、颈静脉扩张和下肢水肿——与右心衰竭一致；她的肝活检显示充血性肝病 {{exhibit_2}}。\n\n在充血性肝病中，肝静脉的血流输出受右心房和腔静脉压力升高的阻碍，导致肝脏中央静脉的静水压力升高。随之发生液体渗入周围肝细胞，导致充血和肝坏死。肝细胞损伤倾向于中央小叶区域（zone 3），此处充血最明显。在显微镜下，可见中央静脉周围有斑片状出血，与中央小叶坏死一致 {{exhibit_3}}。这些坏死区域与门管区（zone 1）中相对正常的肝细胞形成对比，产生了整体异质性外观，有时被称为“肉豆蔻肝”。\n\n除了右心衰竭的体征和症状外，充血性肝病患者可能出现局部的右上腹疼痛（由于肝包膜拉伸），并且实验室结果可能显示血清胆红素和转氨酶轻度升高。\n\n（选项 A）原发性胆汁性胆管炎（以前称为原发性胆汁性肝硬化）中发生肝内胆管的自身免疫性破坏。由于肝内胆管集中在门管区，组织病理学显示纤维化主要发生在这些区域 {{exhibit_4}}。\n\n（选项 B）铁的过度肝脏沉积最常发生在血色素沉着症中。接受频繁输血的患者也有风险；然而，组织病理学将显示门管区纤维化和代表铁沉积的众多棕色色素。纤维化倾向于门管区，可能是因为这些肝细胞暴露于来自门静脉的最高浓度的富铁血液 {{exhibit_5}}。\n\n（选项 C）慢性病毒性肝炎（例如，慢性丙型肝炎）的组织病理学显示门管区有单核炎性细胞的密集浸润；通常会逐渐发展门管区纤维化，最终可能桥接到中央小叶区 {{exhibit_6}}。\n\n（选项 D）肝转移的组织病理学不太可能显示一致的小叶坏死模式，但它可以揭示正常肝细胞组织和转移性肿瘤之间的突然分界 {{exhibit_7}}。\n\n教育目标：\n充血性肝病是右心衰竭的常见并发症。斑片状出血和坏死主要影响肝脏充血最明显的中央小叶区（zone 3）。中央小叶坏死与相对正常的门管区（zone 1）相结合，产生了整体异质性外观，有时被称为“肉豆蔻肝” {{exhibit_8}}。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of congestive hepatopathy, its association with right-sided heart failure, and the characteristic histological findings. It also requires differentiating congestive hepatopathy from other liver diseases based on biopsy results.\n\nTo solve this question, recognize the signs and symptoms of right-sided heart failure in the patient's presentation. Then, correlate these findings with the liver biopsy description, focusing on centrilobular necrosis and congestion, which are hallmarks of congestive hepatopathy.",
+    "zh": "此题考察了对充血性肝病、其与右心衰竭的关系以及特征性组织学发现的认识。它还需要根据活检结果区分充血性肝病与其他肝脏疾病。\n\n要解决这个问题，需要识别患者表现中右心衰竭的体征和症状。然后，将这些发现与肝活检描述相关联，重点关注中央小叶坏死和充血，这是充血性肝病的标志。"
+  },
+  "tags": "Congestive hepatopathy; Right-sided heart failure; Liver biopsy; Centrilobular necrosis; Hepatomegaly; Jugular venous distension; Ascites; Myelodysplastic syndrome",
+  "category": "GIT",
+  "question_id": "15535",
+  "has_exhibits": true,
+  "exhibit_count": 8,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\15535",
+  "extracted_at": "2025-11-05T14:26:13.110332",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:52:27.131666",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

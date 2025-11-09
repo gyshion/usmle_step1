@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old previously healthy man comes to the office due to penile lesions. The patient first noticed a nontender papule on his penis a month ago, and it has progressively increased in size and number. He reports no fever, dysuria, or penile discharge. The patient is sexually active with multiple partners and uses condoms inconsistently. Physical examination reveals 3 soft, flesh-colored, papillary lesions measuring <1 cm on the dorsum of the penis. There are no enlarged inguinal lymph nodes, and the remainder of the examination is normal. Treatment is started with a topical agent that acts as a toll-like receptor agonist to increase antiviral cytokine production.",
+    "zh": "一名25岁 previously 健康的男性因阴茎病变来就诊。患者最初在一个月前注意到阴茎上有一个无压痛的丘疹，并且其大小和数量逐渐增加。他报告无发热、排尿困难或阴茎分泌物。患者性生活活跃，有多个性伴侣，且不规律使用避孕套。体格检查显示阴茎背部有3个柔软、肉色、乳头状病变，直径<1 cm。无腹股沟淋巴结肿大，其余检查结果正常。开始使用一种局部药物治疗，该药物作为 toll 样受体激动剂，以增加抗病毒细胞因子产生。"
+  },
+  "question": {
+    "en": "Which of the following medications was most likely prescribed to this patient?",
+    "zh": "以下哪种药物最有可能被处方给该患者？"
+  },
+  "options": {
+    "A": {
+      "en": "Calcipotriene",
+      "zh": "钙泊三醇"
+    },
+    "B": {
+      "en": "Imiquimod",
+      "zh": "咪喹莫特"
+    },
+    "C": {
+      "en": "Pimecrolimus",
+      "zh": "吡美莫司"
+    },
+    "D": {
+      "en": "Salicylic acid",
+      "zh": "水杨酸"
+    },
+    "E": {
+      "en": "Silver nitrate",
+      "zh": "硝酸银"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Imiquimod mechanism of action {{exhibit_1}}\n\nImiquimod is a topical immunomodulatory drug that is used to treat many common dermatologic disorders associated with abnormal cell proliferation, including anogenital warts (ie, human papillomavirus infection), superficial basal cell carcinoma, and actinic keratosis. The antiviral and antiproliferative effects of imiquimod are primarily mediated through activation of TOLL-like receptor 7, which upregulates the proinflammatory transcription factor nuclear factor-kappa B (NF-κB).\n\nNF-κB increases transcription of proinflammatory genes, activating antigen-presenting cells (eg, Langerhans cells in the skin) and initiating an immune response involving natural killer cells, cytotoxic T cells, and type 1 helper T cells. This results in increased cytokine production (eg, IL-1, IL-12, interferon-alpha/gamma, tumor necrosis factor-alpha) and enhanced immune-mediated killing of aberrant cells (eg, cancer cells, virus-infected cells).\n\nOther antiproliferative effects of imiquimod include:\n\n*   Induction of apoptosis of aberrant cells through caspase activation via inhibition of BCL-2\n*   Inhibition of angiogenesis by downregulating proangiogenic factors (eg, fibroblast growth factor) and upregulating angiogenesis inhibitors (eg, interferon-gamma, IL-12)\n\n(Choice A) Calcipotriene is a vitamin D analog (ie, activates the vitamin D receptor, a nuclear transcription factor) used to treat plaque psoriasis. It acts by inhibiting T-cell and keratinocyte proliferation and stimulating keratinocyte differentiation.\n\n(Choice C) Pimecrolimus is a calcineurin inhibitor used to treat atopic dermatitis (eczema). It acts by blocking the translocation of NFAT (nuclear factor of activated T cells), resulting in reduced transcription of IL-2.\n\n(Choice D) Topical salicylic acid is a keratolytic agent that acts by increasing sloughing of virus-infected epidermal cells. It is widely used to treat common warts but is not recommended for anogenital warts.\n\n(Choice E) Silver nitrate is a caustic agent that coagulates cellular proteins to form an eschar. It is used to cauterize wounds to stop bleeding (eg, epistaxis) and to remove excess granulation tissue.\n\nEducational objective:\n\nImiquimod is a widely used topical immunomodulatory agent that stimulates a potent cellular and cytokine-based immune response to aberrant cells (eg, human papillomavirus-infected cells in anogenital warts) by activating toll-like receptors and upregulating NF-κB. Other antiproliferative effects of imiquimod include inhibition of angiogenesis and induction of apoptosis.",
+    "zh": "咪喹莫特的作用机制 {{exhibit_1}}\n\n咪喹莫特是一种局部免疫调节药物，用于治疗许多与异常细胞增殖相关的常见皮肤病，包括肛门生殖器疣（即人乳头瘤病毒感染）、浅表基底细胞癌和日光性角化病。咪喹莫特的抗病毒和抗增殖作用主要通过激活TOLL样受体7来介导，TOLL样受体7上调促炎转录因子核因子-κB (NF-κB)。\n\nNF-κB 增加促炎基因的转录，激活抗原呈递细胞（例如，皮肤中的朗格汉斯细胞）并启动涉及自然杀伤细胞、细胞毒性T细胞和1型辅助T细胞的免疫反应。这导致细胞因子产生增加（例如，IL-1、IL-12、干扰素-α/γ、肿瘤坏死因子-α）和增强的免疫介导的异常细胞（例如，癌细胞、病毒感染细胞）的杀伤。\n\n咪喹莫特的其他抗增殖作用包括：\n\n*   通过半胱天冬酶激活抑制 BCL-2，诱导异常细胞凋亡\n*   通过下调促血管生成因子（例如，成纤维细胞生长因子）和上调血管生成抑制剂（例如，干扰素-γ，IL-12）来抑制血管生成\n\n（选项 A）钙泊三醇是一种维生素D类似物（即，激活维生素D受体，一种核转录因子），用于治疗斑块状银屑病。它通过抑制 T 细胞和角质形成细胞增殖并刺激角质形成细胞分化而起作用。\n\n（选项 C）吡美莫司是一种钙调神经磷酸酶抑制剂，用于治疗特应性皮炎（湿疹）。它通过阻断NFAT（活化T细胞的核因子）的转运，从而降低IL-2的转录。\n\n（选项 D）局部水杨酸是一种角质溶解剂，通过增加病毒感染的表皮细胞的脱落而起作用。它被广泛用于治疗寻常疣，但不推荐用于肛门生殖器疣。\n\n（选项 E）硝酸银是一种腐蚀剂，可凝固细胞蛋白形成痂。它用于烧灼伤口以止血（例如，鼻衄）和去除多余的肉芽组织。\n\n教育目标：\n\n咪喹莫特是一种广泛使用的局部免疫调节剂，通过激活toll样受体并上调 NF-κB，刺激针对异常细胞（例如，肛门生殖器疣中人乳头瘤病毒感染的细胞）的强效细胞和基于细胞因子的免疫反应。咪喹莫特其他抗增殖作用包括抑制血管生成和诱导细胞凋亡。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the treatment of anogenital warts (condyloma acuminata) caused by human papillomavirus (HPV) and the mechanism of action of imiquimod. It requires understanding the role of toll-like receptor agonists in stimulating antiviral cytokine production. \n\nThe key to solving this question is recognizing the clinical presentation of anogenital warts (soft, flesh-colored, papillary lesions) and linking it to the appropriate topical treatment that enhances the immune response against HPV. Knowing that imiquimod acts as a toll-like receptor agonist is crucial for selecting the correct answer.",
+    "zh": "本题考察对人乳头瘤病毒 (HPV) 引起的肛门生殖器疣（尖锐湿疣）的治疗以及咪喹莫特的作用机制的了解。 它需要了解 toll 样受体激动剂在刺激抗病毒细胞因子产生中的作用。\n\n解决此问题的关键是认识到肛门生殖器疣的临床表现（柔软、肉色、乳头状病变），并将其与增强针对 HPV 的免疫反应的适当局部治疗联系起来。 了解咪喹莫特作为 toll 样受体激动剂的作用对于选择正确答案至关重要。"
+  },
+  "tags": "Anogenital warts; Human papillomavirus; Imiquimod; Toll-like receptor; Dermatology; Infectious disease",
+  "category": "Derma",
+  "question_id": "14488",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\14488",
+  "extracted_at": "2025-11-05T12:21:23.982688",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:33:42.230842",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

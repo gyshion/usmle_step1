@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 3-year-old boy is brought to the office with 5 days of productive cough and fever. Examination shows a tachypneic, ill-appearing child with rales over the right lower lung. Chest x-ray reveals right lower lobe pneumonia. The boy is admitted to the hospital for intravenous antibiotics. Review of his medical history shows 4 prior pneumonias, and his weight is at the third percentile. Further testing demonstrates high sweat chloride content, and genetic sequencing shows a mutation in a transmembrane protein.",
+    "zh": "一名3岁男孩因5天来有咳痰和发热来就诊。体格检查显示呼吸急促，患儿病情严重，右下肺有啰音。胸部X光片显示右下肺肺炎。该男孩因静脉注射抗生素入院治疗。回顾病史显示，他曾有4次肺炎病史，且体重处于第三百分位数。进一步检测显示汗液氯化物含量高，基因测序显示跨膜蛋白发生突变。"
+  },
+  "question": {
+    "en": "Which of the following best describes the dysfunctional transmembrane protein causing this patient's disease?",
+    "zh": "以下哪项最好地描述了导致该患者疾病的跨膜蛋白功能障碍？"
+  },
+  "options": {
+    "A": {
+      "en": "ATP-gated",
+      "zh": "ATP门控"
+    },
+    "B": {
+      "en": "Cyclic nucleotide-gated",
+      "zh": "环核苷酸门控"
+    },
+    "C": {
+      "en": "Mechanically gated",
+      "zh": "机械门控"
+    },
+    "D": {
+      "en": "Temperature-gated",
+      "zh": "温度门控"
+    },
+    "E": {
+      "en": "Voltage-gated",
+      "zh": "电压门控"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Cystic fibrosis (CF) is an autosomal recessive disorder due to mutations (eg, ΔF508) in the CF TRANSMEMBRANE conductance regulator (CFTR) protein. The channel pore opens after binding of 2 ATP molecules, allowing transport of chloride ions down the electrochemical gradient. The movement of chloride establishes a membrane potential that draws sodium and water across the membrane as well. By encouraging sodium chloride and water transport across epithelial membranes, the CFTR hydrates mucosal surfaces in the airways and bowel. Mutations in the CFTR gene lead to intracellular protein degradation and decreased activity of the proteins that do reach the membrane. This leads to thick mucus on the lining of epithelial cells, which results in clinical manifestations of chronic cough, recurrent pneumonias, and pancreatic damage. {{exhibit_1}}\n\nThe normal CFTR protein also plays a role in the production of hypotonic sweat. In the eccrine gland, sweat is initially isotonic with the plasma, and normally sodium chloride is removed from the ductal lumen by CFTR. In the absence of functional CFTR, patients with CF cannot remove salt from their sweat and therefore have elevated sweat chloride and sodium levels. As early as the 17th century, increased mortality was recognized for children whose foreheads tasted salty. Today, the sweat chloride test is frequently used to screen for CF.\n\n(Choice B) Cyclic nucleotide-gated ion channels are important for photoreceptor and olfactory receptor neurons. These nonselective channels are directly activated by cyclic nucleotides (eg, cyclic adenosine monophosphate [cAMP]). In contrast, CFTR channels are modulated by cAMP-dependent phosphorylation, but they are not directly gated by cAMP binding.\n\n(Choice C) Mechanically gated (or stretch-activated) channels are ion channels that open in response to mechanical deformation of a cell membrane. Touch and hearing depend on mechanically activated channel transduction of mechanical force into electrochemical signals.\n\n(Choice D) Temperature-gated ion channels open in response to heat and are responsible for human sensation of external temperature.\n\n(Choice E) Voltage-gated ion channels open and close in response to changes in electrical membrane potential and are permeable to various ions. Congenital long QT syndrome is caused by a mutation in a voltage-gated potassium channel.",
+    "zh": "囊性纤维化 (CF) 是一种常染色体隐性遗传病，由CF跨膜电导调节器 (CFTR) 蛋白的突变（例如，ΔF508）引起。通道孔在结合2个ATP分子后打开，从而允许氯离子顺电化学梯度转运。氯离子的移动建立了一个膜电位，也将钠和水拉过细胞膜。通过促进氯化钠和水跨上皮细胞膜转运，CFTR 能够使气道和肠道的黏膜表面水合。CFTR 基因的突变会导致细胞内蛋白质降解，并降低到达细胞膜的蛋白质的活性。这导致上皮细胞内壁的黏液变稠，从而导致慢性咳嗽、反复性肺炎和胰腺损伤等临床表现。{{exhibit_1}}\n\n正常的CFTR蛋白也在低渗汗液的产生中发挥作用。在小汗腺中，汗液最初与血浆等渗，正常情况下，氯化钠通过CFTR从导管腔中移除。在没有功能性CFTR的情况下，CF患者无法从汗液中移除盐分，因此其汗液氯化物和钠水平升高。早在17世纪，人们就认识到，额头尝起来咸味的孩子死亡率会增加。如今，汗液氯化物试验常被用来筛查CF。\n\n(选项 B) 环核苷酸门控离子通道对光感受器和嗅觉受体神经元很重要。这些非选择性通道由环核苷酸（例如，环磷酸腺苷 [cAMP]）直接激活。相比之下，CFTR通道受cAMP依赖性磷酸化调节，但它们不是由cAMP结合直接门控。\n\n(选项 C) 机械门控（或拉伸激活）通道是响应细胞膜机械变形而打开的离子通道。触觉和听觉依赖于机械激活的通道将机械力转导为电化学信号。\n\n(选项 D) 温度门控离子通道响应热量而打开，并负责人类对外部温度的感觉。\n\n(选项 E) 电压门控离子通道响应电膜电位的变化而打开和关闭，并且对各种离子具有通透性。先天性长QT综合征是由电压门控钾通道的突变引起的。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of cystic fibrosis, specifically the function of the CFTR protein as an ATP-gated chloride channel and the consequences of its dysfunction. It also tests the ability to correlate clinical findings with the underlying genetic defect.\n\nTo solve this question, recognize the classic presentation of cystic fibrosis (recurrent pneumonia, failure to thrive, elevated sweat chloride) and recall that the CFTR protein is an ATP-gated chloride channel. Eliminate options that describe other types of ion channels.",
+    "zh": "这个问题考察了对囊性纤维化病理生理学的了解，特别是CFTR蛋白作为ATP门控氯离子通道的功能及其功能障碍的后果。它还考察了将临床发现与潜在的遗传缺陷联系起来的能力。\n\n要解决这个问题，需要认识到囊性纤维化的典型表现（反复性肺炎、生长迟缓、汗液氯化物升高），并回忆CFTR蛋白是ATP门控氯离子通道。排除描述其他类型离子通道的选项。"
+  },
+  "tags": "Cystic fibrosis; CFTR protein; ATP-gated channels; Chloride transport; Autosomal recessive; Respiratory infections; Sweat chloride test; Genetics; Pediatrics",
+  "category": "Chest",
+  "question_id": "1514",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1514",
+  "extracted_at": "2025-11-05T11:38:08.614737",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:35:05.890523",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

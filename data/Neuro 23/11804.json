@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man comes to the emergency department due to sudden-onset headache. The patient has had no recent falls or head trauma. Medical history includes hypertension and lung adenocarcinoma with abdominal metastasis. Initial noncontrast CT scan of the head reveals a small temporal lobe hemorrhage. Over the next 24 hours, the patient becomes progressively obtunded and develops generalized tonic-clonic seizures. Blood pressure is 190/96 mm Hg, pulse is 38/min, and respirations are 10/min with brief episodes of apnea. A repeat noncontrast CT scan of the head reveals acute hemorrhage expansion with brain herniation {{exhibit_1}}.",
+    "zh": "一名65岁男性因突发性头痛就诊于急诊科。患者近期无跌倒或头部外伤史。病史包括高血压和伴有腹部转移的肺腺癌。头颅初始非增强CT扫描显示颞叶小出血。在接下来的24小时内，患者进行性意识模糊，并出现全身强直-阵挛性癫痫发作。血压为190/96 mmHg，脉搏为38次/分钟，呼吸为10次/分钟，并伴有短暂的呼吸暂停。复查头颅非增强CT扫描显示急性出血扩大伴脑疝形成 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following findings is most likely to be observed on this patient's repeat neurologic examination?",
+    "zh": "该患者复查神经系统检查最有可能观察到以下哪一项发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Dilated pupil",
+      "zh": "瞳孔扩大"
+    },
+    "B": {
+      "en": "Horner syndrome",
+      "zh": "Horner综合征"
+    },
+    "C": {
+      "en": "Hyperreflexia",
+      "zh": "反射亢进"
+    },
+    "D": {
+      "en": "Nystagmus",
+      "zh": "眼球震颤"
+    },
+    "E": {
+      "en": "Upward gaze palsy",
+      "zh": "向上凝视麻痹"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient developed a spontaneous INTRACEREBRAL HEMORRHAGE with subsequent clinical deterioration due to ongoing bleeding and hemorrhage expansion. Expanding space-occupying lesions (eg, hemorrhage, hematoma) increase INTRACRANIAL PRESSURE, which can manifest with headache, vomiting, impaired consciousness, and ultimately Cushing triad (eg, hypertension, bradycardia, irregular respirations) when brain herniation is imminent.\n\nHerniation can occur in different portions of the brain depending on the location of the initial lesion. Lesions in the temporal lobe tend to cause transtentorial herniation of the uncus, which can compress the ipsilateral oculomotor nerve (CN III) as it exits the midbrain at the same level. Patients often develop ipsilateral CN III palsy with a fixed dilated pupil due to preganglionic parasympathetic nerve fiber damage.\n\nIf intracranial pressure continues to increase, the herniation can progress to involve the uncus bilaterally, ultimately causing downward displacement of the brainstem (ie, central herniation). This results in brainstem hemorrhages (ie, from rupture of paramedian basilar artery branches), continued clinical deterioration from damage to medullary cardiac and respiratory centers, abnormal posturing, and ultimately death.\n\n(Choice B) Horner syndrome (ie, ptosis, miosis, anhidrosis) is associated with lesions affecting the posterolateral hypothalamus or sympathetic tracts in the brainstem (eg, lateral medulla).\n\n(Choice C) Uncal herniation can compress the cerebral peduncles, resulting in corticospinal tract injury with contralateral hemiparesis. However, patients initially have flaccid paralysis with hyporeflexia (ie, spinal shock); spasticity/hyperreflexia develops days to weeks following acute upper motor neuron injury and would not yet be present in this patient.\n\n(Choice D) Nystagmus is generally seen with lesions to the pons, medulla, or cerebellum due to disruption of vestibular pathways.\n\n(Choice E) Hydrocephalus can cause upward gaze palsy due to dilation of the third ventricle with compression of the dorsal midbrain (eg, superior colliculus, pretectal area). {{exhibit_2}}",
+    "zh": "该患者发生了自发性脑内出血，随后由于持续出血和出血扩大而导致临床恶化。扩张性占位病变（例如，出血、血肿）会增加颅内压，这可表现为头痛、呕吐、意识障碍，最终表现为Cushing三联征（例如，高血压、心动过缓、呼吸不规则），当脑疝形成迫在眉睫时。\n\n疝可发生在脑的不同部位，这取决于初始病变的位置。颞叶的病变倾向于引起钩回的经幕切迹疝，可压迫同侧动眼神经（CN III），因为它在同一水平离开中脑。患者常发生同侧CN III麻痹，并因节前副交感神经纤维受损而出现瞳孔固定扩大。\n\n如果颅内压持续升高，疝可进展到双侧钩回受累，最终导致脑干下移（即，中央疝）。这导致脑干出血（即，来自正中旁基底动脉分支破裂），由于延髓心血管和呼吸中枢受损，临床持续恶化，姿势异常，最终导致死亡。\n\n（选项 B） Horner综合征（即，上睑下垂、瞳孔缩小、无汗症）与影响脑干后外侧下丘脑或交感神经束（例如，外侧延髓）的病变有关。\n\n（选项 C）钩回疝可压迫大脑脚，导致皮质脊髓束损伤，并出现对侧偏瘫。然而，患者最初出现弛缓性麻痹伴反射减退（即，脊髓休克）；痉挛/反射亢进会在急性上运动神经元损伤后数天到数周内发展，并且在该患者中尚未出现。\n\n（选项 D）眼球震颤通常见于脑桥、延髓或小脑病变，这是由于前庭通路受损所致。\n\n（选项 E）脑积水可引起向上凝视麻痹，这是由于第三脑室扩张并压迫背侧中脑（例如，上丘、前顶盖区）所致。 {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the clinical presentation and neurological findings associated with increased intracranial pressure and brain herniation, specifically uncal herniation. The question requires understanding of the anatomical relationships and the resulting neurological deficits when the uncus compresses the oculomotor nerve.\n\nTo solve this question, recognize the signs of increased intracranial pressure (hypertension, bradycardia, apnea) and the temporal lobe hemorrhage. Understand that uncal herniation compresses the ipsilateral oculomotor nerve, leading to a fixed, dilated pupil on the same side as the lesion.",
+    "zh": "本题测试与颅内压升高和脑疝，特别是钩回疝相关的临床表现和神经系统发现方面的知识。本题需要了解解剖学关系以及当钩回压迫动眼神经时导致的神经功能缺损。\n\n要解决此问题，需要识别颅内压升高的体征（高血压、心动过缓、呼吸暂停）和颞叶出血。了解钩回疝压迫同侧动眼神经，导致病变同侧瞳孔固定扩大。"
+  },
+  "tags": "Intracranial hemorrhage; Brain herniation; Uncal herniation; Oculomotor nerve palsy; Dilated pupil; Neurology; Neurosurgery; Increased intracranial pressure; Cushing triad",
+  "category": "Neuro",
+  "question_id": "11804",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\11804",
+  "extracted_at": "2025-11-05T15:12:53.148308",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:17:34.778443",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

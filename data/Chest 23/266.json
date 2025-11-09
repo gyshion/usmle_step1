@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 21-year-old previously healthy man comes to the office due to fever, malaise, myalgia, and nonproductive cough. His symptoms began 2 weeks after returning from exploring caves in Missouri. The patient does not use tobacco, alcohol, or illicit drugs. Temperature is 38.3 C (100.9 F), blood pressure is 120/70 mm Hg, pulse is 96/min, and respirations are 16/min. Physical examination reveals lung crackles. Chest x-ray shows patchy parenchymal infiltrates with enlarged mediastinal and hilar lymph nodes {{exhibit_1}}.",
+    "zh": "一名先前健康的21岁男性因发热、不适、肌痛和无痰咳嗽来就诊。他的症状开始于从密苏里州探险洞穴返回两周后。患者不吸烟、不饮酒或不使用违禁药物。体温为38.3°C (100.9°F)，血压为120/70 mmHg，脉搏为96次/分钟，呼吸为16次/分钟。体格检查显示肺部爆裂音。胸部X光片显示斑片状实质浸润，伴有纵隔和肺门淋巴结肿大 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is most likely to be present in this patient's pulmonary lesions?",
+    "zh": "以下哪项最有可能存在于该患者的肺部病变中？"
+  },
+  "options": {
+    "A": {
+      "en": "Budding yeasts with a thick capsule",
+      "zh": "具有厚荚膜的出芽酵母"
+    },
+    "B": {
+      "en": "Macrophages with intracellular small yeasts",
+      "zh": "具有细胞内小酵母的巨噬细胞"
+    },
+    "C": {
+      "en": "Round spherules with multiple endospores",
+      "zh": "具有多个内孢子的圆形球形体"
+    },
+    "D": {
+      "en": "Septate hyphae with dichotomous branching",
+      "zh": "具有二分叉分支的间隔菌丝"
+    },
+    "E": {
+      "en": "Yeasts with pseudohyphae and blastoconidia",
+      "zh": "具有假菌丝和芽生孢子的酵母"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Histoplasma capsulatum is a dimorphic fungus that is endemic to the Ohio and Mississippi River valleys. It exists as a filamentous mold in the environment and is found primarily in soil contaminated with bird or bat droppings. Therefore, infected patients often report a history of exploring caves (exposure to bats) or cleaning bird cages or coops.\n\nH. capsulatum is transmitted when fungal spores from contaminated soil are inhaled into the alveoli. At body temperature, the spores germinate into yeasts and are subsequently phagocytosed by alveolar macrophages. The pathogen eludes macrophage-mediated destruction by preventing acidification of the phagolysosome and initially replicates in an unchecked fashion. Therefore, light microscopy of the affected areas reveals macrophages with intracellular ovoid or round yeasts {{exhibit_2}}. \n\nSpread to the draining mediastinal and hilar lymph nodes prompts a cell-mediated immune response that helps contain the infection within caseating granulomas (similar to the immune response to Mycobacterium tuberculosis). Patients with intact immune systems usually remain asymptomatic, but a minority develop subacute pneumonia (ie, cough, fever, pleuritic chest pain, pulmonary infiltrates) with hilar and mediastinal lymphadenopathy. In immunocompromised patients (eg, AIDS), infected macrophages can spread the organism throughout the reticuloendothelial system, resulting in widespread disseminated disease.\n\n(Choice A) Cryptococcus neoformans appears as a budding yeast with a thick polysacchar de capsule. Although C neoformans is often transmitted from soil contaminated with bird (pigeon) droppings, this pathogen primarily causes central nervous system disease (meningoencephalitis) in patients with severe immunocompromise (eg, advanced AIDS).\n\n(Choice C) Coccidioides immitis appears as spherules packed with endospores. Coccidioides can cause pulmonary disease in healthy individuals, but this pathogen is endemic to the southwestern United States deserts (not Missouri) and is not associated with cave exploration.\n\n(Choice D) Aspergillus fumigatus appears as septate hyphae with V-shaped branching. Invasive pulmonary aspergillosis is seen primarily in patients with severe immunocompromise (eg, AIDS).\n\n(Choice E) Candida species are yeasts that form pseudohyphae and blastoconidia (budded cells off of the pseudohyphae). Patients with intact immune systems rarely develop invasive Candida infections.\n\nEducational objective:\nHistoplasma capsulatum is endemic to the Ohio and Mississippi River valleys and is found primarily in soil contaminated with bird or bat droppings. It exists in tissues as an ovoid/round yeast predominantly within the intracellular space of macrophages. Immunocompetent patients are often asymptomatic but can infrequently develop subacute pneumonia with hilar and mediastinal lymphadenopathy. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "组织胞浆菌（Histoplasma capsulatum）是一种二态真菌，流行于俄亥俄河谷和密西西比河流域。它在环境中以丝状霉菌形式存在，主要存在于受鸟类或蝙蝠粪便污染的土壤中。因此，受感染的患者通常报告有探险洞穴（接触蝙蝠）或清洁鸟笼或鸟舍的病史。\n\nH. capsulatum 通过吸入来自受污染土壤的真菌孢子进入肺泡而传播。在体温下，孢子发育成酵母，随后被肺泡巨噬细胞吞噬。病原体通过阻止溶酶体的酸化来逃避巨噬细胞介导的破坏，最初以不受控制的方式复制。因此，受影响区域的轻 microscopy 揭示了具有细胞内卵圆形或圆形酵母的巨噬细胞 {{exhibit_2}}。\n\n扩散到引流的纵隔和肺门淋巴结会引发细胞介导的免疫反应，这有助于将感染控制在干酪性肉芽肿内（类似于对结核分枝杆菌的免疫反应）。免疫系统完好的患者通常保持无症状，但少数患者会发生亚急性肺炎（即咳嗽、发烧、胸膜疼痛、肺浸润），伴有肺门和纵隔淋巴结病。在免疫功能低下的患者（例如，艾滋病）中，受感染的巨噬细胞可以将该生物体扩散到整个网状内皮系统，导致广泛的播散性疾病。\n\n(选项 A) 新型隐球菌（Cryptococcus neoformans）表现为具有厚多糖荚膜的出芽酵母。虽然新型隐球菌通常通过被鸟类（鸽子）粪便污染的土壤传播，但这种病原体主要在严重免疫功能低下的患者（例如晚期艾滋病）中引起中枢神经系统疾病（脑膜脑炎）。\n\n(选项 C) 粗球孢子菌（Coccidioides immitis）表现为充满内孢子的球形体。粗球孢子菌可导致健康个体的肺部疾病，但这种病原体流行于美国西南部沙漠（而非密苏里州），并且与洞穴探险无关。\n\n(选项 D) 烟曲霉（Aspergillus fumigatus）表现为具有 V 形分支的间隔菌丝。侵袭性肺曲霉病主要见于严重免疫功能低下的患者（例如艾滋病）。\n\n(选项 E) 念珠菌属是形成假菌丝和芽生孢子（从假菌丝上长出的芽生细胞）的酵母。免疫系统完好的患者很少发生侵袭性念珠菌感染。\n\n教育目标：\n组织胞浆菌流行于俄亥俄河谷和密西西比河流域，主要存在于受鸟类或蝙蝠粪便污染的土壤中。它以卵圆形/圆形酵母的形式存在于组织中，主要位于巨噬细胞的细胞内空间。免疫功能正常的患者通常无症状，但极少数情况下会发生亚急性肺炎，伴有肺门和纵隔淋巴结病。{{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Histoplasma capsulatum infection, its epidemiology, pathogenesis, and characteristic histological findings. It requires recognizing the association with cave exploration and the appearance of intracellular yeasts within macrophages.\n\nTo solve this question, consider the patient's travel history (cave exploration in Missouri), which suggests exposure to Histoplasma. Recall that Histoplasma exists as a yeast within macrophages in tissues. Eliminate other fungal infections based on their distinct morphology and epidemiology.",
+    "zh": "此题考察对组织胞浆菌感染、其流行病学、发病机制和特征性组织学发现的了解。它要求识别与洞穴探险的关联以及巨噬细胞内酵母的出现。\n\n要解决这个问题，请考虑患者的旅行史（在密苏里州的洞穴探险），这表明接触了组织胞浆菌。回想一下，组织胞浆菌以酵母形式存在于组织中的巨噬细胞内。根据其他真菌感染的独特形态和流行病学排除它们。"
+  },
+  "tags": "Histoplasmosis; Fungal infection; Pulmonary infection; Macrophages; Intracellular yeasts; Dimorphic fungi; Epidemiology; Infectious disease; Histopathology",
+  "category": "Chest",
+  "question_id": "266",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\266",
+  "extracted_at": "2025-11-05T11:44:51.732361",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:39:16.354976",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": " A  A 27-year-old woman comes to the office for a health maintenance examination. The patient has no chronic medical conditions and no family history of cancer. She has had several sexual partners and takes oral contraceptive pills for birth control. Vital signs are normal. Physical examination, including pelvic examination, is normal. A Pap test is performed and shows a squamous intraepithelial lesion that is positive for human papillomavirus. A cervical biopsy is performed and reveals low-grade dysplasia.",
+    "zh": "一位27岁的女性前来就诊，进行健康维护检查。患者无慢性病史，也无癌症家族史。她有多个性伴侣，并口服避孕药进行避孕。生命体征正常。体格检查，包括盆腔检查，均正常。进行了宫颈细胞学检查（Pap test），显示鳞状上皮内病变，人乳头瘤病毒（HPV）呈阳性。进行了宫颈活检，显示低级别病变。"
+  },
+  "question": {
+    "en": "Which of the following features best distinguishes this patient's lesion from cervical malignancy?",
+    "zh": "以下哪项特征最能区分该患者的病变与宫颈恶性肿瘤？"
+  },
+  "options": {
+    "A": {
+      "en": "Abundant mitoses",
+      "zh": "丰富的有丝分裂"
+    },
+    "B": {
+      "en": "Disordered maturation",
+      "zh": "成熟障碍"
+    },
+    "C": {
+      "en": "Loss of cell polarity",
+      "zh": "细胞极性丧失"
+    },
+    "D": {
+      "en": "Nuclear abnormalities",
+      "zh": "核异常"
+    },
+    "E": {
+      "en": "Pleomorphism",
+      "zh": "多形性"
+    },
+    "F": {
+      "en": "Reversibility of changes",
+      "zh": "病变的可逆性"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "Human papillomavirus (HPV) infection of the cervical squamous epithelium can lead to dysplasia (ie, CERVICAL INTRAEPITHELIAL NEOPLASIA [CIN]), a premalignant lesion. Squamous dysplasia is characterized by a breakdown in the normal, organized progression from tall cells in the basal layer to flattened cells on the epithelial surface. Individual dysplastic cells are often pleomorphic (ie, differing in shape and size), have enlarged and hyperchromatic (ie, dark staining) nuclei, and are associated with numerous mitotic figures (normally found only in the basal layer). The grade of CIN describes the degree of epithelial disruption:\n\nLow-grade CIN: Dysplasia involves the lower third of the epithelium (ie, CIN 1)\nHigh-grade CIN: Dysplasia has advanced beyond the lower third of the epithelium (sometimes involving the entire thickness) but does not penetrate the basement membrane (ie, CIN 2 or 3)\nIn contrast to malignancy (eg, invasive carcinoma), dysplastic changes (if mild to moderate) may reverse when the causal factor is withdrawn. Most cases of low-grade CIN regress spontaneously once the HPV infection is cleared by the immune system. {{exhibit_1}}\n(Choices A, B, C, D, and E) Abundant mitoses, disordered maturation, loss of cell polarity, nuclear abnormalities, and pleomorphism can be seen in both dysplasia and invasive carcinoma.\n\nEducational objective:\nDysplasia, characterized by the disruption of organized epithelial cell differentiation with atypical cells, does not always progress to malignancy. Mild to moderate dysplastic changes may reverse when the causal factor is withdrawn.",
+    "zh": "人乳头瘤病毒（HPV）感染宫颈鳞状上皮可导致异型增生（即，宫颈上皮内瘤变[CIN]），这是一种癌前病变。鳞状异型增生的特征是正常的、有组织的进展被破坏，从基底层的立方形细胞到上皮表面的扁平细胞。单个异型增生细胞通常有多形性（即，形状和大小不同），有增大的和染色过深的（即，深染）细胞核，并与许多有丝分裂象相关（通常仅在基底层发现）。CIN的分级描述了上皮破坏的程度：\n\n低级别CIN：异型增生累及上皮的下三分之一（即，CIN 1）\n高级别CIN：异型增生已超过上皮的下三分之一（有时累及整个厚度），但未穿透基底膜（即，CIN 2或3）\n与恶性肿瘤（例如，浸润性癌）相比，异型增生变化（如果轻度至中度）在去除病因后可能会逆转。一旦免疫系统清除HPV感染，大多数低级别CIN病例会自发消退。{{exhibit_1}}\n（选项A、B、C、D和E）丰富的有丝分裂、成熟障碍、细胞极性丧失、核异常和多形性可在异型增生和浸润性癌中同时存在。\n\n教育目标：\n异型增生的特征是具有非典型细胞的、有组织的上皮细胞分化的破坏，但并不总是进展为恶性肿瘤。轻度至中度的异型增生变化在去除病因后可能会逆转。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of cervical dysplasia and how it differs from cervical malignancy. The key difference is that dysplasia, particularly low-grade dysplasia, can be reversible, whereas malignancy is not.\n\nTo solve this question, understand the characteristics of dysplasia and malignancy. Focus on the reversibility aspect of dysplasia as the distinguishing feature from malignancy.",
+    "zh": "此题考察对宫颈异型增生及其与宫颈恶性肿瘤区别的理解。关键的区别在于异型增生，特别是低级别异型增生，可以逆转，而恶性肿瘤则不能。\n\n要解决这个问题，需要了解异型增生和恶性肿瘤的特征。侧重于异型增生可逆性这一特征，将其作为与恶性肿瘤的区别。"
+  },
+  "tags": "Cervical dysplasia; Cervical intraepithelial neoplasia; HPV infection; Cervical cancer; Reversibility; Pathology; Gynecology",
+  "category": "Pathology",
+  "question_id": "1753",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\1753",
+  "extracted_at": "2025-11-07T16:09:00.484683",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:45:40.358192",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,54 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old woman is being evaluated for persistent nonproductive cough. She also has had worsening exercise intolerance and fatigue for the past 4 weeks. Physical examination shows conjunctival pallor. Laboratory results are as follows:\n\nComplete blood count\n\nHemoglobin 6.2 g/dL\nMean corpuscular volume 90 µm³\nReticulocytes 0.1%\nPlatelets 280,000/mm³\nLeukocytes 6,700/mm³\n\nSerum chemistry and kidney function test results are normal. Iron studies and serum vitamin B₁₂ and folic acid levels are within normal limits. Chest imaging reveals an anterior mediastinal mass.",
+    "zh": "一名55岁女性正在接受评估，因为她持续存在无咳痰咳嗽。在过去的4周里，她还出现了运动耐受性恶化和疲劳。体格检查显示结膜苍白。实验室结果如下：\n\n全血细胞计数\n\n血红蛋白 6.2 g/dL\n平均红细胞体积 90 µm³\n网织红细胞 0.1%\n血小板 280,000/mm³\n白细胞 6,700/mm³\n\n血清化学和肾功能测试结果正常。铁检查和血清维生素B₁₂和叶酸水平均在正常范围内。胸部影像学检查显示前纵隔肿块。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's hematologic disorder?",
+    "zh": "以下哪项最可能是该患者血液系统疾病的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Bone marrow infiltration by neoplastic plasma cells",
+      "zh": "骨髓被肿瘤性浆细胞浸润"
+    },
+    "B": {
+      "en": "Decreased kidney production of erythropoietin",
+      "zh": "肾脏产生促红细胞生成素减少"
+    },
+    "C": {
+      "en": "Immune-mediated loss of erythroid precursor cells",
+      "zh": "免疫介导的红系祖细胞丢失"
+    },
+    "D": {
+      "en": "Splenic destruction of antibody-coated erythrocytes",
+      "zh": "脾脏破坏被抗体包被的红细胞"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has SEVERE ANEMIA with normal platelet and leukocyte counts. Because 2 of the 3 cell lines produced by the bone marrow are intact (ie, platelets and leukocytes), it is unlikely that this patient has a disorder that affects the entire bone marrow, such as neoplastic tumor infiltration (Choice A).\n\nThe next step is to determine whether the anemia is due to impaired production or increased loss of erythrocytes. The bone marrow normally releases immature erythrocytes (reticulocytes) in response to severe anemia to compensate for lost oxygen-carrying capacity. For this reason, a high reticulocyte count suggests the anemia is due to a process outside the bone marrow, such as acute bleeding or hemolysis (eg, intravascular or splenic erythrocyte destruction) (Choice D). In contrast, an inappropriately low reticulocyte count (as in this case) suggests a problem with the production of red blood cells in the bone marrow, which may be caused by 1 of the following:\n\n*   Low erythropoietin (EPO): EPO is primarily produced in the cortical peritubular cells of the kidneys. It travels to the bone marrow, where it stimulates the division and differentiation of erythroid progenitor cells. A low level of EPO is primarily caused by fibrosis of the peritubular cells due to chronic renal failure. This patient with a normal creatinine level is very unlikely to have low EPO (Choice B).\n*   Lack of nutrients (eg, vitamin B₁₂, folate, iron): Efficient erythropoiesis requires adequate levels of vitamin B₁₂, folate, and iron. Significant deficiencies in these nutrients usually alter the size of mature erythrocytes, leading to changes in mean corpuscular volume (MCV). Low vitamin B₁₂ or folate eventually causes macrocytosis (high MCV), and low iron eventually causes microcytosis (low MCV).\n*   Destruction of erythrocyte precursors: Viruses (eg, parvovirus B19), medications, and AUTOANTIBODIES can destroy erythrocyte progenitor cells, leading to severe anemia with morphologically normal platelets and leukocytes (ie, RED CELL APLASIA). This condition is common with certain tumor types, namely lymphoproliferative disorders (eg, chronic lymphocytic leukemia) and THYMOMA. Thymoma often causes mediastinal mass with pulmonary symptoms (eg, persistent nonproductive cough) due to infringement on adjacent airways.\n\nEducational objective:\nPure red cell aplasia is a rare form of bone marrow failure characterized by severe anemia with reticulocytopenia and morphologically normal platelets and leukocytes. It is most common with thymoma, lymphoproliferative leukemia, and parvovirus B19 infection.",
+    "zh": "该患者患有严重贫血，血小板和白细胞计数正常。由于骨髓产生的3条细胞系中有2条完整（即血小板和白细胞），因此该患者不太可能患有影响整个骨髓的疾病，如肿瘤浸润（选项A）。\n\n下一步是确定贫血是由于红细胞生成受损还是红细胞丢失增加。骨髓通常会释放未成熟红细胞（网织红细胞）以应对严重贫血，从而代偿失去的氧气输送能力。因此，高网织红细胞计数表明贫血是由于骨髓外的过程，如急性出血或溶血（例如，血管内或脾脏红细胞破坏）（选项D）。相反，不适当的低网织红细胞计数（如本例）提示骨髓中红细胞生成出现问题，这可能由以下原因之一引起：\n\n*   促红细胞生成素（EPO）低：EPO主要由肾脏皮质肾小管周围细胞产生。它到达骨髓，刺激红系祖细胞的分裂和分化。EPO水平低主要由慢性肾衰竭引起的肾小管周围细胞纤维化引起。该患者肌酐水平正常，不太可能出现EPO低（选项B）。\n*   缺乏营养素（例如，维生素B₁₂、叶酸、铁）：有效的红细胞生成需要足够的维生素B₁₂、叶酸和铁。这些营养素的严重缺乏通常会改变成熟红细胞的大小，导致平均红细胞体积（MCV）的变化。低维生素B₁₂或叶酸最终会导致巨幼细胞性贫血（高MCV），低铁最终会导致小细胞性贫血（低MCV）。\n*   红细胞前体细胞的破坏：病毒（例如，细小病毒B19）、药物和自身抗体可破坏红细胞祖细胞，导致严重贫血，血小板和白细胞形态正常（即，纯红细胞再生障碍性贫血）。这种情况常见于某些肿瘤类型，即淋巴增殖性疾病（例如，慢性淋巴细胞性白血病）和胸腺瘤。胸腺瘤常因侵犯邻近气道而引起纵隔肿块伴肺部症状（例如，持续性无咳痰咳嗽）。\n\n教育目标：\n纯红细胞再生障碍性贫血是一种罕见的骨髓衰竭，其特征是严重贫血伴网织红细胞减少，血小板和白细胞形态正常。它最常见于胸腺瘤、淋巴增殖性白血病和细小病毒B19感染。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pure red cell aplasia, a rare form of bone marrow failure, and its association with thymoma and other conditions. It also tests the ability to interpret laboratory findings, including hemoglobin and reticulocyte counts, to differentiate between causes of anemia. \n\nTo solve this question, recognize the patient's severe anemia with low reticulocyte count, normal platelets and leukocytes, and mediastinal mass. Consider the possible causes of pure red cell aplasia, including thymoma, and link the clinical presentation to the underlying pathophysiology.",
+    "zh": "此问题测试关于纯红细胞再生障碍性贫血的知识，纯红细胞再生障碍性贫血是一种罕见的骨髓衰竭，及其与胸腺瘤和其他疾病的关联。它还测试了根据实验室结果（包括血红蛋白和网织红细胞计数）区分贫血病因的能力。\n\n要解决此问题，请识别患者的严重贫血伴低网织红细胞计数、血小板和白细胞正常以及纵隔肿块。考虑纯红细胞再生障碍性贫血的可能病因，包括胸腺瘤，并将临床表现与潜在的病理生理学联系起来。"
+  },
+  "tags": "Pure red cell aplasia; Anemia; Reticulocytopenia; Thymoma; Mediastinal mass; Hematology; Bone marrow failure; Erythropoiesis; Autoimmune disorders",
+  "category": "Blood",
+  "question_id": "1786",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1786",
+  "extracted_at": "2025-11-05T11:28:06.753943",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:29:09.596231",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

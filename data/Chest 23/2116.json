@@ -1,0 +1,71 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man comes to the emergency department due to worsening dyspnea. The patient has a history of cigarette smoking and chronic productive cough. He experienced increasing shortness of breath today without fever, chills, or chest pain. Temperature is 36.7 C (98 F), blood pressure is 135/85 mm Hg, pulse is 94/min, and respirations are 24/min. Pulse oximetry shows 86% on room air. He has decreased breath sounds over the right chest. Chest x-ray is shown in the exhibit {{exhibit_1}}.",
+    "zh": "一名65岁男性因呼吸困难加重来到急诊科。患者有吸烟史和慢性咳嗽伴咳痰病史。他今天感到呼吸急促，无发热、寒战或胸痛。体温36.7摄氏度（98华氏度），血压135/85毫米汞柱，脉搏94次/分钟，呼吸24次/分钟。脉搏血氧饱和度显示，在空气中为86%。右侧胸部呼吸音减弱。胸部X光片见{{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's radiographic findings?",
+    "zh": "以下哪项最可能是该患者影像学表现的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Air leakage and accumulation in the right pleural space",
+      "zh": "空气泄漏并积聚在右侧胸膜腔"
+    },
+    "B": {
+      "en": "Fibrous replacement of the pulmonary parenchyma",
+      "zh": "肺实质纤维化替代"
+    },
+    "C": {
+      "en": "Fluid transudation into the interstitial and alveolar space",
+      "zh": "液体渗出到间质和肺泡腔"
+    },
+    "D": {
+      "en": "Occlusion of the right mainstem bronchus by mucus plug",
+      "zh": "右主支气管被黏液栓堵塞"
+    },
+    "E": {
+      "en": "Thromboembolic occlusion of the right pulmonary artery",
+      "zh": "右肺动脉血栓栓塞"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's right-sided decreased breath sounds and hemithorax opacification with tracheal deviation toward the opacified side are suggestive of right lung collapse (ie, atelectasis) due to obstruction of the right mainstem bronchus. This most commonly occurs due to mucus plugging in patients with chronic obstructive pulmonary disease or bronchiectasis, or due to malignant obstruction by a centrally located lung cancer (eg, squamous cell lung cancer). Distal to the obstruction, air becomes trapped in the alveoli and gradually gets absorbed into the bloodstream, with ensuing large-volume alveolar collapse and pulling of the trachea toward the affected side. Other mediastinal structures (eg, heart, esophagus, great vessels) may also shift in the same direction. The loss of radiolucent air, combined with shifting of organs into the hemithorax, appears as a completely opacified hemithorax on chest x-ray. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}} {{exhibit_8}} {{exhibit_9}} {{exhibit_10}} {{exhibit_11}} {{exhibit_12}}\n\nIn contrast, space-occupying pathology such as large pleural effusion or tension pneumothorax (ie, air accumulation in the pleural space) forces tracheal deviation away from the affected side (Choice A).\n\n(Choice B) Fibrous replacement of the pulmonary parenchyma occurs in interstitial lung disease. Chest x-ray is expected to show reticular markings in both lungs rather than complete opacification of one side.\n\n(Choice C) Fluid transudation into the alveoli and interstitial spaces occurs with pulmonary edema (eg, heart failure). Chest x-ray typically shows bilateral fluffy-appearing infiltrates, often with an associated bilateral pleural effusion. However, the trachea remains midline.\n\n(Choice E) Thromboembolic occlusion of the right pulmonary artery (ie, acute pulmonary embolism) usually presents with a normal chest x-ray. Characteristic findings such as Westermark sign (area of distal arterial lucency due to the reduced perfusion) or Hampton hump (wedge-shaped opacity adjacent to the pleura) are only occasionally present.",
+    "zh": "该患者右侧呼吸音减弱，以及胸腔半侧呈不透光表现，伴气管向不透光侧偏移，提示右肺塌陷（即肺不张），由右主支气管阻塞所致。这最常发生在慢性阻塞性肺病或支气管扩张症患者中，由黏液栓阻塞导致，或因中心型肺癌（如鳞状细胞肺癌）恶性梗阻所致。在阻塞远端，空气被困在肺泡中，并逐渐被吸收到血流中，随之发生大量肺泡塌陷，气管向受累侧牵引。其他纵隔结构（如心脏、食管、大血管）也可能向同一方向移动。放射性透明空气的缺失，加上器官向半侧胸腔的转移，在胸部X光片上表现为完全不透光的胸腔半侧。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}} {{exhibit_8}} {{exhibit_9}} {{exhibit_10}} {{exhibit_11}} {{exhibit_12}}\n\n相比之下，占位性病变，如大量胸腔积液或张力性气胸（即空气积聚在胸膜腔内），导致气管偏离受累侧（选项A）。\n\n（选项B）肺实质纤维化替代发生在间质性肺病中。胸部X光片预计显示双肺网状纹理，而不是一侧完全不透光。\n\n（选项C）液体渗出到肺泡和间质间隙发生在肺水肿（如心力衰竭）中。胸部X光片通常显示双侧毛絮状浸润，常伴有双侧胸腔积液。然而，气管保持在中线。\n\n（选项E）右肺动脉血栓栓塞（即急性肺栓塞）通常表现为正常的胸部X光片。特征性表现，如Westermark征（由于灌注减少而导致的远端动脉透光区）或Hampton隆起（邻近胸膜的楔形不透光）仅偶尔出现。"
+  },
+  "summary": {
+    "en": "This question tests the ability to interpret chest x-ray findings in the context of a patient presenting with dyspnea and decreased breath sounds, specifically focusing on the differential diagnosis of unilateral lung opacification. It requires knowledge of the typical radiographic features associated with different causes of lung collapse.\n\nThe key to solving this question is to recognize the unilateral opacification and tracheal deviation on the chest x-ray, which points towards a volume loss process like atelectasis. Then, consider the patient's history of smoking and chronic cough to narrow down the most likely cause of bronchial obstruction.",
+    "zh": "本题测试在患者出现呼吸困难和呼吸音减弱的情况下，解读胸部X光片结果的能力，特别是侧重于单侧肺不透光现象的鉴别诊断。它需要了解与不同原因的肺萎陷相关的典型放射学特征。\n\n解决此问题的关键是识别胸部X光片上的单侧不透光和气管偏离，这指向一个体积丧失过程，如肺不张。然后，考虑患者的吸烟史和慢性咳嗽，以缩小最可能的支气管阻塞原因。"
+  },
+  "tags": "Lung collapse; Atelectasis; Bronchial obstruction; Chest X-ray; Respiratory distress; COPD; Lung cancer; Pulmonary embolism; Pneumothorax; Pleural effusion",
+  "category": "Chest",
+  "question_id": "2116",
+  "has_exhibits": true,
+  "exhibit_count": 12,
+  "exhibit_files": [
+    "image1.jpg",
+    "image10.jpg",
+    "image11.jpg",
+    "image12.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg",
+    "image9.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\2116",
+  "extracted_at": "2025-11-05T11:44:44.948690",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:39:04.355606",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

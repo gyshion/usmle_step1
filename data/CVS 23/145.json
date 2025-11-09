@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old man comes to the office for follow-up of hypertension. He was diagnosed with hypertension 10 years ago and has been treated with a number of different medications. However, the patient has had to discontinue several medications due to side effects such as dizziness, palpitations, and headaches. Currently he takes ramipril and chlorthalidone and is tolerating them well. Blood pressure is 160/92 mm Hg and was 158/89 mm Hg at his most recent prior visit. ECG shows sinus bradycardia (55/min) with PR interval prolongation (280 msec). Which of the following medications would be most effective for lowering this patient's blood pressure without worsening his ECG abnormalities?",
+    "zh": "一名62岁男性前来就诊复查高血压。10年前他被诊断为高血压，并接受过多种药物治疗。然而，由于出现头晕、心悸和头痛等副作用，患者不得不停用几种药物。目前，他正在服用雷米普利和氯噻酮，且耐受良好。血压为160/92 mmHg，上次就诊时为158/89 mmHg。心电图显示窦性心动过缓（55次/分钟），PR间期延长（280毫秒）。以下哪种药物最能有效降低该患者的血压，且不会加重他的心电图异常？"
+  },
+  "question": {
+    "en": "Which of the following medications would be most effective for lowering this patient's blood pressure without worsening his ECG abnormalities?",
+    "zh": "以下哪种药物最能有效降低该患者的血压，且不会加重他的心电图异常？"
+  },
+  "options": {
+    "A": {
+      "en": "Diltiazem",
+      "zh": "地尔硫卓"
+    },
+    "B": {
+      "en": "Metoprolol",
+      "zh": "美托洛尔"
+    },
+    "C": {
+      "en": "Nifedipine",
+      "zh": "硝苯地平"
+    },
+    "D": {
+      "en": "Sotalol",
+      "zh": "索他洛尔"
+    },
+    "E": {
+      "en": "Verapamil",
+      "zh": "维拉帕米"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient's ECG shows sinus bradycardia (rate <60/min) with first-degree atrioventricular (AV) block (PR interval >200 msec). Of the choices above, nifedipine is the most appropriate agent to manage hypertension as it has minimal effect on cardiac conduction. Dihydropyridines can cause reflex tachycardia in response to peripheral vasodilation and are therefore useful in hypertensive patients with resting bradycardia.\n\n(Choices A and E) Verapamil is a nondihydropyridine calcium channel blocker with a significant depressive effect on cardiac conduction. Diltiazem has combined effects and acts at both the myocardium and peripheral arterial beds. These medications can worsen bradycardia and AV block and should not be used in patients with underlying conduction abnormalities.\n\n(Choices B and D) Metoprolol is a cardioselective beta blocker with negative chronotropic and dromotropic (decreased AV conduction) effects. Sotalol is a class III antiarrhythmic drug with significant beta-blocking properties. These drugs can worsen bradycardia and AV conduction defects and would not be recommended for this patient.\n\nEducational objective:\nCalcium channel blockers inhibit the L-type calcium channel on vascular smooth muscle and cardiac cells. Dihydropyridines (eg, nifedipine, amlodipine) primarily affect peripheral arteries and cause vasodilation. Nondihydropyridines (eg, verapamil, diltiazem) affect the myocardium and can cause bradycardia and slowed atrioventricular conduction.",
+    "zh": "该患者的心电图显示窦性心动过缓（心率<60次/分钟）伴一度房室 (AV) 传导阻滞（PR间期>200毫秒）。在上述选项中，硝苯地平是最适合用于控制高血压的药物，因为它对心脏传导的影响最小。二氢吡啶类药物可引起外周血管舒张的反射性心动过速，因此适用于存在静息性心动过缓的高血压患者。\n\n(选项A和E) 维拉帕米是一种非二氢吡啶类钙通道阻滞剂，对心脏传导有显著的抑制作用。地尔硫卓具有综合作用，作用于心肌和外周动脉床。这些药物可加重心动过缓和房室传导阻滞，不应用于存在潜在传导异常的患者。\n\n(选项B和D) 美托洛尔是一种心脏选择性β受体阻滞剂，具有负性变时性和负性传导性（降低房室传导）作用。索他洛尔是一种具有显著β受体阻滞特性的III类抗心律失常药物。这些药物可加重心动过缓和房室传导缺陷，不推荐用于该患者。\n\n教育目标：\n钙通道阻滞剂可抑制血管平滑肌和心肌细胞上的L型钙通道。二氢吡啶类药物（如硝苯地平、氨氯地平）主要影响外周动脉，引起血管舒张。非二氢吡啶类药物（如维拉帕米、地尔硫卓）影响心肌，可引起心动过缓和房室传导减慢。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of antihypertensive medications, specifically calcium channel blockers, and their effects on cardiac conduction in a patient with bradycardia and first-degree AV block. The question requires understanding of the different classes of calcium channel blockers and their mechanisms of action.\n\nThe best approach is to identify the patient's ECG abnormalities (bradycardia and AV block) and then select an antihypertensive medication that will not worsen these conditions. Dihydropyridine calcium channel blockers are preferred in this scenario as they have minimal effect on cardiac conduction.",
+    "zh": "本题考察了降压药的知识，特别是钙通道阻滞剂，以及它们对患有心动过缓和一度房室传导阻滞的患者的心脏传导的影响。本题需要理解不同类型的钙通道阻滞剂及其作用机制。\n\n最佳方法是确定患者的心电图异常（心动过缓和房室传导阻滞），然后选择一种不会加重这些情况的降压药物。在这种情况下，首选二氢吡啶类钙通道阻滞剂，因为它们对心脏传导的影响最小。"
+  },
+  "tags": "Hypertension; Calcium channel blockers; Nifedipine; Bradycardia; AV block; ECG interpretation; Cardiology; Antihypertensive medications",
+  "category": "CVS",
+  "question_id": "145",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\145",
+  "extracted_at": "2025-11-05T11:54:14.589494",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:45:30.924405",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

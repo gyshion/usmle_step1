@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": " A28-year-old man comes to the emergency department with a 3-day history of increasing chest tightness and intermittent sharp chest pains. He also reports mild dyspnea, especially on exertion. The patient has no prior chronic medical conditions but had an upper respiratory illness a week ago that resolved without treatment. ECG reveals sinus tachycardia and low voltage QRS complexes that vary in the amplitude from beat to beat.",
+    "zh": "一名 28 岁男性来到急诊科，有 3 天的胸闷加重和间歇性锐利胸痛病史。他还报告了轻微的呼吸困难，尤其是在劳累时。患者既往无慢性病史，但一周前曾患上呼吸道疾病，未经治疗后缓解。心电图显示窦性心动过速和低电压 QRS 波群，其振幅逐搏变化。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely chest x-ray finding in this patient?",
+    "zh": "该患者最可能的胸部 X 线表现是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "{{exhibit_1}}",
+      "zh": "{{exhibit_1}}"
+    },
+    "B": {
+      "en": "{{exhibit_2}}",
+      "zh": "{{exhibit_2}}"
+    },
+    "C": {
+      "en": "{{exhibit_3}}",
+      "zh": "{{exhibit_3}}"
+    },
+    "D": {
+      "en": "{{exhibit_4}}",
+      "zh": "{{exhibit_4}}"
+    },
+    "E": {
+      "en": "{{exhibit_5}}",
+      "zh": "{{exhibit_5}}"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient with a recent history of upper respiratory infection has likely developed viral pericarditis complicated by pericardial effusion. Viral infection is the most common cause of acute pericarditis, with coxsackievirus (types A and B) and echovirus being the most common organisms. Patients with pericarditis typically experience chest pain, which may be intermittent (as in this patient) but is often pleuritic and/or positional (eg, relieved by leaning forward).\n\nAs in this patient, viral pericarditis can be complicated by pericardial effusion due to fibrinous or serofibrinous pericardial inflammation. Symptoms of pericardial effusion may include a sensation of chest tightness or fullness and dyspnea on exertion (due to decreased diastolic ventricular filling that leads to decreased stroke volume). In addition, pericardial effusion often causes the following clinical findings:\n\n*   Tachycardia to compensate for decreased ventricular filling\n*   Low voltage QRS on ECG and diminished heart sounds to auscultation due to pericardial fluid accumulation increasing the distance between the heart and the ECG leads or stethoscope\n*   Electrical alternans on ECG due to the swinging motion of the heart in the fluid-filled pericardial cavity, causing a beat-to-beat variation in the QRS axis\n\nPatients with pericardial effusion classically have an enlarged, globular cardiac silhouette on chest x-ray, which occurs when progressive pericardial stretching over days to weeks (ie, subacute course) allows large volumes (eg, up to 1-2 L) of pericardial fluid to accumulate. Clear lung fields are typically seen because the increase in pericardial pressure (due to pericardial fluid accumulation) affects the lower pressure, right-sided heart chambers more than the left-sided heart chambers. When right-sided obstruction to blood flow is greater than left-sided obstruction, pulmonary edema is unlikely to develop.\n\n(Choice B) Hyperinflated lungs with increased bronchial markings are commonly seen in patients with chronic obstructive pulmonary disease.\n\n(Choice C) Bilateral patchy infiltrates (perihilar > peripheral) are concerning for pulmonary edema. A normal cardiac silhouette may be present (as in this x-ray) due to an acute cardiac process (eg, MI) that causes acute systolic dysfunction and pulmonary congestion. In contrast, pulmonary edema in the setting of cardiomegaly is often due to chronic heart failure.\n\n(Choice D) Absence of right-sided, peripheral lung markings surrounding a small, collapsed lung is consistent with a large right-sided pneumothorax.\n\n(Choice E) Blunting of the right costophrenic angle and loss of diaphragmatic contour are characteristic of a pleural effusion.\n\nEducational objective:\nAcute viral pericarditis is commonly complicated by pericardial effusion. Classic features of pericardial effusion include tachycardia and ECG findings of low voltage QRS and electrical alternans. Chest x-ray classically reveals an enlarged cardiac silhouette with clear lungs. {{exhibit_6}}",
+    "zh": "该患者近期有上呼吸道感染病史，很可能发展为病毒性心包炎，并伴有心包积液。病毒感染是急性心包炎最常见的原因，柯萨奇病毒（A 型和 B 型）和埃可病毒是最常见的病原体。心包炎患者通常会经历胸痛，这种疼痛可能是间歇性的（如该患者），但通常是胸膜性的和/或体位性的（例如，前倾可缓解）。\n\n如该患者所示，病毒性心包炎可因纤维蛋白性或浆液纤维蛋白性心包炎症而并发心包积液。心包积液的症状可能包括胸闷或饱胀感，以及劳力性呼吸困难（由于舒张期心室充盈减少导致每搏输出量减少）。此外，心包积液常引起以下临床表现：\n\n*   心动过速，以代偿心室充盈减少\n*   心电图上低电压 QRS 波群和听诊心音减弱，原因是心包积液增加心脏与心电图导联或听诊器之间的距离\n*   心电图上电交替，这是由于心脏在充满液体的的心包腔内摆动，导致 QRS 波群轴逐搏变化\n\n心包积液患者的胸部 X 线片通常显示心脏阴影增大呈球形，这种情况发生在数天到数周的进行性心包扩张（即亚急性病程）时，允许大量（例如，多达 1-2 升）心包液积聚。通常可见清晰的肺野，因为心包压力增加（由于心包积液）对低压、右侧心脏腔室的影响大于左侧心脏腔室。当右侧血流受阻大于左侧血流受阻时，不太可能发生肺水肿。\n\n（选项 B）肺过度充气伴支气管纹理增多常见于慢性阻塞性肺病患者。\n\n（选项 C）双侧斑片状浸润（肺门>周围）提示肺水肿。由于急性心脏病变（如心梗）导致急性收缩功能障碍和肺充血，可能存在正常的心脏阴影（如本 X 线片）。相反，伴有心脏肥大的肺水肿通常是由于慢性心力衰竭所致。\n\n（选项 D）在小的、萎陷的肺周围缺乏右侧、周围的肺纹理，与右侧大型气胸相符。\n\n（选项 E）右侧肋膈角变钝和膈肌轮廓消失是胸腔积液的特征。\n\n教育目标：\n急性病毒性心包炎常并发心包积液。心包积液的经典特征包括心动过速和心电图上低电压 QRS 波群和电交替。胸部 X 线片通常显示心脏阴影增大伴肺野清晰。{{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pericardial effusion, its clinical presentation, and characteristic findings on chest X-ray. Specifically, it assesses the ability to recognize the enlarged, globular cardiac silhouette and clear lung fields associated with pericardial effusion.\n\nTo solve this question, consider the patient's history of recent upper respiratory infection, chest pain, dyspnea, tachycardia, and ECG findings of low voltage QRS complexes with electrical alternans. These findings suggest pericardial effusion, which is best visualized on chest X-ray as an enlarged cardiac silhouette with clear lung fields.",
+    "zh": "本题考察对心包积液、其临床表现和胸部 X 线特征性表现的了解。具体而言，它评估了识别与心包积液相关的心脏阴影增大呈球形和肺野清晰的能力。\n\n要解决这个问题，请考虑患者近期上呼吸道感染病史、胸痛、呼吸困难、心动过速以及心电图低电压 QRS 波群伴电交替的发现。这些发现提示心包积液，通过胸部 X 线片显示为心脏阴影增大伴肺野清晰。"
+  },
+  "tags": "Pericardial effusion; Pericarditis; Chest X-ray; Cardiology; Viral infection; ECG; Electrical alternans; Tachycardia; Dyspnea; Chest pain",
+  "category": "CVS",
+  "question_id": "20258",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\20258",
+  "extracted_at": "2025-11-05T12:09:25.831263",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:27:36.773488",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

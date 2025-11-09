@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "The figure below shows the estimated incidence and mortality in 2019 for the 3 most common cancers affecting women in the United States, based on the American Cancer Society's *Cancer Facts & Figures 2019*. The x-axis lists the specific cancers, and the y-axis shows the projected number of patients affected. {{exhibit_1}}",
+    "zh": "下图显示了根据美国癌症协会的《2019 年癌症事实与数据》估计的 2019 年影响美国女性的 3 种最常见癌症的发病率和死亡率。X 轴列出了具体的癌症，Y 轴显示了预计受影响的患者人数。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following lists of cancers most likely corresponds to Cancers 1, 2, and 3, respectively?",
+    "zh": "以下哪一组癌症最有可能分别对应癌症 1、2 和 3？"
+  },
+  "options": {
+    "A": {
+      "en": "Breast, lung, colorectal",
+      "zh": "乳腺癌、肺癌、结直肠癌"
+    },
+    "B": {
+      "en": "Lung, breast, colorectal",
+      "zh": "肺癌、乳腺癌、结直肠癌"
+    },
+    "C": {
+      "en": "Breast, ovary, lung",
+      "zh": "乳腺癌、卵巢癌、肺癌"
+    },
+    "D": {
+      "en": "Lung, breast, cervix",
+      "zh": "肺癌、乳腺癌、宫颈癌"
+    },
+    "E": {
+      "en": "Breast, colorectal, lung",
+      "zh": "乳腺癌、结直肠癌、肺癌"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "According to estimates by the American Cancer Society, the most common cancers (excluding basal and squamous cell skin cancer) in 2019 among women living in the United States are (by order of incidence) breast, lung, and colorectal cancer. Although BREAST CANCER has the HIGHEST INCIDENCE (268,600), its mortality is relatively low (41,760) due to early detection while the tumor is still localized. In contrast, the incidence of LUNG CANCER in women is lower (111,710), but its MORTALITY IS HIGHER (66,020), in part because lung cancer tends to be detected later and is less localized (Choice B). Lung cancer has emerged as the leading cause of cancer mortality in women.\n\n(Choices C and D) The incidence of ovarian (22,530) and cervical (13,170) cancers is much lower than that of the three cancers presented in the figure.\n\n(Choice E) The incidence (67,100) and mortality (23,380) of colorectal cancer are lower than that of either breast or lung cancer. {{exhibit_2}}",
+    "zh": "根据美国癌症协会的估计，2019 年居住在美国的女性中最常见的癌症（不包括基底细胞癌和鳞状细胞皮肤癌）是（按发病率排序）乳腺癌、肺癌和结直肠癌。虽然乳腺癌的发病率最高（268,600），但由于早期发现，肿瘤仍在局部，其死亡率相对较低（41,760）。 相比之下，女性肺癌的发病率较低（111,710），但其死亡率较高（66,020），部分原因是肺癌往往较晚才被发现并且不太局限（选项 B）。肺癌已成为女性癌症死亡的主要原因。\n\n（选项 C 和 D）卵巢癌（22,530）和宫颈癌（13,170）的发病率远低于图中呈现的三种癌症。\n\n（选项 E）结直肠癌的发病率（67,100）和死亡率（23,380）低于乳腺癌或肺癌。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the incidence and mortality rates of the most common cancers affecting women in the United States, specifically breast, lung, and colorectal cancer.\n\nTo solve this question, analyze the graph to determine the relative incidence rates of the three cancers and match them to the correct order: breast, lung, and colorectal.",
+    "zh": "本题考察对影响美国女性的最常见癌症的发病率和死亡率的了解，特别是乳腺癌、肺癌和结直肠癌。\n\n要解决此问题，请分析图表以确定这三种癌症的相对发病率，并将它们与正确的顺序匹配：乳腺癌、肺癌和结直肠癌。"
+  },
+  "tags": "Breast cancer; Lung cancer; Colorectal cancer; Cancer incidence; Cancer mortality; Women's health; Epidemiology; Oncology",
+  "category": "Blood",
+  "question_id": "1206",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1206",
+  "extracted_at": "2025-11-05T11:20:02.715868",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:26:16.695777",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

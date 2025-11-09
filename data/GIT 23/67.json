@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 39-year-old woman comes to the emergency department due to several episodes of severe upper abdominal pain. Her pain is triggered by fatty foods and resolves spontaneously. The symptoms first began a few months earlier after an uncomplicated pregnancy. Past medical history is notable for hypertension, for which the patient takes a calcium channel blocker, and hypertriglyceridemia, which is treated with a fibrate. Temperature is 37.2 C (98.9 F) and blood pressure is 143/76 mm Hg. The patient weighs 95 kg (210 lb) and is 173 cm (5 ft 8 in) tall. Ultrasound reveals thickening of the gallbladder wall, with tenderness elicited by the ultrasound probe directly over the gallbladder. She undergoes a laparoscopic cholecystectomy, with multiple stones noted in the contents of the gallbladder. Decreased activity of which of the following enzymes would most likely have contributed to this patient's condition?",
+    "zh": "一位39岁的女性因数次严重的上腹部疼痛发作来到急诊科。她的疼痛由高脂食物诱发，并可自发缓解。症状最初始于几个月前，在一次无并发症的妊娠后。既往病史值得注意的是高血压，患者正在服用钙通道阻滞剂治疗，以及高甘油三酯血症，正在接受贝特类药物治疗。体温为37.2摄氏度（98.9华氏度），血压为143/76毫米汞柱。患者体重95公斤（210磅），身高173厘米（5英尺8英寸）。超声检查显示胆囊壁增厚，超声探头直接置于胆囊上方时可诱发压痛。她接受了腹腔镜胆囊切除术，在胆囊内容物中发现了多发结石。下列哪种酶的活性降低最有可能导致该患者的病情？"
+  },
+  "question": {
+    "en": "Decreased activity of which of the following enzymes would most likely have contributed to this patient's condition?",
+    "zh": "下列哪种酶的活性降低最有可能导致该患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Aromatase",
+      "zh": "芳香化酶"
+    },
+    "B": {
+      "en": "β-glucuronidase",
+      "zh": "β-葡萄糖醛酸苷酶"
+    },
+    "C": {
+      "en": "Cholesterol 7α-hydroxylase",
+      "zh": "胆固醇7α-羟化酶"
+    },
+    "D": {
+      "en": "HMG-CoA reductase",
+      "zh": "HMG-CoA还原酶"
+    },
+    "E": {
+      "en": "Thiolase",
+      "zh": "硫解酶"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The patient presents with symptoms consistent with cholelithiasis (gallstones), specifically cholesterol gallstones, given the description of fatty food triggers and the presence of multiple stones in the gallbladder. The formation of cholesterol gallstones is a complex process influenced by several factors, including bile composition, gallbladder motility, and supersaturation of bile with cholesterol. \n\nFormation of cholesterol gallstones {{exhibit_1}} is primarily related to an imbalance in bile composition, specifically an excess of cholesterol relative to bile salts and phospholipids. Cholesterol is synthesized in the liver and secreted into bile. Bile salts are crucial for solubilizing cholesterol. When cholesterol levels in bile are too high, it can precipitate out, forming crystals that aggregate into gallstones. \n\nCholesterol 7α-hydroxylase is the rate-limiting enzyme in the synthesis of bile acids from cholesterol. Bile acids are essential for solubilizing cholesterol in bile. Therefore, decreased activity of cholesterol 7α-hydroxylase leads to reduced bile acid synthesis, resulting in decreased solubilization of cholesterol in bile. This leads to cholesterol supersaturation of bile and promotes the formation of cholesterol gallstones. \n\nThe patient is being treated with a fibrate, which is known to inhibit cholesterol 7α-hydroxylase. This inhibition reduces bile acid synthesis and can contribute to gallstone formation, especially in individuals predisposed to it. \n\n(Choice A) Aromatase is involved in estrogen synthesis. While estrogen can influence cholesterol metabolism and gallstone formation, aromatase itself is not directly involved in cholesterol synthesis or bile acid formation in a way that would be the primary cause of gallstones. \n\n(Choice B) β-glucuronidase is an enzyme that deconjugates bile acids and bilirubin. Its activity is more related to the formation of pigmented gallstones (bilirubin stones) rather than cholesterol gallstones. \n\n(Choices D and E) HMG-CoA reductase and thiolase are enzymes involved in cholesterol synthesis. Decreased activity of these enzymes would lead to decreased cholesterol synthesis, which would be protective against cholesterol gallstone formation, not contributory. HMG-CoA reductase is the rate-limiting enzyme in cholesterol synthesis. Thiolase is involved in the early steps of cholesterol synthesis. \n\nKey clinical pearls: Fibrates are known to increase the risk of gallstones by inhibiting cholesterol 7α-hydroxylase. Cholesterol gallstones are the most common type and are related to supersaturation of bile with cholesterol.",
+    "zh": "患者表现出的症状与胆石症（胆结石）一致，特别是胆固醇胆结石，因为描述了高脂食物的诱因以及胆囊中存在多个结石。胆固醇胆结石的形成是一个复杂的过程，受到多种因素的影响，包括胆汁成分、胆囊动力和胆汁中胆固醇的过饱和。\n\n胆固醇胆结石的形成 {{exhibit_1}} 主要与胆汁成分的失衡有关，特别是胆固醇相对于胆盐和磷脂的过量。胆固醇在肝脏中合成并分泌到胆汁中。胆盐对于溶解胆固醇至关重要。当胆汁中的胆固醇水平过高时，它会析出，形成聚集形成胆结石的晶体。\n\n胆固醇7α-羟化酶是胆固醇合成胆汁酸的限速酶。胆汁酸对于溶解胆汁中的胆固醇至关重要。因此，胆固醇7α-羟化酶活性降低会导致胆汁酸合成减少，导致胆汁中胆固醇的溶解度降低。这会导致胆汁中胆固醇的过饱和，并促进胆固醇胆结石的形成。\n\n患者正在接受贝特类药物治疗，已知贝特类药物会抑制胆固醇7α-羟化酶。这种抑制作用会减少胆汁酸的合成，并可能导致胆结石的形成，尤其是在易感人群中。\n\n（选项A）芳香化酶参与雌激素合成。虽然雌激素会影响胆固醇代谢和胆结石的形成，但芳香化酶本身并不直接参与胆固醇合成或胆汁酸形成，因此不是胆结石的主要原因。\n\n（选项B）β-葡萄糖醛酸苷酶是一种使胆汁酸和胆红素去结合的酶。它的活性与有色胆结石（胆红素结石）的形成有关，而不是胆固醇胆结石。\n\n（选项D和E）HMG-CoA还原酶和硫解酶是参与胆固醇合成的酶。这些酶的活性降低会导致胆固醇合成减少，这可以预防胆固醇胆结石的形成，而不是促成。HMG-CoA还原酶是胆固醇合成的限速酶。硫解酶参与胆固醇合成的早期步骤。\n\n关键临床要点：已知贝特类药物通过抑制胆固醇7α-羟化酶来增加胆结石的风险。胆固醇胆结石是最常见的类型，与胆汁中胆固醇的过饱和有关。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathophysiology of cholesterol gallstone formation and the role of specific enzymes in cholesterol and bile acid metabolism. It also assesses the knowledge of the side effects of fibrate medications.\n\nTo solve this question, one must identify the clinical presentation as consistent with cholesterol gallstones. Then, recall the enzymes involved in cholesterol synthesis and bile acid synthesis, and how their activity relates to bile composition. Finally, consider the known effects of the patient's medication (fibrate) on these metabolic pathways.",
+    "zh": "此题考察对胆固醇胆结石形成的病理生理学以及特定酶在胆固醇和胆汁酸代谢中的作用的理解。它还评估对贝特类药物的副作用的了解。\n\n要解决此题，必须确定临床表现与胆固醇胆结石一致。然后，回忆参与胆固醇合成和胆汁酸合成的酶，以及它们的活性与胆汁成分的关系。最后，考虑患者的药物（贝特类）对这些代谢途径的已知影响。"
+  },
+  "tags": "Cholelithiasis; Cholesterol gallstones; Cholesterol 7α-hydroxylase; Bile acid synthesis; Fibrates; Gallbladder; Gastroenterology; Pharmacology; Metabolic pathways",
+  "category": "GIT",
+  "question_id": "67",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\67",
+  "extracted_at": "2025-11-05T19:23:25.170747",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:58:49.106238",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

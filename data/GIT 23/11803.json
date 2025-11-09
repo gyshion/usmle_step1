@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A newborn boy is examined in the nursery shortly after birth. He was born at term by vaginal delivery to a 40-year-old woman who did not receive prenatal care. Temperature is 36.7 C (98 F), pulse is 132/min, and respirations are 38/min. Examination shows slanted palpebral fissures, epicanthal folds, thick nuchal folds, and a single palmar crease. The patient has a large, reducible midline abdominal protrusion covered by skin that is more pronounced when he cries. The umbilical stump is at the center of the protrusion. Which of the following is the most likely cause of this patient's abdominal finding?",
+    "zh": "一名新生男婴在出生后不久于育婴室接受检查。该婴儿足月经阴道分娩，母亲为 40 岁女性，未接受产前护理。体温 36.7°C (98°F)，脉搏 132 次/分，呼吸 38 次/分。检查显示眼睑倾斜、内眦赘皮、颈后皱襞增厚和单掌纹。患者有一个大的、可复性的中线腹部隆起，被皮肤覆盖，当他哭泣时更明显。脐带残端位于隆起的中心。以下哪项最可能是该患者腹部发现的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's abdominal finding?",
+    "zh": "以下哪项最可能是该患者腹部发现的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Failure of the extraembryonic gut to return to the abdominal cavity",
+      "zh": "胚外肠未能返回腹腔"
+    },
+    "B": {
+      "en": "Incomplete closure of the umbilical ring",
+      "zh": "脐环闭合不全"
+    },
+    "C": {
+      "en": "Incomplete recanalization of the fetal intestinal tract",
+      "zh": "胎儿肠道再管化不完全"
+    },
+    "D": {
+      "en": "Incomplete rotation of the midgut in utero",
+      "zh": "中肠在子宫内旋转不完全"
+    },
+    "E": {
+      "en": "Persistent processus vaginalis",
+      "zh": "阴道鞘突持续存在"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's abdominal examination is consistent with a congenital umbilical hernia {{exhibit_1}}. Normally, the umbilical ring (ie, the congenital fascial opening for the umbilical cord) closes and forms the linea alba, a midline band of fibrous tissue. Umbilical hernias are caused by an INCOMPLETE CLOSURE OF THE UMBILICAL RING, thereby allowing protrusion of bowel through the abdominal musculature. This generally benign condition is often an isolated defect, but patients with certain genetic conditions are more likely to develop an umbilical hernia, as in this newborn with features consistent with Down syndrome (eg, palpebral fissures, epicanthal folds, single palmar crease). \n\nAlmost all congenital umbilical hernias are REDUCIBLE and ASYMPTOMATIC. They often appear larger and more prominent with increased abdominal pressure (eg, crying). Incarceration and strangulation are very rare.\n\nMost umbilical hernias RESOLVE SPONTANEOUSLY in the first few years of life as the fascial layers fuse.\n\n(Choice A) During midgut development in the first trimester, the abdominal contents undergo physiologic herniation, followed by a rotation of the midgut and physiologic reduction. Failure of this reduction may contribute to omphalocele, which presents as a midline herniation of abdominal contents contained within a thin, membranous sac. It is not covered by skin, in contrast to this patient {{exhibit_2}}.\n\n(Choice C) Midgut development in the first trimester involves a physiologic occlusion of the intestinal lumen followed by recanalization. Failure of recanalization results in duodenal atresia, which is associated with Down syndrome. However, symptoms include vomiting, often bilious, in the first 24 hours of life.\n\n(Choice D) Malrotation results from an incomplete rotation of the midgut prior to physiologic reduction into the abdominal cavity; malrotation alone is asymptomatic. Its main complication is volvulus (intestinal torsion), which results in bowel ischemia and necrosis from constriction of the blood supply. In contrast to this patient, volvulus typically presents with bilious emesis in the first month of life.\n\n(Choice E) Congenital inguinal hernias develop when the processus vaginalis, an outpouching of the peritoneum, fails to obliterate, allowing bowel contents into the inguinal canal. Inguinal hernias are more prominent with increased abdominal pressure, but they present as a mass in the groin, not the umbilicus.\n\nEducational objective:\nUmbilical hernias are caused by a defect in the linea alba and present as protrusions at the umbilicus that are soft, reducible, and benign. They can occur in isolation or in association with other conditions (eg, Down syndrome).",
+    "zh": "该患者的腹部检查与先天性脐疝 {{exhibit_1}} 一致。正常情况下，脐环（即脐带的先天性筋膜开口）闭合并形成腹白线，腹白线是纤维组织的中间带。脐疝是由于脐环闭合不全引起的，从而允许肠管通过腹部肌肉组织突出。这种通常是良性的疾病通常是一个孤立的缺陷，但患有某些遗传疾病的患者更容易发生脐疝，例如这位新生儿，其特征与唐氏综合征一致（例如，眼睑倾斜、内眦赘皮、单掌纹）。\n\n几乎所有先天性脐疝都是可复性的且无症状的。它们通常在腹压增加（例如，哭泣）时显得更大、更突出。嵌顿和绞窄非常罕见。\n\n大多数脐疝会在生命的最初几年内自发消退，因为筋膜层会融合。\n\n(选项 A) 在妊娠头三个月中肠发育期间，腹部内容物会发生生理性疝出，随后中肠旋转并发生生理性复位。这种复位失败可能导致脐膨出，表现为腹部内容物的中线疝出，包含在一个薄的膜性囊内。与该患者 {{exhibit_2}} 不同，它没有被皮肤覆盖。\n\n(选项 C) 妊娠头三个月中肠发育涉及肠腔的生理性闭塞，然后是再管化。再管化失败会导致十二指肠闭锁，这与唐氏综合征有关。然而，症状包括呕吐，通常是胆汁性呕吐，发生在出生后 24 小时内。\n\n(选项 D) 旋转不良是由于中肠在生理性复位进入腹腔之前旋转不完全引起的；单纯旋转不良是无症状的。它的主要并发症是肠扭转（肠扭转），导致血供受限，导致肠缺血和坏死。与该患者不同，肠扭转通常在出生后第一个月出现胆汁性呕吐。\n\n(选项 E) 当腹膜的突出部分阴道鞘突未能闭塞时，发生先天性腹股沟疝，从而允许肠内容物进入腹股沟管。腹股沟疝在腹压增加时更突出，但它们表现为腹股沟的肿块，而不是脐部。\n\n教育目标：\n脐疝是由腹白线缺陷引起的，表现为脐部的突出物，这些突出物是柔软、可复性和良性的。它们可以单独发生或与其他疾病（例如，唐氏综合征）相关。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of congenital abdominal wall defects, specifically umbilical hernia, and its association with conditions like Down syndrome. It also tests the ability to differentiate umbilical hernia from other abdominal wall defects like omphalocele and gastroschisis. \n\nThe key to solving this question is recognizing the clinical presentation of an umbilical hernia (midline, reducible, covered by skin) and associating it with the incomplete closure of the umbilical ring. Ruling out other options based on their distinct features (e.g., omphalocele covered by a membrane, gastroschisis with eviscerated bowel) is also crucial.",
+    "zh": "本题考察了对先天性腹壁缺损（特别是脐疝）的认识，以及它与唐氏综合征等疾病的关系。它还测试了区分脐疝与其他腹壁缺损（如脐膨出和腹裂）的能力。\n\n解决此问题的关键在于识别脐疝的临床表现（中线、可复性、被皮肤覆盖）并将其与脐环闭合不全联系起来。根据其他选项的独特特征（例如，被膜覆盖的脐膨出，伴有内脏外翻的腹裂）排除其他选项也很重要。"
+  },
+  "tags": "Umbilical hernia; Congenital abdominal wall defects; Down syndrome; Omphalocele; Gastroschisis; Pediatric surgery; Neonatology; Midgut development",
+  "category": "GIT",
+  "question_id": "11803",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\11803",
+  "extracted_at": "2025-11-05T14:22:37.906318",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:50:29.720763",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

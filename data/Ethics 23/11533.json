@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A frail, 93-year-old woman with mild dementia enters a nursing home due to difficulty managing on her own. She has recently had several falls, including one during the night while getting out of bed to use the bathroom. The patient attributes this fall to \"clumsiness.\" Syncope workup is unremarkable for any abnormalities. She has a medical history of hypertension, osteoarthritis, depression, and anxiety. Her medications include amlodipine, sertraline, aripiprazole, and amitriptyline.",
+    "zh": "一位虚弱的93岁老妇患有轻度痴呆症，由于难以独自生活而入住养老院。她最近摔倒了几次，包括一次在夜间起床上厕所时。患者将这次摔倒归因于“笨拙”。晕厥检查对任何异常均无明显发现。她的病史包括高血压、骨关节炎、抑郁症和焦虑症。她的药物包括氨氯地平、舍曲林、阿立哌唑和阿米替林。"
+  },
+  "question": {
+    "en": "Which of the following is the most effective strategy for decreasing this patient's fall risk?",
+    "zh": "以下哪项是降低该患者跌倒风险的最有效策略？"
+  },
+  "options": {
+    "A": {
+      "en": "Bed rails",
+      "zh": "床栏"
+    },
+    "B": {
+      "en": "Cane",
+      "zh": "拐杖"
+    },
+    "C": {
+      "en": "Medication review",
+      "zh": "药物复查"
+    },
+    "D": {
+      "en": "Soft restraints",
+      "zh": "柔软约束"
+    },
+    "E": {
+      "en": "Walker",
+      "zh": "助行器"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has multiple risk factors for falls, including ADVANCED AGE, arthritis, prior history of falls, cognitive impairment, and use of MULTIPLE MEDICATIONS associated with INCREASED RISK OF FALLING (ie, psychotropic and cardiovascular drugs). Medication use is one of the most MODIFIABLE risk factors for falls.\n\nPsychotropic drugs, including antipsychotics such as aripiprazole; antidepressants, such as sertraline and amitriptyline; and benzodiazepines are most commonly associated with increased fall risk. Cardiovascular drugs that reduce circulating blood volume or blood pressure such as calcium channel blockers (eg, amlodipine), beta blockers, and diuretics are also associated with falls. The patient should undergo a medication review with the goal of finding the lowest effective dose, eliminating unnecessary medications, and/or switching to those associated with a lower fall risk.\n\n(Choices A and D) Bed rails and soft physical restraints have not been shown to reduce falls in long-term care facilities. Some studies indicate a slightly increased risk of falls and injury in nursing home patients who are physically restrained.\n\n(Choices B and E) Assistive devices such as canes and walkers are often used to improve mobility in patients with gait or balance disturbances. However, there is a lack of evidence regarding their efficacy in preventing falls (they may impair compensatory stepping reactions that help with balance recovery).",
+    "zh": "该患者存在多种跌倒危险因素，包括高龄、关节炎、既往跌倒史、认知障碍以及使用多种与跌倒风险增加相关的药物（即精神药物和心血管药物）。药物使用是跌倒最容易改变的危险因素之一。\n\n精神药物，包括抗精神病药（如阿立哌唑）；抗抑郁药（如舍曲林和阿米替林）；以及苯二氮卓类药物，通常与跌倒风险增加相关。降低循环血容量或血压的心血管药物，如钙通道阻滞剂（如氨氯地平）、β受体阻滞剂和利尿剂，也与跌倒有关。患者应接受药物复查，目的是寻找最低有效剂量、停用不必要的药物和/或换用与较低跌倒风险相关的药物。\n\n（选项 A 和 D）尚未显示床栏和柔软的身体约束可以减少长期护理机构的跌倒。一些研究表明，在身体受限的养老院患者中，跌倒和受伤的风险略有增加。\n\n（选项 B 和 E）助行器，如拐杖和助行器，通常用于改善步态或平衡障碍患者的活动能力。然而，缺乏关于它们预防跌倒的有效性的证据（它们可能会损害有助于平衡恢复的代偿性跨步反应）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of risk factors for falls in elderly patients, particularly the role of polypharmacy and psychotropic medications. It also assesses the best strategy to reduce fall risk in this population.\n\nThe best approach is to identify modifiable risk factors, such as medications, and prioritize interventions like medication review and dose reduction or discontinuation of high-risk medications.",
+    "zh": "此问题测试老年患者跌倒的危险因素知识，特别是多药治疗和精神药物的作用。它还评估了减少该人群跌倒风险的最佳策略。\n\n最佳方法是确定可改变的危险因素，例如药物，并优先考虑干预措施，如药物复查和减少剂量或停用高危药物。"
+  },
+  "tags": "Falls; Geriatrics; Polypharmacy; Medication review; Psychotropic medications; Cardiovascular drugs; Risk factors",
+  "category": "Ethics",
+  "question_id": "11533",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\11533",
+  "extracted_at": "2025-11-05T14:16:42.387870",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:46:48.492908",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

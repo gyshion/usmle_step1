@@ -1,0 +1,56 @@
+{
+  "question_stem": {
+    "en": "A 44-year-old woman comes to the office due to a breast mass. Physical examination reveals a hard, fixed mass in the right breast with palpable ipsilateral axillary lymphadenopathy. Mammography demonstrates a spiculated right-sided breast lesion. The patient undergoes resection of the mass and axillary lymph node dissection. Histopathologic examination shows ductal adenocarcinoma with local spread to the axillary nodes. The ability of the tumor to reach the draining lymph nodes is facilitated by which of the following changes at the primary tumor site?",
+    "zh": "一名44岁女性因乳房肿块就诊。体格检查显示右侧乳房有一个坚硬、固定的肿块，并伴有同侧腋窝淋巴结肿大。乳房X线摄影显示右侧乳房有毛刺状病灶。患者接受了肿块切除术和腋窝淋巴结清扫术。组织病理学检查显示导管腺癌，并局部扩散到腋窝淋巴结。肿瘤到达引流淋巴结的能力是由原发肿瘤部位的下列哪种变化促进的？"
+  },
+  "question": {
+    "en": "The ability of the tumor to reach the draining lymph nodes is facilitated by which of the following changes at the primary tumor site?",
+    "zh": "肿瘤到达引流淋巴结的能力是由原发肿瘤部位的下列哪种变化促进的？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased density of laminin receptors",
+      "zh": "层粘连蛋白受体密度降低"
+    },
+    "B": {
+      "en": "Increased production of matrix metalloproteinase inhibitors",
+      "zh": "基质金属蛋白酶抑制剂的产生增加"
+    },
+    "C": {
+      "en": "Increased production of type IV collagenase",
+      "zh": "IV型胶原酶的产生增加"
+    },
+    "D": {
+      "en": "Upregulation of E-cadherin",
+      "zh": "E-钙粘蛋白上调"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The correct answer is C. The metastatic cascade describes the series of events by which tumor cells spread from the primary site to distant sites. One of the critical steps is the degradation of the extracellular matrix (ECM) and basement membrane, which allows tumor cells to invade surrounding tissues and enter blood or lymphatic vessels. This process is facilitated by the increased production of enzymes such as collagenases and matrix metalloproteinases (MMPs) by tumor cells. Type IV collagen is a major component of the basement membrane, and its degradation by type IV collagenase is essential for tumor invasion. \n\n(A) Decreased density of laminin receptors would impair tumor cell migration, as laminin is involved in cell adhesion and migration through the ECM. Increased expression of laminin receptors would facilitate migration.\n\n(B) Increased production of matrix metalloproteinase inhibitors would hinder, not facilitate, the degradation of the ECM and basement membrane, thus impeding tumor invasion.\n\n(D) Upregulation of E-cadherin would increase cell-cell adhesion, making it more difficult for tumor cells to detach from the primary tumor and invade surrounding tissues. Downregulation of E-cadherin is typically associated with increased invasiveness.\n\nKey clinical pearls: Tumor invasion requires the breakdown of the basement membrane and ECM. This is achieved by the secretion of enzymes like collagenases and MMPs. Conversely, increased cell-cell adhesion (e.g., via E-cadherin) and inhibition of ECM-degrading enzymes would limit metastasis.",
+    "zh": "正确答案是C。转移级联反应描述了肿瘤细胞从原发部位扩散到远处部位的一系列事件。其中一个关键步骤是细胞外基质（ECM）和基底膜的降解，这使得肿瘤细胞能够侵入周围组织并进入血液或淋巴管。这个过程是由肿瘤细胞增加产生酶（如胶原酶和基质金属蛋白酶（MMPs））来促进的。IV型胶原是基底膜的主要成分，其被IV型胶原酶降解对于肿瘤侵袭至关重要。\n\n(A) 层粘连蛋白受体密度的降低会损害肿瘤细胞的迁移，因为层粘连蛋白参与细胞通过ECM的粘附和迁移。层粘连蛋白受体表达增加将促进迁移。\n\n(B) 基质金属蛋白酶抑制剂的产生增加会阻碍而不是促进ECM和基底膜的降解，从而阻碍肿瘤侵袭。\n\n(D) E-钙粘蛋白的上调会增加细胞间的粘附，使肿瘤细胞更难从原发肿瘤脱离并侵入周围组织。E-钙粘蛋白的下调通常与侵袭性增加相关。\n\n关键临床要点：肿瘤侵袭需要破坏基底膜和ECM。这是通过分泌胶原酶和MMPs等酶来实现的。相反，细胞间粘附增加（例如，通过E-钙粘蛋白）和抑制ECM降解酶将限制转移。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the molecular mechanisms involved in tumor metastasis, specifically the degradation of the extracellular matrix and basement membrane that facilitates invasion and spread to lymph nodes.\n\nTo solve this question, one must recall the steps of the metastatic cascade and identify the enzymatic processes that enable tumor cells to break through tissue barriers. Understanding the role of enzymes like collagenases and the effect of factors that inhibit or promote ECM degradation is crucial.",
+    "zh": "这个问题测试对肿瘤转移中涉及的分子机制的理解，特别是降解细胞外基质和基底膜，这促进了侵袭和扩散到淋巴结。\n\n要解决这个问题，必须回忆转移级联反应的步骤，并确定使肿瘤细胞突破组织屏障的酶促过程。了解胶原酶等酶的作用以及抑制或促进ECM降解的因素的影响至关重要。"
+  },
+  "tags": "Metastasis; Ductal adenocarcinoma; Extracellular matrix degradation; Type IV collagenase; Matrix metalloproteinases; Basement membrane; Tumor invasion; Cancer biology",
+  "category": "Pathology",
+  "question_id": "22635",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\22635",
+  "extracted_at": "2025-11-05T19:44:27.713208",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:46:08.392338",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "Immunoglobulins of different classes have different structures. Some immunoglobulins have long hinge regions between the Fab and Fc regions, whereas others lack the hinge region, as shown in the image below: {{exhibit_1}}",
+    "zh": "不同类别的免疫球蛋白具有不同的结构。一些免疫球蛋白在Fab区和Fc区之间有长的铰链区，而另一些则缺乏铰链区，如下图所示：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "The hinge region provides movement flexibility to the Fab regions. This is most likely to affect which of the following immunoglobulin properties?",
+    "zh": "铰链区为Fab区提供运动灵活性。这最有可能影响以下哪种免疫球蛋白特性？"
+  },
+  "options": {
+    "A": {
+      "en": "Affinity to antigen",
+      "zh": "对**抗原**的**亲和力**"
+    },
+    "B": {
+      "en": "Antibody polymerization",
+      "zh": "**抗体**聚合"
+    },
+    "C": {
+      "en": "Avidity to antigen",
+      "zh": "对**抗原**的**亲合力**"
+    },
+    "D": {
+      "en": "Effector cell interaction",
+      "zh": "效应细胞相互作用"
+    },
+    "E": {
+      "en": "Effector cell specificity",
+      "zh": "效应细胞特异性"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "IgG, IgA, and IgD also have a hinge region between the Fab and the Fc fragments. The hinge region is rich in cysteine and proline amino acids, which provide significant flexibility to the immunoglobulin and allow greater movement of the Fab fragment arms. Fab fragments with long hinge regions are better able to reach multiple epitopes on an antigen; this increases immunoglobulin avidity because avidity is directly proportional to the number of Fab-antigen interactions. However, long hinge regions are more susceptible to destruction by bacterial proteases (eg, IgA protease).\n\n(Choice A) Affinity is the binding strength of the Fab variable region for a given antigenic epitope. Affinity is determined by the hypervariable amino acid sequence of the variable region; the hinge region does not play a role.\n\n(Choice B) IgM is a pentamer and IgA is usually dimeric. These multimers form due to disulfide bonds between the Fc chains of the molecule and an additional amino acid sequence called the J chain. Polymerization is not affected by the hinge region.\n\n(Choices D and E) The Fc portions of different immunoglobulins interact with different receptors on immune cells. IgE interacts with the Fc epsilon receptor on mast cells, IgG interacts with the Fc gamma receptor on phagocytes and natural killer cells, and IgA interacts with the Fc alpha receptor on neutrophils, macrophages, and eosinophils. The specificity of these interactions is mediated by the heavy-chain constant regions in the Fc portion of the immunoglobulin, not the hinge region.\n\nEducational objective:\nIgG, IgA, and IgD have a hinge region between the Fab fragment and the Fc fragment of the immunoglobulin. The hinge region increases flexibility of the Fab arms, which makes the antibody more likely to bind to more than one site on the antigen. This increases the avidity of the immunoglobulin but makes it more susceptible to destruction by bacterial proteases. {{exhibit_2}}",
+    "zh": "IgG、IgA和IgD在Fab片段和Fc片段之间也有铰链区。铰链区富含半胱氨酸和脯氨酸氨基酸，这为免疫球蛋白提供了显著的灵活性，并允许Fab片段臂更大的运动。具有长铰链区的Fab片段能够更好地接触**抗原**上的多个**抗原**决定簇；这增加了免疫球蛋白的亲合力，因为亲合力与Fab-**抗原**相互作用的数量直接成正比。然而，长铰链区更容易受到细菌蛋白酶（例如IgA蛋白酶）的破坏。\n\n（选项A）亲和力是Fab可变区对特定**抗原**决定簇的结合强度。亲和力由可变区的超变氨基酸序列决定；铰链区不起作用。\n\n（选项B）IgM是五聚体，IgA通常是二聚体。这些多聚体是由于分子Fc链之间的二硫键和称为J链的附加氨基酸序列形成的。聚合不受铰链区的影响。\n\n（选项D和E）不同免疫球蛋白的Fc部分与免疫细胞上不同的受体相互作用。IgE与肥大细胞上的Fcε受体相互作用，IgG与吞噬细胞和自然杀伤细胞上的Fcγ受体相互作用，IgA与中性粒细胞、巨噬细胞和嗜酸性粒细胞上的Fcα受体相互作用。这些相互作用的特异性由免疫球蛋白Fc部分的重链恒定区介导，而不是铰链区。\n\n教育目标：\nIgG、IgA和IgD在免疫球蛋白的Fab片段和Fc片段之间有铰链区。铰链区增加了Fab臂的灵活性，这使得**抗体**更有可能与**抗原**上的多个位点结合。这增加了免疫球蛋白的亲合力，但使其更容易受到细菌蛋白酶的破坏。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests the knowledge of immunoglobulin structure, specifically the role of the hinge region in antibody function. It assesses the understanding of how the hinge region affects the flexibility of Fab arms and its impact on avidity.\n\nTo solve this question, recall that the hinge region provides flexibility, allowing the antibody to bind to multiple epitopes. This increased binding capability directly enhances the avidity of the antibody.",
+    "zh": "本题考察对免疫球蛋白结构的了解，特别是铰链区在**抗体**功能中的作用。它评估对铰链区如何影响Fab臂的灵活性及其对亲合力的影响的理解。\n\n要解决这个问题，请回忆铰链区提供灵活性，允许**抗体**与多个**抗原**决定簇结合。这种增加的结合能力直接增强了**抗体**的亲合力。"
+  },
+  "tags": "Immunoglobulin structure; Hinge region; Fab fragment; Fc fragment; Avidity; Affinity; Antibody function; Immunology",
+  "category": "Immunology",
+  "question_id": "540",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\540",
+  "extracted_at": "2025-11-05T14:45:05.109383",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:02:32.542362",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "Carbamoyl phosphate synthetase I deficiency is an inherited disorder characterized by accumulation of ammonia in the blood. The most severe form occurs in the first 24-72 hours following birth, after feeding begins and milk proteins start to be broken down in the liver. If left untreated, affected neonates often die due to severe metabolic derangements; survivors often develop permanent neurologic injury. The estimated incidence of carbamoyl phosphate synthetase I deficiency is about 1 in 800,000 newborns. If a decision is made to test all newborns for this disease, then this initial test should be designed to have a high:",
+    "zh": "氨甲酰磷酸合成酶 I 缺乏症是一种遗传性疾病，其特征是血液中氨的积聚。最严重的病例发生在出生后 24-72 小时内，在开始喂养并且牛奶蛋白开始在肝脏中分解后。如果不及时治疗，受影响的新生儿通常会因严重的代谢紊乱而死亡；幸存者通常会发生永久性的神经系统损伤。氨甲酰磷酸合成酶 I 缺乏症的估计发病率为大约每 80 万新生儿中有 1 例。如果决定对所有新生儿进行此疾病的检测，那么这项初步检测的设计应具有较高的："
+  },
+  "question": {
+    "en": "",
+    "zh": ""
+  },
+  "options": {
+    "A": {
+      "en": "Cutoff value",
+      "zh": "截止值"
+    },
+    "B": {
+      "en": "Number of true negatives",
+      "zh": "真阴性数量"
+    },
+    "C": {
+      "en": "Positive predictive value",
+      "zh": "阳性预测值"
+    },
+    "D": {
+      "en": "Sensitivity",
+      "zh": "敏感度"
+    },
+    "E": {
+      "en": "Specificity",
+      "zh": "特异性"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Carbamoyl Phosphate synthetase I deficiency is a rare disorder (incidence 1 in 800,000 newborns) with serious and possible irreversible consequences if not detected and treated early. Therefore, it is important to identify all individuals who potentially have the disease using a SCREENING TEST that can be performed on a large number of newborns.\n\nAlthough an ideal screening test would be highly sensitive and specific, developing a test that has both of these properties is often not possible, and so a compromise must be made. The sensitivity of a test refers to its ability to correctly identify those with the disease: it is the probability of the test returning a positive result in a person with the disease. A HIGHLY SENSITIVE test will ensure that most patients with the disease will have a positive test result (leading to few false negative results); therefore, FEWER CASES OF DISEASE ARE MISSED. Given a test with high sensitivity, a negative result would help to rule out a diagnosis (SnNout). This is important during screening for LIFE-THREATENING DISEASES, even if obtaining a high sensitivity causes an increased numbers of false positives (ie, reduced specificity).\n\n(Choice A) Setting a high cutoff value typically (but not always) produces higher specificity and lower sensitivity.\n\n(Choices B and E) Specificity represents the ability of a test to correctly identify those without the disease. A very specific test has a low rate of false positives, so most healthy patients will have a negative test result (true negative). Given a test with high specificity, a positive result would help to rule IN a diagnosis (SpPin). CONFIRMATORY TESTS with high specificity are often used on patients who test positive on a screening test to ensure that a patient actually has the disease.\n\n(Choice C) Positive predictive value refers to the probability that a disease is present given a positive test result. Positive predictive value depends on disease prevalence. When screening patients for a rare disorder, positive predictive value will often be low due to a high number of false positives.",
+    "zh": "氨甲酰磷酸合成酶 I 缺乏症是一种罕见疾病（发病率为 80 万新生儿中有 1 例），如果未能及早发现和治疗，则后果严重且可能不可逆转。因此，使用可在大量新生儿中进行的筛查试验，识别所有可能患有这种疾病的个体非常重要。\n\n尽管理想的筛查试验应具有高度的敏感性和特异性，但开发同时具备这两种性质的试验通常是不可能的，因此必须做出妥协。一项试验的敏感性是指其正确识别患有该疾病个体的能力：它是该试验对患有该疾病的人返回阳性结果的概率。高度敏感的试验将确保大多数患有该疾病的患者将具有阳性检测结果（导致较少的假阴性结果）；因此，漏诊的病例较少。给定一项高敏感度的试验，阴性结果将有助于排除诊断（SnNout）。这在筛查威胁生命的疾病时非常重要，即使获得高敏感度会导致假阳性数量增加（即，特异性降低）。\n\n（选项 A）设置高截止值通常（但不总是）会产生更高的特异性和更低的敏感性。\n\n（选项 B 和 E）特异性代表试验正确识别未患有该疾病个体（阴性患者）的能力。一项非常特异性的试验具有较低的假阳性率，因此大多数健康患者将具有阴性检测结果（真阴性）。给定一项高特异性的试验，阳性结果将有助于确定诊断（SpPin）。高特异性的确诊试验通常用于对筛查试验呈阳性的患者进行检测，以确保患者确实患有该疾病。\n\n（选项 C）阳性预测值是指给定阳性检测结果时存在疾病的概率。阳性预测值取决于疾病的患病率。当筛查罕见疾病的患者时，由于假阳性数量高，阳性预测值通常会很低。"
+  },
+  "summary": {
+    "en": "1) Test characteristics: sensitivity, specificity, positive predictive value, negative predictive value 2) For screening tests for rare, life-threatening diseases, sensitivity is more important than specificity",
+    "zh": "1) 试验特征：敏感度、特异性、阳性预测值、阴性预测值 2) 对于罕见、危及生命的疾病的筛查试验，敏感度比特异性更重要"
+  },
+  "tags": "Sensitivity; Specificity; Positive predictive value; Negative predictive value; Screening test; Carbamoyl phosphate synthetase I deficiency",
+  "category": "Bio",
+  "question_id": "1300",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1300",
+  "extracted_at": "2025-11-05T10:58:45.873078",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:20:39.907375",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

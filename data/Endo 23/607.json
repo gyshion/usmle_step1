@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 54-year-old woman comes to the office for evaluation of elevated blood glucose. The patient was recently seen at an urgent care center, where she was found to have a nonfasting blood glucose level of 190 mg/dL. Medical history is insignificant, although she has not seen a physician for several years. She does not use tobacco or alcohol. BMI is 31.5 kg/m². Physical examination shows no abnormalities. Hemoglobin A1c is 8.5% and fasting plasma glucose level is 146 mg/dL. Recommendations for dietary modification and exercise are provided, and pharmacotherapy with metformin is planned. {{exhibit_1}}",
+    "zh": "一名54岁女性前来就诊，评估其血糖升高。患者最近在急诊中心就诊，当时发现其非空腹血糖水平为190 mg/dL。病史无特殊，但她已有几年未就医。她不吸烟也不饮酒。BMI为31.5 kg/m²。体格检查未见异常。血红蛋白A1c为8.5%，空腹血糖水平为146 mg/dL。已提供饮食调整和运动的建议，并计划进行二甲双胍的药物治疗。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following laboratory tests should be obtained prior to starting this medication?",
+    "zh": "在开始此药物治疗之前，应进行以下哪项实验室检查？"
+  },
+  "options": {
+    "A": {
+      "en": "Blood cell counts and mean corpuscular volume",
+      "zh": "血细胞计数和平均红细胞体积"
+    },
+    "B": {
+      "en": "Oral glucose tolerance test",
+      "zh": "口服葡萄糖耐量试验"
+    },
+    "C": {
+      "en": "Plasma lactate level",
+      "zh": "血浆乳酸水平"
+    },
+    "D": {
+      "en": "Serum creatinine level",
+      "zh": "血清肌酐水平"
+    },
+    "E": {
+      "en": "Serum potassium level",
+      "zh": "血清钾水平"
+    },
+    "F": {
+      "en": "Serum TSH level",
+      "zh": "血清TSH水平"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Metformin lowers blood glucose by decreasing hepatic gluconeogenesis and increasing insulin-dependent peripheral glucose uptake. It functions by inhibiting mitochondrial glycerol-3-phosphate dehydrogenase, which reduces availability of gluconeogenesis substrates (eg, glycerol, lactate). Metformin also upregulates AMP-activated protein kinase, which inhibits lipogenesis and subsequently lowers circulating lipid levels.\n\nMetformin is the preferred first-line medication for type 2 diabetes mellitus. It does not increase endogenous insulin secretion and therefore carries a low risk of hypoglycemia. In addition, it also leads to modest weight loss in most patients.\n\nHowever, the inhibition of gluconeogenesis by metformin results in increased lactate production. Patients with significant renal dysfunction or other disorders that reduce lactate clearance (eg, hepatic impairment) are at risk for metformin-induced LACTIC ACIDOSIS. For this reason, the glomerular filtration rate should be estimated using serum creatinine measurement prior to the initiation of metformin. {{exhibit_2}}\n\n(Choice A) Metformin can cause vitamin B12 deficiency (leading to macrocytic anemia), likely due to decreased intestinal absorption. However, this is a chronic effect seen after long-term use, and pretreatment testing is not needed.\n\n(Choice B) The oral glucose tolerance test is used for the initial diagnosis of diabetes mellitus, primarily gestational diabetes. This patient's diagnosis has been confirmed with elevated fasting glucose and hemoglobin A1c; additional diagnostic testing is not necessary.\n\n(Choice C) Plasma lactate levels are used to confirm acute lactic acidosis; measurement of a baseline level is not useful.\n\n(Choice E) Monitoring serum potassium is not necessary with metformin use. Serum potassium is routinely monitored with diuretics (especially loop diuretics), spironolactone, ACE inhibitors, and angiotensin II receptor blockers.\n\n(Choice F) Thyroid function tests routinely performed in patients taking lithium and amiodarone but are not required for antidiabetic medications, including metformin.\n\nEducational objective:\nMetformin lowers blood glucose by reducing hepatic gluconeogenesis and increasing insulin-dependent peripheral glucose uptake. Lactic acidosis is a rare complication of metformin therapy; the risk is increased in patients with underlying renal insufficiency.",
+    "zh": "二甲双胍通过降低肝脏糖异生和增加胰岛素依赖性外周葡萄糖摄取来降低血糖。它通过抑制线粒体甘油-3-磷酸脱氢酶发挥作用，从而减少糖异生底物（例如，甘油、乳酸）的可用性。二甲双胍还可以上调AMP激活的蛋白激酶，抑制脂肪生成，从而降低循环脂质水平。\n\n二甲双胍是2型糖尿病的首选一线药物。它不会增加内源性胰岛素的分泌，因此发生低血糖的风险较低。此外，它还能使大多数患者适度减轻体重。\n\n然而，二甲双胍对糖异生的抑制会导致乳酸生成增加。有显著肾功能不全或其他可降低乳酸清除的疾病（例如，肝功能损害）的患者有发生二甲双胍诱导的乳酸酸中毒的风险。因此，在使用二甲双胍之前，应使用血清肌酐测量值来估算肾小球滤过率。{{exhibit_2}}\n\n(选项A) 二甲双胍可引起维生素B12缺乏症（导致巨幼红细胞性贫血），这可能与肠道吸收减少有关。然而，这是一种长期使用后才会出现的慢性效应，不需要预先检测。\n\n(选项B) 口服葡萄糖耐量试验用于糖尿病的初步诊断，主要是妊娠糖尿病。该患者的诊断已通过空腹血糖和血红蛋白A1c升高得到证实；不需要额外的诊断性检测。\n\n(选项C) 血浆乳酸水平用于确诊急性乳酸酸中毒；测量基线水平无用。\n\n(选项E) 使用二甲双胍时，无需监测血清钾。血清钾通常与利尿剂（尤其是袢利尿剂）、螺内酯、ACE抑制剂和血管紧张素II受体阻滞剂一起监测。\n\n(选项F) 甲状腺功能检查通常在服用锂和胺碘酮的患者中进行，但不是抗糖尿病药物（包括二甲双胍）所必需的。\n\n教育目标：\n二甲双胍通过降低肝脏糖异生和增加胰岛素依赖性外周葡萄糖摄取来降低血糖。乳酸酸中毒是二甲双胍治疗的罕见并发症；肾功能不全的患者风险增加。"
+  },
+  "summary": {
+    "en": "This question tests the knowledge of contraindications and precautions for metformin use, specifically the need to assess renal function due to the risk of lactic acidosis. It also tests understanding of the mechanism of action of metformin and its potential side effects.\n\nTo answer this question, recognize that metformin can cause lactic acidosis, especially in patients with renal insufficiency. Therefore, assessing renal function with a serum creatinine level is crucial before initiating metformin therapy.",
+    "zh": "本题考察了对二甲双胍使用禁忌症和注意事项的了解，特别是由于乳酸酸中毒的风险，需要评估肾功能。它还考察了对二甲双胍作用机制及其潜在副作用的理解。\n\n要回答这个问题，请认识到二甲双胍可引起乳酸酸中毒，尤其是在肾功能不全的患者中。因此，在开始二甲双胍治疗之前，使用血清肌酐水平评估肾功能至关重要。"
+  },
+  "tags": "Metformin; Type 2 Diabetes Mellitus; Lactic Acidosis; Renal Insufficiency; Serum Creatinine; Biguanides; Antidiabetic Medications; Endocrinology; Nephrology",
+  "category": "Endo",
+  "question_id": "607",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\607",
+  "extracted_at": "2025-11-05T14:08:57.773277",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:42:00.745807",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

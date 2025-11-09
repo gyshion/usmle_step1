@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old man comes to the physician because of involuntary movements and behavioral disturbance. The patient has frequent, jerky, irregular movements of his upper extremities that have progressively worsened over the past month. His family and friends also say that he has become increasingly irritable over the past year. Genetic testing shows a mutation affecting the huntingtin protein that results in transcriptional repression of several other genes. Which of the following mechanisms is most likely responsible for this transcriptional repression?",
+    "zh": "一名45岁男性因不自主运动和行为障碍就诊。患者上肢出现频繁、抽搐、不规则的运动，在过去的一个月中逐渐恶化。他的家人和朋友也说他在过去一年中变得越来越易怒。基因检测显示存在影响亨廷顿蛋白的突变，导致其他几个基因的转录抑制。以下哪种机制最有可能导致这种转录抑制？"
+  },
+  "question": {
+    "en": "Which of the following mechanisms is most likely responsible for this transcriptional repression?",
+    "zh": "以下哪种机制最有可能导致这种转录抑制？"
+  },
+  "options": {
+    "A": {
+      "en": "Chromatin relaxation",
+      "zh": "染色质松弛"
+    },
+    "B": {
+      "en": "DNA hypomethylation",
+      "zh": "DNA低甲基化"
+    },
+    "C": {
+      "en": "Histone deacetylation",
+      "zh": "组蛋白去乙酰化"
+    },
+    "D": {
+      "en": "Mutation of homeodomain genes",
+      "zh": "同源结构域基因突变"
+    },
+    "E": {
+      "en": "Thymidine dimerization",
+      "zh": "胸腺嘧啶二聚体形成"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Huntington disease is an autosomal dominant neurodegenerative disease caused by an increased number of CAG trinucleotide repeats in the gene encoding the huntingtin protein. Expansion of the protein's polyglutamine region results in a gain-of-function mutation that leads to pathologic interaction with other proteins, including various transcription factors.\n\nTranscriptional repression (silencing) is one of the mechanisms by which mutated huntingtin is thought to cause disease. Regulation of transcription occurs in part due to histones. Small proteins that complex with DNA to help compact the strands. Histones can undergo a variety of modifications (eg, methylation, acetylation, phosphorylation) that affect the accessibility of the genome for transcription. Acetylation of histones (via histone acetyltransferase) enhances gene transcription by weakening DNA-histone bonding (ie, relaxed chromatin) and making DNA segments more accessible for transcription factors and RNA polymerases.\n\nIn Huntington disease, abnormal huntingtin reduces functioning of histone acetyltransferase. The resulting hypoacetylation increases DNA-histone bonding, leading to a relative increase in compact chromatin. Decreased DNA accessibility reduces transcription of genes that code for neurotrophic (ie, survival) factors, thus contributing to impaired neuronal survival. Increased neuron death in the striatum leads to classic features of Huntington disease in adulthood, including chorea, behavioral abnormalities (eg, irritability), and progressive dementia.\n\n(Choice A) Chromatin relaxation allows portions of DNA to be accessible for transcription. In contrast, the pathophysiology of Huntington disease involves chromatin that is excessively compact and inaccessible to transcription due to histone deacetylation.\n\n(Choice B) DNA methylation is an epigenetic modification that inhibits gene transcription. Hypermethylation of the promoter region of a gene results in transcriptional silencing, as in fragile X syndrome; hypomethylation improves gene expression and is not involved in the pathogenesis of Huntington disease.\n\n(Choice D) Homeodomain (homeobox) genes are critical for the sequential development of organs and tissues along the body axis during embryogenesis. Mutations affecting these genes alter body structure, leading to congenital malformations or spontaneous abortion.\n\n(Choice E) Thymidine dimerization is a mechanism of DNA damage induced by ultraviolet radiation.\n\nEducational objective:\nHuntington disease is caused by a pathologic gain-of-function mutation that promotes histone deacetylation. The resulting increase in DNA-histone bonding makes the chromatin less accessible for transcription, which limits expression of neurotrophic (ie, survival) factors. Increased neuron death within the striatum leads to classic features of Huntington disease in adulthood (eg, chorea, behavioral abnormalities, progressive dementia).",
+    "zh": "亨廷顿病是一种常染色体显性神经退行性疾病，由编码亨廷顿蛋白的基因中CAG三核苷酸重复序列的数量增加引起。蛋白质的多聚谷氨酰胺区域的扩张导致获得功能突变，从而导致与其他蛋白质（包括各种转录因子）的病理相互作用。\n\n转录抑制（沉默）是突变的亨廷顿蛋白被认为导致疾病的机制之一。转录的调控部分是由于组蛋白。组蛋白是与DNA复合的小蛋白，有助于使DNA链紧密。组蛋白可以经历各种修饰（例如，甲基化、乙酰化、磷酸化），这些修饰会影响基因组对转录的易接近性。组蛋白的乙酰化（通过组蛋白乙酰转移酶）通过削弱DNA-组蛋白结合（即，染色质松弛）并使DNA片段更容易被转录因子和RNA聚合酶接近来增强基因转录。\n\n在亨廷顿病中，异常的亨廷顿蛋白会降低组蛋白乙酰转移酶的功能。由此产生的低乙酰化作用会增加DNA-组蛋白结合，导致染色质相对增加。DNA可及性的降低会减少编码神经生长因子（即，生存）的基因的转录，从而导致神经元存活受损。纹状体中神经元死亡的增加导致亨廷顿病成人的典型特征，包括舞蹈症、行为异常（例如，易怒）和进行性痴呆。\n\n(选项A) 染色质松弛使部分DNA可以进行转录。相比之下，亨廷顿病的病理生理学涉及由于组蛋白去乙酰化而过度紧密且无法进行转录的染色质。\n\n(选项B) DNA甲基化是一种表观遗传修饰，可抑制基因转录。基因启动子区域的过度甲基化会导致转录沉默，如脆性X综合征；低甲基化会改善基因表达，并且不参与亨廷顿病的病理发生。\n\n(选项D) 同源结构域（同源异型盒）基因对于胚胎发生过程中沿身体轴的器官和组织的顺序发育至关重要。影响这些基因的突变会改变身体结构，导致先天性畸形或自然流产。\n\n(选项E) 胸腺嘧啶二聚体形成是由紫外线辐射诱导的DNA损伤的机制。\n\n教育目标：\n亨廷顿病是由促进组蛋白去乙酰化的病理获得功能突变引起的。由此导致的DNA-组蛋白结合的增加使染色质更难进行转录，这限制了神经生长因子（即，生存）的表达。纹状体内神经元死亡的增加导致亨廷顿病成人的经典特征（例如，舞蹈症、行为异常、进行性痴呆）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the molecular mechanisms underlying transcriptional repression in Huntington disease, specifically focusing on epigenetic modifications of chromatin structure. It assesses the knowledge of how mutations in the huntingtin protein lead to altered histone acetylation and subsequent gene silencing.\n\nTo solve this question, one must identify the key features of Huntington disease, including the genetic mutation and its effect on protein function. Understanding the role of histone acetylation in gene regulation is crucial. By recognizing that the mutation leads to reduced histone acetyltransferase activity, one can deduce that histone deacetylation and subsequent chromatin compaction are responsible for transcriptional repression.",
+    "zh": "此问题测试对亨廷顿病中转录抑制的分子机制的理解，特别侧重于染色质结构的表观遗传修饰。它评估了对亨廷顿蛋白突变如何导致组蛋白乙酰化改变以及随后的基因沉默的认识。\n\n要解决这个问题，必须确定亨廷顿病的关键特征，包括基因突变及其对蛋白质功能的影响。了解组蛋白乙酰化在基因调控中的作用至关重要。通过认识到突变导致组蛋白乙酰转移酶活性降低，可以推断组蛋白去乙酰化和随后的染色质压实是转录抑制的原因。"
+  },
+  "tags": "Huntington disease; Neurodegenerative disease; CAG repeats; Gain-of-function mutation; Transcriptional repression; Histone deacetylation; Epigenetics; Chromatin structure; Autosomal dominant",
+  "category": "Neuro",
+  "question_id": "840",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\840",
+  "extracted_at": "2025-11-05T19:29:53.040332",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:28:48.592561",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

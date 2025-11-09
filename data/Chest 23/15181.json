@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old woman comes to the office for a preemployment examination. The patient has had mild shortness of breath on exertion over the past year, which she attributes to deconditioning. Three months ago, an ophthalmologist treated her for anterior uveitis. The patient has no other medical conditions and takes no medications. She does not use tobacco, alcohol, or recreational drugs. Blood pressure is 110/70, pulse is 72/min, and respirations are 14/min. On physical examination, visual acuity is within normal limits. There is swelling of the parotid glands and the lungs are clear to auscultation. Chest x-ray reveals enlarged hilar lymph nodes and nodular pulmonary infiltrates. {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "一名32岁的女性前来就诊，进行入职体检。患者在过去一年中出现轻微的劳力性呼吸困难，她将其归因于身体状况下降。三个月前，眼科医生治疗了她的前葡萄膜炎。患者没有其他疾病，也没有服用药物。她不吸烟、不饮酒，也不使用娱乐性药物。血压110/70 mmHg，脉搏72次/分，呼吸14次/分。体格检查显示，视力在正常范围内。腮腺肿胀，肺部听诊清澈。胸部X光片显示肺门淋巴结肿大和结节性肺浸润。{{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "question": {
+    "en": "Which of the following histopathological findings are most likely to be seen on lymph node biopsy in this patient?",
+    "zh": "在该患者的淋巴结活检中，最有可能观察到的组织病理学发现是？"
+  },
+  "options": {
+    "A": {
+      "en": "Caseating epithelioid granulomas and acid-fast bacilli",
+      "zh": "干酪性上皮样肉芽肿和抗酸杆菌"
+    },
+    "B": {
+      "en": "Eosinophilic, perivascular, inflammatory infiltrate",
+      "zh": "嗜酸性、血管周围炎性浸润"
+    },
+    "C": {
+      "en": "Granulomatous inflammation with no central necrosis",
+      "zh": "无中心坏死的肉芽肿性炎症"
+    },
+    "D": {
+      "en": "Reed-Sternberg cells surrounded by inflammatory cells",
+      "zh": "Reed-Sternberg细胞被炎性细胞包绕"
+    },
+    "E": {
+      "en": "Small basophilic cells with granular nuclear chromatin",
+      "zh": "具有颗粒状核染色质的小嗜碱性细胞"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The correct answer is C: Granulomatous inflammation with no central necrosis.\n\nThis case presents a patient with hilar lymphadenopathy, nodular pulmonary infiltrates, and a history of anterior uveitis, suggesting sarcoidosis. Sarcoidosis is characterized by noncaseating granulomas. Multinucleated giant cells, formed by macrophage fusion, are frequently seen. Sarcoidosis primarily involves the lungs, causing nodular or interstitial infiltrates. Extrapulmonary manifestations are common and can involve the lymph nodes (hilar adenopathy), eyes (anterior uveitis), skin, CNS, and internal organs. Salivary glands (parotid, as in this patient) are involved in up to 5% of patients. Constitutional symptoms, including fatigue, weight loss, and night sweats, can also occur.\n\nChoice A: Tuberculosis can cause pulmonary infection associated with fatigue, dyspnea, and adenopathy but is characterized by caseating granulomas (central necrosis is present) and acid-fast bacilli. Tuberculosis occurs more frequently in those with risk factors (incarceration, homeless, high-risk health care workers); the patient's history of anterior uveitis and parotid enlargement is more suggestive of sarcoidosis.\n\nChoice B: Churg-Strauss syndrome (eosinophilic granulomatosis with polyangiitis) is characterized by perivascular eosinophilic inflammatory infiltrates and presents with asthmatic symptoms and pulmonary infiltrates. It is also typically accompanied by allergic rhinitis, sinusitis, nasal polyps, and skin lesions.\n\nChoice D: Reed-Sternberg cells are seen in Hodgkin lymphoma, which causes lymphadenopathy but would not be expected to cause pulmonary infiltrates or anterior uveitis.\n\nChoice E: Small cell lung carcinoma is characterized by small basophilic cells with granular chromatin and causes bulky adenopathy and pulmonary masses. However, it is much more common in older patients and heavy smokers.",
+    "zh": "正确答案是C：无中心坏死的肉芽肿性炎症。\n\n此病例呈现的患者有肺门淋巴结病、结节性肺浸润和前葡萄膜炎病史，提示为结节病。结节病的特征是非干酪性肉芽肿。由巨噬细胞融合形成的多核巨细胞很常见。结节病主要累及肺，引起结节性或间质性浸润。肺外表现很常见，可累及淋巴结（肺门淋巴结病）、眼睛（前葡萄膜炎）、皮肤、中枢神经系统和内脏。唾液腺（腮腺，如该患者）受累的比例高达5%。也可出现全身症状，包括疲劳、体重减轻和盗汗。\n\n选项A：结核病可引起肺部感染，伴有疲劳、呼吸困难和淋巴结病，但其特征是干酪性肉芽肿（存在中心坏死）和抗酸杆菌。结核病更常见于有危险因素的人群（监禁、无家可归、高危医护人员）；该患者的前葡萄膜炎病史和腮腺肿大更提示结节病。\n\n选项B：Churg-Strauss综合征（嗜酸性肉芽肿性血管炎）的特征是血管周围嗜酸性粒细胞炎性浸润，并表现为哮喘症状和肺浸润。通常还伴有过敏性鼻炎、鼻窦炎、鼻息肉和皮肤病变。\n\n选项D：Reed-Sternberg细胞见于霍奇金淋巴瘤，可引起淋巴结病，但不一定会引起肺浸润或前葡萄膜炎。\n\n选项E：小细胞肺癌的特征是具有颗粒状染色质的小嗜碱性细胞，可引起体积大的淋巴结病和肺部肿块。然而，它在老年患者和重度吸烟者中更为常见。"
+  },
+  "summary": {
+    "en": "The patient's presentation of hilar lymphadenopathy, nodular pulmonary infiltrates, and anterior uveitis is highly suggestive of sarcoidosis. Sarcoidosis is characterized by noncaseating granulomas, which are collections of tightly clustered, epithelioid macrophages with abundant pink cytoplasm surrounded by a rim of mononuclear cells without central necrosis. Multinucleated giant cells, formed by macrophage fusion, are frequently seen.",
+    "zh": "患者表现为肺门淋巴结病、结节性肺浸润和前葡萄膜炎，高度提示结节病。结节病的特征是非干酪性肉芽肿，肉芽肿是由紧密聚集的上皮样巨噬细胞组成的集合体，这些巨噬细胞具有丰富的粉红色细胞质，周围围绕着一圈无中心坏死的单核细胞。经常可以看到由巨噬细胞融合形成的多核巨细胞。"
+  },
+  "tags": [
+    "Pathophysiology",
+    "Pulmonary & Critical Care",
+    "Sarcoidosis"
+  ],
+  "category": "Chest",
+  "question_id": "15181",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\15181",
+  "extracted_at": "2025-11-05T13:37:39.996679",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:35:16.690463",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,55 @@
+{
+  "question_stem": {
+    "en": "A large study of serum folate levels in a sample of women age 16-45 reveals that this parameter is normally distributed with a mean of 5.0 ng/mL and a standard deviation of 0.5 ng/mL. According to the study results, 95% of serum folate observations in these patients will lie approximately between which of the following limits?",
+    "zh": "一项针对16-45岁女性血清叶酸水平的大型研究显示，该参数呈正态分布，均值为5.0 ng/mL，标准差为0.5 ng/mL。根据研究结果，这些患者中95%的血清叶酸观测值将大致介于以下哪个范围之间？"
+  },
+  "question": {
+    "en": "According to the study results, 95% of serum folate observations in these patients will lie approximately between which of the following limits?",
+    "zh": "根据研究结果，这些患者中95%的血清叶酸观测值将大致介于以下哪个范围之间？"
+  },
+  "options": {
+    "A": {
+      "en": "3.5 and 6.0 ng/mL",
+      "zh": "3.5 和 6.0 ng/mL"
+    },
+    "B": {
+      "en": "3.5 and 6.5 ng/mL",
+      "zh": "3.5 和 6.5 ng/mL"
+    },
+    "C": {
+      "en": "4.0 and 6.0 ng/mL",
+      "zh": "4.0 和 6.0 ng/mL"
+    },
+    "D": {
+      "en": "4.0 and 5.5 ng/mL",
+      "zh": "4.0 和 5.5 ng/mL"
+    },
+    "E": {
+      "en": "4.5 and 5.5 ng/mL",
+      "zh": "4.5 和 5.5 ng/mL"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "A normal (Gaussian) distribution is defined as a symmetrical, bell-shaped distribution curve. One of the most important attributes of the normal distribution is the \"68/95/99 rule,\" which states that 68% of all observations lie within 1 standard deviation (SD) of the mean, 95% within 2 SDs of the mean, and 99.7% within 3 SDs of the mean. The SD is a measure of dispersion or variance (how far the measurements are from one another). In this example, the mean folate level is 5.0 ng/mL with a SD of 0.5 ng/mL. Therefore:\n\n*   4.5-5.5 ng/mL is the range within +/- 1 SD of 5.0 ng/mL (given that 5.0 − 1*0.5 = 4.5 ng/mL and 5 + 1*0.5 = 5.5 ng/mL);\n*   4.0-6.0 ng/mL is the range within +/- 2 SDs of 5.0 ng/mL (given that 5.0 − 2*0.5 = 4.0 ng/mL and 5.0 + 2*0.5 = 6.0 ng/mL)\n*   3.5-6.5 ng/mL is the range within +/- 3 SDs of 5.0 ng/mL (given that 5.0 − 3*0.5 = 3.5 ng/mL and 5.0 + 3*0.5 = 6.5 ng/mL)\n\nBased on the 68/95/99 rule, approximately 95% of observations lie within 2 SDs of the mean, so between 4.0 and 6.0 ng/mL in this case. These are helpful approximations; to be more precise, 95% of the observations lie within 1.96 SDs of the mean and 95.45% of the observations lie within 2 SDs of the mean.\n\nNote that SD is used to describe individual observations in a dataset. A closely related measure called standard error (SE) is used to show how closely sample means are related to population means: SE = SD / √ n, where n is the sample size. In this example, if SE had been given instead of SD, investigators would be 95% confident that the true mean folate level in the underlying population lies within the mean +/- 2 SE (which is also the range that would include 95% of sample means calculated from repeated samples of the same size taken from that population).\n\n(Choices A and D) These limits are asymmetric and are therefore inconsistent with a normal distribution curve around the mean.\n\n(Choice B) Approximately 99.7% of all observations lie within 3 SDs of the mean (3.5-6.5 ng/mL).\n\n(Choice E) Approximately 68% of all observations lie within 1 SD of the mean (4.5-5.5 ng/mL).",
+    "zh": "正态（高斯）分布定义为对称的钟形分布曲线。正态分布最重要的特征之一是“68/95/99法则”，该法则指出，68%的观测值位于均值的一个标准差（SD）内，95%的观测值位于均值的两个标准差内，99.7%的观测值位于均值的三个标准差内。标准差是衡量离散度或方差的指标（测量值彼此之间的距离）。在本例中，叶酸的平均水平为5.0 ng/mL，标准差为0.5 ng/mL。因此：\n\n*   4.5-5.5 ng/mL 是在 5.0 ng/mL 的 +/- 1 个标准差内的范围（因为 5.0 − 1*0.5 = 4.5 ng/mL 且 5 + 1*0.5 = 5.5 ng/mL）；\n*   4.0-6.0 ng/mL 是在 5.0 ng/mL 的 +/- 2 个标准差内的范围（因为 5.0 − 2*0.5 = 4.0 ng/mL 且 5.0 + 2*0.5 = 6.0 ng/mL）；\n*   3.5-6.5 ng/mL 是在 5.0 ng/mL 的 +/- 3 个标准差内的范围（因为 5.0 − 3*0.5 = 3.5 ng/mL 且 5.0 + 3*0.5 = 6.5 ng/mL）\n\n根据 68/95/99 法则，大约 95% 的观测值位于均值的 2 个标准差内，因此在本例中介于 4.0 和 6.0 ng/mL 之间。这些是有用的近似值；更精确地说，95% 的观测值位于均值的 1.96 个标准差内，95.45% 的观测值位于均值的 2 个标准差内。\n\n请注意，标准差用于描述数据集中各个观测值。一个密切相关的指标称为标准误 (SE)，用于显示样本均值与总体均值的接近程度：SE = SD / √ n，其中 n 是样本量。在本例中，如果给出的不是标准差而是标准误，研究人员将有 95% 的信心认为，潜在总体中叶酸的真实平均水平位于均值 +/- 2 SE 范围内（这也就是包含从该总体中重复抽取的相同大小的样本计算得出的 95% 样本均值的范围）。\n\n（选项 A 和 D） 这些范围是不对称的，因此与均值周围的正态分布曲线不符。\n\n（选项 B）大约 99.7% 的所有观测值位于均值的 3 个标准差内（3.5-6.5 ng/mL）。\n\n（选项 E）大约 68% 的所有观测值位于均值的 1 个标准差内（4.5-5.5 ng/mL）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of normal distribution and the 68-95-99 rule, particularly how to calculate the range within which a certain percentage of observations will fall, given the mean and standard deviation. \n\nTo solve this question, calculate the range by adding and subtracting two standard deviations from the mean. Remember that 95% of data points in a normal distribution lie within two standard deviations of the mean.",
+    "zh": "本题测试对正态分布和 68-95-99 法则的理解，特别是如何根据均值和标准差计算特定百分比的观测值将落入的范围。\n\n要解决此问题，请通过从均值中加减两个标准差来计算范围。请记住，正态分布中 95% 的数据点位于均值的两个标准差内。"
+  },
+  "tags": "Normal distribution; Standard deviation; Biostatistics; Epidemiology; Folate; Gaussian distribution",
+  "category": "Bio",
+  "question_id": "1172",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1172",
+  "extracted_at": "2025-11-05T10:27:38.384703",
+  "translated_at": "2025-11-07T15:44:35.833260",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old man comes to the office for a follow-up visit. Two months ago, he was hospitalized for chest pain and was found to have a blockage in the left anterior descending artery. He had percutaneous coronary intervention with placement of a drug-eluting stent, and was discharged on appropriate medical therapy. His other medical problems include hypertension, type 2 diabetes mellitus, and degenerative joint disease. The patient has been taking all his medications as prescribed. He has no chest pain but does have diffuse muscle aches and cramps, especially after exercise. Physical examination is unremarkable. Laboratory testing reveals elevated serum creatine kinase. The medication most likely responsible for this patient's current findings also causes which of the following effects?",
+    "zh": "一位63岁的男性前来诊所复诊。两个月前，他因胸痛住院，发现左前降支动脉阻塞。他接受了经皮冠状动脉介入治疗，植入了药物洗脱支架，并出院接受了适当的药物治疗。他的其他健康问题包括高血压、2型糖尿病和退行性关节病。患者一直在按处方服用所有药物。他没有胸痛，但确实有弥漫性肌肉酸痛和抽筋，尤其是在运动后。体格检查无特殊发现。实验室检查显示血清肌酸激酶升高。最有可能导致该患者目前发现的药物也会引起以下哪种作用？"
+  },
+  "question": {
+    "en": "The medication most likely responsible for this patient's current findings also causes which of the following effects?",
+    "zh": "最有可能导致该患者目前发现的药物也会引起以下哪种作用？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased gastric mucosal prostaglandin synthesis",
+      "zh": "胃黏膜前列腺素合成减少"
+    },
+    "B": {
+      "en": "Elevated plasma bradykinin level",
+      "zh": "血浆缓激肽水平升高"
+    },
+    "C": {
+      "en": "Impaired potassium entry into cells",
+      "zh": "钾进入细胞受损"
+    },
+    "D": {
+      "en": "Increased hepatocyte LDL receptor recycling",
+      "zh": "肝细胞LDL受体再循环增加"
+    },
+    "E": {
+      "en": "Increased renal calcium reabsorption",
+      "zh": "肾脏钙重吸收增加"
+    },
+    "F": {
+      "en": "Inhibition of hepatic gluconeogenesis",
+      "zh": "抑制肝糖异生"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's symptoms are most likely due to statin-induced myopathy. Statins are an effective treatment for hypercholesterolemia and are now routinely prescribed for all patients with symptomatic coronary artery disease, regardless of baseline cholesterol levels. Myopathy is the most common complication of statin use, and symptoms can range from myalgia or myopathy, with or without myonecrosis (elevated serum creatine kinase), to frank rhabdomyolysis.\n\nStatins act through competitive inhibition of HMG-CoA reductase, preventing conversion of HMG-CoA to mevalonic acid (the rate-limiting step in cholesterol biosynthesis). Decreased liver cholesterol synthesis leads to increased hepatic clearance of LDL from the circulation by LDL receptors. After mediating endocytosis of LDL particles, the LDL receptors are returned to the cell surface for reuse (receptor recycling): LDL is digested and used for metabolic purposes. This increase in LDL receptor recycling allows intrahepatic cholesterol levels to remain at normal levels while blood levels are kept low.\n\n(Choice A) Nonsteroidal anti-inflammatory drugs inhibit cyclooxygenase (prostaglandin synthase), leading to decreased synthesis of gastric mucosal prostaglandin.\n\n(Choice B) Angiotensin-converting enzyme (ACE) inhibitors inhibit the conversion of angiotensin I to angiotensin II. ACE also acts as a kininase, and ACE inhibition also leads to increased plasma bradykinin levels.\n\n(Choice C) Stimulation of beta-2 receptors by catecholamines increases extracellular potassium movement into cells. This effect is blocked by beta-blockers (primarily non-selective agents such as propranolol or labetalol), which impair potassium entry into cells and cause minor elevations in plasma potassium.\n\n(Choice E) Thiazide diuretics increase calcium reabsorption in the distal tubule of the nephron and can lead to hypercalcemia. In contrast, decreased calcium excretion is useful in patients with renal stones due to hypercalciuria.\n\n(Choice F) Metformin inhibits hepatic gluconeogenesis via inhibition of the mitochondrial isoform of glycerophosphate dehydrogenase in the liver. Typical side effects of metformin include gastrointestinal upset and diarrhea. Myopathy is not a common effect.\n\nEducational objective:\nStatins inhibit the intracellular rate-limiting step of cholesterol biosynthesis via competitive inhibition of HMG-CoA reductase. This leads to enhanced hepatic LDL receptor recycling and increased LDL clearance from the circulation. Statin-induced myopathy (eg, myalgia, elevated creatine kinase) is the most common complication of statin use.",
+    "zh": "该患者的症状很可能由于他汀类药物引起的肌病。他汀类药物是治疗高胆固醇血症的有效方法，现在通常为所有患有症状性冠状动脉疾病的患者开具处方，无论基线胆固醇水平如何。肌病是他汀类药物使用的最常见并发症，症状范围从肌痛或肌病，伴或不伴肌坏死（血清肌酸激酶升高），到明显的横纹肌溶解症。\n\n他汀类药物通过竞争性抑制HMG-CoA还原酶发挥作用，阻止HMG-CoA转化为甲羟戊酸（胆固醇生物合成的限速步骤）。肝脏胆固醇合成减少导致肝脏通过LDL受体从循环中清除LDL增加。在介导LDL颗粒的内吞作用后，LDL受体返回细胞表面以供重复使用（受体再循环）：LDL被消化并用于代谢目的。这种LDL受体再循环的增加使得肝内胆固醇水平保持在正常水平，而血液水平保持在较低水平。\n\n(选项A) 非甾体抗炎药抑制环氧合酶（前列腺素合酶），导致胃黏膜前列腺素合成减少。\n\n(选项B) 血管紧张素转换酶(ACE)抑制剂抑制血管紧张素I转化为血管紧张素II。ACE也充当激肽酶，ACE抑制也导致血浆缓激肽水平升高。\n\n(选项C) 儿茶酚胺刺激β-2受体，增加细胞外钾进入细胞。这种作用被β受体阻滞剂（主要是非选择性药物，如普萘洛尔或拉贝洛尔）阻断，这些药物会损害钾进入细胞并导致血浆钾轻度升高。\n\n(选项E) 噻嗪类利尿剂增加肾单位远端小管的钙重吸收，并可导致高钙血症。相反，减少钙排泄对患有高尿钙症的肾结石患者是有用的。\n\n(选项F) 二甲双胍通过抑制肝脏中甘油磷酸脱氢酶的线粒体亚型来抑制肝糖异生。二甲双胍的典型副作用包括胃肠道不适和腹泻。肌病不是一个常见的影响。\n\n教学目标：\n他汀类药物通过竞争性抑制HMG-CoA还原酶来抑制胆固醇生物合成的细胞内限速步骤。这导致肝脏LDL受体再循环增强，并增加LDL从循环中的清除。他汀类药物引起的肌病（例如，肌痛、肌酸激酶升高）是他汀类药物使用的最常见并发症。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of statin-induced myopathy and the mechanism of action of statins, specifically their effect on LDL receptor recycling in the liver. It also tests the side effects and mechanisms of action of other common medications.\n\nTo solve this question, recognize the patient's symptoms (muscle aches, elevated creatine kinase) as indicative of statin-induced myopathy. Then, recall that statins inhibit HMG-CoA reductase, leading to increased LDL receptor recycling in the liver to clear cholesterol from the blood.",
+    "zh": "本题测试对他汀类药物引起的肌病以及他汀类药物作用机制的了解，特别是其对肝脏中LDL受体再循环的影响。它还测试了其他常见药物的副作用和作用机制。\n\n为了解决这个问题，要认识到患者的症状（肌肉酸痛、肌酸激酶升高）表明他汀类药物引起的肌病。然后，回想起他汀类药物抑制HMG-CoA还原酶，导致肝脏中LDL受体再循环增加以清除血液中的胆固醇。"
+  },
+  "tags": "Statin-induced myopathy; HMG-CoA reductase; LDL receptor recycling; Hypercholesterolemia; Cardiology; Endocrinology; Muscle disorders; Drug side effects",
+  "category": "CVS",
+  "question_id": "712",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\712",
+  "extracted_at": "2025-11-05T12:15:32.730999",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:30:51.359994",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,70 @@
+{
+  "question_stem": {
+    "en": "65-year-old man comes to the office due to fatigue, decreased appetite, and weight loss. He has lost 5.4 kg (12 lb) over the last 3 months and eats only small portions of food because he feels full soon after he begins eating. The patient smokes a pack of cigarettes per day and drinks alcohol socially. Blood pressure is 152/90 mm Hg and pulse is 90/min. Physical examination shows a firm, 3-cm lymph node above the left clavicle. Numerous skin lesions are seen on the patient's trunk, as shown below; {{exhibit_1}} the lesions were not present during his last physical examination 1 year ago.",
+    "zh": "一位65岁男性因疲劳、食欲下降和体重减轻来就诊。他在过去3个月内体重减轻了5.4公斤（12磅），并且只能吃少量食物，因为他开始进食后很快就感到饱胀。患者每天抽一包香烟，并有社交性饮酒。血压为152/90毫米汞柱，脉搏为90次/分钟。体格检查显示左锁骨上方有一个3厘米的坚硬淋巴结。患者躯干上可见多处皮肤病变，如下所示；{{exhibit_1}} 这些病变在他一年前的上次体格检查中并未出现。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis of this patient's skin lesions?",
+    "zh": "以下哪项是该患者皮肤病变最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Acanthosis nigricans",
+      "zh": "黑棘皮病"
+    },
+    "B": {
+      "en": "Malignant melanoma",
+      "zh": "恶性黑色素瘤"
+    },
+    "C": {
+      "en": "Neurofibromatosis",
+      "zh": "神经纤维瘤病"
+    },
+    "D": {
+      "en": "Psoriasis",
+      "zh": "银屑病"
+    },
+    "E": {
+      "en": "Seborrheic keratosis",
+      "zh": "脂溢性角化病"
+    },
+    "F": {
+      "en": "Tuberous sclerosis",
+      "zh": "结节性硬化症"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's weight loss, early satiety, positive smoking history, and left supraclavicular adenopathy are concerning for gastric adenocarcinoma (GA). Patients with GA can also have epigastric pain, hematemesis, and occult blood loss in the stool. Physical examination findings in advanced (metastatic) disease include left supraclavicular (Virchow node) or left axillary lymphadenopathy, or a periumbilical mass (Sister Mary Joseph nodule).\n\nIn addition, rapid onset of numerous seborrheic keratoses (pigmented macules or plaques with a greasy surface and well-demarcated borders) is a classic indicator of internal malignancy (Leser-Trélat sign), particularly GA, and is thought to occur in response to increased tumor production of cytokines or growth factors (eg, IGF-1, fibroblast growth factor). Acanthosis nigricans (a hyperpigmented skin disorder typically associated with insulin resistance) can also occur in malignancy due to a similar mechanism (Choice A).\n\n(Choice B) Melanoma characteristically presents as an asymmetric, pigmented lesion with an irregular border, variable coloration, and change in size and appearance over time. Lesions that are multifocal, monotonous, and otherwise asymptomatic are more typical of seborrheic keratoses.\n\n(Choice C) Cutaneous neurofibromas are soft, mobile tumors that are occasionally hyperpigmented. They are often solitary and sporadic, although numerous lesions may occur in neurofibromatosis types 1 and 2. However, these inherited disorders typically present in childhood or young adulthood, and type 1 (the more common type) is also characterized by axillary freckling, café-au-lait macules, and iris hamartomas.\n\n(Choice D) Psoriasis is an inflammatory dermatosis characterized by well-demarcated plaques with silvery scales. It can affect the trunk but is more common on extensor surfaces of the extremities. Explosive onset of psoriasis is associated with HIV infection.\n\n(Choice F) Tuberous sclerosis is an inherited neurocutaneous syndrome. Cutaneous findings include hypopigmented macules, periungual fibromas, connective tissue nevi, forehead fibrous plaques, and facial angiofibromas.\n\nEducational objective:\nSeborrheic keratoses are pigmented macules or plaques with a greasy surface and well-demarcated borders. Rapid onset of numerous lesions is an indicator of internal malignancy (Leser-Trélat sign), especially gastric adenocarcinoma. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}}",
+    "zh": "该患者的体重减轻、早期饱腹感、吸烟史阳性和左锁骨上淋巴结肿大提示胃腺癌（GA）。GA患者还可能出现上腹痛、呕血和便潜血。晚期（转移性）疾病的体格检查结果包括左锁骨上（Virchow淋巴结）或左腋窝淋巴结肿大，或脐周肿块（Sister Mary Joseph结节）。\n\n此外，多发性脂溢性角化病（有油腻表面和边界清晰的色素性斑疹或斑块）的快速发病是内脏恶性肿瘤（Leser-Trélat征）的典型指标，尤其是GA，并且被认为是对肿瘤产生细胞因子或生长因子（如IGF-1、成纤维细胞生长因子）增加的反应。黑棘皮病（一种通常与胰岛素抵抗相关的色素沉着过度性皮肤病）也可能由于类似机制而发生在恶性肿瘤中（选项A）。\n\n（选项B）黑色素瘤的特征表现为不对称、色素沉着病变，具有不规则边界、可变颜色以及随时间变化的尺寸和外观。多灶性、单调且无其他症状的病变更典型地见于脂溢性角化病。\n\n（选项C）皮肤神经纤维瘤是柔软、可移动的肿瘤，偶尔会出现色素沉着过度。它们通常是孤立和散发的，尽管神经纤维瘤病1型和2型中可能出现多发病变。然而，这些遗传性疾病通常在儿童或青年期出现，而1型（更常见类型）的特征还包括腋下雀斑、咖啡牛奶斑和虹膜错构瘤。\n\n（选项D）银屑病是一种炎症性皮肤病，其特征是边界清晰的斑块，带有银色鳞屑。它可以影响躯干，但更常见于四肢伸侧。银屑病的暴发与HIV感染有关。\n\n（选项F）结节性硬化症是一种遗传性神经皮肤综合征。皮肤表现包括色素减退斑、甲周纤维瘤、结缔组织痣、额头纤维斑块和面部血管纤维瘤。\n\n教学目标：\n脂溢性角化病是具有油腻表面和边界清晰的色素性斑疹或斑块。多发病灶的快速发病是内脏恶性肿瘤（Leser-Trélat征）的指标，尤其是胃腺癌。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the Leser-Trélat sign, which is the sudden appearance of multiple seborrheic keratoses and is associated with internal malignancy, most commonly gastric adenocarcinoma. It also tests the ability to recognize the clinical presentation of seborrheic keratoses.\n\nTo solve this question, recognize the patient's risk factors for malignancy (weight loss, smoking, supraclavicular lymph node) and the sudden onset of numerous seborrheic keratoses. This combination should lead to the diagnosis of Leser-Trélat sign and suspicion for underlying malignancy.",
+    "zh": "本题考查对Leser-Trélat征的认识，该征象是多发性脂溢性角化病的突然出现，与内脏恶性肿瘤（最常见的是胃腺癌）相关。它还测试识别脂溢性角化病临床表现的能力。\n\n为了解决这个问题，需要认识到患者的恶性肿瘤风险因素（体重减轻、吸烟、锁骨上淋巴结）和多发性脂溢性角化病的突然发病。这种组合应导致Leser-Trélat征的诊断和对潜在恶性肿瘤的怀疑。"
+  },
+  "tags": "Leser-Trélat sign; Seborrheic keratosis; Gastric adenocarcinoma; Internal malignancy; Oncology; Dermatology; Paraneoplastic syndrome",
+  "category": "Derma",
+  "question_id": "7649",
+  "has_exhibits": true,
+  "exhibit_count": 7,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\7649",
+  "extracted_at": "2025-11-05T12:22:51.294732",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:35:57.294987",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

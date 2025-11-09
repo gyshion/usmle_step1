@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old man comes to the office due to a 3-month history of dull, aching, daily headaches and peripheral vision loss. He also has erectile dysfunction and loss of libido. The patient has no known chronic medical conditions and takes no medications. Blood pressure is 120/70 mm Hg and pulse is 80/min. BMI is 27 kg/m². Examination shows bilateral gynecomastia and bitemporal hemianopsia. Serum laboratory test results are as follows:\n\nCreatinine 1.2 mg/dL\nTSH 1.1 μU/mL\nCortisol 12 μg/dL\nProlactin 332 ng/mL\n\nMRI reveals a 1.3-cm pituitary macroadenoma {{exhibit_1}}. Cabergoline therapy is prescribed.",
+    "zh": "一名45岁男性因3个月来持续钝痛、每日头痛和周围视野缺损来诊。他还存在勃起功能障碍和性欲减退。患者无已知慢性疾病，未服用药物。血压为120/70 mm Hg，脉搏为80次/分钟。BMI为27 kg/m²。体格检查显示双侧男性乳房发育和双颞侧偏盲。血清实验室检查结果如下：\n\n肌酐 1.2 mg/dL\nTSH 1.1 μU/mL\n皮质醇 12 μg/dL\n催乳素 332 ng/mL\n\nMRI显示1.3 cm大的垂体大腺瘤 {{exhibit_1}}。处方卡麦角林治疗。"
+  },
+  "question": {
+    "en": "Which of the following changes are most likely to occur in the first few weeks following initiation of therapy?",
+    "zh": "在开始治疗后的几周内，最有可能发生以下哪种变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Decrease; Improve; Improve",
+      "zh": "降低；改善；改善"
+    },
+    "B": {
+      "en": "Decrease; Improve; Worsen",
+      "zh": "降低；改善；恶化"
+    },
+    "C": {
+      "en": "Decrease; No change; No change",
+      "zh": "降低；无变化；无变化"
+    },
+    "D": {
+      "en": "Increase; Improve; Improve",
+      "zh": "升高；改善；改善"
+    },
+    "E": {
+      "en": "Increase; Improve; No change",
+      "zh": "升高；改善；无变化"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has a prolactin-secreting pituitary adenoma (prolactinoma), confirmed with elevated serum prolactin and a pituitary mass visible on MRI. Prolactin can cause hypogonadism (eg, decreased libido, erectile dysfunction, gynecomastia) due to suppression of hypothalamic GnRH production. Mass-effect symptoms of the tumor commonly include headaches and visual field defects due to compression of the optic chiasm.\n\nUnlike most pituitary hormones, which are under positive regulation by releasing hormones (eg, GnRH, TRH) from the hypothalamus, prolactin is primarily under negative regulation by dopaminergic neurons via the pituitary stalk. Dopamine agonists (eg, cabergoline, bromocriptine) are used in patients with prolactinomas to suppress prolactin production and reduce tumor size.\n\nProlactin levels typically fall significantly within the first 2-3 weeks of therapy (Choices D and E), with a corresponding improvement in hypogonadal symptoms. Although decreased tumor size may not be visible on imaging for several weeks, mass-effect symptoms (eg, visual field defects) usually start to improve much sooner, often within the first several days of treatment (Choices B and C), with eventual normalization in many cases.\n\nTherefore, regardless of the adenoma size and severity of neurologic symptoms, dopamine agonists are the first-line therapy for prolactinoma. Surgery is not needed in most patients; even if surgery is performed, complete resection is often not possible, and recurrence is common, requiring medication therapy.\n\nEducational objective:\n\nProlactin is under negative regulation by dopaminergic neurons via the pituitary stalk. Dopamine agonists (eg, cabergoline) are used in patients with prolactin-secreting pituitary adenomas (prolactinomas) to suppress prolactin production and reduce tumor size. Benefits are typically seen within the first few weeks of therapy. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "该患者患有泌乳素分泌型垂体腺瘤（催乳素瘤），这通过血清催乳素升高和MRI可见的垂体肿块得以证实。催乳素可引起性腺功能减退（如性欲下降、勃起功能障碍、男性乳房发育），原因是它会抑制下丘脑GnRH的产生。肿瘤的占位效应症状通常包括头痛和视野缺损，这是由于压迫视交叉所致。\n\n与大多数受下丘脑释放激素（如GnRH、TRH）正向调节的垂体激素不同，催乳素主要受多巴胺能神经元通过垂体柄的负向调节。多巴胺激动剂（如卡麦角林、溴隐亭）用于催乳素瘤患者，以抑制催乳素的产生并缩小肿瘤大小。\n\n催乳素水平通常在治疗的头2-3周内显著下降（选项D和E），伴随性腺功能减退症状的相应改善。尽管肿瘤大小的缩小在影像学上可能需要几周才能显现，但占位效应症状（如视野缺损）通常会更早开始改善，通常在治疗的头几天内（选项B和C），许多情况下最终会恢复正常。\n\n因此，无论腺瘤大小和神经系统症状的严重程度如何，多巴胺激动剂都是催乳素瘤的一线治疗。大多数患者不需要手术；即使进行了手术，也往往无法完全切除，复发很常见，需要药物治疗。\n\n教育目标：\n\n催乳素受多巴胺能神经元通过垂体柄的负向调节。多巴胺激动剂（如卡麦角林）用于患有泌乳素分泌型垂体腺瘤（催乳素瘤）的患者，以抑制催乳素的产生并缩小肿瘤大小。益处通常在治疗的头几周内即可显现。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of prolactinoma presentation, diagnosis, and management with dopamine agonists like cabergoline. It assesses understanding of the mechanism of action of cabergoline and the expected timeline for improvement of symptoms.\n\nTo solve this question, recognize the clinical features of prolactinoma (headaches, visual field defects, hypogonadism), confirm the diagnosis with elevated prolactin and MRI, and understand that cabergoline will decrease prolactin levels, improve erectile dysfunction, and improve visual field defects within a few weeks.",
+    "zh": "本题考察了对催乳素瘤的临床表现、诊断以及使用多巴胺激动剂（如卡麦角林）的治疗的知识。它评估了对卡麦角林的作用机制以及症状改善的预期时间表的理解。\n\n要解决这个问题，需要认识到催乳素瘤的临床特征（头痛、视野缺损、性腺功能减退），通过催乳素升高和MRI确诊，并了解卡麦角林将在几周内降低催乳素水平，改善勃起功能障碍，并改善视野缺损。"
+  },
+  "tags": "Prolactinoma; Pituitary adenoma; Hyperprolactinemia; Cabergoline; Dopamine agonist; Erectile dysfunction; Visual field defect; Endocrinology; Neurology; Mass effect",
+  "category": "Endo",
+  "question_id": "21663",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\21663",
+  "extracted_at": "2025-11-05T14:07:05.873251",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:41:08.466612",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

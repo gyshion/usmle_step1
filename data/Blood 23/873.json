@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 37-year-old man comes to the emergency department due to blood-tinged vomiting and abdominal discomfort. Six months ago, he lost his job as an investment banker and began drinking large amounts of whiskey on a daily basis. He has since been hospitalized several times with alcohol intoxication. His temperature is 36.7 C (98 F), blood pressure is 110/70 mm Hg, pulse is 84/min, and respirations are 18/min. Physical examination shows a firm, enlarged liver. Peripheral blood smear results show neutrophils with 6-8 nuclear lobes. ",
+    "zh": "一名37岁男性因血性呕吐和腹部不适来到急诊科。六个月前，他失去了投资银行家的工作，开始每天大量饮用威士忌。此后，他曾多次因酒精中毒住院。体温36.7摄氏度（98华氏度），血压110/70毫米汞柱，脉搏84次/分，呼吸18次/分。体格检查显示肝脏质地坚硬，肿大。外周血涂片结果显示中性粒细胞具有6-8个核叶。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely explanation for this patient's abnormal hematologic findings?",
+    "zh": "以下哪项最能解释该患者异常的血液学发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Blood lipid abnormality",
+      "zh": "血脂异常"
+    },
+    "B": {
+      "en": "Chronic blood loss",
+      "zh": "慢性失血"
+    },
+    "C": {
+      "en": "Cobalamin deficiency",
+      "zh": "钴胺素缺乏"
+    },
+    "D": {
+      "en": "Folate deficiency",
+      "zh": "叶酸缺乏"
+    },
+    "E": {
+      "en": "Myelodysplasia",
+      "zh": "骨髓增生异常综合征"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Alcohol use disorder is one of the most common causes of folate deficiency anemia due to poor dietary intake and impaired folate absorption, utilization, and enterohepatic recycling. A normal individual with a folate-deficient diet can maintain normal red blood cell (RBC) production for months due to folate recycling, whereas a patient who consumes large amounts of alcohol will experience anemia within a few weeks.\n\nA reduced form of folic acid, tetrahydrofolic acid, is necessary for the synthesis of amino acids, thymidine, and purines. Impaired nucleotide synthesis leads to defective DNA production in blood cell precursors, resulting in abnormal cell division and megaloblastic hyperplasia of the bone marrow. The peripheral blood smear shows pancytopenia and hypersegmented neutrophils containing nuclei with >5 lobes. RBC abnormalities include ovalocytosis and macrocytosis, with a mean corpuscular volume (MCV) >100 μm³.\n\n(Choice A) Lipid abnormalities such as extreme hypertriglyceridemia can cause acute pancreatitis.\n\n(Choice B) Chronic blood loss causes iron deficiency anemia, which is not characterized by hypersegmented neutrophils.\n\n(Choice C) Chronic alcohol use can deplete vitamin B₁₂ levels; however, depletion would take place over a period of years, not weeks (in contrast to folate deficiency). In addition, this patient does not have any of the classic neurologic symptoms that accompany B₁₂ deficiency (eg, subacute combined degeneration).\n\n(Choice E) Myelodysplasia is a premalignant condition that manifests with pancytopenia, impaired blood cell differentiation, and clonal expansion of mutated hematopoietic cells in the bone marrow. Elevated MCV can be present, but hypersegmented neutrophils are not commonly seen.\n\nEducational objective:\nFolic acid deficiency anemia commonly occurs in alcoholism. It is a megaloblastic anemia that can develop within weeks. Peripheral blood smear shows macrocytosis, ovalocytosis, and neutrophils with hypersegmented nuclei.",
+    "zh": "酒精使用障碍是叶酸缺乏性贫血最常见的原因之一，这与不良的饮食摄入以及叶酸吸收、利用和肝肠循环受损有关。由于叶酸的再循环，叶酸缺乏的正常个体可以维持数月正常的红细胞（RBC）生成，而大量饮酒的患者会在几周内出现贫血。\n\n还原形式的叶酸，四氢叶酸，是合成氨基酸、胸腺嘧啶和嘌呤所必需的。核苷酸合成受损会导致血细胞前体DNA生成缺陷，导致细胞分裂异常和骨髓巨幼细胞增生。外周血涂片显示全血细胞减少和具有>5个叶的中性粒细胞分叶过多。红细胞异常包括卵形细胞增多和大细胞性红细胞增多，平均红细胞体积（MCV）>100 μm³。\n\n（选项A）脂质异常，如极度高甘油三酯血症，可引起急性胰腺炎。\n\n（选项B）慢性失血引起缺铁性贫血，其特征并非中性粒细胞分叶过多。\n\n（选项C）长期饮酒会耗尽维生素B₁₂水平；然而，耗竭需要数年时间，而不是几周（与叶酸缺乏症相比）。此外，该患者没有任何伴随B₁₂缺乏症的典型神经系统症状（例如，亚急性联合变性）。\n\n（选项E）骨髓增生异常综合征是一种癌前病变，表现为全血细胞减少、血细胞分化受损以及骨髓中突变造血细胞的克隆性增生。MCV升高可能存在，但通常未见中性粒细胞分叶过多。\n\n教学目标：\n叶酸缺乏性贫血常见于酒精中毒。这是一种巨幼细胞性贫血，可在几周内发展。外周血涂片显示大细胞性红细胞增多、卵形细胞增多和具有分叶核的中性粒细胞。"
+  },
+  "summary": {
+    "en": "This question tests the knowledge of causes of macrocytic anemia, specifically folate deficiency in the setting of chronic alcohol use. It also tests the ability to interpret peripheral blood smear findings such as hypersegmented neutrophils.\n\nTo solve this question, recognize the patient's history of chronic alcohol use and the peripheral blood smear findings of hypersegmented neutrophils. This combination is highly suggestive of folate deficiency, which is a common complication of alcoholism.",
+    "zh": "本题测试巨幼细胞性贫血病因的知识，特别是慢性酒精使用背景下的叶酸缺乏。它还测试了解释外周血涂片结果的能力，例如中性粒细胞分叶过多。\n\n要解决这个问题，要认识到患者的慢性酒精使用史和外周血涂片中中性粒细胞分叶过多的发现。这种组合高度提示叶酸缺乏症，这是酒精中毒的常见并发症。"
+  },
+  "tags": "Folate deficiency; Macrocytic anemia; Alcohol use disorder; Hypersegmented neutrophils; Hematology; Megaloblastic anemia",
+  "category": "Blood",
+  "question_id": "873",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\873",
+  "extracted_at": "2025-11-05T11:34:43.469107",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:32:40.045244",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

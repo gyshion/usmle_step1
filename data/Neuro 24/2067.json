@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 6-month-old boy is brought to the office by his mother due to concern that he is not developing normally. He has been feeding regularly and has had no medical issues other than a mild upper respiratory infection a month earlier. However, the mother says, \"He doesn't seem to be as interactive as my other children were at this age.\" Physical examination reveals delayed developmental milestones and hypotonia. Two years later, the child demonstrates involuntary movements and a tendency to aggressively bite his own lips and fingers. Laboratory analysis shows an elevated blood uric acid level.",
+    "zh": "一位6个月大的男孩因母亲担心其发育不正常而被带到诊所就诊。他一直定期进食，除了一个月前有轻微的上呼吸道感染外，没有其他健康问题。然而，母亲说：“他似乎不像我的其他孩子在这个年龄段那么活跃。” 体格检查显示发育迟缓和肌张力减退。两年后，孩子出现不自主运动，并有主动咬自己嘴唇和手指的倾向。实验室分析显示血液尿酸水平升高。"
+  },
+  "question": {
+    "en": "Which of the following enzymes is most likely to exhibit increased activity in order to compensate for this patient's genetic defect?",
+    "zh": "为了代偿该患者的基因缺陷，以下哪种酶最有可能表现出活性增加？"
+  },
+  "options": {
+    "A": {
+      "en": "Aspartate carbamoyltransferase",
+      "zh": "天冬氨酸氨甲酰转移酶"
+    },
+    "B": {
+      "en": "Dihydroorotase",
+      "zh": "二氢乳清酸酶"
+    },
+    "C": {
+      "en": "Hypoxanthine-guanine phosphoribosyltransferase",
+      "zh": "次黄嘌呤-鸟嘌呤磷酸核糖转移酶"
+    },
+    "D": {
+      "en": "Phosphoribosyl pyrophosphate amidotransferase",
+      "zh": "磷酸核糖焦磷酸酰胺转移酶"
+    },
+    "E": {
+      "en": "Ribonucleotide reductase",
+      "zh": "核糖核苷酸还原酶"
+    },
+    "F": {
+      "en": "Thymidylate synthase",
+      "zh": "胸腺嘧啶酸合酶"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient presents with classic features of Lesch-Nyhan syndrome, characterized by developmental delay, hypotonia, involuntary movements (dystonia), and self-mutilation (lip and finger biting), along with hyperuricemia. Lesch-Nyhan syndrome is an X-linked recessive disorder caused by a mutation in the gene encoding hypoxanthine-guanine phosphoribosyltransferase (HGPRT). HGPRT is crucial for the purine salvage pathway, converting hypoxanthine and guanine into IMP and GMP, respectively. Deficiency in HGPRT leads to decreased purine salvage, resulting in an accumulation of purine bases and increased uric acid production (hyperuricemia). Furthermore, the lack of purine nucleotides from salvage necessitates increased activity of the de novo purine synthesis pathway to meet cellular demands. The first committed step in de novo purine synthesis is the conversion of phosphoribosyl pyrophosphate (PRPP) to phosphoribosylamine by the enzyme phosphoribosyl pyrophosphate amidotransferase (PPAT). In Lesch-Nyhan syndrome, with impaired purine salvage, there is increased demand for de novo purine synthesis, leading to compensatory upregulation and increased activity of PPAT. Therefore, PPAT activity is most likely to increase in this patient.\n\n(Choices A, B, and F) Aspartate carbamoyltransferase, dihydroorotase, and thymidylate synthase are enzymes involved in pyrimidine synthesis, not purine metabolism. Their activity is not directly affected by the HGPRT deficiency in Lesch-Nyhan syndrome.\n\n(Choice C) Hypoxanthine-guanine phosphoribosyltransferase (HGPRT) is the deficient enzyme in Lesch-Nyhan syndrome. Its activity is absent or significantly decreased, not increased.\n\n(Choice E) Ribonucleotide reductase is involved in the synthesis of deoxyribonucleotides, which are essential for DNA synthesis. While purine metabolism is linked to nucleotide synthesis, the primary compensatory mechanism in Lesch-Nyhan syndrome relates to the regulation of purine synthesis itself, not directly to ribonucleotide reductase activity, which is more closely tied to cellular proliferation rates.\n\nKey clinical pearls: Lesch-Nyhan syndrome is characterized by the triad of NEUROLOGIC symptoms (dystonia, choreoathetosis, cognitive impairment), BEHAVIORAL symptoms (self-mutilation), and HYPERURICEMIA. The underlying defect is in the PURINE SALVAGE pathway due to HGPRT deficiency. Compensation involves increased DE NOVO PURINE SYNTHESIS, leading to increased activity of the rate-limiting enzyme, PPAT.",
+    "zh": "该患者表现出莱-尼综合征的典型特征，其特征为发育迟缓、肌张力减退、不自主运动（肌张力障碍）和自残（咬嘴唇和手指），以及高尿酸血症。莱-尼综合征是一种 X 连锁隐性遗传病，由编码次黄嘌呤-鸟嘌呤磷酸核糖转移酶 (HGPRT) 的基因突变引起。HGPRT 对嘌呤补救途径至关重要，它分别将次黄嘌呤和鸟嘌呤转化为 IMP 和 GMP。HGPRT 缺乏会导致嘌呤补救减少，导致嘌呤碱积累和尿酸生成增加（高尿酸血症）。此外，由于补救途径中缺少嘌呤核苷酸，需要增加从头嘌呤合成途径的活性以满足细胞需求。从头嘌呤合成的第一个关键步骤是由酶磷酸核糖焦磷酸酰胺转移酶 (PPAT) 将磷酸核糖焦磷酸 (PRPP) 转化为磷酸核糖胺。在莱-尼综合征中，由于嘌呤补救受损，从头嘌呤合成的需求增加，导致代偿性上调和 PPAT 活性增加。因此，该患者最有可能增加 PPAT 活性。\n\n（选项 A、B 和 F）天冬氨酸氨甲酰转移酶、二氢乳清酸酶和胸腺嘧啶酸合酶是参与嘧啶合成的酶，而不是嘌呤代谢。它们的活性不受莱-尼综合征中 HGPRT 缺乏症的直接影响。\n\n（选项 C）次黄嘌呤-鸟嘌呤磷酸核糖转移酶 (HGPRT) 是莱-尼综合征中的缺陷酶。它的活性缺失或显着降低，而不是增加。\n\n（选项 E）核糖核苷酸还原酶参与脱氧核苷酸的合成，脱氧核苷酸是 DNA 合成的必需品。虽然嘌呤代谢与核苷酸合成有关，但莱-尼综合征中的主要代偿机制与嘌呤合成本身的调节有关，而不是直接与核糖核苷酸还原酶活性有关，后者与细胞增殖率的关系更密切。\n\n关键临床要点：莱-尼综合征的特征是神经系统症状（肌张力障碍、舞蹈手足徐动症、认知障碍）、行为症状（自残）和高尿酸血症的三联征。潜在的缺陷是由于 HGPRT 缺乏导致的嘌呤补救途径。代偿包括增加从头嘌呤合成，从而导致限速酶 PPAT 的活性增加。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of Lesch-Nyhan syndrome, its underlying genetic defect in HGPRT, and the resulting metabolic compensation in purine synthesis. It requires knowledge of the purine salvage and de novo synthesis pathways and the enzymes involved.\n\nTo solve this question, identify the clinical features suggestive of Lesch-Nyhan syndrome, recall the enzymatic defect (HGPRT deficiency), and understand how the body compensates for this defect by increasing the activity of enzymes in the de novo purine synthesis pathway, specifically the rate-limiting enzyme.",
+    "zh": "此问题考察了对莱-尼综合征的理解，其潜在的 HGPRT 基因缺陷以及由此导致的嘌呤合成中的代谢代偿。它需要了解嘌呤补救和从头合成途径以及所涉及的酶。\n\n要解决这个问题，需要确定提示莱-尼综合征的临床特征，回忆酶缺陷（HGPRT 缺乏），并了解身体如何通过增加从头嘌呤合成途径中酶的活性来代偿此缺陷，特别是限速酶。"
+  },
+  "tags": "Lesch-Nyhan syndrome; Purine metabolism; HGPRT deficiency; Hyperuricemia; De novo purine synthesis; Phosphoribosyl pyrophosphate amidotransferase; Metabolic disorders; Genetics; Neurology",
+  "category": "Neuro",
+  "question_id": "2067",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\2067",
+  "extracted_at": "2025-11-05T19:39:11.215455",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:39:09.099155",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

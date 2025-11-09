@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 17-year-old boy is brought to the emergency department for progressive fatigue. The patient developed a cough 2 weeks ago, and for the past few days, he has become more tired due to difficulty breathing, particularly when lying down at night. Temperature is 38.2 C (100.8 F), pulse is 120/min, and respirations are 34/min. Examination shows distended neck veins. The lungs have diminished breath sounds, particularly on the left side. Bruising and diffuse petechiae are present on the trunk, and the mucous membranes appear pale. Chest radiography reveals a large mediastinal mass with a left pleural effusion. The effusion is drained, and examination of the fluid shows many immature hematopoietic cells, consistent with blast forms. Immunophenotyping of these cells would most likely reveal which of the following predominant markers? {{exhibit_1}}",
+    "zh": "一名17岁男孩因进行性疲劳被送至急诊科。患者2周前出现咳嗽，过去几天由于呼吸困难，尤其是在夜间躺下时，变得更加疲倦。体温38.2°C（100.8°F），脉搏120次/分，呼吸34次/分。检查显示颈静脉扩张。肺部呼吸音减弱，尤其是在左侧。躯干出现瘀伤和弥漫性瘀点，粘膜苍白。胸部X光片显示大的纵隔肿块伴左侧胸腔积液。引流胸腔积液，检查液体显示许多未成熟的造血细胞，与原始细胞一致。对这些细胞进行免疫分型最有可能显示以下哪种主要标记物？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Immunophenotyping of these cells would most likely reveal which of the following predominant markers?",
+    "zh": "对这些细胞进行免疫分型最有可能显示以下哪种主要标记物？"
+  },
+  "options": {
+    "A": {
+      "en": "CD3, terminal deoxynucleotidyl transferase",
+      "zh": "CD3，末端脱氧核苷酸转移酶"
+    },
+    "B": {
+      "en": "CD15, CD30",
+      "zh": "CD15，CD30"
+    },
+    "C": {
+      "en": "CD20, surface immunoglobulin",
+      "zh": "CD20，表面免疫球蛋白"
+    },
+    "D": {
+      "en": "CD33, myeloperoxidase",
+      "zh": "CD33，髓过氧化物酶"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's mediastinal mass, concurrent signs of bone marrow failure (eg, petechiae, pallor), and blasts in the pleural fluid are findings worrisome for ACUTE LYMPHOBLASTIC LEUKEMIA (ALL). Expansion of the mediastinal mass frequently compresses adjacent structures such as the superior vena cava (venous swelling of the head/neck), esophagus (dysphagia), and trachea (dyspnea). Pleural effusions, caused by inflammation from tumor growth and cytokine release, also commonly occur.\n\nThe neoplastic cells of ALL arise from lymphoid precursors of either B or T lineage. In a patient with a mediastinal mass and suspected ALL, T LYMPHOBLASTS are usually the cells of origin due to their location within the thymus during lymphocyte maturation. In contrast to B-lymphoblastic leukemia (B-ALL), which typically presents in early childhood, T-lymphoblastic leukemia (T-ALL) classically affects adolescents/young adults.\n\nFlow cytometry of bone marrow aspirate, peripheral blood, or pleural effusion can be used to characterize the cell of origin. Terminal deoxynucleotidyl transferase (TdT), a DNA polymerase involved in V(D)J recombination (generates antigen receptor diversity during early B- and T-cell maturation), is expressed only by lymphoid progenitor cells. The following markers are used to classify cell lineage:\n\n• B Lymphoblasts: CD10, CD19, CD20, CD22, CD79a (typically CDs ≥10)\n• T lymphoblasts: CD2, CD3, CD4, CD5, CD7, CD8 (typically CDs <10)\n\nTherefore, this patient with a presentation consistent with T-ALL likely has blast cells positive for TdT and CD3. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\n(Choice B) CD15 and CD30 are consistent with classic Hodgkin lymphoma, which can present with a mediastinal mass and superior vena cava syndrome in adolescents. However, Reed-Sternberg cells, not blast cells, would be expected.\n\n(Choice C) CD20 (a B-cell marker) and surface immunoglobulin (a marker unique to B cells) are seen in B-cell malignancies. B-ALL usually occurs in early childhood and is less likely to be associated with a mediastinal mass compared to T-ALL.\n\n(Choice D) CD33 and myeloperoxidase are markers characteristic of myeloid lineage. A mediastinal mass is far more commonly associated with ALL than acute myeloid leukemia.\n\nEducational objective:\nT-lymphoblastic leukemia often presents in adolescents with a mediastinal mass that can cause respiratory symptoms or superior vena cava syndrome. The diagnosis is confirmed via flow cytometry by identifying a population of T lymphoblasts (ie, TdT and CD3 positive).",
+    "zh": "该患者的纵隔肿块、同时出现的骨髓衰竭体征（如瘀点、苍白）和胸腔积液中的原始细胞是急性淋巴细胞白血病 (ALL) 的令人担忧的发现。纵隔肿块的扩大经常压迫邻近结构，例如上腔静脉（头/颈部静脉肿胀）、食管（吞咽困难）和气管（呼吸困难）。由肿瘤生长和细胞因子释放引起的胸腔积液也很常见。\n\nALL 的肿瘤细胞起源于 B 细胞或 T 细胞谱系的淋巴样前体细胞。在患有纵隔肿块和疑似 ALL 的患者中，由于 T 淋巴细胞在淋巴细胞成熟过程中位于胸腺内，因此它们通常是起源细胞。与通常发生在幼儿期的 B 淋巴细胞白血病 (B-ALL) 相比，T 淋巴细胞白血病 (T-ALL) 经典地影响青少年/年轻人。\n\n骨髓抽吸物、外周血或胸腔积液的流式细胞术可用于表征起源细胞。末端脱氧核苷酸转移酶 (TdT) 是一种参与 V(D)J 重组（在早期 B 细胞和 T 细胞成熟过程中产生抗原受体多样性）的 DNA 聚合酶，仅由淋巴样祖细胞表达。以下标记物用于对细胞谱系进行分类：\n\n• B 淋巴母细胞：CD10、CD19、CD20、CD22、CD79a（通常 CD ≥ 10）\n• T 淋巴母细胞：CD2、CD3、CD4、CD5、CD7、CD8（通常 CD < 10）\n\n因此，该患者的表现与 T-ALL 一致，可能存在 TdT 和 CD3 阳性的原始细胞。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\n（选项 B）CD15 和 CD30 与经典霍奇金淋巴瘤一致，可在青少年中出现纵隔肿块和上腔静脉综合征。然而，预计会看到里德-斯滕伯格细胞，而不是原始细胞。\n\n（选项 C）CD20（B 细胞标记物）和表面免疫球蛋白（B 细胞特有的标记物）见于 B 细胞恶性肿瘤。与 T-ALL 相比，B-ALL 通常发生在幼儿期，并且不太可能与纵隔肿块相关。\n\n（选项 D）CD33 和髓过氧化物酶是髓系谱的特征性标记物。纵隔肿块更常见于 ALL，而不是急性髓细胞白血病。\n\n教学目标：\nT 淋巴细胞白血病通常表现为青少年出现纵隔肿块，可引起呼吸系统症状或上腔静脉综合征。通过流式细胞术确认诊断，识别 T 淋巴细胞群（即 TdT 和 CD3 阳性）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of T-lymphoblastic leukemia (T-ALL) presentation, specifically in adolescents with a mediastinal mass, and the immunophenotypic markers used for diagnosis. It requires understanding of cell lineage markers and their association with different types of leukemia.\n\nThe best approach is to recognize the clinical scenario suggestive of T-ALL (mediastinal mass, bone marrow failure) and recall the characteristic immunophenotype of T lymphoblasts (TdT and CD3 positivity). Rule out other options based on their association with different hematologic malignancies or age groups.",
+    "zh": "此题考察对 T 淋巴细胞白血病 (T-ALL) 表现的了解，特别是青少年出现纵隔肿块，以及用于诊断的免疫表型标记。它需要了解细胞谱系标记及其与不同类型白血病的关系。\n\n最好的方法是识别提示 T-ALL 的临床情况（纵隔肿块、骨髓衰竭）并回忆 T 淋巴母细胞的特征性免疫表型（TdT 和 CD3 阳性）。根据其他选项与不同血液恶性肿瘤或年龄组的关联来排除它们。"
+  },
+  "tags": "T-lymphoblastic leukemia; Mediastinal mass; Immunophenotyping; CD3; Terminal deoxynucleotidyl transferase; Hematologic malignancy; Flow cytometry; Bone marrow failure; T lymphoblasts",
+  "category": "Blood",
+  "question_id": "1798",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1798",
+  "extracted_at": "2025-11-05T11:28:24.002674",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:29:24.082522",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

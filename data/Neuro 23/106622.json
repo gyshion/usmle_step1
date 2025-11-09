@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 40-year-old man comes to the office due to a 6-month history of sleep abnormalities, constipation, and generalized slowing of activity. In addition, he has difficulty rising from a seated position. Medical history is significant for a traumatic head injury 3 years ago, which required a prolonged hospital stay. The patient has no other medical conditions and takes no medication. He does not use tobacco, alcohol, or recreational drugs. Vital signs are normal. Examination shows resistance to passive movement in the upper extremities, which is slightly greater on the left than on the right. Left hand tremor and decreased arm swing occur during walking. {{exhibit_1}}",
+    "zh": "一名40岁男性因6个月的睡眠异常、便秘和全身活动减慢来就诊。此外，他难以从坐姿站起。病史显示3年前曾遭受过一次头部外伤，需要长期住院。患者没有其他疾病，也没有服用任何药物。他不吸烟、不饮酒，也不使用娱乐性药物。生命体征正常。体格检查显示上肢被动运动阻力，左侧略大于右侧。行走时出现左手震颤和手臂摆动减小。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely explanation for this patient's current condition?",
+    "zh": "以下哪项最能解释该患者目前的状况？"
+  },
+  "options": {
+    "A": {
+      "en": "Astrocyte swelling",
+      "zh": "星形胶质细胞肿胀"
+    },
+    "B": {
+      "en": "Degeneration of neurons",
+      "zh": "神经元变性"
+    },
+    "C": {
+      "en": "Degeneration of oligodendrocytes",
+      "zh": "少突胶质细胞变性"
+    },
+    "D": {
+      "en": "Disruption of vascular endothelial cells",
+      "zh": "血管内皮细胞破坏"
+    },
+    "E": {
+      "en": "Vascular amyloid deposition",
+      "zh": "血管淀粉样蛋白沉积"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has bradykinesia (eg, slowing of activity, decreased arm swing) with an asymmetric hand tremor and rigidity (increased resistance to passive movement around a joint). In addition, he also has sleep abnormalities and constipation. This constellation of symptoms is concerning for PARKINSON DISEASE.\n\nParkinson disease originates from a loss of dopaminergic neurons in the substantia nigra. This usually occurs gradually, leading to clinical onset typically in the sixth or seventh decade.\n\nTraumatic brain injury, especially with prolonged loss of consciousness, is associated with both an increased incidence and an earlier onset of Parkinson disease. This is due to the accelerated degeneration of neurons both at the time of injury and through ongoing neurotoxic cascades that lead to the accumulation of alpha-synuclein filaments and accelerated neurodegeneration.\n\n(Choice A) Astrocyte swelling occurs in the early phase of traumatic brain injury and can lead to cerebral edema and life-threatening increased intracranial pressure. It does not seem to directly contribute to dopaminergic neurodegeneration.\n\n(Choice C) Degeneration of oligodendrocytes (myelin-forming cells) leads to demyelinating diseases such as multiple sclerosis, which typically presents with neurologic deficits disseminated in space and time.\n\n(Choice D) Disruption of vascular endothelial cells can occur due to shearing forces during traumatic brain injury. This can disrupt the blood-brain barrier, leading to cerebral edema and petechial hemorrhaging. However, it is not the primary cause of Parkinson disease.\n\n(Choice E) Vascular amyloid deposition is responsible for cerebral amyloid angiopathy, which is the most common cause of lobar intracranial hemorrhage. The amyloidogenic proteins are usually the same as those seen in Alzheimer dementia, but they are not associated with Parkinson disease, which is associated with alpha-synuclein deposition.\n\nEducational objective:\nBradykinesia, resting tremor, and rigidity are features of Parkinson disease, which is caused by dopaminergic neurodegeneration. Traumatic brain injuries can accelerate neurodegeneration, leading to a higher incidence and earlier onset of Parkinson disease. {{exhibit_2}}",
+    "zh": "该患者出现运动迟缓（如活动减慢、手臂摆动减少），伴有不对称的手部震颤和僵硬（关节周围被动运动阻力增加）。此外，他还存在睡眠异常和便秘。这种症状组合提示帕金森病。\n\n帕金森病源于黑质多巴胺能神经元的丢失。这通常逐渐发生，导致临床发病通常在第六或第七个十年。\n\n头部外伤，尤其是伴有长期意识丧失的头部外伤，与帕金森病的发病率增加和发病年龄提前有关。这是由于神经元在受伤时以及通过持续的神经毒性级联反应加速变性，从而导致α-突触核蛋白丝的积累和加速神经变性。\n\n(选项A) 星形胶质细胞肿胀发生在头部外伤的早期，可导致脑水肿和危及生命力的颅内压升高。它似乎并未直接导致多巴胺能神经元的变性。\n\n(选项C) 少突胶质细胞（髓鞘形成细胞）的变性导致脱髓鞘疾病，如多发性硬化症，其通常表现为在时间和空间上弥散的神经功能缺损。\n\n(选项D) 血管内皮细胞的破坏可能由于头部外伤期间的剪切力引起。这会破坏血脑屏障，导致脑水肿和瘀点性出血。然而，它不是帕金森病的主要原因。\n\n(选项E) 血管淀粉样蛋白沉积是脑淀粉样血管病的原因，这是最常见的脑叶内出血原因。淀粉样蛋白原性蛋白通常与阿尔茨海默病痴呆中所见的相同，但它们与帕金森病无关，帕金森病与α-突触核蛋白沉积有关。\n\n教学目标：\n运动迟缓、静止性震颤和僵硬是帕金森病的特征，帕金森病是由多巴胺能神经元变性引起的。头部外伤可以加速神经变性，从而导致帕金森病的发病率更高、发病年龄更早。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Parkinson's disease, its clinical presentation, and risk factors, particularly the association with traumatic brain injury. It requires recognizing the classic symptoms of Parkinson's and understanding how a prior head injury can accelerate the neurodegenerative process. \n\nTo solve this question, identify the key features of Parkinson's disease in the patient's history and examination. Consider the impact of the traumatic brain injury on the patient's risk for developing Parkinson's at a younger age. Rule out other potential causes based on the clinical presentation. {{exhibit_3}}",
+    "zh": "本题考察对帕金森病、其临床表现和危险因素的认识，特别是与头部外伤的关系。需要识别帕金森病的典型症状，并了解既往头部外伤如何加速神经变性过程。\n\n要解决此问题，请确定患者病史和体格检查中帕金森病的关键特征。考虑头部外伤对患者在较年轻时患上帕金森病的风险的影响。根据临床表现排除其他潜在原因。{{exhibit_3}}"
+  },
+  "tags": "Parkinson's disease; Neurodegeneration; Traumatic brain injury; Dopaminergic neurons; Bradykinesia; Tremor; Rigidity; Neurology",
+  "category": "Neuro",
+  "question_id": "106622",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\106622",
+  "extracted_at": "2025-11-05T15:07:49.198392",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:16:30.691653",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

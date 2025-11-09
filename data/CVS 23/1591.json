@@ -1,0 +1,70 @@
+{
+  "question_stem": {
+    "en": "A 38-year-old woman is being evaluated for shortness of breath. The patient has had poor exercise tolerance for the last several months that she initially attributed to deconditioning. Over the last several weeks, her symptoms have gotten progressively worse and she currently feels short of breath even during mild exertion. The patient has no family history of heart disease. As part of her evaluation, she undergoes right and left heart catheterization. The following data are obtained: {{exhibit_1}} Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "一名38岁的女性正在接受呼吸困难评估。患者在过去几个月里运动耐受性差，最初她将其归因于失调。在过去的几周里，她的症状逐渐恶化，目前即使在轻微的运动中也会感到呼吸短促。患者无心脏病家族史。作为评估的一部分，她接受了右心和左心导管检查。获得以下数据：{{exhibit_1}} 患者出现这些症状最可能的原因是什么？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "以下哪项最可能是该患者症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Aortic stenosis",
+      "zh": "主动脉瓣狭窄"
+    },
+    "B": {
+      "en": "Cardiac tamponade",
+      "zh": "心脏压塞"
+    },
+    "C": {
+      "en": "Dilated cardiomyopathy",
+      "zh": "扩张型心肌病"
+    },
+    "D": {
+      "en": "Mitral stenosis",
+      "zh": "二尖瓣狭窄"
+    },
+    "E": {
+      "en": "Restrictive cardiomyopathy",
+      "zh": "限制型心肌病"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "During normal diastole, the LA pressure is nearly equal to the LVEDP as the open mitral valve offers minimal resistance to flow between the 2 chambers. In patients with {{exhibit_2}} mitral stenosis, there is resistance to blood flow from the LA to LV that leads to an increase in the LA pressure. This increase in LA pressure is transmitted back to the pulmonary veins and is recorded as {{exhibit_3}} elevated PCWP during pulmonary artery catheterization. If the LA pressure is sufficiently high to overcome the resistance between the LA and LV, LV filling may not be significantly affected, resulting in {{exhibit_4}} normal LVEDP. (Choice A) Aortic stenosis causes a pressure gradient between LV and aortic peak systolic pressures. LVEDP and PCWP can be elevated in patients with aortic stenosis; however, both these values would remain in approximately the same range. (Choice B) Cardiac tamponade leads to equalization of average intracardiac diastolic pressures (left ventricular, right ventricular, and pulmonary artery diastolic pressures). LVEDP and PCWP are both elevated to a similar degree. (Choices C and E) Both dilated and restrictive cardiomyopathy are associated with pulmonary and systemic venous congestion, resulting in a similar increase in both LVEDP and PCWP. In dilated cardiomyopathy, this occurs due to systolic dysfunction (impaired ventricular contractility), whereas in restrictive cardiomyopathy this occurs due to diastolic dysfunction (impaired ventricular relaxation/filling).",
+    "zh": "在正常的舒张期，由于开放的二尖瓣对两个心房之间的血流阻力最小，所以左房（LA）压力几乎等于左室舒张末压（LVEDP）。在{{exhibit_2}}二尖瓣狭窄的患者中，存在着从LA到LV的血流阻力，导致LA压力升高。这种LA压力的升高会传回肺静脉，并在肺动脉导管检查过程中记录为{{exhibit_3}}升高的PCWP。如果LA压力足够高以克服LA和LV之间的阻力，LV充盈可能不会受到显著影响，导致{{exhibit_4}}正常的LVEDP。（选项A）主动脉瓣狭窄导致LV和主动脉收缩峰压之间存在压力梯度。LVEDP和PCWP在主动脉瓣狭窄患者中可能升高；然而，这两个值将保持在大致相同的范围内。（选项B）心脏压塞导致平均心腔内舒张压（左心室、右心室和肺动脉舒张压）均等化。LVEDP和PCWP都以相似的程度升高。（选项C和E）扩张型和限制型心肌病均与肺和全身静脉充血有关，导致LVEDP和PCWP都出现类似的升高。在扩张型心肌病中，这发生于收缩功能障碍（心室收缩力受损），而在限制型心肌病中，这发生于舒张功能障碍（心室松弛/充盈受损）。"
+  },
+  "summary": {
+    "en": "The patient presents with symptoms of dyspnea and poor exercise tolerance, and her left heart catheterization shows elevated pulmonary capillary wedge pressure (PCWP) and left ventricular end-diastolic pressure (LVEDP). Mitral stenosis is the most likely cause of these findings, as it obstructs blood flow from the left atrium to the left ventricle, leading to increased left atrial pressure and consequently elevated PCWP. The LVEDP may be normal or mildly elevated depending on the severity of the stenosis and the ability of the left ventricle to fill.",
+    "zh": "患者出现呼吸困难和运动耐受性差的症状，其左心导管检查显示肺毛细血管楔压（PCWP）和左心室舒张末压（LVEDP）升高。二尖瓣狭窄是这些发现最可能的原因，因为它阻碍了血液从左心房流向左心室，导致左心房压力升高，从而导致PCWP升高。LVEDP可能正常或轻度升高，具体取决于狭窄的严重程度和左心室的充盈能力。"
+  },
+  "tags": [
+    "cardiology",
+    "valvular heart disease",
+    "mitral stenosis",
+    "heart catheterization",
+    "dyspnea",
+    "exercise intolerance"
+  ],
+  "category": "CVS",
+  "question_id": "1591",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1591",
+  "extracted_at": "2025-11-05T19:19:43.347272",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:51:41.603052",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "5-day-old term newborn brought to the emergency department for multiple episodes of emesis. Breastfed infant having fewer wet diapers over the last 2 days. Vitals: tachycardia, tachypnea, and hypotension. Physical exam: icteric, lethargic baby with sunken fontanelle, dry mucous membranes, and hepatomegaly. Blood culture drawn and empiric antibiotics initiated. Hematologic studies: leukocytosis with bandemia. Serum studies: hypoglycemia and elevated transaminases. Ammonia level normal. Newborn screen pending. Preliminary results from arterial blood culture: gram-negative rods. Infant placed on special formula and gradually improves over the next few days.",
+    "zh": "一名 5 天大的足月新生儿因多次呕吐被带到急诊科。母乳喂养的婴儿在过去 2 天内尿湿的尿布较少。生命体征：心动过速、呼吸急促和低血压。体格检查：黄疸、嗜睡的婴儿，囟门凹陷，粘膜干燥，肝肿大。抽取血培养并开始经验性抗生素治疗。血液学检查：白细胞增多伴有杆状核粒细胞增多。血清学检查：低血糖和转氨酶升高。氨水平正常。新生儿筛查结果待定。动脉血培养的初步结果：革兰氏阴性杆菌。婴儿使用特殊配方奶粉，并在接下来的几天内逐渐好转。"
+  },
+  "question": {
+    "en": "Which of the following steps in metabolism is most likely impaired in this patient?",
+    "zh": "该患者最有可能受损的代谢步骤是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Lactose -> Glucose",
+      "zh": "乳糖 -> 葡萄糖"
+    },
+    "B": {
+      "en": "Galactose -> Galactitol",
+      "zh": "半乳糖 -> 半乳糖醇"
+    },
+    "C": {
+      "en": "Galactose -> Galactose-1-phosphate",
+      "zh": "半乳糖 -> 半乳糖-1-磷酸"
+    },
+    "D": {
+      "en": "UDP-galactose <-> Glucose-1-phosphate",
+      "zh": "UDP-半乳糖 <-> 葡萄糖-1-磷酸"
+    },
+    "E": {
+      "en": "Glucose-1-phosphate -> Glucose-6-phosphate",
+      "zh": "葡萄糖-1-磷酸 -> 葡萄糖-6-磷酸"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Classic GALACTOSEMIA results from deficiency of GALACTOSE-1-PHOSPHATE URIDYL TRANSFERASE. Clinical features include vomiting, lethargy, jaundice, and ESCHERICHIA COLI sepsis. Cessation of breastfeeding and switching to soy milk-based formula is recommended. In GALT deficiency, toxicity of accumulated galactose-1-phosphate is responsible for impaired liver function (transaminitis, hyperbilirubinemia, hypoglycemia) and renal dysfunction (hyperchloremic metabolic acidosis, aminoaciduria). Patients are also predisposed to ESCHERICHIA COLI (gram-negative rod) sepsis. PHOSPHOGLUCOMUTASE isomerizes glucose-1-phosphate to glucose-6-phosphate, which then enters the glycolytic pathway. Its deficiency is rare. In GALT deficiency, accumulation of galactose-1-phosphate blocks phosphoglucomutase, thereby preventing energy production via glycolysis.",
+    "zh": "经典半乳糖血症是由于半乳糖-1-磷酸尿苷酰转移酶缺乏所致。临床特征包括呕吐、嗜睡、黄疸和**大肠杆菌**败血症。建议停止母乳喂养，改用豆奶配方奶粉。在 GALT 缺乏症中，积累的半乳糖-1-磷酸的毒性导致肝功能受损（转氨酶升高、高胆红素血症、低血糖症）和肾功能障碍（高氯性代谢性酸中毒、氨基酸尿）。患者也容易患**大肠杆菌**（革兰氏阴性杆菌）败血症。磷酸葡萄糖变位酶将葡萄糖-1-磷酸异构化为葡萄糖-6-磷酸，然后进入糖酵解途径。它的缺乏症很少见。在 GALT 缺乏症中，半乳糖-1-磷酸的积累会阻断磷酸葡萄糖变位酶，从而阻止通过糖酵解产生能量。"
+  },
+  "summary": {
+    "en": "1) Galactosemia 2) The patient has classic galactosemia due to deficiency of galactose-1-phosphate uridyl transferase (GALT). This enzyme catalyzes the conversion of UDP-galactose to glucose-1-phosphate.",
+    "zh": "1) 半乳糖血症 2) 患者患有经典型半乳糖血症，是由于半乳糖-1-磷酸尿苷酰转移酶（GALT）缺乏所致。该酶催化 UDP-半乳糖转化为葡萄糖-1-磷酸。"
+  },
+  "tags": "Galactosemia; Galactose-1-phosphate uridyl transferase; GALT; Newborn screening; Metabolic disorder",
+  "category": "Bio",
+  "question_id": "1071",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1071",
+  "extracted_at": "2025-11-05T10:58:17.641188",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T15:43:48.314127",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

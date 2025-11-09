@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old woman comes to the physician with a 3-week history of progressive fatigue. Physical examination shows lesions involving the nail beds, as seen in the photograph below {{exhibit_1}}.",
+    "zh": "一名24岁女性因进行性疲劳3周就诊。体格检查显示指甲床出现病变，如下图{{exhibit_1}}所示。"
+  },
+  "question": {
+    "en": "Further evaluation would most likely reveal additional abnormalities during which part of the physical examination?",
+    "zh": "进一步评估最有可能在体格检查的哪个部分发现其他异常？"
+  },
+  "options": {
+    "A": {
+      "en": "Neck palpation",
+      "zh": "颈部触诊"
+    },
+    "B": {
+      "en": "Lung auscultation",
+      "zh": "肺部听诊"
+    },
+    "C": {
+      "en": "Cardiac auscultation",
+      "zh": "心脏听诊"
+    },
+    "D": {
+      "en": "Abdominal palpation",
+      "zh": "腹部触诊"
+    },
+    "E": {
+      "en": "Rectal examination",
+      "zh": "直肠检查"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "These lesions are subungual splinter hemorrhages, splinter- or flame-shaped hemorrhagic streaks in the nail bed that appear as a consequence of microemboli. Janeway lesions (small, macular, erythematous or hemorrhagic, nontender lesions on the palms and soles) are also a sign of microembolism. Infectious endocarditis (IE) is the usual cause of such microemboli, and progressive fatigue may be the presenting symptom of subacute bacterial endocarditis. Chronically destructive, infected vegetations involving the cardiac valves are the source of the microemboli in bacterial endocarditis. Patients with suspected IE should therefore be evaluated for a regurgitant murmur during cardiac auscultation.\n\n(Choices A, B, and D) Unless the primary source of the bacteremia initiating the IE is a focal neck, pulmonary, or abdominal infection, one would not expect to find any abnormalities in these systems.\n\n(Choice E) Unless the primary source of the original bacteremia was a peri-rectal infection or necrotic, infected rectal neoplasm, one would not expect to find any abnormalities on rectal examination.\n\nEducational objective:\nMicroemboli from the valvular vegetations of bacterial endocarditis are the most common cause of subungual splinter hemorrhages. The presence of these lesions necessitates careful cardiac auscultation to detect a possible new-onset regurgitant murmur. {{exhibit_2}}",
+    "zh": "这些病变是甲床下刺状出血，是甲床中因微栓塞引起的刺状或火焰状出血条纹。Janeway病灶（手掌和足底的小的、斑疹状的、红斑性或出血性、无压痛的病灶）也是微栓塞的征象。感染性心内膜炎(IE) 是此类微栓塞的常见病因，进行性疲劳可能是亚急性细菌性心内膜炎的首发症状。慢性破坏性、涉及心脏瓣膜的感染性赘生物是细菌性心内膜炎中微栓塞的来源。因此，怀疑患有 IE 的患者应在心脏听诊时评估是否有反流性杂音。\n\n（选项 A、B 和 D）除非引发 IE 的菌血症的主要来源是局灶性颈部、肺部或腹部感染，否则不应期望在这些系统中发现任何异常。\n\n（选项 E）除非原始菌血症的主要来源是直肠周围感染或坏死、感染的直肠肿瘤，否则不应期望在直肠检查中发现任何异常。\n\n教学目标：\n细菌性心内膜炎瓣膜赘生物引起的微栓塞是甲床下刺状出血的最常见原因。这些病灶的存在需要在进行仔细的心脏听诊以检测可能新出现的反流性杂音。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the clinical presentation of infectious endocarditis, specifically the significance of splinter hemorrhages and their association with cardiac valve vegetations. It emphasizes the importance of cardiac auscultation in patients with suspected endocarditis.\n\nTo solve this question, recognize that splinter hemorrhages are often caused by microemboli from valvular vegetations in infectious endocarditis. Therefore, the next step should be to evaluate the heart for a new-onset murmur, which is best done through cardiac auscultation.",
+    "zh": "此题考察对感染性心内膜炎临床表现的了解，特别是对刺状出血的意义及其与心脏瓣膜赘生物的关联。它强调了在怀疑患有心内膜炎的患者中进行心脏听诊的重要性。\n\n要解决此题，需要认识到刺状出血通常是由感染性心内膜炎中瓣膜赘生物引起的微栓塞引起的。因此，下一步应该是评估心脏是否有新出现的杂音，这最好通过心脏听诊完成。"
+  },
+  "tags": "Infectious endocarditis; Splinter hemorrhages; Cardiac auscultation; Microemboli; Valvular vegetations; Cardiology; Internal medicine",
+  "category": "CVS",
+  "question_id": "228",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\228",
+  "extracted_at": "2025-11-05T12:11:52.725089",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:28:51.376070",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

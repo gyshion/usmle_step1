@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 2-week-old girl is brought to her primary care provider for a routine visit. The patient was born by normal spontaneous vaginal delivery at 39 weeks gestation. The mother is breastfeeding exclusively, and the infant has regained her birth weight. Newborn screening results from hemoglobin electrophoresis are as follows:\n\nHemoglobin F 70%\nHemoglobin A 20%\nHemoglobin S 10%\n\nThe patient's mother has sickle cell trait, and a maternal cousin has sickle cell anemia. Examination shows a well-appearing infant with no pallor or splenomegaly. Which of the following is most likely true about this patient? {{exhibit_1}}",
+    "zh": "一名 2 周大的女婴因例行就诊而被带到她的初级保健医生处。患者通过正常阴道分娩于妊娠 39 周分娩。母亲纯母乳喂养，婴儿已恢复出生体重。来自血红蛋白电泳的新生儿筛查结果如下：\n\n血红蛋白 F 70%\n血红蛋白 A 20%\n血红蛋白 S 10%\n\n患者的母亲有镰状细胞性状，一个母系表亲患有镰状细胞性贫血。体格检查显示婴儿外观良好，无苍白或脾肿大。关于这名患者，以下哪项最有可能成立？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is most likely true about this patient?",
+    "zh": "关于这名患者，以下哪项最有可能成立？"
+  },
+  "options": {
+    "A": {
+      "en": "Life expectancy will be shorter than average",
+      "zh": "预期寿命将低于平均水平"
+    },
+    "B": {
+      "en": "Mean corpuscular volume will be decreased",
+      "zh": "平均红细胞体积将减少"
+    },
+    "C": {
+      "en": "Reticulocyte count will be elevated",
+      "zh": "网织红细胞计数将升高"
+    },
+    "D": {
+      "en": "She has relative protection from *Plasmodium falciparum*",
+      "zh": "她对恶性疟原虫具有相对的保护作用"
+    },
+    "E": {
+      "en": "She will likely develop pain crises",
+      "zh": "她可能会出现疼痛危象"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's hemoglobin electrophoresis from her newborn screen is most consistent with sickle cell trait. At birth, infants who are heterozygous for sickle cell trait typically have the greatest amount of fetal hemoglobin (Hb F), followed by hemoglobin A (Hb A), and the smallest amount of hemoglobin S (Hb S). Hb A continues to be higher than Hb S throughout the lifetime of these patients as Hb F naturally declines, offering protection from sickle cell anemia, aplastic crises, and splenic sequestration. Patients with sickle cell trait are usually **asymptomatic** with normal hemoglobin level, reticulocyte count, and red blood cell (RBC) indices. However, they may develop hematuria, priapism, and increased incidence of urinary tract infections. Splenic infarction at high altitudes has also been reported.\n\nPatients with sickle cell trait have **relative protection from *Plasmodium falciparum* (malaria)**, resulting in lower rates of severe malaria and hospitalization than seen in the general population. Possible mechanisms include increased sickling of parasitized sickle cell trait RBCs and accelerated removal of these cells by the splenic monocyte-macrophage system. These patients are not immune to malaria, however, and those visiting malaria-endemic areas should still receive prophylaxis.\n\n**(Choice A)** Life expectancy of patients with sickle cell trait is no different than that of the general population. Patients who are homozygous for the sickle cell mutation have a decreased life expectancy due to significant complications of disease (eg, acute chest syndrome, infection from encapsulated organisms).\n\n**(Choices B and C)** Patients with sickle cell trait typically have normal RBC indices and reticulocyte counts. Individuals with sickle cell anemia (eg, no normal Hb A) will have an elevated reticulocyte count but will maintain a normal mean corpuscular volume.\n\n**(Choice E)** It is unlikely that this patient will develop painful crises as she is protected by the predominance of Hb A (normal hemoglobin) over Hb S. Vaso-occlusive pain crises that develop in patients with sickle cell anemia are thought to occur when Hb S polymerizes and causes the RBCs to assume a sickle shape, typically in response to a trigger (eg, cold weather, dehydration).\n\nEducational objective:\nPatients with sickle cell trait are typically asymptomatic and have relative protection from malaria caused by *Plasmodium falciparum*. These patients usually have normal hemoglobin, reticulocyte, and red blood cell index values. Life expectancy is the same as that of the general population.",
+    "zh": "该患者来自新生儿筛查的血红蛋白电泳结果与镰状细胞性状最为一致。出生时，杂合子镰状细胞性状的婴儿通常具有最多的胎儿血红蛋白 (Hb F)，其次是血红蛋白 A (Hb A)，最少量的血红蛋白 S (Hb S)。由于 Hb F 自然下降，Hb A 在这些患者的整个生命周期中持续高于 Hb S，从而提供对镰状细胞性贫血、再生障碍性危象和脾隔离的保护。镰状细胞性状的患者通常**无症状**，血红蛋白水平、网织红细胞计数和红细胞 (RBC) 指数正常。然而，他们可能会出现血尿、阴茎异常勃起和尿路感染发生率增加。据报道，在高海拔地区也发生了脾梗死。\n\n镰状细胞性状的患者对**恶性疟原虫（疟疾）具有相对的保护作用**，导致重症疟疾和住院率低于普通人群。可能的机制包括寄生镰状细胞性状红细胞的镰变增加，以及脾单核细胞-巨噬细胞系统加速清除这些细胞。然而，这些患者并不能免于疟疾，并且那些前往疟疾流行地区的人仍应接受预防。\n\n**(选项 A)** 镰状细胞性状患者的预期寿命与普通人群没有区别。纯合子镰状细胞突变的患者由于疾病的严重并发症（例如，急性胸部综合征、由包膜生物体引起的感染）而导致预期寿命降低。\n\n**(选项 B 和 C)** 镰状细胞性状患者通常具有正常的红细胞指标和网织红细胞计数。患有镰状细胞性贫血的个体（例如，没有正常的 Hb A）将具有升高的网织红细胞计数，但将保持正常的平均红细胞体积。\n\n**(选项 E)** 该患者不太可能出现疼痛危象，因为她受到 Hb A（正常血红蛋白）优于 Hb S 的保护。在镰状细胞性贫血患者中发生的血管闭塞性疼痛危象被认为发生在 Hb S 聚合并导致红细胞呈现镰刀形状时，通常是对触发因素（例如，寒冷天气、脱水）的反应。\n\n教育目标：\n镰状细胞性状的患者通常无症状，并且对由恶性疟原虫引起的疟疾具有相对的保护作用。这些患者通常具有正常的血红蛋白、网织红细胞和红细胞指数值。预期寿命与普通人群相同。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of sickle cell trait, its clinical features, and its impact on life expectancy, malaria protection, and hematologic parameters. It also assesses understanding of hemoglobin electrophoresis results in newborns with sickle cell trait.\n\nTo solve this question, recognize the hemoglobin electrophoresis pattern consistent with sickle cell trait. Recall that individuals with sickle cell trait are typically asymptomatic, have normal hematologic values, and have a normal life expectancy. Remember that they have relative protection against malaria.",
+    "zh": "这个问题考察了对镰状细胞性状的了解、其临床特征以及其对预期寿命、疟疾保护和血液学参数的影响。它还评估了对患有镰状细胞性状的新生儿血红蛋白电泳结果的理解。\n\n要解决这个问题，请识别与镰状细胞性状一致的血红蛋白电泳模式。回想一下，患有镰状细胞性状的个体通常无症状，具有正常的血液学值，并且具有正常的预期寿命。记住他们对疟疾具有相对的保护作用。"
+  },
+  "tags": "Sickle cell trait; Hemoglobin electrophoresis; Plasmodium falciparum; Malaria; Newborn screening; Hematology",
+  "category": "Blood",
+  "question_id": "895",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\895",
+  "extracted_at": "2025-11-05T11:34:58.664141",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:32:52.104140",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

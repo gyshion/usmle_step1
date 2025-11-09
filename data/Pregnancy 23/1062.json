@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 3-week-old girl is brought to the emergency department due to lethargy. The patient was breastfeeding well until this morning when she became increasingly difficult to rouse. She was born at term to a 35-year-old woman who had a spontaneous vaginal delivery at home. The patient did not receive any vaccinations or medications after birth due to parental preference. Head circumference is at the 99th percentile. Weight and length are at the 25th percentile. Temperature is 37 C (98.6 F). Physical examination shows a large, bulging anterior fontanelle. The eyes are driven downward, and the patient does not appear able to look upward. No scalp swelling is present. Intracranial hemorrhage is confirmed on CT scan of the head. {{exhibit_1}} Which of the following is the most likely underlying cause of this patient's condition?",
+    "zh": "一名 3 周大的女婴因嗜睡被送往急诊科。患儿母乳喂养良好，但从今天早上开始越来越难以唤醒。患儿足月出生，母亲为一名 35 岁的女性，在家中自然阴道分娩。由于父母的意愿，患儿出生后未接种任何疫苗或用药。头围处于第 99 百分位数。体重和身长处于第 25 百分位数。体温为 37°C（98.6°F）。体格检查显示前囟大而饱满。眼睛向下看，患儿似乎无法向上看。没有头皮肿胀。头部 CT 扫描证实颅内出血。{{exhibit_1}} 以下哪项最可能是该患者病情的潜在原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying cause of this patient's condition?",
+    "zh": "以下哪项最可能是该患者病情的潜在原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Germinal matrix fragility",
+      "zh": "生发基质脆弱"
+    },
+    "B": {
+      "en": "Inherited hemophilia",
+      "zh": "遗传性血友病"
+    },
+    "C": {
+      "en": "Perinatally acquired infection",
+      "zh": "围产期感染"
+    },
+    "D": {
+      "en": "Trauma during birth",
+      "zh": "分娩期间的创伤"
+    },
+    "E": {
+      "en": "Vitamin deficiency",
+      "zh": "维生素缺乏症"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This neonate who did not receive any medications after birth has an intracranial hemorrhage (ICH), most likely due to VITAMIN K DEFICIENCY.\n\nVitamin K is an essential cofactor for gamma-glutamyl carboxylase, the enzyme responsible for carboxylation of clotting factors II (prothrombin), VII, IX, and X. Healthy children and adults typically have adequate vitamin K stores from dietary sources (eg, green, leafy vegetables) and from endogenous colonic bacteria that generate the vitamin. In contrast, newborns have low vitamin K stores due to POOR TRANSPLACENTAL TRANSFER and LOW CONTENT IN BREAST MILK. Delayed vitamin K production by the gradual colonization of bacterial gut flora as well as inefficient use by an immature liver also contribute to low levels in early infancy.\n\nNeonates typically receive prophylactic intramuscular vitamin K shortly after birth to prevent vitamin K deficiency. Those who do not receive prophylaxis, like this patient, are at risk for BLEEDING COMPLICATIONS (eg, umbilical/gastrointestinal bleeding) caused by IMPAIRED CLOTTING FACTOR ACTIVITY. ICH is a potentially fatal complication and presents with signs of increased intracranial pressure (eg, lethargy, enlarging head circumference, bulging fontanel, downward-driven eyes). Vitamin K-deficient bleeding usually occurs in the first week of life but can present through age 6 months.\n\n(Choice A) The germinal matrix is a highly vascularized periventricular area with poor structural integrity in utero. Its fragility is often responsible for intraventricular hemorrhage in preterm infants, but the region involves around 28 weeks gestation, making it an unlikely cause of bleeding in a term infant.\n\n(Choice B) Hemophilia (factor VIII or IX deficiency) can present with neonatal ICH but is an X-linked recessive disorder primarily affecting males. Females who are heterozygous can have mild symptoms due to skewed lyonization, but life-threatening bleeds do not occur.\n\n(Choice C) Lethargy and a bulging fontanelle in a neonate raises concern for bacterial meningitis (eg, group B Streptococcus), but ICH would not be expected and temperature instability (eg, fever, hypothermia) is often seen. Other infections, such as congenital toxoplasmosis and cytomegalovirus, can cause intracranial calcifications, not ICH.\n\n(Choice D) ICH from birth injury is most common in operative deliveries (eg, vacuum/forceps assistance), not seen here. Neonates would be symptomatic shortly after birth rather than at age 3 weeks.\n\nEducational objective:\nNeonates are at risk for vitamin K deficiency primarily due to poor transplacental transfer and low content in breast milk. Because vitamin K is necessary for clotting factor activity, neonates who do not receive vitamin K prophylaxis at birth are predisposed to bleeding complications such as intracranial hemorrhage. {{exhibit_2}}",
+    "zh": "这名新生儿出生后未接受任何药物治疗，出现颅内出血 (ICH)，最可能的原因是维生素 K 缺乏症。\n\n维生素 K 是 γ-谷氨酰羧化酶（负责凝血因子 II（凝血酶原）、VII、IX 和 X 的羧化）的必需辅助因子。健康的儿童和成人通常从膳食来源（例如，绿叶蔬菜）和产生维生素的内源性结肠细菌中获得充足的维生素 K 储存。相比之下，新生儿由于经胎盘转运不良和母乳中含量低，其维生素 K 储存量较低。细菌肠道菌群的逐渐定植导致的维生素 K 产生延迟以及未成熟肝脏的利用效率低下，也导致了婴儿早期维生素 K 水平较低。\n\n新生儿通常在出生后不久接受预防性肌内注射维生素 K，以防止维生素 K 缺乏症。像本例患者一样，未接受预防性治疗的婴儿，由于凝血因子活性受损，存在出血并发症（例如，脐带/胃肠道出血）的风险。ICH 是一种潜在的致命并发症，表现为颅内压增高的征象（例如，嗜睡、头围增大、前囟饱满、眼睛向下看）。维生素 K 缺乏引起的出血通常发生在出生后第一周，但也可能持续到 6 个月大。\n\n（选项 A）生发基质是子宫内血管丰富的脑室周围区域，结构完整性较差。其脆弱性通常是导致早产儿脑室内出血的原因，但该区域涉及妊娠约 28 周，这使得它不太可能成为足月儿出血的原因。\n\n（选项 B）血友病（因子 VIII 或 IX 缺乏）可表现为新生儿 ICH，但它是一种主要影响男性的 X 连锁隐性遗传疾病。杂合的女性由于 Lyon 化偏倚可能出现轻微症状，但不会发生危及生命的出血。\n\n（选项 C）新生儿嗜睡和前囟饱满引起对细菌性脑膜炎（例如，B 组链球菌）的担忧，但不会出现 ICH，并且通常可见体温不稳定（例如，发烧、体温过低）。其他感染，如先天性弓形体病和巨细胞病毒，可导致颅内钙化，而不是 ICH。\n\n（选项 D）分娩损伤引起的 ICH 最常见于手术分娩（例如，真空/产钳辅助），这里未见。新生儿会在出生后不久出现症状，而不是 3 周大时。\n\n教育目标：\n新生儿主要由于经胎盘转运不良和母乳中含量低而面临维生素 K 缺乏症的风险。由于维生素 K 对凝血因子活性是必需的，因此出生时未接受维生素 K 预防的新生儿容易发生出血并发症，如颅内出血。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathophysiology, clinical presentation, and risk factors for intracranial hemorrhage in neonates, specifically focusing on vitamin K deficiency as a cause. It requires differentiating this condition from other potential causes of intracranial bleeding in infants.\n\nTo solve this question, one should first identify the key clinical features: a neonate with lethargy, bulging fontanelle, downward-gaze, and confirmed intracranial hemorrhage. Then, consider the patient's history, particularly the lack of vitamin K prophylaxis. This history, combined with the clinical presentation, strongly suggests vitamin K deficiency. Finally, evaluate the differential diagnoses provided in the options, ruling out other causes of neonatal ICH based on their typical presentation and risk factors.",
+    "zh": "这个问题测试对新生儿颅内出血的病理生理学、临床表现和危险因素的理解，特别是侧重于维生素 K 缺乏症作为病因。它需要将这种情况与其他可能导致婴儿颅内出血的原因区分开来。\n\n要解决这个问题，首先应该确定关键的临床特征：一名患有嗜睡、前囟饱满、向下凝视和确诊颅内出血的新生儿。然后，考虑患者的病史，特别是缺乏维生素 K 预防。这种病史结合临床表现强烈提示维生素 K 缺乏症。最后，评估选项中提供的鉴别诊断，根据其典型表现和危险因素排除新生儿 ICH 的其他原因。"
+  },
+  "tags": "Intracranial hemorrhage; Neonatal bleeding; Vitamin K deficiency; Coagulation disorders; Pediatrics; Newborn care; Pathophysiology; Differential diagnosis",
+  "category": "Pregnancy",
+  "question_id": "1062",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pregnancy 23\\1062",
+  "extracted_at": "2025-11-05T19:45:48.725712",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:48:10.065811",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

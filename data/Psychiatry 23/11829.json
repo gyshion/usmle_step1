@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old woman comes to the emergency department requesting medication for severe back pain. She has tried multiple over-the-counter agents and says that nothing has relieved her pain except oxycodone. The patient was seen in a pain clinic a year ago but cannot recall the name of the physician and says that her prescription has run out. Medical history includes a motor vehicle collision 10 years earlier and obesity. Temperature is 37.1 C (98.8 F), blood pressure is 130/80 mm Hg, pulse is 76/min, and respirations are 16/min. Physical examination shows no abnormalities. A recent MRI was normal. The patient says that her pain level is 10 on a scale of 0-10 and becomes frustrated when the physician suggests nonprescription pain medication.",
+    "zh": "一名32岁的女性来到急诊科，要求开治疗严重背痛的药物。她尝试了多种非处方药，并表示除了羟考酮外，没有任何药物能缓解她的疼痛。患者一年前曾在一间疼痛诊所就诊，但记不起医生的名字，并说她的处方已经用完。病史包括10年前的一起机动车碰撞事故和肥胖。体温37.1°C（98.8°F），血压130/80 mmHg，脉搏76次/分钟，呼吸16次/分钟。体格检查未见异常。最近的MRI是正常的。患者表示她的疼痛程度在0-10分的量表上是10分，当医生建议非处方止痛药时，她会感到沮丧。"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate next step by the physician?",
+    "zh": "医生最合适的下一步是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Challenge the patient about her drug-seeking behavior",
+      "zh": "质疑患者的寻药行为"
+    },
+    "B": {
+      "en": "Obtain confirmation of the patient's prescription history",
+      "zh": "确认患者的处方史"
+    },
+    "C": {
+      "en": "Order a repeat MRI of the spine",
+      "zh": "再次进行脊柱MRI检查"
+    },
+    "D": {
+      "en": "Prescribe a 1-week supply of oxycodone",
+      "zh": "开具1周剂量的羟考酮"
+    },
+    "E": {
+      "en": "Refer patient to a substance abuse rehabilitation program",
+      "zh": "将患者转诊至药物滥用康复计划"
+    },
+    "F": {
+      "en": "Refuse to prescribe opioid medication and recommend nonpharmacologic pain management",
+      "zh": "拒绝开具阿片类药物，并建议非药物性疼痛管理"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Back pain accompanied by a request for opioid medication is a relatively common occurrence in the emergency department that requires differentiating inadequate pain management from DRUG-SEEKING BEHAVIOR. This patient exhibits many features concerning for drug-seeking behavior, including REQUESTING A SPECIFIC MEDICATION by name, RUNNING OUT of medication, and claiming PAIN OUT OF PROPORTION to the physical examination. Reporting lost or stolen medication and obtaining multiple opioid prescriptions from different providers are other red flags indicating MISUSE OR DIVERSION.\n\nThe best initial approach is to clarify the patient's medication history to determine which drugs have been prescribed, by whom, and at what frequency. State-based, online, PRESCRIPTION DRUG-MONITORING PROGRAMS are increasingly used in emergency departments to check for undisclosed prescriptions, clarify prescription patterns, and identify patients who obtain prescriptions from multiple providers. By identifying potential opioid misuse, physicians can make more informed decisions regarding pain prescriptions.\n\n(Choice A) It would be inappropriate to challenge the patient prior to clarifying her pattern of medication use.\n(Choice C) Repeating an MRI of the spine would not be the next step in a patient with a normal physical examination and recent normal MRI.\n(Choices D and F) These are options that can be considered once the patient's history is clarified. If the patient has received opioid prescriptions for a documented diagnosis at appropriately spaced intervals, a limited prescription would be reasonable. If there is evidence of misuse, refusing to prescribe opioid medication would be more appropriate.\n(Choice E) This patient does not perceive her opioid use as problematic and would likely be unreceptive to discussing referral to a substance abuse rehabilitation program.\n\nEducational objective:\nPhysicians have a responsibility to identify signs of potential drug-seeking behavior and prescription drug misuse. This involves being alert to red flags (eg, lost or stolen medication, pain inconsistent with physical examination) and attempting to clarify medication history by using prescription drug-monitoring programs or other information sources.",
+    "zh": "背痛伴随对阿片类药物的需求，在急诊科是一种相对常见的现象，需要区分疼痛管理不当与寻药行为。该患者表现出许多令人担忧的寻药行为特征，包括点名要求特定药物、药物用完，以及声称疼痛与体格检查结果不符。报告药物丢失或被盗，以及从不同医生处获得多份阿片类药物处方是其他表明滥用或转移的危险信号。\n\n最佳的初步方法是明确患者的用药史，以确定哪些药物已被处方、由谁开具以及给药频率。基于州的、在线的处方药监测计划正在急诊科中越来越多地用于检查未披露的处方、明确处方模式，并识别从多个医疗机构获得处方的患者。通过识别潜在的阿片类药物滥用，医生可以就疼痛处方做出更明智的决定。\n\n（选项A）在明确患者的用药模式之前质疑患者是不合适的。\n（选项C）对于体格检查正常且最近MRI正常的患者，重复进行脊柱MRI检查不是下一步。\n（选项D和F）这些是在明确患者病史后可以考虑的选项。如果患者因明确诊断而按适当的时间间隔接受过阿片类药物处方，有限的处方是合理的。如果有滥用的证据，拒绝开具阿片类药物会更合适。\n（选项E）该患者并未认为她的阿片类药物使用存在问题，并且可能不愿意讨论转诊至药物滥用康复计划。\n\n教育目标：\n医生有责任识别潜在的寻药行为和处方药滥用的迹象。这包括警惕危险信号（例如，药物丢失或被盗，疼痛与体格检查结果不符），并尝试通过使用处方药监测计划或其他信息来源来明确用药史。"
+  },
+  "summary": {
+    "en": "This question tests the ability to identify potential drug-seeking behavior in a patient presenting with severe back pain and requesting a specific opioid medication. It assesses the physician's approach to managing such cases, emphasizing the importance of verifying prescription history before making treatment decisions.\n\nThe key to solving this question is to recognize the red flags for drug-seeking behavior and to prioritize obtaining objective information about the patient's medication history. Utilizing prescription drug-monitoring programs is the most appropriate initial step to gather this crucial data and guide further management.",
+    "zh": "这个问题测试了识别潜在寻药行为的能力，患者表现为严重的背痛并要求特定的阿片类药物。它评估了医生管理此类病例的方法，强调在做出治疗决定之前核实处方史的重要性。\n\n解决这个问题的关键是识别寻药行为的危险信号，并优先获得关于患者用药史的客观信息。使用处方药监测计划是收集此关键数据并指导进一步管理的最合适的初步步骤。"
+  },
+  "tags": "Drug-seeking behavior; Opioid misuse; Prescription drug monitoring; Back pain; Emergency medicine; Pain management; Medical history",
+  "category": "Psychiatry",
+  "question_id": "11829",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\11829",
+  "extracted_at": "2025-11-05T19:48:28.503063",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:51:40.273869",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

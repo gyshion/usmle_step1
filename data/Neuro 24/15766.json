@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old man comes to the emergency department due to right upper extremity weakness. Thirty minutes ago, the patient was at his office when he developed difficulty holding a pen. His grip in the right hand was weak and he could not lift his right arm. He tried calling his coworker but could not speak. The patient has never had similar symptoms before. He had no loss of consciousness, weakness of other extremities, vision abnormality, or headache. The symptoms resolved spontaneously by the time paramedics arrived. Medical history is significant for hypertension and a 30-pack-year smoking history. The patient is a defense attorney and recently took on a high-profile case. Temperature is 36.9 C (98.4 F), blood pressure is 140/84 mm Hg, pulse is 82/min and regular, and respirations are 14/min. Physical examination shows no extremity weakness or sensory loss. There is a left carotid bruit; the remainder of the examination shows no abnormalities. Noncontrast CT scan of the head is normal. Which of the following pharmacotherapies is most appropriate in management of this patient?",
+    "zh": "一名62岁男性因右侧上肢无力来急诊科就诊。30分钟前，患者正在办公室，当时出现握笔困难。他右手的握力很弱，无法抬起右臂。他试图打电话给同事，但无法说话。患者从未有过类似的症状。他没有意识丧失、其他肢体无力、视力异常或头痛。在医护人员到达时，症状已自发缓解。病史显示高血压和30包年吸烟史。患者是一名辩护律师，最近接手了一个备受瞩目的案件。体温为36.9摄氏度（98.4华氏度），血压为140/84毫米汞柱，脉搏为82次/分钟且规律，呼吸频率为14次/分钟。体格检查显示无肢体无力或感觉丧失。存在左侧颈动脉杂音；其余检查未见异常。头部CT平扫结果正常。以下哪种药物治疗方案最适合用于该患者的治疗？"
+  },
+  "question": {
+    "en": "Which of the following pharmacotherapies is most appropriate in management of this patient?",
+    "zh": "以下哪种药物治疗方案最适合用于该患者的治疗？"
+  },
+  "options": {
+    "A": {
+      "en": "CNS-targeted immunomodulator",
+      "zh": "中枢神经系统靶向免疫调节剂"
+    },
+    "B": {
+      "en": "GABA A receptor modulator",
+      "zh": "GABA A受体调节剂"
+    },
+    "C": {
+      "en": "HMG-CoA reductase inhibitor",
+      "zh": "HMG-CoA还原酶抑制剂"
+    },
+    "D": {
+      "en": "Selective serotonin reuptake inhibitor",
+      "zh": "选择性5-羟色胺再摄取抑制剂"
+    },
+    "E": {
+      "en": "Tissue plasminogen activator",
+      "zh": "组织型纤溶酶原激活剂"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with cardiovascular risk factors (ie, hypertension, smoking) and a carotid bruit developed right upper extremity weakness and aphasia that resolved without intervention; this is characteristic of a TRANSIENT ISCHEMIC ATTACK (TIA), which, in this case, likely occurred following atheroembolization or low flow from the patient's carotid artery lesion. TIAs are defined as FOCAL NEUROLOGIC DEFICITS that occur due to TRANSIENT BRAIN ISCHEMIA; tissue infarction does not occur, and brain imaging is normal. Symptoms are typically localized to a singular vascular territory and resolve without intervention, typically in <24 hours.\n\nPatients with TIAs are at markedly increased risk of future stroke; therefore, intensive medical management is indicated. Secondary prevention includes ANTIPLATELET AGENTS (eg, aspirin, clopidogrel) to prevent thrombus formation and STATIN THERAPY (HMG-CoA reductase inhibitor; eg, atorvastatin, rosuvastatin) to reduce atherosclerotic plaque formation. Lifestyle modifications (eg, exercise, tobacco cessation) are also recommended.\n\n(Choice A) CNS-targeted immunomodulators (eg, ocrelizumab) or glucocorticoids are used in the treatment of multiple sclerosis (MS), a demyelinating disease that causes relapsing and remitting neurologic deficits. However, MS typically occurs in young women and neurologic deficits are slowly progressive over the course of days.\n\n(Choice B) Benzodiazepines (GABA A receptor modulators) are used for acute seizure termination. Seizures can cause postictal paralysis but are typically preceded by stereotyped positive symptoms (eg, repetitive limb movement, lip smacking), whereas TIAs often typically cause negative symptoms (eg, loss of limb function, aphasia). In addition, seizure patients often have postictal confusion or sedation.\n\n(Choice D) Selective serotonin reuptake inhibitors are used for treating anxiety or depression.\n\n(Choice E) Tissue plasminogen activator ([TPA]; eg, alteplase) is used for thrombolysis in patients with acute, potentially debilitating, ischemic stroke, which would present with persistent neurologic deficits. TPA is not indicated as this patient's symptoms resolved without intervention.\n\nEducational objective:\nTransient ischemic attacks (TIAs) are transient episodes of focal neurologic impairment that occur due to local brain ischemia; tissue infarction does not occur, and brain imaging is normal. Patients with TIA are at increased risk of future stroke; secondary prevention includes antiplatelet agents (eg, aspirin, clopidogrel), statins, and lifestyle modifications (eg, tobacco cessation, exercise) to reduce future risk.",
+    "zh": "该患者具有心血管危险因素（如高血压、吸烟）和颈动脉杂音，出现右侧上肢无力和失语，且未经干预即缓解；这符合短暂性脑缺血发作（TIA）的特征，在这种情况下，TIA很可能发生在患者颈动脉病变引起的动脉粥样硬化血栓栓塞或低灌注之后。TIA定义为由于短暂性脑缺血而发生的局灶性神经功能缺损；未发生组织梗死，脑部影像学检查正常。症状通常局限于单个血管分布区，无需干预即可缓解，通常在24小时内。\n\nTIA患者发生未来卒中的风险显著增加；因此，需要强化内科治疗。二级预防包括使用抗血小板药物（如阿司匹林、氯吡格雷）预防血栓形成，以及使用他汀类药物（HMG-CoA还原酶抑制剂；如阿托伐他汀、瑞舒伐他汀）减少动脉粥样硬化斑块形成。还建议进行生活方式改变（如锻炼、戒烟）。\n\n（选项A）中枢神经系统靶向免疫调节剂（如奥瑞珠单抗）或糖皮质激素用于治疗多发性硬化症（MS），这是一种导致复发和缓解神经功能缺损的脱髓鞘疾病。然而，MS通常发生在年轻女性中，神经功能缺损在数天内缓慢进展。\n\n（选项B）苯二氮卓类药物（GABA A受体调节剂）用于急性癫痫发作的终止。癫痫发作可引起发作后瘫痪，但通常先于刻板的阳性症状（如重复肢体运动、咂嘴），而TIA通常引起阴性症状（如肢体功能丧失、失语）。此外，癫痫发作患者通常有发作后意识模糊或镇静。\n\n（选项D）选择性5-羟色胺再摄取抑制剂用于治疗焦虑或抑郁症。\n\n（选项E）组织型纤溶酶原激活剂（[TPA]；如阿替普酶）用于治疗急性、可能使人衰弱的缺血性卒中患者，其表现为持续性神经功能缺损。由于该患者的症状未经干预就已缓解，因此不适用TPA。\n\n教育目标：\n短暂性脑缺血发作（TIA）是由于局部脑缺血引起的局灶性神经功能障碍的短暂发作；未发生组织梗死，脑部影像学检查正常。TIA患者发生未来卒中的风险增加；二级预防包括抗血小板药物（如阿司匹林、氯吡格雷）、他汀类药物和生活方式改变（如戒烟、锻炼）以降低未来风险。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the management of transient ischemic attacks (TIAs), focusing on secondary prevention strategies to reduce the risk of future stroke. It requires differentiating TIA from other neurological events and identifying appropriate pharmacotherapy based on the patient's presentation and risk factors.\n\nThe approach to solving this question involves recognizing the clinical features of a TIA, considering the patient's risk factors for cerebrovascular disease, and applying knowledge of secondary prevention guidelines. The explanation of why each option is correct or incorrect is crucial for arriving at the definitive management strategy.",
+    "zh": "此问题考察对短暂性脑缺血发作（TIA）的管理理解，侧重于二级预防策略以降低未来卒中的风险。它需要将TIA与其他神经系统事件区分开来，并根据患者的表现和危险因素确定合适的药物治疗方案。\n\n解决此问题的方法包括识别TIA的临床特征，考虑患者脑血管疾病的危险因素，并应用二级预防指南的知识。解释每个选项正确或错误的原因对于确定最终的治疗策略至关重要。"
+  },
+  "tags": "Transient ischemic attack; TIA; Stroke prevention; Carotid bruit; Hypertension; Smoking; Atherosclerosis; Statin therapy; HMG-CoA reductase inhibitor; Antiplatelet agents; Neurology; Pharmacology",
+  "category": "Neuro",
+  "question_id": "15766",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\15766",
+  "extracted_at": "2025-11-05T19:35:37.554857",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:35:21.978600",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

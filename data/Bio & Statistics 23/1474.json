@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old previously healthy man comes to the office after noticing a painless, hard mass in the left testis. Scrotal ultrasound shows a solid testicular mass, and CT scan of the abdomen and pelvis shows left paraaortic lymphadenopathy. Left orchiectomy is performed and postoperative histopathology reveals seminoma of the testis. External beam radiotherapy is administered to the paraaortic metastatic area. Several weeks later, the retroperitoneal nodes are observed to have markedly decreased in size.",
+    "zh": "一名先前健康的23岁男性来到诊所，注意到左侧睾丸出现无痛性硬块。阴囊超声显示实性睾丸肿块，腹部和骨盆的CT扫描显示左侧主动脉旁淋巴结病。进行了左侧睾丸切除术，术后组织病理学显示睾丸精原细胞瘤。对主动脉旁转移区域进行了外照射放射治疗。几周后，观察到腹膜后淋巴结明显缩小。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely effect of the therapy used on the metastatic cells in this patient?",
+    "zh": "以下哪项是该患者所用治疗方法对转移细胞最可能产生的影响？"
+  },
+  "options": {
+    "A": {
+      "en": "Demethylation of DNA",
+      "zh": "DNA去甲基化"
+    },
+    "B": {
+      "en": "DNA cross-linking",
+      "zh": "DNA交联"
+    },
+    "C": {
+      "en": "Double-strand DNA breaks",
+      "zh": "DNA双链断裂"
+    },
+    "D": {
+      "en": "Nucleotide mismatches",
+      "zh": "核苷酸错配"
+    },
+    "E": {
+      "en": "Pyrimidine dimers",
+      "zh": "嘧啶二聚体"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Therapeutic IONIZING RADIATION (e.g. gamma rays, x-rays), commonly used to treat or palliate several types of cancer, can cause cell death through 2 major mechanisms: DNA DOUBLE-STRAND BREAKAGE and FREE RADICAL FORMATION.",
+    "zh": "治疗性电离辐射（例如伽马射线、X射线），常用于治疗或缓解多种类型的癌症，可以通过两种主要机制导致细胞死亡：DNA双链断裂和自由基形成。"
+  },
+  "summary": {
+    "en": "1) Mechanism of action of radiotherapy 2) Radiotherapy induces DNA damage through DNA double-strand fractures and the formation of oxygen free radicals.",
+    "zh": "1) 放射治疗的作用机制 2) 放射治疗通过DNA双链断裂和氧自由基的形成诱导DNA损伤。"
+  },
+  "tags": "Radiotherapy; DNA damage; Double-strand breaks; Free radicals",
+  "category": "Bio",
+  "question_id": "1474",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1474",
+  "extracted_at": "2025-11-05T10:59:02.824132",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:21:27.827676",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 9-year-old girl is brought to the emergency department by her parents due to severe headache, lethargy, and vomiting. Her symptoms began a few weeks ago as mild intermittent headaches with fatigue and have progressively worsened. CT scan of the head reveals a mass lesion, enlarged lateral and third ventricles, and a normal-sized fourth ventricle {{exhibit_1}}. Which of the following is the most likely site of obstruction in this patient?",
+    "zh": "一名9岁女孩因严重头痛、嗜睡和呕吐被父母带到急诊科。 她的症状几周前开始表现为轻微的间歇性头痛伴疲劳，并逐渐恶化。 头部CT扫描显示占位病变、侧脑室和第三脑室扩大，以及大小正常的第四脑室 {{exhibit_1}}。 这位患者最有可能的梗阻部位是以下哪一项？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely site of obstruction in this patient?",
+    "zh": "这位患者最有可能的梗阻部位是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Arachnoid villi",
+      "zh": "蛛网膜绒毛"
+    },
+    "B": {
+      "en": "Cerebral aqueduct",
+      "zh": "大脑导水管"
+    },
+    "C": {
+      "en": "Interventricular foramina of Monro",
+      "zh": "Monro 氏孔"
+    },
+    "D": {
+      "en": "Lateral foramina of Luschka",
+      "zh": "Luschka 侧孔"
+    },
+    "E": {
+      "en": "Medial foramen of Magendie",
+      "zh": "Magendie 正中孔"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This child with a brain tumor has obstructive hydrocephalus limited to the lateral and third cerebral ventricles, indicative of obstruction at the level of the cerebral aqueduct; increased intraventricular pressures cause dilation proximal to the site of blockage (ie, lateral and third ventricles). The fourth ventricle remains normal-sized as it is distal to the obstruction.\n\nMost of the cerebrospinal fluid (CSF) is produced by the choroid plexus, a highly vascular tissue within the cerebral ventricles that is formed by fenestrated capillary outgrowths covered by modified ependymal cells. CSF circulates throughout the ventricular system before passing to the subarachnoid space to be reabsorbed:\n\n*   CSF formed in the lateral ventricles exits through the corresponding interventricular foramina of Monro into the third ventricle\n*   From the third ventricle, it flows through the cerebral aqueduct of Sylvius to reach the fourth ventricle\n*   CSF exits the fourth ventricle through either one of the paired lateral foramina of Luschka or the medial foramen of Magendie to reach the subarachnoid space\n*   CSF is then reabsorbed by the arachnoid villi into the venous circulation\n\n(Choice A) Impaired CSF absorption by the arachnoid villi results in communicating hydrocephalus. This condition presents with global ventricular dilation and is more often secondary to intracranial hemorrhage or infection (eg, bacterial meningitis).\n\n(Choice C) Obstruction at the interventricular foramina of Monro would cause enlargement of only the affected lateral ventricle, sparing the contralateral lateral ventricle and the third and fourth ventricles.\n\n(Choices D and E) Obstruction of fourth ventricular outflow (ie, blockage of the lateral foramina of Luschka and the medial foramen of Magendie) would cause enlargement of the lateral, third, and fourth ventricles because they are all proximal to these structures. {{exhibit_2}} {{exhibit_3}}\n\nEducational objective:\nCSF flow occurs as follows: lateral ventricles → interventricular foramina of Monro → third ventricle → cerebral aqueduct of Sylvius → fourth ventricle → lateral foramina of Luschka or midline foramen of Magendie → subarachnoid space.",
+    "zh": "这位患有脑肿瘤的儿童患有梗阻性脑积水，仅限于侧脑室和第三脑室，表明梗阻位于大脑导水管水平； 脑室内压力升高导致梗阻部位近端扩张（即侧脑室和第三脑室）。 第四脑室保持正常大小，因为它位于梗阻的远端。\n\n大多数脑脊液 (CSF) 由脉络丛产生，脉络丛是脑室内的血管丰富的组织，由被修饰的室管膜细胞覆盖的开窗毛细血管生长形成。 脑脊液在进入蛛网膜下腔被重新吸收之前，会在整个脑室系统中循环：\n\n*   在侧脑室中形成的脑脊液通过相应的 Monro 氏孔进入第三脑室\n*   从第三脑室，它流过 Sylvius 大脑导水管到达第四脑室\n*   脑脊液通过成对的 Luschka 侧孔或 Magendie 正中孔流出第四脑室，到达蛛网膜下腔\n*   然后，脑脊液被蛛网膜绒毛重新吸收进入静脉循环\n\n(选项 A) 蛛网膜绒毛吸收脑脊液受损会导致交通性脑积水。 这种情况表现为脑室整体扩张，并且通常继发于颅内出血或感染（例如细菌性脑膜炎）。\n\n(选项 C) 在 Monro 氏孔处发生梗阻只会导致受影响的侧脑室增大，而对侧侧脑室以及第三和第四脑室没有影响。\n\n(选项 D 和 E) 第四脑室流出道梗阻（即 Luschka 侧孔和 Magendie 正中孔阻塞）会导致侧脑室、第三脑室和第四脑室增大，因为它们都位于这些结构的近端。 {{exhibit_2}} {{exhibit_3}}\n\n教育目标：\n脑脊液的流动如下：侧脑室 → Monro 氏孔 → 第三脑室 → Sylvius 大脑导水管 → 第四脑室 → Luschka 侧孔或正中 Magendie 孔 → 蛛网膜下腔。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of cerebrospinal fluid (CSF) flow and the anatomical locations where obstruction can cause hydrocephalus, specifically obstructive hydrocephalus. It requires understanding how obstruction at different points in the ventricular system affects the size of the ventricles proximal and distal to the blockage.\n\nTo solve this question, trace the CSF flow pathway and consider the effect of obstruction at each location. The key is to recognize that the enlarged lateral and third ventricles, with a normal fourth ventricle, indicate obstruction at the cerebral aqueduct.",
+    "zh": "这个问题测试对脑脊液 (CSF) 流动以及梗阻可能导致脑积水的解剖位置的知识，特别是梗阻性脑积水。 它需要了解脑室系统中不同点的梗阻如何影响阻塞近端和远端的脑室大小。\n\n要解决这个问题，请追踪脑脊液的流动途径并考虑在每个位置发生梗阻的影响。 关键是要认识到，扩大的侧脑室和第三脑室，以及正常的第四脑室，表明在大脑导水管处发生梗阻。"
+  },
+  "tags": "Hydrocephalus; Cerebrospinal fluid; Ventricular system; Cerebral aqueduct; Brain tumor; Neurology; Neuroradiology",
+  "category": "Neuro",
+  "question_id": "1635",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1635",
+  "extracted_at": "2025-11-05T15:20:57.385455",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:21:12.515063",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

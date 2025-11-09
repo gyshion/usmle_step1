@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 6-hour-old boy is evaluated in the newborn nursery due to temperature instability, grunting, and lethargy. The patient was born at full term to a 21-year-old woman who came to the emergency department in active labor with ruptured membranes; she had not received adequate prenatal care. On physical examination, the boy is hypothermic, tachycardic, and tachypneic, and he has mottled skin. Blood samples are obtained, and empiric antibiotics are initiated for the treatment of sepsis. Cultures on blood agar grow bacterial colonies with a narrow zone of clear hemolysis. When these bacteria are grown in the presence of *Staphylococcus aureus*, the zone of hemolysis is enhanced around the staphylococcal colonies.",
+    "zh": "一名6小时大的男婴因体温不稳定、呻吟和嗜睡而在新生儿病房接受评估。该患者足月出生，其21岁的母亲因破膜、处于活跃的产程而来到急诊科；她没有接受足够的产前护理。体格检查显示，该男婴体温过低、心动过速、呼吸急促，并且皮肤有花纹。获得了血样，并开始经验性抗生素治疗败血症。在血琼脂上培养的细菌菌落具有狭窄的透明溶血带。当这些细菌在金黄色葡萄球菌存在下生长时，溶血带在葡萄球菌菌落周围增强。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely pathogen infecting this patient?",
+    "zh": "以下哪种病原体最有可能感染该患者？"
+  },
+  "options": {
+    "A": {
+      "en": "*Escherichia coli*",
+      "zh": "大肠杆菌"
+    },
+    "B": {
+      "en": "*Enterococcus faecalis*",
+      "zh": "粪肠球菌"
+    },
+    "C": {
+      "en": "*Staphylococcus epidermidis*",
+      "zh": "表皮葡萄球菌"
+    },
+    "D": {
+      "en": "*Streptococcus agalactiae*",
+      "zh": "无乳链球菌"
+    },
+    "E": {
+      "en": "*Streptococcus pneumoniae*",
+      "zh": "肺炎链球菌"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "*Streptococcus agalactiae* (group B *Streptococcus* [GBS]) is often a normal commensal of the genitourinary and gastrointestinal tracts of pregnant women. Those who are colonized and do not receive intrapartum antibiotic prophylaxis can transmit the bacteria to the fetus during passage through the vaginal canal, leading to neonatal sepsis (eg, irritability, lethargy, grunting, tachypnea, temperature instability, hypotension) within hours of birth. GBS is a leading cause of **early neonatal sepsis** and can be identified by the following laboratory features:\n\n*   **Narrow zone of beta-hemolysis** (clear) when plated on blood agar.\n*   Production of CAMP factor, a phospholipase that enhances the activity of beta-hemolysins secreted by certain strains of *Staphylococcus aureus*. Testing for CAMP factor (**CAMP test**) can confirm the presence of GBS; this test plates suspected GBS colonies perpendicular to an appropriate *S aureus* strain and evaluates for enhanced areas of hemolysis (arrow-shaped zones in the image above).\n\nGBS is also catalase-negative (as are all streptococci), contains the Lancefield group B antigen in its cell wall, and hydrolyzes hippurate.\n\n(Choice A) *Escherichia coli*, a gram-negative rod, is a common cause of early neonatal sepsis. Although *E coli* generates beta-hemolysins, it does not produce CAMP factor; therefore, enhancement of *S aureus* hemolysis does not occur.\n\n(Choice B) *Enterococcus faecalis*, a gram-positive cocci, is a common cause of sepsis in preterm neonates but is rare in those born at term. In addition, it does not hemolyze red blood cells (gamma hemolytic) or generate camp factor.\n\n(Choice C) *Staphylococcus epidermidis*, a gram-positive coccus that grows in clusters, is a common skin commensal that does not cause hemolysis when plated on blood agar.\n\n(Choice E) *Streptococcus pneumoniae*, a lancet-shaped, gram-positive bacterium, is alpha-hemolytic (partial, green hemolysis) in aerobic conditions and beta-hemolytic in anaerobic conditions. It does not generate CAMP factor.\n\nEducational objective:\n*Streptococcus agalactiae* (group B *Streptococcus*), one of the most common causes of early neonatal sepsis, is typically identified by the presence of a narrow zone of beta-hemolysis when plated on blood agar. It is also identified by the production of CAMP factor, which enhances beta hemolysis by particular strains of *Staphylococcus aureus*.",
+    "zh": "无乳链球菌（B群链球菌[GBS]）通常是孕妇泌尿生殖道和胃肠道的正常共生菌。那些被定植且未接受产时抗生素预防的孕妇可以在通过阴道时将细菌传播给胎儿，导致新生儿败血症（例如，烦躁、嗜睡、呻吟、呼吸急促、体温不稳定、低血压），通常在出生后数小时内发生。GBS 是**早期新生儿败血症**的主要原因，可以通过以下实验室特征识别：\n\n*   在血琼脂上培养时，**狭窄的β-溶血带**（透明）。\n*   产生 CAMP 因子，这是一种磷脂酶，可增强某些金黄色葡萄球菌菌株分泌的 β-溶血素的活性。CAMP 因子的检测（**CAMP 试验**）可以确认 GBS 的存在；该试验将可疑的 GBS 菌落垂直于合适的金黄色葡萄球菌菌株，并评估溶血增强的区域（如上图中的箭头形区域）。\n\nGBS 也是过氧化氢酶阴性（所有链球菌都是如此），其细胞壁中含有 Lancefield B 组抗原，并水解马尿酸。\n\n（选项 A）大肠杆菌，一种革兰氏阴性杆菌，是早期新生儿败血症的常见原因。尽管大肠杆菌产生 β-溶血素，但它不产生 CAMP 因子；因此，不会发生金黄色葡萄球菌溶血增强。\n\n（选项 B）粪肠球菌，一种革兰氏阳性球菌，是早产儿败血症的常见原因，但在足月出生的婴儿中很少见。此外，它不溶血红细胞（γ溶血）或产生 CAMP 因子。\n\n（选项 C）表皮葡萄球菌，一种呈簇状生长的革兰氏阳性球菌，是常见的皮肤共生菌，在血琼脂上培养时不会引起溶血。\n\n（选项 E）肺炎链球菌，一种呈柳叶刀状的革兰氏阳性细菌，在需氧条件下为 α-溶血（部分、绿色溶血），在厌氧条件下为 β-溶血。它不产生 CAMP 因子。\n\n教育目标：\n无乳链球菌（B群链球菌），是早期新生儿败血症最常见的原因之一，通常通过在血琼脂上培养时出现狭窄的β-溶血带来鉴定。它还通过产生 CAMP 因子来鉴定，CAMP 因子可增强特定金黄色葡萄球菌菌株的 β 溶血。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the common causes of early neonatal sepsis, specifically focusing on the laboratory identification of *Streptococcus agalactiae* (Group B Streptococcus) through hemolysis patterns and the CAMP test. It also assesses understanding of the risk factors associated with GBS infection in newborns. \n\nThe key to solving this question is recognizing the clinical presentation of neonatal sepsis in a full-term infant born to a mother with inadequate prenatal care and ruptured membranes. The description of the bacterial culture showing a narrow zone of hemolysis enhanced by *Staphylococcus aureus* strongly suggests GBS, which is confirmed by the CAMP test.",
+    "zh": "这道题测试对早期新生儿败血症常见病因的了解，重点关注通过溶血模式和 CAMP 试验对无乳链球菌（B 群链球菌）的实验室鉴定。它还评估了对新生儿 GBS 感染相关危险因素的理解。\n\n解决这道题的关键是认识到足月婴儿（其母亲产前护理不足且破膜）的新生儿败血症的临床表现。对细菌培养的描述显示狭窄的溶血带被金黄色葡萄球菌增强，这强烈提示 GBS，这可以通过 CAMP 试验确认。"
+  },
+  "tags": "Neonatal sepsis; Streptococcus agalactiae; Group B Streptococcus; CAMP test; Hemolysis; Infectious Diseases; Newborn; Microbiology",
+  "category": "Micro",
+  "question_id": "15578",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\15578",
+  "extracted_at": "2025-11-05T15:01:23.300517",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:09:31.664089",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

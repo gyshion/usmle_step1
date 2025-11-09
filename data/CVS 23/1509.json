@@ -1,0 +1,71 @@
+{
+  "question_stem": {
+    "en": "A 44-year-old man reports exertional shortness of breath and palpitations. On examination, he has a systolic murmur at the left sternal border and cardiac apex, which gets louder when he stands up. He is diagnosed with obstructive hypertrophic cardiomyopathy and paroxysmal atrial fibrillation, and is started on a medication. Changes in the action potential of ventricular muscle cells before and after administration of medication are shown in the image below {{exhibit_1}}",
+    "zh": "一名44岁男性报告劳力性呼吸困难和心悸。体格检查显示，其左侧胸骨旁和心尖处有收缩期杂音，站立时杂音增强。他被诊断为梗阻性肥厚型心肌病和阵发性房颤，并开始服用一种药物。下图{{exhibit_1}}显示了用药前后心室肌细胞动作电位的变化。"
+  },
+  "question": {
+    "en": "The patient is most likely being treated with which of the following medications?",
+    "zh": "该患者最有可能正在接受下列哪种药物的治疗？"
+  },
+  "options": {
+    "A": {
+      "en": "Adenosine",
+      "zh": "腺苷"
+    },
+    "B": {
+      "en": "Digoxin",
+      "zh": "地高辛"
+    },
+    "C": {
+      "en": "Diltiazem",
+      "zh": "地尔硫卓"
+    },
+    "D": {
+      "en": "Disopyramide",
+      "zh": "双异丙吡胺"
+    },
+    "E": {
+      "en": "Flecainide",
+      "zh": "氟卡尼"
+    },
+    "F": {
+      "en": "Lidocaine",
+      "zh": "利多卡因"
+    },
+    "G": {
+      "en": "Propranolol",
+      "zh": "普萘洛尔"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The illustration shows predominant slowing of phase 0 depolarization and prolongation of phase 3 repolarization (red curve) of ventricular action potential after administration of the drug {{exhibit_2}}. This action is usually seen with the use of class IA antiarrhythmic drugs (quinidine, procainamide, and disopyramide).\n\nClass I antiarrhythmic drugs block sodium channels and inhibit initial phase 0 depolarization of action potential, thereby slowing conduction. Class IA agents also have moderate potassium channel-blocking activity, leading to a slow rate of repolarization and prolongation of action potential duration in the cardiac myocytes.\n\n(Choice A) Adenosine activates potassium channels and increases potassium conductance by interacting with A1 receptors on the surface of cardiac cells. This causes membrane hyperpolarization, resulting in transient slowing of the sinus rate and an increase in atrioventricular (AV) nodal conduction delay. Adenosine does not modulate the ventricular myocyte action potential.\n\n(Choice B) Digoxin exerts its antiarrhythmic effects by increasing vagal output to the AV node and conduction system, thereby slowing conduction in these tissues. It does not alter the ventricular myocyte action potential, but it does increase intracellular calcium in ventricular myocytes, leading to increased cardiac contractility.\n\n(Choice C) Calcium channel blockers are class IV antiarrhythmic drugs (eg, verapamil, diltiazem) that inhibit L-type calcium channels, slowing depolarization in the sinoatrial and AV nodes and decreasing calcium entry into cardiomyocytes. Calcium channel blockers slow the sinus rate, prolong AV node conduction, and depress myocardial contractility.\n\n(Choice E) Flecainide is a class IC antiarrhythmic that strongly blocks sodium channels. It exhibits a slow rate of receptor dissociation that makes it more effective at higher rates of depolarization (use dependence). Class IC drugs slow phase 0 depolarization but do not affect action potential duration.\n\n(Choice F) Lidocaine is a class IB antiarrhythmic drug that has weak sodium channel-blocking activity at rest; however, it is quite effective in blocking sodium channels in depolarized cardiac myocytes. Class IB drugs also shorten phase 3 repolarization (blockade of \"plateau\" Na+ current), thereby decreasing action potential duration.\n\n(Choice G) Propranolol is a beta-adrenergic blocking agent that slows conduction through the AV node and prolongs phase 4 depolarization in cardiac pacemaker cells. Beta blockers do not affect ventricular myocyte action potential; their primary site of action is on the AV node and cells with automaticity.\n\nEducational objective:\nThe class IA antiarrhythmics (quinidine, procainamide, and disopyramide) are sodium channel-blocking agents that depress phase 0 depolarization. They also prolong repolarization due to moderate potassium channel-blocking activity, increasing action potential duration in cardiac myocytes. {{exhibit_3}} {{exhibit_4}}",
+    "zh": "图示表明，用药后心室动作电位的0相去极化显着减慢，3相复极化时间延长（红线）{{exhibit_2}}。这种作用通常见于使用IA类抗心律失常药物（奎尼丁、普鲁卡因胺和双异丙吡胺）。\n\nI类抗心律失常药物阻断钠离子通道，抑制动作电位的初始0相去极化，从而减缓传导。IA类药物也具有中度阻滞钾离子通道的活性，导致复极化速度减慢，并延长心肌细胞的动作电位持续时间。\n\n（选项A）腺苷通过与心肌细胞表面的A1受体相互作用来激活钾离子通道，增加钾离子电导。这导致膜超极化，导致窦性心率短暂减慢和房室（AV）结传导延迟增加。腺苷不调节心室肌细胞动作电位。\n\n（选项B）地高辛通过增加迷走神经对房室结和传导系统的输出发挥其抗心律失常作用，从而减缓这些组织的传导。它不改变心室肌细胞的动作电位，但它确实增加了心室肌细胞内的钙离子，从而导致心肌收缩力增强。\n\n（选项C）钙通道阻滞剂是IV类抗心律失常药物（例如，维拉帕米，地尔硫卓），可抑制L型钙通道，减缓窦房结和房室结的去极化，并减少钙离子进入心肌细胞。钙通道阻滞剂减慢窦性心率，延长房室结传导，并抑制心肌收缩力。\n\n（选项E）氟卡尼是一种IC类抗心律失常药，可强烈阻断钠离子通道。它表现出缓慢的受体解离速率，这使其在较高的去极化速率下更有效（使用依赖性）。IC类药物减慢0相去极化，但不影响动作电位持续时间。\n\n（选项F）利多卡因是一种IB类抗心律失常药物，在静息状态下具有弱的钠离子通道阻滞活性；然而，它在阻断去极化心肌细胞中的钠离子通道方面非常有效。IB类药物也缩短了3相复极化（阻滞“平台”Na+电流），从而降低了动作电位的持续时间。\n\n（选项G）普萘洛尔是一种β-肾上腺素能阻滞剂，可减慢通过房室结的传导，并延长心脏起搏细胞的4相去极化。β受体阻滞剂不影响心室肌细胞的动作电位；它们的主要作用位点是房室结和具有自律性的细胞。\n\n教育目标：\nIA类抗心律失常药物（奎尼丁、普鲁卡因胺和双异丙吡胺）是阻断钠离子通道的药物，可抑制0相去极化。它们也因中度阻滞钾离子通道活性而延长复极化，从而增加心肌细胞的动作电位持续时间。{{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of antiarrhythmic drug mechanisms, specifically how Class IA antiarrhythmics affect the ventricular action potential. It requires recognizing the changes in phase 0 depolarization and phase 3 repolarization caused by these drugs.\n\nTo solve this question, analyze the provided action potential graph to identify the changes induced by the medication. Then, match these changes to the mechanism of action of the different antiarrhythmic drug classes, focusing on sodium and potassium channel blockade.",
+    "zh": "此问题测试对抗心律失常药物机制的了解，特别是IA类抗心律失常药物如何影响心室动作电位。它需要识别这些药物引起的0相去极化和3相复极化的变化。\n\n要解决这个问题，请分析提供的动作电位图，以识别药物引起的变化。然后，将这些变化与不同抗心律失常药物类别的作用机制相匹配，重点关注钠离子和钾离子通道阻滞。"
+  },
+  "tags": "Antiarrhythmics; Class IA antiarrhythmics; Ventricular action potential; Phase 0 depolarization; Phase 3 repolarization; Sodium channel blockade; Potassium channel blockade; Cardiology; Electrophysiology",
+  "category": "CVS",
+  "question_id": "1509",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1509",
+  "extracted_at": "2025-11-05T11:55:02.987198",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:46:43.425418",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

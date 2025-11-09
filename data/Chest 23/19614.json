@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 1-hour-old boy is admitted to the neonatal intensive care unit for respiratory failure. The infant was born to a 27-year-old mother, gravida 4 para 2, at 29 weeks gestation via cesarean delivery due to maternal preeclampsia with severe features. Amniotic fluid was clear. Apgar scores were 7 and 8 at 1 and 5 minutes, respectively. Birth weight is 1,120 g (2 lb 8 oz). Temperature is 36.9 C (98.4 F), pulse is 170/min, and respirations are 56/min. Pulse oximetry is 82% on room air. There are intercostal and subcostal retractions. Cardiac examination shows tachycardia without murmurs. The lungs have decreased breath sounds bilaterally. The abdomen is soft without organomegaly. Surfactant is ordered, and the team prepares for intubation. Prior to these clinical interventions, which of the following best describes the condition of this patient's lungs compared to a normal neonate? {{exhibit_1}}",
+    "zh": "一名1小时大的男婴因呼吸衰竭被收治于新生儿重症监护病房。该婴儿的母亲为27岁，孕4产2，孕29周时因患有重度先兆子痫而通过剖腹产分娩。羊水清亮。Apgar评分分别为1分钟7分和5分钟8分。出生体重为1,120克（2磅8盎司）。体温为36.9°C（98.4°F），脉搏170次/分钟，呼吸56次/分钟。在常氧下脉搏血氧饱和度为82%。有肋间和肋下凹陷。心脏检查显示心动过速，无杂音。双侧肺部呼吸音减弱。腹部柔软，无脏器肿大。已开具表面活性剂医嘱，并且团队准备进行气管插管。在这些临床干预之前，以下哪一项最能描述该患者的肺部状况与正常新生儿相比？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following best describes the condition of this patient's lungs compared to a normal neonate?",
+    "zh": "以下哪一项最能描述该患者的肺部状况与正常新生儿相比？"
+  },
+  "options": {
+    "A": {
+      "en": "Compliance: Decreased; Functional residual capacity: Decreased; Airway resistance: Decreased",
+      "zh": "顺应性：降低；功能残气量：降低；气道阻力：降低"
+    },
+    "B": {
+      "en": "Compliance: Decreased; Functional residual capacity: Decreased; Airway resistance: Increased",
+      "zh": "顺应性：降低；功能残气量：降低；气道阻力：增加"
+    },
+    "C": {
+      "en": "Compliance: Decreased; Functional residual capacity: Increased; Airway resistance: Increased",
+      "zh": "顺应性：降低；功能残气量：增加；气道阻力：增加"
+    },
+    "D": {
+      "en": "Compliance: Increased; Functional residual capacity: Decreased; Airway resistance: Decreased",
+      "zh": "顺应性：增加；功能残气量：降低；气道阻力：降低"
+    },
+    "E": {
+      "en": "Compliance: Increased; Functional residual capacity: Increased; Airway resistance: Decreased",
+      "zh": "顺应性：增加；功能残气量：增加；气道阻力：降低"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This preterm infant has increased work of breathing, hypoxia, and decreased breath sounds, findings which are concerning for neonatal respiratory distress syndrome (RDS). RDS is caused by immaturity of type 2 pneumocytes, resulting in lack of alveolar surfactant. Without surfactant, the alveoli have increased surface tension and therefore decreased compliance. These poorly compliant alveoli are prone to collapse, resulting in widespread atelectasis that lowers functional residual capacity and total lung capacity. Surfactant deficiency also results in pneumocyte injury and lung inflammation; the resulting edema can narrow the airways and increase airway resistance (Choice A). {{exhibit_2}}\n\nRDS is treated with respiratory support and exogenous surfactant via an endotracheal tube, which transiently improves pulmonary compliance while the type 2 pneumocytes mature and begin to release endogenous surfactant. After surfactant administration, infants have increased lung expansion (ie, total lung capacity, functional residual capacity) and decreased airway resistance (Choice E).\n\n(Choice C) Decreased compliance, increased functional residual capacity, and increased airway resistance is the pattern seen in newborns with meconium aspiration syndrome. This obstructive process presents with respiratory distress at birth due to air trapping in the distal airways but would be unlikely in this patient with a history of clear amniotic fluid.\n\n(Choice D) Increased compliance with decreased functional residual capacity and airway resistance is suggestive of pulmonary air leak (eg, pneumothorax), which causes respiratory distress at birth due to air within the extraalveolar space. Chest asymmetry and asymmetric breath sounds would be expected.\n\nEducational objective:\nRespiratory distress syndrome classically presents in premature infants with increased work of breathing and hypoxia at birth due to surfactant deficiency. Poor alveolar compliance leads to widespread atelectasis and decreased functional residual capacity. Airway resistance is often increased due to lung inflammation and edema.",
+    "zh": "该早产儿出现呼吸做功增加、低氧血症和呼吸音减弱，这些发现提示新生儿呼吸窘迫综合征 (RDS)。RDS是由II型肺泡细胞未成熟引起的，导致缺乏肺泡表面活性物质。没有表面活性物质，肺泡的表面张力会增加，从而导致顺应性降低。这些顺应性差的肺泡容易塌陷，导致广泛的肺不张，从而降低功能残气量和总肺活量。表面活性物质缺乏还会导致肺泡细胞损伤和肺部炎症；由此产生的水肿可使气道变窄并增加气道阻力（选项A）。{{exhibit_2}}\n\nRDS 通过呼吸支持和经气管内管外源性表面活性物质进行治疗，这会暂时改善肺部顺应性，同时II型肺泡细胞成熟并开始释放内源性表面活性物质。给予表面活性物质后，婴儿的肺部扩张增加（即，总肺活量、功能残气量）并降低气道阻力（选项E）。\n\n（选项C）顺应性降低、功能残气量增加和气道阻力增加是新生儿胎粪吸入综合征中出现的模式。这种阻塞性过程在出生时表现为呼吸窘迫，原因是远端气道中的气体滞留，但这不太可能出现在有清亮羊水史的患者身上。\n\n（选项D）顺应性增加，功能残气量降低和气道阻力降低提示肺漏气（例如，气胸），这会导致出生时出现呼吸窘迫，原因是肺泡外空间中的气体。预计会出现胸部不对称和不对称的呼吸音。\n\n教育目标：\n呼吸窘迫综合征通常在早产儿中表现为出生时呼吸做功增加和低氧血症，这是由于缺乏表面活性物质所致。肺泡顺应性差会导致广泛的肺不张和功能残气量降低。由于肺部炎症和水肿，气道阻力通常会增加。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of neonatal respiratory distress syndrome (RDS) pathophysiology, specifically how surfactant deficiency affects lung compliance, functional residual capacity, and airway resistance. It also tests the ability to differentiate RDS from other causes of neonatal respiratory distress.\n\nTo solve this question, recognize the clinical presentation of RDS in a preterm infant. Understand that surfactant deficiency leads to decreased compliance and functional residual capacity, and increased airway resistance due to alveolar collapse and inflammation.",
+    "zh": "本题考察对新生儿呼吸窘迫综合征 (RDS) 病理生理学的知识，特别是表面活性物质缺乏如何影响肺部顺应性、功能残气量和气道阻力。它还考察了区分 RDS 与其他新生儿呼吸窘迫原因的能力。\n\n要解决这个问题，需要认识到早产儿 RDS 的临床表现。了解表面活性物质缺乏会导致顺应性降低和功能残气量降低，以及由于肺泡塌陷和炎症导致气道阻力增加。"
+  },
+  "tags": "Respiratory distress syndrome; Neonatology; Prematurity; Surfactant deficiency; Lung compliance; Functional residual capacity; Airway resistance; Pulmonary physiology; Preeclampsia",
+  "category": "Chest",
+  "question_id": "19614",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\19614",
+  "extracted_at": "2025-11-05T11:42:34.381102",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:37:54.592386",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

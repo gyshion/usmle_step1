@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A scientist is interested in the mechanisms by which leukocytes traffic to sites of inflammation and infection. She finds that endothelial cells increase the expression of certain cell surface molecules in response to cytokines to allow for leukocyte trafficking. She subsequently creates a knockout mouse that has a deletion in the platelet endothelial cell adhesion molecule 1 (PECAM-1) gene. The protein product of this gene is mainly localized to specific areas on the endothelial cells. Absent expression of this gene will most likely affect which of the following neutrophil functions?",
+    "zh": "一位科学家对白细胞迁移到炎症和感染部位的机制很感兴趣。她发现内皮细胞响应细胞因子会增加某些细胞表面分子的表达，从而允许白细胞迁移。随后，她创建了一只基因敲除小鼠，该小鼠的血小板内皮细胞黏附分子1 (PECAM-1) 基因被删除。该基因的蛋白质产物主要定位于内皮细胞的特定区域。该基因的缺失表达最有可能影响以下哪种中性粒细胞功能？"
+  },
+  "question": {
+    "en": "Absent expression of this gene will most likely affect which of the following neutrophil functions?",
+    "zh": "该基因的缺失表达最有可能影响以下哪种中性粒细胞功能？"
+  },
+  "options": {
+    "A": {
+      "en": "Crawling",
+      "zh": "爬行"
+    },
+    "B": {
+      "en": "Margination",
+      "zh": "边缘化"
+    },
+    "C": {
+      "en": "Rolling",
+      "zh": "滚动"
+    },
+    "D": {
+      "en": "Tight adhesion",
+      "zh": "紧密黏附"
+    },
+    "E": {
+      "en": "Transmigration",
+      "zh": "跨内皮细胞迁移"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Inflammation is an important process in the defense against various pathogens. It is characterized by the passage of leukocytes into the inflamed tissue. The following steps are involved in inflammatory leukocyte accumulation:\n\n1.  Margination: Increased vascular leakage in the microvasculature leads to hemoconcentration and decreased wall shear stress, improving the contact of neutrophils with the endothelial lining (Choice B).\n2.  Rolling: Neutrophils roll on the endothelium via the loose binding of sialylated carbohydrate groups, such as Sialyl Lewis X or PSGL-1, to L-selectin on neutrophils or E-selectin/P-selectin on endothelial cells (Choice C). Cytokine stimulation greatly increases expression of endothelial selectins.\n3.  Activation: Slow rolling allows the leukocytes to sample the chemokines secreted by the inflamed tissue. This activates integrins by inducing a signaling cascade that results in a conformational change in the integrins necessary for binding.\n4.  Tight adhesion and crawling: Neutrophils become firmly attached to the endothelium via the binding of CD 18 beta 2 integrins (Mac-1 and LFA-1) to intercellular adhesion molecule-1 (ICAM-1) on endothelial cells (Choices A and D).\n5.  Transmigration: After crawling to the endothelial cell periphery, neutrophils eventually migrate out of the vasculature by squeezing in between the cells via integrin attachments and adherence to platelet endothelial cell adhesion molecule 1 (PECAM-1). This protein is found primarily at the peripheral intercellular junctions of endothelial cells.\n\nThree leukocyte adhesion deficiency (LAD) syndromes have been identified whereby leukocytes cannot leave the vasculature to migrate into tissues under conditions of inflammation. All are rare, autosomal recessive disorders. LAD type 1 results from the absence of CD18. This leads to the inability to synthesize the beta-2 integrins Mac-1 and LFA1, affecting tight adhesion, crawling, and transmigration. The clinical manifestations include recurrent skin infections without pus formation, delayed detachment of the umbilical cord, and poor wound healing. LAD type 2 is a milder condition, with no delay in the separation of the umbilical cord and less severe and fewer infections. LAD type 3 is similar to type 1 and causes severe, recurrent bacterial infections, delayed separation of the umbilical cord, and bleeding complications (due to affected beta-3 integrins on platelets).\n\nEducational objective: Inflammation is characterized by the passage of circulating inflammatory leukocytes into the inflamed tissue. The steps involved include margination, rolling, activation, tight adhesion and crawling, and transmigration. {{exhibit_1}}",
+    "zh": "炎症是防御各种病原体的重要过程。其特征是白细胞进入发炎组织。炎症性白细胞聚集涉及以下步骤：\n\n1.  边缘化：微血管中血管渗漏增加导致血液浓缩和壁剪切应力降低，从而改善中性粒细胞与内皮衬里的接触（选项B）。\n2.  滚动：中性粒细胞通过唾液酸化碳水化合物基团（例如，Sialyl Lewis X 或 PSGL-1）与中性粒细胞上的 L-选择素或内皮细胞上的 E-选择素/P-选择素的松散结合而在内皮细胞上滚动（选项C）。细胞因子刺激大大增加了内皮选择素的表达。\n3.  活化：缓慢滚动使白细胞能够采样发炎组织分泌的趋化因子。这通过诱导信号级联反应来激活整合素，从而导致整合素发生构象变化，而这种构象变化对于结合是必需的。\n4.  紧密黏附和爬行：中性粒细胞通过 CD 18 β2 整合素（Mac-1 和 LFA-1）与内皮细胞上的细胞间黏附分子-1 (ICAM-1) 结合而牢固地附着于内皮细胞（选项 A 和 D）。\n5.  跨内皮细胞迁移：在爬行到内皮细胞外周后，中性粒细胞最终通过整合素附着和黏附于血小板内皮细胞黏附分子 1 (PECAM-1) 而挤压在细胞之间，从而迁移出血管。这种蛋白质主要存在于内皮细胞的外周细胞间连接处。\n\n已经确定了三种白细胞黏附缺陷 (LAD) 综合征，在这种情况下，白细胞无法离开血管并在炎症条件下迁移到组织中。所有这些都是罕见的常染色体隐性遗传病。LAD 1 型是由于 CD18 缺失引起的。这导致无法合成 β-2 整合素 Mac-1 和 LFA1，从而影响紧密黏附、爬行和跨内皮细胞迁移。临床表现包括反复出现无脓形成皮肤感染、脐带延迟脱落和伤口愈合不良。LAD 2 型是一种较轻的疾病，脐带分离没有延迟，感染也较轻且较少。LAD 3 型类似于 1 型，可引起严重的、反复发生的细菌感染、脐带延迟分离和出血并发症（由于血小板上 β-3 整合素受影响）。\n\n教育目标：炎症的特征是循环炎症性白细胞进入发炎组织。涉及的步骤包括边缘化、滚动、活化、紧密黏附和爬行，以及跨内皮细胞迁移。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the steps involved in leukocyte trafficking during inflammation, specifically the role of PECAM-1 in transmigration. It also touches on leukocyte adhesion deficiency syndromes.\n\nThe key to solving this question is understanding the function of PECAM-1. Since PECAM-1 is primarily involved in transmigration, the correct answer is the option that directly relates to this step in the inflammatory process.",
+    "zh": "这个问题测试了关于炎症期间白细胞迁移步骤的知识，特别是 PECAM-1 在跨内皮细胞迁移中的作用。它还涉及白细胞黏附缺陷综合征。\n\n解决这个问题的关键是理解 PECAM-1 的功能。由于 PECAM-1 主要参与跨内皮细胞迁移，因此正确答案是与炎症过程中的这一步骤直接相关的选项。"
+  },
+  "tags": "Leukocyte trafficking; Inflammation; PECAM-1; Transmigration; Neutrophil function; Leukocyte adhesion deficiency; Cell adhesion molecules; Immunology",
+  "category": "Immunology",
+  "question_id": "8480",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\8480",
+  "extracted_at": "2025-11-05T14:46:30.303489",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:03:31.109674",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

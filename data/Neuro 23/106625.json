@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 60-year-old woman is enrolled in a longitudinal research study for individuals with a family history of Parkinson disease. The patient's mother died from complications of idiopathic Parkinson disease 2 years ago. The study consists of symptom questionnaires, serial neurologic examinations, and brain imaging. Review of systems is notable for chronic constipation, which is progressively worsening. The patient also recently began having difficulty double-clicking her mouse. Vital signs show orthostatic hypotension. Neurologic examination reveals normal muscle bulk, tone, and strength with no abnormal movements. Postural stability is maintained. Gait speed and stride length are normal. Advanced brain imaging reveals 50% loss of nigrostriatal volume. Compared to an age-matched healthy individual, which of the following is most likely present in this patient's remaining nigrostriatal neurons?",
+    "zh": "一名60岁的女性参与了一项针对有帕金森病家族史的个体的纵向研究。患者的母亲于2年前死于特发性帕金森病的并发症。该研究包括症状问卷调查、系列神经系统检查和脑部影像学检查。系统回顾显示慢性便秘，且逐渐恶化。患者最近也开始难以双击鼠标。生命体征显示体位性低血压。神经系统检查显示肌肉体积、张力和力量正常，无异常运动。姿势稳定性得以维持。步态速度和步幅正常。高级脑部影像学检查显示黑质纹状体体积减少50%。与年龄匹配的健康个体相比，该患者剩余的黑质纹状体神经元中最有可能存在以下哪种情况？"
+  },
+  "question": {
+    "en": "Which of the following is most likely present in this patient's remaining nigrostriatal neurons?",
+    "zh": "该患者剩余的黑质纹状体神经元中最有可能存在以下哪种情况？"
+  },
+  "options": {
+    "A": {
+      "en": "Blockade of postsynaptic dopamine receptors",
+      "zh": "突触后多巴胺受体阻滞"
+    },
+    "B": {
+      "en": "Decreased tyrosine hydroxylase activity",
+      "zh": "酪氨酸羟化酶活性降低"
+    },
+    "C": {
+      "en": "Increased presynaptic dopamine reuptake",
+      "zh": "突触前多巴胺再摄取增加"
+    },
+    "D": {
+      "en": "Increased synaptic dopamine concentration",
+      "zh": "突触多巴胺浓度增加"
+    },
+    "E": {
+      "en": "Upregulation of postsynaptic dopamine receptors",
+      "zh": "突触后多巴胺受体上调"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient is participating in a prospective study of those at elevated risk (eg, positive family history) for Parkinson disease (PD). She has no cardinal motor symptoms of PD: bradykinesia, tremor, or rigidity. However, neuroimaging reveals significant nigrostriatal atrophy, with 50% loss of volume. {{exhibit_1}}\n\nIt is critical to note that motor impairment is not evident until a major loss (typically >60%) of substantia nigra (SN) dopaminergic neurons has already occurred. Neuronal loss begins 10-20 years prior to the onset of typical motor parkinsonism. During this period, known as prodromal or premotor PD, powerful compensatory mechanisms counteract presynaptic dopamine deficiency:\n\n*   In the surviving presynaptic SN neurons, de novo dopamine synthesis is stimulated by the upregulation of tyrosine hydroxylase expression and activity (Choice B).\n*   In the synapse, dopamine reuptake is inhibited due to the downregulation of dopamine transporters. This assists in preserving dopamine levels in the synaptic cleft (Choice C). However, because there is severe loss of SN dopaminergic neurons overall, total synaptic dopamine levels are still lower than those of healthy subjects (Choice D).\n*   In the postsynaptic striatal neurons, there is compensatory proliferation of dopamine receptors (particularly D₂R) and enhanced receptor clustering, which work in tandem to augment dopamine signaling.\n\nAs nigrostriatal dopamine depletion worsens, these compensatory mechanisms are defeated, and the motor symptoms of PD are unmasked. Very subtle motor difficulties, especially in tasks requiring finesse and nimble movement (eg, double-clicking mouse), may be the earliest findings.\n\nBecause nonmotor manifestations are driven by alpha-synuclein neuronal toxicity, rather than dopamine deficiency, they are the hallmark of prodromal PD. Autonomic dysfunction is common due to alpha-synuclein invasion of the enteric nervous system (gut hypomotility, constipation) and vascular sympathetic nerves (orthostatic hypotension), as seen in this patient. Invasion of the brainstem sleep centers produces REM behavior disorder, a highly specific prodromal presentation; 90% of patients are diagnosed with an alpha-synucleinopathy within 10 years.\n\n(Choice A) Blockade of postsynaptic dopamine receptors in the basal ganglia occurs in drug-induced parkinsonism (eg, antipsychotic agents), which is clinically indistinguishable from idiopathic PD. In drug-induced parkinsonism, SN dopaminergic neurons are intact and synaptic dopamine levels are normal.\n\nEducational objective:\nThe majority of substantia nigra dopaminergic neurons (>60%) are lost prior to the onset of motor symptoms in idiopathic Parkinson disease. During this prodromal period, dopamine depletion is offset by several compensatory mechanisms, including the upregulation of postsynaptic dopamine receptors.",
+    "zh": "该患者正在参与一项针对帕金森病高危人群（如阳性家族史）的前瞻性研究。她没有帕金森病的典型运动症状：运动迟缓、震颤或强直。然而，神经影像学显示黑质纹状体明显萎缩，体积减少50%。{{exhibit_1}}\n\n重要的是要注意，直到黑质（SN）多巴胺能神经元大量（通常>60%）丢失后，才会出现运动障碍。神经元丢失始于典型运动性帕金森病发病前10-20年。在此期间，被称为前驱期或前驱运动PD，强大的代偿机制抵消了突触前多巴胺缺乏症：\n\n*   在存活的突触前SN神经元中，通过上调酪氨酸羟化酶的表达和活性来刺激从头多巴胺合成（选项B）。\n*   在突触中，由于多巴胺转运蛋白的下调，多巴胺再摄取受到抑制。这有助于维持突触间隙中的多巴胺水平（选项C）。然而，由于SN多巴胺能神经元总体严重丢失，突触总多巴胺水平仍低于健康受试者（选项D）。\n*   在突触后纹状体神经元中，多巴胺受体（特别是D₂R）出现代偿性增殖和增强的受体聚集，两者协同作用以增强多巴胺信号传导。\n\n随着黑质纹状体多巴胺耗竭的恶化，这些代偿机制被破坏，PD的运动症状显现出来。非常微妙的运动困难，尤其是在需要技巧和灵巧动作的任务中（例如，双击鼠标），可能是最早的发现。\n\n由于非运动表现是由α-突触核蛋白神经元毒性驱动，而不是多巴胺缺乏症，因此它们是前驱期PD的标志。自主神经功能障碍很常见，是由于α-突触核蛋白侵袭肠神经系统（肠道蠕动减弱、便秘）和血管交感神经（体位性低血压），如本例患者所示。侵袭脑干睡眠中心会产生REM行为障碍，这是一种高度特异性的前驱期表现；90%的患者在10年内被诊断出患有α-突触核蛋白病。\n\n（选项A）基底神经节中的突触后多巴胺受体阻滞发生在药物诱发的帕金森病（如抗精神病药物）中，这与特发性PD在临床上无法区分。在药物诱发的帕金森病中，SN多巴胺能神经元完好，突触多巴胺水平正常。\n\n教育目标：\n在特发性帕金森病中，在运动症状出现之前，大多数黑质多巴胺能神经元（>60%）会丢失。在此前驱期，多巴胺耗竭通过几种代偿机制得到抵消，包括突触后多巴胺受体的上调。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of Parkinson's disease, specifically the compensatory mechanisms that occur during the prodromal phase before motor symptoms manifest. It requires understanding of dopamine synthesis, reuptake, and receptor regulation in the nigrostriatal pathway. \n\nThe key to solving this question is recognizing that the patient is in the prodromal phase of Parkinson's disease, characterized by non-motor symptoms and nigrostriatal atrophy but without the classic motor signs. Therefore, the correct answer will reflect a compensatory mechanism aimed at maintaining dopamine signaling despite neuronal loss.",
+    "zh": "这道题考察了对帕金森病病理生理学的了解，特别是运动症状出现前前驱期发生的代偿机制。它需要理解黑质纹状体通路中多巴胺的合成、再摄取和受体调节。\n\n解决这道题的关键在于认识到患者处于帕金森病的前驱期，其特征是非运动症状和黑质纹状体萎缩，但没有典型的运动体征。因此，正确的答案将反映一种旨在尽管神经元丢失，仍维持多巴胺信号传导的代偿机制。"
+  },
+  "tags": "Parkinson's disease; Nigrostriatal pathway; Dopamine; Prodromal symptoms; Upregulation; Neurodegeneration; Neurology; Movement disorders",
+  "category": "Neuro",
+  "question_id": "106625",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\106625",
+  "extracted_at": "2025-11-05T15:07:56.815794",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:16:35.079160",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

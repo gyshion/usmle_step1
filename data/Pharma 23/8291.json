@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 37-year-old man comes to the emergency department due to fever, chills, and malaise. He has no significant medical history but he uses illicit intravenous drugs on a regular basis. The patient is febrile, tachycardic, and hypotensive. Auscultation reveals a heart murmur. A preliminary diagnosis of infective endocarditis is established. Blood cultures grow methicillin-resistant Staphylococcus aureus, and the patient is prescribed an intravenous antibiotic administered every 12 hours. Calculation of the maintenance dose will most likely require which of the following parameters?",
+    "zh": "一名37岁男性因发热、寒战和不适就诊于急诊科。他没有明显的病史，但定期使用非法静脉注射药物。患者发热、心动过速、低血压。听诊发现心脏杂音。初步诊断为感染性心内膜炎。血培养显示耐甲氧西林金黄色葡萄球菌生长，患者被处方静脉注射抗生素，每12小时给药一次。维持剂量的计算最有可能需要以下哪个参数？"
+  },
+  "question": {
+    "en": "Calculation of the maintenance dose will most likely require which of the following parameters?",
+    "zh": "维持剂量的计算最有可能需要以下哪个参数？"
+  },
+  "options": {
+    "A": {
+      "en": "Drug clearance rate",
+      "zh": "药物清除率"
+    },
+    "B": {
+      "en": "Number of doses needed to reach steady state",
+      "zh": "达到稳态所需的剂量数"
+    },
+    "C": {
+      "en": "Size of the loading dose",
+      "zh": "负荷剂量的大小"
+    },
+    "D": {
+      "en": "Total body weight of the patient",
+      "zh": "患者的总体重"
+    },
+    "E": {
+      "en": "Volume of distribution of the drug",
+      "zh": "药物的分布容积"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The correct answer is A. The maintenance dose of an antibiotic is calculated to maintain a steady-state plasma concentration (Css) within a targeted therapeutic range. This dose is designed to replace the amount of drug eliminated by the body since the last dose. The formula for the maintenance dose is: Maintenance dose = Css × CL × dosing interval, where CL is the drug clearance (volume of plasma cleared of drug per unit time) and Css is the steady-state plasma concentration. Therefore, drug clearance is a critical parameter for calculating the maintenance dose.\n\n(Choice B) The number of doses needed to reach steady state is related to the drug's half-life, not directly to the calculation of the maintenance dose itself. While reaching steady state is the goal, the calculation of the dose required to maintain it is independent of how many doses it takes to get there.\n\n(Choices C and D) The size of the loading dose and the total body weight of the patient are primarily used to determine the initial loading dose, which is given to rapidly achieve therapeutic drug concentrations. While body weight can influence volume of distribution and thus loading dose, it is not the primary determinant for the maintenance dose calculation, which focuses on replacing eliminated drug.\n\n(Choice E) The volume of distribution (Vd) is important for calculating the loading dose (Loading dose = Vd × Css) and for determining the drug's half-life (Half-life = (0.7 × Vd) / CL). However, it is not directly used in the calculation of the maintenance dose, which is primarily dependent on Css and CL.\n\nKey clinical pearls:\n- Maintenance dose aims to replace drug eliminated between doses.\n- Maintenance dose = Css × CL × dosing interval.\n- Loading dose aims to rapidly achieve Css.\n- Loading dose = Vd × Css.\n- Half-life determines how long it takes to reach Css.",
+    "zh": "正确答案是A。抗生素的维持剂量计算旨在将稳态血浆浓度（Css）维持在目标治疗范围内。此剂量旨在补充自上次给药以来由身体消除的药物量。维持剂量的公式为：维持剂量 = Css × CL × 给药间隔，其中CL是药物清除率（单位时间内血浆中被清除的药物体积），Css是稳态血浆浓度。因此，药物清除率是计算维持剂量的关键参数。\n\n（选项B）达到稳态所需的剂量数与药物的半衰期有关，而不是直接与维持剂量本身的计算有关。虽然达到稳态是目标，但维持稳态所需的剂量计算与达到稳态所需的剂量数无关。\n\n（选项C和D）负荷剂量的大小和患者的总体重主要用于确定初始负荷剂量，该剂量用于快速达到治疗药物浓度。虽然体重会影响分布容积，从而影响负荷剂量，但它不是维持剂量计算的主要决定因素，维持剂量计算侧重于补充被消除的药物。\n\n（选项E）分布容积（Vd）对于计算负荷剂量（负荷剂量 = Vd × Css）和确定药物的半衰期（半衰期 = (0.7 × Vd) / CL）很重要。但是，它没有直接用于维持剂量的计算，维持剂量主要取决于Css和CL。\n\n关键临床要点：\n- 维持剂量旨在补充剂量之间被消除的药物。\n- 维持剂量 = Css × CL × 给药间隔。\n- 负荷剂量旨在快速达到Css。\n- 负荷剂量 = Vd × Css。\n- 半衰期决定了达到Css所需的时间。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of pharmacokinetic principles, specifically the calculation of drug maintenance doses. It requires knowledge of the relationship between drug clearance, steady-state concentration, and the dosing interval in determining the appropriate maintenance dose for an antibiotic.\n\nTo solve this question, one must recall or derive the formula for the maintenance dose. By understanding that the maintenance dose replaces the drug eliminated between doses, and that elimination rate is proportional to drug clearance, one can identify drug clearance as the essential parameter. The other options relate more to loading dose or the time to reach steady state.",
+    "zh": "这个问题考察了对药代动力学原理的理解，特别是药物维持剂量的计算。它需要了解药物清除率、稳态浓度和给药间隔之间的关系，以确定抗生素的适当维持剂量。\n\n要解决这个问题，必须回忆或推导出维持剂量的公式。通过理解维持剂量补充了剂量之间被消除的药物，并且消除率与药物清除率成正比，可以确定药物清除率是基本参数。其他选项与负荷剂量或达到稳态的时间有关。"
+  },
+  "tags": "Pharmacokinetics; Drug clearance; Maintenance dose; Steady-state concentration; Antibiotic dosing; Infective endocarditis; Staphylococcus aureus; Pharmacodynamics; Half-life; Volume of distribution",
+  "category": "Pharma",
+  "question_id": "8291",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\8291",
+  "extracted_at": "2025-11-05T19:45:40.777077",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:47:55.595625",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

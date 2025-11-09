@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 58-year-old woman comes to the office with new-onset low back pain. The patient was helping her friend move yesterday and strained her back. She does not drink alcohol or use illicit substances. Medical history includes hypertension and major depressive disorder currently treated with captopril and citalopram. A short course of medication is prescribed, and the patient is asked to monitor for development of diaphoresis, restlessness, tremors, and diarrhea.",
+    "zh": "一名58岁女性因新发腰背痛前来就诊。患者昨天帮助朋友搬家时拉伤了背部。她不饮酒，也不使用违禁药物。病史包括高血压和重度抑郁症，目前正在使用卡托普利和西酞普兰治疗。开具了短期药物，并要求患者监测是否出现多汗、烦躁、震颤和腹泻。"
+  },
+  "question": {
+    "en": "The patient was most likely prescribed which of the following medications?",
+    "zh": "患者最有可能被处方了以下哪种药物？"
+  },
+  "options": {
+    "A": {
+      "en": "Baclofen",
+      "zh": "巴氯芬"
+    },
+    "B": {
+      "en": "Celecoxib",
+      "zh": "塞来昔布"
+    },
+    "C": {
+      "en": "Diazepam",
+      "zh": "地西泮"
+    },
+    "D": {
+      "en": "Naproxen",
+      "zh": "萘普生"
+    },
+    "E": {
+      "en": "Tramadol",
+      "zh": "曲马多"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The symptom constellation of diaphoresis, restlessness, tremors, and diarrhea is characteristic of SEROTONIN SYNDROME, a potentially dangerous condition that results from excess serotonergic activity in the CNS. This patient is currently taking the selective serotonin reuptake inhibitor (SSRI) citalopram and was likely prescribed tramadol, an opioid analgesic that also has serotonergic activity. Tramadol acts as a mu opioid receptor agonist and serotonin and norepinephrine reuptake inhibitor and, in combination with an SSRI, can potentially cause serotonin syndrome.\n\nOnset of serotonin syndrome typically occurs within the first 24 hours after a change in dose or initiation of a serotonergic medication, and typically presents with the classic triad of MENTAL STATUS CHANGES, AUTONOMIC INSTABILITY, and NEUROMUSCULAR HYPERACTIVITY. In addition, stimulation of serotonin receptors in the gut commonly results in GASTROINTESTINAL SYMPTOMS (eg, diarrhea) and hyperactive bowel sounds. Patients taking SSRIs should be cautioned about the risk of serotonin syndrome when a medication with serotonergic activity is added. Tramadol (or other causative agent) should be discontinued promptly if serotonin syndrome occurs.\n\n(Choice A) Baclofen, a selective agonist of the GABA B receptor, works as a skeletal muscle relaxant by inhibiting reflexes at the spinal cord level. Its common adverse effects include sedation and dizziness.\n\n(Choices B and D) Celecoxib and naproxen are nonsteroidal anti-inflammatory drugs commonly used as initial therapy for acute low back pain. Celecoxib is a selective inhibitor of cyclooxygenase-2 (COX-2), whereas naproxen is a nonselective inhibitor of COX-1 and COX-2. Neither drug is associated with serotonin syndrome.\n\n(Choice C) Diazepam is a benzodiazepine that works by binding to GABAA receptors. Benzodiazepines have sedative, anxiolytic, anticonvulsive, and muscle-relaxing properties; adverse effects include impairment of psychomotor performance, amnesia, and dependence.\n\nEducational objective:\nCoadministration of tramadol with serotonergic medications such as selective serotonin reuptake inhibitors increases the risk of serotonin syndrome, which presents with the characteristic triad of mental status changes (agitation, confusion), autonomic instability (hyperthermia, diaphoresis), and neuromuscular hyperactivity (tremor, myoclonus).",
+    "zh": "多汗、烦躁、震颤和腹泻的症状组合是血清素综合征的特征，这是一种潜在的危险情况，由中枢神经系统内过多的血清素能活动引起。该患者目前正在服用选择性血清素再摄取抑制剂（SSRI）西酞普兰，并且可能被处方了曲马多，一种也具有血清素能活性的阿片类镇痛药。曲马多作为μ-阿片受体激动剂以及血清素和去甲肾上腺素再摄取抑制剂，与SSRI联合使用时，可能导致血清素综合征。\n\n血清素综合征的发生通常发生在改变剂量或启动血清素能药物后的24小时内，通常表现为经典的“三联征”，即精神状态改变、自主神经功能不稳定和神经肌肉活动亢进。此外，刺激肠道中的血清素受体通常会导致胃肠道症状（如腹泻）和肠鸣音亢进。服用SSRI的患者在添加具有血清素能活性的药物时，应注意血清素综合征的风险。如果发生血清素综合征，应立即停用曲马多（或其他致病药物）。\n\n（选项A）巴氯芬是GABA B受体的选择性激动剂，通过抑制脊髓水平的反射来发挥骨骼肌松弛剂的作用。其常见的不良反应包括镇静和头晕。\n\n（选项B和D）塞来昔布和萘普生是非甾体类抗炎药，常用于急性腰背痛的初始治疗。塞来昔布是环氧合酶-2（COX-2）的选择性抑制剂，而萘普生是COX-1和COX-2的非选择性抑制剂。这两种药物均与血清素综合征无关。\n\n（选项C）地西泮是一种苯二氮卓类药物，通过与GABAA受体结合起作用。苯二氮卓类药物具有镇静、抗焦虑、抗惊厥和肌肉松弛的特性；不良反应包括精神运动表现受损、失忆和依赖。\n\n教育目标：\n曲马多与西酞普兰等血清素能药物联合使用会增加血清素综合征的风险，其表现为特征性的“三联征”，即精神状态改变（激动、意识模糊）、自主神经功能不稳定（高热、多汗）和神经肌肉活动亢进（震颤、肌阵挛）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of serotonin syndrome, its causes, clinical features, and the potential drug interactions that can precipitate it, particularly in the context of pain management for a patient already on an SSRI.\n\nTo solve this question, one must recognize the constellation of symptoms (diaphoresis, restlessness, tremors, diarrhea) as indicative of serotonin syndrome and identify which of the listed medications, when combined with an SSRI, is known to cause this condition. The patient's existing medication (citalopram) and the symptoms described are key to deducing the likely prescribed medication.",
+    "zh": "此题考察对血清素综合征的理解，包括其病因、临床特征以及可能诱发它的药物相互作用，特别是在已服用SSRI的患者的疼痛管理背景下。\n\n要解决这个问题，必须认识到症状组合（多汗、烦躁、震颤、腹泻）表明血清素综合征，并确定当与SSRI结合使用时，所列出的哪种药物已知会导致这种情况。患者现有的药物（西酞普兰）和所描述的症状是推断可能处方药物的关键。"
+  },
+  "tags": "Serotonin syndrome; Drug interactions; SSRI; Tramadol; Citalopram; Neuromuscular hyperactivity; Autonomic instability; Mental status changes; Pharmacology; Emergency medicine",
+  "category": "Psychiatry",
+  "question_id": "15608",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\15608",
+  "extracted_at": "2025-11-05T19:50:01.898346",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:54:16.239296",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

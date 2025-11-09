@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 20-year-old woman is brought to the emergency department by her boyfriend after being found unresponsive in her apartment. She has a medical history of major depression and generalized anxiety disorder. There is no evidence of trauma. On examination, the patient is obtunded and responds only to painful stimuli. There are no indications of recent vomiting. Lungs are clear to auscultation. Toxicology screen is positive for benzodiazepines. Which of the following sets of arterial blood gas findings (in mm Hg) are most likely present in this patient? {{exhibit_1}}",
+    "zh": "一名20岁的女性在公寓内被发现无反应，由其男友送至急诊科。她有重度抑郁症和广泛性焦虑症的病史。没有外伤的证据。体格检查显示，患者意识模糊，仅对疼痛刺激有反应。没有近期呕吐的迹象。肺部听诊清澈。毒理学筛查结果显示苯二氮卓类药物阳性。该患者最有可能出现以下哪组动脉血气分析结果（以 mm Hg 为单位）？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following sets of arterial blood gas findings (in mm Hg) are most likely present in this patient?",
+    "zh": "该患者最有可能出现以下哪组动脉血气分析结果（以 mm Hg 为单位）？"
+  },
+  "options": {
+    "A": {
+      "en": "PaO₂ 45\nPaCO₂ 30\nAlveolar-arterial O₂ gradient 10",
+      "zh": "PaO₂ 45\nPaCO₂ 30\n肺泡-动脉O₂梯度 10"
+    },
+    "B": {
+      "en": "PaO₂ 45\nPaCO₂ 30\nAlveolar-arterial O₂ gradient 30",
+      "zh": "PaO₂ 45\nPaCO₂ 30\n肺泡-动脉O₂梯度 30"
+    },
+    "C": {
+      "en": "PaO₂ 55\nPaCO₂ 60\nAlveolar-arterial O₂ gradient 25",
+      "zh": "PaO₂ 55\nPaCO₂ 60\n肺泡-动脉O₂梯度 25"
+    },
+    "D": {
+      "en": "PaO₂ 55\nPaCO₂ 60\nAlveolar-arterial O₂ gradient 10",
+      "zh": "PaO₂ 55\nPaCO₂ 60\n肺泡-动脉O₂梯度 10"
+    },
+    "E": {
+      "en": "PaO₂ 65\nPaCO₂ 70\nAlveolar-arterial O₂ gradient 35",
+      "zh": "PaO₂ 65\nPaCO₂ 70\n肺泡-动脉O₂梯度 35"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has an ACUTE BENZODIAZEPINE OVERDOSE. Benzodiazepines (eg, alprazolam, lorazepam) cause sedation and central respiratory depression with HYPOVENTILATION and CO₂ RETENTION; therefore, affected patients have acute respiratory acidosis (low pH and PaCO₂ >40 mm Hg). Because full metabolic compensation by the kidneys (ie, HCO₃⁻ retention) requires approximately 72 hours, there is minimal compensation in the acute setting, and the expected serum HCO₃⁻ is near normal (24 mEq/L).\n\nThe alveolar-arterial (A-a) O₂ gradient {{exhibit_2}} is the difference between the partial pressure of alveolar oxygen (PAO₂) and the partial pressure of arterial oxygen (PaO₂); it represents the efficiency of gas transfer between the lungs and the circulation. A SMALL GRADIENT (eg, 4-15 mm Hg) is NORMAL in part because there is physiologic shunting of unoxygenated bronchial blood, which decreases PaO₂. In addition to CO₂ retention, hypoventilation also causes low PaO₂ that leads directly to hypoxemia (PaO₂ <75 mm Hg). The efficiency of gas transfer is intact and a NORMAL A-a O₂ GRADIENT is expected.\n\n(Choice A) PaCO₂ <40 mm Hg indicates respiratory alkalosis. Respiratory alkalosis (ie, hyperventilation) with hypoxemia and a normal A-a O₂ gradient is expected at high altitude. The efficiency of gas transfer is intact, but low partial pressure of inspired oxygen (PiO₂) causes low PAO₂.\n\n(Choice B) Respiratory alkalosis with hypoxemia and an elevated A-a O₂ gradient is expected with lung pathology that causes V/Q mismatch (eg, pulmonary embolism and pneumonia).\n\n(Choices C and E) Respiratory acidosis with hypoxemia and an elevated A-a O₂ gradient is expected with chronic obstructive pulmonary disease. These patients have chronic CO₂ retention, and O₂ exchange is impaired by emphysematous disruption of gas diffusion across the alveolar-capillary membrane. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}}",
+    "zh": "该患者患有苯二氮卓类药物急性过量。苯二氮卓类药物（例如，阿普唑仑、劳拉西泮）会导致镇静和中枢性呼吸抑制，伴有通气不足和CO₂潴留；因此，受影响的患者会出现急性呼吸性酸中毒（pH 值低，PaCO₂ >40 mm Hg）。由于肾脏完全代谢性代偿（即，HCO₃⁻潴留）大约需要 72 小时，因此在急性情况下代偿很小，预期的血清 HCO₃⁻ 接近正常（24 mEq/L）。\n\n肺泡-动脉 (A-a) O₂ 梯度 {{exhibit_2}} 是肺泡氧分压 (PAO₂) 和动脉氧分压 (PaO₂) 之间的差值；它代表了肺部和循环系统之间气体交换的效率。一个小的梯度（例如，4-15 mm Hg）是正常的，部分原因是存在未氧合的支气管血的生理分流，这降低了 PaO₂。除了 CO₂ 潴留外，通气不足还会导致 PaO₂ 降低，从而直接导致低氧血症（PaO₂ <75 mm Hg）。气体交换的效率是完整的，并且预期 A-a O₂ 梯度正常。\n\n（选项A）PaCO₂ <40 mm Hg 表明呼吸性碱中毒。在高海拔地区，预计会出现呼吸性碱中毒（即，过度通气），伴有低氧血症和正常的 A-a O₂ 梯度。气体交换的效率是完整的，但吸入氧分压 (PiO₂) 降低导致 PAO₂ 降低。\n\n（选项B）对于导致 V/Q 失配（例如，肺栓塞和肺炎）的肺部病理，预计会出现呼吸性碱中毒，伴有低氧血症和升高的 A-a O₂ 梯度。\n\n（选项 C 和 E）对于慢性阻塞性肺病，预计会出现呼吸性酸中毒，伴有低氧血症和升高的 A-a O₂ 梯度。这些患者存在慢性 CO₂ 潴留，并且通过肺气肿破坏跨肺泡毛细血管膜的气体扩散而损害了 O₂ 交换。{{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}}"
+  },
+  "summary": {
+    "en": "This question tests the ability to interpret arterial blood gas results in the context of a drug overdose, specifically benzodiazepine overdose, and its effect on respiratory function. It requires understanding of hypoventilation, CO2 retention, and the alveolar-arterial oxygen gradient.\n\nTo solve this question, recognize the clinical scenario of benzodiazepine overdose leading to hypoventilation. This results in respiratory acidosis (elevated PaCO2) and hypoxemia (low PaO2) with a normal alveolar-arterial oxygen gradient due to intact gas exchange efficiency.",
+    "zh": "本题考察了在药物过量的背景下，特别是苯二氮卓类药物过量的背景下，解读动脉血气结果以及其对呼吸功能的影响的能力。它需要理解通气不足、CO2 潴留和肺泡-动脉氧梯度。\n\n要解决这个问题，需要认识到苯二氮卓类药物过量导致通气不足的临床情况。这会导致呼吸性酸中毒（PaCO2 升高）和低氧血症（PaO2 低），并且由于气体交换效率完整，肺泡-动脉氧梯度正常。"
+  },
+  "tags": "Benzodiazepine overdose; Respiratory acidosis; Hypoventilation; Arterial blood gas; Alveolar-arterial gradient; Toxicology; Emergency medicine; Pulmonary medicine",
+  "category": "Chest",
+  "question_id": "19075",
+  "has_exhibits": true,
+  "exhibit_count": 7,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\19075",
+  "extracted_at": "2025-11-05T11:42:00.056232",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:37:12.597638",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

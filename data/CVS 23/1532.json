@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old man comes to the office due to exertional dyspnea that has been progressively worsening over the last 3 weeks. He sleeps in a recliner with his head elevated because he gets short of breath when lying flat in bed. Medical history includes gout, dyslipidemia, and hypertension. Blood pressure is 154/89 mm Hg and pulse is 85/min. Physical examination shows distended jugular veins in the semi-recumbent position. An apical heave is present on cardiac examination. There is pitting edema in the bilateral lower extremities. Levels of which of the following substances will be higher in the pulmonary vein compared to the pulmonary artery in this patient? {{exhibit_1}}",
+    "zh": "一名63岁的男性因劳力性呼吸困难来就诊，该症状在过去3周内逐渐恶化。他需要侧卧在躺椅上睡觉，头部抬高，因为他平躺在床上时会感到呼吸短促。病史包括痛风、血脂异常和高血压。血压为154/89 mmHg，脉搏为85次/分钟。体格检查显示半卧位时颈静脉扩张。心脏检查显示心尖搏动增强。双下肢存在凹陷性水肿。与该患者的肺动脉相比，下列哪种物质在肺静脉中的水平会更高？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Levels of which of the following substances will be higher in the pulmonary vein compared to the pulmonary artery in this patient?",
+    "zh": "与该患者的肺动脉相比，下列哪种物质在肺静脉中的水平会更高？"
+  },
+  "options": {
+    "A": {
+      "en": "Aldosterone",
+      "zh": "醛固酮"
+    },
+    "B": {
+      "en": "Angiotensin I",
+      "zh": "血管紧张素I"
+    },
+    "C": {
+      "en": "Angiotensin II",
+      "zh": "血管紧张素II"
+    },
+    "D": {
+      "en": "Angiotensinase",
+      "zh": "血管紧张素酶"
+    },
+    "E": {
+      "en": "Angiotensinogen",
+      "zh": "血管紧张素原"
+    },
+    "F": {
+      "en": "Arginine vasopressin",
+      "zh": "精氨酸加压素"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The patient's exertional dyspnea, orthopnea (dyspnea when lying flat), jugular venous distension, cardiac heave, and peripheral edema are consistent with DECOMPENSATED HEART FAILURE. The decreased cardiac output in heart failure reduces renal perfusion, which stimulates RENIN SECRETION by the juxtaglomerular cells of the kidney {{exhibit_2}} in a maladaptive effort to maintain effective blood volume and organ perfusion.\n\nRenin acts to convert angiotensinogen (produced by the liver) into angiotensin I in the systemic circulation (Choices B and E). Angiotensin I is then converted to ANGIOTENSIN II, primarily within the SMALL PULMONARY VESSELS, by endothelial-bound angiotensin-converting enzyme. Because of the pulmonary location of angiotensin conversion, levels of Angiotensin II are HIGHER in the PULMONARY VEIN (on the way out of the lungs) than in the pulmonary artery (on the way into the lungs).\n\nAngiotensin II is a potent vasoconstrictor of the systemic circulation and causes a rise in blood pressure (increased afterload) that worsens cardiac output. It also acts on the adrenal glands to stimulate aldosterone release, causing sodium retention and further worsening of volume overload (Choice A).\n\n(Choice D) The angiotensinases are a group of enzymes found in multiple tissues and are responsible for the breakdown of angiotensin II and other structurally similar enzymes.\n\n(Choice F) Arginine vasopressin (antidiuretic hormone) is released from the posterior pituitary in response to high serum osmolality or decreased arterial blood volume. Because reduced cardiac output causes the body to perceive hypovolemia, antidiuretic hormone secretion is typically increased in heart failure.\n\n(Choice G) Prostaglandins are produced in multiple cell types, including endothelial cells, mast cells, and macrophages. Prostaglandin E1 is a potent vasodilator that maintains patency of the ductus arteriosus and causes afferent arteriolar vasodilation in the kidneys.\n\nEducational objective:\nThe reduced cardiac output in heart failure leads to decreased renal perfusion and consequent stimulation of the renin-angiotensin-aldosterone system in a maladaptive effort to maintain effective blood volume. Inactive angiotensin I is converted into active angiotensin II by endothelial-bound angiotensin-converting enzyme in the lungs.",
+    "zh": "患者的劳力性呼吸困难、端坐呼吸（平躺时呼吸困难）、颈静脉扩张、心脏抬举和周围水肿与失代偿性心力衰竭一致。心力衰竭时心输出量降低会减少肾脏灌注，从而刺激肾脏的肾小球旁细胞分泌肾素{{exhibit_2}}，这是一种适应不良的努力，以维持有效的血容量和器官灌注。\n\n肾素的作用是将血管紧张素原（由肝脏产生）转化为循环系统的血管紧张素I（选项B和E）。然后，血管紧张素I主要在小的肺血管内，由内皮结合的血管紧张素转换酶转化为血管紧张素II。由于血管紧张素转换的肺部位置，血管紧张素II的水平在肺静脉（离开肺部）中比在肺动脉（进入肺部）中更高。\n\n血管紧张素II是全身循环的有效血管收缩剂，导致血压升高（后负荷增加），从而使心输出量恶化。它还会作用于肾上腺，刺激醛固酮释放，导致钠潴留，并进一步加剧容量超负荷（选项A）。\n\n（选项D）血管紧张素酶是一组存在于多种组织中的酶，负责分解血管紧张素II和其他结构相似的酶。\n\n（选项F）精氨酸加压素（抗利尿激素）由垂体后叶释放，以响应高血清渗透压或动脉血容量减少。由于心输出量减少会导致身体感知到血容量不足，心力衰竭时抗利尿激素的分泌通常会增加。\n\n（选项G）前列腺素由多种细胞类型产生，包括内皮细胞、肥大细胞和巨噬细胞。前列腺素E1是一种有效的血管舒张剂，可维持动脉导管的开放，并导致肾脏的传入小动脉舒张。\n\n教育目标：\n心力衰竭时心输出量减少会导致肾脏灌注减少，并因此刺激肾素-血管紧张素-醛固酮系统，这是一种适应不良的努力，以维持有效的血容量。无活性的血管紧张素I通过肺部的内皮结合血管紧张素转换酶转化为活性血管紧张素II。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the renin-angiotensin-aldosterone system (RAAS) and its role in heart failure, specifically focusing on the location of angiotensin II conversion and its concentration differences in the pulmonary circulation.\n\nTo solve this question, understand the RAAS pathway, the location of angiotensin-converting enzyme (ACE) in the pulmonary vessels, and how this affects the concentration of angiotensin II in the pulmonary vein compared to the pulmonary artery.",
+    "zh": "本题考察对肾素-血管紧张素-醛固酮系统（RAAS）及其在心力衰竭中的作用的了解，特别关注血管紧张素II的转换位置及其在肺循环中的浓度差异。\n\n要解决这个问题，需要了解RAAS通路、血管紧张素转换酶（ACE）在肺血管中的位置，以及这如何影响血管紧张素II在肺静脉中的浓度与肺动脉的比较。"
+  },
+  "tags": "Renin-angiotensin-aldosterone system; Heart failure; Angiotensin II; Pulmonary circulation; ACE inhibitors; Fluid overload; Vasoconstriction",
+  "category": "CVS",
+  "question_id": "1532",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1532",
+  "extracted_at": "2025-11-05T11:58:35.844703",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:48:55.107426",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

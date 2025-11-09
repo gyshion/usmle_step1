@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "Once the patient recovers from his acute illness, *Candida* antigen injection into his skin reveals no signs of inflammation after 48 hours. The same test performed in his mother produces 12 mm of skin induration within 48 hours.",
+    "zh": "一旦患者从急性疾病中恢复，将*白色念珠菌*抗原注射到他的皮肤中，48小时后未显示炎症迹象。对他的母亲进行相同的测试，在48小时内产生12毫米的皮肤硬结。"
+  },
+  "question": {
+    "en": "Which of the following cells are directly involved in the effector response observed in the mother?",
+    "zh": "以下哪种细胞直接参与在母亲身上观察到的效应反应？"
+  },
+  "options": {
+    "A": {
+      "en": "B lymphocytes and CD4 T lymphocytes",
+      "zh": "B淋巴细胞和CD4 T淋巴细胞"
+    },
+    "B": {
+      "en": "B lymphocytes and CD8 T lymphocytes",
+      "zh": "B淋巴细胞和CD8 T淋巴细胞"
+    },
+    "C": {
+      "en": "CD4 T lymphocytes and fibroblasts",
+      "zh": "CD4 T淋巴细胞和成纤维细胞"
+    },
+    "D": {
+      "en": "CD4 T lymphocytes and macrophages",
+      "zh": "CD4 T淋巴细胞和巨噬细胞"
+    },
+    "E": {
+      "en": "CD8 T lymphocytes and eosinophils",
+      "zh": "CD8 T淋巴细胞和嗜酸性粒细胞"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Intradermal injection of *Candida* antigens triggers a type IV (delayed) hypersensitivity reaction, which allows evaluation of the cell-mediated immune response. {{exhibit_1}}\n\nInjected *Candida* antigens are taken up by cutaneous antigen presenting cells (APCs), which display the antigens on major histocompatibility complex class II molecules to naive CD4 cells. These cells are then induced to differentiate into type I helper (Th1) cells that secrete tumor necrosis factor and interferon-gamma, which recruit and activate macrophages. The macrophages phagocytose *Candida* antigens and secrete additional inflammatory mediators, producing a cutaneous inflammatory response that appears as an indurated wheal within 24-48 hours.\n\nBecause exposure to *Candida* is ubiquitous, all healthy patients have memory T-cells against *Candida*. Failure to generate an appropriate cutaneous response indicates that the cell-mediated immune response is impaired (ie, T-cell anergy). Patients with SCID have T-cell dysfunction; therefore, they will show anergy in response to *Candida* challenge.\n\n(Choices A and B) B lymphocytes produce antibodies and are the main effectors of humoral immunity. Antibodies play a prominent role in type I (IgE-mediated), type II (eg, drug-induced hemolytic anemia), and type III (eg, serum sickness) hypersensitivity reactions (but not type IV reactions).\n\n(Choices C and E) Eosinophils and fibroblasts are not involved in type IV hypersensitivity reactions. Eosinophils are part of the innate immune system and are increased with atopic or parasitic diseases. Fibroblasts are found in connective tissue and are integral in wound healing through the production of extracellular matrix and collagen.\n\nEducational objective:\nThe *Candida* antigen skin test assesses the activity of cell-mediated immunity because it requires an intact CD4 cell response. Failure to respond to candida antigen testing is typical in patients with severe combined immunodeficiency.",
+    "zh": "将*白色念珠菌*抗原皮内注射可触发IV型（迟发型）超敏反应，从而可以评估细胞介导的免疫反应。 {{exhibit_1}}\n\n注射的*白色念珠菌*抗原被皮肤抗原呈递细胞（APC）摄取，这些细胞将抗原呈递在主要组织相容性复合体II类分子上，从而呈递给幼稚的CD4细胞。然后诱导这些细胞分化为I型辅助（Th1）细胞，分泌肿瘤坏死因子和干扰素-γ，募集和激活巨噬细胞。巨噬细胞吞噬*白色念珠菌*抗原并分泌额外的炎症介质，产生皮肤炎症反应，在24-48小时内表现为硬结性风团。\n\n由于接触*白色念珠菌*无处不在，所有健康患者都具有针对*白色念珠菌*的记忆T细胞。未能产生适当的皮肤反应表明细胞介导的免疫反应受损（即，T细胞无反应性）。患有SCID的患者有T细胞功能障碍；因此，他们对*白色念珠菌*激发将表现出无反应性。\n\n（选项A和B）B淋巴细胞产生抗体，是体液免疫的主要效应细胞。抗体在I型（IgE介导的）、II型（如，药物引起的溶血性贫血）和III型（如，血清病）超敏反应中起重要作用（但不是IV型反应）。\n\n（选项C和E）嗜酸性粒细胞和成纤维细胞不参与IV型超敏反应。嗜酸性粒细胞是先天免疫系统的一部分，在异位性或寄生虫病中会增加。成纤维细胞存在于结缔组织中，通过产生细胞外基质和胶原蛋白而成为伤口愈合的组成部分。\n\n教育目标：\n*白色念珠菌*抗原皮肤试验评估细胞介导的免疫的活性，因为它需要完整的CD4细胞反应。对白色念珠菌抗原测试无反应是患有严重联合免疫缺陷患者的典型表现。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of type IV hypersensitivity reactions, specifically the mechanism of the *Candida* skin test and the cells involved in the effector response. It assesses understanding of cell-mediated immunity and the role of CD4 T lymphocytes and macrophages.\n\nTo solve this question, recognize that the *Candida* skin test is a type IV hypersensitivity reaction. Recall that this type of reaction involves CD4 T lymphocytes activating macrophages, leading to induration. Eliminate options involving B lymphocytes, eosinophils, and fibroblasts, as they are not primary effectors in this reaction.",
+    "zh": "此题考察对IV型超敏反应的知识，特别是*白色念珠菌*皮肤试验的机制以及参与效应反应的细胞。它评估对细胞介导免疫以及CD4 T淋巴细胞和巨噬细胞作用的理解。\n\n要解决这个问题，首先要认识到*白色念珠菌*皮肤试验是一种IV型超敏反应。回想一下，这种类型的反应涉及CD4 T淋巴细胞激活巨噬细胞，从而导致硬结。排除涉及B淋巴细胞、嗜酸性粒细胞和成纤维细胞的选项，因为它们不是此反应中的主要效应细胞。"
+  },
+  "tags": "Type IV hypersensitivity; Candida; Cell-mediated immunity; CD4 T lymphocytes; Macrophages; Immunology; Allergy and Immunology; Hypersensitivity reactions",
+  "category": "Immunology",
+  "question_id": "2079",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\2079",
+  "extracted_at": "2025-11-05T14:44:17.186401",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:01:50.694535",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

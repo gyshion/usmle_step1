@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "Foreign antigen recognition at the cell surface by cytotoxic T-lymphocytes stimulates a response that results in rapid cell death.",
+    "zh": "细胞毒性 T 淋巴细胞在细胞表面识别外来抗原会刺激反应，导致细胞快速死亡。"
+  },
+  "question": {
+    "en": "Which of the following act as effectors of this response?",
+    "zh": "下列哪一项充当此反应的效应物？"
+  },
+  "options": {
+    "A": {
+      "en": "Matrix metalloproteinases",
+      "zh": "基质金属蛋白酶"
+    },
+    "B": {
+      "en": "Acid hydrolases",
+      "zh": "酸性水解酶"
+    },
+    "C": {
+      "en": "Caspases",
+      "zh": "半胱天冬酶"
+    },
+    "D": {
+      "en": "Phospholipase A₂",
+      "zh": "磷脂酶 A₂"
+    },
+    "E": {
+      "en": "Protein kinase A",
+      "zh": "蛋白激酶 A"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The two primary modes of cell death are necrosis (which is induced by injury) and apoptosis (which is initiated by the host organism in response to cell damage, age-related atrophy, or specific stages of embryogenesis). Apoptosis is helpful in the elimination of cells that are no longer necessary and in the maintenance of a constant number of cells in rapidly growing tissues. Tumor cells, for example, die by apoptosis. The death of B and T lymphocytes and virally-infected cells also occurs through apoptosis. The remains of cells that die by this method are phagocytized by macrophages.\n\nThe process of apoptosis involves the following steps:\n\n1.  Initiation: Apoptosis is triggered by different stimuli and can occur through either the intrinsic, mitochondria-mediated pathway or the extrinsic, receptor-initiated pathway. Cells damaged by ultraviolet light, heat, hypoxia, toxins, or radiation display intrinsic apoptotic signals (eg, phosphatidylserine or thrombospondin) on their plasma membranes. Extrinsic apoptosis, in contrast, is induced by the tumor necrosis factor (TNF) when bound to tumor necrosis factor receptor 1 (TNFR1) or the Fas ligand when bound to cell surface receptor Fas.\n2.  Control: Intrinsic apoptosis is mediated by a group of bcl-2 proteins. Some of the components of this system are pro-apoptotic (eg, Bax, Bak, and Bim proteins), while others are anti-apoptotic (eg, Bcl-x and Bcl-2 proteins). Apoptotic signals tip the balance between these two forces, resulting in changes of the inner mitochondrial membrane. These changes are responsible for the formation of the mitochondrial permeability transition (MPT) and the release of cytochrome c and other pro-apoptotic proteins into the cytoplasm, which then activate caspases. In extrinsic apoptosis, the binding of the death ligand and the death receptor allows for pro-caspase molecules to be brought into close proximity.\n3.  Destruction: Both the intrinsic and extrinsic pathways converge at this step, resulting in CASPASE ACTIVATION. Caspases are proteolytic enzymes that destroy cell components. They contain cysteine and are able to cleave aspartic acid residues (cysteine-aspartic-acid-proteases). The eleven caspases that have been identified are classified as either initiator or effector caspases. Initiator caspases activate the effector caspases, which then cleave the cellular proteins.\n\n(Choice A) Metalloproteinases are zinc-containing enzymes that degrade the components of the extracellular matrix (eg, collagen, laminin, fibronectin). Metalloproteinases are essential for proper tissue remodeling during wound healing.\n\n(Choice B) Acid hydrolases do not participate in apoptosis.\n\n(Choice D) Phospholipase A₂ does not participate in apoptosis.\n\n(Choice E) Protein kinase A is a component of the cAMP-associated signaling system. The binding of a ligand to a G-protein-linked receptor results in adenylyl cyclase activation and the release of cAMP. Elevated levels of cAMP activate protein kinase A.\n\nEducational Objective:\n\nApoptosis can occur through either the intrinsic (mitochondria-mediated) pathway or the extrinsic (receptor-initiated) pathway. Both pathways converge in the activation of caspases. Caspases are proteolytic enzymes that cleave cellular proteins.",
+    "zh": "细胞死亡的两种主要模式是坏死（由损伤引起）和凋亡（由宿主生物体响应细胞损伤、年龄相关性萎缩或胚胎发生的特定阶段而启动）。凋亡有助于消除不再需要的细胞，并维持快速生长组织中细胞数量的恒定性。例如，肿瘤细胞通过凋亡死亡。B 淋巴细胞和 T 淋巴细胞以及病毒感染细胞的死亡也通过凋亡发生。通过这种方法死亡的细胞的残余物会被巨噬细胞吞噬。\n\n凋亡过程涉及以下步骤：\n\n1.  启动：凋亡由不同的刺激触发，并且可以通过内在的、线粒体介导的途径或外在的、受体启动的途径发生。受紫外线、热、缺氧、毒素或辐射损伤的细胞在其质膜上显示内在凋亡信号（例如，磷脂酰丝氨酸或血小板反应蛋白）。相比之下，外在凋亡是由肿瘤坏死因子（TNF）与肿瘤坏死因子受体 1 (TNFR1) 结合或 Fas 配体与细胞表面受体 Fas 结合诱导的。\n2.  控制：内在凋亡由一组 bcl-2 蛋白介导。该系统的一些组成部分是促凋亡的（例如，Bax、Bak 和 Bim 蛋白），而另一些是抗凋亡的（例如，Bcl-x 和 Bcl-2 蛋白）。凋亡信号改变了这两种力量之间的平衡，导致线粒体内膜的变化。这些变化负责线粒体通透性转变 (MPT) 的形成以及细胞色素 c 和其他促凋亡蛋白释放到细胞质中，然后激活半胱天冬酶。在外在凋亡中，死亡配体和死亡受体的结合使得前半胱天冬酶分子能够被带到靠近。\n3.  破坏：内在途径和外在途径都在此步骤中汇聚，导致半胱天冬酶激活。半胱天冬酶是破坏细胞成分的蛋白水解酶。它们含有半胱氨酸，并且能够切割天冬氨酸残基（半胱氨酸-天冬氨酸-蛋白酶）。已鉴定的十一种半胱天冬酶被归类为起始半胱天冬酶或效应半胱天冬酶。起始半胱天冬酶激活效应半胱天冬酶，然后效应半胱天冬酶切割细胞蛋白。\n\n（选项 A）金属蛋白酶是含锌酶，可降解细胞外基质的成分（例如，胶原蛋白、层粘连蛋白、纤连蛋白）。金属蛋白酶对于伤口愈合过程中适当的组织重塑至关重要。\n\n（选项 B）酸性水解酶不参与凋亡。\n\n（选项 D）磷脂酶 A₂ 不参与凋亡。\n\n（选项 E）蛋白激酶 A 是 cAMP 相关信号传导系统的一个组成部分。配体与 G 蛋白偶联受体的结合导致腺苷酸环化酶激活和 cAMP 的释放。升高的 cAMP 水平激活蛋白激酶 A。\n\n教育目标：\n\n凋亡可以通过内在（线粒体介导）途径或外在（受体启动）途径发生。这两种途径都汇聚于半胱天冬酶的激活。半胱天冬酶是切割细胞蛋白的蛋白水解酶。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of apoptosis, specifically the role of caspases in the destruction phase of both intrinsic and extrinsic apoptotic pathways. It also tests understanding of the function of other enzymes and signaling molecules and their lack of involvement in apoptosis.\n\nTo solve this question, recall the key steps of apoptosis, particularly the activation of caspases as the final executioners. Eliminate options that are not directly involved in the apoptotic process, such as matrix metalloproteinases, acid hydrolases, and protein kinases.",
+    "zh": "这个问题考察了对凋亡机制的了解，特别是半胱天冬酶在内在和外在凋亡途径的破坏阶段中的作用。它还考察了对其他酶和信号分子功能的理解，以及它们未参与凋亡。\n\n要解决这个问题，请回忆凋亡的关键步骤，特别是半胱天冬酶作为最终执行者的激活。排除那些与凋亡过程没有直接关系的选项，例如基质金属蛋白酶、酸性水解酶和蛋白激酶。"
+  },
+  "tags": "Apoptosis; Caspases; Cell death; Intrinsic pathway; Extrinsic pathway; Immunology; Biochemistry",
+  "category": "Bio",
+  "question_id": "1756",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1756",
+  "extracted_at": "2025-11-05T11:12:47.185280",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:22:02.287324",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

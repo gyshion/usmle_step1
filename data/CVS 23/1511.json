@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old man undergoes an elective surgery under general anesthesia. Two hours into the surgery, his left ventricular pressure-volume loop has changed from the solid line to the dashed line, as shown in the image below {{exhibit_1}} (the loop is unchanged in areas where there is no dashed line):",
+    "zh": "一名55岁男性在全身麻醉下接受择期手术。手术进行到2小时时，他的左心室压力-容积环从实线变为虚线，如下图{{exhibit_1}}所示（在没有虚线的区域，环保持不变）："
+  },
+  "question": {
+    "en": "Which of the following is most likely responsible for this patient's hemodynamic change?",
+    "zh": "以下哪项最有可能导致该患者的血流动力学变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Abdominal aorta clamping",
+      "zh": "腹主动脉钳夹"
+    },
+    "B": {
+      "en": "Blood volume loss",
+      "zh": "血容量减少"
+    },
+    "C": {
+      "en": "Dobutamine administration",
+      "zh": "多巴酚丁胺给药"
+    },
+    "D": {
+      "en": "Myocardial infarction",
+      "zh": "心肌梗死"
+    },
+    "E": {
+      "en": "Normal saline infusion",
+      "zh": "生理盐水输注"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The left ventricular (LV) pressure-volume loop in this patient shows a rightward shift in end-diastolic volume (point 1), indicating increased preload, which occurs with infusion of normal saline or other causes of increased blood volume (eg, blood transfusion, renal failure). Following the Frank-Starling law, the increased LV stretch from increased preload leads to increased stroke volume (the horizontal distance between points 1 and 3) and a slight increase in afterload (ie, the peak LV pressure reached during blood ejection). Contractility is unchanged.\n\n(Choice A) Clamping of the abdominal aorta increases aortic pressure to increase afterload. Stroke volume decreases because the left ventricle is unable to eject as much blood against the increased aortic pressure. Preload is unchanged.\n\n(Choice B) Blood loss decreases intravascular volume and leads to decreasec preload. The decreased preload causes reduced stroke volume and a slight decrease in afterload (Frank-Starling).\n\n(Choice C) Dobutamine primarily acts as a beta 1 receptor agonist and stimulates increased contractility. The increased contractility increases stroke volume and leads to a slight increase in afterload; preload is not increased.\n\n(Choice D) Acute myocardial infarction disrupts myocardial function and often decreases contractility. The decreased contractility decreases stroke volume and causes a slight decrease in afterload. Preload is unchanged initially but is likely to increase if the decrease in contractility is sustained.\n\nEducational objective:\nA rightward shift of the bottom right corner (point 1) of the left ventricular (LV) pressure volume loop indicates increased end-diastolic volume or preload, which occurs with infusion of normal saline. The increased preload causes increased LV stretching and leads to increased stroke volume and a slight increase in afterload (Frank-Starling law).",
+    "zh": "该患者的左心室（LV）压力-容积环显示舒张末期容积向右移位（点1），表明前负荷增加，这发生于输注生理盐水或其他导致血容量增加的原因（例如，输血、肾衰竭）。根据Frank-Starling定律，前负荷增加导致LV扩张增加，进而导致每搏输出量增加（点1和3之间的水平距离）和后负荷略有增加（即，血液射血期间达到的LV峰值压力）。收缩力保持不变。\n\n（选项A）腹主动脉钳夹增加主动脉压力以增加后负荷。每搏输出量减少，因为左心室无法对抗增加的主动脉压力射出更多血液。前负荷保持不变。\n\n（选项B）失血减少血管内容量，导致前负荷降低。前负荷降低导致每搏输出量减少和后负荷略有降低（Frank-Starling定律）。\n\n（选项C）多巴酚丁胺主要作为β1受体激动剂，刺激收缩力增加。收缩力增加会增加每搏输出量，并导致后负荷略有增加；前负荷没有增加。\n\n（选项D）急性心肌梗死破坏心肌功能，并经常降低收缩力。收缩力降低会降低每搏输出量，并导致后负荷略有降低。前负荷最初保持不变，但如果收缩力的降低持续存在，则可能会增加。\n\n教育目的：左心室（LV）压力-容积环的右下角（点1）向右移位表明舒张末期容积或前负荷增加，这发生于输注生理盐水时。前负荷增加导致LV扩张增加，并导致每搏输出量增加和后负荷略有增加（Frank-Starling定律）。"
+  },
+  "summary": {
+    "en": "This question tests the interpretation of left ventricular pressure-volume loops and the effects of various interventions on preload, afterload, and contractility. Understanding the Frank-Starling mechanism is crucial for answering this question.\n\nTo solve this question, analyze the changes in the pressure-volume loop, specifically the rightward shift indicating increased preload. Then, consider which intervention would most likely cause an increase in preload, such as normal saline infusion.",
+    "zh": "此题考察左心室压力-容积环的解读以及各种干预措施对前负荷、后负荷和收缩力的影响。理解Frank-Starling机制对于回答此题至关重要。\n\n要解决此题，请分析压力-容积环的变化，特别是表明前负荷增加的右移。然后，考虑哪种干预措施最有可能导致前负荷增加，例如生理盐水输注。"
+  },
+  "tags": "Left ventricular pressure-volume loop; Preload; Afterload; Contractility; Frank-Starling mechanism; Normal saline infusion; Hemodynamics; Cardiac physiology",
+  "category": "CVS",
+  "question_id": "1511",
+  "has_exhibits": true,
+  "exhibit_count": 7,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1511",
+  "extracted_at": "2025-11-05T11:56:35.416504",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:46:35.787538",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

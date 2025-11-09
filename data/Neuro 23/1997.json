@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 46-year-old man is brought to the emergency department due to worsening blurry vision, difficulty swallowing, and dry mouth for the past hour. The patient has also been having nausea and abdominal discomfort but no headache or fever. He has no prior medical conditions and takes no medications. The patient has not traveled recently, but he attended a community potluck event yesterday where he sampled home-canned foods. Physical examination shows bilateral ptosis and sluggish pupillary response. {{exhibit_1}}",
+    "zh": "一名46岁男性因视力模糊加重、吞咽困难和口干在过去一小时内被送往急诊科。患者还出现恶心和腹部不适，但无头痛或发热。他既往没有疾病史，也没有服用药物。患者最近没有旅行，但他昨天参加了一个社区聚餐活动，在那里他品尝了自制罐头食品。体格检查显示双侧眼睑下垂和瞳孔反应迟钝。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following steps in neuromuscular transmission is most likely affected in this patient?",
+    "zh": "该患者的神经肌肉传递过程中，最有可能受到影响的步骤是？"
+  },
+  "options": {
+    "A": {
+      "en": "Synthesis of acetylcholine in the neuron",
+      "zh": "神经元内乙酰胆碱的合成"
+    },
+    "B": {
+      "en": "Uptake of choline into the cell",
+      "zh": "胆碱进入细胞"
+    },
+    "C": {
+      "en": "Choline acetyltransferase synthesizes acetylcholine from acetate and choline",
+      "zh": "胆碱乙酰转移酶由乙酸盐和胆碱合成乙酰胆碱"
+    },
+    "D": {
+      "en": "Presynaptic exocytosis of acetylcholine vesicles",
+      "zh": "乙酰胆碱囊泡的突触前胞吐作用"
+    },
+    "E": {
+      "en": "Acetylcholinesterase inhibitors prevent acetylcholine breakdown",
+      "zh": "乙酰胆碱酯酶抑制剂阻止乙酰胆碱分解"
+    },
+    "F": {
+      "en": "Anticholinergic poisoning due to competitive antagonists of muscarinic acetylcholine receptors",
+      "zh": "因毒蕈碱型乙酰胆碱受体竞争性拮抗剂引起的抗胆碱能中毒"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with gastrointestinal discomfort has manifestations of both nicotinic and muscarinic blockade (e.g., dysphagia, ptosis) and muscarinic blockade (e.g., dry mouth) that developed after he ate home-canned food. This is strongly suggestive of food poisoning with CLOSTRIDIUM BOTULINUM toxin, a preformed neurotoxin. Botulism characteristically presents as a symmetric descending paralysis that first manifests with cranial nerve abnormalities (diplopia, dysphagia, dysphonia [3Ds]). Nausea, vomiting, and abdominal pain may also occur in foodborne botulism, which classically occurs 12-36 hours after consumption of contaminated foods that are fermented, preserved, or canned improperly at home.\n\nBotulinum toxin causes disease by inhibiting nicotinic and muscarinic motor neurons. It enters the nerve terminals through endocytosis, where it prevents binding and fusion of acetylcholine-containing synaptic vesicles with the plasma membrane through the destruction of SNARE proteins. This effectively blocks ACh release into the synapse. Botulinum toxin is highly potent; a very small quantity can be lethal without ventilatory support. The toxin is heat labile, so disease can be prevented by thoroughly heating food prior to consumption. {{exhibit_2}}\n\n(Choices A, B, and C) The synthesis of acetylcholine in the neuron requires uptake of choline into the cell; then choline acetyltransferase synthesizes ACh from acetate and choline. ACh is subsequently transported into secretory vesicles in preparation for secretion. These steps are not impacted by botulinum toxin.\n\n(Choice E) Acetylcholinesterase inhibitors such as organophosphates, which are commonly used as insecticides, prevent ACh breakdown. Manifestations of organophosphate poisoning reflect depolarizing blockade (eg, muscle weakness, fasciculations, paralysis). CNS effects (eg, lethargy, seizures), and muscarinic overstimulation (eg, miosis, bradycardia, increased lacrimation and salivation).\n\n(Choice F) Anticholinergic poisoning due to competitive antagonists of muscarinic ACh receptors (eg, atropine, scopolamine) is relatively common and can manifest as cutaneous vasodilation, anhidrosis, hyperthermia, mydriasis, and delirium. However, these agents have no effect on the nicotinic ACh receptors controlling voluntary muscles. Poisoning due to nicotinic receptor antagonists (eg, pancuronium, tubocurarine) is uncommon because these agents have poor oral absorption.\n\nEducational objective:\nBotulinum toxin blocks the presynaptic exocytosis of ACh vesicles, causing impaired muscarinic and nicotinic neurotransmission. It characteristically presents as a symmetric descending paralysis that manifests with cranial nerve abnormalities, often following consumption of home-canned foods. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "这位出现胃肠道不适的患者表现出烟碱型和毒蕈碱型阻滞（如吞咽困难、眼睑下垂）以及毒蕈碱型阻滞（如口干），这些症状是在他吃了自制罐头食品后出现的。这强烈提示为肉毒梭菌毒素引起的食物中毒，这是一种预先形成的神经毒素。肉毒杆菌中毒的典型表现是对称性下降性麻痹，最初表现为颅神经异常（复视、吞咽困难、发音障碍 [3Ds]）。在食源性肉毒杆菌中毒中，也可能出现恶心、呕吐和腹痛，这通常发生在食用受污染的食物后12-36小时，这些食物是在家中发酵、腌制或罐装不当的。\n\n肉毒杆菌毒素通过抑制烟碱型和毒蕈碱型运动神经元引起疾病。它通过内吞作用进入神经末梢，在那里，它通过破坏SNARE蛋白来阻止含有乙酰胆碱的突触小泡与质膜的结合和融合。这有效地阻断了ACh释放到突触中。肉毒杆菌毒素具有很强的毒性；在没有呼吸支持的情况下，非常少量的毒素就可能是致命的。该毒素对热不稳定，因此可以通过在食用前彻底加热食物来预防疾病。{{exhibit_2}}\n\n（选项A、B和C）神经元中乙酰胆碱的合成需要胆碱进入细胞；然后胆碱乙酰转移酶由乙酸盐和胆碱合成ACh。随后，ACh被转运到分泌小泡中，为分泌做准备。这些步骤不受肉毒杆菌毒素的影响。\n\n（选项E）乙酰胆碱酯酶抑制剂，如通常用作杀虫剂的有机磷酸盐，可阻止ACh分解。有机磷中毒的表现反映去极化阻滞（如肌肉无力、肌束震颤、麻痹）。中枢神经系统影响（如嗜睡、癫痫发作），以及毒蕈碱型过度刺激（如瞳孔缩小、心动过缓、流泪和唾液分泌增加）。\n\n（选项F）由于毒蕈碱型ACh受体竞争性拮抗剂（如阿托品、东莨菪碱）引起的抗胆碱能中毒相对常见，并且可表现为皮肤血管舒张、无汗症、高热、瞳孔散大和谵妄。然而，这些药物对控制随意肌的烟碱型ACh受体没有影响。由于烟碱型受体拮抗剂（如泮库溴铵、筒箭毒碱）引起的中毒并不常见，因为这些药物的口服吸收较差。\n\n教育目标：\n肉毒杆菌毒素阻断ACh小泡的突触前胞吐作用，导致毒蕈碱型和烟碱型神经传递受损。它的典型表现是对称性下降性麻痹，表现为颅神经异常，通常发生在食用自制罐头食品后。{{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of botulism pathophysiology, specifically how botulinum toxin affects neuromuscular transmission by blocking the release of acetylcholine. It also requires recognizing the clinical presentation of botulism, including cranial nerve abnormalities and descending paralysis, in the context of a potential exposure (home-canned foods). \n\nTo solve this question, identify the key features of the case (cranial nerve deficits, descending paralysis, history of home-canned food consumption) and associate them with botulism. Then, recall that botulinum toxin inhibits the release of acetylcholine at the neuromuscular junction, thereby disrupting neuromuscular transmission.",
+    "zh": "这个问题考察了对肉毒杆菌中毒病理生理学的了解，特别是肉毒杆菌毒素如何通过阻断乙酰胆碱的释放来影响神经肌肉传递。它还需要识别肉毒杆菌中毒的临床表现，包括颅神经异常和下降性麻痹，并结合潜在的暴露史（自制罐头食品）。\n\n要解决这个问题，需要确定病例的关键特征（颅神经功能障碍、下降性麻痹、食用自制罐头食品的病史），并将它们与肉毒杆菌中毒联系起来。然后，回想起肉毒杆菌毒素会抑制神经肌肉接头处乙酰胆碱的释放，从而破坏神经肌肉传递。"
+  },
+  "tags": "Botulism; Clostridium botulinum; Neuromuscular junction; Acetylcholine; Neurotoxin; Food poisoning; Cranial nerve palsy; Paralysis; SNARE proteins; Emergency medicine",
+  "category": "Neuro",
+  "question_id": "1997",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1997",
+  "extracted_at": "2025-11-05T15:30:48.058119",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:24:05.455881",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 50-year-old woman comes to the physician due to periodic reddening of her skin that is starting to become bothersome. The redness involves mainly her face and neck and is accompanied by mild warmth. The episodes initially lasted only a few minutes, but now they sometimes exceed 20 minutes. The patient has also had persistent watery diarrhea and associated abdominal cramping for the last several months. Physical examination shows several, purple vascular lesions surrounding her nose. Urinary excretion of 5-hydroxyindoleacetic acid (5-HIAA) over 24 hours is increased. Abdominal imaging shows a tumor in the small intestine.",
+    "zh": "一名50岁的女性因皮肤周期性发红就诊，这开始变得令人烦恼。发红主要涉及面部和颈部，并伴有轻微的温暖感。这些发作最初仅持续几分钟，但现在有时会超过20分钟。患者在过去的几个月里也一直存在持续性水样腹泻和相关的腹部绞痛。体格检查显示鼻子周围有几个紫色的血管病变。24小时尿液中5-羟基吲哚乙酸（5-HIAA）的排泄量增加。腹部影像学检查显示小肠内有一个肿瘤。"
+  },
+  "question": {
+    "en": "Which of the following is most likely responsible for this patient's condition?",
+    "zh": "以下哪项最有可能导致该患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Localized adenocarcinoma",
+      "zh": "局限性腺癌"
+    },
+    "B": {
+      "en": "Localized carcinoid",
+      "zh": "局限性类癌"
+    },
+    "C": {
+      "en": "Metastatic carcinoid",
+      "zh": "转移性类癌"
+    },
+    "D": {
+      "en": "Metastatic lymphoma",
+      "zh": "转移性淋巴瘤"
+    },
+    "E": {
+      "en": "Secretory leiomyoma",
+      "zh": "分泌性平滑肌瘤"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Carcinoid tumors most frequently arise from the enterochromaffin (endocrine) cells of the intestinal mucosa. These cells produce a number of vasoactive substances, such as serotonin (5-HT), bradykinin, and prostaglandins. When the tumor is confined to the intestine, these secretory products are metabolized by the liver and patients do not develop carcinoid syndrome. In contrast, if intestinal carcinoid metastasizes to the liver, these vasoactive substances bypass the liver and enter the systemic circulation, resulting in carcinoid syndrome. Extraintestinal carcinoid tumors (eg, bronchial carcinoid) can cause carcinoid syndrome without metastasizing as the vasoactive substances are secreted directly into systemic circulation (again bypassing hepatic metabolism).\n\nIncreased level of the serotonin metabolite 5-hydroxyindoleacetic acid (5-HIAA) in a 24-hour urine sample is the most useful initial test for confirming carcinoid syndrome.\n\n(Choices A, D, and E) Adenocarcinoma, lymphoma, and secretory leiomyoma would not result in carcinoid syndrome or elevated urinary 5-HIAA levels.\n\n(Choice B) The vasoactive substances secreted by a localized intestinal carcinoid tumor are metabolized by the liver via first-pass metabolism, preventing the development of carcinoid syndrome.\n\nExtraintestinal metastasis of intestinal carcinoid tumors is required to produce carcinoid symptoms.\n\nEducational objective: Carcinoid tumors confined to the intestine do not cause carcinoid syndrome as their secretory products are metabolized by the liver before entering the systemic circulation. In contrast, intestinal carcinoids that metastasize to the liver and extraintestinal (eg, bronchial) carcinoids release vasoactive substances that avoid first-pass metabolism, resulting in carcinoid syndrome (eg, flushing, diarrhea, bronchospasm).",
+    "zh": "类癌肿瘤最常起源于肠粘膜的嗜铬（内分泌）细胞。这些细胞产生许多血管活性物质，如血清素（5-HT）、缓激肽和前列腺素。当肿瘤局限于肠道时，这些分泌产物会被肝脏代谢，患者不会发生类癌综合征。相反，如果肠道类癌转移到肝脏，这些血管活性物质会绕过肝脏并进入体循环，从而导致类癌综合征。肠外类癌肿瘤（例如，支气管类癌）可以在未发生转移的情况下引起类癌综合征，因为血管活性物质直接分泌到体循环中（再次绕过肝脏代谢）。\n\n24小时尿液样本中血清素代谢物5-羟吲哚乙酸（5-HIAA）水平升高是确认类癌综合征的最有用的初步检查。\n\n（选项A、D和E）腺癌、淋巴瘤和分泌性平滑肌瘤不会导致类癌综合征或尿5-HIAA水平升高。\n\n（选项B）局限性肠道类癌肿瘤分泌的血管活性物质通过首过效应在肝脏中代谢，从而阻止了类癌综合征的发生。\n\n肠道类癌肿瘤的肠外转移是产生类癌症状所必需的。\n\n教育目标：局限于肠道的类癌肿瘤不会引起类癌综合征，因为它们的分泌产物在进入体循环之前会被肝脏代谢。相反，转移到肝脏的肠道类癌和肠外（例如，支气管）类癌会释放避免首过代谢的血管活性物质，从而导致类癌综合征（例如，潮红、腹泻、支气管痉挛）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of carcinoid syndrome, its pathophysiology related to vasoactive substances, and the importance of liver metabolism in preventing systemic effects. It also assesses the diagnostic value of urinary 5-HIAA levels.\n\nTo solve this question, recognize the classic symptoms of carcinoid syndrome (flushing, diarrhea, telangiectasias), link them to the increased 5-HIAA, and understand that metastasis is usually required for intestinal carcinoid tumors to cause systemic symptoms due to first-pass metabolism in the liver.",
+    "zh": "这个问题考察了对类癌综合征的认识，其与血管活性物质相关的病理生理学，以及肝脏代谢在预防全身性影响中的重要性。它还评估了尿5-HIAA水平的诊断价值。\n\n为了解决这个问题，需要识别类癌综合征的典型症状（潮红、腹泻、毛细血管扩张），将它们与5-HIAA的升高联系起来，并了解肠道类癌肿瘤通常需要转移才能引起全身症状，这与肝脏的首过效应代谢有关。"
+  },
+  "tags": "Carcinoid syndrome; 5-hydroxyindoleacetic acid (5-HIAA); Metastasis; Liver metabolism; Flushing; Diarrhea; Telangiectasia; Gastrointestinal tumors; Endocrinology",
+  "category": "GIT",
+  "question_id": "425",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\425",
+  "extracted_at": "2025-11-05T14:36:02.522751",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:57:52.506704",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

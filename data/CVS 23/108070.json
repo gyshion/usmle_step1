@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old healthy woman participates in a pharmacologic clinical study. Various cardiovascular parameters are measured while she is resting in an upright position. These baseline values are plotted on the cardiac and vascular function graph shown below {{exhibit_1}}.\n\nShe receives a moderate dose of intravenous nitroglycerin by continuous infusion, and the measurements are repeated. Which of the following changes will most likely be observed?",
+    "zh": "一名24岁健康的女性参与一项药理学临床研究。当她以直立姿势休息时，测量了各种心血管参数。这些基线值绘制在下图所示的心脏和血管功能图上{{exhibit_1}}。\n\n她接受中等剂量的静脉注射硝酸甘油持续输注，并重复测量。最有可能观察到以下哪种变化？"
+  },
+  "question": {
+    "en": "Which of the following changes will most likely be observed?",
+    "zh": "最有可能观察到以下哪种变化？"
+  },
+  "options": {
+    "A": {
+      "en": "{{exhibit_2}}",
+      "zh": "{{exhibit_2}}"
+    },
+    "B": {
+      "en": "{{exhibit_3}}",
+      "zh": "{{exhibit_3}}"
+    },
+    "C": {
+      "en": "{{exhibit_4}}",
+      "zh": "{{exhibit_4}}"
+    },
+    "D": {
+      "en": "{{exhibit_5}}",
+      "zh": "{{exhibit_5}}"
+    },
+    "E": {
+      "en": "{{exhibit_6}}",
+      "zh": "{{exhibit_6}}"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The cardiovascular system is a closed circuit: Blood ejected from the left ventricle (cardiac output) returns to the right atrium (venous return) to pass through the lungs and be ejected once again. Cardiac function–vascular function curves demonstrate the interdependent relationship between cardiac output and venous return. These curves can be described as follows:\n\n•\tThe cardiac function curve is essentially a Frank-Starling curve, representing constant left ventricular contractility (inotropy) along the curve. As right atrial pressure (or preload) increases, cardiac output increases due to myocardial fiber stretching and a corresponding increase in stroke volume. Changes in contractility shift the curve to the left or the right.\n\n•\tThe vascular function curve represents venous return to the right atrium. As right atrial pressure increases, venous return decreases as there is a reduced pressure gradient driving blood return to the right atrium. Changes in blood volume, venous capacitance, or systemic vascular resistance (SVR) shift the curve to the left or the right.\n\n•\tThe intersection point of the curves represents the steady-state right atrial pressure and cardiac output for a given set of cardiac and vascular parameters.\n\nThis study participant was given nitroglycerin, which primarily causes venodilation and increased venous capacitance. The result is additional blood pooling in the capacitance veins and decreased venous return, represented by a shift in the venous return curve to the left. The cardiac function curve is unchanged as contractility is not affected. A new steady-state point develops at a lower right atrial pressure and cardiac output.\n\n(Choices A and B) A shift in the cardiac function curve to the left represents an increase in contractility. This change, with no change in the vascular function curve, is expected with administration of a positive inotrope that has no effect on the vasculature (eg, digoxin). A shift in the cardiac function curve to the right represents a decrease in contractility, as is expected with administration of a negative inotrope (eg, verapamil).\n\n(Choice C) A shift in the venous return curve to the right represents an increase in venous return. This change, with no change in the cardiac function curve, is expected with the increase in blood volume that occurs with infusion of normal saline.\n\n(Choice E) A leftward shift in the cardiac function curve combined with a rightward shift in the vascular function curve can be seen with the increase in contractility and decrease in SVR that occur with exercise.\n\nEducational objective: Cardiac function–vascular function curves demonstrate the interdependent relationship between cardiac output and venous return. Nitroglycerin is a venodilator that increases venous capacitance to reduce venous return and shift the vascular function curve to the left. {{exhibit_7}} {{exhibit_8}}",
+    "zh": "心血管系统是一个闭合的循环：从左心室（心输出量）射出的血液返回到右心房（静脉回流），通过肺部并再次被射出。心脏功能-血管功能曲线显示了心输出量和静脉回流之间的相互依赖关系。这些曲线可以描述如下：\n\n•\t心脏功能曲线本质上是Frank-Starling曲线，代表沿曲线恒定的左心室收缩力（正性肌力）。随着右心房压力（或前负荷）增加，由于心肌纤维的伸长以及相应的心搏量的增加，心输出量增加。收缩力的变化将曲线向左或向右移动。\n\n•\t血管功能曲线代表静脉回流到右心房。随着右心房压力增加，静脉回流减少，因为驱动血液回流到右心房的压力梯度降低。血容量、静脉容量或全身血管阻力（SVR）的变化将曲线向左或向右移动。\n\n•\t曲线的交点代表一组心脏和血管参数的稳态右心房压力和心输出量。\n\n这项研究参与者被给予硝酸甘油，硝酸甘油主要引起血管舒张和增加静脉容量。结果是额外的血液积聚在容量静脉中并减少静脉回流，这表现为静脉回流曲线向左移动。心脏功能曲线保持不变，因为收缩力没有受到影响。一个新的稳态点在较低的右心房压力和心输出量处形成。\n\n（选项A和B）心脏功能曲线向左移动代表收缩力增加。这种变化，在血管功能曲线不变的情况下，预计会发生在使用对血管没有影响的正性肌力药物（例如，地高辛）后。心脏功能曲线向右移动代表收缩力降低，这预计会发生在使用负性肌力药物（例如，维拉帕米）后。\n\n（选项C）静脉回流曲线向右移动代表静脉回流增加。这种变化，在心脏功能曲线不变的情况下，预计会发生在使用生理盐水输注时发生的血容量增加。\n\n（选项E）心脏功能曲线向左移动，并伴随血管功能曲线向右移动，这可以在运动时发生的收缩力增加和SVR降低的情况下看到。\n\n教育目标：心脏功能-血管功能曲线显示了心输出量和静脉回流之间的相互依赖关系。硝酸甘油是一种血管扩张剂，可增加静脉容量以减少静脉回流，并将血管功能曲线向左移动。{{exhibit_7}} {{exhibit_8}}"
+  },
+  "summary": {
+    "en": "This question tests the understanding of cardiac and vascular function curves and how venodilators like nitroglycerin affect venous return and right atrial pressure. It requires knowledge of the Frank-Starling mechanism and the relationship between venous return, cardiac output, and vascular capacitance.\n\nTo solve this question, recognize that nitroglycerin causes venodilation, leading to increased venous capacitance and decreased venous return. This results in a leftward shift of the venous return curve on the graph, with the cardiac function curve remaining unchanged.",
+    "zh": "这个问题测试对心脏和血管功能曲线的理解，以及像硝酸甘油这样的血管扩张剂如何影响静脉回流和右心房压力。它需要了解Frank-Starling机制以及静脉回流、心输出量和血管容量之间的关系。\n\n要解决这个问题，需要认识到硝酸甘油引起血管舒张，导致静脉容量增加和静脉回流减少。这导致图上静脉回流曲线向左移位，而心脏功能曲线保持不变。"
+  },
+  "tags": "Cardiac function curve; Vascular function curve; Venous return; Nitroglycerin; Venodilation; Frank-Starling mechanism; Cardiovascular physiology; Preload; Cardiac output",
+  "category": "CVS",
+  "question_id": "108070",
+  "has_exhibits": true,
+  "exhibit_count": 8,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\108070",
+  "extracted_at": "2025-11-05T11:50:03.150437",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:43:52.418959",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

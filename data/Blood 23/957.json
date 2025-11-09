@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old woman is evaluated due to 10 days of nonproductive cough, low-grade fever, headache, and malaise. The patient has no other medical problems and takes no medications. Lung examination reveals scattered rales. Chest x-ray reveals bilateral patchy areas of consolidation {{exhibit_1}}. She has mild anemia and an elevated serum lactate dehydrogenase level. The patient is treated for presumed *Mycoplasma* pneumonia with azithromycin. Two months later, her symptoms and the anemia have resolved.",
+    "zh": "一名23岁的女性因10天来的无痰咳嗽、低烧、头痛和不适而就诊。患者无其他疾病史，未服用任何药物。肺部检查显示散在的啰音。胸部X光片显示双侧斑片状实变区域 {{exhibit_1}}。她患有轻度贫血，血清乳酸脱氢酶水平升高。患者接受了阿奇霉素治疗，疑似为肺炎支原体肺炎。两个月后，她的症状和贫血均已缓解。"
+  },
+  "question": {
+    "en": "Which of the following best explains the resolution of this patient's anemia?",
+    "zh": "以下哪项最能解释该患者贫血的缓解？"
+  },
+  "options": {
+    "A": {
+      "en": "Elimination of bacterial cell wall antigens",
+      "zh": "细菌细胞壁抗原的消除"
+    },
+    "B": {
+      "en": "Elimination of intraerythrocytic microorganisms",
+      "zh": "红细胞内微生物的清除"
+    },
+    "C": {
+      "en": "Fading of immune response against the bacteria",
+      "zh": "针对细菌的免疫反应减弱"
+    },
+    "D": {
+      "en": "Replenishment of body iron stores",
+      "zh": "体内铁储备的补充"
+    },
+    "E": {
+      "en": "Replenishment of intracellular enzyme stores",
+      "zh": "细胞内酶储备的补充"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "*Mycoplasma pneumoniae* is a common cause of tracheobronchitis and walking pneumonia. It attacks the respiratory epithelium by binding to an oligosaccharide (I-antigen) that is also present on the surface of erythrocytes. This leads to the formation of cross-reacting IgM antibodies that attach to red blood cells, activate the complement system, and cause erythrocyte lysis.\n\nThe cross-reacting antibodies are called COLD AGGLUTININS because they bind to erythrocytes in areas where the blood temperature is below core body temperature (eg, distal extremities, nose). Most patients with cold agglutinins are asymptomatic, but some develop manifestations of intravascular HEMOLYTIC ANEMIA such as elevated reticulocyte count and lactate dehydrogenase level. IgM titers usually begin to fall approximately 4 weeks after initial infection leading to a resolution of the hemolytic anemia (within 8 weeks).\n\nOther extrapulmonary manifestations of *M pneumoniae* include Stevens-Johnson syndrome, joint pain, encephalitis, cardiac rhythm disturbances, and bullous myringitis.\n\n(Choice A) *M pneumoniae* is an atypical bacterium; it has a plasma membrane composed of cholesterol (unlike most bacteria) and no cell wall. The lack of a cell wall makes this pathogen resistant to beta-lactam antibiotics.\n\n(Choice B) Malaria and babesiosis are associated with intraerythrocytic organisms that can cause cell lysis and anemia. However, these pathogens usually cause high fever and more severe clinical syndromes. In addition, azithromycin monotherapy is not an effective cure for these infections.\n\n(Choice D) Iron deficiency anemia, which is most commonly due to blood loss, can often be improved by replenishing body iron stores (eg, oral iron supplementation). Chronic infection or inflammatory conditions can be associated with anemia of chronic disease, which is due to impaired utilization of iron (not absolute iron deficiency).\n\n(Choice E) Enzyme deficiencies that cause anemia include glucose-6-phosphate dehydrogenase (G6PD) deficiency and pyruvate kinase deficiency. Infection and medications that cause oxidative stress (eg, sulfonamides, antimalarial agents) can cause hemolysis in patients with G6PD; however, G6PD is an X-linked deficiency (it is seen in men).\n\nEducational objective:\n*Mycoplasma pneumoniae* binds an oligosaccharide on the respiratory epithelium that is also present on erythrocytes, leading to the generation of cross-reacting IgM antibodies (cold agglutinins). Patients with *M pneumoniae* infections often develop mild, transient hemolytic anemia that resolves as IgM antibody titers decline (6-8 weeks after infection begins).",
+    "zh": "肺炎支原体是引起气管支气管炎和非典型肺炎的常见原因。它通过与红细胞表面也存在的寡糖（I抗原）结合来攻击呼吸道上皮细胞。这导致形成交叉反应性IgM抗体，这些抗体附着在红细胞上，激活补体系统，并引起红细胞溶解。\n\n这些交叉反应性抗体被称为冷凝集素，因为它们与血液温度低于核心体温的区域（例如，远端肢体，鼻子）的红细胞结合。大多数冷凝集素患者无症状，但一些患者会出现血管内溶血性贫血的表现，例如网织红细胞计数和乳酸脱氢酶水平升高。IgM滴度通常在初次感染后约4周开始下降，导致溶血性贫血的缓解（在8周内）。\n\n肺炎支原体的其他肺外表现包括史蒂文斯-约翰逊综合征、关节痛、脑炎、心律失常和大疱性鼓膜炎。\n\n（选项A）肺炎支原体是一种非典型细菌；它具有由胆固醇组成的质膜（与大多数细菌不同）且无细胞壁。缺乏细胞壁使这种病原体对β-内酰胺类抗生素具有耐药性。\n\n（选项B）疟疾和巴贝虫病与可引起细胞溶解和贫血的红细胞内生物有关。然而，这些病原体通常引起高烧和更严重的临床综合征。此外，阿奇霉素单药治疗对这些感染无效。\n\n（选项D）缺铁性贫血最常见的原因是失血，通常可以通过补充体内铁储备（例如，口服铁补充剂）来改善。慢性感染或炎症性疾病可能与慢性病贫血有关，这是由于铁利用受损（并非绝对缺铁）。\n\n（选项E）引起贫血的酶缺乏症包括葡萄糖-6-磷酸脱氢酶（G6PD）缺乏症和丙酮酸激酶缺乏症。感染和引起氧化应激的药物（例如磺胺类药物、抗疟药）可导致G6PD患者溶血；然而，G6PD是一种X连锁缺陷（常见于男性）。\n\n教育目标：肺炎支原体与呼吸道上皮细胞上的寡糖结合，该寡糖也存在于红细胞上，导致产生交叉反应性IgM抗体（冷凝集素）。肺炎支原体感染患者经常出现轻度、短暂的溶血性贫血，随着IgM抗体滴度下降（感染开始后6-8周）而缓解。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of *Mycoplasma pneumoniae* infection and its association with cold agglutinin-induced hemolytic anemia. It assesses the understanding of the pathophysiology behind the transient anemia and its resolution following treatment of the infection.\n\nThe key to solving this question is recognizing the association between *Mycoplasma pneumoniae* and cold agglutinins, which cause hemolytic anemia. Understanding that the anemia resolves as the IgM antibody titers decline after the infection is treated is crucial for selecting the correct answer.",
+    "zh": "此问题测试对肺炎支原体感染及其与冷凝集素诱导的溶血性贫血的关联的了解。它评估了对短暂性贫血的病理生理学以及在感染治疗后其缓解的理解。\n\n解决此问题的关键是认识到肺炎支原体与冷凝集素之间的关联，冷凝集素会导致溶血性贫血。了解在感染治疗后，贫血会随着IgM抗体滴度的下降而缓解，这对于选择正确答案至关重要。"
+  },
+  "tags": "Mycoplasma pneumoniae; Cold agglutinin disease; Hemolytic anemia; IgM antibodies; Respiratory infection",
+  "category": "Blood",
+  "question_id": "957",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\957",
+  "extracted_at": "2025-11-05T11:35:24.023357",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:32:57.994782",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

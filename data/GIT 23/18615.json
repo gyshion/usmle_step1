@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A group of researchers investigates why individuals who have undergone gastrectomy lose more weight than can be explained by dietary changes alone. They recruit several subjects who have had distal gastrectomy for benign gastric-outlet obstruction for a clinical study. Control subjects with matching baseline weight are also enrolled and are instructed to follow a diet similar to that of the postgastrectomy subjects during the study period. Plasma levels of several hormones are serially measured over 24 hours in both groups. Levels of one of the hormones are shown in the graph below: {{exhibit_1}}",
+    "zh": "一组研究人员调查为什么接受过胃切除术的个体比单靠饮食改变所能解释的体重减轻更多。他们招募了几名因良性胃出口梗阻而接受过远端胃切除术的受试者进行临床研究。还纳入了与基线体重匹配的对照组受试者，并指示他们在研究期间遵循与胃切除术后受试者相似的饮食。两组受试者每 24 小时连续测量几种激素的血浆水平。下图显示了其中一种激素的水平：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "This profile most likely represents which of the following hormones?",
+    "zh": "这种概况最有可能代表以下哪种激素？"
+  },
+  "options": {
+    "A": {
+      "en": "Cholecystokinin",
+      "zh": "胆囊收缩素"
+    },
+    "B": {
+      "en": "Gastrin",
+      "zh": "胃泌素"
+    },
+    "C": {
+      "en": "Ghrelin",
+      "zh": "生长素释放肽"
+    },
+    "D": {
+      "en": "Insulin",
+      "zh": "胰岛素"
+    },
+    "E": {
+      "en": "Leptin",
+      "zh": "瘦素"
+    },
+    "F": {
+      "en": "Motilin",
+      "zh": "胃动素"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The 24-hour hormone levels in the control subjects show increasing secretion leading up to meals, followed by a sharp postprandial drop. However, the subjects who have undergone gastrectomy show lower baseline levels with attenuation of meal-related fluctuations. This pattern suggests that the hormone is likely secreted in the stomach and suppressed by food intake, which is consistent with the secretory pattern of ghrelin.\n\nGhrelin is produced primarily in the stomach in response to fasting; levels surge leading up to meals and fall after eating. Ghrelin stimulates appetite and promotes weight gain. Caloric restriction and falling fat stores lead to increased ghrelin levels (along with decreased leptin and insulin levels), which limits weight loss from dietary modification alone. However, patients who have undergone bariatric procedures that remove a portion of the stomach (eg, roux-en-Y gastric bypass, sleeve gastrectomy) can lose a significant number of ghrelin-secreting cells. This leads to lower ghrelin levels and less stimulation of appetite in response to fasting, promoting weight loss.\n\n(Choice A) Cholecystokinin stimulates gallbladder contraction and pancreatic enzyme and bicarbonate secretion. It is secreted in the duodenum and jejunum in response to fat and protein in the intestinal lumen, and levels rise following meals.\n\n(Choice B) Gastrin stimulates parietal cell acid production. It is secreted primarily by G cells of the gastric antrum in response to vagal activity, gastric distension, and the presence of amino acids in the gastric lumen. Although gastrin production would be lower in the postgastrectomy subjects, gastrin levels normally rise (not fall) in response to meals.\n\n(Choice D) Insulin levels rise rapidly in response to increased blood glucose following meals then gradually fall back to baseline. Insulin is secreted by pancreatic beta cells and would not be drastically reduced following gastrectomy.\n\n(Choice E) Leptin is produced primarily by fat cells in response to short-term food intake and long-term adequacy of fat stores. It acts on the hypothalamus to decrease appetite (obesity blunts this action). During fasting states, leptin levels fall.\n\n(Choice F) Motilin stimulates smooth muscle contraction in the upper gastrointestinal tract and generally increases gastric motility. Although secretion appears to increase during fasting and decrease following meals, it is produced primarily in the duodenal mucosa rather than the stomach.\n\nEducational objective:\nGhrelin is produced in the stomach in response to fasting; levels surge leading up to meals and fall after eating. Ghrelin stimulates appetite and promotes weight gain. Patients who have undergone gastrectomy have reduced ghrelin levels, leading to weight loss. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "对照组受试者的 24 小时激素水平显示，在进餐前分泌增加，随后出现餐后急剧下降。然而，接受过胃切除术的受试者显示基线水平较低，与进餐相关的波动减弱。这种模式表明，该激素很可能在胃中分泌，并被食物摄入抑制，这与生长素释放肽的分泌模式一致。\n\n生长素释放肽主要在胃中产生，以应对禁食；其水平在进餐前飙升，进食后下降。生长素释放肽刺激食欲并促进体重增加。热量限制和脂肪储存减少会导致生长素释放肽水平升高（以及瘦素和胰岛素水平降低），这限制了单靠饮食改变的减肥效果。然而，接受过切除部分胃的减肥手术（例如，Roux-en-Y 胃旁路术、袖状胃切除术）的患者可能会失去大量分泌生长素释放肽的细胞。这会导致生长素释放肽水平降低，并且对禁食的食欲刺激减少，从而促进体重减轻。\n\n（选项 A）胆囊收缩素刺激胆囊收缩以及胰酶和碳酸氢盐的分泌。它在十二指肠和空肠中分泌，以响应肠腔中的脂肪和蛋白质，并且在进餐后水平升高。\n\n（选项 B）胃泌素刺激壁细胞产生酸。它主要由胃窦的 G 细胞分泌，以响应迷走神经活动、胃扩张和胃腔中氨基酸的存在。尽管胃泌素的产生在胃切除术后受试者中会降低，但胃泌素水平通常在进餐时升高（而不是降低）。\n\n（选项 D）胰岛素水平在进餐后响应血糖升高而迅速升高，然后逐渐回落到基线水平。胰岛素由胰腺β细胞分泌，在胃切除术后不会大幅降低。\n\n（选项 E）瘦素主要由脂肪细胞产生，以响应短期食物摄入和长期脂肪储存的充足性。它作用于下丘脑以降低食欲（肥胖会减弱这种作用）。在禁食状态下，瘦素水平下降。\n\n（选项 F）胃动素刺激上消化道的平滑肌收缩，并总体上增加胃动力。虽然分泌量在禁食期间似乎增加，在进餐后减少，但它主要是在十二指肠粘膜而不是胃中产生。\n\n教育目标：\n生长素释放肽在胃中产生，以应对禁食；其水平在进餐前飙升，进食后下降。生长素释放肽刺激食欲并促进体重增加。接受过胃切除术的患者生长素释放肽水平降低，导致体重减轻。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests the understanding of hormonal changes following gastrectomy, specifically focusing on ghrelin's role in appetite regulation and weight loss. It requires knowledge of ghrelin's secretion pattern in response to fasting and food intake, as well as the impact of gastrectomy on ghrelin production.\n\nTo solve this question, analyze the provided graph showing hormone levels in control and post-gastrectomy subjects. Identify the hormone that exhibits lower baseline levels and attenuated meal-related fluctuations in the post-gastrectomy group, which is characteristic of ghrelin.",
+    "zh": "这个问题测试了对胃切除术后激素变化的理解，特别是关注生长素释放肽在食欲调节和体重减轻中的作用。它要求了解生长素释放肽对禁食和食物摄入的反应分泌模式，以及胃切除术对生长素释放肽产生的影响。\n\n要解决这个问题，请分析提供的图表，该图表显示了对照组和胃切除术后受试者的激素水平。确定在胃切除术后组中显示较低基线水平和与进餐相关的波动减弱的激素，这是生长素释放肽的特征。"
+  },
+  "tags": "Ghrelin; Gastrectomy; Appetite regulation; Weight loss; Gastrointestinal hormones; Bariatric surgery; Endocrinology; Physiology",
+  "category": "GIT",
+  "question_id": "18615",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\18615",
+  "extracted_at": "2025-11-05T14:29:10.862396",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:53:46.018810",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

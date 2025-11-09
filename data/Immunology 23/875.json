@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old woman comes to the office due to arthralgias in her hands for the last several months. The pain frequently involves her wrists and proximal finger joints bilaterally, and alternates between being worse in the wrists versus in the hands. The patient has no other medical problems and takes no medications. Complete blood count results are as follows:\n\nErythrocytes 3.2 million/mm³\nPlatelets 90,000/mm³\nLeukocytes 3,200/mm³\n\nFurther evaluation reveals proteinuria and red blood cell casts.",
+    "zh": "一名25岁的女性因过去几个月的手关节痛来就诊。疼痛经常累及她的手腕和双侧近端指关节，并且在手腕和手之间交替恶化。患者没有其他疾病，也没有服用药物。全血细胞计数结果如下：\n\n红细胞 320万/mm³\n血小板 9万/mm³\n白细胞 3,200/mm³\n\n进一步评估显示蛋白尿和红细胞管型。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Ankylosing spondylitis",
+      "zh": "强直性脊柱炎"
+    },
+    "B": {
+      "en": "Myelodysplastic syndrome",
+      "zh": "骨髓增生异常综合征"
+    },
+    "C": {
+      "en": "Primary myelofibrosis",
+      "zh": "原发性骨髓纤维化"
+    },
+    "D": {
+      "en": "Systemic lupus erythematosus",
+      "zh": "系统性红斑狼疮"
+    },
+    "E": {
+      "en": "Vitamin B₁₂ deficiency",
+      "zh": "维生素B₁₂缺乏症"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has chronic migratory arthralgias, pancytopenia, and evidence of glomerulonephritis (ie, proteinuria, red cell casts). These findings are suspicious for SYSTEMIC LUPUS ERYTHEMATOSUS (SLE), an idiopathic autoimmune disorder that is most common in women.\n\nHematologic abnormalities are common in SLE. The most common cause of anemia is chronic inflammation (anemia of chronic disease); however, pancytopenia (as seen in this patient) can also occur due to autoantibodies against blood cell antigens (ie, type II hypersensitivity). Autoimmune hemolytic anemia in SLE is caused by IgG antibodies against erythrocytes; manifestations include spherocytosis, a positive direct Coombs test, and extravascular hemolysis. Antiplatelet antibodies in SLE can cause thrombocytopenia resembling immune thrombocytopenic purpura. Leukopenia can also occur, primarily due to antibody-mediated destruction of neutrophils.\n\nLUPUS NEPHRITIS is caused by immune complex deposition (ie, type III hypersensitivity) in the mesangium, subendothelial, and/or subepithelial spaces. Histopathology is variable but diffuse proliferative glomerulonephritis (class IV) is the most common pattern.\n\n(Choice A) Ankylosing spondylitis is a chronic inflammatory arthritis involving the spine and sacroiliac joints. It presents with low back pain and stiffness. Common associated features include enthesitis, dactylitis, and uveitis, but renal and hematologic manifestations (other than anemia of chronic disease) are not common.\n\n(Choices B, C, and E) Myelodysplastic syndromes and primary myelofibrosis are bone marrow disorders that occur most commonly in patients over age 50. Vitamin B₁₂ deficiency can also cause impaired hematopoiesis. Although these disorders can cause pancytopenia, this patient's arthritis and nephritis are much more consistent with SLE. {{exhibit_1}}",
+    "zh": "该患者有慢性游走性关节痛、全血细胞减少，以及肾小球肾炎的证据（即蛋白尿、红细胞管型）。这些发现提示系统性红斑狼疮 (SLE)，这是一种特发性自身免疫性疾病，在女性中最为常见。\n\nSLE 中常见的血液学异常。贫血最常见的原因是慢性炎症（慢性病贫血）；然而，全血细胞减少（如该患者所示）也可能由于针对血细胞抗原的自身抗体而发生（即，II 型超敏反应）。SLE 中的自身免疫性溶血性贫血是由针对红细胞的 IgG 抗体引起的；表现包括球形红细胞增多症、Coombs 直接试验阳性以及血管外溶血。SLE 中的抗血小板抗体可引起血小板减少症，类似于免疫性血小板减少性紫癜。也可发生白细胞减少症，这主要由于抗体介导的嗜中性粒细胞破坏。\n\n狼疮性肾炎是由免疫复合物沉积（即，III 型超敏反应）在系膜、内皮下和/或上皮下间隙引起的。组织病理学是可变的，但弥漫性增殖性肾小球肾炎（IV 级）是最常见的模式。\n\n（选项 A）强直性脊柱炎是一种涉及脊柱和骶髂关节的慢性炎症性关节炎。它表现为腰痛和僵硬。常见的相关特征包括肌腱端炎、指炎和葡萄膜炎，但肾脏和血液学表现（除了慢性病贫血外）并不常见。\n\n（选项 B、C 和 E）骨髓增生异常综合征和原发性骨髓纤维化是骨髓疾病，最常发生在 50 岁以上的患者中。维生素B₁₂缺乏症也可导致造血功能受损。虽然这些疾病可引起全血细胞减少，但该患者的关节炎和肾炎与 SLE 更为一致。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the clinical presentation and laboratory findings associated with systemic lupus erythematosus (SLE). It requires recognizing the constellation of symptoms, including arthralgias, pancytopenia, proteinuria, and red blood cell casts, to arrive at the correct diagnosis.\n\nThe best approach is to carefully analyze the patient's symptoms and lab results, focusing on the combination of arthralgias, pancytopenia, and renal involvement. Rule out other conditions that may cause similar symptoms but lack the specific combination of findings seen in SLE.",
+    "zh": "此题考察对系统性红斑狼疮 (SLE) 相关的临床表现和实验室检查结果的了解。它要求识别一系列症状，包括关节痛、全血细胞减少、蛋白尿和红细胞管型，以得出正确的诊断。\n\n最好的方法是仔细分析患者的症状和实验室结果，重点关注关节痛、全血细胞减少和肾脏受累的组合。排除其他可能导致类似症状但缺乏 SLE 所见特定组合的疾病。"
+  },
+  "tags": "Systemic lupus erythematosus; SLE; Autoimmune disease; Pancytopenia; Glomerulonephritis; Lupus nephritis; Rheumatology; Nephrology; Arthralgia; Proteinuria",
+  "category": "Immunology",
+  "question_id": "875",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\875",
+  "extracted_at": "2025-11-05T14:46:36.531066",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:03:36.444977",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

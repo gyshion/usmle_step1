@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 9-year-old boy is brought to the clinic by his mother for evaluation of rash and sore throat. Two days ago, the patient returned home from summer camp with a fever, sore throat, and rash on his extremities. The fever has resolved, but the rash has continued to spread. The patient has no chronic medical conditions and has received all routine vaccinations. Vital signs are normal. Oropharyngeal examination shows superficial ulcers on the buccal mucosa and soft palate but no tonsillar enlargement or exudates. Skin examination is shown in the exhibit {{exhibit_1}}. The infectious agent most likely responsible for this patient's condition is also associated with which of the following complications?",
+    "zh": "一位9岁男孩由母亲带到诊所就诊，主诉皮疹和咽喉痛。两天前，该患者从夏令营回家时出现发烧、咽喉痛和四肢皮疹。发烧已经消退，但皮疹仍在继续蔓延。患者无慢性病史，并已接种所有常规疫苗。生命体征正常。口咽检查显示颊粘膜和软腭有浅表溃疡，但无扁桃体肿大或渗出物。皮肤检查见图{{exhibit_1}}。最有可能导致该患者病情的感染原也与以下哪种并发症相关？"
+  },
+  "question": {
+    "en": "The infectious agent most likely responsible for this patient's condition is also associated with which of the following complications?",
+    "zh": "最有可能导致该患者病情的感染原也与以下哪种并发症相关？"
+  },
+  "options": {
+    "A": {
+      "en": "Facial nerve palsy",
+      "zh": "面神经麻痹"
+    },
+    "B": {
+      "en": "Keratitis",
+      "zh": "角膜炎"
+    },
+    "C": {
+      "en": "Myocarditis",
+      "zh": "心肌炎"
+    },
+    "D": {
+      "en": "Symmetric polyarthritis",
+      "zh": "对称性多关节炎"
+    },
+    "E": {
+      "en": "Temporal lobe encephalitis",
+      "zh": "颞叶脑炎"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has characteristic findings of hand-foot-and-mouth disease (HFMD), an infection caused by Enterovirus. HFMD is characterized by a painful oral enanthem consisting of vesicles/ulcers usually affecting the tongue, buccal mucosa, or soft palate as well as a maculopapular or vesicular exanthem on the hands and feet (including palms and soles). Illness may be accompanied by a fever and is usually self-limited.\n\nOther presentations of Enterovirus infection include the following:\n\nHerpangina: This condition is not associated with an exanthem but causes high fever and a painful oral enanthem primarily affecting the posterior oropharynx and sparing the gingiva.\n\nMyocarditis: Patients often present with a viral prodrome (eg, fever, myalgia) followed by signs of heart failure, such as dyspnea, tachypnea, and tachycardia. Myocarditis may also occur as a rare complication of HFMD due to widespread viremia prior to the development of protective antibodies.\n\nAseptic meningitis: Enterovirus is the most common cause of viral meningitis and occurs most frequently in infants. Similar to myocarditis, it may also occur as a complication of HFMD.\n\n(Choice A) Facial nerve palsy (Bell palsy) is classically associated with Lyme disease, which usually presents with a bull's-eye rash (erythema migrans), not oral ulcers or rash on the palms.\n\n(Choices B and E) Keratitis (inflammation of the cornea) and temporal lobe encephalitis are serious complications of herpes simplex virus (HSV) infection. HSV gingivostomatitis presents with vesicles on the anterior oral mucosa, particularly the lips, and gingivae. Patients may also have concomitant herpetic wh tlow, which usually appears as clusters of vesicles on the fingers (not diffuse blisters on the palm). Although Enterovirus may cause CNS complications (eg, aseptic meningitis), temporal lobe encephalitis is more specific for HSV.\n\n(Choice D) Parvovirus B19 infection (fifth disease) may cause a slapped-cheek appearance or a diffuse, reticulated rash. In some cases, particularly in women or adolescent girls, the infection is followed by polyarthralgia or polyarthritis 1-2 weeks later. Enterovirus is not associated with joint manifestations.\n\nEducational objective:\nHand, foot, and mouth disease (oral ulcerations and rash on the palms/soles) is a common manifestation of Enterovirus infection. Although Enterovirus infections are typically self-limited, rare but serious complications include myocarditis and aseptic meningitis. {{exhibit_2}}",
+    "zh": "该患者具有手足口病(HFMD)的特征性表现，这是一种由肠道病毒引起的感染。HFMD的特征是口腔内疹，包括通常影响舌头、颊粘膜或软腭的疱疹/溃疡，以及手和脚（包括手掌和足底）的斑丘疹或水疱疹。该病可伴有发烧，并且通常为自限性。\n\n肠道病毒感染的其他表现包括：\n\n疱疹性咽峡炎：这种情况与皮疹无关，但会导致高烧和疼痛性口腔内疹，主要影响后咽，不累及牙龈。\n\n心肌炎：患者通常表现为病毒前驱症状（如发烧、肌痛），随后出现心力衰竭的体征，如呼吸困难、呼吸急促和心动过速。心肌炎也可能作为HFMD的罕见并发症发生，这是由于在产生保护性抗体之前发生广泛的病毒血症。\n\n无菌性脑膜炎：肠道病毒是病毒性脑膜炎的最常见原因，最常发生在婴儿中。与心肌炎类似，它也可能作为HFMD的并发症发生。\n\n(选项A) 面神经麻痹（贝尔麻痹）通常与莱姆病相关，莱姆病通常表现为靶心皮疹（游走性红斑），而不是口腔溃疡或手掌皮疹。\n\n(选项B和E) 角膜炎（角膜炎症）和颞叶脑炎是单纯疱疹病毒（HSV）感染的严重并发症。HSV疱疹性口龈炎表现为前口腔粘膜（特别是嘴唇和牙龈）出现水疱。患者还可能伴有疱疹性指疣，通常表现为手指上的簇状水疱（不是手掌上的弥漫性水疱）。虽然肠道病毒可能引起中枢神经系统并发症（如无菌性脑膜炎），但颞叶脑炎对HSV更具特异性。\n\n(选项D) B19细小病毒感染（第五病）可引起面颊红肿或弥漫性、网状皮疹。在某些情况下，尤其是在女性或青春期女孩中，感染后1-2周会出现多关节痛或多关节炎。肠道病毒与关节表现无关。\n\n教学目标：\n手足口病（口腔溃疡和手掌/足底皮疹）是肠道病毒感染的常见表现。虽然肠道病毒感染通常是自限性的，但罕见但严重的并发症包括心肌炎和无菌性脑膜炎。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Enterovirus infection, specifically hand-foot-and-mouth disease (HFMD), and its potential complications such as myocarditis. It requires recognizing the characteristic presentation of HFMD and associating it with the correct causative agent and its possible sequelae.\n\nThe best approach is to identify the key features of HFMD (oral ulcers, rash on palms and soles) and then recall the common complications associated with Enterovirus infections. Ruling out other viral infections based on their distinct clinical presentations is also crucial.",
+    "zh": "此题考察对肠道病毒感染，特别是手足口病(HFMD)的了解，及其潜在并发症，如心肌炎。它要求识别HFMD的特征性表现，并将其与正确的病原体及其可能的后遗症联系起来。\n\n最好的方法是确定HFMD的关键特征（口腔溃疡、手掌和足底皮疹），然后回忆与肠道病毒感染相关的常见并发症。根据其他病毒感染的独特临床表现来排除它们也很关键。"
+  },
+  "tags": "Hand-foot-mouth disease; Enterovirus; Myocarditis; Viral infection; Pediatric infectious disease; Oral ulcers; Skin rash; Aseptic meningitis",
+  "category": "Micro",
+  "question_id": "15419",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\15419",
+  "extracted_at": "2025-11-05T14:59:36.182491",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:08:55.630924",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

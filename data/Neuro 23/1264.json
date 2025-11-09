@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 43-year-old woman comes to the clinic due to pain and tingling in the first three digits of both hands that is worse at night, sometimes preventing her from sleeping. She has no problems with her legs. The patient has chronic kidney disease due to IgA nephropathy and receives hemodialysis. On examination, she has diminished sensation in both hands over the palmar aspect of the thumb, index and middle fingers, and radial half of the ring finger.",
+    "zh": "一名43岁的女性来到诊所，主诉双手前三个手指疼痛和刺痛，夜间加重，有时影响睡眠。她的腿部没有问题。患者患有IgA肾病引起的慢性肾脏病，并接受血液透析。体格检查显示，她的双手拇指、食指、中指和无名指桡侧半的掌面感觉减退。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying mechanism of this patient's current symptoms?",
+    "zh": "以下哪项最可能是该患者目前症状的潜在机制？"
+  },
+  "options": {
+    "A": {
+      "en": "Endomysial inflammatory infiltration",
+      "zh": "肌内膜炎性浸润"
+    },
+    "B": {
+      "en": "Endoneural arteriole hyalinization",
+      "zh": "神经内膜小动脉玻璃样变"
+    },
+    "C": {
+      "en": "Endoneural multifocal demyelination",
+      "zh": "神经内膜多灶性脱髓鞘"
+    },
+    "D": {
+      "en": "Mutations of a muscle structural protein gene",
+      "zh": "肌肉结构蛋白基因突变"
+    },
+    "E": {
+      "en": "Nerve compression within an anatomic compartment",
+      "zh": "解剖间室内神经受压"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Carpal tunnel syndrome (CTS) is a peripheral mononeuropathy caused by compression of the median nerve in the carpal tunnel, an area between the carpal bones and transverse carpal ligament on the palmar surface of the wrist. The median nerve and tendons of the long flexors of the digits pass through the carpal tunnel, and there is little room for expansion in this anatomic compartment.\n\nCTS is associated with conditions that reduce carpal tunnel space, including pregnancy (fluid accumulation), hypothyroidism (glycosaminoglycan buildup), diabetes mellitus (connective tissue thickening), and rheumatoid arthritis (tendon inflammation). Patients with a long history of hemodialysis can develop median nerve compression through deposition of beta-2 microglobulin (dialysis-associated amyloidosis) in the carpal tunnel.\n\nSymptoms and signs of CTS often occur bilaterally (in up to 65% of patients) and include:\n\n*   sensory impairment, pain, and/or paresthesias in the median nerve distribution (palmar surface of the first 3 digits and radial half of the fourth). Symptoms are usually worse at night.\n*   motor weakness during thumb abduction/opposition and thenar atrophy.\n*   Tinel sign (tapping over the flexor surface of the wrist reproduces symptoms) and Phalen sign (flexion of the wrist reproduces symptoms).\n\n(Choice A) Endomysial inflammatory infiltration is found on muscle biopsy in polymyositis, a myopathy that usually presents with proximal muscle weakness, not distal sensory symptoms as seen in this patient.\n\n(Choice B) Endoneural arteriole hyalinization can occur in diabetes mellitus (diabetic microangiopathy) and most commonly results in a distal, symmetric peripheral polyneuropathy that usually starts in the feet. This patient does not have diabetes and her symptoms follow a median nerve distribution, which is more likely due to compressive neuropathy.\n\n(Choice C) Endoneural inflammatory infiltration with multifocal demyelination is seen in Guillain-Barré syndrome, a demyelinating peripheral neuropathy that typically presents with ascending motor weakness. Patients with median nerve compression under the flexor retinaculum have focal, not multifocal, demyelination.\n\n(Choice D) Duchenne muscular dystrophy is an X-linked condition that occurs due to mutation or deletion of the dystrophin gene. This myopathy predominantly affects young boys and presents with proximal muscle weakness and pseudohypertrophy of the calves. {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "腕管综合征 (CTS) 是一种周围神经单神经病变，由腕管内正中神经受压引起，腕管是腕骨和腕横韧带之间位于手腕掌侧的区域。正中神经和手指长屈肌的肌腱穿过腕管，此解剖间室内几乎没有扩张空间。\n\nCTS 与减少腕管空间的疾病相关，包括妊娠（体液积聚）、甲状腺功能减退症（糖胺聚糖堆积）、糖尿病（结缔组织增厚）和类风湿关节炎（肌腱炎症）。长期接受血液透析的患者可能会因β-2微球蛋白在腕管内沉积（透析相关性淀粉样变性）而出现正中神经受压。\n\nCTS 的症状和体征通常双侧发生（高达65%的患者），包括：\n\n*   正中神经分布区域的感觉障碍、疼痛和/或感觉异常（前三个手指的掌面和第四个手指的桡侧半）。症状通常在夜间加重。\n*   拇指外展/对掌和鱼际肌萎缩时的运动无力。\n*   Tinel 征（叩击手腕屈侧表面可诱发症状）和 Phalen 征（手腕屈曲可诱发症状）。\n\n（选项 A）肌内膜炎性浸润见于多发性肌炎的肌肉活检，这是一种肌病，通常表现为近端肌无力，而不是该患者所见的远端感觉症状。\n\n（选项 B）神经内膜小动脉玻璃样变可在糖尿病（糖尿病微血管病变）中发生，最常导致远端、对称性周围多发性神经病，通常从足部开始。该患者没有糖尿病，她的症状遵循正中神经分布，这更可能是由于压迫性神经病变所致。\n\n（选项 C）神经内膜炎性浸润伴多灶性脱髓鞘见于格林-巴利综合征，这是一种脱髓鞘性周围神经病，通常表现为上行性运动无力。屈肌支持带下正中神经受压的患者有局灶性而非多灶性脱髓鞘。\n\n（选项 D）杜兴肌营养不良症是一种 X 连锁疾病，是由于肌营养不良蛋白基因突变或缺失引起的。这种肌病主要影响年轻男孩，表现为近端肌无力和腓肠肌假性肥大。 {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of carpal tunnel syndrome (CTS), its etiology, clinical presentation, and association with hemodialysis. It requires understanding the underlying mechanism of nerve compression and differentiating it from other neuromuscular disorders.\n\nTo solve this question, recognize the classic symptoms of CTS (nocturnal pain/paresthesia in median nerve distribution) and the patient's hemodialysis history (risk factor for dialysis-related amyloidosis causing CTS). Rule out other options based on their distinct clinical features and pathophysiology.",
+    "zh": "此题考察了腕管综合征 (CTS) 的知识，包括其病因、临床表现以及与血液透析的关系。它需要理解神经受压的潜在机制，并将其与其他神经肌肉疾病区分开来。\n\n要解决这个问题，需要认识到 CTS 的典型症状（正中神经分布区域的夜间疼痛/感觉异常）以及患者的血液透析病史（导致 CTS 的透析相关性淀粉样变性的危险因素）。根据其他选项的独特临床特征和病理生理学排除其他选项。"
+  },
+  "tags": "Carpal tunnel syndrome; Median nerve compression; Hemodialysis; Dialysis-associated amyloidosis; Peripheral neuropathy; Musculoskeletal; Neurology",
+  "category": "Neuro",
+  "question_id": "1264",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1264",
+  "extracted_at": "2025-11-05T15:14:56.848754",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:18:28.835909",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man reports multiple episodes of lightheadedness while buttoning a tight shirt collar. During 2 episodes, he passed out briefly but sustained no injuries. His blood pressure was 70/40 mm Hg and pulse was 45/min during one of the episodes. Past medical history is significant for hypertension and diet-controlled diabetes mellitus. The patient is a lifetime nonsmoker and drinks alcohol on social occasions. On physical examination, his blood pressure is 125/72 mm Hg and pulse is 76/min without orthostatic changes. Stimulation of afferent sensory fibers in which of the following nerves is most likely responsible for this patient's symptoms? {{exhibit_1}}",
+    "zh": "一名65岁男性报告称，在系紧衬衫衣领时出现多次头昏眼花发作。在2次发作期间，他短暂晕厥但未受伤。在其中一次发作期间，他的血压为70/40 mmHg，脉搏为45/min。既往病史包括高血压和饮食控制的糖尿病。患者终生不吸烟，并且在社交场合饮酒。体格检查显示，他的血压为125/72 mmHg，脉搏为76/min，无体位性改变。刺激下列哪根神经的传入感觉纤维最有可能导致该患者的症状？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Stimulation of afferent sensory fibers in which of the following nerves is most likely responsible for this patient's symptoms?",
+    "zh": "刺激下列哪根神经的传入感觉纤维最有可能导致该患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Accessory",
+      "zh": "副神经"
+    },
+    "B": {
+      "en": "Glossopharyngeal",
+      "zh": "舌咽神经"
+    },
+    "C": {
+      "en": "Hypoglossal",
+      "zh": "舌下神经"
+    },
+    "D": {
+      "en": "Trigeminal",
+      "zh": "三叉神经"
+    },
+    "E": {
+      "en": "Vagus",
+      "zh": "迷走神经"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The patient's history is suggestive of CAROTID SINUS HYPERSENSITIVITY, triggered by pressure on the carotid sinus by a tight shirt collar. The carotid sinus baroreceptors are important in blood pressure control and use arterial wall stretch as an indicator of systemic blood pressure.\n\nThe carotid sinus is a dilation of the internal carotid artery located just above the bifurcation of the common carotid artery. The carotid sinus reflex has an afferent limb that arises from the baroreceptors in the carotid sinus and travels to the medullary centers via the Hering nerve, a branch of the GLOSSOPHARYNGEAL NERVE (CN IX). The efferent limb of the carotid sinus carries parasympathetic impulses via the VAGUS NERVE (CN X). Carotid sinus pressure or massage stimulates the baroreceptors and increases the firing rate from the carotid sinus, leading to an increase in parasympathetic output and withdrawal of sympathetic output to the heart and peripheral vasculature. The result is decreased blood pressure (via peripheral vasodilation) and decreased cardiac output (decreased contractility/stroke volume and heart rate). In sensitive individuals, this response can cause severe bradycardia, hypotension, and sometimes syncope.\n\n(Choices A, C, and D) The accessory (CN XI), hypoglossal (CN XII), and trigeminal (CN V) nerves do not transmit baroreceptor signals. The accessory nerve controls the sternocleidomastoid and trapezius muscles, the hypoglossal nerve primarily controls the muscles of the tongue, and the trigeminal nerve mediates facial sensation and also controls the muscles of mastication (chewing).\n\n(Choice E) The vagus nerve (CN X) acts as the afferent limb for the nerve fibers originating from the aortic arch baroreceptors and as an efferent limb for the carotid sinus reflex. However, a tight collar would stimulate carotid sinus (not aortic arch) baroreceptor afferents carried by the glossopharyngeal nerve.",
+    "zh": "患者的病史提示为颈动脉窦高敏，由紧身衬衫衣领对颈动脉窦的压迫引起。颈动脉窦压力感受器在血压控制中很重要，并使用动脉壁的伸展作为全身血压的指标。\n\n颈动脉窦是颈内动脉的扩张，位于颈总动脉分叉的上方。颈动脉窦反射具有传入支，该传入支源于颈动脉窦中的压力感受器，并通过赫令神经（舌咽神经（CN IX）的一个分支）到达延髓中枢。颈动脉窦的传出支通过迷走神经（CN X）传导副交感神经冲动。颈动脉窦压力或按摩刺激压力感受器并增加来自颈动脉窦的放电频率，导致副交感神经输出增加，并撤回对心脏和周围血管的交感神经输出。结果是血压降低（通过周围血管舒张）和心输出量减少（收缩力/每搏输出量和心率降低）。在敏感个体中，这种反应可引起严重的心动过缓、低血压，有时甚至晕厥。\n\n（选项A、C和D）副神经（CN XI）、舌下神经（CN XII）和三叉神经（CN V）不传递压力感受器信号。副神经控制胸锁乳突肌和斜方肌，舌下神经主要控制舌头肌肉，而三叉神经介导面部感觉，并控制咀嚼肌。\n\n（选项E）迷走神经（CN X）充当来自主动脉弓压力感受器的神经纤维的传入支，并充当颈动脉窦反射的传出支。但是，紧身衣领会刺激由舌咽神经携带的颈动脉窦（而非主动脉弓）压力感受器传入神经。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the carotid sinus reflex and the cranial nerves involved in its afferent and efferent pathways. Specifically, it assesses the role of the glossopharyngeal nerve in transmitting signals from the carotid sinus baroreceptors to the brainstem.\n\nTo solve this question, recognize the scenario as carotid sinus hypersensitivity. Recall that the afferent limb of the carotid sinus reflex is mediated by the glossopharyngeal nerve, while the efferent limb is mediated by the vagus nerve.",
+    "zh": "这个问题考察了对颈动脉窦反射及其涉及其传入和传出通路的脑神经的知识。具体来说，它评估了舌咽神经在将信号从颈动脉窦压力感受器传递到脑干中的作用。\n\n要解决这个问题，需要认识到这种情况是颈动脉窦高敏。回想一下，颈动脉窦反射的传入支由舌咽神经介导，而传出支由迷走神经介导。"
+  },
+  "tags": "Carotid sinus hypersensitivity; Glossopharyngeal nerve; Vagus nerve; Baroreceptors; Autonomic nervous system; Syncope; Cardiovascular system; Neurology",
+  "category": "CVS",
+  "question_id": "1609",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1609",
+  "extracted_at": "2025-11-05T12:01:04.753815",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:51:48.562855",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

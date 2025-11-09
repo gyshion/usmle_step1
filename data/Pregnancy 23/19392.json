@@ -1,0 +1,74 @@
+{
+  "question_stem": {
+    "en": "A 31-year-old woman, gravida 3 para 2, at 28 weeks gestation comes to the office for a prenatal visit. She has chronic hypertension that has been well controlled during this pregnancy. At the patient's previous prenatal visits, her blood pressure ranged from 120/70 to 130/80 mm Hg. Today, her blood pressure is 150/100 mm Hg and repeat is 152/98 mm Hg. Fundal height is 24 cm. Urinalysis shows 2+ protein. A transabdominal ultrasound reveals oligohydramnios and a fetus with growth restriction. Compared to normal placental parameters, this patient most likely has which of the following hemodynamic changes? {{exhibit_1}}",
+    "zh": "一位31岁的女性，孕3产2，妊娠28周，前来就诊进行产前检查。她患有慢性高血压，在本次妊娠期间控制良好。在患者之前的产前检查中，她的血压范围为120/70 mmHg到130/80 mmHg。今天，她的血压为150/100 mmHg，复测为152/98 mmHg。宫高为24 cm。尿液分析显示2+蛋白。经腹超声检查显示羊水过少和胎儿生长受限。与正常的胎盘参数相比，该患者最有可能出现以下哪种血流动力学变化？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following hemodynamic changes is most likely in this patient?",
+    "zh": "该患者最有可能出现以下哪种血流动力学变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Placental vascular resistance: ↓, Uteroplacental perfusion: ↓, Umbilical vein oxygen delivery: ↑",
+      "zh": "胎盘血管阻力：↓，子宫胎盘灌注：↓，脐静脉氧输送：↑"
+    },
+    "B": {
+      "en": "Placental vascular resistance: ↓, Uteroplacental perfusion: ↑, Umbilical vein oxygen delivery: ↑",
+      "zh": "胎盘血管阻力：↓，子宫胎盘灌注：↑，脐静脉氧输送：↑"
+    },
+    "C": {
+      "en": "Placental vascular resistance: No change, Uteroplacental perfusion: ↓, Umbilical vein oxygen delivery: ↓",
+      "zh": "胎盘血管阻力：无变化，子宫胎盘灌注：↓，脐静脉氧输送：↓"
+    },
+    "D": {
+      "en": "Placental vascular resistance: ↑, Uteroplacental perfusion: ↓, Umbilical vein oxygen delivery: No change",
+      "zh": "胎盘血管阻力：↑，子宫胎盘灌注：↓，脐静脉氧输送：无变化"
+    },
+    "E": {
+      "en": "Placental vascular resistance: ↑, Uteroplacental perfusion: ↓, Umbilical vein oxygen delivery: ↑",
+      "zh": "胎盘血管阻力：↑，子宫胎盘灌注：↓，脐静脉氧输送：↑"
+    },
+    "F": {
+      "en": "Placental vascular resistance: ↑, Uteroplacental perfusion: ↑, Umbilical vein oxygen delivery: ↑",
+      "zh": "胎盘血管阻力：↑，子宫胎盘灌注：↑，脐静脉氧输送：↑"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The patient presents with new-onset hypertension (150/100 mm Hg) and proteinuria (2+), consistent with preeclampsia. Preeclampsia is characterized by abnormal placental development, leading to increased placental vascular resistance. This reduced blood flow to the placenta results in decreased uteroplacental perfusion and consequently, decreased umbilical vein oxygen delivery to the fetus. The ultrasound findings of oligohydramnios and fetal growth restriction are also consistent with these hemodynamic changes. Therefore, the most likely hemodynamic changes are increased placental vascular resistance, decreased uteroplacental perfusion, and decreased umbilical vein oxygen delivery. {{exhibit_1}}",
+    "zh": "患者出现新发高血压（150/100 mmHg）和蛋白尿（2+），与先兆子痫一致。先兆子痫的特征是胎盘发育异常，导致胎盘血管阻力增加。这导致胎盘血流量减少，从而导致子宫胎盘灌注减少，进而导致脐静脉氧输送减少至胎儿。超声检查发现羊水过少和胎儿生长受限也与这些血流动力学变化一致。因此，最有可能的血流动力学变化是胎盘血管阻力增加、子宫胎盘灌注减少和脐静脉氧输送减少。 {{exhibit_1}}"
+  },
+  "summary": {
+    "en": "The patient's presentation of new-onset hypertension, proteinuria, oligohydramnios, and fetal growth restriction at 28 weeks gestation is indicative of preeclampsia. Preeclampsia is associated with increased placental vascular resistance, decreased uteroplacental perfusion, and reduced umbilical vein oxygen delivery.",
+    "zh": "患者在妊娠28周出现新发高血压、蛋白尿、羊水过少和胎儿生长受限，提示为先兆子痫。先兆子痫与胎盘血管阻力增加、子宫胎盘灌注减少和脐静脉氧输送减少有关。"
+  },
+  "tags": [
+    "preeclampsia",
+    "hypertension",
+    "oligohydramnios",
+    "fetal growth restriction",
+    "placental vascular resistance",
+    "uteroplacental perfusion",
+    "umbilical vein oxygen delivery",
+    "obstetrics",
+    "high-risk pregnancy"
+  ],
+  "category": "Pregnancy",
+  "question_id": "19392",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pregnancy 23\\19392",
+  "extracted_at": "2025-11-05T19:46:51.324719",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:48:43.742721",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "An 18-year-old college student is hospitalized due to a high fever and confusion. According to the patient's roommate, the symptoms started about 6 hours ago. The patient was feeling well this morning except for some nausea. She has had several episodes of pneumonia in the past and had bacterial meningitis a year ago, which was treated with ceftriaxone. Temperature is 39.1 C (102.4 F); blood pressure is 104/70 mm Hg; and pulse is 110/min. The patient is lethargic but is able to follow simple commands and give single-word answers with prompting. Physical examination reveals a petechial rash on the trunk and extremities, including the palms and soles. Neck stiffness and photophobia are also noted.",
+    "zh": "一名18岁的大学生因高烧和意识模糊住院。根据患者的室友的说法，症状大约在6小时前开始出现。患者今天早上感觉良好，除了有些恶心。她过去曾发生过几次肺炎，一年前曾患细菌性脑膜炎，并用头孢曲松治疗。体温为39.1摄氏度（102.4华氏度）；血压为104/70 mmHg；脉搏为110次/分钟。患者嗜睡，但能够听从简单的指令，并在提示下用单个单词回答问题。体格检查显示躯干和四肢出现瘀点状皮疹，包括手掌和足底。还注意到颈部僵硬和畏光。"
+  },
+  "question": {
+    "en": "Which of the following primary immune system impairments is most likely responsible for this patient's recurrent infections?",
+    "zh": "以下哪种原发性免疫系统损伤最有可能导致该患者反复感染？"
+  },
+  "options": {
+    "A": {
+      "en": "Defective T-cell maturation",
+      "zh": "T细胞成熟缺陷"
+    },
+    "B": {
+      "en": "Excessive production of IgE antibodies",
+      "zh": "IgE抗体过度产生"
+    },
+    "C": {
+      "en": "Impaired cellular chemotaxis",
+      "zh": "细胞趋化性受损"
+    },
+    "D": {
+      "en": "Inability to form the membrane attack complex",
+      "zh": "无法形成膜攻击复合物"
+    },
+    "E": {
+      "en": "Ineffective neutrophil oxidative burst",
+      "zh": "中性粒细胞氧化爆发无效"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This young woman's rapid-onset high fever, confusion, neck stiffness, and petechial rash likely indicate bacterial meningitis due to *Neisseria meningitidis* infection. Although healthy, college-aged individuals are at high risk for a single episode of bacterial meningitis, this patient's recurrent pneumonia and previous meningitis suggest an underlying immune system impairment. Culture results from her previous infections are unknown, but the leading cause of pneumonia and meningitis is *Streptococcus pneumoniae*. \n\nThe major virulence factor for both *N meningitidis* and *S pneumoniae* is a polysaccharide capsule, which allows the bacteria to evade the following host defenses:\n\n*   **Phagocytosis:** Capsules have a negative charge, which repels the negative charge of the phagocyte surface. Capsules are also hydrophilic, which reduces surface tension at the interface between the capsule and the phagocyte, making engulfment more difficult.\n*   **Opsonization:** Capsules cover underlying antigenic epitopes on the bacterial cell membrane, which limits immunoglobulin binding. This impairs immunoglobulin-mediated opsonization and classical complement pathway activation.\n\nTherefore, initial control of encapsulated bacterial infections is largely dependent on the alternative complement cascade, which is triggered when autoactivated C3 lands on the bacterial cell and undergoes amplification. The alternative pathway generates the opsonin C3b (which increases bacterial phagocytosis), but it primarily kills encapsulated bacteria via the creation of MEMBRANE ATTACK COMPLEXES (MACs). MACs form pores in the bacterial surface, leading to membrane destabilization and osmotic lysis. Therefore, patients who have defects in the complement proteins that generate the MAC (C5-C9) are at risk for recurrent, life-threatening infections from encapsulated bacteria.\n\n(Choice A) DiGeorge syndrome causes T-cell lymphopenia due to congenital absence of the thymus and parathyroid glands. Absent T-cells cause recurrent viral and fungal infections, not recurrent bacteremia.\n\n(Choice B) Excessive IgE production is seen in hyperimmunoglobulin E syndrome. Although recurrent sinopulmonary infection is common, patients also have severe eczema and recurrent abscesses.\n\n(Choice C) Impaired neutrophil chemotaxis is seen in leukocyte adhesion defects, which prevent neutrophil extravasation and migration to areas of infection. Although recurrent bacterial infection is common, patients often have a variety of other findings (eg, absence of pus, delayed umbilical cord separation, impaired wound healing).\n\n(Choice E) Chronic granulomatous disease is an X-linked immunodeficiency due to impaired NADPH oxidase, which prevents neutrophils from generating an oxidative burst. Although recurrent pneumonia is common, meningitis is not. In addition, infections associated with this defect are caused by certain catalase-positive organisms (eg, staphylococci), not encapsulated bacteria (eg, *N meningitidis*).\n\nEducational objective:\nDeficiency of the complement factors that form the membrane attack complex (C5-C9) results in recurrent infections of the lung and meninges by encapsulated bacteria (eg, *Streptococcus pneumoniae*, *Neisseria meningitidis*). {{exhibit_1}}",
+    "zh": "这位年轻女性的快速发病高烧、意识模糊、颈部僵硬和瘀点状皮疹可能表明由脑膜炎奈瑟菌感染引起的细菌性脑膜炎。尽管健康的大学生群体患单次细菌性脑膜炎的风险很高，但该患者反复发生肺炎和既往脑膜炎表明存在潜在的免疫系统损伤。她之前感染的培养结果尚不清楚，但肺炎和脑膜炎的主要病原体是肺炎链球菌。\n\n脑膜炎奈瑟菌和肺炎链球菌的主要毒力因子是多糖荚膜，它使细菌能够逃避以下宿主防御：\n\n*   **吞噬作用：**荚膜带有负电荷，它排斥吞噬细胞表面的负电荷。荚膜也是亲水的，这降低了荚膜和吞噬细胞之间的界面处的表面张力，使吞噬更加困难。\n*   **调理作用：**荚膜覆盖细菌细胞膜上的潜在抗原表位，这限制了免疫球蛋白的结合。这会损害免疫球蛋白介导的调理作用和经典补体途径激活。\n\n因此，包膜细菌感染的初始控制主要取决于替代补体级联反应，当自激活的C3附着在细菌细胞上并经历扩增时，就会触发替代补体级联反应。替代途径产生调理素C3b（增加细菌吞噬作用），但它主要通过产生膜攻击复合物（MAC）来杀死包膜细菌。MAC在细菌表面形成孔，导致膜不稳定和渗透性溶解。因此，补体蛋白中产生MAC（C5-C9）缺陷的患者有发生包膜细菌引起的反复、危及生命的感染的风险。\n\n（选项A） DiGeorge综合征由于胸腺和甲状旁腺先天性缺失导致T细胞淋巴细胞减少症。T细胞缺失会导致反复的病毒和真菌感染，而不是反复的菌血症。\n\n（选项B） 免疫球蛋白E过多症可见IgE过度产生。尽管反复发生鼻窦肺部感染很常见，但患者也会出现严重的湿疹和反复的脓肿。\n\n（选项C） 白细胞粘附缺陷可见中性粒细胞趋化性受损，这会阻止中性粒细胞外渗并迁移到感染区域。虽然反复细菌感染很常见，但患者通常还有其他各种发现（例如，无脓、脐带分离延迟、伤口愈合受损）。\n\n（选项E） 慢性肉芽肿病是一种X连锁免疫缺陷病，由于NADPH氧化酶受损，阻止中性粒细胞产生氧化爆发。虽然反复发生肺炎很常见，但脑膜炎则不然。此外，与此缺陷相关的感染是由某些过氧化氢酶阳性生物（例如，葡萄球菌）引起的，而不是包膜细菌（例如，脑膜炎奈瑟菌）。\n\n教育目标：\n形成膜攻击复合物（C5-C9）的补体因子缺乏导致包膜细菌（例如，肺炎链球菌、脑膜炎奈瑟菌）引起的肺部和脑膜反复感染。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of complement deficiencies, specifically the inability to form the membrane attack complex (MAC), and its association with recurrent infections by encapsulated bacteria. It also tests the ability to differentiate this condition from other immunodeficiencies based on clinical presentation and the types of infections commonly seen. \n\nTo solve this question, recognize the recurrent nature of the encapsulated bacterial infections (pneumonia and meningitis) and the absence of other characteristic findings associated with alternative immunodeficiencies. Focus on the role of the complement system in combating encapsulated organisms and the specific components involved in MAC formation.",
+    "zh": "此题考察对补体缺陷的认识，特别是无法形成膜攻击复合物（MAC），及其与包膜细菌引起的反复感染的关系。它还考察了根据临床表现和常发生的感染类型区分此病与其他免疫缺陷病的能力。\n\n为了解决这个问题，要认识到包膜细菌感染（肺炎和脑膜炎）的反复性，以及缺乏与替代免疫缺陷相关的其他特征性发现。重点关注补体系统在对抗包膜生物中的作用，以及参与MAC形成的特定组成部分。"
+  },
+  "tags": "Complement deficiency; Membrane attack complex; Encapsulated bacteria; Neisseria meningitidis; Streptococcus pneumoniae; Immunodeficiency; Recurrent infections; Meningitis; Pneumonia; Immunology",
+  "category": "Immunology",
+  "question_id": "739",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\739",
+  "extracted_at": "2025-11-05T14:45:52.312446",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:03:07.759876",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

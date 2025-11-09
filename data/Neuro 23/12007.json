@@ -1,0 +1,69 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man is brought to the emergency department due to acute-onset, right-sided weakness and slurred speech. He also has a severe headache and nausea. Medical history is significant for poorly controlled hypertension and chronic tobacco use. Blood pressure is 240/120 mm Hg and pulse is 104/min. On physical examination, the patient is lethargic with right hemiparesis and lower facial weakness, right hemisensory loss, and dysarthria. Noncontrast CT scan of the head is shown in the image below {{exhibit_1}}.",
+    "zh": "一名65岁男性因突发性右侧肢体无力和言语不清被送往急诊科。 他还伴有严重的头痛和恶心。 病史显示，患者高血压控制不佳，且长期吸烟。 血压为240/120 mmHg，脉搏为104/分钟。 体格检查显示，患者嗜睡，伴有右侧轻偏瘫和下颌面部无力、右侧感觉缺失和构音障碍。 下图{{exhibit_1}}显示了头部非增强CT扫描图像。"
+  },
+  "question": {
+    "en": "Which of the following cerebral blood vessels is most likely affected in this patient?",
+    "zh": "该患者最有可能受累的脑血管是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Cortical branches",
+      "zh": "皮质分支"
+    },
+    "B": {
+      "en": "Inferior division of middle cerebral artery",
+      "zh": "大脑中动脉的下部分支"
+    },
+    "C": {
+      "en": "Lenticulostriate arteries",
+      "zh": "豆纹动脉"
+    },
+    "D": {
+      "en": "Pontine arteries",
+      "zh": "脑桥动脉"
+    },
+    "E": {
+      "en": "Posterior cerebral artery",
+      "zh": "大脑后动脉"
+    },
+    "F": {
+      "en": "Superior division of middle cerebral artery",
+      "zh": "大脑中动脉的上部分支"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient's CT findings (eg, hyperdense mass) are consistent with an acute putaminal hemorrhage (ie, affecting the basal ganglia). Because of their location, putaminal hemorrhages almost always affect the adjacent internal capsule, leading to dysarthria, contralateral hemiparesis, and contralateral hemisensory loss due to disruption of the corticobulbar, corticospinal, and somatosensory fibers. As the hemorrhage expands, it leads to increase intracranial pressure (headache, nausea/vomiting, and altered mental status), midline shift from mass effect, and possible cerebral herniation.\n\nHypertensive vasculopathy involving the small, penetrating branches of the major cerebral arteries is the most common cause of spontaneous deep intracerebral hemorrhage. Chronic hypertension leads to the formation of Charcot-Bouchard aneurysms, which may ultimately rupture and bleed within the deep brain structures. The most frequently affected locations include the basal ganglia (putamen), cerebellar nuclei, and pons. The basal ganglia are supplied by the lenticulostriate arteries, which are deep, small vessel branches off the middle cerebral arteries.\n\n(Choice A) Cortical branches of the major cerebral arteries are affected in lobar hemorrhages (eg, occipital), as opposed to deep hypertensive hemorrhages. Spontaneous lobar hemorrhages tend to occur in the elderly due to amyloid angiopathy.\n\n(Choices B, E, and F) The middle (inferior and superior divisions) and posterior cerebral arteries are large, proximal vessels arising from the circle of Willis. These arteries are typically associated with ischemic stroke due to thrombotic/embolic vessel occlusion or subarachnoid hemorrhage after saccular aneurysm rupture; intracerebral hemorrhage involving the basal ganglia is more likely due to rupture of deep penetrating arteries.\n\n(Choice D) The pontine arteries are small branches of the basilar artery that can rupture in the setting of poorly controlled chronic hypertension. Pontine hemorrhages usually occur close to the midline and affect both sides of the pons. They typically present with coma (disruption of the reticular activating system), locked-in syndrome (corticospinal and corticobulbar tracts), and pinpoint pupils (descending sympathetic tract).\n\nEducational objective:\nSpontaneous deep intracerebral hemorrhage is typically caused by hypertensive vasculopathy involving the small, penetrating branches of the major cerebral arteries. The most frequently affected locations include the basal ganglia (putamen), cerebellar nuclei, thalamus, and pons. The putamen is supplied by the lenticulostriate arteries, which are deep, small vessel branches off the middle cerebral arteries. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "该患者的CT表现（例如，高密度肿块）与急性豆状核出血（即，影响基底神经节）一致。 由于其位置，豆状核出血几乎总是影响邻近的内囊，导致构音障碍、对侧偏瘫和对侧感觉缺失，这是由于皮质延髓束、皮质脊髓束和躯体感觉纤维的破坏所致。 随着出血的扩大，它会导致颅内压升高（头痛、恶心/呕吐和精神状态改变）、由占位效应引起的正中线移位以及可能的脑疝。\n\n涉及主要脑动脉的小分支穿透血管病变是自发性深部脑内出血最常见的原因。 慢性高血压会导致夏科-布沙尔动脉瘤的形成，最终可能破裂并在深部脑结构内出血。 最常受影响的部位包括基底神经节（豆状核）、小脑核和脑桥。 基底神经节由豆纹动脉供血，后者是大脑中动脉的深小血管分支。\n\n（选项A）主要脑动脉的皮质分支受累于叶出血（例如，枕叶出血），而不是深部高血压出血。 自发性叶出血倾向于发生于老年人，是由于淀粉样血管病所致。\n\n（选项B、E和F）大脑中动脉（下部和上部分支）和大脑后动脉是源自Willis环的大而近端的血管。 这些动脉通常与缺血性卒中有关，这是由于血栓/栓塞性血管闭塞或囊性动脉瘤破裂后的蛛网膜下腔出血所致； 累及基底神经节的脑内出血更可能是由于深穿透动脉破裂所致。\n\n（选项D）脑桥动脉是基底动脉的小分支，在慢性高血压控制不佳的情况下可能破裂。 脑桥出血通常发生在正中线附近，并影响脑桥的两侧。 它们通常表现为昏迷（网状激活系统受损）、闭锁综合征（皮质脊髓束和皮质延髓束）和针尖样瞳孔（下降交感神经束）。\n\n教育目标：\n自发性深部脑内出血通常由涉及主要脑动脉的小分支穿透血管病变引起。 最常受影响的部位包括基底神经节（豆状核）、小脑核、丘脑和脑桥。 豆状核由豆纹动脉供血，后者是大脑中动脉的深小血管分支。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the etiology, location, and clinical presentation of hypertensive intracerebral hemorrhage, specifically affecting the basal ganglia. It also requires interpretation of CT imaging to identify the hemorrhage.\n\nTo solve this question, recognize the patient's risk factors (hypertension), clinical presentation (hemiparesis, hemisensory loss, dysarthria), and CT findings (putaminal hemorrhage). Recall that lenticulostriate arteries supply the basal ganglia and are commonly affected in hypertensive hemorrhages.",
+    "zh": "此问题测试对高血压性脑内出血的病因、位置和临床表现的了解，特别是影响基底神经节。 它还需要对CT影像进行解读以识别出血。\n\n要解决这个问题，需要认识到患者的危险因素（高血压）、临床表现（偏瘫、感觉缺失、构音障碍）和CT表现（豆状核出血）。 回忆一下，豆纹动脉为基底神经节供血，并且通常在高血压性出血中受到影响。"
+  },
+  "tags": "Intracerebral hemorrhage; Hypertensive vasculopathy; Lenticulostriate arteries; Basal ganglia; Stroke; Neurology; Computed tomography; Charcot-Bouchard aneurysms",
+  "category": "Neuro",
+  "question_id": "12007",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\12007",
+  "extracted_at": "2025-11-05T15:13:17.318088",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:17:52.187555",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

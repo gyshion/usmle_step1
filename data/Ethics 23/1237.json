@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man is admitted to the inpatient unit of a busy community hospital for worsening shortness of breath over the last few days. He has a 40-pack-year smoking history and was initially diagnosed with chronic obstructive pulmonary disease exacerbation and treated accordingly. Chest x-ray on admission shows a large hilar opacity, and CT scan confirms the presence of a 4-cm mass in the right hilum. During the process of obtaining informed consent for bronchoscopy with biopsy, the patient says, \"Doc, please don't tell me what they find, because if it's cancer, I don't want to know.\"",
+    "zh": "一名65岁男性因过去几天呼吸困难加重而入院到一家繁忙的社区医院的住院病房。他有40包年的吸烟史，最初被诊断为慢性阻塞性肺病（COPD）急性加重并接受了相应的治疗。入院时的胸部X光片显示有大的肺门不透光影，CT扫描证实右肺门存在一个4厘米的肿块。在进行支气管镜检查和活检知情同意的过程中，患者说：“医生，请不要告诉我他们发现了什么，因为如果是癌症，我不想知道。”"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate response to this patient's request?",
+    "zh": "以下哪一项是对这位患者要求的最合适的回答？"
+  },
+  "options": {
+    "A": {
+      "en": "\"Hearing you have a lung mass is upsetting; perhaps take some time to think about whether you really want to undergo this procedure.\"",
+      "zh": "“听到您有肺部肿块令人沮丧；也许花一些时间考虑一下您是否真的想接受这项检查。”"
+    },
+    "B": {
+      "en": "\"I can't imagine how stressful this is for you, but if the results do show cancer, it would be important for you to make a decision about treatment.\"",
+      "zh": "“我无法想象这给您带来了多大的压力，但如果结果确实显示是癌症，对您来说做出治疗决定是很重要的。”"
+    },
+    "C": {
+      "en": "\"I won't share the results of the procedure if that is your preference, although I would like to understand how you came to that decision.\"",
+      "zh": "“如果这是您的偏好，我不会分享检查结果，尽管我很想知道您是如何做出这个决定的。”"
+    },
+    "D": {
+      "en": "\"It's normal to try and avoid hearing bad news; however, the uncertainty of not knowing your diagnosis can cause even more anxiety.\"",
+      "zh": "“试图避免听到坏消息是正常的；然而，不知道诊断的不确定性可能会引起更多的焦虑。”"
+    },
+    "E": {
+      "en": "\"You can choose to not hear your results, but you should appoint someone in your family to make decisions on your behalf.\"",
+      "zh": "“您可以选择不听取您的结果，但您应该指定您家人中的某人代表您做出决定。”"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Just as competent patients have the right to refuse medical care and interventions, they also have the right to refuse to receive diagnostic information. Requests to withhold information may stem from personal fears or cultural, religious, or social factors. The patient's wishes should be respected based on the principle of autonomy, and the patient should not feel pressured to change his decision.\n\nHowever, this patient likely has unspoken fears about a cancer diagnosis that can be addressed. An appropriate initial response is to attempt to understand why the patient feels this way. Efforts should be made to gently explore the patient's concerns and elicit questions he may have about potential diagnoses (eg, lung cancer and other possibilities). The physician should try to understand the patient's desires and concerns to develop a trusting relationship that may facilitate future collaborative treatment planning.\n\n(Choice A) This statement asks the patient to reconsider whether he wants a bronchoscopy based on his preference not to know the outcome. It could be experienced as putting pressure on the patient not to undergo the procedure and misses the opportunity to ask why the patient doesn't want to know the results.\n\n(Choice B) Although explaining how knowing the diagnosis may help the patient make subsequent treatment decisions, doing so prematurely without inquiring about the patient's reasoning may pressure the patient to acquiesce to the physician's desire, which does not respect the patient's autonomy.\n\n(Choice D) This response normalizes the tendency to avoid receiving bad news, but it makes the unfounded assumption that not knowing will cause more anxiety than bad news for this particular patient.\n\n(Choice E) This response respects the patient's autonomy but is dismissive and excludes future collaborative treatment planning. The physician should attempt to understand the patient's perspective and address his concerns.\n\nEducational objective:\nPatients have the right to have information withheld from them regarding their medical condition. Physicians must respect their wish not to know but should also explore the patient concerns to better understand their preferences and maximize their involvement in subsequent medical decision-making.",
+    "zh": "正如具备行为能力的患者有权拒绝医疗护理和干预一样，他们也有权拒绝接收诊断信息。 拒绝获取信息的要求可能源于个人恐惧或文化、宗教或社会因素。 应该根据自主原则尊重患者的意愿，并且不应该给患者施加改变其决定的压力。\n\n然而，这位患者可能对癌症诊断有未言明的恐惧，可以解决。一个合适的初步回应是试图理解患者为何有这种感觉。应该努力温和地探索患者的担忧，并引发他可能对潜在诊断（例如，肺癌和其他可能性）提出的问题。医生应该尝试理解患者的愿望和担忧，以建立信任关系，这可能有助于未来的合作治疗计划。\n\n（选项A）该陈述要求患者重新考虑他是否想要进行支气管镜检查，这基于他不想知道结果的偏好。这可能被理解为对患者施加压力，要求其不接受该程序，并且错失了询问患者为何不想知道结果的机会。\n\n（选项B）虽然解释了知道诊断结果如何帮助患者做出后续治疗决定，但在没有询问患者的推理的情况下过早地这样做可能会给患者施加压力，要求其屈从于医生的意愿，这并不尊重患者的自主权。\n\n（选项D）这种回应将避免听到坏消息的倾向正常化，但它做出了未经证实的假设，即不知道会比这个特定患者的坏消息引起更多的焦虑。\n\n（选项E）这种回应尊重了患者的自主权，但却显得轻视，并排除了未来的合作治疗计划。医生应该尝试理解患者的观点并解决他的担忧。\n\n教育目标：\n患者有权不被告知其医疗状况的相关信息。医生必须尊重他们不想知道的意愿，但也应该探索患者的担忧，以更好地理解他们的偏好，并最大限度地提高他们参与后续医疗决策的程度。"
+  },
+  "summary": {
+    "en": "This question tests the ethical principle of patient autonomy and the right to refuse medical information. It also assesses the ability to communicate effectively with patients who express a desire to avoid knowing their diagnosis.\n\nThe best approach is to acknowledge the patient's request, respect their autonomy, and explore the underlying reasons for their decision. Avoid pressuring the patient to reconsider or making assumptions about their emotional state.",
+    "zh": "这个问题考察了患者自主权的伦理原则以及拒绝医疗信息的权利。它还评估了与表达希望避免了解其诊断的患者进行有效沟通的能力。\n\n最佳方法是承认患者的要求，尊重他们的自主权，并探索他们做出决定的根本原因。避免给患者施加压力以要求他们重新考虑，或对他们的情绪状态做出假设。"
+  },
+  "tags": "Patient autonomy; Medical ethics; Informed consent; Communication skills; Lung cancer; Bronchoscopy",
+  "category": "Ethics",
+  "question_id": "1237",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\1237",
+  "extracted_at": "2025-11-05T14:17:17.059273",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:47:18.031493",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

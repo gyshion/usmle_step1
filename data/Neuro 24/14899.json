@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A study was conducted to determine the utility of adjunctive therapy in bacterial meningitis. Patients with acute bacterial meningitis whose cerebrospinal fluid (CSF) analysis showed gram-positive diplococci were divided into 2 groups. The first (control) group was given systemic antibiotics only, and the second (experimental) group was given dexamethasone followed by systemic antibiotics. Compared to the control group, patients in the experimental group developed fewer neurologic sequelae and had a lower risk of death. The experimental patients most likely benefited from the use of this drug due to which of the following?",
+    "zh": "一项研究旨在确定辅助治疗在细菌性脑膜炎中的作用。将脑脊液(CSF)分析显示革兰氏阳性双球菌的急性细菌性脑膜炎患者分为两组。第一组（对照组）仅给予全身抗生素，第二组（实验组）给予地塞米松，随后给予全身抗生素。与对照组相比，实验组患者神经系统后遗症较少，死亡风险较低。实验组患者最有可能从使用该药物中获益，原因是什么？"
+  },
+  "question": {
+    "en": "The experimental patients most likely benefited from the use of this drug due to which of the following?",
+    "zh": "实验组患者最有可能从使用该药物中获益，原因是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased cerebral metabolic activity",
+      "zh": "降低脑代谢活动"
+    },
+    "B": {
+      "en": "Decreased inflammatory response in the CSF",
+      "zh": "降低脑脊液中的炎症反应"
+    },
+    "C": {
+      "en": "Increased antibiotic penetration into the CSF",
+      "zh": "增加抗生素进入脑脊液"
+    },
+    "D": {
+      "en": "Increased bone marrow release of neutrophils",
+      "zh": "增加骨髓中性粒细胞的释放"
+    },
+    "E": {
+      "en": "Increased plasma glucose for cerebral use",
+      "zh": "增加血浆葡萄糖供脑使用"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Acute bacterial meningitis is characterized by a massive inflammatory response in the central nervous system. The inflammation is driven by bacterial subcapsular components, particularly macromolecules of the bacterial cell wall such as teichoic acid and peptidoglycan. These components trigger the release of inflammatory cytokines (eg, tumor necrosis factor-alpha, interferon-gamma, interleukin 12), leading to loosening of the tight junctions of the blood-brain barrier, vasogenic edema, elevation of intracranial pressure, and recruitment of leukocytes.\n\nStreptococcus pneumoniae, a gram-positive diplococcus, is the leading cause of acute bacterial meningitis in adults. Initial antibiotic therapy against S pneumoniae lyses the bacteria and releases cell wall components that increase cerebrospinal fluid (CSF) inflammatory cytokines. Studies have shown that pretreatment with dexamethasone reduces the levels of inflammatory cytokines in the CSF and limits risk of inflammation-induced morbidity (eg, seizures, focal neurologic deficits) and death. Other forms of bacterial meningitis, such as those due to Neisseria meningitidis and Haemophilus influenzae, do not benefit from glucocorticoid pretreatment, possibly because these gram-negative organisms have thinner cell walls (less peptidoglycan and no teichoic acid), resulting in less inflammatory cytokine release.\n\n(Choice A) Therapeutic hypothermia (32-34 C [89.6-93.2 F]) can be used after hypoxic/ischemic brain injury due to cardiac arrest. It reduces cerebral metabolic activity and limits metabolic strain within damaged neurologic tissue. This has been shown to improve neurologic recovery and long-term outcomes.\n\n(Choice C) The inflammatory response to bacterial components in the CSF loosens the tight junctions of the blood-brain barrier, which aids antibiotic penetration into the central nervous system. Dexamethasone reduces the inflammatory response and would be expected to decrease permeability of the blood-brain barrier.\n\n(Choice D) Glucocorticoids promote the release of granulocytes from the bone marrow and the movement of neutrophils off the endothelial wall into the systemic circulation. This often leads to an increase in the circulating white blood cell count with delayed migration into infected tissues.\n\n(Choice E) Glucocorticoids can cause a dose-dependent increase in fasting serum glucose levels due to stimulation of hepatic gluconeogenesis and inhibition of glucose uptake in adipose tissue. Although this increases the delivery of glucose to the brain, the primary reason glucocorticoids are protective in those with S pneumoniae meningitis is a reduction in brain inflammation.\n\nEducational objective:\nPneumococcal meningitis is associated with massive cerebrospinal fluid inflammatory cytokine release in response to bacterial cell wall components. Treatment with dexamethasone prior to antibiotic therapy has been shown to reduce bacterial inflammation and decrease the risk of adverse outcomes (eg, seizures, focal neurologic deficits) and death. Other forms of bacterial meningitis do not seem to benefit from glucocorticoid treatment.",
+    "zh": "急性细菌性脑膜炎的特征是中枢神经系统出现大规模炎症反应。炎症由细菌亚荚膜成分驱动，特别是细菌细胞壁的大分子，如磷壁酸和肽聚糖。这些成分会触发炎症细胞因子（例如，肿瘤坏死因子-α、干扰素-γ、白细胞介素 12）的释放，导致血脑屏障紧密连接松弛、血管源性水肿、颅内压升高和白细胞募集。\n\n肺炎链球菌（革兰氏阳性双球菌）是成人急性细菌性脑膜炎的主要病因。针对肺炎链球菌的初始抗生素治疗会裂解细菌，并释放增加脑脊液（CSF）炎症细胞子的细胞壁成分。研究表明，用地塞米松预处理可降低脑脊液中炎症细胞因子的水平，并限制炎症引起的发病率（如癫痫发作、局灶性神经功能缺损）和死亡的风险。其他类型的细菌性脑膜炎，如脑膜炎奈瑟菌和流感嗜血杆菌引起的脑膜炎，似乎不能从糖皮质激素预处理中获益，这可能是因为这些革兰氏阴性菌的细胞壁较薄（肽聚糖较少，且无磷壁酸），导致炎症细胞因子释放较少。\n\n(选项A) 治疗性低温（32-34°C [89.6-93.2°F]）可用于心脏骤停引起的缺氧/缺血性脑损伤后。它降低了脑代谢活动，并限制了受损神经组织内的代谢应激。这已被证明可以改善神经系统恢复和长期预后。\n\n(选项C) 脑脊液中细菌成分的炎症反应会使血脑屏障的紧密连接松弛，这有助于抗生素渗透到中枢神经系统。地塞米松可减轻炎症反应，预计会降低血脑屏障的通透性。\n\n(选项D) 糖皮质激素促进骨髓释放粒细胞，以及中性粒细胞从内皮壁向全身循环移动。这通常会导致循环白细胞计数增加，并延迟迁移到感染组织。\n\n(选项E) 糖皮质激素可由于刺激肝糖异生和抑制脂肪组织对葡萄糖的摄取，导致空腹血清葡萄糖水平呈剂量依赖性升高。尽管这增加了向大脑输送葡萄糖，但糖皮质激素在肺炎链球菌性脑膜炎患者中具有保护作用的主要原因是减少脑部炎症。\n\n教育目标：\n肺炎球菌性脑膜炎与细菌细胞壁成分反应相关的脑脊液大规模炎症细胞因子释放有关。在抗生素治疗前用地塞米松治疗已被证明可减轻细菌炎症，并降低不良后果（如癫痫发作、局灶性神经功能缺损）和死亡的风险。其他形式的细菌性脑膜炎似乎不能从糖皮质激素治疗中获益。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathophysiology of bacterial meningitis, specifically the role of inflammation and the mechanism by which dexamethasone provides benefit in certain types of bacterial meningitis, such as pneumococcal meningitis.\n\nTo solve this question, one must identify the primary driver of morbidity and mortality in bacterial meningitis, which is the host's inflammatory response. Then, consider how dexamethasone, a corticosteroid, would counteract this process, leading to improved outcomes. Evaluating each option based on this understanding is crucial.",
+    "zh": "此题考察对细菌性脑膜炎的病理生理学的理解，特别是炎症的作用以及地塞米松在某些类型细菌性脑膜炎（如肺炎球菌性脑膜炎）中提供益处的机制。\n\n要解决这个问题，必须确定细菌性脑膜炎发病和死亡的主要驱动因素，即宿主的炎症反应。然后，考虑糖皮质激素地塞米松如何对抗这一过程，从而改善预后。根据这种理解评估每个选项至关重要。"
+  },
+  "tags": "Bacterial meningitis; Streptococcus pneumoniae; Dexamethasone; Inflammation; Cytokines; Blood-brain barrier; Neurologic sequelae; Corticosteroids; Pathophysiology; Infectious disease",
+  "category": "Neuro",
+  "question_id": "14899",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\14899",
+  "extracted_at": "2025-11-05T19:34:05.475522",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:34:05.486681",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

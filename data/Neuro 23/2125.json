@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man comes to the emergency department due to acute-onset slurred speech. He also has right-sided weakness but denies any trauma, headache, or loss of consciousness. His medical problems include hypertension and type 2 diabetes mellitus. The patient has smoked 1 pack of cigarettes daily for 20 years. Neurologic examination shows right-sided lower facial droop sparing of the forehead muscles. Motor strength is 3/5 on the right and 5/5 on the left with a Babinski response on the right. There is also dysmetria and dysdiadochokinesia involving his right upper and lower extremities. MRI of the brain reveals an acute lacunar infarct in the brainstem, as shown in the image below {{exhibit_1}}.",
+    "zh": "一位65岁男性因突发言语不清来到急诊科。他也有右侧肢体无力，但否认任何外伤、头痛或意识丧失。他的既往病史包括高血压和2型糖尿病。患者每天吸烟1包香烟，持续20年。神经系统检查显示右侧面部下半部分下垂，额肌未受累。右侧肌力为3/5，左侧为5/5，右侧出现Babinski征。他还出现涉及右侧上肢和下肢的辨距不良和协同运动不能。脑部MRI显示脑干出现急性腔隙性梗死，如下图{{exhibit_1}}所示。"
+  },
+  "question": {
+    "en": "Which of the following cranial nerves exits the brainstem closest to the level affected by this patient's stroke?",
+    "zh": "以下哪条脑神经从脑干的出口位置最接近该患者中风受累的部位？"
+  },
+  "options": {
+    "A": {
+      "en": "Facial",
+      "zh": "面神经"
+    },
+    "B": {
+      "en": "Hypoglossal",
+      "zh": "舌下神经"
+    },
+    "C": {
+      "en": "Oculomotor",
+      "zh": "动眼神经"
+    },
+    "D": {
+      "en": "Trigeminal",
+      "zh": "三叉神经"
+    },
+    "E": {
+      "en": "Trochlear",
+      "zh": "滑车神经"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has an acute lacunar ischemic stroke affecting the left medial pons at the level of the middle cerebellar peduncle. The trigeminal nerve (CN V) exits the brainstem at the lateral aspect of the mid-pons at the level of the middle cerebellar peduncles (a key neuroanatomic landmark for locating the nerve). The trigeminal sensory nuclei (eg, principal sensory, spinal, mesencephalic) run from the midbrain to the upper cervical spine and receive afferent signals for facial sensation via all 3 nerve branches (ophthalmic, maxillary, and mandibular). The motor nucleus is located in the lateral mid-pons and sends efferent signals to the muscles of mastication (eg, temporalis, masseter, pterygoids) via the mandibular branch.\n\nInfarcts involving the anterior pons can affect the corticospinal tract (contralateral hemiparesis, Babinski sign) and corticobulbar tract (contralateral lower facial palsy, dysarthria). Disruption of the corticopontine fibers that convey motor information from the cortex to the ipsilateral pontine gray matter may also result in contralateral dysmetria and dysdiadochokinesia (ataxic hemiparesis). The cerebellar deficits are contralateral to the lesion as the pontocerebellar fibers arising from the pontine gray matter decussate and enter the cerebellum through the contralateral middle cerebellar peduncle.\n\n(Choice A) The facial nucleus is located in the dorsolateral aspect of the caudal pons, and the nerve exits at the ventrolateral pontomedullary junction (below the middle cerebellar peduncles). This patient has sparing of the forehead muscles, which indicates that his facial weakness is a result of a central lesion affecting the corticobulbar tract and is not due to direct damage to the facial nucleus/nerve.\n\n(Choice B) The hypoglossal nucleus is located medially on the floor of the fourth ventricle at the level of the medulla, and the nerve exits at the rostral end of the preolivary sulcus.\n\n(Choice C) The oculomotor nucleus is located in the rostral midbrain at the level of the superior colliculus and red nucleus, and the nerve exits at the interpeduncular fossa.\n\n(Choice E) The trochlear nucleus is located in the caudal midbrain, and the nerve exits the dorsal midbrain just below the inferior colliculus (below the red nucleus). The trochlear nerve is the only cranial nerve to decussate before innervating its target (superior oblique muscle).\n\nEducational objective:\nInfarcts involving the anterior portion of the medial pons can produce dysarthria and contralateral hemiparesis/lower facial palsy due to disruption of the ipsilateral corticospinal and corticobulbar tracts. The trigeminal nerve arises at the level of the middle cerebellar peduncle at the lateral aspect of the mid-pons.",
+    "zh": "该患者患有急性腔隙性缺血性卒中，影响左侧正中脑桥，位于小脑中脚水平。三叉神经（CN V）从脑干中部脑桥的侧面，位于小脑中脚水平处（是定位该神经的关键神经解剖学标志）离开脑干。三叉神经感觉核（例如，主感觉核、脊髓核、中脑核）从脑干中部延伸至上颈椎，通过所有3个神经分支（眼支、上颌支和下颌支）接收面部感觉的传入信号。运动核位于脑桥中部的外侧，通过下颌支向咀嚼肌（例如颞肌、咬肌、翼肌）发送传出信号。\n\n涉及脑桥前部的梗死灶可影响皮质脊髓束（对侧偏瘫，Babinski征）和皮质脑干束（对侧面部下部麻痹，构音障碍）。传达来自皮质的运动信息到同侧脑桥灰质的皮质脑桥纤维的破坏也可能导致对侧辨距不良和协同运动不能（共济失调性轻偏瘫）。小脑功能障碍与病变对侧，因为起源于脑桥灰质的脑桥小脑纤维交叉，并通过对侧小脑中脚进入小脑。\n\n(选项 A) 面神经核位于尾部脑桥的背外侧，神经从脑桥延髓腹外侧交界处（小脑中脚下方）离开。该患者额肌未受累，这表明他的面部无力是由于影响皮质脑干束的中央病变所致，而不是直接损伤面神经核/神经所致。\n\n(选项 B) 舌下神经核位于延髓水平的第四脑室底部的内侧，神经从前橄榄沟的头部离开。\n\n(选项 C) 动眼神经核位于中脑顶部，位于上丘和红核水平，神经从脚间窝离开。\n\n(选项 E) 滑车神经核位于尾部中脑，神经从下丘（红核下方）正下方的背侧中脑离开。滑车神经是唯一一条在支配其靶点（上斜肌）之前交叉的脑神经。\n\n教育目标：\n涉及正中脑桥前部的梗死灶，可由于同侧皮质脊髓束和皮质脑干束的破坏而产生构音障碍和对侧偏瘫/面部下部麻痹。三叉神经起于脑桥中部的侧面，小脑中脚的水平。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of brainstem anatomy, specifically the location of cranial nerve nuclei and their exit points from the brainstem. It also assesses understanding of lacunar stroke syndromes and their associated neurological deficits.\n\nTo solve this question, identify the location of the lacunar infarct on the MRI {{exhibit_2}} (pons). Then, recall the cranial nerves that exit the brainstem at the level of the pons, particularly the trigeminal nerve. Consider the patient's clinical findings (contralateral hemiparesis, lower facial palsy, dysarthria) to further narrow down the location and affected structures {{exhibit_3}} {{exhibit_4}}.",
+    "zh": "此问题测试对脑干解剖学的了解，特别是脑神经核的位置及其从脑干的出口点。它还评估对腔隙性卒中综合征及其相关神经功能缺损的理解。\n\n要解决此问题，请确定MRI{{exhibit_2}}（脑桥）上腔隙性梗死的位置。然后，回忆从脑桥水平离开脑干的脑神经，特别是三叉神经。考虑患者的临床表现（对侧偏瘫、面部下部麻痹、构音障碍），以进一步缩小位置和受影响结构{{exhibit_3}} {{exhibit_4}}。"
+  },
+  "tags": "Brainstem anatomy; Cranial nerves; Lacunar stroke; Trigeminal nerve; Pons; Neurology; Neuroimaging; MRI; Stroke syndromes; Vascular disease",
+  "category": "Neuro",
+  "question_id": "2125",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\2125",
+  "extracted_at": "2025-11-05T15:32:56.519946",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:25:07.035435",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old woman collapses and dies despite appropriate resuscitation efforts. Prior to the episode, she reported substernal chest pressure brought on by exertion, as well as episodes of palpitations and light-headedness. An autopsy is performed, and myocardial histology is shown in the image below {{exhibit_1}}:",
+    "zh": "一名45岁女性在经过适当的复苏措施后仍突然倒地身亡。在此次发病前，她曾报告有劳力性胸骨后压迫感，以及心悸和头晕发作。尸检结果显示，心肌组织学如下图{{exhibit_1}}："
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this woman's condition?",
+    "zh": "以下哪项最可能是该女性的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Genetically mediated abnormality in cell junctions",
+      "zh": "细胞连接的遗传介导异常"
+    },
+    "B": {
+      "en": "Genetically mediated abnormality in ion channels",
+      "zh": "离子通道的遗传介导异常"
+    },
+    "C": {
+      "en": "Genetically mediated abnormality in sarcomeres",
+      "zh": "肌节的遗传介导异常"
+    },
+    "D": {
+      "en": "Infiltrative disease due to deposition of amyloid fibrils",
+      "zh": "由于淀粉样蛋白原纤维沉积引起的浸润性疾病"
+    },
+    "E": {
+      "en": "Infiltrative disease due to deposition of granulomas",
+      "zh": "由于肉芽肿沉积引起的浸润性疾病"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Histologic examination of this patient's myocardium is consistent with hypertrophic cardiomyopathy (HCM), which is characterized by cardiomyocyte hypertrophy with haphazard cellular arrangement and prominent interstitial spacing with fibrosis. HCM is caused by genetic mutations affecting structural proteins of the cardiac sarcomere, most commonly beta-myosin heavy chain and myosin-binding protein C. Approximately 50% of cases result from recognized familial mutations with autosomal dominant inheritance and variable expression.\n\nHCM is one of the most common causes of sudden cardiac death (SCD) in young adults. Although SCD due to HCM often occurs with exertion, it can also occur at rest. It is believed that cardiomyocyte disarray and fibrosis alter the spatial relationship of intercalated discs (the primary mediators of organized cardiac conduction), increasing susceptibility to ventricular arrhythmia (eg, ventricular tachycardia, ventricular fibrillation). Chronic myocardial ischemia, which can occur due to microvascular dysfunction and insufficient blood supply to hypertrophied myocardium, also contributes to interstitial fibrosis and the risk of arrhythmia.\n\n(Choice A) Arrhythmogenic right ventricular cardiomyopathy results from mutations affecting proteins that make up desmosome cell junctions (eg, plakoglobin, desmoplakin). There is fibrosis and scarring of the right ventricle that predisposes to ventricular arrhythmias and SCD; however, histology does not demonstrate the cardiomyocyte hypertrophy or marked cellular disarray seen in HCM {{exhibit_2}}.\n\n(Choice B) Long QT syndrome and Brugada syndrome result from mutations affecting cardiac ion channels. Both disorders can lead to ventricular arrhythmias and SCD, but they do not involve structural derangement of the myocardium {{exhibit_3}}.\n\n(Choices D and E) Infiltrative disease of the myocardium, including the deposition of amyloid fibrils (ie, amyloidosis) and granulomas (eg, sarcoidosis), can predispose to ventricular arrhythmias and SCD; however, the infiltrative deposits are apparent on histopathology, and marked cellular disarray is not {{exhibit_4}}.\n\nEducational objective:\nHypertrophic cardiomyopathy is caused by genetic mutations affecting structural proteins of cardiac sarcomeres (eg, beta-myosin heavy chain, myosin-binding protein C) and is one of the most common causes of sudden cardiac death in young adults. Histologically, it is characterized by cardiomyocyte hypertrophy with haphazard cellular arrangement and interstitial fibrosis {{exhibit_5}}. {{exhibit_6}}",
+    "zh": "该患者心肌的组织学检查结果与肥厚型心肌病(HCM)一致，其特征是心肌细胞肥大，细胞排列紊乱，间质间隙增大伴纤维化。HCM是由影响心脏肌节结构蛋白的基因突变引起的，最常见的是β-肌球蛋白重链和肌球蛋白结合蛋白C。大约50%的病例是由已知的家族性突变引起，具有常染色体显性遗传和可变表达。\n\nHCM是年轻人猝死(SCD)的最常见原因之一。尽管HCM引起的SCD通常发生在劳力时，但也可能发生在静息状态。据认为，心肌细胞排列紊乱和纤维化会改变闰盘(有组织心脏传导的主要介质)的空间关系，从而增加室性心律失常(例如，室性心动过速、室颤)的易感性。慢性心肌缺血，这可能是由于微血管功能障碍和肥大心肌的血供不足引起的，也会导致间质纤维化和心律失常的风险。\n\n(选项A) 致心律失常性右室心肌病是由于影响构成桥粒细胞连接的蛋白质（例如，桥粒蛋白、桥粒斑蛋白）的突变引起的。右心室有纤维化和瘢痕形成，易发生室性心律失常和SCD；然而，组织学检查并未显示HCM中可见的心肌细胞肥大或明显的细胞排列紊乱{{exhibit_2}}。\n\n(选项B) 长QT综合征和Brugada综合征是由影响心脏离子通道的突变引起的。这两种疾病都可能导致室性心律失常和SCD，但它们不涉及心肌的结构紊乱{{exhibit_3}}。\n\n(选项D和E) 心肌浸润性疾病，包括淀粉样蛋白原纤维（即淀粉样变性）和肉芽肿（例如，结节病）的沉积，可导致室性心律失常和SCD；然而，浸润性沉积物在组织病理学上是明显的，并且没有明显的细胞排列紊乱{{exhibit_4}}。\n\n教育目标：\n肥厚型心肌病是由影响心脏肌节结构蛋白（例如，β-肌球蛋白重链、肌球蛋白结合蛋白C）的基因突变引起的，是年轻人猝死的最常见原因之一。组织学上，其特征是心肌细胞肥大，细胞排列紊乱和间质纤维化{{exhibit_5}}。{{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hypertrophic cardiomyopathy (HCM) as a cause of sudden cardiac death in young adults, focusing on the genetic mutations affecting sarcomere proteins and the characteristic histological findings of cardiomyocyte hypertrophy and disarray.\n\nTo solve this question, recognize the clinical presentation of exertional chest pain, palpitations, and sudden death, and correlate it with the histological findings of cardiomyocyte hypertrophy and disarray, which are characteristic of HCM. Rule out other causes of sudden cardiac death based on their distinct pathophysiologies and histological features.",
+    "zh": "此题考察了对肥厚型心肌病(HCM)作为年轻人猝死原因的认识，重点是影响肌节蛋白的基因突变以及心肌细胞肥大和排列紊乱的特征性组织学发现。\n\n要解决这个问题，需要认识到劳力性胸痛、心悸和猝死的临床表现，并将其与心肌细胞肥大和排列紊乱的组织学发现相关联，这些是HCM的特征。根据猝死其他病因的独特病理生理学和组织学特征，排除其他原因。"
+  },
+  "tags": "Hypertrophic cardiomyopathy; Sudden cardiac death; Sarcomere; Cardiomyocyte hypertrophy; Genetic mutation; Cardiology; Pathology; Arrhythmia",
+  "category": "CVS",
+  "question_id": "95",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\95",
+  "extracted_at": "2025-11-05T12:20:23.517782",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:32:50.928995",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

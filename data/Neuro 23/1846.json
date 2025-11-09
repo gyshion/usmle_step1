@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A highly agitated 54-year-old man is brought to the emergency department by his family because he is unable to effectively communicate. He speaks clearly and with conviction but his sentences are incomprehensible. He does not appear to understand the doctor's questions, does not follow oral or written instructions, and cannot repeat simple phrases.",
+    "zh": "一名情绪激动的 54 岁男性由家人送往急诊科，因为他无法有效沟通。他说话清晰且充满自信，但他的句子令人无法理解。他似乎不理解医生的提问，不听从口头或书面指示，并且无法重复简单的短语。"
+  },
+  "question": {
+    "en": "Branch occlusion of which of the following arteries is most likely responsible for this patient's condition?",
+    "zh": "以下哪条动脉的分支闭塞最有可能导致该患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Anterior cerebral artery",
+      "zh": "大脑前动脉"
+    },
+    "B": {
+      "en": "Anterior inferior cerebellar artery",
+      "zh": "小脑前下动脉"
+    },
+    "C": {
+      "en": "Middle cerebral artery",
+      "zh": "大脑中动脉"
+    },
+    "D": {
+      "en": "Posterior cerebral artery",
+      "zh": "大脑后动脉"
+    },
+    "E": {
+      "en": "Posterior inferior cerebellar artery",
+      "zh": "小脑后下动脉"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has fluent aphasia, a form of receptive aphasia characterized by speech that is fluent, well articulated, and melodic - but meaningless. Individuals stricken with fluent aphasia cannot understand verbal or written language. Repetition is usually affected to the same degree as the impairment in comprehension. Typically, patients will have no awareness of their cognitive deficit. Fluent aphasia is often produced by a lesion in Wernicke's area, which is located in the auditory association cortex within the posterior portion of the superior temporal gyrus in the dominant (usually left) temporal lobe.\n\nThe regions of the cerebral cortex supplied by the middle cerebral artery (MCA) are approximated by the red oval in the image below. The inferior terminal MCA branches supply Wernicke's area {{exhibit_1}}.\n\n(Choices A, B, D, and E) The anterior cerebral artery, anterior inferior cerebellar artery, posterior cerebral artery, and posterior inferior cerebellar artery do not typically service Wernicke's area. Consequently, occlusions of these arteries would not be associated with Wernicke's aphasia.\n\nEducational objective:\nA lesion in Wernicke's area can cause receptive aphasia, which is characterized by well-articulated, nonsensical speech paired with a lack of language comprehension (Wernicke-Word salad). Wernicke's area is located in the auditory association cortex within the posterior portion of the superior temporal gyrus in the dominant temporal lobe. The middle cerebral artery supplies Broca's area (superior division) and Wernicke's area (inferior division).",
+    "zh": "该患者患有流畅性失语症，这是一种接受性失语症，其特征是言语流畅、清晰且有旋律，但毫无意义。患有流畅性失语症的个体无法理解口头或书面语言。复述通常会受到与理解障碍相同的程度的影响。通常，患者不会意识到他们的认知缺陷。流畅性失语症通常由韦尼克区病变引起，该区域位于优势（通常是左侧）颞叶上颞回后部的听觉联合皮层内。\n\n大脑中动脉 (MCA) 供血的脑皮质区域近似于下图中的红色椭圆形。MCA 的下端分支供应韦尼克区 {{exhibit_1}}。\n\n（选项 A、B、D 和 E）大脑前动脉、小脑前下动脉、大脑后动脉和小脑后下动脉通常不服务于韦尼克区。因此，这些动脉的闭塞不会与韦尼克氏失语症相关。\n\n教育目标：\n韦尼克区的病变可引起接受性失语症，其特征是清晰、无意义的言语，同时缺乏语言理解能力（韦尼克词汇杂乱）。韦尼克区位于优势颞叶上颞回后部的听觉联合皮层内。大脑中动脉供应布罗卡区（上部）和韦尼克区（下部）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the neuroanatomical basis of language and the vascular supply to the language centers of the brain, specifically Wernicke's area. It requires understanding the clinical presentation of fluent aphasia and its association with lesions in Wernicke's area. \n\nTo solve this question, recognize the symptoms of fluent aphasia (receptive aphasia) and recall that Wernicke's area is typically supplied by the middle cerebral artery. Eliminate answer choices that do not supply blood to Wernicke's area.",
+    "zh": "此问题考察对语言的神经解剖学基础以及大脑语言中枢（特别是韦尼克区）的血管供应的知识。它要求理解流畅性失语症的临床表现及其与韦尼克区病变的关系。\n\n为了解决这个问题，要认识到流畅性失语症（接受性失语症）的症状，并回忆起韦尼克区通常由大脑中动脉供血。排除不向韦尼克区供血的答案选项。"
+  },
+  "tags": "Fluent aphasia; Wernicke's area; Middle cerebral artery; Cerebrovascular accident; Neurology; Language comprehension; Receptive aphasia; Neuroanatomy",
+  "category": "Neuro",
+  "question_id": "1846",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1846",
+  "extracted_at": "2025-11-05T15:24:43.482008",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:21:53.426373",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

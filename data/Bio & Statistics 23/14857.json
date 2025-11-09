@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "Researchers want to explore the association between selective serotonin reuptake inhibitor (SSRI) use and pulmonary tuberculosis. A random sample of subjects age 20-84 with newly diagnosed pulmonary tuberculosis and an independent random sample of subjects without pulmonary tuberculosis are enrolled in the study. Subsequently, subjects who never had a prescription for an SSRI are defined as \"never users,\" and those who have had a prescription for an SSRI are defined as \"users.\" The study compares the frequency of SSRI use in subjects with and without a diagnosis of pulmonary tuberculosis and determines that SSRI use is not associated with pulmonary tuberculosis.",
+    "zh": "研究人员希望探讨选择性血清素再摄取抑制剂 (SSRI) 的使用与肺结核之间的关联。一项纳入 20-84 岁新诊断为肺结核的受试者随机样本，以及不患有肺结核的受试者的独立随机样本的研究。随后，从未获得过 SSRI 处方的受试者被定义为“从未使用者”，而获得过 SSRI 处方的受试者被定义为“使用者”。该研究比较了患有和未患有肺结核的受试者中 SSRI 的使用频率，并确定 SSRI 的使用与肺结核无关。"
+  },
+  "question": {
+    "en": "Which of the following best describes the design of this study?",
+    "zh": "以下哪项最能描述这项研究的设计？"
+  },
+  "options": {
+    "A": {
+      "en": "Case-control study",
+      "zh": "病例对照研究"
+    },
+    "B": {
+      "en": "Cross-sectional study",
+      "zh": "横断面研究"
+    },
+    "C": {
+      "en": "Prospective cohort study",
+      "zh": "前瞻性队列研究"
+    },
+    "D": {
+      "en": "Randomized controlled trial",
+      "zh": "随机对照试验"
+    },
+    "E": {
+      "en": "Retrospective cohort study",
+      "zh": "回顾性队列研究"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "A CASE-CONTROL study is an observational design in which potential participants are initially identified as CASES or CONTROLS according to the DEPENDENT VARIABLE or OUTCOME (eg, disease of interest). In the study described above, subjects age 20-84 newly diagnosed with pulmonary tuberculosis are cases, and subjects without pulmonary tuberculosis are controls. Once cases and controls are identified, the presence of past exposure to ≥1 RISK FACTORS of interest is determined in each group. In this study, the risk factor is selective serotonin reuptake inhibitor (SSRI) use (\"never users\" are subjects who never had a prescription for an SSRI, and \"users\" are subjects who have had a prescription for an SSRI). Finally, the FREQUENCY of exposure to the risk factor is compared between cases and controls to estimate the ASSOCIATION between the risk factor and the outcomes. Conducted as designed, this study can determine if SSRI use is associated with pulmonary tuberculosis.",
+    "zh": "病例对照研究是一种观察性设计，其中潜在的参与者最初根据因变量或结局（例如，感兴趣的疾病）被确定为病例或对照。在上述研究中，20-84 岁新诊断为肺结核的受试者为病例，未患有肺结核的受试者为对照。一旦确定了病例和对照，就会确定每组中过去接触≥1 个感兴趣的危险因素的情况。在这项研究中，危险因素是选择性血清素再摄取抑制剂 (SSRI) 的使用（“从未使用者”是指从未获得 SSRI 处方的受试者，“使用者”是指获得过 SSRI 处方的受试者）。最后，比较病例和对照之间接触危险因素的频率，以评估该危险因素与结局之间的关联。按照设计进行，这项研究可以确定 SSRI 的使用是否与肺结核相关。"
+  },
+  "summary": {
+    "en": "1) Study design 2) A case-control study is an observational study design; it begins with individuals who have the outcome (cases) and compares them with individuals who do not have the outcome (controls) according to history of exposure to ≥1 risk factors.",
+    "zh": "1) 研究设计 2) 病例对照研究是一种观察性研究设计；它从具有结局的个体（病例）开始，并根据接触≥1 个风险因素的病史将其与没有结局的个体（对照）进行比较。"
+  },
+  "tags": "Study design; Case-control study; Observational study",
+  "category": "Bio",
+  "question_id": "14857",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\14857",
+  "extracted_at": "2025-11-05T10:59:26.080799",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:21:41.960382",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

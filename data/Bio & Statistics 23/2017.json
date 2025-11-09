@@ -1,0 +1,72 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old woman with a history of recurrent urinary tract infections comes to the physician with dysuria and increased urinary frequency. Her urine culture grows colonies of Gram-negative bacteria. The bacteria are isolated and placed in a growth-enhancing nutrient solution, where they undergo rapid cellular division. As they are actively dividing, the bacterial cells are lysed and their DNA is extracted and purified. Analysis of the partially replicated DNA fragments shows the presence of uracil. This finding is most likely mediated by which of the following enzymes? {{exhibit_1}}",
+    "zh": "一名有复发性尿路感染病史的34岁女性因排尿困难和尿频就诊。她的尿培养显示革兰氏阴性菌落生长。分离细菌并将其置于促进生长的营养液中，细菌在其中进行快速细胞分裂。当它们积极分裂时，细菌细胞被裂解，并提取和纯化其DNA。对部分复制的DNA片段的分析表明存在尿嘧啶。此发现最有可能由以下哪种酶介导？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which enzyme is most likely responsible for the presence of uracil in the partially replicated bacterial DNA fragments?",
+    "zh": "哪种酶最有可能导致部分复制的细菌DNA片段中存在尿嘧啶？"
+  },
+  "options": {
+    "A": {
+      "en": "DNA ligase",
+      "zh": "DNA连接酶"
+    },
+    "B": {
+      "en": "DNA polymerase I",
+      "zh": "DNA聚合酶 I"
+    },
+    "C": {
+      "en": "DNA polymerase III",
+      "zh": "DNA聚合酶 III"
+    },
+    "D": {
+      "en": "Gyrase",
+      "zh": "促旋酶"
+    },
+    "E": {
+      "en": "Helicase",
+      "zh": "解旋酶"
+    },
+    "F": {
+      "en": "Primase",
+      "zh": "引物酶"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "The presence of uracil in DNA fragments during bacterial DNA replication is unusual because uracil is typically found in RNA, not DNA. Uracil is incorporated into RNA primers synthesized by primase during DNA replication. Primase is a DNA-dependent RNA polymerase that synthesizes short RNA primers using the separated strands of DNA at the replication fork as templates. These RNA primers are then used by DNA polymerase to initiate DNA synthesis. Therefore, the finding of uracil in partially replicated DNA fragments strongly suggests the involvement of primase in synthesizing these fragments. {{exhibit_1}}",
+    "zh": "在细菌DNA复制过程中，DNA片段中存在尿嘧啶是不寻常的，因为尿嘧啶通常存在于RNA中，而不是DNA中。尿嘧啶被整合到引物酶在DNA复制过程中合成的RNA引物中。引物酶是一种依赖DNA的RNA聚合酶，它使用DNA复制叉处的分离的DNA链作为模板合成短RNA引物。然后DNA聚合酶使用这些RNA引物来启动DNA合成。因此，在部分复制的DNA片段中发现尿嘧啶强烈提示引物酶参与了这些片段的合成。 {{exhibit_1}}"
+  },
+  "summary": {
+    "en": "The question describes a scenario where uracil is found in bacterial DNA during replication. Uracil is normally found in RNA. The presence of uracil in DNA fragments indicates the involvement of an enzyme that synthesizes RNA primers for DNA replication. Primase is responsible for synthesizing these RNA primers. Therefore, primase is the most likely enzyme mediating this finding.",
+    "zh": "该问题描述了一种情况，即在复制过程中在细菌DNA中发现了尿嘧啶。尿嘧啶通常存在于RNA中。DNA片段中存在尿嘧啶表明参与了合成用于DNA复制的RNA引物的酶。引物酶负责合成这些RNA引物。因此，引物酶是最有可能介导此发现的酶。"
+  },
+  "tags": [
+    "molecular biology",
+    "DNA replication",
+    "enzymes",
+    "primase",
+    "uracil",
+    "RNA primers",
+    "bacterial DNA"
+  ],
+  "category": "Bio",
+  "question_id": "2017",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\2017",
+  "extracted_at": "2025-11-05T19:52:16.254003",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:23:40.591927",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 16-year-old boy comes to the office due to 3 days of burning with urination and yellow penile discharge. The patient is sexually active with one female partner; they engage in vaginal intercourse and do not use condoms. He has no other medical conditions, takes no medications, and has no allergies. Urine nucleic acid amplification test results are pending, and urethral Gram stain is shown in the exhibit {{exhibit_1}}. Appropriate treatment of this patient's condition involves antibiotics from which of the following drug classes?",
+    "zh": "一名16岁男孩因排尿时有灼热感和黄色阴茎分泌物持续3天而到诊所就诊。患者有性行为，只有一个女性伴侣；他们进行阴道性交，不使用避孕套。他没有其他疾病，不服用任何药物，也没有任何过敏史。尿核酸扩增检测结果正在等待中，尿道革兰染色见{{exhibit_1}}。针对该患者病情的适当治疗涉及以下哪一类药物的抗生素？"
+  },
+  "question": {
+    "en": "Appropriate treatment of this patient's condition involves antibiotics from which of the following drug classes?",
+    "zh": "针对该患者病情的适当治疗涉及以下哪一类药物的抗生素？"
+  },
+  "options": {
+    "A": {
+      "en": "Fluoroquinolone and macrolide",
+      "zh": "氟喹诺酮类和大环内酯类"
+    },
+    "B": {
+      "en": "Fluoroquinolone and third-generation cephalosporin",
+      "zh": "氟喹诺酮类和第三代头孢菌素"
+    },
+    "C": {
+      "en": "Macrolide only",
+      "zh": "仅大环内酯类"
+    },
+    "D": {
+      "en": "Penicillin only",
+      "zh": "仅青霉素"
+    },
+    "E": {
+      "en": "Tetracycline and third-generation cephalosporin",
+      "zh": "四环素和第三代头孢菌素"
+    },
+    "F": {
+      "en": "Third-generation cephalosporin only",
+      "zh": "仅第三代头孢菌素"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient with dysuria and penile discharge likely has INFECTIOUS URETHRITIS due to sexually transmitted infection. Most cases are caused by *Neisseria gonorrhoeae, Chlamydia trachomatis,* or *Mycoplasma genitalium*. The underlying pathogen is typically identified with nucleic acid amplification testing (NAAT) of urine, vaginal, or endocervical swab. However, light microscopy with Gram stain can be performed to rapidly identify *N gonorrhoeae* while awaiting NAAT results, as follows:\n\n*   Gonococcal urethritis: leukocytes with intracellular gram-negative diplococci\n*   Nongonococcal urethritis: leukocytes with no visible organisms; because *Chlamydia* and *Mycoplasma* do not have sufficient peptidoglycan in the cell wall to take up Gram stain, they cannot be ruled in or out with microscopy\n\nPatients with gonococcal urethritis who have coinfection with *C trachomatis* or uncertain *C trachomatis* status (as in this patient whose NAAT results are pending) require a third-generation cephalosporin (eg, ceftriaxone) and a tetracycline (eg, doxycycline) to cover gonococcus and possible *C trachomatis* coinfection. Patients with gonococcal urethritis who have negative *C trachomatis* NAAT should be treated with third-generation cephalosporin (eg, ceftriaxone) alone (Choice F). Patients with nongonococcal urethritis should be treated with macrolide (eg, azithromycin) or tetracycline (eg, doxycycline) monotherapy (Choice C).\n\n(Choices A and B) *N gonorrhoeae* is largely resistant to fluoroquinolones (eg, ciprofloxacin, levofloxacin), so this class of medication is not recommended.\n\n(Choice D) Penicillin is the treatment of choice for syphilis. However, empiric treatment is not recommended unless a chancre is present. Other stages of syphilis should only be treated when serology (eg, rapid plasma reagin, VDRL) is positive or the organism is otherwise identified.\n\nEducational objective:\n\nInfectious urethritis in men is typically caused by *Neisseria gonorrhoeae, Chlamydia trachomatis,* or *Mycoplasma genitalium*. Diagnosis is generally made by nucleic acid amplification testing, but microscopy with Gram stain can be used to quickly diagnose gonococcal infection. Patients with gonorrhea and positive or uncertain *Chlamydia* status require ceftriaxone and doxycycline; ceftriaxone alone can be used in those who do not have *Chlamydia* coinfection.",
+    "zh": "该患者出现排尿困难和阴茎分泌物，很可能患有感染性尿道炎，这通常由性传播感染引起。大多数病例由淋病奈瑟菌、沙眼衣原体或生殖支原体引起。潜在的病原体通常通过尿液、阴道或宫颈拭子的核酸扩增检测 (NAAT) 鉴定。但是，在等待NAAT结果的同时，可以进行革兰染色的光镜检查，以便快速识别淋病奈瑟菌，如下所示：\n\n*   淋病性尿道炎：白细胞，细胞内革兰阴性双球菌\n*   非淋病性尿道炎：白细胞，无可见的病原体；由于沙眼衣原体和支原体细胞壁中没有足够的肽聚糖来摄取革兰染色，因此无法通过显微镜检查排除或确诊\n\n患有淋病性尿道炎且合并感染沙眼衣原体或沙眼衣原体状态不确定的患者（如该患者NAAT结果正在等待）需要使用第三代头孢菌素（例如头孢曲松）和四环素（例如多西环素）来覆盖淋球菌和可能的沙眼衣原体合并感染。沙眼衣原体NAAT结果阴性的淋病性尿道炎患者应单独使用第三代头孢菌素（例如头孢曲松）进行治疗（选项F）。非淋病性尿道炎患者应使用大环内酯类（例如阿奇霉素）或四环素（例如多西环素）单药治疗（选项C）。\n\n（选项A和B）淋病奈瑟菌对氟喹诺酮类（例如环丙沙星、左氧氟沙星）具有高度耐药性，因此不建议使用此类药物。\n\n（选项D）青霉素是治疗梅毒的首选药物。但是，除非存在下疳，否则不建议经验性治疗。其他阶段的梅毒只有在血清学（例如，快速血浆反应素、VDRL）呈阳性或以其他方式识别出病原体时才应进行治疗。\n\n教育目标：\n\n男性感染性尿道炎通常由淋病奈瑟菌、沙眼衣原体或生殖支原体引起。诊断通常通过核酸扩增检测进行，但可以使用革兰染色镜检快速诊断淋病感染。患有淋病且沙眼衣原体状态呈阳性或不确定的患者需要头孢曲松和多西环素；对于未合并沙眼衣原体感染的患者，可单独使用头孢曲松。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the appropriate antibiotic treatment for urethritis, specifically considering the possibility of gonorrhea and chlamydia co-infection. It requires understanding of antibiotic resistance patterns and recommended treatment guidelines. \n\nThe best approach is to consider the most likely pathogens causing urethritis (gonorrhea and chlamydia), recognize the need for dual therapy when co-infection is suspected, and select the antibiotic classes that effectively cover both organisms. Rule out options that are ineffective against gonorrhea or are used for other infections.",
+    "zh": "本题考察了对尿道炎的适当抗生素治疗的知识，特别是考虑到淋病和衣原体合并感染的可能性。它要求理解抗生素耐药性模式和推荐的治疗指南。\n\n最好的方法是考虑引起尿道炎的最可能的病原体（淋病和衣原体），认识到在怀疑合并感染时需要联合治疗，并选择能有效覆盖这两种病原体的抗生素类别。排除对淋病无效或用于其他感染的选项。"
+  },
+  "tags": "Urethritis; Neisseria gonorrhoeae; Chlamydia trachomatis; Sexually transmitted infections; Antibiotic treatment; Cephalosporins; Tetracyclines; Gram stain",
+  "category": "Micro",
+  "question_id": "1949",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1949",
+  "extracted_at": "2025-11-05T15:02:43.986260",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:11:01.171891",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

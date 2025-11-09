@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "Researchers are studying mechanisms of human infection by animal viruses. The investigators induce random mutations in the genome of an avian influenza virus that is unable to infect humans but is structurally similar to human influenza A virus. A mutated isolate is found to be able to infect human upper respiratory tract epithelial cells. Alteration in which of the following viral components most likely enabled this novel strain to cause cross-species infection?",
+    "zh": "研究人员正在研究动物病毒感染人类的机制。研究人员诱导了禽流感病毒基因组的随机突变，该病毒无法感染人类，但在结构上与人类甲型流感病毒相似。发现一个突变株能够感染人类上呼吸道上皮细胞。以下哪种病毒成分的改变最有可能使这种新型毒株引起跨物种感染？"
+  },
+  "question": {
+    "en": "In which of the following viral components most likely enabled this novel strain to cause cross-species infection?",
+    "zh": "以下哪种病毒成分最有可能使这种新型毒株引起跨物种感染？"
+  },
+  "options": {
+    "A": {
+      "en": "Antigenic glycoprotein",
+      "zh": "抗原糖蛋白"
+    },
+    "B": {
+      "en": "Lipid bilayer envelope",
+      "zh": "脂质双层包膜"
+    },
+    "C": {
+      "en": "mRNA endonuclease",
+      "zh": "mRNA 内切酶"
+    },
+    "D": {
+      "en": "Nucleocapsid protein",
+      "zh": "核衣壳蛋白"
+    },
+    "E": {
+      "en": "RNA polymerase",
+      "zh": "RNA 聚合酶"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Influenza virus is a segmented, negative-sense RNA virus that is enveloped within a host-derived plasma membrane. Interaction with the host cell is dependent upon a viral surface glycoprotein called hemagglutinin, which binds to the sialic acid receptor on human respiratory epithelial cells. Influenza strains that are unable to infect humans (eg, avian/swine influenza) encode for hemagglutinin that cannot bind to human cells.\n\nHowever, influenza is prone to antigenic changes in its surface glycoproteins due to:\n\nPoor proofreading of viral RNA-dependent RNA polymerase, which results in the introduction of genetic mutations during replication (antigenic drift).\nReassortment of the segmented genome when 2 influenza viruses infect the same cell, which results in dramatic alterations to the genome (antigenic shift).\n\nAntigenic changes to hemagglutinin can alter the tissue tropism of the virus and allow strains that previously only affected livestock (eg, avian, swine) to infect human cells.\n\n(Choice B) The influenza lipid bilayer envelope is generated from host cells during viral replication. Because it is composed of host cell lipids, it is unlikely to be significantly altered by viral mutations.\n\n(Choices C, D, and E) Following influenza attachment and endocytosis, the viral bilayer envelope fuses with the endosome membrane, which liberates the nucleocapsid protein (bound to the RNA genome), viral RNA-dependent RNA polymerase, and viral mRNA endonuclease into the cytoplasm. These travel to the nucleus to initiate viral replication. Although mutations to these proteins could affect viral replication, they would be unlikely to alter tissue tropism because they are not on the surface of the virus and, therefore, do not mediate viral attachment.\n\nEducational objective:\nThe tissue tropism of viruses is primarily mediated by viral surface glycoproteins that bind to specific host cell receptors. Mutations to viral surface glycoproteins can alter tissue tropism and cause noninfective viruses to become infectious. {{exhibit_1}}",
+    "zh": "流感病毒是一种分段的、负链 RNA 病毒，包被在宿主来源的质膜内。与宿主细胞的相互作用依赖于一种称为血凝素的病毒表面糖蛋白，该糖蛋白与人呼吸道上皮细胞上的唾液酸受体结合。无法感染人类的流感毒株（例如，禽/猪流感）编码的血凝素不能与人类细胞结合。\n\n然而，流感病毒在其表面糖蛋白中容易发生抗原性变化，原因如下：\n\n病毒 RNA 依赖性 RNA 聚合酶校对能力差，导致在复制过程中引入基因突变（抗原漂移）。\n当两种流感病毒感染同一细胞时，分段基因组的重排会导致基因组发生剧烈改变（抗原转移）。\n\n血凝素的抗原性变化可以改变病毒的组织嗜性，并允许以前仅影响家畜（例如，禽类、猪）的毒株感染人类细胞。\n\n（选项 B）流感脂质双层包膜是在病毒复制过程中由宿主细胞产生的。因为它由宿主细胞脂质组成，因此不太可能因病毒突变而发生显着改变。\n\n（选项 C、D 和 E）在流感附着和内吞作用后，病毒双层包膜与内体膜融合，释放核衣壳蛋白（与 RNA 基因组结合）、病毒 RNA 依赖性 RNA 聚合酶和病毒 mRNA 内切酶进入细胞质。这些进入细胞核以启动病毒复制。尽管这些蛋白质的突变会影响病毒复制，但它们不太可能改变组织嗜性，因为它们不在病毒表面，因此不介导病毒附着。\n\n教育目标：\n病毒的组织嗜性主要由结合特定宿主细胞受体的病毒表面糖蛋白介导。病毒表面糖蛋白的突变可以改变组织嗜性，并导致非感染性病毒变得具有感染性。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of viral tropism and the role of surface glycoproteins in determining host cell specificity, specifically in the context of influenza virus. It requires understanding how mutations in these glycoproteins can lead to cross-species infection.\n\nTo solve this question, focus on the viral components that directly interact with host cells. Recognize that surface glycoproteins, like hemagglutinin in influenza, are key determinants of tissue tropism and are therefore most likely to be involved in cross-species infection.",
+    "zh": "此问题测试对病毒嗜性的了解以及表面糖蛋白在确定宿主细胞特异性中的作用，特别是在流感病毒的背景下。它需要了解这些糖蛋白的突变如何导致跨物种感染。\n\n要解决这个问题，重点关注直接与宿主细胞相互作用的病毒成分。认识到表面糖蛋白（如流感病毒中的血凝素）是组织嗜性的关键决定因素，因此最有可能参与跨物种感染。"
+  },
+  "tags": "Influenza virus; Viral tropism; Antigenic glycoprotein; Hemagglutinin; Cross-species infection; Virology; Viral mutation",
+  "category": "Micro",
+  "question_id": "1411",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1411",
+  "extracted_at": "2025-11-05T14:53:26.165299",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:07:00.937595",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

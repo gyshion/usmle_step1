@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old man comes to the office due to worsening fatigue. The patient has long-standing type 2 diabetes mellitus complicated by nephropathy. Laboratory results are as follows:\n\nHemoglobin 9.4 g/dL\nMean corpuscular volume 90 µm³\nPlatelets 200,000/mm³\nLeukocytes 7,500/mm³\nSerum creatinine 3.2 mg/dL\nTotal bilirubin 0.8 mg/dL\nSerum ferritin 350 ng/mL\nTransferrin saturation 30% (normal: 20%-50%) {{exhibit_1}}\n\nAfter appropriate treatment is initiated for his anemia, which of the following changes is most likely to occur in this patient's erythroid cells?",
+    "zh": "一名62岁男性因疲劳加重就诊。患者患有长期2型糖尿病，并伴有肾病。实验室检查结果如下：\n\n血红蛋白 9.4 g/dL\n平均红细胞体积 90 µm³\n血小板 200,000/mm³\n白细胞 7,500/mm³\n血清肌酐 3.2 mg/dL\n总胆红素 0.8 mg/dL\n血清铁蛋白 350 ng/mL\n转铁蛋白饱和度 30% (正常值：20%-50%) {{exhibit_1}}\n\n在针对其贫血启动适当治疗后，该患者的红系细胞最有可能发生以下哪种变化？"
+  },
+  "question": {
+    "en": "After appropriate treatment is initiated for his anemia, which of the following changes is most likely to occur in this patient's erythroid cells?",
+    "zh": "在针对其贫血启动适当治疗后，该患者的红系细胞最有可能发生以下哪种变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Decrease in free protoporphyrin levels",
+      "zh": "游离原卟啉水平降低"
+    },
+    "B": {
+      "en": "Decrease in reticuloendothelial destruction",
+      "zh": "网状内皮系统破坏减少"
+    },
+    "C": {
+      "en": "Increase in progenitor cell differentiation",
+      "zh": "祖细胞分化增加"
+    },
+    "D": {
+      "en": "Switch of hemoglobin to the fetal form",
+      "zh": "血红蛋白切换至胎儿型"
+    },
+    "E": {
+      "en": "Synchronization of nuclear and cytoplasmic maturation",
+      "zh": "细胞核和细胞质成熟同步"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Patients with chronic kidney disease (CKD) often develop normocytic anemia as the glomerular filtration rate worsens due to inadequate production of erythropoietin (EPO), a glycoprotein hormone produced by peritubular fibroblast cells in the renal cortex. EPO is released into the bloodstream in response to renal tissue hypoxia and subsequently acts on erythrocyte progenitor cells (erythroid colony-forming unit cells) in the bone marrow to reduce apoptosis and increase differentiation into mature red blood cells.\n\nAlthough healthy individuals respond to anemia by increasing EPO levels up to 10,000-fold, patients with CKD have chronic inflammatory damage to renal EPO-producing cells and are often unable to generate sufficient levels of EPO to maintain adequate erythrocytosis. These individuals are often treated with synthetic forms of EPO (eg, epoetin, darbepoetin) to supplement intrinsic EPO production and stimulate erythropoiesis. Because synthetic forms of EPO can rapidly deplete iron stores (due to increased red blood cell production), patients should be tested for iron deficiency prior to treatment with these agents.\n\n(Choice A) Protoporphyrins (heme precursors) are elevated in patients with iron deficiency anemia. Treatment of iron deficiency anemia (eg, iron supplementation) leads to the conversion of protoporphyrins to heme, thereby reducing free protoporphyrin levels. Patients with iron deficiency anemia usually have low serum ferritin levels and transferrin saturation.\n\n(Choice B) Warm autoimmune hemolytic anemia is characterized by antibodies against antigens on the red cell membrane that result in phagocytosis in the reticuloendothelial system (eg, spleen). Autoimmune hemolytic anemia is usually treated with immune-suppressing agents (eg, prednisone), which blunt antibody production and reduce red cell destruction. This patient with a normal bilirubin level is unlikely to have hemolytic anemia.\n\n(Choice D) Sickle cell anemia is caused by mutations in the beta globin chain, which results in the polymerization of deoxygenated hemoglobin molecules (\"sickling\"). Treatment with hydroxyurea induces expression of fetal hemoglobin (which is unaffected by the sickle mutation) over adult hemoglobin, thereby preventing polymerization of hemoglobin molecules.\n\n(Choice E) Deficiency of vitamin B12/folate (megaloblastic anemia) impairs nucleic acid metabolism, which results in slowed production of erythrocyte precursors in the bone marrow. Replacement of vitamin B12/folate corrects the anemia by improving nuclear maturation. Megaloblastic anemia is typically associated with macrocytic (elevated mean corpuscular volume) anemia.\n\nEducational objective:\nErythropoietin (EPO) is produced by peritubular fibroblast cells in the renal cortex in response to decreased renal oxygen delivery. EPO acts on erythrocyte precursors in the bone marrow to increase red blood cell production. Patients with chronic kidney disease often have damage to renal EPO-producing cells, which results in normocytic anemia.",
+    "zh": "慢性肾病 (CKD) 患者常因肾小球滤过率恶化而出现正细胞性贫血，这是由于促红细胞生成素 (EPO) 产生不足所致，EPO 是一种糖蛋白激素，由肾皮质的肾小管周围成纤维细胞产生。EPO 响应肾组织缺氧而释放到血流中，随后作用于骨髓中的红细胞祖细胞（红细胞集落形成单位细胞），以减少细胞凋亡并增加分化为成熟的红细胞。\n\n虽然健康个体通过将 EPO 水平提高多达 10,000 倍来应对贫血，但患有 CKD 的患者对产生 EPO 的肾细胞存在慢性炎症性损伤，并且通常无法产生足够水平的 EPO 以维持足够的红细胞增多。这些人通常接受合成形式的 EPO（例如，红细胞生成素、达依泊汀）的治疗，以补充内在的 EPO 产生并刺激红细胞生成。由于合成形式的 EPO 会迅速耗尽铁储存（由于红细胞生成增加），因此在用这些药物治疗之前，应检查患者是否存在铁缺乏症。\n\n(选项 A) 原卟啉（血红素前体）在缺铁性贫血患者中升高。治疗缺铁性贫血（例如，补充铁剂）会导致原卟啉转化为血红素，从而降低游离原卟啉水平。缺铁性贫血患者通常血清铁蛋白水平和转铁蛋白饱和度较低。\n\n(选项 B) 温暖型自身免疫性溶血性贫血的特征是存在针对红细胞膜上抗原的抗体，导致网状内皮系统（例如，脾脏）中的吞噬作用。自身免疫性溶血性贫血通常用免疫抑制剂（例如，泼尼松）治疗，以抑制抗体产生并减少红细胞破坏。该患者的胆红素水平正常，不太可能患有溶血性贫血。\n\n(选项 D) 镰状细胞贫血是由 β-珠蛋白链中的突变引起的，导致脱氧血红蛋白分子聚合（“镰变”）。用羟基脲治疗可诱导胎儿血红蛋白（不受镰状细胞突变的影响）的表达，从而抑制血红蛋白分子的聚合。\n\n(选项 E) 维生素 B12/叶酸缺乏症（巨幼红细胞性贫血）会损害核酸代谢，导致骨髓中红细胞前体产生减慢。补充维生素 B12/叶酸通过改善核成熟来纠正贫血。巨幼红细胞性贫血通常与大细胞性（平均红细胞体积升高）贫血相关。\n\n教育目标：\n促红细胞生成素 (EPO) 由肾皮质的肾小管周围成纤维细胞产生，以响应肾脏供氧减少。EPO 作用于骨髓中的红细胞前体，以增加红细胞的产生。慢性肾病患者通常会对产生 EPO 的肾细胞造成损害，从而导致正细胞性贫血。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of anemia in chronic kidney disease and the mechanism of action of erythropoietin-stimulating agents (ESAs). It also tests the expected changes in erythroid cells following treatment with ESAs.\n\nThe key to solving this question is recognizing that the patient has anemia of chronic kidney disease. Treatment with ESAs will stimulate erythropoiesis, leading to increased progenitor cell differentiation in the bone marrow.",
+    "zh": "这个问题考察了关于慢性肾病贫血以及促红细胞生成素 (ESAs) 的作用机制的知识。它还考察了使用 ESAs 治疗后红系细胞的预期变化。\n\n解决这个问题的关键是认识到患者患有慢性肾病贫血。使用 ESAs 治疗将刺激红细胞生成，导致骨髓中祖细胞分化增加。"
+  },
+  "tags": "Anemia of chronic disease; Erythropoietin; Chronic kidney disease; Hematopoiesis; Progenitor cells",
+  "category": "Blood",
+  "question_id": "15307",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\15307",
+  "extracted_at": "2025-11-05T11:25:17.969071",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:27:52.856588",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

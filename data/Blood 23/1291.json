@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 50-year-old man with a long history of alcohol use disorder is admitted to the hospital with difficulty breathing. Blood pressure is 90/40 mm Hg, pulse is 114/min, respirations are 22/min, and pulse oximetry is 92% on room air. Physical examination shows bilateral basal crackles, increased jugular venous pressure, hepatomegaly, ascites, and peripheral pitting edema. Chest x-ray demonstrates cardiomegaly. Scattered ecchymoses are present across each extremity. Laboratory results are as follows:\n\nPlatelets 120,000/mm³\nProthrombin time 26 sec\nActivated partial thromboplastin time 38 sec\n\nThe patient is given intramuscular vitamin K. Two days later, his laboratory results are unchanged.",
+    "zh": "一名有长期酒精使用障碍病史的 50 岁男性因呼吸困难入院。血压 90/40 mm Hg，脉搏 114 次/分钟，呼吸 22 次/分钟，室温下血氧饱和度 92%。体格检查显示双侧肺底部爆裂音，颈静脉压升高，肝肿大，腹水和周围水肿。胸部 X 光片显示心脏肥大。四肢可见散在的瘀斑。实验室检查结果如下：\n\n血小板 120,000/mm³\n凝血酶原时间 26 秒\n活化部分凝血活酶时间 38 秒\n\n患者接受肌内注射维生素 K。两天后，他的实验室结果未改变。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's laboratory abnormality?",
+    "zh": "以下哪项最可能是该患者实验室检查异常的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Dietary vitamin K deficiency",
+      "zh": "膳食维生素 K 缺乏"
+    },
+    "B": {
+      "en": "Factor VII deficiency",
+      "zh": "凝血因子 VII 缺乏"
+    },
+    "C": {
+      "en": "Factor VIII deficiency",
+      "zh": "凝血因子 VIII 缺乏"
+    },
+    "D": {
+      "en": "Intrinsic platelet dysfunction",
+      "zh": "内在性血小板功能障碍"
+    },
+    "E": {
+      "en": "Von Willebrand factor deficiency",
+      "zh": "Von Willebrand 因子缺乏"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient presents with signs of liver dysfunction (hepatomegaly, ascites, hypoalbuminemia leading to edema) and coagulopathy (ecchymoses, prolonged PT). The prolonged prothrombin time (PT) and normal activated partial thromboplastin time (aPTT) are characteristic of a deficiency in factors of the extrinsic pathway, primarily Factor VII, which has the shortest half-life among the vitamin K-dependent factors. The lack of improvement in PT after vitamin K administration strongly suggests that the underlying issue is not vitamin K deficiency itself, but rather the liver's impaired ability to synthesize the vitamin K-dependent clotting factors (II, VII, IX, X) due to chronic liver disease, such as cirrhosis secondary to alcohol use disorder.\n\n(Choice A) Dietary vitamin K deficiency impairs the activation of clotting factors II, VII, IX, and X. While alcohol use disorder can lead to malnutrition, vitamin K deficiency typically improves with vitamin K supplementation. The lack of improvement in this patient's PT suggests a more profound synthetic defect.\n\n(Choice C) Factor VIII deficiency affects the intrinsic pathway and would lead to a prolonged aPTT, not primarily a prolonged PT. Hemophilia A is an X-linked recessive disorder.\n\n(Choice D) Intrinsic platelet dysfunction or thrombocytopenia would affect platelet count and bleeding time, and while cirrhosis can be associated with these, it would not directly explain the isolated prolonged PT. Platelet dysfunction typically leads to mucocutaneous bleeding, and significant thrombocytopenia (platelets <50,000/mm³) would be expected to cause more bleeding manifestations.\n\n(Choice E) Von Willebrand factor deficiency affects platelet adhesion and factor VIII activity, leading to a prolonged aPTT and/or PT, depending on the severity and specific defect. However, it is not the most likely cause of isolated PT prolongation in a patient with clear signs of liver disease and coagulopathy unresponsive to vitamin K.\n\nKey Pearls:\n- Vitamin K-dependent factors: II, VII, IX, X.\n- PT measures the extrinsic and common pathways.\n- aPTT measures the intrinsic and common pathways.\n- Factor VII has the shortest half-life among vitamin K-dependent factors.\n- Unresponsiveness to vitamin K supplementation in the setting of coagulopathy points to impaired hepatic synthesis.",
+    "zh": "该患者表现出肝功能障碍的迹象（肝肿大、腹水、低白蛋白血症导致水肿）和凝血病（瘀斑、PT 延长）。凝血酶原时间 (PT) 延长和活化部分凝血活酶时间 (aPTT) 正常是外源性途径中凝血因子缺乏的特征，主要是凝血因子 VII，它在维生素 K 依赖性因子中半衰期最短。肌内注射维生素 K 后 PT 未改善强烈提示，根本问题不是维生素 K 本身缺乏，而是肝脏合成维生素 K 依赖性凝血因子（II、VII、IX、X）的能力受损，这源于慢性肝病，例如继发于酒精使用障碍的肝硬化。\n\n(选项 A) 膳食维生素 K 缺乏会损害凝血因子 II、VII、IX 和 X 的激活。虽然酒精使用障碍可导致营养不良，但补充维生素 K 后维生素 K 缺乏症通常会改善。该患者 PT 未改善提示存在更严重的合成缺陷。\n\n(选项 C) 凝血因子 VIII 缺乏会影响内源性途径，并会导致 aPTT 延长，而不是主要导致 PT 延长。血友病 A 是一种 X 连锁隐性遗传病。\n\n(选项 D) 内在性血小板功能障碍或血小板减少症会影响血小板计数和出血时间，虽然肝硬化可能与这些相关，但它不能直接解释单独的 PT 延长。血小板功能障碍通常会导致皮肤黏膜出血，并且预计显着血小板减少症（血小板 <50,000/mm³）会导致更多的出血表现。\n\n(选项 E) Von Willebrand 因子缺乏会影响血小板粘附和凝血因子 VIII 活性，导致 aPTT 和/或 PT 延长，具体取决于严重程度和特定缺陷。然而，对于患有明确肝病体征且对维生素 K 无反应的患者，这并不是孤立 PT 延长的最可能原因。\n\n关键要点：\n- 维生素 K 依赖性因子：II、VII、IX、X。\n- PT 测量外源性和共同途径。\n- aPTT 测量内源性和共同途径。\n- 凝血因子 VII 在维生素 K 依赖性因子中半衰期最短。\n- 在凝血病背景下，对维生素 K 补充剂无反应提示肝脏合成受损。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the coagulation cascade, specifically the role of vitamin K-dependent factors and the interpretation of PT and aPTT in the context of liver disease. It assesses the ability to differentiate between vitamin K deficiency and impaired hepatic synthesis of clotting factors.\n\nTo solve this question, one must analyze the patient's clinical presentation, laboratory findings (prolonged PT, normal aPTT, normal platelets), and response to vitamin K therapy. The key is to recognize that unresponsiveness to vitamin K points towards a synthetic defect in the liver rather than a simple deficiency of the vitamin itself, making factor VII deficiency (due to impaired synthesis) the most likely diagnosis.",
+    "zh": "此问题测试对凝血级联的理解，特别是维生素 K 依赖性因子的作用以及在肝病背景下对 PT 和 aPTT 的解读。它评估了区分维生素 K 缺乏症和凝血因子肝脏合成受损的能力。\n\n要解决这个问题，必须分析患者的临床表现、实验室检查结果（PT 延长，aPTT 正常，血小板正常）以及对维生素 K 治疗的反应。关键是要认识到对维生素 K 无反应指向肝脏的合成缺陷，而不是维生素本身的简单缺乏，这使得凝血因子 VII 缺乏（由于合成受损）成为最可能的诊断。"
+  },
+  "tags": "Coagulation cascade; Vitamin K deficiency; Liver disease; Cirrhosis; Prothrombin time (PT); Activated partial thromboplastin time (aPTT); Factor VII deficiency; Hepatic synthesis; Alcohol use disorder; Hematology",
+  "category": "Blood",
+  "question_id": "1291",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1291",
+  "extracted_at": "2025-11-05T19:16:41.376522",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:26:36.246517",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

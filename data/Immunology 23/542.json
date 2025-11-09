@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "The acidification of lysosomes within antigen presenting cells is prevented in an experimental setting. Affected cells show impaired interaction with T lymphocytes upon antigen exposure. This impaired interaction is most likely the result of decreased cell surface expression of which of the following molecules? {{exhibit_1}}",
+    "zh": "在实验条件下，抗原呈递细胞内溶酶体的酸化被阻止。受影响的细胞在抗原暴露后显示与 T 淋巴细胞的相互作用受损。这种相互作用受损最可能是由于以下哪种分子的细胞表面表达降低所致？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following molecules?",
+    "zh": "以下哪种分子？"
+  },
+  "options": {
+    "A": {
+      "en": "Cytokine receptors",
+      "zh": "细胞因子受体"
+    },
+    "B": {
+      "en": "Integrins",
+      "zh": "整合素"
+    },
+    "C": {
+      "en": "MHC class I",
+      "zh": "MHC I 类"
+    },
+    "D": {
+      "en": "MHC class II",
+      "zh": "MHC II 类"
+    },
+    "E": {
+      "en": "T cell receptor",
+      "zh": "T 细胞受体"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Antigen presenting cells (eg, dendritic cells, macrophages, B lymphocytes) present extracellular antigens (eg, bacterial, viral) on MHC class II molecules. After phagocytosis or endocytosis, the protein is degraded in acidified lysosomes and the antigen is loaded onto an MHC class II molecule.\n\nThe MHC class II-antigen complexes are then displayed on the surface of antigen presenting cells where they can bind to T cell receptors (TCR) to initiate a T cell response to the antigen. Without lysosomal acidification, exogenous antigen processing and association with MHC class II molecules would not occur, resulting in impaired interaction between antigen presenting cells and T cells.\n\n(Choice A) Cytokine receptors are responsible for exerting the biological effects of the various cytokines (eg, interferons, chemokines, tumor necrosis factors). Expression of these receptors does not depend on lysosomal acidification and would not directly affect T cell binding to antigen presenting cells.\n\n(Choice B) Integrins are necessary for the binding of inflammatory cells to vascular walls during the process of transmigration through the endothelial layer from the bloodstream to tissues.\n\n(Choice C) Most nucleated cells of the human body express MHC Class I molecules on their surfaces. MHC Class I molecules present intracellular antigens produced in tumor or virus-infected cells. Cytoplasmic proteins are degraded by a proteasome and transported into the rough endoplasmic reticulum (via TAP proteins) where they are loaded onto MHC Class I molecules and routed to the cell surface. This pathway does not depend on acidified lysosomes.\n\n(Choice E) The T cell receptor (TCR) is a membrane-bound protein on T cells that is responsible for recognizing specific antigens bound to an MHC molecule. Although the TCR is essential for T cell activation in response to antigens presented on MHC Class II molecules, prevention of lysosome acidification would have no effect on the expression of TCR on the surface of T cells.\n\nEducational objective:\nMHC class II is expressed on the surface of antigen presenting cells (APC) and presents extracellular antigens to T cells after extracellular protein is degraded within acidified lysosomes. Failure to acidify lysosomes would lead to deficient expression of MHC class II-antigen complexes with subsequent impaired interaction between APCs and T cells.",
+    "zh": "抗原呈递细胞（例如，树突状细胞、巨噬细胞、B 淋巴细胞）在 MHC II 类分子上呈递细胞外抗原（例如，细菌、病毒）。在吞噬或胞吞作用后，蛋白质在酸化的溶酶体中降解，并将抗原加载到 MHC II 类分子上。\n\nMHC II 类-抗原复合物随后在抗原呈递细胞的表面显示，在那里它们可以与 T 细胞受体 (TCR) 结合，从而启动 T 细胞对该抗原的反应。如果没有溶酶体酸化，外源性抗原的处理和与 MHC II 类分子的结合就不会发生，导致抗原呈递细胞和 T 细胞之间的相互作用受损。\n\n(选项 A) 细胞因子受体负责发挥各种细胞因子（例如，干扰素、趋化因子、肿瘤坏死因子）的生物学效应。这些受体的表达不依赖于溶酶体酸化，也不会直接影响 T 细胞与抗原呈递细胞的结合。\n\n(选项 B) 整合素是炎症细胞在从血流到组织的内皮层进行穿透的过程中与血管壁结合所必需的。\n\n(选项 C) 人体的大多数有核细胞在其表面表达 MHC I 类分子。MHC I 类分子呈递在肿瘤或病毒感染细胞中产生的细胞内抗原。胞质蛋白被蛋白酶体降解，并通过 TAP 蛋白转运到粗面内质网中，在那里它们被加载到 MHC I 类分子上并被引导到细胞表面。该途径不依赖于酸性溶酶体。\n\n(选项 E) T 细胞受体 (TCR) 是 T 细胞上的一种膜结合蛋白，负责识别与 MHC 分子结合的特定抗原。虽然 TCR 对于 T 细胞响应在 MHC II 类分子上呈递的抗原而激活至关重要，但阻止溶酶体酸化对 T 细胞表面 TCR 的表达没有影响。\n\n教育目标：\nMHC II 类在抗原呈递细胞 (APC) 的表面表达，并在细胞外蛋白在酸性溶酶体中降解后将细胞外抗原呈递给 T 细胞。溶酶体酸化的失败将导致 MHC II 类-抗原复合物的表达不足，随后导致 APC 和 T 细胞之间的相互作用受损。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of antigen processing and presentation, specifically the role of MHC class II molecules and lysosomal acidification in presenting extracellular antigens to T cells. It also assesses understanding of the consequences of impaired lysosomal function on MHC class II expression and T cell interaction.\n\nTo solve this question, recall that MHC class II molecules present extracellular antigens and require lysosomal acidification for proper processing and presentation. Recognize that impaired acidification would lead to decreased MHC class II expression and subsequent impaired interaction between antigen-presenting cells and T cells.",
+    "zh": "这个问题测试对抗原处理和呈递的了解，特别是 MHC II 类分子和溶酶体酸化在向 T 细胞呈递细胞外抗原中的作用。它还评估了对溶酶体功能受损对 MHC II 类表达和 T 细胞相互作用的后果的理解。\n\n要解决这个问题，请记住 MHC II 类分子呈递细胞外抗原，并且需要溶酶体酸化才能进行适当的处理和呈递。认识到酸化的受损将导致 MHC II 类表达降低，以及随后的抗原呈递细胞和 T 细胞之间的相互作用受损。"
+  },
+  "tags": "Antigen presentation; MHC class II; Lysosomes; T lymphocytes; Immunology",
+  "category": "Immunology",
+  "question_id": "542",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\542",
+  "extracted_at": "2025-11-05T14:45:10.739597",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:02:41.164478",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

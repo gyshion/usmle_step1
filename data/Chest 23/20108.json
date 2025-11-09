@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 60-year-old man comes to the clinic due to a 3-week history of fatigue, shortness of breath, and fever. The patient has a 35-pack-year history of cigarette smoking but has no other significant medical history. Temperature is 38.6 C (101.5 F), blood pressure is 140/92 mm Hg, pulse is 110/min, and respirations are 24/min. There is dullness to percussion at the right lung base. Chest radiograph {{exhibit_1}} shows a moderate-sized loculated pleural effusion on the right side. Ultrasonography reveals multiple separate fluid pockets within the pleural space. Chest tube placement produces only a small amount of thick pus. Intrapleural administration of a medication with which of the following effects would most likely improve chest tube drainage in this patient?",
+    "zh": "一名60岁男性因3周的疲劳、呼吸急促和发热就诊。患者有35包年的吸烟史，但无其他重要病史。体温38.6°C（101.5°F），血压140/92 mmHg，脉搏110次/分，呼吸24次/分。右肺底部叩诊呈浊音。胸部X线片{{exhibit_1}}显示右侧有中等大小的局限性胸腔积液。超声检查显示胸膜腔内有多个独立的积液囊袋。放置胸管仅引流出少量浓稠的脓液。在该患者中，哪种作用的药物的胸腔内给药最有可能改善胸管引流？"
+  },
+  "question": {
+    "en": "Intrapleural administration of a medication with which of the following effects would most likely improve chest tube drainage in this patient?",
+    "zh": "在该患者中，哪种作用的药物的胸腔内给药最有可能改善胸管引流？"
+  },
+  "options": {
+    "A": {
+      "en": "Activation of fibrin-bound plasminogen",
+      "zh": "激活纤维蛋白结合的纤溶酶原"
+    },
+    "B": {
+      "en": "Decreased interstitial edema formation",
+      "zh": "减少间质水肿的形成"
+    },
+    "C": {
+      "en": "Inhibition of factor Xa production",
+      "zh": "抑制Xa因子产生"
+    },
+    "D": {
+      "en": "Inhibition of platelet activity",
+      "zh": "抑制血小板活性"
+    },
+    "E": {
+      "en": "Irritation of the mesothelial pleural lining",
+      "zh": "刺激间皮胸膜内层"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's several weeks of fever, shortness of breath, and fatigue with imaging showing a loculated pleural effusion with complex septations represents a classic presentation of empyema. Empyema is an advanced form of complicated parapneumonic effusion in which bacterial invasion into the pleural space is followed by progressive inflammation with pus accumulation and organized fibrosis. Treatment requires prompt drainage of the infected fluid via a chest tube, but such effusions are often difficult to drain due to numerous loculations (ie, separated fluid pockets) and high fluid viscosity.\n\nIn some cases, intrapleural administration of a fibrinolytic agent (eg, tissue plasminogen activator [tPA], streptokinase) in combination with deoxyribonuclease (DNase) can improve drainage of a loculated empyema and help resolve the effusion via chest tube drainage. The tPA activates fibrin-bound plasminogen to break down organized fibrin, and the DNase enzyme may assist by cleaving nucleic acids that increase fluid viscosity after being deposited by lysed leukocytes (eg, neutrophil extracellular traps).\n\nA complicated parapneumonic effusion or empyema that cannot be successfully drained following the administration of tPA and DNase typically requires surgical drainage via video-assisted thoracoscopic surgery.\n\n(Choice B) Interstitial edema formation occurs early in the development of pleural effusion, causing increased fluid to pass into the pleural space. Once organized fibrosis and empyema develop, reducing interstitial edema formation is of no significant benefit.\n\n(Choices C and D) Factor Xa inhibitors (eg, rivaroxaban, apixaban) are given systemically for the treatment of venous thromboembolic disease, and medications that inhibit platelet activity (eg, aspirin, P2Y12 inhibitors) are used systemically to lower the risk of intra-arterial thrombosis. However, none of these medications target fibrin (the major contributor to development of loculated empyema), and they are therefore not helpful in the management of empyema.\n\n(Choice E) Pleurodesis involves the instillation of a chemical irritant (eg, talc) into the pleural space to fuse the visceral and parietal pleural layers together. It is used to prevent reaccumulation of pleural fluid in patients with recurrent pleural effusion, but it does not assist in drainage of an empyema.\n\nEducational objective:\nEmpyema involves bacterial invasion of the intrapleural space with progressive inflammation, pus accumulation, and organized fibrosis. Drainage with a chest tube is often difficult due to loculations and high fluid viscosity, but it can be aided by the intrapleural administration of a fibrinolytic agent (eg, tissue plasminogen activator) in combination with a nucleic acid cleaving enzyme (ie, deoxyribonuclease).",
+    "zh": "该患者数周的发热、呼吸急促和疲劳，影像学显示局限性胸腔积液伴复杂间隔，代表了典型的脓胸表现。脓胸是复杂性副肺炎性积液的晚期形式，其特征是细菌侵入胸膜腔后，继发进行性炎症，伴脓液积聚和纤维化。治疗需要通过胸管及时引流感染的液体，但由于存在大量局限性（即，分隔的液袋）和高液体粘度，此类积液通常难以引流。\n\n在某些情况下，胸腔内给予纤溶剂（如，组织型纤溶酶原激活剂[tPA]、链激酶）联合脱氧核糖核酸酶（DNase）可以改善局限性脓胸的引流，并帮助通过胸管引流解决积液。tPA 激活纤维蛋白结合的纤溶酶原，分解有组织的纤维蛋白，而 DNase 酶可能通过切割被溶解的白细胞（如，中性粒细胞胞外诱捕网）沉积后增加液体粘度的核酸来辅助。\n\n在给予 tPA 和 DNase 后无法成功引流的复杂性副肺炎性积液或脓胸，通常需要通过视频辅助胸腔镜手术进行外科引流。\n\n（选项 B）间质水肿形成发生在胸腔积液发展的早期，导致更多的液体进入胸膜腔。一旦出现纤维化和脓胸，减少间质水肿的形成不会有任何显着益处。\n\n（选项 C 和 D）Xa 因子抑制剂（如，利伐沙班、阿哌沙班）全身给药用于治疗静脉血栓栓塞性疾病，而抑制血小板活性的药物（如，阿司匹林、P2Y12 抑制剂）全身使用以降低动脉内血栓形成的风险。然而，这些药物均不靶向纤维蛋白（是导致局限性脓胸发展的主要因素），因此对脓胸的治疗无益。\n\n（选项 E）胸膜固定术涉及将化学刺激物（如，滑石粉）注入胸膜腔，以使脏层和壁层胸膜融合在一起。它用于预防复发性胸腔积液患者的胸腔积液再积聚，但无助于脓胸的引流。\n\n教学目标：\n脓胸涉及细菌侵入胸膜腔内，伴有进行性炎症、脓液积聚和纤维化。由于存在局限性和高液体粘度，胸管引流通常很困难，但可以通过胸腔内给予纤溶剂（如，组织型纤溶酶原激活剂）联合核酸切割酶（即，脱氧核糖核酸酶）来辅助。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of empyema management, specifically the use of intrapleural fibrinolytics and DNase to improve drainage of loculated pleural effusions. It requires understanding the pathophysiology of empyema formation and the mechanisms of action of these medications.\n\nThe best approach is to recognize the clinical scenario as empyema based on the patient's presentation and imaging findings. Then, recall that intrapleural tPA and DNase are used to break down fibrin and reduce fluid viscosity, thereby improving chest tube drainage.",
+    "zh": "本题考察脓胸的治疗知识，特别是使用胸腔内纤溶剂和 DNase 来改善局限性胸腔积液的引流。它要求理解脓胸形成的病理生理学以及这些药物的作用机制。\n\n最好的方法是根据患者的临床表现和影像学检查结果，将临床情况识别为脓胸。然后，回忆起胸腔内 tPA 和 DNase 用于分解纤维蛋白并降低液体粘度，从而改善胸管引流。"
+  },
+  "tags": "Empyema; Pleural effusion; Fibrinolytics; Tissue plasminogen activator; DNase; Chest tube drainage; Infectious disease; Pulmonology",
+  "category": "Chest",
+  "question_id": "20108",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\20108",
+  "extracted_at": "2025-11-05T11:44:01.150809",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:38:33.858284",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

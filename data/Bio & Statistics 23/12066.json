@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "Succinate dehydrogenase (SDH) is an enzyme complex located within the inner mitochondrial membrane that catalyzes the oxidation of succinate to fumarate. An experiment is conducted to determine if malate alters the rate of SDH activity. Reaction velocity is measured with and without a fixed quantity of malate as succinate concentration is gradually increased. Obtained results are shown below. {{exhibit_1}}",
+    "zh": "琥珀酸脱氢酶 (SDH) 是一种位于线粒体内膜内的酶复合物，催化琥珀酸氧化为延胡索酸。进行一项实验以确定苹果酸是否会改变 SDH 活性速率。在逐渐增加琥珀酸浓度的条件下，测量有和没有固定量的苹果酸时的反应速度。获得的结果如下所示。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most accurate statement about malate in this experiment?",
+    "zh": "关于本次实验中的苹果酸，以下哪一项陈述最准确？"
+  },
+  "options": {
+    "A": {
+      "en": "It alters the maximal velocity of the reaction",
+      "zh": "它改变了反应的最大速度"
+    },
+    "B": {
+      "en": "It binds the enzyme at a different site than succinate",
+      "zh": "它与琥珀酸结合的位点不同"
+    },
+    "C": {
+      "en": "It covalently binds the enzyme",
+      "zh": "它共价结合酶"
+    },
+    "D": {
+      "en": "It decreases affinity of the enzyme for succinate",
+      "zh": "它降低了酶对琥珀酸的亲和力"
+    },
+    "E": {
+      "en": "It is a competitive inhibitor of the enzyme",
+      "zh": "它是一种酶的竞争性抑制剂"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The Vmax remains constant (at 400 μmol/L/sec) while Km increases (from 8 to 16 mM) in the presence of malate. Therefore, malate is a COMPETITIVE INHIBITOR of succinate dehydrogenase for succinate.",
+    "zh": "在苹果酸存在下，Vmax 保持不变（400 μmol/L/秒），而 Km 增加（从 8 到 16 mM）。因此，苹果酸是琥珀酸脱氢酶对琥珀酸的竞争性抑制剂。"
+  },
+  "summary": {
+    "en": "1) Enzyme kinetics; competitive inhibition 2) Malate is a competitive inhibitor because Vmax remains constant while Km increases.",
+    "zh": "1) 酶动力学；竞争性抑制 2) 苹果酸是一种竞争性抑制剂，因为 Vmax 保持不变，而 Km 增加。"
+  },
+  "tags": "Enzyme kinetics; Competitive inhibition; Vmax; Km",
+  "category": "Bio",
+  "question_id": "12066",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\12066",
+  "extracted_at": "2025-11-05T10:58:26.643533",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:19:37.365230",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

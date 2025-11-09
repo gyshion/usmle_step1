@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "The influenza A virus uses a sialic acid as a receptor for cellular entry. The chemical composition of the specific type of sialic acid that the virus interacts with differs among animal species. The avian influenza virus attaches to a specific sialic acid that is present in fowl epithelial cells but absent in human cells, whereas the human influenza virus can only attach to the type of sialic acid present in human respiratory epithelium. When pig epithelial cells, which contain both types of sialic acid, are infected with the combination of avian and human influenza A viruses, some of the new avian influenza viral particles become capable of attaching to human cells. However, the progeny of this new strain of avian influenza virus is still unable to attach to human epithelial cells. Which of the following phenomena best describes the change in the avian influenza virus in this experiment?",
+    "zh": "甲型流感病毒使用唾液酸作为细胞进入的受体。病毒相互作用的特定类型唾液酸的化学组成在动物物种之间有所不同。禽流感病毒附着于存在于禽类上皮细胞中但不存在于人体细胞中的特定唾液酸，而人流感病毒只能附着于存在于人呼吸道上皮细胞中的唾液酸。当猪上皮细胞（含有两种类型的唾液酸）被禽类和人类甲型流感病毒的组合感染时，一些新的禽类流感病毒颗粒能够附着于人体细胞。然而，这种新毒株禽流感病毒的后代仍然无法附着于人上皮细胞。以下哪种现象最好地描述了该实验中禽流感病毒的变化？"
+  },
+  "question": {
+    "en": "Which of the following phenomena best describes the change in the avian influenza virus in this experiment?",
+    "zh": "以下哪种现象最好地描述了该实验中禽流感病毒的变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Interference",
+      "zh": "干扰"
+    },
+    "B": {
+      "en": "Phenotypic mixing",
+      "zh": "表型混合"
+    },
+    "C": {
+      "en": "Reassortment",
+      "zh": "重配"
+    },
+    "D": {
+      "en": "Recombination",
+      "zh": "重组"
+    },
+    "E": {
+      "en": "Transformation",
+      "zh": "转化"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The acquisition of a new viral surface protein is often all that is necessary for a virus to infect a new type of host cell. In this scenario, avian and human influenza virus particles infect host pig cells; certain progeny avian virus particles obtain some of the surface components (eg, sialic acid receptors) of the human influenza virus, allowing the avian virus to infect human cells. This exchange is an example of PHENOTYPIC MIXING, which generally occurs when a host cell is coinfected with 2 viral strains and progeny virions contain UNCHANGED PARENTAL GENOME from one strain and NUCLEOCAPSID (OR ENVELOPE) PROTEINS from the other strain. However, because there is no change in the underlying viral genomes (no genetic exchange), subsequent progeny will REVERT to having only avian influenza type surface proteins and will again be noninfectious to human epithelium.\n\n(Choice A) Interference occurs when one virus inhibits replication and/or release of a second virus that is infecting the same cell. Simple interference would not result in a new phenotype for progeny.\n\n(Choice C) Reassortment refers to changes in genomic composition that occur when host cells are coinfected with 2 segmented viruses that exchange whole genome segments. When reassortment takes place in a cell coinfected by 2 viral strains, any genomic change in first generation progeny will also be present in subsequent progeny.\n\n(Choice D) Recombination may be defined as the exchange of genes between 2 chromosomes (double-stranded DNA molecules) by crossing over within homologous regions. As is the case with reassortment, any genomic change in the first generation progeny will also be present in subsequent progeny.\n\n(Choice E) Transformation is generally defined as naked DNA uptake by a prokaryotic or eukaryotic cell. In virology, this term may also describe incorporation of viral DNA into a host cell chromosome. Transformation alters the genetic composition of the host cell but typically causes no genomic change in progeny virions.\n\nEducational objective:\nPhenotypic mixing refers to coinfection of a host cell by 2 viral strains, resulting in progeny virions that contain nucleocapsid proteins from one strain and the unchanged parental genome of the other strain. Because there is no change in the underlying viral genomes (no genetic exchange), the next generation of virions revert to their original, unmixed phenotypes.",
+    "zh": "获得新的病毒表面蛋白通常是病毒感染新型宿主细胞所必需的。在这种情况下，禽类和人类流感病毒颗粒感染猪宿主细胞；某些子代禽类病毒颗粒获得了人类流感病毒的一些表面成分（例如，唾液酸受体），从而使禽类病毒能够感染人体细胞。这种交换是表型混合的一个例子，表型混合通常发生在宿主细胞同时感染两种病毒株时，子代病毒颗粒包含来自一种病毒株的未改变的亲本基因组和来自另一种病毒株的核衣壳（或包膜）蛋白。然而，由于潜在的病毒基因组没有变化（没有基因交换），随后的子代将恢复到仅具有禽类流感型表面蛋白，并将再次无法感染人体上皮细胞。\n\n（选项 A）干扰发生在一种病毒抑制感染同一细胞的第二种病毒的复制和/或释放时。简单的干扰不会导致子代出现新的表型。\n\n（选项 C）重配是指当宿主细胞同时感染两种交换完整基因组片段的分段病毒时发生的基因组组成变化。当重配发生在同时感染两种病毒株的细胞中时，第一代子代发生的任何基因组变化也将出现在随后的子代中。\n\n（选项 D）重组可以定义为通过在同源区域内交叉互换两条染色体（双链 DNA 分子）之间的基因。与重配一样，第一代子代发生的任何基因组变化也将出现在随后的子代中。\n\n（选项 E）转化通常定义为原核或真核细胞对裸露 DNA 的摄取。在病毒学中，该术语也可以描述将病毒 DNA 整合到宿主细胞染色体中。转化会改变宿主细胞的基因组成，但通常不会导致子代病毒颗粒的基因组发生变化。\n\n教育目标：\n表型混合是指宿主细胞同时感染两种病毒株，导致子代病毒颗粒包含来自一种病毒株的核衣壳蛋白和来自另一种病毒株的未改变的亲本基因组。由于潜在的病毒基因组没有变化（没有基因交换），下一代病毒颗粒会恢复到其原始的、未混合的表型。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of viral genetics, specifically phenotypic mixing, and how it differs from other mechanisms of genetic exchange in viruses. It requires understanding that phenotypic mixing involves the acquisition of surface proteins without altering the underlying viral genome.\n\nThe best approach is to understand the definitions of each genetic exchange mechanism. Phenotypic mixing is unique because it does not involve a change in the viral genome, and the altered phenotype is not heritable.",
+    "zh": "此问题测试对病毒遗传学的了解，特别是表型混合，以及它与其他病毒遗传交换机制的区别。它要求理解表型混合涉及获得表面蛋白，而不会改变潜在的病毒基因组。\n\n最好的方法是理解每种遗传交换机制的定义。表型混合是独一无二的，因为它不涉及病毒基因组的变化，并且改变的表型不可遗传。"
+  },
+  "tags": "Phenotypic mixing; Viral genetics; Reassortment; Recombination; Transformation; Viral infection; Microbiology",
+  "category": "Micro",
+  "question_id": "1462",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1462",
+  "extracted_at": "2025-11-05T14:53:32.851887",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:07:11.724155",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

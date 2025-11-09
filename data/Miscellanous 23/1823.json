@@ -1,0 +1,69 @@
+{
+  "question_stem": {
+    "en": "Which of the following is the most likely chromosomal abnormality in this infant? {{exhibit_1}} {{exhibit_2}}",
+    "zh": "该婴儿最有可能的染色体异常是以下哪一项？ {{exhibit_1}} {{exhibit_2}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely chromosomal abnormality in this infant?",
+    "zh": "该婴儿最有可能的染色体异常是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "5p deletion",
+      "zh": "5p缺失"
+    },
+    "B": {
+      "en": "22q11 deletion",
+      "zh": "22q11缺失"
+    },
+    "C": {
+      "en": "47, XX, +13",
+      "zh": "47, XX, +13"
+    },
+    "D": {
+      "en": "47, XX, +18",
+      "zh": "47, XX, +18"
+    },
+    "E": {
+      "en": "47, XX, +21",
+      "zh": "47, XX, +21"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Trisomy 18 (Edwards syndrome). This patient has trisomy 18 (Edwards syndrome), in which a complete extra copy of chromosome 18 is inherited as a result of meiotic nondisjunction. This error in oocyte division occurs prior to ovulation and fertilization and increases with maternal age ≥35. Dysmorphic features include micrognathia, low-set ears, prominent occiput, and rocker bottom feet. Patients have significant hypertonia, including clenched hands with overlapping fingers. Anomalies of cardiac (eg, ventricular septal defect, patent ductus arteriosus), genitourinary (eg, horseshoe kidney), and gastrointestinal (eg, Meckel's diverticulum, malrotation) systems are characteristic. Prenatal ultrasound findings include fetal growth restriction, as seen in this patient. The majority of those affected die in utero; half of livebirths die by age 2 weeks. Surviving patients have severe intellectual disability. (Choice A) Cri-du-chat syndrome (5p deletion) presents with a weak or \"cat-like\" cry as well as hypotonia, failure to thrive, and developmental delay. Phenotypic features include microcephaly, low-set ears, hypertelorism, and a broad nasal bridge. (Choice B) Features of DiGeorge syndrome (22q11 deletion) include aortic arch anomalies, thymic hypoplasia/aplasia, and hypocalcemia (parathyroid gland underdevelopment). Phenotypically, neonates can present with hypertelorism, low-set ears, micrognathia, and cleft palate. (Choice C) Trisomy 13 (Patau syndrome) presents with midline facial defects (eg, holoprosencephaly, cleft lip/palate), musculoskeletal abnormalities (eg, polydactyly), and gastrointestinal anomalies (eg, omphalocele, umbilical hernia). Trisomy 13 is notably not associated with overlapping fingers. (Choice E) Trisomy 21 (Down syndrome) is the most common autosomal trisomy. Classic findings include a flat facial profile, upslanting palpebral fissures, low-set small ears, single transverse palmar crease, and hypotonia. {{exhibit_3}} {{exhibit_4}}",
+    "zh": "18三体综合征（爱德华兹综合征）。该患者患有18三体综合征（爱德华兹综合征），其中第18号染色体的完整额外拷贝是由于减数分裂不分离而遗传的。卵母细胞分裂的这种错误发生在排卵和受精之前，并且随着孕妇年龄≥35岁而增加。畸形特征包括小颌畸形、低位耳、枕部突出和足底呈摇椅状。患者有明显的肌张力亢进，包括紧握的双手和手指重叠。心脏（例如，室间隔缺损、动脉导管未闭）、泌尿生殖系统（例如，马蹄肾）和胃肠道（例如，Meckel憩室、肠旋转不良）系统的异常是其特征。产前超声检查结果包括胎儿生长受限，如该患者所示。大多数受影响的胎儿在子宫内死亡；一半的活产儿在2周内死亡。存活的患者有严重的智力残疾。(选项A) 猫叫综合征（5p缺失）表现为虚弱的或“猫叫样”的哭声，以及肌张力低下、生长迟缓和发育迟缓。表型特征包括小头畸形、低位耳、眼距过宽和宽鼻梁。(选项B) DiGeorge综合征（22q11缺失）的特征包括主动脉弓异常、胸腺发育不全/发育不良和低钙血症（甲状旁腺发育不良）。表型上，新生儿可表现为眼距过宽、低位耳、小颌畸形和腭裂。(选项C) 13三体综合征（Patau综合征）表现为面部中线缺陷（例如，前脑无裂畸形、唇腭裂）、肌肉骨骼异常（例如，多指畸形）和胃肠道异常（例如，脐膨出、脐疝）。13三体综合征与手指重叠没有明显相关性。(选项E) 21三体综合征（唐氏综合征）是最常见的常染色体三体。经典发现包括面部扁平、眼睑向上倾斜、低位小耳、单横掌纹和肌张力低下。{{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "The question asks about the most likely chromosomal abnormality in an infant with features suggestive of Edwards syndrome (Trisomy 18). The correct answer is Trisomy 18, characterized by micrognathia, low-set ears, prominent occiput, rocker bottom feet, clenched hands with overlapping fingers, and cardiac/genitourinary/gastrointestinal anomalies.",
+    "zh": "该问题询问具有提示爱德华兹综合征（18三体综合征）特征的婴儿最有可能的染色体异常。正确答案是18三体综合征，其特征是小颌畸形、低位耳、枕部突出、足底呈摇椅状、紧握的手和重叠的手指以及心脏/泌尿生殖系统/胃肠道异常。"
+  },
+  "tags": [
+    "Genetics",
+    "Chromosomal Abnormalities",
+    "Trisomy 18",
+    "Edwards Syndrome",
+    "Neonatology"
+  ],
+  "category": "Miscellanous",
+  "question_id": "1823",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Miscellanous 23\\1823",
+  "extracted_at": "2025-11-07T17:55:49.310422",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T20:53:20.162443",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

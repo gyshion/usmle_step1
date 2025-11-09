@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A previously healthy 43-year-old man comes to the office during the early fall due to a 4-week history of cough. He initially had a \"bad cold\" that lasted about 10 days. The sneezing, runny nose, and muscle aches that accompanied the cold have improved, but the cough has persisted and worsened. The patient has \"bursts of coughing\" for several minutes as he feels unable to clear the mucus. On at least 5 occasions, these attacks were so severe that he vomited afterward. The patient is a children's karate teacher. He received all of his childhood vaccinations but has not seen a physician in many years. There is no history of recent travel. Vital signs and physical examination are normal. Chest x-ray is unrevealing. Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "一位既往健康的43岁男性，因咳嗽4周于初秋时节前来就诊。他最初患有持续约10天的“重感冒”。伴随感冒出现的打喷嚏、流鼻涕和肌肉酸痛有所好转，但咳嗽持续且加重。患者出现“阵发性咳嗽”数分钟，感觉无法清除粘液。至少有5次，这些发作非常严重，随后出现呕吐。患者是一名儿童空手道老师。他接受了所有儿童时期的疫苗接种，但多年未就医。无近期旅行史。生命体征和体格检查均正常。胸部X线检查无异常。以下哪项最可能是该患者症状的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "以下哪项最可能是该患者的症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Acid-fast bacillus",
+      "zh": "抗酸杆菌"
+    },
+    "B": {
+      "en": "Gram-negative coccobacillus",
+      "zh": "革兰阴性球杆菌"
+    },
+    "C": {
+      "en": "Gram-positive diplococcus",
+      "zh": "革兰阳性双球菌"
+    },
+    "D": {
+      "en": "Mycoplasma",
+      "zh": "支原体"
+    },
+    "E": {
+      "en": "RNA virus",
+      "zh": "RNA病毒"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Pertussis (whooping cough) is a highly contagious infection transmitted via respiratory droplets. It was predominantly a childhood disease before vaccination became the norm; however, many cases now occur in adolescents/adults whose immunity has waned. The diagnosis should be considered in any adult with acute tracheobronchitis who has not had vaccination boosters. This patient may have contracted the disease during karate sessions with his students. Chest x-ray is unremarkable in most cases as there is no pulmonary consolidation. The phases of pertussis include:\n\n1.  Catarrhal phase - similar to many routine upper respiratory infections (eg, malaise, mild fever, rhinorrhea)\n2.  Paroxysmal phase - marked by severe coughing spells with the classic inspiratory whoop or post-tussive emesis/syncope\n3.  Convalescent phase - during which the cough improves\n\nPertussis is caused by the gram-negative coccobacillus Bordetella pertussis, which produces virulence factors that include adhesins and toxins. Pertactin, which forms the basis of the acellular pertussis vaccine, promotes B pertussis adherence to the ciliated upper respiratory epithelium. Tracheal cytotoxin subsequently promotes local tissue destruction, resulting in cough. Pertussis toxin causes excessive adenylate cyclase activity, which prevents effective phagocytosis and allows the organism to persist in alveolar macrophages and ciliated epithelial cells, leading to a prolonged disease course. Lymphocytosis, induced by pertussis toxin, is also common.\n\n(Choice A) This patient lacks the constitutional symptoms (eg, night sweats, weight loss, fever) and chest x-ray findings (eg, upper lobe infiltrates with cavitation) expected in pulmonary tuberculosis, which is caused by the acid-fast bacillus Mycobacterium tuberculosis.\n\n(Choice C) Streptococcus pneumoniae, a gram-positive diplococcus, is the most common cause of pneumonia and typically presents with lobar consolidation on chest x-ray. This patient's negative chest x-ray and lack of fever make pneumococcal pneumonia unlikely.\n\n(Choice D) Mycoplasma pneumoniae typically causes atypical pneumonia characterized by a persistent nonproductive cough, pharyngitis, ear pain, and constitutional symptoms (eg, fever, headache, malaise). Chest x-ray classically reveals a diffuse interstitial infiltrate.\n\n(Choice E) Examples of RNA viruses causing respiratory infections include respiratory syncytial virus, influenza, parainfluenza, rhinovirus, and corona virus. Although viral infections can cause a postinfectious cough for up to 8 weeks, severe paroxysmal coughing spells associated with post-tussive emesis in an adult without booster vaccinations are more concerning for pertussis.\n\nEducational objective:\nPertussis should be considered in any adult who has not had updated vaccination boosters. The clinical presentation is a paroxysmal cough lasting >2 weeks that is associated with post-tussive emesis or inspiratory whoop after a severe coughing episode.",
+    "zh": "百日咳是一种通过呼吸道飞沫传播的高度传染性感染。在疫苗接种成为常态之前，它主要是一种儿童疾病；然而，现在许多病例发生在免疫力减弱的青少年/成年人中。任何患有急性气管支气管炎且未接种疫苗加强剂的成年人都应考虑诊断。该患者可能是在与学生一起进行空手道训练期间感染了这种疾病。大多数情况下，胸部X线检查无异常，因为没有肺部实变。百日咳的阶段包括：\n\n1.  卡他期 - 类似于许多常规的上呼吸道感染（如，不适、轻度发热、鼻溢）\n2.  阵发期 - 以严重的咳嗽发作、典型的吸气性哮鸣音或咳嗽后呕吐/晕厥为特征\n3.  恢复期 - 在此期间，咳嗽有所改善\n\n百日咳是由革兰阴性球杆菌百日咳博德特氏菌引起的，该菌产生包括粘附素和毒素在内的毒力因子。Pertactin 是无细胞百日咳疫苗的基础，可促进百日咳博德特氏菌粘附到纤毛上呼吸道上皮。气管细胞毒素随后促进局部组织破坏，导致咳嗽。百日咳毒素导致腺苷酸环化酶活性过高，从而阻止有效吞噬作用，并使该生物体能够在肺泡巨噬细胞和纤毛上皮细胞中持续存在，导致病程延长。百日咳毒素诱导的淋巴细胞增多也很常见。\n\n（选项A）该患者缺乏肺结核预期的全身症状（如，盗汗、体重减轻、发烧）和胸部X线表现（如，上叶浸润伴空洞），肺结核是由抗酸杆菌结核分枝杆菌引起的。\n\n（选项C）肺炎链球菌是一种革兰阳性双球菌，是肺炎最常见的原因，通常在胸部X线检查中表现为肺叶实变。该患者胸部X线检查阴性且无发热，因此患肺炎球菌性肺炎的可能性较小。\n\n（选项D）肺炎支原体通常引起非典型肺炎，其特征是持续性无痰咳嗽、咽炎、耳痛和全身症状（如，发烧、头痛、不适）。胸部X线检查通常显示弥漫性间质浸润。\n\n（选项E）引起呼吸道感染的RNA病毒的例子包括呼吸道合胞病毒、流感病毒、副流感病毒、鼻病毒和冠状病毒。虽然病毒感染可引起长达8周的感染后咳嗽，但在未接种加强疫苗的成人中，与咳嗽后呕吐相关的严重阵发性咳嗽发作更令人担忧百日咳。\n\n教育目标：\n任何未接种更新疫苗加强剂的成年人都应考虑百日咳。临床表现为持续超过2周的阵发性咳嗽，并伴有严重的咳嗽发作后的咳嗽后呕吐或吸气性哮鸣音。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pertussis (whooping cough) presentation in adults, especially those without recent vaccination boosters. It emphasizes the importance of considering pertussis in adults with prolonged paroxysmal cough and post-tussive emesis. \n\nThe key to solving this question is recognizing the classic symptoms of pertussis (paroxysmal cough, post-tussive emesis) in an adult with waning immunity. Ruling out other common causes of cough based on the clinical presentation and chest x-ray findings is also crucial.",
+    "zh": "此问题考察了成人百日咳（百日咳）的临床表现，特别是那些近期未接种疫苗加强剂的患者。它强调了在出现长期阵发性咳嗽和咳嗽后呕吐的成年人中考虑百日咳的重要性。\n\n解决此问题的关键是识别免疫力下降的成人中百日咳的典型症状（阵发性咳嗽、咳嗽后呕吐）。根据临床表现和胸部X线检查结果排除其他常见咳嗽原因也很关键。"
+  },
+  "tags": "Pertussis; Bordetella pertussis; Whooping cough; Respiratory infection; Vaccination; Gram-negative bacteria; Paroxysmal cough; Post-tussive emesis; Infectious disease; Pulmonary medicine",
+  "category": "Chest",
+  "question_id": "11630",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\11630",
+  "extracted_at": "2025-11-05T11:36:04.155547",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:33:25.945843",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

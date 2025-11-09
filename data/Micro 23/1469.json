@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "Studies conducted following an influenza epidemic that affected the inhabitants of several countries determine that the cause is an antigenically novel virus strain carrying the animal-strain hemagglutinin and neuraminidase surface molecules. Further analysis reveals that reassortment of the genetic materials occurred during coinfection with human influenza virus and swine influenza virus, leading to the development of some progeny that contain genetic materials from both viruses.",
+    "zh": "一项针对影响多个国家居民的流感疫情的研究表明，病因是一种携带动物源血凝素和神经氨酸酶表面分子的抗原新病毒株。进一步分析表明，在人流感病毒和猪流感病毒共同感染期间发生了遗传物质的重组，导致一些后代包含两种病毒的遗传物质。"
+  },
+  "question": {
+    "en": "Which of the following viruses can undergo a similar process?",
+    "zh": "以下哪种病毒可以经历类似的过程？"
+  },
+  "options": {
+    "A": {
+      "en": "Hepatitis C virus",
+      "zh": "丙型肝炎病毒"
+    },
+    "B": {
+      "en": "Human papillomavirus",
+      "zh": "人乳头瘤病毒"
+    },
+    "C": {
+      "en": "Measles virus",
+      "zh": "麻疹病毒"
+    },
+    "D": {
+      "en": "Poliovirus",
+      "zh": "脊髓灰质炎病毒"
+    },
+    "E": {
+      "en": "Rotavirus",
+      "zh": "轮状病毒"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Genetic shift in the influenza A virus involves REASSORTMENT of genomic segments of the human strain with genomic segments of the animal strain, typically when both strains coinfect birds (avian) or pigs (swine). The resulting new strain can cause a new influenza epidemic or pandemic if it has dramatically altered viral surface glycoproteins (eg, hemagglutinin).\n\nThe key structural feature that enables influenza viruses to undergo such relatively rapid genetic shifts through reassortment is the SEGMENTED nature of their genomes. Members of another virus family with a segmented genome could also undergo such reassortment - as opposed to the less radical, slower genetic drift that occurs via point mutations in all viral families. Among the viruses listed, only ROTAVIRUS has a segmented genome.\n\nSegmented viruses include orthomyxoviruses, reoviruses, bunyaviruses, and arenaviruses.\n\n(Choices A, B, C, and D) Hepatitis C virus, human papillomavirus, measles virus, and poliovirus all lack the segmented genome necessary to undergo reassortment.",
+    "zh": "甲型流感病毒的基因漂移涉及人源毒株的基因组片段与动物源毒株的基因组片段的重组，通常发生在两种毒株同时感染鸟类（禽类）或猪（猪）时。如果新毒株的病毒表面糖蛋白（例如，血凝素）发生巨大改变，则可能导致新的流感流行或大流行。\n\n使流感病毒能够通过重组经历如此快速的基因漂移的关键结构特征是其基因组的节段性。具有节段性基因组的另一病毒家族的成员也可以经历这种重组——与所有病毒家族中通过点突变发生的较不剧烈、较慢的基因漂移相反。在列出的病毒中，只有轮状病毒具有节段性基因组。\n\n节段性病毒包括正粘病毒、呼肠孤病毒、布尼亚病毒和沙粒病毒。\n\n（选项 A、B、C 和 D）丙型肝炎病毒、人乳头瘤病毒、麻疹病毒和脊髓灰质炎病毒都缺乏经历重组所必需的节段性基因组。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of viral genetics, specifically the mechanism of genetic shift through reassortment, and the structural requirements for this process. The key to answering this question is recognizing that reassortment requires a segmented genome, and then identifying which of the listed viruses possesses this characteristic.",
+    "zh": "此问题考察对病毒遗传学的知识，特别是通过重组进行基因漂移的机制，以及此过程的结构要求。回答此问题的关键在于认识到重组需要节段性基因组，然后确定所列病毒中哪一种具有此特征。"
+  },
+  "tags": "Viral genetics; Genetic shift; Reassortment; Segmented genome; Influenza virus; Rotavirus; Orthomyxoviruses; Reoviruses; Bunyaviruses; Arenaviruses",
+  "category": "Micro",
+  "question_id": "1469",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1469",
+  "extracted_at": "2025-11-05T14:53:37.089906",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:07:15.804826",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

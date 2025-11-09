@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "The cells identified by the special immunohistochemical stain are shown to overexpress a 185 kD glycoprotein that spans the cell membrane and has tyrosine kinase activity in the intracellular domain.",
+    "zh": "通过特殊的免疫组织化学染色鉴定的细胞显示过度表达一种185 kD的糖蛋白，该糖蛋白跨越细胞膜并在细胞内结构域中具有酪氨酸激酶活性。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely function of this protein?",
+    "zh": "以下哪项最可能是该蛋白质的功能？"
+  },
+  "options": {
+    "A": {
+      "en": "Accelerates cell proliferation",
+      "zh": "加速细胞增殖"
+    },
+    "B": {
+      "en": "Acts as a sex hormone receptor",
+      "zh": "充当性激素受体"
+    },
+    "C": {
+      "en": "Governs intercellular binding",
+      "zh": "控制细胞间结合"
+    },
+    "D": {
+      "en": "Induces cytokine release",
+      "zh": "诱导细胞因子释放"
+    },
+    "E": {
+      "en": "Mediates endocytosis",
+      "zh": "介导内吞作用"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The HER2 oncogene codes for a human epidermal growth factor receptor with tyrosine kinase activity in the intracellular domain. It is known to play a role in the activation of transduction pathways that control epithelial growth and differentiation. Epithelial cell carcinomas that overexpress HER2 demonstrate INCREASED PROLIFERATION and resistance to apoptosis. Consequently, HER2-positive breast cancers have a higher risk of disease recurrence and WORSE PROGNOSIS compared to HER2-negative breast cancers. Trastuzumab (a monoclonal antibody against HER2) is used to treat women who test positive for overexpression of the HER2 oncogene.\n(Choice B) Estrogen and progesterone receptors are intracellular receptors that are frequently overexpressed in patients with breast cancer. Stimulation of these hormone receptors increases cellular proliferation, and patients with hormone-receptor-positive breast cancer are treated with antiestrogen medications to suppress tumor growth.\n(Choice C) Intercellular binding is mediated by cell surface proteins such as intercellular adhesion molecules (ICAMs), selectins, and numerous others. Many adhesion proteins, including ICAMS, also play a role in signal transduction.\n(Choice D) Various hormones, cytokines, and other stimuli can induce cytokine release from a number of cell types. One example of a receptor that induces cytokine release is the Toll-like receptor, which detects conserved microbial structures.\n(Choice E) Clathrin is an intracellular protein that helps form rounded vesicles in the cytoplasm. Clathrin-coated vesicles help mediate intracellular trafficking and endocytosis.",
+    "zh": "HER2 癌基因编码一种人表皮生长因子受体，该受体在细胞内结构域中具有酪氨酸激酶活性。已知它在激活控制上皮细胞生长和分化的转导通路中起作用。过度表达 HER2 的上皮细胞癌表现出细胞增殖增加和对细胞凋亡的抵抗力。因此，HER2 阳性乳腺癌与 HER2 阴性乳腺癌相比，复发风险更高，预后更差。曲妥珠单抗（一种针对 HER2 的单克隆抗体）用于治疗 HER2 癌基因过度表达检测呈阳性的女性。\n(选项 B) 雌激素和孕酮受体是细胞内受体，在乳腺癌患者中经常过度表达。刺激这些激素受体会增加细胞增殖，并且激素受体阳性乳腺癌患者接受抗雌激素药物治疗以抑制肿瘤生长。\n(选项 C) 细胞间结合由细胞表面蛋白介导，如细胞间粘附分子 (ICAM)、选择素和许多其他物质。许多粘附蛋白，包括 ICAM，也在信号转导中发挥作用。\n(选项 D) 各种激素、细胞因子和其他刺激可以诱导多种细胞类型释放细胞因子。诱导细胞因子释放的一个受体例子是 Toll 样受体，它检测保守的微生物结构。\n(选项 E) 网格蛋白是一种细胞内蛋白，有助于在细胞质中形成圆形囊泡。网格蛋白包被的囊泡有助于介导细胞内转运和内吞作用。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the function of the HER2 oncogene and its role in cancer, specifically breast cancer. It assesses knowledge of oncogene function, cell signaling pathways, and their clinical implications in disease progression and treatment.\nTo solve this question, one must identify the protein described as a transmembrane glycoprotein with tyrosine kinase activity and recognize it as the HER2 receptor. Understanding that HER2 overexpression is associated with increased cell proliferation and a worse prognosis is key to selecting the correct answer. Eliminating other options based on their known functions is also a crucial step.",
+    "zh": "此问题测试对 HER2 癌基因的功能及其在癌症（特别是乳腺癌）中的作用的理解。它评估了对癌基因功能、细胞信号通路及其在疾病进展和治疗中的临床意义的认识。\n要解决这个问题，必须将所描述的蛋白质鉴定为具有酪氨酸激酶活性的跨膜糖蛋白，并将其识别为 HER2 受体。了解 HER2 过表达与细胞增殖增加和预后较差有关是选择正确答案的关键。根据其他选项的已知功能排除它们也是一个关键步骤。"
+  },
+  "tags": "HER2 oncogene; Tyrosine kinase; Cell proliferation; Breast cancer; Oncogenes; Signal transduction; Epithelial growth; Apoptosis; Trastuzumab",
+  "category": "Pathology",
+  "question_id": "2093",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\2093",
+  "extracted_at": "2025-11-05T19:44:24.391726",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:46:03.228032",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

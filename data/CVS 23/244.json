@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 72-year-old man with long-standing dyspnea was seen in the clinic after experiencing an episode of syncope. Physical examination showed weak and slowly rising arterial pulses. Cardiac auscultation showed a harsh midsystolic murmur best heard at the second right intercostal space with decreased intensity of the second heart sound. Electrocardiogram and echocardiogram confirmed the diagnosis of severe aortic stenosis. Two months later, the patient comes to the emergency department with palpitations and increased shortness of breath. His blood pressure is 90/60 mm Hg and his heart rate is 130/min with an irregularly irregular rhythm. Electrocardiogram shows new-onset atrial fibrillation without significant ST-segment or T-wave changes. Chest x-ray {{exhibit_1}} shows bilateral pulmonary edema.",
+    "zh": "一名 72 岁男性，长期存在呼吸困难，在经历一次晕厥发作后到诊所就诊。体格检查显示动脉搏动微弱且上升缓慢。心脏听诊显示，于右侧第二肋间隙可闻及粗糙的中收缩期杂音，且第二心音强度减弱。心电图和超声心动图证实诊断为重度主动脉瓣狭窄。两个月后，患者因心悸和呼吸急促加重来到急诊科。其血压为 90/60 mmHg，心率为 130 次/分钟，呈不规则的节律。心电图显示新发房颤，无明显的 ST 段或 T 波改变。胸部 X 光片 {{exhibit_1}} 显示双侧肺水肿。"
+  },
+  "question": {
+    "en": "Which of the following hemodynamic changes is most likely associated with this patient's current presentation?",
+    "zh": "以下哪种血流动力学改变最有可能与该患者目前的表现相关？"
+  },
+  "options": {
+    "A": {
+      "en": "Insidious right ventricular failure",
+      "zh": "隐匿性右心室衰竭"
+    },
+    "B": {
+      "en": "Sudden decrease in left ventricular preload",
+      "zh": "左心室前负荷突然降低"
+    },
+    "C": {
+      "en": "Sudden decrease in left ventricular systolic function",
+      "zh": "左心室收缩功能突然降低"
+    },
+    "D": {
+      "en": "Sudden increase in left ventricular afterload",
+      "zh": "左心室后负荷突然增加"
+    },
+    "E": {
+      "en": "Sudden increase in left ventricular filling",
+      "zh": "左心室充盈突然增加"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's sudden onset heart failure was most likely precipitated by acute atrial fibrillation, a condition that occurs in up to 10% of patients with SEVERE AORTIC STENOSIS (AS). Patients with severe AS already have reduced cardiac output due to significant valvular obstruction, which can be exacerbated by the sudden loss of normal ATRIAL CONTRACTION that contributes to ventricular filling. Atrial contraction is especially important for these patients as many have concentric left ventricular (LV) hypertrophy and therefore reduced LV compliance. As a result, they become dependent on atrial contraction to maintain adequate LV filling. Without atrial contraction, LV preload can decrease to the point of producing severe HYPOTENSION. In addition, loss of the atrial kick can result in significantly increased mean pulmonary venous pressure due to buildup of blood in the left atrium and pulmonary veins, leading to ACUTE PULMONARY EDEMA. As a result, cardioversion is indicated for acute atrial fibrillation in patients with severe AS.\n\n(Choice A) Cardiogenic pulmonary edema is characteristic of left, not right, heart failure. When the forward pumping function of the left heart is impaired, pressure can build up in the left atrium. This rise in pressure is transmitted to the pulmonary veins and capillaries, resulting in increased fluid transudation into the alveoli and pulmonary interstitium.\n\n(Choices C and E) This patient has no evidence of myocardial ischemia on electrocardiogram, meaning that LV systolic function is most likely unchanged. Under these circumstances, an increase in LV filling (preload) would increase cardiac output and mean arterial pressure due to the Frank-Starling mechanism. This patient's decreased cardiac output is most likely due to decreased LV preload.\n\n(Choice D) In a patient with AS, LV afterload is determined by the mean systolic blood pressure and the degree of transvalvular obstruction. In degenerative calcific AS and most other forms of adult AS, the transvalvular obstruction gradually increases over years to decades, making an acute increase in LV afterload unlikely. In addition, this patient's acute hypotension would actually cause a reduction in afterload.\n\nEducational objective:\nIn patients with chronic aortic stenosis and concentric left ventricular hypertrophy, atrial contraction contributes significantly to left ventricular filling. Loss of atrial contraction due to atrial fibrillation can reduce left ventricular preload and cardiac output sufficiently to cause systemic hypotension. Decreased forward filling of the left ventricle can also result in backup of blood in the left atrium and pulmonary veins, leading to acute pulmonary edema.",
+    "zh": "该患者的突发性心力衰竭最有可能由急性房颤引起，这种情况发生在高达 10% 的重度主动脉瓣狭窄 (AS) 患者中。重度 AS 患者由于瓣膜明显梗阻，其心输出量已经降低，而正常房收缩的突然丧失会加剧这种情况，房收缩有助于心室充盈。对于这些患者来说，房收缩尤其重要，因为许多患者存在向心性左心室 (LV) 肥大，因此 LV 顺应性降低。因此，他们依赖房收缩来维持足够的 LV 充盈。如果没有房收缩，LV 前负荷可能会降低到产生严重低血压的程度。此外，心房冲动丧失会导致平均肺静脉压显著升高，这是由于血液在左心房和肺静脉中积聚，从而导致急性肺水肿。因此，对于重度 AS 患者的急性房颤，建议进行电复律。\n\n（选项 A）心源性肺水肿是左心衰竭（而非右心衰竭）的特征。当左心的前向泵功能受损时，压力会在左心房中积聚。这种压力升高会传递到肺静脉和毛细血管，导致液体渗出到肺泡和肺间质中。\n\n（选项 C 和 E）该患者的心电图没有心肌缺血的证据，这意味着 LV 收缩功能最有可能没有改变。在这种情况下，由于 Frank-Starling 机制，LV 充盈（前负荷）的增加会增加心输出量和平均动脉压。该患者的心输出量降低最有可能由于 LV 前负荷降低所致。\n\n（选项 D）在 AS 患者中，LV 后负荷由平均收缩压和跨瓣膜梗阻的程度决定。在退行性钙化性 AS 和大多数其他成人 AS 类型中，跨瓣膜梗阻在数年到数十年间逐渐增加，因此急性 LV 后负荷增加的可能性不大。此外，该患者的急性低血压实际上会导致后负荷降低。\n\n教育目标：\n在患有慢性主动脉瓣狭窄和向心性左心室肥大的患者中，房收缩对左心室充盈有重要贡献。由于房颤导致房收缩丧失，可充分降低左心室前负荷和心输出量，从而引起全身低血压。左心室前向充盈减少还可导致血液在左心房和肺静脉中积聚，从而导致急性肺水肿。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of hemodynamic changes associated with severe aortic stenosis complicated by acute atrial fibrillation. Specifically, it assesses the impact of loss of atrial contraction on left ventricular preload and the subsequent development of pulmonary edema.\n\nThe key to solving this question is recognizing the importance of atrial contraction in maintaining adequate left ventricular filling in patients with aortic stenosis and left ventricular hypertrophy. Loss of atrial kick due to atrial fibrillation leads to a sudden decrease in preload, causing hypotension and pulmonary edema.",
+    "zh": "这道题考察了对与重度主动脉瓣狭窄伴急性房颤相关的血流动力学变化的理解。具体来说，它评估了房收缩的丧失对左心室前负荷以及随后肺水肿发展的影响。\n\n解决这道题的关键在于认识到房收缩在维持主动脉瓣狭窄和左心室肥大患者的充分左心室充盈方面的重要性。由于房颤导致的心房冲动丧失会导致前负荷突然下降，引起低血压和肺水肿。"
+  },
+  "tags": "Aortic stenosis; Atrial fibrillation; Hemodynamics; Left ventricular preload; Pulmonary edema; Cardiology; Arrhythmia; Heart failure",
+  "category": "CVS",
+  "question_id": "244",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\244",
+  "extracted_at": "2025-11-05T12:12:27.456424",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:29:24.807283",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

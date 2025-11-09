@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man is brought to the emergency department due to an acute change in mental status. The patient was having dinner with his family when he suddenly had difficulty using his fork and appeared confused. Other medical conditions include type 2 diabetes mellitus, hyperlipidemia, and hypertension. The patient is a high school calculus teacher and has a 40-pack-year smoking history. Blood pressure is 180/98 mm Hg and pulse is 98/min and regular. On physical examination, the patient is well oriented, answers questions appropriately, and has no motor, sensory, or visual deficits. He is unable to add simple numbers such as 17 plus 9; he is also unable to recognize or distinguish his fingers. Which of the following brain areas is most likely affected in this patient? {{exhibit_1}}",
+    "zh": "一名65岁男性因精神状态急性改变被送往急诊科。患者与家人共进晚餐时，突然发现难以使用叉子，并且出现意识模糊。其他疾病包括2型糖尿病、高脂血症和高血压。患者是一名高中微积分老师，有40包年吸烟史。血压180/98 mmHg，脉搏98次/分，规律。体格检查显示，患者定向力好，能正确回答问题，并且没有运动、感觉或视觉障碍。他无法计算简单的数字，例如17加9；他也无法识别或区分他的手指。该患者最有可能受到影响的脑区是以下哪一个？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following brain areas is most likely affected in this patient?",
+    "zh": "该患者最有可能受到影响的脑区是以下哪一个？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has had a stroke but has no motor, sensory, or visual deficits. However, he has trouble eating, solving simple mathematical problems (despite being a calculus teacher), and identifying his fingers, which are all tasks requiring MULTISENSORY integration (eg, visual-spatial, tactile, proprioceptive). The parietal association cortex is the brain region responsible for processing this information, and facilitates comprehension (eg, understanding words & symbols) and problem solving (eg, numerical calculation, spatial orientation).\n\nThis patient's particular pattern of deficits is suggestive of injury involving the angular gyrus of the left (dominant) parietal lobe. Damage to this region classically results in Gerstmann syndrome, which is characterized by the following signs:\n\n*   Agraphia (inability to write)\n*   Acalculia (inability to solve mathematical calculations)\n*   Finger agnosia (inability to identify individual fingers on the hand)\n*   Left-right disorientation\n\nAlthough Gerstmann syndrome may occur as an isolated syndrome, lesions to the angular gyrus may also be associated with alexia (inability to read) and aphasia (impaired speech), also tasks that require multisensory integration.\n\n(Choice A) This area just anterior to the central sulcus is the precentral gyrus (primary motor cortex). Lesions to this area would result in contralateral weakness according to the somatotopic organization of the brain.\n\n(Choice B) This area posterior to the central sulcus is the postcentral gyrus (parietal somatosensory cortex). A lesion here would cause sensation loss in the contralateral body.\n\n(Choice C) This location in the caudal part of the inferior frontal gyrus of the dominant hemisphere is Broca area. A stroke in this area leads to an expressive aphasia. Although patients with expressive aphasia may have difficulty writing, speech would also be impacted (usually characterized by nonfluent speech).\n\n(Choice E) A lesion to the visual cortex, located in the occipital lobe, can lead to cortical blindness or visual impairment. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "该患者患有卒中，但没有运动、感觉或视觉障碍。然而，他进食困难，无法解决简单的数学问题（尽管是一名微积分老师），并且无法识别自己的手指，所有这些都是需要多感官整合的任务（例如，视觉-空间、触觉、本体感觉）。顶叶联合皮层是负责处理这些信息的大脑区域，并有助于理解（例如，理解单词和符号）和解决问题（例如，数值计算、空间定向）。\n\n该患者的特定缺陷模式提示损伤累及左侧（优势半球）顶叶的角回。该区域的损伤通常会导致Gerstmann综合征，其特征是以下体征：\n\n*   失写症（无法书写）\n*   计算不能（无法解决数学计算）\n*   手指失认症（无法识别手上的各个手指）\n*   左右定向障碍\n\n尽管Gerstmann综合征可能作为一种孤立综合征出现，但角回的病变也可能与失读症（无法阅读）和失语症（言语障碍）相关，这些也是需要多感官整合的任务。\n\n（选项 A）该区域位于中央沟正前方，是中央前回（初级运动皮层）。根据大脑的躯体定位组织，该区域的病变将导致对侧无力。\n\n（选项 B）该区域位于中央沟后方，是中央后回（顶叶躯体感觉皮层）。这里的病变会导致对侧身体的感觉丧失。\n\n（选项 C）该位置位于优势半球额下回的尾侧部分，是Broca区。该区域的卒中会导致表达性失语症。虽然表达性失语症患者可能难以书写，但言语也会受到影响（通常表现为非流畅性言语）。\n\n（选项 E）枕叶中的视觉皮层病变可导致皮质性失明或视觉障碍。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the anatomical localization of brain lesions based on clinical findings, specifically focusing on Gerstmann syndrome and the function of the angular gyrus. The question requires recognizing the constellation of symptoms (acalculia, finger agnosia) and associating them with the affected brain region.\n\nTo solve this question, identify the key symptoms pointing towards Gerstmann syndrome. Then, recall the anatomical location of the angular gyrus within the parietal lobe and match it to the corresponding area on the brain diagram.",
+    "zh": "此问题考察基于临床发现的脑损伤解剖定位知识，特别侧重于Gerstmann综合征和角回的功能。该问题要求识别一系列症状（计算不能，手指失认症），并将它们与受影响的脑区联系起来。\n\n要解决这个问题，确定指向Gerstmann综合征的关键症状。然后，回忆角回在顶叶内的解剖位置，并将其与脑图上相应的区域匹配。"
+  },
+  "tags": "Gerstmann syndrome; Angular gyrus; Parietal lobe; Acalculia; Finger agnosia; Neurology; Stroke; Brain anatomy; Neuroanatomy",
+  "category": "Neuro",
+  "question_id": "12023",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\12023",
+  "extracted_at": "2025-11-05T15:13:29.220810",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:17:59.428169",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old woman comes to the emergency department due to fatigue, exertional dyspnea, and cough. She has had subjective fevers but no upper respiratory symptoms, and no family members have had a similar illness. Medical history is unremarkable, and the patient does not use tobacco. Temperature is 37.5 C (99.5 F), blood pressure is 118/75 mm Hg, pulse is 90/min, and respirations are 22/min. Pulmonary examination shows normal air exchange with scattered crackles and no wheezes. The patient also has nontender cervical lymphadenopathy. Serum chemistry shows a calcium level of 12.0 mg/dL. Chest x-ray demonstrates scattered nodules and parenchymal infiltrates, as shown in the image below {{exhibit_1}}.\n\nLymph node biopsy reveals noncaseating granulomas.",
+    "zh": "一名35岁的女性因疲劳、劳力性呼吸困难和咳嗽来到急诊科。她有主观发热，但没有上呼吸道症状，也没有家庭成员患有类似疾病。病史无特殊，患者不吸烟。体温37.5°C（99.5°F），血压118/75 mmHg，脉搏90次/分钟，呼吸22次/分钟。肺部检查显示气体交换正常，有散在的爆裂音，无喘息。患者还有无压痛性颈部淋巴结肿大。血清生化检查显示钙水平为12.0 mg/dL。胸部X光片显示散在的结节和实质浸润，如下图{{exhibit_1}}所示。\n\n淋巴结活检显示非干酪性肉芽肿。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of the elevated calcium level in this patient?",
+    "zh": "该患者血钙水平升高的最可能原因是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Accelerated bone turnover (6%)",
+      "zh": "骨转换加速 (6%)"
+    },
+    "B": {
+      "en": "Activated macrophages (67%)",
+      "zh": "活化的巨噬细胞 (67%)"
+    },
+    "C": {
+      "en": "Destruction of bone tissue (4%)",
+      "zh": "骨组织破坏 (4%)"
+    },
+    "D": {
+      "en": "Increased parathyroid hormone secretion (18%)",
+      "zh": "甲状旁腺激素分泌增加 (18%)"
+    },
+    "E": {
+      "en": "Phosphate retention (2%)",
+      "zh": "磷酸盐潴留 (2%)"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient, with systemic and respiratory symptoms, pulmonary infiltrates, lymphadenopathy, and noncaseating granulomas, has typical features of sarcoidosis. Hypercalcemia is a common feature of sarcoidosis, and even patients with normal serum calcium levels may have increased urinary excretion of calcium, suggesting abnormal calcium metabolism.\n\nIn normal individuals, 25-hydroxyvitamin D is converted to 1,25-dihydroxyvitamin D by 1-alpha-hydroxylase in the kidneys. This step is regulated primarily by parathyroid hormone (PTH) in response to blood calcium levels. However, in sarcoidosis and other granulomatous disorders, 1-alpha-hydroxylase expression in activated macrophages in the lung and lymph nodes causes PTH-independent production of 1,25-dihydroxyvitamin D. This leads to increased intestinal absorption of calcium and subsequent hypercalcemia.\n\n(Choice A) Increased bone turnover may be seen in patients with sarcoidosis who have very high 1,25-dihydroxyvitamin D levels, but this is a less significant source than intestinal absorption of calcium. Regardless, the underlying cause of both of these mechanisms is excess 1-alpha-hydroxylase expression by activated macrophages.\n\n(Choice C) Osteolytic metastases can cause hypercalcemia due to increased bone resorption in areas surrounding malignant cells. However, this patient, a nonsmoker with noncaseating granulomas on biopsy, has no specific signs of malignancy.\n\n(Choice D) PTH levels in sarcoidosis are typically suppressed due to elevated levels of calcium and 1,25-dihydroxyvitamin D.\n\n(Choice E) Chronic renal failure causes phosphorus retention. The excess serum phosphorus can cause hypocalcemia by combining with intravascular calcium.\n\nEducational objective:\nHypercalcemia in sarcoidosis is caused by parathyroid hormone-independent formation of 1,25-dihydroxyvitamin D by activated macrophages. This leads to increased intestinal absorption of calcium. {{exhibit_2}}",
+    "zh": "该患者出现全身和呼吸系统症状、肺浸润、淋巴结肿大和非干酪性肉芽肿，具有典型的结节病特征。高钙血症是结节病的常见特征，即使血钙水平正常的患者也可能出现尿钙排泄增加，提示钙代谢异常。\n\n在正常个体中，25-羟基维生素D通过肾脏中的1-α-羟化酶转化为1,25-二羟基维生素D。这一步骤主要受甲状旁腺激素（PTH）调节，以响应血钙水平。然而，在结节病和其他肉芽肿性疾病中，肺和淋巴结中活化的巨噬细胞中的1-α-羟化酶表达导致PTH非依赖性产生1,25-二羟基维生素D。这导致钙的肠道吸收增加，继而引起高钙血症。\n\n(选项 A) 骨转换加速可能见于结节病患者，其1,25-二羟基维生素D水平非常高，但这不如钙的肠道吸收重要。无论如何，这两种机制的根本原因都是活化的巨噬细胞过度表达1-α-羟化酶。\n\n(选项 C) 溶骨性转移可因恶性细胞周围区域的骨吸收增加而引起高钙血症。然而，该患者为非吸烟者，活检显示非干酪性肉芽肿，没有恶性肿瘤的特异性征象。\n\n(选项 D) 结节病患者的PTH水平通常因钙和1,25-二羟基维生素D水平升高而被抑制。\n\n(选项 E) 慢性肾功能衰竭引起磷潴留。过多的血清磷可与血管内钙结合引起低钙血症。\n\n教育目标：\n结节病中的高钙血症是由活化的巨噬细胞产生1,25-二羟基维生素D（不依赖于甲状旁腺激素）引起的。这导致钙的肠道吸收增加。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of hypercalcemia in sarcoidosis, specifically the role of activated macrophages in producing 1,25-dihydroxyvitamin D independently of parathyroid hormone.\n\nTo solve this question, recognize the clinical features of sarcoidosis (systemic symptoms, pulmonary infiltrates, lymphadenopathy, noncaseating granulomas) and recall that hypercalcemia in sarcoidosis is due to increased production of 1,25-dihydroxyvitamin D by activated macrophages.",
+    "zh": "此题考察了结节病中高钙血症的病理生理学知识，特别是活化的巨噬细胞在产生1,25-二羟基维生素D时独立于甲状旁腺激素的作用。\n\n要解决这个问题，需要识别结节病的临床特征（全身症状、肺浸润、淋巴结肿大、非干酪性肉芽肿），并记住结节病中的高钙血症是由于活化的巨噬细胞产生1,25-二羟基维生素D增加所致。"
+  },
+  "tags": "Sarcoidosis; Hypercalcemia; Activated macrophages; 1,25-dihydroxyvitamin D; Parathyroid hormone; Granulomatous disease; Pulmonary infiltrates; Lymphadenopathy; Vitamin D metabolism",
+  "category": "Chest",
+  "question_id": "984",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\984",
+  "extracted_at": "2025-11-05T11:49:38.270114",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:43:22.860169",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

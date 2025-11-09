@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old woman comes to the office with a 2-week history of palpitations, excessive sweating, and anxiety. The patient has obesity and has been unsuccessful in achieving significant weight loss with diet and exercise. In an attempt to lose weight, she has been taking excessive amounts of levothyroxine given to her by a friend. Pulse is 110/min. Physical examination shows sweaty palms and a soft, nontender, normal-sized thyroid gland. Laboratory evaluation reveals suppressed TSH and elevated free thyroxine (T4). Which of the following additional findings is most likely to be present in this patient? {{exhibit_1}}",
+    "zh": "一位34岁女性来到诊所，主诉2周来心悸、多汗和焦虑。患者患有肥胖症，通过节食和运动未能显着减轻体重。为了减肥，她一直在服用朋友给她的过量左旋甲状腺素。脉搏为110次/分钟。体格检查显示手掌出汗，甲状腺柔软、无压痛、大小正常。实验室评估显示TSH受到抑制，游离甲状腺素（T4）升高。该患者最有可能出现以下哪一项附加发现？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following additional findings is most likely to be present in this patient?",
+    "zh": "该患者最有可能出现以下哪一项附加发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Radioactive iodine uptake: ^; Serum thyroglobulin level: ^; Total triiodothyronine (T3): ^",
+      "zh": "放射性碘摄取：↑；血清甲状腺球蛋白水平：↑；总三碘甲状腺原氨酸（T3）：↑"
+    },
+    "B": {
+      "en": "Radioactive iodine uptake: v; Serum thyroglobulin level: ^; Total triiodothyronine (T3): ^",
+      "zh": "放射性碘摄取：↓；血清甲状腺球蛋白水平：↑；总三碘甲状腺原氨酸（T3）：↑"
+    },
+    "C": {
+      "en": "Radioactive iodine uptake: v; Serum thyroglobulin level: v; Total triiodothyronine (T3): ^",
+      "zh": "放射性碘摄取：↓；血清甲状腺球蛋白水平：↓；总三碘甲状腺原氨酸（T3）：↑"
+    },
+    "D": {
+      "en": "Radioactive iodine uptake: v; Serum thyroglobulin level: v; Total triiodothyronine (T3): Normal",
+      "zh": "放射性碘摄取：↓；血清甲状腺球蛋白水平：↓；总三碘甲状腺原氨酸（T3）：正常"
+    },
+    "E": {
+      "en": "Radioactive iodine uptake: Normal; Serum thyroglobulin level: Normal; Total triiodothyronine (T3): ^",
+      "zh": "放射性碘摄取：正常；血清甲状腺球蛋白水平：正常；总三碘甲状腺原氨酸（T3）：↑"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has exogenous thyrotoxicosis, which can occur intentionally due to abuse of thyroid preparations (eg, levothyroxine, porcine thyroid extracts) or inadvertently due to errors in treatment of hypothyroidism. Symptoms resemble endogenous hyperthyroidism and include weight loss, tremor, heat intolerance, and tachycardia/palpitations.\n\nIn addition to elevated serum thyroxine (T4) and suppressed TSH, laboratory testing in exogenous thyrotoxicosis typically shows the following:\n\n*   Radioactive iodine uptake (RAIU): A radioiodine tracer is administered followed by scintigraphy of the thyroid gland; RAIU correlates with the organification of iodine and the synthesis of new thyroid hormone. In exogenous thyrotoxicosis, endogenous thyroid hormone synthesis is suppressed, so RAIU is low. If thyroid ultrasound is performed, Doppler shows decreased blood flow.\n*   Thyroglobulin: Thyroglobulin is a large glycoprotein in thyroid follicles that serves as a source of tyrosine residues for thyroid hormone synthesis. Small amounts of thyroglobulin are normally released with thyroid hormone, although greater quantities may be released in states of increased thyroid hormone synthesis or follicular destruction. In exogenous thyrotoxicosis, thyroid metabolic activity is low, and serum thyroglobulin is also low.\n*   Triiodothyronine (T3): T3 is derived primarily from T4 by deiodination in peripheral tissues, although small amounts are coreleased from the thyroid with T4. Exogenous levothyroxine is readily converted to T3, so T3 levels are also usually elevated. {{exhibit_2}}\n\n(Choice A) Elevated RAIU, thyroglobulin, and T3 suggest increased metabolic activity in the thyroid (eg, Graves disease).\n\n(Choice B) Elevated thyroglobulin and T3 with a suppressed RAIU suggest the destruction of thyroid follicles and the release of preformed thyroid hormone (eg, subacute thyroiditis).\n\n(Choice D) Following thyroidectomy, patients with thyroid cancer are often treated with levothyroxine to achieve a subclinical hyperthyroid state; the suppressed TSH level avoids stimulation of residual malignant thyroid cells. RAIU and thyroglobulin are low because the thyroid is absent, but because the target hyperthyroid state is mild/subclinical, T3 is often normal or only slightly elevated.\n\n(Choice E) Thyroid hormone is carried in the circulation bound to plasma proteins, especially thyroid-binding globulin (TBG). TBG is elevated in hyperestrogen c states (eg, pregnancy, estrogen-based contraceptives); thyroid hormone production increases transiently to fill the increased number of binding sites, then activity (eg, RAIU, serum thyroglobulin) returns to normal. Total T3 and T4 are elevated, but free hormone levels are normal.\n\nEducational objective:\n\nIn exogenous thyrotoxicosis, radioactive iodine uptake and serum thyroglobulin level are low, indicating suppression of endogenous thyroid metabolic activity. Serum T3 levels are often elevated.",
+    "zh": "该患者患有外源性甲状腺毒症，这可能由于滥用甲状腺制剂（例如，左旋甲状腺素、猪甲状腺提取物）或由于甲状腺功能减退症的治疗错误而发生。症状类似于内源性甲状腺功能亢进症，包括体重减轻、震颤、不耐热和心动过速/心悸。\n\n除了血清甲状腺素（T4）升高和TSH受到抑制之外，外源性甲状腺毒症的实验室检查通常显示如下：\n\n*   放射性碘摄取（RAIU）：给予放射性碘示踪剂，然后进行甲状腺闪烁显像；RAIU与碘的有机化和新甲状腺激素的合成相关。在外源性甲状腺毒症中，内源性甲状腺激素的合成受到抑制，因此RAIU较低。如果进行甲状腺超声检查，多普勒显示血流减少。\n*   甲状腺球蛋白：甲状腺球蛋白是甲状腺滤泡中一种大的糖蛋白，用作甲状腺激素合成的酪氨酸残基的来源。少量甲状腺球蛋白通常与甲状腺激素一起释放，尽管在甲状腺激素合成增加或滤泡破坏的情况下，可能会释放出更多量。在外源性甲状腺毒症中，甲状腺代谢活性较低，血清甲状腺球蛋白也较低。\n*   三碘甲状腺原氨酸（T3）：T3主要通过外周组织中的T4脱碘作用产生，尽管少量与T4一起从甲状腺共同释放。外源性左旋甲状腺素很容易转化为T3，因此T3水平通常也会升高。{{exhibit_2}}\n\n(选项A) RAIU、甲状腺球蛋白和T3升高提示甲状腺代谢活性增加（例如，格雷夫斯病）。\n\n(选项B) 甲状腺球蛋白和T3升高，RAIU受到抑制提示甲状腺滤泡破坏和预先形成的甲状腺激素释放（例如，亚急性甲状腺炎）。\n\n(选项D) 甲状腺切除术后，甲状腺癌患者通常用左旋甲状腺素治疗以达到亚临床甲状腺功能亢进状态；TSH水平受到抑制，避免刺激残留的恶性甲状腺细胞。RAIU和甲状腺球蛋白较低，因为甲状腺缺失，但由于目标甲状腺功能亢进状态较轻/亚临床，T3通常正常或仅略有升高。\n\n(选项E) 甲状腺激素在循环中与血浆蛋白结合，尤其是甲状腺结合球蛋白（TBG）。TBG在雌激素过高状态（例如，妊娠、雌激素类避孕药）中升高；甲状腺激素的产生短暂增加以填充增加的结合位点数量，然后活性（例如，RAIU、血清甲状腺球蛋白）恢复正常。总T3和T4升高，但游离激素水平正常。\n\n教育目标：\n\n在外源性甲状腺毒症中，放射性碘摄取和血清甲状腺球蛋白水平较低，表明内源性甲状腺代谢活性受到抑制。血清T3水平通常升高。"
+  },
+  "summary": {
+    "en": "This question tests the ability to differentiate between causes of thyrotoxicosis based on laboratory findings, specifically focusing on exogenous thyrotoxicosis. It requires knowledge of how radioactive iodine uptake, serum thyroglobulin, and T3 levels change in different etiologies of hyperthyroidism.\n\nThe best approach is to understand the pathophysiology of each condition. In exogenous thyrotoxicosis, the exogenous thyroid hormone suppresses endogenous thyroid hormone production, leading to low radioactive iodine uptake and low serum thyroglobulin. T3 levels are usually elevated due to conversion from the exogenous T4.",
+    "zh": "这个问题测试根据实验室检查结果区分甲状腺毒症病因的能力，特别是侧重于外源性甲状腺毒症。它需要了解放射性碘摄取、血清甲状腺球蛋白和T3水平在不同病因的甲状腺功能亢进症中如何变化。\n\n最好的方法是了解每种病症的病理生理学。在外源性甲状腺毒症中，外源性甲状腺激素抑制内源性甲状腺激素的产生，导致放射性碘摄取低和血清甲状腺球蛋白低。T3水平通常升高，因为由外源性T4转化而来。"
+  },
+  "tags": "Thyrotoxicosis; Hyperthyroidism; Exogenous thyrotoxicosis; Radioactive iodine uptake; Serum thyroglobulin; Triiodothyronine; Endocrinology; Thyroid hormone",
+  "category": "Endo",
+  "question_id": "20148",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\20148",
+  "extracted_at": "2025-11-05T14:05:52.431745",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:40:20.968141",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "An 18-year-old man is evaluated due to 3 months of lower extremity pain. The pain is persistent and present both day and night. He has no fever, chills, or history of leg trauma. Imaging shows an expansile lesion of the distal femur. Surgical resection is performed, and the specimen is shown below. {{exhibit_1}}",
+    "zh": "一名18岁男性因下肢疼痛3个月就诊。疼痛持续存在，且昼夜均有。患者无发热、寒战或腿部外伤史。影像学检查显示股骨远端出现膨胀性病变。进行了手术切除，标本如下所示。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Mutations involving which of the following genes are most likely present in this patient?",
+    "zh": "该患者最有可能存在以下哪些基因的突变？"
+  },
+  "options": {
+    "A": {
+      "en": "BRAF (9%)",
+      "zh": "BRAF (9%)"
+    },
+    "B": {
+      "en": "HER2 (0%)",
+      "zh": "HER2 (0%)"
+    },
+    "C": {
+      "en": "KRAS (9%)",
+      "zh": "KRAS (9%)"
+    },
+    "D": {
+      "en": "RB1 (71%)",
+      "zh": "RB1 (71%)"
+    },
+    "E": {
+      "en": "RET (8%)",
+      "zh": "RET (8%)"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The patient's presentation of a progressively painful, expansile lesion in the distal femur in an 18-year-old male is highly suggestive of OSTEOSARCOMA. Osteosarcoma is the most common primary bone malignancy in children and young adults, typically arising in the metaphysis of long bones. The provided image {{exhibit_1}} shows resected bone tissue, consistent with a bone tumor. The question asks about the most likely gene mutation in this patient. The provided table and explanation indicate that mutations in the RB1 tumor suppressor gene are strongly associated with OSTEOSARCOMA. The RB1 gene encodes for the RB protein, which regulates cell-cycle progression. Inactivating mutations in RB1 promote uncontrolled cellular replication and are associated with OSTEOSARCOMA, RETINOBLASTOMA, melanoma, and soft-tissue sarcomas. The high percentage (71%) associated with RB1 mutations in the options further supports this. \n\n(Choice A) Activating mutations of BRAF are responsible for most cases of hairy cell leukemia and are also found in melanoma. They are not typically associated with osteosarcoma.\n(Choice B) HER2 is an oncogene amplified or overexpressed in many forms of invasive breast cancer. It is not associated with osteosarcoma.\n(Choice C) Activating mutations in KRAS are common in colorectal and non-small cell lung cancer. KRAS encodes for a GTPase that relays cellular growth and proliferation signals from outside the cell. It is not a primary driver of osteosarcoma.\n(Choice E) Germ-line mutations in RET proto-oncogene can cause multiple endocrine neoplasia type 2, pheochromocytoma, medullary thyroid cancer, and parathyroid hyperplasia. They are not associated with osteosarcoma.\n\nKey clinical pearls:\n- OSTEOSARCOMA is the most common primary bone malignancy in adolescents and young adults.\n- Classic location is the metaphysis of long bones (distal femur, proximal tibia, proximal humerus).\n- RB1 tumor suppressor gene mutations are a key genetic event in osteosarcoma development.\n- TP53 mutations are also associated with osteosarcoma, particularly in Li-Fraumeni syndrome.",
+    "zh": "患者的临床表现为18岁男性股骨远端进行性疼痛、膨胀性病变，高度提示骨肉瘤。骨肉瘤是儿童和年轻人中最常见的原发性骨恶性肿瘤，通常发生在长骨的干骺端。提供的图像{{exhibit_1}}显示了切除的骨组织，与骨肿瘤一致。问题询问该患者最有可能的基因突变。提供的表格和解释表明，RB1抑癌基因的突变与骨肉瘤密切相关。RB1基因编码RB蛋白，调节细胞周期进程。RB1的失活突变促进不受控制的细胞复制，并与骨肉瘤、视网膜母细胞瘤、黑色素瘤和软组织肉瘤相关。选项中与RB1突变相关的高百分比（71％）进一步支持了这一点。\n\n（选项A）BRAF的激活突变是大多数毛细胞白血病的原因，也存在于黑色素瘤中。它们通常与骨肉瘤无关。\n（选项B）HER2是在许多浸润性乳腺癌中扩增或过度表达的癌基因。它与骨肉瘤无关。\n（选项C）KRAS的激活突变在结直肠癌和非小细胞肺癌中很常见。KRAS编码一种GTPase，它传递来自细胞外的细胞生长和增殖信号。它不是骨肉瘤的主要驱动因素。\n（选项E）RET原癌基因的种系突变可引起多发性内分泌肿瘤2型、嗜铬细胞瘤、甲状腺髓样癌和甲状旁腺增生。它们与骨肉瘤无关。\n\n关键临床要点：\n- 骨肉瘤是青少年和年轻人中最常见的原发性骨恶性肿瘤。\n- 典型部位是长骨的干骺端（股骨远端，胫骨近端，肱骨近端）。\n- RB1抑癌基因突变是骨肉瘤发生的一个关键基因事件。\n- TP53突变也与骨肉瘤相关，特别是在Li-Fraumeni综合征中。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the genetic basis of osteosarcoma, a common primary bone malignancy in young adults. It requires correlating clinical presentation with specific gene mutations associated with the disease.\n\nTo solve this question, one must first identify the likely diagnosis based on the patient's age, symptoms, and location of the lesion. Then, using the provided information (table and explanation), identify the gene mutation most frequently associated with that diagnosis. The percentages provided in the options serve as additional clues to confirm the correct answer.",
+    "zh": "本题测试对骨肉瘤的遗传学基础的理解，骨肉瘤是年轻人中常见的原发性骨恶性肿瘤。它需要将临床表现与该疾病相关的特定基因突变联系起来。\n\n为了解决这个问题，首先必须根据患者的年龄、症状和病变位置确定可能的诊断。然后，使用提供的信息（表格和解释），确定与该诊断最相关的基因突变。选项中提供的百分比作为额外的线索来确认正确答案。"
+  },
+  "tags": "Osteosarcoma; Bone tumors; Genetics; RB1 gene; Tumor suppressor genes; Oncology; Musculoskeletal system; Gene mutations",
+  "category": "Pathology",
+  "question_id": "15645",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\15645",
+  "extracted_at": "2025-11-05T19:43:44.266023",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:45:31.041700",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

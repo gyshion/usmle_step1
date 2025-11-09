@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man is brought to the emergency department after a motor vehicle collision. He has blunt abdominal trauma and bilateral femur fractures. The patient has no significant medical history and takes no medications. He does not smoke but drinks 8-12 alcoholic beverages a day. Blood pressure is 80/40 mm Hg and pulse is 110/min. Immediate resuscitation efforts are initiated, during which he receives transfusion of several units of packed red blood cells. During transport to the intensive care unit, the patient reports a tingling sensation in his fingers and toes. Serum ionized calcium level is 4 mg/dL (normal: 4.8-5.5).",
+    "zh": "一名34岁男性因机动车碰撞被送往急诊科。他有钝性腹部外伤和双侧股骨骨折。患者无重要的病史，未服用任何药物。他不吸烟，但每天饮用8-12份酒精饮料。血压为80/40 mmHg，脉搏为110次/分。立即开始复苏，期间他接受了多单位浓缩红细胞的输注。在转运到重症监护病房期间，患者报告手指和脚趾有刺痛感。血清离子钙水平为4 mg/dL（正常值：4.8-5.5）。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's current symptoms?",
+    "zh": "以下哪项最可能是该患者目前症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Antibody-mediated red blood cell membrane damage",
+      "zh": "抗体介导的红细胞膜损伤"
+    },
+    "B": {
+      "en": "Calcium chelation by a substance in the transfused blood",
+      "zh": "输血中物质对钙的螯合"
+    },
+    "C": {
+      "en": "Electrolyte leakage from red blood cells during pretransfusion storage",
+      "zh": "输血前储存期间红细胞电解质泄漏"
+    },
+    "D": {
+      "en": "Increased renal tubular excretion of calcium",
+      "zh": "肾小管对钙的排泄增加"
+    },
+    "E": {
+      "en": "Release of intracellular contents from injured muscle",
+      "zh": "损伤肌肉释放细胞内物质"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has symptomatic hypocalcemia (eg, paresthesias) following high-volume blood transfusion. Prior to storage, donated blood is generally mixed with solutions containing citrate anticoagulant. Following transfusion, citrate is rapidly metabolized to bicarbonate in the liver; however, when large volumes of blood are transfused rapidly, the excess citrate can chelate calcium in the plasma, leading to hypocalcemia due to decreased serum ionized calcium concentration. This is most common with very high transfusion rates (eg, >9 units/hr), but it can also be seen at lower rates in patients with underlying hepatic insufficiency (eg, alcohol-associated liver disease).\n\nOther complications of high-volume transfusion include depletion of coagulation factors and volume overload.\n\n(Choices A and C) Antibody-mediated hemolysis is typically caused by transfusion of ABO-incompatible blood. Characteristic clinical findings include fever, back or flank pain, acute kidney injury, and hemoglobinuria. The primary electrolyte complication is hyperkalemia due to release of intracellular potassium. Hyperkalemia can also be seen due to leakage of potassium from red cells during storage. However, hypocalcemia would not occur in these scenarios.\n\n(Choice D) Acute hypocalcemia due to increased renal calcium excretion can be seen in hypoparathyroidism. This is commonly encountered as a complication of thyroid or other neck surgery with inadvertent injury or removal of the parathyroid glands. Abdominal and lower extremity trauma would not affect parathyroid function.\n\n(Choice E) Rhabdomyolysis typically presents with muscle pain, red urine (ie, myoglobinuria), and elevated creatine kinase. Release of intracellular phosphate from muscle cells can precipitate calcium salts in damaged muscle and lead to hypocalcemia, but this is typically a delayed finding (24-72 hours after trauma).\n\nEducational objective:\nCitrate anticoagulants in high-volume blood transfusion can chelate plasma calcium, leading to hypocalcemia which causes peripheral neuromuscular excitability (eg, paresthesia, muscle spasms). This is most common with very rapid transfusion rates, but it can also be seen at lower rates in patients with hepatic insufficiency because citrate is metabolized by the liver.",
+    "zh": "该患者在大剂量输血后出现症状性低钙血症（例如，感觉异常）。在储存之前，捐献的血液通常与含有柠檬酸盐抗凝剂的溶液混合。输血后，柠檬酸盐在肝脏中迅速代谢为碳酸氢盐；然而，当快速输注大量血液时，过量的柠檬酸盐可以螯合血浆中的钙，导致低钙血症，这是由于血清离子钙浓度降低所致。这在输血率非常高的情况下（例如，>9单位/小时）最常见，但在有潜在肝功能不全的患者中（例如，酒精相关性肝病）也可能以较低的速率发生。\n\n大剂量输血的其他并发症包括凝血因子耗竭和容量超负荷。\n\n（选项A和C）抗体介导的溶血通常由输注ABO不相容的血液引起。特征性临床表现包括发热、背部或侧腹痛、急性肾损伤和血红蛋白尿。主要的电解质并发症是高钾血症，这是由于细胞内钾的释放所致。在储存期间，由于钾从红细胞中渗漏，也可能出现高钾血症。但是，在这些情况下不会发生低钙血症。\n\n（选项D）由于肾脏钙排泄增加引起的急性低钙血症可见于甲状旁腺功能减退症。这通常是甲状腺或其他颈部手术的并发症，伴有甲状旁腺的意外损伤或切除。腹部和下肢外伤不会影响甲状旁腺功能。\n\n（选项E）横纹肌溶解症通常表现为肌肉疼痛、红尿（即肌红蛋白尿）和肌酸激酶升高。肌肉细胞释放细胞内磷酸盐会使损伤肌肉中的钙盐沉淀，并导致低钙血症，但这通常是延迟发现（创伤后24-72小时）。\n\n教育目标：\n大剂量输血中的柠檬酸盐抗凝剂可以螯合血浆钙，导致低钙血症，引起周围神经肌肉兴奋性（例如，感觉异常，肌肉痉挛）。这在输血率非常快的情况下最常见，但在肝功能不全的患者中也可能以较低的速率发生，因为柠檬酸盐由肝脏代谢。"
+  },
+  "summary": {
+    "en": "This question tests the etiology of hypocalcemia in the setting of massive blood transfusion. The key concept is citrate-induced calcium chelation, which is a common complication of rapid and large-volume transfusions.\n\nTo solve this question, recognize the patient's risk factors (trauma, alcohol use, massive transfusion) and the symptom of paresthesias. Consider the potential electrolyte abnormalities associated with massive transfusion and prioritize citrate-induced hypocalcemia.",
+    "zh": "这个问题考察的是在大量输血的情况下低钙血症的病因。关键概念是柠檬酸盐诱导的钙螯合，这是快速和大剂量输血的常见并发症。\n\n为了解决这个问题，需要认识到患者的危险因素（创伤、饮酒、大量输血）和感觉异常的症状。考虑与大量输血相关的潜在电解质异常，并优先考虑柠檬酸盐诱导的低钙血症。"
+  },
+  "tags": "Hypocalcemia; Blood transfusion; Citrate toxicity; Electrolyte imbalance; Trauma; Emergency medicine",
+  "category": "Blood",
+  "question_id": "1654",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1654",
+  "extracted_at": "2025-11-05T11:27:09.072452",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:28:46.591071",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

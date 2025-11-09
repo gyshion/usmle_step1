@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 60-year-old woman comes to the clinic due to worsening dyspepsia and unintentional weight loss over the past 3 months. Vital signs are normal. There is no cervical or inguinal lymphadenopathy. Abdominal examination shows mild epigastric tenderness. Complete blood count and serum chemistry results are normal. CT scan of the abdomen reveals gastric mucosal thickening but no evidence of abdominal lymphadenopathy or hepatosplenomegaly. Endoscopy shows nodular gastric folds, and biopsy shows proliferation of small, clonal, mucosa-associated B cells expressing the CD20 antigen. Which of the following microbe-induced mechanisms is the most likely underlying cause of the findings seen in this patient?",
+    "zh": "一位60岁女性因过去3个月来持续恶化的消化不良和非意向性体重下降来诊。生命体征正常。无颈部或腹股沟淋巴结肿大。腹部检查显示轻度剑突下压痛。全血细胞计数和血清化学结果正常。腹部CT扫描显示胃黏膜增厚，但无腹部淋巴结肿大或肝脾肿大的证据。内镜检查显示结节状胃皱襞，活检显示小克隆性、黏膜相关B细胞增殖，表达CD20抗原。以下哪种微生物诱导的机制最可能是该患者所见病变的潜在原因？"
+  },
+  "question": {
+    "en": "Which of the following microbe-induced mechanisms is the most likely underlying cause of the findings seen in this patient?",
+    "zh": "以下哪种微生物诱导的机制最可能是该患者所见病变的潜在原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Chronic immune stimulation",
+      "zh": "慢性免疫刺激"
+    },
+    "B": {
+      "en": "E6 protein–mediated P53 inhibition",
+      "zh": "E6蛋白介导的P53抑制"
+    },
+    "C": {
+      "en": "Evasion of immune response",
+      "zh": "免疫反应逃避"
+    },
+    "D": {
+      "en": "Initiation of somatic hypermutation",
+      "zh": "体细胞高突变的启动"
+    },
+    "E": {
+      "en": "Integration of microbial genome into host genome",
+      "zh": "微生物基因组整合到宿主基因组中"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's gastric nodules composed of small clonal B cells are indicative of an extranodal marginal zone lymphoma involving mucosa-associated lymphoid tissue (MALT lymphoma). This form of non-Hodgkin lymphoma arises from post-germinal center memory B cells, which typically express the markers found on all B cells (eg, CD19, CD20), as well as mature B-cell markers (eg, CD22).\n\nMost MALT lymphomas are thought to arise due to chronic immune stimulation from bacterial, viral, or autoimmune conditions. The most common trigger for gastric MALT lymphoma is Helicobacter pylori infection, which leads to local recruitment and proliferation of antigen-specific T and B lymphocytes. Over time, chronic immune stimulation results in the emergence of a monoclonal B-cell line that proliferates excessively in the presence of H pylori antigens. This cell line eventually accumulates genetic abnormalities that allow it to proliferate in an antigen-independent fashion, resulting in spread away from the local site of infection.\n\nBecause most cases of gastric MALT lymphoma are tightly linked to H pylori infection, antimicrobial treatment can often result in complete remission of early-stage disease due to elimination of the bacterial antigens driving tumor proliferation.\n\n(Choices B and E) Certain human papillomavirus (HPV) serotypes cause epithelial cancers of the head, neck, cervix, and anus. Oncogenesis is mediated via production of the viral protein E6, which degrades host P53 protein, a promoter of cell repair after DNA damage and negative regulator of the cell cycle. HPV also integrates into the host genome, resulting in DNA damage that contributes to oncogenesis.\n\n(Choice C) Epstein-Barr virus (EBV) is a lymphotropic, oncogenic virus associated with certain B- and T-cell lymphomas. In latent EBV infection, episomal EBV DNA generates low levels of viral proteins that allow it to evade the host immune response. The viral proteins also activate proliferation-promoting and antiapoptotic host genes, leading to oncogenesis in a minority of cases.\n\n(Choice D) Within B cells, somatic hypermutation at the variable region of the immunoglobulin gene allows the generation of diverse antibodies. Hypermutation allows for B-cell production of high-affinity immunoglobulins against the immunizing antigen; they are not a cause of oncogenesis in MALT lymphomas (which arise from post-germinal center memory B cells).\n\nEducational objective:\nHellicobacter pylori is associated with gastric MALT lymphoma due to chronic stimulation of the immune response; the continuous cell division predisposes to accumulation of mutations that result in aberrant B-cell proliferation. Treatment of H pylori can induce remission in the majority of cases of early-stage gastric MALT lymphomas.",
+    "zh": "该患者的胃结节由小的克隆性B细胞组成，表明存在累及黏膜相关淋巴组织（MALT淋巴瘤）的结外边缘区淋巴瘤。这种类型的非霍奇金淋巴瘤源自生发中心后记忆B细胞，这些细胞通常表达所有B细胞（例如，CD19，CD20）以及成熟B细胞标记物（例如，CD22）的标记物。\n\n大多数MALT淋巴瘤被认为是由细菌、病毒或自身免疫性疾病引起的慢性免疫刺激引起的。胃MALT淋巴瘤最常见的触发因素是幽门螺杆菌感染，这会导致抗原特异性T细胞和B淋巴细胞的局部募集和增殖。随着时间的推移，慢性免疫刺激导致单克隆B细胞系的出现，该细胞系在幽门螺杆菌抗原存在下过度增殖。该细胞系最终会积累遗传异常，使其能够以不依赖抗原的方式增殖，导致其从局部感染部位扩散。\n\n由于大多数胃MALT淋巴瘤病例与幽门螺杆菌感染密切相关，因此抗菌治疗通常可以导致早期疾病的完全缓解，这归功于驱动肿瘤增殖的细菌抗原的消除。\n\n（选项B和E）某些人乳头瘤病毒（HPV）血清型会导致头颈部、宫颈和肛门的上皮癌。肿瘤发生通过产生病毒蛋白E6介导，E6降解宿主P53蛋白，P53蛋白是DNA损伤后细胞修复的启动子和细胞周期的负调节因子。HPV还整合到宿主基因组中，导致DNA损伤，从而促成肿瘤发生。\n\n（选项C）EB病毒（EBV）是一种嗜淋巴、致癌病毒，与某些B细胞和T细胞淋巴瘤相关。在潜伏性EBV感染中，游离EBV DNA产生低水平的病毒蛋白，使其能够逃避宿主免疫反应。病毒蛋白还激活促进增殖和抗凋亡的宿主基因，导致少数病例发生肿瘤发生。\n\n（选项D）在B细胞内，免疫球蛋白基因可变区的体细胞高突变允许产生多种抗体。高突变允许B细胞产生针对免疫抗原的高亲和力免疫球蛋白；它们不是MALT淋巴瘤肿瘤发生的原因（MALT淋巴瘤源自生发中心后记忆B细胞）。\n\n教育目标：\n幽门螺杆菌与胃MALT淋巴瘤相关，这是由于对免疫反应的慢性刺激；持续的细胞分裂易于积累突变，导致异常的B细胞增殖。幽门螺杆菌的治疗可以诱导大多数早期胃MALT淋巴瘤病例的缓解。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathogenesis of MALT lymphoma, specifically the role of chronic immune stimulation by Helicobacter pylori. It also tests understanding of other viral oncogenesis mechanisms.\n\nTo solve this question, recognize the clinical presentation of MALT lymphoma (nodular gastric folds, clonal B cells) and associate it with H. pylori infection. Eliminate options that describe other oncogenic mechanisms not typically associated with MALT lymphoma.",
+    "zh": "这个问题测试了对MALT淋巴瘤发病机制的了解，特别是幽门螺杆菌引起的慢性免疫刺激的作用。它还测试了对其他病毒致癌机制的理解。\n\n要解决这个问题，需要识别MALT淋巴瘤的临床表现（结节状胃皱襞、克隆性B细胞），并将其与幽门螺杆菌感染联系起来。排除描述其他通常与MALT淋巴瘤无关的致癌机制的选项。"
+  },
+  "tags": "MALT lymphoma; Helicobacter pylori; Chronic immune stimulation; B-cell lymphoma; Gastric cancer; Oncology; Pathology; CD20; Non-Hodgkin lymphoma",
+  "category": "GIT",
+  "question_id": "108087",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\108087",
+  "extracted_at": "2025-11-05T14:22:04.243169",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:50:03.854089",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

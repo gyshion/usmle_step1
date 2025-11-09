@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 2-year-old boy is brought to the emergency department due to 4 days of worsening cough and fevers. This evening, the patient developed increasingly rapid breathing. He has a history of 2 prior episodes of cervical lymphadenitis due to Staphylococcus aureus. Temperature is 39 C (102.2 F). Blood pressure is 100/72 mm Hg, pulse is 130/min, and respirations are 35/min. Prominent intercostal and supraclavicular retractions are present. There are diffuse crackles bilaterally, with decreased breath sounds at the lung bases. Heart sounds are normal. The patient is intubated. Laboratory results are as follows: \n\nComplete blood count\n\nHemoglobin 11.8 g/dL\nPlatelets 280,000/mm3\nLeukocytes 15,000/mm3\nNeutrophils 64%\nBands 11%\nLymphocytes 25%\n\nBronchoalveolar lavage fluid tests positive for Aspergillus fumigatus. Serum immunoglobulin levels are normal. {{exhibit_1}}",
+    "zh": "一名2岁男孩因咳嗽和发热加重4天被送往急诊科。今天晚上，患者出现呼吸加快。他有2次先前因金黄色葡萄球菌引起的颈淋巴结炎病史。体温39°C（102.2°F）。血压100/72 mmHg，脉搏130次/分钟，呼吸35次/分钟。出现明显的肋间和锁骨上凹陷。双侧弥漫性爆裂音，肺底部呼吸音减弱。心脏听诊正常。患者已插管。实验室结果如下：\n\n全血细胞计数\n\n血红蛋白11.8 g/dL\n血小板280,000/mm3\n白细胞15,000/mm3\n中性粒细胞64%\n杆状杆菌11%\n淋巴细胞25%\n\n支气管肺泡灌洗液检测结果为烟曲霉阳性。血清免疫球蛋白水平正常。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying cause of this patient's presentation?",
+    "zh": "以下哪项最可能是该患者表现的根本原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased macrophage degranulation",
+      "zh": "巨噬细胞脱颗粒减少"
+    },
+    "B": {
+      "en": "Disrupted macrophage phagocytosis",
+      "zh": "巨噬细胞吞噬作用受损"
+    },
+    "C": {
+      "en": "Dysfunctional neutrophil trafficking",
+      "zh": "中性粒细胞运输功能障碍"
+    },
+    "D": {
+      "en": "Impaired neutrophilic respiratory burst",
+      "zh": "中性粒细胞呼吸爆发受损"
+    },
+    "E": {
+      "en": "Reduced neutrophilic phagocytosis",
+      "zh": "中性粒细胞吞噬作用降低"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has a severe respiratory infection with Aspergillus fumigatus, an opportunistic, catalase-positive fungus usually seen in immunocompromised patients. He also has a history of recurrent infections caused by Staphylococcus aureus, another catalase-positive organism, as well as normal immunoglobulin levels and an appropriately elevated leukocyte count in response to infection (ie, no leukopenia). These findings are suggestive of chronic granulomatous disease (CGD).\n\nCGD is most commonly due to an X-linked recessive mutation affecting NADPH oxidase. This enzyme is the first step in the respiratory burst pathway, initiating the formation of reactive oxygen species (ROS). In addition to directly damaging phagocytized pathogens, ROS also activate granule proteases that aid in the destruction of organisms within the phagolysosome.\n\nWithout NADPH oxidase, patients with CGD have impaired respiratory burst. Although protease degranulation occurs normally (Choice A), these enzymes are not activated due to the absence of ROS, resulting in defective phagocytic intracellular killing. Catalase-positive bacteria and fungi are most pathogenic in CGD because they can degrade their own metabolically produced hydrogen peroxide (ie, ROS), further limiting microbicidal protease activation. Patients commonly develop S aureus abscesses (eg, lymphadenitis) and severe lung infections, as seen in this patient.\n\n(Choices B and E) Disrupted phagocytosis by macrophages and neutrophils refers to the impaired engulfing of organisms, which can occur when opsonization is absent due to antibody or complement deficiency. In contrast, this patient's serum immunoglobulin levels are normal.\n\n(Choice C) Dysfunctional neutrophil trafficking is seen in leukocyte adhesion deficiency (LAD) and causes impaired leukocyte migration. Patients have recurrent mucosal infections and skin abscesses without pus, often due to S aureus, but recurrent lymphadenitis and Aspergillus infection would not be expected. Moreover, marked leukocytosis (>50,000/mm3) is typical with LAD because leukocytes cannot migrate out of blood vessels.\n\nEducational objective:\nChronic granulomatous disease should be suspected in a child with recurrent infections by catalase-positive organisms (eg, Staphylococcus aureus, Aspergillus) who has normal immunoglobulins and no leukopenia. Pathogenesis involves the defective intracellular killing of phagocytized organisms within neutrophils due to an impaired respiratory burst.",
+    "zh": "该患者患有烟曲霉的严重呼吸道感染，烟曲霉是一种机会性、过氧化氢酶阳性真菌，通常见于免疫功能低下的患者。他还有金黄色葡萄球菌引起的复发性感染史，金黄色葡萄球菌是另一种过氧化氢酶阳性生物，以及正常的免疫球蛋白水平和对感染的适当升高的白细胞计数（即，无白细胞减少症）。这些发现提示慢性肉芽肿病（CGD）。\n\nCGD最常见的原因是影响NADPH氧化酶的X连锁隐性突变。该酶是呼吸爆发途径的第一步，启动活性氧（ROS）的形成。除了直接损伤被吞噬的病原体外，ROS还会激活颗粒蛋白酶，有助于破坏吞噬溶酶体内的生物体。\n\n如果没有NADPH氧化酶，CGD患者的呼吸爆发受损。虽然蛋白酶脱颗粒正常发生（选项A），但由于缺乏ROS，这些酶没有被激活，导致吞噬细胞内杀伤缺陷。过氧化氢酶阳性细菌和真菌在CGD中具有最强的致病性，因为它们可以降解自身代谢产生的过氧化氢（即，ROS），从而进一步限制杀菌蛋白酶的激活。患者通常会发生金黄色葡萄球菌脓肿（例如，淋巴结炎）和严重的肺部感染，如该患者所示。\n\n（选项B和E）巨噬细胞和中性粒细胞的吞噬作用受损是指生物体的吞噬受损，当由于抗体或补体缺陷而没有调理作用时，就会发生这种情况。相比之下，该患者的血清免疫球蛋白水平正常。\n\n（选项C）白细胞粘附缺陷（LAD）中可见中性粒细胞运输功能障碍，导致白细胞迁移受损。患者有复发性粘膜感染和无脓性皮肤脓肿，通常由于金黄色葡萄球菌引起，但不会出现复发性淋巴结炎和曲霉感染。此外，LAD通常表现为明显的白细胞增多（>50,000/mm3），因为白细胞无法迁出血管。\n\n教育目标：\n应在患有金黄色葡萄球菌和曲霉等过氧化氢酶阳性生物复发性感染、免疫球蛋白正常且无白细胞减少症的儿童中怀疑慢性肉芽肿病。发病机制涉及由于呼吸爆发受损而导致吞噬细胞内杀伤受损。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of chronic granulomatous disease (CGD), its pathogenesis involving impaired NADPH oxidase activity, and the resulting susceptibility to catalase-positive organisms like Staphylococcus aureus and Aspergillus fumigatus. It also tests the ability to differentiate CGD from other immunodeficiency disorders based on clinical presentation and laboratory findings. \n\nTo solve this question, recognize the recurrent infections with catalase-positive organisms, normal immunoglobulin levels, and leukocytosis as key features of CGD. Understand that CGD results in impaired respiratory burst due to defective NADPH oxidase, leading to ineffective intracellular killing of pathogens.",
+    "zh": "本题考察慢性肉芽肿病（CGD）的知识，其发病机制涉及NADPH氧化酶活性受损，以及由此导致的对过氧化氢酶阳性生物（如金黄色葡萄球菌和烟曲霉）的易感性。它还测试了根据临床表现和实验室检查结果区分CGD与其他免疫缺陷疾病的能力。\n\n要解决这个问题，需要认识到过氧化氢酶阳性生物的复发性感染、正常的免疫球蛋白水平和白细胞增多是CGD的关键特征。了解CGD会导致由于NADPH氧化酶缺陷而导致的呼吸爆发受损，从而导致病原体细胞内杀伤无效。"
+  },
+  "tags": "Chronic granulomatous disease; Immunodeficiency; NADPH oxidase; Aspergillus fumigatus; Staphylococcus aureus; Respiratory burst; Catalase-positive organisms; Leukocytosis; Immunology; Infectious disease",
+  "category": "Immunology",
+  "question_id": "20297",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\20297",
+  "extracted_at": "2025-11-05T14:42:30.449007",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:01:30.717533",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

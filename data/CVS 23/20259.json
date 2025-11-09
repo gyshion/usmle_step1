@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 66-year-old woman comes to the office due to worsening chest discomfort and shortness of breath for the past 4 weeks. There is no history of recent upper respiratory illness, fever, cough, palpitations, or syncope. Medical history is significant for hypertension and breast adenocarcinoma treated with surgery and chemotherapy 6 years ago. The patient does not use tobacco or alcohol and has not traveled recently. Temperature is 37 C (98.6 F), blood pressure is 110/70 mm Hg, and pulse is 90/min. Physical examination shows changes consistent with prior right mastectomy. The right axillary lymph nodes are enlarged. The lungs are clear to auscultation. Heart sounds are distant with no murmur. There is no extremity edema. Bedside echocardiography shows a large pericardial effusion.",
+    "zh": "一名66岁女性因过去4周胸部不适加重和呼吸困难来就诊。既往无近期上呼吸道疾病、发热、咳嗽、心悸或晕厥病史。病史提示高血压和6年前手术和化疗治疗的乳腺腺癌。患者不吸烟、不饮酒，近期未旅行。体温37°C（98.6°F），血压110/70 mmHg，脉搏90次/分。体格检查显示与既往右侧乳房切除术一致的改变。右侧腋窝淋巴结肿大。肺部听诊清。心音遥远，无杂音。无肢体水肿。床旁超声心动图显示大量心包积液。"
+  },
+  "question": {
+    "en": "Pericardiocentesis in this patient is most likely to reveal which of the following findings?",
+    "zh": "该患者的心包穿刺最有可能揭示以下哪种发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Exudative fluid containing acid-fast bacilli",
+      "zh": "含有抗酸杆菌的渗出液"
+    },
+    "B": {
+      "en": "Hemorrhagic fluid with atypical cells",
+      "zh": "含异型细胞的出血性液体"
+    },
+    "C": {
+      "en": "Purulent fluid with Gram-positive cocci",
+      "zh": "含革兰阳性球菌的脓性液体"
+    },
+    "D": {
+      "en": "Serosanguinous fluid positive for viral PCR",
+      "zh": "病毒PCR阳性的血清血性液体"
+    },
+    "E": {
+      "en": "Turbid fluid containing fungal elements",
+      "zh": "含真菌成分的混浊液体"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient with a history of right breast cancer, right axillary lymph node enlargement (ie, likely metastatic disease), and a large pericardial effusion (eg, distant heart sounds) mostly likely has malignant pericardial effusion.\n\nMalignancy (eg, breast cancer) is a common cause of pericardial effusion and may be the initial manifestation of cancer recurrence. Pericardial involvement occurs by either direct tumor extension or metastatic spread through the blood or lymphatics; this often results in subacute accumulation (eg, over weeks) of pericardial fluid. Subacute (vs rapid) accumulation gives the pericardium time to progressively stretch, keeping intrapericardial pressure stable; during this period, patients often have only nonspecific symptoms (eg, dyspnea, chest discomfort). However, large volumes can eventually exceed the pericardium's stretch capacity, increase intrapericardial pressure, and compromise cardiac function.\n\nWhen the cause of pericardial effusion is not clear, pericardiocentesis can be used to acquire fluid for laboratory analysis to help determine etiology. In malignant effusion, pericardial fluid is often hemorrhagic due to inflammation associated with metastatic invasion that causes bleeding from irritated capillaries. Cytologic analysis often reveals atypical malignant cells.\n\n(Choice A) Some patients with pulmonary tuberculosis (TB) develop tuberculous pericarditis, which can be accompanied by pericardial effusion containing acid-fast bacilli. However, patients with tuberculous pericarditis typically have symptoms of extrapulmonary TB, including fever, night sweats, and weight loss. In addition, most patients are from, or have traveled to, areas where TB is endemic.\n\n(Choices C and E) Bacteria (eg, Staphylococcus aureus [gram-positive cocci]) and fungi can cause purulent pericarditis, which may be accompanied by pericardial effusion containing gross pus (ie, purulent fluid) or microscopic purulence (ie, turbid fluid). However, most patients with purulent pericarditis are acutely ill (eg, fever, tachycardia) and have predisposing risk factors such as recent or ongoing infection, immunosuppression, or thoracic surgery.\n\n(Choice D) Viral infection is a common cause of pericarditis, which can result in pericardial effusion. However, viral pericarditis is often preceded by viral respiratory or gastrointestinal symptoms. In this patient with evidence of metastatic breast cancer (eg, enlarged axillary lymph nodes) and no recent illness, malignant effusion is more likely.\n\nEducational objective: \nMalignancy is a common cause of pericardial effusion, which is often subacute due to slower accumulation of pericardial fluid with compensatory pericardial stretching. Pericardiocentesis can acquire fluid for cytologic analysis (eg, atypical cells) to help confirm the etiology.",
+    "zh": "该患者有右侧乳腺癌病史，右侧腋窝淋巴结肿大（即，可能发生转移），以及大量心包积液（例如，心音遥远），最有可能患有恶性心包积液。\n\n恶性肿瘤（例如，乳腺癌）是心包积液的常见原因，也可能是癌症复发的最初表现。心包受累可通过肿瘤直接扩散或通过血液或淋巴系统转移；这通常会导致心包积液亚急性积聚（例如，数周）。亚急性（而非快速）积聚使心包有时间逐渐扩张，保持心包内压力稳定；在此期间，患者通常只有非特异性症状（例如，呼吸困难、胸部不适）。然而，大量积液最终可能超过心包的扩张能力，增加心包内压力，并损害心脏功能。\n\n当心包积液的病因不明确时，可进行心包穿刺以获取液体进行实验室分析，以帮助确定病因。在恶性积液中，由于与转移侵袭相关的炎症导致毛细血管出血，心包液常呈出血性。细胞学分析常揭示非典型恶性细胞。\n\n（选项A）一些患有肺结核（TB）的患者会发生结核性心包炎，这可能伴有含抗酸杆菌的心包积液。然而，结核性心包炎患者通常有肺外结核病的症状，包括发热、盗汗和体重减轻。此外，大多数患者来自或去过结核病流行的地区。\n\n（选项C和E）细菌（例如，金黄色葡萄球菌[革兰阳性球菌]）和真菌可引起化脓性心包炎，这可能伴有含肉眼脓液（即，脓性液体）或微观脓液（即，混浊液体）的心包积液。然而，大多数化脓性心包炎患者都处于急性疾病状态（例如，发热、心动过速），并有易感风险因素，如近期或正在进行的感染、免疫抑制或胸部手术。\n\n（选项D）病毒感染是心包炎的常见原因，可导致心包积液。然而，病毒性心包炎通常先于病毒性呼吸道或胃肠道症状。对于该患者，有转移性乳腺癌的证据（例如，腋窝淋巴结肿大），并且近期无疾病，恶性积液的可能性更大。\n\n教学目标：\n恶性肿瘤是心包积液的常见原因，由于心包积液的缓慢积聚伴有代偿性心包扩张，因此通常呈亚急性。心包穿刺可以获取液体进行细胞学分析（例如，非典型细胞）以帮助确认病因。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the etiology and characteristics of pericardial effusion, specifically focusing on malignant pericardial effusion. It requires understanding the clinical presentation, risk factors, and expected findings on pericardiocentesis in the context of metastatic breast cancer. \n\nTo solve this question, consider the patient's history of breast cancer and axillary lymph node enlargement, which suggests metastatic disease. Recognize that malignant pericardial effusions are often hemorrhagic and contain atypical malignant cells. Rule out other causes of pericardial effusion based on the absence of specific symptoms or risk factors.",
+    "zh": "此题考查对心包积液的病因和特征的了解，特别是关于恶性心包积液。它要求理解在转移性乳腺癌背景下的临床表现、危险因素以及心包穿刺的预期发现。\n\n为了解决这个问题，请考虑患者的乳腺癌病史和腋窝淋巴结肿大，这表明存在转移性疾病。认识到恶性心包积液通常是出血性的，并含有非典型恶性细胞。根据特定症状或危险因素的缺失，排除心包积液的其他原因。"
+  },
+  "tags": "Pericardial effusion; Malignancy; Breast cancer; Metastasis; Pericardiocentesis; Atypical cells; Hemorrhagic effusion; Cardiology; Oncology",
+  "category": "CVS",
+  "question_id": "20259",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\20259",
+  "extracted_at": "2025-11-05T12:09:14.316182",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:27:40.866273",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

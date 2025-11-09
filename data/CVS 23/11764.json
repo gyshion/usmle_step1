@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 71-year-old man comes to the hospital due to 3 hours of persistent retrosternal chest pain and dyspnea. After prompt evaluation, he is diagnosed with acute myocardial infarction and undergoes cardiac catheterization. During cannulation of the {{exhibit_1}} right common femoral artery, the arterial wall is penetrated superior to the right inguinal ligament. Percutaneous coronary intervention is then performed, after which firm pressure is applied to achieve hemostasis. Soon after the procedure, the patient becomes cold, clammy, and hypotensive. Physical examination shows a 5cm region of ecchymosis surrounding the femoral puncture site. Internal bleeding is suspected. Which of the following is the most likely location of the blood collection?",
+    "zh": "一名71岁男性因持续3小时的胸骨后疼痛和呼吸困难就诊。经过及时评估，他被诊断为急性心肌梗死并接受了心脏导管插入术。在插管{{exhibit_1}}右侧股总动脉期间，动脉壁在右侧腹股沟韧带上方被穿透。随后进行经皮冠状动脉介入治疗，之后施加稳固压力以达到止血。术后不久，患者变得寒冷、湿冷，并出现低血压。体格检查显示股动脉穿刺部位周围有5cm的瘀斑。怀疑有内出血。以下哪项最可能是血液聚集的部位？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely location of the blood collection?",
+    "zh": "以下哪项最可能是血液聚集的部位？"
+  },
+  "options": {
+    "A": {
+      "en": "Pelvic cavity",
+      "zh": "盆腔"
+    },
+    "B": {
+      "en": "Retroperitoneal space",
+      "zh": "腹膜后间隙"
+    },
+    "C": {
+      "en": "Right paracolic gutter",
+      "zh": "右侧结肠旁沟"
+    },
+    "D": {
+      "en": "Subcutaneous tissue",
+      "zh": "皮下组织"
+    },
+    "E": {
+      "en": "Thigh muscles",
+      "zh": "大腿肌肉"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Vascular access during cardiac catheterization is typically obtained through either the common femoral artery or radial artery. The common femoral artery is the continuation of the external iliac artery as it crosses the inguinal ligament. Arterial puncture above the inguinal ligament increases the risk of retroperitoneal hemorrhage, as this portion of the vessel lies directly inferior to the peritoneum. Accidental puncture of the posterior wall can cause blood to track along the loose connective tissue surrounding the vessel and accumulate within the interfascial planes of the retroperitoneum. Bleeding in the retroperitoneal space cannot be controlled with external compression and can lead to life-threatening hemorrhage. Affected patients typically develop hemodynamic instability with significant hypotension, a drop in hemoglobin, and ipsilateral flank pain. (Choice A) Bleeding into the pelvic cavity is frequently due to trauma (eg, pelvic fracture) or gynecologic hemorrhage (eg, ruptured ectopic pregnancy). Injury to the common femoral artery is less likely to cause intraperitoneal bleeding as the external iliac artery courses underneath the peritoneum. (Choice C) The right paracolic gutter is a peritoneal recess found between the ascending colon and abdominal wall. Fluid (bile, pus, or blood) typically accumulates there from pathology involving the gastrointestinal organs, particularly the appendix and gall bladder. (Choice D) Subcutaneous tissue hemorrhage from an arterial source typically presents with a large area of ecchymosis and a palpable hematoma. Development of significant hypotension is less likely with subcutaneous bleeding, as the potential space for blood accumulation is smaller than with peritoneal or retroperitoneal bleeding. (Choice E) Hemorrhage into the thigh muscles would present with significant pain and edema in the thigh and possibly lead to compartment syndrome (severe pain, absent distal pulses).",
+    "zh": "心脏导管插入术期间的血管通路通常通过股总动脉或桡动脉获得。股总动脉是髂外动脉穿过腹股沟韧带后的延续。在腹股沟韧带上方穿刺动脉会增加腹膜后出血的风险，因为该血管部分位于腹膜正下方。意外穿刺后壁会导致血液沿血管周围的疏松结缔组织移行，并在腹膜后间隙的筋膜间平面内积聚。腹膜后间隙出血无法通过外部加压控制，并可能导致危及生命的出血。受影响的患者通常会出现血流动力学不稳定，伴有明显的低血压、血红蛋白下降和同侧腰痛。(选项 A) 盆腔出血通常是由于创伤（例如，骨盆骨折）或妇科出血（例如，异位妊娠破裂）引起的。股总动脉损伤不太可能导致腹腔内出血，因为髂外动脉在腹膜下方走行。(选项 C) 右侧结肠旁沟是位于升结肠和腹壁之间的腹膜隐窝。液体（胆汁、脓液或血液）通常会从涉及胃肠道器官的病理情况（特别是阑尾和胆囊）中积聚在那里。(选项 D) 来自动脉来源的皮下组织出血通常表现为大面积瘀斑和可触及的血肿。皮下出血发生明显低血压的可能性较小，因为血液聚集的潜在空间小于腹膜或腹膜后出血。(选项 E) 大腿肌肉出血将表现为大腿明显疼痛和水肿，并可能导致腔室综合征（严重疼痛，远端搏动消失）。"
+  },
+  "summary": {
+    "en": "A patient undergoing cardiac catheterization develops internal bleeding and hypotension after arterial puncture superior to the inguinal ligament. The most likely location for blood collection is the retroperitoneal space due to the proximity of the vessel to the peritoneum and the potential for extensive accumulation.",
+    "zh": "接受心脏导管插入术的患者在腹股沟韧带上方穿刺动脉后出现内出血和低血压。由于血管靠近腹膜以及可能大量积聚，最可能的血液聚集部位是腹膜后间隙。"
+  },
+  "tags": [
+    "cardiac catheterization",
+    "femoral artery",
+    "retroperitoneal hemorrhage",
+    "complications",
+    "internal bleeding",
+    "hypotension"
+  ],
+  "category": "CVS",
+  "question_id": "11764",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\11764",
+  "extracted_at": "2025-11-05T19:54:10.304120",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:44:18.261077",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

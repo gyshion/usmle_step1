@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 46-year-old hospitalized man experiences worsening dyspnea and hypoxemia. The patient was admitted 2 days ago due to alcohol-induced acute pancreatitis. He has no history of cardiopulmonary disorders. Chest x-ray {{exhibit_1}} reveals new bilateral infiltrates. His respiratory condition progressively deteriorates and endotracheal intubation is performed. Mechanical ventilation with a lung-protective strategy is begun and a positive end-expiratory pressure of 10 cm H2O is applied. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} Which of the following is the most likely effect of this latter intervention?",
+    "zh": "一名46岁的住院男性出现呼吸困难和低氧血症加重。该患者2天前因酒精诱发的急性胰腺炎入院。他没有心肺疾病史。胸部X光片{{exhibit_1}}显示新的双侧浸润。他的呼吸状况逐渐恶化，并进行了气管插管。开始使用肺保护性策略进行机械通气，并施加10 cm H2O的正压呼气末压力。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} 以下哪项最可能是后一种干预措施的效果？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely effect of this latter intervention?",
+    "zh": "以下哪项最可能是后一种干预措施的效果？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased alveolar pressure",
+      "zh": "肺泡压力降低"
+    },
+    "B": {
+      "en": "Decreased intrapleural pressure",
+      "zh": "胸腔内压力降低"
+    },
+    "C": {
+      "en": "Increased functional residual capacity",
+      "zh": "功能残气量增加"
+    },
+    "D": {
+      "en": "Increased intrapulmonary shunting",
+      "zh": "肺内分流增加"
+    },
+    "E": {
+      "en": "Increased minute ventilation",
+      "zh": "每分通气量增加"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This hospitalized patient with worsening hypoxemia and bilateral lung infiltrates mostly likely has ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS), a potential complication of acute pancreatitis. ARDS involves an inflammatory response in the lungs that leads to alveolar capillary leakage and diffuse pulmonary edema; the edema prevents ventilation of affected alveoli and facilitates alveolar collapse, leading to increased intrapulmonary shunting (perfusion without ventilation). In addition, functional residual capacity (FRC) (ie, the volume of air in the lungs at end-tidal expiration) is reduced. {{exhibit_5}}\n\nMechanical ventilation is typically needed for the management of ARDS because it allows for the application of POSITIVE END-EXPIRATORY PRESSURE (PEEP). PEEP helps treat ARDS by opening collapsed alveoli to reduce intrapulmonary shunting (Choice D) and increase FRC back to near-normal levels. The increase in FRC has the following beneficial effects:\n\n•\tThere is a critical lung capacity (ie, closing capacity) at which some of the lung’s small airways collapse during expiration (due to decreased radial traction at lower lung volumes). When FRC drops below this critical capacity, alveoli supplied by the collapsed airways are without ventilation for part of the respiratory cycle, which contributes to intrapulmonary shunting and increases ventilation-perfusion mismatching. Increasing FRC minimizes the time spent below closing capacity and in doing so decreases ventilation-perfusion mismatching.\n\n•\tBecause the FRC air volume remains in the lungs throughout the respiratory cycle, it acts as a store of oxygen that the body can pull from during brief periods of increased need. Therefore, increasing FRC increases the oxygen reserves in the lungs.\n\n(Choice A) PEEP increases, rather than decreases, alveolar pressure, which has the negative effect of increasing the risk of pulmonary barotrauma.\n\n(Choice B) Intrapleural pressure is normally negative throughout the respiratory cycle due to the opposing elasticity of the lungs (tend to collapse) and chest wall (tends to expand). Increased end-expiratory airway pressure during PEEP reduces the collapsing force of the lungs, causing the intrapleural pressure to increase.\n\n(Choice E) Minute ventilation is determined by the product of tidal volume and respiratory rate. PEEP causes breathing to occur at a higher baseline lung volume (ie, higher FRC), but tidal volume and respiratory rate are not directly affected, and minute ventilation is unchanged.\n\nEducational objective: Positive end-expiratory pressure helps treat acute respiratory distress syndrome by opening collapsed alveoli to reduce intrapulmonary shunting and increase functional residual capacity (FRC). The increased FRC decreases ventilation-perfusion mismatching and increases the oxygen reserves in the lungs. {{exhibit_6}}",
+    "zh": "这位住院患者出现低氧血症加重和双侧肺浸润，最有可能患有急性呼吸窘迫综合征（ARDS），这是急性胰腺炎的潜在并发症。ARDS 涉及肺部的炎症反应，导致肺泡毛细血管渗漏和弥漫性肺水肿；水肿阻止受影响肺泡的通气并促进肺泡塌陷，导致肺内分流增加（灌注而无通气）。此外，功能残气量（FRC）（即，呼气末肺内的空气量）减少。{{exhibit_5}}\n\n机械通气通常是ARDS治疗所必需的，因为它允许应用正压呼气末压力（PEEP）。PEEP 通过开放塌陷的肺泡来帮助治疗ARDS，从而减少肺内分流（选项D）并将FRC恢复到接近正常水平。FRC的增加具有以下有益作用：\n\n•\t存在一个临界肺容量（即，闭合容量），在此容量下，一些肺部的小气道在呼气期间会塌陷（由于在较低的肺容量下径向牵引力降低）。当FRC降到低于此临界容量时，由塌陷的气道提供的肺泡在呼吸周期的部分时间内没有通气，这有助于肺内分流并增加通气-灌注失调。增加FRC可以最大限度地减少低于闭合容量的时间，并以此减少通气-灌注失调。\n\n•\t因为FRC的空气量在整个呼吸周期中都保留在肺中，所以它充当氧气储存，身体可以在短暂的需求增加时从中提取氧气。因此，增加FRC会增加肺中的氧气储备。\n\n（选项A）PEEP增加而不是减少肺泡压力，这具有增加肺气压伤风险的负面影响。\n\n（选项B）由于肺（倾向于塌陷）和胸壁（倾向于扩张）的相反弹性，胸腔内压力在整个呼吸周期中通常为负值。在PEEP期间，呼气末气道压力增加会降低肺的塌陷力，导致胸腔内压力增加。\n\n（选项E）每分通气量由潮气量和呼吸频率的乘积决定。PEEP导致呼吸发生在更高的基线肺容量（即，更高的FRC），但潮气量和呼吸频率不受直接影响，每分通气量保持不变。\n\n教育目标：正压呼气末压力通过开放塌陷的肺泡来帮助治疗急性呼吸窘迫综合征，从而减少肺内分流并增加功能残气量（FRC）。FRC增加减少了通气-灌注失调，并增加了肺中的氧气储备。{{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of acute respiratory distress syndrome (ARDS) and the effects of positive end-expiratory pressure (PEEP) in mechanically ventilated patients. Specifically, it assesses the understanding of how PEEP increases functional residual capacity (FRC) and improves oxygenation in ARDS. \n\nThe key to solving this question is recognizing the patient's presentation as ARDS secondary to acute pancreatitis. Understanding that PEEP is used to increase FRC, open collapsed alveoli, and improve ventilation-perfusion matching will lead to the correct answer. Eliminating options based on the known effects of PEEP on alveolar pressure, intrapleural pressure, and minute ventilation is also crucial.",
+    "zh": "此问题测试对急性呼吸窘迫综合征（ARDS）的病理生理学以及正压呼气末压力（PEEP）在机械通气患者中的作用的了解。具体来说，它评估了对PEEP如何增加功能残气量（FRC）并改善ARDS氧合作用的理解。\n\n解决此问题的关键是认识到患者的临床表现继发于急性胰腺炎的ARDS。了解PEEP用于增加FRC、开放塌陷的肺泡并改善通气-灌注匹配将得出正确答案。根据PEEP对肺泡压力、胸腔内压力和每分通气量的已知影响来排除选项也很重要。"
+  },
+  "tags": "Acute respiratory distress syndrome; ARDS; Positive end-expiratory pressure; PEEP; Functional residual capacity; FRC; Mechanical ventilation; Acute pancreatitis; Pulmonary edema; Hypoxemia; Respiratory failure",
+  "category": "Chest",
+  "question_id": "19919",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\19919",
+  "extracted_at": "2025-11-05T11:43:48.417894",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:38:30.478968",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 28-year-old man is undergoing a laparoscopic appendectomy for acute appendicitis. Shortly after induction of anesthesia, the surgeon reports difficulty maintaining abdominal insufflation due to severe muscle rigidity. Pulse is 130/min and the ECG tracing shows sinus tachycardia. Physical examination reveals diffuse muscle stiffness. Inhibition of which of the following is most likely to improve this patient's condition?",
+    "zh": "一名28岁男性因急性阑尾炎接受腹腔镜阑尾切除术。麻醉诱导后不久，外科医生报告由于严重的肌肉僵硬而难以维持腹腔充气。脉搏130次/分钟，心电图显示窦性心动过速。体格检查显示弥漫性肌肉僵硬。抑制以下哪一项最有可能改善该患者的病情？"
+  },
+  "question": {
+    "en": "Inhibition of which of the following is most likely to improve this patient's condition?",
+    "zh": "抑制以下哪一项最有可能改善该患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Acetylcholine degradation in cholinergic synapses",
+      "zh": "胆碱能突触中乙酰胆碱的降解"
+    },
+    "B": {
+      "en": "Alpha-receptor-mediated sympathetic activity",
+      "zh": "α-受体介导的交感神经活性"
+    },
+    "C": {
+      "en": "GABA-mediated neuron hyperpolarization",
+      "zh": "GABA介导的神经元超极化"
+    },
+    "D": {
+      "en": "Ligand-receptor interaction in cholinergic synapses",
+      "zh": "胆碱能突触中配体-受体相互作用"
+    },
+    "E": {
+      "en": "Sarcoplasmic calcium release in skeletal muscles",
+      "zh": "骨骼肌中肌浆钙释放"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The patient's presentation of severe muscle rigidity, sinus tachycardia, and difficulty maintaining abdominal insufflation shortly after induction of anesthesia is highly suggestive of MALIGNANT HYPERTHERMIA (MH). MH is a hypermetabolic disorder of skeletal muscle that is triggered by exposure to volatile anesthetics and/or succinylcholine in genetically susceptible individuals. The underlying pathophysiology involves a mutation in the ryanodine receptor (RYR1) in the sarcoplasmic reticulum of skeletal muscle. This mutation leads to UNREGULATED RELEASE OF CALCIUM from the sarcoplasmic reticulum into the cytoplasm, resulting in sustained muscle contraction, rigidity, and a hypermetabolic state. This excessive muscle activity leads to increased CO2 production, hypercarbia, acidosis, and heat generation, causing hyperthermia (a later manifestation). The immediate treatment for MH is cessation of the triggering anesthetic agent and administration of DANTROLENE. Dantrolene works by directly inhibiting the RYR1 receptor, thereby REDUCING SARCOPLASMIC CALCIUM RELEASE and alleviating the muscle rigidity and hypermetabolic crisis.\n\n(Choice A) Neostigmine is an acetylcholinesterase inhibitor that increases acetylcholine levels at the neuromuscular junction. This would potentiate muscle contraction and worsen the rigidity seen in MH, not improve it.\n\n(Choice B) Alpha-adrenergic antagonists affect sympathetic activity and blood pressure regulation. While sympathetic activation can occur in MH, the primary problem is skeletal muscle dysfunction, and alpha-blockers do not directly address the underlying calcium release mechanism.\n\n(Choices C and D) GABA agonists (like baclofen) and agents affecting cholinergic synapses (other than succinylcholine, which is a trigger) do not directly address the uncontrolled sarcoplasmic calcium release that is the hallmark of MH. Baclofen acts on GABA receptors to cause CNS depression and muscle relaxation, but it does not inhibit the RYR1 channel. Ligand-receptor interactions in cholinergic synapses are relevant to neuromuscular blockade, but the primary issue in MH is intracellular calcium handling, not neurotransmitter signaling at the neuromuscular junction itself.\n\n(Choice E) Inhibition of sarcoplasmic calcium release directly targets the core pathophysiology of malignant hyperthermia. Dantrolene, the mainstay of MH treatment, achieves this by acting on the ryanodine receptor. Therefore, inhibiting sarcoplasmic calcium release is the most effective way to improve this patient's condition.\n\nKey Pearls:\n- MALIGNANT HYPERTHERMIA is triggered by volatile anesthetics and succinylcholine.\n- Pathophysiology: Genetic mutation in RYR1 leading to UNREGULATED SARCOPLASMIC CALCIUM RELEASE.\n- Clinical Triad: RIGIDITY, TACHYCARDIA, HYPERTHERMIA (late).\n- Treatment: DANTROLENE, which inhibits RYR1 and reduces calcium release.",
+    "zh": "患者在麻醉诱导后不久出现严重的肌肉僵硬、窦性心动过速和难以维持腹腔充气，高度提示恶性高热 (MH)。MH 是一种骨骼肌的代谢亢进性疾病，由易感个体的挥发性麻醉剂和/或琥珀酰胆碱触发。其潜在的病理生理学涉及骨骼肌肌浆网中的兰诺定受体 (RYR1) 突变。这种突变导致肌浆网中的钙不受控制地释放到细胞质中，从而导致持续的肌肉收缩、僵硬和代谢亢进状态。这种过度的肌肉活动会导致CO2产生增加、高碳酸血症、酸中毒和热量产生，导致高热（后期表现）。MH的即时治疗是停止触发性麻醉剂并给予丹曲林。丹曲林通过直接抑制RYR1受体发挥作用，从而减少肌浆钙释放，缓解肌肉僵硬和代谢亢进危象。\n\n（选项A）新斯的明是一种乙酰胆碱酯酶抑制剂，可增加神经肌肉接头的乙酰胆碱水平。这将增强肌肉收缩并加重MH中的僵硬，而不是改善它。\n\n（选项B）α-肾上腺素能拮抗剂影响交感神经活性和血压调节。虽然MH中可能发生交感神经激活，但主要问题是骨骼肌功能障碍，并且α-受体阻滞剂不能直接解决潜在的钙释放机制。\n\n（选项C和D）GABA激动剂（如巴氯芬）和影响胆碱能突触的药物（琥珀酰胆碱除外，琥珀酰胆碱是一种触发因素）不能直接解决MH的标志——不受控制的肌浆钙释放。巴氯芬作用于GABA受体以引起中枢神经系统抑制和肌肉松弛，但它不抑制RYR1通道。胆碱能突触中配体-受体相互作用与神经肌肉阻滞相关，但MH的主要问题是细胞内钙处理，而不是神经肌肉接头本身的神经递质信号传导。\n\n（选项E）抑制肌浆钙释放直接针对恶性高热的核心病理生理学。MH治疗的主要药物丹曲林通过作用于兰诺定受体来实现这一点。因此，抑制肌浆钙释放是改善该患者病情的有效方法。\n\n关键要点：\n- 恶性高热由挥发性麻醉剂和琥珀酰胆碱触发。\n- 病理生理学：RYR1基因突变导致不受控制的肌浆钙释放。\n- 临床三联征：僵硬、心动过速、高热（晚期）。\n- 治疗：丹曲林，抑制RYR1并减少钙释放。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of malignant hyperthermia, a critical condition that can arise during anesthesia. It assesses the knowledge of its pathophysiology, triggers, clinical manifestations, and appropriate management, specifically focusing on the mechanism of action of the primary treatment.\n\nTo solve this question, one must first recognize the clinical signs suggestive of malignant hyperthermia. Then, recall the underlying pathophysiology involving abnormal ryanodine receptor function and excessive sarcoplasmic calcium release. Finally, identify the therapeutic agent that directly counteracts this mechanism, which is dantrolene, by inhibiting calcium release.",
+    "zh": "这个问题考察对恶性高热的理解，恶性高热是在麻醉期间可能出现的危急情况。它评估了对病理生理学、诱因、临床表现和适当处理的知识，特别侧重于主要治疗的机制。\n\n要解决这个问题，首先必须认识到提示恶性高热的临床体征。然后，回忆起涉及异常兰诺定受体功能和过度肌浆钙释放的潜在病理生理学。最后，确定直接对抗这种机制的治疗药物，即丹曲林，通过抑制钙释放。"
+  },
+  "tags": "Malignant hyperthermia; Anesthesia; Skeletal muscle; Ryanodine receptor; Calcium release; Dantrolene; Muscle rigidity; Hyperthermia; Pharmacology; Emergency medicine",
+  "category": "Neuro",
+  "question_id": "855",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\855",
+  "extracted_at": "2025-11-05T19:30:03.502144",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:29:05.310765",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

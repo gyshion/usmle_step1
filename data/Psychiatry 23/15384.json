@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old woman with a history of metastatic breast cancer comes to the office due to depressed mood. Over the past month, the patient has become increasingly sad and frequently cries when thinking about her poor prognosis and dying. She has lost 4.5 kg (10 lb) over the past month. Her energy level is low, and she has difficulty falling asleep and frequent nighttime awakenings. The patient has become very withdrawn, doesn't answer the phone, and no longer looks forward to family visits. She feels bad about not wanting to be around her grandchildren. On mental status examination, the patient is alert and oriented with depressed mood and affect. She has no suicidal ideation.",
+    "zh": "一名有转移性乳腺癌病史的63岁女性因情绪低落前来就诊。在过去的一个月里，患者变得越来越悲伤，并且在思考她不良的预后和死亡时经常哭泣。在过去的一个月里，她体重减轻了4.5公斤（10磅）。她的精力水平很低，并且难以入睡，夜间经常醒来。患者变得非常孤僻，不接电话，也不再期待家人来访。她对不想和孙辈们在一起感到难过。在精神状态检查中，患者意识清醒，定向力良好，情绪和情感低落。她没有自杀念头。"
+  },
+  "question": {
+    "en": "Which of the following symptoms is most indicative of major depressive disorder in this patient?",
+    "zh": "以下哪种症状最能表明该患者患有重度抑郁症？"
+  },
+  "options": {
+    "A": {
+      "en": "Loss of interest in family",
+      "zh": "对家庭失去兴趣"
+    },
+    "B": {
+      "en": "Low energy",
+      "zh": "低能量"
+    },
+    "C": {
+      "en": "Sleep disturbance",
+      "zh": "睡眠障碍"
+    },
+    "D": {
+      "en": "Thoughts of dying",
+      "zh": "死亡的想法"
+    },
+    "E": {
+      "en": "Weight loss",
+      "zh": "体重减轻"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Diagnosis of major depressive disorder in patients with cancer is challenging as somatic symptoms of depression overlap with those of cancer and/or the adverse effects of cancer treatments. This patient's weight loss, low energy, and sleep disturbance may also be due to metastatic cancer and/or chemotherapy. Therefore, these somatic symptoms are less reliable indicators of major depression (Choices B, C, and E).\n\nNonsomatic depressive symptoms (eg, feelings of worthlessness, excessive guilt, and suicidal ideation) are more reliable for diagnosing depression in patients with advanced medical illness. This patient's withdrawal and inability to enjoy family visits (ie, loss of interest and anhedonia) are therefore the most concerning symptoms for major depression.\n\n(Choice D) Thinking about death and dying is normal in patients with advanced cancer and a poor prognosis. If the patient's thoughts of death included suicidal ideation, intent, or plan, this would be indicative of major depression.\n\nEducational objective: Somatic symptoms of depression (weight loss, low energy, sleep disturbance) are less reliable indicators of major depressive disorder in patients with advanced medical illness. Focusing on nonsomatic symptoms, such as loss of interest, anhedonia, worthlessness, excessive guilt, and suicidality, can assist in diagnosing comorbid depression in these patients.",
+    "zh": "在癌症患者中诊断重度抑郁症具有挑战性，因为抑郁症的躯体症状与癌症和/或癌症治疗的不良反应重叠。该患者的体重减轻、低能量和睡眠障碍也可能由于转移性癌症和/或化疗引起。因此，这些躯体症状是重度抑郁症不太可靠的指标（选项B、C和E）。\n\n对于患有晚期医学疾病的患者，非躯体性抑郁症状（例如，无价值感、过度的内疚感和自杀意念）是诊断抑郁症更可靠的指标。因此，该患者的退缩和无法享受家庭探访（即，对兴趣的丧失和快感缺失）是重度抑郁症最令人担忧的症状。\n\n（选项D）在晚期癌症且预后不良的患者中，思考死亡是正常的。如果患者的死亡想法包括自杀意念、意图或计划，则这可能表明患有重度抑郁症。\n\n教育目标：抑郁症的躯体症状（体重减轻、低能量、睡眠障碍）是晚期医学疾病患者中重度抑郁症不太可靠的指标。关注非躯体症状，如对兴趣的丧失、快感缺失、无价值感、过度的内疚感和自杀倾向，可以帮助诊断这些患者的合并抑郁症。"
+  },
+  "summary": {
+    "en": "This question tests the ability to differentiate between somatic symptoms of depression that can overlap with cancer and its treatment, and nonsomatic symptoms that are more reliable indicators of major depressive disorder in patients with advanced cancer.\n\nThe approach to solving this question involves recognizing that somatic symptoms like weight loss, fatigue, and sleep disturbances can be attributed to the underlying malignancy or its treatment. Therefore, the focus should be on identifying nonsomatic symptoms such as loss of interest, anhedonia, worthlessness, and guilt, which are more specific to major depressive disorder in this context.",
+    "zh": "此问题测试区分抑郁症的躯体症状（可能与癌症及其治疗重叠）和非躯体症状（是晚期癌症患者中重度抑郁症更可靠的指标）的能力。\n\n解决此问题的方法包括认识到体重减轻、疲劳和睡眠障碍等躯体症状可能归因于潜在的恶性肿瘤或其治疗。因此，重点应放在识别非躯体症状上，如对兴趣的丧失、快感缺失、无价值感和内疚感，这些在这种情况更特异于重度抑郁症。"
+  },
+  "tags": "Major depressive disorder; Oncology; Depression in cancer patients; Somatic symptoms; Nonsomatic symptoms; Anhedonia; Differential diagnosis; Mental status examination",
+  "category": "Psychiatry",
+  "question_id": "15384",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\15384",
+  "extracted_at": "2025-11-05T19:49:28.350420",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:53:16.663397",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old, previously healthy woman comes to the hospital due to a 3-day history of fever, dyspnea, and cough productive of yellow sputum. Temperature is 38.8 C (101.8 F), blood pressure is 110/66 mm Hg, and pulse is 110/min. The patient has bronchial breath sounds and crackles over the right lower lung. Laboratory results are as follows: {{exhibit_1}} The leukocyte alkaline phosphatase test score is elevated. ",
+    "zh": "一名 24 岁、既往健康的女性因 3 天的发热、呼吸困难和咳黄色痰的病史来到医院。体温 38.8°C (101.8°F)，血压 110/66 mm Hg，脉搏 110/min。患者右下肺有支气管呼吸音和啰音。实验室检查结果如下：{{exhibit_1}} 白细胞碱性磷酸酶检测结果升高。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely finding on this patient's peripheral blood smear?",
+    "zh": "以下哪项是该患者外周血涂片中最可能的发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Basophilic oval inclusions in mature neutrophils",
+      "zh": "成熟中性粒细胞中的嗜碱性卵圆形包涵体"
+    },
+    "B": {
+      "en": "Basophilic stippling of red blood cells",
+      "zh": "红细胞的嗜碱性点彩"
+    },
+    "C": {
+      "en": "Mature neutrophils with hypersegmented nuclei",
+      "zh": "具有过度分叶核的成熟中性粒细胞"
+    },
+    "D": {
+      "en": "Numerous blasts with azurophilic rods",
+      "zh": "大量原始细胞，含有嗜天青颗粒杆"
+    },
+    "E": {
+      "en": "Small lymphoid cells with cleaved nuclei",
+      "zh": "具有裂隙核的小淋巴细胞"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient most likely has pneumonia with sepsis and an associated leukemoid reaction, a significant leukocytosis (may exceed 50,000/mm3) that occurs in response to an underlying inflammatory condition (eg, severe infection, hemorrhage, solid tumors). Release of colony-stimulating factors and inflammatory mediators into the circulation causes the bone marrow to increase the production of leukocytes, resulting in leukocytosis. {{exhibit_2}}\n\nBlood smear typically shows numerous mature neutrophils, which may have reactive morphologic features, such as Döhle bodies (blue cytoplasmic inclusions of rough endoplasmic reticulum), toxic granulation, and cytoplasmic vacuoles. Increased neutrophil precursors (eg, bands, metamyelocytes, myelocytes) are also typically present (referred to as \"left shift\") due to early release from the marrow in response to the increased demand of the inflammatory condition.\n\nAssessment of leukocyte alkaline phosphatase (an enzyme found in maturing neutrophils) can be used to distinguish marked leukocytosis due to leukemoid reaction from chronic myeloid leukemia (CML). Values are typically normal or increased in leukemoid reaction; in contrast, they are usually low in CML because the abnormal maturing neutrophils have decreased levels of this enzyme.\n\n(Choice B) Basophilic stippling refers to small, blue granules (ribosomal precipitates) in the cytoplasm of red blood cells. It is most often seen in thalassemia, alcohol use disorder, and lead/heavy metal poisoning. This patient's acute presentation and laboratory results are more consistent with leukemoid reaction.\n\n(Choice C) Hypersegmented neutrophils show ≥6 nuclear lobes and are a feature of megaloblastic anemia, often due to vitamin B12 or folate deficiency. This patient's normal hemoglobin makes this unlikely.\n\n(Choice D) The presence of numerous blasts with cytoplasmic Auer rods (fused azurophilic granules) in the blood smear would be concerning for acute myeloid leukemia. This patient's laboratory results show mainly mature neutrophils with increased neutrophil precursors (eg, bands, metamyelocytes, myelocytes) but not blasts.\n\n(Choice E) Small lymphoid cells with cleaved nuclei are seen in certain types of lymphoma, particularly follicular lymphoma, a mature B-cell neoplasm. This patient's clinical symptoms and neutrophilia with left shift are more consistent with leukemoid reaction.\n\nEducational objective:\nLeukemoid reaction is a significant leukocytosis (may exceed 50,000/mm3) that occurs in response to an underlying condition, commonly severe infection. Blood smear often shows neutrophilia with reactive features (eg, Döhle bodies), as well as increased neutrophil precursors (eg, bands, metamyelocytes, myelocytes). The leukocyte alkaline phosphatase score is normal or increased. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "该患者最有可能患有肺炎伴有脓毒症和相关的类白血病反应，这是一种显着的白细胞增多症（可能超过 50,000/mm3），发生在对潜在炎症性疾病（例如，严重感染、出血、实体瘤）的反应中。 促集落因子和炎症介质释放到循环中会导致骨髓增加白细胞的产生，从而导致白细胞增多症。 {{exhibit_2}}\n\n血涂片通常显示大量成熟的中性粒细胞，这些中性粒细胞可能具有反应性形态特征，例如 Döhle 小体（粗面内质网的蓝色细胞质包涵体）、中毒性颗粒和细胞质空泡。 中性粒细胞前体增加（例如，杆状核粒细胞、晚幼粒细胞、幼粒细胞）也通常存在（称为“核左移”），这是由于对炎症性疾病的需求增加，骨髓提前释放所致。\n\n白细胞碱性磷酸酶（一种存在于成熟中性粒细胞中的酶）的评估可用于区分因类白血病反应引起的显着白细胞增多症与慢性髓细胞白血病 (CML)。 在类白血病反应中，值通常正常或升高； 相反，在 CML 中，它们通常较低，因为异常成熟的中性粒细胞的这种酶水平降低。\n\n(选项 B) 嗜碱性点彩是指红细胞细胞质中小的蓝色颗粒（核糖体沉淀）。 它最常出现于地中海贫血、酒精使用障碍和铅/重金属中毒。 该患者的急性表现和实验室结果更符合类白血病反应。\n\n(选项 C) 过度分叶的中性粒细胞显示 ≥6 个核叶，是巨幼细胞性贫血的特征，通常是由于维生素 B12 或叶酸缺乏所致。 该患者的血红蛋白正常，因此不太可能。\n\n(选项 D) 血涂片中存在大量原始细胞，细胞质中可见 Auer 小体（融合的嗜天青颗粒）将令人担忧急性髓细胞白血病。 该患者的实验室结果显示主要为成熟中性粒细胞，伴有中性粒细胞前体增加（例如，杆状核粒细胞、晚幼粒细胞、幼粒细胞），但没有原始细胞。\n\n(选项 E) 在某些类型的淋巴瘤中可见具有裂隙核的小淋巴细胞，尤其是滤泡性淋巴瘤，一种成熟的 B 细胞肿瘤。 该患者的临床症状和伴有核左移的中性粒细胞增多症更符合类白血病反应。\n\n教育目标：\n类白血病反应是一种显着的白细胞增多症（可能超过 50,000/mm3），发生在对潜在疾病的反应中，通常是严重感染。 血涂片通常显示中性粒细胞增多症，具有反应性特征（例如，Döhle 小体），以及中性粒细胞前体增加（例如，杆状核粒细胞、晚幼粒细胞、幼粒细胞）。 白细胞碱性磷酸酶评分正常或升高。 {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of leukemoid reaction, its causes, and characteristic findings on peripheral blood smear. It also tests the ability to differentiate leukemoid reaction from other conditions with similar presentations, such as leukemia. \n\nTo solve this question, recognize the clinical scenario suggestive of infection and the elevated leukocyte count. Understand that leukemoid reaction is a response to infection and is characterized by neutrophilia with a left shift and reactive changes in neutrophils, such as Döhle bodies.",
+    "zh": "此题考察对类白血病反应的了解，包括其病因和外周血涂片的特征性发现。 同时也考察了区分类白血病反应与其他表现相似的疾病（如白血病）的能力。\n\n要解决这个问题，需要识别提示感染的临床情况和升高的白细胞计数。 了解类白血病反应是对感染的反应，其特征是中性粒细胞增多伴核左移，以及中性粒细胞的反应性改变，如 Döhle 小体。"
+  },
+  "tags": "Leukemoid reaction; Leukocytosis; Neutrophilia; Döhle bodies; Peripheral blood smear; Infection; Sepsis; Complete blood count; Leukocyte alkaline phosphatase",
+  "category": "Blood",
+  "question_id": "11456",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\11456",
+  "extracted_at": "2025-11-05T11:19:18.750910",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:25:46.403681",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

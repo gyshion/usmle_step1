@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A previously healthy 27-year-old man comes to the clinic due to fever and rash. The patient is a missionary who recently emigrated from South Africa with his wife and 3 young children. Four days ago, he developed a high fever and malaise followed by the appearance of multiple discrete macules on his face, trunk, and extremities. The lesions are pruritic and evolved into pustules then vesicles. The patient has continued to develop new vesicles as other lesions crust over and heal. The remainder of the examination is unremarkable.",
+    "zh": "一位先前健康的27岁男性因发烧和皮疹前来就诊。该患者是一名传教士，最近和他的妻子以及3个年幼的孩子从南非移民而来。四天前，他出现了高烧和不适，随后面部、躯干和四肢出现了多个离散的斑疹。这些皮损有瘙痒感，并演变为脓疱，然后是水疱。患者持续出现新的水疱，而其他皮损则结痂愈合。其余检查无特殊发现。"
+  },
+  "question": {
+    "en": "This patient's symptoms are most likely due to an infection with which of the following pathogens?",
+    "zh": "该患者的症状最可能由下列哪种病原体感染引起？"
+  },
+  "options": {
+    "A": {
+      "en": "Coxsackievirus",
+      "zh": "柯萨奇病毒"
+    },
+    "B": {
+      "en": "Herpes simplex virus",
+      "zh": "单纯疱疹病毒"
+    },
+    "C": {
+      "en": "Human herpesvirus 6",
+      "zh": "人疱疹病毒6型"
+    },
+    "D": {
+      "en": "Parvovirus",
+      "zh": "细小病毒"
+    },
+    "E": {
+      "en": "Varicella-zoster virus",
+      "zh": "水痘-带状疱疹病毒"
+    },
+    "F": {
+      "en": "Variola virus",
+      "zh": "天花病毒"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient has classic symptoms of primary varicella-zoster virus (VZV) infection, a vaccine-preventable illness that causes varicella, or chickenpox. Primary infection usually occurs in children but can develop at any age, with severe illness occurring more often in adolescents and adults.\n\nTransmission of VZV occurs via aerosolized droplets or direct contact, and a prodrome of fever, headache, and malaise typically develops after a 2-week incubation period. Within a day, a pruritic, maculopapular rash develops and evolves into pustules then vesicles. A characteristic finding in varicella is the development of successive crops of lesions on the face, trunk, and extremities, as seen in this patient with lesions in different stages of development (eg, crusted lesions, new vesicles). Lesions crust over and resolve within 1-2 weeks. Once the primary infection has resolved, patients are at risk for reactivated infection (ie, herpes zoster).\n\n(Choice A) Hand-foot-and-mouth disease, caused by coxsackievirus, presents with oral ulcers and a nonpruritic rash of variable morphology (eg, macular, vesicular) on the hands and feet. This patient's pruritus and lack of oral involvement make this diagnosis less likely.\n\n(Choice B) Herpes simplex virus (HSV) in adults typically causes severe pharyngitis (primary infection) or a localized cluster of perioral vesicles (reactivated infection). Although HSV can cause a disseminated vesicular rash, this typically occurs in immunocompromised patients (eg, HIV). In addition, the rash is painful with vesicles in the same stage of development.\n\n(Choice C) Human herpesvirus 6, which causes roseola infantum, most commonly presents with fever followed by a diffuse, maculopapular rash in young children. Vesicles would not be seen, and infection in immunocompetent adults is rare.\n\n(Choice D) Parvovirus causes erythema infectiosum. Prodromal symptoms (eg, fever, headache) are followed by the development of malar erythema (slapped-cheek rash) and a reticular truncal rash. This patient's vesiculopustular rash makes parvovirus unlikely.\n\n(Choice F) Variola virus causes smallpox, which is characterized by a vesiculopustular rash with lesions at the same stage of development, unlike in this patient. Moreover, smallpox has been eradicated due to vaccination.\n\nEducational objective:\nPrimary varicella zoster virus infection presents with a prodromal illness (eg, fever, malaise) followed by pruritic, vesicular lesions that appear in successive crops in different stages. {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "该患者有原发性水痘-带状疱疹病毒 (VZV) 感染的典型症状，这是一种可预防的疾病，可引起水痘。原发性感染通常发生在儿童身上，但可在任何年龄发生，严重疾病更常发生在青少年和成人身上。\n\nVZV通过气溶胶飞沫或直接接触传播，在2周潜伏期后，通常会出现发烧、头痛和不适的前驱症状。在一天之内，出现瘙痒性、斑丘疹，并演变为脓疱，然后是水疱。水痘的特征性发现是在面部、躯干和四肢出现连续成簇的皮损，如该患者，皮损处于不同的发展阶段（例如，结痂的皮损、新的水疱）。皮损结痂并在1-2周内消退。一旦原发性感染消退，患者就有发生再激活感染（即带状疱疹）的风险。\n\n(选项A) 柯萨奇病毒引起的'手足口病'表现为口腔溃疡和手足上形态多样的非瘙痒性皮疹（例如，斑疹、水疱）。该患者的瘙痒和口腔无受累使得此诊断的可能性较小。\n\n(选项B) 成人单纯疱疹病毒(HSV) 通常引起严重的咽炎（原发性感染）或口周局部簇集的水疱（再激活感染）。虽然HSV可引起播散性水疱疹，但这通常发生在免疫功能低下的患者（例如，HIV）中。此外，皮疹是疼痛性的，水疱处于同一发展阶段。\n\n(选项C) 人疱疹病毒6型，引起幼儿急疹，最常见表现为发热，随后在幼儿中出现弥漫性、斑丘疹。不会出现水疱，并且在免疫功能正常的成年人中感染罕见。\n\n(选项D) 细小病毒引起传染性红斑。前驱症状（例如，发烧、头痛）之后会出现颧部红斑（拍打样面颊皮疹）和网状躯干皮疹。该患者的丘疹性水疱性皮疹使得细小病毒的可能性较小。\n\n(选项F) 天花病毒引起天花，其特征是水疱性脓疱疹，皮损处于同一发展阶段，与该患者不同。此外，由于疫苗接种，天花已被根除。\n\n教育目标：\n原发性水痘-带状疱疹病毒感染表现为前驱症状（例如，发烧、不适），随后出现瘙痒性水疱性皮损，这些皮损分批出现，处于不同的阶段。{{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the clinical presentation of varicella-zoster virus (VZV) infection, also known as chickenpox, and its characteristic features such as the development of successive crops of lesions in different stages. It also requires differentiating VZV from other viral exanthems.\n\nTo solve this question, focus on the patient's age, recent travel history, and the description of the rash (pruritic, macules evolving into pustules and vesicles, lesions in different stages). This pattern is highly suggestive of primary varicella infection.",
+    "zh": "这道题考察对水痘-带状疱疹病毒 (VZV) 感染（也称为水痘）临床表现的了解，以及其特征，例如在不同阶段出现的连续成簇的皮损。它还需要将VZV与其他病毒性皮疹区分开来。\n\n要解决这个问题，请关注患者的年龄、最近的旅行史以及对皮疹的描述（瘙痒性、斑丘疹演变为脓疱和水疱，不同阶段的皮损）。这种模式高度提示原发性水痘感染。"
+  },
+  "tags": "Varicella-zoster virus; Chickenpox; Viral exanthem; Infectious disease; Dermatology; Vesicular rash; Primary infection",
+  "category": "Micro",
+  "question_id": "15375",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\15375",
+  "extracted_at": "2025-11-05T14:59:16.843020",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:08:48.180331",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

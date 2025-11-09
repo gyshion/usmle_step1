@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 20-year-old man is evaluated for recurrent episodes of jaundice. He was separated from his parents at a young age and is unaware of his family medical history. The patient resided in several foster homes throughout his childhood but currently lives alone. Temperature is 36.7 C (98.1 F), blood pressure is 120/80 mm Hg, and pulse is 72/min. Physical examination shows pallor, icterus, and mild splenomegaly. There is no lymphadenopathy or hepatomegaly. The remainder of the physical examination is normal. Laboratory results are as follows:\n\nHemoglobin 9 g/dL\nPlatelets 198,000/mm3\nLeukocytes 6,500/mm2\nLactate dehydrogenase increased\nTotal bilirubin 3.4 mg/dL\nDirect bilirubin 0.2 mg/dL\nAspartate aminotransferase (SGOT) 25 U/L\nAlanine aminotransferase (SGPT) 30 U/L\nDirect Coombs test negative\n\nWhen the patient's red blood cells are incubated in a hypotonic saline solution, hemoglobin is released. The control sample does not release hemoglobin. This patient is at greatest risk for developing which of the following complications? {{exhibit_1}}",
+    "zh": "一位20岁男性因反复发作的黄疸就诊。他年幼时与父母分离，不清楚家族病史。该患者在童年时期住在几个寄养家庭，但目前独自生活。体温36.7°C (98.1°F)，血压120/80 mmHg，脉搏72次/分。体格检查显示苍白、黄疸和轻度脾肿大。无淋巴结肿大或肝肿大。其余体格检查正常。实验室检查结果如下：\n\n血红蛋白9 g/dL\n血小板198,000/mm3\n白细胞6,500/mm2\n乳酸脱氢酶升高\n总胆红素3.4 mg/dL\n直接胆红素0.2 mg/dL\n天冬氨酸氨基转移酶 (SGOT) 25 U/L\n丙氨酸氨基转移酶 (SGPT) 30 U/L\n直接Coombs试验阴性\n\n当患者的红细胞在低渗盐水溶液中孵育时，血红蛋白被释放。对照样本不释放血红蛋白。该患者发生以下哪种并发症的风险最高？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "This patient is at greatest risk for developing which of the following complications?",
+    "zh": "该患者发生以下哪种并发症的风险最高？"
+  },
+  "options": {
+    "A": {
+      "en": "Autoimmune disease",
+      "zh": "自身免疫性疾病"
+    },
+    "B": {
+      "en": "Autoinfarction of the spleen",
+      "zh": "脾脏的自身梗死"
+    },
+    "C": {
+      "en": "Avascular necrosis of the femur",
+      "zh": "股骨头缺血性坏死"
+    },
+    "D": {
+      "en": "Hemochromatosis",
+      "zh": "血色病"
+    },
+    "E": {
+      "en": "Pigmented gallstones",
+      "zh": "色素性胆结石"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's anemia, elevated lactate dehydrogenase (LDH), and indirect hyperbilirubinemia is suggestive of hemolytic anemia. Red cell lysis (ie, hemoglobin release) when incubated in hypotonic saline describes a positive osmotic fragility test, a diagnostic test for HEREDITARY SPHEROCYTOSIS (HS).\n\nHS is the most common form of hemolytic anemia caused by an RBC membrane defect. HS mutations most often affect spectrin and ankyrin (plasma-membrane scaffolding proteins), producing an unstable plasma membrane that loses fragments over time. As a result, the RBCs acquire an inflexible, spheroid shape (ie, spherocytes). Because spherocytes have a decreased surface area/volume ratio, they are more prone to rupture when incubated in hypotonic saline (ie, increased osmotic fragility).\n\nPatients with HS have the classic findings of CHRONIC EXTRAVASCULAR HEMOLYSIS, including anemia, jaundice, and splenomegaly (due to increased splenic macrophages and congestion). They are also at risk for pigmented gallstones (due to increased bilirubin precipitating as calcium bilirubinate in the gallbladder) and aplastic crises with parvovirus B19 infection.\n\n(Choice A) Autoimmune hemolytic anemia (AIHA) results in findings similar to those seen in HS (eg, indirect hyperbilirubinemia, elevated LDH, spherocytes). In contrast to HS, patients with AIHA have a positive direct antiglobulin (Coombs) test and a propensity for developing other autoimmune disease (eg, systemic lupus erythematosus).\n\n(Choices B and C) The abnormal adhesion of sickled RBCs to the endothelium and the subsequent obstruction of small blood vessels lead to various injuries, including splenic autoinfarction and femoral avascular necrosis. Although sickle cell disease causes hemolysis (eg, indirect hyperbilirubinemia, elevated LDH), a positive osmotic fragility test classically describes HS.\n\n(Choice D) Hemochromatosis (ie, iron overload) is a potential complication of beta-thalassemia due to ineffective erythropoiesis (stimulates iron absorption) and treatment-related blood transfusions. Hemolysis is often less severe in HS, and most patients do not develop iron overload.",
+    "zh": "该患者的贫血、乳酸脱氢酶 (LDH) 升高和间接高胆红素血症提示溶血性贫血。在低渗盐水中孵育时红细胞裂解（即血红蛋白释放）描述了渗透脆性试验阳性，这是遗传性球形红细胞增多症 (HS) 的诊断试验。\n\nHS 是由红细胞膜缺陷引起的溶血性贫血最常见形式。HS 突变最常影响血影蛋白和锚蛋白（质膜支架蛋白），产生不稳定的质膜，随着时间的推移会失去碎片。因此，红细胞获得不灵活的、球形（即球形红细胞）形状。由于球形红细胞的表面积/体积比降低，它们在低渗盐水中孵育时更容易破裂（即渗透脆性增加）。\n\nHS 患者具有慢性血管外溶血的典型表现，包括贫血、黄疸和脾肿大（由于脾脏巨噬细胞增加和充血）。他们也面临色素性胆结石（由于胆红素在胆囊中沉淀为胆红素钙）和 B19 细小病毒感染引起的再生障碍危象的风险。\n\n（选项 A）自身免疫性溶血性贫血 (AIHA) 导致与 HS 相似的发现（例如，间接高胆红素血症、LDH 升高、球形红细胞）。与 HS 相比，AIHA 患者的直接抗球蛋白 (Coombs) 试验呈阳性，并且易于发生其他自身免疫性疾病（例如，系统性红斑狼疮）。\n\n（选项 B 和 C）镰状红细胞对内皮的异常粘附以及随后的毛细血管阻塞导致各种损伤，包括脾脏自身梗死和股骨头缺血性坏死。尽管镰状细胞病会导致溶血（例如，间接高胆红素血症、LDH 升高），但渗透脆性试验阳性通常描述 HS。\n\n（选项 D）血色病（即铁超载）是β-地中海贫血的潜在并发症，原因是无效的红细胞生成（刺激铁吸收）和治疗相关的输血。在 HS 中，溶血通常较轻，并且大多数患者不会出现铁超载。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hereditary spherocytosis, its pathophysiology related to RBC membrane defects, and the associated complications like pigmented gallstones due to chronic hemolysis. It also assesses the ability to differentiate hereditary spherocytosis from other hemolytic anemias based on laboratory findings like the osmotic fragility test and Coombs test.\n\nTo solve this question, recognize the signs of hemolytic anemia (jaundice, splenomegaly, elevated LDH, indirect hyperbilirubinemia). The key is the positive osmotic fragility test, which points towards hereditary spherocytosis. Then, recall the common complications of chronic hemolysis in HS, such as pigmented gallstones.",
+    "zh": "此问题考察对遗传性球形红细胞增多症的了解，其与红细胞膜缺陷相关的病理生理学，以及与慢性溶血相关的并发症，如色素性胆结石。它还评估了根据实验室检查结果（如渗透脆性试验和 Coombs 试验）区分遗传性球形红细胞增多症与其他溶血性贫血的能力。\n\n要解决这个问题，需要识别溶血性贫血的体征（黄疸、脾肿大、LDH 升高、间接高胆红素血症）。关键是渗透脆性试验阳性，这指向遗传性球形红细胞增多症。然后，回忆 HS 中慢性溶血的常见并发症，例如色素性胆结石。"
+  },
+  "tags": "Hereditary spherocytosis; Hemolytic anemia; Osmotic fragility test; Pigmented gallstones; Splenomegaly; Jaundice; RBC membrane defect; Extravascular hemolysis; Anemia; Hematology",
+  "category": "Blood",
+  "question_id": "891",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\891",
+  "extracted_at": "2025-11-05T11:34:50.446840",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:32:46.357178",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

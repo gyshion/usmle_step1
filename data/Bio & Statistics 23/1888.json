@@ -1,0 +1,69 @@
+{
+  "question_stem": {
+    "en": "An 8-year-old boy is brought to the emergency department due to vomiting and lethargy. The patient had been on an overnight hiking trip with his family. During the trip, the family lost their food pack while canoeing and had to hike back to their car. The child became weak and was carried for the last mile. None of the family has eaten for approximately 24 hours. On examination, the patient appears listless. Mild hepatomegaly is noted. Laboratory results are as follows: {{exhibit_1}} The patient begins seizing shortly after arriving at the emergency department.",
+    "zh": "一名8岁男孩因呕吐和嗜睡被送往急诊科。患者与家人进行了一次过夜徒步旅行。旅行期间，家人在划独木舟时丢失了食物包，不得不徒步走回他们的车。孩子变得虚弱，最后1英里是被抬回去的。大约24小时没有进食。检查时，患者显得萎靡不振。注意到轻度肝肿大。实验室结果如下：{{exhibit_1}} 患者在到达急诊科后不久开始出现癫痫发作。"
+  },
+  "question": {
+    "en": "Which of the following enzymes is most likely deficient in this patient?",
+    "zh": "该患者最有可能缺乏下列哪种酶？"
+  },
+  "options": {
+    "A": {
+      "en": "Acetyl-CoA carboxylase",
+      "zh": "乙酰辅酶A羧化酶"
+    },
+    "B": {
+      "en": "Acid alpha-glucosidase",
+      "zh": "酸性α-葡萄糖苷酶"
+    },
+    "C": {
+      "en": "Acyl-CoA dehydrogenase",
+      "zh": "酰基辅酶A脱氢酶"
+    },
+    "D": {
+      "en": "Glucose 6-phosphatase",
+      "zh": "葡萄糖6-磷酸酶"
+    },
+    "E": {
+      "en": "Glycogen phosphorylase",
+      "zh": "糖原磷酸化酶"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient developed hypotetic hypoglycemia after fasting, which is consistent with a defect in fatty acid beta-oxidation in the mitochondria. Beta-oxidation of fatty acids yields FADH₂ and NADH for ATP production and generates acetyl-CoA for use in the citric acid cycle or ketone body production. Ketone bodies are an important energy source during periods of fasting; adults generally require more than 1-2 days of fasting before ketone use becomes substantial, whereas children have limited glucose reserves and begin using ketone bodies after as little as 8-10 hours.\n\nImpaired beta-oxidation can be caused by a variety of enzymatic defects, the most common of which is medium chain acyl-CoA dehydrogenase deficiency. Affected individuals may remain asymptomatic for long periods until they experience a significant fast, during which they are unable to oxidize fatty acids to maintain glucose and ketone body production. Classic manifestations include hypotoketic hypoglycemia (eg, undetectable acetoacetate level), mild hepatomegaly, and liver dysfunction. Because the resulting metabolic crisis can have severe consequences (eg, seizures, sudden infant death), fatty acid oxidation disorders are part of standard newborn screening.\n\nTreatment of acyl-CoA dehydrogenase deficiency consists of prevention of fat catabolism. This means avoiding prolonged fasting as well as promptly supplying glucose during periods of illness.\n\n(Choice A) Acetyl-CoA carboxylase is the rate-limiting enzyme that catalyzes the first step in fatty acid synthesis. Acetyl-CoA carboxylase is normally suppressed during prolonged fasting.\n\n(Choices B, D, and E) Acid alpha-glucosidase, glucose 6-phosphatase, and glycogen phosphorylase are involved in glycogenolysis. Deficiency of any of these enzymes can lead to glycogen storage disease. However, patients with glycogen storage disease have normal fatty acid oxidation and produce ketones during periods of fasting. {{exhibit_2}}",
+    "zh": "该患者在禁食后出现低血糖症，这与线粒体中脂肪酸β-氧化缺陷一致。脂肪酸的β-氧化产生FADH₂和NADH用于ATP的产生，并生成乙酰辅酶A，用于柠檬酸循环或酮体生成。酮体是禁食期间重要的能量来源；成年人通常需要禁食1-2天以上，酮体利用才会变得显著，而儿童的葡萄糖储备有限，在禁食8-10小时后就会开始利用酮体。\n\nβ-氧化受损可由多种酶缺陷引起，其中最常见的是中链酰基辅酶A脱氢酶缺乏症。受影响的个体可能长期无症状，直到他们经历明显的禁食，在此期间，他们无法氧化脂肪酸以维持葡萄糖和酮体的产生。典型表现包括低酮性低血糖（如，无法检测到乙酰乙酸盐水平）、轻度肝肿大和肝功能障碍。由于由此产生的代谢危机可能导致严重后果（如，癫痫发作、婴儿猝死），脂肪酸氧化障碍是标准新生儿筛查的一部分。\n\n酰基辅酶A脱氢酶缺乏症的治疗包括预防脂肪分解代谢。这意味着避免长时间禁食以及在患病期间及时提供葡萄糖。\n\n(选项A) 乙酰辅酶A羧化酶是催化脂肪酸合成第一步的限速酶。乙酰辅酶A羧化酶在长时间禁食期间通常受到抑制。\n\n(选项B, D和E) 酸性α-葡萄糖苷酶、葡萄糖6-磷酸酶和糖原磷酸化酶参与糖原分解。这些酶的任何一种缺乏都可能导致糖原贮积病。然而，患有糖原贮积病的患者具有正常的脂肪酸氧化，并在禁食期间产生酮体。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "The patient's symptoms and lab results (hypoglycemia, no ketones, hepatomegaly) after a prolonged fast suggest a defect in fatty acid beta-oxidation, most likely medium-chain acyl-CoA dehydrogenase deficiency.",
+    "zh": "患者在长时间禁食后的症状和实验室结果（低血糖、无酮体、肝肿大）提示脂肪酸β-氧化缺陷，最有可能的是中链酰基辅酶A脱氢酶缺乏症。"
+  },
+  "tags": [
+    "Biochemistry",
+    "Metabolic Disorders",
+    "Fatty Acid Oxidation",
+    "Enzyme Deficiency",
+    "Pediatrics"
+  ],
+  "exhibit_1": "Glucose 22 mg/dL\nAcetoacetate not detected\nAspartate aminotransferase 47 U/L\nAlanine aminotransferase 53 U/L",
+  "exhibit_2": "Educational objective:\nImpaired beta-oxidation of fatty acids causes hypoglycemia after prolonged fasting and insufficient levels of ketone bodies. Acyl-CoA dehydrogenase catalyzes the first step in the beta-oxidation pathway and is the most commonly deficient enzyme.",
+  "category": "Bio",
+  "question_id": "1888",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1888",
+  "extracted_at": "2025-11-05T13:20:04.439221",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:22:12.674806",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

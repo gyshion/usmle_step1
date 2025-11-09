@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old woman comes to the office due to solid food dysphagia for the past several months. The patient has a sensation of food getting stuck in the mid-thorax, but has no pain or reflux. She also has palpitations and dyspnea on exertion. The patient immigrated to the United States from India 1 year ago, and was treated in her home country for rheumatic heart disease. Barium esophagram demonstrates extrinsic compression on the mid-esophagus.",
+    "zh": "一名35岁的女性因过去几个月出现固体食物吞咽困难而就诊。患者感觉食物卡在中胸部，但没有疼痛或反流。她还有心悸和劳力性呼吸困难。患者1年前从印度移民到美国，并在她的祖国接受了风湿性心脏病的治疗。钡餐食管造影显示食管中部存在外压迫。"
+  },
+  "question": {
+    "en": "Enlargement of which of the following is most likely causing this patient's dysphagia?",
+    "zh": "以下哪一项的增大最有可能导致该患者的吞咽困难？"
+  },
+  "options": {
+    "A": {
+      "en": "Left atrium",
+      "zh": "左心房"
+    },
+    "B": {
+      "en": "Left ventricle",
+      "zh": "左心室"
+    },
+    "C": {
+      "en": "Pulmonary artery",
+      "zh": "肺动脉"
+    },
+    "D": {
+      "en": "Right atrium",
+      "zh": "右心房"
+    },
+    "E": {
+      "en": "Right ventricle",
+      "zh": "右心室"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient with a history of rheumatic heart disease has likely developed mitral stenosis/regurgitation (eg, palpitations, exertional dyspnea), leading to left atrial enlargement and extrinsic compression of the esophagus (eg, solid food dysphagia). The posterior surface of the heart is mostly formed by the left atrium, which lies directly over the esophagus. Longstanding mitral stenosis/regurgitation can lead to progressive left atrial enlargement, further displacing the left atrium posteriorly and causing external compression of the mid-esophagus with dysphagia (cardiovascular dysphagia). On rare occasions, left atrial enlargement can also cause compression of the left recurrent laryngeal nerve, leading to voice hoarseness and chronic cough. {{exhibit_1}}\n\n(Choice B) The left ventricle makes up most of the left surface of the heart, which abuts the left lung.\n\n(Choice C) The pulmonary artery emerges from the right ventricle and branches into the right and left pulmonary arteries below the aortic arch.\n\n(Choices D and E) The anterior (sternocostal) surface of the heart is mostly formed by the right atrium superiorly and right ventricle inferiorly. Blood from the coronary sinus and inferior and superior venae cavae drain into the right atrium, which then drains blood into the right ventricle through the tricuspid valve.\n\nEducational objective:\nCardiovascular dysphagia can result from external compression of the esophagus by a dilated and posteriorly displaced left atrium in patients with rheumatic heart disease and mitral stenosis/regurgitation.",
+    "zh": "这名有风湿性心脏病病史的患者很可能发展为二尖瓣狭窄/关闭不全（如心悸、劳力性呼吸困难），导致左心房增大和食管外压迫（如固体食物吞咽困难）。心脏的后表面主要由左心房形成，左心房直接位于食管上方。长期的二尖瓣狭窄/关闭不全可导致进行性左心房增大，进一步向后推移左心房，并引起食管中段的外压迫，导致吞咽困难（心血管性吞咽困难）。在极少数情况下，左心房增大也可能引起左侧喉返神经的压迫，导致声音嘶哑和慢性咳嗽。{{exhibit_1}}\n\n(选项B) 左心室构成心脏的大部分左侧表面，与左肺相邻。\n\n(选项C) 肺动脉起源于右心室，并在主动脉弓下方分支成右肺动脉和左肺动脉。\n\n(选项D和E) 心脏的前面（胸肋面）主要由上方的右心房和下方的右心室形成。来自冠状窦和下腔静脉、上腔静脉的血液流入右心房，然后通过三尖瓣流入右心室。\n\n教育目标：\n心血管性吞咽困难可能是由风湿性心脏病和二尖瓣狭窄/关闭不全患者中扩张和后移的左心房对外压迫食管所致。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of cardiovascular dysphagia, specifically the mechanism by which left atrial enlargement due to rheumatic heart disease can cause esophageal compression and dysphagia. It requires understanding the anatomical relationship between the left atrium and the esophagus.\n\nTo solve this question, recognize the patient's history of rheumatic heart disease and the symptoms of palpitations and dyspnea, which suggest mitral valve pathology. Then, recall that the left atrium is located posterior to the esophagus, making it the most likely structure to cause extrinsic compression when enlarged.",
+    "zh": "本题考察对心血管性吞咽困难的了解，特别是风湿性心脏病引起的左心房增大如何导致食管受压和吞咽困难的机制。它需要理解左心房和食管之间的解剖关系。\n\n为了解决这个问题，要认识到患者的风湿性心脏病病史和心悸、呼吸困难的症状，这表明二尖瓣病变。然后，回想起左心房位于食管后方，使其成为增大时最有可能引起外压迫的结构。"
+  },
+  "tags": "Cardiovascular dysphagia; Rheumatic heart disease; Mitral stenosis; Mitral regurgitation; Left atrial enlargement; Esophageal compression; Dysphagia; Cardiology; Anatomy",
+  "category": "CVS",
+  "question_id": "1623",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1623",
+  "extracted_at": "2025-11-05T12:01:14.820511",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:51:51.436023",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

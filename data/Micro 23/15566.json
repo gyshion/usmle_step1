@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "Researchers investigating infections in immunocompromised individuals enroll patients with solid-organ malignancy who have received conventional cytotoxic chemotherapy. Detailed microbiologic data are obtained on any patient who develops fever during periods of chemotherapy-induced neutropenia. Which of the following pathogens are most likely to be identified as the cause of these patients' infections?",
+    "zh": "研究人员调查免疫功能低下的个体中的感染情况，招募了接受过常规细胞毒性化疗的实体器官恶性肿瘤患者。在化疗引起的嗜中性粒细胞减少症期间，对任何出现发热的患者获得详细的微生物学数据。以下哪种病原体最有可能被确定为这些患者感染的病因？"
+  },
+  "question": {
+    "en": "Which of the following pathogens are most likely to be identified as the cause of these patients' infections?",
+    "zh": "以下哪种病原体最有可能被确定为这些患者感染的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Endogenous bacterial flora",
+      "zh": "内源性细菌菌群"
+    },
+    "B": {
+      "en": "Hospital-acquired, drug-resistant bacteria",
+      "zh": "医院获得性耐药细菌"
+    },
+    "C": {
+      "en": "Pathogens acquired from infected contacts",
+      "zh": "从受感染接触者获得的病原体"
+    },
+    "D": {
+      "en": "Reactivated pathogens from latent infection",
+      "zh": "潜伏感染再激活的病原体"
+    },
+    "E": {
+      "en": "Vector-borne and zoonotic organisms",
+      "zh": "媒介传播和人畜共患病原体"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Systemic chemotherapy targets rapidly dividing cancer cells but also damages healthy cells with high turnover rates, particularly epithelial cells in the gastrointestinal tract and stem cells in the bone marrow. Injury to these cells dramatically INCREASES the risk of infection due to:\n\n*   **Mucositis**: Damage to rapidly dividing epithelial cells of the digestive tract creates breaches in the mucosal barrier that allow endogenous bacterial flora (commensal organisms) to penetrate and enter the bloodstream. Gram-negative enteric bacilli, such as *Pseudomonas aeruginosa*, and Gram-positive skin organisms, such as *Staphylococcus epidermidis* and *S aureus*, are most likely to invade.\n*   **Neutropenia**: Damage to rapidly dividing granulopoietic cells reduces the circulating neutrophil count. Because neutrophils serve as front-line defense against bacterial and fungal pathogens, commensal pathogens that penetrate the mucosal/cutaneous barrier cannot be contained and subsequently spread to the bloodstream and deeper tissues. Neutropenic patients have weak inflammatory responses, and fever is often the only sign of infection (neutropenic fever).\n\nTo reduce the risk of serious infection, patients who receive systemic chemotherapy are often empirically treated with prophylactic antibiotics (eg, ciprofloxacin) to prevent commensal organisms from invading and with granulocyte-stimulating agents (eg, filgrastim) to increase neutrophil count.\n\n(Choice B) Hospital-acquired, drug-resistant bacteria, such as methicillin-resistant *S aureus*, can cause neutropenic fever but do so much less often than endogenous commensal bacteria.\n\n(Choice C) Pathogens spread from infected contacts (eg, influenza) are more likely to cause severe infection in those with impaired immunity. However, the greatest cause of neutropenic fever is endogenous bacterial flora.\n\n(Choice D) The reactivation of latent bacterial (eg, tuberculosis) and viral (eg, cytomegalovirus) pathogens is common in those with sustained impairments to cellular immunity (eg, AIDS, immunosuppression following transplantation, immunotherapy for rheumatologic conditions). Neutropenia following chemotherapy is typically transient; the majority of infections in this setting are due to the invasion of commensal bacteria through damaged gastrointestinal epithelium. Reactivation of latent viral or bacterial infections can occur but is far less common.\n\n(Choice E) Vector-borne and zoonotic organisms are not a primary cause of neutropenic fever in patients undergoing cytotoxic chemotherapy. These pathogens are common in travelers to developing nations.\n\nEducational objective:\nChemotherapy-associated neutropenic fever is most often caused by endogenous commensal bacteria that have translocated across damaged mucosal sites.",
+    "zh": "全身化疗靶向快速分裂的癌细胞，但也损害周转率高的健康细胞，特别是胃肠道中的上皮细胞和骨髓中的干细胞。对这些细胞的损伤会显著增加感染的风险，原因如下：\n\n*   **黏膜炎**：消化道快速分裂的上皮细胞的损伤会在黏膜屏障中产生缺口，从而允许内源性细菌菌群（共生生物）渗透并进入血液。革兰氏阴性肠杆菌，如*铜绿假单胞菌*，和革兰氏阳性皮肤细菌，如*表皮葡萄球菌*和*金黄色葡萄球菌*，最有可能侵入。\n*   **嗜中性粒细胞减少症**：对快速分裂的粒细胞生成细胞的损伤会降低循环中的中性粒细胞计数。由于中性粒细胞是抵抗细菌和真菌病原体的前线防御，因此，穿透黏膜/皮肤屏障的共生病原体无法被控制，随后扩散到血液和更深层的组织。嗜中性粒细胞减少症患者的炎症反应较弱，发热通常是感染的唯一迹象（嗜中性粒细胞减少症发热）。\n\n为了降低严重感染的风险，接受全身化疗的患者通常会经验性地使用预防性抗生素（例如，环丙沙星）来防止共生生物侵入，并使用粒细胞刺激剂（例如，非格司亭）来增加中性粒细胞计数。\n\n（选项B）医院获得性耐药细菌，如耐甲氧西林金黄色葡萄球菌，可引起嗜中性粒细胞减少症发热，但发生频率远低于内源性共生细菌。\n\n（选项C）从受感染接触者（例如，流感）传播的病原体更有可能在免疫功能受损者中引起严重感染。然而，嗜中性粒细胞减少症发热的最大病因是内源性细菌菌群。\n\n（选项D）潜伏性细菌（例如，结核病）和病毒（例如，巨细胞病毒）病原体的再激活在细胞免疫持续受损的患者（例如，艾滋病、移植后的免疫抑制、风湿病治疗的免疫疗法）中很常见。化疗后的嗜中性粒细胞减少症通常是短暂的；在这种情况下，大多数感染是由于共生细菌通过受损的胃肠道上皮细胞侵入而引起的。潜伏性病毒或细菌感染的再激活可能发生，但发生频率远低于此。\n\n（选项E）媒介传播和人畜共患病原体不是接受细胞毒性化疗的患者发生嗜中性粒细胞减少症发热的主要原因。这些病原体在前往发展中国家的旅行者中很常见。\n\n教育目标：\n化疗相关的嗜中性粒细胞减少症发热最常由已穿过受损黏膜部位的内源性共生细菌引起。"
+  },
+  "summary": {
+    "en": "This question tests the etiology of infections in patients with chemotherapy-induced neutropenia. Specifically, it asks about the most likely pathogens causing infection in this setting.\n\nThe key to answering this question is recognizing that chemotherapy damages the mucosal barrier, allowing endogenous bacterial flora to translocate and cause infection. Therefore, the most likely pathogens are commensal organisms.",
+    "zh": "这个问题测试了化疗引起的嗜中性粒细胞减少症患者感染的病因。具体来说，它询问了在这种情况下最有可能引起感染的病原体。\n\n回答这个问题的关键是认识到化疗会损害黏膜屏障，从而允许内源性细菌菌群易位并引起感染。因此，最有可能的病原体是共生生物。"
+  },
+  "tags": "Chemotherapy; Neutropenia; Infection; Endogenous bacterial flora; Mucositis; Immunocompromised; Febrile neutropenia; Infectious Diseases; Oncology",
+  "category": "Micro",
+  "question_id": "15566",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\15566",
+  "extracted_at": "2025-11-05T15:00:38.247871",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:09:30.368119",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

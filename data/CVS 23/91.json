@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 6-year-old boy is evaluated in the office for difficulty hearing. The patient has no ear pain, discharge, or upper respiratory symptoms. Initial testing suggests that he has bilateral sensorineural hearing loss. He has no motor deficits or cerebellar signs. His paternal uncle died suddenly at age 12. Examination of the ears, nose, and throat is normal. ECG shows normal sinus rhythm with a prolonged QT interval (520 msec). Echocardiogram shows normal left and right ventricular function with no significant valvular disease.",
+    "zh": "一名6岁男孩因听力困难在诊所接受评估。患者无耳痛、分泌物或上呼吸道症状。初步检查显示他患有双侧感觉神经性听力损失。他没有运动障碍或小脑体征。他的伯父在12岁时突然去世。耳、鼻、喉检查正常。心电图显示窦性心律正常，QT间期延长（520毫秒）。超声心动图显示左、右心室功能正常，无明显瓣膜病。"
+  },
+  "question": {
+    "en": "A genetic defect affecting which of the following is most likely present in this patient?",
+    "zh": "该患者最有可能存在影响以下哪一项的基因缺陷？"
+  },
+  "options": {
+    "A": {
+      "en": "Calcium channels",
+      "zh": "钙离子通道"
+    },
+    "B": {
+      "en": "Membrane anchoring protein",
+      "zh": "膜锚定蛋白"
+    },
+    "C": {
+      "en": "Potassium channels",
+      "zh": "钾离子通道"
+    },
+    "D": {
+      "en": "Sodium channels",
+      "zh": "钠离子通道"
+    },
+    "E": {
+      "en": "Sodium-potassium ATPase",
+      "zh": "钠钾ATP酶"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient's clinical presentation is suggestive of Jervell and Lange-Nielsen syndrome, an autosomal recessive disorder characterized by profound bilateral sensorineural hearing loss and congenital long QT syndrome, which predisposes individuals to syncope and sudden cardiac death. This syndrome occurs secondary to mutations in genes (eg, KCNQ1, KCNE1) that encode the alpha and beta subunits of voltage-gated potassium channels {{exhibit_1}}. These subunits contribute to the slow-acting component of the outward-rectifying potassium current, which is responsible for ventricular repolarization during phase 3 of the cardiac action potential. Mutations in the potassium channel lead to a decrease in potassium current with prolongation of action potential duration and the QT interval. QT interval prolongation predisposes to the development of life-threatening ventricular arrhythmias, such as torsades de pointes and ventricular fibrillation.\n\n(Choices A and D) Brugada syndrome is an autosomal dominant condition that can be associated with mutations in cardiac sodium or L-type calcium channels, leading to characteristic ECG changes (eg, pseudo right bundle branch block, ST-segment elevation in leads V1-V3) and an increased risk of ventricular tachyarrhythmias and sudden cardiac death.\n\n(Choice B) Duchenne muscular dystrophy is an X-linked disorder caused by mutations in dystrophin, a structural membrane protein that stabilizes the plasma membrane of myocytes. Patients typically present with progressive proximal muscle degeneration and weakness. Additional features may include cardiomyopathy and conduction abnormalities.\n\n(Choice E) Genetic defects in the sodium-potassium ATPase pump typically are not associated with long QT syndrome. Cardiac glycosides (eg, digoxin) inhibit the sodium-potassium ATPase in myocardial cells, resulting in a mild increase in intracellular sodium and subsequent inhibition of the sodium-calcium exchanger. This leads to increased intracellular calcium and cardiac contractility, which can help reduce symptoms in patients with advanced systolic heart failure.",
+    "zh": "该患者的临床表现提示Jervell和Lange-Nielsen综合征，这是一种常染色体隐性遗传疾病，其特征是严重的双侧感觉神经性听力损失和先天性长QT综合征，这使得个体容易发生晕厥和猝死。该综合征继发于编码电压门控钾离子通道的α和β亚基的基因（例如，KCNQ1，KCNE1）的突变 {{exhibit_1}}。这些亚基有助于外向整流钾电流的慢反应成分，该成分负责心动周期的3期心室复极化。钾离子通道的突变导致钾离子电流减少，动作电位持续时间延长和QT间期延长。QT间期延长容易导致危及生命的心室性心律失常的发生，例如尖端扭转型室性心动过速和心室颤动。\n\n（选项A和D）Brugada综合征是一种常染色体显性遗传疾病，可能与心脏钠离子或L型钙离子通道的突变有关，导致特征性的心电图改变（例如，假右束支传导阻滞、V1-V3导联ST段抬高）以及室性心动过速和猝死的风险增加。\n\n（选项B）杜氏肌营养不良是一种X连锁疾病，由肌营养不良蛋白（一种稳定心肌细胞质膜的结构蛋白）的突变引起。患者通常表现为进行性近端肌肉变性和无力。其他特征可能包括心肌病和传导异常。\n\n（选项E）钠钾ATP酶泵的基因缺陷通常与长QT综合征无关。强心苷（例如，地高辛）抑制心肌细胞中的钠钾ATP酶，导致细胞内钠离子轻度增加，随后抑制钠钙交换。这导致细胞内钙离子增加和心脏收缩力增强，这有助于减轻晚期收缩性心力衰竭患者的症状。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Jervell and Lange-Nielsen syndrome, an autosomal recessive disorder characterized by sensorineural hearing loss and long QT syndrome, caused by mutations in potassium channels. It assesses the ability to recognize the clinical presentation and associate it with the underlying genetic defect.\n\nTo solve this question, recognize the key features of sensorineural hearing loss, prolonged QT interval, and family history of sudden death. Consider genetic syndromes associated with these findings, particularly those involving ion channel mutations.",
+    "zh": "此题考察对Jervell和Lange-Nielsen综合征的认识，这是一种常染色体隐性遗传疾病，其特征是感觉神经性听力损失和长QT综合征，由钾离子通道的突变引起。它评估识别临床表现并将其与潜在的基因缺陷联系起来的能力。\n\n解决此题，需要认识到感觉神经性听力损失、QT间期延长和猝死家族史的关键特征。考虑与这些发现相关的遗传综合征，特别是那些涉及离子通道突变的。"
+  },
+  "tags": "Jervell and Lange-Nielsen syndrome; Long QT syndrome; Sensorineural hearing loss; Potassium channels; Genetic mutations; Cardiology; Arrhythmias; Sudden cardiac death; ECG interpretation {{exhibit_2}}",
+  "category": "CVS",
+  "question_id": "91",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\91",
+  "extracted_at": "2025-11-05T12:19:42.736304",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:32:27.586579",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

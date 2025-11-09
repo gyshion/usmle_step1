@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 28-year-old woman comes to the office due to several months of progressive abdominal pain and intermittent diarrhea. She denies fever or chills but has lost weight due to poor appetite. The patient works for an organization that installs wood pellet cookstoves in rural villages in Central Africa and has spent much time in the region over the last 5 years. Temperature is 37.8 C (100 F), blood pressure is 126/72, and pulse is 86. BMI is 19 kg/m². Physical examination is normal. Laboratory results are as follows:\n\nComplete blood counts:\n\nHemoglobin 9.5 g/dL\nPlatelets 195,000/mm³\nLeukocytes 8,800/mm³\nNeutrophils 54%\nEosinophils 14%\nLymphocytes 32%\n\nAn intestinal biopsy sample is shown in the exhibit {{exhibit_1}}.",
+    "zh": "一名28岁女性因数月来渐进性腹痛和间歇性腹泻就诊。她否认发热或寒战，但由于食欲不振而体重下降。该患者在一个为中非农村村庄安装木屑颗粒炉的组织工作，并且在过去5年中在该地区度过了很多时间。体温37.8°C（100°F），血压126/72，脉搏86次/分。BMI为19 kg/m²。体格检查正常。实验室检查结果如下：\n\n全血细胞计数：\n\n血红蛋白9.5 g/dL\n血小板195,000/mm³\n白细胞8,800/mm³\n中性粒细胞54%\n嗜酸性粒细胞14%\n淋巴细胞32%\n\n肠道活检样本显示在图{{exhibit_1}}中。"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate treatment for this patient?",
+    "zh": "以下哪项是该患者最合适的治疗方案？"
+  },
+  "options": {
+    "A": {
+      "en": "Artemisinin-based combination therapy",
+      "zh": "青蒿素类复方疗法"
+    },
+    "B": {
+      "en": "Ciprofloxacin",
+      "zh": "环丙沙星"
+    },
+    "C": {
+      "en": "Ganciclovir",
+      "zh": "更昔洛韦"
+    },
+    "D": {
+      "en": "Metronidazole plus paromomycin",
+      "zh": "甲硝唑加巴龙霉素"
+    },
+    "E": {
+      "en": "Praziquantel",
+      "zh": "吡喹酮"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's travel history, chronic intestinal symptoms, eosinophilia, and biopsy findings suggest schistosomiasis, a parasitic blood fluke infection primarily seen in rural parts of sub-Saharan Africa and East Asia. Exposure occurs when humans swim or bathe in freshwater that contains contaminated snails (the intermediate host). Cercariae from the snails penetrate human skin and migrate to the liver, where they mature into adult worms. Adult worms then travel through the portal circulation to the mesenteric venules (S mansoni and S japonicum) or the venous plexus of the bladder (S haematobium). {{exhibit_2}}\n\nAdult worms release eggs through host tissue to be excreted in feces or urine. Although most patients are asymptomatic, eggs can trigger a significant granulomatous inflammatory response, leading to manifestations in the gastrointestinal tract (eg, diarrhea, weight loss, anorexia, anemia), bladder (eg, terminal hematuria), or periportal system (eg, portal hypertension, splenomegaly). Eosinophilia is commonly early in the disease course as eosinophils release granules that are toxic to adult worms.\n\nDiagnostic confirmation requires the identification of round/oval eggs with a characteristic terminal (S. haematobium) or lateral (S. mansoni) spine on stool/urinary testing or tissue biopsy. Treatment with praziquantel, which alters parasite digestion and calcium transport, is generally curative.\n\n(Choice A) Artemisinin-based combination therapy is used for chloroquine resistant malaria. Malaria can cause gastrointestinal symptoms, but patients are usually acutely ill (eg, fever, chills, myalgia, headache). Giemsa-stained blood smear generally reveals intraerythrocytic ring-shaped trophozoites, not eggs with a spine.\n\n(Choice B) Bacterial infection of the gastrointestinal tract is common when traveling to countries with poor sanitation and water control systems. Ciprofloxacin is sometimes used for treatment. However, most cases are brief in duration, eosinophilia is not generally seen, and eggs would not be present.\n\n(Choice C) Ganciclovir can treat cytomegalovirus colitis, which frequently causes diarrhea and abdominal pain. However, most cases arise in patients that are severely immunocompromised. Furthermore, fever is usually present and biopsy would show intracytoplasmic and intranuclear inclusions, not eggs.\n\n(Choice D) Metronidazole plus paromomycin is used to treat Entamoeba histolytica, which is a common cause of dysentery (eg, diarrhea, fever, abdominal pain) in travelers. However, the presence of several months of symptoms, eosinophilia, and eggs on biopsy make this diagnosis unlikely.\n\nEducational objective:\nSchistosomiasis is a blood fluke infection that occurs when humans bathe or swim in freshwater that contains contaminated snails. Adult worms mature in the liver, lodge in the mesenteric venules or vesicular venous plexus, and secrete eggs into feces or urine. Eggs can trigger granulomatous inflammation, leading to symptoms in the gastrointestinal, urinary, or periportal tract. Diagnosis is typically made when round or oval eggs with a terminal or lateral spine are identified in urine, feces, or biopsy. {{exhibit_3}}",
+    "zh": "该患者的旅行史、慢性肠道症状、嗜酸性粒细胞增多和活检结果提示血吸虫病，这是一种寄生虫血吸虫感染，主要见于撒哈拉以南非洲和东亚的农村地区。当人类在含有受污染蜗牛（中间宿主）的淡水中游泳或沐浴时，就会发生暴露。来自蜗牛的尾蚴穿透人类皮肤并迁移到肝脏，在那里它们发育成成虫。成虫然后通过门静脉循环到达肠系膜小静脉（曼氏血吸虫和日本血吸虫）或膀胱静脉丛（埃及血吸虫）。{{exhibit_2}}\n\n成虫通过宿主组织释放虫卵，随粪便或尿液排出。尽管大多数患者无症状，但虫卵可引发显著的肉芽肿性炎症反应，导致胃肠道（如腹泻、体重减轻、食欲不振、贫血）、膀胱（如终末血尿）或门静脉系统（如门静脉高压、脾肿大）的病变。嗜酸性粒细胞增多通常是该病程的早期表现，因为嗜酸性粒细胞会释放对成虫有毒的颗粒。\n\n诊断确认需要通过粪便/尿液检测或组织活检来鉴定具有特征性末端（埃及血吸虫）或侧面（曼氏血吸虫）刺的圆形/卵形虫卵。使用吡喹酮治疗，它会改变寄生虫消化和钙转运，通常具有治愈作用。\n\n（选项 A）青蒿素类复方疗法用于治疗耐氯喹疟疾。疟疾可引起胃肠道症状，但患者通常会急性发病（如发热、寒战、肌痛、头痛）。吉姆萨染色血涂片通常显示红细胞内环状滋养体，而不是带刺的卵。\n\n（选项 B）当前往卫生条件和水控制系统较差的国家旅行时，胃肠道细菌感染很常见。环丙沙星有时用于治疗。然而，大多数病例病程较短，通常未见嗜酸性粒细胞增多，并且不存在虫卵。\n\n（选项 C）更昔洛韦可治疗巨细胞病毒性结肠炎，该病经常引起腹泻和腹痛。然而，大多数病例发生在严重免疫功能低下的患者中。此外，通常存在发热，活检将显示细胞质内和细胞核内包涵体，而不是虫卵。\n\n（选项 D）甲硝唑加巴龙霉素用于治疗溶组织阿米巴，这是一种旅行者痢疾（如腹泻、发热、腹痛）的常见原因。然而，数月症状的存在、嗜酸性粒细胞增多和活检中发现虫卵使得该诊断不太可能。\n\n教学目标：\n血吸虫病是一种血吸虫感染，发生在人类在含有受污染蜗牛的淡水中沐浴或游泳时。成虫在肝脏中成熟，寄居在肠系膜小静脉或膀胱静脉丛中，并将虫卵分泌到粪便或尿液中。虫卵可引发肉芽肿性炎症，导致胃肠道、泌尿道或门静脉系统的症状。当在尿液、粪便或活检中鉴定出具有末端或侧面刺的圆形或卵形虫卵时，通常会做出诊断。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of schistosomiasis, including its etiology, clinical presentation, diagnosis, and treatment. The key to answering correctly is recognizing the patient's travel history to Central Africa, chronic gastrointestinal symptoms, eosinophilia, and the likely presence of parasitic eggs on biopsy. \n\nThe best approach is to consider the patient's risk factors and symptoms to narrow the differential diagnosis. Schistosomiasis is a parasitic infection common in sub-Saharan Africa, and praziquantel is the treatment of choice. Eliminate other options based on their association with different clinical scenarios or lack of supporting evidence.",
+    "zh": "本题考察对血吸虫病的认识，包括其病因、临床表现、诊断和治疗。正确回答的关键是认识到患者的旅行史（前往中非）、慢性胃肠道症状、嗜酸性粒细胞增多，以及活检中可能存在寄生虫卵。\n\n最好的方法是考虑患者的危险因素和症状，以缩小鉴别诊断范围。血吸虫病是一种在撒哈拉以南非洲常见的寄生虫感染，吡喹酮是首选治疗方法。根据其他选项与不同临床情况的关联或缺乏支持证据来排除它们。"
+  },
+  "tags": "Schistosomiasis; Parasitic infection; Gastroenterology; Infectious diseases; Praziquantel; Eosinophilia; Travel medicine; Intestinal biopsy",
+  "category": "Micro",
+  "question_id": "18489",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\18489",
+  "extracted_at": "2025-11-05T15:02:14.474781",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:10:32.670471",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

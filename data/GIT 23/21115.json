@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 17-year-old girl is brought to the office due to yellow eyes for the past day. The patient has no other symptoms, including fever, rash, abdominal pain, vomiting, or diarrhea. She has been preparing for her high school exit examination and has been quite stressed. Temperature is 37.1 C (98.8 F), blood pressure is 110/78 mm Hg, pulse is 80/min, and respirations are 14/min. Mild scleral icterus is present. The abdomen is soft with no hepatosplenomegaly. Serum laboratory results are as follows: {{exhibit_1}}\n\nTwo weeks after her examination, the patient's symptoms resolve. Repeat testing shows a total bilirubin concentration of 1.5 mg/dL.",
+    "zh": "一名17岁女孩因眼睛发黄一天而被带到诊所就诊。患者没有其他症状，包括发烧、皮疹、腹痛、呕吐或腹泻。她一直在准备高中毕业考试，并且一直压力很大。体温37.1摄氏度（98.8华氏度），血压110/78毫米汞柱，脉搏80次/分钟，呼吸14次/分钟。轻度巩膜黄疸存在。腹部柔软，无肝脾肿大。血清实验室检查结果如下：{{exhibit_1}}。\n\n考试两周后，患者的症状缓解。复查显示总胆红素浓度为1.5毫克/分升。"
+  },
+  "question": {
+    "en": "Which of the following changes most likely contributed to this patient's hyperbilirubinemia?",
+    "zh": "以下哪项改变最可能导致该患者的高胆红素血症？"
+  },
+  "options": {
+    "A": {
+      "en": "Hepatocyte bilirubin storage: Decreased; Hepatocyte bilirubin excretion: Decreased; Bilirubin conjugation: Decreased",
+      "zh": "肝细胞胆红素储存：减少；肝细胞胆红素排泄：减少；胆红素结合：减少"
+    },
+    "B": {
+      "en": "Hepatocyte bilirubin storage: Decreased; Hepatocyte bilirubin excretion: Increased; Bilirubin conjugation: Increased",
+      "zh": "肝细胞胆红素储存：减少；肝细胞胆红素排泄：增加；胆红素结合：增加"
+    },
+    "C": {
+      "en": "Hepatocyte bilirubin storage: Increased; Hepatocyte bilirubin excretion: Decreased; Bilirubin conjugation: Normal",
+      "zh": "肝细胞胆红素储存：增加；肝细胞胆红素排泄：减少；胆红素结合：正常"
+    },
+    "D": {
+      "en": "Hepatocyte bilirubin storage: Increased; Hepatocyte bilirubin excretion: Increased; Bilirubin conjugation: Normal",
+      "zh": "肝细胞胆红素储存：增加；肝细胞胆红素排泄：增加；胆红素结合：正常"
+    },
+    "E": {
+      "en": "Hepatocyte bilirubin storage: Increased; Hepatocyte bilirubin excretion: Normal; Bilirubin conjugation: Decreased",
+      "zh": "肝细胞胆红素储存：增加；肝细胞胆红素排泄：正常；胆红素结合：减少"
+    },
+    "F": {
+      "en": "Hepatocyte bilirubin storage: Normal; Hepatocyte bilirubin excretion: Normal; Bilirubin conjugation: Decreased",
+      "zh": "肝细胞胆红素储存：正常；肝细胞胆红素排泄：正常；胆红素结合：减少"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "This patient had self-resolving scleral icterus and isolated indirect hyperbilirubinemia associated with a period of stress. These findings are consistent with GILBERT SYNDROME, the most common inherited disorder of bilirubin metabolism.\n\nNormal bilirubin metabolism begins with hepatic uptake of unconjugated bilirubin produced from red blood cell turnover. Within the liver, UDP glucuronosyltransferase conjugates bilirubin with glucuronic acid, after which conjugated bilirubin is excreted into bile canaliculi.\n\nIn Gilbert syndrome, a genetic mutation results in reduced enzymatic activity of UDP glucuronosyltransferase and therefore decreased bilirubin conjugation (Choices B and D). Triggers associated with increased bilirubin production (eg, stress, illness, hemolysis) result in episodic exacerbations of indirect hyperbilirubinemia, as seen in this patient. Because bilirubin excretion into the bile duct is normal in Gilbert syndrome, hepatocyte bilirubin storage is also normal, as is liver histology (Choices A and E).\n\nNotably, impaired bilirubin conjugation also occurs in Crigler-Najjar syndrome, but patients typically have severe, chronic hyperbilirubinemia that begins in the neonatal period and can be associated with bilirubin-induced neurologic dysfunction.\n\n(Choice C) Dubin-Johnson syndrome is a benign, inherited disorder of bilirubin metabolism characterized by defective hepatic excretion of bilirubin into the biliary system. Bilirubin conjugation is normal, but defective excretion results in increased hepatocyte storage of bilirubin, resulting in dense liver pigmentation. Although patients often have recurrent episodes of scleral icterus, elevated direct bilirubin is expected due to reflux of conjugated bilirubin back into the plasma.\n\nEducational objective:\nGilbert syndrome is characterized by indirect hyperbilirubinemia due to decreased bilirubin conjugation. Patients have recurrent, self-resolving episodes of scleral icterus and jaundice triggered by stress. {{exhibit_2}}",
+    "zh": "该患者有自限性巩膜黄疸和与一段时间的压力相关的孤立性间接高胆红素血症。这些发现与吉尔伯特综合征一致，吉尔伯特综合征是最常见的胆红素代谢遗传性疾病。\n\n正常的胆红素代谢始于肝脏摄取由红细胞更新产生的非结合胆红素。在肝脏内，尿苷二磷酸葡萄糖醛酸转移酶（UDP glucuronosyltransferase）将胆红素与葡萄糖醛酸结合，然后结合胆红素被排泄到胆小管中。\n\n在吉尔伯特综合征中，基因突变导致UDP葡糖醛酸转移酶的酶活性降低，因此胆红素结合减少（选项B和D）。与胆红素产生增加相关的诱因（例如，压力、疾病、溶血）会导致间接高胆红素血症的阵发性加重，如该患者所见。由于吉尔伯特综合征患者的胆红素排泄到胆管中是正常的，因此肝细胞胆红素储存也是正常的，肝脏组织学也是如此（选项A和E）。\n\n值得注意的是，Crigler-Najjar综合征也会出现胆红素结合受损，但患者通常会出现严重的、慢性的高胆红素血症，这种高胆红素血症始于新生儿期，并可能与胆红素引起的神经功能障碍有关。\n\n（选项C）Dubin-Johnson综合征是一种良性的、遗传性的胆红素代谢疾病，其特征是肝脏将胆红素排泄到胆道系统出现缺陷。胆红素结合是正常的，但排泄缺陷导致肝细胞储存胆红素增加，导致肝脏色素沉着。尽管患者经常出现复发性巩膜黄疸，但由于结合胆红素反流入血浆，预计直接胆红素会升高。\n\n教育目标：\n吉尔伯特综合征的特征是由于胆红素结合减少导致的间接高胆红素血症。患者会因压力而出现复发性、自限性巩膜黄疸和黄疸。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Gilbert syndrome, an inherited disorder of bilirubin metabolism characterized by decreased bilirubin conjugation leading to indirect hyperbilirubinemia. It also tests the ability to differentiate Gilbert syndrome from other causes of hyperbilirubinemia.\n\nTo solve this question, recognize the clinical presentation of Gilbert syndrome (mild, self-resolving jaundice triggered by stress) and understand the underlying pathophysiology (decreased UDP glucuronosyltransferase activity). Eliminate options that do not align with the normal hepatocyte bilirubin storage and excretion in Gilbert syndrome.",
+    "zh": "此题考察对吉尔伯特综合征的了解，吉尔伯特综合征是一种胆红素代谢遗传性疾病，其特征是胆红素结合减少导致间接高胆红素血症。同时也考察了区分吉尔伯特综合征与其他高胆红素血症病因的能力。\n\n要解决这个问题，需要认识到吉尔伯特综合征的临床表现（由压力触发的轻度、自限性黄疸）并了解其潜在的病理生理学（UDP葡糖醛酸转移酶活性降低）。排除与吉尔伯特综合征中正常的肝细胞胆红素储存和排泄不一致的选项。"
+  },
+  "tags": "Gilbert syndrome; Hyperbilirubinemia; Bilirubin conjugation; UDP glucuronosyltransferase; Liver; Gastroenterology",
+  "category": "GIT",
+  "question_id": "21115",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\21115",
+  "extracted_at": "2025-11-05T14:31:23.083727",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:55:07.227359",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

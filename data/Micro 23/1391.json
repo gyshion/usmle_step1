@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 54-year-old man comes to the emergency department due to fever, chills, and malaise over the past day. His other medical problems include recently diagnosed Hodgkin disease. Temperature is 39.4 C (103 F), blood pressure is 102/61 mm Hg, and pulse is 114/min. The patient appears ill. Blood cultures grow motile gram-positive rods that produce a very narrow zone of beta hemolysis on blood agar. The bacteria are also found to grow well at refrigerated temperature.",
+    "zh": "一名54岁男性因发热、寒战和过去一天出现的不适症状来到急诊科。他的其他疾病包括最近诊断出的霍奇金病。体温39.4°C（103°F），血压102/61 mmHg，脉搏114次/分。患者看起来不适。血培养显示可运动的革兰氏阳性杆菌，在血琼脂上产生非常狭窄的β溶血环。还发现细菌在冷藏温度下生长良好。"
+  },
+  "question": {
+    "en": "Which of the following processes is most important for eliminating these bacteria from the body?",
+    "zh": "以下哪种过程对于从体内清除这些细菌最重要？"
+  },
+  "options": {
+    "A": {
+      "en": "Cell-mediated immunity",
+      "zh": "细胞介导的免疫"
+    },
+    "B": {
+      "en": "Eosinophil action",
+      "zh": "嗜酸性粒细胞的作用"
+    },
+    "C": {
+      "en": "Immunoglobulin secretion",
+      "zh": "免疫球蛋白分泌"
+    },
+    "D": {
+      "en": "Mast cell activation",
+      "zh": "肥大细胞活化"
+    },
+    "E": {
+      "en": "Terminal complement cascade",
+      "zh": "末端补体级联反应"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Listeria monocytogenes is a facultative intracellular, gram-positive rod that produces a very narrow zone of beta hemolysis on blood agar (similar to group B Streptococcus [Streptococcus agalactiae]). Listeria is immotile at body temperature but demonstrates tumbling motility at room temperature. The pathogen is also distinguished by an ability to multiply at refrigerated temperatures (cold enrichment), which is one reason Listeria is an important cause of foodborne illness (eg, refrigerated soft cheese, meats, unpasteurized milk).\n\nThe elimination of intracellular pathogens is largely reliant on the cell-mediated immune response as bacteria within cells are protected from circulating immune factors (eg, antibodies, complement). Cells infected by intracellular bacteria display bacterial protein fragments on their surface, which trigger cell lysis by cytotoxic T cells. This releases the organism from the protected intracellular space and exposes it to phagocytosis by macrophages. Although intracellular pathogens can often replicate within inactivated macrophages due to virulence factors that prevent phagolysosome destruction, cytotoxic T-cells release interferon gamma to activate macrophages leading to the formation of fully mature (acidified) phagolysosomes capable of destroying the bacteria.\n\nAs the elimination of Listeria is reliant on the cell mediated immune response, patients with impaired cell-mediated immunity are at greatest risk for invasive Listeria infections (eg, sepsis, meningitis), particularly those at the extremes of age (ie, neonates, elderly) or patients who are immunosuppressed (eg, Hodgkin disease, AIDS) or pregnant.\n\n(Choice B) Eosinophils are a component of the innate immune system and are tasked primarily with the eradication of parasitic infections (eg, helminths). Eosinophils play a minor role in the phagocytosis and destruction of intracellular bacteria.\n\n(Choice C) The humoral immune system secretes immunoglobulins and is largely tasked with eliminating extracellular infections such as Streptococcus and Staphylococcus. This system is not able to effectively target intracellular bacteria as immunoglobulins cannot access the intracellular space.\n\n(Choice D) Mast cells contribute to defense against parasites and play an important role in allergic responses, particularly immediate hypersensitivity reactions; they do not confer immunity to intracellular pathogens.\n\n(Choice E) The complement system is part of the innate immune system and aids in the opsonization and destruction of bacteria. The terminal complement components (eg, C5b-C9) create a membrane attack complex to lyse bacteria and are particularly important against Neisseria infections.\n\nEducational objective:\nListeria monocytogenes is a facultative, intracellular, gram-positive rod that produces a very narrow zone of beta hemolysis on blood agar, shows tumbling motility at room temperature, and can grow at refrigerated temperatures. Intracellular pathogens such as Listeria are largely eliminated by the cell-mediated immune response (eg, T-cells, macrophages, cytokines). Patients with impaired cell-mediated immunity are at risk for invasive Listeria infections.",
+    "zh": "单核细胞增生李斯特菌（Listeria monocytogenes）是一种兼性细胞内革兰氏阳性杆菌，在血琼脂上产生非常狭窄的β溶血环（类似于B群链球菌[无乳链球菌]）。李斯特菌在体温下不运动，但在室温下表现出翻滚运动。该病原体还具有在冷藏温度下增殖的能力（冷富集），这也是李斯特菌是食源性疾病（如冷藏软奶酪、肉类、未经巴氏消毒的牛奶）的重要原因之一。\n\n细胞内病原体的清除主要依赖于细胞介导的免疫反应，因为细胞内的细菌受到循环免疫因子（如抗体、补体）的保护。被细胞内细菌感染的细胞在其表面展示细菌蛋白片段，这些片段触发细胞毒性T细胞的细胞溶解。这使得病原体从受保护的细胞内空间释放出来，并暴露于巨噬细胞的吞噬作用。尽管由于阻止吞噬溶酶体破坏的毒力因子，细胞内病原体通常可以在失活的巨噬细胞内复制，但细胞毒性T细胞会释放干扰素γ以激活巨噬细胞，从而导致能够破坏细菌的完全成熟（酸化）吞噬溶酶体的形成。\n\n由于李斯特菌的清除依赖于细胞介导的免疫反应，细胞介导的免疫功能受损的患者感染侵袭性李斯特菌的风险最高（例如，败血症、脑膜炎），尤其是年龄极端的人群（即新生儿、老年人）或免疫抑制患者（例如，霍奇金病、艾滋病）或孕妇。\n\n（选项B）嗜酸性粒细胞是先天免疫系统的一个组成部分，主要任务是根除寄生虫感染（如蠕虫）。嗜酸性粒细胞在吞噬和破坏细胞内细菌方面作用较小。\n\n（选项C）体液免疫系统分泌免疫球蛋白，主要任务是消除细胞外感染，如链球菌和葡萄球菌。该系统无法有效靶向细胞内细菌，因为免疫球蛋白无法进入细胞内空间。\n\n（选项D）肥大细胞有助于防御寄生虫，并在过敏反应中发挥重要作用，特别是速发型超敏反应；它们不会赋予对细胞内病原体的免疫力。\n\n（选项E）补体系统是先天免疫系统的一部分，有助于细菌的调理和破坏。末端补体成分（例如C5b-C9）创建膜攻击复合物以裂解细菌，对奈瑟菌感染尤其重要。\n\n教学目标：\n单核细胞增生李斯特菌是一种兼性细胞内革兰氏阳性杆菌，在血琼脂上产生非常狭窄的β溶血环，在室温下表现出翻滚运动，并且可以在冷藏温度下生长。细胞内病原体（如李斯特菌）主要通过细胞介导的免疫反应（例如，T细胞、巨噬细胞、细胞因子）消除。细胞介导的免疫功能受损的患者有发生侵袭性李斯特菌感染的风险。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the immune response to intracellular pathogens, specifically Listeria monocytogenes. It assesses the importance of cell-mediated immunity in eliminating intracellular bacteria.\n\nThe key to solving this question is recognizing that Listeria is an intracellular pathogen. Therefore, the immune response that targets cells infected with intracellular pathogens, namely cell-mediated immunity involving T cells and macrophages, is the most important mechanism for eliminating the bacteria.",
+    "zh": "这个问题考察了对细胞内病原体的免疫反应的知识，特别是单核细胞增生李斯特菌。它评估了细胞介导的免疫在消除细胞内细菌中的重要性。\n\n解决这个问题的关键是认识到李斯特菌是一种细胞内病原体。因此，靶向被细胞内病原体感染的细胞的免疫反应，即涉及T细胞和巨噬细胞的细胞介导的免疫，是消除细菌的最重要机制。"
+  },
+  "tags": "Listeria monocytogenes; Cell-mediated immunity; Intracellular pathogens; T cells; Macrophages; Infectious disease; Immunology; Hodgkin disease",
+  "category": "Micro",
+  "question_id": "1391",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1391",
+  "extracted_at": "2025-11-05T14:53:19.071472",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:06:57.962553",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

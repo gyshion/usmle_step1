@@ -1,0 +1,55 @@
+{
+  "question_stem": {
+    "en": "Researchers studying the effects of hormone replacement therapy (HRT) on the risk of myocardial infarction (MI) among postmenopausal women calculate the relative risk (RR) of MI to be 1.30 (p = 0.07) among women who are taking HRT compared to those who are not. The researchers conclude that there is no statistically significant increased risk of MI with HRT (based on a cutoff of α = 0.05). Subsequently, the results of a meta-analysis determine that there actually is an increased risk of MI, with an overall RR = 1.32 (p = 0.03) among postmenopausal women who are taking HRT compared to those who are not.",
+    "zh": "研究人员研究激素替代疗法 (HRT) 对绝经后妇女心肌梗死 (MI) 风险的影响，计算出服用 HRT 的女性与未服用 HRT 的女性相比，MI 的相对风险 (RR) 为 1.30 (p = 0.07)。研究人员得出结论，HRT 并未显著增加 MI 的风险（基于 α = 0.05 的截止值）。随后，一项荟萃分析的结果表明，实际上服用 HRT 的绝经后妇女与未服用 HRT 的女性相比，MI 的风险有所增加，总 RR = 1.32 (p = 0.03)。"
+  },
+  "question": {
+    "en": "Which of the following was the most likely problem in the first study?",
+    "zh": "以下哪项是第一项研究中最可能出现的问题？"
+  },
+  "options": {
+    "A": {
+      "en": "Berkson's bias",
+      "zh": "伯克森偏倚"
+    },
+    "B": {
+      "en": "Placebo effect",
+      "zh": "安慰剂效应"
+    },
+    "C": {
+      "en": "Poor blinding",
+      "zh": "差的盲法"
+    },
+    "D": {
+      "en": "Researcher expectancy",
+      "zh": "研究者期望"
+    },
+    "E": {
+      "en": "Sample size",
+      "zh": "样本量"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The first study and the meta-analysis (combined results of several studies) had similar outcomes in terms of relative risk (RR); however, they arrived at different conclusions because the p-value reached statistical significance (p < α = 0.05) in the meta-analysis but not in the first study. The most probable reason behind this is that the larger meta-analysis reflects the true status (increased risk of myocardial infarction [MI] with hormone replacement therapy [HRT]), whereas the first study result represented a type II (β) error (falsely concluded there was no increased risk of MI with HRT).\n\nThe probability of a type II (β) error is related to how much power a study has to detect a difference when a difference actually exists (power = 1 – β). Sample size and power are related in that studies with a larger sample size have greater power to detect differences if these exist. The small sample size of the first study made it underpowered to detect a difference in outcome between patients who were treated with HRT and those who were not.\n\nThe sample size did not change the value of α (typically set at 0.05). However, because the first study was underpowered, the p-value obtained was not statistically significant (p = 0.07 > α = 0.05), leading to a false conclusion of no increased risk of MI with HRT.\n\n(Choice A) Berkson's bias refers to selection bias that can be created by selecting hospitalized patients as the control group.\n\n(Choice B) Placebo effect refers to patients' expectations affecting an outcome. However, in this case, the control group is taking neither HRT nor a placebo medication.\n\n(Choices C and D) Given that the RR obtained in the first study was similar to the one obtained in the meta-analysis (1.32 versus 1.30), it is unlikely that design flaws (eg, poor blinding, researcher expectancy) were present in the study.\n\nEducational objective:\nA study's power increases as its sample size increases. Therefore, the larger the sample, the greater the ability of a study to detect a difference when one truly exists.",
+    "zh": "第一项研究和荟萃分析（几项研究的综合结果）在相对风险 (RR) 方面得出了相似的结果；然而，它们得出的结论不同，因为在荟萃分析中，p 值达到了统计学意义 (p < α = 0.05)，但在第一项研究中则没有。这背后的最可能的原因是，较大的荟萃分析反映了真实情况（激素替代疗法 [HRT] 增加心肌梗死 [MI] 的风险），而第一项研究的结果代表了 II 型 (β) 错误（错误地得出结论，认为 HRT 并未增加 MI 的风险）。\n\nII 型 (β) 错误的概率与一项研究在实际存在差异时检测差异的能力有关（效力 = 1 – β）。样本量和效力相关，因为样本量较大的研究在存在差异时具有更大的检测差异的能力。第一项研究的样本量较小，使其检测接受 HRT 治疗的患者与未接受 HRT 治疗的患者之间的结果差异的效力不足。\n\n样本量并未改变 α 的值（通常设置为 0.05）。然而，由于第一项研究的效力不足，获得的 p 值不具有统计学意义 (p = 0.07 > α = 0.05)，导致错误地得出 HRT 未增加 MI 风险的结论。\n\n（选项 A）伯克森偏倚是指通过选择住院患者作为对照组而产生的选择偏倚。\n\n（选项 B）安慰剂效应是指患者的期望影响结果。然而，在这种情况下，对照组既未服用 HRT 也未服用安慰剂药物。\n\n（选项 C 和 D）鉴于第一项研究中获得的 RR 与荟萃分析中获得的 RR 相似（1.32 对比 1.30），研究中不太可能存在设计缺陷（例如，差的盲法、研究者期望）。\n\n教育目标：\n一项研究的效力随着其样本量的增加而增加。因此，样本越大，研究检测到真正存在的差异的能力就越大。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of statistical power, Type II errors (false negatives), and the influence of sample size on study outcomes. It also assesses understanding of study design and the interpretation of p-values in medical research.\n\nTo solve this question, recognize that the study results are similar but reach different conclusions. Consider factors impacting statistical significance, particularly sample size. Eliminate options related to bias or design flaws that wouldn't explain the discrepancy between the study and meta-analysis results.",
+    "zh": "此问题测试对统计效力、II 型错误（假阴性）以及样本量对研究结果的影响的知识。它还评估对研究设计和医学研究中 p 值解释的理解。\n\n要解决这个问题，需要认识到研究结果相似但得出不同的结论。考虑影响统计学意义的因素，尤其是样本量。排除与偏倚或设计缺陷相关的选项，这些选项无法解释研究和荟萃分析结果之间的差异。"
+  },
+  "tags": "Statistical power; Type II error; Sample size; Meta-analysis; Hormone replacement therapy; Myocardial infarction; Research methodology; P-value; Statistical significance",
+  "category": "Bio",
+  "question_id": "1303",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1303",
+  "extracted_at": "2025-11-05T10:32:25.729232",
+  "translated_at": "2025-11-07T16:20:43.799646",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

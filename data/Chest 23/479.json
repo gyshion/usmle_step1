@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "An autopsy is performed on a patient who died of respiratory failure, and a sample of the patient's lung tissue is obtained. Analysis of several large, cuboidal alveolar cells under electron microscopy reveals decreased numbers of granules containing parallel stacks of membrane lamellae. {{exhibit_1}}",
+    "zh": "对一名死于呼吸衰竭的患者进行尸检，并获取患者的肺组织样本。在电子显微镜下分析几个大的立方状肺泡细胞，显示含有平行膜板堆叠的颗粒数量减少。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following pathological processes is most likely associated with this patient's findings?",
+    "zh": "以下哪种病理过程最有可能与该患者的发现相关？"
+  },
+  "options": {
+    "A": {
+      "en": "Alveolar wall destruction by protease",
+      "zh": "蛋白酶对肺泡壁的破坏"
+    },
+    "B": {
+      "en": "Bronchial smooth muscle hyperresponsiveness",
+      "zh": "支气管平滑肌过度反应"
+    },
+    "C": {
+      "en": "Excessive airway mucus production",
+      "zh": "气道粘液过度分泌"
+    },
+    "D": {
+      "en": "Increased alveolar tendency to collapse",
+      "zh": "肺泡塌陷的倾向增加"
+    },
+    "E": {
+      "en": "Pulmonary arterial occlusion by thromboembolism",
+      "zh": "血栓栓塞引起的肺动脉闭塞"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with respiratory failure was found to have decreased LAMELLAR BODIES, which are organelles with concentric sheets of lipid membrane, within type II pneumocytes (cuboidal alveolar cells). Normally, type II pneumocytes use lamellar bodies to store surfactant, a substance composed of proteins and phospholipids that decreases alveolar surface tension {{exhibit_2}} and facilitates lung expansion during respiration. This lipoprotein complex is released from the lamellar bodies by exocytosis into the alveolar spaces, where the lamellar contents unravel into a structured array called tubular myelin. This lattice network adsorbs to the air-liquid interface of the alveoli and spreads along the alveolar lining, forming a surfactant film. As the film degrades, surfactant is recycled back into type II pneumocytes by endocytosis for reprocessing.\n\nSurfactant and the number of lamellar bodies in the fetus rise during the late second and the third trimesters. Therefore, a low lamellar body count reflects surfactant deficiency and lung immaturity, which typically occurs in premature infants with NEONATAL RESPIRATORY DISTRESS SYNDROME. In this condition, alveolar surface tension increases and alveoli collapse. Diffuse atelectasis can lead to respiratory failure within minutes to hours after birth and, in severe cases, death.\n\n(Choice A) Emphysema is caused by alveolar wall destruction due to excessive activity of intra-alveolar proteases released by neutrophils and alveolar macrophages. Decreased lamellar bodies within type II pneumocytes would not be seen.\n\n(Choice B) Asthma is characterized by bronchial smooth muscle hyperresponsiveness, and histology typically shows inflammatory cell (eg, eosinophil) infiltration and bronchial smooth muscle hypertrophy. A deficiency of lamellar bodies and surfactant does not cause bronchoconstriction.\n\n(Choice C) Chronic bronchitis manifests as excessive mucus production in the airways and increased inflammatory cells in the submucosa; lamellar body counts would not be affected.\n\n(Choice E) A pulmonary embolism appears on histology as organized layers of red cells, platelets, and fibrin within pulmonary arterial vasculature that is surrounded by ischemic lung changes. Decreased lamellar bodies within type 2 pneumocytes would not be seen. {{exhibit_3}} {{exhibit_4}}\n\nEducational objective:\nLamellar bodies of type II pneumocytes store and release surfactant, which decreases alveolar surface tension and facilitates lung expansion. A low lamellar body count reflects surfactant deficiency and lung immaturity, as in neonatal respiratory distress syndrome, which results in alveolar collapse and diffuse atelectasis.",
+    "zh": "这名患有呼吸衰竭的患者被发现，在II型肺泡细胞（立方状肺泡细胞）内，LAMMELER 小体减少，LAMELLAR 小体是具有同心脂质膜片的细胞器。通常，II 型肺泡细胞使用 lamellar 小体储存表面活性剂，这是一种由蛋白质和磷脂组成的物质，可降低肺泡表面张力{{exhibit_2}}并促进呼吸期间的肺扩张。这种脂蛋白复合物通过胞吐作用从 lamellar 小体释放到肺泡腔内，在那里 lamellar 内容物展开成称为管状髓磷脂的结构阵列。这个格子网络吸附到肺泡的气液界面上，并沿着肺泡内壁扩散，形成表面活性剂膜。当薄膜降解时，表面活性剂通过内吞作用被循环回 II 型肺泡细胞进行再加工。\n\n表面活性剂和胎儿的 lamellar 小体数量在妊娠的后半期和第三个月上升。因此，lamellar 小体数量低反映了表面活性剂缺乏和肺部不成熟，这通常发生在患有新生儿呼吸窘迫综合征的早产儿中。在这种情况下，肺泡表面张力增加，肺泡塌陷。弥漫性肺不张可在出生后几分钟到几小时内导致呼吸衰竭，在严重的情况下，会导致死亡。\n\n(选项A) 肺气肿是由中性粒细胞和肺泡巨噬细胞释放的肺泡内蛋白酶过度活性引起的肺泡壁破坏。不会观察到 II 型肺泡细胞内的 lamellar 小体减少。\n\n(选项 B) 哮喘的特征是支气管平滑肌过度反应，组织学通常显示炎症细胞（例如嗜酸性粒细胞）浸润和支气管平滑肌肥大。缺乏 lamellar 小体和表面活性剂不会引起支气管收缩。\n\n(选项 C) 慢性支气管炎表现为气道中粘液过度产生以及黏膜下层炎症细胞增多；lamellar 小体计数不会受到影响。\n\n(选项 E) 肺栓塞在组织学上表现为肺动脉血管系统中红细胞、血小板和纤维蛋白的有组织层，周围是缺血性肺部改变。不会观察到 II 型肺泡细胞内的 lamellar 小体减少。{{exhibit_3}} {{exhibit_4}}\n\n教育目标：\nII 型肺泡细胞的 lamellar 小体储存和释放表面活性剂，这降低了肺泡表面张力并促进肺扩张。lamellar 小体计数低反映了表面活性剂缺乏和肺部不成熟，如新生儿呼吸窘迫综合征，这会导致肺泡塌陷和弥漫性肺不张。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the function of lamellar bodies in type II pneumocytes and the consequences of surfactant deficiency, particularly in the context of neonatal respiratory distress syndrome. It requires understanding the role of surfactant in reducing alveolar surface tension and preventing alveolar collapse. \n\nThe key to solving this question is recognizing that decreased lamellar bodies indicate surfactant deficiency, which leads to increased alveolar surface tension and a tendency for alveolar collapse. By linking the histological finding to its physiological consequence, the correct answer can be identified.",
+    "zh": "此题考察对 II 型肺泡细胞中 lamellar 小体功能的理解，以及表面活性剂缺乏的后果，特别是针对新生儿呼吸窘迫综合征。它需要理解表面活性剂在降低肺泡表面张力和防止肺泡塌陷中的作用。\n\n解决此题的关键是认识到 lamellar 小体减少表明表面活性剂缺乏，这会导致肺泡表面张力增加和肺泡塌陷的倾向。通过将组织学发现与其生理学后果联系起来，可以确定正确答案。"
+  },
+  "tags": "Lamellar bodies; Surfactant; Type II pneumocytes; Neonatal respiratory distress syndrome; Alveolar collapse; Respiratory failure; Lung pathology; Electron microscopy",
+  "category": "Chest",
+  "question_id": "479",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\479",
+  "extracted_at": "2025-11-05T11:45:34.846509",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:39:50.964201",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

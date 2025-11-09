@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 78-year-old man is admitted to the hospital due to fatigue, orthopnea, and exertional dyspnea. The patient takes no medications and has not seen a physician in many years. He is a lifelong nonsmoker. Blood pressure is 110/60 mm Hg and pulse is 64/min. Examination reveals bibasilar crackles, elevated jugular venous pressure, and bilateral lower extremity pitting edema. Left ventricular diastolic pressure-volume curve is shown in the exhibit {{exhibit_1}} (purple curve).",
+    "zh": "一名78岁男性因疲劳、端坐呼吸和劳力性呼吸困难入院。患者未服用任何药物，多年未就医。他终生不吸烟。血压为110/60 mmHg，脉搏为64次/分钟。体格检查显示双肺底部啰音、颈静脉压升高和双下肢凹陷性水肿。左心室舒张压-容积曲线显示在附图{{exhibit_1}}中（紫色曲线）。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's condition?",
+    "zh": "以下哪项最可能是该患者病情的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Alcohol use",
+      "zh": "饮酒"
+    },
+    "B": {
+      "en": "Doxorubicin therapy",
+      "zh": "多柔比星治疗"
+    },
+    "C": {
+      "en": "Selenium deficiency",
+      "zh": "硒缺乏症"
+    },
+    "D": {
+      "en": "Transthyretin deposition",
+      "zh": "转甲状腺素沉积"
+    },
+    "E": {
+      "en": "Viral myocarditis",
+      "zh": "病毒性心肌炎"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's fatigue, exertional dyspnea, and orthopnea as well as lung crackles, jugular venous distension (JVD), and lower extremity edema on physical examination are consistent with decompensated heart failure. The left ventricular (LV) diastolic pressure-volume curve shows elevated pressure at any given LV volume. This finding indicates reduced LV compliance (i.e. diastolic dysfunction), as occurs in conditions causing heart failure with preserved ejection fraction (eg, hypertensive heart disease, restrictive cardiomyopathy).\n\nCardiac amyloidosis is a common cause of restrictive cardiomyopathy resulting from abnormal accumulation of amyloid proteins, particularly immunoglobulin light chains or transthyretin (protein carrier of thyroxine and retinol). Transthyretin amyloidosis most often affects the heart of elderly patients and lead to an infiltrative restrictive cardiomyopathy. The ventricular walls become thickened and stiff and unable to relax during diastole; higher pressures are required to fill the ventricle. Elevated hydrostatic pressure backs up into the lungs (pulmonary edema) and into the right side of the heart and systemic venous system (JVD and peripheral edema).\n\nLV contractility is intact with infiltrative restrictive cardiomyopathy (especially early in the disease process), but it can decrease as the disease progresses, eventually leading to LV cavity dilation and a picture consistent with dilated cardiomyopathy.\n\n(Choices A, B, C, and E) Excessive alcohol use, doxorubicin chemotherapy, selenium deficiency, and viral myocarditis are all potential causes of dilated cardiomyopathy; they do not cause restrictive cardiomyopathy. Dilated cardiomyopathy is characterized by LV cavity enlargement and reduced LV contractility leading to systolic dysfunction with reduced ejection fraction. LV wall compliance is typically normal or increased.\n\nEducational objective:\nReduced ventricular compliance is seen with restrictive cardiomyopathy and other causes of diastolic dysfunction and heart failure with preserved ejection fraction (eg, hypertensive heart disease). It involves ventricular wall thickening and/or stiffening that leads to increased diastolic filling pressure at any given ventricular volume.",
+    "zh": "该患者的疲劳、劳力性呼吸困难和端坐呼吸，以及体格检查中的肺部啰音、颈静脉扩张（JVD）和下肢水肿，与失代偿性心力衰竭一致。左心室（LV）舒张压-容积曲线显示在任何给定的LV容积下压力升高。这一发现表明LV顺应性降低（即舒张功能障碍），这种情况发生在导致射血分数保留性心力衰竭的疾病中（例如，高血压性心脏病、限制性心肌病）。\n\n心脏淀粉样变是限制性心肌病的一个常见原因，由淀粉样蛋白的异常积累引起，特别是免疫球蛋白轻链或转甲状腺素（甲状腺素和视黄醇的蛋白载体）。转甲状腺素淀粉样变最常影响老年患者的心脏，并导致浸润性限制性心肌病。心室壁增厚且僵硬，在舒张期无法松弛；需要更高的压力来填充心室。静水压升高会回流到肺部（肺水肿）以及心脏右侧和体循环静脉系统（JVD和周围水肿）。\n\n浸润性限制性心肌病时，LV收缩力是完整的（尤其是在疾病早期），但随着疾病的进展，它可能会下降，最终导致LV腔扩张，并出现与扩张型心肌病一致的图像。\n\n（选项A、B、C和E）过度饮酒、多柔比星化疗、硒缺乏症和病毒性心肌炎均是扩张型心肌病的潜在原因；它们不会导致限制性心肌病。扩张型心肌病的特征是LV腔增大和LV收缩力降低，导致收缩功能障碍，射血分数降低。LV壁顺应性通常正常或增加。\n\n教育目标：\n在限制性心肌病以及其他导致舒张功能障碍和射血分数保留性心力衰竭的原因（例如，高血压性心脏病）中可见心室顺应性降低。它涉及心室壁增厚和/或僵硬，导致在任何给定的心室容积下舒张充盈压升高。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of heart failure with preserved ejection fraction (HFpEF) due to restrictive cardiomyopathy, specifically transthyretin amyloidosis, and its impact on ventricular compliance and diastolic function. It requires recognizing the clinical presentation of HFpEF and associating it with the characteristic diastolic dysfunction pattern.\n\nTo solve this question, identify the signs and symptoms of heart failure, recognize the diastolic dysfunction pattern indicated by the pressure-volume curve {{exhibit_2}}, and associate it with the most likely cause of restrictive cardiomyopathy in an elderly patient, which is transthyretin amyloidosis. Rule out causes of dilated cardiomyopathy.",
+    "zh": "此题考察对由于限制性心肌病导致的射血分数保留性心力衰竭（HFpEF），特别是转甲状腺素淀粉样变，及其对心室顺应性和舒张功能的影响的认识。它要求识别HFpEF的临床表现，并将其与特征性的舒张功能障碍模式联系起来。\n\n要解决这个问题，需要识别心力衰竭的体征和症状，识别由压力-容积曲线{{exhibit_2}}指示的舒张功能障碍模式，并将其与老年患者限制性心肌病的最可能病因（即转甲状腺素淀粉样变）联系起来。排除扩张型心肌病的病因。"
+  },
+  "tags": "Heart failure; Restrictive cardiomyopathy; Transthyretin amyloidosis; Diastolic dysfunction; HFpEF; Cardiology; Geriatrics; Amyloidosis; Ventricular compliance; Pressure-volume loop {{exhibit_3}}",
+  "category": "CVS",
+  "question_id": "93",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\93",
+  "extracted_at": "2025-11-05T12:19:55.785845",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:32:31.474503",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old woman comes to the office due to long-standing anxiety. She reports being excessively worried about everyday events and constantly feeling tense and unable to relax. The patient is diagnosed with generalized anxiety disorder and treated with a selective serotonin reuptake inhibitor. She returns to the office for a 2-month follow-up and reports that her overall anxiety has improved, but she continues to have periods of increased anxiety before bedtime that keep her awake at night. The patient works as a 911 emergency dispatch operator and would be willing to add a medication at bedtime but needs to be \"clearheaded\" for work.",
+    "zh": "一名32岁的女性因长期焦虑来到诊所就诊。她报告说，她对日常琐事过度担忧，并且总是感到紧张，无法放松。该患者被诊断为广泛性焦虑症，并接受了选择性5-羟色胺再摄取抑制剂的治疗。她在2个月的随访中回到诊所，报告说她的整体焦虑有所改善，但她仍然会在睡前出现焦虑加剧的情况，导致她整夜无法入睡。该患者是一名911紧急调度员，她愿意在睡前加用药物，但需要保持工作时的“头脑清醒”。"
+  },
+  "question": {
+    "en": "Which of the following medications is most appropriate for this patient's condition?",
+    "zh": "以下哪种药物最适合该患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Chlordiazepoxide",
+      "zh": "氯氮卓"
+    },
+    "B": {
+      "en": "Diazepam",
+      "zh": "地西泮"
+    },
+    "C": {
+      "en": "Flurazepam",
+      "zh": "氟西泮"
+    },
+    "D": {
+      "en": "Lorazepam",
+      "zh": "劳拉西泮"
+    },
+    "E": {
+      "en": "Quetiapine",
+      "zh": "喹硫平"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The patient has generalized anxiety disorder (GAD) and is experiencing breakthrough anxiety and insomnia before bedtime, despite treatment with an SSRI. She requires a medication that will help her sleep but will not cause significant daytime impairment, as she works as a 911 emergency dispatch operator. Benzodiazepines are effective for short-term management of anxiety and insomnia. The key to selecting the appropriate benzodiazepine in this case is to choose one with an intermediate half-life to minimize residual daytime sedation and cognitive impairment.\n\n(Choice A) Chlordiazepoxide is a long-acting benzodiazepine with a half-life of 10-20 hours (metabolite demethyldiazepam has a half-life of 40-250 hours). Its prolonged duration of action increases the risk of daytime sedation and cognitive impairment, making it unsuitable for this patient's occupation.\n\n(Choice B) Diazepam is also a long-acting benzodiazepine with a half-life of 20-100 hours (metabolite demethyldiazepam has a half-life of 40-250 hours). Similar to chlordiazepoxide, its long duration of action poses a risk of residual daytime effects.\n\n(Choice C) Flurazepam is a long-acting benzodiazepine with a half-life of 2-3 hours, but its active metabolite, N-desalkylflurazepam, has a very long half-life of 40-250 hours. This leads to accumulation and prolonged effects, increasing the risk of daytime impairment.\n\n(Choice D) Lorazepam is an intermediate-acting benzodiazepine with a half-life of 10-20 hours. It is metabolized by glucuronidation, which is less affected by liver enzyme induction or inhibition compared to oxidation pathways used by diazepam and chlordiazepoxide. Its intermediate half-life allows for effective management of nighttime anxiety and insomnia with a lower risk of residual daytime sedation and cognitive impairment, making it ideal for a patient who needs to be \"clearheaded\" for work. The table shows that lorazepam has an intermediate half-life (6-50 hr).\n\n(Choice E) Quetiapine is an atypical antipsychotic. While it can be used off-label for insomnia, it is associated with significant side effects such as sedation, weight gain, metabolic syndrome, and extrapyramidal symptoms. It is not a first-line agent for anxiety-related insomnia in this context and carries a higher risk profile than a short- to intermediate-acting benzodiazepine.\n\nEducational objective:\nWhen benzodiazepines are used in the treatment of anxiety, drug selection should consider the medication's duration of action. Short- to intermediate-acting benzodiazepines (eg, lorazepam) are preferred in situations in which prolonged side effects of sedation and cognitive impairment must be minimized.",
+    "zh": "该患者患有广泛性焦虑症(GAD)，尽管接受了SSRI治疗，但在睡前仍会经历突破性焦虑和失眠。她需要一种有助于睡眠但不会引起明显的白天损害的药物，因为她是一名911紧急调度员。苯二氮卓类药物对焦虑和失眠的短期管理有效。在这种情况下选择合适的苯二氮卓类药物的关键是选择半衰期为中间的药物，以最大限度地减少残留的白天镇静和认知障碍。\n\n(选项 A) 氯氮卓是一种长效苯二氮卓类药物，半衰期为10-20小时（代谢物去甲基地西泮的半衰期为40-250小时）。其作用时间延长增加了白天镇静和认知障碍的风险，使其不适合该患者的职业。\n\n(选项 B) 地西泮也是一种长效苯二氮卓类药物，半衰期为20-100小时（代谢物去甲基地西泮的半衰期为40-250小时）。与氯氮卓类似，其作用时间长增加了残留的白天效应的风险。\n\n(选项 C) 氟西泮是一种长效苯二氮卓类药物，半衰期为2-3小时，但其活性代谢物N-去烷基氟西泮的半衰期非常长，为40-250小时。这会导致蓄积和作用时间延长，增加白天损害的风险。\n\n(选项 D) 劳拉西泮是一种中效苯二氮卓类药物，半衰期为10-20小时。它通过葡萄糖醛酸化代谢，与地西泮和氯氮卓使用的氧化途径相比，受肝酶诱导或抑制的影响较小。其中效半衰期允许有效管理夜间焦虑和失眠，同时降低残留的白天镇静和认知障碍的风险，这使其成为需要工作时“头脑清醒”的患者的理想选择。该表显示劳拉西泮具有中间半衰期（6-50小时）。\n\n(选项 E) 喹硫平是一种非典型抗精神病药。虽然它可以用于失眠的非标签适应症，但它与明显的副作用相关，例如镇静、体重增加、代谢综合征和锥体外系症状。在这种情况下，它不是焦虑相关性失眠的一线药物，并且比短效或中效苯二氮卓类药物具有更高的风险。\n\n教育目标：\n当苯二氮卓类药物用于治疗焦虑时，药物选择应考虑药物的作用时间。在必须最大限度地减少镇静和认知障碍的长期副作用的情况下，更倾向于使用短效或中效苯二氮卓类药物（例如，劳拉西泮）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of benzodiazepine pharmacokinetics and their appropriate use in managing anxiety and insomnia, particularly in patients with occupations requiring cognitive alertness. It emphasizes the importance of selecting a medication with an appropriate half-life to balance efficacy and minimize side effects.\n\nThe approach to solving this question involves identifying the patient's specific needs (anxiety relief, improved sleep, daytime alertness) and then evaluating the pharmacokinetic profiles of the given medications. Understanding the classification of benzodiazepines based on their half-lives (short, intermediate, long) is crucial for determining which agent is least likely to cause residual daytime impairment.",
+    "zh": "这个问题测试了对苯二氮卓类药物药代动力学的理解及其在管理焦虑和失眠方面的适当应用，特别是在需要认知警觉的患者中。它强调选择具有适当半衰期的药物以平衡疗效并最大限度地减少副作用的重要性。\n\n解决此问题的步骤包括确定患者的特定需求（缓解焦虑、改善睡眠、白天保持警觉），然后评估给定药物的药代动力学特征。了解基于其半衰期的苯二氮卓类药物的分类（短效、中效、长效）对于确定哪种药物最不可能引起残留的白天损伤至关重要。"
+  },
+  "tags": "Generalized anxiety disorder; Benzodiazepines; Insomnia; Pharmacokinetics; Half-life; Lorazepam; Chlordiazepoxide; Diazepam; Flurazepam; Quetiapine; Psychopharmacology; Central nervous system",
+  "category": "Psychiatry",
+  "question_id": "1352",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\1352",
+  "extracted_at": "2025-11-05T19:48:53.419266",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:52:23.295951",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

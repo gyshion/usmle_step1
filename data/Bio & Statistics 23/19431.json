@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A study is conducted to assess whether quantitative measurement of heat shock protein 90 alpha (Hsp90α) in plasma can improve diagnostic accuracy and help monitor treatment response in liver cancer patients. A total of 300 individuals (100 liver cancer patients and 200 healthy controls) participate in the study. Analyses reveal that 90 of the liver cancer patients have an abnormally high plasma Hsp90α level and that 12 of the healthy controls have an abnormally high plasma Hsp90α level. An abnormally high plasma Hsp90α level indicates a positive test for liver cancer. Which of the following values best represents the specificity of this test?",
+    "zh": "进行一项研究，以评估血浆中热休克蛋白90α (Hsp90α) 的定量测量是否可以提高诊断准确性并帮助监测肝癌患者的治疗反应。共有300名个体（100名肝癌患者和200名健康对照者）参与了该研究。分析显示，90名肝癌患者的血浆Hsp90α水平异常高，12名健康对照者的血浆Hsp90α水平异常高。血浆Hsp90α水平异常高表明肝癌检测呈阳性。以下哪个值最能代表该测试的特异性？"
+  },
+  "question": {
+    "en": "Which of the following values best represents the specificity of this test?",
+    "zh": "以下哪个值最能代表该测试的特异性？"
+  },
+  "options": {
+    "A": {
+      "en": "6%",
+      "zh": "6%"
+    },
+    "B": {
+      "en": "10%",
+      "zh": "10%"
+    },
+    "C": {
+      "en": "33%",
+      "zh": "33%"
+    },
+    "D": {
+      "en": "90%",
+      "zh": "90%"
+    },
+    "E": {
+      "en": "94%",
+      "zh": "94%"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The specificity of a test refers to its ability to correctly identify individuals without the disease. Specificity is equal to the number of individuals who do not have the disease and who test negative (true negatives [TN]) divided by the total number of individuals without the disease (TN + false positives [FP]):\n\nSpecificity = TN / (TN + FP)\n\nIn this example, 12 out of 200 healthy controls had an abnormally high plasma heat shock protein 90 alpha (Hsp90α) level (ie, tested positive); therefore, FP = 12 and TN = 188 (ie, 200 – 12). Therefore, the specificity of the test is as follows:\n\nSpecificity = TN / (TN + FP) = 188 / (188 + 12) = 188 / 200 = 0.94 (or 94%)\n\n(Choice A) In this example, 6% is the false positive rate (FPR): FPR = FP / (TN + FP) = 12 / (188 + 12) = 12 / 200 = 0.06 (or 6%). FPR is the probability of a positive test in a patient without the disease (ie, FP); it is also the complement to specificity (ie, FPR = 1 – specificity = 1 – 0.94 = 0.06).\n\n(Choices B and D) The sensitivity of a test refers to its ability to correctly identify individuals with the disease. It is calculated as the number of individuals who have the disease and who test positive (true positives [TP]) divided by the total number of individuals with the disease (TP + false negatives [FN]): sensitivity = TP / (TP + FN). In this example, 90 of 100 liver cancer patients had an abnormally high plasma Hsp90α level (ie, tested positive); therefore, TP = 90 and FN = 10 (ie, 100 – 90). Accordingly, the sensitivity of the test is 90 / (90 + 10) = 90 / 100 = 0.90 (or 90%). Sensitivity is related to the false negative rate (FNR); FNR = 1 – sensitivity. FNR is the probability of a negative test result in a patient with the disease (ie, FN): FNR = FN / (TP + FN) = 10 / (10 + 90) = 10 / 100 = 0.10 (or 10%).\n\n(Choice C) In this example, 33% represents the proportion of study participants with liver cancer: 100 liver cancer patients / (100 liver cancer patients + 200 health controls) = 0.333 (or 33.3%).\n\nEducational objective: The specificity of a test is its ability to correctly identify individuals without the disease. Specificity can be calculated as follows:\n\nSpecificity = True negatives / (True negatives + False positives)",
+    "zh": "一项测试的特异性是指其正确识别没有患病个体的能力。特异性等于未患病且检测结果为阴性（真阴性 [TN]）的个体数量除以未患病个体的总数（TN + 假阳性 [FP]）：\n\n特异性 = TN / (TN + FP)\n\n在本例中，200名健康对照者中有12人的血浆热休克蛋白90α (Hsp90α) 水平异常高（即，检测结果为阳性）；因此，FP = 12，TN = 188（即，200 – 12）。因此，该测试的特异性如下：\n\n特异性 = TN / (TN + FP) = 188 / (188 + 12) = 188 / 200 = 0.94（或94%）\n\n（选项A）在本例中，6%是假阳性率 (FPR)：FPR = FP / (TN + FP) = 12 / (188 + 12) = 12 / 200 = 0.06（或6%）。FPR是指未患病患者检测结果为阳性的概率（即，FP）；它也是特异性的补数（即，FPR = 1 – 特异性 = 1 – 0.94 = 0.06）。\n\n（选项B和D）一项测试的敏感性是指其正确识别患病个体的能力。它计算为患病且检测结果为阳性的个体数量（真阳性 [TP]）除以患病个体的总数（TP + 假阴性 [FN]）：敏感性 = TP / (TP + FN)。在本例中，100名肝癌患者中有90人的血浆Hsp90α水平异常高（即，检测结果为阳性）；因此，TP = 90，FN = 10（即，100 – 90）。因此，该测试的敏感性为90 / (90 + 10) = 90 / 100 = 0.90（或90%）。敏感性与假阴性率 (FNR) 相关；FNR = 1 – 敏感性。FNR是指患病患者检测结果为阴性的概率（即，FN）：FNR = FN / (TP + FN) = 10 / (10 + 90) = 10 / 100 = 0.10（或10%）。\n\n（选项C）在本例中，33%代表研究参与者中肝癌患者的比例：100名肝癌患者 / (100名肝癌患者 + 200名健康对照者) = 0.333（或33.3%）。\n\n教学目标：一项测试的特异性是指其正确识别没有患病个体的能力。特异性可以按如下方式计算：\n\n特异性 = 真阴性 / (真阴性 + 假阳性)"
+  },
+  "summary": {
+    "en": "This question tests the understanding of diagnostic test characteristics, specifically the calculation of specificity. Specificity is the ability of a test to correctly identify individuals without the disease.\n\nTo solve this question, identify the true negatives (TN) and false positives (FP) from the given information. Then, apply the formula: Specificity = TN / (TN + FP) to calculate the specificity of the test.",
+    "zh": "此问题测试对诊断测试特征的理解，特别是特异性的计算。特异性是指测试正确识别未患病个体的能力。\n\n要解决这个问题，请从给定的信息中确定真阴性 (TN) 和假阳性 (FP)。然后，应用公式：特异性 = TN / (TN + FP) 来计算测试的特异性。"
+  },
+  "tags": "Specificity; Diagnostic testing; True negative; False positive; Liver cancer; Heat shock protein; Medical statistics",
+  "category": "Bio",
+  "question_id": "19431",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19431",
+  "extracted_at": "2025-11-05T11:13:49.175978",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:22:49.033842",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

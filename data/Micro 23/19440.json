@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 43-year-old man visiting the United States from Thailand comes to the emergency department due to 10 days of hemoptysis. He also has had night sweats but reports no fever or weight loss. Temperature is 37.7 C (99.9 F), blood pressure is 118/68 mm Hg, pulse is 86/min, and respirations are 18/min. Physical examination shows right-sided rhonchi and crackles. Chest x-ray shows an infiltrate in the right upper lobe. Sputum samples from 3 consecutive days are also obtained. Tuberculin skin test (TST) is placed and 72 hours later there is no induration at the site; however, 2 of 3 sputum sample smears reveal acid-fast bacilli. ",
+    "zh": "一名43岁的男性，从泰国来美国旅游，因咳血10天来到急诊科就诊。他还伴有盗汗，但未报告发烧或体重减轻。体温为37.7°C (99.9°F)，血压为118/68 mmHg，脉搏为86次/分，呼吸频率为18次/分。体格检查显示右侧啰音和爆裂音。胸部X光片显示右肺上叶有浸润。连续3天获取痰液样本。进行结核菌素皮肤试验 (TST)，72小时后，注射部位无硬结；然而，3份痰液样本涂片中有2份显示抗酸杆菌。"
+  },
+  "question": {
+    "en": "Which of the following best explains the negative TST in this patient?",
+    "zh": "以下哪项最能解释该患者的TST阴性结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Childhood bacille Calmette-Guérin vaccination",
+      "zh": "儿童期卡介苗接种"
+    },
+    "B": {
+      "en": "Coexisting autoantibody disorder",
+      "zh": "合并存在的自身抗体疾病"
+    },
+    "C": {
+      "en": "Inadequate lymphocytic response",
+      "zh": "淋巴细胞反应不足"
+    },
+    "D": {
+      "en": "Inadequate time for dermal induration",
+      "zh": "皮肤硬结形成时间不足"
+    },
+    "E": {
+      "en": "Nontuberculous mycobacterial infection",
+      "zh": "非结核分枝杆菌感染"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient from Thailand has hemoptysis, night sweats, right upper lobe infiltrate, and positive sputum acid-fast bacillus stain, raising strong suspicion for ACTIVE PULMONARY TB. Tuberculin skin testing (TST) is generally positive in patients with active TB because differentiated lymphocytes recognize injected tuberculin antigens and trigger a strong type IV (cell-mediated) hypersensitivity response, leading to a large wheal of induration within 48-72 hours. However, approximately 25% of patients with active TB have false negative TST (T cell anergy). In these individuals, an IMPAIRED LYMPHOCYTE RESPONSE results in minimal or no induration after exposure to tuberculin antigens. Because a weak cell-mediated response increases the RISK OF SEVERE DISSEMINATED TB, patients with active disease who have TST anergy are at much greater risk for TB-related morbidity and mortality.\n\nA false-negative TST can also be seen with recent infection (it takes approximately 8 weeks for the cell mediated response to fully form), immunocompromise (eg, HIV), improper injection technique, and natural waning of immunity to latent infection. Because active TB requires a microbial diagnosis (eg, identifying the organism on sputum sample), neither TST nor interferon-gamma release assay can be used to diagnose or exclude the disease.\n\n(Choice A) Bacille Calmette-Guérin vaccination uses Mycobacterium bovis, which shares antigens with tuberculous mycobacteria. This vaccination primes the lymphocyte response against Mycobacterium tuberculosis, therefore protecting against infection, morbidity, and mortality. Patients with previous BCG vaccination can have false-positive (not false negative) TST.\n\n(Choice B) TB infection is primarily controlled by macrophages and T lymphocytes. The humoral immune system plays a minimal role and does not contribute to TST induration. Therefore, an autoantibody disorder is unlikely to cause anergy.\n\n(Choice D) Examination of the injection site should occur 48-72 hours after the purified protein derivative is injected in order to give appropriate time for the delayed-type hypersensitivity reaction to develop. Patients with active TB who have a negative TST at 72 hours are likely to have an insufficient lymphocyte response to the infection.\n\n(Choice E) Acid-fast bacillus stain and TST do not differentiate nontuberculous from tuberculous mycobacteria. Therefore, nontuberculous mycobacterial infection is a common cause of a false-positive (not a false-negative) TST. This patient's history of residence in a TB-endemic country, hemoptysis, night sweats, and upper lobe infiltrate are all highly suspicious for pulmonary TB.",
+    "zh": "该患者来自泰国，有咳血、盗汗、右肺上叶浸润和痰液抗酸杆菌染色阳性，高度怀疑活动性肺结核。结核菌素皮肤试验 (TST) 在活动性结核病患者中通常呈阳性，因为分化的淋巴细胞识别注射的结核菌素抗原，并触发强烈的IV型（细胞介导的）超敏反应，导致48-72小时内出现大面积的硬结。然而，大约25%的活动性结核病患者 TST 呈假阴性（T细胞无反应）。在这些人中，淋巴细胞反应受损导致接触结核菌素抗原后硬结最小或无硬结。由于弱的细胞介导反应增加了严重播散性结核病的风险，患有活动性疾病且 TST 无反应的患者发生结核病相关发病率和死亡率的风险要高得多。\n\n近期感染（细胞介导反应完全形成需要大约8周）、免疫功能低下（如 HIV）、注射技术不当和潜伏感染的免疫力自然减弱，也可能出现 TST 假阴性。由于活动性结核病需要微生物诊断（例如，在痰液样本上鉴定病原体），因此 TST 和干扰素-γ 释放试验都不能用于诊断或排除该疾病。\n\n(选项A) 卡介苗接种使用牛分枝杆菌，它与结核分枝杆菌共享抗原。这种疫苗接种激发了针对结核分枝杆菌的淋巴细胞反应，从而预防感染、发病率和死亡率。既往接种过卡介苗的患者可能出现 TST 假阳性（而非假阴性）。\n\n(选项B) 结核病感染主要由巨噬细胞和 T 淋巴细胞控制。体液免疫系统作用很小，对 TST 硬结的形成没有贡献。因此，自身抗体疾病不太可能引起无反应。\n\n(选项D) 注射部位的检查应在纯化蛋白衍生物注射后48-72小时进行，以便有足够的时间使迟发型超敏反应发展。活动性结核病患者在72小时后 TST 阴性，很可能对感染的淋巴细胞反应不足。\n\n(选项E) 抗酸杆菌染色和 TST 不能区分非结核分枝杆菌和结核分枝杆菌。因此，非结核分枝杆菌感染是 TST 假阳性（而非假阴性）的常见原因。该患者居住在结核病流行国家，有咳血、盗汗和上叶浸润的病史，高度怀疑患有肺结核。"
+  },
+  "summary": {
+    "en": "This question tests the knowledge of tuberculosis diagnosis, specifically the interpretation of tuberculin skin test (TST) results in the context of active TB infection. It also assesses understanding of factors that can lead to false-negative TST results.\n\nThe key to solving this question is recognizing the clinical presentation suggestive of active TB (hemoptysis, night sweats, infiltrate, acid-fast bacilli) and understanding that a negative TST in this context can be due to impaired lymphocyte response (T cell anergy).",
+    "zh": "此问题考察了对结核病诊断的知识，特别是活动性结核病感染背景下结核菌素皮肤试验 (TST) 结果的解读。它还评估了对可能导致 TST 假阴性结果的因素的理解。\n\n解决此问题的关键是识别提示活动性结核病的临床表现（咳血、盗汗、浸润、抗酸杆菌）并理解在这种情况下，TST 阴性可能由于淋巴细胞反应受损（T细胞无反应）。"
+  },
+  "tags": "Tuberculosis; Tuberculin skin test; False-negative result; Lymphocyte response; Mycobacterium tuberculosis; Pulmonary infection; Infectious diseases; Respiratory system",
+  "category": "Micro",
+  "question_id": "19440",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\19440",
+  "extracted_at": "2025-11-05T15:02:43.285653",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:11:00.638475",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

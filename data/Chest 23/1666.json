@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 54-year-old man comes to the emergency department due to worsening fever, cough, and shortness of breath. The patient initially presented a week ago with a fever, headache, myalgia, nasal discharge, and a sore throat. He tested positive for influenza A and was discharged home with symptomatic treatment. The patient's symptoms gradually improved, but over the past 2 days he has had high fevers, cough productive of yellowish sputum, sharp right-sided chest pain, and shortness of breath. The patient has no other medical problems and does not use tobacco, alcohol, or illicit drugs. Temperature is 38.9 C (102 F), blood pressure is 118/66 mm Hg, and pulse is 110/min. Physical examination reveals right-sided lung crackles. Chest x-ray reveals infiltrates in the right lung.",
+    "zh": "一名54岁男性因发热、咳嗽和呼吸困难加重而前来急诊科就诊。患者一周前出现发热、头痛、肌痛、鼻涕和咽喉痛。流感A型病毒检测呈阳性，出院时接受对症治疗。患者的症状逐渐改善，但在过去2天里，他出现了高烧、咳出黄痰、右侧胸痛和呼吸困难。患者没有其他健康问题，不吸烟、不饮酒，也不吸毒。体温38.9°C (102°F)，血压118/66 mmHg，脉搏110次/分。体格检查显示右侧肺部出现啰音。胸部X光片显示右肺有浸润。"
+  },
+  "question": {
+    "en": "Which of the following pathogens is most likely to be isolated from this patient's sputum?",
+    "zh": "以下哪种病原体最有可能从该患者的痰液中分离出来？"
+  },
+  "options": {
+    "A": {
+      "en": "Cytomegalovirus",
+      "zh": "巨细胞病毒"
+    },
+    "B": {
+      "en": "Klebsiella pneumoniae",
+      "zh": "肺炎克雷伯菌"
+    },
+    "C": {
+      "en": "Listeria monocytogenes",
+      "zh": "单核细胞增生李斯特菌"
+    },
+    "D": {
+      "en": "Nontuberculous mycobacteria",
+      "zh": "非结核分枝杆菌"
+    },
+    "E": {
+      "en": "Staphylococcus aureus",
+      "zh": "金黄色葡萄球菌"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Influenza virus attacks the tracheobronchial epithelium and results in decreased cell size and a loss of cilia, which promotes bacterial colonization. The influenza surface protein neuraminidase also cleaves sialic off host glycoproteins, leading to an increased amount of free sugar in the respiratory tract, which fosters bacterial growth. These changes put patients recovering from influenza at increased risk for SECONDARY BACTERIAL INFECTIONS in the respiratory tree.\n\nSecondary bacterial pneumonia should be suspected when a patient with influenza has improved symptoms and then develops worsening fever and lower respiratory tract manifestations such as productive cough, pleuritic chest pain, and shortness of breath. Physical examination and chest x-ray findings typically demonstrate pulmonary consolidation. Most cases are caused by Streptococcus pneumoniae, Staphylococcus aureus, and Haemophilus influenzae. Although the elderly are affected most commonly, post-influenza pneumonia due to S aureus frequently develops in young, previously healthy patients.\n\n(Choice A) Cytomegalovirus may cause pneumonia in patients who are immunocompromised (eg, AIDS, post-transplantation). It is not associated with post-influenza infections and usually causes bilateral interstitial infiltrates on chest x-ray.\n\n(Choice B) Klebsiella pneumoniae most commonly causes nosocomial pneumonia or aspiration pneumonia in patients who abuse alcohol or use intravenous drugs. It is classically associated with thick, blood-tinged \"currant jelly\" sputum due to significant inflammation and necrosis. This pathogen does not typically cause post-influenza pneumonia.\n\n(Choice C) Older patients and those who are immunocompromised are at increased risk for Listeria monocytogenes sepsis and meningitis; pneumonia would be atypical.\n\n(Choice D) Mycobacterium avium-intracellulare causes disseminated disease in AIDS. M kansasii may cause pulmonary tuberculosis-like symptoms, M leprae is responsible for cutaneous leprosy, and M scrofulaceum causes cervical lymphadenitis in children.",
+    "zh": "流感病毒攻击气管支气管上皮，导致细胞体积减小和纤毛脱失，从而促进细菌定植。流感病毒表面蛋白神经氨酸酶也会从宿主糖蛋白上切割唾液酸，导致呼吸道内游离糖含量增加，从而促进细菌生长。这些变化使从流感中恢复的患者发生呼吸道继发性细菌感染的风险增加。\n\n当流感患者症状改善后出现发热加重和下呼吸道表现，如咳出痰液、胸膜炎性胸痛和呼吸困难，应怀疑继发性细菌性肺炎。体格检查和胸部X光检查结果通常显示肺部实变。大多数病例由肺炎链球菌、金黄色葡萄球菌和流感嗜血杆菌引起。虽然老年人最常受影响，但由金黄色葡萄球菌引起的流感后肺炎通常发生在年轻、既往健康的患者中。\n\n（选项A）巨细胞病毒可引起免疫功能低下（如艾滋病、移植后）患者发生肺炎。它与流感后感染无关，通常导致胸部X光片上出现双侧间质性浸润。\n\n（选项B）肺炎克雷伯菌最常引起滥用酒精或静脉注射毒品的患者发生医院获得性肺炎或吸入性肺炎。它通常与因明显炎症和坏死引起的厚而带血的“果酱”痰有关。这种病原体通常不会引起流感后肺炎。\n\n（选项C）老年患者和免疫功能低下患者发生单核细胞增生李斯特菌败血症和脑膜炎的风险增加；肺炎是不典型的。\n\n（选项D）鸟分枝杆菌-细胞内分枝杆菌可引起艾滋病患者发生播散性疾病。堪萨斯分枝杆菌可引起肺结核样症状，麻风分枝杆菌是导致皮肤麻风病的病原体，猪颈淋巴结分枝杆菌可引起儿童颈淋巴结炎。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of secondary bacterial pneumonia following influenza infection, including common causative organisms and risk factors. The question requires recognizing the clinical presentation of secondary bacterial pneumonia in a patient who initially had influenza and then developed worsening respiratory symptoms.\n\nThe key to solving this question is to identify the temporal relationship between the influenza infection and the subsequent worsening of symptoms, which suggests a secondary bacterial infection. Knowing the common pathogens associated with post-influenza pneumonia, particularly Staphylococcus aureus, is crucial for selecting the correct answer.",
+    "zh": "这道题考察了对流感后继发性细菌性肺炎的认识，包括常见的病原体和危险因素。该问题要求识别最初患有流感然后出现呼吸道症状加重的患者继发性细菌性肺炎的临床表现。\n\n解决这个问题的关键是确定流感感染与随后症状恶化之间的时间关系，这表明继发性细菌感染。了解与流感后肺炎相关的常见病原体，特别是金黄色葡萄球菌，对于选择正确答案至关重要。"
+  },
+  "tags": "Secondary bacterial pneumonia; Influenza; Staphylococcus aureus; Respiratory infection; Pneumonia",
+  "category": "Chest",
+  "question_id": "1666",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1666",
+  "extracted_at": "2025-11-05T11:41:20.424319",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:36:25.912663",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

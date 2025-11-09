@@ -1,0 +1,72 @@
+{
+  "question_stem": {
+    "en": " A4-week-old infant is evaluated for frequent episodes of hypoglycemia. The patient is found to have elevated insulin levels during periods of fasting. Several members of his family have a similar condition. Genetic testing reveals a mutation involving potassium channels expressed in pancreatic beta cells. The mutated channels have a higher sensitivity to the substance that normally modulates their activity, causing increased beta cell secretory activity.",
+    "zh": "一名 4 周大的婴儿因频繁发作的低血糖症而接受评估。 发现该患者在禁食期间胰岛素水平升高。 他的几个家人也有类似的病症。 基因检测显示，涉及在胰腺 β 细胞中表达的钾离子通道的突变。 突变的通道对通常调节其活性的物质具有更高的敏感性，从而导致 β 细胞分泌活性增加。"
+  },
+  "question": {
+    "en": "Which of the following substances normally binds to and regulates the ion channels that are responsible for this patient's hypoglycemia?",
+    "zh": "以下哪种物质通常与负责该患者低血糖症的离子通道结合并调节它们？"
+  },
+  "options": {
+    "A": {
+      "en": "ATP",
+      "zh": "ATP"
+    },
+    "B": {
+      "en": "Citrate",
+      "zh": "柠檬酸"
+    },
+    "C": {
+      "en": "Fructose-6-phosphate",
+      "zh": "果糖-6-磷酸"
+    },
+    "D": {
+      "en": "Fumarate",
+      "zh": "富马酸"
+    },
+    "E": {
+      "en": "Glucose",
+      "zh": "葡萄糖"
+    },
+    "F": {
+      "en": "Lactate",
+      "zh": "乳酸"
+    },
+    "G": {
+      "en": "Malate",
+      "zh": "苹果酸"
+    },
+    "H": {
+      "en": "Pyruvate",
+      "zh": "丙酮酸"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Pancreatic beta cells secrete insulin in response to elevated glucose levels. Glucose enters beta cells via glucose transporter 2 (GLUT-2) and is metabolized via glycolysis and the citric acid cycle to generate ATP. ATP then binds to the regulatory subunit of the ATP-sensitive potassium channel (KATP channel). KATP channels are normally open at rest and maintain membrane polarization by allowing outward movement of potassium from the beta cells; however, on binding ATP, the KATP channels close. Increased intracellular ATP therefore leads to decreased potassium efflux and membrane depolarization. This triggers opening of voltage-dependent calcium channels, increased intracellular calcium levels, and subsequent insulin release. {{exhibit_1}}\n\nMutations in the KATP channel causing increased affinity for ATP result in fewer open channels and depolarization at lower glucose concentrations. This causes continued secretion of insulin despite falling blood glucose levels, leading to congenital hypoglycemia. Conversely, mutations of the KATP channels that decrease ATP affinity prevent appropriate depolarization in response to rising glucose levels, causing a familial form of neonatal diabetes mellitus. These patients can be treated successfully with sulfonylureas, which bind to KATP channels and cause closure independent of ATP.\n\n(Choices B, D, and G) Citrate, fumarate, and malate are intermediate products in the citric acid cycle. During this process, energy is stored as NADH and FADH2. ATP is then produced when NADH and FADH2 enter oxidative phosphorylation. However, these intermediates do not directly interact with KATP channels.\n\n(Choices C, F, and H) Fructose-6-phosphate and pyruvate are products of the glycolytic pathway. Lactate is produced from pyruvate during anaerobic glycolysis. Glycolysis raises intracellular ATP levels, but these glycolytic intermediates do not act on KATP channels directly.\n\n(Choice E) Glucose induces insulin release from beta cells via ATP formation but does not interact with KATP channels directly.",
+    "zh": "胰腺 β 细胞响应血糖水平升高而分泌胰岛素。葡萄糖通过葡萄糖转运蛋白 2 (GLUT-2) 进入 β 细胞，并通过糖酵解和柠檬酸循环代谢以产生 ATP。然后，ATP 与 ATP 敏感性钾通道 (KATP 通道) 的调节亚基结合。KATP 通道通常在静止状态下开放，并通过允许钾从 β 细胞向外移动来维持膜极化；但是，在结合 ATP 时，KATP 通道关闭。因此，细胞内 ATP 升高会导致钾外流减少和膜去极化。这会触发电压依赖性钙通道的开放、细胞内钙水平升高以及随后的胰岛素释放。{{exhibit_1}}\n\nKATP 通道中的突变导致对 ATP 的亲和力增加，导致开放通道减少，并在较低的葡萄糖浓度下发生去极化。这会导致胰岛素持续分泌，尽管血糖水平下降，从而导致先天性低血糖症。相反，降低 KATP 通道对 ATP 亲和力的突变会阻止对血糖水平升高的适当去极化，从而导致新生儿糖尿病的家族性形式。这些患者可以使用磺酰脲成功治疗，磺酰脲与 KATP 通道结合并导致关闭，而与 ATP 无关。\n\n（选项 B、D 和 G）柠檬酸、富马酸和苹果酸是柠檬酸循环中的中间产物。在此过程中，能量以 NADH 和 FADH2 的形式储存。然后，当 NADH 和 FADH2 进入氧化磷酸化时，产生 ATP。然而，这些中间产物不会直接与 KATP 通道相互作用。\n\n（选项 C、F 和 H）果糖-6-磷酸和丙酮酸是糖酵解途径的产物。乳酸在无氧糖酵解过程中由丙酮酸产生。糖酵解会提高细胞内 ATP 水平，但这些糖酵解中间产物不会直接作用于 KATP 通道。\n\n（选项 E）葡萄糖通过 ATP 形成诱导 β 细胞释放胰岛素，但不会直接与 KATP 通道相互作用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of insulin secretion in pancreatic beta cells and the role of ATP-sensitive potassium channels (KATP channels) in regulating insulin release. It also assesses understanding of how mutations affecting the affinity of KATP channels for ATP can lead to congenital hyperinsulinism.\n\nThe key to solving this question is recognizing that ATP is the primary regulator of KATP channels in pancreatic beta cells. Increased ATP levels lead to channel closure, depolarization, and insulin release. Mutations that increase the affinity of KATP channels for ATP result in excessive insulin secretion and hypoglycemia.",
+    "zh": "此问题测试对胰腺 β 细胞中胰岛素分泌机制以及 ATP 敏感性钾通道 (KATP 通道) 在调节胰岛素释放中的作用的知识。它还评估对影响 KATP 通道对 ATP 亲和力的突变如何导致先天性高胰岛素血症的理解。\n\n解决此问题的关键是认识到 ATP 是胰腺 β 细胞中 KATP 通道的主要调节剂。ATP 水平升高会导致通道关闭、去极化和胰岛素释放。增加 KATP 通道对 ATP 亲和力的突变会导致胰岛素分泌过多和低血糖症。"
+  },
+  "tags": "Congenital hyperinsulinism; Pancreatic beta cells; ATP-sensitive potassium channels; Insulin secretion; Glucose metabolism",
+  "category": "Endo",
+  "question_id": "1009",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\1009",
+  "extracted_at": "2025-11-05T13:57:27.238009",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:36:21.150087",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

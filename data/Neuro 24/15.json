@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A gross brain section of a 54-year-old male who suffered from severe tuberculous meningitis is shown below. {{exhibit_1}} This patient's condition is most likely related to impaired function of which of the following?",
+    "zh": "以下显示了一名患有严重结核性脑膜炎的 54 岁男性的脑部大体切片。{{exhibit_1}} 患者的病情最可能与以下哪项功能受损有关？"
+  },
+  "question": {
+    "en": "This patient's condition is most likely related to impaired function of which of the following?",
+    "zh": "患者的病情最可能与以下哪项功能受损有关？"
+  },
+  "options": {
+    "A": {
+      "en": "Emissary veins",
+      "zh": "导静脉"
+    },
+    "B": {
+      "en": "Arachnoid trabeculae",
+      "zh": "蛛网膜小梁"
+    },
+    "C": {
+      "en": "Arachnoid granulations",
+      "zh": "蛛网膜颗粒"
+    },
+    "D": {
+      "en": "Choroid plexus",
+      "zh": "脉络丛"
+    },
+    "E": {
+      "en": "Dural septae",
+      "zh": "硬脑膜隔"
+    },
+    "F": {
+      "en": "Communicating arteries",
+      "zh": "交通动脉"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The correct answer is C. Cerebrospinal fluid (CSF) is secreted by the choroid plexus of the lateral and fourth ventricles. The path of CSF flow is as follows: lateral ventricles → interventricular foramen of Monro → the third ventricle → cerebral aqueduct → the fourth ventricle → the foramina of Luschka and Magendie → subarachnoid space. In the subarachnoid space, CSF between production and absorption of CSF allows stable intracranial volume (120-150 ml) and pressure (50-180 mm H₂O).\n\nIf the normal flow of CSF from the ventriculi to the subarachnoid space is disrupted, non-communicating hydrocephalus occurs. Ventriculi above the obstruction are enlarged, while those below the obstruction are normal. Congenital anomalies, such as aqueductal stenosis, Arnold-Chiari or Dandy-Walker malformations, cause non-communicating hydrocephalus. In all cases, the obstacle to CSF flow exists within the ventriculi.\n\nIn communicating hydrocephalus, there is no obstruction to CSF flow from the ventriculi to the subarachnoid space. Communicating hydrocephalus usually occurs secondary to dysfunction or obliteration of subarachnoid villi. This dysfunction is usually a sequelae of meningeal infections (including tuberculosis meningitis, as in this patient) or subarachnoid/intraventricular hemorrhage. In communicating hydrocephalus, all ventriculi are symmetrically enlarged, as in the image above. {{exhibit_2}}\n\n(Choice A) The emissary veins pass through apertures between the intracranial sinuses and veins outside the cranial vault. They do not participate in absorption of CSF.\n\n(Choice B) Arachnoid trabeculae pass from the arachnoid through the subarachnoid space to the pia mater. They are not involved in the metabolism of CSF.\n\n(Choice D) The choroid plexus is the site of CSF secretion; in communicating hydrocephalus, CSF absorption, not secretion, is impaired. If present, a choroid plexus papilloma might cause a symmetric ventricular enlargement that appears virtually identical to communicating hydrocephalus. Communicating hydrocephalus is far more common than choroid plexus papilloma, however, making Choice D a plausible answer, but not the most likely one.\n\n(Choice E and F) Neither dural septae nor communicating arteries are implicated in the pathogenesis of communicating hydrocephalus.\n\nEducational Objective: Symmetrical enlargement of the ventriculi is characteristic of communicating hydrocephalus. Communicating hydrocephalus usually occurs secondary to dysfunction or obliteration of subarachnoid villi. This dysfunction is usually a sequelae of meningeal infection (including tuberculosis meningitis) or subarachnoid/intraventricular hemorrhage.",
+    "zh": "正确答案是 C。脑脊液 (CSF) 由侧脑室和第四脑室的脉络丛分泌。脑脊液的流向如下：侧脑室 → 室间孔 (Monro 孔) → 第三脑室 → 中脑导水管 → 第四脑室 → Luschka 孔和 Magendie 孔 → 蛛网膜下腔。在蛛网膜下腔中，脑脊液的产生和吸收之间维持着稳定的颅内容量 (120-150 ml) 和压力 (50-180 mm H₂O)。\n\n如果脑脊液从脑室流向蛛网膜下腔的正常流动受阻，则发生非交通性脑积水。阻塞上方的脑室会扩大，而阻塞下方的脑室则正常。先天性异常，如导水管狭窄、Arnold-Chiari 畸形或 Dandy-Walker 畸形，可引起非交通性脑积水。在所有情况下，脑脊液流动的障碍都存在于脑室内部。\n\n在交通性脑积水中，脑脊液从脑室流向蛛网膜下腔没有阻塞。交通性脑积水通常继发于蛛网膜绒毛的功能障碍或阻塞。这种功能障碍通常是脑膜感染（包括结核性脑膜炎，如该患者）或蛛网膜下腔/脑室内出血的后遗症。在交通性脑积水中，所有脑室都会对称性扩大，如上图所示。{{exhibit_2}}\n\n(选项 A) 导静脉穿过颅内静脉窦和颅骨外静脉之间的孔隙。它们不参与脑脊液的吸收。\n\n(选项 B) 蛛网膜小梁从蛛网膜穿过蛛网膜下腔到软脑膜。它们不参与脑脊液的代谢。\n\n(选项 D) 脉络丛是脑脊液分泌的部位；在交通性脑积水中，脑脊液的吸收受损，而不是分泌受损。如果存在，脉络丛乳头状瘤可能会导致对称性脑室扩大，这与交通性脑积水几乎相同。然而，交通性脑积水比脉络丛乳头状瘤更常见，因此选项 D 是一个合理的答案，但不是最有可能的答案。\n\n(选项 E 和 F) 硬脑膜隔和交通动脉均未参与交通性脑积水的发病机制。\n\n教学目标：脑室对称性扩大是交通性脑积水的特征。交通性脑积水通常继发于蛛网膜绒毛的功能障碍或阻塞。这种功能障碍通常是脑膜感染（包括结核性脑膜炎）或蛛网膜下腔/脑室内出血的后遗症。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathophysiology of communicating hydrocephalus, specifically the role of impaired cerebrospinal fluid (CSF) absorption in the subarachnoid space, often due to inflammation or scarring from conditions like tuberculous meningitis.\n\nTo solve this question, one must recall the normal flow of CSF and the mechanisms of hydrocephalus. Identifying that the image shows symmetrical ventricular enlargement suggests communicating hydrocephalus, and then linking this to the impaired absorption of CSF through the arachnoid granulations is key.",
+    "zh": "此题考察了对交通性脑积水病理生理学的理解，特别是蛛网膜下腔中脑脊液 (CSF) 吸收受损的作用，这通常是由于结核性脑膜炎等疾病引起的炎症或瘢痕形成所致。\n\n要解决这个问题，必须回忆脑脊液的正常流动和脑积水的机制。确定图像显示脑室对称性扩大表明是交通性脑积水，然后将其与通过蛛网膜颗粒的脑脊液吸收受损联系起来是关键。"
+  },
+  "tags": "Communicating hydrocephalus; Tuberculous meningitis; Cerebrospinal fluid; Arachnoid granulations; Subarachnoid space; Ventricular enlargement; CSF absorption; Neurology; Pathology",
+  "category": "Neuro",
+  "question_id": "15",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\15",
+  "extracted_at": "2025-11-05T19:34:10.020256",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:34:13.061501",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

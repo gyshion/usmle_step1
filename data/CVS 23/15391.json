@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 70-year-old woman comes to the office due to progressive exertional dyspnea over the last year. She has no chest pain or lower-extremity swelling. The patient has long-standing hypertension but has not always been adherent to her medical regimen. She is a lifetime nonsmoker. Blood pressure is 164/73 mm Hg and pulse is 88/min and regular. An S4 is heard on cardiac auscultation. The lungs are clear. Echocardiogram reveals left atrial enlargement, moderate concentric left ventricular hypertrophy, and a left ventricular ejection fraction of 67%. Which of the following changes are most likely to be seen in this patient? {{exhibit_1}}",
+    "zh": "一位70岁女性因过去一年来逐渐加重的劳力性呼吸困难前来就诊。她没有胸痛或下肢水肿。患者患有长期高血压，但并未一直坚持她的治疗方案。她终身不吸烟。血压为164/73 mmHg，脉搏为88次/分钟，规律。心脏听诊可闻及S4。肺部清晰。超声心动图显示左心房增大，中度向心性左心室肥厚，左心室射血分数67%。该患者最有可能出现以下哪种变化？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following changes are most likely to be seen in this patient?",
+    "zh": "该患者最有可能出现以下哪种变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased; Increased; Increased",
+      "zh": "降低；增加；增加"
+    },
+    "B": {
+      "en": "Decreased; Decreased; Increased",
+      "zh": "降低；降低；增加"
+    },
+    "C": {
+      "en": "Decreased; Increased; Decreased",
+      "zh": "降低；增加；降低"
+    },
+    "D": {
+      "en": "Increased; Increased; Increased",
+      "zh": "增加；增加；增加"
+    },
+    "E": {
+      "en": "Increased; Increased; Decreased",
+      "zh": "增加；增加；降低"
+    },
+    "F": {
+      "en": "Increased; Decreased; Decreased",
+      "zh": "增加；降低；降低"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's clinical presentation and echocardiography findings are consistent with concentric left ventricular (LV) hypertrophy leading to impaired diastolic functioning (heart failure with preserved ejection fraction). In response to LV pressure overload (eg, prolonged systemic hypertension), there is upregulation of genes encoding for contractile proteins of the cardiac sarcomere, including beta-myosin heavy chain. The additional contractile fibers are added in parallel to increase the contractile strength of the LV wall. Although LV contractility and ejection fraction are increased, the thickened LV walls are now stiff and less compliant, which is often evidenced by an S4 on cardiac auscultation as blood strikes the stiff LV wall during atrial systole. Subsequent impaired diastolic filling of the noncompliant left ventricle leads to reduced stroke volume with reduced cardiac output and decreased renal perfusion. Falsely sensing a need to increase blood volume and organ perfusion, the kidneys activate the renin-angiotensin-aldosterone system (RAAS) to stimulate sodium retention (via increased aldosterone) and vasoconstriction (via increased angiotensin II). Although this response can temporarily maintain cardiac output, the increasing fluid retention will ultimately precipitate decompensated heart failure.\n\n(Choices B, C, E, and F) These combinations of changes in LV compliance, angiotensin II signaling, and beta-myosin heavy chain expression are not consistent with readily identifiable, untreated disease processes.\n\n(Choice D)  increases {{exhibit_2}} in LV compliance, angiotensin II signaling, and beta-myosin heavy chain expression are consistent with heart failure with reduced ejection fraction due to dilated cardiomyopathy. There is upregulation of contractile proteins; however, this occurs in response to volume overload rather than pressure overload, and therefore the contractile fibers are added in series (ie, eccentric hypertrophy) rather than in parallel. This leads to dilation of the LV cavity with increased wall compliance and decreasec contractility. Reduced cardiac output with subsequent activation of the RAAS results in increased angiotensin II signaling.\n\nEducational objective:\nProlonged systemic hypertension leads to concentric left ventricular (LV) hypertrophy via the addition of myocardial contractile fibers in parallel. The thickening of the LV walls reduces LV compliance, leading to impaired diastolic filling and heart failure with preserved ejection fraction. In response to reduced cardiac output, the kidneys activate the renin-angiotensin-aldosterone system, stimulating sodium retention and vasoconstriction that worsens volume overload and can lead to decompensated heart failure.",
+    "zh": "该患者的临床表现和超声心动图检查结果与向心性左心室 (LV) 肥厚导致舒张功能受损（射血分数保留性心力衰竭）一致。 针对 LV 压力超负荷（例如，长期全身性高血压），编码心肌肌节收缩蛋白（包括 β-肌球蛋白重链）的基因会上调。 额外的收缩纤维平行增加，以增加 LV 壁的收缩力。 尽管 LV 收缩力和射血分数增加，但增厚的 LV 壁现在变得僵硬且顺应性降低，这通常表现为心脏听诊时可听到 S4，因为血流在心房收缩期间撞击僵硬的 LV 壁。 随后顺应性降低的左心室舒张充盈受损导致心搏量减少，心输出量减少和肾脏灌注减少。 错误地感知到需要增加血容量和器官灌注，肾脏激活肾素-血管紧张素-醛固酮系统 (RAAS) 以刺激钠潴留（通过增加醛固酮）和血管收缩（通过增加血管紧张素 II）。 虽然这种反应可以暂时维持心输出量，但不断增加的液体潴留最终会促成失代偿性心力衰竭。\n\n（选项 B、C、E 和 F）LV 顺应性、血管紧张素 II 信号传导和 β-肌球蛋白重链表达的这些组合变化与易于识别的未治疗疾病过程不一致。\n\n（选项 D）增加了 {{exhibit_2}} LV 顺应性、血管紧张素 II 信号传导和 β-肌球蛋白重链表达与由于扩张型心肌病引起的射血分数降低性心力衰竭一致。 收缩蛋白上调； 然而，这发生在对容量超负荷而不是压力超负荷的反应中，因此收缩纤维串联（即，离心性肥厚）而不是平行地增加。 这导致 LV 腔扩张，壁顺应性增加和收缩力降低。 心输出量减少，随后激活 RAAS 导致血管紧张素 II 信号传导增加。\n\n教学目标：\n长期全身性高血压通过平行增加心肌收缩纤维导致向心性左心室 (LV) 肥厚。 LV 壁的增厚降低了 LV 顺应性，导致舒张充盈受损和射血分数保留性心力衰竭。 针对心输出量减少，肾脏激活肾素-血管紧张素-醛固酮系统，刺激钠潴留和血管收缩，从而加重容量超负荷并可能导致失代偿性心力衰竭。"
+  },
+  "summary": {
+    "en": "This question tests the knowledge of the pathophysiology of heart failure with preserved ejection fraction (HFpEF) secondary to chronic hypertension, focusing on changes in left ventricular compliance, angiotensin II signaling, and cardiac myosin heavy chain-beta expression.\n\nThe best approach is to understand the underlying mechanisms of concentric left ventricular hypertrophy in response to pressure overload. Recognize that decreased LV compliance, increased angiotensin II, and increased beta-myosin heavy chain expression are characteristic of this condition.",
+    "zh": "此问题测试对继发于慢性高血压的射血分数保留性心力衰竭 (HFpEF) 病理生理学的了解，重点关注左心室顺应性、血管紧张素 II 信号传导和心肌肌球蛋白重链-β表达的变化。\n\n最好的方法是了解向心性左心室肥厚对压力超负荷的潜在机制的反应。 认识到 LV 顺应性降低、血管紧张素 II 增加和 β-肌球蛋白重链表达增加是这种疾病的特征。"
+  },
+  "tags": "Heart failure with preserved ejection fraction; Hypertension; Left ventricular hypertrophy; Diastolic dysfunction; Angiotensin II; Cardiac myosin; Cardiology; Internal medicine",
+  "category": "CVS",
+  "question_id": "15391",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\15391",
+  "extracted_at": "2025-11-05T11:59:03.493271",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:49:13.148096",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

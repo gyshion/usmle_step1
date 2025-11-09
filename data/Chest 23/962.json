@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 5-year-old boy is brought to the emergency department by his parents for severe respiratory distress. He has not received any immunizations due to parental preference, and his medical history is otherwise unremarkable. The patient appears very uncomfortable and anxious. He is leaning forward and making a loud, harsh sound with every inspiration. Temperature is 39.6 C (103.4 F). The patient is intubated immediately. During intubation, the epiglottis is visualized and appears markedly swollen and erythematous. ",
+    "zh": "一名5岁男孩因严重呼吸窘迫由父母送至急诊科。由于父母的偏好，他没有接种任何疫苗，病史无其他特殊情况。患者看起来非常不舒服和焦虑。他向前倾斜，每次吸气时都会发出响亮而刺耳的声音。体温为39.6°C（103.4°F）。患者立即进行气管插管。在插管过程中，可见会厌明显肿胀和发红。"
+  },
+  "question": {
+    "en": "Which of the following is a major virulence factor of the pathogen causing this patient's infection?",
+    "zh": "以下哪项是导致该患者感染的病原体的主要毒力因子？"
+  },
+  "options": {
+    "A": {
+      "en": "Lecithinase",
+      "zh": "卵磷脂酶"
+    },
+    "B": {
+      "en": "M protein",
+      "zh": "M蛋白"
+    },
+    "C": {
+      "en": "Polyribosylribitol phosphate",
+      "zh": "多核糖基核糖醇磷酸"
+    },
+    "D": {
+      "en": "Protein A",
+      "zh": "蛋白A"
+    },
+    "E": {
+      "en": "Trehalose dimycolate",
+      "zh": "海藻糖二肉豆蔻酸酯"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This child's fever, respiratory distress, and inflamed epiglottis are consistent with epiglottitis, which is most commonly caused by Haemophilus influenzae type b (Hib). The infected epiglottis swells, causing inspiratory stridor, dyspnea, and severe agitation. Epiglottitis is confirmed by direct visualization or radiographic evidence of a swollen epiglottis (ie, \"thumbprint sign\").\n\nThe major virulence factor of Hib is its polysaccharide capsule, which is composed of the polymer polyribosylribitol phosphate (PRP). The PRP capsule protects the bacterium against phagocytosis and complement-mediated lysis by binding factor H, a circulating regulator protein that normally prevents complement (C3b) deposition on host cells. {{exhibit_1}}\n\nThe conjugate Hib vaccine is composed of PRP conjugated to protein toxoid. Immunization results in host development of anti-PRP antibody, which leads to improved opsonization and complement-mediated phagocytosis. Invasive Hib disease is rare in immunized patients, but it still occurs regularly in unimmunized children.\n\n(Choice A) Lecithinase (toxin A) is produced by Clostridium perfringens and hydrolyzes lecithin in cell membranes. This results in cell lysis and the development of gas gangrene.\n\n(Choice B) M protein is found in the cell wall of Streptococcus pyogenes. It binds factor H to prevent opsonization and destruction of streptococci by the alternative complement pathway.\n\n(Choice D) Protein A in the cell wall of Staphylococcus aureus helps prevent opsonization by binding the Fc region of immunoglobulins. S aureus is a common cause of tracheitis, which presents similarly to epiglottitis (eg, stridor, fever, respiratory distress) but does not cause a swollen epiglottis.\n\n(Choice E) Trehalose dimycolate is a cell wall component and major virulence factor of Mycobacterium tuberculosis. It protects M tuberculosis from being killed by macrophages and stimulates granuloma formation.",
+    "zh": "该儿童的发热、呼吸窘迫和会厌发炎与会厌炎一致，会厌炎最常见的原因是b型流感嗜血杆菌（Hib）。受感染的会厌肿胀，引起吸气性喘鸣、呼吸困难和严重躁动。通过直接观察或会厌肿胀的影像学证据（即“拇指印征”）可以确诊会厌炎。\n\nHib的主要毒力因子是其多糖荚膜，由聚合物多核糖基核糖醇磷酸（PRP）组成。PRP荚膜通过结合因子H（一种循环调节蛋白，通常可防止补体（C3b）沉积在宿主细胞上）来保护细菌免受吞噬作用和补体介导的溶解。{{exhibit_1}}\n\n结合Hib疫苗由PRP与蛋白质类毒素结合而成。免疫接种导致宿主产生抗PRP抗体，从而改善调理作用和补体介导的吞噬作用。在已免疫的患者中，侵袭性Hib疾病很少见，但在未免疫的儿童中仍经常发生。\n\n（选项A）卵磷脂酶（毒素A）由产气荚膜梭菌产生，并水解细胞膜中的卵磷脂。这会导致细胞溶解和气性坏疽的发生。\n\n（选项B）M蛋白存在于化脓性链球菌的细胞壁中。它结合因子H以防止调理作用和链球菌被替代补体途径破坏。\n\n（选项D）金黄色葡萄球菌细胞壁中的蛋白A通过结合免疫球蛋白的Fc区来帮助防止调理作用。金黄色葡萄球菌是气管炎的常见原因，其表现类似于会厌炎（如喘鸣、发热、呼吸窘迫），但不会引起会厌肿胀。\n\n（选项E）海藻糖二肉豆蔻酸酯是结核分枝杆菌的细胞壁成分和主要毒力因子。它保护结核分枝杆菌免受巨噬细胞的杀伤，并刺激肉芽肿的形成。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the major virulence factor of Haemophilus influenzae type b (Hib), the most common cause of epiglottitis. It also assesses understanding of the pathogenesis of Hib infection and the mechanism of action of the Hib vaccine.\n\nTo answer this question, recall that Hib is a common cause of epiglottitis, especially in unimmunized children. Remember that the polysaccharide capsule, specifically polyribosylribitol phosphate (PRP), is the major virulence factor that allows Hib to evade phagocytosis.",
+    "zh": "本题考察了b型流感嗜血杆菌（Hib）的主要毒力因子，Hib是会厌炎最常见的原因。它还评估了对Hib感染的发病机制和Hib疫苗的作用机制的理解。\n\n要回答这个问题，请回忆一下Hib是会厌炎的常见原因，尤其是在未免疫的儿童中。记住，多糖荚膜，特别是多核糖基核糖醇磷酸（PRP），是使Hib逃避免疫细胞吞噬的主要毒力因子。"
+  },
+  "tags": "Epiglottitis; Haemophilus influenzae type b (Hib); Polyribosylribitol phosphate (PRP); Virulence factors; Bacterial capsule; Immunology; Pediatrics; Infectious disease; Vaccination",
+  "category": "Chest",
+  "question_id": "962",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\962",
+  "extracted_at": "2025-11-05T11:49:32.401453",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:43:04.958660",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

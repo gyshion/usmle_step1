@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "Researchers conducted a randomized controlled trial to assess the effectiveness of a new drug to reduce severe cutaneous reactions in patients with rheumatoid arthritis who are treated with adalimumab. Of 150 adults with rheumatoid arthritis who are treated with adalimumab, 75 received the new drug in addition to adalimumab, and 75 received a placebo in addition to adalimumab. Results show that 6 patients in the new drug group developed severe cutaneous reactions, compared to 9 in the placebo group. Which of the following represents the relative risk reduction for severe cutaneous reactions among patients in the new drug group?",
+    "zh": "研究人员进行了一项随机对照试验，以评估一种新药在减轻接受阿达木单抗治疗的类风湿性关节炎患者的严重皮肤反应方面的疗效。在150名接受阿达木单抗治疗的类风湿性关节炎成人患者中，75名接受了新药联合阿达木单抗治疗，75名接受了安慰剂联合阿达木单抗治疗。结果显示，新药组有6名患者出现严重皮肤反应，而安慰剂组有9名患者。以下哪一项代表了新药组患者严重皮肤反应的相对风险降低？"
+  },
+  "question": {
+    "en": "Which of the following represents the relative risk reduction for severe cutaneous reactions among patients in the new drug group?",
+    "zh": "以下哪一项代表了新药组患者严重皮肤反应的相对风险降低？"
+  },
+  "options": {
+    "A": {
+      "en": "0.08",
+      "zh": "0.08"
+    },
+    "B": {
+      "en": "0.10",
+      "zh": "0.10"
+    },
+    "C": {
+      "en": "0.12",
+      "zh": "0.12"
+    },
+    "D": {
+      "en": "0.33",
+      "zh": "0.33"
+    },
+    "E": {
+      "en": "0.67",
+      "zh": "0.67"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Relative risk reduction (RRR) measures how much a given treatment reduces the risk of an unfavorable outcome relative to the control group. RRR may be defined as the difference in risk of the unfavorable outcome in the treatment group (eg, new drug) compared to the control group (eg, placebo):\n\nRRR = (Risk\nIn this example, Risk\nRRR = (0.12 – 0.08) / 0.12 = 0.33\n\nAlternately, RRR may be calculated using relative risk (RR). When using RR, the formula for RRR is:\n\nRRR = 1 – RR\n\nFor this example, RR is the ratio of the risk of severe cutaneous reactions in the new drug group to the risk of severe cutaneous reactions in the placebo group, calculated as follows:\n\nRR = (Risk\nTherefore, RRR is:\n\nRRR = 1 – 0.67 = 0.33\n\n(Choice A) 0.08 represents the risk of severe cutaneous reactions in the new drug group (6/75 = 0.08, or 8%), not RRR.\n\n(Choice B) 0.10 represents the risk of severe cutaneous reactions in the entire study (ie, both groups: [6 + 9] / [75 + 75] = 0.10, or 10%).\n\n(Choice C) 0.12 represents the risk of severe cutaneous reactions in the placebo group (9/75 = 0.12, or 12%).\n\n(Choice E) 0.67 represents the RR, the ratio of the risk of severe cutaneous reactions in the new drug group to the risk of severe cutaneous reactions in the placebo group (0.08/0.12 = 0.67, or 67%).",
+    "zh": "相对风险降低（RRR）衡量了特定治疗相对于对照组降低不良结局风险的程度。RRR可以定义为治疗组（例如，新药）与对照组（例如，安慰剂）不良结局风险的差异：\n\nRRR =（风险\n在本例中，风险\nRRR = (0.12 – 0.08) / 0.12 = 0.33\n\n或者，可以使用相对风险（RR）计算 RRR。 使用 RR 时，RRR 的公式为：\n\nRRR = 1 – RR\n\n对于此示例，RR 是新药组严重皮肤反应风险与安慰剂组严重皮肤反应风险的比率，计算如下：\n\nRR = (风险\n因此，RRR 为：\n\nRRR = 1 – 0.67 = 0.33\n\n（选项 A）0.08 代表新药组严重皮肤反应的风险（6/75 = 0.08，即 8%），而不是 RRR。\n\n（选项 B）0.10 代表整个研究中严重皮肤反应的风险（即，两组：[6 + 9] / [75 + 75] = 0.10，即 10%）。\n\n（选项 C）0.12 代表安慰剂组严重皮肤反应的风险（9/75 = 0.12，即 12%）。\n\n（选项 E）0.67 代表 RR，即新药组严重皮肤反应风险与安慰剂组严重皮肤反应风险的比率（0.08/0.12 = 0.67，即 67%）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of relative risk reduction (RRR) and its calculation in a clinical trial setting. It requires the ability to differentiate RRR from other measures like absolute risk reduction and relative risk.\n\nTo solve this question, first calculate the risk in the treatment and control groups. Then, apply the formula for RRR: (Risk in control group - Risk in treatment group) / Risk in control group. Alternatively, calculate relative risk (RR) and use the formula RRR = 1 - RR.",
+    "zh": "本题测试对临床试验环境中相对风险降低 (RRR) 的理解及其计算。它需要区分 RRR 与其他指标，如绝对风险降低和相对风险。\n\n要解决这个问题，首先计算治疗组和对照组的风险。然后，应用 RRR 的公式：(对照组风险 - 治疗组风险) / 对照组风险。或者，计算相对风险 (RR) 并使用公式 RRR = 1 - RR。"
+  },
+  "tags": "Relative risk reduction; Clinical trials; Biostatistics; Rheumatoid arthritis; Adalimumab; Cutaneous reactions; Epidemiology; Research methods",
+  "category": "Bio",
+  "question_id": "19309",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19309",
+  "extracted_at": "2025-11-05T11:13:35.281403",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:22:28.283547",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

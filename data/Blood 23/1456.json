@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man comes to the emergency department due to a facial injury. He reports getting hit on the face during a fistfight at a bar. Examination shows dark blue periorbital ecchymosis on the right side. Ophthalmic and neurologic examinations are otherwise normal. After appropriate evaluation, the patient is discharged home. Several days later, the bruise becomes greenish in color.",
+    "zh": "一名34岁男性因面部受伤来到急诊科。他报告说在酒吧斗殴时脸部遭到击打。检查显示右侧眼眶周围出现深蓝色瘀斑。眼科和神经系统检查均无异常。在适当的评估后，患者出院回家。几天后，瘀伤变成绿色。"
+  },
+  "question": {
+    "en": "This change in color is best explained by the activity of which of the following enzymes?",
+    "zh": "这种颜色变化最好地解释了以下哪种酶的活性？"
+  },
+  "options": {
+    "A": {
+      "en": "Bilirubin glucuronyl transferase",
+      "zh": "胆红素葡萄糖醛酸转移酶"
+    },
+    "B": {
+      "en": "Ferrochelatase",
+      "zh": "铁螯合酶"
+    },
+    "C": {
+      "en": "Heme oxygenase",
+      "zh": "血红素加氧酶"
+    },
+    "D": {
+      "en": "Porphobilinogen deaminase",
+      "zh": "卟胆原脱氨酶"
+    },
+    "E": {
+      "en": "Uroporphyrinogen decarboxylase",
+      "zh": "尿卟啉原脱羧酶"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has a resolving hematoma after a traumatic injury. Following the injury, hemoglobin-containing erythrocytes escape into the periorbital tissues, giving the bruise its initial purple or bluish color. Erythrocyte destruction causes the release of iron-containing heme molecules. **Heme oxygenase** (contained in macrophages, among other cells) degrades heme into biliverdin, carbon monoxide, and ferrous iron while consuming oxygen and electrons provided by NADH and NADPH-cytochrome P450 reductase. Biliverdin is green in color and is further reduced (by the enzyme biliverdin reductase) to the yellow pigment bilirubin, which is then transported to the liver bound to albumin. {{exhibit_1}}\n\n(Choice A) Bilirubin glucuronyl transferase, or uridine 5'-diphospho-glucuronyl transferase (UGT), is the enzyme necessary for bilirubin conjugation to glucuronic acid. Lack of UGT or the use of medications that interfere with its activity impairs the liver's ability to conjugate bilirubin.\n\n(Choices B, D, and E) Ferrochelatase (inhibited by lead) is the final enzyme in the heme synthetic pathway. Porphobilinogen deaminase (PBG deaminase) and uroporphyrinogen decarboxylase (UROD) are also involved in heme production, not degradation; UROD deficiency can be seen in porphyria cutanea tarda, the most common porphyria, and PBG deaminase deficiency can be seen in acute intermittent porphyria.",
+    "zh": "该患者在遭受外伤后出现血肿消退。损伤后，含有血红蛋白的红细胞逸入眶周组织，使瘀伤呈现最初的紫色或蓝灰色。红细胞破坏导致含有铁的血红素分子释放。**血红素加氧酶**（存在于巨噬细胞和其他细胞中）将血红素降解为胆绿素、一氧化碳和亚铁离子，同时消耗来自NADH和NADPH-细胞色素P450还原酶的氧气和电子。胆绿素呈绿色，并被进一步还原（通过酶胆绿素还原酶）为黄色色素胆红素，然后与白蛋白结合转运至肝脏。{{exhibit_1}}\n\n(选项A) 胆红素葡萄糖醛酸转移酶，或尿苷5'-二磷酸-葡萄糖醛酸转移酶（UGT），是将胆红素结合到葡萄糖醛酸中的必要酶。缺乏UGT或使用干扰其活性的药物会损害肝脏结合胆红素的能力。\n\n(选项B、D和E) 铁螯合酶（被铅抑制）是血红素合成途径中的最终酶。卟胆原脱氨酶（PBG脱氨酶）和尿卟啉原脱羧酶（UROD）也参与血红素的生成，而不是降解；UROD缺乏可见于迟发性皮肤卟啉症，这是最常见的卟啉症，PBG脱氨酶缺乏可见于急性间歇性卟啉症。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the enzymatic breakdown of heme and the resulting color changes observed in resolving hematomas. Specifically, it focuses on the role of heme oxygenase in converting heme to biliverdin, which is responsible for the greenish color seen in bruises.\n\nTo solve this question, understand the sequence of events in heme degradation. Recall that heme oxygenase is the enzyme that converts heme to biliverdin, which is green. Knowing this enzymatic step allows you to select the correct answer.",
+    "zh": "这个问题测试对血红素酶解以及在消退性血肿中观察到的颜色变化的了解。具体来说，它侧重于血红素加氧酶在将血红素转化为胆绿素中的作用，胆绿素是导致瘀伤呈现绿色颜色的原因。\n\n为了解决这个问题，了解血红素降解中的事件序列。回想一下，血红素加氧酶是将血红素转化为胆绿素的酶，胆绿素是绿色的。了解这一酶促步骤使您能够选择正确的答案。"
+  },
+  "tags": "Heme oxygenase; Biliverdin; Hematoma; Bruise; Ecchymosis; Heme metabolism; Bilirubin metabolism; Enzyme; Biochemistry; Hematology",
+  "category": "Blood",
+  "question_id": "1456",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1456",
+  "extracted_at": "2025-11-05T11:23:27.106524",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:27:12.355093",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 58-year-old airline captain comes to the office after he was found to have abnormal vision testing during a pilot medical certification examination. The patient feels well and has no ocular symptoms. Vision testing shows normal visual acuity but moderate loss of peripheral vision in both eyes. Results of the funduscopic examination are shown in the image below. {{exhibit_1}} Other neurologic and cardiopulmonary examination findings are unremarkable. He is started on latanoprost eyedrops. The medication is most likely to improve this patient's condition through which of the following mechanisms?",
+    "zh": "一名58岁的航空公司机长因飞行员体检发现视力检查异常而前来就诊。患者感觉良好，无眼部症状。视力检查显示视力正常，但双眼周边视力中度丧失。眼底检查结果如下图所示。{{exhibit_1}} 其他神经系统和心肺检查结果无特殊。他开始使用拉坦前列素滴眼液。该药物最可能通过以下哪种机制改善患者的病情？"
+  },
+  "question": {
+    "en": "The medication is most likely to improve this patient's condition through which of the following mechanisms?",
+    "zh": "该药物最可能通过以下哪种机制改善患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased bicarbonate formation in ciliary body",
+      "zh": "睫状体中碳酸氢盐的形成减少"
+    },
+    "B": {
+      "en": "Decreased formation of abnormal blood vessels in retina",
+      "zh": "视网膜中异常血管的形成减少"
+    },
+    "C": {
+      "en": "Decreased secretion of aqueous humor",
+      "zh": "房水的分泌减少"
+    },
+    "D": {
+      "en": "Increased outflow of aqueous humor",
+      "zh": "房水流出增加"
+    },
+    "E": {
+      "en": "Vasoconstriction in ciliary body",
+      "zh": "睫状体血管收缩"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The patient's presentation of normal visual acuity with moderate loss of peripheral vision is suggestive of OPEN-ANGLE GLAUCOMA. Open-angle glaucoma is characterized by increased intraocular pressure due to increased secretion or decreased outflow of aqueous humor. This leads to progressive loss of ganglion cell axons, which may be visualized as a pale optic disc and enlarged optic cup compared to the normal retina. The loss of peripheral vision is a hallmark symptom that evolves over decades.\n\nLatanoprost is a topical PROSTAGLANDIN used in the treatment of glaucoma. It is applied as a prodrug and converted to its active form by esterases in the cornea. Prostaglandins are the preferred first-line agents for the treatment of glaucoma. Although the exact mechanism of action is uncertain, they have been found to decrease the collagen content in the uveoscleral outflow pathway and INCREASE OUTFLOW of aqueous humor. They are also known to cause increased pigmentation in the iris and eyelashes.\n\n(Choices A, C, and E) Carbonic anhydrase inhibitors (eg, dorzolamide) decrease formation of bicarbonate in the ciliary body, leading to decreased sodium and fluid transport and subsequently decreased production of aqueous humor. Alpha-adrenergic agonists (eg, brimonidine) inhibit production of aqueous humor due to vasoconstriction in the ciliary body. Beta blockers (eg, timolol) also decrease production of aqueous humor. Prostaglandins do not affect production of aqueous humor but are often used in combination with these other agents.\n\n(Choice B) Increased formation of new blood vessels at the optic disc is the characteristic feature of proliferative diabetic retinopathy. Strict control of diabetes will reduce the risk of diabetic retinopathy, but it is not affected by topical prostaglandins.\n\nKey clinical pearls:\n- Latanoprost is a prostaglandin analog that increases aqueous humor outflow via the uveoscleral pathway.\n- Open-angle glaucoma is characterized by peripheral vision loss and optic disc cupping.\n- Treatment of glaucoma aims to decrease aqueous humor production or increase its outflow.",
+    "zh": "患者表现为视力正常，周边视力中度丧失，提示开角型青光眼。开角型青光眼的特征是由于房水分泌增加或流出减少导致眼内压升高。这会导致神经节细胞轴突进行性丢失，这可能表现为视盘苍白，视杯扩大，与正常视网膜相比。周边视野的丧失是标志性症状，会在几十年内发展。\n\n拉坦前列素是一种用于治疗青光眼的外用前列腺素。它作为前药给药，并在角膜中被酯酶转化为活性形式。前列腺素是治疗青光眼的首选一线药物。尽管确切的作用机制尚不明确，但已发现它们可以降低葡萄膜巩膜流出途径中的胶原含量，并增加房水流出。它们也 known 导致虹膜和睫毛色素沉着增加。\n\n（选项A、C和E）碳酸酐酶抑制剂（如多佐胺）可减少睫状体中碳酸氢盐的形成，导致钠和液体转运减少，进而减少房水的产生。α-肾上腺素能受体激动剂（如溴莫尼定）通过睫状体血管收缩抑制房水生成。β受体阻滞剂（如噻吗洛尔）也可减少房水的产生。前列腺素不影响房水的产生，但通常与其他这些药物联合使用。\n\n（选项B）视盘处新血管的形成是增生性糖尿病视网膜病变的特征。严格控制糖尿病将降低糖尿病视网膜病变的风险，但不会受到局部前列腺素的影响。\n\n关键临床要点：\n- 拉坦前列素是一种前列腺素类似物，通过葡萄膜巩膜途径增加房水流出。\n- 开角型青光眼的特征是周边视野丧失和视盘凹陷。\n- 青光眼的治疗旨在减少房水产生或增加其流出。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of open-angle glaucoma, its clinical presentation, and the mechanism of action of prostaglandin analogs like latanoprost. It assesses the ability to correlate patient symptoms and funduscopic findings with a specific diagnosis and to identify the pharmacological mechanism of a common treatment.\n\nTo solve this question, first identify the likely diagnosis based on the clinical vignette and funduscopic findings. Then, recall or deduce the mechanism of action of the prescribed medication, latanoprost, and select the option that best describes how it lowers intraocular pressure.",
+    "zh": "本题考察对开角型青光眼、其临床表现以及拉坦前列素等前列腺素类似物的作用机制的理解。它评估了将患者症状和眼底检查结果与特定诊断相关联，以及确定常见治疗的药理学机制的能力。\n\n要解决这个问题，首先根据临床病历和小视野检查结果确定可能的诊断。然后，回忆或推断所开药物拉坦前列素的作用机制，并选择最能描述其如何降低眼内压的选项。"
+  },
+  "tags": "Open-angle glaucoma; Prostaglandin analogs; Latanoprost; Aqueous humor outflow; Intraocular pressure; Ophthalmology; Pharmacology",
+  "category": "Ophthalmology",
+  "question_id": "11841",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ophthalmology 23\\11841",
+  "extracted_at": "2025-11-05T19:42:35.018899",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:44:22.392057",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

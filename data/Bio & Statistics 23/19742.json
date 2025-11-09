@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A group of sports physicians plans to conduct a case-control study to investigate a possible association between adolescent idiopathic scoliosis (AIS) and sacroiliac joint (SIJ) dysfunction in young athletes. The case group will consist of young athletes who were diagnosed with AIS during a regular checkup by a sports physician.",
+    "zh": "一群运动医学医生计划进行一项病例对照研究，以调查青少年特发性脊柱侧弯 (AIS) 与年轻运动员骶髂关节 (SIJ) 功能障碍之间可能存在的关联。病例组将由在运动医学医生定期检查中被诊断患有 AIS 的年轻运动员组成。"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate control group for this study?",
+    "zh": "以下哪项是该研究最合适的对照组？"
+  },
+  "options": {
+    "A": {
+      "en": "Young athletes with a diagnosis of AIS and SIJ",
+      "zh": "被诊断患有 AIS 和 SIJ 的年轻运动员"
+    },
+    "B": {
+      "en": "Young athletes with a diagnosis of AIS but not of SIJ",
+      "zh": "被诊断患有 AIS 但未患有 SIJ 的年轻运动员"
+    },
+    "C": {
+      "en": "Young athletes with a diagnosis of AIS irrespective of SIJ status",
+      "zh": "被诊断患有 AIS 且不考虑 SIJ 状态的年轻运动员"
+    },
+    "D": {
+      "en": "Young athletes with no diagnosis of AIS irrespective of SIJ status",
+      "zh": "未被诊断患有 AIS 且不考虑 SIJ 状态的年轻运动员"
+    },
+    "E": {
+      "en": "Young athletes with no diagnosis of AIS or SIJ",
+      "zh": "未被诊断患有 AIS 或 SIJ 的年轻运动员"
+    },
+    "F": {
+      "en": "Young nonathletes with a diagnosis of AIS but not of SIJ",
+      "zh": "被诊断患有 AIS 但未患有 SIJ 的年轻非运动员"
+    },
+    "G": {
+      "en": "Young nonathletes with a diagnosis of AIS irrespective of SIJ status",
+      "zh": "被诊断患有 AIS 且不考虑 SIJ 状态的年轻非运动员"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "A case-control study is an observational design in which potential participants are initially identified as cases or controls according to the dependent variable or outcome (eg, disease of interest). Once cases and controls are identified, the presence of past exposure to ≥1 risk factors of interest is determined in each group. Finally, the frequency of exposure to the risk factors is compared between cases and controls to estimate the association between the risk factors and the outcomes. If there is a statistically significant difference in the frequency of exposure to the risk factor between the 2 groups, it is likely that the risk factor in question is associated with the disease. {{exhibit_1}}\n\nIn this example:\n\n*   The population of interest is young athletes. Therefore, both the cases and control groups must consist of young athletes (Choices F and G).\n*   The disease of interest (ie, what defines a case) is adolescent idiopathic scoliosis (AIS). Therefore, the cases must have AIS and controls must not have AIS (Choices A, B, and C).\n*   The risk factor of interest is sacroiliac joint (SIJ) dysfunction. Cases and controls must be selected irrespective of SIJ status because the presence of SIJ is what is compared between cases and controls (Choice E).\n\nTherefore, the cases are young athletes with a diagnosis of AIS irrespective of SIJ status; the controls are young athletes with no diagnosis of AIS irrespective of SIJ status because what determines whether the disease (ie, AIS) is associated with the risk factor (ie, SIJ) is the difference in the frequency of the risk factor between cases and controls.\n\nEducational objective:\n\nA case-control study is an observational study design; it begins with individuals who have the outcome (\"cases\") and compares them with individuals who do not have the outcome (\"controls\") according to history of exposure to ≥1 risk factors.",
+    "zh": "病例对照研究是一种观察性设计，其中潜在的参与者最初根据因变量或结果（例如，感兴趣的疾病）被确定为病例或对照。一旦确定病例和对照，就会确定各组过去是否接触过 ≥1 个感兴趣的风险因素。最后，比较病例和对照组接触风险因素的频率，以估计风险因素与结果之间的关联。如果两组之间接触风险因素的频率存在统计学上的显著差异，则该风险因素很可能与该疾病相关。 {{exhibit_1}}\n\n在本例中：\n\n*   感兴趣的群体是年轻运动员。因此，病例组和对照组都必须由年轻运动员组成（选项 F 和 G）。\n*   感兴趣的疾病（即，定义病例的）是青少年特发性脊柱侧弯 (AIS)。因此，病例组必须患有 AIS，而对照组不得患有 AIS（选项 A、B 和 C）。\n*   感兴趣的风险因素是骶髂关节 (SIJ) 功能障碍。病例和对照组必须不考虑 SIJ 状态进行选择，因为比较病例和对照组之间的是 SIJ 的存在（选项 E）。\n\n因此，病例是被诊断患有 AIS 且不考虑 SIJ 状态的年轻运动员；对照组是未被诊断患有 AIS 且不考虑 SIJ 状态的年轻运动员，因为决定该疾病（即 AIS）是否与风险因素（即 SIJ）相关的因素是病例和对照组之间风险因素频率的差异。\n\n教育目标：\n\n病例对照研究是一种观察性研究设计；它从有结果（“病例”）的个体开始，并根据接触 ≥1 个风险因素的病史将其与没有结果（“对照”）的个体进行比较。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of case-control study design, specifically how to select appropriate control groups based on the population of interest, disease of interest, and risk factors being investigated. The key is to identify the characteristics that define the cases and then select controls that match the population but do not have the disease, while also being selected irrespective of the risk factor being studied.\n\nTo solve this question, first identify the population of interest (young athletes), the disease of interest (adolescent idiopathic scoliosis), and the risk factor (sacroiliac joint dysfunction). Then, eliminate options that do not match the population or have the disease, and finally, choose the option that selects controls irrespective of the risk factor status.",
+    "zh": "本题考察对病例对照研究设计的理解，特别是如何根据感兴趣的群体、感兴趣的疾病和正在研究的风险因素选择合适的对照组。关键是确定定义病例的特征，然后选择与该群体匹配但没有该疾病的对照组，同时也要不考虑正在研究的风险因素进行选择。\n\n要解决这个问题，首先确定感兴趣的群体（年轻运动员）、感兴趣的疾病（青少年特发性脊柱侧弯）和风险因素（骶髂关节功能障碍）。然后，排除与该群体不匹配或患有该疾病的选项，最后，选择不考虑风险因素状态而选择对照组的选项。"
+  },
+  "tags": "Case-control study; Observational study; Adolescent idiopathic scoliosis; Sacroiliac joint dysfunction; Study design; Epidemiology; Research methodology",
+  "category": "Bio",
+  "question_id": "19742",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19742",
+  "extracted_at": "2025-11-05T11:14:34.637722",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:23:22.518355",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 10-month-old boy is hospitalized for respiratory distress due to Pneumocystis jiroveci pneumonia. The patient has had repeated episodes of otitis media and thrush; weight is below the 5th percentile. Laboratory evaluation reveals normal levels of circulating B cells and T cells with low levels of all immunoglobulins. Genetic testing reveals a rare autosomal recessive mutation resulting in a defect in the regulation of human leukocyte antigen gene transcription. Flow cytometry of the patient's peripheral blood compared with a healthy control is shown in the illustration below: {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "一名10个月大的男孩因肺炎孢子虫肺炎导致呼吸窘迫而住院。患者反复发生中耳炎和鹅口疮；体重低于第5百分位数。实验室评估显示循环B细胞和T细胞水平正常，但所有免疫球蛋白水平较低。基因检测显示一种罕见的常染色体隐性突变，导致白细胞抗原基因转录调节缺陷。患者外周血的流式细胞术与健康对照组的比较如下图所示：{{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "question": {
+    "en": "Which of the following processes is most likely to be impaired by this patient's mutation?",
+    "zh": "以下哪种过程最有可能因该患者的突变而受损？"
+  },
+  "options": {
+    "A": {
+      "en": "Development of pharyngeal pouches",
+      "zh": "咽囊的发育"
+    },
+    "B": {
+      "en": "Capability of activated CD4+ T cells to express CD40L",
+      "zh": "活化CD4+ T细胞表达CD40L的能力"
+    },
+    "C": {
+      "en": "Maturation of pro-B cells into pre-B cells",
+      "zh": "前B细胞向前B细胞的成熟"
+    },
+    "D": {
+      "en": "Presentation of antigens processed in lysosomes",
+      "zh": "溶酶体中处理的抗原的呈递"
+    },
+    "E": {
+      "en": "Transport of cytosolic proteins into the endoplasmic reticulum",
+      "zh": "细胞质蛋白转运到内质网"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's flow cytometry shows normal numbers of CD3+ cells (reflecting circulating T cells) and CD19+ cells (reflecting circulating B cells). However, an absence of HLA-DR indicates defective expression of major histocompatibility complex (MHC) class II molecules. The human leukocyte antigen (HLA) genes encode MHC molecules expressed on the cell surface for antigen presentation. There are 6 major HLA loci:\n\n• HLA-DP, HLA-DQ, and HLA-DR genes encode MHC class II molecules, which are expressed on antigen-presenting cells (eg, B cells, macrophages) after an extracellular antigen has been loaded onto the MHC class I molecule in an acidified lysosome. {{exhibit_5}}\n\n• HLA-A, HLA-B, and HLA-C genes encode MHC class I molecules, which are expressed on nucleated cells after a cytosolic antigen has been transported into the endoplasmic reticulum and loaded onto the MHC class molecule (Choice E).\n\nBecause expression of the MHC class II-peptide complex is necessary for activation of B and T cells, its absence (eg, bare lymphocyte syndrome type II) causes a form of severe combined immunodeficiency.\n\n(Choice A) DiGeorge syndrome is an autosomal dominant disorder caused by the deletion of a segment of chromosome 22 (22q11.2). Failed development of the thymus results in T cell deficiency, which would be evident by a reduction in CD3+ cells on flow cytometry.\n\n(Choice B) CD40 ligand (CD40L) is expressed on activated T helper cells and interacts with CD40 on B cells to promote immunoglobulin class-switching. Impaired CD40L expression can result in hyperimmunoglobulin M syndrome (ie, high IgM levels and low/absent circulating IgG, IgA, and IgE). Although this patient's mutation impairs activation of T cells, his CD4+ T cells would still be capable of expressing CD40L upon activation.\n\n(Choice C) Maturation of pro-B cells into pre-B cells with resulting expression of B cell-specific surface markers (eg, CD19, CD40) is dependent on signal transduction by Bruton tyrosine kinases. A mutation in the BTK gene causes X-linked agammaglobulinemia, which is characterized by hypogammaglobulinemia and recurrent infections after maternal IgG is depleted (~3 months of age). Flow cytometry would show a marked decrease in CD19+ cells.\n\nEducational objective:\nMajor histocompatibility complex (MHC) class II molecules are encoded by the HLA-DP, HLA-DQ, and HLA-DR genes and present extracellular antigens processed in acidified lysosomes by antigen-presenting cells (eg, B cells, macrophages). Absence of MHC class II expression impairs activation of B and T cells, resulting in a form of severe combined immunodeficiency.",
+    "zh": "该患者的流式细胞术显示CD3+细胞（反映循环T细胞）和CD19+细胞（反映循环B细胞）的数量正常。然而，HLA-DR的缺失表明主要组织相容性复合体（MHC）II类分子的表达存在缺陷。人类白细胞抗原（HLA）基因编码在细胞表面表达的MHC分子，用于抗原呈递。有6个主要的HLA基因座：\n\n• HLA-DP、HLA-DQ和HLA-DR基因编码MHC II类分子，这些分子在细胞外抗原被加载到酸化溶酶体中的MHC I类分子上后，在抗原呈递细胞（如B细胞、巨噬细胞）上表达。{{exhibit_5}}\n\n• HLA-A、HLA-B和HLA-C基因编码MHC I类分子，这些分子在胞质抗原被转运到内质网并加载到MHC I类分子上后，在有核细胞上表达。（选项E）。\n\n由于MHC II类-肽复合物的表达对于B细胞和T细胞的活化是必需的，它的缺失（例如，裸淋巴细胞综合征II型）会导致一种严重的联合免疫缺陷。\n\n（选项A）DiGeorge综合征是一种常染色体显性遗传病，由22号染色体（22q11.2）片段的缺失引起。胸腺发育失败导致T细胞缺陷，这可以通过流式细胞术中CD3+细胞的减少来证明。\n\n（选项B）CD40配体（CD40L）在活化的辅助T细胞上表达，并与B细胞上的CD40相互作用，促进免疫球蛋白类别转换。CD40L表达受损可导致高免疫球蛋白M综合征（即，高IgM水平和低/无循环IgG、IgA和IgE）。尽管该患者的突变损害了T细胞的活化，但其CD4+ T细胞在活化后仍能够表达CD40L。\n\n（选项C）前B细胞向先B细胞的成熟，以及由此产生的B细胞特异性表面标志物（如CD19、CD40）的表达，依赖于Bruton酪氨酸激酶的信号转导。BTK基因的突变会导致X连锁无丙种球蛋白血症，其特征是低丙种球蛋白血症和在母体IgG耗尽后（约3个月大）的反复感染。流式细胞术将显示CD19+细胞的显着减少。\n\n教学目标：\n主要组织相容性复合体（MHC）II类分子由HLA-DP、HLA-DQ和HLA-DR基因编码，并通过抗原呈递细胞（如B细胞、巨噬细胞）在酸性溶酶体中呈递处理的细胞外抗原。MHC II类表达的缺失会损害B细胞和T细胞的活化，从而导致一种严重的联合免疫缺陷。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of severe combined immunodeficiency (SCID) and the role of MHC class II molecules in antigen presentation and adaptive immunity. It assesses the ability to interpret flow cytometry data showing absent HLA-DR expression and correlate this with a specific genetic defect affecting antigen processing and presentation.\n\nTo solve this question, one must first identify the abnormal finding in the flow cytometry, which is the absence of HLA-DR expression. This finding points towards a defect in MHC class II antigen presentation. Then, by considering the options provided, the examinee needs to determine which process is directly dependent on MHC class II function for antigen presentation, particularly in the context of SCID.",
+    "zh": "本题测试对严重联合免疫缺陷（SCID）以及MHC II类分子在抗原呈递和适应性免疫中的作用的理解。它评估了解读流式细胞术数据（显示HLA-DR表达缺失）并将其与影响抗原处理和呈递的特定基因缺陷相关联的能力。\n\n要解决这个问题，首先必须确定流式细胞术中的异常发现，即HLA-DR表达的缺失。这一发现指向MHC II类抗原呈递的缺陷。然后，通过考虑提供的选项，考生需要确定哪个过程直接依赖于MHC II类功能来进行抗原呈递，特别是在SCID的背景下。"
+  },
+  "tags": "Severe combined immunodeficiency; MHC class II deficiency; HLA-DR; Flow cytometry; Antigen presentation; Lysosomes; Human leukocyte antigen; Immunology; Genetics",
+  "category": "Immunology",
+  "question_id": "17447",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\17447",
+  "extracted_at": "2025-11-05T19:23:36.587394",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:00:54.134089",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

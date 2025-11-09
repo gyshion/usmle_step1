@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old chef accidentally slices into the tip of her thumb while hurriedly trimming ribeye steaks with a knife. The laceration extends through the skin into the subcutaneous pulp. Which of the following sequences is most likely to occur in the subsequent wound healing process?",
+    "zh": "一名32岁的厨师在匆忙地用刀修剪肋眼牛排时，不慎切到了拇指尖。 伤口延伸穿过皮肤进入皮下组织。 以下哪一种序列最有可能发生在随后的伤口愈合过程中？"
+  },
+  "question": {
+    "en": "Which of the following sequences is most likely to occur in the subsequent wound healing process?",
+    "zh": "以下哪种顺序最有可能发生在随后的伤口愈合过程中？"
+  },
+  "options": {
+    "A": {
+      "en": "Angiogenesis · cellular infiltration · fibrin clot formation",
+      "zh": "血管生成 · 细胞浸润 · 纤维蛋白凝块形成"
+    },
+    "B": {
+      "en": "Angiogenesis · fibrin clot formation · cellular infiltration",
+      "zh": "血管生成 · 纤维蛋白凝块形成 · 细胞浸润"
+    },
+    "C": {
+      "en": "Cellular infiltration · angiogenesis · fibrin clot formation",
+      "zh": "细胞浸润 · 血管生成 · 纤维蛋白凝块形成"
+    },
+    "D": {
+      "en": "Cellular infiltration · fibrin clot formation · angiogenesis",
+      "zh": "细胞浸润 · 纤维蛋白凝块形成 · 血管生成"
+    },
+    "E": {
+      "en": "Fibrin clot formation · angiogenesis · cellular infiltration",
+      "zh": "纤维蛋白凝块形成 · 血管生成 · 细胞浸润"
+    },
+    "F": {
+      "en": "Fibrin clot formation · cellular infiltration · angiogenesis",
+      "zh": "纤维蛋白凝块形成 · 细胞浸润 · 血管生成"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "The correct answer is F. Wound healing occurs in an organized sequence of 4 overlapping phases: hemostasis, inflammation, proliferation, and maturation. \n\nHemostasis, which occurs immediately after tissue injury, involves small vessel constriction, platelet aggregation, and clotting cascade activation that leads to platelet plugging, fibrin clot formation, and cessation of bleeding. For relatively minor injuries, hemostasis is often accomplished within minutes. The fibrin clot that is formed during this phase provides a scaffold for subsequent wound healing.\n\nInflammation usually starts within hours of injury. During this phase, mast cells degranulate, releasing histamine and other chemical mediators that increase vascular permeability and promote cellular infiltration (eg, neutrophils, monocytes). Neutrophils digest bacteria, necrotic tissue, and foreign debris. Monocytes are transformed into macrophages, which secrete growth factors (eg, transforming growth factor-beta, vascular endothelial growth factor) that promote the next phase of healing.\n\nProliferation, which begins during the inflammatory phase and continues for weeks afterward, leads to replacement of injured or missing tissue via the following:\n\n*   Epithelialization: Basal keratinocyte proliferation and migration of new epithelial cells form a new superficial epithelial layer that acts as a barrier to bacteria.\n*   Fibroplasia: Fibroblasts proliferate and synthesize ground substance and collagen, forming a matrix into which capillaries can grow. Simultaneous contraction of myofibroblasts (ie, differentiated fibroblasts that produce contractile proteins) helps decrease the wound size.\n*   Angiogenesis: Proliferation and migration of endothelial cells from nearby blood vessels lead to ingrowth of new capillaries into the collagen matrix.\n\nMaturation, the final phase of wound healing, results in collagen remodeling and cross-linking, which are the primary mechanisms by which the tensile strength of the wound increases.\n\nOption A is incorrect because angiogenesis is part of the proliferation phase, which occurs after inflammation and fibrin clot formation.\nOption B is incorrect because angiogenesis is part of the proliferation phase, which occurs after inflammation and fibrin clot formation.\nOption C is incorrect because fibrin clot formation is part of hemostasis, which is the first phase of wound healing, and angiogenesis is part of proliferation, which occurs later.\nOption D is incorrect because angiogenesis is part of the proliferation phase, which occurs after inflammation and fibrin clot formation.\nOption E is incorrect because cellular infiltration is part of the inflammation phase, which occurs after hemostasis (fibrin clot formation) and before proliferation (angiogenesis).",
+    "zh": "正确答案是 F。伤口愈合以 4 个重叠的阶段有条不紊地进行：止血、炎症、增殖和成熟。\n\n止血，发生在组织损伤后，涉及小血管收缩、血小板聚集和凝血级联反应激活，导致血小板栓塞、纤维蛋白凝块形成和止血。 对于相对较小的损伤，止血通常在几分钟内完成。 在此阶段形成的纤维蛋白凝块为随后的伤口愈合提供了支架。\n\n炎症通常在受伤后数小时内开始。 在此阶段，肥大细胞脱颗粒，释放组胺和其他化学介质，增加血管通透性并促进细胞浸润（例如，中性粒细胞、单核细胞）。 中性粒细胞消化细菌、坏死组织和异物。 单核细胞转化为巨噬细胞，巨噬细胞分泌生长因子（例如，转化生长因子-β、血管内皮生长因子），促进愈合的下一阶段。\n\n增殖，在炎症期开始并持续数周，通过以下方式导致受损或缺失组织的替换：\n\n*   上皮形成：基底角质细胞增殖和新上皮细胞的迁移形成新的表层上皮层，充当细菌屏障。\n*   成纤维细胞增生：成纤维细胞增殖并合成基质和胶原蛋白，形成毛细血管可以生长的基质。 肌成纤维细胞（即，产生收缩蛋白的分化成纤维细胞）的同步收缩有助于减小伤口大小。\n*   血管生成：来自附近血管的内皮细胞的增殖和迁移导致新毛细血管长入胶原基质。\n\n成熟是伤口愈合的最后阶段，导致胶原蛋白重塑和交联，这是伤口抗张强度增加的主要机制。\n\n选项 A 不正确，因为血管生成是增殖阶段的一部分，发生在炎症和纤维蛋白凝块形成之后。\n选项 B 不正确，因为血管生成是增殖阶段的一部分，发生在炎症和纤维蛋白凝块形成之后。\n选项 C 不正确，因为纤维蛋白凝块形成是止血的一部分，这是伤口愈合的第一阶段，而血管生成是增殖的一部分，发生在后期。\n选项 D 不正确，因为血管生成是增殖阶段的一部分，发生在炎症和纤维蛋白凝块形成之后。\n选项 E 不正确，因为细胞浸润是炎症阶段的一部分，发生在止血（纤维蛋白凝块形成）之后和增殖（血管生成）之前。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the sequential phases of wound healing, specifically the order of hemostasis, inflammation, and proliferation.\n\nTo solve this question, recall the four main phases of wound healing: hemostasis, inflammation, proliferation, and maturation. Identify the key events within each phase and arrange them in the correct chronological order as they occur after an injury.",
+    "zh": "这个问题考察对伤口愈合顺序阶段的理解，特别是止血、炎症和增殖的顺序。\n\n要解决这个问题，请回忆伤口愈合的四个主要阶段：止血、炎症、增殖和成熟。 确定每个阶段内的关键事件，并按照受伤后发生的正确时间顺序排列它们。"
+  },
+  "tags": "Wound healing; Hemostasis; Inflammation; Proliferation; Angiogenesis; Fibrin clot formation; Cellular infiltration; Tissue repair",
+  "category": "Pathology",
+  "question_id": "20879",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\20879",
+  "extracted_at": "2025-11-05T19:44:24.116686",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:46:03.094381",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 1-week-old boy is brought to the emergency department due to recurrent vomiting and poor feeding. The infant was born at term via spontaneous vaginal delivery with no complications. Temperature is 36.7 C (98 F), blood pressure is 58/30 mm Hg, pulse is 180/min, and respirations are 40/min. On examination, the patient is tired appearing with a sunken anterior fontanelle and dry mucous membranes. The remainder of the examination is unremarkable. Laboratory results are as follows:\n\nSerum chemistry\n\nSodium 122 mEq/L\nPotassium 5.7 mEq/L\nBlood urea nitrogen 25 mg/dL\nCreatinine 0.6 mg/dL",
+    "zh": "一名1周大的男孩因反复呕吐和喂养不良被送往急诊科。 婴儿足月经阴道自然分娩，无并发症。 体温36.7摄氏度（98华氏度），血压58/30毫米汞柱，脉搏180次/分钟，呼吸40次/分钟。 检查时，患者疲惫，前囟门凹陷，粘膜干燥。 其余检查无特殊发现。 实验室结果如下：\n\n血清化学\n\n钠122毫当量/升\n钾5.7毫当量/升\n血尿素氮25毫克/分升\n肌酐0.6毫克/分升"
+  },
+  "question": {
+    "en": "Which of the following additional laboratory findings are most likely to be seen in this patient? {{exhibit_1}}",
+    "zh": "在这种患者中，最有可能观察到的以下哪些其他实验室发现？ {{exhibit_1}}"
+  },
+  "options": {
+    "A": {
+      "en": "Cortisol ↓; Aldosterone ↓; Serum ACTH ↑; 17-hydroxyprogesterone ↑",
+      "zh": "皮质醇↓；醛固酮↓；血清促肾上腺皮质激素(ACTH)↑；17-羟孕酮↑"
+    },
+    "B": {
+      "en": "Cortisol ↓; Aldosterone ↑; Serum ACTH ↑; 17-hydroxyprogesterone ↓",
+      "zh": "皮质醇↓；醛固酮↑；血清促肾上腺皮质激素(ACTH)↑；17-羟孕酮↓"
+    },
+    "C": {
+      "en": "Cortisol ↓; Aldosterone ↓; Serum ACTH ↓; 17-hydroxyprogesterone ↓",
+      "zh": "皮质醇↓；醛固酮↓；血清促肾上腺皮质激素(ACTH)↓；17-羟孕酮↓"
+    },
+    "D": {
+      "en": "Cortisol ↓; Aldosterone ↓; Serum ACTH ↓; 17-hydroxyprogesterone ↑",
+      "zh": "皮质醇↓；醛固酮↓；血清促肾上腺皮质激素(ACTH)↓；17-羟孕酮↑"
+    },
+    "E": {
+      "en": "Cortisol ↑; Aldosterone ↑; Serum ACTH ↓; 17-hydroxyprogesterone ↑",
+      "zh": "皮质醇↑；醛固酮↑；血清促肾上腺皮质激素(ACTH)↓；17-羟孕酮↑"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This infant is dehydrated (ie, sunken fontanelle, dry mucous membranes) with hypotension, hyponatremia, and hyperkalemia. These findings are consistent with classic congenital adrenal hyperplasia (CAH) due to 21-hydroxylase deficiency.\n\nPatients with 21-hydroxylase deficiency cannot convert 17-hydroxyprogesterone (17-OHP) into 11-deoxycortisol, which results in elevated 17-OHP and decreased aldosterone and cortisol production. Corticosteroid precursors accumulate and are diverted toward excess androgen biosynthesis. Low cortisol levels (ie, loss of negative feedback) also trigger increased ACTH production by the anterior pituitary, which further stimulates the formation of adrenal androgens (Choice D).\n\nAlthough affected girls are usually identified at birth due to ambiguous genitalia (virilization) from excess androgens, boys have normal genitalia and typically are identified at age 1-2 weeks with vomiting, hypotension, hyponatremia, and hyperkalemia due to lack of sufficient mineralocorticoids (salt wasting). Cortisol deficiency causes hypoglycemia and further impairs the ability to maintain blood pressure.\n\n(Choice B) CAH due to 17 alpha-hydroxylase deficiency prevents the conversion of progesterone to 17-OHP, resulting in low 17-OHP, cortisol, and adrenal androgen production. In contrast to this case, hypertension and hypokalemia occur with 17 alpha-hydroxylase deficiency due to increased mineralocorticoids.\n\n(Choice C) Adrenal steroid synthesis is also impaired with primary adrenal insufficiency (ie, Addison disease); however, autoimmune destruction of the adrenal glands is unlikely to occur in the first week of life, making 21-hydroxylase deficiency a much more likely cause of adrenal crisis in this patient.\n\n(Choice E) An ACTH-secreting tumor causes increased synthesis of cortisol and its precursors (eg, 17-OHP). Cushing disease is rare in newborns and would be associated with glucocorticoid-induced hypertension (not hypotension) and subsequent inhibition of aldosterone.\n\nEducational objective:\nClassic 21-hydroxylase deficiency causes decreased cortisol and aldosterone production with increased adrenal androgen production. In boys, this deficiency presents 1-2 weeks after birth with vomiting, hypotension, hyponatremia, and hyperkalemia due to salt wasting; genitalia are normal. In girls, it presents at birth with ambiguous genitalia. {{exhibit_2}}",
+    "zh": "这名婴儿脱水（即囟门凹陷，粘膜干燥），伴有低血压、低钠血症和高钾血症。 这些发现与由于21-羟化酶缺乏引起的典型先天性肾上腺增生症(CAH)一致。\n\n21-羟化酶缺乏症患者不能将17-羟孕酮（17-OHP）转化为11-脱氧皮质醇，这导致17-OHP升高以及醛固酮和皮质醇生成减少。 皮质类固醇前体积累并转向过量的雄激素生物合成。 低皮质醇水平（即负反馈丧失）也会触发垂体前叶增加促肾上腺皮质激素(ACTH)的产生，从而进一步刺激肾上腺雄激素的形成（选项D）。\n\n虽然受影响的女孩通常在出生时就被发现，因为过多的雄激素导致外生殖器模糊（男性化），但男孩有正常的外生殖器，通常在1-2周大时被发现，表现为呕吐、低血压、低钠血症和高钾血症，这是由于缺乏足够的盐皮质激素（盐损耗）。 皮质醇缺乏会导致低血糖，并进一步损害维持血压的能力。\n\n（选项B）由于17α-羟化酶缺乏引起的CAH阻止了孕酮向17-OHP的转化，导致17-OHP、皮质醇和肾上腺雄激素的产生减少。 与本例相反，由于盐皮质激素增加，17α-羟化酶缺乏症会出现高血压和低钾血症。\n\n（选项C）肾上腺类固醇的合成也受到原发性肾上腺功能不全（即艾迪生病）的影响； 然而，肾上腺的自身免疫破坏不太可能发生在生命的第一周，这使得21-羟化酶缺乏成为该患者肾上腺危象更可能的原因。\n\n（选项E）分泌ACTH的肿瘤会导致皮质醇及其前体（如17-OHP）的合成增加。 库欣病在新生儿中很少见，并且与糖皮质激素引起的血压升高（而不是低血压）以及随后的醛固酮抑制有关。\n\n教育目标：\n典型的21-羟化酶缺乏症导致皮质醇和醛固酮的产生减少，肾上腺雄激素的产生增加。 在男孩中，这种缺陷在出生后1-2周出现，表现为呕吐、低血压、低钠血症和高钾血症，这是由于盐损耗引起的； 生殖器是正常的。 在女孩中，它在出生时表现为外生殖器模糊。 {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of congenital adrenal hyperplasia (CAH) due to 21-hydroxylase deficiency, including its presentation, pathophysiology, and expected laboratory findings. It requires understanding of the hormonal imbalances and their clinical consequences.\n\nTo solve this question, recognize the signs of salt-wasting CAH (hyponatremia, hyperkalemia, dehydration, hypotension). Recall the hormonal deficiencies (cortisol, aldosterone) and compensatory increase in ACTH and 17-hydroxyprogesterone.",
+    "zh": "此问题测试对由于21-羟化酶缺乏引起的先天性肾上腺增生症(CAH)的知识，包括其表现、病理生理学和预期的实验室结果。 它需要了解激素失衡及其临床后果。\n\n要解决这个问题，需要认识到盐损耗型CAH的体征（低钠血症、高钾血症、脱水、低血压）。 回忆激素缺乏（皮质醇、醛固酮）以及ACTH和17-羟孕酮的代偿性增加。"
+  },
+  "tags": "Congenital adrenal hyperplasia; 21-hydroxylase deficiency; Hyponatremia; Hyperkalemia; Hypotension; Dehydration; ACTH; 17-hydroxyprogesterone; Endocrinology; Pediatrics; Salt wasting",
+  "category": "Endo",
+  "question_id": "930",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\930",
+  "extracted_at": "2025-11-05T14:11:56.765862",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:43:45.646636",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

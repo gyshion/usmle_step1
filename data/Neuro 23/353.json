@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 21-year-old man is brought to the emergency department by his mother after she found him violently shaking on the kitchen floor of her home. The patient urinated on himself and bit his tongue during the incident. He has a past medical history of posttraumatic epilepsy and is noncompliant with his antiseizure medications. In the hospital, he has several brief, back-to-back generalized tonic-clonic seizures and never fully regains consciousness between episodes. Intravenous lorazepam 2 mg is administered, and the seizures stop. Intravenous infusion of another drug is started simultaneously to prevent seizure recurrence.",
+    "zh": "一名21岁的男性由他的母亲带到急诊科，此前他母亲发现他在家里的厨房地板上剧烈抽搐。患者在事发时尿失禁并咬伤了自己的舌头。他有外伤后癫痫病史，并且不遵守他的抗癫痫药物治疗。在医院里，他出现了几次短暂的、连续的全身强直-阵挛性癫痫发作，并且在发作之间从未完全恢复意识。静脉注射劳拉西泮2毫克，癫痫发作停止。同时开始静脉输注另一种药物以防止癫痫复发。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely mechanism of action of the second drug infused in this patient?",
+    "zh": "该患者静脉输注的第二种药物最可能的作用机制是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreases calcium current in thalamic neurons",
+      "zh": "减少丘脑神经元的钙电流"
+    },
+    "B": {
+      "en": "Decreases sodium current in cortical neurons",
+      "zh": "减少皮质神经元的钠电流"
+    },
+    "C": {
+      "en": "Dose-dependent activation of postsynaptic GABA receptors",
+      "zh": "剂量依赖性激活突触后GABA受体"
+    },
+    "D": {
+      "en": "Increases postsynaptic chloride influx",
+      "zh": "增加突触后氯离子内流"
+    },
+    "E": {
+      "en": "Irreversible inhibition of GABA catabolism in the central nervous system",
+      "zh": "不可逆地抑制中枢神经系统中GABA的分解代谢"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Intravenous lorazepam is a benzodiazepine that potentiates the effects of the inhibitory neurotransmitter GABA in the central nervous system. It is the initial drug of choice for treatment of status epilepticus due to its efficacy and rapid onset of action. Intravenous phenytoin (or fosphenytoin) is a long-acting anticonvulsant that is administered concurrently to prevent the recurrence of seizure activity, regardless of patient responsiveness to lorazepam. Phenytoin inhibits neuronal high-frequency firing in the cortex by reducing the ability of sodium channels to recover from inactivation.\n\n(Choice A) Ethosuximide blocks T-type calcium channels in thalamic neurons. It is a first-line treatment for absence seizures.\n\n(Choices C and D) Benzodiazepines and barbiturates (eg, phenobarbital) bind to the ligand-gated chloride channel of the GABA receptor. These substances enhance the inhibitory effect of GABA by increasing postsynaptic chloride influx.\n\n(Choice E) Vigabatrin is an irreversible inhibitor of GABA transaminase, the enzyme responsible for GABA catabolism in the central nervous system. Vigabatrin is one of several drugs that can be used in cases of treatment-resistant epilepsy.\n\nEducational objective:\nStatus epilepticus is a single seizure lasting >5 minutes or the occurrence of multiple discrete seizures with incomplete recovery of consciousness between episodes. The initial treatment includes intravenous lorazepam and phenytoin given concurrently. Phenytoin is a long-acting anticonvulsant that inhibits neuronal high-frequency firing by reducing the ability of sodium channels to recover from inactivation.",
+    "zh": "静脉注射劳拉西泮是一种苯二氮卓类药物，可增强中枢神经系统中抑制性神经递质GABA的作用。由于其疗效和快速起效，它是治疗癫痫持续状态的首选药物。静脉注射苯妥英钠（或磷苯妥英钠）是一种长效抗惊厥药，与劳拉西泮同时给药以防止癫痫发作复发，无论患者对劳拉西泮的反应如何。苯妥英钠通过降低钠通道从失活中恢复的能力来抑制皮质神经元的高频放电。\n\n(选项 A) 乙琥胺阻断丘脑神经元的 T 型钙通道。这是失神发作的一线治疗。\n\n(选项 C 和 D) 苯二氮卓类药物和巴比妥类药物（例如，苯巴比妥）与GABA受体的配体门控氯离子通道结合。这些物质通过增加突触后氯离子内流来增强 GABA 的抑制作用。\n\n(选项 E) 氨己烯酸是一种不可逆的 GABA 转氨酶抑制剂，该酶负责中枢神经系统中 GABA 的分解代谢。氨己烯酸是可用于治疗耐药性癫痫的几种药物之一。\n\n教育目标：\n癫痫持续状态是指持续>5分钟的单次癫痫发作，或多次离散性癫痫发作，且发作间意识未完全恢复。初始治疗包括静脉注射劳拉西泮和苯妥英钠，同时给药。苯妥英钠是一种长效抗惊厥药，通过降低钠通道从失活中恢复的能力来抑制神经元高频放电。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the treatment of status epilepticus and the mechanism of action of commonly used antiseizure medications, specifically phenytoin. The key to solving this question is recognizing that the patient is in status epilepticus and that phenytoin is often used as a second-line agent after benzodiazepines.",
+    "zh": "这个问题考察了对癫痫持续状态的治疗以及常用抗癫痫药物（特别是苯妥英钠）的作用机制的了解。解决这个问题的关键是认识到患者处于癫痫持续状态，并且苯妥英钠通常用作苯二氮卓类药物之后的二线药物。"
+  },
+  "tags": "Status epilepticus; Epilepsy; Phenytoin; Lorazepam; Antiseizure medications; Neurology; Emergency medicine; Sodium channels; GABA receptors",
+  "category": "Neuro",
+  "question_id": "353",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\353",
+  "extracted_at": "2025-11-05T15:34:15.730989",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:26:10.670230",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

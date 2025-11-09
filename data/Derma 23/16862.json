@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 50-year-old woman comes to the office for evaluation of a mole on her back. The mole has been present for several years, but her daughter is concerned that it might have grown larger lately. The patient has no other medical conditions but had frequent sunburns during childhood. Dermoscopic examination of the lesion is shown in the image below {{exhibit_1}}.\nThe lesion has multiple color variations, including dark brown, pink, red, and whitish areas. Excisional biopsy of the lesion is performed. The whitish areas (arrows) seen on histologic examination most likely represent which of the following underlying processes?",
+    "zh": "一名50岁女性因背部痣的评估而来就诊。这颗痣已经存在好几年了，但她的女儿担心它最近可能变大了。患者没有其他疾病史，但在儿童时期经常晒伤。病变的皮肤镜检查见下图{{exhibit_1}}。\n病变有多种颜色变化，包括深棕色、粉红色、红色和发白区域。进行了病变的切除活检。组织学检查中观察到的发白区域（箭头）最可能代表以下哪种潜在过程？"
+  },
+  "question": {
+    "en": "The whitish areas (arrows) seen on histologic examination most likely represent which of the following underlying processes?",
+    "zh": "组织学检查中观察到的发白区域（箭头）最可能代表以下哪种潜在过程？"
+  },
+  "options": {
+    "A": {
+      "en": "Intense inflammation",
+      "zh": "剧烈炎症"
+    },
+    "B": {
+      "en": "Melanocyte regression",
+      "zh": "黑素细胞消退"
+    },
+    "C": {
+      "en": "Proliferating, neoplastic melanocytes",
+      "zh": "增殖性肿瘤性黑素细胞"
+    },
+    "D": {
+      "en": "Proliferating, nonneoplastic melanocytes",
+      "zh": "增殖性非肿瘤性黑素细胞"
+    },
+    "E": {
+      "en": "Vessel ectasia",
+      "zh": "血管扩张"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient who had multiple sunburns as a child has a skin lesion with several classic features of MELANOMA, including Asymmetry, Border irregularity, Color variegation, Diameter ≥6 mm (hash marks), and Evolution over time.\n\nColor variegation is a common feature of melanoma; the different colors represent different areas of activity within the tumor:\n\n*   Red areas are due to vessel ectasia (dilation) and local inflammation (Choices A and E).\n*   Brown or black, flared areas along the border are due to advancing, neoplastic melanocytes (Choice C).\n*   White and gray areas appear when cytotoxic T lymphocytes recognize tumor antigens (eg, melan-A) and induce apoptosis, leading to malignant melanocyte regression (cleared patches).\n\nMelanocyte regression is also a hallmark of treatment response to melanoma immunotherapies, such as the programmed cell death receptor-1 (PD-1) inhibitor pembrolizumab.\n\n(Choice D) This patient's skin findings are characteristic of malignant melanoma. Proliferating nonneoplastic melanocytes do not generally play a role in the development or progression of melanoma.\n\nEducational objective:\nMelanoma lesions often have multiple color variations. The different colors represent different activities within the tumor. Whitish/gray areas occur when cytotoxic T cells recognize tumor antigens and destroy malignant cells, leading to melanocyte regression. Red areas arise due to vessel ectasia and local inflammation, whereas brown or black areas are generally due to advancing malignant melanocytes.",
+    "zh": "这个患者小时候多次晒伤，其皮肤病变具有黑色素瘤的几个典型特征，包括不对称性、边界不规则、颜色多样性、直径≥6毫米（哈希标记）和随时间推移的演变。\n\n颜色多样性是黑色素瘤的常见特征；不同的颜色代表肿瘤内不同的活性区域：\n\n*   红色区域是由于血管扩张（扩张）和局部炎症（选项A和E）。\n*   沿着边界的棕色或黑色、发散区域是由于进展的肿瘤性黑素细胞（选项C）。\n*   当细胞毒性T淋巴细胞识别肿瘤抗原（例如，黑色素-A）并诱导细胞凋亡时，出现白色和灰色区域，导致恶性黑素细胞消退（清除斑块）。\n\n黑素细胞消退也是对黑色素瘤免疫疗法（如程序性细胞死亡受体-1 (PD-1)抑制剂pembrolizumab）治疗反应的标志。\n\n（选项D）该患者的皮肤表现是恶性黑色素瘤的特征。增殖的非肿瘤性黑素细胞通常不会在黑色素瘤的发生或进展中发挥作用。\n\n教育目标：\n黑色素瘤病变通常具有多种颜色变化。不同的颜色代表肿瘤内不同的活动。当细胞毒性T细胞识别肿瘤抗原并破坏恶性细胞，导致黑素细胞消退时，会出现白色/灰色区域。红色区域是由于血管扩张和局部炎症引起的，而棕色或黑色区域通常是由于进展的恶性黑素细胞引起的。"
+  },
+  "summary": {
+    "en": "This question tests the knowledge of melanoma characteristics and the significance of color variations within the lesion, specifically focusing on melanocyte regression. It also touches on the role of cytotoxic T lymphocytes in recognizing and destroying malignant cells.\n\nTo solve this question, recognize the classic features of melanoma (ABCDE) and understand that different colors within the lesion represent different activities. Whitish/gray areas indicate melanocyte regression due to cytotoxic T cell activity.",
+    "zh": "这个问题考察了对黑色素瘤特征的了解以及病变内颜色变化的重要性，特别侧重于黑素细胞消退。它还涉及细胞毒性T淋巴细胞在识别和破坏恶性细胞中的作用。\n\n要解决这个问题，需要认识到黑色素瘤的典型特征（ABCDE），并了解病变内的不同颜色代表不同的活动。白色/灰色区域表示由于细胞毒性T细胞活性引起的黑素细胞消退。"
+  },
+  "tags": "Melanoma; Dermatology; Melanocyte regression; Cytotoxic T lymphocytes; Skin lesion; Color variegation; Asymmetry; Border irregularity; Diameter; Evolution",
+  "category": "Derma",
+  "question_id": "16862",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\16862",
+  "extracted_at": "2025-11-05T13:53:54.897568",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:34:27.997749",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

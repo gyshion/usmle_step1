@@ -1,0 +1,59 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old woman comes to the emergency department with progressive fatigue and lower-extremity paresthesias. Medical history is otherwise insignificant and the patient takes no medications. Laboratory studies show a mean corpuscular volume of 112 fL. Upper gastrointestinal endoscopy shows atrophic mucosa in the gastric body and fundus and a normal-appearing antrum. {{exhibit_1}}",
+    "zh": "一名65岁女性因进行性疲劳和下肢感觉异常就诊于急诊科。病史无其他重要内容，患者未服用任何药物。实验室研究显示平均红细胞体积为112 fL。上消化内镜检查显示胃体和胃底的黏膜萎缩，而胃窦外观正常。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Destruction of which of the following gastric layers is most likely responsible for this patient's symptoms?",
+    "zh": "该患者的症状最有可能由下列哪种胃层破坏所致？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The combination of lower-extremity paresthesias, macrocytic red blood cells (RBCs), and gastric body and fundal atrophy is highly suggestive of PERNICIOUS ANEMIA (PA). PA is an autoimmune disorder caused by the cell-mediated destruction of parietal cells {{exhibit_2}}, pink cells found predominantly in the upper glandular layer of the gastric body and fundus. Over time, progressive parietal cell destruction leads to chronic atrophic gastritis (ie, autoimmune gastritis), characterized histologically by a CD4-predominate inflammatory infiltrate, oxyntic gland atrophy, and intestinal metaplasia (ie, normal stomach epithelia replaced by intestinal epithelium wth gobiet cells). Parietal cells are responsible for the secretion of hydrochloric acid and intrinsic factor, a glycoprotein that is involved in the absorption of B₁₂ (cobalamin, an essential nutrient). After a critical number of parietal cells are destroyed and hepatic stores of cobalamin are depleted, patients develop B₁₂ deficiency. This results in a megaloblastic anemia, characterized by macro-ovalocytes (elevated mean corpuscular volume, oval-shaped RBCs) and hypersegmented neutrophils. Patients also develop neurologic dysfunction due to demyelination of the dorsal and lateral spinal tracts, resulting in paresthesias and ataxia.\n\n(Choice B) In contrast to the parietal cell-rich superficial gastric glands, the deeper region of the gastric oxyntic glands has a preponderance of small, basophilic, granular chief cells that synthesize and secrete pepsinogen.\n\n(Choice C) This region contains the muscularis mucosae, which separates the lamina propria from the submucosa.\n\n(Choice D) This region contains the submucosa, which consists of well-vascularized connective tissue.\n\nEducational objective:\nPernicious anemia is an autoimmune disorder caused by the cell-mediated destruction of parietal cells in the superficial upper glandular layer of the gastric body and fundus. Parietal cells are responsible for the secretion of hydrochloric acid and intrinsic factor, a glycoprotein involved in the absorption of B₁₂. Deficiency leads to megaloblastic anemia and neurologic dysfunction. {{exhibit_3}} {{exhibit_4}}",
+    "zh": "下肢感觉异常、大细胞性红细胞（RBCs）和胃体及胃底萎缩的组合高度提示恶性贫血（PA）。PA 是一种自身免疫性疾病，由壁细胞的细胞介导破坏引起{{exhibit_2}}，壁细胞是主要存在于胃体和胃底上腺层中的粉红色细胞。随着时间的推移，进行性壁细胞破坏导致慢性萎缩性胃炎（即自身免疫性胃炎），其组织学特征为以CD4为主的炎症浸润、泌酸腺萎缩和肠化生（即，正常胃上皮被具有杯状细胞的肠上皮取代）。壁细胞负责分泌盐酸和内因子，内因子是一种参与B₁₂（钴胺素，一种必需营养素）吸收的糖蛋白。在一定数量的壁细胞被破坏并且肝脏钴胺素储存耗尽后，患者会出现B₁₂缺乏症。这会导致巨幼红细胞性贫血，其特征是巨卵形细胞（平均红细胞体积升高，卵圆形RBCs）和多分叶中性粒细胞。患者还会由于脊髓背侧和侧束的脱髓鞘而出现神经功能障碍，导致感觉异常和共济失调。\n\n（选项B）与富含壁细胞的浅表胃腺不同，胃泌酸腺的深层区域主要含有合成和分泌胃蛋白酶原的小型、嗜碱性、颗粒状主细胞。\n\n（选项C）该区域包含粘膜肌层，将固有层与粘膜下层分开。\n\n（选项D）该区域包含粘膜下层，由血管丰富的结缔组织构成。\n\n教育目标：\n恶性贫血是一种自身免疫性疾病，由胃体和胃底浅上腺层中壁细胞的细胞介导破坏引起。壁细胞负责分泌盐酸和内因子，内因子是一种参与B₁₂吸收的糖蛋白。缺乏会导致巨幼红细胞性贫血和神经功能障碍。{{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pernicious anemia, its pathophysiology involving parietal cell destruction, and the resulting B12 deficiency leading to megaloblastic anemia and neurological symptoms.\n\nTo solve this question, recognize the clinical presentation of fatigue, paresthesias, macrocytic anemia, and atrophic gastritis. Understand that parietal cells in the gastric body and fundus are responsible for intrinsic factor production, which is essential for B12 absorption.",
+    "zh": "此题考察对恶性贫血的了解，包括其病理生理学（涉及壁细胞破坏）以及由此导致的B12缺乏症，进而导致巨幼红细胞性贫血和神经系统症状。\n\n为了解决这个问题，要识别疲劳、感觉异常、大细胞性贫血和萎缩性胃炎的临床表现。了解胃体和胃底的壁细胞负责内因子的产生，而内因子是B12吸收所必需的。"
+  },
+  "tags": "Pernicious anemia; Vitamin B12 deficiency; Megaloblastic anemia; Atrophic gastritis; Parietal cells; Intrinsic factor; Neurology; Hematology; Gastroenterology",
+  "category": "GIT",
+  "question_id": "124",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\124",
+  "extracted_at": "2025-11-05T14:23:03.778295",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:50:43.845523",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

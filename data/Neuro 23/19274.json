@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 44-year-old woman comes to the office for follow-up. The patient sustained a complete C7 spinal cord injury a year ago after falling off a cliff while hiking. She is able to move her shoulders and upper arms but has paraplegia and uses a wheelchair. The patient has a suprapubic catheter due to neurogenic bladder. She has no other medical conditions. She is a lifelong nonsmoker. Which of the following changes in respiratory parameters are most likely present in this patient? {{exhibit_1}}",
+    "zh": "一名44岁的女性来诊所复诊。该患者一年前在徒步旅行时从悬崖上摔下来，导致完全性C7脊髓损伤。她能够活动肩膀和上臂，但患有截瘫并使用轮椅。由于神经源性膀胱，患者留置耻骨上膀胱导管。她没有其他疾病。她终身不吸烟。该患者最有可能出现以下哪些呼吸参数的变化？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following changes in respiratory parameters are most likely present in this patient?",
+    "zh": "该患者最有可能出现以下哪些呼吸参数的变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased Increased",
+      "zh": "降低 增加"
+    },
+    "B": {
+      "en": "Decreased Normal",
+      "zh": "降低 正常"
+    },
+    "C": {
+      "en": "Normal Decreased",
+      "zh": "正常 降低"
+    },
+    "D": {
+      "en": "Increased Decreased",
+      "zh": "增加 降低"
+    },
+    "E": {
+      "en": "Increased Increased",
+      "zh": "增加 增加"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Patients with spinal cord injuries often have significant alterations in respiratory dynamics. Because different muscles (with different sources of innervation) control inspiration and expiration, respiratory function is differentially impaired based on the level of spinal cord injury.\n\nInspiration is driven by an increase in intrathoracic volume. This is mediated predominantly by contraction of the diaphragm, which is innervated by the phrenic nerve that originates from the C3-C5 nerve rootlets. Accessory muscles of inspiration elevate the sternum and ribs to further expand the thoracic cavity. These include the external intercostals (innervated by thoracic nerve roots), the sternocleidomastoid (innervated by C1-C4), and the scalenes (innervated by C4-C8).\n\nPassive expiration is driven by the net intrinsic elastic recoil of the lungs, chest wall, ribs, and diaphragm and therefore requires no innervation. Active expiration, as measured in this patient's pulmonary function testing, recruits the musculature to pull the ribs down and compress the abdominal contents to push the diaphragm up and decrease intrathoracic volume. This is driven by the internal intercostals (innervated by thoracic nerve roots) and abdominal muscles (innervated by thoracic and lumbar nerve roots).\n\nBecause the spinal cord injury was at the level of C7 in this patient, the diaphragm and many of the accessory inspiratory muscles are likely functional, resulting in minimal impairment of maximal inspiratory pressure. However, the muscles involved in active expiration (ie, internal intercostals and abdominal muscles) are likely significantly impaired, leading to a significant decrease in maximal expiratory pressure.\n\n(Choices A and B) Although the external intercostals are innervated by thoracic nerve roots and may be impaired in this patient, the other accessory muscles of inspiration, including the sternocleidomastoid and scalenes, are typically able to compensate for their loss and adequately elevate the sternum/ribs. This leads to minimal or no change in the maximal inspiratory pressure.\n\nEducational objective:\nThe diaphragm is the principal muscle of inspiration and is innervated by the phrenic nerve, which originates from the C3-5 nerve rootlets. Although expiration is largely achieved through passive recoil, active expiration is aided by the internal intercostals (innervated by thoracic nerve rootlets) and abdominal muscles (innervated by thoracic and lumbar nerve roots).",
+    "zh": "脊髓损伤患者通常会出现呼吸动力学的显著改变。由于不同的肌肉（具有不同的神经支配来源）控制吸气和呼气，呼吸功能会根据脊髓损伤的水平而出现差异性损害。\n\n吸气是由胸腔内体积增加驱动的。这主要由膈肌的收缩介导，膈肌由起源于C3-C5神经根的膈神经支配。吸气的辅助肌肉抬高胸骨和肋骨以进一步扩大胸腔。这些包括外肋间肌（由胸神经根支配）、胸锁乳突肌（由C1-C4支配）和斜角肌（由C4-C8支配）。\n\n被动呼气由肺、胸壁、肋骨和膈肌的净固有弹性回缩驱动，因此不需要神经支配。主动呼气（如在该患者的肺功能检查中测量的那样）募集肌肉以拉下肋骨并压迫腹部内容物，从而将膈肌向上推并减少胸腔内体积。这由内肋间肌（由胸神经根支配）和腹肌（由胸神经根和腰神经根支配）驱动。\n\n由于该患者的脊髓损伤位于C7水平，膈肌和许多辅助吸气肌可能功能正常，导致最大吸气压力的损伤最小。然而，参与主动呼气的肌肉（即内肋间肌和腹肌）可能会受到严重损害，导致最大呼气压力显着降低。\n\n（选项 A 和 B）虽然外肋间肌由胸神经根支配，并且可能在该患者中受损，但其他辅助吸气肌，包括胸锁乳突肌和斜角肌，通常能够代偿其损失并充分抬高胸骨/肋骨。这会导致最大吸气压力几乎没有变化。\n\n教育目标：\n膈肌是主要的吸气肌，由起源于C3-5神经根的膈神经支配。虽然呼气主要通过被动回缩来实现，但主动呼气由内肋间肌（由胸神经根支配）和腹肌（由胸神经根和腰神经根支配）辅助。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of respiratory mechanics and the impact of spinal cord injuries on respiratory muscle function. Specifically, it assesses the understanding of which muscles are involved in inspiration and expiration, and how their function is affected by the level of spinal cord injury.\n\nTo solve this question, consider the level of the spinal cord injury (C7) and its impact on the innervation of respiratory muscles. Determine which muscles are likely to be functional (diaphragm) and which are likely to be impaired (internal intercostals and abdominal muscles). This will lead to the correct answer regarding maximal inspiratory and expiratory pressures.",
+    "zh": "本题考察对呼吸力学和脊髓损伤对呼吸肌功能影响的知识。具体来说，它评估对哪些肌肉参与吸气和呼气以及它们的功能如何受到脊髓损伤水平影响的理解。\n\n要解决这个问题，请考虑脊髓损伤的水平（C7）及其对呼吸肌神经支配的影响。确定哪些肌肉可能功能正常（膈肌）以及哪些肌肉可能受损（内肋间肌和腹肌）。这将得出关于最大吸气压和呼气压的正确答案。"
+  },
+  "tags": "Spinal cord injury; Respiratory mechanics; Inspiration; Expiration; Diaphragm; Intercostal muscles; Pulmonary function testing; Neurogenic bladder; C7 spinal cord injury",
+  "category": "Neuro",
+  "question_id": "19274",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\19274",
+  "extracted_at": "2025-11-05T15:26:40.831585",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:22:42.899065",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

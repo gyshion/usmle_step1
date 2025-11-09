@@ -1,0 +1,71 @@
+{
+  "question_stem": {
+    "en": "A 26-year-old man with a history of excessive daytime sleepiness due to narcolepsy enrolls in a clinical trial evaluating a new stimulant medication. The patient was previously treated with modafinil, but his symptoms did not improve. It is explained to the patient that the new drug works by promoting the release of dopamine and norepinephrine from nerve terminals in the central nervous system. {{exhibit_1}} Adverse effects of the drug are due primarily to excess release of norepinephrine from peripheral autonomic nerve terminals. Which of the following autonomic efferents would be most affected by the use of this drug?",
+    "zh": "一名26岁男性，既往有因发作性睡病引起的白天过度嗜睡史，参加了一项评估新型兴奋剂药物的临床试验。患者先前曾接受莫达非尼治疗，但症状未见改善。向患者解释说，这种新药通过促进多巴胺和去甲肾上腺素从中枢神经系统神经末梢释放而起作用。{{exhibit_1}} 该药物的不良反应主要由于去甲肾上腺素从周围自主神经末梢过度释放所致。下列哪种自主神经传出纤维最有可能受到该药物的影响？"
+  },
+  "question": {
+    "en": "Which of the following autonomic efferents would be most affected by the use of this drug?",
+    "zh": "下列哪种自主神经传出纤维最有可能受到该药物的影响？"
+  },
+  "options": {
+    "A": {
+      "en": "Parasympathetic output to the bronchi",
+      "zh": "通向支气管的副交感神经输出"
+    },
+    "B": {
+      "en": "Parasympathetic output to the heart",
+      "zh": "通向心脏的副交感神经输出"
+    },
+    "C": {
+      "en": "Preganglionic sympathetic output",
+      "zh": "节前交感神经输出"
+    },
+    "D": {
+      "en": "Sympathetic output to adrenal glands",
+      "zh": "通向肾上腺的交感神经输出"
+    },
+    "E": {
+      "en": "Sympathetic output to eccrine sweat glands",
+      "zh": "通向外分泌汗腺的交感神经输出"
+    },
+    "F": {
+      "en": "Sympathetic output to the detrusor muscle",
+      "zh": "通向逼尿肌的交感神经输出"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "The parasympathetic and sympathetic subdivisions of the autonomic nervous system regulate most visceral functions of the body via 2-neuron signal transmission. In the parasympathetic system, preganglionic neurons arise from cranial nerve nuclei (eg, CN III, VII, IX, X) and from the sacral spinal cord and release acetylcholine, which binds to postganglionic nicotinic receptors found within the parasympathetic ganglia or in or near the walls of target organs. Postganglionic neurons also release acetylcholine, activating muscarinic receptors within the target organs (eg, bronchi, heart) (Choices A and B).\n\nIn the sympathetic system, preganglionic neurons arise from the thoracolumbar spinal cord and release acetylcholine, which binds to postganglionic nicotinic receptors in the sympathetic chain and prevertebral ganglia (Choice C). Postganglionic neurons then release norepinephrine, activating alpha/beta receptors within target organs (including the bladder); however, there are 2 notable exceptions to this scheme.\n\n1. The chromaffin cells of the adrenal medulla release norepinephrine and epinephrine directly into the circulation after stimulation by acetylcholine released from sympathetic preganglionic neurons (Choice D).\n2. The preganglionic and postganglionic sympathetic neurons that supply eccrine sweat glands are both cholinergic (Choice E).\n\nAmong the answer choices, only sympathetic output to the detrusor muscle (provided by postganglionic neurons that release norepinephrine) would be significantly affected by the medication. Autonomic output to all the other mentioned structures is mediated by acetylcholine.",
+    "zh": "自主神经系统的副交感神经和交感神经亚部通过2神经元信号传递调节身体的大部分内脏功能。在副交感神经系统中，节前神经元起源于脑神经核（例如，CN III、VII、IX、X）和骶髓，并释放乙酰胆碱，乙酰胆碱与位于副交感神经节内或靠近靶器官壁内的节后烟碱受体结合。节后神经元也释放乙酰胆碱，激活靶器官（例如，支气管、心脏）（选项A和B）内的毒蕈碱受体。\n\n在交感神经系统中，节前神经元起源于胸腰髓，并释放乙酰胆碱，乙酰胆碱与交感神经干和椎旁神经节中的节后烟碱受体结合（选项C）。然后，节后神经元释放去甲肾上腺素，激活靶器官（包括膀胱）内的α/β受体；然而，该方案有2个值得注意的例外。\n\n1. 肾上腺髓质的嗜铬细胞在受到交感神经节前神经元释放的乙酰胆碱刺激后，直接向循环系统释放去甲肾上腺素和肾上腺素（选项D）。\n2. 支配外分泌汗腺的节前和节后交感神经元均为胆碱能神经元（选项E）。\n\n在备选答案中，只有通向逼尿肌的交感神经输出（由释放去甲肾上腺素的节后神经元提供）会受到该药物的显著影响。通向所有其他提及结构的自主神经输出由乙酰胆碱介导。"
+  },
+  "summary": {
+    "en": "The question asks which autonomic efferent pathway would be most affected by a drug that causes excess release of norepinephrine from peripheral autonomic nerve terminals. The explanation details the neurotransmitters involved in both parasympathetic and sympathetic pathways. It highlights that most sympathetic postganglionic neurons release norepinephrine, except for those innervating sweat glands and the adrenal medulla. Therefore, sympathetic output to the detrusor muscle, which relies on norepinephrine, would be significantly affected.",
+    "zh": "该问题询问哪种自主神经传出通路最容易受到一种导致去甲肾上腺素从周围自主神经末梢过量释放的药物的影响。解释详细说明了参与副交感神经和交感神经通路的神经递质。它强调大多数交感神经节后神经元释放去甲肾上腺素，但支配汗腺和肾上腺髓质的神经元除外。因此，通向逼尿肌的交感神经输出（依赖于去甲肾上腺素）将受到显著影响。"
+  },
+  "tags": [
+    "autonomic nervous system",
+    "norepinephrine",
+    "sympathetic nervous system",
+    "parasympathetic nervous system",
+    "neurotransmitters",
+    "pharmacology"
+  ],
+  "category": "Neuro",
+  "question_id": "1359",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\1359",
+  "extracted_at": "2025-11-05T19:33:52.394536",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:33:24.009128",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

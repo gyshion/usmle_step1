@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 21-year-old man comes to the office due to multiple episodes of syncope. The patient has no chest discomfort or dyspnea. He has no known medical problems and does not use tobacco, alcohol, or illicit drugs. The patient is a computer analyst and leads a mostly sedentary lifestyle. He reports that several family members have died of sudden cardiac death. Genetic analysis reveals an ion channel defect. Due to the defect, cardiac cells show decreased outward potassium flow and resultant prolongation of the action potential.",
+    "zh": "一名21岁的男性因多次晕厥发作前来就诊。患者没有胸部不适或呼吸困难。他没有已知的医疗问题，并且不使用烟草、酒精或违禁药物。该患者是一名计算机分析师，过着久坐不动的日常生活方式。他报告说，几名家庭成员死于心脏性猝死。基因分析显示离子通道缺陷。由于该缺陷，心肌细胞显示钾外流减少，导致动作电位延长。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely consequence of this patient's disease?",
+    "zh": "该患者的疾病最可能的后果是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Abnormal anatomic communication between cardiac chambers",
+      "zh": "心腔之间的异常解剖沟通"
+    },
+    "B": {
+      "en": "Asymmetric hypertrophy of the left ventricle",
+      "zh": "左心室不对称肥大"
+    },
+    "C": {
+      "en": "Ischemic myocardial necrosis followed by scarring",
+      "zh": "缺血性心肌坏死，继而出现瘢痕形成"
+    },
+    "D": {
+      "en": "Left ventricular dilation and systolic dysfunction",
+      "zh": "左心室扩张和收缩功能障碍"
+    },
+    "E": {
+      "en": "Ventricular tachycardia and sudden death",
+      "zh": "室性心动过速和猝死"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's recurrent syncope, family history of sudden death, and ion channel defect (decreased outward potassium flow with prolonged action potential) is suggestive of CONGENITAL LONG QT SYNDROME (LQTS). There are several genetic mutations described in patients with congenital LQTS. The 2 most common forms (LQT type 1 and LQT type 2) are due to genetic mutations in K+ channel proteins that contribute to the outward-rectifying potassium current.\n\nPhase 3 (repolarization) of the myocardial action potential occurs due to time-dependent inactivation of the L-type (long-lasting, large-conductance) Ca2+ channels (which reduces inward current) along with activation of the voltage-gated delayed rectifier K+ channels (which increases outward current). This net increase in outward transmembrane current is responsible for ventricular repolarization. Decreased outward potassium flow due to K+ channel mutations leads to prolongation of action potential duration and QT interval. Prolongation of QT interval predisposes to the development of life-threatening ventricular arrhythmias (eg, torsades de pointes), which can present as recurrent palpitations, syncope, seizures, or sudden cardiac death {{exhibit_1}}.\n\n(Choice A) Abnormal anatomic communication between cardiac chambers presents in patients with atrial septal defects, ventricular septal defects, or patent ductus arteriosus. These disorders are not associated with any genetic defects in ion channels.\n\n(Choice B) Asymmetric hypertrophy of the left ventricle occurs in patients with hypertrophic cardiomyopathy, an autosomal dominant disorder caused by mutations in sarcomere genes. The 2 most common mutations involve the cardiac myosin-binding protein C gene and cardiac beta-myosin heavy chain gene.\n\n(Choice C) Ischemic myocardial necrosis and scarring occur in myocardial infarction and often lead to left ventricular systolic dysfunction. Patients with scarred myocardium are also at increased risk for developing ventricular arrhythmias; however, these arrhythmias would not be associated with an ion channel defect.\n\n(Choice D) Dilated cardiomyopathy is characterized by left ventricle dilation and systolic dysfunction. Several genetic mutations involving the sarcomere structure and function have been identified in patients with familial dilated cardiomyopathy. However, abnormal transmembrane K+ currents are not known to be directly involved in the pathophysiology.",
+    "zh": "该患者反复晕厥、心脏性猝死家族史和离子通道缺陷（钾外流减少伴动作电位延长）提示先天性长QT综合征（LQTS）。先天性LQTS患者已描述了多种基因突变。最常见的2种形式（LQT 1型和LQT 2型）是由于参与外向整流钾电流的K+通道蛋白的基因突变所致。\n\n心肌动作电位的第3期（复极化）是由于L型（长时程、大电导）Ca2+通道的时间依赖性失活（减少内向电流）以及电压门控延迟整流K+通道的激活（增加外向电流）所致。这种外向跨膜电流的净增加是室性复极化的原因。由于K+通道突变导致钾外流减少，导致动作电位持续时间和QT间期延长。QT间期延长易发生危及生命的室性心律失常（例如，尖端扭转型室速），可表现为反复心悸、晕厥、癫痫发作或心脏性猝死 {{exhibit_1}}。\n\n（选项A）心腔之间的异常解剖沟通可见于房间隔缺损、室间隔缺损或动脉导管未闭的患者。这些疾病与离子通道的任何基因缺陷无关。\n\n（选项B）左心室不对称肥大见于肥厚型心肌病患者，这是一种由肌节基因突变引起的常染色体显性遗传病。最常见的2个突变涉及心脏肌球蛋白结合蛋白C基因和心脏β-肌球蛋白重链基因。\n\n（选项C）缺血性心肌坏死和瘢痕形成发生于心肌梗死，并且常常导致左心室收缩功能障碍。心肌瘢痕形成的患者也面临发生室性心律失常的风险增加；然而，这些心律失常与离子通道缺陷无关。\n\n（选项D）扩张型心肌病的特征是左心室扩张和收缩功能障碍。在有家族性扩张型心肌病的患者中，已经确定了涉及肌节结构和功能的几种基因突变。然而，异常的跨膜K+电流不直接参与其病理生理学。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of congenital long QT syndrome (LQTS), specifically the pathophysiology related to ion channel defects and the resulting risk of ventricular arrhythmias. The question requires recognizing the clinical presentation of LQTS and linking it to the underlying genetic defect and its consequences.\n\nThe approach to solving this question involves identifying the key features of the case (syncope, family history of sudden death, ion channel defect), recognizing the association with LQTS, and understanding how the potassium channel defect leads to prolonged QT interval and increased risk of ventricular tachycardia and sudden death.",
+    "zh": "此问题测试对先天性长QT综合征（LQTS）的认识，特别是与离子通道缺陷相关的病理生理学以及由此产生的室性心律失常的风险。该问题需要识别LQTS的临床表现，并将其与潜在的基因缺陷及其后果联系起来。\n\n解决此问题的方法包括识别病例的关键特征（晕厥、心脏性猝死家族史、离子通道缺陷），识别与LQTS的关联，并了解钾通道缺陷如何导致QT间期延长以及室性心动过速和心脏性猝死风险增加。"
+  },
+  "tags": "Congenital long QT syndrome; LQTS; Ion channel defect; Ventricular tachycardia; Sudden cardiac death; Potassium channels; Arrhythmia; Cardiology; Genetics; Syncope",
+  "category": "CVS",
+  "question_id": "86",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\86",
+  "extracted_at": "2025-11-05T12:17:50.025671",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:32:05.151235",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "An 8-year-old girl is brought to the office for evaluation of a skin rash on her upper back. The rash is not painful but is mildly pruritic. She has no prior medical conditions, takes no medications, and is up to date with vaccinations. Vital signs are within normal limits. Right scapular area skin examination is shown in the exhibit {{exhibit_1}}. The remainder of the examination is normal.",
+    "zh": "一名8岁女孩因上背部皮疹来诊。皮疹无疼痛，但轻度瘙痒。她既往无任何疾病史，未服用药物，并按时接种疫苗。生命体征在正常范围内。右侧肩胛区皮肤检查见附图 {{exhibit_1}}。其余检查结果均正常。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's current condition?",
+    "zh": "以下哪项最可能是该患者目前病情的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Deep tissue invasion by normal skin flora",
+      "zh": "正常皮肤菌群对深层组织的侵袭"
+    },
+    "B": {
+      "en": "Epidermal damage from excessive sun exposure",
+      "zh": "过度日晒引起的表皮损伤"
+    },
+    "C": {
+      "en": "Immunologic response to bacterial pharyngitis",
+      "zh": "对细菌性咽炎的免疫反应"
+    },
+    "D": {
+      "en": "Infection limited to keratinized structures",
+      "zh": "仅限于角质化结构的感染"
+    },
+    "E": {
+      "en": "Proliferation of a pathogen transmitted by tick bite",
+      "zh": "通过蜱虫叮咬传播的病原体增殖"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with a mildly pruritic, polycyclic rash with a raised, scaly border and central clearing has tinea corporis. Patches of tinea corporis are typically round or ovoid but may become confluent to form a \"flower petal\" shape. Skin contact, especially in warm and humid environments, is a common risk factor, and patients often have concurrent infections in other body areas. Any species of dermatophyte may cause this condition, but Trichophyton rubrum is the most frequent culprit.\n\nDermatophyte infections (eg, tinea corporis, tinea pedis, tinea cruris) infect keratinized matter in the stratum corneum of the superficial epidermis but do not invade the dermis or subcutaneous tissues. The diagnosis is confirmed with potassium hydroxide (KOH) preparation of skin scrapings, which show the characteristic segmented hyphae and arthrospores {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}}.\n\n(Choice A) Candida albicans is a commensal organism that is normally present on the skin. Cutaneous candidiasis (eg, intertrigo) is an inflammatory condition involving approximated skin surfaces (eg, axillae, groin); Candida most commonly causes invasive infection in immunocompromised (eg, neutropenic) patients.\n\n(Choice B) Sunburn presents with erythema, itching, and pain in sun-exposed areas. Sunburned skin may undergo superficial desquamation (peeling), but this patient's rounded lesions with peripheral scaling are more consistent with tinea corporis.\n\n(Choice C) Patients with untreated streptococcal pharyngitis can develop erythema marginatum, a fleeting pink or red rash with central clearing that can appear, disappear, and reappear within hours. This is a hallmark feature of rheumatic fever and is usually accompanied by other signs such as migratory arthritis, carditis, subcutaneous nodules, and Sydenham chorea.\n\n(Choice E) Acute Lyme disease is characterized by flu-like symptoms and erythema migrans, a slowly spreading erythematous rash with central clearing at the site of the tick bite. Disseminated disease can present with multiple lesions, but the lesions are flat or only slightly raised and the border is indistinct rather than scaly; they often develop a targetoid appearance.\n\nEducational objective:\nTinea corporis presents with round or ovoid lesions with a raised, scaly border and central clearing. Trichophyton rubrum is the most common cause and infects keratinized matter in the stratum corneum of the superficial epidermis but does not invade the dermis or subcutaneous tissues.",
+    "zh": "这位患者出现轻度瘙痒、多环状皮疹，边缘隆起、鳞屑，中心变清，诊断为体癣。体癣斑片通常呈圆形或卵圆形，但可能会融合形成“花瓣”状。皮肤接触，尤其是在温暖和潮湿的环境中，是一个常见的危险因素，患者通常在其他身体部位也有合并感染。任何种类的皮肤癣菌都可能导致这种情况，但红色毛癣菌是最常见的病原体。\n\n皮肤癣菌感染（如体癣、足癣、股癣）会感染表皮浅层角质层的角质化物质，但不会侵入真皮或皮下组织。通过皮肤刮片的氢氧化钾 (KOH) 制备可确诊，显示特征性的分节菌丝和节孢子 {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}}。\n\n(选项 A) 白色念珠菌是一种通常存在于皮肤上的共生生物。皮肤念珠菌病（如间擦疹）是一种涉及相邻皮肤表面的炎症性疾病（如腋窝、腹股沟）；念珠菌最常见于免疫功能低下（如中性粒细胞减少症）的患者中引起侵袭性感染。\n\n(选项 B) 晒伤表现为日晒部位的红斑、瘙痒和疼痛。晒伤的皮肤可能会出现浅表脱屑（脱皮），但该患者的圆形病灶伴有周围鳞屑，更符合体癣。\n\n(选项 C) 未经治疗的链球菌性咽炎患者可能会出现边缘性红斑，这是一种短暂的粉红色或红色皮疹，中心变清，可在数小时内出现、消失和再次出现。这是风湿热的标志性特征，通常伴有其他体征，如游走性关节炎、心肌炎、皮下结节和 Sydenham 舞蹈症。\n\n(选项 E) 急性莱姆病以流感样症状和游走性红斑为特征，这是一种在蜱虫叮咬部位缓慢扩散的红斑性皮疹，中心变清。播散性疾病可表现为多发性病灶，但病灶平坦或仅轻微隆起，边界模糊而非鳞屑；它们通常会呈现靶心状。\n\n教学目标：\n体癣表现为圆形或卵圆形病灶，边缘隆起、鳞屑，中心变清。红色毛癣菌是最常见的原因，感染表皮浅层角质层的角质化物质，但不会侵入真皮或皮下组织。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of dermatophyte infections, specifically tinea corporis, including its clinical presentation, risk factors, and diagnostic methods. It also requires differentiating tinea corporis from other skin conditions with similar presentations.\n\nTo solve this question, recognize the key features of tinea corporis (polycyclic rash, raised scaly border, central clearing) and associate it with dermatophyte infections that affect keratinized tissues. Rule out other options based on their distinct clinical characteristics and pathophysiology.",
+    "zh": "此题考察对皮肤癣菌感染（特别是体癣）的知识，包括其临床表现、危险因素和诊断方法。它还需要将体癣与其他表现相似的皮肤病区分开来。\n\n为了解决这个问题，要认识体癣的关键特征（多环状皮疹、隆起鳞屑边缘、中心变清），并将其与影响角质化组织的皮肤癣菌感染联系起来。根据其他选项独特的临床特征和病理生理学，排除其他选项。"
+  },
+  "tags": "Tinea corporis; Dermatophyte infection; Fungal infection; Skin rash; KOH preparation; Dermatology; Infectious disease",
+  "category": "Derma",
+  "question_id": "15579",
+  "has_exhibits": true,
+  "exhibit_count": 7,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\15579",
+  "extracted_at": "2025-11-05T13:53:40.387591",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:34:25.800658",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

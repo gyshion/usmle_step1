@@ -1,0 +1,56 @@
+{
+  "question_stem": {
+    "en": "A researcher is studying the structure of different hormone receptors. Receptor proteins are isolated and purified from a homogenized tissue sample. Detailed structural analysis shows that one of the receptor proteins contains a 30–amino acid motif coordinating a zinc ion, as shown below. {{exhibit_1}}",
+    "zh": "一位研究人员正在研究不同激素受体的结构。从匀浆组织样本中分离并纯化受体蛋白。详细的结构分析表明，其中一种受体蛋白包含一个协调锌离子的 30 个氨基酸基序，如下所示。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following hormones most likely binds to the receptor containing this structure?",
+    "zh": "以下哪种激素最有可能与包含这种结构的受体结合？"
+  },
+  "options": {
+    "A": {
+      "en": "ACTH",
+      "zh": "促肾上腺皮质激素 (ACTH)"
+    },
+    "B": {
+      "en": "Antidiuretic hormone",
+      "zh": "抗利尿激素"
+    },
+    "C": {
+      "en": "Epinephrine",
+      "zh": "肾上腺素"
+    },
+    "D": {
+      "en": "Insulin",
+      "zh": "胰岛素"
+    },
+    "E": {
+      "en": "Thyroid hormone",
+      "zh": "甲状腺激素"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Zinc finger motifs are composed of amino acid chains bound together around a zinc ion via linkages with cysteine (and sometimes histidine) residues. This forms a stable, finger-shaped structure containing 2 antiparallel beta strands and an alpha helix. Unique combinations of amino acids as well as the specific histidine and cysteine linkages determine DNA-binding specificity. Many transcription factors use multiple zinc finger motifs to recognize specific genes and alter their activity.\n\nAlthough most hormones alter transcription regulation to some degree in target cells, only **intracellular receptors** located in the cytoplasm or nucleus can act directly as transcription factors. These intracellular receptors typically bind **lipid-soluble** hormones because the ligand must diffuse across the cell membrane to reach the receptor. Once bound to their ligand, these receptors **bind directly to target DNA sequences via zinc fingers to regulate gene expression.** Examples include receptors for **thyroid hormone**, steroids (eg, estrogen, aldosterone, cortisol), and fat-soluble vitamins.\n\n(Choices A, B, C, and D) In contrast to lipid-soluble hormones, non-lipid-soluble hormones usually interact with transmembrane receptors found on the cell membrane. These receptors use a signal transduction cascade involving second messengers with subsequent activation of non–receptor-associated transcription factors; they do not contain DNA-binding domains. Examples include the G protein–coupled receptors that bind ACTH, antidiuretic hormone, and epinephrine as well as receptors with intrinsic tyrosine kinase activity (eg, insulin receptor).\n\nEducational objective:\nZinc finger motifs are composed of amino acid chains bound together around a zinc ion. They recognize specific DNA sequences and are used by many transcription factors to bind DNA and alter activity of target genes. Intracellular receptors that act directly as transcription factors and contain zinc finger binding domains include those that bind thyroid hormone, steroids, and fat-soluble vitamins.",
+    "zh": "锌指基序由氨基酸链组成，这些氨基酸链通过与半胱氨酸（有时是组氨酸）残基的连接结合在一起，围绕锌离子。这形成了一个稳定的、手指状的结构，包含 2 个反平行 β 折叠和 α 螺旋。独特的氨基酸组合以及特定的组氨酸和半胱氨酸连接决定了 DNA 结合特异性。许多转录因子使用多个锌指基序来识别特定基因并改变其活性。\n\n尽管大多数激素在某种程度上改变靶细胞的转录调控，但只有位于细胞质或细胞核中的**细胞内受体**才能直接充当转录因子。这些细胞内受体通常与**脂溶性**激素结合，因为配体必须穿过细胞膜才能到达受体。一旦与配体结合，这些受体就会**通过锌指直接与靶 DNA 序列结合，以调节基因表达**。例子包括**甲状腺激素**、类固醇（例如，雌激素、醛固酮、皮质醇）和脂溶性维生素的受体。\n\n（选项 A、B、C 和 D）与脂溶性激素相反，非脂溶性激素通常与细胞膜上发现的跨膜受体相互作用。这些受体使用涉及第二信使的信号转导级联反应，随后激活非受体相关转录因子；它们不包含 DNA 结合域。例子包括结合 ACTH、抗利尿激素和肾上腺素的 G 蛋白偶联受体，以及具有内在酪氨酸激酶活性的受体（例如，胰岛素受体）。\n\n教育目标：\n锌指基序由氨基酸链组成，这些氨基酸链围绕锌离子结合在一起。它们识别特定的 DNA 序列，并被许多转录因子用于结合 DNA 并改变靶基因的活性。直接充当转录因子并包含锌指结合域的细胞内受体包括那些与甲状腺激素、类固醇和脂溶性维生素结合的受体。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hormone receptor types and their mechanisms of action, specifically focusing on intracellular receptors and zinc finger motifs. To answer correctly, recognize that zinc finger motifs are characteristic of intracellular receptors that bind lipid-soluble hormones, like thyroid hormone, and directly regulate gene transcription.",
+    "zh": "本题测试对激素受体类型及其作用机制的了解，特别侧重于细胞内受体和锌指基序。要正确回答，需要认识到锌指基序是结合脂溶性激素（如甲状腺激素）并直接调节基因转录的细胞内受体的特征。"
+  },
+  "tags": "Hormone receptors; Intracellular receptors; Zinc finger motifs; Thyroid hormone; Gene transcription; Endocrinology; Biochemistry",
+  "category": "Bio",
+  "question_id": "11950",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\11950",
+  "extracted_at": "2025-11-05T10:28:58.459130",
+  "translated_at": "2025-11-07T16:19:29.762349",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

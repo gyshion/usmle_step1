@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 70-year-old woman comes to the office due to acute midthoracic back pain that started after a ground-level fall. The patient has also had weakness and weight loss for the past 2 months. Blood pressure is 150/70 mm Hg and pulse is 110/min. Examination shows sweaty palms and a fine hand tremor. Laboratory evaluation reveals normal hemoglobin, serum calcium, serum creatinine, and 25-hydroxyvitamin D levels. Serum thyrotropin (TSH) is undetectable. X-ray reveals a compression fracture of the T7 vertebra with diffuse demineralization of the bones {{exhibit_1}}.",
+    "zh": "一位70岁的女性因摔倒后出现的急性胸椎中段背痛来就诊。患者在过去2个月里还出现了乏力和体重减轻。血压为150/70 mm Hg，脉搏为110次/分。体格检查显示手掌出汗，并伴有细微的手部震颤。实验室评估显示血红蛋白、血钙、血肌酐和25-羟基维生素D水平正常。促甲状腺激素（TSH）无法检测到。X光片显示T7椎骨压缩性骨折，伴有弥漫性骨质脱矿{{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is most likely responsible for the bone abnormalities in this patient?",
+    "zh": "以下哪项最有可能导致该患者的骨骼异常？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased bone formation due to inhibition of osteoblast differentiation",
+      "zh": "由于成骨细胞分化受到抑制，骨形成减少"
+    },
+    "B": {
+      "en": "Decreased mineralization of bone matrix",
+      "zh": "骨基质矿化减少"
+    },
+    "C": {
+      "en": "Increased bone resorption due to increased calcitonin release",
+      "zh": "由于降钙素释放增加，骨吸收增加"
+    },
+    "D": {
+      "en": "Increased bone resorption due to stimulation of osteoclasts",
+      "zh": "由于破骨细胞受到刺激，骨吸收增加"
+    },
+    "E": {
+      "en": "Interleukin-1–induced uncoupling of bone resorption and formation",
+      "zh": "白介素-1诱导的骨吸收和骨形成解偶联"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has hyperthyroidism, presenting with weight loss, tremor, tachycardia, and a suppressed TSH level. In addition, she has an acute vertebral compression fracture and diffuse bone mineral loss consistent with osteoporosis.\n\nHyperthyroidism causes increased bone turnover with net bone loss. The bone loss in hyperthyroidism is driven by triiodothyronine (T3), the more active form of thyroid hormone that is generated primarily by deiodination of thyroxine (T4) in peripheral tissues. T3 stimulates osteoclast differentiation, increased bone resorption, and release of calcium {{exhibit_2}}.\n\nAs calcium is released from the bones into the circulation, it suppresses parathyroid hormone (PTH) secretion, which leads to decreased reabsorption of calcium in the renal tubules and gut. This maintains normal blood calcium levels as bone mineralization is progressively depleted.\n\n(Choice A) Thyroid hormone stimulates (not inhibits) osteoblast differentiation and activity, leading to increased formation of new bone. However, in the hyperthyroid state, this effect is outweighed by a greater increase in bone loss.\n\n(Choice B) Mineralization of bone matrix is regulated directly by local concentrations of calcium and inorganic phosphate and indirectly by multiple endocrine and paracrine factors (eg, PTH, vitamin D). Although vitamin D deficiency can cause osteomalacia due to impaired mineralization, thyroid hormone has only a minor effect on this process.\n\n(Choice C) Calcitonin is released by the parafollicular cells of the thyroid. It inhibits osteoclast activity, leading to decreased (not increased) bone resorption. Calcitonin is regulated primarily by circulating calcium levels, not thyroid hormone.\n\n(Choice E) In addition to causing lytic bone lesions, multiple myeloma causes diffuse bone loss due to interleukin-1–induced uncoupling of bone resorption and formation (ie, increased osteoclast activity without a restorative osteoblast action).\n\nEducational objective:\nHyperthyroidism causes increased bone turnover with net bone loss, potentially leading to osteoporosis. The bone loss is driven by triiodothyronine, which stimulates osteoclast differentiation, increased bone resorption, and release of calcium {{exhibit_3}}.",
+    "zh": "该患者患有甲状腺功能亢进症，表现为体重减轻、震颤、心动过速和TSH水平降低。此外，她还患有急性椎体压缩性骨折和弥漫性骨质流失，这与骨质疏松症一致。\n\n甲状腺功能亢进症会导致骨转换增加，净骨量流失。甲状腺功能亢进症中的骨质流失是由三碘甲状腺素（T3）驱动的，T3是甲状腺激素的活性形式，主要通过外周组织中甲状腺素（T4）的脱碘作用产生。T3刺激破骨细胞分化，增加骨吸收，并释放钙{{exhibit_2}}。\n\n当钙从骨骼释放到循环中时，它会抑制甲状旁腺激素（PTH）的分泌，从而导致肾小管和肠道中钙的再吸收减少。这维持了正常的血钙水平，因为骨矿化逐渐耗尽。\n\n(选项A) 甲状腺激素刺激（而非抑制）成骨细胞的分化和活性，从而导致新骨形成增加。然而，在甲状腺功能亢进状态下，这种影响被骨质流失的大幅增加所抵消。\n\n(选项B) 骨基质的矿化直接受钙和无机磷酸盐的局部浓度调节，并间接受多种内分泌和旁分泌因子（例如，PTH、维生素D）调节。尽管维生素D缺乏会导致由于矿化受损引起的骨软化症，但甲状腺激素对该过程的影响很小。\n\n(选项C) 降钙素由甲状腺的滤泡旁细胞释放。它抑制破骨细胞的活性，导致骨吸收减少（而非增加）。降钙素主要受循环血钙水平调节，而不是甲状腺激素。\n\n(选项E) 除了引起溶骨性病变外，多发性骨髓瘤还会由于白介素-1诱导的骨吸收和骨形成解偶联而导致弥漫性骨质流失（即，破骨细胞活性增加，而没有恢复性成骨细胞作用）。\n\n教育目标：\n甲状腺功能亢进症导致骨转换增加，净骨量流失，可能导致骨质疏松症。骨质流失是由三碘甲状腺素驱动的，三碘甲状腺素刺激破骨细胞分化，增加骨吸收，并释放钙{{exhibit_3}}。"
+  },
+  "summary": {
+    "en": "This question tests the knowledge of the effects of hyperthyroidism on bone metabolism and the pathophysiology of osteoporosis in the context of thyroid hormone excess. It requires understanding the role of T3 in stimulating osteoclast activity and bone resorption.\n\nThe best approach is to recognize the signs and symptoms of hyperthyroidism in the patient's presentation and then link the hyperthyroidism to the mechanism of bone loss. Eliminate options that are inconsistent with the known effects of thyroid hormone on bone cells.",
+    "zh": "此题考察了甲状腺功能亢进症对骨代谢的影响以及在甲状腺激素过多的背景下骨质疏松症的病理生理学知识。它要求理解T3在刺激破骨细胞活性和骨吸收中的作用。\n\n最好的方法是识别患者表现出的甲状腺功能亢进症的体征和症状，然后将甲状腺功能亢进症与骨质流失的机制联系起来。排除与甲状腺激素对骨细胞的已知影响不一致的选项。"
+  },
+  "tags": "Hyperthyroidism; Osteoporosis; Bone resorption; Triiodothyronine; T3; Osteoclasts; Endocrinology; Bone metabolism",
+  "category": "Endo",
+  "question_id": "19946",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\19946",
+  "extracted_at": "2025-11-05T14:05:35.059777",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:40:04.531102",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

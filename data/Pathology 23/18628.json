@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 48-year-old woman comes to the office due to a sore throat for the past 3 months. On examination, she is found to have an enlarged, ulcerated left tonsil and a firm, nontender, nonmobile left neck mass. The patient undergoes biopsy of the tonsil. Pathology is consistent with squamous cell carcinoma. Further analysis of the biopsy specimen shows expression of viral genome proteins. Which of the following most likely predisposed the patient to the development of this malignancy?",
+    "zh": "一名48岁的女性因3个月的咽喉痛来就诊。体格检查发现她左侧扁桃体肿大、溃疡，左侧颈部有坚硬、无压痛、不可活动的肿块。患者接受了扁桃体活检。病理结果与鳞状细胞癌一致。进一步分析活检标本显示病毒基因组蛋白的表达。以下哪项最有可能使患者易于发生这种恶性肿瘤？"
+  },
+  "question": {
+    "en": "Which of the following most likely predisposed the patient to the development of this malignancy?",
+    "zh": "以下哪项最有可能使患者易于发生这种恶性肿瘤？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased activity of BRAF-associated protein",
+      "zh": "BRAF相关蛋白的活性降低"
+    },
+    "B": {
+      "en": "Decreased activity of RB-associated protein",
+      "zh": "RB相关蛋白的活性降低"
+    },
+    "C": {
+      "en": "Decreased activity of RET-associated protein",
+      "zh": "RET相关蛋白的活性降低"
+    },
+    "D": {
+      "en": "Overexpression of BRCA1- or BRCA2-associated protein",
+      "zh": "BRCA1 或 BRCA2 相关蛋白的过度表达"
+    },
+    "E": {
+      "en": "Overexpression of MEN1-associated protein",
+      "zh": "MEN1 相关蛋白的过度表达"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The patient presents with a squamous cell carcinoma of the tonsil with evidence of viral genome proteins, strongly suggesting a human papillomavirus (HPV) etiology. HPV is a known oncogenic virus that can lead to various cancers, including oropharyngeal squamous cell carcinoma. HPV oncoproteins E6 and E7 play a critical role in oncogenesis. HPV viral protein E6 binds to p53, a tumor suppressor protein that normally inhibits proliferation of cells with genetic abnormalities. Ubiquitination of the E6-p53 complex induces degradation of p53, leading to unregulated cellular growth. HPV viral protein E7 binds to retinoblastoma (Rb) protein, a tumor suppressor that regulates cell cycle progression by binding to E2F transcription factors. Binding of E7 to Rb displaces E2F, promoting unregulated DNA replication and cell cycle progression. Therefore, decreased activity of RB-associated protein, due to the action of HPV E7, is the most likely predisposing factor. {{exhibit_1}} {{exhibit_2}} {{exhibit_3}}\n\n(A) BRAF is a proto-oncogene that, when mutated and activated, can promote cell proliferation, particularly in melanoma and papillary thyroid cancer. Decreased activity of BRAF-associated protein is not typically associated with HPV-driven oropharyngeal cancer.\n\n(C) RET is a proto-oncogene involved in receptor tyrosine kinase signaling. Mutations leading to its activation are associated with certain endocrine neoplasms (MEN2A, MEN2B) and papillary thyroid cancer. Decreased activity of RET is not implicated in HPV-related carcinogenesis.\n\n(D) BRCA1 and BRCA2 are tumor suppressor genes involved in DNA repair. Mutations leading to their inactivation are associated with increased risk of breast, ovarian, and prostate cancers. Overexpression of these proteins would generally be protective against cancer, not predisposing.\n\n(E) MEN1 is a tumor suppressor gene associated with multiple endocrine neoplasia type 1. Inactivation of MEN1 is linked to tumors of the parathyroid, pituitary, and pancreas. Overexpression of MEN1-associated protein is not a known mechanism for predisposition to HPV-driven oropharyngeal cancer.\n\nKey clinical pearls:\nHPV is a major cause of oropharyngeal squamous cell carcinoma, particularly in younger, non-smoking patients.\nHPV oncoproteins E6 and E7 target tumor suppressor proteins p53 and Rb, respectively.\nLoss of function of tumor suppressor genes (like TP53 and RB) is a critical step in oncogenesis.",
+    "zh": "患者表现为扁桃体鳞状细胞癌，并有病毒基因组蛋白的证据，强烈提示人乳头瘤病毒（HPV）病因。HPV是一种已知的致癌病毒，可导致各种癌症，包括口咽鳞状细胞癌。HPV癌蛋白E6和E7在肿瘤发生中起关键作用。HPV病毒蛋白E6与p53结合，p53是一种抑癌蛋白，通常抑制具有基因异常的细胞的增殖。E6-p53复合物的泛素化诱导p53降解，导致细胞生长失控。HPV病毒蛋白E7与视网膜母细胞瘤(Rb)蛋白结合，Rb是一种抑癌蛋白，通过与E2F转录因子结合来调节细胞周期进程。E7与Rb的结合置换E2F，促进DNA复制和细胞周期进程失控。因此，由于HPV E7的作用，RB相关蛋白的活性降低是最有可能的易感因素。{{exhibit_1}} {{exhibit_2}} {{exhibit_3}}\n\n(A) BRAF是一种原癌基因，当其突变并被激活时，可以促进细胞增殖，特别是在黑色素瘤和乳头状甲状腺癌中。BRAF相关蛋白的活性降低通常与HPV驱动的口咽癌无关。\n\n(C) RET是一种原癌基因，参与受体酪氨酸激酶信号传导。导致其激活的突变与某些内分泌肿瘤（MEN2A、MEN2B）和乳头状甲状腺癌相关。RET活性降低与HPV相关的癌变无关。\n\n(D) BRCA1和BRCA2是参与DNA修复的抑癌基因。导致其失活的突变与乳腺癌、卵巢癌和前列腺癌的风险增加相关。这些蛋白的过度表达通常对癌症具有保护作用，而不是易感作用。\n\n(E) MEN1是一种与多发性内分泌肿瘤1型相关的抑癌基因。MEN1的失活与甲状旁腺、脑垂体和胰腺的肿瘤有关。MEN1相关蛋白的过度表达不是HPV驱动的口咽癌的已知易感机制。\n\n关键临床要点：\nHPV是口咽鳞状细胞癌的主要原因，尤其是在年轻、不吸烟的患者中。\nHPV癌蛋白E6和E7分别靶向抑癌蛋白p53和Rb。\n抑癌基因（如TP53和RB）的功能丧失是肿瘤发生中的关键步骤。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the molecular mechanisms by which human papillomavirus (HPV) contributes to the development of oropharyngeal squamous cell carcinoma. It specifically assesses knowledge of the roles of HPV oncoproteins E6 and E7 in inactivating key tumor suppressor proteins.\n\nTo solve this question, one must first recognize the association between HPV and the patient's presentation. Then, recall the specific targets of HPV oncoproteins E6 and E7, which are the tumor suppressor proteins p53 and retinoblastoma (Rb), respectively. The question asks for the predisposing factor, which in this context is the disruption of tumor suppressor function by HPV.",
+    "zh": "这个问题测试了对人乳头瘤病毒(HPV)如何促进口咽鳞状细胞癌发展的分子机制的理解。它特别评估了对HPV癌蛋白E6和E7在灭活关键抑癌蛋白中的作用的知识。\n\n要解决这个问题，首先必须认识到HPV与患者表现之间的关联。然后，回忆HPV癌蛋白E6和E7的特定靶点，即抑癌蛋白p53和视网膜母细胞瘤(Rb)。问题询问的是易感因素，在这种情况下，易感因素是HPV对抑癌功能的破坏。"
+  },
+  "tags": "Human papillomavirus (HPV); Oropharyngeal squamous cell carcinoma; Tumor suppressor genes; Retinoblastoma protein (Rb); p53; Oncogenesis; Viral oncogenes; Molecular pathology",
+  "category": "Pathology",
+  "question_id": "18628",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\18628",
+  "extracted_at": "2025-11-05T19:44:21.598883",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:45:54.605265",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

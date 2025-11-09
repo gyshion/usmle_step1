@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "This patient is at greatest risk for which of the following complications if his condition is left untreated? {{exhibit_1}}",
+    "zh": "如果该患者的病情未得到治疗，他发生以下哪种并发症的风险最高？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Given the patient's presentation and history, what is the most likely long-term complication if the underlying condition is not treated?",
+    "zh": "根据患者的症状和病史，如果 underlying condition 未得到治疗，最有可能的长期并发症是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Ascending aortic aneurysm",
+      "zh": "升主动脉瘤"
+    },
+    "B": {
+      "en": "Calcified brain lesions",
+      "zh": "脑钙化病灶"
+    },
+    "C": {
+      "en": "Cardiac arrhythmias",
+      "zh": "心律失常"
+    },
+    "D": {
+      "en": "Large joint arthritis",
+      "zh": "大关节炎"
+    },
+    "E": {
+      "en": "Periportal liver fibrosis",
+      "zh": "肝脏门周纤维化"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The patient's presentation is consistent with Chagas disease, which is endemic to Latin America. The patient's history of travel to rural Bolivia and living in an adobe house with a thatched roof and unnetted windows and doors increases the likelihood of exposure to the Triatomine bug, the vector for Trypanosoma cruzi, the causative agent of Chagas disease. The peripheral blood smear is likely to show circulating trypomastigotes. Chronic Chagas cardiomyopathy is the most common complication of Chagas disease and can lead to cardiac arrhythmias, particularly ventricular arrhythmias. Ascending aortic aneurysm is caused by Treponema pallidum, the causative agent of syphilis. Calcified brain lesions are caused by Neurocysticercosis, which is caused by the larval stage of the pork tapeworm Taenia solium. Large joint arthritis is caused by Borrelia burgdorferi, the causative agent of Lyme disease. Periportal liver fibrosis is caused by Schistosomiasis, which is transmitted to humans who swim or bathe in fresh water contaminated with cercariae from infected snails.",
+    "zh": "患者的临床表现与美洲锥虫病一致，这种病在拉丁美洲流行。患者曾到玻利维亚农村旅行，居住在茅草屋顶的土坯房中，且没有安装纱窗和纱门，这增加了暴露于锥蝽（美洲锥虫的媒介）的可能性，而美洲锥虫是锥虫病的病原体。外周血涂片可能会显示循环锥虫。慢性美洲锥虫病性心肌病是锥虫病最常见的并发症，可导致心律失常，尤其是室性心律失常。升主动脉瘤是由梅毒螺旋体（梅毒的病原体）引起的。脑钙化病灶是由神经囊尾蚴病引起的，神经囊尾蚴病是由猪肉绦虫 Taenia solium 的幼虫引起的。大关节炎是由伯氏疏螺旋体（莱姆病的病原体）引起的。肝脏门周纤维化是由血吸虫病引起的，血吸虫病是通过在被感染的蜗牛释放的尾蚴污染的淡水中游泳或沐浴而传播给人类的。"
+  },
+  "summary": {
+    "en": "The patient's presentation and history are consistent with Chagas disease, which is endemic to Latin America. The most likely long-term complication if the underlying condition is not treated is cardiac arrhythmias.",
+    "zh": "患者的临床表现和病史与美洲锥虫病一致，这种病在拉丁美洲流行。如果 underlying condition 未得到治疗，最有可能的长期并发症是心律失常。"
+  },
+  "tags": [
+    "Infectious Diseases",
+    "Chagas Disease",
+    "Cardiology"
+  ],
+  "category": "Micro",
+  "question_id": "15436",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\15436",
+  "extracted_at": "2025-11-05T15:00:10.291634",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:08:57.254013",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

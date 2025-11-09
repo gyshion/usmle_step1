@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 4-week-old boy undergoes cardiac catheterization for closure of a patent ductus arteriosus. The patient was born at 26 weeks gestation due to placental abruption. He has been cared for in the neonatal intensive care unit since delivery. Pulse oximetry shows 99% in the right hand and left foot. Echocardiography shows a moderately sized patent ductus arteriosus. After catheterization but before closure, blood gases are obtained from several locations. Compared with the partial pressure of oxygen (PaO2) of a normal infant, this patient would be expected to have a higher PaO2 in which of the following locations?",
+    "zh": "一名4周大的男婴因动脉导管未闭接受心脏导管插入术。该患者因胎盘早剥于妊娠26周出生。自分娩以来，他一直在新生儿重症监护病房接受护理。脉搏血氧饱和度显示右手和左脚均为99%。超声心动图显示中等大小的动脉导管未闭。导管插入术后但在闭合前，从几个部位获得了血气分析结果。与正常婴儿的氧分压 (PaO2) 相比，该患者在以下哪个部位的PaO2会更高？"
+  },
+  "question": {
+    "en": "Compared with the partial pressure of oxygen (PaO2) of a normal infant, this patient would be expected to have a higher PaO2 in which of the following locations?",
+    "zh": "与正常婴儿的氧分压 (PaO2) 相比，该患者在以下哪个部位的PaO2会更高？"
+  },
+  "options": {
+    "A": {
+      "en": "Ascending aorta",
+      "zh": "升主动脉"
+    },
+    "B": {
+      "en": "Descending aorta",
+      "zh": "降主动脉"
+    },
+    "C": {
+      "en": "Left atrium",
+      "zh": "左心房"
+    },
+    "D": {
+      "en": "Pulmonary artery",
+      "zh": "肺动脉"
+    },
+    "E": {
+      "en": "Right atrium",
+      "zh": "右心房"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "A patent ductus arteriosus (PDA) is a left-to-right shunt that allows continuous flow of oxygenated blood from the aorta into the pulmonary artery {{exhibit_1}}. In the pulmonary artery, the oxygenated blood mixes with deoxygenated blood coming from the right ventricle. This leads to a higher partial pressure of oxygen (PaO2) in the pulmonary artery than would normally be seen.\n\n(Choices A and B) In patients with a left-to-right shunt (eg, atrial or ventricular septal defect, PDA), the PaO2 in the aorta remains the same. In contrast, if the shunt becomes right-to-left due to increased right-sided pressures (ie, Eisenmenger physiology) the oxygen concentration in the aorta can be lower than expected. However, patients with Eisenmenger syndrome have cyanosis, which is not seen in this patient.\n\n(Choice C) The left atrium receives oxygenated blood from the pulmonary circulation, specifically from the alveolar capillaries via the pulmonary veins. Although the volume of blood received by the left atrium is increased with left-to-right PDA shunts, the PaO2 in the left atrium is unchanged as all the blood passes through the lungs.\n\n(Choice E) The right atrium receives deoxygenated blood from the systemic circulation, primarily the superior and inferior vena cava. The left-to-right shunt of a PDA is \"downstream\" of the right atrium (ie, in the pulmonary artery), so the PaO2 of right atrial blood is unchanged.\n\nEducational objective:\nIn patients with patent ductus arteriosus, left-to-right shunting of oxygenated blood from the aorta into the pulmonary artery results in a higher-than-expected oxygen concentration in the pulmonary artery. Oxygen saturation in the left and right heart chambers is unchanged.",
+    "zh": "动脉导管未闭 (PDA) 是一种左向右分流，允许含氧血从主动脉持续流入肺动脉 {{exhibit_1}}。在肺动脉中，含氧血与来自右心室的去氧血混合。这导致肺动脉中的氧分压 (PaO2) 高于正常情况。\n\n（选项A和B）在左向右分流的患者中（例如，房间隔缺损或室间隔缺损、PDA），主动脉中的PaO2保持不变。相反，如果由于右侧压力增加导致分流变为右向左（即，Eisenmenger生理学），主动脉中的氧浓度可能低于预期。但是，Eisenmenger综合征患者有发绀，而该患者没有。\n\n（选项C）左心房接收来自肺循环的含氧血，特别是通过肺静脉来自肺泡毛细血管的含氧血。虽然左心房接收的血量因左向右PDA分流而增加，但左心房中的PaO2保持不变，因为所有血液都通过肺。\n\n（选项E）右心房接收来自体循环的去氧血，主要是上腔静脉和下腔静脉。PDA的左向右分流位于右心房的“下游”（即，在肺动脉中），因此右心房血的PaO2不变。\n\n教育目标：\n在动脉导管未闭的患者中，含氧血从主动脉到肺动脉的左向右分流会导致肺动脉中的氧浓度高于预期。左心房和右心房的血氧饱和度不变。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of patent ductus arteriosus (PDA) and its effect on oxygen saturation in different locations of the heart and great vessels. Specifically, it assesses understanding of left-to-right shunting and its impact on pulmonary artery oxygenation.\n\nThe key to solving this question is recognizing that a PDA causes oxygenated blood to shunt from the aorta into the pulmonary artery. This increases the PaO2 in the pulmonary artery compared to normal, while PaO2 in other locations remains relatively unchanged.",
+    "zh": "此题考察对动脉导管未闭 (PDA) 的病理生理学及其对心脏和大血管不同部位氧饱和度的影响的知识。具体来说，它评估了对左向右分流及其对肺动脉氧合的影响的理解。\n\n解决此题的关键是认识到PDA导致含氧血从主动脉分流到肺动脉。这会增加肺动脉中的PaO2，而其他部位的PaO2相对不变。"
+  },
+  "tags": "Patent ductus arteriosus; PDA; Left-to-right shunt; Pulmonary artery; Oxygen saturation; Neonatology; Cardiology; Congenital heart disease; Hypoxemia",
+  "category": "CVS",
+  "question_id": "19526",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\19526",
+  "extracted_at": "2025-11-05T12:05:58.744360",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:26:16.954064",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

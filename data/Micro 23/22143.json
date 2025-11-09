@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 2-month-old girl is brought to the office due to restricted movements of her upper and lower extremities with swelling of the wrist and knee joints for a week. She was born at 38 weeks gestation via an uncomplicated vaginal delivery and had an unremarkable neonatal course with no history of birth trauma or excessive bleeding. The mother had inconsistent prenatal care. The patient is exclusively breastfed. Examination shows swelling with no warmth or erythema of the bilateral wrist and knee joints. Spontaneous limb movements are decreased; the patient cries on passive movement of the joints. Mild pallor, generalized lymphadenopathy, and hepatosplenomegaly are present. X-rays of the wrist and knee joints reveal metaphyseal erosions with periosteal reaction {{exhibit_1}}.",
+    "zh": "一名2个月大的女婴因上、下肢活动受限，伴有腕关节和膝关节肿胀一周而被带到诊所就诊。她足月（38周）经阴道顺产，新生儿过程无特殊情况，无出生创伤或过度出血史。母亲产前护理不规范。该患者纯母乳喂养。体格检查显示双侧腕关节和膝关节肿胀，无发热或红斑。肢体自发活动减少；被动活动关节时患儿哭闹。存在轻度苍白、全身淋巴结肿大和肝脾肿大。腕关节和膝关节X线片显示干骺端侵蚀伴骨膜反应{{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's illness?",
+    "zh": "以下哪项最可能是该患者疾病的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Chlamydia infection through an infected cervix at birth",
+      "zh": "通过出生时感染的宫颈感染衣原体"
+    },
+    "B": {
+      "en": "HIV infection through breastfeeding",
+      "zh": "通过母乳喂养感染HIV"
+    },
+    "C": {
+      "en": "Staphylococcus aureus through nosocomial transmission",
+      "zh": "通过医院传播感染金黄色葡萄球菌"
+    },
+    "D": {
+      "en": "Transplacental transmission of a spirochete",
+      "zh": "螺旋体经胎盘传播"
+    },
+    "E": {
+      "en": "Transplacental transmission of a tachyzoite",
+      "zh": "速殖子经胎盘传播"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This infant with hepatosplenomegaly and lymphadenopathy has multifocal bony erosions, findings worrisome for CONGENITAL SYPHILIS. This infection is acquired via transplacental transmission of the spirochete Treponema pallidum. Although routine first-trimester screening and treatment when indicated help decrease the risk of in utero transmission, lack of prenatal care increases the risk of fetal transmission.\n\nClassic neonatal findings include copious rhinorrhea and a maculopapular rash involving the palms and soles; however, skeletal abnormalities due to spread of T pallidum to the bone may be the primary reason for evaluation. Typical signs and symptoms include the following:\n\nBilateral and symmetric metaphyseal erosions and periosteal inflammation of long bones\nPathologic fractures\nSwelling, pain, and limited movement of affected extremities\nNonspecific findings in congenital syphilis include fever, hepatosplenomegaly, and lymphadenopathy. Pancytopenia can also occur, and anemia is the most likely cause of this patient's pallor.\n\n(Choice A) Maternal Chlamydia infection is transmitted to the neonate via exposure to genital secretions during delivery. Symptomatic infection in the infant includes conjunctivitis or pneumonia; bony lesions, hepatosplenomegaly, and diffuse lymphadenopathy do not occur.\n\n(Choice B) Transmission of HIV may occur through breastfeeding, and infection should be considered in an infant who has hepatosplenomegaly and lymphadenopathy and whose mother received inconsistent prenatal care. Acute infection may be associated with joint or muscle pain, but metaphyseal erosions and periosteal inflammation make this diagnosis less likely. Moreover, symptomatic infants with HIV typically have persistent diarrhea and recurrent infections (eg, thrush, pneumonia).\n\n(Choice C) Osteomyelitis in infants leads to extremity pain and decreased movement, and Staphylococcus aureus is the most common cause. Most young infants with nosocomial transmission have risk factors (eg, prematurity, prior bacterial infection, history of central line), none of which are seen here. In addition, patients usually have fever, particularly if the infection is multifocal, and hepatosplenomegaly would not be expected.\n\n(Choice E) Infection due to transplacental transmission of a tachyzoite describes congenital toxoplasmosis, which may cause hepatosplenomegaly and lymphadenopathy; chorioretinitis and intracranial calcifications are typical. However, tender, swollen joints with bony erosions would not be seen.\n\nEducational objective:\nCongenital syphilis is acquired via transplacental transmission of the spirochete Treponema pallidum and may present with pain and limited extremity movement due to long bone involvement (eg, metaphyseal erosions, periosteal inflammation). Nonspecific manifestations include hepatosplenomegaly and lymphadenopathy.",
+    "zh": "这位有肝脾肿大和淋巴结肿大的婴儿患有多灶性骨侵蚀，这些发现令人担忧先天性梅毒。这种感染是通过梅毒螺旋体经胎盘传播获得的。尽管在指示时进行常规的孕早期筛查和治疗有助于降低宫内传播的风险，但缺乏产前护理会增加胎儿传播的风险。\n\n典型的新生儿表现包括大量鼻溢和涉及手掌和足底的斑丘疹；然而，由于梅毒螺旋体扩散到骨骼引起的骨骼异常可能是评估的主要原因。典型的体征和症状包括：\n\n长骨的双侧对称性干骺端侵蚀和骨膜炎症\n病理性骨折\n受累肢体肿胀、疼痛和活动受限\n先天性梅毒的非特异性发现包括发热、肝脾肿大和淋巴结肿大。全血细胞减少症也可能发生，贫血是该患者苍白的最可能原因。\n\n(选项A) 母亲衣原体感染通过分娩过程中接触生殖道分泌物传播给新生儿。婴儿的症状性感染包括结膜炎或肺炎；不会出现骨病变、肝脾肿大和弥漫性淋巴结肿大。\n\n(选项B) HIV的传播可能通过母乳喂养发生，对于有肝脾肿大和淋巴结肿大且其母亲产前护理不规范的婴儿，应考虑感染。急性感染可能与关节或肌肉疼痛有关，但干骺端侵蚀和骨膜炎症使这种诊断不太可能。此外，患有HIV的症状性婴儿通常有持续性腹泻和反复感染（例如，鹅口疮、肺炎）。\n\n(选项C) 婴儿的骨髓炎会导致肢体疼痛和活动减少，金黄色葡萄球菌是最常见的原因。大多数通过医院传播感染的婴儿都有危险因素（例如，早产、既往细菌感染、中心静脉置管史），这里都没有。此外，患者通常有发热，特别是如果感染是多灶性的，并且不会出现肝脾肿大。\n\n(选项E) 由于速殖子经胎盘传播引起的感染描述了先天性弓形虫病，其可能导致肝脾肿大和淋巴结肿大；脉络膜视网膜炎和颅内钙化是典型的。然而，不会出现触痛、肿胀的关节伴有骨侵蚀。\n\n教育目标：\n先天性梅毒是通过梅毒螺旋体经胎盘传播获得的，并且可能表现为由于长骨受累（例如，干骺端侵蚀、骨膜炎症）引起的疼痛和肢体活动受限。非特异性表现包括肝脾肿大和淋巴结肿大。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of congenital syphilis presentation, including skeletal abnormalities, hepatosplenomegaly, and lymphadenopathy. It also tests understanding of the transmission routes of various congenital infections.\n\nTo solve this question, recognize the key findings of metaphyseal erosions and periosteal reaction on X-ray, along with hepatosplenomegaly and lymphadenopathy. Consider the mother's lack of prenatal care as a risk factor for congenital infections, particularly syphilis.",
+    "zh": "此题考察对先天性梅毒表现的了解，包括骨骼异常、肝脾肿大和淋巴结肿大。它还考察了对各种先天性感染传播途径的理解。\n\n要解决这个问题，要认识到X线片上干骺端侵蚀和骨膜反应的主要发现，以及肝脾肿大和淋巴结肿大。考虑母亲缺乏产前护理是先天性感染的危险因素，特别是梅毒。"
+  },
+  "tags": "Congenital syphilis; Treponema pallidum; Transplacental infection; Metaphyseal erosion; Periosteal reaction; Hepatomegaly; Splenomegaly; Lymphadenopathy; Infectious disease; Pediatrics",
+  "category": "Micro",
+  "question_id": "22143",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\22143",
+  "extracted_at": "2025-11-05T15:03:52.326992",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:11:44.138238",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

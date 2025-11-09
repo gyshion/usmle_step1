@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 59-year-old man comes to the office for evaluation of a sore on his ear. The lesion has been present for the past 4 months and has shown little change. Physical examination reveals a 1-cm firm, scaly, pink nodule over the right pinna. Biopsy of the lesion shows numerous dysplastic eosinophilic keratinocytes spanning the full thickness of the epidermis and dermis. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}} {{exhibit_8}} {{exhibit_9}}",
+    "zh": "一名59岁男性前来就诊，主诉耳朵上有一个疮。该病灶已存在4个月，变化甚微。体格检查显示右耳廓上方有一个1厘米大小的、坚硬的、鳞屑状的粉红色结节。病灶活检显示，大量的异型性嗜酸性角质形成细胞跨越了表皮和真皮的全层。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}} {{exhibit_8}} {{exhibit_9}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Actinic keratosis",
+      "zh": "日光性角化病"
+    },
+    "B": {
+      "en": "Basal cell carcinoma",
+      "zh": "基底细胞癌"
+    },
+    "C": {
+      "en": "Seborrheic keratosis",
+      "zh": "脂溢性角化病"
+    },
+    "D": {
+      "en": "Squamous cell carcinoma",
+      "zh": "鳞状细胞癌"
+    },
+    "E": {
+      "en": "Verruca vulgaris",
+      "zh": "寻常疣"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Cutaneous squamous cell carcinoma {{exhibit_1}}\n\nThis patient's persistent skin lesion in a sun-exposed area (eg, ear) is concerning for skin cancer, particularly basal cell carcinoma (BCC) or cutaneous squamous cell carcinoma (SCC). Both BCC and cutaneous SCC, which are composed of malignant keratinocytes, can present as a skin-colored nodule. Sometimes differences in gross appearance and texture can help distinguish between the two neoplasms:\n\n*   Nodular BCC classically has a translucent or pearly appearance, often with central telangiectasias.\n*   Cutaneous SCC classically has a rough or scaly (keratinized) surface.\n\nBCC and SCC are not always distinguishable based on gross findings (eg, either may develop ulceration and/or crusting). Therefore, biopsy is essential to make the correct diagnosis:\n\n*   BCC: Biopsy typically shows nests of basaloid cells (ie, resembling the stratum basale) that appear dark blue due to their basophilic, hyperchromatic nuclei and scant cytoplasm. Cells at the periphery frequently display parallel alignment (ie, peripheral palisading) (Choice B).\n*   SCC: Biopsy typically shows nests of dysplastic keratinocytes, which often have abundant cytoplasm that appears eosinophilic due to keratin filaments. Keratin pearls (also eosinophilic) are commonly present.\n\nDermal involvement represents invasion of the dysplastic keratinocytes past the basement membrane, classifying this patient's lesion as invasive (rather than in situ) SCC.\n\n(Choice A) Actinic keratoses also consist of dysplastic keratinocytes and can appear as scaly lesions on sun-exposed areas. However, they are premalignant (vs malignant) lesions; the dysplastic keratinocytes do not involve the full thickness of the epidermis (eg, SCC in situ) or invade the dermis (eg, invasive SCC).\n\n(Choice C) Seborrheic keratoses usually have a velvety or greasy (vs scaly) surface and a \"stuck-on\" appearance. Because they are a result of benign clonal expansion of immature keratinocytes, histologic examination typically reveals proliferation of small basaloid cells that are not dysplastic. Hyperkeratosis (thickened stratum corneum) and keratin-containing cysts are commonly seen.\n\n(Choice E) Verruca vulgaris (ie, common wart) due to human papillomavirus often presents as a nodule or plaque with a rough, hyperkeratotic surface. However, histologic examination typically reveals acanthosis (thickened epidermis), hyperkeratosis, and koilocytosis (keratinocytes with cytoplasmic vacuolization); dysplastic keratinocytes invading the dermis are not seen.\n\nEducational objective:\n\nCutaneous squamous cell carcinoma (SCC) classically presents as a rough or scaly (keratinized) nodule. Diagnosis is made with biopsy, which typically reveals nests of dysplastic keratinocytes with eosinophilic cytoplasm (due to keratin filaments). Dermal involvement signifies invasive SCC.",
+    "zh": "皮肤鳞状细胞癌 {{exhibit_1}}\n\n这位患者在暴露于阳光的区域（如耳朵）出现的持续性皮肤病灶，提示可能为皮肤癌，尤其是基底细胞癌（BCC）或皮肤鳞状细胞癌（SCC）。BCC和皮肤SCC均由恶性角质形成细胞组成，可表现为肤色结节。有时，肉眼外观和质地的差异有助于区分这两种肿瘤：\n\n*   结节性BCC通常呈半透明或珍珠状外观，常伴有中央毛细血管扩张。\n*   皮肤SCC通常具有粗糙或鳞屑状（角质化）表面。\n\nBCC和SCC并非总是可以通过肉眼观察结果来区分（例如，两者都可能发生溃疡和/或结痂）。因此，活检对于做出正确诊断至关重要：\n\n*   BCC：活检通常显示基底细胞巢（即，类似于基底层），由于其嗜碱性、高度染色质的细胞核和稀少的细胞质而呈现深蓝色。 周围的细胞经常显示平行排列（即，周围栅栏状排列）（选项B）。\n*   SCC：活检通常显示异型性角质形成细胞巢，这些细胞通常具有丰富的细胞质，由于角蛋白丝而呈现嗜酸性。 常出现角蛋白珠（也呈嗜酸性）。\n\n真皮受累代表异型性角质形成细胞穿过基底膜的浸润，将该患者的病灶分类为浸润性（而不是原位）SCC。\n\n（选项A）日光性角化病也由异型性角质形成细胞组成，并且可在暴露于阳光的区域出现鳞屑性病灶。然而，它们是癌前（相对于恶性）病灶；异型性角质形成细胞未累及表皮的全层（例如，原位SCC）或浸润真皮（例如，浸润性SCC）。\n\n（选项C）脂溢性角化病通常具有天鹅绒状或油腻（相对于鳞屑状）表面以及“粘附状”外观。由于它们是未成熟角质形成细胞良性克隆扩增的结果，组织学检查通常显示小的基底样细胞增殖，这些细胞无异型性。常可见过度角化（角质层增厚）和含角蛋白囊肿。\n\n（选项E）由于人乳头瘤病毒引起的寻常疣（即，常见的疣）通常表现为具有粗糙、过度角化表面的结节或斑块。然而，组织学检查通常显示棘层增生（表皮增厚）、过度角化和空泡变性（具有细胞质空泡化的角质形成细胞）；未见异型性角质形成细胞浸润真皮。\n\n教育目标：\n\n皮肤鳞状细胞癌（SCC）通常表现为粗糙或鳞屑状（角质化）结节。通过活检做出诊断，活检通常显示具有嗜酸性细胞质（由于角蛋白丝）的异型性角质形成细胞巢。真皮受累标志着浸润性SCC。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of cutaneous squamous cell carcinoma (SCC), including its clinical presentation, risk factors, and histopathological findings. It also requires differentiating SCC from other common skin lesions like basal cell carcinoma, actinic keratosis, seborrheic keratosis, and verruca vulgaris. \n\nTo solve this question, focus on the key clinical features (scaly nodule on sun-exposed skin) and the biopsy findings (dysplastic eosinophilic keratinocytes spanning the full thickness of the epidermis and dermis). This combination strongly suggests invasive squamous cell carcinoma.",
+    "zh": "此问题考察对皮肤鳞状细胞癌（SCC）的了解，包括其临床表现、危险因素和组织病理学发现。 还需要将SCC与其他常见皮肤病灶（如基底细胞癌、日光性角化病、脂溢性角化病和寻常疣）区分开来。\n\n要解决此问题，请关注关键的临床特征（暴露于阳光的皮肤上的鳞屑性结节）和活检结果（异型性嗜酸性角质形成细胞跨越表皮和真皮的全层）。 这种组合强烈提示浸润性鳞状细胞癌。"
+  },
+  "tags": "Squamous cell carcinoma; Skin cancer; Dermatology; Biopsy; Keratinocytes; Actinic keratosis; Basal cell carcinoma; Seborrheic keratosis; Verruca vulgaris; Skin lesion",
+  "category": "Derma",
+  "question_id": "22608",
+  "has_exhibits": true,
+  "exhibit_count": 9,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg",
+    "image9.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\22608",
+  "extracted_at": "2025-11-05T13:56:15.608238",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:35:44.410027",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

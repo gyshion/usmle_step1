@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 53-year-old man comes to the office with progressive exertional dyspnea. He has smoked 2 packs of cigarettes per day for the last 35 years. Physical examination shows increased anteroposterior diameter of his chest. Auscultation reveals decreased breath sounds and scattered wheezes throughout his lungs. Examination of his extremities is unremarkable. Echocardiography reveals moderate dilation of the right ventricle and increased central venous pressure. The absence of peripheral edema in this patient is best explained by which of the following compensatory mechanisms?",
+    "zh": "一名53岁男性因进行性劳力性呼吸困难前来就诊。他过去35年来每天吸烟2包。体格检查显示其胸部前后径增大。听诊显示呼吸音减弱，肺部散在哮鸣音。四肢检查无特殊发现。超声心动图显示右心室中度扩张，中心静脉压升高。该患者不存在外周水肿的最佳解释是以下哪种代偿机制？"
+  },
+  "question": {
+    "en": "The absence of peripheral edema in this patient is best explained by which of the following compensatory mechanisms?",
+    "zh": "该患者不存在外周水肿的最佳解释是以下哪种代偿机制？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased capillary permeability",
+      "zh": "毛细血管通透性降低"
+    },
+    "B": {
+      "en": "Decreased circulating aldosterone levels",
+      "zh": "循环醛固酮水平降低"
+    },
+    "C": {
+      "en": "Decreased interstitial fluid pressure",
+      "zh": "间质液压降低"
+    },
+    "D": {
+      "en": "Increased plasma oncotic pressure",
+      "zh": "血浆胶体渗透压升高"
+    },
+    "E": {
+      "en": "Increased tissue lymphatic drainage",
+      "zh": "组织淋巴引流增加"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient has dyspnea, signs of lung hyperinflation, and a heavy smoking history, suggesting chronic obstructive pulmonary disease (COPD). Chronic hypoxia in COPD can lead to pulmonary vasoconstriction, increased pulmonary artery pressure, and right heart failure (ie, cor pulmonale), which is confirmed by this patient's echocardiogram. In turn, right heart failure leads to increased central venous pressure and elevated peripheral capillary hydrostatic pressure, encouraging the development of peripheral edema.\n\nFluid movement across the capillary wall (filtration) into the interstitium is dependent on hydrostatic pressure, oncotic pressure, and capillary permeability. It is tightly balanced by lymphatic drainage, which returns interstitial fluid to the vasculature. Peripheral edema (accumulation of excess fluid in the interstitial space) develops when transcapillary plasma filtration exceeds the resorptive capacity of the lymphatics. Factors that favor development of edema include:\n\n*   Elevated capillary hydrostatic pressure: Higher capillary pressures increase plasma filtration into the interstitium, particularly in dependent tissues. Causes include sodium and water retention (eg, heart failure, renal failure), arteriolar dilation (eg, dihydropyridine calcium channel blockers), and impaired venous return (eg, venous thrombosis).\n*   Decreased plasma oncotic pressure: Plasma proteins (eg, albumin) generate oncotic pressure that pulls interstitial fluid back into the capillary bed venules. Edema develops in conditions with decreased albumin levels (eg, nephrotic syndrome, cirrhosis, malnutrition).\n*   Lymphatic obstruction: Decreased lymphatic return impairs removal of excess interstitial fluid. Common causes of lymphatic obstruction include filariasis, invasive malignancies, and iatrogenic etiologies (eg, surgical lymph node dissection and radiation therapy).\n\nThe peripheral lymphatics can significantly increase lymphatic drainage from baseline, allowing compensation for increased capillary fluid filtration that can temporarily delay the development of peripheral edema. However, because the peripheral lymphatics offload fluid to the central venous system (via the thoracic duct), which in heart failure is already volume overloaded, the overall ability to compensate is limited. {{exhibit_1}}\n\n(Choices A and D) Although increased plasma oncotic pressure and decreased capillary permeability oppose edema formation, neither is associated with COPD. Severe COPD may cause polycythemia due to hypoxemia, but erythrocyte concentration does not affect plasma oncotic pressure.\n\n(Choice B) In patients with heart failure, activation of the renin-angiotensin-aldosterone system (RAAS) leads to increased aldosterone levels that cause sodium and water retention (exacerbating edema formation). Volume expansion causes increased atrial/brain natriuretic peptide release, which can partially counteract the effects of RAAS activation; however, aldosterone levels remain elevated.\n\n(Choice C) Decreased interstitial fluid pressure favors flow into the interstitium and would contribute to the development of peripheral edema.\n\nEducational objective:\n\nPeripheral edema results from the accumulation of fluid in the interstitial spaces. Factors that promote edema include elevated capillary hydrostatic pressure, decreased plasma oncotic pressure, and impaired lymphatic drainage. In chronic heart failure, increased lymphatic drainage initially offsets factors favoring edema, temporarily delaying edema development.",
+    "zh": "该患者出现呼吸困难、肺过度充气的体征，并且有大量吸烟史，提示慢性阻塞性肺病(COPD)。COPD中的慢性低氧血症可导致肺血管收缩、肺动脉压力升高和右心衰竭（即肺心病），这已通过该患者的超声心动图证实。反过来，右心衰竭会导致中心静脉压升高和外周毛细血管静水压升高，从而促进外周水肿的发生。\n\n液体通过毛细血管壁(滤过)进入间质，这取决于静水压、胶体渗透压和毛细血管通透性。它受到淋巴引流的严格平衡，淋巴引流将间质液回流到血管系统。当跨毛细血管血浆滤过超过淋巴管的吸收能力时，就会发生外周水肿（间质空间中多余液体的积聚）。促进水肿形成的因素包括：\n\n*   毛细血管静水压升高：毛细血管压力越高，血浆滤过进入间质的量越多，尤其是在依赖性组织中。病因包括钠和水分潴留（如心力衰竭、肾衰竭）、小动脉扩张（如二氢吡啶类钙通道阻滞剂）和静脉回流受损（如静脉血栓形成）。\n*   血浆胶体渗透压降低：血浆蛋白（如白蛋白）产生胶体渗透压，将间质液吸回毛细血管床小静脉。在白蛋白水平降低的情况下，水肿会发生（如肾病综合征、肝硬化、营养不良）。\n*   淋巴管阻塞：淋巴回流减少会妨碍多余间质液的清除。淋巴管阻塞的常见病因包括丝虫病、浸润性恶性肿瘤和医源性病因（如手术淋巴结清扫和放射治疗）。\n\n外周淋巴管可以显着增加淋巴引流，从而补偿毛细血管液体滤过的增加，这可以暂时延迟外周水肿的发生。然而，由于外周淋巴管将液体卸载到中心静脉系统（通过胸导管），而中心静脉系统在心力衰竭中已经超负荷，因此总体的代偿能力是有限的。{{exhibit_1}}\n\n（选项A和D）虽然血浆胶体渗透压升高和毛细血管通透性降低可以抵抗水肿的形成，但两者都与COPD无关。严重的COPD可能由于低氧血症引起红细胞增多症，但红细胞浓度不会影响血浆胶体渗透压。\n\n（选项B）在心力衰竭患者中，肾素-血管紧张素-醛固酮系统（RAAS）的激活会导致醛固酮水平升高，从而导致钠和水潴留（加剧水肿的形成）。血容量扩张会导致心房/脑钠尿肽释放增加，这可以部分抵消RAAS激活的影响；然而，醛固酮水平仍然升高。\n\n（选项C）间质液压降低有利于液体流入间质，并将导致外周水肿的发生。\n\n教育目标：\n\n外周水肿是由于液体在间质空间积聚而引起的。促进水肿的因素包括毛细血管静水压升高、血浆胶体渗透压降低和淋巴引流受损。在慢性心力衰竭中，淋巴引流增加最初会抵消有利于水肿的因素，从而暂时延迟水肿的发生。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the compensatory mechanisms that prevent peripheral edema in patients with chronic obstructive pulmonary disease (COPD) and right heart failure. It requires knowledge of fluid dynamics across the capillary wall and the role of lymphatic drainage in maintaining fluid balance.\n\nThe key to solving this question is recognizing that increased tissue lymphatic drainage can temporarily compensate for increased capillary fluid filtration, delaying the development of peripheral edema. Understanding the factors that promote edema formation (elevated capillary hydrostatic pressure, decreased plasma oncotic pressure, and impaired lymphatic drainage) is crucial.",
+    "zh": "本题测试对慢性阻塞性肺病(COPD)和右心衰竭患者中防止外周水肿的代偿机制的理解。它需要了解跨毛细血管壁的液体动力学以及淋巴引流在维持液体平衡中的作用。\n\n解决这个问题的关键是认识到组织淋巴引流增加可以暂时补偿毛细血管液体滤过的增加，从而延迟外周水肿的发生。了解促进水肿形成的因素（毛细血管静水压升高、血浆胶体渗透压降低和淋巴引流受损）至关重要。"
+  },
+  "tags": "Chronic obstructive pulmonary disease (COPD); Right heart failure; Peripheral edema; Lymphatic drainage; Capillary hydrostatic pressure; Plasma oncotic pressure; Fluid balance; Pulmonary hypertension; Cor pulmonale",
+  "category": "CVS",
+  "question_id": "1578",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1578",
+  "extracted_at": "2025-11-05T12:00:17.139276",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:51:24.914152",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

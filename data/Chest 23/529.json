@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 64-year-old woman is hospitalized after injuring her right hip when she slipped on ice while carrying groceries. X-ray reveals a right femoral neck fracture, and the patient undergoes a total hip arthroplasty with no operative complications. Two days after surgery, the patient develops acute hemodynamic decompensation. A contrast-enhanced CT scan of the chest is immediately obtained; a sagittal view is shown below {{exhibit_1}}.",
+    "zh": "一名64岁女性在搬运杂货时因在冰上滑倒导致右髋部受伤后住院。X线显示右侧股骨颈骨折，患者接受全髋关节置换术，无手术并发症。术后两天，患者出现急性血流动力学失代偿。立即进行增强CT扫描检查，矢状位图像如下所示 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "In-hospital administration of which of the following is most appropriate for reducing the risk of patients developing this complication?",
+    "zh": "住院期间，以下哪种药物的给药最适合降低患者发生这种并发症的风险？"
+  },
+  "options": {
+    "A": {
+      "en": "Beta-adrenergic antagonist",
+      "zh": "β-肾上腺素受体拮抗剂"
+    },
+    "B": {
+      "en": "Fresh-frozen plasma",
+      "zh": "新鲜冰冻血浆"
+    },
+    "C": {
+      "en": "Intravenous hydration",
+      "zh": "静脉补液"
+    },
+    "D": {
+      "en": "Low-molecular-weight heparin",
+      "zh": "低分子量肝素"
+    },
+    "E": {
+      "en": "Perioperative antibiotics",
+      "zh": "围手术期抗生素"
+    },
+    "F": {
+      "en": "Tissue plasminogen activator",
+      "zh": "组织型纤溶酶原激活剂"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This contrast-enhanced CT image {{exhibit_2}} reveals a large filling defect within the lumen of the pulmonary artery, which is consistent with PULMONARY EMBOLISM (PE). The thromboembolus usually originates in the deep veins of the lower extremities and travels through the inferior vena cava and right side of the heart to reach the pulmonary circulation. Large emboli lodge in the pulmonary artery bifurcation (\"saddle emboli\") and may cause severe hypotension or sudden cardiac death, whereas smaller emboli occlude peripheral pulmonary arterial branches. In most cases, pulmonary emboli are multiple, with the lower lobes involved more often than the upper lobes.\n\nMany hospitalized patients are at increased risk for venous thromboembolism (VTE) (ie, PE or deep vein thrombosis) due to trauma, prolonged immobilization, or underlying conditions that contribute to a hypercoagulable state (eg, cancer, infection, pregnancy). Patients undergoing large ORTHOPEDIC SURGERIES (eg, hip replacement) are at particularly high risk of VTE. Although the risk of VTE in hospitalized patients cannot be completely eliminated, administration of prophylactic ANTICOAGULATION greatly reduces risk. Low-molecular-weight heparin (eg, enoxaparin) is preferred in most patients due to proven efficacy and relatively low risk of adverse effects.\n\nIn patients at high risk of VTE, the slightly increased risk of bleeding is strongly outweighed by the reduced risk of VTE (and its associated mortality) provided by prophylactic anticoagulation. Early ambulation also helps reduce the risk of VTE.\n\n(Choice A) Beta-adrenergic antagonists (eg, metoprolol) may lower the risk of perioperative myocardial infarction or aortic dissection, but they do not reduce the risk of VTE.\n\n(Choice B) Fresh frozen plasma is used to reverse the effects of warfarin or to provide coagulation factors to patients experiencing massive hemorrhage. It does not reduce the risk of VTE and may even exacerbate an underlying hypercoagulable state.\n\n(Choice C) Intravenous hydration can help prevent perioperative dehydration and prerenal acute kidney injury.\n\n(Choice E) Perioperative antibiotics (eg, cefazolin) may help prevent surgical wound infections.\n\n(Choice F) Tissue plasminogen activator is indicated in the treatment of massive PE complicated by hemodynamic instability. However, it is not appropriate for VTE prophylaxis due to the relatively high risk of serious bleeding complications (eg, intracranial hemorrhage).",
+    "zh": "这张增强CT图像 {{exhibit_2}} 显示肺动脉管腔内存在大的充盈缺损，这与肺栓塞 (PE) 相符。血栓栓子通常起源于下肢深静脉，并通过下腔静脉和右心到达肺循环。大栓子滞留在肺动脉分叉处（“马鞍栓子”），可能导致严重低血压或猝死，而较小的栓子则阻塞外周肺动脉分支。大多数情况下，肺栓塞是多发的，下叶比上叶更容易受累。\n\n许多住院患者由于外伤、长期制动或导致高凝状态的潜在疾病（例如，癌症、感染、妊娠）而增加了静脉血栓栓塞 (VTE)（即，肺栓塞或深静脉血栓形成）的风险。接受大型骨科手术（例如，髋关节置换术）的患者 VTE 风险尤其高。虽然不能完全消除住院患者发生 VTE 的风险，但预防性抗凝治疗可大大降低风险。由于其疗效已得到证实且不良反应风险相对较低，因此低分子量肝素（例如，依诺肝素）是大多数患者的首选药物。\n\n对于 VTE 高危患者，出血风险略有增加，但预防性抗凝治疗降低 VTE（及其相关死亡率）的益处远远大于此风险。早期活动也有助于降低 VTE 的风险。\n\n(选项 A) β-肾上腺素受体拮抗剂（例如，美托洛尔）可降低围手术期心肌梗死或主动脉夹层的风险，但不能降低 VTE 的风险。\n\n(选项 B) 新鲜冰冻血浆用于逆转华法林的效应或为发生大出血的患者提供凝血因子。它不能降低 VTE 的风险，甚至可能加剧潜在的高凝状态。\n\n(选项 C) 静脉补液有助于预防围手术期脱水和肾前性急性肾损伤。\n\n(选项 E) 围手术期抗生素（例如，头孢唑啉）可能有助于预防手术切口感染。\n\n(选项 F) 组织型纤溶酶原激活剂适用于治疗伴有血流动力学不稳定的巨大肺栓塞。然而，由于发生严重出血并发症（例如，颅内出血）的风险相对较高，因此不适用于 VTE 预防。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of venous thromboembolism (VTE) prophylaxis in hospitalized patients, particularly those undergoing orthopedic surgery. It requires recognizing the risk factors for VTE and the appropriate prophylactic measures.\n\nThe best approach is to identify the patient's risk factors (post-operative, orthopedic surgery) and then select the most appropriate prophylactic intervention (anticoagulation with low-molecular-weight heparin) to reduce the risk of VTE.",
+    "zh": "本题考察住院患者，特别是接受骨科手术患者的静脉血栓栓塞 (VTE) 预防知识。它要求识别 VTE 的风险因素和适当的预防措施。\n\n最好的方法是确定患者的风险因素（术后、骨科手术），然后选择最合适的预防性干预措施（低分子量肝素抗凝治疗）以降低 VTE 的风险。"
+  },
+  "tags": "Venous thromboembolism; Pulmonary embolism; Deep vein thrombosis; Anticoagulation; Low-molecular-weight heparin; Orthopedic surgery; Postoperative complications; Prophylaxis; Risk factors",
+  "category": "Chest",
+  "question_id": "529",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\529",
+  "extracted_at": "2025-11-05T11:46:02.100522",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:40:34.788725",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

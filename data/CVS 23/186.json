@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 72-year-old man comes to the office due to progressive shortness of breath. Over the past year, the patient has been unable to perform many of his usual outdoor activities, including afternoon walks and working in the yard. During the last several weeks, he has frequently become easily fatigued and short of breath, and at night he needs several pillows to sleep comfortably. He has also had ankle swelling. The patient has had no chest pain, syncope, abdominal pain, or cough. He is a lifetime nonsmoker. Bibasilar crackles are heard on physical examination. Echocardiography reveals no valvular disease and a nondilated left ventricle with an ejection fraction of 55%. {{exhibit_2}} Which of the following is most strongly associated with this patient's current condition?",
+    "zh": "一位72岁的男性因进行性呼吸困难就诊。在过去一年中，该患者无法进行许多他通常的户外活动，包括下午散步和在院子里工作。在过去几周内，他经常容易疲劳和呼吸急促，并且晚上需要几个枕头才能舒适地睡觉。他也有踝部肿胀。该患者没有胸痛、晕厥、腹痛或咳嗽。他一生不吸烟。体格检查听到双肺底部啰音。超声心动图显示没有瓣膜疾病，左心室未扩张，射血分数为55%。{{exhibit_2}} 以下哪一项与该患者目前的状况密切相关？"
+  },
+  "question": {
+    "en": "Which of the following is most strongly associated with this patient's current condition?",
+    "zh": "以下哪一项与该患者目前的状况密切相关？"
+  },
+  "options": {
+    "A": {
+      "en": "Glomerular hyperfiltration",
+      "zh": "肾小球高滤过"
+    },
+    "B": {
+      "en": "Increased left ventricular afterload",
+      "zh": "左心室后负荷增加"
+    },
+    "C": {
+      "en": "Increased left ventricular compliance",
+      "zh": "左心室顺应性增加"
+    },
+    "D": {
+      "en": "Left ventricular thrombus formation",
+      "zh": "左心室血栓形成"
+    },
+    "E": {
+      "en": "Right-to-left intracardiac shunting",
+      "zh": "右向左心内分流"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has clinical signs and symptoms of decompensated heart failure (eg, dyspnea, fatigue, orthopnea, lower extremity edema, bibasilar crackles); however, echocardiography shows a preserved left ventricular (LV) ejection fraction (>50%) without chamber dilation. HEART FAILURE WITH PRESERVED EJECTION FRACTION (HFpEF) develops due to DIASTOLIC DYSFUNCTION, which frequently occurs in the setting of prolonged SYSTEMIC HYPERTENSION (ie, increased afterload). \n\nOver time, increased pressure load causes the left ventricle to undergo concentric hypertrophy with the addition of myocardial contractile fibers in parallel to increase contractile strength. The thickened LV walls become stiff and less compliant, leading to impaired diastolic relaxation and INCREASED LV END-DIASTOLIC PRESSURE (point 1). Gradually, the elevated pressure transmits back to the pulmonary veins and capillaries, resulting in pulmonary edema. There is also an eventual decline in LV end-diastolic volume (also indicated at point 1) leading to REDUCED CARDIAC OUTPUT and further DECOMPENSATION (stroke volume decreases despite preserved ejection fraction).\n\n(Choice A) The decreased cardiac output in heart failure leads to reduced renal perfusion pressure and glomerular hypofiltration. To compensate, the renin-angiotensin-aldosterone system is activated, and angiotensin II constricts glomerular efferent arterioles in an effort to increase glomerular filtration rate back to normal.\n\n(Choice C) Diastolic dysfunction involves a decrease in LV compliance. LV compliance may increase with eccentric hypertrophy, as occurs in response to LV volume overload (eg, dilated cardiomyopathy).\n\n(Choice D) LV thrombus typically results from localized stagnation of blood as can occur with an LV aneurysm or in the setting of a severely dilated LV cavity with systolic dysfunction. It is not typically associated with diastolic dysfunction and HFpEF.\n\n(Choice E) Atrial and ventricular septal defects are often asymptomatic but can eventually lead to right-to-left intracardiac shunting (Eisenmenger syndrome), typically characterized by cyanosis. This patient's orthopnea, lower extremity edema, and bibasilar crackles suggesting pulmonary edema are more consistent with heart failure.\n\nEducational objective:\nDiastolic dysfunction is a common cause of heart failure with preserved ejection fraction. It typically results from concentric left ventricular hypertrophy in response to prolonged systemic hypertension (ie, increased afterload).",
+    "zh": "该患者有失代偿性心力衰竭的临床体征和症状（例如，呼吸困难、疲劳、端坐呼吸、下肢水肿、双肺底部爆裂音）；然而，超声心动图显示左心室（LV）射血分数（>50%）保留，且无心腔扩张。射血分数保留的心力衰竭（HFpEF）是由于舒张功能障碍引起的，这通常发生在长期全身性高血压（即，后负荷增加）的情况下。\n\n随着时间的推移，压力负荷增加导致左心室发生向心性肥大，并增加平行于心肌收缩纤维以增加收缩力。增厚的左心室壁变得僵硬且顺应性降低，导致舒张期松弛受损和左心室舒张末期压力升高（第1点）。逐渐地，升高的压力传导回肺静脉和毛细血管，导致肺水肿。左心室舒张末期容积也会最终下降（也指示在第1点），导致心输出量减少和进一步的失代偿（尽管射血分数保留，但每搏输出量下降）。\n\n（选项A）心力衰竭时心输出量降低导致肾灌注压力降低和肾小球低滤过。为了代偿，肾素-血管紧张素-醛固酮系统被激活，血管紧张素II收缩肾小球出球小动脉，试图将肾小球滤过率恢复到正常水平。\n\n（选项C）舒张功能障碍涉及左心室顺应性降低。在向心性肥大中，左心室顺应性可能会增加，这发生在对左心室容量超负荷（例如，扩张型心肌病）的反应中。\n\n（选项D）左心室血栓通常是由于血液局部停滞引起的，这可能发生在左心室动脉瘤或伴有收缩功能障碍的严重扩张的左心室腔内。它通常与舒张功能障碍和HFpEF无关。\n\n（选项E）心房和室间隔缺损通常无症状，但最终可能导致右向左心内分流（Eisenmenger综合征），其特征通常是发绀。该患者的端坐呼吸、下肢水肿和双肺底部爆裂音提示肺水肿，更符合心力衰竭。\n\n教育目标：\n舒张功能障碍是射血分数保留的心力衰竭的常见原因。它通常是由于长期全身性高血压（即，后负荷增加）引起的向心性左心室肥大。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of heart failure with preserved ejection fraction (HFpEF), its pathophysiology, and associated conditions. The key is to recognize the patient's symptoms of heart failure despite a preserved ejection fraction, pointing towards diastolic dysfunction as the underlying cause.\n\nTo solve this question, consider the common causes of diastolic dysfunction, such as hypertension leading to increased afterload and concentric left ventricular hypertrophy. Rule out other options based on their association with systolic dysfunction or other unrelated conditions.",
+    "zh": "本题测试对射血分数保留的心力衰竭（HFpEF）的知识、其病理生理学和相关疾病。关键是要识别患者的心力衰竭症状，尽管射血分数保留，这表明舒张功能障碍是潜在原因。\n\n要解决这个问题，请考虑舒张功能障碍的常见原因，例如导致后负荷增加和向心性左心室肥大的高血压。根据其他选项与收缩功能障碍或其他不相关疾病的关联来排除它们。"
+  },
+  "tags": "Heart failure with preserved ejection fraction (HFpEF); Diastolic dysfunction; Systemic hypertension; Left ventricular hypertrophy; Cardiac output; Pulmonary edema; Cardiology",
+  "category": "CVS",
+  "question_id": "186",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\186",
+  "extracted_at": "2025-11-05T12:03:51.262816",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:53:15.809975",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 17-year-old boy who was recently diagnosed with type 1 diabetes mellitus is found unresponsive at home. His family reports that the patient did not feel good last night and skipped dinner, but he still took his usual dose of insulin. Paramedics find that his fingerstick blood glucose is 32 mg/dL and immediately administer intramuscular glucagon. Glucagon binds to a transmembrane receptor in hepatocytes, which promotes binding of intracellular GTP to a specific receptor-associated protein. This leads to further downstream signaling and rapid metabolic changes within hepatocytes, including a rapid decrease in intracellular glycogen stores and release of glucose into the blood. {{exhibit_1}}",
+    "zh": "一名最近被诊断为 1 型糖尿病的 17 岁男孩在家中被发现无反应。他的家人报告说，患者昨晚感觉不舒服，没有吃晚饭，但他仍然使用了通常剂量的胰岛素。医护人员发现他的指尖血糖为 32 mg/dL，并立即注射了肌内胰高血糖素。胰高血糖素与肝细胞中的跨膜受体结合，这促进了细胞内 GTP 与特定受体相关蛋白的结合。这导致进一步的下游信号传导和肝细胞内的快速代谢变化，包括细胞内糖原储存的快速减少以及葡萄糖释放到血液中。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely mediator responsible for these effects?",
+    "zh": "以下哪项最可能是导致这些效应的介质？"
+  },
+  "options": {
+    "A": {
+      "en": "cGMP-dependent protein kinase",
+      "zh": "cGMP 依赖性蛋白激酶"
+    },
+    "B": {
+      "en": "Janus tyrosine kinase",
+      "zh": "Janus 酪氨酸激酶"
+    },
+    "C": {
+      "en": "Phosphodiesterase",
+      "zh": "磷酸二酯酶"
+    },
+    "D": {
+      "en": "Protein kinase A",
+      "zh": "蛋白激酶 A"
+    },
+    "E": {
+      "en": "Tyrosine-specific protein kinase",
+      "zh": "酪氨酸特异性蛋白激酶"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Glucagon exerts its effects through G protein-coupled receptors using the adenylate cyclase second messenger system. Glucagon binds to a G protein-coupled receptor on hepatocytes. Activation of the G protein leads to the activation of adenylate cyclase, which converts ATP to cAMP. cAMP then activates protein kinase A (PKA). PKA phosphorylates specific serine/threonine residues in various enzymes, leading to their activation or deactivation. PKA also phosphorylates proteins that bind to the regulatory regions of genes on DNA. These downstream effects of PKA activation include the breakdown of glycogen to glucose (glycogenolysis) and the synthesis of glucose from non-carbohydrate precursors (gluconeogenesis), leading to an increase in blood glucose levels. {{exhibit_2}}\n\n(Choice A) cGMP-dependent protein kinase is activated by cGMP, not cAMP. cGMP is involved in other signaling pathways, such as smooth muscle relaxation and platelet activation.\n\n(Choice B) Janus tyrosine kinase (JAK) is a cytoplasmic protein activated by ligand binding to non-G protein-coupled transmembrane receptors that lack intrinsic tyrosine kinase activity. JAKs are involved in signaling pathways for growth hormone, erythropoietin, and cytokines.\n\n(Choice C) Phosphodiesterase is an enzyme that breaks down cyclic nucleotides like cAMP and cGMP. It is involved in terminating the signaling cascade, not mediating the effects of glucagon.\n\n(Choice E) Tyrosine-specific protein kinase is activated by ligands that bind to receptors with intrinsic tyrosine kinase activity, such as those for insulin and epidermal growth factor. Glucagon signaling does not involve tyrosine kinases.\n\nEducational objective: Protein kinase A is responsible for the intracellular effects of the G protein-mediated adenylate cyclase second messenger system. Hormone receptors that use this system include the TSH, glucagon, and PTH receptors.",
+    "zh": "胰高血糖素通过 G 蛋白偶联受体使用腺苷酸环化酶第二信使系统发挥作用。胰高血糖素与肝细胞上的 G 蛋白偶联受体结合。G 蛋白的激活导致腺苷酸环化酶的激活，腺苷酸环化酶将 ATP 转化为 cAMP。cAMP 然后激活蛋白激酶 A (PKA)。PKA 磷酸化各种酶中的特定丝氨酸/苏氨酸残基，导致它们的激活或失活。PKA 还磷酸化与 DNA 上基因的调控区域结合的蛋白质。PKA 激活的这些下游效应包括糖原分解成葡萄糖（糖原分解）以及由非碳水化合物前体合成葡萄糖（糖异生），从而导致血糖水平升高。{{exhibit_2}}\n\n(选项 A) cGMP 依赖性蛋白激酶由 cGMP 激活，而不是 cAMP。cGMP 参与其他信号通路，例如平滑肌松弛和血小板激活。\n\n(选项 B) Janus 酪氨酸激酶 (JAK) 是一种细胞质蛋白，由配体与缺乏内在酪氨酸激酶活性的非 G 蛋白偶联跨膜受体结合激活。JAK 参与生长激素、促红细胞生成素和细胞因子的信号通路。\n\n(选项 C) 磷酸二酯酶是一种降解 cAMP 和 cGMP 等环状核苷酸的酶。它参与终止信号级联反应，而不是介导胰高血糖素的作用。\n\n(选项 E) 酪氨酸特异性蛋白激酶由与具有内在酪氨酸激酶活性的受体（例如胰岛素和表皮生长因子）结合的配体激活。胰高血糖素信号传导不涉及酪氨酸激酶。\n\n教育目标：蛋白激酶 A 负责 G 蛋白介导的腺苷酸环化酶第二信使系统的细胞内效应。使用此系统的激素受体包括 TSH、胰高血糖素和 PTH 受体。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the intracellular signaling pathway activated by glucagon in hepatocytes, specifically identifying the key enzyme responsible for mediating the metabolic effects of glucagon. It assesses knowledge of second messenger systems and protein kinase activation.\n\nTo solve this question, one must trace the glucagon signaling cascade from receptor binding to downstream effects. Recognizing that glucagon activates the adenylate cyclase system, leading to cAMP production, is crucial. Subsequently, identifying cAMP-dependent protein kinase A as the enzyme that phosphorylates target proteins to induce glycogenolysis and gluconeogenesis is the key to selecting the correct answer.",
+    "zh": "这个问题测试对胰高血糖素在肝细胞中激活的细胞内信号通路的理解，特别是识别负责介导胰高血糖素代谢效应的关键酶。它评估对第二信使系统和蛋白激酶激活的了解。\n\n要解决这个问题，必须追踪胰高血糖素信号级联反应，从受体结合到下游效应。认识到胰高血糖素激活腺苷酸环化酶系统，从而产生 cAMP，至关重要。随后，将 cAMP 依赖性蛋白激酶 A 确定为磷酸化靶蛋白以诱导糖原分解和糖异生的酶是选择正确答案的关键。"
+  },
+  "tags": "Glucagon; Type 1 diabetes mellitus; Hepatocytes; Adenylate cyclase; cAMP; Protein kinase A; Glycogenolysis; Gluconeogenesis; Second messenger system; G protein-coupled receptors",
+  "category": "Endo",
+  "question_id": "994",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\994",
+  "extracted_at": "2025-11-05T19:22:02.975516",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:44:01.038933",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

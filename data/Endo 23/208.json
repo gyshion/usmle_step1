@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A patient is treated with a gonadotropin-releasing hormone (GnRH) infusion. An intravenous line is placed and connected to a reservoir through a computerized pump. The pump is programmed to deliver a predetermined dose of GnRH every 90 minutes, which results in a sharp rise in serum GnRH levels with each dose, followed by a rapid return to baseline. LH and FSH levels are monitored in the initial phase of treatment. Which of the following is the most likely indication for using this GnRH infusion?",
+    "zh": "一名患者接受促性腺激素释放激素 (GnRH) 输注治疗。置入静脉管路并通过计算机泵连接到储液器。该泵被编程为每 90 分钟输送预定剂量的 GnRH，这导致血清 GnRH 水平每次剂量都会急剧升高，随后迅速恢复到基线。在治疗的初始阶段监测 LH 和 FSH 水平。以下哪项最可能是使用这种 GnRH 输注的指征？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely indication for using this GnRH infusion?",
+    "zh": "以下哪项最可能是使用这种 GnRH 输注的指征？"
+  },
+  "options": {
+    "A": {
+      "en": "Breast cancer",
+      "zh": "乳腺癌"
+    },
+    "B": {
+      "en": "Endometriosis",
+      "zh": "子宫内膜异位症"
+    },
+    "C": {
+      "en": "Infertility",
+      "zh": "不孕症"
+    },
+    "D": {
+      "en": "Precocious puberty",
+      "zh": "性早熟"
+    },
+    "E": {
+      "en": "Prostate cancer",
+      "zh": "前列腺癌"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Gonadotropin-releasing hormone (GnRH) is a polypeptide that is normally released from the anterior hypothalamus in a pulsatile manner. GnRH is carried to the anterior pituitary via the portal circulation, where it stimulates FSH and LH production. **Pulsatile** stimulation of pituitary gonadotrophin cells by GnRH leads to upregulation of GnRH receptors and enhanced FSH and LH secretion. FSH and LH are responsible for development of the dominant follicle in the ovaries. Optimal frequency and amplitude of GnRH pulses are crucial for FSH and LH release and subsequent ovulation.\n\nAnovulation due to hypogonadotropic hypogonadism is a common form of **infertility** that can be treated by pulsatile administration of GnRH. GnRH has a very short half-life and is given by a programmable pump that delivers a predetermined dose at physiologic intervals. Ovulation occurs in most patients in 10-20 days. Signs of ovulation include loss of a dominant follicle on ultrasound, surge in urine LH levels, rise in serum progesterone levels, and rise in basal body temperature.\n\n(Choices A, B, D, and E) Constant, rather than pulsatile, GnRH activity causes down-regulation of the GnRH receptors on pituitary gonadotrophin cells, which suppresses LH and FSH secretion. Although it is possible to use a pump to administer GnRH at a steady rate, it has a very short half-life, and long-acting GnRH analogs (eg, leuprolide) are easier to use and can be given monthly by intramuscular injection. Long-acting GnRH analog therapy is used when suppression of gonadal function is desired, such as in certain patients with prostate cancer, endometriosis, precocious puberty, or premenopausal breast cancer. {{exhibit_1}}",
+    "zh": "促性腺激素释放激素 (GnRH) 是一种多肽，通常以脉冲方式从下丘脑前部释放。GnRH 通过门静脉循环被输送到垂体前叶，在那里它刺激 FSH 和 LH 的产生。GnRH 对垂体促性腺细胞的**脉冲式**刺激导致 GnRH 受体上调，并增强 FSH 和 LH 的分泌。FSH 和 LH 负责卵巢中优势卵泡的发育。GnRH 脉冲的最佳频率和振幅对于 FSH 和 LH 的释放以及随后的排卵至关重要。\n\n由于促性腺激素低下性性腺功能减退引起的无排卵是**不孕症**的常见形式，可以通过脉冲式给予 GnRH 来治疗。GnRH 的半衰期很短，并通过可编程泵给药，该泵以生理间隔输送预定剂量。大多数患者在 10-20 天内发生排卵。排卵的迹象包括超声显示优势卵泡消失、尿 LH 水平升高、血清孕酮水平升高和基础体温升高。\n\n（选项 A、B、D 和 E）持续而非脉冲式的 GnRH 活性会导致垂体促性腺细胞上的 GnRH 受体下调，从而抑制 LH 和 FSH 的分泌。虽然可以用泵以稳定速率给药 GnRH，但它的半衰期非常短，并且长效 GnRH 类似物（例如亮丙瑞林）更容易使用，并且可以每月通过肌内注射给药。当需要抑制性腺功能时，可以使用长效 GnRH 类似物治疗，例如某些前列腺癌、子宫内膜异位症、性早熟或绝经前乳腺癌患者。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests the knowledge of gonadotropin-releasing hormone (GnRH) and its pulsatile administration for treating infertility due to anovulation. It also assesses the understanding of how continuous GnRH administration differs in its effects on LH and FSH secretion.\n\nThe key to solving this question is recognizing that pulsatile GnRH stimulates FSH and LH release, which is essential for ovulation and treating infertility. Understanding that continuous GnRH suppresses FSH and LH secretion helps eliminate the incorrect options.",
+    "zh": "此问题测试对促性腺激素释放激素 (GnRH) 及其脉冲式给药治疗由于无排卵引起的不孕症的了解。它还评估对持续 GnRH 给药如何在其对 LH 和 FSH 分泌的影响方面有所不同的理解。\n\n解决此问题的关键是认识到脉冲式 GnRH 刺激 FSH 和 LH 释放，这对于排卵和治疗不孕症至关重要。了解持续 GnRH 抑制 FSH 和 LH 分泌有助于排除不正确的选项。"
+  },
+  "tags": "Gonadotropin-releasing hormone; GnRH; Infertility; Anovulation; Hypogonadotropic hypogonadism; FSH; LH; Endocrinology; Reproductive medicine",
+  "category": "Endo",
+  "question_id": "208",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\208",
+  "extracted_at": "2025-11-05T14:06:29.713232",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:40:50.764330",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

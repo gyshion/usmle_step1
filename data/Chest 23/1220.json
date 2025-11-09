@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 44-year-old man with a chronic cough and progressive weight loss comes to the emergency department. He has lost 5 kg (11 lb) over the past 3 months. The patient recently emigrated from Southeast Asia. Temperature is 37.4 C (99.3 F), blood pressure is 113/70 mm Hg, pulse is 78/min, and respirations are 18/min. Chest x-ray reveals an apical left lung infiltrate. Sputum Gram stain and cultures are negative. However, culture of a lung biopsy specimen grows acid-fast bacilli. Microscopy of the lung specimen is shown below {{exhibit_1}}.",
+    "zh": "一名44岁男性，有慢性咳嗽和进行性体重减轻，来到急诊科就诊。他在过去3个月内体重减轻了5公斤（11磅）。患者最近从东南亚移民过来。体温为37.4摄氏度（99.3华氏度），血压为113/70毫米汞柱，脉搏为78次/分钟，呼吸为18次/分钟。胸部X光片显示左肺尖部浸润。痰革兰染色和培养均为阴性。然而，肺活检标本的培养生长出抗酸杆菌。肺标本的显微镜检查如下所示 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following processes is most likely to contribute to formation of the finding indicated by the arrow?",
+    "zh": "以下哪种过程最有可能促成箭头所指的发现的形成？"
+  },
+  "options": {
+    "A": {
+      "en": "Activation of CD8 T lymphocytes",
+      "zh": "CD8 T淋巴细胞的激活"
+    },
+    "B": {
+      "en": "B-lymphocyte transformation",
+      "zh": "B淋巴细胞转化"
+    },
+    "C": {
+      "en": "Fibroblast proliferation",
+      "zh": "成纤维细胞增生"
+    },
+    "D": {
+      "en": "Neutrophil infiltration",
+      "zh": "中性粒细胞浸润"
+    },
+    "E": {
+      "en": "Cytokine secretion by CD4 T lymphocytes",
+      "zh": "CD4 T淋巴细胞分泌细胞因子"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient from Southeast Asia has weight loss, cough, and an apical infiltrate with acid-fast bacilli, raising strong suspicion for PULMONARY TUBERCULOSIS. *Mycobacterium tuberculosis* is transmitted to the lungs via aerosolized droplets. It initially replicates in an unchecked fashion within the alveoli and alveolar macrophages due to virulence factors (eg, cord factor) that prevent macrophage-mediated destruction. After a few weeks, infected macrophages in the draining lymphatic system display mycobacterial antigens on major histocompatibility complex (MHC) class II molecules, leading to the stimulation of CD4 T lymphocytes.\n\nStimulated CD4 cells release interferon-gamma that activates macrophages, greatly increasing their ability to kill phagocytized organisms. Activated macrophages can also differentiate into epithelioid histiocytes and coalesce into multinucleated Langhans giant cells that wall off mycobacteria within granulomas. The center of the granuloma is acidic and hypoxic, which causes *M tuberculosis* to appear acellular, necrotic, and \"cheese-like\" (caseating). Granulomas typically limit mycobacterial proliferation but do not fully eliminate the infection.\n\nAlthough Langhans giant cells are an important component of the immunologic response to pulmonary tuberculosis, they are a nonspecific finding that may also be present in other chronic infectious or inflammatory conditions (eg, sarcoidosis, Crohn disease).\n\n(Choice A) Some intracellular bacterial pathogens (eg, *Listeria, Rickettsia*) have virulence factors that allow them to escape the phagosome and replicate within the cytosol. These pathogens are primarily processed by the proteasome (rather than the lysosome), leading to the display of bacterial protein fragments on MHC class I molecules. MHC class I molecules stimulate cytotoxic T cells (CD8 lymphocytes). In contrast, phagocytosed bacteria that remain within the phagosome (eg, *M tuberculosis*) are broken down by the lysosome and displayed on MHC class II molecules, which activate CD4, not CD8, cells.\n\n(Choice B) Epstein-Barr virus attacks B lymphocytes and leads to long-term, latent infection that is typically asymptomatic but can occasionally lead to B-lymphocyte malignant transformation. Although malignant transformation can cause large, atypical cells, acid-fast bacilli would not be seen on culture.\n\n(Choice C) Fibroblast proliferation and collagen production contribute to caseating granuloma formation but do not cause macrophage activation, which is necessary for the formation of multinucleated Langhans giant cells.\n\n(Choice D) Neutrophils (polymorphonuclear cells) have multilobed nuclei that would be visible at this magnification. Neutrophils play a major role in early inflammation and elimination of extracellular bacterial pathogens (eg, *Staphylococcus aureus*). However, they are not the primary effector cell in the elimination of facultative intracellular pathogens such as *M tuberculosis*.\n\nEducational objective:\n*Mycobacterium tuberculosis* triggers CD4 T lymphocytes to release interferon-gamma, which leads to macrophage activation (improves intracellular killing ability) and differentiation into epithelioid histiocytes. These cells, along with horseshoe-shaped, multinucleated Langhans giant cells (fused, activated macrophages) are a key component of granuloma formation.",
+    "zh": "这位来自东南亚的患者出现体重减轻、咳嗽和肺尖部浸润伴抗酸杆菌，强烈提示肺结核。结核分枝杆菌通过雾化飞沫传播到肺部。由于毒力因子（例如索状因子）阻止巨噬细胞介导的破坏，它最初在肺泡和肺泡巨噬细胞内以不受控制的方式复制。几周后，引流淋巴系统中的受感染巨噬细胞在主要组织相容性复合体（MHC）II类分子上显示分枝杆菌抗原，从而刺激CD4 T淋巴细胞。\n\n受刺激的CD4细胞释放干扰素-γ，激活巨噬细胞，大大提高了它们杀灭吞噬生物的能力。活化的巨噬细胞也可以分化为上皮样组织细胞并聚集成多核朗格汉斯巨细胞，这些细胞将结核分枝杆菌隔离在肉芽肿内。肉芽肿的中心呈酸性和缺氧状态，这导致结核分枝杆菌呈现无细胞、坏死和“干酪样”（干酪样坏死）。肉芽肿通常限制分枝杆菌增殖，但不能完全消除感染。\n\n虽然朗格汉斯巨细胞是肺结核免疫反应的重要组成部分，但它们是一种非特异性发现，也可能存在于其他慢性感染或炎症性疾病中（例如，结节病、克罗恩病）。\n\n（选项A）一些细胞内细菌病原体（例如，李斯特菌、立克次体）具有毒力因子，允许它们逃逸吞噬体并在胞质溶胶内复制。这些病原体主要由蛋白酶体（而不是溶酶体）加工，从而导致细菌蛋白片段在MHC I类分子上的显示。MHC I类分子刺激细胞毒性T细胞（CD8淋巴细胞）。相反，停留在吞噬体内的吞噬细菌（例如，结核分枝杆菌）被溶酶体分解并在MHC II类分子上显示，从而激活CD4细胞而非CD8细胞。\n\n（选项B）爱泼斯坦-巴尔病毒攻击B淋巴细胞，导致长期的、潜伏的感染，这种感染通常无症状，但偶尔会导致B淋巴细胞恶性转化。尽管恶性转化可引起大的、非典型细胞，但培养中不会看到抗酸杆菌。\n\n（选项C）成纤维细胞增殖和胶原蛋白产生有助于干酪样肉芽肿的形成，但不会引起巨噬细胞激活，而巨噬细胞激活是形成多核朗格汉斯巨细胞所必需的。\n\n（选项D）中性粒细胞（多形核细胞）具有多叶核，在此放大倍数下可见。中性粒细胞在早期炎症和消除细胞外细菌病原体（例如，金黄色葡萄球菌）中起主要作用。然而，它们并不是消除兼性细胞内病原体（例如，结核分枝杆菌）的主要效应细胞。\n\n教育目标：\n结核分枝杆菌触发CD4 T淋巴细胞释放干扰素-γ，这导致巨噬细胞激活（提高细胞内杀灭能力）并分化为上皮样组织细胞。这些细胞，以及马蹄形的、多核的朗格汉斯巨细胞（融合的、活化的巨噬细胞），是肉芽肿形成的关键组成部分。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathogenesis of tuberculosis, specifically the role of CD4 T lymphocytes and cytokine secretion in granuloma formation. It also requires understanding of the microscopic appearance of Langhans giant cells.\n\nTo solve this question, recognize the clinical scenario suggestive of tuberculosis. Then, recall the key steps in the immune response to *Mycobacterium tuberculosis*, focusing on the activation of CD4 T lymphocytes and the subsequent release of cytokines that lead to macrophage activation and granuloma formation. The arrow in the image {{exhibit_2}} points to a Langhans giant cell, a characteristic component of granulomas.",
+    "zh": "这个问题测试了对结核病发病机制的了解，特别是CD4 T淋巴细胞和细胞因子分泌在肉芽肿形成中的作用。它还需要了解朗格汉斯巨细胞的显微镜外观。\n\n要解决这个问题，请识别提示结核病的临床情况。然后，回忆对结核分枝杆菌的免疫反应的关键步骤，重点关注CD4 T淋巴细胞的激活以及随后释放导致巨噬细胞激活和肉芽肿形成的细胞因子。图像 {{exhibit_2}} 中的箭头指向朗格汉斯巨细胞，这是肉芽肿的特征性组成部分。"
+  },
+  "tags": "Tuberculosis; Mycobacterium tuberculosis; Granuloma; CD4 T lymphocytes; Cytokine secretion; Interferon-gamma; Macrophages; Langhans giant cells; Infectious disease; Pulmonary disease",
+  "category": "Chest",
+  "question_id": "1220",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1220",
+  "extracted_at": "2025-11-05T11:37:05.918780",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:34:05.677693",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

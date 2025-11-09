@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 42-year-old man comes to the emergency department due to fever, abdominal pain, and explosive diarrhea. He has a history of HIV but has not been taking any medications. BMI is 18.2 kg/m². Abdominal examination is notable for right-sided tenderness to palpation. Laboratory results show a CD4 cell count of 38/mm³, leukopenia, and thrombocytopenia. A CT scan of the abdomen reveals colitis. Colonoscopy reveals areas of erosions and ulcerations; pathology demonstrates cells with viral intranuclear and intracytoplasmic inclusions. Antiviral therapy is initiated to treat the colitis with an intravenous agent that does not require intracellular activation and is known to bind in vitro with viral-encoded enzymes such as DNA polymerase, RNA polymerase, and reverse transcriptase.",
+    "zh": "一名42岁男性因发热、腹痛和爆发性腹泻到急诊科就诊。他有HIV病史，但未服用任何药物。BMI为18.2 kg/m²。腹部检查显示右侧触诊压痛。实验室结果显示CD4细胞计数为38/mm³，白细胞减少和血小板减少。腹部CT扫描显示结肠炎。结肠镜检查显示糜烂和溃疡区域；病理学显示细胞内有病毒性核内和胞质内包涵体。开始抗病毒治疗以治疗结肠炎，使用静脉注射剂，该药物不需要细胞内激活，并且已知在体外与病毒编码的酶结合，如DNA聚合酶、RNA聚合酶和逆转录酶。"
+  },
+  "question": {
+    "en": "Which of the following agents did this patient most likely receive?",
+    "zh": "该患者最有可能接受了以下哪种药物？"
+  },
+  "options": {
+    "A": {
+      "en": "Acyclovir",
+      "zh": "阿昔洛韦"
+    },
+    "B": {
+      "en": "Foscarnet",
+      "zh": "膦甲酸钠"
+    },
+    "C": {
+      "en": "Ganciclovir",
+      "zh": "更昔洛韦"
+    },
+    "D": {
+      "en": "Lamivudine",
+      "zh": "拉米夫定"
+    },
+    "E": {
+      "en": "Oseltamivir",
+      "zh": "奥司他韦"
+    },
+    "F": {
+      "en": "Saquinavir",
+      "zh": "沙奎那韦"
+    },
+    "G": {
+      "en": "Sofosbuvir",
+      "zh": "索磷布韦"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient with HIV likely has cytomegalovirus (CMV) colitis (intranuclear and intracytoplasmic inclusions), which, in some patients (eg, with ganciclovir resistance or refractory thrombocytopenia), is treated with foscarnet.\n\nFoscarnet is a pyrophosphate analog that does not require intracellular activation. It directly inhibits both DNA polymerase in herpesvirus and reverse transcriptase in HIV. Foscarnet must be administered intravenously. In addition to treating ganciclovir-resistant CMV infections, foscarnet is useful in patients who have acyclovir-resistant herpesvirus infections. Ganciclovir, a guanine nucleoside analogue structurally similar to acyclovir, is often used for CMV infections. However, it requires intracellular conversion by a virally encoded kinase and then by cellular kinases (Choice C).\n\n(Choice A) Acyclovir is a nucleoside analog that must be converted intracellularly to its monophosphate form by a virally encoded thymidine kinase. Cellular kinases convert the monophosphate form into a triphosphate form, which inhibits herpesvirus DNA polymerase-mediated replication.\n\n(Choice D) Lamivudine is a cytosine analog classified as a nucleoside reverse transcriptase inhibitor. It must be phosphorylated to its active form, lamivudine triphosphate, by intracellular kinases. Lamivudine inhibits HIV reverse transcription through viral DNA chain termination.\n\n(Choices E and F) Oseltamivir and saquinavir do not require intracellular activation but are not used for CMV infection. Oseltamivir is a sialic acid analogue inhibitor of influenza A and B virus neuraminidase. Saquinavir is an HIV protease inhibitor that prevents the cleavage of polyprotein precursors necessary for the generation of functional viral proteins.\n\n(Choice G) Sofosbuvir inhibits nonstructural protein 5B (NS5B), an RNA-dependent RNA polymerase needed for hepatitis C virus replication. It requires intracellular activation.\n\nEducational objective: Of all the antiviral agents that bind and inhibit DNA polymerase in herpesvirus and reverse transcriptase in HIV, the pyrophosphate analog foscarnet is one of few that do not require intracellular activation by viral or cellular kinases.",
+    "zh": "这位HIV感染患者很可能患有巨细胞病毒(CMV)性结肠炎（核内和胞质内包涵体），在某些患者（如对更昔洛韦耐药或难治性血小板减少症患者）中，可以使用膦甲酸钠治疗。\n\n膦甲酸钠是一种焦磷酸盐类似物，不需要细胞内激活。它直接抑制单纯疱疹病毒的DNA聚合酶和HIV的逆转录酶。必须静脉内给予膦甲酸钠。除了治疗对更昔洛韦耐药的CMV感染外，膦甲酸钠也适用于对阿昔洛韦耐药的单纯疱疹病毒感染患者。更昔洛韦是一种与阿昔洛韦结构相似的鸟嘌呤核苷类似物，常用于CMV感染。然而，它需要通过病毒编码的激酶，然后通过细胞激酶进行细胞内转化（选项C）。\n\n（选项A）阿昔洛韦是一种核苷类似物，必须通过病毒编码的胸苷激酶在细胞内转化为其单磷酸盐形式。细胞激酶将单磷酸盐转化为三磷酸盐形式，从而抑制单纯疱疹病毒DNA聚合酶介导的复制。\n\n（选项D）拉米夫定是一种胞嘧啶类似物，被归类为核苷逆转录酶抑制剂。它必须通过细胞内激酶磷酸化为其活性形式，即拉米夫定三磷酸盐。拉米夫定通过病毒DNA链终止来抑制HIV逆转录。\n\n（选项E和F）奥司他韦和沙奎那韦不需要细胞内激活，但不用来治疗CMV感染。奥司他韦是一种甲酸类似物，是甲型和乙型流感病毒神经氨酸酶的抑制剂。沙奎那韦是一种HIV蛋白酶抑制剂，可防止生成功能性病毒蛋白所必需的多蛋白前体的裂解。\n\n（选项G）索磷布韦抑制非结构蛋白5B (NS5B)，这是一种用于丙型肝炎病毒复制的RNA依赖性RNA聚合酶。它需要细胞内激活。\n\n教育目标：在所有结合并抑制单纯疱疹病毒DNA聚合酶和HIV逆转录酶的抗病毒药物中，焦磷酸盐类似物膦甲酸钠是少数几种不需要病毒或细胞激酶进行细胞内激活的药物之一。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of antiviral medications used to treat cytomegalovirus (CMV) colitis in HIV-positive patients, specifically focusing on the mechanism of action and the need for intracellular activation. It requires understanding which antiviral agents are effective against CMV and do not require intracellular activation to inhibit viral replication.\n\nTo solve this question, identify the key information: the patient has CMV colitis, is HIV-positive, and requires an antiviral agent that does not need intracellular activation. Recall the mechanism of action of common antiviral drugs and select the one that directly inhibits viral enzymes without requiring cellular modification.",
+    "zh": "本题考察了用于治疗HIV阳性患者巨细胞病毒(CMV)结肠炎的抗病毒药物的知识，特别是关于其作用机制和细胞内激活的需求。它要求了解哪些抗病毒药物对CMV有效，并且不需要细胞内激活来抑制病毒复制。\n\n要解决这个问题，需要确定关键信息：患者患有CMV结肠炎，HIV阳性，并且需要一种不需要细胞内激活的抗病毒药物。回想常见抗病毒药物的作用机制，并选择一种可以直接抑制病毒酶而无需细胞修饰的药物。"
+  },
+  "tags": "Cytomegalovirus; CMV colitis; HIV; Antiviral therapy; Foscarnet; Intracellular activation; DNA polymerase; Reverse transcriptase; Infectious diseases; Pharmacology",
+  "category": "Micro",
+  "question_id": "1644",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1644",
+  "extracted_at": "2025-11-05T15:01:33.333280",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:09:58.735031",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

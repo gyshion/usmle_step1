@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "An 8-year-old boy of Ashkenazi Jewish ancestry is brought to the office after developing reduced sensitivity to pain, impaired tear formation, and orthostatic hypotension. Familial dysautonomia is suspected due to the patient's symptoms and heritage. This disorder is caused by loss of function of the IKAP protein, which is essential for development and survival of sensory and autonomic neurons. *IKAP* gene sequencing reveals a single nucleotide substitution that causes a guanine residue to be replaced by adenine at the highlighted position in the normal gene sequence shown below. Exon sequences are represented by capital letters and introns by lowercase letters. {{exhibit_1}}",
+    "zh": "一名 8 岁阿什肯纳兹犹太男孩因出现痛觉敏感度降低、泪液形成障碍和体位性低血压而前来就诊。由于患者的症状和血统，怀疑患有家族性自主神经功能障碍。这种疾病是由 IKAP 蛋白功能丧失引起的，该蛋白对感觉和自主神经元的发育和存活至关重要。*IKAP* 基因测序显示，一个单核苷酸替换导致鸟嘌呤残基在下面显示的正常基因序列的突出位置被腺嘌呤取代。外显子序列用大写字母表示，内含子用小写字母表示。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely effect of this mutation?",
+    "zh": "以下哪项是这种突变最可能产生的影响？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased mRNA export to the cytosol",
+      "zh": "mRNA 向胞质溶胶的输出减少"
+    },
+    "B": {
+      "en": "Impaired ribosomal attachment to mRNA",
+      "zh": "核糖体与 mRNA 的连接受损"
+    },
+    "C": {
+      "en": "Incorrect splicing of pre-mRNA",
+      "zh": "前 mRNA 的剪接错误"
+    },
+    "D": {
+      "en": "Increased degradation of mRNA by 5' exonucleases",
+      "zh": "mRNA 由 5' 外切核酸酶降解增加"
+    },
+    "E": {
+      "en": "Translation of the 3'-untranslated region of mRNA",
+      "zh": "mRNA 的 3'-非翻译区翻译"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Following transcription, pre-mRNA is the initial transcript that contains both intron and exon sequences. Before leaving the nucleus, pre-mRNA must be processed to mature mRNA by 3 post-transcriptional modifications: 5' methylguanosine capping, addition of a 3' polyadenine (Poly A) tail, and splicing.\n\nSplicing is performed by SPLICEOSOMES, which are complexes of small nuclear ribonucleoproteins (snRNPs) and other proteins that assemble on pre-mRNA. Spliceosomes remove INTRONS containing GU at the 5' splice site and AG at the 3' splice site. Initially, the 5' end of intron 1 (splice donor site) is cleaved and joined to the branch point. The freed 3'-OH of exon 1 then forms a phosphodiester bond with the 5'-phosphate at the splice acceptor site, joining exons 1 and 2. Mutations at splice sites may result in inappropriate removal of exons and retention of introns. This often leads to the formation of proteins with impaired structure and function as described in the case above.\n\n(Choice A) Polyadenylation of the 3' end of mRNA is performed by the enzyme polyadenylate polymerase. This process stabilizes mRNA and helps it exit the nucleus.\n\n(Choices B and D) In eukaryotes, translation is initiated when the small ribosomal subunit attaches to the 5' cap of mRNA and then scans for the AUG start codon within the Kozak consensus sequence. The 5' cap also protects against exonucleases and helps stabilize mRNA in the cytosol.\n\n(Choice E) Termination of polypeptide synthesis occurs at the 3 stop codons (UAA, UAG, UGA) in mRNA. Mutations in stop codons (nonstop mutations) can result in continued and inappropriate translation of mRNA into the 3'-untranslated region, producing an extremely long, nonfunctional polypeptide.",
+    "zh": "转录后，前 mRNA 是包含内含子和外显子序列的初始转录本。在离开细胞核之前，前 mRNA 必须通过 3 种转录后修饰被加工成成熟的 mRNA：5' 甲基鸟苷加帽、添加 3' 聚腺苷酸（Poly A）尾和剪接。\n\n剪接由剪接体执行，剪接体是由小核核糖核蛋白 (snRNPs) 和其他在 pre-mRNA 上组装的蛋白质组成的复合物。剪接体去除在 5' 剪接位点含有 GU 和在 3' 剪接位点含有 AG 的内含子。最初，内含子 1 的 5' 端（剪接供体位点）被切割并连接到分支点。外显子 1 的游离 3'-OH 然后与剪接受体位点的 5'-磷酸形成磷酸二酯键，连接外显子 1 和 2。剪接位点的突变可能导致外显子不适当的去除和内含子的保留。这通常会导致形成结构和功能受损的蛋白质，如上所述。\n\n（选项 A）mRNA 3' 端的聚腺苷酸化由酶聚腺苷酸聚合酶执行。此过程稳定了 mRNA 并帮助其离开细胞核。\n\n（选项 B 和 D）在真核生物中，当小的核糖体亚基连接到 mRNA 的 5' 帽，然后在 Kozak 共有序列中扫描 AUG 起始密码子时，翻译开始。5' 帽还可防止外切核酸酶，并有助于稳定细胞质中的 mRNA。\n\n（选项 E）多肽合成终止发生在 mRNA 中的 3 个终止密码子（UAA、UAG、UGA）。终止密码子中的突变（非终止突变）可导致 mRNA 持续且不适当地翻译成 3'-非翻译区，产生极长且无功能的多肽。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pre-mRNA splicing and the role of spliceosomes in removing introns. It also tests understanding of how mutations at splice sites can lead to dysfunctional proteins.\n\nTo solve this question, recognize that the mutation affects a splice site. Understand that splice sites are critical for removing introns, and mutations in these sites can lead to incorrect splicing and dysfunctional proteins.",
+    "zh": "这个问题测试了对前 mRNA 剪接的了解以及剪接体在去除内含子中的作用。它还测试了对剪接位点突变如何导致功能失调的蛋白质的理解。\n\n为了解决这个问题，需要认识到突变影响剪接位点。理解剪接位点对于去除内含子至关重要，并且这些位点的突变可能导致不正确的剪接和功能失调的蛋白质。"
+  },
+  "tags": "Familial dysautonomia; IKAP protein; mRNA splicing; Spliceosomes; Introns; Exons; Genetic mutations; Ashkenazi Jewish; Autonomic nervous system",
+  "category": "Bio",
+  "question_id": "2038",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\2038",
+  "extracted_at": "2025-11-05T11:15:30.882496",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:24:06.818330",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "In an experiment, erythrocyte precursor cells are incubated in a medium containing radiolabeled cysteine. These radiolabeled cysteine residues are attached to their appropriate tRNAs by the enzyme aminoacyl-tRNA synthetase. The bound cysteine residues are then chemically modified to form alanine. The end product of this reaction is a tRNA molecule that contains the cysteine anticodon but is mischarged with alanine. Which of the following is most likely to occur to this alanine residue during polypeptide synthesis of alpha-hemoglobin?",
+    "zh": "在一项实验中，红细胞前体细胞在含有放射性标记半胱氨酸的培养基中孵育。这些放射性标记的半胱氨酸残基通过氨酰基-tRNA合成酶与它们相应的tRNA连接。然后，结合的半胱氨酸残基被化学修饰形成丙氨酸。该反应的最终产物是一个tRNA分子，它包含半胱氨酸反密码子，但被错误地加载了丙氨酸。在α-血红蛋白的多肽合成过程中，这种丙氨酸残基最有可能发生以下哪种情况？"
+  },
+  "question": {
+    "en": "Which of the following is most likely to occur to this alanine residue during polypeptide synthesis of alpha-hemoglobin?",
+    "zh": "在α-血红蛋白的多肽合成过程中，这种丙氨酸残基最有可能发生以下哪种情况？"
+  },
+  "options": {
+    "A": {
+      "en": "It will be incorporated into the polypeptide chain at a site requiring alanine",
+      "zh": "它将被整合到需要丙氨酸的位点的多肽链中"
+    },
+    "B": {
+      "en": "It will be incorporated into the polypeptide chain at a site requiring cysteine",
+      "zh": "它将被整合到需要半胱氨酸的位点的多肽链中"
+    },
+    "C": {
+      "en": "It will be randomly incorporated into the polypeptide chain, halting chain elongation",
+      "zh": "它将被随机整合到多肽链中，停止链的延伸"
+    },
+    "D": {
+      "en": "It will be rapidly cleaved off tRNA by the enzyme glycosylase",
+      "zh": "它将通过糖基化酶迅速从tRNA上切割下来"
+    },
+    "E": {
+      "en": "It will never be incorporated into the polypeptide chain and will remain attached to tRNA",
+      "zh": "它永远不会被整合到多肽链中，并将保持与tRNA的连接"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Amino acid activation and attachment to the 3' end of tRNA are catalyzed by aminoacyl-tRNA synthetases (AA-tRNA synthetases). Each amino acid/tRNA pair has a specific AA-tRNA synthetase that links them together. These enzymes are responsible for ensuring that each amino acid binds to the tRNA with the proper anticodon. AA-tRNA synthetase activation and binding sites are highly specific for their correct amino acids and tRNA molecules. In addition, some AA-tRNA synthetases can \"proofread\" their specific tRNA molecules and hydrolyze the amino acid bond when their tRNAs are incorrectly charged. The error rate for AA-tRNA synthetases is therefore very low, with less than 1 error per 10^4 charges.\n\nDuring protein synthesis, tRNA acts as an adaptor molecule between the codons found on mRNA and the amino acids being incorporated into the polypeptide chain. The amino acid sequence in a polypeptide chain is dictated by the binding of a tRNA anticodon to its complementary codon on the mRNA molecule being translated. Erroneous amino acid/tRNA coupling by AA-tRNA synthetase causes the wrong amino acid to be incorporated into the growing polypeptide chain (Choice E).\n\nFor example, under normal circumstances, when the ribosome encounters a cysteine codon (eg, UGU) on mRNA, the complementary tRNA anticodon (eg, ACA) binds. If this tRNA is improperly charged with alanine, as described in the experiment above, alanine will be incorrectly incorporated into the growing polypeptide chain in place of cysteine (Choice A).\n\n(Choice C) During polypeptide chain elongation, ribosomes move from codon to codon on mRNA in the 5' to 3' direction, sequentially adding amino acids from aminoacyl-tRNA to the peptide chain. This continues until the ribosome encounters a stop codon (ie, UAA, UAG, or UGA). Releasing factors then assist in polypeptide chain termination.\n\n(Choice D) DNA glycosylases are enzymes involved in DNA base excision repair.",
+    "zh": "氨基酸的活化和与tRNA 3'端的连接由氨酰基-tRNA合成酶（AA-tRNA合成酶）催化。每个氨基酸/tRNA对都有一种特定的AA-tRNA合成酶将它们连接在一起。这些酶负责确保每个氨基酸与具有正确反密码子的tRNA结合。AA-tRNA合成酶的活化和结合位点对其正确的氨基酸和tRNA分子具有高度特异性。此外，一些AA-tRNA合成酶可以“校对”其特定的tRNA分子，并在tRNA被错误加载时水解氨基酸键。因此，AA-tRNA合成酶的错误率非常低，每10^4次加载的错误率小于1。\n\n在蛋白质合成过程中，tRNA充当mRNA上发现的密码子与整合到多肽链中的氨基酸之间的衔接分子。多肽链中的氨基酸序列由tRNA反密码子与其在被翻译的mRNA分子上的互补密码子的结合决定。AA-tRNA合成酶引起的错误的氨基酸/tRNA偶联会导致错误的氨基酸被整合到正在生长的多肽链中（选项E）。\n\n例如，在正常情况下，当核糖体遇到mRNA上的半胱氨酸密码子（例如，UGU）时，互补的tRNA反密码子（例如，ACA）会结合。如果此tRNA被不正确地加载了丙氨酸，如上述实验中所述，则丙氨酸将错误地整合到正在生长的多肽链中以代替半胱氨酸（选项A）。\n\n（选项C）在多肽链延伸过程中，核糖体从mRNA上的密码子移动到密码子，方向为5'到3'，依次将氨基酸从氨酰基-tRNA添加到肽链中。这个过程一直持续到核糖体遇到终止密码子（即UAA、UAG或UGA）。然后释放因子协助多肽链终止。\n\n（选项D）DNA糖基化酶是参与DNA碱基切除修复的酶。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of tRNA charging, aminoacyl-tRNA synthetases, and the process of protein synthesis. It assesses the ability to predict the outcome of an experimental scenario where a tRNA molecule is mischarged with an incorrect amino acid.\n\nTo solve this question, understand the role of tRNA in protein synthesis and the specificity of aminoacyl-tRNA synthetases. Recognize that a mischarged tRNA will lead to the incorporation of the incorrect amino acid at the codon corresponding to the tRNA anticodon.",
+    "zh": "本题测试对tRNA加载、氨酰基-tRNA合成酶和蛋白质合成过程的了解。它评估了预测实验场景结果的能力，在该场景中，tRNA分子被错误地加载了不正确的氨基酸。\n\n为了解决这个问题，需要了解tRNA在蛋白质合成中的作用以及氨酰基-tRNA合成酶的特异性。认识到错误的tRNA将导致不正确的氨基酸在与tRNA反密码子相对应的密码子处被整合。"
+  },
+  "tags": "tRNA; Aminoacyl-tRNA synthetase; Protein synthesis; Translation; Codon; Anticodon; Molecular biology; Genetics",
+  "category": "Bio",
+  "question_id": "2032",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\2032",
+  "extracted_at": "2025-11-05T11:15:21.477602",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:23:56.106912",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

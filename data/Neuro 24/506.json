@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 78-year-old female is brought to the ER because of altered mental status of recent onset and difficulty walking. She has a history of Parkinsonism and has had difficulty walking lately. She lives alone and has had a few falls recently. Her BP is 180/100 mm Hg and pulse is 68/min. Her CT scan of the head is shown below. {{exhibit_1}}",
+    "zh": "一名78岁的女性因近期出现的精神状态改变和行走困难被送往急诊室。她有帕金森病的病史，并且最近行走困难。她独居，最近摔倒了几次。她的血压为180/100毫米汞柱，脉搏为68次/分钟。她的头部CT扫描结果如下所示。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of her symptoms?",
+    "zh": "以下哪项最可能是她症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Rupture of middle meningeal artery",
+      "zh": "脑膜中动脉破裂"
+    },
+    "B": {
+      "en": "Rupture of cortical bridging veins",
+      "zh": "皮质桥静脉破裂"
+    },
+    "C": {
+      "en": "Rupture of lateral striate arteries",
+      "zh": "外侧纹状体动脉破裂"
+    },
+    "D": {
+      "en": "Rupture of berry aneurysm",
+      "zh": "浆果动脉瘤破裂"
+    },
+    "E": {
+      "en": "Rupture of posterior communicating artery",
+      "zh": "后交通动脉破裂"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The patient presents with altered mental status and difficulty walking, which are symptoms suggestive of an intracranial process. Her history of falls and advanced age are risk factors for subdural hematoma. The CT scan {{exhibit_2}} shows a crescent-shaped collection of blood between the dura mater and the arachnoid mater, consistent with a subdural hematoma. Subdural hematomas are typically caused by the rupture of cortical bridging veins, which connect the venous sinuses on the surface of the brain to the dural sinuses. These veins are particularly vulnerable to tearing in elderly individuals due to age-related brain atrophy, which increases the distance between the brain and the dura. The slow venous bleeding leads to a gradual onset of symptoms, which aligns with the patient's presentation. \n\n(Choice A) Rupture of the middle meningeal artery typically causes an epidural hematoma, which is characterized by a biconvex (lens-shaped) collection of blood between the dura and the skull. Epidural hematomas often result from head trauma and are associated with a \"lucid interval\" followed by rapid deterioration. \n\n(Choice C) Rupture of the lateral striate arteries, which are branches of the middle cerebral artery, leads to intraparenchymal hemorrhage, often in the basal ganglia and internal capsule. This typically presents with sudden onset of focal neurological deficits, such as hemiparesis or hemisensory loss, and is commonly associated with hypertension. \n\n(Choices D and E) Rupture of a berry aneurysm or the posterior communicating artery leads to subarachnoid hemorrhage. Berry aneurysms are typically found in the Circle of Willis and rupture causes a sudden, severe headache (often described as \"the worst headache of my life\"), nuchal rigidity, and potentially loss of consciousness. Rupture of the posterior communicating artery is a less common cause of subarachnoid hemorrhage but would also present with sudden onset of severe headache. \n\nEducational objective: Subdural hematoma occurs due to the rupture of cortical bridging veins. In young patients, it results from a fall or motor vehicle accident, and manifests with gradual onset of headache and confusion. In elderly patients it may occur after a minor trauma and present with a variety of neurologic symptoms. You should know how to recognize this on CT scan.",
+    "zh": "患者出现精神状态改变和行走困难，这些症状提示颅内病变。她有摔倒史和高龄，是硬膜下血肿的危险因素。CT扫描{{exhibit_2}}显示硬脑膜和蛛网膜之间有新月形的积血，与硬膜下血肿一致。硬膜下血肿通常是由皮质桥静脉破裂引起的，皮质桥静脉连接大脑表面的静脉窦和硬脑膜窦。由于与年龄相关的大脑萎缩，这些静脉在老年人中特别容易撕裂，这增加了大脑和硬脑膜之间的距离。缓慢的静脉出血导致症状逐渐出现，这与患者的临床表现相符。\n\n(选项 A) 脑膜中动脉破裂通常导致硬膜外血肿，其特征是在硬脑膜和颅骨之间有双凸（透镜状）积血。硬膜外血肿通常由头部外伤引起，并伴有“清醒期”，随后迅速恶化。\n\n(选项 C) 外侧纹状体动脉（大脑中动脉的分支）破裂导致脑实质内出血，通常发生在基底神经节和内囊中。这通常表现为局灶性神经功能缺损的突然发生，如偏瘫或偏身感觉缺失，并且通常与高血压有关。\n\n(选项 D 和 E) 浆果动脉瘤或后交通动脉破裂导致蛛网膜下腔出血。浆果动脉瘤通常位于 Willis 环中，破裂会导致突然的、严重的头痛（通常被描述为“我一生中最严重的头痛”）、颈项强直，并可能导致意识丧失。后交通动脉破裂是蛛网膜下腔出血的较少见原因，但也表现为突然出现的严重头痛。\n\n教育目标：硬膜下血肿是由于皮质桥静脉破裂引起的。在年轻患者中，它是由跌倒或机动车事故引起的，并表现为逐渐出现的头痛和意识模糊。在老年患者中，它可能发生在轻微外伤后，并表现出多种神经系统症状。您应该知道如何在 CT 扫描上识别它。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the etiology, clinical presentation, and imaging findings of subdural hematomas, differentiating them from other types of intracranial hemorrhages. It emphasizes the specific vulnerability of cortical bridging veins in elderly patients and the characteristic crescent shape seen on CT scans.\n\nThe approach to solving this question involves correlating the patient's clinical presentation (altered mental status, difficulty walking, history of falls, age) with the provided CT scan findings (crescent-shaped collection of blood). Recognizing the typical cause of subdural hematomas (rupture of bridging veins) and understanding the characteristic features of other intracranial hemorrhages (epidural, intraparenchymal, subarachnoid) is crucial for selecting the correct answer.",
+    "zh": "这个问题测试对硬膜下血肿的病因、临床表现和影像学发现的理解，将它们与其他类型的颅内出血区分开来。它强调了老年患者皮质桥静脉的特殊脆弱性以及 CT 扫描上看到的特征性新月形。 \n\n解决此问题的方法涉及将患者的临床表现（精神状态改变、行走困难、跌倒史、年龄）与提供的 CT 扫描结果（新月形积血）相关联。 认识到硬膜下血肿的典型病因（桥静脉破裂）并了解其他颅内出血（硬膜外、脑实质内、蛛网膜下腔）的特征是选择正确答案的关键。"
+  },
+  "tags": "Subdural hematoma; Cortical bridging veins; Intracranial hemorrhage; CT scan; Elderly patients; Neurology; Traumatic brain injury",
+  "category": "Neuro",
+  "question_id": "506",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\506",
+  "extracted_at": "2025-11-05T19:40:25.957430",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:41:17.818187",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

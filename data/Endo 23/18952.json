@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 52-year-old woman comes to the office for follow-up of type 2 diabetes mellitus. The patient was diagnosed with diabetes 6 months ago and initiated intensive lifestyle modification with increased exercise and a calorie-restricted diet; since that time, she has felt better subjectively but has lost only 2 kg (4.4 lb). Vital signs are normal. BMI is 35 kg/m². Fasting glucose is 155 mg/dL and hemoglobin A1c is 8.0%. Serum renal and liver function markers are normal. After discussion with the patient, metformin therapy is initiated. Which of the following physiologic changes are most likely to result as a direct effect of this medication? {{exhibit_1}}",
+    "zh": "一位52岁的女性因2型糖尿病复诊。患者6个月前被诊断患有糖尿病，并开始了强化生活方式干预，包括增加运动和限制热量摄入的饮食；从那时起，她主观感觉好多了，但仅减重2公斤（4.4磅）。生命体征正常。BMI为35 kg/m²。空腹血糖为155 mg/dL，糖化血红蛋白A1c为8.0%。血清肾功能和肝功能指标正常。与患者讨论后，开始使用二甲双胍治疗。以下哪种生理变化最有可能作为这种药物的直接作用结果？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following physiologic changes are most likely to result as a direct effect of this medication?",
+    "zh": "以下哪种生理变化最有可能作为这种药物的直接作用结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased\n\nIncreased\n\nIncreased",
+      "zh": "降低\n\n增加\n\n增加"
+    },
+    "B": {
+      "en": "Decreased\n\nIncreased\n\nUnchanged",
+      "zh": "降低\n\n增加\n\n不变"
+    },
+    "C": {
+      "en": "Decreased\n\nUnchanged\n\nUnchanged",
+      "zh": "降低\n\n不变\n\n不变"
+    },
+    "D": {
+      "en": "Unchanged\n\nIncreased\n\nUnchanged",
+      "zh": "不变\n\n增加\n\n不变"
+    },
+    "E": {
+      "en": "Unchanged\n\nUnchanged\n\nIncreased",
+      "zh": "不变\n\n不变\n\n增加"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has uncontrolled type 2 diabetes mellitus and is appropriately given metformin, which is the preferred first-line medication for most patients. Metformin has a number of important metabolic effects:\n\n- Reduced hepatic gluconeogenesis: metformin inhibits mitochondrial glycerophosphate dehydrogenase, which reduces the availability of substrates for gluconeogenesis (eg, glycerol, lactate).\n\n- Increased insulin-independent peripheral glucose uptake and utilization.\n\n- Reduced circulating lipid levels: metformin upregulates AMP-activated protein kinase in hepatocytes, which inhibits lipogenesis.\n\nCirculating levels of endogenous insulin are unchanged or slightly decreased by metformin; therefore, metformin carries low risk of hypoglycemia. In addition, it reduces caloric intake due to decreased appetite and decreased absorption of glucose, leading to modest weight loss in most patients.\n\n(Choice A) Sulfonylureas (eg, glyburide, glimepiride) stimulate beta cell insulin release, leading to decreased glycogenolysis and gluconeogenesis and increased peripheral uptake of glucose; the higher circulating insulin levels also confer an increased risk of hypoglycemia and weight gain.\n\nEducational objective:\nMetformin reduces hepatic gluconeogenesis and release of glucose into circulation: increases peripheral glucose uptake and utilization: and reduces circulating lipid levels. Circulating insulin levels are unchanged or slightly decreased; therefore, metformin carries low risk of hypoglycemia. In addition, metformin reduces caloric intake due to decreased appetite and decreased absorption of glucose, leading to modest weight loss.",
+    "zh": "该患者患有未控制的2型糖尿病，并适当地给予二甲双胍，这是大多数患者的首选一线药物。二甲双胍具有许多重要的代谢作用：\n\n- 降低肝糖异生：二甲双胍抑制线粒体甘油磷酸脱氢酶，从而减少糖异生的底物（如甘油、乳酸）的可用性。\n\n- 增加不依赖胰岛素的周围葡萄糖摄取和利用。\n\n- 降低循环血脂水平：二甲双胍上调肝细胞中的AMP活化蛋白激酶，从而抑制脂肪生成。\n\n二甲双胍对内源性胰岛素的循环水平没有影响或略有降低；因此，二甲双胍具有较低的低血糖风险。此外，它通过降低食欲和减少葡萄糖吸收来减少热量摄入，从而导致大多数患者适度的体重减轻。\n\n(选项 A) 磺脲类药物（例如，格列本脲、格列美脲）刺激β细胞释放胰岛素，导致糖原分解和糖异生减少，周围葡萄糖摄取增加；较高的循环胰岛素水平也增加了低血糖和体重增加的风险。\n\n教育目标：二甲双胍减少肝糖异生和葡萄糖释放到循环中：增加周围葡萄糖摄取和利用：并降低循环血脂水平。循环胰岛素水平不变或略有降低；因此，二甲双胍具有较低的低血糖风险。此外，二甲双胍通过降低食欲和减少葡萄糖吸收来减少热量摄入，从而导致适度的体重减轻。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of action and metabolic effects of metformin, a first-line medication for type 2 diabetes mellitus. It assesses understanding of how metformin impacts hepatic gluconeogenesis, muscle glucose uptake, and endogenous insulin production.\n\nTo solve this question, recall that metformin primarily reduces hepatic glucose production (gluconeogenesis) and increases insulin sensitivity, leading to increased glucose uptake in peripheral tissues like muscle. It does not directly stimulate insulin secretion, so endogenous insulin levels remain unchanged or slightly decreased.",
+    "zh": "此题考察对二甲双胍的作用机制和代谢效应的了解，二甲双胍是2型糖尿病的一线用药。它评估对二甲双胍如何影响肝糖异生、肌肉葡萄糖摄取和内源性胰岛素产生的理解。\n\n要解决这个问题，请记住二甲双胍主要减少肝脏葡萄糖生成（糖异生），并增加胰岛素敏感性，从而导致外周组织（如肌肉）中葡萄糖摄取增加。它不直接刺激胰岛素分泌，因此内源性胰岛素水平保持不变或略有降低。"
+  },
+  "tags": "Type 2 diabetes mellitus; Metformin; Hepatic gluconeogenesis; Insulin sensitivity; Glucose uptake; Endocrinology; Pharmacology; Diabetes mellitus",
+  "category": "Endo",
+  "question_id": "18952",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\18952",
+  "extracted_at": "2025-11-05T14:03:35.653747",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:38:58.143015",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

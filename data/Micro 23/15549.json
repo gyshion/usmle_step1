@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 16-year-old previously healthy adolescent developed nonproductive cough, dyspnea, and wheezing after traveling abroad. The patient has no history of allergies and has had no recent upper respiratory illness. The symptoms spontaneously resolved after several days, but soon after, she began having abdominal discomfort, anorexia, and nausea. Stool microscopy results are shown in the following image: {{exhibit_1}}",
+    "zh": "一名此前健康的16岁青少年在出国旅行后出现非生产性咳嗽、呼吸困难和喘息。患者无过敏史，近期也没有上呼吸道感染病史。症状在几天后自发缓解，但很快，她开始出现腹部不适、厌食和恶心。粪便显微镜检查结果显示在以下图片中：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following was the most likely cause of this patient's pulmonary symptoms?",
+    "zh": "以下哪项最可能是该患者肺部症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Formation of cross-reacting antibodies",
+      "zh": "交叉反应抗体的形成"
+    },
+    "B": {
+      "en": "Immune response against inhaled spores",
+      "zh": "针对吸入孢子的免疫反应"
+    },
+    "C": {
+      "en": "Parasite-induced cardiac dysfunction",
+      "zh": "寄生虫引起的 [心脏功能障碍](https://www.medsci.cn/article/show_article.do?id=12c62c3e414)"
+    },
+    "D": {
+      "en": "Transpulmonary migration of larvae",
+      "zh": "幼虫经肺迁移"
+    },
+    "E": {
+      "en": "Type IV hypersensitivity to a foreign antigen",
+      "zh": "对异物抗原的 IV 型超敏反应"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's recent travel, transient pulmonary symptoms, and subsequent gastrointestinal manifestations are suspicious for a parasitic infection involving the lungs and intestines. Stool microscopy reveals an oval egg with a thick outer shell and a single interior ovum, thereby confirming Ascaris lumbricoides (roundworm) infection {{exhibit_2}}. A lumbricoides is a common parasitic infection in Asia, Africa, and South America. Most cases in the United States arise in travelers to these regions. Transmission occurs when eggs are ingested via contaminated food or water. Eggs hatch into larvae in the small intestine, penetrate the intestinal wall, and migrate to the alveoli, where they mature. Pulmonary infection is generally asymptomatic, but a minority of infected individuals develop Loeffler syndrome, a transient, eosinophilic pneumonitis with pulmonary symptoms (eg, dry cough, dyspnea, wheezing). \n\nAfter several days, larvae are coughed out of the alveoli and subsequently swallowed into the gastrointestinal tract, where they mature into long (25- to 35-cm) adult worms that shed up to 200,000 eggs per day. Most gastrointestinal infections are asymptomatic, but some patients have abdominal discomfort, nausea/vomiting, and diarrhea. The diagnosis of gastrointestinal tract infection is made by inspecting the stool for eggs; treatment with antiparasitic drugs (eg, albendazole) is generally curative.\n\n(Choice A) Rheumatic fever is associated with the formation of cross-reacting antibodies to renal, neuronal, and cardiac antigens following group A Streptococcus pharyngitis. Eggs would not be seen in stool.\n\n(Choice B) Hypersensitivity pneumonitis, an immune reaction to an inhaled agent, can occur following exposure to mold dust or spores. Patients generally develop acute fever, nausea, cough, and dyspnea. However, wheezing is uncommon, and eggs would not be shed in stool.\n\n(Choice C) Chagas disease, a parasitic infection caused by Trypanosoma cruzi, can cause myopericarditis during acute infection. However, cardiac and gastrointestinal manifestations are much more likely to occur years or decades later. In addition, T cruzi is not shed in stool; it can sometimes be visualized on blood smear.\n\n(Choice E) Type IV hypersensitivity reactions are mediated by T cells and are often seen as part of certain drug reactions (eg, Stevens-Johnson syndrome). In contrast, Ascaris infections are associated with IgE-mediated (eosinophilic) hypersensitivity.\n\nEducational objective:\nAscaris lumbricoides is transmitted via contaminated food or water. Eggs hatch into larvae in the small intestine, penetrate the intestinal wall, and migrate across the lung into the alveoli. Larvae are subsequently coughed up and swallowed into the gastrointestinal tract, where they mature to adult worms. Most patients are asymptomatic, but some develop early pulmonary manifestations (Loeffler syndrome) or later gastrointestinal symptoms. {{exhibit_3}}",
+    "zh": "该患者近期旅行史、短暂的肺部症状和随后的胃肠道表现提示可能存在涉及肺和肠道的寄生虫感染。粪便显微镜检查显示一个椭圆形卵，具有厚的[外壳](https://www.medsci.cn/article/show_article.do?id=3d4a64d142e)和一个单独的内部卵子，从而证实了蛔虫（蛔虫）感染 {{exhibit_2}}。 蛔虫是亚洲、非洲和南美洲常见的寄生虫感染。美国的大多数病例发生在前往这些地区的旅行者中。当通过受污染的食物或水摄入虫卵时，就会发生传播。虫卵在小肠中孵化成幼虫，穿透肠壁，并迁移到肺泡，在那里成熟。肺部感染通常无症状，但少数感染者会发生[Loeffler综合征](https://www.medsci.cn/article/show_article.do?id=49f05d9620092301)，这是一种短暂的嗜酸性粒细胞性肺炎，伴有肺部症状（例如，干咳、呼吸困难、喘息）。\n\n几天后，幼虫从肺泡中咳出，随后被吞入胃肠道，在那里它们成熟为长（25-35厘米）的成虫，每天释放多达20万个卵子。大多数胃肠道感染无症状，但有些患者会出现腹部不适、恶心/呕吐和腹泻。通过检查粪便中的虫卵进行胃肠道感染的诊断；使用抗寄生虫药物（例如，阿苯达唑）治疗通常是有效的。\n\n（选项A）风湿热与A组链球菌咽炎后形成与肾脏、神经元和心脏抗原发生交叉反应的抗体有关。粪便中看不到卵。\n\n（选项B）超敏性肺炎是对吸入剂的免疫反应，可在接触霉菌灰尘或孢子后发生。患者通常会出现急性发热、恶心、咳嗽和呼吸困难。然而，喘息并不常见，并且粪便中不会排出卵。\n\n（选项C）[恰加斯病](https://www.medsci.cn/article/show_article.do?id=9a02298e1697)，由克氏锥虫引起的寄生虫感染，可在急性感染期间引起心肌心包炎。然而，心脏和胃肠道表现更可能在数年或数十年后发生。此外，克氏锥虫不会在粪便中排出；有时可以在血涂片上看到。\n\n（选项E）IV型超敏反应由T细胞介导，通常可见于某些药物反应（例如，[Stevens-Johnson综合征](https://www.medsci.cn/article/show_article.do?id=01b87b70241e)）的一部分。相比之下，蛔虫感染与IgE介导的（嗜酸性粒细胞性）超敏反应有关。\n\n教育目标：\n蛔虫通过受污染的食物或水传播。虫卵在小肠中孵化成幼虫，穿透肠壁，并穿过肺部迁移到肺泡中。幼虫随后被咳出并吞入胃肠道，在那里它们成熟为成虫。大多数患者无症状，但有些患者会出现早期肺部表现（Loeffler综合征）或晚期胃肠道症状。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Ascaris lumbricoides infection, its life cycle involving transpulmonary migration of larvae, and the associated pulmonary symptoms known as Loeffler syndrome. It also requires recognizing the characteristic oval eggs on stool microscopy. \n\nThe key to solving this question is recognizing the patient's travel history, the combination of pulmonary and gastrointestinal symptoms, and the stool microscopy findings. Understanding the life cycle of Ascaris lumbricoides and the mechanism of Loeffler syndrome is crucial for selecting the correct answer.",
+    "zh": "此问题考察了对蛔虫感染的认识、其涉及幼虫经肺迁移的生命周期以及与此相关的被称为Loeffler综合征的肺部症状。它还需要识别粪便显微镜检查中特有的椭圆形卵。\n\n解决此问题的关键是认识到患者的旅行史、肺部和胃肠道症状的组合以及粪便显微镜检查结果。了解蛔虫的生命周期和Loeffler综合征的机制对于选择正确的答案至关重要。"
+  },
+  "tags": "Ascaris lumbricoides; Loeffler syndrome; Parasitic infection; Transpulmonary migration; Stool microscopy; Gastroenterology; Pulmonology; Infectious disease; Eosinophilic pneumonitis",
+  "category": "Micro",
+  "question_id": "15549",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\15549",
+  "extracted_at": "2025-11-05T15:00:32.250712",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:09:24.866780",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

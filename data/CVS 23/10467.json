@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 51-year-old man is brought to the emergency department due to chest tightness that started 30 minutes prior to arrival. His chest discomfort is associated with shortness of breath and nausea. The patient was shoveling snow off his driveway when his symptoms began. He has a history of hypertension and type 2 diabetes mellitus. Initial ECG shows ST elevation in leads I and aVL. Cardiac enzymes are elevated. {{exhibit_1}}",
+    "zh": "一名51岁男性因胸闷被送往急诊科，胸闷始于入院前30分钟。他的胸部不适伴有呼吸短促和恶心。患者开始出现症状时正在铲除车道上的雪。他有高血压和2型糖尿病病史。初步心电图显示导联I和aVL的ST段抬高。心脏酶升高。 {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Emergent cardiac catheterization in this patient will most likely show occlusion of which of the following arteries?",
+    "zh": "该患者的紧急心脏导管插入术最有可能显示以下哪条动脉的闭塞？"
+  },
+  "options": {
+    "A": {
+      "en": "Distal left anterior descending artery",
+      "zh": "左前降支动脉远端"
+    },
+    "B": {
+      "en": "Left circumflex artery",
+      "zh": "左旋支动脉"
+    },
+    "C": {
+      "en": "Left main coronary artery",
+      "zh": "左主冠状动脉"
+    },
+    "D": {
+      "en": "Proximal left anterior descending artery",
+      "zh": "左前降支动脉近端"
+    },
+    "E": {
+      "en": "Right coronary artery",
+      "zh": "右冠状动脉"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient with ST elevations in leads I and aVL most likely has an acute lateral myocardial infarction (MI) due to occlusion of the left circumflex artery. ECGs are useful in the diagnosis of MI and may help localize the area of infarction. ST elevations typically represent acute MI, whereas prominent Q waves are suggestive of old MI.\n\nLeads I and aVL correspond to the lateral limb leads on ECG; therefore, ST elevation or Q waves in these leads are indicative of infarction involving the lateral aspect of the left ventricle. Because the chest leads V5-V6 are also laterally placed, they may also show ST elevation during a lateral infarction. The lateral aspect of the left ventricle is supplied by the left circumflex artery, which originates from the left main coronary artery. {{exhibit_2}}\n\n(Choices A and D) The left anterior descending artery (LAD) primarily supplies the anterior aspect of the left ventricle and interventricular septum (septal branches), which corresponds to the anterior chest leads (V1-V4). Proximal occlusion of the LAD may involve all of these leads; however, distal LAD occlusion typically spares the septal leads (V1-V2).\n\n(Choice C) The left main coronary artery gives rise to the LAD and left circumflex arteries. Therefore, left main coronary artery occlusion typically results in anterolateral infarction, which corresponds to ST elevation in the anterior (eg, V1-V4) and lateral (V5-V6, I, and aVL) leads.\n\n(Choice E) The right coronary artery typically supplies the right ventricle and inferior aspect of the left ventricle. Occlusion of this vessel therefore results in inferior MI, which corresponds to ST elevation in the inferior leads (II, III, and aVF). {{exhibit_3}}",
+    "zh": "该患者在导联I和aVL中出现ST段抬高，最有可能由于左旋支动脉闭塞而导致急性侧壁心肌梗死（MI）。心电图在MI的诊断中很有用，并且可能有助于定位梗死区域。ST段抬高通常代表急性MI，而明显的Q波提示陈旧性MI。\n\n导联I和aVL对应于心电图上的侧肢导联；因此，这些导联中的ST段抬高或Q波表明涉及左心室侧壁的梗死。由于胸前导联V5-V6也位于侧壁，它们在侧壁梗死期间也可能显示ST段抬高。左心室的侧壁由左旋支动脉供应，左旋支动脉起源于左主冠状动脉。 {{exhibit_2}}\n\n（选项A和D）左前降支动脉（LAD）主要供应左心室前壁和室间隔（间隔支），这对应于前胸导联（V1-V4）。LAD近端闭塞可能涉及所有这些导联；然而，LAD远端闭塞通常会保留间隔导联（V1-V2）。\n\n（选项C）左主冠状动脉产生LAD和左旋支动脉。因此，左主冠状动脉闭塞通常导致前外侧梗死，这对应于前壁（例如，V1-V4）和侧壁（V5-V6、I和aVL）导联中的ST段抬高。\n\n（选项E）右冠状动脉通常供应右心室和左心室下壁。因此，该血管的闭塞导致下壁MI，这对应于下壁导联（II、III和aVF）中的ST段抬高。 {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of ECG interpretation in the setting of acute myocardial infarction, specifically identifying the culprit artery based on ST elevation in specific leads. The key is to recognize the correlation between ECG leads and the corresponding cardiac anatomy supplied by different coronary arteries.\n\nTo solve this question, identify the leads with ST elevation (I and aVL), recognize that these are lateral leads, and recall that the lateral aspect of the left ventricle is supplied by the left circumflex artery. Rule out other options based on their corresponding ECG lead territories.",
+    "zh": "此问题测试在急性心肌梗死情况下对心电图的解读知识，特别是根据特定导联的ST段抬高来识别罪犯动脉。关键是要认识到心电图导联与由不同冠状动脉供应的相应心脏解剖结构之间的相关性。\n\n要解决此问题，请识别ST段抬高的导联（I和aVL），认识到这些是侧壁导联，并回想左心室的侧壁由左旋支动脉供应。根据其他选项的相应心电图导联区域排除它们。"
+  },
+  "tags": "Acute myocardial infarction; ECG interpretation; ST elevation; Left circumflex artery; Cardiology; Emergency medicine",
+  "category": "CVS",
+  "question_id": "10467",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\10467",
+  "extracted_at": "2025-11-05T11:49:50.451988",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:43:40.031137",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

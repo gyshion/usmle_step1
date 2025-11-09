@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man comes to the clinic due to headaches and mild confusion over the past week. The patient has a seizure disorder and recently began taking carbamazepine. Vital signs are within normal limits. Physical examination shows no abnormalities. Laboratory studies reveal decreased serum sodium concentration. The patient is diagnosed with a condition caused by increased release of a hormone that is co-secreted with neurophysins. This hormone is most likely secreted into the systemic circulation at which of the following sites? {{exhibit_1}}",
+    "zh": "一位34岁男性因过去一周的头痛和轻度意识模糊来诊所就诊。患者患有癫痫，最近开始服用卡马西平。生命体征在正常范围内。体格检查未见异常。实验室研究显示血清钠浓度降低。患者被诊断为一种由与神经素共同分泌的激素释放增加引起的疾病。这种激素最有可能在以下哪个部位分泌到体循环中？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "This hormone is most likely secreted into the systemic circulation at which of the following sites?",
+    "zh": "这种激素最有可能在以下哪个部位分泌到体循环中？"
+  },
+  "options": {
+    "A": {
+      "en": "Anterior lobe of pituitary gland",
+      "zh": "垂体前叶"
+    },
+    "B": {
+      "en": "Intermediate lobe of pituitary gland",
+      "zh": "垂体中间叶"
+    },
+    "C": {
+      "en": "Median eminence of hypothalamus",
+      "zh": "下丘脑正中隆起"
+    },
+    "D": {
+      "en": "Paraventricular nucleus of hypothalamus",
+      "zh": "下丘脑室旁核"
+    },
+    "E": {
+      "en": "Posterior lobe of pituitary gland",
+      "zh": "垂体后叶"
+    },
+    "F": {
+      "en": "Supraoptic nucleus of hypothalamus",
+      "zh": "下丘脑视上核"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient with new-onset hyponatremia after drug exposure most likely has the syndrome of inappropriate antidiuretic hormone secretion (SIADH). This condition can be caused by a multitude of drugs, including carbamazepine, cyclophosphamide, and selective serotonin reuptake inhibitors.\n\nPosterior pituitary hormones (eg, ADH, oxytocin) are synthesized within magnocellular neurons found in the supraoptic and paraventricular nuclei of the hypothalamus, with the former primarily producing ADH and the latter oxytocin (Choices D and F). Once translated, these hormones are attached to carrier proteins known as neurophysins. The complexes are packaged into vesicles and travel down axon projections via anterograde transport into the posterior pituitary (neurohypophysis).\n\nAt their terminal endings, the axons become neurosecretory terminals known as Herring bodies, temporarily storing secretory vesicles. Pituicytes (glial cells) regulate the permeability of the hypophysial capillaries, facilitating secretion of ADH and oxytocin from the posterior pituitary into the hypophysial vein.\n\n(Choice A) The anterior pituitary (adenohypophysis) is the glandular portion of the pituitary that lies closest to the optic chiasm. It is composed of various hormone-secreting cells, including lactotrophs (prolactin), corticotrophs (ACTH), somatotrophs (growth hormone), thyrotrophs (TSH), and gonadotrophs (FSH, LH).\n\n(Choice B) The intermediate lobe of the pituitary gland is a vestigial region derived from the posterior wall of the Rathke pouch during embryonic development. Although predominantly nonfunctioning, the remainder produces melanocyte-stimulating hormone and endorphins.\n\n(Choice C) The median eminence is a small ridge of hypothalamic tissue that secretes regulatory hormones (both releasing and inhibitory) that modulate the anterior pituitary. These include corticotropin-releasing hormone, gonadotropin releasing hormone, thyrotropin-releasing hormone, and growth hormone-releasing hormone.\n\nEducational objective:\nVasopressin and oxytocin are synthesized and packaged with carrier proteins (neurophysins) within neurons found in the hypothalamus. The hormones are then transported down axonal projections to the posterior pituitary (neurohypophysis), where they are secreted into circulation.",
+    "zh": "这位患者在药物暴露后出现新发低钠血症，最有可能患有抗利尿激素分泌不当综合征 (SIADH)。这种情况可能由多种药物引起，包括卡马西平、环磷酰胺和选择性血清素再摄取抑制剂。\n\n后叶垂体激素（例如，ADH、催产素）是在下丘脑的视上核和室旁核中的巨细胞神经元内合成的，前者主要产生ADH，后者产生催产素（选项D和F）。一旦翻译，这些激素就会与称为神经素的载体蛋白结合。复合物被包装成囊泡，并通过顺行转运沿着轴突投射到后叶垂体（神经垂体）。\n\n在它们的末端，轴突变成神经分泌末梢，称为 Herring 小体，暂时储存分泌囊泡。垂体细胞（神经胶质细胞）调节垂体毛细血管的通透性，促进ADH和催产素从后叶垂体分泌到垂体静脉。\n\n（选项A）垂体前叶（腺垂体）是垂体中离视交叉最远的腺性部分。它由各种分泌激素的细胞组成，包括泌乳素细胞（催乳素）、促皮质素细胞（ACTH）、生长激素细胞（生长激素）、促甲状腺素细胞（TSH）和促性腺素细胞（FSH、LH）。\n\n（选项B）垂体中间叶是在胚胎发育过程中由 Rathke 囊的后壁衍生的痕迹区域。虽然主要不发挥作用，但其余部分产生促黑素细胞激素和内啡肽。\n\n（选项C）正中隆起是下丘脑组织的一个小脊，分泌调节前叶垂体的调节激素（释放和抑制）。这些包括促肾上腺皮质激素释放激素、促性腺激素释放激素、促甲状腺素释放激素和生长激素释放激素。\n\n教育目标：\n加压素和催产素是在下丘脑的神经元内合成并与载体蛋白（神经素）一起包装的。然后，这些激素沿着轴突投射到后叶垂体（神经垂体），在那里它们分泌到循环中。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the synthesis, transport, and secretion of posterior pituitary hormones, specifically ADH and oxytocin, and their association with neurophysins. It also requires understanding of SIADH and its potential causes.\n\nTo solve this question, recognize the clinical scenario as suggestive of SIADH, identify carbamazepine as a potential cause, and recall that ADH (vasopressin) and oxytocin are synthesized in the hypothalamus, transported to the posterior pituitary, and then secreted into circulation.",
+    "zh": "本题考察对后叶垂体激素（特别是 ADH 和催产素）的合成、转运和分泌的了解，以及它们与神经素的关联。它还需要了解 SIADH 及其潜在原因。\n\n为了解决这个问题，需要认识到临床情况提示 SIADH，确定卡马西平是潜在原因，并记住 ADH（加压素）和催产素是在下丘脑中合成的，转运到后叶垂体，然后分泌到循环中。"
+  },
+  "tags": "SIADH; Hyponatremia; Posterior pituitary; ADH; Vasopressin; Oxytocin; Neurophysins; Carbamazepine; Endocrinology; Nephrology",
+  "category": "Endo",
+  "question_id": "1561",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\1561",
+  "extracted_at": "2025-11-05T14:01:10.559495",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:38:02.105769",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

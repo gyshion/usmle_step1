@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old woman is enrolled in a clinical trial to test a new medication for rheumatoid arthritis. The patient's condition has been poorly controlled despite prolonged treatment with multiple disease-modifying antirheumatic drugs. The new medication is a CTLA4-Ig fusion protein that prevents CD28 from binding to CD80/86 on antigen-presenting cells. A month after treatment begins, the patient reports a significant reduction in joint pain and stiffness. Laboratory results reveal reduced levels of C-reactive protein and IL-2. Which of the following is the most likely underlying cause of this patient's treatment response?",
+    "zh": "一名65岁女性参与了一项临床试验，以测试治疗类风湿性关节炎的新药。尽管长期使用多种改善病情的抗风湿药物，但患者的病情控制不佳。新药是一种CTLA4-Ig融合蛋白，可阻止CD28与抗原呈递细胞上的CD80/86结合。治疗开始一个月后，患者报告关节疼痛和僵硬显着减轻。实验室结果显示C反应蛋白和IL-2水平降低。以下哪项最可能是该患者治疗反应的根本原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying cause of this patient's treatment response?",
+    "zh": "以下哪项最可能是该患者治疗反应的根本原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Complement inhibition",
+      "zh": "补体抑制"
+    },
+    "B": {
+      "en": "Immune complex clearance",
+      "zh": "免疫复合物清除"
+    },
+    "C": {
+      "en": "Negative selection",
+      "zh": "阴性选择"
+    },
+    "D": {
+      "en": "Peripheral tolerance",
+      "zh": "外周耐受"
+    },
+    "E": {
+      "en": "Sensitization",
+      "zh": "致敏"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Abatacept, a disease-modifying antirheumatic drug, is a fusion of CTLA4 with the Fc portion of IgG (CTLA4-Ig) {{exhibit_1}}. CTLA4 is a naturally occurring immune checkpoint receptor that is upregulated on the surface of active T cells. It acts as a brake for the adaptive immune response by preventing the conversion of antigen-specific naive T cells into effector T cells.\n\nThe activation of cytotoxic T cells requires 2 stimulatory signals. First, the T cell must bind to a specific antigen on the class I major histocompatibility complex (MHC) of an antigen-presenting cell (APC); then, the bound T cell must be costimulated by an interaction between the T cell surface receptor CD28 and the APC cell surface ligand CD80/86. T cells that bind an antigen on an APC but are not costimulated undergo anergy, a form of peripheral immune tolerance marked by a lack of T-cell response to cytokine, ligand, or antigen stimulation (T-cell inactivation).\n\nBecause CTLA4 binds to CD80/86 with greater affinity than CD28, administration of exogenous CTLA4 (eg, abatacept) reduces the availability of ligands necessary for T cell costimulation, which dramatically increases T cell anergy in areas of active inflammation.\n\n(Choice A) C3a and C5a are potent anaphylatoxins, proinflammatory proteins that degranulate phagocytes/mast cells, increase vascular permeability, and recruit leukocytes. Although these 2 complement components generate significant inflammation, the complement system is not affected by CTLA4 inhibition.\n\n(Choice B) T cell anergy also impairs T cell-mediated B cell activation, which reduces antibody and inflammatory cytokine production. However, immune complex clearance by the reticuloendothelial system is unaffected by exogenous CTLA4 administration.\n\n(Choice C) Developing cytotoxic T cells that interact with self-antigens are eliminated in the thymus through negative selection, a form of central tolerance. Although this helps prevent autoimmunity, central tolerance is not mediated by CTLA4.\n\n(Choice E) Sensitization refers to the production of an allergen-specific IgE, which is mediated by CD4 helper type 2 lymphocytes after exposure to a specific antigen. CTLA4 does not play a role.\n\nEducational objective:\nAbatacept, a disease-modifying antirheumatic drug, is a fusion of CTLA4 with the Fc portion of IgG. CTLA4 binds to CD80/86 on antigen-presenting cells, which prevents CD80/86 from binding to CD28 on T cells. This reduces T cell costimulation and leads to anergy, which reduces inflammation.",
+    "zh": "阿巴西普，一种改善病情的抗风湿药物，是CTLA4与IgG的Fc段的融合体（CTLA4-Ig）{{exhibit_1}}。 CTLA4是一种天然存在的免疫检查点受体，在上调于活性T细胞的表面。它通过阻止抗原特异性幼稚T细胞转化为效应T细胞，从而充当适应性免疫反应的制动器。\n\n细胞毒性T细胞的激活需要2个刺激信号。首先，T细胞必须与抗原呈递细胞（APC）的I类主要组织相容性复合物（MHC）上的特定抗原结合；然后，结合的T细胞必须通过T细胞表面受体CD28与APC细胞表面配体CD80/86之间的相互作用而受到共刺激。在APC上结合抗原但未受到共刺激的T细胞会发生无反应状态，这是一种外周免疫耐受形式，其特征是对细胞因子、配体或抗原刺激缺乏T细胞反应（T细胞失活）。\n\n由于CTLA4与CD80/86的结合亲和力高于CD28，外源性CTLA4（例如阿巴西普）的给药会降低T细胞共刺激所需的配体，从而显着增加活动性炎症区域的T细胞无反应。\n\n（选项A）C3a和C5a是有效的过敏毒素，促炎蛋白，可使吞噬细胞/肥大细胞脱颗粒，增加血管通透性，并募集白细胞。尽管这2个补体成分会产生明显的炎症，但CTLA4抑制对补体系统没有影响。\n\n（选项B）T细胞无反应也会损害T细胞介导的B细胞激活，从而减少抗体和炎性细胞因子的产生。然而，外源性CTLA4给药对网状内皮系统清除免疫复合物没有影响。\n\n（选项C）与自身抗原相互作用的细胞毒性T细胞通过阴性选择在胸腺中被消除，这是一种中枢耐受形式。尽管这有助于预防自身免疫，但中枢耐受不是由CTLA4介导的。\n\n（选项E）致敏是指在接触特定抗原后，由CD4辅助型2淋巴细胞介导的产生过敏原特异性IgE。 CTLA4不发挥作用。\n\n教学目标：\n阿巴西普，一种改善病情的抗风湿药物，是CTLA4与IgG的Fc部分的融合体。 CTLA4与抗原呈递细胞上的CD80/86结合，阻止CD80/86与T细胞上的CD28结合。这会减少T细胞共刺激并导致无反应，从而减少炎症。"
+  },
+  "summary": {
+    "en": "This question tests the mechanism of action of CTLA4-Ig fusion proteins like abatacept, which are used as disease-modifying antirheumatic drugs. It requires understanding how these drugs induce peripheral tolerance by preventing T cell costimulation.\n\nTo solve this question, recognize that CTLA4-Ig binds to CD80/86, preventing CD28 from binding and thus inhibiting T cell activation. This leads to T cell anergy and peripheral tolerance, reducing inflammation in autoimmune diseases like rheumatoid arthritis.",
+    "zh": "这个问题考察了CTLA4-Ig融合蛋白（如阿巴西普）的作用机制，这些蛋白被用作改善病情的抗风湿药物。它需要理解这些药物如何通过阻止T细胞共刺激来诱导外周耐受。\n\n为了解决这个问题，需要认识到CTLA4-Ig与CD80/86结合，阻止CD28结合，从而抑制T细胞激活。这会导致T细胞无反应和外周耐受，从而减轻类风湿性关节炎等自身免疫性疾病的炎症。"
+  },
+  "tags": "Rheumatoid arthritis; CTLA4-Ig; Abatacept; T cell costimulation; Peripheral tolerance; Autoimmune disease; Immunomodulation; Cytokine production; CD28; CD80/86",
+  "category": "Immunology",
+  "question_id": "18613",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\18613",
+  "extracted_at": "2025-11-05T14:41:20.136000",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:01:09.403581",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 70-year-old man is brought to the emergency department due to sudden-onset weakness in his right arm and leg. Although he can speak, he cannot pronounce words clearly. Blood pressure is 170/96 mm Hg and pulse is 80/min. The patient is alert and oriented. Neurologic examination shows 3/5 strength in both right upper and lower extremities. When the patient is asked to stick out his tongue, it deviates to the left. Sensory examination shows no abnormalities. Right hemiparesis stroke localization {{exhibit_1}}",
+    "zh": "一名70岁男性因右侧胳膊和腿突发无力被送往急诊科。虽然他可以说话，但发音不清楚。血压为170/96 mmHg，脉搏为80次/分钟。患者意识清醒，定向力好。神经系统检查显示右侧上肢和下肢肌力均为3/5。当病人被要求伸出舌头时，舌头向左侧偏斜。感觉检查未见异常。右侧偏瘫卒中定位{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely location of this patient's brain injury?",
+    "zh": "该患者脑损伤最可能的位置是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Left lateral medulla",
+      "zh": "左侧外侧延髓"
+    },
+    "B": {
+      "en": "Left medial medulla",
+      "zh": "左侧内侧延髓"
+    },
+    "C": {
+      "en": "Left precentral gyrus",
+      "zh": "左侧中央前回"
+    },
+    "D": {
+      "en": "Right lateral medulla",
+      "zh": "右侧外侧延髓"
+    },
+    "E": {
+      "en": "Right medial medulla",
+      "zh": "右侧内侧延髓"
+    },
+    "F": {
+      "en": "Right precentral gyrus",
+      "zh": "右侧中央前回"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Right hemiparesis: This is nearly always contralateral to the site of ischemia.\n\nLeftward tongue deviation and slurred speech: On tongue protrusion, the strong side \"pushes\" the tongue toward the weak side, so this patient has a defect of the left hypoglossal nerve (CN XII)\n\nBecause most cranial nerves (other than CN II & IV) do not decussate while most of the body's motor and sensory fibers cross the midline in the medulla, BRAINSTEM STROKES are characterized by ipsilateral cranial nerve deficits accompanied by contralateral hemiparesis or hemisensory loss (ie. crossed signs).\n\nThe specific cranial nerves impacted can further localize the lesion. In this case, the hypoglossal nerve (CN XII) originates in the medulla. This is consistent with left medial medullary syndrome, which is most often caused by occlusion of the paramedian bulbar arteries that impacts the pyramidal tract (contralateral arm and/or leg weakness) and hypoglossal nucleus (ipsilateral tongue weakness). Paresthesias can occur due to damage of the medial lemniscus, although, typically, there are no objective sensory deficits, as in this patient.\n\n(Choices A and D) A stroke in the lateral medulla classically results in Wallenberg syndrome. There is typically no motor weakness. Instead, it is typified by vertigo/nystagmus (vestibular nucleus), ataxia (inferior cerebellar peduncle), a diminished gag reflex (nucleus ambiguus), and loss of pain and temperature sensation from the ipsilateral face (spinal trigeminal nucleus) and contralateral body (spinothalamic tract).\n\n(Choices C and F) The primary motor cortex is located in the precentral gyrus. A stroke impacting the left precentral gyrus could result in right hemiparesis. However, strokes impacting the cortex often result in cortical signs such as Visual disturbances, Aphasia (in contrast to the dysarthria seen in this patient), Neglect, and/or Sensory disturbances (VANS). Cranial nerve deficits would not be expected.\n\n(Choice E) Brainstem strokes result in contralateral hemiparesis and ipsilateral cranial nerve defects. Therefore, a stroke in the right medulla would lead to left hemiparesis and right tongue weakness (leading to right tongue deviation because the strong side \"pushes\" the tongue to the weak side as it protrudes).\n\nEducational objective:\nCrossed signs (ie, ipsilateral cranial nerve dysfunction with contralateral limb weakness) are typical of a brainstem stroke. A stroke in the medial medulla often results in contralateral limb weakness with ipsilateral tongue weakness, which causes tongue deviation to the weak side. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "右侧偏瘫：这几乎总是与缺血部位对侧相关。\n\n舌头向左偏斜和言语不清：当舌头伸出时，强侧会将舌头“推”向弱侧，因此该患者的左侧舌下神经（CN XII）存在缺陷。\n\n因为大多数脑神经（CN II和IV除外）没有交叉，而身体的大部分运动和感觉纤维在延髓中穿过中线，所以脑干卒中的特征是同侧脑神经缺陷伴有对侧偏瘫或感觉丧失（即交叉征）。\n\n受影响的特定脑神经可以进一步定位病变。在这种情况下，舌下神经（CN XII）起源于延髓。这与左侧内侧延髓综合征一致，该综合征最常由影响锥体束（对侧手臂和/或腿无力）和舌下神经核（同侧舌无力）的，由正中旁球部动脉闭塞引起。感觉异常可能由于内侧丘系受损而发生，尽管，通常，没有客观的感觉缺陷，如本患者所示。\n\n（选项A和D）外侧延髓卒中通常导致Wallenberg综合征。通常没有运动无力。相反，它的特征是眩晕/眼球震颤（前庭核），共济失调（小脑下脚），吞咽反射减弱（疑核）以及同侧面部（脊髓三叉神经核）和对侧身体（脊髓丘脑束）的疼痛和温度感觉丧失。\n\n（选项C和F）主要运动皮层位于中央前回。影响左侧中央前回的卒中可能导致右侧偏瘫。然而，影响皮层的卒中通常会导致皮质征象，例如视觉障碍，失语症（与该患者出现的构音障碍相反），忽略和/或感觉障碍（VANS）。不期望出现脑神经缺陷。\n\n（选项E）脑干卒中导致对侧偏瘫和同侧脑神经缺陷。因此，右侧延髓的卒中将导致左侧偏瘫和右侧舌无力（导致舌头向右偏斜，因为强侧在舌头伸出时将舌头“推”向弱侧）。\n\n教育目标：\n交叉征（即，同侧脑神经功能障碍伴对侧肢体无力）是脑干卒中的典型表现。内侧延髓的卒中通常导致对侧肢体无力伴同侧舌无力，导致舌头向弱侧偏斜。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of brainstem stroke localization, specifically the medial medullary syndrome, and its characteristic presentation of contralateral hemiparesis and ipsilateral tongue deviation. It requires understanding of the anatomical pathways and decussation of motor and cranial nerve fibers in the medulla. \n\nTo solve this question, identify the key findings: right hemiparesis (left motor cortex or brainstem) and left tongue deviation (left hypoglossal nerve). Recognize that ipsilateral cranial nerve deficits with contralateral motor deficits indicate a brainstem lesion, specifically the medial medulla affecting the pyramidal tract and hypoglossal nucleus.",
+    "zh": "此题考察对脑干卒中定位的知识，特别是内侧延髓综合征，及其对侧偏瘫和同侧舌偏斜的特征性表现。它要求理解延髓中运动和脑神经纤维的解剖通路和交叉。\n\n要解决这个问题，需要确定关键发现：右侧偏瘫（左侧运动皮层或脑干）和左侧舌偏斜（左侧舌下神经）。认识到同侧脑神经缺陷伴对侧运动缺陷表明脑干病变，特别是影响锥体束和舌下神经核的内侧延髓。"
+  },
+  "tags": "Medial medullary syndrome; Brainstem stroke; Hypoglossal nerve; Hemiparesis; Tongue deviation; Neurology; Vascular disease; Crossed signs; Pyramidal tract",
+  "category": "Neuro",
+  "question_id": "105531",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\105531",
+  "extracted_at": "2025-11-05T15:07:26.096029",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:16:09.529137",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

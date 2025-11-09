@@ -1,0 +1,54 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old man with a 30-pack-year smoking history is admitted to the hospital for evaluation of hemoptysis. Imaging studies reveal a right lung mass with features suggesting possible malignancy. On day 2 of hospitalization, he undergoes biopsy of the mass. The biopsy confirms the diagnosis of non-small cell lung cancer. However, staging studies have not yet been completed. As the physician enters the patient's room after reviewing the biopsy results, the patient asks about the biopsy results and prognosis.",
+    "zh": "一名有30包年吸烟史的63岁男性因咯血入院评估。影像学研究显示右肺有肿块，其特征提示可能恶性。住院第2天，他接受了肿块活检。活检证实诊断为非小细胞肺癌。然而，分期研究尚未完成。当医生在查看活检结果后进入病房时，患者询问了活检结果和预后。"
+  },
+  "question": {
+    "en": "Which of the following is the best way to approach this patient's question?",
+    "zh": "以下哪项是处理该患者问题的最佳方法？"
+  },
+  "options": {
+    "A": {
+      "en": "Defer discussion of both biopsy results and prognosis and tell him you will discuss them once all studies are completed",
+      "zh": "推迟关于活检结果和预后的讨论，并告诉他一旦所有研究完成，你将与他讨论"
+    },
+    "B": {
+      "en": "Defer discussion of both biopsy results and prognosis until an oncologist evaluates the patient",
+      "zh": "推迟关于活检结果和预后的讨论，直到肿瘤科医生评估患者"
+    },
+    "C": {
+      "en": "Discuss the biopsy results along with an optimistic assessment of prognosis until an unfavorable prognosis is confirmed with staging studies",
+      "zh": "讨论活检结果，同时对预后进行乐观评估，直到通过分期研究确认不良预后"
+    },
+    "D": {
+      "en": "Discuss the biopsy results with the patient, but defer discussion of prognosis until staging results are available",
+      "zh": "与患者讨论活检结果，但推迟关于预后的讨论，直到分期结果出来"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has biopsy-confirmed non–small cell lung cancer (NSCLC). However, the prognosis (ie, likely course or outcome of disease) cannot be determined because prognosis in NSCLC is heavily dependent on disease stage, and the necessary staging studies (eg, CT scan of the abdomen) have not yet been completed. At this time, the physician should discuss all available information with the patient. Even though prognostic information is not yet available, the physician should not withhold diagnostic information, especially when the patient makes a direct inquiry. Because prognosis is uncertain and possibly unfavorable, the physician should take a sensitive, patient-centered approach to avoid conveying either a sense of false hope (Choice C) or needless hopelessness. The physician should also discuss the plan for completing the staging evaluation and the expected timing for informing the patient of results.\n\n(Choice A) Although deferring discussion of prognosis is appropriate because staging studies have not been completed, the physician should inform the patient of his biopsy results because that information is available and the patient desires to know.\n\n(Choice B) Deferring certain details of the discussion to the oncologist (eg, specific treatment regimen) is appropriate; however, the physician in charge of the patient's care should answer the patient's question and provide all the information that is currently available.\n\nEducational objective:\nThe physician should inform the patient about all relevant information, particularly when specifically asked by the patient. If only partial information is available, the physician should provide the information available at the time, along with a discussion of when the remaining information will be available.",
+    "zh": "该患者的活检证实患有非小细胞肺癌 (NSCLC)。然而，由于 NSCLC 的预后（即疾病的可能病程或结果）在很大程度上取决于疾病分期，并且必要的疾病分期研究（例如腹部 CT 扫描）尚未完成，因此无法确定预后。此时，医生应与患者讨论所有可获得的信息。即使预后信息尚不可用，医生也不应隐瞒诊断信息，尤其是在患者直接询问时。由于预后不确定且可能不利，医生应采取敏感的、以患者为中心的方法，以避免传达虚假的希望（选项 C）或不必要的绝望。医生还应讨论完成分期评估的计划以及告知患者结果的预期时间。\n\n（选项 A）尽管推迟关于预后的讨论是合适的，因为分期研究尚未完成，但医生应告知患者其活检结果，因为该信息是可获得的，并且患者希望知道。\n\n（选项 B）将讨论的某些细节推迟到肿瘤科医生（例如，具体的治疗方案）是合适的；然而，负责患者护理的医生应回答患者的问题并提供目前所有可获得的信息。\n\n教育目标：\n医生应告知患者所有相关信息，尤其是在患者明确询问时。如果仅提供部分信息，医生应提供当时可用的信息，并讨论何时可以获得剩余信息。"
+  },
+  "summary": {
+    "en": "This question tests the ethical and communication skills required to discuss a new cancer diagnosis with a patient when prognostic information is incomplete. It emphasizes the importance of transparency and patient-centered communication.\n\nThe best approach is to provide the patient with the available information (biopsy results) while acknowledging the uncertainty regarding prognosis and explaining the plan for obtaining further information (staging studies). Avoid withholding information or providing overly optimistic assessments.",
+    "zh": "此问题测试在预后信息不完整时，与患者讨论新癌症诊断所需的伦理和沟通技巧。它强调透明度和以患者为中心的沟通的重要性。\n\n最佳方法是向患者提供可获得的信息（活检结果），同时承认预后的不确定性，并解释获取更多信息（分期研究）的计划。避免隐瞒信息或提供过于乐观的评估。"
+  },
+  "tags": "Non-small cell lung cancer; Communication skills; Medical ethics; Prognosis; Biopsy results; Staging studies; Patient-centered care",
+  "category": "Ethics",
+  "question_id": "21717",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\21717",
+  "extracted_at": "2025-11-05T14:20:36.550816",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:48:48.672026",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

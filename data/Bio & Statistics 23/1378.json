@@ -1,0 +1,55 @@
+{
+  "question_stem": {
+    "en": "Two graphs illustrating the transport rate of solutes across the plasma membrane are shown on the slide below.\n{{exhibit_1}}",
+    "zh": "幻灯片上显示了两张图表，说明了溶质穿过细胞膜的转运速率。\n{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following best explains the difference in the shape of the curves?",
+    "zh": "以下哪一项最能解释曲线形状的差异？"
+  },
+  "options": {
+    "A": {
+      "en": "Different amounts of membrane surface area for diffusion",
+      "zh": "用于扩散的膜表面积不同"
+    },
+    "B": {
+      "en": "Different degrees of membrane thickness",
+      "zh": "膜厚度不同"
+    },
+    "C": {
+      "en": "The 2 solutes have different molecular weights",
+      "zh": "两种溶质的分子量不同"
+    },
+    "D": {
+      "en": "The 2 solutes have different oil/water partition coefficients",
+      "zh": "两种溶质的油/水分配系数不同"
+    },
+    "E": {
+      "en": "The presence of a protein transporter",
+      "zh": "存在蛋白质转运体"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "simple diffusion (line 2) and carrier-mediated transport (line 1).\n\nThere are two types of diffusion:\n\n•\tSimple diffusion – molecules move through a membrane without the help of carrier proteins.\n•\tFacilitated diffusion – requires carrier proteins.\n\nCarrier proteins are typically transmembranep roteinsthatpossessbindingsitesforthesubstratethey transport. Bindingisfollowedbymovementofthesubstrateacrossthecellmembranetotheintracellularspace, whereitisreleasedintothecytoplasm.Becausethereisafinitenumberofcarrierproteinsinthecellmembrane, transportersaturation occurs with facilitated diffusion, and can be seen as a flattening of the curve (maximum diffusion speed), even as solute concentration continues to increase. This maximum rate of transport is referred to as the transport maximum (Tm) and is similar in principle to the Vmax in standard enzyme kinetics.\n\n(Choices A, B, C, D) These other factors are important for determining the rate of diffusion (ie, slope of the line), but would not explain the flattening of the curve in line 1 (which is best accounted for by saturation of a protein carrier). In general, the rate of diffusion increases with:\n\n•\tHigher concentration gradients across the membrane\n•\tLower molecular weight\n•\tLarger diffusion surface area\n•\tThinner membrane thickness\n\nFor molecules that move through the membrane via simple diffusion, the degree of lipophilicity is also important; molecules with a high oil-water partition coefficient are more easily able to cross the membrane and will diffuse faster.\n\nEducational objective:\nCarrier-mediated transport includes facilitated diffusion and active transport. Movement of substrate across the cell membrane by these mechanisms depends on the presence of carrier proteins that can become saturated at high substrate concentrations.",
+    "zh": "简单扩散（线 2）和载体介导转运（线 1）。\n\n扩散有两种类型：\n\n•\t简单扩散 – 分子无需载体蛋白的帮助即可穿过细胞膜。\n•\t易化扩散 – 需要载体蛋白。\n\n载体蛋白通常是跨膜蛋白，具有底物结合位点，用于转运底物。 结合后，底物穿过细胞膜进入细胞内空间，在那里它被释放到细胞质中。 由于细胞膜中载体蛋白的数量有限，易化扩散会发生转运体饱和，并且可以看到曲线变平（最大扩散速度），即使溶质浓度持续增加。 这种最大转运速率被称为转运最大值 (Tm)，其原理类似于标准酶动力学中的 Vmax。\n\n（选项 A、B、C、D）这些其他因素对于确定扩散速率（即，线的斜率）很重要，但不能解释线 1 中曲线的变平（这最好用蛋白质载体的饱和来解释）。 一般来说，扩散速率随着以下因素而增加：\n\n•\t穿过膜的浓度梯度更高\n•\t分子量更低\n•\t扩散表面积更大\n•\t膜厚度更薄\n\n对于通过简单扩散穿过膜的分子，亲脂性程度也很重要； 具有高油水分配系数的分子更容易穿过膜，并且扩散速度更快。\n\n教育目标：\n载体介导转运包括易化扩散和主动转运。 通过这些机制使底物穿过细胞膜，取决于是否存在载体蛋白，这些载体蛋白在高底物浓度下会饱和。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of transport mechanisms across the plasma membrane, specifically simple vs. facilitated diffusion. It focuses on the concept of transporter saturation and how it affects the shape of the transport rate curve.\n\nThe key to solving this question is recognizing that the plateau observed in curve 1 represents saturation kinetics, which is characteristic of carrier-mediated transport. Other factors influencing diffusion rate (e.g., membrane thickness, surface area) do not account for this saturation phenomenon.",
+    "zh": "此题考察对跨细胞膜转运机制的理解，特别是简单扩散与易化扩散。 重点是转运体饱和的概念及其如何影响转运速率曲线的形状。\n\n解决此题的关键是认识到曲线 1 中观察到的平台代表饱和动力学，这是载体介导转运的特征。 影响扩散速率的其他因素（例如，膜厚度、表面积）并不能解释这种饱和现象。"
+  },
+  "tags": "Cell membrane transport; Simple diffusion; Facilitated diffusion; Carrier proteins; Saturation kinetics; Transport maximum; Vmax",
+  "category": "Bio",
+  "question_id": "1378",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1378",
+  "extracted_at": "2025-11-05T10:34:21.093919",
+  "translated_at": "2025-11-07T16:20:55.775386",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

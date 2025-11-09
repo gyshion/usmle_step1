@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "In a series of animal experiments, the insulin concentration in the pancreatic veins is measured after the administration of various agents. Epinephrine administration is found to cause a decrease in insulin levels. However, after pretreatment with Drug A, epinephrine injection causes a paradoxical increase in insulin concentration. Which of the following receptors does Drug A most likely block?",
+    "zh": "在一系列动物实验中，测量了注射各种药物后胰腺静脉中的胰岛素浓度。发现注射肾上腺素会导致胰岛素水平下降。然而，在使用药物A预处理后，注射肾上腺素会导致胰岛素浓度出现反常的升高。药物A最有可能阻断以下哪种受体？"
+  },
+  "question": {
+    "en": "Which of the following receptors does Drug A most likely block?",
+    "zh": "药物A最有可能阻断以下哪种受体？"
+  },
+  "options": {
+    "A": {
+      "en": "Alpha-2 adrenergic receptors",
+      "zh": "α-2 肾上腺素受体"
+    },
+    "B": {
+      "en": "Beta-2 adrenergic receptors",
+      "zh": "β-2 肾上腺素受体"
+    },
+    "C": {
+      "en": "Glucagon-like peptide-1 receptors",
+      "zh": "胰高血糖素样肽-1受体"
+    },
+    "D": {
+      "en": "Histamine H2 receptors",
+      "zh": "组胺H2受体"
+    },
+    "E": {
+      "en": "Muscarinic M3 receptors",
+      "zh": "毒蕈碱M3受体"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Pancreatic beta cell insulin secretion is influenced by serum glucose levels and other factors such as autonomic nervous system activity. Parasympathetic stimulation of muscarinic M3 receptors promotes insulin secretion and is induced by the smell and/or sight of food. In contrast, sympathetic stimulation is more complex, since both alpha-2 and beta-2 adrenergic receptors are present on pancreatic beta cells and exert opposite effects. Stimulation of beta-2 receptors promotes insulin secretion while stimulation of alpha-2 receptors inhibits insulin release. However, the alpha-2-mediated inhibitory effect is predominant, causing sympathetic stimulation to lead to overall inhibition of insulin secretion. Likewise, epinephrine administration activates both alpha-2 and beta-2 receptors, but the overriding inhibitory effect results in decreased insulin secretion. Following pretreatment with an alpha-2 receptor blocker (Drug A), epinephrine's effect on beta-2 receptors would become dominant, resulting in increased insulin secretion. {{exhibit_1}}\n\n(Choice B) Stimulation of beta-2 adrenergic receptors results in increased insulin secretion; beta-2 receptor blockade would inhibit insulin release.\n\n(Choice C) Glucagon-like peptide-1 (GLP-1) is an incretin hormone secreted by the intestinal L cells in response to food and acts on receptors found on pancreatic beta cells to potentiate glucose-induced insulin release. Blocking GLP-1 receptors reduces insulin release. GLP-1 receptor agonists (eg, exenatide, liraglutide) are commonly used to treat type 2 diabetes mellitus.\n\n(Choice D) Histamine H2 receptor stimulation increases insulin secretion. Blocking these receptors would cause a decrease in insulin release.\n\n(Choice E) Parasympathetic stimulation increases insulin secretion via M3 muscarinic receptors. Blocking these receptors would inhibit the release of insulin.\n\nEducational objective:\nAlpha-2 adrenergic receptors inhibit insulin secretion, and beta-2 adrenergic receptors stimulate insulin secretion. The alpha-2-mediated inhibitory effect is generally predominant, causing sympathetic stimulation to lead to overall inhibition of insulin secretion.",
+    "zh": "胰腺β细胞的胰岛素分泌受血清葡萄糖水平和其他因素（如自主神经系统活动）的影响。副交感神经对毒蕈碱M3受体的刺激促进胰岛素分泌，并由食物的气味和/或视觉诱导。相比之下，交感神经刺激更为复杂，因为α-2和β-2肾上腺素受体都存在于胰腺β细胞上，并产生相反的作用。刺激β-2受体促进胰岛素分泌，而刺激α-2受体抑制胰岛素释放。然而，α-2介导的抑制作用占主导地位，导致交感神经刺激导致胰岛素分泌的总体抑制。同样，肾上腺素的给药激活了α-2和β-2受体，但主要的抑制作用导致胰岛素分泌减少。在使用α-2受体阻滞剂（药物A）预处理后，肾上腺素对β-2受体的影响将占主导地位，导致胰岛素分泌增加。{{exhibit_1}} \n\n(选项 B) 刺激β-2肾上腺素受体导致胰岛素分泌增加；β-2受体阻滞会抑制胰岛素释放。\n\n(选项 C) 胰高血糖素样肽-1 (GLP-1) 是一种肠道 L 细胞响应食物而分泌的肠促胰岛素，作用于胰腺β细胞上的受体，以增强葡萄糖诱导的胰岛素释放。阻断 GLP-1 受体可减少胰岛素释放。GLP-1 受体激动剂（例如，艾塞那肽、利拉鲁肽）常用于治疗 2 型糖尿病。\n\n(选项 D) 组胺 H2 受体刺激增加胰岛素分泌。阻断这些受体将导致胰岛素释放减少。\n\n(选项 E) 副交感神经刺激通过 M3 毒蕈碱受体增加胰岛素分泌。阻断这些受体将抑制胰岛素的释放。\n\n教育目标：\nα-2 肾上腺素受体抑制胰岛素分泌，β-2 肾上腺素受体刺激胰岛素分泌。α-2 介导的抑制作用通常占主导地位，导致交感神经刺激导致胰岛素分泌的总体抑制。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the autonomic nervous system's influence on insulin secretion, specifically the opposing roles of alpha-2 and beta-2 adrenergic receptors on pancreatic beta cells. It also assesses knowledge of how blocking one receptor type can alter the overall effect of epinephrine.\n\nTo solve this question, recall that epinephrine activates both alpha-2 (inhibitory) and beta-2 (stimulatory) receptors on beta cells, but the alpha-2 effect is dominant. Blocking alpha-2 receptors allows the beta-2 stimulatory effect to prevail, leading to increased insulin secretion.",
+    "zh": "这道题考察了对自主神经系统对胰岛素分泌的影响的理解，特别是α-2和β-2肾上腺素受体在胰腺β细胞上的相反作用。它还评估了对阻断一种受体类型如何改变肾上腺素的整体作用的知识。\n\n为了解决这个问题，回忆一下肾上腺素会激活β细胞上的α-2（抑制性）和β-2（刺激性）受体，但α-2的作用占主导地位。阻断α-2受体可以使β-2的刺激作用占优势，从而导致胰岛素分泌增加。"
+  },
+  "tags": "Insulin secretion; Autonomic nervous system; Alpha-2 adrenergic receptors; Beta-2 adrenergic receptors; Epinephrine; Pancreatic beta cells; Endocrinology; Pharmacology",
+  "category": "Endo",
+  "question_id": "1324",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\1324",
+  "extracted_at": "2025-11-05T13:59:38.831743",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:36:55.324248",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

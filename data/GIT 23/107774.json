@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 6-week-old boy is brought to the clinic due to frequent emesis. For the last month, after most feedings, the patient spits up a moderate amount of partially digested breast milk that often also dribbles out his nares. He appears unbothered by the emesis. The patient has been exclusively breastfed since birth and continues to feed well. Weight and height have been tracking at the 70th percentile and head circumference along the 80th percentile. Physical examination shows a well-hydrated infant with no abnormalities. Which of the following is the most likely explanation for this patient's emesis?",
+    "zh": "一名6周大的男孩因频繁呕吐被带到诊所就诊。在过去的1个月里，在大多数喂养后，患者会吐出适量的部分消化的母乳，这些母乳也经常从他的鼻孔流出。他似乎对呕吐没有困扰。自出生以来，患者一直纯母乳喂养，并且继续良好地进食。体重和身高一直在70百分位，头围在80百分位。体格检查显示一名水合良好的婴儿，没有异常。以下哪一项最有可能解释该患者的呕吐？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely explanation for this patient's emesis?",
+    "zh": "以下哪一项最有可能解释该患者的呕吐？"
+  },
+  "options": {
+    "A": {
+      "en": "Abnormal communication between the trachea and the esophagus",
+      "zh": "气管和食管之间的异常沟通"
+    },
+    "B": {
+      "en": "Increased pressure on the area postrema of the medulla",
+      "zh": "延髓的后区压力增加"
+    },
+    "C": {
+      "en": "Non-IgE-mediated allergy to proteins in breast milk",
+      "zh": "对母乳中蛋白质的非IgE介导的过敏"
+    },
+    "D": {
+      "en": "Physiologic low tone of the lower esophageal sphincter",
+      "zh": "食管下括约肌的生理性低张力"
+    },
+    "E": {
+      "en": "Smooth muscle hypertrophy of the gastric outlet",
+      "zh": "胃出口平滑肌肥大"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This infant with frequent nonbilious emesis has normal growth and painless feeding findings consistent with **gastroesophageal reflux** (GER). In infants, GER is a common and normal condition caused by **low physiologic tone** of the lower esophageal sphincter (LES). {{exhibit_1}}\n\nIn contrast to older children and adults, who normally only have brief LES relaxation in response to swallowing, infants have an **immature LES** that relaxes for a longer period and in response to gastric distension. Therefore, breast milk and formula are easily regurgitated into the esophagus and out of the mouth and nose.\n\n(Choice A) Tracheoesophageal fistula is caused by a failed separation of the foregut into the trachea and esophagus. Infants have coughing, choking, or respiratory distress associated with feeding, none of which are seen in this patient.\n\n(Choice B) Increased intracranial pressure (ICP) can cause vomiting due to pressure on the area postrema (vomiting center) of the medulla. Unlike this patient, infants with increased ICP have a bulging fontanelle, an increasing head circumference percentile, and a downward gaze preference.\n\n(Choice C) Food protein-induced allergic proctocolitis, most commonly due to a non-IgE-mediated reaction to cow's milk protein in formula or breast milk, usually presents with grossly bloody stools with or without mucus. Vomiting alone makes this diagnosis unlikely.\n\n(Choice E) Pyloric stenosis is characterized by smooth muscle hypertrophy of the pylorus, leading to gastric outlet obstruction. Patients age 3-6 weeks typically have new-onset, forceful/projectile, postprandial vomiting and often dehydration/weight loss. This patient's duration of symptoms, nonforceful regurgitation, and normal growth are inconsistent with pyloric stenosis.",
+    "zh": "这个有频繁非胆汁性呕吐的婴儿具有正常的生长和无痛喂养表现，这与**胃食管反流** (GER) 一致。在婴儿中，GER 是一种常见且正常的疾病，由食管下括约肌 (LES) 的**生理性低张力**引起。{{exhibit_1}}\n\n与通常只有短暂的 LES 舒张以响应吞咽的年龄较大的儿童和成人相比，婴儿具有**未成熟的 LES**，它会持续更长的时间并响应胃扩张而舒张。因此，母乳和配方奶很容易反流入食管并从口鼻中排出。\n\n(选项 A) 气管食管瘘是由前肠未能分隔成气管和食管引起的。婴儿在喂养时会出现咳嗽、呛咳或呼吸窘迫，但该患者均未出现。\n\n(选项 B) 颅内压 (ICP) 升高会导致呕吐，这是由于对延髓后区（呕吐中枢）的压力所致。与该患者不同的是，颅内压升高的婴儿囟门隆起、头围百分位数增加，并且有向下凝视的偏好。\n\n(选项 C) 食物蛋白引起的过敏性直肠结肠炎，最常见的原因是对配方奶或母乳中牛奶蛋白的非 IgE 介导的反应，通常表现为便血，伴有或不伴有粘液。仅呕吐使该诊断不太可能。\n\n(选项 E) 幽门狭窄的特征是幽门平滑肌肥大，导致胃出口梗阻。年龄在 3-6 周的患者通常有新发、剧烈/喷射性、餐后呕吐，并且常有脱水/体重减轻。该患者的症状持续时间、非剧烈反流和正常生长与幽门狭窄不符。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of gastroesophageal reflux (GER) in infants, a common condition due to the immaturity and low tone of the lower esophageal sphincter (LES). It requires differentiating GER from other causes of vomiting in infants, such as tracheoesophageal fistula, increased intracranial pressure, food protein-induced allergic proctocolitis, and pyloric stenosis.\n\nTo solve this question, consider the patient's age, symptoms (frequent nonbilious emesis), feeding history (breastfed), growth parameters (normal), and physical exam findings (well-hydrated, no abnormalities). Rule out other causes of vomiting based on their typical presentations.",
+    "zh": "这个问题测试了对婴儿胃食管反流 (GER) 的知识，这是一种由于食管下括约肌 (LES) 不成熟和张力低引起的常见病症。它需要将 GER 与婴儿呕吐的其他原因区分开来，例如气管食管瘘、颅内压升高、食物蛋白引起的过敏性直肠结肠炎和幽门狭窄。\n\n要解决这个问题，请考虑患者的年龄、症状（频繁的非胆汁性呕吐）、喂养史（母乳喂养）、生长参数（正常）和体格检查结果（水合良好，无异常）。根据呕吐的其他典型表现，排除其他病因。"
+  },
+  "tags": "Gastroesophageal reflux; Infant; Lower esophageal sphincter; Vomiting; Pyloric stenosis; Tracheoesophageal fistula; Intracranial pressure; Food allergy",
+  "category": "GIT",
+  "question_id": "107774",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\107774",
+  "extracted_at": "2025-11-05T14:21:57.113016",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:49:54.906501",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

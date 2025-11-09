@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 54-year-old man comes to the office due to new-onset muscle cramps. The patient has a history of hypertension and was started on hydrochlorothiazide 4 weeks ago. Blood pressure is 138/86 mm Hg and pulse is 78/min. Examination shows no abnormalities. Based on his most recent laboratory results, triamterene is added to the current therapy.",
+    "zh": "一名54岁男性因新发肌肉痉挛前来就诊。患者有高血压病史，4周前开始服用氢氯噻嗪。血压为138/86 mm Hg，脉搏78次/分钟。体格检查未见异常。根据他最近的实验室检查结果，在目前的治疗方案中加入了氨苯蝶啶。"
+  },
+  "question": {
+    "en": "Which of the following best describes the mechanism of action of this medication?",
+    "zh": "以下哪项最好地描述了该药物的作用机制？"
+  },
+  "options": {
+    "A": {
+      "en": "Blocking renal tubular epithelial sodium channels",
+      "zh": "阻断肾小管上皮钠离子通道"
+    },
+    "B": {
+      "en": "Decreased aldosterone production",
+      "zh": "醛固酮生成减少"
+    },
+    "C": {
+      "en": "Increased intestinal absorption of potassium",
+      "zh": "钾离子在肠道吸收增加"
+    },
+    "D": {
+      "en": "Inhibiting aldosterone receptor activity in renal collecting duct",
+      "zh": "抑制肾集合管中醛固酮受体活性"
+    },
+    "E": {
+      "en": "Inhibiting Na+/K+ ATPase activity in skeletal muscle",
+      "zh": "抑制骨骼肌中Na+/K+ ATP酶活性"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Thiazide diuretics lower blood pressure by inhibiting Na+/Cl- cotransporters in the distal convoluted tubules, thereby decreasing reabsorption of Na+ and Cl-. Both thiazides and loop diuretics induce volume loss with subsequent activation of the renin-angiotensin-aldosterone system. Aldosterone increases renal sodium resorption in exchange for potassium by upregulating the synthesis and activity of the following:\n\n*   Epithelial sodium channels: Found on the apical membrane of principal cells, it absorbs Na+ from the tubular lumen\n*   Na+/K+-ATPase pump: Located on the basal membrane of principal cells, it extrudes Na+ into the interstitial space in exchange for potassium\n\nBecause of these effects, increased aldosterone levels commonly result in hypokalemia, which can lead to muscle cramps, weakness, and (when severe) cardiac arrhythmias.\n\nPotassium-sparing diuretics may be added to prevent hypokalemia. These weak diuretic medications act in the distal nephron, where they reduce potassium excretion via the following mechanisms:\n\n*   Triamterene and amiloride directly inhibit the epithelial sodium channel, preventing sodium from entering principal cells. This reduces the electrochemical gradient (ie, negative luminal charge) that helps drive potassium secretion. {{exhibit_1}}\n*   Aldosterone antagonists (ie, spironolactone, eplerenone) directly inhibit the mineralocorticoid receptor, resulting in decreased formation and activity of epithelial sodium channels and Na+/K+-ATPase pumps (Choice D).\n\n(Choice B) ACE inhibitors (eg, lisinopril) and angiotensin II blockers (eg, losartan) promote potassium retention by inhibiting the effects of angiotensin II, thereby reducing aldosterone production.\n\n(Choice C) Potassium supplements increase total potassium absorption by the gastrointestinal tract. They are another type of medication commonly prescribed to treat hypokalemia in patients on loop or thiazide diuretics.\n\n(Choice E) Digoxin, an antiarrhythmic medication, inhibits the Na+-K+-ATPase in cardiac and skeletal muscles and can also cause hyperkalemia. However, it is never prescribed to prevent hypokalemia.\n\nEducational objective:\n\nPotassium-sparing diuretics are often added to loop or thiazide diuretics to prevent hypokalemia. Amiloride and triamterene directly inhibit the epithelial sodium channel, preventing sodium from entering the principal cell, which reduces the electrochemical gradient (ie, negative luminal charge) that helps drive potassium secretion. {{exhibit_2}}",
+    "zh": "噻嗪类利尿剂通过抑制远曲小管中的Na+/Cl-协同转运体来降低血压，从而减少Na+和Cl-的重吸收。噻嗪类和袢利尿剂均可引起血容量减少，随后激活肾素-血管紧张素-醛固酮系统。醛固酮通过上调以下物质的合成和活性来增加肾脏对钠的重吸收，以交换钾离子：\n\n*   上皮钠离子通道：位于主细胞的顶端膜上，从肾小管腔中吸收Na+\n*   Na+/K+-ATP酶泵：位于主细胞的基底膜上，将Na+排出到间质空间以交换钾离子\n\n由于这些影响，醛固酮水平升高通常会导致低钾血症，这可导致肌肉痉挛、无力，以及（严重时）心律失常。\n\n可添加保钾利尿剂以防止低钾血症。这些弱效利尿剂作用于远端肾单位，通过以下机制减少钾离子排泄：\n\n*   氨苯蝶啶和阿米洛利直接抑制上皮钠离子通道，阻止钠离子进入主细胞。这降低了电化学梯度（即管腔负电荷），从而有助于驱动钾离子的分泌。{{exhibit_1}}\n*   醛固酮拮抗剂（如螺内酯、依普利酮）直接抑制盐皮质激素受体，导致上皮钠离子通道和Na+/K+-ATP酶泵的形成和活性降低（选项D）。\n\n（选项B）ACE抑制剂（如赖诺普利）和血管紧张素II受体阻滞剂（如氯沙坦）通过抑制血管紧张素II的作用来促进钾的潴留，从而减少醛固酮的产生。\n\n（选项C）钾补充剂增加胃肠道对钾的总吸收。它们是另一种常用于治疗服用袢利尿剂或噻嗪类利尿剂的患者低钾血症的药物。\n\n（选项E）地高辛，一种抗心律失常药物，可抑制心肌和骨骼肌中的Na+-K+-ATP酶，也可引起高钾血症。然而，它从不用于预防低钾血症。\n\n教育目标：\n\n保钾利尿剂常添加到袢利尿剂或噻嗪类利尿剂中，以防止低钾血症。阿米洛利和氨苯蝶啶直接抑制上皮钠离子通道，阻止钠离子进入主细胞，从而降低了电化学梯度（即管腔负电荷），从而有助于驱动钾离子的分泌。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of action of triamterene, a potassium-sparing diuretic, and its role in preventing hypokalemia induced by thiazide diuretics. It also requires understanding of the renin-angiotensin-aldosterone system and its effects on electrolyte balance.\n\nThe key to solving this question is recognizing that triamterene is a potassium-sparing diuretic that acts by directly inhibiting epithelial sodium channels in the distal nephron. This action reduces sodium reabsorption and potassium secretion, thereby preventing hypokalemia.",
+    "zh": "此题考察了对保钾利尿剂氨苯蝶啶的作用机制及其在预防噻嗪类利尿剂引起的低钾血症中的作用的了解。它还需要理解肾素-血管紧张素-醛固酮系统及其对电解质平衡的影响。\n\n解决此问题的关键是认识到氨苯蝶啶是一种保钾利尿剂，通过直接抑制远端肾单位中的上皮钠离子通道而发挥作用。这种作用减少了钠的重吸收和钾的排泄，从而预防了低钾血症。"
+  },
+  "tags": "Triamterene; Potassium-sparing diuretics; Hypokalemia; Thiazide diuretics; Mechanism of action; Renal physiology; Electrolyte balance; Hypertension; Pharmacology; Cardiovascular System",
+  "category": "CVS",
+  "question_id": "18860",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\18860",
+  "extracted_at": "2025-11-05T12:04:37.610751",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:25:34.484922",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

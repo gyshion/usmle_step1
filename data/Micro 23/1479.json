@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "Microbiologists are investigating sugar metabolism in wild-type and mutant strains of *Escherichia coli*. Both strains are found to grow viable colonies on lactose-containing media. Each strain is then cultured on a new growth medium containing only glucose. Representative colonies of each strain from the new media undergo Western blot processing using a fluorescently labeled probe specific for β-galactosidase. Wild-type bacterial colonies are found to contain only trace quantities of β-galactosidase. However, the mutant colonies express significant amounts of β-galactosidase. Further analysis reveals that the variant strain contains a mutation that inhibits the binding of a certain protein to its regulatory sequence.",
+    "zh": "微生物学家正在研究大肠杆菌（*Escherichia coli*）野生型和突变株的糖代谢。两种菌株都被发现在含有乳糖的培养基上生长出有活力的菌落。然后将每种菌株在仅含有葡萄糖的新培养基上培养。来自新培养基的每种菌株的代表性菌落使用针对β-半乳糖苷酶的荧光标记探针进行Western blot处理。发现野生型细菌菌落仅含有痕量的β-半乳糖苷酶。然而，突变菌落表达大量的β-半乳糖苷酶。进一步分析表明，该变异株包含一种突变，该突变抑制了特定蛋白与其调节序列的结合。"
+  },
+  "question": {
+    "en": "In which of the following locations did this mutation most likely occur?",
+    "zh": "这种突变最有可能发生在以下哪个位置？"
+  },
+  "options": {
+    "A": {
+      "en": "Activator protein (CAP) binding site",
+      "zh": "激活蛋白（CAP）结合位点"
+    },
+    "B": {
+      "en": "Operator locus",
+      "zh": "操纵基因座"
+    },
+    "C": {
+      "en": "Promoter region",
+      "zh": "启动子区域"
+    },
+    "D": {
+      "en": "Activator protein (CAP) gene",
+      "zh": "激活蛋白（CAP）基因"
+    },
+    "E": {
+      "en": "RNA polymerase cistron",
+      "zh": "RNA聚合酶顺反子"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Mutations impairing the binding of the repressor protein to its binding site at the operator region will prevent repression of the genes of the *lac* operon in the absence of lactose. This results in increased transcription of the genes of the *lac* operon in lactose-deficient media, although the presence of glucose will prevent maximal transcriptional activity.\n\n(Choices A and D) Mutations that impair the binding of cAMP-CAP to its regulatory site upstream from the promoter will decrease transcription of the *lac* operon, as cAMP-CAP is a positive regulator.\n\n(Choices C and E) Mutations impairing the binding of RNA polymerase to the promoter region will also reduce transcription of the *lac* operon.\n\nEducational objective:\nThe *lac* operon is regulated by two distinct mechanisms: negatively by binding of the repressor protein to the operator locus and positively by cAMP-CAP binding upstream from the promoter region. Constitutive expression of the structural genes of the *lac* operon occurs with mutations that impair the binding of the repressor protein (Lac I) to its regulatory sequence in the operator region.",
+    "zh": "在操纵基因座区域，损害阻遏蛋白与其结合位点结合的突变将阻止在不存在乳糖的情况下*lac*操纵子基因的抑制。这导致在缺乏乳糖的培养基中*lac*操纵子基因的转录增加，尽管葡萄糖的存在将阻止最大的转录活性。\n\n（选项A和D）损害cAMP-CAP与其位于启动子上游的调节位点结合的突变将降低*lac*操纵子的转录，因为cAMP-CAP是一种正调节剂。\n\n（选项C和E）损害RNA聚合酶与启动子区域结合的突变也将降低*lac*操纵子的转录。\n\n教育目标：\n*lac*操纵子通过两种不同的机制调节：通过阻遏蛋白与操纵基因座的结合进行负调节，以及通过cAMP-CAP与启动子区域上游的结合进行正调节。*lac*操纵子的结构基因的组成型表达发生在阻遏蛋白（Lac I）与其在操纵基因座区域的调节序列结合受损的突变中。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the lac operon and its regulation, specifically the role of the repressor protein and the operator locus in controlling gene expression in the absence of lactose.\n\nThe key to solving this question is understanding that the mutant strain expresses significant amounts of β-galactosidase even in the absence of lactose. This suggests a problem with the repression mechanism, pointing to a mutation in the operator locus that prevents the repressor protein from binding and inhibiting transcription.",
+    "zh": "这个问题考察了对乳糖操纵子及其调控的知识，特别是阻遏蛋白和操纵基因座在控制不存在乳糖的情况下基因表达中的作用。\n\n解决这个问题的关键是理解突变株即使在没有乳糖的情况下也会表达大量的β-半乳糖苷酶。这表明抑制机制存在问题，指向操纵基因座的突变，该突变阻止阻遏蛋白结合并抑制转录。"
+  },
+  "tags": "Lac operon; Gene regulation; Operator locus; Repressor protein; Escherichia coli; Microbiology; Molecular biology",
+  "category": "Micro",
+  "question_id": "1479",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1479",
+  "extracted_at": "2025-11-05T14:53:42.520669",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:07:23.272059",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

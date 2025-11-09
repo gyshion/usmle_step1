@@ -1,0 +1,51 @@
+{
+  "question_stem": {
+    "en": "A researcher conducts a study to determine the value of measuring kidney volume with computed tomography (CT) to help diagnose chronic kidney disease and quantify kidney damage. In total, 251 patients are enrolled in the study. Correlation analyses are then conducted to evaluate the relationships between kidney volume as measured on CT scans and both glomerular filtration rate and glycosylated hemoglobin (HbA1c). Initial study results show that lower values of HbA1c tended to relate to higher values of kidney volume, and that the relationship was strong and statistically significant. ",
+    "zh": "一名研究人员进行一项研究，旨在确定通过计算机断层扫描 (CT) 测量肾脏体积以帮助诊断慢性肾脏病和量化肾脏损害的价值。共有 251 名患者参与了这项研究。然后进行相关性分析，以评估通过 CT 扫描测量的肾脏体积与肾小球滤过率和糖化血红蛋白 (HbA1c) 之间的关系。初步研究结果表明，较低的 HbA1c 值往往与较高的肾脏体积相关，并且这种关系很强且具有统计学意义。"
+  },
+  "question": {
+    "en": "Based on this information, which of the following statements would best describe the associated correlation coefficient?",
+    "zh": "根据这些信息，以下哪一项陈述最能描述相关的相关系数？"
+  },
+  "options": {
+    "A": {
+      "en": "It is negative and probably closer to –1 than to 0",
+      "zh": "它是负数，并且可能更接近 -1 而不是 0"
+    },
+    "B": {
+      "en": "It is negative and probably closer to 0 than to –1",
+      "zh": "它是负数，并且可能更接近 0 而不是 -1"
+    },
+    "C": {
+      "en": "It is positive and probably closer to 0 than to 1",
+      "zh": "它是正数，并且可能更接近 0 而不是 1"
+    },
+    "D": {
+      "en": "It is positive and probably closer to 1 than to 0",
+      "zh": "它是正数，并且可能更接近 1 而不是 0"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The correlation coefficient *r* describes the linear relationship between 2 quantitative variables by its direction (negative or positive) and its strength (a value closer to -1 or 1 indicates a stronger relationship).\n\n*   *r* > 0 (i.e. positive) indicates a direct relationship, so **both variables increase (or decrease) together.** This means that higher (or lower) values of one variable tend to relate to higher (or lower) values of the other variable.\n*   *r* < 0 (i.e. negative) indicates an inverse relationship, so as **one variable increases, the other variable decreases.** This means that higher values of one variable tend to relate to lower values of the other variable, and vice versa.\n\nIn this study, lower values of HbA1c tended to relate to higher values of kidney volume. This means that one variable increased as the other variable decreased, so the correlation coefficient must be negative (Choices **C** and **D**). Because the relationship was described as **strong**, the correlation coefficient must be closer to –1 than to 0 (Choice **B**).\n\nEducational objective:\nThe correlation coefficient *r* describes the direction (negative or positive) and the strength (a value closer to –1 or 1 indicates a stronger relationship) of the linear relationship between 2 quantitative variables. It does not necessarily imply causality.",
+    "zh": "相关系数 *r* 通过其方向（负数或正数）和强度（值越接近 -1 或 1，表示关系越强）来描述 2 个定量变量之间的线性关系。\n\n*   *r* > 0（即正数）表示正相关关系，因此**两个变量同时增加（或减少）。**这意味着一个变量的较高（或较低）值往往与另一个变量的较高（或较低）值相关。\n*   *r* < 0（即负数）表示负相关关系，因此**当一个变量增加时，另一个变量减少。**这意味着一个变量的较高值往往与另一个变量的较低值相关，反之亦然。\n\n在这项研究中，较低的 HbA1c 值往往与较高的肾脏体积相关。这意味着一个变量增加而另一个变量减少，因此相关系数必须为负数（选项 **C** 和 **D**）。由于这种关系被描述为**很强**，因此相关系数必须更接近 –1 而不是 0（选项 **B**）。\n\n教育目标：\n相关系数 *r* 描述了 2 个定量变量之间线性关系的方向（负数或正数）和强度（值越接近 –1 或 1，表示关系越强）。它不一定意味着因果关系。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of correlation coefficients, specifically how to interpret the direction and strength of a linear relationship between two quantitative variables. It assesses the ability to relate study findings to the properties of the correlation coefficient. \n\nThe key to solving this question is recognizing that a negative correlation means one variable increases as the other decreases. Additionally, a strong relationship implies the correlation coefficient is closer to -1 or 1, depending on the direction of the relationship.",
+    "zh": "本题测试对相关系数的理解，特别是如何解释两个定量变量之间线性关系的方向和强度。它评估将研究结果与相关系数的性质联系起来的能力。\n\n解决这个问题的关键是认识到负相关意味着一个变量增加而另一个变量减少。此外，强关系意味着相关系数更接近 -1 或 1，这取决于关系的方向。"
+  },
+  "tags": "Correlation coefficient; Biostatistics; Epidemiology; Statistical significance; Kidney disease; HbA1c",
+  "category": "Bio",
+  "question_id": "108178",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\108178",
+  "extracted_at": "2025-11-05T10:27:14.351292",
+  "translated_at": "2025-11-07T15:44:12.382966",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man comes to the emergency department due to abdominal pain and diarrhea. Three weeks ago, he drove from Texas to Mexico for a family vacation. Temperature is 38.3 C (101 F), blood pressure is 115/70 mm Hg, and pulse is 98/min. Abdominal examination shows mild, generalized tenderness with no rebound tenderness or guarding. Leukocyte count is 14,000/mm³. Sigmoidoscopy demonstrates white-yellow plaques on the colonic mucosa, and biopsy shows that the plaques are composed of fibrin and inflammatory cells. Further questioning regarding this patient's trip to Mexico is most likely to reveal which of the following events?",
+    "zh": "一名65岁男性因腹痛和腹泻到急诊科就诊。三周前，他从德克萨斯州开车到墨西哥度假。体温38.3°C (101°F)，血压115/70 mmHg，脉搏98次/分。腹部检查显示轻度、弥漫性压痛，无反跳痛或腹肌紧张。白细胞计数为14,000/mm³。乙状结肠镜检查显示结肠黏膜上有白色-黄色的斑块，活检显示这些斑块由纤维蛋白和炎性细胞组成。关于该患者墨西哥之旅的进一步询问最有可能揭示以下哪种情况？"
+  },
+  "question": {
+    "en": "Further questioning regarding this patient's trip to Mexico is most likely to reveal which of the following events?",
+    "zh": "关于该患者墨西哥之旅的进一步询问最有可能揭示以下哪种情况？"
+  },
+  "options": {
+    "A": {
+      "en": "He consumed shellfish from the hotel buffet",
+      "zh": "他吃了酒店自助餐的海鲜"
+    },
+    "B": {
+      "en": "He drank unpurified tap water on several occasions",
+      "zh": "他在几处饮用了未净化的自来水"
+    },
+    "C": {
+      "en": "He had undercooked pork at a resort barbecue",
+      "zh": "他在度假村烧烤时吃了未煮熟的猪肉"
+    },
+    "D": {
+      "en": "He required hospitalization and antibiotics for pneumonia",
+      "zh": "他因肺炎需要住院和使用抗生素"
+    },
+    "E": {
+      "en": "He took home-canned foods to consume during the trip",
+      "zh": "他带了自制罐头食品在旅行期间食用"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has abdominal pain, diarrhea, and leukocytosis. The formation of pseudomembranes (white-yellow plaques composed of fibrin, inflammatory cells, and cellular debris) on the colonic mucosa is highly consistent with pseudomembranous colitis due to CLOSTRIDIOIDES DIFFICILE, a spore-forming bacillus that colonizes up to 50% of hospitalized adults. ANTIBIOTIC therapy (eg, fluoroquinolones for bacterial pneumonia) increases the risk of C difficile infection because it kills intestinal microbes that normally keep potential pathogens in check. C difficile can proliferate in the altered microbiome, leading to overgrowth and clinical disease.\n\nC difficile produces 2 toxins—toxin A (enterotoxin) and toxin B (cytotoxin)—which penetrate colonic epithelial cells and damage cellular cytoskeletons and intercellular tight junctions. This results in widespread inflammation, edema, necrosis, and fibrin deposition. Clinical manifestations range from watery diarrhea and mild abdominal cramping to fulminant colitis with nonobstructive colonic enlargement (megacolon) and intestinal perforation. {{exhibit_1}}\n\n(Choices A and B) Ingestion of undercooked shellfish is associated with Vibrio, Norwalk virus, and hepatitis A infections. Traveler's diarrhea, caused by bacteria (eg, enterotoxigenic Escherichia coli, Campylobacter, Salmonella, Shigella) or parasites (eg, Giardia), is often due to contaminated water consumption. These conditions can manifest as diarrhea and abdominal pain; however, pseudomembranes are virtually pathognomonic for C difficile colitis.\n\n(Choice C) Consumption of undercooked pork is a risk factor for intestinal tapeworm (taeniasis), which occurs after ingestion of Taenia solium. Patients are often asymptomatic but may have nausea or abdominal pain.\n\n(Choice E) Adult botulism occurs after ingestion of preformed toxin in home-canned food. This neurotoxin inhibits acetylcholine release from the nerve terminals at neuromuscular junctions and causes a descending flaccid paralysis.\n\nEducational objective:\nAntibiotics disrupt the normal intestinal flora and can allow for overgrowth of Clostridioides difficile, an anaerobic, gram-positive, spore-forming bacillus. C difficile produces 2 toxins that penetrate colonic epithelial cells leading to watery diarrhea, abdominal cramping, and colitis. The presence of a pseudomembrane (exudate on colonic mucosa consisting of fibrin and inflammatory cells) is highly suggestive of C difficile infection.",
+    "zh": "该患者出现腹痛、腹泻和白细胞增多。结肠黏膜上假膜（由纤维蛋白、炎性细胞和细胞碎片组成的白色-黄色斑块）的形成与艰难梭菌（CLOSTRIDIOIDES DIFFICILE）引起的假膜性结肠炎高度一致，艰难梭菌是一种形成孢子的杆菌，可定植于多达50%的住院成人。抗生素治疗（例如，用于细菌性肺炎的氟喹诺酮类药物）会增加艰难梭菌感染的风险，因为它会杀死通常抑制潜在病原体的肠道微生物。艰难梭菌可以在改变的微生物群中增殖，导致过度生长和临床疾病。\n\n艰难梭菌产生2种毒素—毒素A（肠毒素）和毒素B（细胞毒素）—它们穿透结肠上皮细胞并损害细胞细胞骨架和细胞间紧密连接。这会导致广泛的炎症、水肿、坏死和纤维蛋白沉积。临床表现范围从水样腹泻和轻度腹部痉挛到暴发性结肠炎，伴有非阻塞性结肠扩张（巨结肠）和肠穿孔。{{exhibit_1}}\n\n（选项 A 和 B）食用未煮熟的贝类与弧菌、诺瓦克病毒和甲型肝炎感染有关。旅行者腹泻，由细菌（例如，产肠毒素大肠杆菌、弯曲杆菌、沙门氏菌、志贺氏菌）或寄生虫（例如，贾第鞭毛虫）引起，通常是由于饮用了受污染的水。这些情况可表现为腹泻和腹痛；然而，假膜几乎是艰难梭菌性结肠炎的特征性表现。\n\n（选项 C）食用未煮熟的猪肉是肠道绦虫病（绦虫病）的危险因素，这种病发生在摄入猪带绦虫后。患者通常无症状，但可能出现恶心或腹痛。\n\n（选项 E）成人肉毒中毒发生在食用自制罐头食品中预先形成的毒素后。这种神经毒素抑制神经肌肉接头处神经末梢乙酰胆碱的释放，并导致下行性弛缓性麻痹。\n\n教育目标：\n抗生素会破坏正常的肠道菌群，并可能导致艰难梭菌（一种厌氧、革兰氏阳性、形成孢子的杆菌）过度生长。艰难梭菌产生2种毒素，它们穿透结肠上皮细胞，导致水样腹泻、腹部痉挛和结肠炎。假膜（由纤维蛋白和炎性细胞组成的结肠黏膜渗出物）的存在高度提示艰难梭菌感染。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Clostridioides difficile colitis (C. diff), including risk factors, pathogenesis, clinical presentation, and diagnosis. It requires recognizing the association between antibiotic use, hospitalization, and the development of pseudomembranous colitis. \n\nThe key to solving this question is identifying the clinical features suggestive of C. diff (abdominal pain, diarrhea, leukocytosis, pseudomembranes) and linking them to a history of antibiotic use or hospitalization. Consider the risk factors and typical presentation of C. diff in the differential diagnosis of infectious diarrhea.",
+    "zh": "此题考察对艰难梭菌性结肠炎 (C. diff) 的了解，包括危险因素、发病机制、临床表现和诊断。它需要识别抗生素使用、住院和假膜性结肠炎的发生之间的关联。\n\n解决此题的关键是确定提示 C. diff 的临床特征（腹痛、腹泻、白细胞增多、假膜），并将它们与抗生素使用史或住院史联系起来。在感染性腹泻的鉴别诊断中，应考虑 C. diff 的危险因素和典型表现。"
+  },
+  "tags": "Clostridioides difficile; Pseudomembranous colitis; Antibiotic-associated diarrhea; Infectious diarrhea; Gastroenterology",
+  "category": "GIT",
+  "question_id": "1396",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\1396",
+  "extracted_at": "2025-11-05T14:23:36.295488",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:51:18.665711",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

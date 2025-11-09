@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 2-day-old girl is brought to the office for her initial newborn visit. The patient was born at 39 weeks gestation via a difficult home delivery. Birth weight was 4 kg (8 lb 13 oz). The parents report that the infant has been breastfeeding well but has been only minimally moving her right arm compared to the left. Vital signs are normal. On examination, the right upper extremity is held in adduction and internal rotation with the elbow extended, forearm pronated, and wrist flexed. Moro and biceps reflexes are absent in the right arm; grasp reflex is intact. The remainder of the examination is normal. {{exhibit_1}}",
+    "zh": "一名 2 日大的女婴因其首次新生儿就诊而被带到诊所。患者通过困难的家庭分娩在妊娠 39 周时出生。出生体重为 4 kg (8 磅 13 盎司)。父母报告说，婴儿母乳喂养良好，但与左臂相比，右臂的活动量极小。生命体征正常。体格检查显示，右侧上肢处于内收和内旋状态，肘部伸展，前臂旋前，腕部屈曲。右臂莫罗反射和肱二头肌反射消失；抓握反射完整。其余检查结果正常。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely site of this patient's injury?",
+    "zh": "该患者最有可能的损伤部位是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Cervical spinal cord",
+      "zh": "颈髓"
+    },
+    "B": {
+      "en": "C5 and C6 nerve roots",
+      "zh": "C5 和 C6 神经根"
+    },
+    "C": {
+      "en": "C8 and T1 nerve roots",
+      "zh": "C8 和 T1 神经根"
+    },
+    "D": {
+      "en": "Medial cord",
+      "zh": "内侧束"
+    },
+    "E": {
+      "en": "Posterior cord",
+      "zh": "后束"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient most likely has an injury to the C5 and C6 nerve roots of the brachial plexus, causing Erb-Duchenne palsy. Infants with Erb-Duchenne palsy have weakness of the deltoid and infraspinatus muscles (innervated by C5) and the biceps and wrist extensors (innervated by C6). This leads to predominance of the opposing muscles and results in the affected arm being held in adduction and internal rotation with the forearm pronated and the wrist flexed (i.e. waiter's tip posture). In some patients, the C7 nerve root is also involved, leading to weaker finger extension and fingers held in a flexed position. Patients typically have decreased or absent Moro and biceps reflexes, but the grasp reflex remains intact.\n\nIn this patient, the brachial plexus injury likely occurred during the difficult home delivery. Erb-Duchenne palsy is commonly associated with shoulder dystocia, which occurs when the fetal shoulder becomes impacted behind the pubic symphysis during delivery, possibly resulting in excessive traction on the head and neck and injury to the brachial plexus nerve roots. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\n(Choice A) Hemisection of the cervical spinal cord can cause Brown-Séquard syndrome, which is characterized by ipsilateral hemiparesis at and below the level of the spinal cord injury (along with sensory deficits). In contrast to Erb-Duchenne palsy, Brown-Séquard syndrome would cause upper and lower extremity hemiparesis.\n\n(Choice C) Injury to the C8 and T1 nerve roots results in Klumpke palsy, which is characterized by loss of wrist/metacarpophalangeal joint flexion and interphalangeal joint extension, leading to clawhand posture and absent (vs intact) grasp reflex.\n\n(Choice D) A medial cord injury affects the median and ulnar nerves. In addition to innervating the wrist flexors, the median and ulnar nerves innervate all the intrinsic muscles of the hand. Injury would lead to wrist extension (vs flexion) and an absent (vs intact) grasp reflex.\n\n(Choice E) A posterior cord injury would cause axillary and radial nerve deficits. Although this would lead to arm adduction and internal rotation (loss of axillary-innervated deltoid and teres minor function) and wrist flexion (loss of radial-innervated wrist extension), a posture of elbow flexion (loss of radial-innervated elbow extension) would be expected.\n\nEducational objective:\nInjury to the C5 and C6 nerve roots causes Erb-Duchenne palsy, which is characterized by waiter's tip posture. The affected arm may have decreased or absent Moro and biceps reflexes; grasp reflex remains intact.",
+    "zh": "该患者最有可能患有臂丛神经 C5 和 C6 神经根损伤，导致 Erb-Duchenne 麻痹。患有 Erb-Duchenne 麻痹的婴儿三角肌和冈下肌（由 C5 支配）以及肱二头肌和腕伸肌（由 C6 支配）无力。这导致对抗肌占优势，导致受累手臂内收和内旋，前臂旋前，腕部屈曲（即服务员提示姿势）。在某些患者中，C7 神经根也受累，导致手指伸展无力，手指呈屈曲位。患者通常莫罗反射和肱二头肌反射减弱或消失，但抓握反射保持完整。\n\n在该患者中，臂丛神经损伤可能发生在困难的家庭分娩期间。 Erb-Duchenne 麻痹通常与肩难产有关，肩难产是指胎儿肩部在分娩过程中撞击在耻骨联合后方，可能导致头部和颈部过度牵引以及臂丛神经根损伤。 {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\n(选项 A) 颈髓半切可引起 Brown-Séquard 综合征，其特征是在脊髓损伤水平及以下出现同侧偏瘫（伴有感觉缺失）。与 Erb-Duchenne 麻痹相比，Brown-Séquard 综合征会导致上肢和下肢偏瘫。\n\n(选项 C) C8 和 T1 神经根损伤会导致 Klumpke 麻痹，其特征是腕/掌指关节屈曲和指间关节伸展丧失，导致爪形手姿势和抓握反射消失（对比完整）。\n\n(选项 D) 内侧束损伤会影响正中神经和尺神经。除了支配腕屈肌外，正中神经和尺神经还支配手的所有固有肌。损伤会导致腕伸（对比屈曲）和抓握反射消失（对比完整）。\n\n(选项 E) 后束损伤会导致腋神经和桡神经功能缺失。虽然这会导致手臂内收和内旋（腋神经支配的三角肌和小圆肌功能丧失）和腕屈曲（桡神经支配的腕伸展功能丧失），但预计肘部屈曲（桡神经支配的肘伸展功能丧失）姿势。\n\n教育目标：\nC5 和 C6 神经根损伤会导致 Erb-Duchenne 麻痹，其特征是服务员提示姿势。受累手臂的莫罗反射和肱二头肌反射可能减弱或消失；抓握反射保持完整。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Erb-Duchenne palsy, a brachial plexus injury affecting the C5 and C6 nerve roots, and its characteristic clinical presentation in newborns. It assesses the ability to differentiate this condition from other neurological injuries based on physical exam findings.\n\nTo solve this question, recognize the classic \"waiter's tip\" posture, absent Moro and biceps reflexes, and intact grasp reflex. Correlate these findings with the anatomical distribution of the brachial plexus to identify the most likely site of injury.",
+    "zh": "此题考察对 Erb-Duchenne 麻痹的知识，Erb-Duchenne 麻痹是一种影响 C5 和 C6 神经根的臂丛神经损伤，及其在新生儿中的典型临床表现。它评估了根据体格检查结果将该病与其他神经系统损伤区分开来的能力。\n\n要解决这个问题，要识别经典的“服务员提示”姿势，莫罗反射和肱二头肌反射消失，以及抓握反射完整。将这些发现与臂丛神经的解剖分布相关联，以确定最可能的损伤部位。"
+  },
+  "tags": "Erb-Duchenne palsy; Brachial plexus injury; C5 nerve root; C6 nerve root; Newborn; Shoulder dystocia; Neuromuscular disorders; Pediatric neurology; Waiter's tip posture",
+  "category": "Neuro",
+  "question_id": "20180",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\20180",
+  "extracted_at": "2025-11-05T15:32:15.260902",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:24:31.033249",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

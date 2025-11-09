@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "Rats subjected to chronic inhalation exposure of formaldehyde develop nasal squamous cell carcinomas. Decreased activity of which of the following genes is likely to be found on cytogenetic studies of the tumor cells?",
+    "zh": "长期吸入甲醛的大鼠会发生鼻鳞状细胞癌。 在肿瘤细胞的细胞遗传学研究中，以下哪个基因的活性降低最有可能被发现？"
+  },
+  "question": {
+    "en": "Decreased activity of which of the following genes is likely to be found on cytogenetic studies of the tumor cells?",
+    "zh": "在肿瘤细胞的细胞遗传学研究中，以下哪个基因的活性降低最有可能被发现？"
+  },
+  "options": {
+    "A": {
+      "en": "bcr-abl",
+      "zh": "bcr-abl"
+    },
+    "B": {
+      "en": "Ras",
+      "zh": "Ras"
+    },
+    "C": {
+      "en": "Erb-B2",
+      "zh": "Erb-B2"
+    },
+    "D": {
+      "en": "p53",
+      "zh": "p53"
+    },
+    "E": {
+      "en": "N-myc",
+      "zh": "N-myc"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Decreased activity of a tumor suppressor gene would predispose to neoplasms. Of the choices listed, p53 is the only tumor suppressor gene. In normal individuals, p53 regulates cell proliferation. It acts during phase G1 of the cell cycle to detect abnormalities of the cellular genome. If there is damaged DNA, p53 will prevent the cell from progressing to mitosis, causing the cell to be arrested in the G1 phase. If the DNA can be repaired, the cell will subsequently be allowed to divide, but if the damage is so severe that repair is impossible, the cell will proceed instead to apoptosis. p53 is nicknamed \"the molecular policeman\" because of its important role in guarding the integrity of genetic material.\n(Choice A) The bcr-abl fusion gene is a product of translocation of genetic material from chromosome 9 to chromosome 22 [t(9;22)]. It codes for a protein with tyrosine kinase activity. The bcr-abl translocation is the Philadelphia chromosome found in chronic myelogenous leukemia.\n(Choice B) The ras proto-oncogene codes a protein that participates in signal transduction (MAP-kinase associated pathway). Over-expression of this gene leads to increased sensitivity of cells to mitogenic stimuli. This mutation occurs in a large number of cancers.\n(Choice C) The Erb-B2 gene encodes a protein with tyrosine kinase activity related to the epidermal growth factor receptor. Over-expression of this proto-oncogene is associated with breast and ovarian cancers.\n(Choice E) Expression of the N-myc proto-oncogene is amplified in neuroblastoma.",
+    "zh": "抑癌基因活性的降低会使人易患肿瘤。 在列出的选项中，p53是唯一的抑癌基因。 在正常个体中，p53调节细胞增殖。 它在细胞周期的G1期起作用，检测细胞基因组的异常情况。 如果DNA受损，p53将阻止细胞进入有丝分裂，导致细胞停滞在G1期。 如果DNA可以修复，细胞随后将被允许分裂，但如果损伤严重到无法修复，细胞将转而凋亡。 p53被称为“分子警察”，因为它在保护遗传物质的完整性方面发挥着重要作用。\n(选项 A) bcr-abl融合基因是遗传物质从9号染色体易位到22号染色体的产物 [t(9;22)]。 它编码一种具有酪氨酸激酶活性的蛋白质。 bcr-abl易位是慢性粒细胞白血病中发现的费城染色体。\n(选项 B) ras原癌基因编码一种参与信号转导的蛋白质（MAP激酶相关通路）。 该基因的过度表达导致细胞对有丝分裂刺激的敏感性增加。 这种突变发生在大量癌症中。\n(选项 C) Erb-B2基因编码一种与表皮生长因子受体相关的具有酪氨酸激酶活性的蛋白质。 这种原癌基因的过度表达与乳腺癌和卵巢癌有关。\n(选项 E) N-myc原癌基因的表达在神经母细胞瘤中被扩增。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of tumor suppressor genes and oncogenes, and their roles in the development of cancer. Specifically, it assesses the ability to identify which gene, when its activity is decreased, would lead to neoplasm formation, and to recognize the function of p53 as a critical tumor suppressor.\nTo solve this question, one must differentiate between oncogenes (which promote cell growth when activated) and tumor suppressor genes (which inhibit cell growth and promote apoptosis when functional). Decreased activity of a tumor suppressor gene leads to uncontrolled cell proliferation and cancer. Therefore, the correct answer is the gene that functions as a tumor suppressor.",
+    "zh": "这个问题考察了对抑癌基因和癌基因的理解，以及它们在癌症发展中的作用。 具体来说，它评估了识别哪个基因（当其活性降低时）会导致肿瘤形成的能力，并认识到p53作为关键抑癌基因的功能。\n要解决这个问题，必须区分癌基因（在被激活时促进细胞生长）和抑癌基因（抑制细胞生长并在功能时促进细胞凋亡）。 抑癌基因活性的降低会导致细胞不受控制的增殖和癌症。 因此，正确的答案是作为抑癌基因发挥作用的基因。"
+  },
+  "tags": "Tumor suppressor genes; Oncogenes; p53; Formaldehyde; Nasal squamous cell carcinoma; Carcinogenesis; Cell cycle regulation; Apoptosis; Cytogenetics",
+  "category": "Pathology",
+  "question_id": "313",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\313",
+  "extracted_at": "2025-11-05T19:44:32.656694",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:46:16.016984",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

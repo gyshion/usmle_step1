@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 4-day-old newborn is brought to the office for a 2-day history of progressive jaundice. He was born at term following an uncomplicated vaginal delivery. The patient has been breastfed since birth. Vital signs are normal. Examination shows scleral icterus and jaundice from the face to the upper abdomen. Laboratory results are as follows: {{exhibit_1}}",
+    "zh": "一名 4 天大的新生儿因 2 天来进行性黄疸就诊。该新生儿足月出生，经阴道顺产，过程无并发症。患者出生后一直母乳喂养。生命体征正常。体格检查显示巩膜黄染，黄疸从面部蔓延至上腹部。实验室检查结果如下：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely explanation for these findings?",
+    "zh": "以下哪项最能解释这些发现？"
+  },
+  "options": {
+    "A": {
+      "en": "CD8+ T-lymphocyte–mediated hepatocellular injury",
+      "zh": "CD8+ T 淋巴细胞介导的肝细胞损伤"
+    },
+    "B": {
+      "en": "Decreased beta-glucuronidase activity",
+      "zh": "β-葡萄糖醛酸苷酶活性降低"
+    },
+    "C": {
+      "en": "Deficiency of erythrocyte glucose-6-phosphate dehydrogenase",
+      "zh": "红细胞葡萄糖-6-磷酸脱氢酶缺乏"
+    },
+    "D": {
+      "en": "Decreased UDP glucuronosyltransferase activity",
+      "zh": "UDP 葡萄糖醛酸转移酶活性降低"
+    },
+    "E": {
+      "en": "Fibrous obliteration of the extrahepatic biliary tree",
+      "zh": "肝外胆道纤维闭塞"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This neonate most likely has benign neonatal hyperbilirubinemia, a physiologic condition characterized by an elevated indirect bilirubin level that peaks at age 2-5 days. {{exhibit_2}}\n\nThe pathophysiology of benign neonatal hyperbilirubinemia includes the following:\n\n•\tBilirubin production: Fetal red blood cells (RBCs) are increased in number and have a shorter life span compared to RBCs in children and adults. Physiologic breakdown of these RBCs causes excess production of indirect bilirubin.\n•\tBilirubin clearance: Physiologically decreased levels of hepatic uridine diphosphogluconate (UDP) glucuronosyltransferase in newborns results in decreased bilirubin conjugation and excretion into the bile.\n•\tEnterohepatic circulation: Normally, bilirubin in the intestines is reduced by bacterial enzymes to allow for excretion through urine and stool. In the newborn, lack of bacterial enzymes due to relative gut sterility results in an increased bilirubin concentration remaining in the intestines. This excess bilirubin is deconjugated by intestinal beta-glucuronidase and then reabsorbed via the enterohepatic circulation (Choice B).\n\nBenign neonatal hyperbilirubinemia is typically asymptomatic except for scleral icterus and jaundice. The resolution of benign neonatal hyperbilirubinemia is expected by age 1-2 weeks as UDP glucuronosyltransferase activity and gut bacteria increase, allowing increased bilirubin clearance and excretion.\n\n(Choice A) Viral hepatitis (eg, hepatitis B or C) results in CD8+ T-lymphocyte–mediated hepatocellular injury and jaundice. However, vertical transmission of hepatitis viruses does not cause symptoms in the neonatal period. Moreover, once the patient is symptomatic, transaminases would be elevated.\n\n(Choice C) Glucose-6-phosphate dehydrogenase deficiency can present with jaundice and indirect hyperbilirubinemia in the early neonatal period. However, because hemolysis contributes to the pathophysiology of jaundice in this condition, the hematocrit would be decreased and the reticulocyte count would be elevated.\n\n(Choice E) Biliary atresia is characterized by fibrous obliteration of the extrahepatic biliary tree and typically presents with jaundice in the first 2 months of life. However, direct bilirubin is elevated due to biliary tract obstruction. In addition, patients often have acholic stools and dark urine.\n\nEducational objective: Benign neonatal hyperbilirubinemia presents with jaundice and elevated indirect bilirubin levels that peak at age 2-5 days. Pathophysiology includes impaired bilirubin clearance by the liver due to decreased hepatic UDP glucuronosyltransferase, an enzyme responsible for bilirubin conjugation. {{exhibit_3}} {{exhibit_4}}",
+    "zh": "该新生儿很可能患有良性新生儿高胆红素血症，这是一种生理性疾病，其特征是间接胆红素水平升高，并在 2-5 天达到峰值。 {{exhibit_2}}\n\n良性新生儿高胆红素血症的病理生理学包括以下几点：\n\n•\t胆红素产生：胎儿红细胞（RBCs）数量增加，寿命比儿童和成人红细胞短。这些红细胞的生理性分解导致间接胆红素过量产生。\n•\t胆红素清除：新生儿肝脏尿苷二磷酸葡萄糖醛酸转移酶 (UDP) 水平生理性降低导致胆红素结合和排泄到胆汁中减少。\n•\t肝肠循环：通常，肠道中的胆红素被细菌酶还原，从而可以通过尿液和粪便排出体外。在新生儿中，由于肠道相对无菌，缺乏细菌酶会导致肠道内残留的胆红素浓度升高。这种过量的胆红素被肠道 β-葡萄糖醛酸苷酶去结合，然后通过肝肠循环重新吸收（选项 B）。\n\n良性新生儿高胆红素血症通常无症状，除了巩膜黄染和黄疸。预计良性新生儿高胆红素血症将在 1-2 周内消退，因为 UDP 葡萄糖醛酸转移酶活性和肠道细菌增加，从而可以增加胆红素的清除和排泄。\n\n（选项 A）病毒性肝炎（例如，乙型或丙型肝炎）会导致 CD8+ T 淋巴细胞介导的肝细胞损伤和黄疸。然而，肝炎病毒的垂直传播不会导致新生儿期的症状。此外，一旦患者出现症状，转氨酶就会升高。\n\n（选项 C）葡萄糖-6-磷酸脱氢酶缺乏症可在新生儿早期表现为黄疸和间接高胆红素血症。但是，由于溶血有助于该病黄疸的病理生理学，血细胞比容会降低，网织红细胞计数会升高。\n\n（选项 E）胆道闭锁的特征是肝外胆道纤维闭塞，通常在出生后 2 个月内出现黄疸。然而，由于胆道梗阻，直接胆红素升高。此外，患者经常出现陶土样便和深色尿液。\n\n教育目标：良性新生儿高胆红素血症表现为黄疸和间接胆红素水平升高，在 2-5 天达到峰值。病理生理学包括由于肝脏 UDP 葡萄糖醛酸转移酶（一种负责胆红素结合的酶）减少而导致肝脏清除胆红素受损。{{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the etiology and pathophysiology of neonatal jaundice, specifically benign neonatal hyperbilirubinemia. It requires understanding of bilirubin metabolism and the role of UDP glucuronosyltransferase.\n\nThe best approach is to analyze the lab values (elevated total bilirubin with normal direct bilirubin) and the patient's age. This points towards unconjugated hyperbilirubinemia, which is commonly caused by decreased UDP glucuronosyltransferase activity in newborns.",
+    "zh": "这道题考察对新生儿黄疸的病因和病理生理学的了解，特别是良性新生儿高胆红素血症。它需要理解胆红素代谢和 UDP 葡萄糖醛酸转移酶的作用。\n\n最好的方法是分析实验室值（总胆红素升高，直接胆红素正常）和患者的年龄。这指向非结合性高胆红素血症，这通常是由新生儿 UDP 葡萄糖醛酸转移酶活性降低引起的。"
+  },
+  "tags": "Neonatal jaundice; Hyperbilirubinemia; UDP glucuronosyltransferase; Bilirubin metabolism; Benign neonatal hyperbilirubinemia; Pediatrics; Liver function; Indirect bilirubin",
+  "category": "GIT",
+  "question_id": "21085",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\21085",
+  "extracted_at": "2025-11-05T14:31:18.908009",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:55:05.227267",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

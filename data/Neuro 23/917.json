@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 26-year-old woman is brought to the emergency department due to acute-onset diplopia. Medical history is significant for episodes of blurry vision involving her right eye that occurred 6 months and 2 years ago. These episodes were associated with deficits in color vision and pain made worse with eye movement. The patient recovered the majority of her visual acuity after a few months in both cases. On neurologic examination, she has a visual acuity of 20/20 OS and 20/40 CD, mild right optic disk atrophy, and a relative afferent pupillary defect in the right eye. There is slowed and impaired adduction of the left eye with right lateral gaze. Convergence testing shows normal adduction in both eyes. The remainder of the neurologic examination is unremarkable. This patient's diplopia is most likely caused by which of the following mechanisms? {{exhibit_1}}",
+    "zh": "一名26岁的女性因突发性复视被送往急诊科。病史显示，6个月和2年前曾出现过右眼视物模糊的病症。这些病症伴有色觉障碍和眼球运动加剧的疼痛。患者在两种情况下都于几个月后恢复了大部分视力。神经系统检查显示，她的左眼视力为20/20 OS，右眼为20/40 CD，轻度右侧视盘萎缩，以及右眼相对传入性瞳孔缺陷。左眼内收运动减慢且受损，伴右侧外展注视。会聚试验显示双眼内收正常。其余神经系统检查无特殊发现。该患者的复视最可能由以下哪种机制引起？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "This patient's diplopia is most likely caused by which of the following mechanisms?",
+    "zh": "该患者的复视最可能由以下哪种机制引起？"
+  },
+  "options": {
+    "A": {
+      "en": "Impaired neuromuscular transmission",
+      "zh": "神经肌肉传递受损"
+    },
+    "B": {
+      "en": "Loss of axons",
+      "zh": "轴突丢失"
+    },
+    "C": {
+      "en": "Muscle fiber inflammation and necrosis",
+      "zh": "肌纤维炎症和坏死"
+    },
+    "D": {
+      "en": "Nerve compression",
+      "zh": "神经压迫"
+    },
+    "E": {
+      "en": "Reduced saltatory conduction",
+      "zh": "跳跃式传导减慢"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's presentation of acute-onset diplopia, recurrent episodes of blurry vision with pain and color deficits, and findings suggestive of demyelination (mild optic disk atrophy, relative afferent pupillary defect) are highly concerning for multiple sclerosis (MS). The internuclear ophthalmoplegia (impaired adduction of the left eye with right lateral gaze) is a classic sign of MS, indicating a lesion in the medial longitudinal fasciculus. MS is an autoimmune disease that targets oligodendrocytes, leading to demyelination of the central nervous system. Demyelination disrupts saltatory conduction, the process by which action potentials jump between the nodes of Ranvier in myelinated axons. This disruption can lead to conduction blocks and neurological deficits. {{exhibit_2}}",
+    "zh": "该患者的急性发作性复视、伴有疼痛和色觉缺陷的复发性视物模糊病症以及提示脱髓鞘的发现（轻度视盘萎缩、相对传入性瞳孔缺陷）高度提示多发性硬化症 (MS)。核间性眼肌麻痹（左眼内收受损，伴右侧外展凝视）是 MS 的典型体征，表明内侧纵束有病变。MS 是一种自身免疫性疾病，靶向少突胶质细胞，导致中枢神经系统脱髓鞘。脱髓鞘会破坏跳跃式传导，即动作电位在有髓鞘轴突的朗飞氏结之间跳跃的过程。这种破坏会导致传导阻滞和神经功能缺损。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "The patient's symptoms and neurological findings are consistent with multiple sclerosis, an autoimmune disease causing demyelination. This demyelination impairs saltatory conduction in myelinated axons, leading to neurological deficits like internuclear ophthalmoplegia and diplopia.",
+    "zh": "患者的症状和神经系统发现与多发性硬化症（一种引起脱髓鞘的自身免疫性疾病）一致。这种脱髓鞘损害有髓轴突的跳跃式传导，导致神经功能缺损，如核间性眼肌麻痹和复视。"
+  },
+  "tags": [
+    "neurology",
+    "multiple sclerosis",
+    "demyelination",
+    "saltatory conduction",
+    "diplopia",
+    "internuclear ophthalmoplegia"
+  ],
+  "category": "Neuro",
+  "question_id": "917",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\917",
+  "extracted_at": "2025-11-05T19:30:59.421933",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:29:47.368538",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

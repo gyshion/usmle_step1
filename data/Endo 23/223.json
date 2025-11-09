@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 43-year-old woman comes to the office to discuss amenorrhea. She began having irregular menses 2 years ago, and her last menstrual period was 9 months ago. Family history is unremarkable. Laboratory studies show an increased serum prolactin level, a normal TSH level, and an undetectable β-hCG concentration. Serum calcium is normal. MRI reveals a 6-mm pituitary adenoma. The patient refuses medical and surgical therapy as she is happy about not having menstrual periods. If left untreated, this patient is at greatest risk of developing which of the following? {{exhibit_1}}",
+    "zh": "一名43岁的女性前来就诊，讨论闭经问题。她于2年前开始月经不规律，上次月经是9个月前。家族史无特殊。实验室检查显示血清催乳素水平升高，TSH水平正常，β-hCG浓度无法检测到。血清钙正常。MRI显示一个6mm的垂体腺瘤。患者拒绝内科和外科治疗，因为她对没有月经感到满意。如果未治疗，该患者最有可能发展以下哪种情况？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "If left untreated, this patient is at greatest risk of developing which of the following?",
+    "zh": "如果未治疗，该患者最有可能发展以下哪种情况？"
+  },
+  "options": {
+    "A": {
+      "en": "Cortical stroke",
+      "zh": "皮质卒中"
+    },
+    "B": {
+      "en": "Gastric ulcer",
+      "zh": "胃溃疡"
+    },
+    "C": {
+      "en": "Loss of bone mass",
+      "zh": "骨质流失"
+    },
+    "D": {
+      "en": "Myocardial infarction",
+      "zh": "心肌梗死"
+    },
+    "E": {
+      "en": "Secondary diabetes mellitus",
+      "zh": "继发性糖尿病"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient's small pituitary adenoma with an elevated prolactin level and secondary amenorrhea is consistent with a prolactin-secreting adenoma (prolactinoma). High levels of prolactin suppress GnRH secretion from the hypothalamus, leading to reduced secretion of LH (and to a lesser extent FSH) and subsequent hypogonadism. Nonsecretory (\"nonfunctioning\") adenomas can also cause mild hyperprolactinemia due to pressure on the stalk, but these tumors primarily cause mass-effect symptoms (eg, hypopituitarism, headache, bitemporal hemianopsia) due to pressure on surrounding structures.\n\nEstrogen maintains bone mass in premenopausal women. Low estrogen levels lead to increased production of inflammatory cytokines (especially IL-1 and tumor necrosis factor-alpha), increasing expression of the receptor activator of nuclear factor kappa B ligand (RANKL) and resulting in increased osteoclast activity. Loss of estrogen, whether from menopause, ovulatory dysfunction, or surgical removal of the ovaries, increases the risk of bone loss and OSTEOPOROSIS.\n\n(Choice A) Adenomas are associated with pituitary apoplexy (hemorrhage into the pituitary). However, this occurs more commonly with large adenomas and is not typically associated with strokes located in the cortex.\n\n(Choice B) Multiple endocrine neoplasia (MEN) type 1 is characterized by pituitary adenomas, hyperparathyroidism, and endocrine tumors of the pancreas. Gastrin-secreting pancreatic tumors are common and may lead to recurrent peptic ulcers (Zollinger-Ellison syndrome). However, almost all patients with MEN type 1 have hyperparathyroidism with hypercalcemia.\n\n(Choice D) Early menopause (age <40) is associated with an increased risk of cardiovascular events, but the effect of the prolactinoma-induced low estrogenic state on cardiovascular risk in older women is unclear.\n\n(Choice E) Excess growth hormone secretion from a somatotroph pituitary adenoma can lead to diabetes mellitus due to increased insulin resistance in peripheral tissues. However, adults typically present with acromegaly.\n\nEducational objective:\nHyperprolactinemia suppresses secretion of GnRH, which leads to reduced estrogen in women. Low estrogen levels are a risk factor for accelerated bone loss.",
+    "zh": "该患者的小型垂体腺瘤伴有催乳素水平升高和继发性闭经，与催乳素分泌腺瘤（泌乳素瘤）一致。高水平的催乳素抑制下丘脑释放促性腺激素释放激素（GnRH），导致促黄体生成素（LH，以及较小程度的促卵泡刺激素，FSH）分泌减少，继而引起性腺功能减退。非分泌型（“无功能”）腺瘤也可能因压迫垂体柄而引起轻度高催乳素血症，但这些肿瘤主要引起占位效应症状（如垂体功能减退、头痛、双颞侧偏盲），这是由于对周围结构的压迫。\n\n雌激素维持绝经前妇女的骨量。低雌激素水平导致炎症细胞因子（尤其是IL-1和肿瘤坏死因子-α）产生增加，增加核因子κB配体受体激活剂（RANKL）的表达，导致破骨细胞活性增加。雌激素的缺失，无论是来自绝经、排卵功能障碍还是卵巢的切除，都会增加骨质流失和骨质疏松症的风险。\n\n（选项A）腺瘤与垂体卒中（垂体出血）有关。然而，这种情况更常见于大型腺瘤，并且通常与位于皮质的卒中无关。\n\n（选项B）多发性内分泌肿瘤（MEN）1型以垂体腺瘤、甲状旁腺功能亢进和胰腺内分泌肿瘤为特征。胃泌素分泌胰腺肿瘤很常见，可能导致复发性消化性溃疡（Zollinger-Ellison综合征）。然而，几乎所有MEN 1型患者都患有甲状旁腺功能亢进伴高钙血症。\n\n（选项D）早期绝经（年龄<40岁）与心血管事件的风险增加有关，但泌乳素瘤引起的低雌激素状态对老年妇女心血管风险的影响尚不清楚。\n\n（选项E）生长激素从生长激素细胞垂体腺瘤分泌过多会导致糖尿病，这是由于外周组织胰岛素抵抗增加。然而，成年人通常表现为肢端肥大症。\n\n教育目标：\n高催乳素血症抑制GnRH的分泌，导致女性雌激素降低。低雌激素水平是加速骨质流失的危险因素。"
+  },
+  "summary": {
+    "en": "This question tests the complications of untreated prolactinoma, specifically the effect of chronic estrogen deficiency on bone density. It requires understanding the hormonal pathways involved and the role of estrogen in maintaining bone mass.\n\nTo solve this question, recognize the patient's symptoms and lab findings as indicative of prolactinoma. Understand that prolactin inhibits GnRH, leading to decreased estrogen. Recall that estrogen is crucial for bone health, and its deficiency leads to increased risk of osteoporosis.",
+    "zh": "本题考察未经治疗的泌乳素瘤的并发症，特别是慢性雌激素缺乏对骨密度的影响。它需要了解所涉及的激素通路以及雌激素在维持骨量中的作用。\n\n要解决这个问题，需要识别患者的症状和实验室检查结果，这些都表明患有泌乳素瘤。了解催乳素抑制GnRH，从而导致雌激素减少。回想一下，雌激素对骨骼健康至关重要，其缺乏会导致骨质疏松症的风险增加。"
+  },
+  "tags": "Prolactinoma; Amenorrhea; Osteoporosis; Estrogen deficiency; Pituitary adenoma; Endocrinology; Bone metabolism",
+  "category": "Endo",
+  "question_id": "223",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\223",
+  "extracted_at": "2025-11-05T14:07:26.127198",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:41:24.198604",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

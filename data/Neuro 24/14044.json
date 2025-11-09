@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 52-year-old man comes to the office for a follow-up appointment. Four years ago, the patient experienced a small intracerebral hemorrhage due to uncontrolled hypertension; he had multiple seizures after the stroke, and treatment with phenytoin was initiated. The seizures are well controlled with the medication, but attempts at tapering therapy have led to recurrent seizures. The patient has mild residual weakness of the left side but can perform daily activities without difficulty. He is adherent with antiepileptic and antihypertensive treatments. Vital signs are within normal limits and physical examination is unremarkable except mild left hemiparesis. Laboratory studies reveal a decreased serum level of 25-hydroxyvitamin D. Which of the following effects of the antiseizure medication on vitamin D metabolism best explains this patient's laboratory findings?",
+    "zh": "一名52岁的男性前来就诊复诊。四年前，该患者因高血压失控而出现小脑出血；中风后出现多次癫痫发作，并开始使用苯妥英钠治疗。癫痫发作已得到药物的良好控制，但尝试减少治疗剂量导致癫痫复发。患者左侧有轻微的残余无力，但可以毫无困难地进行日常活动。他依从抗癫痫和降压治疗。生命体征在正常范围内，体格检查无特殊发现，除了轻微的左侧轻偏瘫。实验室检查显示25-羟基维生素D的血清水平降低。以下哪种抗癫痫药物对维生素D代谢的影响最能解释该患者的实验室检查结果？"
+  },
+  "question": {
+    "en": "Which of the following effects of the antiseizure medication on vitamin D metabolism best explains this patient's laboratory findings?",
+    "zh": "以下哪种抗癫痫药物对维生素D代谢的影响最能解释该患者的实验室检查结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased production of plasma-binding proteins",
+      "zh": "血浆结合蛋白产生减少"
+    },
+    "B": {
+      "en": "Decreased ultraviolet B-induced epidermal synthesis",
+      "zh": "紫外线B诱导的表皮合成减少"
+    },
+    "C": {
+      "en": "Formation of nonabsorbable complexes in the intestinal lumen",
+      "zh": "在肠腔内形成不可吸收的复合物"
+    },
+    "D": {
+      "en": "Increased catabolism by hepatic microsomal enzymes",
+      "zh": "肝微粒体酶分解代谢增加"
+    },
+    "E": {
+      "en": "Inhibition of activating enzymes in the renal tubular cells",
+      "zh": "抑制肾小管细胞中的活化酶"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The correct answer is D. Several antiepileptic medications, including phenytoin, carbamazepine, and phenobarbital, are strong inducers of cytochrome P-450 (CYP) enzymes. This effect is responsible for notable drug interactions due to increased clearance of certain pharmaceutical agents (eg, warfarin). In addition, these medications, especially phenytoin, induce CYP24 (ie, 25-hydroxyvitamin D-24-hydroxylase), which converts 25-hydroxyvitamin D to 24,25-dihydroxyvitamin D (inactive form). As a result, there is less 25-hydroxyvitamin D available for conversion to 1,25-dihydroxyvitamin D (active form). Deficiency of 1,25-dihydroxyvitamin D leads to decreased intestinal absorption of calcium. The resulting compensatory increase in parathyroid hormone secretion causes increased release of calcium from bones and progressive loss of bone mineral density.\n\n(Choice A) Vitamin D-binding protein (VDBP) carries a large share of circulating vitamin D metabolites. Patients with low levels of VDBP due to decreased synthesis (eg, hepatic dysfunction) or excessive renal losses (eg, nephrotic syndrome) have low measured levels of 25-hydroxyvitamin D. However, phenytoin does not affect VDBP synthesis.\n\n(Choice B) Melanin absorbs ultraviolet B light, which is required for vitamin D synthesis in the epidermis. Melanin pigmentation can affect epidermal vitamin D production, but phenytoin does not impact epidermal vitamin D synthesis.\n\n(Choice C) Some medications (eg, antacids) can form nonabsorbable complexes with micronutrients and other medications in the intestinal lumen, leading to decreased absorption. However, decreased absorption of vitamin D typically occurs due to fat malabsorption (eg, intestinal or biliopancreatic disease) rather than formation of insoluble complexes.\n\n(Choice E) 25-hydroxyvitamin D is converted to active 1,25-dihydroxyvitamin D by 1-alpha hydroxylase in renal tubular cells. This enzyme is inhibited by fibroblast growth factor-23, which also increases activity of 24-hydroxylase (inactivating enzyme). Phenytoin does not affect 1-alpha hydroxylase activity.\n\nEducational objective: Phenytoin and other antiepileptic medications are inducers of cytochrome P-450 (CYP) enzymes, including CYP24, which converts 25-hydroxyvitamin D to 24,25-dihydroxyvitamin D (inactive form). As a result, there is less 25-hydroxyvitamin D available for conversion to 1,25-dihydroxyvitamin D (active form), leading to deficiency.",
+    "zh": "正确答案是D。几种抗癫痫药物，包括苯妥英钠、卡马西平和苯巴比妥，是细胞色素P-450（CYP）酶的强诱导剂。这种作用是导致显著的药物相互作用的原因，这是由于某些药物（例如，华法林）的清除率增加。此外，这些药物，特别是苯妥英钠，会诱导CYP24（即，25-羟基维生素D-24-羟化酶），将25-羟基维生素D转化为24,25-二羟基维生素D（非活性形式）。因此，可用于转化为1,25-二羟基维生素D（活性形式）的25-羟基维生素D减少。1,25-二羟基维生素D缺乏导致肠道对钙的吸收减少。由此引起的代偿性甲状旁腺激素分泌增加导致钙从骨骼中释放增加，并逐渐导致骨矿物质密度下降。\n\n(选项A) 维生素D结合蛋白（VDBP）携带大部分循环的维生素D代谢物。由于合成减少（例如，肝功能障碍）或肾脏过度流失（例如，肾病综合征），VDBP水平低的患者的25-羟基维生素D测量水平较低。然而，苯妥英钠不会影响VDBP的合成。\n\n(选项B) 黑色素吸收紫外线B光，这是表皮中维生素D合成所必需的。黑色素色素沉着会影响表皮维生素D的产生，但苯妥英钠不会影响表皮维生素D的合成。\n\n(选项C) 一些药物（例如，抗酸剂）可以在肠腔内与微量营养素和其他药物形成不可吸收的复合物，导致吸收减少。然而，维生素D吸收减少通常是由于脂肪吸收不良（例如，肠道或胆胰疾病），而不是形成不溶性复合物。\n\n(选项E) 25-羟基维生素D通过肾小管细胞中的1-α羟化酶转化为活性1,25-二羟基维生素D。这种酶被成纤维细胞生长因子-23抑制，成纤维细胞生长因子-23也会增加24-羟化酶（失活酶）的活性。苯妥英钠不影响1-α羟化酶的活性。\n\n教育目标：苯妥英钠和其他抗癫痫药物是细胞色素P-450（CYP）酶（包括CYP24）的诱导剂，CYP24将25-羟基维生素D转化为24,25-二羟基维生素D（非活性形式）。因此，可用于转化为1,25-二羟基维生素D（活性形式）的25-羟基维生素D减少，导致缺乏。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of how antiepileptic medications, specifically phenytoin, affect vitamin D metabolism. It requires knowledge of the enzymes involved in vitamin D activation and inactivation, and how drug-induced enzyme induction can lead to vitamin D deficiency and subsequent bone mineral density loss.\n\nTo solve this question, identify the antiepileptic medication mentioned (phenytoin) and recall its known effects on hepatic microsomal enzymes, particularly those involved in vitamin D metabolism. Evaluate each option based on the known mechanisms of phenytoin and vitamin D metabolism to determine which best explains the observed low serum level of 25-hydroxyvitamin D.",
+    "zh": "这个问题测试对癫痫药物（特别是苯妥英钠）如何影响维生素D代谢的理解。它需要了解参与维生素D活化和失活的酶，以及药物诱导的酶诱导如何导致维生素D缺乏和随后的骨矿物质密度降低。\n\n要解决这个问题，请确定提到的抗癫痫药物（苯妥英钠），并回忆其对肝微粒体酶的已知影响，特别是那些参与维生素D代谢的酶。根据苯妥英钠和维生素D代谢的已知机制评估每个选项，以确定哪个选项最能解释观察到的25-羟基维生素D血清水平低。"
+  },
+  "tags": "Phenytoin; Vitamin D metabolism; Cytochrome P-450 enzymes; CYP24; 25-hydroxyvitamin D; 1,25-dihydroxyvitamin D; Bone mineral density; Antiepileptic medications; Drug interactions",
+  "category": "Neuro",
+  "question_id": "14044",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\14044",
+  "extracted_at": "2025-11-05T19:33:52.631220",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:33:44.656349",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

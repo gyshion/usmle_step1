@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 19-year-old man comes to the physician due to diarrhea for the last 4 months. He visited a student health clinic at his university a month ago and was prescribed a course of antibiotics, but his diarrhea failed to improve. He also has persistent nausea, a bloating sensation, and a 6.8-kg (15-lb) weight loss. Microscopic examination of his stool for ova and parasites following trichrome staining is shown in the exhibit t.",
+    "zh": "一名19岁男性因腹泻4个月就诊。一个月前，他在大学的学生健康诊所就诊，被开了抗生素，但腹泻没有改善。他还有持续的恶心、腹胀感和6.8公斤（15磅）的体重减轻。在三色染色后，对粪便进行虫卵和寄生虫的显微镜检查，结果见展品t。"
+  },
+  "question": {
+    "en": "Impairment of which of the following immune functions would most likely predispose to this patient's infection?",
+    "zh": "以下哪种免疫功能的损害最有可能使该患者易于感染？"
+  },
+  "options": {
+    "A": {
+      "en": "Bacterial killing by neutrophils",
+      "zh": "中性粒细胞对细菌的杀灭"
+    },
+    "B": {
+      "en": "CD8+ T lymphocyte-mediated cytotoxicity",
+      "zh": "CD8+ T淋巴细胞介导的细胞毒性"
+    },
+    "C": {
+      "en": "Eosinophil-mediated cytotoxicity",
+      "zh": "嗜酸性粒细胞介导的细胞毒性"
+    },
+    "D": {
+      "en": "Membrane attack complex formation",
+      "zh": "膜攻击复合物形成"
+    },
+    "E": {
+      "en": "Secretory IgA production",
+      "zh": "分泌型IgA产生"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Immune defense against *Giardia* involves CD4+ T helper cell induction of SECRETORY IgA production. Secretory IgA helps prevent and clear infection by binding to trophozoites and impairing their adherence to the upper small-bowel mucosa. Children with IgA deficiency, X-linked agammaglobulinemia, and common variable immune deficiency have a predisposition to developing chronic giardiasis.\n\n(Choices A and D) Neutrophils and the complement system are important defense mechanisms against bacterial infections. They have no significant role in controlling parasitic infections.\n\n(Choice B) CD8+ T cells are not important in clearing giardiasis; they are more important for combating intracellular intestinal pathogens such as *Cryptosporidium parvum* and *Toxoplasma gondii*.\n\n(Choice C) Eosinophils do not play an important role in immune defense against *Giardia*; eosinophilia is not seen in giardiasis and white cells are usually absent from the stool. Eosinophils are more important for combating intestinal helminthic infections.\n\nEducational objective:\n*Giardia lamblia* causes injury to the duodenal and jejunal mucosa by adhering to the intestinal brush border and releasing molecules that induce a mucosal inflammatory response. Secretory IgA, which impairs adherence, is the major component of adaptive immunity against *G lamblia* infection. Conditions causing IgA deficiency predispose patients to chronic giardiasis.",
+    "zh": "针对贾第虫的免疫防御涉及CD4+ T辅助细胞诱导分泌型IgA产生。分泌型IgA通过与滋养体结合并损害其对上小肠粘膜的粘附来帮助预防和清除感染。患有IgA缺陷、X连锁无丙种球蛋白血症和常见变异型免疫缺陷的儿童易于发展为慢性贾第虫病。\n\n（选项A和D）中性粒细胞和补体系统是针对细菌感染的重要防御机制。它们在控制寄生虫感染方面没有显著作用。\n\n（选项B）CD8+ T细胞在清除贾第虫病方面不重要；它们对于对抗细胞内肠道病原体（如*隐孢子虫*和*弓形虫*）更为重要。\n\n（选项C）嗜酸性粒细胞在针对贾第虫的免疫防御中不起重要作用；在贾第虫病中未见嗜酸性粒细胞增多，粪便中通常不存在白细胞。嗜酸性粒细胞对于对抗肠道蠕虫感染更为重要。\n\n教育目标：\n*兰伯贾第虫*通过粘附于肠道刷状缘并释放诱导粘膜炎症反应的分子来损伤十二指肠和空肠粘膜。分泌型IgA是针对*兰伯贾第虫*感染的适应性免疫的主要组成部分，它会损害其粘附。引起IgA缺陷的疾病使患者易于发生慢性贾第虫病。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the immune response to Giardia lamblia infection, specifically the role of secretory IgA in preventing adherence of trophozoites to the intestinal mucosa. It also tests understanding of conditions predisposing to chronic giardiasis.\n\nTo solve this question, recognize the patient's symptoms and history are suggestive of Giardia infection. Recall that secretory IgA is the primary defense mechanism against Giardia, and its deficiency leads to increased susceptibility to chronic infection.",
+    "zh": "此问题考察了对兰伯贾第虫感染的免疫反应的了解，特别是分泌型IgA在预防滋养体粘附于肠粘膜中的作用。它还测试了对易患慢性贾第虫病的病症的理解。\n\n要解决这个问题，需要认识到患者的症状和病史提示贾第虫感染。回想一下，分泌型IgA是针对贾第虫的主要防御机制，其缺陷导致对慢性感染的易感性增加。"
+  },
+  "tags": "Giardia lamblia; Giardiasis; Secretory IgA; Immunoglobulin A deficiency; Parasitic infection; Diarrhea; Malabsorption; Gastroenterology; Immunology",
+  "category": "Micro",
+  "question_id": "1596",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1596",
+  "extracted_at": "2025-11-05T15:01:21.325456",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:09:47.015223",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

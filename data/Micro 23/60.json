@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "The rates of hepatocellular carcinoma in some developing countries are many times higher than that in Western nations. A successful hepatocellular carcinoma prevention strategy in these countries would focus on incorporating:",
+    "zh": "一些发展中国家肝细胞癌的发病率比西方国家高很多倍。 在这些国家，成功的肝细胞癌预防策略将侧重于纳入："
+  },
+  "question": {
+    "en": "",
+    "zh": ""
+  },
+  "options": {
+    "A": {
+      "en": "Water sanitation",
+      "zh": "水质净化"
+    },
+    "B": {
+      "en": "Vitamin supplementation",
+      "zh": "补充维生素"
+    },
+    "C": {
+      "en": "Universal vaccination",
+      "zh": "普遍接种疫苗"
+    },
+    "D": {
+      "en": "Adequate antibiotic use",
+      "zh": "合理使用抗生素"
+    },
+    "E": {
+      "en": "Routine physician check-ups",
+      "zh": "定期体检"
+    },
+    "F": {
+      "en": "Wider access to hospital care",
+      "zh": "更广泛的医疗服务"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Worldwide, those countries with high rates of hepatitis B virus (HBV) infection have more than 85% of all hepatocellular carcinoma (HCC) cases. Korea, Taiwan, Mozambique, and China experience the highest annual rates of HCC (36 per 100,000 versus <5 per 100,000 in North America). The individuals who develop HCC in these countries usually have chronic HBV infection acquired through vertical transmission at childbirth, which increases their risk of developing HCC by early to middle adulthood 200-fold. In the United States, HCC normally arises after the age of 60. In these countries with high rates of HBV infection, however, HCC commonly presents in adults 20 to 40 years old.\n\nTherefore, universal vaccination of children against HBV would be the one measure most likely to cause a steep decline in the incidence of hepatocellular carcinoma worldwide.\n\n(Choice A) Improved water sanitation would be of significant help in reducing the incidence of many foodborne illnesses transmitted through the fecal-oral route (such as hepatitis A).\n\n(Choice B) Vitamin supplementation would be of significant help in reducing the incidence of conditions associated with poor nutrition (eg, pellagra).\n\n(Choice D) Adequate antibiotic usage would be of significant help in reducing the length and severity of bacterial infections.\n\n(Choices E and F) Routine physician check-ups and wider access to hospital care would be of significant help in educating the patient population, identifying disease processes in early stages, and reducing suffering.\n\nEducational Objective:\nUniversal vaccination of children against HBV would likely cause a steep decline in the worldwide incidence of hepatocellular carcinoma.",
+    "zh": "在全球范围内，乙型肝炎病毒 (HBV) 感染率高的国家/地区，超过 85% 的肝细胞癌 (HCC) 病例发生于此。 韩国、台湾、莫桑比克和中国经历了最高的 HCC 年发病率（每 10 万人中有 36 例，而北美洲则少于每 10 万人中有 5 例）。 在这些国家/地区，发展为 HCC 的个体通常患有通过分娩时的垂直传播获得的慢性 HBV 感染，这会使他们在成年早期到中年时期患 HCC 的风险增加 200 倍。 在美国，HCC 通常在 60 岁之后出现。 然而，在这些 HBV 感染率高的国家/地区，HCC 通常见于 20 至 40 岁的成年人。\n\n因此，对儿童普遍接种 HBV 疫苗将是最有可能导致全球肝细胞癌发病率急剧下降的措施。\n\n（选项 A）改善水质净化将对减少通过粪口途径传播的许多食源性疾病（如甲型肝炎）的发病率有很大帮助。\n\n（选项 B）补充维生素将对减少与营养不良相关的疾病（例如糙皮病）的发病率有很大帮助。\n\n（选项 D）合理使用抗生素将对减少细菌感染的持续时间和严重程度有很大帮助。\n\n（选项 E 和 F）定期体检和更广泛的医疗服务将对教育患者人群、在早期阶段发现疾病过程和减轻痛苦有很大帮助。\n\n教育目标：\n 对儿童普遍接种 HBV 疫苗可能会导致全球肝细胞癌的发病率急剧下降。"
+  },
+  "summary": {
+    "en": "This question tests the association between Hepatitis B virus (HBV) infection and hepatocellular carcinoma (HCC), and the effectiveness of universal HBV vaccination in reducing HCC incidence in high-risk populations.\n\nThe key to solving this question is recognizing the strong link between chronic HBV infection and HCC, particularly in regions with high HBV prevalence. Universal vaccination is a primary prevention strategy to reduce HBV transmission and subsequent HCC development.",
+    "zh": "这个问题考察了乙型肝炎病毒 (HBV) 感染与肝细胞癌 (HCC) 之间的关联，以及普遍接种 HBV 疫苗在降低高危人群 HCC 发病率方面的有效性。\n\n解决这个问题的关键是认识到慢性 HBV 感染与 HCC 之间的密切联系，尤其是在 HBV 流行率高的地区。 普遍接种疫苗是减少 HBV 传播和随后的 HCC 发生的主要预防策略。"
+  },
+  "tags": "Hepatocellular carcinoma; Hepatitis B virus; Vaccination; Public health; Infectious diseases; Prevention; Vertical transmission",
+  "category": "Micro",
+  "question_id": "60",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\60",
+  "extracted_at": "2025-11-05T15:04:43.084653",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:12:28.655270",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

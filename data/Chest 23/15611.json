@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old woman is brought to the emergency department due to progressive weakness and dyspnea. The patient is visiting her niece, who says the patient forgot to bring her regular medications and has not been taking them for the past week. The patient began feeling weak and fatigued 3 days ago and has had shortness of breath since yesterday. Temperature is 37 C (98.6 F), blood pressure is 122/88 mm Hg, pulse is 90/min, and respirations are 24/min and shallow. On physical examination, the patient appears dyspneic with drooping at the eyelids and corners of the mouth. Her speech has a nasal quality. Arterial blood gas obtained on room air shows pH 7.32; PaCO₂ is 52 mm Hg, PaO₂ is 72 mm Hg, and HCO₃ is 26 mEq/L. Bedside spirometry demonstrates decreased forced vital capacity. {{exhibit_1}}",
+    "zh": "一名62岁女性因进行性乏力和呼吸困难被送往急诊科。患者正在拜访她的侄女，侄女说患者忘记带她 নিয়মিত 吃的药，并且过去一周没有服用。患者在3天前开始感到虚弱和疲倦，并且从昨天开始出现呼吸急促。体温37°C（98.6°F），血压122/88 mmHg，脉搏90次/分钟，呼吸24次/分钟且浅。体格检查显示，患者出现呼吸困难，眼睑和嘴角下垂。她的声音带有鼻音。在常氧下获得的动脉血气分析显示pH值为7.32；PaCO₂为52 mmHg，PaO₂为72 mmHg，HCO₃为26 mEq/L。床旁肺活量测定显示用力肺活量下降。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "A pathologic process involving which of the following structures is the most likely cause of this patient's shortness of breath?",
+    "zh": "累及以下哪种结构的病理过程最有可能导致该患者的呼吸急促？"
+  },
+  "options": {
+    "A": {
+      "en": "Brain stem respiratory center",
+      "zh": "脑干呼吸中枢"
+    },
+    "B": {
+      "en": "Muscles of respiration",
+      "zh": "呼吸肌"
+    },
+    "C": {
+      "en": "Pulmonary arteries",
+      "zh": "肺动脉"
+    },
+    "D": {
+      "en": "Terminal airways and alveoli",
+      "zh": "末梢气道和肺泡"
+    },
+    "E": {
+      "en": "Upper larger airways",
+      "zh": "上部较大气道"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has hypercapnic and hypoxic respiratory failure (low pH, high CO₂, low O₂) indicating global hypoventilation. In association with the ptosis, bulbar weakness, and low forced vital capacity, this presentation suggests myasthenic crisis (severe weakness and respiratory depression due to an exacerbation of myasthenia gravis [MG]).\n\nMG is characterized by autoantibodies against nicotinic acetylcholine receptors on the postsynaptic membrane of the neuromuscular junction, resulting in receptor degradation. This reduces the sensitivity of the postsynaptic membrane to acetylcholine stimulation, leading to reduced muscular response despite normal acetylcholine release. Muscle weakness worsens with repetition as acetylcholine stores within the presynaptic nerve terminal become progressively depleted.\n\nPatients with MG typically have extraocular (eg, ptosis, diplopia), bulbar (eg, dysphonia, difficulty chewing), and facial (eg, myasthenic snarl) weakness. In addition, neck and proximal muscle weakness may occur, and in severe cases the respiratory muscles may be affected, leading to respiratory failure (as in this patient). Acetylcholinesterase inhibitors (eg, pyridostigmine, neostigmine) are used for symptomatic treatment, and withdrawal can trigger a myasthenic crisis. {{exhibit_2}}\n\n(Choice A) Impairment of the respiratory control centers in the brain stem causes hypoventilation during sleep (Ondine curse); however, voluntary breathing is unaffected.\n\n(Choice C) Pulmonary embolism can result in dyspnea and gas exchange abnormalities (eg, hypoxia). However, significant muscular weakness (eg, ptosis, nasal speech, decreased vital capacity) would be unexpected.\n\n(Choices D and E) Patients with diseases involving the terminal airways and alveoli (eg, pulmonary fibrosis, emphysema) and large airways (eg, asthma, chronic bronchitis) can present with respiratory failure subsequent to muscle fatigue. However, these diseases are not associated with non-respiratory muscle weakness (eg, dysphonia, bulbar weakness).\n\nEducational objective:\nMyasthenia gravis is characterized by autoantibodies against postsynaptic nicotinic acetylcholine receptors at the neuromuscular junction, which result in receptor degradation. Patients typically have extraocular, bulbar, and facial weakness that worsens with activity. In severe cases, the respiratory muscles may be affected, leading to hypoventilation and respiratory failure.",
+    "zh": "该患者患有高碳酸血症和低氧血症呼吸衰竭（低pH值，高CO₂，低O₂），表明存在全面通气不足。结合眼睑下垂、延髓无力以及用力肺活量降低，这种表现提示肌无力危象（由于重症肌无力 [MG] 的加重导致的严重乏力和呼吸抑制）。\n\nMG的特征是针对神经肌肉接头后突触膜上烟碱型乙酰胆碱受体的自身抗体，导致受体降解。这降低了后突触膜对乙酰胆碱刺激的敏感性，导致肌肉反应降低，尽管乙酰胆碱释放正常。肌肉无力随着重复而恶化，因为突触前神经末梢内的乙酰胆碱储存逐渐耗尽。\n\nMG患者通常有眼外肌（如眼睑下垂、复视）、延髓（如发声障碍、咀嚼困难）和面部（如肌无力性抽搐）无力。此外，可能出现颈部和近端肌肉无力，在严重情况下，呼吸肌可能受到影响，导致呼吸衰竭（如该患者）。乙酰胆碱酯酶抑制剂（如吡啶斯的明、新斯的明）用于对症治疗，停药可诱发肌无力危象。{{exhibit_2}}\n\n（选项A）脑干呼吸控制中枢受损会导致睡眠期间通气不足（翁狄娜诅咒）；然而，自主呼吸不受影响。\n\n（选项C）肺栓塞可导致呼吸困难和气体交换异常（如低氧血症）。然而，不会出现明显的肌肉无力（如眼睑下垂、鼻音、肺活量降低）。\n\n（选项D和E）涉及末梢气道和肺泡（如肺纤维化、肺气肿）以及大气道（如哮喘、慢性支气管炎）的疾病的患者可能在肌肉疲劳后出现呼吸衰竭。然而，这些疾病与非呼吸肌无力（如发声障碍、延髓无力）无关。\n\n教育目标：\n重症肌无力的特征是针对神经肌肉接头处后突触烟碱型乙酰胆碱受体的自身抗体，导致受体降解。患者通常有眼外肌、延髓和面部无力，随着活动而恶化。在严重情况下，呼吸肌可能受到影响，导致通气不足和呼吸衰竭。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of myasthenia gravis (MG) and its presentation as myasthenic crisis, focusing on the neuromuscular junction and respiratory muscle involvement. It assesses the ability to recognize the clinical features of MG, including ptosis, bulbar weakness, and respiratory failure, and to differentiate it from other causes of respiratory distress.\n\nTo solve this question, identify the key features of the case, such as the patient's weakness, dyspnea, ptosis, and bulbar symptoms. Recognize that these findings, along with the arterial blood gas results indicating hypoventilation, suggest a neuromuscular disorder affecting the respiratory muscles. Consider the differential diagnosis of respiratory failure and eliminate options that do not fit the clinical picture.",
+    "zh": "此题考察重症肌无力（MG）及其作为肌无力危象的表现的知识，重点关注神经肌肉接头和呼吸肌受累。它评估识别MG的临床特征（包括眼睑下垂、延髓无力和呼吸衰竭）并将其与其他呼吸窘迫原因区分开来的能力。\n\n要解决这个问题，确定病例的关键特征，例如患者的无力、呼吸困难、眼睑下垂和延髓症状。认识到这些发现，以及表明通气不足的动脉血气结果，提示一种影响呼吸肌的神经肌肉疾病。考虑呼吸衰竭的鉴别诊断，并排除不符合临床情况的选项。"
+  },
+  "tags": "Myasthenia gravis; Neuromuscular junction; Respiratory failure; Ptosis; Bulbar weakness; Autoantibodies; Acetylcholine receptors; Hypoventilation; Spirometry; Neurology; Pulmonology",
+  "category": "Chest",
+  "question_id": "15611",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\15611",
+  "extracted_at": "2025-11-05T11:40:09.944220",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:36:03.028924",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

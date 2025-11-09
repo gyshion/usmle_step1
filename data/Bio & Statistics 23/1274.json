@@ -1,0 +1,55 @@
+{
+  "question_stem": {
+    "en": "A prospective cohort study was conducted to assess the role of daily alcohol consumption in the occurrence of breast carcinoma. The investigators reported a 5-year relative risk of 1.4 for people who consume alcohol daily compared to those who do not. The 95% confidence interval was 1.02-1.85.",
+    "zh": "一项前瞻性队列研究旨在评估每日饮酒在乳腺癌发生中的作用。研究人员报告，与不饮酒者相比，每日饮酒者的 5 年相对风险为 1.4。95% 置信区间为 1.02-1.85。"
+  },
+  "question": {
+    "en": "Which of the following p-values is most consistent with the results described above?",
+    "zh": "以下哪个 p 值与上述结果最一致？"
+  },
+  "options": {
+    "A": {
+      "en": "0.03",
+      "zh": "0.03"
+    },
+    "B": {
+      "en": "0.06",
+      "zh": "0.06"
+    },
+    "C": {
+      "en": "0.09",
+      "zh": "0.09"
+    },
+    "D": {
+      "en": "0.11",
+      "zh": "0.11"
+    },
+    "E": {
+      "en": "0.20",
+      "zh": "0.20"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Relative risk (RR) is used in cohort studies to determine how strongly a risk factor (ie, exposure) is associated with an outcome. RR is the risk of an outcome (eg, breast cancer) in the exposed group (eg, individuals who consume alcohol daily) divided by the risk of that outcome in the unexposed group (eg, individuals who do not consume alcohol daily). If the RR = 1.0 (null value), then there is no association between the exposure and the disease. An RR >1.0 indicates that the exposure is associated with increased risk of disease. An RR <1.0 means that the exposure is associated with decreased risk of disease.\n\nThe RR by itself does not account for the possibility that chance alone is responsible for the results. The 95% confidence interval (CI) and p-value are 2 measures of STATISTICAL SIGNIFICANCE that can help strengthen the findings of a study using RR. For a result to be considered statistically significant, its corresponding CI must NOT contain the null value. When the 95% CI does not include the null value, this typically corresponds a p-value <0.05 and the association between exposure and outcome is considered statistically significant. A p-value <0.05 reflects that there is a very low probability that the result was due to chance alone; formally, the p-value is the probability of observing a given (or more extreme) result due to chance alone assuming that the null hypothesis is true.\n\nIn this example, the RR is 1.4 with a 95% CI of 1.02-1.85. It can be concluded that daily alcohol consumption is associated with an increased risk of breast carcinoma (RR >1) and that the findings are statistically significant (95% CI does not include the null value of 1.0). Therefore, the expected p-value would be <0.05.\n\n(Choices B, C, D, and E) These options contain p-values >0.05, so the results would not be statistically significant. Note the relationship between CI and p-value: a statistically significant 95% CI corresponds to a p-value <0.05; a statistically significant 99% CI (would also not include the null value and likely be wider than a 95% CI) corresponds to a p-value <0.01.",
+    "zh": "相对风险 (RR) 用于队列研究中，以确定风险因素（即暴露）与结果之间的关联强度。RR 是暴露组（例如，每日饮酒的个体）中结果（例如，乳腺癌）的风险除以未暴露组（例如，不饮酒的个体）中该结果的风险。如果 RR = 1.0（零值），则暴露与疾病之间没有关联。RR > 1.0 表示暴露与疾病风险增加相关。RR < 1.0 表示暴露与疾病风险降低相关。\n\nRR 本身并不能解释仅仅依靠偶然性导致结果的可能性。95% 置信区间 (CI) 和 p 值是衡量统计学显著性的 2 个指标，可以帮助加强使用 RR 的研究结果。要使结果被认为是具有统计学意义的，其对应的 CI 必须不包含零值。当 95% CI 不包括零值时，这通常对应于 p 值 < 0.05，并且暴露与结果之间的关联被认为具有统计学意义。p 值 < 0.05 反映结果仅由偶然性引起的可能性非常低；正式地说，p 值是在假设原假设为真的情况下，仅由偶然性观察到给定（或更极端）结果的概率。\n\n在本例中，RR 为 1.4，95% CI 为 1.02-1.85。可以得出结论，每日饮酒与乳腺癌风险增加相关（RR > 1），并且结果具有统计学意义（95% CI 不包含零值 1.0）。因此，预期的 p 值应 < 0.05。\n\n（选项 B、C、D 和 E）这些选项包含的 p 值 > 0.05，因此结果不具有统计学意义。注意 CI 和 p 值之间的关系：具有统计学意义的 95% CI 对应于 p 值 < 0.05；具有统计学意义的 99% CI（也不会包含零值，并且可能比 95% CI 宽）对应于 p 值 < 0.01。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of relative risk, confidence intervals, and p-values in cohort studies, specifically how they relate to statistical significance. It assesses the ability to interpret the results of a study and determine if the findings are statistically significant.\n\nTo solve this question, recognize that a statistically significant result typically has a 95% confidence interval that does not include the null value (1.0 in this case) and corresponds to a p-value less than 0.05. Identify the option that represents a p-value consistent with a statistically significant result.",
+    "zh": "此问题测试对队列研究中相对风险、置信区间和 p 值的理解，特别是它们与统计学意义的关系。它评估了解释研究结果并确定结果是否具有统计学意义的能力。\n\n要解决这个问题，请认识到具有统计学意义的结果通常具有不包含零值（在本例中为 1.0）的 95% 置信区间，并且对应于小于 0.05 的 p 值。确定代表与具有统计学意义的结果一致的 p 值的选项。"
+  },
+  "tags": "Relative risk; Confidence interval; P-value; Statistical significance; Cohort study; Biostatistics; Epidemiology; Breast carcinoma",
+  "category": "Bio",
+  "question_id": "1274",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1274",
+  "extracted_at": "2025-11-05T10:31:11.925444",
+  "translated_at": "2025-11-07T16:20:15.039545",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

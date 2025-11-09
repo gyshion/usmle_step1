@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old woman, gravida 1 para 0, at 14 weeks gestation, comes to the emergency department due to left leg swelling and pain for the past 2 days. She has had no chest pain or shortness of breath. The patient has no prior medical conditions and her only medication is a prenatal vitamin. She is a lifetime nonsmoker. Physical examination shows 1+ edema of the left lower extremity to the knee, associated with mild erythema. The left calf diameter measures 3 cm greater than the right. Doppler ultrasonography shows left popliteal and femoral vein thrombosis. Serum creatinine level is 0.7 mg/dL.",
+    "zh": "一名24岁女性，孕1产0，妊娠14周，因左腿肿胀和疼痛2天前来急诊科就诊。她没有胸痛或呼吸急促。患者既往无任何疾病史，唯一的药物是产前维生素。她一生不吸烟。体格检查显示左下肢膝部1+水肿，伴有轻度红斑。左小腿直径比右侧大3 cm。多普勒超声检查显示左腘静脉和股静脉血栓形成。血清肌酐水平为0.7 mg/dL。"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate pharmacotherapy for this patient?",
+    "zh": "以下哪项是该患者最合适的药物治疗方案？"
+  },
+  "options": {
+    "A": {
+      "en": "Apixaban",
+      "zh": "阿哌沙班"
+    },
+    "B": {
+      "en": "Clopidogrel",
+      "zh": "氯吡格雷"
+    },
+    "C": {
+      "en": "Dabigatran",
+      "zh": "达比加群"
+    },
+    "D": {
+      "en": "Enoxaparin",
+      "zh": "依诺肝素"
+    },
+    "E": {
+      "en": "Low-dose aspirin",
+      "zh": "小剂量阿司匹林"
+    },
+    "F": {
+      "en": "Tissue plasminogen activator",
+      "zh": "组织型纤溶酶原激活剂"
+    },
+    "G": {
+      "en": "Warfarin",
+      "zh": "华法林"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Pregnancy increases the risk of **venous thromboembolism (VTE)** due to anatomic changes (eg, uterine compression of the inferior vena cava and iliac veins) and physiologic hypercoagulability (eg, increased production of clotting factors, decreased protein S levels, protein C resistance). **Heparins** are ideal anticoagulants for most pregnant women as they do not cross the placenta and the risk of fetal bleeding and teratogenicity is low.\n\n*   **Low-molecular-weight heparin (LMWH)** (eg, enoxaparin, dalteparin) is preferred as it has a relatively long half-life (4.5 hours) and does not require routine laboratory monitoring. However, it is renally cleared and cannot be used in patients with severe renal insufficiency (creatinine clearance <30 mL/min).\n*   Unfractionated heparin has a short half-life (1-2 hours) and requires frequent lab draws (ie, PTT) due to its more varied anticoagulant effect. However, it may be used in patients with renal insufficiency. It is also used in place of LMWH at term (37 weeks gestation) as it can be discontinued at the onset of labor to minimize hemorrhagic risk.\n\n(Choices A and C) Direct thrombin inhibitors (eg, dabigatran) and factor Xa inhibitors (eg, apixaban) are not recommended in pregnant women. Both have been associated with fetal toxicity in animal studies.\n\n(Choices B and E) Clopidogrel and aspirin have no role in acute VTE treatment. Clopidogrel, which blocks the platelet adenosine diphosphate receptor and limits platelet aggregation, is used in treatment of coronary artery disease, acute coronary syndrome, and prevention of recurrent ischemic stroke. Low-dose aspirin is prescribed to certain pregnant patients at risk of preeclampsia.\n\n(Choice F) Recombinant tissue plasminogen activator is used for clot lysis. It has a high risk of major bleeding and is typically reserved for those with massive deep vein thrombosis at risk of limb ischemia or life-threatening pulmonary embolism with hypotension. Anticoagulation alone is preferred for VTE in hemodynamically stable patients.\n\n(Choice G) Warfarin crosses the placenta, increasing risks of teratogenicity and fetal hemorrhage, and is typically avoided in pregnancy.",
+    "zh": "妊娠增加了发生**静脉血栓栓塞症（VTE）**的风险，这归因于解剖学改变（例如，子宫压迫下腔静脉和髂静脉）和生理性高凝状态（例如，凝血因子生成增加，蛋白S水平降低，蛋白C耐药）。对于大多数孕妇来说，**肝素**是理想的抗凝剂，因为它们不穿过胎盘，并且胎儿出血和致畸的风险较低。\n\n*   **低分子量肝素 (LMWH)**（例如，依诺肝素，达肝素）是首选，因为它具有相对较长的半衰期（4.5小时），不需要常规的实验室监测。然而，它通过肾脏清除，不能用于严重肾功能不全的患者（肌酐清除率<30 mL/min）。\n*   普通肝素的半衰期较短（1-2小时），并且由于其抗凝作用差异较大，因此需要频繁的抽血（即，PTT）。然而，它可用于肾功能不全的患者。它也用于替代足月（妊娠37周）的LMWH，因为它可以在分娩开始时停用，以最大程度地减少出血风险。\n\n（选项A和C）不建议在孕妇中使用直接凝血酶抑制剂（例如，达比加群）和因子Xa抑制剂（例如，阿哌沙班）。两者都与动物研究中的胎儿毒性有关。\n\n（选项B和E）氯吡格雷和阿司匹林在急性VTE治疗中无作用。氯吡格雷可阻断血小板二磷酸腺苷受体，限制血小板聚集，用于治疗冠状动脉疾病、急性冠状动脉综合征和预防复发性缺血性卒中。小剂量阿司匹林处方用于某些有先兆子痫风险的孕妇。\n\n（选项F）重组组织型纤溶酶原激活剂用于溶栓。它有发生大出血的高风险，通常仅用于那些患有大规模深静脉血栓形成且有肢体缺血风险或危及生命的伴有低血压的肺栓塞的患者。对于血流动力学稳定的VTE患者，单独抗凝治疗是首选。\n\n（选项G）华法林穿过胎盘，增加了致畸和胎儿出血的风险，通常在怀孕期间避免使用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of appropriate anticoagulation therapy for a pregnant patient with deep vein thrombosis (DVT). It requires understanding the risks and benefits of different anticoagulants in pregnancy.\n\nThe best approach is to recognize that pregnancy increases the risk of VTE and that certain anticoagulants are contraindicated due to teratogenic effects. Low-molecular-weight heparin (LMWH) is the preferred initial treatment option in this scenario.",
+    "zh": "此题考察了对患有深静脉血栓形成（DVT）的孕妇的适当抗凝治疗的知识。它要求了解不同抗凝剂在妊娠期的风险和益处。\n\n最好的方法是认识到妊娠增加了VTE的风险，并且某些抗凝剂由于致畸作用而被禁用。低分子量肝素（LMWH）是此情况下的首选初始治疗方案。"
+  },
+  "tags": "Deep vein thrombosis; Pregnancy; Anticoagulation; Enoxaparin; Low-molecular-weight heparin; Venous thromboembolism; Obstetrics; Hematology",
+  "category": "Blood",
+  "question_id": "1194",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1194",
+  "extracted_at": "2025-11-05T11:19:56.631908",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:26:12.705250",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

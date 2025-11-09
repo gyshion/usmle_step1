@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man is admitted to the hospital after sustaining a head injury and fractures of both femurs in a motor vehicle collision. CT scan of the head reveals a left-sided extradural hematoma. He has no history of chronic illness and takes no medications. The patient receives intravenous fluid boluses and blood transfusions and is taken to the operating room for fracture repair and removal of the hematoma. On the first postoperative day, laboratory results show high plasma glucose and lactate levels.",
+    "zh": "一名34岁男性因在机动车碰撞中头部受伤并伴有双侧股骨骨折而入院。头部CT扫描显示左侧硬膜外血肿。他无慢性病史，未服用任何药物。患者接受静脉输液和输血，并被送往手术室进行骨折修复和血肿清除。术后第一天，实验室结果显示血浆葡萄糖和乳酸水平升高。"
+  },
+  "question": {
+    "en": "Which of the following is the primary contributor to this patient's elevated blood glucose levels?",
+    "zh": "以下哪项是导致该患者血糖升高的主要因素？"
+  },
+  "options": {
+    "A": {
+      "en": "Administration of intravenous fluid boluses",
+      "zh": "静脉输液"
+    },
+    "B": {
+      "en": "Decreased hepatic glycerol supply",
+      "zh": "肝脏甘油供应减少"
+    },
+    "C": {
+      "en": "Increased anaerobic glycolysis",
+      "zh": "无氧糖酵解增加"
+    },
+    "D": {
+      "en": "Increased hepatic glucose production",
+      "zh": "肝脏葡萄糖产生增加"
+    },
+    "E": {
+      "en": "Increased renal gluconeogenesis",
+      "zh": "肾脏糖异生增加"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Stress hyperglycemia is a transiently elevated blood glucose level in the context of severe illness in patients without preexisting diabetes mellitus. It is common in the intensive care unit and is typically seen in those with sepsis and other severe infections, burns, trauma, or major hemorrhage.\n\nSevere metabolic stress is associated with increased production of CORTISOL, CATECHOLAMINES (primarily epinephrine and norepinephrine), GLUCAGON, and proinflammatory cytokines (eg, IL-1, IL-6, tumor necrosis factor-alpha). Cortisol, catecholamines, and glucagon act on the liver to increase GLYCOGENOLYSIS and GLUCONEOGENESIS, stimulating release of glucose from the liver into the blood.\n\nIn addition, the release of proinflammatory cytokines is associated with increased expression of glucose transporter (GLUT) 1 in the CNS and macrophages, along with decreased expression of GLUT4 (which mediates insulin-induced glucose uptake in peripheral tissues). This facilitates increased glucose uptake by the brain and immune cells responsible for fighting infection.\n\n(Choice A) During trauma resuscitation, most patients are given isotonic fluids (eg, normal saline, Ringer lactate), which are unlikely to cause hyperglycemia. Even if mild fluid-induced hyperglycemia occurs, blood glucose levels typically normalize quickly after fluid boluses.\n\n(Choice B) Norepinephrine stimulates peripheral lipolysis, releasing glycerol, which can be taken up by the liver for use in gluconeogenesis. Therefore, stress increases, not decreases, the hepatic glycerol supply.\n\n(Choice C) Severe illness is often associated with increased anaerobic glycolysis due to systemic or local tissue hypoxia (blood loss in this patient). Increased conversion of glucose to lactate in ischemic tissues raises plasma lactate levels. Glucose levels are often concurrently elevated due to stress hyperglycemia, but anaerobic glycolysis itself depletes glucose.\n\n(Choice E) The renal cortex can convert lactate to glucose via gluconeogenesis. However, it makes a significantly smaller contribution to circulating glucose levels than hepatic gluconeogenesis.\n\nEducational objective:\nStress hyperglycemia is transiently elevated blood glucose levels in the context of severe illness (eg, sepsis, burns, major hemorrhage) in patients without preexisting diabetes mellitus. Cortisol and catecholamines released in response to severe metabolic stress act on the liver to increase glycogenolysis and gluconeogenesis.",
+    "zh": "应激性高血糖是在没有既往糖尿病的患者发生严重疾病时一过性升高的血糖水平。这在重症监护病房中很常见，通常见于患有脓毒症和其他严重感染、烧伤、外伤或大出血的患者。\n\n严重的代谢应激与皮质醇、儿茶酚胺（主要是肾上腺素和去甲肾上腺素）、胰高血糖素和促炎细胞因子（如IL-1、IL-6、肿瘤坏死因子-α）的产生增加有关。皮质醇、儿茶酚胺和胰高血糖素作用于肝脏，增加糖原分解和糖异生，刺激葡萄糖从肝脏释放到血液中。\n\n此外，促炎细胞因子的释放与中枢神经系统和巨噬细胞中葡萄糖转运蛋白(GLUT) 1的表达增加以及GLUT4（介导外周组织中胰岛素诱导的葡萄糖摄取）的表达减少有关。这促进了大脑和负责抵抗感染的免疫细胞对葡萄糖的摄取增加。\n\n（选项 A）在外伤复苏期间，大多数患者给予等渗液（如生理盐水、乳酸林格液），这不太可能导致高血糖。即使发生轻度液体诱导的高血糖，血糖水平通常在输液后迅速恢复正常。\n\n（选项 B）去甲肾上腺素刺激外周脂肪分解，释放甘油，甘油可被肝脏摄取用于糖异生。因此，应激增加了肝脏甘油的供应，而不是减少。\n\n（选项 C）由于全身或局部组织缺氧（该患者的失血），严重疾病通常与无氧糖酵解增加有关。缺血组织中葡萄糖转化为乳酸的增加导致血浆乳酸水平升高。由于应激性高血糖，葡萄糖水平通常同时升高，但无氧糖酵解本身会消耗葡萄糖。\n\n（选项 E）肾皮质可以通过糖异生将乳酸转化为葡萄糖。然而，它对循环葡萄糖水平的贡献远小于肝脏糖异生。\n\n教育目标：\n应激性高血糖是在没有既往糖尿病的患者发生严重疾病（如脓毒症、烧伤、大出血）时一过性升高的血糖水平。为了应对严重的代谢应激而释放的皮质醇和儿茶酚胺作用于肝脏，增加糖原分解和糖异生。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of stress hyperglycemia, a transient elevation of blood glucose in the context of severe illness, and its underlying pathophysiology involving cortisol, catecholamines, and glucagon. It also tests the ability to differentiate the primary contributor to elevated blood glucose levels in a trauma patient.\n\nTo solve this question, recognize the clinical scenario as stress hyperglycemia, understand the hormonal and metabolic changes that occur during stress, and identify the primary mechanism responsible for increased glucose production in the liver.",
+    "zh": "本题测试对应激性高血糖的知识，即在严重疾病背景下血糖的一过性升高，以及其涉及皮质醇、儿茶酚胺和胰高血糖素的潜在病理生理学。它还测试了区分外伤患者血糖升高主要因素的能力。\n\n要解决这个问题，需要认识到临床情况是应激性高血糖，了解应激期间发生的激素和代谢变化，并确定肝脏葡萄糖产生增加的主要机制。"
+  },
+  "tags": "Stress hyperglycemia; Gluconeogenesis; Glycogenolysis; Cortisol; Catecholamines; Trauma; Metabolic stress; Glucose metabolism; Endocrinology; Critical care",
+  "category": "Endo",
+  "question_id": "19219",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\19219",
+  "extracted_at": "2025-11-05T14:04:38.863043",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:39:28.313218",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

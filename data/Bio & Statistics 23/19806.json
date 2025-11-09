@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "The aim of a case-control study is to investigate the association between probiotic yogurt intake before and during pregnancy and gestational diabetes mellitus (GDM) in women age >18 during their 24 to 28 weeks of a singleton pregnancy. The investigators obtain a history of probiotic yogurt intake between cases and controls. Results of the study are shown below. {{exhibit_1}}",
+    "zh": "一项病例对照研究的目的是调查孕前和孕期摄入益生菌酸奶与妊娠期糖尿病（GDM）之间的关联，研究对象为年龄>18岁的单胎妊娠24至28周的女性。研究人员获取病例组和对照组的益生菌酸奶摄入史。研究结果如下所示。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following best represents the odds of high probiotic yogurt intake in women with GDM compared to women without GDM?",
+    "zh": "以下哪项最能代表GDM女性与非GDM女性相比高益生菌酸奶摄入的几率？"
+  },
+  "options": {
+    "A": {
+      "en": "0.17",
+      "zh": "0.17"
+    },
+    "B": {
+      "en": "0.45",
+      "zh": "0.45"
+    },
+    "C": {
+      "en": "0.66",
+      "zh": "0.66"
+    },
+    "D": {
+      "en": "1.51",
+      "zh": "1.51"
+    },
+    "E": {
+      "en": "2.20",
+      "zh": "2.20"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The odds of an event are related to the probability P of that event, with odds = P / (1 – P). For example, the probability of rolling a single die and getting a 1 is 1/6, but the odds of rolling a 1 is 1/5. The odds ratio (OR) is a measure of association used in case-control studies to compare the odds of exposure in cases (ie, individuals with disease) relative to controls (ie, individuals without disease).\n\nOR = (odds of exposure in cases) / (odds of exposure in controls)\n\nIn this study, the disease of interest is gestational diabetes mellitus (GDM), so cases are women with GDM, and controls are women without GDM. The exposure of interest is probiotic yogurt intake before or during pregnancy. More specifically, the OR of interest is the odds of high intake of yogurt in cases (ie, women with GDM) relative to the odds of high intake of yogurt in controls (ie, women without GDM).\n\nA shortcut to calculate the OR when a contingency table has a standard format (ie, exposure of interest in the first row of exposure status and cases in the first column of disease status) is the following:\n\nOR = (a/c) / (b/d)\n\nThe given table is incorrectly formatted (ie, high intake should be in the first row rather than in the second row of exposure status), so it is necessary to reformat the table.\n\nThe odds of high intake of yogurt in women with GDM and women without GDM are:\n\nOdds of high intake of yogurt in cases: a/c = 41/82 = 0.50\nOdds of high intake of yogurt in controls: b/d = 66/60 = 1.10\nTherefore, the OR is:\n\nOR = (odds of exposure in cases) / (odds of exposure in controls) = (a/c) / (b/d) = 0.50 / 1.10 = 0.45\n\nThe OR is <1: this indicates that a high intake of probiotic yogurt during pregnancy has a PROTECTIVE effect against GDM.\n\nThis example calculated the OR of exposure (ie, odds of exposure among cases relative to controls). The OR is sometimes described as the odds of disease among exposed individuals relative to nonexposed individuals, given by (a/b) / (c/d). Both OR definitions are mathematically equivalent and reduce to OR = (ad) / (bc).\n\nEducational objective:\nThe odds ratio (OR) is a measure of association calculated as: OR = (odds of exposure in cases) / (odds of exposure in controls). For a correctly formatted contingency table: OR = (ad) / (bc).",
+    "zh": "一个事件的几率与该事件的概率 P 相关，几率 = P / (1 – P)。例如，掷一个骰子得到1的概率是1/6，但掷出1的几率是1/5。几率比 (OR) 是病例对照研究中用来比较病例组（即患有疾病的个体）相对于对照组（即未患有疾病的个体）暴露几率的关联性指标。\n\nOR = (病例组中暴露的几率) / (对照组中暴露的几率)\n\n在本研究中，感兴趣的疾病是妊娠期糖尿病 (GDM)，因此病例组是患有GDM的女性，对照组是未患有GDM的女性。感兴趣的暴露是孕前或孕期摄入益生菌酸奶。更具体地说，感兴趣的OR是病例组（即患有GDM的女性）高摄入酸奶的几率相对于对照组（即未患有GDM的女性）高摄入酸奶的几率。\n\n当列联表具有标准格式（即，感兴趣的暴露在暴露状态的第一行，病例在疾病状态的第一列）时，计算OR的快捷方式如下：\n\nOR = (a/c) / (b/d)\n\n给定的表格格式不正确（即，高摄入量应在暴露状态的第一行而不是第二行），因此需要重新格式化表格。\n\n患有GDM女性和未患有GDM女性高摄入酸奶的几率是：\n\n病例组高摄入酸奶的几率：a/c = 41/82 = 0.50\n对照组高摄入酸奶的几率：b/d = 66/60 = 1.10\n因此，OR为：\n\nOR = (病例组中暴露的几率) / (对照组中暴露的几率) = (a/c) / (b/d) = 0.50 / 1.10 = 0.45\n\nOR < 1：这表明孕期高摄入益生菌酸奶对GDM具有保护作用。\n\n这个例子计算了暴露的OR（即，病例组相对于对照组的暴露几率）。OR有时被描述为暴露个体中患病的几率相对于未暴露个体的几率，由 (a/b) / (c/d) 给出。这两种OR定义在数学上是等价的，并且简化为 OR = (ad) / (bc)。\n\n教育目标：\n几率比 (OR) 是一个关联性指标，计算方法为：OR = (病例组中暴露的几率) / (对照组中暴露的几率)。对于格式正确的列联表：OR = (ad) / (bc)。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of odds ratio calculation in a case-control study, specifically in the context of gestational diabetes mellitus and probiotic yogurt intake. It requires the ability to correctly identify cases, controls, exposure, and non-exposure, and then apply the formula for odds ratio.\n\nTo solve this question, first identify the cases (women with GDM) and controls (women without GDM). Then, determine the exposure of interest (high probiotic yogurt intake). Calculate the odds of exposure in cases and controls, and finally, calculate the odds ratio by dividing the odds of exposure in cases by the odds of exposure in controls.",
+    "zh": "这道题考察了对病例对照研究中几率比计算的理解，特别是在妊娠期糖尿病和益生菌酸奶摄入的背景下。它需要能够正确识别病例组、对照组、暴露和未暴露，然后应用几率比的公式。\n\n要解决这个问题，首先要确定病例组（患有GDM的女性）和对照组（未患有GDM的女性）。然后，确定感兴趣的暴露（高益生菌酸奶摄入）。计算病例组和对照组的暴露几率，最后，通过将病例组中的暴露几率除以对照组中的暴露几率来计算几率比。"
+  },
+  "tags": "Odds ratio; Case-control study; Gestational diabetes mellitus; Probiotics; Epidemiology",
+  "category": "Bio",
+  "question_id": "19806",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19806",
+  "extracted_at": "2025-11-05T11:14:35.513566",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:23:34.214207",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 36-year-old woman comes to the clinic for evaluation of a 4-month history of nonproductive cough and exertional dyspnea. Her only other medical problem is frequent heartburn, for which she takes over-the-counter antacids. Temperature is 37.1 C (98.8 F), blood pressure is 126/74 mm Hg, pulse is 88/min, and respirations are 20/min. Examination shows bilateral crackles and normal heart sounds. The remainder of the examination is unremarkable. Chest imaging shows bilateral interstitial opacities. Bronchoalveolar lavage reveals >50% of cells being lymphocytes.",
+    "zh": "一位36岁的女性来到诊所，评估她4个月来无痰咳嗽和劳力性呼吸困难的病史。她唯一的其他健康问题是频繁的胃灼热，为此她服用非处方抗酸剂。体温为37.1摄氏度（98.8华氏度），血压为126/74毫米汞柱，脉搏为88次/分，呼吸为20次/分。体格检查显示双侧啰音和正常的心音。其余检查无特殊发现。胸部影像学显示双侧间质性混浊。支气管肺泡灌洗显示淋巴细胞超过50%。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Asbestosis",
+      "zh": "石棉肺"
+    },
+    "B": {
+      "en": "Asthma",
+      "zh": "哮喘"
+    },
+    "C": {
+      "en": "Chronic aspiration",
+      "zh": "慢性误吸"
+    },
+    "D": {
+      "en": "Hypersensitivity pneumonitis",
+      "zh": "超敏性肺炎"
+    },
+    "E": {
+      "en": "Pulmonary edema",
+      "zh": "肺水肿"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with several months of nonproductive cough and exertional dyspnea as well as a lymphocyte-predominant bronchoalveolar lavage (BAL) most likely has hypersensitivity pneumonitis (HP). HP results from an exaggerated immunologic response that some individuals develop to an inhaled antigen (eg, mold, animal protein). Those most commonly affected include farmers (ie, farmer's lung due to exposure to moldy hay) and bird keepers (ie, bird fancier's lung due to exposure to avian proteins).\n\nThe presentation of HP can be acute or chronic. Acute disease usually involves recurrent episodes of abrupt-onset cough, dyspnea, fever, chills, and fatigue that correlate with intermittent antigen exposure. Chronic disease likely results from chronic, long-term antigen exposure, and presents with gradually progressive cough, dyspnea, fatigue, and weight loss over a period of several months. Lung crackles are present with both acute and chronic disease. Chest x-ray in acute disease is frequently normal, whereas diffuse reticular interstitial opacities are present with chronic disease as a network of interstitial inflammation and fibrosis develops. \n\nNormally, the leukocytes in alveolar fluid consist of approximately 85% alveolar macrophages, 10% lymphocytes, and a small percentage of neutrophils and eosinophils. With both acute and chronic HP, BAL usually shows high relative lymphocyte count (eg, >20%, often >50%), which helps support the diagnosis. Other causes of high relative lymphocyte count in BAL include sarcoidosis, lymphoma, and chronic fungal or mycobacterial infection.\n\n(Choice A) Asbestosis can present with progressive dyspnea and cough, but BAL typically shows increased neutrophils and characteristic asbestos bodies.\n\n(Choice B) Asthma is expected to cause wheezing rather than crackles on lung auscultation. BAL may show increased eosinophils as well as bronchial epithelial cells.\n\n(Choice C) Patients with gastroesophageal reflux disease can have chronic microaspiration, leading to respiratory symptoms (eg, cough, dyspnea). However, BAL typically shows increased neutrophils and characteristic lipid-laden macrophages that result from the aspiration of lipid-containing food or drink.\n\n(Choice E) BAL in cardiogenic pulmonary edema often demonstrates hemosiderin-laden macrophages, resulting from elevated pulmonary capillary hydrostatic pressure leading to extravasation of red blood cells into the alveoli. Leukocyte percentages are not significantly affected.\n\nEducational objective:\nHypersensitivity pneumonitis results from an exaggerated immunologic response to an inhaled antigen (eg, mold, animal protein), and presents with cough and dyspnea of variable acuity. Bronchoalveolar lavage typically shows high relative lymphocyte count (eg, >20%), which helps support the diagnosis.",
+    "zh": "这位患者有数月的无痰咳嗽和劳力性呼吸困难病史，以及以淋巴细胞为主的支气管肺泡灌洗（BAL）结果，最有可能患有超敏性肺炎（HP）。HP是由某些个体对吸入抗原（如霉菌、动物蛋白）产生的过度免疫反应引起的。最常受影响的人群包括农民（即，由于接触霉变的干草引起的农民肺）和养鸟人（即，由于接触禽类蛋白质引起的养鸟人肺）。\n\nHP的临床表现可以是急性的或慢性的。急性疾病通常涉及反复发作的突然出现的咳嗽、呼吸困难、发热、寒战和疲劳，这些症状与间断性抗原暴露相关。慢性疾病可能由慢性、长期的抗原暴露引起，并表现为数月内逐渐进展的咳嗽、呼吸困难、疲劳和体重减轻。急性疾病和慢性疾病均存在肺部啰音。急性疾病的胸部X线通常正常，而慢性疾病则出现弥漫性网状间质性混浊，表现为间质性炎症和纤维化的网络。\n\n正常情况下，肺泡液中的白细胞由大约85%的肺泡巨噬细胞、10%的淋巴细胞以及一小部分中性粒细胞和嗜酸性粒细胞组成。对于急性和慢性HP，BAL通常显示相对淋巴细胞计数高（例如，>20%，通常>50%），这有助于支持诊断。BAL中淋巴细胞计数升高的其他原因包括结节病、淋巴瘤以及慢性真菌或分枝杆菌感染。\n\n（选项A）石棉肺可表现为进行性呼吸困难和咳嗽，但BAL通常显示中性粒细胞增多和特征性的石棉小体。\n\n（选项B）哮喘预计会导致喘息而不是肺部听诊的啰音。BAL可能显示嗜酸性粒细胞和支气管上皮细胞增多。\n\n（选项C）患有胃食管反流病的患者可能会出现慢性微吸入，导致呼吸道症状（例如，咳嗽、呼吸困难）。然而，BAL通常显示中性粒细胞增多和特征性的脂质负荷巨噬细胞，这些巨噬细胞是由于吸入含脂食物或饮料造成的。\n\n（选项E）心源性肺水肿的BAL通常显示含铁血黄素巨噬细胞，这是由于肺毛细血管静水压升高导致红细胞外渗到肺泡中。白细胞百分比没有显著变化。\n\n教育目标：超敏性肺炎是由对吸入抗原（例如，霉菌、动物蛋白）的过度免疫反应引起的，并表现为不同程度的咳嗽和呼吸困难。支气管肺泡灌洗通常显示相对淋巴细胞计数高（例如，>20%），这有助于支持诊断。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hypersensitivity pneumonitis (HP), including its etiology, clinical presentation (acute vs. chronic), diagnostic findings (especially bronchoalveolar lavage), and differentiating it from other lung diseases. The key is recognizing the chronic symptoms, interstitial opacities, and lymphocyte-predominant BAL. \n\nTo solve this, focus on the combination of chronic respiratory symptoms, crackles on auscultation, interstitial opacities on imaging, and the high lymphocyte count in the bronchoalveolar lavage. Consider environmental exposures and rule out other causes of interstitial lung disease based on BAL findings.",
+    "zh": "这个问题测试对超敏性肺炎（HP）的认识，包括其病因、临床表现（急性和慢性）、诊断发现（尤其是支气管肺泡灌洗）以及与其他肺部疾病的鉴别。关键在于识别慢性症状、间质性混浊和以淋巴细胞为主的BAL。\n\n要解决这个问题，请关注慢性呼吸道症状、听诊时的啰音、影像学上的间质性混浊以及支气管肺泡灌洗中淋巴细胞计数高的组合。考虑环境暴露，并根据BAL结果排除其他间质性肺病的病因。"
+  },
+  "tags": "Hypersensitivity pneumonitis; Interstitial lung disease; Bronchoalveolar lavage; Lymphocytosis; Pulmonary fibrosis; Respiratory medicine; Environmental exposure; Farmer's lung; Bird fancier's lung",
+  "category": "Chest",
+  "question_id": "19244",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\19244",
+  "extracted_at": "2025-11-05T11:42:07.926711",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:37:22.175764",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

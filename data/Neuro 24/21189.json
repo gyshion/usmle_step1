@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 75-year-old man is brought to the office for evaluation due to memory loss and increasing confusion over the last 6 months. The patient is unable to manage his finances and occasionally gets lost in his neighborhood, needing to ask for directions. On examination, he can recall only 1 of 3 objects after 5 minutes. The patient performs poorly on cognitive assessment testing. Cranial nerves and gait are normal. T2-weighted MRI reveals multiple white matter abnormalities (hyperintensities) within the left frontal, bilateral parietal, and occipital white matter. Also noted are subcortical gray matter hyperintensities in the bilateral thalamus. {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "一名75岁男性因记忆力减退和过去6个月内日益加重的意识模糊而前来就诊。患者无法管理财务，并且偶尔在居住的社区迷路，需要问路。检查时，5分钟后他只能回忆起3个物体中的1个。患者在认知评估测试中表现不佳。颅神经和步态正常。T2加权MRI显示左额叶、双侧顶叶和枕叶白质内有多发白质异常（高信号）。还注意到双侧丘脑内有皮质下灰质高信号。{{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Alzheimer dementia",
+      "zh": "阿尔茨海默病痴呆"
+    },
+    "B": {
+      "en": "Brain metastases",
+      "zh": "脑转移瘤"
+    },
+    "C": {
+      "en": "Multiple sclerosis",
+      "zh": "多发性硬化症"
+    },
+    "D": {
+      "en": "Vascular dementia",
+      "zh": "血管性痴呆"
+    },
+    "E": {
+      "en": "Wernicke encephalopathy",
+      "zh": "韦尼克脑病"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has had a relatively abrupt cognitive decline with prominent executive dysfunction (eg, managing finances, getting lost). Neuroimaging reveals scattered lesions in the white matter and subcortical gray matter, especially the thalamus. This is consistent with vascular dementia (VaD), which often occurs due to one of the following mechanisms:\n\n*   Atherosclerosis of large vessels (eg, basilar arteries, carotid arteries, circle of Willis): Plaque accumulation narrows the lumen; plaque rupture can lead to thrombosis and thromboembolism, often causing a clinical stroke, resulting in localized neurologic deficits. MRI would reveal a discrete cortical infarct.\n*   Small-vessel disease, which includes the development of microatheromas and arteriosclerosis (ie, thickening and stiffening of arteriole walls): Small-vessel disease can lead to microaneurysm formation, obstruction, or breakage of the vessel walls. It more often impacts subcortical regions (eg, thalamus, basal ganglia) because there is less arteriole collateralization in these regions compared to the cerebral cortex. MRI often reveals signs of multiple small infarcts or microbleeds in these areas.\n*   Cerebral amyloid angiopathy: Beta-amyloid deposits in the walls of small to medium cerebral arteries and leads to increased fragility of the vessels. Although the most common manifestation is spontaneous, lobar intracranial hemorrhage, it can also cause multiple small infarcts and present as VaD.\n\n(Choice A) Although patients with Alzheimer dementia also have progressive memory loss with functional impairments, this disease often has a more insidious onset than VaD. MRI typically reveals parietotemporal cortical atrophy with no evidence of structural disease.\n\n(Choice B) Although brain metastases can result in a rapidly deteriorating mental status, they most often cause focal neurologic findings, which are not seen in this patient, and would be visible on MRI as mass lesions, usually located at the gray-white matter junction.\n\n(Choice C) MRI in a patient with multiple sclerosis can reveal hyperintensities corresponding to demyelinating plaques, typically located in the periventricular areas. However, MS typically presents in young women (age <50) with neurologic deficits (eg, blurry vision, diplopia, focal weakness/numbness, bowel/bladder dysfunction) disseminated in time and space.\n\n(Choice E) Although Wernicke encephalopathy (due to thiamine deficiency) can present with cognitive deficits, the classic triad consists of oculomotor dysfunction, ataxia, and encephalopathy. Chronic thiamine deficiency results in anterograde and retrograde amnesia, confabulation, and apathy. MRI reveals hyperintensities most commonly affecting the mammillary bodies and periaqueductal gray matter.",
+    "zh": "该患者出现了相对突然的认知能力下降，伴有突出的执行功能障碍（例如，管理财务、迷路）。神经影像学检查显示白质和皮质下灰质有散在病灶，特别是丘脑。这与血管性痴呆（VaD）一致，血管性痴呆通常是由于以下机制之一引起的：\n\n*   大血管动脉粥样硬化（例如，基底动脉、颈动脉、Willis环）：斑块积聚使管腔狭窄；斑块破裂可导致血栓形成和血栓栓塞，常引起临床中风，导致局灶性神经功能缺损。MRI将显示局限性皮质梗死。\n*   小血管疾病，包括微动脉粥样硬化和动脉硬化（即，小动脉壁增厚和僵硬）：小血管疾病可导致微动脉瘤形成、阻塞或血管壁破裂。与大脑皮质相比，这些区域的小动脉侧支循环较少，因此它更容易影响皮质下区域（例如，丘脑、基底神经节）。MRI通常显示这些区域内多发小梗死或微出血的迹象。\n*   脑淀粉样血管病：β-淀粉样蛋白沉积在中小型脑动脉壁中，导致血管脆性增加。虽然最常见的表现是自发性、叶间颅内出血，但它也可能导致多发小梗死，并表现为VaD。\n\n（选项A）虽然阿尔茨海默病痴呆患者也存在进行性记忆力减退和功能障碍，但该病的起病通常比VaD更隐匿。MRI通常显示顶颞皮质萎缩，无结构性疾病的证据。\n\n（选项B）虽然脑转移瘤可导致精神状态迅速恶化，但它们最常引起局灶性神经学表现，而这些在患者中并未观察到，并且在MRI上可见为占位性病变，通常位于灰质-白质交界处。\n\n（选项C）多发性硬化症患者的MRI可显示与脱髓鞘斑块对应的高信号，通常位于脑室周围区域。然而，MS通常在年轻女性（年龄<50岁）中表现为神经功能缺损（例如，视力模糊、复视、局灶性无力/麻木、肠/膀胱功能障碍），且呈时间性和空间性播散。\n\n（选项E）虽然韦尼克脑病（由于硫胺素缺乏症）可表现为认知缺陷，但其经典三联征包括动眼神经功能障碍、共济失调和脑病。慢性硫胺素缺乏会导致顺行性和逆行性遗忘症、虚构症和冷漠。MRI显示高信号，最常影响乳头体和导水管周围灰质。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the clinical presentation and neuroimaging findings associated with vascular dementia, differentiating it from other causes of cognitive decline. It emphasizes the importance of correlating patient history, examination findings, and MRI results to arrive at the correct diagnosis.\n\nThe approach to solving this question involves identifying key features in the clinical vignette, such as the abrupt onset of cognitive decline and executive dysfunction, and correlating these with the specific MRI findings of white matter and subcortical gray matter hyperintensities. By considering the differential diagnoses and their characteristic presentations and imaging patterns, one can systematically eliminate incorrect options and arrive at the most likely diagnosis.",
+    "zh": "此题考察对血管性痴呆相关临床表现和神经影像学发现的理解，并将其与其他原因引起的认知能力下降区分开来。它强调了将患者病史、检查结果和MRI结果关联起来以得出正确诊断的重要性。\n\n解决此问题的方法包括识别临床病例中的关键特征，例如认知能力下降的突然发作和执行功能障碍，并将这些与白质和皮质下灰质高信号的特定MRI发现相关联。通过考虑鉴别诊断及其特征性表现和影像学模式，可以系统地排除不正确的选项，并得出最可能的诊断。"
+  },
+  "tags": "Vascular dementia; Cognitive impairment; Neuroimaging; MRI; White matter lesions; Executive dysfunction; Atherosclerosis; Small vessel disease; Cerebral amyloid angiopathy; Alzheimer dementia; Brain metastases; Multiple sclerosis; Wernicke encephalopathy",
+  "category": "Neuro",
+  "question_id": "21189",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\21189",
+  "extracted_at": "2025-11-05T19:39:23.397315",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:39:25.333690",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

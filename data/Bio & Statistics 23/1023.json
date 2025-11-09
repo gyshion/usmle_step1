@@ -1,0 +1,78 @@
+{
+  "question_stem": {
+    "en": "A 5-month-old boy is brought to the office due to poor feeding. His mother says that he has difficulty holding his head up while breastfeeding and his suckling seems weaker than usual. Weight is at the 5th percentile. Length and head circumference are tracking along the 25th percentile. Physical examination shows hepatomegaly and hypotonia in all 4 limbs. Cardiac auscultation shows a gallop rhythm, and chest x-ray reveals severe cardiomegaly. Muscle biopsy shows enlarged lysosomes containing periodic acid-Schiff (PAS)-positive material.",
+    "zh": "一名5个月大的男孩因喂养不良被带到诊所。他的母亲说，他在母乳喂养时难以抬头，吸吮似乎比平时弱。体重处于第5百分位数。身长和头围跟踪第25百分位数。体格检查显示肝肿大和四肢肌张力低下。心脏听诊显示奔马律，胸部X光片显示严重的cardiomegaly。肌肉活检显示扩大的溶酶体，其中含有过碘酸-希夫(PAS)阳性物质。"
+  },
+  "question": {
+    "en": "Which of the following enzymes is most likely deficient in this patient?",
+    "zh": "该患者最有可能缺乏以下哪种酶？"
+  },
+  "options": {
+    "A": {
+      "en": "Acid alpha-glucosidase",
+      "zh": "酸性α-葡萄糖苷酶"
+    },
+    "B": {
+      "en": "Galactokinase",
+      "zh": "半乳糖激酶"
+    },
+    "C": {
+      "en": "Glucose-6-phosphatase",
+      "zh": "葡萄糖-6-磷酸酶"
+    },
+    "D": {
+      "en": "Glycogen debrancher enzyme",
+      "zh": "糖原脱支酶"
+    },
+    "E": {
+      "en": "Glycogen phosphorylase",
+      "zh": "糖原磷酸化酶"
+    },
+    "F": {
+      "en": "Pyruvate kinase",
+      "zh": "丙酮酸激酶"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient most likely has glycogen storage disease type II (Pompe disease). This condition is caused by deficiency of acid alpha-glucosidase (alpha-1,4 glucosidase or acid maltase), an enzyme responsible for breaking down glycogen within the acidic environment of lysosomes. Although most glycogen is degraded in the cytoplasm, a small percentage is inadvertently engulfed by lysosomes, especially in cells containing high amounts of glycogen such as hepatocytes and myocytes. Deficiency of acid maltase results in pathologic accumulation of glycogen within liver and muscle lysosomes. Cardiac and skeletal muscle are particularly susceptible because the ballooning lysosomes interfere with contractile function.\n\nThe classic form of the disease presents in early infancy with marked cardiomegaly, severe generalized hypotonia, macroglossia, and hepatomegaly. Blood glucose levels are normal, unlike with glycogen storage diseases that primarily affect the liver (eg, von Gierke disease). A key distinguishing feature is that muscle biopsy will show accumulation of glycogen in lysosomes.\n\n(Choice B) Galactokinase catalyzes the phosphorylation of galactose to galactose-1-phosphate in the first committed step of galactose catabolism. Galactokinase deficiency causes neonatal cataract formation due to accumulation of galactitol in the lens.\n\n(Choices C, D, and E) Other glycogen storage diseases are caused by deficiencies of glucose-6-phosphatase, glycogen phosphorylase, and glycogen debrancher enzyme (debranching enzyme). However, glycogen accumulation within lysosomal vacuoles is specific for acid alpha-glucosidase deficiency.\n\n(Choice F) Pyruvate kinase deficiency causes chronic hemolytic anemia, splenomegaly, and iron overload as a result of impaired erythrocyte survival.\n\nEducational objective:\nAcid maltase (alpha-glucosidase) deficiency presents in early infancy with cardiomegaly, macroglossia, and profound muscular hypotonia. Abnormal glycogen accumulation within lysosomal vesicles is seen on muscle biopsy.",
+    "zh": "该患者最有可能患有II型糖原累积病 (庞贝病)。这种情况是由酸性α-葡萄糖苷酶（α-1,4-葡萄糖苷酶或酸性麦芽糖酶）缺乏引起的，该酶负责在溶酶体的酸性环境中分解糖原。尽管大多数糖原在细胞质中降解，但有一小部分会被溶酶体无意地吞噬，特别是在含有大量糖原的细胞中，如肝细胞和肌细胞。酸性麦芽糖酶缺乏会导致肝脏和肌肉溶酶体内糖原的病理性积累。心脏和骨骼肌特别容易受到影响，因为膨胀的溶酶体干扰收缩功能。\n\n该病的典型形式在婴儿早期表现为明显的cardiomegaly、严重的全身性肌张力低下、巨舌症和肝肿大。血糖水平正常，这与主要影响肝脏的糖原累积病（例如，von Gierke病）不同。一个关键的区别特征是肌肉活检将显示溶酶体中糖原的积累。\n\n(选项B) 半乳糖激酶催化半乳糖磷酸化为半乳糖-1-磷酸，这是半乳糖分解代谢的第一个承诺步骤。半乳糖激酶缺乏会导致新生儿白内障形成，原因是晶状体内半乳糖醇的积累。\n\n(选项C、D和E) 其他糖原累积病是由葡萄糖-6-磷酸酶、糖原磷酸化酶和糖原脱支酶（脱支酶）缺乏引起的。然而，溶酶体空泡内糖原的积累是酸性α-葡萄糖苷酶缺乏的特异性表现。\n\n(选项F) 丙酮酸激酶缺乏会导致慢性溶血性贫血、脾肿大和铁超载，原因是红细胞存活受损。\n\n教育目标：\n酸性麦芽糖酶 (α-葡萄糖苷酶) 缺乏症在婴儿早期表现为cardiomegaly、巨舌症和严重的肌肉张力低下。在肌肉活检中可见溶酶体囊泡内糖原的异常积累。"
+  },
+  "summary": {
+    "en": "A 5-month-old with poor feeding, hypotonia, cardiomegaly, and hepatomegaly, along with muscle biopsy showing glycogen accumulation in lysosomes, suggests Pompe disease (glycogen storage disease type II) due to acid alpha-glucosidase deficiency.",
+    "zh": "一名5个月大的婴儿，喂养不良、肌张力低下、cardiomegaly和肝肿大，以及肌肉活检显示溶酶体中糖原积累，提示庞贝病（II型糖原累积病），是由于酸性α-葡萄糖苷酶缺乏所致。"
+  },
+  "tags": [
+    "Biochemistry",
+    "Genetics",
+    "Pediatrics",
+    "Glycogen Storage Disease",
+    "Pompe Disease",
+    "Acid Alpha-Glucosidase",
+    "Lysosomes",
+    "Cardiomegaly",
+    "Hypotonia",
+    "Hepatomegaly",
+    "Muscle Biopsy"
+  ],
+  "category": "Bio",
+  "question_id": "1023",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1023",
+  "extracted_at": "2025-11-05T10:58:47.723209",
+  "extraction_config": {
+    "temperature": 0.5,
+    "top_k": 60,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T15:43:17.089418",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

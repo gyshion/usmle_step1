@@ -1,0 +1,70 @@
+{
+  "question_stem": {
+    "en": "A 28-year-old previously healthy man comes to the office due to episodic fevers, night sweats, and weight loss for several months. He emigrated from Kenya with his family at age 14. He does not use tobacco, alcohol, or illicit drugs. The patient works as a driving instructor and volunteers at a homeless shelter. His temperature is 37.2 C (99 F). Physical examination is normal with the exception of cervical lymphadenopathy. A lymph node biopsy is performed, and histopathologic findings are shown in the image below {{exhibit_1}}.",
+    "zh": "一名先前健康的28岁男性因数月来反复发烧、盗汗和体重减轻而就诊。他14岁时随家人从肯尼亚移民。他不吸烟、不饮酒，也不吸食违禁药物。患者是一名驾驶教练，并在一家流浪者收容所做志愿者。他的体温为37.2摄氏度（99华氏度）。体格检查正常，但有颈部淋巴结肿大。进行了淋巴结活检，组织病理学发现见下图 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Burkitt lymphoma",
+      "zh": "伯基特淋巴瘤"
+    },
+    "B": {
+      "en": "Follicular lymphoma",
+      "zh": "滤泡性淋巴瘤"
+    },
+    "C": {
+      "en": "Hodgkin lymphoma",
+      "zh": "霍奇金淋巴瘤"
+    },
+    "D": {
+      "en": "Large B-cell lymphoma",
+      "zh": "大B细胞淋巴瘤"
+    },
+    "E": {
+      "en": "Multiple myeloma",
+      "zh": "多发性骨髓瘤"
+    },
+    "F": {
+      "en": "Tuberculosis",
+      "zh": "结核病"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient most likely has classic Hodgkin lymphoma (HL). The typical presentation is either nontender lymphadenopathy or lymphadenopathy incidentally detected on routine chest x-ray. Many patients develop associated systemic B symptoms (fevers, night sweats, weight loss). HL has a bimodal age distribution with a peak in the 20s (or younger in some countries) and another in the 60s. The complete blood count and peripheral blood smear are usually unremarkable.\n\nA lymph node biopsy {{exhibit_2}} can distinguish HL from benign causes of lymphadenopathy. The key to diagnosing classic HL is detecting the characteristic Reed-Sternberg (RS) cell on hematoxylin and eosin preparation. RS cells have ample cytoplasm, a multilobed nucleus or multiple nuclei, and inclusion-like nucleoli. RS cells are seen against a background of lymphocytes, histiocytes, and eosinophils in classic HL.\n\n(Choice A) Burkitt lymphoma often presents as a mass in the abdomen/pelvis (or the jaw in the endemic [African] form, which has a peak incidence in boys around age 5). However, histology would show a monotonous population of medium-sized lymphoid cells with many tingible body macrophages, giving a \"starry sky\" appearance. High numbers of mitotic cells and apoptotic bodies would be seen.\n\n(Choice B) Follicular lymphoma shows aggregates of closely packed, neoplastic lymph node follicles. Two major cell types, centrocytes (small cleaved cells) and centroblasts (large noncleaved cells), are observed. Older adults tend to be affected. Waxing and waning painless lymphadenopathy (typically without B symptoms) is common.\n\n(Choice D) Large B-cell lymphoma is characterized by diffuse sheets of large, atypical lymphoid cells with nuclei at least 5 times the size of small lymphocytes. RS cells against a background of mixed inflammation is not a characteristic histologic feature of large B-cell lymphoma.\n\n(Choice E) Multiple myeloma, a plasma cell dyscrasia characterized by proliferation of clonal plasma cells, is predominantly a disease of the elderly. It is characterized by osteolytic lesions, although spread to nodal and extranodal sites can occur.\n\n(Choice F) Tuberculosis is on the differential diagnosis for this patient, who is from Kenya, volunteers at homeless shelters, and has night sweats and weight loss. However, histology in tuberculosis would show caseating granulomas, not RS cells.\n\nEducational objective:\nThe presence of Reed-Sternberg (RS) cells on lymph node biopsy {{exhibit_3}} is a diagnostic feature of classic Hodgkin lymphoma. RS cells have abundant cytoplasm, a multilobed nucleus or multiple nuclei, and inclusion-like nucleoli. {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}}",
+    "zh": "该患者最有可能患有经典型霍奇金淋巴瘤 (HL)。典型表现为无痛性淋巴结肿大或在常规胸部X光检查中偶然发现的淋巴结肿大。许多患者会出现相关的全身性B症状（发烧、盗汗、体重减轻）。HL呈双峰年龄分布，一个高峰在20多岁（或在某些国家/地区更年轻），另一个在60多岁。全血细胞计数和外周血涂片通常无特殊发现。\n\n淋巴结活检 {{exhibit_2}} 可以区分HL和淋巴结肿大的良性原因。诊断经典型HL的关键是在苏木精和伊红染色切片上检测到特征性的Reed-Sternberg (RS) 细胞。RS细胞具有丰富的细胞质、多叶核或多个核以及包涵体样的核仁。在经典型HL中，RS细胞可见于淋巴细胞、组织细胞和嗜酸性粒细胞的背景下。\n\n(选项 A) 伯基特淋巴瘤通常表现为腹部/骨盆肿块（或在地方性[非洲]形式中为颌骨肿块，这种形式在5岁左右的男孩中发病率最高）。然而，组织学显示单调的中等大小淋巴样细胞群，伴有许多吞噬体巨噬细胞，呈现“星空”外观。可见大量有丝分裂细胞和凋亡小体。\n\n(选项 B) 滤泡性淋巴瘤显示紧密堆积的、肿瘤性淋巴结滤泡聚集。观察到两种主要细胞类型，中心细胞（小裂细胞）和母细胞（大非裂细胞）。老年人容易受到影响。常见的有缓解和复发的无痛性淋巴结肿大（通常没有B症状）。\n\n(选项 D) 大B细胞淋巴瘤的特征是弥漫分布的大、非典型淋巴样细胞，其核至少是小淋巴细胞的5倍大。RS细胞在混合炎症背景下不是大B细胞淋巴瘤的特征性组织学特征。\n\n(选项 E) 多发性骨髓瘤是一种以克隆浆细胞增殖为特征的浆细胞病，主要发生于老年人。其特征是溶骨性病变，尽管可能会扩散到淋巴结和淋巴结外部位。\n\n(选项 F) 结核病是该患者的鉴别诊断，该患者来自肯尼亚，在流浪者收容所做志愿者，并有盗汗和体重减轻。然而，结核病的组织学表现为干酪样肉芽肿，而不是RS细胞。\n\n教学目标：\n淋巴结活检中存在Reed-Sternberg (RS) 细胞 {{exhibit_3}} 是经典型霍奇金淋巴瘤的诊断特征。RS细胞具有丰富的细胞质、多叶核或多个核以及包涵体样的核仁。{{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}}"
+  },
+  "summary": {
+    "en": "This question tests the ability to recognize Hodgkin lymphoma based on clinical presentation (B symptoms, lymphadenopathy) and histopathological findings (Reed-Sternberg cells). It also requires differentiating Hodgkin lymphoma from other lymphomas and conditions like tuberculosis.\n\nTo solve this question, focus on the patient's age, symptoms, and the key finding of Reed-Sternberg cells on lymph node biopsy. Rule out other lymphomas based on their typical presentations and histological features. Consider the patient's travel history and risk factors for tuberculosis, but prioritize the biopsy results.",
+    "zh": "此题测试根据临床表现（B症状、淋巴结肿大）和组织病理学发现（Reed-Sternberg细胞）识别霍奇金淋巴瘤的能力。它还需要将霍奇金淋巴瘤与其他淋巴瘤和疾病（如结核病）区分开来。\n\n要解决这个问题，重点关注患者的年龄、症状以及淋巴结活检中Reed-Sternberg细胞的关键发现。根据其他淋巴瘤的典型表现和组织学特征排除它们。考虑患者的旅行史和结核病的危险因素，但优先考虑活检结果。"
+  },
+  "tags": "Hodgkin lymphoma; Lymphadenopathy; B symptoms; Reed-Sternberg cells; Lymph node biopsy; Hematology; Oncology; Tuberculosis; Burkitt lymphoma; Follicular lymphoma",
+  "category": "Blood",
+  "question_id": "1626",
+  "has_exhibits": true,
+  "exhibit_count": 7,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1626",
+  "extracted_at": "2025-11-05T11:26:17.298759",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:28:34.696791",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

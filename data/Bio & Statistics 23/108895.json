@@ -1,0 +1,59 @@
+{
+  "question_stem": {
+    "en": "Researchers are studying a specific gene in rats. This gene has 2 allelic variants: A and C. Rats with the AA and AC genotypes manifest the dominant trait, and rats with the CC genotype develop the recessive trait. In a population of 300 rats, the researchers observe the genotype distribution shown below:\n\nAA 100\nAC 120\nCC 80",
+    "zh": "研究人员正在研究大鼠体内的特定基因。该基因有 2 个等位基因变体：A 和 C。具有 AA 和 AC 基因型的老鼠表现出显性性状，而具有 CC 基因型的老鼠则表现出隐性性状。在一个由 300 只大鼠组成的种群中，研究人员观察到如下所示的基因型分布：\n\nAA 100\nAC 120\nCC 80"
+  },
+  "question": {
+    "en": "Which of the following represents the frequency of the C allele currently in this population?",
+    "zh": "以下哪项代表该种群中 C 等位基因的当前频率？"
+  },
+  "options": {
+    "A": {
+      "en": "80/300",
+      "zh": "80/300"
+    },
+    "B": {
+      "en": "120/300",
+      "zh": "120/300"
+    },
+    "C": {
+      "en": "200/300",
+      "zh": "200/300"
+    },
+    "D": {
+      "en": "120/600",
+      "zh": "120/600"
+    },
+    "E": {
+      "en": "160/600",
+      "zh": "160/600"
+    },
+    "F": {
+      "en": "280/600",
+      "zh": "280/600"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "Allele frequency\nFrequency of C allele = C alleles / Total alleles\n= (Homozygous recessive rats (2) + heterozygous rats) / Number of rats (2)\n= (80(2) + 120) / 300(2)\n= 280/600\n\nThe frequency of an allele (eg, C) in a population is equal to the number of that specific allele divided by the total number of alleles (eg, A + C) in the population.\n\nIn this study, the frequency of the C allele is calculated as follows:\n\n*   The number of C alleles is the sum of C alleles in CC rats (2 C alleles in each of 80 CC rats, or 160) and C alleles in AC rats (1 C allele in each of 120 AC rats). This is 280 C alleles.\n*   Because each rat has 2 alleles, there are 600 total alleles in this population of 300 rats.\n\nTherefore, the frequency of the C allele is 280/600 (Choices C, D, and E).\n\n(Choices A and B) The values 80/300 and 120/300 represent the frequencies of the CC and AC genotypes, respectively, in this population, not the frequency of a specific allele.\n\nEducational objective:\nThe frequency of an allele is equal to the number of that specific allele divided by the total number of alleles in the population.",
+    "zh": "等位基因频率\nC 等位基因的频率 = C 等位基因 / 总等位基因\n= (纯合隐性老鼠 (2) + 杂合老鼠) / 老鼠数量 (2)\n= (80(2) + 120) / 300(2)\n= 280/600\n\n一个种群中等位基因（例如，C）的频率等于该特定等位基因的数量除以种群中总等位基因（例如，A + C）的数量。\n\n在本研究中，C 等位基因的频率计算如下：\n\n*   C 等位基因的数量是 CC 老鼠中 C 等位基因的总和（每只 80 只 CC 老鼠中有 2 个 C 等位基因，即 160 个）和 AC 老鼠中 C 等位基因的总和（每只 120 只 AC 老鼠中有 1 个 C 等位基因）。 这是 280 个 C 等位基因。\n*   因为每只老鼠有 2 个等位基因，所以在这个由 300 只老鼠组成的种群中总共有 600 个等位基因。\n\n因此，C 等位基因的频率为 280/600（选项 C、D 和 E）。\n\n（选项 A 和 B）值 80/300 和 120/300 分别代表该种群中 CC 和 AC 基因型的频率，而不是特定等位基因的频率。\n\n教育目标：\n等位基因的频率等于该特定等位基因的数量除以种群中总等位基因的数量。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of population genetics, specifically how to calculate allele frequencies within a population based on genotype distribution. The frequency of an allele is the number of that specific allele divided by the total number of alleles in the population. \n\nTo solve this type of question, first determine the number of copies of the allele of interest by considering both homozygous and heterozygous genotypes. Then divide this number by the total number of alleles in the population, which is twice the population size for diploid organisms.",
+    "zh": "这个问题考察了种群遗传学的知识，特别是如何根据基因型分布计算种群内的等位基因频率。等位基因的频率是该特定等位基因的数量除以种群中等位基因的总数。\n\n要解决这种类型的问题，首先要通过考虑纯合子和杂合子的基因型来确定目标等位基因的拷贝数。然后将该数字除以种群中等位基因的总数，对于二倍体生物来说，这个总数是种群大小的两倍。"
+  },
+  "tags": "Population genetics; Allele frequency; Genotype distribution; Hardy-Weinberg principle; Biostatistics",
+  "category": "Bio",
+  "question_id": "108895",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\108895",
+  "extracted_at": "2025-11-05T10:27:20.178834",
+  "translated_at": "2025-11-07T15:44:17.873911",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

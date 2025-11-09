@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 39-year-old man comes to the office due to increasing fatigue for the past 2 weeks. The patient reports no prior medical conditions, although he recently had a self-limiting upper respiratory illness. He does not use tobacco, alcohol, or illicit drugs and has not traveled recently. Temperature is 37.2 C (99 F), blood pressure is 116/66 mm Hg, pulse is 100/min, and respirations are 20/min. Physical examination reveals lung crackles. Echocardiography shows no valvular abnormalities and the following parameters:\n\nLeft ventricular end-diastolic volume 125 mL\n\nLeft ventricular end-systolic volume 75 mL",
+    "zh": "一名39岁的男性因过去2周内日益增加的疲劳感前来就诊。患者自诉既往无任何病史，尽管他最近患有自限性上呼吸道疾病。他不吸烟、不饮酒、不吸毒，并且近期没有旅行。体温为37.2°C（99°F），血压为116/66 mmHg，脉搏为100次/分，呼吸频率为20次/分。体格检查显示肺部有爆裂音。超声心动图显示无瓣膜异常，并具有以下参数：\n\n左心室舒张末期容积125 mL\n\n左心室收缩末期容积75 mL"
+  },
+  "question": {
+    "en": "Based on the observed findings, which of the following is most accurate about this patient?",
+    "zh": "基于观察到的结果，关于该患者，以下哪项最准确？"
+  },
+  "options": {
+    "A": {
+      "en": "Cardiac output is 4 L/min",
+      "zh": "心输出量为4 L/min"
+    },
+    "B": {
+      "en": "Cardiac output is 6 L/min",
+      "zh": "心输出量为6 L/min"
+    },
+    "C": {
+      "en": "Left ventricular ejection fraction is 40%",
+      "zh": "左心室射血分数是40%"
+    },
+    "D": {
+      "en": "Left ventricular ejection fraction is 60%",
+      "zh": "左心室射血分数是60%"
+    },
+    "E": {
+      "en": "Stroke volume is 40 mL",
+      "zh": "每搏输出量为40 mL"
+    },
+    "F": {
+      "en": "Stroke volume is 60 mL",
+      "zh": "每搏输出量为60 mL"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Left ventricular stroke volume is the absolute volume of blood ejected from the left ventricle with each contraction. It is calculated by subtracting the volume of blood in the left ventricle at the end of contraction, the left ventricular end-systolic volume, from the volume of blood in the left ventricle at the beginning of contraction, the left ventricular end-diastolic volume (LVEDV). This patient's stroke volume is 50 mL (125 mL – 75 mL), which is lower than the expected normal value of approximately 70 mL.\n\nEjection fraction, the relative volume of blood ejected from the left ventricle with each contraction, is calculated by dividing stroke volume by LVEDV. In this patient, the ejection fraction is 0.4 (50 mL / 125 mL). The fraction is typically multiplied by 100 and expressed as a percentage; therefore, this patient's left ventricular ejection fraction is 40% (0.4 × 100), which is lower than the expected normal value of ≥50%.\n\nCardiac output, the volume of blood ejected into the aorta per unit time, is estimated by multiplying stroke volume by heart rate. This patient's cardiac output is 5 L/min (50 mL × 100/min), which is normal. Although it is not pertinent to this patient, this equation overestimates cardiac output in the setting of mitral regurgitation because a portion of the stroke volume flows backward into the left atrium with each contraction.\n\nThis patient's presentation is consistent with left ventricular systolic dysfunction leading to heart failure with reduced ejection fraction. He has only mild symptoms at present because the low stroke volume is being compensated by an elevated heart rate to maintain cardiac output; however, further decompensation with reduced cardiac output is likely over time.",
+    "zh": "左心室每搏输出量是每次收缩时从左心室射出的血液的绝对量。它是通过从收缩结束时左心室内的血容量（左心室收缩末期容积）中减去收缩开始时左心室内的血容量（左心室舒张末期容积[LVEDV]）来计算的。该患者的每搏输出量为50 mL（125 mL – 75 mL），低于约70 mL的预期正常值。\n\n射血分数是每次收缩时从左心室射出的血液的相对量，通过将每搏输出量除以LVEDV来计算。对于该患者，射血分数为0.4（50 mL / 125 mL）。该分数通常乘以100并表示为百分比；因此，该患者的左心室射血分数为40%（0.4 × 100），低于≥50%的预期正常值。\n\n心输出量是单位时间内射入主动脉的血量，通过将每搏输出量乘以心率来估算。该患者的心输出量为5 L/min（50 mL × 100/min），属于正常范围。虽然这与该患者无关，但该方程在二尖瓣反流的情况下会高估心输出量，因为每次收缩时，部分每搏输出量会向后流入左心房。\n\n该患者的临床表现与左心室收缩功能障碍导致射血分数降低的心力衰竭一致。他目前仅有轻微症状，因为低每搏输出量通过心率升高来代偿以维持心输出量；然而，随着时间的推移，可能会出现心输出量降低的进一步失代偿。"
+  },
+  "summary": {
+    "en": "This question tests the ability to calculate stroke volume, ejection fraction, and cardiac output based on echocardiography parameters and to relate these findings to potential underlying cardiac conditions. The question requires understanding of the formulas for stroke volume (LVEDV - LVESV), ejection fraction (stroke volume / LVEDV), and cardiac output (stroke volume x heart rate).\n\nTo solve this question, first calculate the stroke volume (125 mL - 75 mL = 50 mL). Then, calculate the ejection fraction (50 mL / 125 mL = 0.4 or 40%). Finally, calculate the cardiac output (50 mL x 100 bpm = 5000 mL/min or 5 L/min). Based on these calculations, the most accurate statement is that the left ventricular ejection fraction is 40%.",
+    "zh": "此问题测试根据超声心动图参数计算每搏输出量、射血分数和心输出量的能力，并将这些发现与潜在的潜在心脏疾病联系起来。 这个问题需要理解每搏输出量（LVEDV - LVESV）、射血分数（每搏输出量 / LVEDV）和心输出量（每搏输出量 x 心率）的公式。\n\n要解决这个问题，首先计算每搏输出量（125 mL - 75 mL = 50 mL）。 然后，计算射血分数（50 mL / 125 mL = 0.4或40%）。 最后，计算心输出量（50 mL x 100次/分 = 5000 mL/min或5 L/min）。 基于这些计算，最准确的陈述是左心室射血分数是40%。"
+  },
+  "tags": "Stroke volume; Ejection fraction; Cardiac output; Heart failure; Left ventricular systolic dysfunction; Cardiology; Echocardiography",
+  "category": "CVS",
+  "question_id": "15526",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\15526",
+  "extracted_at": "2025-11-05T11:59:29.759050",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:49:27.981364",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

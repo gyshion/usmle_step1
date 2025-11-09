@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old woman comes to the office due to a persistent sensation of warmth. For the last 6 months she has felt unusually warm compared to others in the room. The patient has no medical problems and takes no medications or supplements. She does not use tobacco, alcohol, or illicit drugs. Family history is significant for hypothyroidism in her mother. Temperature is 36.7 C (98 F), blood pressure is 130/80 mm Hg, and pulse is 104/min. BMI is 20 kg/m². On physical examination, the patient appears anxious and has a staring gaze. There is exophthalmos, lid lag, and a diffusely enlarged thyroid with an audible thyroid bruit. The patient has a fine tremor on outstretched arms, and the skin is warm and moist. Antibodies directed against which of the following are most likely to be found in this patient? {{exhibit_1}}",
+    "zh": "一名32岁的女性因持续性发热感来诊。在过去的6个月里，她感觉比房间里的其他人异常热。患者无既往病史，不服用任何药物或补充剂。她不吸烟、不饮酒，也不使用违禁药物。家族史中有母亲患甲状腺功能减退症。体温36.7摄氏度（98华氏度），血压130/80毫米汞柱，脉搏104次/分。BMI为20 kg/m²。体格检查显示患者焦虑，凝视。有眼球突出、眼睑迟滞，以及弥漫性甲状腺肿大伴可闻及的甲状腺杂音。患者伸展手臂时有细微震颤，皮肤温暖潮湿。针对以下哪种抗体的抗体最有可能在该患者体内被发现？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Antibodies directed against which of the following are most likely to be found in this patient?",
+    "zh": "针对以下哪种抗体的抗体最有可能在该患者体内被发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Thyroglobulin",
+      "zh": "甲状腺球蛋白"
+    },
+    "B": {
+      "en": "Thyroid peroxidase",
+      "zh": "甲状腺过氧化物酶"
+    },
+    "C": {
+      "en": "Thyrotropin receptor",
+      "zh": "促甲状腺激素受体"
+    },
+    "D": {
+      "en": "Thyroxine",
+      "zh": "甲状腺素"
+    },
+    "E": {
+      "en": "Triiodothyronine",
+      "zh": "三碘甲状腺原氨酸"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has signs of hyperthyroidism, including heat intolerance, tachycardia, and lid lag. In light of her diffuse goiter and exophthalmos this is very likely due to Graves disease. Graves disease is an autoimmune disorder triggered by thyrotropin receptor antibodies (TRAb), which bind and activate the TSH receptor. In addition to the thyroid, the TSH receptor antigen is present on other cell types, including fibroblasts and adipocytes. Graves ophthalmopathy is characterized by ocular irritation, impaired extraocular motion, and proptosis; it is caused by T-cell activation and stimulation of orbital fibroblasts by TRAb, leading to expansion of extraocular muscles and retro-orbital tissues.\n\nTRAb binds to extracellular domains on the TSH receptor, a transmembrane G protein-coupled receptor. The Gₛ alpha subunit activates adenylate cyclase and subsequently the adenylate cyclase second messenger system. Serum TRAb immunoassays have a high sensitivity (97%) and specificity (99%) for Graves disease, although they detect both activating and blocking anti-TSH receptor antibodies. Activating antibodies can be confirmed with a functional bioassay (thyroid-stimulating immunoglobulin) that measures cyclic AMP production by a TSH-receptor-expressing cell line in response to patient serum. {{exhibit_2}}\n\n(Choice A) Antibodies to thyroglobulin are thought to reflect disruption of thyroid follicles, which exposes thyroglobulin to the bloodstream. They are present in a number of autoimmune thyroid disorders but are most common in autoimmune hypothyroidism and are present in only a minority of patients with Graves disease.\n\n(Choice B) Thyroid peroxidase antibodies are most closely associated with Hashimoto thyroiditis and related disorders (eg, silent thyroiditis, postpartum thyroiditis). Hyperthyroidism with exophthalmos is most consistent with Graves disease.\n\n(Choices D and E) Antibodies to thyroxine and triiodothyronine (ie, anti-T4 and anti-T3 immunoglobulins, respectively) can be detected by adding radiolabeled thyroid hormone to the patient's serum followed by precipitation of the antigen-antibody complexes with polyethylene glycol. These antibodies can be seen in a variety of autoimmune thyroid disorders, but are rare.\n\nEducational objective:\nGraves disease is an autoimmune disorder triggered by thyrotropin receptor antibodies (TRAb) that bind and activate the TSH receptor. Serum TRAb immunoassays have a high sensitivity and specificity for Graves disease.",
+    "zh": "该患者有甲状腺功能亢进的体征，包括不耐热、心动过速和眼睑迟滞。考虑到她的弥漫性甲状腺肿和眼球突出，这很可能是由于Graves病引起的。Graves病是一种自身免疫性疾病，由促甲状腺激素受体抗体（TRAb）触发，该抗体与TSH受体结合并激活它。除了甲状腺外，TSH受体抗原存在于其他细胞类型中，包括成纤维细胞和脂肪细胞。Graves眼病以眼部刺激、眼外肌运动受损和眼球突出为特征；它是由T细胞活化和TRAb刺激眼眶成纤维细胞引起的，导致眼外肌和眶后组织扩张。\n\nTRAb与TSH受体（一种跨膜G蛋白偶联受体）的细胞外结构域结合。Gₛα亚基激活腺苷酸环化酶，继而激活腺苷酸环化酶第二信使系统。血清TRAb免疫测定对Graves病具有高敏感性（97%）和特异性（99%），尽管它们可以检测激活型和阻断型抗TSH受体抗体。激活型抗体可以通过功能性生物测定（促甲状腺激素刺激免疫球蛋白）来确认，该测定通过测量TSH受体表达细胞系对患者血清的环磷酸腺苷（cAMP）的产生。 {{exhibit_2}}\n\n（选项A）甲状腺球蛋白抗体被认为反映了甲状腺滤泡的破坏，这使得甲状腺球蛋白暴露于血流中。它们存在于多种自身免疫性甲状腺疾病中，但最常见于自身免疫性甲状腺功能减退症，并且仅存在于少数Graves病患者中。\n\n（选项B）甲状腺过氧化物酶抗体与桥本甲状腺炎及相关疾病（如无痛性甲状腺炎、产后甲状腺炎）密切相关。伴有眼球突出的甲状腺功能亢进症最符合Graves病。\n\n（选项D和E）可以通过在患者血清中加入放射性标记的甲状腺激素，然后用聚乙二醇沉淀抗原-抗体复合物来检测甲状腺素和三碘甲状腺原氨酸抗体（即，anti-T4和anti-T3免疫球蛋白）。这些抗体可见于多种自身免疫性甲状腺疾病，但很少见。\n\n教育目标：\nGraves病是一种自身免疫性疾病，由促甲状腺激素受体抗体（TRAb）触发，该抗体与TSH受体结合并激活它。血清TRAb免疫测定对Graves病具有高敏感性和特异性。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology and diagnosis of Graves disease, specifically the role of thyrotropin receptor antibodies (TRAb) in stimulating the TSH receptor and causing hyperthyroidism and ophthalmopathy.\n\nTo solve this question, recognize the classic signs and symptoms of Graves disease (hyperthyroidism, goiter, exophthalmos) and associate them with the presence of TRAb. Rule out other autoimmune thyroid disorders based on the clinical presentation.",
+    "zh": "这个问题测试对Graves病的病理生理学和诊断的了解，特别是促甲状腺激素受体抗体（TRAb）在刺激TSH受体以及导致甲状腺功能亢进和眼病中的作用。\n\n为了解决这个问题，需要认识到Graves病的经典体征和症状（甲状腺功能亢进、甲状腺肿、眼球突出），并将它们与TRAb的存在联系起来。根据临床表现排除其他自身免疫性甲状腺疾病。"
+  },
+  "tags": "Graves disease; Hyperthyroidism; Thyrotropin receptor antibodies; Autoimmune disease; Endocrinology; Exophthalmos; Thyroid bruit",
+  "category": "Endo",
+  "question_id": "14951",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\14951",
+  "extracted_at": "2025-11-05T14:00:12.867639",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:37:28.112408",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

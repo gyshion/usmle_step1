@@ -1,0 +1,54 @@
+{
+  "question_stem": {
+    "en": "30-year-old primigravid woman at 35 weeks gestation comes to the emergency department due to fever, nausea, vomiting, watery diarrhea, and myalgias that began one day ago. She has no contractions, vaginal bleeding, or leakage of fluid. Temperature is 39.3 C (102.7 F), blood pressure is 90/60 mm Hg, and pulse is 126/min. The abdomen is soft, and the uterus is nontender. Fetal heart rate is 180/min on Doppler ultrasound. The remainder of the physical examination is normal. Blood cultures grow gram-positive rods.",
+    "zh": "一名30岁的孕妇（初产妇），孕35周，因发热、恶心、呕吐、水样腹泻和肌痛前来急诊科就诊，这些症状始于一天前。她没有宫缩、阴道出血或羊水外漏。体温39.3摄氏度（102.7华氏度），血压90/60毫米汞柱，脉搏126次/分。腹部柔软，子宫无压痛。多普勒超声检查显示胎心率为180次/分。其余体格检查均正常。血培养生长革兰阳性杆菌。"
+  },
+  "question": {
+    "en": "Which of the following is the major virulence factor of the organism responsible for this patient's clinical presentation?",
+    "zh": "以下哪项是导致该患者临床表现的主要病原体毒力因子？"
+  },
+  "options": {
+    "A": {
+      "en": "Cytotoxin that creates pores in phagosomes",
+      "zh": "在吞噬体中产生孔隙的细胞毒素"
+    },
+    "B": {
+      "en": "Endotoxin-mediated complement and tissue factor activation",
+      "zh": "内毒素介导的补体和组织因子激活"
+    },
+    "C": {
+      "en": "Exotoxin inhibition of neurotransmitter release",
+      "zh": "外毒素抑制神经递质释放"
+    },
+    "D": {
+      "en": "Exotoxin-mediated inhibition of elongation factor",
+      "zh": "外毒素介导的延伸因子抑制"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This pregnant woman has febrile gastroenteritis (eg, fever, vomiting, diarrhea) and gram-positive rods in her bloodstream, raising strong suspicion for Listeria monocytogenes infection. L monocytogenes is a motile, facultatively intracellular organism with several unique adaptations that allow it to evade the host immune response, including the following:\n\nListeriolysin O: This major virulence factor generates pores in phagosome membranes, which allows phagocytosed L monocytogenes to escape into the cytoplasm of monocytes and avoid lysosomal destruction.\nActin-based transcellular spread. The organism hijacks the actin-based cellular motility mechanism of host cells, which allows it to spread to adjacent cells without reentering the extracellular space. This significantly reduces exposure of L monocytogenes to antibodies and phagocytic cells.\nBecause of these adaptations, antibody- and phagocyte-mediated destruction of the pathogen is impaired; therefore, infections are controlled primarily by the cytotoxic T-cell response.\n\nMost L monocytogenes infections occur in pregnant women in the third trimester. Although antibiotics are curative, L monocytogenes quickly invades the placenta and may cause fetal death, premature birth, and neonatal infection.\n\n(Choice B) Bacterial lipopolysaccharide (endotoxin) is the major component of the cell wall in gram-negative, not gram-positive, bacteria (some sources erroneously report that L monocytogenes contains lipopolysaccharide). Endotoxin activates complement, coagulation, and fibrinolysis, which can lead to septic shock and disseminated intravascular coagulation.\n\n(Choice C) Clostridium botulinum, an anaerobic gram-positive rod, produces an exotoxin (botulinum toxin) that inhibits the synaptic transmission of motor neurons. Patients typically develop descending, symmetric motor deficits; minimal sensory changes; and no fever.\n\n(Choice D) Pathogenic strains of Corynebacterium diphtheriae produce an exotoxin that inhibits elongation factor in host cells, which causes pseudomembranous pharyngitis and myocarditis. Although C diphtheriae is a gram-positive rod, it does not cause febrile gastroenteritis.\n\nEducational objective:\nListeria monocytogenes is a facultative intracellular, gram-positive rod that most often causes febrile gastroenteritis. Pathogenesis is mediated largely by listeriolysin O, an enzyme that creates pores in phagosomes, which allows the bacteria to escape lysosomal destruction. Pregnant women in the third trimester are at greatest risk; infection increases the risk of fetal demise, early labor, and neonatal infection.",
+    "zh": "这位孕妇患有发热性胃肠炎（例如，发热、呕吐、腹泻），并且血液中存在革兰阳性杆菌，这高度提示单核细胞增生李斯特菌感染。单核细胞增生李斯特菌是一种有动力、兼性细胞内生物，具有几种独特的适应能力，使其能够逃避宿主免疫反应，包括以下几点：\n\n溶细胞素O：这种主要的毒力因子在吞噬体膜中产生孔隙，这使得被吞噬的单核细胞增生李斯特菌能够逃逸到单核细胞的细胞质中，从而避免溶酶体破坏。\n基于肌动蛋白的细胞间扩散。这种生物劫持了宿主细胞中基于肌动蛋白的细胞运动机制，这使得它能够在不重新进入细胞外空间的情况下扩散到相邻细胞。这显着减少了单核细胞增生李斯特菌暴露于抗体和吞噬细胞的机会。\n由于这些适应能力，抗体和吞噬细胞介导的病原体破坏受损；因此，感染主要由细胞毒性T细胞反应控制。\n\n大多数单核细胞增生李斯特菌感染发生在妊娠晚期的孕妇中。尽管抗生素具有治疗作用，但单核细胞增生李斯特菌会迅速侵入胎盘，并可能导致胎儿死亡、早产和新生儿感染。\n\n（选项B）细菌脂多糖（内毒素）是革兰阴性细菌（而非革兰阳性细菌）细胞壁的主要成分（一些来源错误地报告单核细胞增生李斯特菌含有脂多糖）。内毒素激活补体、凝血和纤维蛋白溶解，这可能导致感染性休克和弥散性血管内凝血。\n\n（选项C）肉毒梭菌，一种厌氧革兰阳性杆菌，产生一种外毒素（肉毒杆菌毒素），抑制运动神经元的突触传递。患者通常会出现下降性、对称性运动功能障碍；轻微的感官变化；并且没有发热。\n\n（选项D）白喉棒状杆菌的致病菌株产生一种外毒素，抑制宿主细胞中的延伸因子，导致假膜性咽炎和心肌炎。尽管白喉棒状杆菌是革兰阳性杆菌，但它不会引起发热性胃肠炎。\n\n教学目标：\n单核细胞增生李斯特菌是一种兼性细胞内革兰阳性杆菌，最常引起发热性胃肠炎。发病机制主要由溶细胞素O介导，溶细胞素O是一种在吞噬体中产生孔隙的酶，这使得细菌能够逃避溶酶体破坏。妊娠晚期的孕妇风险最高；感染会增加胎儿死亡、早产和新生儿感染的风险。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Listeria monocytogenes infection, particularly its virulence factors and clinical presentation in pregnant women. It requires understanding of how Listeria evades the host immune response.\n\nThe key to solving this question is recognizing the clinical scenario of febrile gastroenteritis in a pregnant woman and identifying Listeria as a likely cause. Then, recall that Listeriolysin O is the major virulence factor that allows Listeria to escape phagosomes.",
+    "zh": "本题考察对单核细胞增生李斯特菌感染的了解，特别是其毒力因子和在孕妇中的临床表现。这需要了解李斯特菌如何逃避宿主免疫反应。\n\n解决此问题的关键是识别孕妇发热性胃肠炎的临床情况，并确定李斯特菌是可能的原因。然后，回想一下溶细胞素O是允许李斯特菌逃离吞噬体的主要毒力因子。"
+  },
+  "tags": "Listeria monocytogenes; Listeriolysin O; Febrile gastroenteritis; Pregnancy; Gram-positive rods; Infectious disease; Virulence factors; Microbiology",
+  "category": "Micro",
+  "question_id": "14895",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\14895",
+  "extracted_at": "2025-11-05T14:53:59.618151",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:07:36.516571",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

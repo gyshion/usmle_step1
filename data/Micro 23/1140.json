@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 3-week-old boy is brought to the emergency department with fever, irritability, and poor feeding. On examination, he is crying in his mother's arms. Temperature is 38.3 C (100.9 F). The remainder of vital signs are appropriate for age. Lung and heart sounds are clear to auscultation. The abdomen is soft. Capillary refill is <2 seconds in all extremities. Cerebrospinal fluid analysis shows a leukocyte count of 600/mm³ (80% neutrophils), protein of 160 mg/dL, and glucose of 20 mg/dL; culture of the fluid grows gram-negative rods that form pink colonies on MacConkey agar.",
+    "zh": "一位 3 周大的男孩因发烧、易怒和喂养不良被送往急诊科。体格检查显示，他正在母亲的怀里哭泣。体温为 38.3°C (100.9°F)。其余生命体征与年龄相符。肺和心脏听诊清亮。腹部柔软。所有肢体的毛细血管充盈时间 <2 秒。脑脊液分析显示白细胞计数为 600/mm³（80% 中性粒细胞），蛋白质为 160 mg/dL，葡萄糖为 20 mg/dL；该液体的培养物生长革兰氏阴性杆菌，在麦康凯琼脂上形成粉红色菌落。"
+  },
+  "question": {
+    "en": "Which of the following is the most important bacterial virulence factor for the pathogenesis of this patient's current condition?",
+    "zh": "以下哪项是导致该患者目前病情的病原体最重要的细菌毒力因子？"
+  },
+  "options": {
+    "A": {
+      "en": "Capsule",
+      "zh": "荚膜"
+    },
+    "B": {
+      "en": "Exotoxin",
+      "zh": "外毒素"
+    },
+    "C": {
+      "en": "Lipid A",
+      "zh": "脂质 A"
+    },
+    "D": {
+      "en": "O antigen",
+      "zh": "O 抗原"
+    },
+    "E": {
+      "en": "P-fimbriae",
+      "zh": "P 菌毛"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient with fever, irritability, and poor feeding has bacterial meningitis, a life-threatening infection most commonly caused by group B Streptococcus or Escherichia coli in neonates. In this case, the growth of gram-negative rods makes E coli the most likely pathogen: organisms that ferment lactose (including E coli) cause a local drop in pH on MacConkey agar, a medium selective for gram-negative organisms, resulting in colonies with a pink-red appearance.\n\nThe pathogenesis of E coli meningitis involves bacterial invasion of the nasopharynx or gastrointestinal tract, followed by hematogenous spread to the meninges. Different strains of E coli have specific virulence factors that help enable the bacterium to cause disease, and in the case of E coli meningitis, the major virulence factor is the K1 capsular antigen.\n\nThe capsular antigen facilitates the survival of E coli primarily via molecular mimicry: K1 is a polysaccharide composed of sialic acid, which is similar to the glycosylated molecules found on the surface of human cells. K1 prevents recognition of bacterial antigens by the immune system, inhibiting phagocytosis and complement activation, which promotes bacterial survival in the bloodstream and tissues.\n\n(Choice B) Shiga toxin is an exotoxin synthesized by enterohemorrhagic E coli, which presents with bloody diarrhea. Meningitic strains of E coli do not produce Shiga toxin.\n\n(Choices C and D) Lipid A and O antigen are components of lipopolysaccharides, which make up the majority of the outer membrane of gram-negative bacteria. Lipid A is a major virulence factor in the pathogenesis of septic shock (not meningitis) that causes widespread release of IL-1, IL-6, and tumor necrosis factor-alpha; this patient with normal vital signs and no evidence of end-organ dysfunction is not in septic shock. O antigen is a variable polysaccharide on the outer surface and is used to classify gram-negative bacteria; it is not a major virulence factor for invasive infection (including meningitis).\n\n(Choice E) P-fimbriae (pili) enable E coli to adhere to uroepithelium, allowing infection of the urinary tract (eg, cystitis, pyelonephritis), not the meninges.\n\nEducational objective:\nEscherichia coli, a gram-negative rod, is a common cause of neonatal meningitis. The major virulence factor for E coli strains that cause neonatal meningitis is the K1 capsular antigen, which allows bacteria to survive in and invade the meninges.",
+    "zh": "这位出现发烧、易怒和喂养不良的患者患有细菌性脑膜炎，这是一种危及生命的感染，最常见于新生儿的 B 群链球菌或大肠杆菌引起。在这种情况下，革兰氏阴性杆菌的生长使大肠杆菌成为最可能的病原体：发酵乳糖的生物体（包括大肠杆菌）会导致麦康凯琼脂（一种选择性培养革兰氏阴性生物体的培养基）的局部 pH 值下降，导致菌落呈现粉红色-红色外观。\n\n大肠杆菌脑膜炎的发病机制涉及细菌侵入鼻咽或胃肠道，随后通过血行播散至脑膜。不同的大肠杆菌菌株具有特定的毒力因子，这些因子有助于细菌引起疾病，对于大肠杆菌脑膜炎而言，主要的毒力因子是 K1 荚膜抗原。\n\n荚膜抗原主要通过分子模拟促进大肠杆菌的存活：K1 是一种由唾液酸组成的​​多糖，类似于在人体细胞表面发现的糖基化分子。K1 阻止免疫系统识别细菌抗原，抑制吞噬作用和补体激活，从而促进细菌在血流和组织中的存活。\n\n（选项 B）志贺毒素是由肠出血性大肠杆菌合成的外毒素，表现为血性腹泻。脑膜炎菌株的大肠杆菌不产生志贺毒素。\n\n（选项 C 和 D）脂质 A 和 O 抗原是构成革兰氏阴性细菌外膜的大部分脂多糖的组成部分。脂质 A 是败血性休克（而非脑膜炎）发病机制中的主要毒力因子，它会导致 IL-1、IL-6 和肿瘤坏死因子-α 的广泛释放；该患者生命体征正常，无器官功能障碍的证据，并未出现败血性休克。O 抗原是外表面的可变多糖，用于对革兰氏阴性细菌进行分类；它不是侵袭性感染（包括脑膜炎）的主要毒力因子。\n\n（选项 E）P 菌毛（菌毛）使大肠杆菌能够粘附于尿路上皮，从而导致泌尿道感染（例如，膀胱炎、肾盂肾炎），而不是脑膜。\n\n教学目标：\n大肠杆菌是一种革兰氏阴性杆菌，是新生儿脑膜炎的常见病因。导致新生儿脑膜炎的大肠杆菌菌株的主要毒力因子是 K1 荚膜抗原，它允许细菌在脑膜中存活和侵入。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the virulence factors of Escherichia coli, specifically the K1 capsular antigen, in the context of neonatal meningitis. It requires understanding the pathogenesis of E. coli meningitis and the role of the capsule in evading the host's immune system.\n\nTo solve this question, identify the most likely pathogen based on the clinical presentation and CSF findings. Then, recall the specific virulence factors associated with that pathogen in the context of meningitis, focusing on factors that promote survival and invasion of the meninges.",
+    "zh": "此题考察对大肠杆菌毒力因子的了解，特别是新生儿脑膜炎背景下的 K1 荚膜抗原。它要求理解大肠杆菌脑膜炎的发病机制以及荚膜在逃避宿主免疫系统中的作用。\n\n要解决此题，请根据临床表现和脑脊液 (CSF) 检查结果确定最可能的病原体。然后，回忆与该病原体相关的脑膜炎特异性毒力因子，重点关注促进脑膜存活和侵袭的因子。"
+  },
+  "tags": "Escherichia coli; Neonatal meningitis; Virulence factors; K1 capsular antigen; Gram-negative bacteria; Microbiology; Infectious disease; Cerebrospinal fluid analysis; Molecular mimicry",
+  "category": "Micro",
+  "question_id": "1140",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1140",
+  "extracted_at": "2025-11-05T14:50:23.067063",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:05:29.276997",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,75 @@
+{
+  "question_stem": {
+    "en": "A 67-year-old woman comes to the clinic due to decreased vision in her right eye that she noticed a week ago. The patient says that her sight in the right eye is \"narrower\" than in the left. Medical history is significant for hypertension, type 2 diabetes mellitus, and hyperlipidemia. The patient also has intermittent lower limb claudication and has had 2 prior episodes of transient vision loss in her right eye. Visual field testing reveals right nasal hemianopia. MRI and MR angiography of the head and neck reveal a right internal carotid artery aneurysm. {{exhibit_1}}",
+    "zh": "一名67岁女性因右眼视力下降前来就诊，她于一周前注意到这一情况。患者表示，右眼的视野比左眼“更窄”。病史包括高血压、2型糖尿病和高脂血症。患者还有间歇性下肢跛行，并曾有2次右眼短暂性视力丧失发作。视野检查显示右侧鼻侧偏盲。头部和颈部的MRI和磁共振血管造影显示右侧颈内动脉瘤。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following portions of the visual pathway is most likely disrupted in this patient?",
+    "zh": "该患者最有可能受到以下哪部分视觉通路的影响？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    },
+    "F": {
+      "en": "F",
+      "zh": "F"
+    },
+    "G": {
+      "en": "G",
+      "zh": "G"
+    },
+    "H": {
+      "en": "H",
+      "zh": "H"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The correct answer is D. The patient presents with right nasal hemianopia, which is a loss of the right nasal visual field. This type of visual field defect indicates a lesion affecting the uncrossed fibers of the optic nerve. These fibers originate from the nasal retina and carry information from the temporal visual field. The MRI and MR angiography revealed a right internal carotid artery aneurysm, which can compress the optic chiasm. Specifically, an aneurysm of the internal carotid artery can impinge on the lateral aspect of the optic chiasm, affecting the uncrossed fibers originating from the nasal retina of the ipsilateral eye. This leads to a loss of the temporal visual field of that eye, resulting in nasal hemianopia. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}\n\n(Choices A and B) A partial lesion involving the retina is more likely to produce focal monocular scotoma than nasal hemianopia because a lesion with the latter would need to involve the entire temporal retina, which does not follow the arterial patterns of blood supply to the retina. Likewise, a lesion of the optic nerve classically causes monocular total vision loss; nasal hemianopia would be unusual.\n\n(Choice C) Fibers from the nasal retina carry information from the temporal visual fields and cross at the optic chiasm, so a lesion in this area (eg, pituitary adenoma) classically causes bitemporal hemianopia.\n\n(Choice E) The optic tract carries information from the contralateral hemivisual field. Lesions in this area would lead to homonymous hemianopia.\n\n(Choice F) The inferior optic radiations (which carry information from the inferior retina/superior visual field) travel through the temporal lobe (Meyer loop). Lesions in this area lead to superior quadrant visual field defects (ie, contralateral homonymous superior quadrantanopia).\n\n(Choice G) The superior optic radiations, which carry information from the superior retina/inferior visual field, travel through the parietal lobe. Lesions localized to this area can lead to contralateral lower quadrantanopia.\n\n(Choice H) Lesions to the primary visual cortex in the occipital lobe also lead to a contralateral homonymous hemianopia. If this occurs due to occlusion of the posterior cerebral artery, the macula is typically spared due to collateral circulation from the middle cerebral artery to the occipital pole.\n\nEducational objective:\nAn aneurysm of the internal carotid artery can laterally impinge on the optic chiasm. This can cause ipsilateral nasal hemianopia by damaging uncrossed optic nerve fibers from the temporal portion of the retina.",
+    "zh": "正确答案是D。患者表现为右侧鼻侧偏盲，即右侧鼻侧视野缺失。这种类型的视野缺损表明病变影响视神经的未交叉纤维。这些纤维起源于鼻侧视网膜，并携带来自颞侧视野的信息。MRI和磁共振血管造影显示右侧颈内动脉瘤，该动脉瘤可压迫视交叉。具体来说，颈内动脉瘤可压迫视交叉的侧面，影响起源于同侧眼鼻侧视网膜的未交叉纤维。这会导致该眼颞侧视野的缺失，从而导致鼻侧偏盲。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}}\n\n(选项A和B) 涉及视网膜的部分病变更有可能产生局灶性单眼暗点而不是鼻侧偏盲，因为后者的病变需要累及整个颞侧视网膜，这不遵循视网膜的动脉血供模式。同样，视神经的病变通常会导致单眼完全失明；鼻侧偏盲是不寻常的。\n\n(选项C) 来自鼻侧视网膜的纤维携带来自颞侧视野的信息，并在视交叉处交叉，因此该区域（例如，垂体腺瘤）的病变通常会导致双颞侧偏盲。\n\n(选项E) 视束携带来自对侧半视野的信息。该区域的病变将导致同侧偏盲。\n\n(选项F) 视下辐射（携带来自下视网膜/上方视野的信息）穿过颞叶（Meyer环）。该区域的病变会导致上方象限视野缺损（即，对侧同侧上方象限盲）。\n\n(选项G) 视上辐射，携带来自上视网膜/下方视野的信息，穿过顶叶。定位于该区域的病变可导致对侧下方象限盲。\n\n(选项H) 枕叶的初级视觉皮层病变也会导致对侧同侧偏盲。如果这是由于大脑后动脉闭塞引起的，由于来自大脑中动脉到枕极的侧支循环，黄斑通常会得到保留。\n\n教育目标：\n颈内动脉瘤可侧向压迫视交叉。这可以通过损伤来自视网膜颞侧部分的未交叉视神经纤维引起同侧鼻侧偏盲。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of visual pathway anatomy and the correlation between specific lesions and visual field defects, particularly nasal hemianopia caused by compression of the optic chiasm by an internal carotid artery aneurysm.\n\nTo solve this question, one must first identify the type of visual field defect (nasal hemianopia) and then relate it to the affected part of the visual pathway. Knowledge of how different parts of the visual pathway process visual information and how lesions in those areas manifest as specific visual field deficits is crucial. The presence of an aneurysm further guides the localization of the lesion.",
+    "zh": "本题考察对视觉通路解剖结构的理解，以及特定病变与视野缺损之间的相关性，特别是颈内动脉瘤压迫视交叉引起的鼻侧偏盲。\n\n要解决这个问题，首先必须确定视野缺损的类型（鼻侧偏盲），然后将其与受影响的视觉通路部分联系起来。了解视觉通路的各个部分如何处理视觉信息，以及这些区域的病变如何表现为特定的视野缺损至关重要。动脉瘤的存在进一步指导了病变的定位。"
+  },
+  "tags": "Visual pathway anatomy; Nasal hemianopia; Optic chiasm; Internal carotid artery aneurysm; Visual field defects; Neurology; Ophthalmology",
+  "category": "Neuro",
+  "question_id": "8636",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\8636",
+  "extracted_at": "2025-11-05T19:41:48.154711",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:43:27.241989",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

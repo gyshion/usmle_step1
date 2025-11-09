@@ -1,0 +1,72 @@
+{
+  "question_stem": {
+    "en": "The patient's unborn child is at the greatest risk for which of the following congenital defects? {{exhibit_1}} {{exhibit_2}}",
+    "zh": "患者未出生的孩子面临以下哪种先天缺陷的最大风险？{{exhibit_1}} {{exhibit_2}}"
+  },
+  "question": {
+    "en": "Given the patient's history, what is the greatest risk for congenital defects in the unborn child?",
+    "zh": "根据患者的病史，未出生的孩子发生先天缺陷的最大风险是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Branchial arch anomalies",
+      "zh": "鳃弓异常"
+    },
+    "B": {
+      "en": "Neural tube defects",
+      "zh": "神经管缺陷"
+    },
+    "C": {
+      "en": "Renal dysplasia",
+      "zh": "肾发育不良"
+    },
+    "D": {
+      "en": "Sacral agenesis",
+      "zh": "骶骨发育不全"
+    },
+    "E": {
+      "en": "Skeletal lesions",
+      "zh": "骨骼病变"
+    },
+    "F": {
+      "en": "Thyroid hypoplasia",
+      "zh": "甲状腺发育不全"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Methotrexate is a folic acid antagonist that competitively inhibits dihydrofolate reductase, which produces nucleic acid precursors that are essential to DNA synthesis and repair. Rapidly dividing cells (eg, neural tube cells, stem cells, hepatic cells, epithelial cells) are particularly susceptible to folate antagonism. Methotrexate and other folate antagonists have abortifacient and/or teratogenic effects when used during the first trimester. They are contraindicated in pregnant women except under specific circumstances (eg, cancer therapy with no better alternative, treatment of ectopic pregnancy). Adverse effects of methotrexate use to the fetus include cardiovascular, urinary tract, and neural tube defects (eg, anencephaly, spina bifida).",
+    "zh": "甲氨蝶呤是一种叶酸拮抗剂，它竞争性地抑制二氢叶酸还原酶，后者产生对DNA合成和修复至关重要的核酸前体。快速分裂的细胞（例如，神经管细胞、干细胞、肝细胞、上皮细胞）特别容易受到叶酸拮抗作用的影响。甲氨蝶呤和其他叶酸拮抗剂在妊娠早期使用时具有流产和/或致畸作用。它们在孕妇中禁用，除非在特定情况下（例如，没有更好替代方案的癌症治疗、异位妊娠的治疗）。甲氨蝶呤对胎儿的不良影响包括心血管、泌尿道和神经管缺陷（例如，无脑畸形、脊柱裂）。"
+  },
+  "summary": {
+    "en": "The patient is taking methotrexate, a folic acid antagonist, which is known to cause neural tube defects in the fetus.",
+    "zh": "患者正在服用甲氨蝶呤，一种叶酸拮抗剂，已知会导致胎儿神经管缺陷。"
+  },
+  "tags": [
+    "Pharmacology",
+    "Teratogenicity",
+    "Neural Tube Defects",
+    "Methotrexate",
+    "Rheumatoid Arthritis",
+    "Prenatal Care"
+  ],
+  "category": "Neuro",
+  "question_id": "15637",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\15637",
+  "extracted_at": "2025-11-05T15:18:43.555937",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:20:19.440879",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

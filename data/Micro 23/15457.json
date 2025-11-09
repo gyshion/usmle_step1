@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 44-year-old woman is evaluated due to 5 days of fever. She also has had malaise, fatigue, and headaches. Medical history is significant for HIV infection. She does not use tobacco, alcohol, or recreational drugs. The patient works for a nongovernmental organization that promotes HIV awareness in resource-limited countries, and she frequently travels for work. Temperature is 38.3 C (100.9 F), blood pressure is 118/86 mm Hg, pulse is 106/min, and respirations are 18/min. Physical examination demonstrates clear lungs, normal heart sounds, and a nontender abdomen with mild splenomegaly. Significant laboratory findings are shown in the exhibit {{exhibit_1}}. Which of the following would have been most effective in preventing this patient's current condition?",
+    "zh": "一名44岁女性因发热5天就诊。她还伴有不适、疲劳和头痛。病史提示HIV感染。她不吸烟、不饮酒，也不吸食娱乐性毒品。该患者为一家非政府组织工作，该组织在资源匮乏国家推广HIV意识，她经常出差工作。体温38.3°C (100.9°F)，血压118/86 mm Hg，脉搏106次/分，呼吸18次/分。体格检查显示肺部清晰，心音正常，腹部无压痛，轻度脾肿大。重要的实验室检查结果见图{{exhibit_1}}。以下哪项措施对预防该患者目前的状况最有效？"
+  },
+  "question": {
+    "en": "Which of the following would have been most effective in preventing this patient's current condition?",
+    "zh": "以下哪项措施对预防该患者目前的状况最有效？"
+  },
+  "options": {
+    "A": {
+      "en": "Adherence to antiretroviral therapy",
+      "zh": "依从抗逆转录病毒治疗"
+    },
+    "B": {
+      "en": "Atovaquone-proguanil",
+      "zh": "阿托伐醌-鸟嘌呤"
+    },
+    "C": {
+      "en": "Pneumococcal vaccine",
+      "zh": "肺炎球菌疫苗"
+    },
+    "D": {
+      "en": "Sulfadiazine-pyrimethamine",
+      "zh": "磺胺嘧啶-乙胺嘧啶"
+    },
+    "E": {
+      "en": "Tick repellent",
+      "zh": "驱蜱剂"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has a febrile syndrome, mild splenomegaly, and ring-shaped parasites within red blood cells indicating malaria, which is caused by 4 main species of Plasmodium (Plasmodium falciparum, Plasmodium vivax, Plasmodium ovale, Plasmodium malariae). Transmission occurs when an infected female Anopheles mosquito injects the parasite while blood feeding. To prevent infection, travelers to malaria-endemic regions should be counseled on mosquito-avoidance measures and given chemoprophylaxis.\n\nMosquito avoidance strategies include staying indoors at dawn/dusk (when mosquitos are most active), wearing insect repellant, limiting exposed skin, and sleeping within insecticide-treated nets. Chemoprophylaxis targets the predominant species of the region and considers the presence of drug resistance. In Africa, where chloroquine-resistant Plasmodium falciparum is endemic, common chemoprophylaxis regimens include doxycycline, mefloquine, and atovaquone-proguanil.\n\nMost chemoprophylactic regimens are schizonticides that actively destroy replicating parasites within red blood cells but have limited or no activity against hepatic schizonts. Because Plasmodium species mature in the liver over 8-30 days, patients must generally continue chemoprophylaxis for a period after return from travel to ensure merozoites released from the liver are destroyed when they infect red blood cells. Chemoprophylaxis is particularly important for individuals at greatest risk for severe disease, particularly those with malnutrition, splenectomy, and HIV.\n\n(Choice A) Patients with HIV who do not adhere to antiretroviral therapy are at high risk for opportunistic infections. In this case, the presence of ring-shaped forms within erythrocytes is highly suggestive of malaria; although symptoms are often more severe in patients with advanced HIV, antiretroviral therapy does not prevent malarial infection.\n\n(Choice C) Patients with HIV are at much greater risk for pneumococcal infection compared to the general population. Therefore, vaccination is generally recommended. Pneumococcus typically causes pneumonia, bloodstream infection, or meningitis, not intraerythrocytic ring forms on blood smear.\n\n(Choice D) Sulfadiazine-pyrimethamine is first-line treatment for toxoplasmosis, a common opportunistic infection in patients with AIDS. Toxoplasmosis usually causes encephalitis (eg, delirium, headache, focal deficits, seizure), but pneumonitis or retinitis can occasionally occur. It is usually diagnosed with imaging and/or serology, but tissue microscopy would show cysts or tachyzoites, not intraerythrocytic ring forms.\n\n(Choice E) Ehrlichiosis and anaplasmosis are transmitted by ticks and can be visualized on peripheral blood smear. However, both appear as intracytoplasmic inclusions (morulae) within neutrophils (Anaplasma) or monocytes (Ehrlichia); ring-shaped intraerythrocytic erythrocytic inclusions are not seen.\n\nEducational objective:\nMalaria is diagnosed when intraerythrocytic, diamond ring-shaped parasites are seen on peripheral blood smear. This disease should be suspected in travelers to endemic regions who develop a febrile illness. It can generally be prevented with mosquito-avoidance measures and chemoprophylaxis. {{exhibit_2}}",
+    "zh": "该患者有发热综合征、轻度脾肿大以及红细胞内环状寄生虫，提示疟疾，疟疾由四种主要的疟原虫（恶性疟原虫、间日疟原虫、卵形疟原虫和三日疟原虫）引起。当受感染的雌性按蚊吸血时，会注入寄生虫从而导致传播。为预防感染，前往疟疾流行地区的旅行者应被告知如何避免蚊虫叮咬，并进行化学预防。\n\n避免蚊虫叮咬的策略包括在黎明/黄昏时待在室内（蚊子最活跃的时候）、穿戴驱虫剂、限制暴露的皮肤，并在经过杀虫剂处理的蚊帐内睡觉。化学预防针对该地区的主要疟疾种类，并考虑耐药性的存在。在非洲，耐氯喹的恶性疟原虫流行，常用的化学预防方案包括多西环素、甲氟喹和阿托伐醌-鸟嘌呤。\n\n大多数化学预防方案是裂殖体杀灭剂，可主动破坏红细胞内的复制寄生虫，但对肝裂殖体的活性有限或无活性。由于疟原虫在肝脏中成熟需要8-30天，患者在旅行归来后通常必须继续化学预防一段时间，以确保当从肝脏释放的子孢子感染红细胞时被破坏。化学预防对重症风险最高的个体尤其重要，特别是那些患有营养不良、脾切除术和HIV感染的个体。\n\n(选项A) 不遵守抗逆转录病毒治疗的HIV感染患者发生机会性感染的风险很高。在这种情况下，红细胞内环状形态高度提示疟疾；尽管晚期HIV感染患者的症状通常更严重，但抗逆转录病毒治疗并不能预防疟疾感染。\n\n(选项C) 与普通人群相比，HIV感染患者发生肺炎球菌感染的风险要大得多。因此，通常建议接种疫苗。肺炎球菌通常引起肺炎、血流感染或脑膜炎，而不是血涂片上红细胞内的环形形态。\n\n(选项D) 磺胺嘧啶-乙胺嘧啶是弓形虫病的​​一线治疗，弓形虫病是AIDS患者常见的机会性感染。弓形虫病通常引起脑炎（如谵妄、头痛、局灶性缺陷、癫痫发作），但偶尔也会发生肺炎或视网膜炎。它通常通过影像学检查和/或血清学检查诊断，但组织显微镜检查会显示包囊或速殖子，而不是红细胞内的环形形态。\n\n(选项E) 埃立克体病和无形体病由蜱传播，可在外周血涂片上观察到。然而，两者都表现为中性粒细胞（无形体病）或单核细胞（埃立克体病）内的细胞质内包涵体（桑椹体）；未见环状的红细胞内红细胞包涵体。\n\n教学目标：\n当在外周血涂片上看到红细胞内、钻石环状寄生虫时，即可诊断为疟疾。在前往流行地区的旅行者出现发热性疾病时，应怀疑该病。它通常可以通过避免蚊虫叮咬的措施和化学预防来预防。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of malaria diagnosis and prevention, particularly in the context of a traveler with HIV. It requires recognizing the clinical presentation and laboratory findings indicative of malaria and understanding appropriate chemoprophylaxis strategies.\n\nTo solve this question, identify the key findings (fever, splenomegaly, ring-shaped parasites), recognize the patient's travel history, and recall the recommended chemoprophylaxis for malaria in endemic regions, especially considering potential drug resistance.",
+    "zh": "本题考察对疟疾诊断和预防的知识，尤其是在HIV感染旅行者的背景下。它要求识别提示疟疾的临床表现和实验室检查结果，并了解适当的化学预防策略。\n\n为了解决这个问题，需要确定关键发现（发热、脾肿大、环状寄生虫），识别患者的旅行史，并回忆推荐的在流行地区进行疟疾化学预防，尤其是考虑到潜在的耐药性。"
+  },
+  "tags": "Malaria; Plasmodium falciparum; HIV; Chemoprophylaxis; Atovaquone-proguanil; Infectious disease; Travel medicine; Parasitology; Blood smear; Splenomegaly",
+  "category": "Micro",
+  "question_id": "15457",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\15457",
+  "extracted_at": "2025-11-05T15:00:02.766378",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:09:06.877465",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

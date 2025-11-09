@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 6-month-old boy is brought to the emergency department due to lethargy for several hours. His mother says he is usually a \"very active baby,\" and she is afraid that he is \"coming down with something.\" The patient's birth history is unremarkable, and he was born at 38 weeks gestation. He is afebrile. Blood pressure is 70/44 mm Hg, pulse is 240 beats/min, and respirations are 52/min. The patient appears pale and is perspiring. Capillary refill time is less than 2 seconds. The lungs are clear to auscultation. No murmurs are heard. An ECG shows a regular heart rate of 240/min with narrow QRS complexes and no identifiable P waves. {{exhibit_1}} Which of the following is the most likely cause of this patient's hypotension?",
+    "zh": "一名6个月大的男孩因嗜睡数小时被送往急诊科。 他的母亲说他通常是个“非常活跃的婴儿”，她担心他“生病了”。 患者的出生史无特殊，他在妊娠38周时出生。 他没有发烧。 血压为 70/44 mm Hg，脉搏为 240 次/分钟，呼吸为 52 次/分钟。 患者面色苍白，正在出汗。 毛细血管充盈时间少于 2 秒。 肺部听诊清晰。 未听到杂音。 心电图显示规律的心率 240 次/分钟，QRS 波群狭窄，没有可识别的 P 波。 {{exhibit_1}} 该患者低血压最可能的原因是什么？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's hypotension?",
+    "zh": "以下哪项是该患者低血压最可能的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased effective intravascular volume",
+      "zh": "有效血管内容量减少"
+    },
+    "B": {
+      "en": "Decreased myocardial contractility",
+      "zh": "心肌收缩力降低"
+    },
+    "C": {
+      "en": "Decreased peripheral vascular resistance",
+      "zh": "外周血管阻力降低"
+    },
+    "D": {
+      "en": "Left-to-right intracardiac shunting",
+      "zh": "左向右心内分流"
+    },
+    "E": {
+      "en": "Shortening of ventricular diastole",
+      "zh": "心室舒张期缩短"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient is pale, lethargic, and diaphoretic with ECG findings consistent with supraventricular tachycardia (SVT), the most common pediatric arrhythmia. Normally, depolarization impulses originate at the sinoatrial node and travel through the atrial myocardium to the atrioventricular (AV) node, where the signal pauses to allow ventricular filling following atrial contraction. The impulse then continues through the His-Purkinje system to the ventricular myocardium.\n\nSVT occurs when an impulse originates at an abnormal focus above the ventricles, most commonly a reentrant circuit within the AV node (ie, AV nodal reentry tachycardia). Heart rate is elevated (usually >150/min in adults or >220/min in infants), but rhythm is usually regular. QRS complexes are narrow, and P waves are generally buried within the QRS complex due to retrograde atrial depolarization occurring in conjunction with anterograde ventricular depolarization. {{exhibit_2}}\n\nWith persistent tachycardia, ventricular diastole shortens, allowing less time for ventricular relaxation and filling. Stroke volume and cardiac output decrease, leading to hypotension and poor peripheral perfusion. Infants may become altered (eg, lethargic, poor feeding) and develop signs of heart failure (eg, tachypnea, crackles, hepatomegaly).\n\n(Choice A) Decreased effective intravascular volume is the mechanism for hypotension associated with hypovolemic shock. This patient has normal capillary refill without a history of volume depletion (eg, diarrhea, vomiting, blood loss).\n\n(Choice B) Hypotension due to decreased myocardial contractility is seen with a myocardial infarction, which is extremely rare in infancy, or a viral-induced cardiomyopathy, which is unlikely in the absence of infectious symptoms (eg, fever, rhinorrhea).\n\n(Choice C) Low cardiac output associated with SVT would lead to a compensatory increase, not a decrease, in peripheral vascular resistance.\n\n(Choice D) A large left-to-right intracardiac shunt (eg, ventricular septal defect [VSD]) can cause hypotension and tachycardia, but signs of heart failure (eg, crackles, hepatomegaly) would be expected. In addition, depending on the size of VSD, ECG may show left or biventricular hypertrophy, not narrow QRS complexes with absent P waves.\n\nEducational objective:\nSupraventricular tachycardia is characterized by an elevated heart rate with a regular rhythm and narrow QRS complexes due to an abnormal electrical impulse originating above the ventricles. Sustained tachycardia shortens ventricular diastole, leading to decreased stroke volume and cardiac output and subsequent hypotension.",
+    "zh": "该患者面色苍白、嗜睡、出汗，心电图结果与室上性心动过速 (SVT) 相符，SVT 是最常见的儿科心律失常。 正常情况下，去极化冲动起源于窦房结，并穿过心房心肌到达房室 (AV) 结，信号在此暂停，以允许心房收缩后心室充盈。 然后冲动通过 His-Purkinje 系统继续到达心室心肌。\n\n当冲动起源于心室上方的异常焦点时，就会发生室上性心动过速，最常见于 AV 结内的折返回路（即 AV 结折返性心动过速）。 心率升高（成人通常 >150 次/分钟，婴儿通常 >220 次/分钟），但节律通常是规律的。 QRS 波群狭窄，P 波通常埋藏在 QRS 波群内，这是由于逆行性心房去极化与顺行性心室去极化同时发生。 {{exhibit_2}}\n\n持续性心动过速会缩短心室舒张期，从而减少心室舒张和充盈的时间。 每搏输出量和心输出量减少，导致低血压和外周灌注不良。 婴儿可能会出现意识改变（例如，嗜睡、喂养不良）并出现心力衰竭的迹象（例如，呼吸急促、啰音、肝肿大）。\n\n(选项 A) 有效血管内容量减少是与低血容量性休克相关的低血压的机制。 该患者的毛细血管充盈正常，且无容量不足病史（例如，腹泻、呕吐、失血）。\n\n(选项 B) 心肌收缩力降低引起的低血压可见于心肌梗死，这在婴儿中极为罕见，或病毒诱导性心肌病，这在没有感染症状（例如，发烧、鼻溢）的情况下不太可能发生。\n\n(选项 C) 与室上速相关的心输出量低会导致外周血管阻力代偿性增加，而不是降低。\n\n(选项 D) 较大的左向右心内分流（例如，室间隔缺损 [VSD]）可引起低血压和心动过速，但预计会出现心力衰竭的征象（例如，啰音、肝肿大）。 此外，根据 VSD 的大小，心电图可能显示左心或双心室肥大，而不是狭窄的 QRS 波群和无 P 波。\n\n教育目标：\n室上性心动过速的特征是心率升高，节律规则，QRS 波群狭窄，这是由于起源于心室上方的异常电脉冲所致。 持续性心动过速会缩短心室舒张期，导致每搏输出量和心输出量降低，进而导致低血压。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of supraventricular tachycardia (SVT) in infants, specifically how the rapid heart rate leads to decreased ventricular filling and subsequent hypotension. It requires recognizing the ECG findings of SVT (rapid, regular rhythm with narrow QRS complexes and absent P waves) and understanding the hemodynamic consequences. \n\nTo solve this question, first identify the key findings: rapid heart rate, narrow QRS complexes, and hypotension. Then, consider the pathophysiology of each answer choice in the context of these findings. Remember that SVT causes decreased ventricular filling time, leading to reduced stroke volume and hypotension.",
+    "zh": "这个问题考察了婴儿室上性心动过速 (SVT) 的知识，特别是快速心率如何导致心室充盈减少和随后的低血压。 它需要识别 SVT 的心电图结果（快速、规则的节律，QRS 波群狭窄，P 波缺失）并理解血流动力学后果。\n\n要解决这个问题，首先确定关键发现：快速心率、狭窄的 QRS 波群和低血压。 然后，在这些发现的背景下考虑每个选项的病理生理学。 记住，室上速会导致心室充盈时间减少，从而导致每搏输出量减少和低血压。"
+  },
+  "tags": "Supraventricular tachycardia; SVT; Hypotension; Pediatric cardiology; ECG interpretation; Arrhythmia; Ventricular diastole; Cardiac output; Narrow QRS complex; Tachycardia",
+  "exhibit_3": "{{exhibit_3}}",
+  "category": "CVS",
+  "question_id": "19574",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\19574",
+  "extracted_at": "2025-11-05T12:06:32.106514",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:26:55.202018",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 22-year-old woman is brought to the emergency department due to fever, headaches, nausea, vomiting, and myalgias that began suddenly last night. This morning, the patient was lethargic, difficult to arouse, and confused. She is an exchange student who came to the United States 3 months ago, and her medical history is unknown. Temperature is 39.4 C (102.9 F), blood pressure is 100/60 mm Hg, pulse is 112/min, and respirations are 18/min. Physical examination shows nuchal rigidity. Skin examination findings are shown in the image {{exhibit_1}}. Leukocyte count is elevated, and lumbar puncture with cerebrospinal fluid Gram stain establishes the diagnosis.",
+    "zh": "一名22岁女性因发热、头痛、恶心、呕吐和肌痛被送往急诊科，这些症状于昨晚突然开始。今天早上，患者嗜睡、难以唤醒，并且意识模糊。她是一名交换生，3个月前来到美国，病史不详。体温39.4摄氏度（102.9华氏度），血压100/60毫米汞柱，脉搏112次/分钟，呼吸18次/分钟。体格检查显示颈项强直。皮肤检查结果见图片{{exhibit_1}}。白细胞计数升高，腰椎穿刺和脑脊液革兰染色确诊。"
+  },
+  "question": {
+    "en": "Which of the following is most likely to be the primary antigenic component of the vaccine that could have prevented this patient's infection?",
+    "zh": "以下哪项最可能是可以预防该患者感染的疫苗的主要抗原成分？"
+  },
+  "options": {
+    "A": {
+      "en": "Capsular polysaccharide",
+      "zh": "荚膜多糖"
+    },
+    "B": {
+      "en": "Inactivated (killed) organisms",
+      "zh": "灭活（杀灭）的病原体"
+    },
+    "C": {
+      "en": "Inactivated toxic compounds",
+      "zh": "灭活的毒性化合物"
+    },
+    "D": {
+      "en": "Live attenuated organisms",
+      "zh": "活的减毒病原体"
+    },
+    "E": {
+      "en": "Virus-like particles",
+      "zh": "类病毒颗粒"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's rapid-onset headache, fever, altered mental status, nuchal rigidity, and purpuric rash (characteristic of meningococcemia) raise strong suspicion for MENINGOCOCCAL MENINGITIS. *Neisseria meningitidis* is a gram-negative diplococcus transmitted via aerosolized respiratory droplets. Close living conditions (eg, college dormitories, prisons, military barracks) promote its spread.\n\n*N meningitidis* has several virulence factors, including a polysaccharide capsule (impairs phagocytosis of the bacteria), lipo-oligosaccharide (induces cytokine production, leading to circulatory collapse), pili (permit bacterial attachment to the respiratory mucosa), and IgA protease (cleaves secretory IgA that would otherwise inactivate the pili). Antibodies against the polysaccharide capsule confer immunity to *N meningitidis*.\n\nThe meningococcal vaccines available in the United States are as follows:\n\n*   Quadrivalent conjugate vaccine: Capsular polysaccharide antigens (serogroups A, C, Y, and W) are fused to a diphtheroid toxin carrier, which allows the polysaccharides to be displayed on the major histocompatibility complex of antigen-presenting cells. This results in stimulation of T-cells and provides a stronger, more lasting immunologic response.\n*   Serogroup B vaccine: Capsular polysaccharides from serogroup B are very similar to human neural cell adhesion molecules. This molecular mimicry prevented a polysaccharide vaccine due to difficulty in generating an immune response without increasing the risk of autoimmunity. A vaccine against this serogroup is now available that uses recombinant proteins instead of capsular polysaccharides.\n\nIn the United States, the quadrivalent vaccine is part of routine immunizations; the serogroup B vaccine is recommended for specific high-risk populations (eg, those with asplenia or complement deficiency).\n\n(Choice B) The influenza vaccination typically contains three or four strains of inactivated virus. Although influenza is often associated with rapid-onset malaise, headache, myalgia, and fever, the presence of nuchal rigidity and purpuric skin rash make meningococcemia more likely.\n\n(Choice C) The diphtheria toxoid is used in conjugate vaccines because it allows the polysaccharide antigen to be displayed on the major histocompatibility complex of antigen presenting cells. The toxoid is not the primary antigenic component of conjugate vaccines.\n\n(Choice D) The measles-mumps-rubella vaccination contains live attenuated versions of these viruses. Measles is associated with the 3 C's (coryza, conjunctivitis, cough) and a maculopapular rash, mumps is associated with salivary gland swelling, and rubella is associated with a diffuse maculopapular rash. A purpuric rash and nuchal rigidity would be atypical.\n\n(Choice E) Virus-like particles are multiprotein structures that elicit a strong B- and T-cell response but contain no viral genetic material, so they are not infectious. Virus-like particles are used in the hepatitis B and human papillomavirus vaccines.\n\nEducational objective: Antibodies against the polysaccharide capsule of *Neisseria meningitidis* provide immunity against this pathogen. Quadrivalent meningococcal vaccines contain capsular polysaccharides from major serotypes (A, C, Y, and W) of *N meningitidis*. Serotype B vaccinations use recombinant proteins. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "该患者的快速起病的头痛、发热、精神状态改变、颈项强直和紫癜性皮疹（脑膜炎球菌血症的特征）强烈提示脑膜炎奈瑟菌性脑膜炎。脑膜炎奈瑟菌（*Neisseria meningitidis*）是一种革兰氏阴性双球菌，通过雾化的呼吸道飞沫传播。密切的生活条件（如大学宿舍、监狱、军营）促进其传播。\n\n*N meningitidis* 有多种毒力因子，包括多糖荚膜（损害细菌的吞噬作用）、脂寡糖（诱导细胞因子产生，导致循环衰竭）、菌毛（允许细菌附着于呼吸道粘膜）和 IgA 蛋白酶（切割分泌性 IgA，否则会使菌毛失活）。针对多糖荚膜的抗体可赋予对 *N meningitidis* 的免疫力。\n\n美国现有的脑膜炎球菌疫苗如下：\n\n*   四价结合疫苗：荚膜多糖抗原（血清群 A、C、Y 和 W）与类白喉毒素载体融合，这使得多糖能够在抗原呈递细胞的主要组织相容性复合物上显示。这会导致 T 细胞的刺激，并提供更强、更持久的免疫反应。\n*   B 群疫苗：B 群的荚膜多糖与人神经细胞粘附分子非常相似。这种分子模拟阻止了多糖疫苗的使用，因为在不增加自身免疫风险的情况下难以产生免疫反应。现在有一种针对该血清群的疫苗，该疫苗使用重组蛋白而不是荚膜多糖。\n\n在美国，四价疫苗是常规免疫接种的一部分；建议对特定高危人群（例如，脾切除术后或补体缺陷者）接种 B 群疫苗。\n\n(选项 B) 流感疫苗通常包含三种或四种灭活病毒株。尽管流感通常与快速起病的不适、头痛、肌痛和发热有关，但颈项强直和紫癜性皮疹的存在使脑膜炎球菌血症更有可能。\n\n(选项 C) 白喉类毒素用于结合疫苗中，因为它允许多糖抗原在抗原呈递细胞的主要组织相容性复合物上显示。类毒素不是结合疫苗的主要抗原成分。\n\n(选项 D) 麻疹-腮腺炎-风疹疫苗包含这些病毒的减毒活疫苗。麻疹与 3 个 C（流涕、结膜炎、咳嗽）和斑丘疹有关，腮腺炎与唾液腺肿胀有关，风疹与弥漫性斑丘疹有关。紫癜性皮疹和颈项强直是不典型的。\n\n(选项 E) 类病毒颗粒是多蛋白结构，可引发强烈的 B 细胞和 T 细胞反应，但不含病毒遗传物质，因此不具有感染性。类病毒颗粒用于乙型肝炎和人乳头瘤病毒疫苗。\n\n教学目标：针对脑膜炎奈瑟菌荚膜多糖的抗体可提供对该病原体的免疫力。四价脑膜炎球菌疫苗包含来自主要血清型（A、C、Y 和 W）的荚膜多糖。B 群疫苗接种使用重组蛋白。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathogenesis, clinical presentation, and prevention of Neisseria meningitidis infection, specifically focusing on the antigenic components used in meningococcal vaccines. It requires understanding of the role of capsular polysaccharides in immunity against this pathogen.\n\nTo solve this question, recognize the clinical presentation suggestive of meningococcal meningitis (rapid onset, fever, headache, nuchal rigidity, purpuric rash). Recall that capsular polysaccharides are the primary antigenic components in quadrivalent meningococcal vaccines, providing immunity against specific serotypes of N. meningitidis.",
+    "zh": "此题考察对脑膜炎奈瑟菌感染的发病机制、临床表现和预防的了解，特别侧重于脑膜炎球菌疫苗中使用的抗原成分。它需要理解荚膜多糖在此病原体免疫中的作用。\n\n要解决此问题，请识别提示脑膜炎球菌性脑膜炎的临床表现（快速起病、发热、头痛、颈项强直、紫癜性皮疹）。回忆一下，荚膜多糖是四价脑膜炎球菌疫苗中的主要抗原成分，可提供对特定血清型脑膜炎奈瑟菌的免疫力。"
+  },
+  "tags": "Meningococcal meningitis; Neisseria meningitidis; Capsular polysaccharide; Vaccine; Infectious disease; Public health; Purpuric rash; Nuchal rigidity; Meningococcemia",
+  "category": "Neuro",
+  "question_id": "1853",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1853",
+  "extracted_at": "2025-11-05T15:25:03.285114",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:22:08.184060",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

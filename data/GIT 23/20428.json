@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 30-year-old man comes to the office due to a 4-month history of fatigue that is worse at the end of the day. The patient has also had abdominal bloating and intermittent loose stools after meals. His appetite is normal, and he has had no weight loss. Vital signs are normal. Examination shows pale mucosa. The abdomen is mildly distended and tympanic; there is no tenderness or organomegaly. Rectal examination reveals brown stool that is negative for fecal occult blood. Laboratory results are as follows:\n\nHematocrit 28%\nMean corpuscular volume 75 μm³\nLeukocytes 7,100/mm³\nPlatelets 490,000/mm³\n\nC-reactive protein level is normal.",
+    "zh": "一名30岁男性因4个月的疲劳病史就诊，疲劳在一天结束时加重。患者饭后还出现腹胀和间歇性稀便。食欲正常，无体重减轻。生命体征正常。体格检查显示黏膜苍白。腹部轻度膨胀，呈鼓音；无压痛或脏器肿大。直肠检查显示棕色粪便，潜血阴性。实验室检查结果如下：\n\n血细胞比容 28%\n平均红细胞体积 75 μm³\n白细胞 7,100/mm³\n血小板 490,000/mm³\n\nC反应蛋白水平正常。"
+  },
+  "question": {
+    "en": "Which of the following pathologic gastrointestinal tract findings is most likely to be present in this patient?",
+    "zh": "该患者最有可能出现以下哪种胃肠道病理发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Atrophic mucosa with loss of villi of the small intestine",
+      "zh": "小肠萎缩性黏膜伴绒毛消失"
+    },
+    "B": {
+      "en": "Autoimmune destruction of gastric parietal cells",
+      "zh": "胃壁细胞的自身免疫性破坏"
+    },
+    "C": {
+      "en": "Chronic inflammation within the colonic mucosa and submucosa",
+      "zh": "结肠黏膜和黏膜下层的慢性炎症"
+    },
+    "D": {
+      "en": "Giardia trophozoites lining the small intestinal mucosa",
+      "zh": "蓝氏贾第虫滋养体覆盖小肠黏膜"
+    },
+    "E": {
+      "en": "Subepithelial collagen deposition in the colon",
+      "zh": "结肠上皮下胶原沉积"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's loose stools, abdominal cramps, and microcytic anemia are most likely due to CELIAC DISEASE, an immune-mediated disorder of the small bowel caused by dietary gluten. Gliadin, a component of gluten, is responsible for triggering the T-cell-mediated reaction against the small-bowel mucosa seen in celiac disease. This is initially characterized by intraepithelial lymphocytosis, followed as the disease progresses by a LOSS of small-bowel intestinal villi and mucosal atrophy. This decreases the nutritional absorptive capabilities of the small bowel, particularly in the duodenum and proximal jejunum.\n\nBecause iron is absorbed primarily in the duodenum, IRON DEFICIENCY leading to microcytic anemia is a common manifestation of celiac disease; common presenting features include fatigue and pale mucosa. Other symptoms of gluten-sensitive enteropathy include postprandial diarrhea and steatorrhea (eg, pale, loose stools), abdominal cramps, bloating, flatulence, and weight loss. Celiac disease is not associated with elevated systemic inflammatory markers (eg, C-reactive protein, erythrocyte sedimentation rate), and unlike gastrointestinal disorders that cause chronic blood loss (eg, inflammatory bowel disease, colon cancer), in celiac disease, fecal occult blood testing is negative.\n\n(Choice B) Pernicious anemia is characterized by antibody-mediated destruction of intrinsic factor and gastric parietal cells. This can lead to decreased vitamin B₁₂ absorption, with macrocytic (not microcytic) anemia, glossitis, and, sometimes, subacute combined degeneration of the dorsolateral spinal cord.\n\n(Choice C) Ulcerative colitis causes chronic inflammatory changes of the colonic mucosa and submucosa. Iron deficiency anemia is common but is due to blood loss rather than malabsorption; a positive fecal occult blood test would be expected, and inflammatory markers are typically elevated.\n\n(Choice D) Giardiasis is usually diagnosed on stool testing, although Giardia lamblia trophozoites are readily visible on small-bowel biopsy. Giardiasis is a common cause of diarrhea and may cause steatorrhea due to impairment of brush border enzymes. However, iron malabsorption with microcytic anemia is uncommon.\n\n(Choice E) Collagenous colitis is characterized by subepithelial collagen deposition in the colon. It often causes watery diarrhea but does not affect iron absorption in the small intestine, so microcytic anemia would be unexpected.\n\nEducational objective:\nCeliac disease is an immune-mediated disorder triggered by dietary gluten that causes small-bowel malabsorption. Because the proximal small bowel is primarily affected, iron deficiency leading to microcytic anemia is common. Histopathology is characterized by intraepithelial lymphocytosis, loss of intestinal villi, and mucosal atrophy. {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "该患者的稀便、腹部绞痛和小细胞性贫血最有可能由乳糜泻引起，乳糜泻是一种由饮食中麸质引起的、免疫介导的小肠疾病。麦醇溶蛋白是麸质的成分之一，负责触发针对乳糜泻中观察到的小肠黏膜的 T 细胞介导的反应。这最初的特征是上皮内淋巴细胞增多，随着疾病的进展，继而出现小肠绒毛消失和黏膜萎缩。这降低了小肠的营养吸收能力，尤其是在十二指肠和近端空肠。\n\n由于铁主要在十二指肠中吸收，因此导致小细胞性贫血的缺铁是乳糜泻的常见表现；常见的表现包括疲劳和黏膜苍白。麸质敏感性肠病的其它症状包括餐后腹泻和脂肪泻（例如，苍白、稀便）、腹部绞痛、腹胀、腹胀和体重减轻。乳糜泻与全身炎症标志物（例如，C 反应蛋白、红细胞沉降率）升高无关，而且与引起慢性失血的胃肠道疾病（例如，炎性肠病、结肠癌）不同，乳糜泻的粪便潜血试验呈阴性。\n\n（选项 B）恶性贫血的特征是抗体介导的内因子和胃壁细胞的破坏。这可导致维生素B₁₂吸收减少，出现大细胞性（而非小细胞性）贫血、舌炎，有时还会出现脊髓背外侧亚急性联合变性。\n\n（选项 C）溃疡性结肠炎引起结肠黏膜和黏膜下层的慢性炎症改变。缺铁性贫血很常见，但由于失血而非吸收不良；预计粪便潜血试验呈阳性，炎症标志物通常升高。\n\n（选项 D）贾第虫病通常通过粪便检测诊断，尽管在小肠活检中，蓝氏贾第虫滋养体很容易看到。贾第虫病是腹泻的常见原因，并可能由于刷状缘酶受损而引起脂肪泻。然而，铁吸收不良伴小细胞性贫血并不常见。\n\n（选项 E）胶原性结肠炎的特征是结肠上皮下胶原沉积。它通常会导致水样腹泻，但不会影响小肠对铁的吸收，因此不应出现小细胞性贫血。\n\n教学目标：\n乳糜泻是一种由饮食中麸质触发的免疫介导的疾病，可引起小肠吸收不良。由于主要影响近端小肠，因此导致小细胞性贫血的缺铁很常见。组织病理学的特征是上皮内淋巴细胞增多、肠绒毛消失和黏膜萎缩。{{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of celiac disease presentation, including symptoms like fatigue, abdominal bloating, loose stools, and microcytic anemia. It also assesses understanding of the underlying pathophysiology involving gluten sensitivity and small bowel malabsorption.\n\nTo solve this question, recognize the constellation of symptoms suggestive of malabsorption, particularly in the context of microcytic anemia. Rule out other causes of anemia and gastrointestinal symptoms based on the provided information, focusing on the characteristic features of celiac disease.",
+    "zh": "此问题测试对乳糜泻表现的知识，包括疲劳、腹胀、稀便和小细胞性贫血等症状。它还评估对涉及麸质敏感性和小肠吸收不良的潜在病理生理学的理解。\n\n要解决这个问题，需要识别提示吸收不良的症状组合，尤其是在小细胞性贫血的背景下。根据提供的信息，排除贫血和胃肠道症状的其他原因，重点关注乳糜泻的特征。"
+  },
+  "tags": "Celiac disease; Malabsorption; Microcytic anemia; Gluten sensitivity; Small intestine; Gastroenterology",
+  "category": "GIT",
+  "question_id": "20428",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\20428",
+  "extracted_at": "2025-11-05T14:31:03.402938",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:54:48.479700",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

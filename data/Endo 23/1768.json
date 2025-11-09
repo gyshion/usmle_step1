@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "Researchers studying the pathophysiology of diabetes mellitus identify a family with an inherited mutation in the insulin gene. The mutation results in a single amino acid substitution in the proinsulin molecule. However, affected family members are asymptomatic, and most have completely normal blood glucose levels. Analysis of the mature insulin molecule shows that it is identical to normal human insulin. The researchers conclude that the amino acid substitution affects a segment of proinsulin removed during post-translational processing of the protein. The polypeptide segment containing the mutation is most likely to undergo which of the following processes within pancreatic beta cells?",
+    "zh": "研究人员研究糖尿病的病理生理学，发现一个家族的胰岛素基因存在遗传突变。该突变导致胰岛素原分子中的单个氨基酸发生了改变。然而，受影响的家庭成员无症状，并且大多数人的血糖水平完全正常。对成熟胰岛素分子的分析表明，它与正常人胰岛素相同。研究人员得出结论，氨基酸的改变影响了翻译后蛋白质处理过程中被移除的胰岛素原片段。 含有突变的肽段最有可能在胰腺β细胞内经历以下哪个过程？"
+  },
+  "question": {
+    "en": "The polypeptide segment containing the mutation is most likely to undergo which of the following processes within pancreatic beta cells?",
+    "zh": "含有突变的肽段最有可能在胰腺β细胞内经历以下哪个过程？"
+  },
+  "options": {
+    "A": {
+      "en": "Degradation in lysosomes",
+      "zh": "溶酶体降解"
+    },
+    "B": {
+      "en": "Degradation in proteasomes",
+      "zh": "蛋白酶体降解"
+    },
+    "C": {
+      "en": "Degradation in the rough endoplasmic reticulum",
+      "zh": "粗面内质网降解"
+    },
+    "D": {
+      "en": "Direct translocation across the plasma membrane",
+      "zh": "直接穿过质膜"
+    },
+    "E": {
+      "en": "Storage in secretory granules",
+      "zh": "储存在分泌颗粒中"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Insulin, a polypeptide hormone synthesized by pancreatic beta cells, is released in response to elevated glucose levels. Insulin mRNA codes for preproinsulin, a larger precursor molecule that begins with a hydrophobic N-terminal signal peptide. Shortly after translation begins, this signal sequence interacts with cytosolic signal recognition particle, which halts protein synthesis until the ribosome translocates to the rough endoplasmic reticulum (RER). Once bound to the RER, translation resumes and the growing peptide chain is extruded into the RER. The N-terminal signal peptide is then cleaved from preproinsulin to yield proinsulin. \n\nProinsulin undergoes conformational changes and the addition of 3 disulfide bonds in the RER. Proinsulin is then transported to the Golgi apparatus, where it is packed into secretory granules. Endopeptidases in the secretory granules cleave proinsulin into insulin and C-peptide, which are then stored within the granules until they are secreted from the cell via exocytosis {{exhibit_1}} (Choices A, B, and C).\n\nExogenous insulin administered to patients with diabetes does not contain C-peptide. However, C-peptide released from beta cells remains in the circulation with a half-life of approximately 35 minutes and can be assayed as a surrogate marker for endogenous insulin production.\n\n(Choice D) Most proteins destined for the extracellular space have a signaling sequence that directs them to the RER/Golgi apparatus, where they are packaged into secretory vesicles. However, a few proteins, such as interleukin-1, lack a signaling sequence and are secreted directly from the cytoplasm via an unconventional mechanism.\n\nEducational objective:\nCleavage of proinsulin in pancreatic beta-cell secretory granules yields insulin and C-peptide, which are stored in the granules until they are secreted in equimolar amounts. {{exhibit_2}}",
+    "zh": "胰岛素，一种由胰腺β细胞合成的多肽激素，响应血糖水平升高而释放。胰岛素mRNA编码前胰岛素原，一个较大的前体分子，以疏水的N端信号肽开始。翻译开始后不久，该信号序列与胞质信号识别颗粒相互作用，该颗粒会停止蛋白质合成，直到核糖体易位到粗面内质网 (RER)。一旦与RER结合，翻译恢复，不断增长的肽链被挤入RER。然后，N端信号肽从前胰岛素原中切割下来，生成胰岛素原。\n\n胰岛素原在RER中经历构象变化并添加3个二硫键。然后，胰岛素原被运输到高尔基体，在那里被包装到分泌颗粒中。分泌颗粒中的内肽酶将胰岛素原切割成胰岛素和C肽，然后将它们储存在颗粒内，直到它们通过胞吐作用从细胞中分泌出来 {{exhibit_1}} (选项A、B和C)。\n\n给予糖尿病患者的外源性胰岛素不含C肽。然而，从β细胞释放的C肽仍存在于循环中，半衰期约为35分钟，并且可以作为内源性胰岛素生成的替代标志物进行检测。\n\n(选项D) 大多数注定要进入细胞外空间的蛋白质都具有一个信号序列，将它们引导到RER/高尔基体，在那里它们被包装到分泌囊泡中。然而，少数蛋白质，如白介素-1，缺乏信号序列，并通过非传统机制直接从细胞质中分泌出来。\n\n教育目标：\n胰腺β细胞分泌颗粒中胰岛素原的切割产生胰岛素和C肽，它们储存在颗粒中，直到以等摩尔量分泌。 {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of insulin synthesis and processing, specifically the post-translational modifications and cleavage events that occur within pancreatic beta cells. It requires understanding the roles of the endoplasmic reticulum, Golgi apparatus, and secretory granules in producing mature insulin. \n\nThe key to solving this question is recognizing that the mutation affects a segment of proinsulin that is removed during processing. Therefore, the mutated segment is most likely to be stored in secretory granules along with insulin and C-peptide until secretion, rather than being degraded or translocated across the plasma membrane.",
+    "zh": "这个问题测试对胰岛素合成和处理的知识，特别是发生在胰腺β细胞内的翻译后修饰和切割事件。它需要了解内质网、高尔基体和分泌颗粒在产生成熟胰岛素中的作用。\n\n解决这个问题的关键是认识到突变影响了在处理过程中被移除的胰岛素原片段。因此，突变的片段最有可能与胰岛素和C肽一起储存在分泌颗粒中，直到分泌，而不是被降解或穿过质膜转运。"
+  },
+  "tags": "Insulin synthesis; Proinsulin processing; Post-translational modification; Pancreatic beta cells; Secretory granules; Diabetes mellitus; Endocrinology; Protein trafficking",
+  "category": "Endo",
+  "question_id": "1768",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\1768",
+  "extracted_at": "2025-11-05T14:02:31.824557",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:38:44.303700",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

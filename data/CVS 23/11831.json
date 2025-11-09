@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 53-year-old man is hospitalized due to chest pain and palpitations. Cardiac catheterization is planned to evaluate for coronary artery disease. The femoral artery is palpated in the right groin, and a catheter is introduced into the common femoral artery. The associated vasculature is visualized after injecting a contrast agent into the catheter. {{exhibit_1}}",
+    "zh": "一名53岁男性因胸痛和心悸住院。计划进行心脏导管插入术以评估冠状动脉疾病。在右侧腹股沟触诊股动脉，并将导管插入股总动脉。在将造影剂注入导管后，可视化相关的血管系统。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is most likely the artery indicated by the arrow in the image above?",
+    "zh": "在上述图像中，箭头所指的动脉最可能是以下哪一个？"
+  },
+  "options": {
+    "A": {
+      "en": "Inferior epigastric",
+      "zh": "腹壁下动脉"
+    },
+    "B": {
+      "en": "Internal iliac",
+      "zh": "髂内动脉"
+    },
+    "C": {
+      "en": "Medial circumflex femoral",
+      "zh": "旋股内侧动脉"
+    },
+    "D": {
+      "en": "Obturator",
+      "zh": "闭孔动脉"
+    },
+    "E": {
+      "en": "Superior gluteal",
+      "zh": "臀上动脉"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "As the aorta courses through the lower abdomen, it divides into the common iliac arteries, which subsequently branch into the internal and external iliac arteries. The inferior epigastric artery branches off the external iliac artery immediately proximal to the inguinal ligament before the external iliac artery becomes the common femoral artery. As the inferior epigastric artery runs superiorly and medially up the abdomen, it provides blood supply to the lower anterior abdominal wall. The other main branch off the external iliac artery is the deep circumflex iliac artery, which branches more laterally but also supplies blood to the lower abdominal wall.\n\n(Choices B, D, and E) The internal iliac artery supplies most of the structures of the pelvis, gluteal region, and medial thigh. The obturator artery is a branch of the internal iliac artery that runs inferiorly to supply blood to the bladder and medial compartment of the thigh. The superior gluteal artery is the continuation of the internal iliac artery and runs inferiorly to supply blood to the gluteal muscles and a portion of the hip.\n\n(Choice C) The medial circumflex femoral artery branches off the deep femoral artery to supply blood to the femoral neck.\n\nEducational objective:\nThe inferior epigastric artery branches off the external iliac artery immediately proximal to the inguinal ligament. It provides blood supply to the lower anterior abdominal wall as it runs superiorly and medially up the abdomen. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "当主动脉穿过下腹部时，它分为髂总动脉，髂总动脉随后分支为髂内动脉和髂外动脉。腹壁下动脉从髂外动脉分出，位于腹股沟韧带近端，髂外动脉成为股总动脉之前。当腹壁下动脉向上和向内侧走行时，它为下腹前壁提供血液供应。髂外动脉的另一个主要分支是旋髂深动脉，它分支得更靠外侧，但也为下腹壁供血。\n\n（选项 B、D 和 E）髂内动脉为骨盆、臀部和股内侧的大部分结构供血。闭孔动脉是髂内动脉的分支，向下走行，为膀胱和股内侧间室供血。臀上动脉是髂内动脉的延续，向下走行，为臀肌和髋部的一部分供血。\n\n（选项 C）旋股内侧动脉从股深动脉分出，为股骨颈供血。\n\n教育目标：\n腹壁下动脉从髂外动脉分出，位于腹股沟韧带近端。当它向上和向内侧走行时，为下腹前壁提供血液供应。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the arterial anatomy of the lower abdomen and pelvis, specifically the origin and course of the inferior epigastric artery. It requires interpretation of an angiogram to identify the artery indicated by the arrow.\n\nTo solve this question, one must recognize the anatomical relationships of the arteries in the region, particularly the branching pattern of the external iliac artery and the location of the inferior epigastric artery relative to the inguinal ligament.",
+    "zh": "此题考察对下腹部和骨盆动脉解剖结构的知识，特别是腹壁下动脉的起源和走行。它要求解释血管造影图以确定箭头所指的动脉。\n\n要解决这个问题，必须认识到该区域动脉的解剖关系，特别是髂外动脉的分支模式以及腹壁下动脉相对于腹股沟韧带的位置。"
+  },
+  "tags": "Inferior epigastric artery; Arterial anatomy; Angiography; External iliac artery; Cardiovascular anatomy; Vascular system; Groin anatomy",
+  "category": "CVS",
+  "question_id": "11831",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\11831",
+  "extracted_at": "2025-11-05T11:50:28.599087",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:44:22.631837",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

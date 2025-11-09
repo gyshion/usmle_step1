@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old man comes to the office due to a painful, growing lesion on his chest. The patient reports a laceration injury to the chest 6 months ago. A pink, firm plaque on examination is shown in the image below: {{exhibit_1}}",
+    "zh": "一名23岁的男性因胸部出现一个疼痛且不断增大的病灶前来就诊。患者报告6个月前胸部曾有撕裂伤。检查显示一个粉红色、质硬的斑块，如下图所示：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is most likely responsible for this patient's lesion?",
+    "zh": "以下哪项最有可能导致该患者的病变？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased insulin-like growth factor-1 signaling",
+      "zh": "胰岛素样生长因子-1信号传导降低"
+    },
+    "B": {
+      "en": "Decreased PDGF receptor activation on fibroblasts",
+      "zh": "成纤维细胞上PDGF受体活化降低"
+    },
+    "C": {
+      "en": "Increased fibroblast apoptosis rate",
+      "zh": "成纤维细胞凋亡率增加"
+    },
+    "D": {
+      "en": "Overexpression of transforming growth factor beta",
+      "zh": "转化生长因子β过度表达"
+    },
+    "E": {
+      "en": "Overproduction of matrix metalloproteinases",
+      "zh": "基质金属蛋白酶过度产生"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with a painful, growing lesion at the site of a prior injury likely has a keloid. Keloids and hypertrophic scars consist of connective tissue rich in fibroblasts, myofibroblasts, and bundles of collagen fibers and result from EXCESSIVE COLLAGEN FORMATION during the remodeling phase of wound healing, which typically occurs between 3 weeks and 2 years after an injury. The abundant collagen fibers are arranged in a disorganized fashion in keloids and parallel in hypertrophic scars.\n\nNormally, during the proliferation phase of wound healing, FIBROBLASTS PROLIFERATE, synthesize collagen and ground substance, and differentiate into myofibroblasts. These processes are promoted by transformation growth factor beta (TGF beta), which typically diminishes upon completion of wound repair, when the wound transitions to the maturation phase. In keloids, however, TGF beta is OVEREXPRESSED, with little regulation. As a result, keloids EXTEND BEYOND THE BORDERS of the original wound, do not regress, and often recur after resection. In contrast, hypertrophic scars are limited to the original wound borders and may regress spontaneously.\n\nKeloids can have a familial tendency, particularly in individuals of Asian or African ethnicity. They are often raised and painful/pruritic and are usually diagnosed clinically.\n\n(Choices A and B) Increased (vs decreased) activity of other factors that promote tissue growth and wound healing (eg, insulin-like growth factor 1, platelet-derived growth factor [PDGF]) are thought to contribute to keloid formation.\n\n(Choice C) In addition to increased fibroblast proliferation in response to TGF beta, a decreased (vs increased) fibroblast apoptosis rate may contribute to the greater number of fibroblasts (and subsequent increased collagen production) seen in keloids.\n\n(Choice E) Matrix metalloproteinases (MMP) contribute to tissue remodeling through degradation of the extracellular matrix, typically in a regulated fashion. Decreased MMP activity (leading to decreased extracellular matrix degradation) may contribute to keloid formation. In contrast, MMP overproduction is often present in chronic (ie, nonhealing) wounds.\n\nEducational objective:\nKeloids result from excessive collagen formation during the remodeling phase of wound healing, which occurs due to overexpression of transformation growth factor beta and excessive fibroblast proliferation. They typically present as raised, painful, and pruritic lesions that grow beyond the original wound borders. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "该患者在既往损伤部位出现疼痛、增生性病灶，很可能患有瘢痕疙瘩。瘢痕疙瘩和肥厚性瘢痕由富含成纤维细胞、肌成纤维细胞和胶原纤维束的结缔组织组成，是由于伤口愈合的重塑阶段胶原过度形成所致，通常发生在损伤后3周至2年之间。大量胶原纤维在瘢痕疙瘩中呈无序排列，而在肥厚性瘢痕中则平行排列。\n\n通常，在伤口愈合的增殖阶段，成纤维细胞增殖，合成胶原蛋白和基质，并分化为肌成纤维细胞。这些过程受转化生长因子β (TGF beta) 促进，通常在伤口修复完成后，当伤口过渡到成熟阶段时，TGF beta 会减少。然而，在瘢痕疙瘩中，TGF beta 过度表达，几乎没有调节。因此，瘢痕疙瘩会超出原始伤口的边界，不会消退，并且在切除后经常复发。相比之下，肥厚性瘢痕仅限于原始伤口边界，并且可能会自发消退。\n\n瘢痕疙瘩可能有家族倾向，尤其是在亚洲或非洲种族的人群中。它们通常隆起且疼痛/瘙痒，通常通过临床诊断。\n\n（选项 A 和 B）其他促进组织生长和伤口愈合的因子（例如，胰岛素样生长因子 1、血小板源性生长因子 [PDGF]）的活性增加（与降低相比）被认为有助于瘢痕疙瘩的形成。\n\n（选项 C）除了对 TGF beta 的反应而导致成纤维细胞增殖增加外，成纤维细胞凋亡率降低（与增加相比）可能导致瘢痕疙瘩中成纤维细胞数量更多（以及随后的胶原蛋白产生增加）。\n\n（选项 E）基质金属蛋白酶 (MMP) 通过降解细胞外基质，通常以受控的方式，促进组织重塑。MMP 活性降低（导致细胞外基质降解减少）可能有助于瘢痕疙瘩的形成。相比之下，MMP 过度产生通常存在于慢性（即，不愈合）伤口中。\n\n教学目标：\n瘢痕疙瘩是由于伤口愈合的重塑阶段胶原过度形成所致，这是由于转化生长因子β过度表达和成纤维细胞过度增殖引起的。它们通常表现为隆起、疼痛和瘙痒的病变，这些病变超出原始伤口边界。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of keloid formation, specifically the role of transforming growth factor beta (TGF-β) and collagen synthesis in the pathogenesis of keloids. It also requires differentiating keloids from hypertrophic scars.\n\nThe key to solving this question is recognizing the clinical presentation of a keloid (extending beyond the original wound borders) and associating it with the overexpression of TGF-β, which leads to excessive collagen production by fibroblasts.",
+    "zh": "此题考察了对瘢痕疙瘩形成的知识，特别是转化生长因子β (TGF-β) 和胶原蛋白合成在瘢痕疙瘩发病机制中的作用。它还需要区分瘢痕疙瘩和肥厚性瘢痕。\n\n解决此题的关键是识别瘢痕疙瘩的临床表现（超出原始伤口边界），并将其与 TGF-β 的过度表达联系起来，TGF-β 会导致成纤维细胞过度产生胶原蛋白。"
+  },
+  "tags": "Keloid; Hypertrophic scar; Wound healing; Collagen; Transforming growth factor beta; Fibroblasts; Dermatology; Connective tissue",
+  "category": "Derma",
+  "question_id": "874",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\874",
+  "extracted_at": "2025-11-05T12:22:46.144480",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:36:10.707601",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

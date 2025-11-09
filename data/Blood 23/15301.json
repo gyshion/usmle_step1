@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "Researchers studying chronic lymphocytic leukemia (CLL) observe that in some patients the disease is indolent, with limited growth over more than a decade, whereas in other patients the disease is more aggressive and becomes symptomatic early on. They find that genetic abnormalities can be detected in a majority of patients with CLL and may play a role in determining the difference between the 2 disease courses. A clinical study is conducted with the hypothesis that individuals with CLL with trisomy of chromosome 12 have a more favorable course than individuals with other genetic changes. Which of the following laboratory techniques would be most useful for identifying patients with this genetic abnormality?",
+    "zh": "研究人员研究慢性淋巴细胞白血病（CLL）时观察到，一些患者的疾病呈惰性，在十多年内生长有限，而另一些患者的疾病更具侵袭性，并且早期出现症状。他们发现，在大多数CLL患者中可以检测到基因异常，并且可能在确定这两种疾病病程的差异中发挥作用。进行了一项临床研究，其假设是，患有CLL且12号染色体三体性的个体的病程比具有其他基因改变的个体更理想。以下哪种实验室技术对于识别具有这种基因异常的患者最有用？"
+  },
+  "question": {
+    "en": "Which of the following laboratory techniques would be most useful for identifying patients with this genetic abnormality?",
+    "zh": "以下哪种实验室技术对于识别具有这种基因异常的患者最有用？"
+  },
+  "options": {
+    "A": {
+      "en": "Enzyme-linked immunosorbent assay",
+      "zh": "酶联免疫吸附试验"
+    },
+    "B": {
+      "en": "Flow cytometry",
+      "zh": "流式细胞术"
+    },
+    "C": {
+      "en": "Fluorescence in situ hybridization",
+      "zh": "荧光原位杂交"
+    },
+    "D": {
+      "en": "Northern blotting",
+      "zh": "Northern 印迹"
+    },
+    "E": {
+      "en": "Western blotting",
+      "zh": "Western 印迹"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Malignant cells typically contain a number of chromosomal translocations, deletions, or duplications that result in deregulation of gene expression and production of novel fusion proteins. Cytogenic analysis of tumor cells often demonstrates characteristic chromosomal abnormalities that may aid diagnosis, treatment selection, and estimation of prognosis.\n\nFluorescence in situ hybridization (FISH) is a highly sensitive cytogenetic test that can identify the presence of chromosomal duplications and large deletions and translocations. FISH probes are single-stranded DNA segments that are a few hundred kilobases in length; they are added to the cell of interest and anneal to complementary regions of the cell chromosome, which allows the area of interest to be identified visually.\n\nFISH is far more sensitive than traditional karyotyping (chromosome banding) and can be applied to both dividing (metaphase) and nondividing (interphase) cells. It is often used to identify large structural chromosomal abnormalities such as the BCR-ABL1 fusion of t(9;22) in chronic myeloid leukemia. However, small chromosomal insertions and deletions cannot be identified by FISH (because the probe size is somewhat large), and chromosomal inversions will be missed because FISH can only identify the presence or absence of a chromosomal segment, not the order in which it is coded.\n\n(Choice A) Enzyme-linked immunosorbent assay (ELISA) is used to quantify antibodies or antigens in a fluid.\n\n(Choice B) Flow cytometry is often used in the diagnosis of leukemia. However, this laser-based test evaluates surface markers (eg, CD5) on individual cells, not chromosomal duplications.\n\n(Choice D) Northern blotting is a technique that size-fractionates RNA in a gel and then targets a specific mRNA sequence of interest. It can determine the quantity and size of a particular mRNA section.\n\n(Choice E) Western blotting is a technique that size-fractionates proteins in a gel and then targets a specific protein using an antibody with a radiotracer/enzyme. It is often used to confirm a positive ELISA test in the setting of HIV or Lyme disease infection.\n\nEducational objective:\nFluorescence in situ hybridization (FISH) can identify specific chromosomal translocations, duplications, or deletions using a single-stranded, complementary DNA segment that is tagged with a radiotracer. FISH is rapid, highly sensitive and specific, and can be used on tissues with low mitotic rates. However, the targeted chromosomal abnormality must be somewhat large in order to be identified.",
+    "zh": "恶性细胞通常包含许多染色体易位、缺失或重复，导致基因表达失调和新型融合蛋白的产生。肿瘤细胞的细胞遗传学分析通常显示特征性的染色体异常，这可能有助于诊断、治疗选择和预后评估。\n\n荧光原位杂交（FISH）是一种高度敏感的细胞遗传学测试，可以识别染色体重复和大的缺失和易位。FISH探针是单链DNA片段，长度为数百千碱基；它们被添加到感兴趣的细胞中，并与细胞染色体的互补区域退火，这使得可以直观地识别感兴趣的区域。\n\nFISH比传统的核型分析（染色体显带）灵敏得多，并且可以应用于分裂（中期）和非分裂（间期）细胞。它通常用于识别大的结构性染色体异常，例如慢性髓性白血病中t(9;22)的BCR-ABL1融合。但是，小的染色体插入和缺失不能通过FISH识别（因为探针大小相对较大），并且会遗漏染色体倒位，因为FISH只能识别染色体片段的存在或不存在，而不能识别其编码的顺序。\n\n（选项 A）酶联免疫吸附试验（ELISA）用于量化液体中的抗体或抗原。\n\n（选项 B）流式细胞术常用于白血病的诊断。但是，这种基于激光的测试评估单个细胞上的表面标志物（例如，CD5），而不是染色体重复。\n\n（选项 D）Northern印迹是一种技术，它将RNA在凝胶中进行大小分级，然后靶向感兴趣的特定mRNA序列。它可以确定特定mRNA片段的数量和大小。\n\n（选项 E）Western印迹是一种技术，它将蛋白质在凝胶中进行大小分级，然后使用带有放射性示踪剂/酶的抗体靶向特定蛋白质。它通常用于确认在HIV或莱姆病感染情况下的阳性ELISA测试。\n\n教育目标：\n荧光原位杂交（FISH）可以使用用放射性示踪剂标记的单链互补DNA片段来识别特定的染色体易位、重复或缺失。FISH快速、高度灵敏和特异，可用于有丝分裂率低的组织。但是，必须使靶向的染色体异常足够大才能被识别。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of laboratory techniques used to identify genetic abnormalities, specifically chromosomal duplications like trisomy 12 in chronic lymphocytic leukemia (CLL). It requires understanding the principles and applications of different molecular diagnostic methods.\n\nThe best approach is to consider the specific genetic abnormality being investigated (trisomy 12) and select the technique most suitable for detecting chromosomal duplications. Fluorescence in situ hybridization (FISH) is designed to identify specific DNA sequences and is therefore the most appropriate choice.",
+    "zh": "这个问题测试了关于用于识别基因异常的实验室技术的知识，特别是慢性淋巴细胞白血病（CLL）中的染色体重复，如12号染色体三体。它需要理解不同分子诊断方法的原理和应用。\n\n最好的方法是考虑正在研究的特定基因异常（12号染色体三体），并选择最适合检测染色体重复的技术。荧光原位杂交（FISH）旨在识别特定的DNA序列，因此是最合适的选择。"
+  },
+  "tags": "Fluorescence in situ hybridization; FISH; Chronic lymphocytic leukemia; CLL; Trisomy 12; Cytogenetics; Chromosomal abnormalities; Molecular diagnostics; Hematology; Oncology",
+  "category": "Blood",
+  "question_id": "15301",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\15301",
+  "extracted_at": "2025-11-05T11:25:18.251858",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:27:48.281231",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A group of forensic pathologist are analyzing tissue samples of adolescents age 13-18 to study the aging process. Autopsy of a 14-year-old boy who died in a motor vehicle accident shows several minimally raised yellow spots on the inner surface of the abdominal aorta. The rest of the cardiovascular findings during the autopsy are unremarkable. He had no known medical problems. There was no family history of cardiovascular disease or sudden cardiac death.",
+    "zh": "一群法医病理学家正在分析13-18岁青少年组织的样本，以研究衰老过程。一名因车祸死亡的14岁男孩的尸检显示，腹主动脉内表面有几个轻微隆起的黄色斑点。尸检中其余的心血管发现无显著异常。他没有任何已知的医学问题。既往无心血管疾病或猝死的家族史。"
+  },
+  "question": {
+    "en": "Which of the following is most likely to be the predominant cell type in these lesions on light microscopy?",
+    "zh": "在光学显微镜下，以下哪一项最可能是这些病变中的主要细胞类型？"
+  },
+  "options": {
+    "A": {
+      "en": "Eosinophils",
+      "zh": "嗜酸性粒细胞"
+    },
+    "B": {
+      "en": "Fibroblasts",
+      "zh": "成纤维细胞"
+    },
+    "C": {
+      "en": "Macrophages",
+      "zh": "巨噬细胞"
+    },
+    "D": {
+      "en": "Mast cells",
+      "zh": "肥大细胞"
+    },
+    "E": {
+      "en": "Neutrophils",
+      "zh": "中性粒细胞"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The lesions described during autopsy on the inner surface of the abdominal aorta are consistent with fatty streaks {{exhibit_1}}. These are the earliest lesions in the progression to atherosclerosis and can be seen as early as the second decade of life. Atherosclerosis is a pathophysiologic process that begins in childhood with the development of focal intimal thickening and lipid accumulation. It progresses in the following sequence:\n\n*   Endothelial injury/dysfunction causing increased vascular permeability and enhanced leukocyte adhesion\n*   Accumulation of lipoproteins (LDL) within the vessel wall\n*   Monocyte adhesion to the endothelium, followed by migration and transformation into lipid-laden macrophages (foam cells)\n*   Release of growth factors by adherent platelets, activated macrophages, and endothelial cells\n*   Recruitment of T cells and smooth muscle cell proliferation, which lead to extracellular matrix production\n\nWith advancing age, the chronic inflammatory process initiated by endothelial injury transitions from fatty streaks within the intima (composed mainly of lipid-laden foam cells) into atherosclerotic plaques, such as fibrous cap atheromas and fibrous plaques.\n\n(Choices A, B, D, and E) Eosinophils, fibroblasts, mast cells, and neutrophils are not the predominant cell types found in fatty streaks.\n\nEducational objective:\nFatty streaks are the earliest lesions of atherosclerosis and can be seen as early as the second decade of life. They appear as a collection of lipid-laden macrophages (foam cells) in the intima that can eventually progress to atherosclerotic plaques.",
+    "zh": "尸检中描述的腹主动脉内表面的病变与脂肪条纹 {{exhibit_1}} 一致。这些是进展为动脉粥样硬化的最早病变，最早可在生命的第二个十年看到。动脉粥样硬化是一种病理生理过程，始于儿童时期，表现为局灶性内膜增厚和脂质积聚。它按以下顺序进展：\n\n*   内皮损伤/功能障碍导致血管通透性增加和白细胞粘附增强\n*   脂蛋白（LDL）在血管壁内的积聚\n*   单核细胞粘附于内皮，随后迁移并转化为富含脂质的巨噬细胞（泡沫细胞）\n*   粘附血小板、活化巨噬细胞和内皮细胞释放生长因子\n*   募集T细胞和平滑肌细胞增殖，导致细胞外基质产生\n\n随着年龄的增长，由内皮损伤引起的慢性炎症过程从内膜内的脂肪条纹（主要由富含脂质的泡沫细胞组成）转变为动脉粥样硬化斑块，例如纤维帽粥样瘤和纤维斑块。\n\n（选项 A、B、D 和 E）嗜酸性粒细胞、成纤维细胞、肥大细胞和中性粒细胞不是脂肪条纹中主要的细胞类型。\n\n教育目标：\n脂肪条纹是动脉粥样硬化的最早病变，最早可在生命的第二个十年看到。它们表现为内膜中富含脂质的巨噬细胞（泡沫细胞）的集合，最终可能发展为动脉粥样硬化斑块。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathogenesis of atherosclerosis, specifically the composition of fatty streaks, which are the earliest lesions. The predominant cell type in fatty streaks are lipid-laden macrophages (foam cells). \n\nTo solve this question, recognize the description of fatty streaks and recall their composition. Understanding the early stages of atherosclerosis and the role of macrophages is crucial for answering correctly.",
+    "zh": "此问题测试对动脉粥样硬化发病机制的了解，特别是脂肪条纹的组成，脂肪条纹是最早的病变。脂肪条纹中的主要细胞类型是富含脂质的巨噬细胞（泡沫细胞）。\n\n要解决这个问题，需要认识到对脂肪条纹的描述并回忆其组成。了解动脉粥样硬化的早期阶段和巨噬细胞的作用对于正确回答至关重要。"
+  },
+  "tags": "Atherosclerosis; Fatty streaks; Macrophages; Foam cells; Cardiovascular disease; Pathology",
+  "category": "CVS",
+  "question_id": "444",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\444",
+  "extracted_at": "2025-11-05T12:14:17.467136",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:29:57.274913",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

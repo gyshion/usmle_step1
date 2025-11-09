@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 76-year-old hospitalized woman is evaluated for persistent fevers. Four days ago, she was admitted to the hospital for sepsis, for which she has received broad-spectrum empiric intravenous antibiotic therapy. Her temperature is 38.9 C (102 F), blood pressure is 110/80 mm Hg, pulse is 98/min, and respirations are 18/min. Cardiac examination reveals a new diastolic murmur. Multiple blood cultures drawn at different times grow Enterococcus. Echocardiogram reveals mitral valve vegetation suggestive of endocarditis. An intravenous antibiotic is added to the patient's treatment regimen for synergy. Several days later, she develops tinnitus and hearing loss attributed to this antibiotic. The additional antibiotic most directly affects which of the following processes?",
+    "zh": "一名76岁住院女性因持续发热接受评估。四天前，她因脓毒症入院，接受了广谱经验性静脉抗生素治疗。她的体温为38.9°C（102°F），血压为110/80 mmHg，脉搏为98次/分，呼吸为18次/分。心脏检查显示出现新的舒张期杂音。不同时间抽取的多次血培养均生长出肠球菌。超声心动图显示二尖瓣赘生物，提示心内膜炎。为了协同作用，在患者的治疗方案中加入了一种静脉抗生素。几天后，她出现耳鸣和听力损失，这归因于这种抗生素。这种额外的抗生素最直接影响以下哪种过程？"
+  },
+  "question": {
+    "en": "The additional antibiotic most directly affects which of the following processes?",
+    "zh": "这种额外的抗生素最直接影响以下哪种过程？"
+  },
+  "options": {
+    "A": {
+      "en": "Cell wall cross-linking",
+      "zh": "细胞壁交联"
+    },
+    "B": {
+      "en": "DNA unwinding",
+      "zh": "DNA解旋"
+    },
+    "C": {
+      "en": "Folic acid synthesis",
+      "zh": "叶酸合成"
+    },
+    "D": {
+      "en": "Maintenance of transmembrane potential",
+      "zh": "跨膜电位的维持"
+    },
+    "E": {
+      "en": "mRNA genetic code reading",
+      "zh": "mRNA遗传密码阅读"
+    },
+    "F": {
+      "en": "tRNA charging",
+      "zh": "tRNA充电"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient with enterococcal endocarditis likely received an aminoglycoside (AG) such as gentamicin, a ribosome-targeting antibiotic. AGs are associated with OTOTOXICITY (hearing loss, tinnitus) and NEPHROTOXICITY.\n\nmRNA is translated into amino acids (AAs) and proteins on ribosomes.\n\n*   The small ribosomal subunit (30S in prokaryotes, 40S in eukaryotes) binds mRNA, which contains genetic information serving as a reading frame, and tRNA, which serves as an AA carrier\n*   The larger ribosomal subunit (50S in prokaryotes, 60S in eukaryotes) contains peptidyltransferase, which catalyzes peptide bond formation between AAs\n\nIn prokaryotes, a unique mRNA sequence (Shine-Dalgarno) is located upstream from initiation codon AUG, which recognizes an N-formylmethionine-tRNA. This sequence allows 30S binding to mRNA and this N-formylmethionine-tRNA (forming the prokaryotic 30S initiation complex). The energy for this reaction (GTP hydrolysis) brings the 50S subunit into the initiation complex, resulting in a 70S ribosomal unit.\n\nAGs irreversibly bind to bacterial 30S but not eukaryotic 40S; this causes genetic code misreading and bacterial protein synthesis inhibition. AGs also appear to impact translocation, whereby an aminoacyl-tRNA is shifted from the ribosomal A site (after initial binding) to the P site (after AA incorporation into the peptide chain during elongation) to the E site (after AA cleaving from its tRNA). The initial N-formylmethionine-tRNA notably binds at the P site.\n\n(Choice A) AGs need to diffuse inside the cell to reach the ribosome. As a result, they are often prescribed synergistically in combination with antibiotics affecting cell wall synthesis. These include penicillins, which impact cell wall cross-linking, or vancomycin. Vancomycin is also associated with ototoxicity, but it is a glycopeptide antibiotic that acts by directly inhibiting peptidoglycan synthesis, not cell wall cross-linking (which occurs at a later stage of cell wall synthesis). Although Enterococcus is generally resistant to AGs, these drugs are routinely used as synergistic agents in combination with penicillins or vancomycin in patients with enterococcal endocarditis; such combinations lead to improved bacterial killing and are the standard of care for this condition.\n\n(Choices B and C) Fluoroquinolones act on DNA gyrase to prevent DNA unwinding. Trimethoprim-sulfamethoxazole affects folic acid synthesis. These antibiotics are not classically associated with ototoxicity and are not used synergistically for enterococcal endocarditis.\n\n(Choice D) Daptomycin disrupts the bacterial membrane by creating transmembrane channels that cause intracellular ion leakage and cellular membrane depolarization. Its main side effects are myopathy and rhabdomyolysis.\n\n(Choice F) tRNA charging refers to initial covalent bonding between tRNA and the corresponding AA, facilitated by aminoacyl-tRNA synthetase; inhibitors of this enzyme are potential antibiotics.\n\nEducational objective: Aminoglycosides inhibit genetic code reading and protein synthesis by binding to the prokaryotic 30S ribosomal subunit.",
+    "zh": "这位患有肠球菌性心内膜炎的患者很可能接受了氨基糖苷类药物（AG），如庆大霉素，这是一种靶向核糖体的抗生素。AG 与耳毒性（听力损失、耳鸣）和肾毒性有关。\n\nmRNA 在核糖体上被翻译成氨基酸 (AA) 和蛋白质。\n\n*  小的核糖体亚基（原核生物为 30S，真核生物为 40S）与 mRNA 结合，mRNA 包含充当阅读框架的遗传信息，并与 tRNA 结合，tRNA 充当 AA 载体\n*  较大的核糖体亚基（原核生物为 50S，真核生物为 60S）包含肽基转移酶，肽基转移酶催化 AA 之间的肽键形成\n\n在原核生物中，一个独特的 mRNA 序列（Shine-Dalgarno）位于起始密码子 AUG 的上游，它识别 N-甲酰甲硫氨酸-tRNA。该序列允许 30S 与 mRNA 和 N-甲酰甲硫氨酸-tRNA 结合（形成原核 30S 起始复合物）。该反应的能量（GTP 水解）将 50S 亚基带入起始复合物，从而形成 70S 核糖体单位。\n\nAG 不可逆地与细菌 30S 结合，但不与真核生物 40S 结合；这会导致遗传密码错误读取和细菌蛋白质合成抑制。AG 似乎也会影响易位，即氨酰-tRNA 从核糖体的 A 位点（初始结合后）转移到 P 位点（AA 并入肽链过程中延伸后）再到 E 位点（AA 从其 tRNA 裂解后）。最初的 N-甲酰甲硫氨酸-tRNA 显著地结合在 P 位点。\n\n（选项 A）AG 需要扩散到细胞内才能到达核糖体。因此，它们通常与影响细胞壁合成的抗生素联合使用，以发挥协同作用。这些包括青霉素，它影响细胞壁交联，或万古霉素。万古霉素也与耳毒性有关，但它是一种糖肽抗生素，通过直接抑制肽聚糖合成起作用，而不是细胞壁交联（这发生在细胞壁合成的后期）。尽管肠球菌通常对 AG 具有耐药性，但这些药物通常与青霉素或万古霉素联合使用，作为肠球菌性心内膜炎患者的协同药物；这种联合用药可提高杀菌效果，是该病的标准治疗方法。\n\n（选项 B 和 C）氟喹诺酮类药物作用于 DNA 促旋酶以防止 DNA 解旋。甲氧苄啶-磺胺甲恶唑影响叶酸合成。这些抗生素与耳毒性没有经典关联，并且不用于肠球菌性心内膜炎的协同治疗。\n\n（选项 D）达托霉素通过创建跨膜通道来破坏细菌膜，从而导致细胞内离子泄漏和细胞膜去极化。其主要副作用是肌病和横纹肌溶解症。\n\n（选项 F）tRNA 充电是指 tRNA 与相应的 AA 之间的初始共价键合，由氨酰-tRNA 合成酶促进；这种酶的抑制剂是潜在的抗生素。\n\n教学目标：氨基糖苷类药物通过与原核生物 30S 核糖体亚基结合来抑制遗传密码阅读和蛋白质合成。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of aminoglycoside antibiotics, their mechanism of action, and associated toxicities, specifically ototoxicity. It requires understanding of how aminoglycosides interfere with mRNA genetic code reading during protein synthesis in bacteria, leading to hearing loss and tinnitus.\n\nTo solve this question, recognize the clinical presentation of ototoxicity (tinnitus and hearing loss) following aminoglycoside administration. Recall that aminoglycosides bind to the 30S ribosomal subunit, disrupting mRNA translation and causing genetic code misreading, ultimately inhibiting bacterial protein synthesis.",
+    "zh": "本题测试对氨基糖苷类抗生素、其作用机制和相关毒性的了解，特别是耳毒性。它需要了解氨基糖苷类药物如何在细菌蛋白质合成过程中干扰 mRNA 遗传密码阅读，从而导致听力损失和耳鸣。\n\n要解决这个问题，请识别氨基糖苷类药物给药后耳毒性的临床表现（耳鸣和听力损失）。回想一下，氨基糖苷类药物与 30S 核糖体亚基结合，破坏 mRNA 翻译并导致遗传密码错误读取，最终抑制细菌蛋白质合成。"
+  },
+  "tags": "Aminoglycosides; Ototoxicity; Protein synthesis; mRNA; Ribosomes; Antibiotics; Enterococcus; Endocarditis; Infectious disease; Pharmacology",
+  "category": "Micro",
+  "question_id": "1488",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1488",
+  "extracted_at": "2025-11-05T14:53:50.904258",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:07:33.905445",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

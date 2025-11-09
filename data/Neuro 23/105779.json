@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old man comes to the office for follow-up one month after a stroke that resulted in speech difficulties. He says that he is improving: \"I can understand everything, but I still have trouble talking with people I don't mow... I mean show, no slow! I'm so frustrated because I know what I want to say but I just can't say it night!\" The patient's speech is fluid with appropriate cadence, but he is unable to correctly repeat phrases that the physician verbalizes. He can follow 2- and 3-step commands without difficulty. Which of the following brain regions is most likely impaired in this patient? {{exhibit_1}}",
+    "zh": "一名63岁的男性因中风一个月后出现言语困难前来就诊复查。他说他正在好转：“我什么都听得懂，但我还是很难和我不割草的人说话……我的意思是展示，不是慢！我非常沮丧，因为我知道我想说什么，但就是说不出来！“患者的言语流畅，语调适当，但他无法正确重复医生说出的短语。他可以毫不费力地执行2步和3步的指令。该患者最有可能损害以下哪个脑区？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following brain regions is most likely impaired in this patient?",
+    "zh": "该患者最有可能损伤以下哪个脑区？"
+  },
+  "options": {
+    "A": {
+      "en": "Arcuate fasciculus",
+      "zh": "弓形束"
+    },
+    "B": {
+      "en": "Wernicke area",
+      "zh": "韦尼克区"
+    },
+    "C": {
+      "en": "Mammillary bodies",
+      "zh": "乳头体"
+    },
+    "D": {
+      "en": "Broca area",
+      "zh": "布罗卡区"
+    },
+    "E": {
+      "en": "Thalamic nuclei",
+      "zh": "丘脑核"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Conduction aphasia occurs following damage to the arcuate fasciculus, a white matter tract that connects Broca and Wernicke areas. It is characterized by frequent phonemic paraphasic errors (ie, mixing up similar sounding words), impaired naming, and impaired repetition. Language comprehension is preserved; patients can follow commands. This presentation is consistent with conduction aphasia, which occurs following damage to the arcuate fasciculus (ie, the white matter tract that connects Broca and Wernicke areas); features include:\n\n•\tPhonemic paraphasic errors (ie, replacing words that sound similar to intended words [eg, show vs know, right vs night])\n•\tImpaired repetition\n•\tImpaired naming of objects\n•\tFrequent attempts at correction\n\n(Choice B) Wernicke area is in the caudal superior temporal gyrus. Similar to patients with conduction aphasia, patients with Wernicke aphasia have fluent, well-articulated speech (“word salad”) with impaired repetition. However, they also have impaired language comprehension. In addition, unlike this patient, they also typically lack insight into their deficits and therefore do not attempt to correct their speech errors.\n\n(Choices C and E) The mammillary bodies are impacted in Wernicke encephalopathy, a complication of THIAMINE DEFICIENCY. It is characterized by oculomotor dysfunction, gait ataxia, and encephalopathy. Korsakoff syndrome, characterized by permanent memory loss and confabulation (ie, filling in memory gaps with fabricated stories they believe to be true), is associated with damage to the anterior and dorsomedial thalamic nuclei. Neither represents a language disorder.\n\n(Choice D) Broca area is in the posterior inferior frontal gyrus. Lesions to this area lead to expressive aphasia. Patients with Broca aphasia have preserved language comprehension with impaired repetition, but speech is typically halting, nonfluid, and consists mostly of nouns and verbs (eg, “Dog…walk,” “Eat…eggs”).",
+    "zh": "传导性失语症发生在弓形束受损后，弓形束是连接布罗卡区和韦尼克区的一个白质束。其特征是频繁的语音性语 paraphasic 错误（即，混淆听起来相似的单词）、命名障碍和重复障碍。语言理解能力得以保留；患者可以听从指令。这种表现与传导性失语症一致，传导性失语症发生在弓形束受损后（即连接布罗卡区和韦尼克区的白质束）；特征包括：\n\n•\t语音性语 paraphasic 错误（即，替换听起来与预期单词相似的单词 [例如，show vs know，right vs night]）\n•\t重复受损\n•\t物体命名受损\n•\t频繁尝试纠正\n\n（选项B）韦尼克区位于尾部颞上回。与传导性失语症患者相似，韦尼克失语症患者有流畅、清晰的言语（“语词杂烩”）和重复障碍。然而，他们也有语言理解障碍。此外，与该患者不同的是，他们通常也缺乏对其缺陷的洞察力，因此不会尝试纠正其言语错误。\n\n（选项C和E）乳头体受到韦尼克脑病的影响，韦尼克脑病是硫胺素缺乏症的并发症。其特征是动眼神经功能障碍、步态共济失调和脑病。Korsakoff 综合征的特征是永久性记忆丧失和虚构（即，用他们认为是真实的虚构故事来填补记忆空白），这与前丘脑核和背内侧丘脑核的损伤有关。两者都不代表语言障碍。\n\n（选项D）布罗卡区位于后部额下回。该区域的病变会导致表达性失语症。布罗卡失语症患者的语言理解能力得以保留，但重复受损，但言语通常停顿、不流畅，主要由名词和动词组成（例如，“Dog…walk”，“Eat…eggs”）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of conduction aphasia, its clinical presentation, and the anatomical location of the lesion. It also tests the ability to differentiate conduction aphasia from other types of aphasia such as Wernicke's and Broca's aphasia. \n\nTo solve this question, focus on the key features of the patient's speech: fluent speech with phonemic paraphasic errors, impaired repetition, and preserved comprehension. This pattern is characteristic of conduction aphasia, which results from damage to the arcuate fasciculus.",
+    "zh": "本题测试对传导性失语症的认识、其临床表现以及病变的解剖学位置。它还测试将传导性失语症与其他类型的失语症（如韦尼克失语症和布罗卡失语症）区分开来的能力。\n\n要解决这个问题，请关注患者言语的关键特征：流畅的言语伴有语音性语 paraphasic 错误、重复受损和理解能力保留。这种模式是传导性失语症的特征，由弓形束的损伤引起。"
+  },
+  "tags": "Conduction aphasia; Arcuate fasciculus; Speech disorders; Neurology; Aphasia; Wernicke's aphasia; Broca's aphasia; Language comprehension; Speech repetition",
+  "category": "Neuro",
+  "question_id": "105779",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\105779",
+  "extracted_at": "2025-11-05T15:07:37.956493",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:16:21.743778",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

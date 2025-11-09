@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 2-day-old girl is evaluated in the newborn nursery due to tachypnea, sneezing, and diarrhea. The patient was born via spontaneous vaginal delivery and had been feeding well until several hours ago, when she became tachypneic. She has also been persistently crying and difficult to console. The patient's mother did not receive prenatal care during this pregnancy. Respirations are 65/min. All other vital signs are normal for age. On physical examination, the patient is irritable and has mildly increased tone in all extremities with occasional tremors of the arms and legs. Chest radiograph reveals normal lung fields. Serum glucose and complete blood count are within normal limits, and urine toxicology is pending. Nonpharmacologic interventions do not significantly improve the patient's symptoms.",
+    "zh": "一名 2 天大的女婴因呼吸急促、打喷嚏和腹泻而在新生儿病房接受评估。该患者经阴道自然分娩出生，进食良好，直至数小时前出现呼吸急促。她也一直在哭泣并且难以安抚。患者的母亲在本次怀孕期间未接受产前护理。呼吸频率为 65 次/分钟。所有其他生命体征均符合其年龄。体格检查显示，患者烦躁不安，四肢肌张力略有增高，手臂和腿偶尔出现震颤。胸部 X 光片显示肺野正常。血清葡萄糖和全血细胞计数在正常范围内，尿液毒理学检查结果待定。非药物干预措施并未明显改善患者的症状。"
+  },
+  "question": {
+    "en": "Which of the following pharmacotherapies would most likely improve this patient's symptoms?",
+    "zh": "以下哪种药物疗法最有可能改善该患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Flumazenil",
+      "zh": "氟马西尼"
+    },
+    "B": {
+      "en": "Morphine",
+      "zh": "吗啡"
+    },
+    "C": {
+      "en": "Naloxone",
+      "zh": "纳洛酮"
+    },
+    "D": {
+      "en": "Sodium bicarbonate",
+      "zh": "碳酸氢钠"
+    },
+    "E": {
+      "en": "Vitamin K",
+      "zh": "维生素 K"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This newborn has signs of NEONATAL ABSTINENCE SYNDROME (NAS), or withdrawal from transplacental exposure to maternal substances (primarily opioids). NAS due to OPIOID WITHDRAWAL occurs in the setting of maternal prescription use/misuse, illicit drug use, or treatment for a substance use disorder (eg, methadone). Newborns exposed to opioids with shorter half-lives (eg, heroin) are symptomatic sooner (eg, age 1-2 days) than those exposed to drugs with longer half-lives (eg, methadone).\n\nCharacteristic symptoms reflect a dysregulated CNS and autonomic dysfunction. EXCESSIVE IRRITABILITY, often caused by hyperresponsiveness to external stimuli (eg, bright lights, loud noise), and short, interrupted sleep cycles are typical. Symptoms of autonomic dysfunction including sweating, SNEEZING, and yawning. In addition, DIARRHEA, VOMITING, and poor feeding are common. Examination often reveals TACHYPNEA, TREMORS, and HYPERTONIA, as seen in this patient.\n\nThe initial treatment for NAS is NONPHARMACOLOGIC modifications, such as a low-stimuli environment (eg, quiet room) and swaddling to reduce tremors and irritability. Symptoms refractory to nonpharmacologic treatment, as in this case, warrant OPIOID REPLACEMENT (eg, morphine, methadone). Once symptoms are controlled, the medication is weaned off over several weeks.\n\n(Choice A) Neonatal withdrawal to maternal benzodiazepine use (less common than opioid use) can present similarly to opioid withdrawal and may warrant pharmacotherapy (eg, phenobarbital). However, flumazenil, a GABA receptor antagonist used for benzodiazepine reversal, can worsen benzodiazepine withdrawal.\n\n(Choice C) Naloxone is an opioid receptor antagonist used for acute opioid overdose. Administering naloxone for opioid withdrawal can result in more severe withdrawal symptoms and is contraindicated.\n\n(Choice D) Sodium bicarbonate can be used to treat toxic ingestions of tricyclic antidepressants and salicylates. However, toxic maternal ingestion of these substances would present with neonatal symptoms at birth, not two days later.\n\n(Choice E) Vitamin K prevents and treats vitamin K deficiency bleeding, which can occur in newborns with mothers who take medications that block vitamin K (eg, anticonvulsants). Unlike this case, patients develop bleeding (eg, mucosal surfaces, gastrointestinal tract, CNS).\n\nEducational objective:\nNeonatal abstinence syndrome due to maternal opioid use causes neurologic, gastrointestinal, and autonomic symptoms; irritability, tremors, diarrhea, and sneezing are classic findings. Patients with symptoms refractory to nonpharmacologic therapy warrant opioid replacement (eg, morphine).",
+    "zh": "这名新生儿有新生儿戒断综合征 (NAS) 的体征，或母体物质（主要是阿片类药物）经胎盘暴露后的戒断。因阿片类药物戒断引起的 NAS 发生在母亲处方使用/滥用、非法药物使用或物质使用障碍治疗（例如，美沙酮）的情况下。暴露于半衰期较短的阿片类药物（例如，海洛因）的新生儿的症状出现得更早（例如，1-2 天），而暴露于半衰期较长的药物（例如，美沙酮）的新生儿的症状出现得较晚。\n\n特征性症状反映了中枢神经系统和自主神经功能紊乱。过度烦躁，通常由对外部刺激（例如，强光、噪音）的过度反应引起，以及短暂、间断的睡眠周期是典型的。自主神经功能障碍的症状包括出汗、打喷嚏和打哈欠。此外，腹泻、呕吐和喂养不良也很常见。检查通常显示呼吸急促、震颤和肌张力增高，如该患者所示。\n\nNAS 的初始治疗是非药物干预措施，例如低刺激环境（例如，安静的房间）和襁褓以减少震颤和烦躁。对此病例中，对非药物治疗无效的症状，需要阿片类药物替代治疗（例如，吗啡、美沙酮）。一旦症状得到控制，即可在几周内逐渐减少用药。\n\n(选项 A) 母体使用苯二氮卓类药物引起的新生儿戒断（不如阿片类药物使用常见）的症状可能与阿片类药物戒断相似，可能需要药物治疗（例如，苯巴比妥）。然而，氟马西尼是一种用于逆转苯二氮卓类药物的 GABA 受体拮抗剂，它会加重苯二氮卓类药物戒断。\n\n(选项 C) 纳洛酮是一种用于治疗急性阿片类药物过量的阿片类受体拮抗剂。对阿片类药物戒断使用纳洛酮会导致更严重的戒断症状，并且是禁忌症。\n\n(选项 D) 碳酸氢钠可用于治疗三环类抗抑郁药和水杨酸盐中毒。然而，母亲摄入这些物质中毒会在出生时出现新生儿症状，而不是两天后。\n\n(选项 E) 维生素 K 可预防和治疗维生素 K 缺乏性出血，这种出血可发生在服用阻断维生素 K 的药物（例如，抗惊厥药）的母亲所生的新生儿中。与此病例不同的是，患者会发生出血（例如，黏膜表面、胃肠道、中枢神经系统）。\n\n教育目标：\n母体使用阿片类药物引起的新生儿戒断综合征会导致神经系统、胃肠道和自主神经系统症状；烦躁、震颤、腹泻和打喷嚏是典型发现。对非药物治疗无效的患者需要阿片类药物替代治疗（例如，吗啡）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of neonatal abstinence syndrome (NAS), specifically its presentation, pathophysiology, and management of opioid withdrawal in newborns. It requires differentiating NAS from other neonatal conditions and identifying appropriate pharmacologic interventions when nonpharmacologic methods fail.\n\nTo solve this question, one must first recognize the constellation of symptoms (tachypnea, sneezing, diarrhea, irritability, tremors, increased tone) as indicative of NAS. Then, consider the differential diagnoses for neonatal withdrawal and identify the most appropriate pharmacotherapy for opioid withdrawal, which involves opioid replacement therapy.",
+    "zh": "这个问题测试了对新生儿戒断综合征 (NAS) 的理解，特别是其表现、病理生理学以及新生儿阿片类药物戒断的治疗。它需要将 NAS 与其他新生儿疾病区分开来，并在非药物方法失败时确定适当的药物干预措施。\n\n要解决这个问题，首先必须认识到一系列症状（呼吸急促、打喷嚏、腹泻、烦躁、震颤、肌张力增高）表明 NAS。然后，考虑新生儿戒断的鉴别诊断，并确定最合适的阿片类药物治疗方法，其中涉及阿片类药物替代治疗。"
+  },
+  "tags": "Neonatal abstinence syndrome; Opioid withdrawal; Withdrawal symptoms; Neonatal care; Pharmacology; Pediatrics; Central nervous system dysfunction; Autonomic dysfunction",
+  "category": "Pregnancy",
+  "question_id": "1255",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pregnancy 23\\1255",
+  "extracted_at": "2025-11-05T19:45:57.053028",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:48:23.397924",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

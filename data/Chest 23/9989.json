@@ -1,0 +1,70 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man with chronic bronchitis comes to the emergency department due to 2 days of fever, chills, chest pain, and productive cough. He has been hospitalized on several occasions for exacerbations of chronic bronchitis. The patient has been advised to stop smoking but continues to smoke cigarettes. He drinks 6–10 beers daily. Temperature is 40.2 C (104.4 F), blood pressure is 100/70 mm Hg, pulse is 104/min, and respirations are 28/min. On examination, he is in mild respiratory distress. There are crackles and decreased breath sounds in the right upper lobe. His chest x-ray shows right upper lobe consolidation. Sputum microscopy reveals encapsulated gram-negative bacilli. The bacteria grow pink, mucoid colonies on MacConkey agar.",
+    "zh": "一名65岁男性，患有慢性支气管炎，因发热、寒战、胸痛和咳嗽带痰2天来急诊。他曾多次因慢性支气管炎加重而住院。医生建议患者戒烟，但他仍继续吸烟。他每天喝6-10瓶啤酒。体温40.2°C (104.4°F)，血压100/70 mmHg，脉搏104次/分钟，呼吸28次/分钟。体格检查显示，他有轻度呼吸窘迫。右肺上叶有啰音，呼吸音减弱。他的胸部X光片显示右肺上叶实变。痰涂片显微镜检查显示有包膜的革兰氏阴性杆菌。细菌在麦康凯琼脂上生长出粉红色、黏液样菌落。"
+  },
+  "question": {
+    "en": "Which of the following organisms is the most likely cause of this patient's condition?",
+    "zh": "以下哪种病原体最可能是导致该患者病情的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Haemophilus influenzae",
+      "zh": "流感嗜血杆菌"
+    },
+    "B": {
+      "en": "Klebsiella pneumoniae",
+      "zh": "肺炎克雷伯菌"
+    },
+    "C": {
+      "en": "Legionella pneumophila",
+      "zh": "嗜肺军团菌"
+    },
+    "D": {
+      "en": "Moraxella catarrhalis",
+      "zh": "卡他莫拉菌"
+    },
+    "E": {
+      "en": "Mycoplasma pneumoniae",
+      "zh": "肺炎支原体"
+    },
+    "F": {
+      "en": "Pseudomonas aeruginosa",
+      "zh": "铜绿假单胞菌"
+    },
+    "G": {
+      "en": "Streptococcus pneumoniae",
+      "zh": "肺炎链球菌"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Gram-negative bacilli are the leading cause of nosocomial pneumonia but are a relatively rare (<5%) cause of community-acquired pneumonia. However, patients with underlying immunosuppression (especially neutropenia) or impaired host defenses (eg, infants, the elderly, patients with alcohol use disorder) are at increased risk. The most common pathogens are Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Enterobacter, Serratia, Proteus, and Acinetobacter.\n\nKlebsiella is a gram-negative bacillus that turns MacConkey agar pink due to its ability to ferment lactose. The presence of a thick capsule is seen as a clear zone on Gram stain and also causes the characteristic mucoid growth in culture. Klebsiella pneumoniae classically affects patients with alcohol use disorder. Most cases arise due to colonization of the oropharynx followed by microaspiration of upper airway secretions. Because the aspiration usually occurs while supine (during sleep), the posterior segments of the upper lobes (particularly the right lung) are classically affected. The hallmarks of Klebsiella pneumonia are thick, mucoid, blood-tinged sputum (current jelly sputum) and liquefying necrosis of the lung with early abscess formation. {{exhibit_1}}\n\n(Choice A) Haemophilus influenzae is a leading cause of community-acquired pneumonia and bacterial meningitis. It is a gram-negative coccobacillus that can form mucoid colonies but does not ferment lactose.\n\n(Choice C) Legionella pneumophila is a gram-negative bacillus that causes atypical pneumonia, generally following aerosolization from a contaminated water supply. However, Legionella is not an encapsulated organism and does not produce mucoid colonies.\n\n(Choice D) Moraxella catarrhalis is a gram-negative diplococcus that is a common cause of upper respiratory infections (eg, bronchitis, laryngitis, sinusitis) and otitis media. It can also cause bronchopneumonia in patients with COPD. However, this pathogen does not ferment lactose.\n\n(Choice E) Mycoplasma pneumoniae is a common cause of atypical pneumonia. However, this pathogen has no cell wall so it is not visible on Gram stain. It also does not grow in conventional culture.\n\n(Choice F) Pseudomonas aeruginosa is a common nosocomial pathogen that may cause pneumonia in patients with structural lung disease or impaired immunity. It is an encapsulated, gram-negative bacillus that can appear mucoid in culture. However, it does not ferment lactose.\n\n(Choice G) Streptococcus pneumoniae is the most common cause of community-acquired pneumonia. However, this pathogen is a gram-positive, lancet-shaped cocci usually found in pairs.\n\nEducational objective:\nKlebsiella is an encapsulated, lactose-fermenting, gram-negative bacillus that appears mucoid in culture. It causes pneumonia in individuals with impaired host defenses, especially patients with alcohol use disorder. Klebsiella pneumonia is characterized by tissue necrosis and early abscess formation with production of thick, mucoid, blood-tinged sputum (current jelly sputum). {{exhibit_2}} {{exhibit_3}}",
+    "zh": "革兰氏阴性杆菌是医院获得性肺炎的主要病原体，但其在社区获得性肺炎中的比例相对较小（<5%）。然而，存在潜在免疫抑制（尤其是中性粒细胞减少症）或宿主防御功能受损（例如，婴儿、老年人、患有酒精使用障碍的患者）的患者，其风险会增加。最常见的病原体包括大肠杆菌、肺炎克雷伯菌、铜绿假单胞菌、肠杆菌属、沙雷菌属、变形杆菌属和不动杆菌属。\n\n克雷伯菌是一种革兰氏阴性杆菌，由于其发酵乳糖的能力，使麦康凯琼脂呈现粉红色。厚荚膜的存在可在革兰氏染色中看到透明带，并且还会导致培养物中典型的黏液样生长。肺炎克雷伯菌通常影响患有酒精使用障碍的患者。大多数病例是由于口咽部定植，随后微吸入上呼吸道分泌物引起的。由于吸入通常发生在仰卧位（睡眠期间），因此经典地影响上叶的后段（特别是右肺）。肺炎克雷伯菌的标志是浓稠、黏液样、带血痰（果酱样痰）以及肺的液化坏死伴早期脓肿形成。{{exhibit_1}}\n\n（选项A）流感嗜血杆菌是社区获得性肺炎和细菌性脑膜炎的主要病因。它是一种革兰氏阴性杆菌，可形成黏液样菌落，但不发酵乳糖。\n\n（选项C）嗜肺军团菌是一种革兰氏阴性杆菌，可引起非典型肺炎，通常继发于受污染水源的雾化。然而，军团菌不是有包膜的生物，也不会产生黏液样菌落。\n\n（选项D）卡他莫拉菌是一种革兰氏阴性双球菌，是上呼吸道感染（例如，支气管炎、喉炎、鼻窦炎）和中耳炎的常见病因。它也可以引起患有慢性阻塞性肺病（COPD）的患者的支气管肺炎。然而，这种病原体不发酵乳糖。\n\n（选项E）肺炎支原体是非典型肺炎的常见病因。然而，这种病原体没有细胞壁，因此在革兰氏染色中不可见。它也不会在常规培养中生长。\n\n（选项F）铜绿假单胞菌是一种常见的医院感染病原体，可能会导致患有结构性肺部疾病或免疫力受损的患者发生肺炎。它是一种有包膜的革兰氏阴性杆菌，在培养中可能呈黏液样。然而，它不发酵乳糖。\n\n（选项G）肺炎链球菌是社区获得性肺炎最常见的原因。然而，这种病原体是一种革兰氏阳性、柳叶刀状的球菌，通常成对存在。\n\n教学目标：\n克雷伯菌是一种有包膜的、发酵乳糖的革兰氏阴性杆菌，在培养中呈黏液样。它会导致宿主防御功能受损的个体发生肺炎，尤其是患有酒精使用障碍的患者。肺炎克雷伯菌的特征是组织坏死和早期脓肿形成，并产生浓稠、黏液样、带血痰（果酱样痰）。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the common causes of pneumonia in patients with risk factors such as chronic bronchitis and alcohol use disorder, focusing on the characteristics of Klebsiella pneumoniae. It also tests the ability to interpret sputum microscopy results and correlate them with the clinical presentation.\n\nTo solve this question, consider the patient's risk factors (chronic bronchitis, alcohol use), the sputum microscopy findings (encapsulated gram-negative bacilli, pink mucoid colonies on MacConkey agar), and the clinical presentation (right upper lobe consolidation). This points towards Klebsiella pneumoniae as the most likely causative organism.",
+    "zh": "此问题测试对具有危险因素（如慢性支气管炎和酒精使用障碍）的患者的肺炎常见病因的了解，重点是肺炎克雷伯菌的特征。它还测试了解释痰液显微镜检查结果并将其与临床表现相关联的能力。\n\n要解决这个问题，请考虑患者的危险因素（慢性支气管炎，酒精使用），痰液显微镜检查结果（有包膜的革兰氏阴性杆菌，麦康凯琼脂上的粉红色黏液样菌落）和临床表现（右肺上叶实变）。这表明肺炎克雷伯菌是最可能的原因病原体。"
+  },
+  "tags": "Pneumonia; Klebsiella pneumoniae; Gram-negative bacteria; MacConkey agar; Alcohol use disorder; Respiratory infection; Sputum microscopy; Pulmonary infection; Community-acquired pneumonia",
+  "category": "Chest",
+  "question_id": "9989",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\9989",
+  "extracted_at": "2025-11-05T11:49:44.015395",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:43:20.879681",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

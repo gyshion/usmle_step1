@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 30-year-old man comes to the office due to depression. He describes a 4-week history of severely depressed mood, loss of motivation, loss of interest, and sleeping 12 hours a day. The patient has difficulty concentrating and worries that it is interfering with his work. He is pessimistic about the future but has no suicidal thoughts. The patient had a previous depressive episode in his 20s that responded rapidly to sertraline. He felt \"really good and energetic\" after a few days of treatment but discontinued the antidepressant a week later as he did not feel that he needed it. He drinks 1 or 2 beers on social occasions. Physical examination is normal.",
+    "zh": "一名30岁男性因抑郁症来诊。他描述了4周的严重抑郁情绪，丧失动力，失去兴趣，并且每天睡12个小时。患者难以集中注意力，并担心这会影响他的工作。他对未来持悲观态度，但没有自杀念头。该患者在20多岁时曾有过一次抑郁发作，对舍曲林反应迅速。他在治疗几天后感觉“非常好且精力充沛”，但一周后停止了抗抑郁药，因为他认为自己不需要。他在社交场合喝1或2杯啤酒。体格检查正常。"
+  },
+  "question": {
+    "en": "Which of the following would be most important to assess prior to initiating pharmacologic treatment for this patient?",
+    "zh": "在开始对该患者进行药物治疗之前，以下哪项评估最为重要？"
+  },
+  "options": {
+    "A": {
+      "en": "Complete blood count",
+      "zh": "全血细胞计数"
+    },
+    "B": {
+      "en": "Comprehensive metabolic panel",
+      "zh": "综合代谢功能检查"
+    },
+    "C": {
+      "en": "Electrocardiogram",
+      "zh": "心电图"
+    },
+    "D": {
+      "en": "History of mania",
+      "zh": "躁狂症病史"
+    },
+    "E": {
+      "en": "History of sexual dysfunction",
+      "zh": "性功能障碍病史"
+    },
+    "F": {
+      "en": "Urine toxicology",
+      "zh": "尿毒物筛查"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "All patients with a major depressive episode should be screened for a PAST HISTORY OF MANIC EPISODES to differentiate major depressive disorder (unipolar depression) from BIPOLAR DISORDER. This is particularly relevant in this patient as his atypically rapid response to the selective serotonin reuptake inhibitor sertraline is suggestive of treatment-emergent mania. If further history substantiates a diagnosis of bipolar disorder, ANTIDEPRESSANT MONOTHERAPY should be avoided, as all antidepressants carry a RISK OF INDUCING MANIA.\n\nBipolar patients in the depressed phase may be misdiagnosed with unipolar major depressive disorder when either the physician neglects to ask about past manic symptoms or patients do not report them due to limited insight, difficulty recalling, or a tendency to minimize past manic episodes. Physicians should question patients regarding a history of distinct periods of elevated mood and increased energy, decreased need for sleep, hyperactivity, racing thoughts, and uncharacteristic risk-taking behavior.\n\n(Choices A, B, and F) A complete blood count, metabolic panel, and urine toxicology screen are not priorities for this patient with no new physical symptoms, normal physical examination, and minimal substance use. Selected laboratory tests should be performed in cases of treatment-resistant depression or in patients who experience new-onset physical symptoms along with depression (eg, thyroid function tests in a patient with signs of hypothyroidism).\n\n(Choice C) An ECG is not routinely performed prior to prescribing first-line antidepressants in an otherwise healthy, young patient.\n\n(Choice E) A history of sexual dysfunction would be helpful prior to selection and initiation of a specific antidepressant, as medications commonly cause sexual dysfunction. However, ensuring accurate diagnosis by screening for bipolar disorder takes precedence.",
+    "zh": "所有患有重度抑郁发作的患者都应筛查既往躁狂发作史，以区分重度抑郁障碍（单相抑郁）和双相情感障碍。这对于该患者来说尤其重要，因为他对选择性5-羟色胺再摄取抑制剂舍曲林的非典型快速反应提示治疗相关性躁狂。如果进一步的病史证实了双相情感障碍的诊断，则应避免抗抑郁药单药治疗，因为所有抗抑郁药都存在诱发躁狂的风险。\n\n双相情感障碍患者在抑郁阶段可能被误诊为单相重度抑郁障碍，原因可能是医生忽略询问过去的躁狂症状，或者患者由于缺乏见解、难以回忆或倾向于最小化过去的躁狂发作而没有报告。医生应该询问患者是否有情绪高涨和精力增加、睡眠需求减少、活动过度、思维奔逸和不寻常的冒险行为的病史。\n\n（选项 A、B 和 F）对于这个没有新的身体症状、体格检查正常且药物使用最少的患者，全血细胞计数、代谢组学检查和尿毒物筛查并非优先事项。应在对治疗有抵抗力的抑郁症或出现新发身体症状和抑郁症的患者中进行选定的实验室检查（例如，对有甲状腺功能减退体征的患者进行甲状腺功能检查）。\n\n（选项 C）在对其他健康的年轻患者开出一线抗抑郁药之前，通常不进行心电图。\n\n（选项 E）在选择和开始使用特定的抗抑郁药之前，性功能障碍病史将有所帮助，因为药物通常会引起性功能障碍。然而，通过筛查双相情感障碍来确保准确的诊断具有优先权。"
+  },
+  "summary": {
+    "en": "This question tests the critical step of screening for a history of mania in patients presenting with a depressive episode to differentiate between unipolar depression and bipolar disorder, as antidepressant monotherapy can precipitate mania in bipolar patients.\n\nThe approach to solving this question involves carefully reviewing the patient's history for any clues suggestive of past manic or hypomanic episodes, especially considering the rapid and energetic response to sertraline, which is atypical for unipolar depression.",
+    "zh": "这个问题考察了在出现抑郁发作的患者中筛查躁狂病史的关键步骤，以区分单相抑郁症和双相情感障碍，因为抗抑郁药单药治疗可能会在双相情感障碍患者中诱发躁狂。\n\n解决这个问题的方法包括仔细审查患者的病史，寻找提示过去躁狂或轻躁狂发作的任何线索，尤其是考虑到对舍曲林的快速而有活力的反应，这对于单相抑郁症来说是不典型的。"
+  },
+  "tags": "Major depressive disorder; Bipolar disorder; Mania; Antidepressant therapy; Selective serotonin reuptake inhibitors; Differential diagnosis; Psychiatric assessment",
+  "category": "Psychiatry",
+  "question_id": "11607",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\11607",
+  "extracted_at": "2025-11-05T19:47:51.637825",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:50:39.767518",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

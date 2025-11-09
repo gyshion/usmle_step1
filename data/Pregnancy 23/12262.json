@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A newborn boy is in the neonatal intensive care unit for mechanical ventilation due to pulmonary hypoplasia. He was born via spontaneous vaginal delivery at 30 weeks gestation to a 41-year-old woman who did not receive prenatal care. The mother had assumed her amenorrhea was due to early menopause, which runs in her family. She took multiple medications for poorly controlled hypertension before she was pregnant. Prenatal ultrasound demonstrated severe oligohydramnios for which delivery was induced. Examination of the infant shows an intubated and sedated boy whose weight is at the third percentile. The temporal, occipital, and parietal bones are underdeveloped, and the right lower limb is shortened and contracted.",
+    "zh": "一名新生男婴因肺发育不全正在新生儿重症监护病房接受机械通气。他通过阴道自然分娩出生，孕龄30周，母亲41岁，未接受产前护理。母亲认为她的闭经是由于家族性早期更年期。她在怀孕前服用多种药物来控制血压不佳的高血压。产前超声检查显示严重羊水过少，因此诱导分娩。婴儿检查显示一名插管和镇静的男婴，其体重处于第三百分位数。颞骨、枕骨和顶骨发育不全，右下肢缩短并挛缩。"
+  },
+  "question": {
+    "en": "Which of the following mechanisms is the most likely cause of this neonate's abnormalities?",
+    "zh": "以下哪种机制最可能导致该新生儿的异常？"
+  },
+  "options": {
+    "A": {
+      "en": "Alpha-2 adrenergic agonism",
+      "zh": "α-2 肾上腺素能激动"
+    },
+    "B": {
+      "en": "Beta-adrenergic receptor blockade",
+      "zh": "β-肾上腺素能受体阻滞"
+    },
+    "C": {
+      "en": "Cellular damage from free radicals",
+      "zh": "自由基引起的细胞损伤"
+    },
+    "D": {
+      "en": "Impaired metabolism of angiotensin I",
+      "zh": "血管紧张素 I 的代谢受损"
+    },
+    "E": {
+      "en": "Impaired oxygen delivery",
+      "zh": "氧气输送受损"
+    },
+    "F": {
+      "en": "Impaired prostaglandin metabolism",
+      "zh": "前列腺素代谢受损"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This neonate's abnormalities are highly likely due to exposure to an ACE inhibitor and/or angiotensin II receptor blocker (ARB), which are highly teratogenic antihypertensive medications. During pregnancy, ACE inhibitors and ARBs can cross the placenta and decrease angiotensin II activity.\n\n* ACE inhibitors impair metabolism of angiotensin I to angiotensin II by inhibiting ACE activity, thereby decreasing angiotensin II levels.\n* ARBs block the angiotensin II receptor type 1 (AT1), which decreases angiotensin II activity.\n\nThe decrease in angiotensin II causes abnormal fetal renal development (eg, renal hypoplasia) and a reduced fetal glomerular filtration rate (GFR). Hypoplastic kidneys with reduced GFR produce low volumes of fetal urine, which, as the main component of amniotic fluid, can lead to OLIGOHYDRAMNIOS.\n\nBecause amniotic fluid enables fetal lung development and protects against limb compression, neonates with severe oligohydramnios are at risk for PULMONARY HYPOPLASIA and LIMB DEFECTS (ie, Potter sequence). This neonate also has hypocalvaria (eg, temporal, occipital, and parietal bone hypoplasia) due to impaired cranial vascularization and severe growth restriction (likely due to both fetal compression and maternal hypertension).\n\n(Choices A and B) Methyldopa (alpha-2 adrenergic agonist), labetalol (beta-adrenergic antagonist), and nifedipine (calcium channel blocker) are the preferred antihypertensive medications during pregnancy. Although they can cause neonatal adverse effects (eg, hypotension [methyldopa], hypoglycemia [labetalol]), none are associated with abnormal fetal renal development or oligohydramnios.\n\n(Choice C) Radiation causes cellular damage due to molecular bond disruption by free radicals. Fetal radiation exposure increases the risk for cancer, particularly childhood leukemia.\n\n(Choice E) Impaired fetal oxygen delivery can occur with maternal anemia, tobacco use, or placental insufficiency (in which there is decreased placental perfusion [eg, preeclampsia, fetal chromosomal abnormalities]). Although decreased oxygenation can lead to fetal growth restriction, it does not typically cause oligohydramnios and limb deformity.\n\n(Choice F) Nonsteroidal anti-inflammatory drugs decrease prostaglandin E1 production, causing vasoconstriction. Although the fetal GFR may decrease as a result, the associated oligohydramnios is typically mild and transient. In contrast, ACE inhibitors and ARBs cause long-lasting abnormalities in renal development.\n\nEducational objective:\nACE inhibitors and angiotensin II receptor blockers are teratogens. Both decrease angiotensin II activity, leading to abnormal fetal renal development, oligohydramnios, and potential neonatal Potter sequence (ie, pulmonary hypoplasia, limb deformity).",
+    "zh": "该新生儿的异常很可能与暴露于 ACE 抑制剂和/或血管紧张素 II 受体阻滞剂 (ARB) 有关，这两种药物是高度致畸的降压药。在怀孕期间，ACE 抑制剂和 ARB 可以穿过胎盘并降低血管紧张素 II 的活性。\n\n* ACE 抑制剂通过抑制 ACE 活性来损害血管紧张素 I 向血管紧张素 II 的代谢，从而降低血管紧张素 II 水平。\n* ARB 阻断血管紧张素 II 受体 1 型 (AT1)，从而降低血管紧张素 II 活性。\n\n血管紧张素 II 的减少会导致胎儿肾脏发育异常（例如，肾发育不全）和胎儿肾小球滤过率 (GFR) 降低。发育不全的肾脏伴有 GFR 降低，会产生少量胎儿尿液，而胎儿尿液是羊水的主要成分，这可能导致羊水过少（OLIGOHYDRAMNIOS）。\n\n由于羊水有助于胎儿肺部发育并防止肢体受压，严重羊水过少的新生儿有患肺发育不全（PULMONARY HYPOPLASIA）和肢体畸形（LIMB DEFECTS，即 Potter 序列）的风险。该新生儿也患有颅骨发育不全（例如，颞骨、枕骨和顶骨发育不全），这是由于颅血管化受损和严重的生长受限（可能由于胎儿受压和孕妇高血压）。\n\n（选项 A 和 B） 甲基多巴（α-2 肾上腺素能激动剂）、拉贝洛尔（β-肾上腺素能拮抗剂）和硝苯地平（钙通道阻滞剂）是妊娠期间首选的降压药。虽然它们可能导致新生儿不良反应（例如，低血压 [甲基多巴]，低血糖 [拉贝洛尔]），但均与胎儿肾脏发育异常或羊水过少无关。\n\n（选项 C） 辐射会由于自由基破坏分子键而导致细胞损伤。胎儿暴露于辐射会增加患癌症的风险，特别是儿童白血病。\n\n（选项 E） 胎儿氧气输送受损可能发生在孕妇贫血、吸烟或胎盘功能不全（其中胎盘灌注减少 [例如，先兆子痫，胎儿染色体异常]）的情况下。虽然氧合减少可能导致胎儿生长受限，但通常不会导致羊水过少和肢体畸形。\n\n（选项 F） 非甾体抗炎药会降低前列腺素 E1 的产生，导致血管收缩。尽管胎儿 GFR 可能因此降低，但相关的羊水过少通常是轻度和短暂的。相比之下，ACE 抑制剂和 ARB 会导致肾脏发育的长期异常。\n\n教学目标：\nACE 抑制剂和血管紧张素 II 受体阻滞剂是致畸剂。两者都会降低血管紧张素 II 活性，导致胎儿肾脏发育异常、羊水过少，以及可能的新生儿 Potter 序列（即，肺发育不全、肢体畸形）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the teratogenic effects of ACE inhibitors and ARBs on fetal development, specifically their impact on renal development, amniotic fluid volume, and subsequent pulmonary and limb abnormalities.\n\nTo solve this question, one must identify the constellation of findings (pulmonary hypoplasia, limb defects, oligohydramnios, growth restriction) and link them to medications known to cause these specific teratogenic effects, considering the patient's history of poorly controlled hypertension.",
+    "zh": "此问题测试对 ACE 抑制剂和 ARB 对胎儿发育的致畸作用的理解，特别是它们对肾脏发育、羊水体积以及随后的肺部和肢体异常的影响。\n\n要解决这个问题，必须确定一系列发现（肺发育不全、肢体缺陷、羊水过少、生长受限），并将它们与已知会导致这些特定致畸作用的药物联系起来，同时考虑患者控制不佳的高血压病史。"
+  },
+  "tags": "Teratogenesis; ACE inhibitors; ARBs; Angiotensin II; Renal hypoplasia; Oligohydramnios; Pulmonary hypoplasia; Limb defects; Potter sequence; Hypertension in pregnancy",
+  "category": "Pregnancy",
+  "question_id": "12262",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pregnancy 23\\12262",
+  "extracted_at": "2025-11-05T19:45:56.476862",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:48:22.481643",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

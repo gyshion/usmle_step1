@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "An 8-hour-old boy is being assessed for a murmur in the newborn nursery. The patient was born at 37 weeks via cesarean delivery. Apgar scores were 7 and 8 at 1 and 5 minutes, respectively. He was noted to have a harsh systolic ejection murmur of 4/6 intensity during the initial newborn examination. Brachial and femoral pulses are 2+ with no delay. While the patient is breastfeeding for the first time, his face, lips, hands, and feet become cyanotic. The murmur cannot be heard during the cyanotic episode. Which of the following oxygen saturation percentages are most likely present during the cyanotic episode? {{exhibit_1}}",
+    "zh": "一名8小时大的男婴正在新生儿病房接受杂音评估。该患者通过剖腹产在37周时出生。Apgar评分分别为1分钟和5分钟时7分和8分。在初步的新生儿检查中，他被发现有4/6强度的粗糙收缩期喷射性杂音。肱动脉和股动脉搏动为2+，无延迟。当患者第一次母乳喂养时，他的脸、嘴唇、手和脚变得发绀。在发绀发作期间听不到杂音。在发绀发作期间，最有可能出现以下哪种氧饱和度百分比？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following oxygen saturation percentages are most likely present during the cyanotic episode?",
+    "zh": "在发绀发作期间，最有可能出现以下哪种氧饱和度百分比？"
+  },
+  "options": {
+    "A": {
+      "en": "Right atrium 75; Right ventricle 75; Pulmonary artery 75; Pulmonary veins 98; Left atrium 98; Left ventricle 80",
+      "zh": "右心房75；右心室75；肺动脉75；肺静脉98；左心房98；左心室80"
+    },
+    "B": {
+      "en": "Right atrium 75; Right ventricle 75; Pulmonary artery 75; Pulmonary veins 98; Left atrium 80; Left ventricle 80",
+      "zh": "右心房75；右心室75；肺动脉75；肺静脉98；左心房80；左心室80"
+    },
+    "C": {
+      "en": "Right atrium 75; Right ventricle 85; Pulmonary artery 85; Pulmonary veins 98; Left atrium 98; Left ventricle 98",
+      "zh": "右心房75；右心室85；肺动脉85；肺静脉98；左心房98；左心室98"
+    },
+    "D": {
+      "en": "Right atrium 75; Right ventricle 75; Pulmonary artery 80; Pulmonary veins 98; Left atrium 98; Left ventricle 98",
+      "zh": "右心房75；右心室75；肺动脉80；肺静脉98；左心房98；左心室98"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has a harsh systolic ejection murmur (ToF) that disappears during an episode of cyanosis, a characteristic finding with tetralogy of Fallot (ToF). The major defects in ToF are right ventricular outflow tract (RVOT) obstruction and ventricular septal defect (VSD); the murmur is created by blood flow through the narrowed RVOT, not the VSD.\n\nThe degree of RVOT obstruction is the primary driver of symptoms in ToF because it determines the direction and magnitude of shunting through the VSD. A certain degree of RVOT obstruction is fixed, but some degree is dynamic and can change based on activity (eg, feeding, squatting) that alters the underlying hemodynamics. Many patients have left-to-right or neutral shunting at rest (and are acyanotic) but develop cyanosis (“tet” episodes) when a dynamic increase in RVOT obstruction (eg, precipitated by crying or feeding) leads to increased right-to-left shunting through the VSD.\n\nDuring such an episode, decreased blood flow through the RVOT causes the systolic murmur to disappear. In addition, oxygen saturation (SaO₂) in the left ventricle is reduced (eg, <90%) due to mixing with deoxygenated blood from the RV. The SaO₂ in the left atrium (LA) remains normal as the LA continues to receive oxygenated blood from the pulmonary veins.\n\n(Choice B) These values show a step-down in SaO₂ at the LA (pulmonary vein SaO₂ > LA SaO₂), consistent with a right-to-left shunt through an atrial septal defect (ASD). Right-to-left shunting through an ASD (ie, Eisenmenger syndrome) takes years to develop and is not an expected cause of episodic cyanosis in infants.\n\n(Choice C) These values show a step-up in SaO₂ at the RV (RV SaO₂ > right atrium SaO₂), consistent with left-to-right shunting through a VSD, as occurs during acyanotic periods in patients with ToF.\n\n(Choice D) These values show a step-up in SaO₂ at the pulmonary artery (pulmonary artery SaO₂ > RV SaO₂), consistent with left-to-right shunting through a patent ductus arteriosus. Left-to-right shunting does not cause cyanosis.\n\nEducational objective:\nThe major defects in tetralogy of Fallot are right ventricular outflow tract (RVOT) obstruction and ventricular septal defect (VSD). Cyanotic (“tet”) episodes are commonly precipitated by a dynamic rise in RVOT obstruction that increases right-to-left shunting through the VSD. These episodes involve decreased blood flow through the RVOT, causing disappearance of the associated systolic murmur and reduced oxygen saturation of left ventricular blood. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "该患者有粗糙的收缩期喷射性杂音（ToF），在发绀发作期间消失，这是法洛四联症 (ToF) 的特征性表现。ToF 的主要缺陷是右心室流出道 (RVOT) 梗阻和室间隔缺损 (VSD)；杂音是由流经狭窄 RVOT 的血流产生的，而不是 VSD。\n\nRVOT 梗阻的程度是ToF症状的主要驱动因素，因为它决定了通过 VSD 分流的方向和大小。一定程度的 RVOT 梗阻是固定的，但某些程度是动态的，并且可以根据改变潜在血流动力学的活动（例如，喂养、下蹲）而变化。许多患者在静息状态下有左向右或中性分流（并且无发绀），但在 RVOT 梗阻动态增加（例如，由哭闹或喂养引起）导致通过 VSD 的右向左分流增加时，会出现发绀（“tet”发作）。\n\n在这样的发作期间，流经 RVOT 的血流减少导致收缩期杂音消失。此外，左心室的氧饱和度 (SaO₂) 降低（例如，<90%），这是由于与来自 RV 的脱氧血混合。左心房 (LA) 的 SaO₂ 保持正常，因为 LA 继续从肺静脉接收含氧血。\n\n(选项 B) 这些值显示 LA 的 SaO₂ 降低（肺静脉 SaO₂ > LA SaO₂），这与通过房间隔缺损 (ASD) 的右向左分流一致。通过 ASD 的右向左分流（即，艾森曼格综合征）需要数年时间才能发展，并且不是婴儿阵发性发绀的预期原因。\n\n(选项 C) 这些值显示 RV 的 SaO₂ 升高（RV SaO₂ > 右心房 SaO₂），这与通过 VSD 的左向右分流一致，这种情况发生在 ToF 患者的无发绀期。\n\n(选项 D) 这些值显示肺动脉的 SaO₂ 升高（肺动脉 SaO₂ > RV SaO₂），这与通过动脉导管未闭的左向右分流一致。左向右分流不会引起发绀。\n\n教育目标：\n法洛四联症的主要缺陷是右心室流出道 (RVOT) 梗阻和室间隔缺损 (VSD)。发绀（“tet”）发作通常由 RVOT 梗阻的动态升高引起，从而增加通过 VSD 的右向左分流。这些发作涉及流经 RVOT 的血流减少，导致相关收缩期杂音消失和左心室血氧饱和度降低。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Tetralogy of Fallot (TOF) and the expected oxygen saturation levels in different chambers of the heart during a cyanotic episode (Tet spell). It requires understanding of the pathophysiology of TOF, including right ventricular outflow tract obstruction and ventricular septal defect, and how these contribute to right-to-left shunting during a Tet spell. \n\nTo solve this question, recognize the clinical scenario as suggestive of TOF. Understand that during a cyanotic episode, right-to-left shunting increases, leading to desaturation of blood entering the left ventricle. The left atrium receives oxygenated blood from the pulmonary veins, maintaining normal saturation. The right atrium and right ventricle will have lower saturations due to systemic venous return.",
+    "zh": "这个问题测试了对法洛四联症 (TOF) 的了解以及在发绀发作（Tet spell）期间心脏不同腔室中预期的氧饱和度水平。它需要了解 ToF 的病理生理学，包括右心室流出道梗阻和室间隔缺损，以及这些如何导致在 Tet spell 期间发生右向左分流。\n\n要解决这个问题，请将临床情况识别为提示 TOF。了解在发绀发作期间，右向左分流增加，导致进入左心室的血液去饱和。左心房从肺静脉接收含氧血，保持正常的饱和度。由于体循环静脉回流，右心房和右心室的饱和度会较低。"
+  },
+  "tags": "Tetralogy of Fallot; Cyanotic heart disease; Right-to-left shunt; Ventricular septal defect; Right ventricular outflow tract obstruction; Cardiology; Neonatology; Oxygen saturation",
+  "category": "CVS",
+  "question_id": "19539",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\19539",
+  "extracted_at": "2025-11-05T12:06:13.139537",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:26:31.692772",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old woman comes to the office due to sharp, right-sided chest pain, fatigue, and fever for the past week. The chest pain is worsened with deep breathing. She has had no associated expectoration or shortness of breath. For the past 6 months, the patient also has had intermittent joint pains, predominantly in the knees and hands. She is sexually active with one male partner and uses an intrauterine device for contraception. Temperature is 38.3 C (100.9 F), blood pressure is 120/70 mm Hg, pulse is 89/min, and respirations are 18/min. BMI is 24 kg/m2. Examination shows mild erythema over the cheeks and a scratching sound over the right lower lung with breathing. Heart sounds are normal. There is no joint swelling.",
+    "zh": "一名23岁的女性因过去一周出现右侧胸部剧烈疼痛、疲劳和发烧前来就诊。胸痛在深呼吸时加重。她没有相关的咳痰或呼吸急促。在过去的6个月里，患者还间断性地出现关节疼痛，主要在膝盖和手部。她与一位男性伴侣有性行为，并使用宫内节育器避孕。体温为38.3°C (100.9°F)，血压为120/70 mmHg，脉搏为89/min，呼吸为18/min。BMI为24 kg/m2。体格检查显示双颊轻度红斑，并且在呼吸时右下肺可听到摩擦音。心音正常。没有关节肿胀。"
+  },
+  "question": {
+    "en": "Which of the following tests is most useful in confirming the diagnosis?",
+    "zh": "以下哪项检查最有助于确诊？"
+  },
+  "options": {
+    "A": {
+      "en": "Anti–double-stranded DNA antibodies",
+      "zh": "抗双链DNA抗体"
+    },
+    "B": {
+      "en": "Antistreptolysin O titers",
+      "zh": "抗链球菌溶血素O滴度"
+    },
+    "C": {
+      "en": "Nucleic acid amplification test of cervical swab",
+      "zh": "宫颈拭子核酸扩增检测"
+    },
+    "D": {
+      "en": "Rheumatoid factor assay",
+      "zh": "类风湿因子检测"
+    },
+    "E": {
+      "en": "Serologic test for syphilis",
+      "zh": "梅毒血清学试验"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This young patient has pleuritis (chest pain with breathing, pleural rub), arthralgias, fever, and an erythematous rash on the cheeks. This presentation is concerning for SYSTEMIC LUPUS ERYTHEMATOSUS (SLE), a chronic inflammatory disease characterized by autoantibodies that bind self-antigens. Particular autoantibodies that are useful in the diagnosis of SLE include:\n\n1.  Antinuclear antibodies are found in virtually all patients with SLE but also in many other autoimmune disorders (ie, high sensitivity, low specificity).\n2.  Anti–double-stranded DNA antibodies are highly specific for SLE, but only approximately 60% of patients have high titers (ie, low sensitivity, high specificity).\n3.  Anti-Smith antibodies (ie, antibodies against small nuclear ribonucleoproteins) are present in 20%-30% of patients but are also highly specific.\n\nCommon laboratory abnormalities include low C3 and C4 levels (due to activation of complement) and elevated inflammatory markers (eg, C-reactive protein, erythrocyte sedimentation rate). Hematologic abnormalities can include anemia, leukopenia, and thrombocytopenia, which occur due to chronic inflammatory effects on bone marrow and autoimmune hemolysis. Renal involvement can result in elevated serum creatinine, proteinuria, hematuria, or red cell casts visible on urinalysis.\n\n(Choice B) Antibodies to streptolysin O indicate recent streptococcal infection and are useful in the diagnosis of certain immune sequelae (eg, glomerulonephritis, rheumatic fever). This patient has arthralgias, but no other major features of rheumatic fever (ie, carditis, subcutaneous nodules, erythema marginatum, Sydenham chorea).\n\n(Choice C) Acute cervicitis is a common cause of fever in young, sexually active women. Evaluation commonly includes nucleic acid amplification testing (NAAT) for organisms such as gonorrhea, chlamydia, and trichomoniasis. Although disseminated gonorrhea can cause arthralgias and rash, pleuritis is not typical.\n\n(Choice D) Rheumatoid factor is an IgM antibody directed against the Fc portion of human IgG. It is classically associated with rheumatoid arthritis, although it may also be seen in other autoimmune diseases (including SLE) and is nonspecific. Rheumatoid arthritis can cause arthralgias and lung involvement, but rash is unexpected and joint swelling is usually prominent.\n\n(Choice E) Nontreponemal serologic tests (eg, RPR, VDRL) are frequently used to screen for syphilis. Although secondary syphilis can manifest with synovitis and rash, it typically involves the palms and soles and pleural involvement is rare.",
+    "zh": "这位年轻患者患有胸膜炎（呼吸时胸痛，胸膜摩擦音）、关节痛、发热以及双颊红斑。这种表现提示系统性红斑狼疮 (SLE)，这是一种以自身抗体结合自身抗原为特征的慢性炎症性疾病。有助于诊断 SLE 的特定自身抗体包括：\n\n1. 抗核抗体几乎存在于所有 SLE 患者中，但也存在于许多其他自身免疫性疾病中（即高敏感性，低特异性）。\n2. 抗双链 DNA 抗体对 SLE 具有高度特异性，但只有大约 60% 的患者具有高滴度（即低敏感性，高特异性）。\n3. 抗 Smith 抗体（即针对小核核糖核蛋白的抗体）存在于 20%-30% 的患者中，但也具有高度特异性。\n\n常见的实验室异常包括低 C3 和 C4 水平（由于补体激活）和升高的炎症标志物（例如 C 反应蛋白、红细胞沉降率）。血液学异常可包括贫血、白细胞减少症和血小板减少症，这些是由于慢性炎症对骨髓和自身免疫性溶血的影响而发生的。肾脏受累可导致血清肌酐升高、蛋白尿、血尿或尿液分析可见红细胞管型。\n\n（选项 B）抗链球菌溶血素 O 抗体提示近期链球菌感染，有助于诊断某些免疫后遗症（例如肾小球肾炎、风湿热）。该患者有关节痛，但无风湿热的其他主要特征（即心肌炎、皮下结节、环形红斑、Sydenham 舞蹈症）。\n\n（选项 C）急性宫颈炎是年轻、有性生活的女性发热的常见原因。评估通常包括针对淋病、衣原体和毛滴虫等病原体的核酸扩增检测 (NAAT)。虽然播散性淋病可引起关节痛和皮疹，但胸膜炎并不典型。\n\n（选项 D）类风湿因子是一种针对人 IgG Fc 段的 IgM 抗体。它通常与类风湿性关节炎相关，尽管它也可能见于其他自身免疫性疾病（包括 SLE）并且是非特异性的。类风湿性关节炎可引起关节痛和肺部受累，但皮疹是意料之外的，并且关节肿胀通常很明显。\n\n（选项 E）非梅毒螺旋体血清学检测（例如 RPR、VDRL）通常用于筛查梅毒。虽然二期梅毒可表现为滑膜炎和皮疹，但它通常涉及手掌和足底，胸膜受累很少见。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the clinical presentation and diagnosis of systemic lupus erythematosus (SLE), focusing on the utility of specific autoantibodies in confirming the diagnosis. It emphasizes the importance of recognizing the characteristic symptoms of SLE, such as pleuritis, arthralgias, fever, and rash, and correlating them with appropriate laboratory findings.\n\nTo solve this question, consider the patient's symptoms and risk factors, then prioritize diagnostic tests based on their specificity for SLE. Remember that anti-double-stranded DNA antibodies are highly specific for SLE, making them the most useful test in confirming the diagnosis in this clinical scenario.",
+    "zh": "此题考察对系统性红斑狼疮 (SLE) 的临床表现和诊断的知识，重点关注特定自身抗体在确诊中的作用。它强调了识别 SLE 的特征性症状（如胸膜炎、关节痛、发热和皮疹）并将其与适当的实验室检查结果相关联的重要性。\n\n要解决这个问题，请考虑患者的症状和危险因素，然后根据它们对 SLE 的特异性对诊断测试进行优先排序。请记住，抗双链 DNA 抗体对 SLE 具有高度特异性，这使得它们成为在这种临床情况下确诊诊断的最有用的检查。"
+  },
+  "tags": "Systemic lupus erythematosus; Autoantibodies; Anti-dsDNA; Pleuritis; Arthralgia; Fever; Rheumatology; Immunology; Autoimmune disease",
+  "category": "Immunology",
+  "question_id": "761",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\761",
+  "extracted_at": "2025-11-05T14:46:17.710269",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:03:26.246568",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

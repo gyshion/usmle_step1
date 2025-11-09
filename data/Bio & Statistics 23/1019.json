@@ -1,0 +1,59 @@
+{
+  "question_stem": {
+    "en": "An 8-year-old boy is evaluated for exercise intolerance. The patient experiences fatigue, muscle pain, and cramps during exercise as well as severe muscle stiffness following strenuous activity. Physical examination is unremarkable. A forearm ischemic exercise test is performed by applying a blood pressure cuff on the patient's exercising forearm and sampling blood lactate several minutes after the exercise. The patient's blood samples show no rise in lactate levels. Biochemical analysis of a muscle biopsy reveals absent lactate dehydrogenase activity.",
+    "zh": "一名 8 岁男孩因运动耐受性差而接受评估。该患者在运动过程中出现疲劳、肌肉疼痛和抽筋，以及剧烈活动后的严重肌肉僵硬。体格检查无特殊发现。通过在患者运动的 forearms 上使用血压袖带并于运动后几分钟采集血乳酸样本来执行前臂缺血运动测试。患者的血样显示乳酸水平没有升高。肌肉活检的生化分析显示乳酸脱氢酶活性缺失。"
+  },
+  "question": {
+    "en": "In this patient, strenuous exercise leads to inhibition of glycolysis in skeletal muscle due to intracellular depletion of which of the following substances?",
+    "zh": "在该患者中，剧烈运动导致骨骼肌中糖酵解受到抑制，原因是下列哪种物质的细胞内耗竭？"
+  },
+  "options": {
+    "A": {
+      "en": "AMP",
+      "zh": "AMP"
+    },
+    "B": {
+      "en": "Carnitine",
+      "zh": "肉碱"
+    },
+    "C": {
+      "en": "Citrate",
+      "zh": "柠檬酸"
+    },
+    "D": {
+      "en": "FADH₂",
+      "zh": "FADH₂"
+    },
+    "E": {
+      "en": "NAD+",
+      "zh": "NAD+"
+    },
+    "F": {
+      "en": "Pyruvate",
+      "zh": "丙酮酸"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "In glycolysis, glucose is metabolized to pyruvate. Under aerobic conditions, pyruvate is converted to acetyl-CoA to enter the tricarboxylic acid (TCA) cycle. When oxygen is depleted (eg, in exercising muscle), pyruvate is converted to lactate (ANAEROBIC GLYCOLYSIS).\n\nDuring glycolysis, glyceraldehyde-3-phosphate (G3P) is converted to 1,3-bisphosphoglycerate (BPG) by the enzyme G3P dehydrogenase. This enzyme reduces NAD+ to NADH. NAD+ is present in limited amounts in most cells, and it must be regenerated from NADH for glycolysis to continue. Under aerobic conditions, NADH is converted back to NAD+ in the electron transport chain as the energy in NADH is utilized to synthesize ATP.\n\nIn ANAEROBIC GLYCOLYSIS, NAD+ is regenerated from NADH when pyruvate is converted to lactate via LACTATE DEHYDROGENASE. In patients with LACTATE DEHYDROGENASE DEFICIENCY, glycolysis is inhibited in strenuously exercising muscle as muscle cells cannot regenerate NAD+. Consequently, high-intensity physical activity leads to muscle breakdown, pain, and fatigue as insufficient amounts of energy are being produced in the exercising muscle. The characteristic finding of no rise in lactate levels during an ischemic exercise test confirms this diagnosis. The depletion of NAD+ is the key factor inhibiting GLYCOLYSIS, specifically the conversion of G3P to 1,3-BPG, because G3P dehydrogenase requires NAD+ as a cofactor for its reaction.\n\n(Choice A) During muscle contraction, glycogen is broken down via glycogen phosphorylase for energy production by the glycolytic pathway. Epinephrine causes cyclic AMP-mediated phosphorylation of glycogen phosphorylase, which activates this enzyme. Non-phosphorylation-dependent activation of glycogen phosphorylase can occur during muscle contraction via increased intracellular calcium concentrations and via AMP under extreme conditions. While AMP can activate certain enzymes in glycolysis, its depletion is not the primary mechanism of glycolysis inhibition in LACTATE DEHYDROGENASE DEFICIENCY; rather, NAD+ depletion is the limiting factor.\n\n(Choice B) Carnitine is an amino acid derivative responsible for transporting fatty acids into the mitochondria for BETA-OXIDATION. Carnitine is synthesized from lysine and methionine; vitamin C is essential for this synthesis. This process is unrelated to the primary defect in LACTATE DEHYDROGENASE DEFICIENCY affecting glycolysis.\n\n(Choice C) Citrate is formed from the condensation of acetyl CoA with oxaloacetate in the first step of the TCA cycle. Increased citrate concentrations decrease glycolysis as citrate is a powerful allosteric inhibitor of phosphofructokinase-1. In exercising muscles under anaerobic conditions, oxidative phosphorylation of glucose through the citric acid cycle is not a dominant pathway; therefore, excess citrate is not produced, and its depletion would not be the cause of inhibited glycolysis due to lactate dehydrogenase deficiency.\n\n(Choice D) FADH₂ is not produced in glycolysis. FADH₂ is produced from FAD during the conversion of succinate to fumarate in the TCA cycle by the enzyme succinate dehydrogenase. This substance is not directly involved in the glycolytic pathway, and its depletion is not the cause of glycolysis inhibition in this patient's condition.\n\n(Choice F) In glycolysis, pyruvate is formed from phosphoenolpyruvate by a unidirectional enzyme called pyruvate kinase. In the absence of lactate dehydrogenase activity, pyruvate will ACCUMULATE in the cell under anaerobic conditions because it cannot be converted to lactate. Therefore, pyruvate is not depleted; rather, its accumulation would be expected. The inhibition of glycolysis occurs upstream due to NAD+ depletion.\n\nEducational objective:\nUnder anaerobic conditions, NADH transfers electrons to pyruvate to form lactate and regenerate NAD+. NAD+ is required to convert glyceraldehyde-3-phosphate to 1,3-bisphosphoglycerate in glycolysis.",
+    "zh": "在糖酵解中，葡萄糖被代谢为丙酮酸。在有氧条件下，丙酮酸转化为乙酰辅酶 A，进入三羧酸 (TCA) 循环。当氧气耗尽时（例如，在运动的肌肉中），丙酮酸转化为乳酸（无氧糖酵解）。\n\n在糖酵解过程中，甘油醛-3-磷酸 (G3P) 通过酶 G3P 脱氢酶转化为 1,3-二磷酸甘油酸 (BPG)。该酶将 NAD+ 还原为 NADH。NAD+ 在大多数细胞中含量有限，并且必须由 NADH 再生才能使糖酵解继续进行。在有氧条件下，NADH 在电子传递链中转化为 NAD+，因为 NADH 中的能量用于合成 ATP。\n\n在无氧糖酵解中，当丙酮酸通过乳酸脱氢酶转化为乳酸时，NAD+ 由 NADH 再生。在患有乳酸脱氢酶缺乏症的患者中，剧烈运动的肌肉中糖酵解受到抑制，因为肌细胞无法再生 NAD+。因此，高强度体力活动会导致肌肉分解、疼痛和疲劳，因为运动的肌肉中产生的能量不足。缺血运动测试期间乳酸水平未升高的特征性发现证实了这一诊断。NAD+ 的耗竭是抑制糖酵解的关键因素，特别是 G3P 转化为 1,3-BPG，因为 G3P 脱氢酶需要 NAD+ 作为其反应的辅助因子。\n\n(选项 A) 在肌肉收缩过程中，糖原通过糖原磷酸化酶分解，通过糖酵解途径产生能量。肾上腺素引起环磷酸腺苷介导的糖原磷酸化酶磷酸化，从而激活该酶。在肌肉收缩过程中，可以通过增加细胞内钙浓度和在极端条件下通过 AMP 来实现糖原磷酸化酶的非磷酸化依赖性激活。虽然 AMP 可以激活糖酵解中的某些酶，但其耗竭并不是乳酸脱氢酶缺乏症中糖酵解抑制的主要机制；相反，NAD+ 的耗竭是限制性因素。\n\n(选项 B) 肉碱是一种氨基酸衍生物，负责将脂肪酸转运到线粒体中进行 β-氧化。肉碱由赖氨酸和甲硫氨酸合成；维生素 C 对此合成至关重要。此过程与影响糖酵解的乳酸脱氢酶缺乏症的主要缺陷无关。\n\n(选项 C) 柠檬酸由乙酰辅酶 A 与草酰乙酸在 TCA 循环的第一步缩合形成。柠檬酸浓度升高会降低糖酵解，因为柠檬酸是磷酸果糖激酶-1 的强大变构抑制剂。在无氧条件下运动的肌肉中，通过柠檬酸循环的葡萄糖氧化磷酸化不是主要途径；因此，不会产生过量的柠檬酸，并且其耗竭不会是由于乳酸脱氢酶缺乏症导致糖酵解受抑制的原因。\n\n(选项 D) FADH₂ 不在糖酵解中产生。FADH₂ 由 FAD 在 TCA 循环中通过琥珀酸脱氢酶将琥珀酸转化为延胡索酸的过程中产生。该物质不直接参与糖酵解途径，其耗竭也不是该患者病症中糖酵解抑制的原因。\n\n(选项 F) 在糖酵解中，丙酮酸由磷酸烯醇丙酮酸通过一种称为丙酮酸激酶的单向酶形成。在没有乳酸脱氢酶活性时，丙酮酸会在无氧条件下在细胞内积聚，因为它不能转化为乳酸。因此，丙酮酸不会耗尽；相反，预计会发生其积累。由于 NAD+ 耗竭，糖酵解的抑制发生在起始端。\n\n教育目标：\n在无氧条件下，NADH 将电子转移到丙酮酸，形成乳酸并再生 NAD+。NAD+ 参与糖酵解中甘油醛-3-磷酸转化为 1,3-二磷酸甘油酸。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of anaerobic glycolysis, the role of lactate dehydrogenase, and the critical importance of NAD+ regeneration for the continuation of the glycolytic pathway in muscle. It specifically assesses knowledge of how enzyme deficiencies in metabolic pathways lead to specific clinical presentations and biochemical findings.\nTo solve this question, one must first identify the enzyme deficiency (lactate dehydrogenase) based on the clinical presentation (exercise intolerance, no lactate rise in ischemic test). Then, recall the specific function of this enzyme in anaerobic metabolism, which is to regenerate NAD+ from NADH. Finally, recognize that without NAD+ regeneration, glycolysis cannot proceed, leading to the depletion of NAD+ as the inhibitory substance.",
+    "zh": "这个问题测试了对无氧糖酵解的理解、乳酸脱氢酶的作用以及 NAD+ 再生对肌肉中糖酵解途径持续进行至关重要。它特别评估了对代谢途径中酶缺陷如何导致特定临床表现和生化发现的知识。\n要解决这个问题，首先必须根据临床表现（运动耐受性差、缺血试验中乳酸不升高）确定酶缺陷（乳酸脱氢酶）。然后，回忆该酶在无氧代谢中的特定功能，即从 NADH 再生 NAD+。最后，认识到如果没有 NAD+ 再生，糖酵解就无法进行，从而导致 NAD+ 作为抑制物质的耗竭。"
+  },
+  "tags": "Lactate dehydrogenase deficiency; Glycolysis; Anaerobic metabolism; NAD+ regeneration; Exercise intolerance; Muscle metabolism; Metabolic disorders; Biochemistry",
+  "category": "Bio",
+  "question_id": "1019",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1019",
+  "extracted_at": "2025-11-05T10:20:48.189407",
+  "translated_at": "2025-11-07T15:43:21.461286",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

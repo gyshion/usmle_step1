@@ -1,0 +1,74 @@
+{
+  "question_stem": {
+    "en": "{{exhibit_1}} A patient presents with symptoms suggestive of heart failure. {{exhibit_2}} Physical exam reveals crackles at the lung bases and bilateral pedal edema. {{exhibit_3}} Which of the following sets of findings are most likely present in this patient?",
+    "zh": "{{exhibit_1}} 患者出现提示心力衰竭的症状。 {{exhibit_2}} 体格检查显示肺底部有啰音，双侧足部水肿。 {{exhibit_3}} 该患者最有可能出现以下哪组表现？"
+  },
+  "question": {
+    "en": "Which of the following sets of findings are most likely present in this patient?",
+    "zh": "该患者最有可能出现以下哪组表现？"
+  },
+  "options": {
+    "A": {
+      "en": "Right Atrial Pressure: Decreased, Left Ventricular End-Diastolic Pressure: Decreased",
+      "zh": "右心房压：降低，左心室舒张末期压力：降低"
+    },
+    "B": {
+      "en": "Right Atrial Pressure: Decreased, Left Ventricular End-Diastolic Pressure: Increased",
+      "zh": "右心房压：降低，左心室舒张末期压力：升高"
+    },
+    "C": {
+      "en": "Right Atrial Pressure: Increased, Left Ventricular End-Diastolic Pressure: Decreased",
+      "zh": "右心房压：升高，左心室舒张末期压力：降低"
+    },
+    "D": {
+      "en": "Right Atrial Pressure: Increased, Left Ventricular End-Diastolic Pressure: Increased",
+      "zh": "右心房压：升高，左心室舒张末期压力：升高"
+    },
+    "E": {
+      "en": "Right Atrial Pressure: Increased, Left Ventricular End-Diastolic Pressure: No change",
+      "zh": "右心房压：升高，左心室舒张末期压力：无变化"
+    },
+    "F": {
+      "en": "Right Atrial Pressure: No change, Left Ventricular End-Diastolic Pressure: Increased",
+      "zh": "右心房压：无变化，左心室舒张末期压力：升高"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Left-sided heart failure\n\nThis patient with fatigue, dyspnea on exertion, orthopnea, cough, and lower extremity swelling is in acute decompensated heart failure. Anthracycline chemotherapeutic agents (eg, doxorubicin) are a common cause of dilated cardiomyopathy and can precipitate symptomatic heart failure that presents years after exposure.\n\nDilated cardiomyopathy results from a direct insult to cardiomyocytes that impairs their contractile function. There is an increase in left ventricular volume that is initially compensated for by the Frank-Starling mechanism and later by eccentric hypertrophy to maintain cardiac output. However, overwhelming wall stress eventually leads to marked impairment in myocardial contractile function, reduced cardiac output, and symptomatic decompensated heart failure. The elevated left ventricular end-diastolic pressure (LVEDP) is transmitted backward to the pulmonary veins and capillaries, leading to pulmonary edema (evidenced by crackles on lung auscultation).\n\nPatients with advanced heart failure also develop elevated right atrial pressure (RAP). RAP is representative of central venous pressure and elevation is indicative of underlying volume overload and possible right-sided heart failure (which most commonly occurs secondary to left-sided heart failure due to backward transmission of elevated pressure overloading the right ventricle). In addition, since the underlying insult in dilated cardiomyopathy often directly affects the right ventricular myocardium, concomitant right ventricular failure is particularly likely in these individuals.\n\n(Choice A) Decreased RAP and LVEDP can occur in the setting of intravascular volume depletion.\n\n(Choices B and F) Increased LVEDP with normal or decreased RAP can occur early in the course of left-sided heart failure (eg, due to prolonged systemic hypertension). However, by the time overt signs of volume overload develop (eg, peripheral and pulmonary edema), RAP is invariably elevated.\n\n(Choices C and E) Increased RAP with normal or decreased LVEDP suggests right-sided heart failure in the absence of left-sided heart failure, as can occur with pulmonary arterial hypertension or hypoxic lung disease (eg, interstitial lung disease). Right ventricular output is impaired, causing reduced blood flow through the lungs to the left atrium (low or normal left-sided pressures). In contrast, this patient's pulmonary crackles are indicative of increased left-sided pressures.\n\nEducational objective:\nPatients with decompensated heart failure have elevated left ventricular end-diastolic pressure and decreased cardiac output that is most often primarily due to left ventricular dysfunction. Right atrial pressure (ie, central venous pressure) is also elevated in advanced heart failure due to volume overload; right-sided heart failure (most often occurring secondary to left-sided failure) can also contribute to elevated right atrial pressure.",
+    "zh": "左心衰\n\n该患者出现乏力、劳力性呼吸困难、端坐呼吸、咳嗽和下肢肿胀，提示急性失代偿性心力衰竭。蒽环类化疗药物（如多柔比星）是扩张型心肌病的常见病因，并可能诱发暴露多年后出现的有症状的心力衰竭。\n\n扩张型心肌病是由于对心肌细胞的直接损伤导致其收缩功能受损。左心室容积增大，最初通过 Frank-Starling 机制代偿，之后通过偏心肥大维持心输出量。然而，过度的壁应力最终导致心肌收缩功能显著受损、心输出量减少和有症状的失代偿性心力衰竭。左心室舒张末压 (LVEDP) 升高，逆向传导至肺静脉和毛细血管，导致肺水肿（表现为肺部听诊出现啰音）。\n\n晚期心力衰竭患者也会出现右心房压力 (RAP) 升高。 RAP 代表中心静脉压，其升高提示潜在的容量超负荷和可能出现的右心衰竭（最常见于继发于左心衰竭，由于压力升高逆向传导导致右心室超负荷）。此外，由于扩张型心肌病中的潜在损伤通常直接影响右心室心肌，这些患者尤其可能发生合并的右心室衰竭。\n\n(选项 A) RAP 和 LVEDP 降低可发生于血管内容量减少的情况下。\n\n(选项 B 和 F) LVEDP 升高而 RAP 正常或降低，可发生在左心衰竭的早期病程中（例如，由于长期全身性高血压）。然而，当出现明显的容量超负荷体征（例如，外周和肺水肿）时，RAP 总是升高。\n\n(选项 C 和 E) RAP 升高而 LVEDP 正常或降低，提示在不存在左心衰竭的情况下发生右心衰竭，如肺动脉高压或低氧性肺病（例如，间质性肺病）。右心室输出量受损，导致流向左心房的肺血流量减少（左侧压力低或正常）。相比之下，该患者的肺部啰音提示左侧压力升高。\n\n教育目的：\n失代偿性心力衰竭患者左心室舒张末压升高，心输出量减少，这通常主要由于左心室功能障碍所致。晚期心力衰竭患者由于容量超负荷，右心房压力（即中心静脉压）也会升高；右心衰竭（最常继发于左心衰竭）也可能导致右心房压力升高。"
+  },
+  "summary": {
+    "en": "The patient presents with symptoms of heart failure, including fatigue, dyspnea, and edema. Physical exam reveals crackles at the lung bases and bilateral pedal edema. The most likely findings are increased right atrial pressure and increased left ventricular end-diastolic pressure, indicative of left-sided heart failure.",
+    "zh": "患者出现心力衰竭的症状，包括乏力、呼吸困难和水肿。体格检查显示肺底部有啰音和双侧足部水肿。最有可能的发现是右心房压力升高和左心室舒张末期压力升高，提示左心衰。"
+  },
+  "tags": [
+    "cardiology",
+    "heart failure",
+    "right atrial pressure",
+    "left ventricular end-diastolic pressure",
+    "dilated cardiomyopathy",
+    "anthracycline",
+    "doxorubicin"
+  ],
+  "category": "CVS",
+  "question_id": "15650",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\15650",
+  "extracted_at": "2025-11-05T12:00:45.421992",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:51:16.211401",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

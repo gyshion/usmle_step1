@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 66-year-old man is evaluated for recurrent syncope. He has had 3 episodes of dizziness and palpitations followed by brief loss of consciousness over the last 6 months. He has no chest pain or dyspnea. The patient has a history of hypertension and hyperlipidemia. There is no family history of sudden death. Initial evaluation shows normal ECG and echocardiogram. A cardiac electrophysiologic study is performed. During the study, intravenous infusion of a medication is administered and produces the responses shown below {{exhibit_1}}.",
+    "zh": "一名66岁男性因反复晕厥就诊。过去6个月，他发生了3次头晕和心悸，随后短暂意识丧失。他没有胸痛或呼吸困难。患者有高血压和高脂血症病史。无猝死家族史。初步评估显示心电图和超声心动图正常。进行心脏电生理学研究。在研究期间，静脉注射一种药物，并产生如下所示的反应 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following medications was most likely administered to this patient?",
+    "zh": "以下哪种药物最有可能被给予该患者？"
+  },
+  "options": {
+    "A": {
+      "en": "Acetylcholine",
+      "zh": "乙酰胆碱"
+    },
+    "B": {
+      "en": "Adenosine",
+      "zh": "腺苷"
+    },
+    "C": {
+      "en": "Clonidine",
+      "zh": "可乐定"
+    },
+    "D": {
+      "en": "Esmolol",
+      "zh": "艾司洛尔"
+    },
+    "E": {
+      "en": "Isoproterenol",
+      "zh": "异丙肾上腺素"
+    },
+    "F": {
+      "en": "Norepinephrine",
+      "zh": "去甲肾上腺素"
+    },
+    "G": {
+      "en": "Phenylephrine",
+      "zh": "去氧肾上腺素"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The effects seen in the graphs above are most similar to those elicited by isoproterenol, a nonselective β adrenergic agonist. Isoproterenol INCREASES CARDIAC CONTRACTILITY (positive inotropic effect) by acting on myocardial β-1 adrenergic receptors. It also binds to β-2 adrenergic receptors and causes vasodilation by relaxation of vascular smooth muscle, leading to DECREASED VASCULAR RESISTANCE and mean arterial blood pressure. Isoproterenol has negligible effects on α-1 adrenergic receptors.\n\n(Choice A) Acetylcholine binds to M₂ muscarinic receptors in the heart and M₃ receptors in the vasculature and causes decreased heart rate and conduction velocity and vasodilation (indirectly mediated by endothelial nitric oxide release). Acetylcholine has no significant effect on ventricular contractility.\n\n(Choice B) Adenosine acts on A1 receptors on cardiac cells and activates potassium channels, increasing potassium conductance. This leads to transient conduction delay through the atrioventricular node. Adenosine can also cause peripheral vasodilation, but it attenuates the adrenergic-mediated increase in myocardial contractility.\n\n(Choice C) Clonidine stimulates α₂ adrenoceptors in the brainstem, resulting in reduced sympathetic outflow from the central nervous system, leading to a decrease in peripheral vascular resistance, heart rate, and blood pressure. It has no effect on cardiac contractility.\n\n(Choice D) Esmolol is a selective β-1 adrenergic blocking agent with negative inotropic and chronotropic effects. It would cause a decrease in cardiac contractility.\n\n(Choice F) Norepinephrine acts on α-1 receptors, causing vasoconstriction and an increase in systemic vascular resistance. Norepinephrine also acts as a weak agonist at β-1 receptors, with a modest increase in myocardial contractility.\n\n(Choice G) Phenylephrine is a sympathomimetic drug with pure α adrenergic agonist activity. Infusion of this drug causes vasoconstriction with an increase in systemic vascular resistance.\n\nEducational objective:\nIsoproterenol is a β-1 and β-2 adrenergic receptor agonist that causes increased myocardial contractility and decreased systemic vascular resistance.",
+    "zh": "上图中看到的效应与异丙肾上腺素（一种非选择性β肾上腺素能受体激动剂）引起的效应最为相似。异丙肾上腺素通过作用于心肌β-1肾上腺素能受体来增加心脏收缩力（正性肌力效应）。它也与β-2肾上腺素能受体结合，通过舒张血管平滑肌引起血管舒张，从而降低血管阻力和平均动脉血压。异丙肾上腺素对α-1肾上腺素能受体的影响可以忽略不计。\n\n(选项 A) 乙酰胆碱与心脏中的M₂毒蕈碱受体和血管中的M₃受体结合，引起心率和传导速度减慢以及血管舒张（间接由内皮一氧化氮释放介导）。乙酰胆碱对心室收缩力没有显著影响。\n\n(选项 B) 腺苷作用于心肌细胞上的A1受体，激活钾离子通道，增加钾离子电导。这会导致通过房室结的短暂传导延迟。腺苷也可引起周围血管舒张，但它会减弱肾上腺素能介导的心肌收缩力增加。\n\n(选项 C) 可乐定刺激脑干中的α₂肾上腺素受体，导致中枢神经系统交感神经外流减少，从而降低周围血管阻力、心率和血压。它对心脏收缩力没有影响。\n\n(选项 D) 艾司洛尔是一种选择性β-1肾上腺素受体阻滞剂，具有负性肌力和负性变时效应。它会导致心脏收缩力下降。\n\n(选项 F) 去甲肾上腺素作用于α-1受体，引起血管收缩和全身血管阻力增加。去甲肾上腺素也作为β-1受体的弱激动剂，可适度增加心肌收缩力。\n\n(选项 G) 去氧肾上腺素是一种具有纯α肾上腺素受体激动剂活性的拟交感神经药物。静脉输注该药可引起血管收缩，并增加全身血管阻力。\n\n教育目标：\n异丙肾上腺素是一种β-1和β-2肾上腺素能受体激动剂，可引起心肌收缩力增加和全身血管阻力降低。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of adrenergic receptor pharmacology and the effects of different adrenergic agonists on cardiac contractility and vascular resistance. It requires interpreting graphs of cardiac contractility and vascular resistance changes in response to a medication.\n\nTo solve this question, analyze the graphs to determine the medication's effects (increased contractility, decreased vascular resistance). Then, match these effects to the known pharmacology of the provided medications, focusing on adrenergic receptor agonists and their specific actions.",
+    "zh": "此问题考察了对肾上腺素能受体药理学以及不同肾上腺素能激动剂对心脏收缩力和血管阻力的影响的了解。它需要解释心肌收缩力和血管阻力变化对药物的反应图。\n\n要解决这个问题，请分析图表以确定药物的作用（增加收缩力、降低血管阻力）。然后，将这些作用与所提供的药物的已知药理学相匹配，重点关注肾上腺素能受体激动剂及其具体作用。"
+  },
+  "tags": "Syncope; Cardiac electrophysiology; Adrenergic receptors; Isoproterenol; Cardiac contractility; Vascular resistance; Beta-adrenergic agonists; Pharmacology",
+  "category": "CVS",
+  "question_id": "1836",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1836",
+  "extracted_at": "2025-11-05T12:02:57.332859",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:53:04.969142",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

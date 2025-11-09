@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 50-year-old man comes to the office due to a lump in his neck that has been present for 4 months and is enlarging. On examination, there is a firm, nontender, nonmobile mass in the right anterior neck. Otoscopic examination shows a clear right middle ear effusion. Needle biopsy of the neck mass is consistent with regional nodal spread of squamous cell carcinoma.",
+    "zh": "一名50岁男性因颈部肿块就诊，肿块已存在4个月且正在增大。体格检查显示右侧颈前区有坚硬、无压痛、不可移动的肿块。耳镜检查显示右侧中耳积液清晰。颈部肿块的针吸活检结果与鳞状细胞癌的区域淋巴结转移一致。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely site of the primary tumor?",
+    "zh": "以下哪项最可能是原发肿瘤的部位？"
+  },
+  "options": {
+    "A": {
+      "en": "Base of tongue",
+      "zh": "舌根"
+    },
+    "B": {
+      "en": "Nasopharynx",
+      "zh": "鼻咽"
+    },
+    "C": {
+      "en": "Parotid gland",
+      "zh": "腮腺"
+    },
+    "D": {
+      "en": "Piriform sinus",
+      "zh": "梨状窝"
+    },
+    "E": {
+      "en": "Thyroid gland",
+      "zh": "甲状腺"
+    },
+    "F": {
+      "en": "Vocal cord",
+      "zh": "声带"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Middle ear effusion due to nasopharyngeal carcinoma {{exhibit_1}}\n\nSquamous cell carcinoma originates in the mucosa of the head and neck typically spreads first to the anterior cervical lymph nodes. An enlarged, firm cervical lymph node is often the presenting symptom of head and neck squamous cell carcinoma (HNSCC). Identification of the primary site of tumor formation is important for staging and to guide treatment strategies.\n\nThis patient's unilateral middle ear effusion suggests obstruction of the eustachian tube, which connects the middle ear space to the nasopharynx. It opens intermittently, typically during swallowing or yawning to equalize pressure in the middle ear. Failure to adequately open causes negative pressure to build within the middle ear, leading to a transudative effusion (clear, amber, or yellow). Eustachian tube dysfunction can be due to anatomic obstruction from a mass in the nasopharynx or, more commonly, due to functional obstruction from infections, allergic rhinitis, or irritants (eg, tobacco smoke).\n\n(Choices A, D, and F) HNSCC can originate from the mucosa of other anatomic sites. Many sites (eg, base of tongue, piriform sinus) initially cause only vague or minor symptoms, but some may present with more specific features (eg, hoarseness in vocal cord cancer). Cancer at any of these other sites (ie, base of tongue, piriform sinus, vocal cord) would not lead to obstruction of the eustachian tube with a resultant middle ear effusion.\n\n(Choice C) Cancer of the parotid gland may spread to the cervical lymph nodes. The superior portion of the parotid gland is near the external auditory canal of the ear, not the eustachian tube. In addition, because the parotid gland is near the skin surface, primary tumors of the parotid are typically palpable.\n\n(Choice E) Cancer of the thyroid gland may spread to the cervical lymph nodes. However, it is very rare to have squamous cell carcinoma in the thyroid, and enlargement of the thyroid gland would not block the eustachian tube.\n\nEducational objective:\nThe eustachian tube connects the middle ear to the nasopharynx. Cancer located in the nasopharynx can lead to obstruction of the eustachian tube, causing a middle ear effusion.",
+    "zh": "鼻咽癌导致的中耳积液 {{exhibit_1}}\n\n鳞状细胞癌起源于头颈部的黏膜，通常首先扩散到颈前淋巴结。颈部淋巴结肿大、质地坚硬是头颈部鳞状细胞癌 (HNSCC) 常见的首发症状。确定肿瘤的原发部位对分期和指导治疗策略至关重要。\n\n该患者的单侧中耳积液提示咽鼓管阻塞，咽鼓管连接中耳腔和鼻咽。咽鼓管间歇性开放，通常在吞咽或打哈欠时开放，以平衡中耳内的压力。未能充分开放会导致中耳内出现负压，导致渗出性积液（清亮、琥珀色或黄色）。咽鼓管功能障碍可能是由于鼻咽部肿块引起的解剖性阻塞，或者更常见的是由于感染、过敏性鼻炎或刺激物（如烟草烟雾）引起的非解剖性阻塞。\n\n（选项 A、D 和 F）HNSCC 可起源于其他解剖部位的黏膜。许多部位（例如，舌根、梨状窝）最初只会引起模糊或轻微的症状，但有些可能会表现出更具体的特征（例如，声带癌的嘶哑）。在任何其他部位（即舌根、梨状窝、声带）发生的癌症都不会导致咽鼓管阻塞，进而导致中耳积液。\n\n（选项 C）腮腺癌可能会扩散到颈部淋巴结。腮腺的上部靠近耳朵的外耳道，而不是咽鼓管。此外，由于腮腺靠近皮肤表面，腮腺的原发性肿瘤通常是可触及的。\n\n（选项 E）甲状腺癌可能会扩散到颈部淋巴结。然而，甲状腺鳞状细胞癌非常罕见，甲状腺增大也不会阻塞咽鼓管。\n\n教育目标：\n咽鼓管连接中耳和鼻咽。位于鼻咽的癌症可导致咽鼓管阻塞，引起中耳积液。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the presentation of head and neck squamous cell carcinoma (HNSCC), specifically the association between nasopharyngeal carcinoma and middle ear effusion due to eustachian tube obstruction. It requires understanding of the anatomical relationships in the head and neck region and the common patterns of cancer spread.\n\nTo solve this question, recognize that unilateral middle ear effusion in the context of a neck mass should raise suspicion for nasopharyngeal carcinoma. Eliminate options that do not typically cause eustachian tube obstruction or are less likely to present with squamous cell carcinoma.",
+    "zh": "本题考察对头颈部鳞状细胞癌 (HNSCC) 表现的了解，特别是鼻咽癌与中耳积液（由咽鼓管阻塞引起）之间的关系。它需要理解头颈部区域的解剖关系以及癌症的常见扩散模式。\n\n要解决这个问题，要认识到在颈部肿块的背景下，单侧中耳积液应引起对鼻咽癌的怀疑。排除那些通常不会引起咽鼓管阻塞或不太可能表现为鳞状细胞癌的选项。"
+  },
+  "tags": "Squamous cell carcinoma; Head and neck cancer; Nasopharynx; Middle ear effusion; Eustachian tube obstruction; Otolaryngology; Oncology",
+  "category": "ENT",
+  "question_id": "18627",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\ENT 23\\18627",
+  "extracted_at": "2025-11-05T14:14:02.292600",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:44:40.135375",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

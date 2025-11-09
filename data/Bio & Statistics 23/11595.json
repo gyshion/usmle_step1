@@ -1,0 +1,55 @@
+{
+  "question_stem": {
+    "en": "A pharmaceutical corporation investigating new therapeutic agents for treatment of Burkitt lymphoma synthesizes a double-stranded RNA molecule that is 21 base pairs in length. The RNA molecule has a base pair sequence that is complementary to a region of mRNA encoding c-Myc. Introduction of the RNA molecule into tumor cells results in a significant reduction in cell growth. Western blot analysis of equivalent numbers of treated and untreated cells is shown below. {{exhibit_1}}",
+    "zh": "一家制药公司正在研究治疗Burkitt淋巴瘤的新治疗药物，合成了长度为21个碱基对的双链RNA分子。该RNA分子的碱基对序列与编码c-Myc的mRNA区域互补。将该RNA分子引入肿瘤细胞后，细胞生长显着减少。下面显示了经过处理和未处理细胞的蛋白质印迹分析结果，细胞数量相等。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following processes was most likely directly interrupted in the cells exposed to the RNA molecule?",
+    "zh": "暴露于该RNA分子的细胞中最可能直接中断以下哪种过程？"
+  },
+  "options": {
+    "A": {
+      "en": "DNA replication",
+      "zh": "DNA复制"
+    },
+    "B": {
+      "en": "DNA transcription",
+      "zh": "DNA转录"
+    },
+    "C": {
+      "en": "mRNA translation",
+      "zh": "mRNA翻译"
+    },
+    "D": {
+      "en": "Proteasome activity",
+      "zh": "蛋白酶体活性"
+    },
+    "E": {
+      "en": "Splicing",
+      "zh": "剪接"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The results of the western blot show that the treated cell line produces less c-myc protein. This is most likely due to RNA interference, a mechanism by which short (20-30 base pair) double-stranded RNA sequences induce posttranscriptional gene silencing.\n\nSilencing RNA includes both small interfering RNA (siRNA) and microRNA (miRNA). The human genome encodes over 1000 miRNA genes, each one capable of repressing hundreds of target genes; altered expression of miRNA genes are involved in the development of many diseases, including hematologic and solid malignancies. In addition, synthetic siRNA sequences can be introduced into cells to silence specific pathogenic genes (eg, C-Myc oncogene) and are being explored as possible therapeutic agents.\n\nAfter being transcribed, miRNA undergoes processing in the nucleus to form a double-stranded precursor that is then exported into the cytoplasm. There, the precursor is cleaved into a short RNA helix by a ribonuclease protein called dicer. The individual strands are then separated and incorporated into RNA-induced silencing complex (RISC). This multiprotein complex uses its associated miRNA as a template to bind to complementary sequences found on target mRNAs. An exact match generally results in mRNA degradation, but a partial match also causes translational repression by preventing ribosome and translation factor binding.\n\n(Choice A) DNA polymerase requires a short nucleic acid sequence primer for initiation of DNA synthesis. During DNA replication, these primers are formed from RNA bases by the enzyme DNA primase.\n\n(Choice B) DNA transcription is the process in which RNA is transcribed from a DNA template by an RNA polymerase enzyme. Although certain miRNA sequences can cause transcriptional inhibition, posttranscriptional silencing is the predominant means of RNA interference.\n\n(Choice D) Degradation of proteins and polypeptides occurs in proteasomes and lysosomes. Proteasomes mainly degrade nuclear and cytoplasmic proteins; lysosomes degrade cellular organelles and extracellular proteins.\n\n(Choice E) Small nuclear RNA (snRNA) molecules bind to specific proteins to form small nuclear ribonucleoproteins (snRNPs). These snRNPs associate with pre-mRNA to form spliceosomes, which function to remove introns from pre-mRNA during processing within the nucleus.",
+    "zh": "蛋白质印迹的结果表明，经过处理的细胞系产生的c-myc蛋白较少。这很可能是由于RNA干扰，这是一种短（20-30个碱基对）双链RNA序列诱导转录后基因沉默的机制。\n\n沉默RNA包括小干扰RNA（siRNA）和microRNA（miRNA）。人类基因组编码超过1000个miRNA基因，每个基因都能抑制数百个靶基因；miRNA基因的表达改变与许多疾病（包括血液系统恶性和实体瘤）的发生有关。此外，可以将合成siRNA序列引入细胞中以沉默特定的病原基因（例如，c-Myc癌基因），并且正在探索将其作为可能的治疗剂。\n\n转录后，miRNA在细胞核中进行处理，形成双链前体，然后将其输出到细胞质中。在那里，前体被一种称为dicer的核糖核酸酶蛋白切割成短RNA螺旋。然后将各个链分离并整合到RNA诱导的沉默复合物（RISC）中。这种多蛋白复合物使用其相关的miRNA作为模板，与靶mRNA上发现的互补序列结合。完全匹配通常会导致mRNA降解，但部分匹配也会通过阻止核糖体和翻译因子结合而导致翻译抑制。\n\n（选项A）DNA聚合酶需要短的核酸序列引物来启动DNA合成。在DNA复制过程中，这些引物由RNA碱基通过DNA引物酶形成。\n\n（选项B）DNA转录是RNA由RNA聚合酶酶从DNA模板转录的过程。尽管某些miRNA序列可以引起转录抑制，但转录后沉默是RNA干扰的主要手段。\n\n（选项D）蛋白质和多肽的降解发生在蛋白酶体和溶酶体中。蛋白酶体主要降解核蛋白和细胞质蛋白；溶酶体降解细胞器和细胞外蛋白。\n\n（选项E）小核RNA（snRNA）分子与特定蛋白质结合形成小核核糖核蛋白（snRNP）。这些snRNP与前mRNA结合形成剪接体，剪接体在细胞核内加工过程中起着从前mRNA中去除内含子的作用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of RNA interference (RNAi) and its mechanism of action in gene silencing, specifically how short double-stranded RNA molecules can inhibit mRNA translation. The question also assesses understanding of how siRNA and miRNA lead to post-transcriptional gene silencing, ultimately reducing protein production.\n\nTo solve this question, recognize that the introduced RNA molecule is complementary to mRNA encoding c-Myc, leading to translational repression. This is due to RNA interference, a process that targets mRNA for degradation or prevents translation by binding to complementary sequences.",
+    "zh": "此问题测试对RNA干扰（RNAi）及其在基因沉默中的作用机制的了解，特别是短双链RNA分子如何抑制mRNA翻译。这个问题还评估了对siRNA和miRNA如何导致转录后基因沉默，最终减少蛋白质产生的理解。\n\n要解决这个问题，需要认识到引入的RNA分子与编码c-Myc的mRNA互补，从而导致翻译抑制。这是由于RNA干扰，该过程靶向mRNA以进行降解或通过与互补序列结合来阻止翻译。"
+  },
+  "tags": "RNA interference; siRNA; miRNA; mRNA translation; Gene silencing; Burkitt lymphoma; c-Myc oncogene; Molecular biology",
+  "category": "Bio",
+  "question_id": "11595",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\11595",
+  "extracted_at": "2025-11-05T10:27:30.180466",
+  "translated_at": "2025-11-07T15:44:26.206305",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

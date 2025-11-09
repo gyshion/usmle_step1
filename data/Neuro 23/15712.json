@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "{{exhibit_1}}A patient reports immediate relief of pain, and there is loss of sensation to touch in the area infiltrated with the medication. These effects are most likely due to which of the following changes within the affected neurons?",
+    "zh": "{{exhibit_1}}患者报告疼痛立即缓解，且在用药渗透的区域丧失触觉。这些效应最可能由于受影响神经元内以下哪种变化所致？"
+  },
+  "question": {
+    "en": "These effects are most likely due to which of the following changes within the affected neurons?",
+    "zh": "这些效应最可能由于受影响神经元内以下哪种变化所致？"
+  },
+  "options": {
+    "A": {
+      "en": "Blockade of potassium channels",
+      "zh": "钾离子通道阻滞"
+    },
+    "B": {
+      "en": "Blockade of sodium channels",
+      "zh": "钠离子通道阻滞"
+    },
+    "C": {
+      "en": "Decreased calcium current",
+      "zh": "钙离子电流减少"
+    },
+    "D": {
+      "en": "Increased chloride conductance",
+      "zh": "氯离子电导增加"
+    },
+    "E": {
+      "en": "Interruption of axonal transport",
+      "zh": "轴突运输中断"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Lidocaine is a local anesthetic that interrupts nerve fiber transmission by blocking sodium channels in the neuronal cell membrane, preventing depolarization of the nerve. Local anesthetics have a greater effect on small myelinated nerves, so they preferentially inhibit neurons that carry pain and temperature sensation; pressure sensation and motor function are often preserved at typical doses. \n\nLocal anesthetics are weak bases that exist in charged and uncharged forms. When in the uncharged form, they diffuse through the cell membrane to block sodium channels from the inside of the cell. Increased acidity in the surrounding tissue, which occurs in infected wounds, results in more anesthetic molecules remaining in the charged form, rendering them unable to penetrate the cell membrane to exert an effect. Therefore, the dose required to achieve adequate anesthesia is higher in infected tissue. \n\n(Choice A) Blockade of potassium channels would inhibit repolarization, thereby prolonging action potentials and increasing neurotransmitter release at the neuromuscular junction rather than halting action potential propagation. \n\n(Choice C) Decreased calcium current slows the action potential propagation in cells that rely primarily on voltage-gated calcium channels for depolarization, such as cardiac slow response tissues (eg, sinoatrial and atrioventricular nodes); peripheral nerve depolarization is driven primarily by sodium, rather than calcium, influx. \n\n(Choice D) GABA is the primary inhibitory neurotransmitter in the CNS. Activation of the GABA-A receptor, which is the target of some sedating medications (eg, benzodiazepines), activates voltage-gated chloride channels. The influx of chloride ions causes hyperpolarization, which inhibits action potentials. \n\n(Choice E) Interruption of axonal transport delays the delivery of organelles (eg, mitochondria) and synaptic vesicles to the distal axon, causing impaired nerve impulse propagation. This occurs in some neurodegenerative diseases (eg, sporadic Alzheimer) or as an adverse effect of some chemotherapeutic agents (eg, vincristine).",
+    "zh": "利多卡因是一种局部麻醉剂，通过阻断神经元细胞膜中的钠离子通道来中断神经纤维的传递，从而阻止神经去极化。局部麻醉剂对小的有髓神经的影响更大，因此它们优先抑制传导疼痛和温度感觉的神经元；在典型剂量下，压力感觉和运动功能通常得以保留。\n\n局部麻醉剂是弱碱，以带电和不带电形式存在。当以不带电形式存在时，它们会穿过细胞膜，从细胞内部阻断钠离子通道。周围组织酸度增加（发生在感染伤口中）导致更多麻醉剂分子保持带电形式，使其无法穿透细胞膜发挥作用。因此，在感染组织中，达到充分麻醉所需的剂量更高。\n\n（选项 A）钾离子通道阻滞会抑制复极化，从而延长动作电位并在神经肌肉接头处增加神经递质的释放，而不是阻止动作电位的传播。\n\n（选项 C）钙离子电流减少会减缓主要依赖电压门控钙离子通道进行去极化的细胞（如心脏慢反应组织，例如窦房结和房室结）中的动作电位传播；外周神经去极化主要由钠离子而非钙离子内流驱动。\n\n（选项 D）GABA是中枢神经系统中的主要抑制性神经递质。GABA-A 受体的激活（一些镇静药物（例如，苯二氮卓类药物）的靶点）激活电压门控氯离子通道。氯离子内流导致超极化，从而抑制动作电位。\n\n（选项 E）轴突运输中断延迟了细胞器（例如，线粒体）和突触囊泡向远端轴突的传递，导致神经冲动传导受损。这种情况发生在一些神经退行性疾病（例如，散发性阿尔茨海默病）中，或者作为一些化疗药物（例如，长春新碱）的不良反应。"
+  },
+  "summary": {
+    "en": "The question asks about the mechanism of action of lidocaine, a local anesthetic. Lidocaine works by blocking sodium channels in the neuronal cell membrane, preventing depolarization and thus interrupting nerve fiber transmission.",
+    "zh": "该问题询问了局部麻醉剂利多卡因的作用机制。利多卡因通过阻断神经元细胞膜中的钠离子通道起作用，阻止去极化，从而中断神经纤维的传递。"
+  },
+  "tags": [
+    "Pharmacology",
+    "Anesthetics",
+    "Nerve Physiology"
+  ],
+  "exhibit_count": 1,
+  "category": "Neuro",
+  "question_id": "15712",
+  "has_exhibits": true,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\15712",
+  "extracted_at": "2025-11-05T15:20:14.681475",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:20:44.829517",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

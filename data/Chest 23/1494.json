@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old woman is brought to the emergency department after being stuck in a malfunctioning elevator for 45 minutes. The patient says she felt extremely anxious in the closed space of the elevator and experienced dizziness, shortness of breath, generalized weakness, and blurred vision. She has no other medical conditions and takes no medications. She does not use tobacco, alcohol, or illicit drugs. Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "一名32岁的女性在被困在一个发生故障的电梯里45分钟后被送往急诊科。患者表示她在电梯的封闭空间里感到极度焦虑，并出现头晕、呼吸急促、全身乏力和视力模糊。她没有其他疾病，也没有服用药物。她不吸烟、不饮酒，也不使用违禁药物。以下哪项最可能是该患者症状的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "以下哪项最可能是该患者症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased arterial partial pressure of CO₂",
+      "zh": "动脉血二氧化碳分压降低"
+    },
+    "B": {
+      "en": "Decreased arterial partial pressure of O₂",
+      "zh": "动脉血氧分压降低"
+    },
+    "C": {
+      "en": "Decreased arterial pH",
+      "zh": "动脉血pH值降低"
+    },
+    "D": {
+      "en": "Decreased arterial total O₂ content",
+      "zh": "动脉血总氧含量降低"
+    },
+    "E": {
+      "en": "Increased alveolar-arterial O₂ gradient",
+      "zh": "肺泡-动脉血氧分压差增大"
+    },
+    "F": {
+      "en": "Increased arterial lactic acid content",
+      "zh": "动脉血乳酸含量升高"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient most likely had a panic attack while trapped in the elevator. Panic attacks are typically accompanied by hyperventilation with a resulting decrease in arterial partial pressure of CO₂ (PaCO₂). This hypocapnia can cause decreased cerebral perfusion with consequent neurologic sequelae, including generalized weakness, blurred vision, presyncope (ie, dizziness, lightheadedness), and syncope.\n\nCerebral blood flow (CBF) remains relatively constant over a wide range of perfusion pressures (cerebrovascular autoregulation) and is mainly influenced by arterial blood gas levels, particularly changes in PaCO₂. Hypercapnia triggers an increase in CBF (to aid in removal of toxins), and hypocapnia triggers a decrease in CBF. In fact, because hypocapnia decreases CBF, mechanically ventilated patients with cerebral edema are often hyperventilated to decrease intracranial pressure and help prevent brain herniation.\n\nCBF is less sensitive to the arterial partial pressure of oxygen (PaO₂). PaO₂ has little influence on CBF until the level drops below 50 mm Hg, at which point a rapid increase in CBF is triggered. {{exhibit_1}}\n\n(Choices B and D) The total blood O₂ content is predominantly made up of hemoglobin-bound O₂ (determined by the blood hemoglobin level and PaO₂) plus a small contribution of dissolved O₂. Hyperventilation increases the alveolar partial pressure of O₂ and should somewhat increase (rather than decrease) both PaO₂ and total blood O₂ content.\n\n(Choice C) Hyperventilation produces respiratory alkalosis, marked by an increase in arterial pH.\n\n(Choice E) Disturbances that increase the alveolar-arterial O₂ gradient include V/Q mismatch (eg, pulmonary embolism), diffusion limitation, and right-to-left shunting (eg, Eisenmenger syndrome). Changes in ventilation rate (ie, hypo- or hyperventilation) have no effect on the alveolar-arterial O₂ gradient.\n\n(Choice F) Increased arterial lactic acid content is a sign of tissue hypoxia (eg, due to sepsis or ischemia), which is unlikely in the setting of hyperventilation from a panic attack.\n\nEducational objective: Panic attacks are typically accompanied by hyperventilation, leading to hypocapnia. Cerebral blood flow is directly related to the arterial partial pressure of CO₂; therefore, hypocapnia can lead to reduced cerebral blood flow and symptoms of cerebral hypoperfusion (eg, blurred vision, dizziness, lightheadedness).",
+    "zh": "该患者最有可能在被困在电梯里时发生了恐慌发作。恐慌发作通常伴有过度通气，导致动脉血二氧化碳分压（PaCO₂）降低。这种低碳酸血症可导致脑灌注减少，进而导致神经系统后遗症，包括全身无力、视力模糊、晕厥前（即头晕、头昏眼花）和晕厥。\n\n脑血流量 (CBF) 在很大范围的灌注压力（脑血管自动调节）下保持相对恒定，主要受动脉血气水平影响，尤其是 PaCO₂ 的变化。高碳酸血症会触发CBF增加（以帮助清除毒素），而低碳酸血症会触发CBF减少。事实上，由于低碳酸血症会降低 CBF，机械通气的脑水肿患者通常会过度通气以降低颅内压并帮助预防脑疝。\n\nCBF对动脉血氧分压 (PaO₂) 的敏感性较低。 PaO₂ 对 CBF 的影响很小，直到该水平降至 50 mm Hg 以下，此时会触发 CBF 的快速增加。 {{exhibit_1}}\n\n（选项B和D）血氧总含量主要由血红蛋白结合的O₂（由血红蛋白水平和PaO₂决定）加上少量溶解的O₂组成。过度通气会增加肺泡氧分压，并且应该在一定程度上增加（而不是减少）PaO₂和血液总氧含量。\n\n（选项C）过度通气产生呼吸性碱中毒，其特征是动脉血pH值升高。\n\n（选项E）增加肺泡-动脉血氧分压差的因素包括V/Q失调（例如，肺栓塞）、弥散受限和右向左分流（例如，艾森门格综合征）。通气率的变化（即低通气或过度通气）对肺泡-动脉血氧分压差没有影响。\n\n（选项F）动脉血乳酸含量升高是组织缺氧的征兆（例如，由于败血症或缺血），这在恐慌发作引起的过度通气情况下不太可能发生。\n\n教育目标：恐慌发作通常伴有过度通气，导致低碳酸血症。脑血流量与动脉血二氧化碳分压直接相关；因此，低碳酸血症可导致脑血流量减少和脑灌注不足的症状（例如，视力模糊、头晕、头昏眼花）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the physiological response to hyperventilation during a panic attack, specifically the impact on arterial blood gases and cerebral blood flow. It requires understanding the relationship between PaCO2, cerebral perfusion, and the resulting neurological symptoms.\n\nThe key to solving this question is recognizing that hyperventilation leads to a decrease in PaCO2, which in turn causes cerebral vasoconstriction and reduced cerebral blood flow. This reduction in cerebral perfusion explains the patient's symptoms of dizziness, blurred vision, and generalized weakness.",
+    "zh": "这个问题考察了对恐慌发作期间过度通气的生理反应的知识，特别是对动脉血气和脑血流量的影响。它要求理解PaCO2、脑灌注以及由此产生的神经系统症状之间的关系。\n\n解决这个问题的关键是认识到过度通气导致PaCO2降低，进而导致脑血管收缩和脑血流量减少。这种脑灌注减少解释了患者头晕、视力模糊和全身无力的症状。"
+  },
+  "tags": "Panic attack; Hyperventilation; Hypocapnia; Cerebral blood flow; Respiratory alkalosis; Arterial blood gases; Neurology; Emergency medicine",
+  "category": "Chest",
+  "question_id": "1494",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1494",
+  "extracted_at": "2025-11-05T11:37:50.133915",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:34:43.971022",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

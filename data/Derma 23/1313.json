@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old woman comes to the office due to skin changes. Blotches of skin on her arms appear to be of a different color, and she also has a tingling sensation in her hands. These symptoms have developed over the past several months. The patient has no other past medical history. She is a political refugee from East Africa. On examination, there are patchy areas of skin anesthesia and hypopigmentation on her upper extremities. Nerve biopsy evaluated under light microscopy shows many organisms invading Schwann cells. HIV testing is negative.",
+    "zh": "一名34岁的女性因皮肤改变就诊。她手臂上的皮肤斑点颜色似乎不同，并且她的手也有刺痛感。这些症状在过去的几个月里出现。患者没有其他既往病史。她是一名来自东非的政治难民。体格检查显示，她的上肢皮肤出现片状麻木和色素减退。在光学显微镜下评估的神经活检显示，许多微生物侵入了许旺细胞。HIV检测呈阴性。"
+  },
+  "question": {
+    "en": "Which of the following organisms is the most likely cause of this patient's condition?",
+    "zh": "以下哪种病原体最有可能导致患者的这种状况？"
+  },
+  "options": {
+    "A": {
+      "en": "Borrelia burgdorferi",
+      "zh": "伯氏疏螺旋体"
+    },
+    "B": {
+      "en": "Campylobacter fetus",
+      "zh": "胎儿弯曲杆菌"
+    },
+    "C": {
+      "en": "Corynebacterium diphtheriae",
+      "zh": "白喉棒状杆菌"
+    },
+    "D": {
+      "en": "Mycobacterium leprae",
+      "zh": "麻风分枝杆菌"
+    },
+    "E": {
+      "en": "Treponema pallidum",
+      "zh": "梅毒螺旋体"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Immune response in leprosy\n\n- lepromin skin test\n\nLeprosy (Hansen disease), a deforming infection primarily of the SKIN and NERVES, is caused by Mycobacterium leprae. Transmission is promoted in unhygienic conditions and likely occurs through the respiratory route, with some organisms being transmitted through prolonged direct skin-to-skin contact. Infection has also been associated with armadillo contact in the southwestern United States. The range of clinical manifestations depends on the strength of the cell-mediated immune (CMI) response.\n\n- Tuberculoid leprosy (TT) (seen in this patient) is the least severe form and is often self-limited. Mycobacterial infection is limited by an intact CMI response (Th1-mediated). Mild skin plaques develop and are associated with hypopigmentation, hair follicle loss, and focally decreased sensation.\n\n- Lepromatous leprosy (LL), the most severe form, occurs in patients with a weak CMI response (Th2-mediated). Macrophage signaling to kill M leprae is limited, leading to mycobacterial dissemination. Manifestations include diffuse skin thickening, plaque-like hypopigmentation (often with hair loss), leonine facies, paresis, regional anesthesia, testicular destruction, and blindness.\n\nM leprae grows best at temperatures below core body temperature, partially explaining why leprosy manifests in the skin, superficial nerves (eg, Schwann cells in this patient), eyes, and testes. Intermediate features between TT and LL are often seen.\n\n(Choice A) Borrelia burgdorferi causes Lyme disease. Symptoms include a characteristic skin rash (erythema chronicum migrans) with fever and malaise. Systemic disease can progress to cause arthritis, facial paresis, or cardiac involvement (eg, conduction abnormalities). Prolonged untreated disease can lead to central nervous system involvement.\n\n(Choice B) Campylobacter fetus, a gram-negative rod, causes mild enteritis in immunocompetent patients and mild systemic bacteremic illness in immunocompromised patients.\n\n(Choice C) Corynebacterium diphtheriae is a gram-positive rod that causes diphtheria, a primarily toxin-mediated lower respiratory tract infection that is sometimes complicated by polyneuritis and myocarditis.\n\n(Choice E) Treponema pallidum causes syphilis. Primary syphilis manifests as a painless chancre at the inoculation site. Secondary syphilis results in erythematous macules over the entire body (including the palms and soles) and condyloma lata formation. Tertiary syphilis results in skin and bone gummas and ascending aortitis.\n\nEducational objective:\nThe severity of leprosy, a systemic illness caused by Mycobacterium leprae, depends on the strength of the cell-mediated immune (CMI) response, with tuberculoid leprosy representing the milder form (intact Th1 CMI response) and lepromatous leprosy the more severe form (weak CMI response). {{exhibit_1}}",
+    "zh": "麻风病的免疫反应\n\n- 麻风菌素皮肤试验\n\n麻风病（汉森病）是一种主要影响皮肤和神经的毁容性感染，由麻风分枝杆菌引起。在不卫生条件下易于传播，可能通过呼吸道传播，一些病原体通过长时间的直接皮肤接触传播。在美国西南部，感染也与犰狳接触有关。临床表现的范围取决于细胞介导的免疫（CMI）反应的强度。\n\n- 结核样麻风病（TT）（在此患者中可见）是最轻的类型，并且通常是自限性的。分枝杆菌感染受完整的CMI反应（Th1介导）的限制。出现轻度的皮肤斑块，并伴有色素减退、毛囊脱落和局部感觉减退。\n\n- 麻风型麻风病（LL）是最严重的类型，发生在CMI反应较弱的患者中（Th2介导）。巨噬细胞信号传导杀死麻风分枝杆菌受到限制，导致分枝杆菌播散。表现包括弥漫性皮肤增厚、斑块样色素减退（常伴有脱发）、狮面、轻瘫、区域性麻醉、睾丸破坏和失明。\n\n麻风分枝杆菌在低于核心体温的温度下生长最佳，部分解释了麻风病为何在皮肤、浅表神经（例如，此患者的许旺细胞）、眼睛和睾丸中表现。通常可见TT和LL之间的中间特征。\n\n（选项A）伯氏疏螺旋体引起莱姆病。症状包括特征性皮疹（游走性红斑），伴有发热和不适。全身性疾病可能会进展为关节炎、面神经麻痹或心脏受累（例如，传导异常）。长期未经治疗的疾病可导致中枢神经系统受累。\n\n（选项B）胎儿弯曲杆菌是一种革兰氏阴性杆菌，在免疫功能正常的患者中引起轻度肠炎，在免疫功能低下的患者中引起轻度全身性菌血症。\n\n（选项C）白喉棒状杆菌是一种革兰氏阳性杆菌，可引起白喉，这是一种主要由毒素介导的下呼吸道感染，有时会并发多发性神经炎和心肌炎。\n\n（选项E）梅毒螺旋体引起梅毒。一期梅毒表现为接种部位的无痛性下疳。二期梅毒导致全身出现红斑丘疹（包括手掌和足底）和扁平湿疣形成。三期梅毒导致皮肤和骨骼树胶肿以及升主动脉炎。\n\n教育目标：\n麻风病（由麻风分枝杆菌引起的全身性疾病）的严重程度取决于细胞介导的免疫（CMI）反应的强度，其中结核样麻风病代表较轻的类型（完整的Th1 CMI反应），麻风型麻风病代表较重的类型（较弱的CMI反应）。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of leprosy (Hansen's disease), its causative agent Mycobacterium leprae, and its clinical presentation, particularly in the context of a patient from an endemic region. It also assesses understanding of the immune response involved in different forms of leprosy.\n\nTo solve this question, consider the patient's origin (East Africa), the symptoms (skin changes, tingling, patchy anesthesia, hypopigmentation), and the nerve biopsy findings (organisms invading Schwann cells). These findings are highly suggestive of leprosy, making Mycobacterium leprae the most likely causative organism.",
+    "zh": "这个问题考察了对麻风病（汉森病）、其病原体麻风分枝杆菌及其临床表现的了解，尤其是在来自流行病区患者的背景下。它还评估了对不同类型麻风病所涉及的免疫反应的理解。\n\n要解决这个问题，请考虑患者的来源（东非）、症状（皮肤改变、刺痛、片状麻醉、色素减退）和神经活检结果（病原体侵入许旺细胞）。这些发现高度提示麻风病，使麻风分枝杆菌成为最可能的病原体。"
+  },
+  "tags": "Leprosy; Mycobacterium leprae; Hansen's disease; Peripheral neuropathy; Skin anesthesia; Hypopigmentation; Schwann cells; Tuberculoid leprosy; Lepromatous leprosy; Infectious disease",
+  "category": "Derma",
+  "question_id": "1313",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\1313",
+  "extracted_at": "2025-11-05T13:52:38.450943",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:33:37.649302",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

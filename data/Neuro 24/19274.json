@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 44-year-old woman comes to the office for follow-up. The patient sustained a complete C7 spinal cord injury a year ago after falling off a cliff while hiking. She is able to move her shoulders and upper arms but has paraplegia and uses a wheelchair. The patient has a suprapubic catheter due to neurogenic bladder. She has no other medical conditions. She is a lifelong nonsmoker. Which of the following changes in respiratory parameters are most likely present in this patient? {{exhibit_1}}",
+    "zh": "一名44岁女性来诊复查。该患者一年前在徒步旅行时从悬崖上坠落，导致C7完全性脊髓损伤。她可以活动肩膀和上臂，但有截瘫，需要使用轮椅。患者由于神经源性膀胱而放置了耻骨上膀胱导管。她没有其他疾病。她一生不吸烟。该患者最有可能出现以下哪种呼吸参数变化？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following changes in respiratory parameters are most likely present in this patient?",
+    "zh": "该患者最有可能出现以下哪种呼吸参数变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased Maximal inspiratory pressure, Increased Maximal expiratory pressure",
+      "zh": "最大吸气压降低，最大呼气压升高"
+    },
+    "B": {
+      "en": "Decreased Maximal inspiratory pressure, Normal Maximal expiratory pressure",
+      "zh": "最大吸气压降低，最大呼气压正常"
+    },
+    "C": {
+      "en": "Normal Maximal inspiratory pressure, Decreased Maximal expiratory pressure",
+      "zh": "最大吸气压正常，最大呼气压降低"
+    },
+    "D": {
+      "en": "Increased Maximal inspiratory pressure, Decreased Maximal expiratory pressure",
+      "zh": "最大吸气压升高，最大呼气压降低"
+    },
+    "E": {
+      "en": "Increased Maximal inspiratory pressure, Increased Maximal expiratory pressure",
+      "zh": "最大吸气压升高，最大呼气压升高"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Patients with spinal cord injuries often have significant alterations in respiratory dynamics. Because different muscles (with different sources of innervation) control inspiration and expiration, respiratory function is differentially impaired based on the level of spinal cord injury.\n\nInspiration is driven by an increase in intrathoracic volume. This is mediated predominantly by contraction of the DIAPHRAGM, which is innervated by the PHRENIC NERVE that originates from the C3-C5 nerve rootlets. Accessory muscles of inspiration elevate the sternum and ribs to further expand the thoracic cavity. These include the external intercostals (innervated by thoracic nerve roots), the sternocleidomastoid (innervated by C1-C4), and the scalenes (innervated by C4-C8).\n\nPassive expiration is driven by the net intrinsic elastic recoil of the lungs, chest wall, ribs, and diaphragm and therefore requires no innervation. Active expiration, as measured in this patient's pulmonary function testing, recruits the musculature to pull the ribs down and compress the abdominal contents to push the diaphragm up and decrease intrathoracic volume. This is driven by the INTERNAL INTERCOSTALS (innervated by THORACIC NERVE ROOTS) and ABDOMINAL MUSCLES (innervated by THORACIC and LUMBAR NERVE ROOTS).\n\nBecause the spinal cord injury was at the LEVEL OF C7 in this patient, the diaphragm and many of the accessory inspiratory muscles are likely functional, resulting in minimal impairment of maximal inspiratory pressure. However, the muscles involved in active expiration (ie, internal intercostals and abdominal muscles) are likely significantly impaired, leading to a significant DECREASE IN MAXIMAL EXPIRATORY PRESSURE.\n\n(Choices A and B) Although the external intercostals are innervated by thoracic nerve roots and may be impaired in this patient, the other accessory muscles of inspiration, including the sternocleidomastoid and scalenes, are typically able to compensate for their loss and adequately elevate the sternum/ribs. This leads to minimal or no change in the maximal inspiratory pressure.\n\nEducational objective:\nThe diaphragm is the principal muscle of inspiration and is innervated by the phrenic nerve, which originates from the C3-C5 nerve rootlets. Although expiration is largely achieved through passive recoil, active expiration is aided by the internal intercostals (innervated by thoracic nerve roots) and abdominal muscles (innervated by thoracic and lumbar nerve roots).",
+    "zh": "脊髓损伤患者通常会出现显著的呼吸动力学改变。由于控制吸气和呼气的肌肉不同（支配它们的神经来源也不同），呼吸功能会根据脊髓损伤的水平而有所差异。\n\n吸气由胸腔内容积增加驱动。这主要由膈肌的收缩介导，膈肌由起自C3-C5神经根的膈神经支配。吸气的辅助肌肉抬高胸骨和肋骨，以进一步扩大胸腔。这些肌肉包括外肋间肌（由胸神经根支配）、胸锁乳突肌（由C1-C4支配）和斜角肌（由C4-C8支配）。\n\n被动呼气由肺、胸壁、肋骨和膈肌的净固有弹性回缩驱动，因此不需要神经支配。主动呼气（在此患者的肺功能检查中测量）募集肌肉以拉下肋骨并压迫腹部内容物，从而向上推膈肌并减少胸腔内体积。这由内肋间肌（由胸神经根支配）和腹肌（由胸神经根和腰神经根支配）驱动。\n\n由于该患者的脊髓损伤位于C7水平，膈肌和许多辅助吸气肌可能功能正常，导致最大吸气压受损最小。然而，参与主动呼气的肌肉（即内肋间肌和腹肌）很可能受到严重损伤，导致最大呼气压显著降低。\n\n（选项A和B）虽然外肋间肌由胸神经根支配，并且可能在此患者中受损，但其他辅助吸气肌（包括胸锁乳突肌和斜角肌）通常能够代偿其损失，并充分抬高胸骨/肋骨。这导致最大吸气压变化很小或没有变化。\n\n教学目标：\n膈肌是主要的吸气肌，由起自C3-C5神经根的膈神经支配。虽然呼气主要通过被动回缩来实现，但内肋间肌（由胸神经根支配）和腹肌（由胸神经根和腰神经根支配）有助于主动呼气。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of respiratory muscle innervation and how different levels of spinal cord injury affect inspiratory and expiratory pressures. It requires correlating the anatomical location of the injury with the function of specific respiratory muscles.\n\nTo solve this question, one must first identify the muscles responsible for inspiration and expiration and their respective nerve innervations. Then, by considering the level of the spinal cord injury (C7), determine which muscles are likely impaired and how this impairment would affect maximal inspiratory and expiratory pressures.",
+    "zh": "此问题测试对呼吸肌神经支配的理解，以及不同水平的脊髓损伤如何影响吸气和呼气压力。它需要将损伤的解剖位置与特定呼吸肌的功能相关联。\n\n要解决此问题，首先必须确定负责吸气和呼气的肌肉及其各自的神经支配。然后，通过考虑脊髓损伤的水平（C7），确定哪些肌肉可能受损以及这种损伤将如何影响最大吸气压和呼气压。"
+  },
+  "tags": "Spinal cord injury; Respiratory mechanics; Diaphragm; Phrenic nerve; Intercostal muscles; Abdominal muscles; Pulmonary function testing; Neurologic examination",
+  "category": "Neuro",
+  "question_id": "19274",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\19274",
+  "extracted_at": "2025-11-05T19:37:38.250005",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:37:00.380816",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

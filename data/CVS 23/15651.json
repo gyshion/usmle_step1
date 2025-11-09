@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old man comes to the emergency department due to increasing dyspnea. He was unable to mow his lawn the previous day due to shortness of breath. The patient has a history of hypertension and a 20-pack-year smoking history. He is retired and traveled to Hawaii 2 months ago. Blood pressure is 160/86 mm Hg, pulse is 94/min, and respirations are 24/min; oxygen saturation is 94% on room air. Physical examination reveals bilateral lung crackles and occasional wheezes. Laboratory testing reveals elevated brain natriuretic peptide levels.",
+    "zh": "一名63岁男性因进行性呼吸困难来到急诊科。他前一天因为气短无法修剪草坪。患者有高血压病史和20包-年吸烟史。他已退休，2个月前去夏威夷旅行过。血压为160/86 mmHg，脉搏94次/分钟，呼吸24次/分钟；室温空气下氧饱和度为94%。体格检查显示双侧肺部爆裂音和偶尔的喘息音。实验室检查显示脑钠肽水平升高。"
+  },
+  "question": {
+    "en": "Which of the following is the primary trigger for the release of this substance in this patient?",
+    "zh": "该患者体内这种物质释放的首要诱因是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Activation of alveolar juxtacapillary receptors",
+      "zh": "肺泡毛细血管旁受体的激活"
+    },
+    "B": {
+      "en": "Decrease in renal perfusion pressure",
+      "zh": "肾灌注压力降低"
+    },
+    "C": {
+      "en": "Decrease in vena cava blood return",
+      "zh": "腔静脉回血减少"
+    },
+    "D": {
+      "en": "Focal myocardial necrosis",
+      "zh": "局灶性心肌坏死"
+    },
+    "E": {
+      "en": "Increase in ventricular wall stress",
+      "zh": "心室壁应力增加"
+    },
+    "F": {
+      "en": "Stretching of aortic baroreceptors",
+      "zh": "主动脉压力感受器的牵张"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "In addition to their contractile and electrical conduction properties, CARDIOMYOCYTES possess endocrine capabilities to help regulate blood volume. Volume overload leads to stretching and increased wall stress of the ventricular walls. In response, the ventricular myocardium releases BRAIN NATRIURETIC PEPTIDE (BNP); similarly, the atrial myocardium releases atrial natriuretic peptide (ANP) in response to atrial stretching. These natriuretic peptides stimulate both venous and arterial VASODILATION to decrease cardiac preload and afterload and reduce strain on the myocardium. In addition, ANP and BNP stimulate salt and water excretion by the kidneys to facilitate DIURESIS. Clinically, BNP has diagnostic utility in patients with shortness of breath of unknown cause. For patients in whom the serum BNP level is not elevated, shortness of breath is unlikely to be due to heart failure.\n\n(Choice A) Alveolar juxtacapillary receptors increase respiratory rate in response to pathologic alveolar processes (eg, pulmonary edema, pneumonia).\n\n(Choice B) Decreased renal perfusion pressure triggers the juxtaglomerular apparatus to release renin; activation of the renin-angiotensin-aldosterone system stimulates vasoconstriction and fluid retention, opposing the effects of natriuretic peptides.\n\n(Choice C) Decrease in vena cava blood return reduces preload and leads to a consequent reduction in cardiac output. The reduced cardiac output is sensed by carotid baroreceptors, and an increase in sympathetic drive is triggered to stimulate vasoconstriction and increased heart rate and contractility.\n\n(Choice D) Focal myocardial necrosis causes release of troponin into the bloodstream, which acts as a sensitive marker of myocardial damage. BNP levels often increase during myocardial infarction; however, this increase is likely secondary to ventricular dysfunction leading to volume overload and myocardial stretch.\n\n(Choice F) Elevated blood pressure causes stretching of aortic baroreceptors, which triggers a reduction in sympathetic drive to alleviate vasoconstriction and reduce myocardial contractility.",
+    "zh": "除了收缩和电传导特性外，心肌细胞还具有内分泌功能，有助于调节血容量。容量超负荷会导致心室壁的牵张和应力增加。作为反应，心室心肌释放脑钠肽(BNP)；同样，心房心肌在心房牵张时释放心房钠肽(ANP)。这些利钠肽刺激静脉和动脉血管舒张，以降低心脏前负荷和后负荷，并减轻心肌的负担。此外，ANP和BNP刺激肾脏排盐排水，以促进利尿。在临床上，BNP对原因不明的呼吸困难患者具有诊断价值。对于血清BNP水平未升高的患者，呼吸困难不太可能是由于心力衰竭引起的。\n\n(选项A) 肺泡毛细血管旁受体对病理性肺泡过程（例如，肺水肿、肺炎）的反应是增加呼吸频率。\n\n(选项B) 肾灌注压力降低会触发肾小球旁器释放肾素；肾素-血管紧张素-醛固酮系统的激活会刺激血管收缩和液体潴留，与利钠肽的作用相反。\n\n(选项C) 腔静脉回血减少会降低前负荷，并导致心输出量随之减少。颈动脉压力感受器感知到心输出量减少，并触发交感神经驱动的增加以刺激血管收缩和心率及收缩力增加。\n\n(选项D) 局灶性心肌坏死导致肌钙蛋白释放到血流中，肌钙蛋白作为心肌损伤的敏感标志物。心肌梗死期间BNP水平通常会升高；然而，这种升高很可能继发于心室功能障碍导致容量超负荷和心肌牵张。\n\n(选项F) 血压升高会导致主动脉压力感受器牵张，这会触发交感神经驱动的降低，以减轻血管收缩和降低心肌收缩力。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the triggers for brain natriuretic peptide (BNP) release in the context of heart failure. BNP is released by ventricular myocytes in response to increased wall stress, typically due to volume overload.\n\nTo solve this question, consider the patient's presentation (dyspnea, crackles, hypertension) and the elevated BNP level. Recognize that increased ventricular wall stress is the primary stimulus for BNP release in this scenario.",
+    "zh": "本题考察在心力衰竭背景下脑钠肽(BNP)释放的诱因。BNP由心室肌细胞释放，以应对心壁应力增加，通常是由于容量超负荷所致。\n\n为了解决这个问题，请考虑患者的临床表现（呼吸困难、爆裂音、高血压）和升高的BNP水平。认识到在这种情况下，心室壁应力增加是BNP释放的主要刺激因素。"
+  },
+  "tags": "Brain natriuretic peptide; BNP; Heart failure; Ventricular wall stress; Volume overload; Cardiology; Dyspnea; Hypertension",
+  "category": "CVS",
+  "question_id": "15651",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\15651",
+  "extracted_at": "2025-11-05T12:00:01.224239",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:51:18.710123",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

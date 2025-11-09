@@ -1,0 +1,53 @@
+{
+  "question_stem": {
+    "en": "Researchers are working to identify new targets for drug development to treat idiopathic pulmonary fibrosis. After obtaining lung tissue samples from affected patients, they conduct a series of experiments to measure the expression and activity of various profibrotic proteins. The results for one such protein, galectin-3, are as follows:\n\nmRNA concentration normal\nProtein concentration increased\nProtein activity intact",
+    "zh": "研究人员正在努力寻找治疗特发性肺纤维化的新药物开发靶点。在从受影响的患者身上获得肺组织样本后，他们进行了一系列实验，以测量各种促纤维化蛋白的表达和活性。一种此类蛋白质，半乳凝素-3的结果如下：\n\nmRNA 浓度正常\n蛋白质浓度增加\n蛋白质活性完整"
+  },
+  "question": {
+    "en": "Which of the following processes best explains these findings?",
+    "zh": "以下哪种过程最能解释这些发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Mutation in the Galectin-3 promotor region",
+      "zh": "半乳凝素-3启动子区域的突变"
+    },
+    "B": {
+      "en": "Decreased methylation of the Galectin-3 gene",
+      "zh": "半乳凝素-3基因的甲基化降低"
+    },
+    "C": {
+      "en": "Shortening of the Galectin-3 mRNA poly-(A) tail",
+      "zh": "半乳凝素-3 mRNA 多聚 (A) 尾的缩短"
+    },
+    "D": {
+      "en": "Decreased ubiquitination of the Galectin-3 protein",
+      "zh": "半乳凝素-3 蛋白的泛素化降低"
+    },
+    "E": {
+      "en": "Hyperphosphorylation of the Galectin- 3 protein",
+      "zh": "半乳凝素-3 蛋白的过度磷酸化"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The researchers' study of galectin-3 revealed an INCREASED INTRACELLULAR PROTEIN level despite unchanged cellular mRNA concentration. Regulation of protein expression occurs at multiple levels, as follows:\n\n- Transcriptional: mRNA production rate is determined by the binding of transcription factors. Genetic changes (eg, alterations in promoter sequence) and epigenetic modifications that affect chromatin openness (eg, histone methylation or acetylation) can also affect the rate of gene transcription by altering access and binding of transcription factors and RNA polymerase. Alterations of transcription factors themselves (eg, mutations, abnormal expression) can also affect the downstream expression of their myriad gene targets. However, transcriptional regulation results in altered mRNA levels (Choices A and B).\n\n- Posttranscriptional: After the gene is transcribed, the pre-mRNA undergoes further processing and regulation. Posttranscriptional control regulates the rate of mRNA decay. Examples of posttranscriptional control include polyadenylation and RNA interference (eg, endogenous microRNAs). The poly(A) tail protects eukaryotic mRNA from digestion by endogenous ribonucleases. Therefore, truncation of the poly(A) tail leads to increased mRNA degradation and lower mRNA abundance (Choice C).\n\n- Posttranslational: After translation of mRNA, the polypeptide product undergoes posttranslational modifications (PTMs), which can affect both protein abundance and activity. One of the most widespread modifications is UBIQUITINATION (by ubiquitin ligases, typically on lysine residues), which tags the protein for destruction in the PROTEASOME (ie, lowering the protein half-life). Therefore, decreased ubiquitination often leads to increased protein abundance despite unchanged mRNA levels, as seen with galectin-3. Another common PTM is protein phosphorylation (by kinases, typically on serine/threonine residues), which regulates the activity (ie, on/off switching) of proteins independently of their abundance (Choice E).\n\nMost proteins undergo ubiquitination at some point in their lifespans. Therefore, even isolated alterations of the ubiquitin-proteasome system (eg, loss of a single E3 ubiquitin ligase function) have been implicated in the broad dysregulation of protein levels, which may contribute to elusive conditions (eg, idiopathic pulmonary fibrosis).\n\nEducational objective:\n\nPosttranslational modifications can alter protein abundance and activity despite unchanged levels of corresponding mRNA. Ubiquitination targets a protein for proteasomal destruction, lowering its half-life, thereby lowering its abundance.",
+    "zh": "研究人员对半乳凝素-3的研究表明，尽管细胞内 mRNA 浓度没有变化，但细胞内蛋白质水平增加了。蛋白质表达的调控发生在多个水平，如下所示：\n\n- 转录：mRNA 的产生速率由转录因子的结合决定。遗传改变（例如，启动子序列的改变）和影响染色质开放性的表观遗传修饰（例如，组蛋白甲基化或乙酰化）也可以通过改变转录因子和 RNA 聚合酶的进入和结合来影响基因转录的速率。转录因子本身的改变（例如，突变、异常表达）也会影响其众多基因靶标的下游表达。然而，转录调控会导致 mRNA 水平发生改变（选项 A 和 B）。\n\n- 转录后：基因转录后，前 mRNA 经历进一步的加工和调控。转录后控制调节 mRNA 衰变的速率。转录后控制的例子包括多聚腺苷酸化和 RNA 干扰（例如，内源性 microRNA）。多聚 (A) 尾保护真核 mRNA 免受内源性核糖核酸酶的消化。因此，多聚 (A) 尾的截短会导致 mRNA 降解增加和 mRNA 丰度降低（选项 C）。\n\n- 翻译后：在 mRNA 翻译后，多肽产物会经历翻译后修饰 (PTM)，这会影响蛋白质的丰度和活性。最广泛的修饰之一是泛素化（由泛素连接酶，通常在赖氨酸残基上），它将蛋白质标记为在蛋白酶体中被破坏（即，降低蛋白质半衰期）。因此，与半乳凝素-3一样，泛素化降低通常会导致蛋白质丰度增加，尽管 mRNA 水平没有变化。另一种常见的 PTM 是蛋白质磷酸化（由激酶，通常在丝氨酸/苏氨酸残基上），它调节蛋白质的活性（即，开/关切换），而与其丰度无关（选项 E）。\n\n大多数蛋白质在其生命周期的某个时刻都会经历泛素化。因此，即使是泛素-蛋白酶体系统（例如，单个 E3 泛素连接酶功能的丧失）的孤立改变，也与蛋白质水平的广泛失调有关，这可能导致难以捉摸的疾病（例如，特发性肺纤维化）。\n\n教育目标：\n\n翻译后修饰可以改变蛋白质的丰度和活性，尽管相应 mRNA 的水平没有变化。泛素化将蛋白质靶向蛋白酶体破坏，降低其半衰期，从而降低其丰度。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of post-translational modifications, specifically ubiquitination, and how these modifications can affect protein levels independently of mRNA concentrations. It assesses understanding of the ubiquitin-proteasome system and its role in protein turnover.\n\nThe best approach is to consider the impact of each option on protein and mRNA levels. Since mRNA levels are normal but protein levels are elevated, focus on mechanisms that affect protein degradation rather than mRNA production or degradation.",
+    "zh": "本题考察了对翻译后修饰的知识，特别是泛素化，以及这些修饰如何独立于 mRNA 浓度影响蛋白质水平。它评估了对泛素-蛋白酶体系统及其在蛋白质周转中的作用的理解。\n\n最好的方法是考虑每个选项对蛋白质和 mRNA 水平的影响。由于 mRNA 水平正常但蛋白质水平升高，因此侧重于影响蛋白质降解而不是 mRNA 产生或降解的机制。"
+  },
+  "tags": "Post-translational modification; Ubiquitination; Proteasome; Protein degradation; mRNA; Idiopathic pulmonary fibrosis; Protein expression; Molecular biology",
+  "category": "Bio",
+  "question_id": "107732",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\107732",
+  "extracted_at": "2025-11-05T10:27:19.402199",
+  "translated_at": "2025-11-07T15:44:04.774315",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

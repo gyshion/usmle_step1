@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old nulligravid woman comes with her husband to the clinic for preconception genetic counseling. She has oculocutaneous albinism due to a homozygous OCA2 gene mutation within the region of chromosome 15q12-q13. Examination shows pale hypopigmented skin with blonde hair. Eye examination shows faint brown irises. Her husband is 26 years old and has oculocutaneous albinism due to a biallelic TYR gene mutation at position 11q14.3. Examination of the husband shows complete absence of pigmentation in the skin, hair, and irises. The couple asks about their chance of having a child with oculocutaneous albinism and are told that the chance is 0%. Which of the following is the best explanation for this?",
+    "zh": "一名25岁的未孕女性和她的丈夫来到诊所进行孕前遗传咨询。她患有眼皮肤白化病，原因是15q12-q13染色体区域内的OCA2基因纯合突变。检查显示皮肤苍白、色素减退，头发为金黄色。眼部检查显示虹膜呈浅棕色。她的丈夫26岁，患有眼皮肤白化病，原因是11q14.3位的TYR基因双等位基因突变。对丈夫的检查显示皮肤、头发和虹膜完全缺乏色素沉着。这对夫妇询问他们生育患有眼皮肤白化病孩子的几率，被告知几率为0%。以下哪一项是对此的最佳解释？"
+  },
+  "question": {
+    "en": "Which of the following is the best explanation for this?",
+    "zh": "以下哪项是对此的最佳解释？"
+  },
+  "options": {
+    "A": {
+      "en": "Allelic heterogeneity",
+      "zh": "等位基因异质性"
+    },
+    "B": {
+      "en": "Heteroplasmy",
+      "zh": "异质性"
+    },
+    "C": {
+      "en": "Incomplete penetrance",
+      "zh": "不完全外显率"
+    },
+    "D": {
+      "en": "Linkage disequilibrium",
+      "zh": "连锁不平衡"
+    },
+    "E": {
+      "en": "Locus heterogeneity",
+      "zh": "基因座异质性"
+    },
+    "F": {
+      "en": "Pleiotropy",
+      "zh": "多效性"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Locus heterogeneity in oculocutaneous albinism {{exhibit_1}}\n\nMutations at different genetic loci result in similar phenotypes. {{exhibit_2}}\n\nFather Mother {{exhibit_3}}\n\nDouble heterozygote, phenotypically normal {{exhibit_4}}\n\nThis case is an example of locus heterogeneity, in which mutations at different genetic loci result in similar phenotypes. Both parents have oculocutaneous albinism, an inherited autosomal recessive disorder. However, although their phenotype is similar, their recessive mutations occur on different chromosomes.\n\nIn this case, the child would inherit one normal (paternal) allele and one abnormal (maternal) allele at location 15q12-q13 and one normal (maternal) allele and one abnormal (paternal) allele at location 11q14.3. Because the child would have one normal, dominant allele at each location, they would be a double heterozygote and therefore would not express an oculocutaneous albinism phenotype.\n\n(Choice A) In contrast to this case, allelic heterogeneity describes different mutations at the same genetic locus causing similar phenotypes (eg, cystic fibrosis). Children born to parents who have autosomal recessive genetic conditions resulting from different mutations at the same genetic locus would inherit two abnormal copies of the gene and likely display the corresponding phenotype.\n\n(Choice B) Mitochondrial diseases (eg, MELAS syndrome, Leber hereditary optic neuropathy) are maternally inherited. The variable severity of these diseases is explained by heteroplasmy, the random distribution of normal and mutated mitochondrial DNA between daughter cells during meiosis. As a result, some eggs may have completely healthy mitochondria, while other cells contain mitochondria affected by genetic mutation.\n\n(Choice C) Penetrance is the probability that a person with a given genotype will express its associated phenotype. Incomplete penetrance means that some individuals with an abnormal genotype will not express the corresponding phenotype (eg, breast cancer in individuals with BRCA1/2 mutations).\n\n(Choice D) Two allele loci are said to be in linkage disequilibrium when a pair of alleles is inherited together in the same gamete (haplotype) more often or less often than would be expected given random pairing. This most often occurs when the genes are in close physical proximity on the same chromosome.\n\n(Choice F) The occurrence of multiple, seemingly unrelated phenotypic manifestations (often in different organ systems as a result of a single genetic defect) is termed pleiotropy. Although this may apply to features of oculocutaneous albinism (eg, absence of melanin in skin, reduced visual acuity, nystagmus), it does not explain why a child of two affected parents would be unaffected.\n\nEducational objective:\nLocus heterogeneity describes when a similar phenotype is produced by mutations in different genetic loci (eg, oculocutaneous albinism).",
+    "zh": "眼皮肤白化病中的基因座异质性 {{exhibit_1}}\n\n不同基因座的突变导致相似的表型。{{exhibit_2}}\n\n父亲 母亲 {{exhibit_3}}\n\n双杂合子，表型正常 {{exhibit_4}}\n\n本案例是基因座异质性的一个例子，在这种情况下，不同基因座的突变导致相似的表型。父母双方都患有眼皮肤白化病，这是一种常染色体隐性遗传病。然而，虽然他们的表型相似，但他们的隐性突变发生在不同的染色体上。\n\n在这种情况下，孩子将在15q12-q13位点继承一个正常的（父系）等位基因和一个异常的（母系）等位基因，并在11q14.3位点继承一个正常的（母系）等位基因和一个异常的（父系）等位基因。由于孩子在每个位点都有一个正常的显性等位基因，他们将是双杂合子，因此不会表达眼皮肤白化病的表型。\n\n(选项A) 与本案例相反，等位基因异质性描述了在同一基因座的不同突变导致相似的表型（例如，囊性纤维化）。由父母都患有常染色体隐性遗传病、并且由同一基因座的不同突变引起的孩子的，将继承该基因的两个异常拷贝，并可能表现出相应的表型。\n\n(选项B) 线粒体疾病（例如，MELAS综合征、Leber遗传性视神经病变）是母系遗传的。这些疾病的可变严重程度可以用异质性来解释，异质性是指在减数分裂过程中，正常和突变线粒体DNA在子细胞之间随机分布。因此，一些卵子可能具有完全健康的线粒体，而其他细胞则包含受基因突变影响的线粒体。\n\n(选项C) 外显率是指具有给定基因型的个体表达其相关表型的概率。不完全外显率是指一些具有异常基因型的个体不会表达相应的表型（例如，携带BRCA1/2突变的个体患乳腺癌）。\n\n(选项D) 当一对等位基因在同一配子（单倍型）中一起遗传的频率高于或低于随机配对的预期时，这两个等位基因位点被称为连锁不平衡。这通常发生在基因在同一染色体上非常接近的情况下。\n\n(选项F) 多个看似无关的表型表现（通常是由于单个基因缺陷导致的在不同器官系统中的表现）被称为多效性。尽管这可能适用于眼皮肤白化病的特征（例如，皮肤中缺乏黑色素、视力下降、眼球震颤），但它并不能解释为什么患病的父母的孩子不会受到影响。\n\n教育目标：\n基因座异质性描述了当不同基因座的突变产生相似的表型时（例如，眼皮肤白化病）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of locus heterogeneity, a genetic phenomenon where mutations at different genetic loci result in similar phenotypes. It requires understanding of autosomal recessive inheritance and how having a normal allele at each affected locus can result in a phenotypically normal offspring. \n\nThe key to solving this question is recognizing that both parents have oculocutaneous albinism due to mutations in different genes. The child inherits one normal allele from each parent for each gene, resulting in a double heterozygote who does not express the albinism phenotype.",
+    "zh": "这个问题考察了基因座异质性的知识，这是一种遗传现象，其中不同基因座的突变导致相似的表型。它需要理解常染色体隐性遗传以及在每个受影响基因座上都有一个正常等位基因如何导致表型正常的后代。\n\n解决这个问题的关键是认识到父母双方都患有眼皮肤白化病，原因是不同基因的突变。孩子从每个父母那里继承了每个基因的一个正常等位基因，从而产生了一个不表达白化病表型的双杂合子。"
+  },
+  "tags": "Locus heterogeneity; Oculocutaneous albinism; Genetics; Autosomal recessive inheritance; OCA2 gene; TYR gene",
+  "category": "Bio",
+  "question_id": "21307",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\21307",
+  "extracted_at": "2025-11-05T11:15:46.839008",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:24:23.235887",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

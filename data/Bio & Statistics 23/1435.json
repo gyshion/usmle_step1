@@ -1,0 +1,55 @@
+{
+  "question_stem": {
+    "en": "A research scientist purifies DNA polymerase III from an *Escherichia coli* extract. The isolated enzymes are then incubated in a mixture containing DNA templates, RNA primer oligonucleotides, and tagged deoxynucleotides. After analyzing the DNA molecules formed during incubation, the researcher concludes that the enzyme possesses 3' to 5' exonuclease activity.",
+    "zh": "一名研究科学家从大肠杆菌提取物中纯化了 DNA 聚合酶 III。然后将分离的酶在含有 DNA 模板、RNA 引物寡核苷酸和标记的脱氧核苷酸的混合物中孵育。在分析孵育期间形成的 DNA 分子后，研究人员得出结论，该酶具有 3' 到 5' 外切酶活性。"
+  },
+  "question": {
+    "en": "Which of the following enzymatic actions was most likely observed during the experiment?",
+    "zh": "在实验过程中最有可能观察到以下哪种酶促反应？"
+  },
+  "options": {
+    "A": {
+      "en": "Cleavage of DNA strands to remove supercoils",
+      "zh": "切割 DNA 链以去除超螺旋"
+    },
+    "B": {
+      "en": "Excision of thymine dimers within DNA",
+      "zh": "切除 DNA 中的胸腺嘧啶二聚体"
+    },
+    "C": {
+      "en": "Removal of mismatched base pairs during DNA synthesis",
+      "zh": "在 DNA 合成过程中去除错配的碱基对"
+    },
+    "D": {
+      "en": "Removal of RNA primer nucleotides",
+      "zh": "去除 RNA 引物核苷酸"
+    },
+    "E": {
+      "en": "Unwinding of double-stranded DNA",
+      "zh": "解开双链 DNA"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "In this experiment, the researcher most likely observed **removal of mismatched base pairs** during DNA replication to conclude that DNA polymerase III has 3' to 5' exonuclease activity.\n\n(Choice A) During DNA replication in prokaryotes, the circular DNA strands are unwound, creating tension. DNA gyrase (type II topoisomerase) temporarily cleaves both strands of the DNA double helix and introduces negative supercoils to relieve this tension.\n\n(Choice B) Ultraviolet (UV) light can damage DNA by covalently bonding adjacent pyrimidine (typically thymine) bases to form dimers. These thymine dimers are usually removed via nucleotide excision repair by the enzyme UV-specific endonuclease.\n\n(Choice D) A unique function of DNA polymerase I is its 5' to 3' exonuclease activity, which is used to remove the RNA primer synthesized by RNA primase. DNA polymerase III does not have 5' to 3' exonuclease activity.\n\n(Choice E) Helicase promotes unwinding and dissociation of parent DNA strands at the replication fork.\n\n**Educational objective:**\nAll prokaryotic DNA polymerases (I, II, and III) remove mismatched nucleotides via their 3' to 5' exonuclease (proofreading) activity. Only DNA polymerase I has 5' to 3' exonuclease activity, which is used to remove the RNA primer synthesized by RNA primase.",
+    "zh": "在此实验中，研究人员最有可能观察到 DNA 复制过程中 **去除错配的碱基对**，从而得出结论，DNA 聚合酶 III 具有 3' 到 5' 外切酶活性。\n\n(选项 A) 在原核生物的 DNA 复制过程中，环状 DNA 链被解开，产生张力。DNA 促旋酶（II 型拓扑异构酶）暂时切割 DNA 双螺旋的两个链，并引入负超螺旋以缓解这种张力。\n\n(选项 B) 紫外线 (UV) 可通过共价结合相邻的嘧啶（通常是胸腺嘧啶）碱基形成二聚体来损伤 DNA。这些胸腺嘧啶二聚体通常通过核苷酸切除修复由酶 UV 特异性核酸内切酶去除。\n\n(选项 D) DNA 聚合酶 I 的一个独特功能是其 5' 到 3' 外切酶活性，用于去除由 RNA 引酶合成的 RNA 引物。DNA 聚合酶 III 没有 5' 到 3' 外切酶活性。\n\n(选项 E) 解旋酶促进复制叉处母体 DNA 链的解旋和解离。\n\n**教育目标：**\n所有原核生物 DNA 聚合酶（I、II 和 III）通过其 3' 到 5' 外切酶（校对）活性去除错配的核苷酸。只有 DNA 聚合酶 I 具有 5' 到 3' 外切酶活性，用于去除由 RNA 引物酶合成的 RNA 引物。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of prokaryotic DNA replication, specifically the function of DNA polymerase III and its 3' to 5' exonuclease (proofreading) activity. It also requires distinguishing the functions of different DNA polymerases (I, II, III) in prokaryotes.\n\nTo solve this question, focus on the given information: DNA polymerase III with 3' to 5' exonuclease activity. Recall that this activity is involved in removing mismatched base pairs during DNA synthesis (proofreading). Eliminate options that describe other enzymatic activities or functions of different enzymes.",
+    "zh": "此问题考察了对原核生物 DNA 复制的了解，特别是 DNA 聚合酶 III 的功能及其 3' 到 5' 外切酶（校对）活性。它还需要区分原核生物中不同 DNA 聚合酶（I、II、III）的功能。\n\n要解决这个问题，请关注给定的信息：具有 3' 到 5' 外切酶活性的 DNA 聚合酶 III。回想一下，这种活性涉及在 DNA 合成过程中去除错配的碱基对（校对）。排除描述其他酶活性或不同酶功能的选项。"
+  },
+  "tags": "DNA polymerase; DNA replication; Exonuclease activity; Proofreading; Prokaryotic replication",
+  "category": "Bio",
+  "question_id": "1435",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1435",
+  "extracted_at": "2025-11-05T10:35:12.763459",
+  "translated_at": "2025-11-07T16:21:16.966544",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

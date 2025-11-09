@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A study is conducted to assess the effectiveness of a new medication X added to standard antihypertensive therapy compared to standard antihypertensive therapy alone for preventing the development of proteinuria in patients recently diagnosed with essential hypertension. Five years after diagnosis, 97 of 100 patients on the medication X + standard antihypertensive therapy regimen have not developed proteinuria, and 90 of 100 patients on a standard antihypertensive therapy regimen have not developed proteinuria. According to these results, which of the following represents the approximate number of patients with essential hypertension who need to be treated with medication X to prevent an additional patient from developing proteinuria within 5 years?",
+    "zh": "一项研究旨在评估在近期诊断为原发性高血压的患者中，在标准降压治疗基础上加用新药X与单独使用标准降压治疗相比，预防蛋白尿发生的有效性。诊断后五年，100例接受药物X + 标准降压治疗方案的患者中有97例未发生蛋白尿，而100例接受标准降压治疗方案的患者中有90例未发生蛋白尿。根据这些结果，以下哪一项代表了需要用药物X治疗的原发性高血压患者的近似数量，以防止额外的患者在5年内发生蛋白尿？"
+  },
+  "question": {
+    "en": "Which of the following represents the approximate number of patients with essential hypertension who need to be treated with medication X to prevent an additional patient from developing proteinuria within 5 years?",
+    "zh": "以下哪一项代表了需要用药物X治疗的原发性高血压患者的近似数量，以防止额外的患者在5年内发生蛋白尿？"
+  },
+  "options": {
+    "A": {
+      "en": "3",
+      "zh": "3"
+    },
+    "B": {
+      "en": "7",
+      "zh": "7"
+    },
+    "C": {
+      "en": "10",
+      "zh": "10"
+    },
+    "D": {
+      "en": "15",
+      "zh": "15"
+    },
+    "E": {
+      "en": "70",
+      "zh": "70"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The number needed to treat (NNT) is the number of patients who need to be treated with a specific drug (eg, medication X) to prevent an additional negative event (eg, 1 fewer patients with essential hypertension who develop proteinuria within 5 years of diagnosis) when compared with a control group (eg, standard antihypertensive therapy). NNT is the inverse of the absolute risk reduction (ARR):\n\nNNT = 1 / ARR\n\nThe ARR describes the difference in risk of an unfavorable event (eg, development of proteinuria within 5 years of hypertension diagnosis) between the treatment group (eg, medication X + standard antihypertensive therapy) and the control group (eg, standard antihypertensive therapy):\n\nARR = (Riskcontrol – Risktreatment)\n\nIn this question, 100 – 90 = 10 out of 100 patients in the control group developed proteinuria within 5 years of hypertension diagnosis, so Riskcontrol is 10/100 = 0.10. Similarly, 100 – 97 = 3 out of 100 patients in the treatment group developed proteinuria within 5 years of hypertension diagnosis, so Risktreatment is 3/100 = 0.03. Therefore, the ARR for development of proteinuria within 5 years of hypertension diagnosis in the treatment group is:\n\nARR = (Riskcontrol – Risktreatment) = (0.10 – 0.03) = 0.07\n\nand the NNT is:\n\nNNT = 1 / ARR = 1 / 0.07 = 14.3 ≈ 15\n\nNNTs are always rounded up to the nearest whole number, so approximately 15 patients need to be treated with medication X + standard therapy to prevent 1 additional case of proteinuria within 5 years of hypertension diagnosis.\n\n(Choices A and C) 3 and 10 represent the number of patients in the treatment group and in the control group, respectively, who developed proteinuria within 5 years of diagnosis.\n\n(Choice B) 7 represents the ARR expressed as a percentage, calculated as: ARR = 100 × (Riskcontrol – Risktreatment) = 100(0.10 – 0.03) = 7.\n\n(Choice E) 70 represents the relative risk reduction (RRR) expressed as a percentage. The RRR describes the relative decrease in the risk of an adverse event in the treatment group compared to a control group; it is calculated as: RRR = 100 × [(Riskcontrol – Risktreatment) / Riskcontrol] = 100[(0.10 – 0.03) / 0.10] = 70.\n\nEducational objective:\nThe number needed to treat (NNT) is the number of patients who need to be treated with a specific treatment to avoid an additional negative event. NNT is the inverse of the absolute risk reduction.",
+    "zh": "需要治疗数（NNT）是指需要用特定药物（例如，药物X）治疗的患者数量，以预防额外的负面事件（例如，与对照组（例如，标准降压治疗）相比，原发性高血压患者在诊断后5年内发生蛋白尿的患者减少1例）。NNT是绝对风险降低（ARR）的倒数：\n\nNNT = 1 / ARR\n\nARR描述了治疗组（例如，药物X + 标准降压治疗）和对照组（例如，标准降压治疗）之间发生不良事件（例如，高血压诊断后5年内发生蛋白尿）的风险差异：\n\nARR = (风险对照组 – 风险治疗组)\n\n在本题中，对照组中100例患者中有100 – 90 = 10例在诊断高血压后5年内发生蛋白尿，因此风险对照组为10/100 = 0.10。类似地，治疗组中100例患者中有100 – 97 = 3例在诊断高血压后5年内发生蛋白尿，因此风险治疗组为3/100 = 0.03。因此，治疗组高血压诊断后5年内发生蛋白尿的ARR为：\n\nARR = (风险对照组 – 风险治疗组) = (0.10 – 0.03) = 0.07\n\n并且NNT为：\n\nNNT = 1 / ARR = 1 / 0.07 = 14.3 ≈ 15\n\nNNT总是四舍五入到最接近的整数，因此，大约需要用药物X + 标准治疗来治疗15例患者，以预防高血压诊断后5年内发生1例额外的蛋白尿病例。\n\n（选项A和C）3和10分别代表治疗组和对照组中在诊断后5年内发生蛋白尿的患者数量。\n\n（选项B）7代表ARR以百分比表示，计算方法为：ARR = 100 × (风险对照组 – 风险治疗组) = 100(0.10 – 0.03) = 7。\n\n（选项E）70代表相对风险降低（RRR）以百分比表示。RRR描述了治疗组与对照组相比不良事件风险的相对降低；其计算方法为：RRR = 100 × [(风险对照组 – 风险治疗组) / 风险对照组] = 100[(0.10 – 0.03) / 0.10] = 70。\n\n教育目标：\n需要治疗数（NNT）是指需要用特定治疗方法治疗的患者数量，以避免发生额外的负面事件。NNT是绝对风险降低的倒数。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of biostatistics, specifically the calculation and interpretation of the Number Needed to Treat (NNT). It requires the ability to calculate absolute risk reduction (ARR) and then use it to determine the NNT.\n\nTo solve this question, first calculate the ARR by subtracting the risk in the treatment group from the risk in the control group. Then, calculate the NNT by taking the inverse of the ARR (NNT = 1/ARR). Finally, round the NNT up to the nearest whole number.",
+    "zh": "本题考察对生物统计学的理解，特别是对需要治疗数（NNT）的计算和解释。它需要能够计算绝对风险降低（ARR），然后用它来确定NNT。\n\n要解决这个问题，首先通过从对照组的风险中减去治疗组的风险来计算ARR。然后，通过取ARR的倒数（NNT = 1/ARR）来计算NNT。最后，将NNT四舍五入到最接近的整数。"
+  },
+  "tags": "Biostatistics; Number Needed to Treat; NNT; Absolute Risk Reduction; ARR; Essential Hypertension; Proteinuria; Therapeutic Efficacy",
+  "category": "Bio",
+  "question_id": "19496",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19496",
+  "extracted_at": "2025-11-05T11:14:05.948178",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:23:01.730972",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

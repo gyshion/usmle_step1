@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "Bacteria isolated from the lung tissue of a 32-year-old patient fail to decolorize with hydrochloric acid and alcohol after staining carbolfuchsin.",
+    "zh": "从一名 32 岁患者的肺组织中分离出的细菌在用碳酸复红染色后，用盐酸和酒精脱色失败。"
+  },
+  "question": {
+    "en": "Which of the following cell wall components is most likely responsible for this staining phenomenon?",
+    "zh": "以下哪种细胞壁成分最有可能导致这种染色现象？"
+  },
+  "options": {
+    "A": {
+      "en": "N-acetylmuramic acid",
+      "zh": "N-乙酰胞壁酸"
+    },
+    "B": {
+      "en": "Teichoic acid",
+      "zh": "磷壁酸"
+    },
+    "C": {
+      "en": "Lipopolysaccharide",
+      "zh": "脂多糖"
+    },
+    "D": {
+      "en": "Mycolic acid",
+      "zh": "分枝酸"
+    },
+    "E": {
+      "en": "Ergosterol",
+      "zh": "麦角固醇"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The procedure described above is the acid-fast stain, which is used in the detection of a select few pathogenic organisms (eg, Mycobacterium and some Nocardia species). Although it is less sensitive than culture, the acid-fast stained smear allows for immediate microscopic evaluation.\n\nIn the acid-fast stain for mycobacteria, the smear is first treated with an aniline dye (eg, carbolfuchsin). The dye (red color) penetrates the bacterial cell wall, where it binds with mycolic acids. The slide is then treated with hydrochloric acid and alcohol. This acid alcohol dissolves the outer cell membranes of nontuberculous bacteria, but the presence of MYCOLIC ACIDS prevents decolorization of mycobacteria. A counterstain (eg, methylene blue) is then applied and taken up by decolorized bacteria. As a result, the carbolfuchsin acid-fast stain produces red mycobacteria (initial stain) and blue non-acid fast bacteria.\n\nThe cell membrane and cell wall of mycobacteria are most similar to those in Gram-positive organisms, causing mycobacteria to appear weakly positive on Gram stain. However, the mycobacterial cell wall differs from that of the typical Gram-positive organism in that they are encapsulated with mycolic acid, a waxy, long-chain fatty acid that is covalently bound to the sugars within the cell wall. Another organism that will also stain positive with the acid-fast technique is Nocardia. Nocardia is a Gram-positive rod that contains mycolic acid in its cell wall. Because Nocardia possesses less mycolic acid than do mycobacteria, Nocardia is more weakly acid fast.\n\n(Choice A) N-acetylmuramic acid and N-acetylglucosamine are the saccharides that combine with an amino acid chain to form the peptidoglycan layer in both Gram-positive and Gram-negative cell walls.\n\n(Choice B) Teichoic acid is a molecule linked to the peptidoglycan cell wall of Gram-positive bacteria (but not Gram-negative bacteria). Teichoic acid serves as an antigenic determinant for organism identification in the laboratory and an antigenic target for the human immune system.\n\n(Choice C) Lipopolysaccharide (LPS) is a component of the outer cell envelope of Gram-negative bacteria.\n\n(Choice E) Unique to fungi, ergosterol is the sterol component of fungal cell membranes. This molecule is not found in human cell membranes, as human cells have cholesterol in their cell membranes instead.\n\nEducational Objective:\nThe acid-fast stain identifies organisms that have mycolic acid present in their cell walls, including Mycobacterium and some Nocardia species. Acid-fast staining is carried out by applying an aniline dye (eg, carbolfuchsin) to a smear and then decolorizing with acid alcohol to reveal whether the organisms present are \"acid fast.\"",
+    "zh": "上述程序是抗酸染色，用于检测少数几种病原体（例如，分枝杆菌和一些诺卡氏菌）。虽然它不如培养敏感，但抗酸染色涂片可以立即进行显微镜评估。\n\n在分枝杆菌的抗酸染色中，首先用苯胺染料（例如，碳酸复红）处理涂片。染料（红色）渗透到细菌细胞壁中，在那里与分枝酸结合。然后用盐酸和酒精处理载玻片。这种酸性酒精溶解非结核分枝杆菌的外细胞膜，但分枝酸的存在阻止了分枝杆菌的脱色。然后涂覆复染剂（例如，亚甲蓝），并被脱色细菌吸收。结果，碳酸复红抗酸染色产生红色的分枝杆菌（初始染色）和蓝色的非抗酸细菌。\n\n分枝杆菌的细胞膜和细胞壁与革兰氏阳性生物的细胞膜和细胞壁最相似，导致分枝杆菌在革兰氏染色中呈弱阳性。然而，分枝杆菌细胞壁与典型的革兰氏阳性生物体的区别在于它们被分枝酸包封，分枝酸是一种蜡状的长链脂肪酸，共价结合到细胞壁内的糖。另一种也将用抗酸技术染色的生物是诺卡氏菌。诺卡氏菌是一种革兰氏阳性杆菌，其细胞壁中含有分枝酸。由于诺卡氏菌所含分枝酸比分枝杆菌少，因此诺卡氏菌的抗酸性较弱。\n\n（选项 A）N-乙酰胞壁酸和 N-乙酰氨基葡萄糖是与氨基酸链结合形成革兰氏阳性和革兰氏阴性细胞壁中肽聚糖层的糖。\n\n（选项 B）磷壁酸是与革兰氏阳性细菌（但非革兰氏阴性细菌）的肽聚糖细胞壁相连的分子。磷壁酸充当实验室中生物体鉴定的抗原决定簇，以及人体免疫系统的抗原靶标。\n\n（选项 C）脂多糖 (LPS) 是革兰氏阴性细菌外细胞包膜的组成部分。\n\n（选项 E）麦角固醇是真菌特有的，是真菌细胞膜的甾醇成分。该分子未在人体细胞膜中发现，因为人体细胞的细胞膜中含有胆固醇。\n\n教育目标：\n抗酸染色可识别细胞壁中存在分枝酸的生物体，包括分枝杆菌和一些诺卡氏菌。抗酸染色是通过将苯胺染料（例如，碳酸复红）应用于涂片，然后用酸性酒精脱色，以显示存在的生物体是否为“抗酸”来进行的。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the acid-fast staining procedure and the role of mycolic acid in the cell walls of certain bacteria, specifically Mycobacterium and Nocardia. It also tests the ability to differentiate cell wall components of different types of bacteria and fungi.\n\nTo solve this question, understand the principle of acid-fast staining, which relies on the presence of mycolic acid in the cell wall. Recognize that mycolic acid prevents decolorization by acid alcohol, leading to a positive acid-fast stain.",
+    "zh": "此问题测试对抗酸染色程序的了解以及分枝酸在某些细菌（特别是分枝杆菌和诺卡氏菌）细胞壁中的作用。它还测试区分不同类型细菌和真菌的细胞壁成分的能力。\n\n要解决这个问题，需要了解抗酸染色的原理，该原理依赖于细胞壁中分枝酸的存在。认识到分枝酸可防止酸性酒精脱色，从而导致抗酸染色呈阳性。"
+  },
+  "tags": "Acid-fast stain; Mycolic acid; Mycobacterium; Nocardia; Bacterial cell wall; Microbiology; Carbolfuchsin; Gram-positive bacteria",
+  "category": "Chest",
+  "question_id": "1215",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1215",
+  "extracted_at": "2025-11-05T11:36:53.653122",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:33:51.381993",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

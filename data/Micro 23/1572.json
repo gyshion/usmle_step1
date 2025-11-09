@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 56-year-old man comes to the office due to several months of progressive neck swelling. He has also had intermittent epistaxis and headaches. The patient has no chronic medical conditions and takes no medications. He does not use tobacco, alcohol, or illicit drugs, and he emigrated to the United States from rural China 12 years ago. Physical examination shows several enlarged, firm, and nontender cervical lymph nodes. Nasopharyngeal evaluation reveals a mass arising from the pharyngeal recess. Histopathological examination of the mass shows undifferentiated malignant cells of epithelial origin. Further analysis of these cells is most likely to reveal the presence of nucleic acid sequences from which of the following viruses?",
+    "zh": "一名56岁男性因颈部进行性肿胀数月来诊。他还间断性出现鼻出血和头痛。患者无慢性病史，未服用任何药物。他不吸烟、不饮酒、不吸毒，12年前从中国农村移民到美国。体格检查显示几个增大的、质硬的、无压痛的颈部淋巴结。鼻咽评估显示从咽隐窝发生的肿块。肿块的组织病理学检查显示上皮来源的未分化恶性细胞。对这些细胞的进一步分析最有可能揭示以下哪种病毒的核酸序列的存在？"
+  },
+  "question": {
+    "en": "Further analysis of these cells is most likely to reveal the presence of nucleic acid sequences from which of the following viruses?",
+    "zh": "对这些细胞的进一步分析最有可能揭示以下哪种病毒的核酸序列的存在？"
+  },
+  "options": {
+    "A": {
+      "en": "Adenovirus",
+      "zh": "腺病毒"
+    },
+    "B": {
+      "en": "Coronavirus",
+      "zh": "冠状病毒"
+    },
+    "C": {
+      "en": "Cytomegalovirus",
+      "zh": "巨细胞病毒"
+    },
+    "D": {
+      "en": "Epstein-Barr virus",
+      "zh": "Epstein-Barr病毒（EBV）"
+    },
+    "E": {
+      "en": "Human herpes virus 8",
+      "zh": "人类疱疹病毒8型"
+    },
+    "F": {
+      "en": "Polyomavirus",
+      "zh": "多瘤病毒"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Nasopharyngeal carcinoma (NPC) is an epithelial tumor that usually originates in the pharyngeal recess. Local tumor growth often leads to epistaxis and headaches, and metastatic spread to cervical lymph nodes frequently causes firm, fixed neck swelling. NPC is relatively uncommon in the United States but is endemic to southern China, where genetic and dietary factors (eg, consumption of salted fish) predispose to premalignant nasopharyngeal epithelial lesions. Subsequent malignant transformation is then induced by Epstein-Barr virus (EBV).\n\nEBV is a ubiquitous human herpes virus that causes infectious mononucleosis in a minority of patients (primary infection is usually asymptomatic). Initial infection is followed by life-long latent infection in memory B cells. While latent, the EBV genome exists as an episome in the nucleus of infected cells and expresses a restricted subset of EBV genes (latency genes) which do the following:\n\n*   Promote periodic viral reactivation from memory B-cells, leading to recurrent (asymptomatic) mucosal infections.\n*   Promote survival of infected memory B cells by encoding for proteins (eg, EBNA-1, LMP1) that prevent apoptosis. In a minority of patients, these proteins are oncogenic and lead to malignant transformation of infected B cells (eg, Burkitt lymphoma, Hodgkin lymphoma) or premalignant epithelial cells (eg, nasopharyngeal carcinoma, salivary cancer).\n\nIndividuals who do not have premalignant epithelial lesions are at very low risk of EBV-associated epithelial cancers like NPC.\n\n(Choice A) Adenovirus causes acute upper respiratory infection with pharyngitis, coryza, otitis media, bronchitis, and/or pneumonia. It is not associated with nasopharyngeal carcinoma.\n\n(Choice B) Coronavirus is one of the most common causes of upper respiratory tract infection (eg, common cold) but has no association with nasopharyngeal or other cancers.\n\n(Choices C and E) Cytomegalovirus (CMV) and human herpes virus 8 (HHV-8) are also herpes viruses; as such, they cause acute infection followed by latent disease. Although CMV can reactivate in immunocompromised individuals (eg, HIV, post-transplantation) and cause severe end-organ disease (eg, retinitis, gastroenteritis), it is not an oncogenic virus. HHV-8 reactivation also primarily occurs in immunocompromised individuals and is associated with Kaposi sarcoma.\n\n(Choice F) The BK and JC viruses are members of Polyomaviridae and cause life-long latent infections in the kidney. BK reactivation can cause nephropathy in renal transplant recipients, and JC virus causes progressive multifocal leukoencephalopathy (primarily in patients with advanced HIV).\n\nEducational objective:\nNasopharyngeal cancer is endemic in southern China due to genetic and dietary factors that promote nasopharyngeal epithelial pre-malignant lesions. In almost all cases, malignant transformation occurs due to infection of premalignant cells with Epstein-Barr virus and the subsequent expression of oncogenic viral proteins.",
+    "zh": "鼻咽癌（NPC）是一种上皮肿瘤，通常起源于咽隐窝。局部肿瘤生长常导致鼻出血和头痛，转移到颈部淋巴结常引起质硬、固定的颈部肿胀。NPC在美国相对少见，但在中国南方呈地方性流行，那里遗传和饮食因素（例如，食用咸鱼）易患癌前鼻咽上皮病变。随后的恶性转化是由Epstein-Barr病毒（EBV）诱导的。\n\nEBV是一种普遍存在的人类疱疹病毒，在少数患者中引起传染性单核细胞增多症（原发感染通常无症状）。最初的感染之后是记忆B细胞中的终身潜伏感染。当潜伏时，EBV基因组以附加体形式存在于受感染细胞的细胞核中，并表达EBV基因的受限子集（潜伏基因），这些基因具有以下作用：\n\n*   促进记忆B细胞的周期性病毒再激活，导致复发性（无症状）粘膜感染。\n*   通过编码防止细胞凋亡的蛋白质（例如，EBNA-1、LMP1）来促进受感染的记忆B细胞的存活。在少数患者中，这些蛋白质具有致癌性，并导致受感染的B细胞（例如，Burkitt淋巴瘤、霍奇金淋巴瘤）或癌前上皮细胞（例如，鼻咽癌、唾液腺癌）的恶性转化。\n\n没有癌前上皮病变的个体患EBV相关上皮癌（如NPC）的风险非常低。\n\n（选项A）腺病毒引起急性上呼吸道感染，伴有咽炎、鼻炎、中耳炎、支气管炎和/或肺炎。它与鼻咽癌无关。\n\n（选项B）冠状病毒是上呼吸道感染（例如，普通感冒）最常见的原因之一，但与鼻咽癌或其他癌症无关。\n\n（选项C和E）巨细胞病毒（CMV）和人类疱疹病毒8型（HHV-8）也是疱疹病毒；因此，它们会引起急性感染，然后是潜伏性疾病。尽管CMV可以在免疫功能低下的个体（例如，HIV、移植后）中再激活，并引起严重的靶器官疾病（例如，视网膜炎、胃肠炎），但它不是一种致癌病毒。HHV-8再激活也主要发生在免疫功能低下的个体中，并与卡波西肉瘤相关。\n\n（选项F）BK和JC病毒是多瘤病毒科的成员，在肾脏中引起终身潜伏感染。BK再激活可导致肾移植受者的肾病，而JC病毒引起进行性多灶性白质脑病（主要在晚期HIV患者中）。\n\n教育目标：\n由于遗传和饮食因素促进鼻咽上皮癌前病变，鼻咽癌在中国南方呈地方性流行。在几乎所有病例中，恶性转化都是由于癌前细胞感染Epstein-Barr病毒并随后表达致癌病毒蛋白而发生的。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the etiology and epidemiology of nasopharyngeal carcinoma (NPC), specifically its association with Epstein-Barr virus (EBV) and its prevalence in certain geographic regions like southern China. It also assesses understanding of the role of genetic and dietary factors in predisposing individuals to NPC.\n\nTo solve this question, recognize the key risk factors for NPC, including the patient's origin from southern China and the presence of undifferentiated malignant cells of epithelial origin. Recall that EBV is strongly associated with NPC, particularly in endemic regions, and that dietary factors like consumption of salted fish can increase the risk.",
+    "zh": "此问题考察对鼻咽癌（NPC）病因学和流行病学的了解，特别是其与Epstein-Barr病毒（EBV）的关联，以及它在某些地理区域（如中国南方）的患病率。它还评估对遗传和饮食因素在使个体易患NPC方面的作用的理解。\n\n为了解决这个问题，要认识到NPC的关键危险因素，包括患者来自中国南方以及存在未分化上皮来源的恶性细胞。回想一下，EBV与NPC密切相关，尤其是在流行地区，而食用咸鱼等饮食因素会增加风险。"
+  },
+  "tags": "Nasopharyngeal carcinoma; Epstein-Barr virus; Oncology; Viral oncogenesis; Head and neck cancer; Epidemiology; Infectious diseases",
+  "category": "Micro",
+  "question_id": "1572",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1572",
+  "extracted_at": "2025-11-05T15:00:46.333776",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:09:37.810073",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

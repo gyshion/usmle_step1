@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 40-year-old woman is evaluated for intermittent headaches, insomnia, diaphoresis, and unintentional weight loss over the past several months. The patient has no other medical problems and takes no medications. She does not use tobacco, alcohol, or illicit drugs and has no significant family history. The patient is found to have a neoplastic mass producing excessive amounts of hormones that are causing her symptoms. Surgical resection of the abnormal tissue is performed with no operative complications. Microscopic examination of the tumor cells shows electron-dense, membrane-bound secretory granules. Immunohistochemistry is positive for synaptophysin, chromogranin, and neuron-specific enolase.",
+    "zh": "一名40岁女性因过去几个月出现间歇性头痛、失眠、出汗和非意向性体重减轻而接受评估。患者没有其他医学问题，也没有服用任何药物。她不吸烟、不饮酒、不使用违禁药物，也没有重要的家族史。发现该患者患有产生过量激素的肿瘤，导致她的症状。对异常组织进行手术切除，没有手术并发症。肿瘤细胞的显微镜检查显示电子致密、膜结合的分泌颗粒。免疫组织化学染色对突触素、嗜铬蛋白和神经元特异性烯醇酶呈阳性。"
+  },
+  "question": {
+    "en": "The abnormal tissue most likely originated from which of the following?",
+    "zh": "这种异常组织最有可能起源于以下哪一个？"
+  },
+  "options": {
+    "A": {
+      "en": "Adrenal cortex",
+      "zh": "肾上腺皮质"
+    },
+    "B": {
+      "en": "Adrenal medulla",
+      "zh": "肾上腺髓质"
+    },
+    "C": {
+      "en": "Ovary",
+      "zh": "卵巢"
+    },
+    "D": {
+      "en": "Parathyroid gland",
+      "zh": "甲状旁腺"
+    },
+    "E": {
+      "en": "Thyroid follicles",
+      "zh": "甲状腺滤泡"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Pheochromocytoma is a tumor of the chromaffin cells of the adrenal medulla characterized by excess production of catecholamines (norepinephrine, epinephrine, dopamine). Fluctuating catecholamine release results in increased vascular tone and hypertension, often associated with episodic headache, diaphoresis, and palpitations. The diagnosis is confirmed by detecting elevated levels of urinary and plasma catecholamines and metanephrines (catecholamine breakdown products). {{exhibit_1}}\n\nHistopathology shows a highly vascular tumor with nests of spindle-shaped or polygonal cells. The neurohormonal character of the cells is confirmed with stains for synaptophysin, chromogranin, and neuron-specific enolase, and electron microscopy may show dense membrane-bound granules containing catecholamines.\n\n(Choices A and C) Syndromes associated with steroid hormone-producing tumors of the adrenal cortex include hypercortisolism (Cushing syndrome), hyperaldosteronism (hypertension, hypokalemia, metabolic alkalosis), and hyperandrogenism (hirsutism, acne, androgenetic hair loss). Metabolically active ovarian tumors also can cause hyperandrogenism. Overproduction of steroid hormones is apparent on electron microscopy as well-developed smooth endoplasmic reticulum rather than membrane-bound secretory granules.\n\n(Choice D) Parathyroid adenomas (or carcinomas) cause primary hyperparathyroidism resulting in hypercalcemia. Characteristic symptoms include constipation, abdominal pain, bone pain, and neuropsychiatric symptoms.\n\n(Choice E) Toxic nodular thyroid disease could produce this patient's symptoms (eg, diaphoresis, weight loss). However, metabolically active thyroid adenomas typically show a follicular structure, with uniform cells and large amounts of follicular colloid.\n\nEducational objective:\nPheochromocytoma is a tumor arising from the chromaffin cells of the adrenal medulla characterized by excess production of catecholamines. Clinical features include episodic hypertension, diaphoresis, and palpitations. Microscopic examination of the tumor cells shows electron-dense, membrane-bound secretory granules, and immunohistochemistry is positive for synaptophysin, chromogranin, and neuron-specific enolase.",
+    "zh": "嗜铬细胞瘤是肾上腺髓质嗜铬细胞的肿瘤，其特征是过量产生儿茶酚胺（去甲肾上腺素、肾上腺素、多巴胺）。儿茶酚胺的波动释放导致血管张力增加和高血压，通常与阵发性头痛、出汗和心悸有关。通过检测尿液和血浆儿茶酚胺和间变肾上腺素（儿茶酚胺分解产物）水平升高来确诊。{{exhibit_1}}\n\n组织病理学显示高度血管化的肿瘤，具有梭形或多边形细胞的巢。细胞的神经内分泌特性通过突触素、嗜铬蛋白和神经元特异性烯醇酶染色证实，电子显微镜可能显示含有儿茶酚胺的致密膜结合颗粒。\n\n（选项A和C）与肾上腺皮质类固醇激素产生肿瘤相关的综合征包括皮质醇增多症（库欣综合征）、醛固酮增多症（高血压、低钾血症、代谢性碱中毒）和高雄激素血症（多毛症、痤疮、雄激素性脱发）。代谢活跃的卵巢肿瘤也可引起高雄激素血症。类固醇激素的过度产生在电子显微镜下表现为发达的光滑内质网，而不是膜结合的分泌颗粒。\n\n（选项D）甲状旁腺腺瘤（或癌）引起原发性甲状旁腺功能亢进，导致高钙血症。特征性症状包括便秘、腹痛、骨痛和神经精神症状。\n\n（选项E）毒性结节性甲状腺疾病可能引起该患者的症状（例如，出汗、体重减轻）。然而，代谢活跃的甲状腺腺瘤通常显示滤泡结构，具有均匀的细胞和大量的滤泡胶体。\n\n教育目标：\n嗜铬细胞瘤是一种起源于肾上腺髓质嗜铬细胞的肿瘤，其特征是过量产生儿茶酚胺。临床特征包括阵发性高血压、出汗和心悸。肿瘤细胞的显微镜检查显示电子致密、膜结合的分泌颗粒，免疫组织化学染色对突触素、嗜铬蛋白和神经元特异性烯醇酶呈阳性。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pheochromocytoma, a tumor of the adrenal medulla that secretes catecholamines, and its clinical presentation, diagnostic findings, and histopathology. It requires recognizing the constellation of symptoms (headaches, diaphoresis, weight loss) and the characteristic microscopic findings (electron-dense granules, positive immunohistochemistry) associated with this tumor. \n\nThe best approach is to correlate the patient's symptoms with the hormone being excessively produced. Then, consider the microscopic findings and immunohistochemical stains to narrow down the possible origins of the tumor. Remember that pheochromocytomas arise from chromaffin cells in the adrenal medulla and secrete catecholamines.",
+    "zh": "这个问题测试对嗜铬细胞瘤的知识，这是一种分泌儿茶酚胺的肾上腺髓质肿瘤，及其临床表现、诊断结果和组织病理学。它要求识别与该肿瘤相关的症状群（头痛、出汗、体重减轻）和特征性显微镜检查结果（电子致密颗粒、免疫组织化学阳性）。\n\n最好的方法是将患者的症状与过度产生的激素相关联。然后，考虑显微镜检查结果和免疫组织化学染色，以缩小肿瘤的可能起源。请记住，嗜铬细胞瘤起源于肾上腺髓质中的嗜铬细胞，并分泌儿茶酚胺。"
+  },
+  "tags": "Pheochromocytoma; Adrenal medulla; Catecholamines; Hypertension; Endocrine; Synaptophysin; Chromogranin; Neuron-specific enolase; Neuroendocrine tumor",
+  "category": "Endo",
+  "question_id": "926",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\926",
+  "extracted_at": "2025-11-05T14:11:46.115774",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:43:33.473531",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

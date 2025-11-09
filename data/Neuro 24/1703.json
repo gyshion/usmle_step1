@@ -1,0 +1,72 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old man comes to the office reporting double vision. He first noticed mild difficulty focusing his eyes about 3 weeks ago, and his symptoms have progressively worsened. The patient's other medical problems include metastatic prostate cancer. On neurologic examination, he is unable to adduct his left eye, and stimulation of the left cornea does not elicit a corneal reflex. A lesion involving which of the following anatomical structures is most likely responsible for this patient's symptoms? {{exhibit_1}}",
+    "zh": "一名62岁男性前来就诊，主诉复视。他大约3周前首次注意到轻微的视物模糊，症状逐渐加重。患者的其他内科问题包括转移性前列腺癌。神经系统检查显示，他无法内收左眼，刺激左侧角膜未引出角膜反射。以下哪种解剖结构的病变最有可能导致该患者的症状？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "A lesion involving which of the following anatomical structures is most likely responsible for this patient's symptoms?",
+    "zh": "以下哪种解剖结构的病变最有可能导致该患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Foramen lacerum",
+      "zh": "破裂孔"
+    },
+    "B": {
+      "en": "Foramen ovale",
+      "zh": "卵圆孔"
+    },
+    "C": {
+      "en": "Foramen rotundum",
+      "zh": "圆孔"
+    },
+    "D": {
+      "en": "Inferior orbital fissure",
+      "zh": "眶下裂"
+    },
+    "E": {
+      "en": "Optic canal",
+      "zh": "视神经孔"
+    },
+    "F": {
+      "en": "Superior orbital fissure",
+      "zh": "眶上裂"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "This patient has an absence of the blink reflex on stimulation of the left cornea, indicating a lesion in the afferent limb of the reflex. In combination with a deficit of globe adduction, this suggests a lesion at the superior orbital fissure. {{exhibit_2}} The sensory limb of the corneal reflex is mediated by the nasociliary branch of the first division of the trigeminal nerve (CN V1), which enters the orbit through the superior orbital fissure. The motor component of the corneal reflex is carried primarily by the temporal branch of the facial nerve (CN VII) and causes a bilateral eye blink.\n\nGlobe adduction is mediated by the medial rectus muscle, which is innervated by the oculomotor nerve (CN III). The oculomotor nerve originates in the oculomotor nucleus of the midbrain, emerges from the anterior midbrain, and enters the orbit through the superior orbital fissure.\n\nMost patients with lesions at the superior orbital fissure present with multiple deficits that may include ophthalmoplegia (oculomotor, trochlear, and abducens nerves); ptosis (levator palpebrae innervated by the oculomotor nerve); a fixed, dilated pupil (parasympathetics of oculomotor nerve); and lacrimal hyposecretion and forehead numbness (V1).\n\n(Choice A) The foramen lacerum is occluded by cartilage. The internal carotid artery courses just superior to the foramen lacerum in the lacerum portion of the carotid canal.\n(Choice B) The mandibular branch of the trigeminal nerve (CN V3) passes through the foramen ovale.\n(Choice C) The foramen rotundum transmits the maxillary division of the trigeminal nerve (CN V2) from within the skull to the pterygopalatine fossa. From there, it courses through the inferior orbital fissure to appear on the face at the infraorbital foramen as the infraorbital nerve.\n(Choice D) The maxillary division of the trigeminal nerve (CN V2), the infraorbital vessels, and branches from the sphenopalatine ganglion pass through the inferior orbital fissure but do not enter the orbit.\n(Choice E) The optic canal is medial to the superior orbital fissure and transmits the optic nerve (CN II) and ophthalmic artery.\n\nEducational objective: The oculomotor nerve (CN III), ophthalmic nerve (CN V) branches, trochlear nerve (CN IV), and abducens nerve (CN VI) enter the orbit via the superior orbital fissure.",
+    "zh": "该患者刺激左侧角膜时无眨眼反射，表明反射的传入神经通路存在病变。结合眼球内收障碍，提示病变位于眶上裂。{{exhibit_2}} 角膜反射的传入神经通路由三叉神经第一支（CN V1）的鼻睫状神经支配，该神经通过眶上裂进入眼眶。角膜反射的运动成分主要由面神经颞支（CN VII）携带，引起双侧眨眼。\n\n眼球内收由内直肌介导，内直肌由动眼神经（CN III）支配。动眼神经起源于中脑的动眼神经核，从中脑前部发出，并通过眶上裂进入眼眶。\n\n大多数眶上裂病变患者表现出多种神经功能障碍，可能包括眼肌麻痹（动眼神经、滑车神经和外展神经）；上睑下垂（提上睑肌由动眼神经支配）；瞳孔固定、散大（动眼神经的副交感神经）；以及泪液分泌减少和额部麻木（V1）。\n\n（选项 A）破裂孔被软骨封闭。颈内动脉位于破裂孔的上方，位于颈动脉管的破裂部分。\n（选项 B）三叉神经的下颌支（CN V3）穿过卵圆孔。\n（选项 C）圆孔将三叉神经的上颌支（CN V2）从颅内传到翼腭窝。然后，它通过眶下裂在面部的眶下孔处以眶下神经的形式出现。\n（选项 D）三叉神经上颌支（CN V2）、眶下血管和翼腭神经节的分支通过眶下裂，但不进入眼眶。\n（选项 E）视神经孔位于眶上裂的内侧，并传递视神经（CN II）和眼动脉。\n\n教育目标：动眼神经（CN III）、眼神经（CN V）分支、滑车神经（CN IV）和外展神经（CN VI）通过眶上裂进入眼眶。"
+  },
+  "summary": {
+    "en": "The patient presents with double vision, difficulty focusing, inability to adduct the left eye, and absent corneal reflex, suggesting a lesion affecting cranial nerves that pass through the superior orbital fissure. The superior orbital fissure transmits the ophthalmic division of the trigeminal nerve (sensory for corneal reflex), the oculomotor nerve (motor for eye adduction), and the abducens nerve (not directly implicated here but often affected in SOF lesions). Therefore, a lesion of the superior orbital fissure is the most likely cause of these symptoms.",
+    "zh": "患者出现复视、视物模糊、无法内收左眼和角膜反射消失，提示影响通过眶上裂的脑神经的病变。眶上裂传递三叉神经的眼支（角膜反射的传入神经）、动眼神经（眼球内收的运动神经）和外展神经（此处未直接涉及，但常受眶上裂病变的影响）。因此，眶上裂的病变最有可能导致这些症状。"
+  },
+  "tags": [
+    "neurology",
+    "ophthalmology",
+    "cranial nerves",
+    "superior orbital fissure",
+    "corneal reflex",
+    "eye movement"
+  ],
+  "category": "Neuro",
+  "question_id": "1703",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\1703",
+  "extracted_at": "2025-11-05T19:36:23.885417",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:35:47.313069",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

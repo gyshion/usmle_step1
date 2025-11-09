@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old man comes to the office for a follow-up appointment. The patient recently returned from a 10-day trip to Honduras. On the fifth day of his trip, he developed malaise, anorexia, and abdominal cramps, quickly followed by watery diarrhea. The patient had 5 or 6 stools daily but no fever. He took no medications and remained hydrated by drinking bottled water and soup. The patient felt better after 2 days and has had no additional symptoms since. He has no other medical conditions. Vital signs are within normal limits and physical examination shows no abnormalities.",
+    "zh": "一名32岁男性前来复诊。患者最近从洪都拉斯进行了为期10天的旅行回来。旅行的第五天，他出现了不适、食欲不振和腹部绞痛，很快出现水样腹泻。患者每天排便5到6次，但无发热。他没有服用任何药物，通过饮用瓶装水和汤来保持水分。患者在2天后感觉好转，此后未出现其他症状。他没有其他医学疾病。生命体征在正常范围内，体格检查未见异常。"
+  },
+  "question": {
+    "en": "Which of the following factors was most likely involved in the pathogenesis of this patient's gastrointestinal symptoms?",
+    "zh": "以下哪项因素最有可能参与了该患者胃肠道症状的发病机制？"
+  },
+  "options": {
+    "A": {
+      "en": "Bacterial endotoxin",
+      "zh": "细菌内毒素"
+    },
+    "B": {
+      "en": "Cholera-like enterotoxin",
+      "zh": "霍乱样肠毒素"
+    },
+    "C": {
+      "en": "Intestinal biofilm production",
+      "zh": "肠道生物膜生成"
+    },
+    "D": {
+      "en": "Intestinal mucosal invasion",
+      "zh": "肠道黏膜侵袭"
+    },
+    "E": {
+      "en": "Shiga toxin",
+      "zh": "志贺毒素"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient had self-limited traveler's diarrhea, which is most commonly caused by enterotoxigenic Escherichia coli (ETEC), a gram-negative, motile, enteric rod bacterium. Patients traveling to resource-limited regions with poor sanitation are at greatest risk.\n\nFollowing ingestion, ETEC colonizes and adheres to small intestine enterocytes (mediated by pili). The typical manifestations of abdominal cramping, nausea/vomiting, and (occasionally) low-grade fever occur due to the elaboration of plasmid-encoded heat-labile (LT) and/or heat-stable (ST) enterotoxins:\n\n*   The LT enterotoxin, which resembles cholera toxin in structure and mode of action, increases cyclic AMP in gut mucosal cells by activating adenylate cyclase.\n*   The ST enterotoxin (which is not inactivated by heat likely due to its small molecular size) causes an increase in cyclic GMP by activating guanylate cyclase.\n\nBoth mechanisms result in increased chloride secretion and decreased sodium reabsorption by enterocytes, resulting in watery diarrhea.\n\n(Choice A) Endotoxin is a lipopolysaccharide found in the cell membrane of gram-negative bacteria. When released into the bloodstream, endotoxin causes a severe inflammatory response (eg, fever, hypotension) mediated by TNF-alpha and IL-1 secreted from activated macrophages. However, endotoxin is present at high concentrations in the normal gut microbiota and does not cause gastrointestinal illness.\n\n(Choice C) Enteroaggregative E coli is a less common cause of self-limited watery diarrhea in resource-limited regions; adhesion of the organisms to intestinal mucosa in a \"stacked-brick\" pattern is characteristic. Biofilm formation can occur but is thought to primarily play a role in cases of persistent (not acute) disease.\n\n(Choice D) Intestinal invasion is characteristic of gastroenteritis caused by Salmonella, Shigella, and Campylobacter jejuni, as well as the protozoan Entamoeba histolytica. Due to mucosal cell necrosis, invasion frequently leads to bloody diarrhea (not seen here).\n\n(Choice E) Shiga toxin-producing E coli (STEC) and Shigella dysenteriae produce Shiga toxin that inactivates the 60S ribosomal subunit in human cells, thereby inhibiting cell protein production. Bloody diarrhea due to mucosal cell death is typical.\n\nEducational objective:\nTraveler's diarrhea is most frequently due to enterotoxigenic Escherichia coli, which produces plasmid-encoded, heat-labile (LT) and heat-stable (ST) enterotoxins. LT resembles cholera toxin and activates adenylate cyclase, leading to increased intracellular cyclic AMP; ST activates guanylate cyclase, leading to increased intracellular cyclic GMP. Both can contribute to watery diarrhea due to loss of water and electrolytes.",
+    "zh": "该患者患有自限性旅行者腹泻，最常见的原因是产肠毒素大肠杆菌 (ETEC)，这是一种革兰氏阴性、可动、肠杆菌。前往卫生条件差的资源匮乏地区的患者面临的风险最大。\n\n摄入后，ETEC 定植并粘附于小肠肠细胞（由菌毛介导）。腹部绞痛、恶心/呕吐和（偶尔）低烧的典型表现是由于质粒编码的耐热不稳定 (LT) 和/或耐热稳定 (ST) 肠毒素的产生：\n\n*   LT 肠毒素在结构和作用方式上类似于霍乱毒素，通过激活腺苷酸环化酶来增加肠道粘膜细胞中的环状 AMP。\n*   ST 肠毒素（由于其分子量小，不太可能被热灭活）通过激活鸟苷酸环化酶导致环状 GMP 增加。\n\n这两种机制都会导致肠细胞的氯离子分泌增加和钠重吸收减少，从而导致水样腹泻。\n\n（选项 A）内毒素是一种脂多糖，存在于革兰氏阴性细菌的细胞膜中。当释放到血流中时，内毒素会引起严重的炎症反应（例如，发烧、低血压），由激活的巨噬细胞分泌的 TNF-α 和 IL-1 介导。然而，内毒素在高浓度的正常肠道菌群中存在，不会引起胃肠道疾病。\n\n（选项 C）聚集性大肠杆菌是资源匮乏地区自限性水样腹泻的一个不太常见的原因；这些生物体以“堆砌砖块”模式粘附于肠粘膜是其特征。生物膜的形成可能发生，但它被认为主要在持续性（而非急性）疾病中发挥作用。\n\n（选项 D）肠道侵袭是沙门氏菌、志贺氏菌和空肠弯曲菌以及原虫溶组织内阿米巴病引起的胃肠炎的特征。由于粘膜细胞坏死，侵袭经常导致血性腹泻（此处未见）。\n\n（选项 E）产志贺毒素大肠杆菌 (STEC) 和痢疾志贺菌产生志贺毒素，该毒素会使人体细胞中的 60S 核糖体亚基失活，从而抑制细胞蛋白质的产生。由于粘膜细胞死亡引起的血性腹泻是典型的。\n\n教育目标：\n旅行者腹泻最常见的原因是产肠毒素大肠杆菌，它产生质粒编码的、对热不稳定的 (LT) 和对热稳定的 (ST) 肠毒素。LT 类似于霍乱毒素并激活腺苷酸环化酶，导致细胞内环状 AMP 增加；ST 激活鸟苷酸环化酶，导致细胞内环状 GMP 增加。两者都可能由于水和电解质的流失而导致水样腹泻。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathogenesis of traveler's diarrhea, specifically the role of enterotoxins produced by enterotoxigenic Escherichia coli (ETEC). It requires understanding the mechanism of action of heat-labile (LT) and heat-stable (ST) enterotoxins. \n\nThe key to solving this question is recognizing the patient's recent travel history and the presentation of watery diarrhea without fever. This points towards ETEC as the most likely cause, and therefore, cholera-like enterotoxins as the primary pathogenic factor.",
+    "zh": "本题考察对旅行者腹泻发病机制的理解，特别是产肠毒素大肠杆菌 (ETEC) 产生的肠毒素的作用。它需要理解对热不稳定 (LT) 和对热稳定 (ST) 肠毒素的作用机制。\n\n解决此问题的关键是识别患者最近的旅行史以及无发热的水样腹泻的症状。这表明 ETEC 是最可能的原因，因此，霍乱样肠毒素是主要的致病因素。"
+  },
+  "tags": "Traveler's diarrhea; Enterotoxigenic Escherichia coli (ETEC); Enterotoxins; Heat-labile toxin (LT); Heat-stable toxin (ST); Gastroenteritis; Infectious disease; Microbiology",
+  "category": "Micro",
+  "question_id": "1099",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1099",
+  "extracted_at": "2025-11-05T14:49:54.681063",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:04:57.236417",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 64-year-old man comes to the emergency department due to flank discomfort and red urine. He has a history of hypertension and type 2 diabetes mellitus. Three months ago, the patient had an ischemic stroke and now has mild, residual, right-sided weakness. Serum creatinine is 0.9 mg/dL, and serum lactate dehydrogenase is elevated. Urine microscopy shows many red blood cells. The findings of a CT scan of the abdomen with contrast are shown in the image below {{exhibit_1}}.",
+    "zh": "一名64岁男性因腰腹部不适和尿液发红来到急诊科就诊。患者有高血压和2型糖尿病病史。三个月前，患者曾发生缺血性脑卒中，目前遗留轻微的、右侧肢体无力。血清肌酐为0.9 mg/dL，血清乳酸脱氢酶升高。尿液显微镜检查显示许多红细胞。腹部CT扫描（增强）的发现如下图所示 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "以下哪项最可能是该患者症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Atrial fibrillation",
+      "zh": "心房颤动"
+    },
+    "B": {
+      "en": "Deep venous thrombosis of the lower extremities",
+      "zh": "下肢深静脉血栓形成"
+    },
+    "C": {
+      "en": "Focal segmental glomerulosclerosis",
+      "zh": "局灶节段性肾小球硬化"
+    },
+    "D": {
+      "en": "Hypersensitivity interstitial nephritis",
+      "zh": "超敏性间质性肾炎"
+    },
+    "E": {
+      "en": "Pulmonary hypertension",
+      "zh": "肺动脉高压"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient with flank pain, hematuria, and a wedge-shaped kidney lesion on CT scan likely has a renal infarction, which results from interruption of the normal blood supply to the kidney. The lack of collaterals between segmental renal arteries (\"end-organ\" blood supply) means that any interruption of blood flow can lead to coagulative infarcts. Common laboratory findings include elevated lactate dehydrogenase (reflecting cell necrosis), mild leukocytosis, and hematuria. Serum creatinine is usually normal due to compensation by the unaffected kidney. Macroscopically, renal infarcts appear as pale wedges, with the base (widest part) at the renal cortex and the apex pointing to the medulla.\n\nThe most common cause of renal infarction is systemic thromboembolism from the left atrium or ventricle. Thromboembolism is a common complication of ATRIAL FIBRILLATION because the irregular contractions lead to sluggish, uneven flow in the left atrium and facilitate clot formation. Emboli from atrial fibrillation, which can be paroxysmal (thereby going undiagnosed), may have also caused this patient's recent stroke. The brain and kidneys are more likely than other organs to suffer embolic infarctions because they are perfused at a higher rate.\n\n(Choice B) Lower extremity venous thromboembolism can lead to pulmonary embolism because returning blood passes through the right heart and subsequently to the lungs. Although communication from the right to the left side of the heart (eg, atrial or ventricular septal defect) can allow for systemic (paradoxical) embolus to the brain or kidneys, this is relatively rare.\n\n(Choice C) Focal segmental glomerulosclerosis manifests as nephrotic syndrome. Urinary loss of certain natural anticoagulants (eg, antithrombin III) leads to a hypercoagulable state. However, this rarely causes systemic embolization and patients usually have elevated creatinine.\n\n(Choice D) Acute interstitial nephritis, a hypersensitivity reaction that can occur 1-2 weeks after starting a new medication, presents with fever, rash, elevated creatinine, eosinophilia, and eosinophiluria.\n\n(Choice E) Pulmonary hypertension can cause right-sided heart failure (cor pulmonale) and is sometimes associated with secondary polycythemia, causing increased blood viscosity. Although thrombotic complications may occur, embolic complications are less common.\n\nEducational objective: Patient presents with flank pain, hematuria, elevated lactate dehydrogenase, and a wedge-shaped kidney lesion on CT scan. The most common cause of renal infarction is systemic thromboembolism, often due to thrombus formation during atrial fibrillation. The brain and kidneys are more likely than other organs to suffer embolic infarctions because they are perfused at a higher rate. {{exhibit_2}}",
+    "zh": "该患者出现腰腹痛、血尿，并且CT扫描显示肾脏呈楔形病变，很可能患有肾梗死，这是由于肾脏正常血供中断所致。肾段动脉之间缺乏侧支循环（“终末器官”供血）意味着任何血流中断都可能导致凝固性梗死。常见的实验室检查结果包括乳酸脱氢酶升高（反映细胞坏死）、轻度白细胞增多和血尿。由于未受影响的肾脏代偿，血清肌酐通常正常。肉眼观察，肾梗死表现为苍白的楔形，基底（最宽的部分）位于肾皮质，尖端指向髓质。\n\n肾梗死最常见的原因是来自左心房或心室的全身性血栓栓塞。血栓栓塞是心房颤动的常见并发症，因为不规则的收缩会导致左心房血流缓慢、不均匀，并促进血栓形成。来自心房颤动的栓子，可以是阵发性的（因此未被诊断），也可能导致该患者近期发生卒中。与其它器官相比，大脑和肾脏更容易发生栓塞性梗死，因为它们的灌注率更高。\n\n(选项B) 下肢静脉血栓栓塞可导致肺栓塞，因为回流的血液流经右心，然后流向肺部。尽管右心和左心之间（例如，心房或室间隔缺损）的交通可以允许系统性（矛盾性）栓子到达大脑或肾脏，但这相对罕见。\n\n(选项C) 局灶节段性肾小球硬化表现为肾病综合征。尿液中某些天然抗凝血物质（如抗凝血酶III）的丢失会导致高凝状态。然而，这很少引起全身性栓塞，并且患者通常会伴有肌酐升高。\n\n(选项D) 急性间质性肾炎，一种超敏反应，可在开始新药治疗后1-2周内发生，表现为发热、皮疹、肌酐升高、嗜酸性粒细胞增多和嗜酸性粒细胞尿。\n\n(选项E) 肺动脉高压可导致右心衰竭（肺心病），有时与继发性红细胞增多症相关，导致血液粘度增加。虽然可能发生血栓形成并发症，但栓塞并发症较少见。\n\n教学目的：患者表现为腰腹痛、血尿、乳酸脱氢酶升高和CT扫描显示肾脏楔形病变。肾梗死最常见的原因是全身性血栓栓塞，通常是由于心房颤动期间形成血栓。与其它器官相比，大脑和肾脏更容易发生栓塞性梗死，因为它们的灌注率更高。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of renal infarction etiology, specifically the association with atrial fibrillation and thromboembolic events. It requires interpreting clinical findings and CT imaging to identify the most likely cause of the patient's symptoms.\n\nTo solve this question, recognize the presentation of renal infarction (flank pain, hematuria, wedge-shaped lesion on CT). Consider the patient's history of stroke and identify atrial fibrillation as a common cause of thromboembolism leading to renal infarction.",
+    "zh": "本题考察对肾梗死病因学的了解，特别是其与心房颤动和血栓栓塞事件的关联。它需要解读临床发现和CT影像学检查，以确定患者症状最可能的原因。\n\n要解决这个问题，需要认识到肾梗死的表现（腰腹痛、血尿、CT上呈楔形病变）。考虑患者的卒中病史，并确定心房颤动是导致血栓栓塞导致肾梗死的常见原因。"
+  },
+  "tags": "Renal infarction; Atrial fibrillation; Thromboembolism; Kidney; CT scan; Hematuria; Flank pain; Cardiology; Nephrology",
+  "category": "CVS",
+  "question_id": "809",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\809",
+  "extracted_at": "2025-11-05T12:16:51.493556",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:31:28.886892",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

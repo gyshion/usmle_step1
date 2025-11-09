@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old man comes to the office due to an intensely pruritic facial rash for the past 3 days. The patient uses no facial cosmetic products but has frequently dyed his hair during the past year; he last dyed his hair 5 days ago and also recalls developing a similar rash the previous time he used hair dye. The patient has a history of asthma, hypertension, and diabetes mellitus. He does not use tobacco, alcohol, or illicit drugs. Vital signs are within normal limits. Physical examination findings are shown in the exhibit {{exhibit_1}}. Which of the following are primarily involved in the pathogenesis of this patient's rash?",
+    "zh": "一名62岁男性因过去3天出现剧烈瘙痒的面部皮疹前来就诊。患者未使用任何面部化妆品，但在过去一年中经常染发；他上次染发是在5天前，并且回忆起上次染发时也出现过类似的皮疹。患者有哮喘、高血压和糖尿病病史。他不吸烟、不饮酒，也不使用非法药物。生命体征在正常范围内。体格检查结果见附图{{exhibit_1}}。以下哪一项主要参与该患者皮疹的发病机制？"
+  },
+  "question": {
+    "en": "Which of the following are primarily involved in the pathogenesis of this patient's rash?",
+    "zh": "以下哪一项主要参与该患者皮疹的发病机制？"
+  },
+  "options": {
+    "A": {
+      "en": "CD8+ T cells and interferon gamma",
+      "zh": "CD8+ T细胞和干扰素γ"
+    },
+    "B": {
+      "en": "Mast cells and histamine",
+      "zh": "肥大细胞和组胺"
+    },
+    "C": {
+      "en": "Neutrophils and myeloperoxidase",
+      "zh": "中性粒细胞和髓过氧化物酶"
+    },
+    "D": {
+      "en": "Plasma cells and immunoglobulins",
+      "zh": "浆细胞和免疫球蛋白"
+    },
+    "E": {
+      "en": "Regulatory T cells and interleukin-10",
+      "zh": "调节性T细胞和白细胞介素-10"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient developed erythema and pruritus on the scalp, face, and neck 2 days after reexposure to hair dye. Hair products, including dye, frequently contain allergenic molecules (eg, p-phenylenediamine) that can cause allergic contact dermatitis (ACD). ACD is a type IV hypersensitivity (delayed-type) reaction that occurs in 2 phases:\n\n1.  Sensitization: Cutaneous Langerhans cells take up haptens (small molecules that bind to proteins and alter their immune appearance) and present hapten-peptide complexes to naive CD4+ and CD8+ T cells in regional lymph nodes, resulting in clonal expansion of hapten-sensitive T cells. This phase takes 10-14 days and does not result in cutaneous lesions.\n\n2.  Elicitation: On reexposure to the hapten, sensitized T cells are recruited to skin for activation by hapten-protein conjugates displayed on cutaneous antigen-presenting cells. Activated CD8+ T cells {{exhibit_2}}, the main effector cells in ACD, release cytotoxins (eg, perforin, granzymes) and express Fas ligand to induce keratinocyte apoptosis. They also amplify the inflammatory response by releasing cytokines (eg, interferon gamma) and recruiting additional inflammatory cells (eg, macrophages). This phase occurs 2-3 days following reexposure to the hapten and results in erythema, pruritus, and vesicles.\n\n(Choice B) Mast cells are primarily responsible for immediate (type I) hypersensitivity reactions. On reexposure, allergens bind to allergen-specific IgEs on mast cells, causing immediate degranulation and release of vasoactive peptides (eg, histamine), resulting in urticaria and, when severe, anaphylaxis. Onset is rapid (minutes), unlike this patient's delayed (48-hr) response. Furthermore, individual wheals of urticaria resolve within 24 hours, rather than days.\n\n(Choice C) Neutrophils phagocytose bacteria and fungi and kill them by generating reactive oxygen species (NADPH oxidase) and hypochlorous acid (myeloperoxidase). Although neutrophils play a role in defense against cutaneous infections (eg, cellulitis, which is painful rather than pruritic), this patient's rash is more consistent with contact dermatitis.\n\n(Choice D) Immunoglobulins produced by plasma cells are responsible for type II and III hypersensitivity reactions. ACD does not involve plasma cells or antibodies.\n\n(Choice E) Regulatory T cells are CD4+ lymphocytes that play an inhibitory role in the immune response. They secrete cytokines (eg, interleukin-10) that inhibit macrophage function and antagonize proinflammatory cytokines (eg, interferon gamma). This anti-inflammatory effect is important in suppressing autoimmune diseases.\n\nEducational objective:\nAllergic contact dermatitis is a type IV (delayed-type) hypersensitivity reaction. Initially, Langerhans cells present haptens to naive T cells, leading to clonal expansion. On reexposure, sensitized CD8+ T cells are recruited to skin and destroy tissue. Release of interferon gamma by T cells further amplifies the immune response. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "该患者在再次接触染发剂后2天出现头皮、面部和颈部的红斑和瘙痒。染发剂等美发产品经常含有致敏分子（如对苯二胺），可引起过敏性接触性皮炎（ACD）。ACD是一种IV型超敏反应（迟发型），分为2个阶段：\n\n1. 致敏：皮肤朗格汉斯细胞摄取半抗原（与蛋白质结合并改变其免疫表型的的小分子），并将半抗原-肽复合物呈递给区域淋巴结中的幼稚CD4+和CD8+ T细胞，导致半抗原敏感性T细胞的克隆扩增。此阶段需要10-14天，不会导致皮肤病变。\n\n2. 激发：再次接触半抗原时，致敏的T细胞被募集到皮肤，通过皮肤抗原呈递细胞上显示的半抗原-蛋白质结合物被激活。活化的CD8+ T细胞{{exhibit_2}}，是ACD的主要效应细胞，释放细胞毒素（如穿孔素、颗粒酶）并表达Fas配体以诱导角质细胞凋亡。它们还通过释放细胞因子（如干扰素γ）和募集额外的炎症细胞（如巨噬细胞）来放大炎症反应。此阶段发生在再次接触半抗原后2-3天，导致红斑、瘙痒和水疱。\n\n（选项B）肥大细胞主要负责速发型（I型）超敏反应。再次接触时，过敏原与肥大细胞上的过敏原特异性IgE结合，引起立即脱颗粒并释放血管活性肽（如组胺），导致荨麻疹，严重时可引起过敏性休克。发病迅速（几分钟），不像该患者的延迟（48小时）反应。此外，荨麻疹的单个风团在24小时内消退，而不是几天。\n\n（选项C）中性粒细胞吞噬细菌和真菌，并通过产生活性氧（NADPH氧化酶）和次氯酸（髓过氧化物酶）来杀死它们。虽然中性粒细胞在防御皮肤感染（如蜂窝织炎，疼痛而非瘙痒）中起作用，但该患者的皮疹更符合接触性皮炎。\n\n（选项D）浆细胞产生的免疫球蛋白负责II型和III型超敏反应。ACD不涉及浆细胞或抗体。\n\n（选项E）调节性T细胞是CD4+淋巴细胞，在免疫反应中起抑制作用。它们分泌细胞因子（如白细胞介素-10），抑制巨噬细胞功能并拮抗促炎细胞因子（如干扰素γ）。这种抗炎作用对于抑制自身免疫性疾病很重要。\n\n教学目标：\n过敏性接触性皮炎是一种IV型（迟发型）超敏反应。最初，朗格汉斯细胞将半抗原呈递给幼稚T细胞，导致克隆扩增。再次接触时，致敏的CD8+ T细胞被募集到皮肤并破坏组织。T细胞释放干扰素γ进一步放大免疫反应。{{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of allergic contact dermatitis, specifically the role of CD8+ T cells and interferon gamma in the elicitation phase of the type IV hypersensitivity reaction. It requires understanding the delayed-type hypersensitivity mechanism and the immune cells involved in the inflammatory response.\n\nThe best approach is to recognize the clinical scenario as allergic contact dermatitis due to hair dye exposure. Then, recall that this is a type IV hypersensitivity reaction mediated by T cells, specifically CD8+ T cells, and the release of cytokines like interferon gamma.",
+    "zh": "此题考察对过敏性接触性皮炎的病理生理学的理解，特别是CD8+ T细胞和干扰素γ在IV型超敏反应的激发阶段中的作用。它要求理解迟发型超敏反应机制和参与炎症反应的免疫细胞。\n\n最好的方法是将临床情况识别为由于染发剂暴露引起的过敏性接触性皮炎。然后，回忆这是一种由T细胞（特别是CD8+ T细胞）介导的IV型超敏反应，并释放细胞因子，如干扰素γ。"
+  },
+  "tags": "Allergic contact dermatitis; Type IV hypersensitivity; CD8+ T cells; Interferon gamma; Dermatology; Immunology; Hair dye allergy",
+  "category": "Derma",
+  "question_id": "20556",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\20556",
+  "extracted_at": "2025-11-05T13:55:28.942229",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:35:10.862070",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

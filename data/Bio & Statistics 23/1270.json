@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A state's population for 2016 was estimated at 4,000,000. At the beginning of the same year, the state reported having 20,000 cases of a rare and fatal neurodegenerative condition. At the end of 2016, the state reported 7,000 new cases, as well as 1,000 deaths attributable to this condition. Another 40,000 deaths from all other causes were also reported at the end of the year.",
+    "zh": "一个州2016年的人口估计为4,000,000人。在同年初，该州报告有20,000例罕见且致命的神经退行性疾病病例。在2016年底，该州报告了7,000例新病例，以及1,000例可归因于该疾病的死亡。在年底还报告了另外40,000例由所有其他原因引起的死亡。"
+  },
+  "question": {
+    "en": "What was the cumulative incidence of the disease in 2016?",
+    "zh": "2016年该疾病的累积发病率是多少？"
+  },
+  "options": {
+    "A": {
+      "en": "1,000 / 4,000,000",
+      "zh": "1,000 / 4,000,000"
+    },
+    "B": {
+      "en": "6,000 / 3,980,000",
+      "zh": "6,000 / 3,980,000"
+    },
+    "C": {
+      "en": "6,000 / 4,000,000",
+      "zh": "6,000 / 4,000,000"
+    },
+    "D": {
+      "en": "7,000 / 3,980,000",
+      "zh": "7,000 / 3,980,000"
+    },
+    "E": {
+      "en": "7,000 / 4,000,000",
+      "zh": "7,000 / 4,000,000"
+    },
+    "F": {
+      "en": "26,000 / 3,959,000",
+      "zh": "26,000 / 3,959,000"
+    },
+    "G": {
+      "en": "41,000 / 4,000,000",
+      "zh": "41,000 / 4,000,000"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Cumulative incidence (CI) is calculated as the total number of new cases of a disease (eg, neurodegenerative condition) over a specific period (eg, during 2016) divided by the number of people at risk at the beginning of the period. It does not account for deaths in the period under study because the patients who died were, at some point in the intervening period, still considered part of the baseline population at risk for the disease. In this case, there were 3,980,000 people at risk (ie, 4,000,000 – 20,000 already with the disease) at the beginning of 2016, and 7,000 new cases of the disease occurred over the 1-year period being analyzed. Therefore, the CI is:\n\nCI = 7,000 / (4,000,000 – 20,000) = 7,000 / 3,980,000\n\nUnlike incidence rate (which is typically reported as the number of cases per person-year), CI does not incorporate time into the denominator; it is simply the proportion of at-risk individuals who contract the disease over the specified period.\n\n(Choice A) The disease-specific mortality (in this example: 1,000 / 4,000,000) is the number of deaths attributable to a disease per year divided by the total population.\n\n(Choice B) The CI does not account for deaths in the period under study. In this case, the numerator is 7,000, not 6,000.\n\n(Choice C) The rate of increase of a disease (ie, the increase in disease prevalence) is the number of new cases per year minus the number of deaths (or cures) attributable to the disease per year, divided by the total population. This yields (7,000 – 1,000) / 4,000,000.\n\n(Choice E) The CI is calculated by taking into consideration the population at risk at the beginning of the period under study. In this case, the denominator must be reduced by the number of cases reported at the beginning of the year 2016 (ie, 4,000,000 – 20,000 = 3,980,000).\n\n(Choice F) The prevalence of disease at the end of 2016 takes into consideration the prevalent cases at the beginning of the year, the incident cases throughout the year, and all the deaths reported by the end of the year. In this case, the prevalence at the closing of 2016 is: [(20,000 + 7,000) – 1,000) / (4,000,000 – (40,000 + 1,000)].\n\n(Choice G) The mortality rate is the number of deaths per year divided by the total population. This yields 41,000 / 4,000,000.\n\nEducational objective:\nThe cumulative incidence of a disease is the number of new cases of a disease over a specific period divided by the total population at risk at the beginning of the study (ie, the proportion of at-risk individuals who contract the disease over the specified period).",
+    "zh": "累积发病率 (CI) 的计算方法是：在特定时期（例如，2016年期间）内，一种疾病（例如，神经退行性疾病）的新病例总数除以该时期开始时处于危险中的人数。它不考虑研究期间的死亡人数，因为死亡的患者在介入期间的某个时候仍然被认为是该疾病的基线风险人群的一部分。在这种情况下，在2016年初，有3,980,000人处于危险之中（即，4,000,000 – 20,000，已经患有该疾病），并且在分析的1年期间内发生了7,000例该疾病的新病例。因此，CI是：\n\nCI = 7,000 / (4,000,000 – 20,000) = 7,000 / 3,980,000\n\n与发病率（通常报告为每人年的病例数）不同，CI没有将时间纳入分母；它只是在指定时期内患上该疾病的风险人群的比例。\n\n（选项A）疾病特异性死亡率（在本例中：1,000 / 4,000,000）是每年可归因于一种疾病的死亡人数除以总人口。\n\n（选项B）CI不考虑研究期间的死亡人数。在这种情况下，分子是7,000，而不是6,000。\n\n（选项C）疾病的增加率（即，疾病患病率的增加）是每年新病例数减去每年可归因于该疾病的死亡人数（或治愈人数），然后除以总人口。这会产生(7,000 – 1,000) / 4,000,000。\n\n（选项E）CI的计算方法是考虑研究期间开始时处于危险中的人口。在这种情况下，分母必须减少2016年初报告的病例数（即，4,000,000 – 20,000 = 3,980,000）。\n\n（选项F）2016年底的疾病患病率考虑了年初的流行病例、全年的新增病例以及年底报告的所有死亡病例。在这种情况下，2016年底的患病率为：[(20,000 + 7,000) – 1,000) / (4,000,000 – (40,000 + 1,000)]。\n\n（选项G）死亡率是每年死亡人数除以总人口。这会产生41,000 / 4,000,000。\n\n教育目标：\n一种疾病的累积发病率是在特定时期内一种疾病的新病例数除以研究开始时处于危险中的总人口（即，在指定时期内患上该疾病的风险人群的比例）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of cumulative incidence, a key concept in epidemiology. It requires calculating the proportion of new cases of a disease within a specific period relative to the population at risk at the beginning of that period. \n\nTo solve this question, identify the number of new cases and the population at risk. The population at risk is the total population minus the number of existing cases at the beginning of the period. Then, divide the number of new cases by the population at risk to find the cumulative incidence.",
+    "zh": "这道题考察对累积发病率的理解，这是流行病学中的一个关键概念。它要求计算在特定时期内一种疾病的新病例数相对于该时期开始时处于危险中的人群的比例。\n\n要解决这个问题，确定新病例的数量和处于危险中的人群。处于危险中的人群是总人口减去该时期开始时现有病例的数量。然后，将新病例的数量除以处于危险中的人群，以找到累积发病率。"
+  },
+  "tags": "Epidemiology; Cumulative Incidence; Population at Risk; Biostatistics; Prevalence; Mortality Rate",
+  "category": "Bio",
+  "question_id": "1270",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1270",
+  "extracted_at": "2025-11-05T10:31:06.724945",
+  "translated_at": "2025-11-07T16:20:10.211180",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

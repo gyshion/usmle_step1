@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 59-year-old African American male presents to the emergency room with crushing chest pain, sweating, and lightheadedness. His blood pressure is 90/60 mm Hg and his heart rate is 48 beats per minute. Electrocardiogram (ECG) shows sinus bradycardia and ST segment elevation in leads II, III, and aVF. {{exhibit_1}} Occlusion of which of the following coronary arteries is most likely responsible for this patient's symptoms?",
+    "zh": "一名59岁的非裔美国男性因压榨性胸痛、出汗和头晕来到急诊室。他的血压为90/60 mmHg，心率为每分钟48次。心电图（ECG）显示窦性心动过缓和II、III和aVF导联ST段抬高。{{exhibit_1}} 阻塞以下哪条冠状动脉最有可能导致该患者的症状？"
+  },
+  "question": {
+    "en": "Occlusion of which of the following coronary arteries is most likely responsible for this patient's symptoms?",
+    "zh": "阻塞以下哪条冠状动脉最有可能导致该患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Left main coronary artery",
+      "zh": "左主干冠状动脉"
+    },
+    "B": {
+      "en": "Left anterior descending artery",
+      "zh": "左前降支动脉"
+    },
+    "C": {
+      "en": "Left circumflex artery",
+      "zh": "左旋支动脉"
+    },
+    "D": {
+      "en": "Right coronary artery",
+      "zh": "右冠状动脉"
+    },
+    "E": {
+      "en": "Intramural arteries",
+      "zh": "壁内动脉"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient presents with symptoms and ECG findings consistent with transmural ischemic injury to the inferior wall of the heart. In 90% of individuals, the posteroinferior wall of the left ventricle is supplied by the posterior descending branch of the right coronary artery (RCA). The patient's bradycardia and resultant hypotension suggests that there may have been ischemic injury to the sinus node as well. {{exhibit_2}} (The sinus node normally receives its arterial blood supply from the RCA.)",
+    "zh": "该患者的症状和心电图结果与心脏下壁透壁性缺血损伤一致。在90%的个体中，左心室的后下壁由右冠状动脉（RCA）的后降支供应。患者的心动过缓和由此引起的低血压表明窦房结也可能受到缺血损伤。{{exhibit_2}}（窦房结通常从RCA接收动脉血液供应。）"
+  },
+  "summary": {
+    "en": "The patient's symptoms and ECG findings (ST elevation in leads II, III, and aVF) are indicative of inferior wall myocardial infarction. The right coronary artery (RCA) is the most common source of blood supply to the inferior wall of the left ventricle, and also frequently supplies the sinus node. Therefore, occlusion of the RCA is the most likely cause of the patient's symptoms, including bradycardia and hypotension.",
+    "zh": "患者的症状和心电图结果（II、III和aVF导联ST段抬高）表明发生了下壁心肌梗死。右冠状动脉（RCA）是左心室下壁最常见的血液供应来源，也经常供应窦房结。因此，RCA的阻塞最有可能导致患者的症状，包括心动过缓和低血压。"
+  },
+  "tags": [
+    "cardiology",
+    "myocardial infarction",
+    "coronary artery disease",
+    "ECG interpretation",
+    "inferior wall MI",
+    "right coronary artery"
+  ],
+  "category": "CVS",
+  "question_id": "179",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\179",
+  "extracted_at": "2025-11-05T19:19:49.416133",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:52:25.637140",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

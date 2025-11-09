@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 57-year-old man is hospitalized for aspiration pneumonia. The patient was healthy and worked as an engineer without difficulty until about 4 months ago. Since that time, he has developed severe confusion, mood changes, and memory impairment and had to take medical leave from work. The patient is now completely dependent on his wife for toileting, feeding, and general self-care. {{exhibit_1}} Physical examination shows disorientation and sporadic, jerky extremity movements. During hospitalization, the patient lapses into a coma and dies. Postmortem examination of his brain shows widespread atrophy of the cerebral cortex and cerebellum. Histologic analysis of the patient's brain tissue would most likely show accumulation of which of the following?",
+    "zh": "一名57岁男性因吸入性肺炎住院。患者此前健康，作为工程师工作没有困难，直到大约4个月前。从那时起，他出现了严重的意识模糊、情绪变化和记忆障碍，不得不请病假。患者现在完全依赖妻子进行大小便、喂食和一般的自我护理。{{exhibit_1}} 体格检查显示定向力障碍和零星的、抽搐的四肢运动。住院期间，患者陷入昏迷并死亡。尸检显示其大脑皮质和小脑广泛萎缩。患者脑组织的组织学分析最有可能显示以下哪种物质的积累？"
+  },
+  "question": {
+    "en": "Histologic analysis of the patient's brain tissue would most likely show accumulation of which of the following?",
+    "zh": "患者脑组织的组织学分析最有可能显示以下哪种物质的积累？"
+  },
+  "options": {
+    "A": {
+      "en": "Alpha-synuclein",
+      "zh": "α-突触核蛋白"
+    },
+    "B": {
+      "en": "Amyloid precursor protein",
+      "zh": "淀粉样前体蛋白"
+    },
+    "C": {
+      "en": "Phosphorylated tau",
+      "zh": "磷酸化tau蛋白"
+    },
+    "D": {
+      "en": "Protease-resistant protein",
+      "zh": "耐蛋白酶蛋白"
+    },
+    "E": {
+      "en": "RNA virus",
+      "zh": "RNA病毒"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This previously healthy patient developed rapidly progressive dementia with myoclonus (eg, involuntary, jerky extremity movements) and brain atrophy (due to widespread neuronal loss). These findings are consistent with Creutzfeldt-Jakob disease (CJD), a rapidly fatal transmissible spongiform encephalopathy caused by prions.\n\nPrion protein (PrP) is found in both neuronal and nonneuronal brain cells and normally exists in an alpha-helical structure (PrPC). Prion disease occurs after a domain in this protein undergoes a conformational change from an alpha helix into a beta pleated sheet isoform (PrPSc), which confers the ability to induce similar conformational changes in other proteins. This beta sheet conformation is resistant to proteases and forms long, highly neurotoxic fibrils that accumulate intracellularly in neurons and form extracellular deposits.\n\nOn microscopy, there is spongiform degeneration of the gray matter, which is characterized by formation of microscopic vacuoles within the neuronal processes. This leads to widespread neuronal loss and reactive gliosis without associated inflammation. This may be evident on imaging or gross pathology as widespread atrophy involving both the cerebrum and cerebellum (in contrast to many other neurodegenerative diseases that spare the cerebellum).\n\n(Choice A) Cytoplasmic inclusions of alpha-synuclein are characteristic of dementia with Lewy bodies, which is characterized by visual hallucinations, parkinsonism, cognitive fluctuations, and REM sleep disorder.\n\n(Choice B) Deposition of beta-amyloid occurs in Alzheimer dementia, which commonly presents with early and prominent memory impairment with language deficits and spatial disorientation. It is characterized by a slow (years to decades) decline in function until death.\n\n(Choice C) Phosphorylated tau forms paired helical filaments that create intracellular neurofibrillary tangles. This is seen in both Alzheimer disease as well as frontotemporal dementia. Although memory impairment and behavioral changes can occur in these diseases, this patient's myoclonus and rapid progression leading to death are more consistent with CJD.\n\n(Choice E) Prion diseases are the only known diseases that are transmissible by protein. Prion isoforms do not contain nucleic acids. Although HIV (an RNA virus) can cause dementia, it typically causes mild, subacute cognitive impairment without myoclonus.",
+    "zh": "这位先前健康的患者发展为快速进展性痴呆，伴有肌阵挛（例如，不自主的、抽搐的四肢运动）和脑萎缩（由于广泛的神经元损失）。这些发现与克雅病(CJD)一致，克雅病是一种由朊病毒引起的、快速致命的、可传播的海绵状脑病。\n\n朊病毒蛋白（PrP）存在于神经元和非神经元脑细胞中，通常以α螺旋结构（PrPC）存在。朊病毒病发生在蛋白的一个结构域经历构象变化，从α螺旋变为β折叠片异构体（PrPSc）后，这种异构体赋予了在其他蛋白质中诱导类似构象变化的能力。这种β折叠构象对蛋白酶具有抵抗力，并形成长而高度神经毒性的原纤维，这些原纤维在神经元内积累并形成细胞外沉积物。\n\n在显微镜下，可见灰质的海绵状变性，其特征是在神经元突起内形成微小的空泡。这导致广泛的神经元损失和反应性神经胶质增生，而没有相关的炎症。这可能在影像学或大体病理学上表现为广泛的萎缩，涉及大脑和小脑（与许多其他神经退行性疾病不同，后者会保留小脑）。\n\n（选项A）α-突触核蛋白的胞质内包涵体是路易体痴呆的特征，其特征是视觉幻觉、帕金森病、认知波动和REM睡眠障碍。\n\n（选项B）β-淀粉样蛋白沉积发生在阿尔茨海默病痴呆中，阿尔茨海默病通常表现为早期和显著的记忆障碍，伴有语言缺陷和空间定向障碍。其特点是功能缓慢（数年到数十年）下降直至死亡。\n\n（选项C）磷酸化tau蛋白形成配对的螺旋丝，产生细胞内神经原纤维缠结。这既见于阿尔茨海默病，也见于额颞叶痴呆。尽管这些疾病中可能发生记忆障碍和行为改变，但该患者的肌阵挛和快速进展直至死亡更符合CJD。\n\n（选项E）朊病毒病是唯一已知可通过蛋白质传播的疾病。朊病毒异构体不含核酸。虽然HIV（一种RNA病毒）可引起痴呆，但它通常引起轻度、亚急性认知障碍，没有肌阵挛。"
+  },
+  "summary": {
+    "en": "The patient presented with rapidly progressive dementia, myoclonus, and brain atrophy, consistent with Creutzfeldt-Jakob disease (CJD). CJD is caused by prions, which are misfolded proteins (PrPSc) resistant to proteases. Histologic analysis would show accumulation of these protease-resistant proteins.",
+    "zh": "患者表现为快速进展性痴呆、肌阵挛和脑萎缩，与克雅病(CJD)一致。CJD是由朊病毒引起的，朊病毒是耐蛋白酶的错误折叠的蛋白质（PrPSc）。组织学分析将显示这些耐蛋白酶蛋白的积累。"
+  },
+  "tags": [
+    "neurology",
+    "dementia",
+    "prion disease",
+    "CJD",
+    "neurodegeneration"
+  ],
+  "category": "Neuro",
+  "question_id": "911",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\911",
+  "extracted_at": "2025-11-05T19:42:27.342625",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:43:51.296364",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

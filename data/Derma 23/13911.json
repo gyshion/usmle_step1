@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 29-year-old man is evaluated for a skin rash involving his hands, feet, and scalp for the last 2 weeks. The rash is mildly pruritic and has progressively worsened. The patient has a history of HIV and is not adherent with antiretroviral therapy. Skin examination shows erythematous patches with scales and crusting. Biopsy of the rash shows organisms burrowed in the epidermis, as shown below: {{exhibit_1}}",
+    "zh": "一名29岁男性因皮肤皮疹就诊，皮疹累及双手、双足和头皮，持续2周。皮疹轻度瘙痒，并逐渐加重。患者有HIV病史，且未坚持抗逆转录病毒治疗。皮肤检查显示红斑性斑片，伴有鳞屑和结痂。皮疹活检显示有机体在表皮中挖洞，如下所示：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate treatment for this patient?",
+    "zh": "以下哪项是该患者最合适的治疗方法？"
+  },
+  "options": {
+    "A": {
+      "en": "Systemic acyclovir",
+      "zh": "全身性阿昔洛韦"
+    },
+    "B": {
+      "en": "Systemic terbinafine",
+      "zh": "全身性特比萘芬"
+    },
+    "C": {
+      "en": "Topical glucocorticoid",
+      "zh": "局部糖皮质激素"
+    },
+    "D": {
+      "en": "Topical mupirocin",
+      "zh": "局部莫匹罗星"
+    },
+    "E": {
+      "en": "Topical permethrin",
+      "zh": "局部扑灭司林"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Scabies is a skin infection caused by the human itch mite, Sarcoptes scabiei. Transmission occurs from prolonged skin-to-skin contact with an infected individual but may occasionally occur due to contact with contaminated fomites (eg, bedsheets, clothing). Mites burrow under the epidermis and evoke a delayed-type hypersensitivity reaction to mite feces and eggs, which leads to an intensely pruritic rash. The mites can often be seen on microscopy {{exhibit_2}}. \n\nClassic scabies is associated with a mild mite burden (10-15 mites). Patients usually have several small erythematous papules on the sides/webs of the fingers, wrists, elbows, axillae, waist, and genitalia. Excoriations and burrows (thin, serpiginous red tracks) may be seen. In contrast, patients with impaired cell-mediated immunity (eg, HIV) are unable to contain the infection and usually develop crusted scabies, which is associated with thousands or millions of mites. These patients often have mild pruritus (because the inflammatory response is muted) and several erythematous patches with scaling and crusting. {{exhibit_3}}\n\nTreatment is required to prevent discomfort, transmission, and potential complications (eg, secondary bacterial infection). First-line therapy includes topical permethrin, which blocks mite neurotransmission by impairing voltage-gated sodium channels. Oral ivermectin, an antiparasitic agent that binds chloride ion channels in invertebrate nerve and muscle cells, is an alternate medication for classic scabies that is used in combination with permethrin for crusted scabies. {{exhibit_4}}\n\n(Choice A) Oral acyclovir is used for human herpes simplex virus outbreaks, which are usually characterized by vesicular lesions on an erythematous base. The orolabial mucosa and genital area are affected most commonly. Histopathology would show epidermal blisters with acantholysis and multinucleated cells. {{exhibit_5}}\n\n(Choice B) Oral terbinafine can be used for patients with dermatophytic infections of the skin. Dermatophytes often cause an erythematous scaly rash and erosions. Microscopy typically reveals fungal spores and/or hyphae. {{exhibit_6}}\n\n(Choice C) Psoriasis is a chronic inflammatory skin condition that can be treated with topical glucocorticoids. It is usually associated with symmetric, sharply defined skin plaques with overlying scales on the extensor elbows, knees, and scalp. Microscopy generally shows uniform epidermal hyperplasia, parakeratosis, dilated capillaries in the papillary dermis, and perivascular lymphocytes. {{exhibit_7}}\n\n(Choice D) Topical mupirocin is used for the treatment of impetigo, a superficial bacterial infection caused by Staphylococcus aureus and Streptococcus pyogenes. The condition typically presents as a localized papulovesicular rash with surrounding erythema and adherent golden crusts involving the face or extremities.\n\nEducational objective:\nScabies is a human mite infection associated with a pruritic papular rash with excoriations and burrows. Patients with impaired cell-mediated immunity (eg, HIV) often develop a very high mite burden. Treatment with topical permethrin and/or ivermectin is generally curative.",
+    "zh": "疥疮是由人疥螨（Sarcoptes scabiei）引起的皮肤感染。其传播通过与感染者的长时间皮肤接触，但偶尔也可能由于接触被污染的物体（如床单、衣物）而发生。螨虫钻入表皮下，引起对螨虫粪便和虫卵的迟发型超敏反应，从而导致剧烈瘙痒的皮疹。螨虫通常可以在显微镜下看到 {{exhibit_2}}。\n\n典型疥疮与轻度螨虫负荷（10-15只螨虫）相关。患者通常在手指侧面/指蹼、手腕、肘部、腋窝、腰部和生殖器上出现几个小的红斑性丘疹。可见抓痕和隧道（细长、蛇形的红色痕迹）。相反，细胞介导免疫受损的患者（如HIV感染者）无法控制感染，通常会发展为结痂性疥疮，这与成千上万只螨虫相关。这些患者通常有轻度瘙痒（因为炎症反应被抑制）和几个红斑性斑片，伴有鳞屑和结痂。 {{exhibit_3}}\n\n需要治疗以防止不适、传播和潜在并发症（如继发性细菌感染）。一线治疗包括局部扑灭司林，它通过损害电压门控钠通道来阻断螨虫神经传递。口服伊维菌素是一种抗寄生虫药物，可与无脊椎动物神经和肌肉细胞中的氯离子通道结合，是经典疥疮的替代药物，与扑灭司林联合用于结痂性疥疮。 {{exhibit_4}}\n\n（选项A）口服阿昔洛韦用于人类单纯疱疹病毒爆发，其通常以红斑基底上的水疱性病变作为特征。口周黏膜和生殖器区域受累最为常见。组织病理学显示表皮水疱伴有棘细胞松解和多核细胞。 {{exhibit_5}}\n\n（选项B）口服特比萘芬可用于患有皮肤癣菌感染的患者。皮肤癣菌通常引起红斑性鳞屑状皮疹和糜烂。显微镜下通常显示真菌孢子和/或菌丝。 {{exhibit_6}}\n\n（选项C）银屑病是一种慢性炎症性皮肤病，可用局部糖皮质激素治疗。它通常与伸侧肘部、膝盖和头皮上覆有鳞屑的对称、界限清晰的皮肤斑块相关。显微镜下通常显示均匀的表皮增生、角化不全、乳头真皮中的毛细血管扩张和血管周围淋巴细胞。 {{exhibit_7}}\n\n（选项D）局部莫匹罗星用于治疗脓疱病，这是一种由金黄色葡萄球菌和化脓性链球菌引起的浅表细菌感染。该病通常表现为局限性丘疱疹，伴有周围红斑和累及面部或四肢的粘附性金色结痂。\n\n教学目标：疥疮是一种人螨感染，与瘙痒性丘疹、抓痕和隧道相关。细胞介导免疫受损的患者（如HIV感染者）通常会发展出非常高的螨虫负荷。用局部扑灭司林和/或伊维菌素治疗通常可治愈。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of scabies presentation, diagnosis, and treatment, particularly in the context of HIV infection. It requires recognizing the characteristic skin findings and understanding the appropriate first-line treatment. \n\nTo solve this question, identify the key features of scabies (pruritic rash, burrows, scaling) and consider the patient's HIV status, which increases the risk of crusted scabies. Then, select the treatment that targets the underlying cause (mites) and is appropriate for scabies.",
+    "zh": "此问题测试对疥疮表现、诊断和治疗的了解，特别是在HIV感染的背景下。它需要识别特征性皮肤表现，并了解合适的一线治疗方法。\n\n要解决此问题，请确定疥疮的关键特征（瘙痒性皮疹、隧道、鳞屑），并考虑患者的HIV状况，这会增加结痂性疥疮的风险。然后，选择针对根本原因（螨虫）并适用于疥疮的治疗方法。"
+  },
+  "tags": "Scabies; Sarcoptes scabiei; Pruritus; Skin infection; HIV; Crusted scabies; Permethrin; Ivermectin; Dermatology; Infectious disease",
+  "category": "Derma",
+  "question_id": "13911",
+  "has_exhibits": true,
+  "exhibit_count": 7,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\13911",
+  "extracted_at": "2025-11-05T13:52:49.533619",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:33:40.283587",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

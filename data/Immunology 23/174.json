@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 75-year-old man comes to the urgent care center with acute onset of a pruritic rash after eating strawberries. The patient has no associated swelling in or around the mouth, no wheezing, and no difficulty breathing. Past medical history is notable for coronary artery disease, for which he takes atorvastatin, lisinopril, aspirin, and metoprolol. He also has a history of allergy to dog and cat dander. The patient does not use alcohol or tobacco. His family reports that he lives alone and his functional status has been declining. He walks with a cane, has poor vision, and is frequently forgetful. The patient also has occasional dizziness when standing up and a history of frequent falls.",
+    "zh": "一名75岁男性因进食草莓后突发瘙痒性皮疹来到急诊中心。患者无口腔周围肿胀、喘息或呼吸困难。既往病史值得关注的是冠心病，正在服用阿托伐他汀、赖诺普利、阿司匹林和美托洛尔。他也有对猫狗皮屑的过敏史。患者不饮酒或吸烟。他的家人报告说，他独居，功能状态正在下降。他拄着拐杖行走，视力不好，并且经常健忘。患者站立时偶尔也会感到头晕，并有频繁跌倒的病史。"
+  },
+  "question": {
+    "en": "Which of the following would be the most appropriate medication to treat this patient's acute symptoms?",
+    "zh": "以下哪种药物最适合治疗该患者的急性症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Chlorpheniramine",
+      "zh": "氯苯那敏"
+    },
+    "B": {
+      "en": "Diphenhydramine",
+      "zh": "苯海拉明"
+    },
+    "C": {
+      "en": "Hydroxyzine",
+      "zh": "羟嗪"
+    },
+    "D": {
+      "en": "Loratadine",
+      "zh": "氯雷他定"
+    },
+    "E": {
+      "en": "Promethazine",
+      "zh": "异丙嗪"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient, with an acute, pruritic rash and history of environmental allergies, has a typical presentation of urticaria (hives). Hives are triggered in most cases by IgE-dependent mast cell degranulation. As histamine is one of the primary mediators in this type of allergic reaction, antihistamines (ie, H1 histamine receptor antagonists) are the preferred treatment in most cases.\n\nThe side effects of antihistamines are largely due to blockade of other pathways, especially:\n\n*   Cholinergic/muscarinic (blurry vision, exacerbation of glaucoma, urine retention, delirium, constipation)\n*   Alpha-adrenergic (postural dizziness, falls)\n*   Serotonergic (appetite stimulation, weight gain)\n\nThese side effects are especially prominent with first-generation antihistamines (eg, hydroxyzine, promethazine, chlorpheniramine, diphenhydramine) (Choices A, B, C and E). Furthermore, first-generation antihistamines are lipophilic and easily cross the blood-brain barrier, where they may cause significant sedation and cognitive dysfunction. First-generation antihistamines are considered potentially inappropriate medications for elderly patients, especially those with pre-existing cognitive or functional impairment.\n\nNewer-generation antihistamines (eg, loratadine, cetirizine) do not have the same degree of antimuscarinic, antiserotonergic, or anti-adrenergic properties and their side effects are minimal. Moreover, second-generation antihistamines are less lipophilic, do not readily cross the blood-brain barrier, and are usually nonsedating.\n\nEducational objective:\nFirst-generation antihistamines can cause significant side effects due to blockade of cholinergic, alpha-adrenergic, and serotonergic pathways. They should be avoided in older patients with cognitive or functional impairments.",
+    "zh": "该患者出现急性瘙痒性皮疹，并有环境过敏史，是典型的荨麻疹表现。荨麻疹在大多数情况下由IgE依赖性肥大细胞脱颗粒引起。由于组胺是此类过敏反应的主要介质之一，因此在大多数情况下，抗组胺药（即，H1组胺受体拮抗剂）是首选治疗方法。\n\n抗组胺药的副作用主要是由于阻断了其他通路，特别是：\n\n*   胆碱能/毒蕈碱能（视力模糊、青光眼加重、尿潴留、谵妄、便秘）\n*   α-肾上腺素能（体位性头晕、跌倒）\n*   5-羟色胺能（食欲刺激、体重增加）\n\n这些副作用在第一代抗组胺药（例如，羟嗪、异丙嗪、氯苯那敏、苯海拉明）（选项A、B、C和E）中尤其明显。此外，第一代抗组胺药具有亲脂性，容易穿过血脑屏障，可能引起明显的镇静和认知功能障碍。第一代抗组胺药被认为对老年患者来说是潜在的不合适的药物，尤其是那些存在认知或功能障碍的患者。\n\n新一代抗组胺药（例如，氯雷他定、西替利嗪）不具有相同程度的抗毒蕈碱、抗5-羟色胺或抗肾上腺素能特性，其副作用很小。此外，第二代抗组胺药亲脂性较低，不易穿过血脑屏障，并且通常不具有镇静作用。\n\n教学目标：\n第一代抗组胺药由于阻断了胆碱能、α-肾上腺素能和5-羟色胺能通路，可引起明显的副作用。应避免在有认知或功能障碍的老年患者中使用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of appropriate antihistamine selection in elderly patients, considering potential side effects and drug interactions. It emphasizes the importance of choosing second-generation antihistamines over first-generation antihistamines in older adults due to their reduced anticholinergic and sedative effects. \n\nTo solve this question, recognize the patient's urticaria presentation and the need for antihistamine treatment. Then, consider the patient's age, cognitive decline, and fall risk to prioritize a second-generation antihistamine with fewer side effects.",
+    "zh": "本题考察老年患者中适当抗组胺药的选择知识，同时考虑潜在的副作用和药物相互作用。它强调了在老年人中选择第二代抗组胺药而非第一代抗组胺药的重要性，因为它们具有降低的抗胆碱能和镇静作用。\n\n要解决这个问题，需要识别患者的荨麻疹表现，并了解需要抗组胺药治疗。然后，考虑患者的年龄、认知能力下降和跌倒风险，以优先选择副作用较少的第二代抗组胺药。"
+  },
+  "tags": "Urticaria; Antihistamines; Drug selection; Elderly patients; Adverse drug effects; Second-generation antihistamines; First-generation antihistamines; Allergy; H1 receptor antagonists",
+  "category": "Immunology",
+  "question_id": "174",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\174",
+  "extracted_at": "2025-11-05T14:40:47.888279",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:00:46.715183",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

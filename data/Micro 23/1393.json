@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 5-week-old girl is brought to the emergency department due to several hours of fever, irritability, and vomiting. This morning she was warm to the touch and refused to drink. Her temperature is 40.1 C (104.2 F). Lumbar puncture reveals cerebrospinal fluid pleocytosis; additional fluid is sent for Gram stain and culture. Empiric cefotaxime and vancomycin therapy is initiated. However, no clinical improvement is seen. Cerebrospinal fluid culture yields an organism that is resistant to cefotaxime.",
+    "zh": "一名 5 周大的女婴因发烧、烦躁和呕吐数小时被送往急诊科。今天早上，她摸起来很烫，拒绝喝水。她的体温为 40.1°C (104.2°F)。腰椎穿刺显示脑脊液细胞增多；额外的液体被送去进行革兰染色和培养。开始经验性头孢噻肟和万古霉素治疗。然而，没有看到临床改善。脑脊液培养产生对头孢噻肟耐药的微生物。"
+  },
+  "question": {
+    "en": "Which of the following organisms is most likely causing this patient's infection?",
+    "zh": "以下哪种病原体最有可能导致该患者的感染？"
+  },
+  "options": {
+    "A": {
+      "en": "Haemophilus influenzae",
+      "zh": "流感嗜血杆菌"
+    },
+    "B": {
+      "en": "Listeria monocytogenes",
+      "zh": "单核细胞增生李斯特菌"
+    },
+    "C": {
+      "en": "Neisseria meningitidis",
+      "zh": "脑膜炎奈瑟菌"
+    },
+    "D": {
+      "en": "Streptococcus agalactiae",
+      "zh": "无乳链球菌"
+    },
+    "E": {
+      "en": "Streptococcus pneumoniae",
+      "zh": "肺炎链球菌"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This infant with high fever, irritability, vomiting, and cerebrospinal fluid pleocytosis has meningitis. Empiric treatment with cefotaxime and vancomycin would cover the majority of likely pathogens in this age group including Streptococcus pneumoniae, Neisseria meningitidis, Haemophilus influenzae, group B streptococcus, and Escherichia coli. However, it would not cover Listeria monocytogenes, which has intrinsic resistance to third-generation cephalosporins (eg, cefotaxime, ceftriaxone) due to the presence of penicillin-binding proteins that have a low-affinity for this drug class. Coverage of Listeria requires the addition of ampicillin, a beta-lactam antibiotic with a specialized side-group that allows it to bind to and inactivate the penicillin binding proteins of Listeria.\n\n(Choice A) Although many Haemophilus influenzae organisms produce beta lactamases, they are effectively treated with a beta lactam/beta lactamase inhibitor (eg, amoxicillin/clavulanate) or with third-generation cephalosporins.\n\n(Choice C) Neisseria meningitidis is effectively treated with third-generation cephalosporins.\n\n(Choice D) Streptococcus agalactiae (group B Streptococcus) is universally susceptible to ampicillin or penicillin as well as third-generation cephalosporins.\n\n(Choice E) Streptococcus pneumoniae is the most common cause of meningitis in older infants and children. Although this organism has increasing penicillin and cephalosporin resistance, vancomycin provides effective coverage (and would result in symptomatic improvement).\n\nEducational objective:\nAmpicillin is the treatment of choice for Listeria, which is not sensitive to cephalosporins. Listeria most commonly causes disease in those with deficient cell-mediated immunity, such as young infants or immunocompromised patients.",
+    "zh": "这名患有高烧、烦躁、呕吐和脑脊液细胞增多的婴儿患有脑膜炎。经验性使用头孢噻肟和万古霉素治疗将覆盖该年龄组的大多数可能病原体，包括肺炎链球菌、脑膜炎奈瑟菌、流感嗜血杆菌、B 群链球菌和大肠杆菌。然而，它不会覆盖单核细胞增生李斯特菌，该菌对第三代头孢菌素（例如，头孢噻肟、头孢曲松）具有内在耐药性，这是由于存在对该类药物具有低亲和力的青霉素结合蛋白。覆盖李斯特菌需要加入氨苄西林，这是一种 β-内酰胺类抗生素，具有特殊的侧基，使其能够与李斯特菌的青霉素结合蛋白结合并使其失活。\n\n(选项 A) 虽然许多流感嗜血杆菌产生 β-内酰胺酶，但它们可以通过 β-内酰胺/β-内酰胺酶抑制剂（例如，阿莫西林/克拉维酸）或第三代头孢菌素有效治疗。\n\n(选项 C) 脑膜炎奈瑟菌可以通过第三代头孢菌素有效治疗。\n\n(选项 D) 无乳链球菌（B 群链球菌）普遍对氨苄西林或青霉素以及第三代头孢菌素敏感。\n\n(选项 E) 肺炎链球菌是较大婴儿和儿童脑膜炎最常见的原因。尽管这种生物体对青霉素和头孢菌素的耐药性越来越强，但万古霉素可提供有效的覆盖（并将导致症状改善）。\n\n教育目标：\n氨苄西林是李斯特菌的首选治疗方法，李斯特菌对头孢菌素不敏感。李斯特菌最常引起细胞介导免疫缺陷的人的疾病，例如幼儿或免疫功能低下的患者。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of common causes of meningitis in infants and their antibiotic sensitivities, specifically focusing on Listeria monocytogenes' intrinsic resistance to cephalosporins. It also assesses the appropriate empiric antibiotic coverage for meningitis in this age group.\n\nTo solve this question, recognize the patient's age and symptoms of meningitis, then consider the antibiotic resistance patterns of common causative organisms. Remember that Listeria monocytogenes is intrinsically resistant to cephalosporins and requires ampicillin for coverage.",
+    "zh": "这个问题测试了对婴儿脑膜炎常见病因及其抗生素敏感性的知识，特别是侧重于单核细胞增生李斯特菌对头孢菌素的内在耐药性。它还评估了该年龄组脑膜炎的适当经验性抗生素覆盖。\n\n要解决这个问题，需要认识到患者的年龄和脑膜炎的症状，然后考虑常见病原体的抗生素耐药性模式。请记住，单核细胞增生李斯特菌对头孢菌素具有内在耐药性，需要使用氨苄西林进行覆盖。"
+  },
+  "tags": "Meningitis; Listeria monocytogenes; Antibiotic resistance; Cephalosporins; Ampicillin; Pediatrics; Infectious disease; Cerebrospinal fluid; Pleocytosis",
+  "category": "Micro",
+  "question_id": "1393",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1393",
+  "extracted_at": "2025-11-05T14:53:20.806805",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:06:57.388864",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

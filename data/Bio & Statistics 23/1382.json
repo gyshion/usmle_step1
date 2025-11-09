@@ -1,0 +1,53 @@
+{
+  "question_stem": {
+    "en": "The resting membrane potential for an isolated muscle cell is -70 mV. Equilibrium potentials for important ions are given below:\n\nENa = + 60 mV\nEK = - 80 mV\nECl = - 70 mV\nECa = + 125 mV",
+    "zh": "静息膜电位为 -70 mV 的离体肌细胞。重要离子的平衡电位如下：\n\nENa = + 60 mV\nEK = - 80 mV\nECl = - 70 mV\nECa = + 125 mV"
+  },
+  "question": {
+    "en": "Which of the following most likely forms the resting membrane potential of the cell?",
+    "zh": "以下哪项最可能形成细胞的静息膜电位？"
+  },
+  "options": {
+    "A": {
+      "en": "High potassium conductance and some sodium conductance",
+      "zh": "高钾电导和一些钠电导"
+    },
+    "B": {
+      "en": "High chloride conductance and some sodium conductance",
+      "zh": "高氯离子电导和一些钠电导"
+    },
+    "C": {
+      "en": "High calcium conductance and some chloride conductance",
+      "zh": "高钙电导和一些氯离子电导"
+    },
+    "D": {
+      "en": "High potassium conductance and some chloride conductance",
+      "zh": "高钾电导和一些氯离子电导"
+    },
+    "E": {
+      "en": "High potassium conductance only",
+      "zh": "仅高钾电导"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The resting potential refers to the difference in charge across the cell membrane at rest (when there is no signaling activity). The membrane prevents the free diffusion of ions, and generally there is an excess of positive ions outside the cell and an excess of negative ions in the cytoplasm. This separation of positive and negative charges across the cell membrane gives rise to an electrical potential difference that ranges from -60 to -80 mV; the typical resting membrane potential of a cell is -70 mV.\n\nThe cytoplasm of a typical cell is characterized by a low concentration of Na and high concentration of K. The extracellular fluid is inversely rich in Na and low in K. This difference in Na and K concentration is maintained by the Na,K-ATPase, which pumps three Na ions out of the cell for every 2 K ions allowed into the cell.\n\nEvery charged ion that the cell membrane is permeable attempts to push the resting membrane potential of the cell toward its equilibrium potential. The resting membrane potential can therefore be viewed as a combination of the equilibrium potentials of the ions that can penetrate the cell membrane. Each permeable ion does not contribute equally to the membrane potential; it is obvious that the resting membrane potential does not equal the average of the different equilibrium potentials. The greater the permeability of a given ion, the greater its contribution to the resting membrane potential will be. Ions with little permeability will contribute very little to the resting membrane potential. In the resting cell the permeability of the membrane for K is much higher than that for Na. Outflow of K ions through non-gated channels maintains the negative charge inside the membrane, which approaches the equilibrium potential for K. There are, however, a small number of channels that allow the flow of Na into the cell. This small influx of Na ions decreases the membrane potential, and for this reason the resting potential of the membrane is always less negative than the equilibrium potential for K (Choice A).\n\n(Choice B) If the chloride equilibrium potential is -70 mV and the resting membrane potential is -70 mV, then chloride would need to be the only membrane permeable ion with no contribution from other ions. Chloride, in reality, plays little role in the determination of the membrane potential.\n\n(Choice C) High calcium conductance would make the resting membrane potential positive, and the question stem states that the membrane potential is -70 mV.\n\n(Choice D) High potassium conductance does occur at rest and is the largest contributor to the resting membrane potential. Chloride plays little to no role in the determination of the membrane potential.\n\n(Choice E) If a high potassium conductance were the only contributor to the resting membrane potential, then the membrane potential would be the same as the potassium equilibrium potential.\n\nEducational Objective:\nThe resting membrane potential is the difference in the electrical charges across the cell membrane under steady-state conditions. The ions that are most permeable to the cell membrane make the largest contribution to the resting membrane potential. In general, a high potassium efflux and some sodium influx are responsible for the value of the resting potential, which is typically about -70 mV.",
+    "zh": "静息电位是指细胞膜在静息状态（没有信号传导活动时）的电荷差。细胞膜阻止离子的自由扩散，通常细胞外存在过多的正离子，而细胞质中存在过多的负离子。这种细胞膜内外正负电荷的分离产生电位差，范围为 -60 至 -80 mV；细胞的典型静息膜电位为 -70 mV。\n\n典型细胞的细胞质特点是 Na 浓度低，K 浓度高。细胞外液则相反，富含 Na 而 K 浓度低。Na 和 K 浓度的这种差异由 Na,K-ATP 酶维持，该酶将 3 个 Na 离子泵出细胞，同时允许 2 个 K 离子进入细胞。\n\n细胞膜通透的每个带电离子都试图将细胞的静息膜电位推向其平衡电位。因此，静息膜电位可以看作是可以穿透细胞膜的离子的平衡电位的组合。每个可渗透的离子对膜电位的贡献并不相等；很明显，静息膜电位不等于不同平衡电位的平均值。给定离子的渗透性越大，其对静息膜电位的贡献就越大。渗透性小的离子对静息膜电位的贡献很小。在静息细胞中，膜对 K 的通透性远高于对 Na 的通透性。K 离子通过非门控通道外流维持膜内的负电荷，接近 K 的平衡电位。然而，存在少量允许 Na 流入细胞的通道。这种少量的 Na 离子内流降低了膜电位，因此，膜的静息电位总是比 K 的平衡电位更负（选项 A）。\n\n（选项 B）如果氯离子的平衡电位为 -70 mV，而静息膜电位为 -70 mV，那么氯离子将需要成为唯一具有膜通透性的离子，而其他离子没有贡献。实际上，氯离子在膜电位的确定中起的作用很小。\n\n（选项 C）高钙电导会使静息膜电位为正，而问题陈述指出膜电位为 -70 mV。\n\n（选项 D）高钾电导确实发生在静息状态，并且是静息膜电位的最大贡献者。氯离子在膜电位的确定中几乎没有作用。\n\n（选项 E）如果高钾电导是静息膜电位的唯一贡献者，那么膜电位将与钾的平衡电位相等。\n\n教育目标：\n静息膜电位是在稳态条件下细胞膜两侧电荷的差异。对细胞膜最通透的离子对静息膜电位的贡献最大。一般来说，高钾外流和一些钠内流是静息电位值（通常约为 -70 mV）的原因。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the resting membrane potential and the contribution of different ions to its value. It requires understanding of ion permeability, equilibrium potentials, and the role of the Na+/K+ ATPase pump.\n\nTo solve this question, recall that the resting membrane potential is primarily determined by the ion with the highest permeability (potassium), but other ions (sodium) also contribute. Consider the equilibrium potentials of each ion and how their movement across the membrane affects the overall charge.",
+    "zh": "本题考察对静息膜电位的知识以及不同离子对其值的贡献。它需要理解离子通透性、平衡电位以及 Na+/K+ ATP 酶泵的作用。\n\n要解决这个问题，请记住，静息膜电位主要由渗透性最高的离子（钾）决定，但其他离子（钠）也有贡献。考虑每个离子的平衡电位以及它们穿过膜的运动如何影响总电荷。"
+  },
+  "tags": "Resting membrane potential; Equilibrium potential; Ion conductance; Potassium; Sodium; Cell membrane; Electrophysiology",
+  "category": "Bio",
+  "question_id": "1382",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1382",
+  "extracted_at": "2025-11-05T10:34:22.696970",
+  "translated_at": "2025-11-07T16:21:01.054444",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

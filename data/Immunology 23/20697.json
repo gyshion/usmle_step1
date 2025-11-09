@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "An 11-year-old girl is brought to the office for a health maintenance visit. She feels well and has no chronic medical conditions. As part of routine care, the patient receives a first dose of the quadrivalent meningococcal conjugate vaccine and the 9-valent human papillomavirus vaccine. Five minutes later, while being escorted to the waiting area, the patient appears pale and reports feeling dizzy. She immediately loses consciousness, but a fall is prevented by the health care provider. Blood pressure is 70/40 mm Hg and pulse is 46/min. On physical examination, the patient has normal lung and heart sounds. There is no rash. {{exhibit_1}} Which of the following is the most likely cause of this patient's syncope?",
+    "zh": "一名11岁女孩因健康维护就诊。她感觉良好，无慢性疾病。作为常规护理的一部分，患者接受了四价脑膜炎球菌结合疫苗和九价人乳头瘤病毒疫苗的第一剂。五分钟后，在被护送到候诊区时，患者面色苍白，并报告头晕。她立刻失去了意识，但医护人员阻止了跌倒。血压为70/40 mmHg，脉搏为46/min。体格检查显示，患者肺部和心脏听诊正常。无皮疹。{{exhibit_1}} 该患者最可能的晕厥原因是什么？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's syncope?",
+    "zh": "以下哪项是该患者最可能的晕厥原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Delayed-type hypersensitivity reaction to the vaccine",
+      "zh": "对疫苗的迟发型超敏反应"
+    },
+    "B": {
+      "en": "Excessive cytokine response to vaccine microbial components",
+      "zh": "对疫苗微生物成分的过度细胞因子反应"
+    },
+    "C": {
+      "en": "IgE-mediated hypersensitivity reaction to vaccine allergen",
+      "zh": "IgE介导的对疫苗过敏原的超敏反应"
+    },
+    "D": {
+      "en": "Stress-induced cardioinhibitory and vasodepressor response",
+      "zh": "应激诱发的抑制心脏和血管舒张反应"
+    },
+    "E": {
+      "en": "Systemic invasion by live attenuated microbial agents",
+      "zh": "活减毒微生物制剂的全身侵袭"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient most likely experienced vasovagal syncope, which involves a pain-induced or an emotional distress–induced cardioinhibitory and vasodepressor response. Vaccine administration is a known precipitant of vasovagal syncope, especially in adolescents. Because syncope-related falls can lead to serious injury (eg, skull fractures, intracranial hemorrhage), patients should be closely monitored for 15 minutes following vaccine administration.\n\n Patients  {{exhibit_2}}",
+    "zh": "该患者最有可能经历了血管迷走神经性晕厥，这涉及疼痛诱发或情绪困扰诱发的心脏抑制和血管舒张反应。疫苗接种是血管迷走神经性晕厥的已知诱因，尤其是在青少年中。由于与晕厥相关的跌倒可能导致严重损伤（例如，颅骨骨折、颅内出血），因此应在疫苗接种后密切监测患者15分钟。\n\n 患者  {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "An 11-year-old girl experiences syncope shortly after receiving vaccines. The most likely cause is vasovagal syncope due to a stress-induced cardioinhibitory and vasodepressor response.",
+    "zh": "一名11岁女孩在接种疫苗后不久出现晕厥。最可能的原因是由于应激诱发的抑制心脏和血管舒张反应引起的血管迷走神经性晕厥。"
+  },
+  "tags": [
+    "syncope",
+    "vaccine",
+    "vasovagal",
+    "adolescent",
+    "hypotension"
+  ],
+  "category": "Immunology",
+  "question_id": "20697",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\20697",
+  "extracted_at": "2025-11-05T14:44:47.550910",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:01:30.817478",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

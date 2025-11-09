@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old woman comes to the emergency department due to sudden-onset, severe headache. On arrival, the patient is alert and oriented and has no focal neurological deficits. CT scan of the head reveals subarachnoid hemorrhage, and she is admitted to the critical care unit. Over the next several hours, the patient gradually becomes somnolent and less responsive. She opens her eyes to painful stimuli only and does not follow commands. Repeat imaging of the brain shows no new hemorrhage, but there is enlargement of the entire ventricular system compared to the previous CT scan. {{exhibit_1}} Which of the following is the most likely cause of this patient's neurologic deterioration in the hospital?",
+    "zh": "一名45岁女性因突发性剧烈头痛就诊于急诊科。到达时，患者神志清醒，定向力良好，无局灶性神经功能缺损。头部CT扫描显示蛛网膜下腔出血，并被收治入重症监护病房。在接下来的几个小时内，患者逐渐变得嗜睡，反应迟钝。她只对疼痛刺激睁眼，并且不听从指令。复查脑部影像学检查未见新发出血，但与之前的CT扫描相比，整个脑室系统扩大。{{exhibit_1}} 以下哪项最可能是导致该患者在医院神经功能恶化的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's neurologic deterioration in the hospital?",
+    "zh": "以下哪项最可能是导致该患者在医院神经功能恶化的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Blockage of the cerebral aqueduct by blood products",
+      "zh": "脑导水管被血液产物阻塞"
+    },
+    "B": {
+      "en": "Cerebral vasospasm due to subarachnoid blood",
+      "zh": "蛛网膜下腔出血引起的脑血管痉挛"
+    },
+    "C": {
+      "en": "Edema from a disruption in the blood-brain barrier",
+      "zh": "血脑屏障破坏引起的脑水肿"
+    },
+    "D": {
+      "en": "Excessive production of cerebrospinal fluid",
+      "zh": "脑脊液过度产生"
+    },
+    "E": {
+      "en": "Impaired absorption of cerebrospinal fluid",
+      "zh": "脑脊液吸收受损"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient with a worsening neurologic status has enlargement of the ventricles on CT scan, consistent with HYDROCEPHALUS, a common complication of subarachnoid hemorrhage (SAH). Blood in the subarachnoid space can acutely obstruct and impair absorption of cerebral spinal fluid (CSF) by the arachnoid granulations. Later, blood-induced inflammation can cause fibrosis of the arachnoid granulations that perpetuates the absorption impairment and leads to chronic hydrocephalus. {{exhibit_2}} Impaired CSF absorption creates a communicating hydrocephalus. Because the blockage is flow is distal to the entire ventricular system, enlargement of all 4 ventricles occurs. The ventricular enlargement stretches adjacent nerve fibers and, in the acute setting, leads to deteriorating mental status (eg, somnolence, unresponsiveness). Treatment involves the placement of an external ventricular drain to relieve pressure in the ventricular system and subarachnoid space. {{exhibit_3}}\n\n(Choice A) Blockage of the cerebral aqueduct (aqueduct of Sylvius) is less common with SAH and more typically occurs with intracerebral hemorrhage complicated by intraventricular bleeding. The resulting hydrocephalus is noncommunicating because there is no free passage of CSF from the ventricular space into the subarachnoid space. Enlargement of only the lateral and third ventricles is expected; the fourth ventricle is distal to the obstruction and remains normal in size.\n\n(Choice B) Cerebral vasospasm is a common complication of SAH; however, it is typically delayed, occurring 4-14 days following the initial bleed, and leads to localized stroke with focal neurologic deficits rather than deteriorating mental status. Dilated ventricles are not seen.\n\n(Choice C) Edema that occurs due to disruption of the blood-brain barrier (vasogenic cerebral edema) collects within the brain parenchyma and can result from stroke or trauma. It is not expected following SAH.\n\n(Choice D) Excessive CSF production is a rare cause of communicating hydrocephalus that may result from a choroid plexus papilloma. Enlargement of all 4 ventricles is expected, but this patient's SAH makes impaired absorption of CSF far more likely.\n\nEducational objective:\nCommunicating hydrocephalus is a common complication of subarachnoid hemorrhage that presents with deteriorating mental status. It typically results from blood-induced impairment of absorption of cerebrospinal fluid by the arachnoid granulations.",
+    "zh": "该患者神经功能恶化，CT扫描显示脑室扩大，这与脑积水一致，而脑积水是蛛网膜下腔出血 (SAH) 的常见并发症。蛛网膜下腔中的血液可以急性阻塞并损害脑脊液 (CSF) 被蛛网膜颗粒的吸收。之后，血液引起的炎症可导致蛛网膜颗粒纤维化，从而加剧吸收障碍并导致慢性脑积水。{{exhibit_2}} 脑脊液吸收受损会产生交通性脑积水。由于阻塞位于整个脑室系统的远端，所有4个脑室都会扩大。脑室扩大拉伸相邻的神经纤维，在急性情况下，导致精神状态恶化（例如，嗜睡、无反应）。治疗包括放置脑室外引流管以缓解脑室系统和蛛网膜下腔的压力。{{exhibit_3}}\n\n(选项A) 脑导水管（Sylvius导水管）阻塞在 SAH 中不太常见，更常见于并发脑室内出血的脑内出血。由此产生的脑积水为非交通性脑积水，因为CSF无法从脑室空间自由进入蛛网膜下腔。预计只有侧脑室和第三脑室扩大；第四脑室位于阻塞的远端，其大小保持正常。\n\n(选项B) 脑血管痉挛是SAH的常见并发症；然而，它通常会延迟发生，在初始出血后的4-14天发生，并导致局灶性神经功能缺损的局灶性中风，而不是精神状态恶化。没有看到脑室扩张。\n\n(选项C) 由于血脑屏障破坏而发生的水肿（血管源性脑水肿）积聚在脑实质内，并且可能由中风或外伤引起。预计SAH后不会发生这种情况。\n\n(选项D) 脑脊液过度产生是交通性脑积水的罕见原因，可能由脉络丛乳头状瘤引起。预计所有4个脑室都会扩大，但是该患者的SAH使得CSF吸收受损的可能性更大。\n\n教育目标：\n交通性脑积水是蛛网膜下腔出血的常见并发症，表现为精神状态恶化。它通常是由于血液引起的脑脊液被蛛网膜颗粒的吸收受损造成的。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of complications following subarachnoid hemorrhage, specifically the pathophysiology of hydrocephalus and its impact on neurologic status. It requires differentiating between various causes of increased intracranial pressure and neurologic deterioration in the context of SAH.\n\nThe approach to solving this question involves recognizing the clinical presentation of hydrocephalus (ventricular enlargement with neurologic decline) after SAH. The key is to link the presence of blood in the subarachnoid space to impaired CSF absorption by the arachnoid granulations, leading to communicating hydrocephalus.",
+    "zh": "此题考察了对蛛网膜下腔出血后并发症的理解，特别是脑积水的病理生理学及其对神经系统状态的影响。它需要在 SAH 的背景下区分颅内压升高和神经功能恶化的各种原因。\n\n解决此题的方法包括识别 SAH 后脑积水的临床表现（脑室扩大伴神经功能下降）。关键是将蛛网膜下腔中血液的存在与脉络丛颗粒对 CSF 吸收的损害联系起来，从而导致交通性脑积水。"
+  },
+  "tags": "Subarachnoid hemorrhage; Hydrocephalus; Cerebrospinal fluid absorption; Arachnoid granulations; Communicating hydrocephalus; Neurologic deterioration; CT scan; Neurosurgery",
+  "category": "Neuro",
+  "question_id": "18543",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\18543",
+  "extracted_at": "2025-11-05T19:37:11.950656",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:36:28.024792",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

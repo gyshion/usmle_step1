@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man with type 2 diabetes mellitus comes to the office due to decreased sexual performance over the last 6 months. The patient says his libido, muscle strength, and energy level are normal, but his erections are inconsistent, weak, and of inadequate duration for sexual activity. Past medical history is positive for hypertension, but he has no history of coronary artery disease and no suspicious chest pain. Bilateral ankle brachial index testing is within normal limits. The patient is treated with sildenafil, which gives significant improvement in his sexual performance.",
+    "zh": "一名65岁男性，患有2型糖尿病，因过去6个月性功能下降来就诊。患者表示其性欲、肌肉力量和精力水平正常，但勃起不稳定、较弱且持续时间不足以进行性活动。既往病史显示高血压，但无冠心病病史，也无可疑胸痛。双侧踝肱指数检测结果在正常范围内。患者接受西地那非治疗，性功能得到显著改善。"
+  },
+  "question": {
+    "en": "The intracellular signaling of this drug is most similar to that of which of the following substances?",
+    "zh": "这种药物的细胞内信号传导与以下哪种物质最相似？"
+  },
+  "options": {
+    "A": {
+      "en": "1,25-dihydroxycholecalciferol",
+      "zh": "1,25-二羟基胆钙化醇"
+    },
+    "B": {
+      "en": "Brain natriuretic peptide",
+      "zh": "脑钠肽"
+    },
+    "C": {
+      "en": "Gamma-aminobutyric acid",
+      "zh": "γ-氨基丁酸"
+    },
+    "D": {
+      "en": "Insulin",
+      "zh": "胰岛素"
+    },
+    "E": {
+      "en": "Interleukin-2",
+      "zh": "白细胞介素-2"
+    },
+    "F": {
+      "en": "Platelet-derived growth factor",
+      "zh": "血小板衍生生长因子"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Atrial and brain natriuretic peptides (ANP and BNP) are polypeptide hormones that exert their effect by binding ANP receptors. These transmembrane receptors are linked to a guanylyl cyclase that converts guanosine 5'-triphosphate to cyclic guanosine 3',5'-monophosphate (cGMP). cGMP then activates a downstream cGMP-dependent protein kinase, leading to relaxation of vascular smooth muscle and subsequent vasodilation. Nitric oxide activates the same cGMP second messenger system by binding a cytosolic guanylyl cyclase.\n\nPenile erection is initiated by release of acetylcholine and nitric oxide (NO) from parasympathetic fibers, leading to a rise in intracellular cGMP and vasodilation of the arteries supplying the corpus cavernosum. Sildenafil is a phosphodiesterase-5 inhibitor that decreases degradation of cGMP, enhancing the effect of parasympathetic activation in erectile tissues. Because vasodilatory nitrates (eg, nitroglycerin, isosorbide mononitrate) work by releasing NO, coadministration of sildenafil with nitrates can lead to excessive cGMP-induced vasodilation and severe hypotension.\n\n(Choice A) 1,25-dihydroxycholecalciferol is the active form of vitamin D; it is a sterol vitamin that freely crosses cell membranes and interacts with a receptor that primarily resides in the nucleus.\n\n(Choice C) Gamma-aminobutyric acid is an inhibitory neurotransmitter that acts to hyperpolarize nerve cells by binding ligand-gated ion channels or metabotropic receptors.\n\n(Choice D) The insulin receptor consists of 2 alpha and 2 beta subunits. The alpha subunits are extracellular and provide the binding site for insulin. The beta subunits are intracellular and contain tyrosine kinase domains.\n\n(Choice E) Interleukin-2 (IL-2) receptor is a transmembrane protein complex that acts via a multipathway system, including a JAK-STAT signaling component, a MAP kinase pathway, and phosphoinositide 3-kinase.\n\n(Choice F) Platelet-derived growth factor stimulates cell growth and division, including angiogenesis. It acts via a tyrosine kinase receptor.\n\nEducational objective:\nAtrial natriuretic peptide, brain natriuretic peptide, and nitric oxide activate guanylyl cyclase and increase conversion of guanosine 5'-triphosphate to cyclic guanosine 3',5'-monophosphate (cGMP). Phosphodiesterase inhibitors (eg, sildenafil) decrease the degradation of cGMP. Elevated intracellular cGMP levels lead to relaxation of vascular smooth muscle and vasodilation.",
+    "zh": "心房钠肽和脑钠肽（ANP和BNP）是多肽激素，通过与ANP受体结合发挥作用。这些跨膜受体与鸟苷酸环化酶相连，后者将鸟苷5'-三磷酸转化为环磷酸鸟苷3',5'-单磷酸（cGMP）。cGMP随后激活下游的cGMP依赖性蛋白激酶，导致血管平滑肌松弛和随后的血管舒张。一氧化氮通过与胞质鸟苷酸环化酶结合来激活相同的cGMP第二信使系统。\n\n阴茎勃起是由副交感神经纤维释放乙酰胆碱和一氧化氮（NO）引起的，导致细胞内cGMP升高以及为海绵体供血的动脉血管舒张。西地那非是一种磷酸二酯酶-5抑制剂，可降低cGMP的降解，增强勃起组织中副交感神经的激活作用。由于血管扩张性硝酸盐（例如，硝酸甘油、单硝酸异山梨酯）通过释放NO起作用，因此西地那非与硝酸盐同时给药可导致cGMP诱导的过度血管舒张和严重低血压。\n\n(选项A) 1,25-二羟基胆钙化醇是维生素D的活性形式；它是一种甾醇维生素，可自由穿过细胞膜并与主要存在于细胞核中的受体相互作用。\n\n(选项C) γ-氨基丁酸是一种抑制性神经递质，通过与配体门控离子通道或代谢型受体结合使神经细胞超极化。\n\n(选项D) 胰岛素受体由2个α亚基和2个β亚基组成。α亚基位于细胞外，提供胰岛素的结合位点。β亚基位于细胞内，包含酪氨酸激酶结构域。\n\n(选项E) 白细胞介素-2 (IL-2) 受体是一种跨膜蛋白复合物，通过多途径系统发挥作用，包括JAK-STAT信号传导组分、MAP激酶通路和磷酸肌醇3-激酶。\n\n(选项F) 血小板衍生生长因子刺激细胞生长和分裂，包括血管生成。它通过酪氨酸激酶受体发挥作用。\n\n教育目标：\n心房钠肽、脑钠肽和一氧化氮激活鸟苷酸环化酶并增加鸟苷5'-三磷酸转化为环磷酸鸟苷3',5'-单磷酸（cGMP）。磷酸二酯酶抑制剂（例如，西地那非）降低cGMP的降解。细胞内cGMP水平升高导致血管平滑肌松弛和血管舒张。"
+  },
+  "summary": {
+    "en": "This question tests the mechanism of action of sildenafil and its similarity to the signaling pathway of brain natriuretic peptide (BNP). It requires understanding of cGMP's role in vasodilation and the effect of phosphodiesterase-5 inhibitors.\n\nThe key to solving this question is recognizing that sildenafil inhibits phosphodiesterase-5, which increases cGMP levels, leading to vasodilation. BNP also increases cGMP levels through guanylyl cyclase activation, making it the most similar substance.",
+    "zh": "本题考察西地那非的作用机制及其与脑钠肽(BNP)信号通路的相似性。它需要了解cGMP在血管舒张中的作用以及磷酸二酯酶-5抑制剂的影响。\n\n解决此问题的关键是认识到西地那非抑制磷酸二酯酶-5，从而增加cGMP水平，导致血管舒张。BNP也通过鸟苷酸环化酶激活增加cGMP水平，使其成为最相似的物质。"
+  },
+  "tags": "Sildenafil; Erectile dysfunction; Brain natriuretic peptide; cGMP; Phosphodiesterase-5 inhibitors; Guanylyl cyclase; Vasodilation; Nitric oxide; Endocrinology; Urology",
+  "category": "CVS",
+  "question_id": "1118",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1118",
+  "extracted_at": "2025-11-05T11:50:09.350240",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:44:04.708883",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

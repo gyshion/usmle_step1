@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old man has 2 days of fever, cough, sore throat, and runny nose. His temperature is 38 C (100.4 F). Lung sounds are clear to auscultation. A nasopharyngeal swab is obtained. Naked viral particles are seen, and purified RNA molecules are extracted from these particles. Once introduced into human cells, the purified RNA molecules induce viral protein synthesis and viral genome replication.",
+    "zh": "一名23岁的男性出现了发烧、咳嗽、喉咙痛和流鼻涕两天。他的体温为38°C（100.4°F）。肺部听诊清澈。进行鼻咽拭子采样。观察到裸露的病毒颗粒，并从这些颗粒中提取了纯化的RNA分子。一旦引入人体细胞，纯化的RNA分子会诱导病毒蛋白合成和病毒基因组复制。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "以下哪项最可能是导致该患者症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "HIV",
+      "zh": "HIV"
+    },
+    "B": {
+      "en": "Influenza virus type A",
+      "zh": "甲型流感病毒"
+    },
+    "C": {
+      "en": "Respiratory syncytial virus",
+      "zh": "呼吸道合胞病毒"
+    },
+    "D": {
+      "en": "Rhinovirus",
+      "zh": "鼻病毒"
+    },
+    "E": {
+      "en": "Rotavirus",
+      "zh": "轮状病毒"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "For an RNA molecule purified from a virus (ie, without viral capsid or envelope) to be infectious (ie, able to induce viral protein synthesis and genome replication in the host cell) on its own, it must act as mRNA capable of using the host's intracellular machinery for translation. In other words, the purified RNA molecule must be SINGLE-STRANDED (SS) and POSITIVE (+) SENSE, or SS(+). The question describes a naked (ie, nonenveloped) virus with SS(+) RNA. Of the viruses listed, only rhinovirus (a picornavirus) has these features. Generally, only RNA molecules purified from SS(+) viruses are infectious; purified SS negative (–) sense RNA molecules and double-stranded (ds) RNA molecules are not as they require additional enzymes.\n\n(Choice A) HIV is a retrovirus that contains SS(+) RNA. However, viral infectivity requires the action of reverse transcriptase for integration into the host genome; purified RNA by itself cannot cause infection. In addition, HIV is enveloped, unlike the particles isolated from this patient.\n\n(Choices B and C) Influenza A is an orthomyxovirus that contains SS(–) RNA; similarly, respiratory syncytial virus is a paramyxovirus that contains SS(–) RNA. For these viruses to replicate in a host cell, an RNA-dependent RNA polymerase must also gain entry into the host cell.\n\n(Choice E) Rotavirus is a reovirus containing dsRNA. Its purified RNA is therefore incapable of inducing viral protein synthesis in a host cell on its own (ie, it is non-infectious). For this virus to replicate in a host cell, a specific viral RNA polymerase present in the intact virion must also gain entry into the host cell.",
+    "zh": "对于从病毒中纯化的RNA分子（即，没有病毒衣壳或包膜）来说，要具有感染性（即，能够单独诱导宿主细胞中的病毒蛋白合成和基因组复制），它必须充当mRNA，能够利用宿主的细胞内机制进行翻译。换句话说，纯化的RNA分子必须是单链(SS)和正义(+)，或SS(+)。本题描述了一种裸露的（即，无包膜的）病毒，带有SS(+) RNA。在所列出的病毒中，只有鼻病毒（一种小RNA病毒）具有这些特征。通常，只有从SS(+)病毒中纯化的RNA分子才具有感染性；纯化的SS负义(–) RNA分子和双链(ds) RNA分子则不然，因为它们需要额外的酶。\n\n（选项A）HIV是一种逆转录病毒，包含SS(+) RNA。然而，病毒的感染性需要逆转录酶的作用才能整合到宿主基因组中；纯化的RNA本身无法引起感染。此外，HIV是有包膜的，不像从该患者分离出的颗粒。\n\n（选项B和C）甲型流感病毒是一种正粘病毒，包含SS(–) RNA；同样，呼吸道合胞病毒是一种副粘病毒，包含SS(–) RNA。对于这些病毒在宿主细胞中复制，还需要RNA依赖性RNA聚合酶进入宿主细胞。\n\n（选项E）轮状病毒是一种包含dsRNA的呼肠孤病毒。因此，它的纯化RNA本身无法诱导宿主细胞中的病毒蛋白合成（即，它不具有感染性）。对于这种病毒在宿主细胞中复制，完整的病毒颗粒中存在的特定病毒RNA聚合酶也必须进入宿主细胞。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of viral RNA types and their ability to induce infection when purified. Specifically, it assesses understanding of single-stranded positive-sense RNA viruses and their mechanism of action.\n\nThe key to solving this question is recognizing that purified RNA must be able to act directly as mRNA to induce protein synthesis. Therefore, the correct answer must be a single-stranded positive-sense RNA virus that does not require additional enzymes for replication.",
+    "zh": "此题考察了对病毒RNA类型的了解以及它们在纯化后诱导感染的能力。具体来说，它评估了对单链正义RNA病毒及其作用机制的理解。\n\n解决此题的关键是认识到，纯化的RNA必须能够直接充当mRNA来诱导蛋白质合成。因此，正确答案必须是单链正义RNA病毒，它不需要额外的酶来进行复制。"
+  },
+  "tags": "Rhinovirus; RNA virus; Viral replication; Upper respiratory infection; Microbiology; Positive-sense RNA; Single-stranded RNA",
+  "category": "ENT",
+  "question_id": "1373",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\ENT 23\\1373",
+  "extracted_at": "2025-11-05T14:13:33.327393",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:44:18.856552",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

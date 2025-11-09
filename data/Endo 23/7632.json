@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "An 18-month-old boy is brought to clinic due to difficulty walking. The patient began walking around age 12 months but his mother recently noticed he has difficulty maintaining his balance and often falls after a few steps. Weight is at the 15th percentile and height is at the 5th percentile. Examination shows increased tone with occasional muscle spasms in the lower extremities. Abdominal examination shows hepatosplenomegaly. Laboratory results reveal decreased glucocerebrosidase activity. This patient's enzyme deficiency is most likely impairing the function of which of the following organelles?",
+    "zh": "一名18个月大的男孩因行走困难被带到诊所。该患儿大约在12个月大时开始行走，但他的母亲最近注意到他难以保持平衡，并且经常在走了几步后跌倒。体重处于第15百分位数，身高处于第5百分位数。体格检查显示下肢肌张力增高，伴有偶发性肌肉痉挛。腹部检查显示肝脾肿大。实验室结果显示葡萄糖脑苷脂酶活性降低。该患者的酶缺乏症最有可能损害以下哪种细胞器的功能？"
+  },
+  "question": {
+    "en": "This patient's enzyme deficiency is most likely impairing the function of which of the following organelles?",
+    "zh": "该患者的酶缺乏症最有可能损害以下哪种细胞器的功能？"
+  },
+  "options": {
+    "A": {
+      "en": "Golgi apparatus",
+      "zh": "高尔基体"
+    },
+    "B": {
+      "en": "Lysosomes",
+      "zh": "溶酶体"
+    },
+    "C": {
+      "en": "Mitochondria",
+      "zh": "线粒体"
+    },
+    "D": {
+      "en": "Peroxisomes",
+      "zh": "过氧化物酶体"
+    },
+    "E": {
+      "en": "Proteasomes",
+      "zh": "蛋白酶体"
+    },
+    "F": {
+      "en": "Ribosomes",
+      "zh": "核糖体"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Glucocerebrosidase is an acid hydrolase (enzyme active at a low pH) that is found within lysosomes; it is responsible for the breakdown of glucocerebroside, a component of cell membranes. Decreased activity of this enzyme occurs in Gaucher disease and results in the accumulation of glucocerebroside in lysosomes, which disrupts cellular function. Because mononuclear phagocytes (eg, macrophages) engulf cellular debris and extracellular matrix components, they are affected in most lysosomal storage diseases (eg, sphingolipidoses, mucopolysaccharidoses), including Gaucher disease.\n\nIn Gaucher disease, macrophages in the liver, spleen, and bone are predominantly affected, resulting in marked hepatosplenomegaly (as seen here), bone marrow replacement (eg, anemia, thrombocytopenia), bone pain, and poor growth (eg, height ≤5th percentile). The CNS is also susceptible to glucocerebroside accumulation, and some patients may have neurologic manifestations such as this child's spasticity, muscle spasms, and loss of motor skills. {{exhibit_1}}\n\n(Choices A and F) Golgi apparatus defects lead to improper sorting and post-translational glycosylation of cellular proteins, and ribosomal abnormalities would result in deficient protein production. Decreased glucocerebrosidase activity is not associated with such defects.\n\n(Choice C) The mitochondria are responsible for ATP production, and diseases due to abnormal mitochondrial function most commonly lead to muscle weakness, hypotonia, and encephalopathy. Mitochondrial diseases are not associated with decreased glucocerebrosidase activity.\n\n(Choice D) Enzymes within peroxisomes are critical in very long-chain fatty acid oxidation. Enzyme deficiencies, such as in X-linked adrenoleukodystrophy, can result in progressive neurodegeneration and adrenal insufficiency. Glucocerebrosidase is a lysosomal, not peroxisomal, enzyme.\n\n(Choice E) Proteasomes degrade unwanted and misfolded proteins as well as foreign intracellular proteins for display on major histocompatibility complex (MHC) class I molecules. Proteosome dysfunction can lead to protein aggregation but is not associated with glucocerebrosidase deficiency.\n\nEducational objective:\nGaucher disease is a lysosomal storage disease in which decreased activity of glucocerebrosidase leads to a buildup of glucocerebroside. Accumulation of this substrate within lysosomes in the mononuclear phagocyte system classically results in hepatosplenomegaly, cytopenia, and bone pain; CNS involvement can also lead to neurologic manifestations (eg, spasticity). {{exhibit_2}}",
+    "zh": "葡萄糖脑苷脂酶是一种酸性水解酶（在低pH值下具有活性的酶），存在于溶酶体中；它负责分解葡萄糖脑苷脂，葡萄糖脑苷脂是细胞膜的组成部分。该酶活性降低见于戈谢病，导致葡萄糖脑苷脂在溶酶体中蓄积，从而破坏细胞功能。由于单核吞噬细胞（如巨噬细胞）吞噬细胞碎片和细胞外基质成分，它们会受到大多数溶酶体贮积病（如鞘脂贮积症、粘多糖贮积症）的影响，包括戈谢病。\n\n在戈谢病中，肝脏、脾脏和骨骼中的巨噬细胞主要受到影响，导致明显的肝脾肿大（如本例所示）、骨髓替代（如贫血、血小板减少症）、骨痛和生长不良（如身高≤第5百分位数）。中枢神经系统也容易受到葡萄糖脑苷脂蓄积的影响，一些患者可能出现神经系统表现，如该患儿的痉挛、肌肉痉挛和运动技能丧失。{{exhibit_1}}\n\n（选项 A 和 F）高尔基体缺陷会导致细胞蛋白质的错误分选和翻译后糖基化，核糖体异常会导致蛋白质产生不足。葡萄糖脑苷脂酶活性降低与此类缺陷无关。\n\n（选项 C）线粒体负责产生ATP，由于线粒体功能异常引起的疾病最常见于肌肉无力、肌张力低下和脑病。线粒体疾病与葡萄糖脑苷脂酶活性降低无关。\n\n（选项 D）过氧化物酶体内的酶在极长链脂肪酸氧化中起关键作用。酶缺乏症，如X连锁肾上腺脑白质营养不良，可导致进行性神经变性和肾上腺皮质功能不全。葡萄糖脑苷脂酶是一种溶酶体酶，而不是过氧化物酶体酶。\n\n（选项 E）蛋白酶体降解不需要的、错误折叠的蛋白质以及异源细胞内蛋白质，以便在主要组织相容性复合体（MHC）I类分子上显示。蛋白酶体功能障碍可导致蛋白质聚集，但与葡萄糖脑苷脂酶缺乏症无关。\n\n教学目标：\n戈谢病是一种溶酶体贮积病，其中葡萄糖脑苷脂酶活性降低导致葡萄糖脑苷脂堆积。这种底物在单核吞噬细胞系统内的溶酶体中蓄积，典型地导致肝脾肿大、细胞减少和骨痛；中枢神经系统受累也可能导致神经系统表现（如痉挛）。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of lysosomal storage diseases, specifically Gaucher disease, and the function of glucocerebrosidase within lysosomes. It also tests the ability to recognize the clinical presentation of Gaucher disease.\n\nTo solve this question, recognize the clinical features of Gaucher disease (hepatosplenomegaly, growth delay, neurological symptoms) and the enzyme deficiency (glucocerebrosidase). Knowing that glucocerebrosidase is a lysosomal enzyme will lead to the correct answer.",
+    "zh": "本题考察对溶酶体贮积病（特别是戈谢病）的认识，以及溶酶体中葡萄糖脑苷脂酶的功能。它还考察识别戈谢病临床表现的能力。\n\n要解决这个问题，需要识别戈谢病的临床特征（肝脾肿大、生长迟缓、神经系统症状）和酶缺乏症（葡萄糖脑苷脂酶）。知道葡萄糖脑苷脂酶是一种溶酶体酶将有助于找到正确答案。"
+  },
+  "tags": "Gaucher disease; Lysosomal storage disease; Glucocerebrosidase; Lysosomes; Hepatomegaly; Splenomegaly; Neurology; Pediatrics; Metabolic disorders",
+  "category": "Endo",
+  "question_id": "7632",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\7632",
+  "extracted_at": "2025-11-05T14:10:21.635905",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:42:42.991216",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

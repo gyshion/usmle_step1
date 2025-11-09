@@ -1,0 +1,73 @@
+{
+  "question_stem": {
+    "en": "A 16-year-old boy is being evaluated for difficulty walking. On physical examination, he has thoracic scoliosis and multiple small scars on his hands. When asked about these, the boy replies, \"I frequently burn my hands by accident because I can't feel the heat.\" Neurologic examination reveals 1+ biceps reflexes and 3+ patellar reflexes bilaterally, as well as decreased muscle strength in the bilateral upper and lower extremities. His hand muscles are atrophic, and position and vibration senses in the feet are also impaired. Which of the following is the most likely cause of this patient's problems? {{exhibit_1}}",
+    "zh": "一名16岁男孩因行走困难就诊。体格检查显示，他有胸椎侧凸和手部多处小的疤痕。当被问及这些时，男孩回答说：“我经常不小心烧伤我的手，因为我感觉不到热。”神经系统检查显示双侧肱二头肌反射1+，膝腱反射3+，以及双侧上下肢肌力下降。他的手部肌肉萎缩，足部的本体感觉和振动觉也受损。以下哪项最可能是该患者出现这些问题的病因？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's problems?",
+    "zh": "以下哪项最可能是该患者出现这些问题的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Amyotrophic lateral sclerosis",
+      "zh": "肌萎缩侧索硬化症"
+    },
+    "B": {
+      "en": "Guillain-Barré syndrome",
+      "zh": "格林-巴利综合征"
+    },
+    "C": {
+      "en": "Medulloblastoma",
+      "zh": "髓母细胞瘤"
+    },
+    "D": {
+      "en": "Multiple sclerosis",
+      "zh": "多发性硬化症"
+    },
+    "E": {
+      "en": "Normal pressure hydrocephalus",
+      "zh": "正常压力脑积水"
+    },
+    "F": {
+      "en": "Syringomyelia",
+      "zh": "脊髓空洞症"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "This patient has loss of upper extremity pain and temperature sensations, upper extremity weakness and hyporeflexia, lower extremity weakness and hyperreflexia, and kyphoscoliosis. These findings are consistent with syringomyelia. In syringomyelia, a central cystic dilation in the cervical spinal cord (a syrinx) slowly enlarges, characteristically causing damage to the ventral white commissure and anterior horns. The ventral white commissure is the site of decussation of second-order lateral spinothalamic tract neurons, and the ventral horns are the site of lower motor neuron cell bodies. The syrinx is most commonly situated at the C8-T1 cord levels and may extend rostrally, caudally, and contiguously. Further expansion within the cervical cord in later stages of the disease can produce lower extremity weakness and hyperreflexia (an upper motor neuron defect) by affecting the lateral corticospinal tract and can also lead to loss of position and vibration senses in the feet due to involvement of the posterior columns. Scoliosis can occur due to paresis of paravertebral muscles. (Choice A) Amyotrophic lateral sclerosis is a progressive degenerative disease of upper and lower motor neurons only; it does not cause sensory loss. (Choice B) Guillain-Barré syndrome is a peripheral nervous system autoimmune demyelinating polyneuropathy that typically causes lower motor neuron manifestations (eg, areflexia, weakness) in a symmetric ascending pattern. (Choice C) Medulloblastoma is the most common malignant central nervous system (CNS) tumor in children, with pilocytic astrocytoma, a low-grade astrocytoma, being the most common CNS tumor overall. Medulloblastoma is a posterior fossa tumor that causes symptoms related to obstructive hydrocephalus. (Choice D) Multiple sclerosis is an autoimmune CNS demyelinating disorder that presents with episodic neurologic symptoms reflecting defects in various white matter tracts. (Choice E) Normal pressure hydrocephalus is characterized by gait ataxia and urinary incontinence. It is rare in patients age <60. Defective cerebrospinal fluid resorption by the arachnoid granulations gives rise to the secondary form of this disease.",
+    "zh": "该患者表现为上肢痛觉和温度觉丧失、上肢无力和反射减弱、下肢无力和反射亢进以及脊柱后凸侧弯。这些发现与脊髓空洞症相符。在脊髓空洞症中，颈椎脊髓中的中央囊性扩张（空洞）缓慢增大，特征性地导致腹侧白质连合和前角损伤。腹侧白质连合是二阶侧束脊髓丘脑束神经元交叉的部位，前角是下运动神经元细胞体所在的位置。空洞最常位于C8-T1脊髓水平，并可能向头侧、尾侧和连续地延伸。在疾病的后期，颈椎脊髓内的进一步扩张，通过影响侧皮质脊髓束，可产生下肢无力和反射亢进（上运动神经元缺陷），并可导致由于后柱受累而导致足部的本体感觉和振动觉丧失。脊柱侧弯可由于椎旁肌的麻痹而发生。(选项A) 肌萎缩侧索硬化症是仅累及上下运动神经元的进行性退行性疾病；它不会引起感觉丧失。(选项B) 格林-巴利综合征是一种周围神经系统自身免疫性脱髓鞘性多发性神经病，通常以对称性上升模式引起下运动神经元表现（如反射消失、无力）。(选项C) 髓母细胞瘤是儿童最常见的恶性中枢神经系统（CNS）肿瘤，而毛细胞型星形细胞瘤（一种低级别星形细胞瘤）是总体上最常见的中枢神经系统肿瘤。髓母细胞瘤是一种后颅窝肿瘤，可引起与梗阻性脑积水相关的症状。(选项D) 多发性硬化症是一种自身免疫性中枢神经系统脱髓鞘性疾病，表现为反映各种白质束缺陷的阵发性神经系统症状。(选项E) 正常压力脑积水的特征是步态共济失调和尿失禁。它在60岁以下的患者中很少见。蛛网膜颗粒对脑脊液的再吸收缺陷会导致这种疾病的继发形式。"
+  },
+  "summary": {
+    "en": "The patient presents with a constellation of symptoms including difficulty walking, thoracic scoliosis, hand scars from burns due to lack of heat sensation, decreased muscle strength, muscle atrophy, and impaired position and vibration senses. Neurologic examination reveals diminished reflexes in the upper extremities and hyperreflexia in the lower extremities. These findings are most consistent with syringomyelia, a condition characterized by a cyst within the spinal cord that damages nerve tracts responsible for pain, temperature, motor function, and proprioception. The explanation details how syringomyelia affects specific spinal cord structures leading to the observed symptoms and differentiates it from other neurological conditions.",
+    "zh": "患者出现一系列症状，包括行走困难、胸椎侧弯、手部因缺乏热感而导致的烧伤疤痕、肌力下降、肌肉萎缩以及本体感觉和振动觉受损。神经系统检查显示上肢反射减弱，下肢反射亢进。这些发现与脊髓空洞症最为一致，脊髓空洞症的特征是脊髓内出现囊肿，损害负责疼痛、温度、运动功能和本体感觉的神经束。解释详细说明了脊髓空洞症如何影响特定的脊髓结构，从而导致观察到的症状，并将其与其他神经系统疾病区分开来。"
+  },
+  "tags": [
+    "syringomyelia",
+    "spinal cord cyst",
+    "neurology",
+    "scoliosis",
+    "sensory loss",
+    "motor neuron disease",
+    "reflexes",
+    "pediatrics"
+  ],
+  "category": "Neuro",
+  "question_id": "1904",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\1904",
+  "extracted_at": "2025-11-05T19:37:29.514517",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:36:48.680197",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

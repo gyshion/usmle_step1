@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 72-year-old man comes to the office for evaluation of constipation. His stools have been hard and pelletlike for as long as he can remember. The patient has a bowel movement every 3-4 days and frequently strains when using the bathroom. He has had associated abdominal discomfort but no hematochezia, melena, vomiting, or unexpected weight changes. The symptoms have not improved despite fiber supplementation. Vital signs are within normal limits. The abdomen is mildly distended with decreased bowel sounds. In addition to increasing water consumption, the patient is advised to try bisacodyl for constipation.",
+    "zh": "一名72岁的男性前来就诊，评估便秘。据他回忆，他的粪便一直都很硬，呈颗粒状。患者每3-4天才排便一次，排便时经常用力。他伴有腹部不适，但无便血、黑便、呕吐或意外体重变化。尽管补充了纤维，症状仍未改善。生命体征在正常范围内。腹部轻度膨胀，肠鸣音减弱。除了增加饮水量外，建议患者尝试比沙可啶治疗便秘。"
+  },
+  "question": {
+    "en": "What is the primary mechanism of action of this medication?",
+    "zh": "这种药物的主要作用机制是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreases surface tension of stool",
+      "zh": "降低粪便的表面张力"
+    },
+    "B": {
+      "en": "Draws water into the stool by creating an osmotic gradient",
+      "zh": "通过产生渗透梯度将水吸入粪便"
+    },
+    "C": {
+      "en": "Draws water into the stool by directly activating chloride channels",
+      "zh": "通过直接激活氯离子通道将水吸入粪便"
+    },
+    "D": {
+      "en": "Improves peristalsis by blocking mu-receptors",
+      "zh": "通过阻断μ受体改善蠕动"
+    },
+    "E": {
+      "en": "Improves peristalsis by stimulating enteric nerves",
+      "zh": "通过刺激肠神经改善蠕动"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Bisacodyl is a stimulant laxative that is commonly used to treat constipation and neurogenic bowel; it is also indicated for bowel preparation prior to endoscopic procedures (eg, colonoscopy). \n\nBisacodyl is hydrolyzed in the colon to its active form, which directly stimulates the enteric nerves within the colonic myenteric plexus, thereby increasing peristalsis and enhancing colonic motility. It also has some minor secretory effects in the small intestine, where it increases production of cyclic AMP, indirectly increasing secretion of chloride and bicarbonate while inhibiting sodium resorption. Side effects include diarrhea, mild abdominal cramping, and electrolyte disturbances (eg, hypokalemia). Other stimulant laxatives include senna and castor oil.\n\n(Choice A) Docusate reduces the surface tension of stool, enabling water and fat to enter and soften it.\n\n(Choice B) Magnesium hydroxide, polyethylene glycol, and lactulose are osmotically active agents that are poorly absorbed by the intestines. These medications draw water into the intestinal lumen, thereby softening stool and making it easier to pass.\n\n(Choice C) Lubiprostone is an agonist of the CIC-2 chloride channel located on the apical membrane of the intestine, which increases chloride secretion into the intestinal lumen. Sodium and water follow chloride into the lumen, resulting in increased intestinal fluid content.\n\n(Choice D) Methylnaltrexone is a mu-opioid receptor antagonist designed to treat opioid-induced constipation. It does not cross the blood-brain barrier, which allows it to be used without inducing opiate-withdrawal symptoms.\n\nEducational objective:\nBisacodyl is a commonly used stimulant laxative that stimulates the enteric neurons within the colonic myenteric plexus, thereby increasing peristaltic activity and enhancing colonic motility.",
+    "zh": "比沙可啶是一种刺激性泻药，常用于治疗便秘和神经源性肠道疾病；它也适用于内镜检查（如结肠镜检查）前的肠道准备。\n\n比沙可啶在结肠中水解为其活性形式，直接刺激结肠肌间神经丛内的肠神经，从而增加蠕动并增强结肠动力。它在小肠中也有一些轻微的分泌作用，在那里它增加环磷酸腺苷的产生，间接增加氯离子和碳酸氢盐的分泌，同时抑制钠的重吸收。副作用包括腹泻、轻微的腹部绞痛和电解质紊乱（如低钾血症）。其他刺激性泻药包括番泻叶和蓖麻油。\n\n(选项 A) 多库酯降低粪便的表面张力，使水和脂肪进入并软化粪便。\n\n(选项 B) 氢氧化镁、聚乙二醇和乳果糖是渗透活性剂，不易被人体肠道吸收。这些药物将水吸入肠腔，从而软化粪便，使其更容易通过。\n\n(选项 C) 鲁比前列酮是位于肠道顶端膜上的 CIC-2 氯离子通道的激动剂，它增加氯离子向肠腔的分泌。钠和水跟随氯离子进入腔内，导致肠道液体含量增加。\n\n(选项 D) 甲基纳曲酮是一种μ-阿片受体拮抗剂，旨在治疗阿片类药物引起的便秘。它不穿过血脑屏障，因此可以在不引起阿片类戒断症状的情况下使用。\n\n教育目标：\n比沙可啶是一种常用的刺激性泻药，可刺激结肠肌间神经丛内的肠神经元，从而增加蠕动活动并增强结肠动力。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of action of bisacodyl, a stimulant laxative used to treat constipation. It requires understanding how bisacodyl stimulates enteric nerves to increase peristalsis.\n\nTo solve this question, recall the different classes of laxatives and their mechanisms. Focus on the specific action of stimulant laxatives on the enteric nervous system to promote bowel movements.",
+    "zh": "此题考察对比沙可啶的作用机制的理解，比沙可啶是一种用于治疗便秘的刺激性泻药。它要求了解比沙可啶如何刺激肠神经以增加蠕动。\n\n为了解决这个问题，回想一下不同类型的泻药及其作用机制。重点关注刺激性泻药对肠神经系统的特定作用，以促进排便。"
+  },
+  "tags": "Constipation; Bisacodyl; Stimulant laxatives; Enteric nervous system; Peristalsis; Gastroenterology; Pharmacology",
+  "category": "GIT",
+  "question_id": "18542",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\18542",
+  "extracted_at": "2025-11-05T14:29:04.718923",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:53:42.800085",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

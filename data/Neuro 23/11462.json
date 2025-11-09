@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man comes to the office due to bothersome tremors. The patient was diagnosed with idiopathic Parkinson disease 10 years ago and has since been successfully treated with levodopa-carbidopa. However, over the last several months, he has developed frequent freezing episodes characterized by a sudden loss of mobility. More recently, the patient's tremors worsened after he reduced his levodopa dose following the development of involuntary body movements. On examination, he has a bilateral resting tremor that is worse on the right, bradykinesia, and cogwheel rigidity. His symptoms have significantly degraded his quality of life, and he is now interested in discussing surgical options. This patient would benefit most from a treatment targeted at suppressing neuronal activity in which of the following brain structures?",
+    "zh": "一名65岁的男性因烦人的震颤前来就诊。患者10年前被诊断为特发性帕金森病，此后一直使用左旋多巴-卡比多巴成功治疗。然而，在过去的几个月里，他出现了频繁的冻结发作，其特征是突然丧失活动能力。最近，在出现不自主的身体运动后，患者在减少左旋多巴剂量后震颤加重。体格检查显示，他有双侧静止性震颤，右侧较重，运动迟缓和齿轮样强直。他的症状严重降低了他的生活质量，他现在有兴趣讨论手术方案。该患者将从针对抑制以下哪个脑结构中的神经元活动的治疗中获益最大？"
+  },
+  "question": {
+    "en": "This patient would benefit most from a treatment targeted at suppressing neuronal activity in which of the following brain structures?",
+    "zh": "该患者将从针对抑制以下哪个脑结构中的神经元活动的治疗中获益最大？"
+  },
+  "options": {
+    "A": {
+      "en": "Globus pallidus externa",
+      "zh": "苍白球外侧部"
+    },
+    "B": {
+      "en": "Motor cortex",
+      "zh": "运动皮层"
+    },
+    "C": {
+      "en": "Red nucleus",
+      "zh": "红核"
+    },
+    "D": {
+      "en": "Subthalamic nucleus",
+      "zh": "丘脑底核"
+    },
+    "E": {
+      "en": "Ventral intermediate nucleus of the thalamus",
+      "zh": "丘脑腹中间核"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Loss of dopaminergic neurons in Parkinson disease (PD) leads to a reduced amount of dopamine available to inhibit the striatum (nigrostriatal pathway). This results in overactivation of the subthalamic nucleus (STN), leading to increased stimulation of the globus pallidus interna (GPi). In turn, the GPi increases its inhibitory output to the thalamus. Decreased stimulation of the motor cortex by the thalamus then leads to the classic symptoms of bradykinesia and rigidity.\n\nRestoration of dopamine levels in the brain by treatment with levodopa (precursor to dopamine able to cross the blood-brain barrier) and carbidopa (inhibits peripheral metabolism of levodopa to increase availability to the brain) improves the motor symptoms of PD. However, levodopa has a narrow therapeutic window that worsens with disease progression; over time, periodic dosing inevitably results in motor fluctuations (eg, freezing when dopamine levels drop) as well as dyskinesia (eg, involuntary movements, tremor when dopamine levels spike).\n\nWhen levodopa becomes ineffective, the neuronal pathways from the basal ganglia to the thalamus can be surgically interrupted (eg, deep brain stimulation, lesioning procedures). The most effective surgical targets are the STN (reduces excess GPi excitation) and the GPi (reduces excess thalamic inhibition); inhibition of either nucleus has been shown to improve motor fluctuations and dyskinesia seen with advanced PD. {{exhibit_1}}\n\n(Choice A) The globus pallidus externa normally inhibits the STN. If inhibitory impulses from this region are down-regulated, output would increase from the STN, worsening Parkinson symptoms.\n\n(Choice B) Global inhibition of the motor cortex is responsible for the symptoms of PD; increased inhibition would further worsen this patient's bradykinesia.\n\n(Choice C) The rubrospinal tract originates from the red nucleus and contributes to upper extremity flexor tone. Inhibition of this nucleus would result in decerebrate (extensor) posturing, as seen with brain herniation. {{exhibit_2}}\n\n(Choice E) The ventral intermediate nucleus of the thalamus is involved in generating pathologic oscillatory tremors (eg, Parkinson disease, essential tremor). Although suppression of output from the ventral intermediate improves the motor symptoms of PD, it does not improve bradykinesia nor rigidity.\n\nEducational objective:\nNigrostriatal degeneration in Parkinson disease impairs thalamic stimulation of the motor cortex, resulting in bradykinesia, rigidity, and resting tremor. Patients with medically intractable symptoms may benefit from surgery to decrease output of the globus pallidus interna or subthalamic nucleus, promoting thalamocortical disinhibition with improvement in Parkinson symptoms. {{exhibit_3}}",
+    "zh": "帕金森病（PD）中多巴胺能神经元的损失导致可用于抑制纹状体（黑质纹状体通路）的多巴胺量减少。这导致丘脑底核（STN）过度激活，从而导致苍白球内侧部（GPi）的刺激增加。反过来，GPi增加其对丘脑的抑制性输出。然后，丘脑对运动皮层的刺激减少，导致运动迟缓和强直的典型症状。\n\n通过使用左旋多巴（能够穿过血脑屏障的多巴胺前体）和卡比多巴（抑制左旋多巴的外周代谢以增加其在大脑中的可用性）治疗，恢复大脑中的多巴胺水平，可以改善PD的运动症状。然而，左旋多巴的治疗窗口很窄，并且随着疾病的进展而恶化；随着时间的推移，定期给药不可避免地会导致运动波动（例如，当多巴胺水平下降时冻结）以及运动障碍（例如，不自主运动，当多巴胺水平升高时震颤）。\n\n当左旋多巴失效时，可以手术中断来自基底神经节到丘脑的神经通路（例如，深部脑刺激、病灶切除术）。最有效的手术靶点是STN（减少过度的GPi兴奋）和GPi（减少过度的丘脑抑制）；抑制这两个核都已被证明可以改善在晚期PD中看到的运动波动和运动障碍。{{exhibit_1}}\n\n(选项A) 苍白球外侧部通常会抑制STN。如果该区域的抑制冲动下调，来自STN的输出将会增加，从而加重帕金森病的症状。\n\n(选项B) 运动皮层的全面抑制是PD症状的原因；增加的抑制会进一步恶化该患者的运动迟缓。\n\n(选项C) 红核发出红核脊髓束，并有助于上肢屈肌张力。抑制该核会导致去大脑僵直（伸展）姿势，如脑疝所见。{{exhibit_2}}\n\n(选项E) 丘脑腹中间核参与产生病理性震颤（例如，帕金森病、原发性震颤）。虽然抑制腹中间核的输出可以改善PD的运动症状，但它并不能改善运动迟缓和强直。\n\n教育目标：\n帕金森病中的黑质纹状体变性会损害丘脑对运动皮层的刺激，导致运动迟缓、强直和静止性震颤。对于药物难治性症状的患者，手术可以减少苍白球内侧部或丘脑底核的输出，促进丘脑皮质去抑制，从而改善帕金森病的症状。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of Parkinson's disease and the rationale for surgical interventions targeting specific brain structures within the basal ganglia circuitry. It assesses understanding of how deep brain stimulation or lesioning of the subthalamic nucleus (STN) or globus pallidus interna (GPi) can alleviate motor symptoms in advanced Parkinson's disease.\n\nTo solve this question, recall the role of the STN in the indirect pathway of the basal ganglia and its overactivity in Parkinson's disease due to dopamine deficiency. Recognize that suppressing STN activity reduces GPi output, disinhibiting the thalamus and improving motor function. Eliminate options that would worsen symptoms or target unrelated brain regions.",
+    "zh": "这个问题测试了对帕金森病病理生理学的了解，以及针对基底神经节回路中特定脑结构的外科干预的原理。它评估了对深部脑刺激或丘脑底核（STN）或苍白球内侧部（GPi）的病灶切除术如何减轻晚期帕金森病的运动症状的理解。\n\n要解决这个问题，请回忆STN在基底神经节间接通路中的作用，以及由于多巴胺缺乏导致其在帕金森病中的过度活动。认识到抑制STN的活动可以减少GPi的输出，解除丘脑的抑制并改善运动功能。排除会加重症状或针对不相关脑区域的选项。"
+  },
+  "tags": "Parkinson's disease; Basal ganglia; Subthalamic nucleus; Deep brain stimulation; Levodopa; Motor fluctuations; Bradykinesia; Rigidity; Tremor; Neurology",
+  "category": "Neuro",
+  "question_id": "11462",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\11462",
+  "extracted_at": "2025-11-05T15:08:17.805604",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:16:47.767996",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

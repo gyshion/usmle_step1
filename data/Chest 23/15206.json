@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 48-year-old woman comes to the office for follow-up of long-standing emphysema. She has a history of alpha-1 antitrypsin deficiency treated with inhaled bronchodilators and glucocorticoids. Over the past several months, the patient has been feeling progressively more short of breath, even with minimal exertion. She reports no change in her sputum, cough, or wheezing. She has no other medical conditions. Temperature is 37.1 C (98.8 F), blood pressure is 130/80 mm Hg, pulse is 82/min, and respirations are 18/min. Physical examination is significant for increased anteroposterior chest diameter, prolonged expiratory phase, and decreased breath sounds bilaterally. Heart sounds are distant. Chest x-ray reveals hyperinflated lungs with no consolidation, pleural effusion, or pneumothorax {{exhibit_1}}. Room air arterial blood gas analysis is performed. Which of the following sets of results is most likely to be seen in this patient?",
+    "zh": "一名48岁女性前来就诊，随访其长期的肺气肿。她有α-1抗胰蛋白酶缺乏症病史，曾使用吸入性支气管扩张剂和糖皮质激素治疗。在过去的几个月里，即使在轻微的活动后，患者也感到越来越呼吸困难。她报告痰液、咳嗽或喘息没有变化。她没有其他疾病。体温37.1°C (98.8°F)，血压130/80 mmHg，脉搏82次/分，呼吸18次/分。体格检查显示前后胸径增加、呼气相延长，双侧呼吸音减弱。心音遥远。胸部X光片显示肺过度充气，无实变、胸腔积液或气胸{{exhibit_1}}。进行室气动脉血气分析。该患者最有可能出现以下哪组结果？"
+  },
+  "question": {
+    "en": "Which of the following sets of results is most likely to be seen in this patient?",
+    "zh": "该患者最有可能出现以下哪组结果？"
+  },
+  "options": {
+    "A": {
+      "en": "pH 7.19; PaCO₂ (mm Hg) 65; Plasma HCO₃⁻ (mEq/L) 24; PaO₂ (mm Hg) 50",
+      "zh": "pH 7.19；PaCO₂ (mmHg) 65；血浆HCO₃⁻ (mEq/L) 24；PaO₂ (mmHg) 50"
+    },
+    "B": {
+      "en": "pH 7.34; PaCO₂ (mm Hg) 60; Plasma HCO₃⁻ (mEq/L) 31; PaO₂ (mm Hg) 50",
+      "zh": "pH 7.34；PaCO₂ (mmHg) 60；血浆HCO₃⁻ (mEq/L) 31；PaO₂ (mmHg) 50"
+    },
+    "C": {
+      "en": "pH 7.40; PaCO₂ (mm Hg) 40; Plasma HCO₃⁻ (mEq/L) 24; PaO₂ (mm Hg) 90",
+      "zh": "pH 7.40；PaCO₂ (mmHg) 40；血浆HCO₃⁻ (mEq/L) 24；PaO₂ (mmHg) 90"
+    },
+    "D": {
+      "en": "pH 7.47; PaCO₂ (mm Hg) 50; Plasma HCO₃⁻ (mEq/L) 35; PaO₂ (mm Hg) 90",
+      "zh": "pH 7.47；PaCO₂ (mmHg) 50；血浆HCO₃⁻ (mEq/L) 35；PaO₂ (mmHg) 90"
+    },
+    "E": {
+      "en": "pH 7.56; PaCO₂ (mm Hg) 28; Plasma HCO₃⁻ (mEq/L) 24; PaO₂ (mm Hg) 50",
+      "zh": "pH 7.56；PaCO₂ (mmHg) 28；血浆HCO₃⁻ (mEq/L) 24；PaO₂ (mmHg) 50"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's increased anteroposterior chest diameter (barrel chest), prolonged expiratory phase, distant heart sounds, and hyperinflation of the lungs on chest x-ray are signs consistent with severe emphysema {{exhibit_2}}. Alveolar membrane destruction leads to increased dead space (wasted ventilation due to loss of capillaries). The overall decrease in alveolar ventilation results in chronic retention of CO₂ (primary respiratory acidosis). The kidneys compensate by increasing reabsorption of bicarbonate (secondary metabolic alkalosis) to help normalize the pH. Therefore, the arterial blood gases (ABGs) reflect compensated respiratory acidosis (↑ PaCO₂ and ↑ HCO₃⁻ with low-normal pH). In addition to the acid-base disturbance, the ABGs also reveal hypoxemia (ie, PaO₂ <60 mm Hg) with an elevated alveolar-arterial (A-a) gradient, which is mainly caused by ventilation/perfusion mismatch due to emphysematous damage to the alveoli and airways. Patients with chronic hypoxemia, as in this case, may derive a survival benefit from initiation of home oxygen therapy. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}} {{exhibit_8}}\n\n(Choice A) These values (↓ pH, ↑ PaCO₂, and normal HCO₃⁻) demonstrate an uncompensated acute respiratory acidosis. This scenario would be consistent with acute hypoventilation (eg, opioid overdose), in which there is insufficient time for compensatory metabolic alkalosis (ie, renal bicarbonate absorption).\n\n(Choice C) These values are within their normal ranges (no acid-base disturbance or hypoxemia).\n\n(Choice D) These values (high-normal pH, ↑ PaCO₂, and ↑ HCO₃⁻) demonstrate a compensated primary metabolic alkalosis (eg, profuse vomiting). Excess bicarbonate is compensated for by a secondary respiratory acidosis (alveolar hypoventilation resulting in CO₂ accumulation). The pH corrects close to normal but remains slightly alkaline.\n\n(Choice E) These values (↑ pH, ↓ PaCO₂, and normal HCO₃⁻) demonstrate an uncompensated acute respiratory alkalosis with hypoxemia. This scenario could be consistent with acute pulmonary embolism. The sudden hyperventilation (due to pain, anxiety, hypoxemia) leaves insufficient time for compensatory metabolic acidosis (ie, renal bicarbonate excretion).\n\nEducational objective:\nPatients with severe emphysema typically have chronic CO₂ retention leading to compensated respiratory acidosis (↑ PaCO₂ with ↑ HCO₃⁻) producing a low-normal pH, often accompanied by hypoxemia.",
+    "zh": "该患者前后胸径增加（桶状胸）、呼气相延长、心音遥远以及胸部X光片上肺过度充气，这些体征与严重肺气肿相符{{exhibit_2}}。肺泡膜破坏导致死腔增加（由于毛细血管丢失导致无效通气）。肺泡通气的总体减少导致CO₂慢性潴留（原发性呼吸性酸中毒）。肾脏通过增加重吸收碳酸氢盐（继发性代谢性碱中毒）来代偿，以帮助使pH值正常化。因此，动脉血气（ABG）反映代偿性呼吸性酸中毒（↑ PaCO₂和↑ HCO₃⁻，pH值偏低正常）。除了酸碱失衡外，ABG还显示低氧血症（即PaO₂ <60 mmHg），伴有升高的肺泡-动脉（A-a）梯度，这主要是由于肺泡和气道的肺气肿损伤导致通气/灌注失调所致。在这种情况下，患有慢性低氧血症的患者，从开始家庭氧疗中可能获得生存益处。{{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}} {{exhibit_8}}\n\n（选项A）这些值（↓pH、↑PaCO₂和正常HCO₃⁻）表明未代偿的急性呼吸性酸中毒。这种情况与急性通气不足（例如，阿片类药物过量）一致，在这种情况下，没有足够的时间进行代偿性代谢性碱中毒（即，肾脏碳酸氢盐吸收）。\n\n（选项C）这些值在其正常范围内（无酸碱失衡或低氧血症）。\n\n（选项D）这些值（高正常pH、↑PaCO₂和↑HCO₃⁻）表明代偿性原发性代谢性碱中毒（例如，大量呕吐）。过量的碳酸氢盐通过继发性呼吸性酸中毒（肺泡通气不足导致CO₂蓄积）来代偿。pH值接近正常但仍略呈碱性。\n\n（选项E）这些值（↑pH、↓PaCO₂和正常HCO₃⁻）表明未代偿的急性呼吸性碱中毒，伴有低氧血症。这种情况可能与急性肺栓塞一致。突然的过度通气（由于疼痛、焦虑、低氧血症）没有足够的时间进行代偿性代谢性酸中毒（即，肾脏碳酸氢盐排泄）。\n\n教育目标：\n严重肺气肿患者通常会出现CO₂慢性潴留，导致代偿性呼吸性酸中毒（↑PaCO₂，↑HCO₃⁻），产生低正常pH值，通常伴有低氧血症。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of arterial blood gas interpretation in the context of chronic respiratory disease, specifically emphysema. It requires understanding of compensated respiratory acidosis and the expected changes in pH, PaCO2, and HCO3- levels.\n\nThe best approach is to recognize the clinical scenario of chronic emphysema, predict the underlying acid-base disturbance (compensated respiratory acidosis), and then select the ABG values that are consistent with this condition: elevated PaCO2, elevated HCO3-, and a pH near the lower end of the normal range.",
+    "zh": "此题考察了在慢性呼吸系统疾病（特别是肺气肿）背景下动脉血气分析的知识。它需要理解代偿性呼吸性酸中毒以及pH、PaCO2和HCO3-水平的预期变化。\n\n最佳方法是识别慢性肺气肿的临床情况，预测潜在的酸碱失衡（代偿性呼吸性酸中毒），然后选择与该状况一致的ABG值：PaCO2升高、HCO3-升高和pH接近正常范围的下限。"
+  },
+  "tags": "Emphysema; Alpha-1 antitrypsin deficiency; Arterial blood gas; Respiratory acidosis; Compensated respiratory acidosis; Hypoxemia; Pulmonary disease; Acid-base balance",
+  "category": "Chest",
+  "question_id": "15206",
+  "has_exhibits": true,
+  "exhibit_count": 8,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\15206",
+  "extracted_at": "2025-11-05T11:38:28.481474",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:35:22.880512",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

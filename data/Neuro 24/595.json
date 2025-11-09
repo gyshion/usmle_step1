@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 66-year-old man comes to the emergency department due to dizziness, dysarthria, and bilateral limb ataxia. His symptoms have been steadily worsening over the last 2 weeks. He has no other medical problems and takes no medications. He has a 50-pack-year smoking history and does not use alcohol or illicit drugs. Chest x-ray shows a mass in his right lung. He is admitted to the hospital for evaluation, but his neurologic symptoms continue to progress. He dies several months later despite receiving appropriate treatment. Autopsy shows extensive cerebellar Purkinje cell degeneration. Which of the following best describes the etiology of this patient's neurologic condition?",
+    "zh": "一名66岁男性因头晕、构音障碍和双侧肢体共济失调来到急诊科就诊。他的症状在过去2周内持续恶化。他没有其他医学问题，也没有服用任何药物。他有50包年的吸烟史，不饮酒或使用违禁药物。胸部X光片显示其右肺有肿块。他被收治入院进行评估，但他的神经系统症状持续进展。尽管接受了适当的治疗，他还是在几个月后去世。尸检显示广泛的小脑浦肯野细胞变性。以下哪一项最能描述该患者神经系统疾病的病因？"
+  },
+  "question": {
+    "en": "Which of the following best describes the etiology of this patient's neurologic condition?",
+    "zh": "以下哪一项最能描述该患者神经系统疾病的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Autoimmune",
+      "zh": "自身免疫"
+    },
+    "B": {
+      "en": "Endocrine",
+      "zh": "内分泌"
+    },
+    "C": {
+      "en": "Infectious",
+      "zh": "感染性"
+    },
+    "D": {
+      "en": "Metastatic",
+      "zh": "转移性"
+    },
+    "E": {
+      "en": "Toxic",
+      "zh": "毒性"
+    },
+    "F": {
+      "en": "Vascular",
+      "zh": "血管性"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The patient's presentation of progressive dizziness, dysarthria, and ataxia, coupled with a lung mass and autopsy findings of extensive cerebellar Purkinje cell degeneration, is highly suggestive of a PARANEOPLASTIC SYNDROME. Specifically, subacute cerebellar degeneration is a well-recognized paraneoplastic syndrome, most commonly associated with SMALL CELL LUNG CANCER, but also seen with breast, ovarian, and uterine malignancies. The underlying mechanism is an IMMUNE RESPONSE against tumor cells that cross-reacts with Purkinje neuron antigens, leading to acute-onset, rapid degeneration of the cerebellum. Antibodies such as ANTI-YO, ANTI-P/Q, and ANTI-HU are often detected in the serum. Therefore, the etiology is autoimmune.\n\n(Choice B) Endocrine causes of neurological symptoms are typically related to hormone imbalances (e.g., thyroid storm, adrenal insufficiency). While some paraneoplastic syndromes involve ectopic hormone production (e.g., Cushing syndrome from ACTH production), the primary mechanism in this case is an immune-mediated attack on the cerebellum, not a direct hormonal effect causing Purkinje cell degeneration.\n\n(Choice C) Infectious causes of cerebellar degeneration (e.g., viral encephalitis, fungal infections) would typically present with fever, meningeal signs, and often a more acute onset. While some infections can cause cerebellar symptoms, the presence of a lung mass and the specific autopsy finding of Purkinje cell degeneration in the context of progressive neurological decline points away from a primary infectious etiology.\n\n(Choice D) Cerebellar metastasis can cause progressive cerebellar symptoms due to the physical presence of tumor cells and surrounding inflammation. However, autopsy findings in metastatic disease would typically show tumor infiltration of the cerebellum, not solely Purkinje cell degeneration without identifiable tumor cells. While the patient has a lung mass, the autopsy finding specifically describes degeneration, not metastasis to the cerebellum.\n\n(Choice E) Toxic causes of cerebellar dysfunction (e.g., alcohol, certain medications) can lead to ataxia and dysarthria. However, the patient denies alcohol or illicit drug use, and the progressive nature of the symptoms, the lung mass, and the specific autopsy findings are not typical of common toxic cerebellar insults.\n\n(Choice F) Cerebellar infarction or stroke can cause acute onset of neurological deficits, including vertigo, nystagmus, ataxia, and dysarthria. While vascular events can be progressive if recurrent, the autopsy finding of widespread Purkinje cell degeneration is not characteristic of infarction, which involves ischemic necrosis of brain tissue. The patient's symptoms were progressive over weeks, not sudden like a typical stroke.\n\nKey Pearls:\n- Paraneoplastic syndromes are disorders that occur as a result of a cancer but are not due to the direct effects of the tumor (e.g., metastasis or hormone secretion).\n- NEUROLOGIC PARANEOPLASTIC SYNDROMES are often immune-mediated, targeting neuronal structures.\n- Subacute cerebellar degeneration is a classic paraneoplastic syndrome associated with LUNG CANCER, particularly small cell lung cancer.\n- AUTOIMMUNITY is the underlying mechanism for many paraneoplastic neurologic disorders.",
+    "zh": "患者表现出进行性头晕、构音障碍和共济失调，再加上肺部肿块和尸检发现的广泛小脑浦肯野细胞变性，高度提示副肿瘤综合征。具体来说，亚急性小脑变性是一种公认的副肿瘤综合征，最常见于小细胞肺癌，但也见于乳腺癌、卵巢癌和子宫恶性肿瘤。其潜在机制是对肿瘤细胞的免疫反应，这些肿瘤细胞与浦肯野神经元抗原发生交叉反应，导致小脑的急性发作、快速变性。血清中常检测到抗Yo、抗P/Q和抗Hu等抗体。因此，病因是自身免疫。\n\n（选项B）神经系统症状的内分泌原因通常与激素失衡有关（例如，甲状腺危象、肾上腺皮质功能不全）。虽然一些副肿瘤综合征涉及异位激素产生（例如，ACTH产生引起的库欣综合征），但本例中的主要机制是对小脑的免疫介导攻击，而不是直接的激素效应导致浦肯野细胞变性。\n\n（选项C）小脑变性的感染性原因（例如，病毒性脑炎、真菌感染）通常表现为发烧、脑膜征，并且往往起病更急。虽然一些感染可引起小脑症状，但在进行性神经系统衰退的背景下，肺部肿块和浦肯野细胞特异性尸检发现指向非原发性感染性病因。\n\n（选项D）小脑转移可因肿瘤细胞的物理存在和周围炎症而引起进行性小脑症状。然而，转移性疾病的尸检发现通常会显示肿瘤浸润小脑，而不仅仅是未经鉴定的肿瘤细胞的浦肯野细胞变性。虽然患者有肺部肿块，但尸检发现明确描述的是变性，而不是转移到小脑。\n\n（选项E）小脑功能障碍的毒性原因（例如，酒精、某些药物）可导致共济失调和构音障碍。然而，患者否认饮酒或使用违禁药物，并且症状的进行性性质、肺部肿块和特定的尸检结果并非典型的常见毒性小脑损伤。\n\n（选项F）小脑梗死或卒中可导致神经功能缺损的急性发作，包括眩晕、眼球震颤、共济失调和构音障碍。虽然血管事件如果复发，可能会进展，但广泛的浦肯野细胞变性的尸检发现并不是梗死的特征，梗死涉及脑组织的缺血性坏死。患者的症状在数周内逐渐进展，而不是像典型卒中那样突然发作。\n\n关键要点：\n- 副肿瘤综合征是由于癌症引起的疾病，但并非由于肿瘤的直接影响（例如，转移或激素分泌）。\n- 神经系统副肿瘤综合征通常是免疫介导的，靶向神经元结构。\n- 亚急性小脑变性是与肺癌，特别是小细胞肺癌相关的经典副肿瘤综合征。\n- 自身免疫是许多副肿瘤神经系统疾病的潜在机制。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of paraneoplastic syndromes, specifically focusing on neurologic manifestations and their autoimmune etiology in the context of a lung malignancy. It requires integrating clinical presentation, imaging findings, and autopsy results to identify the underlying cause of cerebellar degeneration.\n\nTo solve this question, one should first identify the constellation of symptoms and findings suggestive of a paraneoplastic syndrome. The presence of a lung mass in a patient with progressive neurological deficits, particularly cerebellar signs, should raise suspicion. Recognizing that Purkinje cell degeneration is a hallmark of subacute cerebellar degeneration, a known paraneoplastic phenomenon, is crucial. Finally, understanding that these syndromes are often immune-mediated, leading to an autoimmune attack on neural tissue, helps differentiate from other etiologies like metastasis or direct toxicity.",
+    "zh": "这个问题测试对副肿瘤综合征的理解，特别关注神经系统表现及其在肺部恶性肿瘤背景下的自身免疫病因。它需要整合临床表现、影像学发现和尸检结果，以确定小脑变性的根本原因。\n\n要解决这个问题，首先应该识别提示副肿瘤综合征的症状和发现。在出现进行性神经功能缺损（特别是小脑体征）的患者中，肺部肿块的存在应引起怀疑。认识到浦肯野细胞变性是亚急性小脑变性的一个标志，这是一种已知的副肿瘤现象，这一点至关重要。最后，了解这些综合征通常是免疫介导的，导致对神经组织的自身免疫攻击，有助于与其他病因（如转移或直接毒性）区分。"
+  },
+  "tags": "Paraneoplastic syndrome; Cerebellar degeneration; Autoimmune; Small cell lung cancer; Neurology; Oncology; Immune response; Purkinje cells",
+  "category": "Neuro",
+  "question_id": "595",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\595",
+  "extracted_at": "2025-11-05T19:40:39.892457",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:41:42.183532",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

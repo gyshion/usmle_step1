@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "4 year old boy is brought to the office due to a progressively worsening cough for the past 2 days that is productive of yellow sputum. A year ago, he was found to have bilateral lower-lobe pulmonary infiltrates on chest x-ray and was diagnosed with pneumonia. The patient has since had 2 additional episodes of pneumonia, each requiring antibiotics for improvement of symptoms. His current chest x-ray again reveals bilateral lower lobe infiltrates. Further testing shows a high chloride content in his sweat. ",
+    "zh": "一名4岁男孩因过去2天进行性加重的咳嗽就诊，并有黄痰。一年前，他的胸片显示双侧下叶肺浸润，被诊断为肺炎。此后，患者又发生了2次肺炎，每次都需要使用抗生素来改善症状。他目前的胸片再次显示双侧下叶浸润。进一步检查显示其汗液中氯化物含量高。"
+  },
+  "question": {
+    "en": "Which of the following abnormalities is most likely to be seen in this patient?",
+    "zh": "该患者最有可能出现以下哪种异常？"
+  },
+  "options": {
+    "A": {
+      "en": "Abnormal post-translational processing of a transmembrane protein",
+      "zh": "跨膜蛋白的翻译后加工异常"
+    },
+    "B": {
+      "en": "Decreased transcription of a transmembrane protein",
+      "zh": "跨膜蛋白转录减少"
+    },
+    "C": {
+      "en": "Increased conductivity of a transmembrane chloride channel",
+      "zh": "跨膜氯离子通道的电导增加"
+    },
+    "D": {
+      "en": "Presence of a truncated transmembrane protein on the cell surface",
+      "zh": "细胞表面存在截短的跨膜蛋白"
+    },
+    "E": {
+      "en": "Transmembrane protein with increased regulatory response to cAMP and ATP",
+      "zh": "跨膜蛋白对 cAMP 和 ATP 的调节反应增加"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient most likely has cystic fibrosis (CF), an autosomal recessive disease characterized by recurrent sinopulmonary infections, pancreatic insufficiency, and malabsorption. It is caused by several different mutations that affect the CF transmembrane conductance regulator (CFTR) gene. The most common CFTR gene mutation (found in approximately 70% of cases) is a 3-base pair deletion of phenylalanine at amino acid position 508 (ΔF508). This mutation causes impaired post-translational processing (eg, improper folding and glycosylation) of CFTR, which is detected by the endoplasmic reticulum. As a result, the abnormal protein is targeted for proteasomal degradation, preventing it from reaching the cell surface. Certain drugs (eg, lumacaftor) can partially correct this folding defect, leading to expression of functional CFTR. {{exhibit_1}}\n\n(Choice B) Decreased production of functionally normal CFTR (eg, reduced messenger RNA or protein stability) often causes a milder form of the disease with normal sweat chloride levels that may not be diagnosed until adulthood.\n\n(Choice C) Mutations affecting regulation of chloride ion conduction through a CFTR protein also result in CF. However, they result in decreased chloride conductivity and are less common than the ΔF508 mutation.\n\n(Choice D) Mutations causing premature termination of the transmembrane protein (eg, nonsense, frameshift) also lead to a complete absence of membrane-bound CFTR as the truncated protein is typically recognized and degraded. These mutations are more common in the Ashkenazi Jewish population.\n\n(Choice E) CFTR is an ATP-gated chloride channel activated by cAMP-mediated phosphorylation. Mutations that reduce the ability of the channel to open can also cause CF. The ΔF508 mutation, in addition to preventing proper trafficking to the cell surface, also reduces the regulatory effects of ATP and cAMP on channel opening.\n\nEducational objective:\nCystic fibrosis (CF) is most commonly due to a 3-base pair deletion in the CF transmembrane conductance regulator (CFTR) gene at amino acid position 508 (ΔF508). This mutation impairs post-translational processing of CFTR, resulting in shunting of CFTR toward the proteasome, with complete absence of the protein on the cell surface. Elevated sweat chloride concentrations are found in most patients with CF.",
+    "zh": "该患者最有可能患有囊性纤维化 (CF)，这是一种常染色体隐性遗传疾病，其特征是反复发作的鼻窦肺感染、胰腺功能不全和吸收不良。它是由几种不同的突变引起的，这些突变影响 CF 跨膜电导调节因子 (CFTR) 基因。最常见的 CFTR 基因突变（约占病例的 70%）是在氨基酸 508 位 (ΔF508) 处苯丙氨酸的 3 个碱基对缺失。这种突变会导致 CFTR 的翻译后加工受损（例如，错误折叠和糖基化），这会被内质网检测到。结果，异常蛋白被靶向蛋白酶体降解，阻止其到达细胞表面。某些药物（例如，lumacaftor）可以部分纠正这种折叠缺陷，从而导致功能性 CFTR 的表达。{{exhibit_1}}\n\n(选项 B) 功能性正常 CFTR 的产生减少（例如，信使 RNA 或蛋白质稳定性降低）通常会导致该疾病的较轻形式，并且汗液氯化物水平正常，直到成年后才可能被诊断出来。\n\n(选项 C) 影响通过 CFTR 蛋白调节氯离子传导的突变也会导致 CF。然而，它们导致氯电导降低，并且不如 ΔF508 突变常见。\n\n(选项 D) 导致跨膜蛋白过早终止的突变（例如，无义、移码）也会导致膜结合 CFTR 的完全缺失，因为截短的蛋白通常会被识别并降解。这些突变在阿什肯纳兹犹太人群中更常见。\n\n(选项 E) CFTR 是一个由 cAMP 介导的磷酸化激活的 ATP 门控氯离子通道。减少通道开放能力的突变也会导致 CF。除了阻止其正确运输到细胞表面外，ΔF508 突变还会降低 ATP 和 cAMP 对通道开放的调节作用。\n\n教学目标：\n囊性纤维化 (CF) 最常见的原因是 CF 跨膜电导调节因子 (CFTR) 基因在氨基酸 508 位 (ΔF508) 处发生 3 个碱基对缺失。这种突变会损害 CFTR 的翻译后加工，导致 CFTR 转向蛋白酶体，细胞表面完全不存在该蛋白。大多数 CF 患者的汗液氯化物浓度升高。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of cystic fibrosis, specifically the most common genetic mutation (ΔF508) and its effect on CFTR protein processing. It also tests the ability to correlate clinical findings (recurrent pneumonia, elevated sweat chloride) with the underlying genetic defect.\n\nTo solve this question, recognize the classic presentation of cystic fibrosis and recall that the most common mutation (ΔF508) leads to abnormal post-translational processing of the CFTR protein, preventing it from reaching the cell surface and leading to its degradation.",
+    "zh": "此问题测试对囊性纤维化病理生理学的了解，特别是最常见的基因突变 (ΔF508) 及其对 CFTR 蛋白加工的影响。它还测试将临床发现（反复肺炎、汗液氯化物升高）与潜在的基因缺陷相关联的能力。\n\n要解决这个问题，请识别囊性纤维化的典型表现，并回忆起最常见的突变 (ΔF508) 会导致 CFTR 蛋白的翻译后加工异常，阻止其到达细胞表面并导致其降解。"
+  },
+  "tags": "Cystic fibrosis; CFTR; ΔF508 mutation; Post-translational processing; Sweat chloride test; Recurrent pneumonia; Genetics; Pulmonology; {{exhibit_2}}",
+  "category": "Chest",
+  "question_id": "802",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\802",
+  "extracted_at": "2025-11-05T11:48:39.537756",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:42:13.760528",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

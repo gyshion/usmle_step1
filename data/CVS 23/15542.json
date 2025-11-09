@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 54-year-old man comes to the emergency department due to severe shortness of breath and palpitations. During initial assessment, pulse oximetry shows 83%. Diffuse, bilateral crackles are heard on lung auscultation. Chest x-ray is consistent with pulmonary edema. ECG shows atrial fibrillation with rapid ventricular response. The patient dies despite appropriate medical care. Autopsy is performed and gross examination of the heart is shown below {{exhibit_1}}.\nHistologic examination of the myocardial tissue reveals thick myocardial fibers with large, hyperchromatic nuclei as well as mild interstitial fibrosis.",
+    "zh": "一名54岁男性因严重呼吸困难和心悸就诊于急诊科。初步评估期间，脉搏血氧饱和度显示为83%。肺部听诊可闻及弥漫性双侧啰音。胸片与肺水肿一致。心电图显示快速心室反应的房颤。尽管接受了适当的医疗护理，患者仍然死亡。进行尸检，心脏的大体检查结果如下所示 {{exhibit_1}}。\n心肌组织的组织学检查显示肥厚的心肌纤维，具有大的、高染色的核以及轻微的间质纤维化。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Cardiac amyloidosis",
+      "zh": "心脏淀粉样变性"
+    },
+    "B": {
+      "en": "Hypertensive heart disease",
+      "zh": "高血压性心脏病"
+    },
+    "C": {
+      "en": "Hypertrophic cardiomyopathy",
+      "zh": "肥厚型心肌病"
+    },
+    "D": {
+      "en": "Mitral stenosis",
+      "zh": "二尖瓣狭窄"
+    },
+    "E": {
+      "en": "Pulmonary arterial hypertension",
+      "zh": "肺动脉高压"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This individual developed acute decompensated heart failure (e.g., shortness of breath, pulmonary edema) and likely died due to subsequent cardiogenic shock. Autopsy findings reveal uniformly thickened left ventricular (LV) walls and a small LV cavity, which are consistent with concentric LV hypertrophy.\n\nConcentric LV hypertrophy most commonly results from prolonged SYSTEMIC HYPERTENSION as myocardial fibers are added in parallel to increase contractile strength and handle the increased pressure load. As concentric hypertrophy worsens, it can manifest clinically as hypertensive heart disease, consisting of impaired diastolic filling and heart failure with preserved ejection fraction. The elevated diastolic filling pressures are transmitted back to the left atrium, causing atrial dilation and altered conduction that predisposes to atrial fibrillation. Loss of atrial contraction can lead to a dramatic reduction in left ventricular filling in patients with diastolic heart failure and can precipitate acute decompensation (as likely occurred in this patient).\n\nOn histopathology, hypertensive heart disease demonstrates transverse thickening of cardiomyocytes with prominent hyperchromatic nuclei. The increased myocardial mass may be inadequately supplied with oxygen, contributing to cellular necrosis and interstitial fibrosis.\n\n(Choice A) Cardiac amyloidosis involves deposition of abnormal proteins in the myocardium and can lead to restrictive cardiomyopathy, which is characterized by impaired diastolic filling due to stiffening, rather than thickening, of the ventricular walls. Histopathology in cardiac amyloidosis reveals collections of pink amorphous material abutting normal cardiomyocytes {{exhibit_2}}.\n\n(Choice C) Hypertrophic cardiomyopathy involves localized, rather than uniform, thickening of the LV walls, predominantly affecting the interventricular septum. As in hypertensive heart disease, histopathology can reveal cardiomyocyte thickening, hyperchromatic nuclei, and interstitial fibrosis; however, cardiomyocyte disarray (loss of organized cellular alignment) is also expected {{exhibit_3}}.\n\n(Choice D) Mitral stenosis causes impaired diastolic filling and can lead to decompensated heart failure and atrial fibrillation; however, it does not increase the pressure load on the left ventricle and does not cause concentric hypertrophy {{exhibit_4}}.\n\n(Choice E) Pulmonary arterial hypertension results from primary changes in the pulmonary arteries that increase pulmonary arterial resistance. The elevated pressure load on the right ventricle can lead to concentric right ventricular hypertrophy and right-sided heart failure. Pulmonary edema is not present in right-sided heart failure {{exhibit_5}}.",
+    "zh": "该患者发生了急性失代偿性心力衰竭（如呼吸困难、肺水肿），很可能死于随后的心源性休克。尸检结果显示左心室（LV）壁均匀增厚，LV腔变小，这与向心性LV肥厚一致。\n\n向心性LV肥厚最常见的原因是长期全身性高血压，心肌纤维以平行方式增加，以增强收缩力并处理增加的压力负荷。随着向心性肥厚加重，它可以在临床上表现为高血压性心脏病，包括舒张期充盈受损和射血分数保留的心力衰竭。舒张期充盈压升高会逆向传导至左心房，导致心房扩张和传导改变，从而易发生房颤。心房收缩的丧失可导致舒张性心力衰竭患者的左心室充盈显着减少，并可能诱发急性失代偿（正如该患者可能发生的那样）。\n\n在组织病理学上，高血压性心脏病表现为心肌细胞横向增厚，并伴有明显的高染色核。增加的心肌质量可能无法获得足够的氧气供应，从而导致细胞坏死和间质纤维化。\n\n（选项A）心脏淀粉样变性涉及异常蛋白在心肌中的沉积，并可导致限制性心肌病，其特征是由于心室壁僵硬而不是增厚而导致舒张期充盈受损。心脏淀粉样变性的组织病理学显示粉红色无定形物质聚集在正常心肌细胞附近 {{exhibit_2}}。\n\n（选项C）肥厚型心肌病涉及LV壁的局部增厚，而非均匀增厚，主要影响室间隔。与高血压性心脏病一样，组织病理学可以显示心肌细胞增厚、高染色核和间质纤维化；然而，也预期出现心肌细胞排列紊乱（细胞排列的有序性丧失）{{exhibit_3}}。\n\n（选项D）二尖瓣狭窄会导致舒张期充盈受损，并可导致失代偿性心力衰竭和房颤；然而，它不会增加左心室的压力负荷，也不会引起向心性肥厚 {{exhibit_4}}。\n\n（选项E）肺动脉高压是由肺动脉的原发性改变引起的，这些改变增加了肺动脉阻力。右心室压力负荷升高可导致右心室向心性肥厚和右侧心力衰竭。右侧心力衰竭不存在肺水肿 {{exhibit_5}}。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hypertensive heart disease, specifically the pathophysiology of concentric left ventricular hypertrophy secondary to chronic hypertension and its associated histopathological findings. It also requires differentiating hypertensive heart disease from other causes of heart failure and hypertrophy.\n\nTo solve this question, recognize the clinical presentation of heart failure with preserved ejection fraction, the autopsy findings of concentric LV hypertrophy, and the histopathological features of cardiomyocyte thickening with hyperchromatic nuclei and interstitial fibrosis. Rule out other causes of hypertrophy based on their distinct clinical and pathological characteristics.",
+    "zh": "本题考察高血压性心脏病的知识，特别是慢性高血压继发向心性左心室肥厚的病理生理学及其相关的组织病理学发现。它还需要将高血压性心脏病与其他心力衰竭和肥厚的原因区分开来。\n\n为了解决这个问题，要认识到射血分数保留的心力衰竭的临床表现、向心性LV肥厚的尸检结果，以及心肌细胞增厚伴高染色核和间质纤维化的组织病理学特征。根据其他肥厚原因的独特临床和病理特征，排除其他原因。"
+  },
+  "tags": "Hypertensive heart disease; Concentric left ventricular hypertrophy; Heart failure; Histopathology; Cardiomyocyte hypertrophy; Interstitial fibrosis; Systemic hypertension; Cardiology; Pathology",
+  "category": "CVS",
+  "question_id": "15542",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\15542",
+  "extracted_at": "2025-11-05T11:59:38.781273",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:49:27.055003",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

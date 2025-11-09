@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 42-year-old woman comes to the office with persistent hyperlipidemia despite 6 months of maintaining a healthy diet and exercising regularly. Although her past medical history is significant for biliary colic secondary to gallstones, the patient has refused elective cholecystectomy. Her father died of a myocardial infarction at age 54, and her mother has diabetes mellitus. {{exhibit_1}} The patient's temperature is 36.1 C (97 F), blood pressure is 122/79 mm Hg, pulse is 78/min, and respirations are 14/min. Examination shows no abnormalities. Laboratory studies obtained 1 week ago show elevated serum triglycerides and LDL cholesterol levels. Drug therapy is discussed with the patient. Given this patient's preexisting gallbladder disease, which of the following drugs should be avoided?",
+    "zh": "一名42岁的女性来到诊所，尽管她坚持健康饮食和 নিয়মিত 锻炼6个月，但仍存在持续性高脂血症。虽然她的既往病史有因胆结石引起的胆绞痛，但患者拒绝择期胆囊切除术。她的父亲54岁时死于心肌梗死，她的母亲患有糖尿病。{{exhibit_1}} 患者的体温为36.1°C（97°F），血压为122/79 mmHg，脉搏为78次/分钟，呼吸为14次/分钟。体格检查未见异常。一周前进行的实验室研究显示血清甘油三酯和低密度脂蛋白胆固醇水平升高。与患者讨论药物治疗方案。鉴于该患者已患有胆囊疾病，应避免使用以下哪种药物？"
+  },
+  "question": {
+    "en": "Which of the following drugs should be avoided?",
+    "zh": "应避免使用以下哪种药物？"
+  },
+  "options": {
+    "A": {
+      "en": "Atorvastatin",
+      "zh": "阿托伐他汀"
+    },
+    "B": {
+      "en": "Ezetimibe",
+      "zh": "依折麦布"
+    },
+    "C": {
+      "en": "Fish oil",
+      "zh": "鱼油"
+    },
+    "D": {
+      "en": "Gemfibrozil",
+      "zh": "吉非贝齐"
+    },
+    "E": {
+      "en": "Niacin",
+      "zh": "烟酸"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Gemfibrozil (and other fibrates) can reduce cholesterol solubility and promote gallstone formation by reducing bile acid synthesis. Caution should be used when prescribing fibrate therapy to patients with underlying gallbladder disease. {{exhibit_2}}",
+    "zh": "吉非贝齐（和其他贝特类药物）可以通过减少胆汁酸合成来降低胆固醇溶解度，促进胆结石形成。对患有潜在胆囊疾病的患者开具贝特类药物治疗时应谨慎。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "The patient has hyperlipidemia and a history of gallstones. Gemfibrozil, a fibrate, can promote gallstone formation and should be avoided in patients with gallbladder disease.",
+    "zh": "患者患有高脂血症，并有胆结石病史。吉非贝齐（一种贝特类药物）可促进胆结石形成，应避免用于胆囊疾病患者。"
+  },
+  "tags": [
+    "hyperlipidemia",
+    "gallstones",
+    "gemfibrozil",
+    "fibrate",
+    "drug avoidance"
+  ],
+  "category": "GIT",
+  "question_id": "164",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\164",
+  "extracted_at": "2025-11-05T20:07:00.836691",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T17:52:47.251821",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,54 @@
+{
+  "question_stem": {
+    "en": "A 36-year-old man is hospitalized due to worsening fever, productive cough, and shortness of breath. He has no prior medical conditions but experienced an influenza-like illness during the previous week. Temperature is 38.3 C (102 F), blood pressure is 100/50 mm Hg, pulse is 122/min, and respirations are 26/min. Pulse oximetry is 86% on room air. On physical examination, the patient is ill-appearing and lethargic. There are crackles over the right lower lung. Leukocyte count is 20,000 cells/mm³. Chest imaging reveals extensive parenchymal consolidation and cavitations suggestive of abscesses in the right middle and lower lobes. The patient is endotracheally intubated for mechanical ventilation due to worsening respiratory failure. Culture of the tracheal aspirate grows gram-positive cocci in clusters.",
+    "zh": "一名36岁男性因发热加重、咳嗽伴痰、呼吸困难而住院。他既往无任何疾病，但前一周出现过流感样疾病。体温38.3°C（102°F），血压100/50 mmHg，脉搏122次/分，呼吸26次/分。在空气中血氧饱和度为86%。体格检查显示患者病容，嗜睡。右下肺有啰音。白细胞计数为20,000个/mm³。胸部影像学显示广泛的实质性肺实变和空洞形成，提示右肺中叶和下叶有脓肿。患者因呼吸衰竭恶化而进行气管插管机械通气。气管吸取物的培养显示成簇生长的革兰阳性球菌。"
+  },
+  "question": {
+    "en": "Which of the following bacterial virulence factors most likely contributed to this patient's necrotizing infection?",
+    "zh": "以下哪种细菌毒力因子最有可能导致该患者的坏死性感染？"
+  },
+  "options": {
+    "A": {
+      "en": "Leukocidin",
+      "zh": "白细胞杀素"
+    },
+    "B": {
+      "en": "Lipooligosaccharide",
+      "zh": "脂寡糖"
+    },
+    "C": {
+      "en": "M protein",
+      "zh": "M蛋白"
+    },
+    "D": {
+      "en": "Polysaccharide capsule",
+      "zh": "多糖荚膜"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Young, healthy individuals with recent influenza infection are at risk for rapidly progressive, necrotizing pneumonia (eg, pulmonary cavitations/abscesses) due to infection with Staphylococcus aureus, a gram-positive cocci that grows in grapelike clusters. S aureus colonizes the nares and skin of up to 30% of individuals in the community setting. Although it typically behaves as a commensal organism, breakdowns in the cutaneous or mucosal barrier (eg, respiratory epithelial damage due to influenza) can create a portal of entry for the bacteria and lead to skin or soft-tissue infection (eg, boil) or deeper, life-threatening disease (eg, pneumonia, osteomyelitis).\n\nThe most virulent strains of S aureus have been infected with a bacteriophage that transmits genes for Panton-Valentine leukocidin (PVL), a cytotoxin that destroys leukocytes and causes tissue necrosis. PVL is primarily seen in community-acquired strains of S aureus that are methicillin-resistant (methicillin-resistance is conferred by a different mobile genetic element [mecA]).\n\n(Choice B) Lipooligosaccharide (a type of endotoxin) is part of the outer membrane of Neisseria meningitidis. Release of endotoxin into the bloodstream induces a strong proinflammatory response, which can result in rapid-onset sepsis and shock. Endotoxin is found in gram-negative, not gram-positive, organisms.\n\n(Choice C) M protein coats the surface of Streptococcus pyogenes. It prevents phagocytosis, inhibits complement binding, and aids in epithelial attachment.\n\n(Choice D) The virulence of Streptococcus pneumoniae is directly related to the presence of a polysaccharide capsule that protects the organism from phagocytosis (vaccines for S pneumoniae generate protective antibodies against capsular antigens). Although many strains of S aureus are encapsulated, PVL is a far more potent virulence factor in this organism.\n\nEducational objective:\nStaphylococcus aureus strains that express Panton-Valentine leukocidin (PVL), a protease that kills leukocytes and causes necrosis, are most likely to cause skin or soft-tissue abscess and invasive disease (eg, necrotizing pneumonia). PVL expression is most common in community-acquired, methicillin-resistant strains.",
+    "zh": "近期感染流感的年轻健康个体，由于感染金黄色葡萄球菌（一种成葡萄串生长的革兰阳性球菌），有快速进展性坏死性肺炎（例如，肺空洞/脓肿）的风险。金黄色葡萄球菌定植于社区环境中多达30%个体的鼻腔和皮肤。虽然它通常表现为共生生物，但皮肤或粘膜屏障的破坏（例如，流感引起的呼吸道上皮损伤）会为细菌创造一个进入途径，并导致皮肤或软组织感染（例如，疖）或更深层的、危及生命的疾病（例如，肺炎、骨髓炎）。\n\n最具毒力的金黄色葡萄球菌菌株已被噬菌体感染，该噬菌体传递编码Panton-Valentine白细胞杀素（PVL）的基因，PVL是一种细胞毒素，可破坏白细胞并引起组织坏死。PVL主要见于社区获得性耐甲氧西林金黄色葡萄球菌菌株（耐甲氧西林是由不同的移动遗传元件[mecA]赋予的）。\n\n(选项 B) 脂寡糖（一种内毒素）是脑膜炎奈瑟菌外膜的一部分。将内毒素释放到血液中会诱导强烈的促炎反应，这可能导致快速发生的脓毒症和休克。内毒素存在于革兰阴性而不是革兰阳性生物中。\n\n(选项 C) M蛋白覆盖化脓性链球菌的表面。它阻止吞噬作用，抑制补体结合，并有助于上皮附着。\n\n(选项 D) 肺炎链球菌的毒力与存在保护生物体免受吞噬作用的多糖荚膜直接相关（针对肺炎链球菌的疫苗可产生针对荚膜抗原的保护性抗体）。虽然许多金黄色葡萄球菌菌株有荚膜，但在这种生物中，PVL是更有效的毒力因子。\n\n教育目标：\n表达Panton-Valentine白细胞杀素（PVL）的金黄色葡萄球菌菌株（一种可杀死白细胞并引起坏死的蛋白酶）最有可能导致皮肤或软组织脓肿和侵袭性疾病（例如，坏死性肺炎）。PVL表达在社区获得性耐甲氧西林菌株中最常见。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of bacterial virulence factors, specifically Panton-Valentine leukocidin (PVL) produced by Staphylococcus aureus, and its role in necrotizing pneumonia following influenza infection.\n\nTo solve this question, recognize the gram-positive cocci in clusters as Staphylococcus aureus, consider the post-influenza pneumonia presentation, and recall that PVL is a key virulence factor associated with necrotizing pneumonia caused by community-acquired MRSA.",
+    "zh": "此问题考察对细菌毒力因子的了解，特别是金黄色葡萄球菌产生的Panton-Valentine白细胞杀素（PVL）及其在流感感染后坏死性肺炎中的作用。\n\n要解决此问题，需要识别成簇的革兰阳性球菌为金黄色葡萄球菌，考虑流感后肺炎的临床表现，并记住PVL是与社区获得性MRSA引起的坏死性肺炎相关的关键毒力因子。"
+  },
+  "tags": "Staphylococcus aureus; Necrotizing pneumonia; Panton-Valentine leukocidin (PVL); Bacterial virulence factors; Community-acquired MRSA; Infectious disease; Pulmonary infection",
+  "category": "Chest",
+  "question_id": "14926",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\14926",
+  "extracted_at": "2025-11-05T11:37:48.799984",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:34:42.030127",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

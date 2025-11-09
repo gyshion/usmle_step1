@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old man is evaluated due to several weeks of watery diarrhea. He has also had intermittent, crampy abdominal pain and has lost 7.0 kg (15.4 lb) during this period. The patient has a history of HIV and was hospitalized 6 months ago for *Pneumocystis* pneumonia. On physical examination, the patient is afebrile and the abdomen is soft and nontender with no organomegaly. Stool tests for leukocytes and occult blood are negative. Endoscopy is performed and mucosal biopsy shows an inflammatory infiltrate in the lamina propria and pathogens lining the epithelium, as shown in the exhibit {{exhibit_1}}. Which of the following is the most likely cause of this patient's condition?",
+    "zh": "一名32岁男性因数周的腹泻就诊。患者还间断性地出现痉挛性腹痛，在此期间体重减轻了7.0 kg (15.4 lb)。患者有HIV病史，6个月前曾因肺孢子虫肺炎住院。体格检查显示，患者无发热，腹部柔软，无压痛，无脏器肿大。粪便白细胞和潜血试验结果均为阴性。进行内镜检查和黏膜活检显示，固有层有炎性浸润，上皮细胞排列有病原体，如展出{{exhibit_1}}所示。以下哪项最可能是该患者病情的病因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's condition?",
+    "zh": "以下哪项最可能是该患者病情的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Cryptosporidium parvum",
+      "zh": "微小隐孢子虫"
+    },
+    "B": {
+      "en": "Cytomegalovirus",
+      "zh": "巨细胞病毒"
+    },
+    "C": {
+      "en": "Entamoeba histolytica",
+      "zh": "溶组织内阿米巴"
+    },
+    "D": {
+      "en": "Giardia lamblia",
+      "zh": "兰伯贾第鞭毛虫"
+    },
+    "E": {
+      "en": "Mycobacterium avium complex",
+      "zh": "鸟分枝杆菌复合体"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "**Cryptosporidiosis**\n\nPathogenesis:\n*   Fecal-oral transmission (eg, contaminated water, animal contact)\n*   Oocyte ingestion\n*   sporozoite attachment to intestinal epithelium\n*   intraluminal meront formation\n*   fecal oocyte shedding\n\nClinical manifestations:\n*   Immunocompetent: self-resolving, watery (noninflammatory) diarrhea <2 weeks\n*   Immunosuppressed (eg, AIDS, transplant recipient): prolonged, severe diarrhea with weight loss/malabsorption\n\nDiagnosis:\n*   Stool PCR testing\n*   Stool microscopy: acid-fast staining oocysts or immunofluorescent assay\n*   Histology: basophilic *Cryptosporidium* organisms on intestinal brush border, small intestinal villous blunting, lamina propria inflammation\n\n*Cryptosporidium* is a protozoan that causes infectious diarrhea. Oocysts are ingested in contaminated water (less commonly in food), travel to the small intestine, and shed sporozoites that attach to **epithelial cells**. They then mature intraluminally into meronts capable of invading new host intestinal cells (eg, auto-infection) as well as producing oocytes that are then shed in feces.\n\nPatients who are otherwise healthy develop self-limited, **watery diarrhea** that typically lasts <2 weeks. However, those with impaired cell-mediated immunity—particularly individuals with **AIDS** (as is likely in this patient with HIV who recently had *Pneumocystis* pneumonia)—are at risk for life-threatening diarrhea with fluid loss sometimes exceeding >20 L per day.\n\nThe diagnosis can be made by stool PCR testing or modified **acid-fast stain**, which usually reveals *Cryptosporidium* oocysts. Standard ova and parasite stool tests cannot detect the organism, and fecal leukocytes/occult blood tests are often negative (ie, noninflammatory). Histopathologic findings include small intestinal villous blunting, inflammatory infiltration within the lamina propria, and **basophilic *Cryptosporidium* organisms** on the mucosal brush border.\n\n(Choice B) Cytomegalovirus (CMV) enterocolitis in immunosuppressed patients may cause profuse diarrhea, but biopsies of CMV-infected tissues reveal large cells with **intranuclear** and **intracytoplasmic inclusions** (eg, owl's eye appearance); organisms lining the epithelium would not be seen. In addition, most patients have abdominal pain and fever.\n\n(Choice C) *Entamoeba histolytica* is a protozoan that usually causes dysentery (bloody diarrhea); this patient's negative fecal leukocytes and blood make this diagnosis less likely. Moreover, histopathology generally reveals flask-shaped colonic ulcers with \"foamy\" trophozoites that resemble macrophages.\n\n(Choice D) *Giardia lamblia* is a protozoan that causes foul-smelling, oily diarrhea (steatorrhea) from fat malabsorption, which can lead to weight loss. Unlike this case, stool microscopy shows oval-shaped cysts and flagellated pear-shaped trophozoites with two large central nuclei.\n\n(Choice E) *Mycobacterium avium* complex is an opportunistic infection in patients with advanced HIV (CD4 count <50/mm3) and often causes watery diarrhea and weight loss. However, the organism rapidly penetrates the mucosa and disseminates throughout the reticuloendothelial system (eg, lymphadenopathy, hepatosplenomegaly); it does not remain attached to the intestinal mucosa.\n\nEducational objective:\n*Cryptosporidium* may lead to severe and protracted diarrhea in immunocompromised patients (eg, advanced HIV). Diagnosis is usually made by visualizing acid-fast staining oocysts in the stool. The presence of basophilic organisms lining the brush border on intestinal histopathology is also diagnostic. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "**隐孢子虫病**\n\n发病机制：\n*   粪口传播（如，受污染的水，动物接触）\n*   卵囊摄入\n*   孢子附着于肠上皮\n*   腔内裂殖体形成\n*   粪便卵囊脱落\n\n临床表现：\n*   免疫功能正常者：自限性、水样（非炎症性）腹泻，持续<2周\n*   免疫抑制者（如，艾滋病、移植受者）：腹泻时间长，严重腹泻伴体重减轻/吸收不良\n\n诊断：\n*   粪便PCR检测\n*   粪便镜检：抗酸染色卵囊或免疫荧光试验\n*   组织学：肠刷状缘上的嗜碱性*隐孢子虫*，小肠绒毛变钝，固有层炎症\n\n*隐孢子虫* 是一种引起感染性腹泻的原生动物。卵囊通过受污染的水（较少通过食物）摄入，到达小肠，并释放出孢子，孢子附着在**上皮细胞**上。然后它们在腔内成熟为裂殖体，能够侵入新的宿主肠细胞（例如，自身感染），并产生随后在粪便中脱落的卵囊。\n\n其他方面健康的患者会发生自限性、**水样腹泻**，通常持续<2周。然而，那些细胞介导免疫受损的患者——特别是**艾滋病**患者（如该HIV感染患者最近患有*肺孢子虫*肺炎），有发生危及生命的腹泻的风险，液体流失有时超过每天>20升。\n\n可以通过粪便PCR检测或改良的**抗酸染色**进行诊断，通常会发现*隐孢子虫*卵囊。标准的卵和寄生虫粪便检查无法检测到该生物，并且粪便白细胞/潜血检查结果通常为阴性（即，非炎症性）。组织病理学发现包括小肠绒毛变钝，固有层内炎性浸润，以及黏膜刷状缘上的**嗜碱性*隐孢子虫***。\n\n（选项B）免疫抑制患者的巨细胞病毒（CMV）肠结肠炎可能导致大量腹泻，但CMV感染组织的活检显示，细胞较大，有**核内**和**胞质内包涵体**（例如，猫头鹰眼外观）；不会看到上皮细胞排列的病原体。此外，大多数患者有腹痛和发热。\n\n（选项C）*溶组织内阿米巴*是一种原生动物，通常引起痢疾（血性腹泻）；该患者的粪便白细胞和血液阴性使该诊断的可能性降低。此外，组织病理学通常显示烧瓶状的结肠溃疡，其中有“泡沫状”滋养体，类似于巨噬细胞。\n\n（选项D）*兰伯贾第鞭毛虫*是一种原生动物，引起来自脂肪吸收不良的恶臭、油性腹泻（脂肪泻），这可能导致体重减轻。与本例不同的是，粪便镜检显示卵形包囊和带鞭毛的梨形滋养体，有两个大的中央核。\n\n（选项E）*鸟分枝杆菌复合体*是晚期HIV患者（CD4计数<50/mm3）的条件性感染，常引起水样腹泻和体重减轻。然而，该生物体迅速穿透黏膜并散播到整个网状内皮系统（如，淋巴结病、肝脾肿大）；它不会附着于肠黏膜。\n\n教育目标：\n*隐孢子虫*可能导致免疫功能低下患者（如，晚期HIV）发生严重而持久的腹泻。诊断通常通过观察粪便中的抗酸染色卵囊来完成。肠道组织病理学中刷状缘上存在嗜碱性生物体也具有诊断意义。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of opportunistic infections causing chronic diarrhea in immunocompromised patients, specifically Cryptosporidium parvum in HIV patients. It requires recognizing the clinical presentation and diagnostic methods for Cryptosporidiosis. \n\nThe best approach is to consider the patient's HIV status and recent Pneumocystis pneumonia, which suggests an immunocompromised state. Then, evaluate the symptoms (watery diarrhea, weight loss) and biopsy findings (inflammatory infiltrate, pathogens lining the epithelium) to narrow down the differential diagnosis and select the most likely pathogen.",
+    "zh": "这个问题考察了关于机会性感染导致免疫功能低下患者慢性腹泻的知识，特别是HIV患者的微小隐孢子虫病。它要求识别隐孢子虫病的临床表现和诊断方法。\n\n最佳方法是考虑患者的HIV状况和近期肺孢子虫肺炎，这表明存在免疫功能低下状态。然后，评估症状（水样腹泻、体重减轻）和活检结果（炎性浸润、上皮细胞排列病原体），以缩小鉴别诊断范围并选择最可能的病原体。"
+  },
+  "tags": "Cryptosporidiosis; HIV; Diarrhea; Opportunistic infection; Acid-fast stain; Gastroenterology; Infectious disease",
+  "category": "GIT",
+  "question_id": "7642",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\7642",
+  "extracted_at": "2025-11-05T14:38:34.091797",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:59:10.719322",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

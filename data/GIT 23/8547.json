@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 52-year-old man is brought to the emergency department for hematemesis that began an hour earlier. He has regularly consumed large amounts of alcohol for the last 20 years and has been hospitalized numerous times due to ethanol intoxication. Temperature is 36.7 C (98 F), blood pressure is 90/60 mm Hg, pulse is 106/min, and respirations are 22/min. Physical examination shows jaundice and scleral icterus. Examination of the abdomen reveals a palpable spleen and moderate ascites. Endoscopy reveals bleeding esophageal varices. This patient's current condition most likely resulted from chronic shunting of blood through which of the following veins? {{exhibit_1}}",
+    "zh": "一名52岁男性因呕血被送至急诊科，呕血开始于一小时前。过去20年来，他经常饮用大量酒精，并多次因乙醇中毒住院治疗。体温36.7摄氏度（98华氏度），血压90/60毫米汞柱，脉搏106次/分钟，呼吸22次/分钟。体格检查显示黄疸和巩膜黄染。腹部检查显示可触及的脾脏和中度腹水。内镜检查显示食管静脉曲张出血。该患者目前的状况最可能由血液通过下列哪条静脉的慢性分流所致？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "This patient has numerous cirrhotic stigmata including ascites, jaundice, and splenomegaly. An important cause of cirrhosis-related morbidity and mortality is the development of variceal hemorrhaging as a direct consequence of portal hypertension.",
+    "zh": "该患者有多种肝硬化体征，包括腹水、黄疸和脾肿大。肝硬化相关发病率和死亡率的一个重要原因是静脉曲张出血，这是门静脉高压的直接后果。"
+  },
+  "options": {
+    "A": {
+      "en": "Left gastric",
+      "zh": "左胃静脉"
+    },
+    "B": {
+      "en": "Middle colic",
+      "zh": "中间结肠静脉"
+    },
+    "C": {
+      "en": "Paraumbilical",
+      "zh": "脐旁静脉"
+    },
+    "D": {
+      "en": "Right gastroepiploic",
+      "zh": "右胃网膜静脉"
+    },
+    "E": {
+      "en": "Splenic",
+      "zh": "脾静脉"
+    },
+    "F": {
+      "en": "Superficial epigastric",
+      "zh": "浅表腹壁上静脉"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Cirrhosis (of any type) represents the end stage of progressive hepatic fibrosis. It is characterized by distortion of the hepatic architecture and formation of regenerative nodules. Cirrhosis is the most common cause of PORTAL HYPERTENSION, which arises from increased resistance to portal flow at the hepatic sinusoids. Chronic portal hypertension leads to dilation of small, pre-existing vascular channels between the portal and systemic circulations. These dilated collateral vessels (portosystemic anastomoses) commonly form in the anterior abdomen (caput medusae), lower rectum (anorectal varices), and inferior end of the esophagus (esophageal varices). {{exhibit_2}}\n\nTreatment sometimes includes inserting a transjugular intrahepatic portosystemic shunt (TIPS) between the portal vein and hepatic vein percutaneously, relieving portal hypertension by shunting blood to the systemic circulation.\n\n(Choice B) The middle colic vein drains the transverse colon.\n\n(Choices C and F) In cirrhosis, the paraumbilical veins can shunt blood from the portal system to superficial epigastric veins in the abdominal wall, causing caput medusae.\n\n(Choice D) The right gastroepiploic vein drains venous blood from the inferior portions of the stomach. It runs along the greater curvature of the stomach.\n\n(Choice E) The splenic vein drains blood from the spleen. It joins with the superior mesenteric vein to form the hepatic portal vein. Patients with portal hypertension can develop splenomegaly due to congestion of the splenic red pulp. {{exhibit_3}}\n\nEducational objective:\nIn cirrhosis, portal hypertension arises from increased resistance to portal flow at the hepatic sinusoids. This causes increased pressure in the portosystemic collateral veins within the lower end of the esophagus, anterior abdomen, and lower rectum. Dilation of these collateral vessels is responsible for the esophageal varices, caput medusae, and anorectal varices commonly seen in patients with cirrhosis.",
+    "zh": "肝硬化（任何类型）代表进行性肝纤维化的终末期。其特征是肝脏结构的变形和再生结节的形成。肝硬化是门静脉高压最常见的原因，门静脉高压源于肝窦内对门静脉血流的阻力增加。慢性门静脉高压导致门静脉循环和体循环之间存在的小型、预先存在的血管通道扩张。这些扩张的侧支血管（门体静脉吻合）通常形成于腹前壁（海蛇头）、直肠下端（肛门直肠静脉曲张）和食管下端（食管静脉曲张）。 {{exhibit_2}}\n\n治疗有时包括经皮插入经颈静脉肝内门体分流术（TIPS），在门静脉和肝静脉之间进行分流，通过将血液分流到体循环来缓解门静脉高压。\n\n（选项B）中间结肠静脉引流横结肠。\n\n（选项C和F）在肝硬化中，脐旁静脉可以将血液从门静脉系统分流到腹壁的浅表腹壁上静脉，从而引起海蛇头。\n\n（选项D）右胃网膜静脉引流来自胃下部的静脉血。它沿着胃大弯走行。\n\n（选项E）脾静脉引流来自脾脏的血液。它与肠系膜上静脉汇合形成肝门静脉。门静脉高压患者可能会因脾红髓淤血而出现脾肿大。 {{exhibit_3}}\n\n教育目标：\n在肝硬化中，门静脉高压源于肝窦内对门静脉血流的阻力增加。这会导致食管下端、腹前壁和直肠下端的门体侧支静脉内的压力升高。这些侧支血管的扩张是导致肝硬化患者常见的食管静脉曲张、海蛇头和肛门直肠静脉曲张的原因。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of esophageal varices in the setting of cirrhosis and portal hypertension. It requires understanding of the venous drainage of the gastrointestinal tract and the formation of portosystemic shunts.\n\nTo solve this question, recognize the clinical presentation of cirrhosis and portal hypertension. Identify the veins involved in esophageal varices formation as a consequence of increased pressure in the portal system.",
+    "zh": "这个问题考察了在肝硬化和门静脉高压的背景下，对食管静脉曲张的病理生理学的了解。它需要理解胃肠道的静脉引流和门体分流的形成。\n\n要解决这个问题，需要认识到肝硬化和门静脉高压的临床表现。确定参与食管静脉曲张形成的静脉，这是门静脉系统压力升高的结果。"
+  },
+  "tags": "Cirrhosis; Portal hypertension; Esophageal varices; Hematemesis; Gastrointestinal bleeding; Liver disease; Alcohol abuse; Portosystemic shunts; Left gastric vein",
+  "category": "GIT",
+  "question_id": "8547",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\8547",
+  "extracted_at": "2025-11-05T14:39:21.865339",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:59:28.046716",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

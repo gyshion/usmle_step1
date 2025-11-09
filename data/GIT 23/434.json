@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old man comes to the emergency department due to sudden-onset vomiting and severe upper abdominal pain that radiates to his back. The patient's total bilirubin is 0.9 mg/dL, aspartate aminotransferase (AST) is 98 U/L, alanine aminotransferase (ALT) is 32 U/L, and alkaline phosphatase is 98 U/L. Serum lipase is markedly increased. Abdominal ultrasound reveals a normal gallbladder and common bile duct. The diagnosis of acute pancreatitis is made, and a specific etiology is established.",
+    "zh": "一名45岁男性因突发性呕吐和向后背放射的严重上腹痛来到急诊科。患者总胆红素为0.9 mg/dL，天冬氨酸转氨酶(AST)为98 U/L，丙氨酸转氨酶(ALT)为32 U/L，碱性磷酸酶为98 U/L。血清脂肪酶显著升高。腹部超声显示胆囊和胆总管正常。诊断为急性胰腺炎，并确定了特定的病因。"
+  },
+  "question": {
+    "en": "Which of the following additional laboratory findings is most specific for the underlying cause of this patient's pancreatitis?",
+    "zh": "以下哪项附加的实验室检查结果对该患者胰腺炎的潜在病因最具特异性？"
+  },
+  "options": {
+    "A": {
+      "en": "Mean corpuscular volume of 108 fL",
+      "zh": "平均红细胞体积108 fL"
+    },
+    "B": {
+      "en": "Serum calcium level of 8 mg/dL",
+      "zh": "血清钙水平8 mg/dL"
+    },
+    "C": {
+      "en": "Serum glucose level of 180 mg/dL",
+      "zh": "血清葡萄糖水平180 mg/dL"
+    },
+    "D": {
+      "en": "Serum sodium level of 150 mEq/L",
+      "zh": "血清钠水平150 mEq/L"
+    },
+    "E": {
+      "en": "White blood cell count of 22,000/mm^3",
+      "zh": "白细胞计数22,000/mm^3"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's acute pancreatitis is likely related to chronic alcohol use given his >2 AST:ALT ratio and absence of gallstones on abdominal ultrasound. After gallstones, alcohol use is the second most common cause of acute pancreatitis. Ethanol induces pancreatic secretions with a high protein concentration and low fluid content. These viscous secretions are prone to precipitate and form plugs that can obstruct the lumina of the pancreatic ductules. Alcohol also causes spasms of the sphincter of Oddi and has a direct toxic effect on the acinar cells.\n\nAlcohol-related acute pancreatitis is clinically indistinguishable from pancreatitis due to other causes. However, chronic alcohol use causes a number of systemic effects due to both the direct toxic actions of ethanol and alcohol-associated vitamin deficiencies. Even in the absence of anemia, macrocytosis (mean corpuscular volume >100 fL) is often seen and is likely related to poor nutrition (eg, folate deficiency), liver disease, and/or direct toxicity of alcohol on the marrow.\n\n(Choice B) In severe acute pancreatitis, necrosis can spread into the retroperitoneal fat, omentum, mesentery, and even beyond the abdominal cavity. Large amounts of calcium bind to the released free fatty acids, forming soaps that are deposited in the areas of necrosis, which may result in hypocalcemia. However, this is a nonspecific finding that can occur with pancreatitis of any etiology, not just alcohol-related pancreatitis.\n\n(Choice C) Inflammation in acute pancreatitis may lead to dysfunction of the pancreatic islets with decreased secretion of insulin, resulting in hyperglycemia. This is a nonspecific finding that can occur with pancreatitis of any etiology, not just alcohol-related pancreatitis.\n\n(Choice D) Hypernatremia may occur in the setting of severe acute pancreatitis due to large third-space fluid loss (ie, interstitial fluid accumulation) and decreased water intake, causing subsequent hypovolemia and renal sodium retention. This finding is also not specific for alcohol-related pancreatitis.\n\n(Choice E) An increased white blood cell count is a nonspecific marker of inflammation and may occur with pancreatitis of any etiology.\n\nEducational objective:\nAfter gallstones, chronic alcohol use is the second most common cause of acute pancreatitis. Macrocytosis and an AST:ALT ratio >2 are indirect indicators of chronic alcohol consumption. Alcohol-related macrocytosis can occur independently of folate deficiency.",
+    "zh": "考虑到该患者的AST/ALT比值>2且腹部超声未见胆结石，其急性胰腺炎可能与长期饮酒有关。继胆结石之后，饮酒是急性胰腺炎的第二大常见原因。乙醇会诱导胰腺分泌高蛋白浓度和低液体含量的分泌物。这些粘稠的分泌物容易沉淀并形成栓子，从而阻塞胰管的管腔。酒精还会引起奥狄括约肌痉挛，并对腺泡细胞产生直接的毒性作用。\n\n与因其他原因引起的胰腺炎相比，酒精相关的急性胰腺炎在临床上是无法区分的。然而，长期饮酒会导致许多全身性影响，这既是由于乙醇的直接毒性作用，也是由于酒精相关的维生素缺乏。即使在没有贫血的情况下，也经常会观察到大细胞性增多（平均红细胞体积 >100 fL），这可能与营养不良（例如，叶酸缺乏症）、肝病和/或酒精对骨髓的直接毒性有关。\n\n(选项 B) 在严重的急性胰腺炎中，坏死会扩散到腹膜后脂肪、网膜、肠系膜，甚至超出腹腔。大量的钙与释放的游离脂肪酸结合，形成沉积在坏死区域的肥皂，这可能导致低钙血症。然而，这是一种非特异性表现，可发生在任何病因的胰腺炎中，而不仅仅是酒精相关的胰腺炎。\n\n(选项 C) 急性胰腺炎的炎症可能导致胰岛功能障碍，胰岛素分泌减少，从而导致高血糖。这是一种非特异性表现，可发生在任何病因的胰腺炎中，而不仅仅是酒精相关的胰腺炎。\n\n(选项 D) 在严重的急性胰腺炎中，由于大量第三间隙液体丢失（即，间质液积聚）和饮水减少，可能会发生高钠血症，导致随后的血容量不足和肾钠潴留。这种发现也不是酒精相关性胰腺炎特有的。\n\n(选项 E) 白细胞计数升高是非特异性炎症标志物，可发生在任何病因的胰腺炎中。\n\n教育目标：\n继胆结石之后，长期饮酒是急性胰腺炎的第二大常见原因。大细胞性增多和AST/ALT 比值 >2 是长期饮酒的间接指标。酒精相关性大细胞性增多症可以独立于叶酸缺乏症而发生。"
+  },
+  "summary": {
+    "en": "This question tests the ability to identify the most specific laboratory finding associated with alcohol-induced pancreatitis. It requires knowledge of the common causes of pancreatitis and the systemic effects of chronic alcohol use.\n\nThe key to solving this question is recognizing that the patient's history and lab values suggest alcohol as the likely cause. Look for findings that are more specific to alcohol-related pancreatitis than to pancreatitis in general, such as macrocytosis and an AST:ALT ratio greater than 2.",
+    "zh": "此题测试识别与酒精诱导的胰腺炎相关的最具特异性的实验室检查结果的能力。它需要了解胰腺炎的常见病因以及长期饮酒的全身性影响。\n\n解决此问题的关键是认识到患者的病史和实验室数值表明酒精是可能的原因。寻找比普通胰腺炎更具酒精相关性胰腺炎特异性的发现，例如大细胞性增多和AST/ALT 比值大于 2。"
+  },
+  "tags": "Acute pancreatitis; Alcohol abuse; Macrocytosis; AST/ALT ratio; Gastroenterology; Laboratory diagnosis",
+  "category": "GIT",
+  "question_id": "434",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\434",
+  "extracted_at": "2025-11-05T14:36:26.581410",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:58:08.550075",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "The aim of a prospective cohort study conducted in a group of adults with diagnosed type 2 diabetes mellitus (T2DM) is to investigate the association between the presence of morbid obesity (BMI >40 kg/m²) and the risk of developing diabetic nephropathy. One of the groups in the study consists of adults with T2DM, a BMI >40 kg/m², and no diabetic nephropathy.",
+    "zh": "一项针对一组已确诊2型糖尿病（T2DM）成年人的前瞻性队列研究，旨在调查病态肥胖（BMI >40 kg/m²）与发生糖尿病肾病的风险之间的关联。研究组之一包括T2DM患者、BMI >40 kg/m²且无糖尿病肾病的成年人。"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate comparison group for this prospective cohort study?",
+    "zh": "以下哪一项是该前瞻性队列研究最合适的对照组？"
+  },
+  "options": {
+    "A": {
+      "en": "Adults with T2DM who have morbid obesity (BMI >40 kg/m²) and diabetic nephropathy",
+      "zh": "患有T2DM且患有病态肥胖（BMI >40 kg/m²）和糖尿病肾病的成年人"
+    },
+    "B": {
+      "en": "Adults with T2DM who have normal weight (BMI 18.5 to <25 kg/m²) and diabetic nephropathy",
+      "zh": "患有T2DM且体重正常（BMI 18.5至<25 kg/m²）和糖尿病肾病的成年人"
+    },
+    "C": {
+      "en": "Adults with T2DM who have normal weight (BMI 18.5 to <25 kg/m²) and no diabetic nephropathy",
+      "zh": "患有T2DM且体重正常（BMI 18.5至<25 kg/m²）且无糖尿病肾病的成年人"
+    },
+    "D": {
+      "en": "Adults without T2DM who have morbid obesity (BMI >40 kg/m²) and no diabetic nephropathy",
+      "zh": "未患T2DM且患有病态肥胖（BMI >40 kg/m²）且无糖尿病肾病的成年人"
+    },
+    "E": {
+      "en": "Adults without T2DM who have normal weight (BMI 18.5 to <25 kg/m²) and diabetic nephropathy",
+      "zh": "未患T2DM且体重正常（BMI 18.5至<25 kg/m²）和糖尿病肾病的成年人"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The population of interest is patients with TYPE 2 DIABETES MELLITUS (T2DM). The risk factor of interest is MORBID OBESITY (BMI >40 kg/m²). The outcome of interest is DIABETIC NEPHROPATHY. The exposed group is adults with T2DM who have morbid obesity and no diabetic nephropathy; the nonexposed group is adults with T2DM who have normal weight (BMI 18.5 to <25 kg/m²) and no diabetic nephropathy.",
+    "zh": "感兴趣的人群是2型糖尿病（T2DM）患者。感兴趣的风险因素是病态肥胖（BMI >40 kg/m²）。感兴趣的结局是糖尿病肾病。暴露组是患有T2DM且患有病态肥胖且无糖尿病肾病的成年人；非暴露组是患有T2DM且体重正常（BMI 18.5至<25 kg/m²）且无糖尿病肾病的成年人。"
+  },
+  "summary": {
+    "en": "1) Cohort study design 2) In a cohort study, subjects should be initially selected from the population of interest (eg, T2DM) based on their exposure status to a risk factor (eg, presence or absence of morbid obesity). Subjects are then monitored during the study period for development of the outcome of interest (eg, diabetic nephropathy).",
+    "zh": "1) 队列研究设计 2) 在队列研究中，应首先根据受试者对风险因素的暴露状态（例如，是否存在病态肥胖）从感兴趣的人群（例如，T2DM）中选择受试者。然后在研究期间监测受试者是否发展出感兴趣的结局（例如，糖尿病肾病）。"
+  },
+  "tags": "Cohort study; Type 2 Diabetes Mellitus; Morbid Obesity; Diabetic Nephropathy; Study design",
+  "category": "Bio",
+  "question_id": "14859",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\14859",
+  "extracted_at": "2025-11-05T10:59:26.163402",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:21:43.798401",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

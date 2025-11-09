@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "An 85-year-old woman comes to the emergency department due to worsening eye pain. The patient noticed a rash around the left eye yesterday and, this morning, began experiencing left eye pain, redness, and decreased vision. Physical examination shows scattered vesicles on the left side of the forehead and nose and on the left upper and lower eyelids. Left eye examination shows conjunctival erythema, and fluorescein staining demonstrates linear, branching ulcerations on the cornea. Right eye examination and the remainder of the physical examination are normal.",
+    "zh": "一位85岁的女性因眼痛加重来到急诊科。患者昨天注意到左眼周围出现皮疹，今天早上开始出现左眼疼痛、发红和视力下降。体格检查显示前额和鼻子左侧以及左上眼睑和下眼睑散在水疱。左眼检查显示结膜充血，荧光素染色显示角膜上有线状、分支状溃疡。右眼检查和其余体格检查均正常。"
+  },
+  "question": {
+    "en": "Which of the following pathogens is most likely responsible for this patient's current condition?",
+    "zh": "以下哪种病原体最有可能导致患者目前的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Adenovirus",
+      "zh": "腺病毒"
+    },
+    "B": {
+      "en": "Candida albicans",
+      "zh": "白色念珠菌"
+    },
+    "C": {
+      "en": "Herpes simplex virus",
+      "zh": "单纯疱疹病毒"
+    },
+    "D": {
+      "en": "Pseudomonas aeruginosa",
+      "zh": "铜绿假单胞菌"
+    },
+    "E": {
+      "en": "Varicella-zoster virus",
+      "zh": "水痘-带状疱疹病毒"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient has herpes zoster ophthalmicus, a condition caused by reactivation of latent varicella-zoster virus (VZV) in the ophthalmic division of the trigeminal nerve (CN V1). Following primary VZV infection (ie, chickenpox), the virus is transported retrograde along sensory nerves to cranial nerve and dorsal spinal ganglia, where it lies dormant for years. Reactivation of the virus most commonly occurs in elderly or immunosuppressed patients and typically causes sensory disturbances (eg, burning or shooting pains) and eruption of a painful rash (eg, scattered vesicles) in the associated dermatome (eg, unilateral forehead, side of the nose, periorbital area). A prodrome of systemic symptoms (eg, headache, malaise, fever) can also occur. Because CN V1 also conveys sensory innervation of the cornea (sensory limb of the corneal/blink reflex), involvement can cause acute keratitis (ie, corneal inflammation) and corneal ulceration (eg, linear, branching ulcerations on fluorescein stain). Involvement of the side or tip of the nose (ie, Hutchinson sign) correlates highly with ocular involvement because the nasociliary branch of CN V1 innervates both the eye and the side/tip of the nose.\n(Choice A) Viral conjunctivitis is most commonly caused by adenovirus. It typically presents with monocular conjunctival erythema and eye discomfort; scattered skin vesicles and corneal ulcerations would not be seen.\n(Choice B) Hematogenous dissemination of Candida albicans can cause fungal endophthalmitis. The fungus typically seeds the highly vascular choroid then spreads to the retina and fluid chambers, manifesting as floaters and progressively decreasing vision. Eye pain is rare until late in the disease process, and corneal ulceration does not typically occur.\n(Choices C and D) Herpes simplex virus is a common cause of keratitis and can occur in healthy adults, although immunodeficiency increases the risk. Pseudomonas aeruginosa is a common cause of bacterial keratitis, especially in contact lens users. Both can cause corneal ulceration, leading to eye pain, redness, and decreased vision. However, neither causes a vesicular, dermatomal rash.",
+    "zh": "该患者患有带状疱疹眼部疾病，这是一种由潜伏性水痘-带状疱疹病毒（VZV）在三叉神经眼支（CN V1）中再激活引起的疾病。在原发性VZV感染（即水痘）后，病毒沿感觉神经逆行运输至颅神经和背根神经节，在那里潜伏多年。病毒的再激活最常发生在老年或免疫抑制患者中，通常会导致感觉障碍（例如，烧灼感或放射性疼痛）和相关皮节（例如，单侧额头、鼻子侧面、眼眶周围区域）出现疼痛性皮疹（例如，散在水疱）。前驱全身症状（例如，头痛、不适、发烧）也可能发生。由于CN V1也传递角膜的感觉神经支配（角膜/眨眼反射的感觉分支），受累可引起急性角膜炎（即，角膜炎症）和角膜溃疡（例如，荧光素染色上的线状、分支状溃疡）。鼻子侧面或尖端（即，Hutchinson征）的受累与眼部受累高度相关，因为CN V1的鼻睫状分支支配眼睛和鼻子侧面/尖端。\n(选项A) 病毒性结膜炎最常由腺病毒引起。它通常表现为单眼结膜充血和眼部不适；不会看到散在的皮肤水疱和角膜溃疡。\n(选项B) 白色念珠菌的血源性播散可引起真菌性眼内炎。真菌通常播种到高度血管化的脉络膜，然后扩散到视网膜和液腔，表现为飞蚊症和进行性视力下降。眼痛直到疾病过程后期才罕见，并且通常不会发生角膜溃疡。\n(选项C和D) 单纯疱疹病毒是角膜炎的常见病因，可在健康成年人中发生，尽管免疫缺陷会增加风险。铜绿假单胞菌是细菌性角膜炎的常见病因，尤其是在隐形眼镜使用者中。两者都可以引起角膜溃疡，导致眼痛、发红和视力下降。然而，两者都不会引起水疱性、皮节性皮疹。"
+  },
+  "summary": {
+    "en": "This question tests the recognition of herpes zoster ophthalmicus, a reactivation of varicella-zoster virus affecting the ophthalmic division of the trigeminal nerve. Key features include a unilateral vesicular rash on the forehead and nose (Hutchinson sign), eye pain, conjunctival erythema, and characteristic linear, branching corneal ulcerations seen on fluorescein staining.\nTo solve this question, identify the classic triad of symptoms: dermatomal rash (especially involving the V1 distribution), ocular symptoms (pain, redness, decreased vision), and corneal findings (keratitis, ulceration). The presence of vesicles on the forehead and nose strongly points towards VZV reactivation. Differentiate from other causes of keratitis like HSV or bacterial infections by the presence of the dermatomal rash.",
+    "zh": "此问题测试对带状疱疹眼部疾病的识别，这是影响三叉神经眼支的水痘-带状疱疹病毒的再激活。关键特征包括额头和鼻子上的单侧水疱性皮疹（Hutchinson征）、眼痛、结膜充血以及荧光素染色上可见的特征性线状、分支状角膜溃疡。\n要解决这个问题，请确定经典的症状三联征：皮节性皮疹（特别是涉及V1分布）、眼部症状（疼痛、发红、视力下降）和角膜表现（角膜炎、溃疡）。额头和鼻子上有水疱强烈指向VZV的再激活。通过存在皮节性皮疹来区分HSV或其他角膜炎病因，如细菌感染。"
+  },
+  "tags": "Herpes zoster ophthalmicus; Varicella-zoster virus; Trigeminal nerve; Ophthalmic division; Dermatome; Hutchinson sign; Keratitis; Corneal ulceration; Reactivation; Elderly; Infectious disease; Ophthalmology",
+  "category": "Ophthalmology",
+  "question_id": "107365",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ophthalmology 23\\107365",
+  "extracted_at": "2025-11-05T19:42:31.185275",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:44:15.498966",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

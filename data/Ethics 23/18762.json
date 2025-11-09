@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 38-year-old woman is admitted to the hospital overnight due to cellulitis. The next morning, the hospitalist on service introduces herself to the patient and asks how she is feeling. The patient angrily says, \"It's almost lunchtime, and I still haven't gotten my breakfast. How am I supposed to get better when you're starving me?\" The patient has an order to receive a regular diet.",
+    "zh": "一位38岁的女性因蜂窝织炎住院过夜。第二天早上，值班的住院医师向患者介绍了自己，并询问她的感觉。患者生气地说：“快到午餐时间了，我还没吃上早餐呢。你们这样饿着我，我怎么能好起来呢？” 患者有医嘱，需要接受普通饮食。"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate response by the physician?",
+    "zh": "以下哪项是医生最合适的回答？"
+  },
+  "options": {
+    "A": {
+      "en": "\"Hunger can make anyone upset, so I'll come back after you've eaten.\"",
+      "zh": "“饿会让任何人都不高兴，所以我会在你吃完饭后再来。”"
+    },
+    "B": {
+      "en": "\"I apologize for the delay, but I'm sure your food will be here shortly.\"",
+      "zh": "“对于延误，我表示歉意，但我相信你的食物很快就会送到。”"
+    },
+    "C": {
+      "en": "\"I'm sorry for the delay, but I don't control when meals are served, so please let your nurse know.\"",
+      "zh": "“对于延误，我很抱歉，但我不能控制何时提供餐食，请告知你的护士。”"
+    },
+    "D": {
+      "en": "\"Since I am here, let me examine you first and follow up on your breakfast afterward.\"",
+      "zh": "“既然我来了，让我先检查你，然后稍后会跟进你的早餐。”"
+    },
+    "E": {
+      "en": "\"You must be very hungry, so let me find out what happened to your meal.\"",
+      "zh": "“你一定饿坏了，让我来查一下你的餐食是怎么回事。”"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "In this scenario, the physician has an initial encounter with an angry patient who is upset about an aspect of her care that is not under the physician's direct control. Nevertheless, it is the physician's responsibility to be responsive to the patient's immediate concerns, attempt to defuse her anger, and build the physician-patient relationship. The physician should acknowledge the cause of the patient's distress (ie, hunger), remain nondefensive, and offer to obtain further information that could help resolve the issue (eg, confirming correct diet was ordered; checking with the nursing staff).\n\nThe physician should maintain a professional demeanor and avoid responding to the patient's anger with comments that may be interpreted as dismissive, defensive, or sarcastic. Being responsive to the patient's immediate concerns is more likely to build rapport, help the patient feel understood and lay a positive foundation for the physician patient relationship.\n\n(Choice A) This statement acknowledges the patient's distress but makes no attempt to respond to her concern.\n\n(Choice B) This statement offers an apology but inappropriately reassures the patient that the problem has been resolved when this is unknown.\n\n(Choice C) This statement may be interpreted as defensive because it focuses on explaining that the problem is not the physician's responsibility. Quickly addressing the patient's needs is more likely to defuse the situation and build the physician-patient relationship.\n\n(Choice D) Deferring resolution of the issue until after the examination is unlikely to defuse the patient's immediate anger and could, in turn, negatively affect her cooperation with the examination.",
+    "zh": "在这种情况下，医生最初遇到的是一位愤怒的患者，她对护理的某个方面感到不满，而这不在医生的直接控制范围内。然而，医生有责任对患者的直接担忧做出回应，试图缓解她的愤怒，并建立医患关系。医生应该承认患者痛苦的原因（即饥饿），保持不辩解的态度，并主动获取更多信息，以帮助解决问题（例如，确认正确的饮食已开具医嘱；与护理人员核实）。\n\n医生应保持专业的举止，避免用可能被解释为轻蔑、辩解或讽刺的言论来回应患者的愤怒。对患者的直接担忧做出回应更有可能建立融洽的关系，帮助患者感到被理解，并为医患关系奠定积极的基础。\n\n（选项 A）此声明承认了患者的痛苦，但没有试图回应她的担忧。\n\n（选项 B）此声明表示道歉，但错误地向患者保证问题已解决，而这是未知的。\n\n（选项 C）此声明可能被解释为辩解，因为它侧重于解释问题不在医生的责任范围内。快速解决患者的需求更有可能缓解局势并建立医患关系。\n\n（选项 D）将问题的解决推迟到检查之后，不太可能化解患者的即时愤怒，进而可能对她配合检查产生负面影响。"
+  },
+  "summary": {
+    "en": "This question tests the ability to handle initial encounters with angry patients and build a physician-patient relationship. It emphasizes the importance of acknowledging the patient's distress and responding to their immediate concerns.\n\nThe best approach is to acknowledge the patient's feelings, identify the cause of their distress, and offer to help resolve the issue. Avoid being dismissive, defensive, or sarcastic, and focus on building rapport and trust.",
+    "zh": "这个问题考察了处理与愤怒患者的初步接触并建立医患关系的能力。它强调了承认患者的痛苦并回应他们即时担忧的重要性。\n\n最好的方法是承认患者的感受，确定他们痛苦的原因，并主动帮助解决问题。避免轻视、辩解或讽刺，侧重于建立融洽的关系和信任。"
+  },
+  "tags": "Patient communication; Physician-patient relationship; Anger management; Hospital medicine; Medical ethics",
+  "category": "Ethics",
+  "question_id": "18762",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\18762",
+  "extracted_at": "2025-11-05T14:17:38.463216",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:47:28.514819",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

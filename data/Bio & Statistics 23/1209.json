@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A sample of children age 2-5 years is chosen at random from an outpatient clinic. The number of urinary tract infections (UTIs) over a 1-year period is given in the figure below.",
+    "zh": "从一家门诊随机抽取2-5岁儿童的样本。 下图给出了1年期间内尿路感染(UTI)的次数。"
+  },
+  "question": {
+    "en": "What was the average number of UTI episodes over 1 year for a child in this sample?",
+    "zh": "该样本中儿童1年内的平均UTI发作次数是多少？"
+  },
+  "options": {
+    "A": {
+      "en": "Between 0 and 1",
+      "zh": "0到1之间"
+    },
+    "B": {
+      "en": "1",
+      "zh": "1"
+    },
+    "C": {
+      "en": "Between 1 and 2",
+      "zh": "1到2之间"
+    },
+    "D": {
+      "en": "2",
+      "zh": "2"
+    },
+    "E": {
+      "en": "Between 2 and 3",
+      "zh": "2到3之间"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This bar graph illustrates the frequency of urinary tract infection (UTI) episodes in the sample. According to the figure, 50 children had 0 UTI, 30 children had 1 UTI, 10 had 2 UTIs, and 10 had 3 UTIs.\nIn general, the average (or mean) of a DATASET is the sum of the values divided by the total number of values. In this example, the average number of UTI episodes per child is the sum (ie, total number) of UTIs divided by the total sample size (ie, total number of children). The total sample size is: 50 + 30 + 10 + 10 = 100 children. The total number of UTIs is: (0 × 50) + (1 × 30) + (2 × 10) + (3 × 10) = 0 + 30 + 20 + 30 = 80 UTIs. The average is obtained by dividing the total number of UTIs (80) by the total sample size (100). Therefore, the average number of UTI EPISODES per year = 80/100 = 0.8 UTIs for a child in this sample.\nIn conclusion, children age 2-5 years in this clinic experienced between 0 and 1 UTI over 1 year on average.",
+    "zh": "该条形图说明了样本中尿路感染(UTI)发作的频率。 根据该图，50名儿童有0次UTI，30名儿童有1次UTI，10名儿童有2次UTI，10名儿童有3次UTI。\n一般来说，一个数据集的平均值(或均值)是所有数值的总和除以数值的总数。 在本例中，每个儿童的平均UTI发作次数是UTI的总和（即总数）除以总样本量（即儿童总数）。 总样本量为：50 + 30 + 10 + 10 = 100名儿童。 UTI总数为：(0 × 50) + (1 × 30) + (2 × 10) + (3 × 10) = 0 + 30 + 20 + 30 = 80次UTI。 通过将UTI总数(80)除以总样本量(100)即可得到平均值。 因此，该样本中儿童每年平均UTI发作次数 = 80/100 = 0.8次UTI。\n总之，该诊所中2-5岁儿童平均每年经历0到1次UTI。"
+  },
+  "summary": {
+    "en": "1) Calculating the average number of events from a bar graph. 2) Calculate the total number of UTIs and divide by the total number of children.",
+    "zh": "1) 从条形图中计算事件的平均数。 2) 计算UTI的总数，然后除以儿童的总数。"
+  },
+  "tags": "UTI; average; bar graph; biostatistics; epidemiology; central tendency",
+  "category": "Bio",
+  "question_id": "1209",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1209",
+  "extracted_at": "2025-11-05T10:58:33.107456",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:19:43.195470",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

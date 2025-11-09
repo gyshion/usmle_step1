@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 5-month-old boy is being evaluated for poor weight gain since birth. He is noted to have bulky and greasy stools. A jejunal biopsy shows the findings seen in the slide below {{exhibit_1}}.",
+    "zh": "一名 5 个月大的男孩因出生后体重增长不良而接受评估。 观察到他有大量且油腻的粪便。 空肠活检显示以下切片 {{exhibit_1}} 中的发现。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Abetalipoproteinemia",
+      "zh": "无 β 脂蛋白血症"
+    },
+    "B": {
+      "en": "Chronic pancreatitis",
+      "zh": "慢性胰腺炎"
+    },
+    "C": {
+      "en": "Crohn disease",
+      "zh": "克罗恩病"
+    },
+    "D": {
+      "en": "Lactase deficiency",
+      "zh": "乳糖酶缺乏症"
+    },
+    "E": {
+      "en": "Whipple disease",
+      "zh": "Whipple 病"
+    },
+    "F": {
+      "en": "Zollinger-Ellison syndrome",
+      "zh": "卓-艾综合征"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The characteristic microscopic finding {{exhibit_2}} is accumulation of lipids in the absorptive cells of the intestinal epithelium and are typical of abetalipoproteinemia, a disease caused by impaired formation of apolipoprotein B (apoB)-containing lipoproteins.\n\nDietary lipids are normally processed in small-bowel enterocytes and secreted as chylomicrons; endogenously produced lipids are secreted from hepatocytes as very low-density lipoprotein (VLDL). Chylomicron and VLDL particles are synthesized within the endoplasmic reticulum as lipids accumulate around apolipoprotein B (apoB). ApoB-100 is found in VLDL, and apoB-48 (a truncated version without the LDL receptor ligand) is present in chylomicrons. During the synthesis of apoB-containing lipoproteins, microsomal triglyceride transfer protein (MTP) functions as a chaperone protein necessary for proper folding of apoB and also participates in the transfer of lipids to newly formed chylomicrons and VLDL particles.\n\nAbetalipoproteinemia is most commonly caused by an autosomal recessive, loss-of-function mutation in the MTP gene. It manifests during the first year of life with symptoms of malabsorption (eg, abdominal distention, foul-smelling stool). Laboratory studies show very low plasma triglyceride and cholesterol levels; chylomicrons, VLDLs, and apoB are entirely absent from the blood. Poor lipid absorption causes deficiency of fat-soluble vitamins (particularly vitamin E) and essential fatty acids. This results in red blood cells with abnormal membranes and thorny projections called acanthocytes as well as multiple neurologic abnormalities (eg, progressive ataxia, retinitis pigmentosa).\n\n(Choices B, D, and F) No abnormalities are found on light microscopy of the small intestine in chronic pancreatitis or lactase deficiency. In Zollinger-Ellison syndrome, the small intestine may show ulcerations due to gastrin production by a neuroendocrine tumor (ie, gastrinoma).\n\n(Choice C) Light microscopy in Crohn disease shows chronic inflammation of all layers of the intestinal wall and noncaseating granulomas.\n\n(Choice E) The characteristic microscopic finding in Whipple disease is distended macrophages in the lamina propria of the small intestine. Macrophages contain PAS-positive and diastase-resistant granules and rod-shaped Tropheryma whippelii bacilli. {{exhibit_3}} {{exhibit_4}}",
+    "zh": "特征性显微镜下发现 {{exhibit_2}} 是脂质在肠上皮的吸收细胞中积聚，这典型见于无 β 脂蛋白血症，这是一种由载脂蛋白 B (apoB) 包含脂蛋白形成受损引起的疾病。\n\n膳食脂质通常在小肠肠细胞中被处理并作为乳糜微粒分泌； 内源性产生的脂质从肝细胞中作为极低密度脂蛋白 (VLDL) 分泌。 乳糜微粒和 VLDL 颗粒在内质网内合成，因为脂质聚集在载脂蛋白 B (apoB) 周围。 ApoB-100 存在于 VLDL 中，而 apoB-48（一种没有 LDL 受体配体的截短版本）存在于乳糜微粒中。 在含 apoB 脂蛋白的合成过程中，微粒体甘油三酯转移蛋白 (MTP) 充当伴侣蛋白，对于 apoB 的正确折叠是必需的，并且还参与将脂质转移到新形成的乳糜微粒和 VLDL 颗粒中。\n\n无 β 脂蛋白血症最常由 MTP 基因的常染色体隐性、功能丧失突变引起。 它在生命的头一年表现出来，症状为吸收不良（例如，腹胀、恶臭便）。 实验室研究显示血浆甘油三酯和胆固醇水平非常低； 血液中完全没有乳糜微粒、VLDL 和 apoB。 脂质吸收不良会导致脂溶性维生素（尤其是维生素 E）和必需脂肪酸的缺乏。 这会导致红细胞出现异常膜和称为棘红细胞的棘状突起以及多种神经系统异常（例如，进行性共济失调、色素性视网膜炎）。\n\n（选项 B、D 和 F）在慢性胰腺炎或乳糖酶缺乏症中，小肠的光学显微镜下未发现异常。 在卓-艾综合征中，由于神经内分泌肿瘤（即，胃泌素瘤）产生的胃泌素，小肠可能会出现溃疡。\n\n（选项 C）克罗恩病的光学显微镜检查显示肠壁所有层的慢性炎症和非干酪样肉芽肿。\n\n（选项 E）Whipple 病的特征性显微镜下发现是小肠固有层中扩张的巨噬细胞。 巨噬细胞包含 PAS 阳性和抗淀粉酶的颗粒以及杆状 Whipple 嗜吞噬细胞杆菌。 {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of abetalipoproteinemia, specifically the characteristic histological findings on jejunal biopsy and the underlying pathophysiology of impaired lipoprotein synthesis. It also requires differentiating this condition from other causes of malabsorption in infants.\n\nTo solve this question, recognize the foamy appearance of enterocytes due to lipid accumulation on the biopsy. Recall that abetalipoproteinemia results from a mutation in the MTP gene, leading to impaired formation of apoB-containing lipoproteins and subsequent fat malabsorption.",
+    "zh": "这个问题测试对无 β 脂蛋白血症的了解，特别是空肠活检的特征性组织学发现以及脂蛋白合成受损的潜在病理生理学。 它还需要将这种情况与其他婴儿吸收不良的原因区分开来。\n\n要解决这个问题，请识别由于活检时脂质积聚而导致肠细胞的泡沫外观。 回忆一下，无 β 脂蛋白血症是由 MTP 基因突变引起的，导致含 apoB 脂蛋白的形成受损，进而导致脂肪吸收不良。"
+  },
+  "tags": "Abetalipoproteinemia; Malabsorption; Jejunal biopsy; Apolipoprotein B; MTP gene; Lipid accumulation; Gastroenterology; Pediatrics",
+  "category": "GIT",
+  "question_id": "327",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\327",
+  "extracted_at": "2025-11-05T14:33:21.844148",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:56:24.128301",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

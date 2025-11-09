@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old woman comes to the emergency department due to 2 hours of fever, chills, headache, and myalgias. Earlier in the day, the patient saw her primary care physician for a genital ulcer. She underwent testing for sexually transmitted infections and was found to have a positive VDRL and fluorescent treponemal antibody absorption test. The remainder of her testing was negative. The patient received an intramuscular injection of benzathine penicillin G, and several hours later her current symptoms began. Temperature is 38 C (100.4 F), blood pressure is 120/70 mm Hg, and pulse is 92/min and regular. Lung sounds are normal. There is an indurated, nontender vulvar ulcer and several enlarged inguinal lymph nodes. No other skin rash is present.",
+    "zh": "一名23岁的女性因发热、寒战、头痛和肌痛2小时来到急诊科。当天早些时候，该患者因生殖器溃疡去看过她的初级保健医生。她接受了性传播感染的检测，结果发现VDRL和荧光密螺旋体抗体吸收试验呈阳性。其余检测结果均为阴性。患者接受了苄星青霉素G的肌肉注射，几个小时后，她目前的症状开始出现。体温为38°C（100.4°F），血压为120/70 mmHg，脉搏为92次/分钟，规律。肺部听诊正常。有一个浸润性、无压痛的外阴溃疡和几个肿大的腹股沟淋巴结。没有出现其他皮疹。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's current symptoms?",
+    "zh": "以下哪项最可能是导致该患者目前症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Conjugation of antibiotic and host antigens",
+      "zh": "抗生素和宿主抗原的结合"
+    },
+    "B": {
+      "en": "Disease progression due to antibiotic resistance",
+      "zh": "由于抗生素耐药性导致的疾病进展"
+    },
+    "C": {
+      "en": "Drug-induced bacterial cell wall disintegration",
+      "zh": "药物诱导的细菌细胞壁崩解"
+    },
+    "D": {
+      "en": "Immune sensitization from prior penicillin exposure",
+      "zh": "先前接触青霉素引起的免疫致敏"
+    },
+    "E": {
+      "en": "Poor renal tubular excretion of the drug",
+      "zh": "药物的肾小管排泄不良"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with a genital ulcer, inguinal lymphadenopathy, and positive nontreponemal/treponemal testing was treated for primary syphilis with intramuscular benzathine penicillin G. She then developed an acute febrile syndrome (fever, chills, myalgia, headache) a few hours later, raising strong suspicion for the Jarisch-Herxheimer reaction. This systemic inflammatory response occurs within hours of antibiotic initiation for spirochetal infections (eg, syphilis, Lyme disease, leptospirosis). The rapid lysis of spirochetes spills bacterial lipoproteins into the bloodstream and triggers a strong innate immunologic response. Most cases are self-limited and do not require intervention.\n\n(Choice A) Conjugation of antibiotic and host antigens can cause drug-induced fever, which typically arises several days or a few weeks (not within hours) after drug initiation. Patients often have fever and rash.\n\n(Choice B) Syphilis is universally susceptible to penicillin. In addition, secondary syphilis (eg, widespread maculopapular rash, constitutional symptoms, lymphadenopathy) develops weeks or months after the chance of primary syphilis: therefore, disease progression is unlikely in this case.\n\n(Choice D) Penicillin allergy is due to immune sensitization following previous exposure. Additional exposure triggers an IgE-mediated (type I) allergic response; symptoms often include rash, bronchospasm, angioedema, flushing, hypotension, and/or pruritis. Fever, chills, headache, and myalgias would be atypical and are more consistent with the Jarisch-Herxheimer reaction.\n\n(Choice E) Intramuscular benzathine penicillin G is a long-acting drug that is excreted in the urine. Poor renal tubular secretion could increase plasma drug concentrations but would be unlikely to induce a systemic inflammatory response.\n\nEducational objective:\nThe Jarisch-Herxheimer reaction is an acute inflammatory reaction that occurs within hours of treatment for spirochetal infections (eg, syphilis). The rapid lysis of spirochetes releases inflammatory bacterial lipoproteins into the circulation and causes acute fever, rigors, and myalgias.",
+    "zh": "这位患有生殖器溃疡、腹股沟淋巴结病和非密螺旋体/密螺旋体检测阳性的患者，接受了苄星青霉素G肌肉注射治疗原发性梅毒。几小时后，她出现了一个急性发热综合征（发热、寒战、肌痛、头痛），高度怀疑是Jarisch-Herxheimer反应。这种全身性炎症反应发生在针对螺旋体感染（如梅毒、莱姆病、钩端螺旋体病）的抗生素开始后数小时内。螺旋体的快速溶解将细菌脂蛋白释放到血流中，并触发强烈的先天免疫反应。大多数病例是自限性的，不需要干预。\n\n（选项A）抗生素和宿主抗原的结合可引起药物诱导的发热，通常在药物开始后几天或几周（而不是数小时内）出现。患者通常会出现发热和皮疹。\n\n（选项B）梅毒对青霉素普遍敏感。此外，继发性梅毒（如广泛的斑丘疹、全身症状、淋巴结病）在原发性梅毒后数周或数月后发展：因此，在这种情况下，疾病进展是不太可能的。\n\n（选项D）青霉素过敏是由于先前接触后的免疫致敏引起的。进一步的接触会触发IgE介导的（I型）过敏反应；症状通常包括皮疹、支气管痉挛、血管性水肿、潮红、低血压和/或瘙痒。发热、寒战、头痛和肌痛是不典型的，更符合Jarisch-Herxheimer反应。\n\n（选项E）苄星青霉素G肌注是一种长效药物，通过尿液排出。肾小管分泌不良可能会增加血浆药物浓度，但不太可能诱发全身炎症反应。\n\n教育目标：\nJarisch-Herxheimer反应是一种急性炎症反应，发生在治疗螺旋体感染（如梅毒）后数小时内。螺旋体的快速溶解将炎症性细菌脂蛋白释放到循环中，并引起急性发热、寒战和肌痛。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the Jarisch-Herxheimer reaction, a common complication of antibiotic treatment for spirochetal infections like syphilis. It assesses the ability to recognize the clinical presentation and understand the underlying pathophysiology.\n\nTo solve this question, recognize the patient's recent diagnosis of syphilis and treatment with penicillin, followed by the acute onset of fever, chills, headache, and myalgias. This constellation of findings strongly suggests the Jarisch-Herxheimer reaction.",
+    "zh": "这个问题测试了关于Jarisch-Herxheimer反应的知识，Jarisch-Herxheimer反应是青霉素治疗梅毒等螺旋体感染的常见并发症。它评估了识别临床表现和理解潜在病理生理学的能力。\n\n要解决这个问题，要认识到患者最近被诊断患有梅毒，并接受了青霉素治疗，随后出现急性发热、寒战、头痛和肌痛。这种发现的组合强烈提示Jarisch-Herxheimer反应。"
+  },
+  "tags": "Jarisch-Herxheimer reaction; Syphilis; Penicillin; Spirochetal infections; Infectious diseases; Drug-induced reaction; Fever; Myalgia; Headache; VDRL",
+  "category": "Micro",
+  "question_id": "7581",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\7581",
+  "extracted_at": "2025-11-05T15:06:05.145370",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:13:21.900517",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

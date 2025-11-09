@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 22-year-old woman comes to the emergency department due to acute vision disturbances and headache. About an hour ago the patient experienced a small area of visual loss, which she describes as a hole in the visual field. The vision disturbance gradually expanded to a C-shape in her peripheral vision and spontaneously resolved after 15-20 minutes. A progressively worsening, severe, right-sided headache of pulsating quality quickly followed. The patient has had similar headaches in the past but not of such severity. She has no other medical conditions and takes no medications. Blood pressure is 150/86 mm Hg and pulse is 92/min. On physical examination, the patient is lying still in bed with eyes closed. The pupils are equal and reactive to light. Funduscopic examination reveals no abnormalities. Bilateral upper and lower extremity muscle strength, deep tendon reflexes, and sensation are normal.",
+    "zh": "一名22岁的女性因急性视力障碍和头痛来到急诊科就诊。大约一小时前，患者出现一小片视野缺损，她描述为视野中出现一个黑点。视力障碍逐渐扩大成C形，出现在她的周边视野，并在15-20分钟后自发缓解。随后迅速出现进行性加重的、严重的、右侧搏动性头痛。患者过去曾有过类似的头痛，但严重程度不及此次。她没有其他疾病，也没有服用任何药物。血压为150/86 mm Hg，脉搏为92/min。体格检查显示，患者静静地躺在床上，闭着眼睛。瞳孔等大，对光反应灵敏。眼底检查未发现异常。双侧上、下肢肌力、深腱反射和感觉均正常。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Acute angle-closure glaucoma",
+      "zh": "急性闭角型青光眼"
+    },
+    "B": {
+      "en": "Cluster headache",
+      "zh": "丛集性头痛"
+    },
+    "C": {
+      "en": "Migraine with aura",
+      "zh": "偏头痛伴先兆"
+    },
+    "D": {
+      "en": "Optic neuritis",
+      "zh": "视神经炎"
+    },
+    "E": {
+      "en": "Simple partial seizure",
+      "zh": "简单部分性发作"
+    },
+    "F": {
+      "en": "Transient ischemic attack",
+      "zh": "短暂性脑缺血发作"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This young woman with a pulsating, unilateral headache preceded by visual field loss has migraine with aura. Migraines are an episodic neurological disorder that results in severe, unilateral, throbbing headaches often associated with photophobia, phonophobia, and nausea/vomiting. Migraines typically last 4-72 hours and have a strong genetic predisposition: women are affected more frequently than men.\n\nMigraines are thought to be triggered by a self-propagating wave of depolarization spreading across neurons in the cerebral cortex, resulting in activation and sensitization of trigeminal nerve nociceptors. Up to 25% of patients also develop focal, reversible neurologic symptoms that precede or accompany the headache, known as an aura. Auras may be due to the spread of depolarization into other areas of the brain, where they are interpreted as \"positive\" (eg, bright spots, noises, paresthesia, movements) or \"negative\" (eg. vision/hearing/sensation loss) symptoms. Auras typically develop progressively over a period of minutes.\n\n(Choice A) Acute angle-closure glaucoma causes headache and decreased vision associated with elevated intraocular pressures. However, patients are typically older (age >60), and severe eye pain and conjunctival erythema are common. Vision would not be expected to improve without intervention.\n\n(Choice B) Cluster headache causes severe unilateral headaches; however, ipsilateral autonomic symptoms (eg, lacrimation, rhinorrhea, flushing, diaphoresis) are expected. The disease is also more common in men and is not associated with aura.\n\n(Choice D) Optic neuritis is a demyelinating disorder that causes vision loss, but it is typically unilateral and progresses over a period of weeks. Patients have eye pain that is worse with movement, color vision is often affected, and an afferent pupillary defect is present.\n\n(Choice E) Simple partial seizure may be preceded by an aura, but seizures typically cause positive symptoms (eg, lip smacking, arm movement, seeing bright lights) rather than the negative symptoms seen in this patient, and typically last <2 minutes. Unilateral headache is more suggestive of migraine with aura.\n\n(Choice F) Transient ischemic attacks (TIAs) also cause focal neurologic deficits; however, these typically have an acute onset, with maximal symptoms at onset rather than the progressive visual field deficit seen in this patient. In addition, TIAs typically occur in older patients with vascular risk factors (eg, smoking, hyperlipidemia) and would be very uncommon in an otherwise healthy young woman.",
+    "zh": "这位年轻女性出现搏动性、单侧头痛，伴有视野缺损，诊断为偏头痛伴先兆。偏头痛是一种发作性神经系统疾病，可导致严重的、单侧的搏动性头痛，常伴有畏光、畏声和恶心/呕吐。偏头痛通常持续4-72小时，且有很强的遗传易感性：女性比男性更容易受到影响。\n\n偏头痛被认为是由在脑皮质神经元中传播的自发性去极化波触发的，导致三叉神经伤害性感受器的激活和敏化。多达25%的患者还会出现先于或伴随头痛的局灶性、可逆性神经系统症状，称为先兆。先兆可能是由于去极化扩散到大脑的其他区域，在那里被解释为“阳性”（例如，亮点、噪音、感觉异常、运动）或“阴性”（例如，视觉/听觉/感觉丧失）症状。先兆通常在几分钟内逐渐发展。\n\n（选项A）急性闭角型青光眼会导致头痛和视力下降，与眼内压升高有关。然而，患者通常年龄较大（>60岁），且常有严重的眼痛和结膜充血。在没有干预的情况下，视力不会改善。\n\n（选项B）丛集性头痛会导致严重的单侧头痛；然而，预计会出现同侧自主神经症状（例如，流泪、流涕、潮红、出汗）。该病也更常见于男性，且与先兆无关。\n\n（选项D）视神经炎是一种脱髓鞘疾病，可导致视力丧失，但通常是单侧的，并持续数周。患者会有眼痛，活动时加重，色觉也常受到影响，并存在传入性瞳孔缺陷。\n\n（选项E）简单部分性发作可能先于先兆，但癫痫发作通常会引起阳性症状（例如，舔嘴唇、手臂运动、看到亮光），而不是该患者出现的阴性症状，并且通常持续<2分钟。单侧头痛更提示偏头痛伴先兆。\n\n（选项F）短暂性脑缺血发作（TIA）也会导致局灶性神经功能缺损；然而，这些病症通常是急性起病，症状在起病时达到最大，而不是像该患者那样出现进行性视野缺损。此外，TIA通常发生在有血管危险因素（例如，吸烟、高脂血症）的老年患者中，而在其他方面健康的年轻女性中非常罕见。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of migraine with aura, including its clinical presentation, pathophysiology, and distinguishing features from other conditions causing headache and visual disturbances. It requires recognizing the characteristic sequence of events: transient visual symptoms followed by a unilateral, throbbing headache.\n\nThe best approach is to carefully analyze the patient's symptoms, particularly the progressive visual disturbance and subsequent headache, and consider the typical features of migraine with aura. Rule out other conditions based on the absence of specific findings, such as autonomic symptoms in cluster headache or eye pain in optic neuritis.",
+    "zh": "本题考察偏头痛伴先兆的知识，包括其临床表现、病理生理学，以及与其他引起头痛和视觉障碍的疾病的区别特征。它需要识别特征性事件顺序：短暂的视觉症状，然后是单侧搏动性头痛。\n\n最佳方法是仔细分析患者的症状，特别是进行性视觉障碍和随后的头痛，并考虑偏头痛伴先兆的典型特征。根据缺乏特定发现（例如，丛集性头痛的自主神经症状或视神经炎的眼痛）排除其他疾病。"
+  },
+  "tags": "Migraine with aura; Headache; Visual disturbances; Neurology; Transient ischemic attack; Cluster headache; Optic neuritis; Acute angle-closure glaucoma",
+  "category": "Neuro",
+  "question_id": "15683",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\15683",
+  "extracted_at": "2025-11-05T15:18:57.685239",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:20:42.818939",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "Researchers conduct a prospective study that demonstrates an association between alcohol consumption and transitional bladder carcinoma, with a relative risk (RR) of 1.81 and a p-value of 0.03. They then divide the study subjects into 2 groups, smokers and non-smokers, and again examine the association between alcohol consumption and bladder cancer:\n\nRR\nP-value\nSmokers 0.95 0.87\nNon-smokers 1.03 0.96",
+    "zh": "研究人员进行了一项前瞻性研究，结果表明饮酒与移行细胞膀胱癌之间存在关联，相对风险 (RR) 为 1.81，p 值为 0.03。然后，他们将研究对象分为两组：吸烟者和不吸烟者，并再次检查饮酒与膀胱癌之间的关联：\n\nRR\np 值\n吸烟者 0.95 0.87\n不吸烟者 1.03 0.96"
+  },
+  "question": {
+    "en": "The discrepancy between the overall results and the stratified results is best explained by which of the following?",
+    "zh": "以下哪一项最能解释总体结果与分层结果之间的差异？"
+  },
+  "options": {
+    "A": {
+      "en": "Confounding",
+      "zh": "混杂"
+    },
+    "B": {
+      "en": "Effect modification",
+      "zh": "效应修饰"
+    },
+    "C": {
+      "en": "Measurement bias",
+      "zh": "测量偏倚"
+    },
+    "D": {
+      "en": "Meta-analysis",
+      "zh": "荟萃分析"
+    },
+    "E": {
+      "en": "Observer bias",
+      "zh": "观察者偏倚"
+    },
+    "F": {
+      "en": "Recall bias",
+      "zh": "回忆偏倚"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "CONFOUNDING occurs when the exposure-disease relationship is muddled by the effect of a confounding variable, an extraneous factor associated with both exposure and disease.  Stratified analysis by smoking status shows that both smokers and non-smokers have an RR ~1 with large p-values (>0.05). The RR of 1.81 found on crude analysis disappears and there is no true association between alcohol consumption and bladder cancer.",
+    "zh": "当暴露-疾病关系被混杂变量（与暴露和疾病相关的无关因素）的影响所混淆时，就会发生混杂。按吸烟状况进行的分层分析表明，吸烟者和不吸烟者的 RR 均约为 1，p 值较大 (>0.05)。在粗略分析中发现的 RR 为 1.81 消失了，并且饮酒与膀胱癌之间没有真正的关联。"
+  },
+  "summary": {
+    "en": "1) Biostatistics 2) Confounding occurs when the exposure-disease relationship is muddled by the effect of a confounding variable.",
+    "zh": "1) 生物统计学 2) 当暴露-疾病关系被混杂变量的影响所混淆时，就会发生混杂。"
+  },
+  "tags": "Biostatistics; Confounding; effect modification; bias; errors",
+  "category": "Bio",
+  "question_id": "1173",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1173",
+  "extracted_at": "2025-11-05T10:58:17.957429",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T15:44:31.625964",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

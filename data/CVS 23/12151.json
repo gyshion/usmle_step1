@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 70-year-old man comes to the emergency department due to severe midback pain that started several hours ago. He describes the pain as excruciating and wants immediate relief. The patient also has nausea, diaphoresis, and lightheadedness. He has a history of hypertension and chronic kidney disease. His medication compliance has been poor. He is an active smoker with a 40-pack-year history. His blood pressure on the right arm is 220/105 mm Hg. ECG shows sinus tachycardia and voltage criteria for left ventricular hypertrophy with secondary ST-segment and T wave changes. After initial evaluation, a transesophageal echocardiogram shows a dissection flap in the descending aorta but no evidence of dissection in the ascending aorta.",
+    "zh": "一名70岁男性因数小时前开始的严重背部中间疼痛来到急诊科。他描述这种疼痛剧烈，需要立即缓解。患者还伴有恶心、出汗和头晕。他有高血压和慢性肾病的病史。他的用药依从性很差。他是一位吸烟者，有40包年的吸烟史。他的右臂血压为220/105 mmHg。心电图显示窦性心动过速和左心室肥大的电压标准，伴有继发性ST段和T波改变。初步评估后，经食管超声心动图显示降主动脉中有夹层瓣，但升主动脉中无夹层证据。"
+  },
+  "question": {
+    "en": "The dissection flap in this patient most likely originates near which of the following points?",
+    "zh": "该患者的夹层瓣最有可能起源于以下哪个部位附近？"
+  },
+  "options": {
+    "A": {
+      "en": "Brachiocephalic trunk",
+      "zh": "头臂干"
+    },
+    "B": {
+      "en": "Celiac trunk",
+      "zh": "腹腔干"
+    },
+    "C": {
+      "en": "Intercostal arteries",
+      "zh": "肋间动脉"
+    },
+    "D": {
+      "en": "Left subclavian artery",
+      "zh": "左锁骨下动脉"
+    },
+    "E": {
+      "en": "Renal arteries",
+      "zh": "肾动脉"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's clinical presentation with severe back pain, hypertension, ECG abnormalities, and transesophageal echocardiogram finding of a dissection flap in the descending aorta is consistent with Stanford type B aortic dissection. The Stanford system uses the anatomic localization of the dissection plane for classification of aortic dissections:\n\nStanford type A refers to aortic dissections that involve any part of the ascending aorta.\nStanford type B refers to all other dissections involving the descending aorta.\nType B dissections involving the descending aorta typically originate close to the origin of the LEFT SUBCLAVIAN ARTERY. Type A aortic dissections usually originate in the sinotubular junction. The areas are thought to be predominantly affected due to increases in the rate of rise of pressure (dP/dT) and in shearing forces at these sites in patients with severe hypertension.\n\n(Choices A, B, C, and E) Distal propagation of a type A dissection or proximal propagation of a type B dissection can affect the aortic arch (eg, brachiocephalic artery, left common carotid artery, left subclavian artery). Either type of dissection can propagate distally into the thoracoabdominal aorta, involving the origins of the celiac trunk, intercostal arteries, and renal arteries.\n\nEducational objective:\nThe intimal tear in Stanford type A aortic dissection (involving the ascending aorta) usually originates in the sinotubular junction whereas the intimal flap in Stanford type B aortic dissection usually starts near the origin of the left subclavian artery. Dissections can propagate distally to the thoracoabdominal aorta. {{exhibit_1}}",
+    "zh": "该患者的临床表现，包括严重的背痛、高血压、心电图异常以及经食管超声心动图发现降主动脉夹层瓣，与斯坦福B型主动脉夹层相符。斯坦福系统使用夹层平面解剖定位对主动脉夹层进行分类：\n\n斯坦福A型是指涉及升主动脉任何部分的主动脉夹层。\n斯坦福B型是指所有其他涉及降主动脉的夹层。\n涉及降主动脉的B型夹层通常起源于左锁骨下动脉的起始端附近。A型主动脉夹层通常起源于窦管交界处。这些区域被认为主要受影响，因为严重高血压患者在这些部位压力上升速率（dP/dT）和剪切力增加。\n\n（选项 A、B、C 和 E）A型夹层的远端蔓延或B型夹层的近端蔓延会影响主动脉弓（例如，头臂动脉、左颈总动脉、左锁骨下动脉）。任何一种类型的夹层都可以远端蔓延到胸腹主动脉，涉及腹腔干、肋间动脉和肾动脉的起源。\n\n教育目标：\n斯坦福A型主动脉夹层（涉及升主动脉）的内膜撕裂通常起源于窦管交界处，而斯坦福B型主动脉夹层的内膜瓣通常起始于左锁骨下动脉的起始端附近。夹层可以远端蔓延至胸腹主动脉。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of aortic dissection classification (Stanford A vs. B) and the typical origin points of each type. It requires understanding the anatomical location of the dissection flap in relation to the ascending and descending aorta.\n\nTo solve this question, identify the type of aortic dissection based on the location of the flap (descending aorta = Type B). Then, recall that Type B dissections typically originate near the left subclavian artery.",
+    "zh": "本题测试对主动脉夹层分类（斯坦福 A 型 vs. B 型）以及每种类型的典型起源点的知识。它需要理解夹层瓣在升主动脉和降主动脉中的解剖学位置。\n\n要解决这个问题，请根据瓣膜的位置（降主动脉 = B 型）确定主动脉夹层的类型。然后，回忆起 B 型夹层通常起源于左锁骨下动脉附近。"
+  },
+  "tags": "Aortic dissection; Stanford classification; Type A dissection; Type B dissection; Left subclavian artery; Hypertension; Cardiovascular system; Emergency medicine",
+  "category": "CVS",
+  "question_id": "12151",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\12151",
+  "extracted_at": "2025-11-05T11:52:45.292948",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:44:48.518899",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

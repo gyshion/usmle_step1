@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 26-year-old woman comes to the office due to recurrent nausea and vomiting for the past several months. The patient experiences nausea and epigastric discomfort after meals and often feels full after eating only a small portion of food. On several occasions, she has had emesis containing particles of food that she ate several hours earlier. The patient has a 15-year history of type 1 diabetes mellitus complicated by diabetic nephropathy. Her medications include a basal-bolus insulin regimen and lisinopril. She does not use tobacco, alcohol, or illicit drugs. Vital signs are within normal limits. The abdomen is soft and nontender with no organomegaly. Bowel sounds are normal. Testing of stool for occult blood is negative. An upper gastrointestinal endoscopy is unremarkable.",
+    "zh": "一名26岁女性因过去几个月反复出现恶心和呕吐而前来就诊。患者在饭后感到恶心和上腹部不适，并且经常在只吃少量食物后就感到饱胀。在几次发作中，她呕吐物中含有几小时前吃的食物颗粒。该患者有15年1型糖尿病病史，伴有糖尿病肾病。她的药物包括基础-推注胰岛素方案和赖诺普利。她不吸烟、不饮酒，也不使用违禁药物。生命体征在正常范围内。腹部柔软，无压痛，无脏器肿大。肠鸣音正常。粪便隐血检测呈阴性。上消化内镜检查无异常。"
+  },
+  "question": {
+    "en": "Which of the following mechanisms is most likely responsible for this patient's current symptoms?",
+    "zh": "以下哪种机制最有可能导致患者目前的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased activity of vagus motor nucleus",
+      "zh": "迷走神经运动核活性降低"
+    },
+    "B": {
+      "en": "Disruption of lower esophageal sphincter",
+      "zh": "下食管括约肌功能障碍"
+    },
+    "C": {
+      "en": "Dysfunction of gastric enteric neurons",
+      "zh": "胃肠神经元功能障碍"
+    },
+    "D": {
+      "en": "Excessive production of cholecystokinin",
+      "zh": "胆囊收缩素过度产生"
+    },
+    "E": {
+      "en": "Hypertrophy of pyloric smooth muscles",
+      "zh": "幽门平滑肌肥大"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with diabetes has postprandial nausea, vomiting, early satiety, and regurgitation of undigested food particles, which is suggestive of DIABETIC GASTROPARESIS. Gastroparesis is a type of AUTONOMIC NEUROPATHY involving the gastrointestinal tract and is characterized by delayed gastric emptying not due to an obstruction.\n\nNormal postprandial gastric activity is a multistep process that occurs in response to food ingestion. After food passes down the esophagus, vagally stimulated enteric neurons release nitric oxide to induce relaxation of the fundus of the stomach and accommodate the incoming food bolus. Specialized gastric pacemaker cells (interstitial cells of Cajal) initiate pacesetter potentials (slow waves), which generate circumferential contractions of the gastric smooth muscle (peristalsis). Peristalsis facilitates food mixing and propulsion toward the pylorus.\n\nCHRONIC HYPERGLYCEMIA in patients with diabetes can result in DESTRUCTION OF THE ENTERIC NEURONS. Loss of nitric oxide–containing neurons results in impaired fundal relaxation, and loss of the interstitial cells of Cajal results in uncoordinated smooth muscle contractions and ineffective peristalsis, both of which DELAY GASTRIC EMPTYING.\n\n(Choice A) Chronic hyperglycemia can cause vagus nerve denervation with axonal damage, which can contribute to diabetic gastroparesis. However, the vagal motor nucleus is located in the brainstem and is typically unaffected by diabetes.\n\n(Choice B) Disruption of the lower esophageal sphincter can cause symptoms of acid reflux. Although severe gastroesophageal reflux can cause regurgitation, a history of heartburn or epigastric pain would be expected. In addition, upper endoscopy typically shows evidence of esophagitis (eg, mucosal erythema, exudates).\n\n(Choice D) Cholecystokinin is secreted in response to fat- or protein-rich meals and slows gastric emptying to improve digestion of these nutrients. Cholecystokinin secretion may actually be reduced in diabetes and is not thought to be a major cause of diabetic gastroparesis.\n\n(Choice E) Hypertrophy of pyloric smooth muscles is seen in congenital pyloric stenosis, which causes projective vomiting and is typically diagnosed in infancy. The smooth muscle cells typically remain normal in diabetic gastroparesis.\n\nEducational objective:\nDiabetic gastroparesis results from the destruction of enteric neurons due to chronic hyperglycemia, leading to impaired relaxation and disordered and ineffective peristalsis. This causes delayed gastric emptying, which presents as postprandial fullness, regurgitation of undigested food, nausea, and vomiting.",
+    "zh": "这位糖尿病患者出现餐后恶心、呕吐、早期饱胀和未消化食物颗粒的反流，提示糖尿病性胃轻瘫。胃轻瘫是一种累及胃肠道的自主神经病，其特征是胃排空延迟，并非由梗阻引起。\n\n正常的餐后胃活动是一个多步骤过程，发生在对食物摄入的反应中。食物通过食管后，迷走神经刺激的肠神经元释放一氧化氮，诱导胃底松弛，以容纳进入的食团。特殊的胃起搏细胞（Cajal间质细胞）启动起搏器电位（慢波），产生胃平滑肌的环形收缩（蠕动）。蠕动促进食物混合和向幽门推进。\n\n糖尿病患者的慢性高血糖可导致肠神经元破坏。含有NO的神经元缺失导致胃底松弛受损，Cajal间质细胞的缺失导致平滑肌收缩失调和蠕动无效，这两种情况都会延迟胃排空。\n\n(选项A) 慢性高血糖可导致迷走神经去神经支配，伴有轴突损伤，这可能导致糖尿病性胃轻瘫。然而，迷走神经运动核位于脑干中，通常不受糖尿病的影响。\n\n(选项B) 下食管括约肌功能障碍可引起胃酸反流的症状。虽然严重的胃食管反流可引起反流，但通常会伴有烧心或上腹痛的病史。此外，上消化内镜检查通常显示食管炎的证据（例如，黏膜红斑、渗出物）。\n\n(选项D) 胆囊收缩素在对富含脂肪或蛋白质的食物做出反应时分泌，并减缓胃排空以改善这些营养物质的消化。胆囊收缩素的分泌在糖尿病中实际上可能减少，并且不被认为是糖尿病性胃轻瘫的主要原因。\n\n(选项E) 幽门平滑肌肥大可见于先天性幽门狭窄，引起喷射性呕吐，通常在婴儿期诊断。平滑肌细胞在糖尿病性胃轻瘫中通常保持正常。\n\n教育目标：\n糖尿病性胃轻瘫是由于慢性高血糖引起的肠神经元破坏，导致松弛受损和蠕动失调和无效。这会导致胃排空延迟，表现为餐后饱胀、未消化食物反流、恶心和呕吐。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of diabetic gastroparesis, its pathophysiology related to chronic hyperglycemia, and the resulting dysfunction of gastric enteric neurons. It also assesses the ability to differentiate gastroparesis from other conditions with similar symptoms. \n\nThe best approach is to recognize the patient's history of diabetes and the symptoms of delayed gastric emptying. Understanding the underlying mechanism of enteric neuron damage due to chronic hyperglycemia is key to selecting the correct answer.",
+    "zh": "这个问题测试了对糖尿病性胃轻瘫的了解，其与慢性高血糖相关的病理生理学，以及由此导致的胃肠神经元功能障碍。它还评估了将胃轻瘫与其他具有相似症状的疾病区分开来的能力。\n\n最好的方法是识别患者的糖尿病病史和胃排空延迟的症状。了解慢性高血糖导致的肠神经元损伤的潜在机制是选择正确答案的关键。"
+  },
+  "tags": "Diabetic gastroparesis; Autonomic neuropathy; Enteric neurons; Chronic hyperglycemia; Gastric emptying; Gastroenterology; Diabetes mellitus; Type 1 diabetes; Diabetic nephropathy",
+  "category": "GIT",
+  "question_id": "15652",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\15652",
+  "extracted_at": "2025-11-05T14:26:17.334497",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:52:28.338823",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

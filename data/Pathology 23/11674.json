@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 26-year-old man comes to the office due to myalgia, nasal congestion, and cough. Temperature is 38.3 C (100.9 F). Examination shows nasal and pharyngeal hyperemia. Rapid influenza antigen testing of nasopharyngeal secretions is positive. Within the infected cells of the patient's respiratory tract, viral proteins are degraded and attached to major histocompatibility complex class I molecules, which are then expressed on the cell surface for presentation to cytotoxic CD8- lymphocytes. Which of the following enzymes is most essential to initiating this immune process?",
+    "zh": "一名26岁男性因肌痛、鼻塞和咳嗽前来就诊。体温为38.3°C（100.9°F）。检查显示鼻腔和咽部充血。鼻咽分泌物快速流感抗原检测呈阳性。在患者呼吸道感染的细胞内，病毒蛋白被降解并附着于主要组织相容性复合体I类分子，然后表达在细胞表面，用于向细胞毒性CD8-淋巴细胞呈递。以下哪种酶对于启动此免疫过程最重要？"
+  },
+  "question": {
+    "en": "Which of the following enzymes is most essential to initiating this immune process?",
+    "zh": "以下哪种酶对于启动此免疫过程最重要？"
+  },
+  "options": {
+    "A": {
+      "en": "Acid phosphatase",
+      "zh": "酸性磷酸酶"
+    },
+    "B": {
+      "en": "Caspase",
+      "zh": "半胱天冬酶"
+    },
+    "C": {
+      "en": "Guanylate cyclase",
+      "zh": "鸟苷酸环化酶"
+    },
+    "D": {
+      "en": "Myeloperoxidase",
+      "zh": "髓过氧化物酶"
+    },
+    "E": {
+      "en": "Ubiquitin ligase",
+      "zh": "泛素连接酶"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The cellular immune response to a viral pathogen (eg, influenza) requires the presentation of viral antigens to effector immune cells (eg, CD8- lymphocytes). The ubiquitin proteasome pathway (UPP) is essential to this process because of its role in breaking down native and foreign intracellular proteins. Ubiquitin ligase initiates the UPP by recognizing specific protein substrates and catalyzing the attachment of ubiquitin. The proteins tagged with ubiquitin are then broken down by a proteasome to peptide fragments which can be recycled into amino acids.\n\nThe peptide fragments produced during this process can also be coupled to major histocompatibility complex (MHC) class I molecules in the endoplasmic reticulum and then presented on the cell surface. Cytotoxic CD8- lymphocytes recognize nonnative (eg, viral) proteins on infected cells and trigger apoptosis of the cell by activating the caspase cascade through the release of perforin and granzyme (Choice B).\n\n(Choice A) Acid phosphatase is found in the lysosome of most cells and hydrolyzes organic phosphates, but it is not involved in antigen presentation.\n\n(Choice C) Guanylate cyclase is involved in the G-protein signaling cascade, which plays a crucial role in the activation and regulation of diverse physiologic processes (eg, smooth muscle relaxation, retinal phototransduction).\n\n(Choice D) Myeloperoxidase is a key component of the respiratory burst of neutrophils and is released into the phagocytic vacuole and extracellular space as part of the immune response to bacteria and other pathogens.\n\nEducational objective:\nAn essential step in the activation of the cellular immune response to a virus is the breakdown of intracellular viral proteins by the ubiquitin proteasome pathway. This pathway is initiated by ubiquitin ligases, which recognize specific protein substrates and attach a ubiquitin tag. The target proteins are then degraded by a proteasome into peptide fragments, which are coupled with major histocompatibility complex class I proteins and presented on the cell surface for surveillance by cytotoxic CD8+ lymphocytes.",
+    "zh": "针对病毒病原体（如流感）的细胞免疫反应需要将病毒抗原呈递给效应免疫细胞（如CD8-淋巴细胞）。泛素-蛋白酶体途径 (UPP) 对此过程至关重要，因为它在分解内源性和外源性细胞内蛋白质方面发挥作用。泛素连接酶通过识别特定的蛋白质底物并催化泛素的连接来启动UPP。随后，被泛素标记的蛋白质被蛋白酶体分解成肽片段，这些片段可以被回收成氨基酸。\n\n在此过程中产生的肽片段也可以与内质网中的主要组织相容性复合体(MHC) I类分子偶联，然后在细胞表面呈递。细胞毒性CD8-淋巴细胞识别受感染细胞上的非自身（如病毒）蛋白，并通过释放穿孔素和颗粒酶激活半胱天冬酶级联反应来触发细胞凋亡（选项B）。\n\n（选项A）酸性磷酸酶存在于大多数细胞的溶酶体中，并水解有机磷酸盐，但它不参与抗原呈递。\n\n（选项C）鸟苷酸环化酶参与G蛋白信号传导级联反应，这在多种生理过程（如平滑肌舒张、视网膜光转导）的激活和调节中起关键作用。\n\n（选项D）髓过氧化物酶是中性粒细胞呼吸爆发的关键组成部分，作为对细菌和其他病原体的免疫反应的一部分，被释放到吞噬空泡和细胞外空间。\n\n教育目标：\n激活针对病毒的细胞免疫反应的一个重要步骤是通过泛素-蛋白酶体途径分解细胞内病毒蛋白。该途径由泛素连接酶启动，泛素连接酶识别特定的蛋白质底物并附着泛素标签。然后，目标蛋白质被蛋白酶体降解成肽片段，这些肽片段与主要组织相容性复合体I类蛋白偶联，并在细胞表面呈递，供细胞毒性CD8+淋巴细胞监视。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the cellular immune response to viral infections, specifically focusing on the role of the ubiquitin proteasome pathway in antigen presentation. It assesses knowledge of the enzymes involved in initiating protein degradation for MHC class I presentation.\n\nTo solve this question, one must identify the initial enzymatic step in the process of degrading intracellular viral proteins for presentation on MHC class I molecules. This involves recognizing that ubiquitination is the key initiating event for protein degradation via the ubiquitin proteasome pathway, and that ubiquitin ligase is the enzyme responsible for this step.",
+    "zh": "这个问题考察了对病毒感染细胞免疫反应的理解，特别侧重于泛素-蛋白酶体途径在抗原呈递中的作用。它评估了关于参与启动MHC I类呈递的蛋白质降解的酶的知识。\n\n要解决这个问题，必须确定降解细胞内病毒蛋白用于MHC I类分子呈递的过程中的初始酶促步骤。这涉及到认识到泛素化是通过泛素-蛋白酶体途径进行蛋白质降解的关键起始事件，并且泛素连接酶是负责此步骤的酶。"
+  },
+  "tags": "Ubiquitin proteasome pathway; Antigen presentation; Cellular immunity; Viral infection; Ubiquitin ligase; MHC class I; Cytotoxic T lymphocytes; Protein degradation",
+  "category": "Pathology",
+  "question_id": "11674",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\11674",
+  "extracted_at": "2025-11-05T19:43:34.383150",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:45:20.942781",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

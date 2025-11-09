@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 12-year-old boy is brought to the clinic for evaluation of muscle weakness. The patient has a history of seizures, and he has recently had several stroke-like episodes that resulted in muscle weakness. Examination shows decreased strength in the upper and lower extremities on the left compared to the right. Laboratory evaluation shows increased serum lactate levels both after exercise and at rest. Further work-up confirms that the patient has a genetic condition that is transmitted exclusively through the maternal line. His older sister is affected by the same disorder, but she displays very few symptoms. Which of the following is the most likely explanation for the variability in clinical presentation between this patient and his sister?",
+    "zh": "一名12岁男孩因肌无力前来就诊。患者有癫痫病史，近期曾发生过几次中风样发作，导致肌无力。检查显示，左侧上肢和下肢力量较右侧减弱。实验室评估显示，运动后和静息时血清乳酸水平升高。进一步检查证实，该患者患有仅通过母系遗传的遗传疾病。他的姐姐也受到同一疾病的影响，但症状很少。以下哪一项最能解释该患者与其姐姐之间临床表现的差异？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely explanation for the variability in clinical presentation between this patient and his sister?",
+    "zh": "以下哪项最能解释该患者与其姐姐之间临床表现的差异？"
+  },
+  "options": {
+    "A": {
+      "en": "Anticipation",
+      "zh": "预期"
+    },
+    "B": {
+      "en": "Genetic heterogeneity",
+      "zh": "遗传异质性"
+    },
+    "C": {
+      "en": "Genetic imprinting",
+      "zh": "基因印记"
+    },
+    "D": {
+      "en": "Heteroplasmy",
+      "zh": "异质体"
+    },
+    "E": {
+      "en": "Pleiotropy",
+      "zh": "多效性"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has a genetic condition with a maternal inheritance pattern, a finding characteristic of mitochondrial disease. Unlike nuclear DNA (inherited from both parents), mitochondrial DNA (mtDNA) is inherited almost exclusively through the maternal line.\n\nInheritance of mtDNA mutations affects male and female offspring with equal frequency, but disease often presents with varying severity even in those with the same mtDNA mutation. This variability is the result of heteroplasmy {{exhibit_1}}. Cells contain thousands of mitochondria, each with several copies of its own genome. Mitochondria containing more mutant mtDNA copies are less likely to function normally, and random distribution of mitochondria during mitosis/meiosis results in variable amounts of mutant and normal mitochondria among daughter cells. The relative balance of mutated and normal mtDNA explains the variability in symptom severity between this patient and his sibling, who presumably has less mutant mitochondria.\n\nBecause mitochondrial defects lead to impaired oxidative phosphorylation (i.e., decreased ATP production), tissues with the highest energy requirements (eg, brain, skeletal muscle) are most affected, as seen in this child. This patient likely has mitochondrial encephalopathy, lactic acidosis, and stroke-like episodes (MELAS), one of the most common mitochondrial disorders.\n\n(Choice A) Anticipation is the increasing severity or earlier onset of a disease in subsequent generations. This phenomenon is often seen in conditions with an increasing number of trinucleotide repeats with each generation (eg, Huntington disease).\n\n(Choice B) Genetic heterogeneity refers to varying genotypes among individuals with the same phenotype, such as sensorineural hearing loss, which can be caused by >100 different mutations. In contrast, this patient has the same mutation as his sister but a more severe phenotype.\n\n(Choice C) Genetic imprinting refers to selective inactivation of paternal or maternal alleles. This phenomenon explains the difference in presentation between Prader-Willi and Angelman syndromes.\n\n(Choice E) Pleiotropy refers to the seemingly unrelated phenotypic effects of a single genetic mutation. This is seen in Marfan syndrome, in which a fibrillin gene mutation affects various organs (eg, heart, eye). Pleiotropy would not explain variable symptom severity between siblings.\n\nEducational objective:\nMitochondrial DNA (mtDNA) is inherited through the maternal line, and identical mutations can cause varying disease severity due to heteroplasmy. Mitochondrial heteroplasmy describes cells that contain both mutant and normal mitochondria; the relative amount of each determines disease severity.",
+    "zh": "该患者患有母系遗传模式的遗传疾病，这是线粒体疾病的特征。与核DNA（从父母双方遗传）不同，线粒体DNA（mtDNA）几乎完全通过母系遗传。\n\nmtDNA突变的遗传对男女后代的影响频率相同，但即使是具有相同mtDNA突变的人，疾病的严重程度也常常不同。这种变异是异质体{{exhibit_1}}的结果。细胞包含数千个线粒体，每个线粒体都有多个自身基因组的拷贝。含有更多突变mtDNA拷贝的线粒体不太可能正常 функционировать，并且在有丝分裂/减数分裂过程中线粒体的随机分布会导致子细胞中突变和正常线粒体的数量发生变化。突变和正常mtDNA的相对平衡解释了该患者与其兄弟姐妹之间症状严重程度的差异，后者可能拥有较少的突变线粒体。\n\n由于线粒体缺陷会导致氧化磷酸化受损（即，ATP产生减少），对能量需求最高的组织（例如，大脑、骨骼肌）影响最大，如该儿童所见。该患者可能患有线粒体脑病、乳酸酸中毒和中风样发作（MELAS），这是一种最常见的线粒体疾病之一。\n\n(选项A)预期是指疾病在后续几代中严重程度增加或发病时间提前。这种现象经常见于每代三核苷酸重复次数增加的情况（例如，亨廷顿舞蹈症）。\n\n(选项B)遗传异质性是指具有相同表型的个体之间存在不同的基因型，例如，可由100多种不同突变引起的感音神经性听力损失。相比之下，该患者与他的姐姐具有相同的突变，但表型更严重。\n\n(选项C)基因印记是指父系或母系等位基因的选择性失活。这种现象解释了Prader-Willi综合征和Angelman综合征之间的表现差异。\n\n(选项E)多效性是指单个基因突变的看似不相关的表型效应。这见于马凡氏综合征，其中原纤维蛋白基因突变影响各种器官（例如，心脏、眼睛）。多效性并不能解释兄弟姐妹之间不同的症状严重程度。\n\n教育目标：\n线粒体DNA (mtDNA) 通过母系遗传，相同的突变可能由于异质体而导致不同的疾病严重程度。线粒体异质体描述了同时含有突变和正常线粒体的细胞；每种细胞的相对数量决定了疾病的严重程度。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of mitochondrial inheritance patterns, specifically heteroplasmy, and its impact on disease severity. It requires understanding that mitochondrial DNA is inherited maternally and that the proportion of mutant vs. normal mitochondria within cells can vary, leading to variable disease expression. \n\nTo solve this question, recognize the maternal inheritance pattern and the variability in symptom severity despite the same mutation. Consider the concept of heteroplasmy, where cells contain a mix of normal and mutant mitochondria, and the proportion of each can influence the phenotype.",
+    "zh": "此题考察对线粒体遗传模式（特别是异质体）及其对疾病严重程度影响的了解。要求理解线粒体DNA是母系遗传的，细胞内突变线粒体与正常线粒体的比例可能不同，从而导致不同的疾病表现。\n\n要解决这个问题，需要认识到母系遗传模式，以及尽管存在相同的突变，但症状严重程度的差异。考虑异质体的概念，其中细胞包含正常线粒体和突变线粒体的混合物，每种线粒体的比例会影响表型。"
+  },
+  "tags": "Mitochondrial inheritance; Heteroplasmy; Mitochondrial DNA; MELAS; Genetic disorders; Neurology; Metabolic disorders; Lactic acidosis; Stroke-like episodes {{exhibit_2}} {{exhibit_3}}",
+  "category": "Bio",
+  "question_id": "596",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\596",
+  "extracted_at": "2025-11-05T11:15:56.959832",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:24:30.914802",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

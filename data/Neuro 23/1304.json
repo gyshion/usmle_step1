@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "An intracranial mass is removed from a 33-year-old patient. The mass is composed of cells that have elongated, wavy nuclei. A biphasic pattern of growth is identified, consisting of areas of dense cellularity interspersed with less dense myxoid regions. The cells show diffuse S-100 immunoreactivity. {{exhibit_1}}",
+    "zh": "一名33岁患者的颅内肿块被切除。该肿块由具有细长、波浪状核的细胞组成。鉴定出一种双相生长模式，由密集细胞区域与细胞密度较低的黏液样区域穿插组成。这些细胞显示弥漫性S-100免疫反应性。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Glioblastoma",
+      "zh": "胶质母细胞瘤"
+    },
+    "B": {
+      "en": "Meningioma",
+      "zh": "脑膜瘤"
+    },
+    "C": {
+      "en": "Metastatic lung adenocarcinoma",
+      "zh": "转移性肺腺癌"
+    },
+    "D": {
+      "en": "Optic glioma",
+      "zh": "视神经胶质瘤"
+    },
+    "E": {
+      "en": "Schwannoma",
+      "zh": "神经鞘瘤"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Schwannomas are tumors of the peripheral nervous system that arise from Schwann cells. Microscopically, they appear biphasic with highly cellular areas (Antoni A pattern) intermixed with myxoid regions of low cellularity (Antoni B pattern). The Antoni A areas are composed of spindle cells with elongated, wavy nuclei that form palisading patterns with interspersing nuclear-free zones called Verocay bodies. Schwannomas are universally S-100 positive due to their neural crest cell origin. Another important S-100 positive tumor is melanoma (also derived from the neural crest).\n\nSchwann cells are to the peripheral nervous system as oligodendrocytes are to the central nervous system: both protect and insulate axons. The transition from oligodendrocytes to Schwann cells occurs within a few millimeters from the surface of the brain and spinal cord. Therefore, schwannomas can occur within the cranial vault and spinal canal. Schwannomas may arise from any cranial nerve except the optic nerve (CN II) and olfactory nerve (CN I), which are not covered by Schwann cells.\n\nThe most common site of intracranial schwannomas is the cerebellopontine angle at CN VIII. Schwannomas in this particular location are also called acoustic neuromas, and can present with tinnitus, vertigo, and sensorineural hearing loss.\n\n(Choice A) Glioblastoma is a highly aggressive primary brain tumor that consists of bizarre-looking glial cells with multiple mitotic figures, pseudopalisading necrosis, and abundant neovascularization and hemorrhage. It commonly occurs in the frontotemporoparietal white matter and grows along the white matter tracts across the corpus callosum to affect the opposite hemisphere.\n\n(Choice B) Meningiomas are typically slow-growing extra-axial tumors that arise from the meningothelial cells of the arachnoid. Meningiomas most commonly appear as cells arranged in lobules or whorls with or without psammoma bodies (laminar calcifications).\n\n(Choice C) Brain metastases are the most common cause of intracranial tumors in adults. Lung, breast, skin (melanoma), and renal cancer are particularly likely to metastasize to the brain. Metastatic brain lesions typically form well-circumscribed masses along the grey-white junction. Histologically, there is often necrosis with surrounding areas of reactive gliosis and edema.\n\n(Choice D) Optic glioma is a form of glioma that affects the optic nerve. It is often found in association with neurofibromatosis type 1. Histologic findings are usually consistent with pilocytic astrocytoma and include tumor cells with hairlike processes, microcystic areas, and Rosenthal fibers (elongated or corkscrew intracytoplasmic eosinophilic bundles).\n\nEducational objective:\nSchwannomas present histologically with a biphasic pattern of cellularity (Antoni A and B areas) and S-100 positivity (indicating neural crest origin). Schwannomas can arise from the peripheral nerves, nerve roots, and cranial nerves (except CN II and CN I). Acoustic neuromas are the most common type of intracranial schwannoma and are located at the cerebellopontine angle at CN VIII. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "神经鞘瘤是起源于许旺细胞的周围神经系统肿瘤。在显微镜下，它们呈双相性，由高细胞区域（Antoni A型）与细胞密度较低的黏液样区域（Antoni B型）混合。Antoni A区域由具有细长、波浪状核的梭形细胞组成，这些细胞形成栅栏状模式，并穿插称为Verocay小体的无核区域。神经鞘瘤因其神经嵴细胞起源而普遍呈S-100阳性。另一种重要的S-100阳性肿瘤是黑色素瘤（也源自神经嵴）。\n\n许旺细胞之于周围神经系统，正如少突胶质细胞之于中枢神经系统：两者都保护和隔离轴突。从少突胶质细胞到许旺细胞的转变发生在距离大脑和脊髓表面几毫米的范围内。因此，神经鞘瘤可以发生在颅腔和脊髓管内。神经鞘瘤可能起源于任何颅神经，除了视神经（CN II）和嗅神经（CN I），它们没有被许旺细胞覆盖。\n\n颅内神经鞘瘤最常见的部位是CN VIII处的脑桥小脑角。在这个特定位置的神经鞘瘤也被称为听神经瘤，可表现为耳鸣、眩晕和感觉神经性听力丧失。\n\n(选项A) 胶质母细胞瘤是一种高度侵袭性的原发性脑肿瘤，由具有多个有丝分裂像、假栅栏状坏死、丰富的新生血管形成和出血的奇异外观的神经胶质细胞组成。它通常发生在额颞顶叶白质中，并沿着白质束穿过胼胝体生长，影响对侧半球。\n\n(选项B) 脑膜瘤通常是生长缓慢的幕外肿瘤，起源于蛛网膜的脑膜内皮细胞。脑膜瘤最常见表现为细胞排列成小叶或漩涡状，有或没有砂粒体（层状钙化）。\n\n(选项C) 脑转移瘤是成人颅内肿瘤最常见的原因。肺癌、乳腺癌、皮肤癌（黑色素瘤）和肾癌特别容易转移到大脑。转移性脑病变通常在灰白质交界处形成边界清楚的肿块。组织学上，常有坏死，周围有反应性神经胶质增生和水肿。\n\n(选项D) 视神经胶质瘤是一种影响视神经的胶质瘤。它通常与1型神经纤维瘤病有关。组织学发现通常与毛细胞型星形细胞瘤一致，包括具有毛发状突起、微囊性区域和罗森塔尔纤维（细长或螺旋状胞质内嗜酸性束）的肿瘤细胞。\n\n教育目标：\n神经鞘瘤在组织学上表现出双相细胞模式（Antoni A和B区域）和S-100阳性（表明神经嵴起源）。神经鞘瘤可起源于周围神经、神经根和颅神经（CN II和CN I除外）。听神经瘤是最常见的颅内神经鞘瘤，位于CN VIII处的脑桥小脑角。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the histological features and immunohistochemical staining patterns of schwannomas, particularly the biphasic Antoni A and B areas and S-100 positivity. It also requires differentiating schwannomas from other intracranial tumors based on their histological characteristics.\n\nTo solve this question, focus on the key histological findings: biphasic pattern (Antoni A and B areas) and diffuse S-100 immunoreactivity. These features are highly characteristic of schwannomas and help distinguish them from other intracranial neoplasms like glioblastomas, meningiomas, and metastatic lesions.",
+    "zh": "这个问题考察了对神经鞘瘤的组织学特征和免疫组织化学染色模式的了解，特别是双相的Antoni A区和B区以及S-100阳性。它还需要根据组织学特征将神经鞘瘤与其他颅内肿瘤区分开来。\n\n要解决这个问题，请关注关键的组织学发现：双相模式（Antoni A区和B区）和弥漫性S-100免疫反应性。这些特征是神经鞘瘤的高度特征，有助于将它们与其他颅内肿瘤（如胶质母细胞瘤、脑膜瘤和转移性病变）区分开来。"
+  },
+  "tags": "Schwannoma; Peripheral nerve tumor; S-100; Antoni A; Antoni B; Biphasic pattern; Cerebellopontine angle; Acoustic neuroma; Neurosurgery; Pathology",
+  "category": "Neuro",
+  "question_id": "1304",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1304",
+  "extracted_at": "2025-11-05T15:15:08.414235",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:18:42.668373",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

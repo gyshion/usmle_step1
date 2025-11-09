@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 6-month-old boy is evaluated due to cough for 2 weeks. The patient had a mild runny nose without fever prior to the onset of cough. His 9-year-old brother had a prolonged cough recently. The patient has not received vaccinations. Temperature is 37.1 C (98.8 F), blood pressure is 98/66 mm Hg, and respirations are 30/min. Oxygen saturation is 98%. On physical examination, when the patient coughs intermittently, his face turns red. The lungs are clear to auscultation. Leukocyte count is 22,000/mm³ (75% lymphocytes).",
+    "zh": "一名6个月大的男孩因咳嗽2周而接受评估。该患者在咳嗽发作前有轻微的流鼻涕，没有发烧。他9岁的哥哥最近也出现了长时间的咳嗽。该患者尚未接种疫苗。体温37.1摄氏度（98.8华氏度），血压98/66毫米汞柱，呼吸频率30次/分钟。氧饱和度为98%。体格检查显示，当患者间歇性咳嗽时，面部发红。肺部听诊清晰。白细胞计数为22,000/mm³（75%淋巴细胞）。"
+  },
+  "question": {
+    "en": "The most effective pharmacotherapy for this patient's condition will directly interfere with which of the following cellular processes?",
+    "zh": "针对该患者病情的最有效的药物治疗将直接干扰以下哪种细胞过程？"
+  },
+  "options": {
+    "A": {
+      "en": "Cell wall synthesis",
+      "zh": "细胞壁合成"
+    },
+    "B": {
+      "en": "DNA replication",
+      "zh": "DNA复制"
+    },
+    "C": {
+      "en": "Microtubule assembly",
+      "zh": "微管组装"
+    },
+    "D": {
+      "en": "Protein translation",
+      "zh": "蛋白质翻译"
+    },
+    "E": {
+      "en": "Virion release",
+      "zh": "病毒粒子释放"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Pertussis {{exhibit_1}}\n\nA forceful cough in an unimmunized infant and a household contact with prolonged coughing symptoms should raise concern for pertussis. Pertussis is caused by the gram-negative bacterium Bordetella pertussis and spreads via respiratory droplets. The greatest risk factor is lack of immunization, and older children/adults with mild disease are often the source of infection.\n\nPertussis is a prolonged illness that typically progresses through 3 stages: catarrhal (mild rhinorrhea or cough), paroxysmal (bouts of severe cough), and convalescent (weeks to months of gradual resolution). Infants are at high risk of complications (eg, cyanosis, apnea, seizure), particularly during the paroxysmal stage. Diagnostic clues include lack of fever, as well as cough associated with turning red in the face, an inspiratory whoop, or posttussive emesis. Lymphocytosis, the degree of which correlates with disease severity, is also a characteristic finding and related to impaired leukocyte chemotaxis caused by pertussis toxin.\n\nPertussis is usually a clinical diagnosis and should be treated empirically with a macrolide antibiotic (eg, azithromycin). Macrolides bind the bacterial 50S ribosomal subunit, which prevents the addition of amino acids to the growing peptide chain. This results in the inhibition of protein synthesis by bacteria.\n\n(Choice A) Beta-lactam antibiotics (eg, penicillins, cephalosporins) and vancomycin inhibit cell wall synthesis. These medications are often indicated for lobar pneumonia in children, which is unlikely in a child with clear lungs on auscultation and no fever. In addition, beta-lactam antibiotics do not clear B pertussis from the nasopharynx, and vancomycin is generally effective against gram-positive, not gram-negative, bacteria.\n\n(Choice B) Fluoroquinolones (eg, ciprofloxacin) interfere with bacterial DNA synthesis but are not effective against B pertussis. Moreover, their use is avoided in children when possible due to potential adverse effects (eg, tendon rupture).\n\n(Choice C) Certain antiparasitic medications (eg, mebendazole, albendazole) inhibit microtubule assembly, disrupting the cytoskeleton of the parasite. B pertussis is a bacterium.\n\n(Choice E) Neuraminidase inhibitors (eg, oseltamivir) block virion release from cells infected by influenza virus. In contrast to this case, influenza typically presents with cough and fever that improve within a week.\n\nEducational objective:\nPertussis is a clinical diagnosis (eg, prolonged, forceful cough; household contact with prolonged cough; lack of immunization; lymphocytosis) and should be treated empirically. The treatment of choice is a macrolide antibiotic (eg, azithromycin), which binds to the bacterial ribosomal subunit and inhibits protein synthesis.\n\nReferences {{exhibit_2}}\n\n*   Pertussis: microbiology, disease, treatment, and prevention.\n*   How macrolide antibiotics work. {{exhibit_3}}",
+    "zh": "百日咳{{exhibit_1}}\n\n未接种疫苗的婴儿出现剧烈咳嗽，以及与长期咳嗽症状相关的家庭接触史，应引起对百日咳的关注。百日咳是由革兰氏阴性菌百日咳博德特氏菌引起的，通过呼吸道飞沫传播。最大的危险因素是缺乏免疫接种，患有轻度疾病的年长儿童/成人通常是感染源。\n\n百日咳是一种病程较长的疾病，通常分为3个阶段：卡他期（轻度鼻溢或咳嗽）、阵发期（阵发性剧烈咳嗽）和恢复期（数周至数月的逐渐缓解）。婴儿发生并发症（如发绀、呼吸暂停、癫痫发作）的风险很高，尤其是在阵发期。诊断线索包括无发热，以及伴有面部发红、吸气性哮吼或咳嗽后呕吐的咳嗽。淋巴细胞增多，其程度与疾病严重程度相关，也是一个特征性发现，与百日咳毒素引起的白细胞趋化性受损有关。\n\n百日咳通常是一种临床诊断，应经验性地使用大环内酯类抗生素（如阿奇霉素）治疗。大环内酯类药物与细菌的50S核糖体亚基结合，从而阻止氨基酸添加到不断增长的肽链中。这会导致细菌抑制蛋白质合成。\n\n(选项A) β-内酰胺类抗生素（如青霉素、头孢菌素）和万古霉素抑制细胞壁合成。这些药物通常适用于儿童大叶性肺炎，但对于听诊肺部清晰且无发热的儿童来说，这种可能性很小。此外，β-内酰胺类抗生素不能清除鼻咽部的百日咳博德特氏菌，而万古霉素通常对革兰氏阳性菌有效，而对革兰氏阴性菌无效。\n\n(选项B) 氟喹诺酮类药物（如环丙沙星）干扰细菌DNA合成，但对百日咳博德特氏菌无效。此外，由于潜在的不良反应（如肌腱断裂），应尽可能避免在儿童中使用这些药物。\n\n(选项C) 某些抗寄生虫药物（如甲苯咪唑、阿苯达唑）抑制微管组装，破坏寄生虫的细胞骨架。百日咳博德特氏菌是一种细菌。\n\n(选项E) 神经氨酸酶抑制剂（如奥司他韦）阻止病毒粒子从感染了流感病毒的细胞中释放出来。与本病例相比，流感的典型表现为咳嗽和发热，并且在一周内有所改善。\n\n教育目标：\n百日咳是一种临床诊断（例如，长期、剧烈的咳嗽；与长期咳嗽相关的家庭接触史；缺乏免疫接种；淋巴细胞增多），应经验性地治疗。首选治疗方法是大环内酯类抗生素（如阿奇霉素），它与细菌核糖体亚基结合并抑制蛋白质合成。\n\n参考文献{{exhibit_2}}\n\n*   百日咳：微生物学、疾病、治疗和预防。\n*   大环内酯类抗生素的作用方式。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pertussis (whooping cough) presentation, diagnosis, and treatment, focusing on the mechanism of action of macrolide antibiotics. It requires recognizing the clinical features suggestive of pertussis and understanding how macrolides inhibit bacterial protein synthesis. \n\nTo solve this question, identify the key features of pertussis in the vignette (prolonged cough, lack of immunization, household contact, lymphocytosis). Recognize that macrolide antibiotics are the treatment of choice and that they inhibit bacterial protein synthesis by binding to the 50S ribosomal subunit.",
+    "zh": "此题考察对百日咳（百日咳）的临床表现、诊断和治疗的了解，重点关注大环内酯类抗生素的作用机制。它需要识别提示百日咳的临床特征，并了解大环内酯类药物如何抑制细菌蛋白质合成。\n\n要解决这个问题，需要确定短文中的百日咳的关键特征（长期咳嗽、未接种疫苗、家庭接触、淋巴细胞增多）。认识到大环内酯类抗生素是首选治疗方法，它们通过与50S核糖体亚基结合来抑制细菌蛋白质合成。"
+  },
+  "tags": "Pertussis; Bordetella pertussis; Macrolide antibiotics; Protein synthesis; Respiratory infection; Infectious disease; Pediatrics; Vaccination; Lymphocytosis",
+  "category": "Micro",
+  "question_id": "107368",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\107368",
+  "extracted_at": "2025-11-05T14:49:27.853633",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:04:30.540274",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

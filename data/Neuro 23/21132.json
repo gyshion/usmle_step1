@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 2-year-old boy with no chronic medical conditions is brought to the emergency department after he was found unresponsive with vomitus in his mouth. The patient has had muscle aches, cough, rhinorrhea, diarrhea, vomiting, and fever for the past 3 days. His parents gave him aspirin twice daily for symptom control. Vital signs are within normal limits. On examination, the patient is somnolent but withdraws from pain. Pupils are equal in size and reactive to light. Cardiopulmonary examination shows no abnormalities. Hepatomegaly is present. Extremities are well perfused. Laboratory results are as follows:\n\nAspartate aminotransferase (SGOT) 2,170 U/L\nAlanine aminotransferase (SGPT) 1,587 U/L\nTotal bilirubin 1.7 mg/dL\nDirect bilirubin 1.2 mg/dL\nSerum ammonia 106 µmol/L (normal: 11-32)\n\nOver the next day, the patient's condition deteriorates and he dies despite supportive care. Examination of the brain would most likely reveal which of the following findings {{exhibit_1}}?",
+    "zh": "一名2岁男孩，无慢性病史，因被发现意识丧失且口中有呕吐物被送入急诊科。该患者过去3天出现肌肉酸痛、咳嗽、流涕、腹泻、呕吐和发烧。他的父母每天给他服用两次阿司匹林以控制症状。生命体征在正常范围内。体格检查显示，患者嗜睡，但对疼痛有反应。瞳孔等大，对光反应灵敏。心肺检查未见异常。存在肝肿大。四肢灌注良好。实验室检查结果如下：\n\n天门冬氨酸转氨酶（SGOT）2,170 U/L\n丙氨酸转氨酶（SGPT）1,587 U/L\n总胆红素1.7 mg/dL\n直接胆红素1.2 mg/dL\n血氨106 µmol/L（正常值：11-32）\n\n在接下来的第二天，患者的病情恶化，尽管给予支持治疗，仍死亡。对大脑的检查最有可能揭示以下哪种发现 {{exhibit_1}}？"
+  },
+  "question": {
+    "en": "Examination of the brain would most likely reveal which of the following findings?",
+    "zh": "对大脑的检查最有可能揭示以下哪种发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Diffuse astrocyte swelling",
+      "zh": "弥漫性星形胶质细胞肿胀"
+    },
+    "B": {
+      "en": "Dural venous thrombosis",
+      "zh": "硬脑膜静脉窦血栓形成"
+    },
+    "C": {
+      "en": "Hemorrhagic necrosis",
+      "zh": "出血性坏死"
+    },
+    "D": {
+      "en": "Inflammation of vessel walls",
+      "zh": "血管壁炎症"
+    },
+    "E": {
+      "en": "Long-chain fatty acid deposits",
+      "zh": "长链脂肪酸沉积"
+    },
+    "F": {
+      "en": "Pontine myelinolysis",
+      "zh": "脑桥髓鞘溶解"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient had acute-onset encephalopathy and liver failure (eg, hepatomegaly, elevated transaminases) following the administration of aspirin for a viral infection (eg, influenza). These findings are characteristic of REYE SYNDROME, a rapidly progressive and potentially fatal toxic-metabolic encephalopathy. Most cases are related to salicylates (eg, aspirin), which can cause MITOCHONDRIAL TOXICITY, particularly when given to young children for virally-induced fever.\n\nIn the liver, impaired fatty acid oxidation by mitochondria leads to fat deposition in hepatocytes (ie, HEPATIC STEATOSIS), hepatomegaly, and acute liver failure. In turn, excess AMMONIA ACCUMULATES due to hepatic dysfunction (eg, reduced urea cycle activity), causing DIFFUSE ASTROCYTE SWELLING and cerebral edema (eg, vomiting, confusion, lethargy).\n\nTreatment of Reye syndrome is supportive. Elevated intracranial pressure (ICP), which disrupts cerebral perfusion, is a major cause of death.\n\n(Choice B) Dural venous thrombosis most commonly presents with headache in young women with hypercoagulable risk factors (eg, oral contraception). Encephalopathy due to increased ICP can occur in severe cases, but liver function would not be affected. This patient's age, elevated aminotransferases, and hyperammonemia make this diagnosis unlikely.\n\n(Choices C and D) Hemorrhagic necrosis of the temporal lobe is characteristic of herpes simplex virus encephalitis, which can present with altered mental status and focal neurologic deficits similar to those of an inflammatory CNS vasculitis. However, hepatomegaly and acute liver failure would not be expected with either condition.\n\n(Choice E) Long-chain fatty acid deposition in the brain can be seen in patients with Alzheimer disease, which causes chronic dementia, not rapidly progressive encephalopathy. Although serum fatty acids can be elevated with Reye syndrome, cerebral deposition does not occur.\n\n(Choice F) Pontine myelinolysis (osmotic demyelination syndrome) can cause confusion, lethargy, and coma but typically occurs with rapid correction of hyponatremia due to shifting of water out of brain cells. Liver dysfunction is not associated with this condition.\n\nEducational objective:\nReye syndrome should be suspected in a young child with acute liver failure and encephalopathy after receiving aspirin for a virus-induced fever. Aspirin in this setting is a mitochondrial toxin that leads to hepatic steatosis, hyperammonemia, and diffuse astrocyte swelling (ie, cerebral edema).",
+    "zh": "该患者在因病毒感染（如流感）服用阿司匹林后出现急性发作性脑病和肝功能衰竭（如肝肿大、转氨酶升高）。这些发现是瑞氏综合征的特征，瑞氏综合征是一种快速进展且可能致命的毒性代谢性脑病。大多数病例与水杨酸盐（如阿司匹林）有关，水杨酸盐可引起线粒体毒性，尤其是在给年幼儿童服用以治疗病毒引起的的发烧时。\n\n在肝脏中，线粒体对脂肪酸的氧化受损会导致肝细胞中的脂肪沉积（即，肝脂肪变性）、肝肿大和急性肝功能衰竭。反过来，由于肝功能障碍（例如，尿素循环活性降低），导致过多的氨蓄积，引起弥漫性星形胶质细胞肿胀和脑水肿（例如，呕吐、意识模糊、嗜睡）。\n\n瑞氏综合征的治疗是支持性的。颅内压（ICP）升高，破坏脑灌注，是死亡的主要原因。\n\n（选项B）硬脑膜静脉窦血栓形成最常见于有高凝风险因素（例如，口服避孕药）的年轻女性中，表现为头痛。重症病例可发生因颅内压增高引起的脑病，但肝功能不受影响。该患者的年龄、转氨酶升高和高氨血症使得这种诊断不太可能。\n\n（选项C和D）颞叶出血性坏死是单纯疱疹病毒性脑炎的特征，可表现为精神状态改变和局灶性神经功能缺损，类似于炎性中枢神经系统血管炎。然而，肝肿大和急性肝衰竭不应该出现在这两种情况中。\n\n（选项E）在阿尔茨海默病患者中可见大脑中长链脂肪酸沉积，其可引起慢性痴呆，而非快速进展性脑病。虽然瑞氏综合征的血清脂肪酸可能升高，但不会发生脑部沉积。\n\n（选项F）脑桥髓鞘溶解（渗透性脱髓鞘综合征）可引起意识模糊、嗜睡和昏迷，但通常发生在快速纠正低钠血症时，是由于水分从脑细胞中移出。肝功能障碍与这种情况无关。\n\n教学目标：\n对于接受阿司匹林治疗病毒性发烧后出现急性肝衰竭和脑病的幼儿，应怀疑患有瑞氏综合征。在这种情况下，阿司匹林是一种线粒体毒素，可导致肝脂肪变性、高氨血症和弥漫性星形胶质细胞肿胀（即脑水肿）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Reye syndrome, its pathophysiology involving mitochondrial toxicity from aspirin use during viral infections, and the resulting hepatic steatosis, hyperammonemia, and diffuse astrocyte swelling. It also requires differentiating Reye syndrome from other causes of encephalopathy and liver failure.\n\nThe approach to solving this question involves recognizing the classic triad of acute encephalopathy, liver failure, and aspirin use in a young child with a recent viral infection. Understanding the underlying mechanisms leading to diffuse astrocyte swelling is crucial for selecting the correct answer.",
+    "zh": "此问题测试对瑞氏综合征的认识，其病理生理学涉及在病毒感染期间使用阿司匹林引起的线粒体毒性，以及由此产生的肝脂肪变性、高氨血症和弥漫性星形胶质细胞肿胀。它还需要将瑞氏综合征与其他原因引起的脑病和肝功能衰竭区分开来。\n\n解决此问题的关键在于识别年轻儿童中急性脑病、肝功能衰竭和近期病毒感染中使用阿司匹林的典型三联征。了解导致弥漫性星形胶质细胞肿胀的潜在机制对于选择正确的答案至关重要。"
+  },
+  "tags": "Reye syndrome; Encephalopathy; Liver failure; Aspirin; Mitochondrial toxicity; Hepatic steatosis; Hyperammonemia; Diffuse astrocyte swelling; Neurology; Pediatrics",
+  "category": "Neuro",
+  "question_id": "21132",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\21132",
+  "extracted_at": "2025-11-05T15:32:42.232725",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:24:56.735016",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 16-year-old girl comes to the emergency department with vaginal bleeding. Her last menstrual period was 12 weeks ago. She is sexually active and does not use contraception. The patient had a miscarriage last year that required a dilation and curettage. Urine pregnancy test is positive. Transvaginal ultrasound demonstrates an intrauterine gestational sac without fetal cardiac activity, and a dilation and curettage is performed. Pathology shows fetal tissue, focal trophoblastic hyperplasia, and some enlarged villi interspersed with normal villi. {{exhibit_1}}",
+    "zh": "一名16岁女孩因阴道出血到急诊科就诊。她上次月经是12周前。她有性生活且未使用避孕措施。该患者去年曾流产，需要进行扩张和刮宫术。尿妊娠试验呈阳性。经阴道超声显示宫内孕囊，无胎儿心动，并进行了扩张和刮宫术。病理显示胎儿组织、局灶性滋养细胞增生，以及一些与正常绒毛相间的增大绒毛。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Choriocarcinoma",
+      "zh": "绒毛膜癌"
+    },
+    "B": {
+      "en": "Complete mole",
+      "zh": "完全性葡萄胎"
+    },
+    "C": {
+      "en": "Invasive mole",
+      "zh": "侵袭性葡萄胎"
+    },
+    "D": {
+      "en": "Miscarriage",
+      "zh": "流产"
+    },
+    "E": {
+      "en": "Partial mole",
+      "zh": "部分性葡萄胎"
+    },
+    "F": {
+      "en": "Placental site trophoblastic tumor",
+      "zh": "胎盘部位滋养细胞肿瘤"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The correct answer is E. This patient has a partial hydatidiform mole, which typically presents in early pregnancy with vaginal bleeding and no fetal cardiac activity, similar to a miscarriage. Partial moles have a triploid karyotype (69,XXX or XXY) containing maternal and paternal DNA, with an extra chromosome set of paternal origin. Evacuated uterine contents contain fetal tissue and other parts (eg, cord, amniotic membrane), some edematous villi with focal trophoblastic proliferation, and some normal-appearing villi. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\nA complete mole (Choice B) may also present with vaginal bleeding. In addition, the uterus is enlarged out of proportion to the gestational age, and a snowstorm pattern is pathognomonic. Pre-eclampsia, hyperthyroidism, hyperemesis, and theca-lutein cysts may be present. Cells of the evacuated tissue have a 46,XX (or rarely 46,XY) karyotype with only paternal DNA. Histologically, no fetal tissue is present, and only edematous villi are seen. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\nChoriocarcinoma (Choice A) is a malignant GTD that can develop after any pregnancy. It often presents with vaginal bleeding and pulmonary metastases. Pathology shows sheets of anaplastic cytotrophoblasts and syncytiotrophoblasts and no villi. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\nAn invasive mole is diagnosed by histologic evidence of villi invading the myometrium on a hysterectomy specimen. This can be the malignant progression of a complete mole. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\nA miscarriage is a pregnancy loss prior to 20 weeks gestation and presents with vaginal bleeding and low β-hCG level. Pathology would show fetal tissue and normal villi and trophoblastic tissue. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\nA placental site trophoblastic tumor is a proliferation of intermediate trophoblasts. This malignant type of GTD produces human placental lactogen. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\nKey clinical pearls and memory aids:\nPARTIAL MOLE: Triploid karyotype, fetal tissue present, focal trophoblastic hyperplasia, enlarged and normal villi.\nCOMPLETE MOLE: Diploid karyotype (paternal origin), no fetal tissue, diffuse trophoblastic hyperplasia, diffusely enlarged villi, snowstorm pattern on ultrasound.\nCHORIOCARCINOMA: Malignant, no villi, anaplastic trophoblasts, often presents with metastases.",
+    "zh": "正确答案是E。该患者患有部分性葡萄胎，通常表现为早孕期阴道出血，无胎儿心动，类似于流产。部分性葡萄胎具有三倍体核型（69，XXX 或 XXY），包含母体和父系 DNA，并具有额外的一组父系来源的染色体。排出的子宫内容物包含胎儿组织和其他部分（如脐带、羊膜）、一些水肿的绒毛伴有局灶性滋养细胞增生，以及一些外观正常的绒毛。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\n完全性葡萄胎（选项 B）也可能出现阴道出血。此外，子宫增大与孕龄不成比例，积雪征是病理性的。可能存在先兆子痫、甲状腺功能亢进、妊娠剧吐和黄素囊肿。排出的组织细胞具有 46,XX（或罕见的 46,XY）核型，仅具有父系 DNA。组织学上，不存在胎儿组织，仅见水肿绒毛。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\n绒毛膜癌（选项 A）是一种恶性 GTD，可在任何妊娠后发生。它通常表现为阴道出血和肺转移。病理显示间变性细胞滋养细胞和合体滋养细胞片，没有绒毛。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\n侵袭性葡萄胎通过子宫切除标本上绒毛侵犯肌层来诊断。这可能是完全性葡萄胎的恶性进展。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\n流产是指妊娠 20 周之前的妊娠丢失，表现为阴道出血和低 β-hCG 水平。病理会显示胎儿组织和正常绒毛以及滋养细胞组织。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\n胎盘部位滋养细胞肿瘤是中间滋养细胞的增生。这种恶性 GTD 会产生人胎盘催乳素。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\n关键临床要点和助记符：\n部分性葡萄胎：三倍体核型，存在胎儿组织，局灶性滋养细胞增生，增大和正常绒毛。\n完全性葡萄胎：二倍体核型（父系来源），无胎儿组织，弥漫性滋养细胞增生，弥漫性增大的绒毛，超声显示积雪征。\n绒毛膜癌：恶性，无绒毛，间变性滋养细胞，常表现为转移。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the histological and clinical features differentiating various types of gestational trophoblastic disease, specifically focusing on partial hydatidiform mole.\n\nTo solve this question, carefully analyze the patient's presentation, ultrasound findings, and the specific histological description of the evacuated tissue, paying close attention to the presence or absence of fetal tissue and the characteristics of the villi and trophoblasts.",
+    "zh": "本题测试对不同类型妊娠滋养细胞疾病的组织学和临床特征的理解，特别侧重于部分性葡萄胎。\n\n要解决这个问题，请仔细分析患者的临床表现、超声检查结果以及排出的组织的特定组织学描述，密切关注胎儿组织的存在与否以及绒毛和滋养细胞的特征。"
+  },
+  "tags": "Gestational trophoblastic disease; Partial mole; Complete mole; Choriocarcinoma; Invasive mole; Placental site trophoblastic tumor; Histology; Ultrasound; Vaginal bleeding; Trophoblastic hyperplasia",
+  "category": "Pregnancy",
+  "question_id": "792",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pregnancy 23\\792",
+  "extracted_at": "2025-11-05T19:47:29.706116",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:49:51.761829",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

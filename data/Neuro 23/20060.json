@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 26-year-old woman is evaluated for increasing discomfort in the right posterior mandible. The patient has no prior medical conditions and takes no medications. Physical examination is unremarkable with the exception of a partially erupted right mandibular third molar tooth. Radiographs reveal impaction of the molar tooth. Surgical tooth extraction under general anesthesia is performed. During the surgery, the inferior alveolar nerve that is close to the tooth is inadvertently injured. {{exhibit_1}}",
+    "zh": "一名26岁女性因右侧后下颌骨不适加重而就诊。患者无既往病史，未服用任何药物。体格检查无特殊发现，仅发现右侧下颌第三磨牙部分萌出。X线片显示磨牙阻生。在全身麻醉下进行手术拔牙。手术过程中，靠近牙齿的下牙槽神经被意外损伤。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely to be observed on the injured side?",
+    "zh": "在受伤一侧最有可能观察到以下哪种情况？"
+  },
+  "options": {
+    "A": {
+      "en": "Loss of general sensation in the anterior tongue",
+      "zh": "舌前部一般感觉丧失"
+    },
+    "B": {
+      "en": "Loss of general sensation in the posterior tongue",
+      "zh": "舌后部一般感觉丧失"
+    },
+    "C": {
+      "en": "Loss of sensation in the lower lip",
+      "zh": "下唇感觉丧失"
+    },
+    "D": {
+      "en": "Loss of taste sensation in anterior tongue",
+      "zh": "舌前部味觉丧失"
+    },
+    "E": {
+      "en": "Loss of taste sensation in the posterior tongue",
+      "zh": "舌后部味觉丧失"
+    },
+    "F": {
+      "en": "Weakness of the masseter muscle",
+      "zh": "咬肌无力"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The inferior alveolar nerve is a branch of the mandibular nerve (CN V3). After branching from CN V3, it enters the mandibular foramen to travel within the mandibular canal, where it can be vulnerable to iatrogenic injury during dental procedures. From inside the mandibular canal, it gives off small branches to provide sensory innervation to each of the lower teeth.\n\nThe inferior alveolar nerve also gives off the mental nerve, which exits the mandibular canal through the mental foramen. The mental nerve conveys sensory information from the chin and lower lip (both skin and mucosal surfaces). Therefore, iatrogenic injury to the inferior alveolar nerve often results in unilateral numbness of the lower teeth, chin, and lower lip.\n\nNerve blocks can be performed at the mandibular foramen to provide anesthesia for dental procedures or at the mental foramen to facilitate laceration repair of the chin and lower lip.\n\n(Choice A) General sensation in the anterior tongue is carried by the lingual nerve. It is also a branch of CN V3, but it arises proximal to the inferior alveolar nerve branch. It passes between the medial pterygoid muscle and the ramus of the mandible (not into it), then through the floor of mouth where it crosses (and can be injured in procedures involving) the submandibular gland duct.\n\n(Choices B and E) Both general and taste sensation in the posterior tongue are carried by the glossopharyngeal nerve (CN IX).\n\n(Choice D) Taste sensation in the anterior tongue is mediated by the chorda tympani nerve, a branch of the facial nerve (CN VII) that travels with the lingual nerve.\n\n(Choice F) The masseter muscle is innervated by the masseteric branch of the anterior division of the mandibular nerve (CN V3). This arises from CN V3 proximal to the branching of the inferior alveolar nerve. {{exhibit_2}}",
+    "zh": "下牙槽神经是下颌神经（CN V3）的一个分支。从CN V3分支后，它进入下颌孔，在下颌管内走行，在牙科手术中可能容易受到医源性损伤。从下颌管内部，它发出小分支，为每个下牙提供感觉神经支配。\n\n下牙槽神经还发出颏神经，颏神经通过颏孔从下颌管中穿出。颏神经传递来自下巴和下唇的感觉信息（包括皮肤和粘膜表面）。因此，下牙槽神经的医源性损伤通常导致下牙、下巴和下唇的单侧麻木。\n\n可以在下颌孔进行神经阻滞，为牙科手术提供麻醉，或在颏孔进行神经阻滞，以促进下巴和下唇的撕裂修复。\n\n（选项A）舌前部的一般感觉由舌神经传递。它也是CN V3的一个分支，但它起源于下牙槽神经分支的近端。它通过内侧翼肌和下颌骨的下颌支之间（而不是进入下颌支），然后穿过口腔底部，在那里它穿过（并且可能在涉及）下颌下腺导管的过程中受到损伤。\n\n（选项B和E）舌后部的普通感觉和味觉都由舌咽神经（CN IX）传递。\n\n（选项D）舌前部的味觉由鼓索神经介导，鼓索神经是面神经（CN VII）的一个分支，与舌神经一起走行。\n\n（选项F）咬肌由下颌神经（CN V3）前支的咬肌分支支配。这起源于CN V3，位于下牙槽神经分支的近端。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the anatomy of the mandibular nerve and its branches, specifically the inferior alveolar nerve and its sensory distribution. It also assesses understanding of potential complications during dental procedures involving the mandible.\n\nTo solve this question, recall the branches of the mandibular nerve and their respective sensory distributions. Focus on the inferior alveolar nerve and its mental branch, which provides sensation to the lower lip and chin. Injury to this nerve would most likely result in loss of sensation in the lower lip.",
+    "zh": "此题考察对下颌神经及其分支的解剖学知识，特别是下牙槽神经及其感觉分布。同时也评估对涉及下颌骨的牙科手术中潜在并发症的理解。\n\n要解决这个问题，请回忆下颌神经的分支及其各自的感觉分布。重点关注下牙槽神经及其颏支，颏支为下唇和下巴提供感觉。该神经的损伤最有可能导致下唇感觉丧失。"
+  },
+  "tags": "Mandibular nerve; Inferior alveolar nerve; Mental nerve; Trigeminal nerve; Dental procedures; Nerve injury; Sensory innervation; Lower lip; Chin; Mandible",
+  "category": "Neuro",
+  "question_id": "20060",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\20060",
+  "extracted_at": "2025-11-05T15:31:56.784544",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:24:23.967746",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

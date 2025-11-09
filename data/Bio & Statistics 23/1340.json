@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 7-day-old neonate born to a 28-year-old woman is brought to the office due to progressive lethargy, vomiting, and poor feeding. The mother reports an uneventful pregnancy and perinatal course. She exclusively breastfeeds the infant and has no medical problems in any of her other children. On examination, the infant is somnolent and dehydrated with decreased muscle tone. Laboratory studies reveal metabolic acidosis with an elevated anion gap, ketosis, and hypoglycemia. Further evaluation reveals a markedly elevated propionic acid level due to defective conversion of propionyl-CoA to methylmalonyl-CoA.",
+    "zh": "一名由28岁女性所生的7天大新生儿因进行性嗜睡、呕吐和喂养不良就诊。母亲报告妊娠和围产期过程顺利。她完全母乳喂养婴儿，并且她的其他孩子没有任何健康问题。体格检查显示，婴儿嗜睡、脱水，肌肉张力降低。实验室研究显示代谢性酸中毒，伴有阴离子间隙升高、酮症和低血糖。进一步评估显示丙酸水平显着升高，这是由于丙酰辅酶A转化为甲基丙二酰辅酶A的转化缺陷。"
+  },
+  "question": {
+    "en": "This patient is most likely unable to use which of the following amino acids for energy production?",
+    "zh": "该患者最有可能无法利用以下哪种氨基酸产生能量？"
+  },
+  "options": {
+    "A": {
+      "en": "Alanine",
+      "zh": "丙氨酸"
+    },
+    "B": {
+      "en": "Aspartate",
+      "zh": "天冬氨酸"
+    },
+    "C": {
+      "en": "Glutamate",
+      "zh": "谷氨酸"
+    },
+    "D": {
+      "en": "Lysine",
+      "zh": "赖氨酸"
+    },
+    "E": {
+      "en": "Phenylalanine",
+      "zh": "苯丙氨酸"
+    },
+    "F": {
+      "en": "Valine",
+      "zh": "缬氨酸"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "Catabolism of several ESSENTIAL AMINO ACIDS (VALINE, ISOLEUCINE, METHIONINE, and THREONINE) along with ODD-CHAIN FATTY ACIDS results in the generation of propionyl-CoA. Propionyl-CoA is subsequently converted to methylmalonyl-CoA in a reaction catalyzed by biotin-dependent propionyl-CoA carboxylase. Isomerization of methylmalonyl-CoA then generates succinyl-CoA, which enters the TCA cycle.",
+    "zh": "几种必需氨基酸（缬氨酸、异亮氨酸、甲硫氨酸和苏氨酸）以及奇数链脂肪酸的分解代谢导致丙酰辅酶A的产生。丙酰辅酶A随后在生物素依赖性丙酰辅酶A羧化酶催化的反应中转化为甲基丙二酰辅酶A。甲基丙二酰辅酶A的异构化然后产生琥珀酰辅酶A，进入TCA循环。"
+  },
+  "summary": {
+    "en": "1) Propionic acidemia 2) Propionyl-CoA is derived from the metabolism of valine, isoleucine, methionine, threonine, and odd-chain fatty acids.",
+    "zh": "1) 丙酸血症 2) 丙酰辅酶A来源于缬氨酸、异亮氨酸、甲硫氨酸、苏氨酸和奇数链脂肪酸的代谢。"
+  },
+  "tags": "Propionic acidemia; Amino acids; Fatty acids; Metabolism",
+  "category": "Bio",
+  "question_id": "1340",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1340",
+  "extracted_at": "2025-11-05T10:58:53.208511",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:20:45.334469",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

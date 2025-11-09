@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 27-year-old woman comes to the office for evaluation of infertility. The patient and her husband have been trying to conceive for the past 2 years but have been unsuccessful. Her husband recently underwent infertility evaluation and was found to have no abnormalities. The patient's menses began at age 13, and her menstrual cycles were regular until the last few years, when they began occurring at intervals of 3-4 months. She has occasional headaches but no other symptoms. The patient has no prior medical conditions and takes no medications. On physical examination, the patient appears normal and has well-developed secondary sexual characteristics. Cardiopulmonary and abdominal examinations are normal. Pelvic examination reveals no adnexal masses. Neurological examination shows diminished vision in the bilateral temporal visual fields. Examination of the other cranial nerves is normal and there is no focal weakness or sensory loss. An abnormality originating in which of the following is the most likely cause of this patient's current condition?",
+    "zh": "一位27岁的女性前来就诊，评估不孕症。患者和她的丈夫过去2年来一直在尝试受孕，但均未成功。她的丈夫最近接受了不孕症评估，未发现异常。患者的月经初潮始于13岁，月经周期规律，但最近几年开始以3-4个月的间隔出现。她偶尔会头痛，但没有其他症状。患者没有既往病史，也没有服用药物。体格检查显示患者外观正常，第二性征发育良好。心肺和腹部检查均正常。盆腔检查未发现附件肿块。神经系统检查显示双侧颞侧视野视力减退。其他颅神经检查正常，没有局灶性无力和感觉缺失。以下哪一项的异常最有可能导致该患者目前的状况？"
+  },
+  "question": {
+    "en": "An abnormality originating in which of the following is the most likely cause of this patient's current condition?",
+    "zh": "以下哪一项的异常最有可能导致该患者目前的状况？"
+  },
+  "options": {
+    "A": {
+      "en": "Hypothalamic neurons",
+      "zh": "下丘脑神经元"
+    },
+    "B": {
+      "en": "Ovarian granulosa cells",
+      "zh": "卵巢颗粒细胞"
+    },
+    "C": {
+      "en": "Ovarian theca cells",
+      "zh": "卵巢卵泡膜细胞"
+    },
+    "D": {
+      "en": "Pituitary lactotrophs",
+      "zh": "垂体泌乳细胞"
+    },
+    "E": {
+      "en": "Pituitary somatotrophs",
+      "zh": "垂体生长激素细胞"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's symptoms are concerning for a pituitary tumor. Large pituitary tumors can cause headaches due to mass effect, and compression of the optic chiasm by suprasellar extension of the tumor can lead to bitemporal hemianopsia. {{exhibit_1}}\n\nThe most common type of pituitary adenoma is a prolactinoma. Prolactin is a peptide hormone secreted from lactotrophs of the pituitary gland whose primary physiologic action is maintenance of lactation in postpartum women. Hyperprolactinemia also suppresses GnRH production in the hypothalamus, leading to oligomenorrhea/amenorrhea and infertility. Suppression of ovulation is also seen as a physiologic effect of breastfeeding, which supports elevated prolactin levels for 6 months or more postpartum.\n\n(Choice A) Kallmann syndrome is a disorder involving the GnRH-producing neurons in the hypothalamus. In addition to decreased sense of smell (anosmia/hyposomia), this condition causes hypogonadotropic hypogonadism and presents with short stature and delayed puberty (primary amenorrhea). This patient has secondary amenorrhea (ie, normal initial onset of puberty followed by menstrual dysregulation), and her bilateral temporal visual deficits are more suggestive of a pituitary rather than hypothalamic lesion.\n\n(Choice B) Ovarian granulosa cells produce estrogen, progesterone, and inhibin. Loss of these cells (eg, due to autoimmune disorder) can lead to primary ovarian insufficiency and present with infertility and secondary amenorrhea. However, patients often have hypoestrogenic symptoms (eg, hot flashes), and this disorder would not cause visual field defects.\n\n(Choice C) Ovarian theca cells produce androgens, which provide the substrate for subsequent synthesis of estrogens. Amenorrhea and infertility related to hyperactivity of these cells are typically associated with signs of hyperandrogenism (eg, hirsutism).\n\n(Choice E) Unlike most pituitary hormones, which are under positive regulation by the hypothalamus, prolactin is primarily under negative regulation by hypothalamic dopaminergic neurons via the pituitary stalk. Because of this, any pituitary tumor of significant size that disrupts these dopaminergic pathways can cause moderate hyperprolactinemia. However, somatotroph adenomas typically cause acromegaly, with prognathism and bony enlargement of the hands and feet.",
+    "zh": "该患者的症状提示可能患有垂体肿瘤。大型垂体肿瘤由于占位效应可引起头痛，肿瘤向上鞍上延伸压迫视交叉可导致双颞侧偏盲。{{exhibit_1}}\n\n最常见的垂体腺瘤是泌乳素瘤。催乳素是一种肽激素，由垂体泌乳细胞分泌，其主要生理作用是维持产后妇女的泌乳。高催乳素血症也会抑制下丘脑中促性腺激素释放激素（GnRH）的产生，导致月经过少/闭经和不孕症。抑制排卵也见于母乳喂养的生理效应，母乳喂养支持产后6个月或更长时间内催乳素水平升高。\n\n(选项 A) Kallmann综合征是一种涉及下丘脑中GnRH产生神经元的疾病。除了嗅觉减退（嗅觉缺失/嗅觉减退）外，这种情况还会导致促性腺激素分泌不足性性腺功能减退症，表现为身材矮小和青春期延迟（原发性闭经）。该患者患有继发性闭经（即，青春期正常开始，随后出现月经失调），并且她的双侧颞侧视野缺损更提示为垂体病变而非下丘脑病变。\n\n(选项 B) 卵巢颗粒细胞产生雌激素、孕酮和抑制素。这些细胞的丢失（例如，由于自身免疫性疾病）可导致原发性卵巢功能不全，并表现为不孕症和继发性闭经。然而，患者通常有低雌激素症状（例如，潮热），并且这种疾病不会导致视野缺损。\n\n(选项 C) 卵巢卵泡膜细胞产生雄激素，为随后合成雌激素提供底物。与这些细胞过度活跃相关闭经和不孕症通常与高雄激素血症的体征相关（例如，多毛症）。\n\n(选项 E) 与大多数受下丘脑正向调节的垂体激素不同，催乳素主要受下丘脑多巴胺能神经元通过垂体柄负向调节。因此，任何破坏这些多巴胺能通路的大型垂体肿瘤都可能导致中度高催乳素血症。然而，生长激素细胞腺瘤通常会导致肢端肥大症，表现为下颌前突和手足骨骼增大。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pituitary adenomas, specifically prolactinomas, and their clinical presentation including amenorrhea, infertility, and visual field defects due to compression of the optic chiasm. It also tests the ability to differentiate prolactinomas from other causes of amenorrhea and infertility.\n\nTo solve this question, recognize the key findings of secondary amenorrhea, infertility, and bitemporal hemianopsia. Consider the anatomical relationship between the pituitary gland and the optic chiasm. Recall that prolactinomas are the most common type of pituitary adenoma and can cause these symptoms due to hyperprolactinemia and mass effect.",
+    "zh": "这个问题考察了对垂体腺瘤（特别是泌乳素瘤）的了解，以及它们的临床表现，包括闭经、不孕症和由于压迫视交叉引起的视野缺损。它还考察了区分泌乳素瘤与其他原因引起的闭经和不孕症的能力。\n\n要解决这个问题，需要识别继发性闭经、不孕症和双颞侧偏盲的关键发现。考虑垂体与视交叉之间的解剖关系。记住泌乳素瘤是最常见的垂体腺瘤，并且由于高催乳素血症和占位效应，可引起这些症状。"
+  },
+  "tags": "Pituitary adenoma; Prolactinoma; Hyperprolactinemia; Amenorrhea; Infertility; Bitemporal hemianopsia; Optic chiasm; Endocrinology; Neurology",
+  "category": "Endo",
+  "question_id": "1262",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\1262",
+  "extracted_at": "2025-11-05T13:59:32.998721",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:36:58.156060",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

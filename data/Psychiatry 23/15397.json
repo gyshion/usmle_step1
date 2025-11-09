@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 27-year-old man with schizophrenia comes to the emergency department due to an acute muscle spasm in his neck that developed several days after starting treatment with haloperidol. He is extremely distressed and unable to turn his head. The patient is treated with intravenous diphenhydramine, which relieves his symptoms within minutes. A psychiatrist is consulted, and recommendations are made to discontinue haloperidol and start the second-generation antipsychotic quetiapine because of its lower risk for similar dystonic side effects. In addition to dopamine D2 receptor antagonism, this new medication has which of the following pharmacological properties?",
+    "zh": "一名患有精神分裂症的27岁男性因颈部急性肌肉痉挛来到急诊科就诊，该症状是在开始使用氟哌啶醇治疗几天后出现的。他极度痛苦，无法转动头部。患者接受静脉注射苯海拉明治疗，数分钟内症状缓解。精神科医生被咨询，并建议停用氟哌啶醇，开始使用第二代抗精神病药喹硫平，因为它对类似的肌张力障碍副作用的风险较低。除了多巴胺D2受体拮抗作用外，这种新药还具有以下哪种药理特性？"
+  },
+  "question": {
+    "en": "Which of the following pharmacological properties does quetiapine have?",
+    "zh": "喹硫平具有以下哪种药理特性？"
+  },
+  "options": {
+    "A": {
+      "en": "Dopamine reuptake inhibition",
+      "zh": "多巴胺再摄取抑制"
+    },
+    "B": {
+      "en": "Dopamine D2 partial agonist activity",
+      "zh": "多巴胺D2部分激动剂活性"
+    },
+    "C": {
+      "en": "Monoamine oxidase inhibition",
+      "zh": "单胺氧化酶抑制"
+    },
+    "D": {
+      "en": "Serotonin 2A receptor antagonism",
+      "zh": "5-羟色胺2A受体拮抗作用"
+    },
+    "E": {
+      "en": "Serotonin and norepinephrine reuptake inhibition",
+      "zh": "5-羟色胺和去甲肾上腺素再摄取抑制"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The patient developed an acute dystonic reaction, a type of extrapyramidal symptom (EPS), after starting haloperidol, a first-generation antipsychotic (FGA). FGAs have a high risk of causing EPS due to their potent dopamine D2 receptor antagonism. Management of acute dystonic reactions includes treatment with diphenhydramine or benztropine and switching to an agent with a lower propensity for producing EPS, such as a second-generation antipsychotic (SGA). Quetiapine is an SGA. In addition to dopamine D2 receptor antagonism, SGAs (eg, olanzapine, quetiapine) also block serotonin receptors, specifically the 5-HT2A receptor. Compared with FGAs, SGAs block 5-HT2A receptors more potently than D2 receptors and have lower binding affinity at the dopamine receptor site, which is thought to explain the reduced risk of causing EPS. Although SGAs have a low risk of EPS, they are associated with a greater risk of metabolic adverse effects.\n\n(Choice A) Dopamine reuptake inhibition, usually in combination with norepinephrine reuptake inhibition, is the mechanism of action of many drugs used to treat ADHD (eg, methylphenidate, bupropion).\n\n(Choice B) Dopamine D2 partial agonism is one of the mechanisms of action of the SGAs aripiprazole and brexpiprazole.\n\n(Choice C) The monoamine oxidase enzyme normally breaks down monoamines (eg, dopamine, norepinephrine, serotonin). The class of antidepressants known as monoamine oxidase inhibitors (eg, phenelzine, tranylcypromine) block these enzymes, thereby increasing availability of the respective monoamines.\n\n(Choice E) Serotonin and norepinephrine reuptake inhibition is the mechanism of action of serotonin and norepinephrine reuptake inhibitors (eg, venlafaxine) and tricyclic antidepressants (eg, amitriptyline).\n\nEducational objective: Second-generation antipsychotics block 5-HT2A receptors and have lower binding affinity at dopamine D2 receptors, which is associated with a lower risk of extrapyramidal side effects.",
+    "zh": "患者在开始使用氟哌啶醇（第一代抗精神病药，FGA）后出现了急性肌张力障碍反应，这是一种锥体外系症状（EPS）。由于FGA具有强效的多巴胺D2受体拮抗作用，因此引起EPS的风险很高。急性肌张力障碍反应的治疗包括使用苯海拉明或苯托品治疗，并换用不太可能产生EPS的药物，如第二代抗精神病药（SGA）。喹硫平是一种SGA。除了多巴胺D2受体拮抗作用外，SGA（如奥氮平、喹硫平）还会阻断5-羟色胺受体，特别是5-HT2A受体。与FGA相比，SGA阻断5-HT2A受体的能力比D2受体更强，并且与多巴胺受体位点的结合亲和力较低，这被认为是解释其降低EPS风险的原因。虽然SGA引起EPS的风险较低，但与代谢不良反应的风险增加有关。\n\n（选项A）多巴胺再摄取抑制，通常与去甲肾上腺素再摄取抑制联合使用，是许多用于治疗ADHD的药物（如哌甲酯、安非他酮）的作用机制。\n\n（选项B）多巴胺D2部分激动作用是SGA阿立哌唑和布雷沙嗪的作用机制之一。\n\n（选项C）单胺氧化酶通常分解单胺（如多巴胺、去甲肾上腺素、5-羟色胺）。被称为单胺氧化酶抑制剂（如苯乙肼、反苯环丙胺）的抗抑郁药会阻断这些酶，从而增加相应单胺的可用性。\n\n（选项E）5-羟色胺和去甲肾上腺素再摄取抑制是5-羟色胺和去甲肾上腺素再摄取抑制剂（如文拉法辛）和三环类抗抑郁药（如阿米替林）的作用机制。\n\n教学目标：第二代抗精神病药阻断5-HT2A受体，并且与多巴胺D2受体的结合亲和力较低，这与降低锥体外系副作用的风险有关。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pharmacological properties of second-generation antipsychotics, specifically quetiapine, and their relationship to the risk of extrapyramidal side effects. It requires differentiating the mechanisms of action of various psychotropic medications.\n\nTo solve this question, one must first identify the class of medication prescribed (second-generation antipsychotic) and recall its key pharmacological targets. Then, by comparing these targets to the options provided, the correct pharmacological property can be identified. Understanding the mechanism behind reduced EPS in SGAs is crucial.",
+    "zh": "此题考察了对第二代抗精神病药（特别是喹硫平）的药理特性的理解，以及它们与锥体外系副作用风险的关系。它需要区分各种精神药物的作用机制。\n\n要解决这个问题，首先要确定所开药物的类别（第二代抗精神病药），并回忆其关键的药理学靶点。然后，通过将这些靶点与提供的选项进行比较，可以确定正确的药理特性。了解SGA中EPS降低的机制至关重要。"
+  },
+  "tags": "Schizophrenia; Antipsychotics; Second-generation antipsychotics; Quetiapine; Extrapyramidal symptoms; Dopamine D2 receptor antagonism; Serotonin 5-HT2A receptor antagonism; Pharmacology",
+  "category": "Psychiatry",
+  "question_id": "15397",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\15397",
+  "extracted_at": "2025-11-05T19:49:31.802172",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:53:22.812589",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

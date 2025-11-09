@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A genetic study performed on a 10-year-old boy reveals a single base substitution mutation involving a DNA segment that encodes a cellular protein, as shown in the image below. {{exhibit_1}}",
+    "zh": "对一名10岁男孩进行的基因研究显示，一个涉及编码细胞蛋白质的 DNA 片段发生了单碱基取代突变，如下图所示。 {{exhibit_1}}"
+  },
+  "question": {
+    "en": "This mutation is most likely to affect which of the following processes?",
+    "zh": "这种突变最有可能影响以下哪种过程？"
+  },
+  "options": {
+    "A": {
+      "en": "DNA methylation",
+      "zh": "DNA 甲基化"
+    },
+    "B": {
+      "en": "Polypeptide folding following translation",
+      "zh": "翻译后多肽折叠"
+    },
+    "C": {
+      "en": "Posttranscriptional RNA splicing",
+      "zh": "转录后 RNA 剪接"
+    },
+    "D": {
+      "en": "RNA elongation",
+      "zh": "RNA 延伸"
+    },
+    "E": {
+      "en": "Transcription initiation",
+      "zh": "转录起始"
+    },
+    "F": {
+      "en": "Translation initiation",
+      "zh": "翻译起始"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Genetic information flows from DNA to RNA to proteins. Most eukaryotic DNA sequences consist of coding exons, noncoding introns, and 2 promoter regions (the CAAT box and the TATA box). The CAAT box is located 70-80 bases upstream of the beginning (5' end) of the coding region, and the TATA box is located 25 bases upstream from the beginning of the coding region.\n\nGene transcription begins when RNA polymerase II attaches to one of the promoter regions in a process that requires general transcription factors. A DNA enhancer region then binds activator proteins that associate with transcription factors and RNA polymerase II at the promoter, thereby increasing gene expression. Although promoters are not directly translated into protein, promoter mutations can cause abnormal gene expression by altering the ability of RNA polymerase II and transcription factors to bind.\n\n(Choice A) DNA methylation is part of the epigenetic code. This process is carried out by DNA methyltransferases and serves to silence the genes it affects.\n\n(Choice B) The folding of a formed polypeptide into its secondary and tertiary structures is entirely spontaneous and is determined by the amino acid sequence in the protein's primary structure. Heat shock proteins assist in the spontaneous refolding of proteins.\n\n(Choice C) Posttranscriptional RNA splicing is facilitated by small nuclear ribonucleoproteins (snRNPs) that remove introns from heterogeneous nuclear RNA (hnRNA) containing GU at the 5' splice site and AG at the 3' splice site.\n\n(Choice D) The TATA box only participates in the initiation of transcription. The addition of nucleotides to the forming RNA molecule (RNA elongation) continues until RNA polymerase II encounters a termination signal.\n\n(Choice F) In eukaryotes, translation initiation requires both ribosomal subunits (60S and 40S) with their associated rRNA, mRNA, initiation factors, initiator tRNA charged with methionine, and GTP. The assembled ribosome then recognizes the AUG start codon on mRNA to begin the process.\n\nEducational objective:\nThe TATA box is a promoter region that binds transcription factors and RNA polymerase II during the initiation of transcription. It is located approximately 25 bases upstream from the beginning of the coding region. {{exhibit_2}}",
+    "zh": "遗传信息从 DNA 流向 RNA，再到蛋白质。大多数真核生物 DNA 序列由编码外显子、非编码内含子和 2 个启动子区域（CAAT 盒和 TATA 盒）组成。CAAT 盒位于编码区开始（5' 端）上游 70-80 个碱基处，TATA 盒位于编码区开始上游 25 个碱基处。\n\n当 RNA 聚合酶 II 附着于启动子区域之一时，基因转录开始，这个过程需要通用转录因子。然后，DNA 增强子区域结合激活蛋白，这些激活蛋白与启动子处的转录因子和 RNA 聚合酶 II 相关联，从而增加基因表达。尽管启动子不会直接翻译成蛋白质，但启动子突变可以通过改变 RNA 聚合酶 II 和转录因子结合的能力来导致异常的基因表达。\n\n（选项 A）DNA 甲基化是表观遗传密码的一部分。此过程由 DNA 甲基转移酶进行，并用于沉默它影响的基因。\n\n（选项 B）已形成的多肽折叠成其二级和三级结构是完全自发的，并由蛋白质一级结构中的氨基酸序列决定。热休克蛋白有助于蛋白质的自发重折叠。\n\n（选项 C）转录后 RNA 剪接由小核核糖核蛋白 (snRNPs) 促进，它们从异质核 RNA (hnRNA) 中去除内含子，该 hnRNA 在 5' 剪接位点含有 GU，在 3' 剪接位点含有 AG。\n\n（选项 D）TATA 盒仅参与转录的起始。将核苷酸添加到形成的 RNA 分子（RNA 延伸）中，直到 RNA 聚合酶 II 遇到终止信号。\n\n（选项 F）在真核生物中，翻译起始需要两个核糖体亚基（60S 和 40S）及其相关的 rRNA、mRNA、起始因子、带有甲硫氨酸的起始 tRNA 和 GTP。组装好的核糖体随后识别 mRNA 上的 AUG 起始密码子以开始该过程。\n\n教育目标：\nTATA 盒是一个启动子区域，在转录起始期间与转录因子和 RNA 聚合酶 II 结合。它位于编码区开始上游约 25 个碱基处。 {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of eukaryotic gene organization, specifically the role of the TATA box in transcription initiation. It also tests the impact of mutations in promoter regions on gene expression.\n\nTo solve this question, identify the location of the mutation (TATA box) and its function (transcription initiation). Then, select the option that directly relates to the function of the mutated region.",
+    "zh": "此问题测试对真核生物基因组织的了解，特别是 TATA 盒在转录起始中的作用。它还测试了启动子区域突变对基因表达的影响。\n\n要解决这个问题，请确定突变的位置（TATA 盒）及其功能（转录起始）。然后，选择与突变区域的功能直接相关的选项。"
+  },
+  "tags": "Transcription initiation; TATA box; Promoter region; Gene expression; Eukaryotic gene organization; Molecular biology; Genetics; RNA polymerase II; Transcription factors; Mutation",
+  "category": "Bio",
+  "question_id": "2030",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\2030",
+  "extracted_at": "2025-11-05T11:15:13.626948",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:23:50.166249",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

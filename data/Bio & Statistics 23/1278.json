@@ -1,0 +1,55 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man is admitted to the hospital with acute chest pain. An ECG is obtained in the emergency department and shows ST segment elevation in leads II, III, and aVF. A sample of blood is taken from the patient, and a new test is used to measure plasma homocysteine levels. The test is repeated 3 times with his blood sample, and the results are 11.8 µmol/L, 9.2 µmol/L, and 13.7 µmol/L (laboratory reference range: 4-14).",
+    "zh": "一名34岁的男性因急性胸痛入院。在急诊科进行心电图检查，显示II、III和aVF导联ST段抬高。从患者身上采集血样，并使用一项新测试来测量血浆同型半胱氨酸水平。使用他的血样重复测试3次，结果分别为11.8 µmol/L、9.2 µmol/L和13.7 µmol/L（实验室参考范围：4-14）。"
+  },
+  "question": {
+    "en": "Which of the following parameters is most likely to be low based on the results of the new test?",
+    "zh": "根据新测试的结果，以下哪项参数最有可能较低？"
+  },
+  "options": {
+    "A": {
+      "en": "Accuracy",
+      "zh": "准确性"
+    },
+    "B": {
+      "en": "Precision",
+      "zh": "精密度"
+    },
+    "C": {
+      "en": "Sensitivity",
+      "zh": "敏感性"
+    },
+    "D": {
+      "en": "Specificity",
+      "zh": "特异性"
+    },
+    "E": {
+      "en": "Validity",
+      "zh": "效度"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "A measurement tool should be precise and accurate to be useful in the clinical setting. Precision and accuracy are defined as follows:\n\n*   **Precision** (reliability) is the ability of a test to reproduce identical or similar results with repeated measurements (bottom half of figure).\n*   **Accuracy** (validity) is the ability of a test to measure what it is supposed to measure. For a new test to be accurate, its results should be equivalent to the results obtained with a \"gold standard\" (eg, best conventional test available) on the same individual (right half of figure).\n\nA precise test gives similar or very close results on repeat measurements. In this example, repeat measurements of the same sample yielded different results; therefore, the new test has low precision.\n\n**(Choices A and E)** To evaluate the accuracy of a new test, its results should be compared to those obtained with the gold standard test on the same individual. A test can be highly precise (ie, gives very similar results on repeat measurements) but inaccurate (ie, the measurements are all incorrect compared to the gold standard). A test that is highly imprecise is also highly inaccurate. In this case, as there were no test results obtained using the \"gold standard\", the accuracy/validity of the test cannot be determined.\n\n**(Choices C and D)** Sensitivity is defined as a test's ability to identify the true presence of disease, whereas specificity is defined as a test's ability to identify the true absence of disease. Poor reliability can limit the sensitivity or specificity of a test if the results from healthy and diseased populations are close in value.\n\n**Educational objective:**\nA precise/reliable test is reproducible in that it gives similar results on repeat measurements. Reliability is maximal when random error is minimal.",
+    "zh": "一个测量工具应该精确且准确，才能在临床环境中有效。 精密度和准确性定义如下：\n\n*   **精密度**（可靠性）是测试在重复测量中再现相同或相似结果的能力（图的下半部分）。\n*   **准确性**（效度）是测试衡量其预期测量内容的能力。对于一项新测试来说，要准确，其结果应该与在同一人身上使用“金标准”（例如，最佳的现有常规测试）获得的结果相当（图的右半部分）。\n\n精确的测试在重复测量中给出相似或非常接近的结果。在这个例子中，对同一样本的重复测量产生了不同的结果；因此，新测试的精密度较低。\n\n**(选项A和E)** 为了评估一项新测试的准确性，应该将其结果与使用金标准测试在同一人身上获得的结果进行比较。一项测试可能具有高度的精密度（即，在重复测量中给出非常相似的结果），但却不准确（即，与金标准相比，所有测量都是不正确的）。一项高度不精确的测试也高度不准确。在这种情况下，由于没有使用“金标准”获得的测试结果，因此无法确定测试的准确性/效度。\n\n**(选项C和D)** 敏感性定义为测试识别疾病真正存在的能力，而特异性定义为测试识别疾病真正不存在的能力。如果来自健康人群和患病人群的结果值接近，则差的可靠性会限制测试的敏感性或特异性。\n\n**教育目标：**\n一个精确/可靠的测试是可重复的，因为它在重复测量中给出相似的结果。当随机误差最小时，可靠性达到最大。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the concepts of precision and accuracy in the context of a new diagnostic test. Specifically, it requires you to evaluate whether the test results are precise, given repeated measurements on the same sample.\n\nThe key to answering this question is recognizing that precision relates to the reproducibility of the test. The test results should be evaluated to see if they give similar or very close results on repeat measurements. If the repeat measurements yield different results, the new test has low precision.",
+    "zh": "这个问题考察了对新诊断测试背景下精密度和准确性概念的理解。具体来说，它要求你评估在对同一样本进行重复测量的情况下，测试结果是否精确。\n\n回答这个问题的关键是认识到精密度与测试的可重复性有关。应该评估测试结果，以查看它们在重复测量中是否给出相似或非常接近的结果。如果重复测量产生不同的结果，则新测试的精密度较低。"
+  },
+  "tags": "Biostatistics; Precision; Accuracy; Validity; Reliability; Diagnostic testing",
+  "category": "Bio",
+  "question_id": "1278",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1278",
+  "extracted_at": "2025-11-05T10:31:15.434941",
+  "translated_at": "2025-11-07T16:20:23.111967",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

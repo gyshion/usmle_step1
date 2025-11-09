@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old man comes to the emergency department due to epigastric abdominal pain and fatigue. He has had similar episodes of pain in the past. Temperature is 37.1 C (98.8 F), blood pressure is 128/69 mm Hg, pulse is 92/min, and respirations are 16/min. Physical examination shows mild epigastric tenderness and hepatomegaly. There is no jaundice or lymphadenopathy. Laboratory results are as follows:\n\nComplete blood count\n\nHemoglobin 9.0 g/dL\n\nMean corpuscular volume (MCV) 115 µm³\n\nPlatelets 130,000/mm³\n\nLeukocytes 5,500/mm³\n\nCT scan of the abdomen shows pancreatic calcifications. Right upper quadrant ultrasound reveals no evidence of gallstones.",
+    "zh": "一名45岁男性因上腹部疼痛和疲劳来到急诊科。他过去曾有过类似的疼痛发作。体温37.1摄氏度（98.8华氏度），血压128/69毫米汞柱，脉搏92次/分钟，呼吸16次/分钟。体格检查显示轻度上腹部压痛和肝肿大。无黄疸或淋巴结病。实验室检查结果如下：\n\n全血细胞计数\n\n血红蛋白9.0克/分升\n\n平均红细胞体积（MCV）115 µm³\n\n血小板130,000/mm³\n\n白细胞5,500/mm³\n\n腹部CT扫描显示胰腺钙化。右上象限超声未发现胆结石的证据。"
+  },
+  "question": {
+    "en": "Which of the following processes is most likely responsible for this patient's anemia?",
+    "zh": "以下哪种过程最有可能导致该患者的贫血？"
+  },
+  "options": {
+    "A": {
+      "en": "Diminished thymidine synthesis",
+      "zh": "胸苷合成减少"
+    },
+    "B": {
+      "en": "Impaired globin chain synthesis",
+      "zh": "珠蛋白链合成受损"
+    },
+    "C": {
+      "en": "Impaired pyruvate decarboxylation",
+      "zh": "丙酮酸脱羧受损"
+    },
+    "D": {
+      "en": "Low rate of intracellular transamination reactions",
+      "zh": "细胞内转氨反应速率低"
+    },
+    "E": {
+      "en": "Reduced iron availability for hemoglobin synthesis",
+      "zh": "血红蛋白合成的铁利用率降低"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's recurrent abdominal pain and pancreatic calcifications suggest CHRONIC PANCREATITIS, the most common cause of which is ethanol abuse. His HEPATOMEGALY is likely due to alcohol-associated hepatic steatosis. The patient also has macrocytic anemia (low hemoglobin and elevated mean corpuscular volume [MCV] >100 µm³), which often develops in patients with chronic alcohol use due to folic acid deficiency (within months) or vitamin B₁₂ deficiency (within years).\n\nBoth deficiencies lead to megaloblastosis, the underlying biochemical feature of which is a defect in DNA synthesis. Folic acid is a single carbon donor required for synthesis of purine and pyrimidine (eg, thymidine) bases incorporated in DNA. RNA and protein synthesis may continue relatively unaltered, leading to a state of unbalanced cytoplasmic growth with impaired cell division. Pancreatic insufficiency is also associated with vitamin B₁₂ deficiency as pancreatic enzymes normally cleave R factor from B₁₂, allowing B₁₂ to bind to intrinsic factor and be absorbed.\n\n(Choice B) The thalassemias are disorders presenting with reduced or absent globin chain production. Almost all thalassemia cases result in hypochromia and microcytosis (low MCV).\n\n(Choice C) Oxidative decarboxylation of pyruvate by pyruvate dehydrogenase requires thiamine pyrophosphate (TPP), a derivative of thiamine (vitamin B₁). Patients with alcohol use disorder may be prone to thiamine deficiency and could therefore suffer from impaired pyruvate decarboxylation, but this does not cause macrocytic anemia.\n\n(Choice D) Vitamin B₆ (pyridoxine) catalyzes the transaminase reactions by acting as a carrier of the amine group. B₆ deficiency can cause an anemia that is hypochromic, microcytic (low MCV), and sideroblastic.\n\n(Choice E) Iron deficiency anemia is typically hypochromic and microcytic (low MCV <80 µm²).",
+    "zh": "该患者反复发作的腹痛和胰腺钙化提示慢性胰腺炎，其最常见的原因是乙醇滥用。他的肝肿大很可能是由于酒精相关的肝脂肪变性。该患者还患有大细胞性贫血（血红蛋白低，平均红细胞体积 [MCV] 升高 >100 µm³），这种情况通常发生在慢性饮酒的患者中，原因是叶酸缺乏（数月内）或维生素B₁₂缺乏（数年内）。\n\n这两种缺乏症都会导致巨幼细胞病，其潜在的生化特征是DNA合成缺陷。叶酸是合成DNA中掺入的嘌呤和嘧啶（例如胸苷）碱基所必需的单碳供体。RNA和蛋白质合成可能相对未改变地持续进行，导致细胞质生长失衡，细胞分裂受损。胰腺功能不全也与维生素B₁₂缺乏有关，因为胰酶通常会从B₁₂中裂解R因子，从而使B₁₂结合内因子并被吸收。\n\n（选项B）地中海贫血是表现为珠蛋白链产生减少或缺失的疾病。几乎所有地中海贫血病例均导致低色素性和小细胞性（低MCV）。\n\n（选项C）丙酮酸脱氢酶对丙酮酸的氧化脱羧需要焦磷酸硫胺素（TPP），它是硫胺素（维生素B₁）的衍生物。患有酒精使用障碍的患者可能容易发生硫胺素缺乏症，因此可能遭受丙酮酸脱羧受损，但这不会引起大细胞性贫血。\n\n（选项D）维生素B₆（吡哆醇）通过充当胺基的载体来催化转氨酶反应。B₆缺乏可引起贫血，该贫血为低色素性、小细胞性（低MCV）和成铁细胞性。\n\n（选项E）缺铁性贫血通常为低色素性和小细胞性（低MCV <80 µm²）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the causes of macrocytic anemia, specifically in the context of chronic alcohol use and pancreatic insufficiency. It requires understanding the role of folic acid and vitamin B12 in DNA synthesis and how deficiencies lead to megaloblastic anemia.\n\nTo solve this question, identify the key findings: macrocytic anemia, chronic pancreatitis (suggesting alcohol abuse), and hepatomegaly. Consider the common causes of macrocytic anemia in this clinical context, focusing on vitamin deficiencies due to alcohol use and pancreatic insufficiency.",
+    "zh": "此问题测试对大细胞性贫血病因的了解，特别是在慢性饮酒和胰腺功能不全的背景下。它需要了解叶酸和维生素B12在DNA合成中的作用以及缺乏症如何导致巨幼细胞性贫血。\n\n要解决这个问题，请确定关键发现：大细胞性贫血、慢性胰腺炎（提示酒精滥用）和肝肿大。考虑在这种临床背景下大细胞性贫血的常见病因，重点关注由于饮酒和胰腺功能不全引起的维生素缺乏。"
+  },
+  "tags": "Macrocytic anemia; Chronic pancreatitis; Alcohol abuse; Folic acid deficiency; Vitamin B12 deficiency; Megaloblastic anemia; DNA synthesis; Hematology; Gastroenterology",
+  "category": "Blood",
+  "question_id": "1580",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1580",
+  "extracted_at": "2025-11-05T11:26:01.632115",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:28:22.132123",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

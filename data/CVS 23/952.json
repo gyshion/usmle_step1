@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "Atherosclerotic lesions of the coronary arteries can limit blood flow to the myocardial regions supplied by the affected vessels. In some patients, certain medications can cause a redistribution of blood flow away from the ischemic areas, exacerbating existing myocardial ischemia.",
+    "zh": "冠状动脉粥样硬化病变可限制血液流向受影响血管供应的心肌区域。在某些患者中，某些药物可导致血流重新分布，远离缺血区域，加剧现有的心肌缺血。"
+  },
+  "question": {
+    "en": "Which of the following drug effects is most likely to produce this phenomenon?",
+    "zh": "以下哪种药物作用最有可能产生这种现象？"
+  },
+  "options": {
+    "A": {
+      "en": "Coronary arteriolar dilation",
+      "zh": "冠状动脉小动脉扩张"
+    },
+    "B": {
+      "en": "Decreased myocardial contractility",
+      "zh": "心肌收缩力降低"
+    },
+    "C": {
+      "en": "Epicardial vessel dilation",
+      "zh": "心外膜血管扩张"
+    },
+    "D": {
+      "en": "Negative chronotropic effect",
+      "zh": "负性变时效应"
+    },
+    "E": {
+      "en": "Systemic venous dilation",
+      "zh": "全身静脉扩张"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Hemodynamically significant atherosclerotic lesions (>70% occlusion) reduce the amount of blood supplied by a coronary vessel to the corresponding myocardial territory. In response, the myocardium releases locally acting, endogenous substances (eg, adenosine, nitric oxide) that cause dilation of coronary arterioles, leading to a downstream reduction in vascular resistance and recruitment of additional blood flow to that region. Arterioles that supply areas of significantly ischemic myocardium can become maximally dilated at rest, limiting their capacity to further increase blood flow.\n\nPharmacologic stress agents (eg, adenosine, dipyridamole) are used during myocardial perfusion imaging to simulate exercise-induced coronary arteriole dilation and assist in identifying areas of ischemic myocardium. Most of the time, administration of these drugs will result in a significant increase in blood flow to nonischemic myocardium and no change in blood flow to ischemic myocardium (because additional blood flow is recruited proximally).\n\nIn some patients with extensive coronary artery disease, the recruitment of additional upstream blood flow is limited due to proximal atherosclerotic disease (reduced coronary flow reserve). In such a setting, these drugs can cause an absolute decrease in blood flow to ischemic myocardium, as most of the limited blood supply is redirected toward the newly vasodilated areas of nonischemic myocardium. This redistribution of blood flow leading to worsening ischemia is referred to as coronary steal {{exhibit_1}}.\n\n(Choices B, D, and E) Decreased myocardial contractility, negative chronotropy, and systemic venous dilation (leading to reduced preload) all decrease myocardial oxygen demand through a reduction in cardiac work. These mechanisms act to improve myocardial ischemia globally and will not result in a redistribution of blood flow away from areas of ischemic myocardium.\n\n(Choice C) The epicardial vessels are the large coronary arteries of the heart (eg, right coronary, left circumflex). Although dilation of these large arteries plays a role in increasing myocardial blood flow, coronary blood flow regulation is mostly mediated by the arterioles. Dilation of large coronary arteries would improve cardiac blood flow and would not trigger coronary steal.\n\nEducational objective:\nIncreases in resting blood flow to ischemic myocardium are primarily mediated by locally-acting substances (eg, adenosine, nitric oxide) that trigger coronary arteriolar vasodilation. Pharmacologic arteriolar vasodilators (eg, adenosine, dipyridamole) mimic the vasodilation that occurs with exercise and may cause redistribution of blood flow from ischemic to nonischemic areas of myocardium (ie, coronary steal) {{exhibit_2}}.",
+    "zh": "血流动力学上显著的动脉粥样硬化病变（>70% 闭塞）会减少冠状动脉向相应心肌区域的供血量。作为响应，心肌释放局部作用的内源性物质（例如，腺苷、一氧化氮），导致冠状动脉小动脉扩张，从而导致血管阻力下降并向该区域募集额外的血流。为严重缺血心肌区域供血的小动脉在静息状态下可能达到最大程度扩张，限制了其进一步增加血流的能力。\n\n在心肌灌注显像期间使用药理学应激剂（例如，腺苷、双嘧达莫）来模拟运动诱导的冠状动脉小动脉扩张，并帮助识别缺血心肌区域。 大多数情况下，使用这些药物将导致流向非缺血心肌的血流显着增加，而流向缺血心肌的血流没有变化（因为近端会募集额外的血流）。\n\n在一些患有广泛冠状动脉疾病的患者中，由于近端动脉粥样硬化性疾病（冠状动脉血流储备减少），导致额外上游血流的募集受到限制。 在这种情况下，这些药物会导致流向缺血心肌的血流绝对减少，因为大部分有限的血液供应被重定向到新扩张的非缺血心肌区域。 这种导致缺血恶化的血流重新分布被称为冠脉窃取 {{exhibit_1}}。\n\n（选项 B、D 和 E）心肌收缩力降低、负性变时性和全身静脉扩张（导致前负荷降低）均通过减少心脏做功来降低心肌耗氧量。 这些机制在全球范围内改善心肌缺血，不会导致血流从缺血心肌区域重新分布。\n\n（选项 C）心外膜血管是心脏的大冠状动脉（例如，右冠状动脉、左旋支）。 尽管这些大动脉的扩张在增加心肌血流方面起作用，但冠状动脉血流调节主要由小动脉介导。 大冠状动脉的扩张将改善心脏血流，不会引发冠脉窃取。\n\n教育目标：\n流向缺血心肌的静息血流增加主要由局部作用的物质（例如，腺苷、一氧化氮）介导，这些物质会触发冠状动脉小动脉血管舒张。 药理学小动脉血管舒张药（例如，腺苷、双嘧达莫）模拟运动时发生的血管舒张，并可能导致血流从缺血心肌区域重新分布到非缺血心肌区域（即，冠脉窃取）{{exhibit_2}}。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of coronary steal phenomenon, which involves redistribution of blood flow away from ischemic areas due to arteriolar vasodilation, often induced by medications like adenosine or dipyridamole. It also assesses understanding of coronary blood flow regulation and the effects of various drug classes on myocardial oxygen demand.\n\nTo solve this question, recognize that coronary steal is caused by arteriolar dilation in non-ischemic areas, diverting blood away from ischemic regions. Eliminate options that decrease myocardial oxygen demand or affect larger vessels, as these would not cause the specific redistribution described.",
+    "zh": "此题考察对冠脉窃取现象的了解，该现象涉及由于小动脉血管舒张导致血流从缺血区域重新分布，通常由腺苷或双嘧达莫等药物诱导。它还评估对冠状动脉血流调节以及不同药物类别对心肌耗氧量的影响的理解。\n\n要解决这个问题，要认识到冠脉窃取是由非缺血区域的小动脉扩张引起的，从而将血液从缺血区域转移。 排除会降低心肌耗氧量或影响较大血管的选项，因为这些不会导致所描述的特定血流重新分布。"
+  },
+  "tags": "Coronary steal; Myocardial ischemia; Coronary artery disease; Adenosine; Dipyridamole; Coronary blood flow; Arteriolar dilation; Cardiology; Pharmacology",
+  "category": "CVS",
+  "question_id": "952",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\952",
+  "extracted_at": "2025-11-05T12:20:29.734195",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:32:50.928995",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

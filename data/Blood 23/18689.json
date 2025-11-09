@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old-woman comes to the office for follow-up 2 weeks after hospitalization for acute pyelonephritis. The patient was treated with morphine for pain and a course of broad-spectrum antibiotics, which she has completed. Her symptoms have now resolved. The patient also has a history of mechanical mitral valve replacement and takes warfarin. Physical examination shows no new findings. Her INR was 2.5 at the time of hospital discharge but is 6.2 today despite no change to warfarin dosage.",
+    "zh": "一名45岁女性患者因急性肾盂肾炎住院2周后前来复诊。患者曾接受吗啡止痛治疗，并完成了广谱抗生素的疗程。目前她的症状已缓解。该患者还有机械性二尖瓣置换术史，并服用华法林。体格检查无新发现。她出院时的INR为2.5，但今天为6.2，尽管华法林的剂量没有改变。"
+  },
+  "question": {
+    "en": "Which of the following best explains the laboratory findings in this patient?",
+    "zh": "以下哪项最能解释该患者的实验室检查结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased production of thromboxane A2",
+      "zh": "血栓烷A2的产生减少"
+    },
+    "B": {
+      "en": "Disruption of intestinal bacterial flora",
+      "zh": "肠道菌群紊乱"
+    },
+    "C": {
+      "en": "Formation of anticlotting factor antibodies",
+      "zh": "抗凝血因子抗体的形成"
+    },
+    "D": {
+      "en": "Increased cytochrome P-450 activity",
+      "zh": "细胞色素P-450活性增加"
+    },
+    "E": {
+      "en": "Increased dietary vitamin K absorption",
+      "zh": "膳食维生素K吸收增加"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Warfarin is a vitamin K antagonist that inhibits epoxide reductase in the liver, thereby preventing gamma carboxylation of vitamin K–dependent clotting factors (II, VII, IX, X). This creates an anticoagulant state that is reflected on laboratory assessment as a prolonged INR. Because the effect of warfarin is significantly altered by certain foods and medications, patients on long-term warfarin are at risk for subtherapeutic or supratherapeutic INR due to any of the following:\n\n*   Change in dietary vitamin K intake: Increase in dietary vitamin K increases the availability of vitamin K in the liver, which counters the inhibitory effect of warfarin on epoxide reductase. Therefore, patients on warfarin are advised to eat a consistent amount of vitamin K–containing foods (eg, leafy greens, brussels sprouts).\n\n*   Disruption to intestinal flora: Intestinal flora produce vitamin K as a byproduct of metabolism. Therefore, antibiotics that target gram-negative bacteria such as metronidazole, macrolides, and fluroquinolones can cause supratherapeutic INR due to destruction of vitamin K–producing bacteria in the gut. In this patient, the administration of an antibiotic (eg, ciprofloxacin) for pyelonephritis likely destroyed gram-negative bacteria in her gut, thereby reducing vitamin K production and causing a supratherapeutic INR.\n\n*   Alteration to cytochrome P450 2C9 activity: Several medications induce or inhibit cytochrome P450 2C9, which alters the speed of warfarin metabolism. For instance, phenytoin, carbamazepine, and rifampin increase cytochrome P450 2C9 activity, which can result in a subtherapeutic INR (Choice D). In contrast, metronidazole, fluconazole, and amiodarone inhibit cytochrome P450 2C9 activity, which can result in a supratherapeutic INR.\n\n(Choice A) Aspirin exerts an anticoagulation effect by inhibiting the release of thromboxane A2 by platelets, which subsequently reduces platelet aggregation. This can lead to prolonged bleeding time but does not increase INR.\n\n(Choice C) Anticlotting factor antibodies can occasionally occur due to recent pregnancy, malignancy, or rheumatologic disease. Most cases involve inhibition of factor VIII, which leads to a bleeding diathesis and prolonged aPTT (not INR, which reflects PT). This patient with a recent infection treated with antibiotics is more likely to have supratherapeutic INR due to disruption of vitamin K production by intestinal flora.\n\n(Choice E) Increased dietary vitamin K leads to a subtherapeutic INR due to increased vitamin K availability in the liver.\n\nEducational objective:\n\nPatients on warfarin who take antibiotics that target gram-negative microorganisms (eg, metronidazole, macrolides, fluroquinolones) can develop supratherapeutic INR due to disruption of vitamin K–producing intestinal flora.",
+    "zh": "华法林是一种维生素K拮抗剂，它在肝脏中抑制环氧化物还原酶，从而阻止维生素K依赖性凝血因子（II、VII、IX、X）的γ-羧化。这会产生一种抗凝状态，在实验室评估中表现为INR延长。由于华法林的作用会受到某些食物和药物的显着改变，长期服用华法林的患者由于以下任何原因都有发生INR低于治疗范围或高于治疗范围的风险：\n\n*   膳食维生素K摄入量变化：膳食维生素K摄入量增加会增加肝脏中维生素K的利用率，从而抵消华法林对环氧化物还原酶的抑制作用。因此，建议服用华法林的患者食用一定量的富含维生素K的食物（如绿叶蔬菜、球芽甘蓝）。\n\n*   肠道菌群紊乱：肠道菌群通过代谢产生维生素K。因此，靶向革兰氏阴性菌的抗生素，如甲硝唑、大环内酯类和氟喹诺酮类，由于破坏肠道中产生维生素K的细菌，可导致INR高于治疗范围。在该患者中，因肾盂肾炎而使用抗生素（如环丙沙星）可能破坏了她肠道中的革兰氏阴性菌，从而减少了维生素K的产生，导致INR高于治疗范围。\n\n*   细胞色素P450 2C9活性改变：一些药物会诱导或抑制细胞色素P450 2C9，从而改变华法林的代谢速度。例如，苯妥英、卡马西平和利福平会增加细胞色素P450 2C9的活性，这可能导致INR低于治疗范围（选项D）。相反，甲硝唑、氟康唑和胺碘酮抑制细胞色素P450 2C9的活性，这可能导致INR高于治疗范围。\n\n（选项A）阿司匹林通过抑制血小板释放血栓烷A2发挥抗凝作用，从而减少血小板聚集。这会导致凝血时间延长，但不会增加INR。\n\n（选项C）抗凝血因子抗体偶尔会由于近期妊娠、恶性肿瘤或风湿性疾病而发生。大多数病例涉及对VIII因子的抑制，这会导致出血素质和aPTT延长（不是INR，INR反映的是PT）。该患者近期感染并接受抗生素治疗，由于肠道菌群破坏维生素K的产生，更有可能出现INR高于治疗范围。\n\n（选项E）膳食维生素K摄入增加会导致INR低于治疗范围，因为肝脏中维生素K的利用率增加。\n\n教育目标：\n\n服用华法林并服用靶向革兰氏阴性微生物的抗生素（如甲硝唑、大环内酯类、氟喹诺酮类）的患者，由于破坏产生维生素K的肠道菌群，可能出现INR高于治疗范围。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of warfarin's mechanism of action and factors affecting INR, specifically the impact of antibiotics on intestinal flora and vitamin K production. It also assesses understanding of drug interactions and other causes of INR fluctuations.\n\nTo solve this question, consider the patient's recent antibiotic use and its effect on vitamin K-producing bacteria in the gut. Rule out other options based on their effects on INR or coagulation pathways.",
+    "zh": "本题考察了对华法林作用机制和影响INR的因素的了解，特别是抗生素对肠道菌群和维生素K产生的影响。它还评估了对药物相互作用和其他导致INR波动的因素的理解。\n\n要解决这个问题，请考虑患者近期使用抗生素的情况及其对肠道中产生维生素K的细菌的影响。根据其他选项对INR或凝血途径的影响来排除。"
+  },
+  "tags": "Warfarin; INR; Vitamin K; Antibiotics; Intestinal flora; Drug interactions; Coagulation; Pyelonephritis; Pharmacology",
+  "category": "Blood",
+  "question_id": "18689",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\18689",
+  "extracted_at": "2025-11-05T13:30:12.962240",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:29:52.287825",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

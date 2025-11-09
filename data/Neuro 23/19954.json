@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 28-year-old man experiences worsening tinnitus and hearing loss. MRI of the brain reveals bilateral vestibular schwannomas. Genetic testing confirms a diagnosis of neurofibromatosis type 2. Additional imaging reveals a small meningioma at the C5 spinal level impinging upon the medial portion of the dorsal columns. Which of the following is the most likely earliest clinical manifestation of this lesion?",
+    "zh": "一名28岁男性出现进行性耳鸣和听力下降。脑部MRI显示双侧前庭神经鞘瘤。基因检测证实诊断为2型神经纤维瘤病。其他影像学检查显示，C5脊髓水平有一个小的脑膜瘤，压迫了后柱的内侧部分。以下哪项最可能是该病变的最初临床表现？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely earliest clinical manifestation of this lesion?",
+    "zh": "以下哪项最可能是该病变的最初临床表现？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased biceps tendon reflexes",
+      "zh": "肱二头肌腱反射减弱"
+    },
+    "B": {
+      "en": "Loss of crude touch sensation in the legs",
+      "zh": "腿部粗触觉丧失"
+    },
+    "C": {
+      "en": "Loss of pain sensation in the hands",
+      "zh": "手部痛觉丧失"
+    },
+    "D": {
+      "en": "Loss of position sensation in the fingers",
+      "zh": "手指位置觉丧失"
+    },
+    "E": {
+      "en": "Loss of vibration sensation in the toes",
+      "zh": "脚趾振动觉丧失"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's lesion is affecting the dorsal columns, which convey vibration and proprioception sensation as well as fine touch (ie, 2-point discrimination). They are formed by incoming afferent axons of first-order neurons and are arranged topographically (ie. medial fibers from lower spinal levels, lateral fibers from higher spinal levels):\n\nGracile fasciculus, located medially, which carries afferent information that enters the spinal cord below T6 (lower half of the body) to the gracile nucleus in the medulla\nCuneate fasciculus, located laterally, which carries afferent information that enters the spinal cord above T6 (upper half of the body) to the cuneate nucleus in the medulla\nTherefore, this patient's midline lesion {{exhibit_1}} would affect the most medial fibers (gracile fasciculus) first, resulting in loss of vibration sensation in the toes.\n\n(Choice A) A decreased biceps tendon reflex is more commonly associated with radiculopathy (C5 or C6) or other conditions affecting the lower motor neurons. This patient's posterior midline mass is most likely to affect the dorsal columns first before affecting the C5 motor neurons in the anterior horn.\n\n(Choices B and C) Loss of crude touch sensation can occur with lesions involving the anterior spinothalamic tract; loss of pain sensation can occur with lesions of the lateral spinothalamic tract. These are located in the anterior portion of the spinal cord.\n\n(Choice D) Loss of position sensation in the fingers could occur with a lesion affecting the lateral portion of the dorsal columns (ie, cuneate fasciculus). However, this patient's lesion is located medially and would compress the medial aspect first (eg, toe sensation).\n\nEducational objective:\nThe dorsal columns are located in the posterior spinal cord and convey vibration, proprioception, and light touch sensation. Sensation from the lower limbs is carried in the gracile fasciculus, which is located in the medial aspect; sensation from the upper limbs is carried in the cuneate fasciculus, which is located in the lateral aspect.",
+    "zh": "该患者的病变影响后柱，后柱传导振动觉和本体感觉以及精细触觉（即，两点辨别觉）。它们由传入的一级神经元的传入轴突构成，并按地形排列（即，来自较低脊髓水平的内侧纤维，来自较高脊髓水平的侧方纤维）：\n\n薄束，位于内侧，携带进入T6以下（身体下半部分）脊髓的传入信息到延髓的薄核\n楔束，位于侧方，携带进入T6以上（身体上半部分）脊髓的传入信息到延髓的楔束核\n因此，该患者的后柱病变{{exhibit_1}}将首先影响最内侧的纤维（薄束），导致脚趾振动觉丧失。\n\n（选项 A）肱二头肌腱反射减弱更常见于神经根病（C5或C6）或其他影响下运动神经元的疾病。该患者的后正中线肿块最有可能首先影响后柱，然后影响前角的C5运动神经元。\n\n（选项 B 和 C）粗触觉丧失可能发生在涉及前脊髓丘脑束的病变中；痛觉丧失可能发生在涉及侧脊髓丘脑束的病变中。这些位于脊髓前部。\n\n（选项 D）手指位置觉丧失可能发生在影响后柱侧方的病变中（即，楔束）。然而，该患者的病变位于内侧，将首先压迫内侧部分（例如，脚趾感觉）。\n\n教育目标：\n后柱位于脊髓后部，传导振动觉、本体感觉和轻触觉。来自下肢的感觉由位于内侧的薄束传导；来自上肢的感觉由位于侧方的楔束传导。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of spinal cord anatomy, specifically the dorsal columns and their somatotopic organization, and how lesions in this area manifest clinically. It also tests understanding of neurofibromatosis type 2 and its association with meningiomas.\n\nTo solve this question, recall that the dorsal columns carry vibration and proprioception. Remember the gracile fasciculus carries information from the lower extremities and is located medially, while the cuneate fasciculus carries information from the upper extremities and is located laterally. A midline lesion will affect the gracile fasciculus first, leading to loss of vibration sensation in the toes.",
+    "zh": "本题考察脊髓解剖学的知识，特别是后柱及其体位组织，以及该区域的病变如何临床表现。它还考察对2型神经纤维瘤病及其与脑膜瘤关系的理解。\n\n要解决这个问题，请记住后柱传导振动觉和本体感觉。记住薄束携带来自下肢的信息，位于内侧，而楔束携带来自上肢的信息，位于侧方。正中线病变将首先影响薄束，导致脚趾振动觉丧失。"
+  },
+  "tags": "Spinal cord; Dorsal columns; Gracile fasciculus; Cuneate fasciculus; Vibration sensation; Proprioception; Neurofibromatosis type 2; Meningioma; Neurology",
+  "category": "Neuro",
+  "question_id": "19954",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\19954",
+  "extracted_at": "2025-11-05T15:30:35.485586",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:23:58.446999",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

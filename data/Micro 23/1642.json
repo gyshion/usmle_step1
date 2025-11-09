@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old man is hospitalized for fever, headache, and confusion. He does not use tobacco or recreational drugs and is monogamous with his wife. The patient's cerebrospinal fluid analysis reveals lymphocytic pleocytosis, and a PCR is positive for herpesvirus. The patient is treated with intravenous high-dose acyclovir. Fever and mental status gradually improve, but on the third day of hospitalization the patient's serum creatinine level increases to 3.4 mg/dL from a baseline of 0.9 mg/dL at admission. The observed finding could likely have been prevented by which of the following?",
+    "zh": "一名23岁男性因发热、头痛和意识模糊而住院。他没有使用烟草或娱乐性药物，并且与妻子保持单偶关系。患者的脑脊液分析显示淋巴细胞增多，并且PCR检测为单纯疱疹病毒阳性。患者接受静脉注射大剂量阿昔洛韦治疗。发热和精神状态逐渐改善，但在住院的第三天，患者的血清肌酐水平从入院时的0.9 mg/dL增加到3.4 mg/dL。下列哪项最有可能预防观察到的结果？"
+  },
+  "question": {
+    "en": "Which of the following?",
+    "zh": "下列哪项？"
+  },
+  "options": {
+    "A": {
+      "en": "Adequate intravenous hydration",
+      "zh": "充足的静脉补液"
+    },
+    "B": {
+      "en": "Careful taking of allergy history",
+      "zh": "仔细询问过敏史"
+    },
+    "C": {
+      "en": "Monitoring of blood drug levels",
+      "zh": "监测血药浓度"
+    },
+    "D": {
+      "en": "Pretreatment with allopurinol",
+      "zh": "使用别嘌呤醇预处理"
+    },
+    "E": {
+      "en": "Pretreatment with prednisone",
+      "zh": "使用泼尼松预处理"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The acute elevation of this patient's serum creatinine on the third day of hospitalization is likely due to acyclovir nephrotoxicity, which occurs in a minority of patients who receive the drug intravenously. Acyclovir is excreted principally in the urine via glomerular filtration and tubular secretion. When the acyclovir concentration in the collecting duct exceeds its solubility, crystallization, crystalluria, and renal tubular damage can occur. In most cases, this toxic complication is transient and can be prevented (as well as treated) with adequate hydration and a reduction in the rate of drug infusion.\n\n(Choice B) Acute interstitial nephritis (AIN) is an allergic inflammation of the kidney that is most commonly triggered by medications and is often associated with fever, rash, and eosinophilia. However, acyclovir is not a common cause of AIN; common causes include nonsteroidal anti-inflammatory drugs, penicillins, cephalosporins, diuretics, and allopurinol.\n\n(Choice C) Acyclovir blood level monitoring is not typically performed in the clinical setting. It is also not always effective in preventing nephrotoxicity; in states of low intravascular volume (eg, dehydration), nephrotoxicity can develop secondary to increased tubular concentration even when blood levels are not within the toxic range.\n\n(Choice D) Allopurinol blocks xanthine oxidase, which reduces the formation of uric acid. Pretreatment with allopurinol is often used in patients with lymphoma and leukemia to prevent urate crystal nephropathy due to tumor lysis syndrome. Acyclovir nephrotoxicity is mediated by the formation of acyclovir crystals, not urate crystals, so allopurinol pretreatment would be ineffective.\n\n(Choice E) Pretreatment with prednisone can help prevent radiocontrast-induced allergic reactions. Prednisone does not prevent the formation of acyclovir crystals.\n\nEducational objective:\nIntravenous acyclovir can cause crystalline nephropathy when adequate intravenous hydration is not provided.",
+    "zh": "患者住院第三天血清肌酐的急性升高，很可能是由于阿昔洛韦肾毒性所致，这种情况发生在少数静脉接受该药的患者中。阿昔洛韦主要通过肾小球滤过和肾小管分泌从尿液中排出。当阿昔洛韦在集合管中的浓度超过其溶解度时，可能发生结晶、尿结晶和肾小管损伤。在大多数情况下，这种毒性并发症是短暂的，并且可以通过充分补液和降低药物输注速度来预防（以及治疗）。\n\n(选项 B) 急性间质性肾炎 (AIN) 是一种肾脏的过敏性炎症，最常由药物引起，通常与发热、皮疹和嗜酸性粒细胞增多有关。然而，阿昔洛韦并非AIN的常见病因；常见病因包括非甾体类抗炎药、青霉素、头孢菌素、利尿剂和别嘌呤醇。\n\n(选项 C) 阿昔洛韦血药浓度监测通常不在临床环境中进行。它也并非总能有效预防肾毒性；在血容量不足的情况下（例如，脱水），即使血药浓度未达到毒性范围，也可能由于肾小管浓度增加而发生肾毒性。\n\n(选项 D) 别嘌呤醇阻断黄嘌呤氧化酶，从而减少尿酸的形成。别嘌呤醇预处理常用于淋巴瘤和白血病患者，以预防肿瘤溶解综合征引起的尿酸盐晶体肾病。阿昔洛韦肾毒性是由阿昔洛韦晶体形成介导的，而不是尿酸盐晶体，因此别嘌呤醇预处理无效。\n\n(选项 E) 泼尼松预处理有助于预防造影剂引起的过敏反应。泼尼松不能阻止阿昔洛韦晶体的形成。\n\n教育目标：\n当未提供充足的静脉补液时，静脉注射阿昔洛韦可引起晶体性肾病。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of acyclovir-induced nephrotoxicity and its prevention. Acyclovir can cause crystal formation in the renal tubules, leading to acute kidney injury.\n\nThe best approach is to recognize the risk factors for acyclovir nephrotoxicity and identify preventive measures. Adequate hydration helps to reduce the concentration of acyclovir in the renal tubules, minimizing crystal formation.",
+    "zh": "这个问题考察了对阿昔洛韦诱导的肾毒性及其预防的了解。阿昔洛韦可在肾小管中引起晶体形成，导致急性肾损伤。\n\n最好的方法是认识到阿昔洛韦肾毒性的风险因素并确定预防措施。充分的补液有助于降低肾小管中阿昔洛韦的浓度，从而最大限度地减少晶体形成。"
+  },
+  "tags": "Acyclovir; Nephrotoxicity; Acute kidney injury; Crystalluria; Intravenous hydration; Antiviral medications; Infectious diseases; Renal physiology",
+  "category": "Micro",
+  "question_id": "1642",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1642",
+  "extracted_at": "2025-11-05T15:01:26.685716",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:09:51.119797",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

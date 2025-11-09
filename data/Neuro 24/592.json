@@ -1,0 +1,69 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old woman is brought to the clinic by her husband due to worsening memory problems. She has a medical history significant for long-standing hypertension, type 2 diabetes mellitus, and depression. Physical examination shows cognitive impairment but no focal neurologic deficits. Two years later, the patient dies suddenly from a massive myocardial infarction. Congo red staining of brain samples obtained from the hippocampus and cerebral arterioles reveals patchy red deposits that turn yellow-green under polarized light. {{exhibit_1}} This patient most likely suffered from which of the following conditions?",
+    "zh": "一名65岁女性由其丈夫带到诊所，因为她的记忆力问题恶化。她的病史包括长期高血压、2型糖尿病和抑郁症。体格检查显示认知障碍，但无局灶性神经功能缺损。两年后，患者因大规模心肌梗死突然死亡。从海马体和脑动脉获得的脑组织样本的刚果红染色显示斑片状红色沉积物，在偏振光下变为黄绿色。{{exhibit_1}} 这位患者最有可能患有以下哪种疾病？"
+  },
+  "question": {
+    "en": "This patient most likely suffered from which of the following conditions?",
+    "zh": "这位患者最有可能患有以下哪种疾病？"
+  },
+  "options": {
+    "A": {
+      "en": "Alzheimer disease",
+      "zh": "阿尔茨海默病"
+    },
+    "B": {
+      "en": "Huntington disease",
+      "zh": "亨廷顿病"
+    },
+    "C": {
+      "en": "Parkinson disease",
+      "zh": "帕金森病"
+    },
+    "D": {
+      "en": "Pick disease",
+      "zh": "匹克病"
+    },
+    "E": {
+      "en": "Pseudodementia",
+      "zh": "假性痴呆"
+    },
+    "F": {
+      "en": "Vascular dementia",
+      "zh": "血管性痴呆"
+    },
+    "G": {
+      "en": "Vitamin B₁₂ deficiency",
+      "zh": "维生素B₁₂缺乏症"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Amyloid is an abnormally folded (insoluble) fibrillar protein that deposits in the extracellular space of tissues. When stained with Congo red and viewed under polarized light, these deposits have a characteristic apple-green birefringence due to their β-sheet structure. Amyloid deposition can affect multiple organ systems, as occurs with plasma cell tumors (eg, amyloid light chain protein [AL]) and chronic inflammatory diseases (eg, amyloid-associated protein [AA]).\n\nHowever, in ALZHEIMER DISEASE, amyloid deposits are seen exclusively in brain tissue. These deposits contain BETA-AMYLOID (Aβ), which is formed by cleavage of amyloid precursor protein (a transmembrane glycoprotein). Early in the disease, neuritic (senile) plaques can be found in the medial temporal lobe (eg, hippocampus, amygdala, entorhinal cortex) and are composed of a central Aβ core surrounded by dystrophic neurites. Aβ deposition also occurs in the media/adventitia of cerebral vessels (AMYLOID ANGIOPATHY) and may cause vessel weakening with intracerebral hemorrhage.\n\n(Choice B) Huntington disease typically presents with dementia, choreiform movements, dystonia, and psychiatric symptoms. Patients characteristically have atrophy of the caudate and microscopy reveals intranuclear inclusions containing aggregates of huntingtin protein.\n\n(Choice C) Parkinson disease usually presents with bradykinesia, rigidity, and tremor. Brain biopsy characteristically shows intracellular eosinophilic inclusions composed of α-synuclein (Lewy bodies).\n\n(Choice D) Pick disease (frontotemporal dementia) typically presents with changes in personality/behavior and abnormal speech (eg, aphasia). Individuals usually have pronounced frontotemporal brain atrophy, and silver staining shows round cytoplasmic inclusions containing aggregates of tau protein (Pick bodies).\n\n(Choice E) Elderly individuals may develop cognitive impairment in association with depression (\"pseudodementia\"); however, neuritic plaques and amyloid angiopathy would not be seen.\n\n(Choice F) VASCULAR DEMENTIA typically presents with sudden/stepwise cognitive decline in patients with cardiovascular risk factors and ischemic stroke. The absence of glial scar formation on autopsy makes vascular dementia less likely in this patient.\n\n(Choice G) VITAMIN B₁₂ DEFICIENCY is common in the elderly and may cause dementia, peripheral neuropathy, and/or subacute combined degeneration; however, neuritic plaques and amyloid angiopathy would not be seen.\n\nEducational objective: Amyloid is an abnormally folded (insoluble) extracellular protein that has apple-green birefringence with Congo red and viewed under polarized light. Alzheimer disease is associated with beta-amyloid deposits in the brain parenchyma (neuritic plaques) and walls of cerebral vessels (amyloid angiopathy). {{exhibit_2}}",
+    "zh": "淀粉样蛋白是一种异常折叠（不溶性）纤维蛋白，沉积在组织的细胞外空间。当用刚果红染色并在偏振光下观察时，这些沉积物由于其β-折叠结构而具有特征性的苹果绿双折射。淀粉样蛋白沉积可影响多个器官系统，如浆细胞瘤（例如，淀粉样轻链蛋白 [AL]）和慢性炎症性疾病（例如，淀粉样蛋白相关蛋白 [AA]）。\n\n然而，在阿尔茨海默病中，淀粉样蛋白沉积仅见于脑组织。这些沉积物包含β-淀粉样蛋白 (Aβ)，它是由淀粉样蛋白前体蛋白（一种跨膜糖蛋白）的切割形成的。在疾病早期，可在内侧颞叶（例如，海马体、杏仁核、内嗅皮质）中发现神经炎性（老年斑），由一个被营养不良性神经突包围的中心Aβ核心组成。Aβ沉积也发生在脑血管的内膜/外膜（淀粉样血管病变）中，并可能导致血管变弱，发生脑出血。\n\n（选项 B）亨廷顿病通常表现为痴呆、舞蹈病样动作、肌张力障碍和精神症状。患者的特征是尾状核萎缩，显微镜检查显示细胞核内包涵体，包含亨廷顿蛋白的聚集物。\n\n（选项 C）帕金森病通常表现为运动迟缓、僵硬和震颤。脑活检的特征是显示由α-突触核蛋白（路易体）组成的细胞内嗜酸性包涵体。\n\n（选项 D）匹克病（额颞叶痴呆）通常表现为性格/行为改变和言语异常（例如，失语症）。个体通常有明显的额颞叶脑萎缩，银染色显示包含tau蛋白聚集体的圆形细胞质内包涵体（匹克小体）。\n\n（选项 E）老年人可能在抑郁症（“假性痴呆”）的背景下出现认知障碍；然而，不会看到神经炎性斑块和淀粉样血管病变。\n\n（选项 F）血管性痴呆通常表现为患有心血管危险因素和缺血性中风的患者突然/阶梯式认知能力下降。尸检中缺乏神经胶质瘢痕形成使得血管性痴呆在此患者中不太可能。\n\n（选项 G）维生素B₁₂缺乏症在老年人中很常见，可能导致痴呆、周围神经病变和/或亚急性联合变性；然而，不会看到神经炎性斑块和淀粉样血管病变。\n\n教育目标：淀粉样蛋白是一种异常折叠（不溶性）细胞外蛋白，用刚果红染色并在偏振光下观察时呈苹果绿双折射。阿尔茨海默病与大脑实质（神经炎性斑块）和脑血管壁（淀粉样血管病变）中的β-淀粉样蛋白沉积有关。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the histopathological findings associated with Alzheimer disease, specifically the deposition of amyloid in the brain. It requires correlating Congo red staining characteristics with the underlying pathology of dementia.\n\nTo solve this question, one must recognize the characteristic Congo red staining pattern (patchy red deposits turning yellow-green under polarized light) as indicative of amyloid deposition. Then, by considering the patient's presentation of cognitive decline and the specific location of amyloid deposition (hippocampus and cerebral arterioles), one can differentiate Alzheimer disease from other causes of dementia.",
+    "zh": "这个问题考察对与阿尔茨海默病相关的组织病理学发现的理解，特别是大脑中淀粉样蛋白的沉积。它需要将刚果红染色特征与痴呆的潜在病理学联系起来。\n\n要解决这个问题，必须认识到特征性的刚果红染色模式（斑片状红色沉积物在偏振光下变为黄绿色）表明淀粉样蛋白沉积。然后，通过考虑患者的认知能力下降表现和淀粉样蛋白沉积的特定位置（海马体和脑动脉），可以将阿尔茨海默病与其他痴呆原因区分开来。"
+  },
+  "tags": "Alzheimer disease; Amyloidosis; Dementia; Neurodegeneration; Histopathology; Congo red stain; Hippocampus; Cerebral arterioles; Neurology; Geriatrics",
+  "category": "Neuro",
+  "question_id": "592",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\592",
+  "extracted_at": "2025-11-05T19:40:34.059042",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:41:36.962570",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

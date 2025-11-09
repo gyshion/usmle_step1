@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 28-year-old man comes to the emergency department due to anxiety, weakness, dyspnea, and headaches. He is a graduate student in chemistry and was accidentally exposed to nitrites in his research laboratory. Physical examination is notable for cyanosis that is not improved by administration of supplemental oxygen via facemask. Analysis of a sample of arterial blood drawn from this patient prior to any oxygen supplementation is most likely to reveal normal values for which of the following?",
+    "zh": "一名28岁的男性因焦虑、乏力、呼吸困难和头痛来到急诊科。他是一名化学研究生，在研究实验室中意外接触了亚硝酸盐。体格检查显示发绀，补充面罩氧气后未见改善。在该患者接受任何氧气补充之前，从该患者身上抽取动脉血样本进行分析最有可能揭示以下哪项的正常值？"
+  },
+  "question": {
+    "en": "Analysis of a sample of arterial blood drawn from this patient prior to any oxygen supplementation is most likely to reveal normal values for which of the following?",
+    "zh": "在该患者接受任何氧气补充之前，从该患者身上抽取动脉血样本进行分析最有可能揭示以下哪项的正常值？"
+  },
+  "options": {
+    "A": {
+      "en": "Bound fraction of oxygen in the arterial blood",
+      "zh": "动脉血中结合氧的分数"
+    },
+    "B": {
+      "en": "Oxygen carrying capacity of the arterial blood",
+      "zh": "动脉血的氧容量"
+    },
+    "C": {
+      "en": "Oxygen content of the arterial blood",
+      "zh": "动脉血的氧含量"
+    },
+    "D": {
+      "en": "Oxygen delivery to peripheral tissues",
+      "zh": "输送到外周组织的氧气"
+    },
+    "E": {
+      "en": "Partial pressure of oxygen in the arterial blood",
+      "zh": "动脉血中氧分压"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Nitrites cause poisoning by inducing the conversion of heme iron to the oxidized ferric (Fe3+) state, leading to the formation of methemoglobin. With iron in the oxidized ferric state, methemoglobin is unable to bind oxygen. In addition, the affinity of any residual ferrous iron in the hemoglobin tetramer is increased, causing a leftward shift of the oxygen-dissociation curve. However, the partial pressure of oxygen in blood, which represents the amount of oxygen dissolved in the plasma, is unchanged. {{exhibit_1}}\n\nMethemoglobinemia causes dusky discoloration of the skin (similar to cyanosis), and because methemoglobin is unable to carry oxygen, a state of functional anemia is induced. However, the blood partial pressure of oxygen will be unchanged as it is a measure of oxygen dissolved in plasma and is unrelated to hemoglobin function.\n\n(Choices A, B, C, and D) Methemoglobin cannot bind to oxygen and therefore the oxygen content and oxygen carrying capacity of the arterial blood will decrease. The bound fraction of oxygen and oxygen delivery to the peripheral tissues will also decrease due to methemoglobin's inability to carry and deliver oxygen.",
+    "zh": "亚硝酸盐通过诱导血红素铁转化为氧化铁（Fe3+）状态，从而导致中毒，导致高铁血红蛋白的形成。当铁处于氧化铁状态时，高铁血红蛋白无法与氧结合。此外，血红蛋白四聚体中任何残留的亚铁的亲和力都会增加，导致氧离曲线左移。然而，血液中的氧分压（代表溶解在血浆中的氧气量）保持不变。{{exhibit_1}}\n\n高铁血红蛋白血症会导致皮肤呈暗灰色（类似于发绀），并且由于高铁血红蛋白无法携带氧气，因此会诱发功能性贫血。然而，血液中的氧分压将保持不变，因为它是溶解在血浆中的氧气的量度，与血红蛋白功能无关。\n\n（选项A、B、C和D）高铁血红蛋白不能与氧结合，因此动脉血的氧含量和氧容量将会下降。由于高铁血红蛋白无法携带和输送氧气，因此与氧结合的氧分数和输送到外周组织的氧气也会减少。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of methemoglobinemia, its causes (nitrite exposure), and its effect on oxygen-carrying capacity and partial pressure of oxygen in the blood. It requires understanding that methemoglobin cannot bind oxygen, leading to functional anemia and cyanosis unresponsive to supplemental oxygen.\n\nThe key to solving this question is recognizing the scenario as methemoglobinemia due to nitrite exposure. Knowing that methemoglobin affects oxygen binding to hemoglobin but not the dissolved oxygen in plasma (partial pressure) leads to the correct answer.",
+    "zh": "这个问题测试了对高铁血红蛋白血症的认识、其原因（亚硝酸盐暴露）及其对血液中氧容量和氧分压的影响。它要求理解高铁血红蛋白不能与氧结合，导致功能性贫血和对补充氧气无反应的发绀。\n\n解决这个问题的关键是认识到这种情况是由于亚硝酸盐暴露引起的高铁血红蛋白血症。知道高铁血红蛋白会影响氧与血红蛋白的结合，但不会影响血浆中的溶解氧（分压），从而得出正确答案。"
+  },
+  "tags": "Methemoglobinemia; Nitrites; Cyanosis; Oxygen saturation; Partial pressure of oxygen; Arterial blood gas; Toxicology; Hematology",
+  "category": "Blood",
+  "question_id": "1416",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1416",
+  "extracted_at": "2025-11-05T11:23:14.457065",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:27:06.765018",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

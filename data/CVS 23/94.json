@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "An 82-year-old man comes to the office due to progressive dyspnea and fatigue over the last year, which now limit his daily activities. He has also noticed bilateral swelling of his feet. The patient has hypertension, which is controlled with amlodipine. His blood pressure is 122/72 mm Hg and pulse is 55/min. Physical examination reveals elevated jugular venous pressure with rapid 'y' descent and a prominent S4. Abdominal examination shows moderate ascites. The patient has 3+ bilateral lower extremity pitting edema. Echocardiogram reveals left atrial enlargement with marked left ventricular hypertrophy and normal left ventricular ejection fraction. Complete blood count and basic metabolic panel are within normal limits. Endomyocardial biopsy findings are shown below {{exhibit_1}}.",
+    "zh": "一名82岁男性因过去一年来逐渐加重的呼吸困难和疲劳前来就诊，目前已影响其日常活动。他还注意到双脚肿胀。患者患有高血压，通过氨氯地平控制。其血压为122/72 mmHg，脉搏为55次/分钟。体格检查显示颈静脉压升高，伴有快速的“y”下降和明显的S4。腹部检查显示中度腹水。患者双侧下肢水肿3+。超声心动图显示左心房扩大，伴有明显的左心室肥大和正常的左心室射血分数。全血细胞计数和基本代谢检查结果均在正常范围内。心内膜心肌活检结果如下所示 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Cardiac myxoma",
+      "zh": "心脏黏液瘤"
+    },
+    "B": {
+      "en": "Cardiac sarcoidosis",
+      "zh": "心脏结节病"
+    },
+    "C": {
+      "en": "Chagas disease",
+      "zh": "恰加斯病"
+    },
+    "D": {
+      "en": "Hemochromatosis",
+      "zh": "血色病"
+    },
+    "E": {
+      "en": "Senile amyloidosis",
+      "zh": "老年性淀粉样变性"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's clinical presentation (eg, progressive exertional dyspnea, edema, ascites, elevated jugular venous pressure with rapid 'y' descent, prominent S4) and echocardiogram findings (eg, left atrial enlargement, left ventricular hypertrophy, normal ejection fraction) are consistent with diastolic heart failure due to restrictive cardiomyopathy.\n\nRestrictive cardiomyopathy can be idiopathic or caused by infiltrative diseases (eg, amyloidosis, sarcoidosis, hemochromatosis), radiation fibrosis, or endomyocardial fibrosis. Although most cases are associated with normal ventricular wall thickness, infiltrative conditions such as cardiac amyloidosis may lead to significant ventricular hypertrophy. Infiltrative diseases can also cause conduction system abnormalities (eg, bradycardia) that may ultimately require pacemaker implantation.\n\nCardiac amyloidosis results from abnormal extracellular deposition of insoluble proteins such as monoclonal light chains (AL amyloidosis), mutated transthyretin (familial ATTR amyloidosis), or wild-type transthyretin (senile systemic amyloidosis) in myocardial tissue. Endomyocardial biopsy typically reveals cross-sections of normal myocardial cells with other areas of myocardium infiltrated by an amorphous and acellular pink material. Congo red stain classically shows apple-green birefringence under polarized light microscopy {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}} {{exhibit_8}}.\n\n(Choice A) Cardiac myxomas are the most common primary cardiac neoplasms, with approximately 80% originating in the left atrium. Left atrial myxomas can obstruct blood flow across the mitral valve, resulting in syncope and symptoms of heart failure. Endomyocardial biopsy typically reveals numerous bland stellate cells in a background of myxoid ground substance.\n\n(Choice B) Cardiac sarcoidosis can present with restrictive or dilated cardiomyopathy along with conduction defects and atrial or ventricular arrhythmias; sudden death can also occur. Microscopic examination of the myocardium reveals the presence of noncaseating granulomas containing giant cells.\n\n(Choice C) Chagas disease occurs secondary to Trypanosoma cruzi infection and is a common cause of myopericarditis and dilated cardiomyopathy in Latin America. Microscopic examination typically shows multiple parasitic protozoa within the myocardial fibers with a dense cellular infiltrate and myofiber destruction.\n\n(Choice D) Hemochromatosis leads to excessive iron deposition in the myocardium and can cause conduction abnormalities or restrictive or dilated cardiomyopathy. Endomyocardial biopsy typically reveals excessive iron deposition in the myocardium, which can be confirmed with Prussian blue staining.\n\nEducational objective: Restrictive cardiomyopathy can be caused by infiltrative diseases (eg, amyloidosis, sarcoidosis, hemochromatosis) and often results in diastolic heart failure due to ventricular hypertrophy with impaired ventricular filling. Cardiac amyloidosis is characterized histologically by areas of myocardium infiltrated by an amorphous and acellular pink material (amyloid).",
+    "zh": "该患者的临床表现（例如，劳力性呼吸困难进行性加重、水肿、腹水、颈静脉压升高伴快速“y”下降、明显的S4）和超声心动图结果（例如，左心房扩大、左心室肥大、正常射血分数）与因限制性心肌病引起的舒张性心力衰竭一致。\n\n限制性心肌病可为特发性，或由浸润性疾病（例如，淀粉样变性、结节病、血色病）、放射性纤维化或心内膜纤维化引起。尽管大多数病例与正常的室壁厚度相关，但浸润性疾病，如心脏淀粉样变性，可导致显著的室壁肥大。浸润性疾病也可导致传导系统异常（例如，心动过缓），最终可能需要植入起搏器。\n\n心脏淀粉样变性是由肌组织中不溶性蛋白（如单克隆轻链（AL淀粉样变性）、突变的转甲状腺素蛋白（家族性ATTR淀粉样变性）或野生型转甲状腺素蛋白（老年性全身性淀粉样变性））异常细胞外沉积引起的。心内膜心肌活检通常显示正常心肌细胞的横截面，以及心肌其他区域被无定形且无细胞的粉红色物质浸润。刚果红染色在偏振光显微镜下典型地显示苹果绿色的双折射 {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}} {{exhibit_8}}。\n\n(选项A) 心脏黏液瘤是最常见的心脏原发性肿瘤，约80%起源于左心房。左心房黏液瘤可阻塞二尖瓣的血流，导致晕厥和心力衰竭的症状。心内膜心肌活检通常显示在黏液样基质背景下存在大量的、良性的星形细胞。\n\n(选项B) 心脏结节病可表现为限制性或扩张型心肌病，伴有传导缺陷和房性或室性心律失常；也可发生猝死。心肌的显微镜检查显示存在不干酪样肉芽肿，其中包含巨细胞。\n\n(选项C) 恰加斯病继发于克氏锥虫感染，是拉丁美洲心肌心包炎和扩张型心肌病的常见原因。显微镜检查通常显示心肌纤维内存在多个寄生性原生动物，伴有密集的细胞浸润和肌纤维破坏。\n\n(选项D) 血色病导致铁在心肌中过度沉积，可引起传导异常或限制性或扩张型心肌病。心内膜心肌活检通常显示心肌中存在过多的铁沉积，可通过普鲁士蓝染色证实。\n\n教育目标：限制性心肌病可由浸润性疾病（例如，淀粉样变性、结节病、血色病）引起，通常由于心室肥大伴心室充盈受损而导致舒张性心力衰竭。心脏淀粉样变性的组织学特征是心肌的某些区域被无定形和无细胞的粉红色物质（淀粉样蛋白）浸润。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of restrictive cardiomyopathy, specifically cardiac amyloidosis, and its characteristic findings on endomyocardial biopsy. It also assesses the ability to differentiate cardiac amyloidosis from other causes of restrictive cardiomyopathy and other cardiac conditions.\n\nTo solve this question, recognize the clinical features of restrictive cardiomyopathy (dyspnea, edema, ascites, elevated JVP, S4) and the echocardiogram findings (left atrial enlargement, left ventricular hypertrophy, normal ejection fraction). Then, identify the key biopsy finding of amorphous and acellular pink material, which is characteristic of amyloid deposition.",
+    "zh": "此题考察对限制性心肌病的认识，特别是心脏淀粉样变性，及其在心内膜心肌活检中的特征性发现。此外，评估了将心脏淀粉样变性与其他原因引起的限制性心肌病和其他心脏疾病区分开来的能力。\n\n要解决此题，需要识别限制性心肌病的临床特征（呼吸困难、水肿、腹水、JVP升高、S4）和超声心动图结果（左心房扩大、左心室肥大、正常射血分数）。然后，识别无定形且无细胞的粉红色物质的关键活检发现，这是淀粉样蛋白沉积的特征。"
+  },
+  "tags": "Restrictive cardiomyopathy; Cardiac amyloidosis; Diastolic heart failure; Endomyocardial biopsy; Congo red stain; Amyloid deposition; Cardiology; Heart failure; Infiltrative cardiomyopathy",
+  "category": "CVS",
+  "question_id": "94",
+  "has_exhibits": true,
+  "exhibit_count": 8,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\94",
+  "extracted_at": "2025-11-05T12:20:03.179227",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:32:40.257734",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

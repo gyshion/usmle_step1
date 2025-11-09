@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 68-year-old woman comes to the emergency department due to a 2-day history of crampy abdominal pain and vomiting. The patient has had no hematemesis, melena, or hematochezia. She has a history of hypertension, type 2 diabetes mellitus, and coronary artery disease. Several months ago, the patient had an episode of acute calculous cholecystitis that was managed non-operatively. {{exhibit_1}} Physical examination shows a distended, tympanic abdomen with high-pitched bowel sounds. Abdominal x-ray reveals air in the gallbladder and biliary tree. This patient's gallstone has most likely lodged in which of the following sites?",
+    "zh": "一名68岁女性因2天来阵发性腹痛和呕吐来急诊科就诊。患者无呕血、黑便或便血史。她有高血压、2型糖尿病和冠心病病史。几个月前，患者曾发生急性结石性胆囊炎，经非手术治疗。{{exhibit_1}} 体格检查显示腹部膨隆，鼓音，肠鸣音高亢。腹部X线片显示胆囊和胆道内有气体。该患者的胆结石最有可能位于以下哪个部位？"
+  },
+  "question": {
+    "en": "This patient's gallstone has most likely lodged in which of the following sites?",
+    "zh": "该患者的胆结石最有可能位于以下哪个部位？"
+  },
+  "options": {
+    "A": {
+      "en": "Common bile duct",
+      "zh": "胆总管"
+    },
+    "B": {
+      "en": "Cystic duct",
+      "zh": "胆囊管"
+    },
+    "C": {
+      "en": "Duodenum",
+      "zh": "十二指肠"
+    },
+    "D": {
+      "en": "Ileum",
+      "zh": "回肠"
+    },
+    "E": {
+      "en": "Jejunum",
+      "zh": "空肠"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient likely has gallstone ileus, an uncommon complication of longstanding cholelithiasis that usually occurs in elderly women. A large (typically ≥2.5 cm) gallstone causes formation of a cholecystoenteric fistula between the gallbladder and adjoining gut (most often the duodenum) due to pressure necrosis and erosion of these tissues. Fistula formation allows passage of the gallstone into the small bowel, where it travels freely until it becomes trapped in the ileum, the narrowest portion of the intestine. Patients consequently develop symptoms/signs of small bowel obstruction, including abdominal pain/distension, nausea/vomiting, high-pitched (tinkling) bowel sounds, and tenderness to palpation. Abdominal x-ray may reveal dilated loops of bowel with air-fluid levels due to intestinal obstruction. Communication between the intestine and gallbladder may also allow gas to enter the biliary tree (pneumobilia). (Choice A) Obstruction of the common bile duct by a gallstone (choledocholithiasis) can lead to pancreatitis and/or cholangitis. Cholangitis typically presents with fever, right upper quadrant abdominal pain, and jaundice (Charcot triad). Pneumobilia and features of small bowel obstruction are not characteristic. (Choice B) Obstruction of the cystic duct by a gallstone may result in biliary colic or acute cholecystitis. Acute cholecystitis usually presents with fever, abdominal pain, leukocytosis, and an inspiratory pause during right upper quadrant palpation (Murphy sign). Pneumobilia and features of small bowel obstruction are not characteristic. (Choices C and E) The caliber of the duodenum and jejunum is typically sufficient to allow passage of larger gallstones that cause gallstone ileus. Educational objective: Gallstone ileus results from passage of a large gallstone through a cholecystenteric fistula into the small bowel, where it ultimately causes obstruction at the ileum. Patients typically present with symptoms/signs of small bowel obstruction, and an abdominal x-ray may reveal gas within the gallbladder and biliary tree.",
+    "zh": "该患者可能患有胆石性肠梗阻，这是长期胆石症的一种不常见并发症，通常发生在老年女性中。一颗大的（通常≥2.5 cm）胆结石由于压力坏死和这些组织的侵蚀，导致胆囊与邻近肠管（最常见的是十二指肠）之间形成胆囊肠瘘。瘘管形成使胆结石进入小肠，它在其中自由移动，直到被困在回肠中，回肠是肠道最狭窄的部分。因此，患者会出现小肠梗阻的症状/体征，包括腹痛/腹胀、恶心/呕吐、高亢（叮当）肠鸣音和触诊压痛。腹部X线片可能显示肠襻扩张，伴有因肠梗阻引起的液气平面。肠道和胆囊之间的沟通也可能允许气体进入胆道（气胆症）。（选项A）胆总管被胆结石（胆总管结石病）阻塞可导致胰腺炎和/或胆管炎。胆管炎通常表现为发热、右上腹疼痛和黄疸（夏科三联征）。气胆症和小肠梗阻的特征不典型。（选项B）胆囊管被胆结石阻塞可能导致胆绞痛或急性胆囊炎。急性胆囊炎通常表现为发热、腹痛、白细胞增多以及右上象限触诊时的吸气暂停（墨菲征）。气胆症和小肠梗阻的特征不典型。（选项C和E）十二指肠和空肠的口径通常足以允许通过引起胆石性肠梗阻的较大胆结石。教育目标：胆石性肠梗阻是由一颗大的胆结石通过胆囊肠瘘进入小肠，最终在回肠处引起梗阻所致。患者通常表现为小肠梗阻的症状/体征，腹部X线片可能显示胆囊和胆道内有气体。"
+  },
+  "summary": {
+    "en": "A gallstone lodges in the ileum, causing small bowel obstruction. This is known as gallstone ileus and is a complication of cholecystoenteric fistula formation.",
+    "zh": "胆结石滞留在回肠中，引起小肠梗阻。这被称为胆石性肠梗阻，是胆囊肠瘘形成的并发症。"
+  },
+  "tags": [
+    "gallstone ileus",
+    "small bowel obstruction",
+    "cholecystoenteric fistula",
+    "abdominal x-ray",
+    "gastroenterology"
+  ],
+  "category": "GIT",
+  "question_id": "1525",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\1525",
+  "extracted_at": "2025-11-05T19:22:18.760812",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T17:52:14.324724",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

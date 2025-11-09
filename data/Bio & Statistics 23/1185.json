@@ -1,0 +1,55 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old man comes to the office for a routine visit. The patient has a first-degree relative with Alzheimer dementia and is concerned about his chances of developing the disease. He has read in the newspaper that decreased consumption of yellow and orange fruits and vegetables has been associated with Alzheimer disease and would like to know how likely he is to develop the disease. A medical literature review uncovers a recent cohort study that evaluated the association between blood carotene concentration and Alzheimer disease. The development of the disease was evaluated in a 20-year follow-up study of 200 middle-aged subjects who have a first-degree relative with Alzheimer disease. The results are as follows:\n\n{{exhibit_1}}",
+    "zh": "一位45岁男性来诊所进行例行就诊。该患者有一位患有阿尔茨海默病的直系亲属，并担心自己患上这种疾病的可能性。他在报纸上读到，减少食用黄色和橙色水果和蔬菜与阿尔茨海默病有关，并想知道自己患上这种疾病的可能性有多大。医学文献综述发现了一项最近的队列研究，该研究评估了血清胡萝卜素浓度与阿尔茨海默病之间的关联。在对200名有阿尔茨海默病直系亲属的中年受试者的20年随访研究中评估了该疾病的进展情况。结果如下：\n\n{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Assuming the patient has low carotene levels, what is his 20-year risk of developing Alzheimer disease?",
+    "zh": "假设该患者的胡萝卜素水平较低，他在20年内患上阿尔茨海默病的风险是多少？"
+  },
+  "options": {
+    "A": {
+      "en": "0.19",
+      "zh": "0.19"
+    },
+    "B": {
+      "en": "0.23",
+      "zh": "0.23"
+    },
+    "C": {
+      "en": "0.27",
+      "zh": "0.27"
+    },
+    "D": {
+      "en": "0.30",
+      "zh": "0.30"
+    },
+    "E": {
+      "en": "0.40",
+      "zh": "0.40"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Risk is the probability of developing a disease or other health outcome over the study period. In this example, it represents the probability of developing Alzheimer disease over a 20-year period among middle-aged subjects who have a first-degree relative with the disease. To calculate this probability in subjects with low carotene levels. divide the number of subjects who develop Alzheimer disease in the low carotene group (18) by the overall number of subjects in the low carotene group (18 + 27 = 45).\n\nRisk of developing Alzheimer disease among subjects with low carotene = 18 / (18 + 27)\n= 18 / 45 = 0.40\n\nThis means that, among subjects with low carotene levels, there is a 40% probability of developing Alzheimer disease in 20 years.\n\nNote that this is different from the relative risk (RR) of Alzheimer disease in subjects with low carotene levels compared to those with normal carotene groups:\n\nRR = risk of developing Alzheimer disease among subjects with low carotene levels / risk of developing Alzheimer disease among subjects with normal carotene levels = 0.4 / [42 / (42 + 113)] = 0.4 / 0.27 = 1.48\n\nAs the data is not presented in the standard 2 × 2 (contingency) table format, care must be taken to perform the calculations without relying on memorized formulas.\n\n(Choices A and D) The prevalence of low carotene (exposure) among subjects who do not develop Alzheimer disease is 27 / (27 + 113) = 27 / 140 = 0.19 (19%). The prevalence of low carotene (exposure) among subjects who develop Alzheimer disease is 18 / (18 + 42) = 18 / 60 = 0.3 (30%).\n\n(Choice B) The prevalence of low carotene in the entire cohort is (18 + 27) / (18 + 42 + 27 + 113) = 45 / 200 = 0.23 (23%).\n\n(Choice C) As noted in the RR calculation above, the 20-year risk of developing Alzheimer disease among subjects with normal carotene levels is 42 / (42 + 113) = 42 / 155 = 0.27 (27%).",
+    "zh": "风险是在研究期间患上疾病或其他健康结果的概率。在这个例子中，它代表了在中年受试者中，有阿尔茨海默病直系亲属的受试者在20年内患上阿尔茨海默病的概率。要计算低胡萝卜素水平受试者的这种概率，将低胡萝卜素组中患上阿尔茨海默病的受试者人数（18）除以低胡萝卜素组的受试者总数（18 + 27 = 45）。\n\n低胡萝卜素水平受试者患上阿尔茨海默病的风险 = 18 / (18 + 27)\n= 18 / 45 = 0.40\n\n这意味着，在低胡萝卜素水平的受试者中，在20年内患上阿尔茨海默病的概率为40%。\n\n请注意，这与低胡萝卜素水平的受试者与正常胡萝卜素水平的受试者相比，患阿尔茨海默病的相对风险 (RR) 不同：\n\nRR = 低胡萝卜素水平受试者患阿尔茨海默病的风险 / 正常胡萝卜素水平受试者患阿尔茨海默病的风险 = 0.4 / [42 / (42 + 113)] = 0.4 / 0.27 = 1.48\n\n由于数据未以标准的2 × 2（列联）表格式呈现，因此必须注意在不依赖于记忆公式的情况下执行计算。\n\n（选项A和D）未患上阿尔茨海默病的受试者中低胡萝卜素（暴露）的患病率为27 / (27 + 113) = 27 / 140 = 0.19 (19%)。患上阿尔茨海默病的受试者中低胡萝卜素（暴露）的患病率为18 / (18 + 42) = 18 / 60 = 0.3 (30%)。\n\n（选项B）整个队列中低胡萝卜素的患病率为 (18 + 27) / (18 + 42 + 27 + 113) = 45 / 200 = 0.23 (23%)。\n\n（选项C）如上所述的RR计算，正常胡萝卜素水平受试者在20年内患上阿尔茨海默病的风险为42 / (42 + 113) = 42 / 155 = 0.27 (27%)。"
+  },
+  "summary": {
+    "en": "This question tests the ability to calculate the probability (risk) of developing a disease given exposure data from a cohort study. It also differentiates between risk and relative risk.\n\nTo solve this question, identify the relevant data in the table: the number of subjects with low carotene who developed Alzheimer's and the total number of subjects with low carotene. Divide the former by the latter to determine the risk.",
+    "zh": "这个问题测试了根据来自队列研究的暴露数据计算患病概率（风险）的能力。它还区分了风险和相对风险。\n\n要解决这个问题，请确定表格中的相关数据：患有阿尔茨海默病且胡萝卜素水平较低的受试者人数以及胡萝卜素水平较低的受试者总数。用前者除以后者以确定风险。"
+  },
+  "tags": "Alzheimer disease; Cohort study; Risk calculation; Carotene; Epidemiology",
+  "category": "Bio",
+  "question_id": "1185",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1185",
+  "extracted_at": "2025-11-05T10:28:05.024404",
+  "translated_at": "2025-11-07T16:19:09.656312",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

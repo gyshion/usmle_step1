@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 3-year-old girl is brought to the office due to leg stiffness. Her mother reports that the patient is a clumsy walker and requires assistance to ambulate. The patient was born preterm and has delayed developmental skills. Physical examination shows increased {{exhibit_1}} knee and ankle reflexes and clonus at the ankles bilaterally. Muscle tone of the upper extremities and neck is also mildly increased. MRI of the brain reveals periventricular leukomalacia suggestive of cerebral palsy. An oral medication is prescribed that reduces the extremity stiffness. Which of the following CNS drug effects most likely resulted in this patient's improvement?",
+    "zh": "一名3岁女孩因腿部僵硬就诊。其母亲报告说，患者走路笨拙，需要帮助才能行走。该患者早产，发育技能迟缓。体格检查显示{{exhibit_1}}膝关节和踝关节反射增强，双侧踝部阵挛。上肢和颈部的肌张力也轻度增加。脑部MRI显示脑室周围白质软化，提示脑瘫。处方口服药物以减轻肢体僵硬。以下哪种中枢神经系统药物作用最有可能导致该患者的改善？"
+  },
+  "question": {
+    "en": "Which of the following CNS drug effects most likely resulted in this patient's improvement?",
+    "zh": "以下哪种中枢神经系统药物作用最有可能导致该患者的改善？"
+  },
+  "options": {
+    "A": {
+      "en": "Activation of NMDA glutamate receptors",
+      "zh": "NMDA谷氨酸受体激活"
+    },
+    "B": {
+      "en": "Agonistic activity at GABA receptors",
+      "zh": "GABA受体激动活性"
+    },
+    "C": {
+      "en": "Blockade of acetylcholine muscarinic receptors",
+      "zh": "乙酰胆碱毒蕈碱受体阻滞"
+    },
+    "D": {
+      "en": "Blockade of receptors for glycine",
+      "zh": "甘氨酸受体阻滞"
+    },
+    "E": {
+      "en": "Increased dopaminergic activity",
+      "zh": "多巴胺能活性增加"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has cerebral palsy, a heterogeneous condition characterized by permanent, nonprogressive motor dysfunction caused by damage to the developing brain. Certain subtypes (eg, spastic cerebral palsy) often manifest as delayed gross motor milestones and spasticity (eg, hypertonia, hyperreflexia). Spastic cerebral palsy may be caused by white matter necrosis (seen in this patient as periventricular leukomalacia), which leads to a loss of descending inhibitory control from the upper motor neurons. This results in muscle overactivity, leading to increased tone and hyperreflexia.\n\nEnhancement of CNS inhibitory neurotransmitter activity can improve spasticity. GABA is the primary inhibitory neurotransmitter in the CNS and acts on two different receptors:\n\n*   GABA A receptor mediates a fast response to GABA because it is an ion-gated chloride channel. Activation of this receptor leads to rapid muscle relaxation and sedation. Its activity is enhanced by benzodiazepines, which can be used to treat spasticity.\n*   GABA B receptor mediates a slower response to GABA because it is mediated by a G protein-coupled receptor that opens potassium channels. It is agonized by baclofen, which can also be used to treat spasticity.\n\n(Choice A) Glutamate is the primary excitatory CNS neurotransmitter; therefore, activation of NMDA glutamate receptors would result in increased excitation and lead to further increases in muscle tone.\n\n(Choices C and E) Dopamine is a modulatory (rather than primarily excitatory or inhibitory) neurotransmitter that affects motor control. In patients with Parkinson disease who have a relative deficiency of dopamine in the substantia nigra, medications that increase dopaminergic activity (eg, levodopa) can improve muscle rigidity. In some patients, a relative excess of acetylcholine compared to dopamine has been implicated in the tremor or rigidity associated with Parkinson disease or drug-induced parkinsonism. In these patients, anticholinergic medications (eg, trihexyphenidyl) are sometimes used.\n\n(Choice D) Glycine is an inhibitory neurotransmitter found primarily in the spinal cord rather than in the brain. Blockade of glycine receptors (eg, strychnine poisoning) leads to increased muscle contraction.\n\nEducational objective:\nCerebral palsy results in spasticity (eg, hypertonia, hyperreflexia) due to a loss of descending inhibitory control. Medications used to enhance the activity of GABA, the primary inhibitory neurotransmitter of the CNS, can improve spasticity.",
+    "zh": "该患者患有脑瘫，这是一种异质性疾病，其特征是由于发育中的大脑受损而导致永久性、非进行性运动功能障碍。某些亚型（例如，痉挛性脑瘫）通常表现为粗大运动里程碑延迟和痉挛（例如，肌张力亢进、反射亢进）。痉挛性脑瘫可能是由白质坏死（在该患者中表现为脑室周围白质软化）引起的，这会导致上运动神经元的下行抑制控制丧失。这会导致肌肉过度活动，从而导致肌张力增加和反射亢进。\n\n增强中枢神经系统抑制性神经递质活性可以改善痉挛。GABA是中枢神经系统中的主要抑制性神经递质，作用于两种不同的受体：\n\n*   GABA A受体介导对GABA的快速反应，因为它是一个离子门控氯离子通道。激活该受体可导致肌肉快速放松和镇静。其活性受到苯二氮卓类药物的增强，这些药物可用于治疗痉挛。\n*   GABA B受体介导对GABA的较慢反应，因为它由G蛋白偶联受体介导，该受体可打开钾通道。它被巴氯芬激动，巴氯芬也可用于治疗痉挛。\n\n(选项A) 谷氨酸是主要的中枢神经系统兴奋性神经递质；因此，激活NMDA谷氨酸受体将导致兴奋性增加，并导致肌张力进一步增加。\n\n(选项C和E) 多巴胺是一种调节性（而不是主要的兴奋性或抑制性）神经递质，影响运动控制。在患有帕金森病的患者中，黑质中多巴胺相对缺乏，增加多巴胺能活性的药物（例如，左旋多巴）可以改善肌肉僵硬。在一些患者中，乙酰胆碱相对于多巴胺的相对过量与帕金森病或药物引起的帕金森病的震颤或僵硬有关。在这些患者中，有时使用抗胆碱能药物（例如，三己苯酯）。\n\n(选项D) 甘氨酸是一种抑制性神经递质，主要存在于脊髓而非大脑中。阻断甘氨酸受体（例如，士的宁中毒）会导致肌肉收缩增强。\n\n教学目标：\n脑瘫导致痉挛（例如，肌张力亢进、反射亢进），原因是下行抑制控制丧失。用于增强GABA（中枢神经系统的主要抑制性神经递质）活性的药物可以改善痉挛。"
+  },
+  "summary": {
+    "en": "The patient has spastic cerebral palsy, characterized by increased muscle tone and reflexes due to impaired inhibitory neurotransmission. The prescribed medication likely enhances the activity of GABA, the primary inhibitory neurotransmitter in the CNS, which can alleviate spasticity.",
+    "zh": "该患者患有痉挛性脑瘫，其特征是由于抑制性神经传递受损而导致肌张力增加和反射亢进。所开药物可能增强GABA（中枢神经系统的主要抑制性神经递质）的活性，这可以缓解痉挛。"
+  },
+  "tags": [
+    "cerebral palsy",
+    "spasticity",
+    "GABA",
+    "neurotransmitter",
+    "pharmacology"
+  ],
+  "category": "Neuro",
+  "question_id": "18496",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\18496",
+  "extracted_at": "2025-11-05T19:27:46.674863",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:22:02.656216",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

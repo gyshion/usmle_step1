@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 53-year-old woman is admitted to the hospital due to a 3-day history of worsening dyspnea. On examination, the patient is tachypneic; diffuse, wet, inspiratory crackles are present on pulmonary auscultation. Chest x-ray reveals bilateral patchy opacities. Arterial blood gas analysis shows that the patient's alveolar-arterial gradient (P₊o₂ - P₊o₂) is markedly increased. Although the patient receives 100% oxygen via a face mask, she has persistent hypoxemia and respiratory distress. Consequently, she is intubated and placed on mechanical ventilation with 100% oxygen and positive end-expiratory pressure (PEEP). Results of arterial oxygen measurements are as follows:\n\nArterial partial pressure O₂ saturation\n\nRoom air of oxygen (mm Hg)\n\n100% oxygen via face mask 40 75%\n\n100% oxygen & PEEP 43 78%\n\n80 96%",
+    "zh": "一名53岁女性因3天来加重的呼吸困难入院。检查时，患者呼吸急促；肺部听诊有弥漫性、湿啰音。胸部X光片显示双侧斑片状不透光影。动脉血气分析显示，患者的肺泡-动脉氧分压差（P₊o₂ - P₊o₂）明显升高。尽管患者通过面罩吸入100%氧气，但仍存在持续性低氧血症和呼吸窘迫。因此，她被气管插管并置于机械通气下，使用100%氧气和呼气末正压（PEEP）。动脉血氧测量结果如下：\n\n动脉血氧分压O₂饱和度\n\n空气中的氧气（毫米汞柱）\n\n通过面罩吸入100%氧气 40 75%\n\n100%氧气 & PEEP 43 78%\n\n80 96%"
+  },
+  "question": {
+    "en": "The patient's improved oxygenation following PEEP application is most likely due to a decrease in which of the following?",
+    "zh": "患者应用PEEP后氧合改善最可能的原因是以下哪一项的减少？"
+  },
+  "options": {
+    "A": {
+      "en": "Anatomical dead space",
+      "zh": "解剖死腔"
+    },
+    "B": {
+      "en": "Intrapulmonary shunt effect",
+      "zh": "肺内分流效应"
+    },
+    "C": {
+      "en": "Lung compliance",
+      "zh": "肺顺应性"
+    },
+    "D": {
+      "en": "Pulmonary vascular resistance",
+      "zh": "肺血管阻力"
+    },
+    "E": {
+      "en": "Right-to-left intracardiac shunt",
+      "zh": "右向左心内分流"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has diffuse pulmonary edema (inspiratory wet crackles, bilateral patchy infiltrates) that can be cardiogenic (eg, decompensated left ventricular failure) or noncardiogenic (eg, acute respiratory distress syndrome). With pulmonary edema, the alveoli become flooded and unable to fill with gas (ventilation: V = 0). However, they are still being perfused (Q), resulting in many alveoli with ventilation-perfusion (V/Q) ratios approaching zero.\n\nBecause blood passing through the lungs returns to the left atrium without being oxygenated, this situation is analogous to a true right-to-left anatomic shunt (eg, atrial septal defect with flow from the right to the left atrium) and is termed intrapulmonary shunt effect. Increasing the fraction of inspired oxygen (FiO₂) to 100% does not improve oxygenation because the shunted blood never \"sees\" the alveolar gas. Therefore, this patient's low arterial partial pressure of oxygen (PaO₂) has not corrected with 100% supplemental oxygen.\n\nBecause pure oxygen alone cannot improve hypoxemia, treatment depends on reducing the shunt effect. This can be done by pressurizing the inspired gas in a closed circuit (eg, mechanical ventilator). Positive end-expiratory pressure (PEEP) reduces the shunt by propping the collapsed alveoli open, displacing extracellular lung fluid and exposing more alveolar surface area for gas exchange/oxygen uptake.\n\n(Choice A) Anatomical dead space refers to the volume of air in the conducting airways (eg, trachea, bronchi) that never reaches alveoli. It is increased, not decreased, in an intubated patient due to the extra volume of the ventilator tubing. At any given tidal volume, increased anatomic dead space causes less air to reach alveoli with each breath, contributing to hypoventilation and worsening hypoxemia.\n\n(Choice C) When fluid enters the alveolar airspace (ie, pulmonary edema), the surface tension increases (due to dilution of surfactant) causing the alveolar walls to cling together and collapse (ie, atelectasis), which decreases lung compliance. PEEP props open (\"recruits\") the partially flooded alveoli, improving lung compliance.\n\n(Choices D and E) PEEP raises intrathoracic pressure, which compresses pulmonary capillaries and raises pulmonary vascular resistance. This increases pressure within the right heart chambers and can increase right-to-left shunting through an existing intracardiac shunt (eg, atrial or ventricular septal defect), worsening hypoxemia. Therefore, PEEP is generally avoided in patients with intracardiac shunts.\n\nEducational objective:\n\nSevere hypoxemia that does not correct with 100% supplemental oxygen is consistent with a right-to-left shunt. Intrapulmonary shunt effect occurs when an alveolar filling process (eg, diffuse pulmonary edema) causes poor alveolar ventilation despite continued perfusion; this improves with positive end-expiratory pressure. {{exhibit_1}} {{exhibit_2}}",
+    "zh": "该患者患有弥漫性肺水肿（吸气性湿啰音、双侧斑片状浸润），其病因可以是心源性的（如失代偿性左心室衰竭）或非心源性的（如急性呼吸窘迫综合征）。当发生肺水肿时，肺泡会被淹没而无法充满气体（通气：V = 0）。然而，肺泡仍在灌注（Q），导致许多肺泡的通气/血流比（V/Q）接近于零。\n\n由于流经肺部的血液在没有被氧化的情况下回流到左心房，这种情况类似于真正的右向左解剖分流（例如，房间隔缺损，血液从右心房流向左心房），被称为肺内分流效应。增加吸入氧气浓度（FiO₂）至100%并不能改善氧合，因为分流的血液从未“看到”肺泡气体。因此，该患者的动脉血氧分压（PaO₂）在补充100%氧气后并未得到纠正。\n\n由于仅靠纯氧不能改善低氧血症，治疗取决于减少分流效应。这可以通过在闭合回路中对吸入气体加压来实现（例如，机械通气）。呼气末正压（PEEP）通过撑开塌陷的肺泡、排出肺部细胞外液体并暴露更多的肺泡表面积以进行气体交换/氧气摄取来减少分流。\n\n（选项A）解剖死腔是指传导气道（例如，气管、支气管）中从未到达肺泡的空气体积。在插管患者中，由于呼吸机管道的额外体积，解剖死腔会增加而不是减少。在任何给定的潮气量下，增加的解剖死腔会导致每次呼吸到达肺泡的空气减少，从而导致通气不足和低氧血症恶化。\n\n（选项C）当液体进入肺泡腔（即肺水肿）时，表面张力增加（由于表面活性剂稀释），导致肺泡壁粘在一起并塌陷（即肺不张），从而降低肺顺应性。PEEP撑开（“募集”）部分淹没的肺泡，改善肺顺应性。\n\n（选项D和E）PEEP升高胸腔内压力，从而压迫肺毛细血管并升高肺血管阻力。这增加了右心腔内的压力，并可能通过现有的心内分流（例如，心房或室间隔缺损）增加右向左分流，从而加重低氧血症。因此，在患有心内分流的患者中通常避免使用PEEP。\n\n教育目标：\n\n严重的低氧血症，用100%补充氧气无法纠正，与右向左分流一致。当肺泡充盈过程（例如，弥漫性肺水肿）导致肺泡通气不良，尽管灌注持续存在时，就会发生肺内分流效应；这可以通过呼气末正压来改善。{{exhibit_1}} {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of intrapulmonary shunt physiology and the mechanism of action of positive end-expiratory pressure (PEEP) in improving oxygenation in patients with pulmonary edema. It requires understanding of ventilation-perfusion mismatch and how PEEP reduces shunting by recruiting collapsed alveoli. \n\nTo solve this question, recognize the patient's presentation of pulmonary edema and persistent hypoxemia despite high FiO2. Understand that PEEP improves oxygenation by decreasing intrapulmonary shunting, not by affecting anatomical dead space, lung compliance, pulmonary vascular resistance, or intracardiac shunts.",
+    "zh": "此题考察肺内分流生理学知识以及呼气末正压（PEEP）在改善肺水肿患者氧合中的作用机制。它要求理解通气-血流比失调以及PEEP如何通过募集塌陷的肺泡来减少分流。\n\n要解决这个问题，需要认识到患者表现为肺水肿，尽管高FiO2仍存在持续性低氧血症。了解PEEP通过减少肺内分流来改善氧合，而不是通过影响解剖死腔、肺顺应性、肺血管阻力或心内分流。"
+  },
+  "tags": "Pulmonary edema; Intrapulmonary shunt; Positive end-expiratory pressure (PEEP); Hypoxemia; Ventilation-perfusion mismatch; Respiratory distress; Mechanical ventilation; Critical care; Pulmonary physiology",
+  "category": "Chest",
+  "question_id": "105670",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\105670",
+  "extracted_at": "2025-11-05T11:35:34.627540",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:33:06.618868",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

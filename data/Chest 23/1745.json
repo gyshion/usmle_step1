@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old man is admitted to the hospital after suffering a cerebral infarction. A swallow study performed during the acute recovery period shows oropharyngeal dysphagia. Despite being maintained on the appropriate dietary restrictions, the patient experiences an episode of vomiting while lying on his back and subsequently develops pneumonia. {{exhibit_1}}",
+    "zh": "一名63岁男性因脑梗塞入院。在急性恢复期进行的吞咽研究显示存在口咽吞咽困难。尽管维持适当的饮食限制，患者在仰卧时经历了一次呕吐发作，随后出现肺炎。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following lung regions is most likely to be affected?",
+    "zh": "以下哪个肺部区域最有可能受到影响？"
+  },
+  "options": {
+    "A": {
+      "en": "Anterior segment of the left upper lobe",
+      "zh": "左上叶前段"
+    },
+    "B": {
+      "en": "Basilar segments of the right lower lobe",
+      "zh": "右下叶基底段"
+    },
+    "C": {
+      "en": "Lingular segments of the left lung",
+      "zh": "左肺舌段"
+    },
+    "D": {
+      "en": "Middle lobe segments of the right lung",
+      "zh": "右肺中叶段"
+    },
+    "E": {
+      "en": "Posterior segment of the right upper lobe",
+      "zh": "右上叶后段"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Due to gravity, aspiration pneumonia typically develops in the most DEPENDENT portions of the lung. Patients who aspirate while lying supine typically have involvement of the posterior segments of the upper lobes and the superior segments of the lower lobes.\n\nThe right lung is more prone to aspiration than the left lung as the right main bronchus has a larger diameter, is shorter, and is more vertically oriented than the left main bronchus (mnemonic: \"Inhale a bite, goes down the right\").\n\n(Choice B) Aspiration in an upright position tends to involve the basilar segments of the lower lobes.\n\n(Choices C and D) Recumbent patients in the prone position (ie, lying on the abdomen) are more likely to aspirate into the middle lobe and lingula, as these are the most dependent portions of the lung in this position.\n\nDue to gravity, supine patients typically aspirate into the posterior segments of the upper lobes and superior segments of the lower lobes. Patients who are upright tend to aspirate into the basilar segments of the lower lobes. Aspirated material is more likely to travel down the right main bronchus.",
+    "zh": "由于重力作用，吸入性肺炎通常发生在肺部最依赖的部位。仰卧时吸入的患者通常累及上叶后段和下叶上段。\n\n右肺比左肺更容易发生误吸，因为右主支气管直径较大，较短，且比左主支气管更垂直（助记符：“Inhale a bite, goes down the right”）。\n\n（选项B）站立时吸入往往涉及下叶基底段。\n\n（选项C和D）俯卧位（即俯卧位）的卧床患者更容易吸入到中叶和舌叶，因为这些是该体位下肺部最依赖的部分。\n\n由于重力作用，仰卧位患者通常吸入到上叶后段和下叶上段。站立的患者倾向于吸入下叶基底段。吸入的物质更有可能沿着右主支气管移动。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of aspiration pneumonia and the lung segments most likely to be affected based on patient positioning. The key to solving this question is understanding the effect of gravity on the distribution of aspirated material in different body positions and the anatomical differences between the right and left main bronchi. Supine patients aspirate into posterior upper lobe segments.",
+    "zh": "此题考察对吸入性肺炎的病理生理学以及基于患者体位的最有可能受影响的肺段的知识。解决此问题的关键是了解重力对不同体位下吸入物质分布的影响，以及右、左主支气管之间的解剖学差异。仰卧位患者吸入到上叶后段。"
+  },
+  "tags": "Aspiration pneumonia; Pulmonary; Lung segments; Gravity; Supine position; Right main bronchus; Oropharyngeal dysphagia",
+  "category": "Chest",
+  "question_id": "1745",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1745",
+  "extracted_at": "2025-11-05T11:41:38.708459",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:36:41.710984",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

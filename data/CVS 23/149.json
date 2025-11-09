@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old man comes to the emergency department due to shortness of breath and fatigue that has progressed over the last 2 weeks. The patient was diagnosed with nonischemic cardiomyopathy 2 years ago and has not been adherent with physician visits and his medical regimen. Blood pressure is 106/58 mm Hg, and pulse is 88/min and regular. The patient appears uncomfortable when lying flat. Jugular venous pressure is elevated. Bibasilar crackles are heard on lung auscultation and an S3 is present. There is 1+ bilateral lower extremity pitting edema. Milrinone infusion is initiated. ",
+    "zh": "一名45岁男性因呼吸困难和疲劳前来急诊就诊，症状在过去2周内逐渐加重。患者2年前被诊断为非缺血性心肌病，并且未遵守医嘱和治疗方案。血压为106/58 mmHg，脉搏88次/分钟，规律。患者平卧时感到不适。颈静脉压升高。肺部听诊可闻及双肺底部啰音，并存在S3奔马律。双侧下肢水肿为1+。开始静脉输注米力农。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely response to this therapy?",
+    "zh": "以下哪项是该治疗最有可能的反应？"
+  },
+  "options": {
+    "A": {
+      "en": "Angioedema",
+      "zh": "血管性水肿"
+    },
+    "B": {
+      "en": "Antiarrhythmic action",
+      "zh": "抗心律失常作用"
+    },
+    "C": {
+      "en": "Atrioventricular conduction block",
+      "zh": "房室传导阻滞"
+    },
+    "D": {
+      "en": "Decreased renal perfusion",
+      "zh": "肾灌注减少"
+    },
+    "E": {
+      "en": "Increased right atrial pressure",
+      "zh": "右心房压力升高"
+    },
+    "F": {
+      "en": "Vasodilation",
+      "zh": "血管舒张"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "Milrinone is a selective phosphodiesterase (PDE)-3 enzyme inhibitor that can be used in patients with refractory heart failure due to left ventricular systolic dysfunction. The PDE-3 enzyme is normally responsible for degrading cyclic adenosine monophosphate (cAMP) to AMP; the inhibition of cAMP degradation via milrinone has 2 positive effects on heart failure:\n\n*   In cardiomyocytes, intracellular calcium influx is increased, which increases cardiac contractility (positive inotropy) to improve stroke volume and cardiac output.\n*   In vascular smooth muscle, uptake of calcium by the sarcoplasmic reticulum is increased, which reduces calcium-myosin light chain kinase interaction to stimulate relaxation and vasodilation. Venous vasodilation reduces preload and arterial vasodilation reduces afterload to provide a cumulative reduction in cardiac work. {{exhibit_1}}\n\nAlthough the vasodilatory action of milrinone can lead to hypotension, this effect is often compensated for by an increase in stroke volume that maintains blood pressure.\n\n(Choice A) Angioedema refers to localized subcutaneous swelling that affects the submucosal tissues of the face, mouth, throat, and genitalia. It is typically seen as a side effect of ACE inhibitors due to inhibition of bradykinin degradation.\n\n(Choice B) Milrinone does not have an antiarrhythmic effect on the myocardium. In fact, its positive inotropic effect may induce ventricular arrhythmias in some patients.\n\n(Choice C) Atrioventricular conduction block can be caused by toxicity due to digoxin, nondihydropyridine calcium channel blockers, or beta blockers; however, PDE inhibitors have minimal chronotropic effect (positive or negative).\n\n(Choice D) Renal perfusion is increased with milrinone due to an increase in cardiac output.\n\n(Choice E) Right atrial pressure is decreased with milrinone due to venous dilation and a consequent reduction in cardiac venous return (preload).\n\nEducational objective:\nMilrinone is a phosphodiesterase-3 inhibitor that reduces the degradation of cyclic adenosine monophosphate to provide 2 beneficial effects for treating systolic heart failure. Calcium influx into cardiomyocytes is increased, which increases cardiac contractility. In addition, calcium-myosin light chain interaction is reduced, which causes vasodilation and reduces cardiac preload and afterload.",
+    "zh": "米力农是一种选择性磷酸二酯酶(PDE)-3酶抑制剂，可用于治疗左心室收缩功能障碍引起的难治性心力衰竭患者。PDE-3酶通常负责将环磷酸腺苷(cAMP)降解为AMP；通过米力农抑制cAMP降解对心力衰竭有2个积极作用：\n\n*   在心肌细胞中，细胞内钙内流增加，从而增加心肌收缩力（正性肌力），改善每搏输出量和心输出量。\n*   在血管平滑肌中，肌浆网对钙的摄取增加，这减少了钙-肌球蛋白轻链激酶的相互作用，从而刺激松弛和血管舒张。静脉血管舒张降低前负荷，动脉血管舒张降低后负荷，从而累积性地减少心脏功耗。{{exhibit_1}}\n\n尽管米力农的血管舒张作用可能导致低血压，但这种作用通常可以通过增加维持血压的每搏输出量来代偿。\n\n（选项A）血管性水肿是指影响面部、口腔、喉咙和生殖器黏膜下组织的局部皮下肿胀。它通常被认为是ACE抑制剂的副作用，原因是抑制缓激肽降解。\n\n（选项B）米力农对心肌没有抗心律失常作用。事实上，其正性肌力作用可能会在某些患者中诱发室性心律失常。\n\n（选项C）房室传导阻滞可由地高辛、非二氢吡啶类钙通道阻滞剂或β受体阻滞剂的毒性引起；然而，PDE抑制剂具有极小的变时性作用（正性或负性）。\n\n（选项D）米力农可增加肾灌注，原因是心输出量增加。\n\n（选项E）米力农可降低右心房压力，原因是静脉扩张，从而减少心脏静脉回流（前负荷）。\n\n教育目标：\n米力农是一种磷酸二酯酶-3抑制剂，可减少环磷酸腺苷的降解，为治疗收缩性心力衰竭提供2个有益作用。心肌细胞中的钙内流增加，从而增加心肌收缩力。此外，钙-肌球蛋白轻链相互作用减少，这会导致血管舒张并降低心脏前负荷和后负荷。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of action of milrinone, a phosphodiesterase-3 inhibitor used in heart failure, and its effects on cardiac contractility and vasodilation. It also requires understanding of preload and afterload reduction in the context of heart failure management. \n\nThe best approach is to recall that milrinone increases cAMP levels, leading to increased calcium influx in cardiomyocytes (positive inotropy) and vasodilation. Recognizing the vasodilatory effect as the primary response helps eliminate other options.",
+    "zh": "此题考察对米力农（一种用于心力衰竭的磷酸二酯酶-3抑制剂）的作用机制及其对心肌收缩力和血管舒张的影响的认识。它还需要理解在前负荷和后负荷减少的背景下对心力衰竭的管理。\n\n最好的方法是回忆起米力农增加cAMP水平，导致心肌细胞中钙内流增加（正性肌力）和血管舒张。认识到血管舒张作用是主要反应有助于排除其他选项。"
+  },
+  "tags": "Milrinone; Phosphodiesterase-3 inhibitor; Heart failure; Vasodilation; Cardiac contractility; Preload; Afterload; Cardiology; Pharmacology",
+  "category": "CVS",
+  "question_id": "149",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\149",
+  "extracted_at": "2025-11-05T11:54:05.473230",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:45:51.290120",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

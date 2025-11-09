@@ -1,0 +1,56 @@
+{
+  "question_stem": {
+    "en": "A 60-year-old woman is brought to the hospital due to progressive shortness of breath and cough for 2 weeks. The patient was diagnosed with right breast cancer and completed radiation therapy 6 weeks ago. Temperature is 37.3 C (99.1 F), blood pressure is 110/70 mm Hg, pulse is 90/min, and respirations are 22/min. Oxygen saturation is 93% on room air. Examination reveals inspiratory crackles over the right lung anteriorly; the lungs are otherwise clear to auscultation. Chest radiograph shows ground-glass opacities in the right lung where radiation was delivered. Laboratory studies reveal no significant changes. Acute radiation-induced lung injury is suspected.",
+    "zh": "一名60岁女性因进行性呼吸困难和咳嗽2周被送往医院。患者被诊断患有右侧乳腺癌，并于6周前完成了放射治疗。体温37.3°C (99.1°F)，血压110/70 mmHg，脉搏90次/分，呼吸22次/分。在空气中氧饱和度为93%。检查显示右肺前部有吸气性啰音；肺部其他部位听诊清。胸片显示放射线照射过的右肺出现毛玻璃样改变。实验室检查未发现明显变化。怀疑为急性放射性肺损伤。"
+  },
+  "question": {
+    "en": "Histopathologic examination would most likely reveal formation of which of the following?",
+    "zh": "组织病理学检查最有可能显示以下哪种病变的形成？"
+  },
+  "options": {
+    "A": {
+      "en": "Alveolar hyaline membranes",
+      "zh": "肺泡透明膜"
+    },
+    "B": {
+      "en": "Hemosiderin-laden macrophages",
+      "zh": "含铁血黄素巨噬细胞"
+    },
+    "C": {
+      "en": "Necrotizing vasculitis",
+      "zh": "坏死性血管炎"
+    },
+    "D": {
+      "en": "Neutrophilic abscess",
+      "zh": "中性粒细胞性脓肿"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Radiation-induced lung injury usually occurs following thoracic irradiation for the treatment of malignancy (eg, breast or lung cancers, lymphoma). Ionizing radiation causes DNA damage directly (eg, double-strand breaks) and indirectly through generation of reactive oxygen and nitrogen species that can damage both DNA and other cellular components.\n\nIn the lung, this damage primarily affects the alveolar-capillary barrier, formed from alveolar epithelial cells (ie, pneumocytes) and vascular endothelial cells, and initiates an inflammatory response with a cascade of cytokines (eg, IL-1, TNFα) and growth factors (eg, PDGF, TGF-β). Manifestation vary based on chronicity:\n\n*   Acutely, immune-mediated damage results in impaired gas exchange due to exudative alveolitis, with sloughing of pneumocytes and vascular endothelial cells, alveolar/interstitial edema, and hyaline membrane formation. Clinically, this usually manifests as dyspnea and cough 3-12 weeks after initial radiation exposure.\n*   Radiation fibrosis is a delayed manifestation of radiation-induced lung injury that can develop 6-12 months after initial radiation exposure. TGF-β released by immune cells and the surrounding tissue initiates fibroblast proliferation, collagen deposition, and formation of dense fibrous bands. The result is decreased lung volume, dilated bronchi and bronchioles (ie, traction bronchiectasis), impaired mucociliary clearance, and predisposition to chronic infections.\n\n(Choices B and C) Hemosiderin-laden macrophages (due to diffuse alveolar hemorrhage) and necrotizing vasculitis are both associated with autoimmune vasculitis (eg, anti-GBM disease). These patients typically have hemoptysis and/or other systemic effects of vasculitis (eg, glomerulonephritis, arthralgias).\n\n(Choice D) Although significant neutrophilic infiltrate occurs in patients with radiation-induced lung injury, frank formation of an abscess usually occurs following introduction of anaerobic bacteria to the lung parenchyma due to aspiration (eg, alcohol use disorder) or septic embolism.\n\nEducational objective:\nRadiation-induced lung injury typically occurs following thoracic irradiation (eg, breast cancer), which damages pneumocytes and vascular endothelial cells and initiates an inflammatory response (eg, IL-1, TNFα, TGF-β). This immune response can have both acute (eg, exudative alveolitis, hyaline membrane formation) and delayed (eg, dense fibrosis) effects that typically manifest with cough and dyspnea. {{exhibit_1}}",
+    "zh": "放射性肺损伤通常发生在胸部放射治疗恶性肿瘤（例如，乳腺癌或肺癌、淋巴瘤）后。电离辐射通过直接（例如，双链断裂）和间接（通过产生可损伤DNA和其他细胞成分的活性氧和氮物种）导致DNA损伤。\n\n在肺部，这种损伤主要影响肺泡-毛细血管屏障，由肺泡上皮细胞（即，肺细胞）和血管内皮细胞形成，并引发炎症反应，伴随细胞因子（例如，IL-1、TNFα）和生长因子（例如，PDGF、TGF-β）的级联反应。表现因病程长短而异：\n\n*   在急性期，免疫介导的损伤导致气体交换受损，原因是渗出性肺泡炎，伴有肺细胞和血管内皮细胞脱落、肺泡/间质水肿和透明膜形成。临床上，这通常表现为初始放射暴露后3-12周出现呼吸困难和咳嗽。\n*   放射性纤维化是放射性肺损伤的延迟表现，可在初始放射暴露后6-12个月发生。免疫细胞和周围组织释放的TGF-β引发成纤维细胞增殖、胶原沉积和致密纤维束的形成。结果是肺容积减少、支气管和细支气管扩张（即，牵引性支气管扩张）、黏液纤毛清除功能受损以及易发生慢性感染。\n\n（选项B和C）含铁血黄素巨噬细胞（由于弥漫性肺泡出血）和坏死性血管炎均与自身免疫性血管炎（例如，抗GBM病）相关。这些患者通常有咯血和/或其他血管炎的全身性影响（例如，肾小球肾炎、关节痛）。\n\n（选项D）尽管放射性肺损伤患者会出现大量中性粒细胞浸润，但脓肿的明显形成通常发生在由于误吸（例如，酒精使用障碍）或脓毒性栓塞而将厌氧菌引入肺实质之后。\n\n教学目标：\n放射性肺损伤通常发生在胸部放射治疗（例如，乳腺癌）之后，损伤肺细胞和血管内皮细胞，并引发炎症反应（例如，IL-1、TNFα、TGF-β）。这种免疫反应既有急性（例如，渗出性肺泡炎、透明膜形成）也有延迟（例如，致密纤维化）的影响，通常表现为咳嗽和呼吸困难。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of radiation-induced lung injury, specifically the acute phase and its histopathological findings. It requires understanding the pathophysiology of lung damage following radiation therapy.\n\nThe best approach is to recall the timeline of radiation-induced lung injury and the expected findings in the acute phase. Focus on the inflammatory response and its effect on the alveolar-capillary barrier to differentiate from other lung pathologies.",
+    "zh": "本题考察对放射性肺损伤的认识，特别是急性期及其组织病理学发现。它要求理解放射治疗后肺损伤的病理生理学。\n\n最好的方法是回忆放射性肺损伤的时间线以及急性期的预期发现。重点关注炎症反应及其对肺泡-毛细血管屏障的影响，以与其他肺部病理学相区别。"
+  },
+  "tags": "Radiation-induced lung injury; Pneumonitis; Alveolar hyaline membranes; Exudative alveolitis; Pulmonary fibrosis; Oncology; Pulmonology; Histopathology; Thoracic irradiation",
+  "category": "Chest",
+  "question_id": "18928",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\18928",
+  "extracted_at": "2025-11-05T11:41:56.274420",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:37:09.619261",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

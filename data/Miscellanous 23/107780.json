@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A neonate is evaluated in the nursery. The patient was born to a 26-year-old primigravida at term via spontaneous vaginal delivery. The mother had no prenatal care. Examination shows female external genitalia with an enlarged clitoris. Further work-up reveals the absence of condensed sex chromatin in nuclei of somatic cells, and it is determined that the patient has 5-alpha reductase deficiency.",
+    "zh": "一名新生儿在育婴室接受评估。患者出生于一名26岁的初产妇，足月经阴道自然分娩。母亲没有接受产前护理。检查显示女性外生殖器，伴有阴蒂肥大。进一步检查显示体细胞核中无浓缩的性染色质，确定该患者患有5-α还原酶缺乏症。"
+  },
+  "question": {
+    "en": "Which of the following would most likely be seen in this patient?",
+    "zh": "该患者最有可能出现以下哪种情况？"
+  },
+  "options": {
+    "A": {
+      "en": "Testes: Absent, Vas deferens: Absent, Uterus: Present",
+      "zh": "睾丸：缺失，输精管：缺失，子宫：存在"
+    },
+    "B": {
+      "en": "Testes: Absent, Vas deferens: Present, Uterus: Absent",
+      "zh": "睾丸：缺失，输精管：存在，子宫：缺失"
+    },
+    "C": {
+      "en": "Testes: Present, Vas deferens: Absent, Uterus: Absent",
+      "zh": "睾丸：存在，输精管：缺失，子宫：缺失"
+    },
+    "D": {
+      "en": "Testes: Present, Vas deferens: Present, Uterus: Absent",
+      "zh": "睾丸：存在，输精管：存在，子宫：缺失"
+    },
+    "E": {
+      "en": "Testes: Present, Vas deferens: Present, Uterus: Present",
+      "zh": "睾丸：存在，输精管：存在，子宫：存在"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "5-alpha reductase deficiency is an autosomal recessive condition that affects genotypic males (XY). This enzyme is responsible for converting testosterone to dihydrotestosterone (DHT). DHT is crucial for the virilization of external genitalia. In individuals with 5-alpha reductase deficiency, testosterone levels are normal, leading to the development of internal male structures (wolffian ducts differentiate into epididymis, vas deferens, and seminal vesicles) and regression of internal female structures (mullerian ducts regress due to anti-mullerian hormone). However, the external genitalia remain undervirilized, appearing predominantly female or ambiguous, with a small phallus, hypospadias, and a blind-ending vagina, often mistaken for female pseudohermaphroditism. The enlarged clitoris noted in the vignette is consistent with this undervirilization. The absence of condensed sex chromatin in somatic cells confirms a male karyotype (XY). Therefore, this patient, being a genotypic male with 5-alpha reductase deficiency, will have testes, vas deferens, and seminal vesicles (internal male structures), but absent Mullerian duct derivatives (uterus, fallopian tubes, proximal vagina) due to the action of anti-Mullerian hormone. \n\n(Choice A and B) These options describe individuals with absent testes, which is inconsistent with a genotypic male (XY) karyotype and the presence of internal male structures. Individuals with 5-alpha reductase deficiency have testes. \n(Choice C) This option describes the presence of testes but absent vas deferens and uterus. While the uterus would be absent, the vas deferens, derived from the wolffian ducts, would be present due to normal testosterone action. \n(Choice E) This option describes the presence of testes, vas deferens, and uterus. The uterus would be absent in a genotypic male due to the action of anti-Mullerian hormone. \n\nKey pearls: \n- 5-alpha reductase deficiency leads to undervirilization of external genitalia in genotypic males (XY) due to lack of DHT. \n- Internal male structures (vas deferens, epididymis, seminal vesicles) develop normally due to testosterone. \n- Internal female structures (uterus, fallopian tubes) regress normally due to anti-Mullerian hormone. \n- Patients often present with ambiguous genitalia or female-appearing external genitalia with an enlarged clitoris.",
+    "zh": "5-α还原酶缺乏症是一种常染色体隐性遗传病，影响基因型为男性（XY）的个体。这种酶负责将睾酮转化为二氢睾酮（DHT）。DHT对于外生殖器的男性化至关重要。在患有5-α还原酶缺乏症的个体中，睾酮水平正常，导致内部男性结构（米勒管分化为附睾、输精管和精囊）的发育和内部女性结构（米勒管因抗米勒管激素而退化）的退化。然而，外生殖器仍然未完全男性化，主要表现为女性或模棱两可，阴茎小，尿道下裂，阴道盲端，常被误认为是女性假两性畸形。短文中所述的阴蒂肥大与这种男性化不足一致。体细胞中浓缩的性染色质的缺失证实了男性核型（XY）。因此，该患者作为一名患有5-α还原酶缺乏症的基因型为男性，将有睾丸、输精管和精囊（内部男性结构），但由于抗米勒管激素的作用，米勒管衍生物（子宫、输卵管、近端阴道）缺失。\n\n（选项 A 和 B）这些选项描述了睾丸缺失的个体，这与基因型为男性（XY）的核型和内部男性结构的存在不一致。患有5-α还原酶缺乏症的个体有睾丸。\n（选项 C）此选项描述了睾丸存在，但输精管和子宫缺失。虽然子宫会缺失，但输精管源自米勒管，由于正常的睾酮作用，输精管会存在。\n（选项 E）此选项描述了睾丸、输精管和子宫的存在。由于抗米勒管激素的作用，子宫在基因型为男性的个体中会缺失。\n\n关键要点：\n- 5-α还原酶缺乏症导致基因型为男性（XY）的外生殖器男性化不足，原因是缺乏DHT。\n- 内部男性结构（输精管、附睾、精囊）由于睾酮而正常发育。\n- 内部女性结构（子宫、输卵管）由于抗米勒管激素而正常退化。\n- 患者常表现为生殖器模糊或女性外观的外生殖器，伴有阴蒂肥大。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of sexual differentiation in genotypic males with 5-alpha reductase deficiency. It assesses the knowledge of how hormonal deficiencies impact the development of internal and external genitalia, and the role of specific enzymes in this process.\n\nTo solve this question, one must first identify the patient as a genotypic male (XY) based on the absence of condensed sex chromatin. Then, recall the specific role of 5-alpha reductase in converting testosterone to DHT and its impact on external genitalia development. Finally, consider the development of internal male and female structures in the context of normal testosterone and anti-Mullerian hormone action, respectively.",
+    "zh": "此问题测试对患有5-α还原酶缺乏症的基因型为男性的性分化的理解。它评估了对激素缺乏如何影响内外生殖器的发育，以及特定酶在这种过程中的作用的知识。\n\n要解决这个问题，首先必须根据浓缩的性染色质的缺失将患者确定为基因型为男性（XY）。然后，回忆5-α还原酶在将睾酮转化为DHT方面的具体作用及其对外生殖器发育的影响。最后，分别在正常睾酮和抗米勒管激素作用的背景下，考虑内部男性和女性结构的发育。"
+  },
+  "tags": "5-alpha reductase deficiency; Sexual differentiation; Genotypic male; Dihydrotestosterone; Testosterone; Wolffian ducts; Mullerian ducts; Ambiguous genitalia; Endocrinology; Genetics",
+  "category": "Miscellanous",
+  "question_id": "107780",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Miscellanous 23\\107780",
+  "extracted_at": "2025-11-05T19:25:01.800369",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:14:11.926760",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

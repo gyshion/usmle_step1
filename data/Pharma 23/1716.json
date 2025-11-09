@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A large, multinational drug corporation conducts a phase I clinical trial to evaluate the safety profile and pharmacokinetic properties of a new drug designed to treat refractory epilepsy. Initial studies in animals showed that the drug undergoes extensive metabolism by the liver into glucuronidation byproducts that are primarily excreted by the kidneys. The curve below demonstrates the glucuronidation rate of the drug over a wide range of doses. {{exhibit_1}}",
+    "zh": "一家大型跨国制药公司进行了一项I期临床试验，以评估一种治疗难治性癫痫的新药的安全性特征和药代动力学特性。在动物身上的初步研究表明，该药物在肝脏中广泛代谢，转化为主要由肾脏排泄的葡萄糖醛酸化副产物。 下面的曲线显示了该药物在广泛剂量范围内的葡萄糖醛酸化速率。 {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most accurate statement about this drug's metabolism?",
+    "zh": "以下哪一项是关于该药物代谢的最准确的陈述？"
+  },
+  "options": {
+    "A": {
+      "en": "A constant proportion of the drug is metabolized past point 3",
+      "zh": "超过点3后，该药物的代谢比例保持恒定"
+    },
+    "B": {
+      "en": "Bioavailability of the drug is highest at point 1",
+      "zh": "该药物的生物利用度在点1时最高"
+    },
+    "C": {
+      "en": "Biotransformation of the drug ceases near point 2",
+      "zh": "药物的生物转化在点2附近停止"
+    },
+    "D": {
+      "en": "Metabolism begins to switch to zero-order kinetics near point 2",
+      "zh": "代谢开始向零级动力学转变，接近点2"
+    },
+    "E": {
+      "en": "The rate of drug metabolism is not dependent on dose before point 1",
+      "zh": "在点1之前，药物代谢的速率不依赖于剂量"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The drug under investigation is glucuronidated by the liver into water-soluble byproducts that can then be excreted by the kidney. The graph above shows how the RATE OF DRUG GLUCURONIDATION changes with increasing drug doses. At lower doses, the quantity of drug-glucuronide formed is directly proportional to the dose administered (ie, as more of the drug is administered, MORE DRUG-GLUCURONIDE IS PRODUCED). Because a FIXED PROPORTION of drug is converted to the metabolite, this early portion of the graph represents FIRST-ORDER KINETICS.\n\nAs the active sites on glucuronosyltransferase become saturated, the drug-glucuronide rate does not continue to rise with increasing doses of the substrate drug. At this point (2 on the graph), the kinetics change from first- to ZERO-ORDER KINETICS, and the graph levels out to a zero slope. With zero-order kinetics, a CONSTANT AMOUNT of drug is metabolized and eliminated per unit of time regardless of its concentration or dose.\n\nZero- and first-order kinetics can also be represented graphically by showing the decrease in drug concentration over time after a single dose. Zero-order metabolism is indicated by a straight line with negative slope (fixed amount eliminated per unit of time), whereas first-order kinetics manifest as an exponential decay curve (fixed proportion eliminated per unit of time).\n\n(Choice A) After point 3, the curve remains flat, indicating that a constant amount of drug is metabolized per unit of time regardless of the dose. As higher doses are administered, the proportion that is converted to the metabolite becomes smaller (ie, the proportion metabolized is non-constant after point 3).\n\n(Choice B) Bioavailability is the fraction of an administered drug that reaches the systemic circulation unchanged. It usually decreases with oral administration due to incomplete absorption and first-pass metabolism compared to parenteral administration. In this case, higher doses of the drug are likely to have greater bioavailability due to the saturation of hepatic metabolism.\n\n(Choice C) At point 2, biotransformation (ie, metabolism) of the drug begins to switch from first-order to zero-order kinetics due to enzyme saturation. However, drug metabolism does not stop.\n\n(Choice E) Before point 1, drug metabolism proceeds via first-order kinetics. Therefore, the drug metabolization rate increases as higher doses are administered.\n\nEducational objective:\nIn first-order kinetics, a constant fraction (or proportion) of drug is metabolized per unit of time, so the amount metabolized changes based on the serum concentration. In zero-order kinetics, a constant amount of drug is metabolized per unit of time, independent of serum levels.",
+    "zh": "研究中的药物在肝脏中被葡萄糖醛酸化，转化为水溶性副产物，然后可以通过肾脏排出。 上图显示了药物葡萄糖醛酸化速率如何随着药物剂量的增加而变化。 在较低剂量下，形成的药物-葡萄糖醛酸数量与给药剂量成正比（即，给药的药物越多，产生的药物-葡萄糖醛酸就越多）。 由于药物的固定比例转化为代谢物，图的这一早期部分代表一级动力学。\n\n随着葡萄糖醛酸转移酶上的活性位点饱和，药物-葡萄糖醛酸的速率不会随着底物药物剂量的增加而继续上升。 在这一点（图中的点2），动力学从一级动力学变为零级动力学，曲线趋于平缓，斜率为零。 对于零级动力学，无论其浓度或剂量如何，每单位时间都会代谢和消除恒定量的药物。\n\n零级和一级动力学也可以通过显示单剂量后药物浓度随时间的变化来以图形方式表示。 零级代谢由斜率为负的直线表示（每单位时间消除的固定量），而一级动力学表现为指数衰减曲线（每单位时间消除的固定比例）。\n\n（选项A）在点3之后，曲线保持平坦，表明每单位时间代谢的药物量恒定，与剂量无关。 随着施用更高剂量，转化为代谢物的比例变小（即，在点3之后，代谢比例不恒定）。\n\n（选项B）生物利用度是已给药药物到达全身循环而未改变的部分。 与肠外给药相比，口服给药时，由于吸收不完全和首过代谢，生物利用度通常会降低。 在这种情况下，由于肝脏代谢的饱和，更高剂量的药物可能具有更高的生物利用度。\n\n（选项C）在点2，由于酶饱和，药物的生物转化（即，代谢）开始从一级动力学转变为零级动力学。 然而，药物代谢并没有停止。\n\n（选项E）在点1之前，药物代谢通过一级动力学进行。 因此，药物代谢速率随着施用较高剂量而增加。\n\n教育目标：\n在一级动力学中，每单位时间代谢的药物的恒定部分（或比例），因此代谢的量取决于血清浓度。 在零级动力学中，每单位时间代谢的药物的恒定数量与血清水平无关。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of drug metabolism kinetics, specifically the transition from first-order to zero-order kinetics as enzyme saturation occurs. It assesses the ability to interpret a graph depicting drug glucuronidation rate versus drug dose.\n\nTo solve this question, one must analyze the provided graph to identify the regions representing first-order and zero-order kinetics. The point where the curve begins to plateau indicates enzyme saturation and the onset of zero-order kinetics, where a constant amount of drug is metabolized regardless of dose.",
+    "zh": "这个问题测试了对药物代谢动力学的理解，特别是当酶饱和发生时从一级动力学到零级动力学的转变。 它评估了解释描述药物葡萄糖醛酸化速率与药物剂量关系的图表的能力。\n\n要解决这个问题，必须分析所提供的图表，以识别代表一级动力学和零级动力学的区域。 曲线开始趋于平缓的点表示酶饱和以及零级动力学的开始，其中代谢的药物量恒定，与剂量无关。"
+  },
+  "tags": "Pharmacology; Drug metabolism and clearance; First-order kinetics; Zero-order kinetics; Enzyme saturation; Pharmacokinetics; Glucuronidation",
+  "category": "Pharma",
+  "question_id": "1716",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\1716",
+  "extracted_at": "2025-11-05T19:45:09.296326",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:47:13.030856",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 52-year-old man comes to the office with 3 weeks of cough, night sweats, and occasional hemoptysis. The patient also has type 2 diabetes mellitus and hypertension. He emigrated from Vietnam 15 years ago to start a job as an associate professor at a university. He has a 20 pack-year smoking history but quit 5 years ago. Sputum cultures grown on a selective medium demonstrate mycobacteria that grow in parallel chains forming serpentine cords under microscopy. This observed growth pattern most strongly correlates with which of the following bacterial characteristics? {{exhibit_1}}",
+    "zh": "一名52岁男性来到诊所，主诉咳嗽、盗汗和偶发性咯血，持续3周。患者还有2型糖尿病和高血压病史。他15年前从越南移民过来，开始在一所大学担任副教授。他有20包/年的吸烟史，但已戒烟5年。在选择性培养基上培养的痰培养物显示分枝杆菌在显微镜下呈平行链生长，形成蛇形索。这种观察到的生长模式与以下哪种细菌特征最密切相关？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "This observed growth pattern most strongly correlates with which of the following bacterial characteristics?",
+    "zh": "这种观察到的生长模式与以下哪种细菌特征最密切相关？"
+  },
+  "options": {
+    "A": {
+      "en": "Acid-fastness",
+      "zh": "抗酸性"
+    },
+    "B": {
+      "en": "Antibiotic resistance",
+      "zh": "耐药性"
+    },
+    "C": {
+      "en": "Pigmentation",
+      "zh": "色素沉着"
+    },
+    "D": {
+      "en": "Replication rate",
+      "zh": "复制速率"
+    },
+    "E": {
+      "en": "Virulence",
+      "zh": "毒力"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Mycobacterium tuberculosis has a classical morphologic appearance under microscopy. The cells are arranged in long, slender, serpentine corcs due to the presence of a hydrophobic surface glycolipid called cord factor.\n\nCord factor is composed of two mycolic acid molecules bound to the disaccharide trehalose (trehalose dimycolate). In vivo, cord factor forms cylindrical micelles that surround the organism and prevent macrophage-mediated destruction within the phagolysosome. It also forms a highly toxic crystalline monolayer on hydrophobic surfaces (oil-water/air-water interface [eg, edge of cavitation]) that helps drive the formation of caseating granulomas (a hallmark of M tuberculosis infection).\n\n(Choice A) Mycolic acid is the primary component of the cell wall of all Mycobacterium species and is the source of their acid-fastness (ability to retain dye in the presence of acid). Although mycolic acid is a component of cord factor, it alone does not cause M tuberculosis to grow in a serpentine pattern. Other less virulent mycobacteria (eg, M avium) are acid-fast but have lower concentrations of cord factor and do not typically form serpentine chains.\n\n(Choice B) M tuberculosis antibiotic resistance is due largely to mutations in the genes responsible for the synthesis of mycolic acid (isoniazid) and mycobacterial RNA polymerase (rifampin). Antibiotic resistance does not cause the bacteria to grow in a serpentine pattern.\n\n(Choice C) Pigment production is characteristic of some mycobacteria, especially nontuberculous organisms such as M marinum, but is not associated with cord formation.\n\n(Choice D) The slow growth rate of M tuberculosis contributes to the need for prolonged antibiotic regimens due to decreased antibiotic responsiveness. However, it does not affect the ability of the organism to form serpentine cords.\n\nEducational objective:\nMycobacterium tuberculosis grows in long, serpentine cords due to the presence of cord factor, a surface glycolipid, on the cell wall. Cord factor is a primary virulence factor of M tuberculosis; it protects the bacteria from digestion by macrophages and also leads to the formation of caseating granulomas.",
+    "zh": "结核分枝杆菌在显微镜下具有典型的形态学外观。细胞呈长而细的蛇形索状排列，这归因于存在一种称为索状因子的疏水性表面糖脂。\n\n索状因子由两个与二糖海藻糖（海藻糖二肉豆蔻酸酯）结合的分枝菌酸分子组成。在体内，索状因子形成包围病原体的圆柱形胶束，阻止巨噬细胞在吞噬溶酶体内的破坏。它还在疏水性表面（油水/气水界面[例如，空腔边缘]）上形成剧毒的结晶单层，这有助于驱动干酪样肉芽肿的形成（结核分枝杆菌感染的标志）。\n\n(选项 A) 分枝菌酸是所有分枝杆菌物种细胞壁的主要成分，是其抗酸性（在酸存在下保留染料的能力）的来源。尽管分枝菌酸是索状因子的一部分，但它本身并不会导致结核分枝杆菌以蛇形模式生长。其他毒力较低的分枝杆菌（例如，鸟分枝杆菌）具有抗酸性，但索状因子的浓度较低，通常不形成蛇形链。\n\n(选项 B) 结核分枝杆菌的耐药性主要归因于负责分枝菌酸（异烟肼）和分枝杆菌RNA聚合酶（利福平）合成的基因突变。耐药性不会导致细菌以蛇形模式生长。\n\n(选项 C) 色素产生是某些分枝杆菌的特征，尤其是非结核分枝杆菌，如海产分枝杆菌，但与索状物的形成无关。\n\n(选项 D) 结核分枝杆菌的生长速度慢，这导致需要延长抗生素治疗方案，因为抗生素的反应降低。但是，它不会影响病原体形成蛇形索的能力。\n\n教育目标：\n结核分枝杆菌由于细胞壁上存在索状因子（一种表面糖脂）而以长而蛇形的索状物生长。索状因子是结核分枝杆菌的主要毒力因子；它保护细菌免受巨噬细胞的消化，并且还可以导致干酪样肉芽肿的形成。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Mycobacterium tuberculosis virulence factors, specifically the role of cord factor in serpentine cord formation and its association with virulence. It also assesses understanding of the pathogenesis of tuberculosis and its microscopic appearance.\n\nTo solve this question, recall that serpentine cord formation is a characteristic microscopic finding in Mycobacterium tuberculosis. Remember that cord factor, a surface glycolipid, is responsible for this arrangement and is a key virulence factor that prevents macrophage-mediated destruction.",
+    "zh": "这个问题考察了对结核分枝杆菌毒力因子的了解，特别是索状因子在蛇形索形成中的作用及其与毒力的相关性。它还评估了对结核病发病机制及其微观外观的理解。\n\n要解决这个问题，请回忆一下蛇形索的形成是结核分枝杆菌的特征性显微镜下发现。请记住，索状因子（一种表面糖脂）是这种排列的原因，并且是一种防止巨噬细胞介导的破坏的关键毒力因子。"
+  },
+  "tags": "Mycobacterium tuberculosis; Tuberculosis; Cord factor; Virulence; Acid-fastness; Microbiology; Infectious disease; Pulmonary disease; Serpentine cords",
+  "category": "Chest",
+  "question_id": "1216",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1216",
+  "extracted_at": "2025-11-05T11:36:57.931405",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:33:55.233735",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

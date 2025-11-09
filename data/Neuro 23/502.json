@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old woman, gravida 2 para 1, comes to the office for a routine prenatal visit. Her first child was born with a hydrocele and syndactyly of the first and second toes. The patient has no significant medical conditions and takes no medications except for a multivitamin. Examination shows clear lungs and normal S1 and S2 heart sounds. The abdomen is soft and nontender. Uterine size, fetal movements, and fetal cardiac activity are all within normal limits. The patient undergoes an amniocentesis at 18 weeks gestation. Amniotic fluid analysis shows an increased level of acetylcholinesterase. {{exhibit_1}}",
+    "zh": "一位35岁的女性，经产妇2次，已生育1次，前来就诊进行常规产前检查。她的第一个孩子出生时患有鞘膜积液和第一和第二个脚趾并指。患者无重大疾病，除复合维生素外，未服用任何药物。体格检查显示肺部清晰，S1和S2心音正常。腹部柔软且无压痛。子宫大小、胎动和胎心活动均在正常范围内。患者在妊娠18周时接受羊膜穿刺术。羊水分析显示乙酰胆碱酯酶水平升高。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "This patient's amniocentesis results most likely suggest failure of which of the following processes?",
+    "zh": "该患者的羊膜穿刺结果最可能提示以下哪个过程的失败？"
+  },
+  "options": {
+    "A": {
+      "en": "Epithelial cell apoptosis in the embryonic duodenum",
+      "zh": "胚胎十二指肠上皮细胞凋亡"
+    },
+    "B": {
+      "en": "Fusion of the edges of the neural plate",
+      "zh": "神经板边缘的融合"
+    },
+    "C": {
+      "en": "Involution of the thyroglossal duct",
+      "zh": "甲状舌管的退化"
+    },
+    "D": {
+      "en": "Meiotic disjunction of chromosome 21",
+      "zh": "21号染色体的减数分裂不分离"
+    },
+    "E": {
+      "en": "Migration of neural crest cells",
+      "zh": "神经嵴细胞的迁移"
+    },
+    "F": {
+      "en": "Obliteration of the processus vaginalis",
+      "zh": "阴道鞘突的闭锁"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "NTDs occur due to failed fusion of the neural plate edges during the fourth week of fetal development. Fusion begins in the cervical region and proceeds toward the cranial and caudal ends of the neural tube (ie, rostral and caudal neuropores). Failed rostral neuropore closure causes anencephaly, and failed caudal neuropore closure causes spina bifida. A persistent opening between the neural tube and the amniotic cavity allows leakage of AFP and AChE into the amniotic fluid. AFP can also cross the placenta and become elevated in the maternal serum.\n\n(Choice A) Duodenal atresia results from impaired recanalization of the duodenum due to failure of epithelial cell apoptosis. It causes elevated amniotic fluid volume but not elevated AChE on amniocentesis. The syndactyly of the patient's first child is also an example of failed apoptosis of mesenchyme between the digits.\n\n(Choices C, E, and F) Failed involution of the thyroglossal tract can cause a persistent thyroglossal duct cyst. Hirschsprung disease involves failed neural crest cell migration into the sigmoid colon/rectum. Failure of the processus vaginalis to obliterate can lead to congenital hydrocele or indirect inguinal hernia. None of these conditions are associated with increased AChE in the amniotic fluid because they do not involve a persistent opening between the fetal neural tube and the amniotic cavity.\n\n(Choice D) Advanced maternal age is a risk factor for Down syndrome (meiotic nondisjunction of chromosome 21), which presents with low AFP and normal AChE levels in the amniotic fluid. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "神经管缺陷（NTDs）的发生是由于胎儿发育第四周神经板边缘融合失败所致。融合始于颈部，并向神经管的颅端和尾端（即，头端和尾端神经孔）延伸。头端神经孔闭合失败会导致无脑畸形，尾端神经孔闭合失败会导致脊柱裂。神经管和羊膜腔之间的持续开口允许AFP和AChE泄漏到羊水中。AFP也可以穿过胎盘并在母体血清中升高。\n\n(选项 A) 十二指肠闭锁是由上皮细胞凋亡失败导致十二指肠复管受损引起的。它会导致羊水增多，但羊膜穿刺时AChE不会升高。该患者第一个孩子的并指也是数字间充质细胞凋亡失败的一个例子。\n\n(选项 C、E 和 F) 甲状舌管退化失败可导致持续性甲状舌管囊肿。Hirschsprung 病涉及神经嵴细胞向乙状结肠/直肠迁移失败。阴道鞘突闭锁失败可导致先天性鞘膜积液或间接腹股沟疝。这些情况均与羊水中AChE升高无关，因为它们不涉及胎儿神经管和羊膜腔之间的持续开口。\n\n(选项 D) 高龄产妇是唐氏综合征（21号染色体的减数分裂不分离）的危险因素，表现为羊水中AFP降低和AChE水平正常。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of neural tube defects (NTDs) and their association with elevated acetylcholinesterase (AChE) levels in amniotic fluid during prenatal screening. It also requires understanding of the embryological processes involved in neural tube closure.\n\nTo solve this question, recognize that elevated AChE in amniotic fluid is a marker for NTDs. Recall that NTDs result from failure of the neural plate edges to fuse during fetal development. Eliminate options related to other embryological processes or genetic conditions that do not directly cause elevated AChE levels in amniotic fluid.",
+    "zh": "本题考察对神经管缺陷（NTDs）及其与产前筛查期间羊水中乙酰胆碱酯酶（AChE）水平升高的关联性的认识。它还需要理解神经管闭合所涉及的胚胎学过程。\n\n要解决这个问题，需要认识到羊水中AChE升高是NTDs的标志。回顾一下，NTDs是由于胎儿发育过程中神经板边缘融合失败所致。排除与不直接导致羊水中AChE水平升高的其他胚胎学过程或遗传病相关的选项。"
+  },
+  "tags": "Neural tube defects; Amniocentesis; Acetylcholinesterase; Embryology; Neural plate fusion; Spina bifida; Anencephaly; Prenatal screening; Fetal development",
+  "category": "Neuro",
+  "question_id": "502",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\502",
+  "extracted_at": "2025-11-05T15:35:09.140869",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:26:50.165452",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

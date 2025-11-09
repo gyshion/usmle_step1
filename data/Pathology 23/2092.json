@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 36-year-old woman comes to the office after she noticed some lumps under her arm while getting dressed. She says she feels fine and has no other symptoms. Her medical history is significant for hypothyroidism. Family history is negative. On physical examination, her body mass index is 24 kg/m^2. Breast examination shows nontender left axillary lymphadenopathy. The patient is sent for an ultrasound-guided biopsy. Microscopy of the tissue specimen shows clumps of cells that have positive immunohistochemical staining for cytokeratin.",
+    "zh": "一名36岁的女性来到诊所就诊，此前她注意到自己在穿衣时腋下出现了一些肿块。她说自己感觉良好，没有其他症状。她的病史有甲状腺功能减退。家族史阴性。体格检查显示，她的身体质量指数为24 kg/m^2。乳房检查显示左侧腋窝淋巴结肿大，无压痛。患者被送去做超声引导下的活检。组织标本的显微镜检查显示细胞簇对细胞角蛋白的免疫组化染色呈阳性。"
+  },
+  "question": {
+    "en": "These cells most likely belong to which of the following lineages?",
+    "zh": "这些细胞最有可能属于以下哪种谱系？"
+  },
+  "options": {
+    "A": {
+      "en": "Epithelial",
+      "zh": "上皮"
+    },
+    "B": {
+      "en": "Lymphoid",
+      "zh": "淋巴样"
+    },
+    "C": {
+      "en": "Mesenchymal",
+      "zh": "间质"
+    },
+    "D": {
+      "en": "Myeloid",
+      "zh": "髓样"
+    },
+    "E": {
+      "en": "Neuroendocrine",
+      "zh": "神经内分泌"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Cytokeratins are proteins that help form the keratin-containing intermediate filaments that make up the cytoskeleton of almost all epithelial cells. Keratin proteins are highly abundant in exposed stratified squamous epithelium such as the epidermis and oral mucosa and are less abundant but still present in simple epithelium such as that found in the liver, gut, and pancreas. As a result, cytokeratin is a commonly used immunohistochemical marker for epithelial-derived tumors, such as breast cancer. Keratin is also the major protein component of hair and nails.\n\nKeratin is composed of large amounts of alanine and glycine that, because of their small structure, are able to coil tightly and form large numbers of hydrogen bonds. In addition, keratin contains a significant amount of the sulfur-containing amino acid cysteine, and formation of disulfide bonds between cysteine residues gives additional rigidity and toughness to the protein.\n\n(Choice B) CD20 is a marker used to identify B lymphocytes, and CD3 is used to identify T lymphocytes.\n\n(Choice C) Vimentin is an intermediate filament present in mesenchymal tissue and can be used to detect sarcomas.\n\n(Choice D) Myeloperoxidase is a peroxidase enzyme that can be used as a marker for myeloid cells such as those in acute myeloid leukemia.\n\n(Choice E) Chromogranin A and synaptophysin are markers used for neuroendocrine tumors.\n\nEducational objective:\nCytokeratin is a commonly used immunohistochemical marker of epithelial cell carcinomas.\n\nReferences\n• Recommendations for human epidermal growth factor receptor 2 testing in breast cancer: American Society of Clinical Oncology/College of American Pathologists clinical practice guideline update.",
+    "zh": "细胞角蛋白是构成角蛋白中间丝的蛋白质，有助于构成几乎所有上皮细胞的细胞骨架。角蛋白在暴露的复层鳞状上皮（如表皮和口腔黏膜）中含量很高，在单层上皮（如肝脏、肠道和胰腺）中含量较低，但仍然存在。因此，细胞角蛋白是上皮源性肿瘤（如乳腺癌）常用的免疫组化标志物。角蛋白也是头发和指甲的主要蛋白质成分。\n\n角蛋白由大量的丙氨酸和甘氨酸组成，由于其结构小，能够紧密盘绕并形成大量的氢键。此外，角蛋白还含有大量的含硫氨基酸半胱氨酸，半胱氨酸残基之间二硫键的形成赋予蛋白质额外的刚性和韧性。\n\n(选项B) CD20是一种用于识别B淋巴细胞的标志物，而CD3用于识别T淋巴细胞。\n\n(选项C) 波形蛋白是存在于间充质组织中的中间丝，可用于检测肉瘤。\n\n(选项D) 髓过氧化物酶是一种过氧化物酶，可用作髓样细胞（如急性髓细胞白血病中的髓样细胞）的标志物。\n\n(选项E) 嗜铬蛋白A和突触结合蛋白是用于神经内分泌肿瘤的标志物。\n\n教育目标：\n细胞角蛋白是上皮细胞癌常用的免疫组化标志物。\n\n参考文献\n• 推荐用于乳腺癌人类表皮生长因子受体2检测：美国临床肿瘤学会/美国病理学家学会临床实践指南更新。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of immunohistochemical markers and their association with specific cell lineages, particularly the significance of cytokeratin staining in identifying epithelial-derived tumors.\n\nTo solve this question, one must recognize that cytokeratin is a hallmark protein of epithelial cells and is therefore a key marker for identifying tumors originating from epithelial tissues. By understanding the function and location of cytokeratins, one can differentiate between epithelial and other cell types like lymphoid, mesenchymal, myeloid, or neuroendocrine cells.",
+    "zh": "这个问题测试对免疫组化标志物及其与特定细胞谱系之间的关系的理解，特别是细胞角蛋白染色在识别上皮源性肿瘤中的意义。\n\n为了解决这个问题，必须认识到细胞角蛋白是上皮细胞的标志性蛋白质，因此是识别起源于上皮组织的肿瘤的关键标志物。通过了解细胞角蛋白的功能和位置，可以区分上皮细胞和其他细胞类型，如淋巴样、间质、髓样或神经内分泌细胞。"
+  },
+  "tags": "Cytokeratin; Immunohistochemistry; Epithelial cells; Epithelial-derived tumors; Breast cancer; Pathology; Cell lineages",
+  "category": "Pathology",
+  "question_id": "2092",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\2092",
+  "extracted_at": "2025-11-05T19:44:24.813453",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:46:04.217217",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

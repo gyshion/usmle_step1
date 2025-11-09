@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 70-year-old man is brought to the emergency department due to sudden-onset weakness in his right arm and leg. Although he can speak, he cannot pronounce words clearly. Blood pressure is 170/96 mm Hg and pulse is 80/min. The patient is alert and oriented. Neurologic examination shows 3/5 strength in both right upper and lower extremities. When the patient is asked to stick out his tongue, it deviates to the left. Sensory examination shows no abnormalities. Which of the following is the most likely location of this patient's brain injury? {{exhibit_1}}",
+    "zh": "一名70岁男性因右臂和右腿突然发病无力而被送往急诊科。虽然他能说话，但无法清晰地发音。血压为170/96 mmHg，脉搏为80次/分钟。患者意识清晰，定向力良好。神经系统检查显示右上肢和右下肢肌力均为3/5。当病人被要求伸出舌头时，舌头向左偏斜。感觉检查未见异常。以下哪项最可能是该患者脑损伤的部位？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely location of this patient's brain injury?",
+    "zh": "以下哪项最可能是该患者脑损伤的部位？"
+  },
+  "options": {
+    "A": {
+      "en": "Left lateral medulla",
+      "zh": "左侧延髓外侧"
+    },
+    "B": {
+      "en": "Left medial medulla",
+      "zh": "左侧延髓内侧"
+    },
+    "C": {
+      "en": "Left precentral gyrus",
+      "zh": "左侧中央前回"
+    },
+    "D": {
+      "en": "Right lateral medulla",
+      "zh": "右侧延髓外侧"
+    },
+    "E": {
+      "en": "Right medial medulla",
+      "zh": "右侧延髓内侧"
+    },
+    "F": {
+      "en": "Right precentral gyrus",
+      "zh": "右侧中央前回"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The patient presents with right-sided hemiparesis and dysarthria, along with a leftward tongue deviation on protrusion. The hemiparesis is contralateral to the brain lesion, indicating a lesion in the left hemisphere. The dysarthria and tongue deviation are related to the hypoglossal nerve (CN XII). The hypoglossal nerve nucleus is located in the medulla, and its fibers exit the brainstem and travel to the tongue. When the tongue is protruded, the genioglossus muscle, innervated by the hypoglossal nerve, is responsible for pushing the tongue forward. If the hypoglossal nerve on one side is weak, the stronger, unopposed action of the genioglossus muscle on the intact side will push the tongue toward the weak side. Therefore, a leftward tongue deviation indicates a lesion affecting the left hypoglossal nerve or its nucleus. The hypoglossal nerve nucleus is located in the MEDULLA. The fibers of the hypoglossal nerve also pass through the medial medulla. Therefore, a lesion in the left medial medulla is the most likely cause of the patient's symptoms. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\n(Choices A and D) A stroke in the lateral medulla classically results in Wallenberg syndrome, which is characterized by vertigo, nystagmus, ataxia, decreased pain and temperature sensation on the ipsilateral face, and contralateral body, Horner syndrome, and dysphagia. Motor weakness is typically absent. Therefore, a lesion in the lateral medulla is unlikely.\n\n(Choices C and F) The precentral gyrus is the primary motor cortex. A lesion here would cause contralateral hemiparesis. However, it would not typically cause dysarthria or tongue deviation unless the lesion was very large and involved the corticobulbar tract. Furthermore, the tongue deviation would be contralateral to the lesion (i.e., right tongue deviation with a left precentral gyrus lesion). Therefore, a lesion in the precentral gyrus is unlikely.\n\n(Choice E) A stroke in the right medial medulla would cause left-sided hemiparesis and right-sided tongue deviation. This is the opposite of the patient's presentation. Therefore, a lesion in the right medial medulla is unlikely.\n\nKey Pearls:\n- Contralateral hemiparesis suggests a lesion in the contralateral hemisphere.\n- Ipsilateral cranial nerve deficits with contralateral motor/sensory deficits suggest a brainstem lesion (crossed signs).\n- Tongue deviation on protrusion is toward the side of the weak hypoglossal nerve.\n- The hypoglossal nerve nucleus is in the medulla.",
+    "zh": "患者表现为右侧偏瘫和构音障碍，以及伸舌时舌头向左偏斜。偏瘫与脑损伤对侧，表明病变位于左半球。构音障碍和舌头偏斜与舌下神经 (CN XII) 相关。舌下神经核位于延髓，其纤维从脑干发出并延伸至舌。当舌头伸出时，舌肌，由舌下神经支配，负责将舌头向前推。如果一侧的舌下神经无力，健侧的舌肌更强，不受抑制的作用会将舌头推向无力的一侧。因此，舌头向左偏斜表明病变影响左侧舌下神经或其核。舌下神经核位于延髓。舌下神经的纤维也穿过延髓内侧。因此，左侧延髓内侧的病变最有可能导致患者的症状。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\n（选项 A 和 D）延髓外侧的卒中通常导致 Wallenberg 综合征，其特征是眩晕、眼球震颤、共济失调、同侧面部和对侧身体的疼痛和温度感觉下降、Horner 综合征和吞咽困难。通常不存在运动无力。因此，延髓外侧的病变不太可能。\n\n（选项 C 和 F）中央前回是主要的运动皮质。这里的病变会导致对侧偏瘫。但是，除非病变非常大并涉及皮质脑干束，否则通常不会引起构音障碍或舌头偏斜。此外，舌头偏斜将与病变对侧（即，左侧中央前回病变时右侧舌头偏斜）。因此，中央前回的病变不太可能。\n\n（选项 E）右侧延髓内侧的卒中会导致左侧偏瘫和右侧舌头偏斜。这与患者的表现相反。因此，右侧延髓内侧的病变不太可能。\n\n关键要点：\n- 对侧偏瘫提示对侧半球的病变。\n- 同侧脑神经功能缺损伴对侧运动/感觉功能缺损提示脑干病变（交叉征）。\n- 伸舌时舌头偏向无力舌下神经侧。\n- 舌下神经核位于延髓。"
+  },
+  "summary": {
+    "en": "This question tests the ability to localize a neurological lesion based on a combination of motor deficits (hemiparesis) and cranial nerve dysfunction (dysarthria and tongue deviation). It specifically assesses understanding of \"crossed signs\" and the neuroanatomy of the brainstem, particularly the medulla.\n\nTo solve this question, one must first determine the side of the lesion based on the contralateral hemiparesis. Then, analyze the cranial nerve deficits to pinpoint the location within the brainstem. Recognizing that tongue deviation is ipsilateral to the hypoglossal nerve lesion and that the hypoglossal nerve nucleus is in the medulla is crucial for accurate localization.",
+    "zh": "此题测试根据运动功能缺损（偏瘫）和脑神经功能障碍（构音障碍和舌偏斜）定位神经系统病变的能力。它特别评估对“交叉征”以及脑干（特别是延髓）神经解剖学的理解。\n\n要解决此题，首先必须根据对侧偏瘫确定病变的侧别。然后，分析脑神经功能缺损以确定脑干内的位置。认识到舌偏斜与舌下神经病变同侧，并且舌下神经核位于延髓，对于准确的定位至关重要。"
+  },
+  "tags": "Stroke localization; Brainstem stroke; Medulla; Hypoglossal nerve; Hemiparesis; Dysarthria; Crossed signs; Neurology",
+  "category": "Neuro",
+  "question_id": "105531",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\105531",
+  "extracted_at": "2025-11-05T19:30:52.102351",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:30:16.606115",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

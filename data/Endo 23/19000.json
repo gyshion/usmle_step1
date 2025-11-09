@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 40-year-old man comes to the office due to erectile dysfunction and loss of libido. The patient's history is notable for Hodgkin lymphoma that was treated with chemotherapy. Physical examination is normal except for small testes. Laboratory evaluation shows consistently low total and free early morning testosterone levels and elevated serum LH. Transdermal testosterone therapy is prescribed. ",
+    "zh": "一名40岁男性因勃起功能障碍和性欲减退前来就诊。患者病史显示曾接受化疗治疗霍奇金淋巴瘤。体格检查正常，除睾丸偏小外。实验室评估显示持续性总睾酮和游离睾酮晨间水平偏低，血清促黄体生成素（LH）升高。处方经皮睾酮治疗。"
+  },
+  "question": {
+    "en": "Which of the following should be periodically monitored during this patient's treatment?",
+    "zh": "在对该患者进行治疗期间，应定期监测以下哪项指标？"
+  },
+  "options": {
+    "A": {
+      "en": "ECG",
+      "zh": "心电图（ECG）"
+    },
+    "B": {
+      "en": "Hematocrit",
+      "zh": "血细胞比容"
+    },
+    "C": {
+      "en": "Serum cortisol",
+      "zh": "血清皮质醇"
+    },
+    "D": {
+      "en": "Serum creatinine",
+      "zh": "血清肌酐"
+    },
+    "E": {
+      "en": "Serum TSH and thyroxine",
+      "zh": "血清促甲状腺激素（TSH）和甲状腺素"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has HYPOGONADISM presenting with erectile dysfunction and loss of libido associated with a low serum testosterone level. Other common manifestations of hypogonadism include fatigue, loss of muscle mass, and decreased bone density. Hypogonadism is a common complication of cytotoxic chemotherapy (eg, cyclophosphamide) in long-term cancer survivors. TESTOSTERONE REPLACEMENT THERAPY (TRT) is indicated for men with symptoms of hypogonadism and persistently low serum testosterone levels.\n\nHowever, testosterone has trophic effects on the prostate, mediated by conversion to dihydrotestosterone by 5-alpha reductase in local tissues. TRT is associated with increased prostate volume, a rise in serum prostate-specific antigen (PSA), and a possible increase in the risk for prostate cancer. PSA should be measured prior to initiation of therapy and periodically thereafter.\n\nIn addition, TRT can induce ERYTHROCYTOSIS, possibly due to suppression of hepcidin and increased intestinal iron absorption. This can lead to increased blood viscosity and an elevated risk for thromboembolism. Therefore, TRT should not be initiated in patients with a baseline hematocrit >50%, and hematocrit should be followed regularly during treatment.\n\n(Choice A) Some experts believe there is an increased risk of cardiovascular events associated with TRT and patients should be advised of this possibility. However, testing (eg, ECG) in asymptomatic patients is not necessary.\n\n(Choices C and E) Patients with central/secondary hypogonadism (ie, low testosterone with low or inappropriately normal LH) should be tested for deficiencies in other hypothalamic-pituitary systems (eg, TSH + serum thyroxine, morning cortisol). However, this patient has an elevated LH level consistent with primary hypogonadism, making these additional tests unnecessary.\n\n(Choice D) Because renal toxicity is not a major concern with TRT, renal function does not need to be monitored.",
+    "zh": "该患者患有性腺功能减退症，表现为勃起功能障碍和性欲减退，并伴有低血清睾酮水平。性腺功能减退症的其他常见表现包括疲劳、肌肉质量下降和骨密度降低。对于长期癌症生存者，细胞毒性化疗（例如，环磷酰胺）是性腺功能减退症的常见并发症。对于有性腺功能减退症症状且血清睾酮水平持续偏低的男性，应进行睾酮替代治疗（TRT）。\n\n然而，睾酮对前列腺具有营养作用，这通过局部组织中5-α还原酶转化为双氢睾酮来实现。TRT与前列腺体积增大、血清前列腺特异性抗原（PSA）升高以及前列腺癌风险增加相关。应在治疗开始前和之后定期测量PSA。\n\n此外，TRT可诱导红细胞增多症，这可能是由于抑制铁调素和增加肠道铁吸收所致。这可能导致血液粘度增加和血栓栓塞风险升高。因此，对于基线血细胞比容>50%的患者，不应开始TRT治疗，并且应在治疗期间定期监测血细胞比容。\n\n（选项A）一些专家认为，TRT与心血管事件的风险增加有关，应告知患者这种可能性。然而，对于无症状患者，无需进行检测（例如，心电图）。\n\n（选项C和E）对于患有中枢性/继发性性腺功能减退症（即，睾酮低且LH低或不恰当地正常）的患者，应检查其他下丘脑-垂体系统的功能缺陷（例如，TSH +血清甲状腺素，晨间皮质醇）。然而，该患者的LH水平升高，与原发性性腺功能减退症相符，因此这些额外的检查是不必要的。\n\n（选项D）由于TRT并非主要的肾毒性问题，因此无需监测肾功能。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of testosterone replacement therapy and its potential adverse effects, specifically erythrocytosis. It also assesses understanding of the monitoring required during testosterone therapy.\n\nThe key to solving this question is recognizing that testosterone therapy can lead to erythrocytosis, which necessitates monitoring of the hematocrit. Understanding the indications and contraindications of testosterone therapy is also helpful.",
+    "zh": "本题考察对睾酮替代治疗及其潜在不良反应（特别是红细胞增多症）的了解。同时也评估了对睾酮治疗期间所需监测的理解。\n\n解决此问题的关键在于认识到睾酮治疗可导致红细胞增多症，因此需要监测血细胞比容。了解睾酮治疗的适应症和禁忌症也很有帮助。"
+  },
+  "tags": "Hypogonadism; Testosterone replacement therapy; Erythrocytosis; Hematocrit; Endocrinology; Sexual dysfunction; Chemotherapy",
+  "category": "Endo",
+  "question_id": "19000",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\19000",
+  "extracted_at": "2025-11-05T14:03:57.450910",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:39:10.522515",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

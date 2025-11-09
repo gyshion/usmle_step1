@@ -1,0 +1,55 @@
+{
+  "question_stem": {
+    "en": "Researchers are interested in the association between colorectal carcinoma and nonsteroidal anti-inflammatory drug use. They first interview a group of patients with biopsy-proven colorectal carcinoma and then interview a group consisting of the patients' neighbors who are of similar age and race. The analysis is based on comparing the results of pairs of individuals (one from each of the 2 groups) who have similar characteristics. This design technique best helps address which of the following potential problems with this study?",
+    "zh": "研究人员对结直肠癌与非甾体抗炎药（NSAIDs）使用之间的关联感兴趣。他们首先采访了一组经活检证实的结直肠癌患者，然后采访了一组由患者的邻居组成的、年龄和种族相似的人群。分析基于比较具有相似特征的个体对（每组一个）的结果。这种设计技术最能帮助解决这项研究的以下哪个潜在问题？"
+  },
+  "question": {
+    "en": "This design technique best helps address which of the following potential problems with this study?",
+    "zh": "这种设计技术最能帮助解决这项研究的以下哪个潜在问题？"
+  },
+  "options": {
+    "A": {
+      "en": "Ascertainment bias",
+      "zh": "检出偏倚"
+    },
+    "B": {
+      "en": "Confounding",
+      "zh": "混杂"
+    },
+    "C": {
+      "en": "Observer bias",
+      "zh": "观察者偏倚"
+    },
+    "D": {
+      "en": "Recall bias",
+      "zh": "回忆偏倚"
+    },
+    "E": {
+      "en": "Selection bias",
+      "zh": "选择偏倚"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Matching is a method generally used in the design stage of case-control studies to control confounding (ie, when a perceived association between an exposure and an outcome is actually explained by a confounding variable associated with both the exposure and the outcome). The initial step in matching involves selecting variables that could be confounders (eg, age, race). Cases and controls are then selected based on the matching variables so that both groups have a SIMILAR DISTRIBUTION in accordance with the variables.\n\nIn this scenario, the \"cases\" (patients with colorectal cancer) were matched with neighborhood \"controls\" of similar age and race. Selecting neighbors as controls has another advantage of matching the cases to controls by variables that are difficult to measure (eg, socioeconomic status, environmental factors). Gender and smoking status are other common confounders.\n\n(Choices A, C, D, and E) OBSERBER BIAS and ASCERTAINMENT BIAS result from mislabeling exposed/unexposed or cases/controls. RECALL BIAS could be a limitation of this study as the interviewed participants with colorectal cancer may be more likely to recall certain exposures. SELECTION BIAS is a potential problem in this study because the controls selected may not reflect the exposure experience of the general population. However, although these biases may be present, matching best addresses confounding rather than any of these biases.\n\nEducational objective: Matching is used in case-control studies in order to control confounding. Matching variables should always be the potential confounders of the study (eg, age, race). Cases and controls are then selected based on the matching variables so that both groups have a similar distribution in accordance with the variables.",
+    "zh": "配对是通常在病例对照研究的设计阶段使用的一种方法，用于控制混杂（即，当观察到的暴露与结果之间的关联实际上是由同时与暴露和结果相关的混杂变量解释时）。配对的初始步骤包括选择可能成为混杂因素的变量（例如，年龄、种族）。然后根据配对变量选择病例和对照，以便两组在这些变量上具有相似的分布。\n\n在这种情况下，“病例”（结直肠癌患者）与年龄和种族相似的邻居“对照”进行了匹配。选择邻居作为对照具有另一个优势，即通过难以衡量的变量（例如，社会经济地位、环境因素）将病例与对照进行匹配。性别和吸烟状况是其他常见的混杂因素。\n\n（选项 A、C、D 和 E）观察者偏倚和检出偏倚源于对暴露/未暴露或病例/对照的错误标记。回忆偏倚可能是这项研究的一个局限性，因为接受采访的结直肠癌患者可能更容易回忆起某些暴露。选择偏倚是这项研究中一个潜在的问题，因为所选的对照可能无法反映一般人群的暴露经历。然而，尽管可能存在这些偏倚，但配对最能解决混杂问题，而不是这些偏倚中的任何一个。\n\n教育目标：配对用于病例对照研究中以控制混杂。配对变量应始终是研究的潜在混杂因素（例如，年龄、种族）。然后根据配对变量选择病例和对照，以便两组在这些变量上具有相似的分布。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of study design and the control of confounding variables in epidemiological research, specifically within the context of a case-control study. Matching is a key strategy for minimizing the effect of confounders.\n\nThe most effective approach is to first understand the study design and the method of matching employed. Identify potential confounders that the matching process addresses, and then link this to the answer choices. Understanding the definition and mechanisms of each bias can help rule out incorrect options.",
+    "zh": "这个问题测试了对研究设计和流行病学研究中混杂变量控制的知识，特别是在病例对照研究的背景下。配对是最大限度减少混杂因素影响的关键策略。\n\n最有效的方法是首先了解研究设计和所采用的配对方法。确定配对过程解决的潜在混杂因素，然后将其与答案选项联系起来。了解每种偏倚的定义和机制可以帮助排除不正确的选项。"
+  },
+  "tags": "Study design; Case-control study; Confounding; Matching; Bias; Epidemiology; Research methodology",
+  "category": "Bio",
+  "question_id": "1189",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1189",
+  "extracted_at": "2025-11-05T10:28:16.794255",
+  "translated_at": "2025-11-07T16:19:09.595690",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

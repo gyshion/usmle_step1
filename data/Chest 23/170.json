@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A pharmaceutical researcher is studying a new drug being developed for treatment of asthma that works by reversing irritant-induced bronchoconstriction. Laboratory guinea pigs are divided into 2 groups: a postvagotomy (complete transection of the vagus nerve) group and a normal study group. Both groups are exposed to irritants without receiving the study medication, and changes in bronchial diameters are recorded. Subsequently, both groups are exposed again to the irritants but are also given the study drug. {{exhibit_1}}",
+    "zh": "一位药物研究员正在研究一种新药，用于治疗哮喘，其作用是逆转刺激物诱导的支气管收缩。实验室豚鼠被分为两组：一组为迷走神经切除术后（完全切断迷走神经）组，另一组为正常研究组。两组均暴露于刺激物，但未接受研究药物，并记录支气管直径的变化。随后，两组再次暴露于刺激物，但也同时给予研究药物。 {{exhibit_1}}"
+  },
+  "question": {
+    "en": "The study drug is most likely similar to which of the following medications?",
+    "zh": "该研究药物最有可能与下列哪种药物相似？"
+  },
+  "options": {
+    "A": {
+      "en": "Albuterol",
+      "zh": "沙丁胺醇"
+    },
+    "B": {
+      "en": "Flunisolide",
+      "zh": "氟尼缩松"
+    },
+    "C": {
+      "en": "Ipratropium",
+      "zh": "异丙托溴铵"
+    },
+    "D": {
+      "en": "Nifedipine",
+      "zh": "硝苯地平"
+    },
+    "E": {
+      "en": "Theophylline",
+      "zh": "茶碱"
+    },
+    "F": {
+      "en": "Zileuton",
+      "zh": "扎鲁司特"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The figure on the left shows a decrease in bronchial diameter of normal lungs following administration of an irritant but minimal change in bronchial diameter of lungs without an intact vagus nerve. This implies that the bronchoconstriction is mediated by the PARASYMPATHETIC nervous system. When the vagus nerve is stimulated (eg, via an inhaled irritant), ACETYLCHOLINE is released and produces BRONCHOCONSTRICTION by acting on muscarinic receptors. The figure on the right demonstrates minimal decrease in bronchial diameter in normal lungs following administration of the irritant, suggesting that the study medication blocks the action of acetylcholine. Ipratropium, an anticholinergic and derivative of atropine, has this effect.\n\nIpratropium and other anticholinergic drugs used for OBSTRUCTIVE LUNG DISEASE (eg, tiotropium) are less potent bronchodilators than beta-2 adrenergic agonists but can enhance the bronchodilatory effect of these agents. In addition, ipratropium and similar drugs block the parasympathetic stimulation of tracheobronchial submucosal glands, decreasing mucus secretion and providing further benefit in treating asthma and chronic obstructive pulmonary disease (COPD).\n\n(Choice A) Albuterol is a short-acting selective beta-2 adrenergic agonist that is the first-line treatment for asthma and COPD. The bronchodilatory effects of albuterol are independent of parasympathetic innervation.\n\n(Choice B) Inhaled glucocorticoids (eg, flunisolide) have potent local anti-inflammatory effects in the airway and are used in the treatment of persistent asthma and COPD with frequent exacerbations.\n\n(Choice D) Nifedipine causes bronchodilation by blocking calcium influx into bronchial smooth muscle cells; however, the drug is generally not used in treating obstructive lung disease.\n\n(Choice E) Methylxanthines, such as theophylline and aminophylline, cause bronchodilation by blocking phosphodiesterase activity, thereby increasing the intracellular concentration of cyclic AMP.\n\n(Choice F) Zileuton inhibits 5-lipoxygenase and thereby decreases the production of leukotrienes to reduce bronchoconstriction and improve asthma symptoms.\n\nEducational objective:\nIpratropium, an anticholinergic agent and derivative of atropine, treats obstructive lung disease by blocking acetylcholine at muscarinic receptors, which prevents bronchoconstriction and reduces mucus secretion from tracheobronchial submucosal glands.",
+    "zh": "左图显示，在给予刺激物后，正常肺的支气管直径减小，而没有完整迷走神经的肺的支气管直径变化很小。这意味着支气管收缩是由副交感神经系统介导的。当迷走神经受到刺激时（例如，通过吸入刺激物），乙酰胆碱被释放并通过作用于毒蕈碱受体产生支气管收缩。右图显示，在给予刺激物后，正常肺的支气管直径变化很小，这表明该研究药物阻断了乙酰胆碱的作用。异丙托溴铵是一种抗胆碱能药物，也是阿托品的衍生物，具有这种作用。\n\n异丙托溴铵和其他用于阻塞性肺病的抗胆碱能药物（例如，噻托溴铵）的支气管扩张作用不如β-2肾上腺素能受体激动剂强，但可以增强这些药物的支气管扩张作用。此外，异丙托溴铵和类似的药物可以阻断副交感神经对气管支气管粘膜下腺的刺激，减少粘液分泌，为治疗哮喘和慢性阻塞性肺病（COPD）提供进一步的益处。\n\n（选项A）沙丁胺醇是一种短效选择性β-2肾上腺素能受体激动剂，是一线治疗哮喘和 COPD 的药物。沙丁胺醇的支气管扩张作用与副交感神经支配无关。\n\n（选项B）吸入糖皮质激素（例如，氟尼缩松）在气道内具有强大的局部抗炎作用，用于治疗伴有频繁加重的持续性哮喘和 COPD。\n\n（选项D）硝苯地平通过阻断钙内流到支气管平滑肌细胞中引起支气管扩张；然而，该药物通常不用来治疗阻塞性肺病。\n\n（选项E）甲基黄嘌呤类药物，如茶碱和氨茶碱，通过阻断磷酸二酯酶活性引起支气管扩张，从而增加细胞内环磷酸腺苷的浓度。\n\n（选项F）扎鲁司特抑制 5-脂氧合酶，从而减少白三烯的产生，以减少支气管收缩并改善哮喘症状。\n\n教育目标：\n异丙托溴铵是一种抗胆碱能药物，也是阿托品的衍生物，通过阻断毒蕈碱受体上的乙酰胆碱来治疗阻塞性肺病，从而防止支气管收缩并减少气管支气管粘膜下腺的粘液分泌。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of asthma pathophysiology and the mechanism of action of anticholinergic medications like ipratropium in treating irritant-induced bronchoconstriction.\n\nThe key to solving this question is recognizing that the study drug prevents bronchoconstriction in the presence of an irritant, and that this effect is similar to blocking the parasympathetic nervous system's action on bronchial smooth muscle.",
+    "zh": "本题测试对哮喘的病理生理学以及抗胆碱能药物（如异丙托溴铵）在治疗刺激物引起的支气管收缩中的作用机制的了解。\n\n解决这个问题的关键是认识到研究药物可以防止刺激物存在下的支气管收缩，并且这种作用类似于阻断副交感神经系统对支气管平滑肌的作用。"
+  },
+  "tags": "Asthma; Bronchoconstriction; Ipratropium; Anticholinergics; Parasympathetic nervous system; Acetylcholine; Muscarinic receptors; Pulmonary disease; COPD",
+  "category": "Chest",
+  "question_id": "170",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\170",
+  "extracted_at": "2025-11-05T11:41:39.256769",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:36:45.053271",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

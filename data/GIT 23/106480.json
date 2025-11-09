@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "{{exhibit_1}} A patient presents with fatigue, weakness, and ataxia. {{exhibit_2}} Laboratory findings reveal anemia with evidence of hemolysis and a micronutrient deficiency. {{exhibit_3}} The patient reports consuming a well-balanced diet with no dietary restrictions.",
+    "zh": "{{exhibit_1}} 患者出现疲劳、乏力、共济失调。{{exhibit_2}} 实验室检查显示有溶血证据的贫血和微量营养素缺乏。{{exhibit_3}} 患者报告摄入了均衡的饮食，无饮食限制。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's nutritional deficiency?",
+    "zh": "以下哪项最可能是该患者营养缺乏的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased pancreatic amylase production",
+      "zh": "胰淀粉酶产生减少"
+    },
+    "B": {
+      "en": "Excessive liver hepcidin production",
+      "zh": "肝脏铁调素过度产生"
+    },
+    "C": {
+      "en": "Impaired hepatic bile acid secretion",
+      "zh": "肝脏胆汁酸分泌受损"
+    },
+    "D": {
+      "en": "Increased production of gastric intrinsic factor",
+      "zh": "胃内因子产生增加"
+    },
+    "E": {
+      "en": "Reduced renal hydroxylation",
+      "zh": "肾脏羟化作用降低"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The patient with a micronutrient deficiency has hemolytic anemia and neurologic deficits, findings consistent with vitamin E deficiency. Vitamin E is a fat-soluble vitamin responsible for preventing oxidative damage. The cells most susceptible to reactive oxygen species are erythrocytes (resulting in hemolysis) and neurons with long axons (ie, high surface area). Spinal cord involvement explains this patient's loss of vibratory sensation (dorsal columns) and ataxia (spinocerebellar tract); her weakness (eg, frequent falls) and hyporeflexia are secondary to peripheral neuropathies. Deficiency of vitamin E is rare in resource-rich regions due to widespread availability in dietary sources; instead, the most common cause is fat malabsorption. Normally, bile salts emulsify lipid globules (containing fat-soluble vitamins A, D, E, and K) to form water-soluble micelles. Micelle formation allows pancreatic lipase to effectively hydrolyze fats, allowing for efficient absorption of fat-soluble vitamins. Patients at risk for deficiency include those with impaired bile acid secretion or exocrine pancreatic insufficiency (eg, chronic pancreatitis, cystic fibrosis). In this case, symptoms of vitamin E deficiency in a woman with chronic fatigue and vague abdominal pain are suspicious for primary biliary cholangitis, an autoimmune disorder in which destruction of small, intrahepatic bile ducts causes impaired bile acid secretion due to obstruction of biliary flow.",
+    "zh": "微量营养素缺乏的患者有溶血性贫血和神经系统功能障碍，这些发现与维生素E缺乏症一致。维生素E是一种脂溶性维生素，负责预防氧化损伤。最易受活性氧影响的细胞是红细胞（导致溶血）和具有长轴突的神经元（即表面积大）。脊髓受累解释了该患者振动感觉丧失（后索）和共济失调（脊髓小脑束）；她的无力（例如，频繁跌倒）和反射减退继发于周围神经病。由于在膳食来源中广泛存在，维生素E缺乏症在资源丰富的地区很少见；相反，最常见的原因是脂肪吸收不良。通常，胆盐乳化脂质球（含有脂溶性维生素A、D、E和K）形成水溶性胶粒。胶粒形成使胰脂肪酶有效地水解脂肪，从而实现脂溶性维生素的有效吸收。有缺乏风险的患者包括胆汁酸分泌受损或外分泌胰腺功能不全（例如，慢性胰腺炎、囊性纤维化）的患者。在这种情况下，一名患有慢性疲劳和模糊腹痛的女性出现维生素E缺乏症的症状，提示原发性胆汁性胆管炎，这是一种自身免疫性疾病，其中小的肝内胆管的破坏会导致胆汁酸分泌受损，原因是胆道阻塞。"
+  },
+  "summary": {
+    "en": "A patient with fatigue, weakness, ataxia, hemolytic anemia, and a micronutrient deficiency likely has vitamin E deficiency due to impaired hepatic bile acid secretion, leading to fat malabsorption.",
+    "zh": "出现疲劳、乏力、共济失调、溶血性贫血和微量营养素缺乏的患者，很可能由于肝脏胆汁酸分泌受损而导致维生素E缺乏，进而导致脂肪吸收不良。"
+  },
+  "tags": [
+    "Nutrition",
+    "Vitamin E Deficiency",
+    "Malabsorption",
+    "Neurology",
+    "Hematology"
+  ],
+  "category": "GIT",
+  "question_id": "106480",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\106480",
+  "extracted_at": "2025-11-05T14:22:26.989562",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T17:49:40.875300",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

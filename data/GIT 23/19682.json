@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 3-month-old boy is evaluated for fussiness and abdominal distension. A contrast study is performed and shown in the image below: {{exhibit_1}}",
+    "zh": "一名 3 个月大的男孩因烦躁和腹部膨胀就诊。进行了一项对比研究，结果如下图所示：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's condition?",
+    "zh": "以下哪项最可能是该患者病情的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Absent innervation of the paravertebral ganglia",
+      "zh": "椎旁神经节无神经支配"
+    },
+    "B": {
+      "en": "Disruption in small bowel recanalization",
+      "zh": "小肠再通中断"
+    },
+    "C": {
+      "en": "Incomplete rotation of the intestines",
+      "zh": "肠道旋转不完全"
+    },
+    "D": {
+      "en": "Intestinal compression by the superior mesenteric artery",
+      "zh": "肠系膜上动脉压迫肠道"
+    },
+    "E": {
+      "en": "Lack of myenteric ganglion cells",
+      "zh": "缺乏肌间神经节细胞"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's contrast enema shows an abrupt transition zone between the narrow rectosigmoid segment and the dilated descending colon (ie, megacolon). This finding is characteristic of HIRSCHSPRUNG DISEASE (HD), a congenital disorder caused by disrupted migration of neural crest cells to the intestinal wall during embryogenesis. Neural crest cells normally migrate in a craniocaudal direction and give rise to ganglion cells of the submucosal (Meissner) and myenteric (Auerbach) plexus in the colon. Abnormal migration results in the absence of parasympathetic innervation of the distal rectosigmoid segment.\n\nWithout parasympathetic innervation, the aganglionic colonic segment is unable to relax (ie, chronically contracted and narrowed), making stool difficult to pass. Presentation in the neonatal period with delayed passage of meconium (>48 hr after birth) is classic, but infants with short aganglionic segments may have fussiness due to infrequent stooling/chronic constipation. The buildup of stool causes abdominal distension and dilation of the histologically normal colon proximal to the obstruction.\n\nDiagnosis of HD is confirmed by the absence of ganglia on rectal suction biopsy. Treatment is with surgical resection of the aganglionic segment.\n\n(Choice A) Paravertebral ganglia lie adjacent to the vertebrae and are involved in sympathetic nervous signaling; paravertebral ganglia are not affected by HD.\n\n(Choice B) Disruption of small bowel recanalization is the cause of duodenal atresia, which presents in the first 1-2 days of life with bilious emesis. Imaging would show a dilated stomach and proximal duodenum. In addition, microcolon (not a dilated colon) would be expected on barium enema.\n\n(Choice C) Malrotation (incomplete rotation of the intestines) often presents in infancy with bilious vomiting and abdominal distension. Contrast studies show right-sided jejunal loops and may reveal a corkscrew duodenum if malrotation is complicated by volvulus (intestinal torsion). Colonic dilation would not be seen.\n\n(Choice D) Superior mesenteric artery (SMA) syndrome causes bowel obstruction due to external duodenal compression by the SMA. Abdominal pain and distension are typical, but barium enema would not show a rectosigmoid transition zone; instead, oral contrast studies would show absence of barium beyond the duodenum.\n\nEducational objective:\nHirschsprung disease is characterized by absent submucosal and myenteric ganglion cells in the distal colon. Contrast enema classically shows a narrowed aganglionic segment (most commonly rectosigmoid) with an abrupt transition zone to the dilated, histologically normal proximal colon. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "该患者的对比灌肠显示狭窄的直乙状结肠段和扩张的降结肠之间有一个突变的过渡带（即，巨结肠）。这一发现是先天性疾病 HIRSCHSPRUNG DISEASE (HD)（先天性巨结肠症）的特征，该病是由神经嵴细胞在胚胎发生过程中迁移到肠壁中断引起的。神经嵴细胞通常沿头尾方向迁移，并形成结肠粘膜下（Meissner）和肌间（Auerbach）丛的神经节细胞。异常迁移导致远端直乙状结肠段缺乏副交感神经支配。\n\n如果没有副交感神经支配，无神经节的结肠段无法松弛（即，慢性收缩和狭窄），导致排便困难。新生儿期出现胎便排出延迟（出生后>48 小时）是典型的表现，但无神经节段较短的婴儿可能因排便不频繁/慢性便秘而烦躁。粪便的堆积会导致腹部膨胀和梗阻近端的组织学正常结肠扩张。\n\nHD 的诊断通过直肠吸活检中神经节的缺失来确诊。治疗方法是手术切除无神经节段。\n\n(选项 A) 椎旁神经节位于椎骨附近，参与交感神经信号传导；HD 不影响椎旁神经节。\n\n(选项 B) 小肠再通中断是十二指肠闭锁的原因，通常在出生后的 1-2 天内出现胆汁性呕吐。影像学检查会显示胃和近端十二指肠扩张。此外，钡灌肠检查会显示微结肠（而不是扩张的结肠）。\n\n(选项 C) 肠旋转不良（肠道旋转不完全）通常在婴儿期表现为胆汁性呕吐和腹部膨胀。对比研究显示右侧空肠袢，如果旋转不良并发肠扭转，可能会显示螺旋状十二指肠。不会看到结肠扩张。\n\n(选项 D) 肠系膜上动脉 (SMA) 综合征会导致肠梗阻，原因是 SMA 对十二指肠的外部压迫。腹痛和腹胀是典型症状，但钡灌肠不会显示直乙状结肠过渡带；相反，口服对比研究会显示钡剂无法通过十二指肠。\n\n教育目标：\nHirschsprung disease 的特征是远端结肠缺乏粘膜下和肌间神经节细胞。对比灌肠典型地显示狭窄的无神经节段（最常见的是直乙状结肠），并突然过渡到扩张的、组织学正常的近端结肠。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Hirschsprung disease, a congenital condition characterized by the absence of ganglion cells in the distal colon, leading to functional obstruction and megacolon. It also assesses the interpretation of contrast enema findings in diagnosing this condition.\n\nTo solve this question, recognize the clinical presentation of fussiness and abdominal distension in a young infant, and correlate it with the contrast enema findings of a transition zone between a narrow rectosigmoid and dilated colon. This pattern is highly suggestive of Hirschsprung disease.",
+    "zh": "此题考察对 Hirschsprung disease（先天性巨结肠症）的认识，这是一种以远端结肠缺乏神经节细胞为特征的先天性疾病，导致功能性梗阻和巨结肠。它还评估了对比灌肠结果在诊断该病中的解读。\n\n要解决这个问题，需要认识到年轻婴儿烦躁和腹部膨胀的临床表现，并将其与对比灌肠检查结果中狭窄的直乙状结肠和扩张的结肠之间的过渡带相关联。这种模式高度提示 Hirschsprung disease。"
+  },
+  "tags": "Hirschsprung disease; Megacolon; Contrast enema; Gastrointestinal motility; Pediatric surgery; Aganglionosis; Rectosigmoid; Abdominal distension; Congenital disorder",
+  "category": "GIT",
+  "question_id": "19682",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\19682",
+  "extracted_at": "2025-11-05T14:30:27.050609",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:54:18.580807",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

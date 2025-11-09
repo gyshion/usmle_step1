@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A new portable cholesterol-measuring device is being developed for use in medically underserved communities. During clinical trials of an early prototype, a patient's cholesterol level is found to be 200 mg/dL, 201 mg/dL, and 200 mg/dL on 3 separate measurements of the same blood sample. Using the gold standard measurement method, the same sample is found to have a cholesterol level of 260 mg/dL.",
+    "zh": "一种新的便携式胆固醇测量设备正在开发中，用于医疗服务欠缺的社区。在早期原型机的临床试验中，对同一血样的3次独立测量结果显示，患者的胆固醇水平分别为200 mg/dL、201 mg/dL和200 mg/dL。使用金标准测量方法，同一血样的胆固醇水平为260 mg/dL。"
+  },
+  "question": {
+    "en": "Which of the following descriptions best characterizes the new cholesterol-measuring device?",
+    "zh": "以下哪种描述最能概括这种新的胆固醇测量设备？"
+  },
+  "options": {
+    "A": {
+      "en": "High accuracy; high precision",
+      "zh": "高准确度；高精密度"
+    },
+    "B": {
+      "en": "High accuracy; low precision",
+      "zh": "高准确度；低精密度"
+    },
+    "C": {
+      "en": "High sensitivity; low specificity",
+      "zh": "高敏感度；低特异性"
+    },
+    "D": {
+      "en": "Low accuracy; high precision",
+      "zh": "低准确度；高精密度"
+    },
+    "E": {
+      "en": "Low accuracy; low precision",
+      "zh": "低准确度；低精密度"
+    },
+    "F": {
+      "en": "Low sensitivity; high specificity",
+      "zh": "低敏感度；高特异性"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Precision (reliability) is the ability of a test to reproduce identical or similar results with repeated measurements. Accuracy (validity) is the ability of a test to measure what it is supposed to measure. For a new test to be accurate, its results should be equivalent to the results obtained with a gold standard (eg, best conventional test available) on the same individual. In this case, repeated measurements of the same blood sample yielded nearly identical values; therefore, the new device has HIGH PRECISION. However, none of the measurements with the new device were equivalent to the results obtained with the gold standard (ie, the measurements are INCORRECT), meaning the new device has LOW ACCURACY.",
+    "zh": "精密度（可靠性）是指一项测试在重复测量中产生相同或相似结果的能力。准确度（有效性）是指一项测试衡量其应衡量内容的准确程度。为了使一项新测试准确，其结果应与使用金标准（例如，现有的最佳常规测试）在同一受试者上获得的结果相当。在这种情况下，对同一血样的重复测量产生了几乎相同的值；因此，新设备具有高精密度。然而，使用新设备进行的测量结果均与使用金标准获得的结果不符（即，测量结果不正确），这意味着新设备具有低准确度。"
+  },
+  "summary": {
+    "en": "1) Tests the definitions of precision and accuracy. 2) The device has high precision because it gives similar results on repeated measurements. The device has low accuracy because the measurements are not close to the gold standard measurement.",
+    "zh": "1) 考察精密度和准确度的定义。2) 该设备具有高精密度，因为它在重复测量中给出相似的结果。该设备具有低准确度，因为测量结果与金标准测量结果相差甚远。"
+  },
+  "tags": "Precision; Accuracy; Validity; Reliability; Measurement; Gold Standard",
+  "category": "Bio",
+  "question_id": "1765",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1765",
+  "extracted_at": "2025-11-05T10:59:43.437933",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:21:56.680845",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

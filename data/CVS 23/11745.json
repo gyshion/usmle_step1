@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 66-year-old man comes to the office for a follow-up appointment. The patient has a history of heart failure with reduced ejection fraction and has had persistent dyspnea despite taking the maximal dosage of his heart failure medications. He has had no lightheadedness or chest pain. Blood pressure is 133/72 mm Hg and pulse is 76/min. Physical examination shows normal lung sounds and no lower extremity edema. His medical treatment is modified with the addition of a combination pill that inhibits neprilysin and blocks angiotensin II receptors. {{exhibit_1}} Which of the following is the most likely effect of this medication?",
+    "zh": "一名66岁男性前来复诊。该患者有射血分数降低型心力衰竭病史，尽管服用最大剂量的治疗心力衰竭的药物，仍持续存在呼吸困难。他没有头晕或胸痛。血压为133/72 mm Hg，脉搏为76/min。体格检查显示肺部听诊正常，无下肢水肿。他的治疗方案进行了调整，增加了抑制脑啡肽酶并阻断血管紧张素II受体的复方药物。{{exhibit_1}} 以下哪项是该药物最可能的作用？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely effect of this medication?",
+    "zh": "以下哪项是该药物最可能的作用？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased renal free-water reabsorption",
+      "zh": "减少肾脏对游离水的重吸收"
+    },
+    "B": {
+      "en": "Decreased venous compliance",
+      "zh": "静脉顺应性降低"
+    },
+    "C": {
+      "en": "Increased myocardial contractility",
+      "zh": "心肌收缩力增强"
+    },
+    "D": {
+      "en": "Increased peripheral arterial resistance",
+      "zh": "外周动脉阻力增加"
+    },
+    "E": {
+      "en": "Increased urinary sodium excretion",
+      "zh": "尿钠排泄增加"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Most pharmacologic therapies for HEART FAILURE WITH REDUCED EJECTION FRACTION (eg, beta blockers, ACE inhibitors, angiotensin II receptor blockers, aldosterone antagonists) are targeted toward the inhibition of detrimental neurohormonal pathways involving the sympathetic nervous system and renin-angiotensin-aldosterone system (RAAS). However, an additional strategy involves augmenting beneficial counter-regulatory mechanisms, such as those involving NATRIURETIC PEPTIDES.\n\nAtrial natriuretic peptide (ANP) and brain natriuretic peptide (BNP) are released from the myocardium in response to high atrial and ventricular filling pressures (myocardial stretch). These peptides induce VASODILATION and DIURESIS (excretion of salt and water) by antagonizing the actions of RAAS and also protect against the deleterious myocardial remodeling and fibrosis that occur in heart failure. Neprilysin is a metalloprotease that cleaves and inactivates both ANP and BNP. Therefore, medications that INHIBIT NEPRILYSIN (eg, sacubitril) lead to INCREASED levels of ANP and BNP and promote beneficial effects in heart failure.\n\nHowever, because neprilysin is also responsible for inactivating angiotensin II, inhibition of neprilysin further stimulates deleterious vasoconstriction and fluid retention via increased angiotensin II levels. Therefore, in treating heart failure, neprilysin inhibitors are COMBINED with an ANGIOTENSIN II-RECEPTOR BLOCKER (eg, sacubitril-valsartan) to mitigate these negative effects.\n\n(Choice A) Increased levels of ANP and BNP stimulate the excretion of both salt and water. Decreased reabsorption of free water (water without solute) can be achieved with medications that block vasopressin-2 receptors (eg, tolvaptan) on the renal collecting tubule.\n\n(Choices B and D) The vasodilatory effects of ANP and BNP increase (rather than decrease) venous compliance and decrease (rather than increase) peripheral arterial resistance, leading to a reduction in both cardiac preload and afterload and a consequent reduction in cardiac work. These effects would be counteracted by angiotensin II-induced vasoconstriction, but angiotensin II activity is blocked by combining the neprilysin inhibitor with an angiotensin II-receptor blocker.\n\n(Choice C) Neprilysin inhibition combined with angiotensin II receptor blockade improves cardiac output in heart failure via a reduction in the cardiac work required to attain a certain stroke volume; however, cardiac contractility is not significantly affected.\n\nEducational objective: Neprilysin is responsible for the breakdown of the natriuretic peptides and angiotensin II; therefore, inhibition of neprilysin increases the activity of these peptides. For treatment of heart failure, neprilysin inhibition is combined with angiotensin II receptor blockade to optimize the positive effects of the natriuretic peptides (eg, vasodilation, diuresis) while blocking the negative effects of angiotensin II (eg, vasoconstriction, fluid retention).",
+    "zh": "大多数治疗射血分数降低型心力衰竭的药物（例如，β受体阻滞剂、ACE抑制剂、血管紧张素II受体阻滞剂、醛固酮拮抗剂）旨在抑制涉及交感神经系统和肾素-血管紧张素-醛固酮系统（RAAS）的有害神经激素通路。然而，另一种策略涉及增强有益的 counter-regulatory 机制，例如涉及利钠肽的机制。\n\n心房利钠肽（ANP）和脑利钠肽（BNP）从心肌中释放，以响应高心房和心室充盈压（心肌扩张）。这些肽通过拮抗RAAS的作用诱导血管舒张和利尿（盐和水的排泄），并且还可以防止心力衰竭中发生的不利心肌重塑和纤维化。脑啡肽酶是一种金属蛋白酶，可切割并灭活ANP和BNP。因此，抑制脑啡肽酶（例如，沙库巴曲）的药物会导致ANP和BNP水平升高，并在心力衰竭中发挥有益作用。\n\n然而，由于脑啡肽酶也负责灭活血管紧张素II，抑制脑啡肽酶会通过增加血管紧张素II水平进一步刺激有害的血管收缩和液体潴留。因此，在治疗心力衰竭时，脑啡肽酶抑制剂与血管紧张素II受体阻滞剂（例如，沙库巴曲-缬沙坦）联合使用，以减轻这些负面影响。\n\n（选项A）ANP和BNP水平升高刺激盐和水的排泄。减少游离水（无溶质的水）的重吸收可以通过阻断肾脏集合管上加压素-2受体（例如，托伐普坦）的药物来实现。\n\n（选项B和D）ANP和BNP的血管舒张作用会增加（而不是减少）静脉顺应性，并降低（而不是增加）外周动脉阻力，从而导致心脏前负荷和后负荷降低，进而减少心脏做功。这些作用会被血管紧张素II诱导的血管收缩所抵消，但通过将脑啡肽酶抑制剂与血管紧张素II受体阻滞剂联合使用来阻断血管紧张素II的活性。\n\n（选项C）脑啡肽酶抑制与血管紧张素II受体阻滞联合使用，通过减少获得一定每搏输出量所需的心脏做功来改善心力衰竭的血输出量；然而，心肌收缩力并没有受到显著影响。\n\n教育目标：脑啡肽酶负责分解利钠肽和血管紧张素II；因此，抑制脑啡肽酶会增加这些肽的活性。为了治疗心力衰竭，脑啡肽酶抑制与血管紧张素II受体阻滞联合使用，以优化利钠肽的积极作用（例如，血管舒张、利尿），同时阻断血管紧张素II的负面作用（例如，血管收缩、液体潴留）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of action of neprilysin inhibitors in the treatment of heart failure with reduced ejection fraction, specifically their effect on natriuretic peptides and sodium excretion.\n\nTo solve this question, understand that neprilysin inhibitors increase levels of ANP and BNP, leading to vasodilation and diuresis. The combination with an angiotensin II receptor blocker mitigates the negative effects of increased angiotensin II, resulting in increased urinary sodium excretion.",
+    "zh": "本题考察了关于脑啡肽酶抑制剂治疗射血分数降低型心力衰竭的作用机制的知识，特别是它们对利钠肽和钠排泄的影响。\n\n要解决这个问题，需要了解脑啡肽酶抑制剂会增加ANP和BNP的水平，从而导致血管舒张和利尿。与血管紧张素II受体阻滞剂的联合使用可以减轻血管紧张素II增加的负面影响，从而导致尿钠排泄增加。"
+  },
+  "tags": "Heart failure; Reduced ejection fraction; Neprilysin inhibitors; Natriuretic peptides; Angiotensin II receptor blockers; Diuresis; Vasodilation; Cardiology; Pharmacology",
+  "category": "CVS",
+  "question_id": "11745",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\11745",
+  "extracted_at": "2025-11-05T11:50:23.332778",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:44:20.067879",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

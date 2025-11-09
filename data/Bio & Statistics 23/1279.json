@@ -1,0 +1,55 @@
+{
+  "question_stem": {
+    "en": "A new estrogen receptor agonist is being evaluated for the treatment of postmenopausal symptoms. A prospective study shows that the drug increases the risk of deep vein thrombosis (DVT) in treated women who smoke compared to untreated women who smoke, with a relative risk (RR) of 1.70 and p-value of 0.01. In nonsmokers, no increased risk of DVT is evident with use of the drug (RR = 0.96; p-value = 0.68).",
+    "zh": "正在评估一种新的雌激素受体激动剂用于治疗绝经后症状。一项前瞻性研究表明，与未吸烟的女性相比，该药物增加了吸烟的治疗女性发生深静脉血栓形成（DVT）的风险，相对风险（RR）为 1.70，p 值为 0.01。在不吸烟者中，使用该药物没有明显的 DVT 风险增加（RR = 0.96；p 值为 0.68）。"
+  },
+  "question": {
+    "en": "Which of the following describes this phenomenon?",
+    "zh": "以下哪项描述了这种现象？"
+  },
+  "options": {
+    "A": {
+      "en": "Confounding",
+      "zh": "混杂"
+    },
+    "B": {
+      "en": "Effect modification",
+      "zh": "效应修饰"
+    },
+    "C": {
+      "en": "Latent period",
+      "zh": "潜伏期"
+    },
+    "D": {
+      "en": "Observer bias",
+      "zh": "观察者偏倚"
+    },
+    "E": {
+      "en": "Selection bias",
+      "zh": "选择偏倚"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Effect modification occurs when the effect of an exposure on an outcome is modified by another variable. It can be identified using stratified analysis (analyzing the cohort as different subgroups), as the different strata will have different measures of association. In this scenario, smoking status modified the effect of the new estrogen receptor agonist (exposure) on deep vein thrombosis (DVT) incidence (outcome). Using stratified analysis by smoking status:\n\n*   Among smokers, there was a statistically significant association between taking the new estrogen receptor agonist and risk of developing DVT with a relative risk of >1, indicating higher risk, and a p-value of <0.05, indicating statistical significance.\n*   In contrast, among nonsmokers, there was no statistically significant association between taking the medication and risk of DVT (p-value >0.05).\n\nEffect modification is not a bias (Choices D and E), as it is not due to flaws in the design or analysis phases of the study. It is a natural phenomenon that should be described, not corrected.\n\nEffect modification is most easily confused with confounding (Choice A), but stratified analysis can help distinguish between these 2 scenarios. With effect modification, the different strata will have different measures of association, as seen in this example of the association between taking the estrogen receptor and the risk of DVT among smokers compared to nonsmokers. In contrast, with confounding, stratification usually reveals no significant difference between the strata. For instance, in an analysis of primary school students (of all grade levels), age can be a confounder that muddies the association between shoe size and intelligence. Children with bigger shoe sizes may appear to be more intelligent on initial analysis. However, this association is likely not due to shoe size but rather to age because older children tend to have both bigger feet and more intelligence. When older and younger children are analyzed separately (stratification based on the confounder), the association between shoe size and intelligence disappears.\n\n(Choice C) The latent period is the time required for an exposure to begin having an effect. However, there is no information on how latency was handled in this study.\n\nEducational objective: Effect modification is present when the effect of the main exposure on the outcome is modified by the presence of another variable. Effect modification is not a bias.",
+    "zh": "当暴露对结果的影响被另一个变量修饰时，就会发生效应修饰。可以使用分层分析（将队列分析为不同的亚组）来识别它，因为不同的分层将具有不同的关联度量。在这种情况下，吸烟状况改变了新的雌激素受体激动剂（暴露）对深静脉血栓形成（DVT）发生率（结果）的影响。使用按吸烟状况分层分析：\n\n*   在吸烟者中，服用新的雌激素受体激动剂与发生 DVT 的风险之间存在统计学上的显著关联，相对风险 >1，表明风险较高，p 值 <0.05，表明具有统计学意义。\n*   相比之下，在不吸烟者中，服用药物与 DVT 风险之间没有统计学上的显著关联（p 值 >0.05）。\n\n效应修饰不是偏倚（选项 D 和 E），因为它不是由于研究的设计或分析阶段的缺陷造成的。这是一种自然现象，应该被描述，而不是被纠正。\n\n效应修饰最容易与混杂（选项 A）混淆，但分层分析可以帮助区分这两种情况。通过效应修饰，不同的分层将具有不同的关联度量，如本例中吸烟者与非吸烟者服用雌激素受体与 DVT 风险之间的关联。相反，通过混杂，分层通常不会揭示各分层之间存在显著差异。例如，在对小学生（所有年级）的分析中，年龄可能是混杂因素，模糊了鞋码和智力之间的关联。最初的分析中，鞋码较大的孩子可能看起来更聪明。然而，这种关联可能不是由于鞋码，而是由于年龄，因为年龄较大的孩子往往脚较大且智力较高。当对年龄较大的孩子和年龄较小的孩子进行单独分析（基于混杂因素的分层）时，鞋码与智力之间的关联就会消失。\n\n（选项 C）潜伏期是指暴露开始产生影响所需的时间。但是，本研究中没有关于如何处理潜伏期的信息。\n\n教育目标：当主要暴露对结果的影响被另一个变量的存在所修饰时，就会出现效应修饰。效应修饰不是偏倚。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of effect modification in epidemiological studies. Effect modification occurs when the effect of an exposure on an outcome differs depending on the presence of a third variable (effect modifier).\n\nTo solve this question, recognize that the effect of the estrogen agonist on DVT risk is different in smokers versus nonsmokers. This difference suggests that smoking is modifying the effect of the drug, indicating effect modification.",
+    "zh": "本题考察对流行病学研究中效应修饰的理解。当暴露对结果的影响因第三个变量（效应修饰物）的存在而异时，就会发生效应修饰。\n\n要解决这个问题，需要认识到雌激素激动剂对 DVT 风险的影响在吸烟者和非吸烟者中是不同的。这种差异表明吸烟正在修饰药物的作用，表明存在效应修饰。"
+  },
+  "tags": "Effect modification; Stratified analysis; Epidemiology; Biostatistics; Deep vein thrombosis; Relative risk; P-value; Confounding",
+  "category": "Bio",
+  "question_id": "1279",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1279",
+  "extracted_at": "2025-11-05T10:31:25.997501",
+  "translated_at": "2025-11-07T16:20:25.882000",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

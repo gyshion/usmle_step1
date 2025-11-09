@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 52-year-old man comes to the office due to periodic substernal chest heaviness. The pain is precipitated by fast walking, especially uphill and against the wind, and remits after 5 minutes of rest. The patient has a history of hypertension and smokes a pack of cigarettes a day. Blood pressure is 140/80 mm Hg and pulse is 80/min. The lungs are clear to auscultation, and no heart murmurs are heard. There is no peripheral edema.",
+    "zh": "一名52岁男性因周期性胸骨下沉重感就诊。疼痛由快速行走引起，特别是上坡和逆风时，休息5分钟后缓解。患者有高血压病史，并且每天吸一包香烟。血压为140/80 mmHg，脉搏为80次/分钟。肺部听诊清，未闻及心脏杂音。无周围水肿。"
+  },
+  "question": {
+    "en": "Which of the following pathologic states is most likely to be present in this patient?",
+    "zh": "该患者最有可能出现以下哪种病理状态？"
+  },
+  "options": {
+    "A": {
+      "en": "Atherosclerotic plaque obstructing 50% of the coronary artery lumen, no thrombus",
+      "zh": "动脉粥样硬化斑块阻塞冠状动脉管腔的50%，无血栓"
+    },
+    "B": {
+      "en": "Atherosclerotic plaque obstructing 80% of the coronary artery lumen, no thrombus",
+      "zh": "动脉粥样硬化斑块阻塞冠状动脉管腔的80%，无血栓"
+    },
+    "C": {
+      "en": "Ruptured atherosclerotic plaque with fully obstructive thrombus",
+      "zh": "破裂的动脉粥样硬化斑块伴完全阻塞性血栓"
+    },
+    "D": {
+      "en": "Significant coronary artery vasospasm causing flow obstruction",
+      "zh": "显著的冠状动脉血管痉挛导致血流受阻"
+    },
+    "E": {
+      "en": "Ulcerated atherosclerotic plaque with partially obstructive thrombus",
+      "zh": "溃疡性动脉粥样硬化斑块伴部分阻塞性血栓"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient with multiple risk factors for coronary artery disease (eg, age, hypertension, smoking) has intermittent substernal chest heaviness consistent with stable angina pectoris. Stable angina is characterized by substernal or left-sided chest pressure, tightness, or pain that is reliably produced by exertion and relieved by rest. It occurs due to temporary myocardial ischemia resulting from demand-supply mismatch of oxygen-rich blood to the myocardium.\n\nMyocardial oxygen demand is determined by heart rate, blood pressure (afterload), left-ventricular end-diastolic volume (preload), and cardiac contractility, whereas myocardial oxygen supply is determined by coronary blood flow. The demand-supply mismatch of stable angina results from restricted coronary blood flow due to a fixed atherosclerotic lesion that obstructs >70% of the coronary artery lumen. These lesions allow sufficient blood flow to the myocardium during rest but insufficient blood flow to meet myocardial oxygen demands during exertion.\n\n(Choice A) An atherosclerotic plaque obstructing 50% of the lumen is unlikely to produce symptomatic myocardial ischemia. Symptoms of stable angina do not become prominent until approximately 70% of the cross-sectional area of the coronary artery lumen is occluded.\n\n(Choice C) Ruptured atherosclerotic plaque with overlying fully obstructive thrombus describes the pathophysiology of ST elevation myocardial infarction. The abrupt cessation of myocardial blood flow leads to transmural infarction and presents with persistent chest pain that is not relieved by rest.\n\n(Choice D) Coronary artery vasospasm (vasospastic angina or Prinzmetal angina) results from hyperactivity of vascular smooth muscle, usually in the absence of significant atherosclerotic coronary artery disease. Transient anginal chest pain is typical; however, the pain is not precipitated by exertion or relieved by rest.\n\n(Choice E) Ulcerated atherosclerotic plaque with overlying partially obstructive thrombus is likely to produce acute coronary syndrome in the form of non-ST elevation (partial-thickness) myocardial infarction or unstable angina. Unstable angina describes anginal pain occurring at rest or with markedly increased frequency, intensity, or duration compared to the patient's baseline stable angina.\n\nEducational objective:\nStable angina pectoris results from myocardial oxygen demand-supply mismatch and manifests as chest pressure, tightness, or pain that is reliably produced by exertion and relieved by rest. It most commonly occurs due to a fixed atherosclerotic plaque obstructing >70% of the coronary artery lumen that limits blood flow during exertion. {{exhibit_1}}",
+    "zh": "该患者具有多种冠状动脉疾病的危险因素（例如，年龄、高血压、吸烟），其间断性胸骨下沉重感与稳定性心绞痛一致。稳定性心绞痛的特征是胸骨下或左侧胸部压迫感、紧绷感或疼痛，这些症状可靠地由劳力诱发，并在休息后缓解。其发生是由于心肌暂时性缺血，导致富氧血液供需失衡。 \n\n心肌耗氧量取决于心率、血压（后负荷）、左心室舒张末期容积（前负荷）和心脏收缩力，而心肌氧气供应则取决于冠状血流量。稳定性心绞痛的供需失衡是由于冠状血流受限，这是由于固定性动脉粥样硬化病变阻塞了>70%的冠状动脉管腔。这些病变在休息时允许足够的心肌血流，但在劳力时不足以满足心肌的氧气需求。 \n\n(选项A) 阻塞50%管腔的动脉粥样硬化斑块不太可能产生症状性心肌缺血。稳定性心绞痛的症状直到冠状动脉管腔横截面积的约70%被阻塞时才会变得明显。 \n\n(选项C) 破裂的动脉粥样硬化斑块伴有完全阻塞性血栓描述了ST段抬高型心肌梗死的病理生理学。心肌血流的突然停止导致透壁性梗死，并表现为持续性胸痛，且休息不能缓解。 \n\n(选项D) 冠状动脉血管痉挛（血管痉挛性心绞痛或Prinzmetal心绞痛）是由于血管平滑肌过度活跃引起的，通常发生在没有明显的动脉粥样硬化性冠状动脉疾病的情况下。典型的是短暂性心绞痛；然而，这种疼痛并非由劳力引起，也不会因休息而缓解。 \n\n(选项E) 溃疡性动脉粥样硬化斑块伴部分阻塞性血栓可能会以非ST段抬高型（部分厚度）心肌梗死或不稳定性心绞痛的形式产生急性冠状动脉综合征。不稳定性心绞痛描述了在休息时或与患者基线稳定性心绞痛相比，疼痛频率、强度或持续时间显着增加的心绞痛。 \n\n教育目标：\n稳定性心绞痛是由心肌氧气供需失衡引起的，表现为胸部压迫、紧绷或疼痛，这些症状可靠地由劳力诱发，并在休息后缓解。它最常见的原因是固定性动脉粥样硬化斑块阻塞>70%的冠状动脉管腔，从而限制了劳力时的血流。 {{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of stable angina pectoris, its pathophysiology related to myocardial oxygen supply and demand, and the typical presentation of exertional chest pain relieved by rest. It also tests the ability to differentiate stable angina from other causes of chest pain, such as unstable angina, myocardial infarction, and vasospastic angina.\n\nTo solve this question, recognize the classic symptoms of stable angina (exertional chest pain relieved by rest) and the risk factors for coronary artery disease. Understand that stable angina is typically caused by a fixed atherosclerotic lesion obstructing >70% of the coronary artery lumen.",
+    "zh": "此题考察了稳定性心绞痛的知识，其与心肌氧气供需相关的病理生理学，以及劳力诱发、休息缓解的典型表现。此外，也考察了区分稳定性心绞痛与其他胸痛原因的能力，例如不稳定性心绞痛、心肌梗死和血管痉挛性心绞痛。 \n\n为了解决这个问题，需要认识到稳定性心绞痛的典型症状（劳力诱发的胸痛，休息后缓解）以及冠状动脉疾病的危险因素。了解稳定性心绞痛通常是由阻塞>70%冠状动脉管腔的固定性动脉粥样硬化病变引起的。"
+  },
+  "tags": "Stable angina; Coronary artery disease; Atherosclerosis; Myocardial ischemia; Chest pain; Cardiology; Risk factors; Exertional angina; Oxygen demand; Oxygen supply",
+  "category": "CVS",
+  "question_id": "36",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\36",
+  "extracted_at": "2025-11-05T12:13:00.455460",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:29:43.846511",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

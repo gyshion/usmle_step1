@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 31-year-old previously healthy man comes to the office due to myalgias, anorexia, and skin rash. He does not use tobacco, alcohol, or illicit drugs. The patient works as a personal trainer and is a bodybuilding enthusiast. He denies using anabolic steroids but has been consuming large amounts of raw egg whites for the past several months. Physical examination shows macular dermatitis of the extremities. A water-soluble vitamin deficiency is suspected as the cause of his condition.",
+    "zh": "一名先前健康的31岁男性因肌痛、食欲不振和皮疹来就诊。他不吸烟、不饮酒，也不吸毒。该患者是一名私人教练，也是健身爱好者。他否认使用合成代谢类固醇，但在过去的几个月里一直食用大量的生蛋清。体格检查显示四肢出现斑丘疹性皮炎。怀疑水溶性维生素缺乏是其病症的原因。"
+  },
+  "question": {
+    "en": "Which of the following biochemical conversions most likely uses the deficient vitamin as a cofactor?",
+    "zh": "以下哪种生化转化最有可能使用缺乏的维生素作为辅酶？"
+  },
+  "options": {
+    "A": {
+      "en": "Glucose to ribose-5-phosphate",
+      "zh": "葡萄糖转化为核糖-5-磷酸"
+    },
+    "B": {
+      "en": "Pyruvate to acetyl-CoA",
+      "zh": "丙酮酸转化为乙酰辅酶A"
+    },
+    "C": {
+      "en": "Pyruvate to alanine",
+      "zh": "丙酮酸转化为丙氨酸"
+    },
+    "D": {
+      "en": "Pyruvate to oxaloacetate",
+      "zh": "丙酮酸转化为草酰乙酸"
+    },
+    "E": {
+      "en": "Succinate to oxaloacetate",
+      "zh": "琥珀酸转化为草酰乙酸"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Biotin (vitamin B₇) as a cofactor {{exhibit_1}}\n\nBiotin (vitamin B₇) is an important cofactor for several carboxylase enzymes. It functions as a CO₂ carrier and plays an essential role in carbohydrate, lipid, and amino acid metabolism. In the liver, the conversion of pyruvate to oxaloacetate for gluconeogenesis requires pyruvate carboxylase and biotin.\n\nBiotin deficiency is rare but can occur secondary to poor diet, excessive raw egg white consumption (due to high levels of biotin-binding avidin in egg whites), and congenital disorders of biotin metabolism. Patients with biotin deficiency present with nonspecific symptoms, including changes in mental status, myalgias, anorexia, and chronic dermatologic changes such as macular dermatitis. Biotin-deficient individuals can also develop metabolic acidosis as a result of increased conversion of pyruvate to lactic acid.\n\n(Choice A) Niacin (vitamin B₃), in the form of NADP⁺, is used to oxidize glucose-6-phosphate in the pentose phosphate pathway, generating ribose-5-phosphate and NADPH in the process.\n\n(Choice B) Thiamine (vitamin B₁), riboflavin (vitamin B₂), niacin (vitamin B₃), pantothenic acid (vitamin B₅), and lipoic acid are the 5 cofactors required by the mitochondrial enzyme complex pyruvate dehydrogenase. In their absence, the metabolism of pyruvate to acetyl-CoA is not possible.\n\n(Choice C) Pyridoxal phosphate (vitamin B₆) acts as a cofactor for alanine transaminase, which catalyzes the reversible reaction between pyruvate and glutamate to alanine and alpha-ketoglutarate in the liver and muscle tissue.\n\n(Choice E) Production of oxaloacetate from succinate in the TCA cycle requires 2 enzymes (succinate dehydrogenase and malate dehydrogenase), along with riboflavin (vitamin B₂) and niacin (vitamin B₃) in the forms of cofactors FAD⁺ and NAD⁺, respectively.\n\nEducational objective: Biotin acts as a CO₂ carrier on the surface of carboxylase enzymes and is an essential cofactor for numerous reactions, including the conversion of pyruvate to oxaloacetate and fatty acid metabolism. Excess ingestion of avidin, found in egg whites, has been associated with biotin deficiency. This condition presents with mental status changes, myalgias, anorexia, macular dermatitis, and lactic acidosis.",
+    "zh": "生物素（维生素B₇）作为辅酶 {{exhibit_1}}\n\n生物素（维生素B₇）是几种羧化酶的重要辅酶。它充当CO₂载体，并在碳水化合物、脂质和氨基酸代谢中起重要作用。在肝脏中，丙酮酸转化为草酰乙酸以进行糖异生需要丙酮酸羧化酶和生物素。\n\n生物素缺乏症很少见，但可能继发于不良饮食、过度食用生蛋清（由于蛋清中高含量的生物素结合蛋白抗生素）和生物素代谢的先天性疾病。生物素缺乏症患者出现非特异性症状，包括精神状态改变、肌痛、食欲不振和慢性皮肤病变，如斑丘疹性皮炎。生物素缺乏的个体还可能因丙酮酸转化为乳酸的增加而出现代谢性酸中毒。\n\n（选项A）烟酸（维生素B₃），以NADP⁺的形式，用于在磷酸戊糖途径中氧化葡萄糖-6-磷酸，在此过程中生成核糖-5-磷酸和NADPH。\n\n（选项B）硫胺素（维生素B₁）、核黄素（维生素B₂）、烟酸（维生素B₃）、泛酸（维生素B₅）和硫辛酸是线粒体酶复合物丙酮酸脱氢酶所需的5种辅酶。在它们不存在的情况下，丙酮酸代谢为乙酰辅酶A是不可能的。\n\n（选项C）磷酸吡哆醛（维生素B₆）充当丙氨酸转氨酶的辅酶，后者催化丙酮酸和谷氨酸之间在肝脏和肌肉组织中可逆反应，生成丙氨酸和α-酮戊二酸。\n\n（选项E）由琥珀酸在TCA循环中生成草酰乙酸需要2种酶（琥珀酸脱氢酶和苹果酸脱氢酶），以及核黄素（维生素B₂）和烟酸（维生素B₃），分别以辅酶FAD⁺和NAD⁺的形式。\n\n教育目标：生物素充当羧化酶表面的CO₂载体，是许多反应的必需辅酶，包括丙酮酸转化为草酰乙酸和脂肪酸代谢。摄入过多的存在于蛋清中的卵白素与生物素缺乏症有关。这种情况表现为精神状态改变、肌痛、食欲不振、斑丘疹性皮炎和乳酸性酸中毒。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of biotin deficiency, its causes (excessive raw egg white consumption), clinical presentation (myalgias, anorexia, skin rash), and the biochemical reactions that require biotin as a cofactor. Specifically, it focuses on the role of biotin in the conversion of pyruvate to oxaloacetate. \n\nTo solve this question, recognize the clinical scenario suggestive of biotin deficiency. Then, recall the biochemical reactions that require biotin as a cofactor, particularly those involving carboxylase enzymes. Eliminate options that involve other vitamins or metabolic pathways.",
+    "zh": "此问题测试对生物素缺乏症的了解，其病因（过度食用生蛋清）、临床表现（肌痛、食欲不振、皮疹）以及需要生物素作为辅酶的生化反应。具体来说，它侧重于生物素在丙酮酸转化为草酰乙酸中的作用。\n\n要解决这个问题，需要认识到提示生物素缺乏症的临床情况。然后，回忆一下需要生物素作为辅酶的生化反应，特别是那些涉及羧化酶的反应。排除涉及其他维生素或代谢途径的选项。"
+  },
+  "tags": "Biotin deficiency; Vitamin B7; Pyruvate carboxylase; Gluconeogenesis; Raw egg whites; Avidin; Macular dermatitis; Myalgias; Anorexia; Metabolic acidosis",
+  "category": "GIT",
+  "question_id": "1063",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\1063",
+  "extracted_at": "2025-11-05T14:21:45.957135",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:49:42.926673",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

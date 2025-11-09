@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man comes to the office due to progressive weight loss, jaundice, and anorexia over the last 3 months. His urine has been dark and his stools have been pale. The patient has no prior medical conditions and takes no medications. He has smoked a pack of cigarettes a day for 40 years. He drinks 2 cups of coffee every day and 1 or 2 glasses of wine on most nights. He used illicit drugs for 2 years when he was in his teens but has used none since. The patient has a sedentary lifestyle and frequently consumes red and processed meats. Vital signs are within normal limits. BMI is 28 kg/m². Physical examination shows scleral icterus. The chest is clear to auscultation and percussion. Abdominal examination shows an enlarged but nontender gallbladder. There is no ascites.",
+    "zh": "一名65岁男性因过去3个月来逐渐消瘦、黄疸和食欲不振来诊。他的尿液变深，粪便呈淡色。患者既往无疾病史，未服用任何药物。他每天吸一包香烟，持续40年。他每天喝2杯咖啡，并且在大多数晚上喝1或2杯葡萄酒。他在十几岁时曾吸食违禁药物2年，但自那以后未使用过。患者生活方式久坐不动，并且经常食用红肉和加工肉类。生命体征在正常范围内。BMI为28 kg/m²。体格检查显示巩膜黄染。胸部听诊和叩诊清亮。腹部检查显示胆囊增大但无压痛。无腹水。"
+  },
+  "question": {
+    "en": "Which of the following is the strongest factor predisposing to this patient's current condition?",
+    "zh": "以下哪项是导致该患者目前病症的最强因素？"
+  },
+  "options": {
+    "A": {
+      "en": "Alcohol use",
+      "zh": "饮酒"
+    },
+    "B": {
+      "en": "Cigarette smoking",
+      "zh": "吸烟"
+    },
+    "C": {
+      "en": "Coffee consumption",
+      "zh": "咖啡摄入"
+    },
+    "D": {
+      "en": "Low-fiber diet",
+      "zh": "低纤维饮食"
+    },
+    "E": {
+      "en": "Processed meat consumption",
+      "zh": "加工肉类摄入"
+    },
+    "F": {
+      "en": "Viral hepatitis",
+      "zh": "病毒性肝炎"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Pancreatic adenocarcinoma should be considered in any patient with painless obstructive jaundice (elevated bilirubin, dark urine, pale stools) and weight loss. Courvoisier sign (painless palpable gallbladder in a jaundiced patient) can also raise suspicion, although this can be seen in a number of conditions (eg, cholangiocarcinoma, hepatic duct obstruction). Symptoms of pancreatic malignancy vary with location; tumors at the pancreatic head typically produce obstructive symptoms due to compression of the common bile duct (CBD), whereas those in the body and tail do not obstruct the CBD and often produce midepigastric pain due to invasion of the splanchnic plexus.\n\nSmoking is the most important environmental risk factor for pancreatic cancer and doubles the risk.\n\n(Choice A) Alcohol consumption increases the risk of malignant tumors involving the head, neck, esophagus, and liver. Chronic alcohol consumption can cause chronic pancreatitis, but moderate alcohol use in the absence of chronic pancreatitis does not appear to confer any additional risk for pancreatic cancer.\n\n(Choice C) Chronic, heavy intake of hot beverages is associated with increased risk for esophageal cancer, but coffee intake does not increase the risk of pancreatic cancer.\n\n(Choices D and E) A low-fiber diet and diets high in processed meats are associated with an increased risk of colon adenocarcinoma.\n\n(Choice F) Chronic viral hepatitis B and C greatly increase the risk of hepatocellular carcinoma. They may increase the risk of pancreatic cancer, but only slightly.",
+    "zh": "在任何出现无痛性梗阻性黄疸（胆红素升高、尿色深、粪便呈淡色）和体重减轻的患者中，均应考虑胰腺腺癌。Courvoisier征（黄疸患者出现无痛性可触及胆囊）也可能引起怀疑，尽管这可见于多种疾病（例如，胆管癌、肝管梗阻）。胰腺恶性肿瘤的症状因部位而异；胰腺头部肿瘤通常因压迫胆总管（CBD）而产生梗阻性症状，而体部和尾部的肿瘤不阻塞CBD，并且常常因侵犯内脏神经丛而产生中上腹疼痛。\n\n吸烟是胰腺癌最重要的环境危险因素，可使风险增加一倍。\n\n（选项A）饮酒会增加涉及头部、颈部、食管和肝脏的恶性肿瘤的风险。长期饮酒可引起慢性胰腺炎，但在没有慢性胰腺炎的情况下，适度饮酒似乎不会增加胰腺癌的额外风险。\n\n（选项C）长期大量摄入热饮与食管癌风险增加相关，但咖啡摄入不会增加胰腺癌的风险。\n\n（选项D和E）低纤维饮食和高加工肉类饮食与结肠腺癌风险增加相关。\n\n（选项F）慢性乙型和丙型病毒性肝炎大大增加了肝细胞癌的风险。它们可能会略微增加胰腺癌的风险。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of risk factors for pancreatic adenocarcinoma, specifically the importance of cigarette smoking. The clinical presentation includes obstructive jaundice and weight loss, which are key features of pancreatic cancer.\n\nTo solve this question, recognize the classic presentation of pancreatic cancer and recall the major risk factors. Smoking is the most significant modifiable risk factor, making it the strongest predisposing factor in this case.",
+    "zh": "这道题测试对胰腺腺癌风险因素的了解，特别是吸烟的重要性。临床表现包括梗阻性黄疸和体重减轻，这是胰腺癌的关键特征。\n\n要解决这个问题，需要认识到胰腺癌的典型表现，并回忆主要的风险因素。吸烟是最重要的可改变的风险因素，因此在本例中是导致疾病的最强因素。"
+  },
+  "tags": "Pancreatic adenocarcinoma; Obstructive jaundice; Weight loss; Cigarette smoking; Risk factors; Gastroenterology; Oncology",
+  "category": "GIT",
+  "question_id": "436",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\436",
+  "extracted_at": "2025-11-05T14:36:32.606213",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:58:13.361522",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

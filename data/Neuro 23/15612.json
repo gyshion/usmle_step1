@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 38-year-old woman is being evaluated for intermittent tingling and numbness of the left hand for the past several months. Her symptoms predominantly involve the fourth and fifth digits and are often brought on by driving a car. Physical examination shows no abnormalities. An electrodiagnostic study is performed, during which a nerve stimulator is placed on the left fifth digit and a surface recorder is placed over the ulnar nerve above the elbow. Electrical stimulus is applied, and the graph obtained is shown below {{exhibit_1}}. Results from the asymptomatic contralateral extremity are also shown. Which of the following is primarily affected in this patient?",
+    "zh": "一名38岁的女性正在接受评估，因为她过去几个月来左手间歇性刺痛和麻木。她的症状主要涉及第四和第五个手指，并且经常在开车时出现。体格检查未见异常。进行了一项电诊断研究，在此期间，将神经刺激器放置在左侧第五个手指上，并将表面记录仪放置在肘部上方的尺神经上。应用电刺激，获得的图表如下所示 {{exhibit_1}}。还显示了无症状对侧肢体的结果。该患者主要受到以下哪一项的影响？"
+  },
+  "question": {
+    "en": "Which of the following is primarily affected in this patient?",
+    "zh": "该患者主要受到以下哪一项的影响？"
+  },
+  "options": {
+    "A": {
+      "en": "Neuronal axons",
+      "zh": "神经元轴突"
+    },
+    "B": {
+      "en": "Neuronal cell bodies",
+      "zh": "神经元胞体"
+    },
+    "C": {
+      "en": "Postsynaptic membrane",
+      "zh": "突触后膜"
+    },
+    "D": {
+      "en": "Schwann cells",
+      "zh": "许旺细胞"
+    },
+    "E": {
+      "en": "Synaptic vesicles",
+      "zh": "突触小泡"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "A nerve conduction study (NCS) measures the amplitude, velocity, and latency of an electrical stimulus applied to an isolated nerve and can help differentiate between demyelinating and axonal neuropathies.\n\n*   Demyelinating neuropathies are caused by damage to the myelin sheath. Loss of insulation results in delayed (or blocked) nerve conduction velocity.\n*   Axonal neuropathies are caused by damage to the nerve axon. Loss of axon fibers results in reduced signal amplitude.\n\nThis patient has a delay in left-sided ulnar conduction velocity, indicating a demyelinating ulnar mononeuropathy. Focal nerve compression (eg, compression of the ulnar nerve at the elbow) is the most common cause of mononeuropathy and results in nerve ischemia, leading to apoptosis of Schwann cells and localized demyelination. In addition to sensory symptoms, patients with ulnar neuropathy may also have weakness of the fourth and fifth digits, elbow pain, and worsening of symptoms with elbow or wrist flexion. Severe disease can lead to wasting of the hand muscles and an ulnar claw deformity.\n\n(Choice A) An axonal neuropathy would primarily show diminished amplitude, rather than reduced velocity of nerve conduction. Common causes of axonal neuropathy include diabetes mellitus, toxins (eg, chemotherapeutic drugs), hypothyroidism, vitamin B12 deficiency, and vasculitis.\n\n(Choice B) Neuronal cell bodies are located in the dorsal root ganglia and the anterior horn of the spinal cord. Neuronal cell body damage could potentially result in reduced signal amplitude if there is secondary axonal degeneration.\n\n(Choice C) Myasthenia gravis is due to autoimmune attack on the acetylcholine receptors of the postsynaptic membrane. This causes fatigable weakness of the ocular, facial, and proximal muscles. NCS is typically normal, but muscle stimulation studies demonstrate a reduction in motor signal strength with repetitive stimuli.\n\n(Choice E) Botulinum toxin blocks acetylcholine release from presynaptic membranes of the neuromuscular junction by impairing fusion of secretory vesicles with the synaptic membrane. Patients typically develop cranial neuropathies with symmetric, descending flaccid paralysis. NCS is typically normal; muscle stimulation studies may show a reduction in motor signal strength that improves with repetitive stimuli.\n\nEducational objective:\nUlnar neuropathy is characterized by numbness of the fourth and fifth digits, pain, and weakness. It is most commonly caused by compressive injury, leading to tissue ischemia and demyelination (Schwann cell injury). A nerve conduction study can help differentiate demyelinating versus axonal neuropathies: demyelination causes slowed or blocked nerve conduction velocity whereas axonal injury leads to a reduction in signal strength. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "神经传导研究 (NCS) 测量施加于孤立神经的电刺激的振幅、速度和潜伏期，有助于区分脱髓鞘和轴突神经病。\n\n*   脱髓鞘性神经病是由髓鞘损伤引起的。绝缘丧失导致神经传导速度延迟（或阻滞）。\n*   轴突神经病是由神经轴突损伤引起的。轴突纤维的缺失导致信号振幅降低。\n\n该患者左侧尺神经传导速度延迟，表明存在脱髓鞘性尺神经单神经病。局部神经压迫（例如，肘部尺神经受压）是单神经病最常见的原因，会导致神经缺血，从而导致许旺细胞凋亡和局部脱髓鞘。除了感觉症状外，尺神经病患者还可能出现第四和第五个手指无力、肘部疼痛以及肘部或腕部屈曲时症状加重。严重疾病可导致手部肌肉萎缩和尺爪畸形。\n\n（选项 A）轴突神经病主要表现为振幅减小，而不是神经传导速度降低。轴突神经病的常见病因包括糖尿病、毒素（例如化疗药物）、甲状腺功能减退、维生素 B12 缺乏和血管炎。\n\n（选项 B）神经元胞体位于背根神经节和脊髓前角。如果出现继发性轴突变性，神经元胞体损伤可能会导致信号振幅降低。\n\n（选项 C）重症肌无力是由于自身免疫攻击突触后膜上的乙酰胆碱受体引起的。这会导致眼肌、面部和近端肌肉疲劳性无力。NCS 通常正常，但肌肉刺激研究表明，重复刺激时运动信号强度降低。\n\n（选项 E）肉毒杆菌毒素通过损害分泌小泡与突触膜的融合来阻断乙酰胆碱从神经肌肉接头的前突触膜释放。患者通常会发生颅神经病，并伴有对称性、下降性弛缓性麻痹。NCS 通常正常；肌肉刺激研究可能显示重复刺激后运动信号强度有所下降。 \n\n教育目标：\n尺神经病的特征是第四和第五个手指麻木、疼痛和无力。它最常见的原因是压迫性损伤，导致组织缺血和脱髓鞘（许旺细胞损伤）。神经传导研究有助于区分脱髓鞘性神经病与轴突神经病：脱髓鞘导致神经传导速度减慢或阻滞，而轴突损伤导致信号强度降低。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of ulnar neuropathy, specifically how to interpret nerve conduction studies to differentiate between demyelinating and axonal neuropathies. It also tests understanding of the pathophysiology of nerve compression and its effect on Schwann cells.\n\nTo solve this question, recognize the clinical presentation of ulnar neuropathy (numbness/tingling in 4th/5th digits). Then, interpret the nerve conduction study showing delayed conduction velocity, which indicates demyelination. Finally, associate demyelination with Schwann cell injury due to nerve compression.",
+    "zh": "此题考察对尺神经病的认识，特别是如何解读神经传导研究以区分脱髓鞘性和轴突性神经病。 同时也考察对神经压迫的病理生理学及其对许旺细胞影响的理解。\n\n解决此题，需要认识尺神经病的临床表现（第4/5个手指麻木/刺痛）。然后，解读显示传导速度延迟的神经传导研究，这表明脱髓鞘。 最后，将脱髓鞘与神经压迫引起的许旺细胞损伤联系起来。"
+  },
+  "tags": "Ulnar neuropathy; Nerve conduction study; Demyelination; Schwann cells; Nerve compression; Electrodiagnostic study; Mononeuropathy; Peripheral neuropathy",
+  "category": "Neuro",
+  "question_id": "15612",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\15612",
+  "extracted_at": "2025-11-05T15:18:09.709629",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:20:21.381732",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

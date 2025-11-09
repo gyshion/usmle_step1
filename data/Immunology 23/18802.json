@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 29-year-old woman comes to the office with a 2-month history of right lower quadrant pain and intermittent diarrhea. Vital signs are normal. The examination is unremarkable except for right lower quadrant tenderness. After confirmatory testing, the patient is given a delayed ileal-release medication that works by binding to a cytosolic receptor, translocating to the nucleus, and inhibiting nuclear factor-kappa-B (NF-kB).",
+    "zh": "一名29岁的女性来到诊所，主诉右下腹疼痛和间歇性腹泻2个月。生命体征正常。体格检查无特殊发现，仅右下腹有压痛。在确诊性检查后，患者被给予一种延迟回肠释放的药物，该药物通过与胞质受体结合，易位至细胞核，并抑制核因子-κB（NF-kB）发挥作用。"
+  },
+  "question": {
+    "en": "The patient is most likely being treated with which of the following medications?",
+    "zh": "患者最有可能正在接受以下哪种药物治疗？"
+  },
+  "options": {
+    "A": {
+      "en": "Azathioprine",
+      "zh": "硫唑嘌呤"
+    },
+    "B": {
+      "en": "Budesonide",
+      "zh": "布地奈德"
+    },
+    "C": {
+      "en": "Infliximab",
+      "zh": "英夫利昔单抗"
+    },
+    "D": {
+      "en": "Methotrexate",
+      "zh": "甲氨蝶呤"
+    },
+    "E": {
+      "en": "Mycophenolate",
+      "zh": "吗替麦考酚酯"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has chronic right lower abdominal pain with tenderness and intermittent diarrhea, symptoms that raise suspicion for CROHN DISEASE with ongoing active inflammation. Patients with mild Crohn disease (eg, limited area of inflammation, no evidence of systemic involvement) are often treated with a targeted-release glucocorticoid such as budesonide to reduce inflammation and induce disease remission.\n\nGlucocorticoids, like many other lipid-derived hormones (eg, progesterone, estrogen), bind to a cytosolic receptor rather than a cell surface receptor. The glucocorticoid-receptor complex can then translocate into the nucleus, bind to the relevant DNA regions, and cause a tissue-specific alteration in transcription. In immune cells, the effects of glucocorticoids include inhibition of proinflammatory transcription factors such as nuclear factor-kappa-B (NF-kB), which results in reduced expression of cytokines and inflammatory mediators (eg, TNF-alpha) along with decreased immune cell survival and propagation. {{exhibit_1}}\n\nOral budesonide (often given in a delayed-release preparation that targets the ileum) is especially useful in Crohn disease because it has high topical potency and less systemic adverse effects than other glucocorticoids (eg, prednisone) due to high first-pass metabolism.\n\n(Choices A and E) Azathioprine and mycophenolate can be used to reduce inflammation in patients with moderate-severe Crohn disease by inhibition of de novo purine synthesis, which immune cells (eg, B and T cells) are especially dependent on during proliferation. Both agents inhibit key enzymes in the purine synthesis pathway (which occurs in the cytosol) rather than inhibiting transcription factors.\n\n(Choice C) Although infliximab can be used to induce remission in patients with moderate-severe Crohn disease, it is a monoclonal antibody that reduces inflammation by binding to and inhibiting the proinflammatory effects of tumor necrosis factor-alpha (TNF-alpha), a cytokine that is primarily found extracellularly.\n\n(Choice D) Methotrexate and its breakdown products are folic acid analogues that can reduce inflammation by competitively inhibiting multiple folate-dependent enzymes rather than inhibiting transcription factors.\n\nEducational objective:\nBudesonide, like other glucocorticoids, reduces inflammation by binding to a cytosolic receptor, translocating into the nucleus, and inhibiting proinflammatory transcription factors such as nuclear factor-kappa-B (NF-kB). It is especially useful in reducing transmural bowel inflammation in patients with Crohn disease because it has high topical potency and limited systemic adverse effects due to high first-pass metabolism.",
+    "zh": "该患者有慢性右下腹疼痛伴压痛和间歇性腹泻，这些症状提示克罗恩病，伴有持续的活动性炎症。患有轻度克罗恩病（例如，炎症范围有限，无全身受累的证据）的患者通常用靶向释放的糖皮质激素（如布地奈德）治疗，以减轻炎症并诱导疾病缓解。\n\n糖皮质激素，与其他许多脂质衍生的激素（例如，孕酮、雌激素）一样，与胞质受体结合，而不是细胞表面受体结合。然后，糖皮质激素-受体复合物可以易位到细胞核中，与相关的DNA区域结合，并导致组织特异性的转录改变。在免疫细胞中，糖皮质激素的作用包括抑制促炎转录因子，如核因子-κB（NF-kB），这导致细胞因子和炎症介质（例如，TNF-α）的表达减少，以及免疫细胞存活和增殖的减少。{{exhibit_1}}\n\n口服布地奈德（通常以靶向回肠的缓释制剂给药）在克罗恩病中特别有用，因为它具有很高的局部效力和比其他糖皮质激素（例如，泼尼松）更少的全身不良反应，这归因于首过代谢。\n\n（选项A和E）硫唑嘌呤和吗替麦考酚酯可用于通过抑制从头嘌呤合成来减轻中重度克罗恩病患者的炎症，免疫细胞（例如，B细胞和T细胞）在增殖过程中特别依赖于从头嘌呤合成。这两种药物都会抑制嘌呤合成途径中的关键酶（发生在胞质中），而不是抑制转录因子。\n\n（选项C）尽管英夫利昔单抗可用于诱导中重度克罗恩病患者的缓解，但它是一种单克隆抗体，通过与肿瘤坏死因子-α（TNF-α）（一种主要存在于细胞外的细胞因子）结合并抑制其促炎作用来减少炎症。\n\n（选项D）甲氨蝶呤及其分解产物是叶酸类似物，可通过竞争性抑制多种叶酸依赖性酶来减轻炎症，而不是抑制转录因子。\n\n教学目标：\n布地奈德，与其他糖皮质激素一样，通过与胞质受体结合、易位到细胞核并抑制促炎转录因子（如核因子-κB（NF-kB））来减轻炎症。它在减轻克罗恩病患者的跨壁肠道炎症方面特别有用，因为它具有很高的局部效力，并且由于首过代谢而具有有限的全身不良反应。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Crohn's disease treatment, specifically the use of budesonide for mild disease and its mechanism of action as a glucocorticoid. It also requires understanding the mechanisms of action of other immunosuppressants used in Crohn's disease.\n\nTo solve this question, recognize the patient's presentation as suggestive of mild Crohn's disease. Recall that budesonide, a targeted-release glucocorticoid, is often used for mild Crohn's due to its topical potency and reduced systemic side effects. Eliminate other options based on their mechanisms of action and typical use in more severe Crohn's disease.",
+    "zh": "此题考察对克罗恩病治疗的了解，特别是布地奈德用于轻度疾病及其作为糖皮质激素的作用机制。它还要求了解克罗恩病中使用的其他免疫抑制剂的作用机制。\n\n要解决此题，首先要认识到患者的临床表现提示轻度克罗恩病。记住布地奈德是一种靶向释放的糖皮质激素，常用于轻度克罗恩病，因为它具有局部效力并减少全身副作用。根据其他选项的作用机制及其在更严重的克罗恩病中的典型使用来排除其他选项。"
+  },
+  "tags": "Crohn's disease; Budesonide; Glucocorticoids; Immunosuppressants; Inflammation; Gastrointestinal; Nuclear factor-kappa B; NF-kB; Azathioprine; Infliximab",
+  "category": "Immunology",
+  "question_id": "18802",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\18802",
+  "extracted_at": "2025-11-05T14:42:14.767004",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:01:17.486722",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

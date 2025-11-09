@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old woman, gravida 3 para 3, comes to the office due to constipation. For the past 6 months, the patient has had increasing constipation associated with mild, crampy abdominal pain and fatigue. She has only 1 or 2 bowel movements every week. Medical history is notable for nephrolithiasis, for which the patient was briefly hospitalized a year ago. She has not undergone colonoscopy. Vital signs are normal. The abdomen is soft. Rectal tone is normal. Deep tendon reflexes are 2+. The remainder of the examination shows no abnormalities. Laboratory results are as follows:\n\nSerum chemistry\nSodium 140 mEq/L\nPotassium 3.9 mEq/L\nCreatinine 0.9 mg/dL\nCalcium 11.5 mg/dL\nPhosphorus (inorganic) 2.2 mg/dL",
+    "zh": "一名55岁女性，孕3产3，因便秘前来就诊。过去6个月来，患者便秘日益加重，伴有轻微的痉挛性腹痛和疲劳。她每周只有1到2次排便。病史值得注意的是肾结石病，患者一年前曾因此短暂住院。她尚未接受结肠镜检查。生命体征正常。腹部柔软。直肠张力正常。深腱反射为2+。其余检查未见异常。实验室检查结果如下：\n\n血清化学\n钠 140 mEq/L\n钾 3.9 mEq/L\n肌酐 0.9 mg/dL\n钙 11.5 mg/dL\n磷（无机） 2.2 mg/dL"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying cause of constipation in this patient?",
+    "zh": "该患者便秘最可能的根本原因是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased colonic smooth muscle contractility",
+      "zh": "结肠平滑肌收缩力下降"
+    },
+    "B": {
+      "en": "Dysfunction of pelvic floor muscles",
+      "zh": "盆底肌功能障碍"
+    },
+    "C": {
+      "en": "Impaired sacral parasympathetic innervation",
+      "zh": "骶神经副交感神经支配受损"
+    },
+    "D": {
+      "en": "Malignant obstruction of colon",
+      "zh": "结肠恶性梗阻"
+    },
+    "E": {
+      "en": "Segmental demyelination of autonomic nerves",
+      "zh": "自主神经节段性脱髓鞘"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has constipation associated with HYPERCALCEMIA and HYPOPHOSPHATEMIA, which is a common presentation of PRIMARY HYPERPARATHYROIDISM (PHPT). PHPT is usually caused by a benign parathyroid adenoma that autonomously secretes parathyroid hormone (PTH), leading to increased bone resorption, increased renal calcium reabsorption, and increased intestinal calcium absorption (due to increased production of 1,25-dihydroxyvitamin D). This patient's history of renal stones also indicates hyperparathyroidism and is due to increased urinary calcium excretion despite maximal renal tubular calcium reabsorption.\n\nHypercalcemia INHIBITS nerve depolarization by interfering with sodium movement through voltage-gated sodium channels, leading to IMPAIRED smooth muscle contraction and reduced colonic motility. Symptoms include constipation, crampy abdominal pain, and nausea. Other potential gastrointestinal manifestations of hypercalcemia include acute pancreatitis (due to increased conversion of trypsinogen to trypsin) and peptic ulcer (due to increased release of gastrin).\n\n(Choice B) Dyssynergic defecation is characterized by altered passage of stool through the anorectum due to uncoordinated contraction and relaxation of pelvic floor muscles. It is often caused by obstetric complications during vaginal delivery. However, hypercalcemia and hypophosphatemia would not be present, and most patients have either anal sphincter dysfunction or the absence of perianal descent (this patient's rectal tone is normal).\n\n(Choices C and E) Intestinal motor function is generally stimulated by the parasympathetic nervous system and inhibited by the sympathetic nervous system. Although constipation can occur due to autonomic dysfunction from demyelination (eg, multiple sclerosis) or nerve fiber interruption (eg, traumatic spinal cord injury), these disorders would not explain this patient's electrolyte abnormalities.\n\n(Choice D) Colon cancer can cause intestinal obstruction, which can interfere with the passage of stool, and can be associated with hypercalcemia (bone metastasis); however, this would result in PTH suppression, so it is unlikely to cause hypophosphatemia. This patient's history of renal stones also is more consistent with primary hyperparathyroidism.\n\nEducational objective:\nHypercalcemia inhibits nerve depolarization, leading to impaired smooth muscle contraction and reduced colonic motility. Symptoms include constipation, crampy abdominal pain, and nausea.",
+    "zh": "该患者的便秘与高钙血症和低磷血症有关，这是原发性甲状旁腺功能亢进症 (PHPT) 的常见表现。PHPT 通常由良性甲状旁腺腺瘤引起，该腺瘤自主分泌甲状旁腺激素 (PTH)，导致骨吸收增加、肾钙重吸收增加和肠道钙吸收增加（由于1,25-二羟基维生素 D 的产生增加）。该患者的肾结石病史也表明存在甲状旁腺功能亢进，这是由于尿钙排泄增加，尽管肾小管钙重吸收已达到最大。\n\n高钙血症通过干扰钠通过电压门控钠通道的运动来抑制神经去极化，从而导致平滑肌收缩受损和结肠蠕动减弱。症状包括便秘、痉挛性腹痛和恶心。高钙血症的其他潜在胃肠道表现包括急性胰腺炎（由于胰酶原转化为胰酶增加）和消化性溃疡（由于胃泌素释放增加）。\n\n（选项 B）排便功能障碍的特征是由于盆底肌收缩和松弛不协调导致粪便通过肛门直肠的通道改变。它通常由阴道分娩期间的产科并发症引起。然而，不会出现高钙血症和低磷血症，并且大多数患者要么有肛门括约肌功能障碍，要么没有肛周下降（该患者的直肠张力正常）。\n\n（选项 C 和 E）肠道运动功能通常受副交感神经系统刺激并受交感神经系统抑制。尽管便秘可能是由于脱髓鞘导致的自主神经功能障碍（例如，多发性硬化症）或神经纤维中断（例如，创伤性脊髓损伤）引起的，但这些疾病并不能解释该患者的电解质异常。\n\n（选项 D）结肠癌可引起肠梗阻，从而干扰粪便的通过，并可能与高钙血症（骨转移）相关；然而，这将导致 PTH 抑制，因此不太可能引起低磷血症。该患者的肾结石病史也更符合原发性甲状旁腺功能亢进症。\n\n教育目标：\n高钙血症抑制神经去极化，导致平滑肌收缩受损和结肠蠕动减弱。症状包括便秘、痉挛性腹痛和恶心。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the presentation of primary hyperparathyroidism, specifically the gastrointestinal manifestations of hypercalcemia and hypophosphatemia. It also tests the ability to recognize the underlying pathophysiology of constipation in the context of electrolyte abnormalities. \n\nTo solve this question, identify the key findings of constipation, hypercalcemia, hypophosphatemia, and nephrolithiasis. Recognize that these findings are consistent with primary hyperparathyroidism, which leads to decreased colonic smooth muscle contractility due to hypercalcemia.",
+    "zh": "这个问题考察了对原发性甲状旁腺功能亢进症表现的了解，特别是高钙血症和低磷血症的胃肠道表现。它还考察了在电解质异常的背景下识别便秘的潜在病理生理学能力。\n\n要解决这个问题，请确定便秘、高钙血症、低磷血症和肾结石病的关键发现。认识到这些发现与原发性甲状旁腺功能亢进症一致，后者由于高钙血症导致结肠平滑肌收缩力下降。"
+  },
+  "tags": "Primary hyperparathyroidism; Hypercalcemia; Hypophosphatemia; Constipation; Nephrolithiasis; Gastrointestinal motility; Endocrinology; Calcium metabolism",
+  "category": "Endo",
+  "question_id": "20449",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\20449",
+  "extracted_at": "2025-11-05T14:06:17.227029",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:40:42.262852",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

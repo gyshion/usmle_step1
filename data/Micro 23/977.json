@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "An outbreak of diarrheal illness occurs in a community after a massive hurricane. The affected patients experience voluminous, watery diarrhea that quickly leads to severe dehydration. Stool examinations of these patients yield oxidase-positive, curved, highly motile, gram-negative rods. Epidemiologic study reveals the source as a contaminated water supply.",
+    "zh": "一场腹泻疾病爆发发生在一次大型飓风过后。受影响的患者出现大量水样腹泻，迅速导致严重脱水。对这些患者的粪便检查显示革兰氏阴性杆菌，革兰氏染色阳性，呈弧形，高度运动，氧化酶阳性。流行病学研究表明，污染的水源是此次爆发的来源。"
+  },
+  "question": {
+    "en": "Which of the following patient populations would be most susceptible to developing this illness?",
+    "zh": "以下哪类患者群体最容易患上这种疾病？"
+  },
+  "options": {
+    "A": {
+      "en": "Patients lacking a functional spleen",
+      "zh": "缺乏功能性脾脏的患者"
+    },
+    "B": {
+      "en": "Patients taking proton pump inhibitors",
+      "zh": "服用质子泵抑制剂的患者"
+    },
+    "C": {
+      "en": "Patients who recently took antibiotics",
+      "zh": "最近服用过抗生素的患者"
+    },
+    "D": {
+      "en": "Patients with chronic liver disease",
+      "zh": "患有慢性肝病的患者"
+    },
+    "E": {
+      "en": "Patients with cystic fibrosis",
+      "zh": "患有囊性纤维化的患者"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Vibrio cholerae is a comma-shaped, oxidase-positive, highly motile, gram-negative rod that is acquired after ingesting contaminated food or water. The infection is not invasive and does not disseminate outside of the gastrointestinal tract. However, the elaboration of the cholera enterotoxin leads to severe, watery diarrhea that can cause death from electrolyte imbalance and dehydration within 12 hours of symptom onset. Cholera is endemic in southern Asia and parts of Africa and Latin America, where seasonal outbreaks are common (peaks occur prior to and after rainy seasons). In the United States, the disease is rare and occurs mainly in patients who ingest contaminated seafood from the Gulf Coast.\n\nV cholerae must survive the acidic environment of the stomach to reach the small intestine and cause disease. Because the organism is very acid-sensitive, a high burden of V cholerae is generally required to cause clinical symptoms (>10^6 organisms from contaminated water or >10^8 organisms from contaminated food). However, those with inadequate gastric acid production (achlorhydria) can develop the disease with much smaller infectious doses as there is insufficient acid to kill the bacteria. Patients on long-term proton pump inhibitor therapy (eg, omeprazole) have pharmacologically induced achlorhydria; it can also be seen in those with gastritis.\n\n(Choice A) Patients with splenectomy are at much higher risk of fulminant infection with encapsulated bacteria such as Streptococcus pneumoniae, Neisseria meningitidis, and Haemophilus influenzae. V cholerae is not encapsulated and not invasive; patients with splenectomy are unlikely to be at greater risk.\n\n(Choice C) Recent antibiotic use is a strong risk factor for Clostridium difficile colitis, which typically manifests with watery diarrhea, abdominal pain, and low-grade fever. C difficile is a spore-forming, toxin-producing, gram-positive organism.\n\n(Choice D) Patients with chronic liver disease are at increased risk for severe disease with Vibrio vulnificus, which can cause watery diarrhea. However, the ingestion of this pathogen usually leads to severe, rapid-onset sepsis in susceptible patients. In addition, V vulnificus is more likely to cause wound infections than gastroenteritis.\n\n(Choice E) Patients with cystic fibrosis are at high risk for infections with Pseudomonas aeruginosa, an oxidase-positive, gram-negative rod. This pathogen is a common cause of pneumonia in this population; it does not cause gastroenteritis outbreaks.\n\nEducational objective: \nVibrio cholerae must survive the acidic environment of the stomach to reach the small intestine and cause disease. Because the organism is easily destroyed by acid, a high burden of organisms must be ingested to cause infection. However, conditions that decrease gastric acidity (eg, antacid use) lower the minimum infectious dose of V cholerae by multiple orders of magnitude.",
+    "zh": "霍乱弧菌是一种呈逗点状、氧化酶阳性、高度运动的革兰氏阴性杆菌，通过摄入受污染的食物或水而获得。这种感染不具有侵袭性，也不会扩散到胃肠道外。然而，霍乱肠毒素的产生会导致严重的、水样腹泻，可在症状出现后12小时内因电解质失衡和脱水而导致死亡。霍乱在南亚、非洲部分地区和拉丁美洲是地方性流行病，季节性爆发很常见（高峰出现在雨季前后）。在美国，这种疾病很少见，主要发生在摄入来自墨西哥湾沿岸受污染海鲜的患者身上。\n\n霍乱弧菌必须在胃的酸性环境中存活下来才能到达小肠并引起疾病。由于这种生物对酸非常敏感，通常需要大量的霍乱弧菌才能引起临床症状（>10^6个来自受污染水或>10^8个来自受污染食物的生物）。然而，胃酸分泌不足（胃酸缺乏症）的患者即使摄入较小剂量的细菌也能患病，因为酸不足以杀死细菌。长期服用质子泵抑制剂（如奥美拉唑）的患者会出现药理性引起的胃酸缺乏症；这种情况也可见于患有胃炎的患者。\n\n（选项A）脾切除术后的患者发生肺炎链球菌、脑膜炎奈瑟菌和流感嗜血杆菌等荚膜细菌引起的暴发性感染的风险要高得多。霍乱弧菌没有荚膜且不具有侵袭性；脾切除术后的患者不太可能面临更大的风险。\n\n（选项C）最近使用抗生素是艰难梭菌性结肠炎的一个强烈危险因素，通常表现为水样腹泻、腹痛和低烧。艰难梭菌是一种产孢、产毒素的革兰氏阳性生物。\n\n（选项D）患有慢性肝病的患者感染溶血性弧菌的风险增加，溶血性弧菌可引起水样腹泻。然而，摄入这种病原体通常会导致易感患者出现严重、快速发生的败血症。此外，溶血性弧菌比胃肠炎更容易引起伤口感染。\n\n（选项E）患有囊性纤维化的患者感染铜绿假单胞菌的风险很高，铜绿假单胞菌是一种氧化酶阳性的革兰氏阴性杆菌。这种病原体是该人群中肺炎的常见原因；它不会引起胃肠炎爆发。\n\n教育目标：霍乱弧菌必须在胃的酸性环境中存活下来才能到达小肠并引起疾病。由于这种生物很容易被酸破坏，因此必须摄入大量的生物才能引起感染。然而，降低胃酸度的状况（例如，抗酸剂的使用）会降低霍乱弧菌的最低感染剂量数个数量级。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Vibrio cholerae infection and risk factors for developing the disease. Specifically, it assesses understanding of how gastric acidity protects against infection and how proton pump inhibitors increase susceptibility.\n\nTo solve this question, recognize that Vibrio cholerae is acid-sensitive and requires a high infectious dose. Identify the patient population with reduced gastric acidity, which lowers the required infectious dose and increases susceptibility to infection.",
+    "zh": "本题考察对霍乱弧菌感染和患病风险因素的了解。具体来说，它评估了对胃酸如何预防感染以及质子泵抑制剂如何增加易感性的理解。\n\n要解决这个问题，要认识到霍乱弧菌对酸敏感，需要高感染剂量。确定胃酸降低的患者群体，这将降低所需的感染剂量并增加对感染的易感性。"
+  },
+  "tags": "Vibrio cholerae; Infectious disease; Gastroenteritis; Diarrhea; Proton pump inhibitors; Gastric acid; Achlorhydria; Epidemiology; Gram-negative bacteria; Public health",
+  "category": "Micro",
+  "question_id": "977",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\977",
+  "extracted_at": "2025-11-05T15:06:59.637365",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:14:03.581951",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 68-year-old man comes to the office due to exertional shortness of breath and fatigue, which have progressed over the past year. The patient has a history of hypertension, but medical history is otherwise unremarkable. He is a lifetime nonsmoker. His father died of a \"heart attack\" at age 70. Blood pressure is 144/74 mm Hg, and pulse is 72/min and regular. Cardiac auscultation reveals a 3/6 ejection-type, late-peaking systolic murmur and a barely audible S2. The murmur diminishes in intensity during the straining phase of the Valsalva maneuver. Which of the following processes underlies this patient's current condition? {{exhibit_1}}",
+    "zh": "一位68岁的男性因劳力性呼吸困难和疲劳前来就诊，这些症状在过去一年中逐渐加重。患者有高血压病史，但其他病史无特殊。他一生不吸烟。他的父亲在70岁时死于“心脏病发作”。血压为144/74 mmHg，脉搏72次/分钟，规律。心脏听诊显示3/6级喷射型、高峰延迟的收缩期杂音，S2几乎听不到。Valsalva动作的屏气阶段杂音强度减弱。以下哪种过程是导致该患者目前病情的根本原因？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following processes underlies this patient's current condition?",
+    "zh": "以下哪种过程是导致该患者目前病情的根本原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Cardiomyocyte hypertrophy and disarray causing asymmetric septal thickening",
+      "zh": "心肌细胞肥大和排列紊乱，引起不对称性室间隔增厚"
+    },
+    "B": {
+      "en": "Differentiation of valve fibroblasts into osteoblast-like cells",
+      "zh": "瓣膜成纤维细胞分化为成骨细胞样细胞"
+    },
+    "C": {
+      "en": "Myxomatous valve thickening and elastin fragmentation",
+      "zh": "黏液样瓣膜增厚和弹性蛋白断裂"
+    },
+    "D": {
+      "en": "Subendocardial granulomatous lesions with fibrinoid necrosis and subsequent fibrosis",
+      "zh": "心内膜下肉芽肿性病变伴纤维素样坏死和随后的纤维化"
+    },
+    "E": {
+      "en": "Thrombus formation on inflamed valvular endothelium",
+      "zh": "炎症性瓣膜内皮上的血栓形成"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's soft S2 and late-peaking systolic ejection murmur that decreases in intensity with maneuvers that decrease left ventricular blood volume (eg, abrupt standing, Valsalva straining phase) are consistent with aortic stenosis, which most commonly occurs due to age-related calcific aortic valve disease (CAVD). The early pathogenesis of CAVD is analogous to that of arterial atherosclerosis. The endothelium lining the aortic side of the aortic valve cusps is exposed to the same high pressure and turbulent blood flow as the aortic vascular endothelium. As occurs with atheroma development in the vascular endothelium, these mechanical forces (along with smoking, hyperglycemia, and hyperlipidemia) over time cause damage to the aortic valve cusp endothelium, triggering endothelial dysfunction and the onset of a similar atherosclerotic process. There is subendothelial lipid deposition and infiltration of inflammatory cells (ie, macrophages, T lymphocytes) followed by the release of inflammatory mediators (eg, interleukin-1-beta, transforming growth factor beta-1). Subsequently, there is increased production of proteins involved in tissue calcification (eg, osteopontin). Fibroblasts differentiate into osteoblast-like cells, leading to aberrant bone matrix deposition with progressive valvular calcification and stenosis. {{exhibit_2}}\n\n(Choice A) Cardiomyocyte hypertrophy and disarray with asymmetric septal thickening occurs in hypertrophic cardiomyopathy. As with aortic stenosis, patients have a harsh crescendo-decrescendo systolic murmur; however, the murmur increases (rather than decreases) in intensity with maneuvers that reduce left ventricular blood volume.\n\n(Choice C) Myxomatous valve thickening and elastin fragmentation is typically seen in mitral valve prolapse. Patients have a nonejection systolic click and a mid-to-late systolic murmur that occurs earlier in systole with decreases in left ventricular blood volume.\n\n(Choice D) Subendocardial granulomatous lesions with fibrinoid necrosis and subsequent fibrosis are seen in patients with rheumatic heart disease. Patients with rheumatic aortic stenosis typically have mitral valve involvement as well, which would be evidenced by a murmur of mitral stenosis or regurgitation.\n\n(Choice E) Inflammation of valvular endothelium with deposition of sterile platelet thrombi is seen in nonbacterial thrombotic endocarditis (also known as marantic, verrucous, or Libman-Sacks endocarditis). The mitral or aortic valve is typically involved, usually leading to regurgitation rather than stenosis. {{exhibit_3}}",
+    "zh": "该患者的S2减弱和高峰延迟的收缩期喷射杂音，其强度随着减少左心室血容量的动作（例如，突然站立、Valsalva屏气阶段）而减弱，与主动脉瓣狭窄一致，主动脉瓣狭窄最常由于年龄相关的钙化性主动脉瓣疾病（CAVD）引起。CAVD的早期发病机制类似于动脉粥样硬化。覆盖主动脉瓣叶的主动脉侧的内皮细胞暴露于与主动脉血管内皮相同的高压和湍流血流。正如动脉血管内皮中斑块的形成一样，这些机械力（以及吸烟、高血糖和高脂血症）随着时间的推移会导致主动脉瓣叶内皮细胞损伤，触发内皮功能障碍并引发类似的动脉粥样硬化过程。存在内皮下脂质沉积和炎性细胞浸润（即，巨噬细胞、T淋巴细胞），随后释放炎性介质（例如，白细胞介素-1-β、转化生长因子β-1）。随后，参与组织钙化的蛋白质（例如，骨桥蛋白）的产生增加。成纤维细胞分化为成骨细胞样细胞，导致异常的骨基质沉积，并伴有进行性瓣膜钙化和狭窄。{{exhibit_2}}\n\n（选项A）心肌细胞肥大和排列紊乱，伴有不对称性室间隔增厚，发生在肥厚型心肌病中。与主动脉瓣狭窄一样，患者会有刺耳的渐强-渐弱型收缩期杂音；然而，该杂音的强度随着减少左心室血容量的动作而增加（而非减少）。\n\n（选项C）黏液样瓣膜增厚和弹性蛋白断裂通常见于二尖瓣脱垂。患者有非喷射性收缩期喀喇音和收缩中晚期杂音，该杂音在收缩早期出现，随着左心室血容量的减少而出现。\n\n（选项D）心内膜下肉芽肿性病变伴纤维素样坏死和随后的纤维化，见于患有风湿性心脏病的患者。患有风湿性主动脉瓣狭窄的患者通常也会累及二尖瓣，这可以通过二尖瓣狭窄或反流的杂音来证明。\n\n（选项E）瓣膜内皮炎症伴无菌血小板血栓沉积，见于非细菌性血栓性心内膜炎（也称为萎缩性、疣状或Libman-Sacks心内膜炎）。通常涉及二尖瓣或主动脉瓣，通常导致反流而非狭窄。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of aortic stenosis, specifically the process of calcific aortic valve disease (CAVD) and its similarity to atherosclerosis. It requires understanding the cellular and molecular mechanisms involved in valve calcification and stenosis.\n\nThe best approach is to recognize the clinical presentation of aortic stenosis (ejection murmur, soft S2) and then focus on the underlying pathological processes. Eliminate options that describe other valvular or cardiac conditions. Focus on the mechanism of CAVD involving endothelial dysfunction, lipid deposition, inflammation, and osteoblast-like cell differentiation.",
+    "zh": "此题考察对主动脉瓣狭窄的病理生理学的了解，特别是钙化性主动脉瓣疾病（CAVD）的过程及其与动脉粥样硬化的相似性。它需要理解瓣膜钙化和狭窄所涉及的细胞和分子机制。\n\n最佳方法是识别主动脉瓣狭窄的临床表现（喷射杂音，S2减弱），然后关注潜在的病理过程。排除描述其他瓣膜或心脏疾病的选项。重点关注CAVD的机制，包括内皮功能障碍、脂质沉积、炎症和成骨细胞样细胞分化。"
+  },
+  "tags": "Aortic stenosis; Calcific aortic valve disease; CAVD; Valvular heart disease; Atherosclerosis; Endothelial dysfunction; Valvular calcification; Cardiology; Internal medicine",
+  "category": "CVS",
+  "question_id": "14964",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\14964",
+  "extracted_at": "2025-11-05T11:54:06.296769",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:45:56.219727",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

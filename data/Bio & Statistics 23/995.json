@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A research scientist develops an agent that specifically blocks the interaction of inositol triphosphate with its intracellular receptor. A study is then performed in which vascular smooth muscle cells are divided into 2 groups: an experimental group treated with the receptor blocker and an untreated control group. Both groups are exposed to phenylephrine.",
+    "zh": "一位研究科学家研发了一种能够特异性阻断三磷酸肌醇与其细胞内受体相互作用的药物。然后进行了一项研究，将血管平滑肌细胞分为两组：实验组用受体阻断剂处理，未处理的对照组。两组都暴露于苯肾上腺素。"
+  },
+  "question": {
+    "en": "Compared to the control cells, decreased activity of which of the following enzymes is most likely to be observed in the experimental cells?",
+    "zh": "与对照组细胞相比，在实验组细胞中最有可能观察到以下哪种酶的活性降低？"
+  },
+  "options": {
+    "A": {
+      "en": "Adenylate cyclase",
+      "zh": "腺苷酸环化酶"
+    },
+    "B": {
+      "en": "Lipoxygenase",
+      "zh": "脂氧合酶"
+    },
+    "C": {
+      "en": "Phosphodiesterase",
+      "zh": "磷酸二酯酶"
+    },
+    "D": {
+      "en": "Phospholipase C",
+      "zh": "磷脂酶 C"
+    },
+    "E": {
+      "en": "Protein kinase C",
+      "zh": "蛋白激酶 C"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "G protein-coupled receptors have a characteristic structure with 7 transmembrane regions, an extracellular domain, and an intracellular domain coupled with a G protein. In their inactivated state, G proteins exist as heterotrimers consisting of alpha, beta, and gamma subunits with GDP tightly bound to the alpha subunit. G proteins are activated after ligand binding to the extracellular domain of the receptor. The first step in activation occurs when GDP is exchanged for GTP on the alpha subunit. Once bound to GTP, the alpha subunit dissociates from the beta and gamma subunits and activates either adenylate cyclase or phospholipase C, depending on the ligand.\n\nWhen phenylephrine binds to an alpha-1 receptor on vascular smooth muscle cells, the alpha subunit of the G protein (Gq) activates phospholipase C, which breaks down phosphatidylinositol bisphosphate into inositol triphosphate (IP3) and diacylglycerol (DAG). DAG stimulates protein kinase C, which phosphorylates downstream intracellular proteins to produce its physiologic effects (eg, smooth muscle contraction). IP3 produces most of its effects by increasing intracellular calcium, which also activates protein kinase C. In the study described above, protein kinase C activity would be reduced in the experimental group compared to the control group as calcium release from the endoplasmic reticulum is interrupted. {{exhibit_1}}\n\n(Choice A) Activation of adenylate cyclase leads to the formation of cAMP and subsequent activation of protein kinase A. Protein kinase A phosphorylates intracellular proteins to produce its effects.\n\n(Choice B) Lipoxygenase is an enzyme responsible for the formation of leukotrienes from arachidonic acid. It is not directly involved in the phosphatidylinositol second messenger system.\n\n(Choice C) Phosphodiesterase is an enzyme that terminates the effects of ligands that act via cAMP or cGMP second messenger systems. It has no direct effect on the phosphatidylinositol second messenger system.\n\n(Choice D) The activity of phospholipase C would be unchanged if IP3 were blocked because phospholipase C exerts its effect before IP3 in the phosphatidylinositol second messenger system.",
+    "zh": "G蛋白偶联受体具有特征性结构，包含 7 个跨膜区域、一个细胞外结构域和一个与 G 蛋白偶联的细胞内结构域。 在失活状态下，G 蛋白以异源三聚体的形式存在，由 α、β 和 γ 亚基组成，其中 GDP 紧密结合在 α 亚基上。配体与受体的细胞外结构域结合后，G 蛋白被激活。激活的第一步发生在 GDP 在 α 亚基上交换为 GTP 时。一旦与 GTP 结合，α 亚基就会与 β 和 γ 亚基分离，并激活腺苷酸环化酶或磷脂酶 C，这取决于配体。\n\n当苯肾上腺素与血管平滑肌细胞上的 α-1 受体结合时，G 蛋白的 α 亚基 (Gq) 会激活磷脂酶 C，磷脂酶 C 将磷脂酰肌醇二磷酸分解为三磷酸肌醇 (IP3) 和二酰基甘油 (DAG)。DAG 刺激蛋白激酶 C，后者磷酸化下游细胞内蛋白以产生其生理效应（例如，平滑肌收缩）。IP3通过增加细胞内钙来产生其大部分效应，这也会激活蛋白激酶 C。在上述研究中，与对照组相比，实验组的蛋白激酶 C 活性会降低，因为内质网释放钙的过程被中断。{{exhibit_1}}\n\n(选项 A) 腺苷酸环化酶的激活导致 cAMP 的形成以及随后蛋白激酶 A 的激活。蛋白激酶 A 磷酸化细胞内蛋白以产生其效应。\n\n(选项 B) 脂氧合酶是一种负责由花生四烯酸形成白三烯的酶。它不直接参与磷脂酰肌醇第二信使系统。\n\n(选项 C) 磷酸二酯酶是一种终止通过 cAMP 或 cGMP 第二信使系统发挥作用的配体效应的酶。它对磷脂酰肌醇第二信使系统没有直接影响。\n\n(选项 D) 如果 IP3 被阻断，磷脂酶 C 的活性将保持不变，因为磷脂酶 C 在磷脂酰肌醇第二信使系统中在 IP3 之前发挥其作用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of G protein-coupled receptors and the phosphatidylinositol second messenger system, specifically the role of inositol triphosphate (IP3) in activating protein kinase C.\n\nThe key to solving this question is understanding that IP3 increases intracellular calcium, which then activates protein kinase C. Blocking IP3's interaction with its receptor would therefore decrease protein kinase C activity.",
+    "zh": "本题考察对 G 蛋白偶联受体和磷脂酰肌醇第二信使系统的了解，特别是三磷酸肌醇 (IP3) 在激活蛋白激酶 C 中的作用。\n\n解决此问题的关键是理解 IP3 增加细胞内钙，然后激活蛋白激酶 C。 因此，阻断 IP3 与其受体的相互作用将降低蛋白激酶 C 的活性。"
+  },
+  "tags": "G protein-coupled receptors; Phosphatidylinositol pathway; Inositol triphosphate; Protein kinase C; Signal transduction; Pharmacology",
+  "category": "Bio",
+  "question_id": "995",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\995",
+  "extracted_at": "2025-11-05T11:17:20.673100",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:24:55.183229",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

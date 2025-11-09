@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man comes to the office due to a 6-month history of progressively worsening headaches. He has also noticed blurring of his peripheral vision while driving. The patient has no history of head injuries and has had no associated dizziness, weight change, diplopia, or polyuria. Medical history is unremarkable, and he takes no medications. He does not use tobacco, alcohol, or illicit drugs. Physical examination shows a bitemporal visual field deficit. Laboratory studies show a serum prolactin level >20 times the upper limit of normal. Cranial imaging reveals a large pituitary mass. Which of the following changes in serum GnRH, LH, and testosterone are most likely to be found in this patient? {{exhibit_1}}",
+    "zh": "一名34岁男性因6个月来进行性加重的头痛前来就诊。他还注意到在开车时周边视野模糊。患者无头部受伤史，且无相关的头晕、体重变化、复视或多尿。病史无特殊，未服用任何药物。他不吸烟、不饮酒，也不使用违禁药物。体格检查显示双颞侧视野缺损。实验室检查显示血清催乳素水平高于正常上限的20倍以上。颅脑影像学检查显示一个大的垂体肿块。该患者最有可能出现以下哪种血清GnRH、LH和睾酮的变化？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following changes in serum GnRH, LH, and testosterone are most likely to be found in this patient?",
+    "zh": "该患者最有可能出现以下哪种血清GnRH、LH和睾酮的变化？"
+  },
+  "options": {
+    "A": {
+      "en": "↓\t↓\t↓",
+      "zh": "↓\t↓\t↓"
+    },
+    "B": {
+      "en": "↑\t↓\t↓",
+      "zh": "↑\t↓\t↓"
+    },
+    "C": {
+      "en": "↑\t↑\t↓",
+      "zh": "↑\t↑\t↓"
+    },
+    "D": {
+      "en": "↑\t↓\t↑",
+      "zh": "↑\t↓\t↑"
+    },
+    "E": {
+      "en": "↓\t↓\t↑",
+      "zh": "↓\t↓\t↑"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's bitemporal hemianopsia and headaches suggest mass effect symptoms due to an expanding lesion near the optic chiasm. Cranial imaging (typically MRI scan) can confirm the diagnosis of a pituitary adenoma. Unlike other pituitary hormones, prolactin secretion is under negative regulation by dopamine from the hypothalamus, and any disruption of dopaminergic pathways in the pituitary stalk can cause a moderate increase in prolactin release. However, very high prolactin levels, as seen in this patient, suggest a prolactin-secreting adenoma (prolactinoma). \n\nIncreased circulating levels of prolactin suppress GnRH secretion, leading to a reduction in release of LH from the pituitary and decreased testicular testosterone production. In premenopausal women, prolactinomas typically present early with galactorrhea and amenorrhea. However, in men and postmenopausal women, early symptoms may be subtle and nonspecific (eg, decreased libido), and patients frequently present later with mass effect symptoms (eg, headache, visual field defects).\n\n(Choices B and D) Physiologic GnRH secretion occurs in a pulsatile fashion and initiates gonadotropin (eg, LH, FSH) and subsequently testosterone secretion. However, prolonged, continuous GnRH secretion suppresses gonadotropins, resulting in lower levels of sex steroids. Long-acting GnRH agonists (eg, leuprolide) are used to suppress sex steroid-dependent diseases (eg, prostate cancer).\n\n(Choice C) Primary hypogonadism with low testosterone levels results in loss of negative feedback on GnRH release, causing elevated levels of GnRH and LH.\n\n(Choice E) Intake of exogenous testosterone (eg, anabolic steroid use) will suppress release of GnRH and subsequently LH.\n\nEducational objective:\nLarge prolactin-secreting pituitary tumors can compress the optic chiasm, causing bitemporal hemianopsia. In addition, elevated prolactin levels suppress release of GnRH, leading to decreased LH secretion and subsequently impaired testosterone production in men.",
+    "zh": "该患者的双颞侧偏盲和头痛提示由于视交叉附近的扩张性病变引起的占位效应症状。颅脑影像学检查（通常为MRI扫描）可确诊垂体腺瘤。与其他垂体激素不同，催乳素的分泌受下丘脑多巴胺的负向调节，垂体柄中多巴胺能通路的任何中断都可能导致催乳素释放的适度增加。然而，像该患者一样非常高的催乳素水平提示催乳素分泌腺瘤（泌乳素瘤）。\n\n循环催乳素水平升高会抑制GnRH的分泌，导致垂体释放LH减少和睾丸睾酮生成减少。在绝经前妇女中，泌乳素瘤通常早期表现为溢乳和闭经。然而，在男性和绝经后妇女中，早期症状可能隐匿且非特异性（如性欲减退），并且患者经常在后期出现占位效应症状（如头痛、视野缺损）。\n\n(选项B和D) 生理性的GnRH分泌以脉冲方式发生，并启动促性腺激素（例如，LH、FSH）和随后的睾酮分泌。然而，持续、连续的GnRH分泌会抑制促性腺激素，导致性激素水平降低。长效GnRH激动剂（例如，亮丙瑞林）用于抑制性激素依赖性疾病（例如，前列腺癌）。\n\n(选项C) 原发性性腺功能减退症，伴有低睾酮水平，导致对GnRH释放的负反馈丧失，从而导致GnRH和LH水平升高。\n\n(选项E) 外源性睾酮摄入（例如，合成代谢类固醇的使用）将抑制GnRH的释放，继而抑制LH的释放。\n\n教学目标：\n大型催乳素分泌垂体肿瘤可压迫视交叉，引起双颞侧偏盲。此外，催乳素水平升高会抑制GnRH的释放，导致LH分泌减少，继而损害男性睾酮的产生。"
+  },
+  "summary": {
+    "en": "This question tests the knowledge of the hormonal effects of a prolactin-secreting pituitary adenoma (prolactinoma) on the hypothalamic-pituitary-gonadal axis. Specifically, it assesses the impact of hyperprolactinemia on GnRH, LH, and testosterone levels.\n\nTo solve this question, recognize that high prolactin levels suppress GnRH secretion, leading to decreased LH and testosterone production. Therefore, the correct answer should reflect a decrease in all three hormones.",
+    "zh": "本题考察对催乳素分泌型垂体腺瘤（泌乳素瘤）对下丘脑-垂体-性腺轴的激素影响的知识。具体来说，它评估了高催乳素血症对GnRH、LH和睾酮水平的影响。\n\n要解决这个问题，需要认识到高催乳素水平会抑制GnRH的分泌，从而导致LH和睾酮的产生减少。因此，正确的答案应该反映所有三种激素的降低。"
+  },
+  "tags": "Prolactinoma; Pituitary adenoma; Hyperprolactinemia; GnRH; LH; Testosterone; Bitemporal hemianopsia; Endocrinology; Hypothalamic-pituitary-gonadal axis",
+  "category": "Endo",
+  "question_id": "213",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\213",
+  "extracted_at": "2025-11-05T14:06:51.723434",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:41:03.499505",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

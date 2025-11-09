@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 28-year-old professional athlete participates in a sports physiology study. She runs on a treadmill at an incrementally increasing speed. After 15-minutes, her pulse is 90% of the maximal heart rate based on her age, and several physiologic parameters are measured.",
+    "zh": "一名28岁的职业运动员参加一项运动生理学研究。她在跑步机上以逐渐增加的速度跑步。15分钟后，她的脉搏达到基于其年龄的最大心率的90%，并测量了几个生理参数。"
+  },
+  "question": {
+    "en": "Which of the following changes have most likely occurred compared to at rest?",
+    "zh": "与静息状态相比，以下哪种变化最有可能发生？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased; Increased; Unchanged",
+      "zh": "减少；增加；不变"
+    },
+    "B": {
+      "en": "Increased; Decreased; Decreased",
+      "zh": "增加；减少；减少"
+    },
+    "C": {
+      "en": "Increased; Increased; Decreased",
+      "zh": "增加；增加；减少"
+    },
+    "D": {
+      "en": "Increased; Unchanged; Increased",
+      "zh": "增加；不变；增加"
+    },
+    "E": {
+      "en": "Unchanged; Unchanged; Increased",
+      "zh": "不变；不变；增加"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "During **aerobic exercise**, respiratory activity changes to help meet the body's **increased metabolic demand**. The physiologic changes that occur are most pronounced in highly trained athletes:\n\n*   **Increased minute ventilation** occurs via an increase in respiratory rate and tidal volume and facilitates an increased rate of **oxygen uptake** and **carbon dioxide removal**. The increase in tidal volume can reach up to 50% of resting vital capacity.\n*   The increased minute ventilation **increases alveolar ventilation** throughout the lungs up to 20 times resting levels. Pulmonary vascular resistance is reduced and cardiac output is increased, which allows for more evenly distributed blood flow throughout the lungs and **reduced physiologic dead space** (ie, reduction in the proportion of air in the respiratory tract that does not participate in gas exchange). Although blood flow through the lungs is increased (the increase in cardiac output maxes out at approximately 8 times resting levels), alveolar ventilation is more increased (ie, ventilatory capacity exceeds cardiac output), resulting in an **increased ventilation-perfusion ratio**.\n\nIn addition, an accumulation of lactic acid decreases blood pH and stimulates a **rightward shift** in the hemoglobin dissociation curve, facilitating **increased unloading of oxygen** in skeletal muscle capillaries. Although increased cardiac output increases the rate of blood flow through the skeletal muscle capillaries and reduces the time allowed for oxygen unloading, the rate of arterial oxygen extraction by skeletal muscle markedly increases during exercise, outpacing cardiac output. This results in increased fractional extraction of arterial oxygen and **decreased mixed venous oxygen content**.\n\nIt follows that cardiac output, and not alveolar ventilation or the rate of oxygen uptake by skeletal muscle, is the primary limitation to aerobic exercise.\n\nEducational objective:\nPhysiologic changes in the respiratory system that occur with exercise include increased minute ventilation (via both an increase in respiratory rate and tidal volume), reduced physiologic dead space, increased ventilation-perfusion ratio, and increased extraction of oxygen by skeletal muscle (resulting in decreased mixed venous oxygen content).",
+    "zh": "在**有氧运动**期间，呼吸活动发生变化以帮助满足身体的**增加的代谢需求**。 发生的生理变化在训练有素的运动员中最为明显：\n\n*   **分钟通气量增加**通过增加呼吸频率和潮气量发生，并促进**氧气摄取**和**二氧化碳清除**的速率增加。 潮气量的增加可达到静息肺活量的50%。\n*   分钟通气量增加**增加了整个肺部的肺泡通气量**，达到静息水平的20倍。 肺血管阻力降低，心输出量增加，这使得血液更均匀地分布在整个肺部，并**减少了生理无效腔**（即，呼吸道中不参与气体交换的空气比例减少）。 尽管流经肺部的血流量增加（心输出量的增加达到静息水平的大约8倍），但肺泡通气量增加更多（即，通气能力超过心输出量），导致**通气/血流比增加**。\n\n此外，乳酸的积累会降低血pH值，并刺激血红蛋白解离曲线向**右移**，从而促进骨骼肌毛细血管中**氧气的释放增加**。 尽管心输出量的增加增加了流经骨骼肌毛细血管的血流量并减少了氧气释放的时间，但运动期间骨骼肌对动脉氧气的提取率显着增加，超过了心输出量。 这导致动脉氧气分数的提取增加和**混合静脉氧含量降低**。\n\n因此，心输出量，而不是肺泡通气量或骨骼肌的氧气摄取率，是有氧运动的主要限制因素。\n\n教育目标：\n运动时呼吸系统的生理变化包括分钟通气量增加（通过增加呼吸频率和潮气量），生理无效腔减少，通气/血流比增加，以及骨骼肌对氧气的提取增加（导致混合静脉氧含量降低）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of physiological changes that occur in the respiratory system during aerobic exercise, specifically focusing on minute ventilation, ventilation-perfusion ratio, and mixed venous oxygen content. It assesses the ability to relate increased metabolic demand to changes in respiratory parameters.\n\nTo solve this question, recall that aerobic exercise leads to increased minute ventilation to meet the body's oxygen demand and remove carbon dioxide. This results in increased alveolar ventilation and an increased ventilation-perfusion ratio. The increased oxygen extraction by skeletal muscle leads to decreased mixed venous oxygen content.",
+    "zh": "这个问题测试对有氧运动期间呼吸系统中发生的生理变化的理解，特别是侧重于分钟通气量、通气/血流比和混合静脉氧含量。 它评估了将增加的代谢需求与呼吸参数变化联系起来的能力。\n\n要解决这个问题，请记住，有氧运动导致分钟通气量增加，以满足身体对氧气的需求并清除二氧化碳。 这导致肺泡通气量增加和通气/血流比增加。 骨骼肌对氧气提取的增加导致混合静脉氧含量降低。"
+  },
+  "tags": "Exercise physiology; Respiratory system; Minute ventilation; Ventilation-perfusion ratio; Mixed venous oxygen content; Aerobic exercise; Oxygen uptake; Carbon dioxide removal",
+  "category": "Chest",
+  "question_id": "19571",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\19571",
+  "extracted_at": "2025-11-05T11:42:32.070677",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:37:43.619627",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A couple comes to the clinic for preconception counseling. The woman has alpha thalassemia minor with deletion of 2 alpha globin genes, one on each chromosome (α-/α-), as revealed by previous genetic testing. The man has not had genetic testing but has a family history of alpha thalassemia; both of his parents have the (αα/--) genotype. Recent laboratory evaluation in the man revealed mild microcytic anemia with normal iron studies.",
+    "zh": "一对夫妇前来诊所进行孕前咨询。女性患有轻型α地中海贫血，通过之前的基因检测显示，其每个染色体上均有一个α珠蛋白基因缺失（α-/α-）。男性未进行基因检测，但有α地中海贫血家族史；他的父母均为(αα/--)基因型。最近对该男性的实验室评估显示，其存在轻度小细胞性贫血，铁代谢指标正常。"
+  },
+  "question": {
+    "en": "What is the probability that this couple's offspring will have alpha thalassemia minor, (α-/α-) or (αα/--)?",
+    "zh": "这对夫妇的后代患轻型α地中海贫血(α-/α-) 或(αα/--)的概率是多少？"
+  },
+  "options": {
+    "A": {
+      "en": "0%",
+      "zh": "0%"
+    },
+    "B": {
+      "en": "25%",
+      "zh": "25%"
+    },
+    "C": {
+      "en": "50%",
+      "zh": "50%"
+    },
+    "D": {
+      "en": "75%",
+      "zh": "75%"
+    },
+    "E": {
+      "en": "100%",
+      "zh": "100%"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Alpha thalassemia minor results from exactly 2 alpha globin gene deletions and is characterized by mild microcytic anemia. Two individuals with different alpha thalassemia minor genotypes, one in cis (αα/--) and the other in trans (α-/α-), have a 0% probability of their offspring having alpha thalassemia minor.\n\nAlpha thalassemia is a hemoglobinopathy characterized by deletion of ≥1 alpha globin genes, resulting in reduction or elimination of alpha globin chain synthesis. There are normally 4 alpha globin genes (αα/αα), 2 on each chromosome 16, and the severity of disease depends on the number of genes deleted. For example, in alpha thalassemia minor exactly 2 alpha globin genes are deleted, either in cis (αα/--) with 2 deletions on the same chromosome or in trans (α-/α-) with 1 deletion on each chromosome; these patients have mild microcytic anemia.\n\nThe probability of conceiving a child with alpha thalassemia minor is determined by the parents' genotypes. In this case, the man's genotype is unknown, but his parents each have alpha thalassemia minor in cis (αα/--), which can be used to determine the man's possible genotypes as seen in the Punnett square. Because alpha thalassemia major (--/--) is fatal in utero, the man is either unaffected (αα/αα) or has alpha thalassemia minor in cis (αα/--). However, with a known mild microcytic anemia with normal iron studies, he likely has alpha thalassemia minor in cis (αα/--).\n\nThe woman is known to have alpha thalassemia minor in trans (α-/α-). Given these genotypes for the man and the woman, the probability of their offspring having alpha thalassemia minima (αα/α-) is 50% and having hemoglobin H disease (α-/--) is 50%, as shown in the Punnett square below: {{exhibit_1}}\n\nHowever, the probability of these two individuals having offspring with alpha thalassemia minor (exactly 2 gene deletions) is 0%.",
+    "zh": "轻型α地中海贫血是由正好2个α珠蛋白基因缺失引起的，其特征是轻度小细胞性贫血。两个具有不同轻型α地中海贫血基因型的个体，一个在顺式(αα/--)，另一个在反式(α-/α-)，他们的后代患轻型α地中海贫血的概率为0%。\n\nα地中海贫血是一种血红蛋白病，其特征是≥1个α珠蛋白基因缺失，导致α珠蛋白链合成减少或消除。通常有4个α珠蛋白基因(αα/αα)，位于16号染色体上，疾病的严重程度取决于缺失的基因数量。例如，在轻型α地中海贫血中，正好有2个α珠蛋白基因缺失，要么在顺式(αα/--)，即在同一条染色体上缺失2个，要么在反式(α-/α-)，即每条染色体上缺失1个；这些患者有轻度小细胞性贫血。\n\n生育患轻型α地中海贫血的孩子的概率取决于父母的基因型。在这种情况下，男性的基因型未知，但他的父母均患有顺式轻型α地中海贫血(αα/--)，这可以用来确定男性的可能基因型，如Punnett方格所示。由于重型α地中海贫血(--/--)在子宫内是致命的，因此男性要么未受影响(αα/αα)，要么患有顺式轻型α地中海贫血(αα/--)。然而，已知有轻度小细胞性贫血，且铁代谢指标正常，他可能患有顺式轻型α地中海贫血(αα/--)。\n\n已知女性患有反式轻型α地中海贫血(α-/α-)。考虑到男性和女性的这些基因型，他们的后代患α地中海贫血(αα/α-)的概率为50%，患血红蛋白H病(α-/--)的概率为50%，如下面的Punnett方格所示：{{exhibit_1}}\n\n然而，这两个个体生育患轻型α地中海贫血（正好有2个基因缺失）的后代的概率为0%。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of alpha thalassemia genetics, specifically the inheritance patterns and probabilities associated with different genotypes. It requires understanding of cis and trans deletions and their impact on offspring genotypes.\n\nTo solve this question, determine the possible genotypes of the parents based on the information provided. Then, use a Punnett square to calculate the probability of the offspring inheriting alpha thalassemia minor (two gene deletions) from the given parental genotypes. The table {{exhibit_2}} summarizes the different types of alpha thalassemia.",
+    "zh": "这道题考察了对α地中海贫血遗传学的知识，特别是与不同基因型相关的遗传模式和概率。它需要理解顺式和反式缺失及其对后代基因型的影响。\n\n要解决这个问题，根据所提供的信息确定父母可能的基因型。然后，使用Punnett方格计算后代从给定的父母基因型中遗传轻型α地中海贫血（两个基因缺失）的概率。表格{{exhibit_2}}总结了不同类型的α地中海贫血。"
+  },
+  "tags": "Alpha thalassemia; Genetics; Hemoglobinopathy; Microcytic anemia; Preconception counseling; Punnett square; Gene deletion; Hematology",
+  "category": "Blood",
+  "question_id": "105684",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\105684",
+  "extracted_at": "2025-11-05T11:18:24.311115",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:25:11.201820",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

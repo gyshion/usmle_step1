@@ -1,0 +1,59 @@
+{
+  "question_stem": {
+    "en": "A 66-year-old woman is evaluated in the clinic for worsening shortness of breath over the last year. She has no previous medical problems and is a lifelong nonsmoker. Blood pressure is 126/78 mm Hg, pulse is 82/min, and respirations are 18/min. BMI is 23 kg/m². Physical examination shows a normal oropharynx, flat neck veins, and a midline trachea. Diaphragmatic excursion is decreased bilaterally. Lung auscultation reveals bilateral fine inspiratory crackles. Arterial blood gas analysis is performed while the patient is at rest and after a vigorous walk for several minutes. Arterial partial pressure of oxygen is normal at rest but falls significantly with exercise.",
+    "zh": "一位66岁女性因过去一年来呼吸困难加重而在诊所接受评估。她既往没有医疗问题，并且终身不吸烟。血压为126/78 mm Hg，脉搏为82/min，呼吸频率为18/min。BMI为23 kg/m²。体格检查显示口咽部正常，颈静脉无充盈，气管居中。双侧膈肌活动度降低。肺部听诊显示双侧吸气末细湿啰音。对患者进行动脉血气分析，分别在静息状态下和剧烈行走数分钟后进行。动脉血氧分压在静息状态下正常，但在运动时显著下降。"
+  },
+  "question": {
+    "en": "Which of the following exercise-related changes is most likely contributing to the latter observation in this patient?",
+    "zh": "以下哪种与运动相关的变化最有可能促成该患者的后一种观察结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Improved ventilation-perfusion mismatch",
+      "zh": "通气-血流比例失调改善"
+    },
+    "B": {
+      "en": "Increased alveolar ventilation",
+      "zh": "肺泡通气增加"
+    },
+    "C": {
+      "en": "Increased pulmonary blood flow",
+      "zh": "肺血流量增加"
+    },
+    "D": {
+      "en": "Increased pulmonary capillary recruitment",
+      "zh": "肺毛细血管募集增加"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Oxygen transfer across the alveolar membrane depends on the (1) gas diffusion rate and (2) capillary blood perfusion rate. In healthy lungs, diffusion of oxygen occurs very rapidly: red blood cells become fully saturated with oxygen at only one-third of the total alveolar capillary length. For this reason, oxygen saturation does not fall even with large increases in cardiac output during exercise. In other words, normal oxygen transfer is PERFUSION LIMITED (ie, diffusion is so fast that oxygen transfer depends on the perfusion rate [cardiac output] only). {{exhibit_1}}\n\nDiffusion limitation is a mechanism of hypoxia that occurs in diseases that disrupt the alveolar-capillary membrane (eg, emphysema, pulmonary fibrosis). This patient's progressive dyspnea and fine inspiratory crackles are consistent with INTERSTITIAL LUNG DISEASE. Fibrotic thickening of the interstitial space (between the air and blood) increases the distance that oxygen must cross, limiting the degree of oxygen diffusion. During exercise, the INCREASE IN PULMONARY BLOOD FLOW accelerates transit through the pulmonary capillaries, reducing the time for oxygen extraction. In patients with diffusion limitation, the increased blood flow during exercise can result in EXERTIONAL HYPOXEMIA, even if oxygenation is normal at rest. {{exhibit_2}}\n\n(Choices A, B, and D) In healthy individuals, exercise results in increased minute ventilation (ie, product of increased respiratory rate × larger tidal volumes). At the same time, recruitment of apical pulmonary capillaries (increased perfusion) promotes continued ventilation/perfusion (V/Q) matching as ventilation increases. This remarkably stable V/Q matching during exercise enhances oxygen exchange, preventing hypoxemia. {{exhibit_3}}\n\nEducational objective: Diffusion of oxygen across the alveolar-capillary membrane is normally very rapid. Decreased diffusion rate (eg, interstitial lung disease) can lead to diffusion-limited oxygen transfer, especially when the perfusion rate increases (eg, exertion). {{exhibit_4}}",
+    "zh": "氧气穿过肺泡膜的转移取决于 (1) 气体扩散速率和 (2) 毛细血管血流灌注速率。在健康的肺中，氧气的扩散非常迅速：红细胞仅在肺泡毛细血管总长度的三分之一处就完全被氧饱和。因此，即使在运动期间心输出量大幅增加的情况下，氧饱和度也不会下降。换句话说，正常的氧气转移是灌注受限的（即，扩散非常快，以至于氧气转移仅取决于灌注速率[心输出量]）。{{exhibit_1}}\n\n扩散受限是发生在破坏肺泡毛细血管膜的疾病（例如，肺气肿，肺纤维化）中的一种低氧血症机制。该患者的进行性呼吸困难和吸气末细湿啰音与间质性肺病一致。间质空间（空气和血液之间）的纤维化增厚增加了氧气必须穿过的距离，从而限制了氧气的扩散程度。在运动期间，肺血流量的增加加速了氧气通过肺毛细血管的转运，从而减少了氧气提取的时间。在患有扩散受限的患者中，运动期间增加的血流量可能导致劳力性低氧血症，即使在静息状态下氧合正常。{{exhibit_2}}\n\n（选项 A、B 和 D）在健康个体中，运动会导致每分钟通气量增加（即，呼吸频率增加 × 潮气量增大）。与此同时，肺尖毛细血管的募集（灌注增加）促进通气增加时持续的通气/血流比例 (V/Q) 匹配。这种在运动期间非常稳定的 V/Q 匹配增强了氧气交换，防止了低氧血症。{{exhibit_3}}\n\n教育目标：氧气穿过肺泡毛细血管膜的扩散通常非常迅速。扩散速率降低（例如，间质性肺病）可导致扩散受限的氧气转移，尤其是在灌注速率增加时（例如，劳力）。{{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests the understanding of diffusion limitation in oxygen transfer and how it relates to interstitial lung disease and exercise-induced hypoxemia. It assesses the ability to differentiate between perfusion-limited and diffusion-limited oxygen transfer.\n\nThe key to solving this question is recognizing the patient's symptoms are consistent with interstitial lung disease, which causes diffusion limitation. During exercise, increased pulmonary blood flow reduces the time for oxygen extraction, leading to hypoxemia in these patients.",
+    "zh": "本题考察对氧气转移中扩散受限的理解，以及它与间质性肺病和运动诱发的低氧血症的关系。它评估区分灌注受限和扩散受限的氧气转移的能力。\n\n解决此问题的关键是认识到患者的症状与间质性肺病一致，后者会导致扩散受限。在运动期间，肺血流量增加会减少氧气提取的时间，导致这些患者出现低氧血症。"
+  },
+  "tags": "Interstitial lung disease; Diffusion limitation; Pulmonary blood flow; Exercise-induced hypoxemia; Oxygen transfer; Respiratory physiology; Pulmonary fibrosis; Dyspnea",
+  "category": "Chest",
+  "question_id": "15106",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\15106",
+  "extracted_at": "2025-11-05T11:38:07.499760",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:34:57.081777",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

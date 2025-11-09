@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old woman comes to the office due to a 2-day history of reduced sensation in her legs. Lately, the patient has also had significant fatigue, especially with exercise. Six months ago, she had an episode of visual blurring that resolved spontaneously after a few days. Medical history is significant for psoriasis, for which she uses a topical glucocorticoid ointment. The patient does not use tobacco or illicit drugs. Vital signs are normal. Examination indicates decreased pain and light touch perception in both legs below the level of the umbilicus. Mild bilateral spasticity is noted.",
+    "zh": "一名34岁的女性因双腿感觉减退2天而前来就诊。最近，患者还出现明显的疲劳，尤其是在运动后。六个月前，她曾出现视力模糊，几天后自发缓解。病史显示有银屑病，她正在使用局部糖皮质激素软膏。患者不吸烟，也不使用非法药物。生命体征正常。检查显示，双腿低于脐水平的疼痛和触觉感知减退。注意到轻微的双侧痉挛。"
+  },
+  "question": {
+    "en": "Which of the following pathologic brain lesions is most specific for this patient's disease process?",
+    "zh": "以下哪种病理脑损伤最能说明该患者的疾病过程？"
+  },
+  "options": {
+    "A": {
+      "en": "Microglial nodules",
+      "zh": "小胶质细胞结节"
+    },
+    "B": {
+      "en": "Neuritic plaques and neurofibrillary tangles",
+      "zh": "神经斑和神经原纤维缠结"
+    },
+    "C": {
+      "en": "Perivenular inflammatory cells",
+      "zh": "血管周围炎性细胞"
+    },
+    "D": {
+      "en": "Spongiform changes",
+      "zh": "海绵状改变"
+    },
+    "E": {
+      "en": "Viral inclusions",
+      "zh": "病毒包涵体"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Reduced sensation and spasticity in the lower extremities suggest a lesion in the spinal cord. This, in conjunction with this patient's prior episode of blurred vision and her severe fatigue with exercise (Uhthoff's phenomenon), makes MULTIPLE SCLEROSIS (MS) a likely diagnosis. MS is an immune-mediated disorder of the central nervous system (CNS), characterized by focal lesions of demyelination. Patients have various neurologic deficits that wax and wane (symptoms are disseminated across time and space).\n\nHistologically, active MS plaques are characterized by PERIVENULAR INFLAMMATES made up primarily of autoreactive T lymphocytes and macrophages, directed against myelin components. Extensive inflammation damages the blood-brain barrier, increasing inflammatory cell recruitment into the CNS (with the vessel wall remaining intact). Infiltrating macrophages containing myelin debris are seen throughout the lesion, and recruitment of B lymphocytes to the perivascular spaces leads to the formation of myelin-specific antibodies. PATCHY DEMYELINATION occurs, and while axons are typically spared, significant or prolonged disease may result in neuron death. Residual chronic findings include hypertrophy and hyperplasia of astrocytes (glial scarring).\n\n(Choice A) Microglial nodules are nonspecific findings that can be seen in patients with MS, as well as in those with HIV encephalopathy and other viral infections. They are thought to be reactive lesions that occur in the setting of inflammation, rather than a specific pathologic finding.\n\n(Choice B) Neuritic plaques and neurofibrillary tangles (tau protein) are characteristic findings in ALZHEIMER DISEASE, which presents with memory impairment, not focal neurologic deficits, and is rare in young patients.\n\n(Choice D) SPONGIFORM ENCEPHALOPATHY is seen in prion diseases (eg, bovine spongiform encephalopathy, Creutzfeldt-Jakob disease). Patients present with rapid-onset dementia, myoclonus, and ataxia. Episodic or waxing and waning symptoms are more consistent with MS.\n\n(Choice E) Negri bodies are viral inclusions in the cytoplasm of nerve cells in patients with RABIES. Rabies occurs after a bite from an infected animal and presents with tingling or irritation at the inoculation site followed by hydrophobia, delirium, coma, and death. This disease is typically fatal within days of symptom presentation and would not be expected to cause focal abnormalities over a period of months.\n\nEducational objective:\nMultiple sclerosis is an immune-mediated disorder of the central nervous system characterized by focal demyelination (plaques). Histologically, plaques contain foci of perivenular inflammatory infiltrates made up primarily of autoreactive T lymphocytes and macrophages. Patchy demyelination occurs followed by astrocyte hyperplasia (glial scarring).",
+    "zh": "下肢感觉减退和痉挛提示脊髓病变。结合该患者之前的视力模糊发作和她在运动时出现严重疲劳（Uhthoff现象），多发性硬化症 (MS) 是一种可能的诊断。MS 是一种免疫介导的中枢神经系统 (CNS) 疾病，其特征是局灶性脱髓鞘病变。患者有各种各样的神经功能缺损，这些缺损会反复出现和消失（症状在时间和空间上播散）。\n\n组织学上，活动性 MS 斑块的特征是血管周围炎性浸润，主要由针对髓磷脂成分的自身反应性 T 淋巴细胞和巨噬细胞组成。广泛的炎症会损害血脑屏障，增加炎性细胞向中枢神经系统的募集（血管壁保持完整）。在整个病灶中可见含有髓磷脂碎片的浸润巨噬细胞，B 淋巴细胞向血管周围空间的募集导致髓磷脂特异性抗体的形成。出现斑片状脱髓鞘，虽然轴突通常得以保留，但严重的或长期的疾病可能会导致神经元死亡。残留的慢性发现包括星形胶质细胞肥大和增生（神经胶质瘢痕形成）。\n\n（选项 A）小胶质细胞结节是非特异性发现，可在 MS 患者以及 HIV 脑病和其他病毒感染患者中观察到。它们被认为是发生在炎症情况下的反应性病变，而不是特异性的病理发现。\n\n（选项 B）神经斑和神经原纤维缠结（tau蛋白）是阿尔茨海默病的特征性发现，其表现为记忆力减退，而不是局灶性神经功能缺损，并且在年轻患者中很少见。\n\n（选项 D）海绵状脑病见于朊病毒病（例如，牛海绵状脑病、克雅氏病）。患者表现为快速起病的痴呆、肌阵挛和共济失调。发作性或时有缓解的症状更符合 MS。\n\n（选项 E）内格里小体是狂犬病患者神经细胞细胞质中的病毒包涵体。狂犬病发生在被感染动物咬伤后，表现为接种部位的刺痛或刺激，然后出现恐水症、谵妄、昏迷和死亡。这种疾病通常在症状出现后的几天内致命，预计不会在数月内引起局灶性异常。\n\n教育目标：\n多发性硬化症是一种免疫介导的中枢神经系统疾病，其特征是局灶性脱髓鞘（斑块）。组织学上，斑块包含血管周围炎性浸润的病灶，主要由自身反应性 T 淋巴细胞和巨噬细胞组成。出现斑片状脱髓鞘，随后出现星形胶质细胞增生（神经胶质瘢痕形成）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the histopathological hallmarks of multiple sclerosis, specifically the characteristic lesions found in the central nervous system. It requires differentiating these from findings seen in other neurological diseases.\n\nTo solve this question, one must first identify the most likely diagnosis based on the clinical presentation of relapsing-remitting neurological deficits. Then, recall the specific microscopic findings associated with that diagnosis and compare them to the options provided, selecting the most specific pathological feature.",
+    "zh": "此问题测试对多发性硬化症的组织病理学特征的理解，特别是中枢神经系统中发现的特征性病变。它需要将这些与在其他神经系统疾病中看到的发现区分开来。\n\n要解决这个问题，必须首先根据复发缓解的神经功能缺损的临床表现确定最可能的诊断。然后，回忆与该诊断相关的特定显微镜下发现，并将它们与提供的选项进行比较，选择最特异的病理特征。"
+  },
+  "tags": "Multiple sclerosis; Central nervous system; Demyelination; Perivenular inflammation; Histopathology; Neurology; Autoimmune disease; Uhthoff's phenomenon; Glial scarring",
+  "category": "Neuro",
+  "question_id": "919",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\919",
+  "extracted_at": "2025-11-05T19:42:24.888462",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:44:04.209924",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

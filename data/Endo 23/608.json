@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 60-year-old woman is being evaluated for chronic weakness and fatigue. She has no other medical problems and takes no medications. After performing initial laboratory studies, the physician decides to proceed with a metyrapone stimulation test. The changes in urinary 17-hydroxycorticosteroid (17-OHS) excretion following metyrapone administration are shown in the graph below {{exhibit_1}}.",
+    "zh": "一名60岁女性正在接受慢性乏力和疲劳的评估。她没有其他疾病，也没有服用药物。在进行初步实验室研究后，医生决定进行美替拉酮刺激试验。美替拉酮给药后尿17-羟皮质类固醇（17-OHS）排泄的变化如下图所示 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following mechanisms is most likely responsible for the findings seen in the graph?",
+    "zh": "以下哪种机制最有可能导致图中所示的发现？"
+  },
+  "options": {
+    "A": {
+      "en": "ACTH surge",
+      "zh": "促肾上腺皮质激素 (ACTH) 激增"
+    },
+    "B": {
+      "en": "Aldosterone overproduction",
+      "zh": "醛固酮过度产生"
+    },
+    "C": {
+      "en": "Cortisol overproduction",
+      "zh": "皮质醇过度产生"
+    },
+    "D": {
+      "en": "Renin surge",
+      "zh": "肾素激增"
+    },
+    "E": {
+      "en": "Vasopressin overproduction",
+      "zh": "加压素过度产生"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Like most hormones, secretion of cortisol is regulated via a negative feedback loop. Corticotropin-releasing hormone (CRH) is secreted by the hypothalamus in response to stress and circadian signals received from other parts of the central nervous system. CRH stimulates ACTH release by the pituitary, which in turn increases cortisol secretion by the adrenal cortex. High cortisol levels suppress secretion of ACTH and CRH, and low cortisol levels cause an increase in ACTH and CRH secretion.\n\nAlthough not commonly used, the metyrapone stimulation test {{exhibit_2}} is a sensitive indicator of hypothalamic-pituitary-adrenal (HPA) axis integrity. Metyrapone blocks cortisol synthesis by inhibiting 11-β-hydroxylase, which converts 11-deoxycortisol to cortisol in the zona fasciculata. Because 11-deoxycortisol lacks glucocorticoid activity, it does not inhibit pituitary ACTH secretion. As a result, the reduction in cortisol levels following metyrapone administration cause an increase in pituitary ACTH secretion. This leads to increased production of 11-deoxycortisol, which is further metabolized by the liver to 17-hydroxycorticosteroids that accumulate in the urine.\n\nSerum 11-deoxycortisol and urinary 17-hydroxycorticosteroid levels will normally rise in response to metyrapone, indicating an intact HPA axis. Failure of these steroid levels to increase implies primary or secondary adrenal insufficiency, which can be distinguished based on plasma ACTH levels.\n\n(Choices B and D) The renin-angiotensin-aldosterone system regulates aldosterone synthesis by the zona glomerulosa. Because metyrapone inhibits 11-β-hydroxylase, aldosterone synthesis will decrease. However, accumulation of the aldosterone precursor 11-deoxycorticosterone (a weak mineralocorticoid) prevents the development of mineralocorticoid deficiency, so renin levels will not change significantly.\n\n(Choice C) The inhibition of 11-β-hydroxylase by metyrapone would lead to a decrease in cortisol, not an increase.\n\n(Choice E) Vasopressin is a hormone secreted by the posterior pituitary that is responsible for regulating water balance. Additionally, vasopressin acts as a potentiator for CRH, enhancing the release of ACTH. However, there is no clear feedback loop between cortisol and vasopressin; therefore, metyrapone administration is unlikely to lead to vasopressin overproduction.\n\nEducational objective: Administration of metyrapone will cause a decrease in cortisol synthesis via inhibition of 11-β-hydroxylase. In patients with an intact hypothalamic-pituitary-adrenal axis, this will cause a reactive increase in ACTH, 11-deoxycortisol, and urinary 17-hydroxycorticosteroid levels. {{exhibit_3}} {{exhibit_4}}",
+    "zh": "像大多数激素一样，皮质醇的分泌通过负反馈环调节。促肾上腺皮质激素释放激素 (CRH) 由下丘脑分泌，以响应来自中枢神经系统其他部分的应激和昼夜节律信号。CRH 刺激垂体释放 ACTH，进而增加肾上腺皮质分泌皮质醇。高皮质醇水平抑制 ACTH 和 CRH 的分泌，低皮质醇水平导致 ACTH 和 CRH 分泌增加。\n\n虽然不常用，但美替拉酮刺激试验 {{exhibit_2}} 是下丘脑-垂体-肾上腺 (HPA) 轴完整性的一个敏感指标。美替拉酮通过抑制 11-β-羟化酶来阻断皮质醇的合成，11-β-羟化酶将 11-脱氧皮质醇转化为束状带的皮质醇。由于 11-脱氧皮质醇缺乏糖皮质激素活性，它不会抑制垂体 ACTH 的分泌。因此，美替拉酮给药后皮质醇水平降低会导致垂体 ACTH 分泌增加。这导致 11-脱氧皮质醇的产生增加，后者进一步被肝脏代谢为尿中积累的 17-羟皮质类固醇。\n\n血清 11-脱氧皮质醇和尿 17-羟皮质类固醇水平通常会响应美替拉酮而升高，表明 HPA 轴完整。这些类固醇水平未增加表明原发性或继发性肾上腺功能不全，这可以通过血浆 ACTH 水平来区分。\n\n（选项 B 和 D）肾素-血管紧张素-醛固酮系统通过球状带调节醛固酮的合成。由于美替拉酮抑制 11-β-羟化酶，醛固酮的合成将减少。然而，醛固酮前体 11-脱氧皮质酮（一种弱的盐皮质激素）的积累可防止盐皮质激素缺乏症的发生，因此肾素水平不会发生显着变化。\n\n（选项 C）美替拉酮对 11-β-羟化酶的抑制会导致皮质醇降低，而不是升高。\n\n（选项 E）加压素是垂体后叶分泌的一种激素，负责调节水代谢平衡。此外，加压素充当 CRH 的增强剂，增强 ACTH 的释放。然而，皮质醇和加压素之间没有明确的反馈回路；因此，美替拉酮给药不太可能导致加压素过度产生。\n\n教育目标：美替拉酮给药将通过抑制 11-β-羟化酶导致皮质醇合成减少。在 HPA 轴完整的患者中，这将导致 ACTH、11-脱氧皮质醇和尿 17-羟皮质类固醇水平的反应性升高。{{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the metyrapone stimulation test and its effect on the hypothalamic-pituitary-adrenal (HPA) axis. It assesses the understanding of how metyrapone inhibits cortisol synthesis, leading to a compensatory increase in ACTH and related steroid precursors. \n\nThe key to solving this question is recognizing that metyrapone inhibits 11-beta-hydroxylase, which decreases cortisol production. This decrease triggers a feedback mechanism, resulting in increased ACTH secretion and subsequent elevation of 17-hydroxycorticosteroids.",
+    "zh": "此问题测试对美替拉酮刺激试验及其对下丘脑-垂体-肾上腺 (HPA) 轴的影响的了解。它评估了对美替拉酮如何抑制皮质醇合成的理解，从而导致 ACTH 和相关类固醇前体的代偿性增加。\n\n解决此问题的关键是认识到美替拉酮抑制 11-β-羟化酶，从而降低皮质醇的产生。这种降低触发了一种反馈机制，导致 ACTH 分泌增加以及随后 17-羟皮质类固醇的升高。"
+  },
+  "tags": "Metyrapone stimulation test; Hypothalamic-pituitary-adrenal axis; ACTH; Cortisol; 11-beta-hydroxylase; Adrenal insufficiency; Endocrinology; Diagnostic testing",
+  "category": "Endo",
+  "question_id": "608",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\608",
+  "extracted_at": "2025-11-05T14:09:04.308466",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:42:04.902121",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

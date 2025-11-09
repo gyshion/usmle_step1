@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 22-year-old woman comes to the emergency department due to a severe left frontal headache for the past 30 minutes. The patient has had similar pain every day for the past 3 days, and the episodes resolve spontaneously after about an hour. She has no other medical conditions and takes no medications. On physical examination, the patient appears restless and in pain. There is ptosis on the left side.",
+    "zh": "一名22岁的女性因过去30分钟出现的严重左侧额部头痛来到急诊科。患者在过去3天中每天都有类似的疼痛，并且这些发作在约1小时后自发缓解。她没有其他疾病，也没有服用药物。体格检查显示患者烦躁不安，并伴有疼痛。左侧出现眼睑下垂。"
+  },
+  "question": {
+    "en": "Which of the following findings is most suggestive of cluster headache in this patient?",
+    "zh": "以下哪一项发现最提示该患者患有丛集性头痛？"
+  },
+  "options": {
+    "A": {
+      "en": "Episodic nature",
+      "zh": "发作性"
+    },
+    "B": {
+      "en": "Female sex",
+      "zh": "女性"
+    },
+    "C": {
+      "en": "Frontal location",
+      "zh": "额部位置"
+    },
+    "D": {
+      "en": "Ipsilateral ptosis",
+      "zh": "同侧眼睑下垂"
+    },
+    "E": {
+      "en": "Unilateral pain",
+      "zh": "单侧疼痛"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with recurrent, unilateral, severe headaches accompanied by ptosis has cluster headache, a type of trigeminal autonomic cephalalgia. Cluster headaches often present with rapid-onset, severe, unilateral pain that is typically periorbital, frontal, or temporal. Patients are often restless or agitated during episodes. Cluster headaches are often accompanied by IPSILATERAL AUTONOMIC SYMPTOMS, which may include:\n\n•\tConjunctival injection and lacrimation\n•\tNasal congestion or rhinorrhea\n•\tPtosis, miosis, and anhidrosis\n\nHeadaches typically last 15-180 minutes and tend to occur in clusters (up to 8 times daily, at the same time of day) over a period of several weeks. In some patients, clusters occur at similar seasons of the year. This clustering may suggest involvement of the HYPOTHALAMUS, which regulates circadian rhythms. Treatment of acute headaches is often with oxygen or triptans (eg, sumatriptan); verapamil is frequently used for preventive treatment.\n\n(Choice A) Both migraines and cluster headaches tend to have discrete episodes, so episodic nature is not a distinguishing feature in itself. The timing of the episodes (eg, around the same time every day, several days in a row) and the duration (eg, 15-180 min) are more characteristic of cluster headache, but the most obvious differentiating feature is the presence of autonomic symptoms.\n\n(Choice B) Cluster headaches can occur in anyone, but they are more common in male patients.\n\n(Choice C) Although cluster headaches are located in the frontal region, other types of headaches can also be frontal in location (eg, sinusitis, migraine), so this is not a specific differentiating feature.\n\n(Choice E) Although cluster headaches are typically unilateral, migraine headaches are also often unilateral, so this is not helpful in distinguishing between those.",
+    "zh": "该患者出现复发性、单侧、严重头痛，并伴有眼睑下垂，诊断为丛集性头痛，这是一种三叉神经自主神经性头痛。丛集性头痛常表现为快速起病、剧烈、单侧疼痛，通常位于眼眶周围、额部或颞部。患者在发作期间常烦躁不安或激动。丛集性头痛常伴有同侧自主神经症状，可能包括：\n\n•\t结膜充血和流泪\n•\t鼻塞或流涕\n•\t眼睑下垂、瞳孔缩小和无汗症\n\n头痛通常持续15-180分钟，并且倾向于成簇出现（每天最多8次，在同一时间），持续数周。在某些患者中，丛集性头痛发生在一年中的相似季节。这种丛集性可能提示下丘脑的参与，下丘脑调节昼夜节律。急性头痛的治疗通常使用氧气或曲坦类药物（例如，舒马曲坦）；维拉帕米常用于预防性治疗。\n\n（选项A）偏头痛和丛集性头痛都倾向于具有独立的病程，因此发作性本身并不是一个区分特征。发作的时间（例如，每天大约在同一时间，连续几天）和持续时间（例如，15-180分钟）更符合丛集性头痛的特征，但最明显的鉴别特征是自主神经症状的存在。\n\n（选项B）丛集性头痛可发生在任何人身上，但更常见于男性患者。\n\n（选项C）虽然丛集性头痛位于额部，但其他类型的头痛也可能位于额部（例如，鼻窦炎、偏头痛），因此这并不是一个特异性的鉴别特征。\n\n（选项E）虽然丛集性头痛通常是单侧的，但偏头痛也常是单侧的，因此这无助于区分两者。"
+  },
+  "summary": {
+    "en": "This question tests the ability to recognize the clinical features of cluster headaches, particularly the presence of ipsilateral autonomic symptoms. The key to solving this question is to identify the most specific finding that differentiates cluster headaches from other types of headaches, such as migraines or tension headaches.",
+    "zh": "此题考察识别丛集性头痛的临床特征的能力，特别是同侧自主神经症状的存在。解决此题的关键是确定区分丛集性头痛与其他类型头痛（如偏头痛或紧张性头痛）的最特异性发现。"
+  },
+  "tags": "Cluster headache; Trigeminal autonomic cephalalgia; Ipsilateral autonomic symptoms; Ptosis; Headache; Neurology",
+  "category": "Neuro",
+  "question_id": "19569",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\19569",
+  "extracted_at": "2025-11-07T16:02:22.799609",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:37:28.743911",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

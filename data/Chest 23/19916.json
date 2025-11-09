@@ -1,0 +1,70 @@
+{
+  "question_stem": {
+    "en": "An 18-year-old, previously healthy man comes to the emergency department after being stabbed in the chest. The patient reports shortness of breath. Blood pressure is 136/84 mm Hg, pulse is 96/min, and respirations are 20/min. Oxygen saturation is 96%. Physical examination reveals a 2.5-cm stab wound on the right lateral chest wall. Breath sounds are decreased on the right side. Chest x-ray is shown in the exhibit. Which of the following changes have most likely occurred in this patient's right hemithorax and right lung compared to his preinjury state? {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "一名18岁、此前健康的男性在胸部被刺伤后，来到急诊科就诊。患者自诉呼吸困难。血压为136/84 mm Hg，脉搏96次/分钟，呼吸20次/分钟。血氧饱和度为96%。体格检查显示右侧胸壁外侧有2.5 cm的刺伤。右侧呼吸音减弱。胸部X光片如展品所示。与受伤前状态相比，该患者的右侧气胸和右肺最有可能发生以下哪些变化？ {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "question": {
+    "en": "Which of the following changes have most likely occurred in this patient's right hemithorax and right lung compared to his preinjury state?",
+    "zh": "与受伤前状态相比，该患者的右侧气胸和右肺最有可能发生以下哪些变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Hemithorax volume: Decreased, Inspiratory lung compliance: Increased",
+      "zh": "气胸容积：减少，吸气肺顺应性：增加"
+    },
+    "B": {
+      "en": "Hemithorax volume: Decreased, Inspiratory lung compliance: No change",
+      "zh": "气胸容积：减少，吸气肺顺应性：无变化"
+    },
+    "C": {
+      "en": "Hemithorax volume: Increased, Inspiratory lung compliance: Decreased",
+      "zh": "气胸容积：增加，吸气肺顺应性：降低"
+    },
+    "D": {
+      "en": "Hemithorax volume: No change, Inspiratory lung compliance: Decreased",
+      "zh": "气胸容积：无变化，吸气肺顺应性：降低"
+    },
+    "E": {
+      "en": "Hemithorax volume: No change, Inspiratory lung compliance: Increased",
+      "zh": "气胸容积：无变化，吸气肺顺应性：增加"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient's chest x-ray shows no peripheral lung markings on the right side and a tissue mass representing the collapsed right lung, findings consistent with pneumothorax: the stab wound likely breached the chest wall and pleura, allowing air to enter the intrapleural space.\n\nThe lungs exert collapsing force at all lung volumes, and the chest wall exerts expanding force at all but very high lung volumes. In the normal respiratory system, the lung and chest wall are in equilibrium (represented by the blue dot) at the functional residual capacity (FRC), and they move in concert throughout the respiratory cycle with the opposing forces working together to maintain negative intrapleural pressure.\n\nWhen an abnormal communication pathway is created between the lung (or exterior chest) and the intrapleural space, intrapleural pressure equalizes with alveolar (ie, atmospheric) pressure, resulting in loss of intrapleural negative pressure. With the lung and chest wall no longer pulling each in opposite directions, the chest wall springs outward to its equilibrium position (red dot), increasing hemithorax volume.\n\nLoss of negative intrapleural pressure also causes the lung to collapse toward its equilibrium position (black dot). Compliance is defined as change in volume per change in pressure and is represented by the slope of the pressure-volume curve (eg, high compliance is illustrated by a steep-sloping curve). Lung compliance demonstrates hysteresis (ie, compliance differs during inspiration and expiration) due to the effects of alveolar surface tension. The flatness of the inspiratory lung compliance curve at very low lung volumes reflects the difficulty in inflating a collapsed lung and represents decreased compliance compared to that at the FRC.\n\nEducational objective:\nThe lungsexertcollapsingforce,andtherestingchestwallexertsexpandingforce.Theseopposingforcesareinequilibriumatthefunctionalresidualcapacityandgeneratesustainedintrapleuralnegativepressurethatallowsthelungandchestwalltomovetogetherasacombinedrespiratoryunit.Lossofintrapleuralnegativepressure(eg,pneumothorax)disruptsthecombinedsystem,causingthechestwalltospringoutwardtoitsequilibriumposition,enlargingthehemithorax.Similarly,thelungcollapsestoitsequilibriumpositionwhereinspiratorycomplianceisdecreased.",
+    "zh": "该患者的胸部X光片显示右侧没有外周肺部标记，并且有一个代表右肺萎陷的组织团块，这些发现与气胸一致：刺伤可能穿透了胸壁和胸膜，从而使空气进入胸膜腔。\n\n肺在所有肺容积下都施加收缩力，而胸壁在除非常高的肺容积外都施加扩张力。在正常的呼吸系统中，肺和胸壁在功能残气量（FRC）时处于平衡状态（用蓝点表示），它们在整个呼吸周期中协同运动，相互作用，维持负的胸膜内压力。\n\n当在肺（或胸外）和胸膜腔之间建立异常的沟通途径时，胸膜内压力与肺泡（即大气）压力达到平衡，导致胸膜内负压的丧失。由于肺和胸壁不再向相反方向拉伸，胸壁向外弹向其平衡位置（红点），从而增加了气胸容积。\n\n负胸膜内压力的丧失也导致肺向其平衡位置（黑点）塌陷。顺应性定义为容积变化与压力变化之比，并由压力-容积曲线的斜率表示（例如，高顺应性由陡峭的曲线表示）。肺顺应性表现出滞后现象（即，在吸气和呼气期间，顺应性不同），这是由于肺泡表面张力的影响。吸气肺顺应性曲线在非常低的肺容积下的平坦度反映了充盈萎陷肺的困难，并且与FRC时的顺应性相比，代表顺应性降低。\n\n教育目标：肺施加收缩力，而静止的胸壁施加扩张力。这些相反的力在功能残气量下处于平衡状态，并产生持续的胸膜内负压，这使得肺和胸壁作为一个组合的呼吸单元一起移动。胸膜内负压的丧失（例如，气胸）破坏了组合系统，导致胸壁向外弹向其平衡位置，扩大气胸。类似地，肺塌陷至其平衡位置，其中吸气顺应性降低。"
+  },
+  "summary": {
+    "en": "A patient with a stab wound to the chest presents with shortness of breath and decreased breath sounds on the affected side. The most likely changes in the affected hemithorax and lung are increased hemithorax volume and decreased inspiratory lung compliance due to pneumothorax.",
+    "zh": "一名胸部被刺伤的患者出现呼吸困难，受影响侧呼吸音减弱。由于气胸，受影响的半胸和肺中最可能的变化是气胸容积增加和吸气肺顺应性降低。"
+  },
+  "tags": [
+    "Pneumothorax",
+    "Respiratory Physiology",
+    "Lung Compliance",
+    "Hemithorax Volume",
+    "Trauma"
+  ],
+  "category": "Chest",
+  "question_id": "19916",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\19916",
+  "extracted_at": "2025-11-05T11:44:26.665806",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:38:29.250454",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

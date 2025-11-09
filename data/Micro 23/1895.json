@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old man comes to the office due to several days of dysuria. He has had no fever or hematuria. The patient has no other medical conditions, takes no medications, and has no known allergies. Temperature is 37.1 C (98.8 F). On genitourinary examination, mucopurulent discharge is noted at the urethral meatus. Microscopy of the discharge shows numerous neutrophils, some of which contain intracellular gram-negative diplococci. A single intramuscular injection of ceftriaxone is administered.",
+    "zh": "一名23岁的男性因排尿困难数天前来就诊。他没有发烧或血尿。患者没有其他疾病，没有服用药物，也没有已知的过敏史。体温为37.1摄氏度（98.8华氏度）。在泌尿生殖系统检查中，发现尿道口有粘液脓性分泌物。分泌物的显微镜检查显示大量中性粒细胞，其中一些含有细胞内革兰氏阴性双球菌。给予一次头孢曲松的肌内注射。"
+  },
+  "question": {
+    "en": "Which of the following additional medications is recommended at this time?",
+    "zh": "此时建议使用以下哪种附加药物？"
+  },
+  "options": {
+    "A": {
+      "en": "Doxycycline",
+      "zh": "多西环素"
+    },
+    "B": {
+      "en": "Fluconazole",
+      "zh": "氟康唑"
+    },
+    "C": {
+      "en": "Metronidazole",
+      "zh": "甲硝唑"
+    },
+    "D": {
+      "en": "No additional medication",
+      "zh": "无需额外用药"
+    },
+    "E": {
+      "en": "Penicillin G benzathine",
+      "zh": "苄星青霉素G"
+    },
+    "F": {
+      "en": "Trimethoprim-sulfamethoxazole",
+      "zh": "复方磺胺甲噁唑"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This young man with dysuria and penile discharge likely has INFECTIOUS URETHRITIS due to sexually transmitted infection. Most cases are caused by NEISSERIA GONORRHOEAE, CHLAMYDIA TRACHOMATIS, or MYCOPLASMA GENITALIUM; simultaneous infection with multiple pathogens is common.\n\nNucleic acid amplification testing (NAAT) of urethral, vaginal, or anal swabs is used to identify the causative organism. When available, light microscopy with Gram stain is performed to rapidly diagnose N gonorrhoeae infection while awaiting NAAT results. GONOCOCCAL URETHRITIS is diagnosed when there are leukocytes with intracellular gram-negative diplococci; nongonococcal urethritis is diagnosed when there are no organisms present (because C trachomatis does not have significant peptidoglycan in the cell wall, it cannot be identified on Gram stain).\n\nTreatment is as follows:\n\n*   Gonorrhea with positive/uncertain Chlamydia status (as in this patient) is treated with ceftriaxone and doxycycline to provide dual coverage for gonorrhea (ceftriaxone plus doxycycline) and coverage for potential Chlamydia coinfection (doxycycline).\n*   Gonorrhea with negative Chlamydia NAAT is treated with ceftriaxone alone (Choice D).\n*   Positive Chlamydia with no gonorrhea is treated with azithromycin or doxycycline monotherapy.\n\n(Choice B) Fluconazole is a triazole-class antifungal agent used to treat candidiasis, cryptococcosis, histoplasmosis, blastomycosis, and coccidioidomycosis. Fungal urethritis is uncommon in otherwise healthy men.\n\n(Choice C) Metronidazole treats anaerobic bacteria and protozoa. It has no activity against N gonorrhoeae or C trachomatis but can be used for urethritis caused by Trichomonas vaginalis. Because T vaginalis is a less common cause of infectious urethritis in men, empiric coverage against T vaginalis is not recommended.\n\n(Choice E) Penicillin G benzathine is used to treat syphilis infection, which typically presents with a chancre (primary syphilis) or diffuse rash and lymphadenopathy (secondary syphilis). Treatment for syphilis is not indicated without these characteristic symptoms or a positive syphilis test result.\n\n(Choice F) Trimethoprim-sulfamethoxazole is used to treat cystitis or proctitis due to coliform bacilli (eg, Escherichia coli). These organisms can cause urethritis in older men in the setting of prostatic obstruction of the urethra. However, infectious urethritis in young men is almost always caused by sexually transmitted infection, not coliform organisms.\n\nEducational objective:\n\nUrethritis in young men is usually due to sexually transmitted infection. Treatment for gonococcal urethritis with uncertain or positive Chlamydia coinfection status is ceftriaxone plus doxycycline. Treatment for gonococcal urethritis with negative Chlamydia is ceftriaxone alone. Patients with no gonorrhea who have Chlamydia are treated with azithromycin or doxycycline monotherapy.",
+    "zh": "这位有排尿困难和阴茎分泌物的年轻人很可能患有由性传播感染引起的感染性尿道炎。大多数病例是由淋病奈瑟菌、沙眼衣原体或生殖支原体引起的；同时感染多种病原体的情况并不少见。\n\n使用尿道、阴道或肛门拭子的核酸扩增检测（NAAT）来识别病原体。如果可行，使用革兰氏染色进行光镜检查以快速诊断淋病奈瑟菌感染，同时等待NAAT结果。当存在具有细胞内革兰氏阴性双球菌的白细胞时，诊断为淋病性尿道炎；当不存在病原体时，诊断为非淋病性尿道炎（因为沙眼衣原体细胞壁中没有显著的肽聚糖，因此无法通过革兰氏染色鉴定）。\n\n治疗方法如下：\n\n*   淋病伴有衣原体阳性/不确定状态（如本例患者）的患者，应使用头孢曲松和多西环素治疗，以同时覆盖淋病（头孢曲松加上多西环素）和潜在的衣原体合并感染（多西环素）。\n*   淋病伴有衣原体NAAT阴性的患者，应单独使用头孢曲松治疗（选项D）。\n*   无淋病但衣原体呈阳性的患者，应使用阿奇霉素或多西环素单药治疗。\n\n（选项B）氟康唑是一种三唑类抗真菌药，用于治疗念珠菌病、隐球菌病、组织胞浆菌病、芽生菌病和球孢子菌病。在其他方面健康的男性中，真菌性尿道炎并不常见。\n\n（选项C）甲硝唑用于治疗厌氧菌和原虫。它对淋病奈瑟菌或沙眼衣原体无效，但可用于治疗由阴道毛滴虫引起的尿道炎。由于阴道毛滴虫是男性感染性尿道炎的较不常见原因，因此不建议经验性覆盖阴道毛滴虫。\n\n（选项E）苄星青霉素G用于治疗梅毒感染，梅毒通常表现为硬下疳（一期梅毒）或弥漫性皮疹和淋巴结病（二期梅毒）。如果没有这些特征性症状或梅毒检测结果呈阳性，则不建议治疗梅毒。\n\n（选项F）复方磺胺甲噁唑用于治疗由大肠杆菌（如大肠杆菌）引起的膀胱炎或直肠炎。这些病原体可导致老年男性在尿道前列腺梗阻的情况下发生尿道炎。然而，年轻男性的感染性尿道炎几乎总是由性传播感染引起的，而不是由大肠杆菌引起的。\n\n教育目标：\n\n年轻男性尿道炎通常是由于性传播感染引起的。对于淋病性尿道炎伴有衣原体合并感染状态不确定或阳性的患者，应使用头孢曲松加多西环素治疗。对于淋病性尿道炎伴有衣原体阴性的患者，应单独使用头孢曲松治疗。无淋病但衣原体阳性的患者，应使用阿奇霉素或多西环素单药治疗。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the appropriate treatment for infectious urethritis, specifically considering the common pathogens and the need for dual coverage when Chlamydia status is uncertain. The question requires understanding of the common causes of urethritis in young men and the recommended antibiotic regimens.\n\nThe best approach is to recognize the likely pathogens (Neisseria gonorrhoeae and Chlamydia trachomatis) based on the patient's presentation and microscopy findings. Given the uncertainty of Chlamydia coinfection, empiric dual therapy with ceftriaxone and doxycycline is the most appropriate choice.",
+    "zh": "此问题考察了对感染性尿道炎的适当治疗的知识，特别是考虑到常见的病原体以及衣原体状态不确定时需要双重覆盖。此问题要求理解年轻男性尿道炎的常见原因和推荐的抗生素方案。\n\n最好的方法是根据患者的临床表现和显微镜检查结果识别可能的病原体（淋病奈瑟菌和沙眼衣原体）。鉴于衣原体合并感染的不确定性，经验性双重治疗（头孢曲松和多西环素）是最合适的选择。"
+  },
+  "tags": "Urethritis; Sexually transmitted infections; Neisseria gonorrhoeae; Chlamydia trachomatis; Doxycycline; Ceftriaxone; Infectious disease; Genitourinary system; Antibiotic therapy",
+  "category": "Micro",
+  "question_id": "1895",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1895",
+  "extracted_at": "2025-11-05T15:03:04.267148",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:10:48.330628",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

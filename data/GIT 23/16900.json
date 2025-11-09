@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A term newborn boy is evaluated in the neonatal intensive care unit for respiratory distress. Apgar scores are 2 and 5 at 1 and 5 minutes, respectively. Respirations are 84/min. On examination, the patient has a barrel chest with a scaphoid abdomen and mild cyanosis of his extremities. Auscultation shows absent breath sounds on the left; right lung aeration is normal. Chest x-ray reveals multiple fluid-containing cystic areas on the left and a mediastinal shift to the right {{exhibit_1}}. Which of the following embryologic events most likely failed to occur in this patient?",
+    "zh": "一名足月新生男婴因呼吸窘迫在新生儿重症监护病房接受评估。阿普加评分分别为 1 分钟 2 分和 5 分钟 5 分。呼吸频率为 84 次/分钟。体格检查显示，患者有桶状胸，腹部呈舟状，四肢轻微发绀。听诊显示左侧无呼吸音；右肺通气正常。胸部 X 光片显示左侧有多个含液囊性区域，纵隔向右侧移位 {{exhibit_1}}。以下哪种胚胎学事件最有可能在该患者中未能发生？"
+  },
+  "question": {
+    "en": "Which of the following embryologic events most likely failed to occur in this patient?",
+    "zh": "以下哪种胚胎学事件最有可能在该患者中未能发生？"
+  },
+  "options": {
+    "A": {
+      "en": "Closure of the pleuroperitoneal fold",
+      "zh": "胸膜腹膜褶皱的闭合"
+    },
+    "B": {
+      "en": "Closure of the ventral body wall",
+      "zh": "腹侧体壁的闭合"
+    },
+    "C": {
+      "en": "Formation of the pleuropericardial membrane",
+      "zh": "胸膜心包膜的形成"
+    },
+    "D": {
+      "en": "Rotation of the midgut",
+      "zh": "中肠的旋转"
+    },
+    "E": {
+      "en": "Separation of the dorsal and ventral foregut",
+      "zh": "背侧和腹侧前肠的分离"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This newborn with respiratory distress and unilateral decreased breath sounds has a scaphoid abdomen and chest x-ray revealing cystic structures. These findings are consistent with a congenital diaphragmatic hernia (CDH), a congenital malformation caused by failure of the pleuroperitoneal folds to close {{exhibit_2}}. \n\nIn general, the diaphragm forms from 4 distinct tissues: the septum transversum, esophageal mesentery, musculature from the body wall, and pleuroperitoneal folds. Extension of the pleuroperitoneal folds to these other structures ultimately leads to division of the pericardioperitoneal canal into the peritoneal cavity and thoracic cavity. Failure of closure results in an abnormal communication between the thorax and abdomen. This defect is usually located on the left posterolateral side, allowing bowel, stomach, spleen, and/or liver to herniate into the thorax. Because this malformation occurs during organogenesis in the first trimester, compression of the developing lung leads to PULMONARY HYPOPLASIA.\n\nAffected newborns have respiratory distress at birth. Displacement of abdominal organs into the thorax causes the abdomen to appear scaphoid and the chest barrel shaped. Ipsilateral breath sounds are decreased or absent. Chest x-ray findings supportive of CDH include MEDIASTINAL SHIFT and THORACIC BOWEL LOOPS, which may appear as cystic, fluid-filled structures.\n\n(Choice B) Failure of ventral body wall closure results in gastroschisis, which is characterized by bowel evisceration without a protective membrane. A full-thickness abdominal wall defect is apparent on examination {{exhibit_3}}.\n\n(Choice C) The pleuropericardial membranes, which become the fibrous pericardium, fuse to separate the pericardial and pleural cavities. Fusion defects are rare, often asymptomatic, and result in communication between these two thoracic cavities, not between the thorax and abdomen {{exhibit_4}}.\n\n(Choice D) Malrotation, characterized by incomplete physiologic rotation of the bowel in utero, usually presents with bilious emesis in infancy due to duodenal obstruction from abnormally positioned peritoneal bands. Respiratory distress and thoracic bowel loops would not be seen {{exhibit_5}}.\n\n(Choice E) Abnormal separation of the dorsal (gastrointestinal tract) and ventral (respiratory tract) foregut results in esophageal atresia with or without a tracheoesophageal fistula. Symptoms include respiratory distress and choking with feeds; chest x-ray would not show cystic thoracic structures {{exhibit_6}}.\n\nEducational objective:\nCongenital diaphragmatic hernia is caused by failure of the pleuroperitoneal folds to close. Immediately after birth, newborns have respiratory distress, unilateral decreased breath sounds, and a scaphoid abdomen, with imaging revealing thoracic bowel loops and mediastinal shift.",
+    "zh": "这种有呼吸窘迫和单侧呼吸音减弱的新生儿有舟状腹，胸部 X 光片显示囊性结构。这些发现与先天性膈疝 (CDH) 一致，先天性膈疝是一种由胸膜腹膜褶皱闭合失败引起的先天畸形 {{exhibit_2}}。\n\n一般而言，膈肌由 4 种不同的组织构成：横隔、食管系膜、来自体壁的肌肉和胸膜腹膜褶皱。胸膜腹膜褶皱延伸到这些其他结构最终导致心包腹膜管分为腹膜腔和胸腔。闭合失败会导致胸腔和腹部之间出现异常的交通。这种缺陷通常位于左后外侧，允许肠、胃、脾和/或肝脏向胸腔内疝出。由于这种畸形发生在妊娠头三个月的器官发生过程中，对发育中的肺部的压迫会导致肺发育不全。\n\n受影响的新生儿在出生时会出现呼吸窘迫。腹部器官向胸腔内的移位会导致腹部呈舟状，胸部呈桶状。同侧呼吸音减弱或消失。支持 CDH 的胸部 X 光表现包括纵隔移位和胸腔肠袢，可能表现为囊性、充满液体的结构。\n\n(选项 B) 腹侧体壁闭合失败会导致腹裂，其特征是肠外翻，没有保护膜。体格检查可见全层腹壁缺损 {{exhibit_3}}。\n\n(选项 C) 形成纤维性心包的胸膜心包膜融合以分隔心包腔和胸膜腔。融合缺陷很少见，通常无症状，导致这两个胸腔之间的交通，而不是胸腔和腹部之间的交通 {{exhibit_4}}。\n\n(选项 D) 肠旋转不良，其特征是子宫内肠的生理性旋转不完全，通常在婴儿期表现为胆汁性呕吐，原因是异常定位的腹膜带导致的十二指肠梗阻。不会出现呼吸窘迫和胸腔肠袢 {{exhibit_5}}。\n\n(选项 E) 背侧（胃肠道）和腹侧（呼吸道）前肠的异常分离会导致食管闭锁，伴有或不伴有气管食管瘘。症状包括呼吸窘迫和进食时呛咳；胸部 X 光片不会显示囊性胸部结构 {{exhibit_6}}。\n\n教育目标：\n先天性膈疝是由胸膜腹膜褶皱闭合失败引起的。出生后不久，新生儿出现呼吸窘迫、单侧呼吸音减弱和舟状腹，影像学显示胸腔肠袢和纵隔移位。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of congenital diaphragmatic hernia (CDH), its embryological origin (failure of pleuroperitoneal folds to close), clinical presentation (respiratory distress, scaphoid abdomen, decreased breath sounds), and radiographic findings (mediastinal shift, thoracic bowel loops). It also requires differentiating CDH from other congenital abnormalities.\n\nTo solve this question, recognize the classic triad of respiratory distress, scaphoid abdomen, and decreased breath sounds in a newborn. Consider the embryological origin of the diaphragm and the consequences of its incomplete formation. Rule out other congenital conditions based on their distinct clinical and radiographic features.",
+    "zh": "此题考察对先天性膈疝 (CDH) 的知识，包括其胚胎学起源（胸膜腹膜褶皱闭合失败）、临床表现（呼吸窘迫、舟状腹、呼吸音减弱）和影像学发现（纵隔移位、胸腔肠袢）。它还需要将 CDH 与其他先天性异常区分开来。\n\n要解决此题，请识别新生儿的经典三联征，包括呼吸窘迫、舟状腹和呼吸音减弱。考虑膈肌的胚胎学起源及其不完全形成的后果。根据其他先天性疾病独特的临床和影像学特征排除它们。"
+  },
+  "tags": "Congenital diaphragmatic hernia; Embryology; Pleuroperitoneal folds; Respiratory distress; Scaphoid abdomen; Mediastinal shift; Thoracic bowel loops; Pulmonary hypoplasia; Neonatology; Gastroenterology",
+  "category": "GIT",
+  "question_id": "16900",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\16900",
+  "extracted_at": "2025-11-05T14:27:22.139956",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:52:58.807024",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

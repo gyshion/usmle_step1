@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "{{exhibit_1}} A patient is started on rivaroxaban. This drug inhibits which of the following?",
+    "zh": "{{exhibit_1}} 患者开始服用利伐沙班。这种药物抑制以下哪一种？"
+  },
+  "question": {
+    "en": "This drug inhibits which of the following?",
+    "zh": "这种药物抑制以下哪一种？"
+  },
+  "options": {
+    "A": {
+      "en": "Factor VIII",
+      "zh": "凝血因子VIII"
+    },
+    "B": {
+      "en": "Factor Xa",
+      "zh": "凝血因子Xa"
+    },
+    "C": {
+      "en": "Glycoprotein IIb/IIIa",
+      "zh": "糖蛋白IIb/IIIa"
+    },
+    "D": {
+      "en": "Platelet P2Y12",
+      "zh": "血小板P2Y12"
+    },
+    "E": {
+      "en": "Thrombin",
+      "zh": "凝血酶"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has right lower extremity proximal deep venous thrombosis (DVT), with his recent long flight from Japan being a possible risk factor. Many patients with DVT receive long-term anticoagulation with warfarin.\nAlternates include direct factor Xa inhibitors (eg, rivaroxaban, apixaban), which bind to the active site of factor Xa and prevent thrombin formation. These drugs can be administered orally as monotherapy and do not require laboratory monitoring. They are used for venous thromboembolism treatment as well as for stroke prophylaxis in patients with atrial fibrillation (who are at risk for embolic stroke).\n\n(Choice A) Factor VIII replacement (not inhibition) is the mainstay of hemophilia A treatment.\n\n(Choice C) Eptifibatide inhibits platelet aggregation and thrombosis by blocking the glycoprotein IIb/IIIa receptor, which is the binding site for fibrinogen. This drug is typically used in acute coronary syndrome and in patients undergoing percutaneous coronary intervention.\n\n(Choice D) Ticagrelor binds the adenosine diphosphate (ADP) P2Y12 receptor on platelets, which prevents platelet aggregation by blocking ADP-mediated activation of the glycoprotein IIb/IIIa receptor complex. This drug is also used in acute coronary syndrome and in patients undergoing percutaneous coronary intervention.\n\n(Choice E) Dabigatran is an oral direct thrombin inhibitor that inactivates both circulating and clot-associated thrombin. It is also used for treatment of thromboembolic disease and stroke prophylaxis in atrial fibrillation.\n\nEducational objective:\nRivaroxaban is an oral anticoagulant that directly inhibits factor Xa. It is used in venous thromboembolism and atrial fibrillation.",
+    "zh": "该患者患有右下肢近端深静脉血栓形成（DVT），近期从日本长途飞行可能是危险因素。许多DVT患者接受华法林长期抗凝治疗。\n替代方案包括直接Xa因子抑制剂（例如，利伐沙班，阿哌沙班），它们与Xa因子的活性位点结合并阻止凝血酶的形成。这些药物可以口服作为单一疗法，并且不需要实验室监测。它们用于静脉血栓栓塞的治疗以及房颤患者（有发生栓塞性卒中风险）的卒中预防。\n\n（选项A）凝血因子VIII替代（而非抑制）是甲型血友病的治疗主要方法。\n\n（选项C）依替巴肽通过阻断糖蛋白IIb/IIIa受体（纤维蛋白原的结合位点）来抑制血小板聚集和血栓形成。该药物通常用于急性冠脉综合征和接受经皮冠状动脉介入治疗的患者。\n\n（选项D）替格瑞洛与血小板上的二磷酸腺苷（ADP）P2Y12受体结合，通过阻断ADP介导的糖蛋白IIb/IIIa受体复合物的激活来防止血小板聚集。该药物也用于急性冠脉综合征和接受经皮冠状动脉介入治疗的患者。\n\n（选项E）达比加群是一种口服直接凝血酶抑制剂，可灭活循环和凝块相关的凝血酶。它也用于治疗血栓栓塞性疾病和房颤患者的卒中预防。\n\n教育目标：\n利伐沙班是一种口服抗凝剂，可直接抑制Xa因子。它用于静脉血栓栓塞和房颤的卒中预防。"
+  },
+  "summary": {
+    "en": "Rivaroxaban is a direct factor Xa inhibitor used for treating and preventing venous thromboembolism and stroke prophylaxis in atrial fibrillation.",
+    "zh": "利伐沙班是一种直接的Xa因子抑制剂，用于治疗和预防静脉血栓栓塞以及房颤的卒中预防。"
+  },
+  "tags": [
+    "Pharmacology",
+    "Hematology & Oncology",
+    "Venous thromboembolism"
+  ],
+  "category": "Blood",
+  "question_id": "11731",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\11731",
+  "extracted_at": "2025-11-05T13:23:43.229669",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:25:56.218825",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

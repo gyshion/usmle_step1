@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "Special electrodes are used to detect the change in membrane potential of a specific type of cardiac cell. These changes are recorded on the graph below {{exhibit_1}}.",
+    "zh": "使用特殊电极检测特定类型心肌细胞的膜电位变化。这些变化记录在下方的图表中 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "The deflection indicated by the arrow is most likely caused by movement of which of the following ions?",
+    "zh": "箭头所指示的偏转最可能由以下哪种离子的移动引起？"
+  },
+  "options": {
+    "A": {
+      "en": "Sodium",
+      "zh": "钠"
+    },
+    "B": {
+      "en": "Potassium",
+      "zh": "钾"
+    },
+    "C": {
+      "en": "Calcium",
+      "zh": "钙"
+    },
+    "D": {
+      "en": "Chloride",
+      "zh": "氯"
+    },
+    "E": {
+      "en": "Sodium and potassium",
+      "zh": "钠和钾"
+    },
+    "F": {
+      "en": "Calcium and potassium",
+      "zh": "钙和钾"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The graph in the question stem illustrates an action potential typical of cardiac pacemaker cells, such as those found in the sinoatrial node. These action potentials are different from non-pacemaker cardiac action potentials in that phases 1 and 2 are absent and phase 4 represents a slow depolarization phase.\n\nPacemaker cells are unique in that they exhibit automaticity (an inherent ability to depolarize without any external influences). Automaticity is made possible by a inward, mixed sodium-potassium current (the funny current) that occurs during phase 4 of the action potential (Choice E). This current gradually brings the membrane potential closer to threshold, at which point phase 0 depolarization occurs due to a large increase in calcium influx (arrow). Pacemaker cell depolarization is then followed by phase 3 (repolarization), which is caused by an outward potassium current (Choice B).\n\nIn cardiomyocytes and Purkinje cells (non-pacemaker cells), phase 4 corresponds to the resting membrane potential and is typically stable at approximately -90 mV (near the equilibrium potential of potassium). Phase 0 of the non-pacemaker action potential is mediated by rapid sodium influx (Choice A). In contrast to the slower calcium-mediated depolarization of pacemaker cells. Phase 1 is an early short repolarization occurring immediately after depolarization that is caused by increased outflow of potassium and decreased sodium conductance. Phase 2 is the plateau phase of the action potential, during which an inward calcium current counteracts the outward movement of potassium ions that started in phase 1 (Choice F). Phase 3 (repolarization) occurs as the inward calcium current ceases while potassium continues to rush out of the cell.\n\nEducational objective:\nIn cardiac pacemaker cells, phase 0 depolarization is mediated by an inward flux of calcium. This differs from phase 0 of cardiomyocytes and Purkinje cells, which results from an inward sodium current.",
+    "zh": "问题干中的图表说明了心肌起搏细胞（如窦房结中的细胞）的典型动作电位。这些动作电位与非起搏心肌动作电位的不同之处在于，没有1相和2相，而4相代表一个缓慢的去极化阶段。\n\n起搏细胞的独特之处在于它们表现出自律性（在没有任何外部影响的情况下进行去极化的固有能力）。自律性是由内向的、混合的钠钾电流（奇怪电流）实现的，该电流发生在动作电位的4相（选项E）。该电流逐渐使膜电位接近阈值，此时由于钙内流的大幅增加（箭头），发生0相去极化。然后，起搏细胞去极化后是3相（复极化），这由钾外流电流引起（选项B）。\n\n在心肌细胞和浦肯野细胞（非起搏细胞）中，4相对应静息膜电位，通常稳定在约-90 mV（接近钾的平衡电位）。非起搏动作电位的0相由快速的钠内流介导（选项A）。与起搏细胞较慢的钙介导的去极化相反。1相是去极化后立即发生的早期短暂复极化，由钾外流增加和钠电导降低引起。2相是动作电位的平台期，在此期间，内向的钙电流抵消了1相开始的钾离子的外流（选项F）。3相（复极化）发生在内向钙电流停止，而钾继续涌出细胞时。\n\n教育目标：\n在心肌起搏细胞中，0相去极化由钙的内流介导。这与心肌细胞和浦肯野细胞的0相不同，后者的0相由钠内流引起。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of cardiac action potentials, specifically the ionic currents responsible for depolarization in pacemaker cells. It requires understanding the differences between pacemaker and non-pacemaker action potentials.\n\nTo solve this question, identify that the graph represents a pacemaker cell action potential. Recall that phase 0 depolarization in pacemaker cells is primarily due to calcium influx, unlike the sodium influx in non-pacemaker cells.",
+    "zh": "本题考察对心脏动作电位的理解，特别是负责起搏细胞去极化的离子电流。它要求理解起搏和非起搏动作电位的区别。\n\n要解决这个问题，需要确定图表代表的是起搏细胞动作电位。回想一下，起搏细胞中的0相去极化主要由于钙内流，这与非起搏细胞中的钠内流不同。"
+  },
+  "tags": "Cardiac action potential; Pacemaker cells; Calcium influx; Depolarization; Sinoatrial node; Cardiac physiology; Electrophysiology",
+  "category": "CVS",
+  "question_id": "1531",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1531",
+  "extracted_at": "2025-11-05T11:58:29.361480",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:49:11.720239",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

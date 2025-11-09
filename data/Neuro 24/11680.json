@@ -1,0 +1,76 @@
+{
+  "question_stem": {
+    "en": "{{exhibit_1}} A decreased activity of which of the following neurotransmitters is most likely associated with pain relief in this patient?",
+    "zh": "{{exhibit_1}} 该患者中，下列哪种神经递质活性的降低最有可能与疼痛缓解相关？"
+  },
+  "question": {
+    "en": "A decreased activity of which of the following neurotransmitters is most likely associated with pain relief in this patient?",
+    "zh": "该患者中，下列哪种神经递质活性的降低最有可能与疼痛缓解相关？"
+  },
+  "options": {
+    "A": {
+      "en": "Acetylcholine",
+      "zh": "乙酰胆碱"
+    },
+    "B": {
+      "en": "Dynorphin",
+      "zh": "强啡肽"
+    },
+    "C": {
+      "en": "Endorphin",
+      "zh": "内啡肽"
+    },
+    "D": {
+      "en": "Glycine",
+      "zh": "甘氨酸"
+    },
+    "E": {
+      "en": "Histamine",
+      "zh": "组胺"
+    },
+    "F": {
+      "en": "Neuropeptide Y",
+      "zh": "神经肽Y"
+    },
+    "G": {
+      "en": "Norepinephrine",
+      "zh": "去甲肾上腺素"
+    },
+    "H": {
+      "en": "Substance P",
+      "zh": "P物质"
+    }
+  },
+  "correct_answer": "H",
+  "explanation": {
+    "en": "Shingles is due to reactivation of latent varicella zoster virus in sensory ganglia. It causes a vesicular rash and acute neuritis due to injury to the nerves. The initial pain fades within a few weeks to months, but a subset of patients will have residual neuropathic pain in the affected dermatome. This pain, termed postherpetic neuralgia (PHN), relates to sensitization of afferent nerves in the dorsal horn. It may last several months or longer, and has a burning, stabbing, or gnawing character. PHN is usually managed with tricyclic antidepressants (eg, amitriptyline) or anticonvulsants (eg, gabapentin, pregabalin), but nonsystemic options for PHN include lidocaine patches or topical capsaicin.\n\nCapsaicin is an irritant found in the chili pepper family. It causes excessive activation of TRPV1 (a transmembrane cation channel), causing a buildup of intracellular calcium that results in long-lasting dysfunction of nociceptive nerve fibers (defunctionalization). In addition, capsaicin causes release and subsequent depletion of substance P, a polypeptide neurotransmitter involved in transmission of pain signals. On initial application, topical capsaicin causes burning, stinging, and erythema, but persistent exposure leads to a moderate reduction in pain over time.\n\n(Choices A, D, E, and G) Capsaicin does not achieve its analgesic effect by acting on these neurotransmitters.\n\n(Choices B and C) Endorphins and dynorphins are endogenous opioid peptides that achieve their pain-relieving effects by activating μ-opioid and κ-opioid receptors, respectively. Capsaicin does not affect the opioid system.\n\n(Choice F) Neuropeptide Y (NPY) is a polypeptide neurotransmitter found in the central and autonomic nervous systems. It is thought to play a role in appetite and pain perception. NPY antagonists have been investigated as potential antiobesity drugs.",
+    "zh": "带状疱疹是潜伏的水痘-带状疱疹病毒在感觉神经节中再激活引起的。它会导致水疱性皮疹和由于神经损伤引起的急性神经炎。最初的疼痛在几周到几个月内消退，但一部分患者会在受影响的皮节中出现残留的神经病理性疼痛。这种疼痛称为带状疱疹后神经痛 (PHN)，与传入神经在脊髓背角的敏化有关。它可能持续数月或更长时间，并具有烧灼、刺痛或啃咬的特征。PHN 通常用三环类抗抑郁药（例如，阿米替林）或抗惊厥药（例如，加巴喷丁、普瑞巴林）治疗，但 PHN 的非全身性选择包括利多卡因贴剂或局部辣椒素。\n\n辣椒素是辣椒家族中发现的刺激物。它会导致 TRPV1（一种跨膜阳离子通道）过度激活，导致细胞内钙的积累，从而导致伤害性神经纤维的长期功能障碍（去功能化）。此外，辣椒素会引起 P 物质（一种参与疼痛信号传递的多肽神经递质）的释放和随后的耗竭。在最初的局部应用中，局部辣椒素会引起烧灼、刺痛和红斑，但持续暴露会导致疼痛在中等程度上减轻。\n\n（选项 A、D、E 和 G）辣椒素不会通过作用于这些神经递质来实现其镇痛作用。\n\n（选项 B 和 C）内啡肽和强啡肽是内源性阿片肽，它们分别通过激活 μ-阿片受体和 κ-阿片受体来实现其止痛作用。辣椒素不影响阿片系统。\n\n（选项 F）神经肽 Y (NPY) 是一种存在于中枢和自主神经系统中的多肽神经递质。它被认为在食欲和疼痛知觉中起作用。NPY 拮抗剂已被研究作为潜在的抗肥胖药物。"
+  },
+  "summary": {
+    "en": "Topical capsaicin causes defunctionalization of afferent pain fibers and depletion of substance P. Initial application results in a burning and stinging sensation, but chronic exposure leads to reduced pain transmission.",
+    "zh": "局部辣椒素导致传入痛觉纤维去功能化和 P 物质耗竭。最初应用会导致烧灼和刺痛感，但长期暴露会导致疼痛传递减少。"
+  },
+  "tags": [
+    "Pharmacology",
+    "Neurology",
+    "Pain Management"
+  ],
+  "category": "Neuro",
+  "question_id": "11680",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\11680",
+  "extracted_at": "2025-11-07T15:53:37.453018",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:31:14.442062",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

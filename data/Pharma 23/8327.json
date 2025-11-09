@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 52-year-old woman comes to the emergency department due to recurrent right lower extremity swelling, pain, and erythema. The patient's medical history includes type 2 diabetes mellitus and depression. Her medications include metformin, paroxetine, and a multivitamin. The patient is diagnosed with cellulitis, admitted to the hospital, and started on antibiotics. She is continued on her home medications. Three days later, the patient becomes agitated and delirious with severe abdominal cramps and diarrhea. Her temperature is 39.2 C (102.6 F), blood pressure is 180/100 mm Hg, and heart rate is 120/min and regular. On examination, the patient is diaphoretic and tremulous, and her pupils are dilated. Bilateral hyperreflexia and ankle clonus are present. She begins to have seizures.",
+    "zh": "一名52岁女性因右下肢反复肿胀、疼痛和红斑前来急诊科就诊。患者病史包括2型糖尿病和抑郁症。她的药物包括二甲双胍、帕罗西汀和复合维生素。患者被诊断为蜂窝织炎，住院治疗，并开始使用抗生素。她继续服用家庭用药。三天后，患者变得激动和谵妄，伴有严重的腹部绞痛和腹泻。她的体温为39.2°C (102.6°F)，血压为180/100 mmHg，心率为120次/分，规律。体格检查显示患者出汗、震颤，瞳孔扩大。存在双侧腱反射亢进和踝阵挛。她开始出现癫痫发作。"
+  },
+  "question": {
+    "en": "Which of the following antibiotics was the patient most likely given to treat the cellulitis?",
+    "zh": "以下哪种抗生素最有可能用于治疗患者的蜂窝织炎？"
+  },
+  "options": {
+    "A": {
+      "en": "Clindamycin",
+      "zh": "克林霉素"
+    },
+    "B": {
+      "en": "Doxycycline",
+      "zh": "多西环素"
+    },
+    "C": {
+      "en": "Linezolid",
+      "zh": "利奈唑胺"
+    },
+    "D": {
+      "en": "Penicillin",
+      "zh": "青霉素"
+    },
+    "E": {
+      "en": "Vancomycin",
+      "zh": "万古霉素"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The patient presents with symptoms consistent with SEROTONIN SYNDROME, which is characterized by a triad of AUTONOMIC INSTABILITY (hypertension, tachycardia, hyperthermia), ALTERED MENTAL STATUS (agitation, delirium, confusion), and NEUROMUSCULAR HYPERACTIVITY (tremor, hyperreflexia, myoclonus, seizures). This patient exhibits all three components: hypertension (180/100 mm Hg), tachycardia (120/min), hyperthermia (39.2 C), agitation, delirium, tremulousness, hyperreflexia, ankle clonus, and seizures. \n\nSerotonin syndrome is typically caused by an excess of serotonergic activity in the central nervous system, often due to the combination of serotonergic medications, overdose, or drug-drug interactions. The patient is taking PAROXETINE, a selective serotonin reuptake inhibitor (SSRI). The question states she was admitted for cellulitis and started on antibiotics. Linezolid is an antibiotic that has MONOAMINE OXIDASE INHIBITOR (MAOI) activity. MAOIs potentiate serotonergic effects by preventing the breakdown of serotonin. Therefore, combining linezolid with an SSRI like paroxetine can lead to serotonin syndrome. This is the most likely explanation for the patient's current presentation.\n\n(A) Clindamycin is an antibiotic used for skin and soft tissue infections, including cellulitis. It does not have MAOI activity and is not associated with serotonin syndrome when combined with SSRIs.\n(B) Doxycycline is a tetracycline antibiotic used for various infections, including some skin infections. It does not have MAOI activity and is not associated with serotonin syndrome.\n(D) Penicillin is a beta-lactam antibiotic commonly used for bacterial infections, including cellulitis. It does not have MAOI activity and is not associated with serotonin syndrome.\n(E) Vancomycin is an antibiotic used for serious infections, including those caused by MRSA. It does not have MAOI activity and is not associated with serotonin syndrome.\n\nKey clinical pearls:\n- Remember the triad of serotonin syndrome: Autonomic instability, altered mental status, neuromuscular hyperactivity.\n- Be aware of medications with MAOI activity, such as LINEZOLID.\n- Drug interactions between MAOIs and SSRIs are a common cause of serotonin syndrome.\n- The patient's presentation of agitation, delirium, diaphoresis, tremor, hyperreflexia, and seizures, in the context of taking an SSRI and receiving a new antibiotic, strongly suggests serotonin syndrome.",
+    "zh": "患者表现出的症状与血清素综合征一致，其特征是自主神经功能紊乱（高血压、心动过速、高热）、精神状态改变（激动、谵妄、意识模糊）和神经肌肉兴奋（震颤、腱反射亢进、肌阵挛、癫痫发作）三联征。该患者表现出所有三个组成部分：高血压（180/100 mmHg）、心动过速（120次/分）、高热（39.2°C）、激动、谵妄、震颤、腱反射亢进、踝阵挛和癫痫发作。\n\n血清素综合征通常由中枢神经系统中血清素能活性过量引起，这通常是由于血清素能药物、过量用药或药物相互作用的组合。患者正在服用帕罗西汀，一种选择性血清素再摄取抑制剂（SSRI）。问题指出，她因蜂窝织炎住院并开始使用抗生素。利奈唑胺是一种具有单胺氧化酶抑制剂（MAOI）活性的抗生素。MAOI通过阻止血清素的分解来增强血清素能作用。因此，将利奈唑胺与帕罗西汀等SSRI联合使用可导致血清素综合征。这是对患者目前表现最可能的解释。\n\n(A) 克林霉素是一种用于皮肤和软组织感染（包括蜂窝织炎）的抗生素。它没有MAOI活性，并且与SSRI联合使用时不会引起血清素综合征。\n(B) 多西环素是一种四环素类抗生素，用于治疗各种感染，包括某些皮肤感染。它没有MAOI活性，并且与血清素综合征无关。\n(D) 青霉素是一种β-内酰胺类抗生素，常用于细菌感染，包括蜂窝织炎。它没有MAOI活性，并且与血清素综合征无关。\n(E) 万古霉素是一种用于严重感染的抗生素，包括由耐甲氧西林金黄色葡萄球菌（MRSA）引起的感染。它没有MAOI活性，并且与血清素综合征无关。\n\n关键临床要点：\n- 记住血清素综合征的三联征：自主神经功能紊乱、精神状态改变、神经肌肉兴奋。\n- 了解具有MAOI活性的药物，例如利奈唑胺。\n- MAOI和SSRI之间的药物相互作用是血清素综合征的常见原因。\n- 患者在服用SSRI并接受新的抗生素的背景下，出现激动、谵妄、出汗、震颤、腱反射亢进和癫痫发作，强烈提示血清素综合征。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of SEROTONIN SYNDROME, its clinical presentation, and its common causes, particularly drug-drug interactions involving serotonergic medications and antibiotics with MAOI activity. It requires the clinician to identify the likely antibiotic prescribed for cellulitis that could precipitate serotonin syndrome in a patient already on an SSRI.\n\nTo solve this question, first recognize the classic signs and symptoms of serotonin syndrome. Then, review the patient's medication list and the potential side effects or interactions of the antibiotics used to treat cellulitis. Identify the antibiotic that possesses MAOI activity, as this is the key to the drug interaction leading to serotonin syndrome.",
+    "zh": "这个问题考察对血清素综合征的理解、其临床表现及其常见病因，特别是涉及血清素能药物和具有MAOI活性的抗生素的药物相互作用。它要求临床医生确定最有可能开给蜂窝织炎的抗生素，该抗生素可能导致已经在服用SSRI的患者发生血清素综合征。\n\n要解决这个问题，首先要认识到血清素综合征的典型体征和症状。然后，回顾患者的用药清单以及用于治疗蜂窝织炎的抗生素的潜在副作用或相互作用。确定具有MAOI活性的抗生素，因为这是导致血清素综合征的药物相互作用的关键。"
+  },
+  "tags": "Serotonin syndrome; Autonomic instability; Altered mental status; Neuromuscular hyperactivity; MAOI activity; SSRI; Linezolid; Paroxetine; Drug interaction; Antibiotics; Cellulitis; Emergency medicine",
+  "category": "Pharma",
+  "question_id": "8327",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\8327",
+  "extracted_at": "2025-11-05T19:45:43.895919",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:48:00.767632",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

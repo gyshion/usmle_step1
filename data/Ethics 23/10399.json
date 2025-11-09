@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "An intern attends a local dinner party and recognizes a colleague who works at the same hospital in another department. During the course of the evening, she observes her colleague responding to a number of routine medical calls from the hospital and consuming several alcoholic drinks. Later that evening, the physician notices that her colleague is giving medication orders over the phone and appears grossly intoxicated with slurred speech. The physician confronts her colleague, asking him to transfer on-call responsibilities for the sake of patient care. He insists that he is fine, is not drunk, and that his duties end in 30 minutes anyway. Which of the following is the most appropriate course of action?",
+    "zh": "一位实习医生参加当地晚宴，认出一位在同一家医院其他部门工作的同事。在晚宴期间，她观察到她的同事接听了来自医院的几个例行医疗电话，并喝了几杯含酒精的饮料。当天晚些时候，这位医生注意到她的同事正在通过电话下达药物医嘱，并且表现出明显的醉酒状态，言语含糊不清。这位医生质问了她的同事，要求他为了患者的安危而转移值班责任。他坚称自己没事，没有喝醉，而且他的职责无论如何会在 30 分钟内结束。以下哪项是最合适的行动方案？"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate course of action?",
+    "zh": "以下哪项是最合适的行动方案？"
+  },
+  "options": {
+    "A": {
+      "en": "Contact the colleague's on-call supervisor to report the problem now",
+      "zh": "立即联系同事的值班主管报告问题"
+    },
+    "B": {
+      "en": "Do not intervene as the colleague has already been confronted and the shift ends soon",
+      "zh": "不要干预，因为已经与同事对质过，而且轮班很快结束"
+    },
+    "C": {
+      "en": "Do not intervene as there is no clear evidence of patient harm",
+      "zh": "不要干预，因为没有明确的患者受损证据"
+    },
+    "D": {
+      "en": "Do not intervene as this is the first instance of witnessing impaired behavior",
+      "zh": "不要干预，因为这是第一次目睹行为受损"
+    },
+    "E": {
+      "en": "Report the incident to the hospital's physician health program",
+      "zh": "向医院的医师健康计划报告此事件"
+    },
+    "F": {
+      "en": "Report the physician to the state medical board",
+      "zh": "向州医学委员会报告该医生"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Physicians are ethically and legally obligated to report impaired colleagues in a timely manner. This physician is in the uncomfortable position of knowing that a colleague is intoxicated while on duty. Although it is unclear whether this is a one-time occurrence or part of a pattern of more extensive impairment, the physician is obligated to intervene immediately because patient safety is at risk. The colleague's immediate supervisor should be informed so that the situation can be dealt with as quickly as possible.\n\nRisks of not intervening include harm to patients and failure to obtain necessary evaluation and treatment for the physician, which can negatively impact his health, career, and family. Most hospitals and state medical boards have regulations requiring physicians to report impaired colleagues. This can usually be done anonymously. In a non-emergency situation, a person should contact the designated hospital committee, commonly called a physician health program (Choice E). If this is not possible or such a body does not exist, then the state licensing board should be contacted (Choice F). It is the committee's or board's responsibility to systematically gather all the facts and arrange for a comprehensive assessment and intervention if necessary.\n\n(Choice B) The physician confronted the colleague with no response, and harm can still be done to a patient in 30 minutes. A claim of confronting a colleague is not a substitute for reporting the incident.\n\n(Choices C and D) Witnessing the physician's on-duty intoxicated behavior is sufficient reason to intervene as patient care may be in jeopardy. Whether there is direct evidence of harm or the physician has an established pattern of problem behavior is irrelevant.",
+    "zh": "医生在伦理上和法律上有义务及时报告行为受损的同事。这位医生处于尴尬的境地，她知道一位同事在值班时喝醉了。尽管尚不清楚这是否是单次发生事件或更广泛受损模式的一部分，但医生有义务立即干预，因为患者安全受到威胁。应该告知同事的直接主管，以便尽快处理这种情况。\n\n不干预的风险包括对患者的伤害以及未能为医生获得必要的评估和治疗，这可能会对其健康、职业和家庭产生负面影响。大多数医院和州医学委员会都有规定，要求医生报告行为受损的同事。这通常可以匿名进行。在非紧急情况下，应联系指定的医院委员会，通常称为医师健康计划（选项 E）。如果无法做到这一点或不存在此类机构，则应联系州执照委员会（选项 F）。委员会或委员会的责任是系统地收集所有事实，并在必要时安排全面评估和干预。\n\n（选项 B）医生质问了同事，但没有得到回应，并且在 30 分钟内仍然可能对患者造成伤害。声称与同事对质并不能替代报告该事件。\n\n（选项 C 和 D）目睹医生值班时的醉酒行为是干预的充分理由，因为患者护理可能面临危险。是否有直接的伤害证据或医生是否存在既定的问题行为模式是无关紧要的。"
+  },
+  "summary": {
+    "en": "This question tests the ethical and legal obligations of physicians to report impaired colleagues, emphasizing patient safety and the need for immediate intervention. The best course of action is to report the impaired colleague to their on-call supervisor to ensure immediate action and prevent potential harm to patients.",
+    "zh": "此问题考察了医生报告行为受损同事的伦理和法律义务，强调患者安全和立即干预的必要性。最佳行动方案是向值班主管报告受损的同事，以确保立即采取行动并防止对患者造成潜在伤害。"
+  },
+  "tags": "Medical ethics; Physician impairment; Patient safety; Professional responsibility; Legal obligations",
+  "category": "Ethics",
+  "question_id": "10399",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\10399",
+  "extracted_at": "2025-11-05T14:15:23.297069",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:45:30.369807",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

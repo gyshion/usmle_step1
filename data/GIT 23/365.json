@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 39-year-old man comes to the clinic with a month-long history of fever, fatigue, joint pain, and an urticarial skin rash. He did not seek attention immediately as he hoped his symptoms would resolve. The patient is generally improving but is still very easily fatigued. Past medical history is unremarkable and the patient takes no regular medications, although he has not seen a physician since early childhood. He is not married and has a history of multiple heterosexual partners. The patient recently stopped smoking, drinks alcohol socially and does not use illicit drugs. Physical examination is notable for a moderately enlarged and tender liver. No jaundice is seen. Laboratory studies show significant elevations in serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST).",
+    "zh": "一位39岁的男性来到诊所，主诉有长达一个月的发热、疲劳、关节痛和荨麻疹样皮疹。他没有立即就医，希望症状能自行缓解。患者总体有所改善，但仍然很容易疲劳。既往病史无特殊，患者未规律服药，但自童年早期以来未看过医生。他未婚，有多个异性伴侣的病史。患者最近戒烟，社交性饮酒，不使用违禁药物。体格检查显示中度肝脏肿大且压痛。未见黄疸。实验室研究显示血清丙氨酸转氨酶(ALT)和天门冬氨酸转氨酶(AST)显著升高。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis in this patient?",
+    "zh": "该患者最有可能的诊断是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Acute hepatitis B",
+      "zh": "急性乙型肝炎"
+    },
+    "B": {
+      "en": "Acute hepatitis C",
+      "zh": "急性丙型肝炎"
+    },
+    "C": {
+      "en": "Gilbert syndrome",
+      "zh": "吉尔伯特综合征"
+    },
+    "D": {
+      "en": "Hemochromatosis",
+      "zh": "血色病"
+    },
+    "E": {
+      "en": "Hepatic steatosis",
+      "zh": "肝脂肪变性"
+    },
+    "F": {
+      "en": "Wilson disease",
+      "zh": "威尔逊病"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has features of ACUTE HEPATITIS B (HBV), including systemic, skin, and joint symptoms; hepatomegaly; and elevated transaminase levels. Hepatitis B is a DNA virus with an incubation period of 30-180 days. Transmission can occur sexually, parenterally, or vertically. Onset is dominated by nonspecific symptoms, although patients may develop a SERUM SICKNESS-LIKE syndrome with joint pain, lymphadenopathy, and a pruritic urticarial vasculitis rash. Right upper quadrant pain can also be present.\n\nAcute HBV is characterized by significant elevations in aspartate aminotransferase and alanine aminotransferase, often >10 times the upper limit of normal. Most patients will have nonicteric hepatitis, but icteric hepatitis with jaundice and elevated bilirubin is also common. Impaired hepatic synthetic function, as indicated by a prolonged prothrombin time, confers a poor prognosis. The most important early marker of acute infection is HEPATITIS B SURFACE ANTIGEN (HBsAg), which may be detectable prior to symptoms or changes in transaminase levels. IgM anti-hepatitis B core (anti-HBc) may also be positive. HEPATITIS B e ANTIGEN (HBeAg) and HBV DNA counts correlate with infectivity.\n\n(Choice B) Acute hepatitis C is typically asymptomatic; dermatologic manifestations (eg, cryoglobulinemia) are seen in chronic infection. This patient is unlikely to have hepatitis C as he does not use intravenous drugs and sexual transmission is rare.\n\n(Choice C) Gilbert syndrome is a common disorder characterized by mild unconjugated hyperbilirubinemia. Patients are almost always asymptomatic.\n\n(Choice D) Hemochromatosis is due to abnormal iron absorption resulting in iron overload. Chronic manifestations include cirrhosis, hyperpigmentation, and diabetes mellitus (\"bronze diabetes\").\n\n(Choice E) Hepatic steatosis is characterized by excessive deposition of lipids in the liver and is usually caused by chronic alcohol abuse or obesity (and insulin resistance). Steatosis may lead to cirrhosis, but it does not cause acute symptoms.\n\n(Choice F) Wilson disease presents with acute or chronic hepatitis in patients age <30. Neurologic manifestations (eg, cognitive or motor deficits) are frequent. Kayser-Fleischer rings (green or golden corneal deposits) are a common incidental finding.",
+    "zh": "该患者具有急性乙型肝炎 (HBV) 的特征，包括全身症状、皮肤和关节症状；肝肿大；以及转氨酶水平升高。乙型肝炎是一种DNA病毒，潜伏期为30-180天。传播途径包括性传播、肠外传播或垂直传播。起病以非特异性症状为主，尽管患者可能会出现类似血清病样的综合征，伴有关节痛、淋巴结病和瘙痒性荨麻疹性血管炎皮疹。右上方疼痛也可能存在。\n\n急性HBV的特征是天门冬氨酸转氨酶和丙氨酸转氨酶显著升高，通常高于正常上限的10倍以上。大多数患者会发生无黄疸性肝炎，但黄疸性肝炎伴有黄疸和胆红素升高也很常见。肝脏合成功能受损，如凝血酶原时间延长所示，预后不良。急性感染最重要的早期标志物是乙型肝炎表面抗原 (HBsAg)，可在症状或转氨酶水平变化之前检测到。抗乙型肝炎核心抗体 IgM (抗HBc) 也可能呈阳性。乙型肝炎e抗原 (HBeAg) 和 HBV DNA 计数与传染性相关。\n\n(选项 B) 急性丙型肝炎通常无症状；慢性感染可见皮肤表现（例如，冷球蛋白血症）。该患者不太可能患有丙型肝炎，因为他没有使用静脉注射药物，而且性传播很少见。\n\n(选项 C) 吉尔伯特综合征是一种常见病症，其特征是轻度非结合性高胆红素血症。患者几乎总是无症状。\n\n(选项 D) 血色病是由于铁吸收异常导致铁过载。慢性表现包括肝硬化、色素沉着过度和糖尿病（“青铜病”）。\n\n(选项 E) 肝脂肪变性的特征是肝脏中脂质过度沉积，通常由慢性酒精滥用或肥胖（和胰岛素抵抗）引起。脂肪变性可能导致肝硬化，但不会引起急性症状。\n\n(选项 F) 威尔逊病在年龄<30岁的患者中表现为急慢性肝炎。神经系统表现（例如，认知或运动功能障碍）很常见。角膜Kayser-Fleischer环（绿色或金色的角膜沉积物）是一种常见的偶然发现。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of acute hepatitis B infection, including its clinical presentation, laboratory findings, and risk factors. It also requires differentiating acute hepatitis B from other liver diseases.\n\nTo solve this question, recognize the combination of systemic symptoms (fever, fatigue, joint pain, rash), hepatomegaly, and elevated liver enzymes as suggestive of acute hepatitis. Consider the patient's risk factors (multiple sexual partners) and the absence of other specific findings to narrow the diagnosis to acute hepatitis B.",
+    "zh": "此题考察了对急性乙型肝炎感染的了解，包括其临床表现、实验室检查结果和危险因素。同时还需要将急性乙型肝炎与其他肝脏疾病区分开来。\n\n要解决这个问题，需要认识到全身症状（发热、疲劳、关节痛、皮疹）、肝肿大和肝酶升高的组合提示急性肝炎。考虑患者的危险因素（多个性伴侣）以及缺乏其他特异性发现，将诊断范围缩小到急性乙型肝炎。"
+  },
+  "tags": "Acute hepatitis B; Hepatomegaly; Liver enzymes; Serum sickness; Hepatitis B surface antigen; Hepatitis B e antigen; Liver disease; Infectious disease",
+  "category": "GIT",
+  "question_id": "365",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\365",
+  "extracted_at": "2025-11-05T14:33:46.317345",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:56:44.382114",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

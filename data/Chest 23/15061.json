@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 46-year-old, previously healthy man develops sudden-onset, sharp, left-sided flank pain radiating to the groin. CT scan of the abdomen reveals a left ureteral calculus, which he passes spontaneously in the urine. Other, incidental findings include a left lower lobe lung nodule and foci of calcifications in the spleen. Chest imaging {{exhibit_1}} shows several small calcified nodules in both lungs and a calcified mediastinal lymph node. The patient has had no pulmonary symptoms and is a lifelong nonsmoker. He is a farmer who lives in Ohio and has not traveled recently. Physical examination reveals no abnormalities. Tuberculous skin test shows a <5 mm induration at 48 hours. Repeat chest imaging 3 months later reveals no changes.",
+    "zh": "一名46岁、先前健康的男性出现突发性、尖锐的左侧腰痛，并放射至腹股沟。腹部CT扫描显示左侧输尿管结石，该结石已自行经尿液排出。其他偶然发现包括左下肺叶结节和脾脏钙化灶。胸部影像学检查{{exhibit_1}}显示双肺内有数个小的钙化结节和钙化的纵隔淋巴结。患者无肺部症状，且终生不吸烟。他是一名居住在俄亥俄州的农民，近期未旅行。体格检查未发现异常。结核菌素皮肤试验显示48小时内硬结<5毫米。3个月后复查胸部影像学检查未见变化。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of the observed findings in this patient?",
+    "zh": "以下哪项最可能是该患者观察到的发现的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Fungal infection",
+      "zh": "真菌感染"
+    },
+    "B": {
+      "en": "Metastatic cancer",
+      "zh": "转移性癌症"
+    },
+    "C": {
+      "en": "Miliary tuberculosis",
+      "zh": "粟粒性结核"
+    },
+    "D": {
+      "en": "Parathyroid adenoma",
+      "zh": "甲状旁腺腺瘤"
+    },
+    "E": {
+      "en": "Silica exposure",
+      "zh": "接触二氧化硅"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has calcified lung, mediastinal, and splenic lesions that are stable over time and asymptomatic, raising suspicion for a contained granulomatous infection. The most likely cause is the dimorphic fungus *Histoplasma capsulatum*, which exists as a mold in the soil of the Ohio and Mississippi River Valleys (midwestern/central United States).\n\nThe pathogen is inhaled into the lungs, where it converts to yeast form and is phagocytosed by alveolar macrophages. Macrophages cannot initially eliminate the organism due to microbial virulence factors that prevent phagolysosome formation and acidification. Therefore, *H capsulatum* is able to replicate within the macrophage and spread through the draining lymphatic system and (often) into the reticuloendothelial system (eg, spleen, liver).\n\nAfter about 2 weeks, patients with intact immunity develop a cell-mediated immune response that contains the infection within granulomas. Over time, the granulomas fibrose and calcify and can be visualized on radiographic imaging at the initial sites of infection (eg, lungs, hilar and mediastinal lymph nodes, spleen). In healthy patients, most infections with *H capsulatum* are asymptomatic and are therefore often discovered incidentally during evaluation for an unrelated condition (eg, nephrolithiasis).\n\n(Choice B) Metastatic cancer often causes multiple lung lesions. However, these lesions generally enlarge in size over time and calcification is rare.\n\n(Choice C) Miliary tuberculosis is marked by multiple pulmonary lesions and clinical illness (eg, fever, night sweats); calcified lesions would be atypical. Although primary tuberculosis is often associated with a calcified lung and an ipsilateral hilar lymph node lesion (Ranke complex), tuberculosis is unlikely in this case given the patient's negative tuberculin skin test.\n\n(Choice D) Parathyroid adenoma is a benign tumor that does not spread to the lungs; it is often associated with hypercalcemia due to increased secretion of parathyroid hormone. Although metastatic calcification can be a rare manifestation of hyperparathyroidism (it is more common with end-stage renal disease), such patients would almost certainly have systemic signs of hypercalcemia (eg, weakness, fatigue, depressed mood).\n\n(Choice E) Silica inhalation can cause innumerable, small, rounded opacities in the upper lobes of the lungs that may fibrose over time. resulting in pulmonary disease. Silica exposure is primarily occupational (eg, miners, sandblasters).\n\nEducational objective:\n*Histoplasma capsulatum* replicates within macrophages and often spreads from the lungs through the pulmonary lymphatics to the reticuloendothelial system (eg, spleen, liver). Most healthy individuals quickly contain the infection within granulomas and do not become ill; a minority develop self-limited pneumonia. Over time, the granulomas at the initial sites of infection calcify and may be seen incidentally on radiographic imaging. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "该患者有钙化的肺、纵隔和脾脏病变，这些病变随时间推移保持稳定且无症状，提示存在局限性肉芽肿性感染。最可能的原因是二态真菌*荚膜组织胞浆菌*，它以霉菌形式存在于俄亥俄州和密西西比河流域（美国中西部/中部）的土壤中。\n\n病原体被吸入肺部，在那里转化为酵母形式，并被肺泡巨噬细胞吞噬。巨噬细胞最初无法消除该生物体，这归因于阻止吞噬溶酶体形成和酸化的微生物毒力因子。因此，*荚膜组织胞浆菌*能够在巨噬细胞内复制，并通过引流淋巴系统扩散，并（通常）进入网状内皮系统（如脾脏、肝脏）。\n\n大约2周后，免疫功能完整的患者会产生细胞介导的免疫反应，将感染控制在肉芽肿内。随着时间的推移，肉芽肿纤维化并钙化，并且可以在感染的初始部位（如肺、肺门和纵隔淋巴结、脾脏）的放射影像学检查中观察到。在健康患者中，大多数*荚膜组织胞浆菌*感染无症状，因此通常在评估不相关疾病（如肾结石病）时偶然发现。\n\n（选项B）转移性癌症通常会导致多个肺部病变。然而，这些病变通常会随着时间的推移而增大，并且钙化很少见。\n\n（选项C）粟粒性肺结核的特征是多发性肺部病变和临床疾病（如发烧、盗汗）；钙化病变是不典型的。尽管原发性结核病通常与钙化肺和同侧肺门淋巴结病变（Ranke复合体）相关，但鉴于患者的结核菌素皮肤试验呈阴性，在这种情况下结核病不太可能。\n\n（选项D）甲状旁腺腺瘤是一种良性肿瘤，不会扩散到肺部；它通常与高钙血症相关，这是由于甲状旁腺激素分泌增加所致。虽然转移性钙化可能是甲状旁腺功能亢进的一种罕见表现（在终末期肾病中更常见），但此类患者几乎肯定会表现出高钙血症的全身体征（如乏力、疲劳、情绪低落）。\n\n（选项E）吸入二氧化硅会导致肺上叶出现无数个小的圆形不透光灶，这些不透光灶可能会随着时间的推移而纤维化，从而导致肺部疾病。二氧化硅暴露主要与职业相关（例如，矿工、喷砂工人）。\n\n教育目标：\n*荚膜组织胞浆菌*在巨噬细胞内复制，并且通常从肺部通过肺淋巴系统扩散到网状内皮系统（例如，脾脏、肝脏）。大多数健康个体很快将感染控制在肉芽肿内，并且不会生病；少数人会发展为自限性肺炎。随着时间的推移，感染初始部位的肉芽肿会钙化，并且可能会在放射影像学检查中偶然看到。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the presentation, diagnosis, and etiology of histoplasmosis, a fungal infection endemic to the Ohio and Mississippi River Valleys. It requires recognizing the characteristic radiographic findings of calcified granulomas in the lungs, mediastinum, and spleen in an asymptomatic patient.\n\nTo solve this question, consider the patient's geographic location, lack of pulmonary symptoms, and stable calcified lesions. Rule out other causes of lung nodules such as malignancy, tuberculosis, and occupational exposures based on the clinical context and radiographic findings.",
+    "zh": "此题考察对组织胞浆菌病（一种俄亥俄州和密西西比河流域的真菌感染）的表现、诊断和病因学的了解。它需要识别无症状患者肺、纵隔和脾脏中钙化肉芽肿的特征性放射学发现。\n\n要解决此问题，请考虑患者的地理位置、缺乏肺部症状和稳定的钙化病变。根据临床背景和放射学发现，排除其他肺结节的原因，如恶性肿瘤、结核病和职业暴露。"
+  },
+  "tags": "Histoplasmosis; Fungal infection; Granuloma; Lung nodule; Calcification; Ohio River Valley; Infectious disease; Pulmonary medicine; Radiology",
+  "category": "Chest",
+  "question_id": "15061",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\15061",
+  "extracted_at": "2025-11-05T11:38:02.678049",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:34:58.106405",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

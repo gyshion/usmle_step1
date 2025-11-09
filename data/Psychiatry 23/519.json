@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 40-year-old woman is brought to the emergency department due to ataxia and tremor. The patient's symptoms started gradually 2 weeks ago and have worsened acutely over the past 2 days. She is having difficulty walking and almost fell while getting up from a chair. The patient's medical problems include bipolar disorder and recently diagnosed hypertension. Her medications include a stable dose of lithium for many years and a new blood pressure medication that was started several weeks ago. Vital signs are within normal limits. Neurologic examination reveals a resting tremor and difficulty with balance. Physical examination is otherwise normal.",
+    "zh": "一名40岁女性因共济失调和震颤被送往急诊科。患者的症状始于2周前，并于过去2天内急剧恶化。她行走困难，并且在从椅子上站起来时几乎摔倒。患者的病史包括双相情感障碍和近期诊断的高血压。她的药物包括多年来稳定的锂盐剂量和几周前开始使用的新降压药。生命体征在正常范围内。神经系统检查显示静止性震颤和平衡困难。体格检查无其他异常。"
+  },
+  "question": {
+    "en": "A drug interaction involving which of the following medications is most likely causing this patient's condition?",
+    "zh": "涉及以下哪种药物的相互作用最有可能导致患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Amiloride",
+      "zh": "阿米洛利"
+    },
+    "B": {
+      "en": "Clonidine",
+      "zh": "可乐定"
+    },
+    "C": {
+      "en": "Hydralazine",
+      "zh": "肼苯哒嗪"
+    },
+    "D": {
+      "en": "Hydrochlorothiazide",
+      "zh": "氢氯噻嗪"
+    },
+    "E": {
+      "en": "Metoprolol",
+      "zh": "美托洛尔"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The patient presents with new-onset ataxia and tremor, which are concerning neurologic symptoms. She has a history of bipolar disorder treated with lithium for many years and recently diagnosed hypertension, for which a new blood pressure medication was started. The combination of lithium use and a new medication, along with the development of neurologic symptoms, strongly suggests lithium toxicity. Lithium has a narrow therapeutic index, and its serum levels can be increased by several factors, including certain medications that affect renal function or sodium balance. Thiazide diuretics, such as hydrochlorothiazide, are known to increase lithium levels. They limit sodium reabsorption in the distal tubule, leading to mild volume depletion and potential hyponatremia. This, in turn, stimulates proximal tubular sodium/lithium reabsorption, increasing the reabsorption of lithium and leading to toxicity. The patient's chronic lithium toxicity is presenting with gradual onset of neurologic symptoms, including worsening ataxia and tremor, which is consistent with the clinical features described. \n\n(Choice A) Amiloride is a potassium-sparing diuretic that works primarily on the distal tubule and collecting duct by inhibiting sodium reabsorption. Potassium-sparing diuretics often decrease serum lithium levels, making it less likely to cause toxicity in this scenario. \n\n(Choices B, C, and E) Clonidine, hydralazine, and metoprolol are antihypertensive medications that do not typically alter renal ion exchange or cause volume depletion in a way that would significantly increase lithium levels and lead to toxicity. Therefore, they are less likely to be the cause of the patient's symptoms compared to a thiazide diuretic.\n\nEducational objective: Chronic lithium toxicity (eg, confusion, ataxia, neuromuscular excitability) can be precipitated by volume depletion and drug interactions with thiazide diuretics, ACE inhibitors, and nonsteroidal anti-inflammatory drugs.",
+    "zh": "患者出现新发共济失调和震颤，这些是令人担忧的神经系统症状。她有双相情感障碍病史，多年来一直用锂盐治疗，最近诊断为高血压，为此开始了一种新的降压药。锂盐的使用和新药的联合使用，以及神经系统症状的出现，强烈提示锂中毒。锂的治疗指数很窄，其血清水平会因多种因素而升高，包括某些影响肾功能或钠平衡的药物。已知噻嗪类利尿剂，如氢氯噻嗪，会增加锂水平。它们限制了远端肾小管的钠重吸收，导致轻度容量不足和潜在的低钠血症。反过来，这会刺激近端肾小管的钠/锂重吸收，增加锂的重吸收并导致毒性。患者的慢性锂中毒表现为神经系统症状的逐渐出现，包括共济失调和震颤的恶化，这与所描述的临床特征一致。\n\n（选项A）阿米洛利是一种保钾利尿剂，主要通过抑制钠重吸收而作用于远端肾小管和集合管。保钾利尿剂通常会降低血清锂水平，因此在这种情况下不太可能引起毒性。\n\n（选项B、C和E）可乐定、肼苯哒嗪和美托洛尔是降压药，它们通常不会改变肾离子交换或导致容量不足，从而显着增加锂水平并导致毒性。因此，与噻嗪类利尿剂相比，它们不太可能是患者症状的原因。\n\n教育目标：慢性锂中毒（例如，意识模糊、共济失调、神经肌肉兴奋性）可由容量不足和与噻嗪类利尿剂、ACE抑制剂和非甾体抗炎药的药物相互作用引发。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of lithium toxicity, specifically the drug interactions that can precipitate it. It requires knowledge of how different classes of antihypertensive medications can affect lithium pharmacokinetics, particularly renal excretion and sodium balance.\n\nTo solve this question, one must identify the patient's risk factors for lithium toxicity, including long-term lithium use and the initiation of a new medication. Then, consider the mechanisms by which common antihypertensive drugs can interact with lithium, focusing on those that impair renal clearance or alter sodium reabsorption, leading to increased serum lithium levels.",
+    "zh": "这个问题考察了对锂中毒的理解，特别是可能导致锂中毒的药物相互作用。它要求了解不同类型的降压药如何影响锂的药代动力学，特别是肾脏排泄和钠平衡。\n\n要解决这个问题，必须确定患者发生锂中毒的危险因素，包括长期使用锂盐和开始使用新药。然后，考虑常见的降压药与锂相互作用的机制，重点关注那些损害肾脏清除或改变钠重吸收的药物，从而导致血清锂水平升高。"
+  },
+  "tags": "Lithium toxicity; Drug interactions; Ataxia; Tremor; Hypertension; Bipolar disorder; Thiazide diuretics; Renal function; Neurology; Pharmacology",
+  "category": "Psychiatry",
+  "question_id": "519",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\519",
+  "extracted_at": "2025-11-05T19:51:06.878990",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:55:46.661373",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

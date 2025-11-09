@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old man comes to the office due to watery diarrhea. He has also been having episodes of dyspnea and wheezing. His wife has noticed that he sometimes becomes very flushed and red. The patient has no abdominal pain, vomiting, cough, or fever. He has a history of hypertension and takes amlodipine. He does not use tobacco, alcohol, or illicit drugs. His blood pressure is 140/70 mm Hg and pulse is 82/min. Cardiopulmonary examination is unremarkable. The abdomen is soft and nontender. Chest x-ray is normal, and the abdominal CT scan reveals mass lesions in the right liver lobe and ileum. Surgery is scheduled to resect the tumors.",
+    "zh": "一名62岁男性因水样腹泻前来就诊。他同时还出现过呼吸困难和喘息发作。他的妻子注意到他有时会变得面色潮红。患者无腹痛、呕吐、咳嗽或发热。他有高血压病史，并服用氨氯地平。他不吸烟、不饮酒，也不吸食违禁药物。他的血压为140/70 mmHg，脉搏为82次/分。心肺检查无异常。腹部柔软且无压痛。胸部X线检查正常，腹部CT扫描显示右肝叶和回肠内有肿块病变。已安排手术切除肿瘤。"
+  },
+  "question": {
+    "en": "Which of the following medications can be used to relieve this patient's symptoms prior to surgery?",
+    "zh": "以下哪种药物可用于缓解该患者术前的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Cabergoline",
+      "zh": "卡麦角林"
+    },
+    "B": {
+      "en": "Leuprolide",
+      "zh": "亮丙瑞林"
+    },
+    "C": {
+      "en": "Octreotide",
+      "zh": "奥曲肽"
+    },
+    "D": {
+      "en": "Phenoxybenzamine",
+      "zh": "苯氧苯胺"
+    },
+    "E": {
+      "en": "Rituximab",
+      "zh": "利妥昔单抗"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The combination of wheezing, diarrhea, and facial flushing in association with an ileal tumor with hepatic metastasis is suggestive of CARCINOID SYNDROME. Carcinoid tumors (most common ileal tumors) secrete a number of biologically active substances including serotonin and can cause symptoms when they metastasize. Common manifestations of carcinoid syndrome include flushing, asthma-like symptoms (wheezing, dyspnea), diarrhea, and syncope (due to low blood pressure). Long-standing carcinoid syndrome can cause right-sided valvular heart disease.\n\nThe most definitive treatment for carcinoid syndrome is surgical excision. Medical therapy with octreotide can be used to control symptoms. Octreotide is a synthetic analog of somatostatin with a longer half-life. It acts on somatostatin receptors and inhibits secretion of many hormones and hormone-like substances. Octreotide is also used to inhibit secretory diarrhea in VIPomas (pancreatic endocrine tumors).\n\n(Choice A) Cabergoline is a dopamine agonist used in growth hormone-secreting pituitary tumors or prolactinoma.\n\n(Choice B) Leuprolide is a synthetic analog of gonadotropin-releasing hormone (GnRH). Continuous administration suppresses release of LH and FSH. Leuprolide is used in management of prostatic cancer, precocious puberty, and endometriosis.\n\n(Choice D) Phenoxybenzamine is an alpha blocker that is used in treatment of pheochromocytoma.\n\n(Choice E) Rituximab is a CD20 monoclonal antibody used to treat multiple myeloma, leukemia, and multiple autoimmune disorders.\n\nEducational objective:\nCarcinoid syndrome may accompany extraintestinal metastases of gastrointestinal carcinoid tumors. Octreotide is a synthetic somatostatin analog used to control the symptoms of carcinoid syndrome.",
+    "zh": "喘息、腹泻和面部潮红，并伴有回肠肿瘤伴肝转移，提示类癌综合征。类癌肿瘤（最常见的回肠肿瘤）分泌多种具有生物活性的物质，包括血清素，当它们发生转移时可引起症状。类癌综合征的常见表现包括潮红、哮喘样症状（喘息、呼吸困难）、腹泻和晕厥（由于低血压）。长期类癌综合征可引起右侧瓣膜性心脏病。\n\n类癌综合征最明确的治疗方法是手术切除。奥曲肽的药物治疗可用于控制症状。奥曲肽是生长抑素的合成类似物，半衰期更长。它作用于生长抑素受体，抑制多种激素和类激素物质的分泌。奥曲肽也用于抑制VIP瘤（胰腺内分泌肿瘤）的促分泌性腹泻。\n\n(选项A) 卡麦角林是一种多巴胺激动剂，用于治疗生长激素分泌性垂体瘤或泌乳素瘤。\n\n(选项B) 亮丙瑞林是促性腺激素释放激素(GnRH)的合成类似物。持续给药可抑制LH和FSH的释放。亮丙瑞林用于治疗前列腺癌、性早熟和子宫内膜异位症。\n\n(选项D) 苯氧苯胺是一种α受体阻滞剂，用于治疗嗜铬细胞瘤。\n\n(选项E) 利妥昔单抗是一种CD20单克隆抗体，用于治疗多发性骨髓瘤、白血病和多种自身免疫性疾病。\n\n教学目标：\n类癌综合征可能伴有胃肠道类癌肿瘤的肠外转移。奥曲肽是一种生长抑素类似物，用于控制类癌综合征的症状。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of carcinoid syndrome, its clinical presentation (flushing, diarrhea, wheezing), and the appropriate medical management with octreotide prior to surgical intervention. Carcinoid tumors secrete substances like serotonin, leading to the characteristic symptoms.\n\nTo solve this question, recognize the classic triad of carcinoid syndrome and recall that octreotide, a somatostatin analog, is used to control the symptoms by inhibiting hormone secretion from the tumor. Eliminate other options based on their unrelated mechanisms of action.",
+    "zh": "本题测试对类癌综合征的认识，包括其临床表现（潮红、腹泻、喘息）以及术前使用奥曲肽的适当治疗。类癌肿瘤分泌血清素等物质，导致特征性症状。\n\n要解决这个问题，需要识别类癌综合征的典型三联征，并记住奥曲肽（一种生长抑素类似物）用于通过抑制肿瘤的激素分泌来控制症状。根据其他选项与其无关的作用机制来排除。"
+  },
+  "tags": "Carcinoid syndrome; Octreotide; Flushing; Diarrhea; Wheezing; Ileal tumor; Hepatic metastasis; Somatostatin analog; Gastroenterology; Oncology",
+  "category": "GIT",
+  "question_id": "309",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\309",
+  "extracted_at": "2025-11-05T14:32:54.323334",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:56:00.977193",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

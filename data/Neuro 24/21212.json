@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A researcher is exploring various methods to decrease neuronal loss after ischemic injury. During an experiment, the researcher induces focal cerebral ischemia in rodents; after a short time, there is ATP depletion and subsequent ionic derangements in cells within the infarction core. Increased release and impaired clearance of extracellular neurotransmitters is also noted. One particular neurotransmitter leads to sustained calcium influx in exposed neurons, initiating a toxic cascade that will result in rapid cell death. Blockade of a receptor for which of the following neurotransmitters is most likely to decrease this type of neuronal injury?",
+    "zh": "一名研究人员正在探索各种减少缺血性损伤后神经元损失的方法。在一次实验中，研究人员对啮齿动物诱导了局灶性脑缺血；短时间后，梗死核心内的细胞出现ATP耗竭和随后的离子紊乱。还注意到细胞外神经递质释放增加和清除受损。一种特定的神经递质导致暴露的神经元持续钙内流，引发毒性级联反应，最终导致快速细胞死亡。阻断下列哪种神经递质的受体最有可能减少这种类型的神经元损伤？"
+  },
+  "question": {
+    "en": "Blockade of a receptor for which of the following neurotransmitters is most likely to decrease this type of neuronal injury?",
+    "zh": "阻断下列哪种神经递质的受体最有可能减少这种类型的神经元损伤？"
+  },
+  "options": {
+    "A": {
+      "en": "Dopamine",
+      "zh": "多巴胺"
+    },
+    "B": {
+      "en": "Glutamate",
+      "zh": "谷氨酸"
+    },
+    "C": {
+      "en": "Glycine",
+      "zh": "甘氨酸"
+    },
+    "D": {
+      "en": "Norepinephrine",
+      "zh": "去甲肾上腺素"
+    },
+    "E": {
+      "en": "Serotonin",
+      "zh": "血清素"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The correct answer is B. The question describes the process of excitotoxicity, which is a major contributor to neuronal death following ischemic injury. During focal cerebral ischemia, ATP depletion leads to impaired function of ion pumps, causing depolarization of neurons. This depolarization results in the release of excitatory neurotransmitters, primarily glutamate, into the extracellular space. Furthermore, impaired reuptake of glutamate by astrocytes exacerbates this buildup. Glutamate then binds to its receptors, particularly NMDA receptors, on postsynaptic neurons. Activation of NMDA receptors leads to a sustained influx of calcium ions into the neuron. This intracellular calcium overload triggers a cascade of events, including mitochondrial dysfunction, generation of reactive oxygen species, and activation of proteases, ultimately leading to neuronal death. Blockade of glutamate receptors, especially NMDA receptors, is a key strategy to mitigate this excitotoxic neuronal injury. The provided image {{exhibit_1}} illustrates the glutamate excitotoxicity cascade. \n\n(Choice A and D) Dopamine and norepinephrine are generally considered modulatory neurotransmitters. While they can influence neuronal activity, their primary role is not to mediate the rapid, massive calcium influx and excitotoxicity seen in ischemic injury. Their receptors are typically G-protein coupled and do not directly mediate large calcium fluxes in the same way as NMDA receptors. \n\n(Choice C) Glycine is an inhibitory neurotransmitter in the spinal cord and brainstem, and it acts as a co-agonist at NMDA receptors in the brain. However, its primary role is not the direct mediation of excitotoxicity in the context of focal cerebral ischemia. \n\n(Choice E) Serotonin is a monoamine neurotransmitter involved in mood, sleep, and appetite. While it has various receptor subtypes, the 5-HT3 receptor is a ligand-gated ion channel, but it primarily mediates sodium and potassium flux, not the massive calcium influx characteristic of excitotoxicity. Other serotonin receptors are G-protein coupled and do not directly cause excitotoxicity. \n\nKey clinical pearls: EXCITOTOXICITY is a major mechanism of neuronal death in ISCHEMIC STROKE and TRAUMATIC BRAIN INJURY. GLUTAMATE is the primary excitatory neurotransmitter involved. NMDA RECEPTOR ANTAGONISTS (e.g., memantine) are used in some neurodegenerative diseases.",
+    "zh": "正确的答案是B。 这个问题描述了兴奋性毒性过程，这是缺血性损伤后神经元死亡的主要原因。在局灶性脑缺血期间，ATP耗竭导致离子泵功能受损，从而导致神经元去极化。这种去极化导致兴奋性神经递质（主要是谷氨酸）释放到细胞外空间。此外，星形胶质细胞对谷氨酸的再摄取受损会加剧这种积累。然后，谷氨酸与突触后神经元上的受体结合，特别是NMDA受体。NMDA受体的激活会导致钙离子持续涌入神经元。这种细胞内钙超载会触发一系列事件，包括线粒体功能障碍、活性氧的产生和蛋白酶的激活，最终导致神经元死亡。阻断谷氨酸受体，特别是NMDA受体，是减轻这种兴奋性毒性神经元损伤的关键策略。提供的图片{{exhibit_1}}说明了谷氨酸兴奋性毒性级联反应。\n\n（选项 A 和 D）多巴胺和去甲肾上腺素通常被认为是调节性神经递质。虽然它们可以影响神经元的活动，但它们的主要作用不是介导缺血性损伤中出现的快速、大量的钙内流和兴奋性毒性。它们的受体通常是G蛋白偶联的，并且不像NMDA受体那样直接介导大量钙通量。\n\n（选项C）甘氨酸是脊髓和脑干中的一种抑制性神经递质，它充当大脑中NMDA受体的辅助激动剂。然而，在局灶性脑缺血的背景下，它的主要作用不是直接介导兴奋性毒性。\n\n（选项 E）血清素是一种单胺神经递质，参与情绪、睡眠和食欲。虽然它有多种受体亚型，但5-HT3受体是一种配体门控离子通道，但它主要介导钠和钾通量，而不是兴奋性毒性的大量钙内流。其他血清素受体是G蛋白偶联的，不会直接引起兴奋性毒性。\n\n关键临床要点：兴奋性毒性是缺血性卒中和创伤性脑损伤中神经元死亡的主要机制。谷氨酸是主要参与的兴奋性神经递质。NMDA受体拮抗剂（例如，美金刚）用于某些神经退行性疾病。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathophysiology of neuronal injury following cerebral ischemia, specifically focusing on the role of excitotoxicity mediated by neurotransmitters. It assesses the ability to identify the primary neurotransmitter responsible for this process and the mechanism by which it causes neuronal death.\n\nTo solve this question, one must recognize the description of excitotoxicity, characterized by ATP depletion, neurotransmitter release, calcium influx, and subsequent cell death. Identifying glutamate as the key excitatory neurotransmitter involved in this cascade and understanding the function of its receptors (particularly NMDA receptors) is crucial for selecting the correct answer.",
+    "zh": "这个问题测试对脑缺血后神经元损伤的病理生理学的理解，特别是侧重于神经递质介导的兴奋性毒性的作用。它评估识别导致此过程的主要神经递质以及其导致神经元死亡的机制的能力。\n\n要解决这个问题，必须认识到兴奋性毒性的描述，其特征是ATP耗竭、神经递质释放、钙内流和随后的细胞死亡。将谷氨酸确定为参与此级联反应的关键兴奋性神经递质，并理解其受体（特别是NMDA受体）的功能，对于选择正确的答案至关重要。"
+  },
+  "tags": "Excitotoxicity; Ischemic stroke; Glutamate; NMDA receptor; Neuronal injury; Neurotransmission; Calcium influx; Neurodegeneration",
+  "category": "Neuro",
+  "question_id": "21212",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\21212",
+  "extracted_at": "2025-11-05T19:39:25.744317",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:39:24.441960",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

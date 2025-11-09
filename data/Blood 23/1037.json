@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old man is evaluated for episodic anemia, jaundice, and dark urine. These episodes typically occur after the use of certain drugs or following infection. Additional history reveals that he has a brother who experiences similar episodes. Peripheral blood smear reveals red blood cells with the findings shown below {{exhibit_1}}.",
+    "zh": "一名24岁男性因阵发性贫血、黄疸和深色尿液就诊。这些发作通常发生在服用某些药物或感染后。补充病史显示，他的兄弟也有类似的经历。外周血涂片显示红细胞，其发现如下所示 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Deficiency of which of the following enzymes would most likely result in a condition similar to this patient's presentation?",
+    "zh": "下列哪种酶的缺乏最有可能导致与该患者表现相似的病症？"
+  },
+  "options": {
+    "A": {
+      "en": "Bisphosphoglycerate mutase",
+      "zh": "二磷酸甘油酸变位酶"
+    },
+    "B": {
+      "en": "Glutathione reductase",
+      "zh": "谷胱甘肽还原酶"
+    },
+    "C": {
+      "en": "Hexokinase",
+      "zh": "己糖激酶"
+    },
+    "D": {
+      "en": "Pyruvate kinase",
+      "zh": "丙酮酸激酶"
+    },
+    "E": {
+      "en": "Transketolase",
+      "zh": "转酮醇酶"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The patient likely has GLUCOSE-6-PHOSPHATE DEHYDROGENASE (G6PD) deficiency causing hemolytic anemia and jaundice in response to oxidant stressors (eg, sulfonamide & antimalarial drugs, infection). Heinz bodies (oxidized hemoglobin conglomerates) precipitate in red blood cells and are removed by splenic macrophages, leaving behind characteristic bite cells. \n\nG6PD is an enzyme of the pentose phosphate pathway. It generates the reducing agent NADPH, which is essential for detoxification of hydrogen peroxide produced by partial reduction of molecular oxygen in red blood cells. In the absence of NADPH, reduced glutathione (the molecule required for reduction of hydrogen peroxide to water) remains in an oxidized state, and red blood cells become susceptible to oxidative damage.\n\nGlutathione reductase catalyzes the reduction of oxidized glutathione. Its absence leads to an inability to use NADPH to reduce glutathione, resulting in a clinical scenario similar to G6PD deficiency {{exhibit_2}}.\n\n(Choice A) Bisphosphoglycerate mutase is an enzyme unique to red blood cells and placental cells. It catalyzes the production of 2,3-bisphosphoglycerate, a molecule that binds to hemoglobin and increases offloading of oxygen in the tissues.\n\n(Choices C and D) Deficiency of the glycolytic enzymes hexokinase and pyruvate kinase leads to hemolytic anemia due to lack of ATP generation. However, these conditions would not present with bite cells and the hemolysis is not associated with exposure to oxidant stressors.\n\n(Choice E) Transketolase, along with transaldolase, catalyzes the nonoxidative reactions of the pentose phosphate pathway, producing the ribose sugar necessary for nucleotide synthesis. The reducing equivalent NADPH is not generated in this portion of the pathway.\n\nEducational objective:\nGlucose 6-phosphate dehydrogenase deficiency causes hemolytic anemia and jaundice secondary to increased oxidative stress due to the lack of NADPH. Glutathione reductase deficiency has a similar clinical consequence as its absence results in an inability to utilize NADPH to reduce glutathione.",
+    "zh": "该患者可能患有葡萄糖-6-磷酸脱氢酶 (G6PD) 缺乏症，导致溶血性贫血和黄疸，以应对氧化应激源（例如磺胺类和抗疟药、感染）。海因茨小体（氧化血红蛋白凝集物）在红细胞中沉淀，被脾巨噬细胞清除，留下特征性的咬咬细胞。\n\nG6PD 是戊糖磷酸途径中的一种酶。它产生还原剂 NADPH，这对于红细胞中部分还原分子氧产生的过氧化氢的解毒至关重要。在没有 NADPH 的情况下，还原型谷胱甘肽（将过氧化氢还原成水所需的分子）保持氧化状态，红细胞变得容易受到氧化损伤。\n\n谷胱甘肽还原酶催化氧化型谷胱甘肽的还原。它的缺乏导致无法使用 NADPH 还原谷胱甘肽，导致与 G6PD 缺乏症相似的临床情况 {{exhibit_2}}。\n\n（选项 A）二磷酸甘油酸变位酶是一种红细胞和胎盘细胞特有的酶。它催化 2,3-二磷酸甘油酸的产生，这是一种与血红蛋白结合并在组织中增加氧气释放的分子。\n\n（选项 C 和 D）糖酵解酶己糖激酶和丙酮酸激酶的缺乏导致溶血性贫血，这是由于缺乏 ATP 生成。然而，这些情况不会出现咬咬细胞，并且溶血与接触氧化应激源无关。\n\n（选项 E）转酮醇酶与转醛醇酶一起催化戊糖磷酸途径的非氧化反应，产生核苷酸合成所需的核糖糖。还原当量 NADPH 不是在该途径的这一部分生成的。\n\n教育目标：\n葡萄糖-6-磷酸脱氢酶缺乏症会导致溶血性贫血和黄疸，继发于缺乏 NADPH 导致的氧化应激增加。谷胱甘肽还原酶缺乏症具有类似的临床后果，因为它的缺乏导致无法利用 NADPH 还原谷胱甘肽。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of G6PD deficiency and the pentose phosphate pathway, specifically the role of NADPH and glutathione reductase in protecting red blood cells from oxidative damage. It also tests the ability to recognize the clinical presentation of G6PD deficiency, including episodic hemolytic anemia and jaundice triggered by oxidant stressors.\n\nTo solve this question, recognize the patient's symptoms and family history as suggestive of G6PD deficiency. Understand the role of glutathione reductase in the NADPH-dependent reduction of glutathione, which is crucial for protecting red blood cells from oxidative damage. Eliminate other options based on their different mechanisms of action and clinical presentations.",
+    "zh": "此问题测试对 G6PD 缺乏症和戊糖磷酸途径的了解，特别是 NADPH 和谷胱甘肽还原酶在保护红细胞免受氧化损伤中的作用。它还测试识别 G6PD 缺乏症的临床表现的能力，包括由氧化应激源触发的阵发性溶血性贫血和黄疸。\n\n要解决这个问题，请将患者的症状和家族史识别为提示 G6PD 缺乏症。了解谷胱甘肽还原酶在 NADPH 依赖性谷胱甘肽还原中的作用，这对于保护红细胞免受氧化损伤至关重要。根据其他选项的不同作用机制和临床表现排除其他选项。"
+  },
+  "tags": "G6PD deficiency; Hemolytic anemia; Jaundice; Oxidative stress; NADPH; Glutathione reductase; Pentose phosphate pathway; Bite cells; Hematology; Enzyme deficiency",
+  "category": "Blood",
+  "question_id": "1037",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1037",
+  "extracted_at": "2025-11-05T11:17:59.853700",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:25:05.936555",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

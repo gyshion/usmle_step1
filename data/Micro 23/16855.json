@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 13-year-old boy is brought to the clinic by his parents due to a change in behavior. His special education teacher reported that for the last several weeks he has frequently taken off his shoes to scratch his feet during class. The patient has a history of learning disability but is otherwise healthy. Examination shows erythema and excoriations between the toes of both feet. Microscopy of skin scrapings from the rash is shown in the exhibit {{exhibit_1}}.",
+    "zh": "一位13岁男孩因行为改变由父母带到诊所就诊。他的特殊教育老师报告说，在过去的几周里，他在课堂上经常脱掉鞋子抓挠脚。患者有学习障碍病史，但其他方面健康。检查显示双脚脚趾间有红斑和抓痕。皮疹的皮肤刮片显微镜检查见展品 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following antimicrobial drugs is likely to be the most effective against the pathogen causing this patient's condition?",
+    "zh": "以下哪种抗菌药物可能对导致该患者病情的病原体最有效？"
+  },
+  "options": {
+    "A": {
+      "en": "Albendazole",
+      "zh": "阿苯达唑"
+    },
+    "B": {
+      "en": "Clotrimazole",
+      "zh": "克霉唑"
+    },
+    "C": {
+      "en": "Mupirocin",
+      "zh": "莫匹罗星"
+    },
+    "D": {
+      "en": "Nystatin",
+      "zh": "制霉菌素"
+    },
+    "E": {
+      "en": "Permethrin",
+      "zh": "苄氯菊酯"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has a pruritic, erythematous rash affecting the feet. Microscopy of skin scrapings shows branching hyphae, confirming the diagnosis of tinea pedis (athlete's foot). Tinea pedis is a superficial infection of the epidermis caused by dermatophytes, especially Trichophyton rubrum and similar species. The organisms are widespread and are often acquired following exposure to public places while barefoot (eg, athletic facilities, swimming pools). They can also spread from other areas (eg, groin [tinea cruris], body [tinea corporis]) on the same patient via autoinoculation.\n\nTinea pedis most commonly occurs between the toes (interdigital pattern) but in chronic cases can cause a hyperkeratotic rash extending up the sides of the feet (moccasin pattern). Tinea pedis is treated with a variety of topical antifungals, including azoles (eg, miconazole, clotrimazole), allylamines (eg, terbinafine), and tolnaftate. However, nystatin (primarily used for Candida infections) is not effective against dermatophytes (Choice D).\n\n(Choice A) Albendazole is an antihelminthic agent used to treat cutaneous larva migrans, which presents with pruritic, red/brown serpiginous tracks in the skin. The feet are typically the initial location of infection, but symptoms would not be confined to the interdigital skin.\n\n(Choice C) Topical mupirocin is used to treat impetigo, which presents with well-defined erythematous, erosive lesions with yellow crust.\n\n(Choice E) Permethrin is used for scabies, which can affect the interdigital skin but presents with small papules, pustules, and burrows. Microscopy of skin scrapings shows mites or ova and fecal matter.\n\nEducational objective:\nTinea pedis is a superficial infection of the epidermis caused by dermatophytes (eg, Trichophyton rubrum). It most often presents as a pruritic, erythematous rash between the toes that frequently extends along the sole. Microscopy of skin scrapings shows branching hyphae. Treatment options include a variety of topical antifungals (eg, clotrimazole), but not nystatin.\n\n{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "该患者有影响足部的瘙痒性红斑皮疹。皮肤刮片的显微镜检查显示分支菌丝，证实了足癣的诊断。足癣是由皮肤癣菌引起的表皮浅表感染，尤其是红色毛癣菌和类似物种。这些生物体广泛存在，通常是在赤脚暴露于公共场所后获得（例如，体育设施、游泳池）。它们也可以通过自身接种从同一患者的其他部位（例如，腹股沟 [股癣]、身体 [体癣]）传播。\n\n足癣最常发生在脚趾之间（趾间型），但在慢性病例中，可导致角化过度皮疹，延伸到脚的两侧（莫卡辛型）。足癣的治疗方法是多种局部抗真菌药物，包括唑类（例如，咪康唑、克霉唑）、烯丙胺（例如，特比萘芬）和萘替芬。然而，制霉菌素（主要用于念珠菌感染）对皮肤癣菌无效（选项 D）。\n\n（选项 A）阿苯达唑是一种驱虫剂，用于治疗皮肤幼虫移行症，其表现为皮肤瘙痒、红色/棕色蛇形条纹。足部通常是感染的初始位置，但症状不会局限于趾间皮肤。\n\n（选项 C）局部莫匹罗星用于治疗脓疱病，其表现为边界清晰的红斑性侵蚀性病变，并伴有黄色痂皮。\n\n（选项 E）苄氯菊酯用于治疗疥疮，疥疮可影响趾间皮肤，但表现为小丘疹、脓疱和隧道。皮肤刮片的显微镜检查显示螨虫或卵和粪便物质。\n\n教育目标：\n足癣是由皮肤癣菌（例如，红色毛癣菌）引起的表皮浅表感染。它最常表现为脚趾间的瘙痒性红斑皮疹，经常沿足底延伸。皮肤刮片的显微镜检查显示分支菌丝。治疗方案包括多种局部抗真菌药（例如，克霉唑），但不包括制霉菌素。\n\n{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of tinea pedis (athlete's foot), its clinical presentation, diagnostic findings (branching hyphae on microscopy), and appropriate treatment options (topical antifungals like clotrimazole).\n\nTo solve this question, recognize the interdigital erythema and excoriations, consider the patient's behavior (scratching feet), and identify the branching hyphae on microscopy as indicative of a dermatophyte infection. Then, select the antifungal medication effective against dermatophytes.",
+    "zh": "此题考察了足癣的知识（运动员的脚），其临床表现、诊断结果（显微镜下的分支菌丝）和适当的治疗方案（如克霉唑等局部抗真菌药）。\n\n要解决这个问题，需要识别趾间红斑和抓痕，考虑患者的行为（抓挠脚），并确定显微镜下的分支菌丝表明皮肤癣菌感染。然后，选择对皮肤癣菌有效的抗真菌药物。"
+  },
+  "tags": "Tinea pedis; Dermatophytes; Fungal infection; Clotrimazole; Antifungal; Skin infection; Microscopy; Trichophyton rubrum; Dermatology; Infectious disease",
+  "category": "Micro",
+  "question_id": "16855",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\16855",
+  "extracted_at": "2025-11-05T15:01:59.554137",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:10:17.842691",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

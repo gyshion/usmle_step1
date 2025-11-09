@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 67-year-old man comes to the office due to increased fatigue and weight gain over the past 6 months. He has hypertension controlled with a calcium channel blocker. Two years ago, the patient's physical examination was unremarkable, and his blood tests, including a lipid panel, were normal. Blood pressure is 135/98 mm Hg, and pulse is 62/min. BMI is 28 kg/m². On physical examination, the thyroid appears to be mildly enlarged and is irregular and firm in consistency. Laboratory studies reveal elevated TSH, low free thyroxine (T4), high total and LDL cholesterol, and mildly elevated triglyceride levels. {{exhibit_1}}",
+    "zh": "一名67岁男性因过去6个月疲劳感增加和体重增加就诊。他患有高血压，通过钙通道阻滞剂控制。两年前，患者的体格检查无特殊，血检，包括血脂全套检查，均正常。血压135/98 mmHg，脉搏62次/分钟。BMI为28 kg/m²。体格检查显示甲状腺轻度增大，质地不规则且坚硬。实验室检查显示TSH升高，游离甲状腺素（T4）降低，总胆固醇和LDL胆固醇升高，甘油三酯水平轻度升高。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying mechanism for the elevated cholesterol in this patient?",
+    "zh": "该患者胆固醇升高的最可能潜在机制是以下哪项？"
+  },
+  "options": {
+    "A": {
+      "en": "Activation of transcription factor peroxisome proliferator–activated receptor alpha",
+      "zh": "转录因子过氧化物酶体增殖物激活受体α的激活"
+    },
+    "B": {
+      "en": "Decreased LDL receptor gene expression",
+      "zh": "LDL受体基因表达降低"
+    },
+    "C": {
+      "en": "Increased lipoprotein lipase gene expression",
+      "zh": "脂蛋白脂肪酶基因表达增加"
+    },
+    "D": {
+      "en": "Induction of HMG-CoA reductase",
+      "zh": "HMG-CoA还原酶的诱导"
+    },
+    "E": {
+      "en": "Upregulation of LDL receptor degradation",
+      "zh": "LDL受体降解的上调"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has primary hypothyroidism presenting with fatigue, weight gain, and goiter, along with elevated TSH and low free thyroxine (T4) levels. HYPOTHYROIDISM can cause a number of adverse effects on serum lipids, including elevating total cholesterol, LDL cholesterol, and triglyceride levels.\n\nHypothyroidism causes decreased LDL receptor expression, leading to decreased clearance of LDL with resultant increased blood LDL levels. Hypothyroidism may also decrease LDL receptor activity and biliary excretion of cholesterol. Hypertriglyceridemia can occur in hypothyroidism due to decreased expression of lipoprotein lipase (Choice C). Along with effects on blood pressure (eg, hypertension due to increased peripheral vascular resistance), the adverse effects of hypothyroidism on lipid levels can increase the risk of coronary atherosclerosis.\n\n(Choice A) Peroxisome proliferator–activated receptor alpha (PPAR-α) stimulates fatty-acid uptake and beta oxidation; increased PPAR-α expression would cause a reduction in triglyceride levels. Decreased PPAR-α activity leads to hypertriglyceridemia and lipid accumulation within the liver (fatty liver disease) but is not associated with hypothyroidism.\n\n(Choice D) Hypothyroidism is associated with decreased activity of HMG-CoA reductase and therefore decreased de novo synthesis of cholesterol; however, patients still develop hyperlipidemia due to reduced LDL clearance. Thyroid hormone (not hypothyroidism) induces expression of HMG-CoA reductase.\n\n(Choice E) Similar to decreased LDL receptor expression, increased LDL receptor degradation leads to elevated blood LDL levels. Proprotein convertase subtilisin/kexin type 9 (PCSK9) increases the degradation of hepatic LDL receptors; alirocumab, a monoclonal antibody against PCSK9, blocks this effect, leading to a reduction in LDL levels. However, hypothyroidism is not associated with increased LDL receptor degradation.",
+    "zh": "该患者患有原发性甲状腺功能减退症，表现为疲劳、体重增加和甲状腺肿，伴有TSH升高和游离甲状腺素（T4）水平降低。甲状腺功能减退症可对血脂产生多种不良影响，包括升高总胆固醇、LDL胆固醇和甘油三酯水平。\n\n甲状腺功能减退症导致LDL受体表达降低，导致LDL清除率降低，从而导致血LDL水平升高。甲状腺功能减退症还可能降低LDL受体活性和胆汁对胆固醇的排泄。甲状腺功能减退症可因脂蛋白脂肪酶（选择C）表达降低而发生高甘油三酯血症。除了对血压的影响（例如，由于外周血管阻力增加引起的高血压）外，甲状腺功能减退症对血脂水平的不良影响可增加冠状动脉粥样硬化的风险。\n\n（选项A）过氧化物酶体增殖物激活受体α（PPAR-α）刺激脂肪酸摄取和β氧化；PPAR-α表达增加会导致甘油三酯水平降低。PPAR-α活性降低会导致高甘油三酯血症和肝脏内脂质积聚（脂肪肝），但与甲状腺功能减退症无关。\n\n（选项D）甲状腺功能减退症与HMG-CoA还原酶活性降低相关，因此胆固醇从头合成减少；然而，由于LDL清除率降低，患者仍会发生高脂血症。甲状腺激素（而非甲状腺功能减退症）诱导HMG-CoA还原酶的表达。\n\n（选项E）与LDL受体表达降低类似，LDL受体降解增加导致血LDL水平升高。前蛋白转化酶枯草杆菌蛋白酶/kexin 9型（PCSK9）增加肝脏LDL受体的降解；阿利西珠单抗，一种针对PCSK9的单克隆抗体，可阻断这种作用，导致LDL水平降低。然而，甲状腺功能减退症与LDL受体降解增加无关。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the effects of hypothyroidism on lipid metabolism, specifically the mechanism by which hypothyroidism leads to elevated cholesterol levels. It requires understanding the role of LDL receptors in cholesterol clearance and how thyroid hormone influences their expression.\n\nTo solve this question, recognize the signs and symptoms of hypothyroidism in the patient vignette. Then, recall that hypothyroidism leads to decreased LDL receptor expression, resulting in reduced LDL clearance and elevated cholesterol levels. Eliminate options that are not associated with hypothyroidism or would have the opposite effect on cholesterol levels.",
+    "zh": "本题考察对甲状腺功能减退症对脂质代谢的影响的了解，特别是甲状腺功能减退症导致胆固醇升高的机制。这需要了解LDL受体在胆固醇清除中的作用以及甲状腺激素如何影响其表达。\n\n要解决这个问题，需要识别患者病例文本中甲状腺功能减退症的体征和症状。然后，回想起甲状腺功能减退症会导致LDL受体表达降低，导致LDL清除率降低和胆固醇水平升高。排除与甲状腺功能减退症无关或对胆固醇水平有相反影响的选项。"
+  },
+  "tags": "Hypothyroidism; Lipid metabolism; LDL cholesterol; LDL receptor; Thyroid hormone; Endocrinology; Hyperlipidemia",
+  "category": "Endo",
+  "question_id": "14988",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\14988",
+  "extracted_at": "2025-11-05T14:00:25.513658",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:37:38.868949",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

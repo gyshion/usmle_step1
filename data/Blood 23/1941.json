@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man with obesity comes to the office due to fatigue, daytime sleepiness, and occasional headaches. When asked to describe his sleeping habits, he reports that he sleeps in a separate room from his wife because she finds his snoring annoying. Blood pressure is 160/90 mm Hg and pulse is 80/min. The abdomen is soft and nontender. The liver span is 9 cm, and the spleen is not palpable. Laboratory results are as follows: \n\nHematocrit 58%\nWhite blood cells 9,000/mm³\nPlatelets 190,000/mm³\n\nThis patient with daytime sleepiness, recurrent headaches, and snoring most likely has obstructive sleep apnea {{exhibit_1}}. Excess tissue around the extrathoracic upper airways (eg, from obesity) can predispose to upper airway collapse during sleeping. As a result, patients with OSA may have up to 500 episodes of asphyxia per night.",
+    "zh": "一位34岁肥胖男性因疲劳、白天嗜睡和偶发性头痛来就诊。当被问及睡眠习惯时，他报告说他与妻子分房睡，因为她觉得他的鼾声很烦人。血压为160/90 mmHg，脉搏为80次/分钟。腹部柔软且无压痛。肝脏长度为9 cm，脾脏无法触及。实验室检查结果如下：\n\n血细胞比容58%\n白细胞9,000/mm³\n血小板190,000/mm³\n\n这位有白天嗜睡、反复头痛和打鼾的患者最有可能患有阻塞性睡眠呼吸暂停 {{exhibit_1}}。围绕胸外上呼吸道的组织过多（例如，由于肥胖）可导致睡眠期间上呼吸道塌陷。因此，OSA患者每晚可能有多达500次窒息发作。"
+  },
+  "question": {
+    "en": "Decreased arterial oxygen content, sensed by which of the following organs, is primarily responsible for this patient's elevated hematocrit?",
+    "zh": "以下哪个器官感知动脉血氧含量降低，并主要导致该患者的血细胞比容升高？"
+  },
+  "options": {
+    "A": {
+      "en": "Bone marrow",
+      "zh": "骨髓"
+    },
+    "B": {
+      "en": "Brain",
+      "zh": "脑"
+    },
+    "C": {
+      "en": "Liver",
+      "zh": "肝脏"
+    },
+    "D": {
+      "en": "Lungs",
+      "zh": "肺"
+    },
+    "E": {
+      "en": "Kidneys",
+      "zh": "肾脏"
+    },
+    "F": {
+      "en": "Spleen",
+      "zh": "脾脏"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "In adults, the main response to hypoxemia is coordinated by the kidneys {{exhibit_2}}. In the renal cortex, peritubular fibroblasts sense hypoxia using the transcription factor hypoxia-inducible factor 1-alpha (HIF-1α). When oxygen is readily available, HIF-1α is marked for proteasomal degradation. Under low oxygen conditions, intracellular levels of HIF-1α accumulate, substantially increasing erythropoietin (EPO) production.\n\nEPO is secreted into the bloodstream, acting on the bone marrow to accelerate erythrocyte precursor maturation {{exhibit_3}}. The rapid rise in the number of mature erythrocytes leads to secondary polycythemia (eg, elevated hematocrit). As a result, the oxygen-carrying capacity of blood rises, helping to compensate for chronic hypoxemia.\n\n(Choice A) The rapid rise in the number of mature erythrocytes leads to secondary polycythemia (eg, elevated hematocrit). As a result, the oxygen-carrying capacity of blood rises, helping to compensate for chronic hypoxemia.\n\n(Choice B) The brain does not regulate erythropoiesis in response to hypoxemia. Instead, severe cerebral hypoxia drives increased sympathetic tone, increasing respiration, cerebral perfusion pressure, and oxygen delivery.\n\n(Choice C) In response to hypoxemia, the liver helps supply iron (by suppressing hepcidin and upregulating transferrin) to support EPO-driven red blood cell production. However, iron mobilization alone is insufficient to increase erythropoiesis. For this reason, patients with severe chronic kidney disease (low EPO production), even when chronically hypoxemic, often have anemia and fail to develop secondary polycythemia.\n\n(Choice D) With OSA, the lungs do not receive adequate oxygen delivery due to recurrent upper airway collapse. In response to chronic alveolar hypoxemia, HIF-1α activation in the lungs contributes to sustained pulmonary vasoconstriction and pulmonary hypertension. However, the lungs do not participate in erythropoiesis.\n\n(Choice F) The spleen is the major site of erythrocyte destruction, not production. In states of chronic hypoxemia, severe anemia, or bone marrow dysfunction, tissues with resident hematopoietic stem cells (eg, spleen, liver) can respond by participating in erythropoiesis (ie, extramedullary hematopoiesis).\n\nEducational objective:\nThe kidneys respond to chronic hypoxemia (detected by the transcription factor hypoxia-inducible factor 1-alpha) by substantially increasing production of erythropoietin. This hormone circulates to the bone marrow, where it accelerates the maturation of erythrocyte precursors, resulting in an elevated hematocrit (secondary polycythemia) {{exhibit_4}}.",
+    "zh": "在成人中，对低氧血症的主要反应由肾脏 {{exhibit_2}} 协调。在肾皮质中，肾小管周围成纤维细胞使用转录因子缺氧诱导因子1-α (HIF-1α) 来感知缺氧。当氧气充足时，HIF-1α会被标记为蛋白酶体降解。在低氧条件下，细胞内HIF-1α水平积累，从而显著增加促红细胞生成素 (EPO) 的产生。\n\nEPO分泌到血流中，作用于骨髓以加速红细胞前体成熟 {{exhibit_3}}。成熟红细胞数量的快速增加导致继发性红细胞增多症（例如，血细胞比容升高）。因此，血液的载氧能力增加，有助于代偿慢性低氧血症。\n\n（选项A）成熟红细胞数量的快速增加导致继发性红细胞增多症（例如，血细胞比容升高）。因此，血液的载氧能力增加，有助于代偿慢性低氧血症。\n\n（选项B）大脑不会响应低氧血症调节红细胞生成。相反，严重脑缺氧会驱动交感神经张力增加，从而增加呼吸、脑灌注压和氧气输送。\n\n（选项C）响应低氧血症，肝脏通过抑制铁调素和上调转铁蛋白来帮助供应铁，以支持EPO驱动的红细胞生成。然而，仅靠铁动员不足以增加红细胞生成。因此，患有严重慢性肾脏疾病（EPO产生量低）的患者，即使长期处于低氧血症状态，通常也会出现贫血，并且无法发展为继发性红细胞增多症。\n\n（选项D）对于OSA，由于反复上呼吸道塌陷，肺部无法获得足够的氧气输送。为了应对慢性肺泡低氧血症，肺部HIF-1α的激活有助于持续的肺血管收缩和肺动脉高压。然而，肺部不参与红细胞生成。\n\n（选项F）脾脏是红细胞破坏的主要部位，而不是生成部位。在慢性低氧血症、严重贫血或骨髓功能障碍的情况下，具有驻留造血干细胞的组织（例如，脾脏、肝脏）可以通过参与红细胞生成（即髓外造血）来做出反应。\n\n教育目标：\n肾脏对慢性低氧血症（由转录因子缺氧诱导因子1-α检测）的反应是显著增加促红细胞生成素的产生。这种激素循环到骨髓，在那里它加速红细胞前体的成熟，导致血细胞比容升高（继发性红细胞增多症） {{exhibit_4}}。"
+  },
+  "summary": {
+    "en": "This question tests the physiological response to chronic hypoxemia, specifically the role of the kidneys in erythropoietin production and subsequent secondary polycythemia. It also requires knowledge of obstructive sleep apnea as a potential cause of chronic hypoxemia. \n\nThe key to solving this question is recognizing the link between chronic hypoxemia and erythropoietin production. Identify the organ primarily responsible for erythropoietin synthesis in response to low oxygen levels, which is the kidney.",
+    "zh": "本题考察对慢性低氧血症的生理反应，特别是肾脏在促红细胞生成素生成以及随后的继发性红细胞增多症中的作用。它还需要了解阻塞性睡眠呼吸暂停作为慢性低氧血症的潜在原因。\n\n解决此问题的关键是认识到慢性低氧血症与促红细胞生成素生成之间的联系。确定主要负责响应低氧水平的促红细胞生成素合成的器官，即肾脏。"
+  },
+  "tags": "Obstructive sleep apnea; Hypoxemia; Erythropoietin; Kidneys; Secondary polycythemia; Hematocrit; HIF-1alpha; Renal physiology; Pulmonary medicine; Internal medicine",
+  "category": "Blood",
+  "question_id": "1941",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1941",
+  "extracted_at": "2025-11-05T11:31:23.584514",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:30:38.066614",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

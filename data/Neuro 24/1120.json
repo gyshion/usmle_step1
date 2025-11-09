@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 4-month-old boy is being evaluated for a hereditary metabolic disorder after presenting with failure to thrive and developmental delay. He was born outside the United States and had several seizures during the neonatal period. Physical examination reveals an abnormal head shape with a large anterior fontanelle and widely splayed cranial sutures. Profound hypotonia and hepatomegaly are also noted. Biochemical studies show elevated levels of very long chain fatty acids (VLCFAs) and phytanic acid. Cultured skin fibroblasts show impaired ability to oxidize VLCFAs.",
+    "zh": "一名4个月大的男婴因生长发育迟滞和发育迟缓而接受遗传性代谢疾病的评估。他出生于美国境外，并在新生儿时期出现过几次癫痫发作。体格检查显示头型异常，前囟门大且颅缝广泛张开。还注意到重度肌张力减退和肝肿大。生化研究显示极长链脂肪酸 (VLCFAs) 和植烷酸水平升高。培养的皮肤成纤维细胞显示氧化 VLCFA 的能力受损。"
+  },
+  "question": {
+    "en": "This patient's condition is best explained by dysfunction of which of the following cellular structures?",
+    "zh": "该患者的病情最能用以下哪种细胞结构的[功能障碍]来解释？"
+  },
+  "options": {
+    "A": {
+      "en": "Golgi apparatus",
+      "zh": "高尔基体"
+    },
+    "B": {
+      "en": "Lysosomes",
+      "zh": "溶酶体"
+    },
+    "C": {
+      "en": "Mitochondria",
+      "zh": "线粒体"
+    },
+    "D": {
+      "en": "Peroxisomes",
+      "zh": "过氧化物酶体"
+    },
+    "E": {
+      "en": "Proteasomes",
+      "zh": "蛋白酶体"
+    },
+    "F": {
+      "en": "Rough endoplasmic reticulum",
+      "zh": "粗面内质网"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The correct answer is (D) Peroxisomes. The patient presents with clinical features (failure to thrive, developmental delay, seizures, abnormal facial features, hypotonia, hepatomegaly) and biochemical findings (elevated VLCFAs and phytanic acid) highly suggestive of a PEROXISOMAL DISORDER. Peroxisomes are cellular organelles responsible for the OXIDATION of very long chain fatty acids and branched-chain fatty acids, such as phytanic acid. In peroxisomal disorders, these fatty acids accumulate in tissues, leading to severe neurologic defects, liver dysfunction, and dysmorphic features. Zellweger syndrome, a severe peroxisomal biogenesis disorder, is a classic example that fits this presentation. \n\n(Choice A) The Golgi apparatus is primarily involved in protein modification, sorting, and transport. Dysfunction here would lead to issues with protein processing and secretion, not fatty acid oxidation.\n\n(Choice B) Lysosomes are responsible for the degradation of cellular debris and pathogens. Lysosomal storage disorders involve the accumulation of undigested substrates like glycosaminoglycans or sphingolipids, which is not consistent with the biochemical findings of elevated VLCFAs.\n\n(Choice C) Mitochondria are crucial for ATP production through the TCA cycle and electron transport chain, as well as beta-oxidation of medium and short-chain fatty acids. While mitochondria are involved in fatty acid metabolism, the specific accumulation of VERY LONG CHAIN fatty acids and phytanic acid points away from primary mitochondrial dysfunction and towards peroxisomal defects.\n\n(Choice E) Proteasomes are responsible for degrading unneeded or damaged proteins. Impaired proteasome function leads to protein aggregation and cellular dysfunction, but not directly to the accumulation of fatty acids.\n\n(Choice F) The rough endoplasmic reticulum is involved in the synthesis of secretory and membrane proteins. Its dysfunction would not explain the observed metabolic abnormalities in fatty acid oxidation.\n\nKey clinical pearls:\n- Elevated VLCFAs and phytanic acid are HALLMARKS of PEROXISOMAL DISORDERS.\n- Zellweger syndrome is a severe peroxisomal biogenesis disorder presenting in infancy with craniofacial abnormalities, hypotonia, hepatomegaly, and neurologic deficits.\n- X-linked adrenoleukodystrophy is another peroxisomal disorder affecting VLCFA metabolism, typically presenting later in childhood with neurologic deterioration and adrenal insufficiency.",
+    "zh": "正确答案是 (D) 过氧化物酶体。患者表现出临床特征（生长发育迟滞、发育迟缓、癫痫发作、面部特征异常、肌张力减退、肝肿大）和生化发现（VLCFAs 和植烷酸升高），高度提示过氧化物酶体疾病。过氧化物酶体是负责氧化极长链脂肪酸和支链脂肪酸（如植烷酸）的细胞器。在过氧化物酶体疾病中，这些脂肪酸会在组织中积累，导致严重的神经系统缺陷、肝功能障碍和畸形特征。 Zellweger 综合征是一种严重的过氧化物酶体生物发生障碍，是符合这种表现的典型例子。\n\n(选项 A) 高尔基体主要参与蛋白质的修饰、分选和转运。这里的功能障碍会导致蛋白质加工和分泌问题，而不是脂肪酸氧化。\n\n(选项 B) 溶酶体负责降解细胞碎片和病原体。溶酶体贮积病涉及未消化的底物（如糖胺聚糖或鞘脂）的积累，这与 VLCFAs 升高的生化发现不一致。\n\n(选项 C) 线粒体对于通过 TCA 循环和电子传递链产生 ATP 至关重要，也参与中链和短链脂肪酸的 β-氧化。虽然线粒体参与脂肪酸代谢，但极长链脂肪酸和植烷酸的特异性积累表明并非原发性线粒体功能障碍，而是过氧化物酶体缺陷。\n\n(选项 E) 蛋白酶体负责降解不需要的或受损的蛋白质。蛋白酶体功能受损会导致蛋白质聚集和细胞功能障碍，但不会直接导致脂肪酸的积累。\n\n(选项 F) 粗面内质网参与分泌蛋白和膜蛋白的合成。其功能障碍无法解释观察到的脂肪酸氧化代谢异常。\n\n关键临床要点：\n- VLCFAs 和植烷酸升高是过氧化物酶体疾病的标志。\n- Zellweger 综合征是一种严重的过氧化物酶体生物发生障碍，表现为婴儿期出现颅面畸形、肌张力减退、肝肿大和神经系统缺陷。\n- X-连锁肾上腺脑白质营养不良是另一种影响 VLCFA 代谢的过氧化物酶体疾病，通常在儿童晚期出现神经系统恶化和肾上腺皮质功能不全。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of inherited metabolic disorders and the specific functions of cellular organelles, particularly in the context of fatty acid metabolism. It requires correlating clinical presentation and biochemical findings with the underlying cellular defect.\n\nTo solve this question, one must identify the key biochemical abnormalities (elevated VLCFAs and phytanic acid) and link them to the primary site of their metabolism within the cell. Recognizing that peroxisomes are responsible for the oxidation of these specific types of fatty acids is crucial for arriving at the correct diagnosis.",
+    "zh": "这个问题考察了对遗传性代谢疾病和细胞器特定功能的理解，特别是在脂肪酸代谢的背景下。它需要将临床表现和生化发现与潜在的细胞缺陷相关联。\n\n要解决这个问题，必须确定关键的生化异常（VLCFAs 和植烷酸升高），并将它们与细胞内代谢的主要部位联系起来。认识到过氧化物酶体负责氧化这些特定类型的脂肪酸对于得出正确的诊断至关重要。"
+  },
+  "tags": "Peroxisomal disorders; Very long chain fatty acids; Phytanic acid; Zellweger syndrome; Metabolic disorders; Fatty acid oxidation; Cell biology; Organelles",
+  "category": "Neuro",
+  "question_id": "1120",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\1120",
+  "extracted_at": "2025-11-05T19:31:08.484709",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:30:47.139589",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

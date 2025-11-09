@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A medical research center is studying therapeutic options for the treatment of neuromuscular disorders. During experimentation, scientists develop a new drug that seems to have partial agonist/antagonist activity against receptor X. When the experimental drug is applied to cells expressing receptor X, there is an immediate change in transmembrane calcium, sodium, and potassium flow secondary to the opening of the receptor channel.",
+    "zh": "一家医学研究中心正在研究治疗神经肌肉疾病的治疗方案。在实验过程中，科学家们研发了一种新药，该药似乎对受体X具有部分激动剂/拮抗剂活性。当将实验药物应用于表达受体X的细胞时，由于受体通道的开放，跨膜钙、钠和钾的流动会立即发生变化。"
+  },
+  "question": {
+    "en": "Receptor X is most likely which type of receptor?",
+    "zh": "受体X最有可能属于哪种类型的受体？"
+  },
+  "options": {
+    "A": {
+      "en": "α1 adrenoreceptor",
+      "zh": "α1 肾上腺素受体"
+    },
+    "B": {
+      "en": "β1 adrenoreceptor",
+      "zh": "β1 肾上腺素受体"
+    },
+    "C": {
+      "en": "β2 adrenoreceptor",
+      "zh": "β2 肾上腺素受体"
+    },
+    "D": {
+      "en": "Muscarinic cholinergic receptor",
+      "zh": "毒蕈碱型胆碱受体"
+    },
+    "E": {
+      "en": "Nicotinic cholinergic receptor",
+      "zh": "烟碱型胆碱受体"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Cell membrane receptors can be divided into two broad categories: ionotropic receptors (ion channels that open directly upon ligand binding) and metabotropic receptors (these receptors utilize second messengers to indirectly influence their corresponding ion channels). Nicotinic cholinergic receptors of the neuromuscular junction are an example of a ligand-gated ion channel receptor (ionotropic receptor). As an action potential progresses to the presynaptic terminal, voltage-gated calcium channels open and allow entry of calcium into the nerve cytoplasm. This triggers the fusion of storage vesicles with the membrane, allowing a release of acetylcholine (ACh). This ACh diffuses across the synaptic cleft and ultimately interacts with nicotinic cholinergic receptors present on the motor end-plate. These receptors are ion channels that are comprised of five subunits with two ACh binding sites. If, and only if, both binding sites are filled, the ion channel will open. There is subsequent sodium and calcium influx and potassium outflux that results in the generation of an end-plate potential.\n\nNicotinic cholinergic receptors are also found in the CNS and on postganglionic neurons of autonomic ganglia. The description in the question stem most likely represents a nicotinic cholinergic receptor given the IMMEDIATE flux of sodium, calcium, and potassium demonstrated by the scientists.\n\n(Choice A) Binding of epinephrine to α1 adrenoreceptors results in the activation of the inositol triphosphate (IP3) pathway. This pathway results in increased intracellular calcium via release of Ca2+ from storage organelles.\n\n(Choices B & C) β1 and β2 adrenoreceptors are associated with the cAMP signal transduction pathway. Stimulation of these receptors causes protein kinase A activation.\n\n(Choice D) M1 and M3 muscarinic receptors utilize the inositol triphosphate pathway to increase intracellular calcium concentration and activate protein kinase C. M2 muscarinic receptors act via the cAMP second messenger system, and when activated decrease intracellular cAMP concentrations.\n\nEducational objective:\nThe autonomic nervous system utilizes three types of signal pathways: cAMP, IP3, and ion channels. Nicotinic receptors are ligand-gated ion channels that open after binding acetylcholine. This results in an immediate influx of Na+ and Ca2+ into the cell and an outflux of K+ from the cell.",
+    "zh": "细胞膜受体可分为两大类：离子型受体（配体结合后直接开放的离子通道）和代谢型受体（这些受体利用第二信使间接影响其相应的离子通道）。神经肌肉接头的烟碱型胆碱受体是配体门控离子通道受体（离子型受体）的一个例子。当动作电位进展到突触前末端时，电压门控钙离子通道开放，允许钙进入神经细胞质。这会触发储存囊泡与膜的融合，从而释放乙酰胆碱（ACh）。这种乙酰胆碱扩散穿过突触间隙，最终与存在于运动终板上的烟碱型胆碱受体相互作用。这些受体是离子通道，由五个亚基组成，具有两个乙酰胆碱结合位点。如果且仅当两个结合位点都被填满时，离子通道才会开放。随后的钠和钙内流以及钾外流会导致终板电位的产生。\n\n烟碱型胆碱受体也存在于中枢神经系统和自主神经节的节后神经元上。鉴于科学家们所展示的钠、钙和钾的立即通量，问题干中的描述最有可能代表烟碱型胆碱受体。\n\n(选项A) 肾上腺素与α1肾上腺素受体的结合会导致肌醇三磷酸（IP3）通路的激活。该通路通过从储存细胞器中释放Ca2+导致细胞内钙的增加。\n\n(选项B和C) β1和β2肾上腺素受体与cAMP信号转导通路相关。刺激这些受体会导致蛋白激酶A的激活。\n\n(选项D) M1和M3毒蕈碱受体利用肌醇三磷酸通路来增加细胞内钙离子浓度并激活蛋白激酶C。M2毒蕈碱受体通过cAMP第二信使系统发挥作用，并在激活时降低细胞内cAMP浓度。\n\n教育目标：\n自主神经系统利用三种类型的信号通路：cAMP、IP3和离子通道。烟碱型受体是配体门控离子通道，在结合乙酰胆碱后开放。这会导致Na+和Ca2+立即流入细胞，K+流出细胞。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of receptor types and their mechanisms of action, specifically focusing on ionotropic receptors like nicotinic cholinergic receptors and their role in ion flux. It also tests understanding of metabotropic receptors and their associated signaling pathways.\n\nTo solve this question, identify the key information about the receptor's function (immediate change in ion flow) and match it to the receptor type that directly controls ion channels. Eliminate options based on their known association with second messenger systems rather than direct ion channel gating.",
+    "zh": "这个问题测试了对受体类型及其作用机制的了解，特别是侧重于离子型受体，如烟碱型胆碱受体及其在离子通量中的作用。它还测试了对代谢型受体及其相关信号通路的理解。\n\n要解决这个问题，请确定有关受体功能（离子流的即时变化）的关键信息，并将其与直接控制离子通道的受体类型匹配。根据它们与第二信使系统的已知关联（而不是直接的离子通道门控）来排除选项。"
+  },
+  "tags": "Nicotinic cholinergic receptor; Ionotropic receptor; Neuromuscular junction; Acetylcholine; Ion channels; Signal transduction; α1 adrenoreceptor; β1 adrenoreceptor; β2 adrenoreceptor; Muscarinic cholinergic receptor",
+  "category": "Neuro",
+  "question_id": "1360",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1360",
+  "extracted_at": "2025-11-05T15:15:27.777272",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:19:11.698219",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

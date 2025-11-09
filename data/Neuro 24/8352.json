@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man comes to the emergency department complaining of weakness, dizziness, and paresthesias involving his face and extremities. He has never had symptoms like this before. Two hours earlier, he ate fish at a new Japanese restaurant. Neurological examination shows reduced muscle strength and decreased deep-tendon reflexes.",
+    "zh": "一名34岁男性来到急诊科，主诉虚弱、头晕和面部及四肢感觉异常。他以前从未有过此类症状。两个小时前，他在一家新的日本餐厅吃了鱼。神经系统检查显示肌肉力量减弱，深腱反射减弱。"
+  },
+  "question": {
+    "en": "Which of the following parts of the action potential curve is most likely impaired in this patient?",
+    "zh": "该患者的动作电位曲线的以下哪个部分最有可能受损？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's constellation of symptoms (ie, paresthesias, weakness, dizziness, nausea) and history of fish consumption are strongly suggestive of food poisoning by pufferfish, a Japanese delicacy. Pufferfish can be lethal if not properly prepared. It is necessary to remove the organs containing high quantities of tetrodotoxin, a toxin produced by microorganisms associated with the fish.\n\nTetrodotoxin binds to voltage-gated sodium channels in nerve and cardiac tissue, preventing sodium influx and depolarization. Symptoms of tetrodotoxin poisoning occur quickly after ingestion and include dizziness, weakness, loss of reflexes, paresthesias of the face and extremities, nausea, vomiting, and diarrhea. Higher exposures can cause severe hypotension and general paralysis; death can occur from respiratory failure and hypotension. Treatment includes supportive care and intestinal decontamination with gut lavage and charcoal.\n\n(Choice A) The resting potential is equal to approximately -70 mV. It is maintained by high membrane K+ permeability and low Na+ permeability. K+ efflux occurs via non-gated K+ channels (leak channels).\n\n(Choice B) Phase B of the action potential curve represents the rapid depolarization phase, which is caused by the rapid influx of Na+ ions into the cell through voltage-gated sodium channels. Tetrodotoxin blocks these channels, preventing Na+ influx and thus impairing depolarization. This leads to a failure of action potential generation and propagation, resulting in the patient's neurological symptoms.\n\n(Choice C) Overshoot represents the maximal value of the action potential during which the membrane potential is positive. At this point, open sodium channels become inactivated and close, preventing further increase in the membrane potential.\n\n(Choice D) Repolarization results from closure of Na+ channels and simultaneous opening of K+ channels. This results in a sharp decrease in Na+ conductance and a significant increase in K+ conductance. Potassium efflux is responsible for returning the membrane potential to the resting potential.\n\n(Choice E) Hyperpolarization occurs for a short moment following repolarization due to the slow closure of voltage-gated potassium channels. The membrane potential becomes more negative than the normal resting potential and approaches the K+ equilibrium potential of -85 mV. When the voltage-gated K+ channels close, the membrane potential returns to the resting value.\n\nKey clinical pearls:\nTetrodotoxin poisoning is associated with pufferfish consumption and causes paralysis by blocking voltage-gated sodium channels, thus impairing NEURONAL DEPOLARIZATION.",
+    "zh": "该患者的症状组合（即感觉异常、虚弱、头晕、恶心）和食用鱼类的病史强烈提示河豚鱼中毒，河豚鱼是一种日本美食。如果准备不当，河豚鱼可能是致命的。有必要去除含有大量河豚毒素的器官，河豚毒素是由与鱼相关的微生物产生的。\n\n河豚毒素与神经和心脏组织中的电压门控钠离子通道结合，阻止钠离子内流和去极化。河豚毒素中毒的症状在摄入后迅速出现，包括头晕、虚弱、反射消失、面部和四肢感觉异常、恶心、呕吐和腹泻。更高的暴露会导致严重的低血压和全身麻痹；死亡可能由呼吸衰竭和低血压引起。治疗包括支持性护理和通过肠道灌洗和活性炭进行肠道去污。\n\n（选项 A）静息电位约为 -70 mV。它由高膜 K+ 渗透性和低 Na+ 渗透性维持。K+ 外流通过非门控 K+ 通道（漏电通道）发生。\n\n（选项 B）动作电位曲线的 B 相代表快速去极化阶段，该阶段由钠离子通过电压门控钠离子通道快速流入细胞引起。河豚毒素阻断这些通道，阻止钠离子内流，从而损害去极化。这导致动作电位生成和传播失败，导致患者出现神经系统症状。\n\n（选项 C）超调代表动作电位的最大值，在此期间膜电位为正。此时，开放的钠离子通道失活并关闭，阻止膜电位的进一步升高。\n\n（选项 D）复极化是由 Na+ 通道关闭和 K+ 通道同时开放引起的。这导致 Na+ 电导急剧下降和 K+ 电导显着增加。钾离子外流负责将膜电位恢复到静息电位。\n\n（选项 E）过度极化发生在复极化后的一小段时间内，这是由于电压门控钾离子通道缓慢关闭造成的。膜电位变得比正常静息电位更负，并接近 -85 mV 的 K+ 平衡电位。当电压门控 K+ 通道关闭时，膜电位恢复到静息值。\n\n关键临床要点：\n河豚鱼中毒与食用河豚鱼有关，并通过阻断电压门控钠离子通道引起麻痹，从而损害神经元去极化。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathophysiology of tetrodotoxin poisoning, specifically how it affects the action potential of neurons. It requires correlating clinical symptoms with the mechanism of action of the toxin on voltage-gated sodium channels.\n\nTo solve this question, one must first identify the likely cause of the patient's symptoms based on the history of eating pufferfish. Then, recall or deduce that tetrodotoxin blocks voltage-gated sodium channels. Finally, relate this blockade to the specific phase of the action potential that is dependent on sodium influx, which is the depolarization phase.",
+    "zh": "这个问题考察了对河豚毒素中毒的病理生理学的理解，特别是它如何影响神经元的动作电位。它需要将临床症状与毒素对电压门控钠离子通道的作用机制相关联。\n\n要解决这个问题，首先必须根据食用河豚鱼的病史确定患者症状的可能原因。然后，回想起或推断河豚毒素阻断了电压门控钠离子通道。最后，将这种阻断与依赖于钠离子内流的动作电位的特定阶段联系起来，即去极化阶段。"
+  },
+  "tags": "Tetrodotoxin poisoning; Pufferfish; Action potential; Voltage-gated sodium channels; Depolarization; Neurological symptoms; Neurotoxins; Emergency medicine",
+  "category": "Neuro",
+  "question_id": "8352",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\8352",
+  "extracted_at": "2025-11-05T19:41:31.255909",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:42:57.503975",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 60-year-old man is being evaluated due to nontender cervical lymphadenopathy that he first noticed while shaving. A biopsy is performed, and microscopy findings are shown in the image below: {{exhibit_1}}",
+    "zh": "一名60岁男性正在接受评估，因为他在剃须时首次注意到无压痛的颈部淋巴结肿大。进行活检，显微镜检查结果如下所示：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Further analysis would most likely demonstrate which of the following?",
+    "zh": "进一步分析最有可能显示以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "BCL2 overexpression",
+      "zh": "BCL2 过表达"
+    },
+    "B": {
+      "en": "BCR-ABL1 fusion",
+      "zh": "BCR-ABL1 融合"
+    },
+    "C": {
+      "en": "HER2 overexpression",
+      "zh": "HER2 过表达"
+    },
+    "D": {
+      "en": "MYC overexpression",
+      "zh": "MYC 过表达"
+    },
+    "E": {
+      "en": "PML-RARA fusion",
+      "zh": "PML-RARA 融合"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient with painless lymphadenopathy has histopathologic features consistent with **follicular lymphoma** (FL). This most common indolent form of **non-Hodgkin lymphoma**. FL is a mature B-cell tumor derived from cells found in the germinal centers of lymph nodes.\n\nAt low magnification, the characteristic histopathologic feature of FL is the presence of **nodular follicles** that obscure the normal lymph node architecture. In contrast to normal reactive lymph nodes, the neoplastic follicles are **closely packed and similar in size**. Instead of being polarized into dark and light zones, they consist of a mixture of centrocytes (small, cleaved cells) and centroblasts (larger, noncleaved cells).\n\nApproximately 85% of FL is associated with the t(14;18) translocation, which results in overexpression of the antiapoptotic gene product **BCL2** (allows the neoplastic cells to evade apoptosis).\n\n(Choice B) Chronic myeloid leukemia (CML), a myeloproliferative neoplasm, is associated with a translocation involving the *BCR* gene on chromosome 22 and the *ABL1* gene on chromosome 9 [t(9;22)], resulting in a BCR-ABL1 fusion protein that leads to uncontrolled cellular proliferation. CML is associated with granulocyte proliferation, which dramatically increases the quantity of granulocytes in the bone marrow and blood. Abnormal lymphoid follicles in a lymph node would not be expected.\n\n(Choice C) HER2 is a receptor tyrosine kinase that promotes cell growth. In some cases of breast carcinoma, the *HER2* gene is amplified, causing HER2 overexpression and increased cellular proliferation. Histopathology of metastatic breast carcinoma in a lymph node is typically similar to that of the primary tumor (eg, atypical epithelial cells forming glands).\n\n(Choice D) Burkitt lymphoma is an aggressive non-Hodgkin lymphoma associated with translocations of the *MYC* gene on chromosome 8, usually onto the immunoglobulin heavy-chain region of chromosome 14 [t(8;14)], resulting in MYC overexpression. Histologically, Burkitt lymphoma shows a diffuse, not nodular, proliferation of medium-sized lymphoid cells with numerous mitotic figures and scattered benign macrophages (ie, \"starry sky\" appearance).\n\n(Choice E) Acute promyelocytic leukemia is associated with a translocation involving the retinoic acid receptor alpha (*RARA*) and promyelocytic leukemia (*PML*) genes. The PML-RARA fusion protein product inhibits differentiation of myeloid precursors. Microscopic examination of blood and bone marrow typically shows abnormal promyelocytes with multiple cytoplasmic Auer rods.",
+    "zh": "这位无痛性淋巴结肿大的患者具有与**滤泡性淋巴瘤** (FL) 一致的组织病理学特征。这是最常见的**非霍奇金淋巴瘤**的惰性形式。FL 是一种成熟的 B 细胞肿瘤，源自淋巴结生发中心的细胞。\n\n在低倍镜下，FL 的特征性组织病理学特征是存在**结节性滤泡**，这些滤泡掩盖了正常的淋巴结结构。与正常的反应性淋巴结相比，肿瘤性滤泡**紧密排列，大小相似**。它们没有极化成暗区和亮区，而是由中心细胞（小，裂解细胞）和母细胞（较大，未裂解细胞）的混合物组成。\n\n大约 85% 的 FL 与 t(14;18) 易位相关，这导致抗凋亡基因产物 **BCL2** 过表达（使肿瘤细胞逃避凋亡）。\n\n（选项 B）慢性髓细胞性白血病 (CML) 是一种骨髓增生性肿瘤，与涉及 22 号染色体上的 *BCR* 基因和 9 号染色体上的 *ABL1* 基因的易位 [t(9;22)] 相关，导致 BCR-ABL1 融合蛋白，从而导致细胞不受控制的增殖。CML 与粒细胞增殖相关，这会显著增加骨髓和血液中粒细胞的数量。淋巴结中不应出现异常淋巴滤泡。\n\n（选项 C）HER2 是一种促进细胞生长的受体酪氨酸激酶。在某些乳腺癌病例中，*HER2* 基因被扩增，导致 HER2 过表达和细胞增殖增加。淋巴结转移性乳腺癌的组织病理学通常与原发性肿瘤相似（例如，形成腺体的非典型上皮细胞）。\n\n（选项 D）伯基特淋巴瘤是一种侵袭性非霍奇金淋巴瘤，与 8 号染色体上的 *MYC* 基因易位相关，通常易位到 14 号染色体的免疫球蛋白重链区 [t(8;14)]，导致 MYC 过表达。组织学上，伯基特淋巴瘤显示中等大小的淋巴样细胞弥漫性（而非结节性）增殖，伴有许多有丝分裂象和散在的良性巨噬细胞（即，“星空”外观）。\n\n（选项 E）急性早幼粒细胞白血病与涉及视黄酸受体α (*RARA*) 和早幼粒细胞白血病 (*PML*) 基因的易位相关。PML-RARA 融合蛋白产物抑制骨髓前体细胞的分化。血液和骨髓的显微镜检查通常显示具有多个细胞质 Auer 小体的异常早幼粒细胞。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of follicular lymphoma (FL) and its characteristic genetic translocation, t(14;18), leading to BCL2 overexpression. It also tests the ability to differentiate FL from other hematologic malignancies based on histopathology and genetic markers.\n\nTo solve this question, recognize the key features of follicular lymphoma described in the vignette, including painless lymphadenopathy and nodular follicles on biopsy. Recall the association of FL with BCL2 overexpression due to the t(14;18) translocation, and eliminate other options associated with different hematologic malignancies.",
+    "zh": "此问题考察对滤泡性淋巴瘤 (FL) 及其特征性基因易位 t(14;18) 的了解，该易位导致 BCL2 过表达。它还考察了根据组织病理学和遗传标记区分 FL 与其他血液系统恶性肿瘤的能力。\n\n要解决这个问题，请识别插图中描述的滤泡性淋巴瘤的关键特征，包括无痛性淋巴结肿大和活检时的结节性滤泡。回想一下 FL 与由于 t(14;18) 易位导致的 BCL2 过表达的关联，并排除与其他血液系统恶性肿瘤相关的其他选项。"
+  },
+  "tags": "Follicular lymphoma; Non-Hodgkin lymphoma; Lymphadenopathy; BCL2; t(14;18); Lymph node biopsy; Hematopathology; BCR-ABL1; HER2; MYC; PML-RARA",
+  "category": "Blood",
+  "question_id": "1627",
+  "has_exhibits": true,
+  "exhibit_count": 7,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1627",
+  "extracted_at": "2025-11-05T11:26:23.981555",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:28:34.287105",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

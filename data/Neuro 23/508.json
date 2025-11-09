@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old woman with newly diagnosed seizures comes to the emergency department with fever and skin rash. She had her first seizure 6 weeks ago, and an MRI of the brain revealed no structural lesions. She was started on phenytoin 4 weeks ago. Her temperature is 38.9 C (102 F). There is a diffuse confluent erythema involving 60% of the body, palpable generalized lymphadenopathy, and symmetrical facial swelling. The oral mucosa appears normal. {{exhibit_1}} Which of the following laboratory findings is most likely to be present in this patient?",
+    "zh": "一名25岁新诊断为癫痫的女性因发烧和皮疹来到急诊科。她在6周前首次发作，脑部MRI显示无结构性病变。她在4周前开始服用苯妥英钠。她的体温为38.9°C（102°F）。全身60%的皮肤出现弥漫性融合性红斑，可触及全身淋巴结肿大和对称性面部肿胀。口腔黏膜看起来正常。{{exhibit_1}} 这位患者最有可能出现以下哪种实验室检查结果？"
+  },
+  "question": {
+    "en": "Which of the following laboratory findings is most likely to be present in this patient?",
+    "zh": "这位患者最有可能出现以下哪种实验室检查结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Antineutrophil cytoplasmic antibodies",
+      "zh": "抗中性粒细胞胞质抗体"
+    },
+    "B": {
+      "en": "Blast cells with Auer rods",
+      "zh": "伴有Auer小体的原始细胞"
+    },
+    "C": {
+      "en": "Cryoglobulinemia",
+      "zh": "冷球蛋白血症"
+    },
+    "D": {
+      "en": "Eosinophilia",
+      "zh": "嗜酸性粒细胞增多"
+    },
+    "E": {
+      "en": "Microangiopathic hemolytic anemia",
+      "zh": "微血管病性溶血性贫血"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's cutaneous and systemic findings after starting a new medication are suggestive of a hypersensitivity reaction, in particular, drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome.\n\nDRESS is a rare and potentially life-threatening drug reaction typically occurring 2-8 weeks after drug exposure. Commonly associated drugs include anticonvulsants (eg, phenytoin, carbamazepine), allopurinol, sulfonamides (eg, sulfasalazine), and antibiotics (eg, minocycline, vancomycin). Although the exact mechanism is unknown, it likely involves impaired drug detoxification along with drug-induced herpesvirus (eg, HHV-6) reactivation followed by T cell-mediated tissue injury.\n\nPatients typically develop fever, generalized lymphadenopathy, facial edema, and diffuse morbilliform skin rash that can progress to a confluent erythema; mucosal involvement is often limited (in contrast with Stevens-Johnson syndrome/toxic epidermal necrolysis). Internal organ involvement is characteristic and can include the liver (elevated transaminases), kidney (acute interstitial nephritis), and lung (cough, dyspnea). Laboratory studies usually show eosinophilia. Clinical findings improve over several weeks following withdrawal of the drug.\n\n(Choice A) Drug-induced antineutrophil cytoplasmic antibodies-associated vasculitis is most commonly linked to medications for hyperthyroidism (eg, propylthiouracil, methimazole) and hydralazine. Patients can develop constitutional symptoms, arthralgias/arthritis, and cutaneous vasculitis.\n\n(Choice B) Blast cells with Auer rods indicate acute myeloid leukemia. Patients typically develop complications of pancytopenia, including fatigue (anemia), fever due to infection (neutropenia), and ecchymosis or epistaxis (thrombocytopenia).\n\n(Choice C) Mixed cryoglobulinemia is a small- to medium-vessel vasculitis caused by circulating immunoglobulin-complement complexes that precipitate on refrigeration. It is typically associated with chronic inflammatory states (eg, systemic lupus erythematosus, hepatitis C) and can present with systemic findings (eg, fatigue, arthralgias, myalgias) and palpable purpura in the lower extremities due to cutaneous vasculitis.\n\n(Choice E) Microangiopathic hemolytic anemia usually presents with anemia and fragmented red blood cells (schistocytes) on the peripheral smear. It has been associated with cancer chemotherapy drugs (eg, cisplatin, cyclophosphamide).\n\nEducational objective:\nDrug reaction with eosinophilia and systemic symptoms (DRESS) syndrome typically occurs 2-8 weeks after exposure to high-risk drugs such as anticonvulsants (eg, phenytoin, carbamazepine), allopurinol, sulfonamides (eg, sulfasalazine), and antibiotics (eg, minocycline, vancomycin). Patients typically develop fever, generalized lymphadenopathy, facial edema, diffuse skin rash, eosinophilia, and internal organ dysfunction. {{exhibit_2}}",
+    "zh": "该患者在开始新药治疗后出现的皮肤和全身表现提示超敏反应，特别是伴有嗜酸性粒细胞增多和全身症状的药物反应 (DRESS) 综合征。\n\nDRESS 是一种罕见且可能危及生命的药物反应，通常在药物暴露后 2-8 周发生。 常见相关的药物包括抗惊厥药（如苯妥英钠、卡马西平）、别嘌呤醇、磺胺类药物（如柳氮磺胺）和抗生素（如米诺环素、万古霉素）。 尽管确切的机制尚不清楚，但它可能涉及药物解毒受损以及药物诱导的疱疹病毒（如 HHV-6）再激活，随后是 T 细胞介导的组织损伤。\n\n患者通常会发烧、全身淋巴结肿大、面部水肿和弥漫性麻疹样皮疹，可发展为融合性红斑； 黏膜受累通常有限（与 Stevens-Johnson 综合征/中毒性表皮坏死松解症形成对比）。 内部器官受累是其特征，可包括肝脏（转氨酶升高）、肾脏（急性间质性肾炎）和肺部（咳嗽、呼吸困难）。 实验室检查通常显示嗜酸性粒细胞增多。 停药后几周内临床表现会改善。\n\n（选项 A）药物引起的抗中性粒细胞胞质抗体相关性血管炎最常见于甲亢药物（如丙硫氧嘧啶、甲巯咪唑）和肼屈嗪。 患者可出现全身症状、关节痛/关节炎和皮肤血管炎。\n\n（选项 B）伴有 Auer 小体的原始细胞提示急性髓系白血病。 患者通常会出现全血细胞减少症的并发症，包括疲劳（贫血）、因感染引起的发烧（中性粒细胞减少）以及瘀斑或鼻衄（血小板减少症）。\n\n（选项 C）混合性冷球蛋白血症是由循环免疫球蛋白-补体复合物在冷藏时沉淀引起的中小血管血管炎。 它通常与慢性炎症状态（如系统性红斑狼疮、丙型肝炎）相关，并可表现为全身表现（如疲劳、关节痛、肌痛）和由于皮肤血管炎引起的下肢可触及的紫癜。\n\n（选项 E）微血管病性溶血性贫血通常表现为贫血和外周血涂片上红细胞碎片（裂红细胞）。 它与癌症化疗药物（如顺铂、环磷酰胺）有关。\n\n教育目标：\n伴有嗜酸性粒细胞增多和全身症状的药物反应 (DRESS) 综合征通常发生在暴露于高危药物（如抗惊厥药（如苯妥英钠、卡马西平）、别嘌呤醇、磺胺类药物（如柳氮磺胺）和抗生素（如米诺环素、万古霉素））后 2-8 周。 患者通常会出现发烧、全身淋巴结肿大、面部水肿、弥漫性皮疹、嗜酸性粒细胞增多和内脏功能障碍。 {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) syndrome, a severe adverse drug reaction characterized by fever, rash, lymphadenopathy, eosinophilia, and internal organ involvement. It requires recognizing the clinical presentation and associating it with the likely laboratory finding of eosinophilia.\n\nTo solve this question, consider the patient's recent initiation of phenytoin, the presence of fever, rash, lymphadenopathy, and facial swelling. These findings are highly suggestive of DRESS syndrome, which is strongly associated with eosinophilia. Rule out other options based on their distinct clinical and laboratory features.",
+    "zh": "本题考察对伴有嗜酸性粒细胞增多和全身症状的药物反应 (DRESS) 综合征的知识，这是一种严重的药物不良反应，其特征是发烧、皮疹、淋巴结肿大、嗜酸性粒细胞增多和内脏受累。 它需要识别临床表现并将其与可能的嗜酸性粒细胞增多的实验室结果联系起来。\n\n要解决这个问题，请考虑患者最近开始使用苯妥英钠，以及存在发烧、皮疹、淋巴结肿大和面部肿胀。 这些发现强烈提示 DRESS 综合征，这与嗜酸性粒细胞增多密切相关。 根据其他选项的不同临床和实验室特征排除其他选项。"
+  },
+  "tags": "Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS); Adverse drug reaction; Eosinophilia; Phenytoin; Anticonvulsants; Dermatology; Internal medicine; Hematology",
+  "category": "Neuro",
+  "question_id": "508",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\508",
+  "extracted_at": "2025-11-05T15:35:26.172618",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:27:08.415838",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

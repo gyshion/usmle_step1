@@ -1,0 +1,73 @@
+{
+  "question_stem": {
+    "en": "A 30-year-old woman comes to the office due to excessive weight gain without any changes in her diet or physical activity. She has also been feeling more tired lately and has had frequent constipation. The patient has no prior medical problems and takes no medications. She has been pregnant once and gave birth to a healthy infant 3 years ago. Family history is significant for a thyroid disorder in her mother. Blood pressure is 116/90 mm Hg and pulse is 58/min. BMI is 28.5 kg/m². Physical examination reveals a diffusely enlarged and nontender thyroid with no nodules. There is delayed relaxation of deep tendon reflexes. Her hair is thin and the skin appears dry. Which of the following sets of laboratory findings is most likely to be seen in this patient?",
+    "zh": "一位30岁的女性因体重过度增加就诊，其饮食和体力活动均未发生变化。她最近也感到更加疲倦，并且经常便秘。患者既往无任何疾病史，且未服用任何药物。她曾怀孕一次，并在3年前生下一个健康的婴儿。家族史显示其母亲患有甲状腺疾病。血压为116/90 mmHg，脉搏为58次/分钟。BMI为28.5 kg/m²。体格检查显示弥漫性甲状腺肿大且无触痛，未触及结节。深腱反射的松弛延迟。她的头发稀疏，皮肤干燥。该患者最有可能出现以下哪组实验室检查结果？"
+  },
+  "question": {
+    "en": "Which of the following sets of laboratory findings is most likely to be seen in this patient? {{exhibit_1}}",
+    "zh": "该患者最有可能出现以下哪组实验室检查结果？{{exhibit_1}}"
+  },
+  "options": {
+    "A": {
+      "en": "TSH: Increased, Thyroxine (T4): Decreased, Triiodothyronine (T3): Normal",
+      "zh": "促甲状腺激素（TSH）：升高，甲状腺素（T4）：降低，三碘甲状腺原氨酸（T3）：正常"
+    },
+    "B": {
+      "en": "TSH: Increased, Thyroxine (T4): Normal, Triiodothyronine (T3): Normal",
+      "zh": "促甲状腺激素（TSH）：升高，甲状腺素（T4）：正常，三碘甲状腺原氨酸（T3）：正常"
+    },
+    "C": {
+      "en": "TSH: Increased, Thyroxine (T4): Increased, Triiodothyronine (T3): Increased",
+      "zh": "促甲状腺激素（TSH）：升高，甲状腺素（T4）：升高，三碘甲状腺原氨酸（T3）：升高"
+    },
+    "D": {
+      "en": "TSH: Normal, Thyroxine (T4): Normal, Triiodothyronine (T3): Decreased",
+      "zh": "促甲状腺激素（TSH）：正常，甲状腺素（T4）：正常，三碘甲状腺原氨酸（T3）：降低"
+    },
+    "E": {
+      "en": "TSH: Decreased, Thyroxine (T4): Increased, Triiodothyronine (T3): Increased",
+      "zh": "促甲状腺激素（TSH）：降低，甲状腺素（T4）：升高，三碘甲状腺原氨酸（T3）：升高"
+    },
+    "F": {
+      "en": "TSH: Decreased, Thyroxine (T4): Normal, Triiodothyronine (T3): Normal",
+      "zh": "促甲状腺激素（TSH）：降低，甲状腺素（T4）：正常，三碘甲状腺原氨酸（T3）：正常"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has a very typical presentation of primary hypothyroidism with weight gain, fatigue, and a delayed relaxation phase of deep tendon reflexes. Her diffuse goiter suggests chronic autoimmune (Hashimoto) thyroiditis, which is the most common cause of hypothyroidism in developed countries. As autoimmune destruction of the gland progresses, thyroid hormone production declines, leading to loss of feedback inhibition of TSH secretion; therefore, patients have low T4 and elevated TSH levels. However, because T3 is produced mainly in peripheral tissues and has a short half-life, serum T3 levels fluctuate widely and correlate poorly with clinical status; T3 is often normal in primary hypothyroidism.\n\n(Choice B) TSH secretion is very sensitive to changes in thyroid status and rises in response to even small declines in thyroid hormone production. Subclinical hypothyroidism is a common biochemical state in which an elevated TSH is necessary to maintain normal thyroid hormone levels. However, most patients are asymptomatic.\n\n(Choices C, E, and F)  \nPrimary  \n(Choice D) Euthyroid sick syndrome is a constellation of abnormal thyroid tests seen in patients with severe systemic illness (eg, sepsis). Excess cortisol, inflammatory cytokines, starvation, and certain medications (eg, amiodarone) can cause reduced conversion of T4 to T3, leading to low serum T3; reverse T3 (the inactive metabolite of T4) is typically elevated but TSH and T4 are usually normal.\nEducational objective:\nPrimary hypothyroidism is characterized by decreased T4 levels and increased TSH. T3 is primarily produced by conversion from T4 in peripheral tissues; serum levels widely fluctuate due to its short half life, and can often be within the normal range in patients with hypothyroidism.",
+    "zh": "该患者表现出原发性甲状腺功能减退症的典型症状，包括体重增加、疲劳和深腱反射的松弛延迟。她弥漫性甲状腺肿提示慢性自身免疫性（桥本氏）甲状腺炎，这是发达国家甲状腺功能减退症最常见的原因。随着腺体自身免疫破坏的进展，甲状腺激素的产生减少，导致TSH分泌的负反馈抑制作用丧失；因此，患者的T4水平低，TSH水平升高。然而，由于T3主要在周围组织中产生，并且半衰期短，血清T3水平波动很大，与临床状态的相关性较差；在原发性甲状腺功能减退症中，T3水平通常正常。\n\n（选项B）TSH分泌对甲状腺状态的变化非常敏感，并且对甲状腺激素产生即使小幅下降也会做出反应。亚临床甲状腺功能减退症是一种常见的生化状态，其中升高TSH是维持正常甲状腺激素水平所必需的。然而，大多数患者无症状。\n\n（选项C、E和F）\n原发性\n（选项D）甲状腺功能正常疾病综合征是在患有严重全身性疾病（如败血症）的患者中看到的一组异常甲状腺检查结果。过量的皮质醇、炎性细胞因子、饥饿和某些药物（如胺碘酮）会导致T4转化为T3的减少，从而导致血清T3降低；逆T3（T4的无活性代谢物）通常升高，但TSH和T4通常正常。\n教育目标：\n原发性甲状腺功能减退症的特征是T4水平降低和TSH升高。T3主要由周围组织中T4转化而来；血清水平由于其短半衰期而广泛波动，并且在甲状腺功能减退症患者中通常可以处于正常范围内。"
+  },
+  "summary": {
+    "en": "A 30-year-old female presents with weight gain, fatigue, constipation, and signs of hypothyroidism. The most likely lab findings are increased TSH, decreased T4, and normal T3, consistent with primary hypothyroidism.",
+    "zh": "一位30岁的女性表现出体重增加、疲劳、便秘和甲状腺功能减退症的体征。最有可能的实验室检查结果是TSH升高、T4降低和T3正常，这与原发性甲状腺功能减退症一致。"
+  },
+  "tags": [
+    "Endocrinology",
+    "Hypothyroidism",
+    "Hashimoto's Thyroiditis",
+    "TSH",
+    "T4",
+    "T3",
+    "Laboratory Findings"
+  ],
+  "exhibit_1": "insert exhibit here",
+  "category": "Endo",
+  "question_id": "983",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\983",
+  "extracted_at": "2025-11-05T14:13:28.172539",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T17:43:52.931300",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

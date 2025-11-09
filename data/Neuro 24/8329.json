@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 51-year-old woman comes to the office because it feels like the right side of her face has been getting heavier for the past 12 hours. Medical history is significant for type 2 diabetes mellitus. Physical examination reveals asymmetry of her face when she smiles, puffs out her cheeks, raises her eyebrows, and tries to close her eyes tightly. There is also effacement of the right nasolabial fold, and her lips are drawn toward the left side. The remainder of the neurologic examination is normal.",
+    "zh": "一名51岁的女性来到诊所，因为她感觉右侧脸部在过去12小时内越来越沉重。病史显示患有2型糖尿病。体格检查显示，当她微笑、鼓起脸颊、扬起眉毛并试图用力闭上眼睛时，她的脸部不对称。右侧鼻唇沟消失，嘴唇向左侧歪斜。其余神经系统检查结果正常。"
+  },
+  "question": {
+    "en": "Which of the following additional findings is most likely associated with this patient's condition?",
+    "zh": "以下哪一项附加发现最有可能与该患者的病情相关？"
+  },
+  "options": {
+    "A": {
+      "en": "Attenuated sense of touch on the right side of face",
+      "zh": "右侧面部触觉减退"
+    },
+    "B": {
+      "en": "Decreased tear production from the right eye",
+      "zh": "右眼泪液分泌减少"
+    },
+    "C": {
+      "en": "Failure to elevate the palate when saying \"ah\"",
+      "zh": "发出“啊”的声音时软腭无法上抬"
+    },
+    "D": {
+      "en": "Inability to sweat on the right side of face",
+      "zh": "右侧面部无法出汗"
+    },
+    "E": {
+      "en": "Loss of taste sensation from the posterior one-third of the tongue",
+      "zh": "舌后三分之一区域的味觉丧失"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's acute hemifacial weakness is consistent with Bell palsy, an idiopathic mononeuropathy affecting the facial nerve (CN VII). CN VII is a mixed nerve, consisting of the following:\n\n• Motor output to the muscles controlling movement of the face (including eye closure)\n• Somatic sensation afferents from portions of the pinna and external auditory canal\n• Special sensation afferents for taste from the anterior two-thirds of the tongue\n• Parasympathetic innervation of the submandibular and lacrimal glands\n• Motor innervation of the stapedius muscle, which causes sound dampening\n\nPatients with Bell palsy typically have a sudden onset (within hours) of unilateral facial paralysis. Specific findings include impaired eye closure; eyebrow sagging; inability to smile, frown, or purse lips on the affected side; disappearance of the nasolabial fold; and lips drawn to the nonaffected side. Patients with Bell palsy may also have decreased tear production, hyperacusis, and/or loss of taste sensation over the anterior two-thirds of the tongue.\n\n(Choice A) Trigeminal nerve (CN V) somatic afferents are responsible for providing general sensation over the face; the motor branch of CN V (V3) innervates the muscles of mastication and the tensor tympani (sound dampening).\n\n(Choice C) The levator veli palatini elevates the soft palate during swallowing (and when saying \"ah\"). Palate elevation is mediated by the pharyngeal branch of the vagus nerve (CN X).\n\n(Choice D) Horner syndrome occurs due to interruption of sympathetic innervation and classically presents with hemifacial ptosis, miosis, anhydrosis, and enophthalmos. Postsynaptic sympathetic axons travel in the perivascular plexus along the carotid arteries to reach and innervate the face.\n\n(Choice E) Taste sensation from the posterior one-third of the tongue is provided by the glossopharyngeal nerve (CN IX).\n\nEducational objective:\nBecause of the diverse functions of the facial nerve (CN VII), patients with Bell palsy may experience decreased tear production, hyperacusis, and/or loss of taste sensation over the anterior two-thirds of the tongue, in addition to unilateral facial weakness.",
+    "zh": "该患者的急性偏侧面部无力与贝尔氏麻痹症一致，后者是一种影响面神经（CN VII）的特发性单神经病。CN VII是混合神经，由以下部分组成：\n\n• 支配面部运动的肌肉的运动输出（包括眼睑闭合）\n• 来自耳廓和外耳道的躯体感觉传入神经\n• 来自舌前三分之二部分的味觉特殊感觉传入神经\n• 腮腺和泪腺的副交感神经支配\n• 镫骨肌的运动神经支配，引起声音减弱\n\n贝尔氏麻痹症患者通常会在数小时内突然出现单侧面部麻痹。具体表现包括眼睑闭合障碍；眉毛下垂；受影响一侧无法微笑、皱眉或撅嘴；鼻唇沟消失；嘴唇向未受影响的一侧歪斜。贝尔氏麻痹症患者还可能出现泪液分泌减少、听觉过敏和/或舌前三分之二部分味觉丧失。\n\n（选项 A）三叉神经（CN V）的躯体传入神经负责提供面部的总体感觉；CN V（V3）的运动分支支配咀嚼肌和鼓膜张肌（声音减弱）。\n\n（选项 C）软腭提肌在吞咽（以及发出“啊”的声音时）抬高软腭。腭抬高由迷走神经（CN X）的咽支介导。\n\n（选项 D）霍纳氏综合征是由于交感神经支配中断引起的，其典型表现为偏侧眼睑下垂、瞳孔缩小、无汗和眼球内陷。突触后交感神经轴突沿颈动脉周围丛走行，到达并支配面部。\n\n（选项 E）舌后三分之一部分的味觉由舌咽神经（CN IX）提供。\n\n教学目标：\n由于面神经（CN VII）的多样功能，贝尔氏麻痹症患者除了单侧面部无力外，还可能出现泪液分泌减少、听觉过敏和/或舌前三分之二部分味觉丧失。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the clinical presentation and associated symptoms of Bell palsy, which is caused by idiopathic inflammation of the facial nerve (CN VII). It requires differentiating the functions of CN VII from other cranial nerves that innervate the face and related structures.\n\nTo solve this question, one must first identify the likely diagnosis of Bell palsy based on the described unilateral facial weakness. Then, recall the specific functions of the facial nerve, including motor, sensory (taste), and autonomic (lacrimation, salivation) components, and relate these to the potential additional findings.",
+    "zh": "本题测试对贝尔氏麻痹症的临床表现和相关症状的理解，贝尔氏麻痹症是由面神经（CN VII）的特发性炎症引起的。它需要区分CN VII与其他支配面部和相关结构的脑神经的功能。\n\n要解决这个问题，首先必须根据所描述的单侧面部无力确定贝尔氏麻痹症的可能诊断。然后，回忆面神经的具体功能，包括运动、感觉（味觉）和自主神经（泪液分泌、唾液分泌）成分，并将这些与潜在的附加发现联系起来。"
+  },
+  "tags": "Bell palsy; Facial nerve (CN VII); Cranial nerve palsy; Unilateral facial weakness; Decreased tear production; Idiopathic neuropathy; Neurology",
+  "category": "Neuro",
+  "question_id": "8329",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\8329",
+  "extracted_at": "2025-11-05T19:41:28.342017",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:42:55.679646",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

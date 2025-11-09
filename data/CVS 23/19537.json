@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 6-month-old girl is brought to the office for her first visit after being adopted from another country a week ago. The parents note that she often seems to breathe hard and fast, particularly after feeding or crying. Her lips also sometimes turn blue. On examination, height and weight are at the 15th and 2nd percentiles, respectively. The patient has a 4/6, harsh systolic, crescendo-decrescendo murmur best heard at the left upper sternal border. The results of a complete blood count are as follows: \n\nHematocrit 52%\nPlatelets 240,000/mm³\nLeukocytes 11,000/mm³",
+    "zh": "一位6个月大的女婴因被从国外收养一周后首次就诊。家长注意到她经常呼吸急促，特别是在喂养或哭泣后。她的嘴唇有时也会发紫。体格检查显示，身高和体重分别处于第15和第2百分位数。患者在左上胸骨缘处可闻及4/6级粗糙的收缩期、增强-减弱型杂音。全血细胞计数结果如下：\n\n血细胞比容52%\n血小板240,000/mm³\n白细胞11,000/mm³"
+  },
+  "question": {
+    "en": "Which of the following processes is most likely contributing to this patient's elevated hematocrit?",
+    "zh": "以下哪种过程最有可能导致该患者血细胞比容升高？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased pulmonary dead space",
+      "zh": "肺无效腔减少"
+    },
+    "B": {
+      "en": "Impaired postnatal lung expansion",
+      "zh": "出生后肺膨胀受损"
+    },
+    "C": {
+      "en": "Increased blood flow to the renal arteries",
+      "zh": "肾动脉血流增加"
+    },
+    "D": {
+      "en": "Monoclonal proliferation of erythroid cells",
+      "zh": "红系细胞单克隆增殖"
+    },
+    "E": {
+      "en": "Reduced pulmonary arterial blood flow",
+      "zh": "肺动脉血流减少"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient with episodic cyanosis and respiratory difficulty and a crescendo-decrescendo systolic murmur best heard at the left sternal border (suggestive of right ventricular outflow tract [RVOT] obstruction [ie, pulmonic stenosis]) most likely has tetralogy of Fallot (ToF) {{exhibit_1}}.\n\nIn ToF, RVOT obstruction leads to right-to-left shunting through the large ventricular septal defect, with resulting underperfusion of the pulmonary arteries and hypoxemia. Because the degree of RVOT obstruction is dynamic (eg, can worsen during infundibular muscle spasm), patients can experience periodic episodes of worsening hypoxemia and cyanosis often triggered by feeding or crying (ie, \"tet\" episodes). Poor weight gain is common and likely related to reduced caloric intake and/or higher metabolic needs.\n\nIn response to chronic hypoxemia, the body increases red blood cell (RBC) production to increase oxygen-carrying capacity. Tissue hypoxia in the inner cortex and medulla of the kidney triggers increased renal production of erythropoietin, which then stimulates erythrocyte precursor cells in the bone marrow to produce more RBCs, resulting in an increased hemoglobin concentration and hematocrit. This physiologic type of secondary polycythemia is the most common overall mechanism of polycythemia.\n\n(Choice A) Pulmonary dead space refers to portions of the lung that are ventilated but not perfused. Decreased pulmonary dead space tends to increase alveolar air exchange and would not contribute to development of hypoxemia or secondary polycythemia.\n\n(Choice B) Impaired postnatal lung expansion (eg, pulmonary hypoplasia, diaphragmatic hernia), typically causes acute hypoxemia in the immediate newborn period. This patient's pathologic murmur makes cardiac pathology more likely.\n\n(Choice C) Decreased, not increased, renal blood flow (as in renal artery stenosis) can sometimes cause secondary polycythemia due to reduced oxygen delivery to the renal interstitium.\n\n(Choice D)\nMonoclonal proliferation of erythroid cells (ie, originating from a single mutant cell) is seen in polycythemia vera, a form of blood cancer that involves autonomous RBC production independent of erythropoietin. It is the most common cause of primary polycythemia, which is usually seen in adults and often accompanied by thrombocytosis and leukocytosis (not seen in this patient). In contrast, secondary polycythemia (ie, erythropoietin-stimulated RBC production) involves polyclonal proliferation of erythroid cells.\n\nEducational objective:\nTetralogy of Fallot can present in infancy with episodic cyanosis and poor weight gain. Right ventricular outflow tract obstruction (reduced perfusion of the pulmonary arteries) results in chronic hypoxemia, leading to secondary polycythemia. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "该患者出现阵发性发绀和呼吸困难，并在左胸骨缘处可闻及增强-减弱型收缩期杂音（提示右心室流出道[RVOT]梗阻，即肺动脉瓣狭窄），最有可能患有法洛四联症 (ToF) {{exhibit_1}}。\n\n在ToF中，RVOT梗阻导致血液通过较大的室间隔缺损发生右向左分流，从而导致肺动脉灌注不足和低氧血症。由于RVOT梗阻的程度是动态的（例如，在漏斗部肌肉痉挛期间可能恶化），患者可能会出现阵发性加重性低氧血症和发绀，通常由喂养或哭泣（即，“四联症”发作）引发。体重增加不良很常见，可能与热量摄入减少和/或代谢需求增加有关。\n\n为了应对慢性低氧血症，机体增加红细胞 (RBC) 的产生以增加携氧能力。肾脏内皮质和髓质的组织缺氧会触发促红细胞生成素的肾脏生成增加，进而刺激骨髓中的红细胞前体细胞产生更多的RBC，从而导致血红蛋白浓度和血细胞比容升高。这种生理性的继发性红细胞增多症是红细胞增多症最常见的总体机制。\n\n（选项A）肺无效腔是指通气但未灌注的肺部。肺无效腔减少往往会增加肺泡气体交换，不会导致低氧血症或继发性红细胞增多症的发生。\n\n（选项B）出生后肺膨胀受损（例如，肺发育不全、膈疝）通常会导致新生儿期出现急性低氧血症。该患者的病理性杂音使心脏病理的可能性更大。\n\n（选项C）肾血流量减少而不是增加（如肾动脉狭窄）有时会导致继发性红细胞增多症，原因是输送到肾间质的氧气减少。\n\n（选项D）红系细胞单克隆增殖（即，起源于单个突变细胞）可见于真性红细胞增多症，这是一种血液癌症，涉及自主性RBC生成，不依赖于促红细胞生成素。它是原发性红细胞增多症最常见的原因，通常见于成人，并且通常伴有血小板增多症和白细胞增多症（在该患者中未见）。相比之下，继发性红细胞增多症（即，促红细胞生成素刺激的RBC生成）涉及红系细胞的多克隆增殖。\n\n教学目标：\n法洛四联症可在婴儿期表现为阵发性发绀和体重增加不良。右心室流出道梗阻（肺动脉灌注减少）导致慢性低氧血症，从而导致继发性红细胞增多症。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of Tetralogy of Fallot and its association with secondary polycythemia. It assesses the understanding of how chronic hypoxemia stimulates erythropoietin production, leading to increased red blood cell production and elevated hematocrit.\n\nTo solve this question, recognize the clinical presentation suggestive of Tetralogy of Fallot (cyanosis, murmur, poor weight gain). Understand that reduced pulmonary arterial blood flow causes chronic hypoxemia, which triggers secondary polycythemia as a compensatory mechanism.",
+    "zh": "本题考察了法洛四联症的病理生理学知识及其与继发性红细胞增多症的关系。评估了对慢性低氧血症如何刺激促红细胞生成素产生，导致红细胞生成增加和血细胞比容升高的理解。\n\n要解决此问题，需要识别提示法洛四联症的临床表现（发绀、杂音、体重增加不良）。了解肺动脉血流减少会导致慢性低氧血症，进而触发继发性红细胞增多症作为代偿机制。"
+  },
+  "tags": "Tetralogy of Fallot; Cyanotic heart disease; Secondary polycythemia; Hypoxemia; Erythropoietin; Cardiology; Pediatrics",
+  "category": "CVS",
+  "question_id": "19537",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\19537",
+  "extracted_at": "2025-11-05T12:06:14.573718",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:26:30.167079",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 54-year-old man dies from profuse upper gastrointestinal hemorrhage. An autopsy is performed; gross examination of his liver is shown in the image below {{exhibit_1}}.",
+    "zh": "一名54岁男性因大量上消化道出血死亡。进行尸检；其肝脏的大体检查结果见下图 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "This patient's liver findings most likely resulted from which of the following processes?",
+    "zh": "该患者的肝脏表现最可能源于以下哪种病理过程？"
+  },
+  "options": {
+    "A": {
+      "en": "Dilation of sinusoids and perivenular hemorrhage",
+      "zh": "窦状隙扩张和肝小叶周围出血"
+    },
+    "B": {
+      "en": "Fibrosis and nodular parenchymal regeneration",
+      "zh": "纤维化和结节性实质再生"
+    },
+    "C": {
+      "en": "Granulomatous destruction of bile ducts",
+      "zh": "肉芽肿性胆管破坏"
+    },
+    "D": {
+      "en": "Intrahepatic hydatid cysts with surrounding fibrous reaction",
+      "zh": "肝内包虫囊肿伴周围纤维反应"
+    },
+    "E": {
+      "en": "Pigment accumulation within hepatocytes",
+      "zh": "肝细胞内色素积聚"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Cirrhosis, the end stage of many chronic liver diseases, is characterized by diffuse hepatic fibrosis with replacement of the normal lobular architecture by fibrous-lined regenerative parenchymal nodules. This gives the liver a nodular appearance on gross examination {{exhibit_2}}. The most common causes of cirrhosis include chronic viral hepatitis (eg, hepatitis B and C), alcohol, hemochromatosis, and nonalcoholic fatty liver disease. PORTAL HYPERTENSION, from increased resistance to hepatic blood flow, typically develops in advanced cirrhosis and can lead to development of GASTROESOPHAGEAL VARICES. Untreated, these varices are prone to rupture and can result in a massive gastrointestinal hemorrhage and possibly death.\n\n(Choice A) Dilation of sinusoids and perivenular hemorrhage are associated with acute venous outflow obstruction affecting the liver (eg, Budd-Chiari syndrome). Chronic hepatic vein obstruction is a rare cause of cirrhosis and portal hypertension.\n\n(Choice C) Granulomatous destruction of bile ducts is seen in patients with primary biliary cholangitis (PBC). Although PBC can cause cirrhosis, it is a far less common cause than alcohol or chronic hepatitis. Moreover, PBC primarily occurs in women.\n\n(Choice D) Intrahepatic hydatid cysts with surrounding fibrous reaction can be seen in patients with an Echinococcus infection, but it is a very rare disease in the United States.\n\n(Choice E) Pigment accumulation within hepatocytes occurs in conditions such as Dubin-Johnson syndrome, an autosomal recessive disorder causing conjugated hyperbilirubinemia. In this condition, hepatocellular accumulation of coarse pigmented granules causes the liver to appear grossly black.",
+    "zh": "肝硬化是许多慢性肝病的终末期，其特征是弥漫性肝纤维化，正常小叶结构被纤维包绕的再生性实质结节所取代。这使得肝脏在大体检查中呈现结节状外观 {{exhibit_2}}。肝硬化的最常见病因包括慢性病毒性肝炎（例如，乙型和丙型肝炎）、酒精、血色素沉着病和非酒精性脂肪肝病。门静脉高压症，由于肝血流阻力增加，通常发生于晚期肝硬化，可导致胃食管静脉曲张。未经治疗，这些静脉曲张易于破裂，可能导致大量消化道出血，甚至死亡。\n\n(选项 A) 窦状隙扩张和肝小叶周围出血与影响肝脏的急性静脉流出道阻塞有关（例如，Budd-Chiari 综合征）。慢性肝静脉阻塞是肝硬化和门静脉高压的罕见病因。\n\n(选项 C) 肉芽肿性胆管破坏见于原发性胆汁性胆管炎 (PBC) 患者。尽管 PBC 可引起肝硬化，但它是一种远不如酒精或慢性肝炎常见的病因。此外，PBC 主要发生在女性。\n\n(选项 D) 肝内包虫囊肿伴周围纤维反应可见于包虫病患者，但这在美国是一种非常罕见的疾病。\n\n(选项 E) 肝细胞内色素积聚发生于 Dubin-Johnson 综合征等疾病，这是一种常染色体隐性遗传病，可引起结合型高胆红素血症。在这种情况下，粗色素颗粒在肝细胞内的积聚导致肝脏呈现大体黑色。"
+  },
+  "summary": {
+    "en": "This question tests the knowledge of liver cirrhosis, its causes, and gross morphological features. It also tests the ability to differentiate cirrhosis from other liver pathologies based on gross appearance and clinical context.\n\nTo solve this question, recognize the nodular appearance of the liver in the image, associate it with cirrhosis, and recall the common causes of cirrhosis. Rule out other liver conditions based on their distinct features and clinical associations.",
+    "zh": "此题考察对肝硬化、其病因以及大体形态特征的了解。同时，它也考察了根据大体外观和临床背景区分肝硬化与其他肝脏病理的能力。\n\n要解决这个问题，需要识别图像中肝脏的结节状外观，将其与肝硬化联系起来，并回忆肝硬化的常见病因。根据其他肝脏疾病的独特特征和临床关联，排除它们。"
+  },
+  "tags": "Cirrhosis; Liver; Gastrointestinal hemorrhage; Portal hypertension; Liver fibrosis; Nodular regeneration; Autopsy; Gross pathology; Hepatitis; Alcohol; Hemochromatosis",
+  "category": "GIT",
+  "question_id": "368",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\368",
+  "extracted_at": "2025-11-05T14:33:51.744315",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:56:48.182600",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

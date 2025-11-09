@@ -1,0 +1,76 @@
+{
+  "question_stem": {
+    "en": "A 5-year-old boy is brought to the office by his parents for evaluation of headaches and difficulty walking. The headaches occur in the early morning and are accompanied by vomiting. The mother says the boy has become \"very wobbly on his feet\" over the past 2 weeks. Physical examination is notable for an ataxic gait. MRI of the brain reveals a solid, midline posterior fossa mass. Biopsy of the mass demonstrates sheets of small basophilic cells with several mitotic figures. {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}} {{exhibit_8}} {{exhibit_9}}",
+    "zh": "一位5岁男孩因头痛和行走困难由父母带到诊所就诊。头痛发生在清晨，并伴有呕吐。母亲说，过去2周男孩“走路很不稳”。体格检查显示共济失调步态。脑部MRI显示实性、中线后颅窝肿块。肿块活检显示片状小嗜碱性细胞，伴有几个有丝分裂像。{{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}} {{exhibit_8}} {{exhibit_9}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Craniopharyngioma",
+      "zh": "颅咽管瘤"
+    },
+    "B": {
+      "en": "Ependymoma",
+      "zh": "室管膜瘤"
+    },
+    "C": {
+      "en": "Glioblastoma",
+      "zh": "胶质母细胞瘤"
+    },
+    "D": {
+      "en": "Medulloblastoma",
+      "zh": "髓母细胞瘤"
+    },
+    "E": {
+      "en": "Meningioma",
+      "zh": "脑膜瘤"
+    },
+    "F": {
+      "en": "Oligodendroglioma",
+      "zh": "少突胶质细胞瘤"
+    },
+    "G": {
+      "en": "Pilocytic astrocytoma",
+      "zh": "毛细胞型星形细胞瘤"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This child with a solid posterior fossa mass has biopsy findings consistent with MEDULLOBLASTOMA. Medulloblastoma is one of the most common pediatric brain tumors and arises in the cerebellum from primitive neuroectodermal tissue. Patients often present with CEREBELLAR DYSFUNCTION (eg, loss of balance, incoordination) and symptoms of increased intracranial pressure (eg, early morning headache, vomiting); given the proximity to the fourth ventricle, medulloblastoma can also cause obstructive hydrocephalus.\n\nHistopathologic examination reveals an embryonal tumor composed of sheets of SMALL CELLS with round, hyperchromatic basophilic (ie, blue) nuclei and minimal cytoplasm. The cells can be arranged around a central core of neuronal processes (ie, neuropil), forming HOMER-WRIGHT ROSETTES. Numerous mitotic figures are often present.\n\n(Choice A) Adamantinomatous craniopharyngiomas are benign, suprasellar epithelial tumors that emerge from remnants of the Rathke pouch (ie, embryonic anterior pituitary gland). Microscopic examination reveals cords or nests of palisading (ie, showing parallel alignment) squamous epithelium with wet-appearing keratin.\n\n(Choice B) Ependymomas arise from the ependymal lining of the ventricles and typically grow into the ventricular system. Histopathologic findings in ependymomas, in contrast to medulloblastomas, often include ependymal cells arranged around a central blood vessel, forming a perivascular pseudorosette.\n\n(Choice C) Glioblastomas are the most common primary adult brain tumor and typically occur in the cerebral hemispheres. Histopathologic examination often shows hypercellular areas of atypical astrocytes bordering regions of necrosis (ie, pseudopalisading). Microvascular proliferation is also commonly present.\n\n(Choice E) Meningiomas are extraaxial tumors that arise from the dura. Histopathologic examination often shows tumor cells forming a whorled pattern, which can calcify into round lamellar structures (ie, psammoma bodies).\n\n(Choice F) Oligodendrogliomas are often located in the frontal lobe and are composed of uniform cells with round nuclei and clear perinuclear halos (\"fried egg\" appearance). Anastomosing capillaries arranged in a chicken-wire pattern may surround these cells.\n\n(Choice G) Pilocytic astrocytomas also develop in the cerebellum but typically have a cystic appearance. Microscopic examination reveals bipolar cells with hair-like projections, and eosinophilic fibers with a corkscrew appearance (ie, Rosenthal fibers) are typically present.",
+    "zh": "这个患有实性后颅窝肿块的孩子的活检结果与髓母细胞瘤一致。髓母细胞瘤是最常见的儿童脑肿瘤之一，起源于小脑的原始神经外胚层组织。患者通常表现为小脑功能障碍（例如，平衡失调、协调障碍）和颅内压增高的症状（例如，清晨头痛、呕吐）；鉴于其靠近第四脑室，髓母细胞瘤也可引起梗阻性脑积水。\n\n组织病理学检查显示，这是一种胚胎性肿瘤，由片状小细胞组成，这些细胞具有圆形、深染嗜碱性（即蓝色）核和极少的细胞质。细胞可围绕神经元突起（即神经网）的中心核心排列，形成Homer-Wright玫瑰花结。通常存在许多有丝分裂象。\n\n(选项A) 齿状颅咽管瘤是良性的，鞍上皮肿瘤，源自Rathke囊（即，胚胎前叶垂体）。显微镜检查显示呈栅栏状排列（即，平行排列）的鳞状上皮细胞索或巢，伴有湿润外观的角蛋白。\n\n(选项B) 室管膜瘤起源于脑室的室管膜衬里，通常生长到脑室系统中。室管膜瘤的组织病理学发现，与髓母细胞瘤相比，通常包括围绕中心血管排列的室管膜细胞，形成血管周围的假玫瑰花结。\n\n(选项C) 胶质母细胞瘤是最常见的原发性成人脑肿瘤，通常发生在大脑半球。组织病理学检查通常显示非典型星形胶质细胞的过度细胞区域与坏死区域（即，假栅栏状排列）相邻。也常见微血管增生。\n\n(选项E) 脑膜瘤是起源于硬脑膜的颅外肿瘤。组织病理学检查通常显示肿瘤细胞形成涡旋状模式，其可钙化成圆形层状结构（即，砂粒体）。\n\n(选项F) 少突胶质细胞瘤常位于额叶，由具有圆形核和透明核周晕（“油煎蛋”外观）的均匀细胞组成。吻合毛细血管以鸡笼状模式排列，可能包围这些细胞。\n\n(选项G) 毛细胞型星形细胞瘤也发生在小脑中，但通常具有囊性外观。显微镜检查显示双极细胞，带有毛发状突起，并有螺旋状外观的嗜酸性纤维（即，Rosenthal纤维）。"
+  },
+  "summary": {
+    "en": "This question tests the knowledge of common pediatric brain tumors, specifically focusing on the clinical presentation, imaging findings (MRI), and histopathological characteristics of medulloblastoma. It requires differentiating medulloblastoma from other central nervous system tumors based on location, cell morphology, and presence of specific structures like Homer-Wright rosettes.\n\nTo solve this question, one should first identify the key features from the clinical vignette: pediatric patient, posterior fossa mass, symptoms of increased intracranial pressure and cerebellar dysfunction. Then, correlate these with the MRI findings and the biopsy description of small, basophilic cells with high mitotic activity. Finally, compare these findings with the typical characteristics of the listed differential diagnoses to arrive at the most likely diagnosis.",
+    "zh": "此题考察了常见儿童脑肿瘤的知识，特别侧重于髓母细胞瘤的临床表现、影像学发现（MRI）和组织病理学特征。它需要根据位置、细胞形态以及Homer-Wright玫瑰花结等特定结构的存在，将髓母细胞瘤与其他中枢神经系统肿瘤区分开来。\n\n要解决这个问题，首先应该从临床病历中识别关键特征：儿科患者、后颅窝肿块、颅内压增高和脑功能障碍的症状。然后，将这些与MRI发现和对具有高有丝分裂活性的小的、嗜碱性细胞的活检描述相关联。最后，将这些发现与所列鉴别诊断的典型特征进行比较，以得出最可能的诊断。"
+  },
+  "tags": "Medulloblastoma; Pediatric brain tumors; Posterior fossa tumors; Cerebellar dysfunction; Increased intracranial pressure; Homer-Wright rosettes; Neuro-oncology; Histopathology; MRI",
+  "category": "Neuro",
+  "question_id": "1259",
+  "has_exhibits": true,
+  "exhibit_count": 9,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg",
+    "image9.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\1259",
+  "extracted_at": "2025-11-05T19:33:24.508808",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:32:34.604857",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

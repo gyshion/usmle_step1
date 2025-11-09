@@ -1,0 +1,59 @@
+{
+  "question_stem": {
+    "en": "A 6-month-old girl is brought to the office by her mother for a check-up appointment. The mother states, \"My baby doesn't seem to be growing much despite feeding as often as my previous children. I'm worried that something is wrong with her.\" Height and weight are below the 10th percentile. Physical examination shows hepatomegaly and hypotonia. Laboratory results show hypoglycemia and ketoacidosis. Liver biopsy shows hepatic fibrosis without fat accumulation. Further analysis reveals excessive amounts of abnormally structured polysaccharides within the cytosol of the hepatocytes.",
+    "zh": "母亲带一名6个月大的女婴到诊所进行检查。母亲说：“我的宝宝似乎并没有像我之前的孩子那样经常进食。我担心她出什么问题了。”身高和体重低于第10百分位数。体格检查显示肝肿大和肌张力减退。实验室结果显示低血糖症和酮症酸中毒。肝活检显示肝纤维化，无脂肪堆积。进一步分析显示肝细胞胞质溶胶内存在过量的结构异常的多糖。"
+  },
+  "question": {
+    "en": "Which of the following enzymes is most likely deficient in this patient?",
+    "zh": "该患者最有可能缺乏下列哪种酶？"
+  },
+  "options": {
+    "A": {
+      "en": "Acid alpha-glucosidase",
+      "zh": "酸性α-葡萄糖苷酶"
+    },
+    "B": {
+      "en": "Glucose-6-phosphatase",
+      "zh": "葡萄糖-6-磷酸酶"
+    },
+    "C": {
+      "en": "Glycogen debrancher enzyme",
+      "zh": "糖原脱支酶"
+    },
+    "D": {
+      "en": "Liver glycogen phosphorylase",
+      "zh": "肝糖原磷酸化酶"
+    },
+    "E": {
+      "en": "Muscle glycogen phosphorylase",
+      "zh": "肌糖原磷酸化酶"
+    },
+    "F": {
+      "en": "Pyruvate kinase",
+      "zh": "丙酮酸激酶"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "{{exhibit_1}}\nGlycogen debrancher deficiency (Cori disease) usually presents early in life with HYPOGLYCEMIA, HEPATOMEGALY, and KETOACIDOSIS. Muscle involvement (eg, weakness, HYPOTONIA) helps distinguish it from other glycogen storage diseases that involve only the liver (eg, von Gierke disease). Another key feature is cytosolic ACCUMULATION OF ABNORMAL GLYCOGEN containing short outer chains (limit dextrins), contributing to HEPATIC FIBROSIS.\n\nDuring glycogenolysis, glycogen phosphorylase shortens glycogen chains by cleaving linkages between glucose residues, liberating glucose-1-phosphate. This occurs until 4 residues remain before a branch point (ie, limit dextrin). From here, debranching enzymes (glycogen debrancher) perform 2 functions:\n1. Glucosyltransferase cleaves the outer 3 of the 4 glucose residues, transferring them to a nearby branch.\n2. Alpha-1,6-glucosidase removes the single remaining residue, producing free glucose and a linear glycogen chain that can be further shortened by glycogen phosphorylase.\n\n(Choice A) Small amounts of glycogen are engulfed by lysosomes and broken down by acid alpha-glucosidase (acid maltase). Acid maltase deficiency (Pompe disease) is characterized by CARDIOMEGALY, severe generalized hypotonia, and lysosomal glycogen accumulation (hypoglycemia is not seen). The patient's presentation with significant hypoglycemia and hepatic fibrosis is not typical for Pompe disease.\n\n(Choice B) Glucose-6-phosphatase deficiency (von Gierke disease) affects mainly the liver and kidney because the enzyme is not expressed in significant quantities in muscle tissue. Major symptoms include HYPOGLYCEMIA, LACTIC ACIDOSIS, and HYPERLIPIDEMIA. HEPATIC STEATOSIS (fatty liver) is a cardinal manifestation. While hypoglycemia and hepatomegaly are present, the absence of lactic acidosis, hyperlipidemia, and the specific finding of hepatic fibrosis without fat accumulation and abnormally structured glycogen differentiate this from von Gierke disease.\n\n(Choice D) Liver glycogen phosphorylase deficiency (Hers disease) presents in early childhood with mild hypoglycemia, ketosis, and hepatomegaly. However, it does not affect skeletal muscles (thus, no hypotonia) and shows an excess of NORMALLY STRUCTURED GLYCOGEN (not abnormally short \"limit dextrins\") on liver biopsy.\n\n(Choice E) Muscle glycogen phosphorylase deficiency (McArdle disease) presents with decreased exercise tolerance, muscle cramping during strenuous activity, and myoglobinuria. Blood lactate is often very low after exercise, and muscle biopsy shows an excess of NORMALLY STRUCTURED GLYCOGEN. This condition primarily affects skeletal muscle and typically does not cause hypoglycemia or significant hepatomegaly.\n\n(Choice F) Pyruvate kinase (PK) converts phosphoenolpyruvate to pyruvate during glycolysis. PK deficiency causes CHRONIC HEMOLYTIC ANEMIA because glycolysis is the main source of energy for erythrocytes. This is unrelated to glycogen storage disorders and the patient's symptoms.\n\nEducational objective: Glycogen debrancher deficiency (Cori disease) causes ACCUMULATION OF GLYCOGEN WITH ABNORMALLY SHORT OUTER CHAINS (limit dextrins) due to the inability to degrade branch points. Patients have HYPOGLYCEMIA, KETOACIDOSIS, HEPATOMEGALY, MUSCLE WEAKNESS, and HYPOTONIA.",
+    "zh": "{{exhibit_1}}\n糖原脱支酶缺乏症（Cori病）通常在生命早期表现为低血糖症、肝肿大和酮症酸中毒。肌肉受累（如无力、肌张力减退）有助于将其与其他仅涉及肝脏的糖原贮积病（如von Gierke病）区分开来。另一个关键特征是细胞溶质中异常糖原的积累，其中含有短的侧链（极限糊精），导致肝纤维化。\n\n在糖原分解过程中，糖原磷酸化酶通过裂解葡萄糖残基之间的连接，释放葡萄糖-1-磷酸盐来缩短糖原链。这种情况会持续到分支点前还剩4个残基（即极限糊精）。从这里开始，脱支酶（糖原脱支酶）执行2个功能：\n1. 葡萄糖转移酶裂解4个葡萄糖残基中的外3个，将它们转移到附近的分支上。\n2. α-1,6-葡萄糖苷酶去除剩余的单个残基，产生游离葡萄糖和一条线性糖原链，该链可以被糖原磷酸化酶进一步缩短。\n\n（选项A）少量糖原被溶酶体吞噬，并被酸性α-葡萄糖苷酶（酸性麦芽糖酶）分解。酸性麦芽糖酶缺乏症（Pompe病）的特征是心肌肥大、严重的全身性肌张力减退和溶酶体糖原积累（未见低血糖症）。患者出现明显的低血糖症和肝纤维化，这并非Pompe病的典型表现。\n\n（选项B）葡萄糖-6-磷酸酶缺乏症（von Gierke病）主要影响肝脏和肾脏，因为该酶在肌肉组织中的表达量不高。主要症状包括低血糖症、乳酸酸中毒和高脂血症。肝脂肪变性（脂肪肝）是主要表现。虽然存在低血糖症和肝肿大，但缺乏乳酸酸中毒、高脂血症，以及肝纤维化且无脂肪堆积和结构异常的糖原，这使得其与von Gierke病有所区别。\n\n（选项D）肝糖原磷酸化酶缺乏症（Hers病）在儿童早期表现为轻度低血糖症、酮症和肝肿大。然而，它不影响骨骼肌（因此，无肌张力减退），并且在肝活检中显示正常结构的糖原过量（不是异常短的“极限糊精”）。\n\n（选项E）肌糖原磷酸化酶缺乏症（McArdle病）表现为运动耐受力下降、剧烈活动期间的肌肉痉挛和肌红蛋白尿。运动后血乳酸通常非常低，肌肉活检显示正常结构的糖原过量。这种情况主要影响骨骼肌，通常不会引起低血糖症或明显的肝肿大。\n\n（选项F）丙酮酸激酶（PK）在糖酵解过程中将磷酸烯醇式丙酮酸转化为丙酮酸。PK缺乏会导致慢性溶血性贫血，因为糖酵解是红细胞的主要能量来源。这与糖原贮积病和患者的症状无关。\n\n教育目标：糖原脱支酶缺乏症（Cori病）导致由于无法降解分支点而导致异常短的侧链（极限糊精）的糖原积累。患者出现低血糖症、酮症酸中毒、肝肿大、肌无力和肌张力减退。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of glycogen storage diseases (GSDs), specifically the clinical presentation, laboratory findings, and liver biopsy characteristics of Glycogen debrancher deficiency (Cori disease). It also assesses the ability to differentiate Cori disease from other GSDs and metabolic disorders based on key distinguishing features.\nTo solve this, identify the combination of hypoglycemia, ketoacidosis, hepatomegaly, and hypotonia in an infant, along with the crucial liver biopsy finding of hepatic fibrosis and the accumulation of *abnormally structured polysaccharides*. This specific pattern strongly indicates a defect in the glycogen debranching enzyme, allowing for differentiation from other GSDs that have distinct symptoms or types of glycogen accumulation.",
+    "zh": "这个问题测试了对糖原贮积病（GSDs）的知识，特别是糖原脱支酶缺乏症（Cori病）的临床表现、实验室发现和肝活检特征。它还评估了基于关键的区别特征，将Cori病与其他GSDs和代谢紊乱区分开来的能力。\n要解决这个问题，需要确定婴儿中低血糖症、酮症酸中毒、肝肿大和肌张力减退的组合，以及肝纤维化的重要肝活检发现和*结构异常的多糖*的积累。这种特定的模式强烈表明糖原脱支酶存在缺陷，从而可以与其他具有不同症状或糖原积累类型的GSDs区分开来。"
+  },
+  "tags": "Glycogen storage disease; Cori disease; Glycogen debrancher deficiency; Hypoglycemia; Ketoacidosis; Hepatomegaly; Hypotonia; Hepatic fibrosis; Pediatrics; Biochemistry; Metabolic disorders",
+  "category": "Bio",
+  "question_id": "1030",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1030",
+  "extracted_at": "2025-11-05T10:21:13.631884",
+  "translated_at": "2025-11-07T15:43:21.332993",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

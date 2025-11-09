@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old man is hospitalized with severe abdominal pain associated with nausea and vomiting. Laboratory studies show marked elevation of serum amylase and lipase. He has a history of heavy alcohol use. During hospitalization, his condition deteriorates and he develops severe respiratory distress. There are crackles bilaterally on physical examination and diffuse patchy infiltrates bilaterally on chest x-ray {{exhibit_1}}. The patient fails to improve with mechanical ventilation and 100% oxygen and dies 4 days later due to progressive respiratory failure.",
+    "zh": "一名 55 岁男性因严重腹痛、恶心和呕吐而住院。实验室研究显示血清淀粉酶和脂肪酶显著升高。他有长期大量饮酒史。住院期间，他的病情恶化并出现严重的呼吸窘迫。体格检查双侧可闻及爆裂音，胸片 {{exhibit_1}} 显示双侧弥漫性斑片状浸润。患者在机械通气和 100% 氧气治疗下未见改善，4 天后因进行性呼吸衰竭死亡。"
+  },
+  "question": {
+    "en": "Which of the following autopsy findings is most likely in this patient?",
+    "zh": "该患者最有可能出现以下哪种尸检结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Alveolar hyaline membranes",
+      "zh": "肺泡透明膜"
+    },
+    "B": {
+      "en": "Cardiomegaly",
+      "zh": "心脏肥大"
+    },
+    "C": {
+      "en": "Foci of anaerobic pulmonary infection",
+      "zh": "厌氧性肺部感染病灶"
+    },
+    "D": {
+      "en": "Intraalveolar hemorrhage",
+      "zh": "肺泡内出血"
+    },
+    "E": {
+      "en": "Lung hyperinflation",
+      "zh": "肺过度充气"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient with pancreatitis and subsequent respiratory failure likely has ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS). Pancreatitis is a major risk factor for ARDS as it results in the release of large amounts of inflammatory cytokines and pancreatic enzymes into the circulation, which leads to infiltration of NEUTROPHILS into the pulmonary interstitium and alveolar spaces. Diffuse injury to the alveolar epithelium and pulmonary microvascular endothelium results in a leaky alveolocapillary membrane and significant pulmonary edema.\n\nARDS is typically characterized by progressive hypoxemia refractory to oxygen therapy and diffuse interstitial edema in the absence of cardiogenic causes. During the first 1-6 days, interstitial and intraalveolar edema, inflammation, and fibrin deposition cause the alveoli to become lined with waxy hyaline membranes. These membranes consist of fibrin exudate and inspissated protein-rich edema fluid mixed with the remnants of necrotic epithelial cells.\n\n(Choice B) If this patient's rapid-onset dyspnea were due to cardiogenic pulmonary edema, as can occur in decompensated heart failure, or if the patient had chronic heart failure due to alcohol use, chest x-ray would likely reveal cardiomegaly.\n\n(Choice C) This patient is at risk of aspiration; however, aspiration pneumonia due to anaerobic bacteria commonly presents more indolently and is more likely to show an abscess or empyema than diffuse patchy opacities on chest x-ray.\n\n(Choice D) Although disseminated intravascular coagulation and ARDS can result in alveolar hemorrhage, the absence of hemoptysis makes this choice less likely.\n\n(Choice E) Lung hyperinflation may be seen in emphysema, which is a chronic, destructive enlargement of the air spaces distal to the terminal bronchiole.\n\nEducational objective: Pancreatitis is a major risk factor for acute respiratory distress syndrome as it results in the release of large amounts of inflammatory cytokines and pancreatic enzymes, which leads to activation of neutrophils in the alveolar tissues. During the initial phase, interstitial and intraalveolar edema, inflammation, and fibrin deposition cause the alveoli to become lined with waxy hyaline membranes.",
+    "zh": "该胰腺炎继发呼吸衰竭的患者可能患有急性呼吸窘迫综合征 (ARDS)。胰腺炎是 ARDS 的主要危险因素，因为它会导致大量炎症细胞因子和胰酶释放到循环中，导致中性粒细胞浸润到肺间质和肺泡腔。肺泡上皮和肺微血管内皮的弥漫性损伤导致肺泡毛细血管膜渗漏，并出现显著的肺水肿。\n\nARDS 的典型特征是进行性低氧血症，对氧疗无效，并且在没有心源性原因的情况下出现弥漫性间质水肿。在最初的 1-6 天内，间质和肺泡内水肿、炎症和纤维蛋白沉积导致肺泡被蜡样透明膜覆盖。这些膜由纤维蛋白渗出物和浓缩的富含蛋白质的水肿液混合坏死上皮细胞的残余物组成。\n\n(选项 B) 如果该患者的快速起病的呼吸困难是由心源性肺水肿引起的，如失代偿性心力衰竭时发生，或者如果该患者因饮酒而患有慢性心力衰竭，胸片很可能显示心脏肥大。\n\n(选项 C) 该患者有误吸风险；然而，由厌氧菌引起的吸入性肺炎通常表现得更迟缓，并且更有可能显示脓肿或脓胸，而不是胸片上的弥漫性斑片状不透光影。\n\n(选项 D) 虽然弥漫性血管内凝血和 ARDS 可导致肺泡出血，但无咯血使该选项的可能性降低。\n\n(选项 E) 肺过度充气可见于肺气肿，肺气肿是终末细支气管远端气腔的慢性、破坏性扩大。\n\n教育目的：胰腺炎是急性呼吸窘迫综合征的主要危险因素，因为它会导致大量炎症细胞因子和胰酶释放，从而导致肺泡组织中中性粒细胞的激活。在初始阶段，间质和肺泡内水肿、炎症和纤维蛋白沉积导致肺泡被蜡样透明膜覆盖。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of acute respiratory distress syndrome (ARDS) and its association with pancreatitis, focusing on the pathological findings at autopsy. It requires understanding the pathophysiology of ARDS, particularly the formation of hyaline membranes in the alveoli.\n\nTo solve this question, recognize the risk factors for ARDS (pancreatitis), identify the clinical presentation (respiratory distress, hypoxemia), and recall the characteristic pathological finding (hyaline membranes). Rule out other causes of respiratory distress based on the clinical context and expected findings.",
+    "zh": "本题考察对急性呼吸窘迫综合征 (ARDS) 及其与胰腺炎相关的知识，重点关注尸检时的病理发现。它需要理解 ARDS 的病理生理学，特别是肺泡透明膜的形成。\n\n要解决这个问题，需要识别 ARDS 的危险因素（胰腺炎），确定临床表现（呼吸窘迫、低氧血症），并回忆特征性的病理发现（透明膜）。根据临床背景和预期发现排除呼吸窘迫的其他原因。"
+  },
+  "tags": "Acute respiratory distress syndrome; ARDS; Pancreatitis; Hyaline membranes; Pulmonary pathology; Respiratory failure; Alveolar damage; Cytokine storm; Neutrophil infiltration; Autopsy findings",
+  "category": "Chest",
+  "question_id": "485",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\485",
+  "extracted_at": "2025-11-05T11:45:38.528215",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:39:59.472755",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

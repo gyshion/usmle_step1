@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 6-month-old girl is brought to the clinic for a routine care appointment. The patient has had no illnesses, although the mother says that she has trouble latching when breastfeeding. She can roll over when prone but cannot roll from the supine position or sit unsupported. The patient was born vaginally after an uncomplicated pregnancy. Vital signs are within normal limits. On physical examination, she has a head circumference above the 97th percentile for age and a full anterior fontanelle. At birth, the patient's head circumference was at the 50th percentile. The remainder of the physical examination is unremarkable. CT scan of the head reveals significant dilation of the lateral ventricles {{exhibit_1}}. If this patient's condition is left uncorrected, which of the following complications is most likely to develop?",
+    "zh": "一名 6 个月大的女婴因常规护理预约而被带到诊所。患者没有患过任何疾病，但母亲说她在母乳喂养时难以含乳。她可以趴着翻身，但不能从仰卧位翻身或坐着不受支撑。患者在无并发症的妊娠后阴道分娩。生命体征在正常范围内。体格检查显示，她的头围高于同龄人的第 97 个百分位数，前囟饱满。出生时，患者的头围位于第 50 个百分位数。其余体格检查无特殊发现。头部 CT 扫描显示侧脑室显着扩张 {{exhibit_1}}。如果该患者的病情未得到纠正，最有可能出现以下哪种并发症？"
+  },
+  "question": {
+    "en": "If this patient's condition is left uncorrected, which of the following complications is most likely to develop?",
+    "zh": "如果该患者的病情未得到纠正，最有可能出现以下哪种并发症？"
+  },
+  "options": {
+    "A": {
+      "en": "Lower extremity hyporeflexia",
+      "zh": "下肢反射减弱"
+    },
+    "B": {
+      "en": "Medulloblastoma",
+      "zh": "髓母细胞瘤"
+    },
+    "C": {
+      "en": "Meningitis",
+      "zh": "脑膜炎"
+    },
+    "D": {
+      "en": "Muscle spasticity",
+      "zh": "肌肉痉挛"
+    },
+    "E": {
+      "en": "Subarachnoid hemorrhage",
+      "zh": "蛛网膜下腔出血"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has delayed gross motor milestones, an enlarging head circumference, and ventriculomegaly on imaging, findings consistent with hydrocephalus {{exhibit_2}}. Hydrocephalus is caused by the abnormal accumulation of cerebrospinal fluid (CSF) in the brain. In infants, it is usually due to impaired drainage of CSF from either structural malformation (eg, aqueductal stenosis, Chiari malformations, Dandy-Walker syndrome) or postinfectious fibrosis (eg, cytomegalovirus, toxoplasmosis, meningitis); it can also be due to obstruction resulting from intraventricular hemorrhage.\n\nInfants with hydrocephalus typically have an enlarging head circumference (ie, macrocephaly) inappropriate to their height and weight; developmental delay often occurs and poor feeding is common. Classic features of increased intracranial pressure (eg, irritability, vomiting, papilledema) may not be present because the open fontanelle allows for volume expansion with less of an increase in pressure. Muscle spasticity and hyperreflexia result from upper motor neuron injury caused by stretching of the periventricular pyramidal tracts. Seizures can also occur.\n\nDiagnosis is confirmed with neuroimaging (eg, ultrasound, CT scan or MRI of the head). Treatment requires surgical placement of a shunt to bypass the obstruction, most often via the ventriculoperitoneal route.\n\n(Choice A) Lower extremity hyporeflexia would result from damage to the lower motor neurons; hydrocephalus impacts the upper motor neurons.\n\n(Choice B) A medulloblastoma can lead to compression of the cerebral aqueduct and result in obstructive hydrocephalus that spares the fourth ventricle. However, hydrocephalus does not predispose to development of medulloblastoma.\n\n(Choice C) Meningitis can lead to fibrosis that obstructs the flow of CSF and leads to hydrocephalus. Patients with implanted shunt devices are also at increased risk for meningitis. However, untreated hydrocephalus does not increase the risk for meningitis.\n\n(Choice E) Subarachnoid hemorrhage can cause inflammation and resulting fibrosis of the arachnoid granulations, leading to impaired resorption of CSF. Therefore, subarachnoid hemorrhage can be a cause, but not a consequence, of hydrocephalus.\n\nEducational objective:\nCongenital hydrocephalus often presents with macrocephaly and poor feeding. Imaging studies showing enlarged ventricles are diagnostic. Untreated hydrocephalus leads to developmental delays, poor growth, and muscle spasticity (due to stretching of the periventricular pyramidal tracts). {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "该患者出现粗大运动发育迟缓、头围增大以及影像学上的脑室扩大，这些发现与脑积水 {{exhibit_2}} 相符。脑积水是由脑内脑脊液 (CSF) 异常积聚引起的。在婴儿中，这通常是由于 CSF 引流受损所致，可能是结构畸形（例如，导水管狭窄、Chiari 畸形、Dandy-Walker 综合征）或感染后纤维化（例如，巨细胞病毒、弓形虫病、脑膜炎）；它也可能是由脑室内出血引起的阻塞所致。\n\n患有脑积水的婴儿通常有不断增大的头围（即，巨头畸形），与其身高和体重不符；通常会出现发育迟缓，并且喂养困难。颅内压增高（例如，烦躁、呕吐、视乳头水肿）的典型特征可能不存在，因为开放的前囟允许体积扩张，而压力增加较小。肌肉痉挛和反射亢进是由室周锥体束的牵张引起的上运动神经元损伤所致。也可能发生癫痫发作。\n\n通过神经影像学检查（例如，头部超声、CT 扫描或 MRI）可确诊。治疗需要手术放置分流器以绕过阻塞，最常通过脑室腹腔途径。\n\n(选项 A) 下肢反射减弱是由于下运动神经元损伤所致；脑积水影响上运动神经元。\n\n(选项 B) 髓母细胞瘤可导致大脑导水管受压，并导致阻塞性脑积水，但保留第四脑室。然而，脑积水并不能使人更容易患上髓母细胞瘤。\n\n(选项 C) 脑膜炎可导致纤维化，从而阻塞 CSF 的流动并导致脑积水。植入分流装置的患者也面临脑膜炎的风险增加。然而，未经治疗的脑积水不会增加患脑膜炎的风险。\n\n(选项 E) 蛛网膜下腔出血可引起炎症并导致蛛网膜颗粒纤维化，导致 CSF 吸收受损。因此，蛛网膜下腔出血可能是脑积水的原因，而不是其后果。\n\n教育目标：\n先天性脑积水常表现为巨头畸形和喂养不良。影像学检查显示脑室增大具有诊断意义。未经治疗的脑积水会导致发育迟缓、生长不良和肌肉痉挛（由于室周锥体束的牵张）。 {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the clinical presentation, pathophysiology, and complications of untreated hydrocephalus in infants. It assesses the ability to recognize the signs and symptoms of hydrocephalus and predict the likely neurological sequelae if left uncorrected.\n\nThe key to solving this question is to identify the findings suggestive of hydrocephalus (macrocephaly, dilated ventricles) and understand the resulting upper motor neuron injury. Recognizing that hydrocephalus leads to increased intracranial pressure and subsequent neurological deficits is crucial.",
+    "zh": "此题考察了对婴儿未治疗脑积水的临床表现、病理生理学和并发症的了解。它评估了识别脑积水的体征和症状并预测如果未纠正可能出现的神经系统后遗症的能力。\n\n解决此题的关键是确定提示脑积水的发现（巨头畸形、脑室扩张）并了解由此产生的上运动神经元损伤。认识到脑积水会导致颅内压增高和随后的神经系统缺陷至关重要。"
+  },
+  "tags": "Hydrocephalus; Macrocephaly; Ventriculomegaly; Muscle spasticity; Neurological development; Pediatrics; Congenital disorders; Intracranial pressure; Upper motor neuron lesion",
+  "category": "Neuro",
+  "question_id": "1854",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1854",
+  "extracted_at": "2025-11-05T15:25:10.476565",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:22:07.285066",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A study to assess spironolactone's efficacy in patients with heart failure is performed. 450 patients receive either spironolactone or placebo for two years. Neither the patients nor physicians are aware of who takes the drug or placebo. The study setup described above is most effective in preventing:",
+    "zh": "一项评估螺内酯在心力衰竭患者中疗效的研究正在进行。450 名患者接受螺内酯或安慰剂治疗两年。患者和医生都不知道谁服用药物或安慰剂。上述研究设置在预防以下哪项方面最有效："
+  },
+  "question": {
+    "en": "",
+    "zh": ""
+  },
+  "options": {
+    "A": {
+      "en": "Beta error",
+      "zh": "β 错误"
+    },
+    "B": {
+      "en": "Recall bias",
+      "zh": "回忆偏倚"
+    },
+    "C": {
+      "en": "Observer bias",
+      "zh": "观察者偏倚"
+    },
+    "D": {
+      "en": "Effect modification",
+      "zh": "效应修饰"
+    },
+    "E": {
+      "en": "Selection bias",
+      "zh": "选择偏倚"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Blinding technique is commonly used in clinical trials. The blinding can involve patients exclusively or both patients and physicians (DOUBLE BLINDING). The main purpose of BLINDING is to prevent PATIENT or RESEARCHER EXPECTANCY from interfering with the determination of an outcome. For example, a researcher's belief in a positive outcome in treated patients can potentially result in OBSERVER BIAS.\n\n(Choice A) BETA ERROR refers to a conclusion that there is no difference between the groups studied when a difference truly exists. BETA ERROR is a RANDOM ERROR, not a SYSTEMATIC ERROR (i.e., bias).\n\n(Choice B) RECALL BIAS results from the inaccurate recall of past exposure by subjects. It applies mostly to case-control studies.\n\n(Choice D) EFFECT MODIFICATION is not a bias and should not be controlled.\n\n(Choice E) SELECTION BIAS results from the manner in which people are selected for the study, or from the selective losses from follow-up.",
+    "zh": "盲法技术常用于临床试验。盲法可以只涉及患者，也可以同时涉及患者和医生（双盲）。盲的主要目的是防止患者或研究者的期望干扰结果的确定。例如，研究者相信治疗患者会取得积极的结果，这可能导致观察者偏倚。\n\n（选项 A）β 错误是指当研究组之间确实存在差异时，得出的结论是它们之间没有差异。β 错误是随机误差，而不是系统误差（即偏倚）。\n\n（选项 B）回忆偏倚是由于受试者对过去暴露的回忆不准确造成的。它主要适用于病例对照研究。\n\n（选项 D）效应修饰不是偏倚，不应受到控制。\n\n（选项 E）选择偏倚是由于人们被选择参与研究的方式，或由于选择性失访而导致的。"
+  },
+  "summary": {
+    "en": "1) Study design; Bias 2) Double blinding prevents observer bias",
+    "zh": "1) 研究设计；偏倚 2) 双盲可防止观察者偏倚"
+  },
+  "tags": "Study design; Bias; Double blinding; Observer bias",
+  "category": "Bio",
+  "question_id": "1301",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1301",
+  "extracted_at": "2025-11-05T10:58:49.172936",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:20:39.294676",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

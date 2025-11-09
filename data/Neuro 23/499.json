@@ -1,0 +1,75 @@
+{
+  "question_stem": {
+    "en": "A 75-year-old man is brought to the emergency department due to problems with vision and right-sided hemisensory loss that started an hour ago. While in the emergency department, his symptoms gradually worsen and he develops a headache. Head CT reveals multiple, small lobar hemorrhages of varying ages in the occipital and parietal areas with a medium-size acute bleed in the left parietooccipital lobe. Two years ago, the patient developed sudden right arm weakness; neuroimaging at that time demonstrated a small left frontal lobe hemorrhage. He has no head trauma and does not use anticoagulants.",
+    "zh": "一名75岁男性因视力问题和一小时前开始出现的右侧半身感觉缺失被送往急诊科。在急诊科期间，他的症状逐渐恶化，并出现头痛。头部CT显示枕叶和顶叶区域有多发、不同年龄的小叶出血，左侧顶枕叶有一个中等大小的急性出血。两年前，患者出现右臂突然无力；当时的神经影像学检查显示左额叶小出血。他没有头部外伤，也没有使用抗凝剂。"
+  },
+  "question": {
+    "en": "This patient most likely suffers from which of the following?",
+    "zh": "该患者最有可能患有以下哪种疾病？"
+  },
+  "options": {
+    "A": {
+      "en": "Arteriovenous malformation",
+      "zh": "动静脉畸形"
+    },
+    "B": {
+      "en": "Cardiac embolism",
+      "zh": "心脏栓塞"
+    },
+    "C": {
+      "en": "Carotid artery atherosclerosis",
+      "zh": "颈动脉粥样硬化"
+    },
+    "D": {
+      "en": "Cerebral amyloid angiopathy",
+      "zh": "脑淀粉样血管病"
+    },
+    "E": {
+      "en": "Charcot-Bouchard aneurysm",
+      "zh": "Charcot-Bouchard 动脉瘤"
+    },
+    "F": {
+      "en": "Hypertensive encephalopathy",
+      "zh": "高血压脑病"
+    },
+    "G": {
+      "en": "Hypoxic encephalopathy",
+      "zh": "缺氧性脑病"
+    },
+    "H": {
+      "en": "Saccular aneurysm",
+      "zh": "囊性动脉瘤"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This elderly patient likely has recurrent lobar hemorrhage due to cerebral amyloid angiopathy. Amyloid angiopathy is a consequence of β-amyloid deposition in the walls of small- to medium-sized cerebral arteries, resulting in vessel wall weakening and predisposition to rupture. The disease is not associated with systemic amyloidoses; rather, the amyloidogenic proteins are usually the same as those seen in Alzheimer disease.\n\nAmyloid angiopathy is the most common cause of spontaneous lobar hemorrhage, particularly in adults age >60. Hemorrhage tends to recurrent and most often involves the occipital and parietal lobes. Occipital lobe hemorrhage is typically associated with homonymous hemianopsia; parietal hemorrhages can cause contralateral hemisensory loss. Frontal lobe hemorrhage is less common but may result in contralateral hemiparesis.\n\n(Choice A) Brain arteriovenous malformation is the most common cause of intracranial hemorrhage in children and tends to be a single lesion. This patient's older age and multifocal hemorrhages make the diagnosis less likely.\n\n(Choices B and C) Carotid artery atherosclerosis and cardiac embolism may cause acute ischemic stroke, which typically presents with sudden neurologic deficits that are maximal at symptom onset. Embolic stroke can present with multiple infarcts involving the cerebral cortex and has a higher likelihood of spontaneous hemorrhagic transformation. However, hemorrhagic transformation would be rare within hours of symptom onset. In addition, this patient's gradually worsening symptoms are more consistent with hemorrhagic stroke.\n\n(Choice E) Charcot-Bouchard aneurysm rupture is usually due to chronic hypertension and typically causes hemorrhage involving deep brain structures (eg, basal ganglia, cerebellar nuclei, thalamus, pons). This patient's recurrent lobar hemorrhages make this less likely.\n\n(Choice F) Hypertensive encephalopathy is characterized by progressive headache and nausea/vomiting followed by nonlocalizing neurologic symptoms (eg, confusion). This patient's focal neurologic deficits and evidence of hemorrhage on neuroimaging exclude this diagnosis.\n\n(Choice G) Hypoxic encephalopathy occurs from global interruption of the cerebral blood supply (eg, due to cardiac arrest). It most often presents with decreased consciousness (eg, coma, vegetative state) as opposed to focal neurologic deficits with lobar hemorrhage.\n\n(Choice H) Saccular aneurysm rupture is typically associated with subarachnoid hemorrhage as opposed to intraparenchymal hematoma. Patients usually have an abrupt onset of severe headache (thunderclap headache), and focal neurologic deficits are less common. On CT, subarachnoid hemorrhage appears as hyperattenuation of the sulci and basal cisterns.\n\nEducational objective: Cerebral amyloid angiopathy is the most common cause of spontaneous lobar hemorrhage, particularly in the elderly. The most common sites of hemorrhage include the occipital and parietal lobes.",
+    "zh": "这位老年患者很可能因脑淀粉样血管病导致复发性脑叶出血。淀粉样血管病是β-淀粉样蛋白沉积于中小脑动脉壁的结果，导致血管壁变薄和易于破裂。该病与全身性淀粉样变性无关；相反，淀粉样蛋白通常与阿尔茨海默病中看到的相同。\n\n淀粉样血管病是自发性脑叶出血最常见的原因，尤其是在60岁以上的老年人中。出血往往是复发性的，最常累及枕叶和顶叶。枕叶出血通常与同侧偏盲有关；顶叶出血可引起对侧半身感觉缺失。额叶出血较少见，但可能导致对侧轻偏瘫。\n\n（选项 A）脑动静脉畸形是儿童颅内出血最常见的原因，并且往往是单发病灶。该患者的年龄较大和多灶性出血使该诊断不太可能。\n\n（选项 B 和 C）颈动脉粥样硬化和心脏栓塞可引起急性缺血性卒中，其典型表现为起病时达到峰值的神经功能缺损。栓塞性卒中可表现为涉及大脑皮质的多发梗死，并且自发性出血转化的可能性较高。然而，出血转化在症状出现后数小时内很少发生。此外，该患者逐渐恶化的症状更符合出血性卒中。\n\n（选项 E）Charcot-Bouchard 动脉瘤破裂通常是由于慢性高血压，并且通常导致涉及深部脑结构（如基底神经节、小脑核、丘脑、脑桥）的出血。该患者的复发性脑叶出血使这种情况不太可能。\n\n（选项 F）高血压脑病的特征是进行性头痛和恶心/呕吐，然后是非定位性神经系统症状（如意识模糊）。该患者的局灶性神经功能缺损和神经影像学上的出血证据排除了该诊断。\n\n（选项 G）缺氧性脑病是由脑血供应全局中断（例如，由于心脏骤停）引起的。它最常表现为意识下降（例如，昏迷、植物人状态），而不是伴有脑叶出血的局灶性神经功能缺损。\n\n（选项 H）囊性动脉瘤破裂通常与蛛网膜下腔出血有关，而不是脑实质内血肿。患者通常突然出现剧烈头痛（雷击样头痛），并且局灶性神经功能缺损较少见。在 CT 上，蛛网膜下腔出血表现为脑沟和基底池的密度增高。\n\n教育目标：脑淀粉样血管病是自发性脑叶出血最常见的原因，尤其是在老年人中。最常见的出血部位包括枕叶和顶叶。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the etiology and presentation of lobar hemorrhages, specifically cerebral amyloid angiopathy (CAA). CAA is a common cause of spontaneous lobar hemorrhage in elderly patients. \n\nThe key to solving this question is recognizing the patient's age, the recurrent nature of the hemorrhages, and the location of the hemorrhages (occipital and parietal lobes). This clinical picture is most consistent with cerebral amyloid angiopathy.",
+    "zh": "这个问题测试了关于脑叶出血的病因和表现的知识，特别是脑淀粉样血管病 (CAA)。CAA 是老年患者自发性脑叶出血的常见原因。\n\n解决这个问题的关键是认识到患者的年龄、出血的复发性质以及出血的部位（枕叶和顶叶）。这种临床表现与脑淀粉样血管病最为一致。"
+  },
+  "tags": "Cerebral amyloid angiopathy; Lobar hemorrhage; Neurology; Geriatrics; Neuroimaging; Hemorrhagic stroke; Beta-amyloid; Occipital lobe; Parietal lobe",
+  "category": "Neuro",
+  "question_id": "499",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\499",
+  "extracted_at": "2025-11-05T15:34:58.857177",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:26:46.581707",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

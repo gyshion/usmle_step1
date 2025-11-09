@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 27-year-old man comes to the office due to cough, chest discomfort, and dyspnea on exertion. Symptoms began approximately a month ago and were initially mild but have gradually worsened. He has also lost 4.5 kg (10 lb) over the past 2 months. The patient has no chronic medical conditions. He smokes a pack of cigarettes a day and drinks an average of 4 beers each weekend. The patient does not use illegal drugs and has not had multiple sexual partners. Physical examination is unremarkable. Chest imaging reveals a large, anterior mediastinal mass. Subsequent blood work shows elevated levels of β-hCG and alpha fetoprotein.",
+    "zh": "一名27岁男性因咳嗽、胸部不适和劳力性呼吸困难前来就诊。症状大约一个月前开始，最初较轻微，但逐渐恶化。过去2个月，他还减轻了4.5公斤（10磅）体重。患者无慢性病史。他每天吸一包香烟，并且每个周末平均喝4杯啤酒。患者不使用非法药物，也没有多个性伴侣。体格检查无特殊发现。胸部影像学检查显示前纵隔巨大肿块。随后的血液检查显示β-hCG和甲胎蛋白水平升高。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Benign teratoma",
+      "zh": "良性畸胎瘤"
+    },
+    "B": {
+      "en": "Bronchogenic cyst",
+      "zh": "支气管源性囊肿"
+    },
+    "C": {
+      "en": "Hodgkin lymphoma",
+      "zh": "霍奇金淋巴瘤"
+    },
+    "D": {
+      "en": "Nonseminomatous germ cell tumor",
+      "zh": "非精原细胞瘤性生殖细胞肿瘤"
+    },
+    "E": {
+      "en": "Seminoma",
+      "zh": "精原细胞瘤"
+    },
+    "F": {
+      "en": "Thymoma",
+      "zh": "胸腺瘤"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Masses that arise within the mediastinum are typically classified according to their compartment. Within the anterior mediastinum, the most common etiologies are the 4 Ts: thymoma, teratoma (and other germ cell tumors [GCTs]), \"terrible\" lymphoma, and thyroid neoplasm. This patient with a large, anterior mediastinal mass and elevated β-hCG and alpha fetoprotein (AFP) levels most likely has a GCT.\n\nIn adults, the anterior mediastinum is the most common location for extragonadal GCTs, which may be either benign (eg, benign teratoma) or malignant (eg, seminomas, nonseminomatous GCTs). These occur predominantly in young men and can cause chest discomfort and compressive symptoms (eg, cough, dyspnea) due to mass effect on adjacent structures (eg, trachea). GCT type can usually be distinguished by differences in serum tumor markers:\n\n*   Seminomas may cause elevated β-hCG levels in a minority of cases, but AFP is almost always normal (Choice E).\n*   Nonseminomatous GCTs (eg, yolk sac tumor, choriocarcinoma, embryonal carcinoma) cause elevated AFP and/or β-HCG in the majority (~85%) of patients.\n*   Teratomas that are benign (vs malignant) do not typically produce elevated AFP or β-HCG (Choice A).\n\n(Choice B) Bronchogenic cysts, congenital cysts that arise due to abnormal development of the bronchopulmonary foregut, are an uncommon cause of mediastinal mass; they are typically located in the middle (vs the anterior) mediastinum and do not cause elevated AFP and β-HCG levels.\n\n(Choice C) Lymphomas, including Hodgkin Lymphoma, can arise in any of the mediastinal compartments, including the anterior mediastinum. They can cause weight loss but classically produce additional systemic symptoms (eg, fever, night sweats); they do not cause elevated AFP and β-HCG levels.\n\n(Choice F) Thymomas are a common cause of anterior mediastinal mass. However, they do not cause elevated AFP and β-HCG levels, and they are often associated with paraneoplastic syndromes (eg, myasthenia gravis).\n\nEducational objective:\nThe most common masses in the anterior mediastinum are the 4 Ts: thymoma, teratoma (and other germ cell tumors), \"terrible\" lymphoma, and thyroid neoplasm. An anterior mediastinal mass with elevated serum levels of alpha fetoprotein and β-hCG is classic for a nonseminomatous germ cell tumor. {{exhibit_1}}",
+    "zh": "纵隔内出现的肿块通常根据其所在间室进行分类。在前纵隔中，最常见的病因是4个T：胸腺瘤、畸胎瘤（和其他生殖细胞肿瘤[GCTs]）、“可怕的”淋巴瘤和甲状腺肿瘤。该患者有前纵隔巨大肿块，β-hCG和甲胎蛋白（AFP）水平升高，最有可能患有GCT。\n\n在成人中，前纵隔是纵隔外生殖细胞肿瘤最常见的发生部位，其可以是良性的（例如，良性畸胎瘤）或恶性的（例如，精原细胞瘤、非精原细胞瘤性GCT）。这些主要发生在年轻男性中，由于对邻近结构（例如，气管）的压迫效应，可引起胸部不适和压迫症状（例如，咳嗽、呼吸困难）。GCT类型通常可以通过血清肿瘤标志物的差异来区分：\n\n*   精原细胞瘤可能在少数情况下引起β-hCG水平升高，但AFP几乎总是正常的（选项E）。\n*   非精原细胞瘤性GCT（例如，卵黄囊肿瘤、绒毛膜癌、胚胎癌）在大多数（~85%）患者中引起AFP和/或β-HCG升高。\n*   良性（vs恶性）畸胎瘤通常不产生AFP或β-HCG升高（选项A）。\n\n（选项B）支气管源性囊肿，由于支气管肺前肠发育异常而引起的先天性囊肿，是纵隔肿块的一种不常见原因；它们通常位于中纵隔（vs前纵隔），并且不会引起AFP和β-HCG水平升高。\n\n（选项C）淋巴瘤，包括霍奇金淋巴瘤，可在任何纵隔间室中发生，包括前纵隔。它们可引起体重减轻，但通常会产生其他全身症状（例如，发烧、盗汗）；它们不会引起AFP和β-HCG水平升高。\n\n（选项F）胸腺瘤是前纵隔肿块的常见原因。然而，它们不会引起AFP和β-HCG水平升高，并且通常与副肿瘤综合征（例如，重症肌无力）相关。\n\n教育目标：\n前纵隔中最常见的肿块是4个T：胸腺瘤、畸胎瘤（和其他生殖细胞肿瘤）、“可怕的”淋巴瘤和甲状腺肿瘤。前纵隔肿块伴血清甲胎蛋白和β-hCG水平升高是诊断非精原细胞瘤性生殖细胞肿瘤的典型表现。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the differential diagnosis of anterior mediastinal masses, specifically focusing on germ cell tumors and their associated tumor markers. It requires understanding the significance of elevated beta-hCG and alpha-fetoprotein levels in the context of an anterior mediastinal mass. \n\nThe key to solving this question is recognizing the classic presentation of a nonseminomatous germ cell tumor: an anterior mediastinal mass in a young male with elevated beta-hCG and alpha-fetoprotein. Remembering the \"4 Ts\" of anterior mediastinal masses (thymoma, teratoma, thyroid neoplasm, and \"terrible\" lymphoma) helps narrow the differential.",
+    "zh": "此题考察了前纵隔肿块的鉴别诊断知识，特别侧重于生殖细胞肿瘤及其相关的肿瘤标志物。它要求理解在前纵隔肿块的背景下，β-hCG和甲胎蛋白水平升高的意义。\n\n解决此题的关键是认识到非精原细胞瘤性生殖细胞肿瘤的典型表现：年轻男性前纵隔肿块，伴有β-hCG和甲胎蛋白升高。记住前纵隔肿块的“4个T”（胸腺瘤、畸胎瘤、甲状腺肿瘤和“可怕的”淋巴瘤）有助于缩小鉴别范围。"
+  },
+  "tags": "Anterior mediastinal mass; Germ cell tumor; Beta-hCG; Alpha-fetoprotein; Nonseminomatous germ cell tumor; Oncology; Tumor markers; Mediastinum",
+  "category": "Blood",
+  "question_id": "20877",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\20877",
+  "extracted_at": "2025-11-05T11:32:27.148083",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:31:26.451296",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

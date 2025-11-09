@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 46-year-old woman comes to the office for follow-up. Six months ago, the patient underwent total thyroidectomy followed by radioactive iodine ablation for invasive follicular thyroid cancer with distant metastasis. After surgery, she was prescribed levothyroxine to prevent thyroid cancer regrowth. Over the past 4 months, the patient has had a 4.5-kg (10 lb) unintentional weight loss despite having a normal appetite. She also feels unusually hot and sweaty. Temperature is 37 C (98.6 F), blood pressure is 150/70 mm Hg, pulse is 110/min, and respirations are 17/min. Examination reveals a fine hand tremor and sweaty palms. Serum thyroid function testing would most likely reveal which of the following? {{exhibit_1}}",
+    "zh": "一名46岁的女性前来复诊。六个月前，该患者因侵袭性滤泡性甲状腺癌伴远处转移接受了全甲状腺切除术，随后进行了放射性碘消融治疗。术后，她被处方了左甲状腺素以防止甲状腺癌复发。在过去的4个月里，尽管食欲正常，患者体重却出现4.5公斤（10磅）的非意向性下降。她还感到异常的热和出汗。体温37摄氏度（98.6华氏度），血压150/70毫米汞柱，脉搏110次/分钟，呼吸17次/分钟。检查显示轻微的手颤和手掌出汗。血清甲状腺功能检测最有可能揭示以下哪一项？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Serum thyroid function testing would most likely reveal which of the following?",
+    "zh": "血清甲状腺功能检测最有可能揭示以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased\nIncreased\nIncreased",
+      "zh": "降低\n升高\n升高"
+    },
+    "B": {
+      "en": "Decreased\nDecreased\nIncreased",
+      "zh": "降低\n降低\n升高"
+    },
+    "C": {
+      "en": "Decreased\nNormal\nNormal",
+      "zh": "降低\n正常\n正常"
+    },
+    "D": {
+      "en": "Decreased\nNormal\nDecreased",
+      "zh": "降低\n正常\n降低"
+    },
+    "E": {
+      "en": "Increased\nIncreased\nIncreased",
+      "zh": "升高\n升高\n升高"
+    },
+    "F": {
+      "en": "Decreased\nIncreased\nDecreased",
+      "zh": "降低\n升高\n降低"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has thyrotoxicosis (eg, weight loss, tremor, tachycardia) due to suppressive-dose levothyroxine therapy. Because TSH can promote growth of residual malignant cells following thyroidectomy, patients with thyroid cancer at high risk of recurrence (eg, known metastasis) are often prescribed levothyroxine doses that are higher than what is needed for simple replacement. These higher doses adequately suppress pituitary secretion of TSH; however, they can also cause symptomatic thyrotoxicosis.\n\nWhen exogenous thyrotoxicosis is due to levothyroxine or mixed T3/T4 supplements (eg, porcine thyroid extract), total and free thyroxine (T4) levels are elevated; triiodothyronine (T3) is produced primarily by deiodination of T4 in peripheral tissues, so T3 levels also are elevated, even if the patient is taking levothyroxine only (Choice F). In contrast, thyrotoxicosis due to the intake of liothyronine (exogenous T3) is associated with high serum T3 and low T4 (Choice B).\n\n(Choice C) Subclinical hyperthyroidism is characterized by a mildly suppressed TSH with normal thyroid hormone levels. Patients with subclinical hyperthyroidism are typically asymptomatic. This patient takes suppressive-dose levothyroxine to manage metastatic thyroid cancer and has overt hyperthyroid symptoms; thyroid hormone levels are likely to be elevated.\n\n(Choice D) Patients with severe, acute illness may develop thyroid function abnormalities resembling a mild central hypothyroid state, with low TSH, normal T4, and low T3 (ie, euthyroid sick syndrome). Patients receiving suppressive-dose levothyroxine typically have normal or elevated T3 due to peripheral deiodination.\n\n(Choice E) Central/secondary hyperthyroidism (eg, TSH-secreting pituitary adenoma) is characterized by elevated TSH and thyroid hormone levels. Patients receiving suppressive-dose levothyroxine have low TSH due to feedback inhibition of TSH release.\n\nEducational objective:\nExogenous thyrotoxicosis can be caused by suppressive levothyroxine therapy for thyroid cancer. When exogenous thyrotoxicosis is due to levothyroxine or mixed T3/T4 supplements, thyroxine (T4) levels are elevated; triiodothyronine (T3) is produced primarily by the peripheral deiodination of T4, so T3 levels also are elevated even if the patient is taking T4 only.",
+    "zh": "该患者由于抑制剂量左甲状腺素治疗而患有甲状腺毒症（例如，体重减轻、震颤、心动过速）。由于促甲状腺激素（TSH）可以促进甲状腺切除术后残留恶性细胞的生长，因此对于复发高风险的甲状腺癌患者（例如，已知转移）通常会开出比简单替代所需剂量更高的左甲状腺素剂量。这些较高剂量足以抑制垂体分泌TSH；然而，它们也可能导致症状性甲状腺毒症。\n\n当外源性甲状腺毒症是由于左甲状腺素或混合T3/T4补充剂（例如，猪甲状腺提取物）引起时，总T4和游离T4水平升高；三碘甲状腺素（T3）主要由外周组织中T4的脱碘作用产生，因此T3水平也会升高，即使患者仅服用左甲状腺素（选项F）。相反，由于摄入锂甲状腺素（外源性T3）引起的甲状腺毒症与血清T3升高和T4降低有关（选项B）。\n\n（选项C）亚临床甲状腺功能亢进的特征是TSH轻度降低，甲状腺激素水平正常。亚临床甲状腺功能亢进的患者通常无症状。该患者服用抑制剂量左甲状腺素以控制转移性甲状腺癌并出现明显的甲状腺功能亢进症状；甲状腺激素水平很可能升高。\n\n（选项D）患有严重急性疾病的患者可能会出现甲状腺功能异常，类似于轻度中枢性甲状腺功能减退状态，表现为TSH低、T4正常和T3低（即，甲状腺功能正常疾病综合征）。接受抑制剂量左甲状腺素的患者通常由于外周脱碘作用而具有正常或升高的T3。\n\n（选项E）中枢/继发性甲状腺功能亢进（例如，促甲状腺激素分泌性垂体腺瘤）的特征是TSH和甲状腺激素水平升高。接受抑制剂量左甲状腺素的患者由于TSH释放的负反馈抑制而具有低TSH。\n\n教学目标：\n外源性甲状腺毒症可由甲状腺癌的抑制性左甲状腺素治疗引起。当外源性甲状腺毒症是由于左甲状腺素或混合T3/T4补充剂引起时，甲状腺素（T4）水平升高；三碘甲状腺素（T3）主要由T4的外周脱碘作用产生，因此，即使患者仅服用T4，T3水平也会升高。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of exogenous thyrotoxicosis caused by suppressive levothyroxine therapy in a patient with thyroid cancer. It requires understanding the expected changes in TSH, T4, and T3 levels in this scenario. \n\nThe key to solving this question is recognizing the patient's history of thyroid cancer and suppressive levothyroxine therapy. This leads to suppressed TSH and elevated T4 and T3 levels due to the exogenous hormone and peripheral conversion.",
+    "zh": "本题考察了关于甲状腺癌患者使用抑制性左甲状腺素治疗引起的外源性甲状腺毒症的知识。它需要了解在这种情况下TSH、T4和T3水平的预期变化。\n\n解决这个问题的关键是识别患者的甲状腺癌病史和抑制性左甲状腺素治疗。这会导致TSH被抑制，并且由于外源性激素和外周转化，T4和T3水平升高。"
+  },
+  "tags": "Thyrotoxicosis; Levothyroxine; Thyroid cancer; TSH; T4; T3; Endocrinology; Exogenous thyrotoxicosis; Thyroid hormone replacement",
+  "category": "Endo",
+  "question_id": "20146",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\20146",
+  "extracted_at": "2025-11-05T14:05:49.365276",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:40:17.467502",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

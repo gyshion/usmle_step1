@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 72-year-old man comes to the office after several days of mild headache and lethargy. He has also had weakness, chronic cough, and decreased appetite. He drinks 2 or 3 beers each weekend and has a 40-pack-year smoking history. Temperature is 37 C (98.6 F), blood pressure is 120/84 mm Hg, pulse is 78/min, and respirations are 24/min. Lung examination shows mildly prolonged expiration with end-expiratory wheezes. Laboratory results are as follows:\n\nHemoglobin 11.2 g/dL\nPlatelets 194,000/mm³\nLeukocytes 7,600/mm³\nSodium 122 mEq/L\nPotassium 3.9 mEq/L\nBicarbonate 24 mEq/L\nBlood urea nitrogen 16 mg/dL\nCreatinine 0.6 mg/dL\nGlucose 95 mg/dL\nOsmolality, plasma 250 mOsm/kg H₂O\nOsmolality, urine 310 mOsm/kg H₂O\n\nChest x-ray reveals overinflated lungs and a 2.5-cm left hilar mass. Biopsy of the mass would most likely show which of the following? {{exhibit_1}}",
+    "zh": "一位72岁男性因数天轻度头痛和嗜睡前来就诊。他还出现乏力、慢性咳嗽和食欲下降。他每个周末喝2到3杯啤酒，有40包年的吸烟史。体温37摄氏度（98.6华氏度），血压120/84毫米汞柱，脉搏78次/分，呼吸24次/分。肺部检查显示呼气末期有轻度延长和喘息。实验室检查结果如下：\n\n血红蛋白11.2克/分升\n血小板194,000/立方毫米\n白细胞7,600/立方毫米\n钠122毫当量/升\n钾3.9毫当量/升\n碳酸氢盐24毫当量/升\n血尿素氮16毫克/分升\n肌酐0.6毫克/分升\n葡萄糖95毫克/分升\n血浆渗透压250毫渗摩尔/千克水\n尿渗透压310毫渗摩尔/千克水\n\n胸部X光片显示肺过度充气和左肺门2.5厘米肿块。肿块活检最有可能显示以下哪一项？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Biopsy of the mass would most likely show which of the following?",
+    "zh": "肿块活检最有可能显示以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Carcinoid tumor",
+      "zh": "类癌肿瘤"
+    },
+    "B": {
+      "en": "Lung adenocarcinoma",
+      "zh": "肺腺癌"
+    },
+    "C": {
+      "en": "Lymphoma",
+      "zh": "淋巴瘤"
+    },
+    "D": {
+      "en": "Mesothelioma",
+      "zh": "间皮瘤"
+    },
+    "E": {
+      "en": "Small cell lung cancer",
+      "zh": "小细胞肺癌"
+    },
+    "F": {
+      "en": "Squamous cell lung carcinoma",
+      "zh": "肺鳞状细胞癌"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's hyponatremia is most likely due to syndrome of inappropriate antidiuretic hormone (SIADH), which is one of several paraneoplastic syndromes that may occur in patients with small cell lung cancer (SCLC). Presenting symptoms of SIADH are often vague (eg, lethargy), but untreated SIADH can lead to significant hyponatremia causing seizures or coma. Physical examination shows euvolemia, and laboratory results demonstrate decreased serum osmolality consistent with true (hypotonic) hyponatremia. An essential characteristic of SIADH is urine osmolality >100 mOsm/kg H₂O, which reflects inability of the kidneys to produce adequately dilute urine to remove excess free water from the body (due to inappropriately high levels of ADH). \n\nSIADH may be caused by excessive release of ADH from the posterior pituitary (eg, central nervous system disorder, medication adverse effect) or ectopic secretion of ADH. SCLC, a neuroendocrine tumor that typically presents as a hilar mass in patients with a significant smoking history, is the most common cause of ectopic secretion of ADH.\n\n(Choice A) Carcinoids are rare neuroendocrine tumors that typically occur in the digestive tract or lungs. They may lead to carcinoid syndrome (eg, flushing, diarrhea, bronchoconstriction), which is a paraneoplastic syndrome caused by secretion of serotonin, histamine, and kinins. Carcinoids may rarely cause SIADH, but SCLC is more likely in this patient with a hilar mass and significant smoking history.\n\n(Choices B, D, and F) Lung adenocarcinoma may cause paraneoplastic hypertrophic osteoarthropathy, and squamous cell carcinoma can lead to paraneoplastic hypercalcemia (eg, secretion of parathyroid hormone-related protein). Mesothelioma is a rare malignancy derived from the mesothelial lining of the thoracic cavity and has been associated with a variety of paraneoplastic syndromes (eg, peripheral neuropathy, migratory thrombophlebitis). SIADH due to any of these malignancies would be unusual.\n\n(Choice C) Paraneoplastic syndromes associated with lymphoma include hypercalcemia due to overproduction of 1,25-dihydroxyvitamin D and cerebellar degeneration. SIADH would be atypical.\n\nEducational objective:\nSmall cell lung cancer is a neuroendocrine malignancy associated with several paraneoplastic syndromes. It is the most common cause of syndrome of inappropriate antidiuretic hormone (SIADH) due to ectopic secretion of antidiuretic hormone. SIADH is characterized by hyponatremia, decreased serum osmolality, and urine osmolality >100 mOsm/kg H₂O.",
+    "zh": "该患者的低钠血症很可能由抗利尿激素不适当分泌综合征（SIADH）引起，这是小细胞肺癌（SCLC）患者可能出现的几种副肿瘤综合征之一。SIADH的初始症状通常模糊不清（例如，嗜睡），但未经治疗的SIADH可导致明显的低钠血症，引起抽搐或昏迷。体格检查显示血容量正常，实验室结果表明血清渗透压降低，与真性（低渗性）低钠血症一致。SIADH的一个重要特征是尿渗透压>100毫渗摩尔/千克水，这反映了肾脏无法产生足够稀释的尿液，从而无法从体内清除过多的游离水（由于不适当地高水平的ADH）。\n\nSIADH可能是由于后叶垂体过度释放ADH（例如，中枢神经系统疾病、药物不良反应）或ADH异位分泌引起的。SCLC是一种神经内分泌肿瘤，通常表现为肺门肿块，常见于有显著吸烟史的患者，是ADH异位分泌的最常见原因。\n\n（选项A）类癌是罕见的神经内分泌肿瘤，通常发生在消化道或肺部。它们可能导致类癌综合征（例如，潮红、腹泻、支气管收缩），这是一种由血清素、组胺和激肽分泌引起的副肿瘤综合征。类癌很少引起SIADH，但在本例肺门有肿块且有显著吸烟史的患者中，SCLC的可能性更大。\n\n（选项B、D和F）肺腺癌可能引起副肿瘤性肥大性骨关节病，而鳞状细胞癌可导致副肿瘤性高钙血症（例如，分泌甲状旁腺激素相关蛋白）。间皮瘤是一种罕见的恶性肿瘤，源于胸腔的间皮细胞内衬，并与多种副肿瘤综合征有关（例如，周围神经病变、游走性血栓性静脉炎）。由于这些恶性肿瘤中的任何一种引起的SIADH都是不寻常的。\n\n（选项C）与淋巴瘤相关的副肿瘤综合征包括由于1,25-二羟基维生素D过度产生引起的高钙血症和小脑变性。SIADH是不典型的。\n\n教育目标：\n小细胞肺癌是一种神经内分泌恶性肿瘤，与几种副肿瘤综合征相关。由于抗利尿激素异位分泌，它是抗利尿激素不适当分泌综合征（SIADH）的最常见原因。SIADH的特征是低钠血症、血清渗透压降低和尿渗透压>100毫渗摩尔/千克水。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of paraneoplastic syndromes, specifically SIADH, and its association with small cell lung cancer. It assesses the ability to recognize clinical and laboratory findings suggestive of SIADH in a patient with a smoking history and a hilar mass. \n\nThe key to solving this question is recognizing the hyponatremia, decreased serum osmolality, and the presence of a hilar mass in a smoker. These findings, along with the patient's symptoms, point towards SIADH, which is commonly associated with small cell lung cancer.",
+    "zh": "此题考察对副肿瘤综合征的知识，特别是SIADH及其与小细胞肺癌的关系。它评估了识别具有吸烟史和肺门肿块的患者中提示SIADH的临床和实验室发现的能力。\n\n解决此问题的关键是识别低钠血症、血清渗透压降低以及吸烟者出现肺门肿块。这些发现，以及患者的症状，都指向SIADH，SIADH通常与小细胞肺癌有关。"
+  },
+  "tags": "Small cell lung cancer; SIADH; Paraneoplastic syndrome; Hyponatremia; Lung mass; Oncology; Endocrinology",
+  "category": "Chest",
+  "question_id": "12293",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\12293",
+  "extracted_at": "2025-11-05T11:37:12.601615",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:34:09.473087",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

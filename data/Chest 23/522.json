@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old man comes to the office due to shortness of breath. His symptoms have progressed over the last few months and have begun to limit his daily activities. He has no other medical problems and takes no medications. The patient drinks 3 or 4 alcoholic beverages a week and has a 50-pack-year smoking history. Physical examination reveals decreased breath sounds and scattered wheezes bilaterally. Chest x-ray is shown below {{exhibit_1}}.",
+    "zh": "一名62岁男性因呼吸困难前来就诊。他的症状在过去的几个月里有所进展，并开始限制他的日常活动。他没有其他疾病，也没有服用任何药物。该患者每周饮用3或4份酒精饮料，并有50包年的吸烟史。体格检查显示双侧呼吸音减弱，散在的喘鸣。胸部X线片如下{{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following parameters is most likely to be increased in this patient?",
+    "zh": "该患者最有可能增加以下哪项参数？"
+  },
+  "options": {
+    "A": {
+      "en": "Carbon monoxide diffusion capacity",
+      "zh": "一氧化碳扩散能力"
+    },
+    "B": {
+      "en": "Expiratory flow rates",
+      "zh": "呼气流量"
+    },
+    "C": {
+      "en": "Forced vital capacity",
+      "zh": "用力肺活量"
+    },
+    "D": {
+      "en": "Functional residual capacity",
+      "zh": "功能残气量"
+    },
+    "E": {
+      "en": "Lung elastic recoil",
+      "zh": "肺弹性回缩"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's chest x-ray reveals hyperinflated lungs and a flattened diaphragm (compared to normal), consistent with chronic obstructive pulmonary disease (COPD). COPD involves components of chronic bronchitis and emphysema, both of which contribute to air-trapping and hyperinflation.\n\nThe outward expanding pressure created by the chest wall and the inward collapsing pressure created by the lungs are in equilibrium at the functional residual capacity (FRC). In patients with COPD, decreased elasticity of the alveoli (from emphysema) results in decreased collapsing pressure created by the lungs to expel air. Bronchial airway thickening and obstruction (from chronic bronchitis) further impairs lung collapse by impeding the expulsion of air. The decrease in collapsing pressure causes the chest wall to expand outward until the expanding pressure of the chest is balanced by the collapsing pressure of the lungs. A new pressure equilibrium is reached at a higher lung volume (ie, higher FRC) and, as a result, residual volume and total lung capacity are also increased.\n\n(Choice A) The diffusing capacity of the lung for carbon monoxide (DLCO) largely depends on the thickness and total surface area of the alveolar capillary membrane. In emphysema, interalveolar wall destruction decreases the alveolar-capillary surface area, reducing DLCO. Patients with emphysema may have decreased DLCO even when there is little evidence of expiratory airflow obstruction on spirometry.\n\n(Choice B) Expiratory airflow rates are reduced in COPD due to inflammatory and fibrotic narrowing of the bronchi (chronic bronchitis) and decreased alveolar elastic recoil (emphysema).\n\n(Choice C) In COPD, forced vital capacity is usually decreased due to expiratory airflow obstruction limiting the total expiratory volume.\n\n(Choice E) Emphysema causes lung elastic recoil to decrease secondary to destruction of interalveolar walls.",
+    "zh": "该患者的胸部X线片显示肺过度充气和膈肌扁平（与正常相比），与慢性阻塞性肺病（COPD）一致。 COPD包含慢性支气管炎和肺气肿的组成部分，两者均导致气体积聚和肺过度充气。\n\n胸壁产生的向外扩张压力和肺产生的向内收缩压力在功能残气量 (FRC) 时达到平衡。在COPD患者中，肺泡弹性降低（由肺气肿引起）导致肺产生的排出空气的收缩压力降低。支气管气道增厚和阻塞（由慢性支气管炎引起）通过阻碍空气的排出进一步损害肺的收缩。收缩压力的降低导致胸壁向外扩张，直到胸部的扩张压力与肺的收缩压力平衡。一个新的压力平衡在更高的肺容积（即，更高的FRC）处达到，因此，残气量和总肺活量也增加。\n\n（选项A）肺一氧化碳弥散量 (DLCO) 主要取决于肺泡毛细血管膜的厚度和总表面积。在肺气肿中，肺泡间隔壁的破坏会降低肺泡毛细血管表面积，从而降低 DLCO。即使在肺活量测定中几乎没有呼气气流阻塞的证据，肺气肿患者的 DLCO 也可能降低。\n\n（选项B）由于支气管的炎症和纤维化狭窄（慢性支气管炎）和肺泡弹性回缩降低（肺气肿），COPD患者的呼气气流速度降低。\n\n（选项C）在 COPD 中，用力肺活量通常会降低，因为呼气气流阻塞限制了总呼气量。\n\n（选项E）肺气肿导致肺弹性回缩降低，继发于肺泡间隔壁的破坏。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of COPD, specifically the changes in lung volumes and capacities that occur due to air trapping and hyperinflation. It requires understanding the relationship between functional residual capacity (FRC), residual volume, and total lung capacity in the context of emphysema and chronic bronchitis.\n\nTo solve this question, recognize the clinical scenario as COPD based on the patient's history and chest X-ray findings. Recall that COPD leads to air trapping and hyperinflation, which increases FRC, residual volume, and total lung capacity. Eliminate options that would be decreased in COPD.",
+    "zh": "本题考察对COPD病理生理学的了解，特别是由于气体积聚和肺过度充气而发生的肺容积和肺容量的变化。它需要理解在肺气肿和慢性支气管炎的背景下功能残气量 (FRC)、残气量和总肺活量之间的关系。\n\n要解决这个问题，根据患者的病史和胸部X线检查结果，将临床情况识别为COPD。 回忆一下 COPD 导致气体积聚和肺过度充气，从而增加 FRC、残气量和总肺活量。排除在COPD中会降低的选项。"
+  },
+  "tags": "Chronic obstructive pulmonary disease; COPD; Functional residual capacity; FRC; Lung volumes; Emphysema; Chronic bronchitis; Respiratory physiology; Pulmonary function tests",
+  "category": "Chest",
+  "question_id": "522",
+  "has_exhibits": true,
+  "exhibit_count": 8,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\522",
+  "extracted_at": "2025-11-05T11:45:49.695468",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:40:18.069039",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

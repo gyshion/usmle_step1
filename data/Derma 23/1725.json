@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old woman comes to the office due to worry that she will go bald. Her father had a receding hairline with apical baldness beginning at age 20 and was completely bald by age 35. The patient's paternal grandmother and multiple other relatives on her paternal side also had early-onset baldness, but her father's siblings and the maternal side of her family have had no problems with unusual hair loss. Physical examination shows mild thinning of hair at the temporal areas, with an otherwise normal hairline, thickness, and coloration. There is no excess hair growth on her face or trunk, and she has a normal female pattern of pubic hair growth. Palpation of the thyroid is normal. Which of the following is the most likely inheritance pattern of the hair loss in this patient's family? {{exhibit_1}}",
+    "zh": "一位32岁的女性来到诊所，因为担心她会秃顶。她的父亲在20岁开始出现发际线后退和顶部秃发，并在35岁时完全秃顶。患者的祖母和她父亲一方的其他多位亲属也有早发性秃顶，但她父亲的兄弟姐妹和她母亲的家族没有出现异常脱发的问题。体格检查显示颞部毛发轻微稀疏，但发际线、毛发厚度和颜色均正常。她的面部或躯干没有多余的毛发生长，并且她的阴毛生长呈正常的女性模式。甲状腺触诊正常。以下哪项是该患者家族中脱发最可能的遗传模式？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely inheritance pattern of the hair loss in this patient's family?",
+    "zh": "以下哪项是该患者家族中脱发最可能的遗传模式？"
+  },
+  "options": {
+    "A": {
+      "en": "Autosomal dominant",
+      "zh": "常染色体显性遗传"
+    },
+    "B": {
+      "en": "Autosomal recessive",
+      "zh": "常染色体隐性遗传"
+    },
+    "C": {
+      "en": "Mitochondrial",
+      "zh": "线粒体遗传"
+    },
+    "D": {
+      "en": "Polygenic",
+      "zh": "多基因遗传"
+    },
+    "E": {
+      "en": "Sporadic",
+      "zh": "散发性"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The most common type of hair loss in males and females is androgenetic alopecia (male pattern baldness). As the name implies, the hair loss is driven by both hormonal (eg, circulating androgens) and genetic factors. The hair loss occurs primarily at the temporal areas and vertex and progresses through life. The pattern and severity vary between males and females.\n\nAndrogenetic alopecia demonstrates polygenic inheritance with variable expressivity. Key sites of genetic influence have been identified on the short arm of chromosome 20, and also on the X and possibly Y chromosomes. Therefore, some of the genetic factors may be transmitted with X-linked recessive inheritance (eg, gene variations in the androgen receptor), whereas others will show autosomal dominant inheritance (Choice A).\n\n(Choice B) Autosomal recessive inheritance classically shows disease development in 25% of offspring from 2 asymptomatic carrier parents. In most cases, conditions with autosomal recessive inheritance will not be seen in consecutive generations.\n\n(Choice C) Conditions passed through mitochondrial inheritance are transmitted only by the mother, and all of her offspring are affected. Conditions transmitted by mitochondrial inheritance include a number of neuromuscular disorders.\n\n(Choice E) By definition, sporadic cases do not follow an inheritance pattern. Sporadic cases occur haphazardly among unrelated members of a population over time. For example, there may be a spontaneous gene mutation that causes a sporadic disorder in an individual with no family history of the disease.\n\nEducational objective:\nAndrogenetic alopecia is the most common cause of hair loss in both males and females. The pattern and severity of the baldness depend on both hormonal (circulating androgens) and genetic factors and vary between males and females. The condition is polygenic with variable expressivity.",
+    "zh": "男性和女性中最常见的脱发类型是雄激素性脱发（男性型秃发）。顾名思义，脱发是由激素（例如，循环雄激素）和遗传因素共同驱动的。脱发主要发生在颞部和头顶，并贯穿一生。男性和女性的脱发模式和严重程度各不相同。\n\n雄激素性脱发表现为多基因遗传，具有可变的表现度。遗传影响的关键位点已在20号染色体短臂上被确定，也在X染色体和可能的Y染色体上被确定。因此，某些遗传因素可能通过X连锁隐性遗传传递（例如，雄激素受体的基因变异），而其他因素将显示常染色体显性遗传（选项A）。\n\n（选项B）常染色体隐性遗传通常显示，来自2个无症状携带者父母的后代中有25％会发生疾病。在大多数情况下，具有常染色体隐性遗传的疾病不会在连续的世代中出现。\n\n（选项C）通过线粒体遗传传递的疾病仅由母亲传递，并且她的所有后代都会受到影响。通过线粒体遗传传递的疾病包括许多神经肌肉疾病。\n\n（选项E）根据定义，散发病例不遵循遗传模式。散发病例在一段时间内随机发生在无关的人群中。例如，可能存在自发的基因突变，导致没有该病家族史的个体发生散发性疾病。\n\n教育目标：雄激素性脱发是男性和女性脱发最常见的原因。秃发的模式和严重程度取决于激素（循环雄激素）和遗传因素，并且在男性和女性之间有所不同。这种情况是多基因的，具有可变的表现度。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the inheritance patterns of androgenetic alopecia, the most common cause of hair loss. It requires understanding that androgenetic alopecia is a polygenic condition with variable expressivity.\n\nTo solve this question, recognize the family history pattern suggestive of polygenic inheritance, where multiple genes contribute to the phenotype, and the severity can vary among individuals.",
+    "zh": "这个问题测试了对雄激素性脱发（最常见的脱发原因）的遗传模式的了解。它要求理解雄激素性脱发是一种具有可变表现度的多基因疾病。\n\n要解决这个问题，需要识别提示多基因遗传的家族史模式，其中多个基因影响表型，并且严重程度在个体之间可能有所不同。"
+  },
+  "tags": "Androgenetic alopecia; Polygenic inheritance; Hair loss; Genetics; Endocrinology",
+  "category": "Derma",
+  "question_id": "1725",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\1725",
+  "extracted_at": "2025-11-05T12:22:11.130360",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:34:35.496366",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

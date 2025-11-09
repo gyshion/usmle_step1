@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 44-year-old woman comes to the office due to fatigue, nausea, and weight loss for the last 3-4 months. She also has noticed her freckles becoming darker and reports frequent dizziness upon standing. Temperature is 36.8 C (98.2 F), blood pressure is 120/80 mm Hg when sitting and 95/65 mm Hg when standing, and pulse is 77/min. Hyperpigmentation of the vermillion border of the lips is noted. The remainder of the physical examination is unremarkable. Comprehensive diagnostic workup reveals a diagnosis of idiopathic primary adrenal insufficiency. The patient is started on hydrocortisone and fludrocortisone.",
+    "zh": "一位44岁的女性因过去3-4个月的疲劳、恶心和体重减轻前来就诊。她还注意到自己的雀斑变黑，并报告站立时经常头晕。体温为36.8°C（98.2°F），坐位血压为120/80 mmHg，站立时为95/65 mmHg，脉搏为77次/分。注意到唇红缘色素沉着。体格检查的其余部分无特殊发现。全面的诊断性检查揭示了特发性原发性肾上腺皮质功能减退症的诊断。患者开始使用氢化可的松和氟氢可的松。"
+  },
+  "question": {
+    "en": "Fludrocortisone is most likely to cause which of the following effects in this patient? {{exhibit_1}}",
+    "zh": "氟氢可的松最有可能对该患者引起以下哪种作用？ {{exhibit_1}}"
+  },
+  "options": {
+    "A": {
+      "en": "Increased vascular adrenergic sensitivity; Decreased circulating blood volume; Increased urine sodium",
+      "zh": "血管肾上腺素能敏感性增加；循环血容量减少；尿钠增加"
+    },
+    "B": {
+      "en": "Increased vascular adrenergic sensitivity; Unchanged circulating blood volume; Decreased urine sodium",
+      "zh": "血管肾上腺素能敏感性增加；循环血容量不变；尿钠减少"
+    },
+    "C": {
+      "en": "Increased vascular adrenergic sensitivity; Increased circulating blood volume; Decreased urine sodium",
+      "zh": "血管肾上腺素能敏感性增加；循环血容量增加；尿钠减少"
+    },
+    "D": {
+      "en": "Unchanged vascular adrenergic sensitivity; Increased circulating blood volume; Decreased urine sodium",
+      "zh": "血管肾上腺素能敏感性不变；循环血容量增加；尿钠减少"
+    },
+    "E": {
+      "en": "Decreased vascular adrenergic sensitivity; Decreased circulating blood volume; Increased urine sodium",
+      "zh": "血管肾上腺素能敏感性降低；循环血容量减少；尿钠增加"
+    },
+    "F": {
+      "en": "Decreased vascular adrenergic sensitivity; Increased circulating blood volume; Unchanged urine sodium",
+      "zh": "血管肾上腺素能敏感性降低；循环血容量增加；尿钠不变"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient's fatigue, nausea, hyperpigmentation, and orthostatic hypotension are due to PRIMARY ADRENAL INSUFFICIENCY (PAI). PAI results from reduced levels of both mineralocorticoid (mainly aldosterone) and glucocorticoid (mainly cortisol), typically due to autoimmune destruction of the bilateral adrenal cortex. Orthostasis in PAI is due primarily to hypovolemia from reduced mineralocorticoid production.\n\nReduced mineralocorticoid activity in the renal collecting tubule principal cells leads to markedly decreased sodium absorption (ie, renal salt wasting) and increased potassium absorption. The decreased sodium reabsorption leads to decreased fluid retention, overall decreased circulating blood volume, and hypovolemia-induced orthostasis.\n\nFludrocortisone, a synthetic steroid with high mineralocorticoid activity, is used to treat mineralocorticoid deficiency. It works by 2 primary mechanisms:\n\n*   Increased sodium reabsorption in the distal convoluted tubule and collecting ducts, causing increased fluid retention and circulating blood volume. This leads to DECREASED URINE SODIUM.\n*   INCREASE VASCULAR SENSITIVITY to multiple endogenous vasoconstrictors (eg, angiotensin II, norepinephrine), causing a potentiation of their pressor effects (Choices D, E, and F).\n\nThe INCREASED CIRCULATING PLASMA VOLUME and increased sensitivity to vasoconstricting mediators leads to an increase in blood pressure and improvement in orthostatic hypotension (Choices A and B).\n\nEducational objective:\n\nFludrocortisone improves hypovolemia and orthostatic hypotension in primary adrenal insufficiency by decreasing urine sodium excretion (thereby increasing circulating blood volume) and increasing the sensitivity of the vasculature to endogenous vasoconstrictors (eg, norepinephrine). {{exhibit_2}}",
+    "zh": "该患者的疲劳、恶心、色素沉着过度和体位性低血压是由于原发性肾上腺皮质功能减退症（PAI）引起的。 PAI 是由于盐皮质激素（主要是醛固酮）和糖皮质激素（主要是皮质醇）水平降低所致，通常是由于双侧肾上腺皮质的自身免疫破坏所致。 PAI 中的直立性低血压主要归因于矿物皮质激素生成减少引起的血容量不足。\n\n肾集合管主细胞中矿物皮质激素活性降低导致钠吸收显着降低（即，肾性盐浪费）和钾吸收增加。 钠重吸收减少导致体液潴留减少、总体循环血容量减少和血容量不足引起的直立性低血压。\n\n氟氢可的松是一种具有高矿物皮质激素活性的合成类固醇，用于治疗矿物皮质激素缺乏症。它通过两种主要机制发挥作用：\n\n*   增加远端肾小管和集合管中的钠重吸收，从而引起体液潴留和循环血容量增加。 这导致尿钠减少。\n*   增加血管对多种内源性血管收缩剂（例如，血管紧张素 II、去甲肾上腺素）的敏感性，从而增强其加压效应（选项 D、E 和 F）。\n\n循环血浆容量增加和对血管收缩介质的敏感性增加导致血压升高，并改善直立性低血压（选项 A 和 B）。\n\n教育目标：\n\n氟氢可的松通过减少尿钠排泄（从而增加循环血容量）和增加血管对内源性血管收缩剂（如去甲肾上腺素）的敏感性来改善原发性肾上腺皮质功能减退症中的血容量不足和直立性低血压。 {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of action of fludrocortisone in the treatment of primary adrenal insufficiency and its effects on vascular sensitivity, circulating blood volume, and urine sodium levels.\n\nTo solve this question, understand that fludrocortisone acts as a mineralocorticoid, increasing sodium reabsorption and fluid retention, which leads to increased circulating blood volume and decreased urine sodium. It also increases vascular sensitivity to vasoconstrictors.",
+    "zh": "此题考察了关于氟氢可的松治疗原发性肾上腺皮质功能减退症的机制，以及其对血管敏感性、循环血容量和尿钠水平的影响的知识。\n\n要解决此题，需要理解氟氢可的松的作用如同盐皮质激素，增加钠重吸收和体液潴留，从而导致循环血容量增加和尿钠减少。它还会增加血管对血管收缩剂的敏感性。"
+  },
+  "tags": "Primary adrenal insufficiency; Fludrocortisone; Mineralocorticoid; Sodium reabsorption; Circulating blood volume; Urine sodium; Vascular sensitivity; Endocrinology",
+  "category": "CVS",
+  "question_id": "21524",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\21524",
+  "extracted_at": "2025-11-05T12:11:39.043612",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:28:43.529237",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "An 8-year-old boy is brought to the office due to a lower extremity skin rash for the past 3 days. The rash began as tender papules that quickly progressed to form vesicles and flaccid bullae that rupture easily. The patient has no mucosal lesions and has never had similar symptoms before. He is up to date with recommended vaccinations and takes no medications. Physical examination of the affected limb is shown below {{exhibit_1}}.\n\nThe skin overlying the rest of his body appears normal.",
+    "zh": "一名8岁男孩因过去3天出现的下肢皮疹前来就诊。皮疹最初表现为触痛性丘疹，迅速发展为水疱和松弛性大疱，容易破裂。患者无黏膜病变，既往从未出现过类似症状。他已按时接种推荐疫苗，未服用任何药物。受累肢体的体格检查如下所示 {{exhibit_1}}。\n\n其余身体皮肤看起来正常。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's current presentation?",
+    "zh": "以下哪项最可能是该患者目前表现的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Autoantibodies targeted against hemidesmosomes",
+      "zh": "针对半桥粒的自身抗体"
+    },
+    "B": {
+      "en": "Autoantibody-mediated epidermal cell separation",
+      "zh": "自身抗体介导的表皮细胞分离"
+    },
+    "C": {
+      "en": "Bacterial toxin-induced desmoglein 1 cleavage",
+      "zh": "细菌毒素诱导的桥粒芯蛋白1裂解"
+    },
+    "D": {
+      "en": "Defective epidermal barrier and T-cell dysregulation",
+      "zh": "表皮屏障缺陷和T细胞失调"
+    },
+    "E": {
+      "en": "Inflammatory response to viral lytic infection",
+      "zh": "对病毒溶解性感染的炎症反应"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This child has a blistering skin rash with tan- to honey-colored crusts, consistent with bullous impetigo (BI). BI is a superficial infection by Staphylococcus aureus that is most common in young children. It is spread by direct contact, with the greatest incidence in warm, humid, crowded environments. Nonbullous impetigo is a similar syndrome with pustules and crusting but without significant blistering. Either form may occur in healthy skin (primary impetigo) or broken/inflamed skin (secondary impetigo).\n\nThe blistering in BI is caused by production of exfoliative toxin A, a serine protease that targets desmoglein 1 in the superficial epidermis, by certain strains of S aureus. Desmoglein is a cadherin component of desmosomes in epidermal cellular junctions; disruption by exfoliative toxin A causes a loss of cell adhesion and leads to formation of flaccid bullae.\n\nExfoliative toxin A is also responsible for staphylococcal scalded skin syndrome, which presents with generalized erythema and flaccid bullae in flexural areas.\n\n(Choices A and B) Bullous pemphigoid is an autoimmune disorder associated with antibodies against hemidesmosomes and is characterized by tense, subepidermal blisters. Pemphigus vulgaris is characterized by intraepithelial cleavage and is due to autoantibodies against desmosomes (desmogleins 1 and 3); it presents with flaccid bullae, desquamation, and oral ulcerations. However, both disorders cause scattered or widespread (rather than localized) lesions and are uncommon in children.\n\n(Choice D) Atopic dermatitis is associated with mutations in epidermal barrier proteins, leading to increased exposure to environmental antigens and immune hypersensitivity. It typically presents in infants and young children with erythematous papules and plaques involving the head, trunk, and extensor surfaces, and in older children and adults with lichenification in a flexural distribution (eg, neck, wrists, antecubital and popliteal fossae).\n\n(Choice E) Herpes simplex virus infection is characterized by recurrent clusters of mucocutaneous papules and vesicles that evolve into ulcerated and crusted lesions. It typically causes localized perioral or genital lesions rather than involving large regions on the extremities.\n\nEducational objective:\nBullous impetigo is a superficial infection by Staphylococcus aureus that is most common in young children. It is characterized by a blistering skin rash with tan- to honey-colored crusts. The blistering in bullous impetigo is caused by exfoliative toxin A, which targets desmoglein 1 in epidermal cellular junctions and causes a loss of cell adhesion.\n\n{{exhibit_2}}{{exhibit_3}}{{exhibit_4}}{{exhibit_5}}{{exhibit_6}}{{exhibit_7}}{{exhibit_8}}",
+    "zh": "该儿童患有起泡性皮疹，有棕色至蜜糖色痂，与大疱性脓疱病（BI）一致。BI是由金黄色葡萄球菌引起的浅表感染，在幼儿中最常见。它通过直接接触传播，在温暖、潮湿、拥挤的环境中最常见。非大疱性脓疱病是一种类似的综合征，表现为脓疱和结痂，但无明显起泡。这两种形式都可能发生在健康皮肤（原发性脓疱病）或破损/发炎的皮肤（继发性脓疱病）中。\n\nBI中的起泡是由某些金黄色葡萄球菌菌株产生的剥脱毒素A引起的，这是一种丝氨酸蛋白酶，靶向表皮浅层的桥粒芯蛋白1。桥粒芯蛋白是表皮细胞连接中桥粒的钙粘蛋白成分；剥脱毒素A的破坏会导致细胞粘附丧失，并导致松弛性大疱的形成。\n\n剥脱毒素A也负责金黄色葡萄球菌性烫伤样皮肤综合征，其表现为全身性红斑和屈曲部位的松弛性大疱。\n\n（选项A和B）大疱性类天疱疮是一种自身免疫性疾病，与针对半桥粒的抗体相关，其特征是紧张的、表皮下水疱。寻常型天疱疮的特征是上皮内裂解，是由于针对桥粒（桥粒芯蛋白1和3）的自身抗体引起的；它表现为松弛性大疱、脱屑和口腔溃疡。然而，这两种疾病都会引起散在或广泛（而不是局限性）病变，并且在儿童中不常见。\n\n（选项D）特应性皮炎与表皮屏障蛋白的突变相关，导致对环境抗原的暴露增加和免疫超敏反应。它通常在婴儿和幼儿中表现为涉及头部、躯干和伸展面的红斑性丘疹和斑块，在年长儿童和成人中表现为屈曲分布的苔藓样变（例如，颈部、腕部、肘窝和腘窝）。\n\n（选项E）单纯疱疹病毒感染的特征是复发性簇状的黏膜皮肤丘疹和水疱，发展为溃疡和结痂的病变。它通常引起局部的口周或生殖器病变，而不是累及四肢的大区域。\n\n教育目标：\n大疱性脓疱病是由金黄色葡萄球菌引起的浅表感染，在幼儿中最常见。其特征是起泡性皮疹，有棕色至蜜糖色痂。大疱性脓疱病中的起泡是由剥脱毒素A引起的，剥脱毒素A靶向表皮细胞连接中的桥粒芯蛋白1，导致细胞粘附丧失。\n\n{{exhibit_2}}{{exhibit_3}}{{exhibit_4}}{{exhibit_5}}{{exhibit_6}}{{exhibit_7}}{{exhibit_8}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of bullous impetigo, a superficial skin infection caused by Staphylococcus aureus, and its characteristic presentation in young children. It also assesses understanding of the pathophysiology involving exfoliative toxin A and its effect on desmoglein 1.\n\nThe key to solving this question is recognizing the clinical features of bullous impetigo, such as the blistering rash with tan- to honey-colored crusts, and differentiating it from other blistering skin conditions like bullous pemphigoid, pemphigus vulgaris, atopic dermatitis, and herpes simplex virus infection.",
+    "zh": "此题考察对大疱性脓疱病的知识，这是一种由金黄色葡萄球菌引起的浅表皮肤感染，以及其在幼儿中的典型表现。它还评估了对涉及剥脱毒素A的病理生理学的理解及其对桥粒芯蛋白1的影响。\n\n解决此题的关键是识别大疱性脓疱病的临床特征，例如带有棕色至蜜糖色痂的起泡性皮疹，并将其与其他起泡性皮肤病（如大疱性类天疱疮、寻常型天疱疮、特应性皮炎和单纯疱疹病毒感染）区分开来。"
+  },
+  "tags": "Bullous impetigo; Staphylococcus aureus; Skin infection; Desmoglein 1; Exfoliative toxin A; Dermatology; Pediatrics; Bacterial infection",
+  "category": "Derma",
+  "question_id": "15361",
+  "has_exhibits": true,
+  "exhibit_count": 8,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\15361",
+  "extracted_at": "2025-11-05T12:21:24.865041",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:33:51.312811",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

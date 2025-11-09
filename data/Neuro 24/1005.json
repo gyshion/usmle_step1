@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A pharmaceutical researcher is developing a novel agent to prevent meningococcal disease in people exposed to the bacteria. Pili antigens from Neisseria meningitidis are extracted and used to generate antibodies that impair normal pili function. The antibodies are administered to experimental animals with no prior exposure to N meningitidis. These animals, along with control animals that had not received the antibodies, are subsequently exposed to the bacteria. Compared to the control animals, a significantly greater proportion of the animals that received the antibodies remain healthy and develop no symptoms. The efficacy of these antibodies in preventing meningococcal disease is most likely due to direct interference with which of the following microbial processes?",
+    "zh": "一位药物研究员正在开发一种新型药物，用于预防接触该细菌的患者的脑膜炎奈瑟菌病。从脑膜炎奈瑟菌中提取菌毛抗原，并用于生成可损害正常菌毛功能的抗体。将这些抗体给予先前未接触过脑膜炎奈瑟菌的实验动物。随后，将这些动物与未接受抗体的对照动物一起暴露于该细菌。与对照动物相比，接受抗体的动物中，保持健康且未出现症状的比例显著更高。这些抗体预防脑膜炎奈瑟菌病的疗效最有可能归因于对以下哪种微生物过程的直接干扰？"
+  },
+  "question": {
+    "en": "The efficacy of these antibodies in preventing meningococcal disease is most likely due to direct interference with which of the following microbial processes?",
+    "zh": "这些抗体预防脑膜炎奈瑟菌病的疗效最有可能归因于对以下哪种微生物过程的直接干扰？"
+  },
+  "options": {
+    "A": {
+      "en": "Adhesion to vascular endothelial cells",
+      "zh": "粘附于血管内皮细胞"
+    },
+    "B": {
+      "en": "Attachment to nasopharyngeal epithelial cells",
+      "zh": "附着于鼻咽部上皮细胞"
+    },
+    "C": {
+      "en": "Hematogenous dissemination",
+      "zh": "血源性播散"
+    },
+    "D": {
+      "en": "Invasion of the meninges",
+      "zh": "侵入脑膜"
+    },
+    "E": {
+      "en": "Survival inside phagocytes",
+      "zh": "在吞噬细胞内生存"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Neisseria meningitidis is commonly isolated from the oropharynx and nasopharynx of asymptomatic carriers. Colonization rates are variable but highest in close contact populations (eg, military recruits, university students). Transmission of meningococci usually occurs through exposure to respiratory droplets or direct contact with respiratory secretions.\n\nThe pili on the capsular surface of N meningitidis are responsible for attachment to and colonization of the nasopharyngeal epithelium; antibodies against pili are primarily protective due to reduced bacterial colonization, which limits carrier status. However, because pili undergo high rates of antigenic variation (eg, on-off gene switching, horizontal gene transfer), vaccines that target pili have limited efficacy.\n\nOther prominent N meningitidis virulence factors include IgA protease (destroy mucosal antibodies that would otherwise inhibit epithelial colonization), capsular polysaccharides (prevent phagocytosis and phagolysosome destruction), lipo-oligosaccharide (an endotoxin that is the major source of toxicity), and opacity proteins (aid in endothelial attachment and invasion).\n\n(Choices A and D) Vaccines that target endothelial or meningeal invasion would act too late in the disease process to prevent significant illness; once N meningitidis disseminates within the bloodstream, increased circulating levels of endotoxin put patients at high risk for sepsis, circulatory collapse, and death.\n\n(Choices C and E) Capsular polysaccharides prevent phagocytosis and allow the pathogen to replicate and disseminate within the bloodstream. They also promote bacterial survival within phagocytes by inhibiting phagolysosome destruction. Most existing meningococcal vaccines target capsular polysaccharides.\n\nEducational objective:\nPili are the primary virulence factor that allow Neisseria meningitidis to initially attach to and colonize the nasopharyngeal epithelial surface. Pili undergo significant antigenic variation, which makes them a difficult vaccination target.",
+    "zh": "脑膜炎奈瑟菌通常从无症状携带者的口咽和鼻咽中分离出来。定植率各不相同，但在密切接触人群（例如，新兵、大学生）中最高。脑膜炎奈瑟菌的传播通常通过接触呼吸道飞沫或直接接触呼吸道分泌物发生。\n\n脑膜炎奈瑟菌荚膜表面的菌毛负责附着于鼻咽上皮并定植于鼻咽上皮；针对菌毛的抗体主要具有保护作用，原因是细菌定植减少，从而限制了携带状态。然而，由于菌毛经历高频率的抗原变异（例如，基因开关、水平基因转移），靶向菌毛的疫苗的有效性有限。\n\n其他突出的脑膜炎奈瑟菌毒力因子包括 IgA 蛋白酶（破坏会抑制上皮定植的粘膜抗体）、荚膜多糖（阻止吞噬作用和吞噬体破坏）、脂寡糖（一种内毒素，是毒性的主要来源）和混浊蛋白（有助于内皮附着和侵袭）。\n\n（选项 A 和 D）靶向内皮或脑膜侵袭的疫苗在疾病过程的后期发挥作用，无法预防严重疾病；一旦脑膜炎奈瑟菌在血液中播散，循环内毒素水平升高会使患者面临败血症、循环衰竭和死亡的高风险。\n\n（选项 C 和 E）荚膜多糖阻止吞噬作用，并允许病原体在血液中复制和播散。它们还通过抑制吞噬体破坏来促进细菌在吞噬细胞内的存活。大多数现有的脑膜炎球菌疫苗靶向荚膜多糖。\n\n教育目标：\n菌毛是主要的毒力因子，它使脑膜炎奈瑟菌最初附着于鼻咽上皮表面并定植于鼻咽上皮。菌毛会发生显著的抗原变异，这使得它们成为一个难以疫苗接种的目标。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the primary virulence factors of Neisseria meningitidis and how antibodies targeting these factors prevent disease. Specifically, it assesses knowledge of the role of pili in initial colonization and the mechanism by which antibodies against pili confer protection.\n\nTo solve this question, one must identify the initial step in the pathogenesis of meningococcal disease and determine which microbial process is most directly targeted by antibodies against pili. The explanation highlights that pili are crucial for attachment and colonization of the nasopharyngeal epithelium, making this the most likely target for effective prevention by anti-pili antibodies.",
+    "zh": "这个问题测试对脑膜炎奈瑟菌主要毒力因子的理解，以及针对这些因子的抗体如何预防疾病。具体来说，它评估了对菌毛在初始定植中的作用以及针对菌毛的抗体赋予保护的机制的了解。\n\n要解决这个问题，必须确定脑膜炎奈瑟菌病发病机制的初始步骤，并确定抗菌毛抗体最直接针对哪种微生物过程。解释强调菌毛对于鼻咽上皮的附着和定植至关重要，这使其成为抗菌毛抗体有效预防的最可能靶标。"
+  },
+  "tags": "Neisseria meningitidis; Pili; Virulence factors; Bacterial colonization; Pathogenesis; Antibody therapy; Vaccination; Microbiology; Infectious disease",
+  "category": "Neuro",
+  "question_id": "1005",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\1005",
+  "extracted_at": "2025-11-05T19:30:43.389420",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:29:58.808838",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

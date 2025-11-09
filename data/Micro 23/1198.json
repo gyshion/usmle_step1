@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man comes to the emergency department due to fevers, chills, and confusion. He has a history of poorly controlled diabetes mellitus with a nonhealing ulcer of the left foot. His temperature is 38.3 C (101 F), blood pressure is 90/60 mm Hg, pulse is 112/min, and respirations are 22/min. On examination, there is slight erythema surrounding his left foot ulcer with foul-smelling discharge. No heart murmur is auscultated, the lungs are clear, and the abdomen is soft and nontender. Blood cultures are obtained, and he is started on broad-spectrum antibiotics. Twenty-four hours later, blood cultures grow β-lactamase-producing Bacteroides species.",
+    "zh": "一名65岁男性因发热、寒战和意识模糊来到急诊科。 他有控制不良的糖尿病病史，左足有一个不愈合的溃疡。 他的体温为38.3°C（101°F），血压为90/60 mmHg，脉搏为112次/分钟，呼吸为22次/分钟。 查体时，左足溃疡周围有轻微的红斑，并有恶臭的分泌物。 未闻及心脏杂音，肺部清晰，腹部柔软且无压痛。 进行了血培养，并开始使用广谱抗生素。 24小时后，血培养显示产β-内酰胺酶的脆弱拟杆菌（Bacteroides species）生长。"
+  },
+  "question": {
+    "en": "Which of the following is most likely to provide appropriate antimicrobial coverage for this patient?",
+    "zh": "下列哪种药物最有可能为该患者提供适当的抗菌覆盖？"
+  },
+  "options": {
+    "A": {
+      "en": "Azithromycin",
+      "zh": "阿奇霉素"
+    },
+    "B": {
+      "en": "Ceftriaxone",
+      "zh": "头孢曲松"
+    },
+    "C": {
+      "en": "Ciprofloxacin",
+      "zh": "环丙沙星"
+    },
+    "D": {
+      "en": "Piperacillin-tazobactam",
+      "zh": "哌拉西林-他唑巴坦"
+    },
+    "E": {
+      "en": "Vancomycin",
+      "zh": "万古霉素"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Areas of necrosis and diminished blood supply (such as chronic, nonhealing ulcers) facilitate the growth of anaerobes. Bacteroides are gram-negative anaerobic rods that can produce β-lactamase, an enzyme that breaks down penicillins. β-lactamase inhibitors such as tazobactam, clavulanic acid, and sulbactam prevent these enzymes from functioning. The combination of piperacillin (extended-spectrum penicillin) and tazobactam is effective against a large number of gram-positive, gram-negative, and anaerobic bacteria and would be the most appropriate option among the medications listed. Other antimicrobials with anaerobic activity include metronidazole, carbapenems, and clindamycin (in most cases). In patients with diabetes who have a necrotic (foul-smelling) infected ulcer, broad-spectrum antimicrobial coverage should be used as polymicrobial infection with organisms other than Bacteroides may be present.\n\n(Choice A) Azithromycin is a macrolide antibiotic that binds to the 50S subunit of bacterial ribosomes, thereby inhibiting protein synthesis. It is used for infections with Chlamydia, Mycoplasma, Haemophilus influenzae, and Moraxella catarrhalis. Anaerobic activity against many Fusobacterium and some Bacteroides species may be limited.\n\n(Choice B) Ceftriaxone is a third-generation parenteral cephalosporin with poor anaerobic activity. It is active against H influenzae, Klebsiella pneumoniae, and Neisseria and Serratia species.\n\n(Choice C) Ciprofloxacin is a second-generation quinolone that acts by interfering with bacterial DNA gyrase (topoisomerase II). Ciprofloxacin is active against most gram-negative rods and bacilli, including Legionella and Pseudomonas aeruginosa. It is not effective against anaerobic infections.\n\n(Choice E) Vancomycin is a tricyclic glycopeptide that inhibits the synthesis of peptidoglycan, a main component of the cell wall of gram-positive bacteria. It is used against methicillin-resistant Staphylococcus aureus as well as Clostridium difficile.\n\nEducational objective:\nPiperacillin-tazobactam is a combination of extended-spectrum penicillin with β-lactamase inhibitor. It is effective against most gram-negative enteric rods (including Pseudomonas aeruginosa) and against Bacteroides fragilis.",
+    "zh": "坏死和血供减少的区域（如慢性、不愈合的溃疡）促进厌氧菌的生长。 拟杆菌（Bacteroides）是革兰氏阴性厌氧杆菌，可以产生β-内酰胺酶，这是一种分解青霉素的酶。 β-内酰胺酶抑制剂（如他唑巴坦、克拉维酸和舒巴坦）可防止这些酶发挥作用。 哌拉西林（广谱青霉素）和他唑巴坦的组合对大量革兰氏阳性菌、革兰氏阴性菌和厌氧菌有效，并且是所列药物中最合适的选择。 具有厌氧活性的其他抗菌药物包括甲硝唑、碳青霉烯类和克林霉素（在大多数情况下）。 对于患有坏死（恶臭）感染性溃疡的糖尿病患者，应使用广谱抗菌药物覆盖，因为可能存在除拟杆菌（Bacteroides）之外的其他病原体的混合感染。\n\n（选项A） 阿奇霉素是一种大环内酯类抗生素，可与细菌核糖体的50S亚基结合，从而抑制蛋白质合成。 它用于沙眼衣原体、支原体、流感嗜血杆菌和卡他莫拉菌感染。 对许多梭形杆菌（Fusobacterium）和一些拟杆菌（Bacteroides）的厌氧活性可能有限。\n\n（选项B） 头孢曲松是一种第三代肠外给药头孢菌素，厌氧活性较差。 它对流感嗜血杆菌、肺炎克雷伯菌和奈瑟菌、沙雷菌属有效。\n\n（选项C） 环丙沙星是一种二代喹诺酮类药物，通过干扰细菌DNA促旋酶（拓扑异构酶II）发挥作用。 环丙沙星对大多数革兰氏阴性杆菌和杆菌有效，包括军团菌和铜绿假单胞菌。 它对厌氧菌感染无效。\n\n（选项E） 万古霉素是一种三环糖肽，可抑制肽聚糖的合成，肽聚糖是革兰氏阳性菌细胞壁的主要成分。 它用于对抗耐甲氧西林的金黄色葡萄球菌以及艰难梭菌。\n\n教育目标：\n哌拉西林-他唑巴坦是广谱青霉素与β-内酰胺酶抑制剂的组合。 它对大多数革兰氏阴性肠杆菌（包括铜绿假单胞菌）和脆弱拟杆菌（Bacteroides fragilis）有效。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of appropriate antibiotic selection for anaerobic infections, specifically Bacteroides species, in the context of a diabetic foot ulcer. It requires understanding of antibiotic mechanisms of action and spectrum of activity.\n\nThe best approach is to identify the likely pathogens (anaerobes in this case), consider the patient's risk factors (diabetes, foot ulcer), and select an antibiotic with appropriate coverage. Understanding the role of beta-lactamase inhibitors is crucial.",
+    "zh": "此题考察了在糖尿病足溃疡的背景下，针对厌氧菌感染，特别是拟杆菌（Bacteroides）的适当抗生素选择知识。它要求理解抗生素的作用机制和活性谱。\n\n最好的方法是确定可能的病原体（在本例中为厌氧菌），考虑患者的危险因素（糖尿病、足溃疡），并选择具有适当覆盖范围的抗生素。了解β-内酰胺酶抑制剂的作用至关重要。"
+  },
+  "tags": "Diabetic foot ulcer; Bacteroides; Anaerobic infection; Piperacillin-tazobactam; Beta-lactamase inhibitors; Infectious disease; Antibiotics; Gram-negative bacteria; Diabetes mellitus",
+  "category": "Micro",
+  "question_id": "1198",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1198",
+  "extracted_at": "2025-11-05T14:51:55.409974",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:06:25.187894",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

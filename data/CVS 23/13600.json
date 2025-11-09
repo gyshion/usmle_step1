@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 20-year-old college student dies suddenly in his sleep. His friends say he appeared fatigued and described palpitations and dyspnea with exertion in the weeks leading up to the event. He had no known medical history and did not use tobacco, alcohol, or illicit drugs. He has one brother who is healthy. His mother has a history of heart failure and underwent heart transplantation at age 40. Genetic studies reveal a defect in the *TTN* gene encoding for the titin protein. Autopsy findings are most likely to show which of the following phenotypes?",
+    "zh": "一名20岁的大学生在睡梦中猝死。他的朋友说他看起来很疲倦，并描述了在事件发生前的几周内出现心悸和劳力性呼吸困难。他没有已知的病史，并且不使用烟草、酒精或违禁药物。他有一个健康的兄弟。他的母亲有心力衰竭病史，并在40岁时接受了心脏移植。基因研究显示，*TTN* 基因存在缺陷，该基因编码肌联蛋白。尸检结果最有可能显示以下哪种表型？"
+  },
+  "question": {
+    "en": "Autopsy findings are most likely to show which of the following phenotypes?",
+    "zh": "尸检结果最有可能显示以下哪种表型？"
+  },
+  "options": {
+    "A": {
+      "en": "Arrhythmogenic right ventricular cardiomyopathy",
+      "zh": "致心律失常性右心室心肌病"
+    },
+    "B": {
+      "en": "Bicuspid aortic valve",
+      "zh": "二叶式主动脉瓣"
+    },
+    "C": {
+      "en": "Dilated cardiomyopathy",
+      "zh": "扩张型心肌病"
+    },
+    "D": {
+      "en": "Hypertrophic cardiomyopathy",
+      "zh": "肥厚型心肌病"
+    },
+    "E": {
+      "en": "Restrictive cardiomyopathy",
+      "zh": "限制型心肌病"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Dilated cardiomyopathy (DCM) occurs due to a direct insult to the myocardium that leads to a decrease in contractile function of one or both ventricles with a consequent increase in ventricular cavity size. It can result from a variety of causes, including viral infection, chemical toxicity (eg, doxorubicin, alcohol, cocaine), and infiltrative disease (late manifestation). Patients typically have symptoms of decompensated heart failure (eg, fatigue, dyspnea, orthopnea). In addition, the left ventricular structural changes place these patients at risk for sudden cardiac death due to ventricular arrhythmia.\n\nPatients are classified as having idiopathic DCM when no apparent cause of DCM is identified on routine clinical evaluation. A large percentage of these patients likely have a familial (inherited) cause. Familial DCM can result from a variety of genetic mutations affecting either sarcomere (ie, the contractile apparatus) or nonsarcomere proteins. Truncating mutations (usually nonsense mutations) affecting the *TTN* gene, which encodes for the sarcomere protein titin, are the most common cause of familial DCM. Titin is an elastic protein that anchors the beta-myosin heavy chain to the Z-discs and likely contributes to passive myocardial tension; absence of the full titin protein leads to myocardial dysfunction. {{exhibit_1}}\n\n*TTN* gene mutations follow autosomal dominant inheritance; however, they have incomplete penetrance, leading to delayed or absent clinical manifestations in some family members.\n\n(Choice A) Arrhythmogenic right ventricular cardiomyopathy is characterized by fibrosis and scarring of right ventricular myocardium, which predisposes to ventricular arrhythmias and sudden cardiac death. Familial disease most commonly results from impaired desmosome function due to mutations in genes encoding desmosomal proteins (eg, plakoglobin, desmoplakin).\n\n(Choice B) Familial bicuspid aortic valve disease has been associated with a mutation affecting the *NOTCH1* gene that encodes transcription regulatory proteins.\n\n(Choice D) Hypertrophic cardiomyopathy is a common cause of sudden cardiac death in young patients. It is inherited in an autosomal dominant pattern and most commonly involves mutations in the genes encoding beta-myosin heavy chain or myosin-binding protein C.\n\n(Choice E) Restrictive cardiomyopathy most commonly results from infiltrative disease (eg, amyloidosis, hemochromatosis, sarcoidosis); however, familial disease does occur. Familial restrictive cardiomyopathy typically involves mutations in genes encoding one of several sarcomere or cytoskeletal proteins, but mutations of the *TTN* gene are not a well-established cause.\n\nEducational objective:\nAutosomal dominant mutations in the *TTN* gene, which encodes for the sarcomere protein titin, are the most common cause of familial dilated cardiomyopathy.",
+    "zh": "扩张型心肌病 (DCM) 的发生是由于直接损伤心肌，导致一个或两个心室的收缩功能下降，从而导致心室腔增大。它可以由多种原因引起，包括病毒感染、化学毒性（例如，阿霉素、酒精、可卡因）和浸润性疾病（晚期表现）。患者通常有失代偿性心力衰竭的症状（例如，疲劳、呼吸困难、端坐呼吸）。此外，左心室结构改变使这些患者面临因室性心律失常导致心脏性猝死的风险。\n\n当在常规临床评估中未发现DCM的明显原因时，患者被归类为特发性DCM。这些患者的很大一部分可能存在家族性（遗传）原因。家族性DCM可能由多种影响肌节（即收缩装置）或非肌节蛋白的基因突变引起。影响编码肌节蛋白肌联蛋白的 *TTN* 基因的截短突变（通常是无义突变）是家族性DCM最常见的原因。肌联蛋白是一种弹性蛋白，它将β-肌球蛋白重链锚定在Z盘上，并可能有助于被动心肌张力；缺乏完整的肌联蛋白会导致心肌功能障碍。 {{exhibit_1}}\n\n*TTN* 基因突变遵循常染色体显性遗传；然而，它们具有不完全外显率，导致某些家庭成员出现临床表现延迟或缺失。\n\n(选项A) 致心律失常性右心室心肌病的特征是右心室心肌纤维化和瘢痕形成，这易于发生室性心律失常和心脏性猝死。家族性疾病最常由编码桥粒体蛋白的基因突变导致桥粒体功能受损（例如，桥粒球蛋白、桥粒蛋白）。\n\n(选项B) 家族性二叶式主动脉瓣疾病与影响编码转录调控蛋白的 *NOTCH1* 基因的突变有关。\n\n(选项D) 肥厚型心肌病是年轻患者心脏性猝死的一个常见原因。它以常染色体显性模式遗传，最常见的是涉及编码β-肌球蛋白重链或肌球蛋白结合蛋白C的基因的突变。\n\n(选项E) 限制型心肌病最常由浸润性疾病引起（例如，淀粉样变性、血色素沉着症、结节病）；然而，家族性疾病确实存在。家族性限制型心肌病通常涉及编码几种肌节或细胞骨架蛋白之一的基因突变，但 *TTN* 基因的突变并非已确立的原因。\n\n教育目标：\n编码肌节蛋白肌联蛋白的 *TTN* 基因的常染色体显性突变是家族性扩张型心肌病最常见的原因。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of genetic causes of dilated cardiomyopathy, specifically mutations in the TTN gene encoding titin. It also tests the ability to differentiate dilated cardiomyopathy from other types of cardiomyopathies based on genetic and pathological findings.\n\nTo solve this question, recognize the association between TTN gene mutations and dilated cardiomyopathy. Consider the patient's family history and the sudden death, which are consistent with a genetic cardiomyopathy. Rule out other cardiomyopathies based on their distinct genetic and pathological features.",
+    "zh": "本题考察扩张型心肌病遗传学病因的知识，特别是编码肌联蛋白的 TTN 基因突变。它还考察了根据遗传学和病理学发现区分扩张型心肌病与其他类型心肌病的能力。\n\n要解决这个问题，需要认识到 TTN 基因突变与扩张型心肌病之间的关联。考虑患者的家族史和猝死，这与遗传性心肌病一致。根据其他心肌病的独特遗传学和病理学特征排除它们。"
+  },
+  "tags": "Dilated cardiomyopathy; TTN gene; Titin; Cardiomyopathy; Genetics; Autopsy; Heart failure; Familial cardiomyopathy; Sarcomere; Cardiac muscle",
+  "category": "CVS",
+  "question_id": "13600",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\13600",
+  "extracted_at": "2025-11-05T11:52:58.909336",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:45:02.760380",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

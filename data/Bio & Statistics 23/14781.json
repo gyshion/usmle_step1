@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 50-year-old previously healthy man is evaluated for progressive fatigue, weakness, and recurrent gingival bleeding. Laboratory studies reveal normocytic normochromic anemia, thrombocytopenia, and leukocytosis with circulating myeloblasts. Bone marrow biopsy establishes a diagnosis of acute myeloid leukemia. Induction chemotherapy followed by allogeneic hematopoietic cell transplantation (HCT) is planned. Molecular typing of human leukocyte antigen (HLA) -A, -B, -C, -DP, -DQ, and -DR is performed. The patient's biological sister, with whom he shares both parents, is eligible for stem cell donation and undergoes HLA typing.",
+    "zh": "一名先前健康的50岁男性因进行性疲劳、乏力、以及反复牙龈出血就诊。实验室检查显示正细胞正色素性贫血、血小板减少症和伴有循环髓母细胞的白细胞增多症。骨髓活检确诊为急性髓性白血病。计划进行诱导化疗，随后进行异基因造血干细胞移植 (HCT)。进行人类白细胞抗原 (HLA) -A、-B、-C、-DP、-DQ 和 -DR 的分子分型。该患者的亲生姐妹与他共有父母，符合干细胞捐献条件，并接受 HLA 分型。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely probability that the sibling will be an identical HLA match with this patient?",
+    "zh": "以下哪项是该患者的兄弟姐妹与该患者 HLA 完全匹配的最可能概率？"
+  },
+  "options": {
+    "A": {
+      "en": "0",
+      "zh": "0"
+    },
+    "B": {
+      "en": "1/16",
+      "zh": "1/16"
+    },
+    "C": {
+      "en": "1/8",
+      "zh": "1/8"
+    },
+    "D": {
+      "en": "1/4",
+      "zh": "1/4"
+    },
+    "E": {
+      "en": "1/2",
+      "zh": "1/2"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Each child inherits 2 HLA haplotypes, one from the mother and one from the father. Therefore, the probabilities that a given sibling will share some or all of the same HLA genes are as follows:\n\n*   1/4 chance of inheriting all the same HLA genes (ie, identical HLA match).\n*   1/2 chance of inheriting half of the same HLA genes (ie, haploidentical HLA match) (Choice E).\n*   1/4 chance of inheriting none of the same HLA genes (ie, HLA mismatch).",
+    "zh": "每个孩子从母亲和父亲那里各继承2个HLA单倍型。 因此，一个给定的兄弟姐妹会共享相同HLA基因的可能性如下：\n\n*   有1/4的几率继承所有相同的HLA基因（即，相同的HLA匹配）。\n*   有1/2的几率继承一半相同的HLA基因（即，半相合HLA匹配）(选项 E)。\n*   有1/4的几率没有继承任何相同的HLA基因（即，HLA不匹配）。"
+  },
+  "summary": {
+    "en": "The question asks about the probability of a sibling being an identical HLA match for a patient undergoing hematopoietic cell transplantation. The correct answer is 1/4, as each child inherits two HLA haplotypes, one from each parent, resulting in a 1/4 chance of inheriting the same HLA genes.",
+    "zh": "本题询问在接受造血干细胞移植的患者中，其兄弟姐妹为完全 HLA 匹配的概率。正确答案是1/4，因为每个孩子从父母双方继承两个 HLA 单倍型，因此有1/4的几率继承相同的 HLA 基因。"
+  },
+  "tags": [
+    "Hematology",
+    "Immunology",
+    "Genetics",
+    "HLA Typing",
+    "Stem Cell Transplantation"
+  ],
+  "category": "Bio",
+  "question_id": "14781",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\14781",
+  "extracted_at": "2025-11-05T10:59:30.938638",
+  "extraction_config": {
+    "temperature": 0.5,
+    "top_k": 60,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:21:33.770311",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "Results of a recent study on the association between levels of glycosylated hemoglobin (HbA1c) and levels of high-sensitivity C-reactive protein (hs-CRP) in patients with type II diabetes mellitus (T2DM) read as follows:\n\n\"The results of our study show that levels of HbA1c positively correlated with the levels of hs-CRP (r = 0.80). The probability that these results were due to chance alone is 3%, with a 10% chance of concluding no relationship between HbA1c and hs-CRP when one truly exists.\" {{exhibit_1}}\n\nBased on this information, which of the following most likely represents the *p*-value and the power of the correlation test in the study?",
+    "zh": "一项关于 II 型糖尿病 (T2DM) 患者糖化血红蛋白 (HbA1c) 水平与高敏 C 反应蛋白 (hs-CRP) 水平之间关联性的最新研究结果如下：\n\n“我们的研究结果表明，HbA1c 水平与 hs-CRP 水平呈正相关 (r = 0.80)。 这些结果仅由偶然性造成的概率为 3%，而当 HbA1c 和 hs-CRP 之间确实存在关系时，得出它们之间没有关系的概率为 10%。” {{exhibit_1}}\n\n基于此信息，以下哪项最有可能代表该研究中相关性检验的 *p* 值和效能？"
+  },
+  "question": {
+    "en": "Based on this information, which of the following most likely represents the *p*-value and the power of the correlation test in the study?",
+    "zh": "基于此信息，以下哪项最有可能代表该研究中相关性检验的 *p* 值和效能？"
+  },
+  "options": {
+    "A": {
+      "en": "0.03\n0.10",
+      "zh": "0.03\n0.10"
+    },
+    "B": {
+      "en": "0.03\n0.80",
+      "zh": "0.03\n0.80"
+    },
+    "C": {
+      "en": "0.03\n0.90",
+      "zh": "0.03\n0.90"
+    },
+    "D": {
+      "en": "0.05\n0.10",
+      "zh": "0.05\n0.10"
+    },
+    "E": {
+      "en": "0.05\n0.80",
+      "zh": "0.05\n0.80"
+    },
+    "F": {
+      "en": "0.05\n0.90",
+      "zh": "0.05\n0.90"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Power and *p*-value are related to the process of hypothesis testing. Research studies generally compare a null hypothesis (H₀) (typically of no difference or no association [eg, no correlation between glycosylated hemoglobin and high-sensitivity C-reactive protein levels]) against an alternative hypothesis (H₁) (typically of a difference or an association). Hypothesis testing may result in 1 of 4 possible outcomes:\n\n•\t2 correct decisions:\n◦\tFail to reject a true H₀ (ie, determine there is no correlation when one truly doesn’t exist)\n◦\tReject a false H₀ (ie, determine there is a correlation when one truly exists)\n\n•\t2 incorrect decisions:\n◦\tType I error: reject a true H₀ (ie, determine there is a correlation when one truly doesn’t exist)\n◦\tType II error: fail to reject a false H₀ (ie, determine there is a correlation when one truly exists)\n\nThe **power of a test** is the probability of making the correct decision of rejecting a false H₀. It is the complement of the probability of a type II error (β), which is the probability of failing to reject a false H₀; in other words, **power = (1 – β)**. This study reported a 10% chance (ie, 0.10 probability) of concluding that there is no relationship (ie, no correlation) between the 2 variables under study when one truly exists; this is the probability of a type II error (β). Therefore, the power of the test (ie, probability of rejecting a false H₀; stating there is a correlation when one truly exists) is **1 – 0.10 = 0.90**.\n\nOne way to determine whether to reject H₀ is to calculate the **p-value**, the probability of obtaining the observed result (or results more extreme) when H₀ is assumed to be true. The *p*-value is also informally interpreted as the **probability that the observed results are due to chance** (although this is not technically correct). In this case, researchers concluded that the probability that results were due to chance is 0.03; therefore, the **p-value = 0.03**.",
+    "zh": "效能和 *p* 值与假设检验过程相关。 研究通常将零假设 (H₀)（通常为无差异或无关联 [例如，糖化血红蛋白和高敏 C 反应蛋白水平之间无相关性]）与备择假设 (H₁)（通常为差异或关联）进行比较。 假设检验可能导致以下 4 种可能的结果：\n\n•\t2 个正确的决定：\n◦\t不拒绝真实的 H₀（即，确定不存在相关性）\n◦\t拒绝错误的 H₀（即，确定存在相关性）\n\n•\t2 个错误的决定：\n◦\tI 型错误：拒绝真实的 H₀（即，确定存在相关性）\n◦\tII 型错误：未能拒绝错误的 H₀（即，确定存在相关性）\n\n**检验的效能**是做出拒绝错误 H₀ 的正确决定的概率。 它是 II 型错误 (β) 概率的补数，II 型错误是指未能拒绝错误 H₀ 的概率； 换句话说，**效能 = (1 – β)**。 本研究报告称，当研究的两个变量之间确实存在关系时，得出它们之间没有关系（即，没有相关性）的概率为 10%（即，0.10 的概率）； 这是 II 型错误 (β) 的概率。 因此，检验的效能（即，拒绝错误 H₀ 的概率；即，当确实存在相关性时，声明存在相关性）为 **1 – 0.10 = 0.90**。\n\n确定是否拒绝 H₀ 的一种方法是计算 **p 值**，即在假设 H₀ 为真时获得观察结果（或更极端的的结果）的概率。 *p* 值也可非正式地解释为 **观察结果是由偶然性造成的概率**（尽管从技术上讲这并不正确）。 在本例中，研究人员得出的结论是，结果由偶然性造成的概率为 0.03； 因此，**p 值 = 0.03**。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of statistical concepts including p-value and power in the context of hypothesis testing. It requires the ability to interpret study results and relate them to these statistical measures.\n\nThe approach to solve this question involves identifying the p-value directly from the statement about the probability of results being due to chance. Then, calculate the power of the test by subtracting the probability of a Type II error (concluding no relationship when one exists) from 1.",
+    "zh": "此问题考察对统计概念的理解，包括假设检验背景下的 p 值和效能。 它要求能够解释研究结果并将其与这些统计测量相关联。\n\n解决此问题的方法包括直接从关于结果由偶然性造成的概率的陈述中识别 p 值。 然后，通过从 1 中减去 II 型错误的概率（当存在关系时得出没有关系的结论）来计算检验的效能。"
+  },
+  "tags": "Biostatistics; Hypothesis testing; P-value; Statistical power; Type II error",
+  "category": "Bio",
+  "question_id": "19800",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19800",
+  "extracted_at": "2025-11-05T11:14:34.979743",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:23:32.469503",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

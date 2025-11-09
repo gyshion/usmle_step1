@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old man comes to the office with a 2-week history of malaise, loss of appetite, and vague abdominal pain. The patient has had no nausea, vomiting, changes in bowel habits, dysuria, urinary frequency, or hematuria. He had an appendectomy for acute appendicitis at age 15; medical history is otherwise unremarkable. The patient does not use tobacco or alcohol and has had no recent travel. Physical examination reveals normal bowel sounds and no guarding or rebound tenderness. Abdominal CT scan obtained as part of this patient's evaluation is shown in the image below: {{exhibit_1}}",
+    "zh": "一名23岁的男性来到诊所，主诉2周的乏力、食欲不振和模糊的腹痛病史。患者没有恶心、呕吐、排便习惯改变、排尿困难、尿频或血尿。他15岁时因急性阑尾炎接受了阑尾切除术；其他病史无特殊。患者不吸烟或饮酒，并且近期没有旅行史。体格检查显示肠鸣音正常，无腹肌紧张或反跳痛。作为该患者评估的一部分进行的腹部CT扫描显示在下图：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "The structure indicated by the arrow originates from the same embryologic germ layer as which of the following tissues?",
+    "zh": "箭头所指的结构起源于与下列哪种组织相同的胚胎发生胚层？"
+  },
+  "options": {
+    "A": {
+      "en": "Adrenal medulla",
+      "zh": "肾上腺髓质"
+    },
+    "B": {
+      "en": "Liver",
+      "zh": "肝脏"
+    },
+    "C": {
+      "en": "Salivary glands",
+      "zh": "唾液腺"
+    },
+    "D": {
+      "en": "Skeletal muscle",
+      "zh": "骨骼肌"
+    },
+    "E": {
+      "en": "Thymus",
+      "zh": "胸腺"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The arrow on this patient's abdominal CT scan is pointing to the spleen, a large, wedge-shaped lymphatic organ in the left posterosuperior aspect of the abdominal cavity. By convention, CT scans are presented such that the patient's left is on the reader's right (imagine that the patient is supine with the feet directed toward the viewer).\n\nMost intraabdominal organs are derived from the endoderm and include the small and large intestines, liver, and pancreas (Choice B). However, the spleen is unique because it is derived from condensed mesenchymal tissue in the dorsal mesentery. Mesenchymal tissue arises from the mesoderm and is characterized by loosely associated cells surrounded by the extracellular matrix.\n\nOther derivatives of the mesoderm include muscle (skeletal, cardiac, smooth), bone, and kidney.\n\n(Choice A) The adrenal cortex is derived from the mesoderm, similar to the spleen. In contrast, the adrenal medulla arises from neural crest cells (derived from the ectoderm).\n\n(Choice C) Salivary glands are derived from the surface ectoderm.\n\n(Choice E) The thymus is derived from the endoderm.\n\nEducational objective:\nThe spleen is a large, wedge-shaped lymphatic organ in the left posterosuperior aspect of the abdominal cavity. In contrast to the endodermal origin of most other abdominal organs, the spleen is derived from the mesoderm in the dorsal mesentery. Other mesoderm-derived tissues include muscle, bone, and kidney.\n\n{{exhibit_2}}",
+    "zh": "该患者腹部CT扫描上的箭头指向脾脏，脾脏是腹腔左后上方的楔形淋巴器官。按照惯例，CT扫描的呈现方式是患者的左侧在读者的右侧（想象患者仰卧，双脚朝向观看者）。\n\n大多数腹腔内脏器来源于内胚层，包括小肠、大肠、肝脏和胰腺（选项B）。然而，脾脏是独一无二的，因为它来源于背侧肠系膜中的浓缩间充质组织。间充质组织起源于中胚层，其特征是松散相关的细胞被细胞外基质包围。\n\n中胚层的其他衍生物包括肌肉（骨骼肌、心肌、平滑肌）、骨和肾。\n\n（选项A）肾上腺皮质来源于中胚层，与脾脏相似。相反，肾上腺髓质起源于神经嵴细胞（来源于外胚层）。\n\n（选项C）唾液腺来源于表面外胚层。\n\n（选项E）胸腺来源于内胚层。\n\n教育目标：\n脾脏是腹腔左后上方的楔形淋巴器官。与大多数其他腹部器官的内胚层起源不同，脾脏来源于背侧肠系膜中的中胚层。其他中胚层来源的组织包括肌肉、骨和肾。\n\n{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of embryological origins of different tissues and organs, specifically the spleen and its mesodermal origin. It requires understanding the germ layers and their derivatives.\n\nTo solve this question, identify the organ indicated by the arrow (spleen), recall its embryological origin (mesoderm), and then identify which of the answer choices also originates from the mesoderm.",
+    "zh": "本题考察对不同组织和器官的胚胎学起源的知识，特别是脾脏及其起源于中胚层。它要求理解胚层及其衍生物。\n\n要解决这个问题，确定箭头所指的器官（脾脏），回忆其胚胎学起源（中胚层），然后确定哪个选项也起源于中胚层。"
+  },
+  "tags": "Embryology; Spleen; Mesoderm; Germ layers; Adrenal medulla; Liver; Salivary glands; Skeletal muscle; Thymus; CT scan",
+  "category": "GIT",
+  "question_id": "12198",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\12198",
+  "extracted_at": "2025-11-05T14:22:52.001814",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:50:40.061675",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

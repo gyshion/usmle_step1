@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 7-year-old girl is brought to the clinic due to nasal congestion with facial pain. The patient first developed congestion over a year ago. Her parents have been treating it with over-the-counter allergy medications, but there has been no improvement. Over the past 4 months, the congestion has worsened, and now the patient has difficulty breathing through her nose. She also developed a dry cough and a constant, dull pain over her cheeks. The patient's stools have been loose. Temperature is 37.8 C (100 F). Weight is at <1st percentile at 18 kg (39.7 lb), decreased from 19 kg (41.9 lb) 3 months ago. Examination reveals copious yellow mucus within both nares. Translucent, gray, shiny masses obscure the middle turbinates bilaterally. Lymphadenopathy is not present. The lungs have coarse breath sounds bilaterally. The abdomen is soft with no organomegaly. Which of the following is the most likely diagnosis?",
+    "zh": "一名7岁女孩因鼻塞伴面部疼痛到诊所就诊。患者一年前首次出现鼻塞。她的父母一直在用非处方抗过敏药物治疗，但没有改善。在过去的4个月里，鼻塞加重，现在患者呼吸困难。她还出现了干咳和脸颊持续钝痛。患者的粪便稀便。体温37.8摄氏度（100华氏度）。体重低于第1百分位数，为18公斤（39.7磅），低于3个月前的19公斤（41.9磅）。检查显示双侧鼻孔内有大量黄色粘液。半透明、灰色、有光泽的肿块遮挡双侧中鼻甲。未见淋巴结肿大。双侧肺部有粗糙的呼吸音。腹部柔软，无脏器肿大。以下哪项是最可能的诊断？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Cystic fibrosis",
+      "zh": "囊性纤维化"
+    },
+    "B": {
+      "en": "HIV infection",
+      "zh": "HIV感染"
+    },
+    "C": {
+      "en": "Nasopharyngeal carcinoma",
+      "zh": "鼻咽癌"
+    },
+    "D": {
+      "en": "Primary ciliary dyskinesia",
+      "zh": "原发性纤毛运动障碍"
+    },
+    "E": {
+      "en": "Seasonal allergic rhinitis",
+      "zh": "季节性过敏性鼻炎"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has chronic rhinosinusitis with nasal polyposis and failure to thrive, findings concerning for cystic fibrosis (CF). CF is an inherited, multisystem disorder characterized by the abnormal transport of sodium and chloride due to a mutation in the CFTR gene. Although common CF mutations (eg, ΔF508) are often identified on newborn screening, less common mutations may go undetected and cause milder symptoms later in childhood.\n\nAbnormal CFTR function causes thick, viscous respiratory secretions and impaired mucociliary clearance, leading to chronic sinopulmonary disease (eg, chronic rhinosinusitis). Patients typically have chronic cough, nasal congestion, and facial pain, as seen in this patient. Bilateral nasal polyps, benign outgrowths of inflamed mucosa, are also common due to chronic infection and present as nontender, shiny, gray masses in the nasal cavity or paranasal sinuses.\n\nIn CF, viscous secretions can also block pancreatic ducts, leading to pancreatic insufficiency. Decreased or absent pancreatic enzymes cause fat malabsorption with oily, loose stools and failure to thrive and/or weight loss. Over time, pancreatic injury can also lead to insufficient insulin production and CF-related diabetes.\n\n(Choice B) HIV infection causes chronic infections and weight loss. However, without a known exposure (eg, blood transfusion), most pediatric HIV cases are transmitted perinatally; these patients typically develop symptoms by age 2, unlike this patient, who is age 7. In addition, nasal polyposis is rare with HIV.\n\n(Choice C) Nasopharyngeal carcinoma presents with a nasopharyngeal mass that may cause facial pain and associated weight loss. However, the tumor is typically unilateral, and the diagnosis is usually in patients age >50.\n\n(Choice D) Primary ciliary dyskinesia can present similarly to CF, with chronic rhinosinusitis and nasal polyposis due to impaired mucociliary clearance. However, failure to thrive and weight loss are not associated with this disorder.\n\n(Choice E) Seasonal allergic rhinitis is a risk factor for developing sinus infections and nasal polyposis but would not cause weight loss.\n\nEducational objective:\nChronic rhinosinusitis with nasal polyposis in children should prompt evaluation for cystic fibrosis, especially when signs of pancreatic insufficiency (eg, loose stools, failure to thrive, weight loss) are present. {{exhibit_1}} {{exhibit_2}}",
+    "zh": "该患者患有慢性鼻窦炎伴鼻息肉和生长迟缓，提示囊性纤维化 (CF)。CF是一种遗传性、多系统疾病，其特征是由于CFTR基因突变导致钠和氯的异常转运。虽然常见的CF突变（例如，ΔF508）经常在新生儿筛查中被发现，但不太常见的突变可能未被发现，并在儿童后期引起较轻的症状。\n\nCFTR功能异常会导致呼吸道分泌物粘稠，粘液纤毛清除受损，从而导致慢性鼻窦肺部疾病（例如，慢性鼻窦炎）。患者通常有慢性咳嗽、鼻塞和面部疼痛，如该患者所示。双侧鼻息肉是炎症粘膜的良性增生，也很常见，是由于慢性感染引起的，表现为鼻腔或鼻旁窦的无触痛、有光泽的灰色肿块。\n\n在CF中，粘稠的分泌物也会阻塞胰管，导致胰腺功能不全。胰酶减少或缺失会导致脂肪吸收不良，出现油性、稀便，以及生长迟缓和/或体重减轻。随着时间的推移，胰腺损伤还会导致胰岛素生成不足和CF相关的糖尿病。\n\n(选项B) HIV感染会导致慢性感染和体重减轻。然而，如果没有已知的暴露（例如，输血），大多数儿科HIV病例都是围产期传播的；这些患者通常在2岁时出现症状，这与7岁的患者不同。此外，HIV感染很少出现鼻息肉。\n\n(选项C) 鼻咽癌表现为鼻咽肿块，可引起面部疼痛和相关体重减轻。然而，肿瘤通常是单侧的，并且通常在年龄>50岁的患者中诊断。\n\n(选项D) 原发性纤毛运动障碍的临床表现与CF相似，由于纤毛清除功能受损，可出现慢性鼻窦炎和鼻息肉。然而，生长迟缓和体重减轻与该疾病无关。\n\n(选项E) 季节性过敏性鼻炎是发生鼻窦感染和鼻息肉的危险因素，但不会导致体重减轻。\n\n教学目标：\n儿童出现慢性鼻窦炎伴鼻息肉时，应提示评估囊性纤维化，特别是当出现胰腺功能不全的迹象（例如，稀便、生长迟缓、体重减轻）时。{{exhibit_1}} {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of cystic fibrosis presentation in a child, specifically focusing on the association of chronic rhinosinusitis, nasal polyposis, failure to thrive, and loose stools. It requires recognizing the constellation of symptoms that point towards CF and differentiating it from other conditions with overlapping features. \n\nThe key to solving this question is identifying the combination of respiratory symptoms (chronic rhinosinusitis, nasal polyps) and gastrointestinal symptoms (loose stools, failure to thrive) as suggestive of pancreatic insufficiency, a common manifestation of cystic fibrosis. Ruling out other conditions based on age, presentation, and associated findings is also crucial.",
+    "zh": "本题考察了儿童囊性纤维化的表现，特别是关注慢性鼻窦炎、鼻息肉、生长迟缓和稀便之间的关联。它需要识别指向CF的症状组合，并将其与其他具有重叠特征的疾病区分开来。\n\n解决此问题的关键是识别呼吸系统症状（慢性鼻窦炎、鼻息肉）和胃肠道症状（稀便、生长迟缓）的组合，这提示胰腺功能不全，这是囊性纤维化的常见表现。根据年龄、表现和相关发现排除其他疾病也很重要。"
+  },
+  "tags": "Cystic fibrosis; Chronic rhinosinusitis; Nasal polyposis; Pancreatic insufficiency; Failure to thrive; CFTR gene; Respiratory system; Gastrointestinal system; Pediatrics; Genetic disorder",
+  "category": "ENT",
+  "question_id": "19576",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\ENT 23\\19576",
+  "extracted_at": "2025-11-05T14:14:29.438657",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:44:58.257529",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

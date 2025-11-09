@@ -1,0 +1,80 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old woman is brought to the emergency department after an episode during which she abruptly lost consciousness and had rhythmic jerking movements of the limbs followed by a period of confusion. The patient has had mild daily headaches associated with nausea that have progressed over the past 2 years. The headaches are worse at night and occasionally awaken her. The patient reports no head trauma, visual changes, weakness, numbness, or difficulty swallowing or speaking. She does not use alcohol or illicit drugs. There is no family history of seizures. An intracranial mass is discovered on neuroimaging and a biopsy of the mass is shown in the image below. {{exhibit_1}}",
+    "zh": "一名45岁女性因突发意识丧失被送往急诊科，伴有肢体节律性抽搐，随后出现意识模糊。患者过去2年来一直有轻微的每日头痛，伴有恶心，且症状逐渐加重。头痛在夜间加重，并偶尔会痛醒她。患者自述无头部外伤、视力改变、无力、麻木、吞咽或言语困难。她不饮酒，也不使用违禁药物。无癫痫家族史。神经影像学检查发现颅内肿块，肿块活检结果见下图。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Craniopharyngioma",
+      "zh": "颅咽管瘤"
+    },
+    "B": {
+      "en": "Ependymoma",
+      "zh": "室管膜瘤"
+    },
+    "C": {
+      "en": "Glioblastoma",
+      "zh": "胶质母细胞瘤"
+    },
+    "D": {
+      "en": "Medulloblastoma",
+      "zh": "髓母细胞瘤"
+    },
+    "E": {
+      "en": "Meningioma",
+      "zh": "脑膜瘤"
+    },
+    "F": {
+      "en": "Oligodendroglioma",
+      "zh": "少突胶质细胞瘤"
+    },
+    "G": {
+      "en": "Pilocytic astrocytoma",
+      "zh": "毛细胞型星形细胞瘤"
+    },
+    "H": {
+      "en": "Schwannoma",
+      "zh": "神经鞘瘤"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's biopsy findings are consistent with MENINGIOMA, a slow-growing benign tumor derived from meningothelial cells of the arachnoid. Note the syncytial nests and whorled pattern of cellular growth, which may calcify and appear as round, laminar structures called psammoma bodies. Other examples of tumors that form psammoma bodies include papillary thyroid carcinoma, mesothelioma, and serous carcinoma of the ovary and endometrium.\n\nMeningiomas form well-circumscribed, round masses attached to the dura and are commonly found at the falx, parasagittal, or lateral convexity regions of the brain. SEIZURE can occur due to compression of the adjacent cerebral cortex. Headaches, nausea, and vomiting may result from increased intracranial pressure, which worsens during recumbency and with sleep (due to increased intracranial blood volume). Individuals may also develop focal neurologic deficits depending on tumor size/location.\n\n(Choice A) Adamantinomatous craniopharyngiomas most often present as benign suprasellar tumors in children and appear as cords/nests of palisading squamous epithelium with areas of lamellar \"wet\" keratin under light microscopy. {{exhibit_2}}\n\n(Choice B) Ependymomas typically present as periventricular tumors (eg, floor of the fourth ventricle) and have characteristic perivascular pseudorosettes under light microscopy. {{exhibit_3}}\n\n(Choice C) Glioblastomas are the most common primary malignant brain tumor in adults. They are often located in the cerebral hemispheres and may cross the corpus callosum (\"butterfly glioma\"). Light microscopy shows hypercellular areas of atypical astrocytes bordering regions of necrosis (pseudo-palisading). {{exhibit_4}}\n\n(Choice D) Medulloblastomas are malignant cerebellar tumors that typically occur in children and are characterized by small blue cells that may surround neuropil (ie, interwoven nerve fibers and synapses), forming Homer Wright rosettes under light microscopy. {{exhibit_5}}\n\n(Choice F) Oligodendrogliomas typically involve the white matter of the cerebral hemispheres, and tumor cells have a \"fried egg\" appearance (round nuclei surrounded by a halo of clear cytoplasm) under light microscopy. {{exhibit_6}}\n\n(Choice G) Pilocytic astrocytomas are usually benign tumors that involve the cerebellum in children and young adults. Light microscopy typically shows tumor cells with elongated hairlike processes, eosinophilic granular bodies, and Rosenthal fibers. {{exhibit_7}}\n\n(Choice H) Schwannomas are benign tumors that commonly arise from the vestibular branch of cranial nerve VIII at the cerebellopontine angle. Light microscopy typically shows spindle cells with palisading nuclei arranged around eosinophilic cores of fibrillary cell processes (Verocay bodies). {{exhibit_8}}\n\nEducational objective:\nMENINGIOMAS are slow-growing, well-circumscribed, benign intracranial tumors typically found at the convexities in adults. Characteristic histopathologic features include syncytial nests and a whorled pattern of cellular growth, which may calcify into round, laminar structures called psammoma bodies. {{exhibit_9}}",
+    "zh": "该患者的活检结果与脑膜瘤一致，脑膜瘤是一种源自蛛网膜脑膜细胞的生长缓慢的良性肿瘤。注意合胞巢和细胞呈漩涡状生长模式，这些细胞可能会钙化并呈现为圆形、层状结构，称为砂粒体。形成砂粒体的其他肿瘤包括乳头状甲状腺癌、间皮瘤以及卵巢和子宫内膜的浆液性癌。\n\n脑膜瘤形成边界清楚的圆形肿块，附着于硬脑膜，常位于大脑镰、矢状旁或侧凸区域。由于压迫邻近的大脑皮质，可能发生癫痫发作。头痛、恶心和呕吐可能源于颅内压增高，在卧位和睡眠期间加重（由于颅内血容量增加）。个体还可能出现局灶性神经功能缺损，这取决于肿瘤的大小/位置。\n\n(选项 A) 腺瘤型颅咽管瘤最常表现为儿童的良性鞍上肿瘤，在光镜下显示为栅栏状鳞状上皮细胞索/巢，并伴有层状“湿”角蛋白区域。{{exhibit_2}}\n\n(选项 B) 室管膜瘤通常表现为脑室周围肿瘤（例如，第四脑室底），在光镜下具有特征性的血管周围假菊形团。{{exhibit_3}}\n\n(选项 C) 胶质母细胞瘤是成人中最常见的原发性恶性脑肿瘤。它们通常位于大脑半球，并可能穿过胼胝体（“蝴蝶胶质瘤”）。光镜下显示非典型星形胶质细胞的过度细胞区域，与坏死区域相邻（假栅栏状）。{{exhibit_4}}\n\n(选项 D) 髓母细胞瘤是恶性小脑肿瘤，通常发生在儿童中，其特征是小蓝细胞，可能围绕神经丛（即交织的神经纤维和突触），在光镜下形成 Homer Wright 玫瑰花结。{{exhibit_5}}\n\n(选项 F) 少突胶质细胞瘤通常累及大脑半球的白质，并且在光镜下，肿瘤细胞呈“煎蛋”样外观（圆形核，周围环绕着透明细胞质晕）。{{exhibit_6}}\n\n(选项 G) 毛细胞型星形细胞瘤通常是良性肿瘤，累及儿童和年轻成人的小脑。光镜下通常显示肿瘤细胞具有细长的毛发状突起、嗜酸性颗粒体和 Rosenthal 纤维。{{exhibit_7}}\n\n(选项 H) 神经鞘瘤是良性肿瘤，通常起源于颅神经 VIII 的前庭分支，位于桥小脑角。光镜下通常显示梭形细胞，其栅栏状核围绕着纤维细胞突起（Verocay 小体）的嗜酸性核心排列。{{exhibit_8}}\n\n教育目标：\n脑膜瘤是生长缓慢、边界清楚的良性颅内肿瘤，通常见于成人的凸面。特征性组织病理学特征包括合胞巢和细胞呈漩涡状生长模式，这些细胞可能会钙化形成圆形、层状结构，称为砂粒体。{{exhibit_9}}"
+  },
+  "summary": {
+    "en": "This question tests the ability to diagnose a meningioma based on clinical presentation and histopathological findings. It assesses knowledge of common intracranial tumors, their typical locations, associated symptoms, and characteristic microscopic features.\n\nTo solve this question, one must correlate the patient's symptoms (seizures, headaches, nausea) with the location and type of intracranial mass suggested by neuroimaging and biopsy. Recognizing the classic histopathological features described, such as syncytial nests and psammoma bodies, is crucial for identifying the correct diagnosis among the differential options.",
+    "zh": "此问题测试根据临床表现和组织病理学发现诊断脑膜瘤的能力。它评估了对常见颅内肿瘤、其典型位置、相关症状和特征性显微镜特征的了解。\n\n要解决这个问题，必须将患者的症状（癫痫发作、头痛、恶心）与神经影像学检查和活检提示的颅内肿块的位置和类型相关联。识别所描述的经典组织病理学特征，如合胞巢和砂粒体，对于在鉴别诊断选项中确定正确诊断至关重要。"
+  },
+  "tags": "Meningioma; Intracranial mass; Seizures; Headache; Psammoma bodies; Histopathology; Neuroimaging; Benign brain tumor; Neurology; Neurosurgery",
+  "category": "Neuro",
+  "question_id": "1151",
+  "has_exhibits": true,
+  "exhibit_count": 9,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg",
+    "image9.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\1151",
+  "extracted_at": "2025-11-05T19:31:14.284569",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:31:02.473173",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

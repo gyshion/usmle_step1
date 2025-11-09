@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old man comes to the physician at his girlfriend's insistence. She says that the patient's frequent snoring keeps her up at night and that in the last 4 months he has twice fallen asleep while they were talking. In this same period, the patient says that he has regularly fallen asleep in the afternoon while reading or watching television but typically feels refreshed after a brief nap. When asked whether he experiences any other symptoms, the patient hesitantly reveals that he sometimes hears a voice call his name prior to falling asleep. He also reports uncharacteristic episodes of clumsiness in which he has suddenly dropped objects or fallen to his knees. Examination shows no abnormalities.",
+    "zh": "一名23岁的男性在女友的坚持下前来就医。女友说，该患者经常打鼾，让她夜里无法入睡，而且在过去的4个月里，他两次在他们谈话时睡着了。在同一时期，患者说他经常在下午看书或看电视时睡着，但通常在短暂的午睡后感觉神清气爽。当被问及他是否经历过任何其他症状时，患者犹豫地说，他在入睡前有时会听到一个声音叫他的名字。他还报告了不寻常的笨拙发作，他突然掉东西或跪倒在地。检查未见异常。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis in this patient?",
+    "zh": "该患者最可能的诊断是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Brief psychotic disorder",
+      "zh": "短暂精神病性障碍"
+    },
+    "B": {
+      "en": "Delayed sleep-wake phase disorder",
+      "zh": "睡眠-觉醒时相延迟障碍"
+    },
+    "C": {
+      "en": "Idiopathic hypersomnia",
+      "zh": "特发性嗜睡"
+    },
+    "D": {
+      "en": "Insufficient sleep",
+      "zh": "睡眠不足"
+    },
+    "E": {
+      "en": "Narcolepsy",
+      "zh": "发作性睡病"
+    },
+    "F": {
+      "en": "Obstructive sleep apnea",
+      "zh": "阻塞性睡眠呼吸暂停"
+    },
+    "G": {
+      "en": "REM sleep behavior disorder",
+      "zh": "快速眼动睡眠行为障碍"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Narcolepsy is a chronic sleep disorder characterized by frequent, overwhelming urges to sleep. It is commonly associated with cataplexy, a sudden loss of muscle tone that occurs in response to intense (usually positive) emotions. Narcolepsy results from the depletion of hypocretin (also known as orexin)-secreting neurons in the lateral hypothalamus that are involved in maintaining wakefulness.\n\nPatients with narcolepsy experience shortened sleep latency and typically enter rapid eye movement (REM) sleep almost immediately. They commonly experience intrusions of REM sleep phenomena during sleep-wake transitions, including hypnagogic (upon falling asleep) and hypnopompic (upon awakening) hallucinations and sleep paralysis (inability to move immediately after awakening). The clinical diagnosis of narcolepsy can be confirmed by low cerebrospinal fluid levels of hypocretin-1 or shortened REM sleep latency on polysomnography.\n\n(Choice A) This patient is experiencing hypnagogic hallucinations, which are characteristic of narcolepsy. Brief psychotic disorder is diagnosed when one or more positive psychotic symptoms are present for less than a month in the absence of another medical disorder or substance use.\n\n(Choice B) Delayed sleep-wake phase disorder most often presents in adolescence and is characterized by intact duration and quality of sleep that is shifted to a later bedtime and wake time.\n\n(Choice C) Idiopathic hypersomnia is diagnosed when excessive and impairing daytime sleepiness cannot be explained by another sleep disorder. Patients with idiopathic hypersomnia have persistent daytime sleepiness rather than \"sleep attacks.\" Unlike patients with narcolepsy, they typically do not feel refreshed after naps.\n\n(Choice D) Insufficient sleep may result in excessive daytime sleepiness, napping, and quicker REM onset, but it is not associated with cataplexy or sleep-related hallucinations.\n\n(Choice F) Obstructive sleep apnea, the most common cause of excessive daytime sleepiness, is characterized by loud snoring, gasping, and apneas during sleep. It is caused by upper airway obstruction and is not associated with cataplexy, sleep-related hallucinations, or sleep paralysis.\n\n(Choice G) Patients with REM sleep behavior disorder lose normal sleep paralysis during REM sleep and, as a result, act out the content of their dreams (eg, punching, kicking).\n\nEducational objective:\nNarcolepsy is a chronic sleep disorder characterized by excessive daytime sleepiness, cataplexy, and REM sleep-related phenomena (ie, hypnagogic/hypnopompic hallucinations, sleep paralysis).",
+    "zh": "发作性睡病是一种慢性睡眠障碍，其特征是频繁、难以抗拒的睡眠冲动。它通常与猝倒症相关，猝倒症是指对强烈（通常是积极的）情绪的反应中发生的突然的肌张力丧失。发作性睡病是由于下丘脑外侧部参与维持清醒状态的下视丘素（也称为食欲素）分泌神经元耗竭所致。\n\n发作性睡病患者的睡眠潜伏期缩短，并且通常几乎立即进入快速眼动 (REM) 睡眠。他们通常会在睡眠-觉醒转换过程中经历 REM 睡眠现象的侵入，包括入睡幻觉（入睡时）和觉醒幻觉（觉醒时）以及睡眠麻痹（觉醒后无法立即移动）。发作性睡病的临床诊断可以通过脑脊液中下视丘素-1的低水平或多导睡眠图检查中缩短的 REM 睡眠潜伏期来确认。\n\n(选项A) 该患者正在经历入睡幻觉，这是发作性睡病的特征。当出现一种或多种阳性精神病症状且持续时间不足一个月，并且没有其他医学疾病或物质使用时，诊断为短暂精神病性障碍。\n\n(选项 B) 睡眠-觉醒时相延迟障碍最常出现在青春期，其特征是睡眠的持续时间和质量完整，但睡眠时间推迟到较晚的就寝时间和觉醒时间。\n\n(选项 C) 当无法用另一种睡眠障碍解释过度的和损害性的白天嗜睡时，诊断为特发性嗜睡。特发性嗜睡患者持续存在白天嗜睡，而不是“睡眠发作”。与发作性睡病患者不同，他们在午睡后通常不会感到神清气爽。\n\n(选项 D) 睡眠不足可能导致白天的过度嗜睡、午睡和更快的 REM 睡眠开始，但它与猝倒症或睡眠相关的幻觉无关。\n\n(选项 F) 阻塞性睡眠呼吸暂停是最常见的白天过度嗜睡的原因，其特征是睡眠期间的响亮打鼾、喘息和呼吸暂停。它是由上呼吸道阻塞引起的，并且与猝倒症、睡眠相关幻觉或睡眠麻痹无关。\n\n(选项 G) REM 睡眠行为障碍患者在 REM 睡眠期间失去正常的睡眠麻痹，因此会表现出他们的梦境内容（例如，拳打脚踢）。\n\n教育目标：\n发作性睡病是一种慢性睡眠障碍，其特征是白天的过度嗜睡、猝倒症和与 REM 睡眠相关的现象（即，入睡/觉醒幻觉、睡眠麻痹）。"
+  },
+  "summary": {
+    "en": "This question tests the diagnosis of narcolepsy, focusing on its characteristic symptoms such as excessive daytime sleepiness, hypnagogic hallucinations, and cataplexy (sudden loss of muscle tone). It also requires differentiating narcolepsy from other sleep disorders and psychiatric conditions.\n\nTo solve this question, identify the constellation of symptoms presented by the patient, including excessive daytime sleepiness, brief naps with refreshment, hypnagogic hallucinations, and episodes of sudden muscle weakness. Consider the differential diagnoses for these symptoms and select the diagnosis that best fits the complete clinical picture, paying close attention to the specific features of narcolepsy.",
+    "zh": "这个问题考察了发作性睡病的诊断，重点在于其特征性症状，如白天的过度嗜睡、入睡幻觉和猝倒症（肌张力突然丧失）。它还需要将发作性睡病与其他睡眠障碍和精神疾病区分开来。\n\n要解决这个问题，请确定患者呈现的症状群，包括白天的过度嗜睡、短暂的午睡后感觉神清气爽、入睡幻觉和突然的肌肉无力发作。考虑这些症状的鉴别诊断，并选择最符合完整临床表现的诊断，密切关注发作性睡病的具体特征。"
+  },
+  "tags": "Narcolepsy; Excessive daytime sleepiness; Hypnagogic hallucinations; Cataplexy; Sleep disorders; Neurology; Psychiatry",
+  "category": "Neuro",
+  "question_id": "1458",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\1458",
+  "extracted_at": "2025-11-05T19:33:59.907522",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:33:56.782813",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

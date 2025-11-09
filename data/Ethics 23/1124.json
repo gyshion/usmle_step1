@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "An 82-year-old man is admitted to the hospital in the middle of the night. He is noncommunicative and has multiple comorbidities, including end-stage lung cancer. The patient has neither a designated power of attorney nor an advance directive on file. His wife of many years, who is at the hospital with him, has an extensive conversation with the physician in charge of his care. During the conversation, she says that, on several occasions, the patient said not to resuscitate him if he were near death because he did not want to live \"attached to machines or brain dead.\" She says that he just wants to die in peace when the time comes. What would be the most appropriate course of action if the patient enters ventricular fibrillation?",
+    "zh": "一位82岁的男性在半夜被送入医院。他无法沟通，并患有多种合并症，包括终末期肺癌。患者既没有指定的授权委托人，也没有预先指示。他的妻子多年来一直陪伴在他身边，她与负责他护理的医生进行了广泛的谈话。在谈话中，她说，在几次场合，患者表示如果他临近死亡，不要对他进行复苏，因为他不想“依靠机器或脑死亡”而活。她说，他只想在时机成熟时安详地死去。如果患者出现室颤，最合适的处理方法是什么？"
+  },
+  "question": {
+    "en": "What would be the most appropriate course of action if the patient enters ventricular fibrillation?",
+    "zh": "如果患者出现室颤，最合适的处理方法是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Attend to the patient's comfort and allow his family to be present with him as he is dying",
+      "zh": "关注患者的舒适度，并允许他的家人在他临终时陪伴他"
+    },
+    "B": {
+      "en": "Begin full resuscitation because the patient's wife has no official documentation of her husband's wishes",
+      "zh": "开始全面复苏，因为患者的妻子没有关于她丈夫意愿的正式文件"
+    },
+    "C": {
+      "en": "Inform the nursing staff that the patient is \"do not resuscitate\" and suspend all treatment",
+      "zh": "告知护理人员患者“不进行复苏”，并暂停所有治疗"
+    },
+    "D": {
+      "en": "Obtain a court order to confirm the patient's wishes and have legal documentation",
+      "zh": "获得法院命令以确认患者的意愿并获得法律文件"
+    },
+    "E": {
+      "en": "Perform resuscitation without using a defibrillator but use only cardiac medications",
+      "zh": "在不使用除颤器的情况下进行复苏，但仅使用心脏药物"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient is unable to communicate his wishes regarding his care and does not have a prepared statement of his wishes (ie, advance directive) or designated surrogate decision-maker (eg, durable power of attorney). In such cases, decision-making falls to the next of kin (also called default surrogate). The order of next of kin is determined by the proximity of relationship; in most jurisdictions, priority goes to the patient's spouse, adult children, parents, and adult siblings, sequentially.\n\nThe next of kin is responsible for making decisions based on what they believe the patient would want (ie, substituted judgment) and the patient's best interest. In this case, the patient's wife indicates that he had expressed his wishes not to be resuscitated (ie, basic life support [rescue breathing, chest compressions], advanced cardiac life support [ACLS] [mechanical ventilation, defibrillation]).\n\nTherefore, in case of ventricular fibrillation or another malignant arrhythmia, this patient should not be resuscitated. Comfort measures should be provided as appropriate, and staff should avoid disrupting the family's final moments with the patient.\n\n(Choice B) As next of kin, the patient's wife has the authority to make decisions for the patient. Nothing in this case suggests inadequate or insincere decision-making by the wife, and her decisions should be respected.\n\n(Choice C) According to the patient's wishes, he should not receive cardiopulmonary resuscitation measures. However, nonresuscitative supportive care (eg, supplemental oxygen) and comfort measures (eg, pain medication) should continue as usual and not be withheld.\n\n(Choice D) Court proceedings are time-consuming and disruptive. They are generally necessary only when a suitable surrogate cannot be identified or when there are intractable disagreements among surrogates (eg, multiple adult children).\n\n(Choice E) Treatment of ventricular fibrillation with antiarrhythmic medications is considered part of the ACLS resuscitation algorithm and is generally excluded as part of a do-not-resuscitate order. In general, partial algorithm implementation should not be considered in the absence of specific guidance from the patient or surrogate.\n\nEducational objective:\nWhen a patient is unable to communicate his or her wishes regarding care and does not have an advance directive or designated surrogate decision-maker, decision-making falls to the next of kin (eg, spouse). The next of kin is generally determined by the proximity of relationship and is responsible for making decisions based on what they believe the patient would want and the patient's best interest.",
+    "zh": "这位患者无法传达他对护理的意愿，也没有准备好的意愿声明（即预先指示）或指定的替代决策者（例如，持久授权委托人）。在这种情况下，决策权属于近亲（也称为默认替代人）。近亲的顺序由关系的亲近程度决定；在大多数司法管辖区，优先顺序依次为患者的配偶、成年子女、父母和成年兄弟姐妹。\n\n近亲有责任根据他们认为患者想要的（即替代判断）和患者的最大利益做出决定。在本例中，患者的妻子表示他曾表达过不希望被复苏的愿望（即，基本生命支持[救援呼吸、胸外按压]，高级心脏生命支持[ACLS][机械通气、除颤]）。\n\n因此，如果出现室颤或其他恶性心律失常，不应复苏该患者。应酌情提供舒适措施，工作人员应避免打扰家人与患者最后的时刻。\n\n（选项 B）作为近亲，患者的妻子有权为患者做出决定。本案例中没有任何迹象表明妻子做出不充分或不诚实的决策，应尊重她的决定。\n\n（选项 C）根据患者的意愿，他不应接受心肺复苏措施。然而，非复苏性支持性护理（例如，补充氧气）和舒适措施（例如，止痛药）应照常进行，不应 withheld（保留）。\n\n（选项 D）法庭诉讼耗时且具有干扰性。它们通常仅在无法确定合适的替代人或替代人之间存在难以解决的分歧（例如，多个成年子女）时才是必要的。\n\n（选项 E）使用抗心律失常药物治疗室颤被认为是ACLS复苏算法的一部分，通常不包括在“不进行复苏”的医嘱中。一般来说，在没有患者或替代人的具体指导的情况下，不应考虑部分算法的实施。\n\n教育目标：\n当患者无法传达他或她对护理的意愿，并且没有预先指示或指定的替代决策者时，决策权属于近亲（例如，配偶）。近亲通常由关系的亲近程度决定，并负责根据他们认为患者想要的和患者的最大利益做出决定。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of surrogate decision-making when a patient lacks the capacity to make their own medical decisions and does not have an advance directive. It requires knowledge of the hierarchy of surrogates and the principles of substituted judgment and best interest. \n\nThe approach to solving this question involves identifying the appropriate surrogate decision-maker (in this case, the wife), understanding the patient's previously expressed wishes, and applying the principles of substituted judgment to determine the most appropriate course of action.",
+    "zh": "这个问题测试了对替代决策的理解，当患者缺乏做出自己医疗决定的能力，并且没有预先指示时。它需要了解替代人的等级制度以及替代判断和最大利益的原则。\n\n解决这个问题的方法包括确定合适的替代决策者（在本例中为妻子），了解患者先前表达的意愿，并应用替代判断的原则来确定最合适的行动方案。"
+  },
+  "tags": "Surrogate decision-making; Advance directive; End-of-life care; Medical ethics; Ventricular fibrillation; Cardiopulmonary resuscitation; Palliative care",
+  "category": "Ethics",
+  "question_id": "1124",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\1124",
+  "extracted_at": "2025-11-05T14:16:29.078841",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:46:34.358229",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old man undergoing evaluation for fatigue and exertional dyspnea is diagnosed with macrocytic anemia. Upper gastrointestinal endoscopy is consistent with atrophic gastritis. He is prescribed intramuscular cyanocobalamin, with the resulting changes shown in the graph below: {{exhibit_1}}",
+    "zh": "一名 55 岁男性，因疲劳和劳力性呼吸困难就诊，被诊断为大细胞性贫血。上消化内镜检查结果与萎缩性胃炎一致。他被处方肌内注射氰钴胺，其结果变化见下图：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "The blue curve most likely corresponds to which of the following parameters?",
+    "zh": "蓝线最有可能对应以下哪一项指标？"
+  },
+  "options": {
+    "A": {
+      "en": "Erythrocyte count",
+      "zh": "红细胞计数"
+    },
+    "B": {
+      "en": "Gastrin",
+      "zh": "胃泌素"
+    },
+    "C": {
+      "en": "Haptoglobin",
+      "zh": "触珠蛋白"
+    },
+    "D": {
+      "en": "Methylmalonic acid",
+      "zh": "甲基丙二酸"
+    },
+    "E": {
+      "en": "Reticulocyte count",
+      "zh": "网织红细胞计数"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The graph shows the treatment response to vitamin B₁₂ (cyanocobalamin) in a patient with VITAMIN B₁₂ DEFICIENCY secondary to atrophic gastritis. Vitamin B₁₂ deficiency impairs nucleic acid metabolism, causing delayed nuclear maturation and reduced cell division of erythrocyte precursors in the bone marrow (MEGALOBLASTIC ANEMIA). \n\nOnce vitamin B₁₂ replacement therapy is begun, the rate of effective erythropoiesis increases and immature erythrocytes (reticulocytes) are released from the bone marrow into the bloodstream. The peripheral reticulocyte count begins rising within 3 to 4 days and peaks at around 1 week, as indicated by the blue curve. The response peaks early because the reticulocytes initially released following vitamin replacement remain in the circulation longer (due to the delayed nuclear maturation) than reticulocytes later released (mature at normal rates). However, the erythrocyte count takes longer to normalize (hemoglobin levels rise ~1 g/week) and the anemia typically takes as long as 8 weeks to correct. {{exhibit_2}}\n\n(Choice A) The erythrocyte count curve would be expected to follow the hemoglobin curve upward as the total red blood cell pool gradually returns to normal levels.\n\n(Choice B) In chronic atrophic gastritis, parietal cell loss results in profound hypochlorhydria, increased serum gastrin levels, and inadequate intrinsic factor production. This patient most likely has elevated gastrin levels that would be unaffected by vitamin B₁₂ replacement.\n\n(Choice C) Vitamin B₁₂ deficiency causes increased red blood cell breakdown due to ineffective erythropoiesis, and the resulting release of free hemoglobin leads to a decrease in serum haptoglobin levels. Haptoglobin levels would normalize (increase) with therapy.\n\n(Choice D) Methylmalonic acid is elevated in vitamin B₁₂ deficiency due to decreased metabolism and would decline with vitamin B₁₂ supplementation. In this case, the blue curve rises after the beginning of treatment, which would not be expected.\n\nEducational objective:\nAtrophic gastritis can result in profound hypochlorhydria, inadequate intrinsic factor production, vitamin B₁₂ deficiency, and elevated methylmalonic acid levels. Once vitamin B₁₂ replacement therapy is initiated, the reticulocyte count increases dramatically and peaks around 1 week; hemoglobin levels and erythrocyte counts rise more gradually and take up to 8 weeks to normalize.",
+    "zh": "该图显示了维生素 B₁₂（氰钴胺）对继发于萎缩性胃炎的维生素 B₁₂ 缺乏症患者的治疗反应。维生素 B₁₂ 缺乏症会损害核酸代谢，导致核成熟延迟，并减少骨髓中红细胞前体的细胞分裂（巨幼细胞性贫血）。\n\n一旦开始维生素 B₁₂ 替代治疗，有效红细胞生成速率增加，未成熟的红细胞（网织红细胞）从骨髓释放到血流中。外周网织红细胞计数在 3 到 4 天内开始升高，并在大约 1 周左右达到峰值，如蓝线所示。反应峰值较早，因为在维生素替代后最初释放的网织红细胞在循环中停留的时间更长（由于核成熟延迟）比后来释放的网织红细胞（以正常速率成熟）。然而，红细胞计数需要更长的时间才能恢复正常（血红蛋白水平每周上升约 1 克），并且贫血通常需要长达 8 周的时间才能纠正。{{exhibit_2}}\n\n(选项 A) 红细胞计数曲线预计将随着血红蛋白曲线向上移动，因为红细胞总库逐渐恢复到正常水平。\n\n(选项 B) 在慢性萎缩性胃炎中，壁细胞丢失会导致严重的胃酸缺乏症、血清胃泌素水平升高和内因子产生不足。该患者很可能胃泌素水平升高，这不会受到维生素 B₁₂ 替代的影响。\n\n(选项 C) 维生素 B₁₂ 缺乏症会导致由于无效的红细胞生成而导致的红细胞分解增加，并且游离血红蛋白的释放导致血清触珠蛋白水平降低。触珠蛋白水平将随着治疗而恢复正常（升高）。\n\n(选项 D) 由于代谢减少，维生素 B₁₂ 缺乏症患者的甲基丙二酸升高，并且会随着维生素 B₁₂ 补充而降低。在这种情况下，蓝线在治疗开始后上升，这不符合预期。\n\n教学目标：\n萎缩性胃炎可导致严重的胃酸缺乏症、内因子产生不足、维生素 B₁₂ 缺乏症和甲基丙二酸水平升高。一旦开始维生素 B₁₂ 替代治疗，网织红细胞计数会急剧增加，并在大约 1 周时达到峰值；血红蛋白水平和红细胞计数上升更缓慢，需要长达 8 周的时间才能恢复正常。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of vitamin B12 deficiency anemia secondary to atrophic gastritis and the expected hematologic response to B12 replacement therapy. Specifically, it assesses the understanding of how reticulocyte count changes in response to treatment. \n\nThe key to solving this question is recognizing that reticulocytes are immature red blood cells released early in response to anemia treatment. Therefore, the reticulocyte count will increase rapidly after starting B12 replacement, peaking within a week, which corresponds to the blue curve in the graph.",
+    "zh": "本题考察了关于继发于萎缩性胃炎的维生素 B12 缺乏性贫血的知识，以及对 B12 替代治疗的预期血液学反应。具体来说，它评估了对网织红细胞计数如何随治疗变化的的理解。\n\n解决此问题的关键是认识到网织红细胞是针对贫血治疗早期释放的未成熟红细胞。因此，在开始 B12 替代后，网织红细胞计数将迅速增加，在一周内达到峰值，这与图中蓝线对应。"
+  },
+  "tags": "Vitamin B12 deficiency; Atrophic gastritis; Macrocytic anemia; Reticulocyte count; Cyanocobalamin; Hematology; Megaloblastic anemia; Erythropoiesis",
+  "category": "GIT",
+  "question_id": "1848",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\1848",
+  "extracted_at": "2025-11-05T14:28:54.686058",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:53:33.936989",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

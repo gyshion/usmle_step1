@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old man with a history of alcohol use disorder, chronic hepatitis C, and HIV is brought to the emergency department due to altered mental status and abdominal distension. He is disoriented and unable to provide an adequate history. He is accompanied by a friend who reports that the patient has recently been drinking heavily. The patient's breath has a sweet, sulfurous odor. Physical examination shows gynecomastia, palmar erythema, and multiple spider angiomata. The abdomen is severely distended, and dilated periumbilical veins are noted. There is 3+ bilateral lower extremity edema. Genital examination shows testicular atrophy. Neurologic examination shows disorientation and asterixis. Abdominal imaging reveals splenomegaly.",
+    "zh": "一名45岁男性，有酒精使用障碍、慢性丙型肝炎和HIV病史，因精神状态改变和腹胀被送往急诊科。他意识模糊，无法提供充分的病史。他由一位朋友陪同，朋友报告说患者最近大量饮酒。患者的呼吸有甜味、硫磺味。体格检查显示男性乳房发育、手掌红斑和多发蜘蛛痣。腹部严重膨胀，可见脐周静脉扩张。双侧下肢水肿3+。生殖器检查显示睾丸萎缩。神经系统检查显示定向力障碍和扑翼样震颤。腹部影像学检查显示脾肿大。"
+  },
+  "question": {
+    "en": "Development of this patient's gynecomastia most closely resembles the pathogenesis of which of the following additional findings in this patient?",
+    "zh": "该患者男性乳房发育的发展最接近于该患者以下哪些附加发现的病理生理学？"
+  },
+  "options": {
+    "A": {
+      "en": "Altered mental status",
+      "zh": "精神状态改变"
+    },
+    "B": {
+      "en": "Dilated periumbilical veins",
+      "zh": "脐周静脉扩张"
+    },
+    "C": {
+      "en": "Lower extremity edema",
+      "zh": "下肢水肿"
+    },
+    "D": {
+      "en": "Spider angiomata",
+      "zh": "蜘蛛痣"
+    },
+    "E": {
+      "en": "Splenomegaly",
+      "zh": "脾肿大"
+    },
+    "F": {
+      "en": "Sweet, sulfurous breath odor",
+      "zh": "甜味、硫磺味呼吸气味"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has numerous clinical findings characteristic of liver cirrhosis {{exhibit_1}}. In patients with cirrhosis, gynecomastia arises from hyperestrinism, which has a number of contributing factors:\n\n*   Cirrhosis increases adrenal production of estrogen precursors (eg, androstenedione), which are subsequently aromatized to estrogens (eg, estrone)\n*   Estrogens induce sex hormone-binding globulin production, which results in increased testosterone binding and a further decrease in the free testosterone/estrogen ratio\n*   Impaired estrogen metabolism by the liver results in estrogen accumulation\n\nBesides gynecomastia, hyperestrinism in patients with cirrhosis can promote the formation of spider angiomata. Spider angiomata are subcutaneous vascular lesions consisting of a central arteriole surrounded by smaller vessels that blanch on compression. They are most frequently found on the trunk, face, and upper limbs. Spider angiomata are likely due to estrogen-induced arteriolar dilation and are also seen in other hyperestrogenic states (eg, pregnancy). The number and size of angiomata generally correlate with the severity of liver disease.\n\n(Choices A and F) Altered mental status and a sweet, sulfurous breath odor (fetor hepaticus) are signs of poor hepatic function and accumulation of metabolic toxins (eg, ammonia, dimethyl sulfide). In the healthy liver, ammonia is detoxified to urea, which is then excreted in the urine. In patients with cirrhosis, ammonia accumulates in the blood, resulting in impaired neurotransmission in the CNS and possible brain edema.\n\n(Choices B and E) Portal hypertension arises from increased hepatic resistance to portal flow at the sinusoids. This causes increased hydrostatic pressure and dilation of the portosystemic collateral veins in the periumbilical system (caput medusae), lower rectum (anorectal varices), and lower esophagus (esophageal varices). Portal hypertension also leads to ascites and venous congestion of the spleen (splenomegaly).\n\n(Choice C) The liver is the primary site of protein synthesis. Liver cirrhosis can result in decreased albumin production, leading to lower intravascular oncotic pressure with fluid extravasation and pitting edema in the lower extremities (pedal edema).\n\nEducational objective:\nIn patients with cirrhosis, gynecomastia often occurs due to hyperestrinism, which can also promote the formation of spider angiomata. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "该患者有许多肝硬化的临床表现 {{exhibit_1}}。在肝硬化患者中，男性乳房发育是由于雌激素增多症引起的，这有很多促成因素：\n\n*   肝硬化增加了肾上腺产生雌激素前体（例如，雄烯二酮），这些前体随后被芳香化为雌激素（例如，雌酮）\n*   雌激素诱导性激素结合球蛋白的产生，导致睾酮结合增加，并进一步降低游离睾酮/雌激素比率\n*   肝脏对雌激素的代谢受损导致雌激素蓄积\n\n除了男性乳房发育外，肝硬化患者的雌激素增多症还可能促进蜘蛛痣的形成。蜘蛛痣是皮下血管病变，由一个中央小动脉和周围较小的血管组成，在压迫时变白。它们最常出现在躯干、面部和上肢。蜘蛛痣可能是由于雌激素诱导的小动脉扩张所致，并且也见于其他雌激素增多症状态（例如，妊娠）。蜘蛛痣的数量和大小通常与肝病的严重程度相关。\n\n（选项A和F）精神状态改变和甜味、硫磺味呼吸气味（肝臭）是肝功能不全和代谢毒素（例如，氨、二甲硫醚）蓄积的征兆。在健康的肝脏中，氨被解毒成尿素，然后通过尿液排出。在肝硬化患者中，氨在血液中蓄积，导致中枢神经系统神经传递受损和可能出现的脑水肿。\n\n（选项B和E）门静脉高压是由于肝脏对窦状隙的门脉血流的阻力增加引起的。这会导致静水压升高，以及脐周系统（海蛇头）、直肠下部（肛门直肠静脉曲张）和食管下部（食管静脉曲张）的门体侧支静脉扩张。门静脉高压还会导致腹水和脾脏的静脉淤血（脾肿大）。\n\n（选项C）肝脏是蛋白质合成的主要场所。肝硬化可导致白蛋白产量下降，导致血管内渗透压降低，液体外渗和下肢凹陷性水肿（足部水肿）。\n\n教育目标：\n在肝硬化患者中，男性乳房发育通常是由于雌激素增多症引起的，雌激素增多症也可能促进蜘蛛痣的形成。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of liver cirrhosis and its associated clinical manifestations, specifically focusing on the hormonal imbalances leading to gynecomastia and spider angiomata. The question requires understanding the mechanisms behind hyperestrinism in cirrhosis and its effects on various organ systems.\n\nTo solve this question, identify the common underlying mechanism linking gynecomastia and the correct answer. Recognize that both gynecomastia and spider angiomata are related to hyperestrinism in the setting of liver cirrhosis, while other findings are primarily due to portal hypertension or impaired liver function.",
+    "zh": "这个问题考察了对肝硬化病理生理学及其相关临床表现的认识，特别是侧重于导致男性乳房发育和蜘蛛痣的激素失衡。这个问题需要理解肝硬化中雌激素增多症的机制及其对各种器官系统的影响。\n\n要解决这个问题，需要确定将男性乳房发育和正确答案联系起来的共同潜在机制。认识到男性乳房发育和蜘蛛痣都与肝硬化情况下的雌激素增多症有关，而其他发现主要归因于门静脉高压或肝功能受损。"
+  },
+  "tags": "Liver cirrhosis; Gynecomastia; Spider angiomata; Hyperestrinism; Portal hypertension; Hepatology; Alcohol use disorder; Hepatitis C",
+  "category": "GIT",
+  "question_id": "100",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\100",
+  "extracted_at": "2025-11-05T14:21:33.915699",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:49:28.274669",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

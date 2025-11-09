@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "An 8-year-old boy who recently moved to the United States from Indonesia is brought to the emergency department due to fever, sore throat, and difficulty breathing. His immunization status cannot be determined. Physical examination shows extensive, coalescing, gray pharyngeal exudate and cervical adenopathy. Several days after being admitted to the hospital, he dies of myocarditis and severe heart failure. ",
+    "zh": "一名8岁男孩最近从印度尼西亚搬到美国，因发烧、喉咙痛和呼吸困难被带到急诊科。他的免疫接种情况无法确定。体格检查显示广泛、融合、灰色的咽部渗出物和颈部淋巴结肿大。入院几天后，他死于心肌炎和严重心力衰竭。"
+  },
+  "question": {
+    "en": "The presence of which of the following would most likely have prevented this patient's death?",
+    "zh": "以下哪一项的存在最有可能防止该患者死亡？"
+  },
+  "options": {
+    "A": {
+      "en": "Activated CD8 T lymphocytes",
+      "zh": "活化的CD8 T淋巴细胞"
+    },
+    "B": {
+      "en": "Complement-fixing IgM",
+      "zh": "补体结合的IgM"
+    },
+    "C": {
+      "en": "IgA against capsular proteins",
+      "zh": "针对荚膜蛋白的IgA"
+    },
+    "D": {
+      "en": "IgG against circulating proteins",
+      "zh": "针对循环蛋白的IgG"
+    },
+    "E": {
+      "en": "IgM from T-cell-independent response",
+      "zh": "来自T细胞非依赖性反应的IgM"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with an uncertain vaccination history likely died from diphtheria, a clinical illness caused by toxigenic strains of Corynebacterium diphtheriae. The disease is rare in the developed world due to widespread vaccination with diphtheria toxoid, but outbreaks often occur in regions where vaccination efforts are insufficient (eg, Southeast Asia). Most cases are transmitted by aerosolized droplets from asymptomatic carriers or infected patients. Although the pathogen has little capacity for invasion, it generates a potent exotoxin (diphtheria toxin) that irreversibly inhibits protein synthesis through ADP-ribosylation of elongation factor-2, leading to host cell death and necrosis. Local effects of the toxin include pharyngitis and laryngotracheitis, often with an extensive, coalescing exudate (pseudomembrane). Absorption of the toxin into the bloodstream results in potentially life-threatening myocarditis and neuritis.\n\nDiphtheria can be prevented with the diphtheria-pertussis-tetanus (DPT) childhood vaccination, which generates neutralizing IgG antibodies against the binding component (B subunit) of the diphtheria exotoxin. The vaccine inhibits toxin-mediated cell damage and also reduces the competitive advantage of toxigenic strains, thereby reducing toxigenic carriage rates within the population.\n\n(Choice A) CD8 lymphocytes destroy cells infected with intracellular pathogens (eg, viruses) as well as cells damaged by cancer. They do not bind to and eliminate circulating exotoxins.\n\n(Choices B and E) IgM opsonization and complement fixation are important mechanisms for combating extracellular infections, particularly with encapsulated organisms. Although vaccination may stimulate an IgM response, long-term protection is primarily mediated by IgG antibodies.\n\n(Choice C) IgA is the primary immunoglobulin found on mucosal surfaces and in secretions. It does not have significant opsonizing or complement-activating properties. Instead, it prevents infection by inhibiting bacterial interaction with epithelial cells (eg, attachment, invasion). IgA antibodies may help prevent diphtheria colonization. However, C diphtheriae does not have a polysaccharide capsule.\n\nEducational objective:\nToxigenic strains of Corynebacterium diphtheriae produce diphtheria toxin, which irreversibly inhibits host protein synthesis due to ADP-ribosylation of elongation factor-2. Local effects include pseudomembranous pharyngitis; systemic effects include potentially life-threatening myocarditis and neuritis. Immunization with diphtheria toxoid generates protective circulating IgG against the exotoxin B subunit.",
+    "zh": "这位疫苗接种史不明确的患者很可能死于白喉，这是一种由产毒性白喉棒状杆菌引起的临床疾病。由于广泛接种白喉类毒素疫苗，这种疾病在发达国家很少见，但在疫苗接种工作不足的地区（如东南亚）经常爆发。大多数病例通过来自无症状携带者或感染患者的雾化飞沫传播。虽然病原体侵袭能力很小，但它会产生一种强效的外毒素（白喉毒素），通过 ADP 核糖基化延伸因子 2 不可逆地抑制蛋白质合成，导致宿主细胞死亡和坏死。毒素的局部作用包括咽炎和喉气管炎，通常伴有广泛、融合的渗出物（假膜）。毒素吸收入血会导致潜在的危及生命的心肌炎和神经炎。\n\n白喉可以通过白喉-百日咳-破伤风 (DPT) 儿童疫苗接种来预防，该疫苗可产生针对白喉外毒素结合组分（B亚基）的中和性IgG抗体。该疫苗可抑制毒素介导的细胞损伤，并降低产毒菌株的竞争优势，从而降低人群中产毒菌株的携带率。\n\n(选项 A) CD8 淋巴细胞会破坏被细胞内病原体（例如病毒）感染的细胞以及被癌症破坏的细胞。它们不会结合并消除循环外毒素。\n\n(选项 B 和 E) IgM 调理和补体固定是抵抗细胞外感染（特别是对有包膜的生物体）的重要机制。虽然疫苗接种可能会刺激 IgM 反应，但长期保护主要由 IgG 抗体介导。\n\n(选项 C) IgA 是存在于粘膜表面和分泌物中的主要免疫球蛋白。它没有明显的调理或补体激活特性。相反，它通过抑制细菌与上皮细胞的相互作用（例如，附着、侵袭）来预防感染。IgA 抗体可能有助于预防白喉定植。然而，白喉棒状杆菌没有多糖荚膜。\n\n教育目标：\n产毒性白喉棒状杆菌产生白喉毒素，由于延伸因子 2 的 ADP 核糖基化，该毒素会不可逆地抑制宿主蛋白质合成。局部影响包括假膜性咽炎；全身影响包括潜在的危及生命的心肌炎和神经炎。接种白喉类毒素可产生针对外毒素 B 亚基的保护性循环 IgG。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of diphtheria pathogenesis, clinical presentation, and prevention through vaccination, specifically the role of IgG antibodies in neutralizing diphtheria toxin. The question requires understanding the mechanism of diphtheria toxin and the immune response necessary for protection.\n\nTo solve this question, recognize the clinical features of diphtheria (pseudomembrane, myocarditis), identify the causative agent (Corynebacterium diphtheriae), and recall that vaccination induces IgG antibodies that neutralize the diphtheria toxin, preventing systemic complications.",
+    "zh": "这个问题测试了对白喉发病机制、临床表现和通过疫苗接种预防的知识，特别是 IgG 抗体在中和白喉毒素中的作用。这个问题需要理解白喉毒素的机制和保护所需的免疫反应。\n\n要解决这个问题，需要识别白喉的临床特征（假膜、心肌炎），确定病原体（白喉棒状杆菌），并回忆疫苗接种可诱导中和白喉毒素的 IgG 抗体，从而预防全身并发症。"
+  },
+  "tags": "Diphtheria; Corynebacterium diphtheriae; IgG antibodies; Vaccination; Myocarditis; Pseudomembrane; Infectious disease; Toxin neutralization; Immunology",
+  "category": "Micro",
+  "question_id": "1092",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1092",
+  "extracted_at": "2025-11-05T14:49:41.580124",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:04:44.553601",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

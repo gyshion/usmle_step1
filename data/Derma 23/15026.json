@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "An 80-year-old woman is evaluated for blisters that have developed on both feet over the past week. The patient lives in a nursing home due to dementia but has no other chronic medical conditions and takes no medication. Vital signs are within normal limits. There are no oral lesions. Examination findings are shown in the exhibit {{exhibit_1}}.",
+    "zh": "一名80岁女性因过去一周双脚出现水疱就诊。患者因痴呆症住在养老院，但无其他慢性病史，且未服用药物。生命体征在正常范围内。无口腔病变。体格检查结果见附图{{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is most likely involved in the pathogenesis of this patient's condition?",
+    "zh": "以下哪项最有可能参与该患者病情的发病机制？"
+  },
+  "options": {
+    "A": {
+      "en": "Deposition of IgA-containing immune complexes within dermal papillae",
+      "zh": "含有 IgA 的免疫复合物沉积在真皮乳头内"
+    },
+    "B": {
+      "en": "Deposition of IgG and complement at the dermal-epidermal junction",
+      "zh": "IgG 和补体沉积在真皮-表皮连接处"
+    },
+    "C": {
+      "en": "Deposition of IgG within the epidermal layer at the intercellular level",
+      "zh": "IgG 在表皮层细胞间水平的沉积"
+    },
+    "D": {
+      "en": "Disrupted assembly of keratin into monofilaments",
+      "zh": "角蛋白组装成单丝受到破坏"
+    },
+    "E": {
+      "en": "Increased vascular permeability due to gaps between endothelial cells",
+      "zh": "由于内皮细胞间的间隙导致血管通透性增加"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This elderly patient has the typical features of bullous pemphigoid (BP), an autoimmune blistering disease. BP most commonly affects individuals age >60 and is more common in those with neurologic disorders (eg, Alzheimer dementia). As in this patient, bullae are typically tense and have erythematous or normal-appearing bases. Lesion distribution can be localized or diffuse, involving the trunk and extremities; mucosal involvement is rare. BP is caused by antibodies against hemidesmosomes along the basement membrane of the dermal-epidermal junction. These autoantibodies result in a destructive inflammatory cascade that causes the entire epidermis to separate from the dermis, forming subepidermal blisters. Immunofluorescence shows IgG and/or C3 deposits in a linear pattern along the basement membrane. {{exhibit_2}}\n\n(Choice A) Deposition of IgA-containing immune complexes within the dermal papillae is characteristic of dermatitis herpetiformis, an autoimmune dermatitis associated with gluten sensitivity. It typically presents as groups of pruritic papulovesicles on the extensor extremities, scalp, back, and buttocks in patients age 40-50.\n\n(Choice C) Deposition of IgG within the epidermal layer at the intercellular level is characteristic of pemphigus vulgaris, which typically affects patients age 40-60 and presents with flaccid, not tense, blisters that easily rupture, forming erosions. Absent in this patient, mucosal involvement is almost always present in pemphigus vulgaris.\n\n(Choice D) Disrupted assembly of keratin into monofilaments describes epidermolysis bullosa simplex, an autosomal dominant condition presenting with blisters in areas of high friction (eg, hands, feet, knees). Unlike BP, the condition typically presents during infancy through early adulthood.\n\n(Choice E) Increased vascular permeability due to gaps between endothelial cells is characteristic of blisters associated with partial-thickness burn wounds or localized inflammation (eg, poison ivy).\n\nEducational objective:\nBullous pemphigoid is an autoimmune blistering disease that typically occurs in patients >60. It presents with tense bullae with rare mucosal involvement. Autoantibodies against hemidesmosomes create subepidermal cleavage. Immunofluorescence shows linear deposition of IgG and/or C3 along the basement membrane. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}}",
+    "zh": "这位老年患者具有大疱性类天疱疮 (BP) 的典型特征，这是一种自身免疫性水疱性疾病。BP 最常见于 60 岁以上的人群，并且在患有神经系统疾病（例如，阿尔茨海默病性痴呆）的患者中更常见。如本患者一样，大疱通常是紧张的，并且基底呈红斑或正常外观。病变分布可以是局部的或弥漫性的，累及躯干和四肢；黏膜受累罕见。BP 是由针对真皮-表皮连接处基底膜的半桥粒的抗体引起的。这些自身抗体导致破坏性炎症级联反应，导致整个表皮与真皮分离，形成表皮下水疱。免疫荧光显示 IgG 和/或 C3 呈线性沉积在基底膜上。{{exhibit_2}}\n\n(选项 A) 含有 IgA 的免疫复合物沉积在真皮乳头内是疱疹样皮炎的特征，这是一种与麸质敏感性相关的自身免疫性皮炎。它通常表现为在 40-50 岁患者的伸展肢端、头皮、背部和臀部出现一组瘙痒性丘疹水疱。\n\n(选项 C) IgG 在表皮层细胞间水平的沉积是寻常型天疱疮的特征，后者通常影响 40-60 岁的患者，并表现为松弛的而非紧张的水疱，容易破裂，形成糜烂。在本患者中缺失，黏膜受累几乎总是存在于寻常型天疱疮中。\n\n(选项 D) 角蛋白组装成单丝受到破坏描述了单纯性大疱性表皮松解症，这是一种常染色体显性遗传疾病，表现为在高摩擦区域（例如，手、脚、膝盖）出现水疱。与 BP 不同，这种疾病通常在婴儿期至成年早期出现。\n\n(选项 E) 由于内皮细胞之间的间隙导致血管通透性增加是与部分厚度烧伤伤口或局部炎症（例如，毒藤）相关的水疱的特征。\n\n教育目标：\n大疱性类天疱疮是一种自身免疫性水疱性疾病，通常发生在 60 岁以上的患者中。它表现为紧张的大疱，很少累及黏膜。针对半桥粒的自身抗体产生表皮下裂解。免疫荧光显示 IgG 和/或 C3 沿基底膜线性沉积。{{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of bullous pemphigoid, an autoimmune blistering disease, including its typical presentation in elderly patients, the target antigens (hemidesmosomes), and the resulting subepidermal blisters. It also tests the ability to differentiate bullous pemphigoid from other blistering diseases based on clinical features and immunofluorescence patterns.\n\nTo solve this question, recognize the key features of bullous pemphigoid: elderly patient, tense bullae, rare mucosal involvement, and the presence of autoantibodies against hemidesmosomes at the dermal-epidermal junction. Rule out other blistering diseases based on their distinct clinical and immunopathological characteristics.",
+    "zh": "本题考察对大疱性类天疱疮（一种自身免疫性水疱性疾病）的知识，包括其在老年患者中的典型表现、靶抗原（半桥粒）以及由此产生的表皮下水疱。它还测试了根据临床特征和免疫荧光模式区分大疱性类天疱疮与其他水疱性疾病的能力。\n\n要解决这个问题，需要认识到大疱性类天疱疮的关键特征：老年患者、紧张的水疱、罕见的黏膜受累以及真皮-表皮连接处存在针对半桥粒的自身抗体。根据其他水疱性疾病的不同临床和免疫病理学特征，排除其他疾病。"
+  },
+  "tags": "Bullous pemphigoid; Autoimmune blistering disease; Hemidesmosomes; Dermal-epidermal junction; IgG; Immunofluorescence; Dermatology; Geriatrics; Blisters",
+  "category": "Derma",
+  "question_id": "15026",
+  "has_exhibits": true,
+  "exhibit_count": 7,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\15026",
+  "extracted_at": "2025-11-05T13:52:56.733225",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:33:47.970377",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

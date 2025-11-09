@@ -1,0 +1,57 @@
+{
+  "question_stem": {
+    "en": "A clinical study compares several cut points for a new biomarker for bacterial bloodstream infection among adult patients in the intensive care unit (ICU) against blood culture results. Analysis shows that a biomarker value ≥2.6 ng/mL has a sensitivity of 32% and a specificity of 96% for predicting bloodstream infections.",
+    "zh": "一项临床研究比较了重症监护病房（ICU）成人患者中，针对细菌性血流感染的新生物标志物的几个临界值，并与血培养结果进行了比较。分析显示，生物标志物值≥2.6 ng/mL，在预测血流感染方面的敏感性为32%，特异性为96%。"
+  },
+  "question": {
+    "en": "Which of the following conclusions about the study results is correct?",
+    "zh": "关于研究结果，以下哪个结论是正确的？"
+  },
+  "options": {
+    "A": {
+      "en": "Based on a cut point of ≥2.6 ng/mL, 4% of adult patients in the ICU with bacterial bloodstream infections will be correctly identified.",
+      "zh": "基于≥2.6 ng/mL的临界值，ICU中4%的细菌性血流感染成人患者将被正确识别。"
+    },
+    "B": {
+      "en": "Based on a cut point of ≥2.6 ng/mL, 4% of adult patients in the ICU without bacterial bloodstream infections will be incorrectly identified.",
+      "zh": "基于≥2.6 ng/mL的临界值，ICU中4%的无细菌性血流感染成人患者将被错误识别。"
+    },
+    "C": {
+      "en": "Based on a cut point of ≥2.6 ng/mL, 96% of adult patients in the ICU with bacterial bloodstream infections will be correctly identified.",
+      "zh": "基于≥2.6 ng/mL的临界值，ICU中96%的细菌性血流感染成人患者将被正确识别。"
+    },
+    "D": {
+      "en": "Based on a cut point of ≥2.6 ng/mL, 96% of adult patients in the ICU without bacterial bloodstream infections will be incorrectly identified.",
+      "zh": "基于≥2.6 ng/mL的临界值，ICU中96%的无细菌性血流感染成人患者将被错误识别。"
+    },
+    "E": {
+      "en": "Of all adult patients in the ICU with bacterial bloodstream infections, 4% will have a biomarker value <2.6 ng/mL.",
+      "zh": "在所有ICU中患有细菌性血流感染的成人患者中，4%的患者的生物标志物值将<2.6 ng/mL。"
+    },
+    "F": {
+      "en": "Of all adult patients in the ICU with bacterial bloodstream infections, 96% will have a biomarker value <2.6 ng/mL.",
+      "zh": "在所有ICU中患有细菌性血流感染的成人患者中，96%的患者的生物标志物值将<2.6 ng/mL。"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Compared to blood culture (the reference standard for diagnosing bacterial bloodstream infection), a biomarker value cut point of ≥2.6 ng/mL has a sensitivity of 32% and a specificity of 96%.\n\n*   The specificity of the test is the percentage of healthy individuals (eg, adult patients in the intensive care unit [ICU] without bacterial bloodstream infection) who are correctly identified (ie. negative test result) by the diagnostic test. Its complement (1 – specificity) is the false-positive rate (eg, percentage of adult patients in the ICU without bacterial bloodstream infection who test positive).\n*   The sensitivity of the test is the percentage of diseased individuals (eg, ICU patients with bacterial bloodstream infection) who are correctly identified (ie, positive test result) by the diagnostic test. Its complement (1 – sensitivity) is the false-negative rate (eg, percentage of adult patients in the ICU with bacterial bloodstream infection who test negative).\n\nThis test’s specificity indicates that 96% of adult patients in the ICU without bacterial bloodstream infection will be correctly identified (ie, test negative) based on the biomarker cut point of ≥2.6 ng/mL (ie, test result <2.6 ng/mL) (Choice D). Conversely, 100% - 96% = 4% of adult patients in the ICU without bacterial bloodstream infection will be incorrectly identified.\n\n(Choices A, C, E, and F) This test’s sensitivity indicates that 32% of adult patients in the ICU with bacterial bloodstream infection will be correctly diagnosed (ie, test positive) based on the biomarker cut point of ≥2.6 ng/mL. Conversely, 100% - 32% = 68% of adult patients in the ICU with bacterial bloodstream infection will be missed (ie, test negative with a result <2.6 ng/mL).\n\nEducational objective:\n\nSensitivity represents the probability that an individual with disease will have a positive test result. Specificity represents the probability that an individual without disease will have a negative test result.",
+    "zh": "与血培养（诊断细菌性血流感染的参考标准）相比，生物标志物临界值≥2.6 ng/mL的敏感性为32%，特异性为96%。\n\n*   该测试的特异性是指健康个体（例如，无细菌性血流感染的重症监护病房[ICU]成人患者）通过诊断测试被正确识别（即，阴性测试结果）的百分比。它的补数（1 – 特异性）是假阳性率（例如，ICU中无细菌性血流感染的成人患者测试呈阳性的百分比）。\n*   该测试的敏感性是指患病个体（例如，患有细菌性血流感染的ICU患者）通过诊断测试被正确识别（即，阳性测试结果）的百分比。它的补数（1 – 敏感性）是假阴性率（例如，ICU中患有细菌性血流感染的成人患者测试呈阴性的百分比）。\n\n该测试的特异性表明，根据生物标志物的临界值≥2.6 ng/mL（即，测试结果<2.6 ng/mL），ICU中96%的无细菌性血流感染的成人患者将被正确识别（即，测试结果为阴性）（选项D）。相反，100% - 96% = 4%的ICU中无细菌性血流感染的成人患者将被错误识别。\n\n（选项A、C、E和F）该测试的敏感性表明，根据生物标志物的临界值≥2.6 ng/mL，ICU中32%的患有细菌性血流感染的成人患者将被正确诊断（即，测试结果呈阳性）。相反，100% - 32% = 68%的ICU中患有细菌性血流感染的成人患者将被漏诊（即，测试结果为阴性，结果<2.6 ng/mL）。\n\n教育目标：\n\n敏感性表示患有疾病的个体将具有阳性测试结果的概率。特异性表示没有疾病的个体将具有阴性测试结果的概率。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of diagnostic test characteristics, specifically sensitivity and specificity, and how to interpret their meaning in the context of a clinical study evaluating a new biomarker. It requires calculating the false-positive rate based on the given specificity. \n\nThe key to solving this question is to understand the definitions of sensitivity and specificity. Specificity refers to the ability of a test to correctly identify those without the disease (true negatives), and the complement of specificity (1 - specificity) is the false-positive rate. The correct answer is derived by calculating the false positive rate based on the provided specificity.",
+    "zh": "本题测试对诊断测试特征的理解，特别是敏感性和特异性，以及如何在评估新生物标志物的临床研究的背景下解释其含义。它需要根据给定的特异性计算假阳性率。\n\n解决这个问题的关键是理解敏感性和特异性的定义。特异性是指测试正确识别没有患病者（真阴性）的能力，特异性的补数（1 - 特异性）是假阳性率。正确的答案是通过根据提供的特异性计算假阳性率得出的。"
+  },
+  "tags": "Sensitivity; Specificity; Diagnostic test; Bacterial bloodstream infection; Intensive care unit; Biomarker; False positive rate; True negative; Medical statistics",
+  "category": "Bio",
+  "question_id": "108159",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\108159",
+  "extracted_at": "2025-11-05T10:27:15.893503",
+  "translated_at": "2025-11-07T15:44:09.577346",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

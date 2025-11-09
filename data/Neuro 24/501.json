@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 75-year-old man is brought to the emergency department due to 2 hours of left-sided chest pain and dyspnea. The patient has lived in a skilled nursing facility since developing right-sided hemiplegia, hemi-sensory loss, and aphasia 4 months ago. He has a history of diabetes mellitus, hypertension, and hypercholesterolemia. As an ECG is being obtained, the patient develops ventricular fibrillation and dies despite resuscitative efforts. An autopsy is performed; a coronal section of the brain is shown in the image below. The walls of the brain lesion are most likely composed of which of the following?",
+    "zh": "一名75岁男性因左侧胸痛和呼吸困难2小时被送至急诊科。患者自4个月前出现右侧偏瘫、偏身感觉缺失和失语以来，一直居住在一家技术护理机构。他有糖尿病、高血压和高胆固醇血症病史。在进行心电图检查时，患者发生室颤，尽管进行了复苏，仍不幸去世。进行了尸检；脑的冠状切面如下图所示。脑损伤的壁最有可能由以下哪项组成？"
+  },
+  "question": {
+    "en": "The walls of the brain lesion are most likely composed of which of the following?",
+    "zh": "脑损伤的壁最有可能由以下哪项组成？"
+  },
+  "options": {
+    "A": {
+      "en": "Astrocytes",
+      "zh": "星形胶质细胞"
+    },
+    "B": {
+      "en": "Ependymal cells",
+      "zh": "室管膜细胞"
+    },
+    "C": {
+      "en": "Fibroblasts",
+      "zh": "成纤维细胞"
+    },
+    "D": {
+      "en": "Oligodendrocytes",
+      "zh": "少突胶质细胞"
+    },
+    "E": {
+      "en": "Pia mater",
+      "zh": "软脑膜"
+    },
+    "F": {
+      "en": "Schwann cells",
+      "zh": "许旺细胞"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The coronal section of this patient's brain shows a cystic lesion caused by ischemic stroke involving the left cerebral hemisphere. Ischemic neuronal injury initially causes intense cytoplasmic eosinophilia (\"red neurons\"). Several months to years after brain infarction, the necrotic area appears as a cystic cavity surrounded by a wall composed of dense fibers formed by astrocytic processes (glial scar). Therefore, the walls of the brain lesion are most likely composed of astrocytes.",
+    "zh": "该患者脑的冠状切面显示，由于累及左侧大脑半球的缺血性卒中，导致了囊性病变。缺血性神经元损伤最初会导致强烈的细胞质嗜酸性变（“红染神经元”）。脑梗死后数月至数年，坏死区域表现为被星形胶质细胞突起形成的致密纤维（神经胶质瘢痕）包绕的囊性腔。因此，脑损伤的壁最有可能由星形胶质细胞组成。"
+  },
+  "summary": {
+    "en": "The question describes a patient who suffered an ischemic stroke, leading to a cystic lesion in the brain. The explanation details the process of glial scar formation, which is primarily composed of astrocytes, around the necrotic area several months to years after the infarction. This indicates that astrocytes are the main component of the lesion walls.",
+    "zh": "该问题描述了一名患有缺血性卒中的患者，导致脑部出现囊性病变。解释详细介绍了神经胶质瘢痕的形成过程，该过程主要由星形胶质细胞组成，围绕梗死后数月至数年的坏死区域。这表明星形胶质细胞是病变壁的主要组成部分。"
+  },
+  "tags": [
+    "neurology",
+    "stroke",
+    "pathology",
+    "glial scar",
+    "astrocytes"
+  ],
+  "category": "Neuro",
+  "question_id": "501",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\501",
+  "extracted_at": "2025-11-05T19:40:20.590896",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:41:03.486517",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 78-year-old man is found unresponsive and is brought by ambulance to the emergency department. Upon arrival, the family says he has a complicated medical history and takes multiple medications but has no known drug allergies. Noncontrast CT scan of the head reveals intracranial hemorrhage. The patient is given a recombinant biologic agent that has antigen homology with factor Xa but no catalytic effect. The agent is most likely to antagonize the effects of which of the following drugs?",
+    "zh": "一名78岁男性患者被发现无反应，由救护车送至急诊科。到达时，家属称其病史复杂，服用多种药物，但无已知药物过敏史。头部非增强CT扫描显示颅内出血。该患者接受了一种重组生物制剂，该制剂与因子Xa具有抗原同源性，但没有催化作用。该制剂最有可能拮抗以下哪种药物的作用？"
+  },
+  "question": {
+    "en": "The agent is most likely to antagonize the effects of which of the following drugs?",
+    "zh": "该制剂最有可能拮抗以下哪种药物的作用？"
+  },
+  "options": {
+    "A": {
+      "en": "Apixaban",
+      "zh": "阿哌沙班"
+    },
+    "B": {
+      "en": "Aspirin",
+      "zh": "阿司匹林"
+    },
+    "C": {
+      "en": "Dabigatran",
+      "zh": "达比加群"
+    },
+    "D": {
+      "en": "Ticagrelor",
+      "zh": "替格瑞洛"
+    },
+    "E": {
+      "en": "Warfarin",
+      "zh": "华法林"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's intracranial hemorrhage was likely treated with **andexanet alfa**, a biologic agent that shares homology with factor Xa but has no proteolytic effect. It is administered to patients who have **life-threatening bleeding** while on a factor Xa inhibitor (eg, rivaroxaban, **apixaban**). The similarity of andexanet to factor Xa allows it to function as a **decoy** that binds to factor Xa inhibitors. This restores intravascular coagulation by increasing the availability of endogenous factor Xa, which converts prothrombin to thrombin and generates fibrin clots. Andexanet is reserved for life-threatening bleeding because it is associated with a significant risk of thrombosis.\n\n(Choice B) Aspirin inhibits cyclooxygenase, which prevents platelet aggregation by blocking the generation of thromboxane A2. There is no reversal agent for aspirin widely available. Aspirin does not target factor Xa.\n\n(Choice C) Dabigatran is a direct oral anticoagulant (DOAC) that inhibits circulating and clot-bound thrombin. It is reversed by idarucizumab, a monoclonal antibody fragment that binds to and inhibits dabigatran. Although dabigatran is a DOAC, it targets thrombin rather than factor Xa.\n\n(Choice D) Ticagrelor blocks the P2Y₁₂ adenosine diphosphate receptor on the surface of platelets, which prevents platelet aggregation. Its activity is not mediated by factor Xa.\n\n(Choice E) Warfarin is a vitamin-K antagonist that prevents the generation of vitamin-K dependent clotting factors by blocking epoxide reductase in the liver. It is reversed by the administration of vitamin K.\n\nEducational objective:\nAndexanet alfa is a factor Xa decoy that has no proteolytic effect. It is administered to patients on factor Xa inhibitors (eg, rivaroxaban, apixaban) who have life-threatening bleeding in order to reverse the anticoagulation effect.",
+    "zh": "该患者的颅内出血可能用**andexanet alfa**治疗，这是一种与因子Xa具有同源性但没有蛋白水解作用的生物制剂。它用于正在使用因子Xa抑制剂（例如，利伐沙班、**阿哌沙班**）的、发生**危及生命的出血**的患者。Andexanet与因子Xa的相似性使其能够作为**诱饵**，与因子Xa抑制剂结合。这通过增加内源性因子Xa的可用性来恢复血管内凝血，内源性因子Xa将凝血酶原转化为凝血酶并产生纤维蛋白凝块。Andexanet仅用于危及生命的出血，因为它与血栓形成的显著风险相关。\n\n（选项B）阿司匹林抑制环氧合酶，通过阻止血栓烷A2的生成来防止血小板聚集。阿司匹林没有广泛可用的逆转剂。阿司匹林不靶向因子Xa。\n\n（选项C）达比加群是一种直接口服抗凝剂（DOAC），可抑制循环和凝块结合的凝血酶。它可以通过依达西珠单抗逆转，依达西珠单抗是一种结合并抑制达比加群的单克隆抗体片段。虽然达比加群是一种DOAC，但它靶向凝血酶而不是因子Xa。\n\n（选项D）替格瑞洛阻断血小板表面的P2Y₁₂腺苷二磷酸受体，从而防止血小板聚集。其活性不受因子Xa介导。\n\n（选项E）华法林是一种维生素K拮抗剂，通过阻断肝脏中的环氧化还原酶来阻止维生素K依赖性凝血因子的生成。它可以通过给予维生素K来逆转。\n\n教育目标：\nAndexanet alfa 是一种因子Xa诱饵，没有蛋白水解作用。它用于正在使用因子Xa抑制剂（例如，利伐沙班、阿哌沙班）并发生危及生命的出血的患者，以逆转抗凝作用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of anticoagulant reversal agents, specifically andexanet alfa, and its mechanism of action in reversing the effects of factor Xa inhibitors. It also requires understanding the mechanisms of action of other anticoagulants and antiplatelet agents and their respective reversal strategies.\n\nThe best approach is to identify the medication being reversed (factor Xa inhibitor) based on the provided information about andexanet alfa's mechanism of action. Then, match the reversal agent to the appropriate anticoagulant from the options.",
+    "zh": "本题考察了对抗凝剂逆转剂（特别是andexanet alfa）的知识，以及它在逆转因子Xa抑制剂作用中的作用机制。它还需要理解其他抗凝剂和抗血小板药物的作用机制及其各自的逆转策略。\n\n最佳方法是根据提供的关于andexanet alfa作用机制的信息，确定正在逆转的药物（因子Xa抑制剂）。然后，将逆转剂与选项中的相应抗凝剂匹配。"
+  },
+  "tags": "Andexanet alfa; Factor Xa inhibitors; Anticoagulation reversal; Intracranial hemorrhage; Apixaban; Rivaroxaban; Hematology; Pharmacology",
+  "category": "Blood",
+  "question_id": "15390",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\15390",
+  "extracted_at": "2025-11-05T11:25:24.700702",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:27:54.786626",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

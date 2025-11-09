@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 68-year-old man comes to the office due to fatigue, weight loss, and constipation. He has refused to undergo screening colonoscopy for several years because \"nobody in my family had colon cancers.\" Past medical history is notable for emphysema and stable angina. The patient has smoked a pack of cigarettes daily for 50 years and drinks alcohol occasionally. Physical examination is unremarkable. He is referred for colonoscopy, which reveals a circumferential mass encircling the sigmoid colon. Pathology is positive for adenocarcinoma. CT scan of the chest, abdomen, and pelvis is negative for signs of metastasis. Serum carcinoembryonic antigen assay is ordered.",
+    "zh": "一名68岁男性因疲劳、体重减轻和便秘来就诊。他拒绝进行结肠镜筛查数年，因为“我的家人没有人患有结肠癌”。既往病史值得关注的是肺气肿和稳定型心绞痛。患者每天吸食一包香烟，持续50年，并偶尔饮酒。体格检查无特殊发现。他被转诊进行结肠镜检查，结果显示一个环绕乙状结肠的环形肿块。病理结果提示腺癌。胸部、腹部和骨盆的CT扫描未见转移迹象。已开具血清癌胚抗原检测。"
+  },
+  "question": {
+    "en": "The results of this assay would be most useful for which of the following aspects of this patient's care?",
+    "zh": "这项检测的结果对于患者护理的以下哪个方面最有用？"
+  },
+  "options": {
+    "A": {
+      "en": "Determining the need for surgery",
+      "zh": "确定是否需要手术"
+    },
+    "B": {
+      "en": "Determining the type of chemotherapy",
+      "zh": "确定化疗类型"
+    },
+    "C": {
+      "en": "Grading of the tumor",
+      "zh": "肿瘤分级"
+    },
+    "D": {
+      "en": "Monitoring for residual disease",
+      "zh": "监测残留病灶"
+    },
+    "E": {
+      "en": "Staging of the tumor",
+      "zh": "肿瘤分期"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Carcinoembryonic antigen (CEA) is a glycoprotein involved in cell adhesion. It is produced in the embryonic pancreas, liver, and intestine and is also detected in minute amounts in the serum of healthy adults. CEA levels are increased in most patients with colon cancer. Elevated preoperative CEA levels are associated with a worse prognosis, and failure to normalize following surgery suggests RESIDUAL DISEASE. During long-term follow-up, rising CEA levels are a sensitive indicator of colorectal cancer RECURRENCE. However, CEA has low sensitivity and specificity for initial screening and diagnosis of colon cancer.\n\nCEA levels are elevated in pancreatic, gastric, and breast malignancies along with other nonmalignant diseases (eg, inflammatory bowel disease, chronic obstructive pulmonary disease, cirrhosis, pancreatitis). CEA levels are also higher in smokers than nonsmokers.\n\n(Choice A) Surgical resection is recommended for most patients with colon cancer unless there are unresectable metastases. The specific procedure recommended is dependent on stage and anatomical considerations rather than CEA levels.\n\n(Choice B) Adjuvant chemotherapy is recommended for most patients with node-positive colorectal adenocarcinoma regardless of CEA levels.\n\n(Choices C and E) Tumor grade describes the degree of tumor differentiation and is determined histologically. The stage of the tumor reflects the extent of its spread (eg, penetration of the bowel wall, lymph node invasion, distant metastases). Elevated CEA levels are associated with a worse prognosis regardless of tumor stage, but CEA measurement is not currently considered part of the initial staging evaluation.\n\nEducational objective:\nCarcinoembryonic antigen (CEA) levels are increased in colon cancer but are also elevated in a number of other conditions (eg, pancreatic cancer, COPD, cirrhosis). CEA cannot be used to diagnose colon cancer, but it is helpful for detecting residual disease and recurrence.",
+    "zh": "癌胚抗原（CEA）是一种参与细胞粘附的糖蛋白。它在胚胎的胰腺、肝脏和肠道中产生，在健康成人的血清中也能检测到微量。大多数结肠癌患者的CEA水平升高。术前CEA水平升高与预后较差相关，术后未能恢复正常提示残留病灶。在长期随访期间，CEA水平升高是结直肠癌复发的敏感指标。然而，CEA在结肠癌的初始筛查和诊断中敏感性和特异性较低。\n\nCEA水平在胰腺癌、胃癌和乳腺癌中升高，以及其他非恶性疾病（例如，炎症性肠病、慢性阻塞性肺病、肝硬化、胰腺炎）中也会升高。吸烟者CEA水平高于不吸烟者。\n\n（选项A）对于大多数结肠癌患者，建议进行手术切除，除非存在不可切除的转移灶。推荐的特定手术取决于分期和解剖学考虑，而非CEA水平。\n\n（选项B）对于大多数淋巴结阳性的结直肠腺癌患者，建议进行辅助化疗，无论CEA水平如何。\n\n（选项C和E）肿瘤分级描述了肿瘤分化程度，并通过组织学确定。肿瘤分期反映其扩散程度（例如，穿透肠壁、淋巴结浸润、远处转移）。CEA水平升高与预后较差相关，与肿瘤分期无关，但CEA测量目前不被认为是初始分期评估的一部分。\n\n教育目标：\n癌胚抗原（CEA）水平在结肠癌中升高，但在许多其他情况下也会升高（例如，胰腺癌、慢阻肺、肝硬化）。CEA不能用于诊断结肠癌，但有助于检测残留病灶和复发。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the utility of carcinoembryonic antigen (CEA) in the management of colon cancer, specifically its role in monitoring for residual disease and recurrence after treatment.\n\nThe key to solving this question is recognizing that CEA is not useful for initial diagnosis or staging of colon cancer, but rather for monitoring treatment response and detecting recurrence. Elevated CEA levels after surgery suggest residual disease, while rising levels during follow-up indicate recurrence.",
+    "zh": "本题测试对癌胚抗原（CEA）在结肠癌管理中的作用的了解，特别是其在监测治疗后残留病灶和复发中的作用。\n\n解决此问题的关键在于认识到CEA对结肠癌的初始诊断或分期无用，而是用于监测治疗反应和检测复发。术后CEA水平升高提示残留病灶，而随访期间水平升高提示复发。"
+  },
+  "tags": "Colon cancer; Carcinoembryonic antigen; Tumor markers; Residual disease; Recurrence; Oncology; Gastrointestinal",
+  "category": "GIT",
+  "question_id": "253",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\253",
+  "extracted_at": "2025-11-05T14:31:57.174483",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:55:23.410193",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 50-year-old man has recurrent episodes of paroxysmal atrial fibrillation accompanied by uncomfortable palpitations and chest pressure. Echocardiogram reveals normal biventricular function and no significant valvular disease. Coronary angiography reveals no obstructive coronary artery disease. The patient is started on medication to reduce his symptoms. Two weeks later, he is seen in the emergency department for lightheadedness, weakness, and presyncope. ECG reveals sinus bradycardia at a rate of 53/min with QTc prolongation (508 msec). Telemetry monitoring reveals a short episode of self-resolved torsades de pointes {{exhibit_1}}. Which of the following medications was most likely used to treat this patient's palpitations?",
+    "zh": "一名50岁男性反复发作阵发性房颤，伴有不适的心悸和胸闷。超声心动图显示双心室功能正常，无明显瓣膜病。冠状动脉造影显示无阻塞性冠状动脉疾病。患者开始服用药物以减轻症状。两周后，他在急诊科就诊，主诉头晕、乏力和晕厥前状态。心电图显示窦性心动过缓，心率53次/分，QTc间期延长（508毫秒）。遥测监测显示一过性自限性尖端扭转型室速 {{exhibit_1}}。以下哪种药物最有可能用于治疗患者的心悸？"
+  },
+  "question": {
+    "en": "Which of the following medications was most likely used to treat this patient's palpitations?",
+    "zh": "以下哪种药物最有可能用于治疗患者的心悸？"
+  },
+  "options": {
+    "A": {
+      "en": "Diltiazem",
+      "zh": "地尔硫卓"
+    },
+    "B": {
+      "en": "Metoprolol",
+      "zh": "美托洛尔"
+    },
+    "C": {
+      "en": "Mexiletine",
+      "zh": "美西律"
+    },
+    "D": {
+      "en": "Ranolazine",
+      "zh": "雷诺嗪"
+    },
+    "E": {
+      "en": "Sotalol",
+      "zh": "索他洛尔"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Sotalol has both beta adrenergic-blocking and class III antiarrhythmic (K+ channel-blocking) properties and is occasionally used in treatment of atrial fibrillation. Major side effects of sotalol include bradycardia, proarrhythmia, and most commonly torsades de pointes due to QT interval prolongation {{exhibit_2}}.\n\nClass III antiarrhythmics (eg, sotalol, amiodarone, dofetilide) predominantly block potassium channels and inhibit outward repolarizing currents during phase 3 of the cardiomyocyte action potential. This leads to increased action potential duration and QT interval prolongation, which predisposes to the development of polymorphic ventricular tachycardia (torsades de pointes [TdP]). Amiodarone has a lesser proarrhythmic effect than other class III drugs; therefore, TdP is less frequently observed with amiodarone than with sotalol.\n\n(Choice A) Diltiazem is a class IV antiarrhythmic drug (calcium channel blocker) that inhibits L-type calcium channels during phase 2 (cardiomyocyte action potential) and phase 0 (nodal action potential) depolarization. It slows the sinus rate, prolongs conduction through the AV node, and depresses myocardial contractility (negative inotropic effect) but does not prolong the QT interval.\n\n(Choice B) Metoprolol is a class II antiarrhythmic drug that is a selective beta-1 receptor antagonist. It acts as a negative inotropic and chronotropic agent by decreasing myocardial contractility and heart rate. Unlike sotalol, beta blockers do not have any potassium channel-blocking properties and do not prolong the QT interval.\n\n(Choice C) Mexiletine is a class IB antiarrhythmic drug that blocks sodium channels, inhibiting the initial depolarization phase (phase 0) of the cardiomyocyte action potential. It is occasionally used to maintain sinus rhythm in patients with paroxysmal symptomatic atrial fibrillation, but it does not prolong the QT interval.\n\n(Choice D) Ranolazine is an antianginal agent and exerts its effect by inhibiting the late phase of inward sodium channels in ischemic cardiac myocytes. It also blocks potassium channels and causes a dose-dependent increase in QT interval; however, TdP has not been reported in ranolazine use.",
+    "zh": "索他洛尔同时具有β受体阻滞和III类抗心律失常（K+通道阻滞）特性，偶尔用于治疗房颤。索他洛尔的主要副作用包括心动过缓、致心律失常以及最常见的尖端扭转型室速，这与QT间期延长有关 {{exhibit_2}}。\n\nIII类抗心律失常药物（例如索他洛尔、胺碘酮、决奈达隆）主要阻断钾离子通道，并抑制心肌细胞动作电位3期（复极化）期间的向外复极化电流。这会导致动作电位时程延长和QT间期延长，从而易于发生多形性室性心动过速（尖端扭转型室速[TdP]）。胺碘酮的致心律失常作用低于其他III类药物；因此，与索他洛尔相比，胺碘酮引起的TdP较少。\n\n(选项A) 地尔硫卓是一种IV类抗心律失常药物（钙通道阻滞剂），可在2期（心肌细胞动作电位）和0期（结节动作电位）去极化期间抑制L型钙通道。它减慢窦性心率，延长通过房室结的传导，并抑制心肌收缩力（负性肌力作用），但不会延长QT间期。\n\n(选项B) 美托洛尔是一种II类抗心律失常药物，是一种选择性β-1受体拮抗剂。它通过降低心肌收缩力和心率来充当负性肌力和负性变时药物。与索他洛尔不同，β受体阻滞剂没有任何钾通道阻滞特性，也不会延长QT间期。\n\n(选项C) 美西律是一种IB类抗心律失常药物，可阻断钠离子通道，抑制心肌细胞动作电位的初始去极化期（0期）。它偶尔用于维持阵发性症状性房颤患者的窦性心律，但不会延长QT间期。\n\n(选项D) 雷诺嗪是一种抗心绞痛药物，其作用是通过抑制缺血性心肌细胞中内向钠离子通道的晚期。它还可以阻断钾离子通道并导致QT间期剂量依赖性增加；然而，雷诺嗪的使用中尚未报告发生TdP。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of antiarrhythmic drug side effects, specifically the proarrhythmic potential of sotalol leading to Torsades de Pointes (TdP). It requires understanding of the drug's mechanism of action and its impact on the QT interval.\n\nTo solve this question, recognize the patient's presentation of bradycardia, QTc prolongation, and TdP. Consider which antiarrhythmic drugs are known to prolong the QT interval and cause TdP as a side effect. Sotalol is a common culprit due to its potassium channel-blocking properties.",
+    "zh": "这道题考察对心律失常药物副作用的了解，特别是索他洛尔引起尖端扭转型室速 (TdP) 的致心律失常潜力。这需要了解药物的作用机制及其对QT间期的影响。\n\n要解决这个问题，要认识到患者表现出的心动过缓、QTc间期延长和TdP。考虑哪些抗心律失常药物已知会延长QT间期并导致TdP作为副作用。索他洛尔是常见的原因，因为它具有钾通道阻滞特性。"
+  },
+  "tags": "Sotalol; Torsades de pointes; QT prolongation; Antiarrhythmic drugs; Atrial fibrillation; Cardiology; Emergency medicine; Drug-induced arrhythmia; Class III antiarrhythmics",
+  "category": "CVS",
+  "question_id": "1506",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1506",
+  "extracted_at": "2025-11-05T11:54:56.293222",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:46:31.235613",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

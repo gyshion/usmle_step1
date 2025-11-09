@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 42-year-old man is hospitalized due to fever and persistent sore throat. Temperature is 38.3 C (100.9 F), blood pressure is 120/80 mm Hg, pulse is 94/min, and respirations are 16/min. There are several bruises on his trunk, and blood oozes from his intravenous catheter venipuncture sites. Blood fibrinogen level is 110 mg/dL (normal: 150-400). Bone marrow aspirate shows a predominance of immature myeloid cells with numerous azurophilic, needle-shaped cytoplasmic granules.",
+    "zh": "一名42岁男性因发烧和持续性咽喉痛住院。体温38.3°C（100.9°F），血压120/80 mmHg，脉搏94次/分钟，呼吸16次/分钟。躯干上有几处瘀伤，静脉导管穿刺部位渗血。血纤维蛋白原水平为110 mg/dL（正常：150-400）。骨髓穿刺显示以未成熟的髓样细胞为主，并有大量嗜天青颗粒，针状细胞质颗粒。"
+  },
+  "question": {
+    "en": "Chromosomal analysis of these immature cells is most likely to show which of the following abnormalities?",
+    "zh": "对这些未成熟细胞的染色体分析最有可能显示以下哪种异常？"
+  },
+  "options": {
+    "A": {
+      "en": "t(8;14)",
+      "zh": "t(8;14)"
+    },
+    "B": {
+      "en": "t(9;22)",
+      "zh": "t(9;22)"
+    },
+    "C": {
+      "en": "t(11;14)",
+      "zh": "t(11;14)"
+    },
+    "D": {
+      "en": "t(14;18)",
+      "zh": "t(14;18)"
+    },
+    "E": {
+      "en": "t(15;17)",
+      "zh": "t(15;17)"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Chromosomal translocations associated with hematologic malignancies {{exhibit_1}}\n\nThis patient with a predominance of immature myeloid cells containing numerous azurophilic, needle-shaped cytoplasmic granules likely has ACUTE PROMYELOCYTIC LEUKEMIA (APL), a subtype of acute myeloid leukemia. Acute leukemia can present with persistent fever and sore throat due to increased risk of infection conferred by fewer functional leukocytes.\n\nAPL is microscopically characterized by abnormal promyelocytes (immature myeloid cells) that may contain numerous needle-shaped cytoplasmic inclusions known as Auer rods (fused lysosomal granules) and often have bilobed nuclei. Cytogenetic studies show t(15;17) chromosomal translocation, which causes fusion of the retinoic acid receptor-alpha (RARA) gene to the promyelocytic leukemia (PML) gene.\n\nA classic presentation of APL is bleeding in the setting of DISSEMINATED INTRAVASCULAR COAGULATION (DIC) (eg, oozing at venipuncture sites), as the malignant cells express prothrombotic factors (eg, tissue factor) that lead to widespread consumptive coagulopathy. DIC is characterized by decreased fibrinogen levels, increased fibrin degradation products, prolonged PT and PTT, and thrombocytopenia that is generally not low enough to result in spontaneous bleeding by itself. Prompt treatment of APL with all-trans retinoic acid is essential.\n\n(Choice A) t(8;14) occurs in approximately 80% of cases of Burkitt lymphoma and results in movement of the MYC protooncogene from chromosome 8 to a region near the immunoglobulin promoter site on chromosome 14. In blood and bone marrow, Burkitt lymphoma cells often have basophilic, vacuolated cytoplasm.\n\n(Choice B) t(9;22) forms the Philadelphia chromosome associated with chronic myeloid leukemia (CML). Most patients seek medical attention in the chronic, stable phase (eg, nonspecific symptoms, abdominal fullness, leukocytosis), in which mature and immature myeloid forms are seen. Auer rods are not typically present in CML.\n\n(Choice C) Mantle cell lymphoma, a mature B-cell malignancy characterized by lymphoid cells with irregular nuclei, is associated with t(11;14). This translocation results in overexpression of cyclin D1.\n\n(Choice D) t(14;18) is associated with follicular lymphoma. This abnormality places the BCL2 protooncogene from chromosome 18 near the immunoglobulin heavy-chain promoter region on chromosome 14. Circulating follicular lymphoma cells are typically small lymphoid cells with cleaved nuclei.\n\nEducational objective:\nAcute promyelocytic leukemia (APL) can present with persistent infection and coagulopathy, causing hemorrhagic signs and symptoms. Bone marrow examination classically reveals abnormal promyelocytes with intracytoplasmic Auer rods. APL is associated with a t(15;17) chromosomal translocation that fuses the retinoic acid receptor-alpha and promyelocytic leukemia genes.",
+    "zh": "与血液系统恶性肿瘤相关的染色体易位 {{exhibit_1}}\n\n这位患者以未成熟的髓样细胞为主，其中含有大量嗜天青、针状细胞质颗粒，很可能患有急性早幼粒细胞白血病 (APL)，这是一种急性髓细胞白血病的亚型。急性白血病可因功能性白细胞减少而增加感染风险，进而表现为持续发烧和咽喉痛。\n\nAPL在显微镜下表现为异常的早幼粒细胞（未成熟的髓样细胞），其中可能含有大量针状细胞质内含物，称为 Auer 小体（融合的溶酶体颗粒），并且通常具有双叶核。细胞遗传学研究显示t(15;17)染色体易位，导致视黄酸受体-α (RARA) 基因与早幼粒细胞白血病 (PML) 基因融合。\n\nAPL的典型表现是在弥漫性血管内凝血 (DIC) 的情况下出血（例如，穿刺部位渗血），因为恶性细胞表达促血栓形成因子（例如，组织因子），导致广泛的消耗性凝血病。 DIC的特征是纤维蛋白原水平降低，纤维蛋白降解产物增加，PT和PTT延长以及血小板减少，血小板减少通常不足以导致自发性出血。 及时使用全反式维甲酸治疗APL至关重要。\n\n(选项 A) t(8;14) 发生于大约80%的伯基特淋巴瘤病例中，导致MYC原癌基因从染色体8转移到染色体14上免疫球蛋白启动子位点附近。在血液和骨髓中，伯基特淋巴瘤细胞通常具有嗜碱性、空泡化的细胞质。\n\n(选项 B) t(9;22) 形成与慢性髓细胞白血病 (CML) 相关的费城染色体。大多数患者在慢性稳定期（例如，非特异性症状、腹胀、白细胞增多症）就医，此时可见成熟和未成熟的髓样细胞。 Auer 小体通常不存在于CML中。\n\n(选项 C) 套细胞淋巴瘤是一种成熟的B细胞恶性肿瘤，其特征是具有不规则核的淋巴样细胞，与t(11;14)相关。这种易位导致细胞周期蛋白D1的过度表达。\n\n(选项 D) t(14;18) 与滤泡性淋巴瘤相关。 这种异常将BCL2原癌基因从染色体18放置在染色体14上的免疫球蛋白重链启动子区域附近。 循环的滤泡性淋巴瘤细胞通常是具有裂叶核的小淋巴样细胞。\n\n教育目标：\n急性早幼粒细胞白血病 (APL) 可表现为持续性感染和凝血病，引起出血体征和症状。 骨髓检查通常显示异常的早幼粒细胞，细胞质内可见 Auer 小体。 APL 与t(15;17)染色体易位相关，该易位融合了视黄酸受体-α和早幼粒细胞白血病基因。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of acute promyelocytic leukemia (APL) and its associated chromosomal translocation, t(15;17). It also assesses understanding of the clinical presentation of APL, including fever, sore throat, and bleeding due to disseminated intravascular coagulation (DIC). \n\nTo solve this question, recognize the key features of APL: immature myeloid cells with Auer rods on bone marrow aspirate, bleeding diathesis, and the association with t(15;17). Rule out other hematologic malignancies based on their distinct chromosomal translocations and clinical presentations.",
+    "zh": "本题考察对急性早幼粒细胞白血病 (APL) 及其相关的染色体易位 t(15;17) 的知识。 它还评估对 APL 临床表现的理解，包括发烧、咽喉痛和因弥漫性血管内凝血 (DIC) 引起的出血。\n\n要解决这个问题，需要识别 APL 的关键特征：骨髓穿刺物中含有 Auer 小体的未成熟髓样细胞、出血素质以及与 t(15;17) 的关联。根据其他血液系统恶性肿瘤不同的染色体易位和临床表现，排除它们。"
+  },
+  "tags": "Acute promyelocytic leukemia; APL; Chromosomal translocation; t(15;17); Bone marrow aspirate; Auer rods; Disseminated intravascular coagulation; DIC; Hematologic malignancy; Leukemia; Oncology",
+  "category": "Blood",
+  "question_id": "1963",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1963",
+  "extracted_at": "2025-11-05T11:31:40.421177",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:30:51.325945",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

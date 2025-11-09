@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old woman with chronic obstructive pulmonary disease and type II diabetes mellitus comes to the emergency department due to profound fevers and malaise. After initial evaluation, she is hospitalized for septicemia. Blood cultures plated on lactose-containing media grow rapidly dividing gram-negative bacteria. Replication of these microbial cells requires synthesis of two daughter strands of DNA using the parent strands as templates.",
+    "zh": "一名65岁女性，患有慢性阻塞性肺病和2型糖尿病，因严重发热和不适来到急诊科。初步评估后，她因败血症住院。在含乳糖培养基上接种的血培养中，革兰氏阴性菌快速分裂生长。这些微生物细胞的复制需要使用亲本链作为模板合成两条子代DNA链。"
+  },
+  "question": {
+    "en": "Which of the following processes will differ the most between the 2 daughter strands formed at each replication fork?",
+    "zh": "在每个复制叉处形成的2条子代链之间，以下哪种过程差异最大？"
+  },
+  "options": {
+    "A": {
+      "en": "Enzymatic function of DNA helicase",
+      "zh": "DNA解旋酶的酶促功能"
+    },
+    "B": {
+      "en": "Interaction with single-stranded DNA-binding proteins",
+      "zh": "与单链DNA结合蛋白的相互作用"
+    },
+    "C": {
+      "en": "Joining of DNA fragments by ligase",
+      "zh": "连接酶连接DNA片段"
+    },
+    "D": {
+      "en": "Proofreading of the newly synthesized DNA",
+      "zh": "新合成DNA的校对"
+    },
+    "E": {
+      "en": "Relief of supercoils by topoisomerase",
+      "zh": "拓扑异构酶缓解超螺旋"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Synthesis of the daughter strands occurs simultaneously from both parent strands. Because DNA synthesis can occur only in the 5' -> 3' direction, one daughter strand is synthesized continuously toward the replication fork (leading strand). However, the other strand must be synthesized discontinuously in a direction away from the replication fork (lagging strand), with more and more segments being added as the replication fork moves across the DNA double helix. This results in the formation of OKAZAKI FRAGMENTS, short stretches of newly synthesized DNA that are separated by RNA primers. These primers are removed and replaced with DNA, and the Okazaki fragments are subsequently joined together by DNA ligase. Because of the discontinuous nature of DNA synthesis on the lagging strand, DNA LIGASE acts many more times on the lagging strand than on the leading strand.",
+    "zh": "子链的合成同时发生在两条亲本链上。由于DNA合成只能发生在5' -> 3'方向，一条子链朝着复制叉的方向连续合成（前导链）。然而，另一条链必须以远离复制叉的方向不连续地合成（滞后链），随着复制叉在DNA双螺旋上移动，越来越多的片段被添加。这导致了冈崎片段的形成，冈崎片段是新合成的DNA的短片段，被RNA引物分隔开。这些引物被移除并替换为DNA，然后冈崎片段被DNA连接酶连接在一起。由于滞后链上DNA合成的不连续性，DNA连接酶在滞后链上的作用次数远多于前导链。"
+  },
+  "summary": {
+    "en": "1) DNA replication 2) The lagging strand requires more DNA ligase activity than the leading strand due to the formation of Okazaki fragments.",
+    "zh": "1) DNA复制 2) 由于冈崎片段的形成，滞后链比前导链需要更多的DNA连接酶活性。"
+  },
+  "tags": "DNA replication; Okazaki fragments; DNA ligase; Leading strand; Lagging strand",
+  "category": "Bio",
+  "question_id": "1419",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1419",
+  "extracted_at": "2025-11-05T10:58:59.345504",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:21:07.475636",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

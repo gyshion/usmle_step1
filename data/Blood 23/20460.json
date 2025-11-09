@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 20-year-old woman comes to the emergency department due to bloody stools. Approximately an hour ago, the patient had a bowel movement that appeared grossly bloody. For the past month, she has also had decreased energy. Temperature is 37 C (98.6 F), blood pressure is 110/60 mm Hg, pulse is 110/min, and respirations are 20/min. The patient appears tired. Cardiopulmonary examination reveals mild tachycardia. The abdomen is soft without organomegaly. Skin examination shows pallor and scattered bruises in various stages of healing throughout the trunk. Complete blood count results are as follows:\n\nHemoglobin\t7.2 g/dL\nMean corpuscular volume\t90 µm³\nPlatelets\t10,000/mm³\nLeukocytes\t1.050/mm³\nNeutrophils\t5%\nLymphocytes\t95%",
+    "zh": "一名20岁的女性因血便来到急诊科。大约一小时前，患者出现肉眼可见的血便。在过去的一个月里，她也一直感到精力下降。体温为37摄氏度（98.6华氏度），血压为110/60 mmHg，脉搏为110次/分钟，呼吸为20次/分钟。患者看起来很疲倦。心肺检查显示轻度心动过速。腹部柔软，无脏器肿大。皮肤检查显示苍白，躯干各处散布着处于不同愈合阶段的瘀伤。全血细胞计数结果如下：\n\n血红蛋白 7.2 g/dL\n平均红细胞体积 90 µm³\n血小板 10,000/mm³\n白细胞 1,050/mm³\n中性粒细胞 5%\n淋巴细胞 95%"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's condition?",
+    "zh": "以下哪项最可能是该患者病情的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Autoimmune-induced loss of self-renewing hematopoietic stem cells",
+      "zh": "自身免疫诱导的自我更新造血干细胞的丢失"
+    },
+    "B": {
+      "en": "Bone marrow replacement by constitutively active tyrosine kinase-stimulated cells",
+      "zh": "骨髓被组成型活化的酪氨酸激酶刺激的细胞所取代"
+    },
+    "C": {
+      "en": "Splenic hyperactivity with cell trapping by the reticuloendothelial system",
+      "zh": "脾脏活动亢进，网状内皮系统细胞滞留"
+    },
+    "D": {
+      "en": "Increased destruction of cells opsonized by glycoprotein IIb/IIIa-targeted autoantibodies",
+      "zh": "由糖蛋白IIb/IIIa靶向自身抗体调理的细胞破坏增加"
+    },
+    "E": {
+      "en": "Ineffective hematopoiesis secondary to micronutrient deficiency",
+      "zh": "继发于微量营养素缺乏的无效造血"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has gastrointestinal bleeding and ecchymosis secondary to thrombocytopenia; although anemia (eg, pallor) would be expected with significant bleeding, her low leukocyte count indicates PANCYTOPENIA, which is generally caused by one of the following:\n\n*   Bone marrow aplasia: Hematopoietic stem cells in the bone marrow are unable to proliferate and differentiate into mature blood cells due to aplastic anemia, nutritional impairment, infection (eg, parvovirus, HIV), or cytotoxic medications.\n*   Bone marrow infiltration: Cancer, fibrosis, or infection (eg, tuberculosis) fills the bone marrow and crowds out hematologic cells, thereby preventing blood cell replication and maturation.\n*   Mature blood cell destruction: Circulating mature blood cells may be destroyed due to disseminated intravascular coagulation or thrombotic thrombocytopenic purpura; extravascular mature blood cells may be destroyed or sequestered in the spleen due to hypersplenism.\n\nBased on this patient's laboratory and physical examination results, several answer choices can be eliminated. The presence of a normal MCV makes vitamin B12 or folate deficiency unlikely because these are associated with macrocytic (not normocytic) anemia (Choice E). Hypersplenism is also unlikely because abdominal examination would show significant splenomegaly (Choice C). Chronic myelogenous leukemia, an infiltrative cancer associated with constitutively active tyrosine kinase, is also unlikely because this condition is usually associated with dramatic leukocytosis (not leukopenia) (Choice B).\n\nTherefore, the most likely cause of this patient's pancytopenia is APLASTIC ANEMIA (AA). Although AA is linked to certain medications, infections, toxins, or radiation, most cases are idiopathic and thought to be caused by AUTOIMMUNE-INDUCED LOSS of multipotent hematopoietic stem cells. In idiopathic AA, an underlying insult (eg, mutation, virus) causes alteration of surface antigens on multipotent stem cells, making them appear foreign and triggering a CYTOTOXIC T-CELL RESPONSE. Cytokines released by T-helper cells (type 1 cytokines) also contribute to the pathogenesis, most notably INTERFERON-GAMMA, which triggers APOPTOTIC CELL DEATH due to the stimulation of a destructive cytokine cascade and the increased expression of the Fas receptor on the hematopoietic stem cell surface.\n\n(Choice D) Autoantibodies against glycoprotein IIb/IIIa cause immune thrombocytopenia, which is marked by thrombocytopenia and no change in the other cell lines.\n\nEducational objective:\nAplastic anemia is a form of bone marrow failure in which patients have decreased production of all cell lines (platelets, erythrocytes, and leukocytes). It is primarily caused by the autoimmune destruction of multipotent hematopoietic stem cells due to an alteration in their surface antigens, leading to a cytotoxic T-cell response and release of interferon-gamma from T-helper cells (triggers apoptotic cell death).",
+    "zh": "该患者因血小板减少症继发消化道出血和瘀斑；虽然在大量出血时会发生贫血（如苍白），但她的白细胞计数低表明全血细胞减少症，这通常由以下原因之一引起：\n\n*   骨髓发育不全：骨髓中的造血干细胞由于再生障碍性贫血、营养不良、感染（如细小病毒、HIV）或细胞毒性药物而无法增殖和分化为成熟血细胞。\n*   骨髓浸润：癌症、纤维化或感染（如结核病）填充骨髓并挤出血液细胞，从而阻止血细胞的复制和成熟。\n*   成熟血细胞破坏：循环中的成熟血细胞可能因弥漫性血管内凝血或血栓性血小板减少性紫癜而受到破坏；血管外成熟血细胞可能因脾功能亢进而受到破坏或隔离在脾脏中。\n\n根据该患者的实验室和体格检查结果，可以排除几个选项。正常MCV的存在使得维生素B12或叶酸缺乏的可能性很小，因为这些与大细胞性（而非正细胞性）贫血相关（选项E）。脾功能亢进的可能性也很小，因为腹部检查会显示明显的脾肿大（选项C）。慢性髓细胞性白血病（一种与组成型活化酪氨酸激酶相关的浸润性癌症）的可能性也很小，因为这种情况通常与明显的白细胞增多症（而非白细胞减少症）相关（选项B）。\n\n因此，该患者全血细胞减少症最可能的原因是再生障碍性贫血 (AA)。尽管AA与某些药物、感染、毒素或辐射有关，但大多数病例是特发性的，被认为是由于自身免疫诱导的多能造血干细胞的丢失。在特发性AA中，潜在的损伤（例如，突变、病毒）会导致多能干细胞的表面抗原发生改变，使其看起来像异物，并触发细胞毒性T细胞反应。T辅助细胞（1型细胞因子）释放的细胞因子也有助于发病机制，最著名的是干扰素-γ，它由于刺激破坏性细胞因子级联反应和造血干细胞表面Fas受体的表达增加而触发细胞凋亡。\n\n（选项D）针对糖蛋白IIb/IIIa的自身抗体会引起免疫性血小板减少症，其特征是血小板减少症，而其他细胞系没有变化。\n\n教育目标：\n再生障碍性贫血是一种骨髓衰竭，患者所有细胞系（血小板、红细胞和白细胞）的产生减少。它主要由多能造血干细胞的自身免疫破坏引起，这是由于其表面抗原的改变，导致细胞毒性T细胞反应和T辅助细胞释放干扰素-γ（触发细胞凋亡）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pancytopenia and its common causes, specifically focusing on aplastic anemia and its underlying pathophysiology. It requires the ability to interpret complete blood count results and correlate them with clinical findings to narrow down the differential diagnosis. \n\nThe best approach is to first recognize the pancytopenia based on the lab values. Then, consider the common causes of pancytopenia and use the clinical and laboratory findings to rule out other possibilities, such as micronutrient deficiencies, hypersplenism, and bone marrow infiltration, before arriving at the most likely diagnosis of aplastic anemia.",
+    "zh": "此问题测试对全血细胞减少症及其常见病因的了解，特别侧重于再生障碍性贫血及其潜在的病理生理学。它需要能够解释全血细胞计数结果，并将其与临床发现相关联，以缩小鉴别诊断范围。\n\n最好的方法是首先根据实验室数值识别全血细胞减少症。然后，考虑全血细胞减少症的常见原因，并使用临床和实验室结果排除其他可能性，如微量营养素缺乏、脾功能亢进和骨髓浸润，然后得出再生障碍性贫血的最可能诊断。"
+  },
+  "tags": "Pancytopenia; Aplastic anemia; Hematopoiesis; Autoimmune disease; Bone marrow failure; Hematology; Complete blood count; Thrombocytopenia; Anemia; Leukopenia",
+  "category": "Blood",
+  "question_id": "20460",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\20460",
+  "extracted_at": "2025-11-05T13:32:43.705821",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:31:05.251074",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

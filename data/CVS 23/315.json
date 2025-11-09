@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "An 8-day-old boy is being evaluated in the neonatal intensive care unit. The patient was born at 27 weeks gestation and intubated at birth due to surfactant deficiency. Temperature is 37 C (98.6 F), blood pressure is 66/12 mm Hg, and pulse is 182/min. A continuous harsh murmur is heard at the left infraclavicular region. There are bounding femoral and palmar pulses. A drug with which of the following mechanisms of action is most appropriate for treating the cause of this patient's murmur?",
+    "zh": "一名8天大的男婴正在新生儿重症监护病房接受评估。该患者出生时孕27周，因表面活性物质缺乏而在出生时进行了气管插管。体温37°C（98.6°F），血压66/12 mmHg，脉搏182次/分钟。在左锁骨下区域可听到连续的粗糙杂音。股动脉和掌侧脉搏搏动增强。哪种药物的作用机制最适合治疗该患者杂音的原因？"
+  },
+  "question": {
+    "en": "A drug with which of the following mechanisms of action is most appropriate for treating the cause of this patient's murmur?",
+    "zh": "哪种药物的作用机制最适合治疗该患者杂音的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Activation of phospholipase A₂",
+      "zh": "磷脂酶A₂的激活"
+    },
+    "B": {
+      "en": "Activation of prostacyclin receptors",
+      "zh": "前列环素受体的激活"
+    },
+    "C": {
+      "en": "Activation of prostaglandin E₂ receptors",
+      "zh": "前列腺素E₂受体的激活"
+    },
+    "D": {
+      "en": "Inhibition of cyclooxygenase",
+      "zh": "环氧合酶的抑制"
+    },
+    "E": {
+      "en": "Inhibition of lipoxygenase",
+      "zh": "脂氧合酶的抑制"
+    },
+    "F": {
+      "en": "Inhibition of prostaglandin D₂ receptors",
+      "zh": "前列腺素D₂受体的抑制"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This newborn has a continuous murmur, widened pulse pressure, and bounding pulses, findings characteristic of a **patent ductus arteriosus** (PDA). After birth, **closure** of the ductus arteriosus normally occurs within 24-48 hours and is **initiated by loss of** placental prostaglandin E₂ (**PGE₂**) and the vasoconstrictive effects of increased systemic oxygen levels.\n\nPersistence of the ductus arteriosus (ie, a PDA) most commonly occurs in **premature infants** and may be associated with elevated postnatal PGE₂ or increased sensitivity to prostaglandins. Left-to-right shunting from the aorta to the pulmonary artery takes place, causing a continuous machinery-like murmur. Patients with a large PDA can develop decreased diastolic blood pressure (due to reduced systemic blood flow) and pulmonary overcirculation with left ventricular volume overload, leading to a compensatory increase in stroke volume that causes bounding pulses and widened pulse pressure.\n\nTreatment of PDA includes nonsteroidal anti-inflammatory drugs (NSAIDs) (eg, indomethacin, ibuprofen), which inhibit cyclooxygenase. Because cyclooxygenase normally synthesizes prostaglandins from arachidonic acid, NSAIDs **inhibit PGE₂ synthesis,** thereby inducing ductal smooth muscle contraction and promoting PDA closure.\n\n(Choice A) Phospholipase A₂ synthesizes arachidonic acid from phospholipids; therefore, phospholipase A₂ activation would increase arachidonic acid metabolite production, including PGE₂, and could encourage patency of the ductus arteriosus.\n\n(Choices B and C) Activation of prostacyclin (prostaglandin I₂) and PGE₂ receptors promotes vasodilation and patency, not closure, of the ductus arteriosus. This mechanism is used in treating ductal-dependent congenital heart defects (eg, transposition of the great arteries) in which maintaining ductal patency is required for adequate systemic oxygenation.\n\n(Choices E and F) Lipoxygenase converts arachidonic acid to leukotrienes, which are potent bronchoconstrictors. Similarly, the primary effect of prostaglandin D₂ (PGD₂), which is released by mast cells, is bronchoconstriction. Inhibitors of either lipoxygenase (eg, zileuton) or PGD₂ may be used as bronchodilators in asthma treatment, but they are not useful in facilitating PDA closure.\n\nEducational objective:\nA patent ductus arteriosus (PDA) classically presents with a continuous murmur, widened pulse pressure, and bounding pulses. Because physiologic closure of the ductus arteriosus is normally initiated by loss of placental prostaglandin E₂ (PGE₂), treatment of a symptomatic PDA includes cyclooxygenase inhibitors (eg, indomethacin), which decrease PGE₂ production.",
+    "zh": "这名新生儿有持续性杂音、脉压增宽和脉搏搏动增强，这些是**动脉导管未闭**（PDA）的特征性表现。出生后，动脉导管通常在24-48小时内**闭合**，并且**由胎盘前列腺素E₂（PGE₂）的减少**和全身氧水平升高所致的血管收缩效应**启动**。\n\n动脉导管未闭（即PDA）最常发生在**早产儿**中，并且可能与产后PGE₂升高或对前列腺素的敏感性增加有关。从主动脉到肺动脉发生左向右分流，引起持续的机器样杂音。患有大型PDA的患者可能会出现舒张压降低（由于全身血流量减少）和肺过度循环伴左心室容量超负荷，导致代偿性心搏量增加，从而导致脉搏搏动增强和脉压增宽。\n\nPDA的治疗包括非甾体抗炎药（NSAIDs）（例如，吲哚美辛、布洛芬），它们抑制环氧合酶。由于环氧合酶通常从花生四烯酸合成前列腺素，因此NSAIDs**抑制PGE₂的合成，**从而诱导导管平滑肌收缩并促进PDA闭合。\n\n（选项A）磷脂酶A₂从磷脂合成花生四烯酸；因此，磷脂酶A₂激活将增加花生四烯酸代谢物的产生，包括PGE₂，并且可能促进动脉导管的开放。\n\n（选项B和C）前列环素（前列腺素I₂）和PGE₂受体的激活促进血管舒张和开放，而不是动脉导管的闭合。这种机制用于治疗导管依赖性先天性心脏缺陷（例如，大动脉转位），在这种情况下，需要维持导管开放以获得足够的全身氧合。\n\n（选项E和F）脂氧合酶将花生四烯酸转化为白三烯，白三烯是强效的支气管收缩剂。同样，肥大细胞释放的前列腺素D₂（PGD₂）的主要作用是支气管收缩。脂氧合酶抑制剂（例如，齐留通）或PGD₂抑制剂可用于哮喘治疗中的支气管扩张剂，但它们对促进PDA闭合无用。\n\n教育目标：\n动脉导管未闭（PDA）的典型表现为持续性杂音、脉压增宽和脉搏搏动增强。由于动脉导管的生理性闭合通常由胎盘前列腺素E₂（PGE₂）的减少启动，因此有症状PDA的治疗包括环氧合酶抑制剂（例如，吲哚美辛），这些抑制剂可减少PGE₂的产生。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of patent ductus arteriosus (PDA) pathophysiology, clinical presentation, and appropriate medical management. It requires understanding of prostaglandin synthesis and the mechanism of action of NSAIDs in promoting ductal closure. \n\nThe key to solving this question is recognizing the signs of PDA in a premature infant and recalling that NSAIDs, specifically cyclooxygenase inhibitors, are used to treat PDA by reducing prostaglandin E2 production, which promotes ductal closure.",
+    "zh": "这个问题测试了对动脉导管未闭（PDA）的病理生理学、临床表现和适当的医学处理的知识。它需要了解前列腺素的合成以及NSAIDs促进导管闭合的作用机制。\n\n解决这个问题的关键是识别早产儿PDA的体征，并回忆起NSAIDs，特别是环氧合酶抑制剂，通过减少前列腺素E2的产生来治疗PDA，从而促进导管闭合。"
+  },
+  "tags": "Patent ductus arteriosus; Premature infant; Prostaglandins; Cyclooxygenase inhibitors; NSAIDs; Neonatology; Cardiology; Ductus arteriosus; Indomethacin; Prostaglandin E2",
+  "category": "CVS",
+  "question_id": "315",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\315",
+  "extracted_at": "2025-11-05T12:12:52.871810",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:29:37.392799",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

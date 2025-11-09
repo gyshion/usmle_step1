@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 41-year-old man comes to the emergency department due to 3 weeks of low-grade fever, productive cough, and a 4.5-kg (10-lb) weight loss. The patient drinks 10-12 beers a day. On physical examination, he appears cachectic. Poor dentition and clubbing of the fingers are noted. A foul-smelling sputum sample is expectorated and sent for Gram stain and culture. CT scan of the chest is shown in the image below: {{exhibit_1}}",
+    "zh": "一名41岁的男性因低热持续3周、咳嗽伴有痰液以及体重减轻4.5公斤（10磅）来到急诊科。患者每天喝10-12罐啤酒。体格检查显示他看起来很消瘦。注意到牙齿状况差，且手指杵状。咳出恶臭痰液样本，送去做革兰染色和培养。以下图像显示胸部CT扫描结果：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Empiric antimicrobial therapy should include coverage against which of the following pathogens?",
+    "zh": "经验性抗菌治疗应包括对以下哪种病原体的覆盖？"
+  },
+  "options": {
+    "A": {
+      "en": "Cell wall–deficient bacteria",
+      "zh": "细胞壁缺陷型细菌"
+    },
+    "B": {
+      "en": "Intestinal gram-negative flora",
+      "zh": "肠道革兰阴性菌群"
+    },
+    "C": {
+      "en": "Resident skin microbiota",
+      "zh": "常驻皮肤微生物群"
+    },
+    "D": {
+      "en": "Staphylococci resistant to beta-lactams",
+      "zh": "对β-内酰胺类药物耐药的葡萄球菌"
+    },
+    "E": {
+      "en": "Aerobic and anaerobic organisms",
+      "zh": "需氧菌和厌氧菌"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's excessive alcohol consumption, subacute pulmonary symptoms, and dense lung opacity with an air-fluid level are consistent with lung abscess. Most cases are due to aspiration of oropharyngeal flora into the alveoli during reduced levels of consciousness from drug or alcohol use disorder (which impairs cough and gag reflexes) or episodes of dysphagia (eg, previous stroke, esophageal stricture). Periodontal disease is frequently present, which increases the concentration of anaerobic bacteria in the gingival crevices. Most lung abscesses are polymicrobial and involve both upper respiratory aerobic organisms and oral cavity anaerobes (eg, Bacteroides, Prevotella, Fusobacterium, Peptostreptococcus).\n\nManifestations are typically subacute and include fever, cough with foul-smelling sputum, night sweats, and weight loss; digital clubbing sometimes occurs. Diagnosis is usually made when chest imaging reveals a dense fluid collection or cavitary infiltrate (often with an air-fluid level) in dependent portions of the lung (eg, superior portion of lower lobe).\n\nTreatment with ampicillin/sulbactam or a carbapenem is considered first-line therapy due to excellent coverage of oral anaerobes and aerobic gram-positive organisms (eg, Streptococcus pneumoniae). Clindamycin used in the past but is now reserved for those with penicillin allergies due to high risk of Clostridioides difficile infection.\n\n(Choice A) Mycoplasma pneumoniae is a cell wall–deficient bacteria that causes atypical pneumonia. Patients frequently have subacute cough and low-grade fever, but chest imaging usually demonstrates bilateral reticulonodular opacities. The presence of foul-smelling sputum and a cavitary infiltrate with an air-fluid level makes lung abscess much more likely.\n\n(Choice B) Although gram-negative intestinal flora (eg, Klebsiella pneumoniae) can cause lung abscess, empiric treatment must also target upper respiratory anaerobic organisms because they are present in most lung abscesses.\n\n(Choice C) Skin flora (eg, coagulase-negative staphylococci) are common causes of blood culture contaminants, but they do not typically cause pulmonary infection.\n\n(Choice D) Methicillin-resistant Staphylococcus aureus can cause hospital-acquired or post-viral pneumonia complicated by lung abscess formation. However, purulent, foul-smelling sputum is highly indicative of anaerobic involvement; in addition, S aureus is a less common cause of lung abscess in patients at high risk for aspiration (eg, alcohol/drug use).\n\nEducational objective:\nPatients with alcohol use disorder are at increased risk for lung abscess due to the aspiration of oral flora during periods of unconsciousness. Most cases involve a mixture of upper respiratory aerobes and oral cavity anaerobes (eg, Bacteroides, Prevotella, Fusobacterium, Peptostreptococcus). Manifestations include subacute fever, cough, and foul-smelling sputum. {{exhibit_2}}",
+    "zh": "该患者的过量饮酒、亚急性肺部症状以及具有气液平面的致密肺部混浊与肺脓肿相符。大多数病例是由于在药物或酒精使用障碍（损害咳嗽和呕吐反射）或吞咽困难发作（例如，既往卒中、食管狭窄）期间意识水平降低时，口咽菌群吸入肺泡所致。牙周病常存在，这增加了牙龈沟中厌氧菌的浓度。大多数肺脓肿是多微生物感染，涉及上呼吸道的需氧菌和口腔厌氧菌（例如，Bacteroides, Prevotella, Fusobacterium, Peptostreptococcus）。\n\n表现通常是亚急性的，包括发热、咳嗽伴恶臭痰、盗汗和体重减轻；有时会出现手指杵状。当胸部影像学检查显示肺部依赖性部位（例如，上叶）有致密的液体积聚或空洞性浸润（通常具有气液平面）时，通常可以做出诊断。\n\n由于对口腔厌氧菌和需氧革兰阳性菌（例如，肺炎链球菌）具有出色的覆盖范围，因此将氨苄西林/舒巴坦或碳青霉烯类药物视为一线治疗。过去曾使用克林霉素，但现在仅限于对青霉素过敏的患者，因为存在 Clostridioides difficile 感染的高风险。\n\n（选项A）肺炎支原体是一种细胞壁缺陷型细菌，可引起非典型肺炎。患者常有亚急性咳嗽和低热，但胸部影像学检查通常显示双侧网状结节性混浊。恶臭痰和具有气液平面的空洞性浸润的存在使肺脓肿的可能性更大。\n\n（选项B）尽管革兰阴性肠道菌群（例如，肺炎克雷伯菌）可引起肺脓肿，但经验性治疗还必须针对上呼吸道的厌氧菌，因为它们存在于大多数肺脓肿中。\n\n（选项C）皮肤菌群（例如，凝固酶阴性葡萄球菌）是血培养污染物的常见原因，但它们通常不会引起肺部感染。\n\n（选项D）耐甲氧西林金黄色葡萄球菌可引起院内获得性或病毒感染后肺炎，并伴有肺脓肿形成。然而，脓性、恶臭痰强烈表明厌氧菌参与；此外，对于有高吸入风险的患者（例如，饮酒/吸毒），金黄色葡萄球菌是肺脓肿的较少见原因。\n\n教育目标：\n由于在意识丧失期间吸入口腔菌群，患有酒精使用障碍的患者发生肺脓肿的风险增加。大多数病例涉及上呼吸道需氧菌和口腔厌氧菌的混合（例如，Bacteroides, Prevotella, Fusobacterium, Peptostreptococcus）。表现包括亚急性发热、咳嗽和恶臭痰。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of lung abscess etiology, risk factors, and appropriate empiric antibiotic coverage. It emphasizes the importance of considering aspiration of oropharyngeal flora, particularly in patients with alcohol use disorder, and the need to cover both aerobic and anaerobic organisms.\n\nTo solve this question, recognize the clinical presentation suggestive of lung abscess (fever, cough, foul-smelling sputum, weight loss, alcohol use) and the imaging findings (cavity with air-fluid level). Then, select the antibiotic coverage that targets the most likely pathogens: aerobic and anaerobic bacteria.",
+    "zh": "本题考察对肺脓肿病因、危险因素和适当的经验性抗生素覆盖范围的知识。它强调了考虑吸入口咽菌群的重要性，特别是在患有酒精使用障碍的患者中，以及覆盖需氧菌和厌氧菌的必要性。\n\n为了解决这个问题，要认识到提示肺脓肿的临床表现（发热、咳嗽、恶臭痰、体重减轻、饮酒）和影像学检查结果（具有气液平面的空腔）。然后，选择针对最可能的病原体的抗生素覆盖范围：需氧菌和厌氧菌。"
+  },
+  "tags": "Lung abscess; Aspiration pneumonia; Anaerobic bacteria; Alcohol use disorder; Pulmonary infection; Infectious disease; Antibiotics; CT scan; Respiratory system",
+  "category": "Chest",
+  "question_id": "1446",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1446",
+  "extracted_at": "2025-11-05T11:37:27.882255",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:34:31.381391",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

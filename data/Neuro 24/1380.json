@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "Neurophysiologists are studying recordings of the membrane potential from a giant squid axon. A portion of their recordings is shown on the slide below. {{exhibit_1}}",
+    "zh": "神经生理学家正在研究来自巨型乌贼轴突的膜电位记录。其部分记录显示在下面的幻灯片上。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "The membrane is most permeable to potassium ions at which of the following points?",
+    "zh": "在以下哪个点，膜对钾离子的通透性最高？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The graph depicts the potential changes across a cell membrane, known as the action potential. The action potential occurs due to changes in the membrane permeability to Na+ and K+ ions. The membrane potential of an excitable cell cycles through the following stages:\n\n1. Resting potential (Choice A): Usually equal to -70 mV. It is maintained by high resting membrane permeability to K+ and low permeability to Na+. K+ efflux occurs via non-gated K+ channels (leak channels). While at the resting potential, the inner side of the membrane is negatively charged with respect to the outer surface of the membrane.\n\n2. Depolarization: Occurs due to opening of voltage-gated Na+ channels with rapid influx of Na+ into the cell. The large influx of Na+ leads to an increased positive charge inside the membrane known as depolarization (Choice B). Overshoot refers to the maximal value of the action potential during which the membrane potential obtains a positive value (approximately +35 mV) (Choice C).\n\n3. Repolarization (Choice D): Results from closure of Na+ channels and simultaneous opening of K+ channels. This causes a sharp decrease in the membrane permeability to Na+ and a significant increase in K+ permeance that exceeds that of the resting membrane. K+ efflux is responsible for returning the membrane potential back to the resting potential.\n\n4. Hyperpolarization (Choice E): Occurs because the voltage-gated K+ channels remain open for a short time after repolarization is completed. The membrane potential thus becomes more negative than the normal resting potential and approaches the K+ equilibrium potential of -85 mV. When the voltage-gated K+ channels close, the membrane potential returns to the resting value maintained by the non-gated K+ channels.\n\nEducational objective:\nThe action potential results from changes in the membrane permeability to K+ and Na+ ions. Depolarization results from massive influx of Na+ through voltage-gated Na+ channels. Repolarization occurs due to closure of voltage-gated Na+ channels and opening of voltage-gated K+ channels. K+ ion permeance is highest during the repolarization phase of the action potential.",
+    "zh": "该图描绘了细胞膜上的电位变化，即动作电位。动作电位的产生是由于膜对Na+和K+离子的通透性发生变化。兴奋性细胞的膜电位经历以下几个阶段：\n\n1. 静息电位（选项A）：通常等于-70 mV。它由高静息膜对K+的通透性和低静息膜对Na+的通透性维持。K+外流通过非门控K+通道（漏通道）发生。在静息电位时，膜的内侧相对于膜的外侧带负电。\n\n2. 去极化：由于电压门控Na+通道开放，Na+快速涌入细胞而发生。大量Na+内流导致膜内正电荷增加，称为去极化（选项B）。超射是指动作电位的最大值，在此期间膜电位达到正值（大约+35 mV）（选项C）。\n\n3. 复极化（选项D）：由Na+通道关闭和K+通道同时开放导致。这导致膜对Na+的通透性急剧下降，而K+的通透性显著增加，超过静息膜的通透性。K+外流是使膜电位恢复到静息电位的因素。\n\n4. 过极化（选项E）：由于电压门控K+通道在复极化完成后保持开放一小段时间而发生。因此，膜电位变得比正常静息电位更负，并接近-85 mV的K+平衡电位。当电压门控K+通道关闭时，膜电位恢复到由非门控K+通道维持的静息值。\n\n教育目标：\n动作电位是由于膜对K+和Na+离子的通透性变化引起的。去极化是由Na+通过电压门控Na+通道的大量内流引起的。复极化是由于电压门控Na+通道关闭和电压门控K+通道开放引起的。在动作电位的复极化阶段，K+离子通透性最高。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the ionic basis of the action potential, specifically the changes in membrane permeability to potassium ions during different phases of the action potential.\n\nTo solve this question, one must correlate the phases of the action potential shown in the graph with the underlying changes in ion permeability. The repolarization phase, characterized by a rapid decrease in membrane potential, is primarily driven by increased potassium efflux, indicating the highest permeability to potassium ions during this phase.",
+    "zh": "这道题考察对动作电位离子基础的理解，特别是动作电位不同阶段钾离子膜通透性的变化。\n\n要解决这个问题，必须将图中显示的动作电位阶段与离子通透性的潜在变化相关联。复极化阶段的特征是膜电位的快速下降，这主要由钾离子外流增加驱动，表明在此阶段钾离子的通透性最高。"
+  },
+  "tags": "Action potential; Membrane potential; Ion permeability; Potassium channels; Sodium channels; Repolarization; Giant squid axon; Neurophysiology",
+  "category": "Neuro",
+  "question_id": "1380",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\1380",
+  "extracted_at": "2025-11-05T19:33:43.719327",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:33:29.135918",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

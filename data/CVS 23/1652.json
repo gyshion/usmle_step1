@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old man comes to the emergency department due to a 2-day history of dyspnea, orthopnea, and ankle swelling. This morning, he also had nausea, vomiting, and a headache. Blood pressure is elevated, and physical examination shows pulmonary crackles and bilateral pitting edema up to the knees. A sodium nitroprusside infusion is begun. Which of the following left ventricular pressure/volume relationships best represents the effects of this therapy? {{exhibit_1}}",
+    "zh": "一名45岁男性因2天呼吸困难、端坐呼吸和踝部肿胀就诊于急诊科。今天早上，他还有恶心、呕吐和头痛。血压升高，体格检查显示肺部啰音和双侧膝盖以下凹陷性水肿。开始静脉输注硝普钠。下列哪种左心室压力/容积关系最能代表这种治疗的效果？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following left ventricular pressure/volume relationships best represents the effects of this therapy?",
+    "zh": "下列哪种左心室压力/容积关系最能代表这种治疗的效果？"
+  },
+  "options": {
+    "A": {
+      "en": "{{exhibit_2}}",
+      "zh": "{{exhibit_2}}"
+    },
+    "B": {
+      "en": "{{exhibit_3}}",
+      "zh": "{{exhibit_3}}"
+    },
+    "C": {
+      "en": "{{exhibit_4}}",
+      "zh": "{{exhibit_4}}"
+    },
+    "D": {
+      "en": "{{exhibit_5}}",
+      "zh": "{{exhibit_5}}"
+    },
+    "E": {
+      "en": "{{exhibit_6}}",
+      "zh": "{{exhibit_6}}"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient most likely has acute heart failure due to systemic hypertension, which can be treated with an infusion of sodium nitroprusside. Sodium nitroprusside is a short-acting agent that causes balanced vasodilation of the veins and arteries; as such, it decreases left ventricular (LV) preload and afterload, allowing for maintenance of cardiac output (unchanged stroke volume) at a lower LV pressure (decreased LV work). LV contractility is essentially unchanged.\n\nOf the choices given, only graph E shows a reduction in both LV end-diastolic volume (preload) and LV systolic pressure (afterload) without a decrease in stroke volume.\n\n(Choice A) This graph depicts unchanged preload with increased stroke volume due to an increase in LV contractility (point 3 is moved upward and to the left). The slight increase in afterload occurs secondary to the increase in contractility. Such changes are expected with the administration of a positive inotrope with minimal vasodilatory/vasoconstrictive effect (eg, digoxin).\n\n(Choice B) This graph depicts increased preload with an increase in stroke volume and no change in contractility. The increase in afterload is secondary to the increase in stroke volume (higher stroke volume increases systolic pressure). Such changes are consistent with the Frank-Starling response to increased preload.\n\n(Choice C) This graph depicts an increase in preload and afterload with a reduction in stroke volume and no change in contractility. Such changes are detrimental in heart failure and would be expected with a vasoconstrictor affecting both the veins and arteries but with no effect on the myocardium (eg, the alpha-1 agonist phenylephrine).\n\n(Choice D) This graph depicts a decrease in preload and stroke volume with a minimal reduction in afterload and no change in contractility. These changes are expected with predominantly venous dilators such as nitrates (eg, nitroglycerin, isosorbide mononitrate, isosorbide dinitrate). Sodium nitroprusside differs from nitrates in that it generates nitric oxide in the bloodstream rather than in the venous smooth muscle, creating a balanced vasodilatory effect on both the arteries and veins.\n\nEducational objective:\nSodium nitroprusside is a short-acting agent that causes balanced vasodilation of the veins and arteries to decrease both left ventricular (LV) preload and afterload. The balanced vasodilation allows for maintenance of stroke volume and cardiac output at a lower LV pressure (lower cardiac work).",
+    "zh": "该患者最有可能因全身性高血压导致急性心力衰竭，可以通过静脉输注硝普钠治疗。硝普钠是一种短效药物，可引起静脉和动脉的平衡性血管舒张；因此，它降低了左心室（LV）前负荷和后负荷，从而在较低的LV压力（降低LV功）下维持心输出量（每搏输出量不变）。LV收缩力基本不变。\n\n在给出的选项中，只有图 E 显示LV舒张末期容积（前负荷）和LV收缩压（后负荷）均降低，而每搏输出量未减少。\n\n（选项 A）该图显示前负荷不变，由于LV收缩力增加导致每搏输出量增加（点 3 向上和向左移动）。后负荷的略微增加是继发于收缩力的增加。当使用正性肌力药物，且血管舒张/收缩作用极小时，预期会出现此类变化（例如，地高辛）。\n\n（选项 B）该图显示前负荷增加，每搏输出量增加，收缩力不变。后负荷的增加是继发于每搏输出量的增加（较高的每搏输出量增加收缩压）。此类变化与 Frank-Starling 反应对前负荷增加的反应一致。\n\n（选项 C）该图显示前负荷和后负荷增加，每搏输出量减少，收缩力不变。此类变化对心力衰竭有害，并且在使用影响静脉和动脉但对心肌无影响的血管收缩剂时，预期会出现此类变化（例如，α-1 肾上腺素能受体激动剂苯肾上腺素）。\n\n（选项 D）该图显示前负荷和每搏输出量减少，后负荷略有减少，收缩力不变。在使用主要静脉扩张剂（如硝酸盐，例如硝酸甘油、单硝酸异山梨酯、二硝酸异山梨酯）时，预期会出现这些变化。硝普钠与硝酸盐的不同之处在于，它在血流中产生一氧化氮，而不是在静脉平滑肌中产生一氧化氮，从而对动脉和静脉产生平衡的血管舒张作用。\n\n教育目标：\n硝普钠是一种短效药物，可引起静脉和动脉的平衡性血管舒张，从而降低左心室（LV）前负荷和后负荷。平衡的血管舒张可以在较低的 LV 压力（较低的心脏功）下维持每搏输出量和心输出量。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the hemodynamic effects of sodium nitroprusside in the setting of acute heart failure. It requires understanding how preload, afterload, and stroke volume are affected by balanced vasodilation. \n\nThe key to solving this question is recognizing that sodium nitroprusside causes a reduction in both preload and afterload while maintaining stroke volume. The correct graph should demonstrate a shift to the left (decreased preload) and downward (decreased afterload) without a significant change in the width of the pressure-volume loop (stroke volume).",
+    "zh": "本题考察在急性心力衰竭情况下硝普钠的血流动力学效应的知识。它要求了解前负荷、后负荷和每搏输出量如何受到平衡血管舒张的影响。\n\n解决此问题的关键是认识到硝普钠在维持每搏输出量的同时降低了前负荷和后负荷。正确的图表应显示向左（前负荷降低）和向下（后负荷降低）的位移，而压力-容积环的宽度（每搏输出量）没有明显变化。"
+  },
+  "tags": "Acute heart failure; Sodium nitroprusside; Preload; Afterload; Stroke volume; Hemodynamics; Vasodilation; Cardiovascular physiology; Systemic hypertension",
+  "category": "CVS",
+  "question_id": "1652",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1652",
+  "extracted_at": "2025-11-05T12:01:25.145241",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:52:03.383254",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

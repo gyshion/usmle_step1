@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 21-year-old man is brought to the emergency department by his roommate due to worsening fever, headache, and confusion. The patient recently moved to a dormitory, and his prior medical problems and immunizations are unknown. Temperature is 39.2 C (102.6 F), blood pressure is 98/54 mm Hg, pulse is 112/min, and respirations are 24/min. The patient appears acutely ill. He is obtunded and has nuchal rigidity. Leukocyte count is 19,000/mm³ with 20% band neutrophils. Blood cultures are obtained and lumbar puncture is performed. Gram stain of cerebrospinal fluid reveals gram-negative cocci in pairs.",
+    "zh": "一名21岁的男性因发烧、头痛和意识模糊加重被室友带到急诊科。患者最近搬到了宿舍，其先前的病史和免疫接种情况不明。体温39.2°C (102.6°F)，血压98/54 mmHg，脉搏112次/分钟，呼吸24次/分钟。患者看起来病情危重。他意识模糊，颈项强直。白细胞计数为19,000/mm³，其中中性粒细胞杆状核20%。进行了血培养和腰椎穿刺。脑脊液革兰染色显示成对革兰阴性球菌。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely way that this organism reached the meninges?",
+    "zh": "以下哪项是该病原体最有可能到达脑膜的方式？"
+  },
+  "options": {
+    "A": {
+      "en": "Middle ear → contiguous tissues → meninges",
+      "zh": "中耳 → 相邻组织 → 脑膜"
+    },
+    "B": {
+      "en": "Pharynx → blood → choroid plexus → meninges",
+      "zh": "咽部 → 血液 → 脉络丛 → 脑膜"
+    },
+    "C": {
+      "en": "Pharynx → lymphatic system → meninges",
+      "zh": "咽部 → 淋巴系统 → 脑膜"
+    },
+    "D": {
+      "en": "Primary lung focus → blood → meninges",
+      "zh": "原发性肺部病灶 → 血液 → 脑膜"
+    },
+    "E": {
+      "en": "Traumatic wound → leaking cerebral spinal fluid → meninges",
+      "zh": "外伤伤口 → 脑脊液渗漏 → 脑膜"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The patient presents with signs and symptoms suggestive of bacterial meningitis, including fever, headache, confusion, nuchal rigidity, and an elevated white blood cell count with a left shift. The Gram stain of cerebrospinal fluid revealing gram-negative cocci in pairs is highly suggestive of *Neisseria meningitidis*. \n\n*Neisseria meningitidis* is a gram-negative diplococcus that is transmitted via aerosolized droplets and colonizes the nasopharynx. From the nasopharynx, it can penetrate the epithelium and enter the bloodstream (HEMATOGENOUS SPREAD). Intravascular survival is aided by capsular polysaccharides, which help evade complement-mediated destruction. The bacteria then penetrate the cerebral capillary endothelium or the CHOROID PLEXUS, which is the location of the blood-CSF barrier, to reach the meninges and cause meningitis.\n\n(Choice A) While ear infections can rarely lead to meningitis, this is not the typical route for *N. meningitidis*. *Haemophilus influenzae* and *Streptococcus pneumoniae* are more commonly associated with contiguous spread from otitis media.\n\n(Choice C) Spread from the pharynx via the lymphatic system to the subarachnoid space is a less common route for bacterial meningitis compared to hematogenous spread.\n\n(Choice D) Infections of the lung can lead to bacteremia and meningitis, but *N. meningitidis* does not typically colonize or infect the lung. *Streptococcus pneumoniae* and *Mycobacterium tuberculosis* are more common causes of pneumonia-associated meningitis.\n\n(Choice E) Traumatic brain injury can lead to CSF leaks and subsequent meningitis, especially in the setting of basilar skull fractures. However, this is not the typical presentation for *N. meningitidis*, and *S. pneumoniae* is a more common pathogen in this scenario.\n\nEducational objective:\n*Neisseria meningitidis* is transmitted primarily by aerosolized droplets and subsequently colonizes the nasopharyngeal epithelium. Penetration of the epithelium can lead to bloodstream infection. Spread to the meninges occurs via transcellular penetration of the cerebral capillary endothelium or entry at the choroid plexus, the location of the blood-CSF barrier.",
+    "zh": "患者表现出提示细菌性脑膜炎的体征和症状，包括发烧、头痛、意识模糊、颈项强直以及伴有核左移的白细胞计数升高。脑脊液革兰染色显示成对革兰阴性球菌高度提示*脑膜炎奈瑟菌*。\n\n*脑膜炎奈瑟菌*是一种革兰阴性双球菌，通过气溶胶飞沫传播，并在鼻咽部定植。从鼻咽部，它可以穿透上皮并进入血液（血源性传播）。荚膜多糖有助于血管内生存，这有助于逃避补体介导的破坏。然后，细菌穿透脑毛细血管内皮或脉络丛（血脑屏障所在的位置），到达脑膜并引起脑膜炎。\n\n（选项A）虽然耳部感染极少会导致脑膜炎，但这不是*脑膜炎奈瑟菌*的典型途径。*流感嗜血杆菌*和*肺炎链球菌*更常与中耳炎的邻近扩散有关。\n\n（选项C）与血源性传播相比，通过淋巴系统从咽部扩散到蛛网膜下腔是细菌性脑膜炎的一种不太常见的途径。\n\n（选项D）肺部感染可导致菌血症和脑膜炎，但*脑膜炎奈瑟菌*通常不在肺部定植或感染肺部。*肺炎链球菌*和*结核分枝杆菌*是肺炎相关脑膜炎更常见的病因。\n\n（选项E）颅脑外伤可导致脑脊液泄漏，进而引起脑膜炎，尤其是在颅底骨折的情况下。然而，这并不是*脑膜炎奈瑟菌*的典型表现，*肺炎链球菌*在这种情况下是一种更常见的病原体。\n\n教育目标：\n*脑膜炎奈瑟菌*主要通过气溶胶飞沫传播，随后在鼻咽部上皮定植。穿透上皮可导致血流感染。扩散到脑膜发生在通过脑毛细血管内皮细胞转运或进入脉络丛（血脑屏障的位置）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathogenesis of bacterial meningitis, specifically the most common route of infection for *Neisseria meningitidis*. It requires correlating clinical presentation, Gram stain findings, and the typical microbiological pathways leading to meningeal infection.\n\nTo solve this question, identify the likely causative organism based on the Gram stain and clinical signs of meningitis. Then, recall the typical colonization site and the subsequent steps involved in the organism reaching the meninges, focusing on hematogenous spread via the bloodstream and penetration of the blood-CSF barrier.",
+    "zh": "本题测试对细菌性脑膜炎发病机制的理解，特别是*脑膜炎奈瑟菌*最常见的感染途径。它需要关联临床表现、革兰染色结果以及导致脑膜感染的典型微生物途径。\n\n要解决这个问题，请根据革兰染色和脑膜炎的临床体征确定可能的病原体。然后，回忆典型定植部位以及病原体到达脑膜的后续步骤，重点关注通过血液的血源性传播和血脑屏障的穿透。"
+  },
+  "tags": "Neisseria meningitidis; Bacterial meningitis; Pathogenesis; Hematogenous spread; Choroid plexus; Nasopharynx; Microbiology; Infectious disease; Neurology",
+  "category": "Neuro",
+  "question_id": "737",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\737",
+  "extracted_at": "2025-11-05T19:41:11.256956",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:42:32.044102",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

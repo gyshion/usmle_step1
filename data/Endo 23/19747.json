@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A newborn boy is found to have a serum TSH above and serum thyroxine below the normal range for his age. The patient was born at 39 weeks gestation via spontaneous vaginal delivery. His mother has no medical conditions. On examination, the patient's length and weight are normal, and he has no apparent congenital abnormalities. Ultrasound of the neck shows a normal-sized thyroid gland in the appropriate location. Which of the following is the most likely cause of this patient's condition?",
+    "zh": "一名新生男婴被发现其血清促甲状腺激素（TSH）高于正常范围，而其血清甲状腺素低于其年龄的正常范围。该患者通过自然阴道分娩于妊娠39周时出生。他的母亲没有任何健康问题。体格检查显示，患者的身长和体重正常，并且没有明显的先天性异常。颈部超声显示甲状腺大小正常，位于适当位置。以下哪项最可能是该患者病情的病因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's condition?",
+    "zh": "以下哪项最可能是该患者病情的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Central hypothyroidism",
+      "zh": "中枢性甲状腺功能减退症"
+    },
+    "B": {
+      "en": "Generalized resistance to thyroid hormones",
+      "zh": "对甲状腺激素的全身抵抗"
+    },
+    "C": {
+      "en": "Thyroid gland resistance to TSH",
+      "zh": "甲状腺对TSH的抵抗"
+    },
+    "D": {
+      "en": "Thyroid hormone–binding globulin deficiency",
+      "zh": "甲状腺激素结合球蛋白缺乏症"
+    },
+    "E": {
+      "en": "TSH receptor–stimulating antibodies",
+      "zh": "促甲状腺激素受体刺激性抗体"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has an elevated serum TSH and decreased thyroxine (T4) level, findings consistent with primary hypothyroidism. The most common congenital causes are thyroid dysgenesis (eg, ectopy, hypoplasia) and TSH resistance. Less common, transient etiologies are usually due to maternal conditions (eg, iodine excess, antithyroid medications). Given that this patient's thyroid is normal in size and location and the mother has no medical conditions, the most likely cause is thyroid gland resistance to TSH. {{exhibit_1}}\n\nTSH is normally produced by the anterior pituitary and binds to TSH receptors on follicular thyroid cells to stimulate T4 production. In TSH resistance, a mutation in the TSH receptor gene leads to thyroid insensitivity to TSH and reduced synthesis of T4. Low T4 leads to positive feedback to the pituitary, further increasing TSH levels.\n\nNewborns are usually asymptomatic due to placentally transferred maternal T4 (although thyroid hormones do not readily cross the placenta, enough T4 can usually cross to prevent development of overt symptoms); diagnosis is typically via newborn screening. Treatment is lifelong levothyroxine.\n\n(Choice A) Central hypothyroidism (eg, panhypopituitarism) causes low serum T4 due to decreased production of TSH by the anterior pituitary. This patient's elevated TSH is inconsistent with central hypothyroidism.\n\n(Choice B) Generalized resistance to thyroid hormones due to a thyroid hormone–receptor mutation may lead to hypothyroidism due to insensitivity to T4. However, this condition causes elevated T4 and TSH.\n\n(Choice D) Thyroic hormone–binding globulin deficiency is a benign, euthyroid state characterized by a low total T4 but normal free T4 and TSH levels.\n\n(Choice E) Transplacental transfer of TSH receptor–stimulating antibodies in a mother with Graves disease can cause transient neonatal hyperthyroidism (neonatal Graves disease). Neonatal symptoms include tachycardia and irritability, and laboratory evaluation would show high T4 and low TSH.\n\nEducational objective:\nTSH resistance due to a mutation in the TSH receptor gene presents with congenital hypothyroidism, which is characterized by increased TSH and low thyroxine. The thyroid gland is normal in size and location.",
+    "zh": "该患者的血清TSH升高，甲状腺素（T4）水平降低，这些发现与原发性甲状腺功能减退症一致。最常见的先天性病因是甲状腺发育不全（如异位、发育不良）和TSH抵抗。不太常见、短暂的病因通常是由于母体疾病（如碘过量、抗甲状腺药物）。鉴于该患者的甲状腺大小和位置正常，并且母亲没有健康问题，最可能的病因是甲状腺对TSH的抵抗。{{exhibit_1}}\n\nTSH通常由垂体前叶产生，并与甲状腺滤泡细胞上的TSH受体结合，以刺激T4的产生。在TSH抵抗中，TSH受体基因的突变导致甲状腺对TSH不敏感，并减少了T4的合成。低T4导致对垂体的正反馈，进一步增加TSH水平。\n\n新生儿通常无症状，这归因于胎盘转移的母体T4（尽管甲状腺激素不易穿过胎盘，但通常有足够的T4可以通过以防止明显症状的发展）；诊断通常通过新生儿筛查进行。治疗是终身左旋甲状腺素。\n\n（选项A）中枢性甲状腺功能减退症（例如，全垂体功能减退症）由于垂体前叶产生的TSH减少而导致血清T4降低。该患者的TSH升高与中枢性甲状腺功能减退症不一致。\n\n（选项B）由于甲状腺激素受体突变而导致的对甲状腺激素的全身抵抗可能导致甲状腺功能减退症，这是由于对T4不敏感。然而，这种情况会导致T4和TSH升高。\n\n（选项D）甲状腺激素结合球蛋白缺乏症是一种良性、甲状腺功能正常的病症，其特征是总T4低但游离T4和TSH水平正常。\n\n（选项E）患有Graves病的母亲中的TSH受体刺激性抗体的经胎盘转移可引起短暂的新生儿甲状腺功能亢进症（新生儿Graves病）。新生儿症状包括心动过速和易怒，实验室评估将显示T4高和TSH低。\n\n教育目标：\n由于TSH受体基因突变引起的TSH抵抗表现为先天性甲状腺功能减退症，其特征是TSH升高和甲状腺素降低。甲状腺的大小和位置正常。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of congenital hypothyroidism, specifically thyroid gland resistance to TSH. It requires understanding the expected TSH and T4 levels in different types of congenital hypothyroidism.\n\nTo solve this question, consider the patient's elevated TSH and low thyroxine levels, along with the normal thyroid gland size. Rule out other causes of congenital hypothyroidism based on the provided information.",
+    "zh": "这个问题测试了对先天性甲状腺功能减退症的知识，特别是甲状腺对TSH的抵抗。它需要理解不同类型先天性甲状腺功能减退症中预期的TSH和T4水平。\n\n要解决这个问题，请考虑患者的TSH升高和甲状腺素水平降低，以及甲状腺大小正常。根据提供的信息，排除其他先天性甲状腺功能减退症的病因。"
+  },
+  "tags": "Congenital hypothyroidism; Thyroid gland resistance; TSH; Thyroxine; Newborn screening; Endocrinology; Thyroid dysgenesis",
+  "category": "Endo",
+  "question_id": "19747",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\19747",
+  "extracted_at": "2025-11-05T14:05:22.126664",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:39:41.312501",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

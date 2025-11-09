@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 68-year-old woman is brought to the emergency department due to worsening fever, cough, and confusion. The patient has had a “cold and congestion” since last week, which initially improved, but she began feeling worse again 3 days ago. Her daughter reports that the patient has also been eating poorly. Other medical conditions include chronic obstructive pulmonary disease and chronic kidney disease. Temperature is 39.4 C (102.9 F), blood pressure is 74/46 mm Hg, pulse is 128/min, and respirations are 30/min. Oxygen saturation is 94% on 2 L/min. On physical examination, the patient is lethargic with dry mucous membranes and flat neck veins. Lung examination reveals dullness to percussion and crackles at the right base. Chest x-ray shows a right lower lobe consolidation. Intravenous access is established. Intravenous administration of which of the following is the most appropriate next step in management of this patient?",
+    "zh": "一名68岁的女性因发烧、咳嗽和意识模糊加重而被送往急诊科。患者自上周以来一直有“感冒和鼻塞”，最初有所好转，但3天前又开始感觉恶化。她的女儿报告说，患者的食欲也很差。其他病症包括慢性阻塞性肺病和慢性肾脏病。体温39.4摄氏度（102.9华氏度），血压74/46毫米汞柱，脉搏128次/分钟，呼吸30次/分钟。吸氧饱和度为94%，2升/分钟。体格检查显示患者嗜睡，粘膜干燥，颈静脉平坦。肺部检查显示右肺底部叩诊浊音和啰音。胸部X光片显示右下肺叶实变。已建立静脉通路。静脉注射以下哪项是该患者管理中最合适的下一步？"
+  },
+  "question": {
+    "en": "Intravenous administration of which of the following is the most appropriate next step in management of this patient?",
+    "zh": "静脉注射以下哪项是该患者管理中最合适的下一步？"
+  },
+  "options": {
+    "A": {
+      "en": "0.45% saline",
+      "zh": "0.45% 盐水"
+    },
+    "B": {
+      "en": "3% saline",
+      "zh": "3% 盐水"
+    },
+    "C": {
+      "en": "5% dextrose in 0.45% saline",
+      "zh": "5% 葡萄糖，0.45% 盐水"
+    },
+    "D": {
+      "en": "Albumin solution",
+      "zh": "白蛋白溶液"
+    },
+    "E": {
+      "en": "Lactated Ringer solution",
+      "zh": "乳酸林格液"
+    },
+    "F": {
+      "en": "Sodium bicarbonate solution",
+      "zh": "碳酸氢钠溶液"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient with fever, cough, and radiologic evidence of consolidation in the right lower lung has PNEUMONIA. Her tachycardia, HYPOTENSION, and confusion (evidence of end-organ hypoperfusion) are most likely due to SEPTIC SHOCK, which is characterized by increased permeability of the vascular endothelium with leakage of intravascular fluid into the extravascular space.\n\nIn the management of septic shock, rapid restoration of intravascular volume and adequate end-organ perfusion is critical. This is best accomplished with the administration of boluses of ISOTONIC CRYSTALLOID in the form of 0.9% (normal) saline or lactated Ringer solution through large-bore, peripheral intravenous catheters. These solutions are ideal for volume resuscitation because they have osmolarity very close to the normal osmolarity of the blood (~285 mOsm/kg H2O), while the sodium and chloride ions help retain the fluid in the extracellular space.\n\nPrompt initiation of appropriate empiric antibiotic therapy is also critical in the management of septic shock.\n\n(Choices A and C) 0.45% (half-normal) saline is hypotonic; 5% dextrose in 0.45% saline is hypertonic initially but becomes hypotonic following infusion because the dextrose is rapidly metabolized. These hypotonic solutions are often used at low infusion rates for patients with a deficiency of free water (ie, hypernatremia) or for maintenance hydration. However, they are not effective for rapid volume resuscitation because the low osmolarity causes much of the fluid volume to shift into the intracellular space following infusion.\n\n(Choice B) Infusion of 3% (hypertonic) saline can lead to rapid fluid-shifting from the intracellular to the extracellular space with potentially devastating consequences (eg, osmotic demyelination syndrome); therefore, 3% saline is not appropriate for rapid volume resuscitation. It is appropriate for careful use in patients with severe symptomatic hyponatremia.\n\n(Choice D) Albumin solution is an isotonic colloid solution that can be used for rapid volume resuscitation. However, it is less preferred due to high cost and limited availability compared to isotonic crystalloid.\n\n(Choice F) Sodium bicarbonate solutions can have variable tonicity and are typically used at low infusion rates for patients with severe metabolic acidosis. These solutions are generally not used for rapid volume resuscitation.",
+    "zh": "这位患者发烧、咳嗽，右下肺有影像学实变证据，患有肺炎。她的心动过速、低血压和意识模糊（器官末端灌注不足的证据）很可能由感染性休克引起，其特征是血管内皮通透性增加，导致血管内液体渗漏到血管外间隙。\n\n在感染性休克的治疗中，快速恢复血管内血容量和充分的器官末端灌注至关重要。这最好通过使用大口径外周静脉导管，以0.9%（生理）盐水或乳酸林格液的形式静脉注射等渗晶体溶液来实现。这些溶液非常适合血容量复苏，因为它们的渗透压非常接近血液的正常渗透压（约285 mOsm/kg H2O），而钠离子和氯离子有助于将液体保留在细胞外间隙。\n\n及时开始适当的经验性抗生素治疗对感染性休克的治疗也至关重要。\n\n（选项 A 和 C）0.45%（半生理）盐水是低渗的；5%葡萄糖，0.45%盐水最初是高渗的，但在输注后变为低渗，因为葡萄糖被迅速代谢。这些低渗溶液通常以低输注率用于缺乏游离水的患者（即高钠血症）或用于维持水合作用。然而，它们对快速血容量复苏无效，因为低渗透压会导致大部分液体体积在输注后转移到细胞内间隙。\n\n（选项 B）输注 3%（高渗）盐水会导致液体从细胞内迅速转移到细胞外间隙，并可能产生灾难性后果（例如，渗透性脱髓鞘综合征）；因此，3%盐水不适合快速血容量复苏。它适用于严重症状性低钠血症患者的谨慎使用。\n\n（选项 D）白蛋白溶液是一种等渗胶体溶液，可用于快速血容量复苏。然而，由于其高成本和与等渗晶体溶液相比的有限供应，它不太受欢迎。\n\n（选项 F）碳酸氢钠溶液的张力变化很大，通常以低输注率用于患有严重代谢性酸中毒的患者。这些溶液通常不用作快速血容量复苏。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of septic shock management, specifically the initial fluid resuscitation strategy. It requires recognizing the signs of septic shock and understanding the appropriate type of intravenous fluid to administer.\n\nThe best approach is to identify the signs of septic shock (fever, hypotension, tachycardia, confusion) and then select the intravenous fluid that is most appropriate for rapid volume resuscitation in this setting, which is an isotonic crystalloid solution like lactated Ringer solution.",
+    "zh": "这个问题考察了对感染性休克管理的知识，特别是最初的液体复苏策略。它要求识别感染性休克的体征，并了解在这种情况下管理合适的静脉输液类型。\n\n最好的方法是识别感染性休克的体征（发烧、低血压、心动过速、意识模糊），然后选择最适合在这种情况下快速血容量复苏的静脉输液，这是一种等渗晶体溶液，如乳酸林格液。"
+  },
+  "tags": "Septic shock; Fluid resuscitation; Intravenous fluids; Lactated Ringer solution; Isotonic crystalloid; Hypotension; Tachycardia; Pneumonia; Emergency medicine; Critical care",
+  "category": "Chest",
+  "question_id": "15240",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\15240",
+  "extracted_at": "2025-11-05T11:38:45.031551",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:35:34.963068",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

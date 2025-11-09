@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "Researchers are measuring regional variations in pulmonary ventilation (V) and blood flow (Q) in healthy individuals while they stand in the upright position. The results are graphed with the x-axis denoting the position along the lung from base to apex. {{exhibit_1}}",
+    "zh": "研究人员正在测量健康个体站立时肺通气（V）和血流灌注（Q）的区域差异。结果以图形方式呈现，x 轴表示沿肺从底部到顶部的不同位置。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following curves is most likely to be observed?",
+    "zh": "以下哪条曲线最有可能被观察到？"
+  },
+  "options": {
+    "A": {
+      "en": "{{image: option_a.png}}",
+      "zh": "{{image: option_a.png}}"
+    },
+    "B": {
+      "en": "{{image: option_b.png}}",
+      "zh": "{{image: option_b.png}}"
+    },
+    "C": {
+      "en": "{{image: option_c.png}}",
+      "zh": "{{image: option_c.png}}"
+    },
+    "D": {
+      "en": "{{image: option_d.png}}",
+      "zh": "{{image: option_d.png}}"
+    },
+    "E": {
+      "en": "{{image: option_e.png}}",
+      "zh": "{{image: option_e.png}}"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "In the upright position, regional differences in ventilation and perfusion occur vertically in the lungs due to gravity. Ventilation is lowest in the apex and highest in the base because gravity acts to stretch the lungs downward so that the alveoli at the apex are expanded more than those at the base (ie, sl nky effect). Therefore, during inspiration a small amount of air goes to the apex where alveoli are distended and less compliant, while more air goes to the base where alveoli have ample potential space to fill and are more compliant. Perfusion is also lowest in the apex and highest in the base, as the increased hydrostatic pressure in the lower lung regions facilitates increased blood flow.\n\nBecause the gravitational force on perfusion is more pronounced than on ventilation, leading to greater variability in perfusion than ventilation from apex to base. Therefore, perfusion is very low in the apex and very high in the base, whereas ventilation is only somewhat low in the apex and somewhat high in the base. This causes the gradient of the ventilation/perfusion (V/Q) ratio to be opposite of the gradient of perfusion or ventilation taken individually. The V/Q ratio is lowest at the base and highest at the apex. {{exhibit_2}}\n\n(Choices A and B) These graphs depict the V/Q ratio decreasing from base to apex, which is the opposite of what occurs.\n\n(Choice C) This graph depicts a constant V/Q ratio of 1.0 throughout the lung, which does not occur. The V/Q ratio varies from approximately 0.6 at the base to 3.0 at the apex. A value of 0.8 is often considered the average V/Q ratio for normal lungs.\n\n(Choice E) This graph shows constant perfusion throughout the lung, which does not occur.",
+    "zh": "在直立位时，肺的通气和灌注存在区域性差异，这与重力有关。由于重力作用使肺向下牵张，导致肺尖的肺泡比肺底的肺泡扩张更多（即，弹簧效应），因此肺尖的通气量最低，肺底的通气量最高。因此，在吸气时，少量空气进入肺尖，肺泡扩张且顺应性较低，而更多空气进入肺底，肺泡有充足的空间填充且顺应性更高。灌注在肺尖也最低，在肺底最高，因为肺下部区域的静水压增加促进了血流增加。\n\n由于重力对灌注的影响比对通气的影响更明显，导致灌注在肺尖到肺底的变异性大于通气。因此，肺尖的灌注非常低，肺底的灌注非常高，而肺尖的通气仅略低，肺底的通气仅略高。这导致通气/灌注 (V/Q) 比率的梯度与单独考虑的灌注或通气的梯度相反。V/Q 比率在肺底最低，在肺尖最高。{{exhibit_2}}\n\n（选项 A 和 B）这些图表描述了 V/Q 比率从肺底到肺尖的递减，这与实际情况相反。\n\n（选项 C）该图表描述了整个肺部的 V/Q 比率为 1.0 的恒定值，这不符合实际情况。V/Q 比率从肺底的约 0.6 变化到肺尖的 3.0。0.8 的值通常被认为是正常肺的平均 V/Q 比率。\n\n（选项 E）该图表显示整个肺部的灌注恒定不变，这不符合实际情况。"
+  },
+  "summary": {
+    "en": "In the upright lung, ventilation and perfusion are lowest at the apex and highest at the base due to gravity. Perfusion varies more than ventilation, leading to a V/Q ratio that is lowest at the base and highest at the apex.",
+    "zh": "在直立位的肺中，由于重力作用，通气和灌注在肺尖最低，在肺底最高。灌注的变化大于通气，导致 V/Q 比率在肺底最低，在肺尖最高。"
+  },
+  "tags": [
+    "Physiology",
+    "Pulmonary & Critical Care",
+    "Respiratory physiology"
+  ],
+  "category": "Chest",
+  "question_id": "1541",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1541",
+  "extracted_at": "2025-11-05T20:36:47.547139",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:35:38.336476",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

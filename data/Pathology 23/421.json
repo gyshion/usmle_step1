@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 50-year-old woman comes to the office for an annual examination. She is healthy and takes no medications other than vitamin D and calcium supplements. The patient does not smoke, drink alcohol, or use illicit drugs. Her blood pressure is 118/69 mm Hg. Physical examination is unremarkable. A recent mammogram was normal. A colonoscopy showed 2 polyps, which were excised. On histological examination, one polyp is small and has early adenoma features; the other is larger and has late adenoma features. A mutation in which of the following genes would most likely cause this patient's small early adenoma to grow and develop late adenoma features?",
+    "zh": "一名50岁的女性前来就诊进行年度体检。她很健康，除了补充维生素D和钙之外，没有服用任何药物。患者不吸烟，不饮酒，也不使用违禁药物。她的血压为118/69毫米汞柱。体格检查无特殊发现。最近的乳房X光检查结果正常。结肠镜检查显示2个息肉，均被切除。组织学检查显示，一个息肉较小，具有早期腺瘤特征；另一个较大，具有晚期腺瘤特征。以下哪种基因的突变最有可能导致该患者的小型早期腺瘤生长并发展出晚期腺瘤特征？"
+  },
+  "question": {
+    "en": "A mutation in which of the following genes would most likely cause this patient's small early adenoma to grow and develop late adenoma features?",
+    "zh": "以下哪种基因的突变最有可能导致该患者的小型早期腺瘤生长并发展出晚期腺瘤特征？"
+  },
+  "options": {
+    "A": {
+      "en": "BRCA1",
+      "zh": "BRCA1"
+    },
+    "B": {
+      "en": "CCND1",
+      "zh": "CCND1"
+    },
+    "C": {
+      "en": "KRAS",
+      "zh": "KRAS"
+    },
+    "D": {
+      "en": "NMYC",
+      "zh": "NMYC"
+    },
+    "E": {
+      "en": "TP53",
+      "zh": "TP53"
+    },
+    "F": {
+      "en": "WT1",
+      "zh": "WT1"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The correct answer is C. The progression of a normal colonic mucosa to a small adenoma (polyp) is typically initiated by mutation of the APC tumor suppressor gene. The subsequent growth of the adenoma and its progression to a larger adenoma with late adenoma features is often facilitated by mutation of the KRAS proto-oncogene. KRAS encodes a G protein-like protein that regulates the cell cycle. Mutation of KRAS leads to constitutive activation of the GTP-bound protein, resulting in uncontrolled cell proliferation and growth of the adenoma. The final step in the adenoma-carcinoma sequence is malignant transformation, which is often associated with mutations in TP53, a tumor suppressor gene that regulates the cell cycle and promotes DNA repair.\n\n(Choice A) Mutations in the BRCA1 gene are classically associated with breast and ovarian cancers, not typically with the progression of colonic adenomas.\n(Choice B) Cyclin D1 (encoded by CCND1) is a protein that regulates cell cycle progression. Its overexpression is seen in various cancers, but it is not the primary driver of adenoma growth in the context of the adenoma-carcinoma sequence.\n(Choice D) Amplification of the NMYC oncogene is commonly seen in neuroblastoma, not typically in the progression of colonic adenomas.\n(Choice E) TP53 is a tumor suppressor gene that plays a critical role in malignant transformation of adenomas into carcinomas. While important in the overall process, it is typically involved in the later stages of progression, not the growth of an early adenoma to late adenoma features.\n(Choice F) Mutation of WT1, a tumor suppressor gene, is associated with the development of Wilms tumor, a type of kidney cancer.\n\nKey pearls: The adenoma-carcinoma sequence involves sequential genetic mutations. APC mutation initiates adenoma formation. KRAS mutation promotes adenoma growth. TP53 mutation facilitates malignant transformation. Remember the order: APC -> KRAS -> TP53.",
+    "zh": "正确答案是C。正常结肠粘膜进展为小腺瘤（息肉）通常由抑癌基因APC的突变引发。随后，腺瘤的生长及其进展为具有晚期腺瘤特征的较大腺瘤，通常由原癌基因KRAS的突变促进。KRAS编码一种类似G蛋白的蛋白，它调节细胞周期。KRAS突变导致GTP结合蛋白的组成性激活，从而导致细胞不受控制地增殖和腺瘤生长。腺瘤-癌变序列的最后一步是恶性转化，这通常与TP53（一种调节细胞周期并促进DNA修复的抑癌基因）的突变有关。\n\n（选项A）BRCA1基因的突变通常与乳腺癌和卵巢癌相关，通常与结肠腺瘤的进展无关。\n（选项B）Cyclin D1（由CCND1编码）是一种调节细胞周期进展的蛋白质。在各种癌症中可见其过度表达，但它不是腺瘤-癌变序列中腺瘤生长的主要驱动因素。\n（选项D）NMYC癌基因的扩增常见于神经母细胞瘤，通常不常见于结肠腺瘤的进展。\n（选项E）TP53是一种抑癌基因，在腺瘤恶变为癌瘤方面起着关键作用。虽然它在整个过程中很重要，但它通常参与进展的后期阶段，而不是早期腺瘤生长为晚期腺瘤特征。\n（选项F）抑癌基因WT1的突变与肾母细胞瘤（一种肾癌）的发生相关。\n\n关键要点：腺瘤-癌变序列涉及连续的基因突变。APC突变引发腺瘤形成。KRAS突变促进腺瘤生长。TP53突变促进恶性转化。记住这个顺序：APC -> KRAS -> TP53。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the genetic mutations involved in the adenoma-carcinoma sequence in colorectal cancer. Specifically, it assesses knowledge of which gene mutation is most likely responsible for the growth and progression of an early adenoma to a larger adenoma with late adenoma features.\n\nTo solve this question, one must recall the stepwise progression of colorectal tumorigenesis and the specific genetic alterations associated with each stage. Identifying the stage described in the vignette (growth from early to late adenoma features) and correlating it with the known functions of the genes listed in the options is crucial for selecting the correct answer.",
+    "zh": "本题考察对结直肠癌腺瘤-癌变序列中涉及的基因突变的理解。具体而言，它评估对哪个基因突变最有可能导致早期腺瘤生长并进展为具有晚期腺瘤特征的较大腺瘤的知识。\n\n为了解决这个问题，必须回忆结直肠肿瘤发生的逐步进展以及与每个阶段相关的特定基因改变。确定短案例中描述的阶段（从早期到晚期腺瘤特征的生长），并将其与选项中列出的基因的已知功能相关联，对于选择正确答案至关重要。"
+  },
+  "tags": "Colorectal cancer; Adenoma-carcinoma sequence; KRAS mutation; Tumor suppressor genes; Oncogenes; Gastrointestinal pathology; Genetics",
+  "category": "Pathology",
+  "question_id": "421",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\421",
+  "extracted_at": "2025-11-05T19:44:36.930589",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:46:26.232839",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

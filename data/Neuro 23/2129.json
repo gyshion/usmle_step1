@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old man is brought to the office by his son due to memory impairment and frequent falls. The patient has been living alone since the death of his wife a year ago. His son, who is visiting from out of town, found his father in poor living conditions. The patient is forgetful and did not know the location of various items in his house, where he has lived for more than 20 years. His gait is also unsteady, and he had had several falls. The son says his father has always been \"a drinker\" and may have been drinking more recently. The patient is indifferent to his son's concerns and says he feels fine. Vital signs are within normal limits. On physical examination, bilateral lateral gaze palsy and nystagmus are present. Muscle strength and deep tendon reflexes are normal, but the gait is ataxic. On memory testing, he recalls 0 out of 3 objects after 5 minutes. A lesion of which of the following labeled structures on a normal brain MRI {{exhibit_1}} is most specifically associated with this patient's current condition?",
+    "zh": "一位62岁男性由其儿子带到诊所，因为出现记忆障碍和频繁跌倒。患者自从一年前妻子去世后就独自生活。他从外地来看望的儿子发现他的父亲生活条件很差。患者健忘，不知道他住了20多年的房子里各种物品的位置。他的步态也不稳，而且跌倒过几次。儿子说他的父亲一直是个“酒鬼”，而且最近可能喝得更多了。患者对儿子的担忧漠不关心，说他感觉很好。生命体征在正常范围内。体格检查显示双侧外展神经麻痹和眼球震颤。肌力及深腱反射正常，但步态共济失调。记忆测试显示，5分钟后他只能回忆起3个物体中的0个。在正常的脑部MRI {{exhibit_1}} 上，以下哪个标记结构的病变与该患者目前的状况最相关？"
+  },
+  "question": {
+    "en": "A lesion of which of the following labeled structures on a normal brain MRI is most specifically associated with this patient's current condition?",
+    "zh": "在正常的脑部MRI上，以下哪个标记结构的病变与该患者目前的状况最相关？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    },
+    "F": {
+      "en": "F",
+      "zh": "F"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient, with a suspected history of alcohol use disorder, has oculomotor dysfunction (nystagmus, ophthalmoplegia), ataxia, and encephalopathy (confusion, anterograde amnesia). This presentation is consistent with the classic triad of Wernicke encephalopathy (WE), a complication of thiamine (vitamin B₁) deficiency. \n\nThiamine is a cofactor for multiple enzymes involved in glucose metabolism; deficiency results in the brain's inability to use glucose and turn it into energy, leading to neuronal damage and necrosis. Areas of the brain with high metabolic demand are particularly susceptible; the mammillary bodies are nearly universally affected and demonstrate focal hemorrhage or atrophy on imaging. Other commonly involved areas include the thalamus, periaqueductal gray substance, and locus caeruleus.\n\nThiamine deficiency occurs most commonly in alcohol use disorder but can also manifest with any form of malnutrition (eg, anorexia, advanced malignancy). Infusion of dextrose-containing solutions without concurrent thiamine supplementation acutely lowers thiamine levels and can precipitate WE; however, some patients with severe deficiency can develop symptoms without a clear inciting event. The chronic effects of thiamine deficiency lead to Korsakoff syndrome, which is characterized by anterograde and retrograde amnesia, apathy, lack of insight, and confabulation. Attention, social behavior, and long-term memory are relatively preserved.\n\n(Choice A) Demyelination of the pons (central pontine myelinolysis) can occur with overly rapid correction of chronic hyponatremia. It can result in locked-in syndrome, in which patients can move their eyes but cannot move or verbally communicate. The pons is not typically involved in WE.\n\n(Choice C) The fornix is a bundle of axons originating from the hippocampal subiculum that projects to the mammillary bodies. Although it can (rarely) be involved in WE, the mammillary bodies are more specifically associated.\n\n(Choice D) The splenium of the corpus callosum is not typically affected in WE. Lesions (demyelinating or ischemic) in this structure will clinically result in alexia without agraphia.\n\n(Choice E) The pineal gland synthesizes melatonin and is involved in circadian rhythm; it is not typically involved in WE.\n\n(Choice F) Alcohol-associated cerebellar degeneration also causes ataxia but does not typically cause confusion or ophthalmoplegia. The cerebellum is less frequently involved in WE.\n\nEducational objective:\nWernicke encephalopathy is a complication of thiamine deficiency and is characterized by oculomotor dysfunction, encephalopathy, and ataxia. Chronic deficiency results in Korsakoff syndrome (eg, anterograde and retrograde amnesia, confabulation, apathy). Thiamine is involved in glucose metabolism, and areas of the brain with high metabolic demands are particularly susceptible; the mammillary bodies are most commonly affected. {{exhibit_2}}",
+    "zh": "该患者有疑似饮酒障碍病史，出现动眼神经功能障碍（眼球震颤、眼肌麻痹）、共济失调和脑病（意识模糊、顺行性遗忘）。这种表现与韦尼克脑病（WE）的经典三联征相符，韦尼克脑病是硫胺素（维生素B₁）缺乏症的并发症。\n\n硫胺素是参与葡萄糖代谢的多种酶的辅因子；缺乏会导致大脑无法利用葡萄糖并将其转化为能量，从而导致神经元损伤和坏死。大脑中代谢需求高的区域特别容易受到影响；乳头体几乎普遍受到影响，并在影像学上显示局灶性出血或萎缩。其他常见受累区域包括丘脑、导水管周围灰质和蓝斑核。\n\n硫胺素缺乏症最常见于酒精使用障碍，但也可能表现为任何形式的营养不良（例如，厌食症、晚期恶性肿瘤）。在没有同时补充硫胺素的情况下输注含葡萄糖的溶液会迅速降低硫胺素水平，并可能导致WE；然而，一些严重缺乏的患者可能会在没有明确诱发事件的情况下出现症状。硫胺素缺乏症的慢性影响会导致Korsakoff综合征，其特征是顺行性和逆行性遗忘、冷漠、缺乏洞察力和虚构。注意力、社会行为和长期记忆相对保留。\n\n(选项A) 桥脑脱髓鞘（中央性桥脑髓鞘溶解）可能发生在过度快速纠正慢性低钠血症时。它可能导致闭锁综合征，在这种综合征中，患者可以移动眼睛但无法移动或口头交流。桥脑通常不参与WE。\n\n(选项C) 穹窿是起源于海马回下部的轴突束，投射到乳头体。虽然它（很少）可能参与WE，但乳头体更具体相关。\n\n(选项D) 胼胝体压部通常不受WE影响。该结构的病变（脱髓鞘或缺血性）在临床上会导致无书写的失读症。\n\n(选项E) 松果体合成褪黑激素并参与昼夜节律；它通常不参与WE。\n\n(选项F) 酒精相关的脑小脑变性也会导致共济失调，但通常不会引起意识模糊或眼肌麻痹。小脑很少参与WE。\n\n教学目标：韦尼克脑病是硫胺素缺乏症的并发症，其特征是动眼神经功能障碍、脑病和共济失调。慢性缺乏会导致Korsakoff综合征（例如，顺行性和逆行性遗忘、虚构、冷漠）。硫胺素参与葡萄糖代谢，大脑中代谢需求高的区域特别容易受到影响；乳头体最常受到影响。 {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Wernicke encephalopathy (WE), specifically the classic triad of symptoms (ophthalmoplegia, ataxia, and encephalopathy) and the typical brain structures affected, particularly the mammillary bodies. It also tests the link between thiamine deficiency and WE/Korsakoff syndrome.\n\nTo solve this question, recognize the classic triad of WE, associate it with thiamine deficiency and alcohol use disorder, and then identify the mammillary bodies (structure B) as the most likely location of a lesion in this condition based on the MRI.",
+    "zh": "本题考察对韦尼克脑病（WE）的认识，特别是其经典三联征症状（眼肌麻痹、共济失调和脑病）以及受影响的典型脑部结构，特别是乳头体。它还考察了硫胺素缺乏症与WE/Korsakoff综合征之间的联系。\n\n要解决这个问题，需要认识到WE的经典三联征，将其与硫胺素缺乏症和酒精使用障碍联系起来，然后根据MRI确定乳头体（结构B）是该病变最可能的位置。"
+  },
+  "tags": "Wernicke encephalopathy; Thiamine deficiency; Mammillary bodies; Alcohol use disorder; Ataxia; Ophthalmoplegia; Encephalopathy; Korsakoff syndrome; Neurology; MRI",
+  "category": "Neuro",
+  "question_id": "2129",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\2129",
+  "extracted_at": "2025-11-05T15:33:10.433026",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:25:10.712734",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

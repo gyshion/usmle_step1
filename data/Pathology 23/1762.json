@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 47-year-old woman, gravida 2 para 2, comes to the office after noticing a pea-sized lump in her right breast while taking a shower. Her medical history is significant for 3 pack-years of cigarette use during her 20s. She underwent infertility treatment and in vitro fertilization for both of her pregnancies. The patient has no family history of breast or ovarian cancer. A clinical breast examination confirms the presence of a firm, fixed nodule in the right breast with a small patch of overlying puckered skin. Mammogram findings are highly suspicious for malignancy, and a needle biopsy reveals infiltrating ductal carcinoma. A right mastectomy and axillary lymph node dissection are scheduled.",
+    "zh": "一名47岁的女性，孕2产2，在淋浴时注意到右侧乳房有一个豌豆大小的肿块后到诊所就诊。她的病史包括20多岁时有3包年的吸烟史。她因两次怀孕都接受了不孕症治疗和体外受精。患者没有乳腺癌或卵巢癌的家族史。临床乳房检查证实右侧乳房存在一个坚硬、固定的结节，并伴有覆盖其上的一小块皮肤凹陷。乳房X光检查结果高度怀疑恶性肿瘤，针吸活检显示浸润性导管癌。计划进行右侧乳房切除术和腋窝淋巴结清扫术。"
+  },
+  "question": {
+    "en": "Overexpression of which of the following markers is most likely to be associated with aggressive disease in this patient?",
+    "zh": "在该患者中，以下哪种标记物的过度表达最有可能与侵袭性疾病相关？"
+  },
+  "options": {
+    "A": {
+      "en": "BCL-2 (6%)",
+      "zh": "BCL-2 (6%)"
+    },
+    "B": {
+      "en": "Estrogen receptor (13%)",
+      "zh": "雌激素受体 (13%)"
+    },
+    "C": {
+      "en": "HER2 (67%)",
+      "zh": "HER2 (67%)"
+    },
+    "D": {
+      "en": "Mutated p53 (11%)",
+      "zh": "突变的p53 (11%)"
+    },
+    "E": {
+      "en": "Progesterone receptor (1%)",
+      "zh": "孕激素受体 (1%)"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Human epidermal growth factor receptor 2 (HER2), also called ERBB2, is a member of the epidermal growth factor receptor family. It is overexpressed in 20%-30% of breast cancers. HER2 is a transmembrane glycoprotein with tyrosine kinase activity that acts to increase cell proliferation. It is present in diminutive amounts in normal breast and ovarian cells. In breast cancer, HER2 overexpression (positivity) is associated with poorly differentiated, rapidly growing tumors. Clinically, HER2 status is used to predict therapeutic response to anti-HER2 monoclonal antibodies (eg, trastuzumab).\n\n(Choice A) Overexpression of the anti-apoptotic BCL-2 protein is classically observed in follicular lymphomas, but it also occurs in a variety of other malignancies, including breast cancer. Unlike in lymphomas, increased expression of BCL-2 in breast cancer is associated with a favorable prognosis.\n\n(Choices B and E) Breast cancers that express high levels of estrogen and/or progesterone receptors are typically associated with improved outcomes. Activation of these receptors acts as a stimulus for tumor growth. Therefore, anti-estrogen therapy (eg, aromatase inhibitors, tamoxifen) is used to treat hormone receptor-positive breast cancer.\n\n(Choice D) Overexpression of a mutated form of p53 is found in many human cancers, including breast cancer. However, the degree of protein expression does not correlate well with clinical outcomes. Rather, the effects on prognosis are more dependent on the specific mutation (eg, nonsense, gain of function).\n\nEducational objective:\nEstrogen- or progesterone-receptor positivity in breast cancer indicates expected sensitivity to tamoxifen and aromatase inhibitor treatment. HER2 overexpression in breast cancer suggests a more aggressive tumor that typically responds to therapy with the anti-HER2 monoclonal antibody trastuzumab.",
+    "zh": "人表皮生长因子受体2 (HER2)，也称为ERBB2，是表皮生长因子受体家族的成员。它在20%-30%的乳腺癌中过度表达。HER2是一种具有酪氨酸激酶活性的跨膜糖蛋白，可增加细胞增殖。它存在于正常乳腺和卵巢细胞中，含量极少。在乳腺癌中，HER2过度表达（阳性）与分化差、生长迅速的肿瘤相关。临床上，HER2状态用于预测对HER2单克隆抗体（例如，曲妥珠单抗）的治疗反应。\n\n(选项A) 抗凋亡蛋白BCL-2的过度表达通常见于滤泡性淋巴瘤，但也存在于多种其他恶性肿瘤中，包括乳腺癌。与淋巴瘤不同，BCL-2在乳腺癌中的表达增加与良好的预后相关。\n\n(选项B和E) 表达高水平雌激素和/或孕激素受体的乳腺癌通常与改善的预后相关。这些受体的激活可刺激肿瘤生长。因此，抗雌激素治疗（例如，芳香化酶抑制剂，他莫昔芬）用于治疗激素受体阳性的乳腺癌。\n\n(选项D) p53突变形式的过度表达见于许多人类癌症，包括乳腺癌。然而，蛋白质表达的程度与临床结果的相关性并不好。相反，对预后的影响更多地取决于特定的突变（例如，无义突变、功能获得突变）。\n\n教学目标：\n乳腺癌中雌激素或孕激素受体阳性表明对他莫昔芬和芳香化酶抑制剂治疗的预期敏感性。乳腺癌中HER2的过度表达表明肿瘤更具侵袭性，通常对HER2单克隆抗体曲妥珠单抗治疗有反应。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of prognostic and predictive markers in breast cancer, specifically focusing on the association of HER2 overexpression with aggressive disease and its implications for treatment. It requires knowledge of the clinical significance of various molecular markers in breast cancer.\n\nTo solve this question, one must identify the clinical features suggestive of aggressive breast cancer and recall the prognostic implications of different molecular markers. The question asks for the marker associated with aggressive disease, and the explanation details how HER2 overexpression correlates with a poorer prognosis and a specific therapeutic response.",
+    "zh": "此问题测试对乳腺癌预后和预测性标志物的理解，特别侧重于HER2过度表达与侵袭性疾病的关系及其对治疗的影响。它需要了解乳腺癌中各种分子标志物的临床意义。\n\n要解决这个问题，必须确定提示侵袭性乳腺癌的临床特征，并回忆不同分子标志物的预后意义。该问题询问与侵袭性疾病相关的标志物，解释详细说明了HER2过度表达如何与较差的预后和特定的治疗反应相关。"
+  },
+  "tags": "Breast cancer; Infiltrating ductal carcinoma; HER2; Estrogen receptor; Progesterone receptor; BCL-2; Mutated p53; Prognostic markers; Predictive markers; Aggressive disease",
+  "category": "Pathology",
+  "question_id": "1762",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\1762",
+  "extracted_at": "2025-11-05T19:44:16.783414",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:45:45.535140",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

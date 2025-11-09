@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man comes to the emergency department due to 5 days of progressive anorexia, nausea, and abdominal pain. The patient is a known hepatitis B carrier. He admits to using IV drugs and has shared needles with other drug users on several occasions. His temperature is 37.7 C (99.9 F). Examination shows scleral icterus and mild, tender hepatomegaly. Laboratory studies are notable for highly elevated levels of liver aminotransferases and serum bilirubin and also show the following results:\n\nHepatitis B surface antigen positive\nHepatitis C virus antibody negative\nHIV-1 antibody negative\nHepatitis D RNA positive",
+    "zh": "一名34岁男性因进行性厌食、恶心和腹痛5天就诊于急诊科。该患者已知为乙型肝炎病毒（乙肝病毒）携带者。他承认使用静脉注射毒品，并曾多次与其他吸毒者共用针头。体温37.7摄氏度（99.9华氏度）。体格检查显示巩膜黄疸和轻度压痛性肝肿大。实验室研究显示肝转氨酶和血清胆红素水平高度升高，并显示以下结果：\n\n乙型肝炎表面抗原阳性\n丙型肝炎病毒抗体阴性\nHIV-1抗体阴性\n丁型肝炎病毒RNA阳性"
+  },
+  "question": {
+    "en": "This patient's chronic infection assists which of the following life cycle aspects of the current infectious agent?",
+    "zh": "该患者的慢性感染有助于当前感染原的哪个生命周期方面？"
+  },
+  "options": {
+    "A": {
+      "en": "Coating of viral particles",
+      "zh": "病毒颗粒的包被"
+    },
+    "B": {
+      "en": "Integration into host genome",
+      "zh": "整合到宿主基因组中"
+    },
+    "C": {
+      "en": "Intracellular survival",
+      "zh": "细胞内存活"
+    },
+    "D": {
+      "en": "Replication of viral RNA",
+      "zh": "病毒RNA的复制"
+    },
+    "E": {
+      "en": "Translation of viral transcripts",
+      "zh": "病毒转录物的翻译"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Often referred to as the delta agent, hepatitis D virus (HDV) is a 35-nm, double-shelled particle that resembles the Dane particle of hepatitis B virus (HBV). The internal polypeptide assembly of HDV is designated hepatitis D antigen (HDAg). Associated with this antigen is a very short, circular molecule of single-stranded RNA. HDAg is considered replication defective as it must be coated by the external coat hepatitis B surface antigen (HBsAg) of HBV to penetrate the hepatocyte. HDV infection can arise either as an acute coinfection with HBV or as a superinfection of a chronic HBV carrier.\n\n(Choices B, C, D, and E) Once coated with HBsAg, HDV is able to penetrate the hepatocyte, survive within the cell, integrate into the host genome, replicate its viral RNA, and translate its genome into protein.\n\nEducational objective:\nThe hepatitis B surface antigen of hepatitis B virus must coat the hepatitis D antigen of hepatitis D virus before it can infect hepatocytes and multiply.",
+    "zh": "丁型肝炎病毒（HDV）通常被称为δ因子，是一种35纳米的双壳颗粒，类似于乙型肝炎病毒（HBV）的Dane颗粒。HDV的内部多肽组装被称为丁型肝炎抗原（HDAg）。与该抗原相关的是一个非常短的单链RNA环状分子。HDAg被认为是复制缺陷的，因为它必须被HBV的外部包膜乙型肝炎表面抗原（HBsAg）包被才能穿透肝细胞。HDV感染可以作为与HBV的急性共感染或慢性HBV携带者的二重感染而发生。\n\n（选项 B、C、D 和 E） 一旦被 HBsAg 包被，HDV 就能穿透肝细胞，在细胞内存活，整合到宿主基因组中，复制其病毒 RNA，并将其基因组翻译成蛋白质。\n\n教育目标：乙型肝炎病毒的乙型肝炎表面抗原必须包被丁型肝炎病毒的丁型肝炎抗原，然后才能感染肝细胞并繁殖。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the hepatitis D virus (HDV) life cycle and its dependence on hepatitis B virus (HBV) for replication. Specifically, it focuses on the role of the hepatitis B surface antigen (HBsAg) in coating the hepatitis D antigen (HDAg).\n\nTo answer this question, recall that HDV is replication defective and requires HBsAg for entry into hepatocytes. Therefore, the correct answer is the one that describes the coating of viral particles.",
+    "zh": "本题考察对丁型肝炎病毒（HDV）生命周期及其对乙型肝炎病毒（HBV）复制的依赖性的了解。具体而言，它侧重于乙型肝炎表面抗原（HBsAg）在包被丁型肝炎抗原（HDAg）中的作用。\n\n要回答这个问题，请回想HDV复制缺陷，需要HBsAg才能进入肝细胞。因此，正确的答案是描述病毒颗粒包被的那个。"
+  },
+  "tags": "Hepatitis B; Hepatitis D; Viral replication; Liver disease; Coinfection; HBsAg; HDAg; Hepatocytes; Viral life cycle; Gastroenterology",
+  "category": "GIT",
+  "question_id": "47",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\47",
+  "extracted_at": "2025-11-05T14:36:46.772863",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:58:17.480986",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

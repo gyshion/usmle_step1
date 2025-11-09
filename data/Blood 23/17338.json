@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "Researchers conduct a study to identify an effective chemotherapy regimen to treat ovarian cancer. They enroll patients with and without germline mutations predisposing to the malignancy. A group of patients with a known germline mutation was found to have increased antitumor effect of carboplatin compared to patients without the mutation. However, the response to paclitaxel was similar in both groups. Based on the study results, the known germline mutation most likely causes which of the following effects?",
+    "zh": "研究人员进行一项研究，以确定一种有效的化疗方案来治疗卵巢癌。他们招募了有和没有易患恶性肿瘤的种系突变的患者。与没有这种突变的患者相比，一组已知种系突变的患者对卡铂的抗肿瘤作用有所增加。然而，两组患者对紫杉醇的反应相似。根据研究结果，已知的种系突变最有可能引起以下哪种效应？"
+  },
+  "question": {
+    "en": "Based on the study results, the known germline mutation most likely causes which of the following effects?",
+    "zh": "根据研究结果，已知的种系突变最有可能引起以下哪种效应？"
+  },
+  "options": {
+    "A": {
+      "en": "Aberrant DNA methylation",
+      "zh": "异常的 DNA 甲基化"
+    },
+    "B": {
+      "en": "Constitutive growth factor activity",
+      "zh": "组成型生长因子活性"
+    },
+    "C": {
+      "en": "Defective DNA break repair",
+      "zh": "DNA 断裂修复缺陷"
+    },
+    "D": {
+      "en": "Dysregulation of apoptosis",
+      "zh": "细胞凋亡失调"
+    },
+    "E": {
+      "en": "Loss of cell cycle control",
+      "zh": "细胞周期失控"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The most common germline mutation in breast and ovarian cancer is a defect in a BRCA gene. BRCA1 and BRCA2 produce tumor suppression proteins involved in repair of double-stranded DNA breaks via homologous recombination repair. Loss of function in a pair of BRCA alleles leads to the accumulation of unrepaired genomic mutations, which dramatically increases the risk of oncogenesis. Although BRCA defects are inherited in an autosomal dominant fashion, cancer occurs only after a somatic mutation strikes the complementary BRCA allele.\n\nCancers with BRCA mutations are often treated with platinum compounds (eg, carboplatin, cisplatin). These drugs covalently attach an alkyl group to purine base pairs, which results in cross-linking within and between DNA strands. Repair of DNA cross-links typically involves inducing double-stranded DNA breaks; therefore, proteins encoded by BRCA genes are also important for cross-link repair. Tumor cells with BRCA mutations are more likely to accumulate excessive DNA cross-links and undergo apoptosis when exposed to platinum compounds, resulting in greater tumor regression compared to patients with intact BRCA genes.\n\nIn contrast, paclitaxel therapy targets the cytoskeletal protein tubulin, which contributes to mitotic spindle formation, chromosome segregation, and cell division. Because BRCA mutations do not significantly impact the cytoskeleton, patients with and without BRCA mutations typically have a similar response to paclitaxel treatment.\n\n(Choice A) DNA methylation helps regulate gene transcription. Many cancers increase methylation of the promoter region of tumor suppressor genes, which reduces their transcription. Although some chemotherapy agents (eg, decitabine, 5-azacytidine) can alter DNA methylation, this is not the mechanism of carboplatin or paclitaxel.\n\n(Choice B) The constitutive activation of growth factor genes often contributes to the unchecked growth of cancer cells. Therefore, growth factor inhibitors (eg, erlotinib, afatinib) are used to treat many cancer types (eg, lung, colon). Carboplatin and paclitaxel do not work by this mechanism.\n\n(Choices D and E) Cancerous cells often develop mutations in genes that control the cell cycle (eg, CDKs, RB) or cell death (eg, BCL-2, p53). Although medications (eg, venetoclax) have been developed to counter the products of these mutations, neither carboplatin nor paclitaxel focuses primarily on the cell cycle.\n\nEducational objective:\nGermline mutations in the BRCA gene dramatically increase the risk for breast and ovarian cancer due to an inability to repair double-stranded DNA breaks. Cancers with BRCA gene mutations are often particularly susceptible to treatment with platinum compounds (eg, carboplatin), which cause DNA cross-linking requiring repair by BRCA-encoded machinery.",
+    "zh": "乳腺癌和卵巢癌中最常见的种系突变是 BRCA 基因的缺陷。BRCA1 和 BRCA2 产生肿瘤抑制蛋白，参与通过同源重组修复修复双链 DNA 断裂。一对 BRCA 等位基因的功能丧失会导致未修复的基因组突变积累，从而显著增加肿瘤发生的风险。尽管 BRCA 缺陷以常染色体显性方式遗传，但癌症只有在体细胞突变影响互补 BRCA 等位基因后才会发生。\n\nBRCA 突变的癌症通常用铂类化合物（例如，卡铂、顺铂）治疗。这些药物共价地将烷基连接到嘌呤碱基对上，这会导致 DNA 链内和链间的交联。DNA 交联的修复通常涉及诱导双链 DNA 断裂；因此，BRCA 基因编码的蛋白质对交联修复也很重要。与具有完整 BRCA 基因的患者相比，具有 BRCA 突变的肿瘤细胞在暴露于铂类化合物时更容易积累过多的 DNA 交联并发生细胞凋亡，从而导致更大的肿瘤消退。\n\n相比之下，紫杉醇疗法靶向细胞骨架蛋白微管蛋白，该蛋白有助于有丝分裂纺锤体的形成、染色体分离和细胞分裂。由于 BRCA 突变不会显著影响细胞骨架，因此有和没有 BRCA 突变的患者对紫杉醇治疗的反应通常相似。\n\n(选项 A) DNA 甲基化有助于调节基因转录。许多癌症会增加肿瘤抑制基因启动子区域的甲基化，从而减少其转录。尽管一些化疗药物（例如，地西他滨、5-氮杂胞苷）可以改变 DNA 甲基化，但这不是卡铂或紫杉醇的机制。\n\n(选项 B) 生长因子基因的组成型激活通常会导致癌细胞不受控制的生长。因此，生长因子抑制剂（例如，厄洛替尼、阿法替尼）用于治疗许多类型的癌症（例如，肺癌、结肠癌）。卡铂和紫杉醇不通过这种机制起作用。\n\n(选项 D 和 E) 癌细胞经常会在控制细胞周期（例如，CDKs、RB）或细胞死亡（例如，BCL-2、p53）的基因中发生突变。尽管已经开发出药物（例如，维奈托克）来对抗这些突变产物，但卡铂和紫杉醇均未主要针对细胞周期。\n\n教育目标：\nBRCA 基因中的种系突变由于无法修复双链 DNA 断裂而显著增加乳腺癌和卵巢癌的风险。具有 BRCA 基因突变的癌症通常特别容易受到铂类化合物（例如，卡铂）的治疗，这些化合物会导致 DNA 交联，需要 BRCA 编码的机制进行修复。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of BRCA mutations and their impact on DNA repair mechanisms, specifically in the context of cancer treatment response. It assesses understanding of how BRCA mutations lead to defective DNA break repair and increased sensitivity to platinum-based chemotherapy.\n\nTo solve this question, recognize that BRCA mutations impair DNA repair, particularly double-strand breaks. Carboplatin induces DNA cross-linking, requiring BRCA-mediated repair. Therefore, defective DNA repair due to BRCA mutation enhances carboplatin's effect, while paclitaxel, acting on a different cellular target, is unaffected.",
+    "zh": "这个问题测试了对 BRCA 突变及其对 DNA 修复机制的影响的了解，特别是在癌症治疗反应的背景下。它评估了对 BRCA 突变如何导致 DNA 断裂修复缺陷以及对铂类化疗敏感性增加的理解。\n\n要解决这个问题，请认识到 BRCA 突变会损害 DNA 修复，特别是双链断裂。卡铂诱导 DNA 交联，需要 BRCA 介导的修复。因此，由于 BRCA 突变导致的 DNA 修复缺陷增强了卡铂的作用，而紫杉醇作用于不同的细胞靶点，不受影响。"
+  },
+  "tags": "BRCA mutation; Ovarian cancer; DNA repair; Carboplatin; Paclitaxel; Chemotherapy; Germline mutation; Tumor regression; Double-stranded DNA breaks; Oncology",
+  "category": "Blood",
+  "question_id": "17338",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\17338",
+  "extracted_at": "2025-11-05T11:27:17.528980",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:28:56.024518",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

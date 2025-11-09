@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "Another isolate of *Streptococcus pneumoniae* from a patient with meningitis is also incubated with low-dose radioactive ceftriaxone and subjected to protein electrophoresis. Only two bands are detected using radioautography.",
+    "zh": "另一株来自脑膜炎患者的肺炎链球菌分离株也用低剂量放射性头孢曲松孵育，并进行蛋白质电泳。使用放射自显影技术仅检测到两个条带。"
+  },
+  "question": {
+    "en": "Which of the following best explains the observed finding?",
+    "zh": "以下哪项最能解释观察到的结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Action of beta-lactamases",
+      "zh": "β-内酰胺酶的作用"
+    },
+    "B": {
+      "en": "Change in protein structure",
+      "zh": "蛋白质结构改变"
+    },
+    "C": {
+      "en": "Salvage metabolic pathway",
+      "zh": "代谢补救途径"
+    },
+    "D": {
+      "en": "Transmembranous efflux pumps",
+      "zh": "跨膜外排泵"
+    },
+    "E": {
+      "en": "Upregulation of protein synthesis",
+      "zh": "蛋白质合成上调"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The isolate of *S. pneumoniae* in the prior question had five penicillin-binding proteins identified, whereas the isolate in the current question only has two. This indicates that three of the penicillin-binding proteins have been altered in such a way that inhibits the binding of ceftriaxone. Structural changes in penicillin-binding proteins that prevent ceftriaxone from binding is one mechanism for ceftriaxone resistance.\n\n(Choice A) Beta-lactamases function to degrade penicillin and cephalosporins. Production of a beta-lactamase would prevent ceftriaxone from being able to bind to the penicillin-binding proteins. Because ceftriaxone is so much smaller than the penicillin-binding proteins, unbound ceftriaxone would likely accumulate at one of the electrodes. This would lead to no bands being found within the electrophoresis area.\n\n(Choice C) A salvage metabolic pathway can restore metabolic function that would otherwise be inhibited by an antibiotic such as trimethoprim or sulfamethoxazole.\n\n(Choice D) Transmembranous efflux pumps confer resistance to antibiotics that require entry into the cell to function (e.g., tetracyclines and macrolides). However, penicillins and cephalosporins function outside of the bacterial cell at the peptidoglycan cell wall.\n\n(Choice E) Upregulation of protein synthesis can occur to overcome the effect of an antibiotic that binds to and irreversibly inhibits the action of that protein. However, if this were the mechanism for resistance, five bands would still be identified on the radioautography test.",
+    "zh": "前一个问题中的肺炎链球菌分离株鉴定了五个青霉素结合蛋白，而当前问题中的分离株只有两个。这表明，三个青霉素结合蛋白发生了改变，从而抑制了头孢曲松的结合。青霉素结合蛋白的结构变化，阻止头孢曲松结合，是头孢曲松耐药的一种机制。\n\n(选项 A) β-内酰胺酶的作用是降解青霉素和头孢菌素。产生 β-内酰胺酶会阻止头孢曲松与青霉素结合蛋白结合。因为头孢曲松比青霉素结合蛋白小得多，未结合的头孢曲松可能会在其中一个电极处积聚。这将导致在电泳区域内找不到条带。\n\n(选项 C) 代谢补救途径可以恢复原本会被抗菌素（如甲氧苄氨嘧啶或磺胺甲恶唑）抑制的代谢功能。\n\n(选项 D) 跨膜外排泵赋予需要进入细胞才能发挥作用的抗菌素（例如，四环素和大环内酯类）耐药性。然而，青霉素和头孢菌素在细胞壁的肽聚糖外起作用。\n\n(选项 E) 蛋白质合成的上调可以克服与该蛋白质结合并不可逆地抑制其作用的抗菌素的影响。然而，如果这是耐药机制，则在放射自显影测试中仍然会鉴定出五个条带。"
+  },
+  "summary": {
+    "en": "This question tests the mechanisms of antibiotic resistance in bacteria, specifically focusing on how changes in penicillin-binding proteins can lead to ceftriaxone resistance in *Streptococcus pneumoniae*.\n\nTo solve this question, understand the function of penicillin-binding proteins and how their alteration can prevent antibiotic binding. Consider the implications of each answer choice in the context of protein electrophoresis results.",
+    "zh": "本题考察细菌中抗菌素耐药机制，特别是关注青霉素结合蛋白的变化如何导致肺炎链球菌对头孢曲松的耐药性。\n\n要解决这个问题，需要了解青霉素结合蛋白的功能以及它们的变化如何阻止抗菌素的结合。考虑每个选项在蛋白质电泳结果背景下的含义。"
+  },
+  "tags": "Streptococcus pneumoniae; Meningitis; Antibiotic resistance; Ceftriaxone; Penicillin-binding proteins; Protein electrophoresis; Beta-lactamases; Salvage pathway; Efflux pumps; Protein synthesis",
+  "category": "Micro",
+  "question_id": "2111",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\2111",
+  "extracted_at": "2025-11-05T15:03:32.346151",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:11:32.183857",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "An 82-year-old woman is brought to the office for a new patient evaluation. She recently moved in with her daughter. The patient reports frequent dizziness but cannot provide additional details regarding her symptoms. Medical history includes moderate dementia, hypertension, transient ischemic attack, depression, and chronic insomnia. Blood pressure is 124/72 mm Hg, and pulse is 66/min and regular. Neurologic examination shows disorientation to time and place but normal deep tendon reflexes and no focal sensory or motor deficits. The patient's medication schedule includes 12 different drugs that are used to manage her chronic conditions.",
+    "zh": "一名82岁的女性因初诊评估被带到诊所。她最近搬来和她的女儿一起住。患者报告经常头晕，但无法提供有关其症状的更多细节。病史包括中度痴呆、高血压、短暂性脑缺血发作、抑郁症和慢性失眠。血压为124/72 mmHg，脉搏为66次/分钟，规律。神经系统检查显示对时间和地点定向力障碍，但深腱反射正常，无局灶性感觉或运动功能障碍。患者的用药方案包括12种用于管理其慢性疾病的不同药物。"
+  },
+  "question": {
+    "en": "Which of the following medications should be discontinued at this time?",
+    "zh": "此时应停用以下哪种药物？"
+  },
+  "options": {
+    "A": {
+      "en": "Amlodipine",
+      "zh": "氨氯地平"
+    },
+    "B": {
+      "en": "Aspirin",
+      "zh": "阿司匹林"
+    },
+    "C": {
+      "en": "Diphenhydramine",
+      "zh": "苯海拉明"
+    },
+    "D": {
+      "en": "Donepezil",
+      "zh": "多奈哌齐"
+    },
+    "E": {
+      "en": "Hydrochlorothiazide",
+      "zh": "氢氯噻嗪"
+    },
+    "F": {
+      "en": "Sertraline",
+      "zh": "舍曲林"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The patient is an elderly woman with polypharmacy and symptoms of dizziness, disorientation, and dementia. The Beers criteria are a set of recommendations developed by the American Geriatrics Society to identify medications that should be used with caution or avoided in older adults due to increased risk of adverse events. First-generation antihistamines, such as diphenhydramine, are anticholinergic medications that are known to cause or worsen confusion, cognitive impairment, dizziness, and dry mouth in older adults. Given the patient's symptoms and history, diphenhydramine is the most likely culprit and should be discontinued.\n\n(Choice A and E) Amlodipine and hydrochlorothiazide are antihypertensive medications. While excessive use can lead to hypotension and dizziness, the patient's blood pressure is within a reasonable range (124/72 mm Hg), and her pulse is normal. These medications are generally considered acceptable for managing hypertension in older adults, and discontinuing them without further assessment of her blood pressure control would be premature.\n\n(Choice B) Aspirin is an antiplatelet agent that is often used for secondary prevention of cardiovascular events, such as transient ischemic attack. While there is a risk of gastrointestinal bleeding with aspirin, the benefit of preventing recurrent ischemic events likely outweighs this risk in a patient with a history of TIA. Discontinuing aspirin without a clear indication would increase her risk of stroke.\n\n(Choice D) Donepezil is a cholinesterase inhibitor used to treat Alzheimer's dementia. While it can have side effects, it is a standard treatment for dementia, and the patient's symptoms of disorientation and dementia suggest it may be beneficial. Discontinuing it without considering alternative treatments or assessing its efficacy would be inappropriate.\n\n(Choice F) Sertraline is a selective serotonin reuptake inhibitor (SSRI) used to treat depression. While SSRIs can have side effects, they are often first-line treatments for depression in older adults. The patient has a history of depression, and discontinuing sertraline without assessing its efficacy or considering alternatives would be detrimental to her mental health.\n\nKey clinical pearls: Always consider the Beers criteria when evaluating medication regimens in older adults, especially those with polypharmacy and symptoms suggestive of adverse drug reactions. Anticholinergic medications are a common cause of cognitive impairment and other adverse effects in this population. Polypharmacy itself increases the risk of drug interactions and adverse events.",
+    "zh": "该患者是一名老年女性，有多重用药史，并有头晕、定向力障碍和痴呆的症状。Beers标准是美国老年医学会制定的一套建议，用于识别在老年人中应谨慎使用或避免的药物，原因是增加了不良事件的风险。第一代抗组胺药，如苯海拉明，是抗胆碱能药物，已知会导致或加重老年人的意识模糊、认知障碍、头晕和口干。考虑到患者的症状和病史，苯海拉明是最有可能的罪魁祸首，应停用。\n\n（选项A和E）氨氯地平和氢氯噻嗪是降压药。虽然过度使用会导致低血压和头晕，但患者的血压在合理范围内（124/72 mmHg），且脉搏正常。这些药物通常被认为可用于管理老年人的高血压，在没有进一步评估其血压控制的情况下停用它们为时过早。\n\n（选项B）阿司匹林是一种抗血小板药物，常用于心血管事件的二级预防，例如短暂性脑缺血发作。虽然使用阿司匹林存在胃肠道出血的风险，但在有TIA病史的患者中，预防复发性缺血事件的益处可能超过这种风险。在没有明确指征的情况下停用阿司匹林会增加她中风的风险。\n\n（选项D）多奈哌齐是一种胆碱酯酶抑制剂，用于治疗阿尔茨海默病痴呆。虽然它可能有一些副作用，但它是痴呆的标准治疗方法，并且患者的定向力障碍和痴呆的症状表明它可能是有益的。在没有考虑替代治疗或评估其疗效的情况下停用它是不合适的。\n\n（选项F）舍曲林是一种用于治疗抑郁症的选择性5-羟色胺再摄取抑制剂（SSRI）。虽然SSRI可能有副作用，但它们通常是老年人抑郁症的一线治疗方法。该患者有抑郁症病史，在没有评估其疗效或考虑替代方案的情况下停用舍曲林对其心理健康有害。\n\n关键临床要点：在评估老年人的用药方案时，务必考虑Beers标准，特别是那些有多重用药史和提示药物不良反应的症状的人。抗胆碱能药物是导致该人群认知障碍和其他不良反应的常见原因。多重用药本身会增加药物相互作用和不良事件的风险。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the Beers criteria and the appropriate management of medications in older adults, particularly concerning polypharmacy and potential adverse drug reactions. It assesses the ability to identify medications that are commonly associated with adverse effects in the elderly, such as anticholinergic drugs, and to apply this knowledge to a clinical scenario.\n\nThe approach to solving this question involves reviewing the patient's symptoms and medical history, considering the potential side effects of each listed medication in the context of geriatric pharmacotherapy, and referencing the Beers criteria to identify drugs that should be avoided or used with caution in older adults. The most likely offending agent causing the patient's symptoms should be identified for discontinuation.",
+    "zh": "本题测试对Beers标准的理解以及老年人药物的适当管理，特别是关于多重用药和潜在的不良药物反应。它评估了识别老年人中常与不良反应相关的药物（如抗胆碱能药物）的能力，并将此知识应用于临床情景。\n\n解决此问题的方法包括回顾患者的症状和病史，在老年药理学的背景下考虑每种列出的药物的潜在副作用，并参考Beers标准以识别应避免或谨慎用于老年人的药物。应识别导致患者症状的最可能致病药物并停用。"
+  },
+  "tags": "Geriatrics; Beers criteria; Polypharmacy; Anticholinergic medications; Diphenhydramine; Dizziness; Dementia; Adverse drug reactions; Medication management",
+  "category": "Pharma",
+  "question_id": "11567",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\11567",
+  "extracted_at": "2025-11-05T19:44:41.828446",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:46:30.329487",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

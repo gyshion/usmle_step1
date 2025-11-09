@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old man dies suddenly in his sleep. He had been experiencing easy fatigability for the past 6 months and mentioned that he was feeling tired \"all the time\" and needed to take naps during the day. He did not drink alcohol or use illicit drugs. He smoked a pack of cigarettes per day for 10 years. His father died from a \"heart problem\" at age 40. On autopsy, the heart appears grossly enlarged. A layered mural thrombus is seen in the left ventricular apex. Coronary atherosclerosis is present, with 20% narrowing of the mid-left anterior descending artery and 25% narrowing of the left circumflex artery. Which of the following is the most likely cause of death of this patient?",
+    "zh": "一名32岁男性在睡梦中猝死。他在过去6个月中一直感到容易疲劳，并提到他“一直”感到疲倦，需要在白天小睡。他不饮酒或使用违禁药物。他每天吸一包香烟，持续10年。他的父亲在40岁时死于“心脏病”。尸检显示心脏明显增大。在左心室心尖处可见分层壁栓。存在冠状动脉粥样硬化，左前降支中段狭窄20%，左旋支狭窄25%。以下哪项最可能是该患者的死亡原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of death of this patient?",
+    "zh": "以下哪项最可能是该患者的死亡原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Antiphospholipid antibody syndrome",
+      "zh": "抗磷脂抗体综合征"
+    },
+    "B": {
+      "en": "Dilated cardiomyopathy",
+      "zh": "扩张型心肌病"
+    },
+    "C": {
+      "en": "Hypertrophic cardiomyopathy",
+      "zh": "肥厚型心肌病"
+    },
+    "D": {
+      "en": "Ischemic heart disease",
+      "zh": "缺血性心脏病"
+    },
+    "E": {
+      "en": "Restrictive cardiomyopathy",
+      "zh": "限制型心肌病"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient most likely died due to dilated cardiomyopathy (DCM) {{exhibit_1}}. A primary insult to the myocardium leads to impaired myocardial contractile function with dilation of one or both ventricles. The structural changes to the ventricular myocardium places these patients at risk of sudden cardiac death from ventricular arrhythmia (ie, ventricular tachycardia, ventricular fibrillation). In addition, the global hypokinesis of the left ventricle leads to stagnation of blood flow and the possible development of LV mural thrombus and subsequent systemic embolization.\n\nCauses of DCM include infection (eg, viral myocarditis, Chagas disease), chemical toxicity (eg, alcohol), and inherited disease. The premature death of this patient's father from a heart problem suggests familial DCM, which is typically transmitted in an autosomal dominant inheritance pattern. Truncating mutations affecting the TTN gene, which encodes for the cardiac sarcomere protein titin, are the most common cause of familial DCM.\n\n(Choice A) Antiphospholipid antibody syndrome is an autoimmune disorder characterized by venous and/or arterial thrombosis. Cardiac manifestations can include valvular thickening, nonbacterial vegetations, and increased risk of coronary atherosclerosis; however, LV cavity enlargement and mural thrombus are not typical.\n\n(Choice C) Hypertrophic cardiomyopathy is an autosomal dominant genetic disorder caused by mutation in genes encoding for one of several cardiac sarcomere proteins (eg, beta-myosin heavy chain, myosin-binding protein C). It is a common cause of sudden cardiac death in young individuals, usually during exertion. Autopsy typically shows asymmetric septal hypertrophy of the left ventricle.\n\n(Choice D) Ischemic heart disease can lead to myocardial dysfunction and LV enlargement that mimics DCM; however, this patient's coronary arteries had only minor atherosclerotic narrowing (ie, 20% and 25%) that would not have caused clinically significant myocardial ischemia.\n\n(Choice E) Restrictive cardiomyopathy is typically the early cardiac manifestation of an infiltrative process (eg, amyloidosis, sarcoidosis) and is characterized by nondilated ventricles with enlargement of both atria.\n\nEducational objective:\nDilated cardiomyopathy results from primary myocardial dysfunction leading to eccentric remodeling of the left ventricle. Patients can develop left ventricular mural thrombus and are at risk for sudden cardiac death due to ventricular arrhythmia. Familial dilated cardiomyopathy is typically inherited in an autosomal dominant pattern and most commonly results from truncating mutations of the TTN gene that codes for the sarcomere protein titin.",
+    "zh": "该患者最有可能死于扩张型心肌病 (DCM) {{exhibit_1}}。原发性心肌损伤导致心肌收缩功能受损，伴有一个或两个心室扩张。心室心肌的结构变化使这些患者面临因室性心律失常（即室性心动过速、室颤）而猝死的风险。此外，左心室的整体运动减弱导致血流停滞，并可能发展为左室壁栓塞，继而发生全身栓塞。\n\nDCM 的病因包括感染（例如，病毒性心肌炎、恰加斯病）、化学毒性（例如，酒精）和遗传性疾病。该患者的父亲因心脏问题过早去世，提示家族性 DCM，其通常以常染色体显性遗传模式传播。影响 TTN 基因的截短突变，该基因编码心肌肌节蛋白肌联蛋白，是家族性 DCM 的最常见原因。\n\n（选项 A）抗磷脂抗体综合征是一种自身免疫性疾病，其特征是静脉和/或动脉血栓形成。心脏表现可包括瓣膜增厚、非细菌性赘生物和冠状动脉粥样硬化风险增加；然而，左室腔增大和壁栓塞不常见。\n\n（选项 C）肥厚型心肌病是一种常染色体显性遗传疾病，由编码几种心肌肌节蛋白之一的基因突变引起（例如，β-肌球蛋白重链、肌球蛋白结合蛋白 C）。它是年轻人猝死（通常在运动时）的常见原因。尸检通常显示左心室不对称的室间隔肥大。\n\n（选项 D）缺血性心脏病可导致心肌功能障碍和左室增大，从而模仿 DCM；然而，该患者的冠状动脉仅有轻微的动脉粥样硬化狭窄（即 20% 和 25%），这不会导致临床上显著的心肌缺血。\n\n（选项 E）限制型心肌病通常是浸润性过程（例如，淀粉样变性、结节病）的早期心脏表现，其特征是非扩张的心室伴有双侧心房增大。\n\n教育目标：\n扩张型心肌病由原发性心肌功能障碍导致左心室的向心性重塑。患者可发生左室壁栓塞，并因室性心律失常而有猝死风险。家族性扩张型心肌病通常以常染色体显性模式遗传，最常见的是由编码肌节蛋白肌联蛋白的 TTN 基因的截短突变引起。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of dilated cardiomyopathy (DCM), including its etiology, pathophysiology, and clinical presentation. It also assesses the ability to differentiate DCM from other causes of sudden cardiac death.\n\nThe key to solving this question is recognizing the clinical features of DCM, such as fatigue, enlarged heart, mural thrombus, and a family history of heart problems. Ruling out other potential causes based on the provided information is also crucial.",
+    "zh": "本题考察对扩张型心肌病 (DCM) 的了解，包括其病因、病理生理学和临床表现。它还评估区分 DCM 与其他猝死原因的能力。\n\n解决此问题的关键是认识 DCM 的临床特征，例如疲劳、心脏增大、壁栓塞和心脏病家族史。根据提供的信息排除其他潜在原因也至关重要。"
+  },
+  "tags": "Dilated cardiomyopathy; Cardiomyopathy; Heart failure; Sudden cardiac death; Autopsy; TTN gene; Familial DCM",
+  "category": "CVS",
+  "question_id": "14993",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\14993",
+  "extracted_at": "2025-11-05T11:54:34.921648",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:46:09.298635",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

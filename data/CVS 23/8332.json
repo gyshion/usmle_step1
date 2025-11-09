@@ -1,0 +1,57 @@
+{
+  "question_stem": {
+    "en": "A 52-year-old man is brought to the emergency department for evaluation of fever, chills, and malaise. Cardiopulmonary examination reveals a new holosystolic heart murmur that radiates toward the axilla. Blood cultures are obtained, and the patient undergoes transesophageal echocardiography. The ultrasound probe is placed in the midesophagus facing anteriorly, and the cardiac chambers are interrogated.",
+    "zh": "一名52岁男性因发热、寒战和不适被送往急诊科就诊。心肺检查显示出现新的全收缩期心脏杂音，并向腋窝放射。采集血培养，患者接受经食管超声心动图检查。将超声探头置于食管中部，朝前，并对心脏腔室进行探查。"
+  },
+  "question": {
+    "en": "Which of the following chambers is closest to the probe?",
+    "zh": "以下哪个心腔离探头最近？"
+  },
+  "options": {
+    "A": {
+      "en": "Left atrium",
+      "zh": "左心房"
+    },
+    "B": {
+      "en": "Left ventricle",
+      "zh": "左心室"
+    },
+    "C": {
+      "en": "Right atrium",
+      "zh": "右心房"
+    },
+    "D": {
+      "en": "Right ventricle",
+      "zh": "右心室"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Transesophageal echocardiography (TEE) {{exhibit_1}} uses ultrasound waves generated from within the esophagus to produce clear images of the neighboring cardiac structures. The left atrium makes up the majority of the heart's posterior surface, with the esophagus passing immediately posterior to the heart. Therefore, the esophagus lies within closest proximity to the left atrium. This allows the left atrium, atrial septum, and mitral valve to be particularly well visualized on TEE.\n\nDue to its proximity, conditions that result in left atrial enlargement (eg, mitral stenosis or regurgitation) can cause dysphagia through external compression of the esophagus.\n\n(Choice B) The left ventricle forms the majority of the inferior (diaphragmatic) surface of the heart and the left border of the heart on frontal chest x-ray.\n\n(Choice C) The right atrium, along with the superior vena cava, forms the right lateral cardiac border on frontal chest x-ray.\n\n(Choice D) The right ventricle forms the anterior (sternal) surface of the heart and the majority of its inferior border on frontal chest x-ray.\n\nEducational objective:\nThe left atrium forms the majority of the posterior surface of the heart and resides adjacent to the esophagus. Enlargement of the left atrium can compress the esophagus and cause dysphagia.",
+    "zh": "经食管超声心动图 (TEE) {{exhibit_1}} 使用从食管内部产生的超声波来产生邻近心脏结构的清晰图像。左心房构成心脏后表面的大部分，食管正好位于心脏后方。因此，食管与左心房的距离最近。这使得左心房、房中隔和二尖瓣在 TEE 上特别容易被观察到。\n\n由于其邻近性，导致左心房增大的疾病（例如，二尖瓣狭窄或反流）可以通过对外食管的外部压迫引起吞咽困难。\n\n（选项 B）左心室构成心脏的下表面（膈面）的大部分，以及正面胸片上心脏的左缘。\n\n（选项 C）右心房与上腔静脉一起构成正面胸片上心脏的右侧界限。\n\n（选项 D）右心室构成心脏的前表面（胸骨）及其下缘的大部分。\n\n教育目标：\n左心房构成心脏后表面的大部分，并与食管相邻。左心房增大可压迫食管并引起吞咽困难。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of cardiac anatomy and the positioning of cardiac chambers relative to the esophagus, specifically in the context of transesophageal echocardiography (TEE). It requires understanding which cardiac chamber is closest to the esophagus.\n\nTo solve this question, recall the anatomical relationship between the esophagus and the heart. The left atrium is located posterior to the heart, with the esophagus running immediately behind it. Therefore, the left atrium is the closest chamber to the TEE probe.",
+    "zh": "本题考察对心脏解剖学的知识以及心腔相对于食管的位置，特别是在经食管超声心动图 (TEE) 的背景下。它要求理解哪个心腔离食管最近。\n\n为了解决这个问题，回想一下食管和心脏之间的解剖关系。左心房位于心脏后方，食管正好位于其后方。因此，左心房是离 TEE 探头最近的腔室。"
+  },
+  "tags": "Transesophageal echocardiography; Cardiac anatomy; Left atrium; Esophagus; Cardiovascular system",
+  "category": "CVS",
+  "question_id": "8332",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\8332",
+  "extracted_at": "2025-11-05T12:17:20.743109",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:31:43.653673",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

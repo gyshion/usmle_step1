@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old man is brought to the emergency department after sustaining stab injuries in a street fight. The patient feels lightheaded and dizzy. Blood pressure is 100/60 mm Hg and pulse is 115/min. Physical examination shows profuse bleeding from penetrating wounds over the right neck and shoulder area. Intravenous fluids are administered, and a blood transfusion is initiated. Urgent surgical exploration is performed, and injured blood vessels are repaired. Further exploration shows complete transection of a specific nerve, which is indicated by the arrow in the image below. {{exhibit_1}}",
+    "zh": "一名23岁的男性因在街头斗殴中遭受刺伤而被送往急诊科。患者感到头晕目眩。血压为100/60 mmHg，脉搏为115次/分钟。体格检查显示右侧颈部和肩部区域穿透伤口大量出血。静脉输液已进行，并开始输血。进行了紧急外科探查，并修复了受损的血管。进一步探查显示特定神经完全横断，如下图箭头所示。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following actions is most likely to be impaired as a result of this patient's nerve injury?",
+    "zh": "由于该患者的神经损伤，以下哪种行为最有可能受损？"
+  },
+  "options": {
+    "A": {
+      "en": "Abduction of the fingers",
+      "zh": "手指外展"
+    },
+    "B": {
+      "en": "Adduction of the thumb",
+      "zh": "拇指内收"
+    },
+    "C": {
+      "en": "Extension of the wrist",
+      "zh": "腕关节伸展"
+    },
+    "D": {
+      "en": "Flexion of the wrist",
+      "zh": "腕关节屈曲"
+    },
+    "E": {
+      "en": "Opposition of the thumb",
+      "zh": "拇指对掌"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The image {{exhibit_2}} shows the radial nerve. The radial nerve is the largest branch of the brachial plexus and receives fibers from C5-T1. It innervates all the extensor muscles of the upper limb below the shoulder and provides sensory innervation to the skin of the posterior arm, forearm, and dorsal lateral hand. This nerve tracks within the radial groove on the humerus; therefore, it is vulnerable to traumatic injury at the humeral midshaft. The nerve can also be injured (eg, penetrating stab wound) during its superficial course within the axilla. Patients with proximal radial nerve neuropathy typically have weakness during wrist and finger extension (wrist drop) and variable sensory loss over the posterior arm and forearm. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}\n\n(Choices A, B, D, and E) Damage to the median or ulnar nerve can result in weakness on wrist flexion. Damage to the median nerve can also result in weakness on thumb opposition, whereas ulnar nerve damage may limit finger abduction and thumb adduction.\n\nEducational objective:\nThe radial nerve provides sensory innervation to the skin of the posterior arm, forearm, and dorsal lateral hand and provides motor innervation to all the extensor muscles of the upper limb below the shoulder. Damage to the proximal radial nerve (eg, at the axilla or midshaft humerus) may result in wrist drop.\n\nAnatomy\nNervous System\nBrachial plexus",
+    "zh": "图片{{exhibit_2}}显示了桡神经。桡神经是臂丛神经的最大分支，接收来自C5-T1的纤维。它支配肩部以下所有上肢的伸肌，并为后臂、前臂和手背外侧的皮肤提供感觉神经支配。这条神经在肱骨的桡神经沟内走行；因此，它容易在肱骨中段受到外伤。神经也可能在其在腋窝内的浅表走行过程中受伤（例如，穿透性刺伤）。近端桡神经病变的患者通常在腕和手指伸展（垂腕）时出现无力，并且在后臂和前臂上有不同程度的感觉丧失。{{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}\n\n（选项A、B、D和E）正中神经或尺神经的损伤可导致腕关节屈曲无力。正中神经的损伤也可导致拇指对掌无力，而尺神经损伤可能会限制手指外展和拇指内收。\n\n教育目标：\n桡神经为后臂、前臂和手背外侧的皮肤提供感觉神经支配，并为肩部以下所有上肢的伸肌提供运动神经支配。近端桡神经的损伤（例如，在腋窝或肱骨中段）可能导致垂腕。\n\n解剖学\n神经系统\n臂丛神经"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the anatomy and function of the radial nerve, specifically its role in wrist extension and the consequences of its injury.\n\nTo solve this question, one must identify the nerve indicated in the image, recall its anatomical course and innervation, and then determine which motor function would be most affected by its transection.",
+    "zh": "此题考察对桡神经的解剖和功能的了解，特别是其在腕关节伸展中的作用及其损伤的后果。\n\n要解决这个问题，必须识别图像中指示的神经，回忆其解剖走行和神经支配，然后确定哪种运动功能会受到其横断的影响最大。"
+  },
+  "tags": "Radial nerve; Brachial plexus; Nerve injury; Wrist drop; Motor innervation; Anatomy; Neurology",
+  "category": "Neuro",
+  "question_id": "1930",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\1930",
+  "extracted_at": "2025-11-05T19:37:39.748136",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:37:02.458355",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

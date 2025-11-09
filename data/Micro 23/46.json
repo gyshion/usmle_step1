@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 2-month-old girl is brought to the clinic due to perinatal hepatitis B exposure. Her mother is age 22 and immigrated to the United States shortly after giving birth. The pregnancy was complicated by maternal hepatitis B infection. However, the mother received no prenatal or perinatal care and was not diagnosed with chronic hepatitis B until the immigration process. Maternal HBsAg, HBeAg, and anti-HBc are all positive; anti-HBs is negative. The infant has not been evaluated previously and has not received any immunizations or other medications. She is exclusively breast fed and has been growing normally. Vital signs are normal and physical examination is unremarkable. No hepatomegaly or jaundice is seen.",
+    "zh": "一名 2 个月大的女婴因围产期乙型肝炎暴露就诊。她的母亲 22 岁，在分娩后不久移民到美国。 妊娠并发有母亲乙型肝炎感染。 然而，母亲没有接受产前或围产期护理，并且直到移民过程才被诊断出患有慢性乙型肝炎。 母亲的 HBsAg、HBeAg 和抗-HBc 均为阳性； 抗-HBs 为阴性。 婴儿之前未接受评估，也未接种任何疫苗或其他药物。 她完全母乳喂养，生长正常。 生命体征正常，体格检查无特殊发现。 未见肝肿大或黄疸。"
+  },
+  "question": {
+    "en": "The infant's laboratory results will most likely show which of the following?",
+    "zh": "婴儿的实验室结果最有可能显示以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Antibody against HBsAg (anti-HBs)",
+      "zh": "针对 HBsAg 的抗体 (抗-HBs)"
+    },
+    "B": {
+      "en": "HBeAg",
+      "zh": "HBeAg"
+    },
+    "C": {
+      "en": "Markedly elevated direct bilirubin",
+      "zh": "直接胆红素显著升高"
+    },
+    "D": {
+      "en": "Markedly elevated liver function tests",
+      "zh": "肝功能检查结果显著升高"
+    },
+    "E": {
+      "en": "Neither HBsAg nor anti-HBs",
+      "zh": "HBsAg 和抗-HBs 均无"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This infant was exposed to hepatitis B virus (HBV) during delivery. Mother-to-child transmission most commonly occurs during delivery, but transplacental infection can also occur. Maternal viral load and HBeAg status are the strongest risk factors for infant infection. Infants born to HBeAg-positive women (as in this case) have a >90% chance of acquiring infection, whereas the chance is less in infants born to HBeAg-negative women.\n\nViral replication occurs rapidly in infected infants due to immune system immaturity in newborns. As a result, infected infants have high viral loads and HBeAg levels. Despite this high level of replication, infants enter an immune-tolerant phase of chronic HBV infection in which they are asymptomatic and have normal or only mildly elevated liver function tests. Over time, chronically infected newborns are at high risk of progression to cirrhosis and hepatocellular carcinoma. The chance of progression to chronic hepatitis B is 90% without treatment, much higher than the chance of progression in older children and adults. Administration of hepatitis B vaccine and immunoglobulin as soon as possible after delivery can prevent chronic infection.\n\n(Choice A) Due to their immature immune system, more than 90% of vertically infected infants develop chronic infection (eg, they do not develop anti-HBs and do not clear their HBV infection). Additionally, the infant's mother has chronic disease and lacks anti-HBs, meaning there would be no maternally derived transplacental antibodies. Therefore, anti-HBs would not be expected in this infant.\n\n(Choices C and D) Hepatic injury from hepatitis B is due to the cellular immune response, not by the virus itself. Therefore, infants with HBV infection enter an immune-tolerant phase due to their immature T-cell responses, which limits hepatocyte damage. As a result, laboratory markers of liver injury (eg, liver function tests, direct bilirubinemia) are usually normal or only mildly elevated in HBV-infected neonates.\n\n(Choice E) Perinatally infected infants have rapid appearance of HBsAg within a few days; absence of both HBsAg and anti-HBs at age 2 months would suggest that the infant was not infected. However, this is unlikely as virtually all infants born to HBeAg-positive mothers will be infected perinatally.\n\nEducational objective: Infants born to HBeAg-positive mothers have a high risk of acquiring perinatal hepatitis B virus (HBV) infection. Infected neonates have high levels of HBV replication and are at high risk for chronic infection, but are usually asymptomatic or have only mildly elevated liver function tests.",
+    "zh": "该婴儿在分娩期间暴露于乙型肝炎病毒 (HBV)。 母婴传播最常发生在分娩期间，但也可发生经胎盘感染。 母亲的病毒载量和 HBeAg 状态是婴儿感染的最强危险因素。 出生于 HBeAg 阳性女性（如本例）的婴儿有 >90% 的机会感染，而出生于 HBeAg 阴性女性的婴儿的机会较小。\n\n由于新生儿免疫系统不成熟，感染的婴儿会迅速发生病毒复制。 因此，受感染的婴儿具有高病毒载量和 HBeAg 水平。 尽管复制水平很高，但婴儿进入慢性 HBV 感染的免疫耐受期，在此期间他们没有症状并且肝功能检查结果正常或仅轻度升高。 随着时间的推移，慢性感染的新生儿发生肝硬化和肝细胞癌的风险很高。 未经治疗，进展为慢性乙型肝炎的几率为 90%，远高于较大儿童和成人的进展几率。 尽早于分娩后接种乙型肝炎疫苗和免疫球蛋白，可以预防慢性感染。\n\n(选项 A) 由于其不成熟的免疫系统，超过 90% 的垂直感染婴儿会发展为慢性感染（例如，他们不会产生抗-HBs，也不会清除其 HBV 感染）。 此外，婴儿的母亲患有慢性疾病，并且缺乏抗-HBs，这意味着不会有母源性经胎盘抗体。 因此，该婴儿不应出现抗-HBs。\n\n(选项 C 和 D) 乙型肝炎引起的肝损伤是由细胞免疫反应引起的，而不是由病毒本身引起的。 因此，患有 HBV 感染的婴儿会因其不成熟的 T 细胞反应而进入免疫耐受期，这限制了肝细胞损伤。 因此，肝损伤的实验室指标（例如，肝功能检查、直接胆红素血症）在 HBV 感染的新生儿中通常是正常的或仅轻度升高。\n\n(选项 E) 围产期感染的婴儿在几天内会迅速出现 HBsAg； 2 个月大时既没有 HBsAg 也没有抗-HBs 表明婴儿没有受到感染。 然而，这不太可能，因为几乎所有出生于 HBeAg 阳性母亲的婴儿都会在围产期受到感染。\n\n教育目标：出生于 HBeAg 阳性母亲的婴儿有很高的获得围产期乙型肝炎病毒 (HBV) 感染的风险。 感染的新生儿具有高水平的 HBV 复制，并且具有慢性感染的高风险，但通常没有症状或仅肝功能检查结果轻度升高。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of perinatal hepatitis B infection and the expected serological markers in an infant born to a mother with chronic hepatitis B. It assesses understanding of mother-to-child transmission, the immune-tolerant phase in infants, and the implications for chronic infection. \n\nThe key to solving this question is recognizing that infants born to HBeAg-positive mothers are highly likely to be infected and will have high levels of HBV replication, including HBeAg. Understanding the immune-tolerant phase and the lack of anti-HBs development in most infected infants is crucial.",
+    "zh": "此题考察了对围产期乙型肝炎感染以及出生于患有慢性乙型肝炎母亲的婴儿的预期血清学标志物的知识。 评估了对母婴传播、婴儿的免疫耐受期以及对慢性感染的影响的理解。\n\n解决此题的关键在于认识到出生于 HBeAg 阳性母亲的婴儿极有可能受到感染，并且将具有高水平的 HBV 复制，包括 HBeAg。 了解免疫耐受期以及大多数感染婴儿缺乏抗-HBs 的发展至关重要。"
+  },
+  "tags": "Perinatal hepatitis B infection; Hepatitis B virus; Mother-to-child transmission; HBeAg; HBsAg; Anti-HBs; Immune-tolerant phase; Chronic hepatitis B; Neonatal infection; Serology",
+  "category": "Micro",
+  "question_id": "46",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\46",
+  "extracted_at": "2025-11-05T15:04:27.824587",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:12:23.655413",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

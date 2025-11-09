@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 22-year-old woman comes to the emergency department due to a nosebleed. She had a similar episode yesterday, but the bleeding stopped with prolonged local pressure. On review of systems, the patient has also had easy bruising for the past several months. She has no significant past medical history and takes no medications. On physical examination, her heart and lungs appear normal. The liver span is 8 cm and the spleen is not palpable. There are scattered ecchymoses over her arms and legs. Laboratory results are as follows:\n\nHematocrit 45%\nPlatelet count 9,000/mm³\nLeukocytes 5,500/mm³\nNeutrophils 60%\nEosinophils 2%\nLymphocytes 32%\nMonocytes 6%\nFibrinogen 250 mg/dL (normal: 150-350 mg/dL)\nProthrombin time 13 sec\n\nHIV and hepatitis C tests are negative.",
+    "zh": "一名22岁女性因鼻出血来到急诊科就诊。她昨天也出现过类似的症状，但通过局部长时间压迫止住了出血。在系统回顾时，患者在过去几个月里还容易出现瘀伤。她没有重要的既往病史，也没有服用任何药物。体格检查显示，她的心脏和肺部看起来正常。肝脏浊音叩诊为8 cm，脾脏无法触及。她的手臂和腿上有散在的瘀斑。实验室检查结果如下：\n\n血细胞比容45%\n血小板计数9,000/mm³\n白细胞5,500/mm³\n中性粒细胞60%\n嗜酸性粒细胞2%\n淋巴细胞32%\n单核细胞6%\n纤维蛋白原250 mg/dL（正常：150-350 mg/dL）\n凝血酶原时间13秒\n\nHIV和丙型肝炎检测结果均为阴性。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely primary mechanism causing this patient's condition?",
+    "zh": "以下哪项是导致该患者病症的最可能的主要机制？"
+  },
+  "options": {
+    "A": {
+      "en": "Bone marrow aplasia",
+      "zh": "骨髓发育不全"
+    },
+    "B": {
+      "en": "Bone marrow infiltration by malignant cells",
+      "zh": "恶性细胞浸润骨髓"
+    },
+    "C": {
+      "en": "Disseminated intravascular coagulation",
+      "zh": "弥散性血管内凝血"
+    },
+    "D": {
+      "en": "Immune destruction of platelets",
+      "zh": "血小板免疫破坏"
+    },
+    "E": {
+      "en": "Platelet sequestration",
+      "zh": "血小板隔离"
+    },
+    "F": {
+      "en": "von Willebrand disease",
+      "zh": "血管性血友病"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has recurrent epistaxis, ecchymoses, and marked thrombocytopenia (normal 150,000-400,000/mm³). She has a normal hematocrit, leukocyte count and differential, fibrinogen level, and prothrombin time/International Normalized Ratio. She takes no medications, and there is no obvious hepatosplenomegaly on physical examination. Taken together, these findings suggest an isolated acquired thrombocytopenia.\n\nCommon causes of acquired thrombocytopenia include increased platelet consumption, sequestration, and/or destruction. In this patient, primary IMMUNE THROMBOCYTOPENIC PURPURA (ITP) is the most likely diagnosis as, other than thrombocytopenia (with associated ecchymosis), her physical examination and laboratory findings are unremarkable. ITP is characterized by the autoimmune destruction of platelets by anti-platelet antibodies, likely IgG autoantibodies against the platelet membrane glycoproteins GPIIb/IIIa. In children, ITP is typically acute and self-limited, whereas it tends to run an insidious and chronic course in adults. A peripheral blood smear with isolated thrombocytopenia and no other platelet abnormalities would help confirm the diagnosis (megakaryocytes can sometimes be seen). Treatment involves systemic immunosuppression (corticosteroids). Secondary ITP is sometimes associated with HIV or hepatitis C infection.\n\n(Choice A) Bone marrow aplasia would cause pancytopenia. It is unlikely that this patient's thrombocytopenia is due to bone marrow failure as the peripheral counts of the hematopoietic cell lines, other than platelets, are normal. Common causes of aplastic anemia include parvovirus and Epstein-Barr virus infections, high-dose chemotherapy, and radiation.\n\n(Choice B) Malignant infiltration of the bone marrow would be expected to cause pancytopenia and extramedullary hematopoiesis within the liver and spleen, leading to hepatosplenomegaly.\n\n(Choice C) If this patient were experiencing accelerated platelet consumption due to disseminated intravascular coagulation, the plasma fibrinogen level would be decreased and the prothrombin time would be elevated due to clotting factor consumption.\n\n(Choice E) Splenic sequestration of platelets typically occurs in disorders that produce splenomegaly, such as portal hypertension; the platelet count usually remains >30,000/mm³, and abnormal bleeding generally does not occur. Although platelets can undergo splenic sequestration in ITP, the primary mechanism responsible for the thrombocytopenia is immune destruction.\n\n(Choice F) In von Willebrand disease, platelet function is impaired because von Willebrand factor, which normally facilitates platelet binding to damaged endothelium, is deficient. The platelet count would be normal (unlike in this patient), and the bleeding time and partial thromboplastin time would be prolonged.\n\nEducational objective:\nAutoimmune platelet destruction is a common cause of thrombocytopenia and should be suspected in patients with ecchymoses, petechiae, mucosal bleeding, and no other obvious causes of thrombocytopenia (eg, medications, bone marrow failure).",
+    "zh": "该患者有反复发作的鼻出血、瘀斑和明显的血小板减少症（正常值150,000-400,000/mm³）。她的血细胞比容、白细胞计数和分类、纤维蛋白原水平以及凝血酶原时间/国际标准化比率均正常。她没有服用任何药物，体格检查没有明显的肝脾肿大。综上所述，这些发现提示孤立性获得性血小板减少症。\n\n获得性血小板减少症的常见原因包括血小板消耗增加、隔离和/或破坏。对于该患者，原发性免疫性血小板减少性紫癜（ITP）是最可能的诊断，因为除血小板减少症（伴有瘀斑）外，她的体格检查和实验室检查结果均无异常。ITP的特征是抗血小板抗体，可能是针对血小板膜糖蛋白GPIIb/IIIa的IgG自身抗体，引起的血小板自身免疫破坏。在儿童中，ITP通常是急性和自限性的，而在成人中，它往往会呈现隐匿性和慢性病程。外周血涂片显示孤立性血小板减少症，没有其他血小板异常，将有助于确诊（有时可以看到巨核细胞）。治疗包括全身免疫抑制（皮质类固醇）。继发性ITP有时与HIV或丙型肝炎感染有关。\n\n（选项A）骨髓发育不全会导致全血细胞减少。该患者的血小板减少症不太可能是由于骨髓衰竭引起的，因为除血小板外，造血细胞系的周围计数均正常。再生障碍性贫血的常见原因包括细小病毒和EB病毒感染、大剂量化疗和放射治疗。\n\n（选项B）恶性细胞浸润骨髓预计会导致全血细胞减少和肝脾内的髓外造血，从而导致肝脾肿大。\n\n（选项C）如果该患者由于弥散性血管内凝血而出现加速的血小板消耗，血浆纤维蛋白原水平将会降低，并且凝血酶原时间会由于凝血因子消耗而升高。\n\n（选项E）血小板的脾脏隔离通常发生在引起脾肿大的疾病中，例如门静脉高压；血小板计数通常保持>30,000/mm³，通常不会发生异常出血。尽管血小板可能在ITP中发生脾脏隔离，但导致血小板减少症的主要机制是免疫破坏。\n\n（选项F）在血管性血友病中，血小板功能受损，因为通常促进血小板与受损内皮结合的血管性血友病因子缺乏。血小板计数将是正常的（与该患者不同），并且出血时间和部分凝血活酶时间将会延长。\n\n教学目标：\n自身免疫性血小板破坏是血小板减少症的常见原因，应在有瘀斑、瘀点、黏膜出血且没有其他明显血小板减少症原因（例如药物、骨髓衰竭）的患者中怀疑。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the etiology and diagnosis of thrombocytopenia, specifically focusing on Immune Thrombocytopenic Purpura (ITP) and its underlying mechanism of immune-mediated platelet destruction.\n\nThe key to solving this question is to recognize the isolated thrombocytopenia in the context of normal hematocrit, leukocyte count, and coagulation studies, which points towards a primary platelet disorder like ITP rather than bone marrow failure, DIC, or other systemic conditions.",
+    "zh": "本题考察了对血小板减少症的病因和诊断的知识，特别是侧重于免疫性血小板减少性紫癜（ITP）及其潜在的免疫介导的血小板破坏机制。\n\n解决此问题的关键在于识别正常血细胞比容、白细胞计数和凝血检查背景下的孤立性血小板减少症，这指向原发性血小板疾病（如ITP），而不是骨髓衰竭、DIC或其他全身性疾病。"
+  },
+  "tags": "Immune thrombocytopenic purpura; Thrombocytopenia; Autoimmune disease; Platelet destruction; Hematology; Bleeding disorders",
+  "category": "Blood",
+  "question_id": "1954",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1954",
+  "extracted_at": "2025-11-05T11:31:35.805476",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:30:45.899180",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

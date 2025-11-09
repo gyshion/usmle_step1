@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old woman comes to the office due to fever, headache, severe muscle aches, and sore throat for the last 4 days. Physical examination shows mild pharyngeal erythema and nasal congestion. A rapid influenza antigen test is positive. The patient's condition improves over the next several days despite receiving only symptomatic treatment. In response to the influenza virus, infected respiratory epithelial cells begin secreting increased quantities of interferons. The specific interferons secreted by these cells will most likely cause which of the following changes? {{exhibit_1}}",
+    "zh": "一名35岁的女性因发烧、头痛、严重的肌肉酸痛和喉咙痛4天前来就诊。体格检查显示轻度咽部红斑和鼻塞。快速流感抗原检测呈阳性。尽管仅接受对症治疗，但患者的病情在接下来的几天内有所改善。为了应对流感病毒，受感染的呼吸道上皮细胞开始分泌大量的干扰素。这些细胞分泌的特定干扰素最有可能引起以下哪种变化？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "The specific interferons secreted by these cells will most likely cause which of the following changes?",
+    "zh": "这些细胞分泌的特定干扰素最有可能引起以下哪种变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased apoptosis of infected cells",
+      "zh": "受感染细胞凋亡减少"
+    },
+    "B": {
+      "en": "Decreased protein synthesis by infected cells",
+      "zh": "受感染细胞的蛋白质合成减少"
+    },
+    "C": {
+      "en": "Increased class II MHC expression",
+      "zh": "II类MHC表达增加"
+    },
+    "D": {
+      "en": "Increased intracellular killing by macrophages",
+      "zh": "巨噬细胞的细胞内杀伤力增强"
+    },
+    "E": {
+      "en": "Increased neutrophil recruitment",
+      "zh": "中性粒细胞募集增加"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Antiviral actions of α and β interferon\n\nType I interferons (α and β) are synthesized by most human cells in response to viral infections. Once secreted, α and β interferons bind to type I interferon receptors found on infected and neighboring cells (autocrine/paracrine signaling). This results in transcription of antiviral enzymes capable of halting protein synthesis, such as RNase L (endonuclease that degrades all RNA in the cell) and protein kinase R (inactivates eIF-2, inhibiting translation initiation). However, these enzymes become active only in the presence of double-stranded RNA, which forms in infected cells as a result of viral replication. As a result, normal metabolism and protein synthesis can continue in uninfected cells but is selectively inhibited in virally infected cells.\n\n(Choice A) Interferons α and β induce MHC class I expression on all cells and stimulate the activity of natural killer (NK) and cytotoxic T cells. These processes act to increase the proportion of virally infected cells that undergo apoptosis.\n\n(Choices C and D) Interferon γ is a type II interferon produced mainly by T cells and NK cells. It promotes Tₕ1 differentiation, increases expression of class II MHC molecules on antigen-presenting cells, and improves the intracellular killing ability of macrophages. However, virally infected respiratory epithelial cells would secrete interferons α and β, not interferon γ.\n\n(Choice E) Neutrophils primarily phagocytize and destroy bacterial and fungal pathogens. They do not play a significant role in fighting viral infections, and α and β interferon release by virally infected cells does not promote neutrophil recruitment.\n\nEducational objective:\nInterferons α and β are produced by most human cells in response to viral infections. The production of α and β interferons helps suppress viral replication by halting protein synthesis and promoting apoptosis of infected cells, limiting the ability of viruses to spread through the tissues.",
+    "zh": "α和β干扰素的抗病毒作用\n\nI型干扰素（α和β）由大多数人体细胞合成，以应对病毒感染。分泌后，α和β干扰素与存在于受感染和邻近细胞（自分泌/旁分泌信号传导）上的I型干扰素受体结合。这会导致转录产生能够阻止蛋白质合成的抗病毒酶，如RNase L（降解细胞中所有RNA的核酸内切酶）和蛋白激酶R（使eIF-2失活，抑制翻译起始）。然而，这些酶只有在双链RNA存在的情况下才会变得活跃，双链RNA是在受感染细胞中由病毒复制产生的。因此，未受感染细胞中的正常代谢和蛋白质合成可以继续进行，但在病毒感染细胞中会受到选择性抑制。\n\n（选项A）α和β干扰素诱导所有细胞上的MHC I类表达，并刺激自然杀伤（NK）细胞和细胞毒性T细胞的活性。这些过程有助于增加发生凋亡的病毒感染细胞的比例。\n\n（选项C和D）γ干扰素是II型干扰素，主要由T细胞和NK细胞产生。它促进Tₕ1分化，增加抗原呈递细胞上II类MHC分子的表达，并提高巨噬细胞的细胞内杀伤能力。然而，病毒感染的呼吸道上皮细胞会分泌α和β干扰素，而不是γ干扰素。\n\n（选项E）中性粒细胞主要吞噬和破坏细菌和真菌病原体。它们在对抗病毒感染方面没有发挥重要作用，而且受病毒感染细胞释放的α和β干扰素不会促进中性粒细胞的募集。\n\n教育目标：\n大多数人体细胞在响应病毒感染时会产生α和β干扰素。α和β干扰素的产生有助于通过阻止蛋白质合成和促进受感染细胞的凋亡来抑制病毒复制，从而限制病毒通过组织传播的能力。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of action of type I interferons (alpha and beta) in response to viral infections, specifically their role in inhibiting viral protein synthesis. The question also requires differentiating between type I and type II interferons and their respective functions.\n\nTo solve this question, recall that type I interferons (alpha and beta) are produced in response to viral infections and act to inhibit viral replication by halting protein synthesis in infected cells. Eliminate options related to type II interferons (gamma) and neutrophil recruitment, as they are not directly involved in the antiviral response mediated by type I interferons.",
+    "zh": "这道题测试了I型干扰素（α和β）在响应病毒感染中的作用机制，特别是它们在抑制病毒蛋白合成中的作用。这道题还需要区分I型和II型干扰素及其各自的功能。\n\n为了解决这个问题，回想一下，I型干扰素（α和β）是在响应病毒感染时产生的，并通过阻止受感染细胞中的蛋白质合成来抑制病毒复制。排除与II型干扰素（γ）和中性粒细胞募集相关的选项，因为它们没有直接参与由I型干扰素介导的抗病毒反应。"
+  },
+  "tags": "Interferons; Viral infections; Protein synthesis; Apoptosis; MHC expression; Innate immunity; Immunology; Respiratory epithelium",
+  "category": "Immunology",
+  "question_id": "1468",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\1468",
+  "extracted_at": "2025-11-05T14:40:31.511466",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:00:22.305762",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,75 @@
+{
+  "question_stem": {
+    "en": "A 53-year-old man comes to the emergency department due to progressively worsening shortness of breath, nonproductive cough, and low-grade fevers over the past 2 weeks. {{exhibit_1}} He has not had a runny nose or sore throat and does not recall any sick contacts. {{exhibit_2}} He received a lung transplant for idiopathic pulmonary fibrosis 4 months ago. His medications include immunosuppressants and trimethoprim-sulfamethoxazole. {{exhibit_3}} Temperature is 37.8 C (100 F). Chest x-ray reveals diffuse interstitial infiltrates bilaterally. A decrease in pulmonary function is noted on testing. {{exhibit_4}} A lung biopsy specimen is shown below. {{exhibit_5}}",
+    "zh": "一名53岁男性因进行性加重的呼吸困难、无痰咳嗽和过去2周内的低热前来急诊科就诊。{{exhibit_1}} 他没有流鼻涕或咽喉痛，并且不记得有任何接触过病人。{{exhibit_2}} 他于4个月前接受了特发性肺纤维化的肺移植。 他的药物包括免疫抑制剂和复方磺胺甲噁唑。{{exhibit_3}} 体温为37.8°C (100°F)。胸部 X 光片显示双侧弥漫性间质浸润。 测试显示肺功能下降。{{exhibit_4}} 肺活检标本如下所示。{{exhibit_5}}"
+  },
+  "question": {
+    "en": "Which of the following best characterizes the organism most likely responsible for this patient's current condition?",
+    "zh": "以下哪项最能描述最有可能导致该患者目前病情的病原体？"
+  },
+  "options": {
+    "A": {
+      "en": "Enveloped double-stranded DNA virus",
+      "zh": "有包膜双链 DNA 病毒"
+    },
+    "B": {
+      "en": "Enveloped single-stranded RNA virus",
+      "zh": "有包膜单链 RNA 病毒"
+    },
+    "C": {
+      "en": "Filamentous gram-positive rods",
+      "zh": "丝状革兰氏阳性杆菌"
+    },
+    "D": {
+      "en": "Nonenveloped double-stranded DNA virus",
+      "zh": "无包膜双链 DNA 病毒"
+    },
+    "E": {
+      "en": "Nonenveloped single-stranded RNA virus",
+      "zh": "无包膜单链 RNA 病毒"
+    },
+    "F": {
+      "en": "Trophic and cystic fungal forms",
+      "zh": "营养型和囊性真菌形式"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The patient is a lung transplant recipient on immunosuppressants, making him susceptible to opportunistic infections. The symptoms of progressive dyspnea, cough, and fever, along with diffuse interstitial infiltrates on chest x-ray, are suggestive of pneumonia. The lung biopsy findings, which include enlarged cells with intranuclear and intracytoplasmic inclusion bodies (owl's eye appearance), are characteristic of Cytomegalovirus (CMV) infection. CMV is an enveloped double-stranded DNA virus belonging to the Herpesviridae family. Therefore, an enveloped double-stranded DNA virus is the most likely organism responsible for the patient's condition. Choices B, D, and E are incorrect because while influenza, rhinovirus, and adenovirus are viruses that can cause respiratory illness, the biopsy findings are not typical for these viruses. Choice C is incorrect because Nocardia and Actinomyces are bacteria that form filamentous branching gram-positive rods, and their typical presentation and biopsy findings differ. Choice F is incorrect because Pneumocystis jirovecii pneumonia (PCP) presents with foamy alveolar material and cystic forms, and while PCP is common in transplant recipients, the biopsy findings are not consistent with PCP.",
+    "zh": "该患者是接受免疫抑制剂治疗的肺移植受者，这使其容易受到机会性感染。进行性呼吸困难、咳嗽和发热的症状，以及胸部 X 光片上的弥漫性间质浸润，提示肺炎。肺活检结果，包括具有核内和胞质内包涵体（猫头鹰眼外观）的肿大细胞，是巨细胞病毒 (CMV) 感染的特征。CMV 是一种有包膜双链 DNA 病毒，属于疱疹病毒科。因此，有包膜双链 DNA 病毒是最有可能导致患者病情的病原体。选项 B、D 和 E 不正确，因为虽然流感病毒、鼻病毒和腺病毒是可引起呼吸道疾病的病毒，但活检结果并非这些病毒的典型表现。选项 C 不正确，因为诺卡菌属和放线菌是形成丝状分支革兰氏阳性杆菌的细菌，它们的典型表现和活检结果有所不同。选项 F 不正确，因为肺孢子虫肺炎 (PCP) 表现为泡沫状肺泡物质和囊性形式，虽然 PCP 在移植受者中很常见，但活检结果与 PCP 不一致。"
+  },
+  "summary": {
+    "en": "A lung transplant recipient presents with symptoms and radiographic findings consistent with pneumonia. Lung biopsy reveals inclusion bodies characteristic of Cytomegalovirus (CMV). CMV is an enveloped double-stranded DNA virus.",
+    "zh": "肺移植受者出现与肺炎一致的症状和影像学表现。肺活检显示巨细胞病毒 (CMV) 特征性的包涵体。CMV 是一种有包膜双链 DNA 病毒。"
+  },
+  "tags": [
+    "transplant",
+    "pneumonia",
+    "CMV",
+    "opportunistic infection",
+    "virology",
+    "histopathology"
+  ],
+  "category": "Chest",
+  "question_id": "1576",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1576",
+  "extracted_at": "2025-11-05T19:18:38.182521",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:36:03.619203",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

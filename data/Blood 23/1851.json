@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 5-year-old boy is brought to the emergency department due to 2 days of dark, low-volume urine and decreased energy. The parents say that the boy had abdominal pain, fever, and bloody diarrhea for 4 days, which resolved about 3 days ago without treatment. The day before the onset of symptoms, the patient swam in a lake and ate hamburgers at a family picnic. His vital signs are within normal limits. Physical examination shows pallor but is otherwise normal. He has no peripheral edema or rashes. Laboratory evaluation shows anemia, thrombocytopenia, and elevated blood urea nitrogen and serum creatinine. Which of the following findings is most likely to be seen in this patient?",
+    "zh": "一名5岁男孩因2天来尿色深、尿量少且精力下降被送往急诊科。父母说，该男孩腹痛、发烧和血性腹泻4天，大约3天前未经治疗自愈。在症状发作前一天，患者在湖里游泳并在家庭野餐时吃了汉堡。他的生命体征在正常范围内。体格检查显示苍白，但其他方面均正常。他没有外周水肿或皮疹。实验室评估显示贫血、血小板减少症以及血尿素氮和血清肌酐升高。该患者最有可能出现以下哪种表现？"
+  },
+  "question": {
+    "en": "Which of the following findings is most likely to be seen in this patient?",
+    "zh": "该患者最有可能出现以下哪种表现？"
+  },
+  "options": {
+    "A": {
+      "en": "Elevated haptoglobin level",
+      "zh": "触珠蛋白水平升高"
+    },
+    "B": {
+      "en": "Elevated serum indirect bilirubin",
+      "zh": "血清间接胆红素升高"
+    },
+    "C": {
+      "en": "Elevated thrombin and prothrombin time",
+      "zh": "凝血酶和凝血酶原时间延长"
+    },
+    "D": {
+      "en": "Low fibrinogen and elevated D-dimer level",
+      "zh": "纤维蛋白原降低和D-二聚体水平升高"
+    },
+    "E": {
+      "en": "Positive Coombs test",
+      "zh": "Coombs试验阳性"
+    },
+    "F": {
+      "en": "Positive Streptozyme test",
+      "zh": "链球菌酶试验阳性"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has hemolytic uremic syndrome (HUS), which is most often caused by infection with shiga toxin-producing organisms such as Escherichia coli O157:H7 or Shigella dysenteriae. Shiga toxin (verotoxin) enters the circulation from the bowel and induces capillary endothelial damage, resulting in platelet activation with the formation of microthrombi. Platelet consumption causes thrombocytopenia whereas the microthrombi lead to erythrocyte damage (forming schistocytes) and the resultant hemolytic anemia (eg, pallor, weakness, tachycardia). Damage to glomerular endothelial cells also causes acute kidney injury (eg, oliguria/anuria, increased creatinine) in approximately 50% of cases. {{exhibit_1}}\n\nThe hemolytic anemia in HUS causes decreased hemoglobin and haptoglobin levels as well as increased serum lactate dehydrogenase and unconjugated bilirubin levels (Choice A). The bleeding time may also be increased due to the reduced number of platelets. However, other coagulation studies are normal as there are no clotting factor deficiencies or disseminated intravascular coagulation associated with HUS (Choices C and D).\n\n(Choice E) Coombs test, or direct antiglobulin test, detects autoantibodies against red blood cells if they are present in the serum. The hemolytic anemia of HUS syndrome is mechanical rather than autoimmune; therefore, the Coombs test is negative.\n\n(Choice F) Streptozyme testing detects antibodies against group A Streptococcus and can be used to retrospectively diagnose streptococcal infections (eg, when evaluating for post-streptococcal glomerulonephritis [PSGN]). However, children with PSGN have edema and hypertension, but no hemolytic anemia.\n\nEducational objective:\nHemolytic uremic syndrome (HUS) manifests with acute kidney injury, microangiopathic hemolytic anemia, and thrombocytopenia. Characteristic laboratory abnormalities include decreased hemoglobin and platelet count and increased bleeding time, lactate dehydrogenase, bilirubin. blood urea nitrogen, and creatinine.",
+    "zh": "该患者患有溶血性尿毒症综合征(HUS)，这通常是由产志贺毒素的生物体(如大肠杆菌O157:H7或痢疾志贺菌)感染引起的。志贺毒素（维罗毒素）从肠道进入循环系统，诱导毛细血管内皮损伤，导致血小板活化并形成微血栓。血小板消耗导致血小板减少症，而微血栓导致红细胞损伤（形成裂红细胞），进而导致溶血性贫血（如苍白、虚弱、心动过速）。肾小球内皮细胞的损伤也会导致急性肾损伤（如少尿/无尿、肌酐升高），约占病例的50%。 {{exhibit_1}}\n\nHUS中的溶血性贫血导致血红蛋白和触珠蛋白水平降低，以及血清乳酸脱氢酶和非结合胆红素水平升高（选项A）。由于血小板数量减少，出血时间也可能延长。然而，其他凝血研究结果正常，因为HUS没有凝血因子缺乏或弥散性血管内凝血（选项C和D）。\n\n（选项E）Coombs试验，或直接抗球蛋白试验，如果血清中存在针对红细胞的自身抗体，则可检测到这些抗体。HUS综合征的溶血性贫血是机械性的而不是自身免疫性的；因此，Coombs试验结果为阴性。\n\n（选项F）链球菌酶检测可检测针对A组链球菌的抗体，可用于回顾性诊断链球菌感染（例如，在评估链球菌感染后肾小球肾炎[PSGN]时）。然而，PSGN患儿有水肿和高血压，但无溶血性贫血。\n\n教育目的：\n溶血性尿毒症综合征(HUS)表现为急性肾损伤、微血管病性溶血性贫血和血小板减少症。特征性实验室异常包括血红蛋白和血小板计数降低，出血时间、乳酸脱氢酶、胆红素、血尿素氮和肌酐升高。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hemolytic uremic syndrome (HUS), its etiology, clinical features, and laboratory findings. HUS is characterized by acute kidney injury, microangiopathic hemolytic anemia, and thrombocytopenia, often following a diarrheal illness caused by Shiga toxin-producing bacteria. \n\nTo solve this question, recognize the clinical presentation suggestive of HUS, including bloody diarrhea followed by signs of hemolytic anemia and acute kidney injury. Recall the expected laboratory abnormalities, such as elevated indirect bilirubin due to hemolysis, and rule out other conditions based on the provided information.",
+    "zh": "此题考察对溶血性尿毒症综合征(HUS)的认识，包括其病因、临床特征和实验室检查结果。HUS的特征是急性肾损伤、微血管病性溶血性贫血和血小板减少症，通常继发于由产志贺毒素细菌引起的腹泻疾病。\n\n要解决此题，需要识别提示HUS的临床表现，包括血性腹泻后出现溶血性贫血和急性肾损伤的体征。回想预期的实验室异常，例如由于溶血引起的间接胆红素升高，并根据所提供的信息排除其他情况。"
+  },
+  "tags": "Hemolytic uremic syndrome; HUS; Escherichia coli O157:H7; Shigella dysenteriae; Hemolytic anemia; Thrombocytopenia; Acute kidney injury; Microangiopathic hemolytic anemia; Pediatrics; Nephrology",
+  "category": "Blood",
+  "question_id": "1851",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1851",
+  "extracted_at": "2025-11-05T11:28:34.219216",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:29:32.787521",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

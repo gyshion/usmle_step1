@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old man comes to the emergency department due to a 2-day history of increasing fatigue and exertional dyspnea. He also reports yellowish discoloration of the eyes and dark urine. Five days ago, the patient learned that he has HIV. His viral load is 240,000 copies/mL, and his CD4 count is 180 cells/mm³. The patient started antiretroviral therapy that day and started taking dapsone for *Pneumocystis jiroveci* pneumonia prophylaxis. He is allergic to sulfonamides. Temperature is 37 C (98.6 F), blood pressure is 116/76 mm Hg, and pulse is 104/min. Mild scleral icterus and pale oral mucous membranes are noted on examination. The abdomen is nontender, and there is no organomegaly. Laboratory results are as follows: {{exhibit_1}}\n\nHemoglobin\n9 g/dL\nMean corpuscular volume\n85 µm³",
+    "zh": "一名24岁男性因2天来进行性加重的疲劳和劳力性呼吸困难来急诊科就诊。他还报告眼睛发黄和尿色深。五天前，患者得知自己感染了HIV。他的病毒载量为240,000拷贝/mL，CD4计数为180个细胞/mm³。患者当天开始抗逆转录病毒治疗，并开始服用氨苯砜预防*肺孢子虫*肺炎。他对磺胺类药物过敏。体温37°C（98.6°F），血压116/76 mm Hg，脉搏104/min。体格检查显示轻度巩膜黄疸和口腔黏膜苍白。腹部无压痛，无脏器肿大。实验室检查结果如下：{{exhibit_1}}\n\n血红蛋白\n9 g/dL\n平均红细胞体积\n85 µm³"
+  },
+  "question": {
+    "en": "Which of the following additional findings are most likely to be present in this patient?",
+    "zh": "该患者最有可能出现以下哪种附加发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased; Increased; Normal; Redundant cell membrane",
+      "zh": "降低；升高；正常；多余的细胞膜"
+    },
+    "B": {
+      "en": "Decreased; Normal; Normal; Submembranous vacuoles",
+      "zh": "降低；正常；正常；膜下空泡"
+    },
+    "C": {
+      "en": "Increased; Increased; Decreased; Basophilic nuclear remnants",
+      "zh": "升高；升高；降低；嗜碱性核残余物"
+    },
+    "D": {
+      "en": "Increased; Increased; Decreased; Denatured hemoglobin inclusions",
+      "zh": "升高；升高；降低；变性血红蛋白包涵体"
+    },
+    "E": {
+      "en": "Increased; Normal; Normal; Spherical cells",
+      "zh": "升高；正常；正常；球形红细胞"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient took dapsone and developed signs of anemia (eg, fatigue, dyspnea) and hemolysis (eg, yellow skin, dark urine, scleral icterus), indicating likely GLUCOSE-6-PHOSPHATE DEHYDROGENASE (G6PD) DEFICIENCY, a common X-linked recessive disorder. G6PD catalyzes production of NADPH for glutathione metabolism in erythrocytes; loss of G6PD function lowers the concentration of reduced glutathione, which increases erythrocyte susceptibility to oxidative injury.\n\nPatients with G6PD deficiency are usually asymptomatic until they are exposed to an oxidative trigger such as acute infection or new foods (eg, fava beans) or medications (eg, dapsone, primaquine). The oxidative stressor overwhelms the reductive capacity of older erythrocytes, leading to hemoglobin oxidation, precipitation, and subsequent intra/extravascular hemolysis. Other findings include:\n\n*   Normocytic anemia\n*   Increased reticulocyte (immature red blood cell [RBC]) production by bone marrow in response to the anemia\n*   Intravascular breakdown products of RBCs, including lactate dehydrogenase (LDH) and hemoglobin (dark urine due to increased excretion of hemoglobin)\n*   Decreased haptoglobin (binds free circulating hemoglobin)\n*   Hemoglobin degradation (heme → biliverdin → bilirubin) resulting in elevated indirect bilirubin (eg, jaundice, scleral icterus)\n*   Heinz bodies (inclusions of denatured hemoglobin seen after oxidative damage) and bite cells and blister cells (caused by phagocytic removal of oxidized RBC components within the spleen) on peripheral smear. {{exhibit_2}}\n\n(Choice A) Abnormal globin production in thalassemia can cause hemolysis, but patients would have microcytic (not normocytic) anemia. Thalassemia is marked by ineffective erythropoiesis (low reticulocyte count) and erythrocytes with redundant membranes (target cells).\n\n(Choice B) Erythrocytes with submembranous vacuoles are often called blister cells. Although these can occur in patients with G6PD deficiency, elevated LDH and low haptoglobin would also be present.\n\n(Choice C) Howell-Jolly bodies are basophilic nuclear remnants normally removed by the spleen. Their presence on peripheral smear usually indicates an absent (postsplenectomy) or functionally absent spleen. This patient with acute hemolysis following medication exposure likely has G6PD deficiency, which does not cause splenic dysfunction.\n\n(Choice E) Spherocytes can be seen in hemolytic processes (eg, hereditary spherocytosis) and other conditions in which there is splenic removal of portions of the cell membrane (eg, autoimmune hemolytic anemia, G6PD deficiency). However, normal LDH and haptoglobin are not expected during active hemolysis. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}}",
+    "zh": "该患者服用了氨苯砜，并出现贫血（如，疲劳、呼吸困难）和溶血（如，皮肤发黄、尿色深、巩膜黄疸）的体征，提示可能存在葡萄糖-6-磷酸脱氢酶（G6PD）缺乏症，这是一种常见的X连锁隐性遗传病。G6PD催化红细胞中NADPH的生成，用于谷胱甘肽代谢；G6PD功能丧失会降低还原型谷胱甘肽的浓度，从而增加红细胞对氧化损伤的易感性。\n\nG6PD缺乏症患者通常无症状，直到他们接触到氧化触发因素，如急性感染或新食物（如，蚕豆）或药物（如，氨苯砜、伯氨喹）。氧化应激会超过老年红细胞的还原能力，导致血红蛋白氧化、沉淀和随后的血管内/外溶血。其他发现包括：\n\n*   正细胞性贫血\n*   骨髓对贫血的反应导致网织红细胞（未成熟红细胞[RBC]）生成增加\n*   红细胞的血管内分解产物，包括乳酸脱氢酶（LDH）和血红蛋白（尿色深是由于血红蛋白排泄增加）\n*   触珠蛋白降低（结合游离循环血红蛋白）\n*   血红蛋白降解（血红素→胆绿素→胆红素），导致间接胆红素升高（如，黄疸、巩膜黄疸）\n*   外周血涂片上可见海因茨小体（氧化损伤后可见的变性血红蛋白包涵体）以及咬痕细胞和水疱细胞（由脾脏内氧化红细胞成分的吞噬性清除引起）。{{exhibit_2}}\n\n（选项A）珠蛋白生成异常会导致地中海贫血中的溶血，但患者会出现小细胞性（而非正细胞性）贫血。地中海贫血的特征是无效红细胞生成（网织红细胞计数低）和具有多余膜的红细胞（靶细胞）。\n\n（选项B）具有膜下空泡的红细胞通常被称为水疱细胞。虽然这些细胞可能出现在G6PD缺乏症患者中，但LDH升高和触珠蛋白降低也会出现。\n\n（选项C）Howell-Jolly小体是嗜碱性核残余物，通常由脾脏清除。它们出现在外周血涂片上通常表明脾脏缺失（脾切除术后）或功能性缺失。该患者在药物暴露后出现急性溶血，可能患有G6PD缺乏症，这不会导致脾功能障碍。\n\n（选项E）球形红细胞可见于溶血过程（如，遗传性球形红细胞增多症）和其他情况，在这种情况下，会发生脾脏清除细胞膜的部分（如，自身免疫性溶血性贫血、G6PD缺乏症）。然而，在活动性溶血期间，不会出现正常的LDH和触珠蛋白。{{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Glucose-6-phosphate dehydrogenase (G6PD) deficiency, its presentation with hemolytic anemia, and associated laboratory findings. It requires understanding the mechanism of hemolysis in G6PD deficiency and the expected changes in reticulocyte count, LDH, haptoglobin, and peripheral smear findings. \n\nTo solve this question, recognize the patient's risk factors (dapsone use, HIV), symptoms of hemolysis (fatigue, dyspnea, jaundice, dark urine), and laboratory evidence of anemia. Recall that G6PD deficiency leads to increased reticulocyte count, increased LDH, decreased haptoglobin, and denatured hemoglobin inclusions (Heinz bodies) on peripheral smear.",
+    "zh": "本题考察对葡萄糖-6-磷酸脱氢酶 (G6PD) 缺乏症的了解，其表现为溶血性贫血，以及相关的实验室检查结果。它要求理解G6PD缺乏症中溶血的机制以及网织红细胞计数、LDH、触珠蛋白和外周血涂片结果的预期变化。\n\n要解决这个问题，需要认识到患者的危险因素（使用氨苯砜、HIV）、溶血的症状（疲劳、呼吸困难、黄疸、尿色深）和贫血的实验室证据。回想一下，G6PD缺乏症会导致网织红细胞计数升高、LDH升高、触珠蛋白降低，并在外周血涂片上出现变性血红蛋白包涵体（海因茨小体）。"
+  },
+  "tags": "Glucose-6-phosphate dehydrogenase deficiency; Hemolytic anemia; Dapsone; HIV; Reticulocytes; Lactate dehydrogenase; Haptoglobin; Peripheral smear; Heinz bodies",
+  "category": "Blood",
+  "question_id": "19137",
+  "has_exhibits": true,
+  "exhibit_count": 7,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\19137",
+  "extracted_at": "2025-11-05T13:32:32.771963",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:30:24.553758",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

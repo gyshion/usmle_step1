@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 5-year-old girl is brought to the office by her mother because she is concerned that her daughter \"sunburns too easily.\" The mother says the patient's skin becomes red and scaly with only minimal sun exposure. She first noticed the problem when her daughter was 7 months old during a trip to the beach. The mother has since avoided exposing her child to excess sunlight, but finds it difficult now that the patient has begun kindergarten. Physical examination shows thin and hyperpigmented skin. She also has a few nevi on her hands that have been enlarging rapidly. This patient's disorder is most likely due to a primary defect involving which of the following processes? {{exhibit_1}}",
+    "zh": "一位5岁女孩由其母亲带到诊所，因为母亲担心她的女儿“很容易晒伤”。母亲说，患者的皮肤在只有轻微的阳光照射下就会变得发红和鳞屑。她第一次注意到这个问题是在女儿7个月大的时候去海滩旅行时。从那以后，母亲一直避免让孩子暴露在过多的阳光下，但现在患者已经开始上幼儿园，她发现这很困难。体格检查显示皮肤薄而色素沉着。她的手上也有几个痣，这些痣正在迅速扩大。该患者的疾病最可能由于主要缺陷涉及以下哪种过程？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "This patient's disorder is most likely due to a primary defect involving which of the following processes?",
+    "zh": "该患者的疾病最可能由于主要缺陷涉及以下哪种过程？"
+  },
+  "options": {
+    "A": {
+      "en": "DNA mismatch repair",
+      "zh": "DNA错配修复"
+    },
+    "B": {
+      "en": "Nucleotide excision repair",
+      "zh": "核苷酸切除修复"
+    },
+    "C": {
+      "en": "Ras signal transduction",
+      "zh": "Ras信号转导"
+    },
+    "D": {
+      "en": "Regulation of apoptosis",
+      "zh": "细胞凋亡调控"
+    },
+    "E": {
+      "en": "Regulation of cell cycle",
+      "zh": "细胞周期调控"
+    },
+    "F": {
+      "en": "Repair of DNA crosslinks",
+      "zh": "DNA交联修复"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient likely has **xeroderma pigmentosum**, a rare autosomal recessive disorder that occurs due to defective nucleotide excision repair of DNA damaged by **ultraviolet (UV) light**. Normally, the regions of DNA damaged by UV radiation are excised and replaced by a series of DNA repair enzymes. In xeroderma pigmentosum, this process is impaired and leads to the accumulation of abnormal pyrimidine nucleotides and other carcinogenic adducts.\n\nThe skin of affected individuals is normal at birth, but they present during the first year of life with severe sun sensitivity (eg, erythema, scaling) affecting light-exposed areas, especially the face. Later, the skin shows atrophy, telangiectasias, and intermingling areas of hypo- and hyperpigmentation due to chronic UV damage. **Skin malignancies**, including malignant melanoma and squamous and basal cell carcinoma, develop as early as ages 5-6.\n\n(Choice A) Abnormalities of genes responsible for DNA mismatch repair are found in patients with hereditary nonpolyposis colorectal cancer (HNPCC, or Lynch syndrome). These patients have a greater incidence of colorectal, endometrial, and ovarian cancer.\n\n(Choice C) Ras codes for a G protein that regulates growth factor signal transduction. Mutations that result in a constitutively activated Ras protein cause constant and unregulated cell proliferation, leading to malignancy (particularly pancreatic and colorectal cancer).\n\n(Choices D and E) p53 is a regulatory protein that halts cell cycle progression when DNA is damaged, allowing time for the DNA to be repaired. When the damage is irreversible, apoptosis is triggered. Acquired p53 mutations are found in the majority of spontaneous cancers, whereas inherited p53 mutations are responsible for Li-Fraumeni syndrome (which causes a wide range of malignancies at a young age).\n\n(Choice F) Fanconi anemia is an autosomal recessive condition caused by mutations in the genes responsible for the repair of interstrand DNA crosslinks. It is the most common inherited cause of aplastic anemia and presents with short stature, absent thumbs, and increased malignancy risk.",
+    "zh": "该患者可能患有**色素性干皮病**，这是一种罕见的常染色体隐性遗传病，由受**紫外线(UV)光**损伤的DNA的核苷酸切除修复缺陷引起。通常，由紫外线辐射损伤的DNA区域被切除，并被一系列DNA修复酶取代。在色素性干皮病中，此过程受损，导致异常嘧啶核苷酸和其他致癌加合物的积累。\n\n受影响个体的皮肤在出生时是正常的，但在生命的头一年，他们表现出严重的日光敏感性（例如，红斑、脱屑），影响光照区域，尤其是面部。后来，由于慢性紫外线损伤，皮肤出现萎缩、毛细血管扩张和色素减退和色素沉着过度相互交织的区域。包括恶性黑色素瘤、鳞状细胞癌和基底细胞癌在内的**皮肤恶性肿瘤**在5-6岁时就会出现。\n\n(选项A) 负责DNA错配修复的基因的异常在患有遗传性非息肉病性结直肠癌（HNPCC，或Lynch综合征）的患者中发现。这些患者患结直肠癌、子宫内膜癌和卵巢癌的发生率更高。\n\n(选项C) Ras编码一种调节生长因子信号转导的G蛋白。导致组成性激活的Ras蛋白的突变会导致持续且不受控制的细胞增殖，从而导致恶性肿瘤（特别是胰腺癌和结直肠癌）。\n\n(选项D和E) p53是一种调节蛋白，当DNA受损时会阻止细胞周期进展，从而为DNA修复提供时间。当损伤不可逆转时，会触发细胞凋亡。获得性p53突变见于大多数自发性癌症，而遗传性p53突变是Li-Fraumeni综合征（导致多种恶性肿瘤，在年轻时发病）的原因。\n\n(选项F) Fanconi贫血是一种常染色体隐性遗传病，由负责修复链间DNA交联的基因突变引起。它是再生障碍性贫血最常见的遗传原因，表现为身材矮小、拇指缺失和恶性肿瘤风险增加。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of xeroderma pigmentosum, an autosomal recessive disorder caused by defective nucleotide excision repair of DNA damaged by ultraviolet (UV) light. It also tests the ability to differentiate this condition from other genetic disorders with increased cancer risk.\n\nTo solve this question, recognize the key features of xeroderma pigmentosum: extreme sun sensitivity, early onset of skin malignancies, and the underlying defect in nucleotide excision repair. Rule out other genetic disorders based on their distinct clinical presentations and molecular mechanisms.",
+    "zh": "这个问题测试对色素性干皮病的了解，这是一种由紫外线（UV）光损伤的DNA的核苷酸切除修复缺陷引起的常染色体隐性遗传病。它还测试了将这种情况与其他癌症风险增加的遗传疾病区分开来的能力。\n\n要解决这个问题，需要认识到色素性干皮病的关键特征：极度日光敏感、皮肤恶性肿瘤的早期发病以及核苷酸切除修复的潜在缺陷。根据其他遗传疾病的独特临床表现和分子机制，排除它们。"
+  },
+  "tags": "Xeroderma pigmentosum; Nucleotide excision repair; DNA repair; Ultraviolet radiation; Skin cancer; Autosomal recessive; Genetics; Dermatology",
+  "category": "Bio",
+  "question_id": "883",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\883",
+  "extracted_at": "2025-11-05T11:16:50.507580",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:24:49.891584",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

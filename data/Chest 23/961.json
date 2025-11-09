@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "Several residents of a long-term care facility develop febrile illness within a short period of time. Symptoms include fever, nonproductive cough, myalgia, rigors, dyspnea, and diarrhea. Organisms found in induced sputum samples stain poorly with Gram stain but are visualized easily using silver stain. Urine testing for bacterial antigens is positive in most of the affected individuals.",
+    "zh": "一家长期护理机构的几名居民在短时间内出现发热性疾病。症状包括发热、无痰性咳嗽、肌痛、寒战、呼吸困难和腹泻。在诱导痰液样本中发现的病原体革兰染色较差，但使用银染很容易观察到。大多数受影响个体的细菌抗原尿检呈阳性。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely source of this outbreak?",
+    "zh": "以下哪项是此次疫情最可能的来源？"
+  },
+  "options": {
+    "A": {
+      "en": "Anterior nares of colonized staff",
+      "zh": "被定植的医护人员的前鼻孔"
+    },
+    "B": {
+      "en": "Building water-distribution system",
+      "zh": "建筑物供水系统"
+    },
+    "C": {
+      "en": "Contaminated ready-to-eat food",
+      "zh": "受污染的即食食品"
+    },
+    "D": {
+      "en": "Nasopharynx of infected resident",
+      "zh": "受感染居民的鼻咽"
+    },
+    "E": {
+      "en": "Skin flora of affected residents",
+      "zh": "受影响居民的皮肤菌群"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Legionella pneumophila is a frequent contaminant of natural bodies of water, municipal water supplies, and water-based cooling systems found in commercial and hospital settings. Aerosolization and subsequent inhalation of contaminated water can lead to outbreaks of LEGIONELLA pneumonia. Common nosocomial sources of infection include showers/baths, cooling towers, nasogastric tubes, ventilators, nebulizers, and other respiratory therapy equipment. Cigarette smoking and chronic lung disease increase the risk for infection.\n\n(Choice A) Staphylococcus aureus colonizes the anterior nares and can spread from asymptomatic carriers to hospitalized patients or other individuals. Although methicillin-resistant S aureus can cause severe, rapidly progressive pneumonia, the organism appears as gram-positive cocci in clusters.\n\n(Choice C) Listeria can be transmitted by contaminated ready-to-eat food. It is associated with febrile diarrhea and is poorly visualized by Gram stain. However, the diagnosis is usually made by visualizing the organism on light microscopy (tumbling motility) or identifying it on blood or cerebrospinal fluid culture. It is not typically identified by sputum sample silver stain or urine antigen testing.\n\n(Choice D) Influenza colonizes the nasopharynx, and outbreaks are common in long-term care facilities and other cohabitated settings. Although influenza often causes nonspecific symptoms (eg, myalgia, malaise, fever) and cough, the virus is typically diagnosed by antigen testing from a nasopharyngeal swab.\n\n(Choice E) Widespread use of long-term intravascular devices increases the risk of catheter-related bacteremia and sepsis with skin flora such as coagulase-negative staphylococci and S aureus. Bacteremia is typically identified by Gram stain and culture of peripheral blood.\n\nEducational objective:\nLegionella pneumophila commonly contaminates natural bodies of water, municipal water supplies, and water-based cooling systems. The organism is inhaled in aerosolized water and establishes infection via the pulmonary route. Diagnosis is generally made by urine antigen testing, silver stain, or culture on buffered charcoal yeast extract agar supplemented with L-cysteine and iron.",
+    "zh": "嗜肺军团菌是天然水体、市政供水系统以及商业和医院环境中水基冷却系统的常见污染物。受污染水的气溶胶化和随后的吸入可导致军团菌肺炎爆发。常见的医院内感染源包括淋浴/浴池、冷却塔、鼻饲管、呼吸机、雾化器和其他呼吸治疗设备。吸烟和慢性肺病会增加感染风险。\n\n(选项 A) 金黄色葡萄球菌定植于前鼻孔，可从无症状携带者传播给住院患者或其他个体。尽管耐甲氧西林金黄色葡萄球菌可引起严重的、快速进展的肺炎，但该病原体表现为簇状革兰阳性球菌。\n\n(选项 C) 李斯特菌可通过受污染的即食食品传播。它与发热性腹泻有关，并且革兰染色显示不佳。然而，诊断通常是通过在光学显微镜下观察病原体（翻滚运动）或通过血液或脑脊液培养鉴定。它通常不能通过痰液样本银染或尿抗原检测进行鉴定。\n\n(选项 D) 流感定植于鼻咽，在长期护理机构和其他共住环境中爆发常见。尽管流感通常会引起非特异性症状（例如，肌痛、不适、发热）和咳嗽，但该病毒通常通过鼻咽拭子的抗原检测进行诊断。\n\n(选项 E) 长期使用血管内设备会增加与皮肤菌群相关的导管相关性菌血症和败血症的风险，如凝固酶阴性葡萄球菌和金黄色葡萄球菌。菌血症通常通过革兰染色和外周血培养进行鉴定。\n\n教育目标：\n嗜肺军团菌通常污染天然水体、市政供水系统和水基冷却系统。该病原体通过气溶胶化水吸入，并通过肺途径建立感染。诊断通常通过尿抗原检测、银染或在补充有 L-半胱氨酸和铁的缓冲炭酵母提取物琼脂上培养进行。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Legionella pneumonia outbreaks, specifically the common sources of infection and diagnostic methods. It requires recognizing the clinical presentation and linking it to the most likely environmental source in a long-term care facility. \n\nTo solve this question, focus on the clues in the vignette: the setting (long-term care), the symptoms (fever, nonproductive cough, diarrhea), and the diagnostic findings (poor Gram stain, positive silver stain, positive urine antigen). These point towards Legionella, which is commonly found in water distribution systems.",
+    "zh": "这道题考察了对军团菌肺炎爆发的知识，特别是常见的感染源和诊断方法。它要求识别临床表现，并将其与长期护理机构中最可能的环境来源联系起来。\n\n要解决这个问题，请关注短文中的线索：环境（长期护理）、症状（发热、无痰性咳嗽、腹泻）和诊断结果（革兰染色差、银染阳性、尿抗原阳性）。这些都指向了军团菌，军团菌通常存在于供水系统中。"
+  },
+  "tags": "Legionella pneumophila; Legionnaires' disease; Water distribution system; Silver stain; Urine antigen test; Pneumonia; Long-term care facility; Infectious disease; Public health",
+  "category": "Chest",
+  "question_id": "961",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\961",
+  "extracted_at": "2025-11-05T11:49:31.735884",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:43:04.576037",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

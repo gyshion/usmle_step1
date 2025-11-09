@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old man is evaluated for worsening cough, shortness of breath, and episodic hemoptysis over the past 6 months. The patient has also had a 15-kg (33-lb) weight loss over the same period without any change in diet or activity level. He has a 50-pack-year smoking history and does not use alcohol or illicit drugs. BMI is 18 kg/m^2. The patient appears cachectic with temporal wasting and generalized loss of muscle mass. Chest x-ray reveals a large lung mass with mediastinal lymphadenopathy and pleural effusion. Which of the following cellular processes is most likely responsible for this patient's muscle loss? {{exhibit_1}}",
+    "zh": "一名62岁男性因过去6个月来咳嗽加重、呼吸困难和阵发性咯血而就诊。患者在同一时期内也出现了15公斤（33磅）的体重下降，而饮食或活动水平没有任何改变。他有50包年的吸烟史，不饮酒或吸食违禁药物。BMI为18 kg/m^2。患者表现为恶病质，伴有颞肌萎缩和全身肌肉质量下降。胸部X光片显示一个大的肺部肿块，伴有纵隔淋巴结病和胸腔积液。以下哪种细胞过程最有可能导致该患者的肌肉损失？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following cellular processes is most likely responsible for this patient's muscle loss?",
+    "zh": "以下哪种细胞过程最有可能导致该患者的肌肉损失？"
+  },
+  "options": {
+    "A": {
+      "en": "Covalent attachment of ubiquitin to muscle proteins",
+      "zh": "泛素共价结合到肌肉蛋白上"
+    },
+    "B": {
+      "en": "Plasma membrane rupture with leakage of cellular contents",
+      "zh": "细胞膜破裂，细胞内容物泄漏"
+    },
+    "C": {
+      "en": "Plasma membrane instability due to defective dystrophin",
+      "zh": "由于肌营养不良蛋白缺陷导致细胞膜不稳定"
+    },
+    "D": {
+      "en": "Progressive shortening of chromosomal telomeres",
+      "zh": "染色体端粒进行性缩短"
+    },
+    "E": {
+      "en": "Reprogramming of undifferentiated mesenchymal cells",
+      "zh": "未分化间充质细胞的重编程"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient who has a 50-pack-year smoking history and a mediastinal mass likely has muscle atrophy due to cancer-related cachexia. Cachexia is a hypermetabolic state driven by elevated pro-inflammatory cytokines (eg, tumor necrosis factor-alpha, interleukin-6), which stimulate the ubiquitin-proteasome pathway to degrade skeletal muscle proteins (eg, actin, myosin). {{exhibit_2}} The ubiquitin-proteasome pathway is the major eukaryotic mechanism for selective proteolysis (the destruction of targeted proteins). The addition of ubiquitin multimers to a target protein marks it for rapid destruction by the proteasome, whereby the protein is then unfolded within the proteasome core and chopped into small oligopeptides. These oligopeptides can be further degraded by cytosolic peptidases into individual amino acids. Other proteolytic pathways play a less prominent role in the degradation of muscle tissue. Lysosomes, membrane-bound organelles that contain proteases and other digestive enzymes, are primarily tasked with breaking down extracellular components that are brought into the cell via endocytosis and with slowly recycling obsolete cytosolic organelles and debris. {{exhibit_3}}",
+    "zh": "该患者有50包年的吸烟史和纵隔肿块，很可能由于癌症相关的恶病质而出现肌肉萎缩。恶病质是一种高代谢状态，由促炎细胞因子（如肿瘤坏死因子-α、白介素-6）升高驱动，这些细胞因子刺激泛素-蛋白酶体途径降解骨骼肌蛋白（如肌动蛋白、肌球蛋白）。{{exhibit_2}} 泛素-蛋白酶体途径是选择性蛋白水解（靶向蛋白的破坏）的主要真核机制。将泛素多聚体添加到靶蛋白上，标志着它将被蛋白酶体迅速破坏，蛋白在蛋白酶体核心内展开并被切成小的寡肽。这些寡肽可以被细胞质肽酶进一步降解为单个氨基酸。其他蛋白水解途径在肌肉组织的降解中作用较小。溶酶体是含有蛋白酶和其他消化酶的膜结合细胞器，主要负责分解通过胞吞作用进入细胞的细胞外成分，并缓慢回收过时的细胞质细胞器和碎片。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "The patient's muscle loss is likely due to cancer-related cachexia, which involves the ubiquitin-proteasome pathway degrading skeletal muscle proteins. This pathway is the primary mechanism for selective protein degradation in eukaryotic cells.",
+    "zh": "患者的肌肉损失可能与癌症相关的恶病质有关，这涉及泛素-蛋白酶体途径降解骨骼肌蛋白。该途径是真核细胞中选择性蛋白降解的主要机制。"
+  },
+  "tags": [
+    "cachexia",
+    "ubiquitin-proteasome pathway",
+    "protein degradation",
+    "cancer",
+    "muscle atrophy"
+  ],
+  "category": "Pathology",
+  "question_id": "14772",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\14772",
+  "extracted_at": "2025-11-05T19:43:45.451051",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:45:24.189692",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

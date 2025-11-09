@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 12-year-old boy is evaluated for chronic headaches and visual changes. The headaches have progressively worsened over the past year and are associated with nausea. The patient's parents are especially concerned as his symptoms have been interfering with his coursework in middle school. An intracranial calcified mass is detected on brain imaging {{exhibit_1}}. The mass is surgically removed and on gross inspection shows cystic spaces filled with thick, brownish-yellow fluid that is rich in cholesterol.",
+    "zh": "一名12岁男孩因慢性头痛和视力改变就诊。过去一年来，头痛逐渐加重，并伴有恶心。患者的父母特别担心他的症状会影响他在中学的课程。脑成像显示颅内钙化肿块 {{exhibit_1}}。肿块经手术切除，肉眼检查显示囊性腔隙，充满浓稠的棕黄色液体，富含胆固醇。"
+  },
+  "question": {
+    "en": "This mass is most likely derived from cells responsible for forming which of the following structures?",
+    "zh": "这种肿块最有可能源于负责形成以下哪种结构的细胞？"
+  },
+  "options": {
+    "A": {
+      "en": "Anterior pituitary",
+      "zh": "垂体前叶"
+    },
+    "B": {
+      "en": "Cerebellar vermis",
+      "zh": "小脑蚓部"
+    },
+    "C": {
+      "en": "Choroid plexus",
+      "zh": "脉络丛"
+    },
+    "D": {
+      "en": "Pineal gland",
+      "zh": "松果体"
+    },
+    "E": {
+      "en": "Retina",
+      "zh": "视网膜"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient most likely has an adamantinomatous CRANIOPHARYNGIOMA. These are rare, slow-growing (benign) intracranial tumors found in children and typically located in the suprasellar region. On macroscopic examination, they are cystic or partially cystic with solid areas. The cysts are usually filled with a brownish-yellow, viscous fluid that resembles machine oil due to the presence of protein and CHOLESTEROL CRYSTALS. Dystrophic calcification of the cysts is highly characteristic and may be detected on neuroimaging. On light microscopy, the cysts are lined by cords/nests of stratified squamous epithelium with peripheral palisading and internal areas of lamellar \"wet\" keratin. \n\nCraniopharyngiomas are derived from remnants of Rathke's pouch, which is an evagination of the surface ectoderm that lines the fetal oral cavity. This protrusion of the roof of the mouth forms the ANTERIOR PITUITARY GLAND (adenohypophysis). The posterior lobe of the pituitary (neurohypophysis) forms from an outpouching of the diencephalon (infundibulum) and is derived from neuroectoderm. {{exhibit_2}}\n\n(Choices B, C, D, and E) The cerebellum, pineal gland, and retina are derived from neuroectoderm. Epithelial cells of the choroid plexus are also derived from neuroectoderm, whereas the mesenchyme (eg, blood vessels, connective tissue) is derived from mesoderm.\n\nEducational objective:\nCraniopharyngiomas are suprasellar tumors found in children and composed of calcified cysts containing cholesterol crystals. They arise from remnants of Rathke's pouch, an embryonic precursor of the anterior pituitary.",
+    "zh": "该患者最有可能患有釉质母细胞型颅咽管瘤。这些是罕见的、生长缓慢的（良性）颅内肿瘤，常见于儿童，通常位于鞍上区。在宏观检查中，它们呈囊性或部分囊性，并伴有实性区域。囊肿通常充满棕黄色粘稠液体，由于存在蛋白质和胆固醇结晶，类似于机油。囊肿的营养不良性钙化是高度特征性的，可在神经影像学上检测到。在光学显微镜下，囊肿由复层鳞状上皮的索/巢排列，周围有栅栏状排列和内部的层状“湿”角蛋白。\n\n颅咽管瘤源自 Rathke 氏囊的残余物，Rathke 氏囊是覆盖胎儿口腔的表面外胚层的外翻。这种口腔顶部的突出形成垂体前叶（腺垂体）。垂体后叶（神经垂体）由间脑（漏斗）的向外突出部分形成，并源自神经外胚层。{{exhibit_2}}\n\n（选项 B、C、D 和 E）小脑、松果体和视网膜源自神经外胚层。脉络丛的上皮细胞也源自神经外胚层，而间充质（例如，血管、结缔组织）则源自中胚层。\n\n教育目标：\n颅咽管瘤是儿童中发现的鞍上肿瘤，由含有胆固醇晶体的钙化囊肿组成。它们起源于 Rathke 氏囊的残余物，Rathke 氏囊是垂体前叶的胚胎前体。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the embryological origin of the anterior pituitary gland and the pathophysiology of craniopharyngiomas. Craniopharyngiomas arise from remnants of Rathke's pouch, which is an embryonic precursor of the anterior pituitary.\n\nTo solve this question, recognize the clinical presentation of a craniopharyngioma (headaches, visual changes, calcified suprasellar mass) and recall that these tumors are derived from Rathke's pouch, which gives rise to the anterior pituitary.",
+    "zh": "本题考察对垂体前叶的胚胎学起源和颅咽管瘤的病理生理学的知识。颅咽管瘤起源于 Rathke 氏囊的残余物，Rathke 氏囊是垂体前叶的胚胎前体。\n\n要解决这个问题，需要识别颅咽管瘤的临床表现（头痛、视力改变、钙化的鞍上肿块），并回忆起这些肿瘤源于 Rathke 氏囊，Rathke 氏囊产生垂体前叶。"
+  },
+  "tags": "Craniopharyngioma; Anterior pituitary; Rathke's pouch; Embryology; Suprasellar mass; Brain tumor; Neurology; Neurosurgery",
+  "category": "Neuro",
+  "question_id": "1152",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1152",
+  "extracted_at": "2025-11-05T15:08:31.543826",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:16:53.527308",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old man comes to the office due to recurrent episodes of retrosternal chest pain. The episodes occur during physical activity, usually when he climbs stairs or walks uphill, and resolve after he rests for a few minutes. The patient has no known medical conditions and does not use tobacco, alcohol, or recreational drugs. He is prescribed sublingual nitroglycerin to take as needed when the chest pain occurs. This drug is most likely to relieve this patient's symptoms by causing which of the following hemodynamic changes? {{exhibit_1}}",
+    "zh": "一名55岁男性因反复发作的胸骨后疼痛前来就诊。这些疼痛发作于体力活动期间，通常在他爬楼梯或上坡时，并在休息几分钟后缓解。患者无已知病史，不吸烟、不饮酒，也不使用娱乐性药物。他被处方舌下含服硝酸甘油，以在胸痛发作时按需服用。这种药物最有可能通过引起以下哪种血流动力学变化来缓解患者的症状？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "This drug is most likely to relieve this patient's symptoms by causing which of the following hemodynamic changes?",
+    "zh": "这种药物最有可能通过引起以下哪种血流动力学变化来缓解患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Decrease in heart rate",
+      "zh": "心率降低"
+    },
+    "B": {
+      "en": "Decrease in left ventricular end-diastolic volume",
+      "zh": "左心室舒张末期容积减少"
+    },
+    "C": {
+      "en": "Decrease in peripheral arteriolar resistance",
+      "zh": "外周动脉阻力降低"
+    },
+    "D": {
+      "en": "Increase in coronary blood flow",
+      "zh": "冠脉血流增加"
+    },
+    "E": {
+      "en": "Increase in coronary perfusion pressure",
+      "zh": "冠脉灌注压升高"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's retrosternal chest pain brought on by exertion and relieved with rest is classic for stable angina. It is caused by atherosclerotic narrowing of the coronary arteries such that an adequate increase in myocardial blood flow (and oxygen supply) cannot be achieved to meet the increased myocardial oxygen demand of exercise. Medical therapy for stable angina is aimed at meeting this myocardial oxygen supply/demand mismatch.\n\nNitrates are commonly used to treat stable angina. Long-acting formulations (eg, isosorbide dinitrate) are used for prevention of stable angina, and short-acting formulations (eg, sublingual nitroglycerin) are used as an abortive agent when symptoms occur. The primary effect of nitrates is venodilation, which causes additional blood to remain in the capacitance veins and reduces venous return to the heart. The resulting decrease in left ventricular (LV) end-diastolic volume (ie, reduced preload) decreases LV wall stress to reduce myocardial oxygen demand and relieve angina symptoms.\n\n(Choice A) Decreased heart rate reduces myocardial oxygen demand. Beta blockers (eg, metoprolol) and nondihydropyridine calcium channel blockers (eg, verapamil) treat stable angina in part via this mechanism, but nitrates have no direct effect on heart rate (and may cause a reflexive increase in heart rate).\n\n(Choice C) Decreased peripheral arteriolar resistance decreases cardiac afterload to reduce LV wall stress and decrease myocardial oxygen demand. Dihydropyridine calcium channel blockers (eg, amlodipine) treat stable angina via this mechanism, but nitrates cause only slight peripheral arteriolar vasodilation.\n\n(Choices D and E) Nitrates do stimulate some degree of coronary arteriolar vasodilation, but this mechanism has little effect on relieving angina symptoms. Coronary arterioles with substantial atherosclerotic disease are already nearly fully dilated at baseline such that the capacity for further dilation to recruit additional blood flow is minimal. Nitrates can also slightly augment the coronary perfusion pressure gradient (ie, aortic diastolic pressure – LV diastolic pressure) by decreasing LV end-diastolic volume. This may slightly increase coronary blood flow and myocardial oxygen supply, but the reduction in myocardial oxygen demand via decreased LV wall stress is a much larger contributor to relief of angina symptoms.\n\nEducational objective:\nSublingual nitroglycerin is used for rapid symptom relief in patients with stable angina. The primary anti-ischemic effect of nitrates is mediated by venodilation causing a decrease in left ventricular end-diastolic volume and wall stress, resulting in decreased myocardial oxygen demand.",
+    "zh": "该患者劳力性胸骨后疼痛，休息后缓解，是典型的稳定型心绞痛。其病因是冠状动脉粥样硬化狭窄，导致无法实现足够的血流（和氧气供应）增加，以满足运动时增加的心肌耗氧量。稳定型心绞痛的药物治疗旨在解决这种心肌氧供/需失衡。\n\n硝酸盐类药物常用于治疗稳定型心绞痛。长效制剂（如：单硝酸异山梨酯）用于预防稳定型心绞痛，而短效制剂（如：舌下含服硝酸甘油）在症状出现时用作缓解剂。硝酸盐的主要作用是血管扩张，导致更多的血液滞留在容量静脉中，从而减少静脉回心血量。由此导致的左心室（LV）舒张末期容积减少（即，前负荷降低）降低了左心室壁应力，从而降低心肌耗氧量，缓解心绞痛症状。\n\n（选项A）心率降低可减少心肌耗氧量。β受体阻滞剂（如：美托洛尔）和非二氢吡啶类钙通道阻滞剂（如：维拉帕米）部分通过这种机制治疗稳定型心绞痛，但硝酸盐对心率没有直接影响（并且可能引起反射性心率增快）。\n\n（选项C）外周动脉阻力降低可降低心脏后负荷，从而降低左心室壁应力，减少心肌耗氧量。二氢吡啶类钙通道阻滞剂（如：氨氯地平）通过这种机制治疗稳定型心绞痛，但硝酸盐仅引起轻微的外周动脉血管扩张。\n\n（选项D和E）硝酸盐确实刺激一定程度的冠状动脉小动脉血管扩张，但这种机制对缓解心绞痛症状的影响很小。患有严重动脉粥样硬化性疾病的冠状动脉小动脉在基线时已经几乎完全扩张，因此进一步扩张以募集额外血流的能力很小。硝酸盐还可以通过降低左心室舒张末期容积来略微增加冠脉灌注压梯度（即，主动脉舒张压–左心室舒张压）。这可能会略微增加冠脉血流量和心肌氧供，但通过降低左心室壁应力来减少心肌耗氧量是缓解心绞痛症状的更大贡献者。\n\n教育目标：\n舌下含服硝酸甘油用于快速缓解稳定型心绞痛患者的症状。硝酸盐的主要抗缺血作用是通过血管扩张，导致左心室舒张末期容积和室壁应力降低，从而降低心肌耗氧量。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of stable angina pathophysiology and the mechanism of action of nitrates in relieving anginal symptoms. It assesses understanding of how nitrates reduce myocardial oxygen demand by decreasing left ventricular end-diastolic volume (preload).\n\nTo solve this question, recognize the classic presentation of stable angina (exertional chest pain relieved by rest). Then, recall that nitrates primarily work by causing venodilation, which reduces preload and subsequently decreases myocardial oxygen demand.",
+    "zh": "此题考查对稳定型心绞痛的病理生理学和硝酸盐缓解心绞痛症状的机制的了解。它评估了对硝酸盐如何通过降低左心室舒张末期容积（前负荷）来降低心肌耗氧量的理解。\n\n要解决这个问题，首先要认识到稳定型心绞痛的典型表现（劳力性胸痛，休息后缓解）。然后，回忆起硝酸盐主要通过引起静脉扩张起作用，从而减少前负荷，进而降低心肌耗氧量。"
+  },
+  "tags": "Stable angina; Nitroglycerin; Venodilation; Preload; Myocardial oxygen demand; Cardiology; Coronary artery disease",
+  "category": "CVS",
+  "question_id": "138",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\138",
+  "extracted_at": "2025-11-05T11:53:16.825203",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:45:12.597819",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

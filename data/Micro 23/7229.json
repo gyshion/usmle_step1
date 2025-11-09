@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "The patient is hospitalized, and appropriate treatment is begun. After discussing the underlying cause of his condition—immunosuppression due to HIV infection—the patient agrees to take antiretroviral therapy consistently. One of the medications in his treatment regimen leads to the production of immature, noninfectious virions containing large polyproteins. Which of the following viral processes is most likely directly inhibited by this agent?",
+    "zh": "患者住院治疗，并开始适当的治疗。 在讨论了他的病症的根本原因——由于 HIV 感染引起的免疫抑制——后，患者同意持续服用抗逆转录病毒治疗。 他治疗方案中的一种药物导致产生未成熟的、不具感染性的病毒颗粒，其中含有大型多蛋白。 下列哪种病毒过程最有可能被该药物直接抑制？"
+  },
+  "question": {
+    "en": "Which of the following viral processes is most likely directly inhibited by this agent?",
+    "zh": "下列哪种病毒过程最有可能被该药物直接抑制？"
+  },
+  "options": {
+    "A": {
+      "en": "Expression of glycoproteins on the virus cell surface",
+      "zh": "病毒细胞表面糖蛋白的表达"
+    },
+    "B": {
+      "en": "Integration of the viral DNA molecule into the host genome",
+      "zh": "病毒 DNA 分子整合到宿主基因组中"
+    },
+    "C": {
+      "en": "Production of functional viral-encoded enzymes",
+      "zh": "功能性病毒编码酶的产生"
+    },
+    "D": {
+      "en": "Removal of viral template RNA from the RNA-DNA hybrid",
+      "zh": "从 RNA-DNA 杂交体中去除病毒模板 RNA"
+    },
+    "E": {
+      "en": "Translation of virus-encoded regulatory proteins",
+      "zh": "病毒编码调节蛋白的翻译"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Protease inhibitors inhibit HIV protease from cleaving the gag-pol polyproteins, which results in the formation of immature, noninfectious virions due to IMPAIRED PRODUCTION of functional viral proteins. Protease inhibitors are a common component of first-line HIV antiretroviral therapy and are denoted by medications that end in “navir” (eg, darunavir, atazanavir, ritonavir).\n\n(Choice A) The HIV envelope proteins gp120 and gp41 mediate viral attachment and fusion with the host cell membrane. These proteins are generated as a polyprotein (gp160) from the env gene. Unlike the gag-pol polyprotein (which is cleaved by HIV protease) the env polyprotein is cleaved by a host protease, so production of glycosylated viral envelope proteins is not affected by HIV protease inhibitors.\n\n(Choices B and D) The pol gene encodes the major HIV enzymes: reverse transcriptase (RT), integrase, and protease. RT converts the HIV RNA genome into complementary double-stranded DNA; it also destroys the HIV RNA genomic template during transcription (ribonuclease H activity). RT is inhibited by nucleoside/nonnucleoside reverse transcriptase inhibitors. Integrase inserts complementary viral DNA into the host chromosome. Integrase strand transfer inhibitors block the function of this enzyme. Both RT and integrase inhibitors block viral replication, but neither are associated with immature virions containing polyproteins.\n\n(Choice E) The HIV genome encodes for several regulatory proteins that are required for viral replication. However, all virus-encoded proteins are translated by host ribosomes, and blockade of protein translation would not be associated with the formation of polyproteins.",
+    "zh": "蛋白酶抑制剂抑制 HIV 蛋白酶切割 gag-pol 多蛋白，这导致由于功能性病毒蛋白的产生受损而形成未成熟的、不具感染性的病毒颗粒。 蛋白酶抑制剂是 HIV 一线抗逆转录病毒治疗的常见组成部分，其药物以“navir”结尾（例如，达芦那韦、阿扎那韦、利托那韦）。\n\n（选项 A） HIV 包膜蛋白 gp120 和 gp41 介导病毒与宿主细胞膜的附着和融合。 这些蛋白由 env 基因产生为多蛋白 (gp160)。 与 gag-pol 多蛋白（被 HIV 蛋白酶切割）不同，env 多蛋白被宿主蛋白酶切割，因此糖基化病毒包膜蛋白的产生不受 HIV 蛋白酶抑制剂的影响。\n\n（选项 B 和 D） pol 基因编码主要的 HIV 酶：逆转录酶 (RT)、整合酶和蛋白酶。 RT 将 HIV RNA 基因组转化为互补的双链 DNA； 它还在转录过程中破坏 HIV RNA 基因组模板（核糖核酸酶 H 活性）。 RT 被核苷/非核苷逆转录酶抑制剂抑制。 整合酶将互补的病毒 DNA 插入宿主染色体。 整合酶链转移抑制剂阻断该酶的功能。 RT 和整合酶抑制剂都阻断病毒复制，但两者都与包含多蛋白的不成熟病毒颗粒无关。\n\n（选项 E） HIV 基因组编码几种病毒复制所需的调节蛋白。 然而，所有病毒编码的蛋白都由宿主核糖体翻译，而阻断蛋白翻译不会与多蛋白的形成相关。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of HIV replication and the mechanism of action of protease inhibitors. Protease inhibitors prevent the cleavage of gag-pol polyproteins, leading to the production of immature, noninfectious virions.\n\nTo solve this question, understand the HIV life cycle and the role of protease in cleaving polyproteins into functional viral proteins. Recognize that protease inhibitors specifically target this cleavage process, resulting in the production of noninfectious virions.",
+    "zh": "本题考察对 HIV 复制和蛋白酶抑制剂作用机制的了解。 蛋白酶抑制剂可阻止 gag-pol 多蛋白的切割，导致产生未成熟的、不具感染性的病毒颗粒。\n\n要解决此问题，请了解 HIV 的生命周期以及蛋白酶在将多蛋白切割成功能性病毒蛋白中的作用。 认识到蛋白酶抑制剂专门针对此切割过程，导致产生不具感染性的病毒颗粒。"
+  },
+  "tags": "HIV; Protease inhibitors; Viral replication; Antiretroviral therapy; gag-pol polyproteins; Infectious Diseases; Microbiology",
+  "category": "Micro",
+  "question_id": "7229",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\7229",
+  "extracted_at": "2025-11-05T15:05:19.507115",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:13:02.018667",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

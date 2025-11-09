@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 49-year-old woman comes to the office due to muscle weakness. For the past 3 months, the patient has had worsening weakness in her right hand. She has also been tripping. The patient experiences twitching and cramping in her arms and legs. She has no sensory deficits. On examination, there is increased tone and fasciculations in the lower extremity muscles. Atrophy of the interosseous muscles of the right hand and the bilateral intrinsic muscles of the feet is present. When the physician taps on the chin while the mouth is slightly open, the jaw jerks upward briskly. {{exhibit_1}}",
+    "zh": "一名49岁的女性因肌无力前来就诊。在过去的3个月里，患者的右手无力逐渐加重。她也经常绊倒。患者的胳膊和腿出现抽搐和痉挛。她没有感觉缺失。体格检查显示，下肢肌肉张力增高并出现肌束震颤。右手的骨间肌和双侧足部的固有肌萎缩。当医生轻叩下颌，同时嘴巴略微张开时，下颌会猛地向上抽动。 {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following cranial nerves mediate this reflex?",
+    "zh": "以下哪对脑神经介导该反射？"
+  },
+  "options": {
+    "A": {
+      "en": "Glossopharyngeal\tTrigeminal",
+      "zh": "舌咽神经\t三叉神经"
+    },
+    "B": {
+      "en": "Glossopharyngeal\tVagus",
+      "zh": "舌咽神经\t迷走神经"
+    },
+    "C": {
+      "en": "Trigeminal\tFacial",
+      "zh": "三叉神经\t面神经"
+    },
+    "D": {
+      "en": "Trigeminal\tTrigeminal",
+      "zh": "三叉神经\t三叉神经"
+    },
+    "E": {
+      "en": "Vagus\tVagus",
+      "zh": "迷走神经\t迷走神经"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Jaw jerk reflex\nThis patient with findings of both upper (spasticity, increased tone) and lower (atrophy, fasciculations) motor neuron lesions most likely has amyotrophic lateral sclerosis (ALS). Tapping on the chin with the mouth slightly open causes the jaw to briskly close, which represents a positive (ie, pathologic) jaw jerk reflex. This reflex is normally absent or very weak but is present in patients with bilateral upper motor neuron lesions such as ALS.\n\nThe jaw jerk reflex begins with afferent signals from muscle spindles of the masseter that are carried along the mandibular division of the trigeminal nerve (CN V3) to the trigeminal mesencephalic nucleus, which is involved with reflex proprioception of the muscles of mastication. This center then coordinates with the trigeminal motor nucleus to send motor (efferent) signals back along CN V3 to the muscles of mastication, causing the jaw to close.\n\nThe jaw jerk reflex is the only tendon reflex mediated above the plane of the foramen magnum. Therefore, the pathologic presence of this reflex suggests bilateral lesions of the upper motor neuron pathways above the level of the pons (eg, ALS, multiple sclerosis, pseudobulbar palsy).\n\n(Choices A and B) Sensory fibers of the glossopharyngeal nerve (CN IX) are involved in both the gag and the carotid sinus reflexes. The gag reflex is mediated via afferent information from the glossopharyngeal nerve (CN IX), and efferent information from the vagus nerve (CN X). The carotid sinus reflex is mediated by afferent signals from arterial baroreceptors which are carried to the brainstem by CN IX and CN X; efferent signals are then carried by parasympathetic fibers to the sinoatrial and atrioventricular nodes.\n\n(Choice C) The corneal reflex is mediated by afferent fibers from the ophthalmic division of the trigeminal nerve (CN V1) and efferent fibers of the facial nerve (CN VII) projecting to the orbicularis oculi muscle, causing a blink.\n\n(Choice E) Both the afferent and the efferent limbs of the cough reflex are mediated by the vagus nerve (CN X).\n\nEducational objective:\nThe jaw jerk reflex is a pathologic cranial nerve reflex present in patients with bilateral upper motor neuron lesions, such as amyotrophic lateral sclerosis. Both the afferent and efferent pathways are mediated by the mandibular division of the trigeminal nerve (CN V3). {{exhibit_2}} {{exhibit_3}}",
+    "zh": "下颌反射\n该患者的体征同时存在上运动神经元（痉挛、张力增高）和下运动神经元（萎缩、肌束震颤）损伤，最有可能患有肌萎缩侧索硬化症（ALS）。轻叩下颌，同时嘴巴略微张开，导致下颌迅速闭合，这代表着下颌反射阳性（即病理性）。该反射通常不存在或非常微弱，但在患有双侧上运动神经元损伤的患者（如ALS）中存在。\n\n下颌反射始于咬肌的肌梭传入信号，这些信号沿三叉神经的下颌支（CN V3）传递到三叉神经中脑核，该核参与咀嚼肌的反射性本体感觉。然后，该中枢与三叉神经运动核协调，沿CN V3将运动（传出）信号发回至咀嚼肌，导致下颌闭合。\n\n下颌反射是唯一在枕骨大孔平面以上介导的腱反射。因此，该反射的病理性存在提示脑桥以上水平上运动神经元通路存在双侧病变（例如，ALS、多发性硬化症、假性延髓麻痹）。\n\n（选项A和B）舌咽神经（CN IX）的感觉纤维参与了咽反射和颈动脉窦反射。咽反射由来自舌咽神经（CN IX）的传入信息和来自迷走神经（CN X）的传出信息介导。颈动脉窦反射由来自动脉压力感受器的传入信号介导，这些信号由CN IX和CN X传至脑干；然后，传出信号由副交感神经纤维传至窦房结和房室结。\n\n（选项C）角膜反射由来自三叉神经眼支（CN V1）的传入纤维和投射到眼轮匝肌的面神经（CN VII）的传出纤维介导，导致眨眼。\n\n（选项E）咳嗽反射的传入和传出神经均由迷走神经（CN X）介导。\n\n教育目的：\n下颌反射是一种病理性脑神经反射，存在于患有双侧上运动神经元损伤的患者中，例如肌萎缩侧索硬化症。传入和传出通路均由三叉神经下颌支（CN V3）介导。 {{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the jaw jerk reflex, a pathological reflex indicative of upper motor neuron lesions, and the cranial nerves involved in its afferent and efferent pathways. The key to solving this question is recognizing the clinical presentation suggestive of upper motor neuron disease and recalling that the jaw jerk reflex is mediated by the trigeminal nerve (CN V3) for both afferent and efferent components.",
+    "zh": "本题考察对下颌反射的认识，这是一种提示上运动神经元损伤的病理性反射，以及参与其传入和传出通路的脑神经。解决这个问题的关键是识别提示上运动神经元疾病的临床表现，并回忆下颌反射由三叉神经（CN V3）介导，用于传入和传出成分。"
+  },
+  "tags": "Jaw jerk reflex; Trigeminal nerve; Upper motor neuron lesion; Amyotrophic lateral sclerosis; Cranial nerves; Neurology; Reflex arc; CN V3",
+  "exhibit_1": "image",
+  "exhibit_2": "image",
+  "exhibit_3": "image",
+  "category": "Neuro",
+  "question_id": "18599",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\18599",
+  "extracted_at": "2025-11-05T15:25:30.173884",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:22:14.533587",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

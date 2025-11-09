@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old man is admitted to the hospital after sustaining multiple injuries in a motor vehicle accident. He undergoes surgery for an open fracture of the tibia and a spiral fracture of the humerus. The tibial repair is successful, but the surgeon operates on the wrong arm.",
+    "zh": "一名35岁男性在车祸中遭受多处损伤后入院。他接受了胫骨开放性骨折和肱骨螺旋形骨折的手术。胫骨修复成功，但外科医生对错误的胳膊进行了手术。"
+  },
+  "question": {
+    "en": "Which of the following procedures would be most effective in preventing a similar error?",
+    "zh": "以下哪种程序对于预防类似错误最有效？"
+  },
+  "options": {
+    "A": {
+      "en": "Confirm the correct site with the patient",
+      "zh": "与患者确认正确的部位"
+    },
+    "B": {
+      "en": "Have the anesthesiologist and surgeon verify the surgical site together",
+      "zh": "让麻醉师和外科医生一起核实手术部位"
+    },
+    "C": {
+      "en": "Have the head nurse verify the surgical site",
+      "zh": "让护士长核实手术部位"
+    },
+    "D": {
+      "en": "Have the nurse and surgeon verify the surgical site independently",
+      "zh": "让护士和外科医生独立核实手术部位"
+    },
+    "E": {
+      "en": "Have the operating physician verify the surgical site",
+      "zh": "让主刀医生核实手术部位"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "According to The Joint Commission's sentinel event statistics, wrong-site surgery is the most frequently reported serious adverse event. Emergency operations, failure to mark the surgical site, poor communication, and surgeon fatigue are contributing factors. As in this case, multiple procedures on the same patient and multiple surgeons will also increase the risk of operating at the wrong site. Therefore, a preoperative verification process is important to decrease this risk. In addition to marking the operative site, independent verification of the patient, procedure, and site by 2 health care workers (eg, a nurse and physician) should be performed. The \"dual identifiers\" must perform the verification independently because 2 clinicians verifying identifiers together can result in replicating an error. The Joint Commission recommends use of a \"surgical timeout\" immediately prior to the procedure in order to conduct a final verification of the patient, procedure, and site.\n\n(Choice A) Although an awake and aware patient can participate in the verification process, this is not an adequate substitute for dual independent clinician identification.\n\n(Choice B) Having these 2 clinicians verify the site together is not optimal as it increases the risk that they will replicate the error.\n\n(Choices C and E) Two independent identifiers are preferred.\n\nEducational objective:\nRisk of wrong-site surgery can be reduced by requiring \"dual identifiers\" (usually a nurse and physician) to independently confirm that they have the correct patient, site, and procedure. Checks must be truly independent to ensure patient safety.",
+    "zh": "根据美国联合委员会的Sentinel事件统计数据，手术部位错误是报告最频繁的严重不良事件。急诊手术、未能标记手术部位、沟通不畅和外科医生疲劳是促成因素。正如本例所示，对同一患者进行多项手术和多名外科医生也会增加在错误部位进行手术的风险。因此，术前验证过程对于降低这种风险至关重要。除了标记手术部位外，应由2名医护人员（例如，护士和医生）对患者、手术和部位进行独立验证。“双重标识符”必须独立执行验证，因为2名临床医生一起验证标识符可能导致复制错误。美国联合委员会建议在手术前立即使用“手术暂停”，以便对患者、手术和部位进行最终验证。\n\n（选项A）尽管清醒和有意识的患者可以参与验证过程，但这并不能充分替代双重独立临床医生识别。\n\n（选项B）让这2名临床医生一起验证部位并非最佳选择，因为它会增加他们复制错误的风险。\n\n（选项C和E）首选两个独立的标识符。\n\n教育目标：\n可以通过要求“双重标识符”（通常是护士和医生）独立确认他们有正确的患者、部位和手术来降低手术部位错误的风险。检查必须真正独立才能确保患者安全。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of patient safety protocols to prevent wrong-site surgery. It emphasizes the importance of independent verification by two qualified healthcare professionals.\n\nThe best approach is to identify the option that aligns with established safety guidelines, such as those recommended by The Joint Commission, which advocate for independent verification using dual identifiers.",
+    "zh": "这个问题测试了关于患者安全协议的知识，以防止手术部位错误。它强调了由两名合格的医疗保健专业人员进行独立验证的重要性。\n\n最佳方法是确定与已建立的安全指南相符的选项，例如美国联合委员会推荐的那些，这些指南提倡使用双重标识符进行独立验证。"
+  },
+  "tags": "Patient safety; Wrong-site surgery; Surgical errors; The Joint Commission; Sentinel events; Medical errors; Risk management; Healthcare quality",
+  "category": "Ethics",
+  "question_id": "11515",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\11515",
+  "extracted_at": "2025-11-05T14:16:37.502440",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:46:42.088789",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

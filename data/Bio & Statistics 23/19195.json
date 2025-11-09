@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A research group conducted a study to compare the levels of creatine kinase-MB (CK-MB) between type 2 diabetes mellitus (T2DM) patients given statin therapy. Participants were divided into 4 groups based on treatment. Groups I, II, and III consisted of T2DM patients who had been given statin therapy (atorvastatin, simvastatin, rosuvastatin, respectively) for at least 6 months. Group IV consisted of T2DM patients who had not been given statin therapy.",
+    "zh": "一个研究小组进行了一项研究，比较了接受他汀类药物治疗的 2 型糖尿病 (T2DM) 患者的肌酸激酶-MB (CK-MB) 水平。参与者根据治疗方案分为 4 组。第 I、II 和 III 组包括接受他汀类药物治疗（分别为阿托伐他汀、辛伐他汀、瑞舒伐他汀）至少 6 个月的 T2DM 患者。第 IV 组包括未接受他汀类药物治疗的 T2DM 患者。"
+  },
+  "question": {
+    "en": "Which of the following statistical tests is most appropriate to compare the CK-MB levels between Groups I, II, III, and IV in this study?",
+    "zh": "以下哪种统计检验最适合比较本研究中第 I、II、III 和 IV 组之间的 CK-MB 水平？"
+  },
+  "options": {
+    "A": {
+      "en": "Analysis of variance",
+      "zh": "方差分析"
+    },
+    "B": {
+      "en": "Chi-square test",
+      "zh": "卡方检验"
+    },
+    "C": {
+      "en": "Independent t-test",
+      "zh": "独立 t 检验"
+    },
+    "D": {
+      "en": "Paired t-test",
+      "zh": "配对 t 检验"
+    },
+    "E": {
+      "en": "Correlation analysis",
+      "zh": "相关性分析"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The analysis of variance (ANOVA) test compares the means of ≥3 groups. The test requires a categorical independent variable (ie, exposure) that is used to divide the study pool into ≥3 groups and a quantitative dependent variable (ie, outcome) for which an average (eg, mean) can be calculated. {{exhibit_1}}\n\nVariables are broadly classified as qualitative (ie, categorical) or quantitative (eg, continuous) based on their scale of measurement. Qualitative variables (eg, type of treatment, blood type) represent categories or groups, whereas quantitative variables (eg, temperature, glucose levels) represent numerical values, with quantitative variables (eg, temperature) sometimes transformed into qualitative variables (eg, \"no fever\" for <38 C [100 F]; \"fever\" for ≥38 C [100 F ]). The scale of measurement of the dependent (eg, outcome) and independent (eg, exposures, risk factors) variables in a study determines the correct statistical test for any given situation.\n\nThe analysis of variance (ANOVA) test compares the means of ≥3 groups. It requires a categorical independent variable (ie, exposure) that is used to divide the study pool into ≥3 groups and a quantitative dependent variable (ie, outcome) for which an average (eg, mean) can be calculated. In this study:\n\n•\tThe quantitative dependent variable was the levels of creatine kinase-MB (CK-MB).\n•\tThe categorical independent variable was type of statin therapy that was used to categorize 4 different groups of patients with type 2 diabetes mellitus (T2DM): Group I (atorvastatin), Group II (simvastatin), Group III (rosuvastatin), and Group IV (no statin).\n\nAn ANOVA test can determine whether there is a statistically significant difference in mean levels of CK-MB among T2DM patients given different statin therapies. A large, statistically significant difference in mean CK-MB levels among groups indicates that different statin therapies are associated with significant changes in CK-MB levels (ie, the null hypothesis is rejected).\n\n(Choice B) The chi-square test evaluates the association between 2 categorical variables, as in a study evaluating the association between sex (ie, \"male\" and \"female\") and myocardial infarction (ie, presence of myocardial infarction, absence of myocardial infarction).\n\n(Choices C and D) The t-tests compare the mean of a quantitative variable between 2 groups. A paired t-test is used when the groups are dependent (eg, comparing mean blood pressure [quantitative variable] in the same group of patients before and after antihypertensive therapy). An independent t-test is used when the groups are independent (eg, comparing mean CK-MB levels [quantitative variable] between a group of patients given statin therapy and another not given statin therapy).\n\n(Choice E) A correlation analysis uses the correlation coefficient to describe the linear relationship between 2 quantitative variables, as in a study evaluating the linear relationship between hours of sleep and irritability score.\n\nEducational objective:\nThe analysis of variance test compares the means of ≥3 groups. The test requires a categorical independent variable (ie, exposure) that is used to divide the study pool into ≥3 groups and a quantitative dependent variable (ie, outcome) for which an average (eg, mean) can be calculated.",
+    "zh": "方差分析 (ANOVA) 检验比较 ≥3 个组的均值。该检验需要一个分类自变量（即暴露），该变量用于将研究群体划分为 ≥3 个组，以及一个定量因变量（即结果），可以计算其平均值（例如，均值）。 {{exhibit_1}}\n\n变量根据其测量尺度大致分为定性（即分类）或定量（例如，连续）。定性变量（例如，治疗类型、血型）代表类别或组，而定量变量（例如，温度、葡萄糖水平）代表数值，定量变量（例如，温度）有时会转化为定性变量（例如，<38°C [100°F] 时为“无发烧”；≥38°C [100°F] 时为“发烧”）。研究中因变量（例如，结果）和自变量（例如，暴露、危险因素）的测量尺度决定了任何给定情况下的正确统计检验。\n\n方差分析 (ANOVA) 检验比较 ≥3 个组的均值。它需要一个分类自变量（即暴露），该变量用于将研究群体划分为 ≥3 个组，以及一个定量因变量（即结果），可以计算其平均值（例如，均值）。在本研究中：\n\n•\t定量因变量是肌酸激酶-MB (CK-MB) 的水平。\n•\t分类自变量是用于对 2 型糖尿病 (T2DM) 患者的 4 个不同组进行分类的他汀类药物治疗类型：第 I 组（阿托伐他汀）、第 II 组（辛伐他汀）、第 III 组（瑞舒伐他汀）和第 IV 组（无他汀类药物）。\n\nANOVA 检验可以确定接受不同他汀类药物治疗的 T2DM 患者的 CK-MB 平均水平是否存在统计学上的显著差异。各组 CK-MB 平均水平的显著差异表明，不同的他汀类药物治疗与 CK-MB 水平的显著变化相关（即，拒绝零假设）。\n\n（选项 B）卡方检验评估两个分类变量之间的关联，如研究评估性别（即“男性”和“女性”）与心肌梗死（即，存在心肌梗死，不存在心肌梗死）之间的关联。\n\n（选项 C 和 D）t 检验比较两个组之间定量变量的均值。当组之间存在依赖关系时使用配对 t 检验（例如，比较同一组患者在降压治疗前后平均血压[定量变量]）。当组之间相互独立时使用独立 t 检验（例如，比较一组接受他汀类药物治疗的患者和另一组未接受他汀类药物治疗的患者的平均 CK-MB 水平[定量变量]）。\n\n（选项 E）相关性分析使用相关系数来描述两个定量变量之间的线性关系，如研究评估睡眠小时数与易怒评分之间的线性关系。\n\n教育目标：方差分析检验比较 ≥3 个组的均值。该检验需要一个分类自变量（即暴露），该变量用于将研究群体划分为 ≥3 个组，以及一个定量因变量（即结果），可以计算其平均值（例如，均值）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of statistical tests, specifically the analysis of variance (ANOVA) test, and its appropriate application in comparing means of multiple groups. It requires knowledge of independent and dependent variables, and the distinction between qualitative and quantitative data. \n\nTo solve this question, identify the number of groups being compared (more than two) and the types of variables involved (categorical independent variable and quantitative dependent variable). This will lead to the selection of ANOVA as the most suitable statistical test.",
+    "zh": "这个问题测试对统计检验的理解，特别是方差分析 (ANOVA) 检验及其在比较多个组的均值中的适当应用。它需要了解自变量和因变量，以及定性和定量数据的区别。\n\n要解决这个问题，确定要比较的组的数量（两个以上）以及涉及的变量类型（分类自变量和定量因变量）。这将导致选择 ANOVA 作为最合适的统计检验。"
+  },
+  "tags": "Analysis of variance; ANOVA; Statistical tests; Biostatistics; Research methodology; Quantitative variables; Qualitative variables; Independent variables; Dependent variables",
+  "exhibit_1": "{{exhibit_2}}{{exhibit_3}}",
+  "category": "Bio",
+  "question_id": "19195",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19195",
+  "extracted_at": "2025-11-05T13:20:23.138612",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:22:19.135097",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

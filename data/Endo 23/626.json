@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 22-year-old woman comes to the office due to palpitations, weight loss, and insomnia. She has lost 7 kg (15.4 lb) in the past 3 months. The patient has no other medical problems and takes no medication. She does not use tobacco, alcohol, or illicit drugs. Blood pressure is 130/80 mm Hg and pulse is 104/min and regular. The thyroid gland is diffusely enlarged and nontender on palpation. Laboratory studies show markedly decreased serum TSH and elevated thyroxine levels. Methimazole monotherapy is initiated. Two months later, her symptoms had resolved. The treatment most likely improved this patient's condition by directly inhibiting which of the following processes? {{exhibit_1}}",
+    "zh": "一名 22 岁的女性因心悸、体重减轻和失眠来就诊。她在过去 3 个月内体重减轻了 7 公斤（15.4 磅）。该患者没有其他健康问题，也没有服用任何药物。她不使用烟草、酒精或违禁药物。血压为 130/80 毫米汞柱，脉搏为 104/分钟，规律。甲状腺弥漫性增大，触诊无压痛。实验室研究显示血清促甲状腺激素 (TSH) 显着降低，甲状腺素水平升高。开始甲巯咪唑单药治疗。两个月后，她的症状得到缓解。治疗最有可能通过直接抑制以下哪个过程来改善该患者的病情？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "The treatment most likely improved this patient's condition by directly inhibiting which of the following processes?",
+    "zh": "治疗最有可能通过直接抑制以下哪个过程来改善该患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Colloid production",
+      "zh": "胶体产生"
+    },
+    "B": {
+      "en": "Coupling of iodotyrosines",
+      "zh": "碘酪氨酸的偶联"
+    },
+    "C": {
+      "en": "Iodide uptake by the thyroid gland",
+      "zh": "甲状腺摄取碘化物"
+    },
+    "D": {
+      "en": "Peripheral thyroxine to triiodothyronine conversion",
+      "zh": "甲状腺素向三碘甲状腺原氨酸的外周转化"
+    },
+    "E": {
+      "en": "Triiodothyronine/thyroxine effect on target tissues",
+      "zh": "三碘甲状腺原氨酸/甲状腺素对靶组织的影响"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient with elevated T4 and suppressed TSH has primary HYPERTHYROIDISM. Methimazole and propylthiouracil are thioamide drugs used for treating hyperthyroidism. They inhibit thyroid peroxidase, the enzyme responsible for both iodine organification and coupling of iodotyrosines. Propylthiouracil also decreases the peripheral conversion of T4 to the active hormone T3, although methimazole does not have this effect {{exhibit_2}}.\n\n(Choice A) Colloid is a gelatinous material in the follicular lumen that consists mainly of thyroglobulin. The production of colloid is regulated primarily by TSH; it is not dependent on thyroid peroxidase and is not inhibited by thioamides.\n\n(Choice C) Iodide uptake is upregulated by TSH. Perchlorate and pertechnetate are competitive inhibitors of the sodium-iodide symporter.\n\n(Choice E) Hyperthyroidism is characterized by increased sensitivity to catecholamines due to the thyroid hormone-mediated upregulation of beta-adrenergic receptors. Beta blockers help decrease the target organ effects of thyroid hormones, and certain ones (eg, propranolol) also decrease the peripheral conversion of T4 to T3.\n\nEducational objective:\nThioamides (eg, methimazole, propylthiouracil) decrease the formation of thyroid hormones via inhibition of thyroid peroxidase, the enzyme responsible for both iodine organification and coupling of iodotyrosines. Propylthiouracil also decreases the peripheral conversion of T4 to T3.",
+    "zh": "该患者 T4 升高且 TSH 受到抑制，患有原发性甲状腺功能亢进症。甲巯咪唑和丙硫氧嘧啶是用于治疗甲状腺功能亢进症的硫代酰胺类药物。它们抑制甲状腺过氧化物酶，这种酶负责碘的有机化和碘酪氨酸的偶联。丙硫氧嘧啶也会降低 T4 向活性激素 T3 的外周转化，尽管甲巯咪唑没有这种作用 {{exhibit_2}}。\n\n（选项 A）胶体是滤泡腔内的一种凝胶状物质，主要由甲状腺球蛋白组成。胶体的产生主要受 TSH 调节；它不依赖于甲状腺过氧化物酶，也不受硫代酰胺的抑制。\n\n（选项 C）碘的摄取受 TSH 上调。高氯酸盐和高锝酸盐是钠-碘同向转运蛋白的竞争性抑制剂。\n\n（选项 E）甲状腺功能亢进的特征是由于甲状腺激素介导的 β-肾上腺素能受体上调，对儿茶酚胺的敏感性增加。β 受体阻滞剂有助于降低甲状腺激素的靶器官效应，并且某些药物（例如普萘洛尔）也会降低 T4 向 T3 的外周转化。\n\n教育目标：\n硫代酰胺（例如甲巯咪唑、丙硫氧嘧啶）通过抑制甲状腺过氧化物酶来减少甲状腺激素的形成，这种酶负责碘的有机化和碘酪氨酸的偶联。丙硫氧嘧啶也会降低 T4 向 T3 的外周转化。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hyperthyroidism and the mechanism of action of thioamide drugs like methimazole. Methimazole inhibits thyroid peroxidase, which is responsible for iodine organification and coupling of iodotyrosines in the synthesis of thyroid hormones.\n\nTo solve this question, recognize the patient's hyperthyroid state based on symptoms and lab values (decreased TSH, elevated thyroxine). Then, recall that methimazole inhibits thyroid hormone synthesis by blocking thyroid peroxidase.",
+    "zh": "这道题考察了甲状腺功能亢进症以及甲巯咪唑等硫代酰胺类药物的作用机制。甲巯咪唑抑制甲状腺过氧化物酶，甲状腺过氧化物酶负责甲状腺激素合成中碘的有机化和碘酪氨酸的偶联。\n\n要解决这个问题，请根据症状和实验室值（TSH 降低，甲状腺素升高）识别患者的甲状腺功能亢进状态。然后，回想起甲巯咪唑通过阻断甲状腺过氧化物酶来抑制甲状腺激素的合成。"
+  },
+  "tags": "Hyperthyroidism; Methimazole; Thyroid peroxidase; Iodine organification; Coupling of iodotyrosines; Endocrinology; Thyroid gland; TSH; Thyroxine",
+  "category": "Endo",
+  "question_id": "626",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\626",
+  "extracted_at": "2025-11-05T14:10:01.353814",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:42:18.621600",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

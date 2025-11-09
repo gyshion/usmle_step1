@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 41-year-old man comes to the office due to a 4-month history of fatigue, headache, weight loss, sweating, and palpitations. He is otherwise healthy and takes no medications. He does not use tobacco, alcohol, or illicit drugs. Physical examination reveals lid lag and a fine hand tremor. Neck examination reveals mild, diffuse enlargement of the thyroid gland. Laboratory results are as follows: TSH 10 uU/mL, Free thyroxine (T4) 3.0 ng/dL (normal: 0.9-1.7), Total triiodothyronine (T3) 400 ng/dL {{exhibit_1}}",
+    "zh": "一名41岁男性因4个月的疲劳、头痛、体重减轻、出汗和心悸病史来就诊。他身体健康，未服用任何药物。他不吸烟、不饮酒，也不吸食违禁药物。体格检查显示眼睑迟滞和细微的手部震颤。颈部检查显示甲状腺轻度弥漫性增大。实验室结果如下：促甲状腺激素 (TSH) 10 uU/mL，游离甲状腺素 (T4) 3.0 ng/dL（正常：0.9-1.7），总三碘甲状腺原氨酸 (T3) 400 ng/dL {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's disorder?",
+    "zh": "以下哪项最可能是该患者疾病的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Elevated thyroxine-binding globulin",
+      "zh": "甲状腺素结合球蛋白升高"
+    },
+    "B": {
+      "en": "Graves disease",
+      "zh": "Graves 病（格雷夫斯病）"
+    },
+    "C": {
+      "en": "Painless thyroiditis",
+      "zh": "无痛性甲状腺炎"
+    },
+    "D": {
+      "en": "Pituitary tumor",
+      "zh": "垂体肿瘤"
+    },
+    "E": {
+      "en": "Thyroid cancer",
+      "zh": "甲状腺癌"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Hypothyroidism typically presents with fatigue, weight loss, and palpitations associated with elevated thyroid hormone levels. Hyperadrenergic signs (eg, lid lag, tremor) are also common. Most patients have primary hyperthyroidism (ie, intrinsic thyroid disorder with increased thyroid hormone release); TSH is low due to feedback suppression. However, this patient has an elevated TSH, suggesting a pituitary etiology (ie, secondary hyperthyroidism). The most common cause of secondary hyperthyroidism is a TSH-secreting pituitary adenoma. The excess TSH causes generalized hypertrophy of the thyroid gland, manifesting as a diffuse goiter. {{exhibit_2}}\n(Choice A) Most thyroid hormone is transported bound to plasma proteins, primarily thyroxine-binding globulin (TBG). Estrogen (eg, pregnancy, oral contraceptives) causes increased production of TBG, which lowers free thyroid hormone levels. A brief rise in TSH subsequently increases production of thyroid hormone to saturate the increased TBG binding sites, and the patient returns to a euthyroid state. Total T3 and T4 are elevated, but TSH and free hormone levels are normal.\n(Choices B and C) Graves disease is caused by autoantibodies that activate the TSH receptor and induce thyroid hormone production. Painless thyroiditis is characterized by autoimmune destruction of thyroid follicles with release of preformed thyroid hormone. Both conditions cause hyperthyroidism with elevated thyroid hormone levels, but TSH is suppressed by feedback inhibition.\n(Choice E) Thyroid cancer typically presents with a hard, asymmetric goiter. Adjacent thyroid tissue may be compressed and nonfunctional, but the contralateral lobe can usually compensate and patients are typically euthyroid. Thyroid follicular tumors may occasionally cause hyperthyroidism due to autonomous thyroid hormone production, but TSH is suppressed.",
+    "zh": "甲状腺功能减退症通常表现为疲劳、体重减轻和心悸，并伴有甲状腺激素水平升高。高肾上腺素能体征（例如，眼睑迟滞、震颤）也很常见。大多数患者患有原发性甲状腺功能亢进症（即，甲状腺内在性疾病，甲状腺激素释放增加）；由于负反馈抑制，TSH 较低。然而，该患者的TSH 升高，提示垂体病因（即，继发性甲状腺功能亢进症）。继发性甲状腺功能亢进症最常见的原因是分泌促甲状腺激素 (TSH) 的垂体腺瘤。过多的 TSH 会导致甲状腺普遍肥大，表现为弥漫性甲状腺肿。{{exhibit_2}}\n(选项 A) 大多数甲状腺激素与血浆蛋白结合转运，主要是甲状腺素结合球蛋白 (TBG)。雌激素（例如，怀孕、口服避孕药）会导致 TBG 产生增加，从而降低游离甲状腺激素水平。随后TSH短暂升高会增加甲状腺激素的产生，以饱和增加的TBG结合位点，患者恢复到甲状腺功能正常状态。总T3和T4升高，但TSH和游离激素水平正常。\n(选项 B 和 C) Graves 病是由激活TSH受体并诱导甲状腺激素产生的自身抗体引起的。无痛性甲状腺炎的特征是自身免疫性破坏甲状腺滤泡，并释放预先形成的甲状腺激素。这两种情况都会导致甲状腺功能亢进症，并伴有甲状腺激素水平升高，但 TSH 会受到负反馈抑制。\n(选项 E) 甲状腺癌通常表现为质硬、不对称的甲状腺肿。邻近的甲状腺组织可能受到压迫且无功能，但对侧叶通常可以代偿，并且患者通常甲状腺功能正常。甲状腺滤泡肿瘤有时可能因自主性甲状腺激素产生而导致甲状腺功能亢进症，但TSH受到抑制。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of secondary hyperthyroidism, specifically the etiology and presentation of a TSH-secreting pituitary adenoma. It requires interpreting laboratory values (elevated TSH, T3, and T4) and correlating them with clinical findings (diffuse goiter, hyperadrenergic symptoms). \n\nThe approach to solving this question involves recognizing the elevated TSH in the context of elevated thyroid hormones, which points to a secondary cause. Then, consider the most common cause of secondary hyperthyroidism, which is a TSH-secreting pituitary adenoma.",
+    "zh": "这道题考察对继发性甲状腺功能亢进症的了解，特别是分泌促甲状腺激素 (TSH) 的垂体腺瘤的病因和表现。它需要解释实验室数值（TSH、T3 和 T4 升高），并将它们与临床发现（弥漫性甲状腺肿、高肾上腺素能症状）相关联。\n\n解决这道题的方法包括在甲状腺激素升高的背景下识别升高的 TSH，这指向继发性病因。然后，考虑继发性甲状腺功能亢进症最常见的原因，即分泌促甲状腺激素 (TSH) 的垂体腺瘤。"
+  },
+  "tags": "Hyperthyroidism; Pituitary adenoma; TSH; Thyroid hormones; Endocrinology; Secondary hyperthyroidism; Goiter",
+  "category": "Endo",
+  "question_id": "20265",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\20265",
+  "extracted_at": "2025-11-05T14:06:06.564451",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:40:30.281818",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

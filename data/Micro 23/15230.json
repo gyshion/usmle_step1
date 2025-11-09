@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old man comes to the emergency department due to bloody diarrhea. The patient's symptoms began 10 days ago with episodic abdominal discomfort and loose stools. The symptoms have progressively worsened, and he has had 6-8 stools mixed with blood and mucus over the past 2 days. The patient recently returned from a 2-week trip to Egypt and felt well while traveling. Temperature is 38 C (100.4 F), blood pressure is 120/70 mm Hg, and pulse is 86/min. The abdomen is soft with mild tenderness on palpation of lower quadrants. There is no guarding or rebound tenderness, and bowel sounds are hyperactive. Stool testing is negative for Clostridioides difficile toxin, and stool culture yields no bacteria. Sigmoidoscopy with biopsy reveals colonic ulcers with undermining edges that contain trophozoites. {{exhibit_1}} The organism responsible for this patient's condition can also cause which of the following extraintestinal manifestations?",
+    "zh": "一名24岁男性因血性腹泻来到急诊科就诊。患者的症状始于10天前，表现为阵发性腹部不适和稀便。症状逐渐恶化，在过去2天内，他有6-8次大便，混有血液和粘液。患者最近从埃及进行了为期2周的旅行回来，旅行期间感觉良好。体温38摄氏度（100.4华氏度），血压120/70毫米汞柱，脉搏86次/分钟。腹部柔软，触诊下腹部时有轻微压痛。无腹肌紧张或反跳痛，肠鸣音亢进。粪便检测对艰难梭菌毒素呈阴性，粪便培养未检出细菌。乙状结肠镜检查和活检显示结肠溃疡，边缘有潜行，其中含有滋养体。{{exhibit_1}} 导致该患者病情的病原体也可引起以下哪种肠外表现？"
+  },
+  "question": {
+    "en": "The organism responsible for this patient's condition can also cause which of the following extraintestinal manifestations?",
+    "zh": "导致该患者病情的病原体也可引起以下哪种肠外表现？"
+  },
+  "options": {
+    "A": {
+      "en": "Bile duct obstruction",
+      "zh": "胆管梗阻"
+    },
+    "B": {
+      "en": "Cystic brain lesions",
+      "zh": "脑囊性病变"
+    },
+    "C": {
+      "en": "Granulomatous cystitis",
+      "zh": "肉芽肿性膀胱炎"
+    },
+    "D": {
+      "en": "Itchy cutaneous eruptions",
+      "zh": "瘙痒性皮肤疹"
+    },
+    "E": {
+      "en": "Liver abscess",
+      "zh": "肝脓肿"
+    },
+    "F": {
+      "en": "Reactive arthritis",
+      "zh": "反应性关节炎"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Entamoeba histolytica is an amoeba that infects the gastrointestinal tract of humans and is transmitted via the fecal-oral route when cysts are ingested from contaminated food or water. Cases are most common in developing regions where sanitation is poor. Most infected patients have no symptoms, but a minority (~10%) develop clinically significant colitis with subacute bloody, mucoid diarrhea, abdominal pain, and fever. The diagnosis is confirmed when cysts and trophozoites are seen on stool studies and/or colonic biopsy demonstrates flask-shaped ulcers (with trophozoites).\n\nAlthough most infections stay localized to the colon, a small minority (~1%) disseminate through the bloodstream to the liver, lungs, and/or brain. The most common extraintestinal manifestation is a single amebic liver abscess in the right lobe of the liver. Invasive strains are more likely to have amebic proteases that degrade host extracellular matrix components and secretory IgA. Most invasive strains also demonstrate contact-dependent cytotoxicity, which is facilitated by an amebic lectin that binds to host cells.\n\n(Choice A) Liver flukes (eg, Clonorchis, Opisthorchis) most often occur after a person consumes contaminated fish. The pathogen can remain in the bile duct of an infected person for decades. Many cases are asymptomatic, but complications such as bile duct obstruction can occur.\n\n(Choice B) Ingestion of the pork tapeworm Taenia solium in the egg stage leads to neurocysticercosis, which is characterized by the formation of cystic brain lesions. Manifestations often occur years later and include seizures (primarily) and focal neurologic signs. Spread of E histolytica to the brain would cause an abscess, not a cyst.\n\n(Choice C) Schistosomiasis is an infection caused by parasitic blood flukes acquired from bathing/swimming in water contaminated with infected freshwater snails. Intestinal schistosomiasis (eg, Schistosoma mansoni) can cause colitis, but trophozoites would not be seen on colonic biopsy. Granulomatous cystitis is seen with genitourinary, not intestinal, schistosomiasis (eg, Schistosoma haematobium).\n\n(Choice D) Cutaneous larva migrans is a hookworm infection that causes an intensely itchy, reddish-brown, migrating, serpiginous track in the area near penetration (usually the lower extremities).\n\n(Choice F) Reactive arthritis can develop following gastrointestinal infection with certain bacteria (eg, Salmonella, Shigella, Campylobacter), but stool culture would likely show pathogenic bacteria, and trophozoites would not be seen on biopsy. Reactive arthritis is very uncommon with E histolytica infection.\n\nEducational objective:\nEntamoeba histolytica is an amoeba that causes colitis characterized by trophozoites and flask-shaped ulcers on biopsy. It can occasionally (~1%) invade the colonic wall and disseminate through the blood to the liver, brain, or lungs. A single amebic liver abscess is the most common extraintestinal manifestation.",
+    "zh": "溶组织内阿米巴是一种感染人类胃肠道的阿米巴原虫，通过粪口途径传播，当摄入被污染的食物或水中的包囊时发生感染。病例在卫生条件差的发展中地区最为常见。大多数感染患者没有症状，但少数患者（约10%）会发生具有临床意义的结肠炎，表现为亚急性血性、粘液性腹泻、腹痛和发热。当在粪便研究中看到包囊和滋养体和/或结肠活检显示烧瓶状溃疡（带有滋养体）时，即可确诊。\n\n尽管大多数感染局限于结肠，但少数患者（约1%）通过血液传播到肝脏、肺和/或大脑。最常见的肠外表现是肝右叶的单个阿米巴肝脓肿。侵袭性菌株更有可能具有阿米巴蛋白酶，可降解宿主细胞外基质成分和分泌性IgA。大多数侵袭性菌株也表现出接触依赖性细胞毒性，这由结合到宿主细胞的阿米巴凝集素促进。\n\n（选项A）肝吸虫（如，中华肝吸虫、猫肝吸虫）最常发生在人们食用被污染的鱼类后。病原体可以在感染者的胆管中停留数十年。许多病例无症状，但可能发生胆管梗阻等并发症。\n\n（选项B）摄入猪肉绦虫Taenia solium的虫卵会导致神经囊尾蚴病，其特征是形成脑囊性病变。表现通常在数年后出现，包括癫痫发作（主要）和局灶性神经系统体征。溶组织内阿米巴蔓延到大脑会导致脓肿，而不是囊肿。\n\n（选项C）血吸虫病是由寄生性血吸虫引起的感染，这些血吸虫通过在被感染淡水螺污染的水中沐浴/游泳而获得。肠道血吸虫病（如，曼氏血吸虫）可引起结肠炎，但在结肠活检中不会看到滋养体。肉芽肿性膀胱炎可见于泌尿生殖系统，而非肠道血吸虫病（如，埃及血吸虫）。\n\n（选项D）皮肤幼虫移行症是一种钩虫感染，可导致在穿透区域附近（通常是下肢）出现强烈瘙痒、红棕色、移行性、蛇形通道。\n\n（选项F）反应性关节炎可在某些细菌（如，沙门氏菌、志贺氏菌、弯曲杆菌）引起的胃肠道感染后发生，但粪便培养可能显示病原性细菌，并且在活检中不会看到滋养体。溶组织内阿米巴感染引起的反应性关节炎非常罕见。\n\n教学目标：\n溶组织内阿米巴是一种引起结肠炎的阿米巴原虫，其特征是在活检中发现滋养体和烧瓶状溃疡。它偶尔（约1%）会侵入结肠壁，并通过血液传播到肝脏、大脑或肺部。单个阿米巴肝脓肿是最常见的肠外表现。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Entamoeba histolytica infection, its transmission, clinical presentation, diagnosis, and extraintestinal manifestations, particularly liver abscess. It requires recognizing the classic colitis presentation with bloody diarrhea and flask-shaped ulcers on biopsy, along with the patient's travel history to an endemic region.\n\nTo solve this question, identify the causative organism based on the clinical scenario and biopsy findings. Then, recall the common extraintestinal manifestations of E. histolytica, with liver abscess being the most frequent. Rule out other options based on their association with different organisms or disease processes.",
+    "zh": "此题考察对溶组织内阿米巴感染的认识，包括其传播、临床表现、诊断和肠外表现，特别是肝脓肿。需要认识到以血性腹泻和活检显示烧瓶状溃疡为特征的典型结肠炎表现，以及患者前往流行地区的旅行史。\n\n要解决这个问题，请根据临床情况和活检结果确定病原体。然后，回忆E. histolytica的常见肠外表现，其中肝脓肿最为常见。根据其他选项与不同病原体或疾病过程的关联来排除其他选项。"
+  },
+  "tags": "Amebiasis; Entamoeba histolytica; Liver abscess; Colitis; Infectious disease; Gastroenterology; Travel medicine; Parasitology; Trophozoites; Flask-shaped ulcers",
+  "category": "Micro",
+  "question_id": "15230",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\15230",
+  "extracted_at": "2025-11-05T14:58:42.850206",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:08:37.085975",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

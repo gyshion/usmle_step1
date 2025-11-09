@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 28-year-old man comes to the office to discuss hair loss. He has hair loss primarily around the temples, which began insidiously 3 years ago. The patient is concerned because several of his family members became almost completely bald by their late 30s. He otherwise feels healthy and has normal muscle strength, libido, and erectile function. The patient is married, has 2 children, and works as a charter airplane pilot. Physical examination shows moderate thinning of hair at the anterior scalp, temporal region, and vertex. An oral medication is prescribed to treat the hair loss. After the initiation of therapy, which of the following changes would most likely occur in this patient? {{exhibit_1}}",
+    "zh": "一名28岁男性前来就诊，讨论脱发问题。他的脱发主要发生在太阳穴周围，3年前开始缓慢出现。患者很担心，因为他的几个家庭成员在30多岁末就几乎完全秃顶了。他感觉健康，肌肉力量、性欲和勃起功能正常。患者已婚，有两个孩子，是一名包机飞行员。体格检查显示前额、颞部和头顶的头发有中度稀疏。开了一种口服药物来治疗脱发。在开始治疗后，该患者最有可能发生以下哪种变化？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "After the initiation of therapy, which of the following changes would most likely occur in this patient?",
+    "zh": "开始治疗后，该患者最有可能发生以下哪种变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased Decreased Decreased",
+      "zh": "降低 降低 降低"
+    },
+    "B": {
+      "en": "Decreased Decreased Increased",
+      "zh": "降低 降低 升高"
+    },
+    "C": {
+      "en": "Decreased Increased Increased",
+      "zh": "降低 升高 升高"
+    },
+    "D": {
+      "en": "Increased Decreased Increased",
+      "zh": "升高 降低 升高"
+    },
+    "E": {
+      "en": "Increased Increased Decreased",
+      "zh": "升高 升高 降低"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has androgenetic alopecia (often called male pattern hair loss), which presents with progressive hair loss at the temples, frontal hairline, and vertex. Androgenetic alopecia is characterized by a shortened anagen hair growth phase in the affected portions of the scalp, leading to shorter, thinner hair shafts (follicular miniaturization) with increased apoptosis at the dermal papillae.\n\nAs the name implies, androgenetic alopecia is driven by both inherited (polygenic inheritance) and hormonal factors. Dihydrotestosterone (DHT) appears to be the primary androgen responsible for hair loss. Although total androgen levels are similar in affected and unaffected men, patients with androgenetic alopecia have a greater effect of DHT due to increased local conversion of testosterone to DHT and increased concentrations of androgen receptors in affected areas of the scalp.\n\nAndrogenetic alopecia can be treated with 5-alpha reductase inhibitors (eg, finasteride), which decrease conversion of testosterone to DHT in the tissues. However, by preventing conversion to DHT, they increase the level of testosterone, which is then available for conversion to estradiol by aromatase. This can lead to mild feminizing effects (eg, gynecomastia) in some patients. Other treatments for androgenetic alopecia include topical minoxidil, a vasodilator that appears to increase the vascularity of the dermal papillae. {{exhibit_2}}\n\n(Choices A, B, C, and E) Inhibition of 5-alpha reductase by finasteride lowers DHT formation, leading to higher levels of testosterone and increased conversion to estradiol.\n\nEducational objective:\nAndrogenetic alopecia causes hair loss primarily at the anterior scalp and vertex. It shows polygenic inheritance, with dihydrotestosterone (DHT) being the primary pathogenic factor. Five-alpha reductase inhibitors decrease the conversion of testosterone to DHT and are effective for treating the condition.",
+    "zh": "该患者患有雄激素性脱发（通常称为男性型脱发），表现为颞部、前发际线和头顶进行性脱发。雄激素性脱发的特征是受影响头皮区域的生长期缩短，导致毛发更短、更细（毛囊小型化），真皮乳头细胞凋亡增加。\n\n顾名思义，雄激素性脱发是由遗传因素（多基因遗传）和激素因素共同驱动的。二氢睾酮（DHT）似乎是导致脱发的主要雄激素。尽管受影响和未受影响男性的总雄激素水平相似，但雄激素性脱发患者由于睾酮转化为 DHT 的局部转化增加以及受影响头皮区域的雄激素受体浓度增加，DHT 的影响更大。\n\n雄激素性脱发可以用 5-α 还原酶抑制剂（如非那雄胺）治疗，这些药物可减少睾酮在组织中转化为 DHT。然而，通过阻止转化为 DHT，它们会增加睾酮水平，然后睾酮可被芳香化酶转化为雌二醇。这可能导致一些患者出现轻微的女性化效应（如男性乳房发育症）。雄激素性脱发的其他治疗方法包括外用米诺地尔，这是一种血管扩张剂，似乎可以增加真皮乳头的血管分布。 {{exhibit_2}}\n\n（选项 A、B、C 和 E）非那雄胺抑制 5-α 还原酶会降低 DHT 的形成，导致睾酮水平升高和转化为雌二醇的增加。\n\n教育目标：\n雄激素性脱发主要导致前额和头顶脱发。它显示多基因遗传，二氢睾酮 (DHT) 是主要的致病因素。 5-α 还原酶抑制剂可减少睾酮向 DHT 的转化，并对治疗该病有效。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of androgenetic alopecia (male pattern baldness) and the mechanism of action of 5-alpha reductase inhibitors like finasteride. It assesses understanding of how these drugs affect hormone levels.\n\nThe key to solving this question is recognizing that finasteride decreases DHT levels while increasing testosterone and estradiol levels. Understanding the hormonal pathways involved in androgenetic alopecia is crucial.",
+    "zh": "本题考察对雄激素性脱发（男性型秃发）的了解，以及非那雄胺等 5-α 还原酶抑制剂的作用机制。它评估对这些药物如何影响激素水平的理解。\n\n解决此问题的关键是认识到非那雄胺降低了 DHT 水平，同时增加了睾酮和雌二醇水平。了解雄激素性脱发中涉及的激素途径至关重要。"
+  },
+  "tags": "Androgenetic alopecia; Male pattern baldness; Dihydrotestosterone; Testosterone; Estradiol; 5-alpha reductase inhibitors; Finasteride; Endocrinology; Dermatology; Hair loss",
+  "category": "Derma",
+  "question_id": "1726",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\1726",
+  "extracted_at": "2025-11-05T13:54:37.362031",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:34:35.813212",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

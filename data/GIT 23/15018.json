@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 69-year-old man is evaluated for abdominal pain. Upper gastrointestinal endoscopy shows a single shallow, 1-cm ulcer in the duodenal bulb and mild gastric erythema. Biopsy specimens from the gastric antrum do not show *Helicobacter pylori*, and stool testing for *H pylori* antigen is negative. {{exhibit_1}}",
+    "zh": "一名69岁男性因腹痛就诊。上消化内镜检查显示十二指肠球部有一个1厘米的浅表溃疡和轻度胃红斑。胃窦活检标本未显示幽门螺杆菌（*Helicobacter pylori*），粪便幽门螺杆菌抗原检测呈阴性。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following parts of the history is most likely to reveal the cause of this patient's current condition?",
+    "zh": "以下病史的哪一部分最有可能揭示该患者目前病情的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Family history",
+      "zh": "家族史"
+    },
+    "B": {
+      "en": "Food diary",
+      "zh": "饮食日记"
+    },
+    "C": {
+      "en": "Medication use",
+      "zh": "用药情况"
+    },
+    "D": {
+      "en": "Recent travel",
+      "zh": "近期旅行"
+    },
+    "E": {
+      "en": "Seasonal allergies",
+      "zh": "季节性过敏"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Peptic ulcers (defects in the stomach or duodenal mucosa) are most commonly due to *Helicobacter pylori* infection or nonsteroidal anti-inflammatory drug (NSAID) use.  \nThe educational objective is: Peptic ulcers are most commonly caused by *Helicobacter pylori* infection or nonsteroidal anti-inflammatory drug (NSAID) use. NSAIDs inhibit cyclo-oxygenase-1, leading to increased gastric acid formation, decreased mucosal bicarbonate production, and decreased mucosal blood flow, which promote mucosal injury and ulcer formation.",
+    "zh": "消化性溃疡（胃或十二指肠黏膜的缺损）最常见的原因是幽门螺杆菌感染或非甾体抗炎药（NSAID）的使用。\n教育目标是：消化性溃疡最常见的原因是幽门螺杆菌感染或非甾体抗炎药（NSAID）的使用。NSAIDs抑制环氧合酶-1，导致胃酸形成增加，黏膜碳酸氢盐产生减少，黏膜血流减少，从而促进黏膜损伤和溃疡形成。"
+  },
+  "summary": {
+    "en": "The patient presents with an ulcer, and H. pylori has been ruled out. The most likely cause is NSAID use. NSAIDs inhibit cyclo-oxygenase-1, leading to increased gastric acid formation, decreased mucosal bicarbonate production, and decreased mucosal blood flow, which promote mucosal injury and ulcer formation.",
+    "zh": "患者出现溃疡，并且已经排除了幽门螺杆菌。最可能的原因是非甾体抗炎药（NSAID）的使用。NSAIDs抑制环氧合酶-1，导致胃酸形成增加，黏膜碳酸氢盐产生减少，黏膜血流减少，从而促进黏膜损伤和溃疡形成。"
+  },
+  "tags": [
+    "Gastrointestinal",
+    "Peptic Ulcer Disease",
+    "NSAIDs",
+    "H. pylori"
+  ],
+  "category": "GIT",
+  "question_id": "15018",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\15018",
+  "extracted_at": "2025-11-05T14:25:23.745299",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T17:51:56.442499",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

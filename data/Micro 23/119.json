@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "Which of the following best explains the presence of the organism in this patient's sputum sample? {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "以下哪项最能解释该患者痰液样本中存在这种生物体的原因？ {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "question": {
+    "en": "Which of the following best explains the presence of the organism in this patient's sputum sample?",
+    "zh": "以下哪项最能解释该患者痰液样本中存在这种生物体的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Colonization of a preexisting lung cavity",
+      "zh": "已存在肺部空腔的定植"
+    },
+    "B": {
+      "en": "Contamination by normal oral flora",
+      "zh": "正常口腔菌群的污染"
+    },
+    "C": {
+      "en": "Embolization of infectious microthrombi",
+      "zh": "感染性微血栓的栓塞"
+    },
+    "D": {
+      "en": "Lung infection from inhaled microconidia",
+      "zh": "吸入微孢子引起的肺部感染"
+    },
+    "E": {
+      "en": "Proliferation of previously latent organism",
+      "zh": "先前潜伏的生物体的增殖"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's 30-pack-year smoking history, low-grade fever, productive cough, normal pulse oximetry, and pulmonary rhonchi suggest a chronic obstructive pulmonary disease (COPD) exacerbation. Although expectorated sputum cultures are not routinely obtained in patients with COPD exacerbation, they may help identify the underlying respiratory pathogen in certain cases (eg, concern for drug-resistant organism). However, positive expectorated sputum results often indicate contamination with oral flora rather than true infection.\n\nThis patient's sputum culture grew Candida albicans, an oval, budding yeast that forms true hyphae (\"germ tubes\") when incubated at body temperature (37 C). C albicans is a normal commensal of the skin and gastrointestinal tract that occasionally causes mucocutaneous infection (eg, vulvovaginitis, cutaneous candidiasis) but rarely causes invasive disease (eg, sepsis, chorioretinitis, endocarditis); invasive infection primarily occurs in those with significant neutropenia or indwelling vascular catheters (which provide a portal of entry from the skin into the bloodstream). Therefore, the presence of C albicans on a sputum sample almost always indicates contamination with oral flora rather than true infection.\n\nOther common oral contaminants (that almost never indicate true infection) include coagulase-negative staphylococci and enterococci.\n\n(Choice A) Aspergillus fumigatus, a fungus with dichotomous, branching hyphae, can colonize preexisting lung cavities, thereby creating a \"fungus ball\" (aspergilloma). Most aspergillomas are asymptomatic, and the organism does not resemble a yeast in culture.\n\n(Choice C) Candida infective endocarditis can cause pulmonary infection due to septic pulmonary emboli. However, this condition is rare and is typically seen in patients with indwelling vascular catheters or history of intravenous drug use.\n\n(Choice D) Histoplasma capsulatum is a dimorphic fungus that is inhaled as microconidia and converts to a small, ovoid yeast in the lungs. It replicates by forming narrow-based buds, not germ tubes. In addition, most clinically significant cases are associated with pneumonia, not bronchitis.\n\n(Choice E) Mycobacterium tuberculosis pulmonary infection is usually marked by months or years of asymptomatic latency (within granulomas) that may later reactivate and cause cavitary lung disease. Sputum culture would reveal acid-fast bacilli, not yeast.",
+    "zh": "该患者 30 包年吸烟史、低热、有痰咳嗽、脉搏血氧饱和度正常和肺部啰音提示慢性阻塞性肺病 (COPD) 急性加重。虽然在 COPD 急性加重的患者中，通常不常规进行痰培养，但在某些情况下（例如，担心耐药生物体）它们可能有助于识别潜在的呼吸道病原体。然而，痰培养阳性结果通常表明与口腔菌群污染，而不是真正的感染。\n\n该患者的痰培养结果显示白色念珠菌，这是一种卵圆形、出芽的酵母菌，在体温 (37°C) 下孵育时形成真正的菌丝（“芽管”）。白色念珠菌是皮肤和胃肠道的正常共生菌，偶尔会引起黏膜皮肤感染（如外阴阴道炎、皮肤念珠菌病），但很少引起侵袭性疾病（如败血症、脉络膜视网膜炎、心内膜炎）；侵袭性感染主要发生在那些有显著中性粒细胞减少或留置血管导管的患者中（这些导管提供了从皮肤进入血液的入口）。因此，痰液样本中存在白色念珠菌几乎总是表明与口腔菌群污染，而不是真正的感染。\n\n其他常见的口腔污染物（几乎从未表明真正的感染）包括凝固酶阴性葡萄球菌和肠球菌。\n\n（选项 A）烟曲霉菌，一种具有二分叉分支菌丝的真菌，可以定植于已存在的肺部空腔，从而形成“真菌球”（曲霉菌病）。大多数曲霉菌病是无症状的，并且该生物体在培养中不像酵母菌。\n\n（选项 C）念珠菌感染性心内膜炎可因败血性肺栓塞引起肺部感染。然而，这种情况很少见，通常见于留置血管导管或有静脉注射药物使用史的患者。\n\n（选项 D）荚膜组织胞浆菌是一种二形性真菌，以微孢子的形式被吸入，并在肺部转化为小的、卵圆形的酵母。它通过形成窄基芽进行复制，而不是芽管。此外，大多数具有临床意义的病例与肺炎相关，而不是支气管炎。\n\n（选项 E）结核分枝杆菌肺部感染通常以数月或数年的无症状潜伏期（在肉芽肿内）为特征，随后可能重新激活并引起空洞性肺病。痰培养将显示抗酸杆菌，而不是酵母菌。"
+  },
+  "summary": {
+    "en": "The patient's sputum culture grew Candida albicans, a normal commensal of the skin and gastrointestinal tract. Therefore, the presence of C albicans on a sputum sample almost always indicates contamination with oral flora rather than true infection.",
+    "zh": "患者的痰培养结果显示白色念珠菌，这是一种皮肤和胃肠道的正常共生菌。因此，痰液样本中存在白色念珠菌几乎总是表明与口腔菌群污染，而不是真正的感染。"
+  },
+  "tags": [
+    "Microbiology",
+    "Infectious Diseases",
+    "Normal flora"
+  ],
+  "category": "Micro",
+  "question_id": "119",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\119",
+  "extracted_at": "2025-11-05T14:52:20.496099",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:06:14.041825",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,53 @@
+{
+  "question_stem": {
+    "en": "Pulmonary capillary wedge pressure (PCWP) measurements can be used to estimate left atrial pressure; the normal range is between 6-12 mm Hg, and recorded values are whole numbers. A patient in the intensive care unit has 20 serial PCWP measurements taken over the course of 2 hours. Among these 20 observations, the maximal recorded value is 12 mm Hg and the minimal recorded value is 10 mm Hg. If the next measurement is 26 mm Hg, which of the following is most likely to remain unchanged?",
+    "zh": "肺毛细血管楔压 (PCWP) 测量可用于估计左心房压力；正常范围为 6-12 mm Hg，记录值为整数。一名在重症监护病房的患者在 2 小时内进行了 20 次连续的 PCWP 测量。在这些 20 次观察中，最大记录值为 12 mm Hg，最小记录值为 10 mm Hg。如果下一次测量值为 26 mm Hg，以下哪一项最有可能保持不变？"
+  },
+  "question": {
+    "en": "Which of the following is most likely to remain unchanged?",
+    "zh": "以下哪一项最有可能保持不变？"
+  },
+  "options": {
+    "A": {
+      "en": "Mean",
+      "zh": "均值"
+    },
+    "B": {
+      "en": "Mode",
+      "zh": "众数"
+    },
+    "C": {
+      "en": "Range",
+      "zh": "范围"
+    },
+    "D": {
+      "en": "Standard deviation",
+      "zh": "标准差"
+    },
+    "E": {
+      "en": "Variance",
+      "zh": "方差"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "An **outlier** is defined as an extreme and unusual value observed in a dataset. It may be the result of a recording error, a measurement error, or a natural phenomenon. In this case, the value of 26 mm Hg is an outlier as all the other values lie between 10 and 12 mm Hg. An outlier can affect measures of central tendency (mean, median, mode) as well as measures of dispersion (standard deviation, variance).\n\nThis patient had 20 initial measurements that were all between 10 and 12 mm Hg. Although it is not required to answer this question correctly, a numerical example can help to explain the effect of an outlier such as 26 mm Hg. Assume that the patient's 20 initial measurements were: 9 measurements of 10 mm Hg, 6 measurements of 11 mm Hg, and 5 measurements of 12 mm Hg. The **mode** is the most frequently observed data point, so the mode for this initial dataset is 10 mm Hg (because this value is observed 9 times whereas the other 2 values are observed 6 times and 5 times). If the next measurement is 26 mm Hg, the mode would remain 10 mm Hg because this would still be the most commonly observed value. Therefore, the mode would remain unchanged. The mode tends to be resistant to outliers because outliers are not likely to affect the most frequently observed value in a dataset.\n\n(Choice A) The **mean** (or average) can be quite sensitive to outliers, especially in the case of small datasets and extreme outliers. For instance, the mean of the 20 initial measurements is 10.8 mm Hg (obtained by calculating [9 × 10 mm Hg + 6 × 11 mm Hg + 5 × 12 mm Hg] / 20). With an additional measurement of 26 mm Hg, the mean would become 11.5 mm Hg (obtained by calculating [1 × 26 mm Hg + 9 × 10 mm Hg + 6 × 11 mm Hg + 5 × 12 mm Hg] / 21).\n\n(Choice C) The **range** is equal to the maximal value minus the minimal value and would clearly be affected by outliers. With the 20 initial measurements, the range is 12 mm Hg – 10 mm Hg = 2 mm Hg. If the next measurement is 26 mm Hg, then the range will be 26 mm Hg – 10 mm Hg = 16 mm Hg.\n\n(Choices D and E) The standard deviation and variance are measures of dispersion, which reflect how spread out the values in a dataset are from one another. The standard deviation and variance tend to be sensitive to outliers because outliers increase the dispersion of datasets.\n\nEducational objective:\n\nAn outlier is defined as an extreme and unusual value in a dataset. It can affect measures of central tendency (mean, median, mode) as well as measures of dispersion (standard deviation, variance). Modes tend to be resistant to outliers.",
+    "zh": "**离群值**定义为在数据集中观察到的极端和不寻常的值。它可能是记录错误、测量错误或自然现象的结果。在这种情况下，26 mm Hg 的值是一个离群值，因为所有其他值都在 10 到 12 mm Hg 之间。离群值会影响集中趋势的度量（均值、中位数、众数）以及离散程度的度量（标准差、方差）。\n\n该患者最初的 20 次测量值均在 10 到 12 mm Hg 之间。虽然不需要正确回答这个问题，但一个数值例子可以帮助解释离群值（如 26 mm Hg）的影响。假设患者最初的 20 次测量结果为：9 次测量值为 10 mm Hg，6 次测量值为 11 mm Hg，5 次测量值为 12 mm Hg。**众数**是出现频率最高的观测数据点，因此该初始数据集的众数为 10 mm Hg（因为该值的观测次数为 9 次，而其他 2 个值的观测次数分别为 6 次和 5 次）。如果下一次测量值为 26 mm Hg，则众数将保持为 10 mm Hg，因为这仍然是观察到的最常见的值。因此，众数将保持不变。众数往往对离群值具有抵抗力，因为离群值不太可能影响数据集中出现频率最高的值。\n\n（选项 A）**均值**（或平均值）可能对离群值非常敏感，尤其是在小型数据集和极端离群值的情况下。例如，20 次初始测量的均值为 10.8 mm Hg（通过计算 [9 × 10 mm Hg + 6 × 11 mm Hg + 5 × 12 mm Hg] / 20 得到）。如果增加一个 26 mm Hg 的测量值，均值将变为 11.5 mm Hg（通过计算 [1 × 26 mm Hg + 9 × 10 mm Hg + 6 × 11 mm Hg + 5 × 12 mm Hg] / 21 得到）。\n\n（选项 C）**范围**等于最大值减去最小值，显然会受到离群值的影响。对于 20 次初始测量，范围为 12 mm Hg – 10 mm Hg = 2 mm Hg。如果下一次测量值为 26 mm Hg，则范围将为 26 mm Hg – 10 mm Hg = 16 mm Hg。\n\n（选项 D 和 E）标准差和方差是离散程度的度量，反映了数据集中各个值的彼此分散程度。标准差和方差往往对离群值敏感，因为离群值增加了数据集的离散程度。\n\n教育目标：\n\n离群值定义为数据集中极端的、不寻常的值。它会影响集中趋势的度量（均值、中位数、众数）以及离散程度的度量（标准差、方差）。众数往往对离群值具有抵抗力。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of statistical measures, specifically how outliers affect the mean, mode, range, standard deviation, and variance of a dataset. It assesses the ability to determine which measure is least affected by the presence of an outlier.\n\nTo solve this question, remember that the mode represents the most frequent value in the dataset. Outliers are extreme values and have less impact on the most frequent value, therefore the mode. The other measures such as mean, range, standard deviation, and variance are more susceptible to changes caused by outliers.",
+    "zh": "本题考察对统计学指标的理解，特别是离群值如何影响数据集的均值、众数、范围、标准差和方差。它评估确定哪个指标受离群值存在影响最小的能力。\n\n要解决这个问题，请记住，众数代表数据集中出现频率最高的值。离群值是极端值，对出现频率最高的值影响较小，因此是众数。均值、范围、标准差和方差等其他指标更容易受到离群值引起的变化的影响。"
+  },
+  "tags": "Biostatistics; Central tendency; Outlier; Mean; Mode; Range; Standard deviation; Variance",
+  "category": "Bio",
+  "question_id": "1183",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1183",
+  "extracted_at": "2025-11-05T10:27:58.234233",
+  "translated_at": "2025-11-07T16:19:01.400166",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,69 @@
+{
+  "question_stem": {
+    "en": "A 10-year-old boy is brought to the clinic due to nausea, vomiting, generalized headache, ataxia, and vision disturbances. The headaches have been occurring daily for the past 6 weeks and wake him from sleep. MRI reveals a tumor in the cerebellum. Biopsy of the tumor shows a well-differentiated neoplasm composed of cells that have hair-like glial processes along with eosinophilic corkscrew-shaped fibers and granular bodies. Based on these findings, which of the following is the most likely diagnosis?",
+    "zh": "一名10岁男孩因恶心、呕吐、全身性头痛、共济失调和视力障碍被带到诊所就诊。头痛已持续6周，每天都会发作，并会在睡眠中醒来。MRI显示小脑内有一个肿瘤。肿瘤活检显示一个分化良好的肿瘤，由具有毛发状神经胶质突起的细胞以及嗜酸性螺旋状纤维和颗粒体组成。根据这些发现，以下哪项最可能是诊断？"
+  },
+  "question": {
+    "en": "Based on these findings, which of the following is the most likely diagnosis?",
+    "zh": "根据这些发现，以下哪项最可能是诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Ependymoma",
+      "zh": "室管膜瘤"
+    },
+    "B": {
+      "en": "Glioblastoma",
+      "zh": "胶质母细胞瘤"
+    },
+    "C": {
+      "en": "Medulloblastoma",
+      "zh": "髓母细胞瘤"
+    },
+    "D": {
+      "en": "Neuroblastoma",
+      "zh": "神经母细胞瘤"
+    },
+    "E": {
+      "en": "Pilocytic astrocytoma",
+      "zh": "毛细胞型星形细胞瘤"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Pilocytic astrocytoma {{exhibit_1}}\nBiopsy of this patient's cerebellar mass reveals features consistent with pilocytic astrocytoma (PCA). PCAs are the most common pediatric brain tumor and typically arise infratentorially, specifically within the cerebellum, often leading to headaches, nausea, vomiting, and cerebellar dysfunction (eg, ataxia). Less commonly, PCAs may arise in the brainstem, hypothalamus, or optic pathway.\n\nMicroscopic examination frequently reveals a well-circumscribed tumor containing bipolar astrocytes with ovoid nuclei and hair-like (ie, piloid) processes. These processes contain glial fibrillary acidic protein (GFAP), indicative of glial lineage. Proteinaceous, eosinophilic, cytoplasmic inclusions with a corkscrew appearance (ie, Rosenthal fibers) and eosinophilic granular bodies (thought to be derived from lysosomes) are also often present.\n\n(Choice A) Ependymomas often arise near the ventricular system and may also cause headaches, nausea, vomiting, and ataxia. However, histopathologic examination typically shows ependymal cells arranged around a central blood vessel (ie, perivascular pseudorosette).\n\n(Choice B) Glioblastomas are malignant glial tumors that occur most often in adults. They are often located in the cerebral hemispheres and may cross the corpus callosum. They are composed of atypical (eg, pleomorphic, hyperchromatic) astrocytes that often accumulate around regions of necrosis (ie, pseudopalisaiding). Microvascular proliferation is also commonly present.\n\n(Choice C) Medulloblastomas, another common pediatric brain tumor, also primarily arise within the cerebellum. However, histopathologic examination often shows small, round, blue tumor cells that may be arranged around a central core of neuropil (ie, fibrillary material containing neuronal processes), forming Homer-Wright rosettes.\n\n(Choice D) Neuroblastomas, the third most common childhood cancer after leukemia and CNS tumors, are embryonal neuroendocrine tumors typically found in the adrenal medulla or sympathetic ganglia. Histopathologic examination often shows small, round, blue tumor cells that can form Homer-Wright rosettes.\n\nEducational objective:\nPilocytic astrocytoma is the most common pediatric brain tumor and is typically found in the cerebellum. Histopathologic findings often include a well-differentiated neoplasm composed of cells with hair-like processes that stain positively for glial fibrillary acidic protein. Eosinophilic corkscrew-shaped (Rosenthal) fibers and eosinophilic granular bodies are frequently present. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "毛细胞型星形细胞瘤 {{exhibit_1}}\n该患者小脑肿块的活检显示，其特征与毛细胞型星形细胞瘤 (PCA) 一致。PCA 是最常见的儿童脑肿瘤，通常发生在幕下，特别是小脑内，常导致头痛、恶心、呕吐和小脑功能障碍（如共济失调）。不太常见的是，PCA 可能会出现在脑干、下丘脑或视通路中。\n\n显微镜检查常显示一个边界清楚的肿瘤，包含双极星形胶质细胞，具有卵圆形核和毛发状（即毛状）突起。这些突起包含胶质纤维酸性蛋白 (GFAP)，表明神经胶质谱系。也经常存在具有螺旋状外观（即 Rosenthal 纤维）的蛋白性、嗜酸性细胞质内含物和嗜酸性颗粒体（被认为源自溶酶体）。\n\n（选项A）室管膜瘤常发生在脑室系统附近，也可能引起头痛、恶心、呕吐和共济失调。然而，组织病理学检查通常显示室管膜细胞围绕中央血管排列（即血管周围假菊形团）。\n\n（选项B）胶质母细胞瘤是恶性神经胶质瘤，最常发生于成人。它们通常位于大脑半球，并可能穿过胼胝体。它们由非典型（例如，多形性、高染色性）星形胶质细胞组成，这些细胞通常聚集在坏死区域周围（即假栅状）。微血管增生也很常见。\n\n（选项C）髓母细胞瘤是另一种常见的儿童脑肿瘤，也主要起源于小脑。然而，组织病理学检查常显示小的、圆形的、蓝色的肿瘤细胞，这些细胞可以围绕神经毡的中心核心（即含有神经元突起的纤维状物质）排列，形成 Homer-Wright 菊形团。\n\n（选项D）神经母细胞瘤是继白血病和 CNS 肿瘤之后第三大儿童癌症，是一种胚胎性神经内分泌肿瘤，通常位于肾上腺髓质或交感神经节。组织病理学检查常显示小的、圆形的、蓝色的肿瘤细胞，这些细胞可以形成 Homer-Wright 菊形团。\n\n教育目标：\n毛细胞型星形细胞瘤是最常见的儿童脑肿瘤，通常位于小脑。组织病理学发现常包括一个分化良好的肿瘤，由具有毛发状突起的细胞组成，这些细胞对胶质纤维酸性蛋白呈阳性染色。经常存在嗜酸性螺旋状（Rosenthal）纤维和嗜酸性颗粒体。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pediatric brain tumors, specifically pilocytic astrocytoma, and its characteristic histopathological features. It requires recognizing the classic presentation and microscopic findings associated with this tumor. \n\nThe best approach is to correlate the clinical presentation (cerebellar symptoms in a child) with the histopathological description (well-differentiated neoplasm with hair-like processes, Rosenthal fibers, and eosinophilic granular bodies). Ruling out other pediatric brain tumors based on their distinct features is also crucial.",
+    "zh": "此问题测试对儿童脑肿瘤的了解，特别是毛细胞型星形细胞瘤及其特征性组织病理学特征。它要求识别与该肿瘤相关的典型表现和显微镜下发现。\n\n最好的方法是将临床表现（儿童的小脑症状）与组织病理学描述（具有毛发状突起、Rosenthal 纤维和嗜酸性颗粒体的分化良好的肿瘤）相关联。根据其他儿童脑肿瘤的独特特征来排除它们也很重要。"
+  },
+  "tags": "Pilocytic astrocytoma; Pediatric brain tumor; Cerebellum; Rosenthal fibers; Eosinophilic granular bodies; GFAP; Histopathology; Neurology; Oncology",
+  "exhibit_1": null,
+  "exhibit_2": null,
+  "exhibit_3": null,
+  "exhibit_4": null,
+  "exhibit_5": null,
+  "category": "Neuro",
+  "question_id": "1153",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1153",
+  "extracted_at": "2025-11-05T15:08:38.342176",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:16:59.796664",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

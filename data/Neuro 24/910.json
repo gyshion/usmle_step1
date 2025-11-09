@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 10-year-old boy whose family recently immigrated to the United States is brought to the physician with ataxia, myoclonus, and visual problems. His parents say that he began acting strangely and having difficulty with school work several months ago. After the appropriate workup, a brain biopsy is obtained and an RNA virus containing hemagglutinin is cultured from the tissue sample.",
+    "zh": "一名10岁男孩，其家人最近移民到美国，因共济失调、肌阵挛和视力问题就诊。他的父母说，几个月前他开始行为异常，并且学习困难。经过适当的检查后，获得脑活检，并从组织样本中培养出含有血凝素的RNA病毒。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Creutzfeldt-Jakob disease",
+      "zh": "克雅病"
+    },
+    "B": {
+      "en": "Guillain-Barré syndrome",
+      "zh": "格林-巴利综合征"
+    },
+    "C": {
+      "en": "Multiple sclerosis",
+      "zh": "多发性硬化"
+    },
+    "D": {
+      "en": "Progressive multifocal leukoencephalopathy",
+      "zh": "进行性多灶性白质脑病"
+    },
+    "E": {
+      "en": "Progressive supranuclear palsy",
+      "zh": "进行性核上性麻痹"
+    },
+    "F": {
+      "en": "Subacute sclerosing panencephalitis",
+      "zh": "亚急性硬化性全脑炎"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "The patient's presentation of ataxia, myoclonus, visual problems, and behavioral changes in a 10-year-old boy, coupled with the isolation of an RNA virus containing hemagglutinin from a brain biopsy, strongly suggests Subacute sclerosing panencephalitis (SSPE). SSPE is a rare, progressive, and fatal neurological complication of measles infection that typically occurs years after the initial measles illness. The virus, a paramyxovirus, persists in the brain and leads to chronic inflammation, demyelination, and neuronal destruction. The presence of hemagglutinin in the cultured virus is characteristic of measles virus.\n\n(Choice A) Creutzfeldt-Jakob disease is a prion disease that causes rapidly progressive dementia, typically in older adults. While it can cause neurological symptoms, the causative agent is a prion, not an RNA virus, and it does not typically present in childhood with a history of measles.\n\n(Choice B) Guillain-Barré syndrome is an autoimmune disorder that affects the peripheral nervous system, usually presenting with ascending weakness and areflexia following an infection. It does not typically cause the central nervous system symptoms described, nor is it caused by a measles virus.\n\n(Choice C) Multiple sclerosis is a demyelinating disease of the central nervous system that usually manifests in young adults and is characterized by relapsing-remitting neurological deficits. While it involves demyelination, it is not typically associated with measles virus infection or the specific constellation of symptoms seen here.\n\n(Choice D) Progressive multifocal leukoencephalopathy (PML) is a demyelinating disease caused by the JC virus, typically occurring in immunocompromised individuals. While it causes progressive neurological deficits, it is not related to measles and usually occurs in the context of immunosuppression.\n\n(Choice E) Progressive supranuclear palsy (PSP) is a neurodegenerative disorder that affects gait, eye movements, and cognition, usually in older adults. It is a form of parkinsonism and is not related to measles virus infection.\n\nKey clinical pearls: SSPE is a LATE complication of MEASLES. The presence of an RNA virus with hemagglutinin points towards a paramyxovirus, and in the context of SSPE, it is measles virus. The insidious onset of neurological symptoms years after measles infection is characteristic.",
+    "zh": "患者表现为共济失调、肌阵挛、视力问题和10岁男孩的行为改变，再加上从脑活检中分离出含有血凝素的RNA病毒，强烈提示亚急性硬化性全脑炎 (SSPE)。SSPE是麻疹感染的一种罕见、进行性和致命的神经系统并发症，通常发生在最初麻疹病程数年后。该病毒是一种副粘病毒，存在于大脑中，并导致慢性炎症、脱髓鞘和神经元破坏。培养的病毒中血凝素的存在是麻疹病毒的特征。\n\n(选项A) 克雅病是一种朊病毒病，可导致快速进展的痴呆，通常发生在老年人中。虽然它可以引起神经系统症状，但病原体是朊病毒，而不是RNA病毒，并且通常不会在儿童时期出现，也没有麻疹病史。\n\n(选项B) 格林-巴利综合征是一种自身免疫性疾病，影响周围神经系统，通常在感染后表现为上升性无力和反射消失。它通常不会引起上述中枢神经系统症状，也不是由麻疹病毒引起的。\n\n(选项C) 多发性硬化症是一种中枢神经系统脱髓鞘疾病，通常在年轻人中表现出来，其特征是复发缓解的神经系统缺陷。虽然它涉及脱髓鞘，但通常与麻疹病毒感染或此处看到的特定症状群无关。\n\n(选项D) 进行性多灶性白质脑病 (PML) 是一种由JC病毒引起的脱髓鞘疾病，通常发生在免疫功能低下的个体中。虽然它会导致进行性神经系统缺陷，但它与麻疹无关，并且通常发生在免疫抑制的背景下。\n\n(选项E) 进行性核上性麻痹 (PSP) 是一种神经退行性疾病，影响步态、眼球运动和认知功能，通常发生在老年人中。它是一种帕金森病，与麻疹病毒感染无关。\n\n关键临床要点：SSPE是麻疹的晚期并发症。存在含有血凝素的RNA病毒指向副粘病毒，在SSPE的背景下，它是麻疹病毒。麻疹感染数年后神经系统症状的隐匿性发生是其特征。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of rare neurological complications of viral infections, specifically focusing on the presentation, causative agent, and pathophysiology of Subacute sclerosing panencephalitis (SSPE).\n\nTo solve this question, one must correlate the patient's neurological symptoms (ataxia, myoclonus, visual problems, behavioral changes) with the identified causative agent (RNA virus with hemagglutinin from brain biopsy) and consider the typical age of onset and history of prior infection (implied by measles virus). Differentiating SSPE from other neurological disorders with overlapping symptoms is crucial.",
+    "zh": "此问题测试对病毒感染罕见神经系统并发症的理解，特别是侧重于亚急性硬化性全脑炎 (SSPE) 的表现、病原体和病理生理学。\n\n要解决此问题，必须将患者的神经系统症状（共济失调、肌阵挛、视力问题、行为改变）与已确定的病原体（脑活检中含有血凝素的RNA病毒）相关联，并考虑典型的发病年龄和既往感染史（由麻疹病毒暗示）。区分SSPE与其他具有重叠症状的神经系统疾病至关重要。"
+  },
+  "tags": "Subacute sclerosing panencephalitis; Measles virus; RNA virus; Neurology; Pediatric neurology; Viral encephalitis; Demyelinating diseases; Paramyxovirus",
+  "category": "Neuro",
+  "question_id": "910",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\910",
+  "extracted_at": "2025-11-05T19:42:15.103522",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:43:50.180488",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old man with no prior history of seizure is brought to the emergency department after experiencing a generalized tonic-clonic seizure. His roommate says that the patient has had a fever and headache for the past 2 days and that today he was talking nonsensically. The patient works for a fast-food chain and occasionally smokes cigarettes on his breaks. He does not use alcohol or illicit drugs. Temperature is 38.6 C (101.5 F). MRI of the brain shows swelling of the temporal lobes. CSF analysis is most likely to reveal which of the following patterns?",
+    "zh": "一名23岁男性，既往无癫痫病史，在经历一次全身性强直-阵挛性发作后被送往急诊科。他的室友说，患者过去2天有发烧和头痛，今天开始胡言乱语。该患者在一家快餐连锁店工作，偶尔在休息时吸烟。他不饮酒或使用非法药物。体温为38.6摄氏度（101.5华氏度）。脑部MRI显示颞叶肿胀。脑脊液分析最有可能揭示以下哪种模式？"
+  },
+  "question": {
+    "en": "CSF analysis is most likely to reveal which of the following patterns?",
+    "zh": "脑脊液分析最有可能揭示以下哪种模式？"
+  },
+  "options": {
+    "A": {
+      "en": "Normal Glucose, Increased Protein, Increased (erythrocytes) (3%)",
+      "zh": "正常葡萄糖，蛋白升高，红细胞增多（3%）"
+    },
+    "B": {
+      "en": "Low Glucose, Increased Protein, Increased (neutrophils) (27%)",
+      "zh": "低葡萄糖，蛋白升高，中性粒细胞增多（27%）"
+    },
+    "C": {
+      "en": "Normal Glucose, Increased Protein, Increased (lymphocytes, erythrocytes) (47%)",
+      "zh": "正常葡萄糖，蛋白升高，淋巴细胞、红细胞增多（47%）"
+    },
+    "D": {
+      "en": "Low Glucose, Increased Protein, Increased (lymphocytes) (12%)",
+      "zh": "低葡萄糖，蛋白升高，淋巴细胞增多（12%）"
+    },
+    "E": {
+      "en": "Normal Glucose, Increased Protein, Normal (3%)",
+      "zh": "正常葡萄糖，蛋白升高，正常（3%）"
+    },
+    "F": {
+      "en": "Normal Glucose, Normal Protein, Normal (4%)",
+      "zh": "正常葡萄糖，正常蛋白，正常（4%）"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The patient presents with symptoms suggestive of encephalitis, including fever, headache, altered mental status, and seizure. The MRI findings of temporal lobe swelling further support this diagnosis. HERPES SIMPLEX VIRUS (HSV) TYPE 1 ENCEPHALITIS is the most common cause of sporadic encephalitis and classically presents with these findings. HSV encephalitis typically causes a \"viral pattern\" on CSF analysis, characterized by LYMPHOCYTIC PLEOCYTOSIS, NORMAL GLUCOSE, and NORMAL to SLIGHTLY ELEVATED PROTEIN. Hemorrhagic inflammation of the temporal lobes, as suggested by the MRI findings, can also lead to ELEVATED ERYTHROCYTES in the CSF. Therefore, option C, which shows normal glucose, increased protein, and increased lymphocytes and erythrocytes, is the most likely CSF pattern.\n\n(Choice A) Trauma from inserting the lumbar puncture needle can lead to a \"traumatic tap,\" which is characterized by CSF evidence of normal glucose, elevated protein, and elevated erythrocytes. While erythrocytes are present, the predominance of lymphocytes and the clinical picture are more consistent with HSV encephalitis than a traumatic tap.\n\n(Choice B) Bacterial meningitis is usually associated with CSF evidence of low glucose, high protein, and a markedly elevated white blood cell count with a neutrophil predominance. Bacterial meningitis classically causes the triad of fever, neck stiffness, and altered mental state. The presence of temporal lobe swelling on brain imaging makes HSV encephalitis far more likely than bacterial meningitis.\n\n(Choice D) Tuberculous or fungal meningitis is often associated with CSF evidence of low glucose, moderately elevated protein, and lymphocytic pleocytosis. While lymphocytes are increased, the glucose is typically low in these conditions, and the presence of erythrocytes is less common than in HSV encephalitis. The MRI findings also point more strongly towards HSV.\n\n(Choice E) Patients with Guillain-Barré syndrome (GBS) often have CSF protein elevations with normal cell counts (albuminocytologic dissociation), which is thought to be due to increased permeability of the blood-nerve barrier at the level of the nerve root. GBS usually presents with progressive, symmetric ascending muscle weakness, not seizures and fevers. The CSF findings in GBS are distinct from what is expected in encephalitis.\n\n(Choice F) A normal CSF analysis is inconsistent with the patient's clinical presentation and MRI findings suggestive of encephalitis.",
+    "zh": "患者表现出提示脑炎的症状，包括发烧、头痛、精神状态改变和癫痫发作。颞叶肿胀的MRI结果进一步支持这一诊断。单纯疱疹病毒（HSV）1型脑炎是散发性脑炎最常见的原因，通常表现为这些发现。HSV脑炎通常在脑脊液分析中引起“病毒模式”，其特征是淋巴细胞增多、正常葡萄糖和正常至轻度升高的蛋白质。MRI结果提示的颞叶出血性炎症也可能导致脑脊液中红细胞升高。因此，选项C，显示正常葡萄糖、蛋白升高以及淋巴细胞和红细胞增多，是最可能的脑脊液模式。\n\n（选项A）插入腰椎穿刺针引起的创伤可能导致“外伤性穿刺”，其特征是脑脊液中葡萄糖正常、蛋白升高和红细胞升高。虽然存在红细胞，但淋巴细胞占优势以及临床表现与HSV脑炎比外伤性穿刺更一致。\n\n（选项B）细菌性脑膜炎通常与脑脊液中葡萄糖低、蛋白高以及中性粒细胞占优势的白细胞计数显着升高相关。细菌性脑膜炎通常引起发烧、颈部僵硬和精神状态改变的“三联征”。脑部影像学上颞叶肿胀的存在使得HSV脑炎比细菌性脑膜炎更有可能。\n\n（选项D）结核性或真菌性脑膜炎通常与脑脊液中葡萄糖低、蛋白中度升高和淋巴细胞增多相关。虽然淋巴细胞增加，但这些情况下的葡萄糖通常较低，并且红细胞的存在不如HSV脑炎常见。MRI结果也更强烈地指向HSV。\n\n（选项E）格林-巴利综合征（GBS）患者通常具有脑脊液蛋白升高，而细胞计数正常（蛋白细胞分离），这被认为是由神经根水平的血脑神经屏障通透性增加引起的。GBS通常表现为进行性、对称性上升性肌无力，而不是癫痫发作和发烧。GBS的脑脊液结果与脑炎的预期结果不同。\n\n（选项F）正常的脑脊液分析与患者的临床表现和提示脑炎的MRI结果不符。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the typical cerebrospinal fluid (CSF) findings in various central nervous system infections, specifically differentiating between viral encephalitis (like HSV encephalitis) and other conditions such as bacterial meningitis, tuberculous/fungal meningitis, or a traumatic tap.\n\nTo solve this question, one must correlate the clinical presentation (fever, headache, altered mental status, seizure), imaging findings (temporal lobe swelling), and the characteristic CSF profile for HSV encephalitis, which includes lymphocytic pleocytosis, normal glucose, and normal to slightly elevated protein, with the potential for erythrocytes due to hemorrhagic inflammation.",
+    "zh": "此题考察对各种中枢神经系统感染中典型脑脊液（CSF）发现的理解，特别是区分病毒性脑炎（如HSV脑炎）和其他疾病，如细菌性脑膜炎、结核/真菌性脑膜炎或外伤性穿刺。\n\n为了解决这个问题，必须将临床表现（发烧、头痛、精神状态改变、癫痫发作）、影像学发现（颞叶肿胀）以及HSV脑炎的特征性脑脊液特征（包括淋巴细胞增多、正常葡萄糖和正常至轻度升高的蛋白质）与可能因出血性炎症引起的红细胞联系起来。"
+  },
+  "tags": "Herpes simplex virus encephalitis; Viral encephalitis; Cerebrospinal fluid analysis; Lymphocytic pleocytosis; Temporal lobe swelling; Fever; Seizure; Central nervous system infections; Neurology",
+  "category": "Neuro",
+  "question_id": "908",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\908",
+  "extracted_at": "2025-11-05T19:30:26.957844",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:29:36.425128",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 73-year-old woman comes to the emergency department with a 3-day history of worsening breathlessness and cough productive of thick, rust-colored sputum. The patient has a longstanding history of hypertension. Temperature is 38.3 C (101 F), blood pressure is 130/68 mm Hg, pulse is 102/min, and respirations are 24/min. BMI is 27 kg/m². Jugular venous pressure is normal and there is no lower extremity edema. Heart sounds are normal with no murmur. Lung auscultation reveals left lower lobe crackles and bronchial breath sounds. Leukocyte count is 14,000/mm³ with 80% neutrophils and 7% bands, hemoglobin is 13.6 g/dL, and platelets are 400,000/mm³. Serum levels of which of the following are most likely to be elevated in this patient?",
+    "zh": "一名73岁的女性因3天来加重的呼吸困难和咳出浓稠的铁锈色痰液来到急诊科就诊。该患者有高血压的长期病史。体温38.3°C（101°F），血压130/68 mmHg，脉搏102次/分钟，呼吸24次/分钟。BMI为27 kg/m²。颈静脉压正常，无下肢水肿。心音正常，无杂音。肺部听诊显示左下肺有啰音和支气管呼吸音。白细胞计数为14,000/mm³，其中中性粒细胞80%，杆状核细胞7%，血红蛋白13.6 g/dL，血小板400,000/mm³。该患者最有可能升高的血清水平是以下哪一项？"
+  },
+  "question": {
+    "en": "Serum levels of which of the following are most likely to be elevated in this patient?",
+    "zh": "该患者最有可能升高的血清水平是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "B-type natriuretic peptide",
+      "zh": "B型利钠肽"
+    },
+    "B": {
+      "en": "Cold agglutinins",
+      "zh": "冷凝集素"
+    },
+    "C": {
+      "en": "Prealbumin",
+      "zh": "前白蛋白"
+    },
+    "D": {
+      "en": "Procalcitonin",
+      "zh": "降钙素原"
+    },
+    "E": {
+      "en": "Transferrin",
+      "zh": "转铁蛋白"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Acute phase reactants (APRs) are proteins whose serum concentrations change by ≥25% during periods of inflammation. Several APRs have diagnostic and prognostic utility and can be interpreted on the basis of serum concentrations:\n\n*   Positive APRs (serum levels rise in acute inflammatory states) include fibrinogen, C-reactive protein, ferritin, hepcidin, ceruloplasmin, haptoglobin, von Willebrand factor, and complement. The erythrocyte sedimentation rate (the time required for erythrocytes to settle from suspension) is an indirect measure of positive APRs.\n*   Negative APRs (serum levels fall in acute inflammatory states) include albumin, transferrin, and transthyretin (prealbumin).\n\nProcalcitonin, a precursor of calcitonin produced by monocytes and the C cells of the thyroid, is a unique APR that has positive and negative properties. Levels rise in response to BACTERIAL TOXINS and fall in response to VIRAL INFECTIONS, and therefore levels can suggest the etiology of community-acquired pneumonia. This patient has lobar pneumonia manifesting with fever, rust-colored sputum, and neutrophil-predominant leukocytosis, likely due to a bacterial infection (eg, STREPTOCOCCUS PNEUMONIAE). Therefore, procalcitonin levels are expected to be elevated.\n\n(Choice A) B-type natriuretic peptide is secreted by the ventricles in response to elevated ventricular filling pressure, which is seen in decompensated heart failure. Patients with heart failure often have elevated jugular venous pressure and lower extremity edema, pulmonary examination findings are usually bilateral, and fevers and leukocytosis would not be expected.\n\n(Choice B) Cold agglutinins (ie, IgM against erythrocyte I antigen) are nonspecific but often seen in patients with MYCOPLASMA PNEUMONIAE. However, patients with M PNEUMONIAE typically present with a dry cough and pharyngitis, and laboratory results demonstrate a mild hemolytic anemia with a normal leukocyte count. When pneumonia occurs due to M PNEUMONIAE, examination findings are characteristically scattered and bilateral.\n\n(Choices C and E) Prealbumin (transthyretin) and transferrin are negative APRs and would be decreased in this acutely ill patient. Prealbumin levels are also decreased in cases of malnutrition and may be helpful in evaluation of nutritional status. Transferrin is also used to determine iron status.",
+    "zh": "急性期反应物（APRs）是指在炎症期间血清浓度变化≥25%的蛋白质。一些APRs具有诊断和预后价值，可以根据血清浓度进行解释：\n\n*   阳性APRs（血清水平在急性炎症状态下升高）包括纤维蛋白原、C反应蛋白、铁蛋白、铁调素、铜蓝蛋白、触珠蛋白、血管性血友病因子和补体。红细胞沉降率（红细胞从悬液中沉降所需的时间）是阳性APRs的间接测量指标。\n*   阴性APRs（血清水平在急性炎症状态下降低）包括白蛋白、转铁蛋白和甲状腺素结合前蛋白（前白蛋白）。\n\n降钙素原是单核细胞和甲状腺C细胞产生的降钙素的前体，是一种具有阳性和阴性特性的独特APRs。其水平响应于细菌毒素而升高，响应于病毒感染而降低，因此其水平可以提示社区获得性肺炎的病因。该患者患有叶状肺炎，表现为发烧、铁锈色痰和中性粒细胞占优势的白细胞增多，可能由于细菌感染（如肺炎链球菌）。因此，预计降钙素原水平会升高。\n\n（选项A）B型利钠肽由心室分泌，以响应心室充盈压升高，这见于失代偿性心力衰竭。心力衰竭患者通常有颈静脉压升高和下肢水肿，肺部检查结果通常是双侧的，并且不会出现发烧和白细胞增多。\n\n（选项B）冷凝集素（即针对红细胞I抗原的IgM）是非特异性的，但在肺炎支原体肺炎患者中常可见。然而，M PNEUMONIAE患者通常表现为干咳和咽炎，实验室结果显示轻度溶血性贫血，白细胞计数正常。当肺炎由M PNEUMONIAE引起时，检查结果的特征是散在和双侧的。\n\n（选项C和E）前白蛋白（甲状腺素结合前蛋白）和转铁蛋白是阴性APRs，在该急性病患者中会降低。前白蛋白水平在营养不良的情况下也会降低，并且可能有助于评估营养状况。转铁蛋白也用于确定铁的状态。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of acute phase reactants and their role in inflammatory conditions, specifically pneumonia. It requires understanding of how procalcitonin levels change in response to bacterial versus viral infections. \n\nTo solve this question, identify the clinical features suggestive of bacterial pneumonia (lobar consolidation, rust-colored sputum, leukocytosis with neutrophilia). Then, recall that procalcitonin is an acute phase reactant that increases in bacterial infections.",
+    "zh": "本题考察对急性期反应物及其在炎症性疾病（特别是肺炎）中的作用的了解。需要了解降钙素原水平如何响应细菌感染与病毒感染而变化。\n\n要解决这个问题，需要确定提示细菌性肺炎的临床特征（肺叶实变、铁锈色痰、中性粒细胞增多的白细胞增多）。然后，回忆起降钙素原是一种在细菌感染中增加的急性期反应物。"
+  },
+  "tags": "Pneumonia; Community-acquired pneumonia; Acute phase reactants; Procalcitonin; Bacterial infection; Inflammation; Infectious diseases; Respiratory system",
+  "category": "Micro",
+  "question_id": "14921",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\14921",
+  "extracted_at": "2025-11-05T14:54:33.918535",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:07:44.571802",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

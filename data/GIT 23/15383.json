@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 16-year-old boy is brought to the emergency department due to severe retrosternal burning pain and odynophagia for the past 12 hours. The patient has had no fever, sore throat, nausea, vomiting, or abdominal pain. Medical history includes nodulocystic acne, for which he began taking oral doxycycline a week ago. Vital signs are within normal limits. Physical examination shows a normal oropharynx, clear lungs, normal heart sounds, and a nontender abdomen. Upper gastrointestinal endoscopy reveals a small, punched-out ulcer in the proximal esophagus and normal-appearing gastroduodenal mucosa. Doxycycline is presumed to be the culprit.",
+    "zh": "一名16岁男孩因过去12小时出现严重的胸骨后灼痛和吞咽疼痛而被送往急诊科。患者无发热、咽喉痛、恶心、呕吐或腹痛。病史包括结节囊肿性痤疮，一周前开始口服多西环素。生命体征在正常范围内。体格检查显示口咽正常，肺部清晰，心音正常，腹部无压痛。上消化内镜检查显示食管近端有一个小的穿孔性溃疡，以及外观正常的胃十二指肠黏膜。推测多西环素是罪魁祸首。"
+  },
+  "question": {
+    "en": "This medication most likely led to this patient's current condition through which of the following mechanisms?",
+    "zh": "这种药物最有可能通过以下哪种机制导致患者目前的状况？"
+  },
+  "options": {
+    "A": {
+      "en": "Alteration of commensal microbial flora",
+      "zh": "共生微生物菌群的改变"
+    },
+    "B": {
+      "en": "Decrease in esophageal sphincter tone",
+      "zh": "食管括约肌张力降低"
+    },
+    "C": {
+      "en": "Drug-induced direct mucosal injury",
+      "zh": "药物引起的直接黏膜损伤"
+    },
+    "D": {
+      "en": "Increase in gastric acid production",
+      "zh": "胃酸产生增加"
+    },
+    "E": {
+      "en": "Suppression of T-cell immune response",
+      "zh": "T细胞免疫反应受到抑制"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Pill esophagitis occurs when caustic medications come in contact with the esophageal mucosa for a prolonged time, leading to direct mucosal injury. Common culprits include tetracyclines (eg, doxycycline), bisphosphonates (eg, alendronate), potassium chloride, and nonsteroidal anti-inflammatory drugs. This complication usually develops in locations where the esophageal lumen is compressed by other anatomic structures. The aortic arch and carina may impede the movement of pills through the proximal esophagus, whereas the gastroesophageal junction or severe left atrial enlargement can lead to pills lodging in the distal esophagus.\n\nPill esophagitis causes odynophagia and retrosternal chest pain and is usually diagnosed by upper gastrointestinal endoscopy, which reveals discrete ulcerations at the location of medication-induced caustic injury. To avoid this complication, patients should remain upright after swallowing high-risk medications and consume plenty of water to facilitate rapid passage through the esophagus.\n\n(Choice A) Alteration of commensal microbial flora due to antibiotic use increases the risk for esophageal candidiasis, a disorder caused by overproliferation of Candida albicans. However, endoscopy would show white, cottage cheese-like plaques.\n\n(Choice B) Lower esophageal sphincter hypotonicity predisposes to gastroesophageal reflux disease (GERD), which can cause irregularly shaped or linear ulcerations in the distal esophagus. However, the proximal esophagus is almost never involved in GERD.\n\n(Choice D) Overproduction of gastrin (eg, Zollinger-Ellison syndrome) leads to excess stomach acid secretion and peptic/duodenal ulcer formation. Esophageal ulcers would not be expected.\n\n(Choice E) Patients with T-cell immunodeficiencies (eg, HIV/AIDS) may develop esophageal ulcerations related to cytomegalovirus or herpes simplex virus; these are rare causes of esophageal ulcers in immunocompetent individuals.",
+    "zh": "药丸性食管炎发生在腐蚀性药物长时间接触食管黏膜时，导致直接的黏膜损伤。常见的罪魁祸首包括四环素类药物（例如，多西环素）、双膦酸盐（例如，阿仑膦酸钠）、氯化钾和非甾体抗炎药。这种并发症通常发生在食管腔被其他解剖结构压迫的部位。主动脉弓和隆突可能会阻碍药丸通过食管近端，而胃食管结合部或严重的左心房增大可能导致药丸滞留在食管远端。\n\n药丸性食管炎引起吞咽疼痛和胸骨后疼痛，通常通过上消化内镜检查诊断，内镜检查显示在药物引起的腐蚀性损伤部位有离散的溃疡。为了避免这种并发症，患者在吞咽高风险药物后应保持直立，并摄入大量水以促进其快速通过食管。\n\n（选项 A）由于使用抗生素而改变共生微生物菌群会增加食管念珠菌病的风险，这是一种由白色念珠菌过度增殖引起的疾病。然而，内镜检查会显示白色、凝乳状的斑块。\n\n（选项 B）食管下括约肌张力减低容易导致胃食管反流病（GERD），这可能导致食管远端出现不规则或线状溃疡。然而，GERD 几乎从未累及食管近端。\n\n（选项 D）胃泌素过度产生（例如，卓-艾综合征）会导致胃酸分泌过多，并形成消化性/十二指肠溃疡。预计不会出现食管溃疡。\n\n（选项 E）患有 T 细胞免疫缺陷（例如，HIV/AIDS）的患者可能会因巨细胞病毒或单纯疱疹病毒而出现食管溃疡；这些是免疫功能正常的个体中食管溃疡的罕见原因。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pill esophagitis, its common causes (especially tetracyclines like doxycycline), and the mechanism of injury to the esophageal mucosa. It also tests the ability to differentiate pill esophagitis from other causes of esophagitis.\n\nTo solve this question, consider the patient's history of doxycycline use and the endoscopic findings of a punched-out ulcer in the proximal esophagus. Recognize that certain medications can cause direct mucosal injury, leading to pill esophagitis.",
+    "zh": "这个问题考察了对药丸性食管炎的了解，其常见原因（尤其是多西环素等四环素类药物）以及对食管黏膜的损伤机制。它还测试了将药丸性食管炎与其他食管炎原因区分开来的能力。\n\n为了解决这个问题，请考虑患者的多西环素使用史以及食管近端出现穿孔性溃疡的内镜检查结果。认识到某些药物可引起直接的黏膜损伤，从而导致药丸性食管炎。"
+  },
+  "tags": "Pill esophagitis; Doxycycline; Esophageal ulcer; Tetracycline; Gastrointestinal endoscopy; Drug-induced injury; Esophagus; Odynophagia; Retrosternal chest pain",
+  "category": "GIT",
+  "question_id": "15383",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\15383",
+  "extracted_at": "2025-11-05T14:26:01.000185",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:52:16.355670",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

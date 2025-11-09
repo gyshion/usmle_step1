@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old woman comes to the office due to double vision, especially when reading at bedtime. The problem first started intermittently several months ago but has worsened over the last 2 weeks and now bothers her constantly. The patient has also developed difficulty chewing and swallowing foods. She usually feels better in the mornings. The patient has no other medical problems and takes no medications. She does not use tobacco, alcohol, or recreational drugs. Vital signs are normal. BMI is 27 kg/m². Examination shows bilateral ptosis; weakness of adduction of the right eye and abduction of the left eye is present. Muscle strength is 4/5 in the proximal muscles in the upper and lower extremities. Deep tendon reflexes are 2+ throughout.",
+    "zh": "一名62岁的女性因复视前来就诊，尤其是在睡前阅读时。这个问题最初是在几个月前间断性出现的，但在过去的2周内恶化了，现在一直困扰着她。患者还出现了咀嚼和吞咽食物困难。她通常在早上感觉好些。患者没有其他健康问题，并且没有服用任何药物。她不吸烟、不饮酒，也不使用娱乐性药物。生命体征正常。BMI为27 kg/m²。检查显示双侧眼睑下垂；右眼内收和左眼外展无力。四肢近端肌肉力量为4/5。深腱反射为2+。"
+  },
+  "question": {
+    "en": "Which of the following changes involving the postsynaptic muscle cell most likely explains this patient's symptoms?",
+    "zh": "以下哪种涉及突触后肌细胞的变化最有可能解释该患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Impaired excitation-contraction coupling",
+      "zh": "兴奋-收缩耦联受损"
+    },
+    "B": {
+      "en": "Prolonged absolute refractory period",
+      "zh": "绝对不应期延长"
+    },
+    "C": {
+      "en": "Reduced action potential amplitude",
+      "zh": "动作电位幅度降低"
+    },
+    "D": {
+      "en": "Reduced action potential propagation velocity",
+      "zh": "动作电位传导速度降低"
+    },
+    "E": {
+      "en": "Reduced amplitude of motor end plate potential",
+      "zh": "运动终板电位幅度降低"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's fluctuating, fatigable weakness involving the eyes (eg, diplopia, ptosis), bulbar muscles (eg, chewing, dysphagia), and proximal extremities is characteristic of myasthenia gravis (MG).\n\nMG is most commonly caused by autoantibodies against postsynaptic nicotinic acetylcholine receptors. Binding of antibodies to these receptors results in blockade of the receptor's active site, receptor internalization and degradation, and damage to the motor end plate due to complement fixation. This leads to DECREASED NUMBERS of functional acetylcholine receptors at the neuromuscular junction.\n\nThe decrease in the number of available cation channels reduces the end plate potential following acetylcholine release. Because the THRESHOLD POTENTIAL is not reached, the MUSCLE CELLS DO NOT DEPOLARIZE as frequently. Synaptic concentrations of acetylcholine are unaffected, unlike in botulism or Lambert-Eaton myasthenic syndrome.\n\n(Choice A) Excitation-contraction coupling refers to the process whereby the muscle's action potential triggers cellular contraction. In skeletal muscle, this process begins with the release of calcium into the cytoplasm, which subsequently binds troponin C and induces a conformational change, allowing actin and myosin to bind. Impaired coupling implies that an action potential occurs, but the skeletal muscle cannot contract (eg, impaired actin and myosin binding), whereas MG is caused by a failure to achieve the threshold for an action potential to occur.\n\n(Choices B, C, and D) The action potential amplitude, propagation velocity, and refractory period of the muscle cell are determined by intrinsic properties of the cell membrane. In MG, only the neuromuscular junction is impacted, so the action potential amplitude, propagation velocity, and refractory period are normal when an action potential is actually triggered in the cell. In contrast, the compound muscle action potential (ie, the summed action potentials of all the muscle fibers in a motor unit) decreases with repeated excitation in patients with MG due to depolarization of fewer myofibers.\n\nEducational objective:\nMyasthenia gravis is an autoimmune disease that causes a decreased number of functional acetylcholine receptors within the neuromuscular junction. This reduces the number of postsynaptic cation channels that can open in response to acetylcholine, which reduces the amplitude of motor end plate potential and prevents muscle fiber depolarization.",
+    "zh": "该患者的波动性、易疲劳性无力，涉及眼部（例如，复视、眼睑下垂）、延髓肌（例如，咀嚼、吞咽困难）和近端四肢，是重症肌无力（MG）的特征。\n\nMG最常见的原因是针对突触后烟碱型乙酰胆碱受体的自身抗体。抗体与这些受体的结合导致受体活性位点受阻，受体内化和降解，以及由于补体固定而导致的运动终板损伤。这导致神经肌肉接头处功能性乙酰胆碱受体数量减少。\n\n可用阳离子通道数量的减少降低了乙酰胆碱释放后的终板电位。由于未达到阈电位，肌细胞不会那么频繁地去极化。突触乙酰胆碱浓度不受影响，这与肉毒中毒或兰伯特-伊顿肌无力综合征不同。\n\n（选项A）兴奋-收缩耦联是指肌肉的动作电位触发细胞收缩的过程。在骨骼肌中，这个过程始于钙释放到细胞质中，随后钙与肌钙蛋白C结合并诱导构象变化，从而允许肌动蛋白和肌球蛋白结合。耦联受损意味着发生了动作电位，但骨骼肌无法收缩（例如，肌动蛋白和肌球蛋白结合受损），而MG是由无法达到动作电位的阈值引起的。\n\n（选项B、C和D）肌细胞的动作电位幅度、传导速度和不应期由细胞膜的固有特性决定。在MG中，只有神经肌肉接头受到影响，因此，当细胞中实际触发动作电位时，动作电位的幅度、传导速度和不应期是正常的。相比之下，由于更少的肌纤维去极化，MG患者的复合肌肉动作电位（即一个运动单位中所有肌纤维的动作电位之和）会随着重复的兴奋而降低。\n\n教学目标：\n重症肌无力是一种自身免疫性疾病，可导致神经肌肉接头内功能性乙酰胆碱受体数量减少。这减少了对乙酰胆碱反应开放的突触后阳离子通道的数量，从而降低了运动终板电位的幅度并阻止肌纤维去极化。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathophysiology of myasthenia gravis and its effect on neuromuscular transmission. It requires correlating clinical symptoms with the underlying cellular mechanisms at the postsynaptic membrane.\n\nTo solve this question, identify the characteristic symptoms of myasthenia gravis and recall the primary defect in this disease, which involves the postsynaptic nicotinic acetylcholine receptors. Then, deduce how this defect impacts the generation of the end plate potential and subsequent muscle fiber depolarization.",
+    "zh": "这个问题考察了对重症肌无力的病理生理学及其对神经肌肉传递的影响的理解。它需要将临床症状与突触后膜的潜在细胞机制相关联。\n\n要解决这个问题，需要确定重症肌无力的特征性症状，并回忆这种疾病的主要缺陷，即涉及突触后烟碱型乙酰胆碱受体。然后，推断这种缺陷如何影响终板电位的产生和随后的肌纤维去极化。"
+  },
+  "tags": "Myasthenia gravis; Neuromuscular junction; Acetylcholine receptors; Autoimmune disease; Diplopia; Ptosis; Muscle weakness; End plate potential; Pathophysiology",
+  "category": "Neuro",
+  "question_id": "2061",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\2061",
+  "extracted_at": "2025-11-05T19:39:06.825026",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:39:01.934793",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

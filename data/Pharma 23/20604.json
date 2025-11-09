@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A boy is delivered via spontaneous vaginal delivery at 39 weeks gestation to a woman, gravida 1 para 0. The boy is vigorous with a strong cry, requiring no interventions after delivery except for warming and drying. APGAR scores are 8 and 9 at 1 and 5 minutes, respectively. Head circumference measures <10th percentile, and the placenta has numerous calcifications. Serology is consistent with congenital toxoplasmosis. As part of treatment, he is prescribed a combination of pyrimethamine and sulfadiazine. Which of the following best describes the reason for using multiple drugs during this patient's treatment?",
+    "zh": "一名男婴通过自然阴道分娩在妊娠39周时出生，母亲为孕1产0。男婴活泼，哭声响亮，出生后除保暖和擦干外，无需干预。APGAR评分分别为1分钟8分，5分钟9分。头围测量小于第10百分位数，胎盘有大量钙化。血清学检查结果与先天性弓形虫病一致。作为治疗的一部分，他被处方使用乙胺嘧啶和磺胺嘧啶的联合用药。以下哪项最能描述在该患者治疗中使用多种药物的原因？"
+  },
+  "question": {
+    "en": "Which of the following best describes the reason for using multiple drugs during this patient's treatment?",
+    "zh": "以下哪项最能描述在该患者治疗中使用多种药物的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Broader spectrum of coverage",
+      "zh": "更广谱的覆盖范围"
+    },
+    "B": {
+      "en": "Enhanced intracellular drug penetration",
+      "zh": "增强细胞内药物渗透"
+    },
+    "C": {
+      "en": "Enzymatic inhibition of an inactivating enzyme",
+      "zh": "酶抑制灭活酶"
+    },
+    "D": {
+      "en": "Reduced urinary excretion of active metabolites",
+      "zh": "减少活性代谢物的尿排泄"
+    },
+    "E": {
+      "en": "Synergistic reduction of DNA synthesis",
+      "zh": "协同减少DNA合成"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The correct answer is E. Congenital toxoplasmosis is treated with sulfadiazine plus pyrimethamine. These medications work synergistically to inhibit the formation of tetrahydrofolate (THF), a necessary cofactor for purine nucleotide synthesis. Sulfadiazine inhibits dihydropteroate synthase, a microbial enzyme that generates dihydropteroate, which is converted to dihydrofolate. Pyrimethamine inhibits dihydrofolate reductase, an enzyme that converts dihydrofolate to THF. Sulfadiazine does not impair host DNA synthesis because dihydropteroate synthase is not found in human cells. In contrast, pyrimethamine partially impairs host DNA synthesis because dihydrofolate reductase generates THF in host cells. However, leucovorin (folinic acid), a derivative of THF that does not require conversion by dihydrofolate reductase, is usually administered with pyrimethamine to provide a bypass substrate for the generation of host purine nucleic acids. {{exhibit_1}} {{exhibit_2}}\n\n(Choice A) Patients are often treated with 2 different classes of antimicrobial medications to broaden the coverage of potential pathogens. Sulfadiazine and pyrimethamine both block the same metabolic pathway, so the combination is less useful for empiric antimicrobial therapy.\n\n(Choice B) Gentamicin is often administered with an agent that targets the bacterial cell wall (eg, ampicillin, vancomycin) to allow gentamicin to enter the intracellular space. Use of sulfadiazine with pyrimethamine does not alter intracellular penetration.\n\n(Choice C) Bacterial resistance can occur due to the production of an inactivating enzyme (eg, beta-lactamase). Administration of an agent that inhibits the enzyme (eg, clavulanic acid) can often restore the effect of the antibiotic (eg, amoxicillin).\n\n(Choice D) Probenecid blocks the renal tubular excretion of most beta-lactam antibiotics, which can increase their serum level. Sulfadiazine and pyrimethamine are not used together to alter renal excretion.",
+    "zh": "正确答案是E。先天性弓形虫病用磺胺嘧啶加乙胺嘧啶治疗。这些药物协同作用，抑制四氢叶酸（THF）的形成，THF是嘌呤核苷酸合成的必需辅因子。磺胺嘧啶抑制二氢蝶酸合酶，这是一种微生物酶，产生二氢蝶酸，后者转化为二氢叶酸。乙胺嘧啶抑制二氢叶酸还原酶，这是一种将二氢叶酸转化为THF的酶。磺胺嘧啶不损害宿主DNA合成，因为在人体细胞中不存在二氢蝶酸合酶。相比之下，乙胺嘧啶部分损害宿主DNA合成，因为二氢叶酸还原酶在宿主细胞中产生THF。然而，甲酰四氢叶酸（亚叶酸），一种无需二氢叶酸还原酶转化的THF衍生物，通常与乙胺嘧啶一起使用，以提供绕过宿主嘌呤核酸生成的底物。{{exhibit_1}} {{exhibit_2}} \n\n（选项A）患者通常用两种不同类型的抗菌药物治疗，以扩大对潜在病原体的覆盖范围。磺胺嘧啶和乙胺嘧啶都阻断相同的代谢途径，因此这种组合不太适用于经验性抗菌治疗。\n\n（选项B）庆大霉素通常与靶向细菌细胞壁的药物（如氨苄西林、万古霉素）一起使用，以允许庆大霉素进入细胞内空间。磺胺嘧啶和乙胺嘧啶联合使用不会改变细胞内渗透。\n\n（选项C）由于产生失活酶（如β-内酰胺酶），可能会发生细菌耐药性。给予一种抑制该酶的药物（如克拉维酸）通常可以恢复抗生素（如阿莫西林）的作用。\n\n（选项D）丙磺舒阻断大多数β-内酰胺类抗生素的肾小管排泄，这会增加它们的血清水平。磺胺嘧啶和乙胺嘧啶不联合使用以改变肾脏排泄。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the mechanism of action and rationale for combination therapy in treating congenital toxoplasmosis, specifically the synergistic inhibition of folate synthesis by sulfadiazine and pyrimethamine.\n\nTo solve this question, one must identify the specific metabolic pathway targeted by the combination drugs and understand how each drug contributes to the overall effect, leading to the inhibition of DNA synthesis in the protozoan.",
+    "zh": "本题考察对治疗先天性弓形虫病的联合治疗的机制和原理的理解，特别是磺胺嘧啶和乙胺嘧啶协同抑制叶酸合成。\n\n要解决这个问题，必须确定联合用药靶向的特定代谢途径，并了解每种药物如何促进总体效果，从而抑制原生动物的DNA合成。"
+  },
+  "tags": "Congenital toxoplasmosis; Sulfadiazine; Pyrimethamine; Folate synthesis pathway; Dihydropteroate synthase; Dihydrofolate reductase; Synergistic inhibition; DNA synthesis; Parasitic infections; Combination therapy",
+  "category": "Pharma",
+  "question_id": "20604",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\20604",
+  "extracted_at": "2025-11-05T19:45:32.632364",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:47:48.492595",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

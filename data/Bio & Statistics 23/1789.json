@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A healthy couple, who recently emigrated from Eastern Europe, brings their 3-year-old son to the office for evaluation of an eczematous rash. On examination, the child also shows signs of intellectual disability and gait abnormality and has a musty body odor.",
+    "zh": "一对健康夫妇最近从东欧移民过来，带他们3岁的儿子到诊所评估湿疹样皮疹。检查显示，孩子还表现出智力障碍和步态异常的迹象，并有霉味体味。"
+  },
+  "question": {
+    "en": "Which of the following is the likelihood that this couple's next child will be affected with the same disease?",
+    "zh": "这对夫妇的下一个孩子患上相同疾病的可能性是多少？"
+  },
+  "options": {
+    "A": {
+      "en": "Same as the general population",
+      "zh": "与一般人群相同"
+    },
+    "B": {
+      "en": "1/32",
+      "zh": "1/32"
+    },
+    "C": {
+      "en": "1/16",
+      "zh": "1/16"
+    },
+    "D": {
+      "en": "1/8",
+      "zh": "1/8"
+    },
+    "E": {
+      "en": "1/4",
+      "zh": "1/4"
+    },
+    "F": {
+      "en": "1/2",
+      "zh": "1/2"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Intellectual disability, gait abnormalities, a musty body odor, and eczema are signs consistent with phenylketonuria (PKU). PKU is caused by a mutation in a single gene that codes for phenylalanine hydroxylase. This enzyme normally synthesizes tyrosine from phenylalanine, and a buildup of phenylalanine in the CNS results in neurologic dysfunction. In the United States, phenylalanine levels are measured in neonates via routine newborn screening.\n\nPKU is an autosomal recessive disease. Therefore, when a child is affected but parents are unaffected, the parents are very likely to be heterozygous carriers of the mutation. The probability of a child inheriting any disease with an autosomal recessive inheritance pattern, including PKU, depends on the following factors:\n\np₁ = probability that the mother transmits the mutant allele = 1/2\np₂ = probability that the father transmits the mutant allele = 1/2\n\nThe probability that a child will inherit a mutant allele from each carrier parent is equal to p₁ × p₂ = 1/4 because these are independent events (Choices A, B, and D).\n\n(Choice C) The probability of having two future children both inherit an autosomal recessive disease from parents who are heterozygous carriers is 1/4 × 1/4 = 1/16 (each 1/4 representing the likelihood of 1 child inheriting the disease). In this case, this family already has an affected child, making the probability of a single subsequent child with the disease remain at 1/4.\n\n(Choice F) The probability that a child will inherit an autosomal dominant disorder if one parent is affected is 1/2.\n\nEducational objective:\nIntellectual disability, gait abnormalities, and a musty body odor are signs of phenylketonuria, an autosomal recessive disorder. The probability that a child will inherit an autosomal recessive disease from heterozygous carrier parents is 1/4.",
+    "zh": "智力障碍、步态异常、霉味体味和湿疹是与苯丙酮尿症 (PKU) 一致的体征。PKU是由编码苯丙氨酸羟化酶的单个基因突变引起的。这种酶通常由苯丙氨酸合成酪氨酸，而中枢神经系统中苯丙氨酸的堆积会导致神经功能障碍。在美国，通过常规新生儿筛查测量新生儿的苯丙氨酸水平。\n\nPKU是一种常染色体隐性遗传病。因此，当一个孩子受到影响但父母未受影响时，父母很可能携带该突变的杂合子。一个孩子继承任何具有常染色体隐性遗传模式的疾病（包括 PKU）的概率取决于以下因素：\n\np₁ = 母亲传递突变等位基因的概率 = 1/2\np₂ = 父亲传递突变等位基因的概率 = 1/2\n\n孩子从每个携带者父母那里继承突变等位基因的概率等于 p₁ × p₂ = 1/4，因为这些是独立事件（选项 A、B 和 D）。\n\n（选项 C）两个未来的孩子都从杂合子携带者父母那里继承常染色体隐性遗传病的概率为 1/4 × 1/4 = 1/16（每个 1/4 代表一个孩子继承该疾病的可能性）。在这种情况下，这个家庭已经有一个受影响的孩子，因此单个后续孩子患该疾病的概率仍然为 1/4。\n\n（选项 F）如果父母一方受影响，孩子继承常染色体显性遗传病的概率为 1/2。\n\n教育目标：\n智力障碍、步态异常和霉味体味是苯丙酮尿症的体征，这是一种常染色体隐性遗传病。一个孩子从杂合子携带者父母那里继承常染色体隐性遗传病的概率是 1/4。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of autosomal recessive inheritance patterns, specifically in the context of phenylketonuria (PKU). It requires understanding that unaffected parents of an affected child are likely heterozygous carriers.\n\nThe key to solving this question is recognizing the autosomal recessive inheritance pattern and calculating the probability of inheriting the mutated gene from both parents. Since both parents are carriers, the probability of each parent passing on the affected allele is 1/2, resulting in a 1/4 chance for the child to be affected.",
+    "zh": "这道题考察了对常染色体隐性遗传模式的了解，特别是在苯丙酮尿症（PKU）的背景下。它需要理解受影响孩子的未受影响父母很可能是杂合子携带者。\n\n解决这道题的关键是识别常染色体隐性遗传模式并计算从父母双方继承突变基因的概率。由于父母双方都是携带者，每个父母传递受影响等位基因的概率为 1/2，导致孩子受影响的几率为 1/4。"
+  },
+  "tags": "Phenylketonuria; Autosomal recessive inheritance; Genetics; Metabolic disorders; Intellectual disability; Gait abnormality; Newborn screening",
+  "category": "Bio",
+  "question_id": "1789",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1789",
+  "extracted_at": "2025-11-05T13:19:12.858524",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:22:03.257957",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

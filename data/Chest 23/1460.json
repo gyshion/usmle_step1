@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "44-year-old man comes to his primary care physician due to daytime sleepiness. He often falls asleep during meetings and while watching television and has even fallen asleep while driving. The patient does not feel refreshed when waking and has occasional morning headaches. He has not had abnormal dreams or visual hallucinations when falling asleep or on waking. The patient has no significant past medical history and is a lifetime non-smoker. He drinks 2 or 3 beers on Friday nights. Blood pressure is 148/100 mm Hg and pulse is 78/min and regular; BMI is 32 kg/m². Cardiopulmonary examination shows no abnormalities. Arterial blood gas analysis is normal. ",
+    "zh": "一位44岁的男性因白天嗜睡而就诊于他的初级保健医生。他经常在会议期间以及看电视时睡着，甚至在开车时也睡着了。患者醒来时感觉没有精神，偶尔有晨起头痛。他入睡或醒来时没有出现异常的梦境或视觉幻觉。患者没有重要的既往病史，并且终身不吸烟。他每周五晚上喝2或3杯啤酒。血压为148/100 mmHg，脉搏为78次/分钟，规律；BMI为32 kg/m²。心肺检查未见异常。动脉血气分析正常。"
+  },
+  "question": {
+    "en": "What is this patient's most likely diagnosis?",
+    "zh": "该患者最可能的诊断是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Central sleep apnea",
+      "zh": "中枢性睡眠呼吸暂停"
+    },
+    "B": {
+      "en": "Narcolepsy",
+      "zh": "发作性睡病"
+    },
+    "C": {
+      "en": "Obesity hypoventilation syndrome",
+      "zh": "肥胖性低通气综合征"
+    },
+    "D": {
+      "en": "Obstructive sleep apnea",
+      "zh": "阻塞性睡眠呼吸暂停"
+    },
+    "E": {
+      "en": "Primary insomnia",
+      "zh": "原发性失眠"
+    },
+    "F": {
+      "en": "Restless leg syndrome",
+      "zh": "不宁腿综合征"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has several features that suggest obstructive sleep apnea (OSA), including daytime somnolence, nonrestorative sleep, and elevated blood pressure in the setting of underlying obesity. OSA is caused by closure of the upper airway due to relaxation of pharyngeal muscle tone during sleep. Additional contributing factors include obesity, tonsillar hypertrophy, and hypothyroidism. When the airway is occluded, PO₂ declines and PCO₂ rises until chemoreceptors in the carotid body and brainstem trigger arousal and pharyngeal tone returns. Sleep is repeatedly disrupted throughout the night, even in the absence of cortical awareness.\n\nTypical symptoms include excessive daytime sleepiness, morning headaches, cognitive impairment, and depression. Most patients also experience loud snoring due to partial closure of the airway. Chronic OSA can lead to systemic and pulmonary hypertension with right heart failure and an increased risk for cardiac arrhythmias.\n\n(Choice A) Central sleep apnea is due to diminished respiratory drive from a neurologic disorder. Symptoms may superficially resemble OSA, but it is usually associated with significant underlying chronic illness (eg, congestive heart failure, cerebrovascular disease, renal insufficiency) and is not more common in obesity.\n\n(Choice B) Narcolepsy is characterized by poorly regulated rapid eye movement (REM) sleep. It frequently causes excessive daytime sleepiness, but patients also suffer from cataplexy, sleep attacks, hypnagogic/hypnopompic hallucinations, and sleep paralysis.\n\n(Choice C) Obesity hypoventilation syndrome (Pickwickian syndrome) is caused by restricted expansion of the chest wall due to severe obesity. This leads to hypoventilation with a chronically elevated PCO₂ and reduced PO₂. This patient's normal blood gases and mild obesity are not consistent with obesity hypoventilation.\n\n(Choice E) Patients with simple insomnia may have daytime fatigue, but nonrestorative sleep, morning headaches, and elevated blood pressure suggest OSA.\n\n(Choice F) Restless leg syndrome is characterized by vague discomfort in the limbs that is brought on when trying to sleep and relieved with movement. Symptoms may recur through the night and lead to nonrestorative sleep, but patients are usually aware of the symptoms.\n\nEducational objective:\nObstructive sleep apnea is due to relaxation of oropharyngeal muscle tone with occlusion of the upper airway. Symptoms include daytime sleepiness, headaches, and depression. Complications include systemic and pulmonary hypertension, right heart failure, and an increased risk for cardiac events. {{exhibit_1}}",
+    "zh": "该患者有几个特征提示阻塞性睡眠呼吸暂停（OSA），包括白天嗜睡、非修复性睡眠，以及在潜在肥胖的情况下血压升高。 OSA是由睡眠期间咽肌张力松弛导致上气道闭合引起的。 其他促成因素包括肥胖、扁桃体肥大和甲状腺功能减退。 当气道阻塞时，PO₂下降，PCO₂升高，直到颈动脉体和脑干中的化学感受器触发唤醒，咽肌张力恢复。 即使在没有皮质意识的情况下，睡眠也会在整个晚上反复中断。\n\n典型症状包括白天过度嗜睡、晨起头痛、认知障碍和抑郁。 大多数患者还会因气道部分闭合而出现响亮的打鼾。 慢性OSA可导致全身性和肺动脉高压，伴有右心衰竭和心律失常风险增加。\n\n（选项A）中枢性睡眠呼吸暂停是由于神经系统疾病引起的呼吸驱动力减弱所致。 症状可能表面上类似于OSA，但通常与重要的潜在慢性疾病（例如充血性心力衰竭、脑血管疾病、肾功能不全）相关，并且在肥胖症中并不常见。\n\n（选项B）发作性睡病的特征是快速眼动（REM）睡眠调节不良。 它经常引起白天过度嗜睡，但患者也遭受猝倒、睡眠发作、入睡/觉醒幻觉和睡眠麻痹的困扰。\n\n（选项C）肥胖性低通气综合征（匹克威克综合征）是由于严重肥胖导致胸壁扩张受限引起的。 这导致低通气，伴有慢性升高的PCO₂和降低的PO₂。 该患者正常的血气和轻度肥胖与肥胖性低通气不符。\n\n（选项E）单纯性失眠的患者可能会感到白天疲劳，但非修复性睡眠、晨起头痛和血压升高提示OSA。\n\n（选项F）不宁腿综合征的特征是肢体模糊不适，这种不适是在尝试入睡时出现的，并且可以通过活动来缓解。 症状可能会在整个晚上复发并导致非修复性睡眠，但患者通常会意识到这些症状。\n\n教育目标：\n阻塞性睡眠呼吸暂停是由于口咽肌肉张力松弛，上气道阻塞引起的。 症状包括白天嗜睡、头痛和抑郁。 并发症包括全身性和肺动脉高压、右心衰竭以及心血管事件风险增加。 {{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of obstructive sleep apnea (OSA) presentation, risk factors, and underlying pathophysiology. OSA is characterized by repetitive upper airway obstruction during sleep, leading to intermittent hypoxia and sleep fragmentation.\n\nTo solve this question, identify the key features of OSA such as daytime somnolence, nonrestorative sleep, obesity, and hypertension. Rule out other sleep disorders based on their distinct clinical features.",
+    "zh": "这个问题测试对阻塞性睡眠呼吸暂停（OSA）的表现、危险因素和潜在病理生理学的了解。 OSA的特征是睡眠期间反复发生上气道阻塞，导致间歇性缺氧和睡眠碎片化。\n\n要解决这个问题，请确定OSA的关键特征，例如白天嗜睡、非修复性睡眠、肥胖和高血压。 根据其他睡眠障碍的不同临床特征排除它们。"
+  },
+  "tags": "Obstructive sleep apnea; Sleep medicine; Hypoxia; Hypertension; Obesity; Sleep disorders; Polysomnography",
+  "category": "Chest",
+  "question_id": "1460",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1460",
+  "extracted_at": "2025-11-05T11:37:42.454967",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:34:30.050072",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

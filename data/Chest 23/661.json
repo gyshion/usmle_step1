@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "An 18-year-old man is evaluated for recurrent episodes of shortness of breath, wheezing, runny nose, and watery eyes. The patient reports that his symptoms have recently worsened since he started training outdoors for an upcoming marathon. He does not use tobacco, alcohol, or illicit drugs. Skin testing is performed to determine symptom triggers. A pricking device is used to apply allergen extract underneath the skin. After 15 minutes, the patient develops raised, erythematous plaques with surrounding erythema at the application site {{exhibit_1}}.",
+    "zh": "一名18岁男性因反复发作的呼吸急促、喘息、流鼻涕和流泪就诊。患者报告称，自从他开始在户外训练即将到来的马拉松比赛后，他的症状最近有所加重。他不吸烟、不饮酒，也不吸食违禁药物。进行皮肤测试以确定症状诱因。使用刺刺器将过敏原提取物涂抹在皮肤下。15分钟后，患者在应用部位出现隆起的、发红的斑块，周围有红斑 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following mediators is the first to be released during the pathogenesis of this patient's skin findings?",
+    "zh": "以下哪种介质是在该患者皮肤表现的发病机制中首先释放的？"
+  },
+  "options": {
+    "A": {
+      "en": "Histamine",
+      "zh": "组胺"
+    },
+    "B": {
+      "en": "Leukotriene D4",
+      "zh": "白三烯D4"
+    },
+    "C": {
+      "en": "Major basic proteins",
+      "zh": "主要碱性蛋白"
+    },
+    "D": {
+      "en": "Platelet-activating factor",
+      "zh": "血小板活化因子"
+    },
+    "E": {
+      "en": "Prostaglandin D2",
+      "zh": "前列腺素D2"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's shortness of breath and wheezing are suggestive of asthma, and his rhinorrhea and watery eyes are suggestive of allergic rhinitis. Both of these conditions are examples of type I hypersensitivity, which involves the triggering of an allergic response via the binding of previously recognized antigen to IgE antibodies on mast cells. Many type I hypersensitivity reactions are composed of both an early and late phase.\n\nHistamine is housed in preformed granules of unactivated mast cells and plays an important role in the early phase of type I hypersensitivity. Upon activation, mast cells rapidly release histamine via degranulation, making histamine the first chemical mediator to take effect. Once released, histamine triggers smooth muscle contraction leading to bronchoconstriction, increases vascular permeability leading to edema, and increases mucus secretion from glandular tissue.\n\n(Choice B) Leukotriene D4, along with the other cysteinyl leukotrienes (C4 and E4), are not preformed but require synthesis via the 5-lipoxygenase pathway of arachidonic acid metabolism. Therefore, these mediators are released by mast cells later than histamine. Once released, the cysteinyl leukotrienes are potent mediators of vasoconstriction, bronchoconstriction, and increased vascular permeability.\n\n(Choice C) Major basic protein is released from eosinophils in the late stage of a type I hypersensitivity reaction and causes localized tissue damage.\n\n(Choice D) Platelet-activating factor is a secondary inflammatory mediator that must be synthesized from phospholipid prior to being released from activated mast cells and basophils. Once released, it stimulates bronchospasm and increased vascular permeability.\n\n(Choice E) Prostaglandin D2 is synthesized via the cyclooxygenase pathway of arachidonic acid metabolism prior to being released from mast cells. Once released, it causes bronchospasm and vasodilation.\n\nEducational objective:\nType I hypersensitivity reactions are an allergic response triggered by the binding of previously recognized antigen to IgE antibodies on mast cells. In the early phase of the response, histamine, already stored in preformed granules in mast cells, is the first chemical mediator released. Once released, histamine stimulates smooth muscle contraction (bronchoconstriction), increases vascular permeability (edema), and increases mucus secretion. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "该患者的呼吸急促和喘息提示哮喘，其鼻溢和流泪提示过敏性鼻炎。这两种情况都是I型超敏反应的例子，涉及通过先前识别的抗原与肥大细胞上的IgE抗体结合来触发过敏反应。许多I型超敏反应包括早期和晚期。\n\n组胺储存在未激活肥大细胞的预先形成的颗粒中，并在I型超敏反应的早期发挥重要作用。激活后，肥大细胞通过脱颗粒迅速释放组胺，使组胺成为第一个起作用的化学介质。一旦释放，组胺会触发平滑肌收缩导致支气管收缩，增加血管通透性导致水肿，并增加腺组织的粘液分泌。\n\n(选项B) 白三烯D4，以及其他半胱氨酰白三烯（C4和E4），不是预先形成的，但需要通过花生四烯酸代谢的5-脂氧合酶途径合成。因此，这些介质由肥大细胞释放的时间晚于组胺。一旦释放，半胱氨酰白三烯是血管收缩、支气管收缩和血管通透性增加的有效介质。\n\n(选项C) 主要碱性蛋白在I型超敏反应的晚期由嗜酸性粒细胞释放，并引起局部组织损伤。\n\n(选项D) 血小板活化因子是一种继发性炎症介质，必须由磷脂合成，然后才能从激活的肥大细胞和嗜碱性粒细胞中释放。一旦释放，它会刺激支气管痉挛并增加血管通透性。\n\n(选项E) 前列腺素D2通过花生四烯酸代谢的环氧合酶途径合成，然后从肥大细胞释放。一旦释放，它会导致支气管痉挛和血管舒张。\n\n教育目的：\nI型超敏反应是由先前识别的抗原与肥大细胞上的IgE抗体结合触发的过敏反应。在反应的早期，组胺，已经储存在肥大细胞中预先形成的颗粒中，是释放的第一个化学介质。一旦释放，组胺会刺激平滑肌收缩（支气管收缩）、增加血管通透性（水肿）并增加粘液分泌。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of type I hypersensitivity reactions and the role of various mediators, specifically focusing on which mediator is released first. It requires understanding the immediate phase of the allergic response and the preformed nature of histamine in mast cells.\n\nTo solve this question, recall the sequence of events in type I hypersensitivity. Remember that histamine is preformed and rapidly released upon mast cell activation, making it the first mediator involved in the immediate allergic response.",
+    "zh": "这个问题考察了对I型超敏反应和各种介质作用的了解，特别关注首先释放哪种介质。它需要理解过敏反应的即时阶段和肥大细胞中组胺的预先形成性质。\n\n要解决这个问题，请回忆I型超敏反应中的事件顺序。记住，组胺是预先形成的，并在肥大细胞激活后迅速释放，使其成为参与即时过敏反应的第一个介质。"
+  },
+  "tags": "Type I hypersensitivity; Allergic rhinitis; Asthma; Histamine; Mast cells; IgE; Immediate hypersensitivity; Immunology; Inflammation",
+  "category": "Chest",
+  "question_id": "661",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\661",
+  "extracted_at": "2025-11-05T11:46:52.576127",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:41:21.687410",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

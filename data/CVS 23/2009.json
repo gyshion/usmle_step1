@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A multinational research institute conducting experiments on human circulatory physiology enrolls a healthy 30-year-old male volunteer to assess the oxygen consumption rate of various organs. During the study, the blood oxygen content of the aorta and several other vessels is measured at rest. The greatest difference in these measurements will most likely be between the aorta and which of the following blood vessels?",
+    "zh": "一个跨国研究机构正在进行关于人体循环生理学的实验，招募了一名健康的30岁男性志愿者来评估各种器官的耗氧率。在研究过程中，测量了主动脉和其他几条血管在静息状态下的血氧含量。这些测量值之间最大的差异最有可能出现在主动脉和以下哪条血管之间？"
+  },
+  "question": {
+    "en": "Which of the following blood vessels?",
+    "zh": "以下哪条血管？"
+  },
+  "options": {
+    "A": {
+      "en": "Brachial vein",
+      "zh": "肱静脉"
+    },
+    "B": {
+      "en": "Coronary sinus",
+      "zh": "冠状窦"
+    },
+    "C": {
+      "en": "Internal jugular vein",
+      "zh": "颈内静脉"
+    },
+    "D": {
+      "en": "Portal vein",
+      "zh": "门静脉"
+    },
+    "E": {
+      "en": "Pulmonary artery",
+      "zh": "肺动脉"
+    },
+    "F": {
+      "en": "Renal vein",
+      "zh": "肾静脉"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Most cardiac venous blood drains into the right atrium via the CORONARY SINUS, with the remainder draining directly into the other chambers of the heart. Three specific features distinguish cardiac circulation from blood flow to skeletal muscle and viscera:\n\n1.  The left ventricle is perfused only during diastole. Myocardial contraction during systole leads to compression of the coronary vessels and disruption of blood flow. Wall tension is highest near the endocardium, making the subendocardial region the most prone to ischemia.\n\n2.  Myocardial oxygen extraction is very high. The heart has a capillary density far exceeding that of skeletal muscle. Oxygen extraction from arterial blood is very effective within the heart as the resting myocardium extracts 60%-75% of oxygen from blood. This amount is higher than that extracted by any other tissue or organ in the body. As a result, the cardiac venous blood in the coronary sinus, before it reaches the right atrium and mixes with blood returning from the systemic circulation, is the most deoxygenated blood in the body (Choices A, C, D, and F).\n\n3.  Myocardial oxygen demand and coronary blood flow are tightly coupled. Because oxygen extraction by the resting heart is already very high, there is little capacity to increase myocardial oxygen extraction during periods of increased oxygen demand (eg, during exercise). Therefore, increased oxygen delivery to the heart can be achieved only through increased coronary blood flow. Adenosine and nitric oxide are the most important vasodilators responsible for increasing coronary flow.\n\n(Choice E) Deoxygenated systemic blood returning via the vena cava contains more oxygen than coronary sinus venous blood. Because the pulmonary artery contains an admixture of blood returning via coronary sinus and systemic venous blood, its oxygen content is also higher than pure coronary venous return. {{exhibit_1}}",
+    "zh": "大部分心脏静脉血通过冠状窦回流入右心房，其余部分直接回流入心脏的其他腔室。三个特定的特征将心脏循环与流向骨骼肌和内脏的血流区分开来：\n\n1.  左心室仅在舒张期灌注。收缩期心肌收缩导致冠状血管受压，血流中断。心内膜附近的壁张力最高，使得心内膜下区域最容易发生缺血。\n\n2.  心肌氧提取率非常高。心脏的毛细血管密度远超骨骼肌。从动脉血中提取氧气在心脏内非常有效，静息心肌从血液中提取60%-75%的氧气。这个量高于身体任何其他组织或器官提取的量。因此，冠状窦中的心脏静脉血在到达右心房并与从体循环返回的血液混合之前，是体内含氧量最低的血液（选项A、C、D和F）。\n\n3.  心肌耗氧量和冠状血流量紧密耦合。由于静息心脏的氧提取率已经非常高，在氧需求增加的时期（例如，运动期间），增加心肌氧提取的能力很小。因此，增加心脏的氧供应只能通过增加冠状血流量来实现。腺苷和一氧化氮是负责增加冠状血流的最重要的血管舒张剂。\n\n（选项E）通过腔静脉返回的脱氧体循环血比冠状窦静脉血含有更多的氧气。由于肺动脉含有通过冠状窦和体静脉血返回的混合血，其氧含量也高于纯冠状静脉回流。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of oxygen extraction rates in different organs, specifically the high oxygen extraction rate of the heart and the resulting low oxygen content in the coronary sinus. It also tests understanding of cardiac venous drainage.\n\nTo solve this question, recall that the heart has the highest oxygen extraction rate of any organ. Therefore, the blood in the coronary sinus, which drains the heart, will have the lowest oxygen content compared to other venous blood.",
+    "zh": "这道题考察了对不同器官氧提取率的知识，特别是心脏的高氧提取率以及由此导致的冠状窦中较低的氧含量。它也考察了对心脏静脉引流的理解。\n\n解决这道题，需要记住心脏是所有器官中氧提取率最高的。因此，引流心脏的冠状窦中的血液将与其他静脉血相比，具有最低的氧含量。"
+  },
+  "tags": "Oxygen extraction; Coronary sinus; Cardiac physiology; Myocardial oxygen demand; Coronary blood flow",
+  "category": "CVS",
+  "question_id": "2009",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\2009",
+  "extracted_at": "2025-11-05T12:08:50.266065",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:27:18.133970",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

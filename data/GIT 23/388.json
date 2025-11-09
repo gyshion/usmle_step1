@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A pharmaceutical researcher is trying to develop a vaccine against the hepatitis C virus. She infects a chimpanzee with hepatitis C virus of known genotype and subtype. Several weeks later, a liver sample is obtained, and viral RNAs are extracted from the hepatocytes. A genetic study of the viral genomes reveals that the extracted RNA sequences vary significantly from that of the original infecting virus. This genetic instability is most likely due to the lack of which of the following features during the viral replication process?",
+    "zh": "一位药物研究人员正试图开发一种针对丙型肝炎病毒的疫苗。她用已知基因型和亚型的丙型肝炎病毒感染了一只黑猩猩。几周后，获取肝脏样本，并从肝细胞中提取病毒RNA。对病毒基因组的遗传学研究显示，提取的RNA序列与原始感染病毒的RNA序列差异显着。这种遗传不稳定性最可能归因于病毒复制过程中缺乏以下哪种特征？"
+  },
+  "question": {
+    "en": "Which of the following features during the viral replication process?",
+    "zh": "病毒复制过程中的以下哪种特征？"
+  },
+  "options": {
+    "A": {
+      "en": "3′ → 5′ exonuclease activity",
+      "zh": "3′ → 5′ 核酸外切酶活性"
+    },
+    "B": {
+      "en": "5′ → 3′ exonuclease activity",
+      "zh": "5′ → 3′ 核酸外切酶活性"
+    },
+    "C": {
+      "en": "Glycosylase activity",
+      "zh": "糖基化酶活性"
+    },
+    "D": {
+      "en": "Ligase activity",
+      "zh": "连接酶活性"
+    },
+    "E": {
+      "en": "Nucleotide specificity",
+      "zh": "核苷酸特异性"
+    },
+    "F": {
+      "en": "Primase activity",
+      "zh": "引物酶活性"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Hepatitis C virus (HCV) has ≥6 genotypes and multiple subgenotypes. These variant strains differ primarily at hypervariable genomic regions, such as those found in the sequences encoding its 2 envelope glycoproteins. Moreover, there is no proofreading 3′ → 5′ exonuclease activity built into the virion-encoded RNA polymerase. As a result, the RNA polymerase makes many errors during replication, and several dozen subspecies of HCV are typically present in the blood of an infected individual at any one time.\n\n(Choice B) 5′ → 3′ exonuclease activity allows DNA polymerase I to engage in nick translation, which is important for both DNA repair and removal of RNA primers during replication. This feature is not the cause of instability in HCV.\n\n(Choice C) DNA glycosylase is important in base excision repair as it removes the nitrogen base from the sugar-phosphate backbone. An endonuclease then completes the remainder of the repair. This enzyme is not the cause of instability in HCV.\n\n(Choice D) DNA ligase is used to join 2 fragments of DNA and is therefore necessary for both DNA repair and replication. The HCV genome is a single-stranded, positive-sense RNA molecule that does not require ligase activity during replication.\n\n(Choice E) Nucleotide specificity refers to the importance of inserting the correct nucleotide (eg, adenine, guanine, cytosine, thymine, uracil) into a strand of DNA or RNA. It is not the cause of instability in HCV.\n\n(Choice F) DNA primase is a form of RNA polymerase. In bacteria, it binds with DNA helicase and synthesizes a short RNA primer to which nucleotides can be added by DNA polymerase. This enzyme is not the cause of instability in HCV.\n\nEducational objective: The hepatitis C virus is genetically unstable because it lacks proofreading 3′ → 5′ exonuclease activity in its RNA polymerase. Its envelope glycoprotein sequences also contain a hypervariable region prone to frequent genetic mutation.",
+    "zh": "丙型肝炎病毒（HCV）有≥6种基因型和多种亚基因型。这些变异株主要在高度可变的基因组区域上有所不同，例如在其编码其2个包膜糖蛋白的序列中发现的区域。此外，在病毒体编码的RNA聚合酶中没有校对3′ → 5′ 核酸外切酶活性。因此，RNA聚合酶在复制过程中会犯许多错误，并且在任何时候，感染个体的血液中通常存在几十个HCV亚种。\n\n（选项B）5′ → 3′ 核酸外切酶活性允许DNA聚合酶I参与切口翻译，这对于DNA修复和在复制过程中去除RNA引物都很重要。这种特征不是HCV不稳定的原因。\n\n（选项C）DNA糖基化酶在碱基切除修复中很重要，因为它从糖-磷酸骨架上移除氮碱基。然后，内切酶完成修复的其余部分。这种酶不是HCV不稳定的原因。\n\n（选项D）DNA连接酶用于连接2个DNA片段，因此对于DNA修复和复制都是必需的。HCV基因组是单链、正义RNA分子，在复制过程中不需要连接酶活性。\n\n（选项E）核苷酸特异性是指将正确的核苷酸（例如，腺嘌呤、鸟嘌呤、胞嘧啶、胸腺嘧啶、尿嘧啶）插入DNA或RNA链的重要性。它不是HCV不稳定的原因。\n\n（选项F）DNA引物酶是一种RNA聚合酶。在细菌中，它与DNA解旋酶结合，合成一个短RNA引物，DNA聚合酶可以在该引物上添加核苷酸。这种酶不是HCV不稳定的原因。\n\n教育目标：丙型肝炎病毒在遗传上不稳定，因为它在其RNA聚合酶中缺乏校对3′ → 5′ 核酸外切酶活性。其包膜糖蛋白序列也包含一个易于发生频繁基因突变的超变区。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the Hepatitis C virus (HCV) and the mechanism behind its genetic instability. Specifically, it focuses on the lack of proofreading 3' to 5' exonuclease activity in the viral RNA polymerase.\n\nThe best approach is to recall the function of different enzymes involved in DNA/RNA replication and repair. Understanding that HCV lacks proofreading ability due to the absence of 3' to 5' exonuclease activity is key to answering this question correctly.",
+    "zh": "这个问题测试对丙型肝炎病毒（HCV）及其遗传不稳定性背后机制的了解。具体而言，它侧重于病毒RNA聚合酶中缺乏校对3'到5'核酸外切酶活性。\n\n最好的方法是回忆参与DNA/RNA复制和修复的不同酶的功能。了解HCV由于缺乏3'到5'核酸外切酶活性而缺乏校对能力是正确回答此问题的关键。"
+  },
+  "tags": "Hepatitis C virus; RNA polymerase; Exonuclease activity; Viral replication; Genetic instability; Virology; Gastroenterology; Infectious disease",
+  "category": "GIT",
+  "question_id": "388",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\388",
+  "extracted_at": "2025-11-05T14:34:01.209215",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:56:58.012986",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

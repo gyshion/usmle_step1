@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 52-year-old man comes to the office due to a 2-week history of progressive fatigue and exertional dyspnea. The patient is a postal delivery worker and reports that he gets short of breath after walking a few blocks. He has not had chest pain or palpitations. The patient does not use tobacco, alcohol, or illicit drugs. Cardiac auscultation reveals a murmur that is best heard when the patient sits up and leans forward. He brings to the office the report from a recent cardiac catheterization (graph shown below) {{exhibit_1}}.",
+    "zh": "一名52岁男性因2周来进行性疲劳和劳力性呼吸困难来诊。患者是邮递员，报告说在走了几个街区后就会气短。他没有胸痛或心悸。患者不吸烟、不饮酒，也不使用非法药物。心脏听诊显示，当患者坐直并向前倾斜时，听到的杂音最响亮。他带来了最近一次心导管检查的报告（如下图所示）{{exhibit_1}}。"
+  },
+  "question": {
+    "en": "This patient's murmur would most likely be loudest at which of the following time points on the graph?",
+    "zh": "该患者的杂音最可能在图中的哪个时间点最响亮？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient's cardiac catheterization shows a hemodynamic profile consistent with aortic regurgitation (AR); the characteristic decrescendo diastolic murmur is best heard with the patient leaning forward. The peak intensity of the murmur occurs just after aortic valve closure when the pressure gradient between the aorta and the left ventricle is maximal (point C). This pressure gradient falls progressively during diastole as blood regurgitates into the left ventricle, accounting for the decrescendo nature of the murmur.\n\nNotable changes to the pressure tracings that occur in AR include:\n\n*   Loss of the aortic dicrotic notch: On the normal aortic pressure tracing the dicrotic notch is created by a small and abrupt increase in aortic pressure as blood is secured in the aorta by closure of the aortic valve. However, with an incompetent aortic valve there is immediate backflow of blood into the left ventricle, resulting in loss of pressure in the aorta and disappearance of the dicrotic notch.\n*   Steep diastolic decline of aortic pressure: Aortic diastolic pressure declines more rapidly than normal as blood regurgitates into the left ventricle and nadirs at a lower than normal level.\n*   High-peaking left ventricular and aortic systolic pressures: The left ventricle attempts to compensate for regurgitant backflow by increasing stroke volume, resulting in higher systolic blood pressures, which combined with low aortic diastolic pressure leads to a wide pulse pressure.\n\n(Choice A) This point corresponds to the start of left ventricular contraction, just after mitral valve closure and just prior to the opening of the aortic valve; it would mark the onset of the holosystolic murmur of mitral regurgitation.\n\n(Choice B) This is the peak systolic pressure produced by the left ventricle during systole; the peak intensity of the crescendo-decrescendo murmur of aortic stenosis is heard here.\n\n(Choice D) This point corresponds to mid-diastole. The murmur of AR is likely heard here as well, but at a lower intensity given the relatively lower pressure gradient between the aorta and left ventricle. The low-pitch rumble of mitral stenosis would also be heard at this time.\n\n(Choice E) This point marks the onset of left atrial contraction (atrial kick) just before closure of the mitral valve. Accentuation of a mitral stenosis murmur may be heard at this time (presystolic accentuation).\n\nAortic regurgitation causes a decrescendo diastolic murmur with maximal intensity occurring just after closure of the aortic valve, when the pressure gradient between the aorta and left ventricle is the highest. The pressure tracing for aortic regurgitation is characterized by loss of the aortic dicrotic notch, steep diastolic decline in aortic pressure, and high-peaking systolic pressures. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "该患者的心导管检查显示了与主动脉瓣关闭不全(AR)一致的血流动力学特征；这种特征性的递减型舒张期杂音在患者向前倾斜时听诊效果最佳。杂音的峰值强度出现在主动脉瓣关闭后，此时主动脉与左心室之间的压力梯度最大（C点）。随着血液反流入左心室，该压力梯度在舒张期逐渐下降，这解释了杂音的递减性质。\n\nAR中出现的压力描记图的显著变化包括：\n\n*   主动脉切迹的消失：在正常的主动脉压力描记图中，主动脉切迹是由主动脉压力的小而突然的增加形成的，因为当主动脉瓣关闭时，血液被固定在主动脉中。然而，在主动脉瓣关闭不全的情况下，血液会立即回流到左心室，导致主动脉压力下降和切迹消失。\n*   主动脉压力的急剧舒张期下降：由于血液反流入左心室，主动脉舒张压的下降速度快于正常，并且降至低于正常水平的最低点。\n*   左心室和主动脉收缩压峰值升高：左心室试图通过增加每搏输出量来代偿反流，导致收缩压升高，这与低的主动脉舒张压相结合，导致脉压增大。\n\n（选项 A）该点对应于左心室收缩的开始，就在二尖瓣关闭之后和主动脉瓣开放之前；它将标志着二尖瓣关闭不全的全收缩期杂音的开始。\n\n（选项 B）这是左心室在收缩期产生的峰值收缩压；主动脉瓣狭窄的渐强-渐弱型杂音的峰值强度在此处听到。\n\n（选项 D）该点对应于舒张中期。AR的杂音也可能在此处听到，但由于主动脉和左心室之间的压力梯度相对较低，因此强度较低。二尖瓣狭窄的低音隆隆声也会在这个时候听到。\n\n（选项 E）此点标志着左心房收缩的开始（心房收缩），就在二尖瓣关闭之前。二尖瓣狭窄杂音的增强可能会在这个时候听到（收缩前增强）。\n\n主动脉瓣关闭不全会导致递减型舒张期杂音，其最大强度发生在主动脉瓣关闭后，此时主动脉和左心室之间的压力梯度最高。主动脉瓣关闭不全的压力描记图的特征是主动脉切迹消失、主动脉压力的急剧舒张期下降和收缩压峰值升高。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of aortic regurgitation and its characteristic hemodynamic profile as seen on cardiac catheterization, specifically the timing of the murmur in relation to the aortic valve closure. The question requires understanding of the pressure gradients and valve events during the cardiac cycle in aortic regurgitation.\n\nTo solve this question, identify the key features of aortic regurgitation on the pressure tracing, focusing on the timing of aortic valve closure. Recognize that the murmur is loudest when the pressure gradient between the aorta and left ventricle is maximal, which occurs immediately after aortic valve closure.",
+    "zh": "此问题测试对主动脉瓣关闭不全及其特征性血流动力学特征（如心导管检查所示）的知识，特别是杂音与主动脉瓣关闭的关系。该问题需要理解主动脉瓣关闭不全时心动周期中的压力梯度和瓣膜事件。\n\n要解决此问题，请确定压力描记图上主动脉瓣关闭不全的关键特征，重点关注主动脉瓣关闭的时间。认识到，当主动脉和左心室之间的压力梯度最大时，杂音最响亮，这发生在主动脉瓣关闭后立即。"
+  },
+  "tags": "Aortic regurgitation; Cardiac catheterization; Diastolic murmur; Aortic valve; Hemodynamics; Cardiology; Cardiac physiology",
+  "category": "CVS",
+  "question_id": "227",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\227",
+  "extracted_at": "2025-11-05T12:11:46.492114",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:28:47.596162",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

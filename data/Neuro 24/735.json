@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 44-year-old man is brought to the emergency department by his wife due to fever, headache, and confusion for the last day. The patient also has experienced nausea and photophobia. Medical history includes hypertension and type 2 diabetes mellitus. He had an upper respiratory tract illness 2 weeks ago. The patient does not use tobacco, alcohol, or recreational drugs. He lives in Massachusetts and has not traveled recently. Temperature is 38.3 C (101 F). On physical examination, pupillary reflexes and funduscopic findings are normal. Nasal and oropharyngeal mucous membranes are normal. The lungs are clear on auscultation, and heart sounds are unremarkable. Neurologic examination shows nuchal rigidity. No rashes are present. Lumbar puncture is performed, and cerebrospinal fluid analysis results are as follows:\n\nOpening pressure 200 mm H₂O\nGlucose 20 mg/dL\nProtein 200 mg/dL\nRed blood cells 4 cells/mm³\nLeukocytes 760 cells/mm³\nNeutrophils 90%\nLymphocytes 10%",
+    "zh": "一名44岁男性因发烧、头痛和意识模糊一天被妻子带到急诊科。患者还经历了恶心和畏光。病史包括高血压和2型糖尿病。他于2周前患上呼吸道感染。患者不吸烟、不饮酒或不使用娱乐性药物。他住在马萨诸塞州，最近没有旅行。体温为38.3°C (101°F)。体格检查显示，瞳孔反射和眼底镜检查结果正常。鼻腔和口咽粘膜正常。肺部听诊清亮，心脏听诊无异常。神经系统检查显示颈项强直。无皮疹。进行腰椎穿刺，脑脊液分析结果如下：\n\n开放压 200 mm H₂O\n葡萄糖 20 mg/dL\n蛋白质 200 mg/dL\n红细胞 4 个/mm³\n白细胞 760 个/mm³\n中性粒细胞 90%\n淋巴细胞 10%"
+  },
+  "question": {
+    "en": "Which of the following best describes the pathogen most likely responsible for this patient's condition?",
+    "zh": "以下哪项最能描述最有可能导致该患者病情的病原体？"
+  },
+  "options": {
+    "A": {
+      "en": "Encapsulated budding yeast",
+      "zh": "有包膜出芽酵母"
+    },
+    "B": {
+      "en": "Lancet-shaped gram-positive cocci",
+      "zh": "柳叶形革兰氏阳性球菌"
+    },
+    "C": {
+      "en": "Nonenveloped single-stranded RNA virus",
+      "zh": "无包膜单链RNA病毒"
+    },
+    "D": {
+      "en": "Nonmotile gram-negative coccobacilli",
+      "zh": "无动性革兰氏阴性杆菌球菌"
+    },
+    "E": {
+      "en": "Tick-transmitted motile spirochete",
+      "zh": "蜱传播的活动性螺旋体"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient with confusion, headache, fever, and nuchal rigidity likely has MENINGITIS. In bacterial meningitis, cerebrospinal fluid (CSF) analysis typically shows elevated opening pressure, increased neutrophils, decreased glucose, and elevated protein. The characteristic appearance of any observed bacteria on CSF Gram stain provides preliminary identification of the pathogen and allows tailoring of antibiotic therapy (whereas cultures take time to grow).\n\nThe most common cause of bacterial meningitis in adults of all ages is Streptococcus pneumoniae, a lancet-shaped gram-positive cocci found in pairs. S pneumoniae meningitis often follows a pulmonary infection or mild upper respiratory tract infection that has weakened ciliary clearance and the epithelial barrier. Patients with immunocompromise (eg, alcohol use disorder, diabetes mellitus, asplenia) are at greater risk for bacterial meningitis.\n\n(Choice A) Encapsulated budding yeasts are characteristic of cryptococcal meningitis, a fungal infection primarily seen in those with profound immunocompromise (eg, AIDS). Patients typically have slowly progressive headache, low-grade fever, and confusion over a few weeks (not 1-2 days). Although most cases are marked by low CSF glucose and protein levels, CSF leukocytes are usually mildly elevated and predominantly mononuclear.\n\n(Choice C) Enteroviruses (nonenveloped single-stranded RNA viruses) are the most common cause of viral (aseptic) meningitis. Although patients with viral meningitis often have sudden-onset meningeal symptoms, CSF usually has normal glucose, mildly elevated protein (eg, to <150 mg/dL), and a leukocyte count <250 cells/mm³.\n\n(Choice D) Haemophilus influenzae is a gram-negative coccobacillus. H influenzae infection is less common now that vaccination with the Hib capsule vaccine (a protein capsule polysaccharide conjugate vaccine) has become widespread.\n\n(Choice E) Lyme meningitis, a tick-transmitted spirochetal infection, typically presents with a syndrome similar to viral meningitis. CSF analysis usually shows a lymphocyte-predominant meningitis with mild leukocyte elevation, minimal change in glucose, and slightly elevated protein.\n\nEducational objective:\nBacterial meningitis causes an increase in cerebrospinal fluid (CSF) neutrophil count and protein concentration as well as a decrease in CSF glucose. Streptococcus pneumoniae is a leading cause of community-acquired pneumonia, otitis media, and meningitis in adults. S pneumoniae appears on Gram stain as lancet-shaped gram-positive cocci in pairs.",
+    "zh": "这位出现意识模糊、头痛、发烧和颈项强直的患者很可能患有脑膜炎。在细菌性脑膜炎中，脑脊液(CSF)分析通常显示开放压升高、中性粒细胞增多、葡萄糖降低和蛋白质升高。在脑脊液革兰染色中观察到的任何细菌的特征性外观提供了对病原体的初步鉴定，并允许定制抗生素治疗（而培养需要时间才能生长）。\n\n所有年龄段成年人细菌性脑膜炎最常见的原因是肺炎链球菌，一种柳叶形革兰氏阳性球菌，成对出现。肺炎链球菌性脑膜炎通常发生在肺部感染或轻度上呼吸道感染之后，这会削弱纤毛清除率和上皮屏障。免疫功能低下（如酒精使用障碍、糖尿病、脾切除术）的患者患细菌性脑膜炎的风险更高。\n\n(选项A) 有包膜出芽酵母是隐球菌性脑膜炎的特征，这是一种主要见于严重免疫功能低下（如艾滋病）患者的真菌感染。患者通常在几周内出现进行性缓慢的头痛、低烧和意识模糊（不是1-2天）。尽管大多数病例的脑脊液葡萄糖和蛋白质水平较低，但脑脊液白细胞通常轻度升高，且以单核细胞为主。\n\n(选项C) 肠道病毒（无包膜单链RNA病毒）是病毒性（无菌性）脑膜炎最常见的原因。尽管病毒性脑膜炎患者通常有突发性脑膜症状，但脑脊液通常有正常葡萄糖、轻度升高的蛋白质（例如，低于150 mg/dL）和白细胞计数<250 个/mm³。\n\n(选项D) 流感嗜血杆菌是一种革兰氏阴性杆菌球菌。现在，由于广泛接种了Hib荚膜疫苗（一种蛋白质荚膜多糖结合疫苗），流感嗜血杆菌感染已不太常见。\n\n(选项E) 莱姆病脑膜炎，一种蜱传播的螺旋体感染，通常表现为类似于病毒性脑膜炎的综合征。脑脊液分析通常显示以淋巴细胞为主的脑膜炎，伴有轻度白细胞升高、葡萄糖变化最小和蛋白质轻度升高。\n\n教学目标：\n细菌性脑膜炎会导致脑脊液(CSF)中性粒细胞计数和蛋白质浓度增加，以及脑脊液葡萄糖减少。肺炎链球菌是成人社区获得性肺炎、中耳炎和脑膜炎的主要原因。肺炎链球菌在革兰染色中显示为柳叶形革兰氏阳性球菌，成对出现。"
+  },
+  "summary": {
+    "en": "This question tests the ability to diagnose bacterial meningitis based on clinical presentation and cerebrospinal fluid (CSF) analysis, and to identify the most common causative pathogen in adults. It requires correlating CSF findings with specific pathogens and their typical clinical presentations.\n\nTo solve this question, analyze the patient's symptoms and CSF results to identify signs of bacterial meningitis. Then, consider the differential diagnoses for meningitis, focusing on the most common bacterial causes and their characteristic Gram stain morphology and epidemiological risk factors. Eliminate less likely etiologies based on the provided CSF data and patient history.",
+    "zh": "这个问题测试了根据临床表现和脑脊液(CSF)分析诊断细菌性脑膜炎，并确定成人中最常见的病原体的能力。它需要将脑脊液的发现与特定的病原体及其典型的临床表现相关联。\n\n要解决这个问题，请分析患者的症状和脑脊液结果，以确定细菌性脑膜炎的迹象。然后，考虑脑膜炎的鉴别诊断，重点关注最常见的细菌病因及其特征性的革兰染色形态学和流行病学危险因素。根据提供的脑脊液数据和患者病史，排除不太可能发生的病因。"
+  },
+  "tags": "Meningitis; Bacterial meningitis; Streptococcus pneumoniae; Cerebrospinal fluid analysis; Gram stain; Nuchal rigidity; Fever; Headache; Diabetes mellitus; Hypertension; Infectious disease; Neurology",
+  "category": "Neuro",
+  "question_id": "735",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\735",
+  "extracted_at": "2025-11-05T19:41:08.362958",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:42:33.894971",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "Researchers are studying the Fas receptor (FasR), a protein widely expressed on cell surfaces. The signaling cascade of programmed cell death is initiated when FasR binds to its ligand (FasL), which is expressed on cytotoxic T cells. In an experiment, cancer cells that escaped elimination by the immune system were found to contain soluble Fas proteins that did not promote apoptosis. The soluble Fas proteins were shorter and lacked the transmembrane domain. DNA analysis of these cells revealed no FAS gene mutations.",
+    "zh": "研究人员正在研究Fas受体（FasR），这是一种广泛表达于细胞表面的蛋白质。当FasR与其配体（FasL）结合时，程序性细胞死亡的信号级联反应被启动，FasL在细胞毒性T细胞上表达。在一项实验中，发现逃避免疫系统清除的癌细胞含有不促进细胞凋亡的可溶性Fas蛋白。可溶性Fas蛋白较短，缺乏跨膜结构域。对这些细胞的DNA分析显示没有FAS基因突变。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely explanation for the formation of altered Fas proteins in these cancer cells?",
+    "zh": "以下哪项最能解释这些癌细胞中变异Fas蛋白的形成？"
+  },
+  "options": {
+    "A": {
+      "en": "Alternative splicing",
+      "zh": "选择性剪接"
+    },
+    "B": {
+      "en": "Defective polyadenylation",
+      "zh": "多腺苷酸化缺陷"
+    },
+    "C": {
+      "en": "DNA methylation",
+      "zh": "DNA甲基化"
+    },
+    "D": {
+      "en": "Polycistronic mRNA",
+      "zh": "多顺反子mRNA"
+    },
+    "E": {
+      "en": "Protein ubiquitination",
+      "zh": "蛋白质泛素化"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Alternative splicing is a process by which different combinations of DNA coding regions (EXONS) are selectively included or excluded from a mature messenger RNA (mRNA) transcript. This allows the DNA contained in a single gene to code for a functionally diverse group of proteins. Cancers in particular can use alternative splicing to evade innate defense mechanisms. Cancer cells may develop the ability to SPLICE OUT a particular exon that codes for the TRANSMEMBRANE DOMAIN of the Fas receptor (FasR), converting it to a soluble form that is not expressed on the cell surface, which allows the cells to EVADE APOPTOSIS.",
+    "zh": "选择性剪接是一个过程，通过该过程，不同的DNA编码区组合（外显子）被选择性地包含或排除在成熟的信使RNA（mRNA）转录本中。这允许单个基因中包含的DNA编码一组功能多样的蛋白质。特别是癌症可以利用选择性剪接来逃避先天防御机制。癌细胞可能会发展出剪接掉编码Fas受体（FasR）跨膜结构域的特定外显子的能力，将其转化为不在细胞表面表达的可溶性形式，这使得细胞能够逃避细胞凋亡。"
+  },
+  "summary": {
+    "en": "1) Alternative splicing 2) Cancer cells can use alternative splicing to evade apoptosis by splicing out the transmembrane domain of the Fas receptor, resulting in a soluble form of the protein.",
+    "zh": "1) 选择性剪接 2) 癌细胞可以利用选择性剪接来逃避细胞凋亡，方法是剪接掉Fas受体的跨膜结构域，从而产生可溶性形式的蛋白质。"
+  },
+  "tags": "Alternative splicing; Fas receptor; Apoptosis; Cancer; Transmembrane domain",
+  "category": "Bio",
+  "question_id": "11913",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\11913",
+  "extracted_at": "2025-11-05T10:58:24.074910",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:19:16.104079",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

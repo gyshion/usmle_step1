@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 78-year-old man is brought to the emergency department due to lightheadedness that began earlier in the day. This morning, the patient felt unsteady and almost passed out when he tried to get out of bed. He has not had similar symptoms before and he has had no chest pain or shortness of breath. He has a history of coronary artery disease requiring percutaneous coronary intervention. The rhythm strip of the ECG obtained in the emergency department is shown in the exhibit {{exhibit_1}}. Which of the following is the most likely cause of this patient's current symptoms?",
+    "zh": "一名78岁男性因头晕被送往急诊科，该症状始于当天早些时候。今天早上，患者感到不稳定，当他试图下床时几乎晕倒。他之前没有类似的症状，也没有胸痛或呼吸急促。他有冠状动脉疾病病史，需要经皮冠状动脉介入治疗。急诊科获得的ECG节律描记图显示在图{{exhibit_1}}中。以下哪项最可能是导致该患者目前症状的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's current symptoms?",
+    "zh": "以下哪项最可能是导致该患者目前症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Degenerative changes involving the atrioventricular node",
+      "zh": "涉及房室结的退行性变"
+    },
+    "B": {
+      "en": "Degenerative changes involving the sinus node",
+      "zh": "涉及窦房结的退行性变"
+    },
+    "C": {
+      "en": "Ectopic electrical foci in left ventricular myocardium",
+      "zh": "左心室心肌中的异位电兴奋灶"
+    },
+    "D": {
+      "en": "Reentrant circuit involving the cavotricuspid isthmus",
+      "zh": "涉及腔三尖瓣峡部的折返电路"
+    },
+    "E": {
+      "en": "Sporadic depolarization of atrial cardiomyocytes",
+      "zh": "心房心肌细胞的散发性去极化"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's ECG demonstrates third-degree atrioventricular (AV) block. Third-degree (complete) AV block involves a total lack of communication between the atria and ventricles due to AV NODE DYSFUNCTION. It can result from ischemia, infiltrative disease (eg, sarcoidosis), infection (eg, Lyme disease), or age-related fibrosis with cellular degeneration.\n\nBecause conduction signals from the atria cannot communicate with the ventricles, the intrinsic pacemaker of the His bundle or ventricles is triggered, resulting in a junctional or ventricular escape rhythm. On ECG, there is dissociation of P waves and QRS complexes, with P waves marching out at the intrinsic rate of the sinoatrial node (~75/min) and QRS complexes at the intrinsic rate of the His bundle or ventricles (~45/min). The QRS-complex escape rhythm in this patient is particularly slow (ie, <30/min).\n\nThe slow ventricular rate in third-degree AV block leads to reduced cardiac output, potentially causing dyspnea, fatigue, lightheadedness, and syncope. Definitive management requires placement of a permanent pacemaker.\n\n(Choice B) Degenerative changes involving the sinus node can lead to sick sinus syndrome, characterized by bradycardia with sinus pauses (delayed P waves) and sinus arrest (dropped P waves). However, there would be no dissociation of P waves and QRS complexes (ie, P waves are always promptly followed by a QRS complex).\n\n(Choice C) Ectopic electrical foci in left ventricular (LV) myocardium are a common cause of monomorphic ventricular tachycardia, typically in the setting of myocardial ischemia or LV systolic dysfunction. ECG demonstrates wide QRS complexes that are rapid and regular, and P waves are not visible.\n\n(Choice D) A reentrant circuit involving the cavotricuspid isthmus occurs in atrial flutter. ECG shows saw-toothed flutter waves; QRS complexes may demonstrate a regular or irregular rhythm depending on how consistently flutter waves are conducted through the AV node.\n\n(Choice E) Sporadic depolarization of atrial cardiomyocytes occurs in atrial fibrillation. On ECG, QRS intervals are irregular and P waves are absent.\n\nEducational objective:\nThird-degree (complete) atrioventricular block involves dysfunction of the atrioventricular node, resulting in total lack of communication between the atria and ventricles. On ECG, there is dissociation of P waves and QRS complexes, with P waves marching out at the intrinsic rate of the sinoatrial node and QRS complexes at the intrinsic rate of the His bundle or ventricles (escape rhythm). {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}} {{exhibit_8}}",
+    "zh": "该患者的ECG显示三度房室(AV)传导阻滞。三度(完全性)房室传导阻滞涉及由于房室结功能障碍而导致心房和心室之间完全缺乏通讯。其病因可由缺血、浸润性疾病(如结节病)、感染(如莱姆病)或与年龄相关的细胞退变纤维化引起。\n\n由于来自心房的传导信号无法与心室通讯，会触发希氏束或心室的固有起搏器，导致交界性或心室逸搏心律。在ECG上，P波和QRS波群出现分离，P波以窦房结的固有频率(~75次/分钟)行进，QRS波群以希氏束或心室的固有频率(~45次/分钟)行进。该患者的QRS波群逸搏心律特别慢(即<30次/分钟)。\n\n三度房室传导阻滞时的心室率慢会导致心输出量减少，可能导致呼吸困难、疲劳、头晕和晕厥。明确的治疗需要植入永久性起搏器。\n\n(选项B) 涉及窦房结的退行性变可导致病态窦房结综合征，其特征是窦性停搏(P波延迟)和窦性停搏(P波缺失)。但是，P波和QRS波群不会出现分离(即，P波总是迅速跟随QRS波群)。\n\n(选项C) 左心室(LV)心肌中的异位电兴奋灶是单形性室性心动过速的常见原因，通常发生在心肌缺血或LV收缩功能障碍的情况下。ECG显示宽QRS波群，快速而规律，并且P波不可见。\n\n(选项D) 涉及腔三尖瓣峡部的折返电路发生在心房扑动中。ECG显示锯齿状扑动波；QRS波群可显示规则或不规则的节律，这取决于扑动波通过房室结的传导情况。\n\n(选项E) 心房心肌细胞的散发性去极化发生在心房颤动中。在ECG上，QRS间期不规则，P波缺失。\n\n教学目标：\n三度(完全性)房室传导阻滞涉及房室结功能障碍，导致心房和心室之间完全缺乏通讯。在ECG上，P波和QRS波群出现分离，P波以窦房结的固有频率行进，QRS波群以希氏束或心室的固有频率(逸搏心律)行进。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}} {{exhibit_8}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of third-degree AV block (complete heart block) and its presentation on ECG, including the dissociation of P waves and QRS complexes. It also tests the ability to differentiate this condition from other causes of bradycardia and arrhythmias.\n\nTo solve this question, identify the key features of third-degree AV block on the ECG strip, such as the independent atrial and ventricular rates and the absence of a consistent relationship between P waves and QRS complexes. Then, consider the patient's symptoms of lightheadedness and near syncope, which are consistent with the reduced cardiac output caused by the slow ventricular rate in complete heart block.",
+    "zh": "这个问题考察了对三度房室传导阻滞(完全性心脏传导阻滞)及其在ECG上的表现的了解，包括P波和QRS波群的分离。它还测试了将这种情况与其他原因引起的心动过缓和心律失常区分开来的能力。\n\n要解决这个问题，请确定ECG图上三度房室传导阻滞的关键特征，例如心房和心室的独立频率以及P波和QRS波群之间缺乏一致的关系。然后，考虑患者的头晕和接近晕厥的症状，这与完全性心脏传导阻滞时心室率缓慢引起的心输出量减少一致。"
+  },
+  "tags": "Third-degree AV block; Complete heart block; ECG interpretation; Bradycardia; Atrioventricular node; Cardiac conduction system; Syncope; Cardiology; Emergency medicine",
+  "category": "CVS",
+  "question_id": "15555",
+  "has_exhibits": true,
+  "exhibit_count": 8,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\15555",
+  "extracted_at": "2025-11-05T11:59:45.757733",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:51:10.373803",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

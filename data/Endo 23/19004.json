@@ -1,0 +1,57 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old man comes to the office for evaluation of an enlarged left testis. He also reports decreased libido and erectile potency for the last 2 months. The patient has no chronic medical conditions and takes no medications. Physical examination is notable for significant enlargement of the left testis and bilateral gynecomastia. His other secondary sexual characteristics are normal. Serum β-hCG is markedly elevated and serum TSH is normal. Scrotal ultrasound reveals a 3.1-cm, irregular testicular mass with cystic areas. Which of the following is the most likely cause of this patient's gynecomastia? {{exhibit_1}}",
+    "zh": "一位35岁的男性前来就诊，评估其左侧睾丸增大。他还报告说，在过去的2个月里，性欲减退和勃起无力。患者没有慢性病史，也没有服用药物。体格检查显示左侧睾丸明显增大，并有双侧男性乳房发育。他的其他第二性征是正常的。血清β-hCG明显升高，血清TSH正常。阴囊超声显示有一个3.1厘米、不规则的睾丸肿块，伴有囊性区域。以下哪项最可能是该患者男性乳房发育症的原因？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's gynecomastia?",
+    "zh": "以下哪项最可能是该患者男性乳房发育症的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased adrenal androgen production",
+      "zh": "肾上腺雄激素生成减少"
+    },
+    "B": {
+      "en": "Decreased hypothalamic secretion of GnRH",
+      "zh": "下丘脑GnRH分泌减少"
+    },
+    "C": {
+      "en": "Displacement of androgens from breast androgen receptors",
+      "zh": "雄激素从乳房雄激素受体上移位"
+    },
+    "D": {
+      "en": "Increased Leydig cell aromatase activity",
+      "zh": "间质细胞芳香化酶活性增加"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Secretion of hCG by testicular germ cell tumors impairs testosterone production in Leydig cells while increasing aromatase activity and conversion of androgens to estrogens. The resulting increase in the estrogen/androgen ratio can cause gynecomastia. {{exhibit_2}}\n\n(Choice A) Inadequate production of adrenal androgens (eg, dehydroepiandrosterone [DHEA], DHEA-sulfate) is seen in patients with 17-alpha-hydroxylase deficiency. In males, this condition usually manifests in childhood with undervirilization and ambiguous (or female) external genitalia.\n\n(Choice B) Decreased hypothalamic secretion of GnRH suppresses the entire GnRH-pituitary-gonadal axis, leading to decreased testosterone production. Concurrently, aromatization of weak adrenal androgens to estrogens maintains estrogen levels proportionally high, leading to gynecomastia. However, gynecomastia in patients with germ cell tumors is primarily due to Leydig cell aromatization of androgens.\n\n(Choice C) A number of drugs (eg, spironolactone, flutamide, cimetidine) inhibit binding of testosterone and dihydrotestosterone to the androgen receptor, leading to gynecomastia. However, hCG does not affect androgen binding.\n\nEducational objective:\nSecretion of hCG by testicular germ cell tumors impairs testosterone production in Leydig cells while increasing aromatase activity and conversion of androgens to estrogens. The resulting increase in the estrogen/androgen ratio can cause gynecomastia.",
+    "zh": "睾丸生殖细胞肿瘤分泌hCG会损害间质细胞的睾酮生成，同时增加芳香化酶活性，促进雄激素转化为雌激素。由此导致的雌激素/雄激素比例升高可引起男性乳房发育症。{{exhibit_2}}\n\n(选项A) 肾上腺雄激素（如脱氢表雄酮[DHEA]、DHEA-硫酸盐）生成不足见于17-α-羟化酶缺乏症患者。在男性中，这种情况通常在儿童时期表现为男性化不足和外生殖器模糊（或女性化）。\n\n(选项B) 下丘脑GnRH分泌减少会抑制整个GnRH-垂体-性腺轴，导致睾酮生成减少。同时，弱肾上腺雄激素芳香化为雌激素维持了雌激素水平的相对较高，从而导致男性乳房发育症。然而，生殖细胞肿瘤患者的男性乳房发育症主要归因于间质细胞对雄激素的芳香化。\n\n(选项C) 许多药物（如螺内酯、氟他胺、西咪替丁）抑制睾酮和双氢睾酮与雄激素受体的结合，导致男性乳房发育症。然而，hCG不影响雄激素的结合。\n\n教育目的：\n睾丸生殖细胞肿瘤分泌hCG会损害间质细胞的睾酮生成，同时增加芳香化酶活性，促进雄激素转化为雌激素。由此导致的雌激素/雄激素比例升高可引起男性乳房发育症。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of gynecomastia, specifically in the context of testicular germ cell tumors and elevated hCG levels. It requires understanding the hormonal changes that lead to gynecomastia in this clinical scenario.\n\nThe best approach is to recognize the significance of the elevated hCG and testicular mass, linking them to a germ cell tumor. Then, understand how hCG affects Leydig cells, leading to increased aromatase activity and a higher estrogen/androgen ratio, which causes gynecomastia.",
+    "zh": "这道题考察了对男性乳房发育症病理生理学的了解，特别是关于睾丸生殖细胞肿瘤和hCG水平升高的情况。它要求理解在这种临床情况下导致男性乳房发育症的激素变化。\n\n最好的方法是认识到hCG升高和睾丸肿块的重要性，将它们与生殖细胞肿瘤联系起来。然后，了解hCG如何影响间质细胞，导致芳香化酶活性增加和雌激素/雄激素比例升高，从而引起男性乳房发育症。"
+  },
+  "tags": "Gynecomastia; Testicular germ cell tumor; hCG; Leydig cells; Aromatase; Estrogen; Androgen; Endocrinology; Oncology; Reproductive system",
+  "category": "Endo",
+  "question_id": "19004",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\19004",
+  "extracted_at": "2025-11-05T14:03:58.775992",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:39:18.503175",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

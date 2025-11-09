@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 31-year-old man is hospitalized after sustaining multiple injuries during a motor vehicle collision. The patient is not conscious initially, and no information is available regarding his medical history. Two days after initial hospitalization, he experiences palpitations and difficulty sleeping. Shortly thereafter, the patient suffers a generalized tonic-clonic seizure. When he recovers, he tells the physician that he usually takes medications for anxiety, bipolar disorder, and chronic low back pain. His temperature is 36.7 C (98.1 F), blood pressure is 129/82 mm Hg, pulse is 92/min, and respirations are 14/min. He appears anxious, tremulous, and diaphoretic.",
+    "zh": "一名31岁男性因机动车碰撞导致多处受伤后住院。患者最初意识不清，无法获取病史。住院两天后，他出现心悸和睡眠困难。此后不久，患者发生全身性强直-阵挛性抽搐。当他恢复意识后，他告诉医生他通常服用治疗焦虑症、双相情感障碍和慢性腰痛的药物。他的体温为36.7摄氏度（98.1华氏度），血压为129/82毫米汞柱，脉搏为92次/分钟，呼吸为14次/分钟。他看起来焦虑、颤抖且出汗。"
+  },
+  "question": {
+    "en": "Withdrawal from which of the following medications is the most likely explanation for this patient's presentation?",
+    "zh": "以下哪种药物的戒断最有可能解释该患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Lamotrigine",
+      "zh": "拉莫三嗪"
+    },
+    "B": {
+      "en": "Lithium",
+      "zh": "锂"
+    },
+    "C": {
+      "en": "Lorazepam",
+      "zh": "劳拉西泮"
+    },
+    "D": {
+      "en": "Oxycodone",
+      "zh": "羟考酮"
+    },
+    "E": {
+      "en": "Quetiapine",
+      "zh": "喹硫平"
+    },
+    "F": {
+      "en": "Sertraline",
+      "zh": "舍曲林"
+    },
+    "G": {
+      "en": "Valproate",
+      "zh": "丙戊酸盐"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient's presentation is consistent with BENZODIAZEPINE WITHDRAWAL (eg, lorazepam), which is most often characterized by REBOUND ANXIETY, TREMOR, INSOMNIA, and SYMPATHETIC HYPERACTIVITY (eg, diaphoresis, palpitations). In severe cases, PSYCHOTIC SYMPTOMS (eg, hallucinations, delusions), SEIZURES, and even DEATH may occur. Risk of withdrawal is greatest with short-acting agents (eg, alprazolam), prolonged use, and use of higher doses.\n\nBenzodiazepines act on the GABAₐ receptor, enhancing the action of the natural ligand, GABA. The body adapts to chronic benzodiazepine exposure by downregulating the GABAₐ receptor, leading to tolerance, a phenomenon in which the same dose of a medication yields decreasing effects over time. This same adaptive downregulation process is responsible for the withdrawal syndrome when benzodiazepines are discontinued and the body is unable to balance opposing excitatory neurotransmitters. Benzodiazepine withdrawal is treated by starting a patient on a long-acting benzodiazepine (eg, diazepam) and planning for an extended, gradual taper.\n\n(Choices A and G) The anticonvulsants lamotrigine and valproate are used in bipolar disorder for their mood-stabilizing properties. Withdrawal from these medications would not produce seizures in a patient without an underlying seizure disorder.\n\n(Choices B and E) Withdrawal from lithium or quetiapine, when used to treat bipolar disorder, may be associated with a risk for manic relapse and nonspecific rebound psychiatric symptoms (eg, anxiety, restlessness). However, withdrawal from these medications would not explain this patient's symptoms or seizure.\n\n(Choice D) Opioid (eg, oxycodone) withdrawal is characterized by nausea, vomiting, diarrhea, lacrimation, dilated pupils, and piloerection.\n\n(Choice F) Selective serotonin reuptake inhibitor (eg, sertraline) withdrawal presents with rebound anxiety/dysphoria, dizziness, headache, and nausea.",
+    "zh": "该患者的表现与苯二氮卓类药物戒断（例如，劳拉西泮）一致，其最常表现为反跳性焦虑、震颤、失眠和交感神经过度活跃（例如，出汗、心悸）。在严重情况下，可能出现精神病症状（例如，幻觉、妄想）、癫痫发作，甚至死亡。戒断的风险在短效药物（例如，阿普唑仑）、长期使用和高剂量使用时最高。\n\n苯二氮卓类药物作用于GABAₐ受体，增强天然配体GABA的作用。身体通过下调GABAₐ受体来适应慢性的苯二氮卓类药物暴露，导致耐受性，这是一种在同一剂量的药物随着时间的推移产生递减效应的现象。当停用苯二氮卓类药物且身体无法平衡相对的兴奋性神经递质时，这种相同的适应性下调过程是戒断综合征的原因。苯二氮卓类药物戒断的治疗方法是让患者开始服用长效苯二氮卓类药物（例如，地西泮）并计划延长、逐渐减量。\n\n（选项 A 和 G）抗惊厥药拉莫三嗪和丙戊酸盐用于双相情感障碍，具有情绪稳定特性。从这些药物中戒断不会在没有潜在癫痫发作的患者中引起癫痫发作。\n\n（选项 B 和 E）当使用锂或喹硫平治疗双相情感障碍时，停用这些药物可能与躁狂复发和非特异性反弹精神病症状（例如，焦虑、不安）的风险相关。然而，从这些药物中戒断并不能解释该患者的症状或癫痫发作。\n\n（选项 D）阿片类药物（例如，羟考酮）戒断的特征是恶心、呕吐、腹泻、流泪、瞳孔扩大和竖毛。\n\n（选项 F）选择性 5-羟色胺再摄取抑制剂（例如，舍曲林）戒断表现为反弹性焦虑/情绪低落、头晕、头痛和恶心。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of withdrawal syndromes from commonly prescribed medications, specifically focusing on the presentation of benzodiazepine withdrawal and its associated symptoms, including seizures. It requires differentiating this from withdrawal symptoms of other drug classes.\n\nThe approach to solving this question involves identifying the constellation of symptoms presented by the patient (anxiety, tremor, diaphoresis, palpitations, and seizure) and correlating them with the known withdrawal profiles of various medications. Recognizing that benzodiazepines are a common cause of such severe withdrawal symptoms, including seizures, is key to selecting the correct answer.",
+    "zh": "本题考察对常用药物戒断综合征的理解，特别是关注苯二氮卓类药物戒断的表现及其相关症状，包括癫痫发作。它需要将其与其他药物类别的戒断症状区分开来。\n\n解决此问题的思路包括识别患者呈现的症状群（焦虑、震颤、出汗、心悸和癫痫发作），并将它们与各种药物的已知戒断特征相关联。认识到苯二氮卓类药物是导致此类严重戒断症状（包括癫痫发作）的常见原因，是选择正确答案的关键。"
+  },
+  "tags": "Benzodiazepine withdrawal; Lorazepam; Seizures; Anxiety; Tremor; Diaphoresis; GABA receptor; Withdrawal syndrome; Central nervous system depressants; Pharmacology",
+  "category": "Psychiatry",
+  "question_id": "13907",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\13907",
+  "extracted_at": "2025-11-05T19:48:54.234414",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:52:27.905560",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

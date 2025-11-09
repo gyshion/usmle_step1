@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old man comes to the emergency department due to abdominal pain. Physical examination shows abdominal tenderness without guarding or rebound. His laboratory test results are as follows:{{exhibit_1}}\n\nOn further investigation, magnetic resonance angiography of the abdomen reveals mesenteric vein thrombosis. Flow cytometry shows absence of CD55 on the surface of red blood cells.",
+    "zh": "一名63岁的男性因腹痛来到急诊科。体格检查显示腹部压痛，无肌紧张或反跳痛。他的实验室检查结果如下：{{exhibit_1}}\n\n进一步检查显示腹部磁共振血管造影显示肠系膜静脉血栓形成。流式细胞术显示红细胞表面无CD55。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely pathologic renal finding in this patient?",
+    "zh": "该患者最有可能的病理肾脏发现是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Cast nephropathy",
+      "zh": "管型肾病"
+    },
+    "B": {
+      "en": "Hemosiderosis",
+      "zh": "血铁沉积症"
+    },
+    "C": {
+      "en": "Interstitial nephritis",
+      "zh": "间质性肾炎"
+    },
+    "D": {
+      "en": "Membranous glomerulonephritis",
+      "zh": "膜性肾小球肾炎"
+    },
+    "E": {
+      "en": "Minimal change disease",
+      "zh": "微小病变肾病"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's presentation is consistent with paroxysmal nocturnal hemoglobinuria (PNH), a disorder due to complement-mediated hemolysis. PNH is usually due to a mutated phosphatidylinositol glycan class A (PIGA) gene, which helps synthesize the glycosylphosphatidylinositol (GPI) anchor protein. This protein helps attach several cell surface proteins (eg, CD55 decay accelerating factor, CD59 MAC inhibitory protein) that inactivate complement. Absence of these proteins leads to uncontrolled COMPLEMENT-MEDIATED HEMOLYSIS.\n\nManifestations of PNH include the following:\n\n*   Fatigue and jaundice due to HEMOLYTIC ANEMIA (elevated bilirubin and lactate dehydrogenase, low haptoglobin, hemoglobinuria [which may be nocturnal])\n*   Thrombosis at atypical sites (eg, hepatic, portal, or cerebral veins) possibly due to the release of prothrombotic factors from lysed red blood cells and platelets (mesenteric vein thrombosis may explain this patient's abdominal pain)\n*   Pancytopenia due to stem cell injury\n\nChronic hemolysis with breakdown of iron-containing erythrocytes can also lead to IRON DEPOSITION in the kidney (hemosiderosis), which can interfere with proximal tubule function and cause interstitial scarring and cortical infarcts. The hemosiderosis combined with microvascular thrombosis can increase the risk of chronic kidney disease.\n\n(Choices A and C) Cast nephropathy is usually seen in multiple myeloma and is due to large amounts of monoclonal free chain deposition in the kidney. Interstitial nephritis (inflammation in the area surrounding the renal tubules) is most commonly due to drugs (eg, analgesics, antibiotics), recent infection, or systemic conditions (eg, sarcoidosis).\n\n(Choices D and E) Membranous glomerulonephritis can be associated with systemic lupus erythematosus, drugs (eg, nonsteroidal anti-inflammatory drugs [NSAIDs]), hepatitis B and C, or solid tumor malignancies (eg, lung, prostate, gastrointestinal). Minimal change disease can be associated with drugs (eg, NSAIDs), hematologic malignancies (eg, lymphoma, leukemia), or allergens (eg, fungi).\n\nEducational objective:\n\nParoxysmal nocturnal hemoglobinuria is due to a gene defect that leads to uncontrolled complement-mediated hemolysis. The classic triad includes hemolytic anemia (hemoglobinuria), pancytopenia, and thrombosis at atypical sites. Chronic hemolysis can cause iron deposition in the kidney (hemosiderosis).",
+    "zh": "该患者的临床表现与阵发性睡眠性血红蛋白尿（PNH）一致，这是一种由补体介导的溶血引起的疾病。PNH 通常是由于编码磷脂酰肌醇聚糖 A 类（PIGA）基因突变引起的，该基因有助于合成糖基磷脂酰肌醇 (GPI) 锚定蛋白。这种蛋白有助于连接几种细胞表面蛋白（例如，CD55 衰变加速因子，CD59 MAC 抑制蛋白），从而灭活补体。这些蛋白的缺失导致补体介导的溶血失控。\n\nPNH的表现包括以下几点：\n\n*   由于溶血性贫血引起的疲劳和黄疸（胆红素和乳酸脱氢酶升高，触珠蛋白低，血红蛋白尿[可能发生在夜间]）\n*   非典型部位的血栓形成（例如，肝静脉、门静脉或脑静脉），这可能由于溶血的红细胞和血小板释放促血栓形成因子引起（肠系膜静脉血栓形成可能解释了该患者的腹痛）\n*   由于干细胞损伤引起的全血细胞减少\n\n慢性溶血，伴有含铁红细胞的分解，也会导致肾脏中的铁沉积（血铁沉积症），这会干扰近端小管功能并引起间质性瘢痕形成和皮质梗死。血铁沉积症与微血管血栓形成相结合，可增加慢性肾脏病的风险。\n\n（选项 A 和 C）管型肾病通常见于多发性骨髓瘤，是由于肾脏中大量单克隆游离链沉积引起的。间质性肾炎（肾小管周围区域的炎症）最常见于药物（例如，止痛药、抗生素）、近期感染或全身性疾病（例如，结节病）。\n\n（选项 D 和 E）膜性肾小球肾炎可能与系统性红斑狼疮、药物（例如，非甾体类抗炎药 [NSAIDs]）、乙型和丙型肝炎或实体肿瘤恶性肿瘤（例如，肺、前列腺、胃肠道）有关。微小病变肾病可能与药物（例如，NSAIDs）、血液系统恶性肿瘤（例如，淋巴瘤、白血病）或过敏原（例如，真菌）有关。\n\n教育目标：\n\n阵发性睡眠性血红蛋白尿是由导致补体介导的溶血失控的基因缺陷引起的。经典的临床三联征包括溶血性贫血（血红蛋白尿）、全血细胞减少和非典型部位的血栓形成。慢性溶血可导致肾脏中的铁沉积（血铁沉积症）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of paroxysmal nocturnal hemoglobinuria (PNH) and its complications, specifically the renal manifestations of chronic hemolysis. It requires recognizing the clinical features of PNH and understanding the pathophysiology of hemosiderosis.\n\nThe best approach is to identify the key findings suggestive of PNH (hemolytic anemia, thrombosis, pancytopenia) and then link the chronic hemolysis to iron deposition in the kidney, leading to hemosiderosis. Rule out other renal pathologies based on their typical associations.",
+    "zh": "本题考察对阵发性睡眠性血红蛋白尿 (PNH) 及其并发症的知识，特别是慢性溶血的肾脏表现。它要求识别 PNH 的临床特征并理解血铁沉积症的病理生理学。\n\n最好的方法是识别提示 PNH 的关键发现（溶血性贫血、血栓形成、全血细胞减少），然后将慢性溶血与肾脏中的铁沉积联系起来，从而导致血铁沉积症。根据其他肾脏病理的典型关联排除它们。"
+  },
+  "tags": "Paroxysmal nocturnal hemoglobinuria; Hemolytic anemia; Thrombosis; Pancytopenia; Hemosiderosis; Kidney disease; Complement-mediated hemolysis; CD55; Mesenteric vein thrombosis",
+  "exhibit_1": "Hemoglobin 8.9 g/dL\nPlatelets 134,000/mm3\nTotal bilirubin 6.3 mg/dL\nLactate dehydrogenase 740 U/L\nHaptoglobin Low",
+  "category": "Blood",
+  "question_id": "11869",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\11869",
+  "extracted_at": "2025-11-05T11:19:54.448771",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:26:11.064761",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

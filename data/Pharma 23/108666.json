@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 79-year-old man is admitted to the hospital due to worsening dyspnea. He has a history of paroxysmal atrial fibrillation and severe heart failure with reduced ejection fraction. Physical examination shows tachycardia with an irregularly irregular rhythm, elevated jugular venous pressure, bibasilar lung crackles, and peripheral edema. ECG reveals atrial fibrillation with rapid ventricular response. After initial intravenous therapy, daily oral amiodarone is started. Due to the initiation of amiodarone, the patient's home digoxin dose is reduced by 50%. This change in dose is warranted because of which of the following effects of amiodarone?",
+    "zh": "一名79岁男性因呼吸困难加重入院。患者有阵发性房颤和严重心力衰竭病史，射血分数降低。体格检查显示心动过速，心律不齐，颈静脉压升高，双肺底湿啰音和周围水肿。心电图显示快速心室反应的房颤。初始静脉治疗后，开始每日口服胺碘酮。由于开始使用胺碘酮，患者的家庭地高辛剂量减少了50%。 剂量调整的原因是胺碘酮的下列哪种作用？"
+  },
+  "question": {
+    "en": "This change in dose is warranted because of which of the following effects of amiodarone?",
+    "zh": "调整剂量的原因是胺碘酮的下列哪种作用？"
+  },
+  "options": {
+    "A": {
+      "en": "Blockade of biliary transport protein",
+      "zh": "胆汁转运蛋白的阻滞"
+    },
+    "B": {
+      "en": "Induction of cytochrome P-450",
+      "zh": "细胞色素P-450的诱导"
+    },
+    "C": {
+      "en": "Inhibition of P-glycoprotein",
+      "zh": "P-糖蛋白的抑制"
+    },
+    "D": {
+      "en": "Reduction of gastric acid production",
+      "zh": "胃酸产生减少"
+    },
+    "E": {
+      "en": "Stimulation of Na+/K+-ATPase",
+      "zh": "Na+/K+-ATP酶的刺激"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Digoxin inhibits the Na+/K+-ATPase in cardiomyocytes to increase cardiac contractility, making it useful in some patients with heart failure with reduced ejection fraction. Oral digoxin is absorbed by the gastrointestinal tract with a bioavailability of approximately 70% and once in the bloodstream is mostly renally cleared. The drug has a NARROW THERAPEUTIC INDEX and can be dangerous in toxicity; therefore, careful dosing adjustments must be made when absorption and/or clearance is altered.\n\nAmiodarone, an antiarrhythmic drug that may be used in the management of atrial fibrillation, INCREASES DIGOXIN BLOOD LEVELS by stimulating both increased intestinal absorption and reduced renal clearance of the drug. These effects are both mediated by amiodarone's INHIBITION OF THE P-GLYCOPROTEIN (P-gp) transmembrane efflux transporter:\n\n*   In the intestine, apical P-gp transporters pump digoxin molecules back into the intestinal lumen, reducing total absorption and bioavailability; inhibition of these transporters INCREASES DIGOXIN ABSORPTION AND BIOAVAILABILITY.\n*   In the renal tubules, apical P-gp transporters pump digoxin molecules into the urine to facilitate digoxin excretion; inhibition of these transporters DECREASES DIGOXIN EXCRETION.\n\nP-gp transporters are also important in chemotherapy administration, as some tumor cells use the efflux pumps as a mechanism of chemotherapy resistance.\n\n(Choice A) Blockade of a biliary transport protein can decrease enterohepatic recirculation (ie, intestinal reabsorption of a drug after initial metabolism by the liver), reducing blood levels and necessitating a dose increase (eg, cyclosporine has this effect on mycophenolate). Digoxin does not undergo substantial enterohepatic recirculation.\n\n(Choice B) Inhibition, rather than induction, of cytochrome P-450 can increase the blood levels of some drugs and necessitate a dose reduction. Amiodarone is an inhibitor of cytochrome P-450, but digoxin is not hepatically cleared and its blood levels are not affected by cytochrome P-450 inhibition.\n\n(Choice D) Proton pump inhibitors slightly increase digoxin absorption by reducing gastric acid production and increasing gastric pH; however, amiodarone has no effect on gastric acid production.\n\n(Choice E) Amiodarone slightly inhibits (rather than induces) the Na+/K+-ATPase in cardiomyocytes, but this additive effect with digoxin is not enough to warrant decreases the dose (the effect of P-gp inhibition is far greater).\n\nEducational objective:\nAmiodarone increases digoxin blood levels via inhibition of P-glycoprotein transmembrane efflux transporters in the intestine to cause increased digoxin absorption, and in the kidneys to cause decreased digoxin excretion. Therefore, a dose reduction of digoxin is needed when it is coadministered with amiodarone.",
+    "zh": "地高辛抑制心肌细胞中的Na+/K+-ATP酶，以增加心脏收缩力，这使其对某些射血分数降低的心力衰竭患者有效。口服地高辛通过胃肠道吸收，生物利用度约为70%，一旦进入血液，主要通过肾脏清除。该药物具有狭窄的治疗指数，在中毒时可能很危险；因此，当吸收和/或清除率发生变化时，必须仔细调整剂量。\n\n胺碘酮，一种可用于治疗房颤的抗心律失常药物，通过刺激药物的肠道吸收增加和肾脏清除减少来增加地高辛的血药浓度。这些作用均由胺碘酮对P-糖蛋白(P-gp)跨膜外排转运蛋白的抑制作用介导：\n\n*   在肠道中，顶端P-gp转运蛋白将地高辛分子泵回肠腔，从而减少总吸收和生物利用度；抑制这些转运蛋白会增加地高辛的吸收和生物利用度。\n*   在肾小管中，顶端P-gp转运蛋白将地高辛分子泵入尿液以促进地高辛排泄；抑制这些转运蛋白会降低地高辛的排泄。\n\nP-gp转运蛋白在化疗给药中也很重要，因为一些肿瘤细胞使用外排泵作为化疗耐药机制。\n\n(选项A) 胆汁转运蛋白的阻滞可以减少肝肠循环（即，药物在肝脏初步代谢后的肠道再吸收），从而降低血药浓度并需要增加剂量（例如，环孢素对霉酚酸酯有这种作用）。地高辛不发生显著的肝肠循环。\n\n(选项B) 细胞色素P-450的抑制而不是诱导可以增加某些药物的血药浓度并需要减少剂量。胺碘酮是细胞色素P-450的抑制剂，但地高辛不通过肝脏清除，其血药浓度不受细胞色素P-450抑制的影响。\n\n(选项D) 质子泵抑制剂通过减少胃酸产生和增加胃pH值略微增加地高辛吸收；然而，胺碘酮对胃酸产生没有影响。\n\n(选项E) 胺碘酮略微抑制（而不是诱导）心肌细胞中的Na+/K+-ATP酶，但这种与地高辛的累加作用不足以保证降低剂量（P-gp抑制的作用更大）。\n\n教育目标：\n胺碘酮通过抑制肠道中的P-糖蛋白跨膜外排转运蛋白来增加地高辛的血药浓度，从而增加地高辛吸收，并在肾脏中降低地高辛排泄。因此，当胺碘酮与地高辛合用时，需要减少地高辛的剂量。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of drug-drug interactions, specifically how amiodarone affects digoxin levels. It assesses knowledge of the pharmacokinetic mechanisms, including drug absorption, distribution, metabolism, and excretion, and the role of transporters like P-glycoprotein.\n\nTo solve this question, one must identify that amiodarone is being initiated and that a dose adjustment of digoxin is required. The key is to recall or deduce the mechanism by which amiodarone alters digoxin pharmacokinetics, focusing on amiodarone's effect on drug transporters that influence digoxin absorption and excretion.",
+    "zh": "本题考察对药物-药物相互作用的理解，特别是胺碘酮如何影响地高辛水平。它评估了对药代动力学机制的了解，包括药物的吸收、分布、代谢和排泄，以及转运蛋白（如P-糖蛋白）的作用。\n\n要解决这个问题，必须确定胺碘酮正在启动，并且需要调整地高辛的剂量。关键是回忆或推断胺碘酮改变地高辛药代动力学的机制，重点关注胺碘酮对影响地高辛吸收和排泄的药物转运蛋白的作用。"
+  },
+  "tags": "Drug interactions; Amiodarone; Digoxin; P-glycoprotein; Pharmacokinetics; Drug absorption; Drug excretion; Antiarrhythmics; Heart failure",
+  "category": "Pharma",
+  "question_id": "108666",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\108666",
+  "extracted_at": "2025-11-05T19:44:40.424370",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:46:30.944789",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

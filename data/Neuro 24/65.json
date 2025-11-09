@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old woman is found dead in her house. The family notes that she had difficulty walking over the past few months. The woman had a history of atrial fibrillation treated with anticoagulation therapy. Autopsy reveals bruising of the scalp. Intracranially, there is a large epidural hemorrhage with brain herniation. In addition, the spinal cord shows symmetric myelin layer vacuolization and axonal degeneration involving the posterior columns and the lateral corticospinal tracts.",
+    "zh": "一名65岁女性被发现在家中死亡。家人提到她在过去几个月里行走困难。该女性有房颤病史，并接受了抗凝治疗。尸检显示头皮有瘀伤。颅内有一个大的硬膜外血肿伴脑疝形成。此外，脊髓显示对称性髓鞘层空泡变性以及轴突变性，累及后柱和侧皮质脊髓束。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this woman's spinal cord findings?",
+    "zh": "以下哪项最可能是该女性脊髓表现的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Amyotrophic lateral sclerosis",
+      "zh": "肌萎缩侧索硬化症"
+    },
+    "B": {
+      "en": "Multiple sclerosis",
+      "zh": "多发性硬化"
+    },
+    "C": {
+      "en": "Syringomyelia",
+      "zh": "脊髓空洞症"
+    },
+    "D": {
+      "en": "Tabes dorsales",
+      "zh": "脊髓痨"
+    },
+    "E": {
+      "en": "Thiamine deficiency",
+      "zh": "硫胺素缺乏症"
+    },
+    "F": {
+      "en": "Vitamin B₁₂ deficiency",
+      "zh": "维生素B₁₂缺乏症"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "This woman with recent gait impairment likely died due to a head injury from a fall (scalp bruising); her anticoagulation therapy placed her at increased risk for intracranial hemorrhage and subsequent brain herniation. Evidence of myelin degeneration in the dorsal columns and lateral corticospinal tracts on autopsy is suspicious for vitamin B₁₂ deficiency, the likely cause of her ataxia.\n\nVitamin B₁₂ deficiency is classically associated with megaloblastic anemia due to impaired DNA synthesis in rapidly dividing hematologic cells. However, vitamin B₁₂ is also essential for myelin generation and maintenance (via methylation of myelin basic protein); deficiency often results in neurologic symptoms due to impaired myelination in the following regions:\n\n*   Dorsal columns: diminished tactile/vibratory sensation and proprioception, resulting in sensory ataxia (eg, Romberg sign)\n*   Lateral corticospinal tracts: upper motor neuron signs (eg, muscle weakness, spastic paresis), Babinski reflex\n*   Spinocerebellar tracts: ataxia (loss of unconscious proprioception)\n*   Peripheral nerves: numbness, paresthesia, hyporeflexia\n\nThe pattern of spinal cord damage is referred to as subacute combined degeneration, given the degeneration of both ascending (dorsal columns, spinocerebellar tracts) and descending (lateral corticospinal tracts) pathways.\n\n(Choice A) Amyotrophic lateral sclerosis is a neurodegenerative disorder that affects upper and lower motor neurons. Damage to the lateral corticospinal tract occurs, but anterior horn damage is also characteristic and not seen in this woman. Moreover, sensory pathways are usually spared, so dorsal column damage would not be expected.\n\n(Choice B) Multiple sclerosis is marked by asymmetric, focal areas of CNS demyelination. This woman's symmetric damage to specific spinal cord tracts would be atypical.\n\n(Choice C) Syringomyelia, a cyst within the spinal cord, can lead to central spinal cord injury involving crossing fibers from the spinothalamic tracts within the anterior white commissure. This woman's autopsy did not reveal a cyst, and extensive dorsal column damage would be unusual.\n\n(Choice D) Tabes dorsales (neurosyphilis) is associated with damage to the dorsal columns and dorsal nerve roots; however, the lateral corticospinal tracts are generally not affected.\n\n(Choice E) Thiamine deficiency causes Wernicke encephalopathy (ataxia, confusion, oculomotor dysfunction). Unlike in this woman, histopathology shows demyelination in the brain (eg, mammillary bodies, thalamus) not the spinal cord.\n\nEducational objective:\nVitamin B₁₂ (cobalamin) deficiency can cause subacute combined degeneration due to impaired myelination in the ascending dorsal columns and spinocerebellar tracts (diminished position/vibration sense, ataxia), as well as the descending lateral corticospinal tracts (eg, muscle weakness, spastic paresis).",
+    "zh": "这位近期出现步态障碍的女性很可能死于跌倒造成的头部损伤（头皮瘀伤）；她的抗凝治疗使她颅内出血和随后的脑疝风险增加。尸检中背柱和侧皮质脊髓束中髓鞘变性的证据提示维生素B₁₂缺乏症，这很可能是她共济失调的原因。\n\n维生素B₁₂缺乏症通常与巨幼细胞性贫血相关，这是由于在快速分裂的血液细胞中DNA合成受损所致。然而，维生素B₁₂对于髓鞘的生成和维持（通过髓鞘碱性蛋白的甲基化）也至关重要；缺乏症常常导致神经系统症状，这是由于以下区域的髓鞘形成受损所致：\n\n*   背柱：触觉/振动觉和本体感觉减退，导致感觉性共济失调（例如，Romberg征）\n*   侧皮质脊髓束：上运动神经元征象（例如，肌肉无力，痉挛性轻瘫），Babinski反射\n*   脊髓小脑束：共济失调（无意识本体感觉丧失）\n*   周围神经：麻木、感觉异常、反射减弱\n\n这种脊髓损伤模式被称为亚急性联合变性，因为存在上升通路（背柱，脊髓小脑束）和下降通路（侧皮质脊髓束）的变性。\n\n（选项A）肌萎缩侧索硬化症是一种影响上下运动神经元的神经退行性疾病。侧皮质脊髓束会受损，但前角损伤也是其特征，而这位女性未见此情况。此外，感觉通路通常得以保留，因此背柱损伤不常见。\n\n（选项B）多发性硬化的特征是中枢神经系统脱髓鞘的非对称、局灶性区域。该女性脊髓特定束的对称性损伤是不典型的。\n\n（选项C）脊髓空洞症，是脊髓内的一个囊肿，可导致中枢脊髓损伤，累及来自前白质联合内脊髓丘脑束的交叉纤维。该女性的尸检未显示囊肿，并且大范围的背柱损伤是不寻常的。\n\n（选项D）脊髓痨（神经梅毒）与背柱和背根神经损伤有关；然而，侧皮质脊髓束通常不受影响。\n\n（选项E）硫胺素缺乏症会导致Wernicke脑病（共济失调，意识模糊，动眼神经功能障碍）。与这位女性不同，组织病理学显示脑部（例如，乳头体，丘脑）而非脊髓脱髓鞘。\n\n教学目标：\n维生素B₁₂（钴胺素）缺乏症可导致亚急性联合变性，这是由于上升的背柱和脊髓小脑束（位置/振动觉减退，共济失调），以及下降的侧皮质脊髓束（例如，肌肉无力，痉挛性轻瘫）的髓鞘形成受损所致。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathophysiology and clinical presentation of subacute combined degeneration of the spinal cord, specifically its association with vitamin B₁₂ deficiency. It requires differentiating this condition from other neurological disorders affecting the spinal cord based on autopsy findings.\n\nTo solve this question, one must correlate the autopsy findings of symmetric myelin vacuolization and axonal degeneration in the posterior columns and lateral corticospinal tracts with the clinical history of gait impairment. Recognizing the pattern of \"subacute combined degeneration\" and its common etiologies, particularly vitamin B₁₂ deficiency, is key to selecting the correct answer and ruling out other differential diagnoses.",
+    "zh": "此题考察对脊髓亚急性联合变性的病理生理学和临床表现的理解，特别是其与维生素B₁₂缺乏症的关系。它需要根据尸检结果将这种情况与其他影响脊髓的神经系统疾病区分开来。\n\n要解决这个问题，必须将尸检发现的后柱和侧皮质脊髓束中对称性髓鞘空泡变性和轴突变性与步态障碍的临床病史相关联。认识到“亚急性联合变性”的模式及其常见病因，特别是维生素B₁₂缺乏症，是选择正确答案和排除其他鉴别诊断的关键。"
+  },
+  "tags": "Vitamin B₁₂ deficiency; Subacute combined degeneration; Spinal cord; Posterior columns; Lateral corticospinal tracts; Myelin vacuolization; Axonal degeneration; Ataxia; Neurology; Autopsy",
+  "category": "Neuro",
+  "question_id": "65",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\65",
+  "extracted_at": "2025-11-05T19:40:57.457286",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:42:12.182157",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

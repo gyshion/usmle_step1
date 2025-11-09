@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 38-year-old recently homeless woman and her 35-year-old boyfriend come to a community clinic seeking care for her pregnancy at 27 weeks. She also brings her 19-year-old son, who has cerebral palsy and has not had consistent medical care. The patient explains to the social worker that the family was recently evicted from their apartment for failure to pay rent after her boyfriend lost his job.",
+    "zh": "一位38岁的近期无家可归的女性和她35岁的男友来到社区诊所，寻求27周孕期的护理。她还带来了她19岁的儿子，他患有脑瘫，并且没有得到持续的医疗护理。患者向社工解释说，由于她的男友失业后未能支付租金，他们一家最近被从公寓中驱逐。"
+  },
+  "question": {
+    "en": "Which of these individuals is eligible for Medicare coverage?",
+    "zh": "这些个体中，哪一位有资格获得医疗保险（Medicare）的承保？"
+  },
+  "options": {
+    "A": {
+      "en": "The woman",
+      "zh": "这位女性"
+    },
+    "B": {
+      "en": "The woman's boyfriend",
+      "zh": "这位女性的男友"
+    },
+    "C": {
+      "en": "The woman's child when it is born",
+      "zh": "这位女性的孩子出生后"
+    },
+    "D": {
+      "en": "The woman's disabled son",
+      "zh": "这位女性的残疾儿子"
+    },
+    "E": {
+      "en": "The woman, her boyfriend, and her son",
+      "zh": "这位女性、她的男友和她的儿子"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Medicare is a federal socialized medical insurance program that covers select individuals. It provides health insurance for patients age 65 and older who have worked and paid into the system (ie, have paid taxes). Individuals must also hold residence and citizenship in the United States. Medicare also covers younger individuals with disabilities, end-stage renal disease, or amyotrophic lateral sclerosis. Medicare consists of several parts, with Part A covering inpatient hospital visits, Part B covering a select number of outpatient services and medical devices, Part C as an optional capitated plan with additional benefits (vision, dental), and Part D as an optional prescription drug plan. Medicare is different from Medicaid, a state-run medical insurance program that covers the homeless, undocumented immigrants, pregnant women, and low-income families.\n\nIn this situation, only the disabled son would be eligible for Medicare.\n\n(Choices A, B, C, and E) The pregnant woman, her boyfriend, and the child (when born) can be covered by Medicaid only, not Medicare.",
+    "zh": "医疗保险（Medicare）是一项联邦社会医疗保险计划，涵盖特定人群。它为65岁及以上、已工作并向该系统缴纳过保费（即已纳税）的患者提供健康保险。个人还必须是美国的居民和公民。医疗保险还涵盖患有残疾、终末期肾病或肌萎缩侧索硬化症的年轻人。医疗保险包括几个部分，A部分涵盖住院病人就诊，B部分涵盖部分门诊服务和医疗设备，C部分作为一项可选的按人头付费计划，提供额外的福利（视力、牙科），D部分作为一项可选的处方药计划。医疗保险与医疗补助（Medicaid）不同，医疗补助是一项由州政府运营的医疗保险计划，涵盖无家可归者、无证移民、孕妇和低收入家庭。\n\n在这种情况下，只有残疾儿子才有资格获得医疗保险。\n\n（选项A、B、C和E）孕妇、她的男友和孩子（出生后）只能由医疗补助（Medicaid）承保，而不是医疗保险（Medicare）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Medicare eligibility criteria, specifically who qualifies for coverage based on age, disability, and other factors. The key to solving this question is to remember that Medicare primarily covers individuals aged 65 and older, as well as certain younger individuals with disabilities or specific medical conditions.",
+    "zh": "这道题考察了对医疗保险（Medicare）资格标准的了解，特别是根据年龄、残疾和其他因素，谁有资格获得承保。解决这道题的关键是记住，医疗保险主要涵盖65岁及以上的人，以及某些患有残疾或特定医疗状况的年轻人。"
+  },
+  "tags": "Medicare; Health insurance; Disability; Social security; Public health",
+  "category": "Ethics",
+  "question_id": "11602",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\11602",
+  "extracted_at": "2025-11-05T14:16:52.303383",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:46:59.402227",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

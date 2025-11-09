@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "An 8-year-old boy is brought to the emergency department due to 2 days of fever, abdominal pain, and diarrhea. The patient has no significant medical history and has received all recommended vaccinations. He attends a primary school and has not traveled recently. The family recently brought home a new puppy from a kennel. The patient's stool is positive for occult blood and numerous leukocytes but negative for ova and parasites.",
+    "zh": "一名8岁男孩因发烧、腹痛和腹泻2天被带到急诊科。患者无重要病史，已接种所有推荐疫苗。他在一所小学就读，近期没有旅行。该家庭最近从犬舍带回了一只新宠物犬。患者的粪便隐血试验阳性，白细胞数量多，但卵和寄生虫检测阴性。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "以下哪项最可能是该患者症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Bacillus cereus",
+      "zh": "蜡样芽孢杆菌"
+    },
+    "B": {
+      "en": "Campylobacter jejuni",
+      "zh": "空肠弯曲菌"
+    },
+    "C": {
+      "en": "Giardia lamblia",
+      "zh": "兰伯贾第虫"
+    },
+    "D": {
+      "en": "Norovirus",
+      "zh": "诺如病毒"
+    },
+    "E": {
+      "en": "Staphylococcus aureus",
+      "zh": "金黄色葡萄球菌"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has diarrhea with positive fecal leukocytes and occult blood, findings consistent with inflammatory diarrhea. Inflammatory diarrhea is most often caused by bacteria that directly invade intestinal epithelial cells and/or produce a cytotoxin, resulting in an inflammatory response. Of the given choices, Campylobacter jejuni is the only bacterium associated with inflammatory diarrhea.\n\nCampylobacter jejuni resides in the gastrointestinal tract of warm-blooded animals and is transmitted to humans primarily via ingestion of contaminated food, particularly undercooked poultry. However, direct contact with domesticated animals (eg, dogs) is another important source of transmission; puppies from crowded environments (eg, kennels) are especially likely to harbor the bacterium. Following ingestion, Campylobacter colonizes the intestinal mucosa, enters enterocytes within endocytic vacuoles, and causes cytotoxic injury.\n\nPatients typically develop fever, crampy abdominal pain, and diarrhea that may be bloody. Stool culture is diagnostic, and symptoms usually self-resolve within a week. However, in a minority of cases, the host response to Campylobacter infection generates cross-reacting antibodies to peripheral nerve myelin gangliosides, leading to Guillain-Barré syndrome.\n\n(Choices A and E) Bacillus cereus and Staphylococcus aureus cause enterotoxin-mediated food-borne illness. Ingestion of preformed toxin leads to rapid-onset vomiting and abdominal pain; mild diarrhea (noninflammatory) can occur. S. aureus is linked to precooked foods, dairy products, and mayonnaise-based salads; B. cereus is associated with starch-based foods (eg, reheated rice).\n\n(Choice C) Giardia lamblia is usually transmitted by contaminated water; food-borne or person-to-person spread may occur. Symptoms include foul-smelling, watery diarrhea that is noninflammatory. In addition, stool ova and parasite testing often reveals Giardia trophozoites or cysts.\n\n(Choice D) Norovirus, the most common cause of viral gastroenteritis, is usually transmitted by fecally contaminated food or water. In contrast to this patient, those with norovirus typically develop a vomiting-predominant illness with abdominal pain and noninflammatory diarrhea.\n\nEducational objective:\nCampylobacter gastroenteritis, which is typically acquired from contaminated poultry or domesticated animals (eg, dogs), causes an inflammatory diarrhea characterized by fecal leukocytes and red blood cells. Manifestations include fever, abdominal pain, and diarrhea that may be grossly bloody.",
+    "zh": "该患者出现腹泻，粪便白细胞和隐血试验阳性，这些发现与炎症性腹泻一致。炎症性腹泻最常由细菌直接侵入肠上皮细胞和/或产生细胞毒素引起，从而导致炎症反应。在给出的选项中，空肠弯曲菌是唯一与炎症性腹泻相关的细菌。\n\n空肠弯曲菌存在于温血动物的胃肠道中，主要通过摄入受污染的食物（尤其是未煮熟的家禽）传播给人类。然而，与家养动物（例如，狗）的直接接触是另一种重要的传播途径；来自拥挤环境（例如，犬舍）的小狗尤其容易携带这种细菌。摄入后，空肠弯曲菌定植于肠粘膜，进入内吞空泡内的肠细胞，并引起细胞毒性损伤。\n\n患者通常会发烧、痉挛性腹痛和可能带血的腹泻。粪便培养具有诊断意义，症状通常在一周内自愈。然而，在少数情况下，宿主对空肠弯曲菌感染的反应会产生与周围神经髓鞘神经节苷脂发生交叉反应的抗体，从而导致格林-巴利综合征。\n\n（选项 A 和 E）蜡样芽孢杆菌和金黄色葡萄球菌引起肠毒素介导的食源性疾病。摄入预先形成的毒素会导致快速发作的呕吐和腹痛；可能发生轻度腹泻（非炎症性）。金黄色葡萄球菌与预煮食物、乳制品和蛋黄酱沙拉有关；蜡样芽孢杆菌与淀粉类食物（例如，再加热的米饭）有关。\n\n（选项 C）贾第虫通常通过受污染的水传播；可能发生食源性或人际传播。症状包括有异味的、水样腹泻，但无炎症。此外，粪便卵和寄生虫检查通常显示贾第虫滋养体或包囊。\n\n（选项 D）诺如病毒是病毒性胃肠炎最常见的原因，通常通过粪便污染的食物或水传播。与该患者不同的是，诺如病毒患者通常会出现以呕吐为主的疾病，伴有腹痛和非炎症性腹泻。\n\n教学目标：\n弯曲杆菌性胃肠炎通常从受污染的家禽或家养动物（例如，狗）获得，引起炎症性腹泻，其特征是粪便白细胞和红细胞。表现包括发烧、腹痛和可能严重便血的腹泻。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the common causes of acute infectious diarrhea in children, specifically focusing on differentiating inflammatory from non-inflammatory diarrhea based on clinical presentation and stool findings. The question also assesses understanding of the transmission routes and typical sources of Campylobacter jejuni.\n\nTo solve this question, identify the key features of the patient's presentation (fever, abdominal pain, bloody diarrhea, fecal leukocytes) that point towards inflammatory diarrhea. Then, consider the patient's history (new puppy) and select the organism most likely to cause inflammatory diarrhea in this context.",
+    "zh": "这个问题测试了对儿童急性感染性腹泻的常见原因的了解，特别侧重于根据临床表现和粪便检查结果区分炎症性和非炎症性腹泻。这个问题还评估了对空肠弯曲菌的传播途径和典型来源的理解。\n\n要解决这个问题，请确定患者表现的关键特征（发烧、腹痛、血性腹泻、粪便白细胞），这些特征指向炎症性腹泻。然后，考虑患者的病史（新宠物犬），并选择在这种情况下最可能引起炎症性腹泻的生物体。"
+  },
+  "tags": "Campylobacter jejuni; Gastroenteritis; Inflammatory diarrhea; Fecal leukocytes; Occult blood; Infectious disease; Pediatrics; Foodborne illness",
+  "category": "Micro",
+  "question_id": "1422",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1422",
+  "extracted_at": "2025-11-05T14:53:27.937863",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:07:08.433511",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

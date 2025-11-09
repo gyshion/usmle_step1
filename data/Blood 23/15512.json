@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 66-year-old woman comes to the emergency department due to abdominal cramps and watery diarrhea for the past day. The patient was hospitalized 2 weeks ago due to acute pyelonephritis and was treated with broad-spectrum antibiotics. She has a remote history of Hodgkin disease treated with chemotherapy and radiation treatment but no other chronic medical conditions. The patient's only home medication is a multivitamin supplement. Temperature is 38.3 C (100.9 F), blood pressure is 124/72 mm Hg, and pulse is 92/min. There is mild generalized abdominal tenderness with no guarding or rebound. The remainder of the physical examination shows no abnormalities. Laboratory results are as follows:\n\nHemoglobin 12.8 g/dL\nPlatelets 380,000/mm3\nLeukocytes 32,000/mm3\nNeutrophils 80%\nBands 8%\nMetamyelocytes 2%\nLymphocytes 10%\n\nPrior blood cell count at the time of hospital discharge was normal. Stool testing for *Clostridioides difficile* is positive. Which of the following is the most likely underlying cause of this patient's leukocytosis? {{exhibit_1}}",
+    "zh": "一名66岁女性因腹部痉挛和过去一天出现的腹泻来到急诊科。患者两周前因急性肾盂肾炎住院，并接受了广谱抗生素治疗。她有霍奇金淋巴瘤的既往病史，接受过化疗和放疗，但没有其他慢性疾病。患者唯一的家庭用药是复合维生素补充剂。体温38.3°C (100.9°F)，血压124/72 mmHg，脉搏92次/分钟。轻度弥漫性腹部压痛，无腹肌紧张或反跳痛。体格检查的其余部分未见异常。实验室检查结果如下：\n\n血红蛋白12.8 g/dL\n血小板380,000/mm3\n白细胞32,000/mm3\n中性粒细胞80%\n杆状核细胞8%\n晚幼粒细胞2%\n淋巴细胞10%\n\n出院时的先前血细胞计数正常。粪便检测*艰难梭菌*呈阳性。以下哪项最可能是该患者白细胞增多的根本原因？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying cause of this patient's leukocytosis?",
+    "zh": "以下哪项最可能是该患者白细胞增多的根本原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Autonomous proliferation of myeloid precursor cells",
+      "zh": "骨髓前体细胞的自主增殖"
+    },
+    "B": {
+      "en": "Cytokine-mediated increased release of bone marrow reserves",
+      "zh": "细胞因子介导的骨髓储备释放增加"
+    },
+    "C": {
+      "en": "Defective leukocyte transmigration to peripheral tissue",
+      "zh": "白细胞向外周组织转运缺陷"
+    },
+    "D": {
+      "en": "Increased shift from circulating to marginated pool",
+      "zh": "循环池向边缘池转移增加"
+    },
+    "E": {
+      "en": "Switching of progenitor lymphoid cells to myeloid lineage",
+      "zh": "祖淋巴细胞向髓系转变"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient with *Clostridioides difficile* colitis has profound leukocytosis due to increased circulating mature and juvenile (eg, bands) neutrophils. Although neutrophils are normally the most prevalent leukocyte in the blood, the vast majority of mature neutrophils are held in reserve in the bone marrow or are reversibly attached to the endothelial wall (marginated pool).\n\nHowever, infection, inflammation, and certain medications (eg, glucocorticoids, androgens) can rapidly mobilize bone marrow and marginated neutrophils, leading to leukocytosis. This process is mediated by ENDOTOXIN, certain complement components (eg, C3a, C5a), and cytokines such as TNF-alpha and granulocyte-macrophage colony-stimulating factor (GM-CSF); these compounds trigger neutrophils, bands, and immature granulocyte cells (eg, metamyelocytes, late myelocytes) to undergo transcellular migration out of the bone marrow sinusoids into the circulation. Primed neutrophils then rapidly localize to areas of inflammation by using L-selectin to bind E-selectin on the endothelial surface of nearby blood vessels.\n\n(Choice A) In myeloid leukemia, myeloid precursor cells undergo clonal proliferation unlinked to cytokine stimulation or growth signals. This patient is unlikely to have developed myeloid leukemia in the 2 weeks since her last admission.\n\n(Choice C) Leukocytes leave the circulation by transmigrating through the endothelial wall near areas of infection or inflammation. Defective leukocyte transmigration can cause leukocytosis in patients with leukocyte adhesion deficits, but is not a component of leukocytosis in those with acute infection (eg, *C difficile* colitis).\n\n(Choice D) Stress hormones (eg, epinephrine) liberate marginated neutrophils from the endothelial wall, leading to leukocytosis (\"demarginalization\"). Infection and stress hormones do not increase marginalization.\n\n(Choice E) Hematopoietic stem cells and their immediate progenitors can differentiate into either myeloid or lymphoid cells. Once a cell is committed to a myeloid or lymphoid lineage, it cannot generally revert.\n\nEducational objective:\nInfection triggers increased circulating neutrophils by stimulating the release of neutrophils, bands, and late granulocyte precursors from the bone marrow. This is mediated by increased cytokines (eg, TNF-alpha) and complement activation. Demarginalization of neutrophils from endothelial attachment also contributes to leukocytosis.",
+    "zh": "该*艰难梭菌*性结肠炎患者因循环成熟和幼稚（如杆状核细胞）中性粒细胞增加而出现严重的白细胞增多。虽然中性粒细胞通常是血液中最主要的白细胞，但绝大多数成熟的中性粒细胞储存在骨髓中，或可逆地附着在内皮壁（边缘池）上。\n\n然而，感染、炎症和某些药物（如糖皮质激素、雄激素）可以迅速动员骨髓和边缘中性粒细胞，导致白细胞增多。这个过程由内毒素、某些补体成分（如C3a、C5a）和细胞因子（如TNF-α和粒细胞-巨噬细胞集落刺激因子，GM-CSF）介导；这些化合物触发中性粒细胞、杆状核细胞和未成熟的粒细胞（如晚幼粒细胞、晚期髓细胞）进行跨细胞迁移，从骨髓窦进入循环。活化的中性粒细胞随后通过使用L-选择素结合附近血管内皮表面的E-选择素，迅速定位到炎症区域。\n\n(选项A) 在髓细胞白血病中，髓细胞前体细胞发生克隆增殖，与细胞因子刺激或生长信号无关。该患者自上次入院以来2周内不太可能发展成髓细胞白血病。\n\n(选项C) 白细胞通过穿过感染或炎症区域附近的内皮壁离开循环。白细胞转运缺陷可导致白细胞粘附缺陷患者出现白细胞增多，但不是急性感染（如*艰难梭菌*性结肠炎）患者白细胞增多的一个组成部分。\n\n(选项D) 应激激素（如肾上腺素）使边缘中性粒细胞从内皮壁释放出来，导致白细胞增多（“去边缘化”）。感染和应激激素不会增加边缘化。\n\n(选项E) 造血干细胞及其直接祖细胞可以分化成髓细胞或淋巴细胞。一旦细胞致力于髓系或淋巴系谱，它通常无法逆转。\n\n教育目标：\n感染通过刺激从骨髓释放中性粒细胞、杆状核细胞和晚期粒细胞前体触发循环中性粒细胞增加。这由细胞因子增加（如TNF-α）和补体激活介导。中性粒细胞从内皮附着处去边缘化也有助于白细胞增多。"
+  },
+  "summary": {
+    "en": "This question tests the etiology of leukocytosis in the setting of *Clostridioides difficile* infection. It requires understanding the mechanisms by which infection and inflammation can lead to increased circulating neutrophils.\n\nThe key to solving this question is recognizing that the patient has an active infection. The leukocytosis is most likely due to cytokine-mediated release of neutrophils from the bone marrow. Other options are less likely given the acute presentation and clinical context.",
+    "zh": "此题考察在*艰难梭菌*感染情况下白细胞增多的病因。它需要理解感染和炎症如何导致循环中性粒细胞增加的机制。\n\n解决此问题的关键是认识到患者有活动性感染。白细胞增多最可能的原因是细胞因子介导的从中性粒细胞从骨髓释放。考虑到急性表现和临床背景，其他选项的可能性较小。"
+  },
+  "tags": "Leukocytosis; Clostridioides difficile; Infection; Cytokines; Bone marrow; Neutrophils; Hematology; Infectious disease",
+  "category": "Blood",
+  "question_id": "15512",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\15512",
+  "extracted_at": "2025-11-05T11:25:45.757838",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:28:07.553147",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

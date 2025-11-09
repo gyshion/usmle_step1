@@ -1,0 +1,56 @@
+{
+  "question_stem": {
+    "en": "A 52-year-old man is being evaluated in the emergency department for abdominal pain associated with watery diarrhea. His symptoms have been progressive over the last month. He says that he is depressed and often has difficulty remembering things. The patient has a 20-year history of alcohol use disorder. On examination, he appears disheveled. A pigmented scaly skin rash is present in the malar distribution of his face, neck, and back of his hands. The rash has been present for several months and worsens on exposure to sunlight. It is determined that the patient's symptoms are secondary to lack of a specific nutrient.",
+    "zh": "一名52岁男性因腹痛伴水样腹泻在急诊科就诊。他的症状在过去一个月中逐渐加重。他说他很沮丧，并且经常难以记住事情。该患者有20年酒精使用障碍病史。体格检查显示，他衣衫不整。面颊、颈部和手背出现色素沉着性鳞屑性皮疹。这种皮疹已经存在几个月，并且在暴露于阳光下时会恶化。确定患者的症状继发于缺乏特定营养素。"
+  },
+  "question": {
+    "en": "Which of the following enzymes is most likely to be directly affected by this patient's nutrient deficiency?",
+    "zh": "以下哪种酶最有可能直接受到该患者营养缺乏的影响？"
+  },
+  "options": {
+    "A": {
+      "en": "Citrate synthase",
+      "zh": "柠檬酸合酶"
+    },
+    "B": {
+      "en": "Hexokinase",
+      "zh": "己糖激酶"
+    },
+    "C": {
+      "en": "Isocitrate dehydrogenase",
+      "zh": "异柠檬酸脱氢酶"
+    },
+    "D": {
+      "en": "Phosphoglycerate kinase",
+      "zh": "磷酸甘油酸激酶"
+    },
+    "E": {
+      "en": "Succinate dehydrogenase",
+      "zh": "琥珀酸脱氢酶"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient likely has **pellagra**, a disease characterized by photosensitive dermatitis, diarrhea, and dementia occurring secondary to **vitamin B3 (niacin) deficiency**. Pellagra is predominantly seen in malnourished populations (eg, those with alcohol use disorder or malabsorption).\n\nNiacin is a precursor for nicotinamide adenine dinucleotide (NAD) and nicotinamide adenine dinucleotide phosphate (NADP), two important cofactors for many **dehydrogenase** and **reductase enzymes**. NAD is required for catabolic reactions (eg, glycolysis, beta-oxidation) as well as cell signaling and DNA repair, whereas NADP is necessary for many anabolic reactions such as fatty acid and cholesterol synthesis. NAD is a key constituent of the citric acid cycle; it serves as a cofactor for isocitrate dehydrogenase, alpha-ketoglutarate dehydrogenase, and malate dehydrogenase.\n\n(Choice A) Citrate synthase is an enzyme of the citric acid cycle; it does not require NAD or NADP as a cofactor.\n\n(Choices B and D) Hexokinase and phosphoglycerate kinase are enzymes used in glycolysis; they do not require NAD or NADP as cofactors.\n\n(Choice E) Succinate dehydrogenase is an enzyme of the citric acid cycle; it catalyzes the conversion of succinate to fumarate using flavin adenine dinucleotide (FAD) as a cofactor.\n\nEducational objective: Niacin is a precursor for nicotinamide adenine dinucleotide (NAD) and nicotinamide adenine dinucleotide phosphate (NADP), two important cofactors for many dehydrogenase and reductase enzymes. Niacin deficiency results in pellagra (ie, diarrhea, dementia, and dermatitis).",
+    "zh": "该患者可能患有**糙皮病**，这是一种以光敏性皮炎、腹泻和痴呆为特征的疾病，继发于**维生素B3（烟酸）缺乏症**。糙皮病主要见于营养不良人群（例如，患有酒精使用障碍或吸收不良的人）。\n\n烟酸是烟酰胺腺嘌呤二核苷酸（NAD）和烟酰胺腺嘌呤二核苷酸磷酸（NADP）的前体，它们是许多**脱氢酶**和**还原酶**的重要辅酶。NAD是分解代谢反应（例如，糖酵解、β-氧化）以及细胞信号传导和DNA修复所必需的，而NADP是许多合成代谢反应（如脂肪酸和胆固醇合成）所必需的。NAD是柠檬酸循环的关键组成部分；它作为异柠檬酸脱氢酶、α-酮戊二酸脱氢酶和苹果酸脱氢酶的辅酶。\n\n（选项A）柠檬酸合酶是柠檬酸循环中的一种酶；它不需要NAD或NADP作为辅酶。\n\n（选项B和D）己糖激酶和磷酸甘油酸激酶是糖酵解中使用的酶；它们不需要NAD或NADP作为辅酶。\n\n（选项E）琥珀酸脱氢酶是柠檬酸循环中的一种酶；它使用黄素腺嘌呤二核苷酸（FAD）作为辅酶催化琥珀酸转化为延胡索酸。\n\n教育目标：烟酸是烟酰胺腺嘌呤二核苷酸（NAD）和烟酰胺腺嘌呤二核苷酸磷酸（NADP）的前体，它们是许多脱氢酶和还原酶的重要辅酶。烟酸缺乏会导致糙皮病（即，腹泻、痴呆和皮炎）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pellagra, a disease caused by niacin (vitamin B3) deficiency, and its effects on dehydrogenase enzymes in metabolic pathways, particularly the citric acid cycle.\n\nThe approach involves recognizing the classic triad of pellagra (dermatitis, diarrhea, dementia) in a patient with alcohol use disorder, understanding that niacin is a precursor to NAD and NADP, and identifying which enzyme requires these cofactors in the citric acid cycle.",
+    "zh": "这个问题考察对糙皮病的认识，糙皮病是由烟酸（维生素B3）缺乏引起的，及其对代谢途径中脱氢酶的影响，特别是对柠檬酸循环的影响。\n\n解决思路包括识别酒精使用障碍患者中糙皮病的典型三联征（皮炎、腹泻、痴呆），了解烟酸是NAD和NADP的前体，并确定柠檬酸循环中哪个酶需要这些辅酶。"
+  },
+  "tags": "Pellagra; Niacin deficiency; Vitamin B3; Alcohol use disorder; Dermatitis; Diarrhea; Dementia; Citric acid cycle; NAD; NADP; Isocitrate dehydrogenase; Malnutrition",
+  "category": "Bio",
+  "question_id": "12276",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\12276",
+  "extracted_at": "2025-11-05T10:30:07.878788",
+  "translated_at": "2025-11-07T16:19:50.651868",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

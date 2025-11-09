@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "In an experiment investigating vasoconstriction of the arterial wall, two samples of isolated porcine arterial vessels are studied. Vascular tone is measured in the control vessel during infusion of increasing doses of norepinephrine. The other vessel is pretreated with experimental drug A prior to infusion of norepinephrine. A graph of the study results is depicted below {{exhibit_1}}.",
+    "zh": "在一项研究动脉壁血管收缩的实验中，研究了两个孤立的猪动脉血管样本。在对照血管中，于输注递增剂量的去甲肾上腺素期间测量血管张力。另一血管在输注去甲肾上腺素之前，用实验药物 A 预处理。研究结果的图表如下所示 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Drug A is most similar to which of the following agents?",
+    "zh": "药物 A 与下列哪种药物最相似？"
+  },
+  "options": {
+    "A": {
+      "en": "Atropine",
+      "zh": "阿托品"
+    },
+    "B": {
+      "en": "Labetalol",
+      "zh": "拉贝洛尔"
+    },
+    "C": {
+      "en": "Phenoxybenzamine",
+      "zh": "苯氧苯胺"
+    },
+    "D": {
+      "en": "Phentolamine",
+      "zh": "酚妥拉明"
+    },
+    "E": {
+      "en": "Propranolol",
+      "zh": "普萘洛尔"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Alpha-1 adrenergic receptors mediate arterial vasoconstriction whereas beta2 receptors mediate vasodilation. Norepinephrine is an agonist at α1 and β1 receptors but has significantly less action at β2 receptors; it is therefore a potent vasoconstrictor. This experiment is testing the efficacy of drug A at blocking the α1-mediated vasoconstriction caused by norepinephrine administration.\n\nThe results show that pretreatment with drug A results in decreased maximal effect (Vmax) of norepinephrine without a significant change in the affinity (Km) of norepinephrine for α1 receptors. This suggests that drug A is acting as either a noncompetitive antagonist or an irreversible antagonist of α1 adrenergic receptors.\n\nPhenoxybenzamine is an irreversible α1 and α2 receptor antagonist that would produce results similar to those observed. It is primarily used in the treatment of pheochromocytoma, in which a tumor of the adrenal medulla overproduces norepinephrine, causing systemic arterial vasoconstriction.\n\n(Choice A) Atropine is a competitive muscarinic acetylcholine receptor antagonist. Pretreatment with atropine would not alter norepinephrine's effects on vascular tone.\n\n(Choices B and D) Labetalol is a reversible, competitive antagonist of α1 and β adrenergic receptors with partial β2 agonist activity that is used to treat hypertension. Phentolamine is a reversible, competitive α-adrenergic antagonist used in the management of catecholamine-induced hypertensive crises (eg, pheochromocytoma, monoamine oxidase inhibitor toxicity, cocaine intoxication). High doses of norepinephrine can overcome the α-adrenergic inhibition of these drugs.\n\n(Choice E) Propranolol is a nonspecific β-adrenergic antagonist. Pretreatment with a β antagonist would potentiate the vasoconstrictive effects of norepinephrine due to unopposed α-adrenergic stimulation.\n\nEducational objective:\nPhenoxybenzamine is an irreversible α1 and α2 adrenergic antagonist that effectively reduces the arterial vasoconstriction induced by norepinephrine. Because phenoxybenzamine is an irreversible antagonist, even very high concentrations of norepinephrine, such as those seen in pheochromocytoma, cannot overcome its effects. {{exhibit_2}}",
+    "zh": "α1 肾上腺素能受体介导动脉血管收缩，而 β2 受体介导血管舒张。去甲肾上腺素是 α1 和 β1 受体的激动剂，但对 β2 受体的作用明显较小；因此，它是一种有效的血管收缩剂。该实验正在测试药物 A 阻断去甲肾上腺素给药引起的 α1 介导的血管收缩的疗效。\n\n结果显示，药物 A 预处理导致去甲肾上腺素的最大效应 (Vmax) 降低，而对去甲肾上腺素与 α1 受体的亲和力 (Km) 没有明显变化。这表明药物 A 的作用是 α1 肾上腺素能受体的非竞争性拮抗剂或不可逆拮抗剂。\n\n苯氧苯胺是一种不可逆的 α1 和 α2 受体拮抗剂，其产生的结果与观察到的结果相似。它主要用于治疗嗜铬细胞瘤，在嗜铬细胞瘤中，肾上腺髓质肿瘤过度产生去甲肾上腺素，导致全身动脉血管收缩。\n\n(选项 A) 阿托品是一种竞争性毒蕈碱乙酰胆碱受体拮抗剂。用阿托品预处理不会改变去甲肾上腺素对血管张力的影响。\n\n(选项 B 和 D) 拉贝洛尔是一种可逆的、竞争性的 α1 和 β 肾上腺素受体拮抗剂，具有部分 β2 激动剂活性，用于治疗高血压。酚妥拉明是一种可逆的、竞争性的 α-肾上腺素能拮抗剂，用于治疗儿茶酚胺诱导的高血压危象（如嗜铬细胞瘤、单胺氧化酶抑制剂毒性、可卡因中毒）。高剂量的去甲肾上腺素可以克服这些药物的 α-肾上腺素能抑制作用。\n\n(选项 E) 普萘洛尔是一种非特异性 β-肾上腺素能拮抗剂。由于不受拮抗的 α-肾上腺素能刺激，用 β 拮抗剂预处理会增强去甲肾上腺素的血管收缩作用。\n\n教育目标：\n苯氧苯胺是一种不可逆的 α1 和 α2 肾上腺素能拮抗剂，可有效减少去甲肾上腺素诱导的动脉血管收缩。由于苯氧苯胺是一种不可逆的拮抗剂，即使是高浓度的去甲肾上腺素，如嗜铬细胞瘤中所见的，也无法克服其作用。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of adrenergic receptor pharmacology and the effects of different adrenergic antagonists on vascular tone in response to norepinephrine. It requires understanding of how irreversible antagonists affect the dose-response curve.\n\nTo solve this question, analyze the graph to determine the effect of drug A on the norepinephrine dose-response curve. Recognize that a decrease in maximal effect (Vmax) without a change in affinity suggests a noncompetitive or irreversible antagonist. Then, identify the adrenergic antagonist that acts irreversibly.",
+    "zh": "本题考察对肾上腺素能受体药理学以及不同肾上腺素能拮抗剂对血管张力对去甲肾上腺素的反应的影响的认识。它需要理解不可逆拮抗剂如何影响剂量反应曲线。\n\n为了解决这个问题，分析图表以确定药物 A 对去甲肾上腺素剂量反应曲线的影响。认识到最大效应 (Vmax) 降低，而亲和力没有变化，这表明是非竞争性或不可逆拮抗剂。然后，确定以不可逆方式起作用的肾上腺素能拮抗剂。"
+  },
+  "tags": "Adrenergic receptors; Vasoconstriction; Norepinephrine; Phenoxybenzamine; Irreversible antagonist; Pharmacology; Cardiovascular system; Dose-response curves",
+  "category": "CVS",
+  "question_id": "1947",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1947",
+  "extracted_at": "2025-11-05T12:05:32.058709",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:25:57.855974",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

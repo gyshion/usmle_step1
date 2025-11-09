@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old man develops mild, nonexudative pharyngitis shortly after travel to Eastern Europe. Throat swab culture in tellurite-containing, selective media yields black, iridescent colonies. Microscopy shows club-shaped, gram-positive bacilli in a palisade arrangement, which are identified as nonpathogenic *Corynebacterium diphtheriae*. These bacteria can acquire virulence to become pathogenic through which of the following mechanisms?",
+    "zh": "一名24岁男性在前往东欧旅行后不久出现轻度、无渗出性咽炎。咽拭子培养在含碲酸盐的选择性培养基中产生黑色、虹彩菌落。显微镜下可见栅栏状排列的棒状、革兰氏阳性杆菌，被鉴定为非致病性白喉棒状杆菌(*Corynebacterium diphtheriae*)。这些细菌可以通过以下哪种机制获得毒力并致病？"
+  },
+  "question": {
+    "en": "These bacteria can acquire virulence to become pathogenic through which of the following mechanisms?",
+    "zh": "这些细菌可以通过以下哪种机制获得毒力并致病？"
+  },
+  "options": {
+    "A": {
+      "en": "Bacterial conjugation permitting pili expression",
+      "zh": "细菌接合，允许菌毛表达"
+    },
+    "B": {
+      "en": "Chromosomal mutation permitting endotoxin production",
+      "zh": "染色体突变，允许内毒素产生"
+    },
+    "C": {
+      "en": "Environmental influences permitting toxin synthesis",
+      "zh": "环境影响，允许毒素合成"
+    },
+    "D": {
+      "en": "Phage conversion permitting exotoxin production",
+      "zh": "噬菌体转换，允许外毒素产生"
+    },
+    "E": {
+      "en": "Transformation permitting capsule formation",
+      "zh": "转化，允许荚膜形成"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "*Corynebacterium diphtheriae* is a non-spore-forming, gram-positive bacillus that is transmitted primarily via aerosolized droplets. Nontoxigenic strains are minimally infectious; toxigenic strains are virulent and cause the clinical syndrome of diphtheria. Conversion from nontoxigenic to toxigenic *C diphtheriae* occurs due to infection with a LYSOGENIC BACTERIOPHAGE called Corynephage beta. This phage inserts the *tox* gene into the *C diphtheriae* genome, which results in the bacterial expression of the DIPHTHERIA AB TOXIN. Diphtheria toxin irreversibly halts protein synthesis due to ADP-ribosylation of elongation factor-2 and causes severe local (eg, pseudomembranous pharyngitis) and systemic (eg, myocarditis, neuritis) effects.\n\n(Choice A) Conjugation is the direct transfer of plasmids from one bacterium to another through a pilus. Genes for antibiotic resistance are often transmitted in this manner.\n\n(Choice B) Chromosomal mutations can theoretically lead to endotoxin production, but mutations more commonly lead to bacterial antibiotic resistance.\n\n(Choice C) The gram-positive, spore-forming rods *Bacillus* and *Clostridium* generate toxins due to environmental influences. The *B anthracis* spore, the causative agent in anthrax, survives in soil for extended periods in a state of dormancy. Only upon warming to 37° C in the presence of appropriate concentrations of CO₂ and protein do the spores germinate and begin to synthesize toxin. The case is similar for *C tetani* spores, which germinate and produce toxin only in anaerobic environments, such as necrotic wounds.\n\n(Choice E) Transformation involves the direct uptake of genetic material from the environment with subsequent incorporation into the bacterial genome. *Streptococcus pneumoniae* acquires the ability to produce capsules via transformation. The capsule is the major virulence factor for *S pneumoniae*; strains without the capsule are not pathogenic.\n\nEducational objective:\nLysogenic bacteriophages are responsible for converting nonpathogenic *Corynebacterium* into toxigenic *Corynebacterium*. Toxigenic strains elaborate the diphtheria exotoxin, which causes pseudomembranous pharyngitis and potentially life-threatening systemic effects (eg, myocarditis, neuritis).",
+    "zh": "白喉棒状杆菌(*Corynebacterium diphtheriae*)是一种非产芽孢、革兰氏阳性杆菌，主要通过气溶胶飞沫传播。非产毒株的感染性极低；产毒株具有毒力，并引起白喉的临床综合征。从非产毒株到产毒株的白喉棒状杆菌的转化是由于感染了溶原性噬菌体，称为β-棒状杆菌噬菌体。该噬菌体将*tox*基因插入白喉棒状杆菌的基因组中，导致细菌表达白喉AB毒素。白喉毒素由于将延伸因子2的ADP核糖基化而不可逆地阻止蛋白质合成，并引起严重的局部（例如，假膜性咽炎）和全身性（例如，心肌炎、神经炎）影响。\n\n(选项A) 接合是通过菌毛将质粒直接从一个细菌转移到另一个细菌。耐药基因通常以这种方式传播。\n\n(选项B) 染色体突变理论上可以导致内毒素产生，但突变更常见导致细菌对抗生素的耐药性。\n\n(选项C) 革兰氏阳性、产芽孢杆菌*Bacillus*和*Clostridium*由于环境影响而产生毒素。炭疽杆菌*B anthracis*芽孢，是炭疽的病原体，在土壤中以休眠状态存活很长时间。只有在37°C并存在适当浓度的CO₂和蛋白质时，芽孢才会萌发并开始合成毒素。破伤风梭菌*C tetani*芽孢的情况类似，它们仅在厌氧环境中（如坏死伤口）萌发并产生毒素。\n\n(选项E) 转化涉及直接摄取来自环境的遗传物质，随后将其整合到细菌基因组中。肺炎链球菌*Streptococcus pneumoniae*通过转化获得产生荚膜的能力。荚膜是肺炎链球菌的主要毒力因子；没有荚膜的菌株没有致病性。\n\n教育目标：\n溶原性噬菌体负责将非致病性白喉棒状杆菌转化为产毒性白喉棒状杆菌。产毒株会产生白喉外毒素，引起假膜性咽炎，并可能导致危及生命的全身性影响（例如，心肌炎、神经炎）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism by which *Corynebacterium diphtheriae* acquires virulence and produces diphtheria toxin. Specifically, it assesses understanding of lysogenic conversion by bacteriophages.\n\nThe key to solving this question is recognizing that diphtheria toxin production is mediated by a bacteriophage that inserts the *tox* gene into the bacterial genome. Therefore, the correct answer is phage conversion.",
+    "zh": "本题考察对白喉棒状杆菌获取毒力并产生白喉毒素的机制的了解。具体来说，它评估了对噬菌体溶原性转换的理解。\n\n解决此问题的关键是认识到白喉毒素的产生是由将*tox*基因插入细菌基因组的噬菌体介导的。因此，正确的答案是噬菌体转换。"
+  },
+  "tags": "Corynebacterium diphtheriae; Diphtheria; Phage conversion; Exotoxin; Lysogenic bacteriophage; Infectious Diseases; Microbiology",
+  "category": "Micro",
+  "question_id": "1389",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1389",
+  "extracted_at": "2025-11-05T14:53:10.495937",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:06:51.228928",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

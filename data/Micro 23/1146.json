@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 39-year-old paraplegic man with an indwelling bladder catheter comes to the emergency department complaining of 24 hours of rigors, nausea, and vomiting. His temperature is 38.9 C (102 F). Physical examination shows suprapubic and costovertebral angle tenderness. Urinalysis shows 3+ leukocyte esterase and numerous white blood cells. Urine and blood cultures grow non-lactose-fermenting Gram-negative rods.",
+    "zh": "一位39岁的截瘫男性，留置导尿管，因寒战、恶心和呕吐24小时来急诊。体温为38.9°C (102°F)。体格检查显示耻骨上和肋脊角压痛。尿液分析显示3+白细胞酯酶和大量白细胞。尿培养和血培养生长非乳糖发酵革兰氏阴性杆菌。"
+  },
+  "question": {
+    "en": "Which of the following pathogens is the most likely culprit?",
+    "zh": "以下哪种病原体最可能是罪魁祸首？"
+  },
+  "options": {
+    "A": {
+      "en": "Enterobacter cloacae",
+      "zh": "阴沟肠杆菌"
+    },
+    "B": {
+      "en": "Enterococcus faecalis",
+      "zh": "粪肠球菌"
+    },
+    "C": {
+      "en": "Escherichia coli",
+      "zh": "大肠杆菌"
+    },
+    "D": {
+      "en": "Klebsiella pneumoniae",
+      "zh": "肺炎克雷伯菌"
+    },
+    "E": {
+      "en": "Pseudomonas aeruginosa",
+      "zh": "铜绿假单胞菌"
+    },
+    "F": {
+      "en": "Staphylococcus saprophyticus",
+      "zh": "腐生葡萄球菌"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Patients with indwelling bladder catheters are at increased risk for urinary tract infections (UTIs) caused by both typical (eg, Escherichia coli, Klebsiella pneumoniae, Staphylococcus saprophyticus, Proteus mirabilis) and opportunistic (eg, Pseudomonas, Enterococcus, other Staphylococci, fungal) organisms. This patient's culture results are consistent with Pseudomonas aeruginosa, the only non-lactose-fermenting, Gram-negative rod listed. It is also the only one that is oxidase positive.\n\n(Choice A) Enterobacter cloacae is a lactose-fermenting, Gram-negative rod characterized by extensive antibiotic resistance. It causes nosocomial infections, including UTIs, pneumonia, and surgical site infections.\n\n(Choice B) Enterococcus faecalis is a Gram-positive coccus in the Enterococcaceae family that is a common cause of opportunistic UTIs. Vancomycin-resistant Enterococcus is a particularly fearsome isolate that is increasing in prevalence.\n\n(Choice C) Escherichia coli is a lactose-fermenting, Gram-negative rod and the leading cause of both complicated (including catheter-associated) and uncomplicated UTIs.\n\n(Choice D) Klebsiella pneumoniae is a lactose-fermenting, Gram-negative rod. It is a common cause of spontaneous bacterial peritonitis and nosocomial pneumonias as well as UTIs.\n\n(Choice F) Staphylococcus saprophyticus is a catalase-positive, coagulase-negative, Gram-positive coccus that typically causes UTIs in sexually active women. It is differentiated from S epidermidis by being novobiocin resistant.\n\nEducational objective: Pseudomonas aeruginosa is an oxidase-positive, non-lactose-fermenting, Gram-negative organism. It is a common cause of urinary tract infections in patients with indwelling bladder catheters.",
+    "zh": "留置导尿管的患者发生尿路感染 (UTI) 的风险增加，这种感染既可由典型病原体（如大肠杆菌、肺炎克雷伯菌、腐生葡萄球菌、奇异变形杆菌）引起，也可由机会性病原体（如假单胞菌、肠球菌、其他葡萄球菌、真菌）引起。该患者的培养结果与铜绿假单胞菌一致，后者是唯一列出的非乳糖发酵革兰氏阴性杆菌。它也是唯一氧化酶阳性的。\n\n(选项 A) 阴沟肠杆菌是一种乳糖发酵革兰氏阴性杆菌，其特点是具有广泛的耐药性。它会导致医院获得性感染，包括尿路感染、肺炎和手术部位感染。\n\n(选项 B) 粪肠球菌是肠球菌科中的革兰氏阳性球菌，是机会性尿路感染的常见原因。耐万古霉素肠球菌是一种特别可怕的分离株，其患病率正在增加。\n\n(选项 C) 大肠杆菌是一种乳糖发酵革兰氏阴性杆菌，是复杂性（包括导管相关性）和非复杂性尿路感染的主要病原体。\n\n(选项 D) 肺炎克雷伯菌是一种乳糖发酵革兰氏阴性杆菌。它是自发性细菌性腹膜炎和医院获得性肺炎以及尿路感染的常见原因。\n\n(选项 F) 腐生葡萄球菌是一种过氧化氢酶阳性、凝固酶阴性的革兰氏阳性球菌，通常引起性活跃女性的尿路感染。它通过对新生霉素的耐药性与表皮葡萄球菌区别开来。\n\n教学目标：铜绿假单胞菌是一种氧化酶阳性、非乳糖发酵的革兰氏阴性生物。它是留置导尿管患者尿路感染的常见原因。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of common pathogens causing urinary tract infections (UTIs) in patients with indwelling catheters, specifically focusing on Gram-negative bacteria and their characteristics.\n\nTo solve this question, consider the patient's risk factors (indwelling catheter), the urinalysis findings (leukocyte esterase, white blood cells), and the culture results (non-lactose-fermenting Gram-negative rods). Then, identify the pathogen from the options that matches these characteristics.",
+    "zh": "本题考察对留置导管患者尿路感染 (UTI) 常见病原体的知识，重点关注革兰氏阴性细菌及其特征。\n\n要解决这个问题，需要考虑患者的危险因素（留置导管）、尿液分析结果（白细胞酯酶、白细胞）和培养结果（非乳糖发酵革兰氏阴性杆菌）。然后，从选项中识别与这些特征相符的病原体。"
+  },
+  "tags": "Urinary tract infection; UTI; Pseudomonas aeruginosa; Gram-negative bacteria; Indwelling catheter; Infectious disease; Microbiology; Non-lactose fermenting",
+  "category": "Micro",
+  "question_id": "1146",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1146",
+  "extracted_at": "2025-11-05T14:50:34.443078",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:05:37.847968",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

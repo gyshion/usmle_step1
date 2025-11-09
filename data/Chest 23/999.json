@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 2-day-old boy is evaluated in the neonatal intensive care unit for lethargy and respiratory distress. The patient was born at home via spontaneous vaginal delivery at term gestation to a mother who did not receive routine prenatal care. Temperature is 38.9 C (102 F) and pulse is 162/min. Physical examination shows tachypnea and grunting. Blood cultures grow beta-hemolytic, gram-positive cocci in chains that elicit a narrow zone of complete hemolysis on blood agar.",
+    "zh": "一名 2 天大的男婴因嗜睡和呼吸窘迫在新生儿重症监护室接受评估。该患者在家中经足月妊娠的自然阴道分娩出生，母亲未接受常规产前护理。体温为 38.9°C (102°F)，脉搏为 162 次/分钟。体格检查显示呼吸急促和呻吟。血培养生长出链状的 β-溶血性革兰氏阳性球菌，可在血琼脂上引起狭窄的完全溶血带。"
+  },
+  "question": {
+    "en": "Which of the following virulence factors most likely contributed to the development of this patient's current condition?",
+    "zh": "以下哪种毒力因子最有可能导致该患者目前病情的发生？"
+  },
+  "options": {
+    "A": {
+      "en": "Antigenic variation",
+      "zh": "抗原变异"
+    },
+    "B": {
+      "en": "Endotoxin",
+      "zh": "内毒素"
+    },
+    "C": {
+      "en": "Exotoxin",
+      "zh": "外毒素"
+    },
+    "D": {
+      "en": "M protein",
+      "zh": "M 蛋白"
+    },
+    "E": {
+      "en": "Polysaccharide capsule",
+      "zh": "多糖荚膜"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This neonate has sepsis (eg, fever, lethargy, respiratory distress) due to group B Streptococcus (GBS), a gram-positive coccus that forms chains and exhibits a narrow zone of complete hemolysis on blood agar (beta-hemolytic). GBS colonizes the gastrointestinal or genitourinary tract of approximately 50% of pregnant women. These women are treated with intrapartum antibiotic prophylaxis (eg, penicillin) as part of routine prenatal care to prevent vertical transmission during rupture of membranes or vaginal delivery. Women who are colonized and do not receive prophylaxis, like this patient's mother, are more likely to transmit the organism to the neonate, leading to increased risk for sepsis, pneumonia, or meningitis within hours to days after birth (ie, early-onset disease).\n\nThe virulence of GBS stems from the presence of a thick polysaccharide capsule composed of galactose with terminal sialic acid (SA) residues. These residues are identical to SA epitopes on glycoproteins/glycolipids of host cells, allowing bacteria to evade host defenses via molecular mimicry. Bacterial SA residues are also recognized as \"self\" by phagocytes, which limits phagocytosis, oxidative burst generation, and production of neutrophil extracellular traps. In addition, SA residues inhibit binding of the opsonin C3b (limits opsonophagocytosis) and the anaphylatoxin C5a (limits immune cell recruitment).\n\n{{exhibit_1}}\n\n(Choice A) Antigenic variation involves rapid mutation/recombination of surface antigens so that antibody formed during a previous infection is unable to prevent future infection. This is commonly seen with viruses (eg, influenza) and some bacteria (eg, Neisseria meningitidis) but not GBS.\n\n(Choice B) Endotoxin (lipopolysaccharide) is a major virulence factor of gram-negative bacteria (eg, Escherichia coli). Although E coli is a common cause of neonatal sepsis, gram-negative rods would be seen in the bloodstream.\n\n(Choice C) Listeriolysin O, the primary virulence factor of Listeria monocytogenes, is an exotoxin that causes pores in the phagosome membrane. This allows the organisms to escape into the cytoplasm of phagocytic cells prior to phagolysosomal destruction. Although Listeria can cause neonatal infection (less common than GBS and E coli), it is a gram-positive rod, not a coccus.\n\n(Choice D) M protein, a virulence factor of group A Streptococcus (GAS), prevents opsonization. Although GAS is a beta-hemolytic, gram-positive coccus in chains, it is not a common cause of neonatal sepsis.\n\nEducational objective:\nGroup B Streptococcus is a major cause of neonatal sepsis. Its virulence factor is the polysaccharide capsule, which contains sialic acid residues that prevent phagocytosis via molecular mimicry.",
+    "zh": "该新生儿患有败血症（如发热、嗜睡、呼吸窘迫），由 B 族链球菌 (GBS) 引起，这是一种革兰氏阳性球菌，形成链，并在血琼脂上显示狭窄的完全溶血带（β-溶血性）。 GBS 约占 50% 的孕妇的胃肠道或泌尿生殖道。这些妇女接受产时抗生素预防（例如青霉素），作为常规产前护理的一部分，以防止在胎膜破裂或阴道分娩期间的垂直传播。像该患者的母亲一样，被定植且未接受预防的妇女更有可能将这种生物传播给新生儿，从而导致出生后数小时至数天内败血症、肺炎或脑膜炎的风险增加（即，早发性疾病）。\n\nGBS 的毒力源于存在由半乳糖和末端唾液酸 (SA) 残基组成​​的厚多糖荚膜。这些残基与宿主细胞的糖蛋白/糖脂上的 SA 表位相同，从而使细菌能够通过分子模拟逃避宿主防御。细菌 SA 残基也被吞噬细胞识别为“自身”，这限制了吞噬作用、氧化爆发的产生和中性粒细胞胞外诱捕网的产生。此外，SA 残基抑制调理素 C3b 的结合（限制吞噬作用）和过敏毒素 C5a（限制免疫细胞募集）。\n\n{{exhibit_1}}\n\n(选项 A) 抗原变异涉及表面抗原的快速突变/重组，从而使在先前感染期间形成的抗体无法预防未来的感染。这常见于病毒（例如，流感）和某些细菌（例如，脑膜炎奈瑟菌），但不是 GBS。\n\n(选项 B) 内毒素（脂多糖）是革兰氏阴性细菌（例如，大肠杆菌）的主要毒力因子。虽然大肠杆菌是新生儿败血症的常见原因，但在血流中会看到革兰氏阴性杆菌。\n\n(选项 C) 单核细胞增生李斯特菌的主要毒力因子李斯特菌溶血素 O 是一种外毒素，可在吞噬体膜上引起孔。这使得生物体可以在溶酶体破坏之前逃入吞噬细胞的细胞质中。虽然李斯特菌可引起新生儿感染（不如 GBS 和大肠杆菌常见），但它是一种革兰氏阳性杆菌，而不是球菌。\n\n(选项 D) M 蛋白是 A 组链球菌 (GAS) 的一种毒力因子，可防止调理作用。虽然 GAS 是链状的 β-溶血性、革兰氏阳性球菌，但它不是新生儿败血症的常见原因。\n\n教育目标：\nB 族链球菌是新生儿败血症的主要原因。其毒力因子是多糖荚膜，其中含有唾液酸残基，可通过分子模拟阻止吞噬作用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Group B Streptococcus (GBS) as a cause of neonatal sepsis and the role of its polysaccharide capsule as a major virulence factor. It assesses understanding of how the capsule's sialic acid residues contribute to molecular mimicry, allowing the bacteria to evade phagocytosis and complement activation.\n\nTo solve this question, recognize the clinical presentation of neonatal sepsis and identify GBS as the most likely causative agent. Then, recall the key virulence factors of GBS, focusing on the polysaccharide capsule's role in inhibiting host immune defenses.",
+    "zh": "此问题测试对 B 族链球菌 (GBS) 作为新生儿败血症病因的了解，及其多糖荚膜作为主要毒力因子的作用。它评估了对荚膜的唾液酸残基如何促进分子模拟的理解，从而使细菌能够逃避吞噬作用和补体激活。\n\n为了解决这个问题，要认识到新生儿败血症的临床表现，并将 GBS 确定为最可能的病原体。然后，回忆 GBS 的关键毒力因子，重点关注多糖荚膜在抑制宿主免疫防御中的作用。"
+  },
+  "tags": "Group B Streptococcus; Neonatal sepsis; Polysaccharide capsule; Virulence factors; Molecular mimicry; Sialic acid; Gram-positive bacteria; Infectious disease; Pediatrics",
+  "category": "Chest",
+  "question_id": "999",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\999",
+  "extracted_at": "2025-11-05T11:49:46.868006",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:43:22.828420",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

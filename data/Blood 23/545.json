@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A newborn girl is admitted to the neonatal intensive care unit with jaundice, hepatomegaly, and generalized edema. She was born by vaginal delivery to a 32-year-old woman, gravida 2, para 2, who received minimal prenatal care. The infant's laboratory results show a hemoglobin level of 6 g/dL and a positive direct Coombs test. A peripheral blood smear shows many nucleated erythrocytes. The infant has significant respiratory distress due to pleural effusions and ascites and dies soon after birth. Autopsy shows areas of extramedullary hematopoiesis in many tissues. Which of the following is the most likely cause of this patient's condition?",
+    "zh": "一名新生女婴因黄疸、肝肿大和全身水肿被送入新生儿重症监护病房。她经阴道分娩，母亲为32岁女性，孕2产2，接受产前护理很少。婴儿的实验室结果显示血红蛋白水平为6 g/dL，直接Coombs试验阳性。外周血涂片显示许多有核红细胞。由于胸腔积液和腹水，婴儿出现明显的呼吸窘迫，并在出生后不久死亡。尸检显示许多组织中有髓外造血区域。以下哪项最可能是该患者病情的病因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's condition?",
+    "zh": "以下哪项最可能是该患者的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Abnormal hemoglobin polymerization",
+      "zh": "血红蛋白聚合异常"
+    },
+    "B": {
+      "en": "Absence of alpha globin chains",
+      "zh": "α-珠蛋白链缺失"
+    },
+    "C": {
+      "en": "Erythrocyte opsonization by maternal antibodies",
+      "zh": "母体抗体对红细胞的调理作用"
+    },
+    "D": {
+      "en": "Glucose-6-phosphate dehydrogenase deficiency",
+      "zh": "葡萄糖-6-磷酸脱氢酶缺乏症"
+    },
+    "E": {
+      "en": "Red blood cell lysis by fetal antibodies",
+      "zh": "胎儿抗体对红细胞的溶解"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Hemolytic disease of the newborn (erythroblastosis fetalis) results from the destruction of red fetal blood cells by maternal antibodies directed against fetal erythrocyte antigens. These antibodies are IgG antibodies, the only class of antibody able to cross the placenta. Erythroblastosis fetalis is most commonly caused by Rhesus (Rh) incompatibility (particularly the D antigen).\n\nRh sensitization can occur in an Rh(D)- mother during pregnancy with an Rh(D)+ fetus due to small amounts of fetal blood crossing the placenta and entering the maternal circulation. These erythrocytes are viewed as foreign by the maternal immune system and induce the production of anti-Rh(D) IgG antibodies. In subsequent pregnancies with an Rh(D)+ fetus, these antibodies cross the placenta and opsonize fetal erythrocytes, causing hemolysis. This results in a positive direct Coombs test (indicating autoimmune hemolysis), profound anemia, jaundice (possibly leading to kernicterus), and generalized edema (hydrops fetalis due to accumulation of interstitial fluid). The severe anemia also stimulates release of immature, nucleated erythrocytes and leads to persistent extramedullary hematopoiesis in the liver, spleen, and other tissues (hepatosplenomegaly).\n\n(Choice A) Sickle cell anemia causes vasoocclusion due to abnormal hemoglobin polymerization. It is asymptomatic in the fetus/neonate due to high levels of fetal hemoglobin that are not replaced by hemoglobin S until age 3-12 months.\n\n(Choice B) Fetuses with homozygous alpha-thalassemia (hemoglobin Barts) have no alpha globin chains and therefore form gamma-4 tetramers with very high oxygen affinity. The consequence is severe functional anemia and tissue hypoxia, which results in high-output heart failure and nonimmune hydrops fetalis (negative Coombs test).\n\n(Choice D) Glucose-6-phosphate dehydrogenase deficiency can cause prolonged neonatal jaundice (beyond 2 weeks) due to increased erythrocyte breakdown and immaturity of the newborn liver. However, the associated anemia is rarely severe.\n\n(Choice E) Infants are born with an immature immune system; their humoral defense during the first 6 months of life comes primarily from maternal circulating IgG that is received transplacentally prior to birth and from mucosal IgA received via breastfeeding. Therefore, fetal antibody-mediated red blood cell lysis is an unlikely etiology.\n\nEducational objective:\nHemolytic disease of the newborn most commonly occurs from maternal sensitization to Rh antigens during a prior pregnancy with an Rh(D)+ fetus. In subsequent Rh(D)+ pregnancies, maternal anti-Rh(D) IgG antibodies cross the placenta and cause a severe autoimmune hemolytic anemia in the fetus and life-threatening hydrops fetalis. {{exhibit_1}}",
+    "zh": "新生儿溶血病（胎儿红细胞增多症）是由母体抗体破坏胎儿红细胞引起的，这些抗体针对胎儿红细胞抗原。这些抗体是IgG抗体，是唯一一类能够穿过胎盘的抗体。胎儿红细胞增多症最常见的原因是Rh血型不合（特别是D抗原）。\n\nRh致敏可能发生在Rh(D)阴性母亲在怀孕Rh(D)阳性胎儿期间，由于少量胎儿血液穿过胎盘进入母体循环。这些红细胞被母体免疫系统视为异物，并诱导产生抗Rh(D) IgG抗体。在随后的Rh(D)阳性胎儿妊娠中，这些抗体穿过胎盘并调理胎儿红细胞，导致溶血。这导致直接Coombs试验呈阳性（表明自身免疫性溶血），严重贫血，黄疸（可能导致核黄疸）和全身水肿（由于间质液积聚引起的胎儿水肿）。严重的贫血还会刺激未成熟的有核红细胞的释放，并导致肝脏、脾脏和其他组织（肝脾肿大）中持续的髓外造血。\n\n（选项A）镰状细胞性贫血由于血红蛋白聚合异常引起血管阻塞。在胎儿/新生儿中无症状，因为胎儿血红蛋白水平高，直到3-12个月大时才被血红蛋白S取代。\n\n（选项B）纯合α-地中海贫血（血红蛋白Barts）的胎儿没有α-珠蛋白链，因此形成γ-4四聚体，氧亲和力非常高。结果是严重的机能性贫血和组织缺氧，导致高输出量心力衰竭和非免疫性胎儿水肿（Coombs试验阴性）。\n\n（选项D）葡萄糖-6-磷酸脱氢酶缺乏症可由于红细胞分解增加和新生儿肝脏不成熟导致新生儿黄疸时间延长（超过2周）。然而，相关的贫血很少严重。\n\n（选项E）婴儿出生时免疫系统不成熟；在出生后最初6个月，他们的体液防御主要来自母体循环中的IgG，这些IgG在出生前通过胎盘获得，以及通过母乳喂养获得的粘膜IgA。因此，胎儿抗体介导的红细胞溶解不太可能成为病因。\n\n教育目标：\n新生儿溶血病最常见的原因是母体在先前怀孕Rh(D)阳性胎儿期间对Rh抗原的致敏。在随后的Rh(D)阳性妊娠中，母体抗Rh(D) IgG抗体穿过胎盘，导致胎儿发生严重的自身免疫性溶血性贫血和危及生命的胎儿水肿。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hemolytic disease of the newborn (erythroblastosis fetalis), specifically Rh incompatibility and the pathophysiology of maternal antibody-mediated fetal red blood cell destruction. It assesses understanding of the clinical presentation, laboratory findings, and underlying mechanisms of this condition. \n\nThe key to solving this question is recognizing the signs of hemolytic anemia in the newborn (jaundice, hepatomegaly, edema, low hemoglobin, positive Coombs test) and linking them to the most likely cause: maternal-fetal Rh incompatibility. Understanding the mechanism of Rh sensitization and antibody production is crucial.",
+    "zh": "本题考察对新生儿溶血病（胎儿红细胞增多症）的知识，特别是Rh血型不合以及母体抗体介导的胎儿红细胞破坏的病理生理学。它评估对该病临床表现、实验室发现和潜在机制的理解。\n\n解决此问题的关键在于识别新生儿溶血性贫血的征象（黄疸、肝肿大、水肿、血红蛋白低、Coombs试验阳性），并将它们与最可能的原因：母胎Rh血型不合联系起来。理解Rh致敏和抗体产生的机制至关重要。"
+  },
+  "tags": "Hemolytic disease of the newborn; Erythroblastosis fetalis; Rh incompatibility; Maternal-fetal medicine; IgG antibodies; Coombs test; Anemia; Jaundice; Hydrops fetalis",
+  "category": "Blood",
+  "question_id": "545",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\545",
+  "extracted_at": "2025-11-05T11:33:25.812143",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:31:55.324721",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

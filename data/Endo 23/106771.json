@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 19-year-old woman with cystic fibrosis comes to the clinic due to episodes of nausea, lightheadedness, and diaphoresis. The episodes started 3 months ago. She feels better after eating a candy bar. The patient has also experienced polyuria and a 4.5-kg (10-lb) weight loss. Current medications include pancreatic enzyme supplements and nebulized respiratory treatments. BMI is 19.5 kg/m². Physical examination is unremarkable. Glucose level measured by random fingerstick check is elevated at 201 mg/dL, and hemoglobin A1c is 6.8%. The patient is asked to measure and record her blood glucose level prior to each meal. The results over 4 days are shown below {{exhibit_1}}.",
+    "zh": "一名患有囊性纤维化的19岁女性因恶心、头昏眼花和出汗发作来到诊所就诊。发作始于3个月前。她在吃完糖果后感觉好转。该患者还经历了多尿和体重减轻4.5公斤（10磅）。目前的药物包括胰酶补充剂和雾化呼吸道治疗。BMI为19.5 kg/m²。体格检查无特殊发现。随机指尖血糖检查测得的血糖水平升高至201 mg/dL，糖化血红蛋白A1c为6.8%。 医生要求患者在每餐前测量并记录其血糖水平。 下面显示了4天内的结果 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is most likely responsible for this patient's low blood glucose levels?",
+    "zh": "以下哪项最有可能导致该患者的低血糖水平？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased insulin clearance",
+      "zh": "胰岛素清除率降低"
+    },
+    "B": {
+      "en": "Ectopic insulin secretion",
+      "zh": "异位胰岛素分泌"
+    },
+    "C": {
+      "en": "Impaired glucagon release",
+      "zh": "胰高血糖素释放受损"
+    },
+    "D": {
+      "en": "Increased trypsinogen excretion",
+      "zh": "胰蛋白酶原排泄增加"
+    },
+    "E": {
+      "en": "Reduced cortisol production",
+      "zh": "皮质醇生成减少"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with cystic fibrosis (CF) exhibits glucose dysregulation, suggesting clinical onset of endocrine pancreatic failure. In patients with CF, ductal obstruction by thickened secretions leads to exocrine pancreatic insufficiency (eg, fat malabsorption) early in life. Buildup of pancreatic enzymes also results in pancreatic autolysis, chronic inflammation, and fibrosis, with progressive destruction of the endocrine pancreas. Eventually, a form of pancreatogenic diabetes mellitus, referred to as CF-related diabetes (CFRD), can develop.\n\nNonselective loss of alpha and beta pancreatic islet cells explains this patient's glucose fluctuations.\n\n*   Loss of alpha cells leads to glucagon deficiency. Glucagon is the primary counterregulatory hormone. It stimulates glycogenolysis and gluconeogenesis to defend against hypoglycemia in the fasting state (eg, prior to breakfast). Because alpha cells make up only 20% of islet mass, absolute glucagon deficiency occurs earlier in the course of CFRD, often preceding absolute insulin deficiency.\n*   Loss of beta cells leads to insulin deficiency, contributing to hyperglycemia and catabolic symptoms (eg, weight loss). This patient's postprandial hyperglycemia indicates failure of the beta-cell response to dietary carbohydrate intake.\n\nThis early loss of glucagon accounts for more frequent episodes of hypoglycemia compared to patients with non-pancreatogenic (eg, type 2) diabetes mellitus. A similar phenomenon also affects patients following pancreas resection (eg, Whipple procedure).\n\n(Choice A) Decreased insulin clearance causes hypoglycemia in patients with renal insufficiency who are receiving exogenous insulin therapy.\n\n(Choice B) Ectopic insulin secretion (eg, insulinoma) can cause fasting and paroxysmal hypoglycemia but would not explain this patient's hyperglycemia, polyuria (osmotic diuresis), or weight loss, which are signs of insulin deficiency, rather than excess.\n\n(Choice D) Decreased (rather than increased) pancreatic trypsinogen production contributes to dietary protein malabsorption and low skeletal muscle mass in patients with CF (eg, this patient's sarcopenia and low BMI).\n\n(Choice E) Decreased cortisol production (eg, primary adrenal insufficiency) can precipitate hypoglycemia, especially in the setting of physiologic stress (eg, infection). However, adrenal steroid synthesis is unaffected by CF, and cortisol deficiency would not explain the patient's hyperglycemia.\n\nEducational objective:\nPancreatic disease in cystic fibrosis is characterized by nonselective destruction of alpha and beta cells. Because alpha cells make up the minority of islet mass, glucagon deficiency and fasting hypoglycemia occur early in the diabetic disease course. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "这名患有囊性纤维化 (CF) 的患者表现出血糖失调，提示内分泌性胰腺功能衰竭的临床发病。在患有 CF 的患者中，增稠分泌物引起的导管阻塞会导致生命早期出现外分泌性胰腺功能不全（例如，脂肪吸收不良）。胰酶的积累也会导致胰腺自溶、慢性炎症和纤维化，并逐渐破坏内分泌胰腺。最终，可能会发展出一种胰源性糖尿病，称为 CF 相关糖尿病 (CFRD)。\n\nα 和 β 胰岛细胞的非选择性丧失解释了该患者的血糖波动。\n\n*   α 细胞的丧失导致胰高血糖素缺乏。胰高血糖素是主要的对抗调节激素。它刺激糖原分解和糖异生，以对抗空腹状态下的低血糖症（例如，早餐前）。由于 α 细胞仅占胰岛质量的 20%，因此在 CFRD 病程中较早出现绝对性胰高血糖素缺乏，通常先于绝对性胰岛素缺乏。\n*   β 细胞的丧失导致胰岛素缺乏，导致高血糖和分解代谢症状（例如，体重减轻）。该患者的餐后高血糖表明β细胞对膳食碳水化合物摄入的反应失败。\n\n与非胰源性（例如，2 型）糖尿病患者相比，这种早期胰高血糖素的丧失解释了低血糖发作更频繁的原因。类似现象也会影响胰腺切除术后的患者（例如，Whipple 手术）。\n\n(选项 A) 胰岛素清除率降低会导致接受外源性胰岛素治疗的肾功能不全患者出现低血糖症。\n\n(选项 B) 异位胰岛素分泌（例如，胰岛素瘤）可导致空腹和阵发性低血糖，但无法解释该患者的高血糖、多尿（渗透性利尿）或体重减轻，这些是胰岛素缺乏的征兆，而不是过量。\n\n(选项 D) 胰蛋白酶原生成减少（而非增加）导致患有 CF 的患者出现膳食蛋白质吸收不良和骨骼肌质量低（例如，该患者的肌肉减少症和低 BMI）。\n\n(选项 E) 皮质醇生成减少（例如，原发性肾上腺皮质功能不全）可诱发低血糖症，尤其是在生理应激（例如，感染）的情况下。然而，肾上腺类固醇合成不受 CF 的影响，皮质醇缺乏并不能解释患者的高血糖。\n\n教育目标：\n囊性纤维化中的胰腺疾病的特征是 α 和 β 细胞的非选择性破坏。由于 α 细胞仅占胰岛质量的少数，因此胰高血糖素缺乏和空腹低血糖症会在糖尿病病程早期发生。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of cystic fibrosis-related diabetes (CFRD) and the pathophysiology of glucose dysregulation in CF patients, specifically the early loss of glucagon leading to hypoglycemia. It also assesses understanding of the nonselective destruction of alpha and beta cells in the pancreas in CF.\n\nTo solve this question, recognize the patient's history of cystic fibrosis and the symptoms of glucose dysregulation. Focus on the early loss of glucagon in CFRD as the most likely cause of hypoglycemia, differentiating it from other causes of hypoglycemia and considering the patient's overall clinical picture.",
+    "zh": "这个问题考察了对囊性纤维化相关糖尿病 (CFRD) 以及 CF 患者血糖失调的病理生理学的了解，特别是早期胰高血糖素的缺失导致低血糖症。它还评估了对 CF 中胰腺 α 和 β 细胞非选择性破坏的理解。\n\n要解决这个问题，需要认识到患者的囊性纤维化病史和血糖失调的症状。 侧重于CFRD 中胰高血糖素的早期缺失，这最有可能导致低血糖症，将其与其他低血糖症的原因区分开来，并考虑患者的整体临床情况。"
+  },
+  "tags": "Cystic fibrosis; CFRD; Glucagon deficiency; Hypoglycemia; Pancreatic insufficiency; Alpha cells; Beta cells; Glucose dysregulation; Endocrinology; Diabetes mellitus",
+  "category": "Endo",
+  "question_id": "106771",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\106771",
+  "extracted_at": "2025-11-05T13:57:53.512639",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:36:35.273509",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

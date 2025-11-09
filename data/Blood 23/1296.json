@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old woman, gravida 1 para 0, at 28 weeks gestation comes to the labor and delivery unit due to intense abdominal pain, vaginal bleeding, and absent fetal movement. Temperature is 36.7 C (98.1 F), blood pressure is 170/96 mm Hg, pulse is 108/min, and respirations are 22/min. Pulse oximetry shows 98% on room air. Physical examination shows a tense abdomen and a firm, tender uterus. Ultrasound shows a hematoma between the placenta and the uterine wall and no fetal cardiac activity. Laboratory results are as follows: {{exhibit_1}}\nThe patient is hospitalized for further management. Once hospitalized, she begins to experience bleeding from her gums and intravenous catheter sites. Blood is also noted in the urinary catheter. Vital signs are unchanged, and she reports no shortness of breath.",
+    "zh": "一名24岁女性，孕1产0，妊娠28周，因剧烈腹痛、阴道出血和胎动消失而就诊于产房。体温36.7°C（98.1°F），血压170/96 mmHg，脉搏108次/分，呼吸22次/分。脉搏血氧饱和度显示98%（常氧）。体格检查显示腹部紧张，子宫坚硬且触痛。超声显示胎盘和子宫壁之间有血肿，无胎儿心脏活动。实验室检查结果如下：{{exhibit_1}}。\n患者住院接受进一步治疗。住院后，她开始出现牙龈和静脉导管穿刺部位出血。尿管中也可见血。生命体征未变，且患者自述无呼吸困难。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying cause of this patient's hospital symptoms?",
+    "zh": "以下哪项最可能是该患者住院症状的潜在原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Embolization of amniotic fluid into the maternal circulation",
+      "zh": "羊水栓塞进入母体循环"
+    },
+    "B": {
+      "en": "Ascending polymicrobial infection of the endometrial lining",
+      "zh": "子宫内膜的多微生物上升性感染"
+    },
+    "C": {
+      "en": "Decidual tissue factor release into the maternal circulation",
+      "zh": "蜕膜组织因子释放入母体循环"
+    },
+    "D": {
+      "en": "Hepatic fatty infiltration with decreased clotting factor production",
+      "zh": "肝脏脂肪浸润伴凝血因子产生减少"
+    },
+    "E": {
+      "en": "Complete rupture of the endometrium, myometrium, and serosa",
+      "zh": "子宫内膜、肌层和浆膜完全破裂"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This pregnant patient with new bleeding from the gums and catheter sites likely has disseminated intravascular coagulation (DIC), a life-threatening complication that can occur with postpartum hemorrhage, abruptio placentae, or amniotic fluid embolism. This patient has DIC due to abruptio placentae (ie, placental bleeding between the uterine wall and placenta), which results in premature placental separation, fetal hypoxia, and in severe cases, fetal demise. Patients with abruptio placentae typically have vaginal bleeding, uterine rigidity and/or tenderness, and contractions. Maternal hypertension (eg, preeclampsia) and tobacco use are risk factors.\n\nSevere placental abruption (eg, retroplacental hematoma) causes decidual damage and ischemia, thereby triggering tissue factor release into the maternal circulation. Tissue factor, a procoagulant, then activates the extrinsic pathway of the coagulation cascade to cause excessive thrombin generation with formation of circulating platelet-fibrin microthrombi. As clotting factors and platelets are rapidly consumed, a consumptive coagulopathy (eg, thrombocytopenia, prolonged PT & aPTT) develops that results in profound bleeding, classically from mucosal surfaces and intravenous line sites.\n\n(Choice A) Amniotic fluid embolism (AFE) introduces fetal antigens and tissue factor from the amniotic fluid into the maternal circulation, triggering a massive immune response and increased release of procoagulant factors that can lead to DIC. However, AFE typically causes maternal circulatory collapse with severe hypotension, making this diagnosis less likely in this patient.\n\n(Choice B) An ascending polymicrobial infection of the endometrial lining (eg, postpartum endometritis) can cause uterine tenderness, vaginal bleeding, and sepsis, thereby precipitating DIC. However, patients typically also have fever and hypotension.\n\n(Choice D) Acute fatty liver of pregnancy, characterized by microvesicular fatty infiltration of hepatocytes, can impair maternal hepatic function, reducing production of clotting factors and impairing clearance of fibrin degradation products, which may result in DIC. However, patients typically have elevated liver transaminases.\n\n(Choice E) Complete uterine rupture through the endometrium, myometrium, and serosa can cause vaginal bleeding, abdominal pain, and fetal compromise. However, patients usually have had a prior uterine surgery and present with palpable fetal parts protruding through the disrupted uterine wall rather than a firm, tense uterus.\n\nEducational objective:\nDisseminated intravascular coagulation (DIC) can occur with abruptio placentae due to release of tissue factor, a procoagulant that activates the coagulation cascade, from the damaged decidua into the maternal circulation. DIC classically presents with thrombocytopenia and bleeding from mucosal surfaces (eg, gums) and intravenous line sites. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "这位孕妇出现新的牙龈和导管部位出血，很可能患有弥散性血管内凝血（DIC），这是一种危及生命的并发症，可发生在产后出血、胎盘早剥或羊水栓塞时。该患者的DIC是由于胎盘早剥（即，子宫壁和胎盘之间的胎盘出血）引起的，这会导致胎盘过早分离、胎儿缺氧，在严重情况下会导致胎儿死亡。胎盘早剥患者通常有阴道出血、子宫僵硬和/或压痛，以及宫缩。孕妇高血压（如，先兆子痫）和吸烟是危险因素。\n\n严重的胎盘早剥（如，胎盘后血肿）会导致蜕膜损伤和缺血，从而触发组织因子释放到母体循环中。组织因子是一种促凝血物质，然后激活凝血级联反应的外源性途径，导致血栓蛋白过度生成，形成循环血小板-纤维蛋白微血栓。随着凝血因子和血小板的迅速消耗，会发生消耗性凝血病（如，血小板减少症，PT和aPTT延长），导致严重出血，典型地发生在黏膜表面和静脉输液部位。\n\n（选项A）羊水栓塞（AFE）将羊水中的胎儿抗原和组织因子引入母体循环，触发大规模免疫反应和促凝血因子释放增加，这可能导致DIC。然而，AFE通常会导致母体循环衰竭，伴有严重低血压，这使得该诊断在这种情况下不太可能。\n\n（选项B）子宫内膜的多微生物上升性感染（如，产后子宫内膜炎）可引起子宫压痛、阴道出血和脓毒症，从而引发DIC。然而，患者通常也有发烧和低血压。\n\n（选项D）妊娠期急性脂肪肝，其特征是肝细胞的微泡脂肪浸润，可损害母体肝功能，减少凝血因子的产生，并损害纤维蛋白降解产物的清除，这可能导致DIC。然而，患者通常有肝转氨酶升高。\n\n（选项E）子宫内膜、肌层和浆膜完全破裂可引起阴道出血、腹痛和胎儿受损。然而，患者通常有既往子宫手术史，并且表现为可触及的胎儿部分从破裂的子宫壁中突出，而不是坚硬、紧张的子宫。\n\n教育目标：\n弥散性血管内凝血（DIC）可发生在胎盘早剥时，原因是受损的蜕膜释放组织因子（一种促凝血物质），从而激活凝血级联反应进入母体循环。DIC的典型表现是血小板减少症和黏膜表面（如，牙龈）和静脉输液部位出血。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of disseminated intravascular coagulation (DIC) in the setting of abruptio placentae. It assesses the ability to recognize the clinical presentation and laboratory findings associated with this condition.\n\nTo solve this question, recognize the signs of DIC (bleeding, thrombocytopenia) in a pregnant patient with abdominal pain and vaginal bleeding. Consider the most likely causes of DIC in pregnancy, such as abruptio placentae, and understand the underlying pathophysiology of tissue factor release.",
+    "zh": "这个问题考察了对胎盘早剥情况下弥散性血管内凝血（DIC）的认识。它评估了识别与此病症相关的临床表现和实验室检查结果的能力。\n\n要解决这个问题，需要识别在腹痛和阴道出血的孕妇中DIC的体征（出血、血小板减少症）。考虑妊娠期DIC最可能的原因，例如胎盘早剥，并了解组织因子释放的潜在病理生理学。"
+  },
+  "tags": "Abruptio placentae; Disseminated intravascular coagulation (DIC); Pregnancy complications; Thrombocytopenia; Tissue factor; Obstetrics; Hematology",
+  "category": "Blood",
+  "question_id": "1296",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1296",
+  "extracted_at": "2025-11-05T11:22:16.998383",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:26:49.872458",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

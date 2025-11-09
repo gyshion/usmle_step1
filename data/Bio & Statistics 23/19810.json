@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "For a case-control study designed to investigate a possible association between endometriosis and systemic lupus erythematosus (SLE), 1,040 women with SLE and 1,260 women without SLE are selected. The investigators inquire about a history of endometriosis in both groups of women. Among women with SLE, 240 had a history of endometriosis: among women without SLE, 210 had a history of endometriosis. Which of the following is the estimated odds ratio of endometriosis in women with SLE compared to women without SLE?",
+    "zh": "为了调查子宫内膜异位症与系统性红斑狼疮（SLE）之间可能存在的关联，一项病例对照研究选取了 1040 名 SLE 患者和 1260 名非 SLE 患者。研究人员询问了两组女性的子宫内膜异位症病史。在 SLE 患者中，240 人有子宫内膜异位症病史；在非 SLE 患者中，210 人有子宫内膜异位症病史。以下哪项是 SLE 患者与非 SLE 患者相比，子宫内膜异位症的估计优势比？"
+  },
+  "question": {
+    "en": "Which of the following is the estimated odds ratio of endometriosis in women with SLE compared to women without SLE?",
+    "zh": "以下哪项是 SLE 患者与非 SLE 患者相比，子宫内膜异位症的估计优势比？"
+  },
+  "options": {
+    "A": {
+      "en": "0.1",
+      "zh": "0.1"
+    },
+    "B": {
+      "en": "0.7",
+      "zh": "0.7"
+    },
+    "C": {
+      "en": "0.8",
+      "zh": "0.8"
+    },
+    "D": {
+      "en": "1.2",
+      "zh": "1.2"
+    },
+    "E": {
+      "en": "1.5",
+      "zh": "1.5"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The odds of an event are related to the probability P of that event, with odds = P / (1 – P). For example, the probability of rolling a die and getting a 1 is 1/6, but the odds of rolling a 1 is 1/5. The **odds ratio (OR)** is a measure of association used in case-control studies to compare the **odds of exposure** in **cases** (ie, individuals with disease) relative to **controls** (ie, individuals without disease):\n\n**OR** = (odds of exposure in cases) / (odds of exposure in controls)\n\nA shortcut to calculate the OR when a contingency table has a standard format (ie, exposure of interest in the first row of exposure status and cases in the first column of disease status) is the following:\n\n**OR** = (a/c) / (b/d)\n\nIn this study, the **disease** of interest is **systemic lupus erythematosus** (SLE), so cases are women with SLE, and controls are women without SLE. The **exposure** of interest is a **history of endometriosis**. Given that 240 of 1,040 women with SLE had a history of endometriosis, 1,040 – 240 = 800 of women with SLE had no history of endometriosis. Given that 210 of 1,260 without SLE had a history of endometriosis, 1,260 – 210 = 1,050 of women without SLE had no history of endometriosis. Based on these data, the standard contingency table is as follows: {{exhibit_1}}\n\nThe odds of endometriosis in women with SLE and women without SLE are:\n\n*   **Odds** of endometriosis in **cases**: a/c = 240/800 = 0.3\n*   **Odds** of endometriosis in **controls**: b/d = 210/1,050 = 0.2\n\nTherefore, the OR of endometriosis in women with SLE compared to women without SLE is:\n\n**OR** = (odds of endometriosis in cases) / (odds of endometriosis in controls) = (a/c) / (b/d) = 0.3/0.2 = **1.5**\n\nThe estimated **OR = 1.5** is **>1** (ie, the null value for the OR); this indicates that a history of endometriosis acts as a **risk factor** for SLE.\n\nThis example calculated the OR of exposure (ie, odds of exposure among cases relative to controls). The OR is sometimes described as the odds of disease among exposed individuals relative to nonexposed individuals, given by (a/b) / (c/d). Both OR definitions are mathematically equivalent and reduce to OR = (ad) / (bc).\n\n**Educational objective:**\nThe odds ratio (OR) is a measure of association calculated as: OR = (odds of exposure in cases) / (odds of exposure in controls). For a contingency table in the standard format: OR = (ad) / (bc).",
+    "zh": "一个事件的几率与该事件的概率 P 相关，几率 = P / (1 – P)。例如，掷骰子得到 1 的概率是 1/6，但掷骰子得到 1 的几率是 1/5。**优势比 (OR)** 是病例对照研究中用来比较**病例**（即患有疾病的个体）相对于**对照组**（即未患有疾病的个体）的**暴露几率**的关联性指标：\n\n**OR** =（病例中暴露的几率）/（对照组中暴露的几率）\n\n当列联表具有标准格式（即，感兴趣的暴露在暴露状态的第一行，病例在疾病状态的第一列）时，计算 OR 的一个快捷方法如下：\n\n**OR** = (a/c) / (b/d)\n\n在本研究中，感兴趣的**疾病**是**系统性红斑狼疮** (SLE)，因此病例是患有 SLE 的女性，对照组是未患 SLE 的女性。感兴趣的**暴露**是**子宫内膜异位症病史**。考虑到 1040 名患有 SLE 的女性中有 240 人有子宫内膜异位症病史，则 1040 – 240 = 800 名患有 SLE 的女性没有子宫内膜异位症病史。考虑到 1260 名未患 SLE 的女性中有 210 人有子宫内膜异位症病史，则 1260 – 210 = 1050 名未患 SLE 的女性没有子宫内膜异位症病史。根据这些数据，标准列联表如下：{{exhibit_1}}\n\n患有 SLE 和未患 SLE 的女性发生子宫内膜异位症的几率是：\n\n*   **病例**中发生子宫内膜异位症的**几率**：a/c = 240/800 = 0.3\n*   **对照组**中发生子宫内膜异位症的**几率**：b/d = 210/1,050 = 0.2\n\n因此，患有 SLE 的女性与未患 SLE 的女性相比，子宫内膜异位症的 OR 为：\n\n**OR** =（病例中子宫内膜异位症的几率）/（对照组中子宫内膜异位症的几率）= (a/c) / (b/d) = 0.3/0.2 = **1.5**\n\n估计的 **OR = 1.5** **>1**（即，OR 的零值）；这表明子宫内膜异位症病史是 SLE 的一个**风险因素**。\n\n本例计算了暴露的 OR（即，病例中相对于对照组的暴露几率）。OR 有时被描述为暴露个体的疾病几率相对于未暴露个体，由 (a/b) / (c/d) 给出。这两种 OR 定义在数学上是等价的，并且简化为 OR = (ad) / (bc)。\n\n**教育目标：**\n优势比 (OR) 是一个关联性指标，计算方法为：OR =（病例中暴露的几率）/（对照组中暴露的几率）。对于标准格式的列联表：OR = (ad) / (bc)。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of case-control studies and the calculation of the odds ratio (OR) to assess the association between an exposure (endometriosis) and a disease (SLE). It requires the ability to construct a contingency table from the given data and apply the OR formula. \n\nTo solve this question, first identify the cases and controls, and the presence or absence of the exposure. Then, create a 2x2 contingency table and use the formula OR = (a/c) / (b/d) or OR = (ad)/(bc) to calculate the odds ratio. The calculated OR indicates the strength and direction of the association between the exposure and the disease.",
+    "zh": "本题考察了对病例对照研究的理解以及计算优势比 (OR) 以评估暴露（子宫内膜异位症）与疾病（SLE）之间的关联。它需要从给定的数据构建一个列联表并应用 OR 公式。\n\n要解决这个问题，首先要确定病例和对照组，以及是否存在暴露。然后，创建一个 2x2 的列联表，并使用公式 OR = (a/c) / (b/d) 或 OR = (ad)/(bc) 来计算优势比。计算出的 OR 表明暴露与疾病之间关联的强度和方向。"
+  },
+  "tags": "Case-control study; Odds ratio; Epidemiology; Systemic lupus erythematosus; Endometriosis; Statistical analysis; Research methodology",
+  "category": "Bio",
+  "question_id": "19810",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19810",
+  "extracted_at": "2025-11-05T11:15:02.229358",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:23:36.030181",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

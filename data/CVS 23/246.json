@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old man with a long history of hypertension comes to the clinic for a routine physical examination. Blood pressure is 150/90 mm Hg and pulse is 74/min and regular. Cardiac auscultation reveals a low-frequency, presystolic sound that immediately precedes S1 and is best heard during expiration when the patient is lying on his left side. Chest x-ray reveals extensive calcification around the mitral and aortic valves. Which of the following is the most likely explanation for the additional heart sound?",
+    "zh": "一名有高血压病史的62岁男性前来诊所进行例行体格检查。血压为150/90 mmHg，脉搏为74次/分钟，规律。心脏听诊显示一种低频、收缩前声音，紧接在S1之前，在呼气时、患者侧卧位时听诊最佳。胸部X光片显示二尖瓣和主动脉瓣周围广泛钙化。以下哪项最有可能解释这种额外的[心音]？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely explanation for the additional heart sound?",
+    "zh": "以下哪项最有可能解释这种额外的[心音]？"
+  },
+  "options": {
+    "A": {
+      "en": "Increased flow velocity through the aortic valve",
+      "zh": "主动脉瓣的血流速度增加"
+    },
+    "B": {
+      "en": "Increased stiffness of the left ventricular wall",
+      "zh": "左心室壁僵硬度增加"
+    },
+    "C": {
+      "en": "Rapid passive filling of the ventricles",
+      "zh": "心室的快速被动充盈"
+    },
+    "D": {
+      "en": "Restricted motion of the aortic valve cusps",
+      "zh": "主动脉瓣叶的活动受限"
+    },
+    "E": {
+      "en": "Systolic anterior motion of the mitral valve",
+      "zh": "二尖瓣的收缩期前向运动"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has an S4 (low-frequency sound occurring just before S1), which is most likely secondary to concentric left ventricular hypertrophy (LVH) from longstanding hypertension (hypertensive heart disease). The calcifications revealed on chest x-ray likely represent degenerative mitral and aortic valve calcification, which is age related and typically accelerated by systemic hypertension.\n\nAn S4 is a sign of diastolic dysfunction. It occurs due to blood striking a stiffened ventricular wall during atrial contraction at the end of diastole. An S4 may be present in any condition that causes reduced ventricular compliance (eg, hypertensive heart disease, restrictive cardiomyopathy, acute myocardial infarction). A left-sided S4 is best heard with the bell of the stethoscope over the cardiac apex with the patient in the left lateral decubitus position; it will intensify during expiration due to increased blood flow from the lungs to the left atrium. {{exhibit_1}}",
+    "zh": "该患者有S4（发生在S1之前的低频声音），这很可能是由于长期高血压（高血压性心脏病）引起的向心性左心室肥大(LVH)。胸部X光片显示的钙化可能代表退行性二尖瓣和主动脉瓣钙化，这与年龄相关，通常会因全身性高血压而加速。\n\nS4是舒张功能障碍的征象。它发生在血液在舒张末期的心房收缩过程中撞击僵硬的心室壁时。S4可能存在于任何导致心室顺应性降低的疾病中（例如，高血压性心脏病、限制性心肌病、急性心肌梗死）。左侧S4在用听诊器的钟形部分在心尖处听诊最佳，患者呈左侧卧位；由于肺部到左心房的血流量增加，它会在呼气时加强。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "The patient presents with a presystolic heart sound (S4) and findings suggestive of left ventricular hypertrophy and valve calcification, consistent with hypertensive heart disease. An S4 is caused by atrial contraction against a stiffened ventricle, leading to diastolic dysfunction.",
+    "zh": "患者出现收缩前心音(S4)和提示左心室肥大和瓣膜钙化的发现，这与高血压性心脏病一致。S4是由心房收缩对抗僵硬的心室引起的，导致舒张功能障碍。"
+  },
+  "tags": [
+    "cardiology",
+    "hypertension",
+    "heart sounds",
+    "S4",
+    "diastolic dysfunction",
+    "left ventricular hypertrophy"
+  ],
+  "category": "CVS",
+  "question_id": "246",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\246",
+  "extracted_at": "2025-11-05T19:55:29.007291",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T17:29:20.059701",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

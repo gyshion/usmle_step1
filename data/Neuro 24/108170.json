@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A newborn boy is being evaluated in the nursery. The patient was born at term via spontaneous vaginal delivery. A cystic lesion is noted overlying the lumbosacral spine region. The remainder of the physical examination is unremarkable. Ultrasound imaging confirms a neural tube defect. The mother had no prenatal care, and further discussion reveals that she took a medication known to be teratogenic during pregnancy. Exposure to the medication most likely occurred during which of the following weeks of embryonic development? {{exhibit_1}}",
+    "zh": "一名新生男婴正在育婴室接受评估。患者足月经阴道自然分娩。注意到腰骶椎区域上方有一个囊性病变。其余体格检查无特殊。超声成像证实了神经管缺陷。母亲没有进行产前护理，进一步讨论表明她在怀孕期间服用了一种已知具有致畸性的药物。这种药物的暴露最有可能发生在胚胎发育的以下哪几周？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Exposure to the medication most likely occurred during which of the following weeks of embryonic development?",
+    "zh": "这种药物的暴露最有可能发生在胚胎发育的以下哪几周？"
+  },
+  "options": {
+    "A": {
+      "en": "The week prior to fertilization",
+      "zh": "受精前一周"
+    },
+    "B": {
+      "en": "Week 1",
+      "zh": "第 1 周"
+    },
+    "C": {
+      "en": "Week 4",
+      "zh": "第 4 周"
+    },
+    "D": {
+      "en": "Week 16",
+      "zh": "第 16 周"
+    },
+    "E": {
+      "en": "Week 32",
+      "zh": "第 32 周"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The correct answer is C. The patient has a neural tube defect, which is a congenital anomaly that develops during the embryonic stage of fetal development, specifically between 3-8 weeks after fertilization (ie, weeks 5-10 of gestation). During this crucial time, the embryo is undergoing ORGANOGENESIS, or rapid cell division and differentiation of all major organ systems, making it particularly SUSCEPTIBLE TO TERATOGENS. The beginning of the embryonic stage is marked by gastrulation, which establishes 3 distinct cell layers: ectoderm, mesoderm, and endoderm. All tissues and organs are derived from these 3 layers. Structures formed by the end of the embryonic stage include the gastrointestinal tract and lungs (endoderm); the heart, kidneys, and spleen (mesoderm); and the skin and central nervous system (ectoderm). The central nervous system develops via neurulation during the third and fourth weeks. During neurulation, the neural plate forms from the ectoderm, and the lateral edges of the plate (neural folds) migrate toward the midline and fuse. Fusion begins in the cervical region and extends rostrally and caudally, forming the neural tube (precursor to the brain and spinal cord). The ends, or neuropores, close at the end of the fourth week. In this case, exposure to a teratogenic medication (eg, folic acid antagonist such as valproic acid) likely occurred during NEURULATION, interfering with caudal neural tube closure and causing a NEURAL TUBE DEFECT. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}\n\n(Choices A and B) Fertilization is the process by which the male and female gametes form a zygote. The zygote transforms into a blastocyst, which implants in the uterine wall approximately 1 week after fertilization. Significant teratogenic exposure prior to gastrulation usually results in spontaneous abortion or no abnormalities, as the undamaged pluripotent cells can fully compensate if enough survive.\n\n(Choices D and E) The central nervous system matures throughout pregnancy and can be affected by teratogens beyond the first 8 weeks (eg, alcohol causing fetal alcohol syndrome). However, defects related to neural tube formation (neurulation) occur only during the early embryonic period.",
+    "zh": "正确答案是 C。患者患有神经管缺陷，这是一种在胎儿发育的胚胎期发生的先天性异常，具体发生在受精后 3-8 周（即妊娠第 5-10 周）。在这个关键时期，胚胎正在经历器官发生，即所有主要器官系统的快速细胞分裂和分化，这使得它特别容易受到致畸物的影响。胚胎期的开始以原肠胚形成作为标志，它建立了 3 个不同的细胞层：外胚层、中胚层和内胚层。所有组织和器官都源于这 3 层。胚胎期结束时形成的结构包括胃肠道和肺（内胚层）；心脏、肾脏和脾脏（中胚层）；以及皮肤和中枢神经系统（外胚层）。中枢神经系统在第三和第四周通过神经胚形成而发育。在神经胚形成期间，神经板由外胚层形成，并且板的侧缘（神经褶）向中线移动并融合。融合始于颈部区域，并向头端和尾端延伸，形成神经管（大脑和脊髓的前体）。末端，即神经孔，在第四周末闭合。在这种情况下，接触致畸药物（例如，叶酸拮抗剂，如丙戊酸）很可能发生在神经胚形成期间，干扰尾部神经管闭合并导致神经管缺陷。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}}\n\n（选项 A 和 B）受精是男性和女性配子形成合子的过程。合子转变为胚泡，在大约受精后 1 周植入子宫壁。在原肠胚形成之前的显着致畸物暴露通常会导致自然流产或没有异常，因为未受损的多能细胞如果存活足够多就可以完全代偿。\n\n（选项 D 和 E）中枢神经系统在整个妊娠期间成熟，并且可能受到超过前 8 周的致畸物的影响（例如，酒精导致胎儿酒精综合征）。但是，与神经管形成（神经胚形成）相关的缺陷仅发生在早期胚胎期。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the critical periods of embryonic development and the susceptibility of organogenesis to teratogenic exposures, specifically in the context of neural tube defects.\n\nTo solve this question, one must correlate the timing of neural tube formation with the known sensitive periods for teratogen exposure. Understanding that major organ system development, including the central nervous system, occurs early in embryonic development is key to identifying the correct time window.",
+    "zh": "这个问题测试了对胚胎发育的关键时期以及器官发生对致畸物暴露的易感性的知识，特别是在神经管缺陷的背景下。\n\n要解决这个问题，必须将神经管形成的时间与已知的致畸物暴露敏感期相关联。了解包括中枢神经系统在内的主要器官系统发育发生在胚胎发育的早期是确定正确时间窗口的关键。"
+  },
+  "tags": "Embryonic development; Teratogens; Neural tube defect; Organogenesis; Neurulation; Pregnancy; Congenital anomalies",
+  "category": "Neuro",
+  "question_id": "108170",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\108170",
+  "extracted_at": "2025-11-05T19:31:05.216061",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:30:41.199355",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

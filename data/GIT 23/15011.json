@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 60-year-old man is found to have a 5-cm exophytic mass in the ascending colon during a screening colonoscopy. Biopsy of the mass shows adenocarcinoma. The patient has no personal or family history of malignancy or colonic polyps. His medical problems include hypertension, and he does not use tobacco or alcohol. CT scan of the chest and abdomen reveals no metastatic lesions in the lungs or liver. A right colectomy is performed. The presence of which of the following indicates a poor prognosis in this patient?",
+    "zh": "一名60岁男性在筛查性结肠镜检查中发现升结肠有一个5厘米的向外生长肿块。肿块活检显示为腺癌。该患者无恶性肿瘤或结肠息肉的个人史或家族史。他的健康问题包括高血压，并且不吸烟或饮酒。胸部和腹部CT扫描未发现肺或肝脏的转移病灶。进行了右半结肠切除术。以下哪一项的存在表明该患者预后不良？"
+  },
+  "question": {
+    "en": "The presence of which of the following indicates a poor prognosis in this patient?",
+    "zh": "以下哪一项的存在表明该患者预后不良？"
+  },
+  "options": {
+    "A": {
+      "en": "Abundant, well-formed glands in the tumor",
+      "zh": "肿瘤内腺体丰富，形成良好"
+    },
+    "B": {
+      "en": "Cytokeratin expression by the malignant cells",
+      "zh": "恶性细胞表达细胞角蛋白"
+    },
+    "C": {
+      "en": "Malignant cells invading the lamina propria",
+      "zh": "恶性细胞侵入固有层"
+    },
+    "D": {
+      "en": "Prominent lymphocyte infiltration of the tumor",
+      "zh": "肿瘤的淋巴细胞浸润明显"
+    },
+    "E": {
+      "en": "Tumor cell deposits in the regional lymph nodes",
+      "zh": "肿瘤细胞沉积于区域淋巴结"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Lymph node stage is the single most important prognostic factor for colorectal cancer. Tumor cells confined to the basement membrane and lamina propria are early stage and have the best prognosis. Outcomes generally deteriorate as the stage advances: spread of tumor into the muscularis propria > regional lymph nodes > distant sites. {{exhibit_1}}\n\nThe degree of tumor invasion and spread from the initial site of formation. Colorectal tumors confined to the basement membrane or lamina propria are considered to be carcinoma in situ and have an excellent 5-year survival rate (>90%). Invasion of the tumor into the muscularis propria, the location of the colonic lymphatic channels, is associated with a slightly worse prognosis (5-year survival rate of 70%-80%) due to elevated rates of tumor spread through lymphatics or to adjacent organs.\n\nThe prognosis of colon cancer deteriorates when tumor cells are identified in regional lymph nodes (5-year survival rate of 50%-80%). LYMPH NODE SPREAD is thought to be one of the strongest predictors of metastatic potential and, therefore, indicates an INCREASED risk for incurable, distant disease. Metastatic spread to distant organs (eg, lungs, liver) is associated with the worst 5-year survival rates (<15%).\n\n(Choice A) Tumor grade, the degree of cellular differentiation of tumor cells, also affects prognosis. Well-differentiated (low-grade) colonic tumors have glandular structure and are associated with a better prognosis than poorly differentiated (high-grade) colonic tumors, which appear as sheets or cords of cells with pleomorphism, high mitotic rates, and other signs of significant cellular aberration. Grade is a less important prognostic indicator than stage.\n\n(Choice B) Cytokeratin 20 is a marker of intestinal cell differentiation. Testing for the presence of this structural protein helps confirm that adenocarcinomas are of intestinal origin; it is not a prognostic indicator.\n\n(Choice C) The invasion of colorectal cancer into the lamina propria is considered to be carcinoma in situ because lymphatic channels do not arise until the subsequent layer (muscularis propria). Patients with colorectal tumors confined to the basement membrane or lamina propria have an excellent prognosis.\n\n(Choice D) Cytotoxic T-cell (lymphocytic) invasion of tumor cells is a favorable prognostic indicator as it signifies immune recognition. It is associated with a lower risk of metastases and improved survival.",
+    "zh": "淋巴结分期是结直肠癌最重要的预后因素。局限于基底膜和固有层的肿瘤细胞处于早期阶段，预后最好。随着分期的进展，结果通常会恶化：肿瘤扩散到肌层 > 区域淋巴结 > 远处部位。{{exhibit_1}}\n\n肿瘤从初始形成部位的侵袭和扩散程度。局限于基底膜或固有层的结直肠肿瘤被认为是原位癌，具有极好的5年生存率（>90%）。肿瘤侵入肌层（结肠淋巴管的部位）与略差的预后相关（5年生存率为70%-80%），这是由于肿瘤通过淋巴管或扩散到邻近器官的几率升高。\n\n当在区域淋巴结中识别出肿瘤细胞时，结肠癌的预后会恶化（5年生存率为50%-80%）。淋巴结扩散被认为是转移潜能的最强预测指标之一，因此表明不可治愈的远处疾病的风险增加。转移到远处器官（例如，肺、肝）与最差的5年生存率（<15%）相关。\n\n（选项A）肿瘤分级，即肿瘤细胞的细胞分化程度，也会影响预后。分化良好的（低级别）结肠肿瘤具有腺体结构，与分化不良（高级别）结肠肿瘤相比，预后更好，后者表现为细胞异形性、高有丝分裂率和其他明显细胞异常迹象的细胞片或细胞索。分级是一个不如分期重要的预后指标。\n\n（选项B）细胞角蛋白20是肠细胞分化的标志物。检测这种结构蛋白的存在有助于确认腺癌起源于肠道；它不是预后指标。\n\n（选项C）结直肠癌侵入固有层被认为是原位癌，因为淋巴管直到随后的层（肌层）才出现。患有局限于基底膜或固有层的结直肠肿瘤的患者具有极好的预后。\n\n（选项D）细胞毒性T细胞（淋巴细胞）侵入肿瘤细胞是一个有利的预后指标，因为它表明免疫识别。它与较低的转移风险和改善的生存率相关。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of colorectal cancer staging and prognostic factors. The most important prognostic factor is lymph node involvement, which indicates a higher risk of metastasis and poorer survival. \n\nTo answer this question, recall the TNM staging system for colorectal cancer and the significance of lymph node involvement. Eliminate options that represent earlier stages or favorable prognostic indicators.",
+    "zh": "这个问题测试对结直肠癌分期和预后因素的了解。最重要的预后因素是淋巴结受累，这表明转移的风险更高，生存率更低。\n\n为了回答这个问题，回忆结直肠癌的TNM分期系统以及淋巴结受累的意义。排除代表早期阶段或有利预后指标的选项。"
+  },
+  "tags": "Colorectal cancer; Adenocarcinoma; Tumor staging; Lymph node metastasis; Prognosis; Oncology; Surgical oncology; TNM staging; Cancer staging; {{exhibit_2}}",
+  "category": "GIT",
+  "question_id": "15011",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\15011",
+  "extracted_at": "2025-11-05T14:24:52.934611",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:51:55.016689",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

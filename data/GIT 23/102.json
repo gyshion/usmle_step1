@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 54-year-old man with a history of hepatitis C infection is brought to the emergency department by his wife after several episodes of vomiting bright red blood. He is admitted to the hospital and the appropriate treatment is initiated. During morning rounds the next day, the patient is disoriented and cannot identify the month or his current location. Physical examination shows significant abdominal distention and gynecomastia. Repetitive flicking motions of the hands are seen when the patient is asked to outstretch his arms and dorsiflex his wrists.",
+    "zh": "一名54岁男性，有丙型肝炎病史，因多次呕吐鲜红色血液被妻子送至急诊科。他被收治入院并开始适当的治疗。第二天早晨查房时，患者定向力障碍，无法确定月份或目前位置。体格检查显示腹部明显膨隆和男性乳房发育。当要求患者伸展手臂并背屈手腕时，可以看到手部重复的扑动动作。"
+  },
+  "question": {
+    "en": "Which of the following is most likely contributing to this patient's altered mental status?",
+    "zh": "以下哪项最有可能导致该患者精神状态改变？"
+  },
+  "options": {
+    "A": {
+      "en": "Accumulation of blood urea nitrogen",
+      "zh": "血尿素氮蓄积"
+    },
+    "B": {
+      "en": "Bacterial infection of the meninges",
+      "zh": "脑膜细菌感染"
+    },
+    "C": {
+      "en": "Decreased gamma-aminobutyric acid receptor stimulation",
+      "zh": "γ-氨基丁酸受体刺激减少"
+    },
+    "D": {
+      "en": "Increased absorption of nitrogenous substances by the gut",
+      "zh": "肠道对含氮物质的吸收增加"
+    },
+    "E": {
+      "en": "Occlusion of the middle cerebral artery",
+      "zh": "大脑中动脉闭塞"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with cirrhosis (hepatitis C infection, abdominal distention, gynecomastia) most likely developed hepatic encephalopathy due to his recent gastrointestinal (GI) bleed. Hepatic encephalopathy refers to a reversible decline in neurologic function that occurs due to failure of the liver to metabolize waste products such as ammonia. Ammonia is normally produced by the GI tract as a result of enterocytic catabolism of glutamine and colonic bacterial catabolism of dietary protein. GI bleeding causes increased nitrogen delivery to the gut in the form of hemoglobin, which is then converted into ammonia and absorbed into the bloodstream. The ammonia then enters the liver through the portal vein and is detoxified to urea.\n\nIn chronic liver failure, hepatocyte dysfunction and the shunting of blood through portosystemic collaterals impair the liver's detoxification ability. This leads to accumulation of ammonia and other neurotoxins in the circulation, causing altered amino acid transport across the blood-brain barrier, impaired neurotransmitter metabolism, and depressed cerebral glucose metabolism. These and other factors result in increased inhibitory neurotransmission (eg, γ-aminobutyric acid [GABA]) and impaired excitatory neurotransmitter release (eg, glutamate, catecholamines).\n\nIn patients with hepatic encephalopathy, lowering of blood ammonia levels is typically accomplished with oral administration of a disaccharide (eg, lactulose). Bacterial action on lactulose results in acidification of colonic contents, which then converts absorbable ammonia into nonabsorbable ammonium ions, trapping it in the stool and thereby increasing fecal nitrogen excretion.\n\n(Choice A) Accumulation of blood urea nitrogen (BUN) is suggestive of renal failure, heart failure, or dehydration. In healthy patients, GI bleeding can also cause a rapid increase in BUN. However, this patient has cirrhosis, which is associated with decreased BUN because ammonia cannot be efficiently converted to urea by the failing liver.\n\n(Choice B) Bacterial meningitis presents with altered mental status, fever, nuchal rigidity, headache, and photophobia. In addition, asterixis (flapping tremor) is specific for metabolic encephalopathies.\n\n(Choice C) The altered mental status seen in hepatic encephalopathy is due to increased (not decreased) activity of the GABA neurotransmitter system. This enhanced activity is caused by increased GABA receptor affinity and alterations in neurosteroid synthesis rather than increased GABA production.\n\n(Choice E) The middle cerebral artery is the largest cerebral artery and the one most commonly involved in cerebrovascular accidents. This patient's presentation is suggestive of hepatic encephalopathy rather than stroke.\n\nEducational objective:\nHepatic encephalopathy is caused by increased levels of ammonia and other neurotoxins in the circulation that lead to increased inhibitory neurotransmission and impaired excitatory neurotransmitter release. Hepatic encephalopathy is frequently precipitated by a stressor (eg, gastrointestinal bleeding, infection) that increases blood ammonia levels.",
+    "zh": "这位患有肝硬化（丙型肝炎感染、腹胀、男性乳房发育症）的患者很可能由于近期胃肠道（GI）出血而发展为肝性脑病。肝性脑病是指由于肝脏无法代谢废物（如氨）而导致的可逆神经功能下降。氨通常由胃肠道产生，是肠细胞对谷氨酰胺分解代谢和结肠细菌对膳食蛋白质分解代谢的结果。胃肠道出血导致以血红蛋白形式向肠道输送的氮增加，然后血红蛋白转化为氨并被吸收到血液中。氨通过门静脉进入肝脏并被解毒为尿素。\n\n在慢性肝功能衰竭中，肝细胞功能障碍和血液通过门体侧支循环分流会损害肝脏的解毒能力。这会导致循环中氨和其他神经毒素的蓄积，导致氨基酸跨血脑屏障转运改变、神经递质代谢受损和脑葡萄糖代谢降低。这些和其他因素导致抑制性神经传递增加（例如，γ-氨基丁酸[GABA]）和兴奋性神经递质释放受损（例如，谷氨酸、儿茶酚胺）。\n\n在肝性脑病患者中，降低血氨水平通常通过口服二糖（例如，乳果糖）来实现。乳果糖上的细菌作用导致结肠内容物酸化，然后将可吸收的氨转化为不可吸收的铵离子，将其滞留在粪便中，从而增加粪氮排泄。\n\n（选项A）血尿素氮（BUN）蓄积提示肾衰竭、心力衰竭或脱水。在健康患者中，胃肠道出血也会导致BUN迅速升高。然而，该患者患有肝硬化，这与BUN降低有关，因为肝功能衰竭的肝脏无法有效地将氨转化为尿素。\n\n（选项B）细菌性脑膜炎表现为精神状态改变、发热、颈项强直、头痛和畏光。此外，扑翼样震颤（扑动性震颤）是代谢性脑病的特异性表现。\n\n（选项C）肝性脑病中出现精神状态改变是由于GABA神经递质系统活性增加（而非降低）所致。这种增强的活性是由GABA受体亲和力增加和神经类固醇合成改变引起的，而不是GABA产生增加。\n\n（选项E）大脑中动脉是最大的脑动脉，也是最常涉及脑血管意外的动脉。该患者的表现提示肝性脑病而不是中风。\n\n教育目标：\n肝性脑病是由循环中氨和其他神经毒素水平升高引起的，导致抑制性神经传递增加和兴奋性神经递质释放受损。肝性脑病经常由增加血氨水平的应激源（例如，胃肠道出血、感染）诱发。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hepatic encephalopathy, its pathophysiology related to ammonia accumulation, and clinical presentation including asterixis. It also tests the ability to differentiate hepatic encephalopathy from other causes of altered mental status.\n\nTo solve this question, recognize the signs of liver disease (gynecomastia, abdominal distention), the precipitating factor (GI bleed), and the specific neurological finding (asterixis). Consider the mechanism of ammonia accumulation and its effect on neurotransmission.",
+    "zh": "这个问题考察了对肝性脑病的了解，包括其与氨蓄积相关的病理生理学以及包括扑翼样震颤在内的临床表现。它还考察了将肝性脑病与其他原因引起精神状态改变区分开来的能力。\n\n要解决这个问题，需要认识到肝病的体征（男性乳房发育症、腹胀）、诱发因素（胃肠道出血）和特定的神经学发现（扑翼样震颤）。考虑氨蓄积的机制及其对神经传递的影响。"
+  },
+  "tags": "Hepatic encephalopathy; Liver cirrhosis; Ammonia; Asterixis; Gastrointestinal bleeding; Neurotransmission; GABA; Lactulose; Metabolic encephalopathy; Hepatology",
+  "category": "GIT",
+  "question_id": "102",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\102",
+  "extracted_at": "2025-11-05T14:21:38.377030",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:49:31.354882",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

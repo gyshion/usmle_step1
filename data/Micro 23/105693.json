@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old woman is hospitalized due to abdominal pain and fever. She has had increasing dull pain in the right upper quadrant, malaise, and anorexia for the past 2 weeks. The patient has no prior medical conditions. She drinks alcohol occasionally but does not use tobacco or recreational drugs. She lives in the northeastern United States and traveled to East Africa 2 months ago. Physical examination shows right upper quadrant tenderness. Ultrasonography reveals a 3-cm right liver lobe abscess. Serology for *Entamoeba histolytica* is positive. Treatment with metronidazole is started, and paromomycin will be added.",
+    "zh": "一名34岁的女性因腹痛和发热住院。她在过去2周内出现右上腹钝痛加重、不适和食欲不振。该患者既往无任何疾病史。她偶尔饮酒，但不吸烟或使用娱乐性药物。她居住在美国东北部，2个月前曾前往东非旅行。体格检查显示右上腹压痛。超声检查显示右肝叶有3厘米脓肿。溶组织内阿米巴（*Entamoeba histolytica*）血清学检查呈阳性。开始使用甲硝唑治疗，并将加用巴龙霉素。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely reason for the use of paromomycin in this patient?",
+    "zh": "在这种情况下，以下哪项是使用巴龙霉素最可能的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Eradication of pathogens in the intestinal lumen",
+      "zh": "清除肠腔内的病原体"
+    },
+    "B": {
+      "en": "Increasing tissue concentration of metronidazole",
+      "zh": "增加甲硝唑的组织浓度"
+    },
+    "C": {
+      "en": "Prevention of a disulfiram-like reaction",
+      "zh": "预防双硫仑样反应"
+    },
+    "D": {
+      "en": "Synergistic killing of trophozoites",
+      "zh": "协同杀灭滋养体"
+    },
+    "E": {
+      "en": "Treatment of potential *Cryptosporidium* coinfection",
+      "zh": "治疗潜在的*隐孢子虫*合并感染"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Paromomycin travels through the gastrointestinal tract to reach the colon, where it acts locally within the lumen to eliminate cysts. Paromomycin has limited systemic absorption, so it does not affect tissue concentration or trophozoite killing.\n\n(Choice C) A disulfiram-like reaction (eg, flushing, tachycardia, vomiting) may potentially occur with concomitant use of metronidazole and ethanol, but paromomycin administration does not prevent this reaction.\n\n(Choice E) Paromomycin is a second-line agent for *Cryptosporidium* infection, which typically causes watery diarrhea with no extraintestinal manifestations. The first-line agent for *Cryptosporidium* is nitazoxanide.\n\nEducational objective:\nSymptomatic *Entamoeba histolytica* infection must be treated with a tissue agent followed by an intraluminal agent. Tissue agents (eg, metronidazole) kill trophozoites responsible for symptomatic disease, and intraluminal agents (eg, paromomycin) eradicate intestinal cyst carriage.",
+    "zh": "巴龙霉素通过胃肠道到达结肠，在那里它在腔内局部作用以清除包囊。巴龙霉素的全身吸收有限，因此它不会影响组织浓度或滋养体杀灭。\n\n(选项 C) 双硫仑样反应（如潮红、心动过速、呕吐）可能与甲硝唑和乙醇的合用有关，但巴龙霉素的给药并不能阻止这种反应。\n\n(选项 E) 巴龙霉素是*隐孢子虫*感染的二线药物，通常会导致水样腹泻，无肠外表现。*隐孢子虫*的一线药物是硝唑尼特。\n\n教学目标：\n有症状的溶组织内阿米巴（*Entamoeba histolytica*）感染必须使用组织药物治疗，然后使用管腔内药物治疗。组织药物（如甲硝唑）可杀灭引起症状性疾病的滋养体，而管腔内药物（如巴龙霉素）可根除肠道包囊携带。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the treatment strategy for *Entamoeba histolytica* infection, specifically the role of intraluminal agents like paromomycin in eradicating intestinal cysts after initial treatment with a tissue agent like metronidazole.\n\nThe key to solving this question is recognizing that *Entamoeba histolytica* treatment involves a two-phase approach: first targeting trophozoites with a tissue agent, then eradicating intestinal cysts with an intraluminal agent to prevent reinfection.",
+    "zh": "本题考察对溶组织内阿米巴（*Entamoeba histolytica*）感染治疗策略的了解，特别是管腔内药物（如巴龙霉素）在初始使用组织药物（如甲硝唑）治疗后根除肠道包囊的作用。\n\n解决此问题的关键是认识到溶组织内阿米巴（*Entamoeba histolytica*）的治疗涉及一个两阶段的方法：首先用组织药物靶向滋养体，然后用管腔内药物根除肠道包囊以防止再感染。"
+  },
+  "tags": "Amebiasis; Entamoeba histolytica; Metronidazole; Paromomycin; Intestinal infection; Liver abscess; Infectious disease; Gastroenterology; Parasitology",
+  "category": "Micro",
+  "question_id": "105693",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\105693",
+  "extracted_at": "2025-11-05T14:48:51.094786",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:04:05.779855",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

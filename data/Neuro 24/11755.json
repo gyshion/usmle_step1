@@ -1,0 +1,70 @@
+{
+  "question_stem": {
+    "en": "A researcher is investigating a new antiseizure drug that binds to and activates GABA-A receptors in the central nervous system. During the experiment, she isolates a nerve and uses a microelectrode to measure its membrane potential under physiologic conditions. The resting potential of the nerve is found to be −70 mV.",
+    "zh": "一名研究人员正在研究一种新的抗癫痫药物，该药物与中枢神经系统中GABA-A受体结合并激活它们。在实验过程中，她分离出一条神经，并使用微电极在生理条件下测量其膜电位。发现该神经的静息电位为-70 mV。"
+  },
+  "question": {
+    "en": "Which of the following membrane potentials will most likely be recorded from this neuron following exposure to the new drug?",
+    "zh": "在暴露于新药后，最有可能从该神经元记录到的膜电位是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "−75 mV",
+      "zh": "-75 mV"
+    },
+    "B": {
+      "en": "−70 mV",
+      "zh": "-70 mV"
+    },
+    "C": {
+      "en": "−55 mV",
+      "zh": "-55 mV"
+    },
+    "D": {
+      "en": "0 mV",
+      "zh": "0 mV"
+    },
+    "E": {
+      "en": "+25 mV",
+      "zh": "+25 mV"
+    },
+    "F": {
+      "en": "+40 mV",
+      "zh": "+40 mV"
+    },
+    "G": {
+      "en": "+60 mV",
+      "zh": "+60 mV"
+    },
+    "H": {
+      "en": "+125 mV",
+      "zh": "+125 mV"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The GABA-A receptor is an ionotropic receptor (eg, part of an ion channel) that regulates the flow of negatively charged chloride ions across the neuronal cell membrane. A drug that binds to and activates GABA-A receptors will increase the conductance of chloride ions, causing passive transport down the concentration gradient into the cell interior. This causes the membrane potential to become HYPERPOLARIZED (more negative than the resting membrane potential) by approaching or reaching the EQUILIBRIUM POTENTIAL for chloride (−75 mV). A cell that becomes hyperpolarized is temporarily made refractory to firing an action potential.\n\n(Choice A) Exposure to the experimental drug will make the neuronal membrane potential more negative than the resting potential due to the opening of chloride channels.\n\n(Choice B) The opening of ligand-gated (controlled by binding of neurotransmitters) sodium channels allows for the initial influx of positively charged sodium ions. This causes a graded depolarization of the neuronal cell membrane toward the threshold for firing an action potential (−55 mV).\n\n(Choices C, D, E, and F) Once the threshold potential is reached, fast voltage-gated sodium channels open to mediate the upstroke phase of the neuronal action potential. During this time, the membrane potential becomes even more positive due to the rapid influx of sodium ions and causes the membrane potential to approach the equilibrium potential for sodium (+60 mV).\n\n(Choice G) The influx of positively charged calcium ions can raise the membrane potential even further (more positive than +60 mV) toward the equilibrium potential for calcium ions (+125 mV).\n\nEducational objective:\nA drug that binds to and activates GABA-A receptors (or enhances their activity) will increase the conductance of chloride ions, leading to increased passive transport of chloride into the cell interior. This causes the membrane potential to become HYPERPOLARIZED (more negative than the resting membrane potential) by approaching or reaching the equilibrium potential for chloride.\n\nReferences",
+    "zh": "GABA-A受体是一种离子型受体（例如，离子通道的一部分），调节带负电的氯离子跨神经元细胞膜的流动。一种与GABA-A受体结合并激活它们的药物将增加氯离子的电导，导致其顺浓度梯度被动转运到细胞内部。这导致膜电位变得超极化（比静息膜电位更负），接近或达到氯的平衡电位（-75 mV）。超极化的细胞暂时变得对激发动作电位不应答。\n\n（选项A）暴露于实验药物将使神经元膜电位比静息电位更负，这是由于氯离子通道的开放。\n\n（选项B）配体门控（由神经递质结合控制）钠离子通道的开放允许带正电的钠离子初始内流。这导致神经元细胞膜逐渐去极化，朝向激发动作电位的阈值（-55 mV）。\n\n（选项C、D、E和F）一旦达到阈电位，快速电压门控钠离子通道开放，介导神经元动作电位的上升相。在此期间，由于钠离子的快速内流，膜电位变得更加正，导致膜电位接近钠的平衡电位（+60 mV）。\n\n（选项G）带正电的钙离子的内流可以使膜电位进一步升高（比+60 mV更正），接近钙离子的平衡电位（+125 mV）。\n\n教育目标：\n一种与GABA-A受体结合并激活它们的药物（或增强其活性）将增加氯离子的电导，导致氯离子向细胞内部的被动转运增加。这导致膜电位变得超极化（比静息膜电位更负），接近或达到氯的平衡电位。\n\n参考文献"
+  },
+  "summary": {
+    "en": "This question tests the understanding of how GABA-A receptor activation affects neuronal membrane potential. Specifically, it assesses knowledge of the ion responsible for GABAergic signaling (chloride), the direction of ion flow upon receptor activation, and the resulting change in membrane potential (hyperpolarization) relative to the resting potential and the equilibrium potential for that ion.\n\nTo solve this question, one must recall that GABA-A receptors are chloride channels. Activation of these receptors leads to chloride influx, making the inside of the cell more negative. The resulting membrane potential will move towards the equilibrium potential for chloride, which is typically more negative than the resting membrane potential.",
+    "zh": "本题测试对GABA-A受体激活如何影响神经元膜电位的理解。具体而言，它评估了对负责GABA能信号传导的离子（氯离子）、受体激活后离子流动的方向以及由此产生的膜电位变化（超极化）相对于静息电位和该离子平衡电位的知识。\n\n要解决这个问题，必须回忆起GABA-A受体是氯离子通道。激活这些受体导致氯离子内流，使细胞内部变得更负。产生的膜电位将向氯离子的平衡电位移动，该电位通常比静息膜电位更负。"
+  },
+  "tags": "GABA-A receptor; Neurotransmitter; Ion channel; Membrane potential; Hyperpolarization; Equilibrium potential; Chloride ions; Central nervous system; Pharmacology; Electrophysiology",
+  "category": "Neuro",
+  "question_id": "11755",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\11755",
+  "extracted_at": "2025-11-05T19:32:20.930862",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:31:31.539962",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

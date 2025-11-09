@@ -1,0 +1,73 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old man comes to the clinic due to headache and progressive facial weakness. The patient's headaches began 2 months ago and are characterized as throbbing. They are typically worse in the morning and when he bears down or coughs. He has had no recent head trauma or loss of consciousness. The patient has a history of hypertension for which he takes lisinopril. He does not use tobacco, alcohol, or illicit drugs. Vital signs are normal. On physical examination, there is flattening of the nasolabial fold and drooping of the left lower lip. The patient cannot fully close his left eye. MRI of the brain {{exhibit_1}} reveals a well-circumscribed homogenously enhancing mass in the posterior fossa that is compressing the left facial nerve root.",
+    "zh": "一名55岁的男性因头痛和进行性面部无力前来就诊。患者的头痛始于2个月前，其特征为搏动性。通常在早上以及用力或咳嗽时加重。他最近没有头部外伤或意识丧失。患者有高血压病史，正在服用赖诺普利。他不吸烟、不饮酒，也不使用非法药物。生命体征正常。体格检查显示鼻唇沟变平，左下唇下垂。患者无法完全闭合左眼。脑部MRI {{exhibit_1}}显示后颅窝中有一个边界清楚、均匀增强的肿块，压迫左侧面神经根。"
+  },
+  "question": {
+    "en": "Which of the following additional findings is most likely present on this patient's neurologic examination?",
+    "zh": "该患者的神经系统检查中最有可能出现以下哪种附加发现？"
+  },
+  "options": {
+    "A": {
+      "en": "\"Down and out\" eye deviation",
+      "zh": "眼球“向下向外”偏斜"
+    },
+    "B": {
+      "en": "Hoarseness of voice",
+      "zh": "声音嘶哑"
+    },
+    "C": {
+      "en": "Increased sensitivity to sound",
+      "zh": "对声音的敏感度增加"
+    },
+    "D": {
+      "en": "Loss of facial sensation",
+      "zh": "面部感觉丧失"
+    },
+    "E": {
+      "en": "Loss of hearing",
+      "zh": "听力丧失"
+    },
+    "F": {
+      "en": "Loss of taste in posterior tongue",
+      "zh": "舌后部味觉丧失"
+    },
+    "G": {
+      "en": "Sensory loss in posterior tongue",
+      "zh": "舌后部感觉丧失"
+    },
+    "H": {
+      "en": "Tongue deviation to the left",
+      "zh": "舌头偏向左侧"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has facial nerve (CN VII) palsy, likely due to nerve compression by a meningioma (eg, well-circumscribed, homogenously enhancing mass) in the posterior fossa. Space-occupying intracranial lesions classically present with a headache that is worse in the morning and with Valsalva (eg, bearing down, coughing) due to increased intracranial pressure.\n\nThe facial nerve exits the brainstem at the pontomedullary junction and subsequently enters the internal auditory meatus and facial canal in the temporal bone. Here, it gives off branches that supply the stapedius muscle (reduces volume by dampening ossicle movement in middle ear), salivary glands (eg, sublingual, submandibular), and lacrimal glands. It also provides taste from the anterior two thirds of the tongue via the chorda tympani nerve. After exiting the skull through the stylomastoid foramen, the facial nerve courses within the parotid gland and its terminal branches innervate the muscles of facial expression.\n\nFacial nerve palsy presents with ipsilateral facial paralysis (eg, flattening of the nasolabial fold, drooping of the lower lip, inability to close the eye). There is also loss of the corneal reflex (efferent limb) due to denervation of the orbicularis oculi muscle. Paralysis of the stapedius muscle may lead to increased sensitivity to sound (hyperacusis). Since the nerve to the stapedius is one of the first branches of the facial nerve, hyperacusis indicates that the facial nerve is injured near its brainstem origin. Other features of facial nerve palsy include decreased lacrimation, salivation, and loss of taste in the anterior two thirds of the tongue.\n\n(Choice A) Oculomotor nerve (CN III) palsy causes \"down and out\" eye deviation, ptosis (due to levator palpebrae superioris paralysis), and a fixed dilated pupil (due to parasympathetic fiber injury).\n\n(Choice B) Vagus nerve (CN X) injury causes paralysis of the soft palate (eg, loss of efferent limb of the gag reflex), pharyngeal muscles (eg, dysphagia), and laryngeal muscles (eg, hoarseness). Sensory loss in the larynx and pharynx may also lead to impaired cough reflex.\n\n(Choice D) Trigeminal nerve (CN V) damage causes ipsilateral facial anesthesia, loss of the corneal reflex (afferent limb), weakness of the muscles of mastication, and jaw deviation toward the side of the lesion (due to unopposed action of the opposite pterygoid muscle).\n\n(Choice E) Vestibulocochlear nerve (CN VIII) injury (eg, due to vestibular schwannoma) causes sensorineural hearing loss, tinnitus, and vertigo.\n\n(Choices F and G) Glossopharyngeal nerve (CN IX) damage causes loss of sensation and taste in the posterior one third of the tongue, and loss of the gag reflex (afferent limb).\n\n(Choice H) Hypoglossal nerve (CN XII) injury causes tongue weakness and deviation toward the side of the lesion.\n\nEducational objective: Hyperacusis (increased sensitivity to sound) is an indication of damage to the facial nerve (CN VII) close to its origin from the brainstem.",
+    "zh": "该患者患有面神经（CN VII）麻痹，这很可能是由于脑膜瘤（例如，边界清楚、均匀增强的肿块）在后颅窝中压迫神经所致。 占位性颅内病变通常表现为头痛，在早上和Valsalva（例如，用力、咳嗽）时加重，这是由于颅内压升高所致。\n\n面神经从脑干的脑桥延髓交界处发出，随后进入颞骨的内听道和面神经管。在这里，它发出分支，支配镫骨肌（通过抑制中耳中的听小骨运动来降低音量）、唾液腺（例如，舌下腺、下颌下腺）和泪腺。它还通过鼓索神经提供舌头前三分之二的味觉。面神经穿过茎乳孔后，在腮腺内走行，其末端分支支配面部表情肌。\n\n面神经麻痹表现为同侧面部瘫痪（例如，鼻唇沟变平、下唇下垂、无法闭眼）。由于眼轮匝肌去神经支配，还存在角膜反射（传出肢）丧失。镫骨肌麻痹可能导致对声音的敏感度增加（听觉过敏）。由于支配镫骨肌的神经是面神经的第一批分支之一，听觉过敏表明面神经在其脑干起源附近受损。面神经麻痹的其他特征包括泪液分泌减少、唾液分泌减少以及舌头前三分之二味觉丧失。\n\n（选项A）动眼神经（CN III）麻痹引起眼球“向下向外”偏斜、上睑下垂（由于提上睑肌麻痹）和瞳孔固定散大（由于副交感神经纤维损伤）。\n\n（选项B）迷走神经（CN X）损伤导致软腭麻痹（例如，咽反射传出肢丧失）、咽肌麻痹（例如，吞咽困难）和喉肌麻痹（例如，声音嘶哑）。喉和咽的感觉丧失也可能导致咳嗽反射受损。\n\n（选项D）三叉神经（CN V）损伤导致同侧面部麻醉、角膜反射（传入肢）丧失、咀嚼肌无力和下颌偏向病变侧（由于对侧翼肌的无对抗作用）。\n\n（选项E）前庭蜗神经（CN VIII）损伤（例如，由于前庭神经鞘瘤）引起感觉神经性听力损失、耳鸣和眩晕。\n\n（选项F和G）舌咽神经（CN IX）损伤导致舌后三分之一的感觉和味觉丧失，以及咽反射（传入肢）丧失。\n\n（选项H）舌下神经（CN XII）损伤导致舌无力和向病变侧偏斜。\n\n教学目标：听觉过敏（对声音的敏感度增加）表明面神经（CN VII）在其脑干起源附近受损。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of facial nerve (CN VII) palsy, its anatomical course, and the specific deficits associated with lesions at different points along its path. It requires correlating clinical findings with the cranial nerve involved and the location of the lesion based on the MRI findings.\n\nTo solve this question, identify the cranial nerve affected based on the presented symptoms (facial weakness, inability to close eye, drooping lip). Then, consider the location of the lesion (posterior fossa compressing the facial nerve root) and its proximity to other structures or branches of the facial nerve. Evaluate each option based on the known functions of cranial nerves and the specific branches of the facial nerve.",
+    "zh": "本题测试对面神经（CN VII）麻痹的理解，其解剖过程，以及与病变在其路径不同点相关的特定缺陷。它需要根据临床发现与所涉及的脑神经相关联，并根据MRI结果确定病变的位置。\n\n要解决这个问题，请根据所呈现的症状（面部无力、无法闭眼、嘴唇下垂）确定受影响的脑神经。然后，考虑病变的位置（后颅窝压迫面神经根）及其与其他结构或面神经分支的邻近关系。根据脑神经的已知功能和面神经的特定分支来评估每个选项。"
+  },
+  "tags": "Facial nerve palsy; Cranial nerve VII; Meningioma; Posterior fossa; Hyperacusis; Neuroanatomy; Neurology; MRI interpretation",
+  "category": "Neuro",
+  "question_id": "12252",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\12252",
+  "extracted_at": "2025-11-05T19:33:16.076855",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:32:27.693346",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

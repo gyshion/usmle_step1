@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 72-year-old man comes to the office due to watery diarrhea and abdominal cramps. The symptoms began several days after he started chemotherapy for metastatic colon cancer. He denies hematochezia, melena, or bulky, foul-smelling stools. Vital signs are within normal limits, and physical examination is unremarkable. Laboratory testing reveals no electrolyte abnormalities and no leukocytosis. Stool testing is negative for infection and fecal occult blood. The patient is advised to take a medication after each loose stool. The medication works by inhibiting the release of acetylcholine in the intestinal wall but does not cross the blood-brain barrier.",
+    "zh": "一名72岁男性因水样腹泻和腹部绞痛前来就诊。症状始于他开始接受转移性结肠癌化疗的几天后。他否认便血、黑便或大便量多且恶臭。生命体征在正常范围内，体格检查无特殊发现。实验室检查显示无电解质异常和白细胞增多。粪便检查未发现感染和粪便潜血。建议患者在每次腹泻后服用一种药物。该药物通过抑制肠壁中乙酰胆碱的释放起作用，但不能通过血脑屏障。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely medication prescribed for this patient?",
+    "zh": "以下哪种药物最有可能为该患者开具？"
+  },
+  "options": {
+    "A": {
+      "en": "Aprepitant",
+      "zh": "阿瑞匹坦"
+    },
+    "B": {
+      "en": "Bismuth subsalicylate",
+      "zh": "次水杨酸铋"
+    },
+    "C": {
+      "en": "Fentanyl",
+      "zh": "芬太尼"
+    },
+    "D": {
+      "en": "Loperamide",
+      "zh": "洛哌丁胺"
+    },
+    "E": {
+      "en": "Neostigmine",
+      "zh": "新斯的明"
+    },
+    "F": {
+      "en": "Octreotide",
+      "zh": "奥曲肽"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with uncomplicated, chemotherapy-induced diarrhea was prescribed loperamide. Loperamide is an opioid agonist that exerts its antidiarrheal effects by binding to mu opiate receptors in the colonic myenteric plexus. This inhibits acetylcholine release from myenteric plexus neurons, decreasing activity of the intestinal smooth muscles and slowing peristalsis. Transit time within the intestine is prolonged, allowing for increased water absorption. In addition, the anticholinergic effects also result in decreased secretion from the intestinal epithelia, further reducing stool volume and increasing fecal consistency.\n\nUnlike other opiates (eg, hydrocodone, fentanyl), loperamide undergoes high first-pass metabolism and does not cross the blood-brain barrier, allowing it to be used without opiate-related adverse events (eg, respiratory depression, sedation) or threat of abuse. The only side effect is constipation, which can be avoided with careful dose titration. Diphenoxylate, another opiate used for diarrhea, is less extensively metabolized and crosses the blood-brain barrier. To discourage abuse, diphenoxylate is typically combined with a small amount of atropine, an anticholinergic medication that results in dry mouth, flushing, pupil dilation, and urinary retention when used in large amounts.\n\n(Choice A) Aprepitant is a neurokinin-1 receptor antagonist used for chemotherapy-related nausea and vomiting, not diarrhea.\n\n(Choice B) Bismuth subsalicylate is frequently used for diarrhea and dyspepsia. Although its mechanism of action is not clearly understood, it stimulates the intestinal absorption of fluid (reducing diarrhea) and inhibits prostaglandin synthesis (reducing hypermotility). It does not inhibit acetylcholine release.\n\n(Choice C) Fentanyl is an opiate commonly used as an analgesic and sedative. Although it causes constipation, it crosses the blood-brain barrier and therefore is not used for diarrhea due to the risk of systemic opiate-related adverse events (eg, respiratory depression, abuse).\n\n(Choice E) Neostigmine is an acetylcholinesterase inhibitor that increases acetylcholine within the synapse. Its cholinergic effects would worsen this patient's diarrhea.\n\n(Choice F) Octreotide is a somatostatin analogue that is sometimes used for refractory chemotherapy-induced diarrhea; however, it exerts its antidiarrheal effect by reducing secretion of pancreatic and gastrointestinal hormones (eg, secretin, gastrin, vasoactive intestinal peptide).\n\nEducational objective:\nLoperamide is an opioid agonist that exerts its antidiarrheal effects by binding to mu opiate receptors in the colonic myenteric plexus, which inhibits acetylcholine release, decreases intestinal smooth muscle activity, and slows peristalsis. It undergoes high first-pass metabolism and does not cross the blood-brain barrier, thus avoiding systemic opiate-related adverse events (eg, sedation, respiratory depression).",
+    "zh": "该患者患有非复杂性化疗引起的腹泻，处方了洛哌丁胺。洛哌丁胺是一种阿片类激动剂，通过与结肠肌间神经丛中的μ阿片受体结合发挥止泻作用。这抑制了来自肌间神经丛神经元的乙酰胆碱释放，降低了肠道平滑肌的活动并减缓了蠕动。肠道内的转运时间延长，从而增加水分吸收。此外，抗胆碱能作用也会导致肠上皮细胞分泌减少，进一步减少粪便量并增加粪便稠度。\n\n与其他阿片类药物（例如，氢可酮、芬太尼）不同，洛哌丁胺经历高首过效应代谢，并且不能通过血脑屏障，因此可以在没有阿片类药物相关不良事件（例如，呼吸抑制、镇静）或滥用威胁的情况下使用。唯一的副作用是便秘，可以通过仔细的剂量滴定来避免。苯乙哌啶，另一种用于腹泻的阿片类药物，代谢较少且可以通过血脑屏障。为了阻止滥用，苯乙哌啶通常与少量阿托品（一种抗胆碱能药物）结合使用，当大剂量使用时会导致口干、潮红、瞳孔扩大和尿潴留。\n\n(选项 A) 阿瑞匹坦是一种神经激肽-1受体拮抗剂，用于治疗化疗相关的恶心和呕吐，而非腹泻。\n\n(选项 B) 次水杨酸铋常用于腹泻和消化不良。虽然其作用机制尚不清楚，但它刺激肠道对液体的吸收（减少腹泻）并抑制前列腺素合成（减少过度蠕动）。它不抑制乙酰胆碱的释放。\n\n(选项 C) 芬太尼是一种常用于镇痛和镇静的阿片类药物。虽然它会导致便秘，但它可以通过血脑屏障，因此由于存在全身性阿片类药物相关不良事件（例如，呼吸抑制、滥用）的风险，不用于治疗腹泻。\n\n(选项 E) 新斯的明是一种乙酰胆碱酯酶抑制剂，可增加突触内的乙酰胆碱。其胆碱能作用会加重该患者的腹泻。\n\n(选项 F) 奥曲肽是一种生长抑素类似物，有时用于难治性化疗引起的腹泻；然而，它通过减少胰腺和胃肠激素（例如，促胰液素、胃泌素、血管活性肠肽）的分泌来发挥止泻作用。\n\n教育目标：\n洛哌丁胺是一种阿片类激动剂，通过与结肠肌间神经丛中的μ阿片受体结合发挥止泻作用，这抑制了乙酰胆碱的释放，降低了肠道平滑肌的活动并减缓了蠕动。它经历高首过效应代谢，并且不能通过血脑屏障，从而避免了全身性阿片类药物相关不良事件（例如，镇静、呼吸抑制）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the appropriate management of chemotherapy-induced diarrhea, focusing on the mechanism of action and side effect profile of antidiarrheal medications. It requires understanding which medications are safe and effective in this specific clinical context.\n\nThe best approach is to consider the patient's history, the desired mechanism of action (inhibition of acetylcholine release), and the need to avoid central nervous system side effects. By eliminating options that do not fit these criteria, the correct answer can be identified.",
+    "zh": "这道题考察了化疗引起的腹泻的适当处理知识，重点关注止泻药的作用机制和副作用。它要求理解哪些药物在这种特定的临床情况下是安全有效的。\n\n最好的方法是考虑患者的病史、期望的作用机制（抑制乙酰胆碱释放）以及避免中枢神经系统副作用的需要。通过排除不符合这些标准的选项，可以确定正确的答案。"
+  },
+  "tags": "Chemotherapy-induced diarrhea; Loperamide; Antidiarrheal agents; Opioid agonists; Acetylcholine; Gastrointestinal motility",
+  "category": "GIT",
+  "question_id": "18541",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\18541",
+  "extracted_at": "2025-11-05T14:29:01.877913",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:53:42.737306",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

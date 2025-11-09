@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 27-year-old man comes to the emergency department due to 2 weeks of low-grade fever, malaise, and loss of appetite. The patient has no prior medical conditions and takes no medications. He does not smoke cigarettes or drink alcohol but regularly injects illicit drugs. The patient is sexually active and uses condoms inconsistently. Physical examination reveals scleral icterus. A smooth and mildly tender liver edge is palpable 4 cm below the right costal margin. Laboratory results are as follows:{{exhibit_1}}",
+    "zh": "一名27岁男性因低烧、不适和食欲不振2周就诊于急诊科。患者既往无疾病史，未服用任何药物。他不吸烟、不饮酒，但经常注射违禁药物。患者性生活活跃，且不规律使用避孕套。体格检查显示巩膜黄染。肝脏边缘光滑且轻度触痛，可触及右肋缘下4 cm处。实验室检查结果如下：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is an essential step in the replication cycle of the virus infecting this patient?",
+    "zh": "下列哪一项是感染该患者的病毒复制周期的必要步骤？"
+  },
+  "options": {
+    "A": {
+      "en": "Cleavage of precursor polyprotein by viral protease",
+      "zh": "病毒蛋白酶切割前体多蛋白"
+    },
+    "B": {
+      "en": "Expression of regulatory latency-associated transcript",
+      "zh": "表达调节性潜伏相关转录本"
+    },
+    "C": {
+      "en": "Integration of viral DNA into the host genome",
+      "zh": "病毒DNA整合到宿主基因组"
+    },
+    "D": {
+      "en": "Release of new viral particles by host cell lysis",
+      "zh": "通过宿主细胞裂解释放新的病毒颗粒"
+    },
+    "E": {
+      "en": "Reverse transcription of template RNA to viral DNA",
+      "zh": "将模板RNA逆转录成病毒DNA"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Acute hepatitis B virus (HBV) infection is associated with the shedding of viral antigens (HBsAg, HBeAg) and HBV DNA into the bloodstream and the development of IgM antibodies against HBc. Patients are often asymptomatic, but a minority develops constitutional symptoms (eg, fatigue, loss of appetite), hepatomegaly, icterus, and significant elevations in aminotransferase levels. Transmission in low-prevalence countries (eg, United States) is usually due to injection drug use or unprotected sex.\n\nHBV is an encapsulated virus with a partially double-stranded DNA genome. It binds to and enters hepatocytes using a host cell bile salt transporter and then sheds its coat in the host cytoplasm. The partially double-stranded genome is \"repaired\" and transcribed by host cell machinery, yielding a + sense single-stranded mRNA template. This serves as a pre-genome for future progeny; it is converted by viral reverse transcriptase into the partially double-stranded DNA genome of budding viral particles (which are subsequently released from the cell). The mRNA template is also translated by host ribosomes into the proteins that compose the virus.\n\n(Choice A) Both Hepatitis C virus and HIV encode for a viral protease that cleaves viral polyprotein into individual proteins. Protease inhibitors target this step in viral replication and are used for treatment. HBV does not generate a polyprotein; therefore, it does not encode for a viral protease.\n\n(Choice B) Herpes simplex virus type 1 establishes a life-long latent infection within sensory neurons where it expresses latency-associated transcript, a non-protein coding RNA molecule that suppresses viral lytic genes and inhibits host cell apoptosis.\n\n(Choice C) Although HBV can insert its genome into host chromosomes (which contributes to hepatocarcinogenesis), this step is not required for viral replication. In contrast, HIV must integrate into the host genome in order to replicate. Integrase inhibitors (eg, dolutegravir) target this step in HIV replication.\n\n(Choice D) HBV is released via exocytosis from host cells and is not considered a lytic virus. Hepatocyte damage occurs primarily when cytotoxic T cells recognize HBV antigens on infected cells. Patients who clear the virus have a robust, polyclonal, cytotoxic T-cell response. Those that develop latent infection often have a much weaker and narrower cytotoxic T-cell response.\n\nEducational objective:\nHepatitis B virus has a partially double-stranded DNA genome and contains a viral DNA polymerase with reverse transcriptase activity. Reverse transcriptase serves a crucial step in viral replication; it converts transcribed positive sense single-stranded RNA into the partially double-stranded DNA genome of viral progeny.",
+    "zh": "急性乙型肝炎病毒 (HBV) 感染与病毒抗原（HBsAg、HBeAg）和HBV DNA释放到血液中以及针对HBc的IgM抗体的产生有关。患者通常无症状，但少数患者会出现全身症状（如疲劳、食欲不振）、肝肿大、黄疸和氨基转移酶水平显著升高。在低流行国家（如美国），传播通常是由于注射毒品或无保护性行为。\n\nHBV是一种包膜病毒，具有部分双链DNA基因组。它使用宿主细胞胆盐转运蛋白结合并进入肝细胞，然后在宿主细胞质中脱去其外壳。部分双链基因组被“修复”并由宿主细胞机制转录，产生+有义单链mRNA模板。这作为未来子代的先导基因组；它通过病毒逆转录酶转化为出芽病毒颗粒的部分双链DNA基因组（随后从细胞中释放）。mRNA模板也被宿主核糖体翻译成构成病毒的蛋白质。\n\n(选项A) 丙型肝炎病毒和HIV均编码病毒蛋白酶，该蛋白酶将病毒多蛋白切割成单个蛋白质。蛋白酶抑制剂靶向病毒复制的这一步，并用于治疗。HBV不产生多蛋白；因此，它不编码病毒蛋白酶。\n\n(选项B) 单纯疱疹病毒1型在感觉神经元内建立终生潜伏感染，表达潜伏相关转录本，这是一种非蛋白质编码RNA分子，可抑制病毒裂解基因并抑制宿主细胞凋亡。\n\n(选项C) 尽管HBV可以将基因组插入宿主染色体（这有助于肝细胞癌的发生），但这一步骤不是病毒复制所必需的。相比之下，HIV必须整合到宿主基因组中才能复制。整合酶抑制剂（如多替拉韦）靶向HIV复制的这一步。\n\n(选项D) HBV通过宿主细胞的外吞作用释放，不被认为是溶细胞病毒。肝细胞损伤主要发生在细胞毒性T细胞识别感染细胞上的HBV抗原时。清除病毒的患者具有强大的、多克隆的、细胞毒性T细胞反应。那些发展为潜伏感染的患者通常具有弱得多、范围更窄的细胞毒性T细胞反应。\n\n教育目标：\n乙型肝炎病毒具有部分双链DNA基因组，并包含具有逆转录酶活性的病毒DNA聚合酶。逆转录酶是病毒复制的关键步骤；它将转录的正义单链RNA转化为病毒子代的部分双链DNA基因组。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the Hepatitis B virus (HBV) replication cycle, specifically the role of reverse transcriptase in converting RNA to DNA. It also assesses understanding of the clinical presentation and risk factors for HBV infection.\n\nTo solve this question, review the HBV life cycle and identify the unique step involving reverse transcriptase. Eliminate options related to other viruses or non-essential processes in HBV replication.",
+    "zh": "本题考察对乙型肝炎病毒(HBV)复制周期的知识，特别是逆转录酶在将RNA转化为DNA中的作用。它还评估对HBV感染的临床表现和危险因素的理解。\n\n要解决这个问题，请回顾HBV生命周期，并确定涉及逆转录酶的独特步骤。排除与其它病毒或HBV复制中非必要过程相关的选项。"
+  },
+  "tags": "Hepatitis B virus; Viral replication; Reverse transcriptase; Liver disease; Infectious disease",
+  "category": "Micro",
+  "question_id": "15169",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\15169",
+  "extracted_at": "2025-11-05T14:57:31.487700",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:08:21.929442",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

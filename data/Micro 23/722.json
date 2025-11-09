@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 14-year-old girl is brought to the clinic due to dark urine and facial puffiness. The patient's mother says the girl had a rash approximately 4 weeks ago. She describes pustular skin lesions that broke down over a few days to form thick scabs on the lower extremities. Microscopic examination of the urine sediment shows red blood cell casts.",
+    "zh": "一名14岁女孩因尿色变深和面部浮肿前来就诊。患者的母亲说，大约4周前女孩曾出现皮疹。她描述了脓疱性皮肤损伤，这些损伤在几天内破裂形成厚厚的痂，位于下肢。尿沉渣的显微镜检查显示红细胞管型。"
+  },
+  "question": {
+    "en": "Which of the following bacterial characteristics is most helpful for identifying the particular species responsible for this patient's symptoms?",
+    "zh": "以下哪种细菌特征对于鉴定导致该患者症状的特定物种最有帮助？"
+  },
+  "options": {
+    "A": {
+      "en": "Catalase positivity",
+      "zh": "过氧化氢酶阳性"
+    },
+    "B": {
+      "en": "Growth in hypertonic saline",
+      "zh": "在高渗盐水中生长"
+    },
+    "C": {
+      "en": "Lysis on the addition of bile salts",
+      "zh": "加入胆盐后溶解"
+    },
+    "D": {
+      "en": "Pyrrolidonyl arylamidase positivity",
+      "zh": "吡咯烷酮芳酰胺酶阳性"
+    },
+    "E": {
+      "en": "Urease positivity",
+      "zh": "尿素酶阳性"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient had impetigo, a skin infection caused by *Staphylococcus aureus* and less commonly by *Streptococcus pyogenes* (group A *Streptococcus* [GAS]). Her subsequent facial puffiness and hematuria are highly suggestive of poststreptococcal glomerulonephritis (PSGN); although staphylococcal infection can cause glomerulonephritis in adults, it is very rare in children.\n\nNonsuppurative complications of GAS infections include acute rheumatic fever (ARF) and glomerulonephritis, which are caused by antistreptococcal antibodies that cross-react with heart tissue or result in immune complex deposition in the kidney. Glomerulonephritis is associated with prior streptococcal pharyngeal or skin infection (eg, cellulitis, impetigo, erysipelas); ARF is associated with prior streptococcal pharyngitis but not skin infection. Previous streptococcal infection is evidenced by elevated streptococcal antibodies (antistreptolysin, antideoxyribonuclease B, antihyaluronidase).\n\n*S pyogenes* is a catalase-negative, beta-hemolytic, gram-positive coccus located in chains. *S pyogenes* is unique among beta-hemolytic streptococci because it is susceptible to bacitracin (an antibiotic) and produces the enzyme pyrrolidonyl arylamidase (PYR). Testing for PYR production is more sensitive and specific than bacitracin susceptibility testing. {{exhibit_1}}\n\n(Choice A) Catalase is a virulence factor that limits conversion of hydrogen peroxide into compounds with more microbicidal activity (eg, HOCI). *S aureus* produces catalase. All streptococci are catalase negative.\n\n(Choices B and C) Lysis upon addition of bile salts distinguishes *Streptococcus pneumoniae* from other alpha-hemolytic species (ie, other viridans group streptococci). Similarly, growth in hypertonic saline is used primarily to differentiate enterococcus from gamma-hemolytic streptococci species. However, the majority of cases of streptococcal glomerulonephritis are caused by *Streptococcus pyogenes* (beta-hemolytic).\n\n(Choice E) Urease converts urea into ammonia and facilitates bacterial survival in certain microenvironments (eg, stomach, urinary tract). *Klebsiella* and *Proteus* are urease producers that can cause pyelonephritis.\n\nEducational objective:\n*Streptococcus pyogenes* (Group A Streptococcus) can precipitate nephritic syndrome (ie, poststreptococcal glomerulonephritis). Important characteristics differentiating *S pyogenes* from other streptococci include β-hemolysis, bacitracin-susceptibility, and pyrrolidonyl arylamidase-positivity.",
+    "zh": "该患者患有脓疱病，这是一种由金黄色葡萄球菌（*Staphylococcus aureus*）引起的皮肤感染，不太常见的是由化脓性链球菌（*Streptococcus pyogenes*，A组链球菌[GAS]）引起的。她随后的面部浮肿和血尿高度提示链球菌感染后肾小球肾炎 (PSGN)；虽然葡萄球菌感染可导致成人肾小球肾炎，但在儿童中非常罕见。\n\nGAS感染的非化脓性并发症包括急性风湿热 (ARF) 和肾小球肾炎，它们是由与心脏组织发生交叉反应或导致免疫复合物沉积在肾脏中的抗链球菌抗体引起的。肾小球肾炎与既往链球菌性咽炎或皮肤感染（例如，蜂窝组织炎、脓疱病、丹毒）有关；ARF与既往链球菌性咽炎有关，但与皮肤感染无关。既往链球菌感染的证据是链球菌抗体升高（抗链球菌溶血素、抗脱氧核糖核酸酶 B、抗透明质酸酶）。\n\n化脓性链球菌（*S pyogenes*）是一种过氧化氢酶阴性、β溶血性、革兰氏阳性链球菌。化脓性链球菌在β溶血性链球菌中是独一无二的，因为它对杆菌肽（一种抗生素）敏感并产生酶吡咯烷酮芳酰胺酶 (PYR)。检测PYR产生活性比杆菌肽敏感性检测更灵敏和特异。{{exhibit_1}}\n\n(选项A) 过氧化氢酶是一种毒力因子，它限制过氧化氢转化为具有更多杀菌活性的化合物（例如，HOCI）。金黄色葡萄球菌产生过氧化氢酶。所有链球菌均为过氧化氢酶阴性。\n\n(选项B和C) 加入胆盐后溶解可区分肺炎链球菌（*Streptococcus pneumoniae*）与其他α溶血性物种（即，其他草绿色链球菌）。同样，在高渗盐水中生长主要用于区分肠球菌与γ溶血性链球菌物种。然而，大多数链球菌性肾小球肾炎病例是由化脓性链球菌（β溶血性）引起的。\n\n(选项E) 尿素酶将尿素转化为氨，并促进细菌在某些微环境中存活（例如，胃、泌尿道）。克雷伯菌属和变形杆菌属是尿素酶产生菌，可引起肾盂肾炎。\n\n教育目标：化脓性链球菌（A组链球菌）可诱发肾炎综合征（即，链球菌感染后肾小球肾炎）。将化脓性链球菌与其他链球菌区分开来的重要特征包括β-溶血、杆菌肽敏感性和吡咯烷酮芳酰胺酶阳性。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the etiology and diagnosis of poststreptococcal glomerulonephritis (PSGN), specifically focusing on identifying *Streptococcus pyogenes* using bacterial characteristics.\n\nThe key to solving this question is recognizing the clinical presentation of PSGN following a skin infection (impetigo) and then selecting the bacterial characteristic most specific to *Streptococcus pyogenes*, which is pyrrolidonyl arylamidase (PYR) positivity.",
+    "zh": "此题考察了链球菌感染后肾小球肾炎 (PSGN) 的病因和诊断知识，特别是侧重于使用细菌特征鉴定化脓性链球菌。解决此题的关键是认识到在皮肤感染（脓疱病）后出现PSGN的临床表现，然后选择对化脓性链球菌最特异的细菌特征，即吡咯烷酮芳酰胺酶 (PYR) 阳性。"
+  },
+  "tags": "Poststreptococcal glomerulonephritis; Streptococcus pyogenes; Pyrrolidonyl arylamidase; Nephrology; Infectious disease; Bacterial identification; Impetigo; Group A Streptococcus",
+  "category": "Micro",
+  "question_id": "722",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\722",
+  "extracted_at": "2025-11-05T15:05:16.790927",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:13:00.459435",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

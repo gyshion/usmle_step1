@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 1-hour-old girl born to a 40-year-old woman is brought to the nursery for evaluation. The pregnancy and delivery were uncomplicated. Physical examination shows mid-face hypoplasia with a flat nasal bridge, up-slanting palpebral fissures, a small mouth, and a single palmar crease bilaterally. Cardiac auscultation reveals a blowing holosystolic murmur heard best along the sternal border.",
+    "zh": "一名1小时大的女婴，由一名40岁的妇女分娩，被带到新生儿室进行评估。 妊娠和分娩均无并发症。 体格检查显示中面部发育不全，鼻梁扁平，眼睑裂向上倾斜，嘴小，双侧单手掌横纹。 心脏听诊显示在胸骨旁听诊区最清楚地听到吹气性全收缩期杂音。"
+  },
+  "question": {
+    "en": "Which of the following abnormalities is most likely to be present in this patient?",
+    "zh": "该患者最有可能存在以下哪种异常？"
+  },
+  "options": {
+    "A": {
+      "en": "Aberrant genomic imprinting",
+      "zh": "基因组印记异常"
+    },
+    "B": {
+      "en": "Mosaicism",
+      "zh": "嵌合体"
+    },
+    "C": {
+      "en": "Partial deletion",
+      "zh": "部分缺失"
+    },
+    "D": {
+      "en": "Triplet expansion",
+      "zh": "三联体重复"
+    },
+    "E": {
+      "en": "Uniparental disomy",
+      "zh": "单亲二倍体"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The patient has many of the characteristic features of DOWN SYNDROME (DS), a condition that results from an INCREASED GENE DOSAGE effect due to an EXTRA COPY of chromosome 21. Three cytogenetic abnormalities can lead to DS: meiotic nondisjunction, unbalanced translocations, and MOSAICISM. Of the available answer options, only mosaicism is consistent with a THIRD COPY of chromosome 21 existing in at least a portion of the patient's cells.",
+    "zh": "该患者具有唐氏综合征 (DS) 的许多特征，这种情况是由于21号染色体的额外拷贝导致基因剂量效应增加所致。三种细胞遗传学异常可导致 DS：减数分裂不分离、不平衡易位和嵌合体。 在可用的答案选项中，只有嵌合体与患者至少部分细胞中存在21号染色体的第三个拷贝一致。"
+  },
+  "summary": {
+    "en": "1) Down syndrome 2) Recognize the features of Down syndrome and know that mosaicism is a less common cause.",
+    "zh": "1) 唐氏综合征 2) 识别唐氏综合征的特征，并了解嵌合体是一种不太常见的原因。"
+  },
+  "tags": "Down syndrome; Mosaicism; Chromosome 21; Genetics",
+  "category": "Bio",
+  "question_id": "1610",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1610",
+  "extracted_at": "2025-11-05T10:59:34.675696",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:21:50.149981",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

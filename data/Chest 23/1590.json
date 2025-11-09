@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old man undergoes exercise physiology testing at sea level. He jogs on a treadmill to achieve a moderate-intensity physical activity level based on a target heart rate of 50%-70% of his estimated maximum heart rate. An increase in which of the following is expected at the peak of his exertion?",
+    "zh": "一名23岁的男性在海平面进行运动生理学测试。他在跑步机上慢跑，以达到中等强度的身体活动水平，其目标心率是其估计最大心率的50%-70%。在运动达到峰值时，以下哪一项预期会增加？"
+  },
+  "question": {
+    "en": "Which of the following is expected at the peak of his exertion?",
+    "zh": "以下哪一项是在运动达到峰值时预期的？"
+  },
+  "options": {
+    "A": {
+      "en": "Arterial blood mean CO₂ content",
+      "zh": "动脉血平均CO₂含量"
+    },
+    "B": {
+      "en": "Arterial blood mean O₂ content",
+      "zh": "动脉血平均O₂含量"
+    },
+    "C": {
+      "en": "Hemoglobin affinity for O₂",
+      "zh": "血红蛋白对O₂的亲和力"
+    },
+    "D": {
+      "en": "pH of the arterial blood",
+      "zh": "动脉血的pH值"
+    },
+    "E": {
+      "en": "Physiologic dead space",
+      "zh": "生理无效腔"
+    },
+    "F": {
+      "en": "Venous blood mean CO₂ content",
+      "zh": "静脉血平均CO₂含量"
+    },
+    "G": {
+      "en": "Venous blood mean O₂ content",
+      "zh": "静脉血平均O₂含量"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "Long-distance running and other forms of physical exercise cause INCREASED OXIDATIVE METABOLISM of glucose and fatty acids in the skeletal muscle. This markedly increases the rates of O₂ consumption and CO₂ production, which must be balanced by increases in skeletal muscle perfusion and alveolar ventilation.\n\nThe cardiovascular response to exercise involves vasoconstriction in the splanchnic circulation and VASODILATION in skeletal muscle, shunting blood toward exercising muscle. The vasodilation is predominant, resulting in overall DECREASED SYSTEMIC VASCULAR RESISTANCE. There is also an increase in heart rate and stroke volume that markedly INCREASES CARDIAC OUTPUT and O₂ delivery to the tissues. Increased O₂ extraction by the tissues leads to a concomitant INCREASE IN CO₂ PRODUCTION, which is absorbed by the systemic capillaries and transported in high quantities via venous blood to the lungs, where it is expired.\n\n(Choices A and B) Mean values for arterial O₂ and CO₂ content remain essentially constant during exercise, even during periods of intense exertion. This is likely accomplished via tight regulation of increases in alveolar ventilation and gas exchange efficiency.\n\n(Choices C and D) Tissue pH typically decreases during exercise due to production of carbonic and lactic acid in active skeletal muscle. The acidic pH causes a decrease in hemoglobin affinity for O₂ (ie, right shift in the O₂-hemoglobin dissociation curve) to facilitate unloading of O₂ in the tissues. Although venous pH may decrease significantly during moderate exercise, there is typically little change in arterial pH due to respiratory compensation.\n\n(Choice E) Physiologic dead space (ie, the air in the respiratory system that does not participate in gas exchange) is decreased during exercise due to a decrease in pulmonary vascular resistance that allows perfusion of additional pulmonary capillary beds.\n\n(Choice G) The mean O₂ content of venous blood remains the same or decreases with exercise because the rate of O₂ extraction by the tissues outpaces the rate of oxygen delivery (cardiac output). In most healthy individuals, cardiac output is the major limiting factor to O₂ consumption during exercise.\n\nEducational objective:\nDuring physical exercise, there is increased skeletal muscle CO₂ production that increases the CO₂ content of venous blood. Arterial O₂ and CO₂ content remains constant via increases in alveolar ventilation and gas exchange efficiency. Venous O₂ content remains constant or is decreased due to increased O₂ extraction by the tissues that matches or exceeds the rate of oxygen delivery (ie, O₂ consumption during exercise is limited by cardiac output).",
+    "zh": "长跑和其他形式的体育锻炼会导致骨骼肌中葡萄糖和脂肪酸的氧化代谢增强。这会显著增加O₂的消耗率和CO₂的产生率，这必须通过增加骨骼肌灌注和肺泡通气来平衡。\n\n运动时心血管系统的反应包括内脏循环中的血管收缩和骨骼肌中的血管舒张，将血液分流到正在运动的肌肉。血管舒张占主导地位，导致全身血管阻力降低。心率和每搏输出量也会增加，这会显著增加心输出量和O₂向组织的输送。组织对O₂的提取增加导致CO₂产生量随之增加，CO₂被全身毛细血管吸收，并通过静脉血大量输送到肺部，在那里被呼出。\n\n（选项A和B）动脉O₂和CO₂的平均值在运动期间基本保持不变，即使在剧烈运动期间也是如此。这可能是通过对肺泡通气和气体交换效率的严格调节来实现的。\n\n（选项C和D）在运动过程中，组织pH值通常会下降，这是由于活性骨骼肌中产生碳酸和乳酸所致。酸性pH值导致血红蛋白对O₂的亲和力降低（即，O₂-血红蛋白解离曲线右移），以促进组织中O₂的释放。虽然静脉血pH值在适度运动期间可能会显著下降，但动脉血pH值通常变化不大，这归因于呼吸代偿。\n\n（选项E）运动过程中，生理无效腔（即，呼吸系统中不参与气体交换的空气）减少，这是由于肺血管阻力降低，从而允许更多的肺毛细血管床灌注。\n\n（选项G）静脉血中O₂的平均含量在运动期间保持不变或减少，因为组织对O₂的提取率超过了氧气的输送率（心输出量）。在大多数健康个体中，心输出量是运动期间O₂消耗的主要限制因素。\n\n教育目标：\n在体育锻炼期间，骨骼肌CO₂的产生增加，从而增加静脉血中的CO₂含量。动脉O₂和CO₂的含量通过增加肺泡通气和气体交换效率来保持不变。由于组织对O₂的提取增加与或超过氧气输送率（即，运动期间的O₂消耗受心输出量的限制），静脉血中O₂的含量保持不变或减少。"
+  },
+  "summary": {
+    "en": "This question tests the physiological changes that occur in blood gas content during exercise, specifically focusing on the increase in venous blood CO2 content due to increased oxidative metabolism in skeletal muscle. It also assesses understanding of how arterial blood gas content remains relatively constant due to compensatory mechanisms. \n\nTo solve this question, recall the metabolic demands of exercising muscle and the resulting changes in gas exchange. Consider the impact of increased CO2 production and O2 consumption on venous and arterial blood gas levels, and the body's compensatory mechanisms to maintain arterial homeostasis.",
+    "zh": "这个问题测试了运动期间血气含量的生理变化，特别是关注由于骨骼肌氧化代谢增加导致的静脉血CO2含量的增加。它还评估了对由于代偿机制动脉血气含量保持相对恒定的理解。\n\n要解决这个问题，请回忆运动肌肉的代谢需求以及由此引起的气体交换变化。考虑CO2产生和O2消耗增加对静脉血和动脉血气水平的影响，以及身体维持动脉稳态的代偿机制。"
+  },
+  "tags": "Exercise physiology; Blood gas analysis; Carbon dioxide; Oxygen; Venous blood; Arterial blood; Metabolism; Skeletal muscle",
+  "category": "Chest",
+  "question_id": "1590",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1590",
+  "extracted_at": "2025-11-05T11:41:05.658164",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:36:14.904197",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

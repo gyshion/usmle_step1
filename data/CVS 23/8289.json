@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 47-year-old man comes to the office for follow-up of his elevated blood pressure. The patient's medical history is significant for stable angina pectoris, for which he takes sublingual nitroglycerin as needed. He has no orthopnea, paroxysmal nocturnal dyspnea, or lower extremity swelling. His blood pressure is 154/107 mm Hg and pulse is 86/min. Physical examination shows no abnormalities. The patient is started on a low dose of atenolol.",
+    "zh": "一名47岁男性因高血压复诊。患者病史有稳定性心绞痛，根据需要服用舌下含服硝酸甘油。他没有端坐呼吸、阵发性夜间呼吸困难或下肢肿胀。他的血压为154/107 mmHg，脉搏为86次/分钟。体格检查未见异常。患者开始服用低剂量的阿替洛尔。"
+  },
+  "question": {
+    "en": "Which of the following cellular changes will most likely occur as a direct effect of this medication?",
+    "zh": "作为该药物的直接作用，以下哪种细胞变化最有可能发生？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased Decreased Decreased",
+      "zh": "降低 降低 降低"
+    },
+    "B": {
+      "en": "Decreased Decreased No significant change",
+      "zh": "降低 降低 无显著变化"
+    },
+    "C": {
+      "en": "Decreased No significant change Decreased",
+      "zh": "降低 无显著变化 降低"
+    },
+    "D": {
+      "en": "Decreased No significant change No significant change",
+      "zh": "降低 无显著变化 无显著变化"
+    },
+    "E": {
+      "en": "No significant change No significant change No significant change",
+      "zh": "无显著变化 无显著变化 无显著变化"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Beta blockers are the preferred treatment for patients with chronic stable angina and hypertension. They relieve anginal symptoms by inhibiting sympathetic stimulation of the heart, reducing both heart rate and contractility. Because beta blockers reduce heart rate and blood pressure during rest and exercise, the onset of angina is avoided or delayed.\n\nAt low doses, atenolol is a selective β1 adrenergic antagonist. β receptors are found in cardiac tissue and on renal juxtaglomerular cells, but not in vascular smooth muscle. The β receptor is a G protein-coupled receptor (GPCR) associated with Gs, which increases intracellular cAMP levels. Blockade of the β receptor leads to decreased cAMP levels in cardiac and renal tissue without significantly affecting cAMP levels in vascular smooth muscle {{exhibit_1}} (Choices C and D).\n\nGPCRs comprise a large family of 7 transmembrane domain receptors that activate intracellular second messenger systems. There are 2 principal second messenger systems involving GPCRs:\n\n1. cAMP signaling pathway: The activated G, α subunit activates the enzyme adenylyl cyclase, which catalyzes the conversion of ATP into cAMP. Elevated cAMP leads to the activation of protein kinase A. Conversely, the G α subunit inhibits adenylyl cyclase, thereby reducing cAMP levels.\n\n2. Phosphatidylinositol signaling pathway: The activated G, α subunit activates phospholipase C, which degrades membrane lipids into diacylglycerol (DAG) and inositol triphosphate (IP3). Protein kinase C is activated by DAG, and calcium is released from the sarcoplasmic reticulum under the influence of IP3.\n\n(Choice A) Propranolol is a nonselective beta blocker that blocks both β1 and β2 adrenergic receptors. β2 receptors are found in vascular and bronchial smooth muscle. Blockade of β1 and β2 receptors would therefore result in decreased cAMP levels in cardiac myocytes, renal juxtaglomerular cells, and vascular smooth muscle.\n\n(Choice E) A medication such as diltiazem, a non-dihydropyridine calcium channel blocker, would not directly affect cAMP levels.\n\nEducational objective:\n\nβ₁ adrenergic receptors are found in cardiac tissue and on renal juxtaglomerular cells, but not in vascular smooth muscle. Selective blockade of the β₁ receptor (eg, with atenolol) leads to decreased cAMP levels in cardiac and renal tissue without significantly affecting cAMP levels in vascular smooth muscle.",
+    "zh": "β受体阻滞剂是慢性稳定性心绞痛和高血压患者的首选治疗方法。它们通过抑制心脏的交感神经刺激来缓解心绞痛症状，从而降低心率和收缩力。由于β受体阻滞剂在休息和运动期间降低心率和血压，因此可以避免或延缓心绞痛的发作。\n\n低剂量时，阿替洛尔是一种选择性β1肾上腺素能受体拮抗剂。β受体存在于心脏组织和肾脏近球小管细胞上，但不存在于血管平滑肌中。β受体是一种与Gs相关的G蛋白偶联受体(GPCR)，可增加细胞内cAMP水平。阻断β受体导致心脏和肾脏组织中cAMP水平降低，而不会显著影响血管平滑肌中的cAMP水平 {{exhibit_1}}（选项 C 和 D）。\n\nGPCR包含一个由7个跨膜结构域受体组成的大家族，可激活细胞内第二信使系统。有两种涉及GPCR的主要第二信使系统：\n\n1. cAMP信号通路：激活的G, α亚基激活酶腺苷酸环化酶，后者催化ATP转化为cAMP。cAMP升高导致蛋白激酶A的激活。相反，G α亚基抑制腺苷酸环化酶，从而降低cAMP水平。\n\n2. 磷脂酰肌醇信号通路：激活的G, α亚基激活磷脂酶C，将膜脂降解为二酰基甘油(DAG)和肌醇三磷酸(IP3)。蛋白激酶C被DAG激活，钙在IP3的影响下从肌质网释放。\n\n（选项 A）普萘洛尔是一种非选择性β受体阻滞剂，可阻断β1和β2肾上腺素能受体。β2受体存在于血管和平滑肌中。因此，阻断β1和β2受体将导致心肌细胞、肾近球小管细胞和血管平滑肌中cAMP水平降低。\n\n（选项 E）地尔硫卓等药物（一种非二氢吡啶类钙通道阻滞剂）不会直接影响cAMP水平。\n\n教学目标：\n\nβ₁肾上腺素能受体存在于心脏组织和肾脏近球小管细胞上，但不存在于血管平滑肌中。选择性阻断β₁受体（例如，使用阿替洛尔）会导致心脏和肾脏组织中cAMP水平降低，而不会显著影响血管平滑肌中的cAMP水平。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of beta-1 selective adrenergic antagonists (atenolol) and their effects on cAMP levels in different tissues (cardiac, renal, vascular smooth muscle). It requires understanding of G protein-coupled receptors and their downstream signaling pathways.\n\nTo solve this question, identify the target tissue of atenolol (cardiac and renal), recall the effect of beta-1 blockade on cAMP levels (decrease), and recognize that vascular smooth muscle is not significantly affected by selective beta-1 blockade.",
+    "zh": "这个问题考察了对β-1选择性肾上腺素能受体拮抗剂（阿替洛尔）及其对不同组织（心脏、肾脏、血管平滑肌）中cAMP水平的影响的了解。它需要理解G蛋白偶联受体及其下游信号通路。\n\n要解决这个问题，确定阿替洛尔的靶组织（心脏和肾脏），回忆β-1阻滞对cAMP水平的影响（降低），并认识到血管平滑肌不受选择性β-1阻滞的显著影响。"
+  },
+  "tags": "Atenolol; Beta-1 adrenergic antagonist; cAMP; G protein-coupled receptors; Cardiac tissue; Renal juxtaglomerular cells; Vascular smooth muscle; Signal transduction; Stable angina; Hypertension",
+  "category": "CVS",
+  "question_id": "8289",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\8289",
+  "extracted_at": "2025-11-05T12:17:01.310408",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:31:35.508539",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

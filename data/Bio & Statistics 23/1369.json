@@ -1,0 +1,56 @@
+{
+  "question_stem": {
+    "en": "As part of an experiment, healthy volunteers undergo a 12-hour fast and then drink a solution containing radiolabeled alanine. Consecutive blood samples are drawn every 15 minutes for the next 3 hours. Initial blood samples detect the radiolabeled alanine, but analysis of later samples shows that the radiotracer is present in blood primarily in the form of glucose. Before alanine can be converted to glucose, its amino group is transferred to which of the following?",
+    "zh": "作为一项实验的一部分，健康志愿者禁食 12 小时，然后饮用含有放射性标记丙氨酸的溶液。在接下来的 3 小时内，每 15 分钟抽取连续的血样。最初的血样检测到放射性标记的丙氨酸，但对后续样本的分析表明，放射性示踪剂主要以葡萄糖的形式存在于血液中。在丙氨酸转化为葡萄糖之前，其氨基转移到以下哪项？"
+  },
+  "question": {
+    "en": "To which of the following?",
+    "zh": "以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "α-Ketoglutarate",
+      "zh": "α-酮戊二酸"
+    },
+    "B": {
+      "en": "L-citrulline",
+      "zh": "L-瓜氨酸"
+    },
+    "C": {
+      "en": "Malate",
+      "zh": "苹果酸"
+    },
+    "D": {
+      "en": "Citrate",
+      "zh": "柠檬酸"
+    },
+    "E": {
+      "en": "Oxaloacetate",
+      "zh": "草酰乙酸"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "{{exhibit_1}}\n\nAlanine and glutamine play an important role in transporting nitrogen throughout the body. Glutamine is produced by most body tissues and is catabolized primarily by the gut and kidney for maintenance of cellular metabolism and acid-base regulation, respectively. A significant portion of the glutamine used by these tissues is converted to alanine and released into the circulation. Alanine is also released by skeletal muscle tissue during protein catabolism as part of the glucose-alanine cycle that helps remove excess nitrogen. Alanine is then transported to the liver, where it serves as a vehicle for nitrogen disposal and as a source of carbon skeletons for gluconeogenesis.\n\nIn the liver, alanine is transaminated by alanine aminotransferase to pyruvate with the amino group being transferred to α-ketoglutarate to form glutamate. Almost all aminotransferase enzymes use α-ketoglutarate as the amino group acceptor. Thus, amino groups are funneled into glutamate during protein catabolism. Glutamate is further metabolized by the enzyme glutamate dehydrogenase, which liberates free ammonia and regenerates α-ketoglutarate. Ammonia then enters the urea cycle to form urea, the primary disposal form of nitrogen in humans. Urea subsequently enters the blood and is excreted in the urine.\n\n(Choices C, D, and E) Malate, citrate, and oxaloacetate are all intermediates of the tricarboxylic acid cycle.\n\n(Choice B) L-citrulline is an amino acid produced as an intermediate in the conversion of ornithine to argininosuccinate during the hepatic urea cycle.\n\nEducational objective: \nAlanine is the major amino groups responsible for transferring nitrogen to the liver for disposal. During the catabolism of proteins, amino groups are transferred to α-ketoglutarate to form glutamate. Glutamate is then processed in the liver to form urea, the primary disposal form of nitrogen in humans. Free ammonia is also excreted into the urine by the kidney for regulation of acid-base status.",
+    "zh": "{{exhibit_1}}\n\n丙氨酸和谷氨酰胺在全身氮的转运中起重要作用。谷氨酰胺由大多数身体组织产生，主要被肠道和肾脏分解代谢，分别用于维持细胞代谢和酸碱调节。这些组织使用的大部分谷氨酰胺会转化为丙氨酸并释放到循环中。丙氨酸也由骨骼肌组织在蛋白质分解代谢过程中释放，作为葡萄糖-丙氨酸循环的一部分，有助于去除过量的氮。然后丙氨酸被转运到肝脏，在那里它作为氮的清除剂和糖异生作用的碳骨架来源。\n\n在肝脏中，丙氨酸通过丙氨酸转氨酶转氨为丙酮酸，氨基被转移到α-酮戊二酸形成谷氨酸。几乎所有转氨酶都使用 α-酮戊二酸作为氨基受体。因此，在蛋白质分解代谢过程中，氨基被导入谷氨酸。谷氨酸进一步被谷氨酸脱氢酶代谢，该酶释放游离氨并再生 α-酮戊二酸。然后氨进入尿素循环形成尿素，尿素是人体内氮的主要排出形式。尿素随后进入血液并随尿液排出。\n\n（选项 C、D 和 E）苹果酸、柠檬酸和草酰乙酸都是三羧酸循环的中间体。\n\n（选项 B）L-瓜氨酸是一种氨基酸，是肝尿素循环中鸟氨酸转化为精氨琥珀酸的中间产物。\n\n教育目标：\n丙氨酸是负责将氮转移到肝脏进行清除的主要氨基。在蛋白质分解代谢过程中，氨基转移到 α-酮戊二酸形成谷氨酸。然后谷氨酸在肝脏中被加工形成尿素，尿素是人体内氮的主要排出形式。游离氨也由肾脏排出到尿液中，用于调节酸碱状态。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of amino acid metabolism, specifically the role of alanine in transporting nitrogen to the liver and its conversion to glucose via gluconeogenesis. It also requires understanding of the transamination reaction where alanine transfers its amino group to alpha-ketoglutarate.\n\nTo answer correctly, remember that alanine transamination in the liver uses alpha-ketoglutarate as the primary amino group acceptor to form glutamate. Eliminate options that are intermediates in other metabolic pathways such as the TCA cycle or urea cycle.",
+    "zh": "这个问题考察了氨基酸代谢的知识，特别是丙氨酸在将氮转运到肝脏并通过糖异生作用转化为葡萄糖中的作用。它还需要了解转氨反应，其中丙氨酸将其氨基转移到 α-酮戊二酸。\n\n要正确回答，请记住，肝脏中的丙氨酸转氨作用使用 α-酮戊二酸作为主要的氨基受体以形成谷氨酸。排除作为其他代谢途径（如 TCA 循环或尿素循环）中间体的选项。"
+  },
+  "tags": "Amino acid metabolism; Alanine; Gluconeogenesis; Transamination; Alpha-ketoglutarate; Nitrogen transport; Liver; Urea cycle; Metabolism",
+  "category": "Bio",
+  "question_id": "1369",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1369",
+  "extracted_at": "2025-11-05T10:33:05.360311",
+  "translated_at": "2025-11-07T16:20:53.428987",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

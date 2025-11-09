@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 48-year-old man is evaluated for shortness of breath and dry cough for 1 week. The patient has never had similar symptoms in the past and takes no medications. He has a 5-pack-year smoking history and does not use alcohol or illicit drugs. The patient is a pig farmer in Ohio and has not traveled recently. Temperature is 37.8 C (100 F), blood pressure is 128/85 mm Hg, pulse is 95/min, and respirations are 16/min. Lung auscultation reveals scattered wheezing and crackles. Peripheral blood smear is shown below {{exhibit_1}}.",
+    "zh": "一名48岁男性因呼吸急促和干咳1周就诊。患者既往从未有过类似症状，且未服用任何药物。他有5包年的吸烟史，不饮酒也不吸食违禁药物。该患者是俄亥俄州的一名养猪户，近期未曾旅行。体温37.8°C（100°F），血压128/85 mmHg，脉搏95次/分，呼吸16次/分。肺部听诊显示散在的哮鸣音和啰音。外周血涂片如下所示 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "The nucleated cells seen on this patient's peripheral smear most likely perform which of the following functions?",
+    "zh": "在该患者的外周血涂片中可见的有核细胞最有可能执行以下哪种功能？"
+  },
+  "options": {
+    "A": {
+      "en": "Bacterial opsonization",
+      "zh": "细菌调理作用"
+    },
+    "B": {
+      "en": "Destruction of helminths",
+      "zh": "破坏蠕虫"
+    },
+    "C": {
+      "en": "Inhibition of fungal growth",
+      "zh": "抑制真菌生长"
+    },
+    "D": {
+      "en": "Killing of virus-infected cells",
+      "zh": "杀灭病毒感染的细胞"
+    },
+    "E": {
+      "en": "Stimulation of fibroblasts",
+      "zh": "刺激成纤维细胞"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's presentation is concerning for Loeffler syndrome, a transient eosinophilic pneumonitis (eg, dry cough, dyspnea, wheezing) caused by migration of parasitic roundworm larva (eg, Ascaris suum from pigs) through the lungs. His peripheral smear {{exhibit_2}} shows numerous erythrocytes and a few scattered platelets accompanied by 2 larger cells with bilobed nuclei and eosinophilic granules; the 2 larger cells are eosinophils.\n\nEosinophils play a prominent role in allergic disease (eg, asthma, drug reactions) and in defense against parasitic infection. MAJOR BASIC PROTEIN is the predominant substance contained within eosinophilic granules, and it acts as a potent toxin against helminths (parasitic worms). Release of major basic protein by eosinophils causes damage to epithelial and endothelial cells and is a major mechanism of chronic lung damage in certain pulmonary conditions (eg, asthma, Ascaris infection).\n\n(Choice A) Plasma cells produce antibodies that opsonize bacteria to facilitate phagocytosis.\n\n(Choice C) Pattern recognition receptors (eg, dectin-1) on phagocytic cells allow for detection and destruction of fungi by the innate immune system.\n\n(Choice D) Virus-infected cells typically lack MHC class I proteins on their surface; these are identified and killed by natural killer cells.\n\n(Choice E) Macrophages secrete transforming growth factor-beta (TGF-β), which stimulates fibroblasts to release collagen and form scar tissue.\n\nEducational objective:\nEosinophils have bilobed nuclei and numerous eosinophilic granules in the cytoplasm and are important in allergic disease and defense against parasitic infection. The eosinophilic granules predominantly contain major basic protein, which acts as a potent antihelminthic toxin. Major basic protein also damages epithelial and endothelial cells and is a major cause of chronic lung damage in asthma. {{exhibit_3}} {{exhibit_4}}",
+    "zh": "该患者的临床表现提示Loeffler综合征，这是一种由寄生虫蛔虫幼虫（如猪的猪蛔虫）穿过肺部引起的短暂性嗜酸性粒细胞性肺炎（如干咳、呼吸困难、喘息）。他的外周血涂片 {{exhibit_2}} 显示大量红细胞和散在的血小板，伴有2个较大的细胞，具有双叶核和嗜酸性颗粒；这2个较大的细胞是嗜酸性粒细胞。\n\n嗜酸性粒细胞在过敏性疾病（如哮喘、药物反应）和抵御寄生虫感染方面发挥重要作用。主要碱性蛋白是嗜酸性粒细胞颗粒中包含的主要物质，它对蠕虫（寄生虫）具有强大的毒性作用。嗜酸性粒细胞释放主要碱性蛋白会导致上皮细胞和内皮细胞的损伤，并且是某些肺部疾病（如哮喘、蛔虫感染）中慢性肺损伤的主要机制。\n\n（选项A）浆细胞产生抗体，调理细菌以促进吞噬作用。\n\n（选项C）吞噬细胞上的模式识别受体（例如，Dectin-1）允许通过先天免疫系统检测和破坏真菌。\n\n（选项D）病毒感染的细胞在其表面通常缺乏MHC I类蛋白；这些细胞被自然杀伤细胞识别并杀死。\n\n（选项E）巨噬细胞分泌转化生长因子-β（TGF-β），刺激成纤维细胞释放胶原蛋白并形成瘢痕组织。\n\n教育目标：\n嗜酸性粒细胞具有双叶核和细胞质中大量的嗜酸性颗粒，在过敏性疾病和抵御寄生虫感染方面很重要。嗜酸性粒细胞颗粒主要包含主要碱性蛋白，它是一种有效的抗蠕虫毒素。主要碱性蛋白还会损伤上皮细胞和内皮细胞，并且是哮喘中慢性肺损伤的主要原因。{{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of eosinophil function, particularly in the context of parasitic infections and allergic reactions. It requires recognizing the clinical scenario of Loeffler syndrome and identifying eosinophils on a peripheral blood smear.\n\nTo solve this question, recognize the patient's risk factors (pig farming) and symptoms (cough, wheezing) suggestive of parasitic infection. Identify the cells on the smear as eosinophils based on their bilobed nuclei and granules, and recall their primary function in destroying helminths through major basic protein.",
+    "zh": "此问题考察了嗜酸性粒细胞的功能知识，特别是在寄生虫感染和过敏反应的背景下。它需要识别Loeffler综合征的临床情况，并在外周血涂片上识别嗜酸性粒细胞。\n\n要解决这个问题，需要认识到患者的危险因素（养猪）和提示寄生虫感染的症状（咳嗽、喘息）。根据涂片上的细胞的双叶核和颗粒将其识别为嗜酸性粒细胞，并回忆它们通过主要碱性蛋白破坏蠕虫的主要功能。"
+  },
+  "tags": "Loeffler syndrome; Eosinophils; Helminths; Parasitic infection; Ascaris suum; Peripheral blood smear; Major basic protein; Pulmonary disease; Allergic disease; Immunology",
+  "category": "Chest",
+  "question_id": "523",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\523",
+  "extracted_at": "2025-11-05T11:45:54.183747",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:40:22.504812",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

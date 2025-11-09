@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 59-year-old woman comes to the office due to progressive fatigue and occasional heart palpitations over the last 6 months. The patient has been under a lot of stress recently due to problems at work. She has no dietary restrictions, eats out at restaurants frequently, and drinks 2 or 3 cans of beer on the weekends. The patient is postmenopausal and has not noticed any uterine bleeding, dark stools, or bleeding with bowel movements. Her BMI is 25 kg/m². Hemoglobin is 8.5 g/dL. Peripheral blood smear reveals pale, microcytic erythrocytes. {{exhibit_1}}",
+    "zh": "一名59岁的女性因过去6个月来逐渐加重的疲劳和偶尔的心悸来就诊。由于工作上的问题，患者最近压力很大。她没有饮食限制，经常在餐馆吃饭，周末喝2到3罐啤酒。该患者已绝经，没有注意到任何子宫出血、黑便或便血。她的BMI为25 kg/m²。血红蛋白为8.5 g/dL。外周血涂片显示苍白、小细胞红细胞。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying cause of this patient's abnormal laboratory findings?",
+    "zh": "以下哪项最可能是该患者异常实验室检查结果的根本原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Substance use disorder",
+      "zh": "物质使用障碍"
+    },
+    "B": {
+      "en": "Hematologic malignancy",
+      "zh": "血液系统恶性肿瘤"
+    },
+    "C": {
+      "en": "Hemolysis",
+      "zh": "溶血"
+    },
+    "D": {
+      "en": "Liver disease",
+      "zh": "肝病"
+    },
+    "E": {
+      "en": "Occult blood loss",
+      "zh": "隐性失血"
+    },
+    "F": {
+      "en": "Poor nutrition",
+      "zh": "营养不良"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Fatigue and heart palpitations are common manifestations of all forms of anemia. This patient's peripheral smear findings indicate hypochromic, microcytic anemia, which most often arises in the setting of IRON deficiency. The primary, and most dangerous if overlooked, mechanism of iron deficiency is blood loss, and it should be excluded first. Women of childbearing age are commonly iron deficient due to menstruation. Men (especially over the age of 60) or postmenopausal women have no physiologic reason to be iron deficient and therefore should be evaluated for blood loss in the gastrointestinal (GI) tract (eg, due to malignancy). GI blood loss is often occult, so the lack of dark or bright red stools in this patient should not rule out GI hemorrhage. Iron studies (including ferritin) should be obtained, and the patient will likely require endoscopic evaluation.\n\n(Choice A) Ingestion of the more commonly abused drugs is not associated with microcytic anemia.\n\n(Choice B) Hematologic malignancies (eg, leukemia, lymphoma, multiple myeloma) tend to be associated with normochromic, normocytic anemia. The decrease in erythropoiesis seen in these patients results from hypersplenism or tumor replacement of bone marrow mass.\n\n(Choice C) Hemolysis often presents with a normochromic, normocytic anemia. Spherocytes or schistocytes are often seen on peripheral blood smear.\n\n(Choice D) The anemia of chronic liver disease is usually normocytic or slightly macrocytic with target cells on the peripheral blood smear. Microcytic anemia occurs in <25% of cases, and most patients have only mild anemia with a hemoglobin level of 10-11 g/dL.\n\n(Choice F) This patient has a normal BMI and no factors predisposing her to malnutrition (eg, dietary restrictions, chronic alcohol use). A normal Western diet provides 6 mg of iron for every 1,000 calories, and the recommended intake for individuals age >50 is 8 mg per day. As a result, men and postmenopausal women (ie, not menstruating, pregnant, or lactating) usually have no dietary iron shortage.",
+    "zh": "疲劳和心悸是所有类型贫血的常见表现。该患者的外周血涂片结果表明为低色素性小细胞性贫血，这通常发生在缺铁的情况下。如果被忽视，缺铁的首要且最危险的机制是失血，应首先排除。育龄妇女通常由于月经而缺铁。男性（尤其是60岁以上）或绝经后妇女没有生理原因缺铁，因此应评估胃肠道（GI）失血情况（例如，由于恶性肿瘤）。胃肠道失血通常是隐匿性的，因此该患者缺乏黑便或鲜红色粪便不应排除胃肠道出血。应进行铁代谢检查（包括铁蛋白），并且该患者可能需要内镜评估。\n\n（选项A）摄入更常被滥用的药物与小细胞性贫血无关。\n\n（选项B）血液系统恶性肿瘤（例如，白血病、淋巴瘤、多发性骨髓瘤）往往与正色素性、正常细胞性贫血相关。在这些患者中看到的红细胞生成减少是由于脾功能亢进或肿瘤替代骨髓质量。\n\n（选项C）溶血通常表现为正色素性、正常细胞性贫血。外周血涂片上常可见球形红细胞或裂细胞。\n\n（选项D）慢性肝病引起的贫血通常是正常细胞性或略大细胞性，外周血涂片上可见靶形细胞。小细胞性贫血的发生率低于25%，并且大多数患者仅有轻度贫血，血红蛋白水平为10-11 g/dL。\n\n（选项F）该患者的BMI正常，并且没有任何易患营养不良的因素（例如，饮食限制、长期饮酒）。正常的西方饮食每1,000卡路里提供6 mg铁，建议50岁以上个体的摄入量为每天8 mg。因此，男性和绝经后妇女（即，未月经、怀孕或哺乳）通常没有膳食铁缺乏症。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the differential diagnosis of microcytic anemia, specifically focusing on iron deficiency anemia and its common causes. It requires understanding the clinical presentation and laboratory findings associated with iron deficiency. \n\nThe best approach is to identify the microcytic anemia and then consider the most likely causes, especially in a postmenopausal woman. Rule out other causes of microcytic anemia and consider the possibility of occult blood loss, which is a common cause of iron deficiency in this population.",
+    "zh": "此题考察了小细胞性贫血的鉴别诊断知识，特别侧重于缺铁性贫血及其常见病因。它需要了解与缺铁相关的临床表现和实验室检查结果。\n\n最好的方法是确定小细胞性贫血，然后考虑最可能的病因，尤其是在绝经后妇女中。排除小细胞性贫血的其他病因，并考虑隐性失血的可能性，这是该人群中缺铁的常见原因。"
+  },
+  "tags": "Microcytic anemia; Iron deficiency anemia; Occult blood loss; Gastrointestinal bleeding; Hematology; Anemia",
+  "category": "Blood",
+  "question_id": "1793",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1793",
+  "extracted_at": "2025-11-05T11:28:13.931088",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:29:16.198374",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

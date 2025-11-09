@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 21-year-old man comes to clinic for a routine health maintenance visit. During testicular examination, he is found to have a single testis in the scrotum. Laboratory evaluation shows an elevated serum FSH level and a normal serum LH level.",
+    "zh": "一名21岁的男性前来诊所进行常规健康维护就诊。在睾丸检查期间，发现他在阴囊中只有一个睾丸。实验室评估显示血清FSH水平升高，而血清LH水平正常。"
+  },
+  "question": {
+    "en": "Production of which of the following substances is most likely decreased in this patient?",
+    "zh": "该患者最有可能减少哪种物质的产生？"
+  },
+  "options": {
+    "A": {
+      "en": "Dehydroepiandrosterone",
+      "zh": "脱氢表雄酮"
+    },
+    "B": {
+      "en": "Dihydrotestosterone",
+      "zh": "二氢睾酮"
+    },
+    "C": {
+      "en": "GnRH",
+      "zh": "促性腺激素释放激素 (GnRH)"
+    },
+    "D": {
+      "en": "Inhibin B",
+      "zh": "抑制素B"
+    },
+    "E": {
+      "en": "Testosterone",
+      "zh": "睾酮"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Normal functioning of the hypothalamic-pituitary-gonadal axis involves pulsatile secretion of GnRH from the hypothalamus, which stimulates the release of FSH and LH from the gonadotrophs of the anterior pituitary. LH triggers the release of testosterone from the Leydig cells of the testes: FSH stimulates the release of inhibin B from the Sertoli cells of the testes. Testosterone has a negative feedback effect on LH and GnRH secretion, while inhibin B suppresses FSH secretion. {{exhibit_1}}\n\nSertoli cells within the seminiferous tubules are temperature sensitive and prone to atrophy from heat damage when located outside of the scrotum, which is at a relatively lower temperature than the body's core. Therefore, when there is an UNDESCENDED TESTICLE (as in this patient with only 1 scrotal testicle) Sertoli cell mass is reduced and circulating levels of inhibin B are low. In turn, the lack of negative feedback from inhibin B on FSH production results in elevated FSH levels.\n\n(Choice A) Although dehydroepiandrosterone (DHEA) is a precursor to testosterone, the testicles only release a small amount of DHEA into the circulation. Systemic levels of DHEA are derived primarily from the adrenal glands.\n\n(Choices B, C, and E) In contrast to heat-sensitive Sertoli cells, Leydig cell function is not significantly affected by increased temperature, so testosterone, dihydrotestosterone, and LH levels are usually normal in cryptorchidism. In addition, this patient's normal LH level is indicative of normal (not decreased) GnRH activity.\n\nEducational objective:\nInhibin B, which is produced by heat-sensitive Sertoli cells, is a physiologic inhibitor of FSH secretion. In patients with cryptorchidism, atrophy of Sertoli cells results in decreased inhibin B and, in turn, elevated FSH. In contrast, Leydig cell function is not significantly affected, so testosterone and LH levels are typically normal in these patients.",
+    "zh": "下丘脑-垂体-性腺轴的正常功能涉及下丘脑脉冲式分泌GnRH，从而刺激垂体前叶的促性腺素释放FSH和LH。LH触发睾丸间质细胞释放睾酮：FSH刺激睾丸支持细胞释放抑制素B。睾酮对LH和GnRH的分泌有负反馈作用，而抑制素B抑制FSH的分泌。{{exhibit_1}}\n\n曲细精管内的支持细胞对温度敏感，当位于阴囊外时，容易因热损伤而萎缩，阴囊的温度相对低于身体的核心温度。因此，当有隐睾（如该患者只有一个阴囊睾丸）时，支持细胞数量减少，循环抑制素B水平降低。反过来，由于缺乏抑制素B对FSH产生的负反馈作用，导致FSH水平升高。\n\n(选项A) 虽然脱氢表雄酮(DHEA)是睾酮的前体，但睾丸只释放少量DHEA进入循环。全身DHEA水平主要来自肾上腺。\n\n(选项B、C和E) 与对热敏感的支持细胞相比，间质细胞的功能不受温度升高的显着影响，因此，隐睾症患者的睾酮、二氢睾酮和LH水平通常正常。此外，该患者的LH水平正常，表明GnRH活性正常（未降低）。\n\n教育目标：\n抑制素B由对热敏感的支持细胞产生，是FSH分泌的生理抑制剂。在隐睾症患者中，支持细胞萎缩导致抑制素B减少，进而导致FSH升高。相比之下，间质细胞的功能不受明显影响，因此，这些患者的睾酮和LH水平通常是正常的。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the hypothalamic-pituitary-gonadal axis and the role of inhibin B in FSH regulation, particularly in the context of cryptorchidism. It assesses the understanding of how Sertoli cell dysfunction due to undescended testes leads to decreased inhibin B production and subsequent FSH elevation.\n\nTo solve this question, recognize that the patient has cryptorchidism (undescended testicle), which affects Sertoli cell function. Recall that Sertoli cells produce inhibin B, which inhibits FSH. Therefore, in cryptorchidism, inhibin B levels will be low, leading to elevated FSH.",
+    "zh": "此问题测试对下丘脑-垂体-性腺轴的了解以及抑制素B在FSH调节中的作用，特别是在隐睾症的背景下。它评估了对由于隐睾引起的Sertoli细胞功能障碍导致抑制素B产生减少和随后的FSH升高的理解。\n\n要解决这个问题，请认识到患者患有隐睾症（未降睾丸），这会影响Sertoli细胞的功能。回想一下，Sertoli细胞产生抑制素B，它会抑制FSH。因此，在隐睾症中，抑制素B水平会降低，导致FSH升高。"
+  },
+  "tags": "Cryptorchidism; Inhibin B; FSH; Hypothalamic-pituitary-gonadal axis; Sertoli cells; Endocrinology; Testicular examination",
+  "category": "Endo",
+  "question_id": "217",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\217",
+  "extracted_at": "2025-11-05T14:07:10.363946",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:41:12.779717",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

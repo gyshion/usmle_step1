@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old male with anorexia and fatigue is found to have persistently elevated serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels. He is also positive for HBsAg. ",
+    "zh": "一名32岁男性，出现厌食和疲劳，检查发现血清丙氨酸转氨酶(ALT)和天冬氨酸转氨酶(AST)水平持续升高。HBsAg也呈阳性。"
+  },
+  "question": {
+    "en": "Which of the following best describes the mechanism of liver injury in this patient?",
+    "zh": "以下哪项最能描述该患者肝损伤的机制？"
+  },
+  "options": {
+    "A": {
+      "en": "Direct viral cytotoxic effect with hepatocyte necrosis",
+      "zh": "病毒直接细胞毒效应，导致肝细胞坏死"
+    },
+    "B": {
+      "en": "Antibody response to viral antigens on the cell surface with antibody-mediated cell damage",
+      "zh": "针对细胞表面病毒抗原的抗体反应，导致抗体介导的细胞损伤"
+    },
+    "C": {
+      "en": "Circulating viral antigen-antibody complexes with small vessel deposition and immunologic vessel injury",
+      "zh": "循环病毒抗原-抗体复合物沉积于小血管，导致免疫性血管损伤"
+    },
+    "D": {
+      "en": "Antigen mimicry with generation of self-antigen recognizing CD4+ T lymphocytes that damage hepatocytes",
+      "zh": "抗原模拟产生识别自身抗原的CD4+ T淋巴细胞，从而损伤肝细胞"
+    },
+    "E": {
+      "en": "CD8+ T lymphocyte response to viral antigens on the cell surface resulting in hepatocyte damage",
+      "zh": "CD8+ T淋巴细胞对细胞表面病毒抗原的反应，导致肝细胞损伤"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Hepatitis B virus infection progresses through two phases: the proliferative phase and the integrative phase.\n\nIn the proliferative phase, the entire virion and all related antigens of the episomal HBV DNA are present. On the hepatocyte cell surface, viral HBsAg and HBcAg are expressed in conjunction with the major histocompatibility complex (MHC) class I molecules. This expression serves to activate the cytotoxic CD8+ T lymphocytes, which respond by destroying the infected hepatocytes. Note that the virion itself does not have a cytopathic effect.\n\nIn the integrative phase, the HBV DNA is incorporated into the host genome of those hepatocytes that survived the immune response. Infectivity ceases and liver damage tapers off when the antiviral antibodies appear and viral replication stops. The risk of hepatocellular carcinoma, however, remains elevated because of the HBV DNA that has been integrated into the host genome.\n\n(Choice A) Hepatitis B virus has no direct cytotoxic effect.\n\n(Choice B) Host antibody HBsAb neutralizes HBV infectivity by binding to the viral surface antigen HBsAg and preventing the antigen from interacting with hepatocyte receptors. Note that this neutralization occurs before the virus enters the hepatocyte, and therefore would not be associated with hepatocellular damage.\n\n(Choice C) Antigen-antibody complexes cause some of the early symptoms of hepatitis B infection (eg, arthralgias, arthritis, and urticaria) as well as some of the chronic complications (eg, immune complex glomerulonephritis, cryoglobulinemia, vasculitis). These complexes are not responsible for hepatocellular damage, however.\n\n(Choice D) The pathogenesis of autoimmune hepatitis (not hepatitis B infection) involves antigen mimicry with generation of self-antigen recognizing CD4+ T lymphocytes that damage hepatocytes.\n\nEducational Objective:\nHepatitis B virus does not have a cytotoxic effect itself; however, the presence of viral HBsAg and HBcAg on the cell surface stimulate the host’s cytotoxic CD8+ T lymphocytes to destroy infected hepatocytes.",
+    "zh": "乙型肝炎病毒感染经历两个阶段：增殖期和整合期。\n\n在增殖期，完整的病毒颗粒和所有相关的环状HBV DNA抗原均存在。在肝细胞表面，病毒的HBsAg和HBcAg与主要组织相容性复合体（MHC）I类分子共同表达。这种表达激活细胞毒性CD8+ T淋巴细胞，它们通过摧毁被感染的肝细胞来做出反应。请注意，病毒颗粒本身没有细胞病变效应。\n\n在整合期，HBV DNA整合到那些存活下来的肝细胞的宿主基因组中，这些肝细胞逃脱了免疫反应。当抗病毒抗体出现并且病毒复制停止时，感染性停止，肝损伤逐渐减少。然而，由于HBV DNA已整合到宿主基因组中，因此肝细胞癌的风险仍然升高。\n\n(选项A) 乙型肝炎病毒没有直接的细胞毒作用。\n\n(选项B) 宿主抗体HBsAb通过与病毒表面抗原HBsAg结合并阻止抗原与肝细胞受体相互作用来中和HBV感染。请注意，这种中和发生在病毒进入肝细胞之前，因此与肝细胞损伤无关。\n\n(选项C) 抗原-抗体复合物导致乙型肝炎感染的一些早期症状（例如，关节痛、关节炎和荨麻疹）以及一些慢性并发症（例如，免疫复合物性肾小球肾炎、冷球蛋白血症、血管炎）。然而，这些复合物不是肝细胞损伤的原因。\n\n(选项D) 自身免疫性肝炎（而非乙型肝炎感染）的发病机制涉及抗原模拟，产生识别自身抗原的CD4+ T淋巴细胞，从而损伤肝细胞。\n\n教育目标：乙型肝炎病毒本身没有细胞毒作用；然而，细胞表面存在病毒的HBsAg和HBcAg会刺激宿主的细胞毒性CD8+ T淋巴细胞破坏被感染的肝细胞。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathogenesis of liver injury in hepatitis B virus (HBV) infection, specifically the role of CD8+ T lymphocytes in hepatocyte damage. It also requires understanding of the different phases of HBV infection and the mechanisms by which the virus causes liver damage.\n\nTo answer this question correctly, one must recall that HBV itself is not directly cytotoxic. Instead, the liver damage is primarily mediated by the host's immune response, specifically the cytotoxic CD8+ T lymphocytes that target and destroy infected hepatocytes expressing viral antigens on their surface.",
+    "zh": "此题考察了乙型肝炎病毒（HBV）感染时肝损伤的发病机制知识，特别是CD8+ T淋巴细胞在肝细胞损伤中的作用。它还要求了解HBV感染的不同阶段以及病毒引起肝损伤的机制。\n\n要正确回答此题，必须记住HBV本身没有直接的细胞毒性。相反，肝损伤主要由宿主的免疫反应介导，特别是细胞毒性CD8+ T淋巴细胞，它们靶向并摧毁表达细胞表面病毒抗原的被感染肝细胞。"
+  },
+  "tags": "Hepatitis B; Liver injury; CD8+ T lymphocytes; HBsAg; Viral hepatitis; Immunology; Gastroenterology; Hepatology",
+  "category": "GIT",
+  "question_id": "375",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\375",
+  "extracted_at": "2025-11-05T14:33:57.218169",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:56:54.832368",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

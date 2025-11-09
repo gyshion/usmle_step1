@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 20-year-old man is brought to the emergency department due to fever, headache, and neck pain for the last day. He has no significant medical history. Temperature is 38.7 C (101.7 F), blood pressure is 120/72 mm Hg, pulse is 112/min, and respirations are 26/min. There is neck stiffness and a petechial rash on the trunk. Cerebrospinal fluid (CSF) analysis reveals the following:\n\nGlucose 30 mg/dL\nProtein 180 mg/dL\nLeukocytes 1,500/mm³\nNeutrophils 70%\n\nCSF gram stain shows gram-negative diplococci. In the emergency department, the patient's hemodynamic status deteriorates rapidly. Blood pressure drops to 80/50 mm Hg, and the venous access sites are oozing blood. {{exhibit_1}}",
+    "zh": "一名20岁男性因发烧、头痛和颈部疼痛一天被送往急诊科。他没有重要的病史。体温为38.7°C (101.7°F)，血压为120/72 mmHg，脉搏为112次/分钟，呼吸为26次/分钟。有颈部僵硬和躯干上的瘀点皮疹。脑脊液 (CSF) 分析显示如下：\n\n葡萄糖30 mg/dL\n蛋白质180 mg/dL\n白细胞1,500/mm³\n中性粒细胞70%\n\n脑脊液革兰染色显示革兰氏阴性双球菌。在急诊科，患者的血流动力学状态迅速恶化。血压降至80/50 mmHg，静脉通路部位正在渗血。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following findings is most likely to be seen on this patient's peripheral blood smear?",
+    "zh": "该患者的血涂片中最有可能看到以下哪种发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Atypical lymphocytosis",
+      "zh": "异型淋巴细胞增多"
+    },
+    "B": {
+      "en": "Howell-Jolly bodies",
+      "zh": "Howell-Jolly小体"
+    },
+    "C": {
+      "en": "Hypersegmented neutrophils",
+      "zh": "超分叶中性粒细胞"
+    },
+    "D": {
+      "en": "Reactive thrombocytosis",
+      "zh": "反应性血小板增多"
+    },
+    "E": {
+      "en": "Schistocytes",
+      "zh": "裂红细胞"
+    },
+    "F": {
+      "en": "Severe pancytopenia",
+      "zh": "重度全血细胞减少"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's clinical findings (fever, headache, neck stiffness, rash) and cerebrospinal fluid analysis (elevated protein, low glucose, leukocytosis, gram-negative diplococci) are indicative of MENINGOCOCCAL MENINGITIS; he subsequently developed septic shock (severe hypotension) while in the emergency department. His bleeding from venous puncture sites is highly suggestive of DISSEMINATED INTRAVASCULAR COAGULATION (DIC), a consumptive coagulopathy associated with sepsis, malignancy, trauma, and obstetric complications.\n\nIn DIC due to gram-negative sepsis, the coagulation cascade is activated by bacterial endotoxins, leading to widespread fibrin deposition and the consumption of coagulation factors and platelets, with eventual bleeding. Deposition of fibrin strands in small vessels can cause shearing of circulating erythrocytes, resulting in schistocytes (fragmented erythrocytes) on peripheral smear. Laboratory values in DIC typically show decreased platelet count and fibrinogen level and prolonged PT and PTT (indicating a consumption of coagulation factors).\n\n(Choice A) Atypical lymphocytes are reactive lymphocytes with abundant, pale-blue cytoplasm and large nuclei. They are often seen in viral infections, particularly infectious mononucleosis.\n\n(Choice B) Howell-Jolly bodies are round, dark, purple/red inclusions within erythrocytes. These represent nuclear fragments that are typically removed by the spleen; they can be seen in patients with splenectomy or reduced splenic function (eg, sickle cell).\n\n(Choice C) Hypersegmented neutrophils are characterized by nuclei with ≥6 lobes. They are a feature of megaloblastic anemia (vitamin B₁₂ or folate deficiency).\n\n(Choice D) Reactive thrombocytosis is common in infection due to cytokine-mediated megakaryocyte proliferation and the release of platelets into the peripheral bloodstream. In contrast, patients with DIC have thrombocytopenia due to platelet consumption.\n\n(Choice F) Severe pancytopenia is often seen in patients with aplastic anemia, which is characterized by destruction of hematopoietic stem cells and profoundly hypocellular bone marrow. Although patients with severe pancytopenia are at risk for bleeding, oozing from venipuncture sites in the setting of sepsis almost always indicates DIC. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "该患者的临床表现（发烧、头痛、颈部僵硬、皮疹）和脑脊液分析（蛋白质升高、葡萄糖降低、白细胞增多、革兰氏阴性双球菌）表明患有脑膜炎奈瑟菌性脑膜炎；随后他在急诊科发展为脓毒性休克（严重低血压）。他从静脉穿刺部位出血高度提示弥散性血管内凝血（DIC），这是一种消耗性凝血病，与脓毒症、恶性肿瘤、创伤和产科并发症有关。\n\n在由革兰氏阴性脓毒症引起的DIC中，凝血级联反应由细菌内毒素激活，导致广泛的纤维蛋白沉积以及凝血因子和血小板的消耗，最终导致出血。纤维蛋白链在小血管中的沉积会导致循环红细胞的剪切，从而导致外周血涂片上出现裂红细胞（红细胞碎片）。 DIC的实验室值通常显示血小板计数和纤维蛋白原水平降低，以及PT和PTT延长（表明凝血因子的消耗）。\n\n（选项A）异型淋巴细胞是反应性淋巴细胞，具有丰富的淡蓝色细胞质和大核。它们通常见于病毒感染，尤其是传染性单核细胞增多症。\n\n（选项B）Howell-Jolly小体是红细胞内的圆形、深色、紫色/红色内含物。这些代表通常由脾脏去除的核碎片；它们可见于脾切除术或脾功能降低的患者（例如，镰状细胞）。\n\n（选项C）超分叶中性粒细胞的特征是核具有≥6个叶。它们是巨幼细胞性贫血（维生素B₁₂或叶酸缺乏症）的特征。\n\n（选项D）反应性血小板增多在感染中很常见，原因是细胞因子介导的巨核细胞增殖和血小板释放到外周血流中。相反，DIC患者由于血小板消耗而发生血小板减少症。\n\n（选项F）重度全血细胞减少症通常见于再生障碍性贫血患者，其特征是造血干细胞破坏和骨髓极度低细胞化。尽管患有重度全血细胞减少症的患者有出血风险，但在脓毒症的情况下从静脉穿刺部位渗血几乎总是表明DIC。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of disseminated intravascular coagulation (DIC) as a complication of gram-negative bacterial sepsis, specifically its effect on peripheral blood smear findings. It requires recognizing the clinical presentation of meningococcal meningitis leading to septic shock and DIC.\n\nThe key to solving this question is identifying the signs of DIC (oozing blood, septic shock) and understanding its pathophysiology. DIC causes fibrin deposition, leading to schistocyte formation due to erythrocyte shearing. Recognizing this connection is crucial for selecting the correct answer.",
+    "zh": "此问题测试对弥散性血管内凝血（DIC）作为革兰氏阴性细菌脓毒症的并发症的了解，特别是其对外周血涂片发现的影响。它需要识别导致脓毒性休克和DIC的脑膜炎奈瑟菌性脑膜炎的临床表现。\n\n解决此问题的关键是确定DIC的征兆（渗血、脓毒性休克）并了解其病理生理学。 DIC导致纤维蛋白沉积，由于红细胞剪切导致裂红细胞形成。 认识到这种联系对于选择正确答案至关重要。"
+  },
+  "tags": "Disseminated intravascular coagulation; Meningococcal meningitis; Septic shock; Schistocytes; Peripheral blood smear; Coagulation cascade; Gram-negative sepsis; Hematology; Infectious disease",
+  "category": "Blood",
+  "question_id": "1295",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1295",
+  "extracted_at": "2025-11-05T11:22:09.476692",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:26:40.861373",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

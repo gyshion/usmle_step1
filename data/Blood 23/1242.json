@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "Hemoglobin C (HbC) disease is due to a single amino acid substitution (glutamic acid → lysine) at position 6 in the beta globin chain of the hemoglobin molecule. Hemoglobin S (HbS) is similar to HbC in that it is also formed by an amino acid substitution at position 6 in the beta globin chain. However, patients homozygous for HbC have mild chronic hemolytic anemia, whereas those homozygous for HbS generally have a more severe anemia complicated by vasoocclusive pain episodes.",
+    "zh": "血红蛋白C (HbC) 病是由于血红蛋白分子β珠蛋白链的第6位氨基酸发生单一取代（谷氨酸 → 赖氨酸）引起的。血红蛋白S (HbS) 与 HbC 相似，也是由β珠蛋白链第6位的氨基酸取代形成的。然而，HbC纯合子患者患有轻度慢性溶血性贫血，而HbS纯合子患者通常患有更严重的贫血，并伴有血管闭塞性疼痛发作。"
+  },
+  "question": {
+    "en": "Which of the following properties best accounts for the differing clinical severity between the two conditions?",
+    "zh": "以下哪种特性最能解释这两种疾病之间不同的临床严重程度？"
+  },
+  "options": {
+    "A": {
+      "en": "HbS allows hydrophobic interaction among hemoglobin molecules",
+      "zh": "HbS 允许血红蛋白分子之间发生疏水相互作用"
+    },
+    "B": {
+      "en": "HbS decreases beta globin interaction with 2,3-bisphosphoglycerate",
+      "zh": "HbS 降低了β珠蛋白与 2,3-二磷酸甘油酸酯的相互作用"
+    },
+    "C": {
+      "en": "HbS impairs oxygen unloading from the heme moiety",
+      "zh": "HbS 损害了血红素部分释放氧气的能力"
+    },
+    "D": {
+      "en": "HbS prevents proper folding of the alpha helix in the beta globin chain",
+      "zh": "HbS 阻止了β珠蛋白链中α螺旋的正确折叠"
+    },
+    "E": {
+      "en": "HbS stabilizes the iron moiety in the ferric (Fe3+) state",
+      "zh": "HbS 稳定了铁部分在铁(Fe3+)状态"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Globlin chains in the hemoglobin tetramer are compactly folded due to nonpolar hydrophobic residues in the interior and charged polar residues on the surface. In sickle cell disease {{exhibit_1}}, the usual acidic (negatively charged) glutamic acid (glu) residue at the sixth position on the beta globin chain is replaced by a nonpolar (neutral charge) valine (val) residue, forming hemoglobin S (HbS). This single glu → val substitution leads to the formation of a hydrophobic pocket on the beta globin surface that interacts with a complementary nonpolar residue on another hemoglobin molecule. The hydrophobic interaction causes polymerization of HbS molecules and subsequent erythrocyte sickling, leading to membrane damage and permanent distortion of red blood cells. Red cell sickling is promoted by low oxygen levels, increased acidity, and dehydration.\n\nIn patients with hemoglobin C (HbC), glu is replaced by a basic polar (positively charged) lysine (lys) residue. Because lys is charged (although it has opposite polarity to glu), there is no hydrophobic interaction between hemoglobin molecules and no polymerization/sickling. However, the positive charge of lys causes HbC to have decreased mobility on electrophoresis.\n\n(Choice B) HbS and HbC do not differ significantly from normal hemoglobin in affinity to 2,3-bisphosphoglycerate (2,3-BPG). In addition, weaker interaction with 2,3-BPG would lead to increased oxygen affinity (left shift of the oxygen-hemoglobin dissociation curve), which would help ameliorate sickling.\n\n(Choice C) The ability of HbS to polymerize helps stabilize the deoxygenated form, causing a right shift of the oxygen-hemoglobin dissociation curve that facilitates oxygen unloading. In contrast, impaired oxygen unloading occurs with carboxyhemoglobin due to an allosteric change that increases the affinity of the remaining 3 oxygen-binding sites.\n\n(Choice D) A glu → val substitution affects the 3-dimensional (tertiary) structure of hemoglobin, but it does not result in a significant change in the alpha helical (secondary) structure. Introducing proline into the primary structure could distort the alpha helix due to proline's rigid cyclic structure.\n\n(Choice E) HbS and HbC mutations do not involve amino acids lining the heme pocket. Heme iron oxidation (ferrous [Fe2+] → ferric [Fe3+]) results in methemoglobin formation. Hemoglobin M disease is a congenital cause of methemoglobinemia due to a mutation in the heme-binding pocket.\n\nEducational objective:\nHemoglobin S (HbS) contains valine in place of glutamic acid at the sixth amino acid position of the beta globin chain. This promotes hydrophobic interaction among Hb molecules and results in HbS polymerization and erythrocyte sickling.",
+    "zh": "血红蛋白四聚体中的珠蛋白链因内部的非极性疏水残基和表面的带电极性残基而紧密折叠。在镰状细胞病{{exhibit_1}}中，β珠蛋白链第六位的通常的酸性（带负电荷）谷氨酸 (glu) 残基被非极性（中性电荷）缬氨酸 (val) 残基取代，形成血红蛋白 S (HbS)。这种单一的 glu → val 取代导致在β珠蛋白表面形成一个疏水袋，该疏水袋与另一个血红蛋白分子上的互补非极性残基相互作用。疏水相互作用导致 HbS 分子聚合，随后发生红细胞镰变，导致膜损伤和红细胞永久变形。低氧水平、酸度增加和脱水会促进红细胞镰变。\n\n在血红蛋白 C (HbC) 患者中，glu 被碱性极性（带正电荷）赖氨酸 (lys) 残基取代。由于 lys 带电荷（尽管其极性与 glu 相反），因此血红蛋白分子之间没有疏水相互作用，也没有聚合/镰变。然而，lys 的正电荷导致HbC 在电泳中流动性降低。\n\n（选项 B） HbS 和 HbC 与正常血红蛋白对 2,3-二磷酸甘油酸酯 (2,3-BPG) 的亲和力没有显着差异。此外，与 2,3-BPG 的相互作用较弱会导致氧亲和力增加（氧-血红蛋白解离曲线左移），这有助于改善镰变。\n\n（选项 C）HbS 的聚合能力有助于稳定脱氧形式，导致氧-血红蛋白解离曲线右移，从而促进氧释放。相比之下，由于变构变化增加了剩余 3 个氧结合位点的亲和力，一氧化碳血红蛋白会出现氧释放受损。\n\n（选项 D）glu → val 取代会影响血红蛋白的三维（三级）结构，但不会导致α螺旋（二级）结构的显着变化。将脯氨酸引入一级结构可能会因脯氨酸的刚性环状结构而使α螺旋变形。\n\n（选项 E）HbS 和 HbC 突变不涉及构成血红素袋的氨基酸。血红素铁氧化（亚铁 [Fe2+] → 铁 [Fe3+]）导致高铁血红蛋白的形成。血红蛋白 M 病是由于血红素结合袋中的突变导致先天性高铁血红蛋白血症。\n\n教育目标：\n血红蛋白 S (HbS) 在β珠蛋白链的第六个氨基酸位置用缬氨酸代替谷氨酸。这促进了 Hb 分子之间的疏水相互作用，导致 HbS 聚合和红细胞镰变。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the molecular basis of sickle cell disease and hemoglobin C disease, specifically the role of amino acid substitutions in hemoglobin structure and function. It assesses the ability to relate these molecular differences to the clinical severity of the two conditions.\n\nThe key to solving this question is to recognize that the glutamic acid to valine substitution in HbS leads to hydrophobic interactions and polymerization of hemoglobin, causing erythrocyte sickling and vaso-occlusive crises. Understanding the different amino acid substitution in HbC and its effect on hemoglobin properties is also crucial.",
+    "zh": "此问题测试对镰状细胞病和血红蛋白 C 疾病的分子基础的理解，特别是氨基酸取代在血红蛋白结构和功能中的作用。它评估了将这些分子差异与这两种疾病的临床严重程度联系起来的能力。\n\n解决此问题的关键是认识到 HbS 中谷氨酸到缬氨酸的取代会导致血红蛋白的疏水相互作用和聚合，从而导致红细胞镰变和血管闭塞危象。了解 HbC 中不同的氨基酸取代及其对血红蛋白特性的影响也很关键。"
+  },
+  "tags": "Sickle cell disease; Hemoglobin C disease; Hemoglobinopathies; Amino acid substitution; Hydrophobic interaction; Erythrocyte sickling; Vaso-occlusion; Hemoglobin S; Hemoglobin C; Molecular biology",
+  "category": "Blood",
+  "question_id": "1242",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1242",
+  "extracted_at": "2025-11-05T11:20:19.597797",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:26:27.549920",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

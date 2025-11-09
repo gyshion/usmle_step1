@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 48-year-old man comes to the emergency department due to 3 days of progressively worsening retrosternal burning chest pain, dysphagia, and odynophagia. His medical problems include hypertension and end-stage renal disease. He underwent cadaveric renal allograft transplantation 8 months ago. The patient's temperature is 38.3 C (101 F), blood pressure is 130/80 mm Hg, and pulse is 94/min. His BMI is 31 kg/m². The oral mucosa is pink and moist without ulcerations. Cardiopulmonary examination is normal. The abdomen is soft with mild epigastric tenderness. The patient's leukocyte count is 4,200/mm³. An esophagogastroduodenoscopy demonstrates linear, shallow ulcerations in the lower esophagus. Which of the following is most likely to be seen on esophageal biopsy?",
+    "zh": "一名48岁男性因进行性加重的胸骨后灼痛、吞咽困难和吞咽疼痛3天而来到急诊科。他的内科疾病包括高血压和终末期肾病。他于8个月前接受了尸体肾同种异体移植。患者体温为38.3°C（101°F），血压为130/80 mmHg，脉搏为94次/分钟。他的BMI为31 kg/m²。口腔黏膜呈粉红色且湿润，无溃疡。心肺检查正常。腹部柔软，伴有轻微的上腹部压痛。患者的白细胞计数为4,200/mm³。食管胃十二指肠镜检查显示食管下段有线状、浅表性溃疡。以下哪一项最有可能在食管活检中看到？"
+  },
+  "question": {
+    "en": "Which of the following is most likely to be seen on esophageal biopsy?",
+    "zh": "在食管活检中最有可能看到什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Enlarged cells with intranuclear inclusions",
+      "zh": "细胞增大伴核内包涵体"
+    },
+    "B": {
+      "en": "Metaplastic columnar epithelium",
+      "zh": "化生柱状上皮"
+    },
+    "C": {
+      "en": "Mucosal tear without acute inflammation",
+      "zh": "黏膜撕裂，无急性炎症"
+    },
+    "D": {
+      "en": "Urease-producing organisms",
+      "zh": "产生尿素酶的生物体"
+    },
+    "E": {
+      "en": "Yeast with polysaccharide capsule",
+      "zh": "具有多糖荚膜的酵母菌"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's presentation suggests cytomegalovirus (CMV) esophagitis, which can occur in immunocompromised patients (eg, HIV, transplant, on immunosuppressant drugs). CMV can be transmitted to transplant recipients from the donor organ, or infection can occur subsequently due to chronic immunosuppression. Patients can be asymptomatic or develop a viral prodrome (eg, fever, malaise, myalgias) before organ involvement (eg, esophagitis, pneumonitis, colitis).\n\nCMV esophagitis usually presents with odynophagia (pain with swallowing) or dysphagia (difficulty swallowing) that can be accompanied by fever or burning chest pain. Endoscopy typically shows linear and shallow ulcerations in the lower esophagus that sometimes diffusely involve the esophagus. Tissue biopsy usually shows enlarged cells with basophilic or eosinophilic intranuclear inclusion bodies {{exhibit_1}}.\n\n(Choice B) Metaplastic columnar epithelium is seen in Barrett's esophagus, which is usually due to prolonged gastroesophageal reflux disease (GERD). Histology typically shows tongue-like projections of columnar epithelium with goblet cells (ie, intestinal metaplasia) extending from the distal esophagus to the gastroesophageal junction. The absence of chronic GERD symptoms in this patient makes this less likely.\n\n(Choice C) A Mallory-Weiss tear typically presents with hematemesis in association with chest or epigastric pain after repeated retching or vomiting; histology will show a mucosal tear without acute inflammation.\n\n(Choice D) Helicobacter pylori is a urease-producing organism that can be associated with gastritis and gastric or duodenal ulcers. It usually does not cause significant esophageal disease.\n\n(Choice E) Cryptococcus neoformans is a yeast with a polysaccharide capsule. Although disseminated cryptococcosis can occur in immunocompromised patients and involve almost any organ, localized esophageal involvement is more characteristic of Candida (a yeast without a polysaccharide capsule).",
+    "zh": "该患者的临床表现提示巨细胞病毒 (CMV) 食管炎，这种情况可能发生在免疫功能低下的患者中（如 HIV 感染者、移植患者、服用免疫抑制剂的患者）。CMV 可以通过供体器官传播给移植受者，或者由于慢性免疫抑制而继发感染。患者可能无症状，或者在器官受累之前出现病毒性前驱症状（如发热、不适、肌痛）（如食管炎、肺炎、结肠炎）。\n\nCMV 食管炎通常表现为吞咽疼痛或吞咽困难，并可能伴有发热或胸骨后灼痛。内镜检查通常显示食管下段线性和浅表性溃疡，有时弥漫性累及食管。组织活检通常显示细胞增大，伴嗜碱性或嗜酸性核内包涵体 {{exhibit_1}}。\n\n（选项 B）Barrett 食管可见化生柱状上皮，这通常是由于胃食管反流病 (GERD) 长期存在所致。组织学通常显示柱状上皮舌状突起，伴有杯状细胞（即肠化生），从食管远端延伸至胃食管结合部。该患者没有慢性 GERD 症状，因此这种可能性较小。\n\n（选项 C）Mallory-Weiss 撕裂通常表现为呕血，并伴有反复干呕或呕吐后的胸痛或上腹痛；组织学将显示黏膜撕裂，无急性炎症。\n\n（选项 D）幽门螺杆菌是一种产生尿素酶的生物体，可能与胃炎和胃溃疡或十二指肠溃疡有关。它通常不会引起严重的食管疾病。\n\n（选项 E）新型隐球菌是一种具有多糖荚膜的酵母菌。虽然播散性隐球菌病可能发生在免疫功能低下的患者中，并累及几乎任何器官，但局限性食管受累更符合白色念珠菌（一种不含多糖荚膜的酵母菌）的特征。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of cytomegalovirus (CMV) esophagitis in immunocompromised patients, particularly transplant recipients. It assesses the ability to recognize the typical endoscopic and histologic findings associated with CMV esophagitis.\n\nTo solve this question, consider the patient's history of renal transplant and immunosuppression, which increases the risk for opportunistic infections like CMV. Recall that CMV esophagitis presents with odynophagia, dysphagia, and linear ulcerations on endoscopy, and is characterized by enlarged cells with intranuclear inclusions on biopsy {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}.",
+    "zh": "本题考察对免疫功能低下患者（尤其是移植受者）巨细胞病毒 (CMV) 食管炎的了解。它评估了识别与 CMV 食管炎相关的典型内镜和组织学发现的能力。\n\n为了解决这个问题，请考虑患者的肾移植和免疫抑制病史，这会增加发生机会性感染（如 CMV）的风险。回想一下，CMV 食管炎表现为吞咽疼痛、吞咽困难，内镜检查可见线状溃疡，活检的特征是细胞增大伴核内包涵体 {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}。"
+  },
+  "tags": "Cytomegalovirus; Esophagitis; Immunocompromised; Transplant; Odynophagia; Dysphagia; Intranuclear inclusions; Infectious disease; Gastroenterology; Pathology",
+  "category": "GIT",
+  "question_id": "11548",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\11548",
+  "extracted_at": "2025-11-05T14:22:10.803107",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:50:09.587881",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

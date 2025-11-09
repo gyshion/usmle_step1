@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 54-year-old man comes to the office due to light-headedness when walking his dog in the morning. He has had no chest pain, shortness of breath, weakness, or headaches. Cardiac auscultation findings at the right sternal border are heard in the exhibit. {{exhibit_1}}",
+    "zh": "一名54岁男性因早上遛狗时感到头晕前来就诊。他没有胸痛、呼吸急促、乏力或头痛。在胸骨右缘可听到体格检查结果，见展品。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "以下哪项最可能是该患者症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Bicuspid aortic valve",
+      "zh": "二叶式主动脉瓣"
+    },
+    "B": {
+      "en": "Infective endocarditis",
+      "zh": "感染性心内膜炎"
+    },
+    "C": {
+      "en": "Marfan syndrome",
+      "zh": "马凡综合征"
+    },
+    "D": {
+      "en": "Mitral valve prolapse",
+      "zh": "二尖瓣脱垂"
+    },
+    "E": {
+      "en": "Ventricular septal defect",
+      "zh": "室间隔缺损"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Cardiac auscultation in this patient reveals a harsh, crescendo-decrescendo systolic ejection murmur which is classic for AORTIC STENOSIS (AS). The murmur is typically best heard at the right upper sternal border with radiation to the carotids. Patients with AS usually remain asymptomatic for a long time and gradually develop symptoms (eg, exertional dyspnea, angina, syncope) as the stenosis becomes severe. This patient's light-headedness while walking likely represents exertional presyncope due to inadequate cardiac output from severe AS.\n\nRheumatic heart disease is the most common cause of AS worldwide. However, in the United States, AS most commonly results from age-related calcification of a normal trileaflet or a congenitally abnormal bicuspid aortic valve. Calcification of a BICUSPID AORTIC VALVE is accelerated, causing patients to develop AS at a younger age compared to those with a normal trileaflet valve.\n\n(Choice B) Infective endocarditis (IE) usually causes a regurgitant, rather than a stenotic, murmur. IE affecting the mitral valve can cause a systolic murmur of mitral regurgitation, but the murmur is usually holosystolic and best heard at the cardiac apex. In addition, IE presenting with exertional presyncope would be unusual; fever and fatigue are more typical.\n\n(Choice C) Marfan syndrome is associated with aortic root dilatation, which can cause aortic regurgitation. However, the murmur of aortic regurgitation is a cecrescendo diastolic murmur.\n\n(Choice D) Mitral valve prolapse produces a midsystolic click that may be followed by a late systolic murmur of mitral regurgitation, best heard at the cardiac apex.\n\n(Choice E) A ventricular septal defect (VSD) typically causes a holosystolic murmur best heard at the left lower sternal border. A VSD first presenting in an adult age >50 would be rare and would typically present with symptoms of heart failure (eg, dyspnea) rather than exertional presyncope.\n\nEducational objective:\nA bicuspid aortic valve is a common cause of aortic stenosis in the United States. The classic auscultatory finding in aortic stenosis is a harsh, crescendo-decrescendo systolic ejection murmur best heard at the right upper sternal border with radiation to the carotids.",
+    "zh": "该患者的心脏听诊显示一种粗糙的、增强-减弱的收缩期喷射性杂音，这是主动脉瓣狭窄(AS)的典型表现。这种杂音通常在胸骨右缘上部听诊最为清楚，并向颈动脉放射。AS患者通常在很长一段时间内保持无症状，随着狭窄变得严重，会逐渐出现症状(如劳力性呼吸困难、心绞痛、晕厥)。该患者在行走时头晕可能代表因严重AS导致心输出量不足引起的劳力性前晕厥。\n\n风湿性心脏病是全球AS最常见的原因。然而，在美国，AS最常见的原因是与年龄相关的正常三叶或先天性异常二叶主动脉瓣的钙化。二叶主动脉瓣的钙化加速，导致患者在比正常三叶瓣患者更年轻时发生AS。\n\n(选项B) 感染性心内膜炎(IE)通常会引起反流性杂音，而不是狭窄性杂音。影响二尖瓣的IE可引起二尖瓣反流的收缩期杂音，但该杂音通常为全收缩期，并且在心尖处听诊最为清楚。此外，IE表现为劳力性前晕厥是不寻常的；发热和疲劳更为典型。\n\n(选项C) 马凡综合征与主动脉根部扩张有关，可引起主动脉瓣反流。然而，主动脉瓣反流的杂音是一种减弱的舒张期杂音。\n\n(选项D) 二尖瓣脱垂产生一个收缩中期喀喇音，随后可能出现二尖瓣反流的收缩晚期杂音，在心尖处听诊最清楚。\n\n(选项E) 室间隔缺损(VSD)通常引起全收缩期杂音，在胸骨左下缘听诊最为清楚。VSD首先出现在50岁以上的成年人中是罕见的，并且通常表现为心力衰竭的症状(如呼吸困难)，而不是劳力性前晕厥。\n\n教育目标：\n二叶主动脉瓣是美国主动脉瓣狭窄的常见原因。主动脉瓣狭窄的典型听诊结果是在胸骨右缘上部听诊最为清楚的粗糙的、增强-减弱的收缩期喷射性杂音。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of aortic stenosis, its common causes, and the associated auscultatory findings. It also requires differentiating aortic stenosis from other valvular heart diseases based on murmur characteristics and location.\n\nTo solve this question, recognize the key findings of exertional presyncope and a harsh systolic murmur at the right sternal border, which are highly suggestive of aortic stenosis. Then, consider the common causes of aortic stenosis in the US, with bicuspid aortic valve being a significant factor.",
+    "zh": "本题测试对主动脉瓣狭窄、其常见原因以及相关听诊结果的了解。它还需要根据杂音的特征和位置来区分主动脉瓣狭窄与其他瓣膜性心脏病。\n\n要解决这个问题，需要识别劳力性前晕厥和胸骨右缘粗糙的收缩期杂音的关键发现，这些都高度提示主动脉瓣狭窄。然后，考虑美国主动脉瓣狭窄的常见原因，其中二叶主动脉瓣是一个重要因素。"
+  },
+  "tags": "Aortic stenosis; Bicuspid aortic valve; Cardiac auscultation; Heart murmur; Valvular heart disease; Cardiology; Syncope; Exertional syncope",
+  "category": "CVS",
+  "question_id": "2106",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\2106",
+  "extracted_at": "2025-11-05T12:10:09.412325",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:28:12.222473",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

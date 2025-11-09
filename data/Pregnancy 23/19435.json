@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 19-year-old woman, gravida 1 para 0, at 29 weeks gestation comes to the emergency department due to severe right upper quadrant pain. The patient suddenly developed the pain this evening after dinner. The pain was associated with acute nausea and vomiting. She has no headaches or visual changes. The patient has no chronic medical conditions and takes no daily medications. Temperature is 36.7 C (98.1 F), blood pressure is 160/100 mm Hg, and pulse is 84/min. The abdomen is tender over the right upper quadrant, but no rebound or guarding is present. Hemoglobin is 8 g/dL. Urinalysis shows 3+ protein.",
+    "zh": "一名19岁的女性，孕1产0，妊娠29周，因严重的右上腹疼痛就诊于急诊科。患者在今晚晚餐后突然出现疼痛。疼痛伴有急性恶心和呕吐。她没有头痛或视觉改变。患者没有慢性病史，也没有服用日常药物。体温36.7°C (98.1°F)，血压160/100 mmHg，脉搏84次/分。腹部右上腹压痛，但无反跳痛或腹肌紧张。血红蛋白8 g/dL。尿常规显示3+蛋白。"
+  },
+  "question": {
+    "en": "Which of the following associated laboratory changes are most likely to be seen in this patient?",
+    "zh": "该患者最有可能出现以下哪种相关的实验室指标变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Alanine aminotransferase: -, Indirect bilirubin: -, Platelets: (71%)",
+      "zh": "丙氨酸氨基转移酶：-，间接胆红素：-，血小板：(71%)"
+    },
+    "B": {
+      "en": "Alanine aminotransferase: -, Indirect bilirubin: Normal, Platelets: (12%)",
+      "zh": "丙氨酸氨基转移酶：-，间接胆红素：正常，血小板：(12%)"
+    },
+    "C": {
+      "en": "Alanine aminotransferase: -, Indirect bilirubin: -, Platelets: (4%)",
+      "zh": "丙氨酸氨基转移酶：-，间接胆红素：-，血小板：(4%)"
+    },
+    "D": {
+      "en": "Alanine aminotransferase: Normal, Indirect bilirubin: -, Platelets: (7%)",
+      "zh": "丙氨酸氨基转移酶：正常，间接胆红素：-，血小板：(7%)"
+    },
+    "E": {
+      "en": "Alanine aminotransferase: Normal, Indirect bilirubin: Normal, Platelets: (4%)",
+      "zh": "丙氨酸氨基转移酶：正常，间接胆红素：正常，血小板：(4%)"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The patient presents with symptoms and signs suggestive of HELLP syndrome, which is a complication of PREeclampsia. The patient is pregnant (29 weeks gestation), has severe right upper quadrant pain, nausea, vomiting, hypertension (160/100 mm Hg), and significant proteinuria (3+). HELLP syndrome is an acronym for Hemolysis, Elevated Liver enzymes, and Low Platelet count. \n\nPathogenesis: HELLP syndrome is thought to result from abnormal placental development, leading to maternal endothelial dysfunction. This triggers widespread thrombi formation in the microvasculature, causing microangiopathic hemolytic anemia and thrombocytopenia. \n\nClinical Features: Common symptoms include right upper quadrant pain, nausea, vomiting, and sometimes headache or visual changes. Hypertension and proteinuria are often present, as seen in this patient.\n\nLaboratory Findings: The hallmark laboratory findings of HELLP syndrome include:\n1. Hemolysis: evidenced by schistocytes on peripheral blood smear, elevated LDH, and elevated indirect bilirubin.\n2. Elevated Liver enzymes: elevated AST (aspartate aminotransferase) and ALT (alanine aminotransferase).\n3. Low Platelet count: thrombocytopenia (platelet count < 150,000/μL).\n\nIn this patient, the hemoglobin of 8 g/dL suggests ANEMIA, which is consistent with hemolysis. The elevated blood pressure and proteinuria indicate preeclampsia, which is a prerequisite for HELLP syndrome. The right upper quadrant pain and nausea/vomiting are classic symptoms. Therefore, we expect to see elevated liver enzymes (alanine aminotransferase), elevated indirect bilirubin, and a low platelet count.\n\nLet's analyze the options:\nOption A: Suggests low alanine aminotransferase and low indirect bilirubin, which is incorrect. The platelet count of 71% is also not a standard representation of platelet count in HELLP syndrome.\nOption B: Suggests low alanine aminotransferase, which is incorrect. The platelet count of 12% is low, but the liver enzymes are not elevated.\nOption C: Suggests low alanine aminotransferase, low indirect bilirubin, and a low platelet count of 4%. While the description of alanine aminotransferase and indirect bilirubin is incomplete (indicated by '-'), the low platelet count (4% is a very low percentage, implying a low absolute count) is consistent with HELLP syndrome. Given the other findings, this option is the most likely to represent the laboratory changes, assuming the '-' for alanine aminotransferase and indirect bilirubin implies they are elevated or abnormal in a way consistent with HELLP.\nOption D: Suggests normal alanine aminotransferase, which is incorrect. The platelet count of 7% is also very low.\nOption E: Suggests normal alanine aminotransferase and normal indirect bilirubin, which is incorrect. The platelet count of 4% is low, but the liver enzymes and bilirubin should be elevated.\n\nRevisiting the table and options, the percentages for platelets are likely meant to represent the percentage of normal, or a relative decrease. A platelet count of 4% would be extremely low, consistent with severe thrombocytopenia seen in HELLP. The '-' for alanine aminotransferase and indirect bilirubin in options A, B, and C likely indicates an abnormal or elevated value, which is consistent with HELLP. Option C is the most plausible choice given the constellation of findings suggestive of HELLP syndrome, particularly the severe thrombocytopenia (represented by 4%). The explanation provided in the image confirms that HELLP syndrome involves elevated liver enzymes and bilirubin, and low platelets. Therefore, option C, with its indication of low platelets and unspecified (likely abnormal) liver enzymes and bilirubin, best fits the clinical picture.\n\nKey Pearls:\n- HELLP syndrome is a severe form of PREeclampsia.\n- Remember the components of HELLP: Hemolysis, Elevated Liver enzymes, Low Platelets.\n- Right upper quadrant pain is a key symptom due to liver capsule distension.\n- Microangiopathic hemolytic anemia and THROMBOCYTOPENIA are critical features.\n- Management involves delivery of the fetus.",
+    "zh": "患者表现出的症状和体征提示 HELLP 综合征，这是先兆子痫的并发症。患者怀孕（妊娠29周），有严重的右上腹疼痛、恶心、呕吐、高血压（160/100 mmHg）和明显的蛋白尿（3+）。HELLP 综合征是溶血（Hemolysis）、肝酶升高（Elevated Liver enzymes）和血小板减少（Low Platelet count）的缩写。\n\n发病机制：HELLP 综合征被认为是由胎盘发育异常引起的，导致母体内皮功能障碍。这会触发微血管中的广泛血栓形成，引起微血管病性溶血性贫血和血小板减少症。\n\n临床特征：常见症状包括右上腹疼痛、恶心、呕吐，有时还会出现头痛或视觉改变。高血压和蛋白尿也经常出现，如本例患者。\n\n实验室检查结果：HELLP 综合征的标志性实验室检查结果包括：\n1. 溶血：通过外周血涂片上的裂红细胞、LDH 升高和间接胆红素升高来证实。\n2. 肝酶升高：AST（天冬氨酸氨基转移酶）和 ALT（丙氨酸氨基转移酶）升高。\n3. 血小板计数低：血小板减少症（血小板计数 < 150,000/μL）。\n\n在本例患者中，血红蛋白8 g/dL提示贫血，这与溶血一致。血压升高和蛋白尿提示先兆子痫，这是HELLP综合征的先决条件。右上腹疼痛和恶心/呕吐是典型症状。因此，我们预计会看到肝酶（丙氨酸氨基转移酶）升高、间接胆红素升高和血小板计数降低。\n\n让我们分析一下选项：\n选项 A：提示丙氨酸氨基转移酶低和间接胆红素低，这是不正确的。血小板计数71%也不是HELLP综合征中血小板计数的标准表示方式。\n选项 B：提示丙氨酸氨基转移酶低，这是不正确的。血小板计数12%偏低，但肝酶未升高。\n选项 C：提示丙氨酸氨基转移酶低、间接胆红素低以及血小板计数4%。虽然丙氨酸氨基转移酶和间接胆红素的描述不完整（用“-”表示），但血小板计数低（4%是一个非常低的百分比，意味着绝对计数低）与HELLP综合征一致。考虑到其他发现，这个选项最有可能代表实验室的变化，假设丙氨酸氨基转移酶和间接胆红素的“-”表示它们以与HELLP一致的方式升高或异常。\n选项 D：提示丙氨酸氨基转移酶正常，这是不正确的。血小板计数7%也很低。\n选项 E：提示丙氨酸氨基转移酶正常和间接胆红素正常，这是不正确的。血小板计数4%偏低，但肝酶和胆红素应升高。\n\n重温表格和选项，血小板的百分比可能意味着正常血小板的百分比，或相对减少。血小板计数4%将非常低，与HELLP中出现的严重血小板减少症一致。选项 A、B 和 C 中丙氨酸氨基转移酶和间接胆红素的“-”可能表示异常或升高的值，这与HELLP一致。鉴于提示HELLP综合征的发现，尤其是严重的血小板减少症（以4%表示），选项 C是最合理的选择。图像中提供的解释证实HELLP综合征涉及肝酶和胆红素升高以及血小板减少。因此，选项 C，提示血小板减少和未指明（可能异常）的肝酶和胆红素，最符合临床情况。\n\n关键要点：\n- HELLP 综合征是先兆子痫的严重形式。\n- 记住 HELLP 的组成部分：溶血、肝酶升高、血小板减少。\n- 右上腹疼痛是由于肝包膜扩张引起的关键症状。\n- 微血管病性溶血性贫血和血小板减少症是关键特征。\n- 治疗包括分娩胎儿。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of HELLP syndrome, a serious complication of preeclampsia in pregnant women. It assesses the ability to recognize the clinical presentation and predict the characteristic laboratory findings associated with this condition.\n\nTo solve this question, one must correlate the patient's symptoms (severe right upper quadrant pain, nausea, vomiting), vital signs (hypertension), and urinalysis (proteinuria) with the diagnostic criteria for HELLP syndrome. The key is to identify the laboratory abnormalities that define HELLP: hemolysis, elevated liver enzymes, and low platelet count.",
+    "zh": "此题考察对HELLP综合征的理解，HELLP综合征是孕妇先兆子痫的严重并发症。它评估识别临床表现并预测与该疾病相关的特征性实验室检查结果的能力。\n\n要解决这个问题，必须将患者的症状（严重的右上腹疼痛、恶心、呕吐）、生命体征（高血压）和尿检（蛋白尿）与HELLP综合征的诊断标准相关联。关键是确定定义HELLP的实验室异常：溶血、肝酶升高和血小板计数降低。"
+  },
+  "tags": "HELLP syndrome; Preeclampsia; Pregnancy complications; Thrombocytopenia; Hemolytic anemia; Elevated liver enzymes; Right upper quadrant pain; Obstetrics; Hematology",
+  "category": "Pregnancy",
+  "question_id": "19435",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pregnancy 23\\19435",
+  "extracted_at": "2025-11-05T19:46:43.144604",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:48:56.453899",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

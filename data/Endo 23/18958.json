@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 53-year-old man comes to the office due to uncontrolled type 2 diabetes mellitus. The patient was diagnosed 3 years ago and prescribed metformin and lifestyle modification. In the past year, his hemoglobin A1c levels have been steadily rising. Blood pressure is 145/90 mm Hg. BMI is 37 kg/m². Laboratory results are normal except for a fasting plasma glucose of 155 mg/dL and a hemoglobin A1c level of 8%. Additional treatment with canagliflozin is initiated. Over the next several days, which of the following effects are most likely to occur in this patient due to the new medication?",
+    "zh": "一名53岁男性因2型糖尿病控制不佳来就诊。患者于3年前被诊断为糖尿病，并接受了二甲双胍和生活方式干预。在过去一年中，他的糖化血红蛋白A1c水平一直在稳步上升。血压为145/90 mmHg。BMI为37 kg/m²。实验室检查结果正常，但空腹血糖为155 mg/dL，糖化血红蛋白A1c水平为8%。开始使用卡格列净进行额外治疗。在接下来的几天里，由于这种新药，该患者最有可能出现以下哪种影响？"
+  },
+  "question": {
+    "en": "Over the next several days, which of the following effects are most likely to occur in this patient due to the new medication?",
+    "zh": "在接下来的几天里，由于这种新药，该患者最有可能出现以下哪种影响？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased Urinary glucose excretion; Decreased Total body sodium content; Unchanged Extracellular fluid volume",
+      "zh": "尿糖排泄减少；全身钠含量降低；细胞外液量不变"
+    },
+    "B": {
+      "en": "Decreased Urinary glucose excretion; Increased Total body sodium content; Decreased Extracellular fluid volume",
+      "zh": "尿糖排泄减少；全身钠含量增加；细胞外液量减少"
+    },
+    "C": {
+      "en": "Increased Urinary glucose excretion; Decreased Total body sodium content; Decreased Extracellular fluid volume",
+      "zh": "尿糖排泄增加；全身钠含量降低；细胞外液量减少"
+    },
+    "D": {
+      "en": "Increased Urinary glucose excretion; Unchanged Total body sodium content; Increased Extracellular fluid volume",
+      "zh": "尿糖排泄增加；全身钠含量不变；细胞外液量增加"
+    },
+    "E": {
+      "en": "Increased Urinary glucose excretion; Increased Total body sodium content; Decreased Extracellular fluid volume",
+      "zh": "尿糖排泄增加；全身钠含量增加；细胞外液量减少"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Sodium-glucose cotransporter 2 (SGLT2) is a low-affinity, high-capacity transport protein that normally reabsorbs 90% of filtered glucose in the proximal renal tubule. Glucose reabsorption by SGLT2 is driven by the cotransport of sodium, which occurs down its concentration gradient. The sodium is actively pumped across the basolateral membrane by Na-K-ATPase, and glucose follows by facilitated diffusion via glucose transporter 2.\n\nSGLT2 inhibitors (eg, canagliflozin, dapagliflozin) are oral antidiabetic agents that have the following effects:\n\n*   Decreased renal reabsorption of glucose, leading to increased urinary glucose excretion and lower blood glucose levels\n*   Natriuresis and osmotic diuresis due to decreased reabsorption of sodium and glucose, leading to a small decrease in extracellular fluid volume, total body sodium content, and blood pressure\n*   Decreased sodium reabsorption and increased tubular sodium delivery to the macula densa, leading to decreased activation of the renin-angiotensin-aldosterone system, lower glomerular (and systemic) pressure, and delayed progression of nephropathy\n\nEducational objective:\n\nSodium-glucose cotransporter 2 inhibitors decrease renal reabsorption of glucose and sodium, leading to increased urinary glucose excretion and decreased blood glucose levels. In addition, natriuresis and osmotic diuresis lead to a small decrease in extracellular fluid volume, total body sodium content, and blood pressure. {{exhibit_1}}",
+    "zh": "钠-葡萄糖协同转运蛋白2 (SGLT2) 是一种低亲和力、高容量的转运蛋白，通常在近端肾小管中重吸收90%的滤过葡萄糖。SGLT2对葡萄糖的重吸收是由钠的协同转运驱动的，钠顺着其浓度梯度转运。钠通过Na-K-ATP酶主动泵过基底外侧膜，葡萄糖通过葡萄糖转运蛋白2的易化扩散而转运。\n\nSGLT2抑制剂（例如，卡格列净、达格列净）是口服降糖药，具有以下作用：\n\n*   减少肾脏对葡萄糖的重吸收，导致尿糖排泄增加和血糖水平降低\n*   由于钠和葡萄糖的重吸收减少，引起钠尿和渗透性利尿，导致细胞外液量、全身钠含量和血压略有下降\n*   减少钠重吸收，增加钠向致密斑输送，导致肾素-血管紧张素-醛固酮系统激活减少，肾小球（和全身）压力降低，肾病进展延迟\n\n教学目标：\n\n钠-葡萄糖协同转运蛋白2抑制剂减少肾脏对葡萄糖和钠的重吸收，导致尿糖排泄增加和血糖水平降低。此外，钠尿和渗透性利尿导致细胞外液量、全身钠含量和血压略有下降。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests the mechanism of action of SGLT2 inhibitors and their effects on glucose excretion, sodium balance, and fluid volume. Understanding the cotransport of glucose and sodium in the proximal tubule is key.\n\nTo solve this question, recall that SGLT2 inhibitors block glucose reabsorption, leading to increased urinary glucose excretion. This also causes natriuresis and osmotic diuresis, resulting in decreased total body sodium content and extracellular fluid volume.",
+    "zh": "本题考察了SGLT2抑制剂的作用机制及其对葡萄糖排泄、钠平衡和液体量的影响。了解葡萄糖和钠在近端小管中的协同转运是关键。\n\n要解决这个问题，请记住SGLT2抑制剂会阻断葡萄糖的重吸收，从而导致尿糖排泄增加。这也会引起钠尿和渗透性利尿，导致全身钠含量和细胞外液量减少。"
+  },
+  "tags": "Type 2 diabetes mellitus; SGLT2 inhibitors; Canagliflozin; Glucose reabsorption; Sodium balance; Extracellular fluid volume; Natriuresis; Osmotic diuresis; Renal physiology; Endocrinology",
+  "category": "Endo",
+  "question_id": "18958",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\18958",
+  "extracted_at": "2025-11-05T14:03:43.371155",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:39:05.345408",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

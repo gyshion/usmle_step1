@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 69-year-old man comes to the office due to a 6-month history of chest tightness when he walks uphill or climbs stairs. The discomfort radiates to his throat and lasts 5-10 minutes before slowly subsiding. Medical history is significant for hyperlipidemia and type 2 diabetes mellitus. His father had coronary artery bypass surgery at age 60 and his mother suffered a stroke. Vital signs are normal. Cardiac examination reveals no murmurs or additional heart sounds. The patient is prescribed a medication that is metabolized to S-nitrosothiols in the vascular smooth muscle cells, and he reports rapid and significant symptom relief. Which of the following components of the cardiovascular system is most susceptible to the medication prescribed to this patient? {{exhibit_1}}",
+    "zh": "一名69岁男性因在爬坡或爬楼梯时出现6个月的胸闷前来就诊。这种不适感放射到他的喉咙，持续5-10分钟后逐渐消退。病史显示高脂血症和2型糖尿病。他的父亲在60岁时进行了冠状动脉搭桥术，他的母亲患有中风。生命体征正常。心脏检查未见杂音或额外的心音。患者被处方了一种在血管平滑肌细胞中代谢成S-亚硝基硫醇的药物，并且他报告症状迅速且明显缓解。以下哪项是该患者处方药物最易感的心血管系统组成部分？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following components of the cardiovascular system is most susceptible to the medication prescribed to this patient?",
+    "zh": "以下哪项是该患者处方药物最易感的心血管系统组成部分？"
+  },
+  "options": {
+    "A": {
+      "en": "Cardiac muscle",
+      "zh": "心肌"
+    },
+    "B": {
+      "en": "Large arteries",
+      "zh": "大动脉"
+    },
+    "C": {
+      "en": "Large veins",
+      "zh": "大静脉"
+    },
+    "D": {
+      "en": "Precapillary sphincters",
+      "zh": "毛细血管前括约肌"
+    },
+    "E": {
+      "en": "Small arteries and arterioles",
+      "zh": "小动脉和小动脉"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has stable angina pectoris and experienced rapid symptomatic relief following receipt of a nitrate. Pharmacologic nitrates (eg, nitroglycerin, isosorbide mononitrate, isosorbide dinitrate) are metabolized to nitric oxide and S-nitrosothiols via mitochondrial aldehyde dehydrogenase within vascular smooth muscle cells. These compounds in turn activate guanylate cyclase and promote the conversion of guanosine triphosphate to cyclic guanosine monophosphate (cGMP), which leads to dephosphorylation of myosin light chains and causes vascular smooth muscle relaxation.\n\nNitrates predominantly affect the large veins, where smooth muscle relaxation leads to venodilation and increased venous capacitance. Cardiac venous return (preload) is reduced, leading to a reduction in left ventricular end-diastolic volume and pressure and a consequent decrease in left ventricular wall stress. Decreased myocardial oxygen demand leads to relief of anginal symptoms.\n\n(Choice A) Both beta blockers and nondihydropyridine calcium channel blockers (eg, verapamil) are negative inotropic and chronotropic agents. They exert antianginal effects via direct actions on cardiac myocytes to reduce myocardial contractility and heart rate, and thereby decrease myocardial oxygen demand. Nitrates have no direct effect on cardiac myocytes.\n\n(Choice B) Sodium nitroprusside generates nitric oxide while in the bloodstream (rather than within vascular smooth muscle cells) and is much less selective for the large veins than nitrates. It causes relatively balanced vasodilation of both the large arteries and veins, and is useful for reducing blood pressure in patients with hypertensive emergency.\n\n(Choice D) Precapillary sphincters are bands of smooth muscle that regulate blood flow from arterioles into mesenteric capillary beds. The effect of nitrates on precapillary sphincters is minimal compared to that on the large veins.\n\n(Choice E) Dihydropyridine calcium channel blockers (eg, nifedipine, amlodipine, nicardipine) block L-type calcium channels in vascular smooth muscle cells to trigger vasodilation. This effect is exerted on small arteries and arterioles in both the peripheral and coronary circulation, resulting in 2 therapeutic effects on stable angina. The peripheral vasodilation reduces afterload leading to a decrease in cardiac work and myocardial oxygen demand, and the coronary vasodilation increases myocardial oxygen supply.\n\nEducational objective:\nPharmacologic nitrates (eg, nitroglycerin, isosorbide mononitrate, isosorbide dinitrate) are metabolized to nitric oxide and S-nitrosothiols in vascular smooth muscle cells, leading to an increase in cyclic guanosine monophosphate (cGMP) that stimulates vasodilation. Large veins are predominantly affected, leading to increased venous capacitance and reduced venous return (preload), which decreases left ventricular wall stress and myocardial oxygen demand to relieve anginal symptoms.",
+    "zh": "该患者患有稳定型心绞痛，并在接受硝酸盐后迅速缓解了症状。药理学硝酸盐（例如，硝酸甘油、单硝酸异山梨酯、二硝酸异山梨酯）通过血管平滑肌细胞内的线粒体醛脱氢酶代谢为一氧化氮和S-亚硝基硫醇。这些化合物反过来激活鸟苷酸环化酶并促进鸟苷三磷酸转化为环磷酸鸟苷单磷酸（cGMP），这导致肌球蛋白轻链去磷酸化并引起血管平滑肌松弛。\n\n硝酸盐主要影响大静脉，其中平滑肌松弛导致血管舒张和静脉容量增加。心脏静脉回流（前负荷）减少，导致左心室舒张末期容积和压力降低，并因此降低左心室壁应力。心肌耗氧量降低导致心绞痛症状缓解。\n\n（选项A）β受体阻滞剂和非二氢吡啶类钙通道阻滞剂（例如，维拉帕米）均为负性肌力和负性变时性药物。它们通过直接作用于心肌细胞来发挥抗心绞痛作用，以降低心肌收缩力和心率，从而降低心肌耗氧量。硝酸盐对心肌细胞没有直接影响。\n\n（选项B）硝普钠在血流中（而不是在血管平滑肌细胞内）产生一氧化氮，并且对大静脉的选择性远低于硝酸盐。它会导致大动脉和静脉的相对平衡的血管舒张，并可用于降低高血压急症患者的血压。\n\n（选项D）毛细血管前括约肌是调节血液从微动脉流入肠系膜毛细血管床的平滑肌束。与对大静脉的影响相比，硝酸盐对毛细血管前括约肌的影响很小。\n\n（选项E）二氢吡啶类钙通道阻滞剂（例如，硝苯地平、氨氯地平、尼卡地平）阻断血管平滑肌细胞中的L型钙通道以触发血管舒张。这种作用作用于周围和冠状循环中的小动脉和小动脉，从而对稳定型心绞痛产生2种治疗作用。周围血管舒张降低后负荷，导致心脏做功和心肌耗氧量降低，冠状动脉舒张增加心肌氧供应。\n\n教育目标：\n药理学硝酸盐（例如，硝酸甘油、单硝酸异山梨酯、二硝酸异山梨酯）在血管平滑肌细胞中代谢为一氧化氮和S-亚硝基硫醇，导致环磷酸鸟苷单磷酸（cGMP）增加，从而刺激血管舒张。主要影响大静脉，导致静脉容量增加和静脉回流减少（前负荷），这降低了左心室壁应力和心肌耗氧量以缓解心绞痛症状。"
+  },
+  "summary": {
+    "en": "This question tests the mechanism of action of nitrates in treating angina, specifically their effect on venous capacitance and preload reduction. It requires understanding the downstream effects of nitrate metabolism and vasodilation on myocardial oxygen demand.\n\nThe key to solving this question is recognizing that nitrates primarily affect large veins, leading to venodilation and reduced preload. By understanding this mechanism, one can eliminate the other options that involve different mechanisms or target different components of the cardiovascular system.",
+    "zh": "此题考察硝酸盐治疗心绞痛的机制，特别是它们对静脉容量和前负荷减少的影响。它要求理解硝酸盐代谢和血管舒张对心肌耗氧量的下游影响。\n\n解决此题的关键是认识到硝酸盐主要影响大静脉，导致血管舒张和前负荷降低。通过理解这种机制，可以排除涉及不同机制或靶向心血管系统不同组成部分的其他选项。"
+  },
+  "tags": "Stable angina; Nitrates; Venodilation; Preload; Myocardial oxygen demand; Cardiovascular system; Pharmacology",
+  "category": "CVS",
+  "question_id": "137",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\137",
+  "extracted_at": "2025-11-05T11:53:11.292285",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:45:09.651363",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

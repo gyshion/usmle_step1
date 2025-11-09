@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 44-year-old man comes to the office due to low mood, impaired concentration, increased sleep and appetite, feelings of heaviness in his arms and legs, and loss of energy. He is having difficulty at work as he is overly sensitive to criticism. Although his boss has told him not to worry, the patient is concerned that his job is in jeopardy due to poor performance. His symptoms started 8 months ago without any clear-cut precipitating event. The patient received adequate trials of 3 different antidepressants without improvement and has been off of medication for the past several weeks. His physician is now considering electroconvulsive therapy (ECT). The patient declines ECT and asks to try another medication. The physician then considers phenelzine.",
+    "zh": "一名44岁的男性因情绪低落、注意力受损、睡眠和食欲增加、四肢沉重乏力、以及精力不足前来就诊。他在工作中遇到困难，因为他对批评过于敏感。尽管他的老板告诉他不要担心，但患者担心由于表现不佳而面临失业的风险。他的症状在8个月前开始出现，没有明确的诱发事件。患者接受了三种不同抗抑郁药的充分治疗，但未见改善，并且在过去几周内停止了用药。他的医生现在正在考虑电休克疗法（ECT）。患者拒绝了ECT，并要求尝试另一种药物。然后医生考虑使用苯乙肼。"
+  },
+  "question": {
+    "en": "The presence of which of the following additional symptoms would make the patient more likely to respond to this medication?",
+    "zh": "出现以下哪种附加症状会使患者更有可能对这种药物产生反应？"
+  },
+  "options": {
+    "A": {
+      "en": "Auditory hallucinations",
+      "zh": "幻听"
+    },
+    "B": {
+      "en": "Decreased libido",
+      "zh": "性欲减退"
+    },
+    "C": {
+      "en": "Delusions",
+      "zh": "妄想"
+    },
+    "D": {
+      "en": "Memory impairment",
+      "zh": "记忆力受损"
+    },
+    "E": {
+      "en": "Mood reactivity",
+      "zh": "情绪反应性"
+    },
+    "F": {
+      "en": "Rapid speech",
+      "zh": "语速加快"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Monoamine oxidase inhibitors (MAOIs) (eg, phenelzine, tranylcypromine) are antidepressants that work by inhibiting oxidative deamination, thereby increasing the presynaptic availability of serotonin, norepinephrine, and dopamine. Due to their risk of severe adverse effects (eg, hypertensive crisis, serotonin syndrome), MAOIs are not considered first- or second-line antidepressant treatments. However, MAOIs are still useful in certain situations when other antidepressants fail. In addition to their role in treatment-resistant major depressive disorder (MDD), there is some evidence to suggest that they are superior to other classes of antidepressants in the treatment of MDD with atypical features.\n\nMDD with atypical features is characterized by mood reactivity (ie, mood improves in response to positive events), leaden paralysis (ie, patient's arms and legs feel extremely heavy), rejection sensitivity (ie, overly sensitive to slight criticism), and the reversed vegetative signs of increased sleep and appetite. This patient is both treatment-resistant (failure of multiple antidepressant agents) and has atypical features, making him a good candidate for a trial of an MAOI.\n\n(Choices A and C) The presence of psychotic symptoms such as hallucinations and delusions would be consistent with MDD with psychotic features. This subtype of MDD requires the addition of an antipsychotic as it is unlikely to respond to an antidepressant alone.\n\n(Choice B) Many antidepressants, including MAOIs, have sexual side effects that can worsen preexisting sexual dysfunction. Bupropion and mirtazapine are antidepressants that do not cause sexual side effects.\n\n(Choice D) Memory impairment would be a relative contraindication for use of an MAOI. Patients taking MAOIs must be cognitively intact and remember to avoid tyramine-containing foods and drug-drug interactions that could lead to a hypertensive crisis or serotonin syndrome.\n\n(Choice F) Rapid speech is a possible manic symptom that would raise concern about the presence of mixed depressive and manic symptoms. Antidepressants, particularly MAOIs, are not indicated for patients exhibiting mixed features.",
+    "zh": "单胺氧化酶抑制剂（MAOIs）（如苯乙肼、反苯环丙胺）是抗抑郁药，通过抑制氧化脱氨作用发挥作用，从而增加突触前血清素、去甲肾上腺素和多巴胺的可用性。由于其严重不良反应的风险（例如，高血压危象、血清素综合征），MAOIs不被认为是首选或二线抗抑郁治疗。然而，当其他抗抑郁药失败时，MAOIs在某些情况下仍然有用。除了在难治性重度抑郁症（MDD）中的作用外，一些证据表明，它们在治疗具有非典型特征的MDD方面优于其他类别的抗抑郁药。\n\n具有非典型特征的MDD的特征是情绪反应性（即，情绪对积极事件做出反应而改善）、铅瘫（即，患者的胳膊和腿感觉非常沉重）、排斥敏感性（即，对轻微的批评过分敏感）以及睡眠和食欲增加的逆转性植物神经症状。该患者既有耐药性（多种抗抑郁药失败），又具有非典型特征，这使他成为MAOI试验的良好候选人。\n\n（选项A和C）出现精神病性症状，如幻觉和妄想，与伴有精神病性特征的MDD一致。这种MDD亚型需要添加抗精神病药物，因为它不太可能单独对一种抗抑郁药产生反应。\n\n（选项B）许多抗抑郁药，包括MAOIs，都有性副作用，可能会加重已有的性功能障碍。安非他酮和米氮平是不引起性副作用的抗抑郁药。\n\n（选项D）记忆力受损是使用MAOI的相对禁忌症。服用MAOIs的患者必须认知功能完整，并记住避免食用含酪胺的食物和可能导致高血压危象或血清素综合征的药物相互作用。\n\n（选项F）语速加快是可能的躁狂症状，这将引起对混合性抑郁和躁狂症状存在的担忧。抗抑郁药，特别是MAOIs，不适用于表现出混合特征的患者。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of treatment-resistant major depressive disorder (MDD) with atypical features and the specific indications for monoamine oxidase inhibitors (MAOIs).\n\nTo solve this question, identify the patient's symptoms that align with MDD with atypical features, such as mood reactivity, and understand why other symptoms like psychosis or manic features would contraindicate or suggest alternative treatments.",
+    "zh": "此题考察对伴有非典型特征的难治性重度抑郁症（MDD）以及单胺氧化酶抑制剂（MAOIs）的特定适应症的理解。\n\n为了解决这个问题，需要识别患者与伴有非典型特征的MDD相符的症状，例如情绪反应性，并了解为什么其他症状（如精神病或躁狂特征）会提示禁忌症或建议替代治疗。"
+  },
+  "tags": "Major Depressive Disorder; Atypical Depression; Monoamine Oxidase Inhibitors; Phenelzine; Treatment-resistant depression; Psychopharmacology; Mood reactivity; Leaden paralysis; Rejection sensitivity",
+  "category": "Psychiatry",
+  "question_id": "573",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\573",
+  "extracted_at": "2025-11-05T19:51:10.763695",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:55:56.182432",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

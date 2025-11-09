@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "An 18-month-old boy is brought to the rural health clinic by his mother to establish care. The patient got some routine childhood vaccinations from previous providers but has not had a pneumococcal vaccination. Vital signs are normal for age. A pneumococcal conjugate vaccine is ordered, but the clinic manager advises the physician that the vaccine is not available due to delays in shipment from the supplier; however, the pneumococcal polysaccharide vaccine is available. Which of the following statements is true regarding the difference between these vaccine types?",
+    "zh": "一位 18 个月大的男孩由他的母亲带到乡村诊所就诊以建立医疗护理。该患者之前已经接种了一些常规的儿童疫苗，但尚未接种肺炎球菌疫苗。生命体征符合其年龄。医生开具了肺炎球菌结合疫苗，但诊所经理告知医生，由于供应商的运输延误，该疫苗无法获得；然而，肺炎球菌多糖疫苗是可用的。关于这两种疫苗类型之间的差异，以下哪项陈述是正确的？"
+  },
+  "question": {
+    "en": "Which of the following statements is true regarding the difference between these vaccine types?",
+    "zh": "关于这两种疫苗类型之间的差异，以下哪项陈述是正确的？"
+  },
+  "options": {
+    "A": {
+      "en": "The conjugate vaccine causes local site reactions less often than the polysaccharide vaccine",
+      "zh": "结合疫苗引起局部反应的频率低于多糖疫苗"
+    },
+    "B": {
+      "en": "The conjugate vaccine induces a more robust immune response through B and T cell activation",
+      "zh": "结合疫苗通过 B 细胞和 T 细胞激活诱导更强的免疫反应"
+    },
+    "C": {
+      "en": "The conjugate vaccine is inactivated, and the polysaccharide vaccine is live attenuated",
+      "zh": "结合疫苗是灭活疫苗，而多糖疫苗是减毒活疫苗"
+    },
+    "D": {
+      "en": "The conjugate vaccine protects against meningitis, but the polysaccharide vaccine does not",
+      "zh": "结合疫苗可预防脑膜炎，但多糖疫苗则不能"
+    },
+    "E": {
+      "en": "The conjugate vaccine protects against more pneumococcal strains than the polysaccharide vaccine",
+      "zh": "结合疫苗比多糖疫苗更能预防更多的肺炎球菌菌株"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "{{exhibit_1}}Streptococcus pneumoniae is a common cause of invasive infection (eg, meningitis, pneumonia) in infants and children, particularly those age <2 years and those with chronic conditions (eg, heart/lung disease, immunosuppression). Pneumococcal strains are distinguished by the polysaccharide components of their capsule: different polysaccharides are included in vaccines to provide strain-specific immunity.\n\nThere are 2 types of pneumococcal vaccine: conjugate and polysaccharide. In pneumococcal conjugate vaccines (eg, PCV13), the polysaccharide is bound to a nontoxic carrier protein (eg, mutated diphtheria toxin) that allows the antigen complex to be presented on MHC molecules, triggering activation of T cells. T cell recruitment stimulates the production of high-affinity, long-lasting antibodies (T cell-dependent B cell activation), making the conjugate vaccines strongly immunogenic. In addition, conjugate vaccines are better at inducing mucosal immunity, which helps suppress the prevalence of vaccine strains in the community (ie, herd immunity); over time, the strains covered by the vaccine may be replaced by strains not included in the vaccine (ie, replacement strains).\n\nIn contrast, the pneumococcal polysaccharide vaccine (ie, PPSV23) uses unconjugated polysaccharide antigens. The polysaccharide binds to B cells without triggering T cell activation, leading to a weaker humoral response (eg, modest levels of intermediate-affinity antibodies). PPSV23 is not immunogenic in infants and children age <2 years due to a limited capacity for T cell-independent B cell activation by the immature immune system. However, PPSV23 protects against a wider range of serotypes (Choice E), and the absence of mucosal immunity is less likely to lead to emergence of replacement strains.\n\n(Choice A) The rate of local site reactions (~40%-50%) is similar between pneumococcal conjugate and polysaccharide vaccines. Most local site reactions are minor (eg, transient pain, redness, swelling).\n\n(Choice C) PPSV23 is a polysaccharide capsular subunit vaccine, not a live attenuated vaccine. Examples of live attenuated vaccines include those for rotavirus, varicella, and measles-mumps-rubella.\n\n(Choice D) Both polysaccharide and conjugate vaccines provide strain-specific protection against invasive disease, including meningitis and sepsis.\n\nEducational objective:\nPneumococcal conjugate vaccines are strongly immunogenic in infancy due to both B and T cell recruitment. They provide higher-affinity, longer-lasting antibody responses than the pneumococcal polysaccharide vaccine. The pneumococcal polysaccharide vaccine is poorly immunogenic in infants and children age <2 years due to a limited capacity for T cell-independent B cell activation.",
+    "zh": "{{exhibit_1}}肺炎链球菌是婴儿和儿童侵袭性感染（例如，脑膜炎、肺炎）的常见原因，特别是 2 岁以下的儿童和患有慢性疾病（例如，心脏/肺部疾病、免疫抑制）的儿童。肺炎球菌菌株通过其荚膜的多糖成分来区分：疫苗中包含不同的多糖，以提供菌株特异性免疫。\n\n有两种肺炎球菌疫苗：结合疫苗和多糖疫苗。在肺炎球菌结合疫苗（例如，PCV13）中，多糖与无毒载体蛋白（例如，突变的白喉毒素）结合，这使得抗原复合物能够呈递在 MHC 分子上，从而触发 T 细胞的激活。T 细胞募集刺激产生高亲和力、持久的抗体（T 细胞依赖性 B 细胞激活），从而使结合疫苗具有很强的免疫原性。此外，结合疫苗更擅长诱导黏膜免疫，这有助于抑制社区中疫苗菌株的流行（即，群体免疫）；随着时间的推移，疫苗所涵盖的菌株可能会被疫苗中未包含的菌株取代（即，替代菌株）。\n\n相比之下，肺炎球菌多糖疫苗（即，PPSV23）使用非结合的多糖抗原。多糖与 B 细胞结合，而不会触发 T 细胞激活，从而导致较弱的体液反应（例如，中等水平的中等亲和力抗体）。由于未成熟的免疫系统对 T 细胞非依赖性 B 细胞激活的能力有限，PPSV23 在 2 岁以下的婴儿和儿童中没有免疫原性。然而，PPSV23 可预防更广泛的血清型（选项 E），并且缺乏黏膜免疫不太可能导致替代菌株的出现。\n\n（选项 A）肺炎球菌结合疫苗和多糖疫苗之间局部反应的发生率（~40%-50%）相似。大多数局部反应是轻微的（例如，短暂的疼痛、发红、肿胀）。\n\n（选项 C）PPSV23 是一种多糖荚膜亚单位疫苗，而不是减毒活疫苗。减毒活疫苗的例子包括轮状病毒、水痘和麻疹-腮腺炎-风疹疫苗。\n\n（选项 D）多糖疫苗和结合疫苗均可提供针对侵袭性疾病（包括脑膜炎和败血症）的菌株特异性保护。\n\n教育目标：\n由于 B 细胞和 T 细胞的募集，肺炎球菌结合疫苗在婴儿期具有很强的免疫原性。它们比肺炎球菌多糖疫苗提供更高亲和力、更持久的抗体反应。由于对 T 细胞非依赖性 B 细胞激活的能力有限，肺炎球菌多糖疫苗在 2 岁以下的婴儿和儿童中没有免疫原性。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the differences between pneumococcal conjugate and polysaccharide vaccines, specifically their mechanisms of action and immunogenicity in different age groups. It requires understanding of how each vaccine stimulates the immune system and their respective limitations.\n\nTo solve this question, focus on the key differences in how each vaccine interacts with the immune system. Remember that conjugate vaccines elicit a T-cell dependent B-cell response, leading to a more robust and longer-lasting immunity, especially in infants, while polysaccharide vaccines stimulate a T-cell independent B-cell response, which is less effective in young children.",
+    "zh": "这个问题考察了对肺炎球菌结合疫苗和多糖疫苗之间差异的了解，特别是它们在不同年龄组中的作用机制和免疫原性。它要求理解每种疫苗如何刺激免疫系统及其各自的局限性。\n\n要解决这个问题，请关注每种疫苗与免疫系统相互作用的关键差异。请记住，结合疫苗会引起 T 细胞依赖性 B 细胞反应，从而导致更强且更持久的免疫力，尤其是在婴儿中，而多糖疫苗会刺激 T 细胞非依赖性 B 细胞反应，这种反应在幼儿中效果较差。"
+  },
+  "tags": "Pneumococcal vaccine; Streptococcus pneumoniae; Conjugate vaccine; Polysaccharide vaccine; Immunogenicity; B cell activation; T cell activation; Vaccine types; Pediatrics; Infectious disease",
+  "category": "Immunology",
+  "question_id": "11872",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\11872",
+  "extracted_at": "2025-11-05T14:40:14.096543",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:00:06.654863",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

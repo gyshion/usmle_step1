@@ -1,0 +1,72 @@
+{
+  "question_stem": {
+    "en": "A 21-year-old man comes to the clinic due to weakness and gait disturbance. For the past few months, he has noticed difficulty opening the lids on jars, along with trouble releasing his grip afterward. The patient has also tripped and fallen several times, particularly when walking up stairs. He has no known chronic medical conditions and takes no medications. Vital signs are normal. The patient has male pattern baldness. Cardiopulmonary examination is unremarkable. The abdomen is soft with no organomegaly. A muscle biopsy shows muscle atrophy involving mostly type 1 fibers. This patient most likely has a form of which of the following neuromuscular diseases?",
+    "zh": "一名21岁的男性因虚弱和步态障碍前来就诊。在过去的几个月里，他注意到难以打开罐子的盖子，以及之后难以松开握力。患者还曾多次绊倒和摔倒，尤其是在上楼梯时。他没有已知的慢性病，也没有服用任何药物。生命体征正常。患者有男性型秃发。心肺检查无异常。腹部柔软，无脏器肿大。肌肉活检显示肌肉萎缩，主要涉及1型纤维。该患者最有可能患有以下哪种神经肌肉疾病？"
+  },
+  "question": {
+    "en": "Which of the following neuromuscular diseases is most likely in this patient?",
+    "zh": "该患者最有可能患有以下哪种神经肌肉疾病？"
+  },
+  "options": {
+    "A": {
+      "en": "Inflammatory myopathy",
+      "zh": "炎性肌病"
+    },
+    "B": {
+      "en": "Ion channel myopathy",
+      "zh": "离子通道肌病"
+    },
+    "C": {
+      "en": "Mitochondrial myopathy",
+      "zh": "线粒体肌病"
+    },
+    "D": {
+      "en": "Motor neuron disease",
+      "zh": "运动神经元疾病"
+    },
+    "E": {
+      "en": "Muscular dystrophy",
+      "zh": "肌营养不良"
+    },
+    "F": {
+      "en": "Neuromuscular junction disease",
+      "zh": "神经肌肉接头疾病"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient presents with distal muscle weakness (difficulty opening jars) and delayed muscle relaxation after contraction (myotonia), which are key features of myotonic dystrophy (DM). DM is an autosomal dominant muscular dystrophy caused by a trinucleotide repeat expansion in the DMPK gene, leading to toxic mutant mRNA. This toxic mRNA affects skeletal muscle chloride channels, resulting in myotonia. The toxic mRNA also affects T tubules, leading to weakness, particularly in the face and distal skeletal muscles. The muscle biopsy showing atrophy of type I fibers is also consistent with DM. {{exhibit_1}} {{exhibit_2}}",
+    "zh": "该患者表现为远端肌肉无力（难以打开罐子）和收缩后肌肉松弛延迟（肌强直），这些是肌强直性肌营养不良（DM）的关键特征。DM 是一种常染色体显性遗传性肌营养不良，由 DMPK 基因中的三核苷酸重复序列扩张引起，导致有毒的突变 mRNA。这种有毒的 mRNA 影响骨骼肌氯离子通道，导致肌强直。有毒的 mRNA 也会影响 T 小管，导致虚弱，尤其是在面部和远端骨骼肌中。肌肉活检显示 I 型纤维萎缩也与 DM 一致。{{exhibit_1}} {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "The patient's symptoms of difficulty opening jars, trouble releasing grip, tripping, and falling, along with a muscle biopsy showing atrophy of type 1 fibers, are indicative of myotonic dystrophy, a form of muscular dystrophy.",
+    "zh": "患者难以打开罐子、难以松开握力、绊倒和摔倒的症状，以及肌肉活检显示 I 型纤维萎缩，表明患有肌强直性肌营养不良，这是一种肌营养不良。"
+  },
+  "tags": [
+    "neuromuscular disease",
+    "muscular dystrophy",
+    "myotonic dystrophy",
+    "muscle biopsy",
+    "myotonia",
+    "weakness"
+  ],
+  "category": "Neuro",
+  "question_id": "1268",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\1268",
+  "extracted_at": "2025-11-05T19:33:35.426003",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:33:01.793201",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

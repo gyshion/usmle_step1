@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old man comes to the office to establish care after relocating to the area. The patient has a 6-year history of type 2 diabetes mellitus for which he takes metformin monotherapy. He feels well and has no other medical conditions. The patient does not use tobacco or alcohol. He consumes a balanced diet and jogs for 40 minutes every morning. Review of his blood glucose journal over the last few months shows fasting glucose levels of 150-180 mg/dL. Laboratory analysis shows a hemoglobin A1c level of 4%. Further evaluation with hemoglobin electrophoresis shows a hemoglobin A2 level of 7.5% (normal: 1.5%-3.5%).",
+    "zh": "一名55岁的男性患者搬到该地区后到诊所就诊以建立医疗服务。该患者有6年2型糖尿病病史，仅接受二甲双胍单药治疗。他感觉良好，没有其他疾病。患者不吸烟、不饮酒。他饮食均衡，每天早上慢跑40分钟。回顾他过去几个月的血糖日记显示，空腹血糖水平为150-180 mg/dL。实验室分析显示糖化血红蛋白A1c水平为4%。进一步评估的血红蛋白电泳显示血红蛋白A2水平为7.5%（正常：1.5%-3.5%）。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely explanation for this patient's lower-than-expected hemoglobin A1c level?",
+    "zh": "以下哪项最有可能解释该患者的糖化血红蛋白A1c水平低于预期？"
+  },
+  "options": {
+    "A": {
+      "en": "Beta-thalassemia minor",
+      "zh": "轻型β-地中海贫血"
+    },
+    "B": {
+      "en": "Folate deficiency",
+      "zh": "叶酸缺乏症"
+    },
+    "C": {
+      "en": "Iron deficiency",
+      "zh": "缺铁"
+    },
+    "D": {
+      "en": "Low erythropoietin",
+      "zh": "促红细胞生成素低"
+    },
+    "E": {
+      "en": "Poor glycemic control",
+      "zh": "血糖控制不良"
+    },
+    "F": {
+      "en": "Sickle cell trait",
+      "zh": "镰状细胞性状"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Hemoglobin A1c is produced by irreversible nonenzymatic glycosylation of the N-terminal of the hemoglobin molecule. The degree of glycosylation (ie, hemoglobin A1c level) directly correlates with average blood glucose levels over the life span of circulating erythrocytes, which is normally approximately 3 months. Higher glucose levels and increased exposure time of red cells to glucose increase hemoglobin A1c values. As such, conditions that alter red blood cell survival time also affect hemoglobin A1c levels.\n\nThis patient has an elevated hemoglobin A2, which suggests comorbid beta-thalassemia minor. Hemoglobin A2 is elevated in beta-thalassemia to compensate for beta-globin-chain underproduction, but results in microcytic red cells that are prone to hemolysis. Increased erythrocyte turnover results in a misleadingly low hemoglobin A1c level. In such cases, measurement of glycated serum proteins (ie, fructosamine) is sometimes used to estimate glycemic control.\n\n(Choices B and C) Deficiencies of iron, folate, and vitamin B₁₂ can reduce production of new red cells, leading to a preponderance of older erythrocytes and falsely elevated hemoglobin A1c. In contrast, treatment of vitamin deficiencies causes young red cells to be rapidly released into circulation, falsely lowering hemoglobin A1c.\n\n(Choice D) Advanced diabetic nephropathy may cause reduced erythropoietin production. The resulting decrease in production of new red cells may lead to falsely high hemoglobin A1c (similar to nutrient deficiencies).\n\n(Choice E) Chronically elevated blood glucose (ie, poor glycemic control) is the primary cause of increased hemoglobin A1c in patients with diabetes.\n\n(Choice F) Sickle cell trait is characterized by heterozygous carriage of hemoglobin S. Some patients with sickle cell trait can have slightly reduced hemoglobin A1c level due to increased red cell turnover (homozygous individuals with sickle cell disease have rapid red cell turnover and very low A1c). However, hemoglobin A2 percentage remains near normal in patients with sickle cell mutations.\n\nEducational objective:\nHemoglobin A1c is produced by nonenzymatic glycosylation of the hemoglobin molecule. A hemoglobin A1c assay provides an estimate of chronic glycemic control over the life span of circulating erythrocytes (~3 months). However, rapid erythrocyte turnover (eg, hemolytic anemia) can give a misleadingly low hemoglobin A1c in relation to glycemic status.",
+    "zh": "糖化血红蛋白A1c是通过血红蛋白分子N末端的不可逆非酶促糖基化产生的。糖基化程度（即，糖化血红蛋白A1c水平）与循环红细胞寿命（通常约为3个月）期间的平均血糖水平直接相关。较高的血糖水平和红细胞与葡萄糖的接触时间增加会增加糖化血红蛋白A1c值。因此，改变红细胞存活时间的疾病也会影响糖化血红蛋白A1c水平。\n\n该患者的血红蛋白A2升高，提示合并轻型β-地中海贫血。轻型β-地中海贫血中血红蛋白A2升高以补偿β-珠蛋白链的生成不足，但导致小细胞红细胞，易于溶血。红细胞更新加速导致糖化血红蛋白A1c水平具有误导性地降低。在这种情况下，有时会使用糖化血清蛋白（即，果糖胺）的测量来估计血糖控制。\n\n（选项B和C）铁、叶酸和维生素B₁₂的缺乏会减少新红细胞的产生，导致老年红细胞占优势，并导致糖化血红蛋白A1c水平假性升高。相反，维生素缺乏症的治疗会导致年轻红细胞迅速释放到循环中，从而导致糖化血红蛋白A1c水平假性降低。\n\n（选项D）晚期糖尿病肾病可能导致促红细胞生成素产生减少。由此导致的新红细胞生成减少可能导致糖化血红蛋白A1c水平假性升高（类似于营养缺乏）。\n\n（选项E）慢性高血糖（即，血糖控制不良）是糖尿病患者糖化血红蛋白A1c升高的主要原因。\n\n（选项F）镰状细胞性状的特征是血红蛋白S的杂合携带。一些镰状细胞性状患者由于红细胞更新加速，糖化血红蛋白A1c水平可能略有降低（纯合子镰状细胞病患者红细胞更新加速，A1c非常低）。然而，镰状细胞突变患者的血红蛋白A2百分比保持接近正常。\n\n教育目标：\n糖化血红蛋白A1c是通过血红蛋白分子的非酶促糖基化产生的。糖化血红蛋白A1c检测提供对循环红细胞寿命（约3个月）期间慢性血糖控制的估计。然而，快速红细胞更新（例如，溶血性贫血）会导致糖化血红蛋白A1c相对于血糖状态具有误导性地降低。"
+  },
+  "summary": {
+    "en": "This question tests the ability to interpret hemoglobin A1c and hemoglobin electrophoresis results in the context of a patient with diabetes, specifically focusing on conditions that can affect A1c levels independently of glycemic control.\n\nThe key to solving this question is recognizing that the elevated hemoglobin A2 level points towards beta-thalassemia minor, which causes increased red cell turnover and a falsely low A1c. Consider conditions affecting red blood cell lifespan when A1c does not correlate with glucose levels.",
+    "zh": "这个问题考察了在糖尿病患者的背景下解释糖化血红蛋白A1c和血红蛋白电泳结果的能力，特别关注了可以独立于血糖控制而影响A1c水平的疾病。\n\n解决这个问题的关键是认识到血红蛋白A2水平升高指向轻型β-地中海贫血，这会导致红细胞更新加速和A1c假性降低。当A1c与血糖水平不相关时，考虑影响红细胞寿命的疾病。"
+  },
+  "tags": "Beta-thalassemia minor; Hemoglobin A1c; Hemoglobin electrophoresis; Diabetes mellitus; Hemolytic anemia; Red blood cell turnover",
+  "category": "Endo",
+  "question_id": "1996",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\1996",
+  "extracted_at": "2025-11-05T14:05:43.553113",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:40:15.852480",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

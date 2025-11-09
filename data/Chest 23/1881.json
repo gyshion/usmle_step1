@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 56-year-old man is brought to the emergency department due to burning substernal pain that began 6 hours ago. The patient has a history of type 2 diabetes mellitus and hypertension. He smokes 2 packs of cigarettes daily and consumes alcohol occasionally. An ECG performed in the emergency department shows ST segment elevation in leads I, aVL, and V3-V6. During the next several hours, the patient develops progressive shortness of breath that worsens when lying flat. Which of the following histologic features is most likely to be present in this patient's lung tissue? {{exhibit_1}}",
+    "zh": "一名56岁男性因6小时前开始的胸骨后烧灼痛被送往急诊科。患者有2型糖尿病和高血压病史。他每天吸烟2包，偶尔饮酒。在急诊科进行的ECG显示I、aVL和V3-V6导联ST段抬高。在接下来的几个小时里，患者出现进行性呼吸困难，平躺时加重。该患者的肺组织中最有可能出现以下哪种组织学特征？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following histologic features is most likely to be present in this patient's lung tissue?",
+    "zh": "该患者的肺组织中最有可能出现以下哪种组织学特征？"
+  },
+  "options": {
+    "A": {
+      "en": "Fat globules and bone marrow cells in the pulmonary arterioles",
+      "zh": "肺小动脉中的脂肪小球和骨髓细胞"
+    },
+    "B": {
+      "en": "Focal necrosis of the alveolar walls with intraalveolar hemorrhage",
+      "zh": "肺泡壁灶性坏死伴肺泡内出血"
+    },
+    "C": {
+      "en": "Neutrophil-rich fluid filling the bronchi, bronchioles, and alveoli",
+      "zh": "充满支气管、细支气管和肺泡的中性粒细胞丰富的液体"
+    },
+    "D": {
+      "en": "Numerous hemosiderin-laden macrophages in the alveoli",
+      "zh": "肺泡中大量含铁血黄素巨噬细胞"
+    },
+    "E": {
+      "en": "Engorged capillaries and alveoli filled with acellular pink material",
+      "zh": "充血的毛细血管和充满无细胞粉红色物质的肺泡"
+    },
+    "F": {
+      "en": "Prominent mononuclear cell infiltration in the interstitium",
+      "zh": "间质中显著的单核细胞浸润"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient has chest pain and ECG evidence of acute MYOCARDIAL INFARCTION (MI) involving the lateral wall of the left ventricle. His subsequent development of dyspnea and orthopnea is most likely due to MI-induced acute left ventricular failure, which can result in rapid onset of pulmonary venous hypertension and acute pulmonary edema.\n\nCardiogenic pulmonary edema represents increased filtration of fluid and electrolytes into the lung interstitium and alveoli. The fluid that accumulates is a transudate (an ultrafiltrate of plasma caused by changes in hydrostatic or oncotic pressure) rather than an exudate (an extravasation of not only fluid and electrolytes but also plasma proteins and circulating leukocytes due to inflammatory disruption of the vascular membrane). On light microscopy, engorged alveolar capillaries are evident and the intraalveolar transudate appears as acellular pink material. {{exhibit_2}}\n\n(Choice A) Fat globules and bone marrow cells in the pulmonary arterioles occur with fat embolism syndrome, which is not a complication of MI but is typically associated with long bone (eg, femur) or pelvic fracture.\n\n(Choice B) Focal necrosis of alveolar walls with intraalveolar hemorrhage is typical of pulmonary hemorrhage syndromes such as Goodpasture syndrome and other vasculitides (eg, hypersensitivity angiitis, granulomatosis with polyangiitis).\n\n(Choice C) The presence of numerous neutrophils in the alveolar fluid is consistent with exudative alveolar filling, as occurs in bacterial pneumonia.\n\n(Choice D) Hemosiderin-laden macrophages (\"heart failure cells\") form as macrophages digest red blood cells that leak from alveolar capillaries damaged by high intravascular pressure. They are a sign of chronic lung congestion and would not be present acutely.\n\n(Choice F) Mononuclear interstitial pulmonary infiltrates are found in various interstitial lung diseases (eg, idiopathic pulmonary fibrosis).\n\nEducational objective:\nAcute pulmonary edema is a common consequence of acute myocardial infarction affecting the left ventricle. Elevated hydrostatic pressure in the pulmonary venous system leads to engorged alveolar capillaries with transudation of fluid into the alveoli, appearing as acellular pink material on microscopy. Hemosiderin-laden macrophages are indicative of chronic lung congestion and are not present acutely.",
+    "zh": "该患者有胸痛和ECG急性心肌梗死（MI）的证据，涉及左心室侧壁。他随后出现的呼吸困难和端坐呼吸很可能是由MI引起急性左心衰竭所致，这可导致肺静脉高压和急性肺水肿的快速发生。\n\n心源性肺水肿代表液体和电解质渗入肺间质和肺泡的增加。积聚的液体是漏出液（由静水压或渗透压变化引起的血浆超滤液），而不是渗出液（不仅由于血管膜的炎症破坏而导致的液体和电解质，还有血浆蛋白和循环白细胞的外渗）。在光镜下，充盈的肺泡毛细血管是显而易见的，肺泡内漏出液呈现为无细胞的粉红色物质。{{exhibit_2}}\n\n(选项 A) 肺小动脉中的脂肪小球和骨髓细胞发生在脂肪栓塞综合征中，这不是MI的并发症，但通常与长骨（例如，股骨）或骨盆骨折有关。\n\n(选项 B) 肺泡壁灶性坏死伴肺泡内出血是肺出血综合征的典型表现，如Goodpasture综合征和其他血管炎（例如，超敏血管炎、肉芽肿性多血管炎）。\n\n(选项 C) 肺泡液中存在大量中性粒细胞与渗出性肺泡充盈相符，如细菌性肺炎。\n\n(选项 D) 含铁血黄素巨噬细胞（“心力衰竭细胞”）形成于巨噬细胞消化从高血管内压受损的肺泡毛细血管中渗出的红细胞时。它们是慢性肺充血的征兆，不会急性出现。\n\n(选项 F) 单核细胞间质性肺浸润见于各种间质性肺疾病（例如，特发性肺纤维化）。\n\n教育目标：\n急性肺水肿是影响左心室的急性心肌梗死的常见后果。肺静脉系统中的静水压升高导致肺泡毛细血管充盈，液体渗入肺泡，在显微镜下表现为无细胞的粉红色物质。含铁血黄素巨噬细胞是慢性肺充血的指标，不会急性出现。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of acute pulmonary edema secondary to myocardial infarction and its histological findings. Specifically, it assesses the ability to recognize the microscopic appearance of transudative fluid accumulation in the alveoli.\n\nTo solve this question, recognize the patient's presentation is consistent with acute heart failure following a myocardial infarction. Understand that pulmonary edema in this setting is due to increased hydrostatic pressure, leading to a transudate. Recall the histological appearance of pulmonary edema, which includes engorged capillaries and acellular pink material in the alveoli.",
+    "zh": "本题考察了心肌梗死继发急性肺水肿的病理生理学及其组织学发现。具体而言，它评估了识别肺泡中漏出液积聚的微观外观的能力。\n\n要解决这个问题，需要认识到患者的临床表现与心肌梗死后的急性心力衰竭一致。了解在这种情况下，肺水肿是由于静水压升高所致，导致漏出液。回想一下肺水肿的组织学表现，包括充血的毛细血管和肺泡中的无细胞粉红色物质。"
+  },
+  "tags": "Acute myocardial infarction; Pulmonary edema; Left ventricular failure; Histopathology; Transudate; Cardiology; Pulmonary medicine",
+  "category": "Chest",
+  "question_id": "1881",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1881",
+  "extracted_at": "2025-11-05T11:41:52.639695",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:37:06.821128",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

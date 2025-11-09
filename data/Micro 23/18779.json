@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "An 83-year-old man comes to the emergency department due to a 1-week history of fever, malaise, cough, right-sided chest pain, and worsening dyspnea. Temperature is 38.4 C (101.1 F), blood pressure is 116/70 mm Hg, and pulse is 98/min. On physical examination, the patient is frail appearing. Breath sounds are decreased on the right side. Heart sounds are normal. The abdomen is soft and nontender. Chest x-ray shows a moderate-sized right pleural effusion. Thoracentesis yields purulent fluid. Pleural fluid analysis reveals a large number of leukocytes with 80% neutrophils.",
+    "zh": "一位83岁男性因1周发热、不适、咳嗽、右侧胸痛和呼吸困难加重而就诊于急诊科。体温38.4°C（101.1°F），血压116/70 mmHg，脉搏98次/分。体格检查显示患者虚弱。右侧呼吸音减弱。心音正常。腹部柔软无压痛。胸部X线片显示中等大小的右侧胸腔积液。胸腔穿刺术获得脓性液体。胸腔积液分析显示大量白细胞，其中80%为中性粒细胞。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying mechanism for this patient's pleural effusion?",
+    "zh": "该患者胸腔积液最可能的潜在机制是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Bacterial translocation from alveoli into pleural space",
+      "zh": "细菌从肺泡转移到胸膜腔"
+    },
+    "B": {
+      "en": "Contiguous spread from a mediastinal focus",
+      "zh": "来自纵隔病灶的邻近扩散"
+    },
+    "C": {
+      "en": "Direct inoculation into the pleural space",
+      "zh": "直接接种到胸膜腔"
+    },
+    "D": {
+      "en": "Hematogenous dissemination of a distant infection",
+      "zh": "远处感染的血行播散"
+    },
+    "E": {
+      "en": "Reactivation of a dormant infection",
+      "zh": "休眠感染的再激活"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Thoracentesis yielding purulent fluid is diagnostic of empyema, a pleural effusion that has been contaminated by bacteria (or, rarely, fungi or parasites) with subsequent inflammatory progression and fibrotic organization within the pleural space (often with loculated fluid collections). Empyema most commonly results from bacterial translocation from the alveoli into the pleural space and represents advanced progression of a complicated parapneumonic effusion. Affected patients have a symptomatic presentation similar to that of pneumonia (eg, fever, cough, shortness of breath, pleuritic chest pain), but the presentation can be more insidious than uncomplicated pneumonia, taking place over 1-2 weeks or more.\n\nTreatment of empyema requires prompt drainage (eg, chest tube, surgery in some cases) in addition to antibiotics. Following drainage, some patients have persistent pleural fibrosis that prevents full lung reexpansion, a complication known as trapped lung.\n\n(Choices B, C, D, and E) Contiguous spread from a mediastinal focus (eg, Staphylococcal mediastinitis), direct inoculation (eg, surgery, penetrating trauma), hematogenous dissemination of a distant infection (eg, tuberculosis) are all possible but less common etiologies of bacterial contamination of the pleural space leading to empyema. In the absence of evidence that suggests one of these sources (eg, recent surgery or trauma, lymphocyte-predominant effusion consistent with tuberculosis), empyema in this patient is most likely due to bacterial translocation from the alveoli (a complication of pneumonia).\n\nEducational objective:\nEmpyema is an accumulation of pus within the pleural space that can result from multiple sources of bacterial contamination. It usually represents advanced progression of a complicated parapneumonic effusion resulting from bacterial translocation from the alveoli.",
+    "zh": "胸腔穿刺获得脓性液体诊断为脓胸，脓胸是一种被细菌（或极少数情况下，真菌或寄生虫）污染的胸腔积液，随后在胸膜腔内发生炎症进展和纤维化组织（常伴有分隔的液体聚集）。脓胸最常见的原因是细菌从肺泡转移到胸膜腔，代表复杂性副肺炎积液的晚期进展。受影响的患者的症状表现与肺炎相似（如发热、咳嗽、呼吸急促、胸膜性胸痛），但表现可能比单纯性肺炎更隐匿，持续1-2周或更长时间。\n\n脓胸的治疗需要及时引流（例如，胸管，在某些情况下需要手术）以及抗生素。引流后，一些患者存在持续性胸膜纤维化，阻止肺完全复张，这是一种称为肺陷闭的并发症。\n\n（选项B、C、D和E）来自纵隔病灶的邻近扩散（例如，葡萄球菌性纵隔炎）、直接接种（例如，手术、穿透性创伤）、远处感染的血行播散（例如，结核病）都是可能但不太常见的胸膜腔细菌污染导致脓胸的病因。如果没有证据表明这些来源中的一个（例如，近期手术或创伤，以淋巴细胞为主的积液与结核病一致），则该患者的脓胸最可能由于细菌从肺泡转移（肺炎的并发症）引起。\n\n教育目标：\n脓胸是胸膜腔内脓液的积聚，可能由多种细菌污染源引起。它通常代表复杂性副肺炎积液的晚期进展，由细菌从肺泡转移引起。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the etiology and pathogenesis of empyema, specifically the most common mechanism of bacterial translocation from the alveoli into the pleural space. It also requires differentiating empyema from other causes of pleural effusions.\n\nTo solve this question, recognize the clinical presentation of pneumonia complicated by purulent pleural effusion. Consider the most common route of infection in this scenario, which is bacterial translocation from the lungs.",
+    "zh": "本题考察对脓胸病因和发病机制的了解，特别是细菌从肺泡转移到胸膜腔的最常见机制。它还需要将脓胸与其他胸腔积液病因区分开来。\n\n解决此问题，需要认识到由脓性胸腔积液并发的肺炎的临床表现。考虑在这种情况下最常见的感染途径，即细菌从肺部的转移。"
+  },
+  "tags": "Empyema; Pleural effusion; Bacterial translocation; Pneumonia; Infectious disease; Pulmonology; Thoracentesis",
+  "category": "Micro",
+  "question_id": "18779",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\18779",
+  "extracted_at": "2025-11-05T15:03:01.943676",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:10:43.140203",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

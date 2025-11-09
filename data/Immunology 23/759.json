@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 4-year-old male is exposed to latex gloves during a minor surgical procedure and is subsequently found to produce anti-latex IgM antibodies. Several months later he develops a severe allergic reaction to latex and is found to have a high level of serum anti-latex IgE antibodies.",
+    "zh": "一名4岁男性在一次小手术中接触了乳胶手套，随后被发现产生抗乳胶IgM抗体。几个月后，他出现了严重的乳胶过敏反应，并被发现血清中抗乳胶IgE抗体水平很高。"
+  },
+  "question": {
+    "en": "Which of the following cytokines is most likely responsible for this anti-latex antibody isotype change?",
+    "zh": "以下哪种细胞因子最有可能导致这种抗乳胶抗体同型转变？"
+  },
+  "options": {
+    "A": {
+      "en": "IL-1",
+      "zh": "白细胞介素-1（IL-1）"
+    },
+    "B": {
+      "en": "IL-2",
+      "zh": "白细胞介素-2（IL-2）"
+    },
+    "C": {
+      "en": "IL-3",
+      "zh": "白细胞介素-3（IL-3）"
+    },
+    "D": {
+      "en": "IL-4",
+      "zh": "白细胞介素-4（IL-4）"
+    },
+    "E": {
+      "en": "IL-10",
+      "zh": "白细胞介素-10（IL-10）"
+    },
+    "F": {
+      "en": "IL-12",
+      "zh": "白细胞介素-12（IL-12）"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "IL-4 stimulates the proliferation and differentiation of T_0 (naive) T cells into T_H2 lymphocytes, thus increasing the T_H2 subpopulation and the stimulus for the primary humoral immune response (eg, IgM). It also induces B cell proliferation and immunoglobulin class switching to IgE which is responsible for the TYPE I HYPERSENSITIVITY reaction following repeated exposure to an allergen. IL-5 contributes to B cell differentiation in addition to its role in stimulating IgA production and eosinophil activity (eg, host defense against parasitic infections). {{exhibit_1}}\n\n(Choice A) IL-1 is produced by macrophages. It activates naive T_0 lymphocytes and promotes their differentiation into T_H1 and T_H2 subpopulations. IL-1 is also an endogenous pyrogen.\n\n(Choice B) IL-2 is the first interleukin produced by T cells after contact with antigen. It is secreted mainly by T_H1 cells and stimulates development of CD4+ T helper cells, CD8+ cytotoxic cells, and B cells.\n\n(Choice C) IL-3 stimulates growth and differentiation of bone marrow stem cells and is produced by T helper cells.\n\n(Choice E) IL-10 helps regulate the balance between the T_H1 and T_H2 subpopulations of T helper cells. It is produced by T_H2 lymphocytes and inhibits synthesis of interferon-γ leading to a decrease in the T_H1 subpopulation. IL-10 also plays a part in class switching from IgM to IgG antibodies.\n\n(Choice F) IL-12 is synthesized by macrophages and stimulates growth and development of the T_H1 subpopulation of T helper cells.\n\nEducational Objective:\nIL-4 is produced by the T_H2 subset of T helper cells. It facilitates proliferation of B cells and T_H2 lymphocytes and stimulates antibody isotype switching to IgE which mediates type I hypersensitivity (allergic) reactions.",
+    "zh": "IL-4 刺激 T_0（初始）T细胞增殖和分化为 T_H2 淋巴细胞，从而增加 T_H2 亚群，并刺激主要的体液免疫反应（例如，IgM）。它还诱导 B 细胞增殖和免疫球蛋白类别转换至 IgE，IgE 负责在反复接触过敏原后发生的 I 型超敏反应。IL-5 有助于 B 细胞分化，此外还可刺激 IgA 的产生和嗜酸性粒细胞的活性（例如，针对寄生虫感染的宿主防御）。{{exhibit_1}}\n\n（选项 A）IL-1 由巨噬细胞产生。它激活初始 T_0 淋巴细胞并促进其分化为 T_H1 和 T_H2 亚群。IL-1 也是一种内源性致热原。\n\n（选项 B）IL-2 是 T 细胞在与抗原接触后产生的第一个白细胞介素。它主要由 T_H1 细胞分泌，并刺激 CD4+ 辅助 T 细胞、CD8+ 细胞毒性细胞和 B 细胞的发育。\n\n（选项 C）IL-3 刺激骨髓干细胞的生长和分化，并由辅助 T 细胞产生。\n\n（选项 E）IL-10 有助于调节辅助 T 细胞的 T_H1 和 T_H2 亚群之间的平衡。它由 T_H2 淋巴细胞产生，抑制干扰素-γ 的合成，导致 T_H1 亚群减少。IL-10 也在 IgM 向 IgG 抗体的类别转换中发挥作用。\n\n（选项 F）IL-12 由巨噬细胞合成，并刺激辅助 T 细胞的 T_H1 亚群的生长和发育。\n\n教学目标：\nIL-4 由辅助 T 细胞的 T_H2 亚群产生。它促进 B 细胞和 T_H2 淋巴细胞的增殖，并刺激抗体同型转换至 IgE，从而介导 I 型超敏反应（过敏）反应。"
+  },
+  "summary": {
+    "en": "This question tests the role of cytokines in T helper cell differentiation and antibody isotype switching, specifically focusing on the cytokine responsible for IgE production in type I hypersensitivity reactions. Understanding the function of IL-4 in promoting B cell proliferation and IgE class switching is crucial.\n\nTo solve this question, recall that type I hypersensitivity reactions involve IgE. Then, remember that IL-4 is the key cytokine that stimulates B cells to switch to IgE production. Eliminate other options based on their known functions in immune responses.",
+    "zh": "此问题考察细胞因子在辅助 T 细胞分化和抗体同型转换中的作用，特别关注负责 I 型超敏反应中 IgE 产生的细胞因子。了解 IL-4 在促进 B 细胞增殖和 IgE 类别转换中的功能至关重要。\n\n要解决这个问题，请回忆 I 型超敏反应涉及 IgE。然后，记住 IL-4 是刺激 B 细胞转换为产生 IgE 的关键细胞因子。根据其他选项在免疫反应中的已知功能，排除它们。"
+  },
+  "tags": "Cytokines; IL-4; IgE; Type I hypersensitivity; T helper cells; Antibody isotype switching; Immunology; Allergy",
+  "category": "Immunology",
+  "question_id": "759",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\759",
+  "extracted_at": "2025-11-05T14:46:09.002120",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:03:16.476619",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

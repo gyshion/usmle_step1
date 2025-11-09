@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old Russian immigrant comes to the office with a 2-month history of exertional dyspnea and progressive lower extremity swelling. He also reports abdominal distension and decreased appetite. The patient has gained 4.5 kg (9.9 lb) over the last 2 months. Medical history is significant for hypertension and recurrent lung infections requiring prolonged antibiotic therapy. The patient has no history of coronary artery disease. He has smoked a pack of cigarettes daily for the past 15 years. The patient undergoes noninvasive cardiac testing, followed by cardiac catheterization. A jugular venous pressure tracing is shown in the image below: {{exhibit_1}}",
+    "zh": "一位 34 岁的俄罗斯移民来到诊所，主诉 2 个月来劳力性呼吸困难和进行性下肢水肿。他还报告腹胀和食欲下降。患者在过去 2 个月内体重增加了 4.5 公斤（9.9 磅）。病史提示高血压和需要长期抗生素治疗的复发性肺部感染。患者无冠心病病史。他每天吸烟一包，持续 15 年。患者接受了无创心脏检查，然后进行了心脏导管插入术。下图显示了颈静脉压描记图：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "The waveform indicated by the arrow most likely corresponds to which of the following?",
+    "zh": "箭头所指的波形最可能对应于以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Atrial contraction",
+      "zh": "心房收缩"
+    },
+    "B": {
+      "en": "Carotid pulse upstroke",
+      "zh": "颈动脉搏动上升"
+    },
+    "C": {
+      "en": "Isovolumetric ventricular contraction",
+      "zh": "等容性心室收缩"
+    },
+    "D": {
+      "en": "Tricuspid valve closure",
+      "zh": "三尖瓣关闭"
+    },
+    "E": {
+      "en": "Tricuspid valve opening",
+      "zh": "三尖瓣开放"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The jugular venous pulsation (JVP) waveform is representative of pressure changes in the right atrium throughout the cardiac cycle; the normal waveform consists of 3 peaks (A, C, and V) and 2 descents (x and y).\n\nThe A wave is caused by atrial contraction at the end of right ventricular diastole, which occurs just before tricuspid valve closure (indicated by S1). (Choice D) The C wave then occurs due to right ventricular contraction (Choice C) against a closed tricuspid valve, which bulges into the right atrium. There is an ensuing decrease in pressure (x descent) as the emptied right atrium relaxes, followed by an uptrend as the right atrium refills with blood from the vena cava. This uptrend culminates in the V wave at the peak of right atrial filling. The pulmonic valve closes (indicated by S2) and the tricuspid valve opens (Choice E) to mark the beginning of passive right atrial emptying into the right ventricle (y descent).\n\nThe A wave is absent in patients with atrial fibrillation because no organized atrial contraction takes place.\n\n(Choice B) Pressure changes in the systemic arterial circulation (eg, carotid pulse upstroke) are not represented on the JVP waveform. However, because both the right ventricle and the left ventricle contract simultaneously, the carotid pulse upstroke should occur right around the time of the C wave on the JVP waveform. {{exhibit_2}}",
+    "zh": "颈静脉搏动 (JVP) 波形代表整个心动周期中右心房的压力变化；正常波形由 3 个峰（A、C 和 V）和 2 个下降（x 和 y）组成。\n\nA 波是由心房收缩引起的，发生在右心室舒张末期，就在三尖瓣关闭（由 S1 指示）之前。（选项 D）然后，由于右心室收缩（选项 C）对抗闭合的三尖瓣，三尖瓣膨胀进入右心房，出现 C 波。随着排空的右心房松弛，压力随之下降（x 下降），随后随着右心房从腔静脉重新充盈血液而上升。这种上升趋势在右心房充盈的峰值时达到 V 波。肺动脉瓣关闭（由 S2 指示），三尖瓣打开（选项 E），标志着被动右心房排空进入右心室的开始（y 下降）。\n\n患有心房颤动（房颤）的患者不存在 A 波，因为没有有组织的心房收缩发生。\n\n（选项 B）全身动脉循环中的压力变化（例如，颈动脉搏动上升）未在 JVP 波形上显示。然而，由于右心室和左心室同时收缩，颈动脉搏动上升应该发生在 JVP 波形上的 C 波附近。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the jugular venous pressure (JVP) waveform and its components, specifically the A wave, which represents atrial contraction. It requires understanding the cardiac cycle and how it relates to the JVP waveform.\n\nTo solve this question, recognize that the A wave on the JVP corresponds to atrial contraction. Eliminate options that do not align with this understanding of the JVP waveform and its components.",
+    "zh": "本题考察对颈静脉压 (JVP) 波形及其组成的了解，特别是代表心房收缩的 A 波。它需要理解心动周期以及它与 JVP 波形的关系。\n\n要解决这个问题，要认识到 JVP 上的 A 波对应于心房收缩。排除与这种对 JVP 波形及其组成部分的理解不符的选项。"
+  },
+  "tags": "Jugular venous pressure; Cardiac cycle; Atrial contraction; Right atrium; Cardiovascular system",
+  "category": "CVS",
+  "question_id": "2070",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\2070",
+  "extracted_at": "2025-11-05T12:09:31.018306",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:27:50.081692",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

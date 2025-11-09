@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 52-year-old woman is evaluated for a 6-month history of progressive fatigue and generalized pruritus. She has had no significant prior medical conditions or surgery and takes no medications. The patient does not use tobacco, alcohol, or illicit drugs. Her sister has Sjögren syndrome. Physical examination shows skin excoriations and mild hepatomegaly. Laboratory results are as follows:\n\nAlkaline phosphatase 480 U/L\nAspartate aminotransferase (SGOT) 37 U/L\nAlanine aminotransferase (SGPT) 49 U/L\nAntimitochondrial antibody positive",
+    "zh": "一名52岁的女性因6个月来进行性疲劳和全身瘙痒就诊。她既往无重大疾病或手术史，未服用任何药物。患者不吸烟、不饮酒、不吸毒。她的姐妹患有干燥综合征。体格检查显示皮肤抓痕和轻度肝肿大。实验室检查结果如下：\n\n碱性磷酸酶 480 U/L\n天冬氨酸转氨酶 (SGOT) 37 U/L\n丙氨酸转氨酶 (SGPT) 49 U/L\n抗线粒体抗体阳性"
+  },
+  "question": {
+    "en": "The pathogenesis of this patient's disease process most closely resembles that of which of the following conditions?",
+    "zh": "该患者的疾病过程的发病机制最接近以下哪种情况？"
+  },
+  "options": {
+    "A": {
+      "en": "Acetaminophen toxicity",
+      "zh": "对乙酰氨基酚毒性"
+    },
+    "B": {
+      "en": "Alcohol-induced hepatitis",
+      "zh": "酒精性肝炎"
+    },
+    "C": {
+      "en": "Budd-Chiari syndrome",
+      "zh": "布加综合征"
+    },
+    "D": {
+      "en": "Graft versus host disease",
+      "zh": "移植物抗宿主病"
+    },
+    "E": {
+      "en": "Hemochromatosis",
+      "zh": "血色病"
+    },
+    "F": {
+      "en": "Reye syndrome",
+      "zh": "瑞氏综合征"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Primary biliary cholangitis (PBC, formerly primary biliary cirrhosis) is a chronic autoimmune liver disease characterized by destruction of small and midsized intrahepatic bile ducts with resulting cholestasis. It is most common in middle-aged women and is frequently associated with other autoimmune disorders (eg, Sjögren syndrome, rheumatoid arthritis). Clinical features include fatigue, itching, and hepatomegaly. Serum alkaline phosphatase is elevated, and antimitochondrial antibody titers are positive in most cases. Biopsy findings in PBC typically show patchy lymphocytic inflammation, leading to granulomatous destruction of intrahepatic bile ducts (ie, florid duct lesion), with necrosis and micronodular regeneration of periportal tissues.\n\nOf the diseases listed, only graft versus host disease (GVHD) causes similar immune-mediated destruction of intrahepatic bile ducts. GVHD occurs in immunocompromised patients following transplant of allogeneic bone marrow or other lymphocyte-rich tissues (eg, nonirradiated blood). Donor T-cells migrate into host tissues, where they recognize host major histocompatibility complex antigens as foreign. Liver involvement is often heralded by a rise in alkaline phosphatase and characterized histologically by lymphocytic infiltration and destruction of small intrahepatic bile ducts, highlighting the immunologic etiology of both diseases.\n\n(Choice A) Serious acetaminophen overdose causes direct hepatocellular toxicity resulting in liver failure with centrilobular necrosis that can extend to include entire lobules.\n\n(Choice B) Alcohol-induced hepatitis (due to toxicity from chronic ethanol ingestion) is characterized by hepatocellular swelling and necrosis, steatosis, Mallory bodies, neutrophilic infiltration, and fibrosis.\n\n(Choice C) Budd-Chiari syndrome is due to occlusion of the hepatic veins with a resulting increase in intrahepatic pressure. Gross findings include hepatomegaly with a tense capsule and reddish-purple parenchyma. Typical microscopic findings include severe centrilobular congestion and necrosis.\n\n(Choice E) Hemochromatosis is due to abnormal iron absorption and results in deposition of hemosiderin in the liver. Biopsy is characterized by visible iron within hepatocytes.\n\n(Choice F) Reye syndrome occurs in children with underlying inborn errors in metabolism; acute viral illness (often with concomitant aspirin use) promotes mitochondrial injury and subsequent alterations in metabolism that result in encephalopathy and hepatic dysfunction. Biopsy demonstrates panlobular microvesicular steatosis.",
+    "zh": "原发性胆汁性胆管炎 (PBC，以前称为原发性胆汁性肝硬化) 是一种慢性自身免疫性肝病，其特征是破坏肝内中小胆管，导致胆汁淤积。它常见于中年女性，并且经常与其他自身免疫性疾病相关（例如，干燥综合征、类风湿性关节炎）。临床表现包括疲劳、瘙痒和肝肿大。血清碱性磷酸酶升高，并且大多数病例抗线粒体抗体滴度呈阳性。PBC的活检结果通常显示局灶性淋巴细胞性炎症，导致肝内胆管的肉芽肿性破坏（即，鲜明的导管病变），伴有门管区组织的坏死和微结节性再生。\n\n在列出的疾病中，只有移植物抗宿主病 (GVHD) 会导致类似的免疫介导的肝内胆管破坏。GVHD 发生在免疫功能低下的患者接受异体骨髓或其他富含淋巴细胞的组织（例如，未辐照的血液）移植后。供者T细胞迁移到宿主组织中，在那里它们将宿主主要组织相容性复合物抗原识别为异物。肝脏受累通常以碱性磷酸酶升高为先兆，其组织学特征是淋巴细胞浸润和肝内小胆管的破坏，突出了这两种疾病的免疫学病因。\n\n(选项 A) 严重的对乙酰氨基酚过量会导致直接的肝细胞毒性，导致肝衰竭，伴有可延伸至包括整个小叶的中央小叶坏死。\n\n(选项 B) 酒精性肝炎（由于长期乙醇摄入引起的毒性）的特征是肝细胞肿胀和坏死、脂肪变性、马洛里小体、中性粒细胞浸润和纤维化。\n\n(选项 C) 布加综合征是由于肝静脉闭塞导致肝内压力升高所致。大体发现包括肝肿大伴有紧张的包膜和红紫色实质。典型的镜下发现包括严重的中央小叶淤血和坏死。\n\n(选项 E) 血色病是由于铁吸收异常导致肝脏中血铁黄素沉积。活检的特征是肝细胞内可见铁。\n\n(选项 F) 瑞氏综合征发生在患有潜在代谢性先天性错误的儿童中；急性病毒性疾病（通常伴有阿司匹林的使用）促进线粒体损伤以及随后的代谢改变，导致脑病和肝功能障碍。活检显示全小叶微囊性脂肪变性。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of primary biliary cholangitis (PBC) and its pathogenesis, specifically the autoimmune destruction of intrahepatic bile ducts. It also requires differentiating PBC from other liver diseases based on their distinct pathophysiologies.\n\nTo solve this question, recognize the key features of PBC (female, fatigue, pruritus, elevated alkaline phosphatase, positive antimitochondrial antibody, Sjögren syndrome association) and link them to the immune-mediated destruction of bile ducts, which is also seen in graft-versus-host disease (GVHD).",
+    "zh": "这道题考察了原发性胆汁性胆管炎 (PBC) 及其发病机制的知识，特别是肝内胆管的自身免疫破坏。它还需要根据PBC与其他肝脏疾病不同的病理生理学来区分它们。\n\n要解决这个问题，需要识别PBC的特征（女性、疲劳、瘙痒、碱性磷酸酶升高、抗线粒体抗体阳性、干燥综合征相关性）并将它们与移植物抗宿主病 (GVHD) 中也可见的免疫介导的胆管破坏联系起来。"
+  },
+  "tags": "Primary biliary cholangitis; Autoimmune liver disease; Cholestasis; Antimitochondrial antibody; Graft versus host disease; Liver; Immunology; Sjögren syndrome; Alkaline phosphatase; Hepatomegaly",
+  "category": "GIT",
+  "question_id": "402",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\402",
+  "extracted_at": "2025-11-05T14:34:22.065720",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:57:12.656389",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

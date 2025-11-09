@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "Gram-positive bacteria are injected under the skin of experimental animals. Three days later, the animals are treated with antibiotic therapy. Aspirates taken from the infection site are plated on nutrient-rich agar. The isolated bacteria assume a spherical configuration when placed in an isotonic solution and disintegrate rapidly when placed in a hypotonic solution. Which of the following antibiotics was most likely administered to the animals in this experiment?",
+    "zh": "革兰氏阳性菌被注射到实验动物的皮下。三天后，对动物进行抗生素治疗。从感染部位抽取的抽吸物被接种在富含营养的琼脂上。当置于等渗溶液中时，分离的细菌呈球形，当置于低渗溶液中时迅速崩解。在本次实验中，最有可能给动物注射以下哪种抗生素？"
+  },
+  "question": {
+    "en": "Which of the following antibiotics was most likely administered to the animals in this experiment?",
+    "zh": "在本次实验中，最有可能给动物注射以下哪种抗生素？"
+  },
+  "options": {
+    "A": {
+      "en": "Azithromycin",
+      "zh": "阿奇霉素"
+    },
+    "B": {
+      "en": "Cefuroxime",
+      "zh": "头孢呋辛"
+    },
+    "C": {
+      "en": "Chloramphenicol",
+      "zh": "氯霉素"
+    },
+    "D": {
+      "en": "Ciprofloxacin",
+      "zh": "环丙沙星"
+    },
+    "E": {
+      "en": "Doxycycline",
+      "zh": "多西环素"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "the assumption of a spherical shape in an isotonic solution and lysis in a hypotonic solution indicate disruption of the bacterial cell wall. Several classes of antibiotics target cell wall synthesis, including fosfomycin, vancomycin, penicillins, and cephalosporins (eg, cefuroxime).\n\n(Choices A and C) Azithromycin and chloramphenicol inhibit the bacterial 50S ribosomal subunit. They have no effect on the cell wall and would not alter bacterial shape in different osmotic gradients. Side effects of chloramphenicol include dose-related myelosuppression and aplastic anemia.\n\n(Choice D) Fluoroquinolones (eg, ciprofloxacin) inhibit bacterial DNA topoisomerase and gyrase, which results in bacterial cell death due to DNA damage. They do not affect the cell wall.\n\n(Choice E) Doxycycline disrupts bacterial protein synthesis by inhibiting the bacterial 30S ribosomal subunit. It has no effect on the rigidity of the cell wall.\n\nEducational objective:\nThe bacterial cell wall protects the organism from osmotic stress. Antibiotics that target the cell wall result in bacterial lysis in hypotonic solutions. Fosfomycin, vancomycin, penicillins, and cephalosporins all disrupt bacterial cell wall synthesis.",
+    "zh": "在等渗溶液中呈现球形并在低渗溶液中溶解表明细菌细胞壁的破坏。几类抗生素靶向细胞壁合成，包括磷霉素、万古霉素、青霉素和头孢菌素（例如，头孢呋辛）。\n\n（选项 A 和 C）阿奇霉素和氯霉素抑制细菌 50S 核糖体亚基。它们对细胞壁没有影响，也不会改变细菌在不同渗透梯度中的形状。氯霉素的副作用包括剂量相关的骨髓抑制和再生障碍性贫血。\n\n（选项 D）氟喹诺酮类（例如，环丙沙星）抑制细菌 DNA 拓扑异构酶和旋转酶，导致细菌因 DNA 损伤而死亡。它们不影响细胞壁。\n\n（选项 E）多西环素通过抑制细菌 30S 核糖体亚基来破坏细菌蛋白质合成。它对细胞壁的刚性没有影响。\n\n教学目标：\n细菌细胞壁保护生物体免受渗透压力的影响。靶向细胞壁的抗生素会导致细菌在低渗溶液中溶解。磷霉素、万古霉素、青霉素和头孢菌素都破坏细菌细胞壁的合成。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of antibiotic mechanisms of action, specifically those that target the bacterial cell wall, and how these mechanisms affect bacterial morphology in different osmotic environments.\n\nTo solve this question, recognize that the described bacterial behavior (spherical shape in isotonic solution, lysis in hypotonic solution) indicates cell wall disruption. Then, identify the antibiotic that inhibits cell wall synthesis from the given options.",
+    "zh": "这个问题考察了抗生素作用机制的知识，特别是那些靶向细菌细胞壁的作用机制，以及这些机制如何影响细菌在不同渗透环境中的形态。\n\n要解决这个问题，需要认识到所描述的细菌行为（在等渗溶液中呈球形，在低渗溶液中溶解）表明细胞壁的破坏。然后，从给定的选项中确定抑制细胞壁合成的抗生素。"
+  },
+  "tags": "Antibiotics; Cell wall synthesis; Osmotic stress; Bacterial morphology; Cefuroxime; Beta-lactams; Pharmacology; Infectious Diseases; Cephalosporins",
+  "category": "Micro",
+  "question_id": "959",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\959",
+  "extracted_at": "2025-11-05T15:06:44.346951",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:13:48.743331",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

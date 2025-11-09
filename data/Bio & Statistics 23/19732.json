@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A group of researchers conducted a case-control study to estimate the association between exposure to a certain pesticide and head and neck squamous cell carcinomas. Controls were matched to cases by age and gender. Exposure status was determined by interviewing the subjects. On matched-pair analysis, the odds ratio is 7.5 (95% confidence interval: 2.3-14.8). Based on this information, which of the following is most likely to affect the validity of this study?",
+    "zh": "一组研究人员进行了一项病例对照研究，以评估接触某种农药与头颈部鳞状细胞癌之间的关联。对照组按年龄和性别与病例匹配。通过访谈受试者来确定暴露状态。在配对分析中，优势比为7.5（95%置信区间：2.3-14.8）。根据这些信息，以下哪项最有可能影响这项研究的有效性？"
+  },
+  "question": {
+    "en": "Based on this information, which of the following is most likely to affect the validity of this study?",
+    "zh": "根据这些信息，以下哪项最有可能影响这项研究的有效性？"
+  },
+  "options": {
+    "A": {
+      "en": "Confounding bias by age",
+      "zh": "年龄混杂偏倚"
+    },
+    "B": {
+      "en": "Healthy worker bias",
+      "zh": "健康工人效应"
+    },
+    "C": {
+      "en": "Misclassification bias",
+      "zh": "错误分类偏倚"
+    },
+    "D": {
+      "en": "Nonresponse bias",
+      "zh": "无应答偏倚"
+    },
+    "E": {
+      "en": "Placebo effect",
+      "zh": "安慰剂效应"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Misclassification bias results from an incorrect categorization of subjects regarding their exposure status, outcome status, or both.\n\n*   Nondifferential misclassification reflects equal misclassification rates between groups, making them look more similar than they are and pushing the association toward the null value (eg, odds ratio = 1) (ie, bias toward null hypothesis)\n*   Differential misclassification reflects unequal misclassification rates between groups and can push the association toward or away from the null value\n\nCase-control studies that rely on questionnaires or interviews to determine exposure status are particularly susceptible to misclassification bias in the form of RECALL BIAS. Subjects who have experienced an adverse event such as head and neck squamous cell carcinoma (HNSCC) are more likely to recall previous potential exposures (eg, pesticide exposure) than subjects who have not experienced an adverse event.\n\nIn this case-control study, cases (ie, HNSCCs) may have a better recall of past pesticide exposures than controls (ie, no HNSCCs); this may cause differential misclassification bias when assessing exposure status.\n\n(Choice A) Confounding bias occurs when an extraneous variable distorts the relationship between an exposure and a disease, such as when the association between pesticide (exposure) and HNSCC (disease) varies by age (confounder). In this study, cases and controls were pair-matched by age and sex; for example, a 35-year-old woman with HNSCC (case) was matched with a 35-year-old woman without HNSCC (control). This matching removes differences in age and sex between groups in the analysis, making confounding by age (and sex) very unlikely.\n\n(Choice B) Healthy worker bias occurs in cohort studies of occupational exposures in an employed population when the comparison group is the general population. Compared to the employed population (ie, healthy enough to work), the general population can include unhealthy subjects (ie, not healthy enough to work); therefore, the mortality rate in the general population may be higher than in an employed population, and comparing mortality rates between these 2 cohorts is biased.\n\n(Choice D) Nonresponse bias occurs when respondents differ from nonrespondents in such meaningful ways that threaten the generalizability of study results. It most often occurs when data is collected by mailed surveys or questionnaires; in this study, patients were directly interviewed, making nonresponse bias less likely.\n\n(Choice E) The placebo effect occurs in randomized controlled trials and refers to patients' expectations affecting an outcome. In this case, the study is a case-control.",
+    "zh": "错误分类偏倚源于对受试者暴露状态、结局状态或两者均进行不正确的分类。\n\n*   非差异性错误分类反映组间的错误分类率相等，使它们看起来比实际更相似，并将关联推向零值（例如，优势比=1）（即，偏倚向零假设方向发展）\n*   差异性错误分类反映组间的错误分类率不相等，并且可以将关联推向或远离零值\n\n依赖于问卷调查或访谈来确定暴露状态的病例对照研究特别容易受到回忆偏倚形式的错误分类偏倚的影响。与未发生不良事件的受试者相比，经历过不良事件（例如，头颈部鳞状细胞癌 (HNSCC)）的受试者更有可能回忆起以前的潜在暴露（例如，农药暴露）。\n\n在这项病例对照研究中，病例（即，HNSCC）可能比对照组（即，无HNSCC）更好地回忆起过去的农药暴露；这可能导致在评估暴露状态时出现差异性错误分类偏倚。\n\n（选项 A）当一个无关变量扭曲了暴露与疾病之间的关系时，就会发生混杂偏倚，例如，农药（暴露）与 HNSCC（疾病）之间的关联因年龄（混杂因素）而异。在这项研究中，病例和对照组按年龄和性别进行配对；例如，一名患有 HNSCC（病例）的 35 岁女性与一名未患 HNSCC（对照）的 35 岁女性相匹配。这种匹配消除了分析中组之间在年龄和性别方面的差异，使得年龄（和性别）的混杂不太可能发生。\n\n（选项 B）健康工人效应发生在对职业暴露进行研究的队列研究中，其中比较组为一般人群。与就业人群（即，足够健康可以工作）相比，一般人群可能包括不健康的受试者（即，不够健康无法工作）；因此，一般人群的死亡率可能高于就业人群，并且比较这两个队列的死亡率会存在偏倚。\n\n（选项 D）当应答者在如此有意义的方面与未应答者不同，以至于威胁到研究结果的普遍性时，就会发生无应答偏倚。它最常发生在通过邮寄调查或问卷收集数据时；在这项研究中，患者接受了直接访谈，使得无应答偏倚不太可能发生。\n\n（选项 E）安慰剂效应发生在随机对照试验中，指的是患者的期望影响结果。在这种情况下，这项研究是一项病例对照研究。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of biases in epidemiological studies, specifically focusing on misclassification bias and its relevance to case-control studies. It requires understanding how recall bias can affect the accuracy of exposure assessment in case-control studies. \n\nThe key to solving this question is recognizing that case-control studies relying on interviews are susceptible to recall bias, which leads to misclassification bias. Identifying the study design and the method of exposure assessment helps pinpoint the most likely bias affecting the study's validity.",
+    "zh": "这道题测试了对流行病学研究中偏倚的了解，特别是侧重于错误分类偏倚及其与病例对照研究的相关性。它要求理解回忆偏倚如何影响病例对照研究中暴露评估的准确性。\n\n解决这道题的关键是认识到依赖访谈的病例对照研究容易受到回忆偏倚的影响，从而导致错误分类偏倚。确定研究设计和暴露评估方法有助于查明影响研究有效性的最有可能的偏倚。"
+  },
+  "tags": "Misclassification bias; Recall bias; Case-control study; Epidemiological studies; Bias; Research methodology; Head and neck squamous cell carcinoma",
+  "category": "Bio",
+  "question_id": "19732",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19732",
+  "extracted_at": "2025-11-05T11:14:25.843707",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:23:21.279950",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

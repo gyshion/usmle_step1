@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 3-month-old boy is brought to the emergency department due to 2 days of fever and irritation that progressed to lethargy. Temperature is 38.6 C (101.5 F). A lumbar puncture is performed, and the results of cerebrospinal fluid (CSF) analysis are as follows:\n\nGlucose 30 mg/dL\nProtein 180 mg/dL\nLeukocytes 1,000/mm^3\n\nGram-negative coccobacilli are isolated from the CSF. These organisms demonstrate little growth on 5% sheep blood agar but grow well when incubated on the same media alongside colonies of *Staphylococcus aureus*. Staphylococci promote the growth of these bacteria by supplementing which of the following substances?",
+    "zh": "一名 3 个月大的男孩因发烧 2 天并伴有烦躁不安，进而发展为嗜睡而被带到急诊科。体温为 38.6 摄氏度（101.5 华氏度）。进行了腰椎穿刺，脑脊液 (CSF) 分析结果如下：\n\n葡萄糖 30 mg/dL\n蛋白质 180 mg/dL\n白细胞 1,000/mm^3\n\n从脑脊液中分离出革兰氏阴性球杆菌。这些细菌在 5% 羊血琼脂上的生长很少，但在与金黄色葡萄球菌菌落一起在相同培养基上孵育时生长良好。葡萄球菌通过补充以下哪种物质来促进这些细菌的生长？"
+  },
+  "question": {
+    "en": "Staphylococci promote the growth of these bacteria by supplementing which of the following substances?",
+    "zh": "葡萄球菌通过补充以下哪种物质来促进这些细菌的生长？"
+  },
+  "options": {
+    "A": {
+      "en": "ATP",
+      "zh": "ATP"
+    },
+    "B": {
+      "en": "Catalase",
+      "zh": "过氧化氢酶"
+    },
+    "C": {
+      "en": "Iron",
+      "zh": "铁"
+    },
+    "D": {
+      "en": "Lactose",
+      "zh": "乳糖"
+    },
+    "E": {
+      "en": "NAD+",
+      "zh": "NAD+"
+    },
+    "F": {
+      "en": "Pyruvate",
+      "zh": "丙酮酸"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient likely has *Haemophilus influenzae* type b meningitis (which may occur in patients who are unvaccinated or immunocompromised). *Haemophilus* (from the Greek for blood-loving) requires both X factor (hematin) and V factor (NAD+) to support growth. Sheep blood agar does not allow *Haemophilus* growth due to insufficient nutrients and the V factor-inactivating enzymes in the medium.\n\nGrowth of *Haemophilus* species on sheep blood agar can be achieved by cross-streaking the medium with *Staphylococcus aureus*. *H. influenzae* colonies will grow around the streaks of β-hemolytic *S aureus* colonies because the latter actively secrete V factor (NAD+) into the medium and facilitate release of additional X factor (hematin) from β-hemolysis-induced erythrocyte lysis. This is known as the \"satellite\" phenomenon.\n\n(Choices A and F) Pyruvate is the end product of glycolysis and is a starting substrate for the synthesis of glucose, lactate, fatty acids, amino acids, and nucleic acids. Bacteria use pyruvate in the metabolism of sugars for energy in the form of ATP.\n\n(Choice B) Catalase is an enzyme present in staphylococci; the presence or absence of this enzyme is used to differentiate staphylococci from streptococci.\n\n(Choice C) Iron is an essential growth factor for many bacteria, and it is provided in all blood agars from the iron within erythrocytes.\n\n(Choice D) The use of lactose fermentation as a source of energy is best known in *Escherichia coli* with the well studied *lac* operon, an inducible and repressible genetic sequence coding for the enzymes necessary for lactose fermentation in the absence of glucose. It is activated by a sensed glucose deficit and repressed when glucose is available again.\n\nEducational objective:\n*Haemophilus influenzae* is a \"blood-loving\" organism that requires X (hematin) and V (NAD+) factors for growth. This can be accomplished by growing *H influenzae* in the presence of *Staphylococcus aureus* and demonstrating the \"satellite phenomenon,\" whereby *H influenzae* grow only near the β-hemolytic *S aureus* colonies that produce the needed X and V factors.",
+    "zh": "该患者可能患有 *流感嗜血杆菌* b 型脑膜炎（可能发生在未接种疫苗或免疫功能低下的患者中）。*嗜血杆菌*（源自希腊语，意为嗜血）需要 X 因子（血红素）和 V 因子（NAD+）来支持生长。由于营养不足和培养基中 V 因子失活酶的存在，羊血琼脂不允许 *嗜血杆菌* 生长。\n\n通过用 *金黄色葡萄球菌* 交叉划线培养基，可以实现 *嗜血杆菌* 属在羊血琼脂上的生长。 *流感嗜血杆菌* 菌落将在 β-溶血性 *金黄色葡萄球菌* 菌落的条纹周围生长，因为后者会主动将 V 因子（NAD+）分泌到培养基中，并促进从 β-溶血诱导的红细胞裂解中释放额外的 X 因子（血红素）。 这被称为“卫星”现象。\n\n（选项 A 和 F）丙酮酸是糖酵解的最终产物，是合成葡萄糖、乳酸、脂肪酸、氨基酸和核酸的起始底物。 细菌利用丙酮酸代谢糖，以 ATP 的形式产生能量。\n\n（选项 B）过氧化氢酶是葡萄球菌中存在的一种酶；该酶的存在与否用于区分葡萄球菌和链球菌。\n\n（选项 C）铁是许多细菌的重要生长因子，它由红细胞内的铁提供于所有血琼脂中。\n\n（选项 D）利用乳糖发酵作为能量来源在 *大肠杆菌* 中最为人所知，具有经过充分研究的 *lac* 操纵子，这是一个可诱导和可抑制的遗传序列，编码在葡萄糖不存在的情况下乳糖发酵所需的酶。 它由感应到的葡萄糖缺乏激活，并在葡萄糖再次可用时被抑制。\n\n教育目标：\n*流感嗜血杆菌* 是一种“嗜血”生物，生长需要 X（血红素）和 V（NAD+）因子。这可以通过在 *金黄色葡萄球菌* 存在下培养 *流感嗜血杆菌* 并证明“卫星现象”来实现，其中 *流感嗜血杆菌* 仅在产生所需 X 和 V 因子的 β-溶血性 *金黄色葡萄球菌* 菌落附近生长。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of bacterial growth requirements, specifically the satellite phenomenon observed with *Haemophilus influenzae* and *Staphylococcus aureus*. It assesses understanding of the X and V factors (hematin and NAD+) needed for *H. influenzae* growth and how *S. aureus* provides these factors. \n\nTo solve this question, recognize the gram-negative coccobacilli as likely *Haemophilus influenzae* in the context of meningitis. Recall that *H. influenzae* requires X and V factors for growth, and *Staphylococcus aureus* can provide these factors, leading to the satellite phenomenon.",
+    "zh": "此问题测试细菌生长需求方面的知识，特别是观察到的 *流感嗜血杆菌* 和 *金黄色葡萄球菌* 的卫星现象。它评估对 *流感嗜血杆菌* 生长所需的 X 和 V 因子（血红素和 NAD+）以及 *金黄色葡萄球菌* 如何提供这些因子的理解。\n\n为了解决这个问题，要认识到革兰氏阴性球杆菌在脑膜炎的背景下很可能是 *流感嗜血杆菌*。回想一下，*流感嗜血杆菌* 需要 X 和 V 因子才能生长，而 *金黄色葡萄球菌* 可以提供这些因子，从而导致卫星现象。"
+  },
+  "tags": "Haemophilus influenzae; Staphylococcus aureus; Meningitis; Satellite phenomenon; NAD+; Hematopoiesis; Bacterial growth requirements; Infectious diseases; Microbiology",
+  "category": "Micro",
+  "question_id": "963",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\963",
+  "extracted_at": "2025-11-05T15:06:46.877944",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:13:54.782648",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

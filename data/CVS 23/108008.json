@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 56-year-old man is brought to the emergency department due to sudden-onset, severe chest pain. Blood pressure is 88/56 mm Hg and pulse is 83/min. On physical examination, the patient is in moderate distress. The jugular veins are distended. No murmurs or extra heart sounds are heard on cardiac auscultation. The lungs are clear to auscultation. ECG shows evidence of an ST-segment elevation myocardial infarction. Bedside echocardiography reveals contractile dysfunction of a large portion of the right ventricle and normal function of the entire left ventricle consistent with myocardial infarction involving only the right ventricle. Percutaneous coronary intervention with coronary angiography is performed and shows thrombotic occlusion affecting one of the major coronary arteries. No other significant atherosclerotic lesions are identified. Which of the following most likely explains the findings in this patient? {{exhibit_1}}",
+    "zh": "一名56岁男性因突发性严重胸痛被送往急诊科。血压为88/56 mmHg，脉搏为83次/分。体格检查显示患者处于中度痛苦状态。颈静脉扩张。心脏听诊未闻及杂音或额外心音。肺部听诊清。心电图显示ST段抬高型心肌梗死。床旁超声心动图显示右心室大面积收缩功能障碍，左心室整体功能正常，这与仅涉及右心室的心肌梗死相符。进行经皮冠状动脉介入治疗并进行冠状动脉造影，显示血栓性闭塞影响一条主要冠状动脉。未发现其他明显的动脉粥样硬化病变。以下哪项最有可能解释该患者的发现？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following most likely explains the findings in this patient?",
+    "zh": "以下哪项最有可能解释该患者的发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Left anterior descending Left dominant",
+      "zh": "左前降支 左优势"
+    },
+    "B": {
+      "en": "Left anterior descending Right dominant",
+      "zh": "左前降支 右优势"
+    },
+    "C": {
+      "en": "Left circumflex Left dominant",
+      "zh": "左旋支 左优势"
+    },
+    "D": {
+      "en": "Left circumflex Right dominant",
+      "zh": "左旋支 右优势"
+    },
+    "E": {
+      "en": "Right coronary Left dominant",
+      "zh": "右冠状动脉 左优势"
+    },
+    "F": {
+      "en": "Right coronary Right dominant",
+      "zh": "右冠状动脉 右优势"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The coronary circulation is composed of 3 major epicardial vessels.\n\n*   The left anterior descending artery (LAD) arises from the left main artery and courses down the anterior heart, supplying the anterior left ventricular (LV) wall and septum.\n*   The left circumflex artery (LCx) arises from the left main artery and courses around the left side of the heart to supply the lateral LV wall. Occasionally, the LCx extends all the way around the heart to supply the inferior LV wall (left-dominance).\n*   The right coronary artery (RCA) comes directly off the aorta and courses around the right side of the heart to supply the right ventricle (RV). In most patients, the RCA extends past the RV to also supply the inferior LV wall (right-dominance).\n\nBlood supply to the inferior LV wall depends on coronary artery dominance. Right coronary dominance is present in approximately 85% of patients and involves the RCA coursing past the RV to give off the posterior descending artery (PDA) and supply the inferior LV wall. Left coronary dominance is present in approximately 10% of patients and involves the LCx extending around the left side of the heart to give off the PDA and supply the inferior LV wall. Approximately 5% of patients have codominant circulation.\n\nIn virtually all patients, the RV is fully supplied by the RCA, and in patients with left-dominant circulation, none of the inferior LV wall is supplied by the RCA. Therefore, ISOLATED RV myocardial infarction (MI) can occur due to RCA occlusion in a patient with left-dominant circulation. Given the low prevalence of left-dominant circulation, isolated RV MI is an uncommon event (approximately 3% of MIs).\n\n(Choices A, B, C, and D) The LAD and LCx do not supply the RV and are not involved in RV MI.\n\n(Choice F) With right-dominant circulation, the RCA supplies the inferior LV wall. Therefore, RCA occlusion would cause MI involving the RV and the inferior LV wall, or the inferior LV wall alone if the occlusion is distal to the RV. {{exhibit_2}}",
+    "zh": "冠状循环由3条主要的、心外膜血管组成。\n\n*   左前降支 (LAD) 起自左主干动脉，向下走行于心脏前部，供应前室壁和室间隔。\n*   左旋支 (LCx) 起自左主干动脉，走行于心脏左侧，供应左室侧壁。有时，LCx 会一直延伸到心脏周围，供应左室下壁（左优势）。\n*   右冠状动脉 (RCA) 直接起自主动脉，走行于心脏右侧，供应右心室 (RV)。在大多数患者中，RCA 会延伸到 RV 后方，也供应左室下壁（右优势）。\n\n左室下壁的血液供应取决于冠状动脉优势。右冠状动脉优势存在于大约85%的患者中，涉及RCA经过RV后发出后降支 (PDA) 并供应左室下壁。左冠状动脉优势存在于大约10%的患者中，涉及LCx环绕心脏左侧发出PDA并供应左室下壁。大约5%的患者具有共优势循环。\n\n几乎在所有患者中，RV完全由RCA供应，而在左优势循环的患者中，左室下壁没有任何部分由RCA供应。因此，由于RCA闭塞，在左优势循环的患者中可能发生孤立的RV心肌梗死 (MI)。鉴于左优势循环的低患病率，孤立的RV MI是一种不常见的事件（大约3%的MI）。\n\n（选项 A、B、C 和 D）LAD和LCx不供应RV，且不参与RV MI。\n\n（选项 F）对于右优势循环，RCA供应左室下壁。因此，RCA闭塞会导致MI涉及RV和左室下壁，或者如果闭塞位于RV远端，则仅涉及左室下壁。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of coronary artery anatomy, coronary dominance, and the blood supply to the right ventricle and inferior left ventricle. It also assesses the ability to correlate coronary artery occlusion with myocardial infarction location based on coronary dominance.\n\nTo solve this question, understand that the right ventricle is primarily supplied by the right coronary artery. In left-dominant circulation, the right coronary artery supplies only the right ventricle, so occlusion of the right coronary artery can lead to isolated right ventricular infarction.",
+    "zh": "这个问题测试了对冠状动脉解剖、冠状动脉优势以及右心室和左心室下壁的血液供应的知识。它还评估了根据冠状动脉优势将冠状动脉闭塞与心肌梗死位置相关联的能力。\n\n要解决这个问题，需要了解右心室主要由右冠状动脉供应。在左优势循环中，右冠状动脉仅供应右心室，因此右冠状动脉的闭塞可导致孤立的右心室梗死。"
+  },
+  "tags": "Coronary artery anatomy; Coronary dominance; Right ventricular infarction; Myocardial infarction; Cardiology; ECG; Percutaneous coronary intervention",
+  "category": "CVS",
+  "question_id": "108008",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\108008",
+  "extracted_at": "2025-11-05T11:49:56.801206",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:43:41.667704",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

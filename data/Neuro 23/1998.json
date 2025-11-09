@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old farmer is brought to the emergency department after his daughter found him confused and disoriented in the tool shed at home. He has been otherwise healthy and does not take any medications. On physical examination, blood pressure is 110/70 mm Hg and pulse is 50/min. The patient's pupils are symmetric, 2 mm, and reactive to light. His eyes are tearing considerably. There are scattered wheezes bilaterally on lung auscultation. The patient's skin is clammy and he is sweating profusely. Impairment of which of the following steps at the neuromuscular junction is most likely responsible for his presentation? {{exhibit_1}}",
+    "zh": "一名55岁的农民被带到急诊科，他的女儿在家中工具棚里发现他意识模糊、定向力障碍。他之前一直很健康，并且不服用任何药物。体格检查显示，血压为110/70 mmHg，脉搏为50次/分。患者的瞳孔对称，直径2 mm，对光反射。他的眼睛明显流泪。肺部听诊双侧可闻及散在的喘息音。患者皮肤湿冷，出汗严重。神经肌肉接头处以下哪个步骤的损伤最有可能导致他的表现？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Impairment of which of the following steps at the neuromuscular junction is most likely responsible for his presentation?",
+    "zh": "神经肌肉接头处以下哪个步骤的损伤最有可能导致他的表现？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    },
+    "F": {
+      "en": "F",
+      "zh": "F"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's confusion, miosis and lacrimation, bradycardia, diaphoresis, and bronchospasm (bilateral wheezes) indicate a state of global muscarinic CHOLINERGIC OVERSTIMULATION. This can be the result of a pharmacologic cholinomimetic (eg, carbachol, methacholine) or CHOLINESTERASE INHIBITOR (blocks breakdown of endogenous acetylcholine).\n\nOrganophosphates ARE cholinersterase inhibitors that are widely used as pesticides in agriculture. They are lipid soluble; rapidly absorbed via oral, cutaneous, and inhalational routes of exposure; and readily penetrate the blood brain barrier. Organophosphates are IRREVERSIBLE cholinesterase inhibitors; they elicit cholinergic stimulation that lasts until new cholinesterase enzymes are synthesized. Organophosphate poisoning is treated with muscarinic antagonists (eg, atropine) and pralidoxime (PAM), a drug that reactivates acetylcholine by binding organophosphates and decoupling them from the enzyme. {{exhibit_2}}\n\n(Choices A, B, and C) Blockade of neuronal choline uptake and inhibition of choline acetyltransferase would diminish acetylcholine synthesis. Blockade of acetylcholine uptake into axoplasmic vesicles would reduce acetylcholine release from presynaptic neurons. A decrease in acetylcholine synthesis or release would have effects opposite those observed in this patient.\n\n(Choice D) Botulinum toxin inhibits acetylcholine release from presynaptic neurons. Botulinum toxicity (botulism) causes descending skeletal muscle paralysis, typically beginning with the cranial nerves.\n\n(Choice F) Atropine is an anticholinergic agent used pharmacologically to block post-junctional acetylcholine receptors and is the antidote for organophosphate poisoning.",
+    "zh": "该患者的意识模糊、缩瞳和流泪、心动过缓、出汗和支气管痉挛（双侧哮鸣音）表明存在全身性毒蕈碱型胆碱能过度刺激。这可能是由于药理学胆碱激动剂（如卡巴胆碱、美沙胆碱）或胆碱酯酶抑制剂（阻断内源性乙酰胆碱的分解）所致。\n\n有机磷酸盐是胆碱酯酶抑制剂，广泛用作农业杀虫剂。它们是脂溶性的；通过口服、皮肤和吸入途径迅速吸收；并且容易穿过血脑屏障。有机磷酸盐是不可逆的胆碱酯酶抑制剂；它们引起胆碱能刺激，持续存在直到新的胆碱酯酶合成。有机磷酸盐中毒的治疗方法是使用毒蕈碱受体拮抗剂（如阿托品）和氯解磷定（PAM），一种通过与有机磷酸盐结合并使其与酶解偶联来重新激活乙酰胆碱的药物。{{exhibit_2}}\n\n（选项 A、B 和 C）阻断神经元胆碱的摄取和抑制胆碱乙酰转移酶会减少乙酰胆碱的合成。阻断乙酰胆碱进入轴浆囊泡会减少乙酰胆碱从突触前神经元的释放。乙酰胆碱合成或释放的减少会产生与该患者观察到的相反的影响。\n\n（选项 D）肉毒杆菌毒素抑制乙酰胆碱从突触前神经元的释放。肉毒杆菌毒素中毒（肉毒中毒）会导致下降性骨骼肌麻痹，通常从颅神经开始。\n\n（选项 F）阿托品是一种抗胆碱能药物，用于药理学上阻断突触后乙酰胆碱受体，是治疗有机磷酸盐中毒的解毒剂。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of organophosphate poisoning and its effects on the neuromuscular junction, specifically the mechanism of cholinesterase inhibition leading to acetylcholine excess. It also tests the understanding of the clinical presentation of cholinergic overstimulation.\n\nTo solve this question, recognize the symptoms of cholinergic excess (miosis, lacrimation, bradycardia, diaphoresis, bronchospasm) and associate them with organophosphate poisoning. Then, understand that organophosphates inhibit cholinesterase, leading to increased acetylcholine levels at the neuromuscular junction.",
+    "zh": "此题考察对有机磷酸盐中毒及其对神经肌肉接头的影响的了解，特别是胆碱酯酶抑制导致乙酰胆碱过量的机制。它还考察对胆碱能过度刺激的临床表现的理解。\n\n要解决这个问题，需要识别胆碱能过量的症状（缩瞳、流泪、心动过缓、出汗、支气管痉挛），并将它们与有机磷酸盐中毒联系起来。然后，了解有机磷酸盐抑制胆碱酯酶，导致神经肌肉接头处的乙酰胆碱水平升高。"
+  },
+  "tags": "Organophosphate poisoning; Cholinergic crisis; Neuromuscular junction; Cholinesterase inhibitors; Miosis; Lacrimation; Bradycardia; Diaphoresis; Bronchospasm; Toxicology",
+  "category": "Neuro",
+  "question_id": "1998",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1998",
+  "extracted_at": "2025-11-05T15:31:31.904995",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:24:09.015928",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

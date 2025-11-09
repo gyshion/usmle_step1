@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 64-year-old man comes to the emergency department due to worsening left lower extremity pain, swelling, and redness over the past 3 days. The patient has had no trauma but reports feeling feverish. Medical history is significant for hypertension and obesity. Temperature is 38 C (100.4 F), blood pressure is 130/86 mm Hg, pulse is 92/min, and respirations are 18/min. BMI is 35 kg/m². Physical examination shows diffuse erythema extending up to the left midcalf with indistinct border. There is increased warmth, tenderness, and edema of the left leg. No areas of fluctuation or purulent exudate are present, but the interdigital skin of the feet is macerated and fissured. Laboratory testing shows neutrophilic leukocytosis, and Doppler ultrasonography is negative for deep venous thrombosis. Infection with which of the following organisms is most likely responsible for this patient's current symptoms? {{exhibit_1}}",
+    "zh": "一名64岁男性因左下肢疼痛、肿胀和发红在过去3天内加重而来到急诊科就诊。患者没有外伤史，但自诉感觉发烧。病史提示高血压和肥胖。体温38°C（100.4°F），血压130/86 mmHg，脉搏92次/分，呼吸18次/分。BMI为35 kg/m²。体格检查显示弥漫性红斑延伸至左小腿中部，边界不清。左腿有发热、压痛和水肿加重。没有波动或化脓性渗出，但足部趾间皮肤浸渍和皲裂。实验室检查显示中性粒细胞性白细胞增多，多普勒超声检查提示无深静脉血栓形成。以下哪种病原体感染最有可能导致该患者目前的症状？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Infection with which of the following organisms is most likely responsible for this patient's current symptoms?",
+    "zh": "以下哪种病原体感染最有可能导致该患者目前的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Beta-hemolytic streptococci",
+      "zh": "β-溶血性链球菌"
+    },
+    "B": {
+      "en": "Candida albicans",
+      "zh": "白色念珠菌"
+    },
+    "C": {
+      "en": "Clostridium perfringens",
+      "zh": "产气荚膜梭菌"
+    },
+    "D": {
+      "en": "Mycobacterium marinum",
+      "zh": "海分枝杆菌"
+    },
+    "E": {
+      "en": "Pseudomonas aeruginosa",
+      "zh": "铜绿假单胞菌"
+    },
+    "F": {
+      "en": "Staphylococcus epidermidis",
+      "zh": "表皮葡萄球菌"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Cellulitis is an acute bacterial infection of the skin and subcutaneous tissues characterized by progressive skin erythema, warmth, and tenderness. Many patients also have associated fever, leukocytosis, and localized lymphadenopathy. Most cases are driven by disruptions to the skin barrier due to minor trauma, lymphedema, or dermatophytic infection, which allow a portal of entry for bacteria.\n\nCases of cellulitis are generally divided as follows:\n\n*   **Nonpurulent cellulitis** is characterized by skin warmth, edema, and erythema with **no fluctuant nodules**. It is most often caused by **beta-hemolytic streptococci** (groups A, B, C, G, and F); group A streptococcus (*Streptococcus pyogenes*) accounts for the majority of cases.\n*   **Purulent cellulitis** is characterized by a painful, fluctuant nodule in the dermis or subcutaneous tissue with or without surrounding erythema. The most common cause is *Staphylococcus aureus*; strains that express the virulence factor Panton-Valentine leukocidin are particularly likely to cause skin abscess.\n\n(Choice B) *Candida albicans* is a skin commensal that can cause inflammatory, moist, weeping, erythematous lesions in skin folds. It is not a common cause of acute, spreading cellulitis.\n\n(Choice C) *Clostridium perfringens* causes gas gangrene after traumatic injury (eg, knife wound, surgery) to the skin and soft tissue. It is usually characterized by sudden-onset severe pain, bullous skin lesions, and signs of systemic toxicity/sepsis.\n\n(Choice D) *Mycobacterium marinum* skin infection is usually associated with saltwater exposure and is generally characterized by solitary papules that ulcerate and scar.\n\n(Choice E) *Pseudomonas aeruginosa* skin infections are most common in those who have had exposure to a hot tub (\"hot tub folliculitis\") or in patients with diabetes mellitus (eg, diabetic foot infection). It is a much less common cause of cellulitis than beta-hemolytic streptococci.\n\n(Choice F) *Staphylococcus epidermidis* is a low-virulence skin commensal that rarely causes cellulitis. However, it may occasionally cause bacteremia in patients with intravenous catheters.",
+    "zh": "蜂窝织炎是皮肤和皮下组织的急性细菌感染，其特征是进行性皮肤红斑、发热和压痛。许多患者还伴有发烧、白细胞增多和局部淋巴结病。大多数病例是由皮肤屏障受损引起的，这可能由于轻微外伤、淋巴水肿或皮肤真菌感染所致，这些情况为细菌提供了进入的途径。\n\n蜂窝织炎的病例通常分为以下几类：\n\n*   **非化脓性蜂窝织炎**的特征是皮肤发热、水肿和红斑，**没有波动性结节**。它最常由**β-溶血性链球菌**（A、B、C、G和F组）引起；A组链球菌（*化脓性链球菌*）占大多数病例。\n*   **化脓性蜂窝织炎**的特征是在真皮或皮下组织中出现疼痛性、波动性结节，伴或不伴有周围红斑。最常见的原因是*金黄色葡萄球菌*；表达毒力因子Panton-Valentine白细胞杀素的菌株特别可能引起皮肤脓肿。\n\n（选项B） *白色念珠菌*是一种皮肤共生菌，可在皮肤褶皱处引起炎症性、潮湿、渗出性红斑性病变。它不是急性、蔓延性蜂窝织炎的常见原因。\n\n（选项C） *产气荚膜梭菌*在皮肤和软组织受到外伤（如刀伤、手术）后引起气性坏疽。其通常的特征是突然发作的剧烈疼痛、大疱性皮肤病变以及全身毒性/败血症的体征。\n\n（选项D） *海分枝杆菌*皮肤感染通常与接触海水有关，一般特征是孤立的丘疹，形成溃疡和瘢痕。\n\n（选项E） *铜绿假单胞菌*皮肤感染在那些接触过热水浴缸（“热水浴缸毛囊炎”）或患有糖尿病的患者（如糖尿病足部感染）中最常见。它比β-溶血性链球菌更少见地引起蜂窝织炎。\n\n（选项F） *表皮葡萄球菌*是一种低毒力皮肤共生菌，很少引起蜂窝织炎。然而，它有时可能在静脉导管置入的患者中引起菌血症。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the common causes of cellulitis, differentiating between purulent and nonpurulent infections. It emphasizes the importance of recognizing clinical features to identify the most likely causative organism. \n\nTo solve this question, focus on the absence of purulent exudate and the presence of macerated interdigital skin. This points towards nonpurulent cellulitis, which is most commonly caused by beta-hemolytic streptococci, particularly group A streptococcus.",
+    "zh": "本题考察对蜂窝织炎常见病因的了解，区分化脓性和非化脓性感染。它强调了识别临床特征以确定最可能的病原体的重要性。\n\n要解决这个问题，重点关注没有化脓性渗出物以及存在浸渍的趾间皮肤。这指向非化脓性蜂窝织炎，其最常见的原因是β-溶血性链球菌，特别是A组链球菌。"
+  },
+  "tags": "Cellulitis; Beta-hemolytic streptococci; Streptococcus pyogenes; Skin infection; Nonpurulent cellulitis; Infectious disease; Dermatology",
+  "category": "Derma",
+  "question_id": "15339",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\15339",
+  "extracted_at": "2025-11-05T12:21:17.315657",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:33:50.318159",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

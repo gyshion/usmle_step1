@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A neonate is found to have increased TSH and low thyroxine (T4) on routine screening. He was born by vaginal delivery to a 32-year-old woman at 39 weeks gestation. Apgar scores were 8 and 9 at 1 and 5 minutes, respectively. Physical examination reveals an enlarged thyroid gland in the normal position. Neck ultrasound confirms thyroid enlargement {{exhibit_1}}. Which of the following is the most likely cause of this patient's findings?",
+    "zh": "一名新生儿在常规筛查中被发现促甲状腺激素 (TSH) 升高，甲状腺素 (T4) 偏低。该新生儿经阴道分娩，其母亲为一名32岁的女性，孕39周。出生后1分钟和5分钟时的Apgar评分分别为8分和9分。体格检查显示甲状腺肿大，位置正常。颈部超声检查证实甲状腺肿大{{exhibit_1}}。以下哪项最可能是该患者检查结果的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's findings?",
+    "zh": "以下哪项最可能是该患者检查结果的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Maternal intake of levothyroxine",
+      "zh": "母亲摄入左甲状腺素"
+    },
+    "B": {
+      "en": "Maternal intake of propranolol",
+      "zh": "母亲摄入普萘洛尔"
+    },
+    "C": {
+      "en": "Maternal intake of propylthiouracil",
+      "zh": "母亲摄入丙硫氧嘧啶"
+    },
+    "D": {
+      "en": "Transplacental passage of thyroglobulin",
+      "zh": "甲状腺球蛋白经胎盘转移"
+    },
+    "E": {
+      "en": "Transplacental passage of TSH receptor–stimulating antibodies",
+      "zh": "促甲状腺激素受体刺激抗体经胎盘转移"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This neonate has a goiter, or an enlarged thyroid gland, which is typically due to thyroid hormone dysregulation. The most commonly associated imbalance is hypothyroidism, as seen in this patient with elevated TSH and decreased thyroxine (T4). \n\nOne cause of neonatal hypothyroidism with a goiter is the transplacental passage of maternal antithyroid medications (eg, propylthiouracil, methimazole). Propylthiouracil is used to treat maternal hyperthyroidism (eg, Graves disease) because it inhibits thyroid peroxidase, thereby limiting oxidation and incorporation of iodine into thyroid hormones; this medication also decreases conversion of peripheral T4 to triiodothyronine (T3).\n\nPropylthiouracil crosses the placenta, inhibiting production of T4. Positive feedback caused by low T4 leads to increased TSH, which stimulates the thyroid and causes diffuse gland enlargement. TSH and T4 levels typically normalize after 1–2 weeks due to excretion of the maternally derived antithyroid medication. After elimination of propylthiouracil, neonates with mothers who have Graves disease may then develop transient hyperthyroidism (↓ TSH, ↑ T4) due to transplacental transfer of TSH receptor–stimulating antibodies (Choice E), which can persist in the neonatal circulation for up to 3 months. {{exhibit_2}}\n\n(Choice A) Levothyroxine (synthetic T4), like other thyroid hormones, does not readily cross the placenta. In addition, this medication treats, not causes, hypothyroidism.\n\n(Choice B) Beta blockers (eg, propranolol) treat symptoms of hyperthyroidism attributable to increased beta-adrenergic activity (eg, palpitations, tachycardia). Although propranolol also decreases conversion of T4 to T3, this inhibitory effect is not strong enough to cause overt hypothyroidism and goiter at normal doses.\n\n(Choice D) Thyroglobulin is a protein produced by the thyroid follicular cells and is involved in the storage and production of thyroid hormones. Thyroglobulin does not cross the placenta or cause hypothyroidism.\n\nEducational objective:\nCongenital goiter in the setting of hypothyroidism (ie, ↑ TSH, ↓ thyroxine) can be caused by transplacental passage of maternal antithyroid medications (eg, propylthiouracil), which inhibit thyroid peroxidase and are used to treat maternal hyperthyroidism.",
+    "zh": "这名新生儿患有甲状腺肿，即甲状腺肿大，通常是由于甲状腺激素失调所致。最常见的相关失衡是甲状腺功能减退，如该患者所示，TSH升高，甲状腺素（T4）降低。\n\n新生儿甲状腺功能减退伴甲状腺肿的一个病因是母体抗甲状腺药物的经胎盘转移（例如，丙硫氧嘧啶，甲巯咪唑）。丙硫氧嘧啶用于治疗母亲的甲状腺功能亢进（例如，格雷夫斯病），因为它抑制甲状腺过氧化物酶，从而限制碘的氧化和掺入甲状腺激素；该药物还降低外周T4向三碘甲状腺原氨酸（T3）的转化。\n\n丙硫氧嘧啶穿过胎盘，抑制T4的产生。由低T4引起的正反馈导致TSH升高，这会刺激甲状腺并导致弥漫性腺体增大。TSH和T4水平通常在1-2周后恢复正常，这归因于母体来源的抗甲状腺药物的排泄。在丙硫氧嘧啶消除后，患有格雷夫斯病母亲的新生儿随后可能由于促甲状腺激素受体刺激性抗体的经胎盘转移（选项E）而出现短暂的甲状腺功能亢进（↓TSH，↑T4），这种抗体可在新生儿循环中持续长达3个月。{{exhibit_2}}\n\n（选项A）左甲状腺素（合成T4）与其他甲状腺激素一样，不易穿过胎盘。此外，这种药物治疗而非导致甲状腺功能减退。\n\n（选项B）β受体阻滞剂（例如，普萘洛尔）治疗归因于β肾上腺素能活性增加的甲状腺功能亢进的症状（例如，心悸，心动过速）。虽然普萘洛尔也会降低T4向T3的转化，但这种抑制作用不足以导致在正常剂量下出现明显的甲状腺功能减退和甲状腺肿。\n\n（选项D）甲状腺球蛋白是由甲状腺滤泡细胞产生的一种蛋白质，参与甲状腺激素的储存和产生。甲状腺球蛋白不会穿过胎盘或导致甲状腺功能减退。\n\n教育目标：\n甲状腺功能减退（即，↑TSH，↓甲状腺素）情况下的先天性甲状腺肿可由母体抗甲状腺药物（例如，丙硫氧嘧啶）的经胎盘转移引起，这些药物抑制甲状腺过氧化物酶，用于治疗母体甲状腺功能亢进。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the causes of congenital goiter, specifically focusing on the impact of maternal medications on neonatal thyroid function. It requires understanding of how antithyroid drugs like propylthiouracil can cross the placenta and induce hypothyroidism in the neonate.\n\nTo solve this question, consider the maternal history and the neonate's thyroid hormone levels. Recognize that maternal intake of antithyroid medications can lead to neonatal hypothyroidism and goiter due to the drug's ability to cross the placenta and inhibit thyroid hormone synthesis.",
+    "zh": "这道题考察了对先天性甲状腺肿病因的了解，特别是侧重于母体用药对新生儿甲状腺功能的影响。这需要理解像丙硫氧嘧啶这样的抗甲状腺药物如何穿过胎盘并在新生儿中引起甲状腺功能减退。\n\n要解决这个问题，请考虑母亲的病史和新生儿的甲状腺激素水平。认识到母亲摄入抗甲状腺药物可能由于药物穿过胎盘并抑制甲状腺激素合成而导致新生儿甲状腺功能减退和甲状腺肿。"
+  },
+  "tags": "Congenital goiter; Hypothyroidism; Propylthiouracil; Maternal medication; Neonatal thyroid function; Endocrinology; Pediatrics; Thyroid disease; Transplacental transfer",
+  "category": "Endo",
+  "question_id": "19754",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\19754",
+  "extracted_at": "2025-11-05T14:05:24.079574",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:39:52.807231",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

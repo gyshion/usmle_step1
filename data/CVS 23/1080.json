@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 68-year-old man comes to the office due to thigh and leg pain that worsens with exertion. He is unable to walk through the local mall with his wife without discomfort. Past medical history is significant for hypertension and diabetes mellitus. The patient smokes 2 packs of cigarettes a day and consumes alcohol occasionally. Physical examination of the extremities shows weak dorsalis pedis pulses in both feet. Further evaluation confirms moderate peripheral arterial disease involving both lower extremities.",
+    "zh": "一名68岁男性因大腿和腿部疼痛就诊，活动后症状加重。他无法与妻子一起舒适地走过当地购物中心。既往病史包括高血压和糖尿病。患者每天吸烟2包，偶尔饮酒。四肢体格检查显示双足足背动脉搏动减弱。进一步评估证实存在累及双下肢的中度外周动脉疾病。"
+  },
+  "question": {
+    "en": "Which of the following drugs would best provide symptomatic improvement due to direct dilation of arteries and inhibition of platelet aggregation?",
+    "zh": "下列哪种药物最能通过直接扩张动脉和抑制血小板聚集来最好地改善症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Abciximab",
+      "zh": "阿昔单抗"
+    },
+    "B": {
+      "en": "Argatroban",
+      "zh": "阿加曲班"
+    },
+    "C": {
+      "en": "Aspirin",
+      "zh": "阿司匹林"
+    },
+    "D": {
+      "en": "Cilostazol",
+      "zh": "西洛他唑"
+    },
+    "E": {
+      "en": "Heparin",
+      "zh": "肝素"
+    },
+    "F": {
+      "en": "Tissue plasminogen activator",
+      "zh": "组织型纤溶酶原激活剂"
+    },
+    "G": {
+      "en": "Warfarin",
+      "zh": "华法林"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Several molecules, including thrombin, adenosine diphosphate, and thromboxane A2, activate platelets by acting on cell surface receptors. However, interference with post-receptor signaling can alter platelet function. In particular, cyclic adenosine monophosphate (cAMP) activates a family of enzymes known as the cAMP-dependent protein kinases, or protein kinase A, and leads to inhibition of platelet aggregation. Agents that increase intra-platelet cAMP levels decrease platelet aggregation by preventing platelet shape change and granule release.\n\nCilostazol reduces platelet activation by inhibiting platelet phosphodiesterase, the enzyme responsible for the breakdown of cAMP. It is also a direct arterial vasodilator. The net effect is a decrease in claudication symptoms and an increase in pain-free walking distances in patients with peripheral arterial disease (PAD). Patients with PAD should be initiated on a graded exercise program, which has also been shown to improve symptoms.\n\n(Choices A, E, and F) Abciximab is a monoclonal antibody that inhibits platelet aggregation by targeting the platelet IIb/IIIa receptor. Heparin is an anticoagulant that potentiates antithrombin III, resulting in the inactivation of thrombin and other factors. Tissue plasminogen activator (alteplase) converts plasminogen to plasmin and causes fibrinolysis. These agents are used in the acute management of cardiovascular events but are not useful for long-term management.\n\n(Choice B) Argatroban is a direct thrombin inhibitor primarily used in the treatment of heparin-induced thrombocytopenia.\n\n(Choice C) Aspirin is an irreversible cyclooxygenase 1 & 2 inhibitor that has been shown to reduce the risk of cardiovascular events in high-risk patients. Patients with clinically significant PAD should take antiplatelet agents (aspirin or clopidogrel) to reduce the risk of cardiovascular events (secondary prevention), but antiplatelet agents do not improve PAD symptoms.\n\n(Choice G) Warfarin is an oral anticoagulant that is a competitive inhibitor of vitamin K epoxide reductase and reduces production of vitamin K-dependent coagulation factors (II, VII, IX, X, protein C, protein S). It is used in the long-term treatment and prevention of thromboembolic events but does not reduce claudication in symptomatic PAD.\n\nEducational objective:\nSymptomatic management of peripheral artery disease (PAD) includes a graded exercise program and cilostazol. Cilostazol is a phosphodiesterase inhibitor that inhibits platelet aggregation and acts as a direct arterial vasodilator. Patients with PAD should also receive an antiplatelet agent (aspirin or clopidogrel) for secondary prevention of coronary heart disease and stroke.",
+    "zh": "包括凝血酶、二磷酸腺苷和血栓素A2在内的几种分子通过作用于细胞表面受体来激活血小板。然而，干扰受体后信号传导可以改变血小板功能。特别是，环磷酸腺苷（cAMP）激活一组酶，称为cAMP依赖性蛋白激酶，或蛋白激酶A，并导致血小板聚集的抑制。增加血小板内cAMP水平的药物通过阻止血小板形态改变和颗粒释放来减少血小板聚集。\n\n西洛他唑通过抑制血小板磷酸二酯酶来减少血小板激活，该酶负责分解cAMP。它也是一种直接的动脉血管扩张剂。净效应是减少间歇性跛行症状，并增加外周动脉疾病（PAD）患者的无痛步行距离。PAD患者应开始分级运动计划，该计划也被证明可以改善症状。\n\n（选项A、E和F）阿昔单抗是一种单克隆抗体，通过靶向血小板IIb/IIIa受体来抑制血小板聚集。肝素是一种抗凝剂，可增强抗凝血酶III，导致凝血酶和其他因子的失活。组织型纤溶酶原激活剂（阿替普酶）将纤溶酶原转化为纤溶酶，引起纤维蛋白溶解。这些药物用于心血管事件的急性处理，但对长期管理无用。\n\n（选项B）阿加曲班是一种直接的凝血酶抑制剂，主要用于治疗肝素诱导的血小板减少症。\n\n（选项C）阿司匹林是一种不可逆的环氧合酶1和2抑制剂，已被证明可降低高危患者的心血管事件风险。患有临床显着PAD的患者应服用抗血小板药物（阿司匹林或氯吡格雷）以降低心血管事件的风险（二级预防），但抗血小板药物不能改善PAD症状。\n\n（选项G）华法林是一种口服抗凝剂，是维生素K环氧化物还原酶的竞争性抑制剂，可减少维生素K依赖性凝血因子（II、VII、IX、X、蛋白C、蛋白S）的产生。它用于血栓栓塞事件的长期治疗和预防，但不能减轻有症状PAD患者的间歇性跛行。\n\n教育目标：\n外周动脉疾病（PAD）的对症治疗包括分级运动计划和西洛他唑。西洛他唑是一种磷酸二酯酶抑制剂，可抑制血小板聚集，并作为直接的动脉血管扩张剂。PAD患者还应接受抗血小板药物（阿司匹林或氯吡格雷）用于冠心病和中风的二级预防。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of peripheral artery disease (PAD) and the mechanism of action of cilostazol in improving claudication symptoms. It also requires differentiating cilostazol from other antiplatelet and anticoagulant medications.\n\nTo solve this question, recognize the patient's symptoms as claudication due to PAD. Then, identify the medication that acts as both a vasodilator and platelet inhibitor, which is cilostazol. Eliminate other options based on their primary mechanisms of action.",
+    "zh": "此题考察对外周动脉疾病（PAD）的知识以及西洛他唑改善间歇性跛行症状的作用机制。它还需要将西洛他唑与其他抗血小板和抗凝药物区分开来。\n\n要解决这个问题，需要认识到患者的症状是由于PAD引起的间歇性跛行。然后，确定同时具有血管扩张剂和血小板抑制剂作用的药物，即西洛他唑。根据其他选项的主要作用机制排除。"
+  },
+  "tags": "Peripheral artery disease; Claudication; Cilostazol; Platelet aggregation; Vasodilation; Phosphodiesterase inhibitors; Cardiovascular disease; Antiplatelet agents; Anticoagulants",
+  "category": "CVS",
+  "question_id": "1080",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1080",
+  "extracted_at": "2025-11-05T11:49:57.017854",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:43:44.022992",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

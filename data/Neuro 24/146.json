@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 30-year-old man comes to the emergency department with sudden onset of severe headache and confusion. He has a history of autosomal dominant polycystic kidney disease. Neurological examination shows no meningeal signs or focal neurological deficits. CT scan of the head reveals blood in the subarachnoid space. The patient is admitted to the critical care unit for further management. On the fifth day after admission, he experiences new-onset weakness in the right arm and leg.",
+    "zh": "一名30岁男性因突发严重头痛和意识模糊来到急诊科。 他有常染色体显性遗传性多囊肾病病史。神经系统检查未见脑膜刺激征或局灶性神经功能缺损。 头颅CT扫描显示蛛网膜下腔出血。 患者被收治入重症监护病房进行进一步处理。 入院后第五天，他出现右臂和右腿新发无力。"
+  },
+  "question": {
+    "en": "Which of the following medications could have most likely prevented the neurological complications this patient developed in the hospital?",
+    "zh": "以下哪种药物最有可能预防该患者在住院期间出现神经系统并发症？"
+  },
+  "options": {
+    "A": {
+      "en": "ACE inhibitor",
+      "zh": "ACE抑制剂"
+    },
+    "B": {
+      "en": "Beta-adrenergic blocker",
+      "zh": "β-肾上腺素能受体阻滞剂"
+    },
+    "C": {
+      "en": "Calcium channel blocker",
+      "zh": "钙通道阻滞剂"
+    },
+    "D": {
+      "en": "Central sympatholytic",
+      "zh": "中枢性交感神经抑制剂"
+    },
+    "E": {
+      "en": "Nitrate",
+      "zh": "硝酸盐"
+    },
+    "F": {
+      "en": "Osmotic diuretic",
+      "zh": "渗透性利尿剂"
+    },
+    "G": {
+      "en": "Thiazide diuretic",
+      "zh": "噻嗪类利尿剂"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with subarachnoid hemorrhage (SAH) developed new-onset focal neurological deficits 5 days after his initial symptoms; a presentation characteristic of delayed cerebral ischemia due to cerebral vasospasm. SAH is most often caused by the rupture of a saccular (berry) aneurysm, which occurs frequently in patients with autosomal dominant polycystic kidney disease.\n\nCerebral vasospasm with subsequent ischemia is the most common complication of SAH and typically manifests 3-12 days after the initial incident with a change in mental status and/or new focal neurological deficits.\n\nNimodipine, a selective CALCIUM CHANNEL BLOCKER, improves outcomes in patients with SAH by preventing or reducing the extent of ischemic neurological deficits caused by cerebral vasospasm. This NEUROPROTECTIVE effect is likely due to a combination of increased cerebral vasodilation and decreased calcium-dependent excitotoxicity.\n\n(Choices A and B) Enalapril (an ACE inhibitor) and labetalol (a beta-adrenergic blocker with some alpha-antagonist activity) can be used to control hypertension (lowering the chance of rebleeding) in patients after SAH. However, rebleeding usually occurs in the first 24 hours after SAH, and acute onset of new neurological deficits 5 days after SAH is more indicative of delayed ischemia due to cerebral vasospasm.\n\n(Choice D) Central sympatholytics (eg, methyldopa, clonidine) stimulate alpha-2A receptors centrally, resulting in a decrease in generalized sympathetic outflow and reduced blood pressure. They do not have a role in prevention of ischemic deficits due to cerebral vasospasm following SAH.\n\n(Choice E) Nitrates (eg, nitroglycerin, isosorbide mononitrate) are used as vasodilators primarily for the treatment of angina pectoris. In patients with a recent SAH, nitrates should be avoided because they can increase cerebral blood flow and intracranial pressure, which can worsen bleeding.\n\n(Choice F) Osmotic diuretics (eg, mannitol) are part of the treatment for increased intracranial pressure (ICP). Although hydrocephalus can be a complication of SAH and result in elevated ICP, it typically presents with a gradual change in level of consciousness accompanied by ocular changes (eg, downward eye deviation, miosis) rather than focal extremity deficits. Ventricular dilation on neuroimaging is diagnostic.\n\n(Choice G) Thiazide diuretics are a first-line therapy for essential hypertension in the outpatient setting. They are not indicated for use in preventing complications due to cerebral vasospasm following SAH.\n\nEducational objective:\nDelayed cerebral ischemia due to cerebral vasospasm usually presents 3-12 days after the initial subarachnoid hemorrhage (SAH) with an acute change in mental status and/or new focal neurological deficits. Nimodipine, a selective calcium channel blocker, improves outcomes in patients with cerebral vasospasm by inducing cerebral vasodilation and decreasing calcium-dependent excitotoxicity.",
+    "zh": "该蛛网膜下腔出血（SAH）患者在出现初始症状5天后出现新发局灶性神经功能缺损； 这是一种由于脑血管痉挛引起的迟发性脑缺血的特征性表现。 SAH最常由囊性（浆果状）动脉瘤破裂引起，这种动脉瘤在常染色体显性遗传性多囊肾病患者中常有发生。\n\n脑血管痉挛伴随继发性缺血是SAH最常见的并发症，通常在最初事件发生后3-12天出现，表现为精神状态改变和/或新的局灶性神经功能缺损。\n\n尼莫地平，一种选择性钙通道阻滞剂，通过预防或减少脑血管痉挛引起的缺血性神经功能缺损的程度，改善了SAH患者的预后。 这种神经保护作用可能是由于脑血管扩张增加和钙依赖性兴奋性毒性降低的共同作用。\n\n（选项 A 和 B） 依那普利（一种ACE抑制剂）和拉贝洛尔（一种具有一些α-受体拮抗剂活性的β-肾上腺素能受体阻滞剂）可用于控制SAH患者的高血压（降低再次出血的几率）。 然而，再出血通常发生在SAH后的前24小时内，SAH后5天出现新的神经功能缺损更表明是由于脑血管痉挛引起的迟发性缺血。\n\n（选项 D） 中枢性交感神经抑制剂（例如，甲基多巴，可乐定）在中枢刺激α-2A受体，导致全身交感神经输出减少和血压降低。 它们在预防SAH后脑血管痉挛引起的缺血性功能缺损方面没有作用。\n\n（选项 E） 硝酸盐（例如，硝酸甘油，单硝酸异山梨酯）主要用作血管扩张剂，用于治疗心绞痛。 在最近发生SAH的患者中，应避免使用硝酸盐，因为它们会增加脑血流量和颅内压，这可能会加重出血。\n\n（选项 F） 渗透性利尿剂（例如，甘露醇）是治疗颅内压增高（ICP）的一部分。 尽管脑积水可能是SAH的并发症并导致ICP升高，但它通常表现为意识水平的逐渐变化，伴有眼部改变（例如，向下眼偏斜，瞳孔缩小），而不是局灶性肢体缺损。 神经影像学上的脑室扩张具有诊断意义。\n\n（选项 G） 噻嗪类利尿剂是门诊治疗原发性高血压的一线治疗方法。 它们不适用于预防SAH后脑血管痉挛引起的并发症。\n\n教育目标：\n由于脑血管痉挛引起的迟发性脑缺血通常在最初的蛛网膜下腔出血（SAH）后3-12天出现，伴有精神状态的急剧变化和/或新的局灶性神经功能缺损。 尼莫地平是一种选择性钙通道阻滞剂，通过诱导脑血管扩张和降低钙依赖性兴奋性毒性，改善了脑血管痉挛患者的预后。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of complications following subarachnoid hemorrhage (SAH), specifically delayed cerebral ischemia due to cerebral vasospasm, and the role of pharmacological interventions in its prevention. It assesses knowledge of the pathophysiology of SAH complications and the mechanism of action of various drug classes in this context.\n\nTo solve this question, one must first identify the clinical presentation as SAH and recognize the subsequent development of focal neurological deficits as a sign of delayed cerebral ischemia due to vasospasm. Then, recall or deduce which medication class is specifically indicated for preventing cerebral vasospasm, distinguishing it from agents used for hypertension control or ICP management.",
+    "zh": "这个问题考察了对蛛网膜下腔出血（SAH）后并发症的理解，特别是由于脑血管痉挛引起的迟发性脑缺血，以及药物干预在预防中的作用。 它评估了SAH并发症的病理生理学知识以及各种药物类别在这种背景下的作用机制。\n\n要解决这个问题，首先必须将临床表现确定为SAH，并认识到随后出现局灶性神经功能缺损是由于血管痉挛引起的迟发性脑缺血的征兆。 然后，回忆或推断出哪一类药物特别适用于预防脑血管痉挛，将其与用于控制高血压或ICP管理的药物区分开来。"
+  },
+  "tags": "Subarachnoid hemorrhage; Cerebral vasospasm; Delayed cerebral ischemia; Calcium channel blocker; Nimodipine; Autosomal dominant polycystic kidney disease; Neurology; Pharmacology",
+  "category": "Neuro",
+  "question_id": "146",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\146",
+  "extracted_at": "2025-11-05T19:34:00.627261",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:34:02.206778",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

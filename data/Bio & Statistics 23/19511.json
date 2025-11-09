@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "Drugs A and B are 2 new experimental drugs being tested for the treatment of a novel respiratory viral infection that causes acute respiratory failure and death in children. Part of the testing process is to analyze the 2-week survival after treatment to determine the clinical efficacy of the experimental drugs. A total of 60 children recently diagnosed with the disease are randomly assigned in a 1:1:1 ratio to receive Drug A, Drug B, or placebo. The absolute risk reduction of Drug A compared to placebo was found to be 0.05, whereas the absolute risk reduction of Drug B compared to placebo was found to be 0.20. Based on these results, which of the following statements comparing the effectiveness of Drugs A and B in treating children infected with the novel virus is most appropriate?",
+    "zh": "药物A和药物B是两种新的实验性药物，用于治疗一种新型呼吸道病毒感染，该感染会导致儿童出现急性呼吸衰竭和死亡。测试过程的一部分是分析治疗后的2周生存率，以确定实验药物的临床疗效。共有60名最近被诊断患有该疾病的儿童被以1:1:1的比例随机分配，分别接受药物A、药物B或安慰剂。发现与安慰剂相比，药物A的绝对风险降低为0.05，而与安慰剂相比，药物B的绝对风险降低为0.20。基于这些结果，以下关于比较药物A和药物B治疗感染新型病毒的儿童的有效性的陈述，哪一项最合适？"
+  },
+  "question": {
+    "en": "Based on these results, which of the following statements comparing the effectiveness of Drugs A and B in treating children infected with the novel virus is most appropriate?",
+    "zh": "根据这些结果，以下关于比较药物A和药物B治疗感染新型病毒的儿童的有效性的陈述，哪一项最合适？"
+  },
+  "options": {
+    "A": {
+      "en": "Drugs A and B require treating the same number of children to prevent 1 additional death, so they are equally effective",
+      "zh": "药物A和药物B需要治疗相同数量的儿童以预防1例额外死亡，因此它们的效果相同"
+    },
+    "B": {
+      "en": "Drug A requires treating fewer children to prevent 1 additional death compared to Drug B, so Drug A is less effective than Drug B",
+      "zh": "与药物B相比，药物A需要治疗更少的儿童以预防1例额外死亡，因此药物A不如药物B有效"
+    },
+    "C": {
+      "en": "Drug A requires treating fewer children to prevent 1 additional death compared to Drug B, so Drug A is more effective than Drug B",
+      "zh": "与药物B相比，药物A需要治疗更少的儿童以预防1例额外死亡，因此药物A比药物B更有效"
+    },
+    "D": {
+      "en": "Drug A requires treating more children to prevent 1 additional death compared to Drug B, so Drug A is less effective than Drug B",
+      "zh": "与药物B相比，药物A需要治疗更多的儿童以预防1例额外死亡，因此药物A不如药物B有效"
+    },
+    "E": {
+      "en": "Drug A requires treating more children to prevent 1 additional death compared to Drug B, so Drug A is more effective than Drug B",
+      "zh": "与药物B相比，药物A需要治疗更多的儿童以预防1例额外死亡，因此药物A比药物B更有效"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The absolute risk reduction (ARR) describes the efficacy of a treatment (eg, Drug A) compared to a control group (eg, placebo); it is the difference in the risk (or rate) of a negative event (eg, death) between treatment and control groups:\n\nARR = (Riskcontrol - Risktreatment)\n\nARR expressed as a percentage describes the number of negative events (eg, deaths) prevented in 100 patients. For example, an ARR of 0.05 indicates that 5 of 100 patients treated with a treatment (eg, Drug A) would be prevented from developing a negative event. Therefore, to prevent 1 patient from developing a negative event, it would be necessary to treat 100 / 5 = 1 / 0.05 = 20 patients. This is the number needed to treat (NNT).\n\nNNT is the number of patients who need to be treated with a treatment (eg, Drug A) to prevent 1 additional negative event (eg, death) compared to a control group (eg, placebo); NNT is the inverse of the ARR.\n\nNNT = 1 / ARR\n\nA lower NNT indicates more effective treatments because fewer patients would need to be treated to prevent 1 additional negative outcome. NNTs can be used to compare the effectiveness of different treatments within a single study or between similar studies (eg, similar patient characteristics, control groups, duration of follow-up). In this example, a single study is testing 2 treatments (ie, Drugs A and B) against placebo (ie, control group) to prevent death (ie, negative effect) in recently diagnosed children randomized to treatment groups with a similar follow-up (ie, 2-week survival):\n\nDrug A versus placebo: ARR = 0.05, so NNT = 1 / 0.05 = 20\nDrug B versus placebo: ARR = 0.20, so NNT = 1 / 0.20 = 5\nDrug A requires treating more children to prevent 1 additional death compared to Drug B (20 vs 5). A higher NNT indicates a lower effectiveness; therefore, Drug A is less effective compared to Drug B (Choices A, B, C, and E).\nEducational objective:\nThe number needed to treat (NNT) is the number of patients who need to receive a treatment to prevent 1 additional negative event. NNT is the inverse of the absolute risk reduction. The lower the NNT, the more effective the treatment because fewer patients need be treated to prevent 1 additional negative event.",
+    "zh": "绝对风险降低（ARR）描述了治疗（例如，药物A）与对照组（例如，安慰剂）相比的疗效；它是治疗组和对照组之间不良事件（例如，死亡）风险（或发生率）的差异：\n\nARR = （对照组风险 - 治疗组风险）\n\nARR以百分比表示，描述了在100名患者中预防的不良事件（例如，死亡）的数量。例如，ARR为0.05表示，接受治疗（例如，药物A）的100名患者中有5名患者将被预防发生不良事件。因此，为了预防1名患者发生不良事件，需要治疗100/5 = 1 / 0.05 = 20名患者。这是需要治疗的患者数（NNT）。\n\nNNT是指需要用治疗方法（例如，药物A）治疗的患者数量，以预防与对照组（例如，安慰剂）相比的1例额外不良事件（例如，死亡）；NNT是ARR的倒数。\n\nNNT = 1 / ARR\n\n较低的NNT表示更有效的治疗方法，因为需要治疗更少的患者以预防1例额外的不良结果。NNT可用于比较同一研究或类似研究（例如，相似的患者特征、对照组、随访时间）中不同治疗方法的有效性。在本例中，一项研究正在测试2种治疗方法（即药物A和药物B）与安慰剂（即对照组）对比，以预防最近诊断的儿童死亡（即不良影响），这些儿童被随机分配到具有相似随访（即2周生存期）的治疗组：\n\n药物A vs 安慰剂：ARR = 0.05，因此NNT = 1 / 0.05 = 20\n药物B vs 安慰剂：ARR = 0.20，因此NNT = 1 / 0.20 = 5\n与药物B相比，药物A需要治疗更多的儿童以预防1例额外死亡（20 vs 5）。较高的NNT表示较低的有效性；因此，药物A不如药物B有效（选项A、B、C和E）。\n教育目标：\n需要治疗的患者数（NNT）是指需要接受治疗的患者数量，以预防1例额外的不良事件。NNT是绝对风险降低的倒数。NNT越低，治疗效果越好，因为需要治疗的患者越少，即可预防1例额外的不良事件。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of absolute risk reduction (ARR) and number needed to treat (NNT) in comparing the effectiveness of two different treatments. It requires calculating NNT from ARR and interpreting the results to determine which treatment is more effective. \n\nThe key to solving this question is to calculate the NNT for each drug using the formula NNT = 1/ARR. Then, compare the NNT values to determine which drug requires treating fewer patients to prevent one additional death, indicating higher effectiveness.",
+    "zh": "这个问题考察了对绝对风险降低（ARR）和需要治疗的患者数（NNT）的理解，用于比较两种不同治疗方法的有效性。它需要根据ARR计算NNT，并解释结果以确定哪种治疗方法更有效。\n\n解决这个问题的关键是使用公式NNT = 1/ARR计算每种药物的NNT。然后，比较NNT值以确定哪种药物需要治疗更少的患者以预防一例额外死亡，这表明更高的有效性。"
+  },
+  "tags": "Absolute risk reduction; Number needed to treat; Biostatistics; Therapeutic efficacy; Clinical trials",
+  "category": "Bio",
+  "question_id": "19511",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19511",
+  "extracted_at": "2025-11-05T11:14:08.146791",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:23:02.556289",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

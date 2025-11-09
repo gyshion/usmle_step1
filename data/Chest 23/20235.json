@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 4-year-old girl is brought to the emergency department by her parents due to difficulty breathing. The patient was in her usual state of health until this morning when she developed a fever. Over the past 8 hours, her breathing has become more rapid and strained. Temperature is 39.8 C (103.6 F), blood pressure is 88/64 mm Hg, pulse is 134/min, and respirations are 34/min. On examination, the patient appears scared. She is sitting up on the bed leaning forward while supported by her arms with her head extended. Cardiac examination reveals tachycardia and a normal rhythm without rubs or murmurs. The abdomen is soft and nondistended. {{exhibit_1}}",
+    "zh": "一位4岁女孩因呼吸困难被父母带到急诊科就诊。患儿在今天早上出现发烧前，健康状况一如往常。在过去的8小时里，她的呼吸变得更加急促和费力。体温39.8摄氏度（103.6华氏度），血压88/64毫米汞柱，脉搏134次/分钟，呼吸34次/分钟。体格检查显示，患儿看起来很害怕。她正坐在床上，向前倾斜，用手臂支撑着身体，头部伸展。心脏检查显示心动过速和正常心律，无摩擦音或杂音。腹部柔软且无膨胀。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following additional signs is most likely to be found on examination?",
+    "zh": "以下哪一项附加体征最有可能在检查中发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Asymmetrical breath sounds",
+      "zh": "呼吸音不对称"
+    },
+    "B": {
+      "en": "Diffuse rhonchi",
+      "zh": "弥漫性干啰音"
+    },
+    "C": {
+      "en": "Expiratory stridor",
+      "zh": "呼气性喘鸣"
+    },
+    "D": {
+      "en": "Expiratory wheeze",
+      "zh": "呼气性哮鸣音"
+    },
+    "E": {
+      "en": "Inspiratory stridor",
+      "zh": "吸气性喘鸣"
+    },
+    "F": {
+      "en": "Inspiratory wheeze",
+      "zh": "吸气性哮鸣音"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This febrile, ill-appearing patient with respiratory distress who is in the tripod position likely has epiglottitis, a rare, potentially fatal infection most commonly caused by Haemophilus influenzae type b. Edema of the epiglottis can cause LARYNGEAL OBSTRUCTION that leads to inspiratory stridor. {{exhibit_2}}\n\nDuring inspiration, faster airflow causes decreased intraluminal pressure in the airways (eg, drop in intralaryngeal pressure). In patients with airway obstruction at the level of the larynx, this decreased pressure leads to increased airway narrowing and increased turbulent airflow. Therefore, patients with airway obstruction at the level of the larynx (eg, epiglottitis, laryngomalacia, bilateral vocal cord paralysis) would be expected to have inspiratory stridor. Tripod positioning (extending neck and chin to the sniffing position) pulls the tongue forward to partially open the laryngeal airway.\n\n(Choice A) Asymmetric breath sounds can occur with unilateral obstruction below the level of the carina (eg, foreign body aspiration) or with pleural disorders (eg, effusion, pneumothorax). This patient's tripod positioning is more suggestive of laryngeal obstruction.\n\n(Choice B) Rhonchi are low-pitched rattling sounds produced when air flows through bronchi that have excessive secretions. Because they are caused by the movement of air through wet secretions, rhonchi can be heard on both inspiration and expiration.\n\n(Choice C) Expiratory stridor often occurs due to tracheal pathology (eg, tracheomalacia) because inspiration decreases intrathoracic pressure (relative to the airways), which widens the intrathoracic trachea. Expiration increases intrathoracic pressure, which narrows the intrathoracic trachea, worsening the obstruction.\n\n(Choices D and F) Wheezing (ie, high-pitched whistling noise) occurs with constriction of the smaller airways of the lungs (eg, asthma). Because these small airways are intrathoracic, the constriction is more pronounced during expiration due to increased intrathoracic pressure.\n\nEducational objective:\nLaryngeal airway obstruction can occur with epiglottitis. It leads to inspiratory stridor due to the dynamic collapse of the larynx during inspiration. {{exhibit_3}}",
+    "zh": "这位发烧、病容、呼吸窘迫且呈三脚架体位的患者可能患有会厌炎，这是一种罕见但可能致命的感染，最常见由b型流感嗜血杆菌引起。会厌水肿可导致喉部梗阻，进而导致吸气性喘鸣。{{exhibit_2}}\n\n在吸气过程中，较快的气流导致气道内腔压力降低（例如，喉内压力下降）。对于喉部水平存在气道梗阻的患者，这种压力降低会导致气道狭窄加剧和气流湍流增加。因此，预计喉部水平存在气道梗阻的患者（例如，会厌炎、喉软化症、双侧声带麻痹）会出现吸气性喘鸣。三脚架体位（伸展颈部和下巴，呈嗅探姿势）将舌头向前拉，部分打开喉部气道。\n\n（选项A）呼吸音不对称可发生于隆突下单侧梗阻（例如，异物吸入）或胸膜疾病（例如，积液、气胸）。该患者的三脚架体位更提示喉部梗阻。\n\n（选项B）干啰音是当空气流经有过多分泌物的支气管时产生的低沉的格格声。由于它们是由空气通过湿性分泌物移动引起的，因此可以在吸气和呼气时听到干啰音。\n\n（选项C）呼气性喘鸣通常由于气管病变（例如，气管软化症）而发生，因为吸气会降低胸腔内压力（相对于气道），从而扩张胸腔内气管。呼气增加胸腔内压力，这会使胸腔内气管变窄，从而加重梗阻。\n\n（选项D和F）哮鸣音（即高频哨声）发生在肺部较小气道（例如，哮喘）收缩时。由于这些小气道位于胸腔内，收缩在呼气期间更为明显，这是由于胸腔内压力增加。\n\n教学目标：\n喉部气道梗阻可发生于会厌炎。由于吸气过程中喉部的动态塌陷，它会导致吸气性喘鸣。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of upper airway obstruction, specifically epiglottitis, and its characteristic clinical findings. It requires recognizing the significance of tripod positioning and understanding the pathophysiology of inspiratory stridor in the context of laryngeal obstruction.\n\nThe key to solving this question is identifying the patient's tripod position, which strongly suggests epiglottitis. Recognizing that epiglottitis causes laryngeal obstruction leads to the correct answer of inspiratory stridor.",
+    "zh": "本题测试对上呼吸道梗阻（特别是会厌炎）及其特征性临床表现的认识。它要求识别三脚架体位的重要性，并了解喉部梗阻背景下吸气性喘鸣的病理生理学。\n\n解决此问题的关键是识别患者的三脚架体位，这强烈提示会厌炎。认识到会厌炎会导致喉部梗阻，从而得到正确的答案——吸气性喘鸣。"
+  },
+  "tags": "Epiglottitis; Airway obstruction; Inspiratory stridor; Tripod position; Haemophilus influenzae; Laryngeal edema; Respiratory distress; Pediatrics; Emergency medicine",
+  "category": "Chest",
+  "question_id": "20235",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\20235",
+  "extracted_at": "2025-11-05T11:44:31.982305",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:38:49.438672",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old man is brought to the emergency department after sustaining stab injuries in a street fight. The patient feels lightheaded and dizzy. Blood pressure is 100/60 mm Hg and pulse is 115/min. Physical examination shows profuse bleeding from penetrating wounds over the right neck and shoulder area. Intravenous fluids are administered, and a blood transfusion is initiated. Urgent surgical exploration is performed, and injured blood vessels are repaired. Further exploration shows complete transection of a specific nerve, which is indicated by the arrow in the image below {{exhibit_1}}.",
+    "zh": "一名23岁男性因在街头斗殴中遭受刺伤被送往急诊科。患者感到头昏眼花。血压为100/60 mmHg，脉搏为115/分钟。体格检查显示右侧颈部和肩部穿透伤口大量出血。静脉注射液体，并开始输血。进行紧急手术探查，修复受损血管。进一步探查显示特定神经完全横断，如下图{{exhibit_1}}箭头所示。"
+  },
+  "question": {
+    "en": "Which of the following actions is most likely to be impaired as a result of this patient's nerve injury?",
+    "zh": "由于该患者的神经损伤，以下哪种行为最有可能受到损害？"
+  },
+  "options": {
+    "A": {
+      "en": "Abduction of the fingers",
+      "zh": "手指外展"
+    },
+    "B": {
+      "en": "Adduction of the thumb",
+      "zh": "拇指内收"
+    },
+    "C": {
+      "en": "Extension of the wrist",
+      "zh": "腕关节伸展"
+    },
+    "D": {
+      "en": "Flexion of the wrist",
+      "zh": "腕关节屈曲"
+    },
+    "E": {
+      "en": "Opposition of the thumb",
+      "zh": "拇指对掌"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The radial nerve {{exhibit_2}} is the largest branch of the brachial plexus and receives fibers from C5-T1. It innervates all the EXTENSOR MUSCLES of the upper limb below the shoulder and provides sensory innervation to the skin of the posterior arm, forearm, and dorsal lateral hand.\n\nThis nerve tracks within the radial groove on the humerus; therefore, it is VULNERABLE to traumatic injury at the humeral midshaft. The nerve can also be injured (eg, penetrating stab wound) during its superficial course within the axilla. Patients with proximal radial neuropathy typically have weakness during wrist and finger extension (wrist drop) and variable sensory loss over the posterior arm and forearm.\n\n(Choices A, B, D, and E) Damage to the median or ulnar nerve can result in weakness on wrist flexion. Damage to the median nerve can also result in weakness on thumb opposition, whereas ulnar nerve damage may limit finger abduction and thumb adduction. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "桡神经{{exhibit_2}}是臂丛最大的分支，接收来自C5-T1的纤维。它支配肩部以下上肢的所有伸肌，并为上臂、前臂和手背外侧的皮肤提供感觉神经支配。\n\n该神经在肱骨上的桡神经沟内走行；因此，它易受肱骨中段的创伤性损伤。该神经也可能在其腋窝内的浅表走行过程中受到损伤（例如，穿透性刺伤）。近端桡神经病变的患者通常在腕关节和手指伸展时出现无力（腕下垂），以及上臂和前臂后部不同程度的感觉丧失。\n\n（选项A、B、D和E）正中神经或尺神经损伤可导致腕关节屈曲无力。正中神经损伤也可导致拇指对掌无力，而尺神经损伤可能会限制手指外展和拇指内收。{{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the radial nerve anatomy and function, specifically its role in wrist extension and the consequences of radial nerve injury. The key to solving this question is recognizing that the radial nerve innervates the extensor muscles of the wrist, so damage to this nerve will impair wrist extension.",
+    "zh": "此题考察了桡神经解剖结构和功能方面的知识，特别是其在腕关节伸展中的作用以及桡神经损伤的后果。解决此问题的关键在于认识到桡神经支配腕部的伸肌，因此该神经的损伤将损害腕关节伸展。"
+  },
+  "tags": "Radial nerve; Brachial plexus; Wrist extension; Nerve injury; Upper extremity; Anatomy; Neurology",
+  "category": "Neuro",
+  "question_id": "1930",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1930",
+  "extracted_at": "2025-11-05T15:26:45.052421",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:22:47.720430",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

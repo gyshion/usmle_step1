@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 72-year-old woman comes to the office for a routine follow-up visit accompanied by her son. The patient has experienced progressive memory loss over the last 2 years. She now needs help with her daily activities, such as shopping and housekeeping. The patient's son says, \"She used to be such an independent person, but now she needs help with most things. She even forgot my name the other day!\" Medical history includes hypertension, hyperlipidemia, and type 2 diabetes mellitus. Family history includes major depressive disorder in her father. MRI reveals diffuse cortical and hippocampal atrophy. Which of the following biochemical changes is most likely contributing to this patient's condition?",
+    "zh": "一位72岁的女性在儿子陪同下来到诊所进行例行复诊。患者在过去2年中经历了进行性记忆力减退。她现在需要帮助才能完成日常活动，例如购物和家务。患者的儿子说：“她曾经是多么独立的人，但现在她需要帮助才能完成大多数事情。前几天她甚至忘记了我的名字！”病史包括高血压、高脂血症和2型糖尿病。家族史包括她父亲患有重度抑郁症。MRI显示弥漫性皮质和海马萎缩。以下哪种生化改变最有可能导致该患者的病情？"
+  },
+  "question": {
+    "en": "Which of the following biochemical changes is most likely contributing to this patient's condition?",
+    "zh": "以下哪种生化改变最有可能导致该患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased choline acetyltransferase activity in the nucleus basalis",
+      "zh": "基底核内胆碱乙酰转移酶活性降低"
+    },
+    "B": {
+      "en": "Decreased dopa decarboxylase activity in the substantia nigra",
+      "zh": "黑质多巴脱羧酶活性降低"
+    },
+    "C": {
+      "en": "Decreased tryptophan hydroxylase activity in the raphe nuclei",
+      "zh": "中缝核内色氨酸羟化酶活性降低"
+    },
+    "D": {
+      "en": "Increased acetylcholinesterase activity in the caudate nucleus",
+      "zh": "尾状核内乙酰胆碱酯酶活性升高"
+    },
+    "E": {
+      "en": "Increased dopamine beta-hydroxylase activity in the locus ceruleus",
+      "zh": "蓝斑中多巴胺β-羟化酶活性升高"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The patient's presentation of progressive memory loss, difficulty with daily activities, and forgetting names, along with MRI findings of diffuse cortical and hippocampal atrophy, is highly suggestive of ALZHEIMER DISEASE (AD). AD is the most common cause of dementia, characterized by a decline in cognitive function, particularly memory. The underlying pathology involves the accumulation of amyloid plaques and neurofibrillary tangles, leading to neuronal dysfunction and death. \n\nBiochemically, AD is associated with a significant deficit in CHOLINERGIC neurotransmission. Specifically, there is a marked decrease in the synthesis of ACETYLCHOLINE, a neurotransmitter crucial for memory and learning. This deficiency is primarily due to the loss of cholinergic neurons in the NUCLEUS BASALIS OF MEYNERT, a brainstem nucleus that projects widely to the cerebral cortex and hippocampus. The enzyme responsible for synthesizing acetylcholine is choline acetyltransferase (ChAT). Therefore, decreased activity of choline acetyltransferase in the nucleus basalis of Meynert leads to reduced acetylcholine levels, contributing significantly to the memory impairment seen in AD.\n\n(Choice B) Decreased dopa decarboxylase activity in the substantia nigra is associated with PARKINSON DISEASE, which is characterized by motor symptoms such as tremor, rigidity, and bradykinesia, due to the loss of dopaminergic neurons. While some patients with Parkinson disease can develop dementia (DEMENTIA WITH LEWY BODIES), the primary deficit is dopaminergic, not cholinergic, and the typical presentation differs.\n\n(Choice C) Decreased tryptophan hydroxylase activity in the raphe nuclei would lead to reduced serotonin synthesis. Serotonin plays a role in mood, sleep, and appetite. While alterations in serotonergic systems can be seen in various neuropsychiatric disorders, including depression and some dementias, the primary biochemical deficit in AD is cholinergic.\n\n(Choice D) Increased acetylcholinesterase activity is contrary to the known pathology of AD, where acetylcholine levels are decreased due to reduced synthesis, not increased breakdown. Acetylcholinesterase is the enzyme that breaks down acetylcholine. Inhibitors of this enzyme are used to treat AD by increasing acetylcholine availability. Atrophy of the caudate nucleus is characteristic of HUNTINGTON DISEASE.\n\n(Choice E) Increased dopamine beta-hydroxylase activity in the locus ceruleus would imply increased norepinephrine synthesis. The locus ceruleus is involved in the synthesis of norepinephrine, which plays a role in attention and arousal. While noradrenergic pathways can be affected in dementia, the primary and most significant biochemical abnormality in AD is the cholinergic deficit.\n\nKey clinical pearls:\n- ALZHEIMER DISEASE is characterized by progressive memory loss and cognitive decline.\n- The NUCLEUS BASALIS OF MEYNERT is the primary site of cholinergic neuron loss in AD.\n- Decreased CHOLINE ACETYLTRANSFERASE activity leads to reduced ACETYLCHOLINE synthesis, a hallmark of AD.\n- CHOLINESTERASE INHIBITORS are a mainstay of symptomatic treatment for AD.",
+    "zh": "患者表现出进行性记忆力减退，难以完成日常活动，忘记名字，以及MRI显示弥漫性皮质和海马萎缩，高度提示阿尔茨海默病（AD）。AD是痴呆最常见的原因，其特征是认知功能下降，尤其是记忆力。其潜在病理涉及淀粉样蛋白斑块和神经原纤维缠结的积聚，导致神经元功能障碍和死亡。\n\n从生化角度看，AD与胆碱能神经传递的显着缺陷有关。具体而言，乙酰胆碱的合成明显减少，乙酰胆碱是一种对记忆和学习至关重要的神经递质。这种缺陷主要是由于MEYNERT基底核（脑干核，广泛投射到大脑皮质和海马）中胆碱能神经元的损失。负责合成乙酰胆碱的酶是胆碱乙酰转移酶（ChAT）。因此，Meynert基底核中胆碱乙酰转移酶活性的降低导致乙酰胆碱水平降低，从而显着导致AD中出现的记忆力障碍。\n\n（选项B）黑质中多巴脱羧酶活性的降低与帕金森病相关，其特征是震颤、僵硬和运动迟缓等运动症状，这是由于多巴胺能神经元的损失。虽然一些帕金森病患者可能会出现痴呆（路易体痴呆），但主要的缺陷是多巴胺能，而不是胆碱能，并且典型表现不同。\n\n（选项C）中缝核中色氨酸羟化酶活性的降低会导致血清素合成减少。血清素在情绪、睡眠和食欲中起作用。虽然在各种神经精神疾病中可以看到血清素能系统的改变，包括抑郁症和一些痴呆症，但AD的主要生化缺陷是胆碱能的。\n\n（选项D）乙酰胆碱酯酶活性的升高与AD的已知病理相反，其中乙酰胆碱水平由于合成减少而不是分解增加而降低。乙酰胆碱酯酶是分解乙酰胆碱的酶。这种酶的抑制剂用于治疗AD，通过增加乙酰胆碱的利用度。尾状核萎缩是亨廷顿病的特征。\n\n（选项E）蓝斑中多巴胺β-羟化酶活性的升高将意味着去甲肾上腺素合成增加。蓝斑参与去甲肾上腺素的合成，去甲肾上腺素在注意力和唤醒中起作用。虽然痴呆症中可以影响去甲肾上腺素能通路，但AD中最主要的和最重要的生化异常是胆碱能缺陷。\n\n关键临床要点：\n- 阿尔茨海默病以进行性记忆力减退和认知能力下降为特征。\n- MEYNERT基底核是AD中胆碱能神经元损失的主要部位。\n- 胆碱乙酰转移酶活性降低导致乙酰胆碱合成减少，这是AD的标志。\n- 胆碱酯酶抑制剂是AD对症治疗的主要手段。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the underlying biochemical abnormalities in Alzheimer disease, specifically focusing on the neurotransmitter deficits that contribute to cognitive impairment. It requires correlating clinical presentation and imaging findings with specific neurochemical changes in the brain.\n\nTo solve this question, one must first recognize the clinical features and imaging findings suggestive of Alzheimer disease. Then, recall the primary neurotransmitter system affected in AD, which is the cholinergic system, and identify the enzyme and brain region responsible for this deficit. Evaluating the other options involves understanding the neurotransmitter systems involved in different neurological and psychiatric disorders.",
+    "zh": "此问题测试对阿尔茨海默病潜在生化异常的理解，特别是侧重于导致认知障碍的神经递质缺陷。它要求将临床表现和影像学发现与大脑中的特定神经化学变化相关联。\n\n要解决这个问题，首先必须认识到提示阿尔茨海默病的临床特征和影像学发现。然后，回忆受AD影响的主要神经递质系统，即胆碱能系统，并确定负责这种缺陷的酶和大脑区域。评估其他选项涉及理解参与不同神经和精神疾病的神经递质系统。"
+  },
+  "tags": "Alzheimer disease; Dementia; Cholinergic deficit; Nucleus basalis of Meynert; Choline acetyltransferase; Acetylcholine; Neurochemistry; Neurology; Geriatrics",
+  "category": "Neuro",
+  "question_id": "593",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\593",
+  "extracted_at": "2025-11-05T19:28:56.106707",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:27:23.772128",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

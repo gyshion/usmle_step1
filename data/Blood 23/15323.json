@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 66-year-old man comes to the office for follow-up over hypertension and stage IV chronic kidney disease. The patient has had worsened fatigue and low energy over the past several months but no chest pain or shortness of breath. He was previously nonadherent with antihypertensive therapy but has been following treatment recommendations since kidney dysfunction was diagnosed 2 years ago. Blood pressure is 126/78 mm Hg and pulse is 68/min. Cardiac auscultation reveals an S4. The rest of the physical examination is unremarkable. Laboratory results show normocytic normochromic anemia with a low reticulocyte count. Serum iron studies are within normal limits. Treatment with a recombinant glycoprotein hormone is started. Repeat laboratory testing several weeks later shows an improvement in hemoglobin level. The effects of the hormone prescribed for this patient are primarily mediated by which of the following pathways? {{exhibit_1}}",
+    "zh": "一位66岁男性因高血压和IV期慢性肾脏病来诊所复诊。患者在过去几个月里出现疲劳加重和精力不足，但无胸痛或呼吸困难。他之前对抗高血压治疗依从性差，但自从2年前诊断出肾功能障碍后，一直遵循治疗建议。血压为126/78 mmHg，脉搏为68/min。心脏听诊显示S4。其余体格检查无特殊发现。实验室结果显示正细胞正色素性贫血，网织红细胞计数低。血清铁指标在正常范围内。开始使用重组糖蛋白激素治疗。几周后重复实验室检查显示血红蛋白水平有所改善。为该患者开具的激素的作用主要通过以下哪种途径介导？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "The effects of the hormone prescribed for this patient are primarily mediated by which of the following pathways?",
+    "zh": "为该患者开具的激素的作用主要通过以下哪种途径介导？"
+  },
+  "options": {
+    "A": {
+      "en": "Adenylyl cyclase/cyclic AMP",
+      "zh": "腺苷酸环化酶/环磷酸腺苷"
+    },
+    "B": {
+      "en": "Arachidonic acid/phospholipase A₂",
+      "zh": "花生四烯酸/磷脂酶A₂"
+    },
+    "C": {
+      "en": "Janus kinase 2/signal transducer and activator of transcription",
+      "zh": "Janus激酶2/信号转导子和转录激活因子"
+    },
+    "D": {
+      "en": "Nuclear receptor",
+      "zh": "核受体"
+    },
+    "E": {
+      "en": "Phosphatidylinositol/inositol trisphosphate",
+      "zh": "磷脂酰肌醇/三磷酸肌醇"
+    },
+    "F": {
+      "en": "Ras/mitogen-activated protein kinase",
+      "zh": "Ras/丝裂原活化蛋白激酶"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Patients with chronic kidney disease (CKD) often develop normocytic anemia as their glomerular filtration rates decline due to an inability to generate adequate quantities of erythropoietin (EPO).\n\nEPO is a glycoprotein produced by peritubular fibroblasts in the renal cortex in response to tissue hypoxia. Healthy individuals increase EPO production up to 10,000-fold in response to anemia. However, the renal inflammation in CKD causes progressive damage to EPO-producing cells, which can lead to an inadequate EPO response; patients with CKD are often treated with recombinant EPO agents (eg, epoetin alfa, darbepoetin alfa) to supplement EPO production.\n\nEPO travels from the kidneys through the bloodstream to the bone marrow, where it binds to a surface receptor on erythrocyte colony-forming unit cells (ie, erythrocyte precursors). Binding activates the Janus kinase 2/signal transducer and activator of transcription (JAK2/STAT) signaling pathway, which induces the transcription of proteins that inhibit erythrocyte precursor apoptosis and promote survival. Binding also activates signals that increase the differentiation of erythrocyte precursors into mature erythrocytes. Together, these effects accelerate the production of erythrocytes and increase circulating red blood cell counts.\n\nActivating mutations that affect the JAK2 gene are associated with polycythemia vera, a chronic myeloproliferative disorder marked by the clonal proliferation of erythrocytes (leading to dramatic elevations in hematocrit).\n\n(Choice A) Cyclic AMP mediates the effects of a variety of hormones, including glucagon, antidiuretic hormone (V2 receptor), and corticotropin. However, this pathway is not a primary intermediate in erythropoiesis.\n\n(Choice B) Cleavage of membrane phospholipids by phospholipase A₂ leads to the formation of arachidonic acid, which is then converted to prostaglandins and leukotrienes that help regulate the inflammatory response. Various medications directly or indirectly affect this system, including glucocorticoids, nonsteroidal anti-inflammatory drugs, and leukotriene inhibitors.\n\n(Choice D) Commonly used therapeutic hormones that activate a nuclear receptor include thyroid hormone, vitamins A and D, and the steroid hormones (eg, glucocorticoids, mineralocorticoids, sex hormones).\n\n(Choice E) Therapeutic hormones that activate the phosphatidylinositol/inositol trisphosphate second messenger system include antidiuretic hormone (V1 receptor), GnRH, and oxytocin.\n\n(Choice F) The Ras/mitogen-activated protein kinase signal transduction system is used by a variety of growth factors (eg, epidermal growth factor, platelet-derived growth factor) that primarily act to stimulate cell proliferation. Uncontrolled activation of this system can lead to malignancy.\n\nEducational objective:\nChronic kidney disease is commonly associated with normocytic anemia due to reduced production of erythropoietin by the kidneys. Erythropoietin signal transduction is primarily mediated by the Janus kinase 2/signal transducer and activator of transcription (JAK2/STAT) signaling pathway, which promotes erythrocyte precursor survival and differentiation.",
+    "zh": "慢性肾脏病 (CKD) 患者常因肾小球滤过率下降而出现正细胞性贫血，这是由于无法产生足量的促红细胞生成素 (EPO) 造成的。\n\nEPO 是一种糖蛋白，由肾皮质中的肾小管周围成纤维细胞产生，以响应组织缺氧。健康个体对贫血的反应是EPO产量增加高达10,000倍。然而，CKD中的肾脏炎症会导致产生EPO的细胞进行性损伤，这可能导致EPO反应不足；CKD患者通常接受重组EPO制剂（例如，依泊汀α，达贝泊汀α）的治疗以补充EPO的产生。\n\nEPO从肾脏通过血流到达骨髓，在那里它与红细胞集落形成单位细胞（即，红细胞前体）表面的受体结合。结合激活Janus激酶2/信号转导子和转录激活因子 (JAK2/STAT) 信号通路，该通路诱导抑制红细胞前体凋亡和促进存活的蛋白质的转录。结合还会激活增加红细胞前体分化为成熟红细胞的信号。总而言之，这些作用加速了红细胞的产生并增加了循环红细胞计数。\n\n影响JAK2基因的激活突变与真性红细胞增多症相关，真性红细胞增多症是一种慢性骨髓增生性疾病，其特征是红细胞的克隆性增殖（导致血细胞比容的显着升高）。\n\n(选项 A) 环磷酸腺苷介导多种激素的作用，包括胰高血糖素、抗利尿激素（V2受体）和促皮质素。然而，这条通路不是红细胞生成的首要中间体。\n\n(选项 B) 磷脂酶A₂裂解膜磷脂会导致花生四烯酸的形成，花生四烯酸随后被转化为前列腺素和白三烯，它们有助于调节炎症反应。各种药物直接或间接影响该系统，包括糖皮质激素、非甾体抗炎药和白三烯抑制剂。\n\n(选项 D) 激活核受体的常用治疗性激素包括甲状腺激素、维生素A和D以及类固醇激素（例如，糖皮质激素、盐皮质激素、性激素）。\n\n(选项 E) 激活磷脂酰肌醇/三磷酸肌醇第二信使系统的治疗性激素包括抗利尿激素（V1受体）、促性腺激素释放激素和催产素。\n\n(选项 F) Ras/丝裂原活化蛋白激酶信号转导系统被多种生长因子（例如，表皮生长因子、血小板衍生生长因子）使用，这些生长因子主要作用于刺激细胞增殖。该系统不受控制的激活可导致恶性肿瘤。\n\n教育目标：\n慢性肾脏病常与正细胞性贫血相关，这是由于肾脏产生的促红细胞生成素减少所致。促红细胞生成素信号转导主要由Janus激酶2/信号转导子和转录激活因子 (JAK2/STAT) 信号通路介导，该通路促进红细胞前体的存活和分化。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of erythropoietin (EPO) and its mechanism of action in stimulating red blood cell production, specifically focusing on the JAK2/STAT signaling pathway. It also requires understanding the pathophysiology of anemia in chronic kidney disease.\n\nTo solve this question, recognize that the patient is receiving recombinant EPO to treat anemia secondary to chronic kidney disease. Recall that EPO binds to receptors on erythrocyte precursors in the bone marrow, activating the JAK2/STAT pathway to promote red blood cell survival and differentiation.",
+    "zh": "此题考察对促红细胞生成素 (EPO) 及其刺激红细胞生成的作用机制的了解，特别是侧重于JAK2/STAT信号通路。它还需要理解慢性肾脏病中贫血的病理生理学。\n\n要解决此题，需要认识到患者接受重组EPO治疗继发于慢性肾脏病的贫血。回忆一下，EPO与骨髓中红细胞前体的受体结合，激活JAK2/STAT通路以促进红细胞的存活和分化。"
+  },
+  "tags": "Chronic kidney disease; Anemia; Erythropoietin; JAK2/STAT pathway; Hematopoiesis; Recombinant EPO; Normocytic anemia; Renal failure; Signal transduction",
+  "category": "Blood",
+  "question_id": "15323",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\15323",
+  "extracted_at": "2025-11-05T11:25:27.715988",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:27:56.634971",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

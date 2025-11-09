@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 52-year-old man comes to the office for a painless mass in his right groin. He noticed the mass several weeks ago, and it has slowly enlarged. The patient has a history of HIV, for which he takes antiretroviral therapy. He has not had any new sexual partners recently. Temperature is 37.1 C (98.8 F). On examination, several enlarged, hard lymph nodes are palpated in the right inguinal area inferior to the inguinal ligament. An excisional biopsy is performed, and histopathology shows malignant cells. The malignant cells found in this patient most likely originated from which of the following sites?",
+    "zh": "一名52岁男性因右侧腹股沟无痛性肿块就诊。他几周前注意到肿块，肿块逐渐增大。患者有HIV病史，正在接受抗逆转录病毒治疗。他最近没有新的性伴侣。体温37.1摄氏度（98.8华氏度）。体格检查显示，在右侧腹股沟区域，腹股沟韧带下方可触及几个肿大、坚硬的淋巴结。进行了切除活检，组织病理学显示恶性细胞。该患者体内的恶性细胞最有可能起源于以下哪个部位？"
+  },
+  "question": {
+    "en": "The malignant cells found in this patient most likely originated from which of the following sites?",
+    "zh": "该患者体内的恶性细胞最有可能起源于以下哪个部位？"
+  },
+  "options": {
+    "A": {
+      "en": "Dome of the bladder",
+      "zh": "膀胱顶部"
+    },
+    "B": {
+      "en": "Lateral lobe of the prostate",
+      "zh": "前列腺外侧叶"
+    },
+    "C": {
+      "en": "Orifice of the anal canal",
+      "zh": "肛管口"
+    },
+    "D": {
+      "en": "Upper pole of the testes",
+      "zh": "睾丸上极"
+    },
+    "E": {
+      "en": "Upper third of the rectum",
+      "zh": "直肠上三分之一"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has palpable, firm superficial inguinal lymph nodes. These nodes overlie the femoral nerve, artery, and vein in the femoral triangle, a region bound by the inguinal ligament, sartorius muscle, and adductor longus muscle. The superficial inguinal nodes drain most cutaneous lymph from the umbilicus down, including the external genitalia and anus (below the dentate line). In this patient, metastasis from a malignancy around the orifice of the anal canal most likely explains his inguinal lymphadenopathy. {{exhibit_1}}\n\nExceptions to this drainage pattern include the glans penis and skin of the posterior calf (popliteal lymph nodes), which bypass the superficial inguinal nodes to drain into the deep inguinal lymph nodes.\n\n(Choice A) Lymph from the superior portion of the bladder drains to the external iliac nodes whereas lymph from the inferior portion of the bladder drains to the internal iliac nodes.\n\n(Choice B) Lymph from the prostate drains primarily to the internal iliac nodes.\n\n(Choice D) Lymph from the testes parallels the blood supply from the testicular arteries, which arise directly from the abdominal aorta. As such, testicular lymph drains to the abdominal para-aortic (retroperitoneal) lymph nodes.\n\n(Choice E) Lymph from the upper third of the rectum drains to the inferior mesenteric lymph nodes.",
+    "zh": "该患者可触及坚硬的浅表腹股沟淋巴结。这些淋巴结位于股三角内的股神经、股动脉和股静脉上方，股三角区域由腹股沟韧带、缝匠肌和内收长肌构成。浅表腹股沟淋巴结引流大部分脐部以下的皮肤淋巴，包括外生殖器和肛门（齿状线以下）。在该患者中，肛管口周围恶性肿瘤的转移最有可能解释了他的腹股沟淋巴结肿大。{{exhibit_1}} \n\n这种引流模式的例外情况包括阴茎头和后小腿的皮肤（腘窝淋巴结），它们绕过浅表腹股沟淋巴结，引流入深部腹股沟淋巴结。\n\n（选项A）来自膀胱上部的淋巴引流至髂外淋巴结，而来自膀胱下部的淋巴引流至髂内淋巴结。\n\n（选项B）来自前列腺的淋巴主要引流至髂内淋巴结。\n\n（选项D）来自睾丸的淋巴与来自睾丸动脉（直接起源于腹主动脉）的血液供应平行。因此，睾丸淋巴引流至腹部主动脉旁（腹膜后）淋巴结。\n\n（选项E）来自直肠上三分之一的淋巴引流至肠系膜下淋巴结。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of lymphatic drainage patterns in the lower body, specifically the areas drained by the superficial inguinal lymph nodes. It requires understanding which anatomical regions directly drain into these nodes.\n\nTo solve this question, recall the anatomical boundaries of superficial inguinal lymph node drainage (umbilicus down, including anus and external genitalia). Eliminate options that drain to other lymph node groups (iliac, mesenteric, para-aortic).",
+    "zh": "这道题考察对下半身淋巴引流模式的了解，特别是浅表腹股沟淋巴结引流的区域。它要求理解哪些解剖区域直接引流到这些淋巴结。\n\n要解决这个问题，回想浅表腹股沟淋巴结引流的解剖界限（脐部以下，包括肛门和外生殖器）。排除引流到其他淋巴结组（髂、肠系膜、主动脉旁）的选项。"
+  },
+  "tags": "Lymphatic drainage; Inguinal lymph nodes; Anal canal; Metastasis; HIV; Oncology; Anatomy",
+  "category": "GIT",
+  "question_id": "1631",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\1631",
+  "extracted_at": "2025-11-05T14:27:07.473994",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:52:45.808576",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

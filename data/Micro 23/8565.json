@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 12-year-old boy is brought to the office with fever, chills, and a rash that appeared this morning. Two days earlier, the child started complaining of a sore throat. His temperature is 38.3 C (101 F). Examination shows a diffuse erythematous rash on his chest and abdomen that blanches with pressure, along with numerous 1- to 2-mm papules. The throat is erythematous with gray-white tonsillar exudates and the tongue is bright red. {{exhibit_1}}",
+    "zh": "一名12岁男孩因发热、寒战和今早出现的皮疹就诊。两天前，该儿童开始抱怨喉咙痛。体温为38.3°C (101°F)。检查显示胸部和腹部弥漫性红斑皮疹，加压后变白，并伴有许多1-2毫米的丘疹。咽部红斑，扁桃体上有灰白色渗出物，舌头呈鲜红色。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following complications is most likely to develop in this patient?",
+    "zh": "该患者最有可能发生以下哪种并发症？"
+  },
+  "options": {
+    "A": {
+      "en": "Aplastic crisis",
+      "zh": "再生障碍性危象"
+    },
+    "B": {
+      "en": "Coronary artery aneurysm",
+      "zh": "冠状动脉瘤"
+    },
+    "C": {
+      "en": "Encephalitis",
+      "zh": "脑炎"
+    },
+    "D": {
+      "en": "Orchitis",
+      "zh": "睾丸炎"
+    },
+    "E": {
+      "en": "Rheumatic fever",
+      "zh": "风湿热"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient most likely has scarlet fever, which is caused by strains of Group A streptococcus that produce pyrogenic exotoxins. Scarlet fever is most often associated with streptococcal pharyngitis, which begins acutely after an incubation period of 1-5 days. Initial symptoms include fever, malaise, abdominal pain, and sore throat. The pharynx is typically erythematous and swollen, and the tonsils are often covered with gray-white exudates. In addition, the tongue can have inflamed red papillae with an appearance similar to that of a red strawberry.\n\nAfter 1-2 days, a rash appears on the neck, armpits, and groin that subsequently generalizes to the rest of the body. The rash begins as scarlet spots or blotches, giving a boiled lobster appearance. As the rash progresses and becomes more widespread, it begins to resemble a sunburn with goose pimples (\"sandpaper-like\" rash). The cheeks commonly appear flushed, giving the area around the mouth a pale appearance in comparison (circumoral pallor). Toward the end of the first week, desquamation begins and is most pronounced in the armpits, groin, and tips of the fingers and toes.\n\nAs with any streptococcal upper respiratory infection, scarlet fever can predispose to ACUTE RHEUMATIC FEVER and GLOMERULONEPHRITIS. Treatment with penicillin V can prevent the development of rheumatic fever, although its role in preventing glomerulonephritis is uncertain.\n\n(Choice A) Aplastic crisis (severe anemia due to transient arrest of erythropoiesis) can complicate parvovirus B19 infection in patients with preexisting hematologic abnormalities (eg, sickle cell anemia).\n\n(Choice B) Coronary artery aneurysm is the most dreaded complication of Kawasaki disease, which can present with fever, strawberry tongue, and a rash. However, tonsillar exudates are more typical of bacterial disease, and this patient lacks other manifestations of Kawasaki disease (eg, bilateral conjunctival injection).\n\n(Choice C) Measles virus infection is associated with a rash that classically starts on the face and Koplik spots (small whitish/blue lesions on buccal mucosa). Neurological complications can include encephalitis (acutely), acute disseminated encephalomyelitis (during recovery), and subacute sclerosing panencephalitis (years later).\n\n(Choice D) Orchitis is one of the most common complications of mumps. Mumps characteristically presents with fever, malaise, headaches, and myalgias followed by the development of parotitis within 48 hours. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "该患者最有可能患有猩红热，由产生产热外毒素的A组链球菌株引起。猩红热最常与链球菌性咽炎相关，在1-5天的潜伏期后急性起病。初始症状包括发热、不适、腹痛和喉咙痛。咽部通常红斑肿胀，扁桃体上常覆盖灰白色渗出物。此外，舌头上可以有发炎的红色乳头，外观类似于红色的草莓。\n\n1-2天后，颈部、腋窝和腹股沟出现皮疹，随后蔓延到身体的其他部位。皮疹开始表现为猩红色斑点或斑块，呈现出煮熟的龙虾外观。随着皮疹的进展和蔓延，它开始类似于晒伤，伴有鸡皮疙瘩（“砂纸样”皮疹）。颊部通常潮红，与口周相比，口周区域呈现苍白外观（口周苍白）。在第一周末，开始脱屑，在腋窝、腹股沟和手指和脚趾的末端最为明显。\n\n与任何链球菌性上呼吸道感染一样，猩红热可诱发急性风湿热和肾小球肾炎。用青霉素V治疗可以预防风湿热的发生，尽管其在预防肾小球肾炎方面的作用尚不确定。\n\n(选项A) 再生障碍性危象（由于红细胞生成短暂停止引起的严重贫血）可并发于患有先前血液学异常的患者的细小病毒B19感染（例如，镰状细胞性贫血）。\n\n(选项B) 冠状动脉瘤是川崎病最可怕的并发症，川崎病可表现为发热、草莓舌和皮疹。然而，扁桃体渗出物更典型于细菌性疾病，并且该患者缺乏川崎病的其他表现（例如，双侧结膜充血）。\n\n(选项C) 麻疹病毒感染与皮疹相关，皮疹通常从面部开始，并伴有柯氏斑（颊粘膜上的小的白色/蓝色病变）。神经系统并发症可包括脑炎（急性）、急性播散性脑脊髓炎（在恢复期间）和亚急性硬化性全脑炎（数年后）。\n\n(选项D) 睾丸炎是腮腺炎最常见的并发症之一。腮腺炎的特征表现为发热、不适、头痛和肌痛，随后在48小时内出现腮腺炎。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of scarlet fever presentation and potential complications, specifically acute rheumatic fever. The key to answering this question is recognizing the classic signs and symptoms of scarlet fever, including fever, sore throat, characteristic rash, and strawberry tongue, and then recalling the potential sequelae of Group A streptococcal infections.\n\nTo solve this question, identify the key findings that point towards scarlet fever. Then, recall the common complications of untreated or inadequately treated Group A streptococcal infections, such as acute rheumatic fever and glomerulonephritis. Eliminate options that are not associated with scarlet fever or are more characteristic of other conditions.",
+    "zh": "此问题测试对猩红热表现和潜在并发症（特别是急性风湿热）的了解。回答此问题的关键是识别猩红热的经典体征和症状，包括发热、喉咙痛、特征性皮疹和草莓舌，然后回忆A组链球菌感染的潜在后遗症。\n\n要解决这个问题，请确定指向猩红热的关键发现。然后，回忆未经治疗或治疗不充分的A组链球菌感染的常见并发症，例如急性风湿热和肾小球肾炎。排除与猩红热无关或更具其他疾病特征的选项。"
+  },
+  "tags": "Scarlet fever; Group A Streptococcus; Acute rheumatic fever; Streptococcal pharyngitis; Pediatric infectious disease",
+  "category": "Micro",
+  "question_id": "8565",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\8565",
+  "extracted_at": "2025-11-05T15:06:19.634743",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:13:42.043815",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

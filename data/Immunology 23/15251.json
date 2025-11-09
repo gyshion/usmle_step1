@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old man comes to the urgent care clinic due to painful swelling in his left groin. The patient noticed the swelling 2 days ago, and it has progressively become more tender and painful. He has no chronic medical conditions, but he recently sustained a puncture wound to the sole of his left foot. Physical examination shows an enlarged, tender, and nonfluctuant left inguinal lymph node with erythematous overlying skin. There is a small puncture wound on the sole of the left foot, which expresses pus upon mild pressure.",
+    "zh": "一名24岁男性因左腹股沟疼痛性肿胀来到急诊诊所就诊。患者于2天前注意到肿胀，并且逐渐变得更加触痛和疼痛。他没有慢性病史，但他最近左脚底遭受了穿刺伤。体格检查显示左腹股沟淋巴结肿大、触痛且无波动，覆盖皮肤发红。左脚底有一个小的穿刺伤口，轻微按压时会流出脓液。"
+  },
+  "question": {
+    "en": "Which of the following histologic findings is most likely responsible for this patient's groin mass?",
+    "zh": "以下哪种组织学发现最有可能导致该患者的腹股沟肿块？"
+  },
+  "options": {
+    "A": {
+      "en": "Atypical B-cell proliferation",
+      "zh": "非典型 B 细胞增殖"
+    },
+    "B": {
+      "en": "Diffuse granulomatous reaction",
+      "zh": "弥漫性肉芽肿反应"
+    },
+    "C": {
+      "en": "Extensive lymph node necrosis",
+      "zh": "广泛的淋巴结坏死"
+    },
+    "D": {
+      "en": "Marked paracortical cell expansion",
+      "zh": "明显的副皮质细胞扩张"
+    },
+    "E": {
+      "en": "Formation of multiple germinal centers",
+      "zh": "多个生发中心形成"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient sustained a puncture wound and subsequently developed inflammatory lymphadenopathy in a draining lymph node, suggesting bacterial infection with lymphadenitis. Lymph nodes serve as sentinel sites for generation of the adaptive immune response. Large, unprocessed foreign antigens are displayed by follicular dendritic cells in the draining lymph node. B cells recognize, bind to, and process the large antigens into smaller peptides that can be displayed on major histocompatibility II receptors to naïve T cells. T cells subsequently differentiate into T-helper cells and secrete cytokines that promote the survival and proliferation of the antigen-specific B cells, leading to the generation of germinal centers.\n\nGerminal centers are the sites where B cells compete for survival based upon the ability to bind with high affinity to a foreign antigen. Within these regions, B cells rapidly proliferate and undergo somatic hypermutation (immunoglobulin mutation); this dramatically expands the B cell population capable of binding with high affinity to antigens from the infecting microorganism. Antigen-specific B cells eventually evolve into plasma cells that secrete high affinity antibodies against the invading pathogen.\n\nBecause the formation of germinal centers results in significant cellular recruitment, patients generally develop lymph node swelling (lymphadenopathy) in the draining lymph node. In addition, the release of large quantities of cytokines frequently causes pain and inflammation in that area.\n\n(Choice A) Atypical B-cell proliferation is seen in many forms of lymphoma. However, the lymphadenopathy is usually painless and not associated with erythema because B-cell proliferation without antigen stimulation is not associated with significant inflammatory cytokine release.\n\n(Choice B) Granulomatous lymphadenitis can be seen in noninfectious (eg, sarcoidosis) or infectious (eg, tularemia, catscratch disease, cryptococcal) diseases. This patient with a recent puncture wound in the foot and evidence of inflammatory lymphadenopathy in a draining lymph node is far more likely to have a typical bacterial infection than an atypical granulomatous infection.\n\n(Choice C) Necrotizing lymphadenitis (eg, buboes) in the groin can be caused by certain serovars of Chlamydia trachomatis. However, this infection is typically seen in tropical and subtropical regions and would not be associated with a recent foot puncture wound.\n\n(Choice D) T cells primarily reside in the lymph node paracortex. Paracortical hyperplasia is typically seen with infections primarily dependent on the cell-mediated response (eg, viral infection). Although the paracortical region might expand slightly in bacterial infections, lymphadenopathy is primarily driven by the formation of germinal centers.\n\nEducational objective:\nGerminal centers are the sites where activated B cells proliferate and undergo affinity maturation during generation of a humoral immune response. The formation of multiple germinal centers is typically marked by lymphadenopathy, pain, and inflammation in the affected lymph node due to cellular recruitment and the release of inflammatory cytokines.",
+    "zh": "该患者遭受了穿刺伤，随后在引流淋巴结中出现了炎症性淋巴结病，提示细菌感染伴淋巴结炎。淋巴结充当产生适应性免疫反应的哨点。大的、未处理的异物抗原由引流淋巴结中的滤泡树突细胞呈递。B 细胞识别、结合并将大抗原加工成较小的肽，这些肽可以呈递在主要组织相容性 II 类受体上，供初始 T 细胞识别。随后，T 细胞分化为辅助性 T 细胞，并分泌细胞因子，促进抗原特异性 B 细胞的存活和增殖，从而导致生发中心的产生。\n\n生发中心是 B 细胞根据与异物抗原高亲和力结合的能力竞争存活的场所。在这些区域内，B 细胞迅速增殖并进行体细胞高突变（免疫球蛋白突变）；这极大地扩展了能够与来自感染微生物的抗原高亲和力结合的 B 细胞群体。抗原特异性 B 细胞最终演变成浆细胞，分泌针对入侵病原体的高亲和力抗体。\n\n由于生发中心的形成导致显著的细胞募集，患者通常会在引流淋巴结中出现淋巴结肿胀（淋巴结病）。此外，大量细胞因子的释放经常导致该区域的疼痛和炎症。\n\n(选项 A) 非典型 B 细胞增殖可见于多种淋巴瘤。然而，淋巴结病通常无痛，并且不伴有红斑，因为没有抗原刺激的 B 细胞增殖与显著的炎症性细胞因子释放无关。\n\n(选项 B) 肉芽肿性淋巴结炎可见于非感染性（例如，结节病）或感染性（例如，兔热病、猫抓病、隐球菌病）疾病。这位患者最近脚部有穿刺伤口，并且有引流淋巴结中炎症性淋巴结病的证据，更可能发生典型的细菌感染，而不是非典型的肉芽肿性感染。\n\n(选项 C) 腹股沟坏死性淋巴结炎（例如，腹股沟腺肿）可由某些沙眼衣原体血清型引起。然而，这种感染通常发生在热带和亚热带地区，并且不会与最近的脚部穿刺伤口相关。\n\n(选项 D) T 细胞主要存在于淋巴结副皮质。副皮质增生通常见于主要依赖于细胞介导反应的感染（例如，病毒感染）。尽管在细菌感染中，副皮质区域可能会略微扩张，但淋巴结病主要由生发中心的形成驱动。\n\n教育目标：\n生发中心是激活的 B 细胞在产生体液免疫反应期间增殖并进行亲和力成熟的场所。由于细胞募集和炎症细胞因子的释放，多个生发中心的形成通常以受影响淋巴结的淋巴结病、疼痛和炎症为特征。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of lymphadenopathy in the setting of a bacterial infection, specifically the role of germinal centers in the adaptive immune response. It requires understanding of how B cells proliferate and undergo somatic hypermutation in response to antigens.\n\nTo solve this question, consider the patient's history of a puncture wound and the clinical findings of inflammatory lymphadenopathy. Recognize that bacterial infections typically lead to the formation of germinal centers in lymph nodes as part of the adaptive immune response.",
+    "zh": "这个问题测试了对细菌感染背景下淋巴结病的病理生理学的了解，特别是生发中心在适应性免疫反应中的作用。它需要理解 B 细胞如何增殖以及如何响应抗原进行体细胞高突变。\n\n要解决这个问题，请考虑患者的穿刺伤病史和炎症性淋巴结病的临床表现。认识到细菌感染通常会导致淋巴结中生发中心的形成，这是适应性免疫反应的一部分。"
+  },
+  "tags": "Lymphadenopathy; Bacterial infection; Germinal centers; Adaptive immune response; B cells; Inflammation; Immunology; Pathology",
+  "category": "Immunology",
+  "question_id": "15251",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\15251",
+  "extracted_at": "2025-11-05T14:40:35.249012",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:00:28.742725",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

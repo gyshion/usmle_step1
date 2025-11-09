@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 46-year-old man comes to the emergency department with chest pain that began 30 minutes ago. The patient describes the pain as a tight, squeezing sensation that radiates to the left arm. He also has increased sweating and nausea. ECG shows multi-lead ST-segment elevation, and cardiac troponin levels are high. The patient has a history of alcohol and cocaine abuse, but no history of cardiac disease. He undergoes emergency cardiac catheterization and is recovering appropriately in the postanesthetic care unit. The physician is approached by a distraught woman who says she is the patient's wife and asks about his condition. She says, \"I am so worried; please tell me if my husband is okay.\" Which of the following is the most appropriate course of action?",
+    "zh": "一名46岁男性来到急诊科，主诉30分钟前开始的胸痛。患者描述疼痛为紧绷、压迫感，放射至左臂。他还伴有出汗增多和恶心。心电图显示多导联ST段抬高，心肌肌钙蛋白水平升高。患者有饮酒和吸食可卡因史，但无心脏病史。他接受了紧急心脏导管插入术，目前正在麻醉后护理病房中适当恢复。一名情绪低落的女性走近医生，说她是患者的妻子，并询问他的情况。她说：“我很担心；请告诉我我的丈夫是否安好。” 以下哪项是最佳的行动方案？"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate course of action?",
+    "zh": "以下哪项是最佳的行动方案？"
+  },
+  "options": {
+    "A": {
+      "en": "Discuss the patient's medical information with the woman due to the seriousness of his condition",
+      "zh": "由于患者病情严重，与该女性讨论患者的医疗信息"
+    },
+    "B": {
+      "en": "Discuss the patient's status with the woman only if she has appropriate identification",
+      "zh": "仅当该女性出示适当身份证明时，才与她讨论患者的情况"
+    },
+    "C": {
+      "en": "Explain to the woman that no information can be disclosed without the patient's permission",
+      "zh": "向该女性解释说，未经患者许可，不得披露任何信息"
+    },
+    "D": {
+      "en": "Explain to the woman that the patient's status cannot be disclosed as there is no way to be sure she is his spouse",
+      "zh": "向该女性解释说，不能透露患者的情况，因为无法确定她是否是患者的配偶"
+    },
+    "E": {
+      "en": "Tell the woman that the patient is stable, but that further details will have to wait until the patient can give permission",
+      "zh": "告诉该女性患者情况稳定，但需要等待患者允许后才能透露更多细节"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "While this patient is undergoing emergency treatment for acute myocardial infarction, a woman who claims to be his wife arrives at the hospital and asks about his medical condition. The Health Insurance Portability and Accountability Act (HIPAA) is designed to protect patient privacy. This requires the patient's explicit consent (or lack of objection when given the opportunity) to share medical information with others, including family and friends.\n\nWhen the patient is incapacitated or is not present, basic information can be shared if, in the physician's professional judgment, doing so is in the patient's best interest. In this case, there is no way of knowing for sure whether informing this woman (whether she is his wife or not) is in the patient's best interest. However, the woman is distressed, and leaving her to worry for an extended period while the patient is recovering could cause the patient emotional harm if she is indeed family. The best approach to protect the patient's privacy is to explain that he is stable, but that further information (including general diagnostic and treatment information) cannot be shared until he is asked for and provides consent.\n\n(Choice A) This discussion would violate the patient's privacy.\n\n(Choices B and D) This patient has not given permission to release information to the presumed wife, even if she provides identification or marital status is confirmed. For instance, the patient could be undergoing a contentious divorce and not want any information released to his wife. HIPAA does not require proof of identity if the patient has given permission to share information.\n\n(Choice C) Providing minimal information that the patient is \"stable\" would be appropriate. This response protects the patient's privacy by not revealing the diagnosis or other medical details, but also limits emotional harm to the patient by informing those who are likely to be family about the patient's condition. If permission to share information is obtained later, the physician should ask the patient whether he prefers that potentially sensitive details be omitted (eg, if the myocardial infarction was due to cocaine use and the patient did not want this revealed).\n\nEducational objective:\nUnder the Health Insurance Portability and Accountability Act, physicians may disclose patient information to friends and family members in emergency situations or when the patient is otherwise incapacitated, depending on what is in the best interest of the patient. Otherwise, patient information may be disclosed only when the patient gives explicit permission or does not object when given a reasonable opportunity.",
+    "zh": "当该患者正在接受急性心肌梗死的紧急治疗时，一名自称是他妻子的女性来到医院，询问他的病情。《健康保险流通与责任法案》（HIPAA）旨在保护患者隐私。这需要患者明确同意（或在有机会时未提出异议），才能与他人（包括家人和朋友）分享医疗信息。\n\n当患者无行为能力或不在场时，如果医生专业判断认为这样做符合患者的最大利益，可以共享基本信息。在这种情况下，无法确定告知该女性（无论她是否是他的妻子）是否符合患者的最大利益。然而，该女性情绪低落，如果她确实是家属，让她在患者恢复期间长时间担心可能会给患者造成情感伤害。保护患者隐私的最佳方法是解释说他情况稳定，但在征得患者同意之前，不能分享更多信息（包括一般的诊断和治疗信息）。\n\n（选项A）这种讨论会侵犯患者的隐私。\n\n（选项B和D）即使该女性提供了身份证明或婚姻状况得到确认，该患者也未允许向其所谓的妻子披露信息。例如，患者可能正在经历有争议的离婚，并且不希望向他的妻子披露任何信息。如果患者已允许分享信息，HIPAA 不要求提供身份证明。\n\n（选项C）提供患者“情况稳定”的最低限度信息是合适的。这种回应保护了患者的隐私，没有透露诊断或其他医疗细节，但也通过告知可能与患者有亲属关系的人有关患者的病情，从而限制了对患者的情感伤害。如果稍后获得分享信息的许可，医生应询问患者是否希望省略潜在的敏感细节（例如，如果心肌梗死是由吸食可卡因引起的，并且患者不希望透露）。\n\n教育目标：\n根据《健康保险流通与责任法案》，医生可以在紧急情况下或患者无行为能力时向朋友和家人披露患者信息，这取决于是否符合患者的最大利益。否则，只有在患者明确许可或在有合理机会时未提出异议的情况下，才能披露患者信息。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of HIPAA regulations regarding patient privacy and information disclosure, especially in emergency situations when a patient is incapacitated. It assesses the ability to balance patient privacy with the need to provide information to concerned family members.\n\nThe best approach is to provide basic reassurance about the patient's stability while deferring detailed information until patient consent can be obtained. Avoid disclosing specific medical details without explicit permission, and consider the potential emotional impact on family members.",
+    "zh": "这个问题测试了对 HIPAA 法规的了解，这些法规涉及患者隐私和信息披露，尤其是在患者无行为能力的紧急情况下。它评估了在患者隐私与向关心的家庭成员提供信息的需求之间取得平衡的能力。\n\n最好的方法是在推迟详细信息的同时，对患者的稳定性提供基本的保证，直到可以获得患者的同意。避免在未经明确许可的情况下披露具体的医疗细节，并考虑对家庭成员的潜在情感影响。"
+  },
+  "tags": "HIPAA; Patient privacy; Medical ethics; Emergency medicine; Information disclosure",
+  "category": "Ethics",
+  "question_id": "784",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\784",
+  "extracted_at": "2025-11-05T14:21:26.705187",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:49:15.658246",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

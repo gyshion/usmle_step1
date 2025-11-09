@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old woman comes to the office due to a vulvar lesion. She has also experienced occasional headaches and memory loss recently. The patient has had unprotected sexual intercourse with multiple partners. Cardiovascular examination is notable for a diastolic murmur with a prominent second heart sound. There is a painless indurated nodule on her vulva. Cervical cultures are negative for gonorrhea, but a serum Venereal Disease Research Laboratory (VDRL) test is positive. Chest x-ray reveals calcifications at the level of the ascending aortic arch. Blood cultures are negative. Lumbar puncture shows mild pleocytosis and a positive VDRL result. HIV testing is negative.",
+    "zh": "一名35岁的女性因外阴病变前来就诊。她最近也偶尔出现头痛和记忆力减退。该患者曾与多个伴侣发生过无保护性行为。心血管检查显示舒张期杂音，伴有明显的第二心音。她的外阴上有一个无痛性硬结节。宫颈培养对淋病呈阴性，但血清梅毒血清学试验（VDRL）呈阳性。胸部X光片显示升主动脉弓水平有钙化。血培养呈阴性。腰椎穿刺显示轻度细胞增多和阳性VDRL结果。 HIV检测呈阴性。"
+  },
+  "question": {
+    "en": "Which of the following best describes this patient's vulvar lesion?",
+    "zh": "以下哪项最能描述该患者的外阴病变？"
+  },
+  "options": {
+    "A": {
+      "en": "Chancre",
+      "zh": "硬下疳"
+    },
+    "B": {
+      "en": "Condylomata acuminata",
+      "zh": "尖锐湿疣"
+    },
+    "C": {
+      "en": "Condylomata lata",
+      "zh": "扁平湿疣"
+    },
+    "D": {
+      "en": "Granuloma inguinale",
+      "zh": "腹股沟肉芽肿"
+    },
+    "E": {
+      "en": "Gumma",
+      "zh": "树胶肿"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient with neurosyphilis (headaches, memory loss, cerebrospinal fluid with Venereal Disease Research Laboratory positivity, pleocytosis) likely has cardiovascular syphilis (asymptomatic murmur with loud second heart sound [S2], ascending aortic arch calcification). She therefore has late (tertiary) syphilis, and her vulvar lesion is most likely a gumma. A chancre would be seen in primary syphilis (Choice A), and condylomata lata occur during secondary syphilis (Choice C).\n\nThe clinical presentation of syphilis occurs in well-defined stages:\n\n*   Primary syphilis manifests as a painless ulceration with raised, indurated borders. This chancre develops at the Treponema pallidum inoculation site (most commonly penis or vulva) 1-3 weeks after contact and resolves in 3-6 weeks. The organism commonly disseminates systemically during this stage.\n*   Secondary syphilis, a bacteremic stage that develops 5-10 weeks following chancre resolution, presents with a diffuse macular rash, as shown in the exhibit {{exhibit_1}}, encompassing the palms and soles. Condylomata lata, large gray wartlike growths typically appearing in the genital/perineal region, are another typical manifestation.\n*   Latent syphilis is an asymptomatic period divided into early latent (infection within past year) and late latent (infection >1 year ago).\n*   Late (tertiary) syphilis develops many years after infection in untreated individuals. Gummas are characteristic and often begin as painless, indurated granulomatous lesions that progress to white-gray rubbery lesions that may ulcerate. They are most commonly cutaneous but also appear in the subcutaneous tissue, bones, liver, and other organs. Tertiary syphilis can also manifest as cardiovascular involvement with ascending aortic aneurysms (with calcification seen on x-ray) and resultant aortic valve insufficiency (murmur, high-pitched tambour S2).\n\nNeurosyphilis, which may be asymptomatic or cause subacute meningoencephalitis, tabes dorsalis, or other neurologic sequelae, is a common manifestation of late syphilis but can occur at any stage.\n\n(Choice B) Condylomata acuminata are anogenital warts due to human papillomavirus (HPV), the causative agent of cervical cancer. Common strains associated with condylomata acuminata are HPV 6 and 11, which have low oncogenic potential.\n\n(Choice D) Patients with granuloma inguinale, a sexually transmitted disease caused by Klebsiella granulomatis (previously Calymmatobacterium granulomatis), can have inguinal swelling, ulcers, abscesses, and fistulas. Gram staining of the lesions reveals cells with rod-shaped intracytoplasmic inclusions (Donovan bodies).\n\nEducational objective:\nThe clinical presentation of tertiary syphilis includes cardiovascular involvement and gummas. Gummas are necrotizing granulomas occurring on the skin, mucosa, subcutaneous tissue, and bones and within other organs. Neurosyphilis can occur at any stage of infection.",
+    "zh": "该患者患有神经梅毒（头痛、记忆力减退、脑脊液梅毒血清学试验阳性、细胞增多），很可能患有心血管梅毒（无症状杂音伴响亮的第二心音[S2]，升主动脉弓钙化）。因此，她患有晚期（三期）梅毒，其外阴病变最有可能为树胶肿。硬下疳见于一期梅毒（选项 A），扁平湿疣发生于二期梅毒（选项 C）。\n\n梅毒的临床表现分为明确的阶段：\n\n*   一期梅毒表现为无痛性溃疡，边缘隆起、硬结。这种硬下疳发生在梅毒螺旋体接种部位（最常见的是阴茎或外阴），接触后1-3周出现，并在3-6周内消退。在该阶段，病原体通常会全身播散。\n*   二期梅毒，是一种菌血症期，在硬下疳消退后5-10周出现，表现为弥漫性斑疹，如展品 {{exhibit_1}} 所示，包括手掌和足底。扁平湿疣，大而灰色的疣状增生物，通常出现在生殖器/会阴区域，是另一种典型表现。\n*   潜伏期梅毒是一个无症状时期，分为早期潜伏期（过去一年内感染）和晚期潜伏期（>1年前感染）。\n*   晚期（三期）梅毒发生在未经治疗的个体感染多年后。树胶肿具有特征性，通常始于无痛性、硬结性肉芽肿性病变，进展为白色-灰色橡胶样病变，可能溃疡。它们最常见于皮肤，但也出现在皮下组织、骨骼、肝脏和其他器官。三期梅毒也可以表现为心血管受累，如升主动脉瘤（X光片可见钙化）和随之而来的主动脉瓣关闭不全（杂音、高音鼓膜S2）。\n\n神经梅毒，可能无症状或引起亚急性脑膜脑炎、脊髓痨或其他神经系统后遗症，是晚期梅毒的常见表现，但可在任何阶段发生。\n\n（选项 B）尖锐湿疣是人乳头瘤病毒（HPV）引起的肛门生殖器疣，是宫颈癌的病因。与尖锐湿疣相关的常见毒株是HPV 6型和11型，它们具有低致癌潜能。\n\n（选项 D）腹股沟肉芽肿患者，由肉芽肿性克雷伯菌（以前称为肉芽肿性钙粘膜杆菌）引起的性传播疾病，可出现腹股沟肿胀、溃疡、脓肿和瘘管。病变的革兰染色显示细胞内有杆状胞质内包涵体（多诺万小体）。\n\n教育目标：\n三期梅毒的临床表现包括心血管受累和树胶肿。树胶肿是发生在皮肤、粘膜、皮下组织、骨骼和其他器官内的坏死性肉芽肿。神经梅毒可发生在感染的任何阶段。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the clinical presentation of tertiary syphilis, including gummas and cardiovascular involvement, as well as neurosyphilis. It also requires differentiating tertiary syphilis from other vulvar lesions.\n\nTo solve this question, identify the key features of the patient's presentation, including the vulvar lesion, neurological symptoms, cardiovascular findings, and positive VDRL test. Consider the stages of syphilis and their associated manifestations to arrive at the correct diagnosis.",
+    "zh": "此题考察了三期梅毒的临床表现，包括树胶肿和心血管受累，以及神经梅毒。它还需要将三期梅毒与其他外阴病变区分开来。\n\n要解决这个问题，需要确定患者表现的关键特征，包括外阴病变、神经系统症状、心血管发现和阳性VDRL试验。 考虑梅毒的各个阶段及其相关表现，以得出正确的诊断。"
+  },
+  "tags": "Tertiary syphilis; Gumma; Neurosyphilis; Cardiovascular syphilis; VDRL; Sexually transmitted infections; Infectious diseases; Neurology; Cardiology",
+  "category": "Micro",
+  "question_id": "651",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\651",
+  "extracted_at": "2025-11-05T15:04:52.290269",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:12:41.549179",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

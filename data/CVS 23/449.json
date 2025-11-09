@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 42-year-old man is brought to the emergency department 1 hour after the onset of severe headache, nausea, vomiting, and confusion. The patient has primary hypertension and chronic kidney disease; he has been prescribed 2 antihypertensive agents but has been noncompliant with therapy recently. Temperature is 36.8 C (98.2 F), blood pressure is 240/150 mm Hg, heart rate is 90/min, and respirations are 20/min. Ophthalmologic examination shows bilateral papilledema. The lungs are clear to auscultation. Cardiac examination reveals an S4 and no murmurs. Laboratory results are as follows: {{exhibit_1}} Peripheral smear shows numerous schistocytes.",
+    "zh": "一名42岁男性因突发严重头痛、恶心、呕吐和意识模糊1小时后被送至急诊科。患者患有原发性高血压和慢性肾脏病；他已被处方2种降压药，但最近未按医嘱服药。体温为36.8°C (98.2°F)，血压为240/150 mmHg，心率为90次/分钟，呼吸频率为20次/分钟。眼科检查显示双侧视乳头水肿。肺部听诊清亮。心脏检查显示S4且无杂音。实验室检查结果如下：{{exhibit_1}} 外周血涂片显示大量裂细胞。"
+  },
+  "question": {
+    "en": "Which of the following pathologic findings in the kidney is most correlated with this patient's acute condition?",
+    "zh": "以下哪种肾脏病理学发现与该患者的急性病症最相关？"
+  },
+  "options": {
+    "A": {
+      "en": "Fibrinoid necrosis of small arteriolar walls",
+      "zh": "小动脉壁的纤维素样坏死"
+    },
+    "B": {
+      "en": "Focal glomerulosclerosis",
+      "zh": "局灶性肾小球硬化"
+    },
+    "C": {
+      "en": "Granulomatous inflammation of the media",
+      "zh": "中膜肉芽肿性炎症"
+    },
+    "D": {
+      "en": "Homogenous acellular thickening of arteriolar walls",
+      "zh": "动脉壁的均质无细胞增厚"
+    },
+    "E": {
+      "en": "Interstitial fibrosis and tubular atrophy",
+      "zh": "间质纤维化和肾小管萎缩"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Hypertensive emergency is severely elevated blood pressure (typically >180/120 mm Hg) with evidence of end-organ damage. In the kidneys, this can manifest as MALIGNANT NEPHROSCLEROSIS, characterized by fibrinoid necrosis and hyperplastic arteriolosclerosis (\"onion-skin\" appearance). A microangiopathic hemolytic anemia can occur due to erythrocyte fragmentation and platelet consumption at the narrowed arteriolar lumen.\n\nFibrinoid necrosis: Cell death and excessive fibrin deposition within the arteriolar walls is visible as circumferential, amorphous, pink material with smudged, necrotic endothelial cells that lack cytologic detail.\n\nHyperplastic arteriolosclerosis: Over time, activated platelets and injured endothelial cells release growth factors, which induce concentric hyperplasia and layering of smooth muscle cells and collagen, resulting in intimal thickening and an \"onion-skin\" appearance. These changes result in narrowing and/or obliteration of the arteriolar lumen; the resultant erythrocyte fragmentation and platelet consumption can cause a MICROANGIOPATHIC HEMOLYTIC ANEMIA that is histologically indistinguishable from hemolytic uremic syndrome. Laboratory abnormalities reflect renal injury (eg, elevated creatinine and blood urea nitrogen) and hemolytic anemia (eg, schistocytes [fragmented red blood cells] on peripheral smear, elevated lactate dehydrogenase and indirect bilirubin). Other end-organ manifestations of hypertensive emergency include papilledema, retinal hemorrhages, pulmonary edema, acute coronary syndrome, encephalopathy, and stroke.\n\n(Choices B, D, and E) Hypertensive nephrosclerosis (ie, long-term essential hypertension) is characterized by interstitial fibrosis, tubular atrophy, and varying degrees of glomerulosclerosis (eg, focal or global). Hyaline arteriolosclerosis is characterized by deposition of hyaline (glassy, homogenous) material in the intima and media of small arteries and arterioles. These changes may be seen in chronic hypertension; however, the severely elevated blood pressure and evidence of end-organ dysfunction in this patient are indicative of acute hypertensive emergency and malignant nephrosclerosis.\n\n(Choice C) Granulomatous inflammation of the media characterizes temporal (giant cell) arteritis, the most common form of systemic vasculitis in adults. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "高血压危象是指血压严重升高（通常>180/120 mmHg），并有靶器官损害的证据。在肾脏中，这可以表现为恶性肾硬化，其特征是纤维素样坏死和增生性小动脉硬化（“洋葱皮”外观）。由于红细胞在狭窄的动脉管腔内碎裂和血小板消耗，可能会发生微血管病性溶血性贫血。\n\n纤维素样坏死：动脉壁内的细胞死亡和过多的纤维蛋白沉积可见为周向、无定形、粉红色物质，具有模糊的、坏死的内皮细胞，缺乏细胞学细节。\n\n增生性小动脉硬化：随着时间的推移，活化的血小板和受损的内皮细胞释放生长因子，诱导平滑肌细胞和胶原蛋白的同心性增生和分层，导致内膜增厚和“洋葱皮”外观。这些变化导致小动脉管腔的狭窄和/或闭塞；由此产生的红细胞碎裂和血小板消耗可引起微血管病性溶血性贫血，其组织学上与溶血性尿毒症综合征无法区分。实验室异常反映肾损伤（例如，肌酐和血尿素氮升高）和溶血性贫血（例如，外周血涂片上的裂细胞[红细胞碎片]，乳酸脱氢酶和间接胆红素升高）。高血压危象的其他靶器官表现包括视乳头水肿、视网膜出血、肺水肿、急性冠脉综合征、脑病和中风。\n\n（选项B、D和E）高血压肾硬化（即长期原发性高血压）的特征是间质纤维化、肾小管萎缩和不同程度的肾小球硬化（例如，局灶性或弥漫性）。透明动脉硬化的特征是透明（玻璃样、均质）物质在小动脉和微动脉的内膜和中膜中的沉积。这些变化可能见于慢性高血压；然而，该患者的血压严重升高和靶器官功能障碍的证据表明存在急性高血压危象和恶性肾硬化。\n\n（选项C）中膜肉芽肿性炎症是颞动脉（巨细胞）动脉炎的特征，颞动脉（巨细胞）动脉炎是成人中最常见的全身性血管炎形式。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hypertensive emergency and its renal manifestations, specifically malignant nephrosclerosis. It requires recognizing the clinical presentation of hypertensive emergency and correlating it with the expected pathological findings in the kidney.\n\nThe best approach is to identify the key features of hypertensive emergency (severely elevated blood pressure, end-organ damage) and then select the pathological finding most consistent with this condition. Rule out options associated with chronic hypertension or other vasculitides.",
+    "zh": "此题考察对高血压危象及其肾脏表现（特别是恶性肾硬化）的知识。它需要识别高血压危象的临床表现，并将其与肾脏中预期的病理发现相关联。\n\n最好的方法是确定高血压危象的关键特征（血压严重升高、靶器官损害），然后选择与这种情况最一致的病理发现。排除与慢性高血压或其他血管炎相关的选项。"
+  },
+  "tags": "Hypertensive emergency; Malignant nephrosclerosis; Fibrinoid necrosis; Microangiopathic hemolytic anemia; Renal pathology; Hypertension; Nephrology; Emergency medicine",
+  "category": "CVS",
+  "question_id": "449",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\449",
+  "extracted_at": "2025-11-05T12:14:26.318473",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:30:07.496251",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

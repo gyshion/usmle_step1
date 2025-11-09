@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 1-day-old infant in the newborn nursery is found to have a harsh, holosystolic murmur on physical examination. The neonate was born at 39 weeks gestation to a 36-year-old woman who opted to defer prenatal screening. Review of medical records shows no family history of genetic or chromosomal disorders. The infant's vital signs are appropriate for his age. The rest of the physical examination shows a flat facial profile, protruding tongue, and small ears.",
+    "zh": "一名在新生儿病房的 1 天大婴儿在体格检查中被发现有粗糙的全收缩期杂音。该新生儿由一名 36 岁的妇女在妊娠 39 周时分娩，该妇女选择推迟产前筛查。回顾病历显示没有遗传或染色体疾病的家族史。婴儿的生命体征与其年龄相符。其余体格检查显示面部扁平，舌头突出，耳朵小。"
+  },
+  "question": {
+    "en": "Which of the following most likely occurred prior to conception?",
+    "zh": "以下哪项最有可能发生在受孕之前？"
+  },
+  "options": {
+    "A": {
+      "en": "Chromosomal deletion",
+      "zh": "染色体缺失"
+    },
+    "B": {
+      "en": "Chromosomal translocation",
+      "zh": "染色体易位"
+    },
+    "C": {
+      "en": "Gene inactivation",
+      "zh": "基因失活"
+    },
+    "D": {
+      "en": "Meiotic nondisjunction",
+      "zh": "减数分裂不分离"
+    },
+    "E": {
+      "en": "Trinucleotide repeat expansion",
+      "zh": "三核苷酸重复序列扩增"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "During normal meiosis, homologous chromosomes separate to pass on individual chromatids to daughter cells. In meiotic nondisjunction {{exhibit_1}}, the chromosomes fail to separate, allowing one or more daughter cells to pass on with an extra copy of a chromosome. Increasing maternal age, particularly age ≥35, is associated with an elevated risk of nondisjunction that is likely due to cumulative oxidative stress, depletion of available mature oocytes, and shortening of oocyte telomeres. From highest to lowest prevalence, the most common consequences of maternal nondisjunction are trisomies 21 (Down syndrome), 18 (Edwards syndrome), and 13 (Patau syndrome).\n\nLess than 5% of Down syndrome cases are caused by a Robertsonian translocation (Choice B), which results from a break near the centromeres of 2 chromosomes (eg, chromosomes 14 and 21) and subsequent transfer of genetic material between these chromosomes. This translocation results in 46 chromosomes in the fetus with 3 effective copies of chromosome 21.\n\nClassic features of Down syndrome include a flat facial profile, epicanthal folds, upslanting palpebral fissures, protruding tongue, and small ears. Congenital heart defects (eg, complete atrioventricular defect, ventricular or atrial septal defect) are seen in 50% of patients.\n\n(Choice A) Chromosomal deletions are associated with cri-du-chat syndrome (5p deletion), DiGeorge syndrome (22q11 microdeletion), and Prader-Willi syndrome (15q deletion). Deletions are not associated with increased maternal age.\n\n(Choice C) Imprinting is the selective inactivation of a maternal or paternal allele. When a selectively expressed allele is abnormal (eg, gene deletion), conditions such as Prader-Willi syndrome (maternal inactivation/paternal deletion) or Angelman syndrome (paternal inactivation/maternal deletion) can result.\n\n(Choice E) Trinucleotide repeat expansions within DNA can dysregulate protein production, causing disorders such as Huntington disease, myotonic dystrophy, and fragile X syndrome.\n\nEducational objective:\nDown syndrome is most commonly caused by maternal meiotic nondisjunction, a process by which the fetus receives 3 full copies of chromosome 21. Dysmorphic features (eg, flat facial profile, protruding tongue, small ears, upslanting palpebral fissures) and cardiac defects (eg, endocardial cushion defects) are characteristic.",
+    "zh": "在正常的减数分裂过程中，同源染色体分离，将单个染色单体传递给子细胞。在减数分裂不分离中 {{exhibit_1}}，染色体未能分离，导致一个或多个子细胞传递了额外的染色体拷贝。增加的母亲年龄，特别是年龄 ≥35 岁，与不分离的风险增加相关，这可能与累积的氧化应激、可用的成熟卵母细胞耗竭和卵母细胞端粒缩短有关。从最高到最低的发病率，母体不分离最常见的后果是 21 三体综合征（唐氏综合征）、18 三体综合征（爱德华兹综合征）和 13 三体综合征（帕陶氏综合征）。\n\n少于 5% 的唐氏综合征病例是由罗伯逊易位引起的（选项 B），罗伯逊易位是由 2 条染色体（例如，14 号和 21 号染色体）的着丝粒附近断裂，随后这些染色体之间遗传物质的转移引起的。这种易位导致胎儿有 46 条染色体，其中 21 号染色体有 3 个有效拷贝。\n\n唐氏综合征的典型特征包括面部扁平、内眦赘皮、睑裂向上倾斜、舌头突出和小耳朵。先天性心脏缺陷（例如，完全性房室缺损、室间隔或房间隔缺损）见于 50% 的患者。\n\n（选项 A）染色体缺失与猫叫综合征（5p 缺失）、DiGeorge 综合征（22q11 微缺失）和 Prader-Willi 综合征（15q 缺失）相关。缺失与母亲年龄增加无关。\n\n（选项 C）印记是母体或父系等位基因的选择性失活。当选择性表达的等位基因异常（例如，基因缺失）时，可能会导致 Prader-Willi 综合征（母体失活/父系缺失）或 Angelman 综合征（父系失活/母体缺失）等疾病。\n\n（选项 E）DNA 内的三核苷酸重复序列扩增可失调蛋白质的产生，导致亨廷顿舞蹈病、肌强直性营养不良和脆性 X 综合征等疾病。\n\n教育目标：\n唐氏综合征最常由母体减数分裂不分离引起，这是一个胎儿获得 3 个完整的 21 号染色体拷贝的过程。畸形特征（例如，面部扁平、舌头突出、小耳朵、睑裂向上倾斜）和心脏缺陷（例如，心内膜垫缺损）是其特征。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the genetic basis of Down syndrome, specifically the role of meiotic nondisjunction and its association with advanced maternal age. It also requires differentiating Down syndrome from other genetic disorders with overlapping features.\n\nThe key to solving this question is recognizing the classic features of Down syndrome (flat facial profile, protruding tongue) and linking them to the most common underlying genetic mechanism, which is meiotic nondisjunction. Understanding the association with maternal age is also crucial.",
+    "zh": "此题考察对唐氏综合征遗传学基础的了解，特别是减数分裂不分离的作用及其与高龄孕产妇的关系。它还需要将唐氏综合征与其他具有重叠特征的遗传疾病区分开来。\n\n解决此题的关键是识别唐氏综合征的典型特征（面部扁平、舌头突出）并将其与最常见的潜在遗传机制（即减数分裂不分离）联系起来。了解与母亲年龄的关系也很关键。"
+  },
+  "tags": "Down syndrome; Meiotic nondisjunction; Chromosomal abnormalities; Genetics; Maternal age",
+  "question_image": "{{exhibit_2}}",
+  "answer_image": "{{exhibit_3}}",
+  "category": "CVS",
+  "question_id": "882",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\882",
+  "extracted_at": "2025-11-05T12:18:09.792933",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:32:12.720475",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

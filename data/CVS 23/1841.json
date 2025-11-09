@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 44-year-old man comes to the office for a routine check-up. Past medical history is significant for hypercholesterolemia, which he has controlled through diet. His father died of a myocardial infarction at age 56, and his mother, who is still living, has a history of stroke. On physical examination, the patient's blood pressure is 160/100 mm Hg and heart rate is 70/min. He is started on enalapril. During the first 7 days of therapy, the patient's glomerular filtration rate (GFR) adjusts as shown in the graph below {{exhibit_1}}.",
+    "zh": "一名44岁男性前来就诊进行例行检查。既往病史提示高胆固醇血症，通过饮食控制。他的父亲在56岁时死于心肌梗死，他仍在世的母亲有中风病史。体格检查显示，患者的血压为160/100 mmHg，心率为70次/分钟。他开始服用依那普利。在治疗的最初7天内，患者的肾小球滤过率 (GFR) 调整情况如下图{{exhibit_1}}所示。"
+  },
+  "question": {
+    "en": "Which of the following structures was most likely affected by a downstream effect of enalapril and is therefore responsible for this patient's renal response?",
+    "zh": "以下哪种结构最有可能受到依那普利下游效应的影响，因此是导致该患者肾脏反应的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Afferent arterioles",
+      "zh": "入球小动脉"
+    },
+    "B": {
+      "en": "Distal tubules",
+      "zh": "远曲小管"
+    },
+    "C": {
+      "en": "Efferent arterioles",
+      "zh": "出球小动脉"
+    },
+    "D": {
+      "en": "Proximal tubules",
+      "zh": "近曲小管"
+    },
+    "E": {
+      "en": "Vasa recta",
+      "zh": "直血管"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Enalapril is an angiotensin-converting-enzyme (ACE) inhibitor. All ACE inhibitors decrease circulating levels of angiotensin II, a substance that causes the following:\n\n*   Systemic vasoconstriction\n*   Preferential constriction of the glomerular efferent arteriole\n*   Enhancement of adrenal aldosterone secretion\n\nAs a result, reduced angiotensin II production in patients taking an ACE inhibitor would be expected to acutely decrease efferent arteriolar resistance and systemic vascular resistance. Selective efferent arteriolar dilation combined with the decreased renal perfusion pressure causes a reduction in glomerular filtration rate.\n\nEducational objective:\n\nIn the kidney, angiotensin II preferentially constricts the efferent arteriole, thereby maintaining the glomerular filtration rate (GFR) within normal range. ACE-inhibitors promote efferent arteriolar dilation, causing GFR reduction.",
+    "zh": "依那普利是一种血管紧张素转换酶 (ACE) 抑制剂。所有ACE抑制剂都会降低循环中的血管紧张素II水平，这是一种会导致以下情况的物质：\n\n*   全身血管收缩\n*   优先收缩肾小球出球小动脉\n*   增强肾上腺醛固酮分泌\n\n因此，服用ACE抑制剂的患者，血管紧张素II的产生减少，预计会急性降低出球小动脉阻力和全身血管阻力。选择性出球小动脉扩张，加上肾脏灌注压降低，会导致肾小球滤过率降低。\n\n教育目标：\n\n在肾脏中，血管紧张素II优先收缩出球小动脉，从而将肾小球滤过率 (GFR) 维持在正常范围内。ACE抑制剂促进出球小动脉扩张，导致GFR降低。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the mechanism of action of ACE inhibitors, specifically enalapril, on the glomerular filtration rate (GFR) and the role of angiotensin II in regulating efferent arteriolar tone. It requires knowledge of renal physiology and the renin-angiotensin-aldosterone system.\n\nThe approach to solving this question involves recognizing that enalapril inhibits ACE, leading to decreased angiotensin II levels. Angiotensin II normally constricts the efferent arteriole, so its reduction causes dilation, decreasing GFR. Therefore, the efferent arteriole is the primary structure affected.",
+    "zh": "这道题考察了对ACE抑制剂（特别是依那普利）对肾小球滤过率 (GFR) 作用机制的理解，以及血管紧张素II在调节出球小动脉张力中的作用。这需要了解肾脏生理学和肾素-血管紧张素-醛固酮系统。\n\n解决这道题的方法包括认识到依那普利抑制ACE，导致血管紧张素II水平降低。血管紧张素II通常会收缩出球小动脉，因此其减少会导致扩张，从而降低GFR。因此，出球小动脉是主要受影响的结构。"
+  },
+  "tags": "Enalapril; ACE inhibitors; Glomerular filtration rate; Efferent arteriole; Angiotensin II; Renal physiology; Hypertension; Cardiovascular system; Pharmacology",
+  "category": "CVS",
+  "question_id": "1841",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1841",
+  "extracted_at": "2025-11-05T12:03:01.900961",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:52:55.846472",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

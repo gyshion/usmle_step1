@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "An 8-year-old boy returns to the emergency department due to a pruritic rash that began 30 minutes ago. Earlier in the day, he was diagnosed with acute tonsillopharyngitis and oral amoxicillin was prescribed. The patient has no known drug allergies and had received penicillin on one previous occasion. Vital signs are within normal limits. Physical examination shows urticaria on the extremities and torso. There is faint bilateral wheezing. Which of the following factors was most essential for the current adverse reaction to occur in this patient?",
+    "zh": "一名 8 岁男孩因瘙痒性皮疹返回急诊科，皮疹于 30 分钟前开始出现。当天早些时候，他被诊断患有急性扁桃体咽炎，并开了口服阿莫西林。患者无已知药物过敏史，既往曾接受过一次青霉素治疗。生命体征在正常范围内。体格检查显示四肢和躯干出现荨麻疹。有轻微的双侧哮鸣音。以下哪项因素对于该患者目前发生不良反应最为重要？"
+  },
+  "question": {
+    "en": "Which of the following factors was most essential for the current adverse reaction to occur in this patient?",
+    "zh": "以下哪项因素对于该患者目前发生不良反应最为重要？"
+  },
+  "options": {
+    "A": {
+      "en": "Drug interaction with another concomitantly taken medication",
+      "zh": "与其他同时服用的药物发生相互作用"
+    },
+    "B": {
+      "en": "Extensive cytokine activation due to lysed bacteria",
+      "zh": "由于细菌裂解引起的广泛细胞因子激活"
+    },
+    "C": {
+      "en": "Formation of hapten-carrier protein combination antigens",
+      "zh": "半抗原-载体蛋白结合物抗原的形成"
+    },
+    "D": {
+      "en": "Non-IgE-mediated spontaneous mast cell degranulation",
+      "zh": "非 IgE 介导的自发肥大细胞脱颗粒"
+    },
+    "E": {
+      "en": "Reaction of ultraviolet light with drug deposited in the skin",
+      "zh": "紫外线与沉积在皮肤中的药物发生反应"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The patient presents with symptoms of an acute hypersensitivity reaction (urticaria and wheezing) shortly after taking amoxicillin. He has a history of receiving penicillin previously without issue. This scenario is highly suggestive of a TYPE 1 HYPERSENSITIVITY reaction to a beta-lactam antibiotic. Beta-lactam antibiotics, like penicillin and amoxicillin, are small molecules that are too small to elicit an immune response on their own. However, they can act as HAPTENS, binding to endogenous carrier proteins (like albumin or skin proteins) to form HAPTEN-CARRIER PROTEIN CONJUGATES. These conjugates are then recognized as foreign antigens by the immune system, initiating an IMMUNOLOGIC RESPONSE. This process involves a SENSITIZATION PHASE upon initial exposure (in this case, likely to penicillin), where specific IgE antibodies are produced. Upon subsequent exposure to the same or a similar beta-lactam antibiotic (amoxicillin), these IgE antibodies bind to mast cells and basophils. This cross-linking triggers the release of histamine and other inflammatory mediators, leading to the rapid onset of allergic symptoms such as urticaria, angioedema, bronchoconstriction (wheezing), and potentially anaphylaxis. Therefore, the formation of hapten-carrier protein combination antigens is the most essential factor for this type of adverse reaction to occur.\n\n(Choice A) Drug interactions can cause adverse effects, but they typically involve altered pharmacokinetics or pharmacodynamics, leading to toxicity or reduced efficacy. While amoxicillin can have interactions (e.g., with probenecid affecting renal clearance), this is not the primary mechanism for an acute urticarial and wheezing reaction suggestive of hypersensitivity.\n\n(Choice B) Extensive cytokine activation due to lysed bacteria is characteristic of certain infections (e.g., toxic shock syndrome) or inflammatory processes, but it is not the direct mechanism for a drug-induced hypersensitivity reaction like this.\n\n(Choice D) Non-IgE-mediated reactions can occur with drugs, such as pseudoallergic reactions (e.g., vancomycin flushing) or certain cytotoxic reactions. However, the presentation of urticaria and wheezing shortly after re-exposure to a beta-lactam antibiotic strongly points towards an IgE-mediated type 1 hypersensitivity, not a spontaneous mast cell degranulation independent of IgE.\n\n(Choice E) Photosensitivity reactions occur when a drug interacts with ultraviolet light, causing skin damage that mimics sunburn. Doxycycline is a common example. Amoxicillin is not typically associated with photosensitivity.\n\nKey clinical pearls: Beta-lactam antibiotics are common causes of IgE-mediated hypersensitivity. The mechanism involves hapten formation. Previous exposure is necessary for sensitization.",
+    "zh": "患者在服用阿莫西林后不久出现急性超敏反应的症状（荨麻疹和哮鸣音）。他既往曾接受过青霉素治疗，未出现问题。这种情况高度提示对 β-内酰胺类抗生素的 1 型超敏反应。β-内酰胺类抗生素，如青霉素和阿莫西林，是小分子，本身太小，无法引起免疫反应。然而，它们可以充当半抗原，与内源性载体蛋白（如白蛋白或皮肤蛋白）结合，形成半抗原-载体蛋白结合物。这些结合物随后被免疫系统识别为外来抗原，从而引发免疫反应。此过程涉及最初暴露时的敏化阶段（在这种情况下，很可能是青霉素），在该阶段会产生特异性 IgE 抗体。在随后暴露于相同或相似的 β-内酰胺类抗生素（阿莫西林）后，这些 IgE 抗体与肥大细胞和嗜碱性粒细胞结合。这种交联会触发组胺和其他炎症介质的释放，导致快速出现过敏症状，如荨麻疹、血管性水肿、支气管收缩（哮鸣音）以及潜在的过敏性休克。因此，半抗原-载体蛋白结合物抗原的形成是发生此类不良反应的最重要因素。\n\n（选项 A）药物相互作用可引起不良反应，但通常涉及药代动力学或药效学的改变，从而导致毒性或疗效降低。虽然阿莫西林可能存在相互作用（例如，丙磺舒会影响肾脏清除率），但这并不是提示超敏反应的急性荨麻疹和哮鸣音反应的主要机制。\n\n（选项 B）由于细菌裂解引起的广泛细胞因子激活是某些感染（例如，中毒性休克综合征）或炎症过程的特征，但它不是此类药物引起的超敏反应的直接机制。\n\n（选项 D）非 IgE 介导的反应可发生在药物中，例如假性过敏反应（例如，万古霉素潮红）或某些细胞毒性反应。然而，在再次接触 β-内酰胺类抗生素后不久出现荨麻疹和哮鸣音，强烈提示 IgE 介导的 1 型超敏反应，而不是独立于 IgE 的自发性肥大细胞脱颗粒。\n\n（选项 E）当药物与紫外线相互作用时，会发生光敏反应，导致皮肤损伤，类似于晒伤。多西环素是一个常见的例子。阿莫西林通常与光敏性无关。\n\n关键临床要点：β-内酰胺类抗生素是 IgE 介导的超敏反应的常见原因。其机制涉及半抗原的形成。先前暴露是发生敏化所必需的。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of drug hypersensitivity reactions, specifically type 1 hypersensitivity mediated by IgE antibodies, and the mechanism by which beta-lactam antibiotics can trigger such reactions.\n\nTo solve this question, identify the clinical presentation as an acute allergic reaction to a drug. Recall the mechanism of drug allergies, particularly the role of haptens and carrier proteins in forming immunogenic antigens, and differentiate this from other types of adverse drug reactions.",
+    "zh": "本题考察对药物超敏反应的理解，特别是 IgE 抗体介导的 1 型超敏反应，以及 β-内酰胺类抗生素触发此类反应的机制。\n\n要解决这个问题，需要将临床表现确定为对药物的急性过敏反应。回忆药物过敏的机制，特别是半抗原和载体蛋白在形成免疫原性抗原中的作用，并将此与其他类型的不良药物反应区分开来。"
+  },
+  "tags": "Drug hypersensitivity; Type 1 hypersensitivity; IgE-mediated allergy; Beta-lactam antibiotics; Amoxicillin; Penicillin; Hapten; Carrier protein; Urticaria; Wheezing; Pharmacology; Immunology",
+  "category": "Pharma",
+  "question_id": "18641",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\18641",
+  "extracted_at": "2025-11-05T19:45:27.645486",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:47:40.783055",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

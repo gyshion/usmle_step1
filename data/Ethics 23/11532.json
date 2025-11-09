@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 46-year-old man is hospitalized with diabetic ketoacidosis. He is administered intravenous fluids and an insulin drip, and laboratory testing is ordered. In the morning, the on-call physician hands off the patient to the day shift physician, who arrives an hour late due to an emergency at his nighttime moonlighting job. The handoff information includes the status of the patient and instructions to check electrolytes and calculate his anion gap. The physician performs inpatient rounds and then sees his usual clinic outpatients in the afternoon, but he neglects to check the patient's anion gap. The patient subsequently develops worsening acidosis requiring intubation for respiratory distress. Which of the following is the most likely cause of this adverse outcome?",
+    "zh": "一名46岁男性因糖尿病酮症酸中毒住院。给他静脉输液和静脉滴注胰岛素，并医嘱进行实验室检查。早上，值班医生将患者交班给白班医生，由于他夜班兼职工作有紧急情况，迟到了一小时。交班信息包括患者的病情以及检查电解质并计算其阴离子间隙的指示。医生进行了住院病房查房，然后在下午接诊他通常的门诊病人，但他忽略了检查患者的阴离子间隙。随后，患者出现酸中毒恶化，需要插管以缓解呼吸窘迫。以下哪项最可能是这种不良后果的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this adverse outcome?",
+    "zh": "以下哪项最可能是这种不良后果的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Deficiency of knowledge",
+      "zh": "知识不足"
+    },
+    "B": {
+      "en": "Excessive patient caseload",
+      "zh": "患者负荷过重"
+    },
+    "C": {
+      "en": "Inadequate patient handoff",
+      "zh": "患者交接不充分"
+    },
+    "D": {
+      "en": "Judgment error",
+      "zh": "判断错误"
+    },
+    "E": {
+      "en": "Physician burnout",
+      "zh": "医生倦怠"
+    },
+    "F": {
+      "en": "Physician fatigue",
+      "zh": "医生疲劳"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "Sleep deprivation is common among physicians and can have a profound effect on patient safety. Sleep science has demonstrated \"dose-dependent\" effects of sleep deprivation on physician cognitive performance and risk of medical errors. Impairments in cognitive performance and motor skills typically manifest after 17 hours of wakefulness and are comparable to those seen in an alcohol-intoxicated individual. Although the Accreditation Council for Graduate Medical Education has mandated limitations on resident work hours in response to patient safety concerns, extended work hours of attending physicians are unregulated. Physicians typically do a poor job of self-regulating their workload, often underestimate their cumulative sleep debt, and minimize its impact on their clinical skills. In this scenario, the physician has been working continuously for more than 24 hours; fatigue is the most likely contributor to his forgetting to check the patient's anion gap, which resulted in the adverse outcome.\n\n(Choices A, B, and D) There is no evidence that the physician lacks knowledge, had an excessive patient caseload, or committed an error in judgment.\n\n(Choice C) Inadequate patient handoffs carry a high risk of medical errors. Optimal patient handoffs should include a checklist of tasks and clinical status for each patient, as occurred in this case.\n\n(Choice E) Physician burnout refers to a state of emotional exhaustion, cynicism, depersonalization, and decreased sense of personal accomplishment that can result in suboptimal patient care and medical errors. Although sleep deprivation may contribute to burnout, there is no evidence that this physician's error was secondary to burnout, which often involves errors resulting from lack of concern or callousness toward patients rather than forgetfulness.",
+    "zh": "医生中睡眠不足很常见，并且会对患者安全产生深远的影响。睡眠科学已经证明睡眠不足对医生认知能力和医疗错误风险具有“剂量依赖性”影响。认知能力和运动技能的损害通常在清醒17小时后出现，与酒精中毒个体的情况相当。尽管研究生医学教育认证委员会已响应患者安全方面的担忧，强制限制住院医师的工作时间，但对于主治医师的延长工作时间并没有进行规范。医生通常不擅长自我调节工作量，经常低估其累积的睡眠债务，并最小化其对临床技能的影响。在这种情况下，医生已经连续工作超过24小时；疲劳最有可能导致他忘记检查患者的阴离子间隙，从而导致不良后果。\n\n（选项A、B和D）没有证据表明医生缺乏知识、患者负荷过重或犯了判断错误。\n\n（选项C）患者交接不充分会带来很高的医疗错误风险。最佳的患者交接应包括每个患者的任务和临床状态的清单，正如本案例中所发生的那样。\n\n（选项E）医生倦怠是指一种情绪耗竭、玩世不恭、人格解体和个人成就感下降的状态，这可能导致患者护理不佳和医疗错误。虽然睡眠不足可能导致倦怠，但没有证据表明该医生的错误是继发于倦怠，倦怠通常涉及由于缺乏对患者的关心或冷漠而导致的错误，而不是健忘。"
+  },
+  "summary": {
+    "en": "This question tests the impact of physician fatigue on patient safety and the importance of self-regulation of workload, especially in the context of extended work hours.\n\nThe key to solving this question is recognizing the scenario describes a physician working continuously for over 24 hours, making fatigue the most likely cause of the error, rather than other factors like lack of knowledge or burnout.",
+    "zh": "这个问题考察了医生疲劳对患者安全的影响，以及工作量自我调节的重要性，特别是在长时间工作的情况下。\n\n解决这个问题的关键是认识到该情景描述了一位医生连续工作超过24小时，这使得疲劳成为错误最可能的原因，而不是其他因素，如知识不足或倦怠。"
+  },
+  "tags": "Physician fatigue; Patient safety; Medical errors; Sleep deprivation; Workload management; Diabetic ketoacidosis; Anion gap; Handoff; Medical education",
+  "category": "Ethics",
+  "question_id": "11532",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\11532",
+  "extracted_at": "2025-11-05T14:17:10.851520",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:46:48.667910",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

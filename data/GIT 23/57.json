@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 57-year-old man comes to the office due to anorexia, a 4.5 kg (9.9 lb) weight loss, and generalized weakness. Other medical conditions include psoriasis and cervical spondylosis. Two years ago, the patient emigrated from Taiwan, where he worked for many years on a maize (corn) farm. He does not use tobacco, alcohol, or recreational drugs. Vital signs are within normal limits. BMI is 23 kg/m². The patient appears cachectic. Examination shows a mass in the liver. There is no splenomegaly or ascites. Laboratory results are as follows: \n\nTotal bilirubin 1.8 mg/dL\nAlanine aminotransferase (SGPT) 70 U/L\nAspartate aminotransferase (SGOT) 105 U/L\nAlkaline phosphatase 280 U/L\nAnti–hepatitis C virus antibodies negative\nHepatitis B surface antigen negative\nAntibody to hepatitis B core antigen negative\nAntibody to hepatitis B surface antigen positive\n\nAbdominal ultrasound shows a 6-cm mass in the right lobe of the liver; the remainder of the liver appears normal. Biopsy of the mass shows plates of abnormal cells that are smaller than normal hepatocytes with a high nuclear/cytoplasmic ratio and nuclear pleomorphism.",
+    "zh": "一名57岁的男性因食欲不振、体重减轻4.5公斤（9.9磅）和全身乏力来就诊。其他疾病包括银屑病和颈椎病。两年前，该患者从台湾移民，在那里他在一个玉米农场工作多年。他不吸烟、不饮酒，也不吸食娱乐性药物。生命体征在正常范围内。BMI为23 kg/m²。患者看起来恶病质。检查显示肝脏有一个肿块。无脾肿大或腹水。实验室检查结果如下：\n\n总胆红素1.8 mg/dL\n丙氨酸转氨酶（SGPT）70 U/L\n天冬氨酸转氨酶（SGOT）105 U/L\n碱性磷酸酶280 U/L\n抗丙型肝炎病毒抗体阴性\n乙型肝炎表面抗原阴性\n抗乙型肝炎核心抗原抗体阴性\n乙型肝炎表面抗原抗体阳性\n\n腹部超声显示肝右叶有一个6厘米的肿块；肝脏的其余部分看起来正常。肿块活检显示异常细胞板，这些细胞比正常肝细胞小，具有高的核/细胞质比和核多形性。"
+  },
+  "question": {
+    "en": "Which of the following is most likely responsible for this patient's current condition?",
+    "zh": "以下哪项最有可能导致该患者目前的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Chronic hepatitis B infection",
+      "zh": "慢性乙型肝炎感染"
+    },
+    "B": {
+      "en": "Exposure to vinyl chloride",
+      "zh": "接触氯乙烯"
+    },
+    "C": {
+      "en": "Ingestion of aflatoxin",
+      "zh": "摄入黄曲霉毒素"
+    },
+    "D": {
+      "en": "Liver fluke infection",
+      "zh": "肝吸虫感染"
+    },
+    "E": {
+      "en": "Nonalcoholic fatty liver disease",
+      "zh": "非酒精性脂肪肝病"
+    },
+    "F": {
+      "en": "Psoriasis",
+      "zh": "银屑病"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with weight loss, weakness, and abnormal laboratory studies (eg, hyperbilirubinemia, elevated liver enzymes) has a liver mass with histopathologic features of HEPATOCELLULAR CARCINOMA (HCC). Common risk factors include viral hepatitis, alcohol use, congenital metabolic disorders, and environmental toxins. Given this patient's former job on a corn farm, AFLATOXIN B1 exposure likely contributed to tumor development.\n\nAflatoxin B1 is a carcinogenic metabolite produced as a by-product by certain strains of Aspergillus that contaminate grains and nuts (eg, corn, peanuts), particularly in hot, humid environments (eg, Southeast Asia, sub-Saharan Africa). Ingestion contributes to pathogenesis by inducing specific mutations in p53 that impair the protein's tumor-suppressor function, leading to unregulated hepatocyte proliferation and accumulation of further genetic abnormalities. In addition, chronic exposure can act with other risk factors (eg, hepatitis B virus [HBV] infection) to significantly increase the risk for HCC.\n\nPatients with HCC are often asymptomatic or have mild abdominal pain with nonspecific symptoms (eg, weight loss, malaise). Those with underlying chronic liver disease may show signs of worsening cirrhosis (eg, ascites, variceal bleeding). Microscopically, HCC typically shows thickened plates of MALIGNANT HEPATOCYTES that resemble normal hepatocytes but are often smaller and have variable CYTOLOGIC ATYPIA (eg, pleomorphism, high nuclear/cytoplasmic ratio).\n\n(Choice A) Chronic HBV infection is a common risk factor for HCC, but this patient's serology studies are consistent with prior vaccination, not chronic infection.\n\n(Choice B) Vinyl chloride exposure is a risk factor for hepatic angiosarcoma, a malignant vascular tumor. Weight loss and weakness may occur, but histopathology typically shows infiltrative vascular structures lined by atypical (eg, pleomorphic, hyperchromatic) endothelial cells.\n\n(Choice D) Clonorchis sinensis (liver fluke) infection is a risk fluke for cholangiocarcinoma, a malignant tumor derived from bile duct epithelium. Although C sinensis is endemic in east Asia, histopathology of cholangiocarcinoma typically shows infiltrative glands lined by atypical epithelial cells.\n\n(Choice E) Nonalcoholic fatty liver disease is a risk factor for HCC but is usually associated with metabolic syndrome (eg, obesity, hypertension); liver ultrasonography typically reveals evidence of fatty infiltration.\n\n(Choice F) This patient has psoriasis, a chronic inflammatory skin disorder that causes well-circumscribed, erythematous plaques with silver-white scales. Psoriasis is not thought to have a direct role in HCC pathogenesis.\n\nEducational objective:\nAflatoxin B1 is a carcinogen produced by Aspergillus that contaminates food (eg, corn) in hot, humid environments (eg, Southeast Asia). Chronic aflatoxin B1 ingestion is associated with inactivating p53 mutations that increases the risk for hepatocellular carcinoma. {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "该患者出现体重减轻、乏力、以及异常的实验室检查结果（例如，高胆红素血症、肝酶升高），提示肝脏肿块具有肝细胞癌 (HCC) 的组织病理学特征。常见的危险因素包括病毒性肝炎、饮酒、先天性代谢紊乱和环境毒素。鉴于该患者以前在玉米农场工作，接触黄曲霉毒素B1可能促成了肿瘤的发生。\n\n黄曲霉毒素B1是一种致癌性代谢物，由某些污染谷物和坚果（例如，玉米、花生）的曲霉菌株作为副产物产生，尤其是在炎热、潮湿的环境中（例如，东南亚、撒哈拉以南非洲地区）。摄入通过诱导p53中的特定突变促进发病，从而损害蛋白质的抑癌功能，导致肝细胞不受控制地增殖和进一步的基因异常积累。此外，慢性接触可与其他危险因素（例如，乙型肝炎病毒[HBV]感染）共同作用，显著增加HCC的风险。\n\nHCC患者通常无症状或仅有轻微的腹痛伴有非特异性症状（例如，体重减轻、不适）。那些患有潜在慢性肝病的患者可能会出现肝硬化恶化的迹象（例如，腹水、静脉曲张出血）。在显微镜下，HCC通常显示增厚的恶性肝细胞板，这些肝细胞类似于正常肝细胞，但通常较小，并且具有可变的细胞学异型性（例如，多形性、高的核/细胞质比）。\n\n(选项A) 慢性HBV感染是HCC的常见危险因素，但该患者的血清学研究结果与之前的疫苗接种一致，而非慢性感染。\n\n(选项B) 接触氯乙烯是肝血管肉瘤的危险因素，这是一种恶性血管肿瘤。可能出现体重减轻和乏力，但组织病理学通常显示由非典型（例如，多形性、异染性）内皮细胞排列的浸润性血管结构。\n\n(选项D) 中华肝吸虫（肝吸虫）感染是胆管癌的危险因素，胆管癌是一种源自胆管上皮的恶性肿瘤。尽管C sinensis在东亚地区流行，但胆管癌的组织病理学通常显示由非典型上皮细胞排列的浸润性腺体。\n\n(选项E) 非酒精性脂肪肝病是HCC的危险因素，但通常与代谢综合征（例如，肥胖、高血压）有关；肝脏超声检查通常显示脂肪浸润的证据。\n\n(选项F) 该患者患有银屑病，这是一种慢性炎症性皮肤病，会导致边界清楚、红斑性斑块，并伴有银白色鳞屑。银屑病被认为与HCC的发病机制没有直接关系。\n\n教育目标：\n黄曲霉毒素B1是由曲霉菌产生的致癌物，它污染了热带、潮湿环境（例如，东南亚）中的食物（例如，玉米）。长期摄入黄曲霉毒素B1与p53突变失活有关，这会增加肝细胞癌的风险。{{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hepatocellular carcinoma (HCC) risk factors, specifically the association between aflatoxin exposure and HCC development. It also requires interpretation of serological markers for hepatitis B and understanding of histopathological features of HCC.\n\nTo solve this question, identify the patient's risk factors (corn farm in Taiwan), interpret the hepatitis B serology (evidence of vaccination, not chronic infection), and recognize the histopathological description as characteristic of HCC. Eliminate other options based on their association with different liver pathologies or lack of relevance to the clinical scenario.",
+    "zh": "此题考察对肝细胞癌 (HCC) 危险因素的了解，特别是黄曲霉毒素暴露与HCC发展之间的关联。它还需要解读乙型肝炎的血清学标志物，并理解HCC的组织病理学特征。\n\n要解决这个问题，需要识别患者的危险因素（台湾的玉米农场），解读乙型肝炎血清学结果（疫苗接种的证据，而非慢性感染），并识别组织病理学描述为HCC的特征。根据其他选项与不同肝脏病理学的关联或与临床情况缺乏相关性来排除其他选项。"
+  },
+  "tags": "Hepatocellular carcinoma; Aflatoxin; Aspergillus; Liver mass; Hepatitis B serology; p53 mutation; Oncology; Gastroenterology; Hepatology",
+  "category": "GIT",
+  "question_id": "57",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\57",
+  "extracted_at": "2025-11-05T14:37:10.598982",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:58:36.419821",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

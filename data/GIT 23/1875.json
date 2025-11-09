@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 56-year-old man comes to the cardiology clinic because of fatigue, palpitations, and exertional dyspnea over the last several weeks. On physical examination, his heart rate is irregular and measures 122 beats per minute, while his blood pressure is 110/70 mm Hg. The patient undergoes further work-up, including ECG, radiographic studies, and laboratory studies. His ECG shows atrial fibrillation and trans-esophageal echocardiography reveals a thrombus in a dilated left atrium.",
+    "zh": "一名56岁的男性因疲劳、心悸和过去几周的劳力性呼吸困难来心内科就诊。体格检查显示，他的心率不齐，为每分钟122次，血压为110/70 mmHg。患者接受了进一步的检查，包括心电图、影像学检查和实验室检查。他的心电图显示心房颤动，经食道超声心动图显示左心房扩张，有血栓形成。"
+  },
+  "question": {
+    "en": "In the event of an interruption of blood flow secondary to arterial occlusion, which of the following organs would be least vulnerable to infarction?",
+    "zh": "在继发于动脉闭塞的血流中断事件中，下列哪个器官最不容易发生梗死？"
+  },
+  "options": {
+    "A": {
+      "en": "Spleen",
+      "zh": "脾脏"
+    },
+    "B": {
+      "en": "Brain",
+      "zh": "脑"
+    },
+    "C": {
+      "en": "Kidney",
+      "zh": "肾脏"
+    },
+    "D": {
+      "en": "Liver",
+      "zh": "肝脏"
+    },
+    "E": {
+      "en": "Heart",
+      "zh": "心脏"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Infarcts in an otherwise normal liver are rare because it has a dual blood supply: the portal vein and hepatic artery. Should the hepatic artery become occluded, the portal venous supply and retrograde arterial flow through accessory vessels (e.g., from the inferior phrenic, adrenal, intercostal arteries, etc.) is typically sufficient to sustain the liver parenchyma. The notable exception is when a transplanted liver undergoes hepatic artery thrombosis. In this case, the liver can develop biliary tree infarction and organ failure because the collateral blood supply is severed during transplantation.\n\n(Choice A) The spleen is relatively vulnerable to infarction because the perfusion via the splenic artery is end-arterial. Wedge-shaped, capsule-based splenic infarcts occur and are a known complication of sickle cell anemia, infective endocarditis, and cardiac mural thrombosis.\n\n(Choice B) Irreversible damage appears to occur in the most vulnerable of neurons after approximately 5 minutes of complete ischemia.\n\n(Choice C) The kidney, similar to the spleen, has an end-arterial blood supply, and is generally able to tolerate warm ischemia for at least 30 minutes. Longer periods of complete ischemia result in immediate functional loss; late recovery of renal function is incomplete or absent.\n\n(Choice E) The myocardium can endure complete arterial ischemia for twenty or thirty minutes without severe consequences. Briefer periods of ischemia do not result in necrosis, but rather myocardial stunning. Coronary artery embolism is an uncommon cause of myocardial infarction; nonetheless, it should be considered in myocardial-infarcted patients with atrial fibrillation, infective endocarditis, left atrial or ventricular thrombus, and in patients undergoing cardiac catheterization.\n\nEducational objective:\nOrgan susceptibility to infarction after occlusion of a feeding artery is ranked from greatest to least as follows: central nervous system, myocardium, kidney, spleen, and liver. The presence of a dual and/or collateral blood supply (as seen in the liver, which is supplied by the hepatic artery and portal vein) enables an organ to tolerate arterial occlusion better than those with end-arterial circulations.",
+    "zh": "在其他方面正常的肝脏中，梗死很少见，因为它具有双重血供：门静脉和肝动脉。如果肝动脉发生闭塞，门静脉血供和通过辅助血管（例如，来自膈下动脉、肾上腺动脉、肋间动脉等）的逆行血流通常足以维持肝实质。一个显著的例外是肝移植后发生肝动脉血栓形成。在这种情况下，肝脏可能会发生胆道梗死和器官衰竭，因为侧支血供在移植过程中被切断。\n\n（选项A）脾脏相对容易发生梗死，因为通过脾动脉的灌注是终末动脉。楔形的、基于包膜的脾梗死发生，并且是镰状细胞性贫血、感染性心内膜炎和心脏壁内血栓形成的已知并发症。\n\n（选项B）在完全缺血约5分钟后，在最脆弱的神经元中似乎会发生不可逆的损伤。\n\n（选项C）肾脏，类似于脾脏，具有终末动脉供血，并且通常能够耐受至少30分钟的温缺血。更长时间的完全缺血会导致即时功能丧失；肾功能的晚期恢复不完全或不存在。\n\n（选项E）心肌可以忍受完全动脉缺血二、三十分钟而没有严重的后果。较短时间的缺血不会导致坏死，而是心肌顿抑。冠状动脉栓塞是心肌梗死的一个不常见原因；尽管如此，它应该在患有心房颤动、感染性心内膜炎、左心房或心室血栓形成以及正在接受心脏导管插入术的心肌梗死患者中考虑。\n\n教育目标：\n器官对喂养动脉闭塞后梗死的易感性按以下顺序从大到小排列：中枢神经系统、心肌、肾脏、脾脏和肝脏。双重和/或侧支血供（如肝脏，由肝动脉和门静脉供血）的存在使器官比具有终末动脉循环的器官更好地耐受动脉闭塞。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of organ vulnerability to infarction based on blood supply. Specifically, it assesses the understanding of dual blood supply and collateral circulation in protecting organs from ischemic damage.\n\nThe key to solving this question is recognizing that organs with dual blood supply or robust collateral circulation are less vulnerable to infarction. The liver, with its dual blood supply from the hepatic artery and portal vein, is the least vulnerable among the options.",
+    "zh": "这个问题考察了基于血供的器官对梗死的易感性知识。具体来说，它评估了对双重血供和侧支循环在保护器官免受缺血性损伤方面的理解。\n\n解决这个问题的关键是认识到具有双重血供或强大的侧支循环的器官不太容易发生梗死。肝脏，由于其来自肝动脉和门静脉的双重血供，在所有选项中最不容易受到影响。"
+  },
+  "tags": "Organ infarction; Blood supply; Collateral circulation; Liver; Spleen; Kidney; Brain; Heart; Ischemia; Arterial occlusion",
+  "category": "GIT",
+  "question_id": "1875",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\1875",
+  "extracted_at": "2025-11-05T14:29:20.701333",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:53:53.265238",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man is brought to the emergency department by his wife after she found him running around the yard in his underwear shouting, \"I am going to change the world.\" She reports that he has a lot of energy despite hardly sleeping for the past 7 days, and that he recently quit his job to write a 500-page novel that he says \"explains everything about the universe.\" The patient's history is significant for epilepsy with generalized seizures since childhood and a psychiatric hospitalization a year ago for a major depressive episode. Family history is significant for alcoholism and hypertension in his father and schizophrenia in his grandmother.",
+    "zh": "一位34岁男性被妻子带到急诊科，妻子发现他在自家院子里穿着内衣跑来跑去，大喊：“我要改变世界。” 她报告说，尽管他过去7天几乎没有睡觉，但他精力充沛，并且他最近辞去了工作，要写一本500页的小说，他说这本小说“解释了关于宇宙的一切。” 患者的病史有癫痫，自童年起就有全身性发作，一年前曾因重度抑郁发作而住院治疗。 家族史显示其父亲有酗酒和高血压，祖母有精神分裂症。"
+  },
+  "question": {
+    "en": "Which of the following medications would be most helpful for long-term treatment of this patient's psychiatric condition as well as his seizure disorder?",
+    "zh": "以下哪种药物对该患者的精神疾病及其癫痫发作的长期治疗最有帮助？"
+  },
+  "options": {
+    "A": {
+      "en": "Aripiprazole",
+      "zh": "阿立哌唑"
+    },
+    "B": {
+      "en": "Citalopram",
+      "zh": "西酞普兰"
+    },
+    "C": {
+      "en": "Levetiracetam",
+      "zh": "左乙拉西坦"
+    },
+    "D": {
+      "en": "Lithium",
+      "zh": "锂盐"
+    },
+    "E": {
+      "en": "Lorazepam",
+      "zh": "劳拉西泮"
+    },
+    "F": {
+      "en": "Phenytoin",
+      "zh": "苯妥英"
+    },
+    "G": {
+      "en": "Valproate",
+      "zh": "丙戊酸盐"
+    }
+  },
+  "correct_answer": "G",
+  "explanation": {
+    "en": "This patient's history of major depression along with his current manic symptoms (ie, decreased need for sleep, grandiosity, goal-directed activity) indicate a diagnosis of bipolar disorder. Valproate (valproic acid) is used as an ANTICONVULSANT and MOOD STABILIZER. It blocks voltage-gated sodium channels and enhances the availability of GABA. As a mood stabilizer, it is used in acute mania and maintenance treatment of BIPOLAR DISORDER. As an anticonvulsant, it effectively treats absence, myoclonic, and GENERALIZED TONIC-CLONIC SEIZURES. It is the drug of choice for MYOCLONIC SEIZURES and a second-line agent for absence seizures (for which ethosuximide is preferred).\n\nOther anticonvulsants used as mood stabilizers in bipolar disorder include carbamazepine and lamotrigine. Carbamazepine is a CYP450 inducer that can cause lower levels of concomitant medications. Lamotrigine is associated with SKIN RASH, which rarely can progress to life-threatening mucocutaneous reactions (eg, Stevens-Johnson syndrome).\n\n(Choice A) Aripiprazole is a second-generation antipsychotic used to treat psychotic and mood disorders. Antipsychotics are not indicated for seizures and may lower the seizure threshold.\n\n(Choice B) Citalopram is a selective serotonin reuptake inhibitor (SSRI) antidepressant. SSRI monotherapy is avoided in bipolar disorder due to the risk of inducing mania. SSRIs have no role in the treatment of seizures.\n\n(Choices C and F) Levetiracetam and phenytoin are anticonvulsants used in the treatment of epilepsy but they are not useful for treating bipolar disorder.\n\n(Choice D) Lithium is a mood stabilizer that is effective for the treatment of bipolar disorder. Lithium is thought to modify second messenger signal transduction (eg, adenylyl cyclase and phospho-inositol pathways) at several levels, resulting in decreased excitatory neurotransmission. Lithium is not an anticonvulsant.\n\n(Choice E) Lorazepam is a benzodiazepine that enhances the affinity of GABA for its receptor (increases frequency of chloride channel openings), thereby increasing its inhibitory potential. Lorazepam is a first-line medication for the treatment of active seizures, acute anxiety, and alcohol withdrawal.",
+    "zh": "该患者有重度抑郁症病史，并伴有目前的躁狂症状（即睡眠需求减少、夸大妄想、目标导向活动），表明诊断为双相情感障碍。 丙戊酸盐 (丙戊酸) 用作抗惊厥药和情绪稳定剂。它阻断电压门控钠离子通道并增强 GABA 的可用性。 作为情绪稳定剂，它用于双相情感障碍的急性躁狂和维持治疗。 作为抗惊厥药，它能有效治疗失神发作、肌阵挛发作和全身性强直-阵挛性发作。 它是肌阵挛发作的首选药物，也是失神发作的二线药物（首选乙琥胺）。\n\n其他用作双相情感障碍情绪稳定剂的抗惊厥药包括卡马西平和拉莫三嗪。 卡马西平是一种 CYP450 诱导剂，可导致伴随药物的水平降低。 拉莫三嗪与皮疹有关，这种情况很少会进展为危及生命的皮肤黏膜反应（例如，史蒂文斯-约翰逊综合征）。\n\n(选项 A) 阿立哌唑是一种用于治疗精神病性和情绪障碍的第二代抗精神病药。 抗精神病药不适用于癫痫发作，并且可能会降低癫痫发作阈值。\n\n(选项 B) 西酞普兰是一种选择性 5-羟色胺再摄取抑制剂 (SSRI) 抗抑郁药。 由于有诱发躁狂的风险，在双相情感障碍中应避免使用 SSRI 单药治疗。 SSRI 在治疗癫痫发作中不起作用。\n\n(选项 C 和 F) 左乙拉西坦和苯妥英是用于治疗癫痫的抗惊厥药，但它们对治疗双相情感障碍无用。\n\n(选项 D) 锂盐是一种情绪稳定剂，对治疗双相情感障碍有效。 锂被认为可以在多个水平上修饰第二信使信号转导（例如，腺苷酸环化酶和磷酸肌醇通路），从而降低兴奋性神经传递。 锂不是抗惊厥药。\n\n(选项 E) 劳拉西泮是一种苯二氮卓类药物，可增强 GABA 对其受体的亲和力（增加氯离子通道开放的频率），从而增加其抑制潜力。 劳拉西泮是治疗活动性癫痫发作、急性焦虑和戒酒的一线药物。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of pharmacotherapy for patients with comorbid bipolar disorder and epilepsy. It requires knowledge of medications that possess both mood-stabilizing and anticonvulsant properties.\n\nThe approach to solving this question involves identifying the patient's dual diagnoses of bipolar disorder (manic episode) and epilepsy. Then, evaluating the provided medication options to determine which one is indicated for both conditions, considering their primary mechanisms of action and common clinical uses.",
+    "zh": "此问题测试对合并双相情感障碍和癫痫患者的药物治疗的理解。它需要了解同时具有情绪稳定和抗惊厥特性的药物。\n\n解决此问题的方法包括确定患者的双重诊断：双相情感障碍（躁狂发作）和癫痫。 然后，评估所提供的药物选择，以确定哪一种适用于这两种情况，考虑它们的主要作用机制和常见临床用途。"
+  },
+  "tags": "Bipolar disorder; Epilepsy; Mood stabilizers; Anticonvulsants; Valproate; Manic episode; Generalized tonic-clonic seizures; Myoclonic seizures; GABA; Sodium channels",
+  "category": "Psychiatry",
+  "question_id": "1193",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\1193",
+  "extracted_at": "2025-11-05T19:48:39.805401",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:51:59.021840",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

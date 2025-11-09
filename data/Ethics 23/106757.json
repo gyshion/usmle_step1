@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 31-year-old woman comes to the emergency department for evaluation of nausea, vomiting, and abdominal pain over the past 2 days. The triage nurse notes that the patient's legal name differs from what was written on the intake form. While reviewing the patient's electronic medical record, you see that the patient's sex is listed as male and that multiple pronouns have been used to describe the patient in prior notes.",
+    "zh": "一名31岁的女性来到急诊科，评估过去2天出现的恶心、呕吐和腹痛。分诊护士注意到患者的法定姓名与入院表格上写的不一样。在查看患者的电子病历时，您看到患者的性别被列为男性，并且之前的病历中使用了多个代词来描述患者。"
+  },
+  "question": {
+    "en": "In addition to introducing yourself to the patient, which of the following is the most appropriate initial statement?",
+    "zh": "除了向患者介绍自己，以下哪一项是最合适的开场白？"
+  },
+  "options": {
+    "A": {
+      "en": "\"I ask all my patients about their gender identity; could you please tell me if you identify as a man or a woman?\"",
+      "zh": "“我向所有患者询问他们的性别认同；您能告诉我您认为自己是男性还是女性吗？”"
+    },
+    "B": {
+      "en": "\"I like to ask my patients about the name they use and their pronouns; how would you like to be addressed?\"",
+      "zh": "“我喜欢询问我的患者他们使用的姓名和代词；您希望我如何称呼您？”"
+    },
+    "C": {
+      "en": "\"I'd like to make sure that I refer to you appropriately; would you prefer that I use male or female pronouns?\"",
+      "zh": "“我想确保我能正确地称呼您；您希望我使用男性代词还是女性代词？”"
+    },
+    "D": {
+      "en": "\"I've reviewed your chart and wanted to be sure it's accurate; how would you describe your gender identity?\"",
+      "zh": "“我查看了您的病历，想确保它是准确的；您如何描述您的性别认同？”"
+    },
+    "E": {
+      "en": "\"To be sure I ask pertinent questions for your symptoms, could you please verify your sex assigned at birth?\"",
+      "zh": "“为了确保我能询问与您的症状相关的问题，您能验证一下您出生时被指定的性别吗？”"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Sex is a biologic identity determined by anatomy (eg, external genitalia), chromosomes, and hormones. In contrast, **gender identity** is an internal identity that can be expressed externally (eg, clothing, behavior). Although biologic sex is often used to guide medical diagnosis, particularly for conditions such as abdominal pain, physicians must also recognize gender diversity to provide **culturally competent medical care** to transgender patients.\n\nThis begins with accurately identifying the patient's **preferred name and gender identifier**. Physicians should approach questions about gender identity in a **supportive and tactful** manner. Because physical attributes and self-identifiers (eg, clothing) of transgender patients may not be evident or may change over time, a tactful approach uses **open-ended questions** to elicit the patient's preferences. It is helpful to use a routine opening statement (eg, \"I like to ask my patients about the name they use and their pronouns\") that normalizes gender diversity. The patient's preferences should then be **accurately and consistently documented** in the electronic medical record.\n\n(Choices A and C) Although these questions acknowledge gender diversity, they are both closed-ended and too abrupt for an introduction. They also assume a binary male-female paradigm and exclude recognition of a nonbinary gender, in which a person views gender as a spectrum and identifies as neither male nor female.\n\n(Choice D) This approach is open-ended and allows the patient to express the patient's preferred gender identity; however, it is overly frank as an opening question and may alienate the patient. In addition, it hints at discriminatory documentation throughout the medical record, which may erode patient trust and harm rapport.\n\n(Choice E) Knowing the patient's assigned sex at birth is important for accurate diagnosis and treatment; however, this is an uncomfortable initial question and does not clarify the patient's current gender identity or preferred pronouns.",
+    "zh": "性别是由解剖结构（例如，外生殖器）、染色体和激素决定的生物学身份。相比之下，**性别认同**是一种内在的身份，可以在外部表达（例如，服装、行为）。尽管生物学性别通常用于指导医学诊断，特别是对于腹痛等疾病，但医生也必须认识到性别多样性，以便为跨性别患者提供**具有文化敏感性的医疗保健**。\n\n这从准确识别患者的**首选姓名和性别标识符**开始。医生应该以**支持和委婉**的方式询问有关性别认同的问题。由于跨性别患者的身体属性和自我标识符（例如，服装）可能不明显或可能随着时间而改变，因此一种委婉的方法是使用**开放式问题**来获得患者的偏好。使用常规的开场白（例如，“我喜欢询问我的患者他们使用的姓名和代词”）有助于使性别多样性正常化。然后应在电子病历中**准确、一致地记录**患者的偏好。\n\n（选项 A 和 C）尽管这些问题承认了性别多样性，但它们都是封闭式的，而且对于介绍来说过于突兀。它们还假设了二元男女范式，并排除了对非二元性别的认可，在这种情况下，一个人将性别视为一个连续统一体，既不认同男性也不认同女性。\n\n（选项 D）这种方法是开放式的，允许患者表达患者的首选性别认同；但是，它作为开场白过于坦率，并且可能会疏远患者。此外，它暗示了整个病历中的歧视性记录，这可能会侵蚀患者信任并损害医患关系。\n\n（选项 E）了解患者出生时被指定的性别对于准确诊断和治疗很重要；然而，这是一个令人不舒服的最初问题，并且没有明确说明患者当前的性别认同或首选代词。"
+  },
+  "summary": {
+    "en": "This question tests the ability to provide culturally competent medical care to transgender patients by accurately identifying their preferred name and gender identifier. It emphasizes the importance of using a supportive and tactful approach with open-ended questions to elicit the patient's preferences.\n\nTo solve this question, identify the option that demonstrates a routine, open-ended inquiry about the patient's preferred name and pronouns, while avoiding assumptions about gender identity or potentially discriminatory language.",
+    "zh": "这个问题测试了通过准确识别跨性别患者的首选姓名和性别标识符来为他们提供具有文化敏感性的医疗保健的能力。它强调了使用支持性和委婉的方法，并使用开放式问题来获得患者偏好的重要性。\n\n要解决这个问题，请确定展示了关于患者首选姓名和代词的常规开放式询问的选项，同时避免对性别认同或潜在歧视性语言的假设。"
+  },
+  "tags": "Transgender health; Gender identity; Cultural competence; Patient communication; Medical ethics",
+  "category": "Ethics",
+  "question_id": "106757",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\106757",
+  "extracted_at": "2025-11-05T14:16:17.953369",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:46:19.671742",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

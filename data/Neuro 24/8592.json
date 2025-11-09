@@ -1,0 +1,72 @@
+{
+  "question_stem": {
+    "en": "A 56-year-old woman is brought to the emergency department with sudden onset of headache and partial loss of vision. She has a 3-year history of atrial fibrillation. Physical examination shows intact motor function and a visual field defect involving the black areas illustrated below in {{exhibit_1}} and {{exhibit_2}}. This patient most likely has occlusion of which of the following arteries? {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "一名56岁女性因突发性头痛和部分视力丧失被送往急诊科。她有3年房颤病史。体格检查显示运动功能完整，视野缺损累及{{exhibit_1}}和{{exhibit_2}}中所示的黑色区域。该患者最有可能出现以下哪条动脉的闭塞？{{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "question": {
+    "en": "This patient most likely has occlusion of which of the following arteries?",
+    "zh": "该患者最有可能出现以下哪条动脉的闭塞？"
+  },
+  "options": {
+    "A": {
+      "en": "Anterior cerebral",
+      "zh": "大脑前动脉"
+    },
+    "B": {
+      "en": "Central retinal",
+      "zh": "视网膜中央动脉"
+    },
+    "C": {
+      "en": "Middle cerebral",
+      "zh": "大脑中动脉"
+    },
+    "D": {
+      "en": "Posterior cerebral",
+      "zh": "大脑后动脉"
+    },
+    "E": {
+      "en": "Posterior inferior cerebellar",
+      "zh": "小脑后下动脉"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with atrial fibrillation has most likely had an embolic stroke. Her visual deficit involves the same half of the visual fields in both eyes (homonymous hemianopia) with sparing of the central portion of vision (macular sparing), a common manifestation of posterior cerebral artery (PCA) stroke. The PCA supplies the occipital lobe, which contains the primary visual cortex. The primary visual cortex of each hemisphere receives information about the contralateral visual field from the ipsilateral lateral geniculate nucleus via the optic radiations. The upper bank of the primary visual cortex is separated from the lower bank by the calcarine fissure; the upper cuneus gyrus receives information from the lower visual field, while the bottom lingual gyrus receives information from the upper visual field (similar to right-left contralateral processing).\n\nOcclusion of the PCA leads to ischemic injury to the occipital lobe, producing contralateral homonymous hemianopia. The macula is often spared because collateral blood is supplied by the middle cerebral artery to the occipital pole, which processes central visual information.\n\n(Choice A) Anterior cerebral artery occlusion manifests as contralateral weakness and sensory deficits that predominantly affect the lower extremity. Personality or executive dysfunction can also be seen due to damage to the prefrontal cortex.\n\n(Choice B) Occlusion of the central retinal artery leads to sudden, painless, complete loss of vision, but only in one eye.\n\n(Choice C) Middle cerebral artery stroke is characterized by contralateral motor and sensory deficits (more pronounced in the upper than lower limb). Homonymous hemianopia can also occur due to damage to the optic radiations; however, affected patients would likely have prominent motor weakness.\n\n(Choice E) Occlusion of the posterior inferior cerebellar artery classically leads to lateral medullary (Wallenberg) syndrome. It is characterized by loss of pain and temperature sensation in the contralateral body and ipsilateral face, ipsilateral bulbar weakness, vertigo, ataxia, and Horner's syndrome.\n\nEducational objective:\nThe most common finding with posterior cerebral artery stroke is contralateral homonymous hemianopia. The macula is often spared because there is collateral circulation from the middle cerebral artery to the occipital pole, the area that processes central vision.",
+    "zh": "该房颤患者很可能发生了栓塞性卒中。她的视觉缺陷累及双眼视野的同一半（同侧偏盲），并保留了中心视力（黄斑保留），这是大脑后动脉（PCA）卒中的常见表现。PCA供应枕叶，枕叶包含主要视觉皮层。每个半球的主要视觉皮层通过视放射从同侧外侧膝状体接收关于对侧视野的信息。主要视觉皮层的上缘与下缘被距状裂分开；上楔回接收来自下视野的信息，而底部舌回接收来自上视野的信息（类似于左右对侧处理）。\n\nPCA闭塞导致枕叶缺血性损伤，产生对侧同侧偏盲。黄斑通常被保留，因为侧支血供由大脑中动脉提供给处理中心视觉信息的枕极。\n\n（选项 A）大脑前动脉闭塞表现为对侧肢体无力和感觉缺陷，主要影响下肢。由于前额叶皮层的损伤，也可能出现人格或执行功能障碍。\n\n（选项 B）视网膜中央动脉闭塞导致突然、无痛、完全丧失视力，但仅发生在一只眼睛。\n\n（选项 C）大脑中动脉卒中的特征是对侧运动和感觉缺陷（在上肢比下肢更明显）。由于视放射的损伤，也可能发生同侧偏盲；然而，受影响的患者可能会出现明显的运动无力。\n\n（选项 E）小脑后下动脉闭塞经典上导致外侧延髓（Wallenberg）综合征。其特征是对侧身体和同侧面部的疼痛和温度感觉丧失、同侧球麻痹、眩晕、共济失调和霍纳氏综合征。\n\n教学目标：\n大脑后动脉卒中最常见的发现是对侧同侧偏盲。黄斑通常被保留，因为大脑中动脉向处理中心视力的枕极提供侧支循环。"
+  },
+  "summary": {
+    "en": "A 56-year-old woman with atrial fibrillation presents with sudden onset headache and partial vision loss. Her visual field defect shows homonymous hemianopia with macular sparing, indicative of a posterior cerebral artery (PCA) occlusion affecting the occipital lobe and primary visual cortex. Other options are less likely due to the specific visual field defect and lack of other neurological signs.",
+    "zh": "一名56岁女性，患有房颤，表现为突发性头痛和部分视力丧失。她的视野缺损表现为同侧偏盲伴黄斑保留，提示大脑后动脉（PCA）闭塞影响枕叶和主要视觉皮层。由于特定的视野缺损以及缺乏其他神经系统体征，其他选项不太可能。"
+  },
+  "tags": [
+    "neurology",
+    "stroke",
+    "posterior cerebral artery",
+    "visual field defect",
+    "homonymous hemianopia",
+    "atrial fibrillation"
+  ],
+  "category": "Neuro",
+  "question_id": "8592",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\8592",
+  "extracted_at": "2025-11-05T19:42:03.804647",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:43:22.044157",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

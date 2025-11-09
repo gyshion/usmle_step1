@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 57-year-old man with severe pyelonephritis is admitted to the hospital. His past medical history is significant for diabetes, hypertension, and two episodes of transient ischemic attacks. His serum creatinine level is 3.2 mg/dL; therefore, he needs to be started on an antibiotic that depends mainly on non-renal clearance. Which of the following characteristics should the antibiotic also have if hepatic metabolism and clearance is desired?",
+    "zh": "一名57岁男性，患有严重肾盂肾炎，入院治疗。患者既往病史包括糖尿病、高血压和两次短暂性脑缺血发作。其血清肌酐水平为3.2 mg/dL；因此，他需要开始使用主要依赖非肾脏清除的抗生素。如果希望抗生素也具有肝脏代谢和清除的特性，那么它还应该具备以下哪种特征？"
+  },
+  "question": {
+    "en": "Which of the following characteristics should the antibiotic also have if hepatic metabolism and clearance is desired?",
+    "zh": "如果希望抗生素也具有肝脏代谢和清除的特性，那么它还应该具备以下哪种特征？"
+  },
+  "options": {
+    "A": {
+      "en": "Low volume of distribution",
+      "zh": "低分布容积"
+    },
+    "B": {
+      "en": "Poor oral absorption",
+      "zh": "口服吸收差"
+    },
+    "C": {
+      "en": "High lipophilicity",
+      "zh": "高亲脂性"
+    },
+    "D": {
+      "en": "Low rate of redistribution",
+      "zh": "低再分布率"
+    },
+    "E": {
+      "en": "Poor penetration into the CNS",
+      "zh": "不良的中枢神经系统渗透性"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The kidney is the primary site of drug biotransformation and metabolism, but some drugs are also predominantly eliminated by the liver into the bile and feces. Drugs with high intrinsic hepatic clearance tend to have high lipophilicity and a high volume of distribution. Highly lipophilic drugs tend to be poorly eliminated in the kidney as these agents rapidly cross tubular cell membranes after filtration to reenter the tissues.\n\nHigh lipophilicity (lipid solubility) allows the drug to cross cellular barriers more easily and enter hepatocytes. It can then be excreted in the bile or through other methods of elimination. In addition, high lipid solubility assures a wide distribution to many different tissues including the brain, liver, and adipose tissue.\n\n(Choice A) Drugs with a low distribution volume tend to be confined to the bloodstream and tend not to diffuse readily through hepatocytes into the bile. Thus, a drug with a low Vd will be highly plasma protein-bound and hydrophilic, making it less available for hepatic metabolism and more readily available for excretion unchanged in the urine.\n\n(Choice B) A drug that is not well orally absorbed may have a high pre-systemic (first-pass) elimination or be poorly lipid-soluble. In both cases, it will be unavailable to the liver for hepatic clearance.\n\n(Choice D) A low rate of redistribution from one compartment to another implies low lipid solubility or significant hydrophilicity. These drugs tend to remain in the intravascular compartment and be eliminated by the kidneys.\n\n(Choice E) Poor central nervous system penetration indicates that a drug is likely not lipophilic, and therefore has a low volume of distribution. It is therefore also unlikely that the same drug will be eliminated in large amounts by the liver.\n\nEducational Objective:\nWhile the kidney is the primary site of elimination of most drugs, the liver is the main site of biotransformation of these agents in preparation for elimination. Drugs that are more lipophilic (high Vd, good penetration into CNS) are preferentially processed by the liver into more polar compounds for easier elimination in the bile and urine. Liver disease (e.g., cirrhosis) or the concomitant use of other drugs may limit or enhance the clearance of drugs metabolized in the liver.",
+    "zh": "肾脏是药物生物转化和代谢的主要部位，但有些药物也主要通过肝脏进入胆汁和粪便中被清除。具有高内在肝清除率的药物往往具有高亲脂性和高分布容积。高亲脂性药物往往难以在肾脏中被清除，因为这些药物在过滤后会迅速穿过肾小管细胞膜，重新进入组织。\n\n高亲脂性（脂溶性）使药物更容易穿过细胞屏障并进入肝细胞。然后它可以通过胆汁或其他消除方法排出体外。此外，高脂溶性确保药物广泛分布到许多不同的组织，包括大脑、肝脏和脂肪组织。\n\n(选项 A) 分布容积低的药物往往局限于血流中，并且不易通过肝细胞扩散到胆汁中。因此，低Vd的药物将高度与血浆蛋白结合且具有亲水性，这使得它不太容易被肝脏代谢，而更容易通过尿液以原形排出。\n\n(选项 B) 口服吸收不良的药物可能具有高首过效应（首关效应）或脂溶性差。在这两种情况下，药物都无法到达肝脏进行肝脏清除。\n\n(选项 D) 从一个隔室到另一个隔室的再分布率低意味着低脂溶性或显著的亲水性。这些药物往往保留在血管内隔室中，并通过肾脏被清除。\n\n(选项 E) 中枢神经系统渗透性差表明该药物可能不具有亲脂性，因此分布容积较低。因此，同一药物也不太可能通过肝脏被大量清除。\n\n教育目的：\n虽然肾脏是大多数药物消除的主要部位，但肝脏是这些药物为消除做准备的主要生物转化部位。那些更具亲脂性（高Vd，良好渗透到中枢神经系统）的药物优先被肝脏处理成极性更高的化合物，以便更容易通过胆汁和尿液排出。肝病（例如，肝硬化）或其他药物的伴随使用可能会限制或增强肝脏代谢药物的清除。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of drug pharmacokinetics, specifically the characteristics of drugs that are primarily eliminated by hepatic metabolism and clearance, especially in the context of impaired renal function.\n\nTo solve this question, one must recall that drugs eliminated by the liver are typically lipophilic, have a high volume of distribution, and can readily enter hepatocytes. This allows for efficient metabolism and subsequent excretion via bile or other non-renal routes.",
+    "zh": "本题考察对药物药代动力学的理解，特别是主要通过肝脏代谢和清除的药物的特征，特别是在肾功能受损的背景下。\n\n要解决这个问题，必须回想起通过肝脏消除的药物通常具有亲脂性，高分布容积，并且可以容易地进入肝细胞。这使得代谢有效，随后通过胆汁或其他非肾脏途径排泄。"
+  },
+  "tags": "Pharmacology; Pharmacokinetics; Hepatic clearance; Renal impairment; Drug metabolism; Lipophilicity; Volume of distribution; Pyelonephritis",
+  "category": "Pharma",
+  "question_id": "1715",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\1715",
+  "extracted_at": "2025-11-05T19:45:07.344356",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:47:10.503105",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

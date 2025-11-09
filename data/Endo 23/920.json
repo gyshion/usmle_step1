@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 50-year-old woman enrolls in a clinical trial testing a medication for type 2 diabetes mellitus that may slow the progression of or reverse nonalcoholic steatohepatitis (NASH). Medical history includes type 2 diabetes mellitus and NASH, which was diagnosed a year ago by biopsy. Medications include metformin, atorvastatin, and aspirin. Laboratory studies show a fasting glucose of 155 mg/dL, hemoglobin A1c of 8.2%, ALT of 85 U/L, and AST of 74 U/L. The study drug will be taken in addition to metformin to enhance glycemic control, and markers for NASH-related disease activity will be measured at 12 months. The study drug activates peroxisome proliferator–activated receptor gamma, a nuclear receptor and transcription factor. Activation of this receptor would most likely result in which of the following metabolic changes? {{exhibit_1}}",
+    "zh": "一名50岁女性参与了一项临床试验，该试验测试一种治疗2型糖尿病的药物，该药物可能减缓或逆转非酒精性脂肪性肝炎（NASH）的进展。病史包括2型糖尿病和NASH，NASH一年前通过活检诊断。药物包括二甲双胍、阿托伐他汀和阿司匹林。实验室研究显示空腹血糖为155 mg/dL，血红蛋白A1c为8.2%，ALT为85 U/L，AST为74 U/L。研究药物将与二甲双胍一起服用，以增强血糖控制，并且将在12个月时测量与NASH相关的疾病活动的标志物。研究药物激活过氧化物酶体增殖物激活受体γ，一种核受体和转录因子。激活该受体最有可能导致以下哪种代谢变化？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Activation of this receptor would most likely result in which of the following metabolic changes?",
+    "zh": "激活该受体最有可能导致以下哪种代谢变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased insulin resistance",
+      "zh": "降低胰岛素抵抗"
+    },
+    "B": {
+      "en": "Downregulation of adiponectin",
+      "zh": "下调脂联素"
+    },
+    "C": {
+      "en": "Increased free fatty acid levels",
+      "zh": "游离脂肪酸水平升高"
+    },
+    "D": {
+      "en": "Increased insulin release",
+      "zh": "胰岛素释放增加"
+    },
+    "E": {
+      "en": "Upregulation of leptin activity",
+      "zh": "瘦素活性上调"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This clinical trial is studying a thiazolidinedione (TZD), a class of medications that decrease insulin resistance, a key pathologic factor in both type 2 diabetes mellitus and nonalcoholic steatohepatitis (NASH).\n\nTZDs (eg, pioglitazone) bind to peroxisome proliferator–activated receptor gamma (PPAR-γ), a transcriptional regulator of genes involved in glucose and lipid metabolism. The activated complex then binds to the transcriptional regulatory sequences to upregulate target genes that enhance insulin sensitivity, including:\n\n*   Glucose transporter-4, an insulin-responsive, transmembrane glucose transporter expressed in adipocytes and skeletal myocytes that increases glucose uptake by target cells\n*   Adiponectin, a cytokine secreted by fat tissue that increases the number of insulin-responsive adipocytes and stimulates fatty acid oxidation (Choice B)\n\nTZDs are functionally similar to fibrate medications (eg, fenofibrate, gemfibrozil), which bind PPAR-α and are effective in lowering blood triglyceride levels. The PPAR family of transcriptional regulators also plays a significant role in the pathogenesis of metabolic syndrome (obesity, hypertension, dyslipidemia, and insulin resistance), and their activation and subsequent increase in insulin sensitivity are thought to reverse the histologic changes in NASH.\n\n(Choice C) PPAR-γ activation leads to an increase in fat mass secondary to the increased differentiation of preadipocytes into mature adipocytes. The increased movement of free fatty acids into fat cells, along with increased fatty acid oxidation (adiponectin effect), causes circulating free fatty acid levels to decrease.\n\n(Choice D) TZDs do not stimulate insulin secretion; rather, as insulin resistance diminishes, circulating levels of insulin tend to decrease over time.\n\n(Choice E) Leptin is a hormone secreted by fat cells that acts on the hypothalamus to decrease appetite. Although PPAR-γ activation increases fat cell mass, circulating leptin levels remain unchanged or decrease due to the inhibiting effect of PPAR-γ on leptin gene transcription.\n\nEducational objective:\nThiazolidinediones (TZDs) activate peroxisome proliferator–activated receptor gamma, a nuclear receptor that alters the transcription of genes involved in glucose and lipid metabolism. The resulting decrease in insulin resistance lowers blood glucose and can help reverse nonalcoholic steatohepatitis.",
+    "zh": "这项临床试验正在研究一种噻唑烷二酮 (TZD)，这是一类可以降低胰岛素抵抗的药物，而胰岛素抵抗是2型糖尿病和非酒精性脂肪性肝炎 (NASH) 的关键病理因素。\n\nTZDs（例如，吡格列酮）与过氧化物酶体增殖物激活受体γ (PPAR-γ) 结合，PPAR-γ 是参与葡萄糖和脂质代谢的基因的转录调节因子。 然后，激活的复合物与转录调节序列结合，上调增强胰岛素敏感性的靶基因，包括：\n\n*   葡萄糖转运蛋白-4，一种在脂肪细胞和骨骼肌细胞中表达的胰岛素反应性跨膜葡萄糖转运蛋白，可增加靶细胞对葡萄糖的摄取\n*   脂联素，一种由脂肪组织分泌的细胞因子，可增加胰岛素反应性脂肪细胞的数量并刺激脂肪酸氧化（选项 B）\n\nTZDs 在功能上类似于贝特类药物（例如，非诺贝特、吉非罗齐），它们与 PPAR-α 结合，能有效降低血清甘油三酯水平。 PPAR 转录调节因子家族在代谢综合征（肥胖、高血压、血脂异常和胰岛素抵抗）的发病机制中也起着重要作用，它们的激活以及随后的胰岛素敏感性增加被认为可以逆转NASH的组织学改变。\n\n（选项 C）PPAR-γ 激活导致脂肪量增加，这是由于前脂肪细胞分化为成熟脂肪细胞的增加。 游离脂肪酸向脂肪细胞的运动增加，以及脂肪酸氧化增加（脂联素效应），导致循环游离脂肪酸水平降低。\n\n（选项 D）TZDs 不刺激胰岛素分泌；相反，随着胰岛素抵抗的降低，循环胰岛素水平往往会随着时间的推移而降低。\n\n（选项 E）瘦素是由脂肪细胞分泌的一种激素，作用于下丘脑以降低食欲。 尽管 PPAR-γ 激活会增加脂肪细胞的质量，但由于 PPAR-γ 对瘦素基因转录的抑制作用，循环瘦素水平保持不变或降低。\n\n教育目标：\n噻唑烷二酮 (TZDs) 激活过氧化物酶体增殖物激活受体 γ，这是一种核受体，可改变参与葡萄糖和脂质代谢的基因的转录。 随之而来的胰岛素抵抗降低会降低血糖，并有助于逆转非酒精性脂肪性肝炎。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of action of thiazolidinediones (TZDs) and their effect on insulin resistance and metabolic parameters in patients with type 2 diabetes and nonalcoholic steatohepatitis (NASH).\n\nTo solve this question, understand that TZDs activate PPAR-γ, which increases insulin sensitivity and glucose uptake in cells, leading to decreased insulin resistance. Also, consider the effects of PPAR-γ activation on adiponectin, free fatty acids, insulin release, and leptin levels.",
+    "zh": "本题考察对噻唑烷二酮 (TZDs) 作用机制的了解，以及它们对2型糖尿病和非酒精性脂肪性肝炎 (NASH) 患者的胰岛素抵抗和代谢参数的影响。\n\n要解决这个问题，需要了解 TZD 激活 PPAR-γ，从而增加细胞对胰岛素的敏感性和葡萄糖的摄取，导致胰岛素抵抗降低。 此外，还要考虑 PPAR-γ 激活对脂联素、游离脂肪酸、胰岛素释放和瘦素水平的影响。"
+  },
+  "tags": "Type 2 diabetes mellitus; Nonalcoholic steatohepatitis (NASH); Thiazolidinediones (TZDs); Peroxisome proliferator-activated receptor gamma (PPAR-γ); Insulin resistance; Glucose metabolism; Endocrinology; Gastroenterology",
+  "category": "Endo",
+  "question_id": "920",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\920",
+  "extracted_at": "2025-11-05T14:11:35.666138",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:43:21.757249",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

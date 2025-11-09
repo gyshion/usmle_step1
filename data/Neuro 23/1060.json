@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 59-year-old man comes to the emergency department with diplopia that started several hours ago. His past medical history is significant for long-standing diabetes with poor glycemic control, right-knee osteoarthritis, and peptic ulcer disease. Physical examination shows right-sided ptosis with the right pupil in the inferolateral position. Pupils are equal in size and reactive to light bilaterally. This patient's condition is most likely due to which of the following etiologies?",
+    "zh": "一名59岁男性来到急诊科，主诉复视，起病于数小时前。既往病史包括长期糖尿病伴血糖控制不佳、右膝骨关节炎和消化性溃疡。体格检查显示右侧眼睑下垂，右侧瞳孔位于外下方。双侧瞳孔等大，对光反射灵敏。该患者的病症最可能由以下哪种病因引起？"
+  },
+  "question": {
+    "en": "This patient's condition is most likely due to which of the following etiologies?",
+    "zh": "该患者的病症最可能由以下哪种病因引起？"
+  },
+  "options": {
+    "A": {
+      "en": "Nerve compression",
+      "zh": "神经压迫"
+    },
+    "B": {
+      "en": "Nerve inflammation",
+      "zh": "神经炎症"
+    },
+    "C": {
+      "en": "Nerve ischemia",
+      "zh": "神经缺血"
+    },
+    "D": {
+      "en": "Lacunar stroke",
+      "zh": "腔隙性脑卒中"
+    },
+    "E": {
+      "en": "Muscle infiltration",
+      "zh": "肌肉浸润"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Neuropathy is a common chronic complication of diabetes mellitus. The clinical features of diabetic neuropathy vary considerably depending on the pattern of nerve involvement, which can be broadly divided into polyneuropathy, mononeuropathy, and autonomic neuropathy. Mononeuropathies can also be further subdivided into cranial and peripheral types.\n\nAll ocular motor nerves (III, IV, VI) can be affected in diabetes but unilateral cranial nerve III (CN III) involvement is most common. Diabetic CN III mononeuropathy classically presents with acute onset diplopia. On examination, the affected eye assumes a \"down and out\" position due to the unopposed pull by the superior oblique (CN IV) and lateral rectus (CN VI) muscles because all other extraocular muscles (inferior oblique and superior, inferior, and medial recti) are supplied by CN III. Ptosis also occurs due to paralysis of the levator palpebrae.\n\nDiabetic mononeuropathy is caused by ischemic nerve damage, which predominantly involves the core of the CN III with relative sparing of the peripheral part. The somatic component of CN III that innervates the extraocular muscles is located centrally, but the autonomic component responsible for pupillary constriction and accommodation is located in the peripheral aspect of the nerve. Therefore, pupillary size and reactivity is normal in diabetic CN III mononeuropathy. {{exhibit_1}}\n\n(Choice A) CN III neuropathy can also occur due to nerve compression. Causes include transtentorial (uncal) herniation, neoplasms, and aneurysms of the posterior cerebral and posterior communicating arteries. In contrast to diabetic CN III mononeuropathy, pupillary dysfunction is often an early manifestation of external nerve compression due to injury of the peripherally located parasympathetic fibers.\n\n(Choices B and E) Neither nerve inflammation nor muscle infiltration contributes to the development of diabetic neuropathy.\n\n(Choice D)  lacumar midbrain strokes can involve the CN III nuclei. Because many neurologic pathways are densely packed in this area, CN III nuclei impairment is almost always associated with other neurologic deficits (eg, cerebellar ataxia, hemiparesis, or contralateral extrapyramidal symptoms). In addition, the contralateral superior rectus is affected because the subnucleus fibers decussate to the contralateral side. Midbrain lesions also cause bilateral ptosis because both levator palpebrae are innervated by a single subnucleus.\n\nEducational objective:\nDiabetic mononeuropathy often involves cranial nerve III. It is caused by predominantly central ischemia, which affects the somatic nerve fibers but spares peripheral parasympathetic fibers. Symptoms include ptosis, a \"down and out\" gaze, and normal light and accommodation reflexes.",
+    "zh": "神经病变是糖尿病的常见慢性并发症。糖尿病神经病变的临床特征差异很大，取决于神经受累的模式，大致可分为多发性神经病、单神经病和自主神经病变。单神经病变也可进一步细分为颅神经病变和周围神经病变。\n\n所有动眼神经 (III、IV、VI) 都可能受糖尿病影响，但单侧颅神经 III (CN III) 受累最为常见。糖尿病性 CN III 单神经病变的典型表现为急性起病的复视。检查时，受累眼由于受上斜肌 (CN IV) 和外直肌 (CN VI) 的对抗力，呈“向下和向外”的位置，因为所有其他眼外肌（下斜肌以及上、下和内直肌）由 CN III 支配。由于提上睑肌麻痹，也会发生眼睑下垂。\n\n糖尿病性单神经病变由缺血性神经损伤引起，主要累及 CN III 的核心，而相对保留周围部分。支配眼外肌的 CN III 的躯体成分位于中央，但负责瞳孔收缩和调节的自主神经成分位于神经的周围部分。因此，糖尿病性 CN III 单神经病变中瞳孔大小和反应正常。{{exhibit_1}}\n\n(选项 A) CN III 神经病变也可能由神经压迫引起。病因包括经幕 (钩回) 疝、肿瘤和后脑动脉和后交通动脉的动脉瘤。与糖尿病性 CN III 单神经病变相比，由于周围的副交感神经纤维受损，瞳孔功能障碍通常是外部神经压迫的早期表现。\n\n(选项 B 和 E) 神经炎症和肌肉浸润均无助于糖尿病神经病变的发展。\n\n(选项 D) 腔隙性中脑卒中可累及 CN III 核。由于许多神经通路在该区域密集排列，CN III 核损伤几乎总是与其他神经功能缺损相关（例如，小脑性共济失调、偏瘫或对侧锥体外系症状）。此外，由于亚核纤维交叉到对侧，对侧上直肌也会受到影响。中脑病变也会导致双侧眼睑下垂，因为提上睑肌由单个亚核支配。\n\n教育目标：\n糖尿病性单神经病变常累及颅神经 III。它主要由中央缺血引起，影响躯体神经纤维，但保留周围副交感神经纤维。症状包括眼睑下垂、“向下和向外”的凝视以及正常的对光反射和调节反射。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of diabetic CN III mononeuropathy, its clinical presentation, and the underlying pathophysiology related to nerve ischemia sparing pupillary function. It also differentiates this condition from other causes of CN III palsy, such as nerve compression or stroke.\n\nTo solve this question, recognize the classic presentation of diabetic CN III mononeuropathy: ptosis, \"down and out\" gaze, and normal pupillary reflexes. Rule out other etiologies of CN III palsy by considering the presence or absence of pupillary involvement and associated neurological deficits.",
+    "zh": "本题考察了对糖尿病性 CN III 单神经病变、其临床表现以及与神经缺血相关的潜在病理生理学的了解，该病变保留了瞳孔功能。它还将此病症与其他 CN III 麻痹的原因区分开来，例如神经压迫或卒中。\n\n要解决这个问题，要认识到糖尿病性 CN III 单神经病变的典型表现：眼睑下垂、“向下和向外”凝视以及正常的瞳孔反射。通过考虑是否存在瞳孔受累和相关的神经功能缺损，排除 CN III 麻痹的其他病因。"
+  },
+  "tags": "Diabetic CN III mononeuropathy; Cranial nerve III palsy; Diplopia; Ptosis; Nerve ischemia; Diabetes mellitus; Neurology; Ophthalmology",
+  "category": "Neuro",
+  "question_id": "1060",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1060",
+  "extracted_at": "2025-11-05T15:07:51.489791",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:16:23.941218",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

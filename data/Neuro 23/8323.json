@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 22-year-old man comes to the emergency department due to sudden-onset pain and stiffness on one side of his neck. He was diagnosed with a psychiatric disorder 2 days ago and has been adherent with his newly prescribed medication. For the past few months, the patient has heard voices telling him to quit his job, and he believes that his girlfriend's parents are monitoring his sexual thoughts with a special device. He has been socially withdrawn and has difficulty showering regularly. Vital signs are within normal limits. The head is tilted to one side and cannot be straightened without considerable pain.",
+    "zh": "一名22岁男性因颈部一侧突发疼痛和僵硬来到急诊科。他于2天前被诊断患有精神疾病，并一直坚持服用新开的药物。在过去的几个月里，患者一直听到声音告诉他辞掉工作，他认为他女朋友的父母正在用特殊设备监视他的性想法。他一直社交孤立，并且难以定期洗澡。生命体征在正常范围内。头部向一侧倾斜，如果不承受相当大的疼痛，就无法伸直。"
+  },
+  "question": {
+    "en": "The most likely cause of this patient's symptoms is antagonism of which of the following receptors?",
+    "zh": "该患者症状最可能的原因是以下哪种受体的拮抗作用？"
+  },
+  "options": {
+    "A": {
+      "en": "Alpha-1 adrenergic",
+      "zh": "α-1 肾上腺素能"
+    },
+    "B": {
+      "en": "Dopaminergic D2",
+      "zh": "多巴胺 D2"
+    },
+    "C": {
+      "en": "GABA-A",
+      "zh": "GABA-A"
+    },
+    "D": {
+      "en": "Histaminergic H1",
+      "zh": "组胺 H1"
+    },
+    "E": {
+      "en": "Muscarinic M1",
+      "zh": "毒蕈碱 M1"
+    },
+    "F": {
+      "en": "Serotonergic 5-HT2A",
+      "zh": "5-羟色胺能 5-HT2A"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient is experiencing an ACUTE DYSTONIC REACTION (ie, spasmodic torticollis), a type of extrapyramidal symptom (EPS) most likely due to recent initiation of antipsychotic medication. Acute dystonia can develop abruptly anytime between 4 hours and 4 days after receiving an antipsychotic medication. The condition is characterized by a sudden, involuntary contraction of a major muscle group. Other examples of acute dystonia include oculogyric crisis (forced, sustained elevation of the eyes in an upward position), opisthotonus (arching of the back with the head thrown backward), and, rarely, laryngospasm. The risk is highest with high-potency, first-generation antipsychotics (eg, haloperidol, fluphenazine).\n\nAcute dystonic reactions are theorized to result from the antipsychotic property of D2 antagonism in the nigrostriatal pathway. In the striatum, the inhibitory effects of dopaminergic neurons (D2) are normally balanced by the excitatory actions of muscarinic cholinergic neurons (M1). Strong dopaminergic blockade causes an excess of cholinergic activity, resulting in extrapyramidal side effects (eg, acute dystonic reactions, akathisia, parkinsonism). Medications with M1 receptor antagonist properties, such as benztropine or the antihistamine diphenhydramine, help re-establish the dopaminergic-cholinergic balance and effectively treat acute dystonia.\n\n(Choice A) Blockade of alpha-1 adrenergic receptors causes orthostatic hypotension and dizziness.\n(Choice C) Flumazenil, a benzodiazepine GABA-A receptor antagonist, can be used to treat benzodiazepine overdose. However, it may precipitate withdrawal seizures in patients with chronic benzodiazepine use.\n(Choice D) Antagonism of central histamine H1 receptors causes sedation and weight gain.\n(Choice E) Antagonism of muscarinic receptors causes anticholinergic side effects (eg, confusion, dry mouth, urinary retention). Low-potency antipsychotics (eg, chlorpromazine, thioridazine) are more likely to cause these effects due to their strong blockade of central and peripheral muscarinic cholinergic receptors.\n(Choice F) Second-generation antipsychotics antagonize serotonergic 5-HT2A, but this does not typically cause dystonia.\n\nEducational objective:\nAcute extrapyramidal symptoms (eg, dystonia, akathisia, parkinsonism) are due to D2 blockade in the nigrostriatal pathway. First-generation, high-potency antipsychotics (eg, haloperidol, fluphenazine) strongly block D2 receptors and are most likely to cause extrapyramidal symptoms.",
+    "zh": "该患者正在经历急性肌张力障碍反应（即，痉挛性斜颈），这是一种锥体外系症状（EPS），最有可能由于最近开始服用抗精神病药物所致。急性肌张力障碍可在服用抗精神病药物后 4 小时到 4 天内的任何时间突然发生。该病症的特征是主要肌肉群的突然、不自主收缩。急性肌张力障碍的其他例子包括眼球危象（眼睛被迫持续向上抬高）、角弓反张（背部弓起，头部向后仰），以及罕见的喉痉挛。高强度、第一代抗精神病药（如氟哌啶醇、氟奋乃静）的风险最高。\n\n据推测，急性肌张力障碍反应是由黑质纹状体通路中 D2 受体的拮抗作用引起的。在纹状体中，多巴胺能神经元（D2）的抑制作用通常被毒蕈碱胆碱能神经元（M1）的兴奋作用所平衡。强烈的多巴胺能阻滞会导致胆碱能活性过高，导致锥体外系副作用（如急性肌张力障碍反应、静坐不能、帕金森病）。具有 M1 受体拮抗特性的药物，如苯托品或抗组胺药苯海拉明，有助于重建多巴胺能-胆碱能平衡，并有效治疗急性肌张力障碍。\n\n(选项 A) 阻断 α-1 肾上腺素能受体引起体位性低血压和头晕。\n(选项 C) 氟马西尼是一种苯二氮卓类药物的 GABA-A 受体拮抗剂，可用于治疗苯二氮卓类药物过量。然而，它可能会引起长期使用苯二氮卓类药物的患者出现戒断性癫痫发作。\n(选项 D) 中枢组胺 H1 受体的拮抗作用会导致镇静和体重增加。\n(选项 E) 毒蕈碱受体的拮抗作用会引起抗胆碱能副作用（例如，意识模糊、口干、尿潴留）。低效抗精神病药（如氯丙嗪、硫利达嗪）由于强烈阻断中枢和外周毒蕈碱胆碱能受体，更容易引起这些影响。\n(选项 F) 第二代抗精神病药拮抗 5-HT2A 受体，但这通常不会引起肌张力障碍。\n\n教育目标：\n急性锥体外系症状（例如，肌张力障碍、静坐不能、帕金森病）是由于黑质纹状体通路中 D2 受体的阻滞所致。第一代高效抗精神病药（如氟哌啶醇、氟奋乃静）强烈阻断 D2 受体，最有可能引起锥体外系症状。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of acute dystonic reactions, a common side effect of antipsychotic medications. It specifically assesses the knowledge of the underlying pathophysiology, which involves the blockade of dopamine D2 receptors in the nigrostriatal pathway, leading to an imbalance with cholinergic activity.\n\nTo solve this question, one must first recognize the patient's symptoms as an acute dystonic reaction based on the sudden onset of neck stiffness and tilting after starting a new psychiatric medication. Then, recall or deduce that this extrapyramidal symptom is primarily caused by D2 receptor antagonism by antipsychotics, leading to the correct answer.",
+    "zh": "此题考察对急性肌张力障碍反应的理解，这是抗精神病药物的常见副作用。它专门评估对潜在病理生理学的了解，这涉及阻断黑质纹状体通路中的多巴胺 D2 受体，导致与胆碱能活性的失衡。\n\n要解决这个问题，首先必须根据开始新的精神药物治疗后颈部僵硬和倾斜的突然发作，将患者的症状识别为急性肌张力障碍反应。然后，回忆或推断这种锥体外系症状主要由抗精神病药对 D2 受体的拮抗作用引起，从而得出正确答案。"
+  },
+  "tags": "Acute dystonic reaction; Extrapyramidal symptoms; Antipsychotic medication; Dopamine D2 receptors; Nigrostriatal pathway; Pharmacology; Psychiatry; Neurology",
+  "category": "Neuro",
+  "question_id": "8323",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\8323",
+  "extracted_at": "2025-11-05T19:29:47.071059",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:28:43.236786",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

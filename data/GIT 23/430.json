@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 60-year-old woman comes to the office with persistent, profuse mucoid diarrhea. Despite not eating much for the past 2 days, her diarrhea has not decreased, but she has no other symptoms. The patient has not had age-appropriate colon cancer screening. Family history is unremarkable. She does not use tobacco, alcohol, or illicit drugs. Vital signs and cardiopulmonary examination are normal. The abdomen is soft and nondistended. There is no hepatosplenomegaly. Laboratory studies show hypokalemia and microcytic anemia. Colonoscopy reveals a 2.5-cm, cauliflower-like mass in the sigmoid colon. The mass is resected and the histopathology of the lesion is shown in the exhibit {{exhibit_1}}.",
+    "zh": "一位60岁的女性来到诊所，主诉持续性、大量的黏液性腹泻。尽管过去2天没有吃很多东西，但她的腹泻并未减轻，但她没有其他症状。该患者未进行符合年龄的结肠癌筛查。家族史无特殊。她不吸烟、不饮酒、不吸毒。生命体征和心肺检查正常。腹部柔软且无膨隆。无肝脾肿大。实验室检查显示低钾血症和小细胞性贫血。结肠镜检查显示乙状结肠内有一个2.5厘米的菜花状肿块。肿块被切除，病变的组织病理学在展览{{exhibit_1}}中显示。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis in this patient?",
+    "zh": "该患者最可能的诊断是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Carcinoid tumor",
+      "zh": "类癌肿瘤"
+    },
+    "B": {
+      "en": "Hamartomatous polyp",
+      "zh": "错构瘤性息肉"
+    },
+    "C": {
+      "en": "Hyperplastic polyp",
+      "zh": "增生性息肉"
+    },
+    "D": {
+      "en": "Signet ring cell carcinoma",
+      "zh": "印戒细胞癌"
+    },
+    "E": {
+      "en": "Villous adenoma",
+      "zh": "绒毛状腺瘤"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Biopsy of this patient's mass demonstrates long glands with finger-like (villous) projections extending from the surface as well as dysplastic epithelium, which are characteristic of a VILLOUS ADENOMA. A villous adenoma is often large and sessile and can have velvety or cauliflower-like projections. By contrast, a tubular adenoma is composed of dysplastic colonic mucosal cells that form tube-shaped glands and tends to be smaller and pedunculated. A mixture of these 2 types indicates a tubulovillous adenoma. Of these, villous adenomas are the most likely to undergo MALIGNANT TRANSFORMATION.\n\nAdenomas in the colon can cause occult or visible bleeding, leading to iron-deficiency anemia. Large polyps may occasionally cause partial obstruction with pain, constipation, and abdominal distension. In addition, villous adenomas can produce large quantities of prostaglandin E2, which results in INCREASED MUCIN production and a SECRETORY DIARRHEA characterized by watery, mucinous stools. Mucin is a potassium-rich glycoprotein: excessive production can result in HYPOPROTEINEMIA and HYPOKALEMIA.\n\n(Choice A) Intestinal carcinoids can cause diarrhea and are often associated with additional symptoms such as flushing, wheezing, and vascular telangiectasia when they metastasize. Histopathology is typified by insular (nesting) masses of small, round cells with peripheral palisading, granular cytoplasm, small nucleoli, and salt-and-pepper chromatin.\n\n(Choice B) Hamartomatous polyps consist of disorganized mucosal glands, smooth muscle, and connective tissue. They may occur sporadically or in Peutz-Jeghers syndrome or juvenile polyposis. These polyps can cause bleeding and intussusception, but not secretory diarrhea.\n\n(Choice C) Hyperplastic polyps are characterized by a proliferation of nondysplastic epithelial cells resulting in a serrated or \"sawtoothed\" architecture seen in the upper parts of the crypts. They are typically small lesions and almost asymptomatic.\n\n(Choice D) Signet ring cell carcinoma can occur in different locations, such as the stomach, breast, ovary, and colorectal area. Tumor cells contain abundant mucins that push the nuclei to the periphery and give the tumor cells their characteristic appearance.",
+    "zh": "该患者的肿块活检显示从表面延伸出长腺体，具有手指状（绒毛状）突起，以及异型增生上皮，这些是绒毛状腺瘤的特征。绒毛状腺瘤通常较大且无蒂，并可具有天鹅绒状或菜花状突起。相比之下，管状腺瘤由形成管状腺体的异型增生结肠粘膜细胞组成，往往较小且有蒂。这两种类型的混合表明是管状绒毛状腺瘤。在这些腺瘤中，绒毛状腺瘤最有可能发生恶性转化。\n\n结肠内的腺瘤可引起隐匿性或可见性出血，导致缺铁性贫血。大的息肉偶尔会引起部分梗阻，伴有疼痛、便秘和腹胀。此外，绒毛状腺瘤可产生大量前列腺素E2，导致粘蛋白分泌增加和分泌性腹泻，其特征是水样、黏液性粪便。粘蛋白是一种富含钾的糖蛋白：过度产生可导致低蛋白血症和低钾血症。\n\n（选项 A）肠道类癌可引起腹泻，并且在转移时常伴有其他症状，如潮红、喘息和血管扩张。组织病理学以小而圆的细胞的岛状（巢状）肿块为特征，周围有栅栏状排列，颗粒状细胞质，小的核仁和盐和胡椒染色质。\n\n（选项 B）错构瘤性息肉由紊乱的粘膜腺体、平滑肌和结缔组织组成。它们可能散发出现，或出现在Peutz-Jeghers综合征或幼年性息肉病中。这些息肉可引起出血和肠套叠，但不会引起分泌性腹泻。\n\n（选项 C）增生性息肉的特征是无异型增生上皮细胞的增生，导致在隐窝上部可见锯齿状或“锯齿状”结构。它们通常是小的病变，几乎无症状。\n\n（选项 D）印戒细胞癌可发生在不同部位，如胃、乳房、卵巢和结直肠区域。肿瘤细胞含有丰富的粘蛋白，将细胞核推向外周，使肿瘤细胞具有其特征性外观。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of colonic polyp types, specifically villous adenomas, and their clinical presentation including secretory diarrhea and electrolyte imbalances. It also assesses understanding of the malignant potential of villous adenomas.\n\nTo solve this question, recognize the key features of villous adenomas: profuse mucoid diarrhea leading to hypokalemia, and the characteristic histopathology. Rule out other polyp types based on their distinct clinical and histological features.",
+    "zh": "本题测试对结肠息肉类型的了解，特别是绒毛状腺瘤，及其临床表现，包括分泌性腹泻和电解质失衡。它还评估对绒毛状腺瘤恶性潜能的理解。\n\n要解决这个问题，需要识别绒毛状腺瘤的关键特征：大量的黏液性腹泻导致低钾血症，以及特征性的组织病理学。根据其他息肉类型的独特临床和组织学特征，排除其他息肉类型。"
+  },
+  "tags": "Villous adenoma; Colon polyps; Secretory diarrhea; Hypokalemia; Colorectal cancer; Gastroenterology; Pathology; Mucin; Malignant transformation",
+  "category": "GIT",
+  "question_id": "430",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\430",
+  "extracted_at": "2025-11-05T14:36:14.584119",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:57:59.244641",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

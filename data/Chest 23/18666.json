@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 56-year-old man is hospitalized due to worsening fever, chills, and perirectal pain. Physical examination reveals a large perirectal abscess. Empiric antibiotics are begun, and surgical drainage is planned. The patient receives succinylcholine and propofol prior to the procedure. The intraoperative course is uneventful, but postoperative spontaneous recovery of respiration and voluntary muscle activity does not occur. Mechanical respiratory support is continued, and several hours later, the patient is successfully weaned from the ventilator.",
+    "zh": "一名56岁男性因发热、寒战和肛周疼痛加重而住院。体格检查显示肛周脓肿较大。开始经验性抗生素治疗，并计划进行手术引流。患者在手术前接受了琥珀酰胆碱和丙泊酚。术中过程顺利，但术后未出现自主呼吸和随意肌活动的恢复。继续机械通气支持，数小时后，患者成功脱离呼吸机。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying cause of this patient's postoperative complications?",
+    "zh": "以下哪项最可能是该患者术后并发症的根本原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased renal clearance",
+      "zh": "肾清除率降低"
+    },
+    "B": {
+      "en": "Drug redistribution to other tissues",
+      "zh": "药物重新分布到其他组织"
+    },
+    "C": {
+      "en": "Genetic polymorphism",
+      "zh": "基因多态性"
+    },
+    "D": {
+      "en": "Impaired hepatic function",
+      "zh": "肝功能受损"
+    },
+    "E": {
+      "en": "Neuromuscular junction autoantibodies",
+      "zh": "神经肌肉接头自身抗体"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Succinylcholine is a depolarizing neuromuscular blocking agent used to induce skeletal relaxation during intubation and surgery. It acts as a competitive agonist of nicotinic acetylcholine receptors of the motor endplate, where it induces persistent depolarization, leading to endplate desensitization and skeletal muscle paralysis. Succinylcholine is rapidly metabolized by plasma pseudocholinesterase; only around 10% of the administered dose reaches the neuromuscular junction, where it typically has a duration of action of <10 minutes.\n\nThis patient, who developed prolonged muscle weakness (eg, failure of spontaneous respiration and voluntary muscle activity) after receiving succinylcholine, most likely has pseudocholinesterase deficiency, an autosomal recessive disorder caused by a genetic polymorphism in the BCHE gene. Patients are unable to metabolize succinylcholine, leading to a large amount of the drug reaching the neuromuscular junction and prolonged paralysis. Heterozygotes may experience double the normal duration of paralysis, and homozygotes can have persistent paralysis for several hours. Patients with pseudocholinesterase deficiency also experience prolonged effects of mivacurium (a nondepolarizing neuromuscular blocker) and cocaine.\n\n(Choices A and D) Succinylcholine is metabolized by plasma pseudocholinesterase, not the liver or kidneys. Because pseudocholinesterase is produced in the liver, patients with severe liver disease may have prolonged drug effects due to impaired synthetic function. However, paralysis would not be expected to last for hours.\n\n(Choice B) Propofol is highly lipid soluble and has a very short duration of action (seconds) because of rapid redistribution from the brain, where it activates the GABA-A receptor, to other tissues. Propofol is a hypnotic agent; it does not cause muscle paralysis.\n\n(Choice E) Patients with myasthenia gravis (ie, autoantibodies to the acetylcholine receptors of the neuromuscular junction) have fewer active acetylcholine receptors and are therefore highly resistant to succinylcholine. Paralysis can occur with high doses but is unpredictable. Use is usually avoided in this population.\n\nEducational objective:\nSuccinylcholine is a depolarizing neuromuscular blocking agent used to induce skeletal muscle relaxation; it typically has a very short duration of action due to metabolism by plasma pseudocholinesterase. Pseudocholinesterase deficiency is an autosomal recessive disorder that results in the inability to metabolize succinylcholine, leading to prolonged neuromuscular paralysis after drug administration.",
+    "zh": "琥珀酰胆碱是一种去极化神经肌肉阻滞剂，用于在插管和手术期间诱导骨骼肌松弛。它作为运动终板烟碱型乙酰胆碱受体的竞争性激动剂，诱导持续去极化，导致终板脱敏和骨骼肌麻痹。琥珀酰胆碱被血浆假性胆碱酯酶迅速代谢；只有大约10%的给药剂量到达神经肌肉接头，其作用时间通常<10分钟。\n\n该患者在接受琥珀酰胆碱后出现肌肉无力延长（例如，自主呼吸和随意肌活动衰竭），最有可能患有假性胆碱酯酶缺乏症，这是一种由BCHE基因的基因多态性引起的常染色体隐性遗传病。患者无法代谢琥珀酰胆碱，导致大量药物到达神经肌肉接头并导致麻痹延长。杂合子可能会经历两倍于正常持续时间的麻痹，纯合子可能会持续数小时的麻痹。假性胆碱酯酶缺乏症患者也会经历米库氯铵（一种非去极化神经肌肉阻滞剂）和可卡因的长期作用。\n\n（选项A和D）琥珀酰胆碱由血浆假性胆碱酯酶代谢，而不是肝脏或肾脏。由于假性胆碱酯酶是在肝脏中产生的，因此患有严重肝病的患者可能会因合成功能受损而出现药物作用延长。然而，麻痹不应持续数小时。\n\n（选项B）丙泊酚具有高脂溶性，作用时间很短（几秒钟），因为它可以从大脑（激活GABA-A受体）迅速重新分布到其他组织。丙泊酚是一种催眠剂；它不会引起肌肉麻痹。\n\n（选项E）重症肌无力患者（即，针对神经肌肉接头的乙酰胆碱受体的自身抗体）的活性乙酰胆碱受体较少，因此对琥珀酰胆碱具有高度抵抗力。高剂量下可能会发生麻痹，但不可预测。在这种人群中通常避免使用。\n\n教育目标：琥珀酰胆碱是一种去极化神经肌肉阻滞剂，用于诱导骨骼肌松弛；由于血浆假性胆碱酯酶的代谢，它通常具有很短的作用时间。假性胆碱酯酶缺乏症是一种常染色体隐性遗传病，导致无法代谢琥珀酰胆碱，导致给药后出现神经肌肉麻痹延长。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of succinylcholine metabolism and the implications of pseudocholinesterase deficiency. It assesses the ability to recognize prolonged neuromuscular blockade following succinylcholine administration and identify the underlying genetic cause.\n\nTo solve this question, recognize the prolonged paralysis after succinylcholine administration. Consider conditions affecting drug metabolism, particularly pseudocholinesterase deficiency, which is a genetic cause of prolonged succinylcholine effect.",
+    "zh": "本题考察对琥珀酰胆碱代谢以及假性胆碱酯酶缺乏症的认识。评估识别琥珀酰胆碱给药后神经肌肉阻滞延长的能力，并确定潜在的遗传原因。\n\n要解决这个问题，需要认识到琥珀酰胆碱给药后麻痹延长。考虑影响药物代谢的疾病，特别是假性胆碱酯酶缺乏症，这是琥珀酰胆碱作用延长的遗传原因。"
+  },
+  "tags": "Succinylcholine; Pseudocholinesterase deficiency; Genetic polymorphism; Neuromuscular blockade; Anesthesia; BCHE gene; Drug metabolism",
+  "category": "Chest",
+  "question_id": "18666",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\18666",
+  "extracted_at": "2025-11-05T11:41:45.040907",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:36:51.769316",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

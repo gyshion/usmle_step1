@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old woman has recurrent throbbing headaches that occur several times a month and cause significant distress. They are accompanied by nausea and photophobia. She has had 5 emergency department visits for these headaches over the last 6 months. During office visits, her blood pressure ranges from 140/90 mm Hg to 150/95 mm Hg. Neurologic examination is unremarkable. The patient is prescribed metoprolol and is advised that the medication is expected to decrease the frequency of headaches and also lower blood pressure in the long term.",
+    "zh": "一名34岁的女性出现反复搏动性头痛，每月发生数次，并引起显著痛苦。 伴有恶心和畏光。 在过去6个月中，她因这些头痛去了5次急诊。 在诊室就诊期间，她的血压范围为140/90 mmHg至150/95 mmHg。 神经系统检查无异常。 患者被处方美托洛尔，并被告知该药物有望减少头痛的频率，并在长期内降低血压。"
+  },
+  "question": {
+    "en": "Which of the following best explains this medication's effect on blood pressure?",
+    "zh": "以下哪项最能解释这种药物对血压的影响？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased level of circulating catecholamines",
+      "zh": "循环儿茶酚胺水平降低"
+    },
+    "B": {
+      "en": "Decreased level of circulating renin",
+      "zh": "循环肾素水平降低"
+    },
+    "C": {
+      "en": "Increased atrioventricular nodal conduction rate",
+      "zh": "房室结传导速率增加"
+    },
+    "D": {
+      "en": "Increased renal sodium and water retention",
+      "zh": "肾脏对钠和水的潴留增加"
+    },
+    "E": {
+      "en": "Long-term increase in peripheral vascular resistance",
+      "zh": "外周血管阻力长期增加"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Beta blockers are useful for treating hypertensive patients with comorbid conditions such as migraine, essential tremor, angina pectoris/prior myocardial infarction, and atrial fibrillation. Beta blockers lower blood pressure via 2 mechanisms:\n\n1.  Reducing myocardial contractility and heart rate\n2.  Decreasing renin release by the kidney\n\nRenin release is mediated in part by sympathetic stimulation of beta-1 receptors located on juxtaglomerular cells. Therefore, beta-adrenergic blocking drugs (eg, metoprolol) act to inhibit renin release, which in turn reduces the conversion of angiotensinogen to angiotensin I and reduces the levels of angiotensin II (a potent vasoconstrictor) and aldosterone (decreasing renal sodium and water retention) {{exhibit_1}}.\n\n(Choice A) Beta blockers block the action of endogenous catecholamines on adrenergic beta receptors but have no significant effect on circulating levels of catecholamine. \n\n(Choice C) Beta-adrenergic receptor antagonists depress conduction through the atrioventricular (AV) node and can cause varying degrees of AV block.\n\n(Choice E) Long-term use of beta blockers will cause either no change or modest decreases in the peripheral vascular resistance due to their effects on the renin-angiotensin-aldosterone system.\n\nEducational objective: \nBeta blockers inhibit release of renin from renal juxtaglomerular cells through antagonism of beta-1 receptors on these cells. Inhibition of renin release prevents activation of the renin-angiotensin-aldosterone pathway, which results in decreased vasoconstriction and decreased renal sodium and water retention.",
+    "zh": "β受体阻滞剂可用于治疗患有合并症的高血压患者，如偏头痛、特发性震颤、心绞痛/既往心肌梗死和心房颤动。 β受体阻滞剂通过以下两种机制降低血压：\n\n1. 降低心肌收缩力和心率\n2. 减少肾脏释放肾素\n\n肾素的释放部分由交感神经刺激肾小球旁细胞上的β-1受体介导。 因此，β-肾上腺素能阻断药物（例如美托洛尔）可抑制肾素的释放，进而减少血管紧张素原向血管紧张素I的转化，并降低血管紧张素II（一种强效血管收缩剂）和醛固酮的水平（减少肾脏对钠和水的潴留）{{exhibit_1}}。\n\n（选项A）β受体阻滞剂阻断内源性儿茶酚胺对肾上腺素能β受体的作用，但对循环儿茶酚胺水平没有显著影响。\n\n（选项C）β-肾上腺素受体拮抗剂抑制通过房室（AV）结的传导，并可引起不同程度的房室传导阻滞。\n\n（选项E）长期使用β受体阻滞剂将导致外周血管阻力无变化或适度降低，这与其对肾素-血管紧张素-醛固酮系统的影响有关。\n\n教学目标：\nβ受体阻滞剂通过拮抗这些细胞上的β-1受体来抑制肾脏肾小球旁细胞释放肾素。 抑制肾素释放可防止肾素-血管紧张素-醛固酮通路的激活，从而导致血管收缩减少和肾脏对钠和水的潴留减少。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of action of beta-blockers in treating hypertension, specifically their effect on the renin-angiotensin-aldosterone system. It requires understanding how beta-blockers inhibit renin release, leading to decreased vasoconstriction and sodium/water retention.\n\nThe best approach is to recall that beta-blockers primarily affect the heart and kidneys. Focus on options that relate to these organ systems and consider the impact on the renin-angiotensin-aldosterone system. Eliminate options that describe unrelated effects or contradict the known mechanism of action.",
+    "zh": "这个问题考察了β受体阻滞剂治疗高血压的作用机制，特别是它们对肾素-血管紧张素-醛固酮系统的影响。 这需要了解β受体阻滞剂如何抑制肾素释放，从而导致血管收缩和钠/水潴留减少。\n\n最好的方法是回忆β受体阻滞剂主要影响心脏和肾脏。 重点关注与这些器官系统相关的选项，并考虑其对肾素-血管紧张素-醛固酮系统的影响。 排除描述无关影响或与已知作用机制相矛盾的选项。"
+  },
+  "tags": "Hypertension; Beta-blockers; Renin-angiotensin-aldosterone system; Metoprolol; Migraine",
+  "category": "CVS",
+  "question_id": "1948",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1948",
+  "extracted_at": "2025-11-05T12:05:37.634457",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:26:01.845200",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

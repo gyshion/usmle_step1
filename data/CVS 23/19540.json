@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 10-day-old boy born at home is brought to the emergency department due to difficulty breathing and sweating with feeds. He was born at 38 weeks gestation via spontaneous vaginal delivery. The patient has been breastfeeding every 2 hours for 5-10 minutes per side. The mother notes that he sweats and his lips turn blue while he feeds. Weight is at the 5th percentile and length is at the 50th percentile. On examination, the patient is currently not cyanotic. There is a III/VI systolic crescendo-decrescendo murmur best heard along the left upper sternal border. Chest x-ray is shown below: {{exhibit_1}}",
+    "zh": "一名在家出生的10天大男婴因喂养时呼吸困难和出汗而被送往急诊科。他通过自发阴道分娩于妊娠38周分娩。患者每2小时母乳喂养一次，每次每侧5-10分钟。母亲注意到他在喂养时出汗，嘴唇变蓝。体重处于第5个百分位数，身长处于第50个百分位数。检查时，患者目前未出现发绀。在左上胸骨缘可听到III/VI级收缩期渐强-减弱型杂音。胸部X光片如下所示：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following pressure changes most likely occur in this patient during feedings?",
+    "zh": "该患者在喂养期间最有可能发生以下哪种压力变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased; Decreased; Decreased",
+      "zh": "降低；降低；降低"
+    },
+    "B": {
+      "en": "Decreased; Increased; Increased",
+      "zh": "降低；升高；升高"
+    },
+    "C": {
+      "en": "Increased; Decreased; Decreased",
+      "zh": "升高；降低；降低"
+    },
+    "D": {
+      "en": "Increased; Increased; Increased",
+      "zh": "升高；升高；升高"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This neonate has diaphoresis and episodic cyanosis with feeding, suggesting cyanotic congenital heart disease. The murmur of right ventricular outflow tract (RVOT) obstruction (ie, pulmonic stenosis) and evidence of right ventricular hypertrophy (ie, boot-shaped heart) on chest x-ray are consistent with TETRALOGY OF FALLOT (ToF). The anatomic defects of ToF are RVOT obstruction with an overriding aorta and large ventricular septal defect (VSD); concentric right ventricular hypertrophy develops due to increased right ventricular pressure load compared to normal.\n\nThe degree of RVOT obstruction is the major driver of symptoms in ToF because it determines how much blood flows through the pulmonary artery to the lungs and the magnitude and direction of shunting through the VSD. Because some degree of RVOT obstruction is fixed and some degree is dynamic (ie, subject to an increase with activity [eg, crying, feeding]), many patients have left-to-right or neutral shunting through the VSD at baseline (and are acyanotic) but develop cyanosis when a dynamic increase in RVOT obstruction causes right-to-left shunting through the VSD (ie, tet episode).\n\nDuring a tet episode, increased RVOT obstruction leads to increased right ventricular pressure and facilitates right-to-left shunting. There is also decreased pulmonary arterial pressure (blood cannot pass through the RVOT tract into the pulmonary artery, reducing pulmonary blood flow), and decreased left atrial pressure (the left atrium receives less blood returning from the lungs). Due to the large size of the VSD in ToF, left ventricular pressure usually closely matches right ventricular pressure (ie, the ventricles are somewhat like a single chamber). \n\nA tet episode may be improved by bringing the knees to the chest. This maneuver increases systemic afterload, reducing right-to-left shunting through the VSD and forcing more blood through the RVOT.\n\nEducational objective: The major defects in tetralogy of Fallot are right ventricular outflow tract (RVOT) obstruction and a ventricular septal defect (VSD). In many patients, activities (eg, feeding, crying) can precipitate cyanotic episodes (tet episodes) by causing a dynamic increase in RVOT obstruction. During these episodes, increased right ventricular pressure results in right-to-left shunting through the VSD; because blood is shunted away from the pulmonary circulation, pulmonary arterial and left atrial pressures are decreased. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "该新生儿在喂养时出现出汗和阵发性发绀，提示先天性心脏病。右心室流出道(RVOT)梗阻（即肺动脉瓣狭窄）的杂音和胸部X光片上右心室肥大（即靴形心）的证据与法洛四联症（ToF）一致。 ToF 的解剖缺陷是 RVOT 梗阻，伴有主动脉骑跨和大的室间隔缺损 (VSD)；由于右心室压力负荷增加，会发生向心性右心室肥大。\n\nRVOT梗阻的程度是 ToF 患者症状的主要驱动因素，因为它决定了有多少血液流经肺动脉进入肺部，以及通过 VSD 分流的程度和方向。由于某种程度的 RVOT 梗阻是固定的，而某种程度是动态的（即，随着活动而增加[例如，哭泣、喂养]），许多患者在基线时通过 VSD 发生左向右或中性分流（并且无发绀），但在 RVOT 梗阻的动态增加导致通过 VSD 发生右向左分流时，会出现发绀（即，四联症发作）。\n\n在四联症发作期间，RVOT 梗阻增加会导致右心室压力升高，并促进右向左分流。肺动脉压也会降低（血液无法通过 RVOT 导管进入肺动脉，从而减少肺血流量），并且左心房压力降低（左心房接收的来自肺部的血液减少）。由于 ToF 中 VSD 较大，左心室压力通常与右心室压力非常接近（即，心室有点像单个腔室）。\n\n将膝盖抬高到胸前可以改善四联症发作。这种操作增加了全身后负荷，减少了通过 VSD 的右向左分流，并将更多血液推过 RVOT。\n\n教育目标：法洛四联症的主要缺陷是右心室流出道 (RVOT) 梗阻和室间隔缺损 (VSD)。在许多患者中，活动（例如，喂养、哭泣）可以通过引起 RVOT 梗阻的动态增加来诱发发绀发作（四联症发作）。在这些发作期间，右心室压力增加会导致通过 VSD 的右向左分流；由于血液被分流出肺循环，肺动脉和左心房压力降低。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Tetralogy of Fallot (TOF), a cyanotic congenital heart defect, and the hemodynamic changes that occur during a \"tet spell\" or cyanotic episode. Specifically, it assesses understanding of how right ventricular outflow tract (RVOT) obstruction affects pressures in the heart and pulmonary circulation.\n\nTo solve this question, recognize the clinical presentation of TOF (cyanosis with feeding, murmur, boot-shaped heart on X-ray). Understand that increased RVOT obstruction during feeding leads to increased right ventricular pressure and decreased pulmonary and left atrial pressures due to right-to-left shunting.",
+    "zh": "这个问题考察了对法洛四联症 (TOF) 的认识，法洛四联症是一种发绀型先天性心脏缺陷，以及在“四联症发作”或发绀发作期间发生的心血流动力学变化。具体来说，它评估了对右心室流出道 (RVOT) 梗阻如何影响心脏和肺循环压力的理解。\n\n要解决这个问题，需要识别 ToF 的临床表现（喂养时发绀、杂音、X光片上的靴形心）。了解喂养期间 RVOT 梗阻增加会导致右心室压力增加，并由于右向左分流而导致肺动脉和左心房压力降低。"
+  },
+  "tags": "Tetralogy of Fallot; Cyanotic heart disease; Congenital heart defects; Right ventricular outflow obstruction; Ventricular septal defect; Cardiology; Pediatrics; Pulmonary artery pressure; Left atrial pressure; Right ventricular pressure",
+  "category": "CVS",
+  "question_id": "19540",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\19540",
+  "extracted_at": "2025-11-05T12:06:18.139453",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:26:30.183720",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

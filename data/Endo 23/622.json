@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 28-year-old woman comes to the office due to progressively worsening eye irritation and double vision over the last 2 months. She also reports unintentional weight loss, mood swings, and palpitations. The patient has no prior medical problems and takes no medications. She has no known drug allergies and does not use tobacco, alcohol, or illicit drugs. Blood pressure is 140/70 mm Hg, and pulse is 110/min and regular. Physical examination shows bilateral conjunctival redness and severe proptosis. Appropriate therapy is begun. On a follow-up visit 4 weeks later, her eye symptoms have improved, and examination reveals a small decrease in proptosis with no redness.",
+    "zh": "一名28岁的女性因过去2个月来进行性加重的眼部刺激和复视前来就诊。她还报告了非意向性体重减轻、情绪波动和心悸。患者既往无任何医疗问题，未服用任何药物。她对药物无已知过敏史，并且不使用烟草、酒精或违禁药物。血压为140/70 mm Hg，脉搏为110次/分钟，规律。体格检查显示双侧结膜发红和严重眼球突出。开始适当治疗。在4周后的复诊中，她的眼部症状有所改善，检查显示眼球突出略有减轻，无发红。"
+  },
+  "question": {
+    "en": "The drug that improved her ocular symptoms most likely did so by affecting which of the following?",
+    "zh": "改善她眼部症状的药物最有可能通过影响以下哪一项来实现？"
+  },
+  "options": {
+    "A": {
+      "en": "Inflammatory infiltration",
+      "zh": "炎性浸润"
+    },
+    "B": {
+      "en": "Iodine organification",
+      "zh": "碘的有机化"
+    },
+    "C": {
+      "en": "Iodine uptake by the thyroid",
+      "zh": "甲状腺对碘的摄取"
+    },
+    "D": {
+      "en": "Sympathetic hyperactivity",
+      "zh": "交感神经功能亢进"
+    },
+    "E": {
+      "en": "T3/T4 release by the thyroid",
+      "zh": "甲状腺释放T3/T4"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has Graves disease with hyperthyroidism (weight loss, palpitations, tachycardia) and significant ophthalmopathy (proptosis, diplopia). Graves disease is an autoimmune disorder triggered by thyrotropin receptor antibodies, which bind and activate the TSH receptor. In addition to the thyroid, the TSH receptor is present on fibroblasts, adipocytes, and other cell types. Graves ophthalmopathy is caused by stimulation of orbital fibroblasts by thyrotropin receptor antibodies, which leads to excess deposition of extracellular glycosaminoglycans; this is accompanied by T-cell activation and inflammatory infiltration. The resultant expansion of extraocular muscles and retro-orbital tissues with the orbit displaces the globe forward, and dysfunction of the extraocular muscles causes restricted extraocular movements and diplopia.\n\nGlucocorticoids (eg, prednisone) decrease peripheral conversion of T4 to T3, but is their anti-inflammatory effects that improve Graves ophthalmopathy. Glucocorticoids decrease the severity of inflammation and reduce the excess extraocular volume. They also can prevent worsening of ophthalmopathy induced by radioactive iodine treatment.\n\n(Choices B, C, and E) Antithyroid drugs (eg, methimazole, propylthiouracil) inhibit thyroic peroxidase, leading to decreased iodine organification and coupling of iodotyrosines. Certain oxoanions (eg, perchlorate, pertechnetate) inhibit the sodium-iodide symporter and reduce iodine uptake by the thyroid. These agents ultimately lead to reduced production and release of thyroid hormone but do not alter the inflammatory process in Graves ophthalmopathy.\n\n(Choice D) Sympathetic activation secondary to hyperthyroidism is responsible for a number of symptoms, including palpitations and tremors. Beta blockers can provide rapid symptomatic relief while awaiting definitive therapy. Although lid lag (which is seen in hyperthyroidism of any cause) would improve with beta blockers, the specific features of Graves ophthalmopathy (eg, diplopia, proptosis) would not be affected.\n\nEducational objective:\nGraves ophthalmopathy is caused by stimulation of orbital fibroblasts by thyrotropin receptor antibodies and cytokines released by activated T-cells. Excess deposition of extracellular glycosaminoglycans and inflammatory infiltration lead to expansion of extraocular muscles and retro-orbital tissues. Glucocorticoids improve Graves ophthalmopathy by decreasing the severity of inflammation and reducing the excess extraocular volume. {{exhibit_1}}",
+    "zh": "该患者患有Graves病伴甲状腺功能亢进（体重减轻、心悸、心动过速）和显著的眼病（眼球突出、复视）。Graves病是一种自身免疫性疾病，由促甲状腺激素受体抗体触发，这些抗体结合并激活TSH受体。除了甲状腺外，TSH受体存在于成纤维细胞、脂肪细胞和其他细胞类型上。Graves眼病是由促甲状腺激素受体抗体刺激眶成纤维细胞引起的，这导致细胞外糖胺聚糖的过度沉积；这伴随着T细胞激活和炎性浸润。由此产生的眼外肌和眶后组织的扩张以及眼眶向前推移了眼球，眼外肌功能障碍导致眼外运动受限和复视。\n\n糖皮质激素（例如，泼尼松）减少T4向T3的周围转化，但它们改善Graves眼病的却是其抗炎作用。糖皮质激素可降低炎症的严重程度并减少过多的眼外体积。它们还可以防止放射性碘治疗引起的眼病恶化。\n\n（选项B、C和E）抗甲状腺药物（例如，甲巯咪唑、丙硫氧嘧啶）抑制甲状腺过氧化物酶，导致碘的有机化和碘酪氨酸的偶联减少。某些氧代阴离子（例如，高氯酸盐、高锝酸盐）抑制钠-碘协同转运蛋白并减少甲状腺对碘的摄取。这些药物最终导致甲状腺激素的产生和释放减少，但不会改变Graves眼病中的炎症过程。\n\n（选项D）继发于甲状腺功能亢进的交感神经激活是许多症状的原因，包括心悸和震颤。β受体阻滞剂可在等待明确治疗时提供快速的症状缓解。虽然眼睑迟滞（可见于任何原因引起的甲状腺功能亢进）会随着β受体阻滞剂的改善，但Graves眼病的特定特征（例如，复视、眼球突出）不会受到影响。\n\n教育目标：\nGraves眼病是由促甲状腺激素受体抗体和活化T细胞释放的细胞因子刺激眶成纤维细胞引起的。细胞外糖胺聚糖的过度沉积和炎性浸润导致眼外肌和眶后组织扩张。糖皮质激素通过降低炎症的严重程度并减少过多的眼外体积来改善Graves眼病。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Graves' ophthalmopathy pathophysiology and how glucocorticoids improve ocular symptoms by reducing inflammation. It assesses understanding of the autoimmune mechanisms and the role of TSH receptor antibodies in stimulating orbital fibroblasts.\n\nTo solve this question, recognize the clinical presentation of Graves' disease with ophthalmopathy. Understand that glucocorticoids' anti-inflammatory effects target the inflammatory infiltration in the orbit, reducing extraocular muscle expansion and proptosis.",
+    "zh": "此题考察对Graves眼病病理生理学的了解以及糖皮质激素如何通过减少炎症来改善眼部症状。它评估了对自身免疫机制的理解以及TSH受体抗体在刺激眶成纤维细胞中的作用。\n\n要解决这个问题，需要识别Graves病伴眼病的临床表现。理解糖皮质激素的抗炎作用靶向眼眶内的炎性浸润，从而减少眼外肌扩张和眼球突出。"
+  },
+  "tags": "Graves disease; Graves ophthalmopathy; Hyperthyroidism; Autoimmune disease; Thyroid-stimulating hormone receptor; Glucocorticoids; Inflammatory infiltration; Proptosis; Diplopia; Endocrinology",
+  "category": "Endo",
+  "question_id": "622",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\622",
+  "extracted_at": "2025-11-05T14:10:00.023295",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:42:14.113626",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 13-year-old boy is brought to the clinic due to progressive difficulty with breathing, hoarseness, and dysphagia. The symptoms began insidiously 6 months ago but have rapidly become worse in the last 4 weeks. The patient has no associated skin rash, pharyngeal pain, fever, weight loss, or loss of appetite. Medical history is unremarkable and the patient takes no medications. He is up to date on scheduled vaccinations. The patient's parents and siblings have no history of significant health problems. Vital signs are normal, and he is at 70th percentile for height and weight. Oropharyngeal examination reveals a large, red lingual mass. The patient subsequently undergoes excision of the mass; histopathologic preparation of the recovered tissue is shown in the image below {{exhibit_1}}.",
+    "zh": "一名13岁男孩因进行性呼吸困难、声音嘶哑和吞咽困难就诊。症状于6个月前隐匿起病，但在过去4周内迅速恶化。患者无相关皮疹、咽痛、发热、体重减轻或食欲不振。病史无特殊，患者未服用任何药物。他已按时接种疫苗。患者父母和兄弟姐妹无重要健康问题的病史。生命体征正常，身高和体重均位于第70百分位数。口咽检查显示舌部存在一个大的、红色的肿块。随后对该肿块进行切除；回收组织的组织病理学制备见下图 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Failure of which of the following embryologic processes is most likely responsible for this patient's lesion?",
+    "zh": "以下哪种胚胎学过程的失败最有可能导致该患者的病变？"
+  },
+  "options": {
+    "A": {
+      "en": "Apoptosis",
+      "zh": "细胞凋亡"
+    },
+    "B": {
+      "en": "Differentiation",
+      "zh": "分化"
+    },
+    "C": {
+      "en": "Fusion",
+      "zh": "融合"
+    },
+    "D": {
+      "en": "Migration",
+      "zh": "迁移"
+    },
+    "E": {
+      "en": "Proliferation",
+      "zh": "增殖"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's pathologic specimen shows normal thyroid follicles containing colloid, consistent with a lingual thyroid {{exhibit_2}}. The thyroid gland is formed from an outpouching (evagination) of the pharyngeal epithelium and subsequently descends to the lower neck anterior to the upper trachea and larynx. The lowest part of the evagination forms the thyroid gland and the remaining portion forms the thyroglossal duct, which extends from the foramen cecum on the dorsal surface of the tongue to the superior border of the thyroid isthmus.\n\nDue to failure of migration, the thyroid can reside anywhere along the thyroglossal duct's usual path, including the tongue (lingual thyroid). Enlargement of a lingual thyroid can lead to obstructive symptoms (eg, dysphagia, dysphonia, dyspnea), typically during times of heightened thyroid stimulation (eg, puberty, pregnancy). Sometimes, this lingual thyroid is the only thyroid tissue in the body, so hypothyroidism can occur if it is removed.\n\n(Choice A) Apoptosis is the process of programmed cell death and is important in regulating the turnover of cells. Failure of apoptosis during fetal development can result in conditions such as duodenal atresia and syndactyly (ie, fusion of adjacent digits).\n\n(Choice B) Differentiation is the formation of mature cells from undifferentiated precursor cells (eg, formation of red blood cells, white blood cells, and platelets from bone marrow stem cells). Although thyroid cells do differentiate after their descent from the pharynx, defective differentiation would result in impaired thyroid follicle formation.\n\n(Choice C) Fusion is the joining of two opposing tissues to form one continuous structure. Disruption of this process leads to a variety of birth defects, including cleft palate, atrioventricular septal defects, pancreatic divisum, and neural tube defects.\n\n(Choice E) Proliferation denotes an increase in the number of cells via mitosis. Failure of proliferation during fetal development can result in organ hypoplasia (eg, thymus abnormalities in DiGeorge syndrome).\n\nEducational objective:\nThe thyroid gland is formed from evagination of the pharyngeal epithelium and descends to the lower neck. Due to failure of migration, the thyroid can reside anywhere along the thyroglossal duct's usual path, including the tongue (lingual thyroid).",
+    "zh": "该患者的病理标本显示含有胶质的正常甲状腺滤泡，与舌甲状腺相符 {{exhibit_2}}。甲状腺由咽上皮的向外突出（外翻）形成，随后下降至颈部下方，位于上气管和喉部前方。外翻的最低部分形成甲状腺，剩余部分形成甲舌管，该管从舌背面的盲孔延伸至甲状腺峡部的上缘。\n\n由于迁移失败，甲状腺可以位于甲舌管的任何正常路径上，包括舌头（舌甲状腺）。舌甲状腺的增大可导致阻塞性症状（如吞咽困难、发声困难、呼吸困难），通常发生在甲状腺激素刺激增强的时期（如青春期、妊娠期）。有时，这种舌甲状腺是体内唯一的甲状腺组织，因此如果切除，可能会发生甲状腺功能减退症。\n\n(选项 A) 细胞凋亡是程序性细胞死亡的过程，在调节细胞更新中很重要。胎儿发育过程中细胞凋亡失败可导致十二指肠闭锁和并指（即相邻手指的融合）等疾病。\n\n(选项 B) 分化是由未分化的前体细胞形成成熟细胞的过程（例如，由骨髓干细胞形成红细胞、白细胞和血小板）。虽然甲状腺细胞在从咽部下降后会分化，但分化缺陷会导致甲状腺滤泡形成受损。\n\n(选项 C) 融合是将两个相对的组织连接起来形成一个连续结构的过程。这种过程的中断会导致各种出生缺陷，包括腭裂、房室间隔缺损、胰腺分裂和神经管缺陷。\n\n(选项 E) 增殖是指通过有丝分裂增加细胞数量。胎儿发育过程中增殖失败可导致器官发育不全（例如，DiGeorge综合征中的胸腺异常）。\n\n教育目标：\n甲状腺由咽上皮的外翻形成，并下降到颈部下方。由于迁移失败，甲状腺可以位于甲舌管的任何正常路径上，包括舌头（舌甲状腺）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of thyroid gland embryology, specifically the process of migration and the potential for ectopic thyroid tissue, such as a lingual thyroid, due to failure of migration. It also tests the ability to recognize histological features of normal thyroid tissue.\n\nTo solve this question, recognize the clinical presentation of a lingual mass causing obstructive symptoms, associate it with thyroid tissue, and recall the embryological development of the thyroid gland, focusing on the migration process from the base of the tongue to the anterior neck. The histopathology {{exhibit_3}} confirms thyroid tissue.",
+    "zh": "此题考察对甲状腺胚胎学的知识，特别是迁移过程，以及由于迁移失败导致的异位甲状腺组织（如舌甲状腺）的可能性。它还考察识别正常甲状腺组织组织学特征的能力。\n\n要解决这个问题，需要认识到舌部肿块引起阻塞性症状的临床表现，将其与甲状腺组织联系起来，并回忆甲状腺的胚胎学发育，重点是甲状腺从舌根部到颈前部的迁移过程。组织病理学 {{exhibit_3}} 证实了甲状腺组织。"
+  },
+  "tags": "Thyroid gland; Embryology; Migration; Lingual thyroid; Thyroglossal duct; Histopathology; Endocrine system; Congenital anomaly",
+  "category": "Endo",
+  "question_id": "763",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\763",
+  "extracted_at": "2025-11-05T14:10:19.795283",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:42:37.895865",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

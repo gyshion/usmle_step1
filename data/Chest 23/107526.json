@@ -1,0 +1,69 @@
+{
+  "question_stem": {
+    "en": "A 61-year-old man with a history of chronic obstructive pulmonary disease and HIV infection is evaluated for cough and hemoptysis. CT scan shows multiple bilateral nodular lesions. Bronchoscopy shows a cherry-red, slightly raised lesion. Biopsy of the lesion is shown in the image below: {{exhibit_1}}",
+    "zh": "一名有慢性阻塞性肺病和 HIV 感染病史的 61 岁男性因咳嗽和咯血就诊。CT 扫描显示多个双侧结节性病灶。支气管镜检查显示一个樱桃红色、略微隆起的病灶。病灶的活检结果见下图：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Adenocarcinoma",
+      "zh": "腺癌"
+    },
+    "B": {
+      "en": "Carcinoid tumor",
+      "zh": "类癌"
+    },
+    "C": {
+      "en": "Infection with cytomegalovirus",
+      "zh": "巨细胞病毒感染"
+    },
+    "D": {
+      "en": "Infection with human herpesvirus 8",
+      "zh": "人类疱疹病毒 8 型感染"
+    },
+    "E": {
+      "en": "Infection with *Pneumocystis jirovecii*",
+      "zh": "*肺孢子虫*感染"
+    },
+    "F": {
+      "en": "Squamous cell carcinoma",
+      "zh": "鳞状细胞癌"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with cough and hemoptysis has endobronchial biopsy findings consistent with Kaposi sarcoma (KS), a vascular tumor strongly associated with human herpesvirus 8 infection. KS often occurs in patients who are immunosuppressed (ie, impaired T-cell control of the virus). Risk factors include HIV infection and immunosuppressive therapy following transplant. Corticosteroid use (eg, chronic obstructive pulmonary disease exacerbations) can also precipitate or worsen KS.\n\nAlthough skin involvement is a characteristic initial finding (eg, purple papules on the lower extremities), some patients may present with pulmonary disease. Depending on the location of the tumor, patients may have dyspnea, cough, hemoptysis (due to tumor bleeding), airway obstruction, and/or pleural effusions. Chest imaging often reveals reticular opacities or nodular densities. Bronchoscopy may show endobronchial macules and papules that are classically cherry-red or violaceous.\n\nHistopathology of KS characteristically shows a proliferation of spindle-shaped endothelial cells forming slit-like vascular spaces with inflammation. The abnormal vascular spaces are leaky, allowing red blood cell extravasation.\n\n{{exhibit_2}}\n\n(Choice A) Pulmonary adenocarcinoma noma often presents with cough, hemoptysis, and weight loss. However, it tends to be located peripherally and would be less likely to form an endobronchial lesion. Histopathology often shows infiltrative glands lined by malignant mucin-producing epithelial cells.\n\n(Choice B) Pulmonary carcinoid tumor is a well-differentiated neuroendocrine tumor that often arises in the proximal airways and grows endobronchially, causing cough and hemoptysis. However, histopathology shows uniform, polygonal cells with eosinophilic cytoplasm and granular (ie, salt and pepper) chromatin.\n\n(Choice C) Pulmonary cytomegalovirus infection typically occurs in immunocompromised patients and may cause cough, shortness of breath, and fever. However, histopathology of infected cells shows viral cytopathic effect, including cell enlargement and nuclear and cytoplasmic inclusions.\n\n(Choice E) *Pneumocystis jirovecii* is a fungus that causes pulmonary infection in immunocompromised patients and may lead to cough, dyspnea, and fatigue. However, histopathology shows intraalveolar exudate and cup- or crescent-shaped organisms that can be highlighted with a silver stain.\n\n(Choice F) Squamous cell lung carcinoma often arises in the proximal airways and can cause cough and hemoptysis. However, histopathology shows infiltrative nests of malignant cells with squamous differentiation (eg, intercellular bridges, keratin production).\n\nEducational objective:\nKaposi sarcoma (KS), a vascular tumor associated with human herpesvirus 8, often arises in immunosuppressed patients (eg, HIV infection). KS typically involves the skin but can also affect the viscera, including the gastrointestinal tract (eg, abdominal pain) and pulmonary system (eg, cough, hemoptysis). Biopsy shows spindle-shaped endothelial cells forming slit-like vascular spaces, extravasated red blood cells, and inflammation.",
+    "zh": "这名有咳嗽和咯血病史的患者的支气管内活检结果与卡波西肉瘤 (KS) 一致，卡波西肉瘤是一种与人类疱疹病毒 8 型感染密切相关的血管肿瘤。KS 常常发生在免疫抑制患者中（即，T 细胞对病毒的控制受损）。危险因素包括 HIV 感染和移植后的免疫抑制治疗。皮质类固醇的使用（例如，慢性阻塞性肺病加重）也可能诱发或加重 KS。\n\n虽然皮肤受累是典型的初始发现（例如，下肢出现紫色丘疹），但一些患者可能表现为肺部疾病。根据肿瘤的位置，患者可能出现呼吸困难、咳嗽、咯血（由于肿瘤出血）、气道阻塞和/或胸腔积液。胸部影像学检查通常显示网状不透明影或结节性密度。支气管镜检查可显示典型呈樱桃红色或紫色的支气管内斑疹和丘疹。\n\nKS 的组织病理学特征是梭形内皮细胞增生，形成具有炎症的裂隙样血管腔。异常的血管腔渗漏，导致红细胞外渗。\n\n{{exhibit_2}}\n\n(选项 A) 肺腺癌通常表现为咳嗽、咯血和体重减轻。然而，它往往位于周围，不太可能形成支气管内病灶。组织病理学通常显示由恶性产粘蛋白上皮细胞包绕的浸润性腺体。\n\n(选项 B) 肺类癌是一种分化良好的神经内分泌肿瘤，通常起源于近端气道，并在支气管内生长，引起咳嗽和咯血。然而，组织病理学显示均匀的、多边形的细胞，具有嗜酸性细胞质和颗粒状（即，盐和胡椒样）染色质。\n\n(选项 C) 肺巨细胞病毒感染通常发生在免疫功能低下的患者中，并可能引起咳嗽、呼吸急促和发热。然而，受感染细胞的组织病理学显示病毒细胞病变效应，包括细胞增大和核内和细胞质内包涵体。\n\n(选项 E) *肺孢子虫*是一种真菌，可在免疫功能低下的患者中引起肺部感染，并可能导致咳嗽、呼吸困难和疲劳。然而，组织病理学显示肺泡内渗出物和杯形或新月形的生物体，可以用银染突出显示。\n\n(选项 F) 鳞状细胞肺癌通常起源于近端气道，可引起咳嗽和咯血。然而，组织病理学显示具有鳞状分化（例如，细胞间桥、角蛋白产生）的恶性细胞浸润巢。\n\n教育目标：\n卡波西肉瘤 (KS) 是一种与人类疱疹病毒 8 型相关的血管肿瘤，通常发生在免疫抑制患者（例如，HIV 感染）中。KS 典型地累及皮肤，但也可影响内脏，包括胃肠道（例如，腹痛）和肺部系统（例如，咳嗽、咯血）。活检显示梭形内皮细胞形成裂隙样血管腔，红细胞外渗和炎症。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Kaposi sarcoma (KS) presentation in immunocompromised patients, specifically its association with human herpesvirus 8 (HHV-8) and its pulmonary manifestations. It also assesses the ability to differentiate KS from other pulmonary conditions based on clinical presentation and histopathology.\n\nTo solve this question, recognize the risk factors (HIV, immunosuppression), the characteristic cherry-red endobronchial lesions, and the histopathological findings of spindle-shaped endothelial cells forming slit-like vascular spaces. Rule out other pulmonary conditions based on their typical presentations and histopathology.",
+    "zh": "这道题考察了对免疫功能低下患者中卡波西肉瘤 (KS) 表现的了解，特别是其与人类疱疹病毒 8 型 (HHV-8) 的关联及其肺部表现。它还评估了根据临床表现和组织病理学鉴别 KS 与其他肺部疾病的能力。\n\n要解决这个问题，需要认识到危险因素（HIV、免疫抑制）、特征性的樱桃红色支气管内病灶以及形成裂隙样血管腔的梭形内皮细胞的组织病理学发现。根据其他肺部疾病的典型表现和组织病理学排除它们。"
+  },
+  "tags": "Kaposi sarcoma; Human herpesvirus 8; HIV infection; Pulmonary disease; Immunosuppression; Oncology; Pathology; Respiratory system; Bronchoscopy; Histopathology",
+  "category": "Chest",
+  "question_id": "107526",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\107526",
+  "extracted_at": "2025-11-05T11:35:34.140031",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:33:05.671628",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

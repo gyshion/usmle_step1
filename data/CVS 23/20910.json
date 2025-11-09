@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A term newborn is evaluated for cyanosis immediately after birth. On examination, the patient's oxygen saturation is 70% in all 4 extremities and does not change despite 100% oxygen administration. The lungs are clear to auscultation and there are no heart murmurs or gallops. Peripheral pulses are normal. A chest radiograph reveals clear lungs and a normal cardiac silhouette but a narrowed mediastinal shadow {{exhibit_1}}. Which of the following is the most likely cause of cyanosis in this patient?",
+    "zh": "一名足月新生儿在出生后立即被评估有发绀。体格检查显示，该患者四肢的血氧饱和度均为70%，且在给予100%氧气后无变化。肺部听诊清晰，无心脏杂音或奔马律。外周脉搏正常。胸部X光片显示肺部清晰，心脏轮廓正常，但纵隔阴影变窄 {{exhibit_1}}。以下哪项是该患者发绀最可能的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of cyanosis in this patient?",
+    "zh": "以下哪项是该患者发绀最可能的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Impairment of alveolar-capillary gas diffusion",
+      "zh": "肺泡毛细血管气体弥散受损"
+    },
+    "B": {
+      "en": "Impairment of left ventricular contractility",
+      "zh": "左心室收缩力受损"
+    },
+    "C": {
+      "en": "Inability of hemoglobin to bind oxygen",
+      "zh": "血红蛋白无法结合氧气"
+    },
+    "D": {
+      "en": "Mismatch of pulmonary ventilation and perfusion",
+      "zh": "肺通气和灌注失调"
+    },
+    "E": {
+      "en": "Parallel pulmonary and systemic circuits",
+      "zh": "肺循环和体循环平行"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This cyanotic newborn has severe hypoxemia that does not improve with oxygen administration. This finding suggests a congenital heart defect in which deoxygenated blood bypasses the pulmonary circulation and is delivered directly to the systemic circulation (ie, right-to-left shunt). In this case, the most likely etiology is TRANSPOSITION OF THE GREAT ARTERIES (TGA), in which the aorta originates from the right ventricle and the pulmonary artery from the left ventricle; the abnormal position of the aorta atop the pulmonary artery creates a narrow-appearing mediastinum {{exhibit_2}}.\n\nThe anatomy of TGA results in DISCONNECTED AND PARALLEL CIRCUITS with delivery of deoxygenated blood from the right ventricle to the systemic circulation via the aorta (effectively a right-to-left shunt). Cyanosis occurs shortly after birth but does not improve with oxygen administration (ie, HYPEROXIA TEST) because the oxygenated blood cannot reach the systemic circulation; instead, it is cycled from the lungs to the left side of the heart and back to the lungs.\n\nA mixing shunt (eg, patent ductus arteriosus, ventricular septal defect) that can deliver some oxygenated blood to the systemic circulation must be present for viability in TGA; an associated murmur can sometimes be present based on the size and type of mixing lesion, but many patients with TGA have no murmur.\n\n(Choices A and D) Preterm newborns are at risk for neonatal respiratory distress syndrome (RDS) causing hypoxemia due to ventilation/perfusion mismatch and a modest reduction in diffusion capacity. However, hypoxemia due to ventilation/perfusion mismatch and/or diffusion impairment is expected to at least somewhat improve with oxygen administration. Furthermore, RDS is unlikely in a neonate born at term and affected patients have diffuse, ground-glass opacities on lung imaging.\n\n(Choice B) Impaired left ventricular contractility (ie, heart failure) does not cause hypoxemia directly but can cause hypoxemia if it leads to pulmonary edema. This patient's clear lungs on auscultation and chest x-ray rule out significant pulmonary edema.\n\n(Choice C) Congenital methemoglobinemia, or the inability to reduce methemoglobin back to hemoglobin, is a rare cause of neonatal cyanosis. Oxygen saturation fails to improve with oxygen administration, but methemoglobinemia does not explain a narrowed mediastinum on chest x-ray.\n\nEducational objective:\nCyanotic congenital heart disease is characterized by hypoxemia that does not improve with oxygen administration. In transposition of the great arteries, deoxygenated blood from the right ventricle is delivered to the systemic circulation while oxygenated blood cycles through the pulmonary circulation (ie, parallel circuits).",
+    "zh": "这种发绀新生儿患有严重的低氧血症，经氧气治疗后无改善。这一发现提示存在先天性心脏缺陷，导致缺氧血绕过肺循环，直接输送到体循环（即，右向左分流）。在这种情况下，最可能的病因是大动脉转位（TGA），其中主动脉起源于右心室，肺动脉起源于左心室；主动脉位于肺动脉上方的异常位置会产生纵隔狭窄的表象 {{exhibit_2}}。\n\nTGA的解剖结构导致分离和平行循环，将来自右心室的缺氧血通过主动脉输送到体循环（实际上是右向左分流）。发绀在出生后不久发生，但经氧气治疗后无改善（即，高氧试验），因为充氧血无法到达体循环；相反，它从肺循环到心脏左侧，然后返回肺。\n\nTGA生存必须存在混合分流（例如，动脉导管未闭、室间隔缺损），该分流可以将一些充氧血输送到体循环；相关杂音有时可能出现，具体取决于混合病变的严重程度和类型，但许多TGA患者没有杂音。\n\n（选项 A 和 D）早产新生儿有患新生儿呼吸窘迫综合征 (RDS) 的风险，导致通气/灌注失调和弥散能力适度下降，从而导致低氧血症。然而，由于通气/灌注失调和/或弥散受损引起的低氧血症预计至少会通过氧气治疗有所改善。此外，足月出生且受影响的患者不太可能患有RDS，并且在肺部影像学上具有弥漫性磨玻璃样混浊。\n\n（选项 B）左心室收缩力受损（即，心力衰竭）不会直接导致低氧血症，但如果导致肺水肿，则可能导致低氧血症。该患者听诊和胸部X光片显示肺部清晰，排除了明显的肺水肿。\n\n（选项 C）先天性高铁血红蛋白血症，或无法将高铁血红蛋白还原成血红蛋白，是新生儿发绀的罕见原因。血氧饱和度在氧气治疗后无改善，但高铁血红蛋白血症并不能解释胸部X光片上纵隔狭窄。\n\n教育目标：\n发绀型先天性心脏病以氧气治疗无改善的低氧血症为特征。在大动脉转位中，来自右心室的缺氧血输送到体循环，而充氧血则在肺循环中循环（即，平行循环）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of congenital heart defects presenting with cyanosis in newborns, specifically transposition of the great arteries (TGA). It assesses the understanding of the pathophysiology of TGA, where parallel pulmonary and systemic circuits lead to hypoxemia that does not improve with oxygen administration. \n\nThe key to solving this question is recognizing the cyanosis unresponsive to oxygen, the absence of heart murmurs, and the narrowed mediastinum on chest radiograph. These findings are highly suggestive of TGA. Understanding the parallel circulation in TGA helps eliminate other causes of neonatal cyanosis.",
+    "zh": "此题考察新生儿发绀型先天性心脏病的知识，特别是大动脉转位（TGA）。它评估了对TGA病理生理学的理解，其中肺循环和体循环平行导致低氧血症，且氧气治疗无改善。\n\n解决此题的关键是识别对氧气无反应的发绀、无心脏杂音以及胸片上纵隔狭窄。这些发现高度提示TGA。理解TGA中的平行循环有助于排除其他新生儿发绀的原因。"
+  },
+  "tags": "Transposition of the great arteries; Cyanotic heart disease; Neonatal cyanosis; Congenital heart defects; Hypoxemia; Parallel circulation; Cardiology; Neonatology",
+  "category": "CVS",
+  "question_id": "20910",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\20910",
+  "extracted_at": "2025-11-05T12:09:40.246947",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:28:02.263547",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

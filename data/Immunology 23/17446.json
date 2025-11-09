@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 5-year-old girl is brought to the office for evaluation of a persistent cough. The patient has had a productive cough daily for the past month. History includes recurrent episodes of otitis media despite bilateral ear tube placement, numerous lower respiratory tract infections, and occasional ulcerative skin lesions. Laboratory evaluation shows normal levels of total B and T cells and serum immunoglobulin. Genetic testing reveals a mutation in the <i>TAP1</i> gene, which encodes a protein involved in the transport of cytosolic molecules into the endoplasmic reticulum. Which of the following processes is most likely to be impaired by this mutation? {{exhibit_1}}",
+    "zh": "一名5岁女孩因持续咳嗽就诊。患者在过去一个月中每天都有咳嗽并伴有痰。病史包括反复发作的中耳炎，尽管已双侧置入耳管，仍有多次下呼吸道感染，以及偶发性溃疡性皮肤病变。实验室评估显示总B细胞和T细胞水平以及血清免疫球蛋白水平正常。基因检测显示<i>TAP1</i>基因发生突变，该基因编码一种参与将胞质分子转运到内质网的蛋白质。以下哪种过程最有可能因这种突变而受损？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following processes is most likely to be impaired by this mutation?",
+    "zh": "以下哪种过程最有可能因这种突变而受损？"
+  },
+  "options": {
+    "A": {
+      "en": "B cell differentiation into plasma cells",
+      "zh": "B细胞分化为浆细胞"
+    },
+    "B": {
+      "en": "Cytotoxic T cell activation by MHC class I molecules",
+      "zh": "MHC I类分子激活细胞毒性T细胞"
+    },
+    "C": {
+      "en": "Destruction of phagocytized organisms",
+      "zh": "吞噬生物的破坏"
+    },
+    "D": {
+      "en": "MHC class II molecule expression on B cells",
+      "zh": "B细胞上MHC II类分子的表达"
+    },
+    "E": {
+      "en": "Migration and extravasation of neutrophils",
+      "zh": "中性粒细胞的迁移和外渗"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Transporter associated with antigen processing (TAP) proteins are transmembrane proteins necessary for the presentation of cytosolic antigens on major histocompatibility complex (MHC) molecules. When cellular proteins (or pathogen-derived proteins) are degraded by proteasomes, some of the resulting peptide fragments are transported into the endoplasmic reticulum by TAP proteins and loaded onto MHC class I molecules. The MHC class I-peptide complexes then translocate to the cell surface where they can activate cytotoxic T cells through interaction with T cell receptors and CD8 coreceptors. {{exhibit_2}} The activated T cells clonally expand and kill damaged or infected cells by releasing cytotoxins (eg, perforin, granzyme) that induce apoptosis. Genetic mutations (eg, <i>TAP1</i>) affecting MHC class I-peptide complex expression (eg, bare lymphocyte syndrome type I) are rare but can cause ulcerative, granulomatous skin lesions and frequent respiratory infections despite normal lymphocyte and immunoglobulin levels. {{exhibit_3}}",
+    "zh": "与抗原加工相关的转运蛋白(TAP)是跨膜蛋白，对于在主要组织相容性复合体(MHC)分子上呈递胞质抗原是必需的。当细胞蛋白（或病原体来源的蛋白）被蛋白酶体降解时，一些产生的肽片段通过TAP蛋白转运到内质网中并加载到MHC I类分子上。然后，MHC I类-肽复合物易位到细胞表面，在那里它们可以通过与T细胞受体和CD8辅助受体的相互作用来激活细胞毒性T细胞。{{exhibit_2}} 活化的T细胞通过释放细胞毒素（例如，穿孔素、颗粒酶）来克隆性扩增并杀死受损或被感染的细胞，从而诱导细胞凋亡。影响MHC I类-肽复合物表达的基因突变（例如，<i>TAP1</i>）(例如，裸淋巴细胞综合征I型) 很少见，但可以导致溃疡性、肉芽肿性皮肤病变和频繁的呼吸道感染，尽管淋巴细胞和免疫球蛋白水平正常。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "A mutation in the TAP1 gene impairs the transport of cytosolic peptides to the endoplasmic reticulum, which is essential for the loading of these peptides onto MHC class I molecules. This process is critical for the activation of cytotoxic T cells, as MHC class I-peptide complexes present intracellular antigens to CD8+ T cells. Therefore, cytotoxic T cell activation by MHC class I molecules is the most likely process to be impaired.",
+    "zh": "TAP1基因的突变会损害胞质肽向内质网的转运，而这对于将这些肽加载到MHC I类分子上至关重要。此过程对于激活细胞毒性T细胞至关重要，因为MHC I类-肽复合物将细胞内抗原呈递给CD8+ T细胞。因此，MHC I类分子激活细胞毒性T细胞是最有可能受损的过程。"
+  },
+  "tags": [
+    "immunology",
+    "MHC class I",
+    "TAP1",
+    "cytotoxic T cells",
+    "antigen presentation"
+  ],
+  "category": "Immunology",
+  "question_id": "17446",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\17446",
+  "extracted_at": "2025-11-05T19:23:32.618001",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:00:45.746897",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

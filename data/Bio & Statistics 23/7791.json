@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A pharmaceutical researcher is evaluating a nuclear enzyme inhibitor for the treatment of an inherited disorder. During an experiment, he extracts and purifies nuclear enzymes from skin cells of an affected patient. One of these enzymes is found to catalyze the methylation of cytosine residues in DNA using S-adenosyl-methionine (SAM) as the methyl donor.",
+    "zh": "一位药物研究员正在评估一种核酶抑制剂，用于治疗一种遗传性疾病。在实验过程中，他从受影响患者的皮肤细胞中提取并纯化了核酶。发现其中一种酶使用 S-腺苷甲硫氨酸 (SAM) 作为甲基供体，催化 DNA 中胞嘧啶残基的甲基化。"
+  },
+  "question": {
+    "en": "This enzyme most likely plays a crucial role in which of the following genetic processes?",
+    "zh": "这种酶最有可能在以下哪种遗传过程中起关键作用？"
+  },
+  "options": {
+    "A": {
+      "en": "Aneuploidy",
+      "zh": "非整倍体"
+    },
+    "B": {
+      "en": "Epistasis",
+      "zh": "上位性"
+    },
+    "C": {
+      "en": "Imprinting",
+      "zh": "印记"
+    },
+    "D": {
+      "en": "Meiotic nondisjunction",
+      "zh": "减数分裂不分离"
+    },
+    "E": {
+      "en": "Pleiotropy",
+      "zh": "多效性"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "DNA methylation refers to the addition of methyl groups to nucleotide residues (often adenine and cytosine) by DNA methyltransferase, an enzyme that uses S-adenosyl-methionine (SAM) as the methyl group donor.\n\nDNA methylation is an epigenetic process by which eukaryotic organisms modify gene expression without altering the genetic code. For example, methylation of cytosine-guanine dinucleotide repeats (CpGs) in the promoter region of genes effectively silences transcription of those genes. Fragile X syndrome is an X-linked disorder caused by an increased number of CGG trinucleotide repeats on the fragile X mental retardation 1 (FMR1) gene, leading to hypermethylation of cytosine residues and FMR1 inactivation.\n\nCytosine methylation is also used in genomic imprinting, a phenomenon in which an offspring’s genes are expressed in a parent-specific manner. For instance, an allele inherited from the father may be inactivated or “imprinted” by methylation so that only the allele from the mother is expressed.\n\n(Choices A and D) Aneuploidy refers to the presence of an abnormal number of chromosomes and is the result of chromosomal nondisjunction during mitosis or meiosis.\n\n(Choice B) Epistasis is a phenomenon in which the allele of one gene affects the phenotypic expression of alleles in another gene.\n\n(Choice E) Pleiotropy refers to the phenomenon in which a single gene influences multiple phenotypic traits.\n\nEducational objective:\nGenomic imprinting refers to the phenomenon in which an offspring’s genes are expressed in a parent-specific manner. Genomic imprinting is caused by DNA methylation, an epigenetic process in which genes can be silenced by attaching methyl groups to cytosine residues in the DNA molecule.",
+    "zh": "DNA 甲基化是指 DNA 甲基转移酶将甲基添加到核苷酸残基（通常是腺嘌呤和胞嘧啶）的过程，该酶使用 S-腺苷甲硫氨酸 (SAM) 作为甲基供体。\n\nDNA 甲基化是一种表观遗传过程，真核生物通过该过程修饰基因表达，而不会改变遗传密码。例如，在基因启动子区域中，胞嘧啶-鸟嘌呤二核苷酸重复序列 (CpGs) 的甲基化会有效地沉默这些基因的转录。脆性 X 综合征是一种 X 连锁疾病，由脆性 X 精神发育迟滞 1 (FMR1) 基因上 CGG 三核苷酸重复序列数量增加引起，导致胞嘧啶残基过度甲基化和 FMR1 失活。\n\n胞嘧啶甲基化也用于基因组印记，这是一种后代基因以亲本特异性方式表达的现象。例如，从父亲那里遗传的等位基因可能通过甲基化失活或“印记”，因此仅表达来自母亲的等位基因。\n\n（选项 A 和 D）非整倍体是指染色体数量异常，是细胞有丝分裂或减数分裂过程中染色体不分离的结果。\n\n（选项 B）上位性是一种现象，其中一个基因的等位基因会影响另一个基因中等位基因的表型表达。\n\n（选项 E）多效性是指单个基因影响多种表型特征的现象。\n\n教育目标：\n基因组印记是指后代基因以亲本特异性方式表达的现象。基因组印记是由 DNA 甲基化引起的，DNA 甲基化是一种表观遗传过程，通过将甲基附着到 DNA 分子中的胞嘧啶残基上，基因可以被沉默。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of genomic imprinting and the role of DNA methylation in this process. It requires understanding how methylation affects gene expression and its specific involvement in parent-specific gene expression patterns.\n\nTo solve this question, recognize that DNA methylation is a key mechanism in genomic imprinting. Understand that imprinting involves silencing genes based on parental origin, and connect this to the enzyme's role in methylating cytosine residues.",
+    "zh": "本题考察对基因组印记的了解以及 DNA 甲基化在此过程中的作用。它需要理解甲基化如何影响基因表达及其在亲本特异性基因表达模式中的具体参与。\n\n要解决这个问题，要认识到 DNA 甲基化是基因组印记中的一个关键机制。理解印记涉及根据亲本来源沉默基因，并将此与酶在甲基化胞嘧啶残基中的作用联系起来。"
+  },
+  "tags": "Genomic imprinting; DNA methylation; Epigenetics; Gene expression; Molecular biology",
+  "category": "Bio",
+  "question_id": "7791",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\7791",
+  "extracted_at": "2025-11-05T11:16:09.909672",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:24:33.234064",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

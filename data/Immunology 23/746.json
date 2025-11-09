@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "An 8-year-old male is brought to his pediatrician's office by his mother. The child has had a runny nose, sore throat, cough, and low-grade fever for the past 24 hours. The patient's mother recalls that several of the child's friends have been ill recently with similar symptoms. The mother asks whether the child will need antibiotics for his condition. His pediatrician recommends symptomatic therapy and feels that his illness is most likely of viral etiology. Cytotoxic CD8+ lymphocytes are able to kill virus-infected nasal epithelial cells once sensitized. Cytotoxic CD8+ lymphocyte receptors recognize foreign proteins on the epithelial cell surface. Foreign proteins are presented on the epithelial cell surface by MHC molecules. These MHC molecules comprise which of the following components?",
+    "zh": "一位8岁男性由其母亲带到儿科医生办公室。该儿童在过去的24小时内出现流鼻涕、喉咙痛、咳嗽和低烧。患者的母亲回忆说，该儿童的几个朋友最近也出现了类似的症状。母亲询问她的孩子是否需要使用抗生素治疗。他的儿科医生建议对症治疗，并认为他的疾病很可能是病毒病因。细胞毒性CD8+淋巴细胞一旦致敏，就能够杀死被病毒感染的鼻上皮细胞。细胞毒性CD8+淋巴细胞受体识别上皮细胞表面的外来蛋白。外来蛋白由MHC分子呈现在上皮细胞表面。这些MHC分子包含以下哪些组成部分？"
+  },
+  "question": {
+    "en": "These MHC molecules comprise which of the following components?",
+    "zh": "这些MHC分子包含以下哪些组成部分？"
+  },
+  "options": {
+    "A": {
+      "en": "MHC class I heavy chain only",
+      "zh": "仅MHC I类重链"
+    },
+    "B": {
+      "en": "MHC class I heavy chain and β₂-microglobulin",
+      "zh": "MHC I类重链和β₂-微球蛋白"
+    },
+    "C": {
+      "en": "MHC class I heavy chain and IgG",
+      "zh": "MHC I类重链和IgG"
+    },
+    "D": {
+      "en": "MHC class II alpha-chain and beta-chain",
+      "zh": "MHC II类α链和β链"
+    },
+    "E": {
+      "en": "MHC class II alpha-chain only",
+      "zh": "仅MHC II类α链"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "CD8+ cells recognize foreign antigens presented with MHC class I proteins. Each MHC class I molecule consists of a heavy chain and a β₂-microglobulin. {{exhibit_1}}\n\n(Choice D) MHC class II molecules consist of two polypeptide chains, alpha and beta. MHC class II molecules are present on the surface of antigen-presenting cells, including B-lymphocytes, macrophages, dendritic cells of the viscera, and Langerhans cells of the skin. Foreign antigens taken up by phagocytosis are degraded in lysosomes and presented to CD4+ T-helper cells in association with MHC II.",
+    "zh": "CD8+细胞识别由MHC I类蛋白呈递的外来抗原。每个MHC I类分子由一条重链和β₂-微球蛋白组成。{{exhibit_1}} \n\n(D选项) MHC II类分子由两条多肽链，α和β链组成。MHC II类分子存在于抗原呈递细胞的表面，包括B淋巴细胞、巨噬细胞、内脏的树突状细胞和皮肤的朗格汉斯细胞。通过吞噬作用摄取的外来抗原在溶酶体中降解，并与MHC II相关联呈递给CD4+ T辅助细胞。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the structure and function of MHC class I molecules, specifically their role in presenting antigens to CD8+ T cells. It requires understanding the components of MHC class I, including the heavy chain and beta-2 microglobulin.\n\nThe approach to solving this question involves recalling the basic structure of MHC class I molecules and their interaction with CD8+ T cells. Remembering that MHC class I consists of a heavy chain and beta-2 microglobulin is crucial for selecting the correct answer.",
+    "zh": "此问题考察对MHC I类分子结构和功能的了解，特别是它们在向CD8+ T细胞呈递抗原中的作用。它要求理解MHC I类的组成部分，包括重链和β-2微球蛋白。\n\n解决此问题的方法涉及回忆MHC I类分子的基本结构及其与CD8+ T细胞的相互作用。记住MHC I类由重链和β-2微球蛋白组成对于选择正确答案至关重要。"
+  },
+  "tags": "MHC class I; MHC class II; CD8+ T cells; Antigen presentation; Immunology; Viral infection; Beta-2 microglobulin",
+  "category": "Immunology",
+  "question_id": "746",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\746",
+  "extracted_at": "2025-11-05T14:46:03.630222",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:03:12.854633",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

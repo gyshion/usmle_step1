@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "After initial stabilization with intravenous fluids and blood products, the patient develops another bout of bloody emesis. Urgent upper gastrointestinal endoscopy confirms esophageal varices.",
+    "zh": "在通过静脉输液和血液制品初步稳定病情后，患者再次出现呕血。紧急上消化道内镜检查证实存在食管静脉曲张。"
+  },
+  "question": {
+    "en": "Which of the following peptides is most likely to immediately decrease the portal venous pressure in this patient?",
+    "zh": "以下哪种肽最有可能立即降低该患者的门静脉压力？"
+  },
+  "options": {
+    "A": {
+      "en": "Cholecystokinin",
+      "zh": "胆囊收缩素"
+    },
+    "B": {
+      "en": "Glucagon",
+      "zh": "胰高血糖素"
+    },
+    "C": {
+      "en": "Pentagastrin",
+      "zh": "促胃液素"
+    },
+    "D": {
+      "en": "Secretin",
+      "zh": "促胰液素"
+    },
+    "E": {
+      "en": "Somatostatin",
+      "zh": "生长抑素"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Prolonged PORTAL HYPERTENSION in alcohol-associated liver disease can cause venous engorgement and dilation (i.e. VARICES) at sites of portocaval anastomosis in the esophagus, rectum, umbilicus, and retroperitoneum. Subsequent rupture of esophageal VARICES can cause rapid blood loss and carries high mortality.\n\nAcute management of variceal hemorrhage requires rapid lowering of portal pressure. Somatostatin and octreotide (a long-acting somatostatin analog) inhibit the release of endogenous hormones (eg, glucagon, vasoactive intestinal peptide) that induce splanchnic vasodilation, thereby indirectly reducing portal blood flow. Vasopressin directly causes splanchnic vasoconstriction and also can lower portal flow in acute variceal hemorrhage, but its use is limited by systemic vasoconstriction.\n\n(Choices A, B, and D) Glucagon causes splanchnic vasodilation, raising portal pressure and worsening variceal bleeding. Cholecystokinin induces contraction of the gallbladder and expulsion of pancreatic exocrine secretions into the duodenum, whereas the primary function of secretin is to alkalinize the duodenal contents; both of these hormones increase glucagon secretion and would therefore be counterproductive in this setting.\n\n(Choice C) Pentagastrin is a synthetic gastrin analog that stimulates secretion of gastric acid. Its primary clinical use is as a diagnostic agent; pentagastrin induces a significant rise in calcitonin secretion in patients with medullary carcinoma of the thyroid and serotonin secretion in patients in carcinoid tumors.\n\nEducational objective:\nAcute management of variceal hemorrhage requires rapid lowering of portal pressure. Somatostatin and octreotide (a long-acting somatostatin analog) inhibit the release of hormones that induce splanchnic vasodilation, indirectly causing splanchnic vasoconstriction and reduced portal blood flow.",
+    "zh": "长期酒精相关性肝病引起的门静脉高压可导致食管、直肠、脐部和腹膜后等部位的门腔静脉吻合口出现静脉充血和扩张（即静脉曲张）。随后食管静脉曲张破裂可导致快速失血，病死率高。\n\n静脉曲张出血的急性处理需要快速降低门静脉压力。生长抑素和奥曲肽（一种长效生长抑素类似物）抑制内源性激素（如胰高血糖素、血管活性肠肽）的释放，这些激素可诱导内脏血管舒张，从而间接减少门静脉血流。加压素直接引起内脏血管收缩，也可降低急性静脉曲张出血时的门静脉血流，但其应用受到全身血管收缩的限制。\n\n（选项 A、B 和 D）胰高血糖素引起内脏血管舒张，升高门静脉压力并使静脉曲张出血恶化。胆囊收缩素诱导胆囊收缩和胰腺外分泌物排入十二指肠，而促胰液素的主要功能是使十二指肠内容物碱化；这两种激素都会增加胰高血糖素的分泌，因此在这种情况下会适得其反。\n\n（选项 C）促胃液素是一种合成的胃泌素类似物，可刺激胃酸分泌。其主要临床用途是作为诊断剂；促胃液素可引起甲状腺髓样癌患者的降钙素分泌显着升高和类癌肿瘤患者的血清素分泌。\n\n教育目标：\n静脉曲张出血的急性处理需要快速降低门静脉压力。生长抑素和奥曲肽（一种长效生长抑素类似物）抑制诱导内脏血管舒张的激素的释放，间接引起内脏血管收缩并减少门静脉血流。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the acute management of esophageal variceal bleeding and the mechanism of action of somatostatin and its analogs in reducing portal pressure.\n\nThe key to solving this question is recognizing that the patient has esophageal varices and needs immediate reduction of portal pressure. Somatostatin and its analogs are the preferred agents for this purpose due to their ability to inhibit splanchnic vasodilation.",
+    "zh": "本题考查食管静脉曲张出血的急性处理以及生长抑素及其类似物降低门静脉压力的作用机制。\n\n解决此问题的关键在于认识到患者患有食管静脉曲张，需要立即降低门静脉压力。生长抑素及其类似物是用于此目的的首选药物，因为它们能够抑制内脏血管舒张。"
+  },
+  "tags": "Esophageal varices; Portal hypertension; Somatostatin; Octreotide; Variceal bleeding; Gastroenterology; Pharmacology",
+  "category": "GIT",
+  "question_id": "7215",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\7215",
+  "extracted_at": "2025-11-05T14:38:20.554762",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:58:56.284741",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

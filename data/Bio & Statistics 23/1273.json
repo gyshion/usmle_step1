@@ -1,0 +1,53 @@
+{
+  "question_stem": {
+    "en": "A geneticist is interested in the potential causes of a congenital abnormality. She hypothesizes that acetaminophen use during the first trimester of pregnancy might be associated with the abnormality. In her study, a sample of mothers of children with and without the abnormality are randomly selected from government birth records. Personal interviews are then conducted with the mothers to determine fetal exposure to acetaminophen. Results show that mothers of children who do not have the abnormality did not take acetaminophen as frequently during the first trimester.",
+    "zh": "一位遗传学家对先天性异常的潜在病因感兴趣。她假设在怀孕头三个月使用对乙酰氨基酚可能与这种异常有关。在她的研究中，从政府出生记录中随机选择了一组有和没有这种异常的儿童的母亲。然后对这些母亲进行个人访谈，以确定胎儿对对乙酰氨基酚的暴露情况。结果显示，没有这种异常的儿童的母亲在头三个月没有那么频繁地服用对乙酰氨基酚。"
+  },
+  "question": {
+    "en": "This type of study is most susceptible to which of the following types of bias?",
+    "zh": "这种类型的研究最容易受到以下哪种偏倚的影响？"
+  },
+  "options": {
+    "A": {
+      "en": "Allocation bias",
+      "zh": "分配偏倚"
+    },
+    "B": {
+      "en": "Detection bias",
+      "zh": "检测偏倚"
+    },
+    "C": {
+      "en": "Recall bias",
+      "zh": "回忆偏倚"
+    },
+    "D": {
+      "en": "Referral bias",
+      "zh": "转诊偏倚"
+    },
+    "E": {
+      "en": "Selection bias",
+      "zh": "选择偏倚"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Recall bias results from study participants' inaccurate recall of past exposure and occurs most often in retrospective studies such as case-control studies. People who have experienced an adverse event (eg, congenital abnormalities in their children) are more likely to recall previous potential risk factors (eg, acetaminophen use) than people who have not experienced an adverse event.\n\nContrary to case-control studies, which evaluate exposure to potential risk factors retrospectively, prospective studies begin with exposed and unexposed individuals. Because the exposure status is determined at the time of enrollment in the study, recall bias is minimized.\n\n(Choice A) Allocation bias can result from the way patients are assigned to the treatment and control groups. It may occur when subjects are nonrandomly assigned to the study groups of a clinical trial (eg, physicians may preferentially enroll sicker patients into the experimental group). Allocation bias is different from selection bias, which occurs when the studied sample does not represent the general population (eg, because of nonrandom selection).\n\n(Choice B) Detection bias refers to the fact that a risk factor itself may lead to extensive diagnostic investigation and increase the probability that a disease is identified. For instance, patients who smoke may undergo increased imaging surveillance due to their smoking status, which would detect more cases of cancer in general.\n\n(Choice D) Referral (admission rate) bias occurs when the case and control populations differ due to admission or referral practices. For instance, a study involving asbestos as a risk factor for lung cancer conducted at a hospital specializing in treating asbestosis may select patients with lung cancer (cases) from the respiratory department and a control group without lung cancer from other departments. Because the hospital specializes in asbestosis treatment, patients in the respiratory department with lung cancer are more likely to have a history of asbestos exposure (compared to patients with lung cancer at other, nonspecialized institutions). Therefore, the study may erroneously report a stronger association than actually exists.\n\n(Choice E) Selection bias occurs when the method of selection used in a particular study results in selection sample of participants who are not representative of the intended population. A common example is patients with cancer who fail standard therapy and who are therefore the most likely to enroll in experimental trials (self-selection), leading to results that are not applicable to patients with less advanced cancers.\n\nEducational objective:\nRecall bias results from study participants' inaccurate recall of past exposure and occurs most often in retrospective studies such as case-control studies. People who have experienced an adverse event are more likely to recall risk factors than those who have not experienced an adverse event.",
+    "zh": "回忆偏倚是由于研究参与者对过去暴露的回忆不准确造成的，并且最常发生在回顾性研究中，如病例对照研究。经历过不良事件（例如，孩子出现先天性异常）的人比没有经历过不良事件的人更有可能回忆起以前潜在的风险因素（例如，使用对乙酰氨基酚）。\n\n与回顾性评估潜在风险因素暴露的病例对照研究相反，前瞻性研究从暴露和未暴露的个体开始。由于暴露状态是在研究入组时确定的，因此可以最大限度地减少回忆偏倚。\n\n(选项 A) 分配偏倚可能源于患者被分配到治疗组和对照组的方式。当受试者未被随机分配到临床试验的研究组时，可能会发生这种情况（例如，医生可能更倾向于将病情较重的患者纳入实验组）。分配偏倚不同于选择偏倚，选择偏倚发生在研究样本不能代表一般人群时（例如，由于非随机选择）。\n\n(选项 B) 检测偏倚是指风险因素本身可能导致广泛的诊断调查，并增加疾病被识别的可能性。例如，吸烟的患者可能会因其吸烟状况而接受更多的影像学监测，这将检测到更多的一般癌症病例。\n\n(选项 D) 转诊（入院率）偏倚发生在病例组和对照组因入院或转诊做法而有所不同时。例如，一项涉及石棉作为肺癌风险因素的研究，在一家专门治疗石棉沉着病的医院进行，可能会从呼吸科选择肺癌患者（病例组），并从其他科室选择一个没有肺癌的对照组。由于该医院专门治疗石棉沉着病，呼吸科的肺癌患者更有可能具有石棉暴露史（与其他非专科机构的肺癌患者相比）。因此，该研究可能错误地报告了比实际情况更强的关联。\n\n(选项 E) 选择偏倚发生在特定研究中使用的方法导致选择的参与者样本不能代表目标人群时。一个常见的例子是未能接受标准治疗的癌症患者，因此他们最有可能参加实验性试验（自我选择），导致结果不适用于患有较早期癌症的患者。\n\n教育目标：\n回忆偏倚是由于研究参与者对过去暴露的回忆不准确造成的，并且最常发生在回顾性研究中，如病例对照研究。经历过不良事件的人比没有经历过不良事件的人更有可能回忆起风险因素。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the types of bias that can affect the interpretation of study results, specifically recall bias in retrospective studies. It requires understanding how exposure to a risk factor can influence the reporting of past events.\n\nTo answer the question, identify the study design as retrospective and focus on the potential biases that are common in such study designs. Recognizing that participants in a case-control study may differentially recall past exposures is crucial.",
+    "zh": "这个问题考察了影响研究结果解释的偏倚类型知识，特别是在回顾性研究中的回忆偏倚。它需要理解风险因素的暴露如何影响对过去事件的报告。\n\n要回答这个问题，需要将研究设计确定为回顾性研究，并侧重于此类研究设计中常见的潜在偏倚。认识到病例对照研究的参与者可能对过去的暴露有不同的回忆至关重要。"
+  },
+  "tags": "Recall bias; Case-control study; Retrospective study; Bias; Epidemiology; Research methodology",
+  "category": "Bio",
+  "question_id": "1273",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1273",
+  "extracted_at": "2025-11-05T10:31:07.573147",
+  "translated_at": "2025-11-07T16:20:13.920987",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 46-year-old man is diagnosed with resistant hypertension. He had a comprehensive workup for secondary hypertension, which was unrevealing. The patient has tried multiple antihypertensive medications without significant effect. Past medical history is otherwise unremarkable. He agrees to enroll in a trial of a new long-acting medication that causes selective direct relaxation of the smooth muscle of arterioles but does not affect the veins.",
+    "zh": "一名46岁男性被诊断为难治性高血压。他接受了全面的二级高血压检查，但未发现异常。患者尝试了多种降压药，但疗效不显著。既往病史无其他特殊情况。他同意参加一项新型长效药物的临床试验，该药物可选择性直接松弛小动脉平滑肌，但不影响静脉。"
+  },
+  "question": {
+    "en": "Which of the following adverse effects is most likely to be caused by the drug during the clinical trial?",
+    "zh": "在临床试验期间，该药物最有可能引起以下哪种不良反应？"
+  },
+  "options": {
+    "A": {
+      "en": "Angioedema",
+      "zh": "血管性水肿"
+    },
+    "B": {
+      "en": "Bradycardia",
+      "zh": "心动过缓"
+    },
+    "C": {
+      "en": "Cold extremities",
+      "zh": "四肢冰冷"
+    },
+    "D": {
+      "en": "Decreased cardiac output",
+      "zh": "心输出量减少"
+    },
+    "E": {
+      "en": "Persistent cough",
+      "zh": "持续性咳嗽"
+    },
+    "F": {
+      "en": "Sodium and fluid retention",
+      "zh": "钠和体液潴留"
+    },
+    "G": {
+      "en": "Transient hypertension",
+      "zh": "短暂性高血压"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "Selective arteriolar vasodilators (eg, hydralazine, minoxidil) lower blood pressure by reducing systemic vascular resistance. However, this effect is limited by subsequent stimulation of baroreceptors with resulting reflex sympathetic activation. This leads to increased heart rate, contractility, and cardiac output (Choices B and D). In addition, sympathetic stimulation of the renin-angiotensin-aldosterone axis results in SODIUM AND FLUID RETENTION with peripheral edema. These effects offset much of the blood pressure lowering effect of these drugs and limit their long-term efficacy.\n\nThese agents are rarely used as monotherapy for chronic management of hypertension. However, they are useful acutely for patients with severely elevated blood pressure. They can also be given in combination with sympatholytics and diuretics to mitigate the side effects and provide synergistic blood pressure lowering in patients with resistant hypertension.\n\n(Choices A and E) Persistent cough and angioedema are well recognized side effects of ACE inhibitors. Angioedema refers to acute, localized subcutaneous or submucosal edema caused by increased vascular permeability. It differs from the chronic peripheral edema due to sodium retention seen with arteriolar dilators.\n\n(Choice C) Beta blockers decrease cardiac output, leading to peripheral vasoconstriction and resulting in cold hands and feet. However, direct arteriolar vasodilators enhance blood flow to peripheral tissues, including skin and muscle, and they can be used to relieve symptoms in patients with Raynaud phenomenon.\n\n(Choice G) Although selective arteriolar vasodilators trigger reflex sympathetic activation, this does not raise blood pressure above baseline unless they are discontinued abruptly.",
+    "zh": "选择性小动脉扩张剂（例如，肼苯哒嗪，米诺地尔）通过降低全身血管阻力来降低血压。然而，这种作用受到随后刺激压力感受器的限制，从而导致反射性交感神经激活。这会导致心率、收缩力和心输出量增加（选项B和D）。此外，交感神经刺激肾素-血管紧张素-醛固酮系统会导致钠和体液潴留，伴有周围性水肿。这些作用抵消了这些药物的大部分降压作用，并限制了它们的长效疗效。\n\n这些药物很少被用作单一疗法来长期控制高血压。但是，它们对于血压严重升高的患者是有效的。它们也可以与拟交感神经药和利尿剂联合使用，以减轻副作用，并在难治性高血压患者中提供协同降压作用。\n\n（选项A和E）持续性咳嗽和血管性水肿是ACE抑制剂的公认副作用。血管性水肿是指由血管通透性增加引起的急性、局限性皮下或黏膜下水肿。它与小动脉扩张剂引起的钠潴留导致的慢性周围性水肿不同。\n\n（选项C）β受体阻滞剂降低心输出量，导致周围血管收缩，从而导致手脚冰冷。然而，直接小动脉扩张剂可增强流向周围组织（包括皮肤和肌肉）的血流，并且可用于缓解雷诺现象患者的症状。\n\n（选项G）尽管选择性小动脉扩张剂会触发反射性交感神经激活，但除非突然停药，否则血压不会高于基线水平。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of action and side effects of selective arteriolar vasodilators, specifically focusing on the compensatory mechanisms triggered by these drugs. The key to solving this question is understanding that arteriolar vasodilators cause reflex sympathetic activation and stimulation of the renin-angiotensin-aldosterone axis, leading to sodium and fluid retention.",
+    "zh": "此问题考察对选择性小动脉扩张剂的作用机制和副作用的了解，特别是关注这些药物触发的代偿机制。解决此问题的关键是理解小动脉扩张剂引起反射性交感神经激活和肾素-血管紧张素-醛固酮系统的刺激，从而导致钠和体液潴留。"
+  },
+  "tags": "Hypertension; Arteriolar vasodilators; Hydralazine; Minoxidil; Sodium retention; Fluid retention; Renin-angiotensin-aldosterone system; Reflex sympathetic activation; Pharmacology; Cardiovascular system",
+  "category": "CVS",
+  "question_id": "1252",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1252",
+  "extracted_at": "2025-11-05T11:52:49.970568",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:44:50.990102",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

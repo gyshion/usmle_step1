@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 7-year-old boy is brought to the emergency department due to fever, headache, vomiting, and confusion. He has no prior medical conditions and is up to date with immunizations. The patient has not traveled recently, and his parents report no exposure to individuals with similar symptoms or ingestion of anything out of the ordinary. They recently noticed several dead birds around their neighborhood. Temperature is 39 C (102.2 F). Physical examination shows neck rigidity and right lower extremity weakness with fasciculations. Cerebrospinal fluid analysis shows a leukocyte count of 200/mm³ with 20% neutrophils and 80% lymphocytes.",
+    "zh": "一名7岁男孩因发烧、头痛、呕吐和意识模糊被带到急诊科。他没有既往病史，并已按时接种疫苗。患者近期没有旅行，他的父母报告没有接触过有类似症状的人或摄入任何不寻常的东西。他们最近注意到邻居附近有几只死鸟。体温为39°C（102.2°F）。体格检查显示颈部僵硬和右下肢无力伴有肌束震颤。脑脊液分析显示白细胞计数为200/mm³，其中20%为中性粒细胞，80%为淋巴细胞。"
+  },
+  "question": {
+    "en": "Which of the following pathogens is most likely responsible for this patient's condition?",
+    "zh": "以下哪种病原体最有可能导致该患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Cryptococcus neoformans",
+      "zh": "新型隐球菌"
+    },
+    "B": {
+      "en": "Herpes simplex virus",
+      "zh": "单纯疱疹病毒"
+    },
+    "C": {
+      "en": "Nonpolio enterovirus",
+      "zh": "非脊髓灰质炎肠道病毒"
+    },
+    "D": {
+      "en": "Polio virus",
+      "zh": "脊髓灰质炎病毒"
+    },
+    "E": {
+      "en": "West Nile virus",
+      "zh": "西尼罗病毒"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The patient presents with symptoms suggestive of meningoencephalitis, including fever, headache, vomiting, confusion, neck rigidity, and pleocytosis in the cerebrospinal fluid. The presence of right lower extremity weakness with fasciculations is a key finding pointing towards a neuroinvasive process, specifically flaccid paralysis. The recent observation of dead birds in the neighborhood is a significant epidemiological clue, as birds are reservoirs for West Nile virus.\n\nWEST NILE VIRUS is an RNA virus transmitted by mosquitoes, which acquire the virus by feeding on infected birds. Humans are incidental hosts. The clinical spectrum of West Nile virus infection ranges from asymptomatic to West Nile fever (a self-limited, flu-like illness) to neuroinvasive disease. Neuroinvasive disease can manifest as meningitis, encephalitis, or acute flaccid paralysis, which is characterized by asymmetric weakness of the limbs and fasciculations. The CSF typically shows a lymphocytic pleocytosis. The patient's presentation, including the neurological deficits and the epidemiological link to birds, strongly suggests West Nile virus infection.\n\n(Choice A) Cryptococcus neoformans is a fungus that can cause meningoencephalitis, particularly in immunocompromised individuals. However, this patient has no known immunocompromise, and the presentation of focal neurological deficits with fasciculations is not typical for cryptococcal meningitis, which usually presents with more subacute symptoms like headache, lethargy, and cognitive impairment.\n\n(Choice B) Herpes simplex virus (HSV) is a common cause of sporadic encephalitis, typically presenting with confusion, fever, headache, and focal neurological deficits such as hemiparesis or aphasia. While HSV encephalitis can cause altered mental status and seizures, the specific finding of lower motor neuron signs like fasciculations and flaccid paralysis is less characteristic of HSV encephalitis compared to West Nile virus.\n\n(Choice C) Nonpolio enteroviruses are a common cause of viral meningitis and encephalitis, especially in children. They can cause fever, headache, and meningeal signs. However, they are not typically associated with bird vectors, and while they can cause neurological symptoms, the specific pattern of acute flaccid paralysis with fasciculations is more characteristic of West Nile virus or poliovirus.\n\n(Choice D) Polio virus causes acute flaccid paralysis, which is a key feature in this patient. However, widespread vaccination has made polio extremely rare in many parts of the world, including the United States. While polio virus can cause paralysis, the epidemiological link to dead birds makes West Nile virus a more likely culprit in this scenario, especially given the current prevalence of West Nile virus outbreaks.\n\nKey clinical pearls: The combination of fever, neurological symptoms (confusion, neck rigidity), and acute flaccid paralysis with fasciculations, especially in the context of recent exposure to dead birds, strongly points to WEST NILE VIRUS.",
+    "zh": "患者表现出提示脑膜脑炎的症状，包括发烧、头痛、呕吐、意识模糊、颈部僵硬和脑脊液中细胞增多。右下肢无力伴有肌束震颤是关键发现，指向神经侵袭过程，特别是弛缓性麻痹。最近在附近观察到死鸟是一个重要的流行病学线索，因为鸟类是西尼罗病毒的宿主。\n\n西尼罗病毒是一种通过蚊子传播的 RNA 病毒，蚊子通过吸食受感染的鸟类获得该病毒。人类是偶发宿主。西尼罗病毒感染的临床范围从无症状到西尼罗热（一种自限性流感样疾病）到神经侵袭性疾病。神经侵袭性疾病可表现为脑膜炎、脑炎或急性弛缓性麻痹，其特征是肢体不对称性无力和肌束震颤。脑脊液通常显示淋巴细胞性细胞增多。患者的表现，包括神经系统缺陷和与鸟类的流行病学联系，强烈提示西尼罗病毒感染。\n\n（选项 A）新型隐球菌是一种可引起脑膜脑炎的真菌，尤其是在免疫功能低下的人群中。然而，该患者没有已知的免疫功能低下，并且局灶性神经功能缺损伴有肌束震颤的表现并非隐球菌性脑膜炎的典型表现，后者通常表现为更亚急性的症状，如头痛、嗜睡和认知障碍。\n\n（选项 B）单纯疱疹病毒（HSV）是散发性脑炎的常见原因，通常表现为意识模糊、发烧、头痛和局灶性神经功能缺损，如偏瘫或失语。虽然 HSV 脑炎可引起精神状态改变和癫痫发作，但与西尼罗病毒相比，像肌束震颤和弛缓性麻痹这样的下运动神经元体征的特定发现不太符合 HSV 脑炎的特征。\n\n（选项 C）非脊髓灰质炎肠道病毒是病毒性脑膜炎和脑炎的常见原因，尤其是在儿童中。它们可引起发烧、头痛和脑膜征。然而，它们通常与鸟类媒介无关，虽然它们可以引起神经系统症状，但急性弛缓性麻痹伴有肌束震颤的特定模式更符合西尼罗病毒或脊髓灰质炎病毒的特征。\n\n（选项 D）脊髓灰质炎病毒引起急性弛缓性麻痹，这是该患者的一个关键特征。然而，广泛的疫苗接种已使脊髓灰质炎在包括美国在内的世界许多地方变得极其罕见。虽然脊髓灰质炎病毒可引起麻痹，但与死鸟的流行病学联系使西尼罗病毒更有可能成为这种情况下的罪魁祸首，尤其考虑到西尼罗病毒爆发的当前流行率。\n\n关键临床要点：发烧、神经系统症状（意识模糊、颈部僵硬）和急性弛缓性麻痹伴有肌束震颤的组合，尤其是在最近接触过死鸟的情况下，强烈指向西尼罗病毒。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of neuroinvasive arboviral infections, specifically differentiating between various causes of meningoencephalitis and acute flaccid paralysis. It emphasizes the importance of epidemiological clues, such as exposure to birds, in diagnosing West Nile virus infection.\n\nTo solve this question, one must integrate the patient's clinical presentation (fever, headache, confusion, neck rigidity, focal neurological deficits with fasciculations) with the cerebrospinal fluid findings (lymphocytic pleocytosis) and epidemiological information (dead birds). This integrated approach helps narrow down the differential diagnosis and identify the most likely pathogen.",
+    "zh": "此题考察对神经侵袭性虫媒病毒感染的理解，特别是区分脑膜脑炎和急性弛缓性麻痹的各种原因。它强调了流行病学线索（如接触鸟类）在诊断西尼罗病毒感染中的重要性。\n\n要解决这个问题，必须将患者的临床表现（发烧、头痛、意识模糊、颈部僵硬、伴有肌束震颤的局灶性神经功能缺损）与脑脊液检查结果（淋巴细胞增多）和流行病学信息（死鸟）结合起来。这种综合方法有助于缩小鉴别诊断范围并确定最可能的病原体。"
+  },
+  "tags": "West Nile virus; Neuroinvasive disease; Meningoencephalitis; Acute flaccid paralysis; Arbovirus; Mosquito-borne illness; Epidemiology; Central nervous system infections; Infectious disease",
+  "category": "Neuro",
+  "question_id": "15587",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\15587",
+  "extracted_at": "2025-11-05T19:34:27.225091",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:34:37.025694",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A study is conducted to assess the relationship between smoking status and forced expiratory volume in one second (FEV1). Subjects are randomly selected and categorized based on smoking status. Group A consists of 200 nonsmokers, group B consists of 200 light smokers (1-7 cigarettes per day), group C consists of 200 moderate smokers (8-22 cigarettes per day), and group D consists of 200 heavy smokers (23+ cigarettes per day). FEV1 is quantitatively measured in all participants using properly calibrated office spirometers. Which of the following is the most appropriate statistical method to compare the mean FEV1 results among all 4 groups?",
+    "zh": "进行一项研究，以评估吸烟状况与一秒用力呼气量 (FEV1) 之间的关系。受试者被随机选择，并根据吸烟状况进行分类。A 组由 200 名非吸烟者组成，B 组由 200 名轻度吸烟者（每天 1-7 支香烟）组成，C 组由 200 名中度吸烟者（每天 8-22 支香烟）组成，D 组由 200 名重度吸烟者（每天 23 支以上香烟）组成。使用经过适当校准的办公室肺活量计对所有参与者的 FEV1 进行定量测量。以下哪种统计方法最适合比较所有 4 个组的平均 FEV1 结果？"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate statistical method to compare the mean FEV1 results among all 4 groups?",
+    "zh": "以下哪种统计方法最适合比较所有 4 个组的平均 FEV1 结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Analysis of variance",
+      "zh": "方差分析"
+    },
+    "B": {
+      "en": "Chi-square test",
+      "zh": "卡方检验"
+    },
+    "C": {
+      "en": "Meta-analysis",
+      "zh": "荟萃分析"
+    },
+    "D": {
+      "en": "Multiple logistic regression",
+      "zh": "多重逻辑回归"
+    },
+    "E": {
+      "en": "Pearson correlation coefficient",
+      "zh": "皮尔逊相关系数"
+    },
+    "F": {
+      "en": "Two-sample t-test",
+      "zh": "两样本 t 检验"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Analysis of variance (ANOVA) {{exhibit_1}} is used to determine whether there are any significant differences between the means of several independent groups.\n\nANOVA compares the means between the groups relative to the variability within groups (F-test) and determines whether any of those means are significantly different from one another. Specifically, it tests the null hypothesis that all groups are simply random samples of the same population (ie, the means are the same). The null hypothesis is rejected when there are at least 2 group means that are significantly different from one another.\n\nANOVA can be used to compare ≥2 groups but is generally used to compare ≥3 groups (because other equivalent methods exist to compare 2 groups). For example, the 2 independent samples t-test is a special case of the F-test in ANOVA. The assumptions for both tests and their resulting p-values are the same.\n\n(Choice B) Chi-square tests can be used to evaluate the association between 2 categorical variables. For example, if FEV, is measured as a categorical variable (eg, normal or low), then a chi-square test could be used to determine if there is an association between FEV and smoking status. However, this study is specifically comparing the mean FEV results (a quantitative variable) between groups.\n\n(Choice C) Meta-analysis involves the pooling of data from several studies to perform an analysis with greater statistical power than the individual studies alone. For example, individual studies assessing the effects of aspirin on certain cardiovascular events may be inconclusive. However, analysis of data compiled from multiple clinical trials may reveal a significant benefit.\n\n(Choice D) Multiple logistic regression is a method used to predict the probability of a binary outcome (eg, presence or absence of gastric cancer) based on 1 or more independent variables that can be either continuous or categorical. For example, this test could be used to predict the probability of gastric cancer based on alcohol consumption, tobacco use, and charred food consumption.\n\n(Choice E) The Pearson correlation coefficient is a measure of the strength and direction of a linear relationship between 2 quantitative (ie, continuous) variables. For example, a study may report a correlation coefficient describing the association between hemoglobin A1c levels and average blood glucose levels.\n\n(Choice F) A two-sample t-test can be used when 2 group means are compared. This test could have been used for the example in the question if the study participants were divided into smoking and nonsmoking groups only (ie, 2 groups instead of 4).\n\nEducational objective:\nA t-test is used to compare the difference between the means of 2 groups. Analysis of variance (ANOVA) compares the difference between the means of 2 or more groups. Results from a t-test and ANOVA test will be equivalent when comparing the difference between the means of 2 groups.",
+    "zh": "方差分析 (ANOVA) {{exhibit_1}} 用于确定几个独立组的均值之间是否存在任何显着差异。\n\nANOVA 将组间的均值与组内的变异性（F 检验）进行比较，并确定这些均值中是否有任何一个与另一个显着不同。具体来说，它检验原假设，即所有组只是同一总体的随机样本（即，均值相同）。当至少有 2 个组的均值彼此显着不同时，则拒绝原假设。\n\nANOVA 可用于比较 ≥2 个组，但通常用于比较 ≥3 个组（因为存在其他等效方法可用于比较 2 个组）。例如，2 个独立样本 t 检验是 ANOVA 中 F 检验的一个特例。这两种检验及其产生的 p 值所依据的假设是相同的。\n\n(选择 B) 卡方检验可用于评估 2 个分类变量之间的关联。例如，如果 FEV, 被测量为分类变量（例如，正常或低），则可以使用卡方检验来确定 FEV 和吸烟状况之间是否存在关联。但是，这项研究专门比较组之间的平均 FEV 结果（一个定量变量）。\n\n(选择 C) 荟萃分析涉及汇总来自多项研究的数据，以进行分析，其统计效力高于单独的研究。例如，评估阿司匹林对某些心血管事件的影响的个别研究可能没有结论。但是，对来自多项临床试验的数据进行分析可能会揭示显着益处。\n\n(选择 D) 多重逻辑回归是一种用于根据一个或多个独立变量（可以是连续的或分类的）来预测二元结果（例如，是否存在胃癌）的概率的方法。例如，该测试可用于根据饮酒、烟草使用和烧焦食物的摄入来预测胃癌的概率。\n\n(选择 E) 皮尔逊相关系数是衡量 2 个定量（即连续）变量之间线性关系强度和方向的指标。例如，一项研究可能会报告一个相关系数，描述血红蛋白 A1c 水平和平均血糖水平之间的关联。\n\n(选择 F) 当比较 2 个组的均值时，可以使用两样本 t 检验。如果研究参与者仅分为吸烟组和非吸烟组（即，2 个组而不是 4 个组），则该测试可用于问题中的示例。\n\n教育目标：\nt 检验用于比较 2 个组的均值之间的差异。方差分析 (ANOVA) 比较 2 个或更多组的均值之间的差异。当比较 2 个组的均值之间的差异时，t 检验和 ANOVA 检验的结果将是等效的。"
+  },
+  "summary": {
+    "en": "This question tests the application of appropriate statistical methods for comparing means across multiple groups. Specifically, it assesses the understanding of when to use Analysis of Variance (ANOVA) versus other statistical tests like t-tests or chi-square tests. \n\nThe key to solving this question is recognizing that ANOVA is suitable for comparing the means of three or more independent groups. Identifying the quantitative nature of the FEV1 data and the presence of four distinct smoking groups leads to the selection of ANOVA as the most appropriate statistical method.",
+    "zh": "这个问题测试了使用适当的统计方法来比较多个组的均值。具体来说，它评估了何时使用方差分析 (ANOVA) 以及其他统计检验（如 t 检验或卡方检验）的理解。\n\n解决这个问题的关键是认识到 ANOVA 适用于比较三个或更多独立组的均值。确定 FEV1 数据的定量性质以及存在四个不同的吸烟组，导致选择 ANOVA 作为最合适的统计方法。"
+  },
+  "tags": "Analysis of variance; ANOVA; Biostatistics; Statistical tests; Forced expiratory volume; FEV1; Smoking; Epidemiology",
+  "category": "Bio",
+  "question_id": "8519",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\8519",
+  "extracted_at": "2025-11-05T11:16:47.824617",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:24:49.144987",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

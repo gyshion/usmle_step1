@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old man is hospitalized with acute pancreatitis that resolves rapidly on fasting. He has suffered 2 similar episodes during the past 2 years. A gallbladder ultrasound obtained during a previous episode was normal. The patient has no other medical problems and takes no medications. He does not consume alcohol.",
+    "zh": "一名23岁的男性因急性胰腺炎住院，禁食后迅速缓解。在过去的2年中，他曾经历过2次类似的事件。在之前的发作中获得的胆囊超声检查结果正常。患者没有其他健康问题，也没有服用任何药物。他不饮酒。"
+  },
+  "question": {
+    "en": "Which of the following tests should be considered during the workup of this patient?",
+    "zh": "在对该患者进行检查时，应考虑以下哪项检查？"
+  },
+  "options": {
+    "A": {
+      "en": "Serum ceruloplasmin",
+      "zh": "血清铜蓝蛋白"
+    },
+    "B": {
+      "en": "Serum cholesterol",
+      "zh": "血清胆固醇"
+    },
+    "C": {
+      "en": "Serum ferritin",
+      "zh": "血清铁蛋白"
+    },
+    "D": {
+      "en": "Serum triglycerides",
+      "zh": "血清甘油三酯"
+    },
+    "E": {
+      "en": "Serum uric acid",
+      "zh": "血清尿酸"
+    },
+    "F": {
+      "en": "Urine oxalate",
+      "zh": "尿草酸盐"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Gallstones and alcohol use are the most common causes of ACUTE PANCREATITIS. Gallstones typically affect middle-aged and older patients (particularly women) unless there is a predisposing condition (eg, young patients with sickle cell disease are at increased risk for bilirubin gallstones). This young male patient does not consume alcohol and is unlikely to have gallstones, especially considering the negative results of his prior ultrasound. Thus, one of the following less common causes of acute pancreatitis likely accounts for his condition:\n\n1.  Recent endoscopic retrograde cholangiopancreatography (ERCP) procedure\n2.  Drugs (eg, azathioprine, sulfasalazine, furosemide, valproic acid)\n3.  Infections (eg, mumps, Coxsackie virus, Mycoplasma pneumoniae)\n4.  Hypertriglyceridemia\n5.  Structural abnormalities of the pancreatic duct (strictures, cancer, pancreas divisum) or of the ampullary region (choledochal cyst, stenosis of sphincter of Oddi)\n6.  Surgery (particularly of the stomach and biliary tract and after cardiac surgery)\n7.  Hypercalcemia\n\nHigh levels of circulating triglycerides lead to increased production of free fatty acids within the pancreatic capillaries by pancreatic lipase. Normally, fatty acids exist in serum bound to albumin. However, if serum triglyceride levels rise to >1000 mg/dL, the concentration of free fatty acids exceeds the binding capacity of albumin and leads to direct injury to the pancreatic acinar cells. Thus, hypertriglyceridemia causes acute pancreatitis via direct tissue toxicity.\n\n(Choice A) Decreased serum ceruloplasmin and increased hepatic copper content are diagnostic of Wilson disease. Cirrhosis, central nervous system involvement, and Kayser-Fleischer rings are characteristic findings. Wilson disease does not predispose to acute pancreatitis.\n\n(Choice B) Increased serum cholesterol levels predispose to the development of systemic atherosclerosis, putting patients at increased risk for coronary artery disease, peripheral vascular disease, and stroke. In some cases, hypercholesterolemia may increase the risk of cholesterol gallstone formation, but this patient's negative gallbladder ultrasound makes this a less likely cause of his pancreatitis.\n\n(Choice C) High concentrations of serum ferritin are found in hemochromatosis. Hemochromatosis can cause cirrhosis, pancreatic fibrosis and subsequent diabetes, cardiomyopathy, and secondary hypogonadism. It does not cause acute pancreatitis.\n\n(Choice E) Hyperuricemia can lead to the formation of uric acid renal calculi and urate nephropathy. There is no association with acute pancreatitis.\n\n(Choice F) Increased concentrations of oxalate in the urine are associated with intestinal malabsorption syndromes (eg, Crohn disease). Calcium oxalate renal stones may form as a result. Hyperoxaluria is not associated with acute pancreatitis.\n\nEducational objective:\nEighty percent of acute pancreatitis cases are caused by gallstones and chronic alcoholism. Less common causes account for the other 20%. Inherited or acquired hypertriglyceridemia can cause acute pancreatitis if the serum level of triglycerides exceeds 1000 mg/dL.",
+    "zh": "胆结石和饮酒是急性胰腺炎最常见的病因。胆结石通常影响中年和老年患者（尤其是女性），除非存在易感疾病（例如，患有镰状细胞病的年轻患者患胆红素结石的风险增加）。这名年轻男性患者不饮酒，并且不太可能患有胆结石，特别是考虑到他之前的超声检查结果呈阴性。因此，以下不太常见的急性胰腺炎病因可能解释了他的病情：\n\n1. 近期内镜逆行胰胆管造影术 (ERCP)\n2. 药物（例如，硫唑嘌呤、柳氮磺胺吡啶、呋塞米、丙戊酸）\n3. 感染（例如，腮腺炎、柯萨奇病毒、肺炎支原体）\n4. 高甘油三酯血症\n5. 胰管结构异常（狭窄、癌症、胰腺分裂症）或壶腹区异常（胆管囊肿、Oddi 括约肌狭窄）\n6. 手术（尤其是胃和胆道手术以及心脏手术后）\n7. 高钙血症\n\n高水平的循环甘油三酯导致胰腺毛细血管内胰脂肪酶产生游离脂肪酸增加。通常，脂肪酸以与白蛋白结合的形式存在于血清中。然而，如果血清甘油三酯水平升高至 >1000 mg/dL，游离脂肪酸的浓度超过白蛋白的结合能力，会导致胰腺腺泡细胞直接损伤。因此，高甘油三酯血症通过直接的组织毒性导致急性胰腺炎。\n\n（选项 A）血清铜蓝蛋白降低和肝铜含量升高是 Wilson 病的诊断依据。肝硬化、中枢神经系统受累和角膜色素环是特征性发现。Wilson 病不会使人易患急性胰腺炎。\n\n（选项 B）血清胆固醇水平升高易患全身性动脉粥样硬化，使患者罹患冠状动脉疾病、周围血管疾病和中风的风险增加。在某些情况下，高胆固醇血症可能会增加胆固醇结石形成的风险，但该患者的胆囊超声检查结果为阴性，这使得这不太可能是他患胰腺炎的原因。\n\n（选项 C）血清铁蛋白浓度高可见于血色素沉着症。血色素沉着症可引起肝硬化、胰腺纤维化和随后的糖尿病、心肌病和继发性性腺功能减退。它不会引起急性胰腺炎。\n\n（选项 E）高尿酸血症可导致尿酸肾结石和尿酸盐肾病形成。这与急性胰腺炎无关。\n\n（选项 F）尿液中草酸盐浓度升高与肠道吸收不良综合征（例如，克罗恩病）相关。可能会因此形成草酸钙肾结石。高草酸尿症与急性胰腺炎无关。\n\n教学目标：\n80% 的急性胰腺炎病例是由胆结石和慢性酒精中毒引起的。不太常见的病因占其余的 20%。如果血清甘油三酯水平超过 1000 mg/dL，遗传性或获得性高甘油三酯血症可引起急性胰腺炎。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of less common causes of acute pancreatitis, specifically hypertriglyceridemia-induced pancreatitis. It requires understanding the pathophysiology of how elevated triglycerides can lead to pancreatic damage. \n\nThe key to solving this question is recognizing that the patient's history is atypical for the most common causes (gallstones and alcohol). Therefore, consider less common etiologies, such as hypertriglyceridemia, especially given the recurrent nature of the pancreatitis.",
+    "zh": "此问题测试对急性胰腺炎不太常见病因的了解，特别是高甘油三酯血症引起的胰腺炎。它需要理解甘油三酯升高如何导致胰腺损伤的病理生理学。\n\n解决此问题的关键是认识到患者的病史对于最常见的病因（胆结石和酒精）而言是非典型的。因此，考虑不太常见的病因，例如高甘油三酯血症，特别是考虑到胰腺炎的复发性。"
+  },
+  "tags": "Acute pancreatitis; Hypertriglyceridemia; Gallstones; Alcohol; Serum triglycerides; Pancreatic lipase; Gastrointestinal & Nutrition; ERCP",
+  "category": "GIT",
+  "question_id": "440",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\440",
+  "extracted_at": "2025-11-05T14:36:42.441638",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:58:21.261995",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

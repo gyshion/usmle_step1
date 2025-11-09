@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A healthy 31-year-old woman comes to the office as she and her husband desire a second child. The husband is infertile and the patient's son, who was conceived via donor insemination, was recently diagnosed with glycogen storage disease type II (Pompe disease). This rare autosomal recessive disease is known to affect 1 in 40,000 of the general population. Genetic testing confirms that the patient is a carrier for the disease. A different sperm donor is selected with no personal or family history of Pompe disease; however, his carrier status is unknown.",
+    "zh": "一位健康的 31 岁女性来到诊所，因为她和她的丈夫想要第二个孩子。丈夫不育，患者的儿子通过供精人工授精受孕，最近被诊断患有 II 型糖原累积病（庞贝病）。这种罕见的常染色体隐性遗传病已知影响普通人群中的 40,000 人中有 1 人。基因检测证实患者是该疾病的携带者。选择了一个不同的精子捐献者，他没有庞贝病的个人或家族史；然而，他的携带者状态未知。"
+  },
+  "question": {
+    "en": "What is the probability of the patient having an affected child with the new sperm donor?",
+    "zh": "患者与新的精子捐献者生育患病孩子的概率是多少？"
+  },
+  "options": {
+    "A": {
+      "en": "1/4",
+      "zh": "1/4"
+    },
+    "B": {
+      "en": "1/240",
+      "zh": "1/240"
+    },
+    "C": {
+      "en": "1/400",
+      "zh": "1/400"
+    },
+    "D": {
+      "en": "1/800",
+      "zh": "1/800"
+    },
+    "E": {
+      "en": "1/40,000",
+      "zh": "1/40,000"
+    },
+    "F": {
+      "en": "1/160,000",
+      "zh": "1/160,000"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "To be affected by an autosomal recessive disorder, an offspring must inherit 2 copies of the mutant allele (a), a copy from the mother and another copy from the father (in this case, the sperm donor).\n\nIn this example, genetic analysis confirms that the mother is a carrier (Aa), which gives her a 50% chance of passing 1 mutant allele (a) to her child.\n\nThe sperm donor does not have Pompe disease, but his carrier status is unknown (ie, he has either an AA or Aa genotype). Given that he has no family history of the disease, his risk of being a carrier is the same as that of the general population. Hardy-Weinberg analysis {{exhibit_1}} can be used to estimate the frequency of alleles and genotypes in the general population:\n\n*   The total gene pool is given by (p + q) = 1. By convention, p = normal allele (A) frequency and q = mutant allele (a) frequency in the population of interest.\n*   Disease frequency is equivalent to the proportion of homozygous recessive individuals. These affected individuals have 2 copies of the mutant allele (aa); therefore, the frequency of affected individuals = q × q = q2.\n*   Carrier frequency is equal to the proportion of heterozygous individuals. Carriers have only 1 mutant allele that may be inherited in 2 different ways (ie, Aa or aA); consequently, the probability of being a carrier = 2pq. For rare autosomal recessive disorders, p ≈ 1; therefore, the probability approximates to 2 times the frequency of the mutant allele, or 2q.\n\nIn this case, 1 in 40,000 individuals is affected by the condition in the general population, so q2 = 1/40,000 and q = 1/√40,000 = 1/200. Thus, the probability of the sperm donor being a carrier = 2q = 2 ×(1/200) = 1/100. Given that a carrier sperm donor would have a 50% chance of passing on the mutant allele (a), the probability of the child being affected is:\n\nP (mother gives recessive allele) × P (donor is a carrier) × P (donor gives recessive allele) = (1/2 × 1/100 × 1/2) = 1/400\n\n(Choices E and F) 1/40,000 represents the disease frequency (q2), not the mutant allele frequency (q).",
+    "zh": "为了受到常染色体隐性遗传疾病的影响，后代必须继承 2 个突变等位基因 (a)，一个来自母亲，另一个来自父亲（在这种情况下，是精子捐献者）。\n\n在这个例子中，基因分析证实母亲是携带者 (Aa)，这使她有 50% 的机会将 1 个突变等位基因 (a) 传递给她的孩子。\n\n精子捐献者没有庞贝病，但他的携带者状态未知（即，他有 AA 或 Aa 基因型）。鉴于他没有该疾病的家族史，他成为携带者的风险与一般人群相同。可以使用哈迪-温伯格分析 {{exhibit_1}} 来估计一般人群中等位基因和基因型的频率：\n\n*   总基因库由 (p + q) = 1 给出。 按照惯例，p = 正常等位基因 (A) 频率，q = 感兴趣人群中突变等位基因 (a) 频率。\n*   疾病频率等于纯合隐性个体的比例。这些受影响的个体有 2 个突变等位基因 (aa)；因此，受影响个体的频率 = q × q = q2。\n*   携带者频率等于杂合个体的比例。携带者只有一个突变等位基因，可以通过两种不同的方式遗传（即，Aa 或 aA）；因此，成为携带者的概率 = 2pq。对于罕见的常染色体隐性遗传病，p ≈ 1；因此，概率近似于突变等位基因频率的 2 倍，即 2q。\n\n在这种情况下，一般人群中每 40,000 人中就有 1 人受到该疾病的影响，因此 q2 = 1/40,000 且 q = 1/√40,000 = 1/200。因此，精子捐献者成为携带者的概率 = 2q = 2 ×(1/200) = 1/100。鉴于携带者精子捐献者有 50% 的机会传递突变等位基因 (a)，孩子受影响的概率为：\n\nP（母亲给出隐性等位基因）× P（捐献者是携带者）× P（捐献者给出隐性等位基因）= (1/2 × 1/100 × 1/2) = 1/400\n\n（选项 E 和 F）1/40,000 代表疾病频率 (q2)，而不是突变等位基因频率 (q)。"
+  },
+  "summary": {
+    "en": "This question tests the ability to calculate the probability of an offspring inheriting an autosomal recessive disorder, given the carrier status of one parent and the general population frequency of the disease, requiring application of Hardy-Weinberg principles. \n\nThe key to solving this is to recognize that the mother is a known carrier, and to use the disease prevalence to calculate the carrier frequency in the general population, which is then used to determine the probability of the sperm donor being a carrier and passing on the affected allele.",
+    "zh": "这个问题考察了在给定一个父母的携带者状态和疾病的一般人群频率的情况下，计算后代继承常染色体隐性遗传疾病的概率的能力，这需要应用哈迪-温伯格原理。\n\n解决这个问题的关键是认识到母亲是一个已知的携带者，并使用疾病患病率来计算一般人群中的携带者频率，然后使用它来确定精子捐献者成为携带者并传递受影响等位基因的概率。"
+  },
+  "tags": "Autosomal recessive inheritance; Pompe disease; Glycogen storage disease; Hardy-Weinberg principle; Carrier frequency; Genetic counseling; Probability calculation",
+  "category": "Bio",
+  "question_id": "11835",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\11835",
+  "extracted_at": "2025-11-05T10:27:57.957134",
+  "translated_at": "2025-11-07T16:19:01.405188",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

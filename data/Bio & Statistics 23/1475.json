@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 56-year-old man comes to the office due to difficulty swallowing for the past several months. He has the most trouble with solid foods and says, \"They seem to get stuck in my throat if I don't chew a lot.\" The patient has no chest pain or heartburn and has lost 4.5 kg (10 lb) in the last 3 months. He has been an avid hunter for many years and frequently cures the meat he eats with sodium nitrite. Physical examination is unremarkable. Endoscopy shows an ulcerated mass in the distal third of the esophagus, and biopsy samples are obtained from the mass and adjacent normal mucosa. Analysis of the samples shows accelerated cytosine deamination of chromosomal DNA in both normal and malignant epithelial cells. This damage is most likely to be repaired through which of the following enzymatic sequences?",
+    "zh": "一名56岁的男性因过去几个月吞咽困难前来就诊。他最难吞咽固体食物，他说：“如果我不多咀嚼，它们似乎会卡在我的喉咙里。” 患者没有胸痛或胃灼热感，并且在过去3个月内体重减轻了4.5公斤（10磅）。他多年来一直是一位狂热的猎人，并且经常用亚硝酸钠腌制他吃的肉。体格检查无特殊发现。内镜检查显示食管远端三分之一处有溃疡性肿块，并从肿块和相邻的正常黏膜中获取活检样本。样本分析显示正常和恶性上皮细胞中染色体DNA的胞嘧啶脱氨加速。这种损伤最有可能通过以下哪种酶促序列修复？"
+  },
+  "question": {
+    "en": "Which of the following enzymatic sequences?",
+    "zh": "以下哪种酶促序列？"
+  },
+  "options": {
+    "A": {
+      "en": "Endonuclease, polymerase, glycosylase, lyase, ligase",
+      "zh": "内切核酸酶、聚合酶、糖基化酶、裂解酶、连接酶"
+    },
+    "B": {
+      "en": "Endonuclease, polymerase, lyase, glycosylase, ligase",
+      "zh": "内切核酸酶、聚合酶、裂解酶、糖基化酶、连接酶"
+    },
+    "C": {
+      "en": "Glycosylase, endonuclease, lyase, polymerase, ligase",
+      "zh": "糖基化酶、内切核酸酶、裂解酶、聚合酶、连接酶"
+    },
+    "D": {
+      "en": "Glycosylase, ligase, lyase, endonuclease, polymerase",
+      "zh": "糖基化酶、连接酶、裂解酶、内切核酸酶、聚合酶"
+    },
+    "E": {
+      "en": "Lyase, endonuclease, glycosylase, polymerase, ligase",
+      "zh": "裂解酶、内切核酸酶、糖基化酶、聚合酶、连接酶"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The question describes CYTOSINE DEAMINATION, which is repaired by BASE EXCISION REPAIR. This repair mechanism involves the following sequence of events:\n\n1.  Recognition of abnormal bases by specific GLYCOSYLASES that cleave the altered DNA bases from the parent DNA molecule, leaving an empty sugar-phosphate site called an apurinic/apyrimidinic site (AP).\n2.  Next, an AP ENDONUCLEASE nicks the 5' end of the AP site before a deoxyribose phosphate lyase (or flap endonuclease) enzyme subsequently completes extraction of the remaining sugar-phosphate backbone.\n3.  DNA POLYMERASE then fills the gap with the correct nucleotide(s), and the final nick is sealed by a LIGASE enzyme.",
+    "zh": "该问题描述了胞嘧啶脱氨，其通过碱基切除修复来修复。 这种修复机制涉及以下事件序列：\n\n1. 特异性糖基化酶识别异常碱基，从母体DNA分子中切割改变的DNA碱基，留下一个空的糖磷酸位点，称为无嘌呤/无嘧啶位点 (AP)。\n2. 接下来，AP内切核酸酶切割AP位点的5'端，然后脱氧核糖磷酸裂解酶（或瓣状内切核酸酶）酶随后完成剩余糖磷酸主链的提取。\n3. 然后，DNA聚合酶用正确的核苷酸填充间隙，最后由连接酶封闭最后的切口。"
+  },
+  "summary": {
+    "en": "1) Base excision repair 2) Base excision repair is responsible for fixing various non-bulky (ie, does not substantially disrupt DNA helix shape) base alterations such as depurination, alkylation, oxidation, and deamination. In this process, glycosylases remove the defective base, and the corresponding empty sugar-phosphate site is cleaved and removed by the action of endonuclease and lyase. DNA polymerase then replaces the missing nucleotide, and ligase seals the final remaining nick.",
+    "zh": "1) 碱基切除修复 2) 碱基切除修复负责修复各种非体积性（即，不显着破坏DNA螺旋形状）碱基改变，例如脱嘌呤、烷基化、氧化和脱氨。 在此过程中，糖基化酶去除有缺陷的碱基，并通过内切核酸酶和裂解酶的作用切割并去除相应的空糖磷酸位点。 然后，DNA聚合酶替换缺失的核苷酸，并且连接酶封闭最终剩余的切口。"
+  },
+  "tags": "Base excision repair; Cytosine deamination; Glycosylase; Endonuclease; DNA polymerase; Ligase",
+  "category": "Bio",
+  "question_id": "1475",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1475",
+  "extracted_at": "2025-11-05T10:59:06.678513",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:21:31.210180",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

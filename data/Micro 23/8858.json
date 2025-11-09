@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man is admitted to the intensive care unit with second- and third-degree burns over 25% of his total body surface area. Intravenous fluids and analgesics are administered, and his wounds are cleaned and debrided. After 7 days, the patient develops a fever and his leukocyte count rises to 18,000 cells/µL. Examination of the burns on his left leg shows surrounding warmth, erythema, and induration. Gram stain of his wound tissue is shown in the image below {{exhibit_1}}.",
+    "zh": "一名65岁男性因二度和三度烧伤入院重症监护病房，烧伤面积达全身表面积的25%。 静脉输液和镇痛药物已给药，其伤口已进行清创处理。 7天后，患者出现发热，白细胞计数升高至18,000个/µL。 检查其左腿上的烧伤，显示周围温暖、红斑和硬结。 其伤口组织的革兰染色结果如下图{{exhibit_1}}所示。"
+  },
+  "question": {
+    "en": "Culture on MacConkey agar grows oxidase-positive colonies that do not ferment lactose. Which of the following is the best initial treatment for this patient?",
+    "zh": "在麦康凯琼脂培养基上培养，生长出氧化酶阳性菌落，且不发酵乳糖。 以下哪项是该患者的最佳初始治疗方案？"
+  },
+  "options": {
+    "A": {
+      "en": "Cefepime",
+      "zh": "头孢吡肟"
+    },
+    "B": {
+      "en": "Ceftriaxone",
+      "zh": "头孢曲松"
+    },
+    "C": {
+      "en": "Doxycycline",
+      "zh": "多西环素"
+    },
+    "D": {
+      "en": "Moxifloxacin",
+      "zh": "莫西沙星"
+    },
+    "E": {
+      "en": "Trimethoprim-sulfamethoxazole",
+      "zh": "复方磺胺甲噁唑"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Burn patients are at increased risk of bacterial infection due to loss of the barrier function of the skin, post-burn immune dysfunction, and lack of blood flow to necrotic areas. Common pathogens include Gram-positive (eg, Staphylococcus aureus, Enterococcus species) and Gram-negative (eg, Pseudomonas aeruginosa, Escherichia coli, Klebsiella pneumoniae, and Acinetobacter species) bacteria.\n\nThis patient's burn is infected with Gram-negative rods that are oxidase-positive and non-lactose- fermenting, making P aeruginosa the most likely pathogen. Cephalosporins such as cefepime and ceftazidime have good anti-pseudomonal coverage.\n\n(Choice B) Ceftriaxone is a third-generation cephalosporin used primarily for the treatment of community-acquired pneumonia and bacterial meningitis. It has activity against some Gram-positive (eg, Streptococcus pneumoniae, S pyogenes) and Gram-negative (eg, Haemophilus influenzae, K pneumoniae, E coli) pathogens. Unlike ceftazidime, it has poor activity against P aeruginosa.\n\n(Choice C) Doxycycline is effective against Lyme disease and many tickborne rickettsial diseases but does not have good anti-pseudomonal coverage.\n\n(Choice D) Moxifloxacin is a fluoroquinolone used mainly for the treatment of bacterial infections that cause exacerbation of chronic obstructive pulmonary disease, sinusitis, and community-acquired pneumonia. Unlike ciprofloxacin and levofloxacin, moxifloxacin has poor anti-pseudomonal activity.\n\n(Choice E) Trimethoprim-sulfamethoxazole is used to treat susceptible organisms that cause urinary tract, gastrointestinal, and skin infections. It is the drug of choice for organisms such as Pneumocystis jiroveci, Toxoplasma gondii, Nocardia, and Stenotrophomonas maltophilia. It does not have activity against P aeruginosa.\n\nEducational objective:\nPseudomonas aeruginosa is a major pathogen in burn patients. Only a few specific penicillins (eg, ticarcillin, piperacillin) and cephalosporins (eg, ceftazidime, cefepime) have activity against it. Certain aminoglycosides, fluoroquinolones (eg, ciprofloxacin, levofloxacin), and carbapenems (eg, imipenem, meropenem) are also effective.",
+    "zh": "烧伤患者由于皮肤屏障功能丧失、烧伤后免疫功能障碍以及坏死区域血流不足，其细菌感染风险增加。 常见病原体包括革兰氏阳性菌（如金黄色葡萄球菌、肠球菌属）和革兰氏阴性菌（如铜绿假单胞菌、大肠杆菌、肺炎克雷伯菌和不动杆菌属）。\n\n该患者的烧伤感染了革兰氏阴性杆菌，这些杆菌氧化酶阳性且不发酵乳糖，这使得铜绿假单胞菌成为最可能的病原体。 头孢菌素类药物（如头孢吡肟和头孢他啶）对铜绿假单胞菌具有良好的覆盖范围。\n\n（选项B）头孢曲松是一种第三代头孢菌素，主要用于治疗社区获得性肺炎和细菌性脑膜炎。 它对一些革兰氏阳性菌（如肺炎链球菌、化脓性链球菌）和革兰氏阴性菌（如流感嗜血杆菌、肺炎克雷伯菌、大肠杆菌）病原体具有活性。 与头孢他啶不同，它对铜绿假单胞菌的活性较差。\n\n（选项C）多西环素对莱姆病和多种蜱传立克次体病有效，但对铜绿假单胞菌的覆盖范围不佳。\n\n（选项D）莫西沙星是一种氟喹诺酮类药物，主要用于治疗导致慢性阻塞性肺病、鼻窦炎和社区获得性肺炎加重的细菌感染。 与环丙沙星和左氧氟沙星不同，莫西沙星对铜绿假单胞菌的活性较差。\n\n（选项E）复方磺胺甲噁唑用于治疗引起泌尿道、胃肠道和皮肤感染的敏感病原体。 它是治疗肺孢子虫、弓形虫、诺卡菌属和嗜麦芽寡养单胞菌等病原体的首选药物。 它对铜绿假单胞菌没有活性。\n\n教育目标：\n铜绿假单胞菌是烧伤患者的主要病原体。 只有少数特定的青霉素类药物（如替卡西林、哌拉西林）和头孢菌素类药物（如头孢他啶、头孢吡肟）对其具有活性。 某些氨基糖苷类、氟喹诺酮类（如环丙沙星、左氧氟沙星）和碳青霉烯类药物（如亚胺培南、美罗培南）也有效。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of common pathogens in burn patients and appropriate antibiotic selection, specifically focusing on Pseudomonas aeruginosa coverage. It requires understanding of antibiotic spectrums and resistance patterns.\n\nTo solve this question, identify the most likely pathogen based on the clinical scenario and lab results (Gram-negative, oxidase-positive, non-lactose-fermenting rods). Then, select the antibiotic with the best coverage against Pseudomonas aeruginosa from the given options.",
+    "zh": "本题考察对烧伤患者常见病原体和适当的抗生素选择的知识，特别侧重于铜绿假单胞菌的覆盖。 它需要了解抗生素谱和耐药模式。\n\n要解决这个问题，请根据临床情况和实验室结果（革兰氏阴性、氧化酶阳性、不发酵乳糖的杆菌）确定最可能的病原体。 然后，从给定的选项中选择对铜绿假单胞菌覆盖范围最好的抗生素。"
+  },
+  "tags": "Burn wound infection; Pseudomonas aeruginosa; Antibiotic selection; Cefepime; Gram-negative bacteria; Infectious disease; Cephalosporins; MacConkey agar; Oxidase test",
+  "category": "Micro",
+  "question_id": "8858",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\8858",
+  "extracted_at": "2025-11-05T15:06:27.318902",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:13:45.405309",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

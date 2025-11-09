@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 67-year-old man is brought to the emergency department by ambulance due to altered mental status. He was having dinner with his daughter when he suddenly became confused and slumped over. The patient has a history of atrial fibrillation for which he takes an oral anticoagulant. He is widowed and lives with his daughter. Blood pressure is 208/113 mm Hg, pulse is 64/min and irregular, and respirations are 15/min. Oxygen saturation is 88% on room air. The patient is obtunded and unable to follow commands. Pupils are midsized and unresponsive to light. The physician determines that intubation is necessary at this time to protect the patient's airway and asks for consent from the daughter and older son who are at the bedside. They tell the physician that the patient does not have an advance directive and that they are unsure how to proceed. Which of the following is the most appropriate next step in decision-making for this patient?",
+    "zh": "一名67岁男性因精神状态改变由救护车送至急诊科。他正与其女儿共进晚餐，突然变得意识模糊并瘫倒。患者有房颤病史，正在服用口服抗凝剂。他丧偶并与女儿同住。血压为208/113 mmHg，脉搏64次/分且不规律，呼吸15次/分。在常氧下氧饱和度为88%。患者处于嗜睡状态，无法服从指令。瞳孔中等大小，对光反应迟钝。医生确定此时需要进行气管插管以保护患者的气道，并向床边的女儿和年长的儿子征求同意。他们告诉医生，患者没有预先指示，并且不确定如何进行。以下哪项是该患者决策中最合适的下一步？"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate next step in decision-making for this patient?",
+    "zh": "以下哪项是该患者决策中最合适的下一步？"
+  },
+  "options": {
+    "A": {
+      "en": "Ask the daughter to make a decision based on what she thinks is the best for the patient because he lives with her",
+      "zh": "要求女儿根据她认为对患者最好的方式做出决定，因为他与她同住"
+    },
+    "B": {
+      "en": "Ask the son to make a decision based on what he thinks is the best for the patient because he is older and has legal authority",
+      "zh": "要求儿子根据他认为对患者最好的方式做出决定，因为他年龄较大并且具有法律权力"
+    },
+    "C": {
+      "en": "Ask them both to make a decision based on what they think is in the best interest of the patient",
+      "zh": "要求他们两人根据他们认为对患者最有利的方式做出决定"
+    },
+    "D": {
+      "en": "Ask them both to make a decision based on what they think the patient would have wanted if he were able to make the decision",
+      "zh": "要求他们两人根据他们认为如果患者能够做出决定，他会想要的方式做出决定"
+    },
+    "E": {
+      "en": "Offer to make the decision on the patient's behalf based on the physician's best medical judgment",
+      "zh": "主动代表患者做出决定，基于医生的最佳医学判断"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient is critically ill and unresponsive, likely due to an intracerebral hemorrhage, and endotracheal intubation for airway protection is indicated. {{exhibit_1}}\n\nWhen patients lack capacity to make a medical decision (eg, obtunded, nonresponsive), advance directives (eg, living will, health care proxy) inform medical care based on previous legally documented patient preferences. However, in the ABSENCE of an ADVANCE DIRECTIVE and a patient-designated decision-maker, authority for medical decision-making falls to a default SURROGATE decision-maker (eg, spouse, adult child, parent).\n\nThe hierarchy of surrogate decision-makers is based on proximity of relationship. Because this patient's spouse is deceased, his ADULT CHILDREN would be next in line as default surrogates. With all substitute decision-makers, there is an obligation to give instructions in accordance with what the patient would have chosen (ie, SUBSTITUTED judgment standard) in that scenario. In doing so, priority is placed on respecting and protecting the patient's autonomy, directing decision-making away from the substitute decision-maker's own preferences.\n\n(Choices A and B) Next of kin is not determined by current living situation or birth order; both adult children have equal standing and should be encouraged to make decisions jointly.\n\n(Choice C) All surrogates are charged to make decisions based on what the patient would have chosen in the situation (ie, substituted judgment standard). However, if the surrogates cannot determine what the patient would have chosen, only then should the decision be made based on \"what they think is in the best interest\" of the patient (ie, what most people in that situation would want).\n\n(Choice E) A physician may institute emergency life-saving measures without consent if no substitute decision-maker is available, but in this case suitable substitute decision-makers are immediately available and should be asked to make the decision.\n\nEducational objective:\nDirection for medical care can be obtained from an advance directive, either a living will or previously designated health care proxy. In the absence of an advance directive, decision-making falls to a default surrogate who is responsible for making decisions based on what the patient would have chosen (substituted judgment standard).",
+    "zh": "该患者病情危重且无反应，可能由于脑内出血，需要进行气管插管以保护气道。{{exhibit_1}}\n\n当患者缺乏做出医疗决定的能力（例如，嗜睡、无反应）时，预先指示（例如，生前遗嘱、医疗代理人）会根据先前合法记录的患者意愿为医疗提供信息。然而，在没有预先指示和患者指定的决策者的情况下，医疗决策的权力属于默认的替代决策者（例如，配偶、成年子女、父母）。\n\n替代决策者的等级制度基于关系的亲近程度。由于该患者的配偶已去世，他的成年子女将作为默认的替代者。对于所有替代决策者，有义务按照患者原本的选择（即，替代判断标准）提供指示。在这样做时，优先考虑尊重和保护患者的自主权，将决策导向远离替代决策者自己的偏好。\n\n（选项A和B）亲属关系的确定不是基于当前的生活状况或出生顺序；两个成年子女具有同等的地位，应该被鼓励共同做出决定。\n\n（选项C）所有替代者都被要求根据患者在该情境下的选择（即，替代判断标准）做出决定。然而，如果替代者无法确定患者会做出什么选择，那么只有在那种情况下才应该根据“他们认为对患者最有利”的方式做出决定（即，大多数人在此情况下想要的方式）。\n\n（选项E）如果无法获得替代决策者，医生可以在未经同意的情况下采取紧急救生措施，但在这种情况下，合适的替代决策者立即可用，应该要求他们做出决定。\n\n教育目标：\n医疗护理的方向可以从预先指示中获得，包括生前遗嘱或先前指定的医疗代理人。在没有预先指示的情况下，决策权属于默认的替代者，他们负责根据患者的选择（替代判断标准）做出决定。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of surrogate decision-making when a patient lacks the capacity to make medical decisions and does not have an advance directive. It assesses the knowledge of the hierarchy of surrogate decision-makers and the principle of substituted judgment. \n\nThe approach to solving this question involves recognizing the patient's lack of capacity, identifying the absence of an advance directive, and applying the hierarchy of surrogate decision-makers. The correct answer should reflect the principle of substituted judgment, where the surrogate makes decisions based on what the patient would have wanted.",
+    "zh": "此问题考察了当患者缺乏做出医疗决定的能力且没有预先指示时，对替代决策的理解。它评估了对替代决策者等级制度和替代判断原则的知识。\n\n解决此问题的方法包括识别患者缺乏能力、确定没有预先指示，并应用替代决策者的等级制度。正确的答案应该反映替代判断的原则，即替代者根据患者想要的方式做出决定。"
+  },
+  "tags": "Surrogate decision-making; Advance directive; Medical ethics; Patient autonomy; Substituted judgment; Emergency medicine; Intracerebral hemorrhage",
+  "category": "Ethics",
+  "question_id": "21596",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\21596",
+  "extracted_at": "2025-11-05T14:20:30.764365",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:48:40.044565",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

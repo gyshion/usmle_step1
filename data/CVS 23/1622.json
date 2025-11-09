@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 48-year-old man with diet-controlled type 2 diabetes mellitus is being evaluated for occasional retrosternal chest pain. He has no history of hypertension, and his blood pressure measurements during office visits were always within normal limits. There is no family history of cardiovascular disease. The patient undergoes exercise treadmill stress testing. He walks for 7 minutes on the treadmill and stops due to fatigue but does not experience chest pain. His ECG does not show any abnormal changes. Heart rate ranges from 70/min at rest to 132/min at peak and mean blood pressure ranges from 95 mm Hg at rest to 112 mm Hg at peak. Which of the following parameters was most likely decreased during peak stress compared to the resting state in this patient?",
+    "zh": "一名48岁男性，通过饮食控制2型糖尿病，正在评估偶尔出现的胸骨后疼痛。他没有高血压病史，并且在诊室就诊期间的血压测量结果始终在正常范围内。没有心血管疾病家族史。患者接受运动平板试验。他在跑步机上行走7分钟，因疲劳而停止，但没有出现胸痛。他的心电图没有显示任何异常变化。静息时心率为70次/分，峰值时为132次/分，平均血压范围从静息时的95 mmHg到峰值时的112 mmHg。与该患者的静息状态相比，在峰值应激期间，以下哪项参数最有可能降低？"
+  },
+  "question": {
+    "en": "Which of the following parameters was most likely decreased during peak stress compared to the resting state in this patient?",
+    "zh": "与该患者的静息状态相比，在峰值应激期间，以下哪项参数最有可能降低？"
+  },
+  "options": {
+    "A": {
+      "en": "Cardiac output",
+      "zh": "心输出量"
+    },
+    "B": {
+      "en": "Left ventricular end-diastolic pressure",
+      "zh": "左心室舒张末期压力"
+    },
+    "C": {
+      "en": "Pulmonary artery systolic pressure",
+      "zh": "肺动脉收缩压"
+    },
+    "D": {
+      "en": "Systemic systolic blood pressure",
+      "zh": "全身收缩压"
+    },
+    "E": {
+      "en": "Total systemic vascular resistance",
+      "zh": "总全身血管阻力"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Exercise is associated with several hemodynamic and vasoregulatory adjustments to provide maximal blood flow to the active muscles. Stimulation of mechano- and chemoreceptors in the exercising muscle causes sympathetic activation and withdrawal of vagal tone, resulting in increased heart rate (HR), stroke volume, and overall cardiac output {{exhibit_1}}. At higher levels of exercise, HR is predominantly responsible for most of the increase in CO. Sympathetic discharge causes contraction of the arterioles in all tissues except the actively working muscles, effectively shunting blood toward the exercising muscle. This also results in an increase in systemic systolic blood pressure. However, the rise in the mean arterial pressure is much lower due to an overall decrease in systemic vascular resistance. This occurs due to the substantial arteriolar vasodilation in active skeletal muscles, which is mediated by local release of adenosine, potassium ions, ATP, CO₂, and lactate.\n\n(Choice B) Left ventricular (LV) end-diastolic volume and pressure both rise during exercise due to an increase in LV filling (increased venous return) by peripheral vasoconstriction and the pumping actions of actively contracting muscles.\n\n(Choice C) Pulmonary artery systolic pressure typically rises during exercise; however, similar to systemic circulation, the rise in pulmonary pressure is much smaller than the increase in blood flow across the pulmonary circulation due to a fall in pulmonary vascular resistance.\n\nEducational objective:\nExercising muscles can receive up to 85% of the total cardiac output during periods of strenuous activity. Although sympathetic discharge during exercise causes increased cardiac output and splanchnic vasoconstriction, there is only a modest increase in mean blood pressure as vasodilation within active skeletal muscles significantly decreases the total systemic vascular resistance.",
+    "zh": "运动与几种血流动力学和血管调节调整相关，以向活动肌肉提供最大的血流量。运动肌肉中机械感受器和化学感受器的刺激引起交感神经激活和迷走神经张力撤回，导致心率（HR）、每搏输出量和总心输出量增加{{exhibit_1}}。在较高水平的运动中，HR主要负责CO的大部分增加。交感神经放电引起除活动肌肉外所有组织的小动脉收缩，有效地将血液分流到运动肌肉。这也导致全身收缩压升高。然而，由于全身血管阻力的总体下降，平均动脉压的升高要低得多。这是由于活动骨骼肌中的大量小动脉血管舒张，这种舒张是由局部释放腺苷、钾离子、ATP、CO₂和乳酸介导的。\n\n（选项 B）由于LV充盈增加（静脉回流增加），外周血管收缩和主动收缩肌肉的泵血作用，左心室（LV）舒张末期容量和压力在运动期间均升高。\n\n（选项 C）运动期间肺动脉收缩压通常会升高；然而，与体循环类似，由于肺血管阻力的下降，肺压的升高远小于肺循环中血流量的增加。\n\n教育目标：\n在剧烈活动期间，运动肌肉可以接收高达总心输出量的85%。尽管运动期间的交感神经放电会导致心输出量增加和内脏血管收缩，但平均血压仅有适度升高，因为活动骨骼肌内的血管舒张显着降低了总全身血管阻力。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of cardiovascular physiology during exercise, specifically the changes in cardiac output, blood pressure, and systemic vascular resistance. It requires understanding the balance between sympathetic activation and local vasodilation in exercising muscles.\n\nThe key to solving this question is recognizing that while cardiac output and blood pressure increase during exercise, the vasodilation in active muscles leads to a significant decrease in total systemic vascular resistance, which offsets the vasoconstriction in other areas.",
+    "zh": "本题考察了运动中心血管生理学的知识，特别是心输出量、血压和全身血管阻力的变化。它需要理解交感神经激活与运动肌肉局部血管舒张之间的平衡。\n\n解决此题的关键在于认识到，虽然运动期间心输出量和血压增加，但活动肌肉中的血管舒张会导致总全身血管阻力显着降低，从而抵消了其他区域的血管收缩。"
+  },
+  "tags": "Exercise physiology; Cardiovascular system; Systemic vascular resistance; Cardiac output; Blood pressure; Vasodilation; Sympathetic nervous system; Chemoreceptors; Mechanoreceptors",
+  "category": "CVS",
+  "question_id": "1622",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1622",
+  "extracted_at": "2025-11-05T12:01:14.519437",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:52:06.999152",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

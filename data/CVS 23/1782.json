@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old man comes to the office due to progressive dyspnea, dizziness, and chest discomfort. He has no prior medical problems but had a mild respiratory illness 2 weeks earlier that resolved spontaneously. His father has a history of myocardial infarction. Echocardiography shows pericardial fluid accumulation with late diastolic collapse of the right atrium. Which of the following physical examination findings is most likely to be seen in this patient? {{exhibit_1}}",
+    "zh": "一名32岁男性因进行性呼吸困难、头晕和胸部不适来诊。他既往无任何医学问题，但2周前曾患有轻度呼吸道疾病，已自愈。他的父亲有心肌梗死的病史。超声心动图显示心包积液伴右心房舒张晚期塌陷。该患者最有可能出现以下哪种体格检查结果？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following physical examination findings is most likely to be seen in this patient?",
+    "zh": "该患者最有可能出现以下哪种体格检查结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Beat-to-beat variation in pulse amplitude",
+      "zh": "搏动幅度逐搏变化"
+    },
+    "B": {
+      "en": "Drop in pulse amplitude during inspiration",
+      "zh": "吸气时脉搏幅度下降"
+    },
+    "C": {
+      "en": "Pulse with 2 distinct peaks",
+      "zh": "具有2个明显峰值的脉搏"
+    },
+    "D": {
+      "en": "Rapidly rising pulse with high amplitude",
+      "zh": "快速上升的高振幅脉搏"
+    },
+    "E": {
+      "en": "Slow-rising low-amplitude pulse",
+      "zh": "缓慢上升的低振幅脉搏"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has a pericardial effusion with associated CARDIAC TAMPONADE. Echocardiography showing pericardial fluid accumulation with LATE DIASTOLIC COLLAPSE OF THE RIGHT ATRIUM (due to excessive pericardial fluid compressing the right atrium) is diagnostic.\n\nPulsus paradoxus is an important physical finding in cardiac tamponade and refers to an exaggerated drop in systolic blood pressure (>10 mm Hg) during inspiration. Fluid accumulation in the pericardium limits the ability of the right ventricular free wall to expand outward; during inspiration, the increase in venous return is instead accommodated by bowing of the interventricular septum toward the left ventricle (LV), decreasing LV end-diastolic volume and stroke volume. The result is decreased systolic pulse pressure during inspiration.\n\nLess common causes of pulsus paradoxus include severe asthma and chronic obstructive pulmonary disease (due to excessive swings in intrathoracic pressure with breathing), as well as the restriction of right ventricular filling that occurs with constrictive pericarditis.\n\n(Choice A) Pulsus alternans refers to beat-to-beat variation in pulse amplitude (ie, systolic blood pressure); it is most commonly seen in patients with severe LV systolic dysfunction (possibly related to the effect of the Frank-Starling mechanism on the failing ventricle) and is not expected with cardiac tamponade. Electrical alternans is sometimes seen with cardiac tamponade and refers to a beat-to-beat variation in the QRS complex amplitude on ECG (ie, variation in electrical signal rather than pulse) due to the swinging motion of the heart in the pericardial fluid.\n\n(Choice C) A dicrotic pulse has 2 distinct peaks (one during systole and the other during diastole) due to an accentuated diastolic dicrotic wave after the dicrotic notch. This finding typically occurs in patients with severe systolic dysfunction and high systemic vascular resistance.\n\n(Choice D) A hyperkinetic pulse has a rapidly rising amplitude due to the rapid ejection of a large stroke volume against a decreased afterload. This can occur with aortic regurgitation and high-output heart failure (eg, thyrotoxicosis, arteriovenous fistula).\n\n(Choice E) Fixed LV outflow tract obstruction (eg, valvular aortic stenosis) can cause pulsus parvus et tardus, or a slow-rising, low-amplitude pulse resulting from diminished stroke volume (pulsus parvus) and prolonged LV ejection time (pulsus tardus).\n\nEducational objective:\nPulsus paradoxus refers to an exaggerated drop (>10 mm Hg) in systolic blood pressure during inspiration. It is most commonly seen in patients with cardiac tamponade but can also occur in severe asthma, chronic obstructive pulmonary disease, or constrictive pericarditis.",
+    "zh": "该患者患有心包积液，并伴有CARDIAC TAMPONADE（心脏压塞）。超声心动图显示心包积液伴右心房舒张晚期塌陷（由于过多的心包积液压迫右心房）具有诊断意义。\n\nPulsus paradoxus（奇脉）是心脏压塞中的一个重要体征，指的是吸气时收缩压过度下降（>10 mmHg）。心包腔内的液体积聚限制了右心室游离壁向外扩张的能力；在吸气期间，静脉回流的增加反而通过室间隔向左心室 (LV) 弓形，从而减少左心室舒张末期容积和每搏输出量。结果是吸气期间收缩期脉搏压力下降。\n\nPulsus paradoxus（奇脉）的较不常见病因包括严重的哮喘和慢性阻塞性肺病（由于呼吸时胸腔内压力过度波动），以及缩窄性心包炎引起的右心室充盈受限。\n\n(选项A) Pulsus alternans（交替脉）指的是脉搏幅度逐搏变化（即收缩压）；它最常见于患有严重左心室收缩功能障碍的患者（可能与 Frank-Starling 机制对衰竭心室的影响有关），并且不应出现在心脏压塞患者身上。Electrical alternans（电交替）有时可见于心脏压塞，是指心电图上 QRS 波群幅度逐搏变化（即电信号而不是脉搏的变化），这是由于心脏在心包积液中的摆动造成的。\n\n(选项C) dicrotic pulse（重搏脉）具有 2 个明显的峰值（一个在收缩期，另一个在舒张期），这是由于重搏切迹后的舒张期重搏波增强所致。此发现通常发生在患有严重收缩功能障碍和高全身血管阻力的患者中。\n\n(选项D) hyperkinetic pulse（高动力性脉搏）的振幅迅速升高，这是由于大量每搏输出量在降低的后负荷下快速射出所致。这种情况可能发生在主动脉瓣关闭不全和高输出量心力衰竭（例如甲状腺毒症、动静脉瘘）中。\n\n(选项E) 固定的左心室流出道梗阻（例如瓣膜性主动脉瓣狭窄）可引起 pulsus parvus et tardus（脉搏微弱且迟缓），或由于每搏输出量减少（pulsus parvus）和左心室射血时间延长（pulsus tardus）而导致缓慢上升的低振幅脉搏。\n\n教育目标：\nPulsus paradoxus（奇脉）是指吸气时收缩压过度下降（>10 mmHg）。它最常见于心脏压塞患者，但也可能发生在严重哮喘、慢性阻塞性肺病或缩窄性心包炎患者中。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of cardiac tamponade and its associated physical exam findings, specifically pulsus paradoxus. It requires understanding the pathophysiology of how pericardial fluid accumulation affects cardiac function and blood pressure during respiration. \n\nTo solve this question, recognize the key findings of pericardial effusion with right atrial collapse, indicating cardiac tamponade. Recall that pulsus paradoxus, a decrease in systolic blood pressure during inspiration, is a characteristic finding in this condition.",
+    "zh": "此题考察对心脏压塞及其相关体格检查结果（特别是奇脉）的了解。它要求理解心包积液积聚如何影响呼吸期间的心脏功能和血压的病理生理学。\n\n要解决此问题，需要认识到心包积液伴右心房塌陷的关键发现，这表明心脏压塞。回想一下奇脉，即吸气时收缩压下降，是此病症的特征性发现。"
+  },
+  "tags": "Cardiac tamponade; Pulsus paradoxus; Pericardial effusion; Right atrial collapse; Physical examination; Cardiology; Dyspnea; Chest discomfort",
+  "category": "CVS",
+  "question_id": "1782",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1782",
+  "extracted_at": "2025-11-05T12:02:10.552156",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:52:30.755847",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

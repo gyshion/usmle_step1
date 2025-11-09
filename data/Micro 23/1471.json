@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A microbiologist performs a genetic experiment in which cultures of *Escherichia coli* are treated with a chemical that induces a high frequency of mutations. Individual bacterial colonies are isolated to identify a mutant strain that lacks a specific enzyme involved in DNA replication. This specific enzyme is responsible for removing short fragments of RNA that are base paired to the DNA template. Which of the following enzymes is most likely deficient in this strain of *E coli*?",
+    "zh": "一位微生物学家进行一项遗传实验，其中将大肠杆菌培养物用一种化学物质处理，该物质诱导高频率的突变。分离单个细菌菌落以鉴定缺乏参与DNA复制的特定酶的突变菌株。这种特定酶负责去除与DNA模板配对的短RNA片段。以下哪种酶最有可能在此大肠杆菌菌株中缺乏？"
+  },
+  "question": {
+    "en": "Which of the following enzymes is most likely deficient in this strain of *E coli*?",
+    "zh": "以下哪种酶最有可能在此大肠杆菌菌株中缺乏？"
+  },
+  "options": {
+    "A": {
+      "en": "DNA polymerase I",
+      "zh": "DNA聚合酶I"
+    },
+    "B": {
+      "en": "DNA polymerase III",
+      "zh": "DNA聚合酶III"
+    },
+    "C": {
+      "en": "Gyrase",
+      "zh": "旋转酶"
+    },
+    "D": {
+      "en": "Helicase",
+      "zh": "解旋酶"
+    },
+    "E": {
+      "en": "Ligase",
+      "zh": "连接酶"
+    },
+    "F": {
+      "en": "Primase",
+      "zh": "引物酶"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The removal of RNA primers and their replacement with DNA is accomplished by DNA polymerase I, the only prokaryotic DNA polymerase with 5' to 3' exonuclease activity. DNA polymerase III has 3' to 5' exonuclease (\"proofreading\") activity; however, it cannot remove RNA primers as it lacks 5' to 3' exonuclease activity (Choice B).\n\nEducational objective:\nDuring bacterial DNA replication, DNA polymerase I functions to remove RNA primers (via 5' to 3' exonuclease activity) and replace them with DNA (via 5' to 3' polymerase activity). DNA polymerase I is the only prokaryotic DNA polymerase that possesses 5' to 3' exonuclease activity.\n\nProkaryotic DNA replication is coordinated by the actions of multiple enzymes and proteins. Before DNA synthesis begins, helicase double-stranded DNA at the origin of replication with the assistance of DnaA protein, forming a replication fork that unwinds and separates the DNA (Choice D). Single-stranded DNA-binding protein then attaches to the separated strands to prevent their reannealing. Unwinding and separation of DNA produces positive supercoils that can lead to DNA fracture if not relieved. Topoisomerase II (DNA gyrase) relieves the tension created during unwinding by introducing negative supercoils into the DNA (Choice C).\n\nBefore DNA polymerase III can begin elongating a new DNA strand, it requires an RNA primer made up of short RNA sequences base-paired to the parent DNA. This primer is synthesized by the enzyme primase (DNA-dependent RNA polymerase) (Choice F). DNA synthesis then proceeds in the 5' to 3' direction with the leading strand being formed continuously toward the replication fork and the lagging strand being formed discontinuously away from the replication fork. Replication of the lagging strand results in the formation of numerous short DNA segments called Okazaki fragments. These fragments are ultimately bound together by the enzyme ligase after their RNA primers have been removed and replaced with DNA (Choice E).",
+    "zh": "RNA引物的去除及其被DNA的替代是由DNA聚合酶I完成的，DNA聚合酶I是唯一具有5'至3'外切酶活性的原核DNA聚合酶。DNA聚合酶III具有3'至5'外切酶（“校对”）活性；然而，它不能去除RNA引物，因为它缺乏5'至3'外切酶活性（选项B）。\n\n教育目标：\n在细菌DNA复制过程中，DNA聚合酶I的功能是去除RNA引物（通过5'至3'外切酶活性）并用DNA替换它们（通过5'至3'聚合酶活性）。DNA聚合酶I是唯一具有5'至3'外切酶活性的原核DNA聚合酶。\n\n原核DNA复制由多种酶和蛋白质的活动协调。在DNA合成开始之前，解旋酶在DnaA蛋白的协助下，在复制起始点解开双链DNA，形成解开和分离DNA的复制叉（选项D）。单链DNA结合蛋白随后附着在分离的链上，以防止其重新退火。DNA的解旋和分离会产生正超螺旋，如果不释放，会导致DNA断裂。拓扑异构酶II（DNA旋转酶）通过将负超螺旋引入DNA来缓解解旋过程中产生的张力（选项C）。\n\n在DNA聚合酶III开始延长新的DNA链之前，它需要由与母体DNA配对的短RNA序列组成的RNA引物。该引物由引物酶（DNA依赖性RNA聚合酶）合成（选项F）。然后DNA合成以5'到3'方向进行，前导链连续地朝向复制叉形成，后随链则不连续地远离复制叉形成。后随链的复制导致形成许多称为冈崎片段的短DNA片段。在它们的RNA引物被去除并被DNA替换后，这些片段最终被连接酶连接在一起（选项E）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the enzymes involved in prokaryotic DNA replication, specifically the function of DNA polymerase I in removing RNA primers. The key to solving this question is understanding the 5' to 3' exonuclease activity of DNA polymerase I, which is essential for removing RNA primers during DNA replication.",
+    "zh": "此问题考察了原核DNA复制中涉及的酶的知识，特别是DNA聚合酶I在去除RNA引物中的功能。解决此问题的关键是理解DNA聚合酶I的5'至3'外切酶活性，这对于在DNA复制过程中去除RNA引物至关重要。"
+  },
+  "tags": "DNA replication; DNA polymerase I; Exonuclease activity; RNA primers; Prokaryotic DNA replication; Molecular biology; Genetics; Escherichia coli",
+  "category": "Micro",
+  "question_id": "1471",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1471",
+  "extracted_at": "2025-11-05T14:53:39.354740",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:07:21.296618",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 78-year-old woman comes to the office due to fever, headache, sore throat, cough, and severe myalgias for 24 hours. Her medical problems include hypertension and Alzheimer dementia. Her family came to visit over the weekend, and her grandson had symptoms of a cold. The patient's temperature is 38.9 C (102 F). Lung examination is unremarkable. A nasal specimen swab is positive for influenza. The patient is started on oseltamivir.",
+    "zh": "一位78岁的女性因发烧、头痛、咽喉痛、咳嗽和严重的肌痛前来就诊，病程已持续24小时。她的既往病史包括高血压和阿尔茨海默病痴呆。周末家人来访，她的孙子出现了感冒症状。患者体温为38.9°C（102°F）。肺部检查无明显异常。鼻拭子标本流感检测呈阳性。患者开始服用奥司他韦。"
+  },
+  "question": {
+    "en": "Which of the following is most likely impaired in the patient's infected cells as a result of the treatment?",
+    "zh": "由于治疗，患者受感染细胞中最可能受损的是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Foreign protein splitting",
+      "zh": "外源蛋白分裂"
+    },
+    "B": {
+      "en": "Foreign protein synthesis",
+      "zh": "外源蛋白合成"
+    },
+    "C": {
+      "en": "Viral RNA replication",
+      "zh": "病毒RNA复制"
+    },
+    "D": {
+      "en": "Viral uncoating",
+      "zh": "病毒脱壳"
+    },
+    "E": {
+      "en": "Virion particle release",
+      "zh": "病毒粒子释放"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Oseltamivir is a neuraminidase inhibitor useful in the treatment of both influenza A and B virus infections. Neuraminidase is required for the release of virus from infected cells and for the spread of virus within the respiratory tract. Neuraminidase inhibitors cause the newly synthesized virions to adhere to the host cell surface and form viral aggregates, thereby reducing the spread of virus to other host cells. Oseltamivir (Tamiflu) can shorten the course and complications of influenza A and B infections if taken within 48 hours of the onset of symptoms. In addition, oseltamivir works to slow viral penetration of the mucous secretions that protect the respiratory epithelium. Oseltamivir can therefore be used to treat or prevent influenza. {{exhibit_1}}\n\n(Choice A) The influenza viral genome consists of segmented RNA, which is translated predominantly into individual proteins rather than a large polyprotein product. HIV protease inhibitors (eg, darunavir) are used to counteract HIV polyprotein cleavage mediated by viral protease.\n\n(Choice B) Foreign (viral) protein synthesis can be inhibited by α- and β-interferons, which induce the synthesis of proteins that have an antiviral effect. These antiviral proteins promote the degradation of RNA and halt protein translation in virally infected cells only.\n\n(Choice C) Impairment of viral RNA replication is accomplished by the reverse transcriptase inhibitors used to combat HIV (eg, abacavir, tenofovir, zidovudine).\n\n(Choice D) Amantadine (limited use in influenza management due to viral resistance) impairs uncoating or disassembly of the influenza A virion after host cell endocytosis. Oseltamivir does not operate via the same mechanism of action. Currently, amantadine is mainly used in Parkinson disease as it increases dopamine release (unclear mechanism).\n\nEducational objective:\nOseltamivir is a neuraminidase inhibitor useful in the treatment of both influenza A and B virus infections. This medication impairs the release of newly formed virions from infected host cells and impairs viral penetration of mucous secretions that overlie the respiratory epithelium.",
+    "zh": "奥司他韦是一种神经氨酸酶抑制剂，可用于治疗甲型和乙型流感病毒感染。神经氨酸酶是病毒从受感染细胞中释放以及在呼吸道内传播所必需的。神经氨酸酶抑制剂导致新合成的病毒粒子粘附在宿主细胞表面并形成病毒聚集体，从而减少病毒向其他宿主细胞的传播。如果患者在出现症状的48小时内服用奥司他韦（达菲），可以缩短甲型和乙型流感感染的病程和并发症。此外，奥司他韦还可以减缓病毒对保护呼吸道上皮的粘液分泌物的穿透。因此，奥司他韦可用于治疗或预防流感。{{exhibit_1}}。\n\n(选项A) 流感病毒基因组由分节段的RNA组成，主要翻译成单个蛋白质，而不是大的多蛋白产物。HIV蛋白酶抑制剂（如达芦那韦）用于对抗由病毒蛋白酶介导的HIV多蛋白切割。\n\n(选项B) 外源（病毒）蛋白合成可被α-和β-干扰素抑制，干扰素诱导具有抗病毒作用的蛋白质的合成。这些抗病毒蛋白促进RNA的降解并阻止病毒感染细胞中的蛋白质翻译。\n\n(选项C) 抑制病毒RNA复制是通过用于对抗HIV的逆转录酶抑制剂（如阿巴卡韦、替诺福韦、齐多夫定）实现的。\n\n(选项D) 金刚烷胺（由于病毒耐药性，在流感管理中的应用有限）会损害流感A病毒在宿主细胞内吞作用后病毒的脱壳或解体。奥司他韦不是通过相同的机制起作用的。目前，金刚烷胺主要用于帕金森病，因为它增加了多巴胺的释放（机制尚不清楚）。\n\n教学目标：\n奥司他韦是一种神经氨酸酶抑制剂，可用于治疗甲型和乙型流感病毒感染。这种药物会损害新形成的病毒粒子从受感染宿主细胞中的释放，并损害病毒对覆盖呼吸道上皮的粘液分泌物的穿透。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of influenza treatment with neuraminidase inhibitors like oseltamivir and their mechanism of action in preventing viral release from infected cells. It also requires differentiating oseltamivir's mechanism from other antiviral drugs.\n\nTo solve this question, understand that oseltamivir inhibits neuraminidase, which is essential for the release of newly formed virions. Rule out options related to other stages of the viral life cycle or mechanisms of action of other antiviral drugs.",
+    "zh": "此题考察了对流感治疗的知识，包括使用神经氨酸酶抑制剂（如奥司他韦）及其在防止病毒从受感染细胞中释放方面的作用机制。它还需要区分奥司他韦的作用机制与其他抗病毒药物的不同。\n\n要解决此题，请理解奥司他韦抑制神经氨酸酶，神经氨酸酶对于释放新形成的病毒粒子至关重要。排除与病毒生命周期的其他阶段或其它抗病毒药物的作用机制相关的选项。"
+  },
+  "tags": "Influenza; Oseltamivir; Neuraminidase inhibitor; Viral replication; Antiviral therapy",
+  "category": "Micro",
+  "question_id": "1648",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1648",
+  "extracted_at": "2025-11-05T15:01:39.073997",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:09:58.394322",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

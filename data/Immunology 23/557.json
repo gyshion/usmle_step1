@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": " An  18-month-old boy is evaluated for recurrent infections. He has been hospitalized 3 times with pneumonia since age 3 months. He has also had multiple skin infections requiring treatment with antibacterial and antifungal agents. During his last episode of pneumonia, he developed a large pleural effusion, which was drained. The pleural fluid revealed numerous neutrophils containing a large number of intact gram-positive cocci. ",
+    "zh": "一名18个月大的男孩因反复感染就诊。自3个月大以来，他曾因肺炎住院3次。他还曾多次发生需要使用抗菌药和抗真菌药物治疗的皮肤感染。在他最近一次肺炎发作期间，他出现了大量的胸腔积液，并被引流。胸腔积液显示，大量中性粒细胞中含有大量完整革兰氏阳性球菌。"
+  },
+  "question": {
+    "en": "The microorganisms responsible for this patient's recurrent infections most likely produce which of the following virulence factors?",
+    "zh": "导致该患者反复感染的微生物最有可能产生以下哪种毒力因子？"
+  },
+  "options": {
+    "A": {
+      "en": "Catalase",
+      "zh": "过氧化氢酶"
+    },
+    "B": {
+      "en": "Coagulase",
+      "zh": "凝固酶"
+    },
+    "C": {
+      "en": "Lecithinase",
+      "zh": "卵磷脂酶"
+    },
+    "D": {
+      "en": "Lipopolysaccharide",
+      "zh": "脂多糖"
+    },
+    "E": {
+      "en": "Polysaccharide capsule",
+      "zh": "多糖荚膜"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This infant with recurrent pulmonary and skin infections likely has a primary immunodeficiency disorder. The presence of a large number of intact bacteria inside the neutrophils suggests chronic granulomatous disease (CGD), an X-linked recessive immunodeficiency marked by impaired NADPH oxidase activity. NADPH oxidase resides on the plasma membrane of neutrophils and is incorporated into the membrane of the phagolysosome during phagocytosis; it catalyzes the formation of superoxide free radicals, which subsequently destroy engulfed pathogens (eg, fungi, bacteria) as part of the oxidative burst. Because patients with CGD have impaired NADPH oxidase activity, they are not able to efficiently destroy bacteria and fungi following phagocytosis; therefore, microscopy will often reveal intact microbes in the neutrophil phagolysosome during active infection. Patients with CGD are most susceptible to catalase-positive organisms, particularly Staphylococcus aureus, Burkholderia, Serratia, Nocardia, and Aspergillus. Catalase degrades hydrogen peroxide into water and oxygen, which reduces oxidative damage and protease activation by reactive oxygen species. Although most pathogenic bacteria and fungi produce catalase, catalase-positive organisms pose a particular risk to patients with CGD because they require higher levels of free radicals (ie, greater NADPH oxidase function) for effective killing.\n\n(Choice B) S aureus produces coagulase, which binds to prothrombin and increases conversion of fibrinogen to fibrin. Fibrin subsequently coats the exterior of the organism, which helps it evade phagocytosis. Although patients with CGD are at elevated risk for S aureus, most of the other common pathogens in CGD do not produce coagulase.\n\n(Choice C) Lecithinase (alpha toxin) is the major virulence factor of Clostridium perfringens; it causes hydrolysis of membrane phospholipids, activating inflammatory pathways that increase platelet and leukocyte aggregation in the adjacent microvasculature, leading to vasoocclusion and ischemic necrosis.\n\n(Choice D) Lipopolysaccharide, a major virulence factor in the outer membrane of gram-negative bacteria, is not present in the gram-positive bacteria (eg, S aureus, Nocardia) and fungal organisms (eg, Aspergillus) that usually infect patients with CGD.\n\n(Choice E) The polysaccharide capsule is a major virulence factor for Streptococcus pneumoniae, Neisseria meningitidis, and certain strains of Haemophilus influenzae. Its primary role is to inhibit opsonophagocytosis. Many of the common pathogens in CGD (eg, Nocardia, Aspergillus) do not contain a polysaccharide capsule.\n\nEducational objective:\nChronic granulomatous disease is a primary immunodeficiency due to impaired NADPH oxidase, an enzyme that generates reactive oxygen species in phagolysosomes. Diminished intracellular killing within neutrophils leads to susceptibility to recurrent infection with catalase-producing bacteria (eg, Staphylococcus aureus, Nocardia) and fungi (eg, Aspergillus). {{exhibit_1}}",
+    "zh": "这个患有反复肺部和皮肤感染的婴儿很可能患有原发性免疫缺陷病。在中性粒细胞内存在大量完整的细菌表明慢性肉芽肿病（CGD），这是一种X连锁隐性遗传免疫缺陷病，其特征是NADPH氧化酶活性受损。NADPH氧化酶存在于中性粒细胞的质膜上，并在吞噬过程中被整合到吞噬溶酶体的膜中；它催化超氧自由基的形成，随后作为氧化爆发的一部分破坏被吞噬的病原体（例如，真菌、细菌）。由于CGD患者的NADPH氧化酶活性受损，他们无法在吞噬后有效破坏细菌和真菌；因此，显微镜检查通常会发现活动性感染期间中性粒细胞吞噬溶酶体中的完整微生物。CGD患者最容易受到过氧化氢酶阳性生物的感染，特别是金黄色葡萄球菌、伯克霍尔德菌、沙雷氏菌、诺卡氏菌和曲霉。过氧化氢酶将过氧化氢降解为水和氧气，这减少了活性氧引起的氧化损伤和蛋白酶激活。尽管大多数病原性细菌和真菌都能产生过氧化氢酶，但过氧化氢酶阳性生物对CGD患者构成特别的风险，因为它们需要更高水平的自由基（即，更大的NADPH氧化酶功能）才能有效杀灭。\n\n（选项B）金黄色葡萄球菌产生凝固酶，凝固酶与凝血酶原结合，增加纤维蛋白原向纤维蛋白的转化。随后，纤维蛋白覆盖在生物体的外部，这有助于其逃避吞噬作用。尽管CGD患者感染金黄色葡萄球菌的风险升高，但CGD中大多数其他常见病原体不产生凝固酶。\n\n（选项C）卵磷脂酶（α毒素）是产气荚膜梭菌的主要毒力因子；它会导致膜磷脂水解，激活炎症通路，从而增加邻近微血管中的血小板和白细胞聚集，导致血管闭塞和缺血性坏死。\n\n（选项D）脂多糖是革兰氏阴性细菌外膜中的主要毒力因子，不存在于通常感染CGD患者的革兰氏阳性细菌（例如，金黄色葡萄球菌、诺卡氏菌）和真菌（例如，曲霉）中。\n\n（选项E）多糖荚膜是肺炎链球菌、脑膜炎奈瑟菌和某些流感嗜血杆菌菌株的主要毒力因子。其主要作用是抑制调理吞噬作用。CGD中许多常见的病原体（例如，诺卡氏菌、曲霉）不含多糖荚膜。\n\n教育目标：\n慢性肉芽肿病是一种原发性免疫缺陷病，由于NADPH氧化酶受损，NADPH氧化酶是一种在吞噬溶酶体中产生活性氧的酶。中性粒细胞内杀伤力下降导致易感于反复感染产生过氧化氢酶的细菌（例如，金黄色葡萄球菌、诺卡氏菌）和真菌（例如，曲霉）。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of chronic granulomatous disease (CGD), a primary immunodeficiency, and the virulence factors of organisms that commonly infect these patients. Specifically, it assesses the role of catalase production in pathogens affecting individuals with impaired NADPH oxidase activity.\n\nTo solve this question, recognize the clinical presentation suggestive of CGD (recurrent infections, intact bacteria within neutrophils). Recall that CGD is associated with impaired NADPH oxidase, leading to susceptibility to catalase-positive organisms like Staphylococcus aureus and Aspergillus.",
+    "zh": "这个问题考察了慢性肉芽肿病（CGD，一种原发性免疫缺陷病）的知识，以及常感染这些患者的生物体的毒力因子。具体来说，它评估了过氧化氢酶在影响NADPH氧化酶活性受损个体的病原体中的作用。\n\n为了解决这个问题，要认识到提示CGD的临床表现（反复感染，中性粒细胞内的完整细菌）。回想一下，CGD与NADPH氧化酶受损有关，导致易感于过氧化氢酶阳性生物，如金黄色葡萄球菌和曲霉。"
+  },
+  "tags": "Chronic granulomatous disease; Immunodeficiency; NADPH oxidase; Catalase; Staphylococcus aureus; Aspergillus; Recurrent infections; Phagocytosis",
+  "category": "Immunology",
+  "question_id": "557",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\557",
+  "extracted_at": "2025-11-05T14:45:32.567976",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:02:53.338419",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A newly developed inhaled anesthetic has an improved safety profile compared to traditional fluorinated anesthetics. Preliminary pharmacodynamic properties of the agent are determined through a series of experiments on human volunteers. The tests show that the agent demonstrates relatively high potency.",
+    "zh": "一种新开发的吸入麻醉剂与传统的氟化麻醉剂相比具有 improved 安全性。通过对人体志愿者的系列实验来确定该制剂的初步药效学特性。测试表明，该制剂显示出相对较高的 potency（效价）。"
+  },
+  "question": {
+    "en": "Which of the following parameters best correlates with the potency of an inhaled anesthetic?",
+    "zh": "以下哪项参数与吸入麻醉剂的效价最相关？"
+  },
+  "options": {
+    "A": {
+      "en": "Arteriovenous concentration gradient",
+      "zh": "动静脉浓度梯度"
+    },
+    "B": {
+      "en": "Blood/gas partition coefficient",
+      "zh": "血/气分配系数"
+    },
+    "C": {
+      "en": "Hepatic metabolism rate",
+      "zh": "肝脏代谢率"
+    },
+    "D": {
+      "en": "Minimal alveolar concentration",
+      "zh": "最小肺泡浓度"
+    },
+    "E": {
+      "en": "Steepness of arterial tension curve",
+      "zh": "动脉张力曲线的陡度"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The potency of an inhaled anesthetic is determined by the minimum concentration in the brain necessary to achieve an adequate level of anesthesia. When an inhaled anesthetic is administered at a constant rate over a prolonged period of time, its partial pressure in the brain equals its partial pressure in the other compartments (inhaled air, lungs, and arterial blood). Since an anesthetic's concentration in the brain tissue is directly proportional to its partial pressure, it is possible to use the steady-state alveolar partial pressure of the inhaled agent as a measure of anesthetic potency.\n\nThe minimal alveolar concentration (MAC) refers to the percentage of anesthetic in the inspired gas mixture that renders 50% of patients unresponsive to painful stimuli. It corresponds to ED50 on the dose-effect curve. Potency is inversely proportional to the MAC; the lower the MAC, the more potent the anesthetic. MAC is an intrinsic property of the anesthetic that does not depend on the type of surgery; duration of anesthesia; or the sex, height, and weight of the patient. It does, however, depend on body temperature and also decreases with increasing patient age.\n\n(Choice A) The arteriovenous concentration gradient is an indirect measurement of the solubility of the anesthetic in body tissues. A high arteriovenous concentration gradient means that more anesthetic is extracted from the blood by the body tissues, increasing the time it takes for the blood to become saturated and slowing the onset of action.\n\n(Choice B) The blood/gas partition coefficient corresponds to the solubility of anesthetic in the blood. Anesthetics with a high blood/gas partition coefficient are absorbed to a greater extent by the blood and have a slower onset of action.\n\n(Choice C) Clearance of inhaled anesthetics occurs mainly via exhalation from the lungs into the air; hepatic metabolism of most gas anesthetics is low. However, certain gas anesthetics, particularly halothane, are metabolized extensively by the liver, resulting in the production of reactive intermediates that cause hepatotoxicity.\n\n(Choice E) The steepness of the arterial tension curve depends on the solubility of the anesthetic in the blood. Partial pressure in the blood rises more rapidly with less soluble anesthetics, producing a steeper curve.",
+    "zh": "吸入麻醉剂的效价由达到 adequate 麻醉水平所需的最低脑内浓度决定。当以恒定速率长时间给予吸入麻醉剂时，其在脑内的分压等于其在其他 compartments（吸入空气、肺和动脉血）中的分压。由于麻醉剂在脑组织中的浓度与其分压成正比，因此可以使用吸入剂的稳态肺泡分压作为麻醉剂效价的 measure。\n\n最小肺泡浓度 (MAC) 指的是吸入气体混合物中使 50% 的患者对疼痛刺激无反应的麻醉剂的百分比。它对应于剂量-效应曲线上的 ED50。效价与 MAC 成反比；MAC 越低，麻醉剂越 potent。MAC 是麻醉剂的 intrinsic 属性，不依赖于手术的类型、麻醉的持续时间或患者的性别、身高和体重。然而，它确实取决于体温，并且也会随着患者年龄的增长而降低。\n\n（选项 A）动静脉浓度梯度是麻醉剂在 body tissues 中溶解度的间接 measure。较高的动静脉浓度梯度意味着更多的麻醉剂被 body tissues 从血液中提取，从而增加了血液饱和所需的时间，并减缓了 onset of action。\n\n（选项 B）血/气分配系数对应于麻醉剂在血液中的 solubility。具有较高血/气分配系数的麻醉剂更多地被血液吸收，并且具有较慢的 onset of action。\n\n（选项 C）吸入麻醉剂的清除主要通过从肺部呼出到空气中发生；大多数气体麻醉剂的肝脏代谢率较低。然而，某些气体麻醉剂，尤其是氟烷，被肝脏广泛代谢，导致产生引起肝毒性的 reactive intermediates。\n\n（选项 E）动脉张力曲线的陡度取决于麻醉剂在血液中的溶解度。血液中的分压随着溶解度较低的麻醉剂的升高而 rapid，产生更陡峭的曲线。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of anesthetic potency and its correlation with the minimal alveolar concentration (MAC) of inhaled anesthetics. It assesses the knowledge of how MAC is defined and its inverse relationship with potency.\n\nTo solve this question, one must recall the definition of anesthetic potency and identify the parameter that directly reflects the concentration required to achieve a specific effect (50% unresponsiveness). Understanding that MAC represents this threshold and that lower MAC values indicate higher potency is key to selecting the correct answer.",
+    "zh": "此问题测试对麻醉剂效价的理解及其与吸入麻醉剂的最小肺泡浓度 (MAC) 的 correlation。它评估了对 MAC 如何定义的知识以及其与效价的 inverse relationship。\n\n要解决这个问题，必须回忆麻醉剂效价的定义，并确定直接反映实现特定效果（50% 无反应）所需的浓度的参数。了解 MAC 代表此 threshold，并且较低的 MAC 值表明更高的效价，是选择正确答案的关键。"
+  },
+  "tags": "Inhaled anesthetics; Anesthetic potency; Minimal alveolar concentration (MAC); Pharmacodynamics; Anesthesiology; ED50",
+  "category": "Neuro",
+  "question_id": "851",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\851",
+  "extracted_at": "2025-11-05T19:29:58.636995",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:28:53.382560",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

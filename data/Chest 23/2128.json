@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 42-year-old woman is evaluated due to frequent episodes of shortness of breath, chest tightness, and cough. The patient has been hospitalized on several occasions because of these symptoms and recently required mechanical ventilation due to respiratory failure. She takes multiple inhaled and systemic medications. The patient does not use tobacco, alcohol, or illicit drugs. Physical examination reveals scattered expiratory wheezes in both lungs. Peak expiratory flow rate is decreased from baseline. The treatment regimen is expanded to include a monoclonal antibody that binds circulating IgE, with the resulting complexes being subsequently cleared by reticuloendothelial cells. This medication is most likely to help this patient through which of the following mechanisms? {{exhibit_1}}",
+    "zh": "一名42岁女性因频繁发作的呼吸困难、胸闷和咳嗽而接受评估。该患者曾多次因这些症状住院，最近因呼吸衰竭需要机械通气。她服用多种吸入性和全身性药物。患者不吸烟、不饮酒，也不使用违禁药物。体格检查显示双肺散在呼气性喘鸣。呼气峰流速较基线下降。治疗方案扩大到包括一种结合循环IgE的单克隆抗体，产生的复合物随后被网状内皮细胞清除。这种药物最有可能通过以下哪种机制来帮助这位患者？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "This medication is most likely to help this patient through which of the following mechanisms?",
+    "zh": "这种药物最有可能通过以下哪种机制来帮助这位患者？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreasing airway collagen deposition",
+      "zh": "减少气道胶原沉积"
+    },
+    "B": {
+      "en": "Decreasing airway inflammation",
+      "zh": "减少气道炎症"
+    },
+    "C": {
+      "en": "Decreasing alveolar destruction",
+      "zh": "减少肺泡破坏"
+    },
+    "D": {
+      "en": "Increasing cyclic AMP-mediated smooth muscle relaxation",
+      "zh": "增加环磷酸腺苷介导的平滑肌松弛"
+    },
+    "E": {
+      "en": "Increasing pulmonary vasodilation",
+      "zh": "增加肺血管舒张"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's frequent episodes of shortness of breath, chest tightness, and cough complicated by respiratory failure requiring hospitalization is consistent with asthma. The mainstays of medication therapy for asthma include an as-needed short-acting beta agonist (eg, albuterol), an inhaled corticosteroid (eg, mometasone), and a long-acting beta agonist (eg, salmeterol). For patients whose symptoms remain uncontrolled after such therapy is optimized, the addition of an IgE-binding monoclonal antibody (eg, omalizumab) may be beneficial.\n\nMany patients with asthma have high levels of circulating IgE antibodies generated against environmental antigens (eg, dust mites, animal dander). Omalizumab binds to the IgE antibody heavy chain and blocks the binding of IgE to the IgE receptors on mast cells. By preventing this binding, omalizumab inhibits proinflammatory substance release (including histamine and leukotrienes) by mast cells, markedly reducing airway inflammation.\n\n(Choice A) Decreasing airway collagen deposition may help slow the progression of idiopathic pulmonary fibrosis (IPF). Certain tyrosine kinase inhibitors (eg, nintedanib) decrease fibroblast proliferation and have shown benefit in treating IPF.\n\n(Choice C) Decreasing alveolar destruction would be helpful in treating chronic obstructive pulmonary disease (COPD). Smoking cessation is the most effective way to prevent and/or slow the rate of progression of COPD.\n\n(Choice D) Beta-2 agonists (eg, albuterol, salmeterol) cause bronchodilation via cyclic AMP-mediated smooth muscle relaxation and are effective symptomatic treatments for asthma. These drugs do not significantly reduce airway inflammation.\n\n(Choice E) Increasing pulmonary vasodilation helps improve pulmonary arterial hypertension and can be achieved with several classes of drugs, including endothelin receptor antagonists (eg, bosentan), phosphodiesterase inhibitors (eg, sildenafil), and prostacyclin analogs.\n\nEducational objective:\nIgE-binding monoclonal antibodies (eg, omalizumab) are effective in treating asthma that remains uncontrolled despite optimal therapy with bronchodilators and inhaled corticosteroids. IgE-binding monoclonal antibodies reduce airway inflammation by blocking the binding of IgE to the IgE receptors on mast cells and preventing the release of proinflammatory substances, including histamine and leukotrienes.",
+    "zh": "该患者频繁发作的呼吸困难、胸闷和咳嗽，并伴有需要住院治疗的呼吸衰竭，与哮喘一致。哮喘药物治疗的主要方法包括按需短效β受体激动剂（如沙丁胺醇）、吸入性皮质类固醇（如糠酸莫米松）和长效β受体激动剂（如沙美特罗）。对于在优化此类治疗后症状仍未得到控制的患者，添加结合IgE的单克隆抗体（如奥马珠单抗）可能是有益的。\n\n许多哮喘患者的循环IgE抗体水平较高，这些抗体是针对环境抗原（如尘螨、动物皮屑）产生的。奥马珠单抗与IgE抗体重链结合，阻断IgE与肥大细胞上的IgE受体的结合。通过阻止这种结合，奥马珠单抗抑制肥大细胞释放促炎物质（包括组胺和白三烯），从而显著减少气道炎症。\n\n（选项A）减少气道胶原沉积可能有助于延缓特发性肺纤维化（IPF）的进展。某些酪氨酸激酶抑制剂（如尼达尼布）可减少成纤维细胞增殖，并已显示出治疗IPF的益处。\n\n（选项C）减少肺泡破坏将有助于治疗慢性阻塞性肺病（COPD）。戒烟是预防和/或减缓COPD进展的最有效方法。\n\n（选项D）β-2受体激动剂（如沙丁胺醇、沙美特罗）通过环磷酸腺苷介导的平滑肌松弛引起支气管扩张，是哮喘的有效对症治疗方法。这些药物不会显著减少气道炎症。\n\n（选项E）增加肺血管舒张有助于改善肺动脉高压，并且可以通过几类药物来实现，包括内皮素受体拮抗剂（如波生坦）、磷酸二酯酶抑制剂（如西地那非）和前列环素类似物。\n\n教育目标：\n结合IgE的单克隆抗体（如奥马珠单抗）可有效治疗在最佳的支气管扩张剂和吸入性皮质类固醇治疗下仍未得到控制的哮喘。结合IgE的单克隆抗体通过阻断IgE与肥大细胞上IgE受体的结合并防止促炎物质（包括组胺和白三烯）的释放来减少气道炎症。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of asthma pathophysiology and the mechanism of action of omalizumab, an IgE-binding monoclonal antibody used in severe asthma. It assesses the ability to connect the drug's mechanism to its clinical effect on airway inflammation.\n\nThe key to solving this question is recognizing that the patient has uncontrolled asthma despite standard therapy. Omalizumab targets IgE, which plays a central role in allergic asthma by triggering mast cell degranulation and inflammation. Therefore, reducing airway inflammation is the most likely mechanism of action.",
+    "zh": "此题考察了哮喘的病理生理学知识以及奥马珠单抗（一种用于重症哮喘的结合IgE的单克隆抗体）的作用机制。它评估了将药物机制与其对气道炎症的临床影响联系起来的能力。\n\n解决此问题的关键是认识到患者尽管接受了标准治疗，但哮喘仍未得到控制。奥马珠单抗靶向IgE，IgE通过触发肥大细胞脱颗粒和炎症在过敏性哮喘中起核心作用。因此，减少气道炎症是最可能的作用机制。"
+  },
+  "tags": "Asthma; IgE; Omalizumab; Airway inflammation; Monoclonal antibody; Respiratory medicine; Allergy",
+  "category": "Chest",
+  "question_id": "2128",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\2128",
+  "extracted_at": "2025-11-05T11:44:47.565052",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:39:08.524360",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

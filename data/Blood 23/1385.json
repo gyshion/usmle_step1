@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A group of investigators is researching the changes in oxygen-hemoglobin binding that occur under various clinical conditions. They are especially interested in situations that alter the shape and position of the oxygen-hemoglobin dissociation curve. Which of the following processes would most likely cause a shift from the blue curve to the red curve in the graph below? {{exhibit_1}}",
+    "zh": "一组研究人员正在研究在各种临床条件下发生的氧-血红蛋白结合的变化。他们特别感兴趣于改变氧-血红蛋白解离曲线的形状和位置的情况。以下哪种过程最有可能导致下图中的曲线从蓝色曲线变为红色曲线？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following processes would most likely cause a shift from the blue curve to the red curve in the graph below?",
+    "zh": "以下哪种过程最有可能导致下图中的曲线从蓝色曲线变为红色曲线？"
+  },
+  "options": {
+    "A": {
+      "en": "Chronic high-altitude adaptation",
+      "zh": "慢性高海拔适应"
+    },
+    "B": {
+      "en": "Hypothermia",
+      "zh": "体温过低"
+    },
+    "C": {
+      "en": "Hypoventilation",
+      "zh": "通气不足"
+    },
+    "D": {
+      "en": "Severe anemia",
+      "zh": "严重贫血"
+    },
+    "E": {
+      "en": "Strenuous exercise",
+      "zh": "剧烈运动"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The oxygen hemoglobin dissociation curve describes the relationship between the partial pressure of oxygen (x-axis) and the hemoglobin oxygen saturation (y-axis). Oxygen saturation increases in a sigmoidal fashion as the pO2 increases because of the increase in oxygen-binding affinity that occurs after the first oxygen molecule binds to hemoglobin. As more oxygen molecules bind to hemoglobin, the number of available binding sites decreases and the curve eventually flattens out.\n\nThe partial pressure of oxygen in the blood at which hemoglobin is 50% saturated is known as the P50 (dotted black line in diagram above); this value is a standard measure of hemoglobin's affinity for oxygen and is about 26 mm Hg in normal individuals. A LEFTWARD shift of the oxygen-hemoglobin dissociation curve occurs when hemoglobin has increased oxygen affinity (ie, a lower P50). Because decreased temperatures help to stabilize the bonds between oxygen and hemoglobin, hypothermia increases hemoglobin's oxygen affinity and shifts the dissociation curve to the left. {{exhibit_2}}\n\n(Choice A) 2,3-bisphosphoglycerate (2,3-BPG) concentrations increase in erythrocytes when oxygen availability is reduced, as occurs in chronic lung disease, heart failure, and chronic exposure to high altitudes. Elevated levels of 2,3-BPG decrease hemoglobin O2 affinity (right-shifted curve), allowing release of additional O2 in the peripheral tissues.\n\n(Choices C and D) Anemia severe enough to cause lactic acidosis will result in lower blood pH, shifting the hemoglobin curve to the right. Similarly, hypoventilation causes increased CO2 retention and respiratory acidosis that shifts the curve to the right.\n\n(Choice E) Strenuous exercise will cause increased tissue oxidative phosphorylation, increased tissue CO2 levels, and decreased tissue pH. This results in a shift of the dissociation curve to the right and decreased hemoglobin O2 affinity.\n\nEducational objective:\nA left shift of the hemoglobin oxygen dissociation curve indicates increased hemoglobin O2 affinity and can be caused by increased pH, decreased 2,3-bisphosphoglycerate, and decreased temperature. Leftward shifts of the curve inhibit the release of O2 within peripheral tissues.",
+    "zh": "氧-血红蛋白解离曲线描述了氧分压（x轴）与血红蛋白氧饱和度（y轴）之间的关系。由于第一个氧分子与血红蛋白结合后发生氧结合亲和力的增加，氧饱和度随 pO2 的增加呈 S 形增加。随着越来越多的氧分子与血红蛋白结合，可用结合位点数量减少，曲线最终趋于平坦。\n\n血红蛋白达到 50% 饱和时的氧分压被称为 P50（上图中虚线黑线）；该值是血红蛋白对氧的亲和力的标准测量值，在正常个体中约为 26 mm Hg。当血红蛋白对氧的亲和力增加（即，P50 较低）时，氧-血红蛋白解离曲线向左移动。由于降低的温度有助于稳定氧和血红蛋白之间的键，体温过低会增加血红蛋白的氧亲和力，并将解离曲线向左移动。{{exhibit_2}}\n\n（选项 A）当氧气供应减少时，红细胞中的 2,3-二磷酸甘油酸（2,3-BPG）浓度会增加，这种情况发生在慢性肺病、心力衰竭和长期暴露于高海拔地区。升高的 2,3-BPG 水平会降低血红蛋白 O2 亲和力（曲线右移），从而允许在周围组织中释放额外的 O2。\n\n（选项 C 和 D）足以引起乳酸性酸中毒的贫血会导致血 pH 值降低，使血红蛋白曲线右移。同样，通气不足会导致 CO2 潴留增加和呼吸性酸中毒，从而使曲线右移。\n\n（选项 E）剧烈运动会导致组织氧化磷酸化增加、组织 CO2 水平升高和组织 pH 值降低。这会导致解离曲线右移和血红蛋白 O2 亲和力降低。\n\n教育目标：\n血红蛋白氧解离曲线左移表明血红蛋白 O2 亲和力增加，这可能由 pH 值升高、2,3-二磷酸甘油酸降低和温度降低引起。曲线向左移动会抑制周围组织中 O2 的释放。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the oxygen-hemoglobin dissociation curve and factors that shift it to the left or right. A leftward shift indicates increased oxygen affinity, while a rightward shift indicates decreased oxygen affinity.\n\nTo solve this question, recall the factors that affect hemoglobin's affinity for oxygen, such as pH, temperature, 2,3-BPG, and CO2. Consider how each option would impact these factors and, consequently, the oxygen-hemoglobin dissociation curve.",
+    "zh": "此题考察对氧-血红蛋白解离曲线的了解以及将其向左或向右移动的因素。向左移动表示氧亲和力增加，而向右移动表示氧亲和力降低。\n\n要解决这个问题，请回忆影响血红蛋白对氧的亲和力的因素，例如 pH、温度、2,3-BPG 和 CO2。考虑每个选项将如何影响这些因素，进而影响氧-血红蛋白解离曲线。"
+  },
+  "tags": "Oxygen-hemoglobin dissociation curve; Hypothermia; Oxygen affinity; 2,3-BPG; Hypoventilation; Anemia; Strenuous exercise; Respiratory physiology",
+  "category": "Blood",
+  "question_id": "1385",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1385",
+  "extracted_at": "2025-11-05T11:22:31.525282",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:26:51.012661",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

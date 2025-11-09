@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": " A  Medical history is significant for hypertension, myocardial infarction, and heart failure with reduced ejection fraction. The patient does not use alcohol but smokes a half-pack of cigarettes daily. Temperature is 37.6 C (99.7 F), blood pressure is 100/60 mm Hg, pulse is 116/min and irregular, and respirations are 24/min. The abdomen is soft, mildly distended, and mildly tender without rebound or guarding. Laboratory results are as follows: {{exhibit_1}} CT angiography of the abdomen reveals an occlusion within the proximal superior mesenteric artery.",
+    "zh": "患者病史包括高血压、心肌梗死和射血分数降低的心力衰竭。患者不饮酒，但每天吸半包香烟。体温为 37.6°C (99.7°F)，血压为 100/60 mmHg，脉搏为 116 次/分钟且不规则，呼吸为 24 次/分钟。腹部柔软，轻度膨胀，轻度压痛，无反跳痛或腹肌紧张。实验室检查结果如下：{{exhibit_1}} 腹部 CT 血管造影显示近端肠系膜上动脉内有阻塞。"
+  },
+  "question": {
+    "en": "Decreased activity of which of the following enzymes best explains this patient's acid-base disorder?",
+    "zh": "以下哪种酶的活性降低最能解释该患者的酸碱失衡？"
+  },
+  "options": {
+    "A": {
+      "en": "Enolase",
+      "zh": "烯醇酶"
+    },
+    "B": {
+      "en": "Lactate dehydrogenase",
+      "zh": "乳酸脱氢酶"
+    },
+    "C": {
+      "en": "Pyruvate carboxylase",
+      "zh": "丙酮酸羧化酶"
+    },
+    "D": {
+      "en": "Pyruvate dehydrogenase",
+      "zh": "丙酮酸脱氢酶"
+    },
+    "E": {
+      "en": "Pyruvate kinase",
+      "zh": "丙酮酸激酶"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Acute mesenteric ischemia is characterized by severe abdominal pain caused by sudden blockage of intestinal blood flow. Diagnosis can be made using abdominal CT angiography, which in this patient reveals an occluded superior mesenteric artery (likely due to atrial or ventricular thromboembolism given his irregular rhythm and reduced ejection fraction).\n\nImpaired intestinal blood flow in acute mesenteric ischemia leads to tissue ischemia, thereby creating an anaerobic environment that inhibits the tricarboxylic acid (TCA) cycle. As a result, NADH produced during glycolysis begins to accumulate, with relative depletion of NAD+ (a cofactor necessary for glycolysis).\n\nTo maintain limited ATP production, ischemic cells regenerate NAD+ by switching to anaerobic glycolysis:\n\n•\tThe high NADH/NAD+ ratio leads to regulatory inhibition of pyruvate dehydrogenase, thereby shunting pyruvate away from aerobic metabolism (ie, conversion to acetyl-CoA in the mitochondrial matrix).\n\n•\tExcess NADH also stimulates lactate dehydrogenase (Choice B), which converts pyruvate to lactic acid, regenerating NAD+ in the process.\n\nWith significant tissue ischemia, lactate begins to accumulate in the circulation and can lead to lactic acidosis (ie, metabolic acidosis). In addition to lactic acidosis, untreated ischemia in patients with acute mesenteric ischemia can lead to intestinal necrosis, perforation/peritonitis, and sepsis.\n\n(Choices A and E) Enolase converts 2-phosphoglycerate to phosphoenolpyruvate, which is subsequently metabolized by pyruvate kinase into pyruvate. Because these glycolytic reactions can take place under both aerobic and anaerobic conditions, they are not affected by tissue ischemia.\n\n(Choice C) Pyruvate can also be converted to oxaloacetate by pyruvate carboxylase. This enzyme is involved in regeneration of glucose from pyruvate during the process of gluconeogenesis, which typically occurs in a fasted (not ischemic) state.\n\nEducational objective:\nImpaired intestinal blood flow (eg. acute mesenteric ischemia) creates an anaerobic environment that leads to an elevated NADH/NAD+ ratio. This decreases activity of pyruvate dehydrogenase (converts pyruvate → acetyl-CoA) while stimulating lactate dehydrogenase (converts pyruvate → lactate), shunting the metabolic fate of pyruvate toward lactate production. Patients with significant tissue ischemia are therefore at risk of lactic acidosis. {{exhibit_2}}",
+    "zh": "急性肠系膜缺血的特征是由于肠血流突然阻塞引起的剧烈腹痛。可以使用腹部 CT 血管造影进行诊断，该患者的 CT 血管造影显示肠系膜上动脉阻塞（考虑到其心律不规则和射血分数降低，可能由于心房或心室血栓栓塞引起）。\n\n急性肠系膜缺血时受损的肠血流会导致组织缺血，从而产生抑制三羧酸 (TCA) 循环的厌氧环境。因此，在糖酵解过程中产生的 NADH 开始积累，同时相对耗竭 NAD+（糖酵解所需的辅助因子）。\n\n为了维持有限的 ATP 产生，缺血细胞通过转变为无氧糖酵解来再生 NAD+：\n\n•\t高 NADH/NAD+ 比率导致丙酮酸脱氢酶的调节性抑制，从而将丙酮酸从需氧代谢（即，转化为线粒体基质中的乙酰辅酶 A）中分流出来。\n\n•\t过量的 NADH 也会刺激乳酸脱氢酶（选项 B），它将丙酮酸转化为乳酸，从而再生 NAD+。\n\n当发生严重的组织缺血时，乳酸开始在循环中积累，并可能导致乳酸酸中毒（即，代谢性酸中毒）。除乳酸酸中毒外，未经治疗的急性肠系膜缺血患者的缺血还可能导致肠坏死、穿孔/腹膜炎和败血症。\n\n（选项 A 和 E）烯醇酶将 2-磷酸甘油酸酯转化为磷酸烯醇丙酮酸，随后被丙酮酸激酶代谢为丙酮酸。因为这些糖酵解反应可以在需氧和厌氧条件下发生，所以它们不受组织缺血的影响。\n\n（选项 C）丙酮酸也可以被丙酮酸羧化酶转化为草酰乙酸。该酶参与在糖异生过程中从丙酮酸再生葡萄糖，通常发生在空腹（非缺血）状态。\n\n教育目标：\n受损的肠血流（例如，急性肠系膜缺血）会产生厌氧环境，从而导致 NADH/NAD+ 比率升高。这会降低丙酮酸脱氢酶的活性（将丙酮酸转化为乙酰辅酶 A），同时刺激乳酸脱氢酶（将丙酮酸转化为乳酸），从而将丙酮酸的代谢命运分流到乳酸的产生。因此，患有严重组织缺血的患者有发生乳酸酸中毒的风险。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the metabolic changes that occur in acute mesenteric ischemia, specifically the shift to anaerobic metabolism and the resulting lactic acidosis. It requires understanding the role of key enzymes in glucose metabolism and how their activity is affected by ischemia.\n\nThe best approach is to recognize the clinical scenario of mesenteric ischemia and its association with lactic acidosis. Then, consider how the lack of oxygen affects the activity of enzymes involved in pyruvate metabolism, leading to increased lactate production and decreased pyruvate dehydrogenase activity.",
+    "zh": "此问题测试对急性肠系膜缺血中发生的代谢变化的了解，特别是向无氧代谢的转变以及由此产生的乳酸酸中毒。它需要了解关键酶在葡萄糖代谢中的作用以及它们的活性如何受到缺血的影响。\n\n最好的方法是认识到肠系膜缺血的临床情况及其与乳酸酸中毒的关联。然后，考虑缺氧如何影响参与丙酮酸代谢的酶的活性，从而导致乳酸产生增加和丙酮酸脱氢酶活性降低。"
+  },
+  "tags": "Acute mesenteric ischemia; Lactic acidosis; Pyruvate dehydrogenase; Anaerobic metabolism; Superior mesenteric artery occlusion; Metabolic acidosis; Biochemistry; General Principles; Metabolic acidosis",
+  "category": "Bio",
+  "question_id": "996",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\996",
+  "extracted_at": "2025-11-05T11:17:44.534344",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:24:57.848449",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

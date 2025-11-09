@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 60-year-old man comes to the office for follow-up due to persistent atrial fibrillation. He reports occasional palpitations and poor exercise tolerance. For the past year, the patient's atrial fibrillation has been managed with a rate-control strategy using metoprolol. Three months ago, his metoprolol dosage was increased for improved rate control, but today in the office, he reports that he was unable to tolerate the new dosage due to dizziness. Blood pressure is 110/70 mm Hg and pulse is 105/min and irregular. Examination shows no abnormalities. Echocardiography reveals left atrial enlargement, an ejection fraction of 59%, and no significant valvular disease. The patient is advised to remain on his previously tolerated metoprolol dose, and digoxin is added to the medication regimen. Four weeks later, he reports symptom improvement. Resting pulse is 84/min and irregular.",
+    "zh": "一名60岁男性因持续性心房颤动前来就诊复诊。他报告偶尔出现心悸和运动耐受力差。过去一年来，该患者的心房颤动采用速率控制策略，使用美托洛尔进行管理。三个月前，他的美托洛尔剂量增加以改善心率控制，但今天在诊室里，他报告说由于头晕而无法耐受新的剂量。血压为110/70 mm Hg，脉搏为105次/分且不规则。体格检查未见异常。超声心动图显示左心房增大，射血分数为59%，无明显瓣膜疾病。建议患者继续使用之前耐受的美托洛尔剂量，并在药物方案中加入地高辛。四周后，他报告症状有所改善。静息脉搏为84次/分且不规则。"
+  },
+  "question": {
+    "en": "Which of the following best explains digoxin's effect on heart rate in this patient?",
+    "zh": "以下哪项最能解释地高辛对该患者心率的影响？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased atrial refractoriness",
+      "zh": "心房不应期缩短"
+    },
+    "B": {
+      "en": "Decreased cardiomyocyte action potential duration",
+      "zh": "心肌细胞动作电位时程缩短"
+    },
+    "C": {
+      "en": "Decreased Purkinje fiber automaticity",
+      "zh": "浦肯野纤维自律性降低"
+    },
+    "D": {
+      "en": "Increased parasympathetic tone",
+      "zh": "迷走神经张力增高"
+    },
+    "E": {
+      "en": "Increased ventricular contractility",
+      "zh": "心室收缩力增强"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Adequate rate control (eg, resting heart rate <85/min) is important in atrial fibrillation because it minimizes symptoms and helps decrease the risk of tachycardia-induced cardiomyopathy. Beta blockers (eg, metoprolol) slow conduction through the atrioventricular (AV) node via inhibition of sympathetic stimulation and are typically first-line therapy for rate control in patients with atrial fibrillation. This patient was unable to tolerate the dose of metoprolol needed to maintain an appropriate resting heart rate; therefore, digoxin was added for increased rate control. Digoxin slows conduction through the AV node via increased parasympathetic (vagal) tone.\n\nSeveral mechanisms may explain the parasympathetic effects of digoxin. Inhibition of the sodium-potassium ATPase pump in vagal afferent fibers sensitizes arterial baroreceptors (eg, carotid, aortic) and cardiac volume receptors, augmenting afferent input from the cardiovascular system to the brain. In addition, digoxin enhances efferent parasympathetic ganglionic transmission, leading to increased vagal output.\n\nThis mechanism of increased parasympathetic tone is effective in controlling heart rate at rest but is limited in controlling heart rate during exercise, when sympathetic tone is high. Therefore, digoxin is rarely used as monotherapy for rate control and is more typically combined with a beta blocker or nondihydropyridine calcium channel blocker (eg, verapamil, diltiazem).\n\n(Choices A and B) Decreased atrial refractoriness and decreased cardiomyocyte action potential duration both occur with digoxin, increasing the automaticity of the atrial myocardium and encouraging the development of atrial fibrillation and other atrial arrhythmias. However, these effects are typically problematic only at toxic digoxin levels and at therapeutic levels are outweighed by the beneficial effect of increased parasympathetic tone.\n\n(Choice C) Digoxin increases (rather than decreases) Purkinje fiber automaticity, encouraging the development of ventricular arrhythmias (eg, ventricular tachycardia). Like the proarrhythmic effects on the atrial myocardium, this effect is typically problematic only at toxic digoxin levels.\n\n(Choice E) Digoxin increases ventricular contractility (positive inotropy) by inhibiting the sodium-potassium ATPase pump to increase intracellular sodium and consequently increase intracellular calcium. This effect can improve cardiac output and symptoms (eg, dyspnea, orthopnea) in patients with left ventricular systolic dysfunction, but it does not contribute to improved rate control.\n\nEducational objective:\nDigoxin can be used to improve ventricular rate control in patients with atrial fibrillation, as it decreases atrioventricular node conduction by increasing parasympathetic (vagal) tone. Digoxin also has a positive inotropic effect that can be useful in patients with left ventricular systolic dysfunction.",
+    "zh": "在心房颤动中，充分的速率控制（例如，静息心率<85次/分）很重要，因为它能最大限度地减少症状并有助于降低心动过速引起的心肌病的风险。β受体阻滞剂（例如，美托洛尔）通过抑制交感神经刺激来减缓通过房室 (AV) 结的传导，通常是一线治疗心房颤动患者的速率控制。该患者无法耐受维持适当静息心率所需的美托洛尔剂量；因此，加入地高辛以增加速率控制。地高辛通过增加副交感神经（迷走神经）张力来减缓通过房室结的传导。\n\n有几种机制可以解释地高辛的副交感神经效应。抑制迷走神经传入纤维中的钠钾ATP酶泵使动脉压力感受器（例如，颈动脉，主动脉）和心脏容量感受器敏感，增强来自心血管系统到大脑的传入输入。此外，地高辛增强传出副交感神经神经节传递，从而导致迷走神经输出增加。\n\n这种增加的副交感神经张力的机制在控制静息心率方面有效，但在运动期间控制心率方面受到限制，此时交感神经张力很高。因此，地高辛很少被用作速率控制的单药治疗，通常与β受体阻滞剂或非二氢吡啶类钙通道阻滞剂（例如，维拉帕米，地尔硫卓）联合使用。\n\n（选项A和B）心房不应期缩短和心肌细胞动作电位时程缩短均发生在地高辛的作用下，增加心房心肌的自律性，并促进心房颤动和其他心房心律失常的发展。然而，这些影响通常仅在高浓度地高辛时才成为问题，而在治疗浓度下，其影响被增加的副交感神经张力的有益作用所抵消。\n\n（选项C）地高辛增加（而不是减少）浦肯野纤维的自律性，从而促进室性心律失常（例如，室性心动过速）的发展。与对心房心肌的促心律失常作用一样，这种影响通常仅在高浓度地高辛时才成为问题。\n\n（选项E）地高辛通过抑制钠钾ATP酶泵以增加细胞内钠，进而增加细胞内钙来增加心室收缩力（正性肌力）。这种作用可以改善左心室收缩功能障碍患者的心输出量和症状（例如，呼吸困难、端坐呼吸），但它对改善心率控制没有贡献。\n\n教育目标：\n地高辛可用于改善心房颤动患者的心室率控制，因为它通过增加副交感神经（迷走神经）张力来降低房室结传导。地高辛还具有正性肌力作用，这对于左心室收缩功能障碍的患者可能有用。"
+  },
+  "summary": {
+    "en": "This question tests the mechanism of action of digoxin in the management of atrial fibrillation, specifically its effect on heart rate control through increased parasympathetic tone. It also requires knowledge of alternative rate and rhythm control strategies for atrial fibrillation.\n\nTo solve this question, recognize that digoxin primarily works by increasing parasympathetic tone, which slows conduction through the AV node and reduces heart rate. Rule out options that describe other mechanisms or effects that are not the primary action of digoxin in rate control.",
+    "zh": "此题测试地高辛在心房颤动管理中的作用机制，特别是其通过增加副交感神经张力对心率控制的影响。它还需要了解心房颤动的其他速率和节律控制策略。\n\n要解决这个问题，请认识到地高辛主要通过增加副交感神经张力起作用，这会减慢通过房室结的传导并降低心率。排除描述了地高辛在速率控制中的其他机制或作用，而不是其主要作用的选项。"
+  },
+  "tags": "Atrial fibrillation; Digoxin; Parasympathetic tone; Rate control; AV node; Cardiology; Arrhythmia management",
+  "category": "CVS",
+  "question_id": "155",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\155",
+  "extracted_at": "2025-11-05T11:59:10.428182",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:49:14.574632",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

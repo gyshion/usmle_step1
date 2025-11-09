@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 52-year-old man is hospitalized due to 2 weeks of low-grade fever, malaise, anorexia, and fatigue. The patient has a history of bicuspid aortic valve and underwent aortic valve replacement a year ago. Physical examination reveals a new regurgitation aortic murmur. Blood cultures repeatedly grow gram-positive cocci in clusters, which are identified as *Staphylococcus epidermidis*.",
+    "zh": "一名52岁男性因低烧、不适、食欲不振和疲劳两周而住院。患者有二叶式主动脉瓣病史，一年前接受了主动脉瓣置换术。体格检查显示出现新的主动脉瓣反流杂音。血培养反复生长革兰氏阳性球菌簇，鉴定为表皮葡萄球菌（*Staphylococcus epidermidis*）。"
+  },
+  "question": {
+    "en": "This pathogen most likely demonstrates which of the following characteristics?",
+    "zh": "这种病原体最有可能表现出以下哪种特征？"
+  },
+  "options": {
+    "A": {
+      "en": "Alpha hemolysis",
+      "zh": "α-溶血"
+    },
+    "B": {
+      "en": "Mannitol fermentation",
+      "zh": "甘露醇发酵"
+    },
+    "C": {
+      "en": "Negative catalase test",
+      "zh": "过氧化氢酶阴性"
+    },
+    "D": {
+      "en": "Negative coagulase test",
+      "zh": "凝固酶阴性"
+    },
+    "E": {
+      "en": "Novobiocin resistance",
+      "zh": "新生霉素耐药"
+    },
+    "F": {
+      "en": "Yellow pigment production",
+      "zh": "黄色色素产生"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "*Staphylococcus epidermidis* is a low-virulence skin commensal that rarely causes infection in healthy patients. However, those with prosthetic devices (eg, indwelling catheters, **artificial heart valves**, artificial joints) are at risk because the pathogen produces adhesion and biofilm proteins that allow it to grow on artificial surfaces. *S epidermidis* is one of the most common contaminants of blood cultures, but infection should be suspected when multiple blood cultures grow the bacteria and/or the patient has symptoms of clinical infection such as fever, malaise, and leukocytosis.\n\n*Staphylococcus* species are gram-positive cocci that grow in grape-like clusters. They are differentiated from streptococci by the catalase test: Streptococci are catalase-negative whereas staphylococci are **catalase-positive** (Choice C). Further speciation of staphylococci leverages the coagulase test (the ability to clot blood plasma), which differentiates *S aureus* from **coagulase-negative staphylococci** such as *S epidermidis, S haemolyticus*, and *S saprophyticus*.\n\n(Choice A) Alpha hemolysis (partial, green hemolysis when plated on blood agar) is a feature of viridans streptococci, a common cause of infective endocarditis. Staphylococci species are either beta-hemolytic (complete hemolysis) or gamma-hemolytic (no hemolysis). *S epidermidis* is gamma-hemolytic.\n\n(Choice B) *S aureus* and *S haemolyticus* can ferment mannitol, but *S epidermidis* cannot.\n\n(Choice E) Novobiocin is an antibiotic that can be applied to plated colonies to differentiate *S saprophyticus* from other coagulase-negative *Staphylococcus* species: *S saprophyticus* is novobiocin-resistant whereas others, such as *S epidermidis*, are novobiocin-sensitive.\n\n(Choice F) *S aureus* produces a golden-yellow surface pigment, which accounts for its name (*aureus* means gold in Latin). *S aureus* is a common cause of infective endocarditis and osteomyelitis, particularly in intravenous drug users.\n\nEducational objective:\n*Staphylococcus epidermidis*, a gram-positive coccus that grows in clusters, is a skin commensal that is a common cause of infection in patients with **prosthetic** devices such as artificial joints or heart valves. Unlike *S aureus*, *S epidermidis* is coagulase-negative. Unlike *S saprophyticus* (another coagulase-negative staphylococcus species), *S epidermidis* is susceptible to novobiocin.",
+    "zh": "表皮葡萄球菌（*Staphylococcus epidermidis*）是一种低毒力的皮肤共生菌，很少在健康患者中引起感染。然而，那些有假体装置（例如，留置导管，**人工心脏瓣膜**，人工关节）的患者则存在风险，因为病原体产生粘附蛋白和生物膜蛋白，使其能够在人造表面上生长。表皮葡萄球菌是血培养中最常见的污染物之一，但当多次血培养中生长该细菌和/或患者出现临床感染症状（如发热、不适和白细胞增多）时，应怀疑感染。\n\n葡萄球菌属是革兰氏阳性球菌，以葡萄状簇生长。它们通过过氧化氢酶试验与链球菌区分开来：链球菌为过氧化氢酶阴性，而葡萄球菌为**过氧化氢酶阳性**（选项C）。葡萄球菌的进一步分型利用凝固酶试验（凝固血浆的能力），从而将金黄色葡萄球菌与**凝固酶阴性葡萄球菌**区分开来，例如表皮葡萄球菌、溶血葡萄球菌和腐生葡萄球菌。\n\n（选项A）α-溶血（在血琼脂平板上部分、绿色溶血）是草绿色链球菌的特征，草绿色链球菌是感染性心内膜炎的常见原因。葡萄球菌属要么为β-溶血（完全溶血）要么为γ-溶血（无溶血）。表皮葡萄球菌为γ-溶血。\n\n（选项B）金黄色葡萄球菌和溶血葡萄球菌可以发酵甘露醇，但表皮葡萄球菌不能。\n\n（选项E）新生霉素是一种抗生素，可以应用于平板培养的菌落，以区分腐生葡萄球菌与其他凝固酶阴性葡萄球菌属：腐生葡萄球菌对新生霉素耐药，而其他菌种（如表皮葡萄球菌）对新生霉素敏感。\n\n（选项F）金黄色葡萄球菌产生金黄色的表面色素，这就是其名称的由来（*aureus* 在拉丁语中意为金色）。金黄色葡萄球菌是感染性心内膜炎和骨髓炎的常见原因，尤其是在静脉注射毒品使用者中。\n\n教育目标：\n表皮葡萄球菌，一种革兰氏阳性球菌，以簇状生长，是一种皮肤共生菌，是**假体**装置（如人工关节或心脏瓣膜）患者感染的常见原因。与金黄色葡萄球菌不同，表皮葡萄球菌是凝固酶阴性。与腐生葡萄球菌（另一种凝固酶阴性葡萄球菌属）不同，表皮葡萄球菌对新生霉素敏感。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the characteristics of *Staphylococcus epidermidis*, particularly its coagulase status, and its association with prosthetic device infections. It also tests the ability to differentiate *S. epidermidis* from other staphylococcal species based on biochemical tests.\n\nTo solve this question, recall that *S. epidermidis* is a coagulase-negative staphylococcus commonly associated with infections of prosthetic devices. Eliminate options based on known characteristics of other staphylococcal species.",
+    "zh": "本题考察对表皮葡萄球菌特征的了解，特别是其凝固酶状态，以及其与假体装置感染的关系。它还考察了根据生化试验区分表皮葡萄球菌与其他葡萄球菌属的能力。\n\n要解决这个问题，请回忆表皮葡萄球菌是一种凝固酶阴性葡萄球菌，通常与假体装置感染有关。根据其他葡萄球菌属的已知特征排除选项。"
+  },
+  "tags": "Staphylococcus epidermidis; Coagulase-negative staphylococci; Prosthetic valve endocarditis; Microbiology; Gram-positive bacteria; Catalase test; Coagulase test; Novobiocin sensitivity",
+  "category": "Micro",
+  "question_id": "679",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\679",
+  "extracted_at": "2025-11-05T15:05:13.233356",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:12:58.202861",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 72-year-old man comes to the office due to poor sleep. He is concerned that he is sleeping less since he retired a year ago. He says, \"I used to sleep a solid 8 hours, but now I wake up several times a night. And I'm up for the day between 5:00 and 6:00 AM, which is a full hour before I want to get up. I'm probably only getting about 6 or 7 hours of sleep total.\" The patient typically falls asleep while watching television at 10:00 PM. He sometimes awakens to use the bathroom in the middle of the night but typically falls back asleep within 15 minutes. The patient likes to do crosswords and play golf in the mornings but occasionally takes 30-minute naps in the afternoon. The patient's wife says that he snores softly, but she has not witnessed any breathing pauses. Medical problems include hypertension and a history of depression. The patient does not use alcohol or illicit drugs.",
+    "zh": "一名72岁男性因睡眠不佳来就诊。他担心自一年前退休以来，睡眠时间变少了。他说：“我以前能睡足8小时，但现在我晚上会醒来好几次。而且我在早上5:00到6:00之间就起床了，比我想要起床的时间早了一个小时。我总共可能只睡了大约6或7个小时。” 患者通常在晚上10:00看电视时入睡。他有时会在半夜醒来去洗手间，但通常在15分钟内又睡着了。患者喜欢在早上做填字游戏和打高尔夫，但偶尔会在下午小睡30分钟。患者的妻子说他轻微打鼾，但她没有观察到任何呼吸暂停。 既往病史包括高血压和抑郁症。患者不饮酒或吸食违禁药物。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "以下哪项最可能是该患者症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Adjustment disorder",
+      "zh": "适应障碍"
+    },
+    "B": {
+      "en": "Age-related sleep changes",
+      "zh": "与年龄相关的睡眠改变"
+    },
+    "C": {
+      "en": "Insomnia disorder",
+      "zh": "失眠障碍"
+    },
+    "D": {
+      "en": "Major depressive disorder",
+      "zh": "重度抑郁症"
+    },
+    "E": {
+      "en": "Obstructive sleep apnea",
+      "zh": "阻塞性睡眠呼吸暂停"
+    },
+    "F": {
+      "en": "REM sleep behavior disorder",
+      "zh": "快速眼动睡眠行为障碍"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's sleep changes are consistent with normal aging. Age-related changes in sleep architecture include decreased total sleep time and slow-wave sleep with increased nighttime sleep latency. As a result of these changes, elderly patients may experience more fragmented sleep with nocturnal awakenings and an earlier wake-up time when compared to their previous sleep pattern. All these changes can in turn lead to subjective reports of insomnia and intentional and unintentional daytime napping.\n\nThis patient functions well during the daytime and does not exhibit any other symptoms that would be concerning for a sleep disorder (eg, sleep apnea). He should be reassured that these changes are normal.\n\n(Choice A) Adjustment disorder should be considered in a patient who develops mood symptoms within 3 months of a stressor. If mood symptoms persist for >6 months after the stressor, then adjustment disorder cannot be diagnosed. This patient does not have any mood symptoms, and his retirement was >6 months ago.\n\n(Choice C) Insomnia disorder involves persistent difficulties initiating or maintaining sleep, resulting in clinically significant distress or impairment. It would not be diagnosed in a patient with normal age-related sleep changes.\n\n(Choice D) Although sleep changes are frequent in major depressive disorder, this patient lacks other key depressive symptoms necessary to meet criteria for it (eg, sadness, decreased interest, anhedonia, decreased appetite, suicidality).\n\n(Choice E) Sleep apnea is associated with hypertension and fragmented sleep. However, this patient has no history of witnessed apneas and his sleep changes are classic for normal aging.\n\n(Choice F) REM sleep behavior disorder is a parasomnia characterized by dream-enactment behaviors that occur due to loss of normal REM sleep atonia.",
+    "zh": "该患者的睡眠变化与正常衰老一致。与年龄相关的睡眠结构变化包括总睡眠时间减少和慢波睡眠减少，夜间睡眠潜伏期延长。由于这些变化，老年患者可能会经历更多片段化睡眠，伴有夜间觉醒和较早的起床时间，与他们之前的睡眠模式相比。所有这些变化反过来可能导致主观的失眠报告以及有意和无意的白天小睡。\n\n该患者在白天功能良好，并且没有表现出任何其他可能引起睡眠障碍的症状（例如，睡眠呼吸暂停）。应向他保证这些变化是正常的。\n\n(选项A) 适应障碍应考虑在出现应激源后3个月内出现情绪症状的患者。如果情绪症状在应激源后持续>6个月，则不能诊断为适应障碍。该患者没有任何情绪症状，而且他退休已>6个月。\n\n(选项C) 失眠障碍涉及持续难以入睡或维持睡眠，导致临床上显着的痛苦或损害。它不会被诊断为患有正常年龄相关睡眠变化的患者。\n\n(选项D) 虽然睡眠变化在重度抑郁症中很常见，但该患者缺乏符合其标准的其他关键抑郁症状（例如，悲伤、兴趣降低、快感缺失、食欲下降、自杀倾向）。\n\n(选项E) 睡眠呼吸暂停与高血压和片段化睡眠有关。然而，该患者没有观察到呼吸暂停的病史，并且他的睡眠变化是典型的正常衰老。\n\n(选项F) 快速眼动睡眠行为障碍是一种异态睡眠，其特征是由于正常快速眼动睡眠肌张力丧失而发生的梦境行为。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of age-related changes in sleep patterns and differentiating them from sleep disorders. It requires understanding the normal sleep architecture changes that occur with aging and recognizing that the patient's symptoms are consistent with these changes.\n\nTo solve this question, rule out other sleep disorders based on the absence of specific symptoms. Consider the patient's age and the typical sleep changes associated with aging before considering other diagnoses.",
+    "zh": "这个问题考察了对与年龄相关的睡眠模式变化的认识，并将它们与睡眠障碍区分开来。它需要了解衰老时发生的正常睡眠结构变化，并认识到患者的症状与这些变化一致。\n\n为了解决这个问题，根据缺乏特定症状来排除其他睡眠障碍。在考虑其他诊断之前，考虑患者的年龄以及与衰老相关的典型睡眠变化。"
+  },
+  "tags": "Age-related sleep changes; Sleep architecture; Insomnia; Sleep apnea; REM sleep behavior disorder; Geriatrics; Sleep medicine",
+  "category": "Neuro",
+  "question_id": "15644",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\15644",
+  "extracted_at": "2025-11-05T15:18:31.467911",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:20:29.582169",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 4-year-old girl is brought to the clinic due to an inward deviated right eye. Examination shows a pale red reflex in the right eye relative to the left eye. Dilated funduscopic examination reveals a well-circumscribed white mass within the retina. Genetic analysis shows a germline mutation in the patient's cells leading to development of the mass. Which of the following is the most likely function of the protein affected by this patient's gene mutation?",
+    "zh": "一名4岁女孩因右眼内斜视就诊。检查显示右眼反射较左眼呈苍白红色。扩瞳眼底检查显示视网膜内有一个边界清楚的白色肿块。基因分析显示患者细胞中存在导致肿块形成的种系突变。以下哪项最可能是该患者基因突变影响的蛋白质的功能？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely function of the protein affected by this patient's gene mutation?",
+    "zh": "以下哪项最可能是该患者基因突变影响的蛋白质的功能？"
+  },
+  "options": {
+    "A": {
+      "en": "Activation of receptor tyrosine kinase",
+      "zh": "激活受体酪氨酸激酶"
+    },
+    "B": {
+      "en": "Conversion of GTP to GDP",
+      "zh": "将GTP转化为GDP"
+    },
+    "C": {
+      "en": "Opposition of p53 activity",
+      "zh": "拮抗p53活性"
+    },
+    "D": {
+      "en": "Prevention of the G1/S cell cycle transition",
+      "zh": "阻止G1/S细胞周期转换"
+    },
+    "E": {
+      "en": "Repair of damaged DNA",
+      "zh": "修复受损DNA"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's pale red reflex and well-circumscribed white mass within the retina are indicative of RETINOBLASTOMA. Retinoblastoma is an intraocular tumor caused by inactivating mutations affecting the RB1 tumor suppressor gene, with subsequent dysregulation of the cell cycle. The cell cycle consists of the following stages:\n\n* Gap phase 0 (G0 phase) is a resting stage in which the cell cycle is suspended.\n* Interphase is the stage in which the cell prepares for division. Interphase is subdivided into the G1 phase (synthesis of RNA, protein, lipid, and carbohydrate), S phase (DNA replication), and the G2 phase (ATP synthesis).\n* Mitosis (M) is the stage in which the cell divides into two daughter cells.\n\nCheckpoints occur at the G1/S and G2/M transitions, allowing the cell cycle to be stopped if damaged DNA is detected by cyclins and cyclin-dependent kinases. DNA repair mechanisms are activated, but if the DNA damage is too substantial, the cell undergoes apoptosis.\n\nThe RB1 gene encodes the Rb protein that regulates the G1/S checkpoint. In its active form, Rb protein binds and inhibits E2F transcription factors, thereby halting the cell cycle. In contrast, when a cell is ready to divide, Rb protein is phosphorylated by cyclin-dependent kinases, allowing the cell to proceed through the G1/S checkpoint. Loss-of-function mutations affecting the Rb protein result in unrestricted progression through the G1/S checkpoint, leading to uncontrolled cell division. Inciting RB1 mutations have been linked to retinoblastoma and osteosarcoma.\n\n(Choice A) Many receptor tyrosine kinases have stimulatory effects on cell growth, and increased receptor activity occurs with a variety of cancers. For example, overexpression of EGFR and MET are associated with non-small cell lung cancer, and HER2 is associated with breast cancer.\n\n(Choice B) Abnormal K-Ras GTPase function due to a KRAS mutation prevents the conversion of GTP to GDP, which results in constant activation of the MAPK pathway and uncontrolled cellular proliferation. KRAS mutations are associated with lung and colorectal cancers, not retinoblastoma.\n\n(Choice C) Tumor suppressor protein p53 arrests the cell cycle at the G1/S checkpoint if DNA damage is detected and initiates cell apoptosis if DNA repair fails. Mutations of p53 are associated with most cancers, particularly Li-Fraumeni syndrome (sarcoma, breast, leukemia, and adrenal cancers). Rb and p53 proteins are both critical components of tumor suppression pathways, and their normal function complements one another to prevent cancer progression.\n\n(Choice E) BRCA1 and BRCA2 are two of many DNA repair genes that have been identified. When mutated, these genes are associated with an increased risk of breast and ovarian cancer.\n\nEducational objective: Retinoblastoma is associated with inactivating mutations of the RB1 tumor suppressor gene, which normally restricts cells from passing the G1/S checkpoint until the cell is ready to divide. Impaired function of the Rb protein allows unrestricted progression through the G1/S checkpoint, leading to uncontrolled cell division.",
+    "zh": "该患者的苍白红色反射和视网膜内边界清楚的白色肿块提示视网膜母细胞瘤。视网膜母细胞瘤是一种眼内肿瘤，由影响RB1肿瘤抑制基因的失活突变引起，随后导致细胞周期失调。细胞周期包括以下阶段：\n\n* 间隙期0期（G0期）是一个静止期，细胞周期被暂停。\n* 间期是细胞为分裂做准备的阶段。间期又细分为G1期（RNA、蛋白质、脂类和碳水化合物的合成）、S期（DNA复制）和G2期（ATP合成）。\n* 有丝分裂（M）是细胞分裂成两个子细胞的阶段。\n\n检查点发生在G1/S和G2/M转换时，如果细胞周期蛋白和细胞周期蛋白依赖性激酶检测到DNA受损，则允许停止细胞周期。DNA修复机制被激活，但如果DNA损伤过大，细胞会发生凋亡。\n\nRB1基因编码Rb蛋白，该蛋白调节G1/S检查点。在其活性形式中，Rb蛋白结合并抑制E2F转录因子，从而阻止细胞周期。相反，当细胞准备分裂时，Rb蛋白被细胞周期蛋白依赖性激酶磷酸化，允许细胞通过G1/S检查点。影响Rb蛋白的失功能突变导致细胞不受限制地通过G1/S检查点，导致细胞不受控制地分裂。诱发RB1突变与视网膜母细胞瘤和骨肉瘤有关。\n\n（选项A）许多受体酪氨酸激酶对细胞生长有刺激作用，并且受体活性增加发生在各种癌症中。例如，EGFR和MET的过度表达与非小细胞肺癌相关，HER2与乳腺癌相关。\n\n（选项B）由于KRAS突变导致的异常K-Ras GTPase功能阻止GTP转化为GDP，这导致MAPK通路的持续激活和细胞不受控制的增殖。KRAS突变与肺癌和结直肠癌有关，而不是视网膜母细胞瘤。\n\n（选项C）如果检测到DNA损伤，肿瘤抑制蛋白p53会在G1/S检查点阻断细胞周期，如果DNA修复失败，则启动细胞凋亡。p53的突变与大多数癌症有关，特别是Li-Fraumeni综合征（肉瘤、乳腺癌、白血病和肾上腺癌）。Rb和p53蛋白都是肿瘤抑制途径的关键组成部分，它们的功能相互补充以防止癌症进展。\n\n（选项E）BRCA1和BRCA2是已鉴定的许多DNA修复基因中的两个。当这些基因发生突变时，与乳腺癌和卵巢癌的风险增加相关。\n\n教育目标：视网膜母细胞瘤与RB1肿瘤抑制基因的失活突变有关，该基因通常限制细胞通过G1/S检查点，直到细胞准备好分裂。Rb蛋白的功能受损会使细胞不受限制地通过G1/S检查点，从而导致细胞不受控制地分裂。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the molecular mechanisms underlying retinoblastoma, specifically the role of the RB1 gene and its protein product in regulating the cell cycle. It assesses knowledge of tumor suppressor genes and their function in preventing uncontrolled cell proliferation.\n\nTo solve this question, one must first identify retinoblastoma as the likely diagnosis based on the clinical presentation. Then, recall or deduce that retinoblastoma is associated with mutations in the RB1 gene. Finally, understand the function of the Rb protein in cell cycle regulation, particularly its role in the G1/S checkpoint, to determine the correct answer.",
+    "zh": "此题考察对视网膜母细胞瘤的分子机制的理解，特别是RB1基因及其蛋白产物在调节细胞周期中的作用。它评估对肿瘤抑制基因及其在预防细胞不受控制增殖中的功能的了解。\n\n要解决此问题，首先必须根据临床表现确定视网膜母细胞瘤为可能的诊断。然后，回忆或推断出视网膜母细胞瘤与RB1基因的突变有关。最后，了解Rb蛋白在细胞周期调节中的功能，特别是其在G1/S检查点中的作用，以确定正确答案。"
+  },
+  "tags": "Retinoblastoma; RB1 gene; Tumor suppressor gene; Cell cycle regulation; G1/S checkpoint; Oncology; Genetics; Pediatric oncology",
+  "category": "Pathology",
+  "question_id": "1717",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\1717",
+  "extracted_at": "2025-11-05T19:44:04.764411",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:45:34.989513",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

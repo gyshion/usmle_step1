@@ -1,0 +1,73 @@
+{
+  "question_stem": {
+    "en": "A previously healthy 16-year-old boy is evaluated for progressive headaches and blurred vision that started several months ago. The headaches are more severe upon waking up in the morning and are often accompanied by nausea and vomiting. He takes no medications and does not use tobacco, alcohol, or illicit drugs. Physical examination is notable for bilateral papilledema. MRI of the brain is shown in the exhibit {{exhibit_1}}. This patient's brain lesion most likely originated from which of the following cells?",
+    "zh": "一名先前健康的 16 岁男孩因几个月前开始的进行性头痛和视力模糊而接受评估。头痛在早上醒来时更严重，并且经常伴有恶心和呕吐。他不服用任何药物，也不使用烟草、酒精或违禁药物。体格检查显示双侧视乳头水肿。大脑的 MRI 见展品 {{exhibit_1}}。 这位患者的脑部病变最可能起源于以下哪种细胞？"
+  },
+  "question": {
+    "en": "This patient's brain lesion most likely originated from which of the following cells?",
+    "zh": "这位患者的脑部病变最可能起源于以下哪种细胞？"
+  },
+  "options": {
+    "A": {
+      "en": "Astrocytes",
+      "zh": "星形胶质细胞"
+    },
+    "B": {
+      "en": "Ependymal cells",
+      "zh": "室管膜细胞"
+    },
+    "C": {
+      "en": "Microglia",
+      "zh": "小胶质细胞"
+    },
+    "D": {
+      "en": "Neurons",
+      "zh": "神经元"
+    },
+    "E": {
+      "en": "Oligodendrocytes",
+      "zh": "少突胶质细胞"
+    },
+    "F": {
+      "en": "Schwann cells",
+      "zh": "许旺细胞"
+    },
+    "G": {
+      "en": "Vascular endothelial cells",
+      "zh": "血管内皮细胞"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient with progressive headaches has an enhancing ventricular mass on MRI, consistent with a ventricular ependymoma. Ependymomas arise from ependymal cells, which line the walls of the ventricular system and the central canal of the spinal cord and produce cerebrospinal fluid. Choroid plexus tumors (derived from modified ependymal cells) can also be found in the lateral ventricles and have a similar appearance on MRI {{exhibit_2}}. \n\nIntraventricular tumors can cause obstructive (noncommunicating) hydrocephalus due to impaired flow of cerebrospinal fluid through the interventricular foramina. Hydrocephalus typically manifests with headache, signs of increased intracranial pressure (eg, nausea, papilledema, blurred vision), and dilated ventricles on neuroimaging {{exhibit_3}}. The diagnosis of ependymoma can be confirmed on histopathologic examination, which shows perivascular pseudorosettes {{exhibit_4}}.\n\n(Choice A) Astrocytes are the most prevalent type of glial cell in the CNS. Tumors derived from these cells (eg, astrocytoma, glioblastoma) can cause hydrocephalus due to mass effect but are typically found in the brain parenchyma as opposed to the ventricular system.\n\n(Choice C) Microglial cells are the phagocytic cells in the CNS. They are not the originators of any major types of CNS tumors.\n\n(Choice D) Brain tumors that arise from neuronal cells are rare, usually found in the brain parenchyma, and more likely to be of mixed neuronal-glial cell origin.\n\n(Choice E) Oligodendrocytes are glial cells that are responsible for the myelination of axons in the CNS. Well-differentiated brain tumors arising from oligodendrocytes are referred to as oligodendrogliomas. These tumors, like astrocytomas, occur in the brain parenchyma and not in the ventricular system.\n\n(Choice F) Schwann cells form myelin in the peripheral nervous system and serve as the cell of origin for schwannomas, which most commonly occur on upper extremity nerves. Schwannomas that arise from cranial nerves (eg, CN VII, acoustic neuromas) can cause hydrocephalus from mass effect due to their central location parenchyma as opposed to the ventricular system.\n\n(Choice G) Hemangioblastomas originate from vascular endothelial cells in the cerebellum or spinal cord. They characteristically appear as an enhancing nodule with a cystic component. These tumors often bleed, which can cause hydrocephalus due to dysfunction in cerebrospinal reabsorption at the arachnoid villi, but they do not originate from the ventricular wall. {{exhibit_5}} {{exhibit_6}}\n\nEducational objective:\nEpendymomas originate from the ependymal cells that line the ventricular system and the central canal of the spinal cord. Ventricular ependymomas can block the flow of cerebrospinal fluid through the interventricular foramina, causing signs of increased intracranial pressure (eg, headache, papilledema) due to obstructive (noncommunicating) hydrocephalus.",
+    "zh": "这位患有进行性头痛的患者在 MRI 上有一个增强的脑室肿块，这与室管膜瘤一致。室管膜瘤起源于室管膜细胞，这些细胞覆盖脑室系统和脊髓中央管的壁，并产生脑脊液。脉络丛肿瘤（源自改良的室管膜细胞）也可以在侧脑室中发现，并在 MRI 上具有相似的外观 {{exhibit_2}}。\n\n脑室内肿瘤可因脑脊液通过室间孔的流动受损而导致梗阻性（非交通性）脑积水。脑积水通常表现为头痛、颅内压增高征象（例如，恶心、视乳头水肿、视力模糊）和神经影像学检查中脑室扩张 {{exhibit_3}}。可以通过组织病理学检查确认室管膜瘤的诊断，该检查显示血管周围假菊形团 {{exhibit_4}}。\n\n（选项 A）星形胶质细胞是中枢神经系统中最常见的神经胶质细胞。源自这些细胞的肿瘤（例如，星形细胞瘤、胶质母细胞瘤）可因占位效应引起脑积水，但通常位于脑实质中，而不是脑室系统。\n\n（选项 C）小胶质细胞是中枢神经系统中的吞噬细胞。它们不是任何主要类型的 CNS 肿瘤的起源。\n\n（选项 D）源自神经元细胞的脑肿瘤很少见，通常位于脑实质中，并且更有可能是混合的神经元-神经胶质细胞起源。\n\n（选项 E）少突胶质细胞是负责中枢神经系统中轴突髓鞘形成的神经胶质细胞。源自少突胶质细胞的、分化良好的脑肿瘤被称为少突胶质细胞瘤。这些肿瘤，如星形细胞瘤一样，发生在脑实质中，而不是在脑室系统中。\n\n（选项 F）许旺细胞在外周神经系统中形成髓鞘，并作为许旺细胞瘤的起源细胞，许旺细胞瘤最常发生在上肢神经上。源自颅神经（例如，CN VII，听神经瘤）的许旺细胞瘤可因其中心位置的占位效应而引起脑积水，而不是脑室系统。\n\n（选项 G）血管母细胞瘤起源于小脑或脊髓中的血管内皮细胞。它们通常表现为具有囊性成分的增强结节。这些肿瘤经常出血，这可能由于蛛网膜绒毛中脑脊液再吸收功能障碍而引起脑积水，但它们并非起源于脑室壁。{{exhibit_5}} {{exhibit_6}}\n\n教学目标：\n室管膜瘤起源于覆盖脑室系统和脊髓中央管的室管膜细胞。脑室室管膜瘤可以阻塞脑脊液通过室间孔的流动，从而引起由于梗阻性（非交通性）脑积水引起的颅内压增高征象（例如，头痛、视乳头水肿）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of brain tumor origin, specifically ependymomas, and their association with obstructive hydrocephalus. It also requires understanding of the location and function of different glial cells in the central nervous system. \n\nTo solve this question, recognize the clinical presentation of increased intracranial pressure (headaches, papilledema) and the MRI findings of a ventricular mass. Recall that ependymomas arise from ependymal cells lining the ventricles, leading to obstructive hydrocephalus.",
+    "zh": "这个问题测试对脑肿瘤起源（特别是室管膜瘤）及其与梗阻性脑积水相关的知识。它还需要了解中枢神经系统中不同神经胶质细胞的位置和功能。\n\n要解决这个问题，需要认识到颅内压增高（头痛、视乳头水肿）的临床表现和脑室肿块的 MRI 结果。记住室管膜瘤起源于覆盖脑室的室管膜细胞，从而导致梗阻性脑积水。"
+  },
+  "tags": "Ependymoma; Hydrocephalus; Intracranial pressure; Ependymal cells; Brain tumor; Neurology; Neurosurgery; MRI; Glial cells",
+  "category": "Neuro",
+  "question_id": "15638",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\15638",
+  "extracted_at": "2025-11-05T15:18:25.631727",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:20:27.181886",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

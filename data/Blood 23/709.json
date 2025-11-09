@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 57-year-old female presents to the emergency department after vomiting a substance that resembled \"coffee grounds.\" She reports that she now feels lightheaded as well. Her past medical history is significant for deep venous thromboses, for which she takes warfarin, and occasional joint pain, for which she takes aspirin. Her blood pressure is 90/60 mm Hg and her pulse is 110 beats per minute.",
+    "zh": "一名57岁女性因呕吐类似“咖啡渣”的物质到急诊科就诊。她报告说，她现在也感到头昏眼花。她的既往病史包括深静脉血栓形成，为此她服用华法林，以及偶尔的关节疼痛，为此她服用阿司匹林。她的血压为90/60 mmHg，脉搏为每分钟110次。"
+  },
+  "question": {
+    "en": "Which of the following substances would provide the fastest reversal of warfarin's effects?",
+    "zh": "以下哪种物质能最快逆转华法林的药效？"
+  },
+  "options": {
+    "A": {
+      "en": "Vitamin K",
+      "zh": "维生素K"
+    },
+    "B": {
+      "en": "Protamine",
+      "zh": "鱼精蛋白"
+    },
+    "C": {
+      "en": "Aminocaproic acid",
+      "zh": "氨基己酸"
+    },
+    "D": {
+      "en": "Fresh frozen plasma",
+      "zh": "新鲜冰冻血浆"
+    },
+    "E": {
+      "en": "Cryoprecipitate",
+      "zh": "冷沉淀"
+    },
+    "F": {
+      "en": "Desmopressin",
+      "zh": "去氨加压素"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Warfarin is the most commonly used agent for long-term anticoagulation in the setting of venous thromboses and pulmonary thromboembolism. Warfarin inhibits the vitamin K dependent γ-carboxylation of the glutamic acid residues of clotting factors II, VII, IX and X, causing production of dysfunctional coagulation proteins.\n\nThe therapeutic effect of warfarin is monitored by measuring the prothrombin time (PT). The international normalized ratio (INR) is a standardized PT. The target INR for therapeutic warfarin anticoagulation is 2-3. Treatment of life-threatening bleeding requires rapid reversal using fresh frozen plasma. Vitamin K can help to reverse warfarin action, but the effects take time.\n\n(Choice B) Protamine is used for heparin reversal. It acts by binding and chemically inactivating heparin.\n\n(Choice C) Aminocaproic acid is an antifibrinolytic agent that inhibits plasminogen activators and, to a lesser degree, antiplasmin activity. Aminocaproic acid helps achieve hemostasis when fibrinolysis is the cause of bleeding.\n\n(Choice E) Whereas fresh frozen plasma contains all of the coagulation factors, cryoprecipitate contains only cold-soluble proteins (Factor VIII, fibrinogen, von Willebrand factor and vitronectin).\n\n(Choice F) Desmopressin is a synthetic analogue of anti-diuretic hormone (ADH) used in the treatment of diabetes insipidus. At high doses, desmopressin increases factor VIII activity in patients with hemophilia A and von Willebrand disease. High-dose desmopressin can help control bleeding associated with these disorders.\n\nEducational Objective:\nBoth vitamin K and fresh frozen plasma are used for reversing warfarin-induced anticoagulation. Fresh frozen plasma rapidly reverses warfarin's effects whereas vitamin K requires time for clotting factor re-synthesis.",
+    "zh": "华法林是在静脉血栓形成和肺栓塞情况下最常用的长期抗凝剂。华法林抑制维生素K依赖性凝血因子II、VII、IX和X的谷氨酸残基的γ-羧化，导致产生功能失调的凝血蛋白。\n\n华法林的治疗效果通过测量凝血酶原时间 (PT) 进行监测。国际标准化比值 (INR) 是标准化的PT。华法林抗凝治疗的靶INR为2-3。治疗危及生命的出血需要使用新鲜冰冻血浆进行快速逆转。维生素K有助于逆转华法林的作用，但效果需要时间。\n\n(选项B) 鱼精蛋白用于肝素逆转。它通过结合并化学性灭活肝素起作用。\n\n(选项C) 氨基己酸是一种抗纤溶剂，可抑制纤溶酶原激活剂，并在较小程度上抑制抗纤溶酶活性。当纤溶是出血的原因时，氨基己酸有助于达到止血。\n\n(选项E) 虽然新鲜冰冻血浆包含所有凝血因子，但冷沉淀仅包含冷溶性蛋白（凝血因子VIII、纤维蛋白原、von Willebrand因子和纤连蛋白）。\n\n(选项F) 去氨加压素是抗利尿激素 (ADH) 的合成类似物，用于治疗尿崩症。在高剂量下，去氨加压素可增加血友病A型和von Willebrand病患者的凝血因子VIII活性。高剂量去氨加压素可帮助控制与这些疾病相关的出血。\n\n教育目标：\n维生素K和新鲜冰冻血浆都用于逆转华法林引起的抗凝。新鲜冰冻血浆可快速逆转华法林的作用，而维生素K则需要时间来重新合成凝血因子。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the management of warfarin-induced bleeding, specifically the agents used for rapid reversal of anticoagulation. It requires understanding the mechanism of action of warfarin and the different reversal agents available.\n\nThe best approach is to recognize the patient is on warfarin and is bleeding. Then, consider the options for rapid reversal of warfarin's effects, remembering that fresh frozen plasma provides immediate clotting factors, while vitamin K requires time for synthesis.",
+    "zh": "这个问题考察了对华法林引起的出血的管理知识，特别是用于快速逆转抗凝的药物。它需要了解华法林的作用机制和可用的不同逆转剂。\n\n最好的方法是识别患者正在服用华法林并正在出血。然后，考虑快速逆转华法林作用的选项，记住新鲜冰冻血浆可立即提供凝血因子，而维生素K需要时间来合成。"
+  },
+  "tags": "Warfarin; Anticoagulation; Fresh frozen plasma; Vitamin K; Gastrointestinal bleeding; Hematology; Coagulation factors",
+  "category": "Blood",
+  "question_id": "709",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\709",
+  "extracted_at": "2025-11-05T11:33:49.849832",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:32:00.030485",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

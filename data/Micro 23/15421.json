@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 68-year-old man comes to the emergency department due to 3 days of progressive abdominal pain, nausea, and vomiting. Temperature is 38.3 C (101 F), blood pressure is 90/60 mm Hg, and pulse is 110/min. Physical examination shows left lower quadrant abdominal tenderness with guarding. CT scan of the abdomen shows acute sigmoid diverticulitis with diverticular abscess. Aerobic blood cultures are negative, but anaerobic blood cultures grow *Bacteroides fragilis*.",
+    "zh": "一名68岁男性因进行性腹痛、恶心和呕吐3天而来到急诊科就诊。体温38.3摄氏度（101华氏度），血压90/60毫米汞柱，脉搏110次/分。体格检查显示左下腹压痛伴腹肌紧张。腹部CT扫描显示急性乙状结肠憩室炎伴憩室脓肿。需氧血培养阴性，但厌氧血培养生长出脆弱拟杆菌。"
+  },
+  "question": {
+    "en": "Which of the following mechanisms most likely allows these bacteria to survive in the blood circulation?",
+    "zh": "以下哪种机制最有可能使这些细菌在血液循环中存活？"
+  },
+  "options": {
+    "A": {
+      "en": "Formation of spores",
+      "zh": "孢子形成"
+    },
+    "B": {
+      "en": "Production of catalase and superoxide dismutase",
+      "zh": "产生过氧化氢酶和超氧化物歧化酶"
+    },
+    "C": {
+      "en": "Secretion of a biofilm layer",
+      "zh": "分泌生物膜层"
+    },
+    "D": {
+      "en": "Uptake of nutrients produced by other bacteria",
+      "zh": "摄取由其他细菌产生的营养物质"
+    },
+    "E": {
+      "en": "Use of oxygen as a terminal electron acceptor",
+      "zh": "使用氧作为末端电子受体"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Bacteria are classified based on whether they use oxygen as a terminal electron acceptor to generate energy:\n\n*   Aerobic organisms require oxygen for metabolism and cannot grow in its absence (**Choice E**).\n*   **Anaerobic organisms** generate energy using fermentation (reducing organic compounds) or anaerobic respiration using other electron acceptors (eg, sulfates).\n*   Facultative organisms preferentially utilize oxygen to generate energy but can also use fermentation or anaerobic respiration when oxygen is absent.\n\nIn oxygen-rich environments, oxygen is spontaneously reduced by organic intracellular compounds (eg, flavins, flavoproteins, thiols) into reactive molecules (eg, **superoxide anions**, hydrogen peroxide, **free hydroxyl radicals**) that can cause cellular injury and death. Therefore, to survive oxygen-rich environments, bacteria produce enzymes that eliminate these toxic oxygen byproducts, including:\n\n*   superoxide dismutase, which converts superoxide anions into ground-state oxygen and hydrogen peroxide.\n*   catalase or peroxidase, which convert hydrogen peroxide to water.\n\nAnaerobic organisms are typically much less tolerant of oxygen exposure than aerobic and facultative bacteria. However, certain anaerobes (eg, *Bacteroides fragilis*) can survive in oxygen-rich environments by producing enough of these enzymes to eliminate toxic oxygen metabolites, allowing them to spread through the bloodstream.\n\n(**Choice A**) Some anaerobic species (eg, *Clostridium*) produce spores to help them survive harsh environmental conditions, such as extreme heat, dryness, or chemical disinfectants. However, spore-forming bacteria are typically vegetative at body temperature and do not form spores to survive in the bloodstream.\n\n(**Choice C**) Bacteria such as *Pseudomonas aeruginosa* and coagulase-negative *Staphylococcus* can generate biofilms (extracellular polysaccharide slime) to help colonize surfaces and prevent phagocytosis, complement-mediated destruction, and antibiotic penetration. *Bacteroides* does not usually form biofilms.\n\n(**Choice D**) *Haemophilus influenzae* requires NAD from the environment to grow; NAD can be derived from host tissues or supplied by other bacteria, such as *Staphylococcus* species.\n\nEducational objective:\nAlthough oxygen is relatively toxic to anaerobic organisms, some can tolerate oxygen exposure due to the expression of enzymes (eg, superoxide dismutase, catalase, peroxidase) that neutralize toxic oxygen byproducts.",
+    "zh": "细菌根据其是否使用氧作为末端电子受体来产生能量进行分类：\n\n*   需氧生物体需要氧来进行新陈代谢，并且在没有氧气的情况下无法生长（**选项 E**）。\n*   **厌氧生物体**利用发酵（还原有机化合物）或厌氧呼吸（使用其他电子受体，如硫酸盐）来产生能量。\n*   兼性生物体优先利用氧气产生能量，但当没有氧气时，也可以使用发酵或厌氧呼吸。\n\n在富氧环境中，氧气会被细胞内有机化合物（例如，黄素、黄素蛋白、硫醇）自发还原成反应性分子（例如，**超氧阴离子**、过氧化氢、**自由羟基**），这些分子会导致细胞损伤和死亡。因此，为了在富氧环境中生存，细菌会产生酶来消除这些有毒的氧气副产物，包括：\n\n*   超氧化物歧化酶，它将超氧阴离子转化为基态氧和过氧化氢。\n*   过氧化氢酶或过氧化物酶，它将过氧化氢转化为水。\n\n厌氧生物体通常比需氧和兼性细菌对氧气的耐受性低得多。然而，某些厌氧菌（例如，脆弱拟杆菌）可以通过产生足够的这些酶来消除有毒的氧代谢产物，从而在富氧环境中存活，从而使它们能够在血流中传播。\n\n（**选项 A**）一些厌氧菌（例如，梭菌属）产生孢子以帮助它们在恶劣的环境条件下生存，例如极端高温、干燥或化学消毒剂。然而，产生孢子的细菌在体温下通常是营养体，并且不会形成孢子以在血液循环中存活。\n\n（**选项 C**）细菌，如铜绿假单胞菌和凝固酶阴性葡萄球菌，可以产生生物膜（细胞外多糖黏液）来帮助定植表面并防止吞噬作用、补体介导的破坏和抗生素渗透。拟杆菌通常不形成生物膜。\n\n（**选项 D**）流感嗜血杆菌需要来自环境的 NAD 才能生长；NAD 可以从宿主组织中获得，也可以由其他细菌（如葡萄球菌属）提供。\n\n教育目标：\n虽然氧气对厌氧生物体具有相对毒性，但有些生物体可以通过表达酶（例如，超氧化物歧化酶、过氧化氢酶、过氧化物酶）来耐受氧气暴露，这些酶可中和有毒的氧气副产物。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of anaerobic bacteria survival mechanisms in oxygen-rich environments, specifically focusing on how *Bacteroides fragilis* tolerates oxygen exposure. It requires understanding of enzymes like superoxide dismutase and catalase and their role in neutralizing toxic oxygen byproducts. \n\nThe best approach is to recall that anaerobic bacteria are susceptible to oxygen toxicity. Then, consider the mechanisms that would allow them to survive in the presence of oxygen, such as producing enzymes that neutralize toxic oxygen radicals. Eliminate options that are not related to oxygen tolerance or are not characteristic of *Bacteroides*.",
+    "zh": "这个问题测试了关于厌氧细菌在富氧环境中生存机制的知识，特别是侧重于脆弱拟杆菌如何耐受氧气暴露。它需要了解超氧化物歧化酶和过氧化氢酶等酶及其在中和有毒氧气副产物中的作用。\n\n最好的方法是回忆起厌氧细菌对氧气毒性敏感。然后，考虑那些能够使它们在有氧气存在下生存的机制，例如产生中和有毒氧自由基的酶。排除与氧气耐受性无关或不是脆弱拟杆菌特征的选项。"
+  },
+  "tags": "Bacteroides fragilis; Anaerobic bacteria; Superoxide dismutase; Catalase; Oxygen toxicity; Microbiology; Bacterial survival; Diverticulitis; Abscess",
+  "category": "Micro",
+  "question_id": "15421",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\15421",
+  "extracted_at": "2025-11-05T14:59:36.091858",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:09:00.228649",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

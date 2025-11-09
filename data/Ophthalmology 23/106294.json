@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old woman comes to the office to establish medical care. The patient reports no symptoms. Medical history is significant for migraine headaches for which she takes acetaminophen and naproxen as needed. Vital signs are within normal limits. Physical examination is unremarkable except for anisocoria. Pupillary examination findings in normal, bright, and dim light are shown in the image below: {{exhibit_1}} {{exhibit_2}} {{exhibit_3}}",
+    "zh": "一位32岁的女性前来就诊以建立医疗护理。患者自诉无症状。病史显示有偏头痛，根据需要服用对乙酰氨基酚和萘普生。生命体征在正常范围内。体格检查无特殊发现，除了瞳孔大小不等。以下图像显示了在正常光线、强光和暗光下的瞳孔检查结果：{{exhibit_1}} {{exhibit_2}} {{exhibit_3}}"
+  },
+  "question": {
+    "en": "This patient's pupillary abnormality is likely due to a defect in which of the following pathways?",
+    "zh": "该患者的瞳孔异常可能由于以下哪条通路出现缺陷所致？"
+  },
+  "options": {
+    "A": {
+      "en": "Optic nerve of the left eye",
+      "zh": "左眼视神经"
+    },
+    "B": {
+      "en": "Optic nerve of the right eye",
+      "zh": "右眼视神经"
+    },
+    "C": {
+      "en": "Parasympathetic innervation of the left eye",
+      "zh": "左眼副交感神经支配"
+    },
+    "D": {
+      "en": "Parasympathetic innervation of the right eye",
+      "zh": "右眼副交感神经支配"
+    },
+    "E": {
+      "en": "Sympathetic innervation of the left eye",
+      "zh": "左眼交感神经支配"
+    },
+    "F": {
+      "en": "Sympathetic innervation of the right eye",
+      "zh": "右眼交感神经支配"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has incidental anisocoria (asymmetric pupils). Pupil size is governed by the balance between ocular sympathetic (dilation) and parasympathetic (constriction) efferents to the iris. These responses are tested by examining the pupils in bright and dim light:\n\n*   In bright light, the parasympathetic pathway is dominant. With parasympathetic defects, pupillary constriction occurs in the \"good\" eye but not the \"bad,\" causing the difference between pupils to widen (ie, anisocoria increases) in bright light. The larger pupil is abnormal (Choice C).\n*   In dim light, the sympathetic pathway becomes dominant. With sympathetic defects, pupillary dilation occurs in the \"good\" eye but not the \"bad,\" causing anisocoria to increase in the dark. The smaller pupil is abnormal.\n\nThis patient's anisocoria increases in bright light, consistent with a parasympathetic defect causing her right pupil to not constrict properly in response to light; the unaffected left pupil constricts normally. In the dark, both pupils dilate because sympathetic input is intact bilaterally; a small degree of anisocoria will still be present because basal parasympathetic activity is reduced in the left eye.\n\n(Choices A and B) The visual pathway carries afferent signals from the retina to the visual cortex. Lesions preceding the optic chiasm (eg, retina, optic nerve [CN II]) cause monocular vision loss; however, pupils remain symmetric (no anisocoria) with ambient lighting because the efferent sympathetic or parasympathetic tracts are not involved. Instead, prechiasmatic visual pathway lesions cause a relative afferent pupillary defect. When light is shone in the affected eye, no signal is transmitted, so pupillary constriction is equally impaired bilaterally.\n\n(Choices E and F) With sympathetic defects (eg, damage to cervical sympathetic chain or ganglia), the affected pupil cannot properly dilate, so anisocoria increases in dim light. In response to bright light, both pupils constrict because parasympathetic innervation is intact bilaterally, and the anisocoria is reduced.\n\nEducational objective:\nAnisocoria (asymmetric pupils) is caused by a lesion in the ocular parasympathetic (constriction) or sympathetic (dilation) pathways. In this patient, anisocoria increases in bright light, indicating that the larger right pupil is unable to constrict due to a defect in the right parasympathetic pathway. {{exhibit_1}} {{exhibit_2}} {{exhibit_3}}",
+    "zh": "该患者有偶然发现的瞳孔大小不等（瞳孔不对称）。瞳孔大小由眼部交感神经（扩张）和副交感神经（收缩）传出神经支配虹膜之间的平衡控制。这些反应通过检查明暗光线下的瞳孔来测试：\n\n*   在强光下，副交感神经通路占主导地位。在副交感神经缺陷的情况下，瞳孔收缩发生在“好的”眼睛，而不是“坏的”眼睛，导致瞳孔之间的差异在强光下扩大（即，瞳孔大小不等增加）。较大的瞳孔是异常的（选项 C）。\n*   在暗光下，交感神经通路变得占主导地位。在交感神经缺陷的情况下，瞳孔扩张发生在“好的”眼睛，而不是“坏的”眼睛，导致瞳孔大小不等在黑暗中增加。较小的瞳孔是异常的。\n\n该患者的瞳孔大小不等在强光下增加，这与副交感神经缺陷一致，导致其右侧瞳孔对光线的反应无法正确收缩；未受影响的左侧瞳孔正常收缩。在黑暗中，双侧瞳孔都扩张，因为交感神经输入是完整的；由于左眼的基础副交感神经活动降低，仍然会存在轻微的瞳孔大小不等。\n\n（选项 A 和 B）视觉通路将传入信号从视网膜传递到视觉皮层。视交叉前病变（例如，视网膜、视神经[脑神经 II]）会导致单眼视力丧失；然而，在环境光线下，瞳孔保持对称（无瞳孔大小不等），因为传出交感神经或副交感神经束未受累。相反，视交叉前视觉通路病变会导致相对传入瞳孔缺陷。当光线照射到受影响的眼睛时，没有信号被传递，因此双侧瞳孔收缩同样受损。\n\n（选项 E 和 F）对于交感神经缺陷（例如，颈交感神经链或神经节损伤），受影响的瞳孔无法正确扩张，因此在暗光下，瞳孔大小不等增加。响应强光时，双侧瞳孔都会收缩，因为副交感神经支配双侧完整，瞳孔大小不等减少。\n\n教育目标：\n瞳孔大小不等（瞳孔不对称）是由眼部副交感神经（收缩）或交感神经（扩张）通路的病变引起的。在该患者中，瞳孔大小不等在强光下增加，表明较大的右侧瞳孔由于右侧副交感神经通路缺陷而无法收缩。{{exhibit_1}} {{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests the understanding of pupillary light reflexes and the pathways involved in pupillary constriction and dilation. It assesses the ability to differentiate between parasympathetic and sympathetic pathway defects based on the pattern of anisocoria in bright and dim light.\n\nTo solve this question, one must first analyze the pupillary examination findings in different lighting conditions. The key is to determine whether the anisocoria is worse in bright light (suggesting a parasympathetic defect) or dim light (suggesting a sympathetic defect) and then localize the defect to the affected side.",
+    "zh": "此题测试对瞳孔光反射以及参与瞳孔收缩和扩张的通路的理解。它评估了根据强光和暗光下瞳孔大小不等的模式来区分副交感神经和交感神经通路缺陷的能力。\n\n要解决此题，必须首先分析不同光照条件下的瞳孔检查结果。关键是要确定瞳孔大小不等是在强光下更严重（提示副交感神经缺陷）还是在暗光下更严重（提示交感神经缺陷），然后将缺陷定位到受影响的一侧。"
+  },
+  "tags": "Anisocoria; Pupillary light reflex; Parasympathetic pathway; Sympathetic pathway; Ocular neurology; Neuroanatomy; Physical examination",
+  "category": "Ophthalmology",
+  "question_id": "106294",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ophthalmology 23\\106294",
+  "extracted_at": "2025-11-05T19:42:29.242592",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:44:11.382313",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

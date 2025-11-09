@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 60-year-old woman comes to the emergency department due to shortness of breath and productive cough. The patient has a 30-pack-year smoking history. Oxygen saturation is 88% on room air. On physical examination, she appears uncomfortable and uses her accessory respiratory muscles to breathe. Expiratory wheezes are heard throughout the lungs. The patient is started on high-flow oxygen supplementation. Shortly afterward, she becomes increasingly lethargic and confused. This patient's clinical decline is most likely attributable to an increase in which of the following parameters? {{exhibit_1}}",
+    "zh": "一名60岁女性因呼吸困难和咳嗽带痰到急诊科就诊。患者有30包年吸烟史。在室内空气中，氧饱和度为88%。体格检查显示，患者感觉不适，并使用辅助呼吸肌呼吸。全肺可闻及呼气性哮鸣音。患者开始接受高流量氧气补充。不久之后，她变得越来越嗜睡和意识模糊。该患者的临床状况恶化最可能归因于以下哪项参数的增加？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "This patient's clinical decline is most likely attributable to an increase in which of the following parameters?",
+    "zh": "该患者的临床状况恶化最可能归因于以下哪项参数的增加？"
+  },
+  "options": {
+    "A": {
+      "en": "Pulmonary vascular resistance",
+      "zh": "肺血管阻力"
+    },
+    "B": {
+      "en": "Reactive oxygen species production",
+      "zh": "活性氧产生"
+    },
+    "C": {
+      "en": "Renal bicarbonate reabsorption",
+      "zh": "肾脏重吸收碳酸氢盐"
+    },
+    "D": {
+      "en": "Respiratory minute ventilation",
+      "zh": "呼吸分钟通气量"
+    },
+    "E": {
+      "en": "Ventilation-perfusion mismatch",
+      "zh": "通气/血流比例失调"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's clinical presentation (ie, dyspnea, productive cough, hypoxemia, expiratory wheezing, accessory muscle use, smoking history) is consistent with a CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD) exacerbation. Supplemental oxygen may be warranted in patients with COPD who have significant hypoxemia; however, administration of excessively high oxygen concentrations can lead to increased CO2 retention (oxygen-induced hypercapnia), resulting in confusion and a depressed level of consciousness (eg, lethargy).\n\nSeveral mechanisms contribute to oxygen-induced hypercapnia, but the major cause is increased VENTILATION-PERFUSION MISMATCH. Hypoxia causes vasoconstriction of the pulmonary arterioles, which acts to shunt blood toward alveoli with the highest ventilation, thereby minimizing physiologic dead space. Providing high-concentration supplemental oxygen allows lung regions with relatively poor ventilation to have higher oxygen levels, reversing pulmonary vasoconstriction. The redistribution of blood flow away from well-ventilated alveoli leads to an increase in physiologic dead space (well-ventilated alveoli are less perfused) with a corresponding reduction in CO2 excretion.\n\n(Choice A) Oxygen administration alleviates hypoxic pulmonary vasoconstriction, causing an overall decrease in pulmonary vascular resistance.\n\n(Choice B) Hyperoxia can increase production of reactive oxygen species (eg, superoxide, hydroxyl radical, hydrogen peroxide), leading to injury of the airways and lung parenchyma. Oxygen toxicity typically manifests with substernal heaviness, pleuritic chest pain, and cough/dyspnea within 24 hours after breathing pure oxygen.\n\n(Choice C) In patients with hypercapnia and respiratory acidosis, the kidneys compensate by increasing bicarbonate reabsorption and normalizing the serum pH level. This response occurs slowly over several days and would tend to ameliorate the effects of hypercapnia.\n\n(Choice D) Peripheral chemoreceptors in the carotid and aortic bodies sense arterial PaO2 and are normally stimulated by hypoxemia. High-flow oxygen reduces chemoreceptor stimulation, resulting in a decreased (not increased) respiratory rate and minute ventilation.\n\nEducational objective:\nSupplemental oxygen administration in patients with chronic obstructive pulmonary disease can lead to increased CO2 retention (oxygen-induced hypercapnia) resulting in confusion and depressed consciousness. The major cause is reversal of hypoxic pulmonary vasoconstriction, which increases physiologic dead space as blood is shunted away from well-ventilated alveoli.",
+    "zh": "该患者的临床表现（即，呼吸困难、咳嗽带痰、低氧血症、呼气性哮鸣音、辅助肌使用、吸烟史）与慢性阻塞性肺病（COPD）急性加重相符。对于有显著低氧血症的COPD患者，可能需要补充氧气；然而，给予过高浓度的氧气会导致CO2潴留增加（氧诱导性高碳酸血症），导致意识模糊和意识水平下降（例如，嗜睡）。\n\n多种机制导致氧诱导性高碳酸血症，但主要原因是通气/血流比例失调增加。低氧血症导致肺动脉小动脉收缩，这会使血液流向通气量最高的肺泡，从而最大限度地减少生理无效腔。提供高浓度补充氧气允许通气相对较差的肺部区域具有更高的氧气水平，从而逆转肺血管收缩。血流从通气良好的肺泡重新分布会导致生理无效腔增加（通气良好的肺泡灌注减少），并相应地减少CO2的排出。\n\n（选项A）氧气给药缓解了低氧性肺血管收缩，导致肺血管阻力总体降低。\n\n（选项B）高氧血症可增加活性氧（例如，超氧化物、羟基自由基、过氧化氢）的产生，从而导致气道和肺实质的损伤。氧中毒通常表现为胸骨后沉重感、胸膜炎性胸痛，以及在吸入纯氧后24小时内出现咳嗽/呼吸困难。\n\n（选项C）在患有高碳酸血症和呼吸性酸中毒的患者中，肾脏通过增加重吸收碳酸氢盐和使血清pH值正常化来代偿。这种反应在几天内缓慢发生，并倾向于改善高碳酸血症的影响。\n\n（选项D）颈动脉体和主动脉体中的外周化学感受器感知动脉血PaO2，通常由低氧血症刺激。高流量氧气减少了化学感受器的刺激，导致呼吸频率和分钟通气量降低（而不是增加）。\n\n教学目标：\n慢性阻塞性肺病患者补充氧气可导致CO2潴留增加（氧诱导性高碳酸血症），导致意识模糊和意识抑郁。主要原因是逆转了低氧性肺血管收缩，这会增加生理无效腔，因为血液从通气良好的肺泡分流。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of oxygen-induced hypercapnia in COPD patients, specifically the mechanism of ventilation-perfusion mismatch. It assesses understanding of how supplemental oxygen can worsen CO2 retention due to reversal of hypoxic pulmonary vasoconstriction. \n\nThe best approach is to recognize the COPD exacerbation and the patient's declining mental status after oxygen administration. Consider the potential for oxygen-induced hypercapnia and its underlying mechanisms, particularly the impact on ventilation-perfusion matching.",
+    "zh": "本题考察了COPD患者中氧诱导性高碳酸血症的知识，特别是通气/血流比例失调的机制。它评估了对补充氧气如何因逆转低氧性肺血管收缩而加重CO2潴留的理解。\n\n最好的方法是识别COPD的急性加重和患者在吸氧后的精神状态下降。考虑氧诱导性高碳酸血症的可能性及其潜在机制，特别是对通气/血流匹配的影响。"
+  },
+  "tags": "Chronic obstructive pulmonary disease (COPD); Oxygen-induced hypercapnia; Ventilation-perfusion mismatch; Respiratory physiology; Pulmonary vasoconstriction",
+  "category": "Chest",
+  "question_id": "12141",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\12141",
+  "extracted_at": "2025-11-05T11:36:52.069421",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:33:51.132188",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 28-year-old woman, gravida 1 para 0, at 16 weeks gestation comes to the office for a prenatal visit. The patient feels well and has no concerns. Medical history is significant for recurrent urinary tract infections. Her only medication is a prenatal multivitamin. Blood pressure is 116/68 mm Hg and pulse is 80/min. Physical examination shows no abnormalities and fetal heart tones are normal. Urine dipstick reveals no blood or leukocyte esterase but is positive for protein. Laboratory testing shows the following: {{exhibit_1}} A 24-hour urinary protein excretion is 200 mg. Which of the following processes is most likely contributing to this patient's urinary findings?",
+    "zh": "一位28岁的女性，孕1产0，妊娠16周，前来就诊进行产前检查。患者感觉良好，无任何担忧。病史中值得关注的是反复发生的尿路感染。她唯一的药物是产前复合维生素。血压为116/68 mm Hg，脉搏为80次/分钟。体格检查未见异常，胎心音正常。尿液试纸显示无血或白细胞酯酶，但蛋白呈阳性。实验室检查结果如下：{{exhibit_1}} 24小时尿蛋白排泄量为200 mg。以下哪种过程最有可能导致该患者的尿液检查结果？"
+  },
+  "question": {
+    "en": "Which of the following processes is most likely contributing to this patient's urinary findings?",
+    "zh": "以下哪种过程最有可能导致该患者的尿液检查结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Effacement of podocyte foot processes",
+      "zh": "足细胞足突消失"
+    },
+    "B": {
+      "en": "Generalized endothelial dysfunction",
+      "zh": "全身性内皮功能障碍"
+    },
+    "C": {
+      "en": "Increased glomerular filtration rate",
+      "zh": "肾小球滤过率增加"
+    },
+    "D": {
+      "en": "Increased mesangial extracellular matrix",
+      "zh": "系膜细胞外基质增加"
+    },
+    "E": {
+      "en": "Shedding of injured tubular epithelial cells",
+      "zh": "受损肾小管上皮细胞脱落"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "During pregnancy, blood volume and cardiac output both increase physiologically due to greater metabolic demands and in preparation for expected blood loss with delivery. As a result, the maternal kidneys experience increased renal blood flow and must process greater volumes of plasma through the glomeruli, leading to increased glomerular filtration rate (GFR). {{exhibit_2}} During pregnancy, the release of placental hormones also increases glomerular basement membrane permeability, which allows for increased leakage of protein into the tubular lumen, and leads to decreased renal tubular protein resorption. These factors, along with increased GFR, contribute to trace proteinuria (ie, <300 mg/24 hr), which is a normal finding in pregnancy. \n\n(Choice A) Effacement of podocyte foot processes, which occurs in minimal change disease, impairs glomerular filtration and leads to significant proteinuria (eg, 24-hour urinary protein excretion ≥300 mg) and potential nephrotic syndrome (eg, rapid-onset edema) due to selective urinary loss of albumin. \n\n(Choice B) Generalized renal endothelial dysfunction is likely the mechanism of renal insufficiency associated with preeclampsia, which typically presents with new-onset hypertension and a 24-hour urinary protein excretion ≥300 mg. This patient is normotensive. \n\n(Choice D) The mesangial extracellular matrix is formed by protein (eg, fibronectin, laminin) deposits from glomerular mesangial cells and provides structural support for glomerular capillary loops. Accumulation of extracellular matrix proteins occurs in diabetic nephropathy; however, this patient has no history of diabetes mellitus and has a normal serum glucose level. \n\n(Choice E) Shedding of injured tubular epithelial cells occurs with acute tubular necrosis. Patients typically have elevated creatinine levels and muddy brown casts on urinalysis, which are not seen in this patient.",
+    "zh": "在妊娠期间，由于代谢需求增加以及为分娩时预期的失血做准备，血容量和心输出量都会生理性增加。因此，孕妇的肾脏经历肾血流量增加，并且必须通过肾小球处理更大体积的血浆，从而导致肾小球滤过率（GFR）增加。{{exhibit_2}} 在妊娠期间，胎盘激素的释放也会增加肾小球基底膜的通透性，这使得更多的蛋白质渗漏到肾小管腔内，并导致肾小管对蛋白质的重吸收减少。这些因素，以及GFR的增加，导致微量蛋白尿（即，<300 mg/24小时），这是妊娠中的一个正常发现。\n\n（选项A） 足细胞足突消失，发生在微小病变中，损害肾小球滤过，导致显著蛋白尿（例如，24小时尿蛋白排泄量≥300 mg）和潜在的肾病综合征（例如，快速发作的水肿），这是由于选择性尿白蛋白流失所致。\n\n（选项B） 全身性肾内皮功能障碍可能是与先兆子痫相关的肾功能不全的机制，先兆子痫通常表现为新发高血压和24小时尿蛋白排泄量≥300 mg。该患者血压正常。\n\n（选项D） 系膜细胞外基质由来自肾小球系膜细胞的蛋白质（例如，纤连蛋白、层粘连蛋白）沉积形成，并为肾小球毛细血管袢提供结构支持。细胞外基质蛋白的积累发生在糖尿病肾病中；然而，该患者没有糖尿病病史，且血清葡萄糖水平正常。\n\n（选项E） 受损肾小管上皮细胞的脱落发生在急性肾小管坏死中。患者通常有肌酐水平升高和尿液分析中出现泥褐色管型，这些在该患者中未见。"
+  },
+  "summary": {
+    "en": "The patient is a pregnant woman with trace proteinuria, which is a normal finding in pregnancy due to increased glomerular filtration rate and increased glomerular basement membrane permeability.",
+    "zh": "该患者是一名孕妇，有微量蛋白尿，这在妊娠中是正常的，是由于肾小球滤过率增加和肾小球基底膜通透性增加所致。"
+  },
+  "tags": [
+    "pregnancy",
+    "proteinuria",
+    "glomerular filtration rate",
+    "renal physiology"
+  ],
+  "category": "Pregnancy",
+  "question_id": "19178",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pregnancy 23\\19178",
+  "extracted_at": "2025-11-05T19:46:49.090788",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:48:44.692714",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A diarrheal outbreak is reported at a private school in Columbus, Ohio. Six healthy children age 10-11 and two teachers developed acute vomiting and diarrhea within a 2-day period. They describe the diarrhea as watery and without blood or mucus. Three of those affected are febrile during their illness. None of the patients have traveled abroad recently, and all are up to date with their vaccinations. Stool test results are pending.",
+    "zh": "俄亥俄州哥伦布市一所私立学校报告发生腹泻疫情。6名10-11岁的健康儿童和2名教师在2天内出现急性呕吐和腹泻。他们描述腹泻为水样便，无血或黏液。受影响的人中有3人在患病期间发烧。所有患者最近均未出国旅行，且都按时接种了疫苗。粪便检测结果待定。"
+  },
+  "question": {
+    "en": "Which of the following pathogens is the most likely cause of the illness?",
+    "zh": "以下哪种病原体最有可能导致该疾病？"
+  },
+  "options": {
+    "A": {
+      "en": "Adenovirus",
+      "zh": "腺病毒"
+    },
+    "B": {
+      "en": "Campylobacter jejuni",
+      "zh": "空肠弯曲菌"
+    },
+    "C": {
+      "en": "Clostridioides (formerly Clostridium) difficile",
+      "zh": "艰难梭菌"
+    },
+    "D": {
+      "en": "Enterotoxigenic Escherichia coli",
+      "zh": "产肠毒素大肠杆菌"
+    },
+    "E": {
+      "en": "Norovirus",
+      "zh": "诺如病毒"
+    },
+    "F": {
+      "en": "Rotavirus",
+      "zh": "轮状病毒"
+    },
+    "G": {
+      "en": "Salmonella typhi",
+      "zh": "伤寒沙门菌"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Norovirus is the most common cause of viral gastroenteritis. Symptoms include diarrhea, vomiting, fever, malaise, and headache. The diarrhea is typically watery without blood or mucus due to lack of small bowel inflammation.\n\nNorovirus (part of the Calicivirus family) possesses a linear, nonenveloped, single-stranded RNA genome. It is resistant to inactivation by acid, bile, and pancreatic enzymes. As a result, norovirus is easily transmitted via fecal-oral spread (eg, foodborne, person-to-person via contaminated bodily fluids) and results in outbreaks in crowded settings (eg, schools, hospitals, cruise ships, nursing homes). The incubation period is 1-2 days; symptoms develop acutely and self-resolve within days. The diagnosis is typically based solely on clinical presentation, but polymerase chain reaction testing may be performed to confirm an outbreak.\n\n(Choice A) Adenoviral gastroenteritis typically presents with fever and watery diarrhea. Outbreaks can occur, but these are far less common than with norovirus. Adenovirus more commonly causes pharyngoconjunctivitis and coryza (eg, runny nose, nasal congestion).\n\n(Choice B) Vomiting, high fever, and bloody diarrhea are typical of Campylobacter jejuni enteritis. Transmission occurs via oral contact with contaminated food (eg, poultry) or drinks. Outbreaks are not as common as those of viral etiology.\n\n(Choice C) Clostridioides (formerly Clostridium) difficile infection can result in asymptomatic carriers, pseudomembranous colitis, or fulminant colitis. Patients have watery diarrhea with or without blood, abdominal pain, fever, and leukocytosis. Prior antibiotic exposure (eg, fluoroquinolones, clindamycin) is the most significant risk factor.\n\n(Choice D) Enterotoxigenic Escherichia coli (ETEC), the most common cause of traveler's diarrhea, is prevalent in developing countries. Although the acute onset of nausea, vomiting, and watery nonbloody diarrhea is typical of ETEC infection, it would be unlikely in patients who have not traveled abroad recently.\n\n(Choice F) Gastroenteritis outbreaks can also occur with rotavirus infection, with a presentation similar to that of norovirus. However, the prevalence of rotavirus in developed countries has decreased dramatically since the introduction of routine childhood vaccination. Rotavirus is unlikely in vaccinated children (as in this case).\n\n(Choice G) Salmonella typhi infection can result in typhoid fever and presents with fever, followed by abdominal pain and diarrhea and/or constipation. Severe complications (eg, hepatosplenomegaly, intestinal perforation, sepsis) occur in a minority of patients.\n\nEducational objective:\nNorovirus is the most common cause of viral gastroenteritis. Outbreaks in crowded settings (eg, schools, cruise ships, nursing homes) are common, and symptoms include vomiting and watery diarrhea.",
+    "zh": "诺如病毒是病毒性胃肠炎最常见的病因。症状包括腹泻、呕吐、发热、不适和头痛。由于缺乏小肠炎症，腹泻通常是水样便，不带血或黏液。\n\n诺如病毒（属于杯状病毒科）具有线状、无包膜、单链RNA基因组。它对酸、胆汁和胰酶的灭活具有耐药性。因此，诺如病毒很容易通过粪口传播（例如，食源性、人际传播，通过受污染的体液）传播，并在拥挤的环境中（例如，学校、医院、游轮、疗养院）引起疫情。潜伏期为1-2天；症状急性发作，并在几天内自愈。诊断通常仅基于临床表现，但可以进行聚合酶链反应检测以确认疫情。\n\n(选项A) 腺病毒性胃肠炎通常表现为发热和水样腹泻。可能发生疫情，但这些疫情远不如诺如病毒常见。腺病毒更常见引起咽结膜炎和鼻炎（例如，流鼻涕、鼻塞）。\n\n(选项B) 呕吐、高热和血性腹泻是空肠弯曲菌性肠炎的典型症状。传播通过口接触受污染的食物（例如，家禽）或饮料发生。疫情不如病毒病因常见。\n\n(选项C) 艰难梭菌感染可导致无症状携带者、假膜性结肠炎或暴发性结肠炎。患者有水样腹泻，伴或不伴有血便，腹痛，发热和白细胞增多。既往使用抗生素（例如，氟喹诺酮类、克林霉素）是最重要的危险因素。\n\n(选项D) 产肠毒素大肠杆菌 (ETEC) 是旅行者腹泻最常见的原因，在发展中国家很常见。尽管恶心、呕吐和水样非血性腹泻的急性发作是ETEC感染的典型表现，但在最近没有出国旅行的患者中不太可能发生。\n\n(选项F) 轮状病毒感染也可能引起胃肠炎疫情，其表现与诺如病毒相似。然而，自从常规儿童疫苗接种以来，发达国家轮状病毒的流行率已大幅下降。在接种疫苗的儿童中（如本例），轮状病毒不太可能发生。\n\n(选项G) 伤寒沙门菌感染可导致伤寒，表现为发热，随后是腹痛和腹泻和/或便秘。少数患者会出现严重并发症（例如，肝脾肿大、肠穿孔、败血症）。\n\n教育目标：\n诺如病毒是病毒性胃肠炎最常见的病因。在拥挤的环境中（例如，学校、游轮、疗养院）爆发疫情很常见，症状包括呕吐和水样腹泻。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of common causes of gastroenteritis outbreaks, specifically focusing on differentiating viral etiologies based on clinical presentation and epidemiological factors. It requires understanding the typical symptoms, transmission routes, and risk factors associated with each pathogen.\n\nTo solve this question, consider the outbreak setting (school), the symptoms (acute vomiting and watery diarrhea), and the lack of travel history. Rule out pathogens associated with specific risk factors or less common outbreak scenarios, leading to the most likely diagnosis of norovirus.",
+    "zh": "本题考察对胃肠炎疫情常见病因的了解，特别是侧重于根据临床表现和流行病学因素区分病毒病因。它要求理解与每种病原体相关的典型症状、传播途径和危险因素。\n\n为了解决这个问题，需要考虑疫情发生的地点（学校）、症状（急性呕吐和水样腹泻）以及缺乏旅行史。排除与特定危险因素或不太常见的疫情场景相关的病原体，从而得出最可能的诺如病毒诊断。"
+  },
+  "tags": "Norovirus; Gastroenteritis; Viral infection; Outbreak; Fecal-oral transmission; Diarrhea; Vomiting; Epidemiology; Infectious Diseases; Public Health",
+  "category": "Micro",
+  "question_id": "1498",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1498",
+  "extracted_at": "2025-11-05T14:55:34.945278",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:07:56.969176",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

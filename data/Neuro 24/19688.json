@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 46-year-old man experiences burning pain in his left thigh and leg. The next day, he notices groups of erythematous, tender, fluid-filled vesicles in the painful region. The lesions gradually crust over the next several days as shown in the exhibit {{exhibit_1}}. Which of the following dermatomes are most likely involved in this patient's disease process?",
+    "zh": "一名46岁男性患者，出现左大腿和腿部灼痛。第二天，他注意到在疼痛区域出现成簇的红斑、触痛、充满液体的水疱。病变在接下来的几天内逐渐结痂，如展品{{exhibit_1}}所示。以下哪种皮节最有可能参与该患者的疾病过程？"
+  },
+  "question": {
+    "en": "Which of the following dermatomes are most likely involved in this patient's disease process?",
+    "zh": "以下哪种皮节最有可能参与该患者的疾病过程？"
+  },
+  "options": {
+    "A": {
+      "en": "L1-L2",
+      "zh": "L1-L2"
+    },
+    "B": {
+      "en": "L3-L4",
+      "zh": "L3-L4"
+    },
+    "C": {
+      "en": "L5-S1",
+      "zh": "L5-S1"
+    },
+    "D": {
+      "en": "S2-S3",
+      "zh": "S2-S3"
+    },
+    "E": {
+      "en": "No specific dermatome pattern",
+      "zh": "无特定皮节分布模式"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has signs and symptoms consistent with herpes zoster (shingles). Herpes zoster is caused by the reactivation of the varicella-zoster virus (VZV), which lies dormant in the dorsal root ganglia. Reactivation typically occurs in a single or multiple adjacent dorsal root ganglia, leading to a vesicular rash that follows the distribution of the sensory nerve innervated by that ganglion, i.e., a dermatome.\n\nThis patient's rash involves the anteromedial thigh and medial leg, which corresponds to the L3 and L4 dermatomes. The exhibit {{exhibit_2}} shows the dermatomal distribution of the lower extremities, confirming that the L3 and L4 dermatomes supply the anteromedial thigh and medial leg.\n\n(Choice A) The L1 dermatome is at the level of the inguinal ligament. The L2 dermatome covers the upper anteromedial thigh but does not extend downward into the leg as prominently as described.\n\n(Choice C) The L5 dermatome covers the lateral thigh and anterolateral leg along with the dorsum/sole of the foot. The S1 dermatome includes the posterior thigh and leg and the lateral portion of the foot.\n\n(Choice D) The S2 dermatome supplies portions of the posterior thigh and leg as well as the perineum. S3 primarily supplies the perineum.\n\n(Choice E) Herpes zoster is characterized by a rash that follows a dermatomal distribution, so a specific dermatome pattern is expected.\n\nEducational objective: Herpes zoster reactivation typically occurs in a single or multiple-adjacent dorsal spinal ganglia, leading to a vesicular rash in a dermatomal distribution. The L3 and L4 dermatomes supply the anteromedial thigh and medial leg. {{exhibit_3}} {{exhibit_4}}",
+    "zh": "该患者的体征和症状与带状疱疹（带状疱疹）一致。带状疱疹是由水痘-带状疱疹病毒（VZV）再激活引起的，该病毒潜伏在背根神经节中。再激活通常发生在单个或多个相邻的背根神经节中，导致水疱疹，该水疱疹遵循由该神经节支配的神经分布，即皮节。\n\n该患者的皮疹涉及大腿前内侧和腿内侧，这与L3和L4皮节相对应。展品{{exhibit_2}}显示了下肢的皮节分布，证实了L3和L4皮节支配大腿前内侧和腿内侧。\n\n(选项A) L1皮节位于腹股沟韧带水平。L2皮节覆盖大腿前内侧上部，但向下延伸到腿部的范围不如所描述的那么明显。\n\n(选项C) L5皮节覆盖大腿外侧和腿前外侧，以及足背/足底。S1皮节包括大腿后部和腿部以及足的外侧部分。\n\n(选项D) S2皮节供应大腿后部和腿部的一部分以及会阴。S3主要供应会阴。\n\n(选项E) 带状疱疹的特征是皮疹遵循皮节分布，因此预计会有特定的皮节模式。\n\n教育目标：带状疱疹再激活通常发生在单个或多个相邻的背脊髓神经节中，导致皮节分布的水疱疹。L3和L4皮节供应大腿前内侧和腿内侧。{{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the clinical presentation and dermatomal distribution of herpes zoster (shingles), specifically focusing on the localization of the rash to specific spinal nerve roots.\n\nTo solve this question, one must recognize the characteristic vesicular rash of herpes zoster and correlate the described location of the rash (anteromedial thigh and leg) with the known dermatomal innervation of the lower extremities, referencing provided diagrams if available.",
+    "zh": "此问题测试对带状疱疹的临床表现和皮节分布的理解，特别是侧重于将皮疹定位到特定的脊神经根。\n\n为了解决这个问题，必须识别带状疱疹的特征性水疱疹，并将所描述的皮疹位置（大腿前内侧和腿部）与已知的下肢皮节神经支配相关联，如果可用，请参考提供的图表。"
+  },
+  "tags": "Herpes zoster; Shingles; Varicella-zoster virus; Dermatomes; L3 dermatome; L4 dermatome; Neurological system; Infectious disease; Dermatology",
+  "category": "Neuro",
+  "question_id": "19688",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\19688",
+  "extracted_at": "2025-11-05T19:38:30.010486",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:37:49.326922",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

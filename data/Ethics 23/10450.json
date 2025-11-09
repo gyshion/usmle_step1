@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A physician is approached by a friend who requests a prescription for antidepressant medication. The physician has been friends with this individual since college and is aware that she has been treated for depression in the past. The friend explains that she is only \"a little depressed\" due to work stress and relationship issues and would like to resume sertraline, which she has taken previously. She has a physician but wants to avoid seeing the provider due to difficulty getting an appointment and her own busy schedule.",
+    "zh": "一位医生被一位朋友请求开具抗抑郁药处方。这位医生自大学以来就与这位朋友相识，并且知道她过去曾接受过抑郁症治疗。这位朋友解释说，她只是由于工作压力和人际关系问题而“有点抑郁”，并希望恢复舍曲林，她以前曾服用过这种药。她有一位医生，但由于预约困难和她自己的繁忙日程安排，她想避免去看这位医生。"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate response?",
+    "zh": "以下哪一项是最合适的回答？"
+  },
+  "options": {
+    "A": {
+      "en": "\"I can write a prescription so that you have enough medication until you're able to get an appointment with your doctor.\"",
+      "zh": "“我可以开一张处方，这样你就有足够的药物，直到你能预约你的医生。”"
+    },
+    "B": {
+      "en": "\"I wish I could help you, but your psychiatric history is too complex for me to feel comfortable prescribing medication for you.\"",
+      "zh": "“我希望我能帮助你，但你的精神病史太复杂了，我不舒服为你开药。”"
+    },
+    "C": {
+      "en": "\"Let's schedule a time for you to come in for a full evaluation so that I can make sure sertraline is the most appropriate option.\"",
+      "zh": "“让我们安排一个时间让你来做一个全面的评估，这样我才能确保舍曲林是最合适的选择。”"
+    },
+    "D": {
+      "en": "\"Unfortunately, I'm unable to prescribe medication for you since our relationship prevents me from providing objective treatment.\"",
+      "zh": "“很遗憾，我不能为你开药，因为我们的关系妨碍了我提供客观的治疗。”"
+    },
+    "E": {
+      "en": "\"Your doctor should be able to prescribe a refill without an appointment since you've taken this medication before.\"",
+      "zh": "“你的医生应该可以在没有预约的情况下开补充处方，因为你之前已经服用过这种药物了。”"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Physicians are commonly approached by friends and family for informal medical care ranging from prescriptions for antibiotics to treatment of complex medical issues. However, the wish to be helpful must be balanced with ethical considerations related to the risks of compromising objectivity and clinical judgment when treating a friend.\n\nPotential problems that could result in patient harm (maleficence) include failure to perform an adequate assessment of sensitive issues related to depression (eg, suicide risk), the possibility that the patient will not be completely forthcoming due to the friendship, treating conditions that may be outside of the physician's expertise, and lack of appropriate documentation and follow-up. In addition, from a medico-legal perspective, writing a prescription establishes a physician-patient relationship and may be problematic in the event of an adverse outcome.\n\nProfessional medical organizations with published ethics guidelines consistently recommend that treatment of friends and family be limited to emergency situations when no other physician is available. The most appropriate response is for the physician to decline to write the prescription, explaining that the nature of their relationship prevents objective treatment.\n\n(Choice A) Physicians may feel pressured to accommodate requests from friends, but offering a limited supply of medication is not indicated in this nonemergency situation. The physician should encourage the friend to schedule an appointment with her provider.\n\n(Choice B) Describing the friend's psychiatric history as complex may be viewed as judgmental and is not the fundamental reason for declining the request for medication. It is preferable to explain how the nature of their friendship compromises the physician's ability to treat her objectively.\n\n(Choice C) Although it is well intentioned, scheduling a full evaluation to determine whether antidepressants are indicated does not solve the ethical problem of treating a friend in a nonemergency situation.\n\n(Choice E) This option makes the unfounded assumption that another physician would be willing to prescribe medication without reevaluating the patient in person.\n\nEducational objective:\nProviding informal treatment to friends and family is ethically problematic due to lack of objectivity that can negatively impact clinical judgment. It should generally be limited to emergency situations in which no other physician is available.",
+    "zh": "医生通常会被朋友和家人要求提供非正式的医疗护理，包括开抗生素处方到治疗复杂的医疗问题。然而，帮助他人的愿望必须与伦理考量相平衡，这些伦理考量与在治疗朋友时，因损害客观性和临床判断力而产生的风险有关。\n\n可能导致患者受损（恶意）的潜在问题包括：未能对与抑郁症相关的敏感问题（例如，自杀风险）进行充分评估，由于友谊，患者可能不会完全坦诚，治疗可能超出医生的专业知识范围的疾病，以及缺乏适当的文档记录和随访。此外，从医疗法律的角度来看，开处方建立了医患关系，并且在出现不良后果时可能存在问题。\n\n具有已发布伦理指南的专业医学组织一致建议，对朋友和家人的治疗应仅限于在没有其他医生可用的紧急情况。最合适的回答是医生拒绝开处方，并解释说他们关系的性质妨碍了客观治疗。\n\n（选项 A）医生可能会感到被迫满足朋友的要求，但在这种非紧急情况下，提供有限的药物供应是不合适的。医生应鼓励朋友预约她的医生。\n\n（选项 B）将朋友的精神病史描述为复杂可能会被视为带有判断性，这并不是拒绝药物要求的根本原因。最好解释他们的友谊如何损害医生客观治疗她的能力。\n\n（选项 C）虽然用意良好，但安排全面的评估以确定是否需要抗抑郁药并不能解决在非紧急情况下治疗朋友的伦理问题。\n\n（选项 E）此选项作出了毫无根据的假设，即另一位医生愿意在没有亲自重新评估患者的情况下开药。\n\n教育目标：\n由于缺乏客观性，对朋友和家人提供非正式治疗在伦理上是有问题的，这会负面影响临床判断。它通常应仅限于没有其他医生可用的紧急情况。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of ethical considerations in medicine, specifically regarding treating friends and family. It emphasizes the importance of objectivity and avoiding potential conflicts of interest.\n\nThe best approach is to recognize the ethical dilemma presented by the scenario and select the response that prioritizes patient safety and professional boundaries. Avoid options that suggest providing treatment or making assumptions about other physicians' actions.",
+    "zh": "这个问题测试了医学伦理考量的知识，特别是关于治疗朋友和家人的问题。它强调了客观性的重要性以及避免潜在的利益冲突。\n\n最好的方法是认识到情景所呈现的伦理困境，并选择优先考虑患者安全和专业界限的回答。避免那些建议提供治疗或对其他医生的行为做出假设的选项。"
+  },
+  "tags": "Medical ethics; Professionalism; Conflict of interest; Physician-patient relationship; Prescribing practices",
+  "category": "Ethics",
+  "question_id": "10450",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\10450",
+  "extracted_at": "2025-11-05T14:15:33.159508",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:45:34.202013",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

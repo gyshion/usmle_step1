@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old woman is evaluated for a 3-month history of appetite loss, fatigue, weight loss, and abdominal pain. She has no chronic medical conditions and takes no medications. While undergoing upper gastrointestinal endoscopy, the patient develops cardiovascular collapse and dies, despite aggressive resuscitative measures. On autopsy, increased pigmentation is noted around the nipple areola and anal and vaginal mucous membranes. ",
+    "zh": "一名35岁女性因3个月的食欲不振、疲劳、体重减轻和腹痛病史而接受评估。她没有慢性疾病，也没有服用药物。在接受上消化道内镜检查时，患者发生心血管骤停并死亡，尽管采取了积极的复苏措施。尸检显示，乳头、肛门和阴道粘膜周围色素沉着增加。"
+  },
+  "question": {
+    "en": "Which of the following additional findings are most likely to be seen on autopsy?",
+    "zh": "以下哪一项额外的发现最有可能在尸检中看到？"
+  },
+  "options": {
+    "A": {
+      "en": "Atrophy of both adrenal glands",
+      "zh": "双侧肾上腺萎缩"
+    },
+    "B": {
+      "en": "Bilateral adrenal hemorrhage",
+      "zh": "双侧肾上腺出血"
+    },
+    "C": {
+      "en": "Ischemic anterior pituitary necrosis",
+      "zh": "前叶垂体缺血性坏死"
+    },
+    "D": {
+      "en": "Large pituitary tumor with hemorrhage",
+      "zh": "伴有出血的巨大垂体瘤"
+    },
+    "E": {
+      "en": "Unilateral adrenal mass with contralateral adrenal atrophy",
+      "zh": "单侧肾上腺肿块伴对侧肾上腺萎缩"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient with a three month history of weight loss, abdominal pain, and fatigue developed cardiovascular collapse during a medical procedure (endoscopy), which suggests CHRONIC ADRENAL INSUFFICIENCY complicated by ACUTE ADRENAL CRISIS. Severe physiologic stress (eg, infection, medical procedures) normally induces increased glucocorticoid production; however, patients with adrenal insufficiency are unable to increase production. Adrenal crisis (eg, hypotension, shock) is rapidly fatal if unrecognized.\n\nAdrenal insufficiency can be caused by dysfunction of either the adrenal glands (primary) or pituitary (secondary). This patient's concomitant SKIN HYPERPIGMENTATION is highly suggestive of chronic PRIMARY ADRENAL INSUFFICIENCY (PAI), as the resulting cortisol deficiency leads to increased ACTH secretion. ACTH is derived from proopiomelanocortin (POMC), the same prohormone from which melanocyte-stimulating hormone (MSH) is derived. Increased ACTH also leads to increased MSH secretion, which results in hyperpigmentation. {{exhibit_1}}\n\nAUTOIMMUNE ADRENALITIS is the most common cause (>90%) of chronic PAI and occurs due to autoantibody formation, resulting in ATROPHY OF THE BILATERAL ADRENAL GLANDS. It can occur as an isolated disorder or in association with other autoimmune syndromes (eg, hypothyroidism, vitiligo).\n\n(Choice B) Bilateral adrenal hemorrhage (Waterhouse-Friderichsen syndrome [WFS]) can cause PAI and adrenal crisis but is typically seen acutely in the setting of bacterial sepsis (eg, *Neisseria meningitidis*). However, hyperpigmentation occurs in chronic adrenal insufficiency and therefore would not be expected with WFS.\n\n(Choices C and D) Ischemic necrosis of the pituitary (Sheehan syndrome) most commonly occurs due to hypoperfusion of the enlarged pituitary gland during childbirth. Acute pituitary hemorrhage (pituitary apoplexy) typically occurs in patients with pituitary adenomas. These conditions can cause central (secondary) adrenal insufficiency; however, hyperpigmentation is not seen because ACTH levels are low, and POMC levels are not increased.\n\n(Choice E) A cortisol-producing adrenal tumor can cause contralateral adrenal atrophy due to suppression of ACTH secretion; however, it would not be associated with hyperpigmentation and would manifest as hypercortisolism rather than adrenal insufficiency.\n\nEducational objective:\nPrimary adrenal insufficiency (PAI) is characterized by weight loss, abdominal pain, fatigue, and hyperpigmentation. Physiologic stress in patients with PAI can trigger acute adrenal crisis (eg, fever, shock, mental status changes). Autoimmune adrenalitis is the most common cause of PAI and leads to bilateral adrenal atrophy.",
+    "zh": "这位患者有三个月的体重减轻、腹痛和疲劳病史，在医疗程序（内镜检查）中发生心血管骤停，这提示慢性肾上腺功能不全，并伴有急性肾上腺危象。严重的生理应激（如感染、医疗程序）通常会诱导糖皮质激素的产生增加；然而，肾上腺功能不全患者无法增加激素的产生。如果未被识别，肾上腺危象（如低血压、休克）会迅速致命。\n\n肾上腺功能不全可由肾上腺（原发性）或垂体（继发性）功能障碍引起。该患者同时出现的皮肤色素沉着过度高度提示慢性原发性肾上腺功能不全 (PAI)，因为由此导致的皮质醇缺乏导致ACTH分泌增加。ACTH源自促黑素细胞皮质素 (POMC)，而促黑素细胞激素 (MSH) 也来源于这种促激素。ACTH 增加也会导致MSH分泌增加，从而导致色素沉着过度。{{exhibit_1}}\n\n自身免疫性肾上腺炎是慢性 PAI 最常见的原因（>90%），并且是由于自身抗体形成引起的，导致双侧肾上腺萎缩。它可作为一种孤立性疾病发生，或与其他自身免疫综合征相关（例如，甲状腺功能减退症、白癜风）。\n\n（选项 B）双侧肾上腺出血（Waterhouse-Friderichsen 综合征 [WFS]）可引起 PAI 和肾上腺危象，但通常在细菌性败血症（例如，脑膜炎奈瑟菌）的情况下急性发生。然而，色素沉着过度发生在慢性肾上腺功能不全中，因此 WFS 中不会出现这种情况。\n\n（选项 C 和 D）垂体缺血性坏死（席汉综合征）最常发生在分娩期间由于增大的垂体血供不足。急性垂体出血（垂体卒中）通常发生在患有垂体腺瘤的患者中。这些情况可导致中枢性（继发性）肾上腺功能不全；然而，由于ACTH水平低，POMC水平未增加，因此未见色素沉着过度。\n\n（选项 E）产生皮质醇的肾上腺肿瘤可因ACTH分泌受到抑制而引起对侧肾上腺萎缩；然而，它不会与色素沉着过度相关，并且会表现为皮质醇增多症而不是肾上腺功能不全。\n\n教育目标：\n原发性肾上腺功能不全 (PAI) 的特征是体重减轻、腹痛、疲劳和色素沉着过度。PAI 患者的生理应激可引发急性肾上腺危象（例如，发烧、休克、精神状态改变）。自身免疫性肾上腺炎是 PAI 最常见的原因，并导致双侧肾上腺萎缩。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of primary adrenal insufficiency (Addison's disease), its etiology, clinical presentation, and expected autopsy findings. It emphasizes the importance of recognizing the signs and symptoms of adrenal crisis and the underlying cause of hyperpigmentation in primary adrenal insufficiency.\n\nTo solve this question, recognize the clinical scenario suggestive of adrenal insufficiency (weight loss, fatigue, abdominal pain) complicated by acute cardiovascular collapse. The presence of hyperpigmentation points towards primary adrenal insufficiency. Knowing that autoimmune adrenalitis is the most common cause and leads to adrenal atrophy helps identify the correct autopsy finding.",
+    "zh": "这个问题测试了对原发性肾上腺功能不全（艾迪生病）的病因、临床表现和预期尸检结果的了解。它强调了识别肾上腺危象的体征和症状以及原发性肾上腺功能不全中色素沉着过度的根本原因的重要性。\n\n要解决这个问题，需要识别提示肾上腺功能不全（体重减轻、疲劳、腹痛）伴有急性心血管骤停的临床情况。色素沉着过度的存在指向原发性肾上腺功能不全。了解自身免疫性肾上腺炎是最常见的原因并导致肾上腺萎缩，有助于确定正确的尸检结果。"
+  },
+  "tags": "Adrenal insufficiency; Addison's disease; Autoimmune adrenalitis; Hyperpigmentation; Adrenal atrophy; Endocrine system; Autopsy; Adrenal crisis",
+  "category": "Endo",
+  "question_id": "17246",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\17246",
+  "extracted_at": "2025-11-05T14:02:13.845823",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:38:35.602779",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

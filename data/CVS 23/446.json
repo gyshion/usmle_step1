@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 68-year-old man is brought to the emergency department with chest pain. For the last year, the patient has had exertional chest pain that has progressively worsened. He was shoveling snow this morning when the pain became unbearable. He has smoked a pack of cigarettes daily for 40 years. Blood pressure is 140/100 mm Hg and pulse is 90/min. Examination showed mild diaphoresis. The lungs are clear to auscultation. ECG shows ST- and T-wave changes suggestive of ischemia. Cardiac enzymes are elevated. Emergent coronary angiography is performed, which demonstrates significant atherosclerotic involvement of the left anterior descending and circumflex arteries. Development of these vascular lesions most likely involved growth factors released from which of the following sources? {{exhibit_1}}",
+    "zh": "一名68岁男性因胸痛被送往急诊科。在过去一年中，患者出现劳力性胸痛，且逐渐加重。今天早上他铲雪时，疼痛变得难以忍受。他每天吸一包香烟，已持续40年。血压为140/100 mmHg，脉搏为90次/分钟。体格检查显示轻度出汗。肺部听诊清澈。心电图显示ST段和T波改变，提示缺血。心脏酶升高。进行了紧急冠状动脉造影，显示左前降支和回旋支动脉有明显的动脉粥样硬化病变。这些血管病变的发生最可能涉及以下哪个来源释放的生长因子？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Development of these vascular lesions most likely involved growth factors released from which of the following sources?",
+    "zh": "这些血管病变的发生最可能涉及以下哪个来源释放的生长因子？"
+  },
+  "options": {
+    "A": {
+      "en": "B lymphocytes",
+      "zh": "B淋巴细胞"
+    },
+    "B": {
+      "en": "Eosinophils",
+      "zh": "嗜酸性粒细胞"
+    },
+    "C": {
+      "en": "Erythrocytes",
+      "zh": "红细胞"
+    },
+    "D": {
+      "en": "Mast cells",
+      "zh": "肥大细胞"
+    },
+    "E": {
+      "en": "Neutrophils",
+      "zh": "中性粒细胞"
+    },
+    "F": {
+      "en": "Platelets",
+      "zh": "血小板"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "Initially, factors including hyperlipidemia, hypertension, hyperglycemia, and smoking trigger endothelial injury and/or dysfunction. This leads to increased vascular permeability, enhanced leukocyte adhesion, and a higher propensity for thrombosis.\n\nLipoproteins (ie, LDL and oxidized LDL) enter the arterial wall intima and begin to accumulate. Monocytes adhere to the endothelial wall and enter into the intima as well; these cells transform into macrophages and engulf lipid particles to become foam cells. Platelets adhere to the abnormal endothelium and become activated.\n\nGrowth factors, namely platelet-derived growth factor (PDGF), are released from platelets, activated macrophages, and endothelial cells. This triggers smooth muscle cell (SMC) recruitment from the media and proliferation in the intima.\n\nOver time, progressive SMC proliferation and accumulation of necrotic debris (due to macrophage/foam cell and SMC death) lead to growth of the atheroma. SMCs encourage plaque stability by synthesizing collagen, whereas activated inflammatory cells break down collagen and contribute to plaque instability. HDL likely extracts lipids from the intima back into the bloodstream and helps slow atheroma development.\n\n(Choice A) B lymphocytes are not known to play a significant role in atheroma development. However, T lymphocytes in the arterial wall intima likely play a role in activating macrophages, endothelial cells, and SMCs by releasing inflammatory cytokines (eg, interferon-γ).\n\n(Choices B and D) Eosinophils and mast cells are important in IgE-mediated (Type I) hypersensitivity reactions; mast cells release histamine in the early phase, and eosinophils release leukotrienes and major basic protein in the late phase of the reaction. However, these cells are not significantly involved in atheroma development.\n\n(Choices C and E) Neither erythrocytes nor neutrophils release growth factors or play a significant role in atheroma development.",
+    "zh": "最初，包括高脂血症、高血压、高血糖和吸烟在内的因素会引发内皮损伤和/或功能障碍。这会导致血管通透性增加、白细胞粘附增强以及血栓形成的倾向增加。\n\n脂蛋白（即，LDL和氧化型LDL）进入动脉壁内膜并开始积聚。单核细胞粘附到内皮壁并进入内膜；这些细胞转化为巨噬细胞并吞噬脂质颗粒，成为泡沫细胞。血小板粘附到异常的内皮细胞上并被激活。\n\n生长因子，即血小板衍生生长因子（PDGF），从血小板、活化的巨噬细胞和内皮细胞中释放。这会触发平滑肌细胞（SMC）从中膜募集，并在内膜中增殖。\n\n随着时间的推移，进行性SMC增殖和坏死性碎屑的积累（由于巨噬细胞/泡沫细胞和SMC死亡）导致动脉粥样硬化斑块的生长。SMC通过合成胶原蛋白来促进斑块的稳定性，而活化的炎症细胞则分解胶原蛋白并导致斑块不稳定。HDL可能会从内膜中提取脂质回到血流中，并有助于减缓动脉粥样硬化斑块的形成。\n\n(选项A) B淋巴细胞在动脉粥样硬化斑块的形成中没有已知的重要作用。然而，动脉壁内膜中的T淋巴细胞可能通过释放炎症细胞因子（如干扰素-γ）在激活巨噬细胞、内皮细胞和SMC中发挥作用。\n\n(选项B和D) 嗜酸性粒细胞和肥大细胞在IgE介导的（I型）超敏反应中很重要；肥大细胞在早期释放组胺，嗜酸性粒细胞在反应的晚期释放白三烯和主要碱性蛋白。然而，这些细胞并未显着参与动脉粥样硬化斑块的形成。\n\n(选项C和E) 红细胞和中性粒细胞均不释放生长因子，也不在动脉粥样硬化斑块的形成中发挥重要作用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathogenesis of atherosclerosis, specifically the role of platelet-derived growth factor (PDGF) in smooth muscle cell proliferation within the arterial intima. It also requires understanding which cells release PDGF during atheroma formation.\n\nThe key to solving this question is recognizing that platelets, activated macrophages, and endothelial cells release PDGF, which stimulates smooth muscle cell proliferation. By eliminating the other cell types that do not contribute significantly to this process, the correct answer can be identified.",
+    "zh": "此题考察对动脉粥样硬化发病机制的认识，特别是血小板衍生生长因子（PDGF）在动脉内膜内平滑肌细胞增殖中的作用。它还需要了解哪些细胞在动脉粥样硬化斑块形成期间释放PDGF。\n\n解决此问题的关键是认识到血小板、活化的巨噬细胞和内皮细胞释放PDGF，从而刺激平滑肌细胞增殖。通过排除对这一过程没有显着贡献的其他细胞类型，可以确定正确答案。"
+  },
+  "tags": "Atherosclerosis; Platelet-derived growth factor; PDGF; Smooth muscle cell proliferation; Coronary artery disease; Cardiology; Pathology",
+  "category": "CVS",
+  "question_id": "446",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\446",
+  "extracted_at": "2025-11-05T12:14:16.601530",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:30:00.306148",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

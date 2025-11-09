@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old woman is brought to the emergency department due to chest pain. The patient reports that she went to bed feeling well and woke up in the middle of the night with severe, crushing chest pain that radiated to her left arm. She has had similar episodes over the past year that typically occur in early morning and spontaneously resolve after several minutes. The patient has a history of occasional migraine that responds to acetaminophen. She does not use tobacco, alcohol, or illicit drugs. Blood pressure is 150/100 mm Hg, pulse is 110/min, and respirations are 14/min. On physical examination, the patient appears distressed and is diaphoretic. ECG reveals ST-segment elevations in leads I, aVL, and V4-V6. The patient is given nitroglycerin, which improves her symptoms. Percutaneous coronary angiography is performed, and no obstructive lesions are observed.",
+    "zh": "一位34岁的女性因胸痛被送往急诊科。患者报告说，她入睡时感觉良好，但在半夜醒来时出现剧烈、压榨性胸痛，并放射到左臂。在过去的一年里，她曾有过类似的病发作，通常发生在清晨，并在几分钟后自发缓解。患者有偶尔偏头痛病史，对乙酰氨基酚有反应。她不吸烟、不饮酒，也不使用非法药物。血压为150/100 mm Hg，脉搏为110次/分，呼吸为14次/分。体格检查显示，患者痛苦，并出汗。心电图显示I导联、aVL导联和V4-V6导联ST段抬高。患者被给予硝酸甘油，症状有所改善。进行了经皮冠状动脉造影，未观察到阻塞性病变。"
+  },
+  "question": {
+    "en": "Which of the following is most likely to be involved in the pathogenesis of this patient's chest pain?",
+    "zh": "以下哪项最有可能参与该患者胸痛的发病机制？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased endothelial expression of endothelin-1",
+      "zh": "内皮细胞表达内皮素-1降低"
+    },
+    "B": {
+      "en": "Granulomatous inflammation of arterial media",
+      "zh": "动脉中层肉芽肿性炎症"
+    },
+    "C": {
+      "en": "Hyperreactivity of vascular smooth muscle",
+      "zh": "血管平滑肌反应过度"
+    },
+    "D": {
+      "en": "Increased endothelial expression of prostacyclin",
+      "zh": "内皮细胞表达前列环素增加"
+    },
+    "E": {
+      "en": "Ulceration of thin atheromatous fibrous cap",
+      "zh": "薄的粥样硬化纤维帽溃疡"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient most likely has vasospastic angina (formerly Prinzmetal angina), which involves intermittent coronary artery artery vasospasm leading to myocardial ischemia. The condition likely results from hyperreactivity of arterial smooth muscle due to a combination of endothelial dysfunction and autonomic imbalance.\n\nThe major underlying defect in vasospastic angina is likely a deficiency of vasodilatory nitric oxide in the coronary artery endothelium, causing acetylcholine released from vagus nerve terminals to trigger vasoconstriction rather than vasodilation. Patients typically experience episodes of recurrent chest discomfort that spontaneously resolve within 15 minutes. The episodes often occur at rest or during sleep, when vagal tone is at a peak. As with typical angina, there may be associated diaphoresis, nausea, and dyspnea, but unlike typical angina, patients are usually young (age <50) and lack most risk factors for atherosclerotic coronary artery disease (CAD) (eg, hypertension, diabetes). However, smoking is a strong risk factor, likely due to its contribution to endothelial dysfunction.\n\nVasospastic angina is usually diagnosed by ambulatory ECG (Holter monitor) that shows ST elevation during an episode of chest discomfort, followed by coronary angiography to rule out atherosclerotic CAD. Sublingual nitroglycerin is effective in relieving an active episode of vasospastic angina, and calcium channel blockers (eg, diltiazem, amlodipine) are effective in preventing episodes.\n\n(Choices A and D) Endothelin-1 is a potent vasoconstrictor and prostacyclin is a vasodilator. Therefore, decreased expression of endothelin-1 or increased expression of prostacyclin would stimulate coronary vasodilation rather than vasospasm.\n\n(Choice B) Granulomatous inflammation of arterial media occurs in Takayasu arteritis, a large-vessel vasculitis affecting the aorta and its major branches. Young women of Asian descent are most commonly affected and sometimes develop angina due to coronary artery involvement; however, limb claudication (due to subclavian artery involvement) accompanied by constitutional symptoms (eg, fever, fatigue) is a more common presentation.\n\n(Choice E) Ulceration of the thin fibrous cap overlying an atherosclerotic plaque can lead to unstable angina, characterized by intermittent chest discomfort similar to that of vasospastic angina. However, atherosclerotic CAD is unlikely in this young woman without significant CAD risk factors.\n\nEducational objective:\nVasospastic angina involves hyperreactivity of coronary artery smooth muscle. Patients are usually young (age <50) and without significant risk factors for coronary artery disease; they experience recurrent episodes of chest discomfort that typically occur during rest or sleep and resolve within 15 minutes.",
+    "zh": "该患者最有可能患有血管痉挛性心绞痛（以前称为Prinzmetal心绞痛），涉及间歇性冠状动脉血管痉挛，导致心肌缺血。这种情况可能由动脉平滑肌反应过度引起，这是由于内皮功能障碍和自主神经失衡共同作用的结果。\n\n血管痉挛性心绞痛的主要潜在缺陷可能是冠状动脉内皮细胞中舒张血管的一氧化氮缺乏，导致从迷走神经末梢释放的乙酰胆碱触发血管收缩而非血管舒张。患者通常会经历反复发作的胸部不适，并在15分钟内自发缓解。这些发作通常发生在休息或睡眠期间，此时迷走神经张力达到高峰。与典型心绞痛一样，可能伴有出汗、恶心和呼吸困难，但与典型心绞痛不同的是，患者通常较年轻（年龄<50岁），并且缺乏动脉粥样硬化性冠状动脉疾病（CAD）的大部分危险因素（例如，高血压、糖尿病）。然而，吸烟是一个强有力的危险因素，这可能是由于其导致内皮功能障碍。\n\n血管痉挛性心绞痛通常通过动态心电图（Holter监测器）诊断，该心电图在胸部不适发作期间显示ST段抬高，然后进行冠状动脉造影以排除动脉粥样硬化性CAD。舌下含服硝酸甘油可有效缓解血管痉挛性心绞痛的活动发作，钙通道阻滞剂（如地尔硫卓、氨氯地平）可有效预防发作。\n\n（选项A和D）内皮素-1是一种强效血管收缩剂，前列环素是一种血管舒张剂。因此，内皮素-1的表达降低或前列环素的表达增加将刺激冠状血管舒张而非血管痉挛。\n\n（选项B）动脉中层肉芽肿性炎症发生在Takayasu动脉炎中，这是一种累及主动脉及其主要分支的大血管血管炎。亚洲血统的年轻女性最常受到影响，有时会因冠状动脉受累而出现心绞痛；然而，伴有全身症状（例如，发烧、疲劳）的肢体跛行（由于锁骨下动脉受累）是一种更常见的表现。\n\n（选项E）覆盖动脉粥样硬化斑块的薄纤维帽溃疡可导致不稳定型心绞痛，其特征是间歇性胸部不适，类似于血管痉挛性心绞痛。然而，在这种没有明显CAD危险因素的年轻女性中，动脉粥样硬化性CAD不太可能。\n\n教育目标：\n血管痉挛性心绞痛涉及冠状动脉平滑肌的反应过度。患者通常较年轻（年龄<50岁），并且没有冠状动脉疾病的显著危险因素；他们会经历反复发作的胸部不适，通常发生在休息或睡眠期间，并在15分钟内缓解。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of vasospastic angina (Prinzmetal angina), including its pathogenesis, clinical presentation, and diagnostic findings. It requires understanding the role of coronary artery vasospasm and the factors that contribute to it.\n\nThe best approach is to recognize the key features of vasospastic angina: young patient, recurrent chest pain at rest, ST-segment elevations on ECG, and absence of obstructive lesions on angiography. Then, identify the underlying mechanism most consistent with these findings.",
+    "zh": "本题考察对血管痉挛性心绞痛（Prinzmetal心绞痛）的认识，包括其发病机制、临床表现和诊断发现。它需要理解冠状动脉血管痉挛的作用及其影响因素。\n\n最好的方法是识别血管痉挛性心绞痛的关键特征：年轻患者、静息时反复胸痛、心电图ST段抬高以及血管造影未见阻塞性病变。然后，确定与这些发现最一致的潜在机制。"
+  },
+  "tags": "Vasospastic angina; Prinzmetal angina; Coronary artery spasm; Chest pain; ST elevation; ECG; Coronary angiography; Endothelial dysfunction; Autonomic imbalance; Cardiology",
+  "category": "CVS",
+  "question_id": "15001",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\15001",
+  "extracted_at": "2025-11-05T11:54:49.920742",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:46:23.299921",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

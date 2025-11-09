@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "Researchers develop a novel drug to treat HIV infection. In an in vitro experiment, wild-type viral isolates are cultured with human CD4 T lymphocytes in the presence of the drug. Microscopic evaluation of these cells reveals no cytopathic changes, and no intracellular viral particles can be detected. Further analysis reveals that in the presence of the drug the virus attaches to the cellular membrane, but fusion of the viral and cell membranes does not occur. Which of the following is the most likely target of this medication?",
+    "zh": "研究人员开发了一种治疗 HIV 感染的新药。在一项体外实验中，将野生型病毒分离株与人 CD4 T 淋巴细胞一起在药物存在下培养。对这些细胞的显微镜评估显示没有细胞病变改变，并且无法检测到细胞内病毒颗粒。进一步的分析表明，在药物存在下，病毒附着在细胞膜上，但病毒膜和细胞膜并未发生融合。以下哪项最可能是该药物的靶点？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely target of this medication?",
+    "zh": "以下哪项最可能是该药物的靶点？"
+  },
+  "options": {
+    "A": {
+      "en": "Viral integrase enzyme",
+      "zh": "病毒整合酶"
+    },
+    "B": {
+      "en": "Viral *Nef* gene product",
+      "zh": "病毒 *Nef* 基因产物"
+    },
+    "C": {
+      "en": "Viral *Tat* gene product",
+      "zh": "病毒 *Tat* 基因产物"
+    },
+    "D": {
+      "en": "T-cell antigen receptor-CD3 complex",
+      "zh": "T 细胞抗原受体-CD3 复合物"
+    },
+    "E": {
+      "en": "T-cell chemokine receptor",
+      "zh": "T 细胞趋化因子受体"
+    },
+    "F": {
+      "en": "T-cell CTLA4 (CD152)",
+      "zh": "T 细胞 CTLA4 (CD152)"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "HIV attaches to host cells using the viral surface glycoprotein **gp120**. This glycoprotein **binds to the CD4** molecule as the primary receptor and the **chemokine receptor CCR5** (or CXCR4) as a coreceptor. Binding of the primary receptor and coreceptor induces a conformational change in gp120 that exposes the underlying transmembrane glycoprotein **gp41**, which **mediates viral fusion** to the host cell and release of the viral capsid into the cytoplasm.\n\nThe image {{exhibit_1}} shows the HIV virion attaching to the CD4 receptor and chemokine receptor on the infected T cell.\n\nThe Drug described in this case does not interfere with viral attachment but does interfere with viral fusion. This implies that gp120 is still able to bind to the primary CD4 receptor but may be blocked from binding to the chemokine coreceptor, which would prevent the conformational change to gp120 required for viral fusion.\n\n**Chemokine receptor antagonists** (eg, maraviroc) block this step in the HIV replication cycle. The drug described in this case could also be a fusion inhibitor (eg, enfuvirtide), which blocks gp41 from fusing the viral and host plasma membranes.\n\n(Choices B and C) *Nef* and *tat* are HIV regulatory genes. The *nef* gene product downregulates the expression of class I major histocompatibility complex proteins on the surface of infected cells, which limits immune recognition by cytotoxic T cells. The *tat* gene product is a transcriptional activator that promotes viral gene expression.\n\n(Choice A) HIV integrase is a viral enzyme that inserts the viral cDNA into the host cell chromosome.\n\n(Choice D) The CD3 receptor is found on the surface of mature T lymphocytes. Monoclonal antibodies against CD3 are being investigated for autoimmune disorders, but this receptor does not play a role in HIV entry.\n\n(Choice F) CTLA4 (CD-152) is a negative regulator of T-cell activation. Antagonists of CTLA4 are used as immune checkpoint inhibitors in cancer therapy (eg, melanoma).\n\nEducational objective: The chemokine receptor CCR5 is a coreceptor that enables the HIV virus to enter cells. Blockade of CCR5 by chemokine receptor antagonists prevents viral entry into host cells.",
+    "zh": "HIV 使用病毒表面糖蛋白 **gp120** 附着于宿主细胞。这种糖蛋白 **与 CD4 结合** 作为主要受体，与 **趋化因子受体 CCR5**（或 CXCR4）结合作为辅助受体。主要受体和辅助受体的结合诱导 gp120 构象改变，从而暴露潜在的跨膜糖蛋白 **gp41**，后者 **介导病毒与宿主细胞的融合**，并将病毒衣壳释放到细胞质中。\n\n图像 {{exhibit_1}} 显示 HIV 病毒体附着在受感染 T 细胞上的 CD4 受体和趋化因子受体上。\n\n本例中描述的药物不干扰病毒附着，但会干扰病毒融合。这意味着 gp120 仍然能够与主要的 CD4 受体结合，但可能被阻止与趋化因子辅助受体结合，这将阻止病毒融合所需的 gp120 构象改变。\n\n**趋化因子受体拮抗剂**（例如，马拉维罗克）阻断了 HIV 复制周期的这一步。本例中描述的药物也可能是一种融合抑制剂（例如，恩夫韦地），它阻止 gp41 与病毒和宿主细胞膜融合。\n\n（选项 B 和 C）*Nef* 和 *tat* 是 HIV 调节基因。*nef* 基因产物下调受感染细胞表面 I 类主要组织相容性复合体蛋白的表达，这限制了细胞毒性 T 细胞的免疫识别。*tat* 基因产物是一种转录激活因子，可促进病毒基因表达。\n\n（选项 A）HIV 整合酶是一种病毒酶，它将病毒 cDNA 插入宿主细胞染色体中。\n\n（选项 D）CD3 受体位于成熟 T 淋巴细胞的表面。针对 CD3 的单克隆抗体正在研究用于自身免疫性疾病，但该受体在 HIV 进入中不起作用。\n\n（选项 F）CTLA4 (CD-152) 是 T 细胞活化的负调节因子。CTLA4 的拮抗剂被用作癌症治疗（例如，黑色素瘤）中的免疫检查点抑制剂。\n\n教育目标：趋化因子受体 CCR5 是一种辅助受体，可使 HIV 病毒进入细胞。趋化因子受体拮抗剂阻断 CCR5 可防止病毒进入宿主细胞。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of HIV entry mechanisms, specifically the roles of CD4, gp120, chemokine receptors (CCR5), and gp41 in viral attachment and fusion. It also assesses understanding of how certain drugs can inhibit HIV entry by targeting these molecules. \n\nTo solve this question, focus on the information provided about the drug's mechanism of action: it allows viral attachment but prevents fusion. This points to a target involved in the fusion process, such as the chemokine receptor CCR5 or the gp41 protein.",
+    "zh": "本题考察对 HIV 进入机制的了解，特别是 CD4、gp120、趋化因子受体 (CCR5) 和 gp41 在病毒附着和融合中的作用。它还评估对某些药物如何通过靶向这些分子来抑制 HIV 进入的理解。\n\n要解决这个问题，请关注有关药物作用机制提供的信息：它允许病毒附着但阻止融合。这指向了参与融合过程的靶点，例如趋化因子受体 CCR5 或 gp41 蛋白。"
+  },
+  "tags": "HIV; Viral fusion; Chemokine receptor CCR5; gp120; gp41; Antiretroviral drugs; Infectious diseases; Virology",
+  "category": "Micro",
+  "question_id": "953",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\953",
+  "extracted_at": "2025-11-05T15:06:40.948056",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:13:50.904380",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

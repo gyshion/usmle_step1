@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 19-year-old man is brought to the emergency department due to weakness and confusion. Family members report that for the last 2 weeks he has experienced polyuria, polydipsia, and increased appetite. Medical history is remarkable for an appendectomy at age 12. The patient does not use tobacco, alcohol, or illicit drugs. Family history is significant for hypothyroidism in his brother. Temperature is 36.7 C (98 F), blood pressure is 90/60 mm Hg, pulse is 97/min, and respirations are 22/min. On physical examination, the patient is lethargic but follows simple commands. His breath has a fruity odor. This patient is most likely deficient in a hormone that normally performs which of the following actions?",
+    "zh": "一名19岁的男性因虚弱和意识模糊被送往急诊科。家人报告说，在过去的2周里，他出现了多尿、烦渴和食欲增加。病史显示，他在12岁时接受过阑尾切除术。患者不使用烟草、酒精或违禁药物。家族史显示他的兄弟患有甲状腺功能减退症。体温为36.7摄氏度（98华氏度），血压为90/60毫米汞柱，脉搏为97/分钟，呼吸频率为22/分钟。体格检查显示，患者嗜睡，但能听从简单的指令。他的呼吸有水果味。该患者最有可能缺乏一种通常执行以下哪种作用的激素？"
+  },
+  "question": {
+    "en": "This patient is most likely deficient in a hormone that normally performs which of the following actions?",
+    "zh": "该患者最有可能缺乏一种通常执行以下哪种作用的激素？"
+  },
+  "options": {
+    "A": {
+      "en": "Activates hormone-sensitive lipase",
+      "zh": "激活激素敏感性脂肪酶"
+    },
+    "B": {
+      "en": "Decreases glucagon secretion",
+      "zh": "减少胰高血糖素分泌"
+    },
+    "C": {
+      "en": "Decreases muscle glycogen synthesis",
+      "zh": "减少肌肉糖原合成"
+    },
+    "D": {
+      "en": "Increases hepatic glucose production",
+      "zh": "增加肝脏葡萄糖产生"
+    },
+    "E": {
+      "en": "Increases renal glucose reabsorption",
+      "zh": "增加肾脏葡萄糖重吸收"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has undiagnosed type 1 diabetes mellitus and is now presenting with DIABETIC KETOACIDOSIS (polyuria, polydipsia, altered mental status, fruity breath [exhaled ketones]). Diabetic ketoacidosis results from a DEFICIENCY of INSULIN coupled with an excess of counterregulatory hormones (ie, glucagon, epinephrine).\n\nBlood glucose levels are normally maintained within a tight range by the opposing effects of insulin (secreted by beta cells) and glucagon (secreted by alpha cells). In the fasting state, low blood glucose levels stimulate secretion of glucagon in the liver. In contrast, INSULIN is released in response to high glucose levels and functions to decrease hepatic glucose production (Choice D) and increase glucose uptake by insulin-responsive tissues. INSULIN also suppresses glucagon by directly acting on the alpha cells, enhancing the metabolic effects of insulin.\n\nIn type 1 diabetes mellitus, unsuppressed glucagon secretion due to insulin deficiency contributes to excess blood glucose levels.\n\n(Choice A) In adipose tissue, hormone-sensitive lipase hydrolyzes intracellular triglycerides to release free fatty acids. Hormone-sensitive lipase is activated by ACTH and epinephrine in the fasting state and is downregulated by insulin in the fed state. In untreated type 1 diabetes, the lack of insulin induces a catabolic state, resulting in increased lipolysis; patients typically lose weight despite a normal or increased appetite.\n\n(Choice C) In skeletal muscle, insulin increases glucose uptake and synthesis of glycogen, which is then available for energy production during exercise. Insulin also increases amino acid transport and ribosomal translation efficiency in muscle tissue, leading to an overall increase in protein synthesis. Insulin deficiency in type 1 diabetes leads to decreased muscle glycogen synthesis and muscle wasting.\n\n(Choice E) In the renal tubules, glucose is actively taken up from the tubular lumen by sodium-glucose co-transporter 2 (SGLT2) and then passed across the basolateral membrane. This occurs independent of insulin levels and leads to near-complete reabsorption of filtered glucose (unless severe hyperglycemia overwhelms the reabsorptive capacity, leading to osmotic diuresis and polyuria).\n\nEducational objective:\nNormal blood glucose levels are maintained by the opposing effects of insulin and glucagon. Glucagon stimulates hepatic glycogenolysis and gluconeogenesis, whereas insulin increases peripheral glucose uptake and inhibits lipolysis and ketoacid formation. Insulin also suppresses glucagon release.",
+    "zh": "该患者未确诊为1型糖尿病，目前表现为糖尿病酮症酸中毒（多尿、烦渴、精神状态改变、水果味呼吸[呼出酮体]）。糖尿病酮症酸中毒是由胰岛素缺乏以及过多的拮抗调节激素（即胰高血糖素、肾上腺素）引起的。\n\n血糖水平通常通过胰岛素（由β细胞分泌）和胰高血糖素（由α细胞分泌）的相反作用维持在狭窄的范围内。在空腹状态下，低血糖水平会刺激肝脏分泌胰高血糖素。相反，胰岛素是响应高血糖水平而释放的，其作用是减少肝脏葡萄糖产生（选项D）并增加胰岛素敏感组织的葡萄糖摄取。胰岛素还通过直接作用于α细胞来抑制胰高血糖素，从而增强胰岛素的代谢作用。\n\n在1型糖尿病中，由于胰岛素缺乏导致胰高血糖素分泌未被抑制，从而导致血糖水平过高。\n\n（选项A）在脂肪组织中，激素敏感性脂肪酶水解细胞内甘油三酯以释放游离脂肪酸。激素敏感性脂肪酶在空腹状态下被ACTH和肾上腺素激活，而在进食状态下被胰岛素下调。在未经治疗的1型糖尿病中，缺乏胰岛素会诱导分解代谢状态，导致脂解增加；尽管食欲正常或增加，但患者通常会减轻体重。\n\n（选项C）在骨骼肌中，胰岛素增加葡萄糖摄取和糖原合成，然后在运动期间用于能量产生。胰岛素还增加肌肉组织中的氨基酸转运和核糖体翻译效率，从而导致蛋白质合成的总体增加。1型糖尿病中的胰岛素缺乏导致肌肉糖原合成减少和肌肉萎缩。\n\n（选项E）在肾小管中，葡萄糖通过钠-葡萄糖协同转运蛋白2 (SGLT2) 从管腔中主动摄取，然后穿过基底外侧膜。这与胰岛素水平无关，并导致几乎完全重吸收过滤的葡萄糖（除非严重的血糖过高超过重吸收能力，导致渗透性利尿和多尿）。\n\n教学目标：\n正常的血糖水平由胰岛素和胰高血糖素的相反作用维持。胰高血糖素刺激肝糖原分解和糖异生，而胰岛素增加外周葡萄糖摄取并抑制脂肪分解和酮酸形成。胰岛素还抑制胰高血糖素的释放。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of insulin's physiological effects, particularly its role in glucose metabolism and counter-regulatory hormone suppression. It also assesses the understanding of diabetic ketoacidosis pathophysiology.\n\nThe key to solving this question is recognizing the signs and symptoms of diabetic ketoacidosis and understanding that the underlying deficiency is insulin. Knowing insulin's functions, especially its role in suppressing glucagon secretion, leads to the correct answer.",
+    "zh": "这个问题测试了对胰岛素生理作用的了解，特别是其在葡萄糖代谢和抑制拮抗调节激素中的作用。它还评估了对糖尿病酮症酸中毒病理生理学的理解。\n\n解决这个问题的关键是认识糖尿病酮症酸中毒的体征和症状，并了解潜在的缺陷是胰岛素。了解胰岛素的功能，特别是其在抑制胰高血糖素分泌方面的作用，可以得出正确的答案。"
+  },
+  "tags": "Type 1 diabetes mellitus; Diabetic ketoacidosis; Insulin; Glucagon; Glucose metabolism; Endocrinology; Polyuria; Polydipsia; Hyperglycemia",
+  "category": "Endo",
+  "question_id": "1540",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\1540",
+  "extracted_at": "2025-11-05T14:01:07.139669",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:37:59.707379",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

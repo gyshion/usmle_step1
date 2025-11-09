@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 21-year-old man is brought to the emergency department in a stuporous condition by his parents. The patient returned from a visit to South America a week ago and shortly thereafter developed high fever, headache, severe myalgia, and joint pain. He had similar symptoms following a trip to Mexico 5 years ago, but the symptoms resolved spontaneously within a few days. Temperature is 38.3 C (101 F), blood pressure is 80/50 mm Hg, and pulse is 128/min. Examination is notable for multiple petechiae, purpuric lesions, and hepatomegaly. There is severe lower back pain at rest and with movement. Laboratory studies reveal marked thrombocytopenia, leukopenia, and elevated liver aminotransferases.",
+    "zh": "一名21岁男性由父母带到急诊科，处于昏迷状态。患者一周前从南美洲旅行回来，不久后出现高热、头痛、严重肌痛和关节痛。5年前，他在墨西哥旅行后也出现过类似的症状，但症状在几天内自发缓解。体温为38.3°C（101°F），血压为80/50 mmHg，脉搏为128次/分钟。检查可见多发瘀点、紫癜性皮损和肝肿大。静止和活动时均有严重的腰背疼痛。实验室研究显示血小板减少、白细胞减少和肝转氨酶升高。"
+  },
+  "question": {
+    "en": "Which of the following most likely accounts for the severity of this patient's current illness?",
+    "zh": "以下哪项最有可能解释该患者目前病情的严重程度？"
+  },
+  "options": {
+    "A": {
+      "en": "Antigenic drift in the virus",
+      "zh": "病毒的抗原漂移"
+    },
+    "B": {
+      "en": "Blunted T-lymphocyte response",
+      "zh": "T淋巴细胞反应迟钝"
+    },
+    "C": {
+      "en": "Infection with a different viral serotype",
+      "zh": "感染了不同的病毒血清型"
+    },
+    "D": {
+      "en": "Larger viral inoculation dose",
+      "zh": "更大的病毒接种剂量"
+    },
+    "E": {
+      "en": "Viral superinfection",
+      "zh": "病毒再感染"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient recently traveled to South America and now has several manifestations of dengue, a Flavivirus infection transmitted by female Aedes mosquitoes. Although primary (first) infections can be asymptomatic, adult patients may develop high fever, retroorbital pain, and severe myalgia/arthralgia, which gives dengue its common name breakbone fever. Hemorrhagic symptoms (eg, epistaxis, petechiae/purpura) can also occur, and laboratory evaluation often shows leukopenia, thrombocytopenia, and elevated transaminases. Most primary infections resolve spontaneously within 3-5 days and lead to lifelong protective immunity against the infecting viral serotype.\n\nHowever, there are 4 dengue virus serotypes, and secondary infection with a different viral serotype is common and is usually associated with more severe illness. Secondary infections are particularly likely to cause dengue shock syndrome, a life-threatening dysregulation marked by increased capillary permeability, circulatory collapse (eg, shock), and end-organ damage (eg, stupor).\n\nAlthough the exact pathogenesis of dengue shock syndrome remains unclear, it is probably due to the formation of nonneutralizing, cross-reactive antibodies during primary infection that then trigger antibody-dependent enhancement of secondary infection. There may also be accelerated (not blunted) T-lymphocyte activity against secondary infection due to display of cross-reacting viral antigens on major histocompatibility complexes of infected cells (Choice B).\n\n(Choice A) Antigenic drift is a minor change in viral structure that makes neutralizing antibodies formed during previous infection less effective. This can increase the risk of reinfection and lead to outbreaks. Antigenic drift is frequently seen with the influenza virus, but is not prominent with the dengue virus.\n\n(Choice D) Dengue virus inoculation size is not strongly correlated with severity of illness compared to many other viral infections (eg, influenza, hepatitis B).\n\n(Choice E) Viral superinfection can occur when hepatitis D virus infects a patient with active hepatitis B virus infection. Although superinfection can cause severe hepatitis (eg, elevated transaminases, systemic symptoms, high fever), the presence of the shock syndrome and hemorrhagic manifestations shortly after travel to South America makes dengue more likely. Hepatitis D is uncommon in the western hemisphere unless patients are in a high-risk category (eg, injection drug user).\n\nEducational objective:\nThere are 4 different serotypes of dengue virus. Repeat infection occurs when a person is exposed to a serotype not previously encountered. Secondary infections are often far more severe than primary infections and may be associated with a life-threatening shock syndrome.",
+    "zh": "该患者最近去了南美洲旅行，现在出现登革热的多种表现，这是一种由雌性伊蚊传播的黄病毒感染。虽然原发性（首次）感染可能无症状，但成年患者可能出现高热、眼眶后疼痛和严重肌痛/关节痛，这使得登革热被称为“断骨热”。也可能出现出血症状（如鼻出血、瘀点/紫癜），实验室评估通常显示白细胞减少、血小板减少和转氨酶升高。大多数原发性感染在3-5天内自发缓解，并对感染的病毒血清型产生终生保护性免疫。\n\n然而，登革病毒有4种血清型，感染不同的病毒血清型是常见的，并且通常与更严重的疾病相关。继发性感染特别容易引起登革热休克综合征，这是一种危及生命的失调，其特征是毛细血管通透性增加、循环衰竭（如休克）和终末器官损伤（如昏迷）。\n\n尽管登革热休克综合征的確切发病机制尚不清楚，但它很可能是由于原发性感染期间形成的非中和性交叉反应性抗体，随后触发了继发性感染的抗体依赖性增强。由于交叉反应性病毒抗原在受感染细胞的主要组织相容性复合物上显示，也可能加速（而非迟钝）针对继发性感染的T淋巴细胞活性（选项B）。\n\n（选项A）抗原漂移是病毒结构的微小变化，使在先前感染期间形成的 中和抗体 效果降低。这会增加再感染的风险并导致疫情爆发。在流感病毒中经常可以看到抗原漂移，但在登革病毒中并不突出。\n\n（选项D）与许多其他病毒感染（如流感、乙型肝炎）相比，登革病毒的接种剂量与疾病严重程度的相关性不大。\n\n（选项E）当丁型肝炎病毒感染活动性乙型肝炎病毒感染的患者时，可能会发生病毒再感染。尽管再感染可引起严重肝炎（如转氨酶升高、全身症状、高热），但在前往南美洲旅行后不久出现休克综合征和出血表现使登革热的可能性更大。除非患者属于高危人群（如注射吸毒者），否则在西半球，丁型肝炎并不常见。\n\n教育目标：\n登革病毒有4种不同的血清型。当一个人接触到先前未接触过的血清型时，就会发生重复感染。继发性感染通常比原发性感染严重得多，并且可能与危及生命的休克综合征有关。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of dengue fever, specifically the increased severity of secondary infections with different serotypes due to antibody-dependent enhancement. It assesses the ability to differentiate between primary and secondary dengue infections and their associated complications.\n\nTo solve this question, recognize the patient's travel history, symptoms (fever, myalgia, petechiae, hepatomegaly), and lab findings (thrombocytopenia, leukopenia, elevated liver enzymes) as indicative of dengue. Consider the patient's previous dengue-like illness and understand that secondary infections with different serotypes are more likely to cause severe complications like dengue shock syndrome.",
+    "zh": "此问题考察了登革热的知识，特别是由于抗体依赖性增强导致不同血清型的继发性感染的严重程度增加。它评估了区分原发性和继发性登革热感染及其相关并发症的能力。\n\n要解决这个问题，需要识别患者的旅行史、症状（发烧、肌痛、瘀点、肝肿大）和实验室发现（血小板减少、白细胞减少、肝酶升高），这些都提示登革热。考虑患者之前的登革热样疾病，并了解不同血清型的继发性感染更容易引起严重的并发症，如登革热休克综合征。"
+  },
+  "tags": "Dengue fever; Flavivirus; Aedes mosquito; Secondary infection; Antibody-dependent enhancement; Dengue shock syndrome; Thrombocytopenia; Leukopenia; Liver enzymes; Travel medicine",
+  "category": "Micro",
+  "question_id": "11395",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\11395",
+  "extracted_at": "2025-11-05T14:50:23.749251",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:05:28.055101",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

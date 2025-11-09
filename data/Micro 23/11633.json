@@ -1,0 +1,71 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old woman comes to the emergency department due to fevers and chills over the last 24 hours. Three weeks ago, she underwent a partial bowel resection for Crohn disease without complications. Since the surgery, the patient has had difficulty eating and has a peripherally inserted central venous catheter in place through which she is receiving parenteral nutrition. {{exhibit_1}} Her temperature is 38.2 C (101 F), blood pressure is 100/60 mm Hg, and pulse is 114/min. {{exhibit_2}} The surgical wound healed well, and her abdomen is soft and nontender. {{exhibit_3}} The catheter site on the left arm is mildly tender but shows no erythema. {{exhibit_4}} Chest x-ray reveals a properly positioned central venous line and is otherwise unremarkable. {{exhibit_5}} Admission blood cultures subsequently return positive for yeast. {{exhibit_6}} The organism responsible for this patient's bloodstream infection is most likely to exhibit which of the following characteristics?",
+    "zh": "一名24岁女性因过去24小时内出现发热和寒战而到急诊科就诊。三周前，她因克罗恩病接受了部分肠切除术，术后无并发症。自手术以来，患者进食困难，并置入了外周静脉置管，通过该置管接受肠外营养。{{exhibit_1}} 她的体温为38.2摄氏度（101华氏度），血压为100/60毫米汞柱，脉搏为114次/分。{{exhibit_2}} 手术切口愈合良好，腹部柔软且无压痛。{{exhibit_3}} 左臂的导管置入部位轻微触痛，但无红斑。{{exhibit_4}} 胸部X线显示中心静脉导管位置正确，无其他异常。{{exhibit_5}} 入院血培养随后酵母菌呈阳性。{{exhibit_6}} 导致该患者血流感染的病原体最有可能表现出以下哪种特征？"
+  },
+  "question": {
+    "en": "The organism responsible for this patient's bloodstream infection is most likely to exhibit which of the following characteristics?",
+    "zh": "导致该患者血流感染的病原体最有可能表现出以下哪种特征？"
+  },
+  "options": {
+    "A": {
+      "en": "Broad-based budding morphology",
+      "zh": "宽基出芽形态"
+    },
+    "B": {
+      "en": "Endemic to southwestern United States",
+      "zh": "美国西南部流行"
+    },
+    "C": {
+      "en": "Positive India ink stain",
+      "zh": "印度墨水染色阳性"
+    },
+    "D": {
+      "en": "Pseudohyphae with blastoconidia",
+      "zh": "假菌丝和芽生孢子"
+    },
+    "E": {
+      "en": "Right-angle branching hyphae",
+      "zh": "直角分支菌丝"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has a central venous catheter and is receiving parenteral nutrition, placing her at high risk for candidemia. The blood cultures grew yeast, and the morphology of Candida includes pseudohyphae with blastoconidia. {{exhibit_1}} Broad-based budding is characteristic of Blastomyces. {{exhibit_2}} Coccidioides is endemic to the southwestern United States. {{exhibit_3}} Cryptococcus is identified by a positive India ink stain, showing encapsulated yeast. {{exhibit_4}} Right-angle branching hyphae are characteristic of mucormycosis. {{exhibit_5}} {{exhibit_6}}",
+    "zh": "该患者置有中心静脉导管并接受肠外营养，这使她面临患念珠菌血症的高风险。血培养中生长出酵母菌，并且念珠菌的形态包括假菌丝和芽生孢子。{{exhibit_1}} 宽基出芽是芽生菌的特征。{{exhibit_2}} 球孢子菌在美国西南部流行。{{exhibit_3}} 新型隐球菌通过印度墨水染色呈阳性进行鉴定，显示有荚膜的酵母菌。{{exhibit_4}} 直角分支菌丝是毛霉病的特征。{{exhibit_5}} {{exhibit_6}}"
+  },
+  "summary": {
+    "en": "A patient with a central venous catheter and receiving parenteral nutrition develops a bloodstream infection with yeast. The question asks to identify the most likely characteristic of the causative organism. The explanation details why Candida, characterized by pseudohyphae with blastoconidia, is the most likely pathogen in this scenario, and why the other options are incorrect based on their associated organisms and characteristics.",
+    "zh": "一名置有中心静脉导管并接受肠外营养的患者发生酵母菌血流感染。问题要求确定最可能的病原体特征。解释详细说明了为什么以假菌丝和芽生孢子为特征的念珠菌是这种情况下最可能的病原体，以及为什么其他选项根据其相关的病原体和特征是不正确的。"
+  },
+  "tags": [
+    "Infectious Diseases",
+    "Microbiology",
+    "Catheter-related bloodstream infection",
+    "Candida",
+    "Yeast"
+  ],
+  "category": "Micro",
+  "question_id": "11633",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\11633",
+  "extracted_at": "2025-11-05T19:24:13.435946",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:05:52.530629",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

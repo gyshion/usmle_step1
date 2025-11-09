@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "An 8-year-old girl is brought to the office by her mother due to chronic pruritus affecting her arms. The mother states that the patient is always scratching herself. She scratches through the night, affecting her ability to sleep. Her sister has similar, but less severe, symptoms. The patient also has intermittent asthma. The rash is shown in the exhibit {{exhibit_1}}. First-line therapy for this patient's condition works by which of the following mechanisms of action?",
+    "zh": "一位8岁女孩因慢性瘙痒影响手臂而由母亲带到诊所。母亲说患者一直在抓挠自己。她整夜抓挠，影响了她的睡眠能力。她的妹妹有类似的症状，但症状较轻。该患者也有间歇性哮喘。皮疹如{{exhibit_1}}所示。该患者病情的首选治疗方法是通过以下哪种作用机制起作用？"
+  },
+  "question": {
+    "en": "First-line therapy for this patient's condition works by which of the following mechanisms of action?",
+    "zh": "该患者病情的首选治疗方法是通过以下哪种作用机制起作用？"
+  },
+  "options": {
+    "A": {
+      "en": "Blockade of leukotriene receptors in inflamed tissue",
+      "zh": "阻断发炎组织中的白三烯受体"
+    },
+    "B": {
+      "en": "Increasing the number of resident dendritic cells",
+      "zh": "增加驻留树突状细胞的数量"
+    },
+    "C": {
+      "en": "Induction of keratinocyte apoptosis",
+      "zh": "诱导角质形成细胞凋亡"
+    },
+    "D": {
+      "en": "Inhibition of phospholipase A₂ activity in cell membranes",
+      "zh": "抑制细胞膜中磷脂酶A₂的活性"
+    },
+    "E": {
+      "en": "Reduction of serum IgE levels",
+      "zh": "降低血清IgE水平"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has pruritic lichenified plaques on the bilateral antecubital fossae, findings consistent with atopic dermatitis. Atopic dermatitis is an inflammatory condition caused by genetically mediated epidermal barrier dysfunction and immune dysregulation favoring a Th2-skewed response. Patients typically have a family history and comorbid atopic conditions (eg, asthma, allergic rhinitis), as in this patient. First-line therapy is topical corticosteroids. {{exhibit_2}}\n\nCorticosteroids bind to cytoplasmic receptors and translocate to the nucleus, where they act primarily by inhibiting transcription of genes encoding inflammatory mediators. Specific mechanisms include the following:\n\n•\tLocal tissue production of proinflammatory prostaglandins and leukotrienes through the inhibition of phospholipase A₂\n\n•\tSynthesis of proinflammatory cytokines (eg, IL-4, IL-13)\n\n•\tProduction of anti-inflammatory mediators\n\nIn addition, corticosteroids act on nonimmune cells and can cause impaired wound healing due to reduced fibroblast growth. They also reduce epithelial proliferation and type I collagen synthesis in the dermis, which can lead to skin atrophy with chronic use.\n\n(Choice A) Leukotriene receptor blockers (eg, montelukast) block the effects of leukotrienes (released by mast cells and eosinophils). These medications are used as adjunct therapy for allergic rhinitis and asthma and can help reduce mucus secretion, edema, and bronchoconstriction.\n\n(Choice B) Topical corticosteroids decrease, not increase, dendritic cell populations, in part by inducing dendritic cell apoptosis. These antigen-presenting cells activate naïve T cells and are thought to play a role in initiating inflammation in atopic dermatitis.\n\n(Choice C) Keratinocyte apoptosis induced by ultraviolet phototherapy is effective for treating psoriasis, which causes plaques with silvery scales on the extensor elbows, knees, and gluteal cleft (not the antecubital fossae). Phototherapy is also sometimes used for refractory atopic dermatitis (ie, not first-line therapy), but functions primarily by inducing T-cell apoptosis.\n\n(Choice E) IL-4 normally stimulates B-cell production of IgE and is suppressed with topical corticosteroids. However, corticosteroids also increase CD40-ligand expression on T cells, which stimulates IgE production to a greater degree than IL-4 suppression, and the net effect is a rise in IgE.\n\nEducational objective:\nTopical corticosteroids are the first-line therapy for atopic dermatitis. Their mechanism of action includes decreasing tissue production of proinflammatory prostaglandins and leukotrienes through the inhibition of phospholipase A₂; they also inhibit transcription of many other proinflammatory mediators. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "该患者双侧肘窝有瘙痒性苔藓样斑块，与特应性皮炎一致。特应性皮炎是一种炎症性疾病，由基因介导的表皮屏障功能障碍和免疫失调引起，有利于Th2偏向反应。患者通常有家族史和合并症（如哮喘、过敏性鼻炎），就像该患者一样。一线治疗是局部皮质类固醇。{{exhibit_2}}\n\n皮质类固醇与细胞质受体结合并转移到细胞核，主要通过抑制编码炎症介质的基因的转录起作用。具体机制包括以下几点：\n\n•\t通过抑制磷脂酶A₂，局部组织产生促炎前列腺素和白三烯\n\n•\t合成促炎细胞因子（例如，IL-4、IL-13）\n\n•\t产生抗炎介质\n\n此外，皮质类固醇作用于非免疫细胞，由于成纤维细胞生长减少，可能导致伤口愈合受损。它们还可以减少真皮中上皮细胞增殖和I型胶原蛋白的合成，长期使用会导致皮肤萎缩。\n\n（选项A）白三烯受体阻滞剂（例如，孟鲁司特）阻断白三烯（由肥大细胞和嗜酸性粒细胞释放）的作用。这些药物被用作过敏性鼻炎和哮喘的辅助治疗，有助于减少粘液分泌、水肿和支气管收缩。\n\n（选项B）局部皮质类固醇会减少而非增加树突状细胞的数量，部分原因是诱导树突状细胞凋亡。这些抗原呈递细胞激活幼稚T细胞，并被认为在特应性皮炎的炎症起始中起作用。\n\n（选项C）紫外线光疗诱导的角质形成细胞凋亡对治疗银屑病有效，银屑病会在伸侧肘部、膝盖和臀部裂隙上引起带有银色鳞屑的斑块（而不是肘窝）。光疗有时也用于难治性特应性皮炎（即，非一线治疗），但主要通过诱导T细胞凋亡起作用。\n\n（选项E）IL-4通常刺激B细胞产生IgE，并被局部皮质类固醇抑制。然而，皮质类固醇也会增加T细胞上CD40-配体的表达，刺激IgE的产生，其程度大于IL-4的抑制作用，最终效果是IgE升高。\n\n教育目标：\n局部皮质类固醇是特应性皮炎的一线治疗方法。其作用机制包括通过抑制磷脂酶A₂来减少组织产生促炎前列腺素和白三烯；它们还抑制许多其他促炎介质的转录。{{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the first-line treatment for atopic dermatitis and its mechanism of action. Specifically, it focuses on how topical corticosteroids inhibit phospholipase A2 activity to reduce inflammation.\n\nTo solve this question, recognize the clinical presentation of atopic dermatitis and recall that topical corticosteroids are the first-line treatment. Then, understand the mechanism by which corticosteroids reduce inflammation by inhibiting phospholipase A2, which decreases the production of inflammatory mediators.",
+    "zh": "本题考察了特应性皮炎的一线治疗及其作用机制的知识。具体来说，它侧重于局部皮质类固醇如何抑制磷脂酶A2的活性以减轻炎症。\n\n要解决这个问题，需要认识到特应性皮炎的临床表现，并回忆起局部皮质类固醇是一线治疗。然后，了解皮质类固醇通过抑制磷脂酶A2来减轻炎症的机制，磷脂酶A2会降低炎症介质的产生。"
+  },
+  "tags": "Atopic dermatitis; Topical corticosteroids; Phospholipase A2; Inflammation; Dermatology; Allergy; Immune system",
+  "category": "Immunology",
+  "question_id": "21294",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\21294",
+  "extracted_at": "2025-11-05T14:44:32.951087",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:02:05.139173",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 1-month-old boy is brought to the office on a hot summer day due to vomiting and excessive sleepiness. He had been exclusively breastfeeding with normal feeding patterns until this afternoon, when he had 2 episodes of emesis and appeared much sleepier than usual. The infant was born at 41 weeks gestation after an unremarkable pregnancy. Newborn screening was positive for a homozygous ΔF508 mutation affecting an epithelial transmembrane protein; further confirmatory testing is pending. Physical examination shows a somnolent boy with a sunken fontanelle and dry mucous membranes.",
+    "zh": "一名1个月大的男婴因呕吐和过度嗜睡于炎热的夏日被带到诊所。此前他一直纯母乳喂养，喂养模式正常，直到今天下午，他出现2次呕吐，并且比平时更嗜睡。婴儿在妊娠41周时出生，妊娠过程无特殊情况。新生儿筛查结果显示存在影响上皮细胞跨膜蛋白的纯合子 ΔF508 突变；正在等待进一步的确诊检测。体格检查显示一名嗜睡的男孩，囟门凹陷，黏膜干燥。"
+  },
+  "question": {
+    "en": "Which of the following electrolyte disturbances is most likely responsible for this patient's current symptoms?",
+    "zh": "以下哪种电解质紊乱最有可能导致该患者目前的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Hyperchloremia",
+      "zh": "高氯血症"
+    },
+    "B": {
+      "en": "Hyperkalemia",
+      "zh": "高钾血症"
+    },
+    "C": {
+      "en": "Hypernatremia",
+      "zh": "高钠血症"
+    },
+    "D": {
+      "en": "Hypomagnesemia",
+      "zh": "低镁血症"
+    },
+    "E": {
+      "en": "Hyponatremia",
+      "zh": "低钠血症"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The ΔF508 mutation in patients with cystic fibrosis transmembrane conductance regulator (CFTR) protein is the most common mutation in patients with cystic fibrosis (CF). In unaffected individuals, the CFTR protein serves as a chloride channel that regulates the flow of sodium, chloride, and water across the epithelial membranes of the airways, biliary tree, intestines, sweat ducts, and pancreatic ducts. {{exhibit_1}}\n\nNewborn screening for CF is performed in the United States, but positive results should be confirmed by sweat testing. When eccrine sweat is first produced, it is isotonic with extracellular fluid. As sweat travels through the eccrine duct to the skin's surface, chloride is normally reabsorbed via CFTR, and sodium and water follow. CFTR facilitates production of hypotonic sweat in patients without CF. However, patients with CF are unable to reabsorb chloride and sodium in the eccrine ducts and therefore secrete sweat with high sodium and chloride levels.\n\nThe most likely cause of this patient's symptoms (lethargy, vomiting) is hyponatremia due to excessive salt wasting from his sweat. Risk factors for hyponatremia in patients with CF include exclusive breast or formula feeding prior to the introduction of sodium-rich, solid foods; exposure to high-temperature environments; and exercise. Therefore, salt supplementation is recommended for patients with CF.\n\n(Choice A) Chloride ions are an important contributor to extracellular fluid volume, and hypochloremia is also very common in patients with CF due to sweat losses. In contrast, hyperchloremia is more likely to develop in normal patients with excessive sweating due to increased free water loss from hypotonic sweat.\n\n(Choice B) Hyperkalemia typically occurs with cell lysis (eg, rhabdomyolysis, tumor lysis syndrome), metabolic acidosis (due to intracellular to extracellular K+ shift), or abnormalities with renal excretion.\n\n(Choice C) Hypernatremia classically occurs with excessive salt intake or free water loss (eg, diarrhea, diabetes insipidus, improperly prepared infant formula). Patients with CF typically do not experience hypernatremia as they lose excess sodium through their sweat glands.\n\n(Choice D) Hypomagnesemia most commonly arises from urinary loss due to medications (eg, loop diuretics), alcohol use, or uncontrolled diabetes mellitus with polyuria.\n\nEducational objective:\nPatients with cystic fibrosis (CF) produce eccrine sweat with higher-than-normal concentrations of sodium and chloride. Exposure to high temperature or exercise can lead to hyponatremia and hypochloremia due to excessive sodium chloride loss through sweat; therefore, salt supplementation is recommended.",
+    "zh": "囊性纤维化跨膜电导调节器 (CFTR) 蛋白的 ΔF508 突变是囊性纤维化 (CF) 患者中最常见的突变。在未受影响的个体中，CFTR 蛋白充当氯离子通道，调节钠、氯离子和水流过气道、胆道树、肠道、汗腺导管和胰腺导管的上皮细胞膜。{{exhibit_1}}\n\n美国会对 CF 进行新生儿筛查，但阳性结果应通过汗液检测进行确认。当外分泌汗液首次产生时，它与细胞外液等渗。当汗液通过外分泌导管到达皮肤表面时，氯离子通常通过 CFTR 被重吸收，钠和水也会随之重吸收。 CFTR 促进无 CF 患者产生低渗汗液。然而，CF 患者无法在外分泌导管中重吸收氯离子和钠离子，因此分泌高钠和高氯含量的汗液。\n\n该患者症状（嗜睡、呕吐）最有可能的原因是由于汗液过度盐分流失导致的低钠血症。 CF 患者发生低钠血症的危险因素包括在引入富钠固体食物之前仅母乳喂养或配方奶喂养；暴露于高温环境；以及运动。 因此，建议 CF 患者补充盐分。\n\n(选项 A) 氯离子是细胞外液容量的重要组成部分，由于汗液流失，低氯血症在 CF 患者中也很常见。 相比之下，由于低渗汗液导致自由水流失增加，高氯血症更可能发生在出汗过度的正常患者中。\n\n(选项 B) 高钾血症通常发生在细胞溶解时（例如，横纹肌溶解症、肿瘤溶解综合征）、代谢性酸中毒（由于细胞内向细胞外 K+ 转移）或肾脏排泄异常时。\n\n(选项 C) 高钠血症通常发生于钠摄入过多或自由水流失（例如，腹泻、尿崩症、配方奶配置不当）时。 CF 患者通常不会出现高钠血症，因为他们通过汗腺失去过多的钠。\n\n(选项 D) 低镁血症最常见的原因是由于药物（例如，利尿剂）、饮酒或失控的糖尿病伴多尿引起的尿液流失。\n\n教育目标：\n囊性纤维化 (CF) 患者产生的汗液中钠和氯离子的浓度高于正常水平。 暴露于高温或运动会导致因汗液过度氯化钠流失而导致的低钠血症和低氯血症； 因此，建议补充盐分。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of electrolyte imbalances in cystic fibrosis patients, specifically the pathophysiology of hyponatremia due to excessive salt wasting in sweat. It also assesses understanding of CFTR protein function and the impact of the ΔF508 mutation. \n\nTo solve this question, recognize the clinical presentation (vomiting, lethargy, sunken fontanelle) in the context of a positive CF newborn screen and hot weather. Consider the mechanism of salt loss in CF and its effect on serum sodium levels.",
+    "zh": "本题考察了囊性纤维化患者电解质失衡的知识，特别是由于汗液过度盐分流失导致的低钠血症的病理生理学。它还评估了对 CFTR 蛋白功能和 ΔF508 突变影响的理解。\n\n要解决这个问题，需要在 CF 新生儿筛查阳性和炎热天气的背景下识别临床表现（呕吐、嗜睡、囟门凹陷）。考虑 CF 中盐分流失的机制及其对血清钠水平的影响。"
+  },
+  "tags": "Cystic fibrosis; Hyponatremia; Electrolyte imbalance; CFTR protein; Sweat chloride test",
+  "category": "Chest",
+  "question_id": "1939",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1939",
+  "extracted_at": "2025-11-05T11:42:28.464473",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:37:44.363229",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old, right-handed woman is brought to the emergency department due to acute-onset headache and difficulty with vision. En route to the hospital, she becomes unconscious. Medical history is significant for hypertension. Blood pressure is 150/90 mm Hg and pulse is 90/min and regular. CT scan of the head without contrast demonstrates an acute hemorrhage in the left temporal lobe with compression of the anterior medial temporal lobe against the free margin of the tentorium cerebelli. Which of the following cranial nerves is most likely to be compromised in this patient?",
+    "zh": "一名55岁、右利手的女性因突发性头痛和视力困难被送往急诊科。在送往医院的途中，她失去了知觉。病史显示有高血压。血压为150/90 mmHg，脉搏为90次/分钟，规律。头部CT扫描（未增强）显示左侧颞叶急性出血，并压迫前内侧颞叶，使其与小脑幕游离缘相抵。该患者最有可能受损的脑神经是以下哪一个？"
+  },
+  "question": {
+    "en": "Which of the following cranial nerves is most likely to be compromised in this patient?",
+    "zh": "该患者最有可能受损的脑神经是以下哪一个？"
+  },
+  "options": {
+    "A": {
+      "en": "Abducens",
+      "zh": "外展神经"
+    },
+    "B": {
+      "en": "Facial",
+      "zh": "面神经"
+    },
+    "C": {
+      "en": "Oculomotor",
+      "zh": "动眼神经"
+    },
+    "D": {
+      "en": "Optic",
+      "zh": "视神经"
+    },
+    "E": {
+      "en": "Trigeminal",
+      "zh": "三叉神经"
+    },
+    "F": {
+      "en": "Trochlear",
+      "zh": "滑车神经"
+    },
+    "G": {
+      "en": "Vagus",
+      "zh": "迷走神经"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The patient presents with symptoms and CT findings suggestive of uncal herniation. Uncal herniation occurs when the medial portion of the temporal lobe (the uncus) herniates through the tentorial notch, compressing adjacent structures. The most commonly compressed structure is the ipsilateral oculomotor nerve (CN III). Compression of the oculomotor nerve leads to an ipsilateral fixed and dilated pupil due to parasympathetic fiber involvement. Paralysis of the oculomotor muscles also causes ptosis and a down-and-out position of the ipsilateral eye. As uncal herniation progresses, compression of the ipsilateral cerebral peduncle against the tentorium can occur, damaging descending corticospinal tracts and causing contralateral hemiparesis (a false localizing sign). Further downward displacement of the midbrain can lead to brainstem herniation and death.\n\n(A) Abducens nerve (CN VI) is located in the posterior cranial fossa and is not typically compressed by uncal herniation. It is more commonly affected in increased intracranial pressure or lesions in the posterior fossa.\n(B) Facial nerve (CN VII) and (E) Trigeminal nerve (CN V) are cranial nerves originating from the pons and are not directly compressed by uncal herniation.\n(D) Optic nerve (CN II) is located anteriorly and is not directly compressed by uncal herniation. Visual field deficits can occur due to compression of the optic chiasm or optic tracts in other types of herniation or mass lesions.\n(F) Trochlear nerve (CN IV) innervates the superior oblique muscle and is located in the midbrain. While it can be affected by midbrain compression, the oculomotor nerve is much more commonly and directly compressed by the uncus.\n(G) Vagus nerve (CN X) is a cranial nerve originating from the medulla and is not involved in uncal herniation.\n\nKey clinical pearls: UNCAL HERNIATION is characterized by IPSILATERAL fixed and dilated pupil (CN III compression), CONTRALATERAL hemiparesis (cerebral peduncle compression), and potentially IPSILATERAL hemiparesis (false localizing sign). The oculomotor nerve is the MOST LIKELY cranial nerve to be compromised.",
+    "zh": "患者出现的症状和CT表现提示钩回疝。钩回疝是指颞叶内侧部分（钩回）通过小脑幕切迹疝出，压迫邻近结构。最常受压的结构是同侧动眼神经（CN III）。动眼神经受压会导致同侧瞳孔固定和扩大，这与副交感神经纤维受累有关。动眼肌麻痹还会导致同侧眼睑下垂和眼球向下向外偏斜。随着钩回疝的进展，同侧大脑脚可能会受到小脑幕的压迫，从而损害下行皮质脊髓束，导致对侧偏瘫（一种假定位征）。中脑进一步向下移位可导致脑干疝和死亡。\n\n（A）外展神经（CN VI）位于颅后窝，通常不会因钩回疝而受压。它更常见于颅内压增高或后颅窝病变。\n（B）面神经（CN VII）和（E）三叉神经（CN V）是起源于脑桥的脑神经，不受钩回疝直接压迫。\n（D）视神经（CN II）位于前方，不受钩回疝直接压迫。由于视交叉或视束受其他类型疝或占位病变压迫，可能会出现视野缺损。\n（F）滑车神经（CN IV）支配上斜肌，位于中脑。虽然它可能会受到中脑压迫的影响，但钩回更常见且直接压迫动眼神经。\n（G）迷走神经（CN X）是起源于延髓的脑神经，不参与钩回疝。\n\n关键临床要点：钩回疝的特征是同侧瞳孔固定和扩大（CN III受压），对侧偏瘫（大脑脚受压），并可能出现同侧偏瘫（假定位征）。动眼神经是最有可能受损的脑神经。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathophysiology and clinical manifestations of uncal herniation, specifically the neurological deficits caused by compression of cranial nerves and brain structures. It requires correlating imaging findings of a temporal lobe hemorrhage with the likely neurological sequelae.\n\nTo solve this question, identify the type of brain herniation based on the location of the mass lesion (temporal lobe hemorrhage compressing the anterior medial temporal lobe against the tentorium cerebelli suggests uncal herniation). Recall the anatomical relationships of cranial nerves and brain structures to the tentorial notch and determine which structure is most likely to be compressed by the herniating uncus. The oculomotor nerve (CN III) is the most commonly affected.",
+    "zh": "此题考察对钩回疝的病理生理学和临床表现的理解，特别是由脑神经和脑结构受压引起的神经功能缺损。它需要将颞叶出血的影像学发现与可能的神经系统后遗症相关联。\n\n要解决这个问题，请根据肿块病变的位置（颞叶出血压迫前内侧颞叶对抗小脑幕提示钩回疝）确定脑疝的类型。回忆脑神经和脑结构与小脑幕切迹的解剖关系，并确定哪个结构最有可能被疝出的钩回压迫。动眼神经（CN III）是最常受累的。"
+  },
+  "tags": "Uncal herniation; Temporal lobe hemorrhage; Cranial nerve III compression; Oculomotor nerve; Brainstem herniation; Intracranial pressure; Neurology; Neurosurgery",
+  "category": "Neuro",
+  "question_id": "495",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\495",
+  "extracted_at": "2025-11-05T19:40:13.626273",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:40:55.227613",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

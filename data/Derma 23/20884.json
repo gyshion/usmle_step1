@@ -1,0 +1,57 @@
+{
+  "question_stem": {
+    "en": "A 15-year-old boy is brought to the clinic for a wound check. Three weeks ago, the patient fell while skateboarding and sustained a large abrasion to the right flank. Since his last visit, he has been showering daily and applying topical antibiotic ointment to the affected area. Examination of the right flank shows a clean, healed wound covered in pearly pink epithelium. The cells responsible for repopulation of this patient's epithelium are most likely to demonstrate which of the following features? {{exhibit_1}}",
+    "zh": "一名15岁男孩因伤口检查来到诊所。三周前，患者滑板摔倒，右侧腹部出现大面积擦伤。自上次就诊以来，他每天淋浴并在患处涂抹局部抗生素软膏。检查右侧腹部显示，伤口干净、已愈合，覆盖着珍珠粉色的上皮。负责该患者上皮细胞再生的细胞最有可能表现出以下哪种特征？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "The cells responsible for repopulation of this patient's epithelium are most likely to demonstrate which of the following features?",
+    "zh": "负责该患者上皮细胞再生的细胞最有可能表现出以下哪种特征？"
+  },
+  "options": {
+    "A": {
+      "en": "Actin-myosin-based cellular contraction",
+      "zh": "基于肌动蛋白-肌球蛋白的细胞收缩"
+    },
+    "B": {
+      "en": "Cellular proliferation controlled by contact inhibition",
+      "zh": "通过接触抑制控制的细胞增殖"
+    },
+    "C": {
+      "en": "Melanosome production and transfer to adjacent cells",
+      "zh": "黑素体产生并转移到邻近细胞"
+    },
+    "D": {
+      "en": "Phagocytosis of pathogens and cellular debris",
+      "zh": "吞噬病原体和细胞碎片"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient sustained a large flank abrasion that healed by secondary intention (ie, from the base upward). This process, which occurred over 3 weeks, involved the formation of well-vascularized connective tissue (ie, granulation tissue) at the wound base and resurfacing of the wound with new epithelium (ie, reepithelialization). {{exhibit_2}}\n\nReepithelialization is triggered when injury to the skin disrupts most or all of the layers of the epidermis, resulting in loss of keratinocyte-to-keratinocyte contact. Contact with other keratinocytes typically limits cell division and/or motility (ie, contact inhibition). However, when this contact is lost due to injury, keratinocytes are stimulated to replicate and migrate until a continuous epithelial layer is restored.\n\nFrom the wound edges, keratinocytes migrate across newly formed granulation tissue at the wound base and are replenished via replication of basal keratinocytes in the stratum basale. This process continues until keratinocytes meet other keratinocytes (ie, contact inhibition), corresponding with completion of reepithelization (eg, wound covered in pearly pink epithelium). At this point, proliferation and migration signals cease, and the stratification process begins.\n\n(Choice A) During the proliferation phase of wound healing, transforming growth factor-beta induces some fibroblasts to differentiate into myofibroblasts that produce intracellular contractile proteins (eg, actin, myosin). Myofibroblast contraction helps decrease the size of the wound.\n\n(Choice C) Melanocytes are melanin-producing cells that reside within the stratum basale. They are derived from neural crest cells and are distinct from basal cells (ie, keratinocyte stem cells). Failure of melanocytes to migrate into a healing scar can lead to permanent scar hypopigmentation.\n\n(Choice D) Several immune cells, including neutrophils, macrophages, and dendritic cells, are responsible for pathogen phagocytosis during the inflammatory phase of wound healing. Macrophages are of particular importance for clearing foreign bodies and cellular debris (eg, apoptotic neutrophils).\n\nEducational objective:\nKeratinocytes are responsible for wound reepithelization. They migrate into the wound from its edges and are repopulated by replication within the stratum basale. Keratinocytes continue to migrate and proliferate until they contact other similar cells, a regulatory mechanism known as contact inhibition.",
+    "zh": "该患者遭受了大的腹部擦伤，通过二期愈合（即从底部向上）愈合。这个过程持续了3周，涉及在伤口底部形成血管丰富的结缔组织（即肉芽组织），并在伤口表面重新生成新的上皮（即上皮再生）。 {{exhibit_2}}\n\n当皮肤损伤破坏了表皮的大部分或全部层，导致角质形成细胞间的接触丧失时，上皮再生就会被触发。与其他角质形成细胞的接触通常会限制细胞分裂和/或运动（即接触抑制）。然而，当由于损伤而失去这种接触时，角质形成细胞会受到刺激，开始复制和迁移，直到恢复连续的上皮层。\n\n从伤口边缘，角质形成细胞穿过新形成的肉芽组织迁移到伤口底部，并通过基底层中的基底角质形成细胞的复制而补充。这个过程持续进行，直到角质形成细胞与其他角质形成细胞接触（即接触抑制），这与上皮再生完成相对应（例如，伤口被珍珠粉色的上皮覆盖）。此时，增殖和迁移信号停止，分层过程开始。\n\n（选项A）在伤口愈合的增殖阶段，转化生长因子-β诱导一些成纤维细胞分化为产生细胞内收缩蛋白（例如，肌动蛋白、肌球蛋白）的肌成纤维细胞。肌成纤维细胞的收缩有助于减小伤口的大小。\n\n（选项C）黑素细胞是位于基底层的产生黑色素的细胞。它们来源于神经嵴细胞，与基底细胞（即角质形成细胞干细胞）不同。黑素细胞未能迁移到愈合的疤痕中会导致永久性疤痕色素减退。\n\n（选项D）几种免疫细胞，包括中性粒细胞、巨噬细胞和树突状细胞，负责在伤口愈合的炎症阶段吞噬病原体。巨噬细胞对于清除异物和细胞碎片（例如，凋亡的中性粒细胞）特别重要。\n\n教育目标：\n角质形成细胞负责伤口的上皮再生。它们从伤口边缘迁移到伤口中，并通过基底层内的复制而补充。角质形成细胞继续迁移和增殖，直到它们接触到其他类似的细胞，这是一种被称为接触抑制的调节机制。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the wound healing process, specifically the role of keratinocytes in re-epithelialization and the concept of contact inhibition. It requires understanding how cells proliferate and migrate to repair damaged tissue.\n\nTo solve this question, focus on the description of the healed wound covered in pearly pink epithelium, which indicates re-epithelialization. Recall that keratinocytes are responsible for this process and that their proliferation is regulated by contact inhibition.",
+    "zh": "这个问题考察了对伤口愈合过程的了解，特别是角质形成细胞在上皮再生中的作用以及接触抑制的概念。它需要理解细胞如何增殖和迁移以修复受损组织。\n\n要解决这个问题，请关注对覆盖着珍珠粉色上皮的已愈合伤口的描述，这表明上皮再生。回想一下，角质形成细胞负责这个过程，并且它们的增殖受到接触抑制的调节。"
+  },
+  "tags": "Wound healing; Re-epithelialization; Keratinocytes; Contact inhibition; Dermatology; Tissue repair",
+  "category": "Derma",
+  "question_id": "20884",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\20884",
+  "extracted_at": "2025-11-05T12:22:20.079484",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:35:18.046855",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

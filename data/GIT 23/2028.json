@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old woman comes to the physician with abdominal pain and melena. She also complains of progressive fatigue and a 5 kg (11 lb) weight loss over the last 2 months. She has a strong family history of colon, endometrial, and ovarian cancer. Colonoscopy shows a protuberant, friable mass in the ascending colon, and biopsy is diagnostic for colon adenocarcinoma. Genetic analysis confirms a mutation consistent with Lynch syndrome (hereditary nonpolyposis colon cancer).",
+    "zh": "一名34岁的女性因腹痛和黑便就诊。她还抱怨进行性疲劳，并且在过去2个月内体重减轻了5公斤（11磅）。她有强烈的结肠癌、子宫内膜癌和卵巢癌家族史。结肠镜检查显示升结肠有一个突出的、易碎的肿块，活检诊断为结肠腺癌。基因分析证实了一种与林奇综合征（遗传性非息肉病性结直肠癌）一致的突变。"
+  },
+  "question": {
+    "en": "Which of the following is most likely responsible for the development of colon cancer in this patient?",
+    "zh": "以下哪项最有可能导致该患者发生结肠癌？"
+  },
+  "options": {
+    "A": {
+      "en": "Nucleotide mismatches that escape repair",
+      "zh": "逃逸修复的核苷酸错配"
+    },
+    "B": {
+      "en": "Covalent bonds between adjacent pyrimidines",
+      "zh": "相邻嘧啶之间的共价键"
+    },
+    "C": {
+      "en": "Insertion of abnormal bases (eg, uracil) into DNA",
+      "zh": "将异常碱基（例如，尿嘧啶）插入DNA中"
+    },
+    "D": {
+      "en": "Empty sugar-phosphate residues in the DNA molecule",
+      "zh": "DNA分子中空的糖-磷酸残基"
+    },
+    "E": {
+      "en": "Double-strand breaks in DNA",
+      "zh": "DNA中的双链断裂"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Lynch syndrome (hereditary nonpolyposis colon cancer) is an autosomal dominant disease caused by defective DNA mismatch repair. DNA replication occurs with a high degree of fidelity because mismatched nucleotides are repaired through the proofreading activity of DNA polymerases delta and epsilon. However, this proofreading functionality is not infallible; base substitutions and small insertion-deletion mismatches occur due to errors in base pairing every 10^8 bases on average. It is the function of the DNA mismatch repair system to fix these errors shortly after the daughter strands are synthesized. The mismatch repair system involves several genes, including MSH2 and MLH1, which code for components of the human MutS and MutL homologs. Mutations in these 2 genes account for around 90% of cases of Lynch syndrome. {{exhibit_1}}\nMismatch repair begins with MutS homolog detecting a mismatch on the newly created daughter strand, which is distinguished from the parent strand by occasional nicks in the phosphodiester bonds. MutL homolog is then recruited, and the resulting complex slides along the DNA molecule until 1 of the daughter strand nicks is encountered. At this point, exonuclease 1 is loaded onto and activated by the repair complex. The daughter strand is then degraded backward past the initial mismatch point, leaving a variable gap of single-stranded DNA that is stabilized by ssDNA-binding protein. The complex then dissociates while DNA polymerase delta loads at the 3' end of the discontinuity and begins synthesizing a new daughter strand segment. Finally, DNA ligase I seals the remaining nick to complete the repair process.\n\n(Choice B) Exposure to ultraviolet light can cause pyrimidine (usually thymine) dimers to form due to covalent joining of adjacent pyrimidines. Pyrimidine dimers interfere with DNA replication and are removed by nucleotide excision repair.\n\n(Choices C and D) Several types of insults can alter the DNA bases. For example, nitrous acid can deaminate C, A, and G. There are also spontaneous changes, such as deamination of C to U and the constant low-level loss of purines via thermal disruption. Glycosylases are enzymes that detect and remove abnormal bases from DNA, creating an empty sugar-phosphate residue that is subsequently removed and replaced by the correct nucleotide (base excision repair).\n\n(Choice E) Exposure to ionizing radiation causes double-stranded DNA breaks that are repaired by end-joining repair mechanisms. Non-homologous end joining, the main mechanism in primates, is more prone to cause mutations than homologous recombination.\n\nEducational objective:\nLynch syndrome is an autosomal dominant disease caused by abnormal nucleotide mismatch repair. The mismatch repair system involves several genes, including MSH2 and MLH1, which code for components of the human MutS and MutL homologs. Mutations in these 2 genes account for around 90% of cases of Lynch syndrome.",
+    "zh": "林奇综合征（遗传性非息肉病性结直肠癌）是一种常染色体显性遗传病，由DNA错配修复缺陷引起。DNA复制具有高度保真度，因为错配的核苷酸通过DNA聚合酶δ和ε的校对活性得到修复。然而，这种校对功能并非万无一失；平均每10^8个碱基对就会由于碱基配对错误而发生碱基替换和小片段插入-缺失错配。DNA错配修复系统的功能是在子链合成后不久修复这些错误。错配修复系统涉及几个基因，包括MSH2和MLH1，它们编码人类MutS和MutL同源物的组成部分。这两个基因的突变占林奇综合征病例的90%左右。{{exhibit_1}}\n错配修复始于MutS同源物检测到新生成的子链上的错配，子链与母链的区别在于磷酸二酯键中偶尔出现的切口。然后，会募集MutL同源物，所得复合物沿DNA分子滑动，直到遇到子链的一个切口。此时，核酸外切酶1被加载到修复复合物上并被激活。然后子链被降解回初始错配点，留下一个可变的单链DNA间隙，该间隙由ssDNA结合蛋白稳定。然后，该复合物解离，而DNA聚合酶δ加载到不连续的3'末端，并开始合成新的子链片段。最后，DNA连接酶I封闭剩余的切口以完成修复过程。\n\n（选项B）暴露于紫外线会导致嘧啶（通常是胸腺嘧啶）二聚体形成，这是由于相邻嘧啶的共价连接。嘧啶二聚体干扰DNA复制，并通过核苷酸切除修复将其移除。\n\n（选项C和D）几种类型的损伤可以改变DNA碱基。例如，亚硝酸会使C、A和G脱氨。也有自发的变化，例如C脱氨为U以及通过热破坏不断发生的低水平嘌呤损失。糖基化酶是检测并从DNA中去除异常碱基的酶，从而产生空的糖-磷酸残基，随后将其移除并替换为正确的核苷酸（碱基切除修复）。\n\n（选项E）暴露于电离辐射会导致双链DNA断裂，这些断裂通过末端连接修复机制进行修复。非同源末端连接是灵长类动物的主要机制，比同源重组更容易引起突变。\n\n教育目标：\n林奇综合征是一种常染色体显性遗传病，由异常核苷酸错配修复引起。错配修复系统涉及几个基因，包括MSH2和MLH1，它们编码人类MutS和MutL同源物的组成部分。这两个基因的突变占林奇综合征病例的90%左右。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Lynch syndrome (hereditary nonpolyposis colon cancer) and the underlying genetic defect in DNA mismatch repair. It assesses understanding of how mutations in mismatch repair genes lead to an increased risk of colon cancer.\n\nThe key to solving this question is recognizing the clinical vignette as Lynch syndrome based on the family history and colon cancer diagnosis. Then, recall that Lynch syndrome is caused by defective DNA mismatch repair, leading to nucleotide mismatches that escape repair and accumulate mutations.",
+    "zh": "这个问题测试了对林奇综合征（遗传性非息肉病性结直肠癌）的了解以及DNA错配修复的潜在遗传缺陷。它评估了对错配修复基因突变如何导致结肠癌风险增加的理解。\n\n解决这个问题的关键是根据家族史和结肠癌的诊断，将临床表现识别为林奇综合征。然后，回想起林奇综合征是由DNA错配修复缺陷引起的，导致逃逸修复的核苷酸错配并积累突变。"
+  },
+  "tags": "Lynch syndrome; Hereditary nonpolyposis colon cancer; DNA mismatch repair; Nucleotide mismatches; Colon cancer; Genetics; MSH2; MLH1",
+  "category": "GIT",
+  "question_id": "2028",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\2028",
+  "extracted_at": "2025-11-05T14:30:59.198124",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:54:41.932623",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

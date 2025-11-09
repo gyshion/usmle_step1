@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 30-year-old Asian man comes to the clinic due to painful, ulcerated fingers. His symptoms began with pain and discoloration of the fingers several weeks ago, which progressed to ulceration at the fingertips. He also reports pain in the hands that occurs with activity and is relieved by rest. Medical history is unremarkable. The patient has smoked 2 packs of cigarettes a day for the last 5 years. He occasionally drinks alcohol but does not use illicit drugs. Vital signs are within normal limits. No heart murmurs are heard and the lungs are clear. Examination of the hands is shown in the exhibit {{exhibit_1}}. Radial pulses are diminished. There is erythema and tenderness along a superficial vein of the left forearm. Hemoglobin A1c and a fasting lipid panel are within normal limits.",
+    "zh": "一位30岁的亚裔男性因手指疼痛、溃疡前来就诊。他的症状始于几周前手指疼痛和变色，并进展为指尖溃疡。他还报告说，手部疼痛会在活动时出现，休息后缓解。病史无特殊。患者在过去5年中每天吸烟2包。他偶尔喝酒，但不吸食违禁药物。生命体征在正常范围内。未听到心脏杂音，肺部清晰。手部检查见{{exhibit_1}}。桡动脉搏动减弱。左前臂浅静脉沿线有红斑和压痛。糖化血红蛋白和空腹血脂检查结果在正常范围内。"
+  },
+  "question": {
+    "en": "Which of the following pathologic findings is most likely to be seen within the affected vessels?",
+    "zh": "在受影响的血管内最有可能看到的病理发现是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Granulomatous inflammation of the media",
+      "zh": "中层肉芽肿性炎症"
+    },
+    "B": {
+      "en": "Lipid-filled intimal plaques",
+      "zh": "富含脂质的内膜斑块"
+    },
+    "C": {
+      "en": "Onion skin–appearing, concentric thickening of the arteriolar wall",
+      "zh": "呈现洋葱皮样外观的、动脉壁同心性增厚"
+    },
+    "D": {
+      "en": "Segmental vasculitis extending into contiguous veins and nerves",
+      "zh": "节段性血管炎延伸到邻近的静脉和神经"
+    },
+    "E": {
+      "en": "Transmural inflammation of the arterial wall with fibrinoid necrosis",
+      "zh": "动脉壁全层炎症伴纤维素样坏死"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's presentation is consistent with thromboangiitis obliterans (Buerger disease), a segmental, inflammatory vasculitis that affects the small- and medium-sized arteries and veins of the distal extremities. It typically affects young, heavy smokers (age <45) and is more common in men. Toe and/or finger ischemia and ischemic ulcerations are the most common manifestation, and patients with involvement of proximal arteries can develop claudication affecting the lower legs, feet, or hands. Raynaud phenomenon and superficial thrombophlebitis (erythema, tenderness along vein) may also occur as early manifestations of the disease.\n\nIn thromboangiitis obliterans, chronic exposure to tobacco products is thought to cause direct endothelial injury or trigger a delayed-type hypersensitivity reaction against the endothelium. Histopathology shows highly cellular, inflammatory intraluminal thrombi (ie, containing neutrophils, multinucleated giant cells) in the arteries and veins with sparing of the vessel wall and internal elastic lamina. This segmental, thrombosing vasculitis often extends contiguously into veins and nerves, a feature rarely seen in other types of vasculitis. {{exhibit_2}}\n\n(Choice A) Granulomatous inflammation of the media occurs in the large vessel vasculitides Giant cell arteritis (temporal arteritis) and Takayasu arteritis. Giant cell arteritis typically affects patients age >50 and presents with unilateral headache, jaw claudication, and transient vision loss. Takayasu arteritis usually affects young women of Asian descent and presents with diminished pulses often accompanied by angina and/or carotid artery pain.\n\n(Choice B) Lipid-filled intimal plaques that bulge into the arterial lumen are seen in patients with atherosclerosis.\n\n(Choice C) Hyperplastic arteriolosclerosis is characterized by thickening of the arteriolar wall due to the concentric proliferation of smooth muscle cells and reduplicated basement membranes, giving the arterioles an onion-skin appearance. These changes occur as an adaptive response of arterioles to severe (malignant) hypertension.\n\n(Choice E) Transmural inflammation of the arterial wall with fibrinoid necrosis can be seen in several types of systemic vasculitis, including polyarteritis nodosa (PAN). PAN affects small and medium-sized arteries and can involve numerous organs (eg, kidney, gastrointestinal system, skin). Patients commonly present with fever, hypertension, abdominal pain, and/or cutaneous lesions (eg, nodules, livedo reticularis).\n\nEducational objective:\nThromboangiitis obliterans (Buerger disease) is a segmental, inflammatory vasculitis that affects the small- and medium-sized arteries and veins of the distal extremities with inflammatory, intraluminal thrombi and sparing of the vessel wall. It is usually seen in young, heavy smokers, and can present with digital ischemia and ulceration, extremity claudication, Raynaud phenomenon, and superficial thrombophlebitis.",
+    "zh": "该患者的临床表现与血栓闭塞性脉管炎（Buerger病）一致，这是一种节段性炎症性血管炎，影响远端肢体中小动脉和静脉。它通常影响年轻的重度吸烟者（年龄<45岁），并且在男性中更为常见。足趾和/或手指缺血和缺血性溃疡是最常见的表现，累及近端动脉的患者可发生跛行，影响小腿、足或手。雷诺现象和浅静脉血栓性静脉炎（红斑，静脉沿线的压痛）也可能作为该疾病的早期表现。\n\n在血栓闭塞性脉管炎中，长期接触烟草制品被认为会引起内皮细胞直接损伤或触发针对内皮细胞的迟发型超敏反应。组织病理学显示，动脉和静脉内存在高度细胞性、炎症性管腔内血栓（即，含有中性粒细胞、多核巨细胞），而血管壁和内弹力层得以保留。这种节段性血栓性血管炎通常连续延伸到静脉和神经，这种特征在其他类型的血管炎中很少见。{{exhibit_2}}\n\n（选项A）中膜肉芽肿性炎症发生于大血管血管炎，如巨细胞性动脉炎（颞动脉炎）和高安动脉炎。巨细胞性动脉炎通常影响>50岁的患者，表现为单侧头痛、下颌跛行和短暂性视力丧失。高安动脉炎通常影响亚裔年轻女性，表现为脉搏减弱，常伴有心绞痛和/或颈动脉疼痛。\n\n（选项B）富含脂质的内膜斑块凸入动脉管腔，见于动脉粥样硬化患者。\n\n（选项C）增生性小动脉硬化症的特征是由于平滑肌细胞的同心性增殖和基底膜的重复，导致小动脉壁增厚，使小动脉呈现洋葱皮样外观。这些变化是小动脉对严重（恶性）高血压的适应性反应。\n\n（选项E）动脉壁全层炎症伴纤维素样坏死可见于几种类型的系统性血管炎，包括结节性多动脉炎（PAN）。PAN影响中小动脉，并可累及多个器官（例如，肾脏、胃肠系统、皮肤）。患者通常表现为发热、高血压、腹痛和/或皮肤病变（例如，结节、网状青斑）。\n\n教学目标：\n血栓闭塞性脉管炎（Buerger病）是一种节段性炎症性血管炎，影响远端肢体中小动脉和静脉，伴有炎症性、管腔内血栓，且血管壁得以保留。它通常见于年轻的重度吸烟者，可表现为肢端缺血和溃疡、肢体跛行、雷诺现象和浅静脉血栓性静脉炎。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of thromboangiitis obliterans (Buerger disease), its typical presentation in young smokers, and the characteristic histopathological findings. It requires differentiating Buerger disease from other vasculitides and atherosclerotic diseases.\n\nTo solve this question, recognize the patient's risk factors (young age, smoking), symptoms (digital ischemia, claudication, superficial thrombophlebitis), and then select the answer choice that aligns with the histopathological features of Buerger disease (segmental vasculitis extending into contiguous veins and nerves).",
+    "zh": "此题考察对血栓闭塞性脉管炎（Buerger病）的了解，它在年轻吸烟者中的典型表现，以及特征性的组织病理学发现。需要将Buerger病与其他血管炎和动脉粥样硬化性疾病区分开来。\n\n为了解决这个问题，需要认识到患者的危险因素（年轻、吸烟）、症状（肢端缺血、跛行、浅静脉血栓性静脉炎），然后选择与Buerger病的组织病理学特征（节段性血管炎延伸到邻近的静脉和神经）相符的答案选项。"
+  },
+  "tags": "Thromboangiitis obliterans; Buerger disease; Vasculitis; Smoking; Digital ischemia; Claudication; Histopathology; Segmental vasculitis; Peripheral vascular disease; Arteries and veins",
+  "category": "CVS",
+  "question_id": "451",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\451",
+  "extracted_at": "2025-11-05T12:14:31.967266",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:30:11.600713",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

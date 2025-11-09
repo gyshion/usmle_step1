@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A newborn girl is being evaluated in the nursery. The patient was born at 39 weeks gestation via spontaneous vaginal delivery following an uncomplicated pregnancy. She has been breastfeeding well and has urinated 3 times and stooled once. Approximately 1 hour after delivery, a 2/6 systolic murmur could be heard at the left upper sternal border. At 8 hours, the murmur could be heard during both systole and diastole. Examination at 24 hours revealed no murmur. Which of the following most likely occurred immediately prior to the disappearance of this patient's murmur?",
+    "zh": "一名新生女婴正在育婴室接受评估。该患者通过自然阴道分娩于妊娠39周分娩，妊娠过程无并发症。她母乳喂养良好，已排尿3次，排便1次。分娩后约1小时，可在左上胸骨旁听到2/6级收缩期杂音。在8小时时，该杂音可在收缩期和舒张期均可听到。24小时检查未发现杂音。以下哪项最有可能发生在患者杂音消失之前？"
+  },
+  "question": {
+    "en": "Which of the following most likely occurred immediately prior to the disappearance of this patient's murmur?",
+    "zh": "以下哪项最有可能发生在患者杂音消失之前？"
+  },
+  "options": {
+    "A": {
+      "en": "Closure of a ventricular left-to-right shunt",
+      "zh": "室间隔左向右分流关闭"
+    },
+    "B": {
+      "en": "Closure of a ventricular right-to-left shunt",
+      "zh": "室间隔右向左分流关闭"
+    },
+    "C": {
+      "en": "Closure of an arterial left-to-right shunt",
+      "zh": "动脉左向右分流关闭"
+    },
+    "D": {
+      "en": "Closure of an arterial right-to-left shunt",
+      "zh": "动脉右向左分流关闭"
+    },
+    "E": {
+      "en": "Closure of an atrial left-to-right shunt",
+      "zh": "房间隔左向右分流关闭"
+    },
+    "F": {
+      "en": "Closure of an atrial right-to-left shunt",
+      "zh": "房间隔右向左分流关闭"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "In the fetal circulation, blood flows right to left through the ductus arteriosus from the pulmonary artery to the aorta, bypassing the lungs. This occurs due to high pulmonary vascular resistance (PVR) caused by the constricted pulmonary arteries and low systemic vascular resistance (SVR) caused by the low resistance of the placenta.\n\nAfter delivery, increased oxygen tension in the lungs causes pulmonary vasodilation and reduced PVR. At the same time, the placenta becomes disconnected from the newborn's systemic circulation, leading to increased SVR. These changes decrease pulmonary pressure and increase systemic pressure, reversing right-to-left blood flow through the ductus arteriosus to left-to-right blood flow.\n\nJust after birth, pulmonary diastolic pressure is still high relative to systemic diastolic pressure, so the murmur is heard best (or only) during systole. As PVR continues to fall, systemic pressure exceeds pulmonary pressure throughout the cardiac cycle, and the classic machinery-like, continuous murmur is heard best at the left upper sternal border or left infraclavicular area. When the ductus arteriosus closes (usually 24-48 hr after birth), the murmur disappears.\n\n{{exhibit_1}}\n\n(Choice A) Left-to-right flow through a ventricular septal defect (VSD) causes a holosystolic murmur at the left sternal border; this murmur does not have a diastolic component.\n\n(Choices B, D, and F) Incomplete closure of the ductus arteriosus causes a patent ductus arteriosus. Long-standing left-to-right shunting through a patent ductus arteriosus (or atrial/ventricular septal defects) can lead to pulmonary vascular remodeling with gradually increased PVR and eventual reversal to right-to-left shunting (ie, Eisenmenger syndrome). However, right-to-left shunting usually causes cyanosis (not noted in this patient), and the pressure gradient is not typically large enough to cause a murmur.\n\n(Choice E) Left-to-right flow through an ASD itself does not generate a murmur due to the low velocity of shunted blood. The characteristic murmur of an ASD is a systolic murmur at the left upper sternal border caused by increased flow through the pulmonic valve. However, this murmur does not have a diastolic component (ie, not continuous).\n\nEducational objective:\nAfter birth, pulmonary vascular resistance progressively decreases as systemic vascular resistance progressively increases. As the relative pressures in the pulmonary artery and aorta change, the murmur associated with the ductus arteriosus evolves from systolic only to continuous before the duct closes, at which time the murmur disappears.",
+    "zh": "在胎儿循环中，血液通过动脉导管从肺动脉流向主动脉，绕过肺。这是由于肺动脉收缩导致肺血管阻力（PVR）高，以及胎盘低阻力导致体循环血管阻力（SVR）低。\n\n分娩后，肺中氧分压升高导致肺血管舒张和PVR降低。与此同时，胎盘与新生儿体循环分离，导致SVR升高。这些变化降低了肺动脉压力，增加了体循环压力，从而逆转了通过动脉导管的右向左血流为左向右血流。\n\n出生后，肺舒张压仍然高于体循环舒张压，因此杂音在收缩期最明显（或仅在收缩期）。随着PVR持续下降，体循环压力在整个心动周期中超过肺动脉压力，在左上胸骨旁或左锁骨下区域可以听到典型的机器样连续性杂音。当动脉导管关闭（通常在出生后24-48小时），杂音消失。\n\n{{exhibit_1}}\n\n(选项 A) 通过室间隔缺损 (VSD) 的左向右分流会导致左胸骨旁出现全收缩期杂音；这种杂音没有舒张期成分。\n\n(选项 B、D 和 F) 动脉导管未完全闭合会导致动脉导管未闭。通过动脉导管未闭（或房间隔/室间隔缺损）的长期左向右分流可导致肺血管重塑，PVR逐渐增加，最终逆转为右向左分流（即，艾森曼格综合征）。然而，右向左分流通常会导致发绀（该患者未见），并且压力梯度通常不足以引起杂音。\n\n(选项 E) 通过房间隔缺损 (ASD) 的左向右血流本身不会产生杂音，因为分流血流的速度较低。ASD的特征性杂音是左上胸骨旁的收缩期杂音，由通过肺动脉瓣的血流增加引起。然而，这种杂音没有舒张期成分（即，不是连续性的）。\n\n教育目标：\n出生后，肺血管阻力逐渐降低，而体循环血管阻力逐渐增加。随着肺动脉和主动脉中的相对压力变化，与动脉导管相关的杂音从仅在收缩期演变为连续性杂音，直到导管关闭，此时杂音消失。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the physiological changes that occur after birth in a newborn, specifically related to pulmonary and systemic vascular resistance and the closure of the ductus arteriosus. It also assesses the ability to correlate these changes with the characteristics and disappearance of a murmur associated with the ductus arteriosus. \n\nTo solve this question, understand the transition from fetal to neonatal circulation, focusing on the changes in pulmonary and systemic vascular resistance. Recognize that the murmur disappears when the ductus arteriosus closes, and the most likely event immediately preceding this is the closure of the arterial (ductus arteriosus) shunt.",
+    "zh": "这道题考察了新生儿出生后发生的生理变化知识，特别是与肺血管阻力和体循环血管阻力以及动脉导管的闭合相关。它还评估了将这些变化与与动脉导管相关的杂音的特征和消失联系起来的能力。\n\n要解决这个问题，需要了解从胎儿循环到新生儿循环的转变，重点关注肺血管阻力和体循环血管阻力的变化。认识到当动脉导管关闭时，杂音就会消失，而这之前最有可能发生的事件是动脉（动脉导管）分流的关闭。"
+  },
+  "tags": "Ductus arteriosus; Neonatal circulation; Pulmonary vascular resistance; Systemic vascular resistance; Murmur; Patent ductus arteriosus; Cardiology; Pediatrics",
+  "category": "CVS",
+  "question_id": "19535",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\19535",
+  "extracted_at": "2025-11-05T12:06:11.122969",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:26:25.749616",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

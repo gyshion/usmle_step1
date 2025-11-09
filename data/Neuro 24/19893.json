@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 6-year-old girl with cerebral palsy undergoes selective dorsal rhizotomy surgery. The patient was born prematurely with a very low birth weight and had experienced periventricular white matter injury. During the procedure, dorsal rootlets of lumbosacral spinal nerves are selectively severed, as shown in the image below: {{exhibit_1}}",
+    "zh": "一名患有脑瘫的6岁女孩接受选择性后根切断术。该患者早产，出生体重极低，并曾经历过脑室周围白质损伤。在手术过程中，选择性切断腰骶神经的后根，如下图所示：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely effect of this intervention in this patient's lower extremities?",
+    "zh": "这种干预措施对该患者下肢最有可能产生以下哪种影响？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased muscle mass",
+      "zh": "肌肉质量下降"
+    },
+    "B": {
+      "en": "Decreased muscle tone",
+      "zh": "肌张力降低"
+    },
+    "C": {
+      "en": "Increased tendon reflexes",
+      "zh": "腱反射增强"
+    },
+    "D": {
+      "en": "Muscle fasciculations",
+      "zh": "肌肉束颤"
+    },
+    "E": {
+      "en": "Muscle paralysis",
+      "zh": "肌肉麻痹"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has cerebral palsy, a heterogeneous condition characterized by permanent, nonprogressive motor dysfunction caused by damage to the developing brain. Certain subtypes result in significant spasticity (eg, hypertonia, hyperreflexia). Spastic cerebral palsy may be caused by periventricular white matter necrosis (as in this patient), which leads to a loss of descending inhibitory control from the upper motor neurons.\n\nSpecifically, lack of CNS inhibition leads to a hyperactive stretch reflex. The stretch reflex is a monosynaptic reflex mediated at the level of the spinal cord through the following pathway:\n\n* Muscle lengthening is sensed by muscle spindles\n* Afferent signal of stretch is conveyed to the spinal cord via the dorsal nerve fibers\n* Efferent signals are conveyed via the ventral root of the spinal cord\n* Extrafusal fibers are stimulated, causing muscle contraction\n\nThe stretch reflex is responsible for deep tendon reflexes (eg, patellar, achilles) and the maintenance of muscle tone by constant muscular activity occurring even at rest, so a hyperactive stretch reflex leads to increased muscle tone (ie, spasticity). A selective dorsal rhizotomy procedure destroys the afferent (sensory) arm of the reflex arc, decreasing muscle tone without sacrificing motor innervation of the muscles.\n\n(Choices A, D, and E) Loss of lower motor neuron innervation can lead to paralysis, muscle atrophy, and fasciculations. However, by damaging only the dorsal nerve rootlets, the motor nerves (ventral) are spared.\n\n(Choice C) Deep tendon reflexes are manifestations of the stretch reflex caused by sudden stretching of the muscle. Because this reflex arc is interrupted by dorsal rhizotomy, the procedure results in decreased deep tendon reflexes as well as decreased muscle tone.\n\nEducational objective:\nSpasticity can be caused by the loss of descending inhibitory signals from upper motor neurons, leading to a hyperactive stretch reflex that results in increased muscle tone. Disruption of the afferent (sensory) arm of the stretch reflex through a selective dorsal rhizotomy can improve spasticity without causing paralysis.",
+    "zh": "该患者患有脑瘫，这是一种异质性疾病，其特征是由于发育中的大脑受损而导致永久性、非进行性运动功能障碍。某些亚型会导致明显的痉挛（例如，肌张力亢进、反射亢进）。痉挛性脑瘫可能是由脑室周围白质坏死（如本患者）引起的，这会导致上运动神经元的下行抑制控制丧失。\n\n具体来说，缺乏中枢神经系统（CNS）抑制会导致过度活跃的牵张反射。牵张反射是一种单突触反射，由脊髓水平通过以下途径介导：\n\n* 肌肉伸长由肌梭感知\n* 牵张的传入信号通过背神经纤维传递到脊髓\n* 传出信号通过脊髓的腹根传递\n* 梭外肌纤维受到刺激，导致肌肉收缩\n\n牵张反射负责深腱反射（例如，髌骨、跟腱）和通过即使在休息时也发生的持续肌肉活动来维持肌张力，因此过度活跃的牵张反射会导致肌张力增加（即，痉挛）。选择性后根切断术破坏了反射弧的传入（感觉）部分，从而降低肌张力，而不会牺牲肌肉的运动神经支配。\n\n（选项 A、D 和 E）下运动神经元支配的丧失可导致瘫痪、肌肉萎缩和束颤。然而，通过仅损伤背神经根，运动神经（腹侧）得以保留。\n\n（选项 C）深腱反射是肌肉突然拉伸引起的牵张反射的表现。由于该反射弧被后根切断术中断，该手术会导致深腱反射降低以及肌张力降低。\n\n教学目标：\n痉挛可由上运动神经元的下行抑制信号缺失引起，导致过度活跃的牵张反射，从而导致肌张力增加。通过选择性后根切断术破坏牵张反射的传入（感觉）部分可以改善痉挛，而不会引起麻痹。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathophysiology of spasticity in cerebral palsy and the mechanism of action of selective dorsal rhizotomy. It assesses the knowledge of the stretch reflex arc and how its disruption affects muscle tone and reflexes.\n\nTo solve this question, one must first identify that cerebral palsy with spasticity involves an overactive stretch reflex due to impaired descending inhibition. Then, understanding that selective dorsal rhizotomy targets the afferent limb of this reflex is crucial to predict the outcome of decreased muscle tone and reflexes, while sparing motor function.",
+    "zh": "此题考察对脑瘫痉挛的病理生理学以及选择性后根切断术的作用机制的理解。它评估了对牵张反射弧的认识以及其破坏如何影响肌张力和反射。\n\n要解决这个问题，首先必须确定伴有痉挛的脑瘫涉及由于下行抑制受损而导致的过度活跃的牵张反射。然后，理解选择性后根切断术针对该反射的传入肢至关重要，以预测肌张力和反射降低的结果，同时保留运动功能。"
+  },
+  "tags": "Cerebral palsy; Spasticity; Stretch reflex; Selective dorsal rhizotomy; Motor neurons; Spinal cord; Afferent pathway; Muscle tone; Deep tendon reflexes",
+  "category": "Neuro",
+  "question_id": "19893",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\19893",
+  "extracted_at": "2025-11-05T19:38:40.930149",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:38:09.444356",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 70-year-old man is brought to the emergency department an hour after sudden-onset, right-sided weakness and double vision. Medical history is significant for type 2 diabetes mellitus, hypertension, and hyperlipidemia. Blood pressure is 160/102 mm Hg and pulse is 82/min. The patient is alert, oriented, and able to follow commands. Speech is normal. On examination, the left eye has ptosis and is fixed in the outer position, and the pupil is dilated. The right eye, the right pupil, and right eye movements are normal. Muscle strength is normal in the left upper and lower extremities and is 3/5 in the right. Deep tendon reflexes are 3+ on the right and 2+ on the left. Babinski sign is present on the right and absent on the left. There is no ataxia. Sensation is intact. {{exhibit_1}} Which of the following is the most likely location of this patient's lesion?",
+    "zh": "一名70岁男性在突发右侧肢体无力和复视一小时后被送至急诊科。病史提示2型糖尿病、高血压和高脂血症。血压160/102 mmHg，脉搏82次/分。患者意识清醒，定向力好，能听从指令。言语正常。体格检查显示，左眼出现上睑下垂，固定在外侧位置，瞳孔散大。右眼、右侧瞳孔和右眼运动均正常。左上肢和左下肢肌力正常，右侧肌力为3/5。右侧深腱反射3+，左侧2+。右侧Babinski征阳性，左侧阴性。无共济失调。感觉完整。{{exhibit_1}} 该患者最可能的病变部位是以下哪项？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely location of this patient's lesion?",
+    "zh": "该患者最可能的病变部位是以下哪项？"
+  },
+  "options": {
+    "A": {
+      "en": "Cerebral cortex",
+      "zh": "大脑皮质"
+    },
+    "B": {
+      "en": "Internal capsule",
+      "zh": "内囊"
+    },
+    "C": {
+      "en": "Midbrain",
+      "zh": "中脑"
+    },
+    "D": {
+      "en": "Pons",
+      "zh": "脑桥"
+    },
+    "E": {
+      "en": "Medulla",
+      "zh": "延髓"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with risk factors for stroke (eg, hypertension, diabetes mellitus) has crossed signs of:\n\n•\tleft oculomotor nerve (CN III) dysfunction (eg, ptosis, impaired pupil constriction, down-and-out eye, diplopia).\n•\tright (ie, contralateral) arm and leg weakness with upper motor neuron signs (eg, hyperreflexia, upgoing Babinski).\n\nBecause most cranial nerves (other than CN II & IV) do not decussate while most of the body’s motor and sensory fibers cross the midline in the medulla, brainstem strokes are characterized by ipsilateral cranial nerve deficits accompanied by contralateral hemiparesis or hemisensory loss (ie, crossed signs). {{exhibit_2}}\n\nCN III originates in the midbrain of the brainstem, further localizing the lesion. Left CN III palsy with contralateral arm and leg weakness (corticospinal tract) is most likely caused by a left midbrain infarction due to occlusion of the mesencephalic branches of the posterior cerebral artery (ie, Weber syndrome). This can develop from obstruction of perforating arteries of the basilar bifurcation.\n\n(Choice A) A stroke in the cerebral cortex can lead to weakness with upper motor neuron (UMN) signs. However, it is often accompanied by cortical signs (ie, deficits localizing to the cortex) that may include Visual disturbances (eg, hemianopia, gaze preference), Aphasia (ie, typically expressive Broca), Neglect, and cortical Sensory deficits (eg, inability to recognize movement drawn on the palm) (ie, VANS stroke scale). Cranial nerve deficits would not be expected.\n\n(Choice B) A stroke in the internal capsule leads to contralateral hemiparesis. Because it is such a small anatomic area, in addition to the arm and leg, there is also usually facial weakness sparing the upper face (UMN-type weakness). Cranial nerve deficits are more consistent with a brainstem stroke.\n\n(Choice D) Pontine infarctions can cause ipsilateral cranial nerve deficits with contralateral hemiparesis. However, the involved cranial nerves originate in the pons: Trigeminal (CN V) (facial paresthesia), abducent (CN VI) (abducens palsy), facial (CN VII) (facial palsy), and vestibulocochlear (CN VIII) (vertigo). A pontine infarction would not likely cause CN III deficits.\n\n(Choice E) Medullary infarctions can cause ipsilateral cranial nerve deficits with contralateral hemiparesis. However, the involved cranial nerves originate in the medulla: Glossopharyngeal (CN IX) (diminished gag, palate weakness), vagus (CN X) (dysphonia), and hypoglossal (CN XII) (tongue weakness). Medullary infarctions often result in well-known clinical stroke syndromes (eg, lateral medullary syndrome, medial medullary syndrome).\n\nEducational objective:\nCrossed signs (ie, cranial nerve dysfunction with contralateral limb weakness) raise suspicion for brainstem stroke. Midbrain infarction due to occlusion of the posterior cerebral artery results in Weber syndrome characterized by ipsilateral oculomotor nerve (CN III) dysfunction accompanied by contralateral hemiparesis. {{exhibit_3}} {{exhibit_4}}",
+    "zh": "该患者有卒中的危险因素（如高血压、糖尿病），且表现出交叉征象：\n\n•\t左侧动眼神经（CN III）功能障碍（如上睑下垂、瞳孔收缩受损、眼球向下向外偏斜、复视）。\n•\t右侧（即对侧）肢体无力，伴有上运动神经元征象（如反射亢进、Babinski征阳性）。\n\n由于大多数脑神经（CN II和IV除外）未发生交叉，而身体的大部分运动和感觉纤维在延髓的中线处交叉，因此脑干卒中的特点是同侧脑神经功能缺损伴对侧偏瘫或偏感觉缺失（即交叉征象）。{{exhibit_2}}\n\nCN III起源于脑干的中脑，进一步定位了病变。左侧CN III麻痹伴对侧肢体无力（皮质脊髓束）最可能由左侧中脑梗死引起，原因是后脑动脉的中脑分支闭塞（即Weber综合征）。这可能源于基底动脉分叉的穿支动脉阻塞。\n\n（选项 A）大脑皮质卒中可导致无力，伴有上运动神经元（UMN）征象。然而，它通常伴有皮质征象（即定位到皮质的缺损），其中可能包括视觉障碍（如偏盲、凝视偏好）、失语症（即典型的表达性Broca失语）、忽略和皮质感觉缺损（例如，无法识别在手掌上画出的运动）（即VANS卒中量表）。通常不会出现脑神经功能缺损。\n\n（选项 B）内囊卒中可导致对侧偏瘫。因为它是一个很小的解剖区域，除了肢体，通常还有面部无力，但保留上脸（UMN型无力）。脑神经功能缺损更符合脑干卒中。\n\n（选项 D）脑桥梗死可引起同侧脑神经功能缺损伴对侧偏瘫。然而，受累的脑神经起源于脑桥：三叉神经（CN V）（面部感觉异常）、外展神经（CN VI）（外展神经麻痹）、面神经（CN VII）（面神经麻痹）和前庭蜗神经（CN VIII）（眩晕）。脑桥梗死不太可能引起CN III缺损。\n\n（选项 E）延髓梗死可引起同侧脑神经功能缺损伴对侧偏瘫。然而，受累的脑神经起源于延髓：舌咽神经（CN IX）（咽反射减弱、腭无力）、迷走神经（CN X）（发声困难）和舌下神经（CN XII）（舌无力）。延髓梗死通常导致众所周知的临床卒中综合征（如外侧延髓综合征、内侧延髓综合征）。\n\n教育目标：\n交叉征象（即脑神经功能障碍伴对侧肢体无力）提示脑干卒中。后脑动脉闭塞导致的中脑梗死导致Weber综合征，其特征是同侧动眼神经（CN III）功能障碍伴对侧偏瘫。{{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of brainstem stroke syndromes, specifically Weber syndrome, and the ability to localize a lesion based on clinical findings of cranial nerve deficits and contralateral motor weakness. It requires understanding of neuroanatomy and the concept of \"crossed signs\" in brainstem lesions.\n\nThe best approach is to identify the cranial nerve deficit (CN III palsy) and the contralateral hemiparesis. Recognize that these \"crossed signs\" point to a brainstem lesion. Then, recall the location of CN III nucleus in the midbrain to narrow down the lesion location to the midbrain.",
+    "zh": "此题考察对脑干卒中综合征的理解，特别是Weber综合征，以及根据脑神经功能缺损和对侧肢体无力的临床表现定位病变的能力。它需要理解神经解剖学以及脑干病变中“交叉征象”的概念。\n\n最好的方法是确定脑神经缺损（CN III麻痹）和对侧偏瘫。认识到这些“交叉征象”指向脑干病变。然后，回想起CN III核在中脑中的位置，以将病变位置缩小到中脑。"
+  },
+  "tags": "Brainstem stroke; Weber syndrome; Midbrain; Oculomotor nerve palsy; Hemiparesis; Crossed signs; Neurology; Vascular disease; Neuroanatomy",
+  "category": "Neuro",
+  "question_id": "105530",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\105530",
+  "extracted_at": "2025-11-05T15:07:27.020473",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:16:11.627364",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

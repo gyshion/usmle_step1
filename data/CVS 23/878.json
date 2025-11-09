@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 53-year-old woman comes to the office due to aching pain in her legs. She is a hair stylist and has cut down on her work hours due to the discomfort. The patient has a history of migraine and untreated chronic hepatitis C. She smokes a pack of cigarettes daily but does not use alcohol or recreational drugs. Physical examination findings are shown in the image below {{exhibit_1}}.",
+    "zh": "一名53岁的女性因腿部酸痛来就诊。她是一名发型师，由于不适，她减少了工作时间。患者有偏头痛病史和未经治疗的慢性丙型肝炎病史。她每天吸一包香烟，但不饮酒或吸食娱乐性药物。体格检查结果见下图 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "An abnormality affecting which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "影响以下哪一项的异常最有可能导致患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Arterial intima",
+      "zh": "动脉内膜"
+    },
+    "B": {
+      "en": "Capillary permeability",
+      "zh": "毛细血管通透性"
+    },
+    "C": {
+      "en": "Lymphoid capillaries",
+      "zh": "淋巴毛细血管"
+    },
+    "D": {
+      "en": "Plasma oncotic pressure",
+      "zh": "血浆胶体渗透压"
+    },
+    "E": {
+      "en": "Vasa vasorum",
+      "zh": "滋养血管"
+    },
+    "F": {
+      "en": "Venous valves",
+      "zh": "静脉瓣"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "This patient has dilated superficial veins (ie, varicose veins) and associated skin changes consistent with stasis dermatitis. Venous blood normally flows from superficial veins through perforating veins into the deep veins of the extremities. Blood from the deep veins then travels upward and eventually drains into the inferior vena cava. Valves located in these vessels prevent backward flow from deep to superficial veins.\n\nChronically elevated intraluminal pressure can lead to dilation of the veins (varicose veins) and incompetence of the valves. This allows retrograde flow into superficial veins and results in a further increase in venous pressure. The resulting tissue ischemia causes venous stasis dermatitis and is associated with poor wound healing.\n\nCommon risk factors for varicose veins and stasis dermatitis include obstruction of venous return (eg, obesity, pregnancy) and conditions that damage the venous valves (eg, deep venous thrombosis). Prolonged standing and sedentary lifestyles are also associated with varicose veins.\n\n(Choice A) Atherosclerotic changes of the arterial intima predispose to peripheral arterial disease. Arterial occlusive disease of the lower extremities presents with leg pain during exercise (claudication) and, if severe, ischemic pain at rest and possible distal gangrene.\n\n(Choice B) Increased capillary permeability is associated with anaphylaxis and other allergic reactions, inflammation, and shock. Increased capillary permeability causes edema due to the extravasation of serum proteins into the interstitium. Capillary permeability does not play a role in the development of varicose veins.\n\n(Choice C) Obstruction of lymphoid capillaries produces lymphedema, with marked swelling of the distal limb that may extend proximally. It is initially soft and pitting but eventually becomes firm and nonpitting due to progressive fibrosis and thickening of the overlying skin.\n\n(Choice D) Decreased plasma oncotic pressure results primarily from low plasma protein content (eg, nephrotic syndrome, cirrhosis/liver failure) and results in generalized edema. Cirrhosis with portal hypertension can cause esophageal and anorectal varices as collateral channels from the portal to systemic circulation. However, lower extremity veins do not communicate with the portal circulation.\n\n(Choice E) Narrowing of the arterioles of the vasa vasorum in chronic hypertension can lead to medial ischemia of the aorta and contribute to aneurysm formation.\n\nEducational objective:\nChronically elevated venous pressure in the lower extremities can lead to incompetent venous valves and venous dilation (varicose veins). Venous congestion and tissue ischemia can result in venous stasis dermatitis. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "该患者有浅表静脉扩张（即静脉曲张）和相关的皮肤改变，与淤滞性皮炎一致。静脉血通常从浅静脉通过交通静脉流入肢体深静脉。然后，来自深静脉的血液向上流动，最终排入下腔静脉。位于这些血管中的瓣膜可防止血液从深静脉流向浅静脉。\n\n慢性升高的腔内压力可导致静脉扩张（静脉曲张）和瓣膜功能不全。这使得血液逆流到浅静脉，并导致静脉压力的进一步增加。由此产生的组织缺血导致静脉淤滞性皮炎，并与伤口愈合不良有关。\n\n静脉曲张和淤滞性皮炎的常见危险因素包括静脉回流受阻（例如，肥胖、妊娠）和损伤静脉瓣膜的疾病（例如，深静脉血栓形成）。长时间站立和久坐的生活方式也与静脉曲张有关。\n\n（选项A）动脉内膜的动脉粥样硬化改变易患外周动脉疾病。下肢动脉闭塞性疾病表现为运动时腿痛（跛行），如果严重，则表现为静息缺血性疼痛，并可能出现远端坏疽。\n\n（选项B）毛细血管通透性增加与过敏反应和其他过敏反应、炎症和休克有关。毛细血管通透性增加会导致血清蛋白外渗到间质中，从而导致水肿。毛细血管通透性在静脉曲张的发生中不起作用。\n\n（选项C）淋巴毛细血管阻塞引起淋巴水肿，远端肢体明显肿胀，可能向近端延伸。它最初是柔软和可凹陷的，但最终由于进行性纤维化和覆盖皮肤增厚而变得坚硬和不可凹陷。\n\n（选项D）血浆胶体渗透压降低主要源于血浆蛋白含量低（例如，肾病综合征、肝硬化/肝衰竭），并导致全身性水肿。伴有门脉高压的肝硬化可导致食管和肛门直肠静脉曲张，作为从门静脉到体循环的侧支通道。然而，下肢静脉不与门脉循环沟通。\n\n（选项E）慢性高血压患者滋养血管的小动脉狭窄可导致主动脉中层缺血，并促成动脉瘤的形成。\n\n教育目标：\n下肢慢性升高的静脉压可导致静脉瓣膜功能不全和静脉扩张（静脉曲张）。静脉充血和组织缺血可导致静脉淤滞性皮炎。 {{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests the knowledge of the pathophysiology of varicose veins and venous stasis dermatitis, specifically the role of venous valve incompetence in the development of these conditions. It also requires differentiating venous insufficiency from other causes of leg pain and edema.\n\nTo solve this question, recognize the clinical presentation of varicose veins and stasis dermatitis. Understand the normal venous blood flow and the function of venous valves. Eliminate other options based on their distinct clinical features and underlying mechanisms.",
+    "zh": "此题考察对静脉曲张和静脉淤滞性皮炎病理生理学的理解，特别是静脉瓣膜功能不全在这些疾病发展中的作用。它还需要将静脉功能不全与其他导致腿部疼痛和水肿的原因区分开来。\n\n为了解决这个问题，需要识别静脉曲张和静脉淤滞性皮炎的临床表现。了解正常的静脉血流和静脉瓣膜的功能。根据其他选项独特的临床特征和潜在机制排除其他选项。"
+  },
+  "tags": "Varicose veins; Venous stasis dermatitis; Venous insufficiency; Venous valves; Lower extremity edema; Vascular disease; Dermatology",
+  "category": "CVS",
+  "question_id": "878",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\878",
+  "extracted_at": "2025-11-05T12:18:03.058072",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:32:08.637941",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

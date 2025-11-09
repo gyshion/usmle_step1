@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 3-year-old boy is rushed to the emergency department after he is found underwater in the bathtub. His parents say the patient was left alone for 5 minutes. On physical examination, he does not respond to painful stimuli and is pulseless and not breathing. Cardiac rhythm is asystole and spontaneously returns after several minutes of resuscitation. While performing endotracheal intubation, stimulation of the posterior pharyngeal wall with laryngoscope elicits no soft palate movements or gagging.",
+    "zh": "一名3岁男孩被紧急送往急诊科，此前他被发现溺水于浴缸中。他的父母说，病人被单独留下5分钟。体格检查显示，他对疼痛刺激无反应，无脉搏且停止呼吸。心律为停搏，在复苏几分钟后自发恢复。在进行气管插管时，用喉镜刺激咽后壁未引起软腭运动或作呕。"
+  },
+  "question": {
+    "en": "This patient's findings during intubation most likely indicate dysfunction of which of the following neural structures?",
+    "zh": "该患者在插管过程中的发现最可能表明以下哪种神经结构的障碍？"
+  },
+  "options": {
+    "A": {
+      "en": "Prefrontal cortex",
+      "zh": "前额叶皮质"
+    },
+    "B": {
+      "en": "Motor cortex",
+      "zh": "运动皮质"
+    },
+    "C": {
+      "en": "Midbrain",
+      "zh": "中脑"
+    },
+    "D": {
+      "en": "Medulla oblongata",
+      "zh": "延髓"
+    },
+    "E": {
+      "en": "Cervical spinal cord",
+      "zh": "颈髓"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The gag reflex is an airway protective mechanism that acts to expel foreign or toxic material from the aerodigestive tract. It is mediated by the following:\n\n* Sensory (afferent) signals from the back of the tongue or posterior pharyngeal wall are sent via the glossopharyngeal nerve (CN IX).\n* Somatic sensory fibers of CN IX enter the brainstem at the medulla, descend along the spinal trigeminal tract, and synapse in the caudal spinal nucleus.\n* Information is then sent to the bilateral nuclei ambiguus, which are also located in the medulla.\n* Bilateral motor (efferent) signals are sent via the vagus nerves (CN X), causing elevation of the soft palate and contraction of the pharynx.\n\nTherefore, an absent gag reflex is suspicious for dysfunction of the MEDULLA OBLONGATA. In combination with a prolonged anoxic period, this is concerning for BRAIN DEATH, which is the irreversible absence of cerebral and brainstem reflexes.\n\n(Choice A) Damage to the prefrontal cortex can cause inappropriate behavior, impaired judgment, and poor problem-solving skills (ie, executive dysfunction). It cannot be evaluated in an unconscious patient.\n\n(Choice B) The motor cortex is responsible for generating voluntary motor movement and cannot be tested in an unconscious patient. The gag reflex is involuntary and mediated by cranial nerves in the medulla.\n\n(Choice C) The pupillary reflex is also assessed in patients with suspected brain death and indicates dysfunction of the midbrain. It is mediated by afferents from the optic nerve (CN II) and efferents from the oculomotor nerve (CN III) to mediate constriction of the pupils in response to light.\n\n(Choice E) The cervical spinal cord can mediate several reflexes including neck flexion, adduction of the shoulders, elbow flexion, and flexion of the trunk. These may even be present in patients with brain death. However, the gag reflex is mediated by cranial (rather than spinal) nerves.\n\nEducational objective:\nThe gag reflex is mediated by afferents predominantly from the glossopharyngeal nerve (CN IX) and efferents from the vagus nerve (CN X). An absent gag reflex may indicate dysfunction of the medulla oblongata, where the involved cranial nerve nuclei reside.",
+    "zh": "咽反射是一种气道保护机制，旨在将异物或有毒物质从呼吸消化道中排出。它由以下机制介导：\n\n* 来自舌后部或咽后壁的感觉（传入）信号通过舌咽神经（CN IX）发送。\n* CN IX的躯体感觉纤维在延髓处进入脑干，沿脊髓三叉神经束下行，并在尾侧脊髓核处突触连接。\n* 然后，信息被发送到双侧疑核，该核也位于延髓中。\n* 双侧运动（传出）信号通过迷走神经（CN X）发送，导致软腭抬高和咽部收缩。\n\n因此，缺乏咽反射提示延髓功能障碍。结合长时间的缺氧期，这与脑死亡有关，脑死亡是脑和脑干反射的不可逆转的缺失。\n\n（选项A）前额叶皮质损伤可导致不适当的行为、判断力受损和较差的解决问题的能力（即执行功能障碍）。这无法在无意识患者中进行评估。\n\n（选项B）运动皮质负责产生自主运动，无法在无意识患者中进行测试。咽反射是非自主的，由延髓中的脑神经介导。\n\n（选项C）瞳孔反射也评估于疑似脑死亡患者，提示中脑功能障碍。它由来自视神经（CN II）的传入神经和来自动眼神经（CN III）的传出神经介导，从而介导瞳孔对光的收缩。\n\n（选项E）颈髓可以介导多种反射，包括颈部屈曲、肩部内收、肘部屈曲和躯干屈曲。这些甚至可能存在于脑死亡患者中。然而，咽反射是由脑神经（而不是脊髓神经）介导的。\n\n教育目标：\n咽反射主要由来自舌咽神经（CN IX）的传入神经和来自迷走神经（CN X）的传出神经介导。缺乏咽反射可能表明延髓功能障碍，相关脑神经核位于延髓。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the neural pathways involved in the gag reflex and the localization of dysfunction based on its absence. It specifically assesses knowledge of cranial nerve innervation and brainstem anatomy.\n\nTo solve this question, one must identify the afferent and efferent pathways of the gag reflex, recognize that these pathways involve cranial nerves IX and X, and understand that the nuclei for these nerves are located in the medulla oblongata. Therefore, an absent gag reflex points to dysfunction in this brainstem region.",
+    "zh": "本题考察对咽反射所涉及的神经通路以及根据其缺失定位功能障碍的理解。它特别评估了对脑神经支配和脑干解剖学的知识。\n\n要解决这个问题，必须识别咽反射的传入和传出通路，认识到这些通路涉及脑神经IX和X，并理解这些神经的核位于延髓。因此，缺乏咽反射指向脑干这一区域的功能障碍。"
+  },
+  "tags": "Gag reflex; Cranial nerves; Glossopharyngeal nerve (CN IX); Vagus nerve (CN X); Medulla oblongata; Brainstem; Brain death; Neurological examination",
+  "category": "Neuro",
+  "question_id": "19667",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\19667",
+  "extracted_at": "2025-11-05T19:38:23.630101",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:37:47.279971",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

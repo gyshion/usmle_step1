@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 6-year-old girl with chronic anemia requiring repeated blood transfusions is undergoing genetic testing. The patient's mother and older sibling have a history of mild anemia. Her peripheral blood smear shows hypochromic, microcytic red blood cells, and hemoglobin electrophoresis reveals a predominance of hemoglobins F and A2. Sequencing of the β-globin gene is performed using the patient's erythroblast DNA. A schematic representation of the gene and its transcribed RNA is shown in the image below.",
+    "zh": "一名6岁女孩，患有慢性贫血，需要反复输血，正在接受基因检测。患者的母亲和年长的兄弟姐妹有轻度贫血病史。她的外周血涂片显示红细胞低色素、小细胞性，血红蛋白电泳显示血红蛋白F和A2占优势。使用患者的红细胞母细胞DNA对β-珠蛋白基因进行测序。下图显示了该基因及其转录RNA的示意图。"
+  },
+  "question": {
+    "en": "The base sequence indicated by the bold red arrow is responsible for which of the following functions?",
+    "zh": "粗红箭头所指的碱基序列负责以下哪项功能？"
+  },
+  "options": {
+    "A": {
+      "en": "Enhancement of transcription",
+      "zh": "转录增强"
+    },
+    "B": {
+      "en": "Initiation of transcription",
+      "zh": "转录起始"
+    },
+    "C": {
+      "en": "Initiation of translation",
+      "zh": "翻译起始"
+    },
+    "D": {
+      "en": "Repression of transcription",
+      "zh": "转录抑制"
+    },
+    "E": {
+      "en": "Termination of transcription",
+      "zh": "转录终止"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The base sequence indicated by the bold red arrow in this patient's β-globin gene represents the CAAT BOX, a highly conserved (consensus) sequence that functions as a PROMOTER of TRANSCRIPTION in the EUKARYOTIC genome. It is typically located 70-80 bases upstream from the transcription start site. The Hogness (TATA) box is a second promoter region in the eukaryotic genome and is seen to the right of the CAAT box in the above image. The TATA box is generally located 25 bases upstream from the transcription start site. Both the CAAT box and the TATA box promote INITIATION OF TRANSCRIPTION by acting as binding sites for general TRANSCRIPTION FACTORS and RNA POLYMERASE II.",
+    "zh": "该患者的β-珠蛋白基因中，粗红箭头所指的碱基序列代表CAAT盒，它是一个高度保守（共有）的序列，在真核生物基因组中起转录启动子的作用。它通常位于转录起始位点上游70-80个碱基处。Hogness（TATA）盒是真核生物基因组中的第二个启动子区域，在上图中位于CAAT盒的右侧。TATA盒通常位于转录起始位点上游25个碱基处。CAAT盒和TATA盒都通过充当通用转录因子和RNA聚合酶II的结合位点来促进转录起始。"
+  },
+  "summary": {
+    "en": "1) Eukaryotic gene organization 2) The TATA and CAAT boxes are promoters of transcription in eukaryotic cells and are located approximately 25 and 75 bases upstream from the transcription start site, respectively. They promote initiation of transcription by serving as binding sites for transcription factors and RNA polymerase II.",
+    "zh": "1) 真核基因组织 2) TATA盒和CAAT盒是真核细胞中转录的启动子，分别位于转录起始位点上游大约25个和75个碱基处。它们通过充当转录因子和RNA聚合酶II的结合位点来促进转录起始。"
+  },
+  "tags": "CAAT box; TATA box; transcription factors; RNA polymerase II; promoter; transcription initiation",
+  "category": "Bio",
+  "question_id": "12263",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\12263",
+  "extracted_at": "2025-11-05T10:58:34.023977",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:19:44.095736",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man comes to the office because his family is concerned about his constant cough after smoking. The patient asks about the risk of developing chronic obstructive pulmonary disease (COPD) in adult smokers. A recent cohort study reported that compared to heavy smokers, the relative risk (RR) of COPD for nonsmokers is 0.10 and for moderate smokers is 0.40. The patient is a moderate smoker. Based on the study, which of the following is the RR of COPD for moderate smokers compared to nonsmokers?",
+    "zh": "一名65岁男性因吸烟后持续咳嗽而前来就诊，家人对此表示担忧。患者询问成人吸烟者发生慢性阻塞性肺病（COPD）的风险。一项近期队列研究报告显示，与重度吸烟者相比，不吸烟者发生COPD的相对风险（RR）为0.10，中度吸烟者为0.40。患者为中度吸烟者。根据该研究，以下哪项是中度吸烟者与不吸烟者相比发生COPD的RR？"
+  },
+  "question": {
+    "en": "Based on the study, which of the following is the RR of COPD for moderate smokers compared to nonsmokers?",
+    "zh": "根据该研究，以下哪项是中度吸烟者与不吸烟者相比发生COPD的RR？"
+  },
+  "options": {
+    "A": {
+      "en": "0.10",
+      "zh": "0.10"
+    },
+    "B": {
+      "en": "0.25",
+      "zh": "0.25"
+    },
+    "C": {
+      "en": "0.40",
+      "zh": "0.40"
+    },
+    "D": {
+      "en": "2.5",
+      "zh": "2.5"
+    },
+    "E": {
+      "en": "4",
+      "zh": "4"
+    },
+    "F": {
+      "en": "10",
+      "zh": "10"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The relative risk (RR) is the measure of association between the exposure to a risk factor and an outcome or disease commonly used in cohort and experimental studies. RR is equal to the risk of an outcome (eg, chronic obstructive pulmonary disease [COPD]) in an exposed group (eg, moderate smokers) divided by the risk of the same outcome in a nonexposed group (eg, nonsmokers).\n\nRRmod vs non = (risk of disease in moderate smokers) / (risk of disease in nonsmokers) = Riskmod / Risknon\n\nIn this case, RRmod vs non must be calculated from the RRs for COPD and smoking reported in the given cohort study:\n\nRR for nonsmokers compared to heavy smokers: RRnc vs heavy = Risknc / Riskheavy = 0.10\nRR for moderate smokers compared to heavy smokers: RRmod vs heavy = Riskmod / Riskheavy = 0.40\nRRmod vs heavy and RRnc vs heavy have the same comparison group (ie, denominator: Riskheavy for heavy smokers). Therefore, dividing RRmod vs heavy by RRnc vs heavy results in RRmod vs nc (ie, Riskmod / Risknc).\n\nTherefore, RRmod vs non = 0.40 / 0.10 = 4. This means that the risk of COPD is four times greater for moderate smokers compared to nonsmokers.\n\n(Choice A) 0.10 is the given RR for nonsmokers compared to heavy smokers: RRnc vs heavy.\n\n(Choice B) 0.25 is the RR for nonsmokers compared to moderate smokers: RRnc vs mod = 0.10 / 0.40 = 0.25, meaning that the risk of COPD is 75% (ie, 100% − 25%) lower in nonsmokers compared to moderate smokers.\n\n(Choice C) 0.40 is the given RR for moderate smokers compared to heavy smokers: RRmod vs heavy.\n\n(Choice D) 2.5 is the RR for heavy smokers compared to moderate smokers (RRheavy vs mod); it is the inverse of the given RRmod vs heavy (ie, RRheavy vs mod = 1 / 0.40 = 2.5).\n\n(Choice F) 10 is the RR for heavy smokers compared to nonsmokers (RRheavy vs non); it is the inverse of the given RRnc vs heavy (ie, RRheavy vs non = 1 / 0.10 = 10).",
+    "zh": "相对风险（RR）是衡量暴露于风险因素与结局或疾病之间关联性的指标，常用于队列研究和实验研究。RR等于暴露组（例如，中度吸烟者）发生结局（例如，慢性阻塞性肺病[COPD]）的风险除以非暴露组（例如，不吸烟者）发生相同结局的风险。\n\nRRmod vs non = (中度吸烟者疾病风险) / (不吸烟者疾病风险) = Riskmod / Risknon\n\n在本例中，必须根据给定的队列研究中报告的COPD和吸烟的RR来计算RRmod vs non：\n\n不吸烟者与重度吸烟者相比的RR：RRnc vs heavy = Risknc / Riskheavy = 0.10\n中度吸烟者与重度吸烟者相比的RR：RRmod vs heavy = Riskmod / Riskheavy = 0.40\nRRmod vs heavy 和 RRnc vs heavy 具有相同的比较组（即，分母：Riskheavy，重度吸烟者）。因此，将 RRmod vs heavy 除以 RRnc vs heavy 会得到 RRmod vs nc (即，Riskmod / Risknc)。\n\n因此，RRmod vs non = 0.40 / 0.10 = 4。这意味着中度吸烟者发生COPD的风险是不吸烟者的四倍。\n\n（选项A）0.10 是不吸烟者与重度吸烟者相比的RR：RRnc vs heavy。\n\n（选项B）0.25 是不吸烟者与中度吸烟者相比的RR：RRnc vs mod = 0.10 / 0.40 = 0.25，这意味着不吸烟者发生COPD的风险比中度吸烟者低75%（即，100% − 25%）。\n\n（选项C）0.40 是中度吸烟者与重度吸烟者相比的RR：RRmod vs heavy。\n\n（选项D）2.5 是重度吸烟者与中度吸烟者相比的RR（RRheavy vs mod）；它是给定的RRmod vs heavy 的倒数（即，RRheavy vs mod = 1 / 0.40 = 2.5）。\n\n（选项F）10 是重度吸烟者与不吸烟者相比的RR（RRheavy vs non）；它是给定的RRnc vs heavy 的倒数（即，RRheavy vs non = 1 / 0.10 = 10）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of relative risk (RR) and how to calculate it based on given data from a cohort study. It requires the ability to manipulate and compare different relative risks to determine the RR between two specific groups.\n\nTo solve this question, identify the relevant RRs provided in the question stem. Then, use the appropriate formula or ratio to calculate the RR of COPD for moderate smokers compared to nonsmokers. Pay attention to the reference groups and ensure the calculation reflects the desired comparison.",
+    "zh": "本题考察对相对风险（RR）的理解，以及如何根据队列研究提供的资料进行计算。它要求能够处理和比较不同的相对风险，以确定两个特定组之间的RR。\n\n要解决此问题，请确定题干中提供的相关RR。然后，使用适当的公式或比率来计算中度吸烟者与不吸烟者相比发生COPD的RR。注意参考组，并确保计算反映所需的比较。"
+  },
+  "tags": "Relative risk; Cohort study; Epidemiology; Biostatistics; Chronic obstructive pulmonary disease; Smoking",
+  "category": "Bio",
+  "question_id": "19665",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19665",
+  "extracted_at": "2025-11-05T11:14:15.978940",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:23:12.790632",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

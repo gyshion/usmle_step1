@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A patient is suspected of having an inherited disorder. Pedigree analysis shows the following pattern: {{exhibit_2}}",
+    "zh": "怀疑患者患有遗传性疾病。系谱分析显示以下模式：{{exhibit_2}}"
+  },
+  "question": {
+    "en": "This patient most likely has which of the following conditions?",
+    "zh": "该患者最有可能患有以下哪种疾病？"
+  },
+  "options": {
+    "A": {
+      "en": "Classic galactosemia",
+      "zh": "经典型半乳糖血症"
+    },
+    "B": {
+      "en": "Hemophilia B",
+      "zh": "乙型血友病"
+    },
+    "C": {
+      "en": "Huntington disease",
+      "zh": "亨廷顿舞蹈症"
+    },
+    "D": {
+      "en": "Leber hereditary optic neuropathy",
+      "zh": "Leber遗传性视神经病变"
+    },
+    "E": {
+      "en": "Rett syndrome",
+      "zh": "Rett综合征"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Each of the affected individuals on this pedigree inherited the disorder from ASYMPTOMATIC CARRIER PARENTS, which is consistent with a RECESSIVE inheritance pattern. Because BOTH MALES AND FEMALES inherit the condition, it is an AUTOSOMAL RECESSIVE disorder. Based on this inheritance pattern, 50% of offspring will be asymptomatic carriers, 25% will be unaffected, and 25% will express the disorder.\n\nClassic GALACTOSEMIA is the most common and most severe of the galactosemic disorders. It is an AUTOSOMAL RECESSIVE disorder leading to complete enzymatic absence of galactose-1-phosphate uridyl transferase. Newborns present within days of birth with jaundice, vomiting, and hepatomegaly.",
+    "zh": "系谱图中每个受影响的个体均从无症状携带者父母那里遗传了该疾病，这与隐性遗传模式一致。由于男性和女性都遗传了该疾病，因此这是一种常染色体隐性遗传病。基于这种遗传模式，50%的后代将是无症状携带者，25%将未受影响，25%将表达该疾病。\n\n经典型半乳糖血症是半乳糖血症中最常见和最严重的疾病。它是一种常染色体隐性遗传病，导致半乳糖-1-磷酸尿苷转移酶完全缺乏。新生儿在出生几天内出现黄疸、呕吐和肝肿大。"
+  },
+  "summary": {
+    "en": "1) Autosomal recessive disorders 2) Affected individuals on this pedigree inherited the disorder from asymptomatic carrier parents, which is consistent with a recessive inheritance pattern. Because both males and females inherit the condition, it is an autosomal recessive disorder.",
+    "zh": "1) 常染色体隐性遗传病 2) 系谱图中受影响的个体从无症状携带者父母那里遗传了该疾病，这与隐性遗传模式一致。由于男性和女性都遗传了该疾病，因此这是一种常染色体隐性遗传病。"
+  },
+  "tags": "Autosomal recessive; Pedigree; Galactosemia",
+  "category": "Bio",
+  "question_id": "1728",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1728",
+  "extracted_at": "2025-11-05T10:59:40.304576",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:21:53.736439",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

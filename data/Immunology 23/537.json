@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 12-month-old boy is evaluated for an eczematous rash. Medical history is significant for several severe respiratory infections that required hospitalization. Complete blood count shows white blood cells at 9,000/mm³ and platelets at 40,000/mm³. The platelets seem abnormally small and deformed on the peripheral blood smear. {{exhibit_1}}",
+    "zh": "一名12个月大的男孩因湿疹皮疹就诊。病史显示有数次需要住院治疗的严重呼吸道感染。全血细胞计数显示白细胞为9,000/mm³，血小板为40,000/mm³。血小板在血涂片上看起来异常小且变形。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Aplastic anemia",
+      "zh": "再生障碍性贫血"
+    },
+    "B": {
+      "en": "Ataxia telangiectasia syndrome",
+      "zh": "共济失调毛细血管扩张综合征"
+    },
+    "C": {
+      "en": "Chédiak-Higashi syndrome",
+      "zh": "Chediak-Higashi综合征"
+    },
+    "D": {
+      "en": "DiGeorge syndrome",
+      "zh": "DiGeorge综合征"
+    },
+    "E": {
+      "en": "Hemolytic uremic syndrome",
+      "zh": "溶血性尿毒症综合征"
+    },
+    "F": {
+      "en": "Wiskott-Aldrich syndrome",
+      "zh": "Wiskott-Aldrich综合征"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "This patient has the 3 characteristic findings of Wiskott-Aldrich syndrome (WAS): eczema, recurrent infections, and thrombocytopenia. Because it is an X-linked recessive disorder, WAS manifests almost exclusively in males. It is caused by a mutation in cytoskeleton proteins that are critical for normal cell structure and the cell-to-cell interactions required for activation of hematologic cells (eg, platelets, immune cells).\n\nInfections due to an inability to mount a humoral immune response against organisms with a polysaccharide capsule (eg, Neisseria meningitidis, Haemophilus influenzae, Streptococcus pneumoniae). Patients also have T-cell deficiency, leading to infections with opportunistic pathogens (eg, Pneumocystis jiroveci). Severe recurrent infections develop after transplacental maternal IgG and maternal mucosal IgA are degraded around 6 months of age. Treatment is with HLA-matched bone marrow transplantation.\n\n(Choice A) Aplastic anemia (ie, pancytopenia) classically results from ionizing radiation or the use of cytotoxic medications (eg, chemotherapeutic agents, chloramphenicol). Although aplastic anemia is associated with recurrent infections, abnormally shaped platelets and eczema are more characteristic of WAS.\n\n(Choice B) Ataxia telangiectasia syndrome is associated with a deficiency of both B and T cells; however, patients characteristically have progressive ataxia and telangiectasia rather than eczema.\n\n(Choice C) Patients with Chédiak-Higashi syndrome have coagulation defects and recurrent pyogenic infections due to the dysfunction of phagocyte phagosome-lysosome function. However, they also typically have oculocutaneous albinism, peripheral neuropathy, and giant cytoplasmic granules on peripheral blood smear.\n\n(Choice D) DiGeorge syndrome results from maldevelopment of the third and fourth pharyngeal pouches, which causes hypoplasia of the parathyroid glands and thymus (T cell deficiency), cardiac and aortic arch abnormalities, and characteristic facies due to maldevelopment of the mandible.\n\n(Choice E) Hemolytic uremic syndrome most often occurs in children after infection with Shiga toxin-producing Escherichia coli. Patients typically have thrombocytopenia with microangiopathic hemolytic anemia and acute renal failure.\n\nEducational objective:\nWiskott-Aldrich syndrome is characterized by the triad of eczema, thrombocytopenia, and combined B and T cell deficiency. Patients can have thrombocytopenia at birth, with eczema and repeated infections due to encapsulated and/or opportunistic organisms usually developing later around 6 to 12 months of age.",
+    "zh": "该患者具有Wiskott-Aldrich综合征 (WAS) 的3个特征性表现：湿疹、反复感染和血小板减少症。由于这是一种X连锁隐性遗传病，WAS几乎只发生在男性身上。它是由细胞骨架蛋白的突变引起的，这些蛋白对正常的细胞结构和激活血液细胞（例如血小板、免疫细胞）所需的细胞间相互作用至关重要。\n\n由于无法针对具有多糖荚膜的生物体（例如脑膜炎奈瑟菌、流感嗜血杆菌、肺炎链球菌）产生体液免疫反应而引起的感染。患者也存在T细胞缺陷，导致机会性病原体感染（例如肺孢子虫）。严重的反复感染发生在6个月左右，此时胎盘母体IgG和母体粘膜IgA降解。治疗方法是HLA匹配的骨髓移植。\n\n(选项A) 再生障碍性贫血（即全血细胞减少）通常由电离辐射或使用细胞毒性药物（例如化疗药物、氯霉素）引起。虽然再生障碍性贫血与反复感染有关，但异常形状的血小板和湿疹更具有WAS的特征。\n\n(选项B) 共济失调毛细血管扩张综合征与B细胞和T细胞的缺陷有关；然而，患者的特征是进行性共济失调和毛细血管扩张，而不是湿疹。\n\n(选项C) Chédiak-Higashi综合征患者由于吞噬细胞吞噬体-溶酶体功能障碍，存在凝血缺陷和反复化脓性感染。然而，他们通常也有眼皮肤白化病、周围神经病变和外周血涂片上出现巨大的细胞质颗粒。\n\n(选项D) DiGeorge综合征是由第三和第四鳃囊的发育不良引起的，这会导致甲状旁腺和胸腺发育不全（T细胞缺陷）、心脏和主动脉弓异常以及由于下颌骨发育不良而导致的特征性面容。\n\n(选项E) 溶血性尿毒症综合征最常发生在儿童感染产志贺毒素的大肠杆菌后。患者通常有血小板减少症，伴有微血管病性溶血性贫血和急性肾衰竭。\n\n教育目标：\nWiskott-Aldrich综合征的特征是湿疹、血小板减少症和B细胞和T细胞联合缺陷三联征。患者出生时可能出现血小板减少症，湿疹和反复感染由包膜和/或机会性生物引起，通常在6到12个月左右出现。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Wiskott-Aldrich syndrome (WAS), an X-linked recessive immunodeficiency characterized by eczema, thrombocytopenia, and recurrent infections. It assesses the ability to recognize the classic triad and understand the underlying B and T cell deficiencies. \n\nTo solve this question, identify the key features of eczema, thrombocytopenia (abnormally small and deformed platelets), and recurrent infections. Recognize that these findings, especially in a young male, are highly suggestive of Wiskott-Aldrich syndrome. Rule out other immunodeficiencies based on their distinct clinical presentations.",
+    "zh": "此题考察对Wiskott-Aldrich综合征（WAS）的知识，这是一种以湿疹、血小板减少症和反复感染为特征的X连锁隐性免疫缺陷病。它评估识别典型三联征并理解潜在的B细胞和T细胞缺陷的能力。\n\n要解决这个问题，确定湿疹、血小板减少症（异常小且变形的血小板）和反复感染的关键特征。认识到这些发现，尤其是在年轻男性中，高度提示Wiskott-Aldrich综合征。根据其他免疫缺陷病的独特临床表现来排除。"
+  },
+  "tags": "Wiskott-Aldrich syndrome; Immunodeficiency; Eczema; Thrombocytopenia; Recurrent infections; X-linked recessive; Hematology; Immunology; B cell deficiency; T cell deficiency",
+  "category": "Immunology",
+  "question_id": "537",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\537",
+  "extracted_at": "2025-11-05T14:45:00.127305",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:02:30.680801",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

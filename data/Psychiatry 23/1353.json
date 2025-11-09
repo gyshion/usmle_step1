@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 37-year-old man is admitted to the hospital for right lower-lobe pneumonia. He is given antibiotics, and his shortness of breath and fever improve by the second hospital day. However, he now has new-onset abdominal pain, diarrhea, and severe muscle aches. The patient has no history of gastrointestinal conditions or prior surgeries. Temperature is 36.8 C (98.2 F), blood pressure is 124/80 mm Hg, and pulse is 88/min. On examination, the patient appears uncomfortable and anxious. Pupils are dilated and there is prominent lacrimation. Abdominal examination reveals hyperactive bowel sounds without tenderness or distension.",
+    "zh": "一名37岁男性因右下肺叶肺炎入院。他接受了抗生素治疗，呼吸困难和发热在入院第二天有所改善。然而，他现在出现了新发的腹痛、腹泻和严重的肌肉酸痛。患者既往无胃肠道疾病史或手术史。体温36.8摄氏度（98.2华氏度），血压124/80毫米汞柱，脉搏88次/分钟。体格检查显示，患者表现不适和焦虑。瞳孔扩大，有明显的泪溢。腹部检查显示肠鸣音亢进，无压痛或腹胀。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Adverse effect of antibiotic",
+      "zh": "抗生素的不良反应"
+    },
+    "B": {
+      "en": "Alcohol withdrawal",
+      "zh": "酒精戒断"
+    },
+    "C": {
+      "en": "Amphetamine intoxication",
+      "zh": "苯丙胺中毒"
+    },
+    "D": {
+      "en": "Benzodiazepine withdrawal",
+      "zh": "苯二氮卓类药物戒断"
+    },
+    "E": {
+      "en": "Cocaine intoxication",
+      "zh": "可卡因中毒"
+    },
+    "F": {
+      "en": "Nicotine withdrawal",
+      "zh": "尼古丁戒断"
+    },
+    "G": {
+      "en": "Opioid withdrawal",
+      "zh": "阿片类药物戒断"
+    }
+  },
+  "correct_answer": "G",
+  "explanation": {
+    "en": "This patient is experiencing the classic symptoms of OPIOID WITHDRAWAL. Opioid withdrawal can start as soon as 6-12 hours after cessation of a short-acting opioid such as heroin and usually peaks within 24-48 hours. Symptoms include nausea, vomiting, DIARRHEA, abdominal cramping, and myalgia. It is generally nonlife-threatening and vital signs are usually normal. DILATED PUPILS, prominent piloerection, and HYPERACTIVE BOWEL SOUNDS are seen on examination. Opioid withdrawal can appear similar to other withdrawal or intoxication syndromes, but certain findings, including LACRIMATION and YAWNING, are fairly specific.\n\nIndividuals who have been taking chronic prescription opioids, such as cancer patients, can also develop opioid withdrawal on abrupt discontinuation or marked reduction in usage.\n\n(Choice A) Antibiotic use may be associated with diarrhea and other adverse effects. However, this patient's relatively specific signs of opioid withdrawal (eg, lacrimation) make opioid withdrawal more likely.\n(Choices B and D) Alcohol and benzodiazepine withdrawal are two of the few potentially fatal drug withdrawal syndromes. Symptoms of alcohol withdrawal typically begin after 12-24 hours and are typified by autonomic hyperactivity (eg, tremors, agitation, diaphoresis, tachycardia, hypertension). Onset of benzodiazepine withdrawal depends on the half-life of the specific agent and is characterized by tremors, anxiety, perceptual disturbances, dysphoria, and psychosis. Alcohol and benzodiazepine withdrawal may also lead to seizures.\n(Choices C and E) Amphetamine and cocaine intoxication are marked by euphoria, increased vigilance, psychomotor agitation, tachycardia, hypertension, and hyperthermia. As in opioid withdrawal, pupils are dilated with stimulant intoxication. However, this patient's gastrointestinal upset and lacrimation are more typical of opioid withdrawal.\n(Choice F) Nicotine withdrawal is commonly seen in the inpatient setting in chronic tobacco users. Besides cravings for cigarettes, symptoms are generally mild and include dysphoria, irritability, anxiety, and increased appetite/weight gain.\n\nEducational objective:\nOpioid withdrawal is marked by mydriasis, abdominal pain, diarrhea, piloerection, lacrimation, and yawning. It is generally nonlife-threatening, unlike withdrawal from alcohol and benzodiazepines.",
+    "zh": "该患者正在经历阿片类药物戒断的典型症状。阿片类药物戒断可在停止使用短效阿片类药物（如海洛因）后6-12小时内开始，通常在24-48小时内达到高峰。症状包括恶心、呕吐、腹泻、腹部绞痛和肌痛。它通常不危及生命，生命体征通常正常。检查可见瞳孔扩大、毛发竖立明显和肠鸣音亢进。阿片类药物戒断可能与其他戒断或中毒综合征相似，但某些发现，包括泪溢和打哈欠，具有相当的特异性。\n\n长期服用处方阿片类药物的个体，如癌症患者，在突然停药或显著减少用量时也可能出现阿片类药物戒断。\n\n（选项A）抗生素的使用可能与腹泻和其他不良反应有关。然而，该患者相对特异的阿片类药物戒断体征（例如，泪溢）使阿片类药物戒断的可能性更大。\n（选项B和D）酒精和苯二氮卓类药物戒断是少数几种可能致命的药物戒断综合征。酒精戒断的症状通常在12-24小时后开始，其特征是自主神经功能亢进（例如，震颤、激动、出汗、心动过速、高血压）。苯二氮卓类药物戒断的发生取决于特定药物的半衰期，其特征是震颤、焦虑、知觉障碍、心境恶劣和精神病。酒精和苯二氮卓类药物戒断也可能导致癫痫发作。\n（选项C和E）苯丙胺和可卡因中毒的特征是欣快感、警觉性增高、精神运动性激动、心动过速、高血压和高热。与阿片类药物戒断一样，兴奋剂中毒时瞳孔也会扩大。然而，该患者的胃肠道不适和泪溢更典型地表现为阿片类药物戒断。\n（选项F）尼古丁戒断通常在住院环境中慢性烟草使用者中可见。除了对香烟的渴望外，症状通常较轻，包括心境恶劣、易怒、焦虑和食欲/体重增加。\n\n教育目标：\n阿片类药物戒断的特征是瞳孔散大、腹痛、腹泻、毛发竖立、泪溢和打哈欠。它通常不危及生命，不像酒精和苯二氮卓类药物的戒断。"
+  },
+  "summary": {
+    "en": "This question tests the recognition of opioid withdrawal syndrome based on a patient's clinical presentation. It requires differentiating opioid withdrawal from other substance-related disorders and adverse effects of medications.\n\nThe approach to solving this question involves carefully reviewing the patient's symptoms and physical examination findings, comparing them to the known manifestations of various withdrawal syndromes and intoxications, and identifying the diagnosis that best matches the constellation of signs and symptoms presented.",
+    "zh": "本题基于患者的临床表现，考察对阿片类药物戒断综合征的识别。它要求将阿片类药物戒断与其他物质相关疾病和药物不良反应区分开来。\n\n解决此问题的思路包括仔细回顾患者的症状和体格检查结果，将其与各种戒断综合征和中毒的已知表现进行比较，并确定最符合所呈现的体征和症状组合的诊断。"
+  },
+  "tags": "Opioid withdrawal; Substance withdrawal; Withdrawal syndromes; Gastroenterology; Toxicology; Pharmacology; Autonomic nervous system",
+  "category": "Psychiatry",
+  "question_id": "1353",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\1353",
+  "extracted_at": "2025-11-05T19:48:53.852081",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:52:25.854678",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

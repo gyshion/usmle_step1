@@ -1,0 +1,69 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man comes to the office due to a few weeks of progressive exertional dyspnea and fatigue. He has had no chest pain, fever, or cough. The patient has a history of mild aortic stenosis, gastroesophageal reflux disease, obesity, hypertension, and hypercholesterolemia. Temperature is 36.7 C (98 F), blood pressure is 130/78 mm Hg, pulse is 82/min, and respirations are 16/min. BMI is 28 kg/m². Pulse oximetry shows 96% on room air. Mucosal pallor is present, but there is no jaundice, lymphadenopathy, or jugular venous distension. Cardiopulmonary examination reveals a 2/6 systolic ejection murmur at the second right intercostal area. The abdomen is soft and nontender; there is no palpable hepatosplenomegaly. Peripheral pulses are normal. Laboratory results are as follows:\n\nComplete blood count\n\nHemoglobin 7.8 g/dL\n\nPlatelets 98,000/mm³\n\nLeukocytes 3,800/mm³\n\nPeripheral blood smear is shown below {{exhibit_1}}",
+    "zh": "一名65岁男性因几周来逐渐加重的劳力性呼吸困难和疲劳前来就诊。他没有胸痛、发烧或咳嗽。患者有轻度主动脉瓣狭窄、胃食管反流病、肥胖、高血压和高胆固醇血症病史。体温36.7°C (98°F)，血压130/78 mmHg，脉搏82次/分，呼吸16次/分。BMI为28 kg/m²。脉搏血氧饱和度显示，在常氧下为96%。存在黏膜苍白，但无黄疸、淋巴结病或颈静脉怒张。心肺检查显示，在右侧第二肋间隙可闻及2/6级收缩期喷射性杂音。腹部柔软且无压痛；无触及肝脾肿大。周围脉搏正常。实验室检查结果如下：\n\n全血细胞计数\n\n血红蛋白7.8 g/dL\n\n血小板98,000/mm³\n\n白细胞3,800/mm³\n\n外周血涂片见下{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is most likely responsible for this patient's current condition?",
+    "zh": "以下哪项最有可能导致患者目前的状况？"
+  },
+  "options": {
+    "A": {
+      "en": "Impaired DNA synthesis",
+      "zh": "DNA合成受损"
+    },
+    "B": {
+      "en": "Impaired heme production",
+      "zh": "血红素生成受损"
+    },
+    "C": {
+      "en": "Inadequate erythropoietin production",
+      "zh": "促红细胞生成素生成不足"
+    },
+    "D": {
+      "en": "Replacement of bone marrow with fat cells",
+      "zh": "骨髓被脂肪细胞替代"
+    },
+    "E": {
+      "en": "Replacement of bone marrow with fibrosis",
+      "zh": "骨髓被纤维化替代"
+    },
+    "F": {
+      "en": "Traumatic hemolysis",
+      "zh": "创伤性溶血"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient with exertional dyspnea, fatigue, conjunctival pallor, and a systolic ejection murmur has symptomatic anemia. The peripheral blood smear findings of macrocytosis (abnormally large red blood cells) and a hypersegmented neutrophil {{exhibit_2}} indicate likely megaloblastic anemia. This condition sometimes arises in older individuals who take antacids for gastroesophageal reflux disease, as gastric acid is required for proper vitamin B₁₂ absorption.\n\nVitamin B₁₂ acts as a cofactor in the recycling of 5-methyl-tetrahydrofolate to tetrahydrofolate (reduced form of folate), which serves as a one-carbon donor in the synthesis of amino acids, purines, and thymidine monophosphate. Therefore, folate or vitamin B₁₂ deficiency reduces available purines and thymidine, which impairs DNA synthesis and causes cell cycle arrest (in S-phase) or apoptotic cell death.\n\nHematopoietic cells are primarily affected due to their high replication rate. In these cells, nuclear division slows relative to cytoplasmic maturation (nuclear-cytoplasmic dyssynchrony), which results in megaloblastic changes (eg, macrocytosis, hypersegmented neutrophils); in addition, increased apoptosis causes anemia and mild thrombocytopenia/leukopenia.\n\nAlthough vitamin B₁₂ deficiency also commonly presents with neurologic findings (eg, symmetric paresthesia, gait problems), patients can develop significant hematologic changes with no noticeable neuropsychiatric symptoms.\n\n(Choice B) Iron deficiency anemia is associated with impaired production of heme; however, peripheral blood smear would show microcytosis (not macrocytosis), and hypersegmented neutrophils would not be seen. {{exhibit_3}}\n\n(Choice C) Chronic kidney disease can reduce production of erythropoietin in peritubular fibroblasts of the kidney, which causes normocytic anemia due to reduced erythropoiesis. However, leukopenia and thrombocytopenia are not typically seen, and peripheral blood smear would not show megaloblastic changes. {{exhibit_4}}\n\n(Choice D) Aplastic anemia is associated with destruction of hematopoietic stem cells and replacement of the bone marrow with fat cells. Although patients usually have pancytopenia, peripheral blood smear would not show hypersegmented neutrophils. {{exhibit_5}}\n\n(Choice E) Primary myelofibrosis is a myeloproliferative neoplasm that results in fibrosis of the bone marrow. Anemia is common but patients usually have dacrocytes (tear-drop red blood cells) and nucleated red blood cells on peripheral blood smear, not macrocytosis, and hypersegmented neutrophils. {{exhibit_6}}\n\n(Choice F) Aortic stenosis can cause traumatic hemolysis due to red blood cell shearing. However, peripheral smear generally shows schistocytes, and thrombocytopenia/leukopenia would be unusual.\n\nEducational objective:\nVitamin B₁₂ is an essential cofactor in the recycling of 5-methyl-tetrahydrofolate to tetrahydrofolate, which is required for amino acid, purine, and thymidine synthesis. Deficiency primarily affects hematopoiesis and is marked by impaired nuclear maturation, leading to macrocytic red blood cells and hypersegmented neutrophils; increased apoptosis often also leads to anemia and mild thrombocytopenia/leukopenia.",
+    "zh": "该患者出现劳力性呼吸困难、疲劳、结膜苍白和收缩期喷射性杂音，提示有症状性贫血。外周血涂片结果显示大细胞性红细胞增多症（异常大的红细胞）和多分叶中性粒细胞{{exhibit_2}}，提示巨幼细胞性贫血。这种情况有时会发生在因胃食管反流病服用抗酸药的老年人身上，因为胃酸是维生素B₁₂适当吸收所必需的。\n\n维生素B₁₂是5-甲基四氢叶酸再循环为四氢叶酸（叶酸的还原形式）的辅助因子，后者作为一碳供体参与氨基酸、嘌呤和胸腺嘧啶单磷酸盐的合成。因此，叶酸或维生素B₁₂缺乏会减少可利用的嘌呤和胸腺嘧啶，从而损害DNA合成，导致细胞周期停滞（S期）或细胞凋亡死亡。\n\n造血细胞由于其高复制率而受到主要影响。在这些细胞中，核分裂相对于细胞质成熟减慢（核-胞质不同步），导致巨幼细胞性改变（如大细胞性红细胞增多症、多分叶中性粒细胞）；此外，细胞凋亡增加会导致贫血和轻度血小板减少症/白细胞减少症。\n\n尽管维生素B₁₂缺乏症也常表现为神经系统表现（如对称性感觉异常、步态问题），但患者可能会出现明显的血液学改变，而没有明显的神经精神症状。\n\n(选项B) 缺铁性贫血与血红素生成受损有关；然而，外周血涂片会显示小细胞性红细胞增多症（而非大细胞性红细胞增多症），并且不会出现多分叶中性粒细胞。{{exhibit_3}}\n\n(选项C) 慢性肾脏病可减少肾脏肾小管周围成纤维细胞中促红细胞生成素的生成，这会导致由于红细胞生成减少而出现的正细胞性贫血。然而，通常不会出现白细胞减少症和血小板减少症，并且外周血涂片不会显示巨幼细胞性改变。{{exhibit_4}}\n\n(选项D) 再生障碍性贫血与造血干细胞破坏以及骨髓被脂肪细胞替代有关。尽管患者通常有全血细胞减少症，但外周血涂片不会显示多分叶中性粒细胞。{{exhibit_5}}\n\n(选项E) 原发性骨髓纤维化是一种骨髓增生性肿瘤，导致骨髓纤维化。贫血很常见，但患者通常在外周血涂片上有多形红细胞（泪滴状红细胞）和有核红细胞，而不是大细胞性红细胞增多症和多分叶中性粒细胞。{{exhibit_6}}\n\n(选项F) 主动脉瓣狭窄可因红细胞剪切而引起创伤性溶血。然而，外周血涂片通常显示裂红细胞，并且血小板减少症/白细胞减少症是不常见的。\n\n教育目标：\n维生素B₁₂是5-甲基四氢叶酸再循环为四氢叶酸（氨基酸、嘌呤和胸腺嘧啶合成所需）的重要辅助因子。缺乏主要影响造血，其特征是核成熟受损，导致大细胞性红细胞和多分叶中性粒细胞；细胞凋亡增加也常导致贫血和轻度血小板减少症/白细胞减少症。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of megaloblastic anemia, specifically the role of vitamin B12 in DNA synthesis and the characteristic findings on peripheral blood smear. It also assesses the ability to differentiate megaloblastic anemia from other causes of anemia based on laboratory and peripheral smear findings.\n\nTo solve this question, recognize the macrocytosis and hypersegmented neutrophils on the peripheral blood smear as indicative of megaloblastic anemia. Then, consider the underlying causes of megaloblastic anemia, such as vitamin B12 or folate deficiency, which lead to impaired DNA synthesis.",
+    "zh": "此题考察对巨幼细胞性贫血的认识，特别是维生素B12在DNA合成中的作用以及外周血涂片上的特征性发现。它还评估了根据实验室和外周涂片结果区分巨幼细胞性贫血与其他贫血病因的能力。\n\n要解决此题，需要认识到外周血涂片上出现的大细胞性红细胞增多症和多分叶中性粒细胞提示巨幼细胞性贫血。然后，考虑巨幼细胞性贫血的潜在病因，如维生素B12或叶酸缺乏，导致DNA合成受损。"
+  },
+  "tags": "Megaloblastic anemia; Vitamin B12 deficiency; Macrocytosis; Hypersegmented neutrophils; DNA synthesis; Hematopoiesis; Anemia; Thrombocytopenia; Leukopenia; Peripheral blood smear",
+  "category": "Blood",
+  "question_id": "16287",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\16287",
+  "extracted_at": "2025-11-05T11:26:39.749306",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:28:45.069752",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

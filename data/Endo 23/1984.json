@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man comes to the office with his girlfriend for follow-up of type 1 diabetes mellitus. He was diagnosed 15 years ago and is currently treated with a combination of basal and rapid-acting insulin injections. The patient has been experiencing intermittent episodes of hypoglycemia with a blood glucose of 35-54 mg/dL. Two weeks ago, he was taken to the emergency department after passing out due to low glucose levels. The patient is prescribed an injectable medication to be administered at home by a caregiver when hypoglycemia is associated with impaired consciousness. This medication rapidly improves hypoglycemia by which of the following mechanisms?",
+    "zh": "一名34岁的男性在其女友的陪同下来到诊所，随访1型糖尿病。他于15年前被诊断出患有1型糖尿病，目前正在接受基础胰岛素和速效胰岛素注射的联合治疗。该患者一直在经历间歇性低血糖发作，血糖水平为35-54 mg/dL。两周前，由于低血糖，他昏倒后被送往急诊科。患者被开具了一种可注射药物，当低血糖伴有意识障碍时，由看护人在家中给药。该药物通过以下哪种机制迅速改善低血糖？"
+  },
+  "question": {
+    "en": "This medication rapidly improves hypoglycemia by which of the following mechanisms?",
+    "zh": "该药物通过以下哪种机制迅速改善低血糖？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreasing uptake of glucose by fat and muscles",
+      "zh": "减少脂肪和肌肉对葡萄糖的摄取"
+    },
+    "B": {
+      "en": "Decreasing uptake of glucose by the liver",
+      "zh": "减少肝脏对葡萄糖的摄取"
+    },
+    "C": {
+      "en": "Increasing gastrointestinal absorption of glucose",
+      "zh": "增加胃肠道对葡萄糖的吸收"
+    },
+    "D": {
+      "en": "Increasing gluconeogenesis",
+      "zh": "增加糖异生"
+    },
+    "E": {
+      "en": "Increasing glycogenolysis",
+      "zh": "增加糖原分解"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Glucagon rapidly corrects hypoglycemia by increasing hepatic glycogenolysis; the free glucose residues are then released into the blood, causing a return to consciousness within 10-15 minutes of administration. Subsequently, glucagon induces gluconeogenesis and suppresses hepatic glucose uptake, which provide a delayed but somewhat more sustained effect (Choices B and D).\n\n(Choice A) Glucagon has little direct effect on glucose uptake in adipose and muscle tissue, which is primarily regulated by insulin. Although epinephrine raises blood glucose (in part) by suppression of peripheral glucose uptake and can be administered by auto-injector, it is less effective than glucagon for hypoglycemia and is primarily used for severe allergy/anaphylaxis.\n\n(Choice C) Glucose is taken up from the intestinal lumen into epithelial cells via sodium-glucose cotransporter-1 (SGLT-1) and then passed into the blood via glucose transporter 2 (GLUT-2). Glucagon causes a decrease in intestinal motility but does not have a major effect on the transport of glucose by SGLT-1 or GLUT-2.\n\nEducational objective:\nSevere hypoglycemia causing impaired consciousness can be treated by a caregiver or bystander with injectable or intranasal glucagon. Glucagon rapidly corrects hypoglycemia by increasing hepatic glycogenolysis, resulting in the release of glucose from preexisting hepatic glycogen stores.",
+    "zh": "胰高血糖素通过增加肝糖原分解迅速纠正低血糖；然后，游离的葡萄糖残基被释放到血液中，导致在给药后10-15分钟内恢复意识。随后，胰高血糖素诱导糖异生并抑制肝脏对葡萄糖的摄取，这提供了延迟但更持久的效果（选项B和D）。\n\n（选项A）胰高血糖素对脂肪和肌肉组织中葡萄糖的摄取影响很小，这主要受胰岛素调节。虽然肾上腺素通过抑制外周葡萄糖摄取来（部分地）升高血糖，并且可以通过自动注射器给药，但它对于低血糖的疗效不如胰高血糖素，主要用于严重的过敏/过敏反应。\n\n（选项C）葡萄糖通过钠-葡萄糖协同转运蛋白-1 (SGLT-1) 从肠腔吸收到上皮细胞中，然后通过葡萄糖转运蛋白2 (GLUT-2) 进入血液。胰高血糖素导致肠道蠕动减慢，但对 SGLT-1 或 GLUT-2 对葡萄糖的转运没有重大影响。\n\n教育目标：\n严重低血糖导致意识障碍，可由看护人或旁观者使用可注射或鼻内胰高血糖素治疗。胰高血糖素通过增加肝糖原分解迅速纠正低血糖，导致葡萄糖从已有的肝糖原储存中释放出来。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of glucagon's mechanism of action in treating severe hypoglycemia, specifically its role in increasing hepatic glycogenolysis to rapidly raise blood glucose levels. The best approach is to recall the primary metabolic effects of glucagon, focusing on its impact on liver glycogen stores and subsequent glucose release into the bloodstream.",
+    "zh": "本题考察对胰高血糖素治疗严重低血糖作用机制的了解，特别是其在增加肝糖原分解以迅速提高血糖水平中的作用。最好的方法是回忆胰高血糖素的主要代谢效应，重点关注其对肝糖原储存的影响以及随后葡萄糖释放到血液中的情况。"
+  },
+  "tags": "Type 1 diabetes mellitus; Hypoglycemia; Glucagon; Glycogenolysis; Gluconeogenesis; Endocrinology; Metabolic disorders",
+  "category": "Endo",
+  "question_id": "1984",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\1984",
+  "extracted_at": "2025-11-05T14:05:26.942776",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:39:56.905212",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

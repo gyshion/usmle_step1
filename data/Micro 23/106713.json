@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "An 8-year-old boy is brought to the office due to worsening thrush and angular cheilitis, which causes difficulty eating. The patient has a history of chronic mucocutaneous candidiasis and has had recurrent Candida infections of the skin, oral mucosa, and nails since infancy. He is currently on suppressive therapy with fluconazole, which has been successful in preventing infections until this most recent episode. Physical examination shows extensive oral mucosal candidiasis. Scrapings from a lesion are obtained for culture, and intravenous antifungal therapy is initiated. Sensitivity testing of the colonies that grow in culture show Candida that is resistant to fluconazole.",
+    "zh": "一名8岁男孩因口疮和口角炎恶化而就诊，这导致进食困难。该患者有慢性皮肤黏膜念珠菌病病史，自婴儿期以来反复出现皮肤、口腔黏膜和指甲的念珠菌感染。他目前正在接受氟康唑的抑制治疗，这在预防感染方面一直很成功，直到最近一次发作。体格检查显示广泛的口腔黏膜念珠菌病。从病灶中刮取物进行培养，并开始静脉注射抗真菌治疗。培养中生长的菌落的药敏试验显示念珠菌对氟康唑具有耐药性。"
+  },
+  "question": {
+    "en": "Which of the following changes in the pathogen best explains this patient's breakthrough infection?",
+    "zh": "病原体中的以下哪种变化最能解释该患者的突破性感染？"
+  },
+  "options": {
+    "A": {
+      "en": "Alteration in cell membrane sterol structure causing decreased drug affinity",
+      "zh": "细胞膜甾醇结构改变导致药物亲和力降低"
+    },
+    "B": {
+      "en": "Increased binding of fungal cell surface components to the vascular wall",
+      "zh": "真菌细胞表面成分与血管壁结合增加"
+    },
+    "C": {
+      "en": "Mutations altering the enzyme for cell membrane ergosterol synthesis",
+      "zh": "改变细胞膜麦角甾醇合成酶的突变"
+    },
+    "D": {
+      "en": "Mutations altering the enzyme for cell wall glucan synthesis",
+      "zh": "改变细胞壁葡聚糖合成酶的突变"
+    },
+    "E": {
+      "en": "Mutations in the gene that regulates yeast to hyphal form switching",
+      "zh": "调节酵母菌向菌丝体形态转换的基因发生突变"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Azole antifungal medications (eg, fluconazole) block the fungal enzyme lanosterol 14-alpha-demethylase, a cytochrome p-450–dependent enzyme that converts lanosterol to ergosterol. Mutations to the gene for 14-alpha-demethylase can lead to azole resistance.\n\n(Choice A) Azole antifungals do not bind directly to cell membrane sterols; they bind to the enzyme that generates ergosterol. In contrast, amphotericin B binds to ergosterol, generating pores in the cell membrane that lyse the cell; alterations to ergosterol’s structure can impair amphotericin B binding and lead to resistance, but would have no effect on azoles.\n\n(Choice B) Filamentous fungi such as Rhizopus and Aspergillus can cause ischemic necrosis by binding to components of the vascular wall (eg, basement membrane, extracellular matrix). This feature is not targeted by azole antifungals.\n\n(Choice D) Echinocandin antifungals inhibit the synthesis of beta-D-glucan, a branched polysaccharide that serves as a crucial cross-linking element in the cell wall of many fungi. Mutations to the enzyme that produces beta-D-glucan can lead to echinocandin resistance.\n\n(Choice E) The hyphal form is required for Candida to be pathogenic, and Candida with and without the hyphal form is typically seen in tissue cultures during infection. However, mutations to the gene that triggers the hyphal form would not alter sensitivity to azole antifungal medications.",
+    "zh": "唑类抗真菌药物（例如，氟康唑）阻断真菌酶羊毛甾醇14-α-去甲基化酶，这是一种细胞色素p-450依赖性酶，可将羊毛甾醇转化为麦角甾醇。 14-α-去甲基化酶基因的突变可导致唑类耐药性。\n\n（选项 A）唑类抗真菌药不直接与细胞膜甾醇结合；它们与产生麦角甾醇的酶结合。相比之下，两性霉素B与麦角甾醇结合，在细胞膜中产生穿孔，从而溶解细胞；麦角甾醇结构的改变会损害两性霉素B的结合并导致耐药性，但对唑类药物无效。\n\n（选项 B）丝状真菌，如根霉菌和曲霉菌，可以通过与血管壁的组成部分（例如，基底膜、细胞外基质）结合而导致缺血性坏死。唑类抗真菌药不针对此特征。\n\n（选项 D）棘白菌素类抗真菌药抑制β-D-葡聚糖的合成，β-D-葡聚糖是一种分支多糖，是许多真菌细胞壁中至关重要的交联元素。产生β-D-葡聚糖的酶发生突变可导致棘白菌素类耐药性。\n\n（选项 E）念珠菌的致病需要菌丝体形式，并且在感染期间通常在组织培养中观察到具有和不具有菌丝体形式的念珠菌。然而，触发菌丝体形式的基因突变不会改变对唑类抗真菌药物的敏感性。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of action of azole antifungals and the mechanisms of resistance that can develop. Specifically, it focuses on the role of lanosterol 14-alpha-demethylase in ergosterol synthesis and how mutations in the gene encoding this enzyme can lead to azole resistance.\n\nTo solve this question, understand the mechanism of action of fluconazole (an azole antifungal) and the common mechanisms of resistance. Recognize that fluconazole inhibits ergosterol synthesis by blocking lanosterol 14-alpha-demethylase. Therefore, mutations affecting this enzyme are the most likely cause of resistance.",
+    "zh": "本题考察对唑类抗真菌药物的作用机制和可能产生的耐药机制的了解。具体而言，它侧重于羊毛甾醇14-α-去甲基化酶在麦角甾醇合成中的作用，以及编码该酶的基因突变如何导致唑类耐药性。\n\n要解决这个问题，需要了解氟康唑（一种唑类抗真菌药）的作用机制和常见的耐药机制。认识到氟康唑通过阻断羊毛甾醇14-α-去甲基化酶来抑制麦角甾醇的合成。因此，影响该酶的突变是耐药性最可能的原因。"
+  },
+  "tags": "Candida; Fluconazole; Antifungal resistance; Ergosterol synthesis; Lanosterol 14-alpha-demethylase; Fungal infections; Mucocutaneous candidiasis; Azole antifungals; Infectious disease",
+  "category": "Micro",
+  "question_id": "106713",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\106713",
+  "extracted_at": "2025-11-05T14:49:08.398942",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:04:16.277551",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

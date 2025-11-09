@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 60-year-old man comes to the office due to 2 months of low back pain unresponsive to over-the-counter analgesics. The pain is worse at night and interferes with sleep. On examination, the lumbar vertebrae are tender to palpation, and the prostate is indurated and firm. After a thorough evaluation, leuprolide therapy is started. Which of the following changes in testosterone (solid line) and dihydrotestosterone (dashed line) levels are most likely to occur in this patient after initiation of therapy? {{exhibit_1}}",
+    "zh": "一名60岁男性因2个月的腰背痛前来就诊，对非处方止痛药无反应。疼痛在夜间加重并干扰睡眠。体格检查显示，腰椎触痛，前列腺变硬且坚硬。经过彻底评估后，开始亮丙瑞林治疗。该患者开始治疗后，睾酮（实线）和二氢睾酮（虚线）水平最可能发生以下哪种变化？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following changes in testosterone (solid line) and dihydrotestosterone (dashed line) levels are most likely to occur in this patient after initiation of therapy?",
+    "zh": "该患者开始治疗后，睾酮（实线）和二氢睾酮（虚线）水平最可能发生以下哪种变化？"
+  },
+  "options": {
+    "A": {
+      "en": "A.",
+      "zh": "A."
+    },
+    "B": {
+      "en": "B.",
+      "zh": "B."
+    },
+    "C": {
+      "en": "C.",
+      "zh": "C."
+    },
+    "D": {
+      "en": "D.",
+      "zh": "D."
+    },
+    "E": {
+      "en": "E.",
+      "zh": "E."
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Prostate cancer is an androgen-dependent tumor. Because most androgens (eg, testosterone) in men are made in the Leydig cells of the testes, initial treatment focuses on androgen production in Leydig cells and stimulates androgen production.\n\nAndrogen production is primarily regulated by the hypothalamic-pituitary-testicular axis. Neurons in the hypothalamus release GnRH into the hypothalamic-pituitary portal system in a PULSATILE pattern every 90-120 minutes. This stimulates pituitary gonadotrophs to release luteinizing hormone (LH) into the circulation, which then binds to a surface receptor on Leydig cells and stimulates androgen production.\n\nIn medical orchiectomy, a GnRH analogue (eg, leuprolide) is administered to continuously stimulate pituitary gonadotrophs, which leads to down-regulation of the GnRH receptor, lower LH release, and reduced testicular androgen production. However, because GnRH analogues initially stimulate pituitary gonadotrophs prior to the down-regulation of the receptor, most patients have a transient increase in systemic androgens during the first week of therapy (upward portion of graph). This effect is generally blunted by administering a short course of androgen receptor antagonist medication (eg, bicalutamide) during treatment initiation in order to prevent worsening of the underlying prostate cancer.\n\n(Choices A and C) GnRH analogues stimulate the GnRH receptor prior to down-regulation, resulting in a transient increase in LH and systemic androgen production prior to down-regulation of the receptor.\n\n(Choice D) The enzyme 5-alpha reductase converts testosterone to dihydrotestosterone (DHT) in peripheral tissues (eg, skin, liver); as testosterone levels fall, DHT production will decrease concurrently. GnRH analogues have no effect on the activity of 5-alpha reductase, therefore, testosterone and DHT levels rise and fall in synchrony following GnRH administration.\n\n(Choice E) Benign prostatic hyperplasia is typically treated with a 5-alpha reductase inhibitor (eg, finasteride), which reduces the conversion of testosterone to DHT. This class of medications reduces DHT levels while testosterone levels remain largely unaffected.\n\nEducational objective:\nLeuprolide is a GnRH agonist used to treat prostate cancer. It initially stimulates pituitary LH secretion, which leads to a rise in androgen levels. However, the GnRH receptor is subsequently down-regulated, which dramatically drops LH release and leads to a long-term decrease in androgen production.",
+    "zh": "前列腺癌是一种雄激素依赖性肿瘤。由于男性体内的大部分雄激素（例如睾酮）是在睾丸的Leydig细胞中产生的，因此初始治疗侧重于Leydig细胞中的雄激素产生并刺激雄激素的产生。\n\n雄激素的产生主要受下丘脑-垂体-性腺轴调节。下丘脑中的神经元以脉冲式（PULSATILE）模式每90-120分钟向垂体-下丘脑门脉系统释放GnRH。这刺激垂体促性腺细胞释放促黄体激素（LH）进入循环，然后LH与Leydig细胞表面的受体结合并刺激雄激素的产生。\n\n在药物性去势中，使用GnRH类似物（例如亮丙瑞林）持续刺激垂体促性腺细胞，这会导致GnRH受体的下调，LH释放减少，以及睾丸雄激素的产生减少。然而，由于GnRH类似物最初会刺激垂体促性腺细胞，然后才会发生受体下调，因此大多数患者在治疗的第一周内会出现全身性雄激素的短暂增加（图中的上升部分）。这种影响通常可以通过在治疗开始时给予短期雄激素受体拮抗剂药物（例如比卡鲁胺）来减弱，以防止潜在前列腺癌恶化。\n\n(选项 A 和 C) GnRH类似物在下调之前刺激GnRH受体，导致LH和全身性雄激素产生短暂增加。\n\n(选项 D) 5-α还原酶将睾酮转化为二氢睾酮（DHT），发生在周围组织（例如皮肤、肝脏）中；随着睾酮水平的下降，DHT的产生也将同时减少。 GnRH类似物对5-α还原酶的活性没有影响，因此，睾酮和DHT的水平在给予GnRH后同步上升和下降。\n\n(选项 E) 良性前列腺增生通常用5-α还原酶抑制剂（例如非那雄胺）治疗，该药物可减少睾酮向DHT的转化。这类药物可降低DHT水平，而睾酮水平基本不受影响。\n\n教育目标：\n亮丙瑞林是一种用于治疗前列腺癌的GnRH激动剂。它最初刺激垂体LH分泌，导致雄激素水平升高。然而，随后GnRH受体被下调，这会急剧降低LH的释放，并导致雄激素长期减少。"
+  },
+  "summary": {
+    "en": "This question tests the mechanism of action of leuprolide, a GnRH agonist used in the treatment of prostate cancer, and its effect on testosterone and dihydrotestosterone levels. It requires understanding the initial stimulatory effect followed by downregulation of the GnRH receptor. \n\nTo solve this question, recall that leuprolide initially stimulates LH secretion, leading to a transient increase in testosterone and DHT. Subsequently, the GnRH receptor is downregulated, causing a long-term decrease in both hormones.",
+    "zh": "此题考察亮丙瑞林的药理作用，亮丙瑞林是一种用于治疗前列腺癌的GnRH激动剂，及其对睾酮和二氢睾酮水平的影响。它需要理解最初的刺激作用，然后是GnRH受体的下调。\n\n为了解决这个问题，回想一下亮丙瑞林最初会刺激LH分泌，导致睾酮和DHT的短暂增加。随后，GnRH受体被下调，导致两种激素的长期下降。"
+  },
+  "tags": "Prostate cancer; Leuprolide; GnRH agonist; Testosterone; Dihydrotestosterone; Androgen deprivation therapy; Endocrinology; Medical oncology",
+  "category": "Endo",
+  "question_id": "209",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\209",
+  "extracted_at": "2025-11-05T14:06:44.279232",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:40:54.858611",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

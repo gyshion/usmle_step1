@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 64-year-old man comes to the emergency department due to left lower extremity weakness. The patient was asymptomatic when he went to bed the night before, but he has had difficulty standing after waking up today. He has had no headache, double vision, or back pain. Medical history is significant for hypertension, diabetes mellitus, and myocardial infarction. Temperature is 37 C (98.6 F), blood pressure is 140/90 mm Hg, and pulse is 110/min and irregularly irregular. Left lower extremity examination shows motor power is 0/5, deep tendon reflexes are 3+, and Babinski sign is present. Right lower extremity examination is normal. An abnormality in which of the following structures is the most likely cause of this patient's symptoms? {{exhibit_1}}",
+    "zh": "一名64岁男性因左下肢无力就诊于急诊科。患者前一天晚上睡觉时无症状，但今天醒来后站立困难。他没有头痛、复视或背痛。病史提示高血压、糖尿病和心肌梗死。体温37°C（98.6°F），血压140/90 mmHg，脉搏110次/分，不规则。左下肢检查显示肌力0/5级，深腱反射3+，Babinski征阳性。右下肢检查正常。以下哪种结构的异常最有可能导致该患者的症状？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "An abnormality in which of the following structures is the most likely cause of this patient's symptoms?",
+    "zh": "以下哪种结构的异常最有可能导致该患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Anterior spinal artery of the lumbosacral region",
+      "zh": "腰骶部脊髓前动脉"
+    },
+    "B": {
+      "en": "Left posterior inferior cerebellar artery",
+      "zh": "左侧小脑后下动脉"
+    },
+    "C": {
+      "en": "Lumbosacral spinal neuroforamina",
+      "zh": "腰骶椎神经孔"
+    },
+    "D": {
+      "en": "Right anterior cerebral artery",
+      "zh": "右侧大脑前动脉"
+    },
+    "E": {
+      "en": "Right middle cerebral artery",
+      "zh": "右侧大脑中动脉"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with ATRIAL FIBRILLATION (irregularly irregular pulse, tachycardia) has isolated left lower extremity motor deficits, most likely caused by a CARDIOEMBOLIC STROKE in the right anterior cerebral artery (ACA) territory. The ACA supplies the medial aspects of the frontal and parietal lobes, a region which contains the upper motor neurons responsible for contralateral lower extremity motor control. Occlusion of the ACA characteristically causes CONTRALATERAL LOWER LIMB WEAKNESS with upper motor neuron signs (eg, hyperreflexia, Babinski sign). Contralateral sensory deficits occur in a minority of patients.\n\nThe most common etiology of ACA stroke is cardiac embolization due to Atrial fibrillation, which can cause blood flow stasis resulting in thrombus formation in the left atrial appendage. Atrial thromboemboli frequently travel to and obstruct branches of ACA or middle cerebral artery (MCA), causing cerebral ischemia with associated neurologic defects. {{exhibit_2}}\n\n(Choice A) An embolic occlusion of the anterior spinal artery in the lumbosacral region would cause bilateral lower extremity weakness with hyporeflexia (ischemia of the anterior horns and corticospinal tracts) and loss of pain and temperature sensation (ischemia of the spinothalamic tracts) below the level of the lesion.\n\n(Choice B) Posterior inferior cerebellar artery occlusion characteristically causes ischemia in the lateral medulla (Wallenberg syndrome) and inferior cerebellar peduncle, resulting in dysphagia, hoarseness, and vestibulocerebellar symptoms (eg, ataxia, dizziness, nystagmus). {{exhibit_3}}\n\n(Choice C) Although lumbosacral neural foraminal stenosis can cause unilateral lower extremity weakness, compression injury of a spinal nerve root (lower motor neuron fibers) at this level would typically result in significant radicular back and leg pain with hyporeflexia.\n\n(Choice E) MCA strokes predominantly affect the upper extremity and are often associated with homonymous hemianopia, aphasia, and hemineglect. Although large MCA strokes can also cause lower extremity weakness, the defects in those cases are usually extensive and involve both the upper and lower extremities (hemiparesis). {{exhibit_4}}",
+    "zh": "该患者患有房颤（脉搏不规则，心动过速），表现为左下肢孤立的运动功能障碍，最有可能由右侧大脑前动脉（ACA）区域的栓塞性卒中引起。大脑前动脉供应额叶和顶叶的内侧部分，该区域包含负责对侧下肢运动控制的上运动神经元。大脑前动脉的闭塞典型地导致对侧下肢无力，伴有上运动神经元体征（例如，反射亢进，Babinski征阳性）。对侧感觉障碍仅发生在少数患者中。\n\n大脑前动脉卒中最常见的病因是由于房颤引起的血栓栓塞，这会导致血流淤滞，从而导致血栓形成于左心耳。房性血栓栓塞物经常会转移并阻塞大脑前动脉或大脑中动脉（MCA）的分支，引起脑缺血，并伴有相关的神经功能障碍。{{exhibit_2}}\n\n（选项A）腰骶部脊髓前动脉的栓塞性闭塞会导致双侧下肢无力，伴反射减退（前角和皮质脊髓束缺血）和病变平面以下痛觉和温度觉丧失（脊髓丘脑束缺血）。\n\n（选项B）小脑后下动脉闭塞典型地导致外侧延髓（Wallenberg综合征）和小脑下脚缺血，导致吞咽困难、声音嘶哑和前庭小脑症状（例如，共济失调、头晕、眼球震颤）。{{exhibit_3}}\n\n（选项C）虽然腰骶椎神经孔狭窄可引起单侧下肢无力，但此水平的脊神经根（下运动神经元纤维）的压迫损伤通常会导致明显的神经根性背痛和腿痛，伴有反射减退。\n\n（选项E）大脑中动脉卒中主要影响上肢，通常伴有同侧偏盲、失语和半侧忽略。虽然大型大脑中动脉卒中也可引起下肢无力，但在这些情况下，缺陷通常很广泛，涉及上肢和下肢（偏瘫）。{{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of stroke syndromes, specifically anterior cerebral artery (ACA) stroke, and its characteristic presentation of contralateral lower extremity weakness. It also requires understanding of the common etiology of ACA stroke, which is cardioembolic due to atrial fibrillation.\n\nTo solve this question, identify the key findings of isolated lower extremity weakness and irregular heart rhythm (atrial fibrillation). Recognize that ACA stroke is the most likely cause of isolated lower extremity weakness, and atrial fibrillation is a common risk factor for cardioembolic stroke.",
+    "zh": "本题考察对卒中综合征的了解，特别是大脑前动脉（ACA）卒中，及其对侧下肢无力的特征性表现。它还需要理解大脑前动脉卒中的常见病因，即由于房颤引起的血栓栓塞。\n\n要解决此问题，请确定孤立性下肢无力和心律不齐（房颤）的关键发现。认识到大脑前动脉卒中是孤立性下肢无力的最可能原因，而房颤是血栓栓塞性卒中的常见危险因素。"
+  },
+  "tags": "Stroke; Anterior cerebral artery; Atrial fibrillation; Cardioembolic stroke; Lower extremity weakness; Neurology; Cerebrovascular disease",
+  "category": "Neuro",
+  "question_id": "15765",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\15765",
+  "extracted_at": "2025-11-05T15:20:20.109326",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:21:01.081162",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 72-year-old woman is brought to the emergency department from a nursing facility due to fever, chills, and hypotension. The patient has a history of diabetes mellitus, ischemic stroke, and neurogenic bladder. She has an indwelling urinary catheter. Temperature is 38.8 C (102 F), blood pressure is 80/40 mm Hg, and pulse is 130/min. The patient is lethargic and disoriented. Her extremities are warm, and her breathing is rapid and shallow. Lungs are clear on auscultation and there are no heart murmurs. There is left costovertebral angle tenderness. The urine in her catheter appears cloudy. Her leukocyte count is elevated with left shift, and urinalysis shows pyuria and bacteriuria.",
+    "zh": "一名72岁女性因发热、寒战和低血压从疗养院被送往急诊科。患者有糖尿病、缺血性卒中和神经源性膀胱病史。她留置有导尿管。体温38.8°C（102°F），血压80/40 mmHg，脉搏130次/分。患者嗜睡、定向力障碍。她的四肢温暖，呼吸急促而浅。肺部听诊清，无心脏杂音。左侧肋脊角压痛。导尿管内的尿液呈浑浊状。她的白细胞计数升高伴有核左移，尿分析显示脓尿和菌尿。"
+  },
+  "question": {
+    "en": "Which of the following chemical mediators is most responsible for this patient's current condition?",
+    "zh": "以下哪种化学介质最有可能导致该患者目前的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Interleukin-3",
+      "zh": "白细胞介素-3"
+    },
+    "B": {
+      "en": "Interleukin-4",
+      "zh": "白细胞介素-4"
+    },
+    "C": {
+      "en": "Interleukin-10",
+      "zh": "白细胞介素-10"
+    },
+    "D": {
+      "en": "Leukotriene B4",
+      "zh": "白三烯B4"
+    },
+    "E": {
+      "en": "Transforming growth factor-beta",
+      "zh": "转化生长因子-β"
+    },
+    "F": {
+      "en": "Tumor necrosis factor-alpha",
+      "zh": "肿瘤坏死因子-α"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "When observed in the setting of infection, the combination of hypotension, tachycardia, tachypnea, and markedly elevated or decreased body temperature is suggestive of septic shock. Early sepsis is characterized by peripheral vasodilation, a compensatory increase in cardiac output, and warm extremities.\n\nNumerous cytokines are released in sepsis, resulting in widespread SYSTEMIC INFLAMMATION. One of the most important mediators of sepsis is TUMOR NECROSIS FACTOR-ALPHA (TNF-α), an acute-phase cytokine produced by activated macrophages. TNF-α stimulates systemic inflammation via recruitment of additional leukocytes (eg, neutrophils, macrophages) and increasing pro-inflammatory cytokine production. Other cytokines responsible for inducing the systemic inflammatory response in sepsis include IL-1 and IL-6.\n\n(Choice A) IL-3 is a cytokine produced by activated T cells. It stimulates the growth and differentiation of stem cells in the bone marrow.\n\n(Choice B) IL-4 is a cytokine produced by Th2 T-helper cells. It stimulates the growth of B cells and increases the number of Th2 T-helper cells at the site of inflammation.\n\n(Choice C) IL-10 is an anti-inflammatory cytokine produced by macrophages and Th2 T-helper cells. IL-10 limits the production of pro-inflammatory cytokines (eg, interferon-gamma, IL-2, IL-3, TNF-α).\n\n(Choice D) Leukotriene B4 is a metabolite of arachidonic acid. Its main function is to stimulate neutrophil migration to the site of inflammation.\n\n(Choice E) Transforming growth factor-beta is released by macrophages and has anti-inflammatory roles in sepsis, including suppressing the release of IL-1 and TNF-α, and inhibiting lymphocyte proliferation.\n\nEducational objective:\nTumor necrosis factor-alpha is released from activated macrophages and is one of the most important mediators of the systemic inflammatory response in sepsis. Other cytokines responsible for inducing the systemic inflammatory response include IL-1 and IL-6.",
+    "zh": "在感染的情况下，低血压、心动过速、呼吸急促以及体温明显升高或降低的组合提示脓毒性休克。早期脓毒症的特征是外周血管舒张、代偿性心输出量增加和四肢温暖。\n\n在脓毒症中，会释放多种细胞因子，导致广泛的全身性炎症。脓毒症最重要的介质之一是肿瘤坏死因子-α（TNF-α），这是一种由活化的巨噬细胞产生的急性期细胞因子。TNF-α通过募集额外的白细胞（例如，中性粒细胞、巨噬细胞）和增加促炎细胞因子的产生来刺激全身炎症。其他导致脓毒症全身炎症反应的细胞因子包括IL-1和IL-6。\n\n（选项A）IL-3是由活化的T细胞产生的细胞因子。它刺激骨髓中干细胞的生长和分化。\n\n（选项B）IL-4是由Th2辅助T细胞产生的细胞因子。它刺激B细胞的生长，并增加炎症部位Th2辅助T细胞的数量。\n\n（选项C）IL-10是由巨噬细胞和Th2辅助T细胞产生的抗炎细胞因子。IL-10限制促炎细胞因子（例如，干扰素-γ、IL-2、IL-3、TNF-α）的产生。\n\n（选项D）白三烯B4是花生四烯酸的代谢产物。它的主要功能是刺激中性粒细胞向炎症部位迁移。\n\n（选项E）转化生长因子-β由巨噬细胞释放，在脓毒症中具有抗炎作用，包括抑制IL-1和TNF-α的释放，并抑制淋巴细胞增殖。\n\n教育目标：\n肿瘤坏死因子-α由活化的巨噬细胞释放，是脓毒症全身炎症反应最重要的介质之一。其他导致全身炎症反应的细胞因子包括IL-1和IL-6。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of sepsis and the role of various cytokines, particularly tumor necrosis factor-alpha (TNF-α), in the systemic inflammatory response. It requires recognizing the clinical presentation of septic shock and understanding the mechanisms by which cytokines contribute to the condition. \n\nTo solve this question, identify the key features of sepsis in the patient's presentation (fever, hypotension, tachycardia, leukocytosis) and recall the major cytokines involved in the inflammatory cascade. Focus on TNF-α as a primary mediator released by activated macrophages in response to infection.",
+    "zh": "这道题考察了对脓毒症的病理生理学以及各种细胞因子，特别是肿瘤坏死因子-α（TNF-α）在全身炎症反应中的作用的了解。它要求识别脓毒性休克的临床表现，并了解细胞因子促成该状况的机制。\n\n要解决这个问题，请确定患者表现中脓毒症的主要特征（发热、低血压、心动过速、白细胞增多），并回忆参与炎症级联反应的主要细胞因子。重点关注TNF-α作为响应感染由活化巨噬细胞释放的主要介质。"
+  },
+  "tags": "Sepsis; Septic shock; Tumor necrosis factor-alpha; Cytokines; Systemic inflammatory response; Immunology; Infectious disease; Hypotension; Tachycardia; Leukocytosis",
+  "category": "Immunology",
+  "question_id": "1799",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\1799",
+  "extracted_at": "2025-11-05T14:41:07.011103",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:01:05.418120",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

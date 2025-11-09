@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 12-year-old girl is brought to an urgent care clinic due to nausea, vomiting, and crampy abdominal pain 3 hours after a summer cookout in a park, where she consumed potato salad, coleslaw, and a hamburger. Two other children who attended the event also had similar symptoms. She has no chronic medical conditions and previously felt well. On examination, the patient is afebrile, and the abdomen is soft and nontender. Her symptoms quickly resolve with supportive care.",
+    "zh": "一名12岁的女孩因恶心、呕吐和腹部痉挛性疼痛被带到急诊诊所，起因是3小时前在公园的夏季野餐会上，她食用了土豆沙拉、凉拌卷心菜和汉堡包。另外两名参加活动的儿童也有类似的症状。她没有慢性病史，以前感觉良好。体格检查显示，患者未发热，腹部柔软且无压痛。她的症状在支持治疗后很快缓解。"
+  },
+  "question": {
+    "en": "Which of the following strategies would have been most effective in preventing this patient's illness?",
+    "zh": "以下哪种策略最能有效预防该患者的疾病？"
+  },
+  "options": {
+    "A": {
+      "en": "Avoiding close contact with a person with similar symptoms",
+      "zh": "避免与有类似症状的人密切接触"
+    },
+    "B": {
+      "en": "Cooking meat products to safe minimum temperatures",
+      "zh": "将肉类产品烹饪到安全的最低温度"
+    },
+    "C": {
+      "en": "Keeping prepared foods refrigerated while storing",
+      "zh": "在储存时将预先准备好的食物冷藏"
+    },
+    "D": {
+      "en": "Performing adequate treatment of drinking water",
+      "zh": "对饮用水进行充分处理"
+    },
+    "E": {
+      "en": "Washing hands thoroughly before consuming a meal",
+      "zh": "在用餐前彻底洗手"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Enterotoxigenic Staphylococcus aureus produces a heat-stable enterotoxin that is a common cause of foodborne illness. This pathogen is typically introduced into high-risk foods (eg, mayonnaise-based salads, eggs, dairy, previously cooked meats) during improper food handling by an asymptomatic carrier. Storage at room temperature for extended periods allows the organism to quickly proliferate and generate enterotoxin. Individuals then ingest the preformed enterotoxin and become rapidly ill with nausea, vomiting, abdominal pain, and, occasionally, fever and mild diarrhea. Symptoms quickly resolve with supportive care. Multiple individuals are often affected due to the consumption of the same food at a picnic, party, or potluck.\n\nStaphylococcal foodborne illness can be prevented by washing hands thoroughly with soap and water prior to preparing food (prevents contamination) and ensuring proper refrigerated food storage when food will not be consumed within 2 hours of preparation (prevents bacterial proliferation/enterotoxin production).\n\n(Choice A) Close contact with an individual who has rotavirus infection can lead to the transmission of the virus with subsequent acute infectious diarrhea (particularly in children [age <5]). Staphylococcal gastroenteritis occurs when a preformed toxin is ingested in food; person-to-person transmission does not occur.\n\n(Choice B) Enterohemorrhagic Escherichia coli is typically transmitted due to eating undercooked, contaminated ground beef. Manifestations typically begin 3-4 days (not hours) after ingestion and include toxin-mediated (Shiga toxin) colitis with bloody stools; some patients may also develop hemolytic uremic syndrome.\n\n(Choice D) Treatment of drinking water can prevent giardia infection, which usually causes foul-smelling, watery diarrhea 7-10 days after transmission.\n\n(Choice E) Washing hands prior to eating can prevent the transmission of a wide range of pathogens. Hand washing would not be protective against enterotoxins present in food.",
+    "zh": "产肠毒素的金黄色葡萄球菌产生一种耐热性肠毒素，是食源性疾病的常见原因。这种病原体通常通过无症状携带者在不正确的食物处理过程中引入到高危食物中（例如，以蛋黄酱为基础的沙拉、鸡蛋、乳制品、先前煮熟的肉类）。在室温下长时间储存可使该生物体迅速增殖并产生肠毒素。然后，个体摄入预先形成的肠毒素，并迅速出现恶心、呕吐、腹痛，偶尔伴有发烧和轻度腹泻。症状在支持治疗后迅速缓解。由于在野餐、聚会或聚餐中食用了相同的食物，通常会影响多个人。\n\n葡萄球菌食源性疾病可以通过在准备食物前用肥皂和水彻底洗手（防止污染）和确保在食物在制备后2小时内不食用时正确冷藏食物（防止细菌增殖/肠毒素产生）来预防。\n\n(选项A) 与患有轮状病毒感染的个体密切接触可能导致病毒传播，随后出现急性感染性腹泻（尤其是在儿童[年龄<5岁]中）。葡萄球菌性胃肠炎发生在摄入食物中预先形成的毒素时；不会发生人际传播。\n\n(选项B) 出血性大肠杆菌通常由于食用未煮熟的、受污染的碎牛肉而传播。表现通常在摄入后3-4天（而非几小时）开始，包括毒素介导的（志贺毒素）结肠炎，伴有血便；一些患者还可能发展为溶血性尿毒症综合征。\n\n(选项D) 处理饮用水可以预防贾第虫感染，贾第虫感染通常在传播后7-10天引起恶臭、水样腹泻。\n\n(选项E) 进食前洗手可以预防多种病原体的传播。洗手不能预防食物中存在的肠毒素。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of foodborne illnesses, specifically Staphylococcal food poisoning, and preventative measures. It assesses understanding of the source, mechanism, and prevention of preformed enterotoxins.\n\nThe best approach is to identify the most likely cause of the food poisoning based on the rapid onset of symptoms and the food consumed. Then, consider which preventative measure would directly address the identified cause.",
+    "zh": "这道题考察了对食源性疾病（特别是葡萄球菌食物中毒）的知识以及预防措施。它评估了对预先形成的肠毒素的来源、机制和预防的理解。\n\n最好的方法是根据症状的快速发作和所食用的食物，确定食物中毒最可能的原因。然后，考虑哪种预防措施可以直接解决已确定的原因。"
+  },
+  "tags": "Foodborne illness; Staphylococcus aureus; Enterotoxin; Gastroenteritis; Food safety; Refrigeration; Public health; Infectious disease; Toxin-mediated disease",
+  "category": "Micro",
+  "question_id": "15210",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\15210",
+  "extracted_at": "2025-11-05T14:58:12.533899",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:08:25.475446",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

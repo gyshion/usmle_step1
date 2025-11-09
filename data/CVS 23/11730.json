@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old previously healthy man is evaluated for several episodes of syncope in the past 6 weeks. Physical examination is unremarkable. Echocardiogram shows no structural heart defect. An electrophysiologic study is performed during which catheters are passed into the patient's right and left atrium to record atrial electric potentials. Cardiac monitor currently shows normal sinus rhythm. Which of the following is the most likely earliest site of electric activation? {{exhibit_1}}",
+    "zh": "一名35岁 previously 健康的男性因过去6周内出现数次晕厥发作而接受评估。体格检查无特殊发现。超声心动图显示无心脏结构缺陷。进行电生理学研究，期间将导管插入患者的右心房和左心房以记录心房电位。心脏监护仪目前显示窦性心律。以下哪项是最可能的最早电激活位点？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely earliest site of electric activation?",
+    "zh": "以下哪项是最可能的最早电激活位点？"
+  },
+  "options": {
+    "A": {
+      "en": "Junction of left atrium and atrial appendage",
+      "zh": "左心房和心耳的连接处"
+    },
+    "B": {
+      "en": "Left atrium near the opening of pulmonary veins",
+      "zh": "左心房靠近肺静脉开口处"
+    },
+    "C": {
+      "en": "Right atrium near the opening of inferior vena cava",
+      "zh": "右心房靠近下腔静脉开口处"
+    },
+    "D": {
+      "en": "Right atrium near the opening of superior vena cava",
+      "zh": "右心房靠近上腔静脉开口处"
+    },
+    "E": {
+      "en": "Right atrium near the septal cusp of tricuspid valve",
+      "zh": "右心房靠近三尖瓣隔瓣处"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The cardiac conduction system consists of the sinoatrial (SA) node, atrioventricular (AV) node, bundle of His, right and left bundle branches, and the Purkinje system (which directly activates the ventricular myocardium). In patients with normal sinus rhythm (as in this patient), the SA node acts as the dominant pacemaker site and is the site of earliest electrical activation. The SA node is a compact subepicardial structure that consists of specialized pacemaker cells located at the JUNCTION of the right atrium and superior vena cava.\n\n(Choices A and B) The SA node is located in the right, not the left, atrium. The area around the opening of the pulmonary veins in the left atrium is frequently involved in the pathogenesis of atrial fibrillation.\n\n(Choice C) The junction of the right atrium and inferior vena cava is not a major site of electrical activity.\n\n(Choice E) The AV node is located in the right atrium near the septal cusp of the tricuspid valve.\n\nEducational objective: The sinoatrial node consists of specialized pacemaker cells located at the junction of the right atrium and superior vena cava. It is the site of earliest electrical activation in patients with sinus rhythm.",
+    "zh": "心脏传导系统由窦房结（SA 结）、房室结（AV 结）、希氏束、右束支和左束支以及浦肯野系统（直接激活心室心肌）组成。在具有正常窦性心律的患者（如本患者）中，SA 结充当主要起搏点，并且是最早的电激活位点。SA 结是一个致密的位于心外膜下的结构，由位于右心房和上腔静脉连接处的特殊起搏细胞组成。\n\n（选项 A 和 B）SA 结位于右心房，而不是左心房。左心房肺静脉开口周围区域常参与心房颤动的发病机制。\n\n（选项 C）右心房和下腔静脉的连接处不是主要的电活动位点。\n\n（选项 E）房室结位于右心房靠近三尖瓣隔瓣处。\n\n教育目标：窦房结由位于右心房和上腔静脉连接处的特殊起搏细胞组成。它是窦性心律患者最早的电激活位点。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the cardiac conduction system and the location of the sinoatrial (SA) node, which is the primary pacemaker in patients with normal sinus rhythm. It also tests the ability to identify the earliest site of electrical activation in the heart.\n\nTo solve this question, recall that the SA node is located in the right atrium near the junction of the superior vena cava. Eliminate options that refer to the left atrium or other locations in the right atrium that are not associated with the SA node.",
+    "zh": "本题考察对心脏传导系统和窦房结（SA 结）位置的了解，窦房结是正常窦性心律患者的主要起搏器。它还考察了识别心脏最早电激活位点的能力。\n\n要解决此问题，请记住 SA 结位于右心房靠近上腔静脉的连接处。排除涉及左心房或右心房其他与 SA 结无关位置的选项。"
+  },
+  "tags": "Cardiac conduction system; Sinoatrial node; Arrhythmia; Electrophysiology; Syncope",
+  "category": "CVS",
+  "question_id": "11730",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\11730",
+  "extracted_at": "2025-11-05T11:50:19.733152",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:44:13.302082",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "In experiments, transient myocardial ischemia causes myocardial cells to increase in size. This effect is due in part to which of the following?",
+    "zh": "在实验中，短暂的 Myocardial ischemia 会导致心肌细胞增大。 这种影响部分是由于以下哪一项引起的？"
+  },
+  "question": {
+    "en": "In experiments, transient myocardial ischemia causes myocardial cells to increase in size. This effect is due in part to which of the following?",
+    "zh": "在实验中，短暂的 Myocardial ischemia 会导致心肌细胞增大。 这种影响部分是由于以下哪一项引起的？"
+  },
+  "options": {
+    "A": {
+      "en": "Intracellular K+ accumulation",
+      "zh": "细胞内 K+ 蓄积"
+    },
+    "B": {
+      "en": "Intracellular Ca2+ accumulation",
+      "zh": "细胞内 Ca2+ 蓄积"
+    },
+    "C": {
+      "en": "High cellular HCO3- content",
+      "zh": "高细胞 HCO3- 含量"
+    },
+    "D": {
+      "en": "Cascade protein phosphorylation",
+      "zh": "级联蛋白磷酸化"
+    },
+    "E": {
+      "en": "Net cellular solute loss",
+      "zh": "细胞溶质净损失"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "When blood flow cannot meet myocardial demands, cardiac myocytes transition from aerobic to anaerobic metabolism. However, anaerobic metabolism cannot maintain proper intracellular ATP levels, and ADP, AMP and adenosine accumulate. Without ATP, the membrane Na+/K+-ATPases and the sarcoplasmic reticulum Ca2+-ATPases fail, leading to increased intracellular Na+ and Ca2+ and increased intramitochondrial Ca2+ concentrations. These increased concentrations attract free water, causing cellular and mitochondrial swelling. Failure of the sarcoplasmic reticulum to resequester Ca2+ leads to cessation of contraction within ischemic zones of myocardium.\n\n(Choice A) The cell membrane Na+/K+-ATPase pump normally brings K+ into the cell in exchange for Na+. Thus, in ischemic tissue, intracellular K+ is decreased.\n\n(Choice C) Cellular HCO3- is not elevated in cardiac ischemia. Anaerobic metabolism leads to lactic acid production and a decrease in pH. Tissue CO2, the conjugate acid of HCO3-, is thus elevated in ischemic myocardium.\n\n(Choice D) Protein phosphorylation cascades play a role in a variety of processes including second messenger signaling and regulation of apoptosis. The cell's response to ischemia does involve initiating certain metabolic processes through protein phosphorylation, but this does not cause cell swelling.\n\n(Choice E) Ischemia causes a net solute gain within cardiac myocytes. Elevated concentrations of Na+ and Ca2+ draw free water into the cells, causing edema.\n\nEducational Objective:\nIon pump failure due to ATP deficiency during cardiac ischemia causes intracellular accumulation of Na+ and Ca2+. The increased intracellular solute concentration draws free water into the cell, causing the cellular and mitochondrial swelling that is observed histologically.",
+    "zh": "当血流无法满足心肌需求时，心肌细胞会从有氧代谢转变为无氧代谢。然而，无氧代谢无法维持适当的细胞内 ATP 水平，ADP、AMP 和腺苷会积聚。在没有 ATP 的情况下，细胞膜 Na+/K+-ATPases 和肌质网 Ca2+-ATPases 会衰竭，导致细胞内 Na+ 和 Ca2+ 增加，以及线粒体内 Ca2+ 浓度升高。这些增加的浓度会吸引自由水，引起细胞和线粒体肿胀。肌质网未能重新螯合 Ca2+ 导致心肌缺血区域的收缩停止。\n\n(选项 A) 细胞膜 Na+/K+-ATPases 泵通常通过交换 Na+ 将 K+ 泵入细胞。因此，在缺血组织中，细胞内 K+ 减少。\n\n(选项 C) 心脏缺血时，细胞内 HCO3- 不升高。无氧代谢会导致乳酸生成和 pH 值下降。组织 CO2，即 HCO3- 的共轭酸，因此在缺血心肌中升高。\n\n(选项 D) 蛋白磷酸化级联反应在各种过程中发挥作用，包括第二信使信号传导和凋亡的调节。细胞对缺血的反应确实涉及通过蛋白磷酸化启动某些代谢过程，但这不会引起细胞肿胀。\n\n(选项 E) 缺血会导致心肌细胞内溶质净增加。 Na+ 和 Ca2+ 浓度升高会吸引自由水进入细胞，引起水肿。\n\n教育目标：\n心脏缺血期间由于 ATP 缺乏导致的离子泵衰竭会导致细胞内 Na+ 和 Ca2+ 蓄积。细胞内溶质浓度升高会将自由水吸入细胞，引起细胞和线粒体肿胀，这在组织学上可见。"
+  },
+  "summary": {
+    "en": "This question tests the pathophysiology of cellular swelling in myocardial ischemia, specifically the role of ion pump dysfunction and electrolyte imbalances. The key to solving this question is understanding that ATP depletion during ischemia leads to failure of Na+/K+ and Ca2+ ATPases, resulting in intracellular accumulation of Na+ and Ca2+, which draws water into the cells, causing swelling.",
+    "zh": "本题考察心肌缺血时细胞肿胀的病理生理学，特别是离子泵功能障碍和电解质失衡的作用。解决此题的关键是理解缺血期间 ATP 耗竭导致 Na+/K+ 和 Ca2+ ATPases 衰竭，导致细胞内 Na+ 和 Ca2+ 蓄积，从而将水吸入细胞，引起肿胀。"
+  },
+  "tags": "Myocardial ischemia; Cellular swelling; ATP depletion; Ion pump dysfunction; Calcium overload; Sodium accumulation; Anaerobic metabolism; Cardiology; Pathology",
+  "category": "CVS",
+  "question_id": "1882",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1882",
+  "extracted_at": "2025-11-05T12:04:28.145182",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:53:34.037184",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

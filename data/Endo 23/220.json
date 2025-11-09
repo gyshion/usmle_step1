@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old woman, gravida 1 para 1, comes to the office for postpartum follow-up 2 weeks after a term vaginal delivery. Her baby is doing well, but she is concerned because she has not yet lactated. The patient knew she would lose weight and be tired after the baby was born, but she feels excessive fatigue and has had significant weight loss. She also has nausea, loss of appetite, and postural dizziness. The patient has no headaches, visual problems, cold intolerance, constipation, or polyuria. On examination, she appears fatigued and has mild pallor. Laboratory tests are drawn the next morning at 8:00 AM, with the following results:\n\nHemoglobin 9.6 g/dL\nSodium 130 mEq/L\nCortisol, serum 4 µg/dL\nFree T4 1.0 ng/dL\nTSH 0.2 µU/mL",
+    "zh": "一名24岁的女性，孕1产1，在足月阴道分娩后2周来诊所进行产后复查。她的宝宝情况良好，但她很担心，因为她还没有开始泌乳。患者知道她会在宝宝出生后体重减轻并感到疲倦，但她感到过度疲劳并且体重显着下降。她还有恶心、食欲不振和体位性头晕。患者没有头痛、视力问题、怕冷、便秘或多尿。检查显示她很疲劳，并且有轻度苍白。实验室检查在第二天早上8:00 AM进行，结果如下：\n\n血红蛋白 9.6 g/dL\n钠 130 mEq/L\n皮质醇，血清 4 µg/dL\n游离T4 1.0 ng/dL\nTSH 0.2 µU/mL"
+  },
+  "question": {
+    "en": "Which of the following pathologic processes is most likely responsible for this patient's symptoms?",
+    "zh": "以下哪种病理过程最有可能导致该患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Glandular hemorrhage",
+      "zh": "腺体出血"
+    },
+    "B": {
+      "en": "Inflammation",
+      "zh": "炎症"
+    },
+    "C": {
+      "en": "Ischemic necrosis",
+      "zh": "缺血性坏死"
+    },
+    "D": {
+      "en": "Malignant infiltration",
+      "zh": "恶性浸润"
+    },
+    "E": {
+      "en": "Non-malignant infiltration",
+      "zh": "非恶性浸润"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has signs of panhypopituitarism with failure of lactation, central hypothyroidism, and adrenal insufficiency. In the setting of a recent delivery, this most likely represents ISCHEMIC NECROSIS of the pituitary gland (Sheehan syndrome). During pregnancy, the pituitary enlarges due to estrogen-induced hyperplasia of the lactotrophs. However, the blood supply to the pituitary does not increase proportionally. As a result, the enlarged pituitary is vulnerable to ischemia in case of systemic hypotension due to peripartum hemorrhage (which the patient likely experienced given her low hemoglobin).\n\nThe most common manifestation of Sheehan syndrome is failure of lactation due to prolactin deficiency. It also commonly causes hypocortisolism and hypothyroidism. Manifestations of thyroid deficiency may take a few weeks to develop due to the long circulating half-life of thyroxine (5-7 days) and peripheral conversion of thyroxine (T4) to T3. Cortisol deficiency manifests rapidly, however, with nausea, postural hypotension, fatigue, and weight loss.\n\n(Choice A) Pituitary apoplexy is due to sudden hemorrhage into the pituitary, usually in the setting of a preexisting pituitary adenoma. It usually presents with acute severe headache, ophthalmoplegia, and altered sensorium.\n\n(Choice B) Lymphocytic hypophysitis is the most common inflammatory condition of the pituitary and typically occurs during late pregnancy or the early postpartum period. In contrast to Sheehan syndrome, the presentation is acute with severe headaches and visual field defects.\n\n(Choice D) Primary pituitary cancer is extremely rare, although the pituitary is prone to metastases due to its rich vascular supply. These patients typically present with tumor mass effects (eg, headache, bitemporal hemianopsia).\n\n(Choice E) Non-malignant infiltrative lesions such as sarcoidosis and histiocytosis X mainly involve the suprasellar region, where they compress the hypothalamus and pituitary stalk. This disrupts the normal hypothalamic dopaminergic suppression of prolactin secretion, leading to increased prolactin levels and possible galactorrhea. Central diabetes insipidus may also be seen with resulting hypernatremia.\n\nEducational objective:\nHigh estrogen levels during pregnancy cause enlargement of the pituitary gland without a proportional increase in blood supply. Peripartum hypotension can cause ischemic necrosis of the pituitary leading to panhypopituitarism (Sheehan syndrome). Patients commonly develop failure of lactation due to deficiency of prolactin.",
+    "zh": "该患者有全垂体功能减退的体征，包括泌乳失败、中枢性甲状腺功能减退和肾上腺皮质功能不全。在近期分娩的情况下，这最有可能代表垂体缺血性坏死（Sheehan综合征）。在妊娠期间，由于雌激素诱导的泌乳素细胞增生，垂体增大。然而，垂体的血液供应没有相应增加。因此，扩大的垂体容易发生缺血，如果发生由于产后出血引起的全身性低血压（考虑到患者的血红蛋白低，她很可能经历过这种情况）。\n\nSheehan综合征最常见的表现是由于催乳素缺乏导致的泌乳失败。它也常引起皮质醇过低和甲状腺功能减退。甲状腺功能减退的表现可能需要几周才能发展，这取决于甲状腺素（5-7天）的长期循环半衰期和甲状腺素（T4）到T3的外周转化。然而，皮质醇缺乏症迅速表现出来，伴有恶心、体位性低血压、疲劳和体重减轻。\n\n（选项A）垂体卒中是由于突然出血进入垂体，通常发生在已存在的垂体腺瘤的情况下。它通常表现为急性剧烈头痛、眼肌麻痹和意识改变。\n\n（选项B）淋巴细胞性垂体炎是垂体最常见的炎症性疾病，通常发生在晚期妊娠或产后早期。与Sheehan综合征不同，其表现为急性起病，伴有严重头痛和视野缺损。\n\n（选项D）原发性垂体癌极其罕见，尽管垂体由于其丰富的血管供应而容易发生转移。这些患者通常表现为肿瘤占位效应（如头痛、双颞侧偏盲）。\n\n（选项E）非恶性浸润性病变，如结节病和组织细胞增生症X，主要累及鞍上区，在那里它们压迫下丘脑和垂体柄。这破坏了下丘脑多巴胺能对催乳素分泌的正常抑制，导致催乳素水平升高和可能的溢乳。也可出现中枢性尿崩症，导致高钠血症。\n\n教育目标：\n妊娠期间高雌激素水平导致垂体增大，而血液供应没有相应增加。围产期低血压可导致垂体缺血性坏死，导致全垂体功能减退（Sheehan综合征）。患者常因催乳素缺乏而发生泌乳失败。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Sheehan syndrome, a postpartum pituitary gland infarction leading to hypopituitarism. It assesses the ability to recognize the clinical presentation and laboratory findings associated with this condition. \n\nTo solve this question, consider the patient's recent pregnancy and delivery, along with the symptoms of hypopituitarism (failure of lactation, fatigue, weight loss, cold intolerance, constipation). Recognize that Sheehan syndrome is the most likely cause of hypopituitarism in the postpartum period.",
+    "zh": "这道题考察对Sheehan综合征的了解，Sheehan综合征是一种产后垂体梗死，导致垂体功能减退。它评估识别与此病症相关的临床表现和实验室检查结果的能力。\n\n要解决这个问题，请考虑患者近期怀孕和分娩的情况，以及垂体功能减退的症状（泌乳失败、疲劳、体重减轻、怕冷、便秘）。认识到Sheehan综合征是产后发生垂体功能减退的最可能原因。"
+  },
+  "tags": "Sheehan syndrome; Hypopituitarism; Ischemic necrosis; Pituitary gland; Postpartum; Lactation failure; Endocrinology; Obstetrics; Gynecology",
+  "category": "Endo",
+  "question_id": "220",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\220",
+  "extracted_at": "2025-11-05T14:07:19.884913",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:41:18.719731",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

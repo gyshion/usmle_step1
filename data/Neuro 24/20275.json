@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 3-week-old boy is evaluated in the neonatal intensive care unit due to apnea. The patient was born at 27 weeks gestation and had a birth weight of 1 kg (2 lb 2 oz). For the past 2 weeks, he has been stable on minimal respiratory support via nasal cannula but has had intermittent episodes of no respiratory effort for up to 30 seconds at a time. These episodes are associated with bradycardia and desaturation. The patient recovers spontaneously or with brief stimulation from the nurse. He is well appearing between episodes. Examination of the lungs reveals bilateral, clear breath sounds with easy work of breathing. Ultrasound of the head is normal. Arterial blood gas values are normal. This patient's clinical findings are most likely caused by an abnormality in which of the following areas?",
+    "zh": "一名 3 周大的男婴因呼吸暂停在新生儿重症监护病房接受评估。该患者出生时孕龄为 27 周，出生体重为 1 kg（2 磅 2 盎司）。在过去的 2 周内，他在鼻导管的最小呼吸支持下保持稳定，但间歇性地出现无呼吸努力发作，每次持续长达 30 秒。这些发作与心动过缓和血氧饱和度下降有关。患者可自发恢复或在护士的短暂刺激下恢复。在发作间期，他的情况良好。肺部检查显示双侧呼吸音清晰，呼吸轻松。头部超声检查正常。动脉血气值正常。该患者的临床表现最有可能由以下哪个区域的异常引起？"
+  },
+  "question": {
+    "en": "This patient's clinical findings are most likely caused by an abnormality in which of the following areas?",
+    "zh": "该患者的临床表现最有可能由以下哪个区域的异常引起？"
+  },
+  "options": {
+    "A": {
+      "en": "Central stimulatory neurons",
+      "zh": "中枢兴奋性神经元"
+    },
+    "B": {
+      "en": "Lower motor neurons",
+      "zh": "下运动神经元"
+    },
+    "C": {
+      "en": "Mixed motor sensory nerves",
+      "zh": "混合运动感觉神经"
+    },
+    "D": {
+      "en": "Peripheral chemoreceptors",
+      "zh": "周围化学感受器"
+    },
+    "E": {
+      "en": "Pulmonary stretch receptors",
+      "zh": "肺牵张感受器"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Apnea is defined as episodes of respiratory cessation lasting >20 seconds, often associated with decreased heart rate and oxygen saturation. Apnea may be obstructive, in which respiratory effort occurs but is blocked, or central, which is characterized by the absence of any respiratory effort. This patient has apnea of prematurity, a type of central apnea that occurs in virtually all extremely preterm newborns at gestational age <28 weeks due to immature central respiratory centers.\n\nThe normal respiratory drive originates from respiratory centers in the medulla and pons. The MEDULLARY RESPIRATORY CENTERS are stimulatory neurons that trigger inspiration (from the dorsal respiratory group) and expiration (from the ventral respiratory group). These neurons send impulses to the diaphragm via the phrenic nerve and to the intercostal muscles. The medullary respiratory centers also receive constant input from the PONTINE RESPIRATORY CENTER to modify respiratory rate and depth of inspiration as well as from chemoreceptors, stretch receptors, and propriocetors to further modify respiration. The respiratory centers can be consciously overridden by the cortex (eg, intentional deep sigh, breath-holding).\n\nIn apnea of prematurity, the central stimulatory neurons are not fully developed, leading to intermittent interruptions in the normal respiratory drive. Apneic episodes typically develop within the first few days of life and may persist for several months while the central respiratory centers mature. Treatment is with methylxanthines (eg, caffeine), which stimulate respiratory neural output.\n\n(Choices B and C) Failure of the lower motor neurons that innervate the intercostal muscles or mixed motor sensory nerves, such as the phrenic nerve that innervates the diaphragm, can cause apnea in conditions such as spinal muscular atrophy type 1 or phrenic nerve injury, respectively. This newborn has normal breathing between episodes, making nerve impairment unlikely.\n\n(Choice D) Peripheral chemoreceptors (eg, carotid bodies, aortic body) sense changes in carbon dioxide, oxygen, and pH levels and trigger the central respiratory center to modify respiration. This patient's normal blood gas values indicate that the respiratory changes are not being driven by chemoreceptors.\n\n(Choice E) Stretch receptors in the lung trigger cessation of inspiration when the lung is approaching total lung capacity. This newborn has normal respiration between episodes and is not hyperexpanding the lungs, so the stretch receptors are not involved in his apnea.\n\nEducational objective:\nThe pontine and medullary respiratory centers coordinate normal respiratory drive. Immaturity of these central respiratory centers causes apnea of prematurity, which is common in extremely preterm newborns.",
+    "zh": "呼吸暂停定义为呼吸停止发作持续 >20 秒，通常伴有心率下降和血氧饱和度降低。呼吸暂停可分为阻塞性呼吸暂停（呼吸努力发生但被阻塞）或中枢性呼吸暂停（其特征是没有任何呼吸努力）。该患者患有早产儿呼吸暂停，这是一种中枢性呼吸暂停，几乎发生在所有孕龄 <28 周的极度早产新生儿中，原因是中枢呼吸中枢未成熟。\n\n正常的呼吸驱动力起源于延髓和脑桥的呼吸中枢。延髓呼吸中枢是兴奋性神经元，触发吸气（来自背侧呼吸组）和呼气（来自腹侧呼吸组）。这些神经元通过膈神经向膈肌和肋间肌发送冲动。延髓呼吸中枢还不断接收来自脑桥呼吸中枢的输入，以调节呼吸频率和吸气深度，以及来自化学感受器、牵张感受器和本体感受器的输入，以进一步调节呼吸。呼吸中枢可以被皮质有意识地覆盖（例如，有意识的深呼吸、屏住呼吸）。\n\n在早产儿呼吸暂停中，中枢兴奋性神经元未完全发育，导致正常呼吸驱动力的间歇性中断。呼吸暂停发作通常在出生后几天内发生，并且可能持续数月，直到中枢呼吸中枢成熟。治疗方法是使用甲基黄嘌呤（例如，咖啡因），刺激呼吸神经输出。\n\n（选项 B 和 C）支配肋间肌的下运动神经元或混合运动感觉神经（例如支配膈肌的膈神经）衰竭，分别可导致脊髓性肌萎缩症 1 型或膈神经损伤等疾病中的呼吸暂停。该新生儿在发作之间有正常呼吸，因此神经损伤不太可能。\n\n（选项 D）外周化学感受器（例如，颈动脉体、主动脉体）感知二氧化碳、氧气和 pH 值水平的变化，并触发中枢呼吸中枢调节呼吸。该患者正常的血气值表明呼吸变化并非由化学感受器驱动。\n\n（选项 E）当肺接近总肺活量时，肺中的牵张感受器会触发吸气停止。该新生儿在发作之间有正常呼吸，并且肺部没有过度膨胀，因此牵张感受器没有参与他的呼吸暂停。\n\n教育目标：\n脑桥和延髓呼吸中枢协调正常的呼吸驱动。这些中枢呼吸中枢的不成熟会导致早产儿呼吸暂停，这在极度早产儿中很常见。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathophysiology and etiology of apnea of prematurity, specifically focusing on the role of immature central respiratory control mechanisms in preterm infants.\n\nTo solve this question, one must differentiate between central and obstructive apnea, recognize the clinical presentation of apnea of prematurity in a preterm infant, and understand the normal neural control of respiration, identifying the central stimulatory neurons as the likely source of the abnormality.",
+    "zh": "此题考察对早产儿呼吸暂停的病理生理学和病因学的理解，特别是关注未成熟的中枢呼吸控制机制在早产儿中的作用。\n\n要解决此题，必须区分中枢性和阻塞性呼吸暂停，识别早产儿呼吸暂停的临床表现，并了解正常的神经呼吸控制，确定中枢兴奋性神经元是异常的可能来源。"
+  },
+  "tags": "Apnea of prematurity; Central apnea; Neonatal intensive care; Respiratory control; Medulla; Pons; Preterm infant; Methylxanthines; Phrenic nerve; Chemoreceptors; Stretch receptors",
+  "category": "Neuro",
+  "question_id": "20275",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\20275",
+  "extracted_at": "2025-11-05T19:39:02.994749",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:38:57.285401",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

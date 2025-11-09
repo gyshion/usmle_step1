@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 66-year-old woman comes to the office due to 2 months of worsening fatigue and dyspnea with moderate exertion. The patient has a history of breast cancer treated with surgery and combination chemotherapy 6 years ago. She has no other medical conditions. Vital signs are within normal limits. Physical examination reveals normal jugular venous pressure, clear lungs, and normal heart sounds; there is no hepatosplenomegaly, lymphadenopathy, or extremity edema. Laboratory results are as follows:\n\nHemoglobin 7.2 g/dL\nMean corpuscular volume 108 µm3\nReticulocytes 1%\nPlatelets 90,000/mm3\nLeukocytes 3,800/mm3\n\nPeripheral blood smear shows oval macrocytic red cells and hyposegmented neutrophils. Bone marrow biopsy of this patient is most likely to reveal which of the following?",
+    "zh": "一名66岁女性因近2个月来疲劳加重，中度劳力性呼吸困难来就诊。患者有6年前接受手术和联合化疗治疗的乳腺癌病史。她没有其他疾病。生命体征在正常范围内。体格检查显示颈静脉压正常，肺部清晰，心脏听诊正常；无肝脾肿大、淋巴结病或肢体水肿。实验室检查结果如下：\n\n血红蛋白 7.2 g/dL\n平均红细胞体积 108 µm3\n网织红细胞 1%\n血小板 90,000/mm3\n白细胞 3,800/mm3\n\n外周血涂片显示卵圆形大红细胞和核分叶减少的中性粒细胞。该患者的骨髓活检最有可能揭示以下哪一项？"
+  },
+  "question": {
+    "en": "Bone marrow biopsy of this patient is most likely to reveal which of the following?",
+    "zh": "该患者的骨髓活检最有可能揭示以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Deposits of atypical gland-forming cells",
+      "zh": "非典型腺体形成细胞的沉积"
+    },
+    "B": {
+      "en": "Dysplastic erythroid and myeloid progenitor cells",
+      "zh": "发育异常的红系和髓系祖细胞"
+    },
+    "C": {
+      "en": "Hypercellular marrow containing sheets of plasma cells",
+      "zh": "含有片状浆细胞的骨髓增生"
+    },
+    "D": {
+      "en": "Increased macrophage iron with absent sideroblasts",
+      "zh": "巨噬细胞铁增加，无铁粒幼细胞"
+    },
+    "E": {
+      "en": "Large collagen bands replacing the entire marrow",
+      "zh": "大胶原纤维带取代整个骨髓"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's previous chemotherapy, pancytopenia, and cellular dysplasia (eg, hyposegmented neutrophils, oval macrocytic erythrocytes) indicate likely myelodysplastic syndrome (MDS) {{exhibit_1}}. MDS is a clonal hematologic malignancy associated with the development of driver mutations due to advanced age, previous chemo-/radiotherapy, or exposure to environmental toxins.\n\nMDS is marked by the following:\n\n≥1 cytopenias: normal hematopoiesis is impaired due to neoplastic cell replication in the bone marrow; therefore, patients usually present with symptoms of ≥1 cytopenia such as fatigue/dyspnea on exertion (anemia), bleeding/bruising (thrombocytopenia), or infections (leukopenia). Because erythrocyte production is impaired, reticulocyte count will be low despite significant anemia. However, significant extramedullary hematopoiesis does not occur, so hepatosplenomegaly is rare.\n\nDysplasia of erythrocytes and neutrophils: peripheral blood smear usually shows normocytic or macrocytic erythrocytes with a variety of abnormalities (eg, oval macrocytes). Neutrophils are typically hypolobulated and hypogranular.\n\nBone marrow biopsy typically reveals a hypercellular marrow with dysplasia of ≥1 cell lines. Myeloblasts are increased (but <20% of total cells), and granulocytes show evidence of impaired maturation such as abnormalities in size, granulation, or lobulation. Erythrocytes also show signs of abnormal development, including large size and nuclear lobation/budding.\n\n(Choice A) Metastatic adenocarcinoma (atypical gland-forming cells) can infiltrate the bone marrow, leading to pancytopenia. Although reticulocytes would be diminished, peripheral blood smear would not show signs of abnormal granulocyte development (eg, hyposegmentation).\n\n(Choice C) Hypercellular marrow with sheets of plasma cells is seen in multiple myeloma. Although it occasionally causes pancytopenia (anemia alone is more common), peripheral smear shows rouleaux formation due to increased monoclonal proteins: dysmorphic granulocytes would not be seen. In addition, multiple myeloma is not strongly associated with chemotherapy exposure.\n\n(Choice D) Anemia of chronic disease is associated with increased retention of iron in reticuloendothelial macrophages. Although low reticulocyte count is common, patients usually have normocytic anemia and relatively normal peripheral smear findings (eg, no dysplasia). In contrast, MDS can be associated with RINGED SIDEROBLASTS (iron-laden erythrocyte precursors) in the bone marrow.\n\n(Choice E) Collagen deposition in bone marrow is associated with myelofibrosis, a chronic myeloproliferative disorder that causes anemia and variable platelet/leukocyte counts. However, patients typically have marked splenomegaly due to extramedullary hematopoiesis.\n\nEducational objective:\nMyelodysplastic syndrome is a clonal hematologic neoplasm marked by ≥1 cytopenias and cellular dysplasia (eg, oval macrocytic erythrocytes, hyposegmented granulocytes). Bone marrow evaluation usually reveals a hypercellular marrow, a mild or moderate increase in myeloblasts (<20% of total cells), and dysplastic erythrocytes/granulocytes.",
+    "zh": "该患者既往化疗、全血细胞减少和细胞发育异常（例如，核分叶减少的中性粒细胞、卵圆形大红细胞）提示可能为骨髓增生异常综合征（MDS）{{exhibit_1}}。MDS 是一种克隆性血液恶性肿瘤，与因高龄、既往化疗/放疗或接触环境毒素而发生的驱动突变有关。\n\nMDS 的特点如下：\n\n≥1 种血细胞减少：正常造血因骨髓中肿瘤细胞复制而受损；因此，患者通常表现为≥1 种血细胞减少的症状，如劳力性疲劳/呼吸困难（贫血）、出血/瘀伤（血小板减少症）或感染（白细胞减少症）。由于红细胞生成受损，尽管有明显的贫血，网织红细胞计数仍将偏低。然而，不会发生明显的髓外造血，因此肝脾肿大很少见。\n\n红细胞和中性粒细胞发育异常：外周血涂片通常显示正细胞或大细胞红细胞，并具有多种异常（例如，卵圆形大细胞）。中性粒细胞通常核分叶减少且颗粒减少。\n\n骨髓活检通常显示骨髓增生伴有≥1 种细胞系发育异常。原始细胞增加（但<总细胞的 20%），粒细胞显示出成熟受损的证据，如大小、颗粒形成或分叶异常。红细胞也表现出异常发育的迹象，包括体积增大和核分叶/出芽。\n\n(选项A) 转移性腺癌（非典型腺体形成细胞）可浸润骨髓，导致全血细胞减少。尽管网织红细胞会减少，但外周血涂片不会显示出异常粒细胞发育的迹象（例如，核分叶减少）。\n\n(选项C) 浆细胞片状增生的骨髓增生常见于多发性骨髓瘤。尽管它有时会导致全血细胞减少（单独贫血更为常见），但外周血涂片显示由于单克隆蛋白增加而形成的缗钱状结构：不会看到发育不良的粒细胞。此外，多发性骨髓瘤与化疗接触没有很强的相关性。\n\n(选项D) 慢性病贫血与网状内皮巨噬细胞中铁的滞留增加有关。尽管低网织红细胞计数很常见，但患者通常患有正细胞性贫血和相对正常的外周血涂片结果（例如，无发育异常）。相比之下，MDS 可能与骨髓中的环状铁粒幼细胞（富含铁的红细胞前体）相关。\n\n(选项E) 骨髓中胶原蛋白沉积与骨髓纤维化相关，骨髓纤维化是一种慢性骨髓增生性疾病，会导致贫血和血小板/白细胞计数变化。然而，患者通常由于髓外造血而出现明显的脾肿大。\n\n教育目标：\n骨髓增生异常综合征是一种克隆性血液肿瘤，其特征是≥1 种血细胞减少和细胞发育异常（例如，卵圆形大红细胞、核分叶减少的粒细胞）。骨髓评估通常显示骨髓增生，原始细胞轻度或中度增加（<总细胞的 20%）以及发育异常的红细胞/粒细胞。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of myelodysplastic syndrome (MDS), including its etiology, clinical presentation, and diagnostic findings. It requires recognizing the characteristic features of MDS on peripheral blood smear and bone marrow biopsy. \n\nThe key to solving this question is to recognize the patient's history of chemotherapy, pancytopenia, and dysplastic features on peripheral blood smear, which are highly suggestive of MDS. The correct answer should reflect the typical bone marrow findings in MDS, which include dysplastic erythroid and myeloid progenitor cells.",
+    "zh": "本题考察对骨髓增生异常综合征（MDS）的了解，包括其病因、临床表现和诊断结果。它要求识别外周血涂片和骨髓活检中 MDS 的特征性特征。\n\n解决此问题的关键是识别患者的化疗史、全血细胞减少和外周血涂片上的发育不良特征，这些都高度提示 MDS。正确答案应反映 MDS 中典型的骨髓发现，包括发育异常的红系和髓系祖细胞。"
+  },
+  "tags": "Myelodysplastic syndrome; Hematology; Bone marrow biopsy; Pancytopenia; Chemotherapy; Dysplasia; Anemia",
+  "category": "Blood",
+  "question_id": "20673",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\20673",
+  "extracted_at": "2025-11-05T11:31:57.954265",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:31:05.868606",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

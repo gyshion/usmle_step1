@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 1-week-old newborn is seen for abnormal thyroid function tests that were performed as part of routine screening. Serum thyroxine (T4) was low and serum TSH was normal. The patient was born by spontaneous vaginal delivery at 40 weeks of gestation to a 28-year-old primigravida. During the pregnancy, the mother took acetaminophen intermittently for low back pain. Examination of the newborn shows no abnormal findings. Repeat thyroid function test results are as follows:\n\nFree T4 1.2 µg/dL (normal: 0.8-1.95)\nTotal T4 4 µg/dL\nTSH 3 µU/mL",
+    "zh": "一位 1 周大的新生儿因在常规筛查中进行的甲状腺功能检查异常而就诊。血清甲状腺素 (T4) 水平较低，血清促甲状腺激素 (TSH) 水平正常。该患者由 28 岁初产妇经阴道自然分娩，孕龄 40 周。在怀孕期间，母亲间断服用对乙酰氨基酚以缓解腰背痛。新生儿检查未见异常发现。复查甲状腺功能检查结果如下：\n\n游离 T4 1.2 µg/dL（正常：0.8-1.95）\n总 T4 4 µg/dL\nTSH 3 µU/mL"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of the patient's abnormal thyroid function tests?",
+    "zh": "以下哪项最可能是患者甲状腺功能检查异常的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased T4 to triiodothyronine conversion",
+      "zh": "T4 向三碘甲状腺原氨酸的转化减少"
+    },
+    "B": {
+      "en": "Deficiency of thyroxine-binding globulin",
+      "zh": "甲状腺素结合球蛋白缺乏"
+    },
+    "C": {
+      "en": "Hypoalbuminemia",
+      "zh": "低白蛋白血症"
+    },
+    "D": {
+      "en": "Hypopituitarism",
+      "zh": "垂体功能减退症"
+    },
+    "E": {
+      "en": "Thyroid dysgenesis",
+      "zh": "甲状腺发育不全"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This neonate with a low total thyroxine (T4) but normal free T4 and normal TSH likely has a deficiency of thyroxine-binding globulin (TBG). Congenital TBG deficiency is a benign, X-linked disorder usually identified on newborn screening. {{exhibit_1}}\n\nIn general, the majority of circulating T4 is bound to TBG, which then serves as a storage pool to replenish the biologically active free T4 that is continuously cleared by the kidneys. Therefore, TBG helps maintain a constant free T4 level.\n\nWhen TBG is deficient, less T4 is bound and a greater proportion is allowed to freely circulate. Total T4 is low due to the decrease in bound T4 fraction. However, since physiologic feedback is intact, TSH and free T4 levels remain normal. Because the levels of active (free) thyroid hormone are normal, patients are clinically euthyroid and asymptomatic, so no treatment is required.\n\n(Choice A) Certain placentally transferred maternal medications (eg, propylthiouracil) decrease conversion of T4 to triiodothyronine (T3), causing transient neonatal hypothyroidism (ie, low T4, high TSH). Acetaminophen does not interfere with thyroid hormone synthesis.\n\n(Choice C) Because only a small percentage of T4 is bound to albumin, hypoalbuminemia does not significantly affect thyroid hormone levels. In addition, this patient has no risk factors for hypoalbuminemia (eg, malnutrition, sepsis, gastrointestinal/renal loss).\n\n(Choice D) Hypopituitarism causes central hypothyroidism, which is characterized by low TSH, total T4, and free T4. Other midline defects (eg, cleft lip) or hormonal imbalances (eg, hypoglycemia due to ACTH deficiency) are often present.\n\n(Choice E) Thyroid dysgenesis (eg, ectopy, hypoplasia) is the most common cause of congenital hypothyroidism, which is usually asymptomatic at birth. In contrast to this case, laboratory findings include high TSH and low total and free T4.\n\nEducational objective:\nThyroxine-binding globulin deficiency is a benign disorder characterized by low total thyroxine (T4) and normal free T4 and TSH levels. Patients are euthyroid and do not require treatment.",
+    "zh": "该新生儿总甲状腺素 (T4) 水平较低，但游离 T4 和 TSH 水平正常，很可能患有甲状腺素结合球蛋白 (TBG) 缺乏症。先天性 TBG 缺乏症是一种良性、X 连锁疾病，通常通过新生儿筛查发现。{{exhibit_1}}\n\n一般来说，循环 T4 的大部分与 TBG 结合，然后作为储存库，补充不断被肾脏清除的具有生物活性的游离 T4。因此，TBG 有助于维持恒定的游离 T4 水平。\n\n当 TBG 缺乏时，与 T4 结合的量减少，并且更大比例的 T4 能够自由循环。由于结合 T4 部分的减少，总 T4 水平较低。然而，由于生理反馈是完整的，TSH 和游离 T4 水平保持正常。由于活性（游离）甲状腺激素水平正常，患者在临床上呈甲状腺功能正常状态且无症状，因此无需治疗。\n\n（选项 A）某些胎盘转移的母体药物（例如，丙硫氧嘧啶）会降低 T4 向三碘甲状腺原氨酸 (T3) 的转化，从而导致短暂的新生儿甲状腺功能减退症（即，T4 低，TSH 高）。对乙酰氨基酚不干扰甲状腺激素的合成。\n\n（选项 C）由于只有一小部分 T4 与白蛋白结合，低白蛋白血症不会显着影响甲状腺激素水平。此外，该患者没有低白蛋白血症的危险因素（例如，营养不良、败血症、胃肠道/肾脏损失）。\n\n（选项 D）垂体功能减退症会导致中枢性甲状腺功能减退症，其特征是 TSH、总 T4 和游离 T4 水平较低。通常存在其他正中线缺陷（例如，唇裂）或激素失衡（例如，由于 ACTH 缺乏引起的低血糖症）。\n\n（选项 E）甲状腺发育不全（例如，异位、发育不全）是先天性甲状腺功能减退症的最常见原因，通常在出生时无症状。与本例相反，实验室检查结果包括 TSH 升高和总 T4 和游离 T4 降低。\n\n教育目标：\n甲状腺素结合球蛋白缺乏症是一种良性疾病，其特征是总甲状腺素 (T4) 水平较低，游离 T4 和 TSH 水平正常。患者甲状腺功能正常，不需要治疗。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of thyroxine-binding globulin (TBG) deficiency, a benign condition characterized by low total T4, normal free T4, and normal TSH levels. It assesses the ability to differentiate this condition from other causes of hypothyroidism.\n\nTo solve this question, recognize the pattern of lab values (low total T4, normal free T4, normal TSH) and associate it with TBG deficiency. Rule out other causes of hypothyroidism based on their typical lab findings and clinical presentations. {{exhibit_2}}",
+    "zh": "此题考察对甲状腺素结合球蛋白 (TBG) 缺乏症的了解，这是一种以总 T4 偏低、游离 T4 正常和 TSH 水平正常为特征的良性疾病。它评估了将这种情况与其他甲状腺功能减退症病因区分开来的能力。\n\n要解决此题，请识别实验室值的模式（总 T4 偏低、游离 T4 正常、TSH 正常），并将其与 TBG 缺乏症联系起来。根据其他甲状腺功能减退症的典型实验室检查结果和临床表现，排除其他病因。{{exhibit_2}}"
+  },
+  "tags": "Thyroxine-binding globulin deficiency; Thyroid function tests; Hypothyroidism; Newborn screening; Endocrinology",
+  "category": "Endo",
+  "question_id": "19746",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\19746",
+  "extracted_at": "2025-11-05T14:05:00.523838",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:39:40.791929",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

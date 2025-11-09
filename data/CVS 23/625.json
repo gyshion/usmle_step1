@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 54-year-old man is transferred to the hospital from his cardiologist's office due to atrial fibrillation with rapid ventricular response. His symptoms began 24 hours earlier with palpitations, lightheadedness, and chest tightness. The patient has had similar episodes several times during the last year. Past history is notable for mitral valve repair 3 years ago for severe symptomatic mitral regurgitation. The patient undergoes direct current cardioversion due to worsening hemodynamic instability, with resolution of the arrhythmia and all associated symptoms. He is considered for long-term amiodarone therapy to prevent future arrhythmic episodes.",
+    "zh": "一名54岁男性因快速心室反应的房颤从心脏科医生办公室转到医院。他的症状始于24小时前，表现为心悸、头晕和胸闷。患者在过去一年中曾多次出现类似发作。既往病史值得注意的是，3年前因严重的症状性二尖瓣反流进行了二尖瓣修复术。由于血流动力学不稳定恶化，患者接受了直流电复律，心律失常和所有相关症状得到缓解。他被考虑长期使用胺碘酮治疗以预防未来的心律失常发作。"
+  },
+  "question": {
+    "en": "Which of the following should be tested before initiating this medication?",
+    "zh": "在开始使用这种药物之前，应该测试以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "24-hour urinary cortisol",
+      "zh": "24小时尿皮质醇"
+    },
+    "B": {
+      "en": "24-hour urinary metanephrines",
+      "zh": "24小时尿变肾上腺素"
+    },
+    "C": {
+      "en": "Oral glucose tolerance test",
+      "zh": "口服葡萄糖耐量试验"
+    },
+    "D": {
+      "en": "Serum prolactin",
+      "zh": "血清催乳素"
+    },
+    "E": {
+      "en": "Serum testosterone",
+      "zh": "血清睾酮"
+    },
+    "F": {
+      "en": "Serum TSH",
+      "zh": "血清TSH"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "Amiodarone is a class III anti-arrhythmic agent used to suppress life-threatening rhythm disturbances. Because it is 40% iodine by weight, amiODarone can cause a number of alterations in thyroid function. It can cause hypothyroidism due to decreased production of thyroid hormone. Individuals with pre-existing autoimmune thyroid disease are at greatest risk and so should be screened for subclinical hypothyroidism with a serum TSH assay prior to initiating amiodarone therapy. Amiodarone can also cause hyperthyroidism due to increased thyroid hormone synthesis or destructive thyroiditis with release of preformed thyroid hormone.\n\n(Choices A and B) Amiodarone is not associated with altered function of the adrenal cortex or medulla.\n\n(Choice C) The oral glucose tolerance test is used to screen for diabetes mellitus, primarily in pregnant women. Amiodarone is not associated with significant alterations in insulin sensitivity or blood glucose levels.\n\n(Choice D) Release of prolactin is primarily regulated by inhibitory effects of dopamine from the hypothalamus. Release is stimulated to a small degree by thyrotropin-releasing hormone and therefore may be mildly affected by amiodarone. However, these effects would not be clinically significant.\n\n(Choice E) Amiodarone can cause erectile dysfunction, which may be related to its alpha and beta adrenoreceptor blocking effect. Amiodarone does not significantly alter serum testosterone levels.\n\nEducational objective:\nAmiodarone is 40% iodine by weight. It can cause hypothyroidism due to decreased production of thyroid hormone. Amiodarone can also cause hyperthyroidism due to increased thyroid hormone synthesis or destructive thyroiditis with release of preformed thyroid hormone.",
+    "zh": "胺碘酮是一种III类抗心律失常药物，用于抑制危及生命的心律失常。由于其重量的40%是碘，胺碘酮可引起甲状腺功能的多种改变。它可以由于甲状腺激素产量减少而导致甲状腺功能减退。患有先前存在的自身免疫性甲状腺疾病的个体风险最高，因此在开始胺碘酮治疗之前，应通过血清TSH检测筛查亚临床甲状腺功能减退。胺碘酮也可由于甲状腺激素合成增加或破坏性甲状腺炎而引起甲状腺功能亢进，并释放预先形成的甲状腺激素。\n\n（选项A和B）胺碘酮与肾上腺皮质或髓质功能的改变无关。\n\n（选项C）口服葡萄糖耐量试验用于筛查糖尿病，主要是在孕妇中。胺碘酮与胰岛素敏感性或血糖水平的显着改变无关。\n\n（选项D）催乳素的释放主要受下丘脑多巴胺的抑制作用调节。促甲状腺素释放激素在一定程度上刺激释放，因此可能会受到胺碘酮的轻微影响。然而，这些影响在临床上并不显着。\n\n（选项E）胺碘酮可引起勃起功能障碍，这可能与其α和β肾上腺素受体阻滞作用有关。胺碘酮不会显着改变血清睾酮水平。\n\n教学目标：\n胺碘酮重量的40%是碘。它可以由于甲状腺激素产量减少而导致甲状腺功能减退。胺碘酮也可由于甲状腺激素合成增加或破坏性甲状腺炎而引起甲状腺功能亢进，并释放预先形成的甲状腺激素。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of amiodarone's side effects, specifically its impact on thyroid function, and the importance of screening for thyroid dysfunction before initiating therapy. Amiodarone is an antiarrhythmic drug with a high iodine content, which can lead to both hypothyroidism and hyperthyroidism. \n\nTo solve this question, recognize that amiodarone affects thyroid function due to its high iodine content. Therefore, the most appropriate test to order before starting amiodarone is a serum TSH to assess for pre-existing or subclinical thyroid abnormalities.",
+    "zh": "本题测试对胺碘酮副作用的了解，特别是其对甲状腺功能的影响，以及在开始治疗前筛查甲状腺功能障碍的重要性。胺碘酮是一种高碘含量的抗心律失常药物，可导致甲状腺功能减退和甲状腺功能亢进。\n\n要解决这个问题，要认识到胺碘酮由于其高碘含量而影响甲状腺功能。因此，在开始使用胺碘酮之前，最合适的检查是血清TSH，以评估先前存在或亚临床甲状腺异常。"
+  },
+  "tags": "Amiodarone; Thyroid function; Hypothyroidism; Hyperthyroidism; TSH; Antiarrhythmic drugs; Cardiology; Endocrinology",
+  "category": "CVS",
+  "question_id": "625",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\625",
+  "extracted_at": "2025-11-05T12:15:02.262345",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:30:34.740259",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

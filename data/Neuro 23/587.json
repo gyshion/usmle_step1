@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 5-year-old boy is brought to the office due to concerns about his speech and motor skills. The patient has a history of speech delay, and his parents say that his speech has become more slurred lately. He also has an unsteady, staggering gait that has progressively worsened over the past year. In addition, the mother states that the patient's eyes and head \"do not move smoothly\" when he looks at moving objects. Medical history is significant for recurrent ear and pulmonary infections. Vital signs are normal. Physical examination reveals numerous superficial nests of distended capillaries on the face and ears that blanch with pressure. This patient's condition is most likely due to a genetic defect affecting which of the following processes?",
+    "zh": "一名5岁男孩因其言语和运动技能问题被带到诊所。患者有言语发育迟缓病史，其父母说他最近的言语变得更加含糊不清。他还有一个不稳的、蹒跚的步态，在过去一年中逐渐恶化。此外，母亲说，当患者看移动的物体时，他的眼睛和头部“不能平稳地移动”。病史提示反复的耳部和肺部感染。生命体征正常。体格检查显示面部和耳朵上有许多浅表的扩张毛细血管巢，按压后变白。该患者的病情最可能由于影响以下哪种过程的基因缺陷所致？"
+  },
+  "question": {
+    "en": "This patient's condition is most likely due to a genetic defect affecting which of the following processes?",
+    "zh": "该患者的病情最可能由于影响以下哪种过程的基因缺陷所致？"
+  },
+  "options": {
+    "A": {
+      "en": "DNA break repair",
+      "zh": "DNA 断裂修复"
+    },
+    "B": {
+      "en": "MHC class II antigen expression",
+      "zh": "MHC II 类抗原表达"
+    },
+    "C": {
+      "en": "Mitochondrial iron transport",
+      "zh": "线粒体铁转运"
+    },
+    "D": {
+      "en": "Purine catabolism",
+      "zh": "嘌呤分解代谢"
+    },
+    "E": {
+      "en": "Sphingolipid degradation",
+      "zh": "鞘脂降解"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has facial telangiectasias, recurrent infections, and signs of cerebellar dysfunction (eg, unsteady gait, slurred speech), findings characteristic of ataxia-telangiectasia (AT). This autosomal recessive condition is caused by a defect in the ATM (ataxia-telangiectasia mutated) gene.\n\nATM kinase normally plays a role in the detection of DNA damage (eg, oxidative injury) through phosphorylation of various proteins, which then halt the cell cycle to allow for DNA break repair. Without this surveillance mechanism, DNA is susceptible to ionizing radiation and prone to chromosomal breakage; accumulation of DNA mutations also increases the risk of malignant transformation.\n\nNeurons are particularly prone to oxidative stress, and the first manifestations of AT are typically due to cerebellar degeneration. Unsteady gait progressively worsens in early childhood, and patients often display delayed and slurred (dysarthria) speech. Impaired head/eye coordination (oculomotor apraxia) is also common.\n\nIn addition, defective DNA rearrangement in developing lymphocytes often results in cellular and humoral immunodeficiency and recurrent sinopulmonary infections. Diagnosis is often delayed until characteristic telangiectasias, or superficial nests of dilated blood vessels, appear on the face and bulbar conjunctiva at age 3-5.\n\n(Choice B) MHC class II is found on the surface of antigen-presenting cells and presents foreign protein to T-helper cells. Defective MHC class II expression (eg, bare lymphocyte syndrome) impairs T cell immune response and activation of B cells. Patients present in infancy with severe infections and failure to thrive. Ataxia does not occur.\n\n(Choice C) Friedreich ataxia is due to a trinucleotide (GAA) repeat expansion affecting the mitochondrial protein Frataxin. Mitochondrial iron transport is impaired, leading to progressive ataxia in adolescents, as well as kyphoscoliosis, cardiomyopathy, and glucose intolerance. Immune deficiency and telangiectasias are not seen.\n\n(Choice D) Lesch-Nyhan syndrome is a disorder of purine catabolism resulting from an X-linked recessive mutation in the gene encoding hypoxanthine-guanine phosphoribosyltransferase. This defect leads to hyperuricemia and gout; patients classically also exhibit self-mutilating behavior, choreoathetosis movements, and spasticity.\n\n(Choice E) Niemann-Pick disease is an autosomal recessive disorder characterized by defective sphingolipid degradation due to a mutation in sphingomyelinase. Motor neuropathy (eg, hypotonia, areflexia) occurs rather than ataxia, and hepatosplenomegaly and a cherry-red macular spot are typical.\n\nEducational objective:\nAtaxia-telangiectasia is an autosomal recessive disorder resulting from defective DNA break repair. Classic findings include cerebellar ataxia, telangiectasias, and recurrent sinopulmonary infections.",
+    "zh": "该患者有面部毛细血管扩张、反复感染和脑干功能障碍的征象（例如，步态不稳、言语不清），这些是共济失调-毛细血管扩张症 (AT) 的特征。这种常染色体隐性遗传病是由 ATM（共济失调-毛细血管扩张突变）基因的缺陷引起的。\n\nATM 激酶通常通过磷酸化各种蛋白质来检测 DNA 损伤（例如，氧化损伤），然后阻止细胞周期，从而允许 DNA 断裂修复。没有这种监视机制，DNA 容易受到电离辐射的影响，并且容易发生染色体断裂；DNA 突变的积累也会增加恶性转化的风险。\n\n神经元特别容易受到氧化应激的影响，AT 的最初表现通常是由于小脑变性。步态不稳在幼儿时期逐渐恶化，患者通常表现出言语延迟和含糊不清（构音障碍）。头部/眼睛协调受损（动眼神经失用）也很常见。\n\n此外，发育中的淋巴细胞 DNA 重排缺陷通常会导致细胞性和体液性免疫缺陷和反复的鼻窦肺部感染。诊断通常会延迟，直到特征性的毛细血管扩张，或扩张的血管的浅表巢出现在 3-5 岁的面部和球结膜上。\n\n(选择 B) MHC II 类存在于抗原呈递细胞的表面，并将外来蛋白呈递给 T 辅助细胞。MHC II 类表达缺陷（例如，裸淋巴细胞综合征）会损害 T 细胞免疫反应和 B 细胞的活化。患者在婴儿期出现严重感染和生长迟缓。不会发生共济失调。\n\n(选择 C) Friedreich 共济失调是由于三核苷酸 (GAA) 重复扩增影响线粒体蛋白 Frataxin。线粒体铁转运受损，导致青少年进行性共济失调，以及脊柱侧弯、心肌病和葡萄糖耐受不良。未见免疫缺陷和毛细血管扩张。\n\n(选择 D) Lesch-Nyhan 综合征是一种嘌呤分解代谢疾病，由编码次黄嘌呤-鸟嘌呤磷酸核糖转移酶的基因的 X 连锁隐性突变引起。这种缺陷会导致高尿酸血症和痛风；患者通常还会表现出自残行为、舞蹈手足徐动症运动和痉挛。\n\n(选择 E) Niemann-Pick 病是一种常染色体隐性遗传病，其特征在于由于鞘磷脂酶突变导致的鞘脂降解缺陷。发生运动神经病（例如，肌张力减退、反射消失）而不是共济失调，肝脾肿大和樱桃红色黄斑是典型的。\n\n教育目标：\n共济失调-毛细血管扩张症是一种常染色体隐性遗传病，由 DNA 断裂修复缺陷引起。典型发现包括小脑性共济失调、毛细血管扩张和反复的鼻窦肺部感染。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of ataxia-telangiectasia, a rare genetic disorder characterized by cerebellar ataxia, oculocutaneous telangiectasias, immunodeficiency, and an increased risk of malignancy. It specifically assesses the knowledge of the underlying molecular defect, which is a deficiency in DNA break repair due to mutations in the ATM gene.\n\nTo solve this question, one must recognize the constellation of clinical features presented (ataxia, slurred speech, oculomotor apraxia, telangiectasias, recurrent infections) as indicative of ataxia-telangiectasia. Subsequently, the examinee needs to recall or deduce the primary cellular process affected by the genetic defect in AT, which is DNA break repair.",
+    "zh": "此题考察对共济失调-毛细血管扩张症的理解，这是一种罕见的遗传病，其特征是小脑性共济失调、眼皮肤毛细血管扩张、免疫缺陷和恶性肿瘤风险增加。它特别评估了对潜在分子缺陷的知识，即由于 ATM 基因突变导致 DNA 断裂修复缺陷。\n\n为了解决这个问题，必须认识到所呈现的临床特征组合（共济失调、言语不清、动眼神经失用、毛细血管扩张、反复感染）是共济失调-毛细血管扩张症的征兆。随后，考生需要回忆或推断 AT 中受基因缺陷影响的主要细胞过程，即 DNA 断裂修复。"
+  },
+  "tags": "Ataxia-telangiectasia; DNA break repair; ATM gene; Cerebellar ataxia; Telangiectasias; Immunodeficiency; Autosomal recessive; Genetic disorders; Neurology; Genetics",
+  "category": "Neuro",
+  "question_id": "587",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\587",
+  "extracted_at": "2025-11-05T19:28:50.990550",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:27:14.339564",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

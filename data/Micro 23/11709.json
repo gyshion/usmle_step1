@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 76-year-old woman comes to the emergency department due to fever and burning with urination for 2 days and right-sided back pain for 1 day. Her temperature is 38.3 C (101 F), blood pressure is 110/80 mm Hg, pulse is 94/min, and respirations are 18/min. Examination is notable for right-sided flank tenderness to palpation. Urinalysis is positive for nitrites, leukocyte esterase, and bacteria. Urine and blood cultures are obtained, and the patient is started on antibiotic therapy. The next day, urine culture grows >100,000 colony-forming units/mL of *Escherichia coli*. The organism is found to have a methyltransferase that methylates ribosomal RNA. This enzyme most likely confers resistance to which of the following classes of antibiotics?",
+    "zh": "一名76岁女性因发热和排尿烧灼感2天以及右侧背部疼痛1天来到急诊科。她的体温为38.3°C (101°F)，血压为110/80 mmHg，脉搏为94/min，呼吸为18/min。体格检查显示右侧肋腰部触痛。尿液分析显示亚硝酸盐、白细胞酯酶和细菌阳性。获得尿液和血液培养，并开始对患者进行抗生素治疗。第二天，尿培养显示>100,000个菌落形成单位/mL的*大肠杆菌*。发现该生物体具有使核糖体RNA甲基化的甲基转移酶。这种酶最有可能赋予对以下哪一类抗生素的耐药性？"
+  },
+  "question": {
+    "en": "This enzyme most likely confers resistance to which of the following classes of antibiotics?",
+    "zh": "这种酶最有可能赋予对以下哪一类抗生素的耐药性？"
+  },
+  "options": {
+    "A": {
+      "en": "Aminoglycosides",
+      "zh": "氨基糖苷类"
+    },
+    "B": {
+      "en": "Carbapenems",
+      "zh": "碳青霉烯类"
+    },
+    "C": {
+      "en": "Glycopeptides",
+      "zh": "糖肽类"
+    },
+    "D": {
+      "en": "Penicillins",
+      "zh": "青霉素类"
+    },
+    "E": {
+      "en": "Quinolones",
+      "zh": "喹诺酮类"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Aminoglycosides interfere with the aminoacyl binding site on the 30S ribosomal subunit. Binding of aminoglycoside causes the cell to misread mRNA and, as a result, it is unable to perform protein synthesis. An important mechanism of resistance to aminoglycosides is the methylation of the aminoglycoside-binding portion of the ribosome, which inhibits the ability of aminoglycosides to interfere with protein translation. Other common resistance mechanisms are the production of enzymes that inactivate the drug by altering its chemical structure or the production of an efflux pump that decreases the drug's intracellular concentration.\n\n(Choices B and D) Carbapenems and penicillins function similarly to other beta-lactam antibiotics by inhibiting a family of enzymes responsible for cell wall construction. Resistance to both can occur through alteration of the antibiotic binding site on the enzyme; decreased permeability of the antibiotic into the cell wall; or production of beta-lactamases, which alter the antibiotic structure by cleaving protein bonds in the antibiotic and inactivating it.\n\n(Choice C) Vancomycin is a glycopeptide antibiotic used to treat methicillin-resistant *Staphylococcus aureus* infections. It binds to D-alanine-D-alanine, thereby preventing peptidoglycan cell wall synthesis. Bacteria have been identified in which a D-alanine is replaced by a D-lactate, leading to vancomycin resistance.\n\n(Choice E) Resistance to the quinolones occurs by alteration of the genes encoding for DNA gyrase and topoisomerase IV, development of an efflux pump, or alteration of the membrane diffusion channels used by the antibiotic.\n\nEducational objective:\nAminoglycosides work by interfering with the 30S ribosomal subunit and causing the cell to misread messenger RNA, thereby halting protein synthesis. An important mechanism of resistance is the methylation of the aminoglycoside-binding portion of the ribosome, which inhibits the ability of aminoglycosides to interfere with protein translation.",
+    "zh": "氨基糖苷类药物干扰30S核糖体亚基上的氨酰基结合位点。氨基糖苷类药物的结合导致细胞错误读取mRNA，因此无法进行蛋白质合成。对氨基糖苷类药物耐药的重要机制是核糖体氨基糖苷类药物结合部分的甲基化，这抑制了氨基糖苷类药物干扰蛋白质翻译的能力。其他常见的耐药机制是产生通过改变其化学结构使药物失活的酶，或产生降低药物细胞内浓度的外排泵。\n\n（选项B和D）碳青霉烯类药物和青霉素类药物的功能与其他β-内酰胺类抗生素类似，通过抑制负责细胞壁构建的一类酶。对这两者的耐药性都可能通过改变酶上的抗生素结合位点、降低抗生素进入细胞壁的通透性或产生β-内酰胺酶而发生，β-内酰胺酶通过切割抗生素中的蛋白质键并使其失活来改变抗生素的结构。\n\n（选项C）万古霉素是一种用于治疗耐甲氧西林*金黄色葡萄球菌*感染的糖肽类抗生素。它与D-丙氨酸-D-丙氨酸结合，从而阻止肽聚糖细胞壁合成。已经鉴定出细菌中D-丙氨酸被D-乳酸盐取代，导致万古霉素耐药性。\n\n（选项E）对喹诺酮类的耐药性通过改变编码DNA促旋酶和拓扑异构酶IV的基因、开发外排泵或改变抗生素使用的膜扩散通道而发生。\n\n教学目标：\n氨基糖苷类药物通过干扰30S核糖体亚基并导致细胞错误读取信使RNA，从而阻止蛋白质合成。一个重要的耐药机制是核糖体氨基糖苷结合部分的甲基化，这抑制了氨基糖苷类药物干扰蛋白质翻译的能力。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of antibiotic resistance mechanisms, specifically how methylation of ribosomal RNA confers resistance to aminoglycosides. It requires understanding the mechanism of action of aminoglycosides and how bacteria can develop resistance through enzymatic modification of the target site.\n\nTo solve this question, identify the key information: the organism has a methyltransferase that methylates ribosomal RNA. Then, recall which class of antibiotics targets the ribosome and is affected by methylation, which is aminoglycosides.",
+    "zh": "这个问题测试对抗生素耐药机制的了解，特别是核糖体RNA的甲基化如何赋予对氨基糖苷类药物的耐药性。它需要了解氨基糖苷类药物的作用机制以及细菌如何通过靶位点的酶修饰来产生耐药性。\n\n要解决这个问题，请确定关键信息：该生物体具有使核糖体RNA甲基化的甲基转移酶。然后，回忆哪一类抗生素靶向核糖体，并受到甲基化的影响，即氨基糖苷类药物。"
+  },
+  "tags": "Aminoglycosides; Antibiotic resistance; Methylation; Ribosomal RNA; Escherichia coli; Urinary tract infection; Infectious disease; Microbiology",
+  "category": "Micro",
+  "question_id": "11709",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\11709",
+  "extracted_at": "2025-11-05T14:51:32.938822",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:06:02.976407",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

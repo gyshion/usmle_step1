@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 12-year-old boy is brought to the emergency department by paramedics after being found unresponsive at home. He had 24 hours of headache, nausea, and fever, which his parents were treating with acetaminophen. His temperature is 39.6 C (103.4 F). Physical examination reveals neck stiffness. Lumbar puncture is performed. Analysis of cerebrospinal fluid shows marked pleocytosis, and Gram stain shows gram-negative cocci in pairs. The parents are concerned about their younger son, who shares a bedroom with the patient.",
+    "zh": "一名12岁男孩被医护人员送往急诊科，此前在家中被发现无反应。他有24小时的头痛、恶心和发烧，父母正在用对乙酰氨基酚治疗。他的体温为39.6°C（103.4°F）。体格检查显示颈部僵硬。进行了腰椎穿刺。脑脊液分析显示明显的细胞增多，革兰染色显示成对的革兰阴性球菌。父母担心他们的年幼儿子，他与患者共用一个卧室。"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate management of this patient's household contacts?",
+    "zh": "以下哪项是该患者家庭接触者的最适当处理方法？"
+  },
+  "options": {
+    "A": {
+      "en": "Immediate vaccination",
+      "zh": "立即接种疫苗"
+    },
+    "B": {
+      "en": "Observation only",
+      "zh": "仅观察"
+    },
+    "C": {
+      "en": "Prophylactic penicillin",
+      "zh": "预防性青霉素"
+    },
+    "D": {
+      "en": "Prophylactic rifampin",
+      "zh": "预防性利福平"
+    },
+    "E": {
+      "en": "Prophylactic sulfamethoxazole",
+      "zh": "预防性磺胺甲恶唑"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's presentation and the finding of gram-negative diplococci highly suggest meningitis due to *Neisseria meningitidis*. *N. meningitidis* is transmitted by direct contact with contaminated respiratory secretions or aerosolized droplets. As a result, people with close or intimate contact (eg, household contacts, kissing contacts, health care workers who directly contacted secretions) are at markedly increased risk of meningococcal infection. Antibiotic chemoprophylaxis can prevent these secondary cases if given promptly. A history of meningococcal vaccination does not preclude the need for antibiotic chemoprophylaxis.\n\nOf the listed agents, rifampin is the only effective choice. Rifampin penetrates well into all body compartments, including the upper respiratory tract, and will eliminate nasopharyngeal colonization. Other effective agents include ciprofloxacin (not routinely used in children due to concerns about connective tissue injury) and intramuscular ceftriaxone, which is effective but not widely used due to the painful mode of administration. Chemoprophylaxis should be given as soon as possible, preferably within 24 hours of diagnosis.\n\n(Choice A) Vaccination is an important public health strategy for control of meningococcal disease in general, but does not play a role in post-exposure prophylaxis. Immunity following a post-exposure vaccination does not occur in time to prevent disease.\n\n(Choice B) A person's risk for infection is 500-1,000 times greater following an exposure to a meningococcal disease patient, and disease onset can be rapid. Therefore, observation alone is not an appropriate strategy for exposed close contacts.\n\n(Choice C) Although penicillin can be used for treatment of susceptible meningococcal infections, it has not been shown to eliminate nasal carriage or prevent secondary cases. Therefore, it should not be used for chemoprophylaxis.\n\n(Choice E) Sulfamethoxazole was the first agent to be used as chemoprophylaxis for meningococcal disease. However, it is no longer an effective agent due to widespread resistance.\n\nEducational objective:\nRifampin is the most frequently used agent for chemoprophylaxis of meningococcal disease. Persons with exposure to the respiratory secretions of a patient with meningococcal disease require chemoprophylaxis. Vaccination is an important public health strategy but is not useful for post-exposure prophylaxis.",
+    "zh": "该患者的临床表现和革兰阴性双球菌的发现高度提示由脑膜炎奈瑟菌引起的脑膜炎。脑膜炎奈瑟菌通过直接接触被污染的呼吸道分泌物或气溶胶飞沫传播。因此，与患者有密切或亲密接触的人（例如，家庭接触者、接吻接触者、直接接触分泌物的医护人员）罹患脑膜炎球菌感染的风险显着增加。如果及时给予抗生素预防，可以预防这些继发病例。既往接种过脑膜炎球菌疫苗并不能排除需要抗生素预防。\n\n在列出的药物中，利福平是唯一有效的选择。利福平能很好地渗透到所有身体部位，包括上呼吸道，并且可以消除鼻咽部定植。其他有效的药物包括环丙沙星（由于对结缔组织损伤的担忧，不常规用于儿童）和肌内注射头孢曲松，后者有效，但由于给药方式疼痛，未被广泛使用。应尽快给予化学预防，最好在诊断后24小时内。\n\n（选项A）疫苗接种是控制脑膜炎球菌疾病的一项重要公共卫生策略，但它在暴露后预防中不起作用。暴露后接种疫苗后的免疫力不会及时发生以预防疾病。\n\n（选项B）在接触脑膜炎球菌疾病患者后，一个人的感染风险会增加500-1000倍，并且疾病发病可能很快。因此，单独观察不是暴露的密切接触者的合适策略。\n\n（选项C）尽管青霉素可用于治疗对脑膜炎球菌感染敏感的患者，但尚未证明它可以消除鼻腔携带或预防继发病例。因此，不应用于化学预防。\n\n（选项E）磺胺甲恶唑是第一个用于脑膜炎球菌疾病化学预防的药物。然而，由于广泛的耐药性，它不再是一种有效的药物。\n\n教育目标：\n利福平是用于脑膜炎球菌疾病化学预防的最常用药物。接触脑膜炎球菌疾病患者呼吸道分泌物的人需要进行化学预防。疫苗接种是一项重要的公共卫生策略，但对暴露后预防无用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the appropriate management of household contacts of a patient diagnosed with Neisseria meningitidis meningitis. It requires understanding of transmission routes and effective chemoprophylaxis options.\n\nThe key to solving this question is recognizing the high risk of infection for close contacts and selecting the appropriate antibiotic for chemoprophylaxis. Rifampin is the preferred agent due to its ability to penetrate body compartments and eliminate nasopharyngeal colonization.",
+    "zh": "本题考察对诊断为脑膜炎奈瑟菌脑膜炎的患者家庭接触者的适当处理的知识。它需要了解传播途径和有效的化学预防方案。\n\n解决此问题的关键是认识到密切接触者的高感染风险，并选择合适的抗生素进行化学预防。利福平是首选药物，因为它能够穿透身体部位并消除鼻咽部定植。"
+  },
+  "tags": "Meningococcal meningitis; Neisseria meningitidis; Chemoprophylaxis; Rifampin; Infectious disease; Public health; Antibiotics",
+  "category": "Micro",
+  "question_id": "1004",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1004",
+  "extracted_at": "2025-11-05T14:48:04.538688",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:03:47.119547",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

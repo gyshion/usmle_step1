@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 22-year-old man is undergoing surgical repair of an inguinal hernia. Anesthesia is induced and an endotracheal tube is placed. He then develops severe spasm of the masseter muscles, and there is a dramatic increase in expired carbon dioxide measured from the endotracheal tube. His core body temperature begins to increase and is now 38.9 C (102 F).",
+    "zh": "一名22岁男性正在接受腹股沟疝的手术修复。诱导麻醉并放置气管插管。随后他发生严重的咬肌痉挛，并且从气管插管测得的呼出二氧化碳急剧增加。他的核心体温开始升高，现在为38.9°C (102°F)。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying mechanism leading to elevated body temperature in this patient?",
+    "zh": "以下哪项是导致该患者体温升高的最可能的潜在机制？"
+  },
+  "options": {
+    "A": {
+      "en": "Acute elevation of circulating free T4",
+      "zh": "循环游离T4的急性升高"
+    },
+    "B": {
+      "en": "Change in hypothalamic set point",
+      "zh": "下丘脑设置点改变"
+    },
+    "C": {
+      "en": "Excessive myoplasmic calcium accumulation",
+      "zh": "肌浆钙过度蓄积"
+    },
+    "D": {
+      "en": "Impaired cutaneous vasodilation",
+      "zh": "皮肤血管舒张受损"
+    },
+    "E": {
+      "en": "Increased serotonergic activity in the CNS",
+      "zh": "中枢神经系统中血清素能活性增加"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with masseter muscle spasm, acute hypercarbia, and elevated temperature shortly after induction of anesthesia likely has MALIGNANT HYPERTHERMIA (MH), a condition characterized by excessive muscle contracture. Normally, muscle contraction is mediated by a cascade of events: Membrane depolarization releases CALCIUM from the sarcoplasmic reticulum into the intracellular space. Calcium binds to troponin to expose myosin bridging sites. Exposed myosin cross-links to actin and contracts. Sarcoplasmic reticulum calcium ATPase reuptakes calcium to reverse this binding and cause relaxation. In patients with MH, exposure to certain ANESTHETIC AGENTS (eg, succinylcholine, inhalational gasses) causes unregulated passage of calcium from the sarcoplasmic reticulum into the intracellular space. EXCESSIVE MYOPLASMIC CALCIUM ACCUMULATION results in sustained muscle contraction, which is often first noted in the masseter. Sustained muscle contraction leads to increased cellular metabolism, which causes HYPERCARBIA and ACIDOSIS. Muscle hypermetabolism consumes ATP and leads to EXCESSIVE HEAT PRODUCTION. Once ATP and oxygen stores are depleted, muscle breakdown (ie, rhabdomyolysis) occurs, which releases potassium, myoglobin, and creatine kinase, leading to a further cascade (eg, arrhythmias, acute renal failure, disseminated intravascular coagulation) that may be fatal. Dantrolene is used to treat MH because it blocks further release of calcium into the intracellular space. (Choice A) Thyroid storm (ie, thyrotoxic crisis) can be precipitated by surgery. Hyperpyrexia occurs because excessive circulating levels of T3 and T4 increase cellular metabolism and adrenergic tone. However, thyroid storm does not cause sustained muscle contractions. (Choice B) A true fever results from a change in the hypothalamic set point, typically due to an infection (not anesthesia). Shivering may occur, but not sustained muscle contraction or acute hypercarbia. (Choice D) Heat dissipation occurs primarily by cutaneous vasodilation and sweating. These mechanisms can be impaired by aging or medications (eg, atropine). During an MH crisis, cutaneous heat removal is far outstrips heat dissipation. (Choice E) Excessive serotonergic activity in the CNS can result in hyperpyrexia (due to serotonin syndrome). However, it classically presents with hyperreflexia and clonus (rather than rigidity) and is seen in patients taking serotonergic medications (eg, selective serotonin reuptake inhibitors, tricyclic antidepressants), especially in combination, rather than with anesthesia. Educational objective: In patients with malignant hyperthermia, exposure to certain anesthetic agents (eg, succinylcholine, inhalational gasses) causes unregulated passage of calcium from the sarcoplasmic reticulum into the intracellular space. This results in sustained muscle contraction that leads to hypercarbia, hyperthermia, and acidosis.",
+    "zh": "该患者出现咬肌痉挛、急性高碳酸血症和体温升高，且均发生在麻醉诱导后不久，很可能患有恶性高热 (MH)，这是一种以肌肉过度收缩为特征的疾病。正常情况下，肌肉收缩由一系列事件介导：膜去极化将钙从肌质网释放到细胞内空间。钙与肌钙蛋白结合以暴露肌球蛋白桥接位点。暴露的肌球蛋白与肌动蛋白交联并收缩。肌质网钙ATP酶重新摄取钙以逆转这种结合并引起松弛。在 MH 患者中，暴露于某些麻醉剂（例如，琥珀酰胆碱、吸入性气体）会导致钙从肌质网不受控制地进入细胞内空间。肌浆钙过度蓄积会导致持续的肌肉收缩，这通常首先在咬肌中被注意到。持续的肌肉收缩导致细胞代谢增加，从而导致高碳酸血症和酸中毒。肌肉高代谢消耗 ATP，并导致过多的热量产生。一旦 ATP 和氧气储存耗尽，就会发生肌肉分解（即，横纹肌溶解），从而释放钾、肌红蛋白和肌酸激酶，导致进一步的级联反应（例如，心律失常、急性肾衰竭、弥散性血管内凝血），这可能是致命的。丹曲林用于治疗 MH，因为它阻止钙进一步释放到细胞内空间。(选项A) 手术可诱发甲状腺危象（即，甲状腺毒症危象）。高热发生是由于过量的循环 T3 和 T4 水平增加了细胞代谢和肾上腺素能张力。然而，甲状腺危象不会引起持续的肌肉收缩。(选项B) 真正的发烧是由于下丘脑设置点的变化引起的，通常是由于感染（而不是麻醉）。可能会发生寒战，但不会发生持续的肌肉收缩或急性高碳酸血症。(选项D) 散热主要通过皮肤血管舒张和出汗发生。这些机制可能因衰老或药物（例如，阿托品）而受损。在 MH 危象期间，皮肤散热远远超过散热。(选项E) 中枢神经系统中的过度血清素能活性可导致高热（由于血清素综合征）。然而，它通常表现为反射亢进和阵挛（而不是僵硬），并且见于服用血清素能药物（例如，选择性血清素再摄取抑制剂、三环类抗抑郁药）的患者，特别是联合用药时，而不是麻醉时。教育目标：在患有恶性高热的患者中，暴露于某些麻醉剂（例如，琥珀酰胆碱、吸入性气体）会导致钙从肌质网不受控制地进入细胞内空间。这会导致持续的肌肉收缩，从而导致高碳酸血症、高热和酸中毒。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathophysiology and clinical presentation of malignant hyperthermia, a rare but life-threatening reaction to certain anesthetic agents. It specifically assesses the ability to identify the underlying mechanism of hyperthermia in this condition.\n\nTo solve this question, one must recognize the classic signs of malignant hyperthermia, including masseter spasm, hypercarbia, and rapid temperature increase following anesthesia. The key is to link these symptoms to the abnormal release of calcium from the sarcoplasmic reticulum, leading to sustained muscle contraction and excessive heat production.",
+    "zh": "此问题测试对恶性高热的病理生理学和临床表现的理解，恶性高热是对某些麻醉剂的罕见但危及生命的反应。它特别评估了识别此病症中体温升高潜在机制的能力。\n\n要解决这个问题，必须认识到恶性高热的典型症状，包括咬肌痉挛、高碳酸血症和麻醉后体温迅速升高。关键是将这些症状与肌浆网异常释放钙联系起来，导致持续的肌肉收缩和过度的热量产生。"
+  },
+  "tags": "Malignant hyperthermia; Anesthesia; Muscle contraction; Calcium release; Hyperthermia; Hypercarbia; Succinylcholine; Inhalational anesthetics; Dantrolene; Pathophysiology",
+  "category": "Neuro",
+  "question_id": "18755",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\18755",
+  "extracted_at": "2025-11-05T19:37:19.455089",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:36:42.437890",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

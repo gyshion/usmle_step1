@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man comes to the office due to worsening exertional dyspnea over the last 3 months. This past year he had 4 respiratory tract infections. The patient does not use alcohol or recreational drugs. He has smoked 1½ packs of cigarettes daily for 30 years. Temperature is 36.7 C (98.1 F), pulse is 76/min, blood pressure is 132/77 mm Hg, and respirations are 18/min. On physical examination, breath sounds are diffusely decreased. Chest radiograph reveals increased lucency of the lungs. This patient's pulmonary function testing will most likely show which of the following patterns of findings? {{exhibit_1}}",
+    "zh": "一位65岁男性因过去3个月劳力性呼吸困难加重前来就诊。 过去一年他有4次呼吸道感染。 患者不饮酒，也不使用娱乐性药物。 他每天吸烟1½包，已持续30年。 体温为36.7摄氏度（98.1华氏度），脉搏为76次/分钟，血压为132/77毫米汞柱，呼吸频率为18次/分钟。 体格检查显示呼吸音弥漫性减弱。 胸部X光片显示肺部透亮度增加。 该患者的肺功能检查最有可能显示以下哪种结果模式？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "This patient with a history of heavy smoking and worsening exertional dyspnea most likely has CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD); his hyperlucency (ie, decreased lung tissue density) on imaging is further consistent with emphysema. Progressive elastin degradation in COPD has significant effects on lung volumes:",
+    "zh": "这位有长期吸烟史和劳力性呼吸困难加重的患者很可能患有慢性阻塞性肺病 (COPD)；影像学上的肺部高透亮度（即肺组织密度降低）进一步支持肺气肿的诊断。COPD中进行性的弹性蛋白降解对肺容积有显著影响："
+  },
+  "options": {
+    "A": {
+      "en": "Total lung capacity ↓; Forced vital capacity ↓; Residual volume ↓",
+      "zh": "肺总量 ↓；用力肺活量 ↓；残气量 ↓"
+    },
+    "B": {
+      "en": "Total lung capacity ↓; Forced vital capacity ↓; Residual volume ↑",
+      "zh": "肺总量 ↓；用力肺活量 ↓；残气量 ↑"
+    },
+    "C": {
+      "en": "Total lung capacity ↓; Forced vital capacity ↑; Residual volume ↑",
+      "zh": "肺总量 ↓；用力肺活量 ↑；残气量 ↑"
+    },
+    "D": {
+      "en": "Total lung capacity ↑; Forced vital capacity ↓; Residual volume ↑",
+      "zh": "肺总量 ↑；用力肺活量 ↓；残气量 ↑"
+    },
+    "E": {
+      "en": "Total lung capacity ↑; Forced vital capacity ↑; Residual volume ↓",
+      "zh": "肺总量 ↑；用力肺活量 ↑；残气量 ↓"
+    },
+    "F": {
+      "en": "Total lung capacity ^; Forced vital capacity ^; Residual volume Normal",
+      "zh": "肺总量 ^；用力肺活量 ^；残气量 正常"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "- Beginning early in the disease course, loss of elastin tethering fibers leads to abnormal expiratory collapse of the distal airways. Expiratory flow is reduced, leading to poor lung emptying. This is measured as a markedly increased residual volume (RV), known as AIR TRAPPING.\n\n- With continued elastin loss, lung tissue becomes abnormally compliant (ie, distensible, \"loose and baggy\" alveoli); destruction of the interalveolar septal walls results in alveolar enlargement. These conditions lead to an increased total lung capacity (TLC), known as lung hyperinflation.\n\nAir trapping limits the lung's ability to expire air, decreasing expiratory reserve volume (ERV). Lung hyperinflation flattens the diaphragm, impairing its ability to descend and draw air into the lungs during inspiration; this leads to reduced inspiratory reserve volume (IRV). The reduced IRV and ERV (ie, decreased air volume during both inspiration and expiration) manifests as a decrease in forced vital capacity (the total volume of air that can be forcefully inspired after a maximal expiration).\n\n(Choice A) These findings are consistent with a restrictive process affecting the lung parenchyma (eg, interstitial lung disease) or chest wall (eg, severe kyphosis). All volumes tend to be uniformly reduced due to poor distensibility of the lungs (eg, collagen deposition) and/or thoracic cage (eg, spine deformity).\n\n(Choice B) These findings are consistent with a restrictive process due to neuromuscular disease (eg, amyotrophic lateral sclerosis, myasthenia gravis). TLC is reduced due to inspiratory muscle (diaphragm) weakness, and RV is elevated due to expiratory muscle (eg, internal intercostals) weakness.\n\n(Choices C and E) Forced VC is the difference between TLC and RV. Therefore, a low TLC and high RV would produce a low VC; conversely, a high TLC and low RV would produce a high VC.\n\n(Choice F) These findings can be seen in highly conditioned athletes due to increased airway diameter and robust respiratory muscle strength.\n\nEducational objective:\nChronic obstructive pulmonary disease is characterized by elevated residual volume (air trapping), elevated total lung capacity (hyperinflation), and reduced forced vital capacity. {{exhibit_2}}",
+    "zh": "- 在疾病早期，弹性蛋白锚定纤维的缺失导致远端气道的异常呼气性塌陷。 呼气流量减少，导致肺部排空不良。 这被测量为残气量 (RV) 显着增加，称为“气流阻塞”。\n\n- 随着弹性蛋白的持续丧失，肺组织变得异常顺应性（即，可扩张，肺泡“松弛且囊状”）；肺泡间隔壁的破坏导致肺泡增大。 这些情况导致肺总量 (TLC) 增加，称为肺过度充气。\n\n气流阻塞限制了肺部呼气的能力，降低了呼气储备容积 (ERV)。 肺过度充气使膈肌变平，阻碍其在吸气过程中下降并将空气吸入肺部的能力；这导致吸气储备容积 (IRV) 减少。 IRV 和 ERV 的减少（即，在吸气和呼气期间空气量减少）表现为用力肺活量（在最大呼气后可以用力吸入的空气总量）的减少。\n\n(选项 A) 这些发现与影响肺实质（例如，间质性肺病）或胸壁（例如，严重脊柱后凸）的限制性过程一致。 由于肺部顺应性差（例如，胶原沉积）和/或胸廓（例如，脊柱畸形），所有容积往往均匀减少。\n\n(选项 B) 这些发现与神经肌肉疾病（例如，肌萎缩侧索硬化症、重症肌无力）引起的限制性过程一致。 由于吸气肌（膈肌）无力，TLC 降低，而由于呼气肌（例如，胸内肋间肌）无力，RV 升高。\n\n(选项 C 和 E) 用力肺活量是 TLC 和 RV 之间的差值。 因此，低 TLC 和高 RV 会产生低 VC；相反，高 TLC 和低 RV 会产生高 VC。\n\n(选项 F) 由于气道直径增加和呼吸肌力量增强，这些发现可见于身体状况极佳的运动员。\n\n教育目标：\n慢性阻塞性肺病 (COPD) 的特征是残气量升高（气流阻塞）、肺总量升高（过度充气）和用力肺活量降低。 {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pulmonary function test (PFT) changes in chronic obstructive pulmonary disease (COPD), specifically emphysema. It assesses the impact of elastin degradation on lung volumes and airflow.\n\nTo solve this, recognize the patient's history of smoking and dyspnea points to COPD. Understand that COPD leads to air trapping (increased residual volume) and hyperinflation (increased total lung capacity), which subsequently reduces forced vital capacity.",
+    "zh": "这个问题测试了关于慢性阻塞性肺病 (COPD) 中肺功能测试 (PFT) 变化的知识，特别是肺气肿。 它评估了弹性蛋白降解对肺容积和气流的影响。\n\n要解决这个问题，需要认识到患者的吸烟史和呼吸困难指向 COPD。 了解 COPD 会导致气流阻塞（残气量增加）和过度充气（肺总量增加），从而降低用力肺活量。"
+  },
+  "tags": "Chronic obstructive pulmonary disease; Emphysema; Pulmonary function tests; Lung volumes; Air trapping; Respiratory medicine; Elastin degradation",
+  "category": "Chest",
+  "question_id": "521",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\521",
+  "extracted_at": "2025-11-05T11:45:49.847707",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:40:21.172829",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

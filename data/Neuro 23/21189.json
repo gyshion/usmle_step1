@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 75-year-old man is brought to the office for evaluation due to memory loss and increasing confusion over the last 6 months. The patient is unable to manage his finances and occasionally gets lost in his neighborhood, needing to ask for directions. On examination, he can recall only 1 of 3 objects after 5 minutes. The patient performs poorly on cognitive assessment testing. Cranial nerves and gait are normal. T2-weighted MRI reveals multiple white matter abnormalities (hyperintensities) within the left frontal, bilateral parietal, and occipital white matter. Also noted are subcortical gray matter hyperintensities in the bilateral thalamus. Which of the following is the most likely diagnosis?",
+    "zh": "一名75岁男性因记忆力减退和过去6个月内日益加重的意识模糊而前来就诊。患者无法管理财务，并且偶尔会在社区迷路，需要问路。检查时，他在5分钟后只能回忆起3个物体中的1个。患者在认知评估测试中表现不佳。脑神经和步态正常。T2加权MRI显示左额叶、双侧顶叶和枕叶白质内有多发白质异常（高信号）。还注意到双侧丘脑的皮质下灰质高信号。以下哪项是最可能的诊断？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Alzheimer dementia",
+      "zh": "阿尔茨海默病性痴呆"
+    },
+    "B": {
+      "en": "Brain metastases",
+      "zh": "脑转移瘤"
+    },
+    "C": {
+      "en": "Multiple sclerosis",
+      "zh": "多发性硬化"
+    },
+    "D": {
+      "en": "Vascular dementia",
+      "zh": "血管性痴呆"
+    },
+    "E": {
+      "en": "Wernicke encephalopathy",
+      "zh": "韦尼克脑病"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has had a relatively abrupt cognitive decline with prominent executive dysfunction (eg, managing finances, getting lost). Neuroimaging reveals scattered lesions in the white matter and subcortical gray matter, especially the thalamus. This is consistent with vascular dementia (VaD), which often occurs due to one of the following mechanisms:\n\n- Atherosclerosis of large vessels (eg, basilar arteries, carotid arteries, circle of Willis): Plaque accumulation narrows the lumen; plaque rupture can lead to thrombosis and thromboembolism, often causing a clinical stroke, resulting in localized neurologic deficits. MRI would reveal a discrete cortical infarct.\n\n- Small-vessel disease, which includes the development of microatheromas and arteriolosclerosis (ie, thickening and stiffening of arteriole walls): Small-vessel disease can lead to microaneurysm formation, obstruction, or breakage of the vessel walls. It more often impacts subcortical regions (eg, thalamus, basal ganglia) because there is less arteriole collateralization in these regions compared to the cerebral cortex. MRI often reveals signs of multiple small infarcts or microbleeds in these areas.\n\n- Cerebral amyloid angiopathy: Beta-amyloid deposits in the walls of small to medium cerebral arteries and leads to increased fragility of the vessels. Although the most common manifestation is spontaneous, lobar intracranial hemorrhage, it can also cause multiple small infarcts and present as VaD.\n\n(Choice A) Although patients with Alzheimer dementia also have progressive memory loss with functional impairments, this disease often has a more insidious onset than VaD. MRI typically reveals parietotemporal cortical atrophy with no evidence of structural disease.\n\n(Choice B) Although brain metastases can result in a rapidly deteriorating mental status, they most often cause focal neurologic findings, which are not seen in this patient, and would be visible on MRI as mass lesions, usually located at the gray-white matter junction.\n\n(Choice C) MRI in a patient with multiple sclerosis can reveal hyperintensities corresponding to demyelinating plaques, typically located in the periventricular areas. However, MS typically presents in young women (age <50) with neurologic deficits (eg, blurry vision, diplopia, focal weakness/numbness, bowel/bladder dysfunction) disseminated in time and space.\n\n(Choice E) Although Wernicke encephalopathy (due to thiamine deficiency) can present with cognitive deficits, the classic triad consists of oculomotor dysfunction, ataxia, and encephalopathy. Chronic THIAMINE DEFICIENCY results in anterograde and retrograde amnesia, confabulation, and apathy. MRI reveals hyperintensities most commonly affecting the mammillary bodies and periaqueductal gray matter. {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "该患者出现了相对突然的认知能力下降，伴有明显的执行功能障碍（例如，管理财务、迷路）。神经影像学显示白质和皮质下灰质中散在病灶，特别是丘脑。这与血管性痴呆 (VaD) 一致，血管性痴呆通常由于以下机制之一而发生：\n\n- 大血管动脉粥样硬化（例如，基底动脉、颈动脉、Willis 环）：斑块积聚使管腔狭窄；斑块破裂可导致血栓形成和血栓栓塞，通常引起临床卒中，导致局灶性神经功能缺损。MRI 会显示局限性皮质梗死。\n\n- 小血管疾病，包括微动脉粥样硬化和动脉硬化（即，小动脉壁增厚和僵硬）：小血管疾病可导致微动脉瘤形成、阻塞或血管壁破裂。与大脑皮质相比，这些区域的小动脉侧支循环较少，因此它更容易影响皮质下区域（例如，丘脑、基底神经节）。MRI 经常显示这些区域的多发小梗死或微出血的迹象。\n\n- 脑淀粉样血管病：β-淀粉样蛋白沉积在中小型脑动脉壁中，导致血管脆性增加。虽然最常见的表现是自发性、叶间颅内出血，但它也可能导致多发小梗死，并表现为 VaD。\n\n（选项 A）尽管阿尔茨海默病患者也有进行性记忆力减退和功能障碍，但该病的起病通常比 VaD 更隐匿。MRI 通常显示顶颞叶皮质萎缩，无结构性疾病的证据。\n\n（选项 B）尽管脑转移瘤可导致精神状态迅速恶化，但它们最常引起局灶性神经学发现，而该患者未见这些发现，并且在 MRI 上可见为肿块病灶，通常位于灰质-白质交界处。\n\n（选项 C）多发性硬化患者的 MRI 可显示与脱髓鞘斑块相对应的高信号，通常位于脑室周围区域。然而，MS 通常在年轻女性（年龄<50岁）中表现为神经功能缺损（例如，视力模糊、复视、局灶性无力/麻木、肠/膀胱功能障碍），这些神经功能缺损在时间和空间上弥散。\n\n（选项 E）尽管韦尼克脑病（由于硫胺素缺乏症）可表现为认知障碍，但经典三联征包括动眼神经功能障碍、共济失调和脑病。慢性硫胺素缺乏会导致顺行性和逆行性遗忘、虚构和冷漠。MRI 显示高信号，最常影响乳头体和导水管周围灰质。{{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of vascular dementia, its clinical presentation, and characteristic findings on neuroimaging. It requires differentiating vascular dementia from other causes of cognitive decline based on the history and MRI findings.\n\nThe key to solving this question is recognizing the relatively abrupt onset of cognitive decline with executive dysfunction, coupled with the presence of white matter and subcortical gray matter hyperintensities on MRI. This pattern is highly suggestive of vascular dementia.",
+    "zh": "此题考察对血管性痴呆、其临床表现和神经影像学特征性发现的了解。它需要根据病史和 MRI 结果将血管性痴呆与其他原因的认知能力下降区分开来。\n\n解决此题的关键在于识别相对突然发生的认知能力下降，伴有执行功能障碍，加上 MRI 上存在白质和皮质下灰质高信号。这种模式高度提示血管性痴呆。"
+  },
+  "tags": "Vascular dementia; Cognitive impairment; MRI; White matter hyperintensities; Executive dysfunction; Neurology; Geriatrics; Neuroimaging; Small vessel disease; Cerebral amyloid angiopathy",
+  "category": "Neuro",
+  "question_id": "21189",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\21189",
+  "extracted_at": "2025-11-05T15:32:49.061328",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:25:02.058235",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

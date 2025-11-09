@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 42-year-old man with HIV comes to the emergency department with 3 days of abdominal pain, decreased appetite, and diarrhea. Temperature is 38 C (100.4 F), blood pressure is 98/60 mm Hg, and pulse is 110/min. Abdominal examination shows tenderness over the left lower quadrant without guarding or rebound tenderness. CD4 count is 38/mm³. Colonoscopy shows erythematous, friable mucosa with superficial ulcerations in the sigmoid and descending colon. Biopsy from the ulcers reveals inflammatory infiltrate, mucosal necrosis, and enlarged endothelial cells with large, ovoid nuclei containing prominent basophilic deposits {{exhibit_1}}.",
+    "zh": "一名42岁患有HIV的男性来到急诊科，主诉腹痛3天，食欲下降和腹泻。体温38°C（100.4°F），血压98/60 mmHg，脉搏110次/分。腹部检查显示左下象限压痛，无腹肌紧张或反跳痛。CD4计数为38/mm³。结肠镜检查显示乙状结肠和降结肠黏膜红斑、脆弱，伴有浅表溃疡。溃疡活检显示炎性浸润、黏膜坏死，以及内皮细胞增大，内皮细胞具有大的、卵圆形的核，核内含有突出的嗜碱性沉积物 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's gastrointestinal symptoms?",
+    "zh": "以下哪项最可能是该患者胃肠道症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Disseminated mycobacterial infection",
+      "zh": "播散性分枝杆菌感染"
+    },
+    "B": {
+      "en": "Infection by a modified acid-fast protozoan",
+      "zh": "经修饰抗酸原虫感染"
+    },
+    "C": {
+      "en": "Mucosal invasion by a commensal yeast",
+      "zh": "共生酵母菌对黏膜的侵袭"
+    },
+    "D": {
+      "en": "Reactivation of a herpesvirus",
+      "zh": "疱疹病毒再激活"
+    },
+    "E": {
+      "en": "Toxin from an anaerobic bacteria",
+      "zh": "厌氧菌毒素"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Cytomegalovirus (CMV) is the most common viral opportunistic infection of the gastrointestinal tract in patients with advanced AIDS. Initial infection with CMV is usually asymptomatic or similar to Epstein-Barr virus-induced mononucleosis. As with all members of the herpesvirus family, latent infection is established after resolution of the initial infection. Reactivation can occur at any time but is most common in the setting of immunosuppression. In patients with HIV, CMV colitis is the second most common reactivation syndrome after CMV retinitis. Patients with CMV colitis have fever, anorexia, weight loss, and abdominal pain. The pain may be vague initially but becomes more localized as the disease progresses. Colonoscopy shows mucosal erythema, erosions, and ulcerations. Histologic examination of biopsy specimens will reveal acute and chronic inflammatory changes, vasculitis, and large cells with large, ovoid nuclei containing centralized intranuclear basophilic inclusions (owl's eye appearance).\n\n(Choice A) Patients with advanced AIDS are at risk for disseminated Mycobacterium avium complex, which is often associated with diarrhea, abdominal pain, and weight loss. However, acid-fast staining organisms and necrotizing and non-necrotizing granulomas are typically seen on biopsy.\n\n(Choice B) Cryptosporidium is a protozoan parasite that causes watery diarrhea in both immunocompromised and immunocompetent patients. However, it primarily affects the small intestine, not the colon. Oocysts can be identified in the stool using microscopy with modified acid-fast stain; biopsy will show basophilic parasites attached to the mucosal brush border.\n\n(Choice C) Candida albicans is a normal part of human flora that often causes oropharyngeal and esophageal infections in patients with advanced AIDS. However, Candida and other yeasts (eg, Histoplasma capsulatum) are a rare cause of colitis.\n\n(Choice E) Clostridium difficile is an exotoxin-producing, anaerobic bacterium that can cause severe colitis, most commonly after antibiotic use. Patients usually have fever, abdominal pain, leukocytosis, and diarrhea. Endoscopy is not usually needed but often reveals mucosal pseudomembranes.\n\nEducational objective:\nCytomegalovirus (CMV) is a common cause of colitis in patients with advanced AIDS. It is the second most common CMV reactivation disease in this population (CMV retinitis is the most common). Patients with CMV colitis often have abdominal pain, fever, diarrhea, and weight loss. Colonoscopy usually shows erythema, erosions, and ulcerations; colonic biopsy typically reveals large cells with prominent basophilic intranuclear inclusions.",
+    "zh": "巨细胞病毒 (CMV) 是晚期AIDS患者胃肠道最常见的病毒性机会性感染。CMV的初始感染通常无症状或类似于EB病毒诱导的单核细胞增多症。与所有疱疹病毒家族成员一样，潜伏感染在初始感染消退后建立。再激活可在任何时候发生，但在免疫抑制的情况下最为常见。在HIV患者中，CMV结肠炎是继CMV视网膜炎之后第二常见的再激活综合征。CMV结肠炎患者可出现发热、厌食、体重减轻和腹痛。疼痛最初可能模糊不清，但随着疾病进展会变得更加局限。结肠镜检查显示黏膜红斑、糜烂和溃疡。活检标本的组织学检查将显示急性和慢性炎症变化、血管炎以及具有大的、卵圆形的核，核内含有中心性嗜碱性包涵体的巨细胞（猫头鹰眼外观）。\n\n(选项A) 晚期AIDS患者有播散性鸟型分支杆菌复合感染的风险，这通常与腹泻、腹痛和体重减轻有关。然而，活检中通常可见抗酸染色阳性生物和坏死性和非坏死性肉芽肿。\n\n(选项B) 隐孢子虫是一种原虫寄生虫，可在免疫功能低下和免疫功能正常的患者中引起水样腹泻。然而，它主要影响小肠，而不是结肠。卵囊可以使用经修饰的抗酸染色在粪便中通过显微镜观察到；活检将显示附着在黏膜刷状缘上的嗜碱性寄生虫。\n\n(选项C) 白色念珠菌是人体正常菌群的一部分，通常会导致晚期AIDS患者发生口咽和食管感染。然而，念珠菌和其他酵母菌（例如，荚膜组织胞浆菌）是结肠炎的罕见病因。\n\n(选项E) 艰难梭菌是一种产外毒素的厌氧菌，最常见于使用抗生素后引起严重结肠炎。患者通常有发热、腹痛、白细胞增多和腹泻。通常不需要内镜检查，但常显示黏膜假膜。\n\n教学目标：\n巨细胞病毒 (CMV) 是晚期AIDS患者结肠炎的常见病因。它是该人群中第二常见的CMV再激活疾病（CMV视网膜炎是最常见的）。CMV结肠炎患者通常有腹痛、发热、腹泻和体重减轻。结肠镜检查通常显示红斑、糜烂和溃疡；结肠活检通常显示具有突出嗜碱性核内包涵体的巨细胞。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of opportunistic infections in HIV/AIDS patients, specifically focusing on Cytomegalovirus (CMV) colitis and its characteristic histological findings. It requires recognizing the clinical presentation and correlating it with the biopsy results.\n\nThe best approach is to consider the patient's immunocompromised state and the specific findings on colonoscopy and biopsy. Rule out other common causes of colitis and focus on the unique features of CMV colitis, such as the presence of large cells with basophilic intranuclear inclusions (owl's eye appearance).",
+    "zh": "这个问题考察了对HIV/AIDS患者机会性感染的认识，特别是侧重于巨细胞病毒 (CMV) 结肠炎及其特征性组织学发现。它需要识别临床表现并将其与活检结果相关联。\n\n最好的方法是考虑患者的免疫功能低下状态以及结肠镜检查和活检的特定发现。排除结肠炎的其他常见原因，并侧重于CMV结肠炎的独特特征，例如存在具有嗜碱性核内包涵体的巨细胞（猫头鹰眼外观）。"
+  },
+  "tags": "Cytomegalovirus; CMV colitis; HIV/AIDS; Opportunistic infection; Gastroenterology; Infectious Diseases; Colonoscopy; Biopsy; Immunocompromised; Viral reactivation",
+  "category": "Micro",
+  "question_id": "7228",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\7228",
+  "extracted_at": "2025-11-05T15:05:17.630789",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:13:03.717168",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

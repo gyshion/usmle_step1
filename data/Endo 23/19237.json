@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 46-year-old man develops episodes of \"dizzy spells\" accompanied by palpitations and sweating during exercise. His symptoms improve after drinking orange juice or eating a protein bar. The patient was diagnosed with type 2 diabetes 6 months ago and advised to lose weight with dietary modification and exercise. Since then, he has been working out intensively and has lost 10 kg (22 lb).",
+    "zh": "一名46岁男性在运动期间出现伴有心悸和出汗的“头晕”发作。他的症状在喝橙汁或吃蛋白质棒后有所改善。患者在6个月前被诊断患有2型糖尿病，并被建议通过饮食调整和运动来减轻体重。从那时起，他一直在进行高强度锻炼，并减掉了10公斤（22磅）。"
+  },
+  "question": {
+    "en": "Which of the following mechanisms is responsible for this patient's symptoms when exercising?",
+    "zh": "以下哪种机制导致该患者在运动时出现症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased hepatic glucose production",
+      "zh": "肝脏葡萄糖生成减少"
+    },
+    "B": {
+      "en": "Increased glucokinase activity",
+      "zh": "葡萄糖激酶活性增加"
+    },
+    "C": {
+      "en": "Increased glucose-6-phosphatase activity",
+      "zh": "葡萄糖-6-磷酸酶活性增加"
+    },
+    "D": {
+      "en": "Translocation of glucose transporter 2 to the cell membrane",
+      "zh": "葡萄糖转运蛋白2向细胞膜转位"
+    },
+    "E": {
+      "en": "Translocation of glucose transporter 4 to the cell membrane",
+      "zh": "葡萄糖转运蛋白4向细胞膜转位"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Glucose uptake in skeletal muscle occurs primarily via glucose transporter (GLUT) 4 {{exhibit_1}}. In the fed state, insulin induces muscular glucose uptake by stimulating translocation of GLUT4 from intracellular depots to the plasma membrane and T tubules. As circulating glucose and insulin levels fall in the fasting state, GLUT4 is resequestered, and muscle becomes increasingly dependent on internal stores of glucose and glycogen and, subsequently, on fatty acids released by lipolysis in the liver.\n\nHowever, translocation of GLUT4 is also induced by muscle contraction, allowing insulin-independent glucose uptake during exercise. Over time, regular exercise also causes increased expression of GLUT4 and greater insulin-dependent GLUT4 translocation, leading to increased skeletal muscle glucose uptake at any given insulin level (ie, increased insulin sensitivity) and therefore lower blood glucose.\n\nThis patient has been engaging in a regular exercise program and is likely experiencing rapid uptake of glucose while exercising. As blood glucose levels fall, counterregulatory factors (eg, glucagon, epinephrine) are activated, leading to his symptoms (eg, palpitations, sweating), which are then relieved by the intake of sugar. Exercise-induced hypoglycemia is common in patients with diabetes mellitus due to the lack of physiologic insulin regulation along with insufficient carbohydrate supplementation.\n\n(Choice A) As blood glucose levels fall during fasting or exercise, glucagon and epinephrine stimulate hepatic glycogenolysis and gluconeogenesis, leading to increased (not decreased) glucose production.\n\n(Choice B) Glucokinase phosphorylates glucose to glucose-6-phosphate, primarily for glycogen synthesis. It is expressed mainly in the liver and is stimulated by rising, not falling, glucose levels.\n\n(Choice C) Glucose-6-phosphatase catalyzes the hydrolysis of glucose-6-phosphate to glucose during gluconeogenesis, thereby helping to maintain glucose levels in the fasting state; increased activity would improve hypoglycemic symptoms by increasing circulating glucose levels.\n\n(Choice D) GLUT2 is found primarily in the liver and pancreatic beta cells, where it facilitates insulin-independent glucose uptake. It is not expressed significantly in muscle or translocated in response to muscle contraction.",
+    "zh": "葡萄糖主要通过葡萄糖转运蛋白 (GLUT) 4 {{exhibit_1}} 进入骨骼肌。在进食状态下，胰岛素通过刺激 GLUT4 从细胞内储存库转位到质膜和 T 小管来诱导肌肉摄取葡萄糖。当循环葡萄糖和胰岛素水平在空腹状态下降时，GLUT4 会被重新隔离，肌肉越来越依赖于内部储存的葡萄糖和糖原，随后依赖于肝脏脂肪分解产生的脂肪酸。\n\n然而，肌肉收缩也会诱导 GLUT4 转位，从而在运动期间实现不依赖胰岛素的葡萄糖摄取。随着时间的推移，有规律的运动还会导致 GLUT4 表达增加和更大的胰岛素依赖性 GLUT4 转位，从而导致在任何给定的胰岛素水平下骨骼肌摄取葡萄糖增加（即，胰岛素敏感性增加），因此血糖降低。\n\n该患者一直在进行有规律的运动计划，并且在运动时很可能经历葡萄糖的快速摄取。当血糖水平下降时，反调节因子（例如，胰高血糖素、肾上腺素）被激活，导致其症状（例如，心悸、出汗），这些症状随后通过摄入糖而缓解。由于缺乏生理性胰岛素调节以及碳水化合物补充不足，运动诱发的低血糖症在糖尿病患者中很常见。\n\n（选项A）当血糖水平在空腹或运动期间下降时，胰高血糖素和肾上腺素会刺激肝糖原分解和糖异生，导致葡萄糖生成增加（而非减少）。\n\n（选项B）葡萄糖激酶将葡萄糖磷酸化为葡萄糖-6-磷酸，主要用于糖原合成。它主要在肝脏中表达，并受升高的（而非下降的）葡萄糖水平刺激。\n\n（选项C）葡萄糖-6-磷酸酶在糖异生过程中催化葡萄糖-6-磷酸水解为葡萄糖，从而有助于维持空腹状态下的葡萄糖水平；活性增加将通过增加循环葡萄糖水平来改善低血糖症状。\n\n（选项D）GLUT2主要存在于肝脏和胰腺β细胞中，它促进不依赖胰岛素的葡萄糖摄取。它在肌肉中表达不明显，也不会响应肌肉收缩而转位。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of glucose metabolism during exercise and the role of GLUT4 transporters in skeletal muscle. It also assesses understanding of exercise-induced hypoglycemia in patients with diabetes.\n\nTo solve this question, consider the patient's history of type 2 diabetes and recent intensive exercise. Recognize that exercise increases glucose uptake in skeletal muscle via GLUT4 translocation, which can lead to hypoglycemia, especially in individuals with impaired insulin regulation.",
+    "zh": "本题考察运动期间葡萄糖代谢的知识以及GLUT4转运蛋白在骨骼肌中的作用。它还评估对糖尿病患者运动诱发性低血糖症的理解。\n\n要解决这个问题，请考虑患者2型糖尿病的病史和近期剧烈运动。认识到运动通过GLUT4转位增加骨骼肌对葡萄糖的摄取，这可能导致低血糖，尤其是在胰岛素调节受损的个体中。"
+  },
+  "tags": "Type 2 diabetes; Exercise-induced hypoglycemia; Glucose metabolism; GLUT4; Skeletal muscle; Insulin sensitivity; Endocrinology; Internal medicine",
+  "category": "Endo",
+  "question_id": "19237",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\19237",
+  "extracted_at": "2025-11-05T14:04:36.765723",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:39:28.954517",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

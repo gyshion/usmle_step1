@@ -1,0 +1,90 @@
+{
+  "question_stem": {
+    "en": " A patient presents with pleuritic chest pain, cough, and low-grade fever after a kidney transplant. Chest X-ray reveals an infiltrate in the right lung. Bronchoalveolar lavage is performed, and mucicarmine staining reveals the findings in {{exhibit_1}}. Which of the following is the most likely cause of this patient's condition? {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}} {{exhibit_8}} {{exhibit_9}} {{exhibit_10}} {{exhibit_11}} {{exhibit_12}} {{exhibit_13}} {{exhibit_14}} {{exhibit_15}} {{exhibit_16}}",
+    "zh": "一位患者在肾移植后出现胸膜炎性胸痛、咳嗽和低烧。胸部X光片显示右肺有浸润。进行支气管肺泡灌洗，粘液胭脂红染色显示{{exhibit_1}}中的发现。以下哪项最可能是该患者病情的病因？{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}} {{exhibit_8}} {{exhibit_9}} {{exhibit_10}} {{exhibit_11}} {{exhibit_12}} {{exhibit_13}} {{exhibit_14}} {{exhibit_15}} {{exhibit_16}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's condition?",
+    "zh": "以下哪项最可能是该患者的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Aspergillus fumigatus",
+      "zh": "烟曲霉"
+    },
+    "B": {
+      "en": "Blastomyces dermatitidis",
+      "zh": "皮炎芽生菌"
+    },
+    "C": {
+      "en": "Candida albicans",
+      "zh": "白色念珠菌"
+    },
+    "D": {
+      "en": "Coccidioides immitis",
+      "zh": "粗球孢子菌"
+    },
+    "E": {
+      "en": "Cryptococcus neoformans",
+      "zh": "新型隐球菌"
+    },
+    "F": {
+      "en": "Histoplasma capsulatum",
+      "zh": "荚膜组织胞浆菌"
+    },
+    "G": {
+      "en": "Rhizopus species",
+      "zh": "根霉属"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Cryptococcus neoformans is a yeast that has an antiphagocytic polysaccharide capsule, a major virulence factor. The polysaccharide capsule appears as a clear, unstained zone with India ink and stains red with mucicarmine (as seen in this patient). C neoformans usually affects immunocompromised patients (eg, kidney transplantation patients on chronic immunosuppression). It is a neurotropic fungus that is transmitted via the respiratory route and most commonly presents with subacute or chronic meningoencephalitis. Cryptococcal lung disease can occasionally cause pneumonia-like symptoms, including cough with scant sputum production, pleuritic chest pain, dyspnea, and hemoptysis. Chest x-ray findings are nonspecific (eg, infiltrates, nodules). Diagnosis is usually confirmed by identifying Cryptococcus in sputum, bronchoalveolar washings, or tissue samples.",
+    "zh": "新型隐球菌是一种酵母菌，具有抗吞噬多糖荚膜，是主要的毒力因子。多糖荚膜在墨汁染色下呈透明、未染色的区域，并在粘液胭脂红染色下呈红色（如本患者所示）。新型隐球菌通常影响免疫功能低下的患者（例如，长期接受免疫抑制治疗的肾移植患者）。它是一种嗜神经真菌，通过呼吸道传播，最常见表现为亚急性或慢性脑膜脑炎。隐球菌性肺病偶尔可引起类似肺炎的症状，包括咳嗽伴少量痰液、胸膜炎性胸痛、呼吸困难和咯血。胸部X光片结果无特异性（例如，浸润、结节）。诊断通常通过在痰液、支气管肺泡灌洗液或组织样本中鉴定隐球菌来确诊。"
+  },
+  "summary": {
+    "en": "A post-kidney transplant patient presents with lung symptoms. Mucicarmine staining of bronchoalveolar lavage reveals Cryptococcus neoformans, which is common in immunocompromised patients and stains red with mucicarmine due to its polysaccharide capsule.",
+    "zh": "肾移植术后患者出现肺部症状。支气管肺泡灌洗液的粘液胭脂红染色显示新型隐球菌，这在免疫功能低下患者中很常见，由于其多糖荚膜，用粘液胭脂红染色呈红色。"
+  },
+  "tags": [
+    "Infectious Disease",
+    "Pulmonology",
+    "Immunocompromised",
+    "Fungal Infection",
+    "Cryptococcus neoformans",
+    "Mucicarmine Stain"
+  ],
+  "category": "Chest",
+  "question_id": "117",
+  "has_exhibits": true,
+  "exhibit_count": 16,
+  "exhibit_files": [
+    "image1.jpg",
+    "image10.jpg",
+    "image11.jpg",
+    "image12.jpg",
+    "image13.jpg",
+    "image14.jpg",
+    "image15.jpg",
+    "image16.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg",
+    "image9.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\117",
+  "extracted_at": "2025-11-05T11:37:29.507857",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:33:24.099735",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

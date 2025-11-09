@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old man is evaluated for prolonged paralysis following general anesthesia for an elective surgical procedure. Anesthesia was induced with propofol, succinylcholine was used for intubation, and anesthesia was maintained via propofol and fentanyl infusions. The patient has not had a return of neuromuscular function after several hours. His mother then discloses that she has also been \"slow to wake up\" from anesthesia.",
+    "zh": "一名23岁男性因择期手术的全身麻醉后出现长时间的麻痹而接受评估。麻醉采用丙泊酚诱导，琥珀酰胆碱用于插管，并用丙泊酚和芬太尼维持麻醉。患者在数小时后仍未恢复神经肌肉功能。然后他的母亲透露，她从麻醉中醒来的速度也很慢。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely reason for this patient's prolonged paralysis?",
+    "zh": "以下哪项是该患者出现长时间麻痹的最可能原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased first-pass metabolism",
+      "zh": "首过效应代谢降低"
+    },
+    "B": {
+      "en": "Decreased plasma hydrolysis",
+      "zh": "血浆水解降低"
+    },
+    "C": {
+      "en": "Increased binding to plasma proteins",
+      "zh": "与血浆蛋白结合增加"
+    },
+    "D": {
+      "en": "Increased redistribution to fat",
+      "zh": "向脂肪再分布增加"
+    },
+    "E": {
+      "en": "Upregulation of target receptors",
+      "zh": "靶受体上调"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient who developed prolonged muscle weakness (eg, failure of spontaneous respiration, voluntary muscle activity) after receiving succinylcholine most likely has PSEUDOCHOLINESTERASE DEFICIENCY, an autosomal recessive disorder caused by a genetic polymorphism in the BCHE gene.\n\nSuccinylcholine is a depolarizing neuromuscular blocking agent used to induce skeletal muscle relaxation during intubation and surgery. It acts as a COMPETITIVE AGONIST of nicotinic acetylcholine receptors of the motor endplate, where it induces PERSISTENT DEPOLARIZATION, leading to desensitization and skeletal muscle paralysis. Succinylcholine is rapidly HYDROLYZED by plasma pseudocholinesterase; only around 10% of the administered dose reaches the neuromuscular junction, where it typically has a duration of action of <10 minutes.\n\nPatients with PSEUDOCHOLINESTERASE DEFICIENCY are unable to metabolize succinylcholine, which leads to a large amount of the drug reaching the neuromuscular junction. Heterozygotes may experience double the normal duration of paralysis; homozygotes can have persistent paralysis for SEVERAL HOURS.\n\n(Choice A) Decreased first-pass metabolism often occurs when drugs are administered via a nonoral route, allowing them to reach the systemic circulation without passing through the portal circulation and liver. Although succinylcholine is given intravenously, it is primarily inactivated in the plasma by pseudocholinesterase rather than the liver.\n\n(Choice C) The pharmacologic effects of drugs are typically enacted by the unbound (free) form of the drug. Therefore, increased binding to plasma proteins would likely decrease (rather than increase) the effect of the medication.\n\n(Choice D) Propofol is highly lipid soluble and has a very short duration of action (seconds) because of rapid redistribution from the brain (where it activates the GABA-A receptor) to other tissues (predominantly fat). However, propofol is a hypnotic agent; it does not cause muscle paralysis.\n\n(Choice E) Upregulation of target receptors would increase sensitivity to acetylcholine, which is one possible mechanism of spasticity in cerebral palsy. However, receptor upregulation occurs over many hours or days, not with a first dose.\n\nEducational objective: Succinylcholine, a depolarizing neuromuscular blocking agent, is rapidly hydrolyzed by plasma pseudocholinesterase. Patients with pseudocholinesterase deficiency have prolonged neuromuscular paralysis after drug administration.",
+    "zh": "该患者在接受琥珀酰胆碱后出现长时间的肌肉无力（例如，自主呼吸衰竭，自主肌肉活动）最有可能患有假性胆碱酯酶缺乏症，这是一种由BCHE基因的基因多态性引起的常染色体隐性遗传病。\n\n琥珀酰胆碱是一种去极化神经肌肉阻滞剂，用于在插管和手术期间诱导骨骼肌松弛。它作为运动终板烟碱型乙酰胆碱受体的竞争性激动剂，在那里诱导持续的去极化，导致脱敏和骨骼肌麻痹。琥珀酰胆碱被血浆假性胆碱酯酶迅速水解；只有大约10%的给药剂量到达神经肌肉接头，其作用时间通常<10分钟。\n\n假性胆碱酯酶缺乏症患者无法代谢琥珀酰胆碱，这导致大量药物到达神经肌肉接头。杂合子可能会经历正常麻痹时间的两倍；纯合子可能持续麻痹数小时。\n\n(选项A) 首过效应代谢降低通常发生在药物通过非口服途径给药时，使它们能够到达体循环而无需通过门静脉循环和肝脏。虽然琥珀酰胆碱是静脉注射的，但它主要是在血浆中被假性胆碱酯酶灭活，而不是在肝脏中。\n\n(选项C) 药物的药理作用通常由药物的未结合（游离）形式发挥。因此，与血浆蛋白结合增加可能会降低（而不是增加）药物的作用。\n\n(选项D) 丙泊酚具有高脂溶性，并且由于从大脑（在那里它激活GABA-A受体）快速再分布到其他组织（主要是脂肪），因此作用时间非常短（几秒钟）。然而，丙泊酚是一种催眠药；它不会引起肌肉麻痹。\n\n(选项E) 靶受体的上调会增加对乙酰胆碱的敏感性，这是脑瘫痉挛的一种可能机制。然而，受体上调发生在数小时或数天内，而不是在第一次给药时。\n\n教育目标：琥珀酰胆碱，一种去极化神经肌肉阻滞剂，被血浆假性胆碱酯酶迅速水解。假性胆碱酯酶缺乏症患者在给药后出现长时间的神经肌肉麻痹。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pharmacokinetics of succinylcholine and the pathophysiology of prolonged paralysis due to pseudocholinesterase deficiency. It assesses the ability to correlate a patient's history of slow recovery from anesthesia with a specific enzyme deficiency.\n\nTo solve this question, identify the drug causing prolonged paralysis (succinylcholine) and recall its primary metabolic pathway. Recognize that impaired hydrolysis of succinylcholine leads to prolonged neuromuscular blockade. Consider the patient's family history as a clue to a genetic predisposition for enzyme deficiency.",
+    "zh": "本题考察对琥珀酰胆碱药代动力学和由于假性胆碱酯酶缺乏症引起的长时间麻痹的病理生理学的理解。它评估了将患者从麻醉中恢复缓慢的病史与特定酶缺乏症相关联的能力。\n\n要解决这个问题，确定导致长时间麻痹的药物（琥珀酰胆碱）并回忆其主要的代谢途径。认识到琥珀酰胆碱的水解受损会导致神经肌肉阻滞延长。考虑患者的家族史作为酶缺乏症的遗传易感性的线索。"
+  },
+  "tags": "Succinylcholine; Pseudocholinesterase deficiency; Prolonged paralysis; Neuromuscular blockade; Pharmacokinetics; Autosomal recessive disorder; Anesthesia; Pharmacology",
+  "category": "Neuro",
+  "question_id": "18735",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\18735",
+  "extracted_at": "2025-11-05T19:37:18.049851",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:36:40.413313",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

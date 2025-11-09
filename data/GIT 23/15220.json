@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old woman comes to the hospital due to a weeklong history of right upper quadrant pain, anorexia, jaundice, and dark urine. She has not recently traveled outside of the United States. The patient has no chronic medical conditions and takes no medications. She usually drinks 2 or 3 beers a day but has been drinking 8-10 beers daily for the past 6 months. The patient does not use intravenous drugs and is not sexually active. Family history is unremarkable. Temperature is 38.1 C (100.6 F), blood pressure is 122/74 mm Hg, pulse is 98/min and regular, and respirations are 15/min. BMI is 24 kg/m2. The patient is jaundiced but in no apparent distress. She is oriented to person, place, and date. The liver is enlarged and tender to palpation. There is no splenomegaly. The remainder of the physical examination shows no abnormalities. Laboratory results are as follows:{{exhibit_1}}",
+    "zh": "一名45岁女性因右上腹疼痛、食欲不振、黄疸和深色尿液病史一周前来医院就诊。她近期未曾离开美国。患者无慢性病史，未服用任何药物。她通常每天喝2-3杯啤酒，但在过去的6个月里每天喝8-10杯啤酒。患者未使用静脉注射药物，也无性生活。家族史无特殊。体温38.1°C (100.6°F)，血压122/74 mm Hg，脉搏98次/分钟且规律，呼吸15次/分钟。BMI为24 kg/m2。患者有黄疸，但无明显不适。她对人、地、时间定向力正常。肝脏肿大，触诊时有触痛。无脾肿大。体格检查的其余部分未见异常。实验室检查结果如下：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "If a liver biopsy is performed, which of the following pathologic findings would most likely be identified in this patient?",
+    "zh": "如果进行肝活检，该患者最有可能发现以下哪种病理学发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Granulomatous destruction of interlobular bile ducts",
+      "zh": "小叶间胆管的肉芽肿性破坏"
+    },
+    "B": {
+      "en": "Ground-glass hepatocyte inclusions containing viral antigen",
+      "zh": "含有病毒抗原的毛玻璃样肝细胞包涵体"
+    },
+    "C": {
+      "en": "Marked intrahepatic neutrophil infiltration",
+      "zh": "明显的肝内中性粒细胞浸润"
+    },
+    "D": {
+      "en": "Portal tract-predominant lymphocytic infiltration",
+      "zh": "门管区为主的淋巴细胞浸润"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient's fever, right upper quadrant pain, jaundice, and elevated transaminases likely represent ALCOHOLIC HEPATITIS. Heavy ethanol consumption causes oxidative damage in the liver, which triggers the release of neutrophil chemotactic factors (eg, IL-8, leukotriene B4), leading to marked INTRAHEPATIC NEUTROPHIL INFILTRATION. Other histologic findings include hepatocellular ballooning, Mallory bodies, and steatosis. {{exhibit_2}}\n\nLaboratory testing in alcoholic hepatitis typically demonstrates elevated aminotransferases (eg, aspartate aminotransferase [AST], alanine aminotransferase [ALT]) with an AST/ALT ratio >2:1. The disproportionate elevation of AST relative to ALT is caused by deficiencies in pyridoxal phosphate (ALT is more sensitive to vitamin B6 deficiency than AST) and ethanol-induced mitochondrial damage (in hepatocytes, large amounts of AST are found in the mitochondria whereas ALT is present only in the cytosol).\n\nAdditional laboratory findings in alcoholic hepatitis include direct hyperbilirubinemia. PT and PTT are often prolonged due to impaired hepatic production of coagulation factors.\n\n(Choice A) Primary biliary cholangitis (PBC) is a chronic inflammatory bile duct disorder. Histopathology shows inflammation and destruction of interlobular bile ducts with occasional granulomatous lesions. This cholestatic disorder causes not only hyperbilirubinemia, but also elevated alkaline phosphatase, which is not present in this patient. Furthermore, PBC does not cause an AST/ALT ratio >2:1.\n\n(Choices B and D) Chronic hepatitis B and C infections can stimulate an immune response against infected hepatocytes characterized by portal tract-predominant lymphocytic infiltration. Ground-glass hepatocytes may also be seen in chronic hepatitis B, representing an intracytoplasmic accumulation of hepatitis B surface antigen. Although chronic viral hepatitis may cause direct hyperbilirubinemia and aminotransferase elevations, ALT is generally higher than AST and an AST/ALT ratio >2:1 is rare. {{exhibit_3}}\n\nEducational objective:\nAlcoholic hepatitis presents with fever, right upper quadrant pain, and jaundice. Typical laboratory findings include elevated aminotransferases with an AST/ALT ratio >2:1. Histopathology is characterized by marked intrahepatic neutrophil infiltration, hepatocellular ballooning, Mallory bodies, and steatosis. {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "该患者的发热、右上腹疼痛、黄疸和转氨酶升高可能代表酒精性肝炎。大量乙醇摄入会导致肝脏氧化损伤，从而触发中性粒细胞趋化因子（例如，IL-8、白三烯B4）的释放，导致明显的肝内中性粒细胞浸润。其他组织学发现包括肝细胞气球样变性、马洛里小体和脂肪变性。{{exhibit_2}}\n\n酒精性肝炎的实验室检查通常显示转氨酶升高（例如，天冬氨酸转氨酶 [AST]，丙氨酸转氨酶 [ALT]），AST/ALT比值>2:1。AST相对于ALT不成比例升高的原因是吡哆醛磷酸盐缺乏（ALT对维生素B6缺乏症比AST更敏感）和乙醇引起的线粒体损伤（在肝细胞中，大量AST存在于线粒体中，而ALT仅存在于细胞质中）。\n\n酒精性肝炎的其他实验室发现包括直接胆红素血症。由于肝脏凝血因子生成受损，PT和PTT通常会延长。\n\n（选项 A）原发性胆汁性胆管炎 (PBC) 是一种慢性炎症性胆管疾病。组织病理学显示小叶间胆管的炎症和破坏，伴有偶发的肉芽肿性病变。这种胆汁淤积性疾病不仅会导致高胆红素血症，还会导致碱性磷酸酶升高，而该患者没有这种情况。此外，PBC不会导致AST/ALT比值>2:1。\n\n（选项 B 和 D）慢性乙型和丙型肝炎感染可刺激针对被感染肝细胞的免疫反应，其特征是门管区为主的淋巴细胞浸润。慢性乙型肝炎也可见毛玻璃样肝细胞，代表细胞质内乙型肝炎表面抗原的积聚。尽管慢性病毒性肝炎可能导致直接胆红素血症和转氨酶升高，但ALT通常高于AST，AST/ALT比值>2:1的情况很少见。{{exhibit_3}}\n\n教育目标：\n酒精性肝炎表现为发热、右上腹疼痛和黄疸。典型的实验室检查结果包括转氨酶升高，AST/ALT比值>2:1。组织病理学特征是明显的肝内中性粒细胞浸润、肝细胞气球样变性、马洛里小体和脂肪变性。{{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of alcoholic hepatitis, including its clinical presentation, laboratory findings, and characteristic histopathology. It requires differentiating alcoholic hepatitis from other liver diseases based on clinical and laboratory data.\n\nTo solve this question, recognize the patient's history of heavy alcohol use, symptoms of liver dysfunction (jaundice, RUQ pain), and lab findings (elevated AST/ALT with AST>ALT) as suggestive of alcoholic hepatitis. Recall that the classic histologic finding is intrahepatic neutrophil infiltration.",
+    "zh": "本题考察对酒精性肝炎的知识，包括其临床表现、实验室检查结果和特征性组织病理学。它要求根据临床和实验室数据将酒精性肝炎与其他肝脏疾病区分开来。\n\n要解决这个问题，需要认识到患者有大量饮酒史，肝功能障碍的症状（黄疸、右上腹疼痛）和实验室检查结果（AST/ALT升高，且AST>ALT）提示酒精性肝炎。回想一下，经典的组织学发现是肝内中性粒细胞浸润。"
+  },
+  "tags": "Alcoholic hepatitis; Liver disease; Hepatology; AST/ALT ratio; Neutrophil infiltration; Liver biopsy; Alcohol abuse; Jaundice; Right upper quadrant pain",
+  "category": "GIT",
+  "question_id": "15220",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\15220",
+  "extracted_at": "2025-11-05T14:25:29.591634",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:52:09.250205",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old man is brought to the emergency department after being found unresponsive. He has a history of schizoaffective disorder and previous suicide attempts by prescription medication overdose. The patient was recently started on haloperidol and sertraline. Temperature is 40.6 C (105 F), blood pressure is 180/98 mm Hg, and pulse is 112/min. On examination, the patient is obtunded and diffusely rigid without clonus. Laboratory studies show serum creatinine of 3.2 mg/dL, creatine kinase of 75,000 U/L, and leukocytes of 16,000/mm3.",
+    "zh": "一名25岁男性因无反应被送往急诊科。他有分裂情感性障碍病史，并曾因处方药过量尝试自杀。患者最近开始服用氟哌啶醇和舍曲林。体温为40.6°C（105°F），血压为180/98 mmHg，脉搏为112次/分钟。体格检查显示患者意识模糊，弥漫性僵硬，无阵挛。实验室检查显示血清肌酐为3.2 mg/dL，肌酸激酶为75,000 U/L，白细胞为16,000/mm3。"
+  },
+  "question": {
+    "en": "The antidote for this patient's current condition most likely has which of the following mechanisms of action?",
+    "zh": "该患者目前情况的解毒剂最有可能具有以下哪种作用机制？"
+  },
+  "options": {
+    "A": {
+      "en": "Activation of presynaptic voltage-gated calcium channels of motor neurons",
+      "zh": "激活运动神经元的突触前电压门控钙离子通道"
+    },
+    "B": {
+      "en": "Antagonism of peripheral and central serotonin receptors",
+      "zh": "拮抗外周和中枢5-羟色胺受体"
+    },
+    "C": {
+      "en": "Blockade of central dopamine D2 receptors",
+      "zh": "阻断中枢多巴胺D2受体"
+    },
+    "D": {
+      "en": "Inhibition of acetylcholinesterase at the neuromuscular junction",
+      "zh": "抑制神经肌肉接头的乙酰胆碱酯酶"
+    },
+    "E": {
+      "en": "Inhibition of calcium ion release from sarcoplasmic reticulum of skeletal muscle",
+      "zh": "抑制骨骼肌肌质网释放钙离子"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient has NEUROLEPTIC MALIGNANT SYNDROME (NMS) likely caused by an overdose of haloperidol. NMS is a life-threatening adverse reaction most commonly resulting from the use of ANTIPSYCHOTICS (neuroleptic) medications, which block dopamine receptors in the brain. NMS presents clinically with DIFFUSE MUSCLE RIGIDITY, HIGH FEVER, AUTONOMIC INSTABILITY (hypertension, tachycardia), and altered sensorium. Laboratory findings include CREATINE KINASE elevation due to rhabdomyolysis, which can result in acute renal failure.\n\nThe mainstay of treatment is to discontinue the causative agent and provide supportive care (eg, intravenous hydration). In severe cases, DANTROLENE can be administered, which antagonizes ryanodine receptors and inhibits calcium release from the sarcoplasmic reticulum. Bromocriptine, a dopamine agonist, has also shown clinical benefit in NMS.\n\n(Choice A) Activation of presynaptic voltage-gated calcium channels at the neuromuscular junction will trigger calcium influx into the terminal bulb. This will increase the release of acetylcholine from the terminal bulb onto the muscle endplate and, therefore, promote skeletal muscle contraction.\n\n(Choice B) Serotonin receptor antagonists (eg, cyproheptadine) can be used to treat SEROTONIN SYNDROME. Similar to NMS, serotonin syndrome can present with altered mental status and autonomic instability (diaphoresis, hypertension, hyperthermia, tachycardia). However, serotonin syndrome commonly presents with HYPERREFLEXIA and MYOCLONUS (not diffuse rigidity) and gastrointestinal symptoms (nausea, diarrhea, vomiting).\n\n(Choice C) Blockade of central dopamine D2 receptors in the brain leads to the extrapyramidal symptoms (eg, diffuse rigidity) observed in NMS.\n\n(Choice D) Inhibition of acetylcholinesterase results in increased acetylcholine at the neuromuscular junction, promoting skeletal muscle activation and contraction. Procholinergic agents should be avoided in NMS as they may exacerbate symptoms.\n\nEducational objective:\nNeuroleptic malignant syndrome is a life-threatening reaction to antipsychotic medications characterized by diffuse muscle rigidity, hyperthermia, autonomic instability, and altered sensorium. The antipsychotic should be stopped and supportive care provided; dantrolene, a ryanodine receptor blocker that inhibits calcium release from the sarcoplasmic reticulum, is an effective antidote.",
+    "zh": "该患者患有神经阻滞剂恶性综合征（NMS），可能由氟哌啶醇过量引起。NMS是一种危及生命的副作用，最常由使用抗精神病药物（神经阻滞剂）引起，这些药物阻断大脑中的多巴胺受体。NMS临床表现为弥漫性肌肉僵硬、高热、自主神经功能不稳定（高血压、心动过速）和精神状态改变。实验室检查结果包括肌酸激酶升高，这源于横纹肌溶解，可能导致急性肾衰竭。\n\n治疗的主要方法是停用致病药物并提供支持性护理（例如静脉补液）。在严重情况下，可以给予丹曲林，它拮抗兰尼碱受体并抑制肌质网释放钙离子。溴隐亭，一种多巴胺激动剂，在NMS中也显示出临床益处。\n\n（选项A）激活神经肌肉接头的突触前电压门控钙离子通道将触发钙离子流入末梢球。这将增加末梢球将乙酰胆碱释放到肌肉终板上，因此促进骨骼肌收缩。\n\n（选项B）5-羟色胺受体拮抗剂（例如，赛庚啶）可用于治疗5-羟色胺综合征。与NMS类似，5-羟色胺综合征可表现为精神状态改变和自主神经功能不稳定（出汗、高血压、体温过高、心动过速）。然而，5-羟色胺综合征通常表现为反射亢进和肌阵挛（而非弥漫性僵硬）以及胃肠道症状（恶心、腹泻、呕吐）。\n\n（选项C）阻断大脑中的中枢多巴胺D2受体导致NMS中观察到的锥体外系症状（例如，弥漫性僵硬）。\n\n（选项D）抑制神经肌肉接头的乙酰胆碱酯酶会导致神经肌肉接头的乙酰胆碱增加，从而促进骨骼肌激活和收缩。在NMS中应避免使用促胆碱能药物，因为它们可能会加剧症状。\n\n教育目标：\n神经阻滞剂恶性综合征是对抗精神病药物的危及生命的反应，其特征是弥漫性肌肉僵硬、体温过高、自主神经功能不稳定和精神状态改变。应停用抗精神病药物并提供支持性护理；丹曲林是一种兰尼碱受体阻滞剂，可抑制肌质网释放钙离子，是一种有效的解毒剂。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of Neuroleptic Malignant Syndrome (NMS), its clinical presentation, and the mechanism of action of its primary antidote. It requires recognizing the signs and symptoms of NMS and recalling the pharmacological intervention for this condition.\n\nTo solve this question, identify the clinical features suggestive of NMS, such as fever, rigidity, autonomic instability, and elevated creatine kinase, in the context of antipsychotic use. Then, recall the treatment options for NMS and select the antidote whose mechanism of action directly addresses the underlying pathophysiology of muscle rigidity in NMS.",
+    "zh": "本题考察对神经阻滞剂恶性综合征（NMS）、其临床表现及其主要解毒剂的作用机制的理解。它需要识别NMS的体征和症状，并回忆该病症的药理学干预措施。\n\n要解决这个问题，需要在抗精神病药物使用的背景下，识别提示NMS的临床特征，如发热、僵硬、自主神经功能不稳定和肌酸激酶升高。然后，回忆NMS的治疗方案，并选择其作用机制直接针对NMS中肌肉僵硬的潜在病理生理学的解毒剂。"
+  },
+  "tags": "Neuroleptic malignant syndrome; Antipsychotics; Dopamine antagonists; Dantrolene; Rhabdomyolysis; Hyperthermia; Muscle rigidity; Serotonin syndrome; Emergency medicine; Pharmacology",
+  "category": "Neuro",
+  "question_id": "11676",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\11676",
+  "extracted_at": "2025-11-05T19:32:10.398167",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:31:15.362930",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

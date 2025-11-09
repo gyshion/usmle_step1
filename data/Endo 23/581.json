@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old woman is diagnosed with breast cancer and undergoes breast-sparing mastectomy. The tumor margin did not show any invasion, and sentinel axillary lymph node biopsy was negative for nodal metastasis. The tumor was estrogen receptor and progesterone receptor positive but HER-2 negative. After discussion of management options, the patient is started on tamoxifen. While on this medication, she experiences hot flashes that come and go in waves and affect her sleep significantly. Which of the following conditions is the patient also likely to experience as a result of this therapy?",
+    "zh": "一名55岁的女性被诊断患有乳腺癌，并接受了保乳性乳房切除术。肿瘤边缘未显示任何浸润，前哨淋巴结活检未见淋巴结转移。肿瘤雌激素受体和孕激素受体阳性，但HER-2阴性。在讨论了管理方案后，患者开始服用他莫昔芬。在服用这种药物期间，她经历了潮热，阵发性出现，并对她的睡眠有显著影响。作为这种治疗的结果，患者也可能经历以下哪种情况？"
+  },
+  "question": {
+    "en": "Which of the following conditions is the patient also likely to experience as a result of this therapy?",
+    "zh": "作为这种治疗的结果，患者也可能经历以下哪种情况？"
+  },
+  "options": {
+    "A": {
+      "en": "Decrease in bone mass",
+      "zh": "骨量减少"
+    },
+    "B": {
+      "en": "Decrease in HDL level",
+      "zh": "高密度脂蛋白水平降低"
+    },
+    "C": {
+      "en": "Endometrial hyperplasia",
+      "zh": "子宫内膜增生"
+    },
+    "D": {
+      "en": "Fibroadenoma of the breast",
+      "zh": "乳腺纤维腺瘤"
+    },
+    "E": {
+      "en": "Increase in LDL level",
+      "zh": "低密度脂蛋白水平升高"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Tamoxifen and raloxifene are selective estrogen receptor modulators (SERMs). They interact with the estrogen receptor and have agonist or antagonist activity depending on the tissue. In breast tissue, tamoxifen has an anti-estrogenic effect, and it is used for adjuvant treatment of estrogen receptor-positive breast cancer. Tamoxifen reduces the risk of recurrent cancer as well as estrogen-dependent benign breast lesions (eg, fibroadenoma, cystic changes) (Choice D).\n\nIn endometrial tissue, however, tamoxifen has a stimulatory effect and can lead to development of ENDOMETRIAL HYPERPLASIA and endometrial cancer. This risk is not seen with raloxifene.\n\n(Choice A) Tamoxifen and raloxifene act as partial estrogen receptor agonists in bone and can cause an increase in bone mineral density after menopause.\n\n(Choices B and E) Tamoxifen has a favorable effect on serum lipids, with a decrease in total and LDL cholesterol and no significant change in HDL. Serum triglycerides may increase in some patients.",
+    "zh": "他莫昔芬和雷洛昔芬是选择性雌激素受体调节剂 (SERMs)。它们与雌激素受体相互作用，并根据组织的不同具有激动剂或拮抗剂活性。在乳腺组织中，他莫昔芬具有抗雌激素作用，用于雌激素受体阳性乳腺癌的辅助治疗。他莫昔芬降低了复发性癌症以及雌激素依赖性良性乳腺病变（如纤维腺瘤、囊性改变）（选项D）的风险。\n\n然而，在子宫内膜组织中，他莫昔芬具有刺激作用，可导致子宫内膜增生和子宫内膜癌的发生。这种风险在雷洛昔芬中未见。\n\n（选项A）他莫昔芬和雷洛昔芬在骨骼中充当部分雌激素受体激动剂，可在绝经后导致骨矿物质密度的增加。\n\n（选项B和E）他莫昔芬对血脂有有利影响，可降低总胆固醇和低密度脂蛋白胆固醇，对高密度脂蛋白影响不明显。某些患者的血清甘油三酯可能会增加。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the side effects of selective estrogen receptor modulators (SERMs) such as tamoxifen, specifically focusing on its effects on the endometrium.\n\nThe key to solving this question is recognizing that tamoxifen has both anti-estrogenic and estrogenic effects depending on the tissue. In the endometrium, it acts as an estrogen agonist, increasing the risk of endometrial hyperplasia and cancer.",
+    "zh": "本题考察对选择性雌激素受体调节剂 (SERMs)（如他莫昔芬）的副作用的了解，特别侧重于其对子宫内膜的影响。\n\n解决此问题的关键是认识到他莫昔芬根据组织的不同具有抗雌激素和雌激素双重作用。在子宫内膜中，它充当雌激素激动剂，增加子宫内膜增生和癌症的风险。"
+  },
+  "tags": "Tamoxifen; Selective estrogen receptor modulators; Endometrial hyperplasia; Breast cancer; Hormone therapy; Oncology; Pharmacology",
+  "category": "Endo",
+  "question_id": "581",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\581",
+  "extracted_at": "2025-11-05T14:08:10.775268",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:41:40.286702",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

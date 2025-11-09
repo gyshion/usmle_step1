@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A researcher is studying neuronal changes in various physiologic and pathologic states. Microscopic examination of neural tissue obtained from experimental animals reveals neurons with shrunken nuclei and eosinophilic cytoplasm lacking Nissl bodies. Which of the following is the most likely cause of these findings?",
+    "zh": "一名研究人员正在研究各种生理和病理状态下神经元的改变。对从实验动物获得的神经组织进行显微镜检查，发现神经元胞核缩小，胞质嗜伊红性，缺乏尼氏体。以下哪项最可能是这些发现的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of these findings?",
+    "zh": "以下哪项最可能是这些发现的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Accumulation of abnormal proteins",
+      "zh": "异常蛋白质的积聚"
+    },
+    "B": {
+      "en": "Age-related physiologic changes",
+      "zh": "与年龄相关的生理变化"
+    },
+    "C": {
+      "en": "Defective lysosomal autophagy",
+      "zh": "溶酶体自噬缺陷"
+    },
+    "D": {
+      "en": "Irreversible ischemic injury",
+      "zh": "不可逆性缺血性损伤"
+    },
+    "E": {
+      "en": "Transection injury of the nerve fiber",
+      "zh": "神经纤维的横断性损伤"
+    },
+    "F": {
+      "en": "Transient neural compression",
+      "zh": "短暂的神经压迫"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Neurons are the major functional unit of the nervous system and are characterized histologically by large, round, centrally located nuclei and basophilic cytoplasmic granules composed of rough endoplasmic reticulum (Nissl bodies). When neurons are injured, they undergo distinct histopathologic changes depending on the type of underlying injury.\n\nIn response to an ACUTE IRREVERSIBLE INJURY (eg, severe hypoglycemia, ISCHEMIA), neurons begin to display characteristic morphologic changes 12-24 hours after the inciting event, appearing as shrunken cells separated from the surrounding tissue. The nucleus becomes PYKNOTIC (shrunken and basophilic with loss of the nucleolus), and the basophilic NISSL BODIES DISAPPEAR, resulting in cytoplasm that stains deeply eosinophilic (red neurons).\n\nIn the brain, in contrast to most other tissues, ischemia ultimately results in liquefactive necrosis due to the breakdown of neural architecture by hydrolytic enzymes released from reacting inflammatory cells and damaged neurons. The necrotic neuronal remnants are then phagocytized by microglia, and astrocytes proliferate at the site of the injury to form a glial scar.\n\n(Choice A) Several neurodegenerative diseases (eg, Alzheimer disease, frontotemporal lobar degeneration) are characterized by intracellular and/or extracellular accumulation of abnormal proteins in neural tissue. Histologic examination of affected areas demonstrates proteinaceous plaques, tangles, and/or inclusions with reactive gliosis and loss of neurons.\n\n(Choice B) Normal aging is associated with progressive atrophy and neuronal loss. However, red neuron changes are not characteristic of age-related physiologic changes.\n\n(Choice C) Lysosomal storage diseases (eg, Tay-Sachs, Niemann-Pick) cause the accumulation of improperly digested substances in lysosomes, leading to neural degeneration through free radical damage and apoptosis. Expected histopathologic changes include enlarged neuronal cells with a foamy appearance due to accumulated undigested macromolecules.\n\n(Choice E) Extensive axon damage or transection results in an axonal reaction characterized by cell body swelling, movement of the nucleus to the periphery, and dispersion of Nissl bodies. This response occurs due to increased protein and lipid synthesis during axon regeneration.\n\n(Choice F) Transient neural compression can lead to a temporary loss of function due to ischemia but would not lead to significant histopathologic changes unless the compression was sustained. Neural compression may occur in the CNS due to increased intracranial pressure or a mass lesion.\n\nEducational objective:\nNeurons that sustain irreversible ischemic injury begin to develop characteristic histopathologic changes 12-24 hours after the inciting event. These changes include shrinkage of the cell body, pyknosis of the nucleus, loss of Nissl bodies, and cytoplasmic eosinophilic (red neurons).",
+    "zh": "神经元是神经系统主要的结构和功能单位，其组织学特征是具有大而圆、居中的细胞核和由粗面内质网（尼氏体）组成的嗜碱性胞质颗粒。当神经元受损时，它们会根据潜在损伤的类型发生不同的组织病理学改变。\n\n为了应对急性不可逆性损伤（例如，严重低血糖、缺血），神经元会在诱发事件发生后的12-24小时开始表现出特征性的形态学改变，表现为细胞萎缩，与周围组织分离。细胞核变得固缩（缩小并呈嗜碱性，核仁消失），嗜碱性尼氏体消失，导致胞质着染呈深嗜伊红性（红神经元）。\n\n在大脑中，与大多数其他组织不同，缺血最终导致液化性坏死，这是由于水解酶分解神经结构，这些酶是从反应性炎症细胞和受损神经元中释放出来的。坏死的神经元残余物随后被小胶质细胞吞噬，星形胶质细胞在损伤部位增殖，形成神经胶质瘢痕。\n\n（选项A）几种神经退行性疾病（例如，阿尔茨海默病、额颞叶痴呆）的特征是神经组织中细胞内和/或细胞外异常蛋白质的积聚。受影响区域的组织学检查表明存在蛋白样斑块、缠结和/或包涵体，伴有反应性神经胶质增生和神经元丢失。\n\n（选项B）正常衰老与进行性萎缩和神经元丢失有关。然而，红神经元的改变并不是与年龄相关的生理变化的特征。\n\n（选项C）溶酶体贮积病（例如，泰-萨克斯病、尼曼-匹克病）导致未正确消化的物质在溶酶体中积聚，通过自由基损伤和细胞凋亡导致神经变性。预期的组织病理学改变包括神经元细胞增大，由于未消化的生物大分子积聚而呈现泡沫状外观。\n\n（选项E）广泛的轴突损伤或横断导致轴突反应，其特征是胞体肿胀、细胞核向外周移动以及尼氏体分散。这种反应是由于轴突再生期间蛋白质和脂质合成增加而发生的。\n\n（选项F）短暂的神经压迫可能导致由于缺血引起的暂时性功能丧失，但不会导致显着的组织病理学改变，除非压迫持续存在。神经压迫可能由于颅内压升高或占位性病变而发生在CNS中。\n\n教学目标：\n发生不可逆性缺血性损伤的神经元在诱发事件发生后的12-24小时开始出现特征性的组织病理学改变。这些变化包括细胞体萎缩、细胞核固缩、尼氏体消失和胞质嗜伊红性（红神经元）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the characteristic histopathologic changes that occur in neurons following irreversible ischemic injury. It requires the ability to correlate microscopic findings with specific types of neuronal damage.\n\nTo solve this question, one must recognize the described microscopic features (shrunken nuclei, eosinophilic cytoplasm lacking Nissl bodies) as indicative of neuronal injury. Then, by recalling the pathophysiology of neuronal response to different insults, the most likely cause, irreversible ischemic injury, can be identified.",
+    "zh": "此题考察对神经元在不可逆性缺血性损伤后发生的特征性组织病理学改变的理解。它需要能够将显微镜下的发现与特定类型的神经元损伤相关联。\n\n要解决这个问题，必须认识到所描述的显微镜特征（细胞核缩小、嗜伊红性胞质缺乏尼氏体）是神经元损伤的征象。然后，通过回忆神经元对不同损伤的病理生理反应，可以确定最可能的原因，即不可逆性缺血性损伤。"
+  },
+  "tags": "Neuronal injury; Ischemia; Histopathology; Red neurons; Pyknosis; Nissl bodies; Neurodegeneration; Central nervous system",
+  "category": "Neuro",
+  "question_id": "492",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\492",
+  "extracted_at": "2025-11-05T19:40:09.973279",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:40:49.035250",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

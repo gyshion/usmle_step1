@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": " A 28-year-old man is evaluated for abnormal movements of the hands and face. The patient reports that he started experiencing involuntary grimacing a year ago, which has gradually worsened. He is taking a selective serotonin reuptake inhibitor for major depression but has not taken any antipsychotic medications. His 52-year-old father was diagnosed with an inherited movement disorder 2 months ago. Physical examination shows normal strength and normal deep tendon reflexes. No sensory deficits are noted. {{exhibit_1}}",
+    "zh": "一位28岁男性因手和面部异常运动而接受评估。患者报告一年前开始出现不自主的鬼脸，且逐渐恶化。他正在服用选择性血清素再摄取抑制剂治疗重度抑郁症，但未服用任何抗精神病药物。他52岁的父亲于2个月前被诊断患有遗传性运动障碍。体格检查显示力量正常，深腱反射正常。未发现感觉缺陷。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following best explains the difference in disease presentation between this patient and his father?",
+    "zh": "以下哪项最能解释该患者与其父亲之间疾病表现的差异？"
+  },
+  "options": {
+    "A": {
+      "en": "Anticipation",
+      "zh": "预期"
+    },
+    "B": {
+      "en": "Genomic imprinting",
+      "zh": "基因组印记"
+    },
+    "C": {
+      "en": "Incomplete penetrance",
+      "zh": "不完全外显率"
+    },
+    "D": {
+      "en": "Microdeletion",
+      "zh": "微缺失"
+    },
+    "E": {
+      "en": "Mosaicism",
+      "zh": "嵌合体"
+    },
+    "F": {
+      "en": "Pleiotropy",
+      "zh": "多效性"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient presenting with involuntary movements, depression, and a family history of a movement disorder likely has HUNTINGTON DISEASE (HD), which typically manifests with the triad of movement disorder (chorea), behavioral abnormalities (aggressiveness, apathy, or depression), and dementia. HD is caused by an expansion of cytosine-adenine-guanine (CAG) trinucleotide repeats. Most patients develop symptoms in their 40s or 50s, but an earlier age of onset and more severe symptoms are associated with a larger number of trinucleotide repeats.\n\nDuring spermatogenesis, CAG repeats in the abnormal HTT gene (chromosome 4p) can rapidly increase (much more than during oogenesis). Therefore, patients who receive an abnormal gene from their fathers tend to develop the disease earlier in life. The tendency for clinical symptoms to worsen and/or occur earlier in subsequent generations is called anticipation. Anticipation is common in disorders associated with trinucleotide repeats, as in Fragile X syndrome, myotonic dystrophy, and Friedreich ataxia.\n\n(Choice B) Genomic imprinting is a selective inactivation of the genes of either maternal or paternal origin. It results in Prader-Willi and Angelman syndromes, which involve deletions of the same region on chromosome (15q) but have very different clinical manifestations due to the differential expression of parental genes. When the chromosome with the deleted region comes from the father, the lack of expression of maternally imprinted genes results in Prader-Willi syndrome. Likewise, deletions affecting the maternal chromosome result in Angelman syndrome due to absent expression of paternally imprinted genes.\n\n(Choice C) HD is transmitted in an autosomal dominant pattern with complete penetrance, which means that a child who inherits the abnormal gene will inevitably develop Huntington disease.\n\n(Choice D) Microdeletion is the loss of genetic material too small to be visible via light microscopy. For example, microdeletion of 22q11 is responsible for DiGeorge syndrome.\n\n(Choice E) The presence of 2 populations of cells with different genotypes in one patient resulting in the mixed expression of disease is called mosaicism. Examples of mosaicism include milder forms of Turner (genotype 46XX/45X0), Klinefelter (46XY/47XXY), and Down syndromes.\n\n(Choice F) Sometimes, one gene mutation leads to multiple, seemingly unrelated phenotypic abnormalities, a genetic phenomenon termed pleiotropy.\n\nEducational objective:\nAn increased number of trinucleotide repeats on the HTT gene is associated with Huntington disease. The larger the number of repeats, the earlier the onset of the disease. Trinucleotide expansion occurs more frequently during paternal transmission, causing a genetic phenomenon called anticipation.",
+    "zh": "这位患者出现不自主运动、抑郁和运动障碍家族史，可能患有亨廷顿病 (HD)，其典型表现为运动障碍（舞蹈病）、行为异常（攻击性、冷漠或抑郁）和痴呆三联征。HD由胞嘧啶-腺嘌呤-鸟嘌呤 (CAG) 三核苷酸重复序列的扩张引起。大多数患者在40或50多岁时出现症状，但发病年龄较早且症状更严重与三核苷酸重复序列的数量增加有关。\n\n在精子发生过程中，异常HTT基因（4p染色体）中的CAG重复序列可以迅速增加（远多于卵子发生期间）。因此，从父亲那里获得异常基因的患者往往会更早患病。临床症状在后续几代人中恶化和/或更早发生的趋势被称为预期。预期在与三核苷酸重复序列相关的疾病中很常见，如脆性X综合征、肌强直性营养不良和Friedreich共济失调。\n\n(选项B) 基因组印记是母系或父系来源基因的选择性失活。它导致Prader-Willi和Angelman综合征，这些综合征涉及染色体（15q）相同区域的缺失，但由于亲本基因的差异表达而具有非常不同的临床表现。当来自父亲的染色体具有缺失区域时，母系印记基因的表达缺失导致Prader-Willi综合征。同样，影响母系染色体的缺失会导致Angelman综合征，原因是父系印记基因的表达缺失。\n\n(选项C) HD以常染色体显性模式传播，具有完全外显率，这意味着继承异常基因的儿童将不可避免地患上亨廷顿病。\n\n(选项D) 微缺失是遗传物质的丢失，其体积太小，无法通过光学显微镜观察。例如，22q11的微缺失是DiGeorge综合征的原因。\n\n(选项E) 在同一患者中存在两种具有不同基因型的细胞群，导致疾病的混合表达，这被称为嵌合体。嵌合体的例子包括较轻形式的Turner综合征（基因型46XX/45X0）、Klinefelter综合征（46XY/47XXY）和Down综合征。\n\n(选项F) 有时，一个基因突变会导致多种看似无关的表型异常，这是一种称为多效性的遗传现象。\n\n教育目标：\nHTT基因上三核苷酸重复序列的增加与亨廷顿病有关。重复序列越多，疾病发病越早。三核苷酸扩张在父系传播期间更频繁地发生，导致一种称为预期的遗传现象。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of anticipation in genetic disorders, specifically Huntington's disease, and how trinucleotide repeat expansions can lead to earlier onset in subsequent generations. The key is to recognize the family history of a movement disorder and the earlier onset in the patient compared to his father, suggesting anticipation. \n\nTo solve this question, consider the inheritance patterns and mechanisms of genetic disorders. Rule out options that do not explain the difference in disease presentation between generations, focusing on the concept of anticipation in trinucleotide repeat disorders.",
+    "zh": "本题测试了对遗传疾病中预期（特别是亨廷顿病）的了解，以及三核苷酸重复序列扩张如何导致后续几代人更早发病。关键在于识别运动障碍的家族史以及患者相对于其父亲更早的发病，这提示了预期。\n\n要解决这个问题，请考虑遗传疾病的遗传模式和机制。排除那些无法解释世代之间疾病表现差异的选项，重点关注三核苷酸重复序列疾病中预期的概念。"
+  },
+  "tags": "Huntington disease; Anticipation; Trinucleotide repeat expansion; Genetics; Neurodegenerative disorders",
+  "category": "Bio",
+  "question_id": "633",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\633",
+  "extracted_at": "2025-11-05T11:16:05.092901",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:24:34.255380",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

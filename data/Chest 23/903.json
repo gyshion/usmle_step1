@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 36-year-old woman comes to the office due to dyspnea and weakness that are brought on while doing ordinary chores around the house. The patient has no other medical conditions and takes no medications. She does not use tobacco, alcohol, or illicit drugs. Her mother had similar symptoms and died at age 42. After an extensive workup, a lung biopsy is performed. Light microscopy of the tissue sample shows medial hypertrophy, intimal fibrosis, and decreased intraluminal diameter of the small branches of the pulmonary artery. Which of the following is the most appropriate pharmacotherapy for this patient's current condition?",
+    "zh": "一位36岁的女性因呼吸困难和乏力前来就诊，这些症状在做家务时出现。患者没有其他疾病，也没有服用药物。她不吸烟、不饮酒，也不吸毒。她的母亲有类似的症状，42岁时去世。在进行了广泛的检查后，进行了肺活检。组织样本的显微镜检查显示肺动脉小分支的内膜肥厚、内膜纤维化和管腔直径减小。以下哪项是该患者目前病情的最合适的药物治疗？"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate pharmacotherapy for this patient's current condition?",
+    "zh": "以下哪项是该患者目前病情的最佳药物治疗？"
+  },
+  "options": {
+    "A": {
+      "en": "Bosentan",
+      "zh": "波生坦"
+    },
+    "B": {
+      "en": "Clopidogrel",
+      "zh": "氯吡格雷"
+    },
+    "C": {
+      "en": "Enalapril",
+      "zh": "依那普利"
+    },
+    "D": {
+      "en": "Etanercept",
+      "zh": "依那西普"
+    },
+    "E": {
+      "en": "Indomethacin",
+      "zh": "吲哚美辛"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Pulmonary hypertension causes specific morphologic findings in the branches of the pulmonary arteries, including increased arteriolar smooth muscle thickness (medial hypertrophy), intimal fibrosis, and significant luminal narrowing. In the setting of severe hypertension, lesions can progress to form interlacing tufts of small vascular channels called plexiform lesions. These changes can occur in both pulmonary hypertension due to underlying cardiac, lung, or thrombotic disease and in pulmonary arterial hypertens on (PAH). {{exhibit_1}}\n\nPAH most commonly presents as dyspnea and exercise intolerance in women age 20-40. This patient's family history is suggestive of the familial form of PAH, which is most often caused by inactivating mutations involving the proapoptotic BMPR2 gene. The resulting increase in endothelial and smooth muscle cell proliferation leads to vascular remodeling, elevated pulmonary vascular resistance, and progressively elevated pulmonary arterial pressure.\n\nAlthough lung transplantation is the definitive treatment for PAH, medical therapy targeting the effects of endothelial dysfunction can help improve symptoms. Bosentan is an endothelin-receptor antagonist that blocks the effects of endothelin (a potent vasoconstrictor that also stimulates endothelial proliferation). Bosentan therapy decreases pulmonary arterial pressure and lessens the progression of vascular remodeling and right ventricular hypertrophy.\n\n(Choice B) Clopidogrel inhibits ADP-induced platelet aggregation. It is used in atherosclerotic cardiovascular disease and to prevent acute stent thrombosis following percutaneous coronary intervention.\n\n(Choice C) Enalapril is an angiotensin-converting enzyme inhibitor. It is used for the treatment of congestive heart failure, hypertension, and diabetic nephropathy.\n\n(Choice D) Etanercept inhibits tumor-necrosis factor (TNF) activity by competitively binding to TNF and preventing it from interacting with cell surface receptors. It is an anti-inflammatory agent used for the treatment of rheumatoid arthritis, psoriasis, and psoriatic arthritis.\n\n(Choice E) Indomethacin is a nonselective cyclooxygenase inhibitor that suppresses prostaglandin synthesis. It is used as an anti-inflammatory agent and pain reliever.\n\nEducational objective:\nPulmonary arterial hypertension (PAH) typically affects young women and can be familial. It is characterized by luminal narrowing of the pulmonary arteries and arterioles, with medial hypertrophy, intimal fibrosis, and the eventual development of plexiform lesions. Bosentan is a competitive antagonist of endothelin receptors used for the treatment of PAH. {{exhibit_2}}",
+    "zh": "肺动脉高压导致肺动脉分支出现特定的形态学改变，包括小动脉平滑肌增厚（内膜肥厚）、内膜纤维化和管腔明显狭窄。在严重高血压的情况下，病变可以进展形成相互交织的小血管通道束，称为丛状病变。这些变化既可以发生在由于潜在心脏、肺部或血栓性疾病引起的肺动脉高压中，也可以发生在肺动脉高压(PAH)中。{{exhibit_1}}\n\nPAH最常表现为20-40岁女性的呼吸困难和运动耐受力下降。该患者的家族史提示家族性PAH，这通常由涉及促凋亡BMPR2基因的失活突变引起。内皮细胞和平滑肌细胞增殖的增加导致血管重塑、肺血管阻力升高以及进行性肺动脉压力升高。\n\n虽然肺移植是PAH的确定性治疗方法，但针对内皮功能障碍影响的药物治疗可以帮助改善症状。波生坦是一种内皮素受体拮抗剂，可阻断内皮素（一种强效血管收缩剂，也可刺激内皮细胞增殖）的作用。波生坦治疗可降低肺动脉压力，减轻血管重塑和右心室肥厚的进展。\n\n(选项 B) 氯吡格雷抑制ADP诱导的血小板聚集。它用于动脉粥样硬化性心血管疾病，并预防经皮冠状动脉介入治疗后的急性支架内血栓形成。\n\n(选项 C) 依那普利是一种血管紧张素转换酶抑制剂。它用于治疗充血性心力衰竭、高血压和糖尿病肾病。\n\n(选项 D) 依那西普通过与肿瘤坏死因子 (TNF) 竞争性结合并阻止其与细胞表面受体相互作用来抑制肿瘤坏死因子 (TNF) 的活性。它是一种抗炎药，用于治疗类风湿性关节炎、牛皮癣和银屑病关节炎。\n\n(选项 E) 吲哚美辛是一种非选择性环氧合酶抑制剂，可抑制前列腺素合成。它被用作抗炎药和止痛药。\n\n教育目标：\n肺动脉高压 (PAH) 通常影响年轻女性，并且可能是家族性的。其特征是肺动脉和小动脉的管腔狭窄，伴有内膜肥厚、内膜纤维化以及最终发生丛状病变。波生坦是一种用于治疗 PAH 的内皮素受体竞争性拮抗剂。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pulmonary arterial hypertension (PAH), its presentation, underlying pathophysiology, and appropriate pharmacologic management. It requires recognizing the clinical features suggestive of PAH and selecting the appropriate medication based on its mechanism of action.\n\nThe best approach is to identify the key findings (dyspnea, family history, lung biopsy results) that point towards PAH. Then, recall the different classes of medications used to treat PAH and their mechanisms of action, selecting the one that targets the underlying endothelial dysfunction.",
+    "zh": "此题考察对肺动脉高压 (PAH) 的认识，包括其表现、潜在的病理生理学以及适当的药物治疗。它需要识别提示 PAH 的临床特征，并根据其作用机制选择合适的药物。\n\n最好的方法是确定指向 PAH 的关键发现（呼吸困难、家族史、肺活检结果）。然后，回忆用于治疗 PAH 的不同类别的药物及其作用机制，选择针对潜在内皮功能障碍的药物。"
+  },
+  "tags": "Pulmonary arterial hypertension; PAH; Endothelin receptor antagonist; Bosentan; Lung biopsy; Medial hypertrophy; Intimal fibrosis; BMPR2 gene; Vascular remodeling; Pulmonary hypertension",
+  "category": "Chest",
+  "question_id": "903",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\903",
+  "extracted_at": "2025-11-05T11:49:22.319297",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:42:54.035028",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

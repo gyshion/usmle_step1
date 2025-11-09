@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 26-year-old woman is brought to the emergency department due to acute-onset diplopia. Medical history is significant for episodes of blurry vision involving her right eye that occurred 6 months and 2 years ago. These episodes were associated with deficits in color vision and pain made worse with eye movement. The patient recovered the majority of her visual acuity after a few months in both cases. On neurologic examination, she has a visual acuity of 20/20 OS and 20/40 CD, mild right optic disk atrophy, and a relative afferent pupillary defect in the right eye. There is slowed and impaired adduction of the left eye with right lateral gaze. Convergence testing shows normal adduction in both eyes. The remainder of the neurologic examination is unremarkable. This patient's diplopia is most likely caused by which of the following mechanisms? {{exhibit_1}}",
+    "zh": "一名26岁的女性因突发性复视被送往急诊科。病史显示，她曾于6个月和2年前出现过右眼视力模糊的病症。这些病症伴有色觉障碍，且眼球运动会加重疼痛。患者在这两种情况下，在几个月后恢复了大部分视力。神经系统检查显示，她的左眼视力为20/20，右眼视力为20/40，有轻度右侧视盘萎缩，以及右眼相对传入性瞳孔缺陷。左眼内收伴右向侧视时缓慢且受损。会聚测试显示双眼内收正常。其余神经系统检查无特殊发现。该患者的复视最可能由以下哪种机制引起？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "This patient's diplopia is most likely caused by which of the following mechanisms?",
+    "zh": "该患者的复视最可能由以下哪种机制引起？"
+  },
+  "options": {
+    "A": {
+      "en": "Impaired neuromuscular transmission",
+      "zh": "神经肌肉传递受损"
+    },
+    "B": {
+      "en": "Loss of axons",
+      "zh": "轴突丢失"
+    },
+    "C": {
+      "en": "Muscle fiber inflammation and necrosis",
+      "zh": "肌纤维炎症和坏死"
+    },
+    "D": {
+      "en": "Nerve compression",
+      "zh": "神经压迫"
+    },
+    "E": {
+      "en": "Reduced saltatory conduction",
+      "zh": "跳跃式传导减慢"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The patient's history of recurrent, resolving episodes of blurry vision, pain with eye movement, and optic disk atrophy, coupled with the current presentation of internuclear ophthalmoplegia (slowed and impaired adduction of the left eye with right lateral gaze), is highly suggestive of multiple sclerosis (MS). MS is an autoimmune disorder of the central nervous system characterized by demyelination of axons, particularly in the white matter. {{exhibit_2}} In unmyelinated neurons, signal transmission requires sequential activation of adjacent sodium channels down the entire length of the axon. In myelinated neurons, the depolarization impulse is regenerated at discrete points along the axon (nodes of Ranvier). The myelin sheath serves as an electrical insulator that results in the impulse \"jumping\" between 2 adjacent nodes (saltatory conduction). This process allows for myelinated neurons to transmit impulses >10x faster than unmyelinated neurons. Due to acute demyelination seen with MS, propagation of the impulse cannot occur, as the distance between the sodium channels at the nodes of Ranvier precludes sequential activation. This causes a conduction block. Over time, sodium channels eventually redistribute across the naked axon and surviving oligodendrocytes partially remyelinate neurons, allowing for some restoration of signal transmission (explaining why some of the symptoms and signs of MS resolve to a variable extent). (Choice A) Impaired neuromuscular transmission can be seen in myasthenia gravis, which is caused by autoantibodies against acetylcholine receptors at the neuromuscular junction. Affected patients typically present with fluctuating diplopia, ptosis, and/or bulbar muscle weakness. (Choice B) Loss of axons and neurons occurs over time in chronic multiple sclerosis plaques. This patient had prior episodes of optic neuritis that have resolved. However, the internuclear ophthalmoplegia is acute and would demonstrate a relative preservation of axons. (Choice C) Muscle fiber inflammation and necrosis can be seen with various forms of myositis (eg, polymyositis, dermatomyositis, inclusion body myositis). Muscle disorders rarely follow a relapsing-remitting course and are not associated with optic neuritis or internuclear ophthalmoplegia. (Choice D) Optic nerve compression would most likely result in progressive vision loss. This patient's symptoms are more consistent with a relapsing-remitting disease pattern with lesions affecting multiple nervous system locations.",
+    "zh": "患者反复发作、缓解的视力模糊、眼球运动疼痛和视盘萎缩病史，加上目前表现的核间性眼肌麻痹（左眼内收缓慢且受损伴右向侧视），高度提示多发性硬化症（MS）。MS是一种中枢神经系统自身免疫性疾病，其特征是轴突脱髓鞘，尤其是在白质中。{{exhibit_2}} 在无髓鞘神经元中，信号传递需要沿着整个轴突顺序激活相邻的钠离子通道。在有髓鞘神经元中，去极化冲动在轴突上的离散点（朗飞氏结）再生。髓鞘充当电绝缘体，导致冲动在2个相邻结之间“跳跃”（跳跃式传导）。这个过程使有髓鞘神经元能够比无髓鞘神经元快10倍以上地传递冲动。由于MS可见的急性脱髓鞘，冲动无法传播，因为朗飞氏结处的钠离子通道之间的距离排除了顺序激活。这会导致传导阻滞。随着时间的推移，钠离子通道最终会重新分布到裸露的轴突上，存活的少突胶质细胞会部分髓鞘化神经元，从而使信号传递得到一定程度的恢复（这解释了为什么MS的一些症状和体征会在不同程度上消退）。（选项A）神经肌肉传递受损可见于重症肌无力，这是由针对神经肌肉接头处乙酰胆碱受体的自身抗体引起的。受影响的患者通常表现为波动性复视、上睑下垂和/或延髓肌无力。（选项B）轴突和神经元的丢失会随着时间的推移发生在慢性多发性硬化斑块中。该患者先前曾发生过视神经炎，现已缓解。然而，核间性眼肌麻痹是急性的，并且会显示出相对的轴突保留。（选项C）肌纤维炎症和坏死可见于各种形式的肌炎（例如，多发性肌炎、皮肌炎、包涵体肌炎）。肌肉疾病很少遵循复发缓解病程，并且与视神经炎或核间性眼肌麻痹无关。（选项D）视神经压迫最有可能导致进行性视力丧失。该患者的症状更符合复发缓解型疾病模式，病变影响多个神经系统部位。"
+  },
+  "summary": {
+    "en": "The patient's symptoms and history are indicative of multiple sclerosis, which causes demyelination and reduced saltatory conduction in myelinated neurons, leading to conduction blocks and neurological deficits like diplopia.",
+    "zh": "患者的症状和病史表明患有多发性硬化症，这会导致髓鞘脱失和有髓神经元跳跃式传导减慢，从而导致传导阻滞和神经功能障碍，如复视。"
+  },
+  "tags": [
+    "neurology",
+    "multiple sclerosis",
+    "diplopia",
+    "internuclear ophthalmoplegia",
+    "demyelination",
+    "saltatory conduction"
+  ],
+  "category": "Neuro",
+  "question_id": "917",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\917",
+  "extracted_at": "2025-11-05T19:42:41.738928",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:44:01.914396",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

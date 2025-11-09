@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old man hospitalized for chronic obstructive pulmonary disease exacerbation develops hypercapnic respiratory failure. He is transferred to the intensive care unit, where he undergoes intubation after premedication with muscle relaxant X and an appropriate sedative. The patient is then started on mechanical ventilation; however, he remains apneic longer than expected. Anesthesiology is consulted, and the patient's neuromuscular blockade is assessed by electrically stimulating a peripheral nerve 4 times in quick succession and observing the muscular response. The procedure is repeated 30 minutes later and the results are shown below {{exhibit_1}}.",
+    "zh": "一名因慢性阻塞性肺病加重住院的 63 岁男性出现高碳酸血症性呼吸衰竭。他被转移到重症监护病房，在用肌肉松弛剂 X 和适当的镇静剂预处理后接受气管插管。然后患者开始机械通气；然而，他比预期的要长时间出现呼吸暂停。麻醉科会诊，并通过快速连续电刺激周围神经 4 次并观察肌肉反应来评估患者的神经肌肉阻滞情况。该程序在 30 分钟后重复进行，结果如下所示 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Muscle relaxant X is most likely to be which of the following medications?",
+    "zh": "肌肉松弛剂 X 最有可能是下列哪种药物？"
+  },
+  "options": {
+    "A": {
+      "en": "Dantrolene",
+      "zh": "丹曲林"
+    },
+    "B": {
+      "en": "Midazolam",
+      "zh": "咪达唑仑"
+    },
+    "C": {
+      "en": "Pancuronium",
+      "zh": "泮库溴铵"
+    },
+    "D": {
+      "en": "Succinylcholine",
+      "zh": "琥珀酰胆碱"
+    },
+    "E": {
+      "en": "Tubocurarine",
+      "zh": "筒箭毒碱"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Train-of-four (TOF) stimulation is used during anesthesia to assess the degree of paralysis induced by neuromuscular junction (NMJ)-blocking agents. A peripheral nerve is stimulated 4 times in quick succession and the muscular response is recorded. The height of each bar represents the strength of each twitch; higher bars indicate the activation of increasing numbers of individual muscle fibers (myocytes).\n\nWhen a nondepolarizing NMJ blocker (eg, vecuronium) is administered, competitive inhibition of postsynaptic acetylcholine receptors at the motor endplate prevents some of these fibers from activating, decreasing the strength of the twitch. TOF stimulation shows a progressive reduction in each of the 4 responses (fading pattern) as a result of less acetylcholine being released with each subsequent impulse (due to the additional effect of presynaptic acetylcholine receptor blockade). In contrast, depolarizing blockers (eg, succinylcholine) initially function by preventing repolarization of the motor endplate and show equal reduction of all 4 twitches during TOF stimulation (phase I blockade). The responses remain equal because the presynaptic acetylcholine receptor stimulation helps to mobilize presynaptic acetylcholine vesicles for release. Persistent exposure to succinylcholine results in eventual transition to phase II blockade as the acetylcholine receptors become desensitized and inactivated (ie, functionally similar to nondepolarizing blockade).\n\nSuccinylcholine is commonly administered for rapid-sequence intubation due to its rapid onset (<1 minute). The duration of action is determined by its metabolism by plasma cholinesterase and is typically <10 minutes. However, some patients are homozygous for an atypical plasma cholinesterase, which breaks down succinylcholine more slowly. In these patients, the paralysis can last for hours and they must be maintained on mechanical ventilation until spontaneous respirations resume.\n\n(Choice A) Dantrolene relaxes skeletal muscle by reducing the release of Ca2+ from the sarcoplasmic reticulum. Dantrolene is used to treat malignant hyperthermia and neuroleptic malignant syndrome. It is not routinely used as a neuromuscular paralytic agent.\n\n(Choice B) Benzodiazepines are effective for sedation, but they have no direct action at the NMJ and do not provide sufficient muscle paralysis to facilitate intubation.\n\n(Choices C and E) Pancuronium and tubocurarine are nondepolarizing NMJ blockers. Unlike depolarizing NMJ drugs, these agents do not function in distinct phases and their TOF responses always display a fading pattern. Neostigmine administration reverses nondepolarizing NMJ blockade.\n\nEducational objective:\nSuccinylcholine is a fast-acting, depolarizing neuromuscular blocking agent used for rapid-sequence intubation that causes equal reduction of all 4 twitches during train-of-four stimulation (phase I blockade). Prolonged administration of succinylcholine or use in patients with abnormal plasma cholinesterase activity causes transition to a phase II (nondepolarizing) block, seen as a progressive reduction in each of the 4 twitches. {{exhibit_2}}",
+    "zh": "四联 (TOF) 刺激用于麻醉期间，以评估神经肌肉接头 (NMJ) 阻滞剂引起的麻痹程度。快速连续刺激周围神经 4 次，并记录肌肉反应。每个条的高度代表每次抽搐的强度；较高的条表示激活了越来越多的单个肌纤维（肌细胞）。\n\n当使用非去极化 NMJ 阻滞剂（例如，维库溴铵）时，运动终板的突触后乙酰胆碱受体的竞争性抑制会阻止其中一些纤维被激活，从而降低抽搐的强度。由于每次冲动释放的乙酰胆碱减少（由于突触前乙酰胆碱受体阻滞的额外作用），TOF 刺激显示 4 个反应中的每一个都逐渐减少（衰减模式）。相比之下，去极化阻滞剂（例如，琥珀酰胆碱）最初通过阻止运动终板的复极化起作用，并在 TOF 刺激期间显示所有 4 次抽搐的同等减少（I 期阻滞）。反应保持相等，因为突触前乙酰胆碱受体刺激有助于动员突触前乙酰胆碱囊泡释放。持续暴露于琥珀酰胆碱会导致最终过渡到 II 期阻滞，因为乙酰胆碱受体变得不敏感和失活（即，功能上类似于非去极化阻滞）。\n\n琥珀酰胆碱通常用于快速顺序插管，因为它起效迅速（<1 分钟）。作用持续时间由血浆胆碱酯酶代谢决定，通常 <10 分钟。然而，一些患者是异常血浆胆碱酯酶的纯合子，它分解琥珀酰胆碱的速度较慢。在这些患者中，麻痹可能持续数小时，并且他们必须保持机械通气，直到恢复自主呼吸。\n\n（选项 A）丹曲林通过减少来自肌质网的 Ca2+ 释放来松弛骨骼肌。丹曲林用于治疗恶性高热和神经安定剂恶性综合征。它通常不被用作神经肌肉麻痹剂。\n\n（选项 B）苯二氮卓类药物对镇静有效，但它们对 NMJ 没有直接作用，并且不能提供足够的肌肉麻痹来促进插管。\n\n（选项 C 和 E）泮库溴铵和筒箭毒碱是非去极化 NMJ 阻滞剂。与去极化 NMJ 药物不同，这些药物不以不同的阶段起作用，它们的 TOF 反应始终显示衰减模式。新斯的明给药可逆转非去极化 NMJ 阻滞。\n\n教育目标：\n琥珀酰胆碱是一种快速作用的去极化神经肌肉阻滞剂，用于快速顺序插管，可在四联刺激期间引起所有 4 次抽搐的同等减少（I 期阻滞）。长期使用琥珀酰胆碱或用于血浆胆碱酯酶活性异常的患者会导致过渡到 II 期（非去极化）阻滞，表现为 4 次抽搐中的每一次逐渐减少。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of neuromuscular blocking agents, specifically depolarizing (succinylcholine) versus non-depolarizing agents, and their effects on train-of-four stimulation. It also assesses understanding of prolonged paralysis due to atypical plasma cholinesterase.\n\nTo solve this question, recognize that the patient initially had equal reduction of all 4 twitches (phase I blockade), but later developed a progressive reduction (fading pattern), indicating a phase II blockade. This suggests prolonged succinylcholine effect due to atypical plasma cholinesterase.",
+    "zh": "这个问题测试了对神经肌肉阻滞剂的了解，特别是去极化剂（琥珀酰胆碱）与非去极化剂，以及它们对四联刺激的影响。它还评估了对由于非典型血浆胆碱酯酶引起的长期麻痹的理解。\n\n要解决这个问题，请认识到患者最初有所有 4 次抽搐的同等减少（I 期阻滞），但后来出现了逐渐减少（衰减模式），表明 II 期阻滞。这表明由于非典型血浆胆碱酯酶而引起的琥珀酰胆碱的长期作用。"
+  },
+  "tags": "Neuromuscular blocking agents; Succinylcholine; Train-of-four stimulation; Phase I blockade; Phase II blockade; Atypical plasma cholinesterase; Rapid-sequence intubation; Anesthesia; Critical care",
+  "category": "Chest",
+  "question_id": "1212",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1212",
+  "extracted_at": "2025-11-05T11:36:46.030384",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:33:50.791957",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

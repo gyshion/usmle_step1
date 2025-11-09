@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "The following vignette applies to the next 2 items. The items in the set must be answered in sequential order. Once you click Proceed to Next Item, you will not be able to add or change an answer.\n\nA 62-year-old woman comes to the emergency department due to difficulty walking that started 3 hours ago. The patient also cannot feel anything on the right side of her body. She has a history of hypertension and diabetes mellitus, and has smoked a pack of cigarettes daily for the past 30 years. The patient's father had a myocardial infarction at age 60. Physical examination shows loss of touch, temperature, and vibratory sensation affecting the entire right side of the body. Sensation is also diminished over the right side of the face. Muscle strength is 5/5 throughout. Speech, vision, and hearing tests are normal.",
+    "zh": "以下病例文本适用于接下来的 2 个项目。该组中的项目必须按顺序回答。一旦您点击“继续下一项”，您将无法添加或更改答案。\n\n一位 62 岁女性因 3 小时前开始的行走困难来到急诊科。患者也无法感觉到身体右侧的任何东西。她有高血压和糖尿病病史，并且过去 30 年每天吸一包香烟。患者的父亲在 60 岁时患有心肌梗死。体格检查显示触觉、温度和振动觉丧失，影响整个身体右侧。面部右侧的感觉也减弱。全身肌力为 5/5。言语、视力和听力测试均正常。"
+  },
+  "question": {
+    "en": "This patient most likely experienced a stroke affecting which of the following brain structures?",
+    "zh": "该患者最有可能经历了影响以下哪种脑结构的卒中？"
+  },
+  "options": {
+    "A": {
+      "en": "Left pons",
+      "zh": "左侧脑桥"
+    },
+    "B": {
+      "en": "Left somatosensory cortex",
+      "zh": "左侧体感皮层"
+    },
+    "C": {
+      "en": "Left thalamus",
+      "zh": "左侧丘脑"
+    },
+    "D": {
+      "en": "Right pons",
+      "zh": "右侧脑桥"
+    },
+    "E": {
+      "en": "Right somatosensory cortex",
+      "zh": "右侧体感皮层"
+    },
+    "F": {
+      "en": "Right thalamus",
+      "zh": "右侧丘脑"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has had a stroke, resulting in hemisensory loss of the right arm, leg, and face. Strokes in many CNS locations can result in sensory loss and can be further localized according to the specific pattern:\n\n• Primary somatosensory cortex: Deficits are contralateral to the lesion. Based on the blood supply and the somatotopic organization of the somatosensory cortex, sensory deficits do not often impact the face, arm, and leg equally. Other deficits related to nearby cortical areas (eg, motor weakness, aphasia) are usually present (Choices B and E).\n\n• Thalamus: The thalamic ventral posterior lateral nucleus receives input from the spinothalamic tract and dorsal columns, and the ventral posterior medial nucleus receives input from the trigeminal pathway. Damage to these nuclei (eg, ischemia, hemorrhage) may result in contralateral complete sensory loss (eg, touch, pain/temperature, vibration/proprioception).\n\n• Lateral pons or medulla: Strokes in these areas can lead to contralateral loss of pain and temperature sensation of the body (due to impact of the spinothalamic tract) and the ipsilateral face (due to impact of the spinal trigeminal nucleus). Patients often have vertigo, ataxia, and bulbar weakness (ie, lateral medullary syndrome).\n\n• Medial medulla: Damage to the medial lemniscus can result in contralateral loss of vibration and joint position sense. It is typically also associated with contralateral arm and/or leg weakness and ipsilateral tongue weakness (medial medullary syndrome).\n\n• Spinal cord: Damage to the spinal cord causes specific patterns of sensation loss that do not impact the face.\n\nIn addition to sensation loss of touch, vibration, and temperature, this patient's unsteady gait despite normal muscle strength suggests a severe proprioception deficit; her complete right-sided hemisensory loss with intact motor strength most likely indicates a lesion affecting the left thalamus.\n\n(Choices A and D) Stroke in the lateral pons typically leads to a classic combination of symptoms (lateral pontine syndrome) that includes loss of pain and temperature sensation of the contralateral body (spinothalamic tracts) and ipsilateral face (spinal trigeminal tract), ataxia (cerebellar trunks), facial weakness (lower motor neuron pattern), hearing loss and/or vertigo (vestibulocochlear nerve [CN VIII]), and contralateral hemiplegia (descending motor tracts).\n\n(Choice F) Sensory deficits due to a lesion in the thalamus are contralateral to the site of the lesion. Therefore, a lesion in the right thalamus would lead to left hemisensory loss.\n\nEducational objective: A stroke impacting the thalamus can lead to sensory loss affecting all tactile modalities (eg, touch, pain/temperature, vibration/proprioception) in the contralateral face, arm, and leg.",
+    "zh": "该患者发生了卒中，导致右侧手臂、腿部和面部出现半身感觉缺失。许多中枢神经系统 (CNS) 部位的卒中可导致感觉丧失，并可根据特定模式进一步定位：\n\n• 主要体感皮层：缺陷与病变对侧。根据体感皮层的血液供应和体表定位组织，感觉缺陷通常不会对面部、手臂和腿部产生同等影响。通常会出现与其他皮质区域相关的其他缺陷（例如，运动无力、失语症）（选项 B 和 E）。\n\n• 丘脑：丘脑腹后外侧核接收来自脊髓丘脑束和后柱的输入，腹后内侧核接收来自三叉神经通路的输入。这些核的损伤（例如，缺血、出血）可能导致对侧完全感觉丧失（例如，触觉、疼痛/温度、振动/本体感觉）。\n\n• 外侧脑桥或延髓：这些区域的卒中可导致身体对侧疼痛和温度感觉丧失（由于脊髓丘脑束的影响）以及同侧面部（由于脊髓三叉神经核的影响）。患者通常有眩晕、共济失调和延髓无力（即，外侧延髓综合征）。\n\n• 内侧延髓：内侧丘系损伤可导致对侧振动觉和关节位置觉丧失。它通常还与对侧手臂和/或腿部无力以及同侧舌无力相关（内侧延髓综合征）。\n\n• 脊髓：脊髓损伤会导致特定的感觉丧失模式，不会影响面部。\n\n除了触觉、振动觉和温度感觉丧失外，尽管肌肉力量正常，但该患者步态不稳，提示本体感觉严重缺陷；她右侧完全半身感觉丧失，但运动力量完好，最有可能表明病变影响左侧丘脑。\n\n（选项 A 和 D）外侧脑桥卒中通常会导致经典的症状组合（外侧脑桥综合征），包括对侧身体（脊髓丘脑束）和同侧面部（脊髓三叉神经束）的疼痛和温度感觉丧失、共济失调（小脑干）、面部无力（下运动神经元模式）、听力丧失和/或眩晕（前庭耳蜗神经 [CN VIII]）以及对侧偏瘫（下行运动束）。\n\n（选项 F）由于丘脑病变引起的感觉缺陷与病变部位对侧。因此，右侧丘脑的病变将导致左侧半身感觉缺失。\n\n教育目标：影响丘脑的卒中可导致感觉丧失，影响对侧面部、手臂和腿部的所有触觉模式（例如，触觉、疼痛/温度、振动/本体感觉）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of neuroanatomy and the localization of sensory deficits caused by stroke. It requires correlating specific sensory symptoms (loss of touch, temperature, vibration, and proprioception affecting the face, arm, and leg) with the brain structures responsible for processing this sensory information.\n\nTo solve this question, one must first identify the pattern of sensory loss (contralateral hemisensory loss). Then, by considering the specific modalities affected and the distribution of the deficits (face, arm, and leg), the most likely affected brain structure can be deduced by recalling the sensory pathways and the functions of different brain regions like the somatosensory cortex, thalamus, and brainstem.",
+    "zh": "此题考察对神经解剖学的理解以及卒中引起的感觉缺陷的定位。它需要将特定的感觉症状（影响面部、手臂和腿部的触觉、温度、振动和本体感觉丧失）与负责处理此感觉信息的脑结构相关联。\n\n要解决此题，首先必须确定感觉缺失的模式（对侧半身感觉缺失）。然后，通过考虑受影响的特定模式和缺陷的分布（面部、手臂和腿部），可以通过回忆感觉通路以及不同脑区（如体感皮层、丘脑和脑干）的功能来推断最可能受影响的脑结构。"
+  },
+  "tags": "Stroke; Neuroanatomy; Sensory loss; Thalamus; Somatosensory cortex; Brainstem; Hemisensory loss; Proprioception; Spinothalamic tract; Medial lemniscus",
+  "category": "Neuro",
+  "question_id": "2076",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\2076",
+  "extracted_at": "2025-11-05T19:39:11.345469",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:39:13.910552",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

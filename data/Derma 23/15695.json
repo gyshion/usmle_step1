@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 12-year-old boy is brought to the office due to a week of nonproductive cough and rash. He has also had low-grade fevers, malaise, and headaches. The patient has no prior medical conditions and is up to date with immunizations. Lung examination reveals bilateral crackles and wheezes. There is a diffuse rash on his torso and extremities as shown in the exhibit {{exhibit_1}}.",
+    "zh": "一名12岁男孩因一周的无痰咳嗽和皮疹前来就诊。他还伴有低烧、不适和头痛。患者既往无疾病史，且已完成疫苗接种。肺部检查显示双侧啰音和喘息。他的躯干和四肢出现弥漫性皮疹，如{{exhibit_1}}所示。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's skin lesions?",
+    "zh": "以下哪项最可能是该患者皮肤病变的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Cytotoxic T-cell–mediated epithelial injury",
+      "zh": "细胞毒性T细胞介导的上皮损伤"
+    },
+    "B": {
+      "en": "Inflammatory reaction in subcutaneous fat",
+      "zh": "皮下脂肪的炎症反应"
+    },
+    "C": {
+      "en": "Keratinocyte hyperproliferation and parakeratosis",
+      "zh": "角质细胞过度增生和角化不全"
+    },
+    "D": {
+      "en": "Subepidermal immunoglobulin A deposition",
+      "zh": "表皮下免疫球蛋白A沉积"
+    },
+    "E": {
+      "en": "Vasoactive mediator release from mast cells",
+      "zh": "肥大细胞释放血管活性介质"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's target-shaped skin lesions likely indicate erythema multiforme (EM), an acute, inflammatory skin disorder that usually develops in the setting of an ongoing infection. Although herpes simplex virus is the most common trigger, respiratory tract infections due to Mycoplasma pneumoniae (eg, low-grade fever, headache, fatigue, cough, wheezes) frequently cause EM in children.\n\nEM develops when circulating pathogens are phagocytosed by peripheral mononuclear cells and are brought to the epidermis, where DNA fragments are transferred to keratinocytes via direct cell-to-cell spread (facilitated by upregulation of adhesion molecules). Pathogen-specific cytotoxic T-cells then recognize foreign antigens produced by keratinocytes and initiate an inflammatory cascade that results in epithelial damage. Manifestations of EM include target-shaped lesions {{exhibit_2}} on the extremities and trunk that have a central dusky area, a surrounding pale ring of edema, and a peripheral halo of erythema. Mucosal lesions also sometimes occur.\n\n(Choice B) Erythema nodosum is a delayed-type hypersensitivity reaction that causes inflammatory nodules in the subcutaneous fat. Although it can be triggered by infection, patients generally have tender, erythematous nodules on the bilateral shins (not target-shaped lesions).\n\n(Choice C) Psoriasis is an immune-mediated inflammatory disease associated with cytokine-driven keratinocyte hyperproliferation and parakeratosis. It usually causes erythematous, chronic skin plaques with silvery scales on the extensor elbows, scalp, and/or knees.\n\n(Choice D) Dermatitis herpetiformis, a manifestation of gluten sensitivity, is caused by the subepidermal deposition of IgA. It is associated with pruritic papules and vesicles on the forearms, knees, and/or scalp (not target-shaped lesions).\n\n(Choice E) Urticaria is caused by the release of inflammatory and vasoactive mediators from mast cells in the superficial dermis. Infections (eg, parasites) can cause urticaria, but patients generally have well-circumscribed, raised, pruritic, erythematous plaques. Sometimes the lesions have central pallor, but they are not target-shaped.\n\nEducational objective:\nErythema multiforme is a target-shaped, inflammatory skin lesion that typically arises in the setting of infection, particularly with herpes simplex virus or Mycoplasma pneumoniae. It is caused by the deposition of infectious antigens in keratinocytes, leading to a strong cell-mediated (eg, cytotoxic T-cell) immune response. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "该患者的靶形皮肤病变可能表明多形性红斑（EM），这是一种急性炎症性皮肤病，通常发生在持续感染的情况下。虽然单纯疱疹病毒是最常见的诱因，但由肺炎支原体引起的呼吸道感染（例如，低烧、头痛、疲劳、咳嗽、喘息）经常会导致儿童出现EM。\n\n当循环病原体被外周单核细胞吞噬并带到表皮时，EM就会发展，在那里，DNA片段通过直接的细胞间传播（通过粘附分子的上调促进）转移到角质形成细胞。然后，病原体特异性细胞毒性T细胞识别由角质形成细胞产生的异源抗原，并启动炎症级联反应，导致上皮损伤。EM的表现包括四肢和躯干上的靶形病变 {{exhibit_2}}，其中心区域呈暗色，周围有水肿的苍白环，以及周围的红斑晕。有时也会出现粘膜病变。\n\n(选项B) 结节性红斑是一种迟发型超敏反应，可在皮下脂肪中引起炎症性结节。虽然它可以由感染触发，但患者通常在双侧胫骨上出现触痛性红斑结节（而非靶形病变）。\n\n(选项C) 银屑病是一种免疫介导的炎症性疾病，与细胞因子驱动的角质形成细胞过度增生和角化不全有关。它通常会在伸肘、头皮和/或膝盖上引起红斑性、慢性皮肤斑块，并伴有银色鳞屑。\n\n(选项D) 疱疹样皮炎是麸质敏感性的一种表现，由IgA的表皮下沉积引起。它与前臂、膝盖和/或头皮上的瘙痒性丘疹和水疱有关（而非靶形病变）。\n\n(选项E) 荨麻疹是由肥大细胞在浅表真皮中释放炎症和血管活性介质引起的。感染（例如，寄生虫）可引起荨麻疹，但患者通常会出现界限清楚、隆起、瘙痒的红斑性斑块。有时病变中心会发白，但它们不是靶形的。\n\n教育目标：\n多形性红斑是一种靶形炎症性皮肤病变，通常发生在感染的背景下，特别是单纯疱疹病毒或肺炎支原体感染。它是由感染性抗原在角质形成细胞中的沉积引起的，导致强烈的细胞介导（例如，细胞毒性T细胞）免疫反应。{{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of erythema multiforme (EM), its clinical presentation with target-shaped lesions, common infectious triggers like Mycoplasma pneumoniae, and the underlying cytotoxic T-cell mediated immune response.\n\nTo solve this question, recognize the target-shaped lesions as characteristic of EM, consider the patient's recent respiratory symptoms suggesting a Mycoplasma infection, and understand the role of cytotoxic T-cells in the pathogenesis of EM.",
+    "zh": "此题考察对多形性红斑（EM）的认识，包括其以靶形病变为特征的临床表现、常见的感染诱因（如肺炎支原体）以及潜在的细胞毒性T细胞介导的免疫反应。\n\n要解决这个问题，需要识别靶形病变是EM的特征，考虑患者近期出现的呼吸道症状提示可能存在支原体感染，并了解细胞毒性T细胞在EM发病机制中的作用。"
+  },
+  "tags": "Erythema multiforme; Mycoplasma pneumoniae; Cytotoxic T-cells; Skin lesions; Infectious disease; Dermatology; Immunology",
+  "category": "Derma",
+  "question_id": "15695",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\15695",
+  "extracted_at": "2025-11-05T12:21:52.797306",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:34:25.717981",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

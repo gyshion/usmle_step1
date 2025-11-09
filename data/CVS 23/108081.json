@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 52-year-old man with hypertension begins taking a new antihypertensive agent that is expected to enhance natriuresis while also causing a sustained decrease in serum angiotensin II concentration and aldosterone production. The effects of this medication are most similar to which of the following drug classes? {{exhibit_1}}",
+    "zh": "一名患有高血压的52岁男性开始服用一种新的降压药，预计该药在增强钠尿的同时，也会导致血清血管紧张素II浓度和醛固酮生成的持续下降。这种药物的作用与以下哪一类药物最相似？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "The effects of this medication are most similar to which of the following drug classes?",
+    "zh": "这种药物的作用与以下哪一类药物最相似？"
+  },
+  "options": {
+    "A": {
+      "en": "Alpha-1 adrenergic blocker",
+      "zh": "α-1肾上腺素能受体阻滞剂"
+    },
+    "B": {
+      "en": "Angiotensin II receptor blocker",
+      "zh": "血管紧张素II受体阻滞剂"
+    },
+    "C": {
+      "en": "Direct renin inhibitor",
+      "zh": "直接肾素抑制剂"
+    },
+    "D": {
+      "en": "Loop diuretic",
+      "zh": "袢利尿剂"
+    },
+    "E": {
+      "en": "Mineralocorticoid receptor antagonist",
+      "zh": "盐皮质激素受体拮抗剂"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Renin-angiotensin-aldosterone system (RAAS) overactivity can have a significant role in the development of hypertension. Renin is produced in the juxtaglomerular cells of the kidney in response to hypoperfusion. Renin cleaves angiotensinogen into angiotensin I, which is converted to angiotensin II by angiotensin-converting enzyme (ACE) in the lungs. Angiotensin II is a potent vasoconstrictor that also promotes aldosterone production in the adrenal cortex. Aldosterone acts on the collecting ducts to increase renal sodium and water reabsorption, which increases intravascular blood volume and blood pressure.\n\nAny medication that inhibits RAAS activity will enhance natriuresis via a reduction in aldosterone activity. The only listed medication that enhances natriuresis while also decreasing angiotensin II level and aldosterone production is a direct renin inhibitor (eg, aliskiren). ACE inhibitors (eg, lisinopril) prevent conversion of angiotensin I to angiotensin II and also enhance natriuresis while decreasing angiotensin II levels and aldosterone production.\n\n(Choice A) Alpha-1 adrenergic blockers (eg, terazosin, doxazosin) are vasodilators that are occasionally used to treat hypertension. These drugs decrease blood pressure via direct vasodilation and do not decrease angiotensin II or aldosterone concentrations or induce natriuresis.\n\n(Choice B) Angiotensin II receptor blockers (eg, losartan) prevent angiotensin II from acting on angiotensin receptors. These drugs reduce aldosterone production and induce natriuresis, but they increase angiotensin II levels (the RAAS is blocked after angiotensin I is converted to angiotensin II).\n\n(Choice D) Loop diuretics (eg, furosemide) induce natriuresis but do not inhibit RAAS activity. The decreased blood volume caused by loop diuretics actually stimulates renin release, which then increases angiotensin II and aldosterone concentrations.\n\n(Choice E) Mineralocorticoid receptor antagonists (eg, spironolactone) block aldosterone receptors to induce natriuresis. However, angiotensin II and aldosterone levels are increased.\n\nEducational objective:\nThe renin-angiotensin-aldosterone system (RAAS) is integrally involved in the pathophysiology and treatment of hypertension. RAAS activity can be reduced by several classes of antihypertensives, all of which will induce natriuresis by decreasing the effects of aldosterone. Direct renin inhibitors and ACE inhibitors accomplish this by lowering circulating levels of angiotensin II. {{exhibit_2}}",
+    "zh": "肾素-血管紧张素-醛固酮系统 (RAAS) 的过度活动在高血压的发展中起着重要作用。肾素是在肾脏的球旁细胞中产生的，以应对灌注不足。肾素将血管紧张素原分解为血管紧张素I，后者在肺中被血管紧张素转换酶 (ACE) 转化为血管紧张素II。血管紧张素II是一种有效的血管收缩剂，也可以促进肾上腺皮质中醛固酮的产生。醛固酮作用于集合管，增加肾钠和水的重吸收，从而增加血管内血容量和血压。\n\n任何抑制RAAS活性的药物都将通过降低醛固酮活性来增强钠尿。唯一列出的能够增强钠尿，同时降低血管紧张素II水平和醛固酮生成的药物是直接肾素抑制剂（例如，阿利吉仑）。ACE抑制剂（例如，赖诺普利）可阻止血管紧张素I转化为血管紧张素II，并增强钠尿，同时降低血管紧张素II水平和醛固酮生成。\n\n（选项A）α-1肾上腺素能受体阻滞剂（例如，特拉唑嗪、多沙唑嗪）是血管扩张剂，偶尔用于治疗高血压。这些药物通过直接血管扩张降低血压，并且不会降低血管紧张素II或醛固酮浓度，也不会诱导钠尿。\n\n（选项B）血管紧张素II受体阻滞剂（例如，氯沙坦）可阻止血管紧张素II作用于血管紧张素受体。这些药物可降低醛固酮的产生并诱导钠尿，但会增加血管紧张素II水平（RAAS在血管紧张素I转化为血管紧张素II后被阻断）。\n\n（选项D）袢利尿剂（例如，呋塞米）可诱导钠尿，但不会抑制RAAS活性。袢利尿剂引起的血容量减少实际上会刺激肾素释放，从而增加血管紧张素II和醛固酮的浓度。\n\n（选项E）盐皮质激素受体拮抗剂（例如，螺内酯）可阻断醛固酮受体以诱导钠尿。然而，血管紧张素II和醛固酮水平会升高。\n\n教育目标：\n肾素-血管紧张素-醛固酮系统 (RAAS) 完整地参与了高血压的病理生理学和治疗。RAAS活性可以通过几类降压药来降低，所有这些药物都会通过降低醛固酮的作用来诱导钠尿。直接肾素抑制剂和ACE抑制剂通过降低循环血管紧张素II水平来实现这一点。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the renin-angiotensin-aldosterone system (RAAS) and the mechanism of action of different antihypertensive drug classes, specifically focusing on their effects on natriuresis, angiotensin II, and aldosterone levels. Understanding the RAAS pathway and how each drug class impacts it is crucial.\n\nTo solve this question, identify the desired effects (enhanced natriuresis, decreased angiotensin II, decreased aldosterone) and match them to the mechanism of action of the drug classes provided. Direct renin inhibitors are the only class that directly inhibits renin, leading to the desired effects.",
+    "zh": "这个问题测试了对肾素-血管紧张素-醛固酮系统 (RAAS) 以及不同降压药种类的作用机制的了解，特别是侧重于它们对钠尿、血管紧张素II和醛固酮水平的影响。了解RAAS通路以及每种药物种类如何影响它是至关重要的。\n\n要解决这个问题，请确定所需的效果（增强钠尿、降低血管紧张素II、降低醛固酮）并将它们与所提供的药物种类的作用机制相匹配。直接肾素抑制剂是唯一直接抑制肾素的药物种类，从而产生所需的效果。"
+  },
+  "tags": "Renin-angiotensin-aldosterone system; Hypertension; Natriuresis; Direct renin inhibitors; Antihypertensive agents; Pharmacology; Cardiovascular system",
+  "category": "CVS",
+  "question_id": "108081",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\108081",
+  "extracted_at": "2025-11-05T11:50:02.808740",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:43:55.444096",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

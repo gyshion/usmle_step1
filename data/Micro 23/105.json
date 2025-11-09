@@ -1,0 +1,85 @@
+{
+  "question_stem": {
+    "en": "A 47-year-old man comes to the office due to persistent fever, night sweats, and fatigue. Thorough evaluation yields a diagnosis of chronic myeloid leukemia. While undergoing treatment for his malignancy, the patient experiences headaches, scant nasal discharge, and left eye symptoms. Physical examination reveals tenderness over the paranasal sinuses and left-sided orbital swelling and cellulitis. Mild proptosis and ptosis of the left eye are also present. Biopsy of the sinus mucosa is shown in the image below: {{exhibit_1}}",
+    "zh": "一名47岁男性因持续发热、盗汗和疲劳来诊。全面评估后诊断为慢性髓细胞性白血病。在接受恶性肿瘤治疗期间，患者出现头痛、少量鼻涕和左眼症状。体格检查显示鼻窦压痛和左侧眶周肿胀和蜂窝织炎。左眼也存在轻度眼球突出和上睑下垂。鼻窦黏膜活检见下图：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's condition?",
+    "zh": "以下哪项最可能是该患者病情的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Aspergillus fumigatus",
+      "zh": "烟曲霉"
+    },
+    "B": {
+      "en": "Blastomyces dermatitidis",
+      "zh": "皮炎芽生菌"
+    },
+    "C": {
+      "en": "Candida albicans",
+      "zh": "白色念珠菌"
+    },
+    "D": {
+      "en": "Coccidioides immitis",
+      "zh": "粗球孢子菌"
+    },
+    "E": {
+      "en": "Cryptococcus neoformans",
+      "zh": "新型隐球菌"
+    },
+    "F": {
+      "en": "Histoplasma capsulatum",
+      "zh": "荚膜组织胞浆菌"
+    },
+    "G": {
+      "en": "Malassezia furfur",
+      "zh": "糠秕马拉色菌"
+    },
+    "H": {
+      "en": "Microsporum canis",
+      "zh": "犬小孢子菌"
+    },
+    "I": {
+      "en": "Rhizopus species",
+      "zh": "根霉属"
+    },
+    "J": {
+      "en": "Sporothrix schenckii",
+      "zh": "申克孢子丝菌"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's symptoms are consistent with fungal rhinosinusitis. The biopsy shows fungal hyphae branching at acute angles with septations, findings characteristic of Aspergillus fumigatus {{exhibit_2}}. This fungus is widely distributed in the environment and commonly grows on decaying vegetables. It is monomorphic, existing only in mold form (ie, multicellular hyphae).\n\nAspergillus causes the following conditions:\n\n•\tInvasive aspergillosis develops in immunosuppressed patients. The prolonged neutropenia associated with leukemia and lymphoma treatment is a strong risk factor. It most commonly affects the lung and can cause fever, pleuritic chest pain, and hemoptysis. Aspergillus has a predilection for blood vessels and can spread hematogenously, causing infection and infarcts involving the skin, paranasal sinuses, kidneys, endocardium, and brain. Diagnosis is made by light microscopy, which reveals V-shaped, narrow, septate hyphae invading the tissue. Voriconazole is used to treat invasive aspergillosis.\n\n•\tAspergillomas are Aspergillus fungus balls that grow in old lung cavities (eg, produced by tuberculosis or bronchiectasis). They are limited to the preexisting cavity; invasion of the surrounding lung tissue is rare in immunocompetent patients. Aspergillomas are often surgically removed.\n\n•\tAllergic bronchopulmonary aspergillosis occurs in asthma and presents with wheezing and migratory pulmonary infiltrates. Increased serum IgE and increased titers of antibodies against Aspergillus are characteristic. Treatment is with corticosteroids.\n\n(Choices B, D, and F) Blastomyces, Coccidioides, and Histoplasma are dimorphic fungi. They grow as molds in nature but exist in yeast form in humans (Coccidioides exists in endospore form at body temperature). As a result, hyphae would not be seen in biopsy specimens.\n\n(Choice C) Candida albicans is a component of normal human mucous membrane flora. On light microscopy, it appears as an oval, budding yeast with pseudohyphae (ie, not true hyphae but rather elongated yeast cells).\n\n(Choice E) Cryptococcus neoformans, an oval, budding yeast with a thick capsule, causes meningitis and lung infections in AIDS. India ink stain of cerebrospinal fluid shows a wide, clear zone around the cell corresponding to the unstained capsule.\n\n(Choices G and H) Malassezia furfur and Microsporum canis can cause cutaneous fungal infections. They do not typically cause rhinosinusitis.\n\n(Choice I) Rhizopus and Mucor form broad, ribbon-shaped, nonseptate hyphae that branch at right or wide angles. They cause mucormycosis, which typically presents as a paranasal infection in immunocompromised patients or those with diabetes mellitus. However, Aspergillus can also cause rhinosinusitis identical in presentation to mucormycosis. The presence of narrow hyphae with septations makes invasive aspergillosis more likely.\n\n(Choice J) Sporothrix schenckii, often inoculated into the skin during outdoor activities, typically presents as papulonodular lesions that form along the draining lymphatics.\n\nEducational objective:\nImmunosuppressed patients are at risk for Aspergillus fumigatus infection. This fungus produces thin, septate hyphae with acute, V-shaped branching, causing invasive aspergillosis, aspergillomas, and allergic bronchopulmonary aspergillosis. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "该患者的症状与真菌性鼻窦炎一致。活检显示真菌菌丝以锐角分叉，并伴有分隔，这些是烟曲霉的特征性发现 {{exhibit_2}}。 这种真菌广泛分布于环境中，通常生长在腐烂的蔬菜上。 它是一种单态真菌，仅以霉菌形式存在（即，多细胞菌丝）。\n\n曲霉病可引起以下疾病：\n\n•\t侵袭性曲霉病发生在免疫抑制患者中。 与白血病和淋巴瘤治疗相关的长期中性粒细胞减少是主要的危险因素。 它最常影响肺部，可引起发热、胸膜性胸痛和咯血。 曲霉菌对血管有嗜性，可通过血源性播散，引起涉及皮肤、鼻旁窦、肾脏、心内膜和大脑的感染和梗死。 诊断通过光学显微镜进行，显示 V 形、狭窄、有分隔的菌丝侵入组织。 伏立康唑用于治疗侵袭性曲霉病。\n\n•\t曲霉菌球是在旧肺部空腔（例如，由结核病或支气管扩张引起）中生长的曲霉真菌球。 它们仅限于先前存在的空腔； 在免疫功能正常的患者中，侵入周围肺组织很少见。 曲霉菌球通常通过手术切除。\n\n•\t过敏性支气管肺曲霉病发生在哮喘患者中，表现为喘息和游走性肺浸润。 典型的特征是血清 IgE 升高和抗曲霉抗体滴度升高。 治疗方法是皮质类固醇。\n\n（选项 B、D 和 F）芽生菌、球孢子菌和组织胞浆菌是二态真菌。 它们在自然界中以霉菌形式生长，但在人体中以酵母形式存在（粗球孢子菌在体温下以内生孢子形式存在）。 因此，活检标本中不会看到菌丝。\n\n（选项 C）白色念珠菌是正常人体粘膜菌群的组成部分。 在光学显微镜下，它表现为卵圆形、出芽酵母，带有假菌丝（即，不是真正的菌丝，而是细长的酵母细胞）。\n\n（选项 E）新型隐球菌是一种卵圆形、出芽酵母，具有厚厚的荚膜，可引起艾滋病的脑膜炎和肺部感染。 脑脊液的墨汁染色显示细胞周围有一个宽而清晰的区域，对应于未染色的荚膜。\n\n（选项 G 和 H）糠秕马拉色菌和犬小孢子菌可引起皮肤真菌感染。 它们通常不会引起鼻窦炎。\n\n（选项 I）根霉和毛霉形成宽阔的、带状的、无分隔的菌丝，以直角或宽角分叉。 它们引起毛霉病，毛霉病通常表现为免疫功能低下患者或糖尿病患者的鼻旁感染。 然而，曲霉菌也可引起与毛霉病表现相同的鼻窦炎。 窄的、有分隔的菌丝的存在使得侵袭性曲霉病更有可能。\n\n（选项 J）申克孢子丝菌通常在户外活动期间接种到皮肤中，通常表现为沿着引流淋巴管形成的丘疹结节性病变。\n\n教育目标：\n免疫抑制患者有患烟曲霉感染的风险。 这种真菌产生细的、有分隔的菌丝，具有锐利的 V 形分叉，引起侵袭性曲霉病、曲霉菌球和过敏性支气管肺曲霉病。 {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of invasive fungal infections, specifically Aspergillus fumigatus, in immunocompromised patients. It requires recognizing the clinical presentation of rhinosinusitis in a patient with chronic myeloid leukemia and identifying the characteristic microscopic findings of Aspergillus.\n\nTo solve this question, consider the patient's immunocompromised state and the symptoms of rhinosinusitis. Evaluate the microscopic findings described in the explanation, focusing on the presence of septate hyphae with acute-angle branching, which is characteristic of Aspergillus fumigatus.",
+    "zh": "此题考察了免疫功能低下患者的侵袭性真菌感染知识，特别是烟曲霉。 需要识别慢性髓细胞性白血病患者鼻窦炎的临床表现，并确定曲霉菌的特征性显微镜下表现。\n\n要解决这个问题，请考虑患者的免疫功能低下状态和鼻窦炎的症状。 评估解释中描述的显微镜下表现，重点关注存在有锐角分支的隔膜菌丝，这是烟曲霉的特征。"
+  },
+  "tags": "Aspergillus fumigatus; Invasive aspergillosis; Fungal rhinosinusitis; Chronic myeloid leukemia; Immunocompromised patient; Septate hyphae; Acute-angle branching; Mycology; Infectious disease",
+  "category": "Micro",
+  "question_id": "105",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\105",
+  "extracted_at": "2025-11-05T14:48:30.025083",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:04:03.067531",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

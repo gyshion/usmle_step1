@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A novel antiretroviral medication, Drug X, is being developed for treating patients with HIV infection. Initial studies show a high rate of treatment failure due to continued viral proliferation in the brain. However, treatment success rates improve when Drug X is combined with an adjuvant agent. Data comparing the two medication regimens is shown in the table below.\n\nAverage cerebral spinal fluid (CSF) viral load (1 month)\nAverage CSF viral load (6 months)\nAverage serum concentration of Drug X\n\nDrug X only\n1860 copies/mL\n1640 copies/mL\n550 ng/mL\n\nDrug X + adjuvant\n480 copies/mL\nundetectable\n560 ng/mL",
+    "zh": "一种新型抗逆转录病毒药物，药物X，正在开发用于治疗HIV感染患者。初步研究表明，由于病毒持续在大脑中增殖，治疗失败率很高。然而，当药物X与佐剂联合使用时，治疗成功率会提高。下表显示了这两种药物方案的比较数据。\n\n平均脑脊液（CSF）病毒载量（1个月）\n平均脑脊液病毒载量（6个月）\n药物X的平均血清浓度\n\n仅药物X\n1860拷贝/mL\n1640拷贝/mL\n550 ng/mL\n\n药物X + 佐剂\n480拷贝/mL\n无法检测到\n560 ng/mL"
+  },
+  "question": {
+    "en": "Based on the data, the adjuvant agent most likely improves viral control through which of the following mechanisms?",
+    "zh": "根据数据，佐剂最有可能通过以下哪种机制改善病毒控制？"
+  },
+  "options": {
+    "A": {
+      "en": "Blocking first-pass metabolism",
+      "zh": "阻断首过效应代谢"
+    },
+    "B": {
+      "en": "Decreasing cytochrome P450 metabolism",
+      "zh": "减少细胞色素P450代谢"
+    },
+    "C": {
+      "en": "Diminishing blood flow to the choroid plexus",
+      "zh": "减少脉络丛的血流量"
+    },
+    "D": {
+      "en": "Inhibiting cellular efflux transporters",
+      "zh": "抑制细胞外排转运蛋白"
+    },
+    "E": {
+      "en": "Reducing glomerular filtration of the drug",
+      "zh": "减少药物的肾小球滤过"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The study results show that the cerebral spinal fluid (CSF) viral load level remains elevated when subjects are treated with Drug X alone but becomes undetectable when Drug X is combined with the adjuvant agent. Because average serum levels are relatively equal between the 2 groups, it is likely that the adjuvant improves the efficacy of Drug X by increasing its ability to penetrate the BLOOD-BRAIN BARRIER (BBB).\n\nMany drugs have a difficult time crossing the BBB due to the presence of specialized endothelial cells with very tight intercellular junctions that form a physical barrier separating the CNS from the circulation. In addition, multidrug transport proteins, particularly P-glycoprotein, are highly expressed on the luminal membrane of brain capillary endothelial cells. P-glycoprotein is an ATP-driven efflux pump that actively removes a wide range of substrates from cells, including many commonly prescribed drugs (eg, antibiotics, immunosuppressant agents, HIV protease inhibitors).\n\nIn HIV infection, poor penetration of antiretroviral medications allows the brain to act as an anatomical sanctuary where viral replication can proceed unchecked, facilitating the development of resistant strains. Methods of bypassing the BBB (eg, disruption of tight junctions, P-glycoprotein inhibition) can improve drug delivery to the CNS. P-glycoprotein transporters are also found on the apical surface of enterocytes and can limit drug bioavailability by pumping the drug back into the intestinal lumen. However, inhibition of P-glycoprotein can have a variable effect on serum drug levels, as increased bioavailability is often countered by increased drug distribution (eg, into the CSF or intracellular compartments).\n\n(Choices A, B, and E) Reduced drug metabolism or decreased excretion could potentially improve drug efficacy by increasing average serum drug levels. However, in this experiment, serum drug levels increased by only 10 ng/mL (~2%) with coadministration of the adjuvant. This minimal increase in drug concentration is not representative of a significant change in drug metabolic/clearance parameters and is unlikely to lead to increased BBB penetration.\n\n(Choice C) The choroid plexus is the site of CSF production and can function as an alternate entryway into the CNS. However, the excretion of a substance by the choroid plexus is directly dependent on choroidal blood flow; diminished blood flow would reduce the excretion of a particular substance into the CSF.\n\nEducational objective: P-glycoprotein is an efflux pump found on brain capillary endothelial cells (part of the blood-brain barrier) that inhibits a wide range of substrates from entering the brain. Inhibition of P-glycoprotein can improve drug delivery to the CNS.",
+    "zh": "研究结果表明，当受试者单独使用药物X时，脑脊液（CSF）病毒载量水平仍然升高，但当药物X与佐剂联合使用时，病毒载量水平则变得无法检测到。由于两组的平均血清水平相对相等，佐剂很可能通过增加药物X穿透血脑屏障（BBB）的能力来提高其疗效。\n\n许多药物由于存在特化的内皮细胞和非常紧密的细胞间连接而难以穿过血脑屏障，这些细胞形成了将中枢神经系统与循环系统分隔的物理屏障。此外，多药转运蛋白，特别是P-糖蛋白，在高表达于脑毛细血管内皮细胞的管腔膜上。P-糖蛋白是一种ATP驱动的外排泵，可主动从细胞中移除多种底物，包括许多常用药物（例如，抗生素、免疫抑制剂、HIV蛋白酶抑制剂）。\n\n在HIV感染中，抗逆转录病毒药物的渗透性差，这使得大脑成为病毒复制可以不受控制地进行解剖学避难所，从而促进耐药菌株的产生。绕过血脑屏障的方法（例如，破坏紧密连接、抑制P-糖蛋白）可以改善药物向中枢神经系统的输送。P-糖蛋白转运蛋白也存在于肠细胞的顶端表面，并且可以通过将药物泵回肠腔来限制药物的生物利用度。然而，抑制P-糖蛋白对血清药物水平的影响是可变的，因为生物利用度的增加通常会被药物分布的增加（例如，进入脑脊液或细胞内隔室）所抵消。\n\n（选项 A、B 和 E）减少药物代谢或减少排泄，理论上可以通过增加平均血清药物水平来提高药物的疗效。然而，在本实验中，与佐剂共同给药后，血清药物水平仅增加了10 ng/mL（~2%）。这种药物浓度的微小增加并不能代表药物代谢/清除参数的显着变化，并且不太可能导致BBB穿透的增加。\n\n（选项 C）脉络丛是脑脊液产生的位置，可以作为进入中枢神经系统的另一条途径。但是，物质通过脉络丛的排泄直接取决于脉络丛的血流；血流减少会减少特定物质向脑脊液的排泄。\n\n教育目标：P-糖蛋白是一种外排泵，存在于脑毛细血管内皮细胞（血脑屏障的一部分）上，可抑制多种底物进入大脑。抑制P-糖蛋白可以改善药物向中枢神经系统的输送。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of drug transport mechanisms across the blood-brain barrier and how adjuvant therapy can enhance the efficacy of antiretroviral medications for HIV infection in the central nervous system. It specifically assesses knowledge of efflux transporters like P-glycoprotein and their role in limiting drug penetration into the brain.\n\nTo solve this question, analyze the provided data comparing Drug X alone versus Drug X with an adjuvant, noting the significant reduction in CSF viral load with the adjuvant despite similar serum concentrations. Consider the known barriers to CNS drug penetration, particularly the blood-brain barrier and the role of efflux transporters. Evaluate each option based on its potential to increase drug concentration within the CSF and thus improve viral control.",
+    "zh": "本题测试对药物通过血脑屏障的转运机制的理解，以及佐剂治疗如何增强中枢神经系统中抗逆转录病毒药物治疗HIV感染的疗效。它特别评估了对P-糖蛋白等外排转运蛋白及其在限制药物渗透入脑中的作用的知识。\n\n要解决这个问题，请分析提供的比较单独使用药物X与使用药物X加佐剂的数据，注意到尽管血清浓度相似，但佐剂使CSF病毒载量显着降低。考虑已知的中枢神经系统药物渗透屏障，特别是血脑屏障和外排转运蛋白的作用。根据每个选项增加CSF内药物浓度从而改善病毒控制的潜力来评估每个选项。"
+  },
+  "tags": "Antiretroviral therapy; HIV; Blood-brain barrier; P-glycoprotein; Efflux transporters; Pharmacokinetics; Central nervous system; Drug delivery; Pharmacology",
+  "category": "Pharma",
+  "question_id": "18419",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\18419",
+  "extracted_at": "2025-11-05T19:45:20.529239",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:47:28.284034",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

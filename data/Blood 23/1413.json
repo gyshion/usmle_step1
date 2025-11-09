@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "Scientists studying the principles behind oxygen-hemoglobin dissociation have discovered a way to successfully separate hemoglobin tetramers into individual alpha and beta subunits. During an experiment, a solution is created that contains only monomeric beta-hemoglobin subunits under physiologic conditions. {{exhibit_1}} If measured, the oxygen dissociation curve of the dissolved beta subunits will most likely resemble which of the following lines? {{exhibit_2}}",
+    "zh": "研究氧-血红蛋白解离原理的科学家们发现了一种成功将血红蛋白四聚体分离成单个α和β亚基的方法。在一个实验中，创建了一个溶液，其中仅包含在生理条件下单体β-血红蛋白亚基。{{exhibit_1}} 如果测量，溶解的β亚基的氧解离曲线最有可能类似于以下哪条线？{{exhibit_2}}"
+  },
+  "question": {
+    "en": "If measured, the oxygen dissociation curve of the dissolved beta subunits will most likely resemble which of the following lines?",
+    "zh": "如果测量，溶解的β亚基的氧解离曲线最有可能类似于以下哪条线？"
+  },
+  "options": {
+    "A": {
+      "en": "Line A",
+      "zh": "A线"
+    },
+    "B": {
+      "en": "Line B",
+      "zh": "B线"
+    },
+    "C": {
+      "en": "Line C",
+      "zh": "C线"
+    },
+    "D": {
+      "en": "Line D",
+      "zh": "D线"
+    },
+    "E": {
+      "en": "Line E",
+      "zh": "E线"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The individual subunits of the hemoglobin molecule are structurally analogous to myoglobin. If separated, the monomeric subunits will demonstrate a hyperbolic oxygen-dissociation curve similar to that of myoglobin.",
+    "zh": "血红蛋白分子的各个亚基在结构上类似于肌红蛋白。如果分离，单体亚基将表现出类似于肌红蛋白的抛物线型氧解离曲线。"
+  },
+  "summary": {
+    "en": "The question asks about the oxygen dissociation curve of isolated beta-hemoglobin subunits. The correct answer is Line A, which represents a hyperbolic curve similar to myoglobin's oxygen dissociation curve.",
+    "zh": "本题询问分离的β-血红蛋白亚基的氧解离曲线。正确答案是A线，它代表类似于肌红蛋白的抛物线型曲线。"
+  },
+  "tags": [
+    "hemoglobin",
+    "oxygen dissociation curve",
+    "myoglobin",
+    "beta subunits"
+  ],
+  "category": "Blood",
+  "question_id": "1413",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1413",
+  "extracted_at": "2025-11-05T11:23:47.468667",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:26:55.707077",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

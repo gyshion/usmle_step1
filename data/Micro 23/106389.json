@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 61-year-old woman is sent to the emergency department by her oncologist due to possible systemic infection from an indwelling venous catheter. The patient was recently diagnosed with breast adenocarcinoma and had a central venous catheter placed to receive systemic chemotherapy. She completed a cycle of cytotoxic chemotherapy 10 days ago. The patient has no other medical conditions. Laboratory studies performed at the office revealed a leukocyte count of 800/mm³ with 10% neutrophils.",
+    "zh": "一名61岁的女性因可能由置入性静脉导管引起的全身性感染而被她的肿瘤科医生送往急诊科。患者最近被诊断患有乳腺腺癌，并放置了中心静脉导管以接受全身化疗。她在10天前完成了化疗周期。患者没有其他疾病。在办公室进行的实验室检查显示白细胞计数为800/mm³，其中中性粒细胞为10%。"
+  },
+  "question": {
+    "en": "Which of the following signs typically associated with a catheter-related bloodstream infection is most likely to be absent in this patient?",
+    "zh": "以下哪种通常与导管相关血流感染相关的体征最有可能在此患者中缺失？"
+  },
+  "options": {
+    "A": {
+      "en": "Erythema at catheter site",
+      "zh": "导管部位红斑"
+    },
+    "B": {
+      "en": "Fever and chills",
+      "zh": "发烧和寒战"
+    },
+    "C": {
+      "en": "Hypotension and tachycardia",
+      "zh": "低血压和心动过速"
+    },
+    "D": {
+      "en": "Purulence at catheter site",
+      "zh": "导管部位脓液"
+    },
+    "E": {
+      "en": "Tenderness at catheter site",
+      "zh": "导管部位压痛"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with breast adenocarcinoma underwent cytotoxic chemotherapy and now has a suspected catheter-related bloodstream infection (CRBSI). Cytotoxic chemotherapy induces apoptosis in dividing cells by preventing mitosis or damaging DNA. Although this destroys rapidly dividing tumor cells, it also kills healthy cells that have high turnover rates, such as hair follicle cells, gastrointestinal epithelial cells, and bone marrow stem cells. \n\nTherefore, one of the most common adverse effects of cytotoxic chemotherapy is myelosuppression, which frequently leads to pancytopenia 10-14 days after treatment. Reductions in erythrocytes can impede functional status, and reduction in platelets can cause bleeding. However, the most serious aspect of myelosuppression is the destruction of granulocyte precursors, leading to increased infection risk due to neutropenia (typically defined as an absolute neutrophil count <1,000/mm³).\n\nNeutrophils are normally the most prevalent circulating leukocyte and are a crucial component of innate immunity against bacterial and fungal infections. Therefore, patients with neutropenia are unable to mount a strong, initial defense against invading bacterial pathogens, leading to rapid-onset, life-threatening infection.\n\nPurulence is usually absent because it forms only when there are enough neutrophils to substantially accumulate in an area of infection. However, other signs of infection that do not rely on neutrophils may be present. Bacterial components activate toll-like receptors on macrophages and dendritic cells, which subsequently release inflammatory cytokines that cause local tissue inflammation (eg, erythema, swelling, pain) and systemic symptoms (eg, fever, chills, hypotension) (Choices A, B, C, and E).\n\nEducational objective:\nPatients who undergo cytotoxic chemotherapy are at high risk for bacterial infections due to neutropenia. Neutropenic fever often manifests with fever, chills, and hypotension but purulence is rare due to a lack of neutrophils.",
+    "zh": "这位患有乳腺腺癌的患者接受了细胞毒性化疗，现在怀疑有导管相关血流感染 (CRBSI)。细胞毒性化疗通过阻止有丝分裂或破坏DNA来诱导分裂细胞凋亡。尽管这会破坏快速分裂的肿瘤细胞，但它也会杀死具有高周转率的健康细胞，例如毛囊细胞、胃肠道上皮细胞和骨髓干细胞。\n\n因此，细胞毒性化疗最常见的副作用之一是骨髓抑制，这经常在治疗后10-14天导致全血细胞减少。红细胞减少会损害功能状态，血小板减少会导致出血。然而，骨髓抑制最严重的方面是粒细胞前体的破坏，由于中性粒细胞减少症（通常定义为绝对中性粒细胞计数 <1,000/mm³），导致感染风险增加。\n\n中性粒细胞通常是最常见的循环白细胞，是抵御细菌和真菌感染的先天免疫力的关键组成部分。因此，中性粒细胞减少症患者无法对侵入性细菌病原体做出强有力的初始防御，从而导致快速发作的危及生命的感染。\n\n脓液通常不存在，因为它只有在中性粒细胞足够多才能大量聚集在感染区域时才会形成。然而，其他不依赖中性粒细胞的感染迹象可能存在。细菌成分激活巨噬细胞和树突状细胞上的toll样受体，随后释放炎性细胞因子，导致局部组织炎症（如红斑、肿胀、疼痛）和全身症状（如发烧、寒战、低血压）（选项A、B、C和E）。\n\n教育目标：\n接受细胞毒性化疗的患者由于中性粒细胞减少症而具有细菌感染的高风险。中性粒细胞减少性发热通常表现为发烧、寒战和低血压，但由于缺乏中性粒细胞，脓液很少见。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the complications of cytotoxic chemotherapy, specifically myelosuppression and neutropenia, and how these conditions affect the presentation of infections. It requires understanding that neutropenia impairs the body's ability to mount a purulent response to infection.\n\nThe key to solving this question is recognizing that the patient's recent chemotherapy and low neutrophil count make purulence unlikely. Other signs of infection, such as erythema, fever, chills, tenderness, and hypotension, can still occur due to inflammatory cytokine release.",
+    "zh": "这个问题测试了细胞毒性化疗的并发症，特别是骨髓抑制和中性粒细胞减少症，以及这些情况如何影响感染的表现。它需要理解中性粒细胞减少症会损害身体对感染产生脓性反应的能力。\n\n解决这个问题的关键是认识到患者最近的化疗和低中性粒细胞计数使脓液形成的可能性不大。感染的其他体征，如红斑、发烧、寒战、压痛和低血压，仍可能由于炎症细胞因子的释放而发生。"
+  },
+  "tags": "Chemotherapy; Myelosuppression; Neutropenia; Catheter-related bloodstream infection; Infection; Breast adenocarcinoma; Oncology",
+  "category": "Micro",
+  "question_id": "106389",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\106389",
+  "extracted_at": "2025-11-05T14:48:57.074892",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:04:12.777023",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

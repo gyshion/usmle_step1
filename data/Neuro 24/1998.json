@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old farmer is brought to the emergency department after his daughter found him confused and disoriented in the tool shed at home. He has been otherwise healthy and does not take any medications. On physical examination, blood pressure is 110/70 mm Hg and pulse is 50/min. The patient's pupils are symmetric, 2 mm, and reactive to light. His eyes are tearing considerably. There are scattered wheezes bilaterally on lung auscultation. The patient's skin is clammy and he is sweating profusely. Impairment of which of the following steps at the neuromuscular junction is most likely responsible for his presentation?",
+    "zh": "一名55岁的农民被送往急诊科，他的女儿在家中的工具棚里发现他意识模糊、定向力障碍。他一直很健康，没有服用任何药物。体格检查显示，血压110/70 mmHg，脉搏50/min。患者的瞳孔对称，2 mm，对光反射灵敏。他的眼睛流泪不止。肺部听诊双侧散在哮鸣音。患者皮肤湿冷，出汗很多。神经肌肉接头处以下哪一步的受损最有可能导致他的表现？"
+  },
+  "question": {
+    "en": "Impairment of which of the following steps at the neuromuscular junction is most likely responsible for his presentation?",
+    "zh": "神经肌肉接头处以下哪一步的受损最有可能导致他的表现？"
+  },
+  "options": {
+    "A": {
+      "en": "Blockade of neuronal choline uptake",
+      "zh": "神经元胆碱摄取受阻"
+    },
+    "B": {
+      "en": "Inhibition of choline acetyltransferase",
+      "zh": "胆碱乙酰转移酶抑制"
+    },
+    "C": {
+      "en": "Blockade of acetylcholine uptake into axoplasmic vesicles",
+      "zh": "乙酰胆碱进入轴浆囊泡受阻"
+    },
+    "D": {
+      "en": "Botulinum toxin inhibition of acetylcholine release from presynaptic neurons",
+      "zh": "肉毒杆菌毒素抑制突触前神经元释放乙酰胆碱"
+    },
+    "E": {
+      "en": "Irreversible inhibition of acetylcholinesterase",
+      "zh": "乙酰胆碱酯酶不可逆抑制"
+    },
+    "F": {
+      "en": "Atropine blockade of post-junctional acetylcholine receptors",
+      "zh": "阿托品阻断接头后乙酰胆碱受体"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's presentation of confusion, miosis, lacrimation, diaphoresis, bradycardia, and bronchospasm is indicative of a state of global muscarinic CHOLINERGIC OVERSTIMULATION. This is most commonly caused by exposure to organophosphates, which are widely used as pesticides. Organophosphates are CHOLINESTERASE INHIBITORS. They work by irreversibly inhibiting the enzyme acetylcholinesterase, which is responsible for breaking down acetylcholine in the synaptic cleft. This leads to an accumulation of acetylcholine, resulting in overstimulation of both muscarinic and nicotinic receptors. The symptoms described are classic for organophosphate poisoning. The question asks about impairment of a step at the neuromuscular junction. Option E, irreversible inhibition of acetylcholinesterase, directly explains the mechanism of organophosphate toxicity and the resulting cholinergic overstimulation. \n\n(Choices A, B, and C) Blockade of neuronal choline uptake, inhibition of choline acetyltransferase, and blockade of acetylcholine uptake into axoplasmic vesicles would all lead to a DECREASE in acetylcholine synthesis or release, resulting in cholinergic deficiency, not excess. This would manifest with symptoms such as dry mouth, blurred vision, constipation, and tachycardia, which are opposite to what is observed in this patient.\n\n(Choice D) Botulinum toxin inhibits acetylcholine release from presynaptic neurons. Botulinum toxicity (botulism) causes descending skeletal muscle paralysis, typically beginning with the cranial nerves. While it affects acetylcholine release, it leads to deficiency, not excess, and the clinical presentation is different.\n\n(Choice F) Atropine is an anticholinergic agent used pharmacologically to block post-junctional acetylcholine receptors. While atropine can counteract some of the muscarinic effects of organophosphate poisoning (like bradycardia and secretions), it is not the cause of the underlying problem. In fact, atropine is used as an antidote to treat the symptoms of organophosphate poisoning, not as the cause of the poisoning itself. The question asks for the impairment responsible for the presentation, which is the inhibition of acetylcholinesterase, not the blockade of receptors by an antidote.",
+    "zh": "该患者表现为意识模糊、瞳孔缩小、流泪、出汗、心动过缓和支气管痉挛，表明存在全身性毒蕈碱型胆碱能过度刺激状态。这最常见于接触有机磷酸盐，有机磷酸盐被广泛用作杀虫剂。有机磷酸盐是胆碱酯酶抑制剂。它们通过不可逆地抑制乙酰胆碱酯酶（负责分解突触间隙中的乙酰胆碱）来发挥作用。这会导致乙酰胆碱的积累，导致毒蕈碱型和烟碱型受体的过度刺激。所描述的症状是有机磷酸盐中毒的典型症状。 题目询问神经肌肉接头处哪一步受损。选项E，乙酰胆碱酯酶不可逆抑制，直接解释了有机磷酸盐的毒性机制以及由此产生的胆碱能过度刺激。\n\n（选项A、B和C）神经元胆碱摄取受阻、胆碱乙酰转移酶抑制和乙酰胆碱进入轴浆囊泡受阻都会导致乙酰胆碱的合成或释放减少，导致胆碱能缺乏，而不是过量。这会表现为口干、视力模糊、便秘和心动过速等症状，这些症状与该患者观察到的症状相反。\n\n（选项D）肉毒杆菌毒素抑制突触前神经元释放乙酰胆碱。肉毒杆菌毒素中毒（肉毒杆菌病）引起下降性骨骼肌麻痹，通常从颅神经开始。虽然它会影响乙酰胆碱的释放，但会导致缺乏，而不是过量，并且临床表现也不同。\n\n（选项F）阿托品是一种抗胆碱能药物，用于药理学上阻断接头后乙酰胆碱受体。虽然阿托品可以抵消有机磷酸盐中毒的一些毒蕈碱效应（如心动过缓和分泌物），但它不是潜在问题的根源。事实上，阿托品被用作治疗有机磷酸盐中毒症状的解毒剂，而不是中毒本身的原因。 题目询问导致这种表现的损伤，即乙酰胆碱酯酶的抑制，而不是解毒剂对受体的阻断。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of organophosphate poisoning, its mechanism of action as a cholinesterase inhibitor, and the resulting cholinergic overstimulation. It requires correlating the clinical presentation with the specific step in neuromuscular junction function that is impaired.\n\nTo solve this question, identify the classic signs and symptoms of cholinergic excess. Recognize that organophosphates are cholinesterase inhibitors. Then, determine which option describes the mechanism by which cholinesterase inhibitors lead to acetylcholine accumulation and subsequent overstimulation at the neuromuscular junction.",
+    "zh": "本题考察对有机磷酸盐中毒、其作为胆碱酯酶抑制剂的作用机制以及由此产生的胆碱能过度刺激的理解。它需要将临床表现与神经肌肉接头功能中受损的特定步骤联系起来。\n\n要解决这个问题，需要识别胆碱能过量的典型体征和症状。认识到有机磷酸盐是胆碱酯酶抑制剂。然后，确定哪个选项描述了胆碱酯酶抑制剂导致乙酰胆碱积累并随后在神经肌肉接头处过度刺激的机制。"
+  },
+  "tags": "Organophosphate poisoning; Cholinesterase inhibitor; Acetylcholinesterase; Neuromuscular junction; Cholinergic overstimulation; Muscarinic receptors; Pesticide exposure; Toxicology",
+  "category": "Neuro",
+  "question_id": "1998",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\1998",
+  "extracted_at": "2025-11-05T19:38:49.763242",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:38:27.214951",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

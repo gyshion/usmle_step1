@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 3-year-old boy diagnosed with thalassemia major receives multiple transfusions to maintain his blood hemoglobin level. On physical examination, his liver and spleen are mildly enlarged. He also has glucose intolerance as demonstrated by an oral glucose tolerance test.",
+    "zh": "一名被诊断为重型地中海贫血的3岁男孩接受多次输血以维持其血红蛋白水平。体格检查显示，他的肝脏和脾脏轻度肿大。口服葡萄糖耐量试验显示他也有葡萄糖耐受不良。"
+  },
+  "question": {
+    "en": "Which of the following therapies would prevent congestive cardiac failure in this patient?",
+    "zh": "以下哪种疗法可以预防该患者的充血性心力衰竭？"
+  },
+  "options": {
+    "A": {
+      "en": "Erythropoietin",
+      "zh": "促红细胞生成素"
+    },
+    "B": {
+      "en": "Cobalamin",
+      "zh": "钴胺素"
+    },
+    "C": {
+      "en": "Deferoxamine",
+      "zh": "去铁胺"
+    },
+    "D": {
+      "en": "Ascorbic acid",
+      "zh": "抗坏血酸"
+    },
+    "E": {
+      "en": "Digoxin",
+      "zh": "地高辛"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Many hemolytic diseases (eg, thalassemia major) require frequent, regular treatment with red blood cell transfusions for the maintenance of an adequate hemoglobin level. Over time, these CHRONIC RED BLOOD CELL TRANSFUSIONS cause IRON to accumulate within the reticuloendothelial system and organs such as the liver and heart. Because IRON CARDIOTOXICITY may result in arrhythmias and congestive heart failure, it is important to implement chelation therapy within one to two years of beginning red blood cell transfusions.\n\nChelation therapy allows for the removal of excessive iron from the body, and can delay or prevent the development of cardiac disease. Deferoxamine is one of the more effective and safe iron chelators, as it complexes with ferric ions to form ferrioxamine, which is removed by the kidneys.\n\n(Choices A, B, D, and E) Erythropoietin induces erythropoiesis and reticulocyte release from the bone marrow. It is commonly used to treat the anemia of chronic kidney disease. Cobalamin (vitamin B) is necessary in the treatment of pernicious anemia. Ascorbic acid (vitamin C) is used in the treatment of scurvy. Digoxin causes increased cardiac contractility, enhanced vagal tone, and decreased ventricular rate. As such, it is used in the treatment of congestive heart failure and supraventricular arrhythmias.\n\nNone of these therapies are capable of preventing congestive heart failure secondary to iron cardiotoxicity, however.",
+    "zh": "许多溶血性疾病（例如，重型地中海贫血）需要频繁、定期地输注红细胞以维持足够的血红蛋白水平。随着时间的推移，这些慢性红细胞输注会导致铁在网状内皮系统和肝脏、心脏等器官内积聚。由于铁的心脏毒性可导致心律失常和充血性心力衰竭，因此在开始红细胞输注后一到两年内实施螯合治疗非常重要。\n\n螯合治疗可以从体内清除过量的铁，并且可以延缓或预防心脏病的发生。去铁胺是更有效和安全的铁螯合剂之一，因为它与铁离子络合形成去铁胺，后者通过肾脏清除。\n\n（选项A、B、D和E）促红细胞生成素诱导骨髓中的红细胞生成和网织红细胞释放。它通常用于治疗慢性肾脏病的贫血。钴胺素（维生素B）是治疗恶性贫血所必需的。抗坏血酸（维生素C）用于治疗坏血病。地高辛可增加心脏收缩力，增强迷走神经张力，并降低心室率。因此，它用于治疗充血性心力衰竭和室上性心律失常。\n\n然而，这些疗法都不能预防继发于铁心脏毒性的充血性心力衰竭。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the complications of chronic red blood cell transfusions, specifically iron overload and its resulting cardiotoxicity, and the appropriate management with chelation therapy.\n\nThe key to solving this question is recognizing that the patient's history of thalassemia major and multiple transfusions puts him at risk for iron overload. The question asks about preventing congestive heart failure, which in this case is due to iron cardiotoxicity, making chelation therapy the correct answer.",
+    "zh": "本题考察对慢性红细胞输注并发症的了解，特别是铁超载及其导致的心脏毒性，以及通过螯合疗法进行适当的管理。\n\n解决此问题的关键是认识到患者重型地中海贫血的病史和多次输血使他面临铁超载的风险。这个问题是关于预防充血性心力衰竭，在这种情况下，这是由于铁心脏毒性，因此螯合疗法是正确的答案。"
+  },
+  "tags": "Thalassemia major; Iron overload; Chelation therapy; Deferoxamine; Congestive heart failure; Cardiotoxicity; Hematology; Blood transfusion",
+  "category": "Blood",
+  "question_id": "6535",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\6535",
+  "extracted_at": "2025-11-05T11:33:44.514133",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:31:55.017202",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

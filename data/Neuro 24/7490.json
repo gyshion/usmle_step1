@@ -1,0 +1,71 @@
+{
+  "question_stem": {
+    "en": "An 82-year-old woman comes to the clinic due to memory loss. She lives with her daughter, who reports that her mother has had difficulty remembering recent conversations. The patient has also forgotten recent events, such as her grandson's birthday party last month. Two years ago, she was forced to give up driving after repeatedly getting lost in {{exhibit_1}} and being involved in a minor motor vehicle accident. The patient still enjoys reminiscing about old times with friends and playing bingo at church. The daughter now manages her mother's finances and acts as her {{exhibit_2}} proxy. Which of the following is the most likely pathological finding in this patient?",
+    "zh": "一位82岁女性因记忆力减退来诊。她与女儿同住，女儿报告说她的母亲最近难以记住对话。患者也忘记了最近发生的事情，例如上个月她孙子的生日聚会。两年前，她在{{exhibit_1}}中反复迷路并卷入一起轻微的机动车事故后，被迫放弃了驾驶。患者仍然喜欢与朋友回忆过去的美好时光，并在教堂玩宾果游戏。女儿现在管理着她母亲的财务并担任她的{{exhibit_2}}代理人。 该患者最可能的病理发现是什么？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely pathological finding in this patient?",
+    "zh": "该患者最可能的病理发现是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "Demyelinated plaques",
+      "zh": "脱髓鞘斑块"
+    },
+    "B": {
+      "en": "Large intracytoplasmic vacuoles",
+      "zh": "大的细胞质内空泡"
+    },
+    "C": {
+      "en": "Lewy bodies",
+      "zh": "路易体"
+    },
+    "D": {
+      "en": "Multiple lacunar infarcts",
+      "zh": "多发腔隙性梗死"
+    },
+    "E": {
+      "en": "Negri bodies",
+      "zh": "内基小体"
+    },
+    "F": {
+      "en": "Neuritic plaques",
+      "zh": "神经斑"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "This elderly patient likely has Alzheimer dementia, a neurodegenerative disorder that presents insidiously with memory loss, especially of recent events. Other cognitive deficits such as executive dysfunction (eg, difficulty planning and organizing) and visuospatial impairment (eg, getting lost in one's own neighborhood) may also occur early in the disease course, whereas language and behavioral abnormalities often appear later. Classic histopathologic findings of Alzheimer disease include amyloid plaques and neurofibrillary tangles. Neuritic (senile) plaques are extracellular amyloid deposits often found in the medial temporal lobe (eg, hippocampus, amygdala, entorhinal cortex) and are composed of a central amyloid beta (Aβ) core surrounded by dystrophic neurites. Abnormal accumulation of Aβ is toxic to neurons and is thought to occur secondary to impaired clearance or overproduction of amyloid precursor protein. Neurofibrillary tangles are found in the neuronal cytoplasm and consist of aggregates of hyperphosphorylated tau protein, which normally mediates microtubule stabilization.\n\n(Choice A) Demyelinated plaques are seen in multiple sclerosis, which typically presents in young to middle-age adults with neurologic deficits disseminated in space and time.\n\n(Choice B) Large intracytoplasmic vacuoles, sometimes described as spongiform, are seen in prion diseases such as Creutzfeldt-Jakob disease. This condition typically presents with rapidly progressive dementia and myoclonus.\n\n(Choice C) Lewy bodies are intracellular eosinophilic inclusions composed of α-synuclein that are typically seen in patients with Parkinson disease and Lewy body dementia. Lewy body dementia classically presents with attention deficits, visual hallucinations, and spontaneous parkinsonism (eg, bradykinesia, rigidity, resting tremor).\n\n(Choice D) Multiple lacunar infarcts would be expected in vascular dementia. Vascular dementia is distinguished from Alzheimer dementia by a step-wise rather than gradual decline in cognitive function, as well as focal neurologic deficits.\n\n(Choice E) Negri bodies are round eosinophilic inclusions seen in the cytoplasm of pyramidal hippocampal neurons and cerebellar Purkinje cells in patients infected with the rabies virus.",
+    "zh": "这位老年患者可能患有阿尔茨海默病，这是一种神经退行性疾病，其表现为起病隐匿的记忆力减退，尤其是对近期事件的记忆。其他认知缺陷，例如执行功能障碍（如难以计划和组织）和视觉空间障碍（如在自己居住的社区迷路），也可能在疾病早期发生，而语言和行为异常通常在晚期出现。阿尔茨海默病的典型组织病理学发现包括淀粉样斑块和神经原纤维缠结。神经斑（老年斑）是细胞外淀粉样蛋白沉积物，常存在于内侧颞叶（如海马体、杏仁核、内嗅皮质），由一个中央的β-淀粉样蛋白（Aβ）核心和周围的营养不良性神经突组成。Aβ的异常积累对神经元有毒性作用，被认为继发于淀粉样前体蛋白的清除受损或过度产生。神经原纤维缠结位于神经元胞质中，由过度磷酸化的tau蛋白聚集体组成，tau蛋白通常介导微管的稳定。\n\n(选项A) 脱髓鞘斑块见于多发性硬化症，通常表现为年轻至中年成人的神经功能缺损，在时间和空间上播散。\n\n(选项B) 大的细胞质内空泡，有时描述为海绵状，见于朊病毒病，如克雅病。这种情况通常表现为快速进展性痴呆和肌阵挛。\n\n(选项C) 路易体是α-突触核蛋白组成的细胞内嗜酸性包涵体，通常见于帕金森病和路易体痴呆患者。路易体痴呆通常表现为注意力缺陷、视觉幻觉和自发性帕金森症（如运动迟缓、僵硬、静止性震颤）。\n\n(选项D) 多发性腔隙性梗死可见于血管性痴呆。血管性痴呆与阿尔茨海默病的不同之处在于，其认知功能下降呈阶梯式而非渐进式，以及局灶性神经功能缺损。\n\n(选项E) 内基小体是圆形嗜酸性包涵体，见于感染狂犬病毒的患者的锥体海马神经元和脑小脑浦肯野细胞的细胞质中。"
+  },
+  "summary": {
+    "en": "The patient presents with symptoms consistent with Alzheimer's dementia, including memory loss, executive dysfunction, and visuospatial impairment. The most likely pathological finding in Alzheimer's disease is neuritic plaques.",
+    "zh": "患者表现出与阿尔茨海默病一致的症状，包括记忆力减退、执行功能障碍和视觉空间障碍。阿尔茨海默病最可能的病理发现是神经斑。"
+  },
+  "tags": [
+    "Alzheimer's dementia",
+    "pathology",
+    "neuritic plaques",
+    "memory loss",
+    "cognitive impairment"
+  ],
+  "category": "Neuro",
+  "question_id": "7490",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\7490",
+  "extracted_at": "2025-11-05T19:41:18.245172",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:42:36.454020",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

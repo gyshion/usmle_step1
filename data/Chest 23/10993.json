@@ -1,0 +1,81 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old man comes to the office with a history of alcohol use disorder and presents with malaise, cough, yellow sputum production, and occasional streaks of blood over the past 2 months. He smokes a pack of cigarettes daily. Examination reveals poor dentition with dental caries, gingivitis, and enlarged submandibular lymph nodes. Coarse rhonchi are heard during auscultation of the right lung. Chest CT scan reveals an extensive right lung consolidative process with air bronchograms. Bronchoscopy is performed, and a lung biopsy specimen shows the findings in {{exhibit_1}} the image below. Consider the patient's history of alcohol use disorder {{exhibit_2}}, the presence of dental caries {{exhibit_3}}, the lung consolidation with air bronchograms {{exhibit_4}}, and the biopsy findings {{exhibit_5}}. Given these findings, and the patient's symptoms {{exhibit_6}}, which of the following is the most likely diagnosis? {{exhibit_7}} {{exhibit_8}} {{exhibit_9}} {{exhibit_10}} {{exhibit_11}} {{exhibit_12}} {{exhibit_13}} {{exhibit_14}}",
+    "zh": "一名55岁男性到诊所就诊，有酒精使用障碍病史，并表现为不适、咳嗽、黄痰，近2个月偶有血丝。他每天抽一包烟。体格检查显示牙齿状况差，有龋齿、牙龈炎和颌下淋巴结肿大。右肺听诊时听到粗糙的啰音。胸部CT扫描显示右肺广泛的实变过程，伴有空气支气管征。进行支气管镜检查，肺活检标本显示{{exhibit_1}}下图中所示的结果。考虑患者的酒精使用障碍病史{{exhibit_2}}、龋齿的存在{{exhibit_3}}、伴有空气支气管征的肺实变{{exhibit_4}}和活检结果{{exhibit_5}}。考虑到这些发现和患者的症状{{exhibit_6}}，以下哪项是最可能的诊断？{{exhibit_7}} {{exhibit_8}} {{exhibit_9}} {{exhibit_10}} {{exhibit_11}} {{exhibit_12}} {{exhibit_13}} {{exhibit_14}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Actinomycosis",
+      "zh": "放线菌病"
+    },
+    "B": {
+      "en": "Adenocarcinoma",
+      "zh": "腺癌"
+    },
+    "C": {
+      "en": "Mucormycosis",
+      "zh": "毛霉病"
+    },
+    "D": {
+      "en": "Sarcoidosis",
+      "zh": "结节病"
+    },
+    "E": {
+      "en": "Tuberculosis",
+      "zh": "结核病"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Pulmonary actinomycosis is usually caused by aspiration, which often leads to lower lobe consolidation with air bronchograms (air-filled bronchi with surrounding alveolar opacification). Patients with alcohol use disorder are at increased risk. Diagnosis is made by identifying the bacteria with unique filamentous, branching patterns and the characteristic sulfur granules, which are formed by calcified mycelial fragments. Sulfur granules grossly appear yellow; however, hematoxylin and eosin staining gives them a basophilic (purple/blue) appearance under light microscopy. Penicillin G is the antibiotic treatment of choice.\n(Choice B) Lung adenocarcinoma frequently affects nonsmokers and can present with cough, hemoptysis, and pulmonary consolidation with air bronchograms. Histopathologic features typically include cuboidal to low columnar hyperchromatic cells with pleomorphism, prominent nucleoli, and glandular differentiation (eg, gland formation, intracellular mucin).\n(Choice C) Mucor is a ubiquitous fungus naturally found in soil and decaying material. Mucormycosis results when the fungus is inhaled, causing sinopulmonary and sometimes angioinvasive disease, often in patients with diabetic ketoacidosis. Microscopic examination shows broad, ribbon-like, nonseptate hyphae with right-angle branching.\n(Choice D) Sarcoidosis is an autoimmune disorder characterized by noncaseating granulomas on histopathologic examination of affected areas.\n(Choice E) Tuberculosis is characterized on histopathology by caseating granulomas, with a necrotic center typically surrounded by multinucleated giant cells.",
+    "zh": "肺放线菌病通常由吸入引起，这通常导致下叶实变伴有空气支气管征（充满空气的支气管，周围有肺泡不透光）。酒精使用障碍患者的风险增加。诊断通过鉴定具有独特的丝状、分支模式的细菌和特征性的硫磺颗粒来完成，硫磺颗粒由钙化的菌丝片段形成。硫磺颗粒肉眼观察呈黄色；然而，苏木精和伊红染色在光学显微镜下使其呈嗜碱性（紫色/蓝色）。青霉素G是首选的抗生素治疗。\n(选项B) 肺腺癌经常影响非吸烟者，可表现为咳嗽、咯血和伴有空气支气管征的肺实变。组织病理学特征通常包括立方到低柱状的过度染色细胞，具有多形性、突出的核仁和腺样分化（例如，腺体形成，细胞内粘蛋白）。\n(选项C) 毛霉菌是一种无处不在的真菌，自然存在于土壤和腐烂的物质中。毛霉病发生在吸入真菌时，导致鼻窦肺和有时血管侵袭性疾病，通常发生在患有糖尿病酮症酸中毒的患者中。显微镜检查显示宽而带状的、无隔膜的菌丝，呈直角分支。\n(选项D) 结节病是一种自身免疫性疾病，其特征是在受累区域的组织病理学检查中出现非干酪性肉芽肿。\n(选项E) 结核病的组织病理学特征是干酪性肉芽肿，坏死中心通常被多核巨细胞包围。"
+  },
+  "summary": {
+    "en": "The patient's presentation, including alcohol use disorder, poor dentition, lung consolidation with air bronchograms, and the biopsy findings, are most consistent with pulmonary actinomycosis. This is caused by aspiration and can be diagnosed by identifying the bacteria with unique filamentous, branching patterns and the characteristic sulfur granules.",
+    "zh": "患者的临床表现，包括酒精使用障碍、牙齿状况差、伴有空气支气管征的肺实变和活检结果，与肺放线菌病最为一致。这由吸入引起，可以通过鉴定具有独特的丝状、分支模式的细菌和特征性的硫磺颗粒来诊断。"
+  },
+  "tags": [
+    "Pulmonary Actinomycosis",
+    "Lung Infection",
+    "Alcohol Use Disorder",
+    "Aspiration",
+    "Sulfur Granules",
+    "Infectious Disease",
+    "Respiratory Medicine"
+  ],
+  "category": "Chest",
+  "question_id": "10993",
+  "has_exhibits": true,
+  "exhibit_count": 14,
+  "exhibit_files": [
+    "image1.jpg",
+    "image10.jpg",
+    "image11.jpg",
+    "image12.jpg",
+    "image13.jpg",
+    "image14.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg",
+    "image9.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\10993",
+  "extracted_at": "2025-11-05T11:36:12.954567",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:33:15.090826",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

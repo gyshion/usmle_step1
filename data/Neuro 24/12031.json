@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 54-year-old woman is evaluated in the clinic due to easy fatigability. The patient has had no weight gain or cold intolerance and has no history of thyroid conditions. Medical history is significant for gastrectomy due to a nonhealing gastric ulcer. Physical examination shows a shiny tongue and pale palmar creases. The patient's gait is unstable when her eyes are closed, and vibration sense is decreased in the upper and lower extremities. There is mild, symmetric loss of strength affecting the proximal lower extremity muscles. Blood hemoglobin level is 7.2 g/dL and white blood cell count is 3,600/mm³. Stool tests for occult blood are repeatedly negative. Which of the following spinal cord regions is most likely to be affected by this patient's disease process? {{exhibit_1}} {{exhibit_2}}",
+    "zh": "一名54岁女性因易疲劳而在诊所接受评估。患者没有体重增加或畏寒，也没有甲状腺疾病史。病史提示因不愈合的胃溃疡而行胃切除术。体格检查显示舌头光滑且手掌纹苍白。当患者闭上眼睛时步态不稳，上肢和下肢的震动感减弱。存在轻度对称性的肌力下降，影响近端下肢肌肉。血红蛋白水平为7.2 g/dL，白细胞计数为3,600/mm³。大便潜血试验反复阴性。以下哪种脊髓区域最有可能受到该患者疾病过程的影响？{{exhibit_1}} {{exhibit_2}}"
+  },
+  "question": {
+    "en": "Which of the following spinal cord regions is most likely to be affected by this patient's disease process?",
+    "zh": "以下哪种脊髓区域最有可能受到该患者疾病过程的影响？"
+  },
+  "options": {
+    "A": {
+      "en": "Anterior horn cells",
+      "zh": "前角细胞"
+    },
+    "B": {
+      "en": "White matter of the cerebrum",
+      "zh": "大脑白质"
+    },
+    "C": {
+      "en": "Dorsal root ganglia",
+      "zh": "背根神经节"
+    },
+    "D": {
+      "en": "Dorsal columns and lateral corticospinal tracts",
+      "zh": "后柱和侧皮质脊髓束"
+    },
+    "E": {
+      "en": "Anterior white commissure",
+      "zh": "前白质联合"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient most likely has subacute combined degeneration of the spinal cord, a condition that results from chronically low levels of vitamin B12 (cobalamin). Low cobalamin levels may occur due to pernicious anemia (autoimmune gastritis with deficient intrinsic factor), gastrectomy, ileal resections, infection by the tapeworm Diphyllobothrium latum, and strict vegan diets containing no animal products for a prolonged period (3–4 years). Vitamin B12 is an important cofactor in DNA synthesis, and hematologic manifestations of deficiency include megaloblastic anemia and pancytopenia. This patient's pale palmar crease and easy fatigability are consistent with anemia.\n\nElevated levels of methylmalonic acid also occur in vitamin B12 deficiency and can destabilize myelin and damage white matter in particular regions of the spinal cord:\n\n*   Dorsal columns (loss of position and vibration sensation, sensory ataxia [Romberg sign])\n*   Lateral corticospinal tracts (progressive weakness that can result in spastic paresis)\n*   Spinocerebellar tracts (contributes to ataxia)\n\nPatients may also develop atrophic glossitis, which appears as a smooth, shiny, erythematous tongue.\n\n(Choice A) Poliomyelitis and spinal muscular atrophy are associated with the destruction of lower motor neurons in the anterior horn, which causes flaccid paralysis, muscle atrophy, and fasciculations.\n\n(Choice B) Multiple sclerosis is an inflammatory demyelinating disorder affecting the white matter of the CNS in a random and asymmetric pattern. Patients typically have neurologic deficits disseminated in space and time.\n\n(Choice C) Tabes dorsalis (tertiary neurosyphilis) is characterized by degeneration of the dorsal root ganglia and dorsal columns. Although patients may have impaired vibratory sensation and proprioception, pancytopenia and atrophic glossitis are not characteristic. In addition, tabes dorsales does not typically affect the lateral corticospinal tracts.\n\n(Choice E) Syringomyelia is a central cavitation of the cervical spinal cord that is associated with damage to the anterior white commissure of the spinothalamic tract. Patients typically have bilateral loss of pain/temperature in the upper extremities. Expansion into the ventral horns may result in flaccid paralysis of the hand muscles.\n\nEducational objective:\nNeurologic damage associated with vitamin B12 deficiency classically includes subacute combined degeneration of the dorsal columns (loss of position and vibration sensation, positive Romberg sign) and lateral corticospinal tracts (muscle weakness, spastic paresis).",
+    "zh": "该患者最有可能患有脊髓亚急性联合变性，这是一种由慢性维生素B12（钴胺素）水平低引起的疾病。维生素B12水平低可能是由于恶性贫血（自身免疫性胃炎伴内因子缺乏）、胃切除术、回肠切除术、感染阔节裂头绦虫和长期（3-4年）严格的纯素食饮食（不含动物产品）引起的。维生素B12是DNA合成的重要辅助因子，缺乏的血液学表现包括巨幼细胞性贫血和全血细胞减少。该患者苍白的手掌纹和易疲劳与贫血一致。\n\n甲基丙二酸水平升高也发生在维生素B12缺乏症中，可破坏髓鞘，并损害脊髓特定区域的白质：\n\n*   后柱（位置和振动觉丧失，感觉性共济失调[Romberg征]）\n*   侧皮质脊髓束（进行性无力，可导致痉挛性轻瘫）\n*   脊髓小脑束（导致共济失调）\n\n患者还可能发生萎缩性舌炎，表现为舌头光滑、发亮、发红。\n\n（选项A）脊髓灰质炎和脊髓性肌萎缩症与前角下运动神经元的破坏有关，导致弛缓性麻痹、肌肉萎缩和肌束颤动。\n\n（选项B）多发性硬化症是一种炎性脱髓鞘疾病，以随机和不对称的方式影响CNS的白质。患者通常具有时空弥漫的神经功能缺损。\n\n（选项C）脊髓痨（三期神经梅毒）的特征是背根神经节和后柱的变性。尽管患者可能存在振动觉和本体感觉受损，但全血细胞减少和萎缩性舌炎并非其特征。此外，脊髓痨通常不会影响侧皮质脊髓束。\n\n（选项E）脊髓空洞症是颈脊髓的中央空洞形成，与脊髓丘脑束前白质联合损伤有关。患者通常上肢出现双侧痛觉/温度觉丧失。扩展到腹角可能导致手部肌肉的弛缓性麻痹。\n\n教育目标：\n与维生素B12缺乏相关的神经损伤典型地包括后柱亚急性联合变性（位置和振动觉丧失，Romberg征阳性）和侧皮质脊髓束（肌无力，痉挛性轻瘫）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the clinical presentation and neurological manifestations of vitamin B12 deficiency, specifically subacute combined degeneration of the spinal cord. It requires correlating symptoms like gait instability, decreased vibration sense, and proximal muscle weakness with the affected spinal cord tracts.\n\nTo solve this question, identify the key clinical features suggestive of vitamin B12 deficiency (gastrectomy history, glossitis, anemia, neurological deficits). Then, relate these symptoms to the specific spinal cord pathways affected in subacute combined degeneration, namely the dorsal columns and lateral corticospinal tracts.",
+    "zh": "这道题测试对维生素B12缺乏症的临床表现和神经系统表现的理解，特别是脊髓亚急性联合变性。它需要将步态不稳、震动感减弱和近端肌无力等症状与受影响的脊髓束相关联。\n\n要解决这个问题，需要确定提示维生素B12缺乏症的关键临床特征（胃切除术病史、舌炎、贫血、神经系统缺陷）。然后，将这些症状与亚急性联合变性中受影响的特定脊髓通路联系起来，即后柱和侧皮质脊髓束。"
+  },
+  "tags": "Vitamin B12 deficiency; Subacute combined degeneration; Spinal cord; Dorsal columns; Lateral corticospinal tracts; Pernicious anemia; Gastrectomy; Neurologic examination; Ataxia; Paresthesia; Anemia",
+  "category": "Neuro",
+  "question_id": "12031",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\12031",
+  "extracted_at": "2025-11-05T19:32:58.544430",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:32:12.844695",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

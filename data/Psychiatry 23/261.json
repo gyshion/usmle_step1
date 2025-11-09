@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old man was hospitalized for a psychotic episode in which he heard voices of God and the devil and believed that his family was plotting to kill him. He improved rapidly with medication therapy and was discharged. Three weeks later, the patient comes to the emergency department due to generalized muscle stiffness and shaking of his right hand. He has no other medical history and takes no other medications. Temperature is 36.7 C (98 F), blood pressure is 110/80 mm Hg, pulse is 68/min, and respirations are 14/min. On mental status examination, he is alert and oriented with mild paranoia but no auditory hallucinations.",
+    "zh": "一名35岁男性因精神病发作住院，他听到上帝和魔鬼的声音，并认为他的家人正在密谋杀害他。 他通过药物治疗迅速好转并出院。 三周后，患者因全身肌肉僵硬和右手颤抖来到急诊科。 他没有其他病史，也没有服用其他药物。 体温为36.7摄氏度（98华氏度），血压为110/80毫米汞柱，脉搏为68次/分钟，呼吸为14次/分钟。 在精神状态检查中，他警觉且定向，伴有轻度偏执，但无幻听。"
+  },
+  "question": {
+    "en": "Which of the following is the best treatment for this patient's current symptoms?",
+    "zh": "以下哪项是该患者目前症状的最佳治疗方法？"
+  },
+  "options": {
+    "A": {
+      "en": "Benzotropine",
+      "zh": "苯扎托品"
+    },
+    "B": {
+      "en": "Dantrolene",
+      "zh": "丹曲林"
+    },
+    "C": {
+      "en": "Diazepam",
+      "zh": "地西泮"
+    },
+    "D": {
+      "en": "Haloperidol",
+      "zh": "氟哌啶醇"
+    },
+    "E": {
+      "en": "Levodopa",
+      "zh": "左旋多巴"
+    },
+    "F": {
+      "en": "Propranolol",
+      "zh": "普萘洛尔"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's psychotic episode was treated with an antipsychotic, and his current symptoms are consistent with DRUG-INDUCED PARKINSONISM, an extrapyramidal side effect of antipsychotics. Symptoms include RIGIDITY (may be experienced as subjective stiffness), RESTING/POSTURAL TREMOR, MASKED FACIES, and BRADYKINESIA (slowed movement, decreased arm swing) and typically occur within the first 3 months of drug initiation. Other extrapyramidal side effects of antipsychotic medications include acute dystonia (sudden, sustained contraction of muscle groups) and akathisia (subjective restlessness and inability to sit still).\n\nDrug-induced parkinsonism is caused by DOPAMINE (D2) RECEPTOR BLOCKADE in the NIGROSTRIATAL PATHWAY. If the antipsychotic cannot be reduced or discontinued, drug-induced parkinsonism is best treated with a centrally acting ANTICHOLINERGIC AGENT (eg, benztropine). Levodopa should not be used to treat antipsychotic-induced parkinsonism as it can exacerbate or even precipitate psychosis (Choice E).\n\n(Choice B) Dantrolene is a direct-acting skeletal muscle relaxant used in the treatment of neuroleptic malignant syndrome (NMS). NMS presents with diffuse muscle rigidity, high fever, sympathetic hyperactivity (eg, hypertension, tachycardia), and altered mental status and is unlikely in this oriented, afebrile patient with normal vital signs.\n\n(Choices C and F) The benzodiazepine diazepam and the beta blocker propranolol may both be used in the treatment of akathisia. Akathisia is characterized by subjective restlessness and an inability to sit still rather than rigidity and tremor, as seen in this patient.\n\n(Choice D) Haloperidol is a first-generation antipsychotic and potent D2 blocker that frequently causes extrapyramidal symptoms, including drug-induced parkinsonism. Its use would only exacerbate the patient's parkinsonian symptoms. Use of a second-generation antipsychotic with minimal D2 blockade would be a reasonable long-term alternative if the patient were taking a first-generation antipsychotic.\n\nEducational objective: Drug-induced parkinsonism is an extrapyramidal side effect caused by medications that block D2 receptors (eg, antipsychotics). Management strategies include decreasing or discontinuing the offending medication and treatment with an anticholinergic medication.",
+    "zh": "该患者的精神病发作用抗精神病药治疗，其目前的症状与药物引起的帕金森病一致，这是抗精神病药的锥体外系副作用。 症状包括僵硬（可能被体验为主观僵硬）、静止/姿势性震颤、面具脸和运动迟缓（运动减慢，手臂摆动减少），并且通常在开始用药后的前3个月内发生。 抗精神病药物的其他锥体外系副作用包括急性肌张力障碍（肌肉群的突然、持续收缩）和静坐不能（主观烦躁不安和无法静坐）。\n\n药物引起的帕金森病是由黑质纹状体通路中的多巴胺（D2）受体阻断引起的。 如果无法减少或停用抗精神病药，药物引起的帕金森病的最佳治疗方法是使用中枢性抗胆碱能药物（如苯扎托品）。 不应使用左旋多巴治疗抗精神病药引起的帕金森病，因为它会加重甚至诱发精神病（选项 E）。\n\n（选项 B）丹曲林是一种直接作用于骨骼肌的松弛剂，用于治疗神经安定剂恶性综合征（NMS）。 NMS表现为弥漫性肌肉僵硬、高热、交感神经活性亢进（例如，高血压、心动过速）和精神状态改变，在这种定向、无发热且生命体征正常的患者中不太可能发生。\n\n（选项 C 和 F）苯二氮卓类药物地西泮和β受体阻滞剂普萘洛尔都可用于治疗静坐不能。 静坐不能的特点是主观烦躁不安和无法静坐，而不是像该患者那样出现的僵硬和震颤。\n\n（选项 D）氟哌啶醇是一种第一代抗精神病药和强效D2阻断剂，经常引起锥体外系症状，包括药物引起的帕金森病。 使用它只会加重患者的帕金森病症状。 如果患者正在服用第一代抗精神病药，使用阻断D2受体作用最小的第二代抗精神病药将是一个合理的长期替代方案。\n\n教育目标：药物引起的帕金森病是药物阻断D2受体（例如，抗精神病药）引起的锥体外系副作用。 治疗策略包括减少或停用致病药物，并使用抗胆碱能药物进行治疗。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of drug-induced parkinsonism, a common extrapyramidal side effect of antipsychotic medications. It assesses the ability to recognize the characteristic symptoms and differentiate it from other neurological or psychiatric conditions, and to identify the appropriate management strategy.\n\nTo solve this question, one must first identify the patient's symptoms as consistent with drug-induced parkinsonism based on the history of antipsychotic use and the presence of rigidity and tremor. Then, recall that the primary treatment involves anticholinergic agents like benztropine, while other options represent treatments for different conditions or would exacerbate the patient's symptoms.",
+    "zh": "这道题测试对药物引起的帕金森病的理解，这是抗精神病药物常见的锥体外系副作用。 它评估了识别特征性症状并将其与其他神经系统或精神疾病区分开来，以及确定适当的治疗策略的能力。\n\n要解决这个问题，首先必须根据抗精神病药的使用史以及僵硬和震颤的存在，确定患者的症状与药物引起的帕金森病一致。 然后，回忆起主要治疗方法涉及抗胆碱能药物，如苯扎托品，而其他选项代表了对不同情况的治疗方法，或者会加重患者的症状。"
+  },
+  "tags": "Drug-induced parkinsonism; Extrapyramidal symptoms; Antipsychotics; Dopamine D2 receptor blockade; Anticholinergic agents; Benztropine; Neuroleptic malignant syndrome; Akathisia; Psychiatry; Neurology",
+  "category": "Psychiatry",
+  "question_id": "261",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\261",
+  "extracted_at": "2025-11-05T19:50:55.532653",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:55:26.854210",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

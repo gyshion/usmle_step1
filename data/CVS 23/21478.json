@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 72-year-old man comes to the office due to palpitations, fatigue, and dyspnea for the past 2 weeks. The patient experienced an episode of atrial fibrillation 4 years ago during hospitalization for pneumonia; the episode spontaneously resolved 2 days later. Since then, he has had 3 episodes of symptomatic atrial fibrillation that self-terminated within a week. Other medical history includes hypertension, type 2 diabetes mellitus, and chronic heart failure. Blood pressure is 130/84 mm Hg and pulse is 110/min. The lungs are clear to auscultation. Cardiac examination demonstrates tachycardia with irregularly irregular heartbeats. ECG confirms atrial fibrillation. The patient's ventricular rate is controlled with beta blocker therapy, but the arrhythmia fails to resolve as in previous episodes.",
+    "zh": "一名72岁男性因过去2周出现心悸、疲劳和呼吸困难而就诊。患者在4年前因肺炎住院期间曾发生过一次心房颤动；该发作在2天后自发缓解。此后，他出现了3次症状性房颤发作，均在一周内自发终止。其他病史包括高血压、2型糖尿病和慢性心力衰竭。血压为130/84 mmHg，脉搏为110次/分。肺部听诊清亮。心脏检查显示心动过速伴有不规则的心跳。心电图证实为房颤。患者的室率已通过β受体阻滞剂治疗得到控制，但心律失常未能像之前的发作一样缓解。"
+  },
+  "question": {
+    "en": "Which of the following factors is most likely involved in the progression of this patient's arrhythmia?",
+    "zh": "以下哪种因素最有可能参与该患者心律失常的进展？"
+  },
+  "options": {
+    "A": {
+      "en": "Abnormal atrioventricular nodal pathway",
+      "zh": "异常房室结通路"
+    },
+    "B": {
+      "en": "Atrial structural remodeling",
+      "zh": "心房结构重塑"
+    },
+    "C": {
+      "en": "Cardiac autonomic neuropathy",
+      "zh": "心脏自主神经病变"
+    },
+    "D": {
+      "en": "Conduction system fibrosis",
+      "zh": "传导系统纤维化"
+    },
+    "E": {
+      "en": "Enhanced sinoatrial node automaticity",
+      "zh": "窦房结自律性增强"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's progression from paroxysmal atrial fibrillation (resolving spontaneously within 7 days) to persistent atrial fibrillation (lasting >7 days) is most attributable to atrial remodeling. The development of atrial fibrillation is primarily driven by both structural and electrical conduction changes in the atrial myocardium that predispose to the initiation and maintenance of electrical reentrant circuits and/or ectopic foci.\n\n*   The structural component of atrial remodeling likely involves comorbidities that lead to chronic ATRIAL STRETCHING and DILATION. These include hypertension, heart failure, and mitral valve disease. Physiologic age-related atrial dilation also contributes.\n*   The electrical conduction component likely involves age-related changes as well as previous exposure to atrial fibrillation. During atrial fibrillation, the conduction system undergoes changes that FACILITATE PROPAGATION of the arrhythmia; over time it becomes more difficult to reverse (ie, atrial fibrillation begets atrial fibrillation).\n\nAs atrial remodeling progresses, the atria become increasingly susceptible to electrical triggers (eg, ectopic foci in pulmonary veins) that initiate fibrillation and more likely to maintain persistently disorganized electrical activity. {{exhibit_1}}\n\n(Choice A) An abnormal pathway in the atrioventricular node is the typical cause of atrioventricular nodal reentrant tachycardia. This arrhythmia most commonly affects young patients with an otherwise normal heart.\n\n(Choice C) Cardiac autonomic neuropathy, which can develop in patients with Parkinson disease or poorly controlled diabetes mellitus, typically leads to an impaired sympathetic cardiac response. This often results in exercise intolerance and orthostasis but does not significantly contribute to cardiac arrhythmia.\n\n(Choice D) Conduction system fibrosis (often age-related) is a primary contributor to bradyarrhythmias, including sinus bradycardia (eg, sick sinus syndrome) and atrioventricular block.\n\n(Choice E) Enhanced sinoatrial node automaticity causes sinus tachycardia (eg, physiologic with exercise). During atrial fibrillation, electrical signals in the sinoatrial node are suppressed by widespread disorganized electrical activity throughout the atria.\n\nEducational objective:\nAtrial remodeling is the major pathogenic contributor to atrial fibrillation. Age and comorbidities that cause atrial dilation (eg, hypertension, heart failure, mitral valve disease) cause atrial structural changes that predispose to atrial fibrillation development. In addition, age and previous atrial fibrillation cause atrial conduction system changes that further propagate atrial fibrillation.",
+    "zh": "该患者从阵发性房颤（7天内自发缓解）进展到持续性房颤（持续>7天）最可能归因于心房重塑。房颤的发生主要是由心房心肌的结构和电传导改变驱动，这些改变易于引发和维持电复归回路和/或异位病灶。\n\n*   心房重塑的结构成分可能涉及导致慢性心房扩张和扩张的合并症。这些包括高血压、心力衰竭和二尖瓣疾病。生理性年龄相关的心房扩张也有贡献。\n*   电传导成分可能涉及年龄相关变化以及先前暴露于房颤。在房颤期间，传导系统会发生变化，从而促进心律失常的传导；随着时间的推移，它变得更难逆转（即，房颤导致房颤）。\n\n随着心房重塑的进展，心房变得越来越容易受到电触发因素（例如，肺静脉中的异位病灶）的影响，这些因素会引发颤动，并且更容易维持持续紊乱的电活动。 {{exhibit_1}}\n\n（选项A）房室结的异常通路是房室结折返性心动过速的典型原因。这种心律失常最常影响心脏正常且年轻的患者。\n\n（选项C）心脏自主神经病变，可在帕金森病或糖尿病控制不良的患者中发生，通常会导致交感神经心脏反应受损。这通常会导致运动耐受不良和直立性低血压，但对心律失常的贡献不大。\n\n（选项D）传导系统纤维化（通常与年龄相关）是导致缓慢性心律失常的主要因素，包括窦性心动过缓（例如，病态窦房结综合征）和房室传导阻滞。\n\n（选项E）窦房结自律性增强引起窦性心动过速（例如，运动时生理性）。在房颤期间，窦房结中的电信号被整个心房广泛紊乱的电活动所抑制。\n\n教育目标：\n心房重塑是房颤的主要致病因素。导致心房扩张的年龄和合并症（例如，高血压、心力衰竭、二尖瓣疾病）会引起心房结构变化，从而易于发生房颤。此外，年龄和既往房颤会导致心房传导系统发生变化，从而进一步传播房颤。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of atrial fibrillation, specifically the role of atrial remodeling in the progression from paroxysmal to persistent atrial fibrillation. It assesses understanding of structural and electrical changes in the atria that contribute to the maintenance of the arrhythmia.\n\nThe best approach is to recognize the patient's risk factors (hypertension, heart failure, age) and how these contribute to atrial remodeling. Understanding that atrial remodeling involves both structural and electrical changes that facilitate the propagation of atrial fibrillation is key to selecting the correct answer.",
+    "zh": "本题考察了对房颤病理生理学的了解，特别是心房重塑在从阵发性房颤发展到持续性房颤中的作用。它评估了对心房中促成心律失常维持的结构和电学变化的理解。\n\n最好的方法是识别患者的危险因素（高血压、心力衰竭、年龄）以及这些因素如何促成心房重塑。了解心房重塑涉及促进房颤传播的结构和电学变化是选择正确答案的关键。"
+  },
+  "tags": "Atrial fibrillation; Atrial remodeling; Cardiac arrhythmia; Hypertension; Heart failure; Electrophysiology; Cardiology",
+  "category": "CVS",
+  "question_id": "21478",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\21478",
+  "extracted_at": "2025-11-05T12:11:32.609195",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:28:38.160979",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

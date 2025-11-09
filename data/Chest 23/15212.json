@@ -1,0 +1,77 @@
+{
+  "question_stem": {
+    "en": "A 67-year-old man abruptly develops severe chest pain and respiratory distress before collapsing. The emergency medical team finds him unresponsive with no pulse, and he cannot be revived despite appropriate resuscitation efforts. A photograph of the patient's lung as seen at autopsy is shown below {{exhibit_1}}.",
+    "zh": "一名67岁男性突发剧烈胸痛和呼吸窘迫，随后倒地。急救医疗队发现他无反应、无脉搏，尽管进行了适当的复苏措施，仍无法挽救。患者尸检时肺部的照片如下所示 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following underlying histopathologic changes are most likely to be present on microscopy?",
+    "zh": "镜检时最有可能出现以下哪种潜在的组织病理学改变？"
+  },
+  "options": {
+    "A": {
+      "en": "Ferruginous bodies embedded within interstitial fibrous tissue",
+      "zh": "铁质小体嵌入间质纤维组织中"
+    },
+    "B": {
+      "en": "Hemosiderin-laden macrophages within congested airspaces",
+      "zh": "含铁血黄素巨噬细胞位于充血的肺泡腔内"
+    },
+    "C": {
+      "en": "Interalveolar septal destruction with airspace enlargement",
+      "zh": "肺泡间隔破坏伴肺泡腔扩大"
+    },
+    "D": {
+      "en": "Multinucleated giant cells surrounding caseating granulomas",
+      "zh": "多核巨细胞包绕干酪性肉芽肿"
+    },
+    "E": {
+      "en": "Patchy interstitial fibrosis with the presence of fibroblastic foci",
+      "zh": "斑片状间质纤维化伴成纤维细胞灶"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Emphysema most commonly develops due to chronic exposure to cigarette smoke via the following mechanisms:\n\n*   Inflammation and leukocyte infiltration: Tobacco exposure stimulates an inflammatory response in which immune cells (eg, alveolar macrophages) release inflammatory cytokines (eg, tumor necrosis factor) and recruit neutrophils and CD8+ T lymphocytes to the alveolar tissue.\n*   Protease-antiprotease imbalance: Infiltrating inflammatory cells produce tissue-destructive proteases (eg, elastase, matrix metalloproteinases). Tobacco smoke also inactivates alpha-1 antitrypsin, causing insufficient antiprotease activity.\n*   Oxidative stress: Cigarette smoke and chronic inflammation increase exposure to reactive oxygen species, which impart further tissue damage.\n\nThe ongoing tissue damage leads to destruction of the alveolar septa, producing enlarged alveolar airspaces. The lung apices are most heavily affected (\"smoke rises\"). As the emphysema progresses, the enlarged airspaces merge into subpleural blebs concentrated at the apices. Blebs can further expand to form massive bullae. These bullae and blebs can sometimes rupture, leading to spontaneous pneumothorax (ipsilateral pleuritic chest pain, reduced breath sounds, respiratory distress).\n\n(Choice A) Ferruginous bodies embedded within interstitial fibrous tissue are characteristic of pulmonary asbestos. These bodies represent asbestos fibers enclosed in iron-rich material; histologically, they appear as golden-brown, barbell-shaped structures. Gross pathology typically shows shrunken, fibrotic lungs with calcified pleural plaques. {{exhibit_2}}\n\n(Choice B) Hemosiderin-laden macrophages with congested airspaces are consistent with cardiogenic pulmonary edema. Gross pathology typically shows wet, heavy, congested lungs with a red-brown hue due to increased blood volume. {{exhibit_3}}\n\n(Choice D) Multinucleated giant cells surrounding caseating granulomas characterize tuberculosis. Occasionally, tuberculosis produces cavitary lung lesions that can mimic the appearance of emphysematous blebs, but on gross pathology the cavities typically contain caseous necrotic debris. {{exhibit_4}}\n\n(Choice E) Patchy interstitial fibrosis with the presence of fibroblastic foci is consistent with idiopathic pulmonary fibrosis. Gross pathology shows hardened, shrunken lungs (fibrotic retraction) and subpleural honeycombing. These changes are often most severe in the lower lobes. {{exhibit_5}}\n\nEducational objective:\nEmphysema involves inflammatory and proteolytic destruction of the alveolar septa. In severe disease, dilated alveolar pockets progressively merge into subpleural blebs. These are prone to rupture, leading to pneumothorax. {{exhibit_6}} {{exhibit_7}} {{exhibit_8}} {{exhibit_9}}",
+    "zh": "肺气肿最常由于长期接触香烟烟雾通过以下机制发展：\n\n*   炎症和白细胞浸润：接触烟草会刺激炎症反应，其中免疫细胞（如肺泡巨噬细胞）释放炎症细胞因子（如肿瘤坏死因子），并募集中性粒细胞和CD8+ T淋巴细胞到肺泡组织。\n*   蛋白酶-抗蛋白酶失衡：浸润的炎症细胞产生组织破坏性蛋白酶（如弹性蛋白酶、基质金属蛋白酶）。烟草烟雾还会使α-1抗胰蛋白酶失活，导致抗蛋白酶活性不足。\n*   氧化应激：香烟烟雾和慢性炎症会增加对活性氧的暴露，从而造成进一步的组织损伤。\n\n持续的组织损伤导致肺泡间隔的破坏，产生扩大的肺泡腔。肺尖受影响最严重（“烟雾上升”）。随着肺气肿的进展，扩大的肺泡腔合并成位于肺尖的胸膜下大疱。大疱可以进一步扩大形成巨大的大疱。这些大疱有时会破裂，导致自发性气胸（同侧胸膜炎性胸痛、呼吸音减弱、呼吸窘迫）。\n\n(选项 A) 铁质小体嵌入间质纤维组织是肺石棉沉着症的特征。这些小体代表包裹在富含铁的物质中的石棉纤维；组织学上，它们呈现金棕色、哑铃状结构。大体病理学通常显示萎缩、纤维化的肺，伴有钙化的胸膜斑块。{{exhibit_2}}\n\n(选项 B) 含铁血黄素巨噬细胞位于充血的肺泡腔内与心源性肺水肿一致。大体病理学通常显示湿润、沉重、充血的肺，由于血容量增加而呈现红棕色。{{exhibit_3}}\n\n(选项 D) 多核巨细胞包绕干酪性肉芽肿是肺结核的特征。偶尔，肺结核会产生空洞性肺损伤，可以模仿肺气肿性大疱的外观，但大体病理学上，空洞通常包含干酪性坏死碎片。{{exhibit_4}}\n\n(选项 E) 斑片状间质纤维化伴成纤维细胞灶与特发性肺纤维化一致。大体病理学显示肺硬化、萎缩（纤维化收缩）和胸膜下蜂窝状改变。这些变化通常在下叶最为严重。{{exhibit_5}}\n\n教育目标：\n肺气肿涉及肺泡间隔的炎症性和蛋白水解性破坏。在严重疾病中，扩张的肺泡囊逐渐合并成胸膜下大疱。这些易于破裂，导致气胸。{{exhibit_6}} {{exhibit_7}} {{exhibit_8}} {{exhibit_9}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathological changes associated with emphysema, specifically the destruction of alveolar septa and airspace enlargement. It requires recognizing the microscopic findings characteristic of this condition.\n\nThe best approach is to correlate the clinical presentation (sudden chest pain and respiratory distress, likely pneumothorax) with the underlying lung pathology of emphysema. Eliminate options that represent other lung diseases based on their distinct histological features.",
+    "zh": "本题考察与肺气肿相关的病理学改变，特别是肺泡间隔的破坏和肺泡腔的扩大。它要求识别这种疾病的特征性微观发现。\n\n最佳方法是将临床表现（突发性胸痛和呼吸窘迫，可能为气胸）与肺气肿的潜在肺部病理学相关联。根据其他肺部疾病的独特组织学特征，排除代表其他肺部疾病的选项。"
+  },
+  "tags": "Emphysema; Lung pathology; Alveolar destruction; Airspace enlargement; Pneumothorax; Respiratory distress; Histopathology; Pulmonary disease",
+  "exhibit_1": "image1.jpg",
+  "exhibit_2": "image2.jpg",
+  "exhibit_3": "image3.jpg",
+  "exhibit_4": "image4.jpg",
+  "exhibit_5": "image5.jpg",
+  "exhibit_6": "image6.jpg",
+  "exhibit_7": "image7.jpg",
+  "exhibit_8": "image8.jpg",
+  "exhibit_9": "image9.jpg",
+  "category": "Chest",
+  "question_id": "15212",
+  "has_exhibits": true,
+  "exhibit_count": 9,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg",
+    "image9.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\15212",
+  "extracted_at": "2025-11-05T11:38:35.653923",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:35:24.522564",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

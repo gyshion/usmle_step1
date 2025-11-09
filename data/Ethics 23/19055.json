@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old man is scheduled to have electrode implantation surgery for the treatment of advanced Parkinson disease. Three days before the procedure, the surgeon discusses the details of the operation, including associated risks and benefits, as well as alternate treatment options. The patient expresses understanding of the discussion and signs the consent form. In the preoperative room on the day of the procedure, however, he becomes anxious and nervously says, \"I can't do this, doctor. I'm sorry. I don't want to have the surgery anymore.\"",
+    "zh": "一名55岁男性计划接受电极植入手术以治疗晚期帕金森病。手术前三天，外科医生讨论了手术的细节，包括相关的风险和益处，以及其他治疗方案。患者表示理解讨论并签署了知情同意书。然而，在手术当天的术前准备室里，他变得焦虑并紧张地说：“我不能做这个，医生。对不起。我不想再做手术了。”"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate course of action?",
+    "zh": "以下哪项是最合适的行动方案？"
+  },
+  "options": {
+    "A": {
+      "en": "Acknowledge the patient's concern and offer a sedative to alleviate anxiety",
+      "zh": "承认病人的担忧并提供镇静剂以减轻焦虑"
+    },
+    "B": {
+      "en": "Ask the patient what has changed since he signed the consent form",
+      "zh": "询问患者自签署知情同意书以来发生了什么变化"
+    },
+    "C": {
+      "en": "Cancel and reschedule the operation for another time",
+      "zh": "取消手术并另行安排时间"
+    },
+    "D": {
+      "en": "Review the benefits of the procedure and explain that his motor symptoms will worsen without it",
+      "zh": "回顾手术的益处，并解释如果不做手术，他的运动症状会恶化"
+    },
+    "E": {
+      "en": "Tell the patient that his anxiety is normal and he will feel better after the procedure",
+      "zh": "告诉患者他的焦虑是正常的，手术后他会感觉更好"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Voluntarily given informed consent is a prerequisite for proceeding with any nonemergency medical treatment. In this case, informed consent was obtained 3 days prior, but the patient now states that he does not want the surgery. Patients have the right to withdraw consent at any time. When patients change their minds and refuse treatment, it is the physician's responsibility to engage them in a new discussion of informed consent or informed refusal.\n\nThis patient has likely developed concerns about the procedure that were not discussed or fully addressed in the initial informed consent process. The best approach is to ask him what has changed and to explore his specific concerns related to the surgery in a nonjudgmental fashion, without pressuring him to reconsent.\n\n(Choice A) It would be inappropriate to medicate the patient without first assessing his concerns. Sedative drugs have cognitive effects that may impair the patient's capacity to give informed consent or refusal.\n\n(Choice C) Rescheduling the operation without first addressing the patient's concerns and conducting a new informed consent process is inappropriate.\n\n(Choice D) Reviewing only the benefits of the procedure and the risks of no treatment may pressure the patient to reconsent. An informed consent discussion must also include the risks of the procedure and the risks/benefits of alternate treatments.\n\n(Choice E) This patient has withdrawn consent for the procedure, making his signed consent no longer valid. The physician cannot proceed with surgery.",
+    "zh": "自愿提供的知情同意是进行任何非紧急医疗治疗的先决条件。在这种情况下，知情同意是在3天前获得的，但患者现在表示他不想做手术。患者有权随时撤回同意。当患者改变主意并拒绝治疗时，医生有责任与他们进行关于知情同意或知情拒绝的新讨论。\n\n该患者可能已经产生了对手术的担忧，这些担忧在最初的知情同意过程中没有被讨论或充分解决。最好的方法是询问他发生了什么变化，并以非评判的方式探讨他与手术相关的具体担忧，而不是强迫他重新同意。\n\n（选项A）在没有首先评估患者的担忧的情况下给药是不合适的。镇静药物具有认知影响，可能会损害患者提供知情同意或拒绝的能力。\n\n（选项C）在没有首先解决患者的担忧并进行新的知情同意程序的情况下重新安排手术是不合适的。\n\n（选项D）仅回顾手术的益处和不治疗的风险可能会迫使患者重新同意。知情同意讨论还必须包括手术的风险以及替代治疗的风险/益处。\n\n（选项E）该患者已撤回手术的同意，使其签署的同意不再有效。医生不能进行手术。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of informed consent, specifically the patient's right to withdraw consent at any time, and the physician's responsibility to address the patient's concerns. \n\nThe best approach is to recognize the patient's right to refuse treatment and to initiate a new discussion to understand the reasons for the change of mind, ensuring a non-judgmental and informative conversation.",
+    "zh": "这个问题测试了对知情同意的理解，特别是患者随时撤回同意的权利，以及医生解决患者担忧的责任。\n\n最佳方法是承认患者拒绝治疗的权利，并启动新的讨论，以了解改变主意的原因，确保进行非评判性和信息丰富的对话。"
+  },
+  "tags": "Informed consent; Patient autonomy; Medical ethics; Parkinson disease; Surgical consent",
+  "category": "Ethics",
+  "question_id": "19055",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\19055",
+  "extracted_at": "2025-11-05T14:18:01.504301",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:47:46.400972",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

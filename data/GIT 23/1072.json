@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 2-year-old boy who attends daycare is brought to the emergency department due to diarrhea, fatigue, and abdominal cramps. The parents also state that he has foul-smelling, frothy stools. The boy is admitted for rehydration and subsequently diagnosed with giardiasis, which is treated with metronidazole. He improves and is discharged home. One week after discharge, the boy is seen by the primary health care provider for recurrent symptoms of frothy, loose stools and abdominal bloating and cramping. Which of the following steps of this pathway is most likely impaired in this patient? {{exhibit_1}}",
+    "zh": "一名2岁男童在托儿所就读，因腹泻、疲劳和腹部痉挛被送往急诊科。父母还说他有恶臭、起泡的粪便。男孩因补液入院，随后被诊断为贾第虫病，并用甲硝唑治疗。他的病情有所好转并出院。出院一周后，该男孩因反复出现起泡、稀便以及腹胀和痉挛的症状去看初级保健医生。该患者该途径的以下哪个步骤最有可能受损？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following steps of this pathway is most likely impaired in this patient?",
+    "zh": "该患者该途径的以下哪个步骤最有可能受损？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Lactose is a disaccharide present in milk and other dairy products that is normally hydrolyzed into glucose and galactose by lactase, a brush border enzyme concentrated in epithelial cells of the small intestine. Lactose intolerance is due to decreased or absent lactase. Malabsorbed lactose then enters the large intestine where it is fermented by bacteria, causing the clinical features of lactose intolerance: diarrhea, flatulence, and abdominal bloating and cramping.\n\nLactose intolerance can be either primary or secondary. Primary lactose intolerance is due to a genetically regulated reduction of lactase production, and its incidence increases with age. Secondary or acquired lactose intolerance can be due to inflammation (eg, celiac disease) or infection (eg, giardiasis) of the small intestine, both of which cause cellular damage to the intestinal lining. The damaged cells slough off and are replaced by immature cells with low lactase concentrations, resulting in a decreased ability to convert lactose to galactose. Secondary lactose intolerance is common after giardial infections.\n\n(Choices A, B, and C) Galactose-1-phosphate uridyl transferase (GALT) deficiency causes the most severe and most common form of galactosemia. Symptoms occur within the first few days of life after initiation of breastfeeding or formula and include vomiting, jaundice, hepatomegaly, and lethargy. Excess galactose is converted to galactitol by aldose reductase, resulting in cataracts from excess galactitol deposition in the lens. Galactokinase deficiency is less a common type of galactosemia, causing cataract formation only.\n\n(Choice D) Lactose synthase UDP-galactose to lactose within the mammary glands during milk formation. Deficiency of this enzyme does not result in lactose malabsorption.\n\nEducational objective:\nSecondary lactose deficiency can occur after inflammatory (eg, celiac disease) or infectious (eg, giardiasis) processes damage the microvilli of the small intestines. Clinical presentation includes abdominal distension and cramping, flatulence, and diarrhea. {{exhibit_2}}",
+    "zh": "乳糖是存在于牛奶和其他乳制品中的一种双糖，通常由乳糖酶（一种集中在小肠上皮细胞中的刷状缘酶）水解成葡萄糖和半乳糖。乳糖不耐受是由于乳糖酶减少或缺失引起的。未被吸收的乳糖随后进入大肠，在那里被细菌发酵，导致乳糖不耐受的临床特征：腹泻、胀气、腹胀和痉挛。\n\n乳糖不耐受可以是原发性的，也可以是继发性的。原发性乳糖不耐受是由于乳糖酶产生的基因调控减少，其发病率随年龄增长而增加。继发性或获得性乳糖不耐受可由小肠炎症（例如，乳糜泻）或感染（例如，贾第虫病）引起，这两种情况都会导致肠道内壁的细胞损伤。受损细胞脱落，并被乳糖酶浓度较低的不成熟细胞所取代，导致将乳糖转化为半乳糖的能力下降。继发性乳糖不耐受在贾第虫感染后很常见。\n\n（选项A、B和C）半乳糖-1-磷酸尿苷转移酶（GALT）缺乏症会导致最严重和最常见的半乳糖血症形式。症状发生在开始母乳喂养或配方奶后的几天内，包括呕吐、黄疸、肝肿大和嗜睡。过量的半乳糖被醛糖还原酶转化为半乳糖醇，导致晶状体内过量半乳糖醇沉积引起的白内障。半乳糖激酶缺乏症是半乳糖血症的一种不太常见的类型，仅导致白内障形成。\n\n（选项D）乳糖合酶在乳腺中将UDP-半乳糖转化为乳糖，在乳汁形成过程中。这种酶的缺乏不会导致乳糖吸收不良。\n\n教育目标：\n继发性乳糖缺乏症可在炎症（例如，乳糜泻）或感染性（例如，贾第虫病）过程损害小肠的微绒毛后发生。临床表现包括腹胀和痉挛、胀气和腹泻。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of lactose intolerance, specifically secondary lactose intolerance caused by intestinal infections like giardiasis. It also tests understanding of the lactose metabolism pathway.\n\nThe key to solving this question is recognizing the patient's recent giardiasis infection and the subsequent development of lactose intolerance symptoms. This suggests a secondary lactose intolerance due to damage to the intestinal lining and reduced lactase production.",
+    "zh": "这个问题测试对乳糖不耐受的知识，特别是贾第虫病等肠道感染引起的继发性乳糖不耐受。它还测试对乳糖代谢途径的理解。\n\n解决这个问题的关键是认识到患者最近的贾第虫病感染以及随后出现的乳糖不耐受症状。这表明继发性乳糖不耐受是由于肠道内壁受损和乳糖酶产量降低所致。"
+  },
+  "tags": "Lactose intolerance; Giardiasis; Diarrhea; Malabsorption; Lactase deficiency; Gastroenterology; Infectious disease; Carbohydrate metabolism",
+  "category": "GIT",
+  "question_id": "1072",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\1072",
+  "extracted_at": "2025-11-05T14:21:51.417928",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:49:51.425747",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 2-year-old boy is brought to the office due to fever. For the past 6 days, he has had a fever of 39 C (102.2 F) to 40 C (104 F) that subsides minimally with acetaminophen. Yesterday, his mother noted a rash on his diaper area. Temperature is 39.2 C (102.6 F), pulse is 140/min, and respirations are 30/min. Physical examination shows an irritable boy. The patient's neck is supple with full range of motion. Both hands and feet are slightly erythematous and edematous, and a peeling rash is present over the perineal area. His eyes and lips appear as shown. {{exhibit_1}} The remainder of the examination is unremarkable.",
+    "zh": "一名 2 岁男孩因发热来就诊。在过去的 6 天里，他一直有 39 摄氏度 (102.2 华氏度) 到 40 摄氏度 (104 华氏度) 的发烧，对乙酰氨基酚的反应很小。昨天，他的母亲注意到他的尿布区出现了皮疹。体温为 39.2 摄氏度 (102.6 华氏度)，脉搏为 140 次/分钟，呼吸为 30 次/分钟。体格检查显示患儿烦躁不安。患者的颈部柔软，活动范围正常。双手和双脚略有发红和水肿，会阴区出现脱皮性皮疹。他的眼睛和嘴唇如所示。{{exhibit_1}} 其余检查无异常。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Adenovirus infection",
+      "zh": "腺病毒感染"
+    },
+    "B": {
+      "en": "Hand, foot, and mouth disease",
+      "zh": "手足口病"
+    },
+    "C": {
+      "en": "Kawasaki disease",
+      "zh": "川崎病"
+    },
+    "D": {
+      "en": "Measles",
+      "zh": "麻疹"
+    },
+    "E": {
+      "en": "Scarlet fever",
+      "zh": "猩红热"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has KAWASAKI DISEASE, an inflammatory condition characterized by vasculitis of medium-sized arteries. Most cases occur in children age <5 with a peak incidence among those of East Asian ethnicity. The persistent release of proinflammatory cytokines causes irritability and a PROLONGED HIGH FEVER that is often unresponsive to antipyretics.\n\nDiagnosis is clinical, consisting of fever ≥5 days and ≥4 of the following findings:\n\n• Conjunctivitis: bilateral, nonexudative, limbus sparing\n• Mucositis: erythematous, fissured lips; strawberry tongue\n• Rash: polymorphous, often begins in perineal area\n• Distal extremity changes: erythema, edema, desquamation of the hands and feet\n• Cervical lymphadenopathy\n\nA serious complication of Kawasaki disease is coronary artery inflammation leading to the development of CORONARY ARTERY ANEURYSMS, which can lead to myocardial ischemia, arrhythmias, and sudden death. {{exhibit_2}}\n\n(Choice A) Pharyngoconjunctival fever due to adenovirus can present with prolonged fever and nonexudative conjunctivitis. In contrast to this case, however, patients typically have pharyngitis, not mucositis of the lips, and edematous extremities are not seen.\n\n(Choice B) Hand, foot, and mouth disease caused by coxsackievirus presents with fever and rash on the palms and soles. However, discrete oropharyngeal sores would be seen, and conjunctivitis and extremity edema would not be expected.\n\n(Choice D) In addition to conjunctivitis and fever, measles causes cough and coryza, neither of which is seen here. Oropharyngeal examination may reveal Koplik spots, or discrete buccal lesions, not diffuse labial erythema and inflammation. In addition, the measles rash is characterized by cephalocaudal spread of maculopapular lesions that subsequently darken and coalesce; this patient's isolated perineal rash is inconsistent with measles.\n\n(Choice E) Scarlet fever presents with fever, strawberry tongue, and rash. Although the rash in scarlet fever can desquamate, it is sandpaper-textured, diffuse, and prominent along skin folds (eg, axillae, antecubital fossae). Moreover, exudative pharyngitis is usually present, and conjunctivitis would not be expected.\n\nEducational objective: Kawasaki disease is a vasculitis characterized by fever for ≥5 days and ≥4 of the following findings: nonexudative conjunctivitis, extremity changes, cervical lymphadenopathy, mucositis, and polymorphous rash.",
+    "zh": "该患者患有川崎病，这是一种以中型动脉血管炎为特征的炎症性疾病。大多数病例发生在 5 岁以下的儿童中，东亚裔人群的发病率最高。促炎细胞因子的持续释放会导致烦躁不安和持续的高热，通常对解热药无反应。\n\n诊断为临床诊断，包括发热 ≥5 天和以下发现中的 ≥4 项：\n\n• 结膜炎：双侧，非渗出性，边缘保留\n• 黏膜炎：发红，嘴唇皲裂；草莓舌\n• 皮疹：多形性，常始于会阴区\n• 肢端改变：手和脚的红斑、水肿、脱屑\n• 颈淋巴结肿大\n\n川崎病的一个严重并发症是冠状动脉炎症，导致冠状动脉动脉瘤的发生，这可能导致心肌缺血、心律失常和猝死。{{exhibit_2}}\n\n(选项 A) 腺病毒引起的咽结膜热可表现为持续发热和非渗出性结膜炎。然而，与本病例相反，患者通常患有咽炎，而不是嘴唇黏膜炎，并且没有看到肢端水肿。\n\n(选项 B) 由柯萨奇病毒引起的手足口病表现为发热和手掌和脚底出现皮疹。然而，会看到离散的口咽疮，并且不会出现结膜炎和肢端水肿。\n\n(选项 D) 除了结膜炎和发热外，麻疹还会引起咳嗽和流涕，此处均未见。口咽检查可能会发现柯普利克斑，或离散的颊部病变，而不是弥漫性唇部红斑和炎症。此外，麻疹皮疹的特征是斑丘疹从头到脚蔓延，随后变黑并融合；该患者的孤立性会阴皮疹与麻疹不符。\n\n(选项 E) 猩红热表现为发热、草莓舌和皮疹。尽管猩红热的皮疹可能会脱屑，但其质地为砂纸样，弥漫，并在皮肤褶皱（例如腋窝、肘前窝）处突出。此外，通常存在渗出性咽炎，并且不会出现结膜炎。\n\n教育目标：川崎病是一种血管炎，其特征为发热 ≥5 天，并符合以下发现中的 ≥4 项：非渗出性结膜炎、肢端改变、颈淋巴结肿大、黏膜炎和多形性皮疹。"
+  },
+  "summary": {
+    "en": "This question tests the diagnosis of Kawasaki disease, a pediatric vasculitis characterized by prolonged fever and a constellation of clinical findings including conjunctivitis, mucositis, rash, extremity changes, and lymphadenopathy. It also highlights the potential for serious cardiac complications.\n\nTo solve this question, identify the key features of prolonged fever, rash in the perineal area, erythematous and edematous hands and feet, and lip changes. Compare these findings to the diagnostic criteria for Kawasaki disease and differentiate it from other febrile illnesses with rash in children.",
+    "zh": "此问题测试川崎病的诊断，这是一种以持续发热和一系列临床表现为特征的儿科血管炎，包括结膜炎、黏膜炎、皮疹、肢端改变和淋巴结病。它还强调了严重的心脏并发症的可能性。\n\n要解决这个问题，请确定持续发热、会阴区皮疹、手脚发红和水肿以及嘴唇改变的关键特征。将这些发现与川崎病的诊断标准进行比较，并将其与其他伴有儿童皮疹的发热性疾病区分开来。"
+  },
+  "tags": "Kawasaki disease; Pediatric vasculitis; Fever; Rash; Conjunctivitis; Mucositis; Extremity changes; Coronary artery aneurysms; Infectious disease",
+  "category": "Miscellanous",
+  "question_id": "20774",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Miscellanous 23\\20774",
+  "extracted_at": "2025-11-05T19:25:34.485565",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:14:45.002130",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

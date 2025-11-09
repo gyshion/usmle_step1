@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "Researchers are conducting a study to determine the effectiveness of a novel humanized monoclonal antibody in patients with metastatic colorectal cancer. This medication works by binding to the programmed cell death-1 receptor on T cells to block its ligands from binding. They find this therapy is most effective in patients with a high degree of microsatellite instability or defects in DNA mismatch repairs. Which of the following best explains the favorable drug effect in this subset of patients?",
+    "zh": "研究人员正在进行一项研究，以确定一种新型人源化单克隆抗体在转移性结直肠癌患者中的疗效。该药物通过与 T 细胞上的程序性细胞死亡-1 受体结合来阻断其配体结合。他们发现这种疗法在具有高度微卫星不稳定性或 DNA 错配修复缺陷的患者中最有效。以下哪项最能解释该药物在这一亚组患者中的有利作用？"
+  },
+  "question": {
+    "en": "Which of the following best explains the favorable drug effect in this subset of patients?",
+    "zh": "以下哪项最能解释该药物在这一亚组患者中的有利作用？"
+  },
+  "options": {
+    "A": {
+      "en": "Higher expression of P-glycoprotein",
+      "zh": "P-糖蛋白表达升高"
+    },
+    "B": {
+      "en": "Higher number of cancer neoantigens",
+      "zh": "癌新抗原数量增加"
+    },
+    "C": {
+      "en": "Higher rate of KRAS mutations",
+      "zh": "KRAS 突变率升高"
+    },
+    "D": {
+      "en": "Higher rate of p53 mutations",
+      "zh": "p53 突变率升高"
+    },
+    "E": {
+      "en": "More intense desmoplastic reaction",
+      "zh": "更强烈的促纤维组织增生反应"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The genetic mutations that drive oncogenesis also create unique proteins not found in healthy cells. Antigens from these proteins (neoantigens) are displayed on the surface of tumor cells and may be subsequently recognized by patrolling cytotoxic T cells as \"not-self\" and destroyed. Cancers with defects in mismatch repair proteins and high microsatellite instability (reflecting DNA polymerase errors during cellular replication) are particularly susceptible to immune recognition because they rapidly accumulate mutations and generate approximately 20-fold more neoantigens than tumor cells that have normal mismatch repair.\n\nCancer cells use a wide range of mechanisms to thwart cytotoxic T-cell detection, including:\n\nDownregulating cell surface receptors involved in immune recognition. For instance, decreased expression of the major histocompatibility complex leads to decreased neoantigen presentation on the surface of the cell.\nOverexpressing cell surface proteins that inhibit the immune response. For instance, cancer cells can overexpress programmed death-ligand 1 (PD-L1), which binds to the programmed cell death-1 (PD-1) receptor on the T-cell surface and inhibits the cytotoxic T-cell response (T-cell exhaustion).\nCancer cells that overexpress PD-L1 are less susceptible to cytotoxic T-cell–mediated destruction (enhanced T-cell exhaustion). These tumors can be treated with monoclonal antibodies that block the PD-1 receptor on T cells (eg, pembrolizumab, nivolumab) or the PD-L1 ligand on cancer cells (eg, atezolizumab). Treatment stimulates the cytotoxic T-cell response; it is particularly effective against tumors with large quantities of neoantigens (eg, those with deficits in mismatch repair) because these tumors are particularly susceptible to recognition as \"not-self.\" {{exhibit_1}}\n\n(Choice A) P-glycoprotein is a multidrug transporter that can be used by cancer cells to pump cytotoxic chemotherapy out of the cell.\n\n(Choice C) KRAS is a proto-oncogene that is part of the signaling pathway for the epidermal growth factor receptor. Activating mutations in KRAS lead to unregulated cellular growth. Tumors with activating mutations to KRAS are resistant to monoclonal antibodies against epidermal growth factor receptor because they have an activating mutation in a downstream signal.\n\n(Choice D) p53 is a tumor-suppressor protein that inhibits cellular replication when DNA is damaged and induces apoptosis. Mutations to p53 can lead to unregulated cellular growth and may inhibit cytotoxic chemotherapy–mediated cancer cell apoptosis.\n\n(Choice E) Desmoplasia (dense fibrosis) around a tumor can reduce the ability of cytotoxic chemotherapy to enter cancer cells.\n\nEducational objective:\nCancer cells avoid immune recognition by overexpressing programmed death-ligand 1 (PD-L1), which binds to the programmed cell death-1 (PD-1) receptor on cytotoxic T cells and inhibits their response (T-cell exhaustion). Monoclonal antibodies that block PD-L1 and PD-1 are effective against cancers that express high levels of neoantigens on their surface because these tumors are particularly susceptible to immune recognition by cytotoxic T cells.",
+    "zh": "驱动肿瘤发生的基因突变也会产生在健康细胞中不存在的独特蛋白质。来自这些蛋白质的抗原（新抗原）显示在肿瘤细胞的表面，随后可能被巡逻的细胞毒性 T 细胞识别为“非自身”并被破坏。具有错配修复蛋白缺陷和高度微卫星不稳定性（反映细胞复制过程中 DNA 聚合酶错误）的癌症特别容易受到免疫识别，因为它们迅速积累突变，并且产生的新抗原数量大约是具有正常错配修复的肿瘤细胞的 20 倍。\n\n癌细胞使用多种机制来阻止细胞毒性 T 细胞的检测，包括：\n\n下调参与免疫识别的细胞表面受体。例如，主要组织相容性复合物表达降低导致细胞表面新抗原呈递减少。\n过表达抑制免疫反应的细胞表面蛋白。例如，癌细胞可以过表达程序性死亡配体 1 (PD-L1)，它与 T 细胞表面的程序性细胞死亡-1 (PD-1) 受体结合，并抑制细胞毒性 T 细胞反应（T 细胞耗竭）。\n过表达 PD-L1 的癌细胞不易受到细胞毒性 T 细胞介导的破坏（增强的 T 细胞耗竭）。这些肿瘤可以用阻断 T 细胞上 PD-1 受体（例如，帕博利珠单抗、纳武利尤单抗）或癌细胞上 PD-L1 配体（例如，阿替利珠单抗）的单克隆抗体治疗。治疗刺激细胞毒性 T 细胞反应；它对具有大量新抗原的肿瘤（例如，那些存在错配修复缺陷的肿瘤）特别有效，因为这些肿瘤特别容易被识别为“非自身”。 {{exhibit_1}}\n\n（选项 A）P-糖蛋白是一种多药转运蛋白，可被癌细胞用于将细胞毒性化疗药物泵出细胞。\n\n（选项 C）KRAS 是一种原癌基因，是表皮生长因子受体信号通路的一部分。KRAS 中的激活突变会导致细胞不受控制的生长。具有 KRAS 激活突变的肿瘤对针对表皮生长因子受体的单克隆抗体具有耐药性，因为它们在下游信号中存在激活突变。\n\n（选项 D）p53 是一种抑癌蛋白，当 DNA 受到损伤时抑制细胞复制并诱导细胞凋亡。p53 突变可导致细胞不受控制的生长，并可能抑制细胞毒性化疗介导的癌细胞凋亡。\n\n（选项 E）肿瘤周围的促纤维组织增生（致密纤维化）可降低细胞毒性化疗药物进入癌细胞的能力。\n\n教育目标：\n癌细胞通过过表达程序性死亡配体 1 (PD-L1) 来逃避免疫识别，后者与细胞毒性 T 细胞上的程序性细胞死亡-1 (PD-1) 受体结合并抑制其反应（T 细胞耗竭）。阻断 PD-L1 和 PD-1 的单克隆抗体对在表面表达高水平新抗原的癌症有效，因为这些肿瘤特别容易受到细胞毒性 T 细胞的免疫识别。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of how mismatch repair deficiency and microsatellite instability lead to increased neoantigen production in cancer cells, making them more susceptible to immune checkpoint inhibitors like anti-PD-1 antibodies. It also assesses knowledge of mechanisms by which cancer cells evade immune detection. \n\nThe key to solving this question is recognizing the link between mismatch repair deficiency, neoantigen production, and response to immunotherapy. Understanding that tumors with high neoantigen loads are more likely to be recognized and targeted by the immune system after checkpoint blockade is crucial.",
+    "zh": "这个问题测试了对错配修复缺陷和微卫星不稳定性如何导致癌细胞中新抗原产生增加的理解，这使得它们更容易受到免疫检查点抑制剂（如抗 PD-1 抗体）的影响。它还评估了对癌细胞逃避免疫检测的机制的了解。\n\n解决这个问题的关键是认识到错配修复缺陷、新抗原产生和对免疫治疗反应之间的联系。了解具有高新抗原负荷的肿瘤在检查点阻断后更有可能被免疫系统识别和靶向至关重要。"
+  },
+  "tags": "Microsatellite instability; Mismatch repair deficiency; Neoantigens; Immunotherapy; PD-1 inhibitors; Colorectal cancer; Tumor immunology; Immune evasion",
+  "category": "Blood",
+  "question_id": "14956",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\14956",
+  "extracted_at": "2025-11-05T11:23:56.018816",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:27:22.738296",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

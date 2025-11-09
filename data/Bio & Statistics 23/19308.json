@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A study assessed the association between a new vaccine and traveler's diarrhea (TD). Researchers selected a random sample of people who intended to travel to regions where they were at increased risk for TD and who had received the new vaccine and another independent random sample of people who intended to travel to the same regions and who had not received the new vaccine. These 2 samples of travelers were assessed for the occurrence of TD during the trip and for 7 days after returning home. ",
+    "zh": "一项研究评估了一种新疫苗与旅行者腹泻 (TD) 之间的关联。研究人员选取了计划前往 TD 风险增加地区的、已接种新疫苗的人的随机样本，以及计划前往相同地区但未接种新疫苗的另一独立随机样本。对这两组旅行者进行了评估，以确定他们在旅行期间和返回家后 7 天内 TD 的发生情况。"
+  },
+  "question": {
+    "en": "Which of the following measures of association are the investigators most likely to report?",
+    "zh": "研究人员最有可能报告以下哪种关联指标？"
+  },
+  "options": {
+    "A": {
+      "en": "Incidence",
+      "zh": "发病率"
+    },
+    "B": {
+      "en": "Median survival time",
+      "zh": "中位生存时间"
+    },
+    "C": {
+      "en": "Odds ratio",
+      "zh": "比值比"
+    },
+    "D": {
+      "en": "Prevalence",
+      "zh": "患病率"
+    },
+    "E": {
+      "en": "Relative risk",
+      "zh": "相对危险度"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This case describes a cohort study in which participants are initially selected based on their EXPOSURE STATUS to a risk modifier: exposed (eg, vaccinated) or nonexposed (eg, not vaccinated). Once participants are categorized based on exposure status, the occurrence (ie, incidence) of the outcome/disease of interest (ie, traveler's diarrhea [TD]) within a specific period is determined in each group. The RISK OF DISEASE is finally compared between exposed and nonexposed groups to estimate the ASSOCIATION between exposure to a risk modifier and disease occurrence. A common measure of association in cohort studies is the RELATIVE RISK (RR). The RR is calculated as follows:\n\nRR = (risk of disease in exposed) / (risk of disease in nonexposed)\n\nThe exposed group could also have been defined as the unvaccinated group and the nonexposed group as the vaccinated group; in this case, the RR would be inversed (interpretation of RR depends on what is chosen to represent the exposure).\n\n(Choices A and D) Incidence (ie, new occurrences of a disease in a population over a period) and prevalence (ie, existing cases of a disease in a population at a point in time) are measures of disease burden. They do not directly convey information regarding the relationship between exposure and disease.\n\n(Choice B) Median survival time is calculated in cohort studies or clinical trials and is used to compare the median time to an event of interest (eg, TD) in ≥2 groups of individuals (eg, those not vaccinated and those vaccinated). The purpose of this study is to assess the association between exposure to a risk modifier (eg, vaccination) and disease occurrence (eg, TD), not to compare the median time to develop the disease (eg, TD) between exposed and nonexposed groups.\n\n(Choice C) Odds ratio is calculated in case-control studies, where 2 groups of individuals are initially identified as \"cases\" or \"controls\" according to an outcome (eg, disease of interest), and then the frequency of exposure to the risk factors is compared between cases and controls to estimate the association between the risk factors and the outcomes. {{exhibit_1}}",
+    "zh": "本案例描述了一项队列研究，参与者最初是根据其对风险修正因素的暴露状态进行选择的：暴露（例如，接种疫苗）或未暴露（例如，未接种疫苗）。一旦参与者根据暴露状态进行分类，则在特定时期内确定每个组中感兴趣的结果/疾病（即旅行者腹泻 [TD]）的发生情况（即发病率）。最后，比较暴露组和未暴露组之间的疾病风险，以估计暴露于风险修正因素与疾病发生之间的关联。队列研究中一个常见的关联指标是相对危险度 (RR)。RR 的计算方法如下：\n\nRR =（暴露组疾病风险）/（未暴露组疾病风险）\n\n暴露组也可以定义为未接种疫苗组，未暴露组定义为接种疫苗组；在这种情况下，RR 将被反转（RR 的解释取决于选择代表暴露的内容）。\n\n（选项 A 和 D）发病率（即一段时间内人群中新发生的疾病）和患病率（即特定时间点人群中现有的疾病病例）是衡量疾病负担的指标。它们没有直接传达有关暴露与疾病之间关系的信息。\n\n（选项 B）中位生存时间是在队列研究或临床试验中计算的，用于比较≥2 组个体（例如，未接种疫苗组和接种疫苗组）中感兴趣事件（例如，TD）的中位时间。本研究的目的是评估暴露于风险修正因素（例如，疫苗接种）与疾病发生（例如，TD）之间的关联，而不是比较暴露组和未暴露组之间发展疾病（例如，TD）的中位时间。\n\n（选项 C）比值比是在病例对照研究中计算的，其中 2 组个体最初根据结果（例如，感兴趣的疾病）被确定为“病例”或“对照”，然后比较病例和对照组对风险因素的暴露频率，以估计风险因素与结果之间的关联。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests the understanding of study designs and measures of association, specifically focusing on cohort studies and the appropriate measure to report. It requires knowledge of the differences between incidence, prevalence, odds ratio, and relative risk.\n\nTo solve this question, identify the study design (cohort) and recall that relative risk is the measure of association used in cohort studies to compare the risk of disease between exposed and unexposed groups.",
+    "zh": "此问题考察了对研究设计和关联指标的理解，特别是侧重于队列研究和适当的报告指标。它要求了解发病率、患病率、比值比和相对危险度之间的区别。\n\n要解决此问题，请确定研究设计（队列）并记住相对危险度是队列研究中用于比较暴露组和未暴露组之间疾病风险的关联指标。"
+  },
+  "tags": "Cohort study; Relative risk; Measures of association; Epidemiology; Study design",
+  "category": "Bio",
+  "question_id": "19308",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19308",
+  "extracted_at": "2025-11-05T13:21:00.610629",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:22:28.222126",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

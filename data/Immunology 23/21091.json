@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 10-month-old boy is brought to the office due to recurrent sinopulmonary infections for the last several months. The infections were caused by encapsulated bacteria, and the patient was also recently hospitalized due to *Pneumocystis jiroveci* pneumonia. He was born at full term after an uneventful pregnancy. Family history is significant for a maternal uncle's early childhood death due to severe infection. Genetic testing of the patient reveals missense mutation of the CD40 ligand gene. Interaction between which of the following immune components is most likely impaired in this patient?",
+    "zh": "一名10个月大的男孩因最近几个月反复出现鼻窦肺部感染而来就诊。感染由荚膜细菌引起，该患者最近也因*肺孢子虫*肺炎住院。他足月出生，妊娠过程顺利。家族史显示，其母系舅舅早年因严重感染死亡。该患者的基因检测显示CD40配体基因发生错义突变。该患者最有可能受损的免疫成分之间的相互作用是什么？"
+  },
+  "question": {
+    "en": "Interaction between which of the following immune components is most likely impaired in this patient?",
+    "zh": "该患者最有可能受损的免疫成分之间的相互作用是什么？"
+  },
+  "options": {
+    "A": {
+      "en": "B cells and complement proteins",
+      "zh": "B细胞和补体蛋白"
+    },
+    "B": {
+      "en": "B cells and foreign antigens",
+      "zh": "B细胞和外来抗原"
+    },
+    "C": {
+      "en": "Neutrophils and vascular endothelial cells",
+      "zh": "中性粒细胞和血管内皮细胞"
+    },
+    "D": {
+      "en": "Phagocytes and antigen-bound antibodies",
+      "zh": "吞噬细胞和抗原结合抗体"
+    },
+    "E": {
+      "en": "T cells and antigen-presenting cells",
+      "zh": "T细胞和抗原呈递细胞"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "CD40 ligand (CD40L), a transmembrane protein on the surface of activated CD4 T cells, is the most important costimulatory signal for antigen-presenting cells (APCs) as follows: {{exhibit_1}}\n\n*   **B Cells:** Binding of CD40L to CD40 on B cells promotes the formation of germinal centers, somatic hypermutation (increased antigen-binding specificity), and immunoglobulin class switching (secretion of IgG/IgA/IgE instead of IgM). These actions significantly enhance the humoral immune response by generating the full range of effector immunoglobulins.\n*   **Macrophages and dendritic cells:** Binding of CD40L to CD40 causes the APC to produce proinflammatory cytokines, express T-cell costimulatory signals (eg, CD80/86), increase phagocytosis, and increase major histocompatibility complex class II surface expression. These changes promote the activation of additional CD4 T lymphocytes, which are critical for mounting a potent cell-mediated immune response.\n\nBecause CD40L is required for B-cells to undergo class-switching, mutations to CD40L generally cause B cells to overproduce IgM and dramatically underproduce other immunoglobulin classes (IgA, IgE, IgG). Patients with this disorder (**hyper-IgM syndrome**) generally have significant deficits in both cell-mediated (eg, prevention of *Pneumocystis* pneumonia) and humoral (eg, opsonization and destruction of encapsulated bacteria) immunity.\n\n(Choice A) Certain complement components can reduce the amount of antigen necessary for B-cell activation by binding CD19 or CD21 on the B-cell surface. This contributes to T-cell-independent B-cell activation and does not involve CD40L.\n\n(Choice B) Antigen-specific B-cell receptors bind to foreign antigens, the first step in B-cell activation. CD40L plays a role in costimulation of the B cell by binding to CD40; it does not significantly alter B-cell antigen-receptor binding.\n\n(Choice C) CD18 on neutrophils binds to intercellular adhesion molecule-1 on vascular endothelial cells, allowing the neutrophils to migrate into tissue from the bloodstream. Leukocyte adhesion deficits are usually triggered by mutations to CD18 and marked by recurrent infection. They do not involve CD40L.\n\n(Choice D) The Fc receptor (CD16) on phagocytes binds to IgG attached to microorganisms or cellular debris, leading to opsonophagocytosis. Although IgG levels are very low in hyper-IgM syndrome, which significantly reduces IgG-mediated phagocytosis, the interaction between the phagocyte Fc receptor and antigen-bound antibody remains unaffected.\n\nEducational objective:\nCD40-ligand (CD40L) is expressed primarily on activated T cells. It binds to CD40 on antigen-presenting cells, including B cells, leading to their full activation (costimulation). Therefore, CD40L plays a vital role in both the cell-mediated and humoral immune response.",
+    "zh": "CD40配体（CD40L）是激活的CD4 T细胞表面的一种跨膜蛋白，是抗原呈递细胞（APCs）最重要的共刺激信号，如下：{{exhibit_1}}\n\n*   **B细胞：** CD40L与B细胞上的CD40结合促进生发中心的形成，体细胞高突变（增加抗原结合特异性）和免疫球蛋白类别转换（分泌IgG/IgA/IgE代替IgM）。这些作用通过产生全系列的效应免疫球蛋白，显著增强体液免疫反应。\n*   **巨噬细胞和树突状细胞：** CD40L与CD40的结合导致APC产生促炎细胞因子，表达T细胞共刺激信号（例如，CD80/86），增加吞噬作用，并增加主要组织相容性复合物II类表面表达。这些变化促进了额外的CD4 T淋巴细胞的活化，这对于引发有效的细胞介导的免疫反应至关重要。\n\n由于B细胞发生类别转换需要CD40L，因此CD40L的突变通常会导致B细胞过度产生IgM，并显著减少其他免疫球蛋白类别（IgA，IgE，IgG）的产生。患有这种疾病（**高IgM综合征**）的患者通常在细胞介导免疫（例如，预防*肺孢子虫*肺炎）和体液免疫（例如，荚膜细菌的调理和破坏）方面存在显著缺陷。\n\n（选项A）某些补体成分可以通过与B细胞表面的CD19或CD21结合来减少B细胞活化所需的抗原量。这有助于T细胞非依赖性B细胞活化，并且不涉及CD40L。\n\n（选项B）抗原特异性B细胞受体与外来抗原结合，这是B细胞活化的第一步。 CD40L通过与CD40结合在B细胞的共刺激中起作用；它不会显着改变B细胞抗原受体结合。\n\n（选项C）中性粒细胞上的CD18与血管内皮细胞上的细胞间粘附分子-1结合，从而使中性粒细胞从血流中迁移到组织中。白细胞粘附缺陷通常由CD18突变引起，并以反复感染为特征。它们不涉及CD40L。\n\n（选项D）吞噬细胞上的Fc受体（CD16）与附着在微生物或细胞碎片上的IgG结合，从而导致调理吞噬作用。尽管在高IgM综合征中IgG水平非常低，这会显着降低IgG介导的吞噬作用，但吞噬细胞Fc受体和抗原结合抗体之间的相互作用仍然不受影响。\n\n教学目标：\nCD40-配体（CD40L）主要在激活的T细胞上表达。它与抗原呈递细胞（包括B细胞）上的CD40结合，从而导致它们完全激活（共刺激）。因此，CD40L在细胞介导和体液免疫反应中起着至关重要的作用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Hyper-IgM syndrome, specifically the role of CD40L in T cell and B cell interaction and its impact on humoral immunity. It also tests the ability to recognize the clinical presentation of a patient with Hyper-IgM syndrome. \n\nThe key to solving this question is recognizing the patient's history of recurrent sinopulmonary infections, *Pneumocystis* pneumonia, and family history of early childhood death due to severe infection. The missense mutation of the CD40 ligand gene points to a defect in T cell and antigen-presenting cell interaction, leading to impaired B cell class switching and humoral immunity.",
+    "zh": "这个问题测试了对高IgM综合征的了解，特别是CD40L在T细胞和B细胞相互作用中的作用及其对体液免疫的影响。它还测试了识别高IgM综合征患者临床表现的能力。\n\n解决这个问题的关键是认识到患者反复出现鼻窦肺部感染、*肺孢子虫*肺炎和家族史中有幼儿因严重感染死亡。 CD40配体基因的错义突变表明T细胞和抗原呈递细胞的相互作用存在缺陷，导致B细胞类别转换受损和体液免疫受损。"
+  },
+  "tags": "Hyper-IgM syndrome; CD40 ligand; T cells; B cells; Antigen-presenting cells; Immunodeficiency; Pneumocystis jiroveci; Sinopulmonary infections; Humoral immunity; Cell-mediated immunity",
+  "category": "Immunology",
+  "question_id": "21091",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\21091",
+  "extracted_at": "2025-11-05T14:44:26.603306",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:01:56.230409",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

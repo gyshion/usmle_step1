@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old man comes to the office for evaluation of fatigue that has been gradually increasing over the past 4 months. The patient has had difficulty keeping up with the labor involved with his job as a construction worker. Over the past 2 weeks, he has been unable to climb past the second floor of the building his company is renovating. The patient also has increasing shortness of breath with minor activities, such as lifting his toolbox out of the car. Review of systems reveals constipation and decreased concentration. Physical examination shows an overweight male with conjunctival pallor who has difficulty getting onto the examination table due to shortness of breath. Laboratory test results are as follows:{{exhibit_1}}",
+    "zh": "一名45岁的男性前来就诊，评估他过去4个月逐渐加重的疲劳。患者难以胜任作为建筑工人的工作。在过去的2周里，他无法爬到公司正在翻新的建筑物的二楼以上。患者在进行轻微活动时也出现呼吸急促，例如从车里搬出工具箱。系统回顾显示便秘和注意力下降。体格检查显示一名超重的男性，结膜苍白，由于呼吸急促而难以坐上检查台。实验室检查结果如下：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following findings would most likely be seen on this patient's peripheral blood smear?",
+    "zh": "在该患者的血涂片中，最有可能看到以下哪种发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Basophilic stippling",
+      "zh": "嗜碱性点彩"
+    },
+    "B": {
+      "en": "Heinz bodies",
+      "zh": "海因茨小体"
+    },
+    "C": {
+      "en": "Howell-Jolly bodies",
+      "zh": "豪-乔氏小体"
+    },
+    "D": {
+      "en": "Ring sideroblasts",
+      "zh": "环状铁粒母细胞"
+    },
+    "E": {
+      "en": "Schistocytes",
+      "zh": "裂红细胞"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Lead poisoning in adults{{exhibit_2}}\n\nThis patient has microcytic anemia, constipation, and mental status changes in the setting of construction work. The most likely diagnosis is LEAD POISONING. Lead is a soft, heavy metal used for manufacturing a wide range of items, including batteries, alloys, and ammunition. Individuals working in these industries and others (eg, construction, mining, smelting, chemical processing, recycling, spray painting, radiator repair) can be regularly exposed to lead.\n\nLead inhibits the heme synthesis pathway (δ-aminolevulinate dehydratase and ferrochelatase), causing a microcytic, hypochromic anemia. Shortness of breath, particularly with exertion, occurs due to decreased oxygen delivery to peripheral tissues. Iron studies are normal unless co-existing iron deficiency is present as well. Basophilic stippling is frequently seen on peripheral blood smear. Inhibition of erythrocyte 5' nucleotidase by lead results in ribosome aggregation due to inability to degrade RNA, which is represented by coarse blue punctate dots in the cytoplasm of red blood cells (RBCs). Basophilic stippling is nonspecific and also seen in the thalassemias and myelodysplastic syndrome.\n\nAdult lead poisoning can also have the following manifestations:\n\n*   Bluish pigmentation (\"lead line\") at the gum-tooth line.\n*   Wrist drop or foot drop due to peripheral neuropathy.\n\n(Choice B) Heinz bodies are inclusions of denatured hemoglobin most commonly seen after oxidant stress in patients with glucose-6-phosphate dehydrogenase deficiency.\n\n(Choice C) Howell-Jolly bodies are nuclear DNA remnant inclusions in peripheral RBCs that are normally removed by the spleen during circulation. The presence of Howell-Jolly bodies indicates decreased or absent splenic function (eg, post-splenectomy).\n\n(Choice D) Ring sideroblasts are formed from precipitation of iron granules in developing erythrocytes due to defects in the heme synthesis pathway, including enzymatic inhibition induced by lead poisoning. Ring sideroblasts are seen in the bone marrow but not in the peripheral blood smear.\n\n(Choice E) Schistocytes are fragmented parts of RBCs formed from mechanical hemolysis via sheer force of blood flow. Hemolytic uremic syndrome, thrombotic thrombocytopenic purpura, and disseminated intravascular coagulation all present with schistocytes.\n\nEducational objective:\nLead poisoning in adults typically occurs through occupational exposure. Symptoms include colicky abdominal pain, constipation, lead lines on the gum, peripheral neuropathy, and anemia. Laboratory testing shows microcytic anemia with normal iron studies, and peripheral blood smear may reveal basophilic stippling. {{exhibit_3}} {{exhibit_4}}",
+    "zh": "成人铅中毒{{exhibit_2}}\n\n该患者在建筑工作中出现小细胞性贫血、便秘和精神状态改变。最可能的诊断是铅中毒。铅是一种柔软的重金属，用于制造各种物品，包括电池、合金和弹药。在这些行业和其他行业（例如，建筑、采矿、冶炼、化学加工、回收、喷漆、散热器维修）工作的人员可能会经常接触到铅。\n\n铅抑制血红素合成途径（δ-氨基乙酰丙酸脱水酶和铁螯合酶），导致小细胞性低色素性贫血。呼吸急促，尤其是在用力时，是由于外周组织供氧减少所致。除非同时存在缺铁，否则铁研究是正常的。嗜碱性点彩经常出现在外周血涂片上。铅对红细胞5'核苷酸酶的抑制导致核糖体聚集，因为无法降解RNA，这表现为红细胞 (RBC) 细胞质中的粗糙蓝色点状点。嗜碱性点彩是非特异性的，也见于地中海贫血和骨髓增生异常综合征。\n\n成人铅中毒也可能有以下表现：\n\n*   牙龈牙龈线的蓝紫色色素沉着（“铅线”）。\n*   由于周围神经病变导致的手腕下垂或足下垂。\n\n（选项 B）海因茨小体是变性血红蛋白的包涵体，最常见于葡萄糖-6-磷酸脱氢酶缺乏症患者的氧化应激后。\n\n（选项 C）豪-乔氏小体是外周红细胞中的核DNA残余包涵体，通常由脾脏在循环过程中去除。豪-乔氏小体的存在表明脾功能降低或缺失（例如，脾切除术后）。\n\n（选项 D）环状铁粒母细胞是由发育中的红细胞中铁颗粒沉淀形成的，这是由于血红素合成途径的缺陷，包括铅中毒引起的酶抑制。环状铁粒母细胞可见于骨髓，但不在外周血涂片中。\n\n（选项 E）裂红细胞是红细胞的碎片，由血流的剪切力机械溶血形成。溶血性尿毒症综合征、血栓性血小板减少性紫癜和弥漫性血管内凝血均表现为裂红细胞。\n\n教育目标：\n成人铅中毒通常通过职业接触发生。症状包括绞痛性腹痛、便秘、牙龈上的铅线、周围神经病变和贫血。实验室检查显示小细胞性贫血，铁研究正常，外周血涂片可能显示嗜碱性点彩。{{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of lead poisoning, its clinical presentation, laboratory findings, and characteristic peripheral blood smear findings. It assesses the ability to recognize the association between occupational exposure, symptoms, and diagnostic features of lead toxicity.\n\nTo solve this question, consider the patient's occupation as a construction worker, the symptoms of fatigue, constipation, and cognitive impairment, and the lab results showing microcytic anemia. Recognize that basophilic stippling is a common finding in lead poisoning due to lead's interference with RNA degradation in red blood cells.",
+    "zh": "此题考察对铅中毒的了解，包括其临床表现、实验室检查结果和特征性外周血涂片结果。它评估了识别职业接触、症状与铅毒性的诊断特征之间联系的能力。\n\n要解决这个问题，请考虑患者的职业是建筑工人、疲劳、便秘和认知障碍的症状，以及显示小细胞性贫血的实验室结果。认识到嗜碱性点彩是铅中毒的常见发现，这是由于铅干扰了红细胞中RNA的降解。"
+  },
+  "tags": "Lead poisoning; Microcytic anemia; Basophilic stippling; Occupational exposure; Hematology; Toxicology; Construction work",
+  "category": "Blood",
+  "question_id": "1156",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1156",
+  "extracted_at": "2025-11-05T11:19:15.204873",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:25:47.078317",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

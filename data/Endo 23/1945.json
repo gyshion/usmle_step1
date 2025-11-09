@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old previously healthy woman comes to the office due to several weeks of anxiety, palpitations, excessive sweating, and thinning hair. The symptoms have progressively worsened and interfered significantly with her daily activities. The patient does not use tobacco, alcohol, or illicit drugs. Blood pressure is 130/70 mm Hg and pulse is 104/min. On physical examination, there is lid lag, moderate exophthalmos, and fine tremors of the outstretched hands. After the diagnosis is made, she is prescribed propranolol for immediate symptom control.",
+    "zh": "一位先前健康的32岁女性因数周的焦虑、心悸、过度出汗和头发稀疏前来就诊。症状逐渐恶化，严重干扰了她的日常活动。患者不吸烟、不饮酒，也不使用违禁药物。血压为130/70 mmHg，脉搏为104/min。体格检查显示眼睑迟滞、中度眼球突出和伸出的手有细微震颤。在确诊后，她被处方普萘洛尔用于即时症状控制。"
+  },
+  "question": {
+    "en": "Which of the following findings is most likely to persist in this patient despite this therapy?",
+    "zh": "尽管接受此治疗，患者最有可能持续存在以下哪种表现？"
+  },
+  "options": {
+    "A": {
+      "en": "Anxiety",
+      "zh": "焦虑"
+    },
+    "B": {
+      "en": "Diaphoresis",
+      "zh": "出汗"
+    },
+    "C": {
+      "en": "Exophthalmos",
+      "zh": "眼球突出"
+    },
+    "D": {
+      "en": "Hand tremor",
+      "zh": "手部震颤"
+    },
+    "E": {
+      "en": "Heat intolerance",
+      "zh": "不耐热"
+    },
+    "F": {
+      "en": "Palpitations",
+      "zh": "心悸"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Graves disease is an autoimmune disorder characterized by autoantibodies that bind to and activate the TSH receptor (thyrotropin receptor antibodies [TRAb]). In the thyroid, TRAb triggers release of thyroid hormones, leading to thyrotoxicosis. Hyperthyroidism causes increased expression of beta-adrenergic receptors in various organs, and the subsequent hyperadrenergic state can result in hypertension, tremor, heat intolerance, palpitations/tachycardia, and hyperreflexia (Choices D, E, and F). Patients with Graves disease are frequently given beta-adrenergic blocking medications (eg, propranolol) to control these manifestations while awaiting definitive management.\n\nTSH receptors are also present on fibroblasts, adipocytes, and other tissues. Graves ophthalmopathy results from stimulation of orbital fibroblasts and adipocytes by TRAb and activated T cells. The fibroblasts secrete excess amounts of glycosaminoglycans, leading to expansion of the ground substance of retro-orbital tissues. This, along with excess adipose deposition, displaces the globe forward (exophthalmos) and leads to restricted movement of the extraocular muscles (eg, diplopia). These manifestations are not mediated by thyroid hormone or adrenergic stimulation and do not respond to beta blockers. However, they are immune mediated; the manifestations of Graves ophthalmopathy usually respond to glucocorticoid therapy. {{exhibit_1}}\n\n(Choice A) Although beta blockers can cause fatigue and depressive symptoms, they help reduce fatigue and mood liability in patients with Graves disease by ameliorating sympathetic overactivation. Beta blockers can also help blunt the physical manifestations of anxiety.\n\n(Choice B) Apocrine sweat glands are stimulated primarily by catecholamines; beta blockers can reduce secretory activity. By contrast, eccrine sweat glands are directly innervated by cholinergic fibers. However, centrally acting beta blockers (eg, propranolol) can modulate eccrine activity and reduce emotionally driven (eg, anxiety) stimulation of eccrine sweating.\n\nEducational objective:\nHyperthyroidism causes a hyperadrenergic state characterized by hypertension, palpitations/tachycardia, sweating, heat intolerance, tremor, and hyperreflexia. Beta blockers can relieve these symptoms. Exophthalmos in Graves disease is due to an immune-mediated increase in orbital soft tissue mass and does not improve with beta blockers.",
+    "zh": "Graves病是一种自身免疫性疾病，其特征是自身抗体与TSH受体（促甲状腺激素受体抗体[TRAb]）结合并激活它。在甲状腺中，TRAb触发甲状腺激素的释放，导致甲状腺毒症。甲状腺功能亢进导致各种器官中β-肾上腺素能受体表达增加，随后出现的交感神经兴奋状态可导致高血压、震颤、不耐热、心悸/心动过速和反射亢进（选项D、E和F）。Graves病患者常给予β-肾上腺素能阻滞药物（如普萘洛尔）来控制这些表现，同时等待明确的治疗。\n\nTSH受体也存在于成纤维细胞、脂肪细胞和其他组织中。Graves眼病是由于TRAb和活化的T细胞刺激眶成纤维细胞和脂肪细胞引起的。成纤维细胞分泌过量的糖胺聚糖，导致眶后组织基质的扩张。这与过多的脂肪沉积一起，使眼球向前移位（眼球突出），并导致眼外肌运动受限（如复视）。这些表现不受甲状腺激素或肾上腺素能刺激的介导，并且对β受体阻滞剂无反应。然而，它们是免疫介导的；Graves眼病的表现通常对糖皮质激素治疗有反应。{{exhibit_1}}\n\n（选项A）尽管β受体阻滞剂可引起疲劳和抑郁症状，但它们通过改善交感神经过度激活，有助于减轻Graves病患者的疲劳和情绪不稳定。β受体阻滞剂也有助于减弱焦虑的身体表现。\n\n（选项B）顶泌汗腺主要由儿茶酚胺刺激；β受体阻滞剂可以降低分泌活动。相比之下，外泌汗腺由胆碱能纤维直接支配。然而，中枢性β受体阻滞剂（如普萘洛尔）可以调节外泌汗腺的活动，并减少由情绪驱动的（如焦虑）对外泌汗腺出汗的刺激。\n\n教育目标：\n甲状腺功能亢进引起交感神经兴奋状态，其特征是高血压、心悸/心动过速、出汗、不耐热、震颤和反射亢进。β受体阻滞剂可以缓解这些症状。Graves病中的眼球突出是由于免疫介导的眶软组织质量增加所致，并且不会随β受体阻滞剂而改善。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Graves' disease, specifically the pathophysiology of exophthalmos and its resistance to beta-blocker therapy. It requires understanding which symptoms of hyperthyroidism are mediated by adrenergic stimulation versus immune mechanisms.\n\nThe key to solving this question is recognizing that exophthalmos in Graves' disease is caused by immune-mediated orbital fibroblast stimulation, not adrenergic stimulation. Therefore, beta-blockers, which address adrenergic symptoms, will not improve exophthalmos.",
+    "zh": "此题考察对Graves病的了解，特别是眼球突出的病理生理学及其对β受体阻滞剂治疗的耐药性。它需要理解甲状腺功能亢进的哪些症状是由肾上腺素能刺激介导的，哪些是由免疫机制介导的。\n\n解决此问题的关键是认识到Graves病中的眼球突出是由免疫介导的眶成纤维细胞刺激引起的，而不是肾上腺素能刺激。因此，针对肾上腺素能症状的β受体阻滞剂不会改善眼球突出。"
+  },
+  "tags": "Graves disease; Hyperthyroidism; Exophthalmos; Beta-blockers; Thyroid stimulating hormone receptor antibodies",
+  "category": "Endo",
+  "question_id": "1945",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\1945",
+  "extracted_at": "2025-11-05T14:04:53.444055",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:39:32.223213",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

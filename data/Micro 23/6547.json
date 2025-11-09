@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old woman diagnosed with a viral infection participates in a longitudinal research study. The patient experiences symptoms of similar spectrum over a specific time, as shown in the image {{exhibit_1}}.",
+    "zh": "一名被诊断患有病毒感染的23岁女性参与了一项纵向研究。患者在特定时间内经历了相似症状谱，如图{{exhibit_1}}所示。"
+  },
+  "question": {
+    "en": "Which of the following viral infection characteristics is most likely responsible for the pattern of illness seen in this patient?",
+    "zh": "以下哪种病毒感染特征最有可能导致该患者出现的疾病模式？"
+  },
+  "options": {
+    "A": {
+      "en": "Latent infection within hepatocytes",
+      "zh": "肝细胞内的潜伏感染"
+    },
+    "B": {
+      "en": "Latent infection within neuronal cell bodies",
+      "zh": "神经元细胞体内的潜伏感染"
+    },
+    "C": {
+      "en": "Latent infection within transformed B-lymphocytes",
+      "zh": "转化 B 淋巴细胞内的潜伏感染"
+    },
+    "D": {
+      "en": "Superinfection by a different virus",
+      "zh": "被另一种病毒再感染"
+    },
+    "E": {
+      "en": "Viral surface protein changes from gene reassortment",
+      "zh": "病毒表面蛋白因基因重组而改变"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Patients infected with herpes simplex virus develop a lifelong latent infection of the sensory ganglion. Periodic viral replication can lead to symptoms that flare and resolve over time.\n\nWith herpes simplex virus (HSV) usually have symptoms that flare and remit in a cyclical fashion. Initial HSV infections are marked by viral replication at the site of exposure (eg, perioral or genital skin), which leads to vesicular mucocutaneous lesions and flulike symptoms. Manifestations last a week or two and then resolve spontaneously when viral replication ceases. However, the virus also spreads to dermal nerve terminals and is transported in a retrograde fashion to the sensory ganglia, where it establishes a lifelong latent infection within the neuronal cell bodies {{exhibit_2}}.\n\nDuring latent infection, no viral replication occurs, so the disease is asymptomatic. However, infected cells continue to produce some HSV genes (eg, latency-associated transcript gene), and stress and other triggers can reactivate viral replication and lead to the re-emergence of symptoms (eg, vesicular lesions on the oral/genital mucous membranes, low-grade fever, malaise). Recurrent symptoms last a week or two and then resolve; they are often less severe than the initial episode.\n\n(Choice A) Although strains of malaria with dormant liver phases (eg, Plasmodium ovale, Plasmodium vivax) can cause relapsing symptoms every 6-8 weeks, this patient was diagnosed with a viral (not parasitic) infection and had infrequent relapses over years. Infection with hepatitis B or C is typically asymptomatic for years or decades; affected patients eventually develop progressive cirrhosis and related complications (eg, jaundice, ascites, encephalopathy).\n\n(Choice C) Epstein-Barr virus has a tropism for B-lymphocytes. Initial infection is associated with infectious mononucleosis (eg, sore throat, lymphadenopathy, malaise, atypical lymphocytosis); latent infection is usually asymptomatic, but there is a small risk of B-cell or Hodgkin lymphoma due to malignant transformation. Both Epstein-Barr virus and herpes simplex virus are members of the Herpesviridae family.\n\n(Choice D) Hepatitis D virus is a small RNA molecule that requires coinfection with hepatitis B virus to have complete viral assembly. Superinfection by hepatitis D virus in patients with hepatitis B virus can lead to acute hepatic failure.\n\n(Choice E) Influenza has a segmented genome, which leads to high rates of gene reassortment of surface glycoproteins (eg, hemagglutinin, neuraminidase). This causes new strains to emerge and can result in new infections in those with a history of previous influenza infection. However, reinfection is typically marked by symptom severity similar to previous episodes, rather than lessened severity over time. {{exhibit_3}}",
+    "zh": "单纯疱疹病毒感染的患者会发展为感觉神经节的终身潜伏感染。周期性的病毒复制可导致症状反复发作和缓解。\n\n单纯疱疹病毒 (HSV) 通常具有周期性发作和缓解的症状。最初的 HSV 感染以暴露部位的病毒复制为特征（例如，口周或生殖器皮肤），这会导致水疱性黏膜皮肤病变和流感样症状。临床表现持续一两周，然后在病毒复制停止时自发缓解。然而，病毒也会扩散到真皮神经末梢，并以逆行方式转运到感觉神经节，在那里它在神经元细胞体内建立终身潜伏感染 {{exhibit_2}}。\n\n在潜伏感染期间，不会发生病毒复制，因此该疾病无症状。然而，受感染的细胞继续产生一些 HSV 基因（例如，潜伏相关转录基因），并且压力和其他触发因素可以重新激活病毒复制，并导致症状的再次出现（例如，口腔/生殖器黏膜上的水疱性病变、低烧、不适）。复发性症状持续一两周，然后缓解；它们通常不如最初的发作严重。\n\n(选项 A) 尽管具有休眠肝脏阶段的疟疾株（例如，卵形疟原虫、间日疟原虫）可导致每 6-8 周复发症状，但该患者被诊断为病毒（非寄生虫）感染，并且多年来复发频率较低。乙型或丙型肝炎感染通常无症状数年或数十年；受影响的患者最终会发展为进行性肝硬化和相关并发症（例如，黄疸、腹水、脑病）。\n\n(选项 C) EB 病毒对 B 淋巴细胞具有亲嗜性。最初的感染与传染性单核细胞增多症相关（例如，咽喉痛、淋巴结肿大、不适、非典型淋巴细胞增多）；潜伏感染通常无症状，但由于恶性转化，B 细胞或霍奇金淋巴瘤的风险很小。EB 病毒和单纯疱疹病毒都属于疱疹病毒科。\n\n(选项 D) 丁型肝炎病毒是一种小的 RNA 分子，需要与乙型肝炎病毒共同感染才能完成病毒组装。乙型肝炎病毒感染患者再次感染丁型肝炎病毒可导致急性肝衰竭。\n\n(选项 E) 流感具有分节段的基因组，这导致表面糖蛋白（例如，血凝素、神经氨酸酶）的基因重排率很高。这导致新的毒株出现，并可能导致有既往流感感染史的人再次感染。然而，再次感染通常以与之前的发作相似的症状严重程度为特征，而不是随着时间的推移而减轻严重程度。 {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of viral latency, specifically the mechanism of herpes simplex virus (HSV) and its ability to establish latent infection in sensory ganglia, leading to recurrent symptomatic episodes. It also tests the ability to differentiate this pattern from other causes of relapsing symptoms.\n\nTo solve this question, recognize the cyclical pattern of symptoms in the image and associate it with viral latency. Consider the common viruses that establish latency and their target cells. Rule out other options based on their different mechanisms of relapse or target cell tropism.",
+    "zh": "这个问题考察了病毒潜伏期的知识，特别是单纯疱疹病毒 (HSV) 的机制及其在感觉神经节中建立潜伏感染的能力，从而导致复发性症状发作。它还考察了将这种模式与其他导致复发性症状的原因区分开来的能力。\n\n要解决这个问题，请识别图像中症状的周期性模式，并将其与病毒潜伏期联系起来。考虑建立潜伏期的常见病毒及其靶细胞。根据其他选项不同的复发机制或靶细胞嗜性来排除它们。"
+  },
+  "tags": "Herpes simplex virus; Viral latency; Sensory ganglia; Neuronal infection; Viral reactivation; Infectious disease; Virology",
+  "category": "Micro",
+  "question_id": "6547",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\6547",
+  "extracted_at": "2025-11-05T15:04:53.418123",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:12:40.395406",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

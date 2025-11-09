@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 50-year-old man is scheduled to undergo a colonoscopy for routine colorectal cancer screening. He has no abdominal pain, gross blood in the stool, constipation, change in stool caliber, or unintentional weight loss. He also has no family history of colon cancer. The procedure is uncomplicated, but the patient is found to have a small mucosal lesion (~1 cm) in his sigmoid colon. The lesion is biopsied and its histology is shown in the image below. {{exhibit_1}}",
+    "zh": "一名50岁男性计划接受结肠镜检查以进行常规结直肠癌筛查。他没有腹痛、肉眼可见的便血、便秘、粪便性状改变或非意向性体重减轻。他也没有结肠癌家族史。该程序没有并发症，但发现患者乙状结肠内有一个小的粘膜病变（约1厘米）。对该病变进行活检，其组织学检查见下图。 {{exhibit_1}}"
+  },
+  "question": {
+    "en": "The pathogenesis of this patient's lesion most likely began with a mutation involving which of the following genes?",
+    "zh": "该患者病变的病理发生最有可能始于涉及以下哪个基因的突变？"
+  },
+  "options": {
+    "A": {
+      "en": "APC",
+      "zh": "APC"
+    },
+    "B": {
+      "en": "DCC",
+      "zh": "DCC"
+    },
+    "C": {
+      "en": "K-RAS",
+      "zh": "K-RAS"
+    },
+    "D": {
+      "en": "MSH2",
+      "zh": "MSH2"
+    },
+    "E": {
+      "en": "p53",
+      "zh": "p53"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The image above shows a tubular adenoma, a precursor of colorectal carcinoma. Tubular adenomas are composed of tubular glands lined by dysplastic columnar epithelial cells, which are characteristic of colonic adenomatous polyps. The malignant potential of an adenomatous polyp is partly determined by the degree of dysplasia. Mildly dysplastic cells are elongated and hyperchromatic and show less of mucin from the cytoplasm. With continued proliferation, dysplastic cells display increased variation in shape/size (pleomorphism) as well as loss of polarity. Other findings include an increase in number/size of nucleoli, nuclear-to-cytoplasmic ratio, and number of mitotic figures.\n\nMost cases of sporadic colorectal carcinoma arise via the classic adenoma-to-carcinoma sequence (APC/beta-catenin pathway). The first mutation in this pathway usually involves the APC tumor suppressor gene, which is responsible for regulating cell growth/adhesion (patients with familial adenomatous polyposis inherit an APC gene mutation and exhibit tumorigenesis at an early age). Mutations in K-RAS, DCC (Deleted in Colon Cancer), and p53 occur later in the adenoma-to-carcinoma sequence (Choices B, C, and E). K-RAS proto-oncogene and DCC gene mutations lead to unregulated cell proliferation and avoidance of apoptosis, respectively. They are usually observed in larger adenomas (>1 cm) or carcinomas. The p53 tumor suppressor gene regulates the cell cycle and promotes repair of damaged DNA; mutations are found in most colon carcinomas but rarely adenomas.\n\n(Choice D) Mutations in DNA mismatch repair genes such as MLH1 and MSH2 result in microsatellite instability and an accumulation of genetic errors in many of the other genes implicated in colorectal carcinogenesis. Mutations in MLH1 and MSH2 cause hereditary nonpolyposis colorectal cancer (Lynch syndrome) but are not frequently associated with sporadic colorectal carcinoma.",
+    "zh": "上图显示了一个管状腺瘤，是结直肠癌的先兆。管状腺瘤由管状腺体组成，这些腺体由异型增生的柱状上皮细胞构成，这是结肠腺瘤性息肉的特征。腺瘤性息肉的恶变潜能部分取决于异型增生的程度。轻度异型增生的细胞呈细长和高度染色质，并且来自细胞质的黏蛋白减少。随着持续增殖，异型增生细胞显示出形状/大小（多形性）的增加变化以及极性的丧失。其他发现包括核仁数量/大小、核质比和有丝分裂象的增加。\n\n大多数散发性结直肠癌病例通过经典的腺瘤-癌变序列（APC/β-连环蛋白通路）发生。该通路中的第一个突变通常涉及APC肿瘤抑制基因，该基因负责调节细胞生长/粘附（患有家族性腺瘤性息肉病的患者继承了APC基因突变并在早期表现出肿瘤发生）。K-RAS、DCC（结肠癌缺失）和p53的突变发生在腺瘤-癌变序列的后期（选项B、C和E）。K-RAS原癌基因和DCC基因突变分别导致细胞增殖失控和逃避细胞凋亡。它们通常在较大的腺瘤（>1厘米）或癌中观察到。p53肿瘤抑制基因调节细胞周期并促进受损DNA的修复；突变见于大多数结肠癌，但很少见于腺瘤。\n\n（选项D）DNA错配修复基因（如MLH1和MSH2）的突变导致微卫星不稳定性和许多与结直肠癌发生相关的其他基因的遗传错误积累。MLH1和MSH2的突变导致遗传性非息肉病性结直肠癌（Lynch综合征），但与散发性结直肠癌不常见。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the molecular pathogenesis of sporadic colorectal carcinoma, specifically the sequence of genetic mutations involved in the adenoma-to-carcinoma pathway. It requires knowledge of the roles of key tumor suppressor genes and oncogenes in this process.\n\nTo solve this question, one must recognize that the initial event in the adenoma-to-carcinoma sequence is typically a mutation in the APC gene. The provided histology image, though not explicitly described in detail, represents an adenoma, a precursor lesion. Understanding the order of genetic alterations is crucial for identifying the earliest mutation.",
+    "zh": "此问题测试对散发性结直肠癌分子发病机制的理解，特别是与腺瘤-癌变通路相关的基因突变序列。这需要了解关键肿瘤抑制基因和癌基因在此过程中的作用。\n\n要解决这个问题，必须认识到腺瘤-癌变序列中的初始事件通常是APC基因的突变。提供的组织学图像（虽然没有详细描述），代表了腺瘤，一种先兆病变。了解遗传改变的顺序对于识别最早的突变至关重要。"
+  },
+  "tags": "Colorectal cancer; Adenoma-to-carcinoma sequence; APC gene; Tumor suppressor gene; Sporadic colorectal carcinoma; Molecular pathogenesis; Histology",
+  "category": "Pathology",
+  "question_id": "428",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\428",
+  "extracted_at": "2025-11-05T19:44:36.213365",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:46:26.232839",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

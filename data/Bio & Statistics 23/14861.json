@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A study aims to investigate the effectiveness of the topical application of tetracycline ointment in the prevention of surgical-site infection associated with resection of advanced oral cavity cancer. Fifty patients who underwent locoregional resection were assigned by chance to receive standard care alone or tetracycline-ointment in addition to standard care. The patients were then followed for 1 month and the number and severity of surgical-site infections were recorded for each group.",
+    "zh": "一项研究旨在调查局部应用四环素软膏预防与晚期口腔癌切除术相关的术后切口感染的有效性。50 例接受了局部区域切除术的患者被随机分配接受单独的标准护理或在标准护理的基础上加用四环素软膏。然后对患者进行 1 个月的随访，并记录每组的术后切口感染的数量和严重程度。"
+  },
+  "question": {
+    "en": "Which of the following best describes the study design?",
+    "zh": "以下哪项最能描述这项研究的设计？"
+  },
+  "options": {
+    "A": {
+      "en": "Case-control study",
+      "zh": "病例对照研究"
+    },
+    "B": {
+      "en": "Crossover design",
+      "zh": "交叉设计"
+    },
+    "C": {
+      "en": "Prospective cohort study",
+      "zh": "前瞻性队列研究"
+    },
+    "D": {
+      "en": "Randomized control trial",
+      "zh": "随机对照试验"
+    },
+    "E": {
+      "en": "Retrospective cohort study",
+      "zh": "回顾性队列研究"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Research studies are classified as OBSERVATIONAL studies or EXPERIMENTAL studies. In OBSERVATIONAL designs, the researcher OBSERVES the effect of naturally occurring risk factors/exposures on outcomes of interest. In EXPERIMENTAL designs, the researcher RANDOMLY ASSIGNS interventions to potential participants to assess the effect of the controlled interventions. A RANDOMIZED CONTROL TRIAL is one of the simplest subtypes of experimental designs; it is an experiment in which PARTICIPANTS are RANDOMLY ALLOCATED to ≥2 GROUPS to assess the effect of SPECIFIC INTERVENTIONS.",
+    "zh": "研究分为观察性研究或实验性研究。在观察性设计中，研究者观察自然发生的风险因素/暴露对感兴趣结果的影响。在实验性设计中，研究者随机分配干预措施给潜在的参与者，以评估受控干预措施的效果。随机对照试验是实验性设计中最简单的亚型之一；它是一项实验，其中参与者被随机分配到 ≥2 个组中，以评估特定干预措施的效果。"
+  },
+  "summary": {
+    "en": "1) Study design 2) Determine if the study is observational or experimental. If experimental, look for random assignment to groups.",
+    "zh": "1) 研究设计 2) 确定该研究是观察性研究还是实验性研究。如果是实验性的，寻找随机分组。"
+  },
+  "tags": "Study design; Randomized control trial; Experimental study; Observational study",
+  "category": "Bio",
+  "question_id": "14861",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\14861",
+  "extracted_at": "2025-11-05T10:59:28.987384",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:21:44.236520",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

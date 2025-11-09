@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 64-year-old man with a long-standing history of hypertension is brought to the emergency department due to a dry cough and shortness of breath. The patient has been unable to sleep in a flat position for the past 2 days. Blood pressure is 192/102 mm Hg and pulse is 92/min and regular. Physical examination reveals an S4 and bibasilar crackles. He is started on a high-dose intravenous nitroglycerin infusion, and soon after he reports significant symptomatic relief.",
+    "zh": "一名有长期高血压病史的64岁男性因干咳和呼吸急促被送往急诊科。患者在过去2天内无法平躺入睡。血压为192/102 mm Hg，脉搏为92次/分钟，规律。体格检查显示S4和双肺底啰音。他开始接受大剂量静脉注射硝酸甘油，不久后他报告症状明显缓解。"
+  },
+  "question": {
+    "en": "Which of the following physiologic changes most likely occurred in this patient as a result of the infusion?",
+    "zh": "由于输注，该患者最有可能发生以下哪种生理变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Left ventricular end-diastolic pressure: No effect; Peripheral venous capacitance: ↑; Systemic vascular resistance: ↓",
+      "zh": "左心室舒张末期压力：无影响；外周静脉容量：↑；全身血管阻力：↓"
+    },
+    "B": {
+      "en": "Left ventricular end-diastolic pressure: ↑; Peripheral venous capacitance: ↑; Systemic vascular resistance: No effect",
+      "zh": "左心室舒张末期压力：↑；外周静脉容量：↑；全身血管阻力：无影响"
+    },
+    "C": {
+      "en": "Left ventricular end-diastolic pressure: ↓; Peripheral venous capacitance: ↑; Systemic vascular resistance: ↓",
+      "zh": "左心室舒张末期压力：↓；外周静脉容量：↑；全身血管阻力：↓"
+    },
+    "D": {
+      "en": "Left ventricular end-diastolic pressure: ↓; Peripheral venous capacitance: ↓; Systemic vascular resistance: ↓",
+      "zh": "左心室舒张末期压力：↓；外周静脉容量：↓；全身血管阻力：↓"
+    },
+    "E": {
+      "en": "Left ventricular end-diastolic pressure: ↑; Peripheral venous capacitance: No effect; Systemic vascular resistance: ↓",
+      "zh": "左心室舒张末期压力：↑；外周静脉容量：无影响；全身血管阻力：↓"
+    },
+    "F": {
+      "en": "Left ventricular end-diastolic pressure: ↑; Peripheral venous capacitance: ↑; Systemic vascular resistance: ↑",
+      "zh": "左心室舒张末期压力：↑；外周静脉容量：↑；全身血管阻力：↑"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient's clinical presentation is consistent with ACUTE PULMONARY EDEMA due to severely elevated blood pressure (HYPERTENSIVE EMERGENCY). Intravenous vasodilators (eg, nitroglycerin, sodium nitroprusside) are often used in the management of acute heart failure due to severe hypertension.\n\nNitrates (eg, nitroglycerin, isosorbide dinitrate, isosorbide mononitrate) are primarily venodilators that increase peripheral venous capacitance, thereby reducing cardiac preload and left ventricular end-diastolic pressure (LVEDP) and volume. This is the primary mechanism of action for symptom relief in patients with acute pulmonary edema. Lower LVEDP also leads to a reduction in LV systolic wall stress and a decrease in myocardial oxygen demand, resulting in relief of angina symptoms.\n\nAt high doses, nitrates also cause some degree of arteriolar dilation (in addition to venodilation), which decreases systemic vascular resistance and may sometimes cause a precipitous decline in blood pressure. Sodium nitroprusside has slightly different effects than nitrates, acting as a balanced vasodilator of venules and arterioles at all dose levels.\n\nEducational objective:\nNitrates are primarily venodilators and increase peripheral venous capacitance, thereby reducing cardiac preload and left ventricular end-diastolic volume and pressure. At high doses, nitrates also cause some degree of arteriolar dilation with a resulting decrease in systemic vascular resistance.",
+    "zh": "该患者的临床表现与由于血压严重升高（高血压急症）引起的急性肺水肿一致。静脉注射血管扩张剂（例如，硝酸甘油、硝普钠）常用于治疗由于严重高血压引起的急性心力衰竭。\n\n硝酸盐类药物（例如，硝酸甘油、异山梨酯二硝酸酯、单硝酸异山梨酯）主要是静脉扩张剂，可增加外周静脉容量，从而降低心脏前负荷和左心室舒张末期压力 (LVEDP) 以及容量。这是治疗急性肺水肿患者症状缓解的主要机制。较低的LVEDP也可导致左心室收缩壁应力降低，并降低心肌耗氧量，从而缓解心绞痛症状。\n\n在高剂量下，硝酸盐也会引起一定程度的动脉扩张（除了静脉扩张外），从而降低全身血管阻力，有时可能会导致血压骤降。硝普钠的作用与硝酸盐略有不同，在所有剂量水平下，它都作为静脉和小动脉的平衡血管扩张剂。\n\n教育目标：\n硝酸盐主要是静脉扩张剂，可增加外周静脉容量，从而降低心脏前负荷和左心室舒张末期容量和压力。在高剂量下，硝酸盐也会引起一定程度的动脉扩张，从而导致全身血管阻力降低。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the physiological effects of nitroglycerin in the treatment of acute pulmonary edema secondary to hypertensive emergency. Specifically, it assesses the impact of nitroglycerin on left ventricular end-diastolic pressure, peripheral venous capacitance, and systemic vascular resistance.\n\nThe key to solving this question is understanding that nitroglycerin primarily acts as a venodilator, increasing venous capacitance and reducing preload, which in turn decreases left ventricular end-diastolic pressure. At higher doses, it also causes arteriolar dilation, reducing systemic vascular resistance.",
+    "zh": "此题考察对硝酸甘油治疗高血压危象继发急性肺水肿的生理效应的知识。具体来说，它评估了硝酸甘油对左心室舒张末期压力、外周静脉容量和全身血管阻力的影响。\n\n解决此问题的关键在于理解硝酸甘油主要充当静脉扩张剂，增加静脉容量并减少前负荷，进而降低左心室舒张末期压力。在高剂量下，它也会引起小动脉扩张，从而降低全身血管阻力。"
+  },
+  "tags": "Acute pulmonary edema; Hypertensive emergency; Nitroglycerin; Venodilator; Preload; Left ventricular end-diastolic pressure; Peripheral venous capacitance; Systemic vascular resistance; Cardiology; Emergency medicine",
+  "category": "CVS",
+  "question_id": "11836",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\11836",
+  "extracted_at": "2025-11-05T11:50:42.499083",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:44:29.029509",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

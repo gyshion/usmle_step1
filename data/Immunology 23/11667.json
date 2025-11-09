@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 21-year-old woman comes to the office due to recurrent episodes of self-limited, colicky abdominal pain. She also had an episode of facial swelling that resolved spontaneously. The patient has no other significant past medical history and takes no medications. Examination is unremarkable. Evaluation shows that her complement protein C1, even when not attached to an antigen-antibody complex, is excessively cleaving C2 and C4. Which of the following is most likely increased in this patient? {{exhibit_1}}",
+    "zh": "一名21岁的女性因反复发作的自限性、绞痛性腹痛来诊。她还曾出现过一次面部肿胀，自行缓解。患者无其他重要的既往病史，未服用任何药物。体格检查无特殊发现。评估显示，即使在未与抗原-抗体复合物结合时，她的补体蛋白C1也会过度裂解C2和C4。该患者最有可能升高以下哪项？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is most likely increased in this patient?",
+    "zh": "该患者最有可能升高以下哪项？"
+  },
+  "options": {
+    "A": {
+      "en": "Antinuclear antibody titer",
+      "zh": "抗核抗体滴度"
+    },
+    "B": {
+      "en": "Antistreptolysin O titer",
+      "zh": "抗链球菌溶血素O滴度"
+    },
+    "C": {
+      "en": "Bradykinin",
+      "zh": "缓激肽"
+    },
+    "D": {
+      "en": "Free hemoglobin",
+      "zh": "游离血红蛋白"
+    },
+    "E": {
+      "en": "Renin",
+      "zh": "肾素"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with recurrent episodes of abdominal pain and an episode of facial swelling likely has angioedema due to C1 inhibitor (C1INH) deficiency. C1INH prevents C1-mediated cleavage of C2 and C4, thereby limiting activation of the complement cascade. It also blocks kallikrein-induced conversion of kininogen to bradykinin, a potent vasodilator that also causes increased vascular permeability.\n\nAcquired or hereditary C1INH deficiency (due to the complete absence of C1INH or the presence of a dysfunctional variant or an anti-C1INH antibody) leads to elevated levels of bradykinin, and patients can develop bradykinin-associated angioedema. Symptoms include facial swelling (without urticaria), life-threatening laryngeal edema, and gastrointestinal manifestations (eg, nausea/vomiting, colicky pain, diarrhea). Management of acute attacks involves supportive care and the administration of C1INH concentrate or a kallikrein inhibitor.\n\n(Choice A) Increased antinuclear antibody (ANA) titers are seen in a number of autoimmune conditions, including systemic lupus erythematosus, which is associated with hypocomplementemia but would have different clinical manifestations (eg, butterfly rash, arthritis, oral ulcers). ANA production is not a result of excessive C1 activity.\n\n(Choice B) Poststreptococcal glomerulonephritis is associated with increased antistreptolysin O titers, complement activation, and low levels of C3. The typical presentation is hematuria or nephritic syndrome following respiratory infection.\n\n(Choice D) Complement-mediated intravascular hemolysis can result from autoantibodies (autoimmune hemolytic anemia) or from direct complement activation (paroxysmal nocturnal hemoglobinuria); however, neither condition results from excessive C1 activity.\n\n(Choice E) Angiotensin-converting enzyme (ACE) inhibitors, which are associated with idiopathic angioedema, function by blocking ACE and result in increased renin levels. ACE also degrades bradykinin.\n\nEducational objective: \nC1 inhibitor (C1INH) deficiency causes increased cleavage of C2 and C4 and results in inappropriate activation of the complement cascade. C1INH also blocks kallikrein-induced conversion of kininogen to bradykinin, a potent vasodilator associated with angioedema.",
+    "zh": "这位患者反复出现腹痛和面部肿胀，很可能患有C1抑制物（C1INH）缺乏引起的血管性水肿。C1INH可防止C1介导的C2和C4裂解，从而限制补体级联反应的激活。它还能阻断激肽释放酶诱导的激肽原转化为缓激肽，缓激肽是一种有效的血管扩张剂，也会导致血管通透性增加。\n\n获得性或遗传性C1INH缺乏症（由于完全缺乏C1INH或存在功能失调的变异或抗C1INH抗体）会导致缓激肽水平升高，患者可发生缓激肽相关的血管性水肿。症状包括面部肿胀（无荨麻疹）、危及生命的喉头水肿和胃肠道表现（如恶心/呕吐、绞痛、腹泻）。急性发作的治疗包括支持性治疗以及给予C1INH浓缩物或激肽释放酶抑制剂。\n\n(选项A) 抗核抗体(ANA)滴度升高可见于多种自身免疫性疾病，包括系统性红斑狼疮，后者与低补体血症相关，但临床表现不同（例如，蝶形红斑、关节炎、口腔溃疡）。ANA的产生不是C1活性过度的结果。\n\n(选项B) 链球菌感染后肾小球肾炎与抗链球菌溶血素O滴度升高、补体激活和C3水平降低有关。典型表现为呼吸道感染后的血尿或肾炎综合征。\n\n(选项D) 补体介导的血管内溶血可由自身抗体（自身免疫性溶血性贫血）或直接补体激活（阵发性睡眠性血红蛋白尿）引起；然而，这两种情况都不是C1活性过度的结果。\n\n(选项E) 血管紧张素转换酶(ACE)抑制剂与特发性血管性水肿有关，其作用是阻断ACE并导致肾素水平升高。ACE还会降解缓激肽。\n\n教学目标：\nC1抑制物(C1INH)缺乏会导致C2和C4的裂解增加，并导致补体级联反应的不适当激活。C1INH还能阻断激肽释放酶诱导的激肽原转化为缓激肽，缓激肽是一种与血管性水肿相关的有效血管扩张剂。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of C1 inhibitor deficiency and its association with bradykinin-mediated angioedema. It requires understanding the complement cascade and the role of C1INH in preventing excessive bradykinin production.\n\nTo solve this question, recognize the clinical presentation of angioedema with abdominal pain and the lab findings of excessive C2 and C4 cleavage. This points to C1INH deficiency, which leads to increased bradykinin levels.",
+    "zh": "本题考察对C1抑制物缺乏症及其与缓激肽介导的血管性水肿的关系的了解。它需要理解补体级联反应以及C1INH在防止缓激肽过度产生中的作用。\n\n要解决这个问题，需要认识到血管性水肿伴腹痛的临床表现以及C2和C4过度裂解的实验室结果。这指向C1INH缺乏，导致缓激肽水平升高。"
+  },
+  "tags": "C1 inhibitor deficiency; Angioedema; Bradykinin; Complement system; Abdominal pain; Facial swelling",
+  "category": "Immunology",
+  "question_id": "11667",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\11667",
+  "extracted_at": "2025-11-05T14:40:01.135330",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:00:00.783166",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

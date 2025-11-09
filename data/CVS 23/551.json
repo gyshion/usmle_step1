@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "Physiologists conduct a series of experiments on hypophysectomized animals to investigate the effects of cortisol on vascular reactivity. Their initial tests show that administration of cortisol alone does not elicit a vascular response. Next, the researchers measure vascular reactivity to an infusion of norepinephrine both with and without pretreatment with cortisol. The results of their experiments are shown in the graph below {{exhibit_1}}.",
+    "zh": "生理学家对垂体切除动物进行一系列实验，以研究皮质醇对血管反应性的影响。他们的初步测试表明，单独使用皮质醇不会引起血管反应。接下来，研究人员测量了在预先给予和不给予皮质醇的情况下，对去甲肾上腺素输注的血管反应性。他们的实验结果显示在下面的图表中 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following pharmacologic principles best describes the effect of cortisol in this experiment?",
+    "zh": "下列哪种药理学原理最能描述皮质醇在该实验中的作用？"
+  },
+  "options": {
+    "A": {
+      "en": "Additive effect",
+      "zh": "累加效应"
+    },
+    "B": {
+      "en": "Alteration in metabolism",
+      "zh": "代谢改变"
+    },
+    "C": {
+      "en": "Permissiveness",
+      "zh": "允许作用"
+    },
+    "D": {
+      "en": "Synergistic effect",
+      "zh": "协同效应"
+    },
+    "E": {
+      "en": "Tachyphylaxis",
+      "zh": "快速耐受"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Although cortisol has no direct vasoactive properties, it augments the vasoconstrictive effects of catecholamines and angiotensin II. The above graph shows that the administration of norepinephrine produced a limited degree of vasoconstriction that was markedly increased following pretreatment with cortisol. This phenomenon is termed permissiveness; it occurs when a hormone has no direct effect on a physiologic process but allows another hormone to exert its maximal effect on that process. Cortisol exerts its potentiating effect on vasoconstriction in part through upregulation of alpha-1 adrenergic receptors on vascular smooth muscle cells. In adrenal insufficiency, low cortisol levels can contribute to hypotensive crisis by decreasing vascular responsiveness to norepinephrine and angiotensin II.\n\nCortisol also has a permissive effect on catecholamine-mediated bronchodilation and glucagon-mediated release of glucose from the liver.\n\n(Choices A and D) The combination of 2 drugs with similar actions can have a synergistic or additive effect. When the combined effect of 2 drugs is equal to the sum of their individual effects, it is termed an additive response (eg, 1 + 1 = 2). When the combined effect exceeds the sum of the individual drugs' effects, the interaction is called synergistic (eg, 1 + 1 > 2). In this case, cortisol's influence on vascular responsiveness is best described as permissive rather than synergistic because cortisol has no intrinsic vasoconstrictive effect (eg, 1 + 0 > 1).\n\n(Choice B) Alterations in metabolism can change a drug's pharmacokinetic and pharmacodynamic properties. For example, certain drugs (eg, amiodarone, fluconazole) can inhibit the P450 cytochrome oxidase system, decreasing the metabolism of other drugs metabolized through this pathway, which can lead to additive or synergistic responses.\n\n(Choice E) Tachyphylaxis describes decreased drug responsiveness in a short period following one or more doses (ie, rapidly developing tolerance). Time is not quantified in the graph {{exhibit_2}}; therefore, drug response over time cannot be assessed.\n\nEducational objective:\nA permissive hormone has no effect on a physiologic process by itself but allows another hormone to exert its maximal effect on that process. Cortisol exerts a permissive effect on catecholamines to potentiate vasoconstriction and bronchodilation; it also has a permissive effect on glucagon to increase glucose release from the liver.",
+    "zh": "虽然皮质醇没有直接的血管活性特性，但它可以增强儿茶酚胺和血管紧张素II的血管收缩作用。上图显示，使用去甲肾上腺素会产生有限程度的血管收缩，而在预先给予皮质醇后，血管收缩会显著增加。这种现象被称为允许作用；当一种激素对生理过程没有直接影响，但允许另一种激素对该过程发挥最大作用时，就会发生这种现象。皮质醇通过上调血管平滑肌细胞上的α-1肾上腺素能受体，部分地增强了对血管收缩的作用。在肾上腺功能不全的情况下，皮质醇水平低会导致低血压危象，因为它会降低血管对去甲肾上腺素和血管紧张素II的反应。\n\n皮质醇对儿茶酚胺介导的支气管扩张和胰高血糖素介导的肝脏葡萄糖释放也有允许作用。\n\n（选项A和D）两种具有相似作用的药物的组合可以产生协同或累加效应。当两种药物的联合作用等于其各自作用之和时，则称为累加反应（例如，1 + 1 = 2）。当联合作用超过了单个药物作用的总和时，这种相互作用称为协同作用（例如，1 + 1 > 2）。在这种情况下，皮质醇对血管反应性的影响最好被描述为允许作用而不是协同作用，因为皮质醇没有内在的血管收缩作用（例如，1 + 0 > 1）。\n\n（选项B）代谢的改变可以改变药物的药代动力学和药效学特性。例如，某些药物（如胺碘酮、氟康唑）可以抑制P450细胞色素氧化酶系统，从而降低通过该途径代谢的其他药物的代谢，这可能导致累加或协同反应。\n\n（选项E）快速耐受描述的是在一次或多次给药后（即快速产生的耐受性）在短时间内药物反应性降低。图表 {{exhibit_2}} 中未量化时间；因此，无法评估药物随时间的变化。\n\n教学目标：\n允许性激素本身对生理过程没有影响，但允许另一种激素对该过程发挥最大作用。皮质醇对儿茶酚胺发挥允许作用，以增强血管收缩和支气管扩张；它还对胰高血糖素发挥允许作用，以增加肝脏葡萄糖的释放。"
+  },
+  "summary": {
+    "en": "This question tests the concept of permissiveness in pharmacology, specifically how cortisol, a hormone with no direct vasoconstrictive effect, enhances the vasoconstrictive effects of catecholamines like norepinephrine. Understanding the definition of permissiveness and differentiating it from additive or synergistic effects is crucial.\n\nTo solve this question, analyze the graph to observe that cortisol pretreatment amplifies the vascular response to norepinephrine. Recognize that this potentiation without cortisol having a direct effect aligns with the definition of permissiveness, where one hormone enables another to exert its maximal effect.",
+    "zh": "本题考察药理学中允许作用的概念，特别是皮质醇（一种没有直接血管收缩作用的激素）如何增强儿茶酚胺（如去甲肾上腺素）的血管收缩作用。了解允许作用的定义并将其与累加或协同效应区分开来至关重要。\n\n要解决这个问题，请分析图表，观察皮质醇预处理如何增强血管对去甲肾上腺素的反应。认识到这种增强作用，而皮质醇没有直接作用，这与允许作用的定义相符，即一种激素使另一种激素发挥其最大作用。"
+  },
+  "tags": "Pharmacology; Permissiveness; Cortisol; Norepinephrine; Vasoconstriction; Adrenal insufficiency; Catecholamines; Drug interactions",
+  "category": "CVS",
+  "question_id": "551",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\551",
+  "extracted_at": "2025-11-05T12:14:52.900219",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:30:29.004285",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

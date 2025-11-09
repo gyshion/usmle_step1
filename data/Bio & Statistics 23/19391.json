@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "As part of the Food and Drug Administration drug approval process, a study is conducted to assess the clinical benefit and toxicity of a new drug that is intended to be used in combination with current standard chemotherapy for patients with recurrent glioblastoma. Fifty patients with recurrent glioblastoma enroll in the trial and are randomized to receive standard chemotherapy plus either placebo or 1 of 3 possible doses of the new drug. Study results show a dose-dependent reduction in tumor size with all 3 doses of the new drug, along with a significant increase in adverse drug effects, including hypertension, muscle weakness, lymphopenia, and hypophosphatemia. The researchers conclude that the middle dose of the new drug offers the greatest ratio of benefit to toxicity.",
+    "zh": "作为食品药品监督管理局（FDA）药物批准流程的一部分，一项研究旨在评估一种新药的临床益处和毒性，该药拟与当前标准化学疗法联合用于复发性胶质母细胞瘤患者。50名复发性胶质母细胞瘤患者参与了试验，并被随机分配接受标准化学疗法加安慰剂或3种可能剂量的新药中的一种。研究结果显示，所有3种剂量的新药均出现剂量依赖性的肿瘤缩小，同时伴有不良药物反应的显著增加，包括高血压、肌无力、淋巴细胞减少症和低磷血症。研究人员得出结论，新药的中等剂量提供了最大的益处与毒性的比率。"
+  },
+  "question": {
+    "en": "Which of the following best describes this type of study?",
+    "zh": "以下哪项最能描述这种类型的研究？"
+  },
+  "options": {
+    "A": {
+      "en": "Phase I clinical trial",
+      "zh": "I期临床试验"
+    },
+    "B": {
+      "en": "Phase II clinical trial",
+      "zh": "II期临床试验"
+    },
+    "C": {
+      "en": "Phase III clinical trial",
+      "zh": "III期临床试验"
+    },
+    "D": {
+      "en": "Phase IV clinical trial",
+      "zh": "IV期临床试验"
+    },
+    "E": {
+      "en": "Preclinical study",
+      "zh": "临床前研究"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Phases of clinical trials {{exhibit_1}}\n\nPhase I: small trials usually conducted with healthy participants to assess safety and pharmacokinetics, often performed in a strictly controlled environment with extensive biochemical and physiologic monitoring. Although some phase I chemotherapy trials may involve subjects with cancer due to the inherent toxicity of treatment, drug efficacy (eg, tumor size reduction) is not assessed during a phase I trial (Choice A).\n\nPhase II: small- to medium-sized trials conducted with participants having the condition of interest to assess treatment efficacy, toxicity, adverse effects, and optimal dosing strategies. These studies may or may not have a control group and can be called pilot studies.\n\nPhase III: large trials (typically >300 patients) that are adequately powered to fully assess treatment response and safety, often including analysis of treatment effects in selected subsets of the target patient population. These trials must show adequate effectiveness and safety compared to standard treatment for the drug to obtain regulatory approval.\n\n(Choice C) This trial enrolled a small number of participants with recurrent glioblastoma and compared multiple drug doses with respect to treatment efficacy and toxicity. The results were reported to advise optimal drug dosing (ie, dose-finding); although drug dose correlated with a decrease in tumor size, effectiveness and safety outcomes were not compared with the standard treatment (eg, absolute/relative risks). Therefore, this study is best characterized as a phase II trial.\n\n(Choice D) Phase IV trials are performed after a new drug has obtained regulatory approval for clinical use. These trials are typically performed to assess long-term benefits and risks or identify uncommon adverse effects that were not fully characterized in phase III studies.\n\n(Choice E) In contrast to phase I, II, III, and IV trials, which include human subjects, preclinical studies do not involve human subjects.\n\nEducational objective:\nPhase II studies are small- to medium-sized trials conducted with participants having the condition of interest to assess treatment efficacy, toxicity, adverse effects, and optimal dosing strategies; they are sometimes called pilot studies.",
+    "zh": "临床试验的阶段 {{exhibit_1}}\n\nI期：小型试验，通常与健康参与者进行，以评估安全性及药代动力学，常在严格控制的环境中进行，并进行广泛的生化和生理监测。虽然一些I期化疗试验可能由于治疗的固有毒性而涉及癌症患者，但在I期试验中，不评估药物疗效（例如，肿瘤缩小）（选项A）。\n\nII期：中小型试验，与患有相关疾病的参与者进行，以评估治疗疗效、毒性、不良反应和最佳给药方案。这些研究可能设有对照组，也可能没有对照组，可以称为初步研究。\n\nIII期：大型试验（通常>300例患者），有足够的效力来充分评估治疗反应和安全性，通常包括对目标患者人群的选定亚组的治疗效果进行分析。这些试验必须证明与标准治疗相比，该药物具有足够的有效性和安全性，才能获得监管部门的批准。\n\n（选项C）这项试验招募了少量复发性胶质母细胞瘤患者，并比较了多种药物剂量对治疗疗效和毒性的影响。结果报告用于建议最佳药物剂量（即，剂量确定）；虽然药物剂量与肿瘤缩小相关，但未将有效性和安全性结果与标准治疗（例如，绝对/相对风险）进行比较。因此，这项研究最好被描述为II期试验。\n\n（选项D）IV期试验在新药获得临床使用监管批准后进行。这些试验通常用于评估长期益处和风险，或识别在III期研究中未完全表征的罕见不良反应。\n\n（选项E）与包括人类受试者的I、II、III和IV期试验相比，临床前研究不涉及人类受试者。\n\n教育目标：\nII期研究是与患有相关疾病的参与者进行的中小型试验，旨在评估治疗疗效、毒性、不良反应和最佳给药方案；它们有时被称为初步研究。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the different phases of clinical trials, specifically focusing on the characteristics and objectives of each phase in the drug development process. It requires understanding the distinctions between Phase I, II, III, and IV trials, as well as preclinical studies. \n\nThe best approach is to identify the key features of the study described in the question stem, such as the number of participants, the focus on dose-finding and toxicity assessment, and the comparison of different doses of the drug. Then, match these features to the characteristics of the different clinical trial phases to determine the most appropriate answer.",
+    "zh": "此题考察了对临床试验不同阶段的了解，特别是侧重于药物开发过程中每个阶段的特征和目标。它要求理解I、II、III和IV期试验的区别，以及临床前研究。\n\n最好的方法是确定题干中描述的研究的关键特征，例如参与者数量、对剂量确定和毒性评估的关注，以及对不同药物剂量的比较。然后，将这些特征与不同临床试验阶段的特征相匹配，以确定最合适的答案。"
+  },
+  "tags": "Clinical trials; Drug development; Phase I; Phase II; Phase III; Phase IV; Preclinical studies; Glioblastoma; Oncology; FDA approval",
+  "category": "Bio",
+  "question_id": "19391",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19391",
+  "extracted_at": "2025-11-05T11:13:35.917647",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:22:39.205936",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

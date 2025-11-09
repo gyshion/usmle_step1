@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 74-year-old woman is brought by ambulance to the emergency department due to confusion. She is accompanied by her daughter, who lives with her. The patient was diagnosed with aplastic anemia a year ago. Her condition has responded poorly to immunosuppressive therapy and has required multiple blood transfusions. The patient is alert and oriented to person only; she is unable to respond to other questions. Complete blood count shows severe pancytopenia. The patient has an advance directive, signed 9 months ago, in which she designated a friend as her health care proxy. The friend is contacted by phone and tells the physician that the patient did not want to undergo any more blood transfusions. The patient's daughter adamantly insists that the patient receive a blood transfusion, saying, \"I discussed it with my mother a few weeks ago, and we decided that she should have everything done to prolong her life.\" In deciding whether to perform the blood transfusion, which of the following should the physician consider to have the highest priority? {{exhibit_1}}",
+    "zh": "一名74岁女性因意识模糊被救护车送往急诊科。她的女儿陪同前来，女儿和她住在一起。患者一年前被诊断患有再生障碍性贫血。她的病情对免疫抑制治疗反应不佳，并且需要多次输血。患者仅对人有意识，无法回答其他问题。全血细胞计数显示严重的全血细胞减少。患者有9个月前签署的预先指示，其中她指定一位朋友作为她的医疗保健代理人。医生通过电话联系了这位朋友，朋友告诉医生，患者不想再接受输血。患者的女儿坚决要求患者输血，并说：“我几周前和我的母亲讨论过这个问题，我们决定应该尽一切努力延长她的生命。”在决定是否进行输血时，医生应优先考虑以下哪一项？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "In deciding whether to perform the blood transfusion, which of the following should the physician consider to have the highest priority?",
+    "zh": "在决定是否进行输血时，医生应优先考虑以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "The daughter's wishes",
+      "zh": "女儿的愿望"
+    },
+    "B": {
+      "en": "The ethical principle of nonmaleficence",
+      "zh": "不伤害的伦理原则"
+    },
+    "C": {
+      "en": "The friend's instructions",
+      "zh": "朋友的指示"
+    },
+    "D": {
+      "en": "The patient's likelihood of a meaningful recovery",
+      "zh": "患者有意义康复的可能性"
+    },
+    "E": {
+      "en": "The risks of receiving a blood transfusion",
+      "zh": "接受输血的风险"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "A health care proxy is a surrogate decision maker specifically chosen by a patient to legally make health care decisions on that patient's behalf. Designation occurs when the patient is competent but remains inactive until the patient is incapacitated (eg, delirious, \"alert and oriented to person only,\" \"unable to respond\").\n\nThe health care proxy is obligated to give instructions in accordance with the best estimate of what the patient would have chosen (ie, substituted judgment standard), reflecting deference to patient autonomy. Often, a patient will directly inform the health care proxy of specific interventions to withhold (eg, patient does not want \"any more blood transfusions\") based on personal beliefs or consideration of the risks versus benefits. Therefore, this designated health care proxy (ie, the friend) takes legal priority over all other decision makers to facilitate and respect the patient's individual, informed decisions.\n\nIn this case, even though the friend adhered to the substituted judgment standard by refusing the blood transfusion, there is an isolated report of a change in patient preference from the non-health care proxy daughter. However, this change would be difficult to confirm and is complicated by an unknown context (eg, incapacitated, guilt induced, coerced) in which the patient may have said this (Choice A). Although the reported change warrants further investigation with the health care proxy, the established health care proxy remains as the highest priority individual, informed decisions.\n\n(Choice B) Nonmaleficence is the ethical duty to do no harm to the patient. However, the principle that guides a health care proxy in making medical decisions is the principle of patient autonomy, which emphasize the patient's own preferences that were made when decision-making capacity was intact.\n\n(Choices D and E) The risks (eg, transfusion-related infection, allergic reaction) and benefits (eg, \"a meaningful recovery\") of any medical intervention should always be discussed with the patient or the patient's health care proxy. However, this patient has already communicated her decision to her health care proxy to decline more blood transfusions, which takes precedence.\n\nEducational objective:\nA health care proxy is a person legally designated to make medical decisions if the patient loses decision-making capacity. The health care proxy has more authority than all other surrogate decision makers and is expected to act in accordance with the best estimate of what the patient would have chosen.",
+    "zh": "医疗保健代理人是患者专门选择的替代决策者，代表患者合法地做出医疗保健决定。当患者有能力时，指定就会发生，但在患者丧失行为能力之前保持不活跃状态（例如，谵妄，“仅对人有意识”，“无法回应”）。\n\n医疗保健代理人有义务按照对患者会选择什么的最好估计（即，替代判断标准）给出指示，这反映了对患者自主权的尊重。通常，患者会直接告知医疗保健代理人要放弃的特定干预措施（例如，患者不希望“再输血”）是基于个人信仰或对风险与益处的考虑。因此，这位指定的医疗保健代理人（即，朋友）在所有其他决策者中具有法律优先权，以促进和尊重患者的个人知情决定。\n\n在这种情况下，即使朋友通过拒绝输血遵守了替代判断标准，也有来自非医疗保健代理女儿的患者偏好改变的孤立报告。然而，这种变化很难确认，并且受到未知背景（例如，丧失行为能力、内疚感、被迫）的复杂性影响，在这种背景下，患者可能说过这样的话（选项A）。尽管报告的更改需要与医疗保健代理人进一步调查，但已确定的医疗保健代理人仍然是最高优先级的个人，知情的决定。\n\n（选项B）不伤害是不可伤害患者的伦理责任。然而，指导医疗保健代理人做出医疗决定的原则是患者自主权的原则，该原则强调患者在决策能力完好时做出的自己的偏好。\n\n（选项D和E）任何医疗干预的风险（例如，输血相关感染、过敏反应）和益处（例如，“有意义的康复”）都应始终与患者或患者的医疗保健代理人讨论。但是，该患者已经向其医疗保健代理人传达了她拒绝输血的决定，这具有优先权。\n\n教育目标：\n如果患者失去决策能力，医疗保健代理人是被合法指定做出医疗决定的个人。医疗保健代理人比所有其他替代决策者拥有更多的权力，并且预计将按照对患者会选择什么的最好估计行事。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of advance directives and the role of a health care proxy in making medical decisions for an incapacitated patient. It emphasizes the legal priority of the health care proxy's instructions based on the patient's previously expressed wishes.\n\nThe key to solving this question is recognizing the patient's designation of a health care proxy and understanding that the proxy's instructions, reflecting the patient's prior wishes, take precedence over other family members' opinions. Focus on the legal and ethical obligations of the health care proxy.",
+    "zh": "此问题测试对预先指示和医疗保健代理人在为丧失行为能力的患者做出医疗决定中的作用的理解。它强调了医疗保健代理人指示的法律优先权，这些指示基于患者先前表达的意愿。\n\n解决此问题的关键是认识到患者对医疗保健代理人的指定，并理解代理人的指示反映了患者先前的愿望，优先于其他家庭成员的意见。重点关注医疗保健代理人的法律和伦理义务。"
+  },
+  "tags": "Advance directives; Health care proxy; Patient autonomy; Medical ethics; Surrogate decision making; Aplastic anemia; Blood transfusion",
+  "category": "Ethics",
+  "question_id": "10534",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\10534",
+  "extracted_at": "2025-11-05T14:16:01.824116",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:46:01.128893",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

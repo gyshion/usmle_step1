@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 31-year-old man comes to the office due to progressive dyspnea over the past several months. The patient states that the shortness of breath improved initially with supine positioning, but lately, it is present even on recumbency and during minimal exertion. He reports recurrent episodes of nosebleeds since childhood but has no other medical conditions. Temperature is 36.7 C (98.1 F), blood pressure is 110/50 mm Hg, pulse is 102/min, and respirations are 20/min. Oxygen saturation is 96% on room air. Cardiac examination reveals an accentuated S2 over the upper left sternal border. The lungs are clear to auscultation. There is digital clubbing. Skin examination findings are shown in the exhibit {{exhibit_1}}. Which of the following is the most likely underlying cause of this patient's dyspnea?",
+    "zh": "一名31岁的男性因过去几个月出现进行性呼吸困难就诊。患者表示，最初仰卧位可改善呼吸困难，但最近即使在卧位和轻微活动时也会出现。他报告自童年以来反复出现鼻出血，但没有其他疾病。体温36.7摄氏度（98.1华氏度），血压110/50毫米汞柱，脉搏102次/分钟，呼吸20次/分钟。在常温空气中氧饱和度为96%。心脏检查显示在左上胸骨旁可听到增强的S2。肺部听诊清晰。有杵状指。皮肤检查结果见图{{exhibit_1}}。以下哪项最可能是该患者呼吸困难的根本原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying cause of this patient's dyspnea?",
+    "zh": "以下哪项最可能是该患者呼吸困难的根本原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Airway obstruction",
+      "zh": "气道阻塞"
+    },
+    "B": {
+      "en": "Endocardial infection",
+      "zh": "心内膜感染"
+    },
+    "C": {
+      "en": "Pulmonary fibrosis",
+      "zh": "肺纤维化"
+    },
+    "D": {
+      "en": "Valvular dysfunction",
+      "zh": "瓣膜功能障碍"
+    },
+    "E": {
+      "en": "Vascular malformation",
+      "zh": "血管畸形"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This young adult has a history of recurrent epistaxis, cutaneous telangiectasias, and signs of pulmonary vascular disease. These findings are consistent with HEREDITARY HEMORRHAGIC TELANGIECTASIA (HHT) (Rendu-Osler-Weber syndrome). HHT is caused by autosomal dominant mutations of genes involved in angiogenesis (eg, *ENG, ACVRL1*), leading to multiorgan ARTERIOVENOUS MALFORMATIONS (AVMs). In the lungs, HHT is associated with PULMONARY AVMs, which may present with cyanosis, digital clubbing, hemoptysis, and PLATYPNEA (dyspnea aggravated by upright posture). The mechanism of platypnea is a gravitational increase in perfusion through the arteriovenous (AV) communications in the lower lung, worsening V/Q mismatch. {{exhibit_2}}\n\nHHT can induce PULMONARY HYPERTENSION (progressive dyspnea, loud P2 [pulmonic component of S2]) in some patients. This is usually due to extensive SYSTEMIC AVMs (eg, hepatic) provoking chronic, HIGH-OUTPUT HEART FAILURE (widened pulse pressure, tachycardia) that elevates mean pulmonary arterial pressure. HHT vascular gene mutations can also induce hypertrophic remodeling, leading to occlusion of the small precapillary pulmonary arteries, contributing to development of pulmonary hypertension.\n\n(Choice A) Obstructive airway disease (eg, cystic fibrosis, bronchiectasis) may cause digital clubbing and a loud P2 (pulmonary hypertension due to lung disease). However, lung examination would be abnormal (eg, wheezing, decreased air movement). Furthermore, this patient's recurrent epistaxis, cutaneous angiomas, and platypnea are more suggestive of HHT.\n\n(Choices B and D) Infective endocarditis may cause digital clubbing and cutaneous lesions. Dermal findings include Osler nodes, Janeway lesions, and splinter hemorrhages. Involvement of the aortic valve can cause aortic regurgitation, resulting in widened pulse pressure and heart failure. However, recurrent epistaxis, telangiectasias, and platypnea are more consistent with HHT.\n\n(Choice C) Pulmonary fibrosis can cause progressive dyspnea, digital clubbing, and a loud P2 (pulmonary hypertension due to lung disease). However, idiopathic pulmonary fibrosis affects individuals in late adulthood, and lung examination would reveal inspiratory crackles.\n\nEducational objective:\nHereditary hemorrhagic telangiectasia presents with mucocutaneous telangiectasias, epistaxis, and visceral arteriovenous malformations (AVMs) (eg, liver, lung, brain). Lung involvement includes pulmonary AVMs (eg, digital clubbing, platypnea) and pulmonary hypertension (eg, a loud P2) due to high-output heart failure from underlying systemic AVMs. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "这位年轻人有反复鼻出血、皮肤毛细血管扩张和肺血管疾病的病史。这些发现与遗传性出血性毛细血管扩张症（HHT）（Rendu-Osler-Weber综合征）一致。HHT是由参与血管生成的基因（如*ENG、ACVRL1*）的常染色体显性突变引起的，导致多器官动静脉畸形（AVMs）。在肺部，HHT与肺AVMs相关，可能表现为发绀、杵状指、咯血和平卧呼吸（站立时加重的呼吸困难）。平卧呼吸的机制是重力增加了通过下肺动静脉（AV）交通的灌注，从而加重了V/Q失调。{{exhibit_2}}\n\nHHT可诱发某些患者出现肺动脉高压（进行性呼吸困难，P2响亮[S2的肺动脉成分]）。这通常是由于广泛的全身AVMs（例如，肝脏）引起慢性高输出量心力衰竭（脉压增宽，心动过速），从而升高平均肺动脉压力。HHT血管基因突变也可诱导肥厚性重塑，导致小肺前毛细血管闭塞，导致肺动脉高压的发展。\n\n（选项A）阻塞性气道疾病（例如，囊性纤维化、支气管扩张）可引起杵状指和响亮的P2（肺部疾病引起的肺动脉高压）。然而，肺部检查会异常（例如，喘息、气流减少）。此外，该患者反复鼻出血、皮肤血管瘤和平卧呼吸更提示HHT。\n\n（选项B和D）感染性心内膜炎可引起杵状指和皮肤病变。皮肤表现包括Osler结节、Janeway病灶和刺状出血。主动脉瓣受累可引起主动脉瓣关闭不全，导致脉压增宽和心力衰竭。然而，反复鼻出血、毛细血管扩张和平卧呼吸更符合HHT。\n\n（选项C）肺纤维化可引起进行性呼吸困难、杵状指和响亮的P2（肺部疾病引起的肺动脉高压）。然而，特发性肺纤维化影响成年后期的人，肺部检查将显示吸气性爆裂音。\n\n教育目标：\n遗传性出血性毛细血管扩张症表现为粘膜毛细血管扩张、鼻出血和内脏动静脉畸形（AVMs）（例如，肝脏、肺、脑）。肺部受累包括肺AVMs（例如，杵状指、平卧呼吸）和肺动脉高压（例如，响亮的P2），这是由于潜在的全身AVMs引起的高输出量心力衰竭。{{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Hereditary Hemorrhagic Telangiectasia (HHT), also known as Rendu-Osler-Weber syndrome, and its pulmonary manifestations, including arteriovenous malformations (AVMs) and pulmonary hypertension. It requires recognizing the classic triad of recurrent epistaxis, mucocutaneous telangiectasias, and visceral involvement, and understanding the pathophysiology of platypnea.\n\nTo solve this question, identify the key features of HHT in the patient's history and physical exam. Recognize that the combination of recurrent nosebleeds, telangiectasias, digital clubbing, and accentuated P2 suggests pulmonary AVMs and pulmonary hypertension secondary to HHT. Rule out other causes of dyspnea based on the clinical presentation.",
+    "zh": "这个问题测试了对遗传性出血性毛细血管扩张症（HHT），又称Rendu-Osler-Weber综合征，及其肺部表现，包括动静脉畸形（AVMs）和肺动脉高压的知识。它要求识别反复鼻出血、粘膜毛细血管扩张和内脏受累的经典三联征，并了解平卧呼吸的病理生理学。\n\n要解决这个问题，请确定患者病史和体格检查中HHT的关键特征。认识到反复鼻出血、毛细血管扩张、杵状指和增强的P2的组合提示肺AVMs和继发于HHT的肺动脉高压。根据临床表现排除呼吸困难的其他原因。"
+  },
+  "tags": "Hereditary hemorrhagic telangiectasia; Rendu-Osler-Weber syndrome; Arteriovenous malformation; Pulmonary hypertension; Epistaxis; Telangiectasia; Platypnea; Pulmonary disease; Vascular disease",
+  "category": "Chest",
+  "question_id": "19809",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\19809",
+  "extracted_at": "2025-11-05T11:43:21.051737",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:38:17.565997",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

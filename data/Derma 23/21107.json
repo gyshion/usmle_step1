@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 4-month-old girl is brought to the clinic by her parents for a well-child check. She was evaluated 2 weeks ago for a rash in the diaper area. At that visit, the patient was found to have erythematous papules in the diaper area that spared the skin folds. Her symptoms improved with use of a petrolatum barrier ointment with every diaper change. Today, vital signs and physical examination are normal. {{exhibit_1}}",
+    "zh": "一位4个月大的女孩由父母带到诊所进行健康儿童检查。两周前，她因尿布区皮疹接受了评估。在那次就诊中，发现患者尿布区出现红斑丘疹，但未累及皮肤褶皱。她的症状在使用凡士林屏障软膏并每次更换尿布后有所改善。今天，生命体征和体格检查均正常。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following most likely contributed to this patient's prior skin findings?",
+    "zh": "以下哪项最有可能导致该患者先前的皮肤表现？"
+  },
+  "options": {
+    "A": {
+      "en": "Abnormal keratin expression",
+      "zh": "异常角蛋白表达"
+    },
+    "B": {
+      "en": "Altered local skin pH",
+      "zh": "局部皮肤 pH 值改变"
+    },
+    "C": {
+      "en": "Increased hapten sensitization",
+      "zh": "半抗原致敏增加"
+    },
+    "D": {
+      "en": "Local bacterial colonization",
+      "zh": "局部细菌定植"
+    },
+    "E": {
+      "en": "Mite infestation",
+      "zh": "螨虫感染"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's rash that resolved with use of a barrier ointment was likely irritant contact diaper dermatitis, the most common diaper rash in infants. Characteristic features include erythematous papules confined to the diaper area. In contrast to candidal diaper dermatitis, another common diaper rash caused by a secondary yeast infection, irritant contact diaper dermatitis does not have skinfold involvement or satellite lesions (ie, discrete lesions beyond the borders of the main rash).\n\nIrritant contact diaper dermatitis is predominantly caused by SKIN BARRIER BREAKDOWN from exposure to urine and stool trapped within the diaper. Patients with frequent stooling (eg, diarrhea) are at increased risk because urease produced by fecal bacteria causes an INCREASE IN LOCAL SKIN pH, which allows for activation of proteolytic enzymes that disrupt the stratum corneum. Areas of macerated skin are then prone to frictional damage from the diaper, which further exacerbates the rash.\n\nThe treatment for irritant contact diaper dermatitis is a thick BARRIER OINTMENT (eg, petrolatum) or paste (eg, zinc oxide), which provides the skin an adherent layer of protection from contact with the stool and urine. Other measures to reduce irritant exposure include frequent diaper changes and diaper-free periods.\n\n(Choice A) Abnormal keratin expression describes the pathogenesis of psoriasis, which manifests as erythematous, scaly plaques. Psoriasis rarely presents in the diaper area and is usually chronic and persistent without topical corticosteroid treatment.\n\n(Choice C) Increased hapten sensitization describes allergic contact dermatitis, which is uncommon in the diaper area but can occur with an allergy to a component (eg, dye, fragrance) in diapers or wipes. The rash is unlikely to resolve without complete removal of the offending antigen (eg, changing diaper brand), and topical corticosteroids are also required in many cases.\n\n(Choice D) Local bacterial colonization with Staphylococcus or Streptococcus leads to impetigo in the diaper area. Honey-crusted pustules are classic, and topical antibiotics are the first-line treatment.\n\n(Choice E) Scabies is a mite infestation that causes itchy, erythematous papules. The rash can involve the diaper area, but lesions would also be expected elsewhere (eg, axillae, hands, feet). Treatment is with permethrin, and resolution would not be expected with petrolatum alone. {{exhibit_2}}",
+    "zh": "该患者使用屏障软膏后皮疹消退，这很可能是刺激性接触性尿布皮炎，这是婴儿中最常见的尿布疹。其特征包括局限于尿布区的红斑丘疹。与念珠菌尿布皮炎（另一种由继发性酵母菌感染引起的常见尿布疹）不同，刺激性接触性尿布皮炎没有皮肤褶皱受累或卫星病灶（即，在主要皮疹边界之外的离散病灶）。\n\n刺激性接触性尿布皮炎主要由尿布内尿液和粪便暴露引起的皮肤屏障破坏所致。频繁排便（例如腹泻）的患者风险增加，因为粪便细菌产生的尿素酶会导致局部皮肤 pH 值升高，这使得蛋白水解酶活化，从而破坏角质层。浸渍的皮肤区域随后容易受到尿布的摩擦损伤，这会进一步加剧皮疹。\n\n刺激性接触性尿布皮炎的治疗方法是厚厚的屏障软膏（例如凡士林）或糊剂（例如氧化锌），它为皮肤提供了一层附着层，以防止与粪便和尿液接触。减少刺激物暴露的其他措施包括经常更换尿布和无尿布期。\n\n(选项 A) 异常角蛋白表达描述了银屑病的病理生理学，其表现为红斑鳞屑性斑块。银屑病很少在尿布区出现，并且通常是慢性的，未经局部皮质类固醇治疗会持续存在。\n\n(选项 C) 半抗原致敏增加描述了变应性接触性皮炎，这在尿布区并不常见，但可能由于对尿布或湿巾中的某种成分（例如染料、香料）过敏而发生。在没有完全去除致病抗原（例如更换尿布品牌）的情况下，皮疹不太可能消退，并且在许多情况下也需要局部皮质类固醇。\n\n(选项 D) 金黄色葡萄球菌或链球菌的局部细菌定植导致尿布区的脓疱病。蜜黄色痂皮脓疱是典型的表现，局部抗生素是一线治疗。\n\n(选项 E) 疥疮是一种螨虫感染，会导致瘙痒性红斑丘疹。皮疹可能涉及尿布区，但其他部位（例如腋窝、手、脚）也可能出现病灶。治疗方法是使用扑灭螨，单独使用凡士林预计不会缓解。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of irritant contact diaper dermatitis, its etiology, and differentiating features from other common diaper rashes. It also assesses understanding of appropriate management strategies.\n\nTo solve this question, recognize the clinical presentation of irritant contact diaper dermatitis, its association with increased local skin pH due to fecal bacteria, and the effectiveness of barrier ointments in treatment. Rule out other diaper rash etiologies based on their distinct characteristics.",
+    "zh": "此题考察了对刺激性接触性尿布皮炎的认识，其病因以及与其他常见尿布疹的区别特征。它还评估了对适当管理策略的理解。\n\n要解决这个问题，需要认识到刺激性接触性尿布皮炎的临床表现，它与粪便细菌导致的局部皮肤 pH 值升高之间的关系，以及屏障软膏在治疗中的有效性。根据其他尿布疹的不同特征，排除其他病因。"
+  },
+  "tags": "Irritant contact diaper dermatitis; Diaper rash; Skin barrier; Local skin pH; Petrolatum; Pediatrics; Dermatology; Fecal bacteria; Skin infection",
+  "category": "Derma",
+  "question_id": "21107",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\21107",
+  "extracted_at": "2025-11-05T13:55:41.237961",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:35:21.993676",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,57 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old previously healthy woman comes to the hospital due to increasing shortness of breath and cough. Over the past few months, she has had arthralgias, fatigue, low-grade fever, and weight loss. Laboratory results are as follows:\n\nComplete blood count\nHemoglobin 10.4 g/dL\nLeukocytes 8,000/mm3\n\nSerum chemistry\nBlood urea nitrogen 28 mg/dL\nCreatinine 2.7 mg/dL\n\nUrinalysis\nNitrites negative\nBacteria none\nRed blood cells 20-30/hpf\n\nCT scan of chest is shown in the exhibit {{exhibit_1}}.",
+    "zh": "一名35岁的先前健康的女性因呼吸困难和咳嗽加重而入院。在过去的几个月里，她出现了关节痛、疲劳、低烧和体重减轻。实验室结果如下：\n\n全血细胞计数\n血红蛋白 10.4 g/dL\n白细胞 8,000/mm3\n\n血清化学\n血尿素氮 28 mg/dL\n肌酐 2.7 mg/dL\n\n尿液分析\n亚硝酸盐 阴性\n细菌 无\n红细胞 20-30/hpf\n\n胸部CT扫描见附图 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Histologic examination of the lung would most likely reveal which of the following findings?",
+    "zh": "肺组织的组织学检查最有可能揭示以下哪种发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Fibrinoid degeneration of the vessel wall with luminal narrowing",
+      "zh": "血管壁的纤维素样变性伴管腔狭窄"
+    },
+    "B": {
+      "en": "Necrotizing arteritis and focal collections of epithelioid histiocytes",
+      "zh": "坏死性动脉炎和上皮样组织细胞的局灶性聚集"
+    },
+    "C": {
+      "en": "Necrotizing granuloma with a predominance of eosinophils",
+      "zh": "坏死性肉芽肿，嗜酸性粒细胞占优势"
+    },
+    "D": {
+      "en": "Proliferation of irregularly shaped glands and pleomorphic cells",
+      "zh": "形态不规则的腺体和多形性细胞的增生"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has chronic constitional and pulmonary symptoms associated with patchy lung infiltrates/cavitation and laboratory findings of glomerulonephritis (hematuria, increased creatinine). These findings are suggestive of granulomatosis with polyangiitis (GPA), a small vessel vasculitis associated with antineutrophilic cytoplasmic antibodies (ANCA). Patients with GPA generally present with weeks or months of constitutional symptoms (eg, arthralgias, fatigue, low-grade fever, weight loss) and manifestations in the following areas:\n\nUpper airway: otitis media, nasal crusting/ulcers, rhinorrhea\nLower airway: hoarseness, cough, stridor, hemoptysis, pulmonary infiltrates\nKidney: rapidly progressive glomerulonephritis\nLaboratory evaluation frequently shows anemia of chronic disease due to elevated levels of inflammatory cytokines and renal insufficiency due to glomerulonephritis (eg, microscopic hematuria, red blood cells, negative nitrate/bacteria). Chest imaging often reveals patchy lung infiltrates, nodules, and/or cavitations.\n\nAlthough ANCA is positive in >85% of patients with GPA (c-ANCA in particular), it is a non-specific marker. Therefore, tissue biopsy is generally required for diagnosis; histopathology will show a necrotizing arteritis with granulomatous inflammation (eg, epithelioid histiocytes, multinucleated giant cells) and a mixture of surrounding inflammatory cells. Veins and capillaries are also frequently affected.\n\n(Choice A) Polyarteritis nodosa (PAN) is marked by transmural segmental inflammation of medium-sized muscular arteries with fibrinoid necrosis, which causes lumen narrowing, thrombosis, and organ ischemia. Although PAN often affects the kidney, the lung is generally spared. In contrast to GPA, PAN is not associated with ANCA.\n\n(Choice C) Eosinophilic granulomatosis with polyangiitis (Churg-Strauss) is marked by the formation of necrotizing granulomas with a predominance of eosinophils. Although renal insufficiency and glomerulonephritis occur in a minority of patients, almost all patients have years of preceding asthma. In addition, cavitary lesions are uncommon.\n\n(Choice D) Adenocarcinoma of the lung is generally marked by the proliferation of irregular glands and pleomorphic cells. Although this condition can cause normocytic anemia, cough, shortness of breath, and weight loss, it is not strongly associated with renal insufficiency or cavitary lung lesions (cavitary lesions are more common with squamous cell carcinoma). In addition, most cases arise in older patients.\n\nGranulomatosis with polyangiitis {{exhibit_2}} is an ANCA-associated systemic vasculitis that typically presents with upper (eg, purulent nasal discharge) and lower (eg, cavitary lung lesion) respiratory manifestations and renal insufficiency due to glomerulonephritis. Biopsy typically reveals a necrotizing arteritis with granulomatous inflammation (eg, epithelioid histiocytes, multinucleated giant cells) and lack of immunoglobulin/complement deposition.",
+    "zh": "该患者有慢性全身和肺部症状，伴有斑片状肺浸润/空洞形成和肾小球肾炎的实验室检查结果（血尿、肌酐升高）。这些发现提示肉芽肿性多血管炎 (GPA)，这是一种与抗中性粒细胞胞质抗体 (ANCA) 相关的小血管血管炎。GPA 患者通常表现为数周或数月的全身症状（如关节痛、疲劳、低烧、体重减轻），并在以下部位出现表现：\n\n上呼吸道：中耳炎、鼻痂/溃疡、鼻溢\n下呼吸道：声音嘶哑、咳嗽、喘鸣、咯血、肺浸润\n肾脏：快速进展性肾小球肾炎\n实验室评估通常显示由于炎症细胞因子水平升高引起的慢性病性贫血和由于肾小球肾炎引起的肾功能不全（如，镜下血尿、红细胞、硝酸盐/细菌阴性）。胸部影像学检查常显示斑片状肺浸润、结节和/或空洞形成。\n\n尽管 >85% 的 GPA 患者的 ANCA 呈阳性（尤其是 c-ANCA），但这是一种非特异性标志物。因此，通常需要进行组织活检以进行诊断；组织病理学检查将显示坏死性动脉炎伴肉芽肿性炎症（如上皮样组织细胞、多核巨细胞）和周围炎症细胞的混合物。静脉和小毛细血管也常受累。\n\n（选项 A）结节性多动脉炎 (PAN) 的特征是中型肌性动脉的壁全层节段性炎症伴纤维素样坏死，这会导致管腔狭窄、血栓形成和器官缺血。虽然 PAN 经常影响肾脏，但肺部通常不受影响。与 GPA 相比，PAN 与 ANCA 无关。\n\n（选项 C）伴有嗜酸性粒细胞增多的肉芽肿性多血管炎 (Churg-Strauss) 的特征是形成坏死性肉芽肿，嗜酸性粒细胞占优势。尽管肾功能不全和肾小球肾炎发生在少数患者中，但几乎所有患者都有数年的哮喘病史。此外，空洞病变并不常见。\n\n（选项 D）肺腺癌通常以形态不规则的腺体和多形性细胞增生为特征。虽然这种情况会导致正细胞性贫血、咳嗽、呼吸急促和体重减轻，但与肾功能不全或空洞性肺病变（鳞状细胞癌更常见空洞性病变）的相关性不强。此外，大多数病例发生在老年患者中。\n\n肉芽肿性多血管炎 {{exhibit_2}} 是一种 ANCA 相关性全身性血管炎，通常表现为上呼吸道（如，脓性鼻涕）和下呼吸道（如，空洞性肺病变）表现以及由于肾小球肾炎引起的肾功能不全。活检通常显示坏死性动脉炎伴肉芽肿性炎症（如上皮样组织细胞、多核巨细胞）和缺乏免疫球蛋白/补体沉积。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of granulomatosis with polyangiitis (GPA), including its clinical presentation, laboratory findings, and histopathological features. It requires differentiating GPA from other vasculitides and lung pathologies based on clinical and histological characteristics.\n\nTo solve this question, recognize the constellation of symptoms (pulmonary and renal involvement, constitutional symptoms), laboratory findings (elevated creatinine, hematuria), and the association with ANCA. Then, select the histological finding most characteristic of GPA: necrotizing arteritis with granulomatous inflammation.",
+    "zh": "此题考察对肉芽肿性多血管炎 (GPA) 的了解，包括其临床表现、实验室检查结果和组织病理学特征。它需要根据临床和组织学特征将 GPA 与其他血管炎和肺部病理学进行区分。\n\n要解决这个问题，需要认识到症状的组合（肺部和肾脏受累、全身症状）、实验室检查结果（肌酐升高、血尿）以及与 ANCA 的关联。然后，选择 GPA 最具特征性的组织学发现：坏死性动脉炎伴肉芽肿性炎症。"
+  },
+  "tags": "Granulomatosis with polyangiitis; Vasculitis; ANCA; Necrotizing arteritis; Glomerulonephritis; Pulmonary infiltrates; Histopathology; Renal insufficiency; Autoimmune disease",
+  "category": "CVS",
+  "question_id": "6445",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\6445",
+  "extracted_at": "2025-11-05T12:15:19.948570",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:30:40.154255",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old woman calls 911 due to severe chest pain and dyspnea. The emergency medical team finds the patient unresponsive with no pulse, and she does not revive despite extensive cardiopulmonary resuscitation efforts. She had a prolonged history of systemic lupus erythematosus treated with multiple medications and was recently evaluated for progressive muscle weakness. Records from the patient's most recent office visit show an elevated blood pressure and examination findings of facial plethora, truncal obesity, and skin ecchymoses. She was also found to have mild hyperglycemia. Medical history included a left hip replacement for osteonecrosis of the femoral head 1 year ago. At autopsy, she is found to have an occluding thrombus in the left main coronary artery, which likely led to sudden cardiac death. Examination of this patient's adrenal glands is most likely to reveal which of the following findings?",
+    "zh": "一名45岁女性因严重胸痛和呼吸困难拨打911。急救医疗队发现患者无反应，无脉搏，尽管进行了广泛的心肺复苏，但未能恢复。她有长期系统性红斑狼疮病史，并接受多种药物治疗，最近因进行性肌无力接受评估。患者最近一次就诊记录显示血压升高，检查发现面部多血症、躯干肥胖和皮肤瘀斑。她还被发现有轻度高血糖症。病史包括一年前因股骨头坏死进行的左髋关节置换术。尸检发现她左主冠状动脉内有阻塞性血栓，这很可能导致猝死。对该患者肾上腺的检查最有可能揭示以下哪种发现？"
+  },
+  "question": {
+    "en": "Examination of this patient's adrenal glands is most likely to reveal which of the following findings?",
+    "zh": "对该患者肾上腺的检查最有可能揭示以下哪种发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Adrenocortical adenoma",
+      "zh": "肾上腺皮质腺瘤"
+    },
+    "B": {
+      "en": "Bilateral cortical atrophy",
+      "zh": "双侧皮质萎缩"
+    },
+    "C": {
+      "en": "Diffuse cortical hyperplasia",
+      "zh": "弥漫性皮质增生"
+    },
+    "D": {
+      "en": "Diffuse cortical hypertrophy",
+      "zh": "弥漫性皮质肥大"
+    },
+    "E": {
+      "en": "Nodular cortical hyperplasia",
+      "zh": "结节性皮质增生"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has features of hypercortisolism, including hypertension, central obesity, muscular weakness, ecchymoses, and hyperglycemia. She most likely developed IATROGENIC CUSHING SYNDROME due to prolonged administration of glucocorticoids for management of systemic lupus erythematosus (SLE). Chronic glucocorticoid use can also cause osteonecrosis, and both Cushing syndrome and SLE itself can increase the risk for atherosclerosis and acute coronary events (as in this patient). \n\nExogenous glucocorticoid use inhibits the entire hypothalamic-pituitary-adrenal axis, leading to low levels of corticotropin-releasing hormone (CRH), ACTH, and endogenous cortisol. ACTH exerts a potent trophic (ie, growth promoting) effect on the adrenal zona fasciculata and reticularis; long-term suppression leads to adrenocortical atrophy (the zona glomerulosa is spared as angiotensin II is its primary trophic hormone). Sudden cessation of glucocorticoids after prolonged use can precipitate adrenocortical insufficiency and adrenal crisis. {{exhibit_1}}\n\n(Choice A) Endogenous Cushing syndrome can be caused by an autonomous cortisol-producing adrenal tumor. However, this patient's history is more suggestive of exogenous glucocorticoid use.\n\n(Choices C, D, and E) Bilateral cortical hyperplasia and hypertrophy occur in patients with ACTH excess (eg, pituitary corticotroph adenoma [Cushing disease]). Varying degrees of adrenocortical nodularity can also be seen. However, this patient was likely taking exogenous glucocorticoids, which would suppress ACTH release and lead to adrenocortical atrophy.",
+    "zh": "该患者具有高皮质醇血症的特征，包括高血压、中心性肥胖、肌无力、瘀斑和高血糖。她很可能由于长期使用糖皮质激素治疗系统性红斑狼疮（SLE）而患上医源性库欣综合征。长期使用糖皮质激素也会导致骨坏死，并且库欣综合征和SLE本身都会增加动脉粥样硬化和急性冠状动脉事件（如本例患者）的风险。\n\n外源性糖皮质激素的使用会抑制整个下丘脑-垂体-肾上腺轴，导致促肾上腺皮质激素释放激素(CRH)、促肾上腺皮质激素(ACTH)和内源性皮质醇水平降低。ACTH对肾上腺束状带和网状带发挥强大的营养（即促进生长）作用；长期抑制导致肾上腺皮质萎缩（肾小球带得以保留，因为血管紧张素II是其主要的营养激素）。长期使用糖皮质激素后突然停药可引起肾上腺皮质功能不全和肾上腺危象。 {{exhibit_1}}\n\n（选项A）内源性库欣综合征可由自主分泌皮质醇的肾上腺肿瘤引起。然而，该患者的病史更提示外源性糖皮质激素的使用。\n\n（选项C、D和E）双侧皮质增生和肥大发生于ACTH过多的患者（例如，垂体促皮质素腺瘤[库欣病]）。也可观察到不同程度的肾上腺皮质结节。然而，该患者可能正在服用外源性糖皮质激素，这会抑制ACTH释放并导致肾上腺皮质萎缩。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Cushing's syndrome, specifically the adrenal gland changes associated with exogenous glucocorticoid use. The key to solving this question is recognizing the clinical features of Cushing's syndrome and understanding the suppressive effect of exogenous steroids on the hypothalamic-pituitary-adrenal axis.\n\nTo answer correctly, identify the signs of Cushing's syndrome in the patient's presentation. Then, recall that long-term exogenous steroid use leads to bilateral cortical atrophy of the adrenal glands due to ACTH suppression.",
+    "zh": "此题考察对库欣综合征的认识，特别是与外源性糖皮质激素使用相关的肾上腺变化。解决此题的关键是识别库欣综合征的临床特征并理解外源性类固醇对下丘脑-垂体-肾上腺轴的抑制作用。\n\n要正确回答，请识别患者表现中库欣综合征的体征。然后，回想起长期外源性类固醇使用会导致肾上腺双侧皮质萎缩，这是由于ACTH的抑制。"
+  },
+  "tags": "Cushing's syndrome; Adrenal gland; Glucocorticoids; Systemic lupus erythematosus; Hypothalamic-pituitary-adrenal axis; Adrenal atrophy; Iatrogenic disease; Endocrinology; Pharmacology",
+  "category": "Endo",
+  "question_id": "928",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\928",
+  "extracted_at": "2025-11-05T14:11:49.316220",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:43:38.389012",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

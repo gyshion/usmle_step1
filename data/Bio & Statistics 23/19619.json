@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A group of researchers wants to identify factors related to hospital-acquired bacteremia caused by methicillin-resistant *Staphylococcus aureus* (MRSA). A total of 45 patients were enrolled in the study after MRSA was isolated from a blood sample taken from them on the third or subsequent day after admission. In addition, 90 patients admitted to the hospital over the same period with a length of stay >2 days who did not have bacteremia were randomly selected. The frequency of factors such as insertion of a central line or urinary catheter and surgical site infection were then compared between the 2 groups. ",
+    "zh": "一组研究人员希望确定与耐甲氧西林金黄色葡萄球菌（MRSA）引起的医院获得性菌血症相关的因素。在从患者入院后第三天或之后从其血液样本中分离出 MRSA 后，共有 45 名患者入组研究。此外，随机选择了 90 名在同一时期入院且住院时间 >2 天但未发生菌血症的患者。然后比较了 2 组之间插入中心静脉导管或导尿管和手术部位感染等因素的频率。"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate null hypothesis for this study?",
+    "zh": "以下哪项是本研究最合适的零假设？"
+  },
+  "options": {
+    "A": {
+      "en": "Hazard ratio is equal to 1",
+      "zh": "风险比等于 1"
+    },
+    "B": {
+      "en": "Hazard ratio is not equal to 1",
+      "zh": "风险比不等于 1"
+    },
+    "C": {
+      "en": "Odds ratio is equal to 1",
+      "zh": "比值比等于 1"
+    },
+    "D": {
+      "en": "Odds ratio is not equal to 1",
+      "zh": "比值比不等于 1"
+    },
+    "E": {
+      "en": "Relative risk is equal to 1",
+      "zh": "相对风险等于 1"
+    },
+    "F": {
+      "en": "Relative risk is not equal to 1",
+      "zh": "相对风险不等于 1"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "A statistical hypothesis is an initial assumption (that may or may not be true) regarding population parameters (eg, mean values in two different groups) or the relationship between variables within a population (eg, association between an exposure and a disease). The **null hypothesis (H₀)** is a statement of no difference or **no association**. The alternative hypothesis (H₁) is a statement of difference or association.\n\nIn this case, patients are **initially identified** based on their **disease status** (ie, cases: patients with methicillin-resistant *Staphylococcus aureus* [MRSA] bacteremia; controls: patients without MRSA bacteremia). The frequency of factors (ie, exposure to insertion of a central line or urinary catheter, surgical site infection) is **subsequently compared** between cases and controls. Therefore, this is a **case-control study**; the most appropriate measure of association between an exposure and a disease in case-control studies is the **odds ratio (OR)**, which represents the odds of disease among exposed patients relative to nonexposed patients.\n\nThe OR may be interpreted as follows:\n\n*   OR = 1.0 (**null value**) indicates that the odds of exposure among cases are the same as the odds of exposure among controls; therefore, **exposure is not associated with the disease**.\n*   OR ≠ 1.0 indicates that the odds of exposure are lower (ie, OR <1) or higher (ie, OR >1) among cases than among controls; therefore, exposure is associated with the disease.\n\nBecause H₀ is a statement of no association, the most appropriate H₀ for the study is that the OR = 1 (Choice D).\n\n(Choices A, B, E, and F) Measures of association based on risk/incidence (eg, relative risk, hazard ratio) are calculated in cohort studies and experimental designs, in which participants are initially selected based on exposure status (ie, exposed or nonexposed to a risk factor or treatment) and then are followed over time to assess development of disease. However, in case-control studies, **cases** (by definition) **already have the disease**. Therefore, case-control studies cannot calculate and compare the risk/incidence of disease between the case and control groups. Instead, case-control studies must compare the odds of exposure (to a risk modifier) between cases and controls.\n\nEducational objective: The odds ratio (OR) is a measure of association used in case-control studies. It quantifies the relationship between an exposure and a disease; its null value (ie, null hypothesis value) is always 1 (ie, OR = 1).",
+    "zh": "统计学假设是对总体参数（例如，两组不同的平均值）或总体内变量之间关系（例如，暴露与疾病之间的关联）的初步假设（可能为真或可能不真）。 **零假设 (H₀)** 是一个无差异或**无关联**的陈述。 备择假设 (H₁) 是一个差异或关联的陈述。\n\n在这种情况下，患者**最初是根据其疾病状态确定的**（即，病例：耐甲氧西林金黄色葡萄球菌 [MRSA] 菌血症患者；对照：无 MRSA 菌血症患者）。随后**比较**了病例和对照组之间各种因素的频率（即，暴露于插入中心静脉导管或导尿管、手术部位感染）。因此，这是一项**病例对照研究**；病例对照研究中暴露与疾病之间最合适的关联测量是**比值比 (OR)**，它代表暴露患者相对于未暴露患者的患病几率。\n\nOR 可以解释如下：\n\n*   OR = 1.0（**零值**）表示病例中的暴露几率与对照组中的暴露几率相同；因此，**暴露与疾病无关**。\n*   OR ≠ 1.0 表明，病例中暴露的几率低于（即，OR <1）或高于（即，OR >1）对照组；因此，暴露与疾病相关。\n\n由于 H₀ 是一个无关联的陈述，本研究最合适的 H₀ 是 OR = 1（选项 D）。\n\n（选项 A、B、E 和 F）基于风险/发病率的关联测量（例如，相对风险、风险比）是在队列研究和实验设计中计算的，在这些研究中，参与者最初是根据暴露状态（即，暴露于或未暴露于危险因素或治疗）选择的，然后随时间推移进行随访以评估疾病的发展。 然而，在病例对照研究中，**病例**（根据定义）**已经患有该疾病**。 因此，病例对照研究无法计算和比较病例组和对照组之间的疾病风险/发病率。 相反，病例对照研究必须比较病例和对照之间暴露（危险因素）的几率。\n\n教育目标：比值比 (OR) 是病例对照研究中使用的关联测量。它量化了暴露与疾病之间的关系；其零值（即，零假设值）始终为 1（即，OR = 1）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of study designs, specifically case-control studies, and the appropriate measure of association used in such studies, which is the odds ratio. It also tests the knowledge of the null hypothesis in statistical testing.\n\nTo solve this question, identify the study design as case-control based on the selection of participants based on disease status. Then, recall that odds ratio is the appropriate measure of association for case-control studies and that the null hypothesis states no association, which corresponds to an odds ratio of 1.",
+    "zh": "这道题考察了对研究设计的理解，特别是病例对照研究，以及在这种研究中使用的适当的关联测量，即比值比。它还考察了对统计检验中零假设的知识。\n\n要解决这个问题，根据参与者基于疾病状态的选择，将研究设计确定为病例对照研究。然后，回想起比值比是病例对照研究的适当关联测量，并且零假设陈述无关联，这对应于比值比为 1。"
+  },
+  "tags": "Case-control study; Odds ratio; Null hypothesis; Biostatistics; Epidemiology; Study design",
+  "category": "Bio",
+  "question_id": "19619",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19619",
+  "extracted_at": "2025-11-05T11:14:13.380740",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:23:07.977050",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

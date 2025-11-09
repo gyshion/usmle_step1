@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A previously healthy 23-year-old man comes to the office due to abrupt-onset high fever, chills, headache, and weakness that developed after he spent a month working on a large ranch. His initial symptoms were quickly followed by intensely painful swellings in the groin. Physical examination is significant for tender and enlarged inguinal lymph nodes with overlying erythematous skin. Blood cultures and fluid aspirated from the lymph nodes grow gram-negative coccobacilli that resemble a closed safety pin on special staining.",
+    "zh": "一名先前健康的 23 岁男性因突然发热、寒战、头痛和乏力就诊，这些症状发生在他花了 1 个月在一个大型牧场工作之后。他的最初症状很快出现了腹股沟剧烈疼痛的肿胀。体格检查显示腹股沟淋巴结压痛和增大，伴有覆盖其上的红斑。血培养和从淋巴结抽取的液体中培养出革兰氏阴性球杆菌，在特殊染色下类似于闭合的安全别针。"
+  },
+  "question": {
+    "en": "Which of the following activities is the most likely source of this patient's infection?",
+    "zh": "以下哪项活动最可能是该患者感染的来源？"
+  },
+  "options": {
+    "A": {
+      "en": "Butchering wild pigs",
+      "zh": "屠宰野猪"
+    },
+    "B": {
+      "en": "Handling deer hides",
+      "zh": "处理鹿皮"
+    },
+    "C": {
+      "en": "Hunting rabbits",
+      "zh": "猎兔"
+    },
+    "D": {
+      "en": "Maintaining a chicken coop",
+      "zh": "维护鸡舍"
+    },
+    "E": {
+      "en": "Replacing rodent traps",
+      "zh": "更换捕鼠器"
+    },
+    "F": {
+      "en": "Vaccinating cattle",
+      "zh": "给牛接种疫苗"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's acute febrile illness with tender, erythematous inguinal lymphadenopathy likely indicates bubonic plague, a zoonotic infection endemic to North/South America, Africa, Asia, and Russia. The causative pathogen is Yersinia pestis, a small gram-negative bacillus/coccobacillus that exhibits bipolar staining (resembling a safety pin) on Giemsa or Wright stain. Although many small mammals harbor the bacteria, rodents (eg, rats) are the primary environmental reservoir. Transmission most often occurs when a flea that fed on an infected rodent regurgitates the bacteria while biting a human. Therefore, the most likely source of this patient's infection is close contact with rodent-infested areas (eg, changing rodent traps).\n\nAfter cutaneous inoculation, Y pestis travels via lymphatic channels to regional lymph nodes and triggers a significant inflammatory reaction. Manifestations typically begin with acute fever, chills, weakness, and headache; buboes (painful, swollen, erythematous lymph nodes) develop shortly thereafter. Prompt treatment with an antibiotic (eg, aminoglycoside) is generally curative.\n\n(Choices A and F) Brucellosis most often develops following consumption of unpasteurized animal products (eg, sheep milk) or contact with infected animals (eg, cattle, pigs, sheep, goats). Manifestations (eg, fever, night sweats, arthralgias) progress slowly and are often nonspecific, but painful regional lymphadenitis would be atypical; in addition, microscopic examination would reveal small, intracellular gram-negative rods.\n\n(Choice B) The handling of animal hides can transmit anthrax, which often causes systemic symptoms and regional lymphadenitis. However, patients usually have a large necrotic skin ulcer with central eschar and surrounding erythema at the inoculation site. In addition, Bacillus anthracis, the causative agent, is a gram-positive, spore-forming rod.\n\n(Choice C) Hunting and skinning small mammals (eg, rabbits, squirrels) is a common cause of tularemia, which often presents with painful regional lymphadenitis and fever. However, patients usually develop a papular lesion at the inoculation site that ulcerates. Although Francisella tularensis, the causative pathogen, is also a gram-negative coccobacillus, it is not associated with bipolar staining.\n\n(Choice D) Cleaning a chicken coop can transmit Histoplasma capsulatum, a dimorphic fungus that primarily resides in soil contaminated with bird or bat droppings. Most cases present with pulmonary infiltrates, mediastinal/hilar lymphadenopathy, and systemic symptoms. Regional lymphadenitis would be uncommon; in addition, the organism is a fungus, not a coccobacillus.\n\nEducational objective:\nBubonic plague causes a febrile illness with regional inflammatory lymphadenopathy (buboes). The underlying pathogen is Yersinia pestis, a small gram-negative bacillus/coccobacillus that exhibits bipolar staining (resembling a closed safety pin). The major environmental reservoir is rodents; transmission usually occurs via rodent fleabite.",
+    "zh": "该患者的急性发热性疾病伴有压痛性、红斑性腹股沟淋巴结肿大，可能表明为腺鼠疫，这是一种人畜共患疾病，流行于北美/南美洲、非洲、亚洲和俄罗斯。病原体是鼠疫耶尔森菌（Yersinia pestis），这是一种革兰氏阴性小杆菌/球杆菌，在吉姆萨或莱特染色中表现出双极染色（类似于安全别针）。虽然许多小型哺乳动物携带这种细菌，但啮齿动物（例如，老鼠）是主要的自然环境宿主。传播最常发生在以受感染啮齿动物为食的跳蚤在叮咬人类时反刍细菌。因此，该患者最可能的感染来源是与啮齿动物出没区域（例如，更换捕鼠器）的密切接触。\n\n在皮肤接种后，鼠疫耶尔森菌通过淋巴管到达区域淋巴结并引发显著的炎症反应。临床表现通常始于急性发热、寒战、乏力和头痛；随后很快出现淋巴腺肿（疼痛、肿胀、红斑性淋巴结）。及时使用抗生素（例如，氨基糖苷类）治疗通常可以治愈。\n\n（选项 A 和 F）布鲁氏菌病最常发生在食用未经巴氏消毒的动物产品（例如，羊奶）或接触受感染动物（例如，牛、猪、羊、山羊）之后。临床表现（例如，发热、盗汗、关节痛）进展缓慢，通常无特异性，但疼痛性区域淋巴结炎是不典型的；此外，显微镜检查会显示小的、细胞内革兰氏阴性杆菌。\n\n（选项 B）处理动物皮可以传播炭疽，炭疽通常引起全身症状和区域淋巴结炎。然而，患者通常在接种部位有一个大的坏死性皮肤溃疡，中央有焦痂和周围红斑。此外，炭疽杆菌（Bacillus anthracis），即病原体，是一种革兰氏阳性、形成孢子的杆菌。\n\n（选项 C）狩猎和剥皮小型哺乳动物（例如，兔子、松鼠）是土拉弗朗西斯菌病（tularemia）的常见原因，土拉弗朗西斯菌病通常表现为疼痛性区域淋巴结炎和发热。然而，患者通常在接种部位出现丘疹病变，随后溃疡。虽然土拉弗朗西斯菌（Francisella tularensis），即病原体，也是一种革兰氏阴性球杆菌，但它与双极染色无关。\n\n（选项 D）清理鸡舍可传播组织胞浆菌（Histoplasma capsulatum），这是一种二态性真菌，主要存在于受鸟类或蝙蝠粪便污染的土壤中。大多数病例表现为肺浸润、纵隔/肺门淋巴结肿大和全身症状。区域淋巴结炎不常见；此外，这种生物体是一种真菌，而不是球杆菌。\n\n教学目标：\n腺鼠疫引起发热性疾病，并伴有区域性炎症性淋巴结病（淋巴结肿）。潜在病原体是鼠疫耶尔森菌，这是一种革兰氏阴性小杆菌/球杆菌，表现出双极染色（类似于闭合的安全别针）。主要环境宿主是啮齿动物；传播通常通过啮齿动物跳蚤叮咬发生。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of bubonic plague, its causative agent Yersinia pestis, and its transmission through rodent fleas. It also tests the ability to differentiate plague from other zoonotic infections presenting with similar symptoms.\n\nTo solve this question, recognize the classic presentation of bubonic plague (acute febrile illness with painful inguinal lymphadenopathy) and the association with rodent exposure. Rule out other zoonotic infections based on their typical presentations and causative agents.",
+    "zh": "本题考察对腺鼠疫的认识、其病原体鼠疫耶尔森菌以及通过鼠蚤传播的知识。它还考察了将鼠疫与其他表现出类似症状的人畜共患感染区分开来的能力。\n\n要解决这个问题，需要认识到腺鼠疫的典型表现（急性发热性疾病伴有腹股沟疼痛性淋巴结病）以及与啮齿动物接触的关联。根据其他动物源性感染的典型表现和病原体，排除其他动物源性感染。"
+  },
+  "tags": "Bubonic plague; Yersinia pestis; Zoonotic infection; Lymphadenopathy; Rodent fleas; Infectious disease; Gram-negative bacteria",
+  "category": "Micro",
+  "question_id": "15400",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\15400",
+  "extracted_at": "2025-11-05T14:59:23.089745",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:08:51.193599",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

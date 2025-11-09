@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old man diagnosed with diabetes mellitus 2 years ago is brought to the emergency department after a temporary loss of consciousness. He was getting ready to eat and administered a preprandial insulin injection, but he was distracted by a phone call from work and ended up skipping the meal. His girlfriend found him passed out in his bedroom and administered glucagon immediately. The patient recovered consciousness within 15 minutes.",
+    "zh": "一名24岁男性，2年前诊断为糖尿病，因暂时性意识丧失被送往急诊科。他正准备进食并注射餐前胰岛素，但被来自工作场所的电话分散了注意力，最终没有进食。他的女朋友发现他在卧室里昏倒，并立即给他注射了胰高血糖素。患者在15分钟内恢复了意识。"
+  },
+  "question": {
+    "en": "Metabolic changes in which of the following organs are most likely responsible for this patient's recovery?",
+    "zh": "以下哪个器官的代谢变化最有可能导致该患者的康复？"
+  },
+  "options": {
+    "A": {
+      "en": "Adipose tissue",
+      "zh": "脂肪组织"
+    },
+    "B": {
+      "en": "Adrenals",
+      "zh": "肾上腺"
+    },
+    "C": {
+      "en": "Kidney",
+      "zh": "肾脏"
+    },
+    "D": {
+      "en": "Liver",
+      "zh": "肝脏"
+    },
+    "E": {
+      "en": "Pancreas",
+      "zh": "胰腺"
+    },
+    "F": {
+      "en": "Skeletal muscles",
+      "zh": "骨骼肌"
+    },
+    "G": {
+      "en": "Small intestine",
+      "zh": "小肠"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Glucagon increases serum glucose by increasing hepatic glucose production via glycogenolysis (breakdown of glycogen) and gluconeogenesis (production of glucose from noncarbohydrate sources). Glucagon-induced glycogenolysis is the predominant initial means of rapidly increasing blood glucose levels during hypoglycemia.\n\nGlucagon functions by stimulating G protein–coupled receptors on hepatocytes, increasing intracellular cAMP concentration and activating protein kinase A. This leads to activation of the key glycogenolytic enzyme, glycogen phosphorylase. It also stimulates gluconeogenesis by activating rate-limiting gluconeogenic enzymes (eg, pyruvate carboxylase, phosphoenolpyruvate carboxykinase) and decreasing intracellular fructose-2,6-bisphosphate levels (inhibiting glycolysis).\n\n(Choices A, B, and F) Epinephrine from the adrenals increases glucose by multiple mechanisms, including increased glycogenolysis and gluconeogenesis in the liver and decreased glucose uptake by skeletal muscle. Epinephrine also causes increased alanine release from skeletal muscle, which serves as a source of gluconeogenesis in the liver. In adipose tissue, epinephrine increases the breakdown of triglycerides, thereby increasing circulating free fatty acids and glycerol that can be utilized as gluconeogenetic substrates.\n\n(Choice C) During the first 12 hours of fasting, hepatic glycogenolysis is the source for most of the body's glucose. When hypoglycemia is sustained, gluconeogenesis in the renal cortex becomes an important glucose source. Epinephrine is more effective than glucagon in stimulating renal gluconeogenesis.\n\n(Choice E) Glucagon and insulin are pancreatic hormones that act as key blood glucose regulators. Insulin decreases blood glucose levels and suppresses glucagon secretion. Although it sounds counterintuitive, glucagon stimulates insulin secretion by acting on the pancreatic beta cells (allowing glucose to be taken up by insulin-sensitive tissues).\n\n(Choice G) The treatment of choice in hypoglycemic patients without an altered sensorium is to administer glucose orally as glucose is a monosaccharide that gets absorbed rapidly from the gastrointestinal tract.\n\nEducational objective:\nGlucagon increases serum glucose by increasing hepatic glycogenolysis and gluconeogenesis. Glucagon also stimulates insulin secretion from the pancreas. Unlike epinephrine, glucagon has an insignificant effect on glucose homeostasis in the skeletal muscle, adipose tissue, and renal cortex.",
+    "zh": "胰高血糖素通过增加肝脏葡萄糖生成来升高血清葡萄糖，途径包括糖原分解（糖原分解）和糖异生（由非碳水化合物来源产生葡萄糖）。胰高血糖素诱导的糖原分解是低血糖期间快速增加血糖水平的主要初始手段。\n\n胰高血糖素通过刺激肝细胞上的G蛋白偶联受体起作用，增加细胞内cAMP浓度并激活蛋白激酶A。这导致关键的糖原分解酶，糖原磷酸化酶的激活。它还通过激活限速糖异生酶（例如，丙酮酸羧化酶、磷酸烯醇丙酮酸羧激酶）并降低细胞内果糖-2,6-二磷酸水平（抑制糖酵解）来刺激糖异生。\n\n（选项A、B和F）来自肾上腺的肾上腺素通过多种机制增加葡萄糖，包括肝脏中糖原分解和糖异生的增加以及骨骼肌对葡萄糖的摄取减少。肾上腺素还导致骨骼肌释放更多的丙氨酸，丙氨酸是肝脏中糖异生的来源。在脂肪组织中，肾上腺素增加甘油三酯的分解，从而增加循环的游离脂肪酸和甘油，这些物质可用作糖异生的底物。\n\n（选项C）在禁食的最初12小时内，肝脏糖原分解是体内大部分葡萄糖的来源。当低血糖持续存在时，肾皮质中的糖异生成为重要的葡萄糖来源。肾上腺素在刺激肾脏糖异生方面比胰高血糖素更有效。\n\n（选项E）胰高血糖素和胰岛素是胰腺激素，它们是关键的血糖调节因子。胰岛素降低血糖水平并抑制胰高血糖素的分泌。虽然听起来有悖常理，但胰高血糖素通过作用于胰腺β细胞来刺激胰岛素分泌（允许葡萄糖被胰岛素敏感组织吸收）。\n\n（选项G）对于无意识改变的低血糖患者，首选的治疗方法是口服葡萄糖，因为葡萄糖是一种单糖，可以迅速从胃肠道吸收。\n\n教育目标：\n胰高血糖素通过增加肝脏糖原分解和糖异生来升高血清葡萄糖。胰高血糖素还刺激胰腺分泌胰岛素。与肾上腺素不同，胰高血糖素对骨骼肌、脂肪组织和肾皮质中的葡萄糖稳态影响不大。"
+  },
+  "summary": {
+    "en": "This question tests the mechanism of action of glucagon in reversing hypoglycemia, specifically its effect on hepatic glucose production through glycogenolysis and gluconeogenesis. It also requires knowledge of other hormones involved in glucose regulation and their respective roles.\n\nTo solve this question, recall that glucagon primarily targets the liver to increase blood glucose levels. Eliminate options that are not directly involved in rapid glucose production in response to glucagon stimulation.",
+    "zh": "本题测试胰高血糖素在逆转低血糖中的作用机制，特别是它通过糖原分解和糖异生对肝脏葡萄糖生成的影响。它还需要了解参与葡萄糖调节的其他激素及其各自的作用。\n\n要解决这个问题，请回忆一下胰高血糖素主要靶向肝脏以增加血糖水平。排除那些对胰高血糖素刺激的快速葡萄糖生成没有直接作用的选项。"
+  },
+  "tags": "Glucagon; Hypoglycemia; Liver; Glycogenolysis; Gluconeogenesis; Diabetes mellitus; Insulin; Glucose metabolism; Endocrinology",
+  "category": "Endo",
+  "question_id": "849",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\849",
+  "extracted_at": "2025-11-05T14:11:25.943297",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:43:17.554037",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

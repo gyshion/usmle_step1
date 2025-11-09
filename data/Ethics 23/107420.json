@@ -1,0 +1,54 @@
+{
+  "question_stem": {
+    "en": "A 68-year-old man comes to the office for follow-up of type 2 diabetes mellitus, hypertension, and hyperlipidemia. The patient's diabetes and hypertension are inadequately controlled, requiring multiple modifications to his medication regimen. Extended counseling is provided regarding today's changes and the overall long-term care plan. The patient's next appointment is in a month for a routine health maintenance examination. As the physician is getting ready to leave the room at the end of the scheduled appointment time, the patient states, \"Doc, my urinary stream has been slow for the past 6 months, and I've been waking up twice overnight to use the bathroom. Can we talk about this today?\"",
+    "zh": "一位68岁的男性前来就诊，随访2型糖尿病、高血压和高脂血症。患者的糖尿病和高血压控制不佳，需要多次调整用药方案。今天就药物改变和整体的长期护理计划进行了详细的咨询。患者的下一次预约是在一个月后进行例行健康维护检查。当医生在预定就诊时间结束时准备离开诊室时，患者说：“医生，我过去6个月的尿流一直很慢，而且我晚上会醒来两次去洗手间。我们今天可以谈谈这个问题吗？”"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate response by the physician?",
+    "zh": "以下哪项是医生最恰当的回答？"
+  },
+  "options": {
+    "A": {
+      "en": "\"I can evaluate the urinary issue today, but it won't be as thorough because we have limited time.\"",
+      "zh": "“我今天可以评估一下泌尿问题，但不会很彻底，因为我们的时间有限。”"
+    },
+    "B": {
+      "en": "\"I can't address the urinary issue today because I have many patients after you. We can discuss it at your next appointment in a month.\"",
+      "zh": "“我今天不能处理泌尿问题，因为你后面还有很多病人。我们可以在你下个月的预约时讨论这个问题。”"
+    },
+    "C": {
+      "en": "\"It is best to tell me all your concerns at the beginning of the visit so that I can better prioritize our time. At this point, the visit has ended.\"",
+      "zh": "“最好在就诊开始时告诉我你所有的顾虑，这样我才能更好地优先安排我们的时间。到目前为止，就诊已经结束了。”"
+    },
+    "D": {
+      "en": "\"It sounds like we should talk about this; however, we are out of time today. Please make another appointment so I can appropriately evaluate you.\"",
+      "zh": "“听起来我们应该谈谈这个问题；然而，我们今天没有时间了。请另约一个时间，以便我可以对您进行适当的评估。”"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Outpatient office schedules are typically arranged in regular time intervals (eg, 15-20 min) corresponding to the time needed for an average patient visit. Typically, the time interval allows the physician to evaluate one primary objective, either evaluating a new problem or following up on well-known chronic conditions.\n\nSometimes, patients raise unexpected concerns that require additional time beyond what is allotted for their appointments; evaluation of this patient's urinary symptoms would extend his appointment, which has already been spent addressing his chronic conditions. Extending the appointment without having adequate time would make subsequent patient visits late and can lead to rushed and incomplete assessments (for this and/or subsequent patients), potentially resulting in misdiagnosis, mismanagement, or poor patient-physician communication (Choice A).\n\nTherefore, physicians should generally direct the patient with an unexpected concern to schedule another appointment to address it; doing so allows the physician to fully address the concern without causing delays in subsequent appointments. However, when the unexpected concern is urgent or likely serious (eg, shortness of breath), it should be addressed immediately, and subsequent patients should be informed of the delay.\n\n(Choice B) This patient has a health maintenance examination (ie, routine physical) in a month. Evaluating new concerns in the time allotted for preventive care is usually not recommended because it may impact the quality of care for preventive services. Instead, a dedicated appointment should be scheduled.\n\n(Choice C) Querying the patient at the beginning of the visit regarding any unexpected concerns can help the physician prioritize the discussion. However; the patient should not be dismissed at the end of the appointment without making arrangements to address his concerns properly.\n\nEducational objective:\nWhen a patient raises an unexpected concern during an office appointment and adequate time has not been allotted to evaluate it, the physician should generally ask the patient to schedule an appointment at a later date to address that concern.",
+    "zh": "门诊的就诊时间表通常按固定的时间间隔（例如，15-20分钟）安排，这对应于平均患者就诊所需的时间。通常，这个时间间隔允许医生评估一个主要目标，无论是评估一个新问题还是随访已知的慢性病。\n\n有时，患者会提出意想不到的担忧，需要超出为他们的预约分配的时间；评估这名患者的泌尿系统症状会延长他的预约时间，而他已经花时间处理他的慢性病。在没有足够时间的情况下延长预约会使后续的患者就诊迟到，并可能导致仓促和不完整的评估（针对此患者和/或后续患者），可能导致误诊、处理不当或医患沟通不良（选项A）。\n\n因此，医生通常应引导对意外问题有顾虑的患者预约另一次就诊来解决它；这样做可以使医生充分解决问题，而不会导致后续预约的延误。但是，当意外问题是紧急或可能严重的（例如，呼吸急促）时，应立即处理，并应告知后续患者延误。\n\n（选项B）这名患者在一个月后进行健康维护检查（即，常规体检）。通常不建议在为预防保健分配的时间内评估新的问题，因为它可能会影响预防服务的质量。相反，应安排专门的预约。\n\n（选项C）在就诊开始时询问患者是否有任何意外的顾虑，可以帮助医生优先讨论。但是，不应在预约结束时未作安排妥善解决其顾虑的情况下就将患者打发走。\n\n教育目标：\n当患者在门诊预约期间提出意外的顾虑，并且没有分配足够的时间来评估它时，医生通常应要求患者在以后的日期预约以解决该顾虑。"
+  },
+  "summary": {
+    "en": "This question tests the ability to manage patient concerns that arise unexpectedly at the end of a scheduled appointment, particularly when the allotted time is insufficient for proper evaluation. It emphasizes the importance of balancing patient care with efficient time management in an outpatient setting.\n\nThe best approach is to acknowledge the patient's concern, explain the time constraints, and offer to schedule a separate appointment for a thorough evaluation. This ensures that the patient's needs are addressed without compromising the care of other patients or leading to rushed assessments.",
+    "zh": "此题考察在预定预约结束时，对意外出现的患者顾虑进行处理的能力，特别是在分配的时间不足以进行适当评估的情况下。它强调了在门诊环境中平衡患者护理与有效时间管理的重要性。\n\n最好的方法是承认患者的顾虑，解释时间限制，并提供安排另一次预约进行彻底评估。这确保了患者的需求得到满足，而不会影响其他患者的护理或导致仓促的评估。"
+  },
+  "tags": "Time management; Outpatient care; Patient communication; Medical ethics; Clinical efficiency",
+  "category": "Ethics",
+  "question_id": "107420",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\107420",
+  "extracted_at": "2025-11-05T14:16:18.889079",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:46:22.615763",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

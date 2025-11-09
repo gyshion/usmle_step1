@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 16-year-old girl is brought to the emergency department because of progressively increasing nausea, vomiting and right upper quadrant pain. She was initially seen in the emergency department 24 hours ago for nausea and vomiting but was discharged when her examination and laboratory studies were unremarkable. At today's visit, the patient reveals, \"I am so upset. My boyfriend broke up with me and I have been taking a lot of pain medication to relieve my pain.\" Temperature is 37.1 C (98.8 F), blood pressure is 108/70 mm Hg, pulse is 102/min, and respirations are 16/min. Pulse oximetry is 98% on room air. On examination, scleral icterus and marked right upper quadrant tenderness are present. Pupils are normal in size and reactive to light. Neurologic examination shows no abnormalities. Laboratory results are as follows:\n\nTotal bilirubin\n1.3 mg/dL\nAlkaline phosphatase\n120 U/L\nAspartate aminotransferase (SGOT)\n3,906 U/L\nAlanine aminotransferase (SGOT)\n4,014 U/L",
+    "zh": "一名16岁的女孩因进行性加重的恶心、呕吐和右上腹疼痛被带到急诊科。24小时前，她曾因恶心和呕吐在急诊科就诊，但因检查和实验室检查无异常而出院。在今天的就诊中，患者透露：“我很难过。我男朋友和我分手了，我一直在服用大量的止痛药来缓解我的疼痛。” 体温为37.1°C（98.8°F），血压为108/70 mm Hg，脉搏为102/min，呼吸为16/min。 在空气中，脉搏血氧饱和度为98%。体格检查显示巩膜黄疸和明显的右上腹压痛。瞳孔大小正常，对光反应灵敏。神经系统检查未见异常。实验室检查结果如下：\n\n总胆红素\n1.3 mg/dL\n碱性磷酸酶\n120 U/L\n天冬氨酸氨基转移酶 (SGOT)\n3,906 U/L\n丙氨酸氨基转移酶 (SGOT)\n4,014 U/L"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying mechanism of drug toxicity in this patient?",
+    "zh": "该患者发生药物毒性的最可能的潜在机制是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Cytotoxic T-cell response to hepatocyte proteins",
+      "zh": "细胞毒性T细胞对肝细胞蛋白的反应"
+    },
+    "B": {
+      "en": "Drug-mediated inhibition of bile flow",
+      "zh": "药物介导的胆汁流抑制"
+    },
+    "C": {
+      "en": "Drug metabolite-induced mitochondrial dysfunction",
+      "zh": "药物代谢物诱导的线粒体功能障碍"
+    },
+    "D": {
+      "en": "Drug-induced disruption of fatty acid metabolism",
+      "zh": "药物诱导的脂肪酸代谢紊乱"
+    },
+    "E": {
+      "en": "Reactive oxygen species-induced stellate cell activation",
+      "zh": "活性氧（ROS）诱导的星状细胞活化"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The patient presents with symptoms (nausea, vomiting, right upper quadrant pain) and laboratory findings (markedly elevated AST and ALT, mild elevation in bilirubin and alkaline phosphatase) consistent with ACUTE HEPATOCELLULAR INJURY. Given her history of taking a large quantity of pain medication, acetaminophen overdose is highly suspected. Acetaminophen is metabolized in the liver to a toxic metabolite, N-acetyl-p-benzoquinone imine (NAPQI). Normally, NAPQI is detoxified by conjugation with glutathione. However, in an overdose situation, glutathione stores are depleted, leading to excessive amounts of NAPQI. NAPQI then forms adducts with mitochondrial proteins, leading to mitochondrial dysfunction and ultimately OXIDATIVE INJURY and hepatocellular necrosis. This mechanism is best described by option C.\n\n(Choice A) Cytotoxic T-cell responses to hepatocyte proteins are typically seen in IMMUNE-MEDIATED HEPATITIS, often associated with drugs like carbamazepine or phenytoin. While this can cause hepatocellular injury, the clinical presentation and laboratory findings in this patient are more characteristic of acetaminophen toxicity.\n\n(Choice B) Drug-mediated inhibition of bile flow, or CHOLESTATIC LIVER INJURY, is typically associated with drugs like ceftriaxone. This mechanism leads to impaired bile excretion and is characterized by elevated alkaline phosphatase and bilirubin, with less dramatic elevations in AST and ALT compared to hepatocellular injury.\n\n(Choice D) Drug-induced disruption of fatty acid metabolism, leading to MICROVESICULAR STEATOSIS, is seen with drugs like valproic acid and aspirin. This condition is characterized by the accumulation of small lipid droplets within hepatocytes and typically does not cause the marked elevations in transaminases seen in this patient.\n\n(Choice E) Reactive oxygen species (ROS)-induced stellate cell activation is a mechanism involved in the pathogenesis of LIVER FIBROSIS and CIRRHOSIS, particularly associated with chronic alcohol consumption. While ROS are involved in acetaminophen toxicity, the primary mechanism of acute liver injury is mitochondrial dysfunction, not stellate cell activation.\n\nKey clinical pearls: Acetaminophen overdose is a common cause of acute liver failure. The hallmark laboratory finding is marked elevation of AST and ALT, often >1000 U/L. The timing of symptom onset and laboratory abnormalities is crucial for diagnosis and management. The antidote, N-acetylcysteine, is most effective when administered within 8-10 hours of ingestion.",
+    "zh": "患者出现与急性肝细胞损伤一致的症状（恶心、呕吐、右上腹疼痛）和实验室检查结果（AST和ALT明显升高，胆红素和碱性磷酸酶轻度升高）。鉴于她的病史表明她服用了大量的止痛药，高度怀疑是扑热息痛过量。扑热息痛在肝脏中代谢成有毒代谢物，N-乙酰-对苯醌亚胺 (NAPQI)。通常，NAPQI通过与谷胱甘肽结合而解毒。然而，在过量的情况下，谷胱甘肽储存耗尽，导致过量的NAPQI。然后，NAPQI与线粒体蛋白形成加合物，导致线粒体功能障碍，最终导致氧化损伤和肝细胞坏死。这种机制最好地由选项C描述。\n\n（选项A）细胞毒性T细胞对肝细胞蛋白的反应通常见于免疫介导的肝炎，通常与卡马西平和苯妥英等药物有关。虽然这会导致肝细胞损伤，但该患者的临床表现和实验室检查结果更符合扑热息痛毒性。\n\n（选项B）药物介导的胆汁流抑制，或胆汁淤积性肝损伤，通常与头孢曲松等药物有关。这种机制导致胆汁排泄受损，其特征是碱性磷酸酶和胆红素升高，与肝细胞损伤相比，AST和ALT的升高幅度较小。\n\n（选项D）药物诱导的脂肪酸代谢紊乱，导致微泡脂肪变性，见于丙戊酸和阿司匹林等药物。这种情况的特征是在肝细胞内积累小的脂质滴，通常不会导致该患者出现的转氨酶的明显升高。\n\n（选项E）活性氧（ROS）诱导的星状细胞活化是肝纤维化和肝硬化发病机制中的一种机制，尤其与长期饮酒有关。虽然ROS参与扑热息痛毒性，但急性肝损伤的主要机制是线粒体功能障碍，而不是星状细胞活化。\n\n关键临床要点：扑热息痛过量是急性肝衰竭的常见原因。标志性的实验室发现是AST和ALT明显升高，通常>1000 U/L。症状发作和实验室检查异常的时间对于诊断和治疗至关重要。解毒剂N-乙酰半胱氨酸在摄入后8-10小时内给药效果最佳。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathophysiology of acetaminophen-induced liver toxicity. It requires correlating clinical presentation and laboratory findings with the underlying molecular mechanisms of drug-induced liver injury.\n\nTo solve this question, identify the pattern of liver injury (hepatocellular) and the likely offending agent (acetaminophen) based on the vignette. Then, recall or deduce the specific mechanism by which acetaminophen causes liver damage, focusing on the role of its toxic metabolite, NAPQI, and its effect on cellular organelles.",
+    "zh": "这个问题考察对扑热息痛引起的肝毒性的病理生理学的理解。它需要将临床表现和实验室检查结果与药物引起的肝损伤的潜在分子机制联系起来。\n\n为了解决这个问题，根据案情确定肝损伤的模式（肝细胞性）和可能的致病因子（扑热息痛）。然后，回忆或推断扑热息痛导致肝损伤的具体机制，重点关注其有毒代谢物NAPQI的作用及其对细胞器的影响。"
+  },
+  "tags": "Acetaminophen overdose; Hepatotoxicity; Drug-induced liver injury; Mitochondrial dysfunction; Oxidative injury; NAPQI; N-acetylcysteine; Hepatocellular injury; Toxicology",
+  "category": "Pharma",
+  "question_id": "21437",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\21437",
+  "extracted_at": "2025-11-05T19:45:36.885078",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:47:56.950089",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

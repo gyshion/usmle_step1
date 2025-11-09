@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 43-year-old patient comes to the physician due to dyspnea. The black curve shown below represents the pressure/volume relationship in normal lung tissue. The blue curve represents the pressure/volume relationship in the patient's lung tissue {{exhibit_1}}.",
+    "zh": "一位43岁的患者因呼吸困难就诊。下图中的黑色曲线代表正常肺组织的压力/容积关系。蓝色曲线代表该患者肺组织的压力/容积关系 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "以下哪项最可能是该患者症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Alpha-1 antitrypsin deficiency",
+      "zh": "α-1抗胰蛋白酶缺乏症"
+    },
+    "B": {
+      "en": "Bronchial asthma",
+      "zh": "支气管哮喘"
+    },
+    "C": {
+      "en": "Fibromyalgia",
+      "zh": "纤维肌痛"
+    },
+    "D": {
+      "en": "Idiopathic pulmonary arterial hypertension",
+      "zh": "特发性肺动脉高压"
+    },
+    "E": {
+      "en": "Pulmonary fibrosis",
+      "zh": "肺纤维化"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The pressure/volume relationship in this patient's lungs depicts dramatically reduced compliance (ie, for any given volume the pressure will be significantly increased). Reduced pulmonary parenchymal compliance is the hallmark of pulmonary fibrosis {{exhibit_2}}.\n\n(Choice A) Alpha-1 antitrypsin deficiency causes panacinar emphysema and liver cirrhosis. In emphysema, the lung parenchyma has increased compliance.\n\n(Choice B) Asthma decreases peak expiratory flow rates and FEV₁ during pulmonary function testing, but it does not decrease lung compliance.\n\n(Choice C) Fibromyalgia causes diffuse chronic axial musculoskeletal pain and tenderness. The lung parenchyma is normal.\n\n(Choice D) Idiopathic pulmonary arterial hypertension does not significantly affect lung compliance.",
+    "zh": "该患者肺部的压力/容积关系显示顺应性显著降低（即，对于任何给定的容积，压力都会显著增加）。降低的肺实质顺应性是肺纤维化的标志 {{exhibit_2}}。\n\n（选项 A）α-1抗胰蛋白酶缺乏症会导致全小叶型肺气肿和肝硬化。在肺气肿中，肺实质的顺应性增加。\n\n（选项 B）哮喘在肺功能检查期间降低呼气峰流速和FEV₁，但不会降低肺顺应性。\n\n（选项 C）纤维肌痛会导致弥漫性慢性轴向肌肉骨骼疼痛和触痛。肺实质正常。\n\n（选项 D）特发性肺动脉高压不会显著影响肺顺应性。"
+  },
+  "summary": {
+    "en": "This question tests the ability to interpret pressure-volume loops in the context of pulmonary disease, specifically focusing on lung compliance. It requires understanding how different lung pathologies affect the relationship between pressure and volume during respiration.\n\nThe key to solving this question is recognizing that the patient's pressure-volume curve indicates reduced lung compliance. This means that for a given volume, the pressure required is significantly higher than normal. This pattern is characteristic of restrictive lung diseases like pulmonary fibrosis.",
+    "zh": "本题测试在肺部疾病的背景下解读压力-容积环的能力，特别侧重于肺顺应性。它需要理解不同的肺部病理如何影响呼吸过程中压力和容积之间的关系。\n\n解决此问题的关键是认识到患者的压力-容积曲线表明肺顺应性降低。这意味着对于给定的容积，所需的压力明显高于正常水平。这种模式是限制性肺病（如肺纤维化）的特征。"
+  },
+  "tags": "Pulmonary fibrosis; Lung compliance; Pressure-volume loop; Restrictive lung disease; Respiratory physiology; Alpha-1 antitrypsin deficiency; Bronchial asthma; Idiopathic pulmonary arterial hypertension",
+  "category": "Chest",
+  "question_id": "1650",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1650",
+  "extracted_at": "2025-11-05T11:41:15.273928",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:36:20.528816",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

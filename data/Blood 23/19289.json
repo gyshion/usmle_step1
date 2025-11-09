@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "Physiologists conduct a study to evaluate erythropoiesis in various age groups. In one of the studies, healthy individuals who experience acute traumatic blood loss are enrolled. They divide the patients in 2 groups: younger individuals with a mean age of 35 years and older adults with a mean age of 70. These patients have normal iron, folic acid, vitamin B₁₂, and plasma protein studies. Results indicate that older patients with acute traumatic blood loss have a much lower reticulocyte count and a much longer time to recovery to pretrauma hemoglobin level when compared to younger patients.",
+    "zh": "生理学家进行一项研究，评估不同年龄组的红细胞生成。其中一项研究纳入了经历急性外伤性失血的健康个体。他们将患者分为两组：平均年龄为35岁的较年轻个体和平均年龄为70岁的老年人。这些患者的铁、叶酸、维生素B₁₂和血浆蛋白研究结果均正常。结果显示，与年轻患者相比，老年急性外伤性失血患者的网织红细胞计数明显较低，且恢复到创伤前血红蛋白水平的时间更长。"
+  },
+  "question": {
+    "en": "Which of the following age-related processes best explains the observed findings?",
+    "zh": "以下哪种与年龄相关的过程最能解释观察到的结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased bone marrow mass",
+      "zh": "骨髓量减少"
+    },
+    "B": {
+      "en": "Decreased medullary cavity size",
+      "zh": "髓腔大小减小"
+    },
+    "C": {
+      "en": "Decreased red blood cell life span",
+      "zh": "红细胞寿命缩短"
+    },
+    "D": {
+      "en": "Increased extramedullary hematopoiesis",
+      "zh": "髓外造血增加"
+    },
+    "E": {
+      "en": "Increased marrow fibrous tissue",
+      "zh": "骨髓纤维组织增加"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Although patients with advanced age typically have normal serum blood counts, age-related changes in cytokine signaling and the cellular composition of the bone marrow impairs the generation of new cells in response to acute stressors such as blood loss or hypoxia. When compared to younger patients, the bone marrow of older patients has a higher quantity of fat and a reduced overall mass, which limits the functional reserve of hematopoietic cells. In addition, hematopoietic progenitor cell diversity and the response to stimulatory cytokines (eg, stem-cell factor, granulocyte macrophage colony-stimulating factor) are also impaired, thereby limiting the generation of new cells in response to stress. Because of these changes, older individuals cannot rapidly generate new blood cells.\n\n(Choice B) Patients with advanced age generally have increased (not decreased) medullary cavity size due to loss of endosteal cortical bone. This increases the risk of fractures.\n\n(Choice C) Red blood cell life span is preserved in patients with advanced age; therefore, healthy older individuals usually have normal hemoglobin level. However, they are much less capable of generating new erythrocytes in times of blood loss or other stressors (eg, hemolysis).\n\n(Choice D) Extramedullary hematopoiesis is common in newborns but does not generally occur in older patients unless there is insufficient marrow space for hematopoietic cell proliferation. Therefore, extramedullary hematopoiesis is typically associated with significant bone marrow pathology (eg, myelofibrosis).\n\n(Choice E) Although bone marrow fat increases with age, bone marrow fibrosis is not a part of normal aging. Bone marrow fibrosis is associated with primary myelofibrosis, a chronic myeloproliferative disorder marked by anemia and extramedullary hematopoiesis (hepatosplenomegaly).\n\nEducational objective:\nPatients of advanced age have increased bone marrow fat and reduced bone marrow mass, leading to impaired bone marrow reserve. This results in an inability to rapidly generate new blood cells in response to acute stress (eg, blood loss, hypoxia).",
+    "zh": "尽管老年患者通常具有正常的血清血细胞计数，但与年龄相关的细胞因子信号传导和骨髓细胞组成的改变会损害对急性应激（如失血或缺氧）产生新细胞的能力。与年轻患者相比，老年患者的骨髓脂肪含量较高，总体量减少，从而限制了造血细胞的功能储备。此外，造血祖细胞多样性以及对刺激性细胞因子（如干细胞因子、粒细胞巨噬细胞集落刺激因子）的反应也受到损害，从而限制了对压力的反应产生新细胞。由于这些变化，老年人无法快速产生新的血细胞。\n\n(选项 B) 老年患者通常髓腔大小增加（而非减少），这是由于内骨膜皮质骨的流失。这会增加骨折的风险。\n\n(选项 C) 红细胞寿命在老年患者中得到保留；因此，健康的老年人通常具有正常的血红蛋白水平。然而，他们在失血或其他应激（如溶血）时产生新红细胞的能力要差得多。\n\n(选项 D) 髓外造血在新生儿中很常见，但通常不会发生在老年患者中，除非造血细胞增殖的骨髓空间不足。因此，髓外造血通常与显著的骨髓病理学（如骨髓纤维化）相关。\n\n(选项 E) 虽然骨髓脂肪随年龄增长而增加，但骨髓纤维化并非正常衰老的一部分。骨髓纤维化与原发性骨髓纤维化相关，原发性骨髓纤维化是一种以贫血和髓外造血（肝脾肿大）为特征的慢性骨髓增生性疾病。\n\n教育目标：\n老年患者骨髓脂肪增加，骨髓量减少，导致骨髓储备受损。这导致无法快速产生新的血细胞以应对急性应激（例如，失血、缺氧）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of age-related changes in bone marrow composition and function, specifically how these changes affect the ability to respond to acute blood loss. It assesses knowledge of erythropoiesis and the impact of aging on hematopoietic reserve.\n\nThe best approach is to consider the physiological changes that occur with aging in the bone marrow. Focus on how these changes would affect the production of new red blood cells in response to a stressor like acute blood loss. Eliminate options that are not consistent with normal aging or that would not explain the observed findings.",
+    "zh": "此题考察对骨髓组成和功能与年龄相关的变化的理解，特别是这些变化如何影响对急性失血的反应能力。它评估对红细胞生成和衰老对造血储备的影响的了解。\n\n最佳方法是考虑骨髓中随着年龄增长而发生的生理变化。重点关注这些变化将如何影响对急性失血等应激源产生新的红细胞。排除与正常衰老不一致或无法解释观察结果的选项。"
+  },
+  "tags": "Erythropoiesis; Bone marrow; Aging; Hematopoiesis; Reticulocyte count; Anemia; Hematology; Geriatrics",
+  "category": "Blood",
+  "question_id": "19289",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\19289",
+  "extracted_at": "2025-11-05T11:31:12.695045",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:30:32.178780",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

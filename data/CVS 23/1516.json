@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "Researchers are observing how coronary blood flow changes in response to progressive increases in the mean arterial blood pressure (see graph below) {{exhibit_1}}.\n\nThe mostly horizontal portion of the slope indicates a region where coronary blood flow is relatively insensitive to blood pressure changes. Within this zone of autoregulation, the metabolic demands of the myocardium are the main determinant of coronary blood flow. Which of the following endogenous factors is most responsible for controlling coronary blood flow within this range?",
+    "zh": "研究人员正在观察冠状动脉血流对平均动脉血压逐渐升高的反应（见下图）{{exhibit_1}}。\n\n斜率的水平部分表明冠状动脉血流对血压变化相对不敏感的区域。在该自身调节区内，心肌的代谢需求是冠状动脉血流的主要决定因素。以下哪种内源性因素最负责控制该范围内的冠状动脉血流？"
+  },
+  "question": {
+    "en": "Which of the following endogenous factors is most responsible for controlling coronary blood flow within this range?",
+    "zh": "以下哪种内源性因素最负责控制该范围内的冠状动脉血流？"
+  },
+  "options": {
+    "A": {
+      "en": "Acetylcholine",
+      "zh": "乙酰胆碱"
+    },
+    "B": {
+      "en": "Angiotensin II",
+      "zh": "血管紧张素II"
+    },
+    "C": {
+      "en": "Histamine",
+      "zh": "组胺"
+    },
+    "D": {
+      "en": "Nitric oxide",
+      "zh": "一氧化氮"
+    },
+    "E": {
+      "en": "Norepinephrine",
+      "zh": "去甲肾上腺素"
+    },
+    "F": {
+      "en": "Serotonin",
+      "zh": "血清素"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The myocardium has the highest resting oxygen requirement of any tissue in the body, extracting >70% of available oxygen from the blood at baseline (compared to ~30% in most other tissues). As such, a significant increase in myocardial oxygen demand can only be met through a corresponding increase in coronary blood flow.\n\nCoronary autoregulation is a process that maintains myocardial blood flow in settings of decreased coronary perfusion pressure (eg, hemorrhage, sepsis). Within the region of autoregulation (eg, 60-140 mm Hg), changes in coronary blood flow are driven primarily by myocardial oxygen demand. This is accomplished mostly by automated alterations in vascular resistance via the release of locally acting mediators, namely adenosine (released from cardiomyocytes as ATP is broken down for energy) and nitric oxide (synthesized by endothelial cells in response to chemical mediators and mechanical stress).\n\nWhen myocardial perfusion pressure decreases, there is decreased oxygen delivery to the myocardium and less ATP is regenerated via oxidative metabolism, resulting in increased levels of adenosine. Myocardial hypoxia also triggers increased synthesis of nitric oxide. Increased levels of both adenosine and nitric oxide act on vascular smooth muscle to stimulate vasodilation, allowing for a relative increase in coronary blood flow at the new, lower perfusion pressure (ie, coronary blood flow is maintained). A similar process occurs when coronary perfusion pressure increases; decreased levels of adenosine and nitric oxide increase vascular resistance, causing coronary blood flow to remain relatively unchanged at the new, higher perfusion pressure.\n\n(Choices A and E) Acetylcholine causes coronary vasodilation (via stimulation of endothelial nitric oxide release), and norepinephrine causes coronary vasoconstriction (via stimulation of alpha-1 receptors on vascular smooth muscle). However, compared to locally released mediators, autonomic nervous system stimulation has a relatively small effect on coronary blood flow.\n\n(Choice B) Angiotensin II stimulates vasoconstriction of coronary arteries, but it is not involved in coronary autoregulation.\n\n(Choice C) Histamine has variable vasoconstrictive and vasodilatory effects on coronary arteries depending on the type of histamine receptor triggered. However, histamine does not play a significant role in coronary autoregulation.\n\n(Choice F) Serotonin primarily functions in the gastrointestinal tract and CNS. It may cause vasoconstriction of coronary arteries, evidenced by an association between 5HT₁-receptor agonists (eg, sumatriptan) and coronary vasospasm. However, it is not significantly involved in coronary autoregulation.\n\nEducational objective:\nCoronary autoregulation allows coronary blood flow to be primarily driven by myocardial oxygen demand over a wide range of perfusion pressures (60-140 mm Hg). It is mostly accomplished by alterations in vascular resistance via release of adenosine and nitric oxide in response to myocardial hypoxia. {{exhibit_2}}",
+    "zh": "心肌具有体内最高的静息氧气需求，在基线时从血液中提取>70%的可用氧气（而大多数其他组织中约为30%）。因此，心肌氧气需求的显着增加只能通过冠状动脉血流的相应增加来满足。\n\n冠状动脉自身调节是一个在冠状动脉灌注压降低的情况下（例如，出血，败血症）维持心肌血流的过程。在自身调节区域内（例如，60-140 mm Hg），冠状动脉血流的变化主要由心肌氧气需求驱动。这主要通过局部作用介质的释放来实现血管阻力的自动改变，即腺苷（由心肌细胞释放，因为ATP分解为能量）和一氧化氮（由内皮细胞响应化学介质和机械应激而合成）。\n\n当心肌灌注压降低时，输送到心肌的氧气减少，通过氧化代谢产生的ATP减少，导致腺苷水平升高。心肌缺氧也会触发一氧化氮的合成增加。腺苷和一氧化氮水平的升高作用于血管平滑肌，刺激血管舒张，从而使冠状动脉血流在新、较低的灌注压下相对增加（即，维持冠状动脉血流）。当冠状动脉灌注压升高时，会发生类似的过程；腺苷和一氧化氮水平的降低会增加血管阻力，导致冠状动脉血流在新、较高的灌注压下保持相对不变。\n\n（选项A和E）乙酰胆碱引起冠状动脉舒张（通过刺激内皮一氧化氮释放），去甲肾上腺素引起冠状动脉收缩（通过刺激血管平滑肌上的α-1受体）。然而，与局部释放的介质相比，自主神经系统刺激对冠状动脉血流的影响相对较小。\n\n（选项B）血管紧张素II刺激冠状动脉收缩，但它不参与冠状动脉自身调节。\n\n（选项C）组胺对冠状动脉具有可变的血管收缩和舒张作用，这取决于触发的组胺受体的类型。然而，组胺在冠状动脉自身调节中不起重要作用。\n\n（选项F）血清素主要在胃肠道和CNS中起作用。它可能导致冠状动脉收缩，这可以通过5HT₁-受体激动剂（例如，舒马曲坦）与冠状动脉痉挛之间的关联来证明。然而，它并未显着参与冠状动脉自身调节。\n\n教育目标：\n冠状动脉自身调节允许冠状动脉血流主要由心肌氧气需求驱动，在广泛的灌注压力范围内（60-140 mm Hg）。这主要通过改变血管阻力来实现，通过释放腺苷和一氧化氮来响应心肌缺氧。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of coronary autoregulation and the factors that influence coronary blood flow, particularly within the autoregulatory range. It emphasizes the role of myocardial oxygen demand and locally acting mediators like adenosine and nitric oxide.\n\nTo solve this question, focus on the autoregulatory range where blood flow is relatively insensitive to pressure changes. Identify the primary driver of coronary blood flow in this range (myocardial oxygen demand) and the key mediators involved in adjusting vascular resistance to meet that demand.",
+    "zh": "这个问题测试了对冠状动脉自身调节的知识，以及影响冠状动脉血流的因素，特别是在自身调节范围内。它强调了心肌氧气需求和局部作用介质（如腺苷和一氧化氮）的作用。\n\n要解决这个问题，请关注血流对压力变化相对不敏感的自身调节范围。确定该范围内冠状动脉血流的主要驱动因素（心肌氧气需求）以及参与调节血管阻力以满足该需求的关键介质。"
+  },
+  "tags": "Coronary autoregulation; Myocardial oxygen demand; Nitric oxide; Adenosine; Coronary blood flow; Vasodilation; Vascular resistance; Cardiology; Physiology",
+  "category": "CVS",
+  "question_id": "1516",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1516",
+  "extracted_at": "2025-11-05T11:56:48.015494",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:48:03.192461",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

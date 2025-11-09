@@ -1,0 +1,59 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old woman comes to the outpatient clinic due to shortness of breath for the past 6 months. The patient says she can walk only 3–4 blocks on level ground before feeling out of breath. She also has an occasional dry cough at night. The patient denies any chest pain, palpitations, syncope, weight loss, or lower extremity swelling. She immigrated from Guatemala 8 years ago. Medical history is unremarkable. On physical examination, the patient appears comfortable. Blood pressure is 128/75 mm Hg and pulse is 78/min and regular. Peripheral pulses are full and symmetric. The lungs are clear on auscultation. S1 is loud. With the patient positioned on her left side and breath held at the end of expiration, a diastolic murmur is heard at mid- and end diastole. Otherwise, examination is unremarkable. {{exhibit_1}}",
+    "zh": "一位32岁的女性因过去6个月的呼吸困难来门诊就诊。患者表示，她在平地上只能走3-4个街区，就会感到气短。她还偶尔在夜间干咳。患者否认任何胸痛、心悸、晕厥、体重减轻或下肢肿胀。她8年前从危地马拉移民。病史无特殊。体格检查显示，患者感觉舒适。血压为128/75 mmHg，脉搏78次/分，规律。周围脉搏饱满且对称。肺部听诊清晰。S1响亮。当患者侧卧，屏住呼吸呼气末时，在舒张中期和末期听到舒张期杂音。其他检查无特殊发现。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following are the most likely left ventricular hemodynamic findings at rest in this patient?",
+    "zh": "该患者静息状态下最可能的左心室血流动力学表现是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Increased Increased Decreased",
+      "zh": "增加 增加 降低"
+    },
+    "B": {
+      "en": "Increased Increased Normal",
+      "zh": "增加 增加 正常"
+    },
+    "C": {
+      "en": "Normal Normal Decreased",
+      "zh": "正常 正常 降低"
+    },
+    "D": {
+      "en": "Normal Normal Normal",
+      "zh": "正常 正常 正常"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The mid-to-late diastolic murmur is consistent with mitral stenosis (MS). MS usually occurs due to underlying rheumatic heart disease, which in the United States is most commonly seen in patients who emigrated from Latin America, Africa, or Asia.\n\nMS can lead to heart failure due to restriction of left ventricular (LV) diastolic filling. Patients usually experience exertional dyspnea as the first symptom, which results from an inability to increase cardiac output to meet exertional demands. As MS worsens, elevated left atrial pressure can lead to orthopnea, paroxysmal nocturnal dyspnea, productive cough/hemoptysis, and eventual right-sided heart failure with resulting jugular venous distension and lower extremity edema.\n\nThis patient’s presentation with exertional dyspnea in the absence of volume overload (ie, dry cough, no pulmonary crackles, no peripheral edema) suggests relatively early, mild-to-moderate disease. A loud S1 (caused by the stiff leaflets snapping shut) is further suggestive of more mild disease, as the intensity of S1 diminishes with disease progression due to heavy calcification that limits valve motion. Although severe MS can cause reductions in LV diastolic pressure and afterload (due to reduced ventricular filling), these parameters typically remain normal until later in the disease course (especially at rest). LV contractility is also normal at rest in early disease; however, with severe MS the reduction in cardiac output stimulates increased sympathetic activity to increase LV contractility.\n\n(Choices A and C) Decreased LV contractility occurs in heart failure due to LV systolic dysfunction (eg, dilated cardiomyopathy, ischemic heart disease). LV diastolic pressure and afterload are initially near normal but increase over time due to worsening systolic function and progressive ventricular dilation.\n\n(Choice B) Increased LV diastolic pressure in the setting of normal contractility occurs in heart failure due to LV diastolic dysfunction. Depending on etiology, afterload may be increased (eg, early stages of hypertensive heart disease) or normal (eg, cardiac amyloidosis).\n\nEducational objective:\nMitral stenosis usually occurs due to underlying rheumatic heart disease and initially presents with exertional dyspnea. Orthopnea, paroxysmal nocturnal dyspnea, productive cough, and hemoptysis can develop as the disease becomes more advanced. At rest, left ventricular diastolic pressure, afterload, and contractility remain normal until the mitral stenosis is severe. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "舒张中期至晚期的杂音与二尖瓣狭窄 (MS) 相符。MS 通常由于潜在的风湿性心脏病引起，在美国，这种病最常见于从拉丁美洲、非洲或亚洲移民来的患者。\n\nMS可由于限制左心室 (LV) 舒张充盈而导致心力衰竭。患者通常首先出现劳力性呼吸困难，这是由于无法增加心输出量以满足运动需求。随着MS恶化，左心房压力升高可导致端坐呼吸、阵发性夜间呼吸困难、咳嗽/咯血和最终的右侧心力衰竭，导致颈静脉扩张和下肢水肿。\n\n该患者的临床表现为劳力性呼吸困难，且无容量超负荷（即干咳、无肺部啰音、无外周水肿），提示疾病相对较早、轻度至中度。响亮的S1（由僵硬的叶片突然关闭引起）进一步提示疾病较轻，因为随着疾病进展，S1的强度会降低，这是由于重度钙化限制了瓣膜运动。尽管严重的 MS 可导致 LV 舒张压和后负荷降低（由于心室充盈减少），但这些参数在疾病病程后期之前（尤其是在静息状态下）通常保持正常。早期疾病静息状态下，LV收缩力也正常；然而，对于严重的 MS，心输出量减少会刺激交感神经活性增加，从而增加 LV 收缩力。\n\n(选项 A 和 C) LV 收缩力降低发生在由于 LV 收缩功能障碍导致的心力衰竭中（例如，扩张型心肌病、缺血性心脏病）。LV 舒张压和后负荷最初接近正常，但随着时间的推移，由于收缩功能恶化和进行性心室扩张而增加。\n\n(选项 B) 在收缩力正常的情况下，LV 舒张压升高发生在由于 LV 舒张功能障碍导致的心力衰竭中。根据病因，后负荷可能增加（例如，高血压性心脏病的早期阶段）或正常（例如，心脏淀粉样变性）。\n\n教育目标：\n二尖瓣狭窄通常是由于潜在的风湿性心脏病引起，最初表现为劳力性呼吸困难。随着疾病进展，可能出现端坐呼吸、阵发性夜间呼吸困难、咳嗽和咯血。在静息状态下，左心室舒张压、后负荷和收缩力在二尖瓣狭窄严重之前保持正常。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of mitral stenosis and its effect on left ventricular hemodynamics, specifically diastolic pressure, afterload, and contractility in the early stages of the disease. It requires understanding the pathophysiology of mitral stenosis and how it affects cardiac function.\n\nThe best approach is to recognize the murmur as mitral stenosis, understand that the patient is in the early stages of the disease, and recall that in early mitral stenosis, diastolic pressure, afterload, and contractility are typically normal at rest. Later stages may show changes in these parameters.",
+    "zh": "此题考察对二尖瓣狭窄及其对左心室血流动力学的影响的理解，特别是疾病早期阶段的舒张压、后负荷和收缩力。它要求理解二尖瓣狭窄的病理生理学及其对心脏功能的影响。\n\n最好的方法是识别杂音为二尖瓣狭窄，了解患者处于疾病早期阶段，并记住在早期二尖瓣狭窄中，静息状态下的舒张压、后负荷和收缩力通常是正常的。后期可能显示这些参数的变化。"
+  },
+  "tags": "Mitral stenosis; Rheumatic heart disease; Diastolic pressure; Afterload; Contractility; Cardiology; Heart murmur",
+  "category": "CVS",
+  "question_id": "16532",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\16532",
+  "extracted_at": "2025-11-05T12:01:28.353002",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:52:16.118955",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

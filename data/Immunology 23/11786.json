@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old man comes to the office due to a 1-month history of increasing abdominal girth and swollen extremities. His BMI is 32 kg/m². Laboratory evaluation shows decreased serum albumin and hypercholesterolemia, and urinalysis reveals heavy proteinuria and fatty casts. A renal biopsy shows findings consistent with focal segmental glomerulosclerosis. Despite aggressive medical management, the patient requires a kidney transplant from his younger sister, who is a 5 out of 6 HLA antigen match. As a part of his posttransplant immunosuppressive regimen, he takes a medication that inhibits lymphocyte proliferation by directly blocking interleukin-2 signal transduction. {{exhibit_1}}",
+    "zh": "一名25岁男性因腹围增大和四肢肿胀1个月来诊。其BMI为32 kg/m²。实验室评估显示血清白蛋白降低和高胆固醇血症，尿液分析显示重度蛋白尿和脂肪管型。肾活检显示符合局灶节段性肾小球硬化症的发现。尽管积极的内科治疗，患者仍需要接受来自其妹妹的肾移植，其HLA抗原配型为6个中的5个匹配。作为其移植后免疫抑制方案的一部分，他服用一种通过直接阻断白介素-2信号转导来抑制淋巴细胞增殖的药物。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "This mechanism best describes which of the following drugs?",
+    "zh": "这种机制最能描述以下哪种药物？"
+  },
+  "options": {
+    "A": {
+      "en": "Bortezomib",
+      "zh": "硼替佐米"
+    },
+    "B": {
+      "en": "Mycophenolate",
+      "zh": "霉酚酸酯"
+    },
+    "C": {
+      "en": "Prednisone",
+      "zh": "泼尼松"
+    },
+    "D": {
+      "en": "Rituximab",
+      "zh": "利妥昔单抗"
+    },
+    "E": {
+      "en": "Sirolimus",
+      "zh": "西罗莫司"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Unless a transplanted kidney is obtained from a genetically identical donor (eg, identical twin), chronic immunosuppression therapy is needed to help prevent organ rejection. Sirolimus is commonly used as part of the immunosuppression regimen for solid organ transplants. It functions as a proliferation signal inhibitor by targeting the mTOR (mammalian target of rapamycin) signaling pathway, an important stimulator of cell growth and proliferation. Specifically, sirolimus binds to the immunophilin FK binding protein (FKBP), forming a complex that inhibits mTOR. This leads to interruption of IL-2 signal transduction, preventing G1 to S phase progression and lymphocyte proliferation.\n\nCalcineurin inhibitors (eg, tacrolimus, cyclosporine) are other commonly used immunosuppression medications that function by blocking the translocation of nuclear factor of activated T-cells (NFAT), resulting in reduced transcription of IL-2.\n\n(Choice A) Bortezomib binds and inhibits the 26S proteasome. In multiple myeloma, bortezomib can facilitate apoptosis of neoplastic cells by preventing degradation of proapoptotic factors.\n\n(Choice B) Mycophenolate reversibly inhibits inosine monophosphate dehydrogenase. This blocks a critical step in the de novo synthesis of purine nucleotides that is required for proliferation of activated lymphocytes. Because most other cells have an alternative pathway for purine synthesis that lymphocytes lack, mycophenolate is relatively specific for suppression of B and T cells.\n\n(Choice C) Prednisone and other glucocorticoids bind to cytoplasmic receptors, translocate to the nucleus, and then inhibit the transcription of genes that encode IL-2 and other inflammatory mediators.\n\n(Choice D) Rituximab is a chimeric antibody directed against the CD20 antigen (specific to B lymphocytes). It depletes B cells (and reduces antibody production) through multiple pathways, including complement-mediated lysis, antibody-dependent cytotoxicity (via natural killer cells), and induction of lymphocyte apoptosis.\n\nEducational objective:\nSirolimus binds to the immunophilin FK binding protein (FKBP) in the cytoplasm, forming a complex that binds and inhibits mTOR (mammalian target of rapamycin). Inhibition of mTOR signaling blocks IL-2 signal transduction and prevents cell cycle progression and lymphocyte proliferation.",
+    "zh": "除非移植的肾脏来自基因相同的供体（例如，同卵双胞胎），否则需要长期免疫抑制治疗以帮助防止器官排斥反应。西罗莫司常被用作实体器官移植的免疫抑制方案的一部分。它通过靶向mTOR（雷帕霉素靶蛋白）信号通路发挥作用，该通路是细胞生长和增殖的重要刺激因子。具体而言，西罗莫司与免疫亲和素FK结合蛋白（FKBP）结合，形成抑制mTOR的复合物。这导致IL-2信号转导中断，阻止G1期向S期进展和淋巴细胞增殖。\n\n钙调磷酸酶抑制剂（例如，他克莫司，环孢素）是其他常用的免疫抑制药物，其通过阻断活化T细胞核因子（NFAT）的易位来发挥作用，从而导致IL-2的转录减少。\n\n(选项A) 硼替佐米结合并抑制26S蛋白酶体。在多发性骨髓瘤中，硼替佐米可以通过阻止促凋亡因子的降解来促进肿瘤细胞的凋亡。\n\n(选项B) 霉酚酸酯可逆地抑制肌苷单磷酸脱氢酶。这阻断了从头合成嘌呤核苷酸的关键步骤，该步骤是活化淋巴细胞增殖所必需的。由于大多数其他细胞具有淋巴细胞所缺乏的嘌呤合成的替代途径，因此霉酚酸酯相对特异于抑制B细胞和T细胞。\n\n(选项C) 泼尼松和其他糖皮质激素与细胞质受体结合，易位至细胞核，然后抑制编码IL-2和其他炎症介质的基因的转录。\n\n(选项D) 利妥昔单抗是一种针对CD20抗原（特异于B淋巴细胞）的嵌合抗体。它通过多种途径耗竭B细胞（并减少抗体产生），包括补体介导的溶解，抗体依赖性细胞毒性（通过自然杀伤细胞）和淋巴细胞凋亡的诱导。\n\n教育目标：\n西罗莫司与细胞质中的免疫亲和素FK结合蛋白（FKBP）结合，形成结合并抑制mTOR（雷帕霉素靶蛋白）的复合物。抑制mTOR信号传导可阻断IL-2信号转导，并阻止细胞周期进展和淋巴细胞增殖。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of immunosuppressant medications used in transplant patients, specifically the mechanism of action of sirolimus. It requires understanding of the mTOR pathway and its role in lymphocyte proliferation.\n\nTo solve this question, recall the common immunosuppressants used in transplant and their mechanisms. Focus on the specific action of blocking interleukin-2 signal transduction to narrow down the options.",
+    "zh": "此题考察移植患者使用的免疫抑制药物的知识，特别是西罗莫司的作用机制。需要理解mTOR通路及其在淋巴细胞增殖中的作用。\n\n要解决此问题，请回忆移植中常用的免疫抑制剂及其机制。侧重于阻断白介素-2信号转导的特定作用以缩小选择范围。"
+  },
+  "tags": "Immunosuppressants; Sirolimus; mTOR pathway; Interleukin-2; Kidney transplant; Focal segmental glomerulosclerosis; Transplant rejection; Nephrology; Pharmacology",
+  "category": "Immunology",
+  "question_id": "11786",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\11786",
+  "extracted_at": "2025-11-05T14:40:07.118482",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:00:05.033383",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

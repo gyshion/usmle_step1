@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 54-year-old hospitalized man develops new-onset slurring of speech and extremity weakness. Medical history is significant for alcohol abuse. Physical examination reveals confusion, dysarthria, dysphagia, and quadriparesis. MRI of the brain shows symmetric areas of demyelination in the pons {{exhibit_1}}. Which of the following most likely predisposed this patient to his current condition?",
+    "zh": "一名54岁的住院男性出现新发言语不清和肢体无力。病史提示有酒精滥用。体格检查显示意识模糊、构音障碍、吞咽困难和四肢轻瘫。脑部MRI显示脑桥出现对称性脱髓鞘病变 {{exhibit_1}}。以下哪一项最有可能使该患者易患目前的疾病？"
+  },
+  "question": {
+    "en": "Which of the following most likely predisposed this patient to his current condition?",
+    "zh": "以下哪一项最有可能使该患者易患目前的疾病？"
+  },
+  "options": {
+    "A": {
+      "en": "Atheroma formation in the vertebrobasilar arteries",
+      "zh": "椎基底动脉粥样瘤形成"
+    },
+    "B": {
+      "en": "Hematogenous dissemination of microbial agents",
+      "zh": "微生物病原体的血源性播散"
+    },
+    "C": {
+      "en": "Nutritional deficiency of water-soluble vitamin",
+      "zh": "水溶性维生素的营养缺乏"
+    },
+    "D": {
+      "en": "Overly rapid correction of electrolyte abnormalities",
+      "zh": "电解质异常的过度快速纠正"
+    },
+    "E": {
+      "en": "Paraneoplastic production of anti-neuronal antibodies",
+      "zh": "副肿瘤性抗神经元抗体的产生"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with a history of alcohol abuse has new-onset pseudobulbar palsy (dysarthria, dysphagia, dysphonia) and quadriparesis suggesting a brainstem insult. In association with the focal, symmetric demyelination of the pons noted on MRI, this presentation suggests osmotic demyelination syndrome (ODS), also known as central pontine myelinolysis. Other classic clinical features include a horizontal gaze paralysis, obtundation, and \"locked in\" syndrome, in which patients are aware but unable to move or communicate verbally.\n\nDecreased plasrna osmolarity frorn hyponatremia (common in patients with alcohol abuse) results in water flowing across the osmotic gradient into brain cells; if this happens acutely, life-threatening cerebral edema can occur. However, with slowly developing (chronic) hyponatremia, astrocytes and oligodendrocytes excrete osmotically active organic solutes (eg, glutamate, myoinositol) to cause compensatory intracellular water loss and normalization of brain volume. Therefore, chronic hyponatremia can present with minimal neurologic symptoms.\n\nHowever, overly rapid correction of chronic hyponatremia (eg, bolus of normal saline) reverses the osmotic gradient, drawing water from the cells into the plasma. The astrocytes and oligodendrocytes are unable to rapidly re-accumulate the lost organic solutes, resulting in cell shrinkage, dehydration, and apoptosis. The resultant demyelination preferentially affects the pons, possibly because the cells there are less metabolically active and less able to rapidly regenerate organic solutes.\n\n(Choice A) Vertebrobasilar atheroma formation can result in a pontine stroke with similar symptoms; however, ischemia (not demyelination) is expected on MRI.\n\n(Choice B) Septic emboli (hematogenous spread of bacteria or fungi) are typically associated with endocarditis. Symptomatic brain abscesses can occur (eg, headache, focal neurologic findings), but MRI would demonstrate ring enhancement with vasogenic edema.\n\n(Choice C) The administration of glucose-containing fluids to patients with thiamine deficiency (common in patients with alcohol abuse) can cause Wernicke encephalopathy (ie, ataxia, oculomotor dysfunction, encephalopathy). Korsakoff syndrome (chronic memory impairment) can also occur. Mamillary body atrophy is often visible on MRI.\n\n(Choice E) Paraneoplastic production of anti-neuronal antibodies can be seen in a variety of malignancies (eg, small cell lung cancer, thymoma), but symptoms are often nonfocal (eg, altered mentation, seizures). Demyelination is unexpected.\n\nEducational objective:\nOsmotic demyelination syndrome results from overly rapid correction of chronic hyponatremia. Clinical features include quadriplegia, pseudobulbar palsy, and reduced level of consciousness. MRI demonstrates focal demyelination of the pons.",
+    "zh": "这位有酒精滥用病史的患者出现新发的假性延髓麻痹（构音障碍、吞咽困难、发音障碍）和四肢轻瘫，提示脑干损伤。结合MRI上显示的脑桥局灶性、对称性脱髓鞘病变，这种表现提示渗透性脱髓鞘综合征（ODS），也称为中枢性脑桥髓鞘溶解症。其他典型的临床特征包括水平凝视麻痹、反应迟钝和“闭锁综合征”，即患者有意识但无法移动或通过语言交流。\n\n低钠血症（在酒精滥用患者中常见）导致血浆渗透压降低，导致水流过渗透梯度进入脑细胞；如果这种情况突然发生，可能会发生危及生命的大脑水肿。然而，随着缓慢发展的（慢性）低钠血症，星形胶质细胞和少突胶质细胞会排出具有渗透活性的有机溶质（例如，谷氨酸、肌醇），以引起代偿性细胞内水分流失和脑容量正常化。因此，慢性低钠血症的神经系统症状可能很轻微。\n\n然而，过度快速纠正慢性低钠血症（例如，静脉推注生理盐水）会逆转渗透梯度，将水从细胞中吸入血浆。星形胶质细胞和少突胶质细胞无法快速重新积累丢失的有机溶质，导致细胞收缩、脱水和凋亡。由此产生的脱髓鞘作用优先影响脑桥，这可能是因为那里的细胞代谢活性较低，且不太可能快速再生有机溶质。\n\n（选项A）椎基底动脉粥样瘤形成可导致脑桥卒中，症状相似；然而，在MRI上，预计会出现缺血（而非脱髓鞘）。\n\n（选项B）脓毒性栓子（细菌或真菌的血源性播散）通常与心内膜炎相关。可发生有症状的脑脓肿（例如，头痛、局灶性神经系统表现），但MRI将显示环形强化伴血管源性水肿。\n\n（选项C）向硫胺素缺乏症患者（在酒精滥用患者中常见）输注含葡萄糖的液体可引起Wernicke脑病（即，共济失调、动眼神经功能障碍、脑病）。也可发生Korsakoff综合征（慢性记忆障碍）。MRI上常可见乳头体萎缩。\n\n（选项E）可在多种恶性肿瘤（例如，小细胞肺癌、胸腺瘤）中看到副肿瘤性抗神经元抗体的产生，但症状通常不局灶（例如，精神状态改变、癫痫发作）。预计不会出现脱髓鞘。\n\n教育目标：\n渗透性脱髓鞘综合征是由于过度快速纠正慢性低钠血症引起的。临床特征包括四肢瘫、假性延髓麻痹和意识水平降低。MRI显示脑桥局灶性脱髓鞘病变。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of osmotic demyelination syndrome (ODS), its etiology, clinical presentation, and association with rapid correction of hyponatremia. It requires understanding the pathophysiology of how rapid electrolyte shifts can lead to demyelination, particularly in the pons.\n\nThe key to solving this question is recognizing the patient's history of alcohol abuse, the neurological symptoms suggestive of brainstem dysfunction, and the MRI findings of pontine demyelination. Considering the association between chronic hyponatremia in alcoholics and the risk of ODS with rapid correction is crucial for selecting the correct answer.",
+    "zh": "本题考察对渗透性脱髓鞘综合征（ODS）的认识，包括其病因、临床表现以及与快速纠正低钠血症的关系。它要求理解电解质快速变化如何导致脱髓鞘的病理生理学，尤其是在脑桥中。\n\n解决此问题的关键是认识到患者的酒精滥用病史、提示脑干功能障碍的神经系统症状以及脑桥脱髓鞘的MRI发现。考虑酒精中毒患者的慢性低钠血症与快速纠正后发生ODS的风险之间的关联，对于选择正确答案至关重要。"
+  },
+  "tags": "Osmotic demyelination syndrome; Central pontine myelinolysis; Hyponatremia; Rapid correction of hyponatremia; Alcohol abuse; Neurology; Brainstem; Demyelination",
+  "category": "Neuro",
+  "question_id": "15600",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\15600",
+  "extracted_at": "2025-11-07T15:56:33.927606",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:34:39.787816",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

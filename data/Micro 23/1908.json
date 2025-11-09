@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old woman comes to the emergency department due to 6 days of fatigue and intermittent fever. Medical history is significant for depression. She does not use tobacco, alcohol, or recreational drugs and has no medication allergies. The patient lives in New York City and recently traveled to central Africa, where she helped establish a nutrition program. Blood microscopy findings are shown in the exhibit {{exhibit_1}}. Urine pregnancy test is negative.",
+    "zh": "一名34岁的女性因6天疲劳和间歇性发烧来到急诊科。病史显示有抑郁症。她不吸烟、不饮酒、不吸毒，并且对药物无过敏史。该患者住在纽约市，最近曾前往中非，在那里帮助建立了一个营养项目。血液显微镜检查结果见{{exhibit_1}}。尿妊娠试验阴性。"
+  },
+  "question": {
+    "en": "Which of the following is the best treatment for this patient's current condition?",
+    "zh": "以下哪项是该患者目前病情的最佳治疗方法？"
+  },
+  "options": {
+    "A": {
+      "en": "Amphotericin B",
+      "zh": "两性霉素B"
+    },
+    "B": {
+      "en": "Artemisinin",
+      "zh": "青蒿素"
+    },
+    "C": {
+      "en": "Diethylcarbamazine",
+      "zh": "乙胺嗪"
+    },
+    "D": {
+      "en": "Nifurtimox",
+      "zh": "硝呋替莫"
+    },
+    "E": {
+      "en": "Pyrimethamine",
+      "zh": "乙胺嘧啶"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Blood microscopy findings that show red blood cells filled with multiple small rings suggest Plasmodium infection (malaria) {{exhibit_2}}. Erythrocytic forms of this parasite are treated with antimalarials such as chloroquine (in nonresistant areas), atovaquone-proguanil, or artemisinins. Primaquine is required to kill Plasmodium vivax and Plasmodium ovale liver hypnozoites.\n\nFor malaria acquired in areas known to have chloroquine-sensitive organisms, chloroquine is the treatment of choice. However, most African Plasmodium species are chloroquine resistant and require treatment with atovaquone-proguanil or artemisinins, which are well tolerated and have excellent cure rates. Because P vivax and P ovale have dormant liver forms (hypnozoites), primaquine therapy should be added to the treatment regimen for these species.\n\n(Choice A) Amphotericin B is used to treat leishmaniasis, a parasitic disease transmitted by sandflies. It is endemic to Africa, Southeast Asia, and the Americas. Visceral disease is typically marked by subacute fever, malaise, abdominal pain, and splenomegaly. Giemsa stain usually shows spherical/ovoid bodies (amastigotes) and rod-shaped inclusions (kinetoplast) in the skin/viscera.\n\n(Choice C) Diethylcarbamazine treats filariasis, a nematode infection of the lymphatics and subcutaneous tissue transmitted by mosquito vectors. Giemsa stain of a thick smear of blood would show microfilariae.\n\n(Choice D) Nifurtimox is used to treat trypanosomiasis, a protozoal illness endemic to Africa that causes sleeping sickness. CNS manifestations (eg, altered personality, stupor, excessive daytime somnolence) are prominent due to meningoencephalitis. Giemsa stain would show trypanosomes.\n\n(Choice E) Because most species of Plasmodium are now resistant to pyrimethamine, it is not typically used in treatment of malaria. Pyrimethamine can be used to treat toxoplasmosis, which most often causes symptomatic disease (eg, encephalitis) in patients with AIDS.\n\n{{exhibit_3}}\n\n{{exhibit_4}}",
+    "zh": "血液显微镜检查结果显示红细胞内充满多个小环，提示疟疾（疟疾）感染{{exhibit_2}}。这种寄生虫的红细胞期用抗疟药治疗，如氯喹（在非耐药地区）、阿托伐醌-鸟嘌呤或青蒿素类药物。需要伯氨喹来杀死间日疟原虫和卵形疟原虫的肝脏休眠子。\n\n对于在已知存在对氯喹敏感的病原体的地区获得的疟疾，氯喹是首选治疗方法。然而，大多数非洲疟原虫都对氯喹具有耐药性，需要用阿托伐醌-鸟嘌呤或青蒿素类药物治疗，这些药物耐受性良好，治愈率极高。由于间日疟原虫和卵形疟原虫有休眠肝脏形态（休眠子），因此应在这些物种的治疗方案中加入伯氨喹治疗。\n\n（选项A）两性霉素B用于治疗利什曼病，这是一种由白蛉传播的寄生虫病。它流行于非洲、东南亚和美洲。内脏疾病通常表现为亚急性发热、不适、腹痛和脾肿大。吉姆萨染色通常显示皮肤/内脏中的球形/卵形体（无鞭毛体）和杆状包涵体（动基体）。\n\n（选项C）乙胺嗪治疗丝虫病，这是一种由蚊媒传播的淋巴管和皮下组织的线虫感染。血液厚涂片的吉姆萨染色将显示微丝蚴。\n\n（选项D）硝呋替莫用于治疗锥虫病，这是一种非洲流行的原生动物病，会导致昏睡病。由于脑膜脑炎，中枢神经系统表现（例如，人格改变、昏迷、白天过度嗜睡）突出。吉姆萨染色将显示锥虫。\n\n（选项E）由于大多数疟原虫现在都对乙胺嘧啶有耐药性，因此通常不用于治疗疟疾。乙胺嘧啶可用于治疗弓形虫病，弓形虫病最常导致艾滋病患者的症状性疾病（例如，脑炎）。\n\n{{exhibit_3}}\n\n{{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of malaria diagnosis and treatment based on peripheral blood smear findings and travel history. It requires recognizing Plasmodium falciparum on microscopy and selecting the appropriate antimalarial therapy.\n\nThe key to solving this question is identifying the ring-form trophozoites on the blood smear, recognizing the patient's travel to central Africa as a risk factor for malaria, and knowing that artemisinins are effective against chloroquine-resistant Plasmodium species.",
+    "zh": "本题考察基于外周血涂片结果和旅行史的疟疾诊断和治疗知识。它需要通过显微镜识别恶性疟原虫，并选择合适的抗疟治疗。\n\n解决这个问题的关键是识别血涂片上的环状滋养体，认识到患者前往中非旅行是疟疾的危险因素，并知道青蒿素对耐氯喹的疟原虫有效。"
+  },
+  "tags": "Malaria; Plasmodium falciparum; Artemisinin; Infectious disease; Travel medicine; Peripheral blood smear; Parasitology; Tropical medicine; Antimalarial drugs",
+  "category": "Micro",
+  "question_id": "1908",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1908",
+  "extracted_at": "2025-11-05T15:02:33.543942",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:10:47.334684",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

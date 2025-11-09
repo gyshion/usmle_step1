@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man is brought to the hospital by ambulance after being involved in a motor vehicle collision. He was an unrestrained passenger and sustained considerable trauma. On arrival to the emergency department, he is hypotensive and bleeding from several sites. The patient receives an emergency blood transfusion as part of the resuscitation efforts. Abdominal ultrasound reveals splenic laceration and blood in the peritoneal cavity. On the way to the operating room, the patient develops difficulty breathing, chills, and pain in the chest and back. Urine drainage from the Foley catheter was initially clear but now appears brown in color.",
+    "zh": "一名34岁男性在遭遇车祸后由救护车送往医院。他未系安全带，并遭受了相当大的创伤。到达急诊科时，他出现低血压，并有多个部位出血。作为复苏措施的一部分，患者接受了紧急输血。腹部超声显示脾脏撕裂和腹腔内出血。在前往手术室的途中，患者出现呼吸困难、寒战以及胸部和背部疼痛。Foley导管引流的尿液最初是清澈的，但现在呈棕色。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's new findings?",
+    "zh": "以下哪项最可能是该患者新发现的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "CD8+ lymphocyte-mediated cytotoxicity",
+      "zh": "CD8+ 淋巴细胞介导的细胞毒作用"
+    },
+    "B": {
+      "en": "Complement-mediated cell lysis",
+      "zh": "补体介导的细胞溶解"
+    },
+    "C": {
+      "en": "Endotoxin-induced TNF-α surge",
+      "zh": "内毒素诱导的 TNF-α 激增"
+    },
+    "D": {
+      "en": "IgE-mediated reaction to serum proteins",
+      "zh": "IgE 介导的对血清蛋白的反应"
+    },
+    "E": {
+      "en": "Vascular deposition of immune complexes",
+      "zh": "免疫复合物的血管沉积"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient is most likely experiencing an ACUTE HEMOLYTIC TRANSFUSION REACTION. This condition presents with fever and chills, hypotension, dyspnea, chest and/or back pain, and hemoglobinuria (red- to brown-colored urine). Patients may also develop disseminated intravascular coagulation and renal failure. Acute hemolytic reactions occur within minutes to hours of starting a blood transfusion and are most often due to ABO incompatibility between the donor and recipient (usually due to an error in labeling or administration). These reactions can be fatal and require IMMEDIATE CESSATION of the transfusion when the diagnosis is suspected.\n\nAcute hemolytic transfusion reactions are an example of an antibody-mediated (type II) hypersensitivity reaction. Anti-ABO antibodies (mainly IgM) in the recipient bind the corresponding antigens on transfused donor erythrocytes, leading to complement activation. Anaphylatoxins (C3a and C5a) cause vasodilation and symptoms of shock, while formation of the membrane attack complex (C5b-C9) leads to complement-mediated cell lysis. Hemolytic disease of the newborn due to Rh-incompatibility is another example of type II hypersensitivity.\n\n(Choice A) Cytotoxic CD8+ T-lymphocytes are responsible for destroying cells infected with intracellular pathogens (eg, viruses). Recognition of an antigen-MHC class I complex by the T-cell receptor activates CD8+ lymphocytes, which then initiate apoptosis of the infected cell.\n\n(Choice C) TNF-α is produced by macrophages in response to bacterial endotoxin and causes symptoms of septic shock (eg, fever, hypotension, and tachycardia) when released in large amounts. Transfusion transmitted bacterial infection could cause septic shock, but it would not result in hemoglobinuria.\n\n(Choice D) Allergic transfusion reactions are IgE-mediated (type I) hypersensitivity reactions against plasma proteins found in transfused blood. They can be mild (urticaria, itching) or result in severe anaphylaxis (most common in IgA-deficient patients with anti-IgA antibodies).\n\n(Choice E) Vascular deposition of immune complexes is an example of type III hypersensitivity. In conditions such as systemic lupus erythematosus and rheumatoid arthritis, antigen-antibody complexes deposit in various tissues and activate complement, causing tissue inflammation and destruction.\n\nEducational objective:\nAcute hemolytic transfusion reaction is an antibody-mediated (type II) hypersensitivity reaction caused by pre-existing anti-ABO antibodies that bind antigens on transfused donor erythrocytes. Subsequent complement activation results in erythrocyte lysis, vasodilation, and symptoms of shock. Common findings include fever, hypotension, chest and back pain, and hemoglobinuria.",
+    "zh": "该患者最有可能正在经历急性溶血性输血反应。这种情况表现为发烧和寒战、低血压、呼吸困难、胸部和/或背部疼痛以及血红蛋白尿（红色至棕色尿液）。患者还可能发生弥散性血管内凝血和肾衰竭。急性溶血反应发生在开始输血后的几分钟到几小时内，通常是由于供者和受者之间的 ABO 血型不相容（通常是由于标签或管理错误）。这些反应可能是致命的，一旦怀疑诊断，需要立即停止输血。\n\n急性溶血性输血反应是抗体介导（II 型）超敏反应的一个例子。受者体内的抗 ABO 抗体（主要是 IgM）与输注供者红细胞上的相应抗原结合，从而激活补体。过敏毒素（C3a 和 C5a）引起血管舒张和休克症状，而膜攻击复合物（C5b-C9）的形成导致补体介导的细胞溶解。新生儿溶血病（由 Rh 血型不合引起）是 II 型超敏反应的另一个例子。\n\n（选项 A）细胞毒性 CD8+ T 淋巴细胞负责破坏被细胞内病原体（例如病毒）感染的细胞。T 细胞受体识别抗原-MHC I 类复合物，激活 CD8+ 淋巴细胞，然后启动被感染细胞的细胞凋亡。\n\n（选项 C）TNF-α 由巨噬细胞响应细菌内毒素产生，并在大量释放时引起脓毒性休克的症状（例如发烧、低血压和心动过速）。输血传播的细菌感染可能导致脓毒性休克，但不会导致血红蛋白尿。\n\n（选项 D）过敏性输血反应是 IgE 介导（I 型）超敏反应，针对输注血液中的血浆蛋白。它们可能是轻微的（荨麻疹、瘙痒），或导致严重的过敏反应（最常见于 IgA 缺陷且有抗 IgA 抗体的患者）。\n\n（选项 E）免疫复合物的血管沉积是 III 型超敏反应的一个例子。在系统性红斑狼疮和类风湿关节炎等情况下，抗原-抗体复合物沉积在各种组织中并激活补体，导致组织炎症和破坏。\n\n教学目标：\n急性溶血性输血反应是由预先存在的抗 ABO 抗体结合在输注供者红细胞上的抗原引起的抗体介导（II 型）超敏反应。随后的补体激活导致红细胞溶解、血管舒张和休克症状。常见发现包括发烧、低血压、胸部和背部疼痛以及血红蛋白尿。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of acute hemolytic transfusion reactions, a type II hypersensitivity reaction, and its clinical presentation. It also tests the underlying pathophysiology of complement-mediated cell lysis.\n\nTo solve this question, recognize the signs and symptoms of an acute hemolytic transfusion reaction (fever, chills, hypotension, chest/back pain, hemoglobinuria) occurring shortly after a blood transfusion. Understand the mechanism of ABO incompatibility and complement activation leading to cell lysis.",
+    "zh": "这道题考察了对急性溶血性输血反应（一种 II 型超敏反应）及其临床表现的了解。它还考察了补体介导的细胞溶解的潜在病理生理学。\n\n要解决这个问题，需要识别在输血后不久发生的急性溶血性输血反应的体征和症状（发烧、寒战、低血压、胸部/背部疼痛、血红蛋白尿）。理解 ABO 血型不合和补体激活导致细胞溶解的机制。"
+  },
+  "tags": "Acute hemolytic transfusion reaction; Type II hypersensitivity; Complement-mediated cell lysis; ABO incompatibility; Transfusion medicine; Hematology; Emergency medicine",
+  "category": "Blood",
+  "question_id": "747",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\747",
+  "extracted_at": "2025-11-05T11:34:11.836604",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:32:09.525865",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

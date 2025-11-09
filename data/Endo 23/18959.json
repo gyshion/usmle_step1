@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 56-year-old man with type 2 diabetes mellitus, hypertension, and hyperlipidemia comes to the office due to elevated blood glucose levels. The patient's current medications include metformin, lisinopril, and simvastatin. Blood pressure is 150/90 mm Hg and pulse is 88/min. BMI is 37 kg/m². Physical examination is unremarkable. Laboratory studies show a fasting glucose level of 156 mg/dL, serum creatinine of 1.1 mg/dL, hemoglobin A1c of 8.1%, and urine albumin-creatinine ratio of 200 mg/g (normal: <30). Treatment with empagliflozin is initiated. Which of the following effects is most likely to be seen with this new treatment?",
+    "zh": "一名56岁男性，患有2型糖尿病、高血压和高脂血症，因血糖水平升高来诊。患者目前的药物包括二甲双胍、赖诺普利和他汀类药物。血压为150/90 mmHg，脉搏为88次/分钟。BMI为37 kg/m²。体格检查无特殊发现。实验室检查显示空腹血糖为156 mg/dL，血清肌酐为1.1 mg/dL，血红蛋白A1c为8.1%，尿白蛋白/肌酐比值为200 mg/g（正常：<30）。开始使用恩格列净治疗。以下哪种作用最有可能在新治疗中出现？"
+  },
+  "question": {
+    "en": "Which of the following effects is most likely to be seen with this new treatment?",
+    "zh": "使用这种新疗法最有可能观察到以下哪种作用？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased intestinal glucose absorption",
+      "zh": "减少肠道葡萄糖吸收"
+    },
+    "B": {
+      "en": "Increased body weight",
+      "zh": "体重增加"
+    },
+    "C": {
+      "en": "Increased endogenous insulin production",
+      "zh": "增加内源性胰岛素产生"
+    },
+    "D": {
+      "en": "Reduction in glomerular hyperfiltration",
+      "zh": "减少肾小球高滤过"
+    },
+    "E": {
+      "en": "Suppression of glucagon secretion",
+      "zh": "抑制胰高血糖素分泌"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Although this patient has incipient diabetic nephropathy with moderately increased albuminuria (ie, 30-300 mg/g).\nAlthough patients with more advanced diabetic kidney disease typically have reduced glomerular filtration (rising serum creatinine), in earlier stages, filtration is normal to increased and serum creatinine may be normal.\nIn the kidneys, glucose is freely filtered in the glomerulus and is normally reabsorbed with socium by sodium-glucose cotransporter-2 (SGLT2) in the proximal tubule. In patients with diabetes mellitus, the increased filtered glucose load leads to the following pathophysiologic changes:\n\nReabsorption of the excess tubular glucose causes increased co-reabsorption of sodium by SGLT2.\nThis results in decreased tubular sodium delivery to the macula densa, stimulating renin secretion by the juxtaglomerular apparatus and, ultimately, increasing angiotensin II levels.\nAngiotensin II induces relative vasoconstriction in the renal efferent arterioles, increasing hydrostatic pressure in the glomerular capillaries, contributing to glomerular hyperfiltration.\nSGLT2 inhibitors (eg, empagliflozin) lower blood glucose levels by decreasing the reabsorption of glucose (and sodium) in the proximal tubule, causing urine glucose wasting and increased sodium excretion. The concurrent increase in tubular sodium delivery to the macula densa leads to decreased renin secretion, lower glomerular pressure, reduced hyperfiltration {{exhibit_1}}, and delayed progression of nephropathy.\n(Choice A) Glucose is absorbed in the intestine primarily via SGLT1 (not SGLT2), which is not significantly affected by empagliflozin.\n(Choices B and C) SGLT2 inhibitors lower blood glucose levels, leading to decreased secretion of insulin by pancreatic beta cells. Most patients taking SGLT2 inhibitors experience modest weight loss, not gain, due to urinary glucose wasting and lower circulating insulin levels.\n(Choice E) SGLT2 inhibitors are associated with increased, not suppressed, glucagon secretion, possibly due to lower blood glucose and insulin levels or a direct effect on pancreatic alpha cells. Glucagon-like peptide-1 agonists (eg, exenatide) lower blood glucose levels by increasing glucose-dependent insulin secretion and suppressing glucagon secretion.\nEducational objective:\nIn patients with diabetes mellitus, excess glucose in the proximal tubule causes increased concurrent reabsorption of sodium by sodium-glucose cotransporter-2 (SGLT2). This leads to decreased sodium delivery to the macula densa and increased renin secretion, which increases glomerular filtration pressure and promotes glomerular hyperfiltration. SGLT2 inhibitors increase sodium delivery to the macula densa, decreasing renin production and reducing hyperfiltration.",
+    "zh": "虽然该患者有早期糖尿病肾病，伴有中度蛋白尿（即30-300 mg/g）。\n尽管患有晚期糖尿病肾病的患者通常肾小球滤过减少（血清肌酐升高），但在早期阶段，滤过是正常或增加的，血清肌酐可能正常。\n在肾脏中，葡萄糖在肾小球中自由滤过，通常与钠通过近端小管中的钠-葡萄糖协同转运蛋白2（SGLT2）重吸收。在患有糖尿病的患者中，增加的滤过的葡萄糖负荷导致以下病理生理学变化：\n\n过量肾小管葡萄糖的重吸收导致SGLT2对钠的共同重吸收增加。\n这导致到达致密斑的肾小管钠递送减少，刺激肾小球旁器释放肾素，最终增加血管紧张素II水平。\n血管紧张素II诱导肾传出小动脉的相对收缩，增加肾小球毛细血管中的静水压，导致肾小球高滤过。\nSGLT2抑制剂（例如，恩格列净）通过减少近端小管中葡萄糖（和钠）的重吸收来降低血糖水平，导致尿液葡萄糖浪费和钠排泄增加。同时增加到致密斑的肾小管钠递送导致肾素分泌减少，肾小球压力降低，高滤过减少 {{exhibit_1}}，以及肾病的进展延迟。\n（选项A）葡萄糖主要通过SGLT1（而非SGLT2）在肠道中被吸收，恩格列净对此没有显著影响。\n（选项B和C）SGLT2抑制剂降低血糖水平，导致胰腺β细胞分泌胰岛素减少。大多数服用SGLT2抑制剂的患者会出现轻微的体重减轻，而不是增加，这归因于尿液葡萄糖浪费和循环胰岛素水平降低。\n（选项E）SGLT2抑制剂与胰高血糖素分泌增加相关，而非抑制，这可能是由于血糖和胰岛素水平降低或对胰腺α细胞的直接影响。胰高血糖素样肽-1受体激动剂（例如，艾塞那肽）通过增加葡萄糖依赖性胰岛素分泌和抑制胰高血糖素分泌来降低血糖水平。\n教育目标：\n在患有糖尿病的患者中，近端小管中过量的葡萄糖导致通过钠-葡萄糖协同转运蛋白2（SGLT2）共同重吸收的钠增加。这导致到达致密斑的钠递送减少，肾素分泌增加，这会增加肾小球滤过压力并促进肾小球高滤过。SGLT2抑制剂增加到达致密斑的钠递送，减少肾素产生，并减少高滤过。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of action of SGLT2 inhibitors and their effects on renal physiology in patients with diabetes mellitus. Specifically, it assesses the understanding of how these medications reduce glomerular hyperfiltration. \n\nTo solve this question, recall that SGLT2 inhibitors block glucose reabsorption in the proximal tubule, leading to increased sodium delivery to the macula densa. This reduces renin secretion and glomerular pressure, ultimately decreasing hyperfiltration. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "本题考察对SGLT2抑制剂的作用机制及其对糖尿病患者肾脏生理的影响的认识。具体来说，它评估对这些药物如何减少肾小球高滤过的理解。\n\n要解决这个问题，请回忆SGLT2抑制剂阻断近端小管中葡萄糖的重吸收，导致到达致密斑的钠递送增加。这减少了肾素分泌和肾小球压力，最终降低了高滤过。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "tags": "Type 2 diabetes mellitus; SGLT2 inhibitors; Empagliflozin; Glomerular hyperfiltration; Diabetic nephropathy; Renal physiology; Sodium-glucose cotransporter-2; Endocrinology; Nephrology",
+  "category": "Endo",
+  "question_id": "18959",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\18959",
+  "extracted_at": "2025-11-05T14:03:50.832518",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:39:08.871355",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

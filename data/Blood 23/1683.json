@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 28-year-old primigravid woman comes to the office for a routine prenatal checkup at 28 weeks gestation. The patient has no concerns and has had an uneventful pregnancy to date. Physical examination shows a uterine size concordant with ultrasound dates, and fetal cardiac activity is in the normal range. After reviewing the results of her laboratory evaluations, the physician administers an injection of anti-Rh(D) immunoglobulin. ",
+    "zh": "一名 28 岁的初孕妇来到诊室进行例行产前检查，孕周为 28 周。患者无任何不适，且妊娠至今一切顺利。体格检查显示子宫大小与超声检查结果相符，胎儿心脏活动在正常范围内。在查看了她的实验室评估结果后，医生注射了抗 Rh(D) 免疫球蛋白。"
+  },
+  "question": {
+    "en": "The administered antibodies most likely belong to which of the following immunoglobulin classes?",
+    "zh": "注射的抗体最有可能属于以下哪种免疫球蛋白类别？"
+  },
+  "options": {
+    "A": {
+      "en": "IgA",
+      "zh": "IgA"
+    },
+    "B": {
+      "en": "IgD",
+      "zh": "IgD"
+    },
+    "C": {
+      "en": "IgE",
+      "zh": "IgE"
+    },
+    "D": {
+      "en": "IgG",
+      "zh": "IgG"
+    },
+    "E": {
+      "en": "IgM",
+      "zh": "IgM"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Rhesus (Rh) antigens are a group of nonglycosylated, transmembrane proteins found on the surface of red blood cells. The D antigen is the most immunogenic of the group and is present on the erythrocytes of Rh-positive individuals. When an Rh-negative mother becomes pregnant with an Rh-positive fetus, fetal red blood cells can enter the maternal circulation and elicit a maternal antibody response with the formation of memory B lymphocytes (Rh alloimmunization). After Rh alloimmunization occurs, subsequent pregnancies with Rh-positive fetuses will be at risk for hemolytic disease of the newborn.\n\nTo avoid maternal Rh alloimmunization, Rh-negative mothers must be prevented from mounting an immune response against the D antigen. Anti-Rh(D) immunoglobulin {{exhibit_1}} is a polyclonal antibody product consisting of IgG anti-D antibodies collected from pooled donor plasma. It is administered to Rh-negative women during gestation and in the immediate postpartum period. Once given, anti-Rh(D) antibodies bind to Rh-positive fetal erythrocytes that enter the maternal circulation, preventing their interaction with the maternal immune system by promoting sequestration and elimination in the mother's spleen (ie, the mononuclear phagocyte system).\n\nAlthough IgG antibodies can cross the placenta, anti-Rh(D) IgG antibodies do not cause significant transplacental fetal hemolysis because the amount of antibody administered is negligible compared with the amount produced in a typical immune hemolytic reaction.\n\n(Choice A) IgA is primarily a mucosal antibody. Patients with IgA deficiency can have an anaphylactic reaction during the administration of intravenous immunoglobulin.\n\n(Choice B) IgD is present in very low concentrations in the blood and is typically coexpressed with IgM as a B-cell membrane receptor.\n\n(Choice C) IgE plays a significant role in allergic responses and in the immune response to parasitic infections.\n\n(Choice E) Multivalent IgM antibodies are generally more effective than IgG antibodies at promoting agglutination of foreign antigens and activating complement, which would result in lysis of fetal erythrocytes in the maternal circulation. However, macrophages do not have receptors for IgM; therefore, anti-D IgM does not provide the same immunoprophylactic effect (eg, sequestration and clearance of Rh-positive erythrocytes) as anti-D IgG.\n\nEducational objective:\nAnti-Rh immunoglobulin consists of anti-D IgG antibodies that bind to Rh-positive fetal erythrocytes, promoting clearance by maternal reticuloendothelial macrophages and preventing maternal Rh sensitization. It is routinely administered to Rh-negative women during gestation and immediately postpartum.",
+    "zh": "Rh 抗原是红细胞表面的一组非糖基化跨膜蛋白。D 抗原是该组中最具免疫原性的抗原，存在于 Rh 阳性个体的红细胞上。当 Rh 阴性母亲怀上 Rh 阳性胎儿时，胎儿红细胞会进入母体循环，引发母体抗体反应，形成记忆 B 淋巴细胞（Rh 同种免疫）。发生 Rh 同种免疫后，后续妊娠 Rh 阳性胎儿将面临新生儿溶血病的风险。\n\n为避免母体 Rh 同种免疫，必须阻止 Rh 阴性母亲对 D 抗原产生免疫反应。抗 Rh(D) 免疫球蛋白 {{exhibit_1}} 是一种多克隆抗体产品，由从混合供体血浆中收集的 IgG 抗 D 抗体组成。它在妊娠期间和产后立即给予 Rh 阴性妇女。一旦给予，抗 Rh(D) 抗体会与进入母体循环的 Rh 阳性胎儿红细胞结合，通过促进在母亲脾脏（即单核吞噬细胞系统）中的隔离和消除，阻止其与母体免疫系统的相互作用。\n\n虽然 IgG 抗体可以通过胎盘，但抗 Rh(D) IgG 抗体不会引起明显的经胎盘胎儿溶血，因为给药的抗体量与典型免疫溶血反应中产生的量相比可以忽略不计。\n\n(选项 A) IgA 主要是粘膜抗体。IgA 缺乏症患者在静脉注射免疫球蛋白时可能会发生过敏性反应。\n\n(选项 B) IgD 在血液中的浓度非常低，通常与 IgM 共同表达为 B 细胞膜受体。\n\n(选项 C) IgE 在过敏反应和对寄生虫感染的免疫反应中起重要作用。\n\n(选项 E) 多价 IgM 抗体通常比 IgG 抗体更能促进外来抗原的凝集和激活补体，这会导致母体循环中胎儿红细胞的裂解。然而，巨噬细胞没有 IgM 受体；因此，抗 D IgM 无法提供与抗 D IgG 相同的免疫预防效果（例如，Rh 阳性红细胞的隔离和清除）。\n\n教学目标：\n抗 Rh 免疫球蛋白由抗 D IgG 抗体组成，这些抗体与 Rh 阳性胎儿红细胞结合，促进母体网状内皮巨噬细胞的清除，并防止母体 Rh 敏化。它通常在妊娠期间和产后立即给予 Rh 阴性妇女。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Rh alloimmunization and the mechanism of action of Rh(D) immunoglobulin, specifically the immunoglobulin class involved. It also assesses understanding of the different immunoglobulin classes and their functions.\n\nThe key to solving this question is recognizing that anti-Rh(D) immunoglobulin is administered to Rh-negative mothers to prevent Rh alloimmunization. Knowing that anti-Rh(D) immunoglobulin consists of IgG antibodies is crucial for selecting the correct answer.",
+    "zh": "本题考察对 Rh 同种免疫和 Rh(D) 免疫球蛋白作用机制的了解，特别是所涉及的免疫球蛋白类别。它还评估了对不同免疫球蛋白类别及其功能的理解。\n\n解决此问题的关键是认识到，抗 Rh(D) 免疫球蛋白是给 Rh 阴性母亲注射以预防 Rh 同种免疫的。知道抗 Rh(D) 免疫球蛋白由 IgG 抗体组成对于选择正确答案至关重要。"
+  },
+  "tags": "Rh alloimmunization; Anti-Rh(D) immunoglobulin; IgG; Immunoglobulin classes; Hemolytic disease of the newborn; Obstetrics; Immunology",
+  "category": "Blood",
+  "question_id": "1683",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1683",
+  "extracted_at": "2025-11-05T11:27:18.067515",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:28:54.795890",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

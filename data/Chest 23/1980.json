@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man travels to Peru to participate in a mountain-climbing expedition. He has no prior medical problems and takes no medications. The patient does not use tobacco, alcohol, or illicit drugs. During his trip, he stays in a high-altitude camp in the mountains at over 4,000 m (13,000 ft) above sea level. After 2 days at the camp, the patient has blood drawn by the camp's physician while breathing ambient air. Which of the following sets of arterial blood gas values is most likely to be seen in this patient? {{exhibit_1}}",
+    "zh": "一名34岁的男子前往秘鲁参加登山探险。他之前没有医疗问题，也没有服用药物。患者不吸烟、不饮酒，也不吸食违禁药物。在旅行期间，他住在海拔超过4,000米（13,000英尺）的高山营地。在营地待了2天后，患者在呼吸环境空气的情况下，由营地医生抽血。该患者最有可能出现的动脉血气值是以下哪一项？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following sets of arterial blood gas values is most likely to be seen in this patient?",
+    "zh": "该患者最有可能出现的动脉血气值是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "pH 7.22; PaO2 (mm Hg) 62; PaCO2 (mm Hg) 60; Plasma HCO3- (mEq/L) 24",
+      "zh": "pH 7.22；PaO2（毫米汞柱）62；PaCO2（毫米汞柱）60；血浆HCO3-（毫当量/升）24"
+    },
+    "B": {
+      "en": "pH 7.25; PaO2 (mm Hg) 101; PaCO2 (mm Hg) 21; Plasma HCO3- (mEq/L) 9",
+      "zh": "pH 7.25；PaO2（毫米汞柱）101；PaCO2（毫米汞柱）21；血浆HCO3-（毫当量/升）9"
+    },
+    "C": {
+      "en": "pH 7.38; PaO2 (mm Hg) 96; PaCO2 (mm Hg) 40; Plasma HCO3- (mEq/L) 23",
+      "zh": "pH 7.38；PaO2（毫米汞柱）96；PaCO2（毫米汞柱）40；血浆HCO3-（毫当量/升）23"
+    },
+    "D": {
+      "en": "pH 7.46; PaO2 (mm Hg) 100; PaCO2 (mm Hg) 26; Plasma HCO3- (mEq/L) 18",
+      "zh": "pH 7.46；PaO2（毫米汞柱）100；PaCO2（毫米汞柱）26；血浆HCO3-（毫当量/升）18"
+    },
+    "E": {
+      "en": "pH 7.48; PaO2 (mm Hg) 60; PaCO2 (mm Hg) 29; Plasma HCO3- (mEq/L) 21",
+      "zh": "pH 7.48；PaO2（毫米汞柱）60；PaCO2（毫米汞柱）29；血浆HCO3-（毫当量/升）21"
+    },
+    "F": {
+      "en": "pH 7.51; PaO2 (mm Hg) 75; PaCO2 (mm Hg) 50; Plasma HCO3- (mEq/L) 39",
+      "zh": "pH 7.51；PaO2（毫米汞柱）75；PaCO2（毫米汞柱）50；血浆HCO3-（毫当量/升）39"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The partial pressure of inspired oxygen (PiO₂) is decreased at high altitude, meaning that fewer oxygen molecules are inspired with each breath. This leads to hypoxemia with a marked reduction in the arterial partial pressure of O₂ (PaO₂). Hypoxemia triggers chemoreceptors in the carotid bodies to stimulate ventilation, and with hyperventilation, there is increased exhalation of CO₂, leading to respiratory alkalosis. Over several days, the kidneys compensate by increasing bicarbonate (HCO₃⁻) excretion to decrease serum HCO₃⁻ and help normalize pH.\n\nHypoxemia persists because the low PiO₂ allows hyperventilation to increase PaO₂ only slightly. Accordingly, the body makes several adjustments that improve O₂ delivery and O₂-carrying capacity to optimize O₂ use in the setting of persistently low PaO₂. These adjustments include:\n\n•\tIncreased 2,3-bisphosphoglycerate to encourage O₂ unloading in the tissues\n•\tIncreased angiogenesis via increased production of vascular endothelial growth factor\n•\tIncreased hemoglobin via increased production of erythropoietin\n\nTherefore, in this individual who spent 2 days at high altitude, the expected arterial blood gas findings reflect partially compensated respiratory alkalosis (slightly elevated pH, low partial pressure of arterial CO₂ [PaCO₂], somewhat low HCO₃⁻) and persistent hypoxemia (PaO₂ <75 mm Hg). {{exhibit_2}}\n\n(Choice A) Low pH with high PaCO₂ indicates respiratory acidosis. Near-normal HCO₃⁻ is consistent with acute respiratory acidosis because there has been little time for renal metabolic compensation. Acute respiratory acidosis with hypoxemia can occur due to hypoventilation (eg, from opioid overdose).\n\n(Choice B) Low pH with low HCO₃⁻ indicates metabolic acidosis. The low PaCO₂ reflects respiratory compensation via hyperventilation.\n\n(Choice C) These values are close to approximate normal values: pH of 7.4, PaCO₂ of 40 mm Hg, and HCO₃⁻ of 24 mEq/L. This reflects an absence of acid-base disturbance.\n\n(Choice D) Slightly elevated pH with low PaCO₂ and low HCO₃⁻ is consistent with chronic respiratory alkalosis with appropriate metabolic compensation. These acid-base findings are expected after >72 hours at high altitude (adequate time for full renal compensation); however, PaO₂ does not normalize.\n\n(Choice F) High pH with high HCO₃⁻ indicates metabolic alkalosis. The elevated PaCO₂ represents respiratory compensation via hypoventilation. Such findings can occur with excessive vomiting or overuse of diuretics.\n\nEducational objective:\nAt high altitude, the low partial pressure of inspired oxygen (PiO₂) leads to hypoxemia that triggers hyperventilation with increased exhalation of CO₂ and resulting respiratory alkalosis. The kidneys compensate by increasing bicarbonate (HCO₃⁻) excretion to decrease serum HCO₃⁻ and help normalize pH. Hypoxemia persists, but physiologic adjustments take place to improve O₂ use. {{exhibit_3}}",
+    "zh": "在高海拔地区，吸入氧分压 (PiO₂) 降低，这意味着每次呼吸吸入的氧分子较少。这会导致低氧血症，动脉氧分压 (PaO₂) 显着降低。低氧血症会触发颈动脉体中的化学感受器以刺激通气，并且过度通气会导致CO₂呼出增加，从而导致呼吸性碱中毒。经过几天，肾脏通过增加碳酸氢盐 (HCO₃⁻) 的排泄来代偿，以降低血清 HCO₃⁻ 并帮助使 pH 值正常化。\n\n低氧血症持续存在，因为低 PiO₂ 仅允许过度通气略微增加 PaO₂。因此，身体会进行一些调整，以改善 O₂ 的输送和 O₂ 携带能力，从而在持续低 PaO₂ 的情况下优化 O₂ 的利用。这些调整包括：\n\n•\t增加 2,3-二磷酸甘油酸盐以促进组织中 O₂ 的释放\n•\t通过增加血管内皮生长因子 (VEGF) 的产生来增加血管生成\n•\t通过增加促红细胞生成素的产生来增加血红蛋白\n\n因此，在这个在高海拔地区待了 2 天的个体中，预期的动脉血气结果反映了部分代偿性呼吸性碱中毒（pH 值略有升高，动脉 CO₂ [PaCO₂] 分压低，HCO₃⁻ 略低）和持续性低氧血症（PaO₂ <75 mmHg）。 {{exhibit_2}}\n\n(选项 A) 低 pH 值和高 PaCO₂ 表明存在呼吸性酸中毒。接近正常的 HCO₃⁻ 与急性呼吸性酸中毒一致，因为肾脏代谢代偿的时间很短。由于通气不足（例如，阿片类药物过量）可能会发生伴有低氧血症的急性呼吸性酸中毒。\n\n(选项 B) 低 pH 值和低 HCO₃⁻ 表明存在代谢性酸中毒。低 PaCO₂ 反映了通过过度通气的呼吸代偿。\n\n(选项 C) 这些值接近近似正常值：pH 7.4，PaCO₂ 40 mmHg，HCO₃⁻ 24 mEq/L。这反映了不存在酸碱失衡。\n\n(选项 D) pH 值略有升高，PaCO₂ 低，HCO₃⁻ 低，这与慢性呼吸性碱中毒伴有适当的代谢代偿一致。这些酸碱结果预计在高海拔地区超过 72 小时后出现（有足够的时间进行完全的肾脏代偿）；但是，PaO₂ 并未正常化。\n\n(选项 F) 高 pH 值和高 HCO₃⁻ 表明存在代谢性碱中毒。升高的 PaCO₂ 代表通过通气不足进行的呼吸代偿。这种发现可能发生在过度呕吐或过度使用利尿剂时。\n\n教育目标：\n在高海拔地区，吸入氧分压 (PiO₂) 降低会导致低氧血症，从而引发过度通气，增加 CO₂ 呼出并导致呼吸性碱中毒。肾脏通过增加碳酸氢盐 (HCO₃⁻) 的排泄来代偿，以降低血清 HCO₃⁻ 并帮助使 pH 值正常化。低氧血症持续存在，但会发生生理性调整以改善 O₂ 的利用。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests the ability to interpret arterial blood gas (ABG) results in the context of high-altitude physiology, specifically the development of respiratory alkalosis and hypoxemia. It requires understanding of how the body compensates for these changes.\n\nTo solve this question, recognize that high altitude leads to hypoxemia, which stimulates hyperventilation and respiratory alkalosis. The kidneys will attempt to compensate by excreting bicarbonate, but the PaO2 will remain low. Look for ABG values consistent with these findings.",
+    "zh": "这个问题测试了在高原生理学背景下解释动脉血气 (ABG) 结果的能力，特别是呼吸性碱中毒和低氧血症的发生。它需要了解身体如何对这些变化进行代偿。\n\n为了解决这个问题，要认识到高海拔会导致低氧血症，从而刺激过度通气和呼吸性碱中毒。肾脏将尝试通过排泄碳酸氢盐来代偿，但 PaO2 将保持较低。寻找与这些发现一致的 ABG 值。"
+  },
+  "tags": "High altitude; Hypoxemia; Respiratory alkalosis; Arterial blood gas; Acid-base balance; Pulmonary physiology; Renal compensation",
+  "category": "Chest",
+  "question_id": "1980",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1980",
+  "extracted_at": "2025-11-05T11:43:12.869510",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:38:18.185306",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old man comes to the clinic after noticing a reddish tinge to his urine. During evaluation for hematuria, an abdominal CT scan reveals a mass in his left kidney. Further work-up shows multiple lung and bone nodules. CT-guided biopsy of a peripherally located lung nodule demonstrates renal cell carcinoma. High-dose interleukin-2 (IL-2) treatment is started, and 4 weeks later there is a significant reduction in the patient's tumor burden.",
+    "zh": "一名63岁男性因注意到尿液呈红色来到诊所就诊。在评估血尿期间，腹部CT扫描显示其左肾有一肿块。进一步检查显示多个肺部和骨骼结节。CT引导下对外周肺结节进行的活检显示为肾细胞癌。开始高剂量白介素-2 (IL-2) 治疗，4周后患者的肿瘤负荷显著降低。"
+  },
+  "question": {
+    "en": "Which of the following mechanisms was most likely responsible for regression of this patient's malignancy?",
+    "zh": "以下哪种机制最有可能导致该患者恶性肿瘤的消退？"
+  },
+  "options": {
+    "A": {
+      "en": "Antiangiogenic effect of IL-2",
+      "zh": "IL-2的抗血管生成作用"
+    },
+    "B": {
+      "en": "Direct damage to tumor cells by IL-2",
+      "zh": "IL-2对肿瘤细胞的直接损伤"
+    },
+    "C": {
+      "en": "IL-2 binding to Fc receptors on cytotoxic lymphocytes",
+      "zh": "IL-2与细胞毒性淋巴细胞上的Fc受体结合"
+    },
+    "D": {
+      "en": "Enhanced activity of natural killer cells",
+      "zh": "自然杀伤细胞活性的增强"
+    },
+    "E": {
+      "en": "Increased expression of PD-1 protein on CD8 T cells",
+      "zh": "CD8 T细胞上PD-1蛋白表达增加"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "High-dose interleukin-2 (IL-2) is a cytokine produced endogenously by activated CD4 cells, CD8 cells, and natural killer (NK) cells. High-dose IL-2 infusions can also be administered to patients with advanced renal cell carcinoma or metastatic melanoma in order to increase antitumor lymphocyte activity. \n\nCD4 cells: IL-2 converts activated CD4 cells into type 1 T-helper cells, which then secrete inflammatory cytokines (eg, IFN-gamma, TNF-alpha, IL-2) that drive an antitumor response.\n\nCD8 cells: IL-2 expands the pool of activated CD8 cells and increases their cytotoxic killing with granzymes and perforins.\n\nNK cells: IL-2 triggers proliferation of NK cells and dramatically increases their cytotoxic activity; most of the antitumor effect of IL-2 therapy comes from increased NK cell activity. {{exhibit_1}} \n\nAlthough patients with advanced renal cell carcinoma who undergo IL-2 therapy may enter long-lasting remission, high-dose IL-2 treatment is nonspecific and causes significant adverse effects due to excessive cytokine production (eg, capillary leak syndrome). Therefore, most patients are now treated with newer immunotherapy agents such as CTLA-4 inhibitors (eg, ipilimumab) or PD-1 protein inhibitors (eg, nivolumab) that deliver more targeted therapy and are better tolerated.\n\n(Choice A) Tumor hypoxia and lactic acid production increase release of vascular endothelial growth factor (VEGF), which promotes angiogenesis required for tumor growth. Therefore, anti-VEGF immunotherapy (eg, bevacizumab) can induce a potent antitumor response; it is often used for lung and colorectal cancer.\n\n(Choice B) Although CD8 and NK cells induce cell death via apoptosis, this effect is not mediated by direct binding of IL-2 to the tumor cell. Certain chemotherapy drugs (eg, etoposide, vincristine, cyclophosphamide) directly induce apoptosis by damaging tumor cell DNA, the cytoskeleton, or mitochondria.\n\n(Choice C) Monoclonal antibodies that target specific cell surface molecules on the tumor can induce tumor cell death via antibody-dependent cellular cytotoxicity. An example of this type of immunotherapy is alemtuzumab, a drug for chronic lymphocytic leukemia that targets a cell surface receptor (CD52) found primarily on mature lymphocytes. However, IL-2 does not directly interact with the Fc receptor on cytotoxic cells.\n\n(Choice E) Although IL-2 triggers CD8 cells to increase expression of the inhibitory receptor PD-1 (programmed cell death protein 1), engagement of this receptor leads to T-cell exhaustion, not increased antitumor activity. {{exhibit_2}}",
+    "zh": "高剂量白介素-2 (IL-2) 是一种由活化的CD4细胞、CD8细胞和自然杀伤 (NK) 细胞内源性产生的细胞因子。高剂量IL-2输注也可用于晚期肾细胞癌或转移性黑色素瘤患者，以增加抗肿瘤淋巴细胞的活性。\n\nCD4细胞：IL-2将活化的CD4细胞转化为1型T辅助细胞，然后分泌炎症细胞因子（如IFN-γ、TNF-α、IL-2），从而驱动抗肿瘤反应。\n\nCD8细胞：IL-2扩大活化CD8细胞的群体，并增加它们通过颗粒酶和穿孔素进行的细胞毒性杀伤。\n\nNK细胞：IL-2触发NK细胞的增殖，并显著增加其细胞毒活性；IL-2治疗的大部分抗肿瘤作用来自NK细胞活性的增加。{{exhibit_1}}\n\n尽管接受IL-2治疗的晚期肾细胞癌患者可能进入长期缓解期，但高剂量IL-2治疗是非特异性的，并由于细胞因子过度产生（例如毛细血管渗漏综合征）而导致显着的不良反应。因此，大多数患者现在使用更新的免疫治疗剂，如CTLA-4抑制剂（如伊匹单抗）或PD-1蛋白抑制剂（如纳武利尤单抗），这些药物提供更靶向的治疗，并且耐受性更好。\n\n（选项A）肿瘤缺氧和乳酸生成增加血管内皮生长因子 (VEGF) 的释放，从而促进肿瘤生长所需的血管生成。因此，抗VEGF免疫疗法（例如贝伐珠单抗）可以诱导强效的抗肿瘤反应；它常用于肺癌和结直肠癌。\n\n（选项B）虽然CD8和NK细胞通过细胞凋亡诱导细胞死亡，但这种作用并非由IL-2直接与肿瘤细胞结合介导。某些化疗药物（例如依托泊苷、长春新碱、环磷酰胺）通过损伤肿瘤细胞DNA、细胞骨架或线粒体而直接诱导细胞凋亡。\n\n（选项C）靶向肿瘤上特定细胞表面分子的单克隆抗体可以通过抗体依赖性细胞毒性作用诱导肿瘤细胞死亡。这种免疫疗法的一个例子是阿仑单抗，这是一种用于慢性淋巴细胞白血病的药物，它靶向主要存在于成熟淋巴细胞上的细胞表面受体（CD52）。然而，IL-2不直接与细胞毒性细胞上的Fc受体相互作用。\n\n（选项E）虽然IL-2触发CD8细胞增加抑制性受体PD-1（程序性细胞死亡蛋白1）的表达，但该受体的结合会导致T细胞衰竭，而不是增加抗肿瘤活性。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the mechanisms of action of high-dose interleukin-2 (IL-2) therapy in treating advanced renal cell carcinoma. Specifically, it assesses knowledge of how IL-2 enhances the immune system's ability to fight cancer, focusing on the role of different immune cells.\n\nTo solve this question, one must recall the primary effects of IL-2 on immune cells, particularly its role in activating and proliferating cytotoxic lymphocytes like NK cells and CD8 T cells. By understanding these pathways, the most likely mechanism for tumor regression can be identified from the given options.",
+    "zh": "本题测试对高剂量白介素-2 (IL-2) 治疗晚期肾细胞癌的作用机制的理解。具体而言，它评估了对IL-2如何增强免疫系统抵抗癌症的能力的知识，重点关注不同免疫细胞的作用。\n\n要解决这个问题，必须回忆IL-2对免疫细胞的主要作用，特别是它在激活和增殖细胞毒性淋巴细胞（如NK细胞和CD8 T细胞）中的作用。通过理解这些途径，可以从给定的选项中确定肿瘤消退最有可能的机制。"
+  },
+  "tags": "Renal cell carcinoma; Interleukin-2; Immunotherapy; Natural killer cells; Cytotoxic T lymphocytes; Tumor regression; Cytokines; Oncology",
+  "category": "Pharma",
+  "question_id": "8530",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\8530",
+  "extracted_at": "2025-11-05T19:45:47.527081",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:48:07.916926",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

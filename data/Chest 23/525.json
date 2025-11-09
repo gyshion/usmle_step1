@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 56-year-old man is evaluated for dyspnea, wheezing, and cough productive of yellow sputum. The patient reports that he has been treated with antibiotics when the dyspnea is severe. He has smoked 2 packs of cigarettes daily for the past 25 years. The schematic diagram below is a representation of a bronchial wall {{exhibit_1}}.",
+    "zh": "一名56岁男性因呼吸困难、喘息和咳黄色痰就诊。患者自诉在呼吸困难严重时曾接受过抗生素治疗。他过去25年来每天吸2包香烟。下图是支气管壁的示意图{{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following ratios is the best pathological index to determine the severity of this patient's disease?",
+    "zh": "以下哪种比例是确定该患者疾病严重程度的最佳病理指标？"
+  },
+  "options": {
+    "A": {
+      "en": "A / (A+B+C+D)",
+      "zh": "A / (A+B+C+D)"
+    },
+    "B": {
+      "en": "A / (A+B+C+D+E)",
+      "zh": "A / (A+B+C+D+E)"
+    },
+    "C": {
+      "en": "C / (B+C+D)",
+      "zh": "C / (B+C+D)"
+    },
+    "D": {
+      "en": "C / (A+B+C+D+E)",
+      "zh": "C / (A+B+C+D+E)"
+    },
+    "E": {
+      "en": "(B+C+D) / (A+B+C+D+E)",
+      "zh": "(B+C+D) / (A+B+C+D+E)"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient's dyspnea, wheezing, and productive cough in the setting of heavy smoking are consistent with CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD). Patients with COPD often have components of both chronic bronchitis and emphysema. CHONIC BRONCHITIS is characterized by increased mucus secretion and bronchial wall thickening with consequent narrowing of the bronchial lumen. Bronchial gland hyperplasia in the submucosa is the major contributor to bronchial wall thickening. The severity of this change can be measured by the Reid index {{exhibit_2}}. The Reid index is a pathologic tool that measures the ratio of the thickness of the submucosal glands to the thickness of the bronchial wall between the epithelial basement membrane and the bronchial cartilage. Higher values correlate with increased duration and severity of chronic bronchitis.\n\nHyperplasia of the submucosal bronchial glands is the major contributor to bronchial wall thickening in chronic bronchitis. The Reid index is the ratio of the thickness of the submucosal bronchial glands to the thickness of the bronchial wall between the epithelium and cartilage.",
+    "zh": "该患者在大量吸烟的情况下出现呼吸困难、喘息和咳痰，与慢性阻塞性肺病（COPD）一致。COPD患者通常同时存在慢性支气管炎和肺气肿的成分。慢性支气管炎的特征是黏液分泌增加和支气管壁增厚，导致支气管管腔狭窄。黏膜下支气管腺增生是支气管壁增厚的主要原因。这种变化的严重程度可以通过Reid指数{{exhibit_2}}来衡量。Reid指数是一种病理学工具，用于测量黏膜下腺体的厚度与上皮基底膜和支气管软骨之间支气管壁厚度的比率。较高的值与慢性支气管炎的病程和严重程度增加相关。\n\n黏膜下支气管腺增生是慢性支气管炎中支气管壁增厚的主要原因。Reid指数是黏膜下支气管腺体厚度与上皮和软骨之间支气管壁厚度的比率。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the Reid index, which is used to assess the severity of chronic bronchitis by measuring the ratio of submucosal gland thickness to bronchial wall thickness.\n\nTo solve this question, understand that the Reid index reflects the degree of bronchial gland hyperplasia, a key feature of chronic bronchitis. The correct ratio compares the thickness of the submucosal glands to the thickness of the bronchial wall between the epithelium and cartilage.",
+    "zh": "此题考察对Reid指数的知识，该指数用于通过测量黏膜下腺体厚度与支气管壁厚度的比率来评估慢性支气管炎的严重程度。\n\n为了解决这个问题，需要理解Reid指数反映了支气管腺体增生的程度，这是慢性支气管炎的一个关键特征。正确的比率比较了黏膜下腺体的厚度与上皮和软骨之间支气管壁的厚度。"
+  },
+  "tags": "Chronic bronchitis; COPD; Reid index; Bronchial gland hyperplasia; Pulmonary pathology; Respiratory system",
+  "category": "Chest",
+  "question_id": "525",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\525",
+  "extracted_at": "2025-11-05T11:46:00.094638",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:40:23.435009",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

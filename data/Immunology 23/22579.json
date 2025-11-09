@@ -1,0 +1,56 @@
+{
+  "question_stem": {
+    "en": "A 10-year-old boy is brought to the emergency department by his parents due to increasing lethargy and high fever for the past 12 hours. The boy was well last night but was sluggish this morning. Over the day, his activity level and responsiveness diminished. The patient was treated for *Neisseria meningitidis* bacteremia 2 years ago. He has received all routine vaccinations and is developing normally. Temperature is 39.6 C (103.3 F). On examination, the patient appears ill and is poorly responsive. He is tachycardic, but heart sounds are otherwise unremarkable. Lungs are clear to auscultation. Numerous purple bruise-like markings and petechiae are noted over his extremities, which have diminished capillary refill. Blood samples are drawn for total complement (CH50) and alternative complement (AH50) measurement. Which of the following sets of results is most likely to be found in this patient? {{exhibit_1}}",
+    "zh": "一名10岁男孩因过去12小时内日益加重的嗜睡和高烧而被父母带到急诊科。男孩昨晚还很好，但今天早上很迟钝。在这一天中，他的活动水平和反应能力下降。该患者2年前曾接受过脑膜炎奈瑟菌菌血症的治疗。他已接种所有常规疫苗，发育正常。体温为39.6摄氏度（103.3华氏度）。体格检查显示患者病情不佳，反应迟钝。他心动过速，但心脏听诊未见异常。肺部听诊清晰。注意到他的四肢上有许多紫色瘀伤样标记和瘀点，毛细血管充盈减弱。抽取血样用于总补体（CH50）和替代补体（AH50）的测量。该患者最有可能出现以下哪组结果？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following sets of results is most likely to be found in this patient?",
+    "zh": "该患者最有可能出现以下哪组结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Low Low",
+      "zh": "低 低"
+    },
+    "B": {
+      "en": "Low Normal",
+      "zh": "低 正常"
+    },
+    "C": {
+      "en": "Normal Low",
+      "zh": "正常 低"
+    },
+    "D": {
+      "en": "Normal Normal",
+      "zh": "正常 正常"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This boy's rapidly progressive illness with high fever and petechial rash raises strong suspicion for *Neisseria meningitidis* infection. The virulence of *N. meningitidis* is due to the presence of a polysaccharide capsule, which allows the organism to evade phagocytosis and immunoglobulin attachment. Because of these adaptations, initial control of infection is primarily mediated by activation of the alternative complement cascade, which is triggered when autoactivated C3 interacts with the surface of the bacteria and amplifies.\n\nActivation of the alternative pathway results in generation of the following:\n\n*   C3b: a powerful opsonin that binds to complement receptor 1 on erythrocytes and phagocytes, which increases phagocytosis by reticuloendothelial monocytes\n*   C3a and C5a: potent anaphylatoxins that recruit immune cells and drive a strong inflammatory response\n*   Membrane attack complexes (MACs): composed of the terminal complement proteins (C5-9), MACs generate a channel in the bacterial surface, leading to osmotic lysis of the organism\n\nMACs are the most important initial defense against encapsulated bacteria because they operate at high efficiency despite the presence of a capsule. Therefore, patients with deficits in any of the terminal complement proteins that generate the MAC are at very high risk for RECURRENT ENCAPSULATED BACTERIAL INFECTIONS (as seen in this patient). Laboratory evaluation of these patients will show REDUCED ACTIVITY of the classical (CH50) and alternative (AH50) complement cascades because all 3 complement pathways (classical, alternative, lectin) terminate in generation of MACs.\n\n(Choices B and C) Deficiency in complement proteins unique to the classical cascade (eg, C1q/r/s, C2, C4) will result in low CH50 and normal AH50 levels. In contrast, deficiency in complement proteins unique to the alternative cascade (eg, factor B, factor D) will result in normal CH50 and low AH50 levels. This patient's recurrent *N. meningitidis* infections are more characteristic of a terminal complement component deficiency.\n\n(Choice D) Patients with a defect in the lectin complement pathway (eg, mannose-binding lectin) will have normal CH50 and AH50 levels. Additional evaluation with the mannose-binding lectin test can usually reveal the presence of this abnormality.\n\nEducational objective:\nInitial control of encapsulated bacteria is largely reliant on the formation of membrane attack complexes (MACs) due to activation of the alternative complement cascade. Patients with deficiency in the proteins that generate MACs (C5-9) are at high risk for recurrent encapsulated bacterial infection; evaluation will show reduced activity of the classical (CH50) and alternative (AH50) complement cascades.",
+    "zh": "这名男孩的病情进展迅速，伴有高烧和瘀点皮疹，强烈提示*脑膜炎奈瑟菌*感染。*N. meningitidis*的毒力是由于存在多糖荚膜，这使得该生物体能够逃避吞噬作用和免疫球蛋白的附着。由于这些适应，感染的初始控制主要由替代补体级联反应的激活介导，当自激活的C3与细菌表面相互作用并放大时，会触发该级联反应。\n\n替代途径的激活导致产生以下物质：\n\n*   C3b：一种强大的调理素，与红细胞和吞噬细胞上的补体受体1结合，增加网状内皮单核细胞的吞噬作用\n*   C3a和C5a：强效过敏毒素，可募集免疫细胞并驱动强烈的炎症反应\n*   膜攻击复合物（MACs）：由末端补体蛋白（C5-9）组成，MACs在细菌表面产生一个通道，导致该生物体的渗透溶解\n\nMACs是抵抗包膜细菌最重要的初始防御，因为它们即使在荚膜存在的情况下也能高效运作。因此，任何产生MAC的末端补体蛋白缺陷的患者都面临复发性包膜细菌感染的极高风险（如本患者所示）。对这些患者的实验室评估将显示经典（CH50）和替代（AH50）补体级联反应的活性降低，因为所有3条补体途径（经典、替代、凝集素）均终止于MAC的产生。\n\n（选项B和C）经典途径独有的补体蛋白（例如，C1q/r/s、C2、C4）缺陷将导致CH50降低和AH50正常。相反，替代途径独有的补体蛋白（例如，因子B、因子D）缺陷将导致CH50正常和AH50降低。该患者的复发性*N. meningitidis*感染更具末端补体成分缺陷的特征。\n\n（选项D）凝集素补体途径（例如，甘露糖结合凝集素）缺陷的患者将具有正常的CH50和AH50水平。使用甘露糖结合凝集素试验的额外评估通常可以揭示这种异常的存在。\n\n教育目标：\n包膜细菌的初始控制在很大程度上依赖于膜攻击复合物（MACs）的形成，这是由于替代补体级联反应的激活。产生MAC的蛋白（C5-9）缺陷的患者发生复发性包膜细菌感染的风险很高；评估将显示经典（CH50）和替代（AH50）补体级联反应的活性降低。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of complement deficiencies, specifically terminal complement deficiencies (C5-C9) and their association with recurrent encapsulated bacterial infections like Neisseria meningitidis. It assesses the ability to interpret complement assay results (CH50 and AH50) in the context of a clinical presentation suggestive of such an infection. \n\nThe key to solving this question is recognizing the patient's history of Neisseria meningitidis bacteremia, the presence of petechiae, and the likely underlying terminal complement deficiency. Understanding that terminal complement deficiencies affect both classical and alternative complement pathways, leading to low CH50 and AH50 levels, is crucial for selecting the correct answer.",
+    "zh": "这个问题测试对补体缺陷的了解，特别是末端补体缺陷（C5-C9）及其与复发性包膜细菌感染（如脑膜炎奈瑟菌）的关联。它评估了在提示此类感染的临床表现的背景下解释补体检测结果（CH50和AH50）的能力。\n\n解决此问题的关键是认识到患者的脑膜炎奈瑟菌菌血症病史、瘀点的存在以及可能潜在的末端补体缺陷。了解末端补体缺陷会影响经典和替代补体途径，导致CH50和AH50水平降低，这对于选择正确答案至关重要。"
+  },
+  "tags": "Complement deficiency; Neisseria meningitidis; Encapsulated bacteria; CH50; AH50; Terminal complement; Membrane attack complex; Infectious disease; Immunology; Pediatrics",
+  "category": "Immunology",
+  "question_id": "22579",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\22579",
+  "extracted_at": "2025-11-05T14:44:53.531533",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:02:20.446330",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

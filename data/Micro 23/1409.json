@@ -1,0 +1,69 @@
+{
+  "question_stem": {
+    "en": "A previously healthy 2-year-old boy is brought to the clinic with fever and mouth pain that began yesterday. He has consumed an adequate amount of fluids but refuses to eat due to the pain. The patient has no medical problems and takes no medications. Physical examination reveals vesicular, inflamed lesions on the gums and lips. There are no lesions in the posterior oropharynx. He has enlarged and tender cervical lymph nodes. The rest of the examination is unremarkable.",
+    "zh": "一名先前健康的2岁男孩因发烧和口腔疼痛被带到诊所，症状始于昨天。他摄入了足够量的液体，但由于疼痛而拒绝进食。患者没有医疗问题，也没有服用任何药物。体格检查显示牙龈和嘴唇上有水疱样炎症性病变。后咽部没有病变。他有肿大和触痛的颈部淋巴结。其余检查无特殊发现。"
+  },
+  "question": {
+    "en": "Which of the following is most likely responsible for this patient's condition?",
+    "zh": "以下哪项最有可能导致该患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "DNA virus, double-stranded, enveloped",
+      "zh": "DNA病毒，双链，有包膜"
+    },
+    "B": {
+      "en": "DNA virus, double-stranded, non-enveloped",
+      "zh": "DNA病毒，双链，无包膜"
+    },
+    "C": {
+      "en": "DNA virus, single-stranded, non-enveloped",
+      "zh": "DNA病毒，单链，无包膜"
+    },
+    "D": {
+      "en": "RNA virus, double-stranded, non-enveloped",
+      "zh": "RNA病毒，双链，无包膜"
+    },
+    "E": {
+      "en": "RNA virus, single-stranded, negative-sense",
+      "zh": "RNA病毒，单链，负链"
+    },
+    "F": {
+      "en": "RNA virus, single-stranded, positive-sense",
+      "zh": "RNA病毒，单链，正链"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The patient presents with fever, mouth pain, and vesicular, inflamed lesions on the gums and lips, along with enlarged and tender cervical lymph nodes. This clinical presentation is highly suggestive of GINGIVOSTOMATITIS, which is most commonly caused by HERPES SIMPLEX VIRUS TYPE 1 (HSV-1). HSV-1 is a DNA virus that is double-stranded and enveloped. The lesions on the gums and lips, along with the fever and lymphadenopathy, are classic signs of primary herpetic gingivostomatitis in children. {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}\n\n(Choice B) Adenovirus is a double-stranded, non-enveloped DNA virus that typically causes self-limited upper respiratory infection or gastroenteritis. While it can cause pharyngitis, the vesicular lesions on the gums and lips are not characteristic.\n(Choice C) Parvovirus B19 is a single-stranded, non-enveloped DNA virus that causes erythema infectiosum (fifth disease), characterized by a \"slapped-cheek\" rash and lacy reticular rash on the extremities. It does not typically cause oral vesicular lesions.\n(Choice D) Rotavirus is a double-stranded, non-enveloped RNA virus that is a common cause of gastroenteritis in children, characterized by profuse, watery diarrhea. It is not associated with oral vesicular lesions.\n(Choices E and F) Coxsackieviruses are single-stranded RNA viruses (either positive-sense or negative-sense) that can cause HAND, FOOT, AND MOUTH DISEASE or HERPANGINA. Hand, foot, and mouth disease typically presents with vesicular lesions on the hands, feet, and mouth, but the lesions are often more widespread and may involve the posterior oropharynx, which is noted to be clear in this patient. Herpangina typically involves posterior pharyngeal lesions and is less likely to cause extensive gingival and labial lesions.\n\nKey clinical pearls:\n- HSV-1 is the most common cause of primary herpetic gingivostomatitis in children.\n- Lesions of gingivostomatitis are typically vesicular and inflamed, affecting the gums and lips.\n- Fever and cervical lymphadenopathy are common systemic symptoms.\n- Differentiating from Hand, Foot, and Mouth Disease is important; HSV lesions are typically more confluent on the gingiva and lips, while HFMD lesions are more commonly on extremities and may involve the posterior oropharynx.",
+    "zh": "患者表现为发烧、口腔疼痛、牙龈和嘴唇上出现水疱样炎症性病变，以及肿大和触痛的颈部淋巴结。这种临床表现高度提示为龈口炎，最常见的原因是单纯疱疹病毒1型（HSV-1）。HSV-1是一种DNA病毒，双链，有包膜。牙龈和嘴唇上的病变，以及发烧和淋巴结病，是儿童原发性疱疹性龈口炎的典型体征。{{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}\n\n(选项B) 腺病毒是一种双链、无包膜的DNA病毒，通常引起自限性上呼吸道感染或胃肠炎。虽然它可以引起咽炎，但牙龈和嘴唇上的水疱样病变并非其特征。\n(选项C) B19细小病毒是一种单链、无包膜的DNA病毒，引起传染性红斑（第五病），其特征是“拍打脸颊”样皮疹和四肢上的网状皮疹。它通常不会引起口腔水疱样病变。\n(选项D) 轮状病毒是一种双链、无包膜的RNA病毒，是儿童胃肠炎的常见原因，其特征是大量的、水样腹泻。它与口腔水疱样病变无关。\n(选项E和F) 柯萨奇病毒是单链RNA病毒（正链或负链），可引起手足口病或疱疹性咽峡炎。手足口病通常表现为手、足和口腔出现水疱样病变，但这些病变通常更广泛，可能涉及后咽，而该患者的后咽部被发现是干净的。疱疹性咽峡炎通常涉及后咽部病变，且不太可能引起广泛的牙龈和唇部病变。\n\n关键临床要点：\n- HSV-1是儿童原发性疱疹性龈口炎最常见的原因。\n- 龈口炎的病变通常是水疱样和发炎的，影响牙龈和嘴唇。\n- 发烧和颈部淋巴结病是常见的全身症状。\n- 与手足口病的鉴别很重要；HSV病变通常在牙龈和嘴唇上更融合，而HFMD病变更常见于四肢，并可能涉及后咽。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of viral etiologies of oral lesions in children, specifically differentiating between herpes simplex virus and other common viral pathogens based on clinical presentation. It requires knowledge of viral classification (DNA/RNA, strandedness, enveloped/non-enveloped) and associated diseases.\n\nTo solve this question, one must first identify the most likely diagnosis based on the described clinical features (fever, mouth pain, vesicular lesions on gums and lips, lymphadenopathy). Then, recall the causative agent of that diagnosis and its viral characteristics to select the correct option. Ruling out other differential diagnoses based on their typical presentations is also a key strategy.",
+    "zh": "本题考察对儿童口腔病变的病毒病因学的理解，特别是根据临床表现区分单纯疱疹病毒和其他常见病毒病原体。它需要了解病毒分类（DNA/RNA，单链/双链，有包膜/无包膜）和相关疾病。\n\n要解决这个问题，首先必须根据描述的临床特征（发烧、口腔疼痛、牙龈和嘴唇上的水疱样病变、淋巴结病）确定最可能的诊断。然后，回忆该诊断的病原体及其病毒特征，以选择正确的选项。根据其他鉴别诊断的典型表现将其排除也是一个关键策略。"
+  },
+  "tags": "Herpes simplex virus; Gingivostomatitis; DNA virus; Enveloped virus; Pediatric infectious diseases; Viral classification; Hand, Foot, and Mouth Disease; Herpangina",
+  "category": "Micro",
+  "question_id": "1409",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1409",
+  "extracted_at": "2025-11-05T19:24:18.368744",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:07:03.090353",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

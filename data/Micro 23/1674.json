@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old man comes to the office for follow-up. He was diagnosed with HIV several weeks ago following a hospitalization for *Pneumocystis* pneumonia. He has no other medical problems. His HIV drug susceptibility report shows no evidence of resistance. The patient's treatment regimen includes a drug that is structurally unrelated to nucleosides and is not phosphorylated intracellularly. The drug acts within the cytoplasm of infected cells to inhibit the synthesis of viral DNA from the RNA template.",
+    "zh": "一名25岁男性前来复诊。几周前，因肺孢子虫肺炎住院后，他被诊断为HIV。他没有其他疾病。他的HIV药物敏感性报告显示没有耐药的证据。患者的治疗方案包括一种在结构上与核苷类药物无关，且不在细胞内磷酸化的药物。该药物在受感染细胞的细胞质内发挥作用，抑制病毒DNA从RNA模板合成。"
+  },
+  "question": {
+    "en": "Which of the following agents was most likely used in this patient?",
+    "zh": "以下哪种药物最有可能用于该患者？"
+  },
+  "options": {
+    "A": {
+      "en": "Emtricitabine",
+      "zh": "恩曲他滨"
+    },
+    "B": {
+      "en": "Enfuvirtide",
+      "zh": "恩夫韦肽"
+    },
+    "C": {
+      "en": "Nevirapine",
+      "zh": "奈韦拉平"
+    },
+    "D": {
+      "en": "Ritonavir",
+      "zh": "利托那韦"
+    },
+    "E": {
+      "en": "Zidovudine",
+      "zh": "齐多夫定"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Retroviral reverse transcriptase inhibitors prevent the synthesis of viral DNA from the RNA template. {{exhibit_1}} Nonnucleoside reverse transcriptase inhibitors (NNRTIs) do *not* require activation via intracellular phosphorylation. The more common NNRTIs include nevirapine and efavirenz. They are best used in conjunction with other antiretroviral agents for the treatment of HIV infection.\n\nAdverse effects are common with NNRTIs. Abrupt-onset flulike symptoms, abdominal pain, jaundice, or fever may indicate potentially life-threatening hepatic failure (most likely to occur within the first 6 weeks of NNRTI therapy). Life-threatening skin reactions (eg, Stevens-Johnson syndrome, toxic epidermal necrolysis) have also been observed.\n\n(Choice A and E) Zidovudine and emtricitabine are nucleoside reverse transcriptase inhibitors (NRTIs). In general, NRTIs must be converted into their monophosphate forms by a cellular kinase (cellular thymidine kinase) before they can be converted into pharmacologically active triphosphate forms.\n\n(Choice B) Enfuvirtide is an HIV fusion inhibitor that binds to HIV envelope gp41 and blocks the conformational changes necessary for the fusion of viral and cellular membranes. Through this mechanism, enfuvirtide denies the HIV genome entry into uninfected CD4+ T-cells. Its main site of action is outside the cytoplasm.\n\n(Choice D) Ritonavir is an inhibitor of HIV protease that prevents assembly and maturation of the virus. Nonfunctional, noninfectious virions are produced instead. Reverse transcription is not affected.\n\nEducational objective:\nNonnucleoside reverse transcriptase inhibitors (NNRTIs) are antiretroviral drugs that do not require activation via intracellular phosphorylation. The more common NNRTIs include nevirapine and efavirenz.",
+    "zh": "逆转录病毒逆转录酶抑制剂可阻止病毒DNA从RNA模板合成。{{exhibit_1}} 非核苷类逆转录酶抑制剂 (NNRTIs) *不需要* 通过细胞内磷酸化来激活。 较常见的 NNRTIs 包括奈韦拉平和依非韦伦。 它们最好与其他抗逆转录病毒药物联合使用，用于治疗 HIV 感染。\n\nNNRTIs 的不良反应很常见。 突然发作的流感样症状、腹痛、黄疸或发烧可能表明可能危及生命的肝衰竭（最有可能发生在 NNRTI 治疗的头 6 周内）。 也有观察到危及生命的皮肤反应（如，Stevens-Johnson 综合征、中毒性表皮坏死松解症）。\n\n（选项 A 和 E）齐多夫定和恩曲他滨是核苷类逆转录酶抑制剂 (NRTIs)。一般来说，NRTIs 必须由细胞激酶（细胞胸苷激酶）转化为它们的单磷酸形式，然后才能转化为具有药理活性的三磷酸形式。\n\n（选项 B）恩夫韦肽是一种 HIV 融合抑制剂，与 HIV 包膜 gp41 结合，阻断病毒和细胞膜融合所需的构象变化。通过这种机制，恩夫韦肽阻止 HIV 基因组进入未感染的 CD4+ T 细胞。它的主要作用部位位于细胞质外。\n\n（选项 D）利托那韦是一种 HIV 蛋白酶抑制剂，可阻止病毒的组装和成熟。 取而代之的是产生无功能的、无感染性的病毒体。 逆转录不受影响。\n\n教学目标：\n非核苷类逆转录酶抑制剂 (NNRTIs) 是不需要通过细胞内磷酸化来激活的抗逆转录病毒药物。 较常见的 NNRTIs 包括奈韦拉平和依非韦伦。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of HIV antiviral medications, specifically the mechanism of action of non-nucleoside reverse transcriptase inhibitors (NNRTIs). It requires understanding that NNRTIs do not require intracellular phosphorylation for activation and act within the cytoplasm to inhibit viral DNA synthesis from the RNA template.\n\nTo solve this question, identify the key characteristics of the drug described in the question stem: structurally unrelated to nucleosides, not phosphorylated intracellularly, and inhibits viral DNA synthesis. Match these characteristics to the mechanism of action of the answer choices, recognizing that NNRTIs like nevirapine fit the description.",
+    "zh": "这道题考察了对 HIV 抗病毒药物的了解，特别是非核苷类逆转录酶抑制剂 (NNRTIs) 的作用机制。它需要理解 NNRTIs 不需要细胞内磷酸化来激活，并在细胞质内发挥作用以抑制病毒 DNA 从 RNA 模板合成。\n\n要解决这个问题，需要识别问题干中描述的药物的关键特征：在结构上与核苷类药物无关，不在细胞内磷酸化，并且抑制病毒 DNA 合成。 将这些特征与答案选项的作用机制进行匹配，认识到像奈韦拉平这样的 NNRTIs 符合描述。"
+  },
+  "tags": "HIV; Antiretroviral therapy; Non-nucleoside reverse transcriptase inhibitors (NNRTIs); Nevirapine; Viral replication; Pharmacology; Infectious Diseases",
+  "category": "Micro",
+  "question_id": "1674",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1674",
+  "extracted_at": "2025-11-05T15:01:48.392034",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:10:08.440982",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

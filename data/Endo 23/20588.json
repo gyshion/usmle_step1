@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 50-year-old man comes to the office following transsphenoidal resection of a growth hormone–secreting pituitary adenoma. Three months ago, the patient was diagnosed with acromegaly. MRI of the pituitary showed a 14-mm sellar mass pressing on the optic chiasm and extending into the right cavernous sinus. The surgeon was able to only partially resect the pituitary mass because of the extension into the right cavernous sinus. Medical therapy for acromegaly with octreotide is planned. Which of the following changes are likely to occur following octreotide treatment in this patient? {{exhibit_1}}",
+    "zh": "一名50岁男性在经蝶窦切除生长激素分泌型垂体腺瘤后前来就诊。三个月前，该患者被诊断为肢端肥大症。垂体MRI显示一个14毫米的鞍内肿块压迫视交叉并延伸至右侧海绵窦。由于肿瘤延伸至右侧海绵窦，外科医生只能部分切除垂体肿块。计划使用奥曲肽治疗肢端肥大症。在该患者接受奥曲肽治疗后，以下哪项改变最有可能发生？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following changes are likely to occur following octreotide treatment in this patient?",
+    "zh": "在该患者接受奥曲肽治疗后，以下哪项改变最有可能发生？"
+  },
+  "options": {
+    "A": {
+      "en": "Adenoma size: Decrease; Growth hormone level: Decrease; Insulin-like growth factor-1 level: Decrease",
+      "zh": "腺瘤大小：减小；生长激素水平：降低；胰岛素样生长因子-1水平：降低"
+    },
+    "B": {
+      "en": "Adenoma size: Decrease; Growth hormone level: No change; Insulin-like growth factor-1 level: Decrease",
+      "zh": "腺瘤大小：减小；生长激素水平：无变化；胰岛素样生长因子-1水平：降低"
+    },
+    "C": {
+      "en": "Adenoma size: Decrease; Growth hormone level: No change; Insulin-like growth factor-1 level: Increase",
+      "zh": "腺瘤大小：减小；生长激素水平：无变化；胰岛素样生长因子-1水平：升高"
+    },
+    "D": {
+      "en": "Adenoma size: No change; Growth hormone level: No change; Insulin-like growth factor-1 level: Decrease",
+      "zh": "腺瘤大小：无变化；生长激素水平：无变化；胰岛素样生长因子-1水平：降低"
+    },
+    "E": {
+      "en": "Adenoma size: Decrease; Growth hormone level: Decrease; Insulin-like growth factor-1 level: No change",
+      "zh": "腺瘤大小：减小；生长激素水平：降低；胰岛素样生长因子-1水平：无变化"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Acromegaly is characterized by the excessive secretion of growth hormone (GH), usually due to a somatotroph pituitary adenoma. The actions of GH are mediated primarily by insulin-like growth factor-1 (IGF-1) from the liver; classic manifestations include bony enlargement of the hands and skull (eg, frontal bossing, jaw malocclusion), arthropathy, cardiomyopathy, and skin thickening. In most cases, initial treatment includes transsphenoidal resection of the tumor. However, if the tumor is unresectable or incompletely resected, the phenotypic manifestations may progress. For these patients, additional medical therapy is indicated.\n\nOctreotide is a long-acting octapeptide somatostatin analogue that has an altered amino acid sequence in the non-receptor binding domain, which makes it more resistant to degradation than native somatostatin. Like somatostatin, octreotide has a broad range of antisecretory actions mediated by membrane receptors. In patients with acromegaly, it inhibits GH secretion and subsequently reduces IGF-1 release, which can mitigate many of the clinical manifestations of the disease. It also exerts an anti-proliferative effect on somatotroph cells and helps reduce residual adenoma size in many patients (Choice E).\n\n(Choices B and D) Pegvisomant is a competitive inhibitor of GH that blocks the binding of GH to its receptor. This drug reduces GH-induced IGF-1 secretion and the subsequent downstream effects but does not alter GH secretion. Adenoma size may remain stable or increase somewhat.\n\n(Choice C) Medical treatment (eg, octreotide) is indicated for patients with incompletely resected somatotroph adenomas because, without treatment, the residual tissue will likely continue to grow and secrete GH, inducing a rise in IGF-1 levels. {{exhibit_2}}",
+    "zh": "肢端肥大症的特征是生长激素(GH)过度分泌，通常是由于促生长激素细胞垂体腺瘤所致。GH的作用主要由肝脏产生的胰岛素样生长因子-1(IGF-1)介导；典型表现包括手和颅骨的骨骼增大（例如，额隆、下颌咬合不正），关节病，心肌病和皮肤增厚。在大多数情况下，初始治疗包括经蝶窦肿瘤切除术。然而，如果肿瘤不可切除或未完全切除，表型表现可能会进展。对于这些患者，需要额外的药物治疗。\n\n奥曲肽是一种长效八肽生长抑素类似物，其非受体结合结构域的氨基酸序列发生了改变，这使得它比天然生长抑素更耐降解。与生长抑素一样，奥曲肽具有通过膜受体介导的广泛的抑制分泌作用。在肢端肥大症患者中，它抑制GH的分泌，并随后减少IGF-1的释放，这可以减轻该疾病的许多临床表现。它还对促生长激素细胞产生抗增殖作用，并有助于降低许多患者的残留腺瘤大小(选项E)。\n\n(选项B和D) 培维索单抗是一种GH的竞争性抑制剂，可阻断GH与其受体的结合。这种药物减少了GH诱导的IGF-1分泌以及随后的下游效应，但不会改变GH的分泌。腺瘤大小可能保持稳定或略有增加。\n\n(选项C) 对于未完全切除促生长激素细胞腺瘤的患者，应进行药物治疗（例如，奥曲肽），因为如果不治疗，残留组织可能会继续生长并分泌GH，从而导致IGF-1水平升高。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of acromegaly treatment, specifically the mechanism of action and expected effects of octreotide on adenoma size, growth hormone levels, and IGF-1 levels. It requires understanding the pathophysiology of acromegaly and the pharmacological effects of somatostatin analogues.\n\nTo solve this question, recall that octreotide is a somatostatin analogue that inhibits growth hormone secretion, leading to decreased IGF-1 levels and potential reduction in adenoma size. Eliminate options that do not reflect these expected changes.",
+    "zh": "本题考察对肢端肥大症治疗的了解，特别是奥曲肽对腺瘤大小、生长激素水平和IGF-1水平的作用机制和预期影响。这需要理解肢端肥大症的病理生理学和生长抑素类似物的药理作用。\n\n为了解决这个问题，回想一下奥曲肽是一种生长抑素类似物，可抑制生长激素的分泌，导致IGF-1水平降低和腺瘤大小的潜在减小。排除那些未反映这些预期变化的选项。"
+  },
+  "tags": "Acromegaly; Growth hormone; IGF-1; Octreotide; Somatostatin analogues; Pituitary adenoma; Endocrinology; Medical treatment",
+  "category": "Endo",
+  "question_id": "20588",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\20588",
+  "extracted_at": "2025-11-05T14:06:23.363586",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:40:43.518140",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

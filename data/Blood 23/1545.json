@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old man is brought to the emergency department after collapsing in his garage. He recently bought a classic 1960s convertible and was repairing it when he collapsed. The patient was inside the garage but had the door half-open. He lost consciousness after working on the car for 2 hours with the engine running. The patient has no known medical problems and takes no medications. He does not use tobacco, alcohol, or illicit drugs.",
+    "zh": "一名35岁男性因在车库内晕倒被送至急诊科。他最近买了一辆1960年代的经典敞篷车，在修理时晕倒。患者当时在车库内，但车库门半开着。他在发动机运转的情况下工作了2小时后失去意识。该患者没有已知的健康问题，也没有服用任何药物。他不吸烟、不饮酒，也不使用违禁药物。"
+  },
+  "question": {
+    "en": "Which of the following best reflects the combination of findings that would have been expected in an arterial blood sample taken when the patient lost consciousness? {{exhibit_1}}",
+    "zh": "以下哪项最能反映患者失去意识时采集的动脉血样本中预期的组合结果？ {{exhibit_1}}"
+  },
+  "options": {
+    "A": {
+      "en": "Carboxyhemoglobin (%)[normal = 0-2] 2; PaO2 (mm Hg) [normal = 85-100] 95; Methemoglobin (%) [normal = 0-1] 30",
+      "zh": "碳氧血红蛋白（%）[正常值= 0-2] 2；PaO2（毫米汞柱）[正常值= 85-100] 95；高铁血红蛋白（%）[正常值= 0-1] 30"
+    },
+    "B": {
+      "en": "Carboxyhemoglobin (%)[normal = 0-2] 35; PaO2 (mm Hg) [normal = 85-100] 45; Methemoglobin (%) [normal = 0-1] 1",
+      "zh": "碳氧血红蛋白（%）[正常值= 0-2] 35；PaO2（毫米汞柱）[正常值= 85-100] 45；高铁血红蛋白（%）[正常值= 0-1] 1"
+    },
+    "C": {
+      "en": "Carboxyhemoglobin (%)[normal = 0-2] 35; PaO2 (mm Hg) [normal = 85-100] 45; Methemoglobin (%) [normal = 0-1] 25",
+      "zh": "碳氧血红蛋白（%）[正常值= 0-2] 35；PaO2（毫米汞柱）[正常值= 85-100] 45；高铁血红蛋白（%）[正常值= 0-1] 25"
+    },
+    "D": {
+      "en": "Carboxyhemoglobin (%)[normal = 0-2] 40; PaO2 (mm Hg) [normal = 85-100] 95; Methemoglobin (%) [normal = 0-1] 1",
+      "zh": "碳氧血红蛋白（%）[正常值= 0-2] 40；PaO2（毫米汞柱）[正常值= 85-100] 95；高铁血红蛋白（%）[正常值= 0-1] 1"
+    },
+    "E": {
+      "en": "Carboxyhemoglobin (%)[normal = 0-2] 40; PaO2 (mm Hg) [normal = 85-100] 95; Methemoglobin (%) [normal = 0-1] 25",
+      "zh": "碳氧血红蛋白（%）[正常值= 0-2] 40；PaO2（毫米汞柱）[正常值= 85-100] 95；高铁血红蛋白（%）[正常值= 0-1] 25"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Carbon monoxide (CO) is a colorless, odorless gas product of the combustion of carbon-containing compounds. CO poisoning can occur after exposure to automobile exhaust (especially in older cars without catalytic converters), fire smoke, or improperly vented natural gas appliances. CO has 2 major effects on oxygen delivery to tissues:\n\n1.  CO binds to hemoglobin with an affinity approximately 250 times that of oxygen, reducing the number of heme binding sites available to oxygen. As a result, levels of CO-bound hemoglobin, represented by carboxyhemoglobin (HBCO), increase. By decreasing the fraction of hemoglobin available for oxygen binding, CO decreases the oxygen-carrying capacity and oxygen content of blood, but not the amount of oxygen dissolved in plasma, reflected by the partial pressure of oxygen (PaO2).\n2.  CO poisoning causes a leftward shift of the hemoglobin-oxygen dissociation curve, reflecting a decreased tendency for oxygen to unload in the tissues.\n\nCO's effects on arterial blood oxygen content are seen in the graphs below, which show the lower oxygen content with CO poisoning (similar to anemia) and the leftward shift of the dissociation curve that becomes increasingly more pronounced at increasingly higher HBCO concentrations (this does not occur with anemia).\n\n(Choices A, B, C, and E) CO poisoning does not affect PaO2 and it does not cause methemoglobinemia. Methemoglobin is formed when the Fe2+ (ferrous iron) in heme is oxidized to Fe3+ (ferric iron). Methemoglobinemia results from drug exposures (ie, dapsone, nitrites) as well as enzyme deficiencies and hemoglobinopathies.\n\nEducational objective:\nCarbon monoxide (CO) binds to hemoglobin with much higher affinity than oxygen, thereby preventing oxygen binding to hemoglobin. It also reduces oxygen unloading from hemoglobin in the tissues. CO poisoning increases carboxyhemoglobin concentrations but does not affect the partial pressure of oxygen and does not precipitate methemoglobinemia.",
+    "zh": "一氧化碳（CO）是一种无色、无味的气体，是含碳化合物燃烧的产物。 一氧化碳中毒可能发生在接触汽车尾气（尤其是在没有催化转化器的旧车中）、烟雾或通风不良的天然气设备后。 CO对组织供氧有两个主要影响：\n\n1.  CO与血红蛋白结合的亲和力约为氧气的250倍，从而减少了可供氧气结合的血红素结合位点数量。 因此，与CO结合的血红蛋白水平（以碳氧血红蛋白（HBCO）表示）增加。 通过减少可用于氧气结合的血红蛋白的比例，CO降低了血液的载氧能力和氧含量，但不会影响血浆中溶解的氧气量，这反映在氧分压（PaO2）中。\n2.  CO中毒导致血红蛋白-氧解离曲线左移，反映了氧气在组织中释放的趋势降低。\n\nCO对动脉血氧含量的影响见下图，显示CO中毒时氧含量较低（类似于贫血），并且解离曲线左移在HBCO浓度越高时越明显（这不会发生在贫血中）。\n\n（选项 A、B、C 和 E）CO中毒不影响PaO2，也不会引起高铁血红蛋白血症。当血红素中的Fe2+（亚铁）被氧化成Fe3+（铁）时，会形成高铁血红蛋白。 高铁血红蛋白血症是由药物暴露（如氨苯砜、亚硝酸盐）以及酶缺乏症和血红蛋白病引起的。\n\n教育目标：\n一氧化碳（CO）与血红蛋白的结合亲和力远高于氧气，从而阻止氧气与血红蛋白结合。 它还会减少氧气从组织中的血红蛋白中释放。 一氧化碳中毒会增加碳氧血红蛋白浓度，但不影响氧分压，也不会引起高铁血红蛋白血症。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of carbon monoxide poisoning, its effects on arterial blood gases, and the resulting changes in carboxyhemoglobin, PaO2, and methemoglobin levels. It requires understanding the pathophysiology of CO poisoning and its impact on oxygen delivery to tissues.\n\nThe best approach is to recognize the scenario as carbon monoxide poisoning based on the patient's history of working in a garage with a running car. Then, recall that CO poisoning increases carboxyhemoglobin levels while PaO2 and methemoglobin levels remain relatively normal.",
+    "zh": "此问题考察对一氧化碳中毒的认识、其对动脉血气的影响以及由此导致的碳氧血红蛋白、PaO2和高铁血红蛋白水平的变化。 它需要理解CO中毒的病理生理学及其对组织供氧的影响。\n\n最好的方法是根据患者在车库内用正在运转的汽车工作的病史，将这种情况识别为一氧化碳中毒。 然后，回忆起CO中毒会增加碳氧血红蛋白水平，而PaO2和高铁血红蛋白水平保持相对正常。"
+  },
+  "tags": "Carbon monoxide poisoning; Carboxyhemoglobin; Arterial blood gas; Hypoxia; Toxicology; Emergency medicine",
+  "category": "Blood",
+  "question_id": "1545",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1545",
+  "extracted_at": "2025-11-05T11:25:26.966938",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:27:59.617726",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

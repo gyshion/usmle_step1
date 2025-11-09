@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man with a history of chronic gastroesophageal reflux comes to the clinic due to dysphagia. The patient has had difficulty swallowing foods such as steak or hard-boiled eggs but is able to drink hot tea and coffee without any issues. Increasing the frequency of his proton pump inhibitor to twice daily did not improve symptoms. He has also lost 6.8 kg (15 lb) over the past 4 months. The patient has a history of hypertension, hyperlipidemia, and osteoarthritis. Medications include amlodipine, atorvastatin, and ibuprofen as needed. He drinks 2 or 3 glasses of wine with dinner most nights but does not use tobacco or illicit drugs. Vital signs are within normal limits. BMI is 32 kg/m². Physical examination is unremarkable. Esophagogastroduodenoscopy reveals a 4-cm mass surrounded by a large segment of discolored mucosa in the lower half of the esophagus. Esophagogastrectomy results are shown in the image below: {{exhibit_1}}",
+    "zh": "一名有慢性胃食管反流病史的65岁男性因吞咽困难就诊。患者吞咽牛排或煮鸡蛋等食物有困难，但饮用热茶和咖啡没有任何问题。将质子泵抑制剂的服用频率增加到每天两次并不能改善症状。在过去的4个月里，他还减重6.8公斤（15磅）。患者有高血压、高脂血症和骨关节炎病史。用药包括氨氯地平、阿托伐他汀和布洛芬（按需）。他每晚晚餐喝2到3杯葡萄酒，但不吸烟或使用违禁药物。生命体征在正常范围内。BMI为32 kg/m²。体格检查无特殊发现。食管胃十二指肠镜检查显示，食管下半部分有一个4厘米的肿块，周围有一大段变色的粘膜。食管胃切除术结果如下图所示：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely predisposing factor for this patient's esophageal disease?",
+    "zh": "以下哪项是该患者食管疾病最可能的易感因素？"
+  },
+  "options": {
+    "A": {
+      "en": "Alcohol use",
+      "zh": "饮酒"
+    },
+    "B": {
+      "en": "Chronic nonsteroidal anti-inflammatory drug use",
+      "zh": "长期使用非甾体类抗炎药"
+    },
+    "C": {
+      "en": "Helicobacter pylori infection",
+      "zh": "幽门螺杆菌感染"
+    },
+    "D": {
+      "en": "Obesity",
+      "zh": "肥胖"
+    },
+    "E": {
+      "en": "Repeated thermal injury",
+      "zh": "反复热损伤"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with chronic gastroesophageal reflux disease (GERD) now has dysphagia with solid foods, weight loss, and a mass in his lower esophagus, raising strong suspicion for ESOPHAGEAL ADENOCARCINOMA. Most cases of esophageal adenocarcinoma arise in the setting of BARRETT ESOPHAGUS, a metaplastic condition whereby the normal stratified squamous epithelium in the distal esophagus is replaced with intestine-like columnar cells in response to chronic acidic damage. Although these metaplastic columnar cells are better suited to handle the presence of acid in the distal esophagus, they are also much more likely to become dysplastic and undergo malignant transformation into esophageal adenocarcinoma.\n\nMajor risk factors for esophageal adenocarcinoma are similar to those that promote Barrett esophagus and include:\n\n*   Chronic GERD\n*   Obesity - increases intragastric pressure, frequency of lower esophageal sphincter relaxation, and rates of hiatal hernia, which promote GERD\n*   Smoking\n*   Use of medications that lower esophageal sphincter pressure (eg, nitroglycerin)\n*   Consumption of foods containing nitroso compounds (eg, processed meats)\n\n(Choice A) Alcohol is a risk factor for esophageal squamous cell carcinoma, which typically arises in the mid-esophagus from areas of esophageal squamous dysplasia. Alcohol does not appear to increase the risk of Barrett esophagus, and wine may be protective.\n\n(Choice B) Aspirin and other nonsteroidal anti-inflammatory drugs may be protective against esophageal cancer, especially in the setting of Barrett esophagus. These drugs may also be protective against colorectal cancer.\n\n(Choice C) *Helicobacter pylori* is an important risk factor for gastric adenocarcinoma and gastric mucosa–associated lymphoid tissue; it does not appear to increase risk for esophageal adenocarcinoma.\n\n(Choice E) Thermal injury due to drinking hot beverages may increase the risk of esophageal squamous cell carcinoma but is not clearly associated with esophageal adenocarcinoma. {{exhibit_2}}\n\nEducational objective:\nEsophageal adenocarcinoma usually occurs in the distal esophagus due to underlying Barrett esophagus. Long-standing gastroesophageal reflux disease is the most important risk factor. Obesity, smoking, use of medications that lower esophageal sphincter pressure, and consumption of foods containing nitroso compounds also increase the risk.",
+    "zh": "这位患有慢性胃食管反流病 (GERD) 的患者现在出现固体食物吞咽困难、体重减轻以及食管下部肿块，强烈提示食管腺癌。大多数食管腺癌病例发生在 BARRETT 食管的背景下，这是一种化生性病变，其中远端食管的正常复层鳞状上皮细胞被类似肠道的柱状细胞取代，以应对慢性酸性损伤。虽然这些化生柱状细胞更适合处理远端食管中酸的存在，但它们也更有可能发生异型增生并恶性转化为食管腺癌。\n\n食管腺癌的主要危险因素与促进 Barrett 食管的因素相似，包括：\n\n*   慢性胃食管反流病\n*   肥胖 - 增加胃内压、降低食管下括约肌松弛的频率和食管裂孔疝的发生率，从而促进胃食管反流病\n*   吸烟\n*   使用降低食管下括约肌压力的药物（例如，硝酸甘油）\n*   食用含亚硝基化合物的食物（例如，加工肉类）\n\n(选项A) 饮酒是食管鳞状细胞癌的危险因素，食管鳞状细胞癌通常发生在食管中部的食管鳞状上皮异型增生区域。饮酒似乎不会增加 Barrett 食管的风险，而葡萄酒可能具有保护作用。\n\n(选项B) 阿司匹林和其他非甾体类抗炎药可能对食管癌具有保护作用，尤其是在 Barrett 食管的背景下。这些药物也可能对结直肠癌具有保护作用。\n\n(选项C) *幽门螺杆菌* 是胃腺癌和胃粘膜相关淋巴组织的重要危险因素；它似乎不会增加食管腺癌的风险。\n\n(选项E) 由于饮用热饮引起的热损伤可能会增加食管鳞状细胞癌的风险，但与食管腺癌没有明确关联。{{exhibit_2}}\n\n教学目标：\n食管腺癌通常发生在远端食管，是由于潜在的 Barrett 食管。长期胃食管反流病是最重要的危险因素。肥胖、吸烟、使用降低食管下括约肌压力的药物以及食用含亚硝基化合物的食物也会增加风险。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of risk factors for esophageal adenocarcinoma, specifically in the context of Barrett's esophagus. It requires understanding the association between chronic GERD, obesity, and the development of esophageal adenocarcinoma.\n\nThe best approach is to identify the patient's risk factors (GERD, obesity) and match them to the known predisposing factors for esophageal adenocarcinoma. Rule out options that are associated with other types of esophageal cancer or gastric cancer.",
+    "zh": "这个问题考察了对食管腺癌危险因素的了解，特别是在 Barrett 食管的背景下。它需要了解慢性胃食管反流病、肥胖与食管腺癌发展的关系。\n\n最好的方法是确定患者的危险因素（胃食管反流病、肥胖），并将它们与已知的食管腺癌易感因素匹配。排除与其它类型食管癌或胃癌相关的选项。"
+  },
+  "tags": "Esophageal adenocarcinoma; Barrett esophagus; Gastroesophageal reflux disease (GERD); Obesity; Dysphagia; Gastroenterology; Oncology",
+  "category": "GIT",
+  "question_id": "14879",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\14879",
+  "extracted_at": "2025-11-05T14:24:02.382357",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:51:34.639760",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

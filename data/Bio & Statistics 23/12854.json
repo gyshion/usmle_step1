@@ -1,0 +1,53 @@
+{
+  "question_stem": {
+    "en": "A group of psychiatrists has noticed an unusual number of older individuals with depression in the surrounding community. A decision is taken to conduct a cross-sectional study to estimate the prevalence of depression in this specific population. Estimates for the prevalence of depression (cases per 100 individuals) in the community are as follows:\n\nAge group   Women   Men\n\n60-69  9.1  8.4\n\n70-79  11.9 10.4\n\n80-89  13.5 12.4\n\n90+  13.3 12.1\n\nTotal  11.9 10.8\n\nSuppose during an afternoon clinic, a psychiatrist sees a 65-year-old woman, a 72-year-old man, and an 84-year-old woman from this community. Assuming no relation between the 3 patients, what is the probability that none of them has depression?",
+    "zh": "一群精神科医生注意到周围社区中患有抑郁症的老年人数量异常。 决定进行一项横断面研究，以估计该特定人群中抑郁症的患病率。 该社区中抑郁症的患病率估计值（每 100 个人中的病例数）如下所示：\n\n年龄组 女性 男性\n\n60-69 9.1 8.4\n\n70-79 11.9 10.4\n\n80-89 13.5 12.4\n\n90+ 13.3 12.1\n\n总计 11.9 10.8\n\n假设在下午的诊所里，一位精神科医生接诊了一位来自该社区的 65 岁女性、一位 72 岁男性和一位 84 岁女性。 假设这 3 位患者之间没有任何关系，那么他们都没有患抑郁症的概率是多少？"
+  },
+  "question": {
+    "en": "Assuming no relation between the 3 patients, what is the probability that none of them has depression?",
+    "zh": "假设这 3 位患者之间没有任何关系，那么他们都没有患抑郁症的概率是多少？"
+  },
+  "options": {
+    "A": {
+      "en": "0.001",
+      "zh": "0.001"
+    },
+    "B": {
+      "en": "0.011",
+      "zh": "0.011"
+    },
+    "C": {
+      "en": "0.295",
+      "zh": "0.295"
+    },
+    "D": {
+      "en": "0.705",
+      "zh": "0.705"
+    },
+    "E": {
+      "en": "0.999",
+      "zh": "0.999"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The age- and gender-specific prevalence of depression in the community is a good estimator of the probability that a corresponding individual from community has the disease. Because each of the 3 patients is unrelated to the others, each of the diagnoses is an independent event (ie, a patient's diagnosis has no impact on another's). When events are independent of each other, the probability that all the events occur is calculated by multiplying together the probability of each individual event.\n\nIn this case, to calculate the probability that none of the 3 patients has depression, multiply the probability of each complementary event (ie, the probability of *not* having depression):\n\n(1 – 0.091) × (1 – 0.104) × (1 – 0.135) = 0.909 × 0.896 × 0.865 = 0.705\n\n(Choices A and E) The probability that all 3 patients have depression can be calculated by multiplying the probability of each event, (0.091) × (0.104) × (0.135) = 0.001. The complementary event (ie, the probability that at least 1 patient does not have depression) can be calculated by subtracting the probability that all 3 patients have depression from 1, or 1 – [(0.091) × (0.104) × (0.135)] = 0.999.\n\n(Choice B) The probability that only the women have depression can be calculated by multiplying together the probability of each woman having the disorder along with the probability of the man *not* having the disorder, (0.091) × (0.135) × (1 – 0.104) = 0.011.\n\n(Choice C) The probability that at least 1 patient has depression is complementary to the probability of none of the 3 patients having depression. It can be calculated by subtracting the probability that none of the 3 patients has depression from 1, or 1 – [(1 – 0.091) × (1 – 0.104) × (1 – 0.135)] = 0.295.",
+    "zh": "社区中特定年龄和性别的抑郁症患病率是社区中相应个体患该疾病的良好估计值。 由于这 3 位患者彼此无关，因此每个诊断都是一个独立事件（即，一个患者的诊断对另一个患者没有影响）。 当事件彼此独立时，计算所有事件发生的概率是将每个单独事件的概率相乘。\n\n在这种情况下，要计算这 3 位患者都没有患抑郁症的概率，请将每个互补事件的概率（即，*未*患抑郁症的概率）相乘：\n\n(1 – 0.091) × (1 – 0.104) × (1 – 0.135) = 0.909 × 0.896 × 0.865 = 0.705\n\n（选项 A 和 E）可以通过将每个事件的概率相乘来计算所有 3 位患者患抑郁症的概率，即 (0.091) × (0.104) × (0.135) = 0.001。 互补事件（即，至少有 1 位患者没有患抑郁症的概率）可以通过从 1 减去所有 3 位患者患抑郁症的概率来计算，即 1 – [(0.091) × (0.104) × (0.135)] = 0.999。\n\n（选项 B）只有女性患抑郁症的概率可以通过将每位女性患该疾病的概率与男性*不*患该疾病的概率相乘来计算，即 (0.091) × (0.135) × (1 – 0.104) = 0.011。\n\n（选项 C）至少有 1 位患者患抑郁症的概率与这 3 位患者都没有患抑郁症的概率互补。 它可以从 1 减去这 3 位患者都没有患抑郁症的概率来计算，即 1 – [(1 – 0.091) × (1 – 0.104) × (1 – 0.135)] = 0.295。"
+  },
+  "summary": {
+    "en": "This question tests the application of probability principles to clinical scenarios, specifically focusing on independent events and complementary probabilities. It requires selecting the correct prevalence rates from the provided data and applying the multiplication rule to calculate the probability of none of the patients having depression.\n\nTo solve this question, identify the relevant prevalence rates for each patient based on their age and gender. Then, calculate the probability of each patient not having depression (1 - prevalence) and multiply these probabilities together to find the overall probability that none of the patients has depression.",
+    "zh": "这个问题测试了概率原理在临床场景中的应用，特别侧重于独立事件和互补概率。它需要从提供的数据中选择正确的患病率，并应用乘法规则来计算所有患者都没有患抑郁症的概率。\n\n要解决这个问题，请根据每位患者的年龄和性别确定相关的患病率。然后，计算每位患者没有患抑郁症的概率（1 - 患病率），并将这些概率相乘，以找到所有患者都没有患抑郁症的总体概率。"
+  },
+  "tags": "Probability; Epidemiology; Depression; Statistics; Mental health; Cross-sectional study",
+  "category": "Bio",
+  "question_id": "12854",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\12854",
+  "extracted_at": "2025-11-05T10:32:01.869152",
+  "translated_at": "2025-11-07T16:20:36.324259",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

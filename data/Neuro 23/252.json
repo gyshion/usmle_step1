@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 16-year-old primigravida comes to the emergency department in active labor. A fetal heartbeat is undetectable, and she delivers a stillborn boy vaginally. Examination of the stillborn shows several dysmorphic features, including closely set eyes and an elongated nasal structure. A fetal autopsy reveals fused cerebral hemispheres with an absent forebrain fissure and a single intracranial ventricle. This patient's autopsy findings are most indicative of which of the following types of congenital anomalies? {{exhibit_1}} {{exhibit_2}} {{exhibit_3}}",
+    "zh": "一名16岁的初产妇因活动性分娩来到急诊科。无法检测到胎儿心跳，她经阴道分娩了一个死产男婴。对死产儿的检查显示几个畸形特征，包括眼睛靠得很近和鼻部结构细长。胎儿尸检显示大脑半球融合，无前脑裂，只有一个颅内脑室。该患者的尸检结果最能说明以下哪种类型的先天性异常？ {{exhibit_1}} {{exhibit_2}} {{exhibit_3}}"
+  },
+  "question": {
+    "en": "This patient's autopsy findings are most indicative of which of the following types of congenital anomalies?",
+    "zh": "该患者的尸检结果最能说明以下哪种类型的先天性异常？"
+  },
+  "options": {
+    "A": {
+      "en": "Agenesis",
+      "zh": "无发生"
+    },
+    "B": {
+      "en": "Association",
+      "zh": "联合"
+    },
+    "C": {
+      "en": "Deformation",
+      "zh": "变形"
+    },
+    "D": {
+      "en": "Dysplasia",
+      "zh": "发育不良"
+    },
+    "E": {
+      "en": "Malformation",
+      "zh": "畸形"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The physical features of this stillborn are consistent with holoprosencephaly, or INCOMPLETE DIVISION of the forebrain (prosencephalon) into 2 hemispheres. Cleavage of the prosencephalon into the telencephalon and diencephalon normally occurs in early gestation. Failure of cleavage at different points in division can result in an array of anomalies, ranging from mild midline defects (eg, ocular hypotelorism, cleft lip/palate) to severe defects (eg, single midline eye, primitive nasal structure or proboscis, midfacial clefts).\n\nHoloprosencephaly is an example of a malformation, an intrinsic defect that occurs during embryonic development and results in the abnormal formation of a body structure. Pathogenesis likely involves a combination of genetic (eg, trisomy 13, sonic hedgehog gene mutations) and environmental (eg, maternal alcohol use) factors. Other examples of malformations include spina bifida (failure of neural tube closure) and cleft lip/palate (failure of lip/palate fusion).\n\n(Choice A) Agenesis refers to the complete absence of an organ. Renal agenesis, the congenital absence of one or both kidneys, is an example of this type of abnormality.\n\n(Choice B) An association refers to multiple anomalies without a known unifying cause that occur together more frequently than chance alone would predict. Vertebral defects, anal atresia, cardiac defects, tracheoesophageal fistula, renal anomalies, and limb abnormalities (VACTERL) are an example of an association of anomalies without a known common etiology.\n\n(Choice C) Deformations are fetal structural anomalies that occur due to extrinsic mechanical forces. The pressure applied by the uterus is one of the most common deforming forces. For example, uterine constraint on a fetus (eg, breech position, uterine fibroids) can cause positional talipes equinovarus (clubfoot), a condition in which the foot is plantar flexed and internally rotated.\n\n(Choice D) Dysplasia refers to abnormal cellular architecture within a tissue. Osteogenesis imperfecta, a skeletal disorder characterized by brittle bones that fracture easily, occurs with dysplasia of connective tissue due to absent or abnormal type I collagen.\n\nEducational objective: A malformation refers to an abnormal body structure due to an intrinsic defect in development. Holoprosencephaly is a malformation characterized by a spectrum of fetal facial and cerebral anomalies due to incomplete division of the forebrain (prosencephalon).",
+    "zh": "该死产儿的体征与全前脑发育不全一致，即前脑（端脑）未完全分裂成两个半球。前脑分裂成端脑和间脑通常发生在妊娠早期。在分裂的不同点发生分裂失败会导致一系列异常，从轻微的中线缺陷（例如，眼距过近、唇/腭裂）到严重缺陷（例如，单个中线眼、原始鼻结构或吻部、中面裂）。\n\n全前脑发育不全是畸形的一个例子，它是在胚胎发育过程中发生的内在缺陷，导致身体结构的异常形成。发病机制可能涉及遗传（例如，13三体综合征、刺猬基因突变）和环境（例如，孕妇饮酒）因素的组合。其他畸形的例子包括脊柱裂（神经管闭合失败）和唇/腭裂（唇/腭融合失败）。\n\n（选项A）无发生是指器官的完全缺失。肾无发生，即先天性缺乏一个或两个肾脏，是这种异常的一个例子。\n\n（选项B）联合是指多种异常，没有已知的统一原因，它们一起发生的频率高于单纯偶然发生的可能性。椎骨缺陷、肛门闭锁、心脏缺陷、气管食管瘘、肾脏异常和肢体异常（VACTERL）是异常联合的一个例子，没有已知的共同病因。\n\n（选项C）变形是指由于外在机械力而发生的胎儿结构异常。子宫施加的压力是最常见的变形力之一。例如，子宫对胎儿的约束（例如，臀位、子宫肌瘤）可导致体位性马蹄内翻足（马蹄内翻足），这是一种足部跖屈和内旋的疾病。\n\n（选项D）发育不良是指组织内的细胞结构异常。成骨不全，一种以骨骼脆弱、容易骨折为特征的骨骼疾病，是由于I型胶原蛋白缺失或异常导致结缔组织发育不良而发生的。\n\n教育目标：畸形是指由于发育过程中的内在缺陷而导致的身体结构异常。全前脑发育不全是一种畸形，其特征是由于前脑（端脑）未完全分裂而导致的一系列胎儿面部和脑部异常。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of congenital anomalies, specifically the classification of structural birth defects and the underlying mechanisms. It requires differentiating between malformations, deformations, disruptions, dysplasia, and associations based on the clinical presentation and etiology.\n\nTo solve this question, focus on the description of the fetal autopsy findings (fused cerebral hemispheres, absent forebrain fissure, single intracranial ventricle) and relate it to the definitions of different types of congenital anomalies. Recognize that holoprosencephaly is a malformation resulting from an intrinsic defect during embryonic development.",
+    "zh": "本题考查先天性异常的知识，特别是结构性出生缺陷的分类和潜在机制。它要求根据临床表现和病因区分畸形、变形、中断、发育不良和联合。\n\n要解决这个问题，重点关注胎儿尸检结果的描述（大脑半球融合、无前脑裂、单个颅内脑室），并将其与不同类型先天性异常的定义联系起来。认识到全前脑发育不全是一种在胚胎发育过程中由内在缺陷引起的畸形。"
+  },
+  "tags": "Holoprosencephaly; Congenital anomalies; Malformation; Fetal development; Forebrain; Embryology; Teratogenesis; Trisomy 13; Sonic hedgehog; Neural tube defects",
+  "category": "Neuro",
+  "question_id": "252",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\252",
+  "extracted_at": "2025-11-05T15:33:58.564930",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:25:54.148996",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

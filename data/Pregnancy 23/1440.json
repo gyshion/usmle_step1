@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old woman at 38 weeks gestation undergoes induction of labor. The patient has type 2 diabetes mellitus, and her blood glucose levels were increasingly difficult to control during her third trimester despite increasing doses of insulin. During induction, the patient develops arrest of labor and undergoes a cesarean delivery. Apgar scores are 8 and 9 at 1 and 5 minutes, respectively. Physical examination shows a newborn large for gestational age with a birth weight of 4.6 kg (10.1 lb). The remainder of the examination is unremarkable, and vital signs are normal. An hour after delivery, the newborn develops hypoglycemia.",
+    "zh": "一位35岁的孕妇，孕38周，接受引产。该患者患有2型糖尿病，尽管在孕晚期增加了胰岛素剂量，但她的血糖水平越来越难以控制。在引产过程中，患者出现产程停滞，并接受了剖腹产。阿普加评分在1分钟和5分钟分别为8分和9分。体格检查显示，新生儿大于胎龄，出生体重为4.6 kg (10.1 lb)。其余检查无特殊发现，生命体征正常。分娩一小时后，新生儿出现低血糖。"
+  },
+  "question": {
+    "en": "Which of the following is most likely the cause of this newborn's hypoglycemia?",
+    "zh": "以下哪项最可能是导致该新生儿低血糖的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Excessive fetal insulin production",
+      "zh": "胎儿胰岛素过度分泌"
+    },
+    "B": {
+      "en": "Excessive maternal insulin doses",
+      "zh": "母亲胰岛素剂量过大"
+    },
+    "C": {
+      "en": "Fetal cortisol deficiency",
+      "zh": "胎儿皮质醇缺乏"
+    },
+    "D": {
+      "en": "Impaired fetal glucose production",
+      "zh": "胎儿葡萄糖生成受损"
+    },
+    "E": {
+      "en": "Impaired fetal insulin-like growth factor 2 production",
+      "zh": "胎儿胰岛素样生长因子2生成受损"
+    },
+    "F": {
+      "en": "Inadequate fetal hepatic glycogen stores",
+      "zh": "胎儿肝糖原储存不足"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The correct answer is A. Diabetes mellitus in pregnancy is associated with a number of neonatal complications. In pregnant women with poorly controlled diabetes mellitus, the fetus is subjected to high blood glucose levels because glucose freely crosses the placenta. The resulting FETAL HYPERGLYCEMIA leads to a compensatory PANCREATIC BETA CELL HYPERPLASIA and subsequent increase in fetal insulin production (eg, hyperinsulinemia). The resultant FETAL HYPERINSULINEMIA causes the following neonatal complications:\n\n* Hypoglycemia: After delivery, the fetus is no longer exposed to high glucose levels; however, due to beta cell hyperplasia, the neonate continues to secrete high levels of insulin, resulting in symptomatic low glucose levels (eg, jitteriness, irritability).\n* Polycythemia: Increased fetal metabolism and increased fetal oxygen demand, resulting in hypoxemia and a compensatory rise in fetal erythropoietin (ie, polycythemia).\n* Macrosomia: Increased central adipose deposition (abdominal and interscapular), leading to increased delivery complications (eg, shoulder dystocia, cesarean delivery).\n\n(Choice B) Maternal insulin is not transferred to the fetus but instead is catabolized by the placenta; therefore, even with increasing maternal insulin use, the neonate is not affected because of placental metabolism.\n\n(Choice C) Cortisol deficiency in the newborn period is likely due to primary adrenal insufficiency, which would present with hypotension and electrolyte abnormalities in addition to hypoglycemia.\n\n(Choice D) Glycogen storage diseases are caused by enzymatic defects that impair glycogenolysis and typically present with hypoglycemia and lactic acidosis. However, they are not evident immediately after birth because the neonates have frequent glucose resupply (from frequent breastfeeding) and, therefore, do not depend on the breakdown of glycogen.\n\n(Choice E) Fetal hyperglycemia can result in increased secretion (not impaired production) of insulin-like growth factor 2 (IGF-2), causing macrosomia.\n\n(Choice F) Insulin promotes glucose storage in the liver as glycogen; therefore, infants of mothers with poorly controlled diabetes have increased glycogen stores. However, despite hypoglycemia, these infants have poor mobilization of glycogen (glycogenolysis) due to islet hyperplasia and the resultant hyperinsulinemia.\n\nEducational objective:\nNeonates born to mothers with poorly controlled diabetes during pregnancy are exposed to high maternal glucose levels in utero, resulting in beta cell hyperplasia followed by excessive fetal insulin production. Fetal hyperinsulinemia causes neonatal hypoglycemia, polycythemia, and macrosomia.",
+    "zh": "正确答案是A。妊娠期糖尿病与许多新生儿并发症相关。对于糖尿病控制不佳的孕妇，由于葡萄糖可自由通过胎盘，胎儿会受到高血糖水平的影响。由此产生的胎儿高血糖会导致代偿性胰腺β细胞增生，随后胎儿胰岛素分泌增加（例如，高胰岛素血症）。由此产生的胎儿高胰岛素血症会导致以下新生儿并发症：\n\n* 低血糖症：分娩后，胎儿不再暴露于高血糖水平；然而，由于β细胞增生，新生儿继续分泌高水平的胰岛素，导致出现症状性低血糖水平（例如，烦躁、易怒）。\n* 红细胞增多症：胎儿代谢增加和胎儿氧需求增加，导致低氧血症和代偿性胎儿促红细胞生成素升高（即红细胞增多症）。\n* 巨大儿：中央脂肪沉积增加（腹部和肩胛间），导致分娩并发症增加（例如，肩难产、剖腹产）。\n\n（选项B）母亲的胰岛素不会转移到胎儿，而是被胎盘分解代谢；因此，即使母亲增加胰岛素的使用，新生儿也不会受到影响，因为胎盘的代谢作用。\n\n（选项C）新生儿期的皮质醇缺乏可能由于原发性肾上腺功能不全，除了低血糖外，还会出现低血压和电解质异常。\n\n（选项D）糖原贮积病是由影响糖原分解的酶缺陷引起的，通常表现为低血糖和乳酸酸中毒。然而，它们在出生后不久不会出现，因为新生儿有频繁的葡萄糖补充（来自频繁母乳喂养），因此不依赖于糖原的分解。\n\n（选项E）胎儿高血糖会导致胰岛素样生长因子2 (IGF-2) 分泌增加（而不是生成受损），从而导致巨大儿。\n\n（选项F）胰岛素促进肝脏中的葡萄糖以糖原的形式储存；因此，母亲糖尿病控制不佳的婴儿具有增加的糖原储存。然而，尽管存在低血糖，这些婴儿由于胰岛增生和由此产生的高胰岛素血症，糖原动员能力较差（糖原分解）。\n\n教育目标：\n在妊娠期间，由糖尿病控制不佳的母亲所生的新生儿在子宫内暴露于高水平的母体血糖，导致β细胞增生，然后导致胎儿胰岛素过度分泌。胎儿高胰岛素血症引起新生儿低血糖、红细胞增多症和巨大儿。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of neonatal complications associated with maternal diabetes mellitus, specifically focusing on the pathophysiology of neonatal hypoglycemia. It assesses the knowledge of how maternal hyperglycemia leads to fetal hyperinsulinemia and subsequent hypoglycemia after birth.\n\nTo solve this question, one must recognize the link between maternal diabetes and fetal hyperglycemia, leading to fetal pancreatic beta-cell hyperplasia and increased insulin production. Upon delivery, the continued high insulin levels in the absence of maternal glucose supply cause neonatal hypoglycemia. Evaluating the other options involves understanding why they are less likely causes in this specific clinical scenario.",
+    "zh": "本题考察对与母亲糖尿病相关的新生儿并发症的理解，特别是侧重于新生儿低血糖的病理生理学。它评估了对母体高血糖如何导致胎儿高胰岛素血症以及出生后随之而来的低血糖的认识。\n\n要解决这个问题，必须认识到母体糖尿病与胎儿高血糖之间的联系，导致胎儿胰腺β细胞增生和胰岛素分泌增加。分娩后，在没有母体葡萄糖供应的情况下，持续的高胰岛素水平会导致新生儿低血糖。评估其他选项涉及理解为什么它们在这种特定的临床情况下不太可能成为原因。"
+  },
+  "tags": "Neonatal hypoglycemia; Maternal diabetes mellitus; Fetal hyperinsulinemia; Macrosomia; Polycythemia; Pregnancy complications; Endocrine disorders; Neonatology",
+  "category": "Pregnancy",
+  "question_id": "1440",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pregnancy 23\\1440",
+  "extracted_at": "2025-11-05T19:45:58.443379",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:48:28.297336",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

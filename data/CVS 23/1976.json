@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 67-year-old man is brought to the emergency department by his son after a syncopal episode. The son was helping his father clean out the garage when the father said he felt dizzy. As the son was helping him into a chair, the patient lost consciousness. He woke up spontaneously about a minute later without any disorientation or confusion. ECG demonstrates bradycardia with a regular rhythm and narrow QRS complexes. There is complete desynchronization between the P waves and QRS complexes. {{exhibit_1}}",
+    "zh": "一名67岁男性由其儿子送至急诊科，原因是晕厥发作。儿子正在帮助父亲清理车库，父亲说他感到头晕。当儿子扶他坐到椅子上时，患者失去了意识。大约一分钟后，他自发醒来，没有出现任何定向障碍或意识模糊。心电图显示心动过缓，节律规则，QRS波群狭窄。P波和QRS波群之间完全不同步。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following locations is most likely pacing this patient's ventricles?",
+    "zh": "以下哪个位置最有可能为该患者的心室起搏？"
+  },
+  "options": {
+    "A": {
+      "en": "His bundle",
+      "zh": "希氏束"
+    },
+    "B": {
+      "en": "Left bundle branch",
+      "zh": "左束支"
+    },
+    "C": {
+      "en": "Left ventricular muscle",
+      "zh": "左心室肌肉"
+    },
+    "D": {
+      "en": "Purkinje system",
+      "zh": "浦肯野系统"
+    },
+    "E": {
+      "en": "Sinoatrial node",
+      "zh": "窦房结"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The electrical impulses in the myocardial conduction system are normally initiated by the sinoatrial (SA) node at a rate of 60-100/min. These impulses are then transmitted through the atria to the atrioventricular (AV) node, then on to the His bundle, bundle branches, Purkinje fibers, and ventricular myocardium. Most of the conduction system has its own intrinsic pacemaker, which is normally suppressed by the more rapid SA node pacemaker but triggers when a signal from further up the conduction system is not received.\n\nThis patient's ECG shows complete dissociation of P waves and QRS complexes consistent with third-degree (complete) AV block. In third-degree AV block, electrical impulses coming from the SA node are blocked before being transmitted to the ventricles; the point of blockade usually is within the AV node or His bundle. The cells located immediately distal to the blockade (eg, in the His bundle) never receive the impulse from the SA node and therefore begin generating their own pacemaker impulse that is transmitted to the ventricles.\n\nOn ECG, the SA node impulses continue to march out as P waves, and the His bundle impulses generate QRS complexes (an escape rhythm) at the intrinsic rate of the His bundle pacemaker (eg, 40-60/min). Because the atria and the ventricles are not communicating, the P waves and QRS complexes have no relation to one another. {{exhibit_2}}\n\n(Choices B and D) When electrical impulses are initiated below the AV node and His bundle, the heart rate typically slows to 25-40/min (based on the intrinsic pacemaker rate of the bundle branches and Purkinje system). On ECG, the QRS complexes are typically wide compared to the narrow QRS complexes initiated by the AV node and His bundle.\n\n(Choice C) The ventricular myocardium does not have an intrinsic pacemaker and typically must receive electrical impulses from the Purkinje system.\n\n(Choice E) When the SA node is initiating impulses through a normal conduction system, the heart rate is 60-100/min. ECG shows P waves quickly followed by a narrow QRS complex, representing normal atrial depolarization followed by normal ventricular depolarization (normal sinus rhythm). {{exhibit_3}}",
+    "zh": "心肌传导系统中的电冲动通常由窦房结 (SA) 启动，频率为60-100/分钟。然后，这些冲动通过心房传导至房室 (AV) 结，然后传导至希氏束、束支、浦肯野纤维和心室心肌。大多数传导系统都有其自身的固有起搏器，通常被更快速的窦房结起搏器抑制，但在未收到来自传导系统上游的信号时触发。\n\n该患者的心电图显示P波和QRS波群完全分离，与三度 (完全) 房室传导阻滞一致。在三度房室传导阻滞中，来自窦房结的电冲动在传递到心室之前被阻断；阻断点通常位于房室结或希氏束内。位于阻断点远端（例如，在希氏束中）的细胞从未接收到来自窦房结的冲动，因此开始产生自己的起搏器冲动，该冲动被传递到心室。\n\n在心电图上，窦房结冲动继续以P波的形式呈现，而希氏束冲动产生QRS波群（逸搏心律），其频率为希氏束起搏器的固有频率（例如，40-60/分钟）。由于心房和心室之间没有通讯，P波和QRS波群之间没有关系。{{exhibit_2}}\n\n（选项B和D）当电冲动在房室结和希氏束下方启动时，心率通常会减慢至25-40/分钟（基于束支和浦肯野系统的固有起搏器频率）。在心电图上，与由房室结和希氏束启动的窄QRS波群相比，QRS波群通常较宽。\n\n（选项C）心室心肌没有固有的起搏器，通常必须接收来自浦肯野系统的电冲动。\n\n（选项E）当窦房结通过正常传导系统启动冲动时，心率为60-100/分钟。心电图显示P波后很快出现窄QRS波群，代表正常的心房去极化，然后是正常的心室去极化（正常窦性心律）。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of third-degree AV block and the intrinsic pacemaker rates of different parts of the cardiac conduction system. It requires understanding how complete heart block affects ECG findings and which structures take over pacing when the SA node signal is blocked.\n\nTo solve this question, recognize the ECG findings of complete AV dissociation and bradycardia. Consider the intrinsic pacemaker rates of the SA node, AV node, His bundle, and Purkinje fibers, and relate them to the patient's heart rate and QRS complex morphology to determine the most likely pacing location.",
+    "zh": "此题考察对三度房室传导阻滞以及心脏传导系统不同部位的固有起搏器频率的了解。它要求理解完全性心脏传导阻滞如何影响心电图表现，以及当窦房结信号被阻断时，哪些结构接管起搏。\n\n要解决这个问题，需要识别完全性房室分离和心动过缓的心电图表现。考虑窦房结、房室结、希氏束和浦肯野纤维的固有起搏器频率，并将它们与患者的心率和QRS波群形态相关联，以确定最可能的起搏位置。"
+  },
+  "tags": "Third-degree AV block; Complete heart block; Cardiac conduction system; ECG interpretation; Bradycardia; His bundle; Escape rhythm; Cardiology; Electrophysiology",
+  "category": "CVS",
+  "question_id": "1976",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1976",
+  "extracted_at": "2025-11-05T12:07:22.703297",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:27:06.051442",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": " A patient is concerned about cardiovascular health and is making a direct inquiry to the physician regarding alternative therapies with which the physician is unfamiliar. {{exhibit_1}}",
+    "zh": "一位患者关注心血管健康，直接向医生询问医生不熟悉的替代疗法。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate response?",
+    "zh": "以下哪项是**最合适的**回答？"
+  },
+  "options": {
+    "A": {
+      "en": "\"I suggest not starting the supplement because you're already taking steps to maintain cardiovascular health by eating healthy and exercising.\"",
+      "zh": "“我建议不要开始这种补充剂，因为您已经在通过健康饮食和锻炼来维持心血管健康了。”"
+    },
+    "B": {
+      "en": "\"I'll need to read more about this combination of herbs, so I'll do some research and let you know what I find.\"",
+      "zh": "“我需要更多地了解这种草药组合，所以我会做一些研究，然后让您知道我的发现。”"
+    },
+    "C": {
+      "en": "\"I'm not familiar with these herbs, but studies have shown that herbs don't have significant effects on preventing cardiovascular disease.\"",
+      "zh": "“我不熟悉这些草药，但研究表明草药对预防心血管疾病没有显著影响。”"
+    },
+    "D": {
+      "en": "\"This supplement probably won't prevent cardiovascular disease, but it's likely safe for you to take if you want to.\"",
+      "zh": "“这种补充剂可能无法预防心血管疾病，但如果您想服用，它可能对您来说是安全的。”"
+    },
+    "E": {
+      "en": "\"Unfortunately, I don't know enough information about these herbs, so I can't make a recommendation.\"",
+      "zh": "“不幸的是，我对这些草药的了解不够，所以我无法给出建议。”"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The physician is concerned about cardiovascular health and is making a direct inquiry to the physician regarding alternative therapies with which the physician is unfamiliar. Such therapies are often safe and occasionally beneficial. However, nonstandard pharmaceutical products are relatively unregulated and often poorly studied and may carry risks due to the labeled agent or possible adulterants.\n\nWhen discussing complementary and alternative medical interventions, the physician should be honest, helpful, and nonjudgmental. The primary emphasis should be on developing a trusting physician-patient relationship conducive to sharing reliable, evidence-based information. If unfamiliar with the product in question, the physician should offer to obtain more information and follow up with the patient. Alternately, the physician may direct the patient to reliable information sources (eg, National Center for Complementary and Integrative Health), where the patient can obtain information directly.\n\n(Choices A and C) Discouraging a patient from using a therapy recommended by a family member without first learning the facts about the product may be seen as dismissive or insulting by the patient. The physician should understand the therapy in reasonable detail before giving guidance.\n\n(Choice D) Although many herbal supplements are benign, the physician should not assume safety without first obtaining reliable information about the product. A number of herbal agents (eg, ephedra, ma-huang) cause potentially severe cardiovascular toxicity.\n\n(Choice E) This response honestly presents the physician's lack of knowledge but avoids the patient's direct question and misses an opportunity to improve the patient's health and the physician-patient relationship.\n\nEducational objective:\nWhen discussing complementary and alternative medical interventions, the physician should be honest, helpful, and nonjudgmental, developing a trusting physician-patient relationship conducive to sharing evidence-based information. Physicians should obtain more information on unfamiliar products and follow up with the patient or direct the patient to reliable information sources.",
+    "zh": "医生关注心血管健康，直接询问医生不熟悉的替代疗法。此类疗法通常是安全的，偶尔也有益。然而，非标准药物产品相对不受监管，并且经常研究不足，可能由于标签上的成分或可能的掺杂物而带来风险。\n\n在讨论补充和替代医学干预措施时，医生应该诚实、乐于助人且不带偏见。首要重点应是建立信任的医患关系，有利于分享可靠的、循证信息。如果对所讨论的产品不熟悉，医生应主动获取更多信息并与患者随访。或者，医生可以将患者引向可靠的信息来源（例如，国家补充和综合健康中心），患者可以在那里直接获取信息。\n\n（选项 A 和 C）在没有首先了解产品事实的情况下，劝阻患者使用家人推荐的疗法，可能会被患者视为不屑一顾或侮辱。医生在给出指导之前，应该合理详细地了解该疗法。\n\n（选项 D）虽然许多草药补充剂是良性的，但医生不应在没有首先获得有关产品的可靠信息的情况下就假定其安全性。许多草药制剂（例如，麻黄素）会导致潜在的严重心血管毒性。\n\n（选项 E）这种回答诚实地表达了医生缺乏知识，但回避了患者的直接问题，错失了改善患者健康和医患关系的机会。\n\n教育目标：\n在讨论补充和替代医学干预措施时，医生应该诚实、乐于助人且不带偏见，建立信任的医患关系，有利于分享循证信息。医生应获取更多关于不熟悉产品的信息，并与患者随访，或将患者引向可靠的信息来源。"
+  },
+  "summary": {
+    "en": "The most appropriate response is to acknowledge the lack of familiarity with the combination of herbs and offer to research and follow up with the patient. This approach demonstrates honesty, helpfulness, and a commitment to evidence-based information, fostering a trusting physician-patient relationship.",
+    "zh": "最合适的回答是承认对草药组合的不熟悉，并主动研究并与患者随访。这种方法体现了诚实、乐于助人，并致力于循证信息，从而培养信任的医患关系。"
+  },
+  "tags": [
+    "Complementary and Alternative Medicine",
+    "Physician-Patient Relationship",
+    "Cardiovascular Health",
+    "Herbal Supplements"
+  ],
+  "category": "Ethics",
+  "question_id": "21973",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\21973",
+  "extracted_at": "2025-11-05T14:21:20.134039",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T17:48:57.869456",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 56-year-old woman with a history of heart failure is admitted to the hospital for orthotopic cardiac transplantation. The patient developed biventricular failure due to idiopathic myocarditis. She has had persistent New York Heart Association class IV symptoms refractory to maximal medical therapy and was placed on the transplant waiting list. An ABO-compatible cadaveric heart is available for transplant with partial human leukocyte antigen (HLA) mismatch. Cardiac transplantation is performed and the patient's T lymphocytes quickly recognize the foreign HLA molecules of the transplant cells.",
+    "zh": "一名有心力衰竭病史的56岁女性因原位心脏移植入院。患者由于特发性心肌炎导致双心室衰竭。她持续存在纽约心脏协会 IV 级症状，对最大程度的内科治疗无效，并被列入移植等待名单。一个ABO相容的尸体供心可用于移植，部分人类白细胞抗原 (HLA) 不匹配。进行了心脏移植，患者的 T 淋巴细胞迅速识别出移植细胞的异源 HLA 分子。"
+  },
+  "question": {
+    "en": "Inhibition of which of the following substances would specifically reduce the proliferation and differentiation of these T lymphocytes?",
+    "zh": "抑制以下哪种物质会特异性地减少这些 T 淋巴细胞的增殖和分化？"
+  },
+  "options": {
+    "A": {
+      "en": "Bcl-2",
+      "zh": "Bcl-2"
+    },
+    "B": {
+      "en": "Calcineurin",
+      "zh": "钙调磷酸酶"
+    },
+    "C": {
+      "en": "E-cadherin",
+      "zh": "E-钙粘蛋白"
+    },
+    "D": {
+      "en": "Neurofibromin",
+      "zh": "神经纤维蛋白"
+    },
+    "E": {
+      "en": "p53",
+      "zh": "p53"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "In normal T cells, calcineurin is a protein phosphatase that is activated upon stimulation of the appropriate cell receptor. Once activated, calcineurin dephosphorylates nuclear factor of activated T cells (NFAT), which allows NFAT to enter the nucleus and bind to an interleukin-2 (IL-2) promoter. IL-2 stimulates the growth and differentiation of T cells and is an important component of the immune response. Cyclosporine and tacrolimus, 2 of the more commonly used immunosuppressants in transplant patients, inhibit calcineurin activation.\n\n(Choice A) Bcl-2 is an apoptosis inhibitor. When Bcl-2 is overexpressed, cell death is delayed and an accumulation of indolent malignant cells occurs. Bcl-2 involvement has been implicated in follicular cell lymphomas, most of which have a characteristic t(14;18) translocation. Bcl-2 inhibition would not be specific to T cells.\n\n(Choice C) E-cadherin is a transmembrane glycoprotein that orchestrates epithelial cell adhesion. If this glycoprotein is lost, cell clusters may be disrupted. The loss of E-cadherin is associated with metastasis and is a predictor of disease progression in some cancers.\n\n(Choice D) Neurofibromin is a tumor suppressor protein encoded by the NF1 gene on chromosome 17. Neurofibromin can protect against cancer as it is a key suppressor of Ras, one of the more powerful activators of cell growth and proliferation.\n\n(Choice E) p53 is a tumor suppressor that causes cell cycle arrest and apoptosis. It is rendered ineffective in the majority of cancers.\n\nEducational objective:\nCalcineurin is an essential protein in the activation of interleukin-2, which promotes the growth and differentiation of T cells. Immunosuppressants such as cyclosporine and tacrolimus work by inhibiting calcineurin activation.",
+    "zh": "在正常的 T 细胞中，钙调磷酸酶是一种蛋白磷酸酶，在适当的细胞受体受到刺激后被激活。一旦激活，钙调磷酸酶使活化 T 细胞核因子 (NFAT) 脱磷酸化，这允许 NFAT 进入细胞核并与白细胞介素 2 (IL-2) 启动子结合。IL-2 刺激 T 细胞的生长和分化，是免疫反应的重要组成部分。环孢素和他克莫司是移植患者中更常用的两种免疫抑制剂，可抑制钙调磷酸酶的激活。\n\n(选项 A) Bcl-2 是一种细胞凋亡抑制剂。当 Bcl-2 过度表达时，细胞死亡延迟，并发生惰性恶性细胞的积累。Bcl-2 的参与与滤泡细胞淋巴瘤有关，其中大多数具有特征性的 t(14;18) 易位。Bcl-2 抑制不会对 T 细胞具有特异性。\n\n(选项 C) E-钙粘蛋白是一种跨膜糖蛋白，可协调上皮细胞粘附。如果该糖蛋白丢失，细胞簇可能会被破坏。E-钙粘蛋白的缺失与转移相关，并且是某些癌症疾病进展的预测指标。\n\n(选项 D) 神经纤维蛋白是一种肿瘤抑制蛋白，由 17 号染色体上的 NF1 基因编码。神经纤维蛋白可以预防癌症，因为它是 Ras 的关键抑制剂，而 Ras 是细胞生长和增殖的更强大的激活剂之一。\n\n(选项 E) p53 是一种肿瘤抑制因子，可引起细胞周期停滞和细胞凋亡。它在大多数癌症中都失效了。\n\n教育目标：\n钙调磷酸酶是激活白细胞介素 2 的必需蛋白，它促进 T 细胞的生长和分化。环孢素和他克莫司等免疫抑制剂通过抑制钙调磷酸酶的激活而起作用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of T-cell activation and the mechanism of action of immunosuppressant drugs used in transplant patients. Specifically, it focuses on the role of calcineurin in T-cell activation and how drugs like cyclosporine and tacrolimus inhibit this pathway.\n\nTo solve this question, recall the mechanism of T-cell activation and the role of calcineurin in the production of interleukin-2 (IL-2). Knowing that cyclosporine and tacrolimus inhibit calcineurin will lead you to the correct answer.",
+    "zh": "这个问题考察了 T 细胞活化以及移植患者中使用的免疫抑制剂的机制。具体来说，它侧重于钙调磷酸酶在 T 细胞活化中的作用，以及环孢素和他克莫司等药物如何抑制该途径。\n\n要解决这个问题，请回忆 T 细胞活化的机制以及钙调磷酸酶在白细胞介素 2 (IL-2) 的产生中的作用。知道环孢素和他克莫司抑制钙调磷酸酶将使您得到正确的答案。"
+  },
+  "tags": "Cardiac transplantation; Immunosuppression; T lymphocytes; Calcineurin; Cyclosporine; Tacrolimus; Interleukin-2; Immunology; Allergy & Immunology; Calcineurin inhibitors",
+  "category": "Immunology",
+  "question_id": "1155",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\1155",
+  "extracted_at": "2025-11-05T14:40:00.780883",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:59:57.518488",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

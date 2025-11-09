@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 43-year-old man comes to the emergency department due to fever, chest pain, and hemoptysis. He has a history of a hematologic malignancy for which he recently underwent a cycle of chemotherapy. Laboratory studies show neutropenia due to the chemotherapeutic agents. A nodule with surrounding hypoattenuation is revealed on chest CT. Galactomannan and beta-D-glucan assays are elevated. Sputum cultures grow Aspergillus. The patient is placed on intravenous amphotericin B. During the infusion, he develops headaches, rigors, and hypotension. Over the next few days, there is a decline in renal function attributed to amphotericin. These toxic effects are likely due to binding of the antifungal agent to which of the following?",
+    "zh": "一名43岁男性因发热、胸痛和咯血来急诊科就诊。他有血液系统恶性肿瘤病史，最近接受了一周期化疗。实验室研究显示，由于化疗药物导致中性粒细胞减少。胸部CT显示一个结节，周围低密度。半乳甘露聚糖和β-D-葡聚糖检测升高。痰培养生长曲霉菌。患者接受静脉注射两性霉素B。在输注期间，他出现头痛、寒战和低血压。在接下来的几天里，肾功能下降，这归因于两性霉素。这些毒性作用最可能归因于抗真菌剂与以下哪项的结合？"
+  },
+  "question": {
+    "en": "These toxic effects are likely due to binding of the antifungal agent to which of the following?",
+    "zh": "这些毒性作用最可能归因于抗真菌剂与以下哪项的结合？"
+  },
+  "options": {
+    "A": {
+      "en": "Cell membrane cholesterol",
+      "zh": "细胞膜胆固醇"
+    },
+    "B": {
+      "en": "Cytochrome P450",
+      "zh": "细胞色素P450"
+    },
+    "C": {
+      "en": "Microtubular proteins",
+      "zh": "微管蛋白"
+    },
+    "D": {
+      "en": "Mitochondrial enzymes",
+      "zh": "线粒体酶"
+    },
+    "E": {
+      "en": "Ribosomal subunit",
+      "zh": "核糖体亚基"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient with febrile neutropenia following chemotherapy has invasive aspergillosis (fever, chest pain, hemoptysis, chest imaging showing nodule with hypoattenuation consistent with “halo sign”). Amphotericin B is a mainstay of treatment for many systemic mycoses. It preferentially binds the ergosterol of fungal cell membranes, leading to fungal cell lysis. This drug is relatively selective as it has a higher affinity for ergosterol (in fungal membranes) than for cholesterol (in human cell membranes). However, it binds cholesterol to a degree, which explains a large number of its adverse effects.\n\nAmphotericin B is often administered intravenously. Its main toxicities include the following:\n\n*   Acute infusion-related reactions, such as fever, chills, rigors, and hypotension, can occur. These are common and are seen most frequently during initial infusions (often diminish with subsequent infusions). Premedication with antipyretics and antihistamines can lessen the severity of these effects.\n*   Dose-dependent nephrotoxicity can result from a drug-induced decrease in the glomerular filtration rate. Permanent loss of renal function is thought to be related to the cumulative total dose. Renal function (eg, creatinine) should be closely monitored in patients undergoing treatment with amphotericin. Concomitant administration of other nephrotoxic drugs (eg, aminoglycosides, cyclosporine) should be avoided.\n*   Significant electrolyte abnormalities (hypomagnesemia and hypokalemia) can develop. These effects occur in the majority of patients within the first week of therapy. Electrolytes should be monitored daily and replaced as needed.\n*   Anemia occurs due to suppression of renal erythropoietin synthesis. This effect may be severe in patients with HIV who are taking zidovudine (which also suppresses bone marrow function).\n*   Thrombophlebitis can be seen at the site of injection.\n\n(Choice B) Triazole antifungals (eg, fluconazole, itraconazole) inhibit cytochrome P450 enzymes, suppressing the metabolism of many other medications. This effect explains the myriad drug interactions of this group of antifungal agents.\n\n(Choice C) Binding of microtubular proteins is the mechanism of griseofulvin, which is effective against dermatophytes only.\n\n(Choices D and E) Amphotericin B does not interact with ribosomal subunits or mitochondrial enzymes.\n\nEducational objective:\nAmphotericin B binds the ergosterol of fungal cell membranes to exert its antifungal effects. However, it also binds cholesterol to some degree, causing toxicity to human tissues. The most important adverse effects of amphotericin B are nephrotoxicity, hypokalemia, and hypomagnesemia.",
+    "zh": "该患者在化疗后出现发热性中性粒细胞减少症，患有侵袭性曲霉病（发热、胸痛、咯血、胸部影像学显示结节，伴有低密度，与“晕征”一致）。两性霉素B是许多全身性真菌病的主要治疗方法。它优先与真菌细胞膜的麦角固醇结合，导致真菌细胞溶解。这种药物具有相对的选择性，因为它对麦角固醇（在真菌细胞膜中）的亲和力高于胆固醇（在人体细胞膜中）。然而，它在一定程度上与胆固醇结合，这解释了其许多不良反应。\n\n两性霉素B通常静脉给药。其主要毒性包括：\n\n*   可能发生急性输注相关反应，如发热、寒战、寒战和低血压。这些很常见，并且最常发生在初始输注期间（通常随着后续输注而减轻）。使用解热药和抗组胺药进行预先给药可以减轻这些影响的严重程度。\n*   剂量依赖性肾毒性可能导致药物引起的肾小球滤过率降低。肾功能的永久性丧失被认为与累积总剂量有关。应密切监测接受两性霉素治疗的患者的肾功能（例如，肌酐）。应避免同时使用其他肾毒性药物（例如，氨基糖苷类、环孢素）。\n*   可能发生明显的电解质异常（低镁血症和低钾血症）。这些影响发生在大多数患者的治疗第一周内。应每天监测电解质并根据需要补充。\n*   贫血是由于肾脏促红细胞生成素合成受到抑制而发生的。这种影响在服用齐多夫定的HIV患者中可能很严重（齐多夫定也会抑制骨髓功能）。\n*   可在注射部位看到血栓性静脉炎。\n\n(选项B) 三唑类抗真菌药（例如，氟康唑、伊曲康唑）抑制细胞色素P450酶，抑制许多其他药物的代谢。这种影响解释了这一类抗真菌剂的无数药物相互作用。\n\n(选项C) 微管蛋白的结合是灰黄霉素的机制，灰黄霉素仅对皮肤癣菌有效。\n\n(选项D和E) 两性霉素B不与核糖体亚基或线粒体酶相互作用。\n\n教育目标：\n两性霉素B与真菌细胞膜的麦角固醇结合以发挥其抗真菌作用。然而，它也在一定程度上与胆固醇结合，对人体组织造成毒性。两性霉素B最重要的不良反应是肾毒性、低钾血症和低镁血症。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of action and toxicities of amphotericin B, an antifungal medication used to treat systemic mycoses like aspergillosis. Specifically, it assesses the understanding of how amphotericin B's binding to ergosterol and, to a lesser extent, cholesterol, leads to its therapeutic and adverse effects. \n\nTo solve this question, recognize the clinical scenario of invasive aspergillosis in a neutropenic patient treated with amphotericin B. Focus on the drug's mechanism of action and its known toxicities, particularly nephrotoxicity, to deduce that binding to cell membrane cholesterol contributes to these adverse effects.",
+    "zh": "这个问题测试了对两性霉素B（一种用于治疗全身性真菌病（如曲霉病）的抗真菌药物）的作用机制和毒性的了解。具体而言，它评估了对两性霉素B与麦角固醇结合，以及在较小程度上与胆固醇结合如何导致其治疗和不良反应的理解。\n\n要解决这个问题，需要认识到中性粒细胞减少症患者中使用两性霉素B治疗侵袭性曲霉病的临床情况。重点关注该药物的作用机制及其已知的毒性，特别是肾毒性，以推断与细胞膜胆固醇的结合有助于这些不良反应。"
+  },
+  "tags": "Amphotericin B; Invasive aspergillosis; Antifungal agents; Ergosterol; Cholesterol; Nephrotoxicity; Fungal infections; Infectious diseases; Pharmacology",
+  "category": "Micro",
+  "question_id": "273",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\273",
+  "extracted_at": "2025-11-05T15:03:57.206026",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:11:54.422380",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

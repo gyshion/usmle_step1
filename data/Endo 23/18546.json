@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old man comes to the emergency department after experiencing a sudden-onset headache with brief loss of consciousness while working in his yard. CT scan of the brain reveals blood in the basal cistern from a ruptured intracranial aneurysm. The patient is hospitalized, and endovascular coiling of the aneurysm is performed. Over the next several days, his symptoms gradually improve but the patient develops worsening hyponatremia. Which of the following is the most likely cause of this patient's hyponatremia?",
+    "zh": "一名45岁男性因在自家院子里工作时突发头痛伴短暂意识丧失而到急诊科就诊。脑部CT扫描显示，脑底池内有来自颅内动脉瘤破裂的出血。患者住院，并进行了动脉瘤的血管内栓塞术。在接下来的几天里，他的症状逐渐改善，但患者出现进行性低钠血症。以下哪项最可能是该患者低钠血症的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's hyponatremia?",
+    "zh": "以下哪项最可能是该患者低钠血症的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Defective central thirst regulation",
+      "zh": "中枢性口渴调节缺陷"
+    },
+    "B": {
+      "en": "Impaired renal concentrating ability",
+      "zh": "肾脏浓缩功能受损"
+    },
+    "C": {
+      "en": "Inadequate dietary sodium intake",
+      "zh": "饮食钠摄入不足"
+    },
+    "D": {
+      "en": "Increased antidiuretic hormone secretion",
+      "zh": "抗利尿激素分泌增加"
+    },
+    "E": {
+      "en": "Stress-induced excessive cortisol levels",
+      "zh": "应激诱导的皮质醇水平过高"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient likely has the syndrome of inappropriate antidiuretic hormone secretion (SIADH), the most common cause of hyponatremia following subarachnoid hemorrhage (SAH). Antidiuretic hormone (ADH) is normally released by the hypothalamus and posterior pituitary in response to elevated serum osmolality (eg, following water deprivation) or decreased arterial blood volume.\n\nADH promotes renal water reabsorption, which leads to concentration of the urine and lowering of serum osmolality and serum sodium. Hypothalamic damage following SAH is thought to trigger excessive secretion of ADH, resulting in the classic SIADH features of hypotonicity (ie, low serum osmolality), hyponatremia, and persistently concentrated urine (ie, high urine osmolality).\n\nIn addition to SIADH, hyponatremia after SAH can also be due to cerebral salt wasting (caused by increased secretion of brain natriuretic peptide, which leads to urinary sodium losses) or secondary adrenal insufficiency (eg, decreased cortisol production due to pituitary injury). (Choice E). In both conditions, decreased extracellular fluid volume causes a secondary increase in ADH and worsening hyponatremia.\n\n(Choice A) In primary polydipsia, defective central thirst regulation leads to excessive water intake and hyponatremia. ADH levels are low, rather than high. Primary polydipsia is typically seen with certain psychiatric conditions (eg, schizophrenia) or use of psychotic medications. It is not commonly associated with SAH.\n\n(Choice B) Impaired renal concentrating ability is seen in diabetes insipidus (DI), which occurs either due to ADH resistance (nephrogenic DI) or decreased ADH production (central DI). DI may follow cerebral injury; however, it does not cause hyponatremia. Rather, DI results in a clinical picture opposite that of SIADH, featuring hypernatremia, increased serum osmolality, and dilute urine (ie, low urine osmolality).\n\n(Choice C) Inadequate dietary intake of sodium is a rare cause of hyponatremia primarily seen in cases of chronic alcohol abuse (eg, beer potomania). SIADH is a more likely cause of hyponatremia in this patient.\n\nEducational objective:\nHyponatremia following cerebral injury (eg, subarachnoid hemorrhage) is most commonly due to the syndrome of inappropriate antidiuretic hormone secretion. Injury to the hypothalamus leads to increased secretion of antidiuretic hormone, which in turn leads to water retention, low serum osmolality, and increased urinary sodium excretion. {{exhibit_1}}",
+    "zh": "该患者很可能患有抗利尿激素分泌不当综合征（SIADH），这是蛛网膜下腔出血（SAH）后低钠血症最常见的原因。抗利尿激素（ADH）通常由下丘脑和垂体后叶释放，以响应血清渗透压升高（例如，在水剥夺后）或动脉血容量降低。\n\nADH促进肾脏对水的重吸收，这导致尿液浓缩，并降低血清渗透压和血清钠。SAH后下丘脑损伤被认为会触发ADH过度分泌，导致典型的SIADH表现，即低渗性（即，血清渗透压低）、低钠血症和持续浓缩的尿液（即，尿渗透压高）。\n\n除了SIADH外，SAH后低钠血症也可能是由于脑性盐耗（由脑钠尿肽分泌增加引起，导致尿钠丢失）或继发性肾上腺皮质功能不全（例如，由于垂体损伤导致的皮质醇产生减少）所致。(选项E)。在这两种情况下，细胞外液容量减少会导致ADH的继发性增加和低钠血症的恶化。\n\n(选项A) 在原发性烦渴症中，中枢性口渴调节缺陷导致过度饮水和低钠血症。ADH水平低，而不是高。原发性烦渴症通常见于某些精神疾病（如精神分裂症）或使用精神病药物。它通常与SAH无关。\n\n(选项B) 肾脏浓缩功能受损见于尿崩症（DI），其发生是由于ADH抵抗（肾性DI）或ADH产生减少（中枢性DI）。DI可能发生在脑损伤之后；然而，它不会引起低钠血症。相反，DI导致与SIADH相反的临床表现，包括高钠血症、血清渗透压升高和稀释尿液（即，尿渗透压低）。\n\n(选项C) 钠摄入不足是低钠血症的罕见原因，主要见于慢性酒精滥用（例如，啤酒狂饮）。SIADH是该患者低钠血症的更可能原因。\n\n教育目标：\n脑损伤（例如，蛛网膜下腔出血）后低钠血症最常见的原因是抗利尿激素分泌不当综合征。下丘脑损伤导致抗利尿激素分泌增加，进而导致水分潴留、血清渗透压低和尿钠排泄增加。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the causes of hyponatremia, specifically the syndrome of inappropriate antidiuretic hormone secretion (SIADH) following subarachnoid hemorrhage (SAH). It assesses the ability to recognize the clinical features and pathophysiology of SIADH in the context of a patient with recent cerebral injury.\n\nThe best approach is to consider the patient's recent SAH and its potential complications. Recall that hypothalamic damage can lead to SIADH, causing water retention, hyponatremia, and concentrated urine. Rule out other causes of hyponatremia based on their clinical presentation and association with SAH.",
+    "zh": "这个问题考察了低钠血症的原因，特别是蛛网膜下腔出血（SAH）后抗利尿激素分泌不当综合征（SIADH）。它评估了在近期脑损伤的患者中识别SIADH的临床特征和病理生理学的能力。\n\n最好的方法是考虑患者最近的SAH及其潜在并发症。回想一下，下丘脑损伤可导致SIADH，引起水分潴留、低钠血症和尿液浓缩。根据其临床表现和与SAH的关系，排除低钠血症的其他原因。"
+  },
+  "tags": "Hyponatremia; Syndrome of inappropriate antidiuretic hormone secretion (SIADH); Subarachnoid hemorrhage (SAH); Antidiuretic hormone (ADH); Neurology; Endocrinology; Fluid and electrolyte balance",
+  "category": "Endo",
+  "question_id": "18546",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\18546",
+  "extracted_at": "2025-11-05T14:02:45.906826",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:38:50.238034",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old man comes to the office for follow-up one month after a stroke that resulted in speech difficulties. He says that he is improving: \"I can understand everything, but I still have trouble talking with people I don't mow... I mean show, no, slow! I'm so frustrated because I know what I want to say but I just can't say it right!\" The patient's speech is fluid with appropriate cadence, but he is unable to correctly repeat phrases that the physician verbalizes. He can follow 2- and 3-step commands without difficulty.",
+    "zh": "一名63岁男性因中风一个月后来诊复查，中风导致其言语困难。他说他正在好转：“我什么都明白，但我仍然难以和不割……我是说展示，不，缓慢！我非常沮丧，因为我知道我想说什么，但就是说不出来！”患者的言语流畅，语调适当，但无法正确重复医生说出的短语。他可以毫不费力地按照2步和3步指令操作。"
+  },
+  "question": {
+    "en": "Which of the following brain regions is most likely impaired in this patient?",
+    "zh": "该患者最有可能受损的脑区是以下哪一个？"
+  },
+  "options": {
+    "A": {
+      "en": "Arcuate fasciculus",
+      "zh": "弓形束"
+    },
+    "B": {
+      "en": "Wernicke area",
+      "zh": "韦尼克区"
+    },
+    "C": {
+      "en": "Mammillary bodies",
+      "zh": "乳头体"
+    },
+    "D": {
+      "en": "Broca area",
+      "zh": "布罗卡区"
+    },
+    "E": {
+      "en": "Thalamic nuclei",
+      "zh": "丘脑核"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient presents with conduction aphasia, which is characterized by fluent speech, intact comprehension, and difficulty with repetition. The patient's description of his speech difficulties, including the inability to repeat phrases and the frustration of knowing what he wants to say but being unable to articulate it correctly, is classic for conduction aphasia. Conduction aphasia occurs due to damage to the ARCUATE FASCICULUS, a bundle of white matter fibers that connects Wernicke's area (involved in language comprehension) and Broca's area (involved in speech production). The arcuate fasciculus is crucial for the repetition of spoken language. The patient's ability to understand commands and his fluent speech indicate that Wernicke's and Broca's areas themselves are relatively preserved, but the connection between them is disrupted.\n\n(Choice B) Wernicke area lesions typically result in receptive aphasia (also known as fluent aphasia or Wernicke's aphasia), characterized by fluent but nonsensical speech (word salad) and severely impaired comprehension. This patient has good comprehension and his speech, while containing errors, is not nonsensical.\n\n(Choice C and E) Lesions to the mammillary bodies or thalamic nuclei are associated with memory deficits and confabulation, often seen in Korsakoff syndrome, which is a complication of THIAMINE DEFICIENCY. While these areas are involved in cognitive function, they are not the primary cause of conduction aphasia.\n\n(Choice D) Broca area lesions lead to expressive aphasia (also known as nonfluent aphasia or Broca's aphasia), characterized by halting, effortful speech with preserved comprehension. Patients with Broca's aphasia struggle to produce speech, whereas this patient's speech is fluent.\n\nKey clinical pearls:\n- Conduction aphasia = Arcuate fasciculus damage = Fluent speech + Good comprehension + POOR REPETITION.\n- Receptive aphasia (Wernicke's) = Wernicke's area damage = Fluent but nonsensical speech + POOR COMPREHENSION + Poor repetition.\n- Expressive aphasia (Broca's) = Broca's area damage = Nonfluent, effortful speech + GOOD COMPREHENSION + Intact repetition.",
+    "zh": "该患者表现为传导性失语症，其特征是言语流畅，理解力完整，但复述困难。患者对言语困难的描述，包括无法重复短语以及知道自己想说什么却无法正确表达的挫败感，是传导性失语症的典型表现。传导性失语症是由于弓形束受损引起的，弓形束是一束白质纤维，连接韦尼克区（参与语言理解）和布罗卡区（参与言语产生）。弓形束对于重复口语至关重要。患者理解指令的能力和流畅的言语表明韦尼克区和布罗卡区本身相对完好，但它们之间的连接被破坏。\n\n（选项B）韦尼克区病变通常导致接受性失语症（也称为流畅性失语症或韦尼克失语症），其特征是言语流畅但毫无意义（语词沙拉）和严重受损的理解力。该患者理解力良好，而且他的言语虽然包含错误，但并不毫无意义。\n\n（选项C和E）乳头体或丘脑核的病变与记忆力缺陷和虚构有关，常可见于Korsakoff综合征，这是硫胺素缺乏症的并发症。虽然这些区域参与认知功能，但它们不是传导性失语症的主要原因。\n\n（选项D）布罗卡区病变导致表达性失语症（也称为非流畅性失语症或布罗卡失语症），其特征是断断续续、费力的言语，但保留理解力。布罗卡失语症患者难以产生言语，而该患者的言语流畅。\n\n关键临床要点：\n- 传导性失语症 = 弓形束损伤 = 言语流畅 + 理解力良好 + 复述差。\n- 接受性失语症（韦尼克）= 韦尼克区损伤 = 言语流畅但毫无意义 + 理解力差 + 复述差。\n- 表达性失语症（布罗卡）= 布罗卡区损伤 = 非流畅、费力的言语 + 理解力良好 + 复述完整。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of different types of aphasia and their corresponding neurological correlates. Specifically, it assesses the ability to differentiate conduction aphasia from other forms of aphasia based on clinical presentation, and to identify the underlying brain region responsible.\n\nTo solve this question, one must carefully analyze the patient's speech characteristics: fluency, comprehension, and ability to repeat. The presence of fluent speech and good comprehension, coupled with a significant deficit in repetition, points directly to conduction aphasia and implicates the arcuate fasciculus.",
+    "zh": "此题考察了对不同类型失语症及其相应的神经学相关的理解。具体来说，它评估了基于临床表现区分传导性失语症与其他形式失语症的能力，以及识别负责的潜在脑区。\n\n要解决这个问题，必须仔细分析患者的言语特征：流畅度、理解力和复述能力。言语流畅和理解力好，加上复述能力显著不足，直接指向传导性失语症，并牵涉到弓形束。"
+  },
+  "tags": "Conduction aphasia; Arcuate fasciculus; Wernicke area; Broca area; Aphasia; Neurology; Speech disorders; Stroke",
+  "category": "Pathology",
+  "question_id": "105779",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\105779",
+  "extracted_at": "2025-11-05T19:43:28.070856",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:45:10.768895",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

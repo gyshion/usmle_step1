@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 60-year-old man is brought to the emergency department following a motor vehicle collision. He is comatose and unable to provide any information. Multiple blunt injuries of the torso and abdomen are present. Review of the patient's medical record reveals a history of right upper lobe cavitary tuberculosis that was effectively treated several years ago. Recent notes from the primary care physician indicate the patient is otherwise healthy, with no fevers, night sweats, or weight loss. He is a never smoker. After initial stabilization, CT of the head, neck, chest, abdomen, and pelvis is obtained. A representative slice of the chest CT, shown in the image below, redemonstrates his known right upper lobe cavity. Compared to prior imaging, the cavity now appears to be filled with a round mass as shown in the exhibit {{exhibit_1}}.",
+    "zh": "一名60岁男性因车祸被送往急诊科。患者处于昏迷状态，无法提供任何信息。存在多处躯干和腹部钝性损伤。回顾患者的病历，显示其有数年前已得到有效治疗的右肺上叶空洞型肺结核病史。来自初级保健医生的近期记录表明，患者总体健康状况良好，无发热、盗汗或体重减轻。他从不吸烟。在初步稳定后，进行了头部、颈部、胸部、腹部和骨盆的CT扫描。如下图所示的胸部CT代表性切片，重新显示了他已知的右肺上叶空洞。与之前的影像学检查相比，现在空洞似乎被一个圆形肿块填充，如展品{{exhibit_1}}所示。"
+  },
+  "question": {
+    "en": "Which of the following best describes this patient's condition?",
+    "zh": "以下哪项最能描述该患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Allergic inflammation",
+      "zh": "过敏性炎症"
+    },
+    "B": {
+      "en": "Chronic colonization",
+      "zh": "慢性定植"
+    },
+    "C": {
+      "en": "Contagious infection",
+      "zh": "传染性感染"
+    },
+    "D": {
+      "en": "Heterotopic calcification",
+      "zh": "异位钙化"
+    },
+    "E": {
+      "en": "Invasive malignancy",
+      "zh": "浸润性恶性肿瘤"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This asymptomatic patient with previously eradicated tuberculosis now has a spherical mass occupying a preexisting lung cavity; findings consistent with an aspergilloma.  Aspergillus fumigatus is a mold that is ubiquitous in the environment and widely present in soil and organic matter. Spores are constantly inhaled and typically cleared by the respiratory tract's innate defenses (eg, mucociliary escalator, macrophages). However, chronic colonization can occur in patients with underlying abnormal lung structure, such as those with bullae (eg, emphysema) or old cavities (eg, prior tuberculosis, postsurgical status). \n\nOver months to years, Aspergillus proliferates in the cavity, forming a conglomeration of hyphae and cellular debris known as an aspergilloma. The fungus ball (mycetoma) appears as a round intracavity mass surrounded by a crescent of air (surrounding empty space). The aspergilloma shifts with gravity, helping distinguish it from other lung masses (eg, neoplasm) fixed to the parenchyma.\n\nAspergillomas typically grow uneventfully and do not elicit a significant host immunologic reaction. Therefore, they usually remain asymptomatic for years and are only detected incidentally (as in this trauma patient). Occasionally, aspergillomas can erode into adjacent blood vessels, producing hemoptysis.\n\n(Choice A) Allergic bronchopulmonary aspergillosis is a T-2–induced, IgE-mediated hypersensitivity to Aspergillus spores that become trapped in dysfunctional airways (eg, asthma, cystic fibrosis). It presents with difficult-to-control asthma and bronchiectasis (copious, thick sputum; thickened dilated airways with mucus impaction).\n\n(Choice C) Aspergillus is not contagious (ie, transmissible from person to person); it is acquired passively from inhalation of fungal spores in the environment. Reactivation tuberculosis can cause new areas of cavitation or consolidation (not a cavity-filling mass) and is typically accompanied by profound constitutional symptoms (eg, weight loss, night sweats, fever).\n\n(Choice D) Dystrophic calcification is a frequent sequela of granulomatous inflammation (eg, old/healed histoplasmosis or tuberculosis). However, such granuloma-related calcification would have radiodensity equal to that of bone (eg, similar to adjacent vertebrae), would not affect a preexisting cavity, and typically also involves the hilar lymph nodes.\n\n(Choice E) Squamous cell lung cancer can cavitate (representing central tumor necrosis). However, invasive malignancies violate anatomic planes, appearing irregular and spiculated, and are typically symptomatic (eg, chest pain, hemoptysis, weight loss). A well-circumscribed, round mass forming within a preexisting, thin-walled cavity is more consistent with aspergilloma. {{exhibit_2}}{{exhibit_3}}{{exhibit_4}}{{exhibit_5}}{{exhibit_6}}",
+    "zh": "这位无症状的患者先前已根除肺结核，现在出现一个球形肿块占据先前存在的肺空洞；这些发现与曲霉菌球病相符。烟曲霉是一种在环境中无处不在的霉菌，广泛存在于土壤和有机物中。孢子不断被吸入，通常被呼吸道的固有防御机制（例如，纤毛输送带、巨噬细胞）清除。然而，慢性定植可能发生在有潜在肺部结构异常的患者中，例如患有大疱性肺气肿（例如，肺气肿）或旧空洞（例如，既往肺结核、术后状态）的患者。\n\n数月到数年，曲霉菌在空洞中增殖，形成由菌丝和细胞碎片组成的团块，称为曲霉菌球。真菌球（真菌瘤）表现为圆形腔内肿块，周围环绕着新月形的空气（周围的空隙）。曲霉菌球随重力移动，有助于将其与其他固定在肺实质中的肺部肿块（例如，肿瘤）区分开来。\n\n曲霉菌球通常生长顺利，不会引起明显的宿主免疫反应。因此，它们通常多年保持无症状，仅在偶然情况下（如本例中的外伤患者）被发现。偶尔，曲霉菌球会侵蚀到邻近的血管中，引起咯血。\n\n（选项A）过敏性支气管肺曲霉病是由T-2诱导的、IgE介导的对曲霉菌孢子的超敏反应，这些孢子被困在功能失调的气道中（例如，哮喘、囊性纤维化）。它表现为难以控制的哮喘和支气管扩张（大量、浓稠的痰；气道增厚扩张，伴有粘液阻塞）。\n\n（选项C）曲霉菌不具有传染性（即，人与人之间传播）；它是通过吸入环境中的真菌孢子被动获得的。结核病复发可导致新的空洞形成或实变（不是填充空洞的肿块），并且通常伴有严重的全身症状（例如，体重减轻、盗汗、发热）。\n\n（选项D）营养不良性钙化是肉芽肿性炎症的常见后遗症（例如，旧的/已愈合的组织胞浆菌病或肺结核）。然而，这种与肉芽肿相关的钙化的放射密度应与骨骼相同（例如，类似于相邻的椎骨），不会影响先前存在的空洞，并且通常也涉及肺门淋巴结。\n\n（选项E）鳞状细胞肺癌可发生空洞（代表中央肿瘤坏死）。然而，浸润性恶性肿瘤会破坏解剖平面，表现为不规则和毛刺状，并且通常有症状（例如，胸痛、咯血、体重减轻）。在一个先前存在的、壁薄的空洞内形成的边界清楚的圆形肿块更符合曲霉菌球。{{exhibit_2}}{{exhibit_3}}{{exhibit_4}}{{exhibit_5}}{{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pulmonary aspergilloma, specifically its presentation in patients with prior lung cavities and its characteristic radiographic appearance. It also requires differentiating aspergilloma from other conditions that can cause lung cavities or masses.\n\nTo solve this question, recognize the patient's history of treated tuberculosis, the incidental finding of a mass within a lung cavity on imaging, and the absence of significant symptoms. This clinical picture is highly suggestive of an aspergilloma.",
+    "zh": "这个问题测试对肺曲霉菌球病的了解，特别是它在既往有肺空洞的患者中的表现及其特征性的影像学表现。它还需要将曲霉菌球病与其他可引起肺空洞或肿块的疾病区分开来。\n\n要解决这个问题，需要认识到患者有治疗过的肺结核病史，影像学检查中在肺空洞内偶然发现肿块，以及无明显症状。这种临床表现高度提示曲霉菌球病。"
+  },
+  "tags": "Aspergilloma; Aspergillus fumigatus; Pulmonary mycosis; Lung cavity; Tuberculosis; Chronic colonization; Fungal infection; Radiology; Pulmonary disease",
+  "category": "Chest",
+  "question_id": "108",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\108",
+  "extracted_at": "2025-11-05T11:35:41.905534",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:33:11.919145",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

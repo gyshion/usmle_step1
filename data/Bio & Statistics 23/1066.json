@@ -1,0 +1,55 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old man comes to the office with progressively worsening fatigue associated with dark urine and back pain. Two days ago, the patient ate some large, flat beans brought home by his wife after a business trip to Egypt. Physical examination shows jaundice and pallor. Laboratory results reveal a hemoglobin level of 8 g/dL. Further evaluation reveals deficiency of an enzyme involved in the conversion of glucose-6-phosphate to ribulose-5-phosphate.",
+    "zh": "一名35岁的男性来诊，主诉进行性加重的疲劳，伴有深色尿和背痛。两天前，患者吃了妻子出差埃及带回的一些大而扁平的豆子。体格检查显示黄疸和面色苍白。实验室结果显示血红蛋白水平为8 g/dL。进一步评估显示，一种参与将葡萄糖-6-磷酸转化为核酮糖-5-磷酸的酶存在缺陷。"
+  },
+  "question": {
+    "en": "The substance generated during this conversion is necessary for which of the following biochemical processes?",
+    "zh": "在此转化过程中产生的物质对以下哪种生化过程是必需的？"
+  },
+  "options": {
+    "A": {
+      "en": "ADP phosphorylation",
+      "zh": "ADP磷酸化"
+    },
+    "B": {
+      "en": "Fatty acid synthesis",
+      "zh": "脂肪酸合成"
+    },
+    "C": {
+      "en": "Glycogen storage",
+      "zh": "糖原储存"
+    },
+    "D": {
+      "en": "Ketone body synthesis",
+      "zh": "酮体合成"
+    },
+    "E": {
+      "en": "Protein degradation",
+      "zh": "蛋白质降解"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The patient's clinical presentation of fatigue, dark urine, back pain, jaundice, pallor, and anemia (hemoglobin 8 g/dL) after consuming fava beans is highly suggestive of **GLUCOSE-6-PHOSPHATE DEHYDROGENASE (G6PD) DEFICIENCY**. The question explicitly states a deficiency of an enzyme involved in the conversion of glucose-6-phosphate to ribulose-5-phosphate, which is the initial, rate-limiting, and irreversible step of the **PENTOSE PHOSPHATE PATHWAY (PPP)**, catalyzed by G6PD. This reaction generates **NADPH** (Nicotinamide Adenine Dinucleotide Phosphate, reduced form). {{exhibit_1}}\n\nThe pentose phosphate pathway (PPP), also known as the hexose monophosphate shunt, has two main functions:\n1.  **Production of NADPH**: The oxidative portion (irreversible) of the PPP, involving the conversion of glucose-6-phosphate to ribulose-5-phosphate, generates 2 molecules of NADPH. NADPH is a crucial reducing agent for several anabolic processes.\n2.  **Synthesis of ribose-5-phosphate**: The nonoxidative reactions (reversible) of the PPP produce ribose-5-phosphate, which is essential for NUCLEOTIDE SYNTHESIS (DNA, RNA) and can also be shunted into glycolysis for energy production.\n\nNADPH is particularly vital in:\n*   **Protecting against oxidative stress**: In red blood cells (erythrocytes), NADPH is used by glutathione reductase to reduce oxidized glutathione (GSSG) back to its reduced form (GSH). Reduced glutathione is a critical antioxidant that protects red blood cells from reactive oxygen species and oxidative damage. G6PD deficiency leads to insufficient NADPH, causing a buildup of oxidants, which results in **ACUTE HEMOLYTIC ANEMIA** (seen as jaundice, pallor, and low hemoglobin in the patient) and the formation of Heinz bodies (precipitated hemoglobin) in red blood cells. Common triggers for oxidative stress include fava beans (favism), certain drugs (e.g., primaquine, sulfa drugs), and infections.\n*   **Reductive biosynthesis**: NADPH is the main source of reducing equivalents for ANABOLIC PATHWAYS, particularly those involved in the synthesis of large molecules. These include the synthesis of **fatty acids, cholesterol, and steroids**. Organs like the liver and adrenal cortex, which are highly active in these processes, rely heavily on NADPH.\n*   **Cytochrome P450 metabolism**: NADPH is also involved in various detoxification reactions catalyzed by the cytochrome P450 system.\n*   **Respiratory burst in phagocytes**: Phagocytic cells (e.g., neutrophils, macrophages) use NADPH oxidase to generate superoxide radicals as part of the \"respiratory burst\" to kill engulfed pathogens.\n\nLet's evaluate the options:\n\n**(Choice B) Fatty acid synthesis**: **CORRECT**. NADPH is essential for the reduction steps in fatty acid synthesis (de novo lipogenesis), where it provides the electrons necessary to reduce keto and enoyl groups. This is a classic example of a reductive biosynthetic process requiring NADPH.\n\n**(Choice A) ADP phosphorylation**: **INCORRECT**. ADP phosphorylation to ATP occurs primarily via OXIDATIVE PHOSPHORYLATION in the mitochondria (requiring NADH and FADH2) or substrate-level phosphorylation (e.g., in glycolysis). While NADH is a reducing agent, NADPH cannot be directly used to convert ADP to ATP. Its primary role is in anabolic reductions, not energy generation via the electron transport chain.\n\n**(Choice C) Glycogen storage**: **INCORRECT**. Glycogenesis (glycogen synthesis) is the process of storing glucose as glycogen. This process primarily requires glucose-6-phosphate, UDP-glucose, and ATP, but does not directly utilize NADPH as a reducing agent.\n\n**(Choice D) Ketone body synthesis**: **INCORRECT**. Ketone bodies are synthesized in the liver mitochondria primarily during prolonged fasting or uncontrolled diabetes. The precursors are fatty acids, which are broken down to acetyl-CoA. The synthesis pathway itself (e.g., via HMG-CoA synthase) does not require NADPH. However, it's important to note that cholesterol synthesis (which shares HMG-CoA as an intermediate) *does* require NADPH. The question specifically asks about ketone body synthesis, which does not.\n\n**(Choice E) Protein degradation**: **INCORRECT**. Protein degradation (catabolism) involves the hydrolysis of peptide bonds to yield amino acids. These amino acids are then metabolized, and their nitrogen is removed (deamination/transamination) and converted to urea via the urea cycle for excretion. None of these processes directly require NADPH as a reducing agent.\n\n**Educational objective**: Glucose-6-phosphate dehydrogenase (G6PD) is the rate-limiting enzyme of the pentose phosphate pathway, which is the major source of cellular NADPH. This molecule is necessary for reducing glutathione (protects red blood cells from oxidative damage) and for the biosynthesis of cholesterol, fatty acids, and steroids. A deficiency leads to acute hemolytic anemia under oxidative stress.",
+    "zh": "患者在食用蚕豆后出现疲劳、深色尿、背痛、黄疸、面色苍白和贫血（血红蛋白8 g/dL）的临床表现，高度提示**葡萄糖-6-磷酸脱氢酶（G6PD）缺乏症**。题目明确指出一种参与将葡萄糖-6-磷酸转化为核酮糖-5-磷酸的酶存在缺陷，这是由G6PD催化的**磷酸戊糖途径（PPP）**的初始、限速且不可逆的步骤。此反应产生**NADPH**（烟酰胺腺嘌呤二核苷酸磷酸，还原型）。{{exhibit_1}}\n\n磷酸戊糖途径（PPP），也称为己糖单磷酸旁路，有两个主要功能：\n1.  **NADPH的产生**：PPP的氧化部分（不可逆），涉及将葡萄糖-6-磷酸转化为核酮糖-5-磷酸，产生2个NADPH分子。NADPH是多种合成代谢过程的关键还原剂。\n2.  **核糖-5-磷酸的合成**：PPP的非氧化反应（可逆）产生核糖-5-磷酸，这对于**核苷酸合成**（DNA、RNA）至关重要，并且也可以分流到糖酵解中用于能量产生。\n\nNADPH尤其重要于：\n*   **抵抗氧化应激**：在红细胞（红细胞）中，NADPH被谷胱甘肽还原酶用于将氧化型谷胱甘肽（GSSG）还原为其还原型（GSH）。还原型谷胱甘肽是一种重要的抗氧化剂，可保护红细胞免受活性氧和氧化损伤。G6PD缺乏导致NADPH不足，从而导致氧化剂积聚，导致**急性溶血性贫血**（表现为患者的黄疸、面色苍白和血红蛋白低）和红细胞中海因茨小体（沉淀的血红蛋白）的形成。氧化应激的常见诱因包括蚕豆（蚕豆病）、某些药物（例如，伯氨喹、磺胺类药物）和感染。\n*   **还原性生物合成**：NADPH是**合成代谢途径**（特别是那些参与大分子合成的）的主要还原当量来源。这些包括**脂肪酸、胆固醇和类固醇**的合成。像肝脏和肾上腺皮质这样的器官，在这些过程中非常活跃，它们严重依赖NADPH。\n*   **细胞色素P450代谢**：NADPH也参与由细胞色素P450系统催化的各种解毒反应。\n*   **吞噬细胞中的呼吸爆发**：吞噬细胞（例如，中性粒细胞、巨噬细胞）使用NADPH氧化酶产生超氧自由基，作为“呼吸爆发”的一部分，以杀死吞噬的病原体。\n\n让我们评估一下选项：\n\n**(选项B) 脂肪酸合成**：**正确**。NADPH对于脂肪酸合成（从头脂肪生成）中的还原步骤至关重要，它提供还原酮基和烯酰基所需的电子。这是需要NADPH的还原性生物合成过程的一个经典例子。\n\n**(选项A) ADP磷酸化**：**不正确**。ADP磷酸化成ATP主要发生在 线粒体中的氧化磷酸化（需要NADH和FADH2）或底物水平磷酸化（例如，在糖酵解中）。虽然NADH是一种还原剂，但NADPH不能直接用于将ADP转化为ATP。它的主要作用是合成代谢还原，而不是通过电子传递链产生能量。\n\n**(选项C) 糖原储存**：**不正确**。糖原生成（糖原合成）是将葡萄糖储存为糖原的过程。该过程主要需要葡萄糖-6-磷酸、UDP-葡萄糖和ATP，但不会直接使用NADPH作为还原剂。\n\n**(选项D) 酮体合成**：**不正确**。酮体主要在长时间禁食或不受控制的糖尿病期间在肝脏线粒体中合成。前体是脂肪酸，它们被分解为乙酰辅酶A。合成途径本身（例如，通过HMG-CoA合酶）不需要NADPH。但是，值得注意的是，胆固醇合成（它与HMG-CoA共享一个中间体）*确实*需要NADPH。这个问题特别询问酮体合成，这不需要NADPH。\n\n**(选项E) 蛋白质降解**：**不正确**。蛋白质降解（分解代谢）涉及肽键的水解以产生氨基酸。然后对这些氨基酸进行代谢，并将其氮去除（脱氨/转氨）并通过尿素循环转化为尿素以进行排泄。这些过程均不直接需要NADPH作为还原剂。\n\n**教育目标**：葡萄糖-6-磷酸脱氢酶（G6PD）是磷酸戊糖途径的限速酶，是细胞NADPH的主要来源。该分子对于还原谷胱甘肽（保护红细胞免受氧化损伤）以及胆固醇、脂肪酸和类固醇的生物合成是必需的。缺乏会导致在氧化应激下发生急性溶血性贫血。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pentose phosphate pathway (PPP), the function of its key product NADPH, and its clinical relevance in glucose-6-phosphate dehydrogenase (G6PD) deficiency. It assesses understanding of metabolic pathways and the specific roles of reducing equivalents like NADPH in anabolic processes and antioxidant defense.\n\nTo solve this question, first recognize the classic presentation of G6PD deficiency triggered by fava beans, leading to hemolytic anemia. Then, identify the enzyme deficiency as G6PD and the key product as NADPH. Finally, recall the major biochemical functions of NADPH, especially its role in reductive biosynthesis, to choose the correct anabolic pathway.",
+    "zh": "这个问题测试了对磷酸戊糖途径（PPP）的知识、其关键产物NADPH的功能，及其在葡萄糖-6-磷酸脱氢酶（G6PD）缺乏症中的临床相关性。它评估了对代谢途径的理解以及像NADPH这样的还原当量在合成代谢过程和抗氧化防御中的具体作用。\n\n要解决这个问题，首先要认识到由蚕豆引起的G6PD缺乏症的典型表现，导致溶血性贫血。然后，确定酶的缺乏症为G6PD，关键产物为NADPH。最后，回忆NADPH的主要生化功能，特别是它在还原性生物合成中的作用，以选择正确的合成代谢途径。"
+  },
+  "tags": "G6PD deficiency; Pentose phosphate pathway; NADPH; Hemolytic anemia; Fava beans; Fatty acid synthesis; Reductive biosynthesis; Biochemistry; Metabolism",
+  "category": "Bio",
+  "question_id": "1066",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1066",
+  "extracted_at": "2025-11-05T10:22:19.888757",
+  "translated_at": "2025-11-07T15:43:47.910224",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

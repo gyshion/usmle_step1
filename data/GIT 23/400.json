@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 43-year-old man comes to the office due to yellowing of the skin over the past few weeks. He has had no fever or abdominal pain and has not traveled recently or received blood transfusions. The patient has also experienced increased shortness of breath with exercise over the last several months. He has no other medical conditions and takes no medications. The patient drinks 1 or 2 glasses of wine on social occasions and does not use tobacco or illicit drugs. His father died of liver cirrhosis attributed to heavy alcohol use. On physical examination, expiration is prolonged and there are scattered wheezes bilaterally. Laboratory results show total bilirubin of 4.1 mg/dL and alanine aminotransferase of 90 U/L. Viral hepatitis serology is negative. Chest x-ray shows hyperlucency of the lungs and flattening of the diaphragm {{exhibit_1}}. Abdominal ultrasound reveals increased liver span and echogenicity of the liver parenchyma but no masses. Which of the following is the most likely underlying cause of this patient's symptoms?",
+    "zh": "一名43岁的男性因过去几周皮肤发黄就诊。他没有发烧或腹痛，并且最近没有旅行或接受输血。患者在过去几个月里还经历了运动时呼吸急促加重的情况。他没有其他疾病，也没有服用药物。患者在社交场合喝1到2杯葡萄酒，不吸烟也不使用非法药物。他的父亲死于肝硬化，这归因于大量饮酒。体格检查显示呼气延长，双侧有散在的哮鸣音。实验室结果显示总胆红素为4.1 mg/dL，丙氨酸氨基转移酶为90 U/L。病毒性肝炎血清学检测呈阴性。胸部X光片显示肺部透亮度增加和膈肌变平 {{exhibit_1}}。腹部超声显示肝脏大小增加，肝实质回声增强，但无肿块。以下哪项最可能是该患者症状的根本原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying cause of this patient's symptoms?",
+    "zh": "以下哪项最可能是该患者症状的根本原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Autoimmune injury of the intrahepatic bile ducts",
+      "zh": "肝内胆管的自身免疫损伤"
+    },
+    "B": {
+      "en": "Decreased UDP-glucuronosyltransferase activity",
+      "zh": "UDP-葡萄糖醛酸转移酶活性降低"
+    },
+    "C": {
+      "en": "Defective chloride transport at epithelial surfaces",
+      "zh": "上皮表面的氯离子转运缺陷"
+    },
+    "D": {
+      "en": "Defective transport and accumulation of copper",
+      "zh": "铜的转运和积聚缺陷"
+    },
+    "E": {
+      "en": "Inherited deficiency of a serine protease inhibitor",
+      "zh": "丝氨酸蛋白酶抑制剂的遗传性缺乏"
+    },
+    "F": {
+      "en": "Unregulated gastrointestinal iron absorption",
+      "zh": "胃肠道铁吸收失调"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Alpha-1 antitrypsin deficiency\n\nThis patient with signs of liver dysfunction (ie, jaundice, transaminitis) and evidence of emphysema on chest x-ray {{exhibit_2}} (eg, hyperlucency, diaphragmatic flattening) likely has alpha-1 antitrypsin deficiency (AATD). Alpha-1 antitrypsin is a serine protease inhibitor that regulates the activity of a number of tissue-destructive proteases, most importantly neutrophil elastase. Deficiency is inherited in an autosomal codominant fashion.\n\nAATD leads to unchecked elastase activity in the lungs, resulting in alveolar destruction and lung hyperinflation; the panacinar emphysema tends to favor the basilar lung regions and typically develops prior to age 50. In addition, some patients are at risk for developing liver disease due to accumulation of improperly folded alpha-1 antitrypsin proteins in hepatocytes. Liver disease is of greatest concern in the first 2 decades of life, but it can present at any age. Patients can experience hepatomegaly, hyperbilirubinemia, elevated transaminases, and eventual cirrhosis and end-stage liver disease. Hepatocellular carcinoma may also develop.\n\n(Choice A) Autoimmune injury of intrahepatic bile ducts occurs in primary biliary cholangitis (PBC). PBC predominantly affects women and is characterized by positive antimitochondrial antibodies. It is not associated with emphysema.\n\n(Choice B) UDP-glucuronosyltransferase is an enzyme that converts unconjugated bilirubin to its conjugated form, and inherited deficiency can exist in varying degrees. Mild deficiency results in benign elevations in unconjugated bilirubin during periods of stress (ie, Gilbert syndrome), while severe deficiency can be fatal during infancy (ie, Crigler-Najjar syndrome type I).\n\n(Choice C) Defective epithelial chloride transport occurs in cystic fibrosis. Patients typically develop obstructive lung disease in the form of bronchiectasis and can have pancreatic insufficiency leading to malabsorption. Cirrhosis can sometimes occur due to chronic obstruction of the biliary ducts, but almost always develops during childhood.\n\n(Choice D) Defective copper transport resulting in accumulation of intracellular copper occurs in Wilson disease. Patients can develop cirrhosis as well as brain degeneration leading to neurologic (eg, dysarthria, gait abnormalities) and psychiatric (eg, impulsivity) manifestations.\n\n(Choice F) Unregulated gastrointestinal iron absorption occurs in hemochromatosis. Patients can develop cirrhosis due to iron overload. The joints (arthritis), pancreas (diabetes mellitus), and heart (cardiomyopathy) are also commonly affected, but lung involvement is not typical.\n\nEducational objective:\nAlpha-1 antitrypsin (AAT) is a serine protease inhibitor that regulates the activity of elastase in the lung. Inherited deficiency of AAT leads to alveolar destruction and panacinar emphysema; in addition, accumulation of improperly folded AAT proteins in hepatocytes can lead to liver dysfunction and cirrhosis in some patients. {{exhibit_3}} {{exhibit_4}}",
+    "zh": "α-1抗胰蛋白酶缺乏症\n\n这位患者出现肝功能障碍的体征（即黄疸、转氨酶升高）和胸部X光片上肺气肿的证据 {{exhibit_2}}（例如，肺部透亮度增加、膈肌变平），很可能患有α-1抗胰蛋白酶缺乏症 (AATD)。 α-1抗胰蛋白酶是一种丝氨酸蛋白酶抑制剂，可调节多种组织破坏性蛋白酶的活性，其中最重要的是中性粒细胞弹性蛋白酶。 这种缺乏症以常染色体共显性方式遗传。\n\nAATD 导致肺部弹性蛋白酶活性不受控制，导致肺泡破坏和肺过度充气；全小叶性肺气肿往往倾向于肺底区域，通常在50岁之前发生。 此外，一些患者由于肝细胞中错误折叠的 α-1 抗胰蛋白酶蛋白的积累而有患肝病的风险。 肝病在生命的头20年中最受关注，但它可能在任何年龄出现。 患者可能会出现肝肿大、高胆红素血症、转氨酶升高，并最终发展为肝硬化和终末期肝病。 也可能发生肝细胞癌。\n\n(选项A) 肝内胆管的自身免疫损伤发生在原发性胆汁性胆管炎 (PBC) 中。 PBC 主要影响女性，其特征是抗线粒体抗体呈阳性。它与肺气肿无关。\n\n(选项B) UDP-葡萄糖醛酸转移酶是一种将非结合胆红素转化为结合形式的酶，其遗传性缺乏症可能存在不同程度。 轻度缺乏会导致应激期间非结合胆红素良性升高（即吉尔伯特综合征），而严重缺乏可能在婴儿期致命（即I型 Crigler-Najjar 综合征）。\n\n(选项C) 上皮细胞氯离子转运缺陷发生在囊性纤维化中。患者通常会发生阻塞性肺病，表现为支气管扩张，并且可能出现胰腺功能不全，导致吸收不良。肝硬化有时会由于胆管慢性梗阻而发生，但几乎总是在儿童时期发生。\n\n(选项D) 导致细胞内铜积聚的铜转运缺陷发生在威尔逊病中。患者可能发生肝硬化以及脑变性，导致神经系统（例如，构音障碍、步态异常）和精神病学（例如，冲动性）表现。\n\n(选项F) 胃肠道铁吸收失调发生在血色病中。患者可能因铁超载而发生肝硬化。关节（关节炎）、胰腺（糖尿病）和心脏（心肌病）也常受影响，但肺部受累并不典型。\n\n教育目标：\nα-1抗胰蛋白酶 (AAT) 是一种丝氨酸蛋白酶抑制剂，可调节肺部弹性蛋白酶的活性。 AAT 遗传性缺乏会导致肺泡破坏和全小叶性肺气肿；此外，肝细胞中错误折叠的 AAT 蛋白的积累会导致某些患者出现肝功能障碍和肝硬化。 {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of alpha-1 antitrypsin deficiency (AATD), including its presentation with both liver and lung disease, and the underlying pathophysiology of AATD. It also tests the ability to differentiate AATD from other causes of liver and lung disease.\n\nTo solve this question, recognize the combination of liver dysfunction (jaundice, elevated transaminases) and lung disease (emphysema) in a relatively young patient. Consider the family history of liver cirrhosis and the chest x-ray findings. This should lead to consideration of AATD as the most likely diagnosis.",
+    "zh": "此题考察对α-1抗胰蛋白酶缺乏症（AATD）的了解，包括其肝病和肺病表现，以及 AATD 的潜在病理生理学。它还考察了将 AATD 与其他肝病和肺病病因区分开来的能力。\n\n要解决此问题，请识别相对年轻患者的肝功能障碍（黄疸、转氨酶升高）和肺病（肺气肿）的组合。考虑肝硬化的家族史和胸部 X 光检查结果。这应该导致将 AATD 视为最可能的诊断。"
+  },
+  "tags": "Alpha-1 antitrypsin deficiency; Liver disease; Emphysema; Pulmonary disease; Hepatology; Genetics; Serine protease inhibitor",
+  "category": "GIT",
+  "question_id": "400",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\400",
+  "extracted_at": "2025-11-05T14:34:15.085735",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:57:12.042293",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

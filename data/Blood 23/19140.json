@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old woman comes to the office due to worsening fatigue and exercise intolerance. She has no history of blood disorders. Physical examination shows mild mucosal pallor. Hemoglobin is 7.8 g/dL. Peripheral blood smear is shown in the image below {{exhibit_1}}.",
+    "zh": "一名32岁的女性因疲劳加重和运动耐受力下降前来就诊。她没有血液疾病病史。体格检查显示轻度黏膜苍白。血红蛋白为7.8 g/dL。外周血涂片见下图 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's anemia?",
+    "zh": "以下哪项最可能是该患者贫血的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Erythropoietin deficiency",
+      "zh": "促红细胞生成素缺乏"
+    },
+    "B": {
+      "en": "Hemolytic anemia",
+      "zh": "溶血性贫血"
+    },
+    "C": {
+      "en": "Iron deficiency anemia",
+      "zh": "缺铁性贫血"
+    },
+    "D": {
+      "en": "Thrombotic microangiopathy",
+      "zh": "血栓性微血管病"
+    },
+    "E": {
+      "en": "Vitamin B₁₂ deficiency",
+      "zh": "维生素B₁₂缺乏"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient with symptomatic anemia (eg, fatigue, exercise intolerance) has peripheral blood smear findings that indicate hemolytic anemia, including the following:\n\n•\tIncreased reticulocytes: Reticulocytes are larger than mature red blood cells (RBCs), lack central pallor, and have a bluish coloration (polychromatic RBCs) due to the presence of ribosomes, which are not found in mature RBCs. Increased reticulocytes in the peripheral blood is a nonspecific finding that indicates the bone marrow is responding appropriately to anemia by increasing production of new erythrocytes.\n\n•\tSpherocytes: Spherocytes are erythrocytes with reduced cell membrane, which makes the cell spherical rather than biconcave. In otherwise healthy individuals, spherocytes generally arise in the setting of immune-mediated hemolytic anemia; in this condition, IgG-coated erythrocytes are partially phagocytized by splenic macrophages, which reduces the surface area of the erythrocyte cell membrane, thereby causing the erythrocyte to assume a spherical shape.\n\n•\tNucleated erythrocytes: Nucleated erythrocytes are very immature RBCs. The presence of nucleated RBCs in the peripheral blood indicates a strong bone marrow response to compensate for the anemia.\n\n(Choice A) Anemia due to erythropoietin deficiency is often seen in patients with end-stage renal disease because erythropoietin production by the kidneys is impaired. Individuals with erythropoietin deficiency are not able to sufficiently increase erythropoiesis in response to anemia; therefore, peripheral blood smear does not typically show increased reticulocytes or nucleated RBCs.\n\n(Choice C) Iron deficiency anemia can be seen in young women with heavy menstruation or gastrointestinal bleeding. However, peripheral blood smear typically shows hypochromic RBCs and microcytosis.\n\n(Choice D) Thrombotic microangiopathy is associated with microvascular clot formation, which causes anemia via RBC shearing. In this condition, peripheral blood smear typically shows schistocytes, not spherocytes.\n\n(Choice E) Vitamin B₁₂ deficiency is common in patients with atrophic gastritis and alcohol use disorder. It commonly causes macrocytic anemia with hypersegmented neutrophils on peripheral blood smear.\n\nEducational objective:\nIn patients with hemolytic anemia, peripheral blood smear usually reveals evidence of reticulocytosis, spherocytes, and nucleated red blood cells. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "该患者出现症状性贫血（例如，疲劳，运动耐受力下降），其外周血涂片检查结果提示溶血性贫血，包括以下内容：\n\n•\t网织红细胞增多：网织红细胞比成熟红细胞（RBCs）大，缺乏中央苍白区，呈蓝色的着色（多染性红细胞），这是由于存在核糖体，而成熟红细胞中没有核糖体。外周血中网织红细胞增多是一种非特异性发现，表明骨髓对贫血的反应是适当的，即通过增加新红细胞的产生来应对贫血。\n\n•\t球形红细胞：球形红细胞是细胞膜减少的红细胞，这使得细胞呈球形而不是双凹形。在其他方面健康的个体中，球形红细胞通常出现在免疫介导的溶血性贫血的情况下；在这种情况下，IgG包被的红细胞被脾脏巨噬细胞部分吞噬，这减少了红细胞细胞膜的表面积，从而导致红细胞呈现球形。\n\n•\t有核红细胞：有核红细胞是非常不成熟的红细胞。外周血中出现有核红细胞表明骨髓对贫血的反应强烈。\n\n（选项 A）由于促红细胞生成素缺乏引起的贫血常见于终末期肾病患者，因为肾脏产生的促红细胞生成素受损。促红细胞生成素缺乏的个体无法充分增加对贫血的红细胞生成；因此，外周血涂片通常不会显示网织红细胞或有核红细胞增多。\n\n（选项 C）缺铁性贫血可见于月经量过多或胃肠道出血的年轻女性。然而，外周血涂片通常显示低色素性红细胞和红细胞小细胞性贫血。\n\n（选项 D）血栓性微血管病与微血管凝块形成有关，这通过红细胞剪切导致贫血。在这种情况下，外周血涂片通常显示裂红细胞，而不是球形红细胞。\n\n（选项 E）维生素B₁₂缺乏症常见于患有萎缩性胃炎和酒精使用障碍的患者。它通常引起大细胞性贫血，在外周血涂片上显示有多分叶中性粒细胞。\n\n教育目标：\n在溶血性贫血患者中，外周血涂片通常显示网织红细胞增多、球形红细胞和有核红细胞的证据。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hemolytic anemia and its characteristic findings on peripheral blood smear, including reticulocytosis, spherocytes, and nucleated red blood cells. It also requires differentiating hemolytic anemia from other causes of anemia based on peripheral smear findings.\n\nTo solve this question, analyze the peripheral blood smear for characteristic features of hemolytic anemia. Rule out other causes of anemia based on their typical peripheral smear findings, such as hypochromic microcytic RBCs in iron deficiency anemia or schistocytes in thrombotic microangiopathy.",
+    "zh": "本题考察了关于溶血性贫血的知识及其在外周血涂片上的特征性表现，包括网织红细胞增多、球形红细胞和有核红细胞。它还需要根据外周涂片检查结果，将溶血性贫血与其他贫血原因区分开来。\n\n要解决这个问题，需要分析外周血涂片，查找溶血性贫血的特征性表现。根据贫血的其他原因的典型外周涂片检查结果，例如缺铁性贫血中的低色素性小细胞红细胞或血栓性微血管病中的裂红细胞，来排除其他原因。"
+  },
+  "tags": "Hemolytic anemia; Peripheral blood smear; Reticulocytosis; Spherocytes; Nucleated red blood cells; Anemia; Hematology",
+  "category": "Blood",
+  "question_id": "19140",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\19140",
+  "extracted_at": "2025-11-05T11:31:19.339409",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:30:23.419402",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

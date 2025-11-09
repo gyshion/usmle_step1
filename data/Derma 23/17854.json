@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 72-year-old man is evaluated due to a scaly lesion behind his right ear. A diagnosis of squamous cell carcinoma is confirmed on biopsy, and the patient undergoes excision of the lesion with clear margins. The wound is left to heal by secondary intention. Three weeks later, the patient returns to the office with a 2.5-cm raised, soft, granular lesion at the excision site. Biopsy of a representative lesion is shown in the image below: {{exhibit_1}}",
+    "zh": "一名72岁男性因右耳后方出现鳞屑性病变而接受评估。活检证实为鳞状细胞癌，患者接受病灶切除术，切缘清晰。伤口采用二期愈合。三周后，患者返回诊室，发现在切除部位出现一个2.5厘米隆起、柔软、呈颗粒状的病灶。代表性病灶的活检结果如下图所示：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is most likely responsible for this patient's postoperative changes?",
+    "zh": "以下哪项最有可能导致该患者的术后变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Deposition of immunoglobulin-derived fibrils",
+      "zh": "免疫球蛋白衍生的原纤维沉积"
+    },
+    "B": {
+      "en": "Excess production of type I collagen",
+      "zh": "I型胶原蛋白过度产生"
+    },
+    "C": {
+      "en": "Proliferation of dysplastic keratinocytes",
+      "zh": "异型角质形成细胞增生"
+    },
+    "D": {
+      "en": "Recruitment and degranulation of neutrophils",
+      "zh": "中性粒细胞募集和脱颗粒"
+    },
+    "E": {
+      "en": "VEGF-induced tissue proliferation",
+      "zh": "VEGF诱导的组织增生"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient has a lesion with abundant capillaries and fibroblasts, which is characteristic of granulation tissue. Raising of the lesion above the surrounding skin (tissue overgrowth) is further consistent with excessive proliferation of granulation tissue (ie, hypergranulation tissue) at the site of wound healing.\n\nGranulation tissue is an essential component of the proliferative phase of normal wound healing, providing the nutrients and structure needed for a wound to fill and reepithelialize. Platelets and macrophages in and around a healing wound produce vascular endothelial growth factor (VEGF), which induces the vascular and fibroblast proliferation of granulation tissue.\n\nHowever, if VEGF-induced tissue proliferation continues unchecked, the resulting hypergranulation tissue prevents wound epithelialization and remodeling. These lesions most often occur at the site of nasogastric tubes or wounds left to heal by secondary intention (ie, the wound is purposely left open).\n\n(Choice A) Cutaneous amyloidosis is caused by the deposition of insoluble fibers derived from precursor proteins (eg, immunoglobulin light chains) into the superficial dermis. It can have a varied gross appearance (eg, macular, nodular, lichenous) but would be characterized histologically by homogenous, eosinophilic dermal deposits.\n\n(Choice B) During the remodeling phase of wound healing, fibroblasts and type III collagen in granulation tissue are gradually (ie, over weeks to years) replaced with myofibroblasts and type I collagen, forming a scar. Abnormalities in this process result in unchecked production of collagen fibers, forming a hypertrophic scar or keloid months after the initial wound.\n\n(Choice C) Individuals with a resected squamous cell carcinoma lesion are at risk of developing a secondary lesion at the same site. However, these recurrences typically develop years postresection, and histology would typically show acanthosis, keratinization, and evidence of keratinocyte dysplasia (eg, keratinocytes with pleomorphic nuclei and abundant cytoplasm).\n\n(Choice D) Neutrophils are essential to the normal inflammatory response in wound healing; they prevent infection and release cytokines and growth factors that allow wound healing to progress. However, protracted inflammation and excessive release of reactive oxygen species by neutrophils in a wound can cause tissue damage that delays wound healing, resulting in a chronic, nonhealing wound.\n\nEducational objective:\nFibroblast and vascular proliferation (ie, granulation tissue) induced by vascular endothelial growth factor (VEGF) is essential to normal wound healing. However, if this tissue proliferation becomes excessive (eg, in wounds left to heal by secondary intention), the resulting hypergranulation tissue can impair wound reepithelization and remodeling. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "该患者的病变具有丰富的毛细血管和成纤维细胞，这是肉芽组织的特征。病变高于周围皮肤（组织过度生长）也进一步与伤口愈合部位肉芽组织过度增生（即，过度肉芽组织）相符。\n\n肉芽组织是正常伤口愈合增殖期的重要组成部分，为伤口填充和重新上皮化提供所需的营养和结构。愈合伤口内及周围的血小板和巨噬细胞产生血管内皮生长因子 (VEGF)，从而诱导肉芽组织的血管和成纤维细胞增生。\n\n然而，如果 VEGF 诱导的组织增生持续不受控制，则产生的过度肉芽组织会阻止伤口上皮化和重塑。这些病变最常发生在鼻胃管或采用二期愈合的伤口（即，伤口故意敞开）处。\n\n（选项 A）皮肤淀粉样变性是由前体蛋白（例如，免疫球蛋白轻链）衍生的不溶性纤维沉积到表皮真皮中引起的。它可以有多种大体外观（例如，斑状、结节状、苔藓状），但在组织学上以均匀的嗜酸性真皮沉积物为特征。\n\n（选项 B）在伤口愈合的重塑阶段，肉芽组织中的成纤维细胞和 III 型胶原逐渐（即，数周到数年）被肌成纤维细胞和 I 型胶原蛋白取代，形成瘢痕。此过程中的异常会导致胶原纤维不受控制地产生，在初始伤口数月后形成肥厚性瘢痕或瘢痕疙瘩。\n\n（选项 C）接受切除鳞状细胞癌病变的人有在该部位发生继发病变的风险。但是，这些复发通常在切除术后数年发生，组织学通常显示棘层增生、角化，以及角质形成细胞异型增生（例如，具有多形性核和丰富细胞质的角质形成细胞）的证据。\n\n（选项 D）中性粒细胞对于伤口愈合的正常炎症反应至关重要；它们可以预防感染并释放细胞因子和生长因子，从而促进伤口愈合。然而，伤口中中性粒细胞的长期炎症和活性氧的过度释放会导致组织损伤，从而延缓伤口愈合，导致慢性、不愈合的伤口。\n\n教育目标：\n血管内皮生长因子 (VEGF) 诱导的成纤维细胞和血管增生（即，肉芽组织）对于正常伤口愈合至关重要。但是，如果这种组织增生变得过度（例如，采用二期愈合的伤口），则产生的过度肉芽组织会损害伤口重新上皮化和重塑。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of wound healing, specifically the role of VEGF in granulation tissue formation and the development of hypergranulation tissue. It also requires differentiating hypergranulation tissue from other potential postoperative lesions.\n\nTo solve this question, recognize the clinical presentation of hypergranulation tissue (raised, soft, granular lesion) and its association with VEGF. Rule out other options based on their distinct clinical and histological features.",
+    "zh": "本题考察对伤口愈合的知识，特别是 VEGF 在肉芽组织形成和过度肉芽组织发展中的作用。它还需要将过度肉芽组织与其他潜在的术后病变区分开来。\n\n要解决这个问题，要识别过度肉芽组织的临床表现（隆起、柔软、呈颗粒状的病变）及其与 VEGF 的关联。根据其他选项的独特临床和组织学特征排除它们。"
+  },
+  "tags": "Wound healing; Granulation tissue; VEGF; Hypergranulation; Squamous cell carcinoma; Dermatology; Pathology; Postoperative complications",
+  "category": "Derma",
+  "question_id": "17854",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\17854",
+  "extracted_at": "2025-11-05T13:54:44.136366",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:34:40.431970",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

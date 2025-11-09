@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 64-year-old man comes to the emergency department due to chest discomfort and shortness of breath. Medical history includes hypertension, type 2 diabetes mellitus, and severe osteoarthritis of the left knee. The patient is an active smoker with a 20-pack-year smoking history. He undergoes dobutamine infusion with simultaneous cardiac imaging. The following is seen:\n\n*   Before infusion: normal left ventricular contractility, ejection fraction 60%\n*   During infusion: decreased apical contractility, ejection fraction 45%\n*   Five minutes after infusion: normal left ventricular contractility, ejection fraction 60%",
+    "zh": "一名64岁男性因胸部不适和呼吸短促来到急诊科。病史包括高血压、2型糖尿病和左膝严重骨关节炎。患者是活跃吸烟者，有20包年吸烟史。他接受了多巴酚丁胺输注，同时进行心脏影像学检查。观察到以下情况：\n\n*   输注前：左心室收缩力正常，射血分数60%\n*   输注期间：心尖收缩力降低，射血分数45%\n*   输注五分钟后：左心室收缩力正常，射血分数60%"
+  },
+  "question": {
+    "en": "Which of the following best explains the observed findings?",
+    "zh": "以下哪项最能解释观察到的结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Coronary artery occlusion due to plaque thrombosis",
+      "zh": "斑块血栓形成引起的冠状动脉闭塞"
+    },
+    "B": {
+      "en": "Coronary artery vasospasm",
+      "zh": "冠状动脉血管痉挛"
+    },
+    "C": {
+      "en": "Focal myocardial fibrosis",
+      "zh": "局灶性心肌纤维化"
+    },
+    "D": {
+      "en": "Normal myocardial contractile response",
+      "zh": "正常心肌收缩反应"
+    },
+    "E": {
+      "en": "Supply-demand mismatch due to fixed coronary stenosis",
+      "zh": "由于固定冠状动脉狭窄导致供需失调"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Stable angina results from fixed coronary artery stenosis in the setting of atherosclerotic coronary artery disease (CAD). Such a stenosis limits blood supply to the downstream myocardium, which, during periods of increased myocardial oxygen demand (eg, exercise), can cause a mismatch of oxygen supply and demand that manifests as anginal symptoms (eg, chest pain, shortness of breath).\n\nPharmacologic stress testing can be useful in diagnosing atherosclerotic CAD. Dobutamine, a beta-1 agonist, increases heart rate and contractility to mimic the increase in myocardial oxygen demand that occurs with exercise. Myocardium that is unable to obtain sufficient blood flow to meet the increased oxygen demand typically demonstrates a transient decrease in contractility (ie, wall motion defect), often leading to reduced ejection fraction. This patient with a transient wall motion defect localized to the cardiac apex most likely has a fixed atherosclerotic lesion that limits blood flow to that area of myocardium.\n\n(Choice A) Coronary artery occlusion due to plaque rupture and thrombosis leads to acute myocardial infarction (MI). Because of total coronary artery occlusion and a completely blocked myocardial oxygen supply, a persistent (before, during, and after dobutamine infusion), rather than transient, wall motion defect would be expected.\n\n(Choice B) Vasospastic angina is due to coronary artery vasospasm and can mimic stable angina that results from atherosclerotic CAD; however, vasospastic angina typically occurs in relatively young patients (age <50). In addition, dobutamine has only a small agonistic effect on alpha-1 receptors and is unlikely to trigger coronary vasospasm.\n\n(Choice C) Focal myocardial fibrosis typically results from previous MI. Contractility is impaired in the fibrosed myocardium, leading to a persistent wall motion defect similar to that expected with acute MI.\n\n(Choice D) In the normal state, dobutamine boosts myocardial contractility, and the rise in myocardial oxygen demand is met by increased myocardial oxygen supply via increased blood flow. Therefore, the normal response to dobutamine infusion is a transient increase in ejection fraction.",
+    "zh": "稳定性心绞痛是由于动脉粥样硬化性冠状动脉疾病（CAD）引起的固定冠状动脉狭窄所致。这种狭窄限制了对下游心肌的血液供应，在心肌耗氧量增加（如运动）期间，会导致氧气供需失调，表现为心绞痛症状（如胸痛、呼吸短促）。\n\n药物负荷试验可用于诊断动脉粥样硬化性 CAD。多巴酚丁胺是一种β-1受体激动剂，可增加心率和收缩力，以模拟运动时心肌耗氧量的增加。无法获得足够血流量以满足增加的氧气需求的 心肌通常表现为瞬时收缩力下降（即，室壁运动缺陷），通常导致射血分数降低。这名患者出现局限于心脏心尖的瞬时室壁运动缺陷，很可能患有固定动脉粥样硬化病变，限制了流向该区域心肌的血流。\n\n（选项 A）由于斑块破裂和血栓形成引起的冠状动脉闭塞会导致急性心肌梗死 (MI)。由于完全的冠状动脉闭塞和完全阻塞的心肌氧气供应，预计会出现持续性（多巴酚丁胺输注之前、期间和之后），而不是瞬时性室壁运动缺陷。\n\n（选项 B）血管痉挛性心绞痛是由于冠状动脉血管痉挛引起的，可模拟由动脉粥样硬化性 CAD 引起的稳定性心绞痛；然而，血管痉挛性心绞痛通常发生在相对年轻的患者中（年龄 <50 岁）。此外，多巴酚丁胺对 α-1 受体的激动作用很小，不太可能触发冠状动脉血管痉挛。\n\n（选项 C）局灶性心肌纤维化通常由既往 MI 引起。收缩力在纤维化心肌中受损，导致持续性室壁运动缺陷，类似于急性 MI。\n\n（选项 D）在正常状态下，多巴酚丁胺增强心肌收缩力，心肌耗氧量的增加通过增加血流量来满足心肌氧气供应的增加。因此，对多巴酚丁胺输注的正常反应是射血分数的短暂增加。"
+  },
+  "summary": {
+    "en": "This question tests the pathophysiology of stable angina and the interpretation of dobutamine stress echocardiography findings in the context of coronary artery disease. It requires understanding the mechanism of supply-demand mismatch in the presence of fixed coronary stenosis.\n\nThe key to solving this question is recognizing the transient nature of the wall motion abnormality during dobutamine infusion, which points towards a supply-demand mismatch due to fixed coronary stenosis. Ruling out other causes of chest pain and wall motion abnormalities is also crucial.",
+    "zh": "此题考察稳定性心绞痛的病理生理学以及在冠状动脉疾病背景下对多巴酚丁胺负荷超声心动图结果的解读。它需要理解在固定冠状动脉狭窄存在时供需失调的机制。\n\n解决这个问题的关键是认识到在多巴酚丁胺输注期间室壁运动异常的短暂性，这指向了由于固定冠状动脉狭窄导致的供需失调。排除胸痛和其他室壁运动异常的原因也很关键。"
+  },
+  "tags": "Stable angina; Coronary artery disease; Dobutamine stress echocardiography; Myocardial ischemia; Supply-demand mismatch; Cardiology; Atherosclerosis",
+  "category": "CVS",
+  "question_id": "15180",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\15180",
+  "extracted_at": "2025-11-05T11:56:52.411130",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:48:07.724448",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

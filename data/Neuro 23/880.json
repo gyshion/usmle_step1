@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 31-year-old woman is evaluated for new-onset, generalized tonic-clonic seizures. An intracranial mass is detected on CT scan of the head. Biopsy of the mass reveals neoplastic cells that stain negative for glial fibrillary acidic protein and positive for synaptophysin.",
+    "zh": "一名31岁女性因新发、全身性强直-阵挛性癫痫发作就诊。头部CT扫描检测到颅内肿块。肿块活检显示肿瘤细胞对神经胶质纤维酸性蛋白呈阴性，对突触素呈阳性。"
+  },
+  "question": {
+    "en": "Which of the following cells would have an immunohistochemical profile similar to that observed in this patient's neoplastic cells?",
+    "zh": "以下哪种细胞的免疫组化特征与该患者肿瘤细胞的特征相似？"
+  },
+  "options": {
+    "A": {
+      "en": "Astrocytes",
+      "zh": "星形胶质细胞"
+    },
+    "B": {
+      "en": "Ependymal cells",
+      "zh": "室管膜细胞"
+    },
+    "C": {
+      "en": "Meningothelial cells",
+      "zh": "脑膜细胞"
+    },
+    "D": {
+      "en": "Neurons",
+      "zh": "神经元"
+    },
+    "E": {
+      "en": "Oligodendrocytes",
+      "zh": "少突胶质细胞"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The patient's neoplastic cells stain negative for glial fibrillary acidic protein (GFAP) and positive for synaptophysin. GFAP is a marker for glial cells, including astrocytes, ependymal cells, and oligodendrocytes. Synaptophysin is a marker for neuroendocrine cells and neurons. Therefore, cells that are negative for GFAP and positive for synaptophysin would be neurons or neuroendocrine cells. Among the given options, neurons (D) fit this description.\n\n(Choice A) Astrocytes are glial cells and would typically stain positive for GFAP. They do not typically stain positive for synaptophysin.\n(Choice B) Ependymal cells are glial cells and would typically stain positive for GFAP. They do not typically stain positive for synaptophysin.\n(Choice C) Meningothelial cells are derived from arachnoid mater and are not glial cells. They do not typically stain positive for GFAP or synaptophysin.\n(Choice E) Oligodendrocytes are glial cells and would typically stain positive for GFAP. They do not typically stain positive for synaptophysin.\n\nKey concepts: GFAP is a marker for glial cells. Synaptophysin is a marker for neurons and neuroendocrine cells. Tumors with a GFAP-negative and synaptophysin-positive profile are likely of neuronal or neuroendocrine origin.",
+    "zh": "患者的肿瘤细胞对神经胶质纤维酸性蛋白(GFAP)呈阴性，对突触素呈阳性。GFAP是胶质细胞的标志物，包括星形胶质细胞、室管膜细胞和少突胶质细胞。突触素是神经内分泌细胞和神经元的标志物。因此，GFAP阴性和突触素阳性的细胞将是神经元或神经内分泌细胞。在给定的选项中，神经元(D)符合此描述。\n\n(选项A) 星形胶质细胞是胶质细胞，通常对GFAP呈阳性。它们通常对突触素呈阴性。\n(选项B) 室管膜细胞是胶质细胞，通常对GFAP呈阳性。它们通常对突触素呈阴性。\n(选项C) 脑膜细胞源自蛛网膜下腔，不是胶质细胞。它们通常对GFAP或突触素呈阴性。\n(选项E) 少突胶质细胞是胶质细胞，通常对GFAP呈阳性。它们通常对突触素呈阴性。\n\n关键概念：GFAP是胶质细胞的标志物。突触素是神经元和神经内分泌细胞的标志物。具有GFAP阴性和突触素阳性特征的肿瘤可能起源于神经元或神经内分泌细胞。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of immunohistochemical markers used in neuropathology to differentiate between various cell types within the central nervous system and their corresponding tumors. Specifically, it assesses the knowledge of GFAP as a glial marker and synaptophysin as a neuronal/neuroendocrine marker.\n\nTo solve this question, one must correlate the given immunohistochemical findings (negative GFAP, positive synaptophysin) with the known expression patterns of these markers in different cell types. By eliminating options that express GFAP and considering which cell type expresses synaptophysin, the correct answer can be identified.",
+    "zh": "这个问题考察了对神经病理学中用于区分中枢神经系统中各种细胞类型及其相应肿瘤的免疫组化标志物的理解。具体来说，它评估了对GFAP作为胶质标志物和突触素作为神经元/神经内分泌标志物的知识。\n\n为了解决这个问题，必须将给定的免疫组化结果（GFAP阴性，突触素阳性）与这些标志物在不同细胞类型中的已知表达模式相关联。通过排除表达GFAP的选项并考虑哪种细胞类型表达突触素，可以确定正确答案。"
+  },
+  "tags": "Immunohistochemistry; Central nervous system tumors; Glial fibrillary acidic protein (GFAP); Synaptophysin; Astrocytes; Ependymal cells; Meningothelial cells; Neurons; Oligodendrocytes; Neuropathology",
+  "category": "Neuro",
+  "question_id": "880",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\880",
+  "extracted_at": "2025-11-05T19:30:14.307287",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:29:24.317072",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 43-year-old man comes to the emergency department due to painless, progressive visual impairment. The patient was diagnosed with sexually acquired HIV infection 4 years ago. He was previously started on antiretroviral therapy but has been noncompliant with his prescribed medications. His most recent CD4 count was 37 cells/mm³. Physical examination shows no skin rash or corneal lesions. Funduscopy reveals the findings seen in the image below. {{exhibit_1}}",
+    "zh": "一名43岁男性因无痛性、进行性视力障碍就诊于急诊科。患者4年前诊断为性传播HIV感染。他之前开始接受抗逆转录病毒治疗，但未按医嘱服药。他最近一次CD4计数为37个细胞/mm³。体格检查显示无皮疹或角膜病变。眼底镜检查显示如下图像所示的发现。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following medications is the best initial therapy for this patient?",
+    "zh": "以下哪种药物是该患者的最佳初始治疗方案？"
+  },
+  "options": {
+    "A": {
+      "en": "Acyclovir",
+      "zh": "阿昔洛韦"
+    },
+    "B": {
+      "en": "Amphotericin B",
+      "zh": "两性霉素B"
+    },
+    "C": {
+      "en": "Clarithromycin",
+      "zh": "克拉霉素"
+    },
+    "D": {
+      "en": "Flucytosine",
+      "zh": "氟胞嘧啶"
+    },
+    "E": {
+      "en": "Ganciclovir",
+      "zh": "更昔洛韦"
+    },
+    "F": {
+      "en": "Penicillin G",
+      "zh": "青霉素G"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Patients with untreated AIDS who have CD4 counts <50/mm³ are at high risk for CYTOMEGALOVIRUS (CMV) retinitis. Suspicion is often raised when a patient with advanced AIDS develops slowly progressive blurred vision, scotoma (blind spots), floaters, or photopsia (flashing lights). Although most cases are thought to arise due to hematogenous dissemination of CMV, serum testing for the virus is often (~50%) negative. Therefore, the diagnosis is typically established when funduscopy reveals yellow-white, fluffy retinal lesions near the retinal vessels associated with HEMORRHAGE. {{exhibit_2}}\n\nTreatment is required to prevent progression and blindness. Ganciclovir, a guanine nucleoside analogue that is structurally similar to acyclovir but expresses greater activity against CMV DNA polymerase, is first-line therapy. Patients are also typically started on antiretroviral therapy to increase CD4 count. A major complication of CMV retinitis is retinal detachment due to the replacement of damaged retina with thin, atrophic scar tissue (which is prone to tear).\n\n(Choice A) Acyclovir is used to treat herpes simplex (HSV) and varicella zoster virus (VZV) infections. Although these infections occasionally cause acute retinal necrosis, most cases arise in older, immunocompetent individuals (not patients with advanced AIDS). In addition, HSV retinitis and VZV retinitis are usually associated with significant vitreal inflammation, spotty peripheral retinal lesions, and infrequent hemorrhage.\n\n(Choice B) Candida endophthalmitis is treated with amphotericin B. Funduscopy usually reveals focal, white, mound-like lesions on the retina. Most cases occur in the setting of an indwelling central venous catheter or total parenteral nutrition.\n\n(Choice C) Clarithromycin is used in conjunction with other antibiotics for the treatment of Mycobacterium avium complex infection, which usually causes fever, night sweats, abdominal pain, and diarrhea.\n\n(Choice D) Cryptococcus neoformans infections are treated with flucytosine, a fluorinated analog of cytosine, in combination with amphotericin B. Although cryptococcal endophthalmitis can occur in patients with advanced AIDS, it is much less common than CMV retinitis, and patients often have other manifestations of cryptococcal infection such as skin lesions or meningoencephalitis.\n\n(Choice F) Penicillin G is used to treat ocular (and neuro-) syphilis. Ocular syphilis presents as uveitis but can cause retinitis, which usually appears as ground-glass lesions with significant vitreal inflammation. Most patients also have manifestations of syphilitic meningitis (eg, headache, vomiting).\n\nEducational objective: Cytomegalovirus retinitis is the most common cause of ocular disease in patients with untreated AIDS who have CD4 counts <50/mm³. Diagnosis is made by funduscopy, which typically reveals yellow-white, fluffy lesions near the retinal vessels with associated hemorrhage. Treatment with ganciclovir is required to prevent blindness.",
+    "zh": "未接受治疗的艾滋病患者，其CD4计数<50/mm³，有发生巨细胞病毒(CMV)视网膜炎的高风险。当晚期艾滋病患者出现缓慢进展的视力模糊、暗点（盲点）、飞蚊症或视幻症（闪光）时，通常会引起怀疑。尽管大多数病例被认为是由CMV的血行播散引起的，但血清病毒检测通常(~50%)为阴性。因此，当眼底镜检查发现靠近视网膜血管的黄白色、蓬松的视网膜病灶伴有出血时，通常可确诊。{{exhibit_2}}\n\n需要治疗以防止病情进展和失明。更昔洛韦是一种鸟嘌呤核苷类似物，其结构与阿昔洛韦相似，但对CMV DNA聚合酶具有更强的活性，是一线治疗药物。患者通常也会开始接受抗逆转录病毒治疗以增加CD4计数。CMV视网膜炎的主要并发症是视网膜脱离，这是由于受损的视网膜被薄的、萎缩性瘢痕组织（易撕裂）所取代。\n\n(选项A) 阿昔洛韦用于治疗单纯疱疹病毒(HSV)和水痘-带状疱疹病毒(VZV)感染。尽管这些感染偶尔会引起急性视网膜坏死，但大多数病例发生在老年、免疫功能正常的个体中（而非晚期艾滋病患者）。此外，HSV视网膜炎和VZV视网膜炎通常与显著的玻璃体炎症、散在的周边视网膜病灶和不频繁的出血有关。\n\n(选项B) 念珠菌眼内炎用两性霉素B治疗。眼底镜检查通常显示视网膜上的局灶性、白色、丘状病灶。大多数病例发生在留置中心静脉导管或全胃肠外营养的情况下。\n\n(选项C) 克拉霉素与其他抗生素联合用于治疗鸟分枝杆菌复合体感染，通常引起发热、盗汗、腹痛和腹泻。\n\n(选项D) 新型隐球菌感染用氟胞嘧啶（一种胞嘧啶的氟化类似物）与两性霉素B联合治疗。尽管隐球菌性眼内炎可发生在晚期艾滋病患者中，但它比CMV视网膜炎少见得多，并且患者通常有其他隐球菌感染的症状，如皮肤病灶或脑膜脑炎。\n\n(选项F) 青霉素G用于治疗眼（和神经）梅毒。眼梅毒表现为葡萄膜炎，但可引起视网膜炎，通常表现为毛玻璃样病灶伴有显著的玻璃体炎症。大多数患者也有梅毒性脑膜炎的表现（如头痛、呕吐）。\n\n教学目标：巨细胞病毒性视网膜炎是未接受治疗的艾滋病患者中，CD4计数<50/mm³的患者发生眼部疾病的最常见原因。诊断通过眼底镜检查进行，通常显示靠近视网膜血管的黄白色、蓬松病灶伴有出血。需要使用更昔洛韦治疗以防止失明。"
+  },
+  "summary": {
+    "en": "This question tests the recognition and management of Cytomegalovirus (CMV) retinitis in an immunocompromised patient with advanced HIV infection. It requires understanding the characteristic funduscopic findings and knowing the first-line pharmacologic treatment.\n\nTo solve this question, identify the patient's risk factors for opportunistic infections (low CD4 count, HIV), recognize the visual symptoms and funduscopic findings suggestive of CMV retinitis, and recall the appropriate initial therapy for this condition.",
+    "zh": "此问题测试对患有晚期HIV感染的免疫功能低下患者的巨细胞病毒(CMV)视网膜炎的识别和处理。它需要理解特征性的眼底镜检查结果并了解一线药物治疗。\n\n要解决此问题，需要确定患者发生机会性感染的危险因素（低CD4计数、HIV），识别提示CMV视网膜炎的视觉症状和眼底镜检查结果，并回忆该疾病的适当初始治疗。"
+  },
+  "tags": "Cytomegalovirus retinitis; HIV/AIDS; Opportunistic infections; Ganciclovir; Funduscopy; Ophthalmology; Infectious disease",
+  "category": "Ophthalmology",
+  "question_id": "1646",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ophthalmology 23\\1646",
+  "extracted_at": "2025-11-05T19:42:49.502147",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:44:37.508050",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

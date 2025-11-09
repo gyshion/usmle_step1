@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old man comes to the physician due to a 2-month history of fatigue, malaise, and abdominal discomfort. He is found to have tender hepatomegaly with elevated liver function tests. The patient has never been vaccinated against hepatitis. He has had no raw or uncooked foods recently and recalls no ill contacts. There is no history of blood transfusion. The patient is a graduate student who immigrated to the United States 2 years ago and has not traveled outside the country since. He smokes 2 packs of cigarettes a day and consumes 1 or 2 bottles of beer on weekends. The patient does not use illicit drugs. He has had several episodes of unprotected sex with different female partners within the past year.",
+    "zh": "一名23岁的男性因2个月的疲劳、不适和腹部不适而就诊。检查发现触痛性肝肿大，肝功能检查结果升高。患者从未接种过肝炎疫苗。他最近没有吃过生的或未煮熟的食物，也没有回忆起任何患病接触者。没有输血史。患者是一名研究生，2年前移民到美国，此后没有出国旅行。他每天吸2包香烟，周末喝1或2瓶啤酒。患者不使用非法药物。他在过去一年中与不同的女性伴侣发生过几次无保护措施的性行为。"
+  },
+  "question": {
+    "en": "Which of the following is most likely to be present in this patient?",
+    "zh": "该患者最有可能出现以下哪种情况？"
+  },
+  "options": {
+    "A": {
+      "en": "HAV in the stool",
+      "zh": "粪便中HAV"
+    },
+    "B": {
+      "en": "Serum anti-HAV IgM",
+      "zh": "血清抗HAV IgM"
+    },
+    "C": {
+      "en": "Serum anti-HBsAg IgG",
+      "zh": "血清抗HBsAg IgG"
+    },
+    "D": {
+      "en": "Serum HBsAg",
+      "zh": "血清HBsAg"
+    },
+    "E": {
+      "en": "Hepatitis C virus RNA viral load in blood",
+      "zh": "血清中丙型肝炎病毒RNA病毒载量"
+    },
+    "F": {
+      "en": "Serum anti-hepatitis D virus IgG",
+      "zh": "血清抗丁型肝炎病毒IgG"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The main modes of transmission of hepatitis B virus (HBV) are sexual (transmission among heterosexual partners and among men who have sex with men) and percutaneous (eg, intravenous drug use, needlestick accidents, blood transfusions). Vertical (mother-to-child) transmission is common in high-prevalence areas. This unvaccinated patient with tender hepatomegaly and liver function abnormalities most likely has acute HBV infection contracted during an episode of unprotected sex (most common mode of transmission in developed countries, >70% of cases). Serum hepatitis B surface antigen (HBsAg) would be present.\n\nAnti-HBsAg immunoglobulin G (IgG) appears after either successful HBV vaccination or HBsAg clearance and remains detectable for life (indicator of non-infectivity and immunity). Because this patient is symptomatic, he obviously has not cleared the virus and would likely not yet have anti-HBsAg IgG (Choice C).\n\n(Choices A and B) Hepatitis A virus (HAV) in the stool or serum anti-HAV IgM would be expected with acute HAV following recent travel to an endemic area or consumption of tainted, insufficiently heated food (eg, oysters). HAV (fecal-oral transmission) is not usually symptomatic for 2 months and is not associated with a chronic carrier state.\n\n(Choice E) Hepatitis C virus (HCV) infection is most often asymptomatic. Also, most HCV transmission occurs in the setting of intravenous drug use. Sexual transmission of HCV can occur but is inefficient; the risk is actually low (eg, incidence of 0.07% per year in a study of 500 heterosexual couples) and would be lower than that of HBV transmission.\n\n(Choice F) Hepatitis D virus (HDV) transmission occurs primarily through inoculations and blood transfusions, with sexual transmission far less common. Co-infection with HBV or superinfection of chronic HBV is necessary. Globally, only about 5% of HBV carriers also have HDV (rates vary based on geography).\n\nEducational objective:\nThe main modes of transmission of hepatitis B virus include sexual (among both heterosexual partners and men who have sex with men) and percutaneous (eg, intravenous drug use, needlestick accidents, blood transfusions). The risk of sexual transmission of hepatitis C virus is low.",
+    "zh": "乙型肝炎病毒（HBV）的主要传播途径是性传播（异性伴侣和男男性行为者之间）和经皮传播（例如，静脉吸毒、针刺伤、输血）。垂直传播（母婴传播）在高流行地区很常见。这位未接种疫苗的患者出现触痛性肝肿大和肝功能异常，最有可能是在无保护性行为期间感染了急性HBV（发达国家最常见的传播方式，超过70%的病例）。血清乙型肝炎表面抗原（HBsAg）将存在。\n\n抗-HBsAg免疫球蛋白G（IgG）出现在HBV疫苗接种成功或HBsAg清除后，并终生可检测到（非感染性和免疫力的指标）。因为这位患者有症状，他显然还没有清除病毒，并且可能还没有抗-HBsAg IgG（选项C）。\n\n（选项A和B）粪便中甲型肝炎病毒（HAV）或血清抗HAV IgM预计会在近期前往流行地区或食用受污染的、加热不足的食物（例如牡蛎）后出现急性HAV感染。HAV（粪口传播）通常在2个月内没有症状，并且与慢性携带状态无关。\n\n（选项E）丙型肝炎病毒（HCV）感染通常无症状。此外，大多数HCV传播发生在静脉吸毒的情况下。HCV的性传播可能发生，但效率不高；风险实际上很低（例如，一项针对500对异性恋夫妇的研究，年发病率为0.07%），并且低于HBV的传播。\n\n（选项F）丁型肝炎病毒（HDV）的传播主要通过接种和输血，性传播不常见。需要与HBV共同感染或慢性HBV的再次感染。在全球范围内，只有约5%的HBV携带者也患有HDV（发病率因地理位置而异）。\n\n教育目标：\n乙型肝炎病毒的主要传播途径包括性传播（异性伴侣和男男性行为者之间）和经皮传播（例如，静脉吸毒、针刺伤、输血）。丙型肝炎病毒的性传播风险很低。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hepatitis B virus (HBV) transmission, clinical presentation, and serologic markers in acute infection. It requires differentiating HBV from other hepatitis viruses based on risk factors and clinical findings.\n\nThe best approach is to consider the patient's risk factors (unprotected sex), lack of vaccination, and acute symptoms. This points towards acute HBV infection, which is confirmed by the presence of HBsAg.",
+    "zh": "这个问题考察了关于乙型肝炎病毒（HBV）传播、临床表现和急性感染血清学标志的知识。它需要根据危险因素和临床发现区分HBV与其他肝炎病毒。\n\n最好的方法是考虑患者的危险因素（无保护性行为）、未接种疫苗和急性症状。这指向急性HBV感染，通过HBsAg的存在得到证实。"
+  },
+  "tags": "Hepatitis B; HBV; Liver disease; Hepatomegaly; Sexual transmission; HBsAg; Infectious disease; Gastroenterology",
+  "category": "GIT",
+  "question_id": "386",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\386",
+  "extracted_at": "2025-11-05T14:34:42.888445",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:56:57.298313",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

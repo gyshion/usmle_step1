@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 38-year-old man comes to the office with reports of dyspnea on exertion and decreased exercise tolerance. His medical history is unremarkable, and he has no history of childhood asthma or cough. He has never smoked and has no known occupational exposures. The patient has gained almost 100 lb over the past 4 years since leaving the military due to a sedentary lifestyle. He currently weighs 135 kg (297.6 lb) and has a BMI of 41 kg/m². His respiratory rate is 22/min and pulse oximetry is 93% on room air at rest. Physical examination is notable for central obesity. Lungs are clear on auscultation bilaterally. Which of the following changes (forced expiratory volume in 1 second [FEV₁], forced vital capacity [FVC], expiratory reserve volume [ERV], residual volume [RV], and total lung capacity [TLC]) are most likely to be seen on pulmonary function testing in this patient? {{exhibit_1}}",
+    "zh": "一名38岁的男性来诊，自诉劳力性呼吸困难和运动耐力下降。他的病史无特殊之处，既往无儿童期哮喘或咳嗽病史。他从未吸烟，也没有已知的职业暴露史。自退伍后，由于久坐的生活方式，该患者在过去4年中体重增加了近100磅。他目前的体重为135公斤（297.6磅），BMI为41公斤/平方米。他的呼吸频率为22次/分钟，静息时血氧饱和度为93%。体格检查显示中心性肥胖。双肺听诊清。该患者进行肺功能检查时，最有可能出现以下哪些变化（1秒用力呼气容积[FEV₁]，用力肺活量[FVC]，呼气储备容积[ERV]，残气容积[RV]和总肺活量[TLC]）？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following changes (forced expiratory volume in 1 second [FEV₁], forced vital capacity [FVC], expiratory reserve volume [ERV], residual volume [RV], and total lung capacity [TLC]) are most likely to be seen on pulmonary function testing in this patient?",
+    "zh": "该患者的肺功能检查中最有可能出现以下哪些变化（1秒用力呼气容积[FEV₁]，用力肺活量[FVC]，呼气储备容积[ERV]，残气容积[RV]和总肺活量[TLC]）？"
+  },
+  "options": {
+    "A": {
+      "en": "↓\n↓\n↓\nNormal\n↓",
+      "zh": "↓\n↓\n↓\n正常\n↓"
+    },
+    "B": {
+      "en": "↓\n↓\nNormal\n↑\n↑",
+      "zh": "↓\n↓\n正常\n↑\n↑"
+    },
+    "C": {
+      "en": "↓\nNormal\nNormal\n↑\n↑",
+      "zh": "↓\n正常\n正常\n↑\n↑"
+    },
+    "D": {
+      "en": "↑\n↑\n↓\nNormal\nNormal",
+      "zh": "↑\n↑\n↓\n正常\n正常"
+    },
+    "E": {
+      "en": "↑\nNormal\n↑\n↑\n↑",
+      "zh": "↑\n正常\n↑\n↑\n↑"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This young patient presenting with respiratory symptoms and central obesity without a history of pulmonary disease likely has obesity-related restrictive lung disease. Obesity alters respiratory compliance, which is the ability of the lung and chest wall to stretch in response to increased lung pressures. Respiratory compliance is diminished both by a reduction in chest wall compliance from increased weight and by a reduction in lung compliance due to microatelectasis. To compensate for the reduced compliance, obese patients typically have increased respiratory rates with reduced tidal volumes (rapid-shallow breathing).\n\nThe most common indicator of obesity-related disease is a reduction in expiratory reserve volume (ERV), which is the maximum volume of air that can be expired after a normal tidal expiration. Obesity has minimal effect on residual volume (RV), but functional residual capacity, which is the sum of RV and ERV, is reduced due to the marked reduction in ERV. Obesity can also cause reductions of forced vital capacity (FVC), forced expiratory volume in 1 second (FEV₁), and total lung capacity (TLC), depending on the severity of obesity and body fat distribution (abdominal obesity causes greater impairment). However, these reductions are generally modest, especially relative to decrements in ERV.\n\n(Choices B and C) These are patterns that may be seen in a patient with chronic obstructive pulmonary disease, with FEV₁ reduced and FVC normal or only mildly diminished in comparison to FEV₁. TLC and RV are increased with emphysema.\n\n(Choices D and E) FEV₁, FVC, and TLC may be increased in trained athletes.\n\nEducational objective:\nObesity, particularly morbid, central obesity, can cause a pattern of extrinsic restrictive pulmonary function tests. The most common indicator of obesity-related disease is a reduction in expiratory reserve volume and functional residual capacity, but forced expiratory volume in 1 second, forced vital capacity, and total lung capacity are also typically decreased.",
+    "zh": "这位出现呼吸系统症状和中心性肥胖的年轻患者，没有肺部疾病史，很可能患有肥胖相关性限制性肺病。肥胖会改变呼吸顺应性，即肺和胸壁对肺内压力增加的伸展能力。呼吸顺应性下降，原因在于体重增加导致胸壁顺应性降低，以及微肺不张导致肺顺应性降低。为了代偿顺应性降低，肥胖患者通常会增加呼吸频率，同时减少潮气量（快速浅呼吸）。\n\n肥胖相关性疾病最常见的指标是呼气储备容积（ERV）的降低，ERV是指在正常潮气呼气后可以呼出的最大空气量。肥胖对残气量（RV）的影响很小，但功能残气量（FRC，RV和ERV的总和）会由于ERV的显著降低而减少。肥胖还可能导致用力肺活量（FVC）、1秒用力呼气容积（FEV₁）和总肺活量（TLC）的降低，这取决于肥胖的严重程度和脂肪分布（腹部肥胖会造成更大的损害）。然而，这些减少通常是适度的，特别是相对于ERV的降低。\n\n（选项B和C）这些是在慢性阻塞性肺病患者中可能看到的模式，FEV₁降低，FVC正常或仅轻度降低，相比之下，FEV₁。肺气肿患者的TLC和RV会增加。\n\n（选项D和E）FEV₁、FVC和TLC在训练有素的运动员中可能会增加。\n\n教育目标：\n肥胖，特别是病态的中心性肥胖，可引起外在性限制性肺功能检查模式。肥胖相关性疾病最常见的指标是呼气储备容积和功能残气量的减少，但1秒用力呼气容积、用力肺活量和总肺活量通常也会降低。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pulmonary function test changes associated with obesity-related restrictive lung disease. It requires understanding how increased body weight and abdominal obesity affect lung volumes and capacities.\n\nTo solve this question, recognize the patient's risk factors for obesity-related restrictive lung disease. Recall that obesity primarily affects expiratory reserve volume, functional residual capacity, forced vital capacity, forced expiratory volume in 1 second, and total lung capacity.",
+    "zh": "本题考察与肥胖相关性限制性肺病相关的肺功能检查变化知识。它要求了解体重增加和腹部肥胖如何影响肺容积和肺容量。\n\n要解决这个问题，需要认识到患者肥胖相关性限制性肺病的危险因素。回想一下，肥胖主要影响呼气储备容积、功能残气量、用力肺活量、1秒用力呼气容积和总肺活量。"
+  },
+  "tags": "Obesity; Restrictive lung disease; Pulmonary function tests; FEV1; FVC; ERV; RV; TLC; Respiratory physiology",
+  "category": "Chest",
+  "question_id": "11900",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\11900",
+  "extracted_at": "2025-11-05T11:36:27.287607",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:33:37.822613",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

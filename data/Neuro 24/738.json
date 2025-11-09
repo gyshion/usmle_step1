@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 16-year-old girl is brought to the emergency department after she became unresponsive. Her parents say that she was not feeling well that morning, but she has otherwise been in good health. Temperature is 39.7 C (103.5 F), blood pressure is 70/40 mm Hg, and pulse is 130/min and thready. There is a diffuse petechial and ecchymotic skin rash. Laboratory testing reveals leukocytosis with left shift and evidence of disseminated intravascular coagulation and multiorgan failure. Despite aggressive interventions, the patient dies several hours after admission. Autopsy reveals hemorrhagic necrosis of many internal organs, including the bilateral adrenal glands. {{exhibit_1}}",
+    "zh": "一名16岁女孩因无反应被送往急诊科。她的父母说她那天早上感觉不舒服，但总体来说身体健康。体温39.7摄氏度（103.5华氏度），血压70/40 mmHg，脉搏130次/分钟，细弱。出现弥漫性瘀点和瘀斑皮疹。实验室检查显示白细胞增多伴核左移，并有弥漫性血管内凝血和多器官衰竭的证据。尽管进行了积极的干预，患者在入院后数小时死亡。尸检显示许多内脏器官出血性坏死，包括双侧肾上腺。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following microbial components is most likely to be directly responsible for the severity of this patient's inflammatory response?",
+    "zh": "以下哪种微生物成分最有可能直接导致该患者炎症反应的严重程度？"
+  },
+  "options": {
+    "A": {
+      "en": "Capsular polysaccharide",
+      "zh": "荚膜多糖"
+    },
+    "B": {
+      "en": "Immunoglobulin protease",
+      "zh": "免疫球蛋白蛋白酶"
+    },
+    "C": {
+      "en": "Lipo-oligosaccharide",
+      "zh": "脂寡糖"
+    },
+    "D": {
+      "en": "Lipoteichoic acid",
+      "zh": "脂磷壁酸"
+    },
+    "E": {
+      "en": "Superantigen exotoxin",
+      "zh": "超抗原外毒素"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Neisseria meningitidis is a common cause of rapid-onset sepsis and circulatory collapse in otherwise healthy young individuals. Infections usually start suddenly with myalgias, high fever, headache, and altered level of consciousness and quickly progress to hypotension, organ failure, and death. Many patients also develop a petechial/ecchymotic rash due to underlying disseminated intravascular coagulation (DIC); adrenal hemorrhage/infarction leading to adrenal insufficiency (Waterhouse-Friderichsen syndrome) can also occur, potentiating the circulatory collapse.\n\nN meningitidis has an outer cell membrane virulence factor called lipo-oligosaccharide (LOS), which is primarily responsible for the severity of meningococcal disease. LOS, and its close analogue lipopolysaccharide (found in gram-negative enteric rods), are endotoxins that cause toxicity when released into the plasma via shedding of the outer membrane (\"blebbing\") or bacterial lysis.\n\nEndotoxins bind to Toll-like receptor 4 on monocytic and dendritic cells and trigger the release of inflammatory cytokines (eg, IL-1, IL-6, TNF-alpha), which leads to endothelial damage, capillary leakage, and hemorrhagic necrosis.\n\n(Choices A and B) The capsular polysaccharide of N meningitidis is an important virulence factor that helps the bacteria resist phagocytosis and complement activation. N meningitidis also releases IgA protease, which aids in nasopharyngeal epithelial colonization. However, these virulence factors are not the direct cause of meningococcal infections and septic shock.\n\n(Choice D) Lipoteichoic acid is a major component of the cell wall of most gram-positive bacteria and plays a role in bacterial adhesion and cell division. Although lipoteichoic acid can also act as an endotoxin and contribute to sepsis, meningococcal disease is particularly associated with rapidly developing severe septic shock (LOS is shed in copious amounts by N meningitidis).\n\n(Choice E) Toxic shock syndrome is due to Staphylococcus aureus superantigen exotoxins, which result in widespread activation of T-cells with massive release of inflammatory cytokines. Patients usually present with circulatory collapse, organ failure, and erythroderma (a diffuse macular rash that looks like a sunburn). Petechiae and ecchymosis would be atypical.",
+    "zh": "脑膜炎奈瑟菌是健康年轻个体中快速发作的脓毒症和循环衰竭的常见原因。感染通常突然开始，表现为肌痛、高热、头痛和意识水平改变，并迅速进展为低血压、器官衰竭和死亡。许多患者还会因潜在的弥漫性血管内凝血（DIC）而出现瘀点/瘀斑皮疹；肾上腺出血/梗死导致肾上腺功能不全（Waterhouse-Friderichsen综合征）也可能发生，加剧循环衰竭。\n\n脑膜炎奈瑟菌有一个称为脂寡糖（LOS）的细胞外膜毒力因子，主要负责脑膜炎球菌病的严重程度。LOS及其类似物脂多糖（存在于革兰氏阴性肠杆菌中）是内毒素，当通过外膜脱落（“起泡”）或细菌裂解释放到血浆中时会引起毒性。\n\n内毒素与单核细胞和树突状细胞上的Toll样受体4结合，并触发炎症细胞因子（如IL-1、IL-6、TNF-alpha）的释放，这会导致内皮损伤、毛细血管渗漏和出血性坏死。\n\n（选项 A 和 B）脑膜炎奈瑟菌的荚膜多糖是一种重要的毒力因子，有助于细菌抵抗吞噬作用和补体激活。脑膜炎奈瑟菌还会释放 IgA 蛋白酶，有助于鼻咽上皮细胞的定植。然而，这些毒力因子不是脑膜炎球菌感染和脓毒性休克的直接原因。\n\n（选项 D）脂磷壁酸是大多数革兰氏阳性细菌细胞壁的主要成分，并在细菌粘附和细胞分裂中起作用。虽然脂磷壁酸也可以作为内毒素并导致脓毒症，但脑膜炎球菌病尤其与快速发展的严重脓毒性休克有关（脑膜炎奈瑟菌会大量脱落 LOS）。\n\n（选项 E）中毒性休克综合征是由金黄色葡萄球菌超抗原外毒素引起的，这会导致 T 细胞广泛活化，并大量释放炎症细胞因子。患者通常表现为循环衰竭、器官衰竭和红皮病（看起来像晒伤的弥漫性斑丘疹）。瘀点和瘀斑是不典型的。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathogenesis of severe meningococcal disease, specifically identifying the microbial component responsible for the intense inflammatory response and its sequelae.\n\nThe approach to solving this question involves recognizing the clinical presentation of meningococcemia, understanding the role of bacterial virulence factors in sepsis, and differentiating the specific components of gram-negative bacteria like Neisseria meningitidis that trigger a potent inflammatory cascade.",
+    "zh": "此问题测试对严重脑膜炎球菌病发病机制的理解，特别是确定导致强烈炎症反应及其后遗症的微生物成分。\n\n解决此问题的方法包括识别脑膜炎球菌血症的临床表现，了解细菌毒力因子在脓毒症中的作用，以及区分脑膜炎奈瑟菌等革兰氏阴性细菌中触发强烈炎症级联反应的特定成分。"
+  },
+  "tags": "Neisseria meningitidis; Sepsis; Lipo-oligosaccharide; Endotoxin; Toll-like receptor 4; Inflammatory cytokines; Waterhouse-Friderichsen syndrome; Disseminated intravascular coagulation; Infectious disease; Microbiology",
+  "category": "Neuro",
+  "question_id": "738",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\738",
+  "extracted_at": "2025-11-05T19:41:11.939127",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:42:34.201977",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

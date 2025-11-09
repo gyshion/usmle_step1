@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 2-hour-old girl is evaluated in the nursery. She was born to a 28-year-old primigravida via spontaneous vaginal delivery. The pregnancy was unremarkable, but family history reveals that the patient's maternal grandmother had an isolated cleft palate. Both parents have no known medical conditions. Examination of the patient shows a cleft palate. The remainder of the examination is unremarkable. The parents inquire about the cause for this anomaly.",
+    "zh": "在新生儿病房中评估一名 2 小时大的女婴。她由一名 28 岁的初孕妇经阴道自然分娩出生。 妊娠过程无特殊情况，但家族史显示患者的母亲的祖母患有孤立性腭裂。 父母双方均无已知病史。 检查显示患者腭裂。 检查的其余部分无特殊发现。 父母询问这种异常的原因。"
+  },
+  "question": {
+    "en": "This patient's clinical findings are most likely a result of which of the following?",
+    "zh": "该患者的临床表现最有可能是什么原因造成的？"
+  },
+  "options": {
+    "A": {
+      "en": "Autosomal recessive inheritance",
+      "zh": "常染色体隐性遗传"
+    },
+    "B": {
+      "en": "Disrupted genetic imprinting",
+      "zh": "基因印记紊乱"
+    },
+    "C": {
+      "en": "Mitochondrial DNA heteroplasmy",
+      "zh": "线粒体 DNA 异质性"
+    },
+    "D": {
+      "en": "Polygenetic and environmental interactions",
+      "zh": "多基因和环境相互作用"
+    },
+    "E": {
+      "en": "Skewed X chromosome inactivation",
+      "zh": "X 染色体失活偏倚"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Cleft palate primarily occurs when the palatine shelves (derivatives of the maxillary prominences) fail to fuse with each other or with the primary palate during early gestation. This anomaly may occur in isolation but can be associated with cleft lip, which results from failed fusion of the maxillary prominences and the intermaxillary segment.\n\nThe pathophysiology of isolated orofacial clefts is usually multifactorial and related to complex interactions between genetic and environmental factors. Failed fusion can result from a range of gene variants involved in cell differentiation, communication, and migration. Specifically, genes encoding for proteins involved in extracellular matrix formation and adhesion have been implicated because normal palatal formation requires fusion of the mesenchyme beneath the epithelial layers of each palatine shelf. In addition, certain environmental factors (eg, antiepileptic drugs, maternal smoking, folate deficiency) may increase the risk for cleft lip and/or palate, particularly in genetically susceptible individuals.\n\nSome cases of orofacial clefts are related to genetic syndromes (eg, 22q11 deletion syndrome) with associated multisystem anomalies, but sporadic cases with no family history or identifiable risk factors also occur. In the absence of an identifiable genetic syndrome, the risk of recurrence during subsequent pregnancies is <5%.\n\n(Choice A) Autosomal recessive inheritance can be responsible for rare, syndromic causes of orofacial clefts. This patient's isolated cleft palate and otherwise normal examination make a genetic syndrome (and therefore this mode of inheritance) unlikely.\n\n(Choice B) Genetic imprinting refers to the inactivation of one parent's gene during meiosis, and disrupted imprinting can lead to certain genetic disorders (eg, Prader-Willi syndrome, Angelman syndrome). However, there is no known association with orofacial clefts, especially in the absence of other abnormalities suggestive of an underlying genetic syndrome.\n\n(Choice C) Conditions of mitochondrial inheritance (eg, mitochondrial myopathies, myoclonic epilepsy) are transferred by affected females to offspring. Although this patient's maternal grandmother had a cleft palate, mitochondrial DNA does not contribute to the development of orofacial clefts.\n\n(Choice E) In females, a single X chromosome is randomly inactivated in each cell during early embryonic development. Skewed inactivation of the X chromosomes can result in female offspring developing symptoms of an X-linked recessive condition (eg, hemophilia). This mechanism does not contribute to orofacial cleft development.\n\nEducational objective:\nMost cases of cleft lip and/or cleft palate have a multifactorial pathophysiology related to complex interactions between genetic and environmental factors. {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "腭裂主要发生在腭板（上颌突的衍生物）在妊娠早期未能彼此融合或与原始腭融合时。 这种畸形可能单独发生，但可能与唇裂相关，唇裂是由于上颌突和颌间段融合失败所致。\n\n孤立性口面裂的病理生理学通常是多因素的，与遗传和环境因素之间的复杂相互作用有关。 融合失败可能由涉及细胞分化、通讯和迁移的一系列基因变异引起。 具体而言，编码参与细胞外基质形成和粘附的蛋白质的基因已被证实，因为正常的腭形成需要每个腭板上皮层下方的间充质融合。 此外，某些环境因素（例如，抗癫痫药、母亲吸烟、叶酸缺乏症）可能会增加唇裂和/或腭裂的风险，尤其是在易感基因个体中。\n\n某些口面裂病例与具有相关多系统异常的遗传综合征（例如，22q11 缺失综合征）相关，但也会发生无家族史或可识别危险因素的散发病例。 在没有可识别的遗传综合征的情况下，后续妊娠期间复发的风险 <5%。\n\n（选项 A）常染色体隐性遗传可导致罕见的口面裂综合征。 该患者的孤立性腭裂和检查的其他正常结果使得遗传综合征（因此这种遗传方式）不太可能。\n\n（选项 B）基因印记是指在减数分裂过程中一个亲本基因的失活，而印记紊乱可能导致某些遗传疾病（例如，Prader-Willi 综合征、Angelman 综合征）。 然而，目前尚无与口面裂相关的已知关联，尤其是在没有提示潜在遗传综合征的其他异常的情况下。\n\n（选项 C）线粒体遗传的疾病（例如，线粒体肌病、阵挛性癫痫）由受影响的女性传递给后代。 尽管该患者的母亲的祖母患有腭裂，但线粒体 DNA 并非导致口面裂发生的原因。\n\n（选项 E）在女性中，在早期胚胎发育过程中，每个细胞中的单个 X 染色体都会随机失活。 X 染色体的失活偏倚可导致女性后代出现 X 连锁隐性疾病（例如，血友病）的症状。 这种机制不会导致口面裂的发生。\n\n教育目标：\n大多数唇裂和/或腭裂病例具有多因素病理生理学，与遗传和环境因素之间的复杂相互作用有关。 {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the etiology and inheritance patterns of orofacial clefts, specifically the multifactorial nature of isolated cleft palate involving both genetic predisposition and environmental influences. It requires differentiating between various inheritance patterns and recognizing the most likely cause in the absence of syndromic features.\n\nThe best approach is to consider the family history, the isolated nature of the cleft palate, and the lack of other abnormalities. Rule out single-gene disorders and consider the possibility of complex interactions between multiple genes and environmental factors.",
+    "zh": "这道题考察了对口面裂的病因和遗传模式的了解，特别是孤立性腭裂的多因素性质，涉及遗传易感性和环境影响。它需要区分各种遗传模式，并在缺乏综合征特征的情况下识别最可能的原因。\n\n最好的方法是考虑家族史、腭裂的孤立性以及缺乏其他异常情况。 排除单基因疾病，并考虑多个基因和环境因素之间复杂相互作用的可能性。"
+  },
+  "tags": "Cleft palate; Orofacial clefts; Multifactorial inheritance; Genetic factors; Environmental factors; Teratogens; Craniofacial development; Genetics; Pediatrics",
+  "category": "ENT",
+  "question_id": "21127",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\ENT 23\\21127",
+  "extracted_at": "2025-11-05T14:14:48.926318",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:45:10.237532",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

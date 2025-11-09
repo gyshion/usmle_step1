@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 19-year-old woman comes to the office due to 2 days of dysuria, urinary frequency, and urgency. The symptoms began a day after having sexual intercourse with her boyfriend. The patient has no fever, flank pain, nausea, or vomiting. She has no chronic medical conditions and no known drug allergies. Vital signs are within normal limits. Examination shows mild suprapubic tenderness. Urinalysis reveals many bacteria and white blood cells/hpf.",
+    "zh": "一名19岁的女性因出现尿痛、尿频和尿急2天而前来就诊。症状始于与男友发生性行为一天后。患者无发热、腰痛、恶心或呕吐。她没有慢性病史，也没有已知的药物过敏史。生命体征在正常范围内。体格检查显示轻度耻骨上压痛。尿液分析显示许多细菌和白细胞/高倍视野。"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate pharmacotherapy for this patient?",
+    "zh": "以下哪项是该患者最合适的药物治疗方案？"
+  },
+  "options": {
+    "A": {
+      "en": "Azithromycin",
+      "zh": "阿奇霉素"
+    },
+    "B": {
+      "en": "Doxycycline",
+      "zh": "多西环素"
+    },
+    "C": {
+      "en": "Fluconazole",
+      "zh": "氟康唑"
+    },
+    "D": {
+      "en": "Metronidazole",
+      "zh": "甲硝唑"
+    },
+    "E": {
+      "en": "Trimethoprim-sulfamethoxazole",
+      "zh": "复方磺胺甲噁唑"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's acute dysuria, urinary frequency/urgency, suprapubic tenderness, and pyuria/bacteriuria indicate **acute simple cystitis**. Women are at greater risk than men due to the short distance between the anus and vaginal introitus, which allows enteric bacteria to contaminate the urethra and ascend into the bladder. **Recent sexual intercourse** is the single greatest risk factor in otherwise healthy women.\n\nMost cases of acute simple cystitis are caused by the enteric bacteria **Escherichia coli**. However, *Klebsiella pneumoniae, Proteus mirabilis,* and *Staphylococcus saprophyticus* are also frequently isolated. Patients with no risk factors for resistant bacteria (eg, recent inpatient hospitalization or antibiotic use) are generally treated empirically with 3-6 days of nitrofurantoin or **trimethoprim-sulfamethoxazole** (TMP-SMX) due to their excellent efficacy and low risk of side effects.\n\n(Choices A and B) Azithromycin and doxycycline treat *Chlamydia trachomatis* infections of the urogenital tract. Most cases of chlamydia are asymptomatic, but some patients have dysuria and urinary frequency. Although urinalysis will reveal pyuria, no bacteria would be seen on urinary Gram stain because *C trachomatis* has no cell wall. Neither azithromycin nor doxycycline adequately treats enteric, gram-negative pathogens; therefore, neither is typically used for acute simple cystitis.\n\n(Choice C) Fluconazole is often used to treat vaginal candidiasis, which can cause dysuria and is often linked to vaginal intercourse. However, most patients also have vaginal itching and soreness. The presence of urinary frequency, urgency, and pyuria/bacteriuria makes bacterial cystitis more likely.\n\n(Choice D) Metronidazole can treat *Trichomonas vaginalis*, a flagellated protozoan that is transmitted during sexual intercourse. Women infected with trichomonas often have dysuria and frequency, but most also have a purulent, malodorous vaginal discharge. The presence of pyuria/bacteriuria on urinalysis makes acute bacterial cystitis more likely.",
+    "zh": "该患者的急性尿痛、尿频/尿急、耻骨上压痛和脓尿/菌尿表明患有**急性单纯性膀胱炎**。女性比男性面临更大的风险，因为肛门和阴道口之间的距离很短，这使得肠道细菌污染尿道并进入膀胱。**近期性交**是其他方面健康的女性的最大风险因素。\n\n大多数急性单纯性膀胱炎病例是由肠道细菌**大肠杆菌**引起的。然而，*肺炎克雷伯菌、奇异变形杆菌*和*腐生葡萄球菌*也经常被分离出来。对于没有耐药菌风险因素的患者（例如，近期住院或使用抗生素）通常经验性地使用3-6天的呋喃妥因或**复方磺胺甲噁唑**（TMP-SMX），因为它们具有出色的疗效和低副作用风险。\n\n（选项A和B）阿奇霉素和多西环素治疗泌尿生殖道的*沙眼衣原体*感染。大多数衣原体感染病例无症状，但一些患者出现尿痛和尿频。虽然尿液分析会显示脓尿，但尿液革兰染色不会看到细菌，因为*沙眼衣原体*没有细胞壁。阿奇霉素和多西环素都不能充分治疗肠道革兰阴性病原体；因此，它们通常不用于急性单纯性膀胱炎。\n\n（选项C）氟康唑常用于治疗念珠菌性阴道炎，这可能引起尿痛，并且经常与阴道性交有关。然而，大多数患者也有阴道瘙痒和疼痛。尿频、尿急和脓尿/菌尿的存在使得细菌性膀胱炎更有可能。\n\n（选项D）甲硝唑可以治疗*阴道毛滴虫*，这是一种在性交过程中传播的鞭毛原生动物。感染毛滴虫的女性通常会出现尿痛和尿频，但大多数患者也有化脓性、恶臭的阴道分泌物。尿液分析中脓尿/菌尿的存在使得急性细菌性膀胱炎更有可能。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of acute cystitis diagnosis and treatment. It requires differentiating between common causes of dysuria and selecting the appropriate empiric antibiotic therapy.\n\nTo solve this question, recognize the symptoms of acute cystitis (dysuria, frequency, urgency) and the risk factor of recent sexual intercourse. Rule out other causes of dysuria based on the absence of specific symptoms (vaginal discharge, itching) and select the appropriate empiric antibiotic for uncomplicated cystitis.",
+    "zh": "此题考察对急性膀胱炎的诊断和治疗的知识。它需要区分尿痛的常见原因，并选择合适的经验性抗生素治疗。\n\n要解决这个问题，需要认识到急性膀胱炎的症状（尿痛、尿频、尿急）和近期性交的危险因素。根据特定症状（阴道分泌物、瘙痒）的缺失排除尿痛的其他原因，并为非复杂性膀胱炎选择合适的经验性抗生素。"
+  },
+  "tags": "Acute cystitis; Urinary tract infection; Escherichia coli; Trimethoprim-sulfamethoxazole; Antibiotics; Infectious disease; Dysuria; Urinary frequency; Urinary urgency",
+  "category": "Micro",
+  "question_id": "18521",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\18521",
+  "extracted_at": "2025-11-05T15:02:14.123027",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:10:30.028668",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

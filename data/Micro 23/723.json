@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A microbiologist is studying the structure and function of bacterial cell walls. In an experiment, group A streptococci are treated with chemicals to solubilize the cell wall. Various cell wall-associated proteins are subsequently extracted. Electron microscopic evaluation of a specific protein shows structural homology with mammalian tropomyosin and myosin. This protein acts as a virulence factor for certain species of the organism.",
+    "zh": "一名微生物学家正在研究细菌细胞壁的结构和功能。在一项实验中，用化学物质处理 A 组链球菌以溶解细胞壁。随后提取各种与细胞壁相关的蛋白质。对一种特定蛋白质的电子显微镜评估显示，其结构与哺乳动物的肌动蛋白原和肌球蛋白具有同源性。这种蛋白质充当该生物体某些物种的毒力因子。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely function of this bacterial cell wall-associated protein?",
+    "zh": "以下哪项最可能是这种与细菌细胞壁相关的蛋白质的功能？"
+  },
+  "options": {
+    "A": {
+      "en": "Excrete antibiotics",
+      "zh": "排出抗生素"
+    },
+    "B": {
+      "en": "Protect from osmotic lysis",
+      "zh": "防止渗透性溶解"
+    },
+    "C": {
+      "en": "Provide mechanical cell support",
+      "zh": "提供机械性细胞支撑"
+    },
+    "D": {
+      "en": "Resist phagocytosis",
+      "zh": "抵抗吞噬作用"
+    },
+    "E": {
+      "en": "Transport nutrients into the cell",
+      "zh": "将营养物质转运到细胞内"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Gram-positive organisms have cell walls composed primarily of a thick peptidoglycan layer and teichoic acid. However, additional cell wall components are often present that contribute to virulence, motility, or the ability to adhere to epithelial surfaces. For instance, the cell wall of group A streptococcus (also known as Streptococcus pyogenes) is studded with M protein, a virulence factor that inhibits phagocytosis, prevents complement binding, and aids in epithelial attachment. {{exhibit_1}}\n\nM protein is an alpha-helical coiled-coil protein that shares epitopes and structural homology with other alpha-helical coiled-coil proteins such as tropomyosin and myosin. In some patients, the protective antibodies against M protein that develop in S pyogenes acute infection may cross-react with myosin epitopes in the heart and cause rheumatic carditis.\n\n(Choice A) Efflux pumps are generally globular proteins with multiple domains. They reside in the bacterial cell membrane and excrete toxic substances from the interior of the cell. Bacteria can use efflux pumps to generate antibiotic resistance to drugs that operate in the interior of the cell, such as fluoroquinolones and aminoglycosides.\n\n(Choices B and C) The bacterial cell wall of S pyogenes provides mechanical support and protects it from osmotic lysis. It is composed primarily of peptidoglycan, which forms a mesh-like, cross-linked polymer of peptides and sugars.\n\n(Choice E) Porins in the cell membrane aid in the movement of nutrients into bacterial cells. They are composed of protein strands that group together to form a barrel (beta-barrel).\n\nEducational objective:\nThe major virulence factor of Streptococcus pyogenes is M protein, an alpha-helical coiled-coil protein that shares structural homology with tropomyosin and myosin. It extends from the cell wall and prevents phagocytosis, inhibits complement binding, and mediates bacterial adherence. Antibodies against M protein form shortly after acute infection and may cross-react with epitopes on myosin, leading to rheumatic carditis. {{exhibit_2}}",
+    "zh": "革兰氏阳性生物体的细胞壁主要由厚的肽聚糖层和磷壁酸组成。然而，通常还存在其他细胞壁成分，这些成分有助于毒力、运动性或粘附于上皮表面的能力。例如，A组链球菌（也称为化脓性链球菌）的细胞壁上布满了M蛋白，这是一种毒力因子，可抑制吞噬作用，阻止补体结合，并有助于上皮附着。{{exhibit_1}}\n\nM 蛋白是一种α螺旋卷曲螺旋蛋白，与其他α螺旋卷曲螺旋蛋白（如肌动蛋白原和肌球蛋白）具有表位和结构同源性。在某些患者中，针对 M 蛋白的保护性抗体在化脓性链球菌急性感染中产生，可能会与心脏中的肌球蛋白表位发生交叉反应，并引起风湿性心肌炎。\n\n（选项 A）外排泵通常是具有多个结构域的球状蛋白质。它们存在于细菌细胞膜中，并将有毒物质从细胞内部排出。细菌可以使用外排泵来产生对抗在细胞内部起作用的药物（如氟喹诺酮类和氨基糖苷类）的耐药性。\n\n（选项 B 和 C）化脓性链球菌的细菌细胞壁提供机械支撑，并防止其发生渗透性溶解。它主要由肽聚糖组成，肽聚糖形成由肽和糖组成的网状交联聚合物。\n\n（选项 E）细胞膜中的孔蛋白有助于营养物质进入细菌细胞。它们由蛋白质链组成，这些蛋白质链聚集在一起形成桶状结构（β-桶）。\n\n教育目标：\n化脓性链球菌的主要毒力因子是 M 蛋白，这是一种α螺旋卷曲螺旋蛋白，与肌动蛋白原和肌球蛋白具有结构同源性。它从细胞壁延伸出来，可防止吞噬作用，抑制补体结合，并介导细菌粘附。针对 M 蛋白的抗体在急性感染后不久形成，并可能与肌球蛋白上的表位发生交叉反应，导致风湿性心肌炎。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of bacterial virulence factors, specifically the function of M protein in Streptococcus pyogenes. It requires understanding how M protein contributes to the organism's ability to cause disease by inhibiting phagocytosis.\n\nThe best approach is to recall the key virulence factors associated with common bacterial pathogens. Focus on the mechanisms by which these factors enhance the organism's ability to colonize, evade the immune system, or cause tissue damage. Eliminate options that describe unrelated bacterial structures or functions.",
+    "zh": "此问题测试对细菌毒力因子的知识，特别是化脓性链球菌中 M 蛋白的功能。它需要了解 M 蛋白如何通过抑制吞噬作用来促进生物体引起疾病的能力。\n\n最好的方法是回忆与常见细菌病原体相关的关键毒力因子。重点关注这些因子增强生物体定植、逃避免疫系统或引起组织损伤的机制。排除描述不相关的细菌结构或功能的选项。"
+  },
+  "tags": "Streptococcus pyogenes; M protein; Virulence factors; Phagocytosis; Bacterial cell wall; Rheumatic fever; Microbiology; Immunology",
+  "category": "Micro",
+  "question_id": "723",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\723",
+  "extracted_at": "2025-11-05T15:05:22.347496",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:13:04.554625",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

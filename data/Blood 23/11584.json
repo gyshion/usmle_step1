@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "6.  A 67-year-old man is evaluated for persistent lower back pain and fatigue. The patient has no other medical conditions and takes no medications. Laboratory testing shows anemia and renal dysfunction. Serum total protein levels are elevated, and electrophoresis of the serum proteins reveals a narrow spike in the gamma globulin region. A subsequent bone marrow biopsy shows abnormal marrow cells. A medication that blocks cellular proteasome action is administered. {{exhibit_1}}",
+    "zh": "6. 一位67岁的男性因持续性腰痛和疲劳就诊。患者无其他疾病史，未服用任何药物。实验室检查显示贫血和肾功能不全。血清总蛋白水平升高，血清蛋白电泳显示γ球蛋白区出现狭窄的峰值。随后的骨髓活检显示异常骨髓细胞。给予一种阻断细胞蛋白酶体作用的药物。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "This treatment is most likely to cause which of the following effects on the abnormal cells?",
+    "zh": "这种治疗最有可能对异常细胞产生以下哪种影响？"
+  },
+  "options": {
+    "A": {
+      "en": "Augmented cytotoxic T-cell response",
+      "zh": "增强的细胞毒性T细胞反应"
+    },
+    "B": {
+      "en": "Decreased DNA methylation",
+      "zh": "DNA甲基化降低"
+    },
+    "C": {
+      "en": "Impaired RNA splicing",
+      "zh": "RNA剪接受损"
+    },
+    "D": {
+      "en": "Improved differentiation",
+      "zh": "改善分化"
+    },
+    "E": {
+      "en": "Increased apoptosis",
+      "zh": "细胞凋亡增加"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's manifestations (anemia, back pain, renal insufficiency), monoclonal protein spike on electrophoresis, and bone marrow findings indicate likely MULTIPLE MYELOMA (MM), a plasma cell malignancy associated with the overproduction of monoclonal immunoglobulins or IgG fragments (eg, IgG light chains). Treatment regimens for MM often incorporate medications that block proteasome function (eg, bortezomib).\n\nThe proteasome is a barrel-shaped structure with a proteolytic core that degrades ubiquitin-tagged proteins. Proteasome inhibition results in the ACCUMULATION of damaged and misfolded proteins that have a cytotoxic effect. MM cells are particularly susceptible to proteasome inhibition because they generate extremely high quantities of secretory proteins (eg, monoclonal immunoglobulins), some of which misfold and aggregate within the endoplasmic reticulum. Increased stress on the endoplasmic reticulum triggers an unfolded protein response that eventually leads to activation of caspases and cellular apoptosis.\n\n(Choice A) Cytotoxic T-cell destruction of cancer cells is augmented by checkpoint inhibitor immunotherapies such as those that target the programmed cell death 1 receptor and CTLA-4. These drugs are often used in the treatment of MM but augmented cytotoxic T-cell function is not related to proteosome inhibition.\n\n(Choice B) Azacitidine is a cytidine analogue that inhibits DNA methyltransferase. It reduces DNA methylation and alters gene expression, leading to reduced protein synthesis and increased cellular differentiation. It is toxic to abnormal hematopoietic cells but is used primarily to treat myelodysplastic syndrome.\n\n(Choice C) RNA splicing is done by the nuclear spliceosome, which removes introns from transcribed pre-mRNA. The proteasome does not affect RNA splicing.\n\n(Choice D) All-trans-retinoic acid is used in the treatment of acute promyelocytic leukemia. It works by promoting differentiation of neoplastic cells into mature neutrophils.",
+    "zh": "该患者的表现（贫血、背痛、肾功能不全）、电泳上的单克隆蛋白峰以及骨髓检查结果提示可能为多发性骨髓瘤（MM），这是一种与单克隆免疫球蛋白或IgG片段（例如，IgG轻链）过度产生相关的浆细胞恶性肿瘤。MM的治疗方案通常包括阻断蛋白酶体功能的药物（例如，硼替佐米）。\n\n蛋白酶体是一种桶状结构，具有降解泛素标记蛋白的蛋白水解核心。蛋白酶体抑制导致受损和错误折叠蛋白的积累，从而产生细胞毒性作用。MM细胞对蛋白酶体抑制特别敏感，因为它们产生大量分泌蛋白（例如，单克隆免疫球蛋白），其中一些蛋白在内质网内错误折叠和聚集。内质网应激增加触发未折叠蛋白反应，最终导致caspases的激活和细胞凋亡。\n\n（选项A）细胞毒性T细胞对癌细胞的破坏由检查点抑制剂免疫疗法增强，例如针对程序性细胞死亡1受体和CTLA-4的疗法。这些药物常用于MM的治疗，但增强的细胞毒性T细胞功能与蛋白酶体抑制无关。\n\n（选项B）阿扎胞苷是一种胞苷类似物，可抑制DNA甲基转移酶。它降低DNA甲基化并改变基因表达，导致蛋白质合成减少和细胞分化增加。它对异常造血细胞有毒性，但主要用于治疗骨髓增生异常综合征。\n\n（选项C）RNA剪接由核剪接体完成，它从转录的pre-mRNA中去除内含子。蛋白酶体不影响RNA剪接。\n\n（选项D）全反式维甲酸用于治疗急性早幼粒细胞白血病。它通过促进肿瘤细胞分化为成熟的中性粒细胞而起作用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of multiple myeloma and the mechanism of action of proteasome inhibitors like bortezomib. Proteasome inhibitors lead to accumulation of misfolded proteins, causing endoplasmic reticulum stress and apoptosis in myeloma cells.\n\nTo solve this question, recognize the clinical features of multiple myeloma and understand that proteasome inhibitors cause apoptosis by disrupting protein degradation and causing cellular stress.",
+    "zh": "本题考察对多发性骨髓瘤的认识以及硼替佐米等蛋白酶体抑制剂的作用机制。蛋白酶体抑制剂导致错误折叠蛋白的积累，引起内质网应激和骨髓瘤细胞凋亡。\n\n要解决这个问题，需要识别多发性骨髓瘤的临床特征，并理解蛋白酶体抑制剂通过破坏蛋白质降解并引起细胞应激来诱导细胞凋亡。"
+  },
+  "tags": "Multiple myeloma; Proteasome inhibitors; Apoptosis; Bone marrow biopsy; Monoclonal gammopathy; Plasma cell dyscrasia; Oncology; Hematology",
+  "category": "Blood",
+  "question_id": "11584",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\11584",
+  "extracted_at": "2025-11-05T11:19:25.866683",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:25:48.227604",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

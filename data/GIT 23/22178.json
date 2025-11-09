@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 67-year-old man comes to the office due to dark urine, pale-appearing stools, and progressive yellowing of his eyes over the last few weeks. He also reports unintentional weight loss, but has had no night sweats, abdominal pain, bloody stools, or vomiting. He has no chronic medical conditions and takes no medication. Vital signs are within normal limits. Scleral icterus is present. The neck is supple. No lymphadenopathy or skin abnormalities are present. There is no hepatosplenomegaly. Laboratory results are as follows:\n\nTotal bilirubin 7.2 mg/dL\nAlkaline phosphatase 398 U/L\n\nCT scan of the abdomen reveals a pancreatic mass compressing the common bile duct and the pancreatic duct.",
+    "zh": "一名67岁男性因深色尿、淡色粪便和过去几周眼睛逐渐发黄而就诊。他还报告了非意向性体重减轻，但没有盗汗、腹痛、便血或呕吐。他没有任何慢性病史，也没有服用任何药物。生命体征在正常范围内。巩膜黄疸存在。颈部柔软。无淋巴结肿大或皮肤异常。无肝脾肿大。实验室结果如下：\n\n总胆红素7.2 mg/dL\n碱性磷酸酶398 U/L\n\n腹部CT扫描显示胰腺肿块压迫胆总管和胰管。"
+  },
+  "question": {
+    "en": "This patient's disease process is most likely caused by a mutation affecting which of the following genes?",
+    "zh": "该患者的疾病过程最有可能由影响以下哪个基因的突变引起？"
+  },
+  "options": {
+    "A": {
+      "en": "APC",
+      "zh": "APC"
+    },
+    "B": {
+      "en": "BCL2",
+      "zh": "BCL2"
+    },
+    "C": {
+      "en": "BRAF",
+      "zh": "BRAF"
+    },
+    "D": {
+      "en": "c-MYC",
+      "zh": "c-MYC"
+    },
+    "E": {
+      "en": "KRAS",
+      "zh": "KRAS"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Common bile duct obstructions increase conjugated bilirubin in the bloodstream, leading to jaundice and dark-colored urine; they also prevent bilirubin from entering the digestive tract, which results in clay-colored (acholic) stools. The vast majority (>85%) of obstructing pancreatic masses are due to pancreatic ductal adenocarcinoma.\n\nThe major genomic abnormality in pancreatic ductal adenocarcinoma is KRAS-activating mutation, which allows tumor cells to grow and divide without input from the cellular milieu due to aberrant activity that relays a continuous growth signal to the nucleus. Because KRAS mutations are one of the earliest oncogenic mutations in pancreatic adenocarcinoma, tests for KRAS abnormalities are being developed to help with early detection. Many colorectal cancers and non-small cell lung cancers also have KRAS-activating mutations.\n\n(Choice A) Germline mutations in the adenomatous polyposis coli (APC) tumor suppressor gene are associated with familial adenomatous polyposis (FAP). FAP causes innumerable colon polyps and colon cancer. Patients typically have hematochezia.\n\n(Choice B) BCL2 produces a protein that sits on the outer membrane of mitochondria and controls cell survival and apoptosis. BCL2-activating mutation is common in follicular lymphoma. Although patients with follicular lymphoma often have large abdominal masses, almost all cases are marked by significant peripheral lymphadenopathy and B symptoms (eg, night sweats).\n\n(Choice C) BRAF is a protooncogene that produces a protein involved in growth signal transduction from the cell membrane to the interior of the cell. BRAF mutations are most strongly associated with malignant melanoma.\n\n(Choice D) c-MYC is a protooncogene overexpressed in Burkitt lymphoma, which usually presents with a facial mass (eg, endemic African form) or with ascites and multi-organ involvement (eg, sporadic form). An isolated pancreatic mass with common bile duct obstruction is far more likely to be pancreatic adenocarcinoma.\n\nEducational objective:\nOncogenesis in pancreatic ductal adenocarcinoma is almost always due to an early activating mutation in the KRAS oncogene, which produces a constitutively active protein that allows for uncontrolled proliferation of tumor cells.",
+    "zh": "胆总管梗阻会增加血液中结合胆红素的含量，导致黄疸和深色尿；它们还会阻止胆红素进入消化道，从而导致陶土色（无胆汁性）粪便。绝大多数（>85%）梗阻性胰腺肿块是由于胰腺导管腺癌引起的。\n\n胰腺导管腺癌的主要基因组异常是KRAS激活突变，该突变使肿瘤细胞能够生长和分裂，而无需来自细胞环境的输入，这归因于异常活动将持续的生长信号传递到细胞核。由于KRAS突变是胰腺导管腺癌中最早的致癌突变之一，因此正在开发KRAS异常检测，以帮助早期发现。许多结直肠癌和非小细胞肺癌也有KRAS激活突变。\n\n（选项A）腺瘤性息肉病 (APC) 抑癌基因的种系突变与家族性腺瘤性息肉病 (FAP) 相关。FAP 导致无数的结肠息肉和结肠癌。患者通常有便血。\n\n（选项B）BCL2产生一种位于线粒体外膜上的蛋白质，控制细胞存活和凋亡。BCL2激活突变在滤泡性淋巴瘤中很常见。尽管滤泡性淋巴瘤患者通常有大的腹部肿块，但几乎所有病例的特征都是明显的周围淋巴结肿大和B症状（例如，盗汗）。\n\n（选项C）BRAF是一种原癌基因，产生一种参与从细胞膜向细胞内部的生长信号转导的蛋白质。BRAF突变与恶性黑色素瘤最密切相关。\n\n（选项D）c-MYC是一种在伯基特淋巴瘤中过度表达的原癌基因，伯基特淋巴瘤通常表现为面部肿块（例如，地方性非洲形式）或腹水和多器官受累（例如，散发形式）。孤立的胰腺肿块合并胆总管梗阻更可能为胰腺导管腺癌。\n\n教育目标：\n胰腺导管腺癌的肿瘤发生几乎总是由于KRAS癌基因的早期激活突变，该突变产生组成性活化的蛋白质，从而导致肿瘤细胞的失控增殖。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the genetic mutations associated with pancreatic ductal adenocarcinoma, specifically the role of KRAS mutations in its development. It also requires differentiating pancreatic cancer from other conditions with similar presentations but different underlying genetic causes.\n\nTo solve this question, recognize the clinical presentation of pancreatic cancer (jaundice, dark urine, pale stools, weight loss) and the CT scan findings. Then, recall the most common genetic mutation associated with pancreatic ductal adenocarcinoma, which is KRAS.",
+    "zh": "本题考察了与胰腺导管腺癌相关的基因突变知识，特别是KRAS突变在其发展中的作用。它还要求将胰腺癌与其他具有类似表现但潜在遗传原因不同的疾病区分开来。\n\n要解决这个问题，需要认识到胰腺癌的临床表现（黄疸、深色尿、淡色粪便、体重减轻）和CT扫描结果。然后，回忆与胰腺导管腺癌相关的最常见基因突变，即KRAS。"
+  },
+  "tags": "Pancreatic cancer; KRAS mutation; Jaundice; Cholestasis; Adenocarcinoma; Oncology; Genetics; Biliary obstruction {{exhibit_1}}",
+  "category": "GIT",
+  "question_id": "22178",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\22178",
+  "extracted_at": "2025-11-05T14:31:52.317724",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:55:21.962547",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

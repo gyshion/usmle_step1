@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 3-year-old boy is brought to the physician with jaundice and pallor. He was adopted and his family history is unknown. Laboratory studies show anemia, reticulocytosis, and increased indirect bilirubin. A peripheral blood smear shows red blood cells without central pallor {{exhibit_1}}. This patient is most likely to have which of the following additional findings?",
+    "zh": "一名3岁男孩因黄疸和苍白就诊。他被收养，家族史不明。实验室检查显示贫血、网织红细胞增多和间接胆红素升高。外周血涂片显示红细胞无中心苍白区 {{exhibit_1}}。该患者最有可能出现以下哪种额外的发现？"
+  },
+  "question": {
+    "en": "This patient is most likely to have which of the following additional findings?",
+    "zh": "该患者最有可能出现以下哪种额外的发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased lactate dehydrogenase",
+      "zh": "乳酸脱氢酶降低"
+    },
+    "B": {
+      "en": "Increased haptoglobin",
+      "zh": "触珠蛋白升高"
+    },
+    "C": {
+      "en": "Increased mean corpuscular hemoglobin concentration",
+      "zh": "平均红细胞血红蛋白浓度升高"
+    },
+    "D": {
+      "en": "Increased mean corpuscular volume",
+      "zh": "平均红细胞体积增大"
+    },
+    "E": {
+      "en": "Red blood cell inclusions",
+      "zh": "红细胞内含物"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient's anemia, reticulocytosis, and increased indirect bilirubin are indicative of hemolytic anemia. His peripheral blood smear shows red blood cells without central pallor (ie, spherocytes), which suggests acquired or hereditary SPHEROCYTOSIS. Hereditary spherocytosis is caused by defective binding of the red cell cytoskeleton to the plasma membrane due to mutations involving ankyrin, band 3, or spectrin proteins; acquired spherocytosis is most often caused by autoimmune hemolytic anemia. Compared to normal red blood cells, spherocytes are smaller and have a more intensely-staining cytoplasm due to membrane loss and red cell dehydration. The red cell index most specific for spherocytosis is an elevation in mean corpuscular hemoglobin concentration (MCHC). {{exhibit_2}}\n\n(Choice A) Lactate dehydrogenase (LDH) is an enzyme present in red blood cells. LDH will be elevated in any cause of hemolytic anemia.\n\n(Choice B) Haptoglobin is an acute phase reactant that combines with free hemoglobin in the circulation to preserve body iron stores and prevent tissue damage. Haptoglobin levels decrease in any form of hemolytic anemia (even with extravascular hemolysis, as some free hemoglobin will spill into the blood stream).\n\n(Choice D) The mean corpuscular volume (MCV) is generally normal to low in hereditary spherocytosis.\n\n(Choice E) Red blood cell inclusions, such as Howell-Jolly bodies (DNA) and Pappenheimer bodies (iron), are occasionally associated with hemolytic anemia but are more commonly associated with splenectomy and sideroblastic anemia, respectively. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "该患者的贫血、网织红细胞增多和间接胆红素升高表明存在溶血性贫血。他的外周血涂片显示红细胞无中心苍白区（即球形红细胞），提示获得性或遗传性球形红细胞增多症。遗传性球形红细胞增多症是由红细胞细胞骨架与质膜结合缺陷引起的，这与涉及锚蛋白、带3或血影蛋白的突变有关；获得性球形红细胞增多症最常由自身免疫性溶血性贫血引起。与正常红细胞相比，球形红细胞更小，由于膜丢失和红细胞脱水，细胞质染色更浓。对球形红细胞增多症最特异的红细胞指标是平均红细胞血红蛋白浓度（MCHC）升高。{{exhibit_2}}\n\n(选项A) 乳酸脱氢酶 (LDH) 是一种存在于红细胞中的酶。LDH 在任何原因引起的溶血性贫血中都会升高。\n\n(选项B) 触珠蛋白是一种急性期反应物，它与循环中的游离血红蛋白结合，以维持体内铁储存并防止组织损伤。在任何形式的溶血性贫血中，触珠蛋白水平都会降低（即使是血管外溶血，因为一些游离血红蛋白会溢入血流）。\n\n(选项D) 平均红细胞体积 (MCV) 在遗传性球形红细胞增多症中通常正常或较低。\n\n(选项E) 红细胞内含物，如 Howell-Jolly 小体（DNA）和 Pappenheimer 小体（铁），偶尔与溶血性贫血相关，但更常见于脾切除术和铁粒幼细胞性贫血，分别。{{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hereditary spherocytosis, its presentation, and associated lab findings, particularly the elevated MCHC. It also tests understanding of other hemolytic anemia markers.\n\nTo solve this question, recognize the hemolytic anemia picture from the jaundice, pallor, anemia, reticulocytosis, and increased indirect bilirubin. The absence of central pallor on the blood smear points towards spherocytes, and thus hereditary spherocytosis. Recall that MCHC is typically elevated in this condition.",
+    "zh": "此题考察对遗传性球形红细胞增多症的认识，其表现，以及相关的实验室检查结果，特别是升高的MCHC。它还考察对其他溶血性贫血标志物的理解。\n\n要解决这个问题，要从黄疸、苍白、贫血、网织红细胞增多和间接胆红素升高来识别溶血性贫血的情况。血涂片上无中心苍白区指向球形红细胞，从而指向遗传性球形红细胞增多症。回想一下，MCHC 通常在这种情况下升高。"
+  },
+  "tags": "Hereditary spherocytosis; Hemolytic anemia; Mean corpuscular hemoglobin concentration; MCHC; Anemia; Reticulocytosis; Jaundice; Pallor; Peripheral blood smear; Hematology",
+  "category": "Blood",
+  "question_id": "890",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\890",
+  "extracted_at": "2025-11-05T11:34:46.144347",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:32:41.291982",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

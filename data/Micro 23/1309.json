@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 31-year-old man comes to the emergency department due to 2 weeks of fever, night sweats, and productive cough. He has also had a 5-kg (11-lb) weight loss. He has no other medical problems. The patient is a software engineer who moved to the United States from Uzbekistan 15 years ago. He takes no medications and has no known drug allergies. Temperature is 38.3 C (101 F), blood pressure is 110/80 mm Hg, pulse is 94/min, and respirations are 18/min. He weighs 60 kg (132.3 lb). Pulse oximetry shows 94% on room air. Chest-x ray reveals a cavitary lesion in the right lung. Sputum culture is obtained. Following exposure to drug A, the cultured pathogen stops proliferating and loses color when exposed to an acid-alcohol decolorizing agent.",
+    "zh": "一名31岁的男性因发热、盗汗和咳嗽两周来到急诊科。他也有5公斤（11磅）的体重减轻。他没有其他医学问题。患者是一名软件工程师，15年前从乌兹别克斯坦移居美国。他不服用任何药物，也没有已知的药物过敏史。体温38.3°C（101°F），血压110/80 mmHg，脉搏94次/分钟，呼吸18次/分钟。他的体重是60公斤（132.3磅）。脉搏血氧饱和度显示在室内空气中为94%。胸部X光片显示右肺有空洞病变。进行痰培养。在接触药物A后，培养的病原体停止增殖，并在接触酸性-酒精脱色剂时失去颜色。"
+  },
+  "question": {
+    "en": "Drug A is most likely to be which of the following medications?",
+    "zh": "药物A最可能是以下哪种药物？"
+  },
+  "options": {
+    "A": {
+      "en": "Ciprofloxacin",
+      "zh": "环丙沙星"
+    },
+    "B": {
+      "en": "Isoniazid",
+      "zh": "异烟肼"
+    },
+    "C": {
+      "en": "Rifampin",
+      "zh": "利福平"
+    },
+    "D": {
+      "en": "Streptomycin",
+      "zh": "链霉素"
+    },
+    "E": {
+      "en": "Vancomycin",
+      "zh": "万古霉素"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Isoniazid is an antimicrobial agent that is active only against mycobacteria. Its specificity is derived from its inhibition of mycolic acid synthesis. Mycolic acids form long branched-chain fatty acids in the outer portion of the mycobacterial peptidoglycan cell wall; they are essential for proper cell wall structure and virulence factor synthesis (eg, sulfatides, wax D, cord factor). When mycobacteria are unable to synthesize mycolic acids, they lose the fidelity of the cell wall and are unable to divide to form new cells.\n\nMycolic acids in the cell wall are what cause mycobacteria to be acid-fast. This property is due to the retention of a stain (eg, carbolfuchsin dye) despite exposure to an acid-alcohol decolorizing agent. If the quantity of mycolic acids in the cell wall is reduced (eg, following exposure to isoniazid), the organism will lose the color of the stain when exposed to an acid-alcohol agent.\n\n(Choice A) Fluoroquinolones (eg, ciprofloxacin) can be used as part of a multi-drug regimen to treat some forms of drug resistant tuberculosis. They inhibit DNA gyrase, leading to fractures in the bacterial chromosome and an inability to code for proteins necessary for survival. Fluoroquinolones would not have a direct effect on the acid-fastness of mycobacteria.\n\n(Choice C) Rifampin is an essential component of the multi-drug regimen used to treat active tuberculosis. Rifampin halts bacterial protein synthesis by inhibiting bacterial DNA-dependent RNA polymerase, thereby preventing DNA transcription into mRNA. Rifampin would inhibit mycobacterial growth in an in vitro culture, but it would not cause the mycobacteria to lose their acid-fastness.\n\n(Choice D) Streptomycin is an aminoglycoside that inhibits the bacterial 30S ribosomal subunit, thereby halting protein synthesis. This restricts mycobacterial cell growth and leads to cell death. However, the acid-fastness of the organism is not affected. Streptomycin is also indicated in the treatment of plague (caused by Yersinia pestis) and tularemia (caused by Francisella tularensis).\n\n(Choice E) Vancomycin binds to D-alanyl-D-alanine residues, inhibiting polymerization and cross-linking of the glycopeptides forming the cell wall of gram-positive bacteria (not mycobacteria).\n\nEducational objective:\nIsoniazid is an antimycobacterial agent that specifically inhibits the synthesis of mycolic acids, which are essential components of the mycobacterial peptidoglycan cell wall. Without mycolic acids, the mycobacteria lose their acid-fastness and become unable to synthesize new cell walls or multiply.",
+    "zh": "异烟肼是一种仅对分枝杆菌有效的抗菌剂。它的特异性源于其对分枝菌酸合成的抑制。分枝菌酸在外部分枝杆菌肽聚糖细胞壁中形成长链支链脂肪酸；它们对于适当的细胞壁结构和毒力因子合成（例如，磺脂、蜡D、索状因子）至关重要。当分枝杆菌无法合成分枝菌酸时，它们会失去细胞壁的保真度，无法分裂形成新的细胞。\n\n细胞壁中的分枝菌酸是导致分枝杆菌呈抗酸性的原因。这种特性是由于在接触酸性-酒精脱色剂后仍能保留染色剂（例如，石炭酸复红染料）。如果细胞壁中分枝菌酸的量减少（例如，接触异烟肼后），则该生物体在接触酸性-酒精试剂时会失去染料的颜色。\n\n（选项A）氟喹诺酮类药物（例如，环丙沙星）可用作治疗某些耐药结核病的多药方案的一部分。它们抑制DNA促旋酶，导致细菌染色体断裂，并且无法编码生存所必需的蛋白质。氟喹诺酮类药物不会对分枝杆菌的抗酸性产生直接影响。\n\n（选项C）利福平是用于治疗活动性结核病的多药方案的重要组成部分。利福平通过抑制细菌DNA依赖性RNA聚合酶来阻止细菌蛋白质合成，从而阻止DNA转录成mRNA。利福平会抑制体外培养中的分枝杆菌生长，但不会导致分枝杆菌失去抗酸性。\n\n（选项D）链霉素是一种氨基糖苷类药物，可抑制细菌30S核糖体亚基，从而阻止蛋白质合成。这限制了分枝杆菌的细胞生长并导致细胞死亡。然而，生物体的抗酸性不受影响。链霉素也适用于治疗鼠疫（由鼠疫耶尔森菌引起）和土拉菌病（由土拉弗朗西斯菌引起）。\n\n（选项E）万古霉素与D-丙氨酰-D-丙氨酸残基结合，抑制形成革兰氏阳性菌细胞壁（非分枝杆菌）的糖肽的聚合和交联。\n\n教育目标：\n异烟肼是一种抗分枝杆菌药物，可特异性抑制分枝菌酸的合成，分枝菌酸是分枝杆菌肽聚糖细胞壁的重要组成部分。没有分枝菌酸，分枝杆菌会失去其抗酸性，并且无法合成新的细胞壁或繁殖。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of tuberculosis diagnosis and the mechanism of action of isoniazid. Specifically, it assesses the understanding of how isoniazid affects the acid-fastness of mycobacteria.\n\nTo solve this question, recognize the clinical presentation suggestive of tuberculosis (fever, night sweats, cough, weight loss, cavitary lesion). Then, link the acid-alcohol decolorization property to the mechanism of action of isoniazid, which inhibits mycolic acid synthesis, a key component of the mycobacterial cell wall.",
+    "zh": "这个问题测试了对结核病诊断和异烟肼作用机制的了解。具体而言，它评估了对异烟肼如何影响分枝杆菌抗酸性的理解。\n\n要解决这个问题，需要认识到提示结核病的临床表现（发热、盗汗、咳嗽、体重减轻、空洞病变）。然后，将酸性-酒精脱色特性与异烟肼的作用机制联系起来，异烟肼抑制分枝菌酸的合成，而分枝菌酸是分枝杆菌细胞壁的关键组成部分。"
+  },
+  "tags": "Tuberculosis; Isoniazid; Mycolic acid; Acid-fast stain; Infectious diseases; Pulmonary medicine; Antimycobacterial agents",
+  "category": "Micro",
+  "question_id": "1309",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1309",
+  "extracted_at": "2025-11-05T14:53:17.537673",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:06:38.403008",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

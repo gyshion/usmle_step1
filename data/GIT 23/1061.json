@@ -1,0 +1,75 @@
+{
+  "question_stem": {
+    "en": "A 13-year-old boy is brought to the emergency department for evaluation of a rash and difficulty walking. A couple of weeks ago, the patient's mother noticed that he was walking with a slight limp. There were also a few red spots on his legs at that time. Over the past couple of days, the rash has progressed, and he now seems to have pain in both legs. The patient has autism and is nonverbal. He is a picky eater and takes no medications. Examination shows tenderness to palpation of his bilateral lower extremities. The patient requires assistance to stand. Reflexes are intact. Skin examination is shown in the exhibit {{exhibit_1}}. Oropharyngeal examination shows poor dentition with swollen, tender gums. Imaging studies reveal subperiosteal hematomas affecting the bilateral tibias. A deficiency of which of the following is the most likely cause of this patient's clinical findings?",
+    "zh": "一名13岁男孩因皮疹和行走困难被带到急诊科就诊。几周前，患者的母亲注意到他走路略有跛行。当时他的腿上也有几个红点。在过去的几天里，皮疹已经进展，而且他现在似乎双腿疼痛。该患者患有自闭症且无法用语言表达。他挑食且不服用任何药物。体格检查显示双下肢触诊有压痛。患者需要帮助才能站立。反射完整。皮肤检查见附图 {{exhibit_1}}。口咽检查显示牙齿状况不佳，牙龈肿胀、触痛。影像学研究显示骨膜下血肿影响双侧胫骨。以下哪种缺乏症最可能是导致该患者临床表现的原因？"
+  },
+  "question": {
+    "en": "A deficiency of which of the following is the most likely cause of this patient's clinical findings?",
+    "zh": "以下哪种缺乏症最可能是导致该患者临床表现的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Vitamin B₂ (riboflavin)",
+      "zh": "维生素B₂（核黄素）"
+    },
+    "B": {
+      "en": "Vitamin B₃ (niacin)",
+      "zh": "维生素B₃（烟酸）"
+    },
+    "C": {
+      "en": "Vitamin B₆ (pyridoxine)",
+      "zh": "维生素B₆（吡哆素）"
+    },
+    "D": {
+      "en": "Vitamin B₇ (biotin)",
+      "zh": "维生素B₇（生物素）"
+    },
+    "E": {
+      "en": "Vitamin B₁₂ (cobalamin)",
+      "zh": "维生素B₁₂（钴胺素）"
+    },
+    "F": {
+      "en": "Vitamin C (ascorbic acid)",
+      "zh": "维生素C（抗坏血酸）"
+    },
+    "G": {
+      "en": "Vitamin D",
+      "zh": "维生素D"
+    },
+    "H": {
+      "en": "Vitamin K",
+      "zh": "维生素K"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "This patient with perifollicular hemorrhages, gingivitis, and subperiosteal hematomas likely has VITAMIN C deficiency (scurvy). This condition is rare in resource-rich countries but can occur in patients who are malnourished; children with autism, as in this case, are at increased risk due to a higher likelihood of self-restrictive diets that lack vitamin C-rich foods (eg, vegetables, citrus fruits).\n\nVitamin C is a cofactor for the hydroxylation of proline and lysine during collagen synthesis. Hydroxyproline and hydroxylysine are essential for the spontaneous cross-linking of collagen molecules. Vitamin C deficiency impairs collagen cross-linking, compromising tensile strength, particularly in the skin and vascular walls. Increased VASCULAR WALL FRAGILITY leads to:\n\n*   Perifollicular hemorrhages\n*   Petechiae/ecchymoses\n*   Periodontal disease (gingival erythema/edema/bleeding)\n*   Intramuscular or subperiosteal hemorrhages, especially in the lower extremities due to increased hydrostatic pressure. This results in pain and difficulty with ambulation, which may be the presenting symptoms in children.\n\nOther features associated with defective collagen production in vitamin C deficiency include poor wound healing, follicular hyperkeratosis, and corkscrew hairs.\n\n(Choice A) Vitamin B₂ (riboflavin) deficiency is characterized by stomatitis, cheilosis, and glossitis but not perifollicular/subperiosteal hemorrhage.\n\n(Choice B) Vitamin B₃ (niacin) deficiency, or pellagra, is characterized by dermatitis, dementia, and diarrhea. Bleeding symptoms are not seen.\n\n(Choices C, E, and G) Vitamin B₆ (pyridoxine) and B₁₂ (cobalamin) deficiencies may cause peripheral neuropathy that leads to difficulty walking. Similarly, vitamin D deficiency can cause difficulty walking but due to osteomalacia and bone pain. None of these conditions are associated with the subperiosteal and perifollicular hemorrhages seen in this patient.\n\n(Choice D) Vitamin B₇ (biotin) deficiency may cause difficulty walking that would be due to a neurologic deficit (eg, ataxia, paresthesias), not subperiosteal hematomas. Moreover, other typical findings include perioral dermatitis, conjunctivitis, and alopecia, none of which are seen in this patient.\n\n(Choice H) Vitamin K deficiency leads to impaired synthesis of coagulation factors, most commonly causing easy bruising and mucosal bleeding. In contrast to this case, gingivitis (swollen, tender gums) would not be seen. Moreover, the perifollicular hemorrhages seen in this patient are more specific for scurvy because they represent capillary fragility, not impaired coagulation.\n\nEducational objective:\nVitamin C is a cofactor for the hydroxylation of proline and lysine during collagen synthesis, which is essential for maximal tensile strength. Deficiency (scurvy) is characterized by periodontal disease, impaired wound healing, vascular wall fragility (eg, perifollicular, subperiosteal hemorrhage), follicular hyperkeratosis, and corkscrew hairs. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "该患者出现毛囊周围出血、牙龈炎和骨膜下血肿，可能患有维生素C缺乏症（坏血病）。这种情况在资源丰富的国家中很少见，但可能发生在营养不良的患者中；如本例，患有自闭症的儿童由于更可能进行限制性饮食，缺乏富含维生素C的食物（如蔬菜、柑橘类水果），因此风险增加。\n\n维生素C是胶原蛋白合成过程中脯氨酸和赖氨酸羟基化的辅助因子。羟脯氨酸和羟赖氨酸对于胶原蛋白分子的自发交联至关重要。维生素C缺乏会损害胶原蛋白交联，从而损害拉伸强度，尤其是在皮肤和血管壁中。血管壁脆性增加导致：\n\n*   毛囊周围出血\n*   瘀点/瘀斑\n*   牙周病（牙龈红斑/水肿/出血）\n*   肌内或骨膜下出血，尤其是在下肢，这是由于静水压力增加所致。这会导致疼痛和行走困难，这可能是儿童的最初症状。\n\n维生素C缺乏症中与胶原蛋白生成缺陷相关的其他特征包括伤口愈合不良、毛囊角化过度和螺旋状毛发。\n\n（选项 A）维生素B₂（核黄素）缺乏症的特征是口炎、唇炎和舌炎，但没有毛囊周围/骨膜下出血。\n\n（选项 B）维生素B₃（烟酸）缺乏症或糙皮病的特征是皮炎、痴呆和腹泻。没有出血症状。\n\n（选项 C、E 和 G）维生素B₆（吡哆素）和B₁₂（钴胺素）缺乏症可引起周围神经病变，导致行走困难。同样，维生素D缺乏症可导致行走困难，但这是由于骨软化症和骨痛。这些情况均与该患者出现的骨膜下和毛囊周围出血无关。\n\n（选项 D）维生素B₇（生物素）缺乏症可导致行走困难，这应归因于神经功能缺损（例如，共济失调、感觉异常），而不是骨膜下血肿。此外，其他典型发现包括口周皮炎、结膜炎和脱发，但该患者均未出现。\n\n（选项 H）维生素K缺乏症会导致凝血因子合成受损，最常见的是容易出现瘀伤和黏膜出血。与本例相反，不会出现牙龈炎（牙龈肿胀、触痛）。此外，该患者出现的毛囊周围出血对坏血病更具特异性，因为它们代表毛细血管脆性，而不是凝血受损。\n\n教育目标：\n维生素C是胶原蛋白合成过程中脯氨酸和赖氨酸羟基化的辅助因子，这对于获得最大的拉伸强度至关重要。缺乏症（坏血病）的特征是牙周病、伤口愈合不良、血管壁脆性（例如，毛囊周围出血、骨膜下出血）、毛囊角化过度和螺旋状毛发。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of vitamin deficiencies, specifically vitamin C (ascorbic acid) deficiency, and its clinical manifestations such as perifollicular hemorrhages, gingivitis, and subperiosteal hematomas. It also requires differentiating scurvy from other vitamin deficiencies based on clinical presentation.\n\nTo solve this question, recognize the key findings of perifollicular hemorrhages, gingivitis, and subperiosteal hematomas. Recall that these findings are characteristic of scurvy (vitamin C deficiency) due to impaired collagen synthesis and vascular fragility.",
+    "zh": "本题考察对维生素缺乏症的了解，特别是维生素C（抗坏血酸）缺乏症及其临床表现，例如毛囊周围出血、牙龈炎和骨膜下血肿。它还需要根据临床表现区分坏血病与其他维生素缺乏症。\n\n要解决这个问题，需要识别毛囊周围出血、牙龈炎和骨膜下血肿的关键发现。回想一下，这些发现是坏血病（维生素C缺乏症）的特征，这是由于胶原蛋白合成受损和血管脆性所致。"
+  },
+  "tags": "Vitamin C deficiency; Scurvy; Perifollicular hemorrhage; Gingivitis; Subperiosteal hematoma; Collagen synthesis; Nutritional deficiency; Pediatrics; Autism",
+  "category": "GIT",
+  "question_id": "1061",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\1061",
+  "extracted_at": "2025-11-05T14:21:46.366445",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:49:43.845262",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

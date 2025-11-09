@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "Rats exposed to high concentrations of carbon tetrachloride suffer rapid and extensive liver damage. Light microscopic examination of affected liver specimens shows fatty change and hepatocyte necrosis. These changes are the result of:",
+    "zh": "暴露于高浓度四氯化碳的大鼠遭受快速而广泛的肝损伤。受影响的肝脏标本的光学显微镜检查显示脂肪变性和肝细胞坏死。这些变化的原因是："
+  },
+  "question": {
+    "en": "",
+    "zh": ""
+  },
+  "options": {
+    "A": {
+      "en": "Hypoperfusion",
+      "zh": "灌注不足"
+    },
+    "B": {
+      "en": "Hypoxia",
+      "zh": "缺氧"
+    },
+    "C": {
+      "en": "Abnormal signal transduction",
+      "zh": "异常信号转导"
+    },
+    "D": {
+      "en": "Free radical injury",
+      "zh": "自由基损伤"
+    },
+    "E": {
+      "en": "Mitochondrial dysfunction",
+      "zh": "线粒体功能障碍"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Carbon tetrachloride (CCl₄) causes free radical injury. Like many other toxic substances, CCl₄ is oxidized by the P450 oxidase system in the liver. The result is the formation of the free radical CCl₃, which reacts with structural lipids of cell membranes. The result is lipid degradation and hydrogen peroxide (H₂O₂) formation. This process is called LIPID PEROXIDATION. The peroxides go on to form new radicals, continuing the vicious circle of lipid degradation. Carbon tetrachloride cell injury develops rapidly and leads to swelling of the endoplasmic reticulum, destruction of mitochondria, and increased permeability of cell membranes. These processes culminate in hepatocyte necrosis.\n\n(Choices A and B) Hypoperfusion and hypoxia lead to tissue ischemia and necrosis. Carbon tetrachloride does not affect tissue oxygenation.\n\n(Choice C) Abnormal signal transduction is a mechanism of oncogenesis, as occurs with mutations of the Ras proto-oncogene. This mutation increases cell sensitivity to mitogenic influences.\n\n(Choice E) Mitochondrial dysfunction occurs in CCl₄ intoxication as a result of free radical injury.\n\nEducational Objective:\nThe P450 microsomal oxidase system plays an important role in detoxification. In carbon tetrachloride poisoning, however, it produces free radicals that start a vicious cycle of hepatic injury.",
+    "zh": "四氯化碳 (CCl₄) 引起自由基损伤。 像许多其他有毒物质一样，CCl₄ 在肝脏中被 P450 氧化酶系统氧化。 结果是形成自由基 CCl₃，它与细胞膜的结构脂质发生反应。 结果是脂质降解和过氧化氢 (H₂O₂) 的形成。 这个过程称为脂质过氧化。 过氧化物继续形成新的自由基，持续脂质降解的恶性循环。 四氯化碳引起的细胞损伤发展迅速，导致内质网肿胀、线粒体破坏和细胞膜通透性增加。 这些过程最终导致肝细胞坏死。\n\n（选项 A 和 B）灌注不足和缺氧导致组织缺血和坏死。 四氯化碳不影响组织氧合。\n\n（选项 C）异常信号转导是肿瘤发生的一种机制，如 Ras 原癌基因的突变所发生的那样。 这种突变增加了细胞对促有丝分裂影响的敏感性。\n\n（选项 E）线粒体功能障碍发生在 CCl₄ 中毒中，这是自由基损伤的结果。\n\n教育目标：\nP450 微粒体氧化酶系统在解毒中起重要作用。 然而，在四氯化碳中毒中，它会产生自由基，从而引发肝损伤的恶性循环。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of carbon tetrachloride-induced liver damage, specifically the role of free radicals and lipid peroxidation in hepatocyte necrosis.\n\nTo solve this question, understand the metabolism of carbon tetrachloride by the P450 system, the formation of free radicals, and the subsequent lipid peroxidation leading to cellular damage.",
+    "zh": "这个问题测试了对四氯化碳引起的肝损伤机制的了解，特别是自由基和脂质过氧化在肝细胞坏死中的作用。\n\n要解决这个问题，需要了解 P450 系统对四氯化碳的代谢、自由基的形成以及随后的脂质过氧化，从而导致细胞损伤。"
+  },
+  "tags": "Carbon tetrachloride; Liver damage; Free radical injury; Lipid peroxidation; Hepatocyte necrosis; P450 oxidase system; Toxicology; Liver failure",
+  "category": "GIT",
+  "question_id": "314",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\314",
+  "extracted_at": "2025-11-05T14:32:54.864642",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:56:03.656949",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

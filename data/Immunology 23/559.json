@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "On flow cytometric analysis of a sample of fetal thymus, a certain population of cells is identified that is positive for both CD4 and CD8 cell surface antigens. These cells are best characterized as which of the following cells?",
+    "zh": "在胎儿胸腺样本的流式细胞术分析中，鉴定出一群对CD4和CD8细胞表面抗原均呈阳性的细胞。这些细胞最好被描述为以下哪种细胞？"
+  },
+  "question": {
+    "en": "These cells are best characterized as which of the following cells?",
+    "zh": "这些细胞最好被描述为以下哪种细胞？"
+  },
+  "options": {
+    "A": {
+      "en": "Immature cortical T lymphocytes",
+      "zh": "未成熟皮质T淋巴细胞"
+    },
+    "B": {
+      "en": "Mature cytotoxic T lymphocytes",
+      "zh": "成熟细胞毒性T淋巴细胞"
+    },
+    "C": {
+      "en": "Mature helper T lymphocytes",
+      "zh": "成熟辅助T淋巴细胞"
+    },
+    "D": {
+      "en": "Antigen presenting cells",
+      "zh": "抗原呈递细胞"
+    },
+    "E": {
+      "en": "Natural killer (NK) cells",
+      "zh": "自然杀伤（NK）细胞"
+    },
+    "F": {
+      "en": "Thymic epithelial cells",
+      "zh": "胸腺上皮细胞"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "T-lymphocytes, or thymocytes, are produced in the bone marrow and undergo maturation in the thymus during the first trimester of gestation. In the thymus the processes of T-cell receptor (TCR) gene rearrangement, positive selection, negative selection and expression of extracellular membrane markers and co-stimulatory molecules occur. Pro-T cells arrive at the thymus as “double negative” cells - cells that lack both CD4 and CD8 antigens. Next, the process of TCR gene rearrangement begins first with rearrangement of the β chain genes. Synthesis of a productive rearrangement of the β chain of the TCR leads to stimulation of production of BOTH CD4 and CD8 antigens with simultaneous expression of BOTH CD4 and CD8. These cells are referred to as “double positive” T cells or immature T-lymphocytes (Choice A). Subsequently, the process of rearrangement of the α chain of the TCR occurs followed by positive selection in the thymic cortex and negative selection in the thymic medulla. Once these processes are complete, the final step in maturation of the T-lymphocytes is loss of either the CD4 or the CD8 antigen so that the mature thymocytes only express one or the other of these antigens.\n\n(Choice B) Mature cytotoxic T lymphocytes (CTLs) are also referred to as CD8+ T-lymphocytes; these cells do not express the CD4 antigen on their surfaces. These cells recognize and kill altered self cells by recognizing foreign antigen presented by these cells on MHC Class I molecules on the cell surface.\n\n(Choice C) Mature helper T lymphocytes are also referred to as CD4+ T-lymphocytes; these cells do not express the CD8 antigen on their surfaces.\n\n(Choice D) Antigen presenting cells include dendritic cells, macrophages and B-lymphocytes. Dendritic cells are professional antigen presenting cells. They take up antigen by endocytosis, constitutively express MHC Class II and the co-stimulatory B7 molecule, and are able to activate all forms of T cells (naïve, effector and memory). Macrophages are phagocytes that only inducably express MHC II and B7 and can only activate effector and memory T cells, not naïve T cells. B-lymphocytes take up antigen by receptor-mediated (membrane-bound antibody) endocytosis and constitutively express MHC II. These cells are able to stimulate all forms of T-lymphocytes.\n\n(Choice E) Natural killer (NK) cells are part of the innate immune system and function in a fashion very similar to CD8+ CTLs though they express neither CD8 nor CD4 on their cell surfaces.\n\n(Choice F) Thymic epithelial cells play a role in positive selection of immature thymocytes in the thymic cortex. These cells express MHC antigens on their cell surfaces that interact with the TCR on the immature thymocytes. Thymocytes able to bind MHC receive a protective signal and do not undergo apoptosis, while thymocytes unable to bind MHC will be killed. This is how self-MHC restriction is generated in the T-lymphocyte population.\n\nEducational Objective:\nImmature T-lymphocytes express both the CD4 and CD8 cell surface antigens in addition to a complete TCR or a pro-TCR. These lymphocytes exist in the thymic cortex where they undergo positive selection and in the thymic medulla where they undergo negative selection.",
+    "zh": "T淋巴细胞，或称胸腺细胞，在骨髓中产生，并在妊娠头三个月期间于胸腺中进行成熟。在胸腺中，会发生T细胞受体（TCR）基因重排、阳性选择、阴性选择以及细胞外膜标志物和共刺激分子的表达。前T细胞作为“双阴性”细胞到达胸腺——即缺乏CD4和CD8抗原的细胞。接下来，TCR基因重排过程首先从β链基因的重排开始。产生TCR β链的有效重排会导致BOTH CD4和CD8抗原的产生，同时表达BOTH CD4和CD8。这些细胞被称为“双阳性”T细胞或未成熟的T淋巴细胞（选项A）。随后，发生TCR α链的重排过程，然后是胸腺皮质中的阳性选择和胸腺髓质中的阴性选择。一旦这些过程完成，T淋巴细胞成熟的最后一步是CD4或CD8抗原的缺失，这样成熟的胸腺细胞就只表达其中一种抗原。\n\n（选项B）成熟的细胞毒性T淋巴细胞（CTL）也被称为CD8+ T淋巴细胞；这些细胞在其表面不表达CD4抗原。这些细胞通过识别这些细胞在细胞表面MHC I类分子上呈递的异源抗原，来识别和杀死改变的自身细胞。\n\n（选项C）成熟的辅助T淋巴细胞也被称为CD4+ T淋巴细胞；这些细胞在其表面不表达CD8抗原。\n\n（选项D）抗原呈递细胞包括树突状细胞、巨噬细胞和B淋巴细胞。树突状细胞是专业的抗原呈递细胞。它们通过内吞作用摄取抗原，组成性表达MHC II类分子和共刺激B7分子，并且能够激活所有形式的T细胞（幼稚型、效应型和记忆型）。巨噬细胞是吞噬细胞，仅诱导表达MHC II和B7，并且只能激活效应T细胞和记忆T细胞，而不能激活幼稚T细胞。B淋巴细胞通过受体介导（膜结合抗体）的内吞作用摄取抗原，并组成性表达MHC II。这些细胞能够刺激所有形式的T淋巴细胞。\n\n（选项E）自然杀伤（NK）细胞是先天免疫系统的一部分，其功能与CD8+ CTL非常相似，尽管它们在其细胞表面既不表达CD8也不表达CD4。\n\n（选项F）胸腺上皮细胞在胸腺皮质中未成熟胸腺细胞的阳性选择中起作用。这些细胞在其细胞表面表达MHC抗原，这些抗原与未成熟胸腺细胞上的TCR相互作用。能够结合MHC的胸腺细胞会接收到保护信号，并且不会发生细胞凋亡，而无法结合MHC的胸腺细胞将被杀死。这就是在T淋巴细胞群体中产生自身MHC限制的方式。\n\n教育目标：\n未成熟T淋巴细胞除了完整的TCR或前TCR外，还表达CD4和CD8细胞表面抗原。这些淋巴细胞存在于胸腺皮质中，在那里它们进行阳性选择，并在胸腺髓质中进行阴性选择。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of T-lymphocyte development and the expression of CD4 and CD8 antigens during thymic maturation. Specifically, it focuses on the \"double positive\" stage where immature T cells express both CD4 and CD8. \n\nTo solve this question, recall the stages of T-cell development in the thymus. Remember that immature T cells initially express both CD4 and CD8 before differentiating into either helper T cells (CD4+) or cytotoxic T cells (CD8+).",
+    "zh": "此问题测试关于T淋巴细胞发育以及胸腺成熟过程中CD4和CD8抗原表达的知识。具体来说，它侧重于未成熟T细胞表达CD4和CD8的“双阳性”阶段。\n\n要解决这个问题，请回忆胸腺中T细胞发育的各个阶段。记住未成熟T细胞最初表达CD4和CD8，然后分化为辅助T细胞（CD4+）或细胞毒性T细胞（CD8+）。"
+  },
+  "tags": "T-lymphocyte development; Thymic maturation; CD4; CD8; Double positive T cells; Immunology; Cell mediated immunity",
+  "category": "Immunology",
+  "question_id": "559",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\559",
+  "extracted_at": "2025-11-05T14:45:39.349834",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:02:54.595286",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

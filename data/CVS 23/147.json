@@ -1,0 +1,72 @@
+{
+  "question_stem": {
+    "en": "A 76-year-old woman is brought to the emergency department by her son due to lethargy and confusion over the past 2 days. The patient has persistent atrial fibrillation and congestive heart failure and is on multiple medications. Recently, she has had nausea and decreased appetite. Today, she had 3 episodes of vomiting. The patient also reports vision difficulties. Temperature is 36.7 C (98 F) and blood pressure is 133/80 mm Hg. Laboratory results are as follows:\n\nSodium 140 mEq/L\nPotassium 5.7 mEq/L\nCalcium 9.3 mg/dL\nCreatinine 1.2 mg/dL\nGlucose 85 mg/dL\n\nECG shows junctional escape rhythm at a rate of 48/min with occasional ventricular premature beats. Increased blood level of which of the following medications is most likely responsible for her symptoms? {{exhibit_1}}",
+    "zh": "一位76岁女性由她的儿子送至急诊科，原因是过去2天出现的嗜睡和意识模糊。患者持续性房颤和充血性心力衰竭，并正在服用多种药物。近期，她出现了恶心和食欲下降。今天，她有3次呕吐发作。患者还报告视力困难。体温36.7摄氏度（98华氏度），血压133/80毫米汞柱。实验室检查结果如下：\n\n钠140 mEq/L\n钾5.7 mEq/L\n钙9.3 mg/dL\n肌酐1.2 mg/dL\n葡萄糖85 mg/dL\n\n心电图显示交界性逸搏心律，心率48次/分，偶见室性早搏。以下哪种药物的血药浓度升高最有可能导致她的症状？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Increased blood level of which of the following medications is most likely responsible for her symptoms?",
+    "zh": "以下哪种药物的血药浓度升高最有可能导致她的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Amiodarone",
+      "zh": "胺碘酮"
+    },
+    "B": {
+      "en": "Aspirin",
+      "zh": "阿司匹林"
+    },
+    "C": {
+      "en": "Digoxin",
+      "zh": "地高辛"
+    },
+    "D": {
+      "en": "Diltiazem",
+      "zh": "地尔硫卓"
+    },
+    "E": {
+      "en": "Furosemide",
+      "zh": "呋塞米"
+    },
+    "F": {
+      "en": "Metoprolol",
+      "zh": "美托洛尔"
+    },
+    "G": {
+      "en": "Spironolactone",
+      "zh": "螺内酯"
+    },
+    "H": {
+      "en": "Valsartan",
+      "zh": "缬沙坦"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with atrial fibrillation and congestive heart failure has signs and symptoms of digoxin toxicity. Although calcium channel blockers and beta blockers are the preferred treatments for patients with atrial fibrillation with rapid ventricular response, digoxin is a common second-line treatment that is particularly useful in patients with underlying systolic cardiac dysfunction. Its major effects are:\n\n1.  Increased vagal tone, causing slowing of conduction through the atrioventricular (AV) node (rate-control effect)\n2.  Na-K-ATPase inhibition, causing increased intracellular sodium and calcium (increases cardiac contractility)\n\nDigoxin has a narrow therapeutic index, making toxicity relatively common. Symptoms of digoxin intoxication are fairly nonspecific and include nausea, abdominal pain, fatigue, dizziness, confusion, blurred vision, and abnormal color perception. Digoxin toxicity can cause a wide range of cardiac arrhythmias, including bradycardia and junctional escape beats due to increased AV nodal block. Hypokalemia can precipitate toxicity by increasing digoxin binding to Na-K-ATPase. However, elevated potassium is a sign of digoxin toxicity as inhibition of Na-K-ATPase pumps increases extracellular potassium.\n\n(Choice A) Amiodarone can cause pulmonary toxicity, thyroid dysfunction, cardiac arrhythmias, elevated liver enzymes, and visual disturbances. However, it does not cause hyperkalemia.\n\n(Choice B) Acute aspirin overdose presents with vertigo, tinnitus, vomiting, and diarrhea, whereas severe intoxication can lead to coma, hyperpyrexia, pulmonary edema, and death.\n\n(Choices D and F) Beta blocker and/or calcium channel blocker overdose usually cause profound bradycardia and hypotension (absent in this patient). In addition, nausea and vomiting are more common in digoxin overdose than in beta blocker overdose, which typically causes bronchospasm and hypoglycemia.\n\n(Choice E) Furosemide overdose causes volume depletion, along with electrolyte abnormalities such as hypokalemia and hypomagnesemia.\n\n(Choice G) Excess spironolactone can cause hyperkalemia, gynecomastia, impotence, and decreased libido.\n\n(Choice H) Valsartan is an angiotensin II receptor blocker. Overdose usually causes hypotension, renal failure, and hyperkalemia.\n\nEducational objective:\nDigoxin toxicity typically presents with cardiac arrhythmias and nonspecific gastrointestinal (nausea, vomiting), neurological (confusion, weakness), and visual symptoms. Elevated potassium is another sign of digoxin toxicity and is caused by inhibition of Na-K-ATPase pumps.",
+    "zh": "这位患有房颤和充血性心力衰竭的患者有地高辛毒性的体征和症状。尽管钙通道阻滞剂和β受体阻滞剂是快速室性反应的房颤患者的首选治疗方法，但地高辛是一种常见的二线治疗药物，特别适用于患有潜在收缩期心脏功能障碍的患者。它的主要作用是：\n\n1. 增加迷走神经张力，导致通过房室（AV）结的传导减慢（心率控制作用）\n2. Na-K-ATP酶抑制，导致细胞内钠和钙增加（增加心脏收缩力）\n\n地高辛的治疗指数狭窄，因此毒性相对常见。地高辛中毒的症状是非特异性的，包括恶心、腹痛、疲劳、头晕、意识模糊、视力模糊和异常的颜色感知。地高辛毒性可引起多种心律失常，包括由于AV结阻滞增加引起的心动过缓和交界性逸搏。低钾血症可通过增加地高辛与Na-K-ATP酶的结合来诱发毒性。然而，钾升高是地高辛毒性的一个征兆，因为Na-K-ATP酶泵的抑制会增加细胞外钾。\n\n（选项A）胺碘酮可引起肺毒性、甲状腺功能障碍、心律失常、肝酶升高和视力障碍。然而，它不会引起高钾血症。\n\n（选项B）阿司匹林急性过量表现为眩晕、耳鸣、呕吐和腹泻，而严重中毒可导致昏迷、高热、肺水肿和死亡。\n\n（选项D和F）β受体阻滞剂和/或钙通道阻滞剂过量通常会导致严重的心动过缓和低血压（在本患者中不存在）。此外，地高辛过量引起的恶心和呕吐比β受体阻滞剂过量更为常见，后者通常引起支气管痉挛和低血糖。\n\n（选项E）呋塞米过量可导致容量耗竭，以及电解质紊乱，如低钾血症和低镁血症。\n\n（选项G）过量的螺内酯可引起高钾血症、男性乳房发育、阳痿和性欲减退。\n\n（选项H）缬沙坦是一种血管紧张素II受体阻滞剂。过量通常会导致低血压、肾衰竭和高钾血症。\n\n教育目标：\n地高辛毒性通常表现为心律失常以及非特异性胃肠道（恶心、呕吐）、神经系统（意识模糊、无力）和视觉症状。钾升高是地高辛毒性的另一个征兆，由Na-K-ATP酶泵的抑制引起。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of digoxin toxicity, its clinical presentation, and the underlying mechanism of action. It also requires differentiating digoxin toxicity from other medication overdoses based on clinical and laboratory findings.\n\nTo solve this question, recognize the signs and symptoms of digoxin toxicity (nausea, vomiting, vision changes, bradycardia, junctional rhythm, hyperkalemia). Consider the patient's history of atrial fibrillation and congestive heart failure, which are common indications for digoxin use.",
+    "zh": "本题考察对地高辛毒性、其临床表现和潜在作用机制的了解。它还需要根据临床和实验室结果区分地高辛毒性与其他药物过量。\n\n要解决这个问题，需要认识到地高辛毒性的体征和症状（恶心、呕吐、视力变化、心动过缓、交界性心律、高钾血症）。考虑患者的房颤和充血性心力衰竭病史，这些都是地高辛使用的常见指征。"
+  },
+  "tags": "Digoxin toxicity; Atrial fibrillation; Congestive heart failure; Hyperkalemia; Junctional rhythm; Cardiology; Pharmacology",
+  "category": "CVS",
+  "question_id": "147",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\147",
+  "extracted_at": "2025-11-05T11:53:46.063916",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:45:38.415630",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

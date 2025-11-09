@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 6-year-old boy whose family recently immigrated to the United States is brought to the office due to sore throat and fever. Examination shows mild tonsillar erythema with exudates. A sample from the exudates is obtained. On microscopic evaluation, there are clumped, gram-positive bacteria with polar granules that stain deeply with aniline dyes. Which of the following best explains the pathogenicity of the organism most likely responsible for this patient's condition?",
+    "zh": "一名6岁男孩，其家人最近移民到美国，因喉咙痛和发烧被带到诊所就诊。检查显示轻度扁桃体发红伴渗出物。从渗出物中取样。在显微镜评估中，存在成簇的革兰氏阳性细菌，其极性颗粒用苯胺染料染色呈深色。以下哪项最能解释最有可能导致该患者病情的病原体的致病性？"
+  },
+  "question": {
+    "en": "Which of the following best explains the pathogenicity of the organism most likely responsible for this patient's condition?",
+    "zh": "以下哪项最能解释最有可能导致该患者病情的病原体的致病性？"
+  },
+  "options": {
+    "A": {
+      "en": "Activation of electrolyte transport",
+      "zh": "电解质转运的激活"
+    },
+    "B": {
+      "en": "Blockade of neurotransmitter release",
+      "zh": "神经递质释放的阻断"
+    },
+    "C": {
+      "en": "Cellular membrane disruption",
+      "zh": "细胞膜破坏"
+    },
+    "D": {
+      "en": "Impairment of protein synthesis",
+      "zh": "蛋白质合成受损"
+    },
+    "E": {
+      "en": "Widespread T cell activation",
+      "zh": "广泛的T细胞活化"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Diphtheria exotoxin inhibits host cell protein synthesis by catalyzing the ADP-ribosylation of host cell elongation factor-2.\n\nCorynebacterium diphtheriae are nonmotile, unencapsulated, gram-positive rods. On microscopic examination, they are often found in clumps (classically said to resemble Chinese characters) or joined in V- or Y-shaped chains. Their cytoplasm contains metachromatic granules that stain with aniline dyes (eg, methylene blue).\n\nC diphtheriae produce classic 2-subunit AB exotoxin. The B (binding) subunit binds specifically to the heparin-binding epidermal growth factor receptor on cardiac and neural cells, which explains the toxin's affinity for heart and brain tissue. The B subunit induces endocytosis of the toxin, and the subsequently released A (active) subunit inhibits host cell protein synthesis by catalyzing the ADP-ribosylation of protein elongation factor 2 (EF-2). EF-2 is necessary for tRNA to insert new amino acids into the growing protein chain during translation. Therefore, the toxin causes cell death by inhibiting cell protein synthesis.\n\n(Choice A) Certain virulent enteric bacteria (eg, Campylobacter jejuni, Vibrio cholerae) release AB exotoxins that activate electrolyte transport. These toxins have 5 B subunits responsible for cell binding and toxin endocytosis and 1 A subunit that stimulates a G protein to increase intracellular cAMP concentrations. As a result, active efflux of sodium and chloride ions occurs, and the subsequent cell water loss into the gut lumen leads to watery diarrhea and dehydration.\n\n(Choice B) Botulinum toxin is a neurotoxin that blocks exocytosis of acetylcholine-containing presynaptic vesicles from peripheral nerve terminals, causing cranial and peripheral nerve palsies, muscle weakness, and respiratory paralysis. Tetanus toxin inhibits the release of the inhibitory neurotransmitters gamma-aminobutyric acid and glycine. Classic manifestations of tetanus include muscle spasms and autonomic hyperactivity.\n\n(Choice C) Clostridium perfringens releases a cytolytic toxin (alpha-toxin, or phospholipase C) that degrades cell membrane phospholipids, causing cell destruction.\n\n(Choice E) Superantigens (eg, staphylococcal and streptococcal toxic shock toxins) bind nonspecifically to T cell receptors and major histocompatibility complex class II molecules on antigen-presenting cells, leading to widespread T cell stimulation and inflammation. However, they are classically implicated in toxic shock syndrome related to tampon use or nasal packing, not upper respiratory infections.",
+    "zh": "白喉外毒素通过催化宿主细胞延伸因子-2的ADP-核糖基化来抑制宿主细胞的蛋白质合成。\n\n白喉棒状杆菌是无动力的、无包膜的革兰氏阳性杆菌。在显微镜检查中，它们通常成簇出现（经典上说类似于汉字）或连接成V形或Y形链。它们的细胞质包含异染性颗粒，用苯胺染料（例如，亚甲基蓝）染色。\n\nC. diphtheriae 产生经典的2亚基AB外毒素。B（结合）亚基特异性地与心脏和神经细胞上的肝素结合表皮生长因子受体结合，这解释了毒素对心脏和脑组织的亲和力。B亚基诱导毒素的内吞作用，随后释放的A（活性）亚基通过催化蛋白质延伸因子2 (EF-2)的ADP-核糖基化来抑制宿主细胞的蛋白质合成。 EF-2对于tRNA在翻译过程中将新的氨基酸插入到不断增长的蛋白质链中是必要的。因此，毒素通过抑制细胞蛋白质合成导致细胞死亡。\n\n（选项A）某些有毒肠道细菌（例如，空肠弯曲菌、霍乱弧菌）释放AB外毒素，激活电解质转运。这些毒素具有5个负责细胞结合和毒素内吞的B亚基和1个刺激G蛋白以增加细胞内cAMP浓度的A亚基。因此，发生钠离子和氯离子的主动外流，随后细胞水进入肠腔导致水样腹泻和脱水。\n\n（选项B）肉毒杆菌毒素是一种神经毒素，它阻断乙酰胆碱含量的突触前囊泡从周围神经末梢的胞吐作用，引起颅神经和周围神经麻痹、肌肉无力和呼吸麻痹。破伤风毒素抑制抑制性神经递质γ-氨基丁酸和甘氨酸的释放。破伤风的典型表现包括肌肉痉挛和自主神经系统活动亢进。\n\n（选项C）产气荚膜梭菌释放一种细胞溶解毒素（α-毒素，或磷脂酶C），降解细胞膜磷脂，导致细胞破坏。\n\n（选项E）超抗原（例如，葡萄球菌和链球菌毒性休克毒素）非特异性地与抗原呈递细胞上的T细胞受体和主要组织相容性复合体II类分子结合，导致广泛的T细胞刺激和炎症。然而，它们通常与与使用卫生棉条或鼻腔填塞物相关的毒性休克综合征有关，而不是上呼吸道感染。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Corynebacterium diphtheriae pathogenesis, specifically the mechanism of action of diphtheria toxin. The toxin inhibits protein synthesis by ADP-ribosylation of elongation factor 2 (EF-2). \n\nTo solve this question, recognize the clinical presentation of diphtheria (sore throat, fever, tonsillar exudates) and the microscopic findings (gram-positive bacteria with polar granules staining with aniline dyes). Then, recall the mechanism of action of diphtheria toxin.",
+    "zh": "这道题测试对白喉棒状杆菌发病机制的了解，特别是白喉毒素的作用机制。毒素通过延伸因子2（EF-2）的ADP-核糖基化来抑制蛋白质合成。\n\n要解决这个问题，要认识到白喉的临床表现（喉咙痛、发烧、扁桃体渗出物）和显微镜检查结果（革兰氏阳性细菌，极性颗粒用苯胺染料染色）。然后，回忆白喉毒素的作用机制。"
+  },
+  "tags": "Diphtheria; Corynebacterium diphtheriae; Protein synthesis inhibition; Exotoxin; ADP-ribosylation; Infectious Diseases; Microbiology",
+  "category": "Micro",
+  "question_id": "1093",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1093",
+  "extracted_at": "2025-11-05T14:49:46.086040",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:04:49.449889",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

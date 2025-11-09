@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "6-cm, round lesion with homogeneous, intense contrast enhancement compressing the spinal cord at the T12 level; the lesion is extramedullary but is surrounded by cerebrospinal fluid, as shown in the exhibit {{exhibit_1}}. Which of the following is the most likely cell of origin of the lesion?",
+    "zh": "一个6厘米的圆形病灶，T12水平脊髓受压，均匀、强烈的对比增强；该病灶为髓外，但被脑脊液包绕，如{{exhibit_1}}所示。以下哪项最可能是该病灶的起源细胞？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cell of origin of the lesion?",
+    "zh": "以下哪项最可能是该病灶的起源细胞？"
+  },
+  "options": {
+    "A": {
+      "en": "Ependymal cells",
+      "zh": "室管膜细胞"
+    },
+    "B": {
+      "en": "Meningothelial cells",
+      "zh": "脑膜细胞"
+    },
+    "C": {
+      "en": "Metastatic tumor cells",
+      "zh": "转移瘤细胞"
+    },
+    "D": {
+      "en": "Osteoblasts",
+      "zh": "成骨细胞"
+    },
+    "E": {
+      "en": "Vascular endothelial cells",
+      "zh": "血管内皮细胞"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has spinal cord compression due to a contrast-enhancing tumor located in the intradural (surrounded by cerebrospinal fluid) extramedullary space. This is most likely a meningioma, a slow-growing, benign tumor that arises from the meningothelial cells of the arachnoid.\n\nSpinal cord tumors can often be differentiated by their specific location:\n\n*   Intramedullary space: space inside the spinal cord itself. Examples include primary spinal tumors (eg, ependymoma, astrocytoma).\n*   Intradural extramedullary space: space within the meninges (ie, inside the dura but outside the spinal cord). Examples include nerve sheath tumors (eg, schwannoma, neurofibroma) and tumors that originate from the meninges (eg, meningiomas).\n*   Extradural space: everything outside the dura, which includes the epidural space and the osseous vertebral body. Examples include vertebral metastases.\n\n(Choice A) An ependymoma in the spinal cord arises from the ependymal lining of the central canal and, therefore, would be located in the intramedullary space.\n\n(Choice C) Neoplastic spinal cord compression due to metastatic tumor cells most commonly results from local extension of neoplastic cells from the vertebral body into the epidural space. Therefore, metastases are located in the extradural space.\n\n(Choice D) Osteoblasts are located in the periosteum and endosteum of the bone of the vertebral bodies. Tumors arising from osteoblasts would be extradural.\n\n(Choice E) Hemangiomas are vascular malformations formed by the proliferation of vascular endothelial cells. These most often occur in the vertebral body (extradural space).\n\nEducational objective:\nMeningiomas arise from the meningothelial cells of the arachnoid. Therefore, when they form in the spinal cord, they are located within the meninges in the intradural extramedullary space. {{exhibit_2}}",
+    "zh": "该患者因对比增强的肿瘤导致脊髓受压，该肿瘤位于硬膜内（被脑脊液包绕）髓外间隙。这很可能是脑膜瘤，一种缓慢生长的良性肿瘤，起源于蛛网膜的脑膜细胞。\n\n脊髓肿瘤通常可以根据其具体位置进行区分：\n\n*   髓内间隙：脊髓内部的空间。例如，原发性脊髓肿瘤（如，室管膜瘤、星形细胞瘤）。\n*   硬膜内髓外间隙：脑膜内的空间（即，硬膜内但脊髓外）。例如，神经鞘肿瘤（如，神经鞘瘤、神经纤维瘤）和起源于脑膜的肿瘤（如，脑膜瘤）。\n*   硬膜外间隙：硬膜外的所有结构，包括硬膜外间隙和骨性椎体。例如，椎体转移瘤。\n\n（选项A）脊髓内的室管膜瘤起源于中央管的室管膜内衬，因此位于髓内间隙。\n\n（选项C）由于转移瘤细胞导致的肿瘤性脊髓压迫最常见的原因是肿瘤细胞从椎体局部延伸到硬膜外间隙。因此，转移瘤位于硬膜外间隙。\n\n（选项D）成骨细胞位于椎体骨的骨膜和骨内膜中。起源于成骨细胞的肿瘤将位于硬膜外。\n\n（选项E）血管瘤是由血管内皮细胞增生形成的血管畸形。这些最常发生在椎体（硬膜外间隙）。\n\n教育目标：脑膜瘤起源于蛛网膜的脑膜细胞。因此，当它们在脊髓中形成时，它们位于硬膜内的髓外间隙。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of spinal cord tumors, specifically meningiomas, including their location (intradural extramedullary) and cell of origin (meningothelial cells).\n\nTo solve this question, consider the location of the tumor (extramedullary, surrounded by cerebrospinal fluid) and correlate it with the most likely cell type based on anatomical location. Rule out options that arise from other locations (intramedullary, extradural).",
+    "zh": "本题测试对脊髓肿瘤的知识，特别是脑膜瘤，包括其位置（硬膜内髓外）和起源细胞（脑膜细胞）。\n\n要解决此问题，请考虑肿瘤的位置（髓外，被脑脊液包绕），并将其与基于解剖位置最可能的细胞类型相关联。排除起源于其他位置的选项（髓内、硬膜外）。"
+  },
+  "tags": "Spinal cord tumors; Meningioma; Meningothelial cells; Intradural extramedullary; Neurology; Neurosurgery; MRI",
+  "category": "Neuro",
+  "question_id": "22121",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\22121",
+  "extracted_at": "2025-11-07T16:05:48.651550",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:39:58.249007",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

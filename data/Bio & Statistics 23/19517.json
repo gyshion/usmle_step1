@@ -1,0 +1,54 @@
+{
+  "question_stem": {
+    "en": "The prevalence of a chronic disease that affects mostly older individuals has been constant in a population for the last 15 years. As a result of worsening economic conditions that have no effect on the disease itself, many young healthy individuals emigrate from the population. ",
+    "zh": "一种主要影响老年人的慢性病的患病率在过去15年里在一个 population 中保持不变。由于恶化的经济状况对疾病本身没有影响，许多年轻健康的个体从 population 中移居国外。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely effect of the emigration on the estimate of disease prevalence over the next few years?",
+    "zh": "在接下来的几年里，移居国外对疾病患病率的估计最有可能产生什么影响？"
+  },
+  "options": {
+    "A": {
+      "en": "The prevalence would decrease",
+      "zh": "患病率会下降"
+    },
+    "B": {
+      "en": "The prevalence would increase",
+      "zh": "患病率会上升"
+    },
+    "C": {
+      "en": "The prevalence would remain the same",
+      "zh": "患病率将保持不变"
+    },
+    "D": {
+      "en": "It is not possible to determine the effect on prevalence from the information given",
+      "zh": "无法从给定的信息中确定对患病率的影响"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Prevalence is the actual number of existing cases (old and new) of disease, either at a particular point in time (point prevalence), or during a period of time (period prevalence). These measures are calculated as follows:\n\nPoint prevalence = (existing cases in a population) / (total number of people in the population)\n\nPeriod prevalence = (existing cases in a population in a period) / (total number of people in the population)\n\nEstimates of prevalence of disease (ie, point or period prevalence) in a population are affected by population dynamics:\n\n- The emigration of healthy individuals will increase disease prevalence estimates by decreasing the population size (denominator).\n\n- The immigration of cases will increase disease prevalence estimates by increasing the number of existing cases (numerator).\n\n- The emigration of cases will decrease disease prevalence estimates by decreasing the number of existing cases (numerator).\n\n- The immigration of healthy individuals will decrease prevalence estimates by increasing the population size (denominator).\n\nIn this example, the prevalence of a chronic disease has been constant for the last 15 years; therefore, new cases have been balanced by cures or deaths of prevalent cases. If a large number of healthy individuals emigrate from the population, then the number of cases (numerator) would remain the same, but the population size would decrease (denominator). Therefore, estimates of disease prevalence would increase.\n\nEducational objective:\n\nPrevalence is the actual number of existing cases (old and new) of disease, either at a particular point in time (point prevalence), or during a period of time (period prevalence). Estimates of disease prevalence in a population are affected by population dynamics.",
+    "zh": "患病率是疾病（旧病例和新病例）的实际病例数，可以在特定时间点（现患率）或一段时间内（时点患病率）进行测量。这些测量值的计算方法如下：\n\n现患率 = （population 中的现有病例数）/（population 中的总人数）\n\n时点患病率 = （population 在一段时间内的现有病例数）/（population 中的总人数）\n\n对疾病患病率的估计（即现患率或时点患病率）受人口动态的影响：\n\n- 健康个体的移居国外会通过降低 population 规模（分母）来增加疾病患病率的估计值。\n\n- 病例的移入会通过增加现有病例数（分子）来增加疾病患病率的估计值。\n\n- 病例的移居国外会通过减少现有病例数（分子）来降低疾病患病率的估计值。\n\n- 健康个体的移入会通过增加 population 规模（分母）来降低患病率的估计值。\n\n在本例中，一种慢性病的患病率在过去15年里一直保持不变；因此，新病例被现有病例的治愈或死亡所平衡。如果大量健康个体从 population 中移居国外，那么病例数（分子）将保持不变，但 population 规模会减少（分母）。因此，疾病患病率的估计值会增加。\n\n教育目标：\n\n患病率是疾病（旧病例和新病例）的实际病例数，可以在特定时间点（现患率）或一段时间内（时点患病率）进行测量。population 中疾病患病率的估计受人口动态的影响。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of prevalence and how population dynamics, specifically emigration, affects prevalence estimates. Prevalence is calculated as the number of existing cases divided by the total population size.\n\nTo solve this question, recognize that emigration of healthy individuals decreases the population size (denominator) while the number of existing cases (numerator) remains constant. Therefore, the prevalence estimate will increase.",
+    "zh": "这个问题考察了对患病率的理解以及人口动态（特别是移居国外）如何影响患病率的估计。患病率的计算方法是现有病例数除以总人口数。\n\n要解决这个问题，需要认识到健康个体的移居国外会减少 population 规模（分母），而现有病例数（分子）保持不变。因此，患病率的估计值将会增加。"
+  },
+  "tags": "Prevalence; Epidemiology; Population dynamics; Public health; Biostatistics",
+  "category": "Bio",
+  "question_id": "19517",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19517",
+  "extracted_at": "2025-11-05T11:14:12.048872",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:22:59.374690",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

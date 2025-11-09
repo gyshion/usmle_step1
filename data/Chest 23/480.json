@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "Fourth-year medical students are recruited for a research study assessing their ability to interpret biopsy samples obtained during routine clinical practice. As part of the study, they are given samples of normal respiratory mucosa and asked to identify the cell types present after staining with hematoxylin and eosin. The students observe that the respiratory epithelium changes in composition as the airways continue distally from the trachea to the alveolar ducts.",
+    "zh": "四年级医学生被招募参加一项研究，评估他们解释在常规临床实践中获得的活检样本的能力。作为研究的一部分，他们被提供了正常呼吸粘膜的样本，并被要求在用苏木精和伊红染色后识别存在的细胞类型。学生们观察到，随着气道从气管向远端延伸至肺泡导管，呼吸道上皮的组成发生了变化。"
+  },
+  "question": {
+    "en": "Which of the following features is last to disappear?",
+    "zh": "以下哪种特征是最后消失的？"
+  },
+  "options": {
+    "A": {
+      "en": "Cartilage",
+      "zh": "软骨"
+    },
+    "B": {
+      "en": "Cilia",
+      "zh": "纤毛"
+    },
+    "C": {
+      "en": "Goblet cells",
+      "zh": "杯状细胞"
+    },
+    "D": {
+      "en": "Mucous glands",
+      "zh": "粘液腺"
+    },
+    "E": {
+      "en": "Serous glands",
+      "zh": "浆液腺"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Ciliated mucosal epithelium lines the pulmonary airways from the trachea to the respiratory bronchioles. The airway epithelium gradually changes from pseudostratified ciliated columnar to ciliated simple cuboidal by the level of the terminal bronchioles. Ciliated cells continue to be present through the proximal portions of the respiratory bronchioles, but are not present in the alveolar ducts or in the alveoli themselves. This arrangement is important because cilia function to propel mucus toward the pharynx. The presence of cilia beyond the most distal mucus-producing cells (goblet cells end before the terminal bronchioles) prevents bronchiolar mucus accumulation and airflow obstruction. {{exhibit_1}}\n\n(Choice A) The rings of hyaline cartilage that encircle the trachea are replaced by cartilaginous plates in the bronchi. These rings and plates help keep the larger airways open and end at the termination of the smallest bronchi (they are not found in bronchioles).\n\n(Choice C) Goblet cells are mucus-secreting cells that are present from the trachea down to the larger bronchioles. They are not found in the terminal bronchioles, which are lined by club cells.\n\n(Choices D and E) The submucosal mucous glands and serous glands are found from the trachea to the distal-most bronchi and produce mucinous components that help trap inhaled particles. They are not present within the bronchioles.",
+    "zh": "纤毛柱状上皮覆盖从气管到呼吸性细支气管的肺部气道。气道上皮从假复层纤毛柱状上皮逐渐变为纤毛单层立方上皮，到末端细支气管的水平。纤毛细胞继续存在于呼吸性细支气管的近端部分，但不存在于肺泡导管或肺泡本身。这种排列很重要，因为纤毛的功能是将粘液推向咽部。纤毛的存在超过最远端的产粘液细胞（杯状细胞在末端细支气管之前结束），可防止细支气管粘液积聚和气流阻塞。{{exhibit_1}}\n\n（选项 A）包围气管的透明软骨环在支气管中被软骨板取代。这些环和板有助于保持较大的气道开放，并在最小支气管的末端结束（它们不在细支气管中）。\n\n（选项 C）杯状细胞是产粘液细胞，从气管到较大的细支气管都存在。它们不存在于被Clara细胞覆盖的末端细支气管中。\n\n（选项 D 和 E）粘膜下粘液腺和浆液腺从气管到最远端的支气管都有，并产生有助于捕获吸入颗粒的粘蛋白成分。它们不存在于细支气管内。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the histological changes in the respiratory epithelium as it progresses from the trachea to the alveoli, specifically focusing on the distribution of different cell types. To answer correctly, one must understand the location of cartilage, goblet cells, mucous glands, serous glands, and cilia within the respiratory tract and their relative disappearance points.",
+    "zh": "这个问题考察了呼吸道上皮从气管到肺泡的组织学变化，特别侧重于不同细胞类型的分布。要正确回答，必须了解软骨、杯状细胞、粘液腺、浆液腺和纤毛在呼吸道内的位置及其相对消失点。"
+  },
+  "tags": "Respiratory epithelium; Histology; Cilia; Goblet cells; Mucous glands; Serous glands; Cartilage; Respiratory system",
+  "category": "Chest",
+  "question_id": "480",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\480",
+  "extracted_at": "2025-11-05T11:45:31.646086",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:39:55.265762",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

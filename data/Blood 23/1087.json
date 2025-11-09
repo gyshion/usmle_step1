@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old man comes to the hospital due to sudden onset chest pain and dyspnea. He has a history of glioblastoma multiforme, for which he has been undergoing radiation treatment. His temperature is 36.1 C (97 F), blood pressure is 110/80 mm Hg, pulse is 118/min, and respirations are 26/min. Pulse oximetry shows 90% on room air. A CT pulmonary angiogram demonstrates a left-sided pulmonary embolism. The patient is started on continuous unfractionated heparin infusion. Several hours later, the patient begins to experience severe headache and quickly becomes unconscious. A CT of the head reveals bleeding into the tumor.",
+    "zh": "一名63岁男性因突发性胸痛和呼吸困难就诊。他有胶质母细胞瘤病史，目前正在接受放射治疗。体温36.1°C (97°F)，血压110/80 mmHg，脉搏118次/分，呼吸26次/分。脉搏血氧饱和度显示，在常氧下为90%。CT肺血管造影显示左侧肺栓塞。患者开始静脉持续输注普通肝素。数小时后，患者开始出现严重头痛并迅速失去意识。头部CT显示肿瘤内出血。"
+  },
+  "question": {
+    "en": "After stopping the heparin infusion, administration of which of the following is indicated for immediate anticoagulant reversal?",
+    "zh": "停止肝素输注后，以下哪项适用于立即逆转抗凝作用？"
+  },
+  "options": {
+    "A": {
+      "en": "Fresh frozen plasma",
+      "zh": "新鲜冰冻血浆"
+    },
+    "B": {
+      "en": "Platelets",
+      "zh": "血小板"
+    },
+    "C": {
+      "en": "Protamine",
+      "zh": "鱼精蛋白"
+    },
+    "D": {
+      "en": "Prothrombin complex concentrate",
+      "zh": "凝血酶原复合物浓缩物"
+    },
+    "E": {
+      "en": "Tranexamic acid",
+      "zh": "氨甲环酸"
+    },
+    "F": {
+      "en": "Vitamin K",
+      "zh": "维生素K"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Unfractionated heparin (UFH) and low-molecular weight heparins (LMWHs) are commonly used anticoagulants in the hospital setting. Heparin increases the effect of the naturally occurring anticoagulant antithrombin III (ATIII). Activated partial thromboplastin time (aPTT) is measured to monitor the therapeutic effect of heparin. Bleeding and heparin-induced thrombocytopenia are serious complications of heparin therapy. BLEEDING due to heparin toxicity is treated with protamine sulfate, a specific antagonist. Protamine sulfate is a peptide that binds to heparin, forming a complex that has no anticoagulant activity. Although protamine is often used in the management of LMWH toxicity, it does not completely reverse the anti-Xa activity of LMWH.\n\nVitamin K is used for reversal of warfarin overdose but requires new synthesis of coagulation factors. As a result, its full effect takes time to manifest. For this reason, in the setting of acute life-threatening bleeding due to warfarin, fresh frozen plasma (FFP) (contains all blood proteins and clotting factors) should be given. However, FFP is not useful for heparin overdose as it contains ATIII, which can further potentiate the effects of heparin.\n\nProthrombin complex concentrates (PCCs), which contain the vitamin K-dependent factors II, VII, IX, and X, can be used to treat bleeding due to warfarin (not heparin) overdose (Choices A, D, and F).\n\n(Choices B and E) Platelet function is not significantly affected by heparin therapy; although heparin-induced thrombocytopenia can occur in a minority of patients, this complication usually develops after several days (not hours).\n\nAminocaproic acid and tranexamic acid inhibit fibrinolysis by inhibiting plasminogen activation.\n\nEducational objective:\nProtamine sulfate binds to heparin, causing chemical inactivation. Vitamin K and fresh frozen plasma can be used to reverse warfarin effects.",
+    "zh": "普通肝素 (UFH) 和低分子量肝素 (LMWHs) 是医院环境中常用的抗凝剂。肝素可增强天然存在的抗凝剂抗凝血酶III (ATIII) 的作用。通过测量活化部分凝血活酶时间 (aPTT) 来监测肝素的治疗效果。出血和肝素诱导的血小板减少症是肝素治疗的严重并发症。由肝素毒性引起的出血用鱼精蛋白硫酸盐（一种特异性拮抗剂）治疗。鱼精蛋白硫酸盐是一种与肝素结合的肽，形成无抗凝活性的复合物。虽然鱼精蛋白常用于治疗低分子量肝素的毒性，但它并不能完全逆转低分子量肝素的抗Xa活性。\n\n维生素K用于逆转华法林过量，但需要重新合成凝血因子。因此，其全部作用需要时间才能显现出来。因此，在因华法林引起的急性危及生命的出血的情况下，应给予新鲜冰冻血浆 (FFP)（包含所有血浆蛋白和凝血因子）。然而，FFP对肝素过量无用，因为它含有ATIII，这可能会进一步增强肝素的作用。\n\n含有维生素K依赖性因子II、VII、IX和X的凝血酶原复合物浓缩物 (PCCs) 可用于治疗因华法林（而非肝素）过量引起的出血（选项A、D和F）。\n\n（选项B和E）血小板功能不受肝素治疗的显着影响；虽然肝素诱导的血小板减少症可能发生在少数患者中，但这种并发症通常在几天（而非数小时）后发生。\n\n氨基己酸和氨甲环酸通过抑制纤溶酶原激活来抑制纤溶。\n\n教育目标：\n鱼精蛋白硫酸盐与肝素结合，引起化学失活。维生素K和新鲜冰冻血浆可用于逆转华法林的作用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of anticoagulant reversal agents, specifically the appropriate reversal agent for heparin-induced bleeding. It requires understanding the mechanism of action of heparin and the specific antidote available.\n\nThe best approach is to recognize that the patient is on heparin and is experiencing bleeding complications. Recall that protamine is the specific antidote for heparin and will immediately reverse its anticoagulant effects. Eliminate options that are used for warfarin reversal or address other bleeding disorders.",
+    "zh": "本题考察对抗凝剂逆转剂的了解，特别是针对肝素引起的出血的合适逆转剂。它需要理解肝素的作用机制和可用的特异性解毒剂。\n\n最好的方法是认识到患者正在使用肝素并且正在经历出血并发症。回想一下，鱼精蛋白是肝素的特异性解毒剂，将立即逆转其抗凝作用。排除用于华法林逆转或解决其他出血性疾病的选项。"
+  },
+  "tags": "Heparin; Protamine; Anticoagulation; Bleeding; Drug reversal; Hematology; Pharmacology",
+  "category": "Blood",
+  "question_id": "1087",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1087",
+  "extracted_at": "2025-11-05T11:18:58.851963",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:25:33.997975",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

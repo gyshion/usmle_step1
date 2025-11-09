@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "Preventive disease specialists working in a developing country are investigating vaccination options to limit the spread of poliomyelitis. As part of the study, 2 patients are vaccinated against poliomyelitis. One patient receives an intramuscular inactivated vaccine and the other patient receives a live attenuated oral vaccine. One month after vaccination, the levels of which of the following poliovirus antibodies will differ the most between these 2 patients?",
+    "zh": "在发展中国家工作的预防疾病专家正在调查疫苗接种方案，以限制脊髓灰质炎的传播。 作为研究的一部分，对 2 名患者接种了脊髓灰质炎疫苗。 一名患者接受了肌内灭活疫苗，另一名患者接受了活减毒口服疫苗。 接种疫苗一个月后，这 2 名患者之间以下哪种脊髓灰质炎病毒抗体的水平差异最大？"
+  },
+  "question": {
+    "en": "One month after vaccination, the levels of which of the following poliovirus antibodies will differ the most between these 2 patients?",
+    "zh": "接种疫苗一个月后，这 2 名患者之间以下哪种脊髓灰质炎病毒抗体的水平差异最大？"
+  },
+  "options": {
+    "A": {
+      "en": "Cerebrospinal fluid IgG",
+      "zh": "脑脊液 IgG"
+    },
+    "B": {
+      "en": "Duodenal luminal IgA",
+      "zh": "十二指肠管腔 IgA"
+    },
+    "C": {
+      "en": "Serum IgA",
+      "zh": "血清 IgA"
+    },
+    "D": {
+      "en": "Serum IgG",
+      "zh": "血清 IgG"
+    },
+    "E": {
+      "en": "Serum IgM",
+      "zh": "血清 IgM"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Secretory IgA is the major antibody associated with MUCOSAL IMMUNITY. Upon intestinal exposure to a novel antigen, B cells found in mesenteric lymph nodes and Peyer's patches become activated and preferentially migrate to the lamina propria underlying the intestinal mucosa. There, they become fully differentiated plasma cells that begin to synthesize IgA dimers (linked by J chain). These IgA dimers then bind to the polymeric immunoglobulin receptor (plgR) found on the basolateral surface of intestinal epithelial cells and undergo transcytosis. As the linked IgA dimer is released into the intestinal lumen, a portion of plgR remains attached to the antibody (secretory component), forming the complete secretory IgA molecule. Stimulation of local secretory IgA production is best promoted when the corresponding mucosal surfaces are directly stimulated by the antigen. In addition, live attenuated vaccines generally produce stronger immune responses than killed vaccines by acting as a persistent stimulus that better activates helper and cytotoxic T cells. As a result, the live attenuated oral (Sabin) poliovirus vaccine generates a much more robust oropharyngeal and intestinal mucosal IgA response than the inactivated poliovirus (Salk) vaccine. {{exhibit_1}}\n\n(Choice A) Cerebrospinal fluid IgG antibody levels can increase due to a rise in local production (eg, multiple sclerosis, viral CNS infections) or inflammation of the blood-brain barrier (eg, trauma, meningitis), leading to excessive leakage of plasma proteins.\n\n(Choices C, D, and E) Serum IgA (mainly monomeric), IgG, and IgM increase with both forms of the polio vaccine and are protective against viral dissemination. Serum IgG and IgM can also be secreted by the mucosa although to a lesser extent than secretory IgA (explaining why most patients with selective IgA deficiency are asymptomatic).\n\nEducational objective:\nThe live attenuated oral (Sabin) poliovirus vaccine produces a stronger mucosal secretory IgA immune response than does the inactivated poliovirus (Salk) vaccine. This increase in mucosal IgA offers immune protection at the site of viral entry by inhibiting attachment to intestinal epithelial cells.",
+    "zh": "分泌型 IgA 是与黏膜免疫相关的主要抗体。 当肠道暴露于新抗原时，在肠系膜淋巴结和派伊尔斑块中发现的 B 细胞被激活，并优先迁移到肠黏膜下方的固有层。 在那里，它们变成完全分化的浆细胞，开始合成 IgA 二聚体（由 J 链连接）。 这些 IgA 二聚体然后与位于肠上皮细胞基底外侧表面的多聚免疫球蛋白受体 (plgR) 结合并进行转胞吞作用。 当连接的 IgA 二聚体释放到肠腔中时，一部分 plgR 仍然附着在抗体上（分泌成分），形成完整的分泌型 IgA 分子。 当相应的黏膜表面被抗原直接刺激时，最能促进局部分泌型 IgA 的产生。 此外，活减毒疫苗通常比灭活疫苗产生更强的免疫反应，因为它充当持续的刺激，更好地激活辅助性 T 细胞和细胞毒性 T 细胞。 因此，活减毒口服（Sabin）脊髓灰质炎疫苗比灭活脊髓灰质炎（Salk）疫苗产生更强的口咽和肠黏膜 IgA 反应。 {{exhibit_1}}\n\n（选项 A）脑脊液 IgG 抗体水平可能会因局部产生增加（例如，多发性硬化症、病毒性中枢神经系统感染）或血脑屏障发炎（例如，创伤、脑膜炎）而升高，导致血浆蛋白过度渗漏。\n\n（选项 C、D 和 E）血清 IgA（主要是单体）、IgG 和 IgM 随着两种脊髓灰质炎疫苗的增加而增加，并可防止病毒传播。 血清 IgG 和 IgM 也可以由黏膜分泌，尽管程度低于分泌型 IgA（这解释了为什么大多数患有选择性 IgA 缺乏症的患者无症状）。\n\n教育目标：\n活减毒口服（Sabin）脊髓灰质炎疫苗比灭活脊髓灰质炎（Salk）疫苗产生更强的黏膜分泌型 IgA 免疫反应。 这种黏膜 IgA 的增加通过抑制其与肠上皮细胞的结合，从而在病毒进入部位提供免疫保护。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the humoral immune response to different types of vaccines, specifically the difference in IgA production between inactivated and live attenuated poliovirus vaccines. It emphasizes the importance of mucosal immunity in preventing viral attachment and entry.\n\nTo solve this question, recall that live attenuated vaccines stimulate a stronger mucosal immune response, leading to increased secretory IgA production in the gut. Recognize that the oral polio vaccine (Sabin) is a live attenuated vaccine, while the inactivated polio vaccine (Salk) is not.",
+    "zh": "此问题测试对不同类型疫苗的体液免疫反应的了解，特别是灭活和活减毒脊髓灰质炎疫苗之间 IgA 产生的差异。 它强调了黏膜免疫在预防病毒附着和进入方面的重要性。\n\n要解决这个问题，请回忆活减毒疫苗可刺激更强的黏膜免疫反应，从而导致肠道中分泌型 IgA 的产生增加。 认识到口服脊髓灰质炎疫苗 (Sabin) 是一种活减毒疫苗，而灭活脊髓灰质炎疫苗 (Salk) 则不是。"
+  },
+  "tags": "Poliomyelitis; Vaccination; Live attenuated vaccine; Inactivated vaccine; Mucosal immunity; Secretory IgA; Humoral immunity; Immunology; Virology",
+  "category": "Immunology",
+  "question_id": "1467",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\1467",
+  "extracted_at": "2025-11-05T14:40:28.842086",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:00:20.252359",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

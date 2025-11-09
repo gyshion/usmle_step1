@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A young couple has undergone a successful in vitro fertilization procedure. The father has cystic fibrosis and the mother has a sister with cystic fibrosis. The father as well as the mother's sister are both known to have ΔF508 mutations, but the mother's carrier status is unknown. Before making the decision to conceive, the couple underwent extensive genetic counseling regarding the potential risks of having a child with cystic fibrosis. The family pedigree is diagrammed below with the unborn child marked by the red arrow. {{exhibit_1}}",
+    "zh": "一对年轻夫妇成功进行了体外受精。父亲患有囊性纤维化，母亲有一个患有囊性纤维化的姐妹。已知父亲和母亲的姐妹都具有 ΔF508 突变，但母亲的携带者状态未知。在做出受孕决定之前，这对夫妇就生下患有囊性纤维化孩子的潜在风险接受了广泛的遗传咨询。家系图如下所示，未出生的孩子用红箭头标记。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "What is the probability that the unborn child will have cystic fibrosis?",
+    "zh": "未出生的孩子患囊性纤维化的概率是多少？"
+  },
+  "options": {
+    "A": {
+      "en": "1/16",
+      "zh": "1/16"
+    },
+    "B": {
+      "en": "1/8",
+      "zh": "1/8"
+    },
+    "C": {
+      "en": "1/4",
+      "zh": "1/4"
+    },
+    "D": {
+      "en": "1/3",
+      "zh": "1/3"
+    },
+    "E": {
+      "en": "2/3",
+      "zh": "2/3"
+    },
+    "F": {
+      "en": "3/4",
+      "zh": "3/4"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Cystic fibrosis (CF) results from an AUTOSOMAL RECESSIVE defect in the CF transmembrane conductance regulator (CFTR) gene. Although most men with CF are infertile due to congenital absence of the vas deferens, they are NOT STERILE and can have children via assisted reproductive technology.\n\nCalculating the probability that the unborn child will have CF can be done by analyzing the above pedigree as follows:\n\n1.  Because the father is homozygous for the mutant CFTR allele, he will ALWAYS transmit the mutant allele to his offspring.\n\n2.  Because the mother has an affected sibling and neither of her parents is affected, she most likely had 2 heterozygous carrier parents. Therefore, the mother's 4 possible genotypes are: homozygous for the normal allele, heterozygous with her mother's mutant allele, heterozygous with her father's mutant allele, and homozygous for the mutant allele. However, the mother does NOT have CF and therefore is NOT homozygous for the mutant allele. This leaves 3 possible genotypes for the mother. Two of the 3 remaining genotypes result in her being a carrier for the mutant CFTR allele, while the last one results in her being homozygous normal.\n\nTherefore, the mother's probability of being a carrier equals 2/3.\n\n3.  If the mother is a carrier (2/3 chance), the probability that she will transmit the mutant allele to the child is 1/2. As a result, the probability that the child will inherit a mutant allele from the mother (and therefore have CF as the father will always contribute a mutant allele) is: 2/3 x 1/2 = 1/3.\n\nEducational objective:\nThe probability that an autosomal recessive disease will be transmitted to a child can be calculated based on the maternal and paternal pedigrees. An unaffected individual (with unaffected parents) who has a sibling affected by an autosomal recessive condition has a 2/3 chance of being a carrier for that condition.",
+    "zh": "囊性纤维化 (CF) 是由 CF 跨膜电导调节器 (CFTR) 基因的常染色体隐性缺陷引起的。尽管大多数患有 CF 的男性由于先天性输精管缺失而无法生育，但他们并非不育，并且可以通过辅助生殖技术生育孩子。\n\n可以通过如下分析上述家系图来计算未出生的孩子患 CF 的概率：\n\n1.  因为父亲是突变 CFTR 等位基因的纯合子，他将始终将突变等位基因传递给他的后代。\n\n2.  因为母亲有一个受影响的兄弟姐妹，并且她的父母都没有受到影响，所以她很可能有两个杂合携带者父母。因此，母亲的 4 种可能基因型为：正常等位基因的纯合子、具有母亲突变等位基因的杂合子、具有父亲突变等位基因的杂合子和突变等位基因的纯合子。然而，母亲没有 CF，因此不是突变等位基因的纯合子。这给母亲留下了 3 种可能的基因型。剩余 3 种基因型中的两种导致她成为突变 CFTR 等位基因的携带者，而最后一种导致她成为纯合正常。\n\n因此，母亲是携带者的概率等于 2/3。\n\n3.  如果母亲是携带者（2/3 的概率），她将突变等位基因传递给孩子的概率为 1/2。因此，孩子从母亲那里遗传突变等位基因的概率（因此患有 CF，因为父亲将始终贡献一个突变等位基因）是：2/3 x 1/2 = 1/3。\n\n教育目标：\n常染色体隐性疾病传递给孩子的概率可以根据母系和父系家系图计算。一个未受影响的个体（父母未受影响）有一个受常染色体隐性疾病影响的兄弟姐妹，那么他/她有 2/3 的机会成为该疾病的携带者。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of autosomal recessive inheritance patterns, specifically cystic fibrosis, and the ability to calculate the probability of a child inheriting the disease based on a pedigree. It requires understanding carrier status and how it affects the likelihood of transmitting the affected gene. \n\nThe approach to solving this question involves analyzing the pedigree to determine the possible genotypes of the parents, calculating the probability of the mother being a carrier, and then using that probability to determine the overall chance of the child inheriting the disease from both parents.",
+    "zh": "这个问题考察了常染色体隐性遗传模式的知识，特别是囊性纤维化，以及根据家系图计算孩子遗传该疾病的概率的能力。它需要理解携带者状态以及它如何影响传递受影响基因的可能性。\n\n解决这个问题的方法包括分析家系图以确定父母可能的基因型，计算母亲是携带者的概率，然后使用该概率来确定孩子从父母双方遗传该疾病的总体机会。"
+  },
+  "tags": "Cystic fibrosis; Autosomal recessive inheritance; Genetics; Pedigree analysis; Carrier status",
+  "category": "Bio",
+  "question_id": "1790",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1790",
+  "extracted_at": "2025-11-05T13:19:19.424652",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:22:04.896705",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

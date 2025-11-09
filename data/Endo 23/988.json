@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 22-year-old man comes to the office for evaluation of a neck mass. He first noticed a small nodule in his lower neck 6 months ago, and it has progressively enlarged since that time. The patient has had no changes in weight and otherwise feels well. Medical history is notable only for seasonal allergies, and he takes no medications. Physical examination shows a 2-cm nodule in the right lobe of the thyroid. There are multiple 4- to 8-mm soft papules on the lips and tongue. The arm span exceeds his height and the patient has long fingers. Serum calcitonin levels are elevated.",
+    "zh": "一名22岁男性前来就诊，主诉颈部肿块。他6个月前首次注意到颈下部有一个小结节，此后逐渐增大。患者体重无变化，其他方面感觉良好。病史仅有季节性过敏，未服用药物。体格检查显示甲状腺右叶有一个2厘米的结节。唇部和舌部有多个4-8毫米的柔软丘疹。臂展超过身高，患者手指较长。血清降钙素水平升高。"
+  },
+  "question": {
+    "en": "Which of the following is most likely to develop in this patient?",
+    "zh": "该患者最有可能发生以下哪种情况？"
+  },
+  "options": {
+    "A": {
+      "en": "Episodic headache",
+      "zh": "发作性头痛"
+    },
+    "B": {
+      "en": "Hypercalcemia",
+      "zh": "高钙血症"
+    },
+    "C": {
+      "en": "Hypoglycemic episodes",
+      "zh": "低血糖发作"
+    },
+    "D": {
+      "en": "Peripheral vision loss",
+      "zh": "周围视野丧失"
+    },
+    "E": {
+      "en": "Recurrent peptic ulcers",
+      "zh": "复发性消化性溃疡"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has an enlarging thyroid nodule associated with an elevated calcitonin level, which is concerning for MEDULLARY THYROID CANCER (MTC), a malignancy arising from the thyroid C (parafollicular) cells. These findings, in association with mucosal neuromas and MARFANOID HABITUS (eg, arm span > height, long fingers, joint laxity), suggest MULTIPLE ENDOCRINE NEOPLASIA TYPE 2B (MEN2B). MEN2 syndromes are caused by germline mutations of the RET proto-oncogene. MTC is present in nearly all patients with MEN2 and is usually more aggressive and occurs at an earlier age than sporadic MTC.\n\nPheochromocytomas develop in roughly half of patients with MEN2 syndromes and cause paroxysmal hypertension and tachycardia due to the intermittent secretion of catecholamines. The abrupt, severe increase in blood pressure can precipitate EPISODIC HEADACHES and is often accompanied by other symptoms associated with catecholamine excess (eg, diaphoresis, tremor, chest pain).\n\n(Choice B) Hyperparathyroidism with secondary hypercalcemia is the most common manifestation of MEN1. Hyperparathyroidism (due to parathyroid chief cell hyperplasia or adenoma formation) is also seen in 10%-20% of patients with MEN2A, but it is not a feature of MEN2B.\n\n(Choices C and E) Many patients with MEN1 have endocrine pancreatic tumors that secrete gastrin, leading to refractory peptic ulcer disease and diarrhea (Zollinger-Ellison syndrome). In rare cases, endocrine tumors of the pancreas in MEN1 secrete other hormones, such as insulin, which can cause hypoglycemia.\n\n(Choice D) Pituitary tumors are present in 50% of patients with MEN1. Large pituitary tumors with suprasellar extensions are likely to cause peripheral vision loss.\n\nEducational objective:\nMultiple endocrine neoplasia type 2B is characterized by medullary thyroid cancer, pheochromocytomas, mucosal neuromas, and marfanoid habitus. Hyperparathyroidism is not a feature of this syndrome. {{exhibit_1}}",
+    "zh": "该患者有一个扩大的甲状腺结节，并伴有升高的降钙素水平，提示甲状腺髓样癌 (MTC)，这是一种起源于甲状腺C细胞（滤泡旁细胞）的恶性肿瘤。这些发现，与黏膜神经瘤和马凡样体征（例如，臂展>身高，手指长，关节松弛）相关，提示多发性内分泌肿瘤2B型（MEN2B）。MEN2综合征是由RET原癌基因的生殖系突变引起的。几乎所有MEN2患者均存在MTC，且通常比散发性MTC更具侵袭性，且发病年龄更早。\n\n嗜铬细胞瘤大约在半数MEN2综合征患者中发生，并由于儿茶酚胺的间歇性分泌而导致阵发性高血压和心动过速。血压的突然、剧烈升高可诱发发作性头痛，并且通常伴有其他与儿茶酚胺过量相关的症状（例如，出汗、震颤、胸痛）。\n\n（选项B）伴有继发性高钙血症的甲状旁腺功能亢进症是MEN1最常见的表现。甲状旁腺功能亢进症（由于甲状旁腺主细胞增生或腺瘤形成）也见于10%-20%的MEN2A患者，但它不是MEN2B的特征。\n\n（选项C和E）许多MEN1患者患有分泌胃泌素的内分泌胰腺肿瘤，导致顽固性消化性溃疡病和腹泻（卓-艾综合征）。在极少数情况下，MEN1中的内分泌胰腺肿瘤分泌其他激素，如胰岛素，可引起低血糖。\n\n（选项D）50%的MEN1患者存在垂体肿瘤。具有鞍上延伸的大的垂体肿瘤可能会导致周围视野丧失。\n\n教育目标：\n多发性内分泌肿瘤2B型（MEN2B）的特征是甲状腺髓样癌、嗜铬细胞瘤、黏膜神经瘤和马凡样体征。甲状旁腺功能亢进症不是此综合征的特征。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Multiple Endocrine Neoplasia type 2B (MEN2B) and its characteristic features, including medullary thyroid cancer, pheochromocytoma, and marfanoid habitus. It requires recognizing the clinical presentation and associating it with the correct MEN syndrome.\n\nThe key to solving this question is identifying the constellation of findings (thyroid nodule, elevated calcitonin, mucosal neuromas, marfanoid habitus) and linking them to MEN2B. Understanding the associated conditions, such as pheochromocytoma leading to episodic headaches, is crucial.",
+    "zh": "本题考察对多发性内分泌肿瘤2B型（MEN2B）及其特征的了解，包括甲状腺髓样癌、嗜铬细胞瘤和马凡样体征。它要求识别临床表现并将其与正确的MEN综合征联系起来。\n\n解决此问题的关键是识别一系列发现（甲状腺结节、降钙素升高、黏膜神经瘤、马凡样体征）并将它们与MEN2B联系起来。了解相关疾病，如嗜铬细胞瘤导致发作性头痛，至关重要。"
+  },
+  "tags": "Multiple endocrine neoplasia type 2B; MEN2B; Medullary thyroid cancer; Pheochromocytoma; Marfanoid habitus; Calcitonin; Endocrine system; Tumor syndromes; Episodic headache",
+  "category": "Endo",
+  "question_id": "988",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\988",
+  "extracted_at": "2025-11-05T14:12:27.749785",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:43:57.011498",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

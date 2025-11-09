@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 60-year-old woman comes to the office with intermittent flatulence, crampy abdominal pain, and watery diarrhea. Her symptoms started 2 months ago after she recovered from an episode of acute gastroenteritis associated with nausea, vomiting, and diarrhea. The patient's symptoms are worse after drinking \"too much milk.\" She usually has 1 or 2 glasses of wine every evening with dinner. Physical examination is unremarkable. Initial laboratory evaluation, including serum chemistries, blood counts, stool cultures, and studies for ova and parasites, is negative.",
+    "zh": "一名60岁女性前来就诊，主诉间歇性胀气、痉挛性腹痛和水样腹泻。她的症状始于2个月前，当时她从一次急性胃肠炎发作中康复，伴有恶心、呕吐和腹泻。患者的症状在饮用“过多牛奶”后加重。她通常每晚晚餐时喝1到2杯葡萄酒。体格检查无特殊发现。初步实验室评估，包括血清化学、血细胞计数、粪便培养和虫卵寄生虫检查，结果均为阴性。"
+  },
+  "question": {
+    "en": "Which of the following is most likely decreased in this patient?",
+    "zh": "该患者最有可能减少哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Breath hydrogen content",
+      "zh": "呼气氢含量"
+    },
+    "B": {
+      "en": "Fecal fat",
+      "zh": "粪便脂肪"
+    },
+    "C": {
+      "en": "Pancreatic enzymes",
+      "zh": "胰酶"
+    },
+    "D": {
+      "en": "Stool osmolality",
+      "zh": "粪便渗透压"
+    },
+    "E": {
+      "en": "Stool pH",
+      "zh": "粪便pH值"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's presentation with flatulence, crampy abdominal pain, and watery diarrhea after consuming dairy products (eg, milk) is consistent with lactose intolerance. The most common cause of lactose intolerance is lactase nonpersistence, which is especially prevalent in Asian and African populations and is characterized by declining lactase expression in adulthood. This patient's lactose intolerance is most likely due to secondary lactase deficiency, an acquired condition resulting from inflammation/infection (eg, bacterial overgrowth, infectious enteritis, Crohn disease) that causes injury to the mucosal brush border of the small bowel where lactase is expressed.\n\nLactase deficiency results in incomplete hydrolysis of lactose into the monosaccharides glucose and galactose. The fermentation of undigested lactose by gut bacteria leads to increased production of short-chain fatty acids (eg, acetate, butyrate, propionate) that acidify the stool (decreased stool pH). During this process, hydrogen gas is also produced, leading to increased breath hydrogen content (Choice A). In addition, the high amounts of undigested lactose in the bowel lead to elevated stool osmolality, which attracts excess water in the bowel lumen, causing osmotic diarrhea (Choice D).\n\n(Choice B) Inflammation/infection of the small intestine may lead to fat malabsorption, resulting in steatorrhea (eg, greasy, malodorous stool that is difficult to flush), weight loss, and increased fecal fat content. Fat malabsorption does not typically occur in patients with lactose deficiency.\n\n(Choice C) Reduced pancreatic enzyme production (exocrine insufficiency) can occur with chronic pancreatitis, which is seen frequently in individuals with chronic alcoholism. Pancreatic enzyme levels are not affected by secondary lactase deficiency.\n\nEducational objective:\nLactose intolerance presents with flatulence, crampy abdominal pain, and watery diarrhea after dairy product consumption. It can be acquired by inflammatory/infectious conditions that injure the mucosal brush border of the small intestine where lactase is expressed. Studies can show increased breath hydrogen content, reduced stool pH, and elevated stool osmolality.",
+    "zh": "该患者在食用乳制品（如牛奶）后出现胀气、痉挛性腹痛和水样腹泻，与乳糖不耐受相符。乳糖不耐受最常见的原因是乳糖酶非持久性，这在亚洲和非洲人群中尤为普遍，其特征是成年期乳糖酶表达下降。该患者的乳糖不耐受很可能是继发性乳糖酶缺乏症，这是一种获得性疾病，由炎症/感染（例如，细菌过度生长、感染性肠炎、克罗恩病）引起，导致乳糖酶表达的、小肠粘膜刷状缘损伤。\n\n乳糖酶缺乏导致乳糖未完全水解为单糖葡萄糖和半乳糖。未消化的乳糖被肠道细菌发酵，导致短链脂肪酸（例如，乙酸盐、丁酸盐、丙酸盐）的产生增加，从而使粪便酸化（粪便pH值降低）。在此过程中，也会产生氢气，导致呼气氢含量增加（选项A）。此外，肠道中大量未消化的乳糖会导致粪便渗透压升高，这会吸引肠腔内的多余水分，引起渗透性腹泻（选项D）。\n\n（选项B）小肠的炎症/感染可能导致脂肪吸收不良，导致脂肪泻（例如，油腻、恶臭且难以冲洗的粪便）、体重减轻和粪便脂肪含量增加。脂肪吸收不良通常不会发生在乳糖缺乏症患者中。\n\n（选项C）胰酶产生减少（外分泌功能不全）可发生于慢性胰腺炎，这在患有慢性酒精中毒的个体中很常见。胰酶水平不受继发性乳糖酶缺乏症的影响。\n\n教育目标：\n乳糖不耐受在食用乳制品后表现为胀气、痉挛性腹痛和水样腹泻。它可以通过损伤小肠粘膜刷状缘的炎症/感染性疾病获得，该部位表达乳糖酶。研究可以显示呼气氢含量增加、粪便pH值降低和粪便渗透压升高。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of lactose intolerance, its pathophysiology, and its effect on stool characteristics. Specifically, it assesses the understanding of how bacterial fermentation of undigested lactose leads to changes in stool pH, breath hydrogen content, and stool osmolality.\n\nTo solve this question, recognize the clinical scenario suggestive of lactose intolerance (symptoms worsen after milk consumption). Recall that bacterial fermentation of undigested lactose leads to increased short-chain fatty acids, which acidify the stool, thus decreasing stool pH. The other options are either increased or not directly affected by lactose intolerance.",
+    "zh": "此题考察对乳糖不耐受、其病理生理学及其对粪便特征的影响的知识。具体来说，它评估了对未消化乳糖的细菌发酵如何导致粪便pH值、呼气氢含量和粪便渗透压变化的理解。\n\n要解决此问题，需要识别提示乳糖不耐受的临床情况（症状在饮用牛奶后加重）。回想一下，未消化乳糖的细菌发酵会导致短链脂肪酸增加，从而使粪便酸化，从而降低粪便pH值。其他选项要么增加，要么不受乳糖不耐受的直接影响。"
+  },
+  "tags": "Lactose intolerance; Secondary lactase deficiency; Stool pH; Breath hydrogen test; Stool osmolality; Gastroenterology; Malabsorption; Diarrhea",
+  "category": "GIT",
+  "question_id": "133",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\133",
+  "extracted_at": "2025-11-05T14:23:30.016981",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:51:06.375402",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

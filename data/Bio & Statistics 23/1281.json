@@ -1,0 +1,53 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man with a history of congestive heart failure is hospitalized with chest pain and hypotension requiring admission to the cardiac care unit. An intra-arterial line is placed for direct blood pressure monitoring. Consecutive readings of his intra-arterial blood pressure are 75, 110, 80, 90, 75, and 110 mm Hg.",
+    "zh": "一名65岁男性，有充血性心力衰竭病史，因胸痛和低血压住院，需要入住心脏重症监护病房。放置动脉内导管用于直接血压监测。连续测量其动脉内血压读数为75、110、80、90、75和110 mmHg。"
+  },
+  "question": {
+    "en": "Which of the following represents the median of these blood pressure readings?",
+    "zh": "以下哪一项代表这些血压读数的中位数？"
+  },
+  "options": {
+    "A": {
+      "en": "80 mm Hg",
+      "zh": "80 mmHg"
+    },
+    "B": {
+      "en": "85 mm Hg",
+      "zh": "85 mmHg"
+    },
+    "C": {
+      "en": "90 mm Hg",
+      "zh": "90 mmHg"
+    },
+    "D": {
+      "en": "100 mm Hg",
+      "zh": "100 mmHg"
+    },
+    "E": {
+      "en": "110 mm Hg",
+      "zh": "110 mmHg"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "It is important to understand the difference between the median, mean, and mode, which are 3 measures of central tendency. The MEDIAN of an ordered dataset is the number that separates the right half of the data from the left half. The dataset MUST be ordered before the median is determined. If the number of observations in the dataset is even, finding the median requires adding the middle 2 values together and dividing that sum by 2.\n\nThe ordered dataset in this case is {75, 75, 80, 90, 110, 110}. There are 6 observations, which is an even number of observations. The median value splits the dataset in half; it lies between 80 and 90 (3 values on the left and 3 values on the right). The median is (80 + 90) / 2 = 85 mm Hg.\n\nNow, assume one of the values is missing and the ordered dataset includes the following 5 observations (odd number of observations): {75, 80, 90, 110, 110}. In this case, the median value would be 90 mm Hg, which splits the dataset in half (2 values on the left and 2 values on the right).\n\n(Choices A and D) The values 80 and 100 mm Hg are not measures of the center of the dataset.\n\n(Choice C) To find the MEAN of a dataset, add all of the observations and divide that sum by the number of observations. In this case, the mean is (75 + 75 + 80 + 90 + 110 + 110) / 6 = 90 mm Hg.\n\n(Choice E) Another measure of the center of a scenario dataset is the bimodal. Finding the MODE is easy because it is the most frequent value of a dataset. In our scenario, the dataset is “bimodal” because 75 and 110 mm Hg are each listed twice.\n\nEducational objective:\nThe median is the value that is located in the precise center of an ordered dataset. It separates the right half of the data from the left half.",
+    "zh": "理解中位数、均值和众数之间的区别很重要，这三种是集中趋势的3个衡量指标。已排序数据集的MEDIAN（中位数）是将数据右半部分与左半部分分隔的数字。在确定中位数之前，必须对数据集进行排序。如果数据集中观测值的数量是偶数，则计算中位数需要将中间的2个值相加，然后将该总和除以2。\n\n在这种情况下，已排序的数据集为{75, 75, 80, 90, 110, 110}。共有6个观测值，这是一个偶数。中位数将数据集一分为二；它位于80和90之间（左侧有3个值，右侧有3个值）。中位数为(80 + 90) / 2 = 85 mmHg。\n\n现在，假设其中一个值缺失，已排序的数据集包括以下5个观测值（奇数个观测值）：{75, 80, 90, 110, 110}。在这种情况下，中位数将是90 mmHg，它将数据集一分为二（左侧2个值，右侧2个值）。\n\n（选项A和D）值80和100 mmHg不是数据集中心的度量。\n\n（选项C）要找到数据集的MEAN（均值），将所有观测值相加，然后将该总和除以观测值的数量。在这种情况下，均值为(75 + 75 + 80 + 90 + 110 + 110) / 6 = 90 mmHg。\n\n（选项E）场景数据集的另一个中心度量是双峰值。找到MODE（众数）很容易，因为它是一个数据集中出现频率最高的值。在我们的场景中，数据集是“双峰”的，因为75和110 mmHg均列出了两次。\n\n教育目标：中位数是位于已排序数据集精确中心的值。它将数据的右半部分与左半部分分隔开。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of basic statistical concepts, specifically the median, mean, and mode, and the ability to calculate the median from a given set of values. It highlights the importance of ordering the dataset before determining the median.\n\nTo solve this question, first, order the dataset. Then, determine if the number of observations is even or odd. If even, average the two middle numbers. If odd, the middle number is the median.",
+    "zh": "此问题测试对基本统计概念的理解，特别是中位数、均值和众数，以及从给定的值集合中计算中位数的能力。它强调了在确定中位数之前对数据集进行排序的重要性。\n\n要解决这个问题，首先，对数据集进行排序。然后，确定观测值的数量是偶数还是奇数。如果为偶数，则对中间的两个数字求平均值。如果为奇数，则中间的数字就是中位数。"
+  },
+  "tags": "Biostatistics; Central tendency; Median; Mean; Mode",
+  "category": "Bio",
+  "question_id": "1281",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1281",
+  "extracted_at": "2025-11-05T10:31:35.030474",
+  "translated_at": "2025-11-07T16:20:25.187115",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

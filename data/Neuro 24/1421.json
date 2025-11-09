@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 3-year-old boy is brought to the office for follow-up on intellectual disability and speech delay. Review of his developmental screening questionnaire shows that the boy does not imitate his parents' activities, have a social smile, or show interest in other children. The patient has 8-10 words in his vocabulary and does not combine them into 2-word phrases. There is also concern that his verbal comprehension is poor. A subsequent audiologic evaluation was normal. The boy is up to date on all vaccinations and has no other significant medical history. Cytogenetic testing reveals 226 CGG trinucleotide repeats in a gene located on the X chromosome. This anomaly results in the patient's clinical condition through which of the following mechanisms?",
+    "zh": "一名 3 岁男孩因智力障碍和语言发育迟缓而到诊所复诊。对其发育筛查问卷的回顾显示，该男孩不模仿父母的活动，没有社交性微笑，或对其他孩子不感兴趣。患者的词汇量为 8-10 个单词，并且不会将它们组合成 2 个单词的短语。也有人担心他的语言理解能力差。随后的听力评估是正常的。该男孩已按时接种所有疫苗，并且没有其他重要的病史。细胞遗传学检测显示 X 染色体上一个基因中有 226 个 CGG 三核苷酸重复序列。这种异常是通过以下哪种机制导致患者的临床状况的？"
+  },
+  "question": {
+    "en": "Which of the following mechanisms is responsible for the patient's clinical condition?",
+    "zh": "以下哪种机制导致了患者的临床状况？"
+  },
+  "options": {
+    "A": {
+      "en": "Altered genomic imprinting",
+      "zh": "基因组印记改变"
+    },
+    "B": {
+      "en": "Defective DNA mismatch repair",
+      "zh": "DNA 错配修复缺陷"
+    },
+    "C": {
+      "en": "Exon deletion",
+      "zh": "外显子缺失"
+    },
+    "D": {
+      "en": "Impaired intron splicing",
+      "zh": "内含子剪接受损"
+    },
+    "E": {
+      "en": "Methylation-induced gene silencing",
+      "zh": "甲基化诱导的基因沉默"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The patient described has features consistent with Fragile X syndrome (FXS), which is caused by a mutation in the fragile X mental retardation 1 (FMR1) gene on the long arm of the X chromosome. The FMR1 gene normally contains 6 to 50 CGG trinucleotide repeats in its 5' untranslated region. In FXS, there is an expansion of these repeats to more than 200 CGG trinucleotide repeats, which leads to hypermethylation of the promoter region of the FMR1 gene. This hypermethylation silences the gene, preventing transcription and the subsequent production of the fragile X mental retardation protein (FMRP). FMRP is crucial for normal neural development and plasticity. The absence or deficiency of FMRP results in the characteristic developmental delay, intellectual disability, and behavioral abnormalities seen in FXS, such as speech delay, poor verbal comprehension, and social deficits.\n\n(Choice A) Imprinting is a phenomenon where gene expression is determined by the parental origin of the allele. While imprinting defects can cause genetic disorders (e.g., Prader-Willi and Angelman syndromes), they are not the primary mechanism in FXS. The expansion of CGG repeats in FMR1 leads to hypermethylation and silencing, not altered imprinting.\n\n(Choice B) DNA mismatch repair is a system that corrects errors during DNA replication. Defects in mismatch repair genes are associated with Lynch syndrome, which increases the risk of certain cancers. While DNA repair mechanisms are essential for genomic stability, they are not the direct cause of FXS.\n\n(Choices C and D) Exon deletion and impaired intron splicing involve alterations in the coding or non-coding regions of a gene, respectively, leading to a nonfunctional protein. In FXS, the primary issue is not a deletion or splicing defect but rather the silencing of the FMR1 gene due to repeat expansion and subsequent hypermethylation. The expanded repeats themselves do not directly cause a deletion or splicing abnormality; rather, they trigger epigenetic changes that silence the gene.\n\nKey clinical pearls: Fragile X syndrome is the most common inherited cause of intellectual disability and is caused by CGG repeat expansion in the FMR1 gene, leading to hypermethylation and gene silencing. The characteristic features include intellectual disability, developmental delay, and behavioral issues. The diagnosis is confirmed by genetic testing showing an increased number of CGG repeats.",
+    "zh": "所描述的患者具有与脆性 X 综合征 (FXS) 相符的特征，FXS 是由 X 染色体长臂上的脆性 X 精神发育迟滞 1 (FMR1) 基因突变引起的。FMR1 基因通常在其 5' 非翻译区包含 6 到 50 个 CGG 三核苷酸重复序列。在 FXS 中，这些重复序列会扩张到 200 多个 CGG 三核苷酸重复序列，这会导致 FMR1 基因启动子区域的过度甲基化。这种过度甲基化会使该基因沉默，阻止转录以及随后的脆性 X 精神发育迟滞蛋白 (FMRP) 的产生。FMRP 对正常的神经发育和可塑性至关重要。FMRP 的缺失或缺乏会导致 FXS 中出现的特征性发育迟缓、智力障碍和行为异常，例如语言发育迟缓、语言理解能力差和社会缺陷。\n\n（选项 A）印记是一种基因表达由等位基因的亲本来源决定的现象。虽然印记缺陷会导致遗传疾病（例如，Prader-Willi 和 Angelman 综合征），但它们不是 FXS 的主要机制。FMR1 中 CGG 重复序列的扩张导致过度甲基化和沉默，而不是改变印记。\n\n（选项 B）DNA 错配修复是一个纠正 DNA 复制过程中错误的系统。错配修复基因的缺陷与 Lynch 综合征有关，后者会增加某些癌症的风险。虽然 DNA 修复机制对基因组稳定性至关重要，但它们不是 FXS 的直接原因。\n\n（选项 C 和 D）外显子缺失和内含子剪接受损分别涉及基因编码区或非编码区的改变，从而导致无功能蛋白。在 FXS 中，主要问题不是缺失或剪接缺陷，而是由于重复序列扩张和随后的过度甲基化而导致 FMR1 基因沉默。扩展的重复序列本身不会直接导致缺失或剪接异常；相反，它们会触发表观遗传学变化，从而使基因沉默。\n\n关键临床要点：脆性 X 综合征是智力障碍最常见的遗传原因，由 FMR1 基因中的 CGG 重复序列扩张引起，导致过度甲基化和基因沉默。其特征包括智力障碍、发育迟缓和行为问题。通过基因检测证实诊断，基因检测显示 CGG 重复序列数量增加。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the molecular mechanisms underlying Fragile X syndrome, specifically the role of CGG repeat expansion in the FMR1 gene and its consequence on gene expression. It assesses the knowledge of epigenetic modifications, such as hypermethylation, leading to gene silencing and subsequent developmental abnormalities.\n\nTo solve this question, one must identify the clinical features suggestive of Fragile X syndrome and recall the underlying genetic and molecular pathology. Recognizing that the expanded CGG repeats trigger hypermethylation and silencing of the FMR1 gene is crucial for selecting the correct mechanism.",
+    "zh": "此问题测试对脆性 X 综合征潜在分子机制的理解，特别是 CGG 重复序列在 FMR1 基因中的扩张及其对基因表达的影响。它评估了对表观遗传修饰（例如过度甲基化）导致基因沉默和随后的发育异常的认识。\n\n要解决这个问题，必须确定提示脆性 X 综合征的临床特征，并回忆其潜在的遗传和分子病理学。认识到扩增的 CGG 重复序列会触发 FMR1 基因的过度甲基化和沉默，对于选择正确的机制至关重要。"
+  },
+  "tags": "Fragile X syndrome; Intellectual disability; Speech delay; FMR1 gene; CGG repeats; Hypermethylation; Gene silencing; Epigenetics; Developmental delay; Neurobehavioral features",
+  "category": "Neuro",
+  "question_id": "1421",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\1421",
+  "extracted_at": "2025-11-05T19:33:55.475369",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:33:48.812682",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

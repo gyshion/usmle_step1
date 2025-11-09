@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 72-year-old man comes to the office due to progressive weakness, fatigue, anorexia, and a 10-kg (22-lb) weight loss over the past 4 months. He says that food doesn't taste as good as it once did, and he feels full after eating only a small amount. The patient has had a morning cough for the past several years and had streaks of blood in his sputum 2 weeks ago. He has a 50-pack-year smoking history. On examination, the patient appears frail with a sunken face and bitemporal wasting. His arms are thin with notable muscle wasting. Lung examination reveals wheezing on the right side. Chest x-ray reveals an irregular right perihilar mass.",
+    "zh": "一名72岁男性因进行性乏力、疲劳、厌食，以及过去4个月内体重下降10公斤（22磅）前来就诊。他说食物不如以前好吃，而且只吃少量食物就感到饱了。患者过去几年一直有晨咳，2周前痰中带血。他有50包年的吸烟史。体格检查显示，患者虚弱，面容消瘦，双颞肌萎缩。他的手臂很瘦，肌肉萎缩明显。肺部检查显示右侧有哮鸣音。胸部X光片显示右肺门区域有不规则肿块。"
+  },
+  "question": {
+    "en": "Which of the following is most likely contributing to this patient's muscle wasting?",
+    "zh": "以下哪项最可能导致该患者的肌肉萎缩？"
+  },
+  "options": {
+    "A": {
+      "en": "Calcium channel autoantibody",
+      "zh": "钙通道自身抗体"
+    },
+    "B": {
+      "en": "Interferon-α",
+      "zh": "干扰素-α"
+    },
+    "C": {
+      "en": "Interleukin-3",
+      "zh": "白介素-3"
+    },
+    "D": {
+      "en": "Transforming growth factor-β",
+      "zh": "转化生长因子-β"
+    },
+    "E": {
+      "en": "Tumor necrosis factor-α",
+      "zh": "肿瘤坏死因子-α"
+    },
+    "F": {
+      "en": "Vasopressin",
+      "zh": "加压素"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Cachexia is a syndrome that encompasses anorexia, malaise, anemia, weight loss, and generalized wasting due to underlying systemic disease. Cachexia in this patient is likely a manifestation of the lung neoplasm revealed on his chest x-ray. TUMOR NECROSIS FACTOR-α (TNF-α) is a cytokine that causes necrosis of some tumors in vitro and produces symptoms of cachexia in experimental animals. TNF-α is also called cachectin and is considered a main mediator of paraneoplastic cachexia (along with interleukin [IL]-1β, and IL-6).\n\nTNF-α is produced by macrophages in response to infection as well as by some neoplastic cells. Its role in cachexia is explained by its influence on the hypothalamus, leading to appetite suppression. It also increases basal metabolic rate. In bacterial infections, TNF-α produces fever (along with IL-1), mediates many of the symptoms of septic shock, and causes hepatic release of acute-phase reactants (eg, C-reactive protein and fibrinogen).\n\n(Choice A) Eaton-Lambert syndrome is a paraneoplastic condition that manifests as progressive, symmetric proximal muscle weakness (rather than wasting) along with ocular and autonomic symptoms. It is due to autoantibodies to voltage-gated calcium channels.\n\n(Choice B) Interferon-α is synthesized by leukocytes and has antiviral as well as anti-tumor activity.\n\n(Choice C) IL-3 is produced by activated CD4+ T cells. It stimulates growth and differentiation of myeloid cells.\n\n(Choice D) The main function of transforming growth factor-β is inhibition of the inflammatory response. It decreases T cell proliferation and cytokine production.\n\n(Choice F) Production of vasopressin by some tumors (eg, small cell lung cancer) results in the syndrome of inappropriate antidiuretic hormone secretion.\n\nEducational objective: Tumor necrosis factor-α is thought to mediate paraneoplastic cachexia in humans by suppressing appetite and increasing basal metabolic rate.",
+    "zh": "恶病质是一种综合征，包括厌食、不适、贫血、体重减轻以及由于潜在的全身性疾病引起的全身性消瘦。该患者的恶病质很可能是其胸部X光片显示的肺部肿瘤的表现。肿瘤坏死因子-α (TNF-α) 是一种细胞因子，可在体外引起某些肿瘤的坏死，并在实验动物中产生恶病质的症状。TNF-α 也被称为恶病质素，被认为是副肿瘤恶病质的主要介质（与白介素 [IL]-1β 和 IL-6 一起）。\n\nTNF-α由巨噬细胞响应感染以及某些肿瘤细胞产生。其在恶病质中的作用解释为其对下丘脑的影响，导致食欲抑制。它还会增加基础代谢率。在细菌感染中，TNF-α 会产生发烧（与 IL-1 一起），介导许多败血性休克的症状，并导致肝脏释放急性期反应物（如 C 反应蛋白和纤维蛋白原）。\n\n（选项 A）Eaton-Lambert 综合征是一种副肿瘤病，表现为进行性、对称性近端肌无力（而不是消瘦），并伴有眼部和自主神经症状。这是由于针对电压门控钙通道的自身抗体引起的。\n\n（选项 B）干扰素-α由白细胞合成，具有抗病毒和抗肿瘤活性。\n\n（选项 C）IL-3 由活化的 CD4+ T 细胞产生。它刺激骨髓细胞的生长和分化。\n\n（选项 D）转化生长因子-β的主要功能是抑制炎症反应。它减少 T 细胞增殖和细胞因子的产生。\n\n（选项 F）某些肿瘤（例如，小细胞肺癌）产生的加压素会导致抗利尿激素分泌不当综合征。\n\n教育目标：肿瘤坏死因子-α 被认为通过抑制食欲和增加基础代谢率来介导人类的副肿瘤恶病质。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of paraneoplastic syndromes, specifically cachexia, and its underlying molecular mediators in the context of a patient with a lung neoplasm. It requires knowledge of cytokines and their roles in systemic disease.\n\nTo solve this question, identify the clinical features suggestive of cachexia and consider the common causes of paraneoplastic syndromes associated with lung cancer. Evaluate the known functions of the listed cytokines and hormones to determine which is most likely responsible for the observed wasting.",
+    "zh": "这个问题测试了对副肿瘤综合征（特别是恶病质）的理解，以及在肺部肿瘤患者的背景下其潜在的分子介质。它需要了解细胞因子及其在全身性疾病中的作用。\n\n要解决这个问题，需要确定提示恶病质的临床特征，并考虑与肺癌相关的副肿瘤综合征的常见原因。评估所列细胞因子和激素的已知功能，以确定哪一个最有可能导致观察到的消瘦。"
+  },
+  "tags": "Cachexia; Paraneoplastic syndrome; Tumor necrosis factor-α; Lung neoplasm; Cytokines; Oncology; Internal medicine",
+  "category": "Pathology",
+  "question_id": "1039",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\1039",
+  "extracted_at": "2025-11-05T19:43:34.167766",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:45:10.149866",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

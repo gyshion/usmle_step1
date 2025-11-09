@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 66-year-old man comes to the office due to increasing shortness of breath over the past 3 weeks. He has had a nonproductive cough for several months, which he attributes to allergies, but also notes a 9-kg (20-lb), unintentional weight loss over this time. The patient has no prior medical conditions and takes no medications. He has a 50-pack-year smoking history. Temperature is 36.7 C (98 F), blood pressure is 120/80 mm Hg, pulse is 72/min, and respirations are 18/min. Chest x-ray is shown below {{exhibit_1}}.",
+    "zh": "一名66岁男性因过去3周出现进行性呼吸困难而就诊。他咳嗽数月，无痰，他认为是过敏所致，但同时注意到这段时间体重无意中减轻了9公斤（20磅）。患者既往无疾病史，未服用任何药物。他有50包年吸烟史。体温36.7摄氏度（98华氏度），血压120/80毫米汞柱，脉搏72次/分钟，呼吸18次/分钟。胸片见下 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following would be the expected physical examination finding over the right lower chest?",
+    "zh": "以下哪项是右下胸预期的体格检查发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Bronchial breath sounds",
+      "zh": "支气管呼吸音"
+    },
+    "B": {
+      "en": "Decreased tactile fremitus",
+      "zh": "触觉语颤减弱"
+    },
+    "C": {
+      "en": "Fine inspiratory crackles",
+      "zh": "细湿啰音"
+    },
+    "D": {
+      "en": "Focal, monophasic wheeze",
+      "zh": "局限性、单相性哮鸣音"
+    },
+    "E": {
+      "en": "Increased resonance on percussion",
+      "zh": "叩诊呈过清音"
+    },
+    "F": {
+      "en": "Rhonchi that clear with cough",
+      "zh": "咳嗽后消失的干啰音"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's chest x-ray shows blunting of the right costophrenic angle and opacification of much of the right lung consistent with a large, right-sided PLEURAL EFFUSION. His unintentional weight loss and smoking history suggest a malignant etiology.\n\nPleural effusions are collections of fluid that form between the visceral pleura that lines the lung and the parietal pleura that lines the thoracic cavity. On physical examination, the fluid acts to insulate vibrations and sounds originating within the airways of the lung. Therefore, both TACTILE FREMITUS, the vibration created by vocalized sound (eg, saying \"ninety-nine\"), and BREATH SOUNDS are DECREASED over a pleural effusion. In addition, the relatively high density of pleural fluid compared with air creates DULLNESS to percussion.\n\n(Choice A) Bronchial breath sounds describe the loud and relatively high-pitched breath sounds that are normally heard over the trachea and main bronchi; breath sounds at the periphery of the lung are typically vesicular (soft and relatively low-pitched) in nature. Bronchial breath sounds in the periphery of the lung suggest alveolar consolidation (eg, pneumonia) or fibrosis, but they should not be present with pleural effusion.\n\n(Choice C) Inspiratory crackles are formed by alveoli and small airways popping open and may be heard with pneumonia and atelectasis. The descriptor \"fine\" is often used to describe soft, high-pitch inspiratory crackles associated with pulmonary fibrosis.\n\n(Choice D) A focal, monophasic wheeze may suggest partial obstruction of a large airway (eg, due to a foreign body or tumor).\n\n(Choice E) Percussion notes exist on a spectrum. Normal lung, which represents a composite of parenchymal tissue and air, generates sound that is considered resonant to percussion. The relatively lower density of air alone (ie, pneumothorax) causes hyperresonance to percussion.\n\n(Choice F) Rhonchi are coarse rattling or wheezing sounds that are caused by mucus secretions in the airways and may be heard in patients with chronic obstructive pulmonary disease or bronchiectasis. Rhonchi will often clear with coughing. They are not an expected finding with pleural effusion.\n\nEducational objective:\nA pleural effusion is a collection of fluid between the visceral pleura that lines the lungs and the parietal pleura that lines the thoracic cavity. The fluid acts to insulate vibrations and sounds that originate in the airways of the lung; therefore, tactile fremitus and breath sounds are decreased over a pleural effusion. Dullness to percussion is also present.",
+    "zh": "该患者的胸片显示右肋膈角变钝，右肺大部分区域密度增高，与右侧大量胸腔积液一致。他的非意向性体重下降和吸烟史提示恶性病因。\n\n胸腔积液是形成于覆盖肺部的脏层胸膜和覆盖胸腔的壁层胸膜之间的液体积聚。在体格检查中，液体起到隔离来自肺部气道的振动和声音的作用。因此，在胸腔积液上方，触觉语颤（由发声产生的振动，例如说“九十九”）和呼吸音均减弱。此外，与空气相比，胸腔积液的相对高密度会产生叩诊浊音。\n\n（选项 A）支气管呼吸音描述通常在气管和主支气管上方听到的响亮且相对高调的呼吸音；肺外周的呼吸音通常呈肺泡性（性质柔软且相对低调）。肺外周的支气管呼吸音提示肺泡实变（例如，肺炎）或纤维化，但它们不应存在于胸腔积液中。\n\n（选项 C）吸气性爆裂音由肺泡和小气道张开形成，可能在肺炎和肺不张时听到。“细”的描述通常用于描述与肺纤维化相关的柔软、高调的吸气性爆裂音。\n\n（选项 D）局限性、单相性哮鸣音可能提示大气道部分阻塞（例如，由于异物或肿瘤）。\n\n（选项 E）叩诊音存在于一个频谱上。代表实质组织和空气混合物的正常肺产生被认为对叩诊呈共鸣的声音。单独的空气相对密度较低（即，气胸）会导致叩诊呈过清音。\n\n（选项 F）干啰音是由于气道中的粘液分泌物引起的粗糙的咯咯声或喘鸣声，可在慢性阻塞性肺病或支气管扩张患者中听到。干啰音通常会随着咳嗽而清除。它们不是胸腔积液的预期发现。\n\n教育目标：\n胸腔积液是形成于覆盖肺部的脏层胸膜和覆盖胸腔的壁层胸膜之间的液体积聚。液体起到隔离来自肺部气道的振动和声音的作用；因此，在胸腔积液上方，触觉语颤和呼吸音均减弱。也存在叩诊浊音。"
+  },
+  "summary": {
+    "en": "This question tests the ability to correlate chest X-ray findings with expected physical exam findings in the context of a pleural effusion. It requires knowledge of how fluid in the pleural space affects sound transmission and tactile fremitus.\n\nTo solve this question, first identify the pleural effusion on the chest X-ray. Then, recall that pleural effusions decrease tactile fremitus and breath sounds due to the insulating effect of the fluid. Choose the option that reflects this expected finding.",
+    "zh": "此题考察了在胸腔积液的背景下，将胸片发现与预期的体格检查发现相关联的能力。它需要了解胸膜腔中的液体如何影响声音传播和触觉语颤。\n\n要解决这个问题，首先要在胸片上识别出胸腔积液。然后，回想起胸腔积液由于液体的隔离作用而减少触觉语颤和呼吸音。选择反映此预期发现的选项。"
+  },
+  "tags": "Pleural effusion; Pulmonary examination; Tactile fremitus; Breath sounds; Chest X-ray; Pulmonary & Critical Care; Respiratory system",
+  "category": "Chest",
+  "question_id": "15429",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\15429",
+  "extracted_at": "2025-11-05T11:39:47.511764",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:35:50.461449",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

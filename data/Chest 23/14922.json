@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 68-year-old man comes to the emergency department due to cough, breathlessness, and chest pain. The patient has a medical history of hypertension and type 2 diabetes mellitus. He is a former smoker with a 20-pack-year history. Temperature is 38 C (100.4 F), blood pressure is 130/80 mm Hg, respirations are 22/min, and oxygen saturation is 95% while breathing ambient air. The trachea is central in position. There is dullness to percussion over the lower right lung area compared to the resonance on the left. Auscultation of the right lower lobe reveals breath sounds that are loud, hollow, and high-pitched. When the patient recites the word \"ninety-nine\" in a normal voice, the sound has higher clarity and intensity over the right base compared to other lung areas.",
+    "zh": "一名68岁男性因咳嗽、呼吸困难和胸痛就诊于急诊科。患者有高血压和2型糖尿病病史。他曾吸烟，有20包/年的吸烟史。体温38°C (100.4°F)，血压130/80 mmHg，呼吸频率22次/分，在吸入室内空气时氧饱和度为95%。气管居中。与左侧的共鸣相比，右下肺区域的叩诊呈浊音。右下肺叶的听诊显示呼吸音响亮、空洞且音调高。当患者用正常声音背诵“九十九”这个词时，右肺底的声音比其他肺部区域的声音具有更高的清晰度和强度。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of these findings?",
+    "zh": "以下哪项最可能是这些发现的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Accumulation of interstitial fluid within the pleural space",
+      "zh": "胸膜腔内间质液的积聚"
+    },
+    "B": {
+      "en": "Embolic occlusion of a pulmonary segmental artery",
+      "zh": "肺段动脉的栓塞性闭塞"
+    },
+    "C": {
+      "en": "Exudation of neutrophil-rich fluid in the lung parenchyma",
+      "zh": "肺实质内富含中性粒细胞的液体渗出"
+    },
+    "D": {
+      "en": "Leakage of air from spontaneous rupture of visceral pleura",
+      "zh": "内脏胸膜自发破裂导致空气泄漏"
+    },
+    "E": {
+      "en": "Lung collapse due to a mass causing bronchial obstruction",
+      "zh": "由于肿块导致支气管阻塞引起的肺萎陷"
+    },
+    "F": {
+      "en": "Transudation of interstitial fluid within the alveolar spaces",
+      "zh": "肺泡间隙内间质液的渗出"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient's presentation is consistent with bacterial pneumonia. The infection causes the alveoli to fill with inflammatory, neutrophil-rich exudate (pus); alveolar filling with any kind of fluid (eg, pus, edema, blood) creates alveolar consolidation.\n\nAlveolar consolidation leads to a number of characteristic physical examination findings. Sound travels faster and more efficiently through liquids than gases; therefore, fluid-filled alveoli transmit higher intensity sound than those filled with air. As a result, breath sounds and tactile fremitus (vibration) are more prominent over areas of alveolar consolidation. Bronchophony, a phenomenon in which a patient's spoken words (eg, \"ninety-nine,\" \"toy boat\") are heard more loudly and clearly when auscultated over an area of consolidation compared to normal lung, is also present. The higher density of fluid-filled alveoli also creates relative dullness to percussion compared to the resonant sound created on percussion of air-filled alveoli.\n\n(Choice A) Accumulation of interstitial fluid within the pleural space (pleural effusion) insulates breath sounds and vibrations that originate in the airways of the lungs. Consequently, tactile fremitus and breath sound intensity are decreased. The fluid in the chest cavity creates dullness to percussion over the affected area.\n\n(Choice B) Pulmonary embolism typically has minimal effect on physical examination findings for the lungs.\n\n(Choice D) As in pleural effusion, accumulation of air in the pleural space (pneumothorax) insulates sounds and vibrations that originate in the lungs, and breath sound intensity and tactile fremitus are decreased. In contrast to pleural effusion, the relatively low density of the air in the pleural space creates hyperresonance to percussion.\n\n(Choice E) A mass in a proximal bronchial airway (eg, malignancy, mucous plug) can cause airway obstruction and consequent collapse (atelectasis) of distal alveoli. Breath sounds and tactile fremitus are decreased, and dullness to percussion is created due to the absence of air.\n\n(Choice F) Transudation of interstitial fluid into the alveoli occurs in heart failure and can create alveolar consolidation with physical examination findings similar to bacterial pneumonia. However, in heart failure the findings are typically similar bilaterally. Pneumonia, with accumulation of inflammatory exudate, is more likely in this patient with low-grade fever and evidence of unilateral alveolar consolidation.\n\nEducational objective:\nAlveolar consolidation occurs when the alveoli become filled with fluid (eg, inflammatory exudate in bacterial pneumonia). The increased compactness of the alveolar fluid (compared to air) causes sound to travel faster and more efficiently, resulting in bronchophony, increased tactile fremitus (vibration), and increased intensity of breath sounds over the affected area. Dullness to percussion is also present.",
+    "zh": "该患者的临床表现与细菌性肺炎一致。感染导致肺泡充满炎性、富含中性粒细胞的渗出液（脓液）；肺泡充满任何液体（例如，脓液、水肿、血液）都会产生肺实变。\n\n肺实变会导致许多特征性的体格检查结果。声音在液体中比在气体中传播得更快、更有效；因此，充满液体的肺泡会比充满空气的肺泡传输更高强度的声音。因此，在肺实变区域，呼吸音和触觉震颤（振动）更为明显。支气管语音（患者的说话声，例如“九十九”、“玩具船”）在实变区域听诊时比正常肺部更响亮、更清晰，这种现象也存在。充满液体的肺泡密度较高，与叩诊充满空气的肺泡所产生的共鸣声相比，也会产生相对的浊音。\n\n(选项 A) 胸膜腔内间质液的积聚（胸腔积液）会隔离起源于肺部气道的呼吸音和振动。因此，触觉震颤和呼吸音强度降低。胸腔内的液体会在受影响的区域产生叩诊浊音。\n\n(选项 B) 肺栓塞通常对肺部的体格检查结果影响很小。\n\n(选项 D) 与胸腔积液一样，空气在胸膜腔中的积聚（气胸）会隔离起源于肺部的声音和振动，呼吸音强度和触觉震颤也会降低。与胸腔积液相比，胸膜腔内空气的相对低密度会产生叩诊过清音。\n\n(选项 E) 近端支气管气道内的肿块（例如，恶性肿瘤、粘液栓）会导致气道阻塞，进而导致远端肺泡的塌陷（肺不张）。呼吸音和触觉震颤降低，由于没有空气，会产生叩诊浊音。\n\n(选项 F) 心力衰竭时，间质液会渗入肺泡，并可能产生肺实变，其体格检查结果与细菌性肺炎相似。然而，在心力衰竭中，这些发现通常是双侧相似的。对于该患者，低烧且单侧肺实变，更可能发生肺炎，并伴有炎性渗出液的积聚。\n\n教育目标：\n当肺泡充满液体（例如，细菌性肺炎中的炎性渗出物）时，就会发生肺实变。肺泡液的紧密度增加（与空气相比）会导致声音传播得更快、更有效，从而导致支气管语音、触觉震颤增强以及受影响区域的呼吸音强度增加。也会出现叩诊浊音。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of physical exam findings associated with alveolar consolidation, specifically in the context of bacterial pneumonia. It requires understanding how fluid accumulation in the alveoli affects sound transmission and percussion.\n\nTo solve this question, correlate the patient's symptoms and physical exam findings (dullness to percussion, loud breath sounds, increased clarity of spoken words) with the underlying pathophysiology of alveolar consolidation. Rule out other conditions that cause similar symptoms but have different physical exam findings.",
+    "zh": "本题测试与肺实变相关的体格检查结果知识，尤其是在细菌性肺炎的背景下。它需要理解肺泡中液体积聚如何影响声音传播和叩诊。\n\n要解决这个问题，需要将患者的症状和体格检查结果（叩诊浊音、响亮的呼吸音、说话清晰度增加）与肺实变的基础病理生理学联系起来。排除其他引起类似症状但体格检查结果不同的情况。"
+  },
+  "tags": "Pneumonia; Alveolar consolidation; Physical examination; Auscultation; Percussion; Bronchophony; Tactile fremitus; Respiratory system; Bacterial infection",
+  "category": "Chest",
+  "question_id": "14922",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\14922",
+  "extracted_at": "2025-11-05T11:37:43.054210",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:34:37.112908",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

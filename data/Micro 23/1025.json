@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 26-year-old man develops dysuria and purulent urethral discharge following unprotected sex with a new partner. Nucleic acid amplification testing is positive for *Neisseria gonorrhoeae* infection. The patient develops antibody against the bacterial pili that enhance attachment to host cells. His symptoms resolve with adequate treatment. His partner does not receive treatment. Several weeks later, the patient develops *N. gonorrhoeae* reinfection after repeat exposure to the same partner.",
+    "zh": "一名26岁男性在与新伴侣发生无保护性行为后出现排尿困难和脓性尿道分泌物。核酸扩增检测结果显示为淋病奈瑟菌感染。患者产生针对细菌菌毛的抗体，这些抗体增强了其与宿主细胞的附着。他的症状通过适当治疗得到缓解。他的伴侣未接受治疗。几周后，患者在再次接触同一伴侣后再次发生淋病奈瑟菌感染。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely reason for the lack of long-lasting immunity against the bacteria despite antibody formation in this patient?",
+    "zh": "尽管该患者形成了抗体，但以下哪项是最可能的原因导致其对该细菌缺乏持久的免疫力？"
+  },
+  "options": {
+    "A": {
+      "en": "Antigenic mimicry",
+      "zh": "抗原模拟"
+    },
+    "B": {
+      "en": "Antigenic variation",
+      "zh": "抗原变异"
+    },
+    "C": {
+      "en": "Conjugative plasmid",
+      "zh": "接合质粒"
+    },
+    "D": {
+      "en": "Low molecular weight antigen",
+      "zh": "低分子量抗原"
+    },
+    "E": {
+      "en": "Non-protein antigen",
+      "zh": "非蛋白抗原"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Many strains of *Neisseria gonorrhoeae* have pili, hair-like protein polymers projecting from the bacterial surface that are involved in organism attachment to mucosal surfaces. When the host produces antibodies against gonococcal pili, mucosal adherence is inhibited. At a given time, only 1 pilus gene is functional, so only 1 pilus type is expressed. However, the structural genes for pilus proteins undergo **antigenic variation** at a high frequency; they undergo **recombination** with each other to produce new antigenic types of pili. The number of possible antigenic pilus types is theoretically quite large. This diversity is a reason that vaccine development against *N. gonorrhoeae* pili has been challenging.\n\n(Choice A) Antigenic mimicry is the sharing of antigenic sequences between the microorganism and the host cell, facilitating immune evasion. The gonococcal lipooligosaccharide is similar in structure to human cell membrane glycosphingolipids. However, this is not related to antibody formation against the pilus. Antigenic mimicry can lead to autoimmune disease if the host mounts an immune response against the infectious epitope and that epitope has sufficient sequence homology with a host antigen.\n\n(Choice C) Plasmid conjugation plays an important role in gonococcal antibiotic resistance.\n\n(Choice D) Pilin proteins do not represent a low molecular weight structure that would be poorly immunogenic.\n\n(Choice E) Gonococcal pili are protein polymers. In addition, vaccines have been developed against non-protein structures (eg, meningococcal vaccine, pneumococcal vaccine).\n\nEducational objective: Gonococci use their pili to mediate adherence to the mucosal epithelium. Through antigenic variation, each gonococcus can modify the pilus protein expressed, thereby avoiding host defenses (to some degree) and making vaccination directed against the pilus protein difficult.",
+    "zh": "许多淋病奈瑟菌菌株具有菌毛，这些菌毛是从细菌表面突出的毛发状蛋白质聚合物，参与了生物体与粘膜表面的附着。当宿主产生针对淋球菌菌毛的抗体时，粘膜粘附受到抑制。在特定时间内，只有1个菌毛基因起作用，因此仅表达1种菌毛类型。然而，菌毛蛋白的结构基因以高频率发生**抗原变异**；它们相互进行**重组**，产生新的菌毛抗原类型。理论上，可能的菌毛抗原类型数量相当大。这种多样性是针对淋病奈瑟菌菌毛开发疫苗具有挑战性的原因。\n\n(选项A) 抗原模拟是指微生物和宿主细胞之间共享抗原序列，从而促进免疫逃避。淋球菌脂寡糖的结构与人细胞膜糖鞘脂相似。然而，这与针对菌毛的抗体形成无关。如果宿主对感染性表位产生免疫反应，并且该表位与宿主抗原具有足够的序列同源性，抗原模拟可导致自身免疫性疾病。\n\n(选项C) 质粒接合在淋球菌耐药性中起重要作用。\n\n(选项D) 菌毛蛋白不代表低分子量结构，其免疫原性较差。\n\n(选项E) 淋球菌菌毛是蛋白质聚合物。此外，已经开发出针对非蛋白质结构的疫苗（例如，脑膜炎球菌疫苗、肺炎球菌疫苗）。\n\n教学目标：淋球菌利用其菌毛介导其与粘膜上皮的粘附。通过抗原变异，每个淋球菌可以修饰其表达的菌毛蛋白，从而在某种程度上逃避宿主防御，并使针对菌毛蛋白的疫苗接种变得困难。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanisms by which *Neisseria gonorrhoeae* evades the host immune response, specifically through antigenic variation of its pili proteins. It also requires understanding of other immune evasion strategies and the role of pili in bacterial adherence.\n\nThe best approach is to recall the unique characteristics of *N. gonorrhoeae*, particularly its ability to undergo frequent antigenic variation. Consider the function of pili in attachment and how this relates to antibody-mediated immunity. Eliminate options that do not align with the known mechanisms of gonococcal infection and immune evasion.",
+    "zh": "本题考察对淋病奈瑟菌逃避宿主免疫反应的机制的了解，特别是通过其菌毛蛋白的抗原变异。它还需要了解其他免疫逃避策略以及菌毛在细菌粘附中的作用。\n\n最好的方法是回忆淋病奈瑟菌的独特特征，特别是其频繁发生抗原变异的能力。考虑菌毛在附着中的功能以及这与抗体介导的免疫力的关系。排除与已知的淋球菌感染和免疫逃避机制不符的选项。"
+  },
+  "tags": "Neisseria gonorrhoeae; Antigenic variation; Pili; Immune evasion; Bacterial infection; Sexually transmitted infection; Microbiology; Infectious Diseases; Gonococcal infection",
+  "category": "Micro",
+  "question_id": "1025",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1025",
+  "extracted_at": "2025-11-05T14:48:09.140152",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:03:47.426031",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

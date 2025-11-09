@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 6-month-old boy is brought to the office by his mother due to concern that he is not developing normally. He has been feeding regularly and has had no medical issues other than a mild upper respiratory infection a month earlier. However, the mother says, \"He doesn't seem to be as interactive as my other children were at this age.\" Physical examination reveals delayed developmental milestones and hypotonia. Two years later, the child demonstrates involuntary movements and a tendency to aggressively bite his own lips and fingers. Laboratory analysis shows an elevated blood uric acid level.",
+    "zh": "一位6个月大的男孩因其母亲担心其发育不正常而被带到诊所。他一直定期进食，除了一个月前轻微的上呼吸道感染外，没有其他健康问题。然而，母亲说：“他看起来不像我其他孩子在这个年龄时那么活跃。”体格检查显示发育里程碑延迟和肌张力低下。两年后，该儿童表现出不自主运动，并倾向于积极地咬自己的嘴唇和手指。实验室分析显示血液尿酸水平升高。"
+  },
+  "question": {
+    "en": "Which of the following enzymes is most likely to exhibit increased activity in order to compensate for this patient's genetic defect?",
+    "zh": "为了补偿该患者的基因缺陷，以下哪种酶最有可能表现出活性增加？"
+  },
+  "options": {
+    "A": {
+      "en": "Aspartate carbamoyltransferase",
+      "zh": "天冬氨酸氨甲酰转移酶"
+    },
+    "B": {
+      "en": "Dihydroorotase",
+      "zh": "二氢乳清酸酶"
+    },
+    "C": {
+      "en": "Hypoxanthine-guanine phosphoribosyltransferase",
+      "zh": "次黄嘌呤-鸟嘌呤磷酸核糖转移酶"
+    },
+    "D": {
+      "en": "Phosphoribosyl pyrophosphate amidotransferase",
+      "zh": "磷酸核糖焦磷酸酰胺转移酶"
+    },
+    "E": {
+      "en": "Ribonucleotide reductase",
+      "zh": "核糖核苷酸还原酶"
+    },
+    "F": {
+      "en": "Thymidylate synthase",
+      "zh": "胸腺嘧啶酸合酶"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has Lesch-Nyhan syndrome, an X-linked recessive disorder characterized by progressive extrapyramidal signs (eg, dystonia), self-mutilation, and hyperuricemia in the first years of life. {{exhibit_1}}\n\nLesch-Nyhan syndrome is caused by a mutation in the gene encoding hypoxanthine-guanine phosphoribosyltransferase (HGPRT), an enzyme involved in the purine salvage pathway. In this energy-efficient recycling process, HGPRT normally converts free purine bases (hypoxanthine and guanine) into purine nucleotides (inosine monophosphate [IMP] and guanosine monophosphate [GMP], respectively). The absence of HGPRT results in increased degradation of hypoxanthine and guanine bases into uric acid (causing hyperuricemia) and increases demand for de novo purine synthesis.\n\nThe first step of purine synthesis is the formation of phosphoribosyl pyrophosphate (PRPP). Although PRPP can normally be utilized in the purine salvage pathway (in conjunction with HGPRT), patients with Lesch-Nyhan syndrome rely on PRPP function in de novo purine synthesis alone. In this pathway, PRPP is converted to phosphoribosylamine by PRPP amidotransferase, the activity of which must increase in Lesch-Nyhan syndrome to supply adequate purine nucleotides for DNA synthesis and cellular metabolism.\n\n(Choices A, B, and F) Aspartate carbamoyltransferase, dihydroorotase, and thymidylate synthase are enzymes involved in pyrimidine, not purine, synthesis, and their activity does not change in Lesch-Nyhan syndrome.\n\n(Choice C) HGPRT activity is absent or decreased, not increased, in Lesch-Nyhan syndrome.\n\n(Choice E) Nucleotides are composed of purine or pyrimidine bases attached to a ribose sugar. The enzyme ribonucleotide reductase converts the ribose sugar to its deoxyribose form for use in DNA synthesis; its activity is determined primarily by the cellular proliferation rate (eg, increased cell division requires more deoxyribose nucleotides) and is not affected in Lesch-Nyhan syndrome.\n\nEducational objective:\nLesch-Nyhan syndrome (eg, dystonia, self-mutilation, hyperuricemia) is caused by a mutation in the gene encoding hypoxanthine-guanine phosphoribosyltransferase (HGPRT). Reduced HGPRT activity leads to impaired purine salvage and increased de novo purine synthesis, a process necessitating increased phosphoribosyl pyrophosphate amidotransferase activity. {{exhibit_2}}",
+    "zh": "该患者患有Lesch-Nyhan综合征，这是一种X连锁隐性遗传病，其特征是进行性锥体外系体征（如肌张力障碍）、自残和高尿酸血症，发生在生命的前几年。{{exhibit_1}}\n\nLesch-Nyhan综合征是由编码次黄嘌呤-鸟嘌呤磷酸核糖转移酶（HGPRT）的基因突变引起的，HGPRT是一种参与嘌呤补救途径的酶。在这个高能效的再循环过程中，HGPRT通常将游离的嘌呤碱基（次黄嘌呤和鸟嘌呤）转化为嘌呤核苷酸（肌苷单磷酸[IMP]和鸟苷单磷酸[GMP]）。HGPRT的缺失导致次黄嘌呤和鸟嘌呤碱基降解增加为尿酸（引起高尿酸血症），并增加了对从头嘌呤合成的需求。\n\n嘌呤合成的第一步是形成磷酸核糖焦磷酸（PRPP）。尽管PRPP通常可以用于嘌呤补救途径（与HGPRT结合），但Lesch-Nyhan综合征患者仅依赖于PRPP在从头嘌呤合成中的功能。在该途径中，PRPP由PRPP酰胺转移酶转化为磷酸核糖胺，Lesch-Nyhan综合征患者必须增加其活性才能为DNA合成和细胞代谢提供足够的嘌呤核苷酸。\n\n（选项A、B和F）天冬氨酸氨甲酰转移酶、二氢乳清酸酶和胸腺嘧啶酸合酶是参与嘧啶而非嘌呤合成的酶，并且它们在Lesch-Nyhan综合征中的活性不会改变。\n\n（选项C）在Lesch-Nyhan综合征中，HGPRT活性缺失或降低，而不是增加。\n\n（选项E）核苷酸由连接到核糖糖的嘌呤或嘧啶碱基组成。核糖核苷酸还原酶将核糖糖转化为脱氧核糖形式，用于DNA合成；其活性主要由细胞增殖率决定（例如，细胞分裂增加需要更多的脱氧核糖核苷酸），并且不受Lesch-Nyhan综合征的影响。\n\n教育目标：\nLesch-Nyhan综合征（如肌张力障碍、自残、高尿酸血症）是由编码次黄嘌呤-鸟嘌呤磷酸核糖转移酶（HGPRT）的基因突变引起的。HGPRT活性降低会导致嘌呤补救受损和从头嘌呤合成增加，这一过程需要增加磷酸核糖焦磷酸酰胺转移酶的活性。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Lesch-Nyhan syndrome, its underlying genetic defect (HGPRT deficiency), and the compensatory mechanisms in purine synthesis. It requires understanding the role of different enzymes in purine and pyrimidine metabolism.\n\nTo solve this question, recognize the clinical features of Lesch-Nyhan syndrome (self-mutilation, hyperuricemia, neurological symptoms). Understand that HGPRT deficiency leads to increased de novo purine synthesis, requiring increased activity of PRPP amidotransferase.",
+    "zh": "这个问题测试了对Lesch-Nyhan综合征的了解，其潜在的遗传缺陷（HGPRT缺陷）以及嘌呤合成中的代偿机制。它需要理解不同酶在嘌呤和嘧啶代谢中的作用。\n\n要解决这个问题，需要识别Lesch-Nyhan综合征的临床特征（自残、高尿酸血症、神经系统症状）。了解HGPRT缺陷会导致从头嘌呤合成增加，需要增加PRPP酰胺转移酶的活性。"
+  },
+  "tags": "Lesch-Nyhan syndrome; HGPRT deficiency; Purine metabolism; PRPP amidotransferase; Self-mutilation; Hyperuricemia; X-linked recessive; Genetics; Inborn errors of metabolism",
+  "category": "Neuro",
+  "question_id": "2067",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\2067",
+  "extracted_at": "2025-11-05T15:32:29.405529",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:24:49.470854",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

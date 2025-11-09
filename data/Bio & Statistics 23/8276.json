@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A researcher is studying the expression pattern of a particular gene. Messenger RNA is isolated from several tissues, subjected to electrophoresis, blotted, and probed with radiolabeled DNA containing sequences from exon 4 from that gene. An x-ray film is then placed over the blotting membrane, with the results of the autoradiogram shown below: {{exhibit_1}}",
+    "zh": "一名研究人员正在研究特定基因的表达模式。从几个组织中分离信使RNA，进行电泳、印迹，并用放射性标记的DNA探针杂交，该DNA包含来自该基因外显子4的序列。然后将X射线胶片置于印迹膜上，其放射自显影的结果如下所示：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following best explains the autoradiogram findings in the different tissues?",
+    "zh": "以下哪项最能解释不同组织中放射自显影的结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Alternate RNA splicing",
+      "zh": "RNA选择性剪接"
+    },
+    "B": {
+      "en": "DNA rearrangement",
+      "zh": "DNA重排"
+    },
+    "C": {
+      "en": "DNA mutation",
+      "zh": "DNA突变"
+    },
+    "D": {
+      "en": "Enhancer effect",
+      "zh": "增强子效应"
+    },
+    "E": {
+      "en": "Transcription factor effect",
+      "zh": "转录因子效应"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The experiment described above is known as the Northern Blot technique, a procedure used to detect specific mRNA sequences in a sample to assess for gene expression. In this experiment, the Northern Blot identifies three different mRNA transcripts containing exon 4, with varying patterns of expression in the different tissues. This is consistent with alternative splicing, a process whereby the exons of the pre-mRNA produced by transcription of a gene are reconnected in multiple ways during post-transcriptional processing. The resulting finalized mRNAs are then translated into different protein isoforms. Thus, a single gene can code for multiple proteins when the same gene is spliced differently in different tissues.\n\nAlternative splicing is a normal phenomenon in eukaryotes that greatly increases the biodiversity of proteins that can be encoded by the genome. It is thought that at least 70% of the 30,000 genes in the human genome undergo alternative splicing, and that on average, a given gene produces 4 alternatively spliced variants. Thus, the human genome is able to encode a total of 80,000 to 100,000 proteins which differ in their sequence and function.\n\nAbnormal variations in splicing are implicated in many diseases (e.g., beta-thalassemia, cancer). Alternative splicing also plays a prominent role in the lifecycle of many retroviruses. For instance, HIV produces a single primary RNA transcript that is alternatively spliced to produce over 40 different mRNAs.\n\n(Choice B) DNA (gene) rearrangement occurs during the development and maturation of B cells and T cells. VDJ (Variable, Diverse, and Joining) gene recombination is a random process that takes place in the primary lymphoid tissue (the bone marrow for B cells, and Thymus for T cells).\n\n(Choice C) A mutation is a change in the DNA sequence of a gene. While somatic mutations do sporadically occur throughout the body, they do so only in a minority of cells. The vast majority of DNA throughout the body's tissues consists of identical gene coding sequences.\n\n(Choice D & E) Transcription factors influence RNA polymerase's affinity for specific genes by binding to DNA promoter sequences or enhancer regions, which can either stimulate or inhibit gene transcription. Transcription factors and enhancer regions affect the expression of pre-mRNA, but they do not influence post-transcriptional processing.",
+    "zh": "上述实验被称为Northern印迹技术，该技术用于检测样品中特定的mRNA序列，以评估基因表达。在该实验中，Northern印迹识别出三个不同的mRNA转录本，包含外显子4，在不同组织中有不同的表达模式。这与选择性剪接一致，选择性剪接是指在基因转录产生的pre-mRNA的剪接过程中，外显子以多种方式重新连接。由此产生的最终mRNA被翻译成不同的蛋白质异构体。因此，当同一基因在不同组织中以不同的方式剪接时，单个基因可以编码多种蛋白质。\n\n选择性剪接是真核生物中的一种正常现象，它大大增加了基因组可以编码的蛋白质的多样性。据认为，人类基因组中至少70%的30,000个基因会发生选择性剪接，并且平均而言，一个给定的基因产生4个选择性剪接变体。因此，人类基因组能够编码总共80,000到100,000个蛋白质，这些蛋白质在它们的序列和功能上有所不同。\n\n剪接的异常变化与许多疾病有关（例如，β-地中海贫血、癌症）。选择性剪接在许多逆转录病毒的生命周期中也起着重要作用。例如，HIV产生单个主要的RNA转录本，该转录本经过选择性剪接产生超过40种不同的mRNA。\n\n(选项B) DNA（基因）重排发生在B细胞和T细胞的发育和成熟过程中。VDJ（可变、多样性和连接）基因重组是一个随机过程，发生在主要的淋巴组织中（B细胞的骨髓和T细胞的胸腺）。\n\n(选项C) 突变是基因DNA序列的变化。虽然体细胞突变会零星地发生在全身，但它们只发生在少数细胞中。体内组织中绝大多数的DNA由相同的基因编码序列组成。\n\n(选项D 和 E) 转录因子通过与DNA启动子序列或增强子区域结合来影响RNA聚合酶对特定基因的亲和力，这可以刺激或抑制基因转录。转录因子和增强子区域影响pre-mRNA的表达，但它们不影响转录后加工。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of alternative RNA splicing and its role in generating protein diversity. It also assesses understanding of the Northern blot technique and its application in analyzing gene expression patterns in different tissues.\n\nTo solve this question, analyze the autoradiogram to identify variations in mRNA transcript sizes across different tissues. Recognize that these variations are most likely due to alternative splicing, a process that allows a single gene to produce multiple protein isoforms.",
+    "zh": "此问题测试对RNA选择性剪接及其在产生蛋白质多样性中的作用的了解。它还评估对Northern印迹技术及其在分析不同组织中的基因表达模式中的应用的理解。\n\n要解决此问题，请分析放射自显影图以识别不同组织中mRNA转录本大小的变化。认识到这些变化很可能归因于选择性剪接，这是一种允许单个基因产生多个蛋白质异构体的过程。"
+  },
+  "tags": "Alternative splicing; Northern blot; Gene expression; mRNA transcripts; Protein isoforms; Molecular biology; Genetics",
+  "category": "Bio",
+  "question_id": "8276",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\8276",
+  "extracted_at": "2025-11-05T11:16:20.935272",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:24:36.752394",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

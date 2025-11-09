@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 53-year-old man comes to the clinic due to frequent headaches and dizziness. The patient has a history of hypertension and peptic ulcer disease. His medications include daily chlorthalidone and antacids as needed. Temperature is 37 C (98.6 F), blood pressure is 146/92 mm Hg, pulse is 89/min, and respirations are 16/min. BMI is 26 kg/m². Physical examination shows facial plethora and moderate splenomegaly. Laboratory results are as follows: {{exhibit_1}}",
+    "zh": "一名 53 岁的男性因频繁头痛和头晕来诊所就诊。患者有高血压和消化性溃疡病史。他的药物包括每日氯噻酮和按需服用的抗酸药。体温为 37 摄氏度（98.6 华氏度），血压为 146/92 毫米汞柱，脉搏为 89 次/分钟，呼吸为 16 次/分钟。BMI 为 26 kg/m²。体格检查显示面部红润和轻度脾肿大。实验室检查结果如下：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "This patient most likely has a mutation affecting which of the following types of protein?",
+    "zh": "该患者最有可能发生影响以下哪种蛋白质类型的突变？"
+  },
+  "options": {
+    "A": {
+      "en": "Growth-stimulating transcription factor",
+      "zh": "促生长转录因子"
+    },
+    "B": {
+      "en": "Non-receptor tyrosine kinase",
+      "zh": "非受体酪氨酸激酶"
+    },
+    "C": {
+      "en": "Receptor tyrosine kinase",
+      "zh": "受体酪氨酸激酶"
+    },
+    "D": {
+      "en": "Tumor suppressor protein",
+      "zh": "抑癌蛋白"
+    },
+    "E": {
+      "en": "Vascular growth factor",
+      "zh": "血管生长因子"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's striking elevation in hemoglobin concentration (> 18.5 g/dL) is most likely due to polycythemia vera, a myeloproliferative disorder characterized by uncontrolled erythrocyte production. Patients frequently experience nonspecific symptoms (eg, headache, dizziness); more specific symptoms include aquagenic pruritus and facial plethora/splenomegaly (vascular congestion). Complications include peptic ulcer disease (altered mucosal blood flow due to increased viscosity) and gouty arthritis (higher erythrocyte turnover). Laboratory studies show increased erythrocyte mass and low erythropoietin levels; thrombocytosis and leukocytosis are also characteristic of polycythemia vera. Erythrocyte indices are usually normal.\n\nPolycythemia vera is caused by abnormal transduction of erythropoietin growth signals. The erythropoietin receptor has no intrinsic kinase activity and must interact with Janus kinase 2 (JAK2), a non-receptor tyrosine kinase found in the cytoplasm, to initiate downstream signaling. Almost all patients with polycythemia vera have a mutation in JAK2 that causes constitutive activation of the protein's kinase domain, resulting in clonal proliferation of myeloid cells. JAK2 mutations have also been implicated in essential thrombocythemia, primary myelofibrosis, and other myeloproliferative disorders.\n\n(Choice A) Burkitt lymphoma is characterized by translocation of the Myc oncogene on chromosome 8 to the Ig heavy chain region on chromosome 14. This translocation results in constitutive expression of Myc, a growth-stimulating transcription factor.\n\n(Choice C) Receptor tyrosine kinases are transmembrane receptors with intrinsic kinase activity that autophosphorylate and induce a downstream signaling cascade upon ligand binding. Examples include the receptors for insulin, insulin-like growth factor, and epidermal growth factor. Mutations causing excessive epidermal growth factor receptor activity occur in many solid tumors.\n\n(Choice D) Mutations in the p53 tumor suppressor are associated with Li-Fraumeni syndrome, an autosomal dominant disorder that predisposes to various cancers, particularly sarcomas and tumors of the breast, brain, and adrenal cortex.\n\n(Choice E) Expression of vascular endothelial growth factor (VEGF) is required for tumor angiogenesis, a critical step during tumor growth and metastasis. VEGF upregulation occurs in most cancers.\n\nEducational objective:\nPolycythemia vera is a myeloproliferative disorder characterized by uncontrolled erythrocyte production. Almost all patients with polycythemia vera have a mutation in the JAK2 gene, which encodes a non-receptor (cytoplasmic) tyrosine kinase associated with the erythropoietin receptor. {{exhibit_2}}",
+    "zh": "该患者血红蛋白浓度显着升高（> 18.5 g/dL）最有可能由于真性红细胞增多症，这是一种以红细胞不受控制的产生为特征的骨髓增生性疾病。患者经常出现非特异性症状（如头痛、头晕）；更具体的症状包括水生瘙痒和面部红润/脾肿大（血管充血）。并发症包括消化性溃疡病（由于粘度增加导致黏膜血流改变）和痛风性关节炎（红细胞更新率更高）。实验室研究显示红细胞质量增加和促红细胞生成素水平降低；血小板增多症和白细胞增多症也是真性红细胞增多症的特征。红细胞指标通常正常。\n\n真性红细胞增多症是由促红细胞生成素生长信号的异常转导引起的。促红细胞生成素受体没有固有的激酶活性，并且必须与位于细胞质中的非受体酪氨酸激酶 Janus 激酶 2 (JAK2) 相互作用，才能启动下游信号传导。几乎所有真性红细胞增多症患者的 JAK2 基因都有突变，导致该蛋白激酶结构域的组成性激活，从而导致骨髓细胞的克隆增殖。JAK2 突变也与原发性血小板增多症、原发性骨髓纤维化和其他骨髓增生性疾病有关。\n\n(选项 A) 伯基特淋巴瘤的特征是位于 8 号染色体上的 Myc 癌基因易位到 14 号染色体上的 Ig 重链区域。这种易位导致 Myc（一种促生长转录因子）的组成性表达。\n\n(选项 C) 受体酪氨酸激酶是具有内在激酶活性的跨膜受体，在配体结合后会自身磷酸化并诱导下游信号级联反应。例子包括胰岛素、胰岛素样生长因子和表皮生长因子的受体。导致表皮生长因子受体活性过度的突变发生在许多实体瘤中。\n\n(选项 D) p53 抑癌基因的突变与 Li-Fraumeni 综合征相关，这是一种常染色体显性遗传疾病，容易发生各种癌症，特别是肉瘤和乳腺、脑和肾上腺皮质的肿瘤。\n\n(选项 E) 血管内皮生长因子 (VEGF) 的表达是肿瘤血管生成的必要条件，这是肿瘤生长和转移的关键步骤。VEGF 上调发生在大多数癌症中。\n\n教育目标：\n真性红细胞增多症是一种以红细胞不受控制的产生为特征的骨髓增生性疾病。几乎所有真性红细胞增多症患者的 JAK2 基因都有突变，该基因编码与促红细胞生成素受体相关的非受体（胞质）酪氨酸激酶。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of polycythemia vera (PV), its clinical presentation, laboratory findings, and the underlying genetic mutation. It requires understanding the role of JAK2, a non-receptor tyrosine kinase, in erythropoietin signaling and its constitutive activation in PV.\n\nTo solve this question, recognize the signs and symptoms of PV (headaches, dizziness, facial plethora, splenomegaly) and the characteristic lab abnormalities (elevated hemoglobin, hematocrit, platelets, and leukocytes). Recall that PV is associated with a JAK2 mutation, which affects a non-receptor tyrosine kinase.",
+    "zh": "此问题测试对真性红细胞增多症 (PV) 的了解，包括其临床表现、实验室检查结果以及潜在的基因突变。它需要了解非受体酪氨酸激酶 JAK2 在促红细胞生成素信号传导中的作用及其在 PV 中的组成性激活。\n\n要解决这个问题，需要识别 PV 的体征和症状（头痛、头晕、面部红润、脾肿大）以及特征性的实验室异常（血红蛋白、血细胞比容、血小板和白细胞升高）。回想一下，PV 与 JAK2 突变相关，该突变会影响非受体酪氨酸激酶。"
+  },
+  "tags": "Polycythemia vera; JAK2 mutation; Non-receptor tyrosine kinase; Myeloproliferative disorder; Erythropoietin; Hematology; Thrombocytosis; Leukocytosis; Splenomegaly",
+  "category": "Blood",
+  "question_id": "8591",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\8591",
+  "extracted_at": "2025-11-05T11:34:37.769251",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:32:31.471971",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

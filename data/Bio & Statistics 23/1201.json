@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "An intern in the endocrinology department is asked to complete a chart review of cholesterol levels of all patients hospitalized with diabetes mellitus-related cardiovascular complications in the past 6 months. The intern's preliminary data analysis reveals that there were 400 such patients, and that serum cholesterol levels were normally distributed among the patients with a mean of 220 mg/dL and a standard deviation of 10 mg/dL. Based on these results, how many patients in this study would be expected to have serum cholesterol ≥240 mg/dL?",
+    "zh": "内分泌科的一名实习生被要求完成对过去6个月因糖尿病相关心血管并发症住院的所有患者的胆固醇水平的病历回顾。实习生的初步数据分析显示，共有400名此类患者，并且患者的血清胆固醇水平呈正态分布，平均值为220 mg/dL，标准差为10 mg/dL。根据这些结果，预计该研究中有多少患者的血清胆固醇水平≥240 mg/dL？"
+  },
+  "question": {
+    "en": "Based on these results, how many patients in this study would be expected to have serum cholesterol ≥240 mg/dL?",
+    "zh": "根据这些结果，预计该研究中有多少患者的血清胆固醇水平≥240 mg/dL？"
+  },
+  "options": {
+    "A": {
+      "en": "2",
+      "zh": "2"
+    },
+    "B": {
+      "en": "10",
+      "zh": "10"
+    },
+    "C": {
+      "en": "20",
+      "zh": "20"
+    },
+    "D": {
+      "en": "64",
+      "zh": "64"
+    },
+    "E": {
+      "en": "128",
+      "zh": "128"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Because the cutoff point of ≥240 mg/dL is 2 SDs from the mean, it follows that 2.5% of the observations must lie below 200 mg/dL and 2.5% above 240 mg/dL. Therefore, of 400 patients included in the analysis, 10 PATIENTS (ie. 2.5%) would have a cholesterol level ≥240 mg/dL.",
+    "zh": "由于截止点≥240 mg/dL距离均值2个标准差，因此2.5%的观察值必须低于200 mg/dL，2.5%高于240 mg/dL。因此，在纳入分析的400名患者中，10名患者（即2.5%）的胆固醇水平将≥240 mg/dL。"
+  },
+  "summary": {
+    "en": "1) Normal distribution 2) Determine the number of patients with cholesterol levels above 240 mg/dL using the properties of normal distribution and standard deviations.",
+    "zh": "1) 正态分布 2) 使用正态分布和标准差的性质确定胆固醇水平高于240 mg/dL的患者数量。"
+  },
+  "tags": "Normal distribution; Standard deviation; Cholesterol levels; Diabetes mellitus",
+  "category": "Bio",
+  "question_id": "1201",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1201",
+  "extracted_at": "2025-11-05T10:58:20.830332",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:19:27.535405",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

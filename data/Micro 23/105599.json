@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old man comes to the office due to 4 days of persistent diarrhea. He has a history of HIV and is compliant with antiretroviral therapy. The diarrhea was initially watery but has become bloody over the past day. A stool culture grows *Shigella flexneri*, which is resistant to both azithromycin and fluoroquinolones. A recent study tracking resistance patterns in Shigella species reveals rapid spread of resistance genes between different bacterial populations due to the transfer of nonchromosomal DNA between adjacent bacteria via a small hair-like appendage.",
+    "zh": "一名25岁男性因持续腹泻4天前来就诊。他有HIV病史，并依从抗逆转录病毒治疗。腹泻最初为水样便，但在过去一天变成了血便。粪便培养显示产志贺菌属（*Shigella flexneri*），对阿奇霉素和氟喹诺酮类均耐药。最近一项追踪志贺菌属耐药模式的研究显示，由于非染色体DNA通过类似毛发的附属物在相邻细菌之间转移，耐药基因在不同细菌种群之间迅速传播。"
+  },
+  "question": {
+    "en": "Which of the following best describes the process by which the bacteria responsible for this patient's infection likely developed resistance?",
+    "zh": "以下哪项最能描述导致该患者感染的细菌可能产生耐药性的过程？"
+  },
+  "options": {
+    "A": {
+      "en": "Conjugation",
+      "zh": "接合"
+    },
+    "B": {
+      "en": "Transduction",
+      "zh": "转导"
+    },
+    "C": {
+      "en": "Transformation",
+      "zh": "转化"
+    },
+    "D": {
+      "en": "Transposition",
+      "zh": "转座"
+    },
+    "E": {
+      "en": "Vertical gene transfer",
+      "zh": "垂直基因转移"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Conjugation is a form of horizontal gene transfer that involves direct cell-to-cell contact between two adjacent bacteria. It allows for the propagation of genetic elements that confer beneficial traits such as ANTIBIOTIC RESISTANCE, the ability to use new metabolites, or the ability to tolerate a difficult microenvironment. The transferred genetic element is a CONJUGATIVE PLASMID (separate from the genome) or an integrated conjugative element (present in the genome).\n\nConjugation begins when proteins encoded by the conjugative element aggregate on the plasma membrane of the donor bacteria, forming a pilus (a hair-like appendage). The pilus elongates until it attaches to an adjacent bacterium and then progressively shortens, which pulls the bacteria together. The plasmid DNA in the donor cell is then nicked and relaxed, and a single DNA strand is transferred through the mating bridge from the donor to the recipient bacterium. A complementary DNA strand is then generated in each bacterium, which completes the plasmid transfer.\n\nConjugation is a major mechanism for *Shigella* ANTIBIOTIC RESISTANCE. A single *Shigella* plasmid encodes resistance to ampicillin, chloramphenicol, tetracycline, sulfonamides, streptomycin, and trimethoprim. Other plasmids encode resistance to azithromycin and fluoroquinolones. Risk of resistant strains is greatest in patients with HIV and/or men who have sex with men, but antibiotic susceptibility testing is required for all infections due to high rates of resistance across patient populations.\n\n(Choices B and C) The two other forms of horizontal gene transfer are transduction and transformation. Transduction involves the introduction of foreign DNA into a bacterial cell by a virus or viral vector. Transformation involves the uptake of free DNA from the environment through the cell membrane. Neither involves direct contact between bacterial cells or the formation of pili.\n\n(Choice D) Transposition involves the movement of a DNA sequence from one location to another within the genome (frequently with duplication of the transposon), which often results in genetic mutations due to incorrect DNA repair and/or insertional mutagenesis.\n\n(Choice E) Vertical gene transfer is the transmission of genes from parent to offspring. This occurs in bacteria when they divide by binary fission; it does not involve pili.\n\nEducational objective: Conjugation is a form of horizontal gene transfer that involves the formation of a pilus and the direct passing of genetic material from one bacterium to another. It is a common source of antibiotic resistance and environmental adaptation. The other forms of bacterial horizontal gene transfer are transduction (viral vector) and transformation (uptake of free DNA).",
+    "zh": "接合是一种水平基因转移的形式，涉及两个相邻细菌之间的直接细胞间接触。它允许传播赋予有益性状的遗传元件，例如抗生素耐药性、利用新陈代谢物或耐受困难的微环境的能力。转移的遗传元件是接合性质粒（与基因组分开）或整合的接合元件（存在于基因组中）。\n\n接合始于接合元件编码的蛋白质聚集在供体细菌的质膜上，形成菌毛（类似毛发的附属物）。菌毛伸长直到附着在相邻的细菌上，然后逐渐缩短，从而将细菌拉到一起。供体细胞中的质粒DNA随后被切口并松弛，一条单链DNA通过交配桥从供体转移到受体细菌。然后在每个细菌中产生互补的DNA链，完成质粒转移。\n\n接合是志贺菌属抗生素耐药性的主要机制。单个志贺菌属质粒编码对氨苄青霉素、氯霉素、四环素、磺胺类药物、链霉素和甲氧苄氨嘧啶的耐药性。其他质粒编码对阿奇霉素和氟喹诺酮类的耐药性。耐药菌株的风险在HIV感染患者和/或男男性行为者中最高，但由于患者群体中高耐药率，所有感染都需要进行抗生素敏感性测试。\n\n（选项B和C）另外两种水平基因转移的形式是转导和转化。转导涉及通过病毒或病毒载体将外源DNA引入细菌细胞。转化涉及通过细胞膜从环境中摄取游离DNA。两者都不涉及细菌细胞之间的直接接触或菌毛的形成。\n\n（选项D）转座涉及DNA序列从基因组中的一个位置移动到另一个位置（通常伴随转座子的复制），这通常会导致由于DNA修复不正确和/或插入突变而引起的基因突变。\n\n（选项E）垂直基因转移是将基因从亲代传递给子代。这发生在细菌通过二分裂分裂时；它不涉及菌毛。\n\n教育目标：接合是一种水平基因转移的形式，涉及菌毛的形成以及遗传物质从一个细菌直接传递到另一个细菌。它是抗生素耐药性和环境适应的常见来源。细菌水平基因转移的其他形式是转导（病毒载体）和转化（摄取游离DNA）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of bacterial resistance mechanisms, specifically horizontal gene transfer via conjugation. Conjugation involves direct cell-to-cell contact and transfer of genetic material through a pilus, leading to antibiotic resistance.\n\nTo solve this question, identify the key phrase 'transfer of nonchromosomal DNA between adjacent bacteria via a small hair-like appendage,' which describes conjugation. Eliminate other options based on their mechanisms of gene transfer.",
+    "zh": "此问题测试对细菌耐药机制的了解，特别是通过接合的水平基因转移。接合涉及直接的细胞间接触以及通过菌毛进行的遗传物质转移，从而导致抗生素耐药性。\n\n要解决这个问题，确定关键短语“通过类似毛发的附属物在相邻细菌之间转移非染色体DNA”，它描述了接合。根据其他选项的基因转移机制来排除。"
+  },
+  "tags": "Conjugation; Horizontal gene transfer; Antibiotic resistance; Shigella; Bacterial genetics; Infectious disease; HIV",
+  "category": "Micro",
+  "question_id": "105599",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\105599",
+  "extracted_at": "2025-11-05T14:48:43.416393",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:03:58.462573",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "An 8-year-old boy is brought to the office by his mother for a routine checkup. He was diagnosed with absence seizures a year ago and was started on appropriate treatment. The mother says that the patient is doing well and that he has had no seizures since starting medical therapy. School performance has improved significantly, and he no longer gets in trouble for \"staring\" in class. The patient has a well-balanced diet and is at the 50th percentile for height and weight.",
+    "zh": "一位8岁男孩由母亲带到诊所进行常规检查。一年前他被诊断为失神发作，并开始接受适当的治疗。母亲说患者情况良好，自从开始药物治疗后就没有再发生癫痫发作。学习成绩显着提高，而且他不再因为在课堂上“发呆”而惹麻烦。患者饮食均衡，身高和体重均处于第50百分位数。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely mechanism of action of the medication used in this patient?",
+    "zh": "以下哪项是该患者所用药物最可能的作用机制？"
+  },
+  "options": {
+    "A": {
+      "en": "Binds to GABA receptors and increases the chloride current",
+      "zh": "与GABA受体结合并增加氯离子电流"
+    },
+    "B": {
+      "en": "Binds to synaptic vesicles to modulate neurotransmitter release",
+      "zh": "与突触小泡结合以调节神经递质释放"
+    },
+    "C": {
+      "en": "Decreases the calcium current in thalamic neurons",
+      "zh": "减少丘脑神经元的钙离子电流"
+    },
+    "D": {
+      "en": "Decreases the sodium current in cortical neurons",
+      "zh": "减少皮质神经元的钠离子电流"
+    },
+    "E": {
+      "en": "Increases brain beta-hydroxybutyrate acid levels",
+      "zh": "增加大脑β-羟基丁酸水平"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Ethosuximide is the first-line treatment for ABSENCE SEIZURES. This drug blocks T-type Ca2+ channels that trigger and sustain rhythmic burst discharges in THALAMIC NEURONS. It is not an effective treatment for other types of generalized or focal seizures.\n\nIf ethosuximide is not tolerated due to adverse effects (eg, nausea/vomiting, drowsiness) or if it is ineffective in suppressing seizure activity, valproic acid is used as a second-line treatment for absence epilepsy. Valproic acid is a broad-spectrum antiepileptic drug that blocks voltage-dependent Na+ channels and raises GABA concentration in the CNS.\n\n(Choice A) Benzodiazepines and barbiturates (eg, phenobarbital) bind to GABA receptors and allow increased chloride current through the ion channel. This hyperpolarizes the cell membrane, making it harder to trigger an action potential in the postsynaptic neuron.\n\n(Choice B) Levetiracetam binds to a synaptic vesicle protein (SV2A) to modulate the release of GABA and glutamate neurotransmitters.\n\n(Choice D) Phenytoin decreases the sodium current in cortical neurons by reducing the ability of Na+ channels to recover from inactivation. This increases the refractory period of the neuron, inhibiting neuronal high-frequency firing. Carbamazepine has a similar mechanism of action.\n\n(Choice E) Increasing the levels of brain beta-hydroxybutyrate (ketone bodies) is the goal of the ketogenic diet. This high-fat, low-carbohydrate diet may benefit some patients with refractory epilepsy.\n\nEducational objective:\nEthosuximide, the first-line treatment for absence seizures, prevents neuronal burst firing by blocking thalamic T-type Ca2+ channels. Phenytoin, carbamazepine and valproic acid inhibit high-frequency neuronal firing by blocking Na+ channels.",
+    "zh": "乙琥胺是治疗失神发作的一线药物。该药物阻断T型Ca2+通道，这些通道触发并维持丘脑神经元中有节律的爆发性放电。它对其他类型的全身性或局灶性癫痫无效。\n\n如果由于不良反应（如恶心/呕吐、嗜睡）而无法耐受乙琥胺，或者它在抑制癫痫发作方面无效，则使用丙戊酸作为失神癫痫的二线治疗。丙戊酸是一种广谱抗癫痫药物，可阻断电压依赖性Na+通道，并提高中枢神经系统中GABA的浓度。\n\n(选项A) 苯二氮卓类药物和巴比妥类药物（例如苯巴比妥）与GABA受体结合，并允许通过离子通道增加氯离子电流。这会使细胞膜超极化，使突触后神经元更难以触发动作电位。\n\n(选项B) 左乙拉西坦与突触小泡蛋白(SV2A)结合，以调节GABA和谷氨酸神经递质的释放。\n\n(选项D) 苯妥英通过降低Na+通道从失活中恢复的能力来减少皮质神经元的钠离子电流。这增加了神经元的难复期，抑制神经元高频放电。卡马西平具有类似的作用机制。\n\n(选项E) 增加大脑β-羟基丁酸（酮体）的水平是生酮饮食的目标。这种高脂肪、低碳水化合物饮食可能对某些难治性癫痫患者有益。\n\n教育目标：\n乙琥胺，失神发作的一线治疗，通过阻断丘脑T型Ca2+通道来阻止神经元爆发性放电。苯妥英、卡马西平和丙戊酸通过阻断Na+通道来抑制高频神经元放电。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pharmacological mechanisms of action for antiepileptic drugs, specifically those used to treat absence seizures. It requires understanding the specific targets and effects of different drug classes on neuronal excitability.\n\nTo solve this question, identify the most likely diagnosis based on the clinical vignette (absence seizures). Then, recall or deduce the first-line treatment for this condition and its corresponding mechanism of action, differentiating it from other antiepileptic drug mechanisms.",
+    "zh": "这个问题测试了对抗癫痫药物药理作用机制的知识，特别是用于治疗失神发作的药物。它需要理解不同药物类别对神经元兴奋性的具体靶点和影响。\n\n要解决这个问题，请根据临床短剧（失神发作）确定最可能的诊断。然后，回忆或推断该病症的一线治疗及其相应的作用机制，并将其与其他抗癫痫药物机制区分开来。"
+  },
+  "tags": "Absence seizures; Ethosuximide; Thalamic neurons; T-type calcium channels; Pharmacology; Neurology; Seizures",
+  "category": "Neuro",
+  "question_id": "509",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\509",
+  "extracted_at": "2025-11-05T19:28:47.406129",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:27:09.396511",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

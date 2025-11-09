@@ -1,0 +1,69 @@
+{
+  "question_stem": {
+    "en": "A new inhaled agent (drug A) is tested in an experiment designed to characterize its properties as a general anesthetic. Drug A's partial pressure in arterial blood is shown on the graph below as a function of time after beginning inhalation. A similar curve for nitrous oxide is also shown. Both drugs are administered at the same partial pressure in the inspired gas. {{exhibit_1}} {{exhibit_2}}",
+    "zh": "在一项旨在表征其作为全身麻醉剂特性的实验中，测试了一种新的吸入剂（药物A）。药物A在动脉血中的分压在下方的图表中显示，该图表显示了开始吸入后随时间的变化。图中还显示了笑气的类似曲线。两种药物均以吸入气体中相同的分压给药。{{exhibit_1}} {{exhibit_2}}"
+  },
+  "question": {
+    "en": "Which of the following best describes the properties of the new anesthetic as compared to nitrous oxide?",
+    "zh": "与笑气相比，以下哪项最能描述这种新型麻醉剂的特性？"
+  },
+  "options": {
+    "A": {
+      "en": "Fast equilibration with the brain",
+      "zh": "与大脑快速平衡"
+    },
+    "B": {
+      "en": "High blood/gas partitioning coefficient",
+      "zh": "高血/气分配系数"
+    },
+    "C": {
+      "en": "Low potency",
+      "zh": "低效价"
+    },
+    "D": {
+      "en": "Low solubility in the blood",
+      "zh": "在血液中的溶解度低"
+    },
+    "E": {
+      "en": "Rapid onset of action",
+      "zh": "快速起效"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The graph shows that the partial pressure of drug A in arterial blood rises more slowly and takes longer to reach a plateau compared to nitrous oxide. This indicates that drug A has a higher blood/gas partitioning coefficient, meaning it is more soluble in the blood. Highly soluble anesthetics dissolve more easily in the blood, thus larger amounts must be absorbed before the blood becomes saturated, leading to slower equilibration with the brain and a slower onset of action. Nitrous oxide, with its rapid rise in partial pressure, has a low blood/gas partitioning coefficient and is poorly soluble in blood, leading to faster equilibration and onset of action. Therefore, drug A has a high blood/gas partitioning coefficient compared to nitrous oxide.",
+    "zh": "该图表显示，与笑气相比，药物A在动脉血中的分压上升较慢，并且需要更长的时间才能达到平台期。这表明药物A具有更高的血/气分配系数，这意味着它在血液中的溶解度更高。高溶解度麻醉剂更容易溶解在血液中，因此必须吸收更大剂量的麻醉剂，血液才能饱和，这导致与大脑的平衡变慢，起效也变慢。笑气由于其分压迅速升高，具有较低的血/气分配系数，并且在血液中的溶解度很差，这导致平衡和起效更快。因此，与笑气相比，药物A具有较高的血/气分配系数。"
+  },
+  "summary": {
+    "en": "The question asks to compare the properties of a new anesthetic (drug A) with nitrous oxide based on their partial pressure curves in arterial blood over time. The graph shows that drug A's partial pressure rises more slowly and reaches a plateau later than nitrous oxide. This slower rise indicates that drug A is more soluble in the blood, which is quantified by a higher blood/gas partitioning coefficient. Higher solubility leads to slower equilibration with the brain and a delayed onset of action. Conversely, nitrous oxide's rapid rise indicates low solubility and fast equilibration. Therefore, drug A has a high blood/gas partitioning coefficient.",
+    "zh": "该问题要求根据新型麻醉剂（药物A）与笑气在动脉血中分压随时间变化的曲线，比较它们的特性。图表显示，药物A的分压上升较慢，且达到平台期的时间晚于笑气。这种较慢的上升表明药物A在血液中的溶解度更高，这通过较高的血/气分配系数来量化。较高的溶解度会导致与大脑的平衡变慢，起效延迟。相反，笑气的快速上升表明其溶解度低且平衡迅速。因此，药物A具有较高的血/气分配系数。"
+  },
+  "tags": [
+    "pharmacology",
+    "anesthesia",
+    "gas anesthetics",
+    "solubility",
+    "blood/gas partitioning coefficient",
+    "equilibration",
+    "onset of action"
+  ],
+  "category": "Neuro",
+  "question_id": "659",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\659",
+  "extracted_at": "2025-11-05T19:29:23.122773",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:27:54.068356",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

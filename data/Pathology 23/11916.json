@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 74-year-old woman comes to the emergency department due to 2 days of left leg pain and numbness. She has a history of atrial fibrillation and hypertension. Her left lower limb is pale and cold to palpation below the knee. Arterial Doppler ultrasound shows an occluding thrombus, and a left femoral embolectomy is performed. Post-procedure dorsalis pedis and posterior tibial pulses become palpable. Several hours later, the patient begins to experience severe left calf pain. On repeat examination, the left calf is swollen, tense, and tender, and the pain worsens with dorsiflexion of the left foot. The distal pulses are also absent. The physician suspects injury of the reperfused muscles in part due to overproduction of reactive oxygen species. Which of the following enzymes is most likely to help neutralize these toxic molecules?",
+    "zh": "一位74岁女性因左腿疼痛和麻木2天就诊于急诊科。她有房颤和高血压病史。她的左下肢在膝盖以下苍白且触诊发凉。动脉多普勒超声显示血栓阻塞，并进行了左股动脉栓塞切除术。术后，足背动脉和胫后动脉搏动变得可触及。几小时后，患者开始出现严重的左小腿疼痛。复查时，左小腿肿胀、紧张、触痛，且疼痛随着左脚背屈加剧。远端脉搏也消失。医生怀疑再灌注肌肉损伤，部分原因是活性氧过量产生。以下哪种酶最有可能帮助中和这些有毒分子？"
+  },
+  "question": {
+    "en": "Which of the following enzymes is most likely to help neutralize these toxic molecules?",
+    "zh": "以下哪种酶最有可能帮助中和这些有毒分子？"
+  },
+  "options": {
+    "A": {
+      "en": "Cytochrome oxidase",
+      "zh": "细胞色素氧化酶"
+    },
+    "B": {
+      "en": "Cytochrome P450",
+      "zh": "细胞色素P450"
+    },
+    "C": {
+      "en": "Myeloperoxidase",
+      "zh": "髓过氧化物酶"
+    },
+    "D": {
+      "en": "NADPH oxidase",
+      "zh": "NADPH氧化酶"
+    },
+    "E": {
+      "en": "Superoxide dismutase",
+      "zh": "超氧化物歧化酶"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The vignette describes acute compartment syndrome secondary to reperfusion injury. Restoration of arterial blood flow to an affected limb floods ischemic tissue with oxygen. Molecular oxygen reacts with xanthine oxidase, NADPH oxidase, and nitric oxide synthase to form reactive oxygen species (ROS) such as superoxide, hydroxyl, and singlet oxygen. ROS disrupt cellular functions leading to DNA mutations, protein synthesis disruption, and membrane lipid peroxidation.\n\nAntioxidant enzymes, such as superoxide dismutase, glutathione peroxidase, and catalase, convert ROS to oxygen and water, neutralizing their capacity for cellular damage. ROS generated during cellular respiration are typically neutralized by antioxidants before they become problematic. However, in the postischemic state, the production of ROS exceeds the neutralizing capabilities of antioxidant enzymes (high oxidative stress), leading to increased cell injury and death.\n\n(Choice A) Cytochrome oxidase is the final component of the electron transport chain and functions to convert molecular oxygen to water while establishing the proton gradient necessary for synthesis of ATP.\n\n(Choice B) Cytochrome P450 enzymes metabolize endogenous toxins as well as drugs. They are capable of producing reactive oxygen species, which can contribute to the hepatotoxicity seen with certain drugs.\n\n(Choice C) Myeloperoxidase is found in neutrophils and converts hydrogen peroxide to hypochlorous acid, a bactericidal compound that also causes oxidative damage to host cells.\n\n(Choice D) NADPH oxidase catalyzes the reduction of molecular oxygen to superoxide free radicals, aiding in bacterial destruction by phagocytic cells. Deficiency leads to chronic granulomatous disease in which those affected are unable to destroy catalase-positive organisms.\n\nEducational objective: As an antioxidant, superoxide dismutase neutralizes reactive oxygen species, preventing cell injury. In a pathologic state such as post-ischemic reperfusion, oxidative stress is high and reactive oxygen species production exceeds the neutralizing capability of antioxidants, leading to increased cell damage and death.",
+    "zh": "本题描述了继发于再灌注损伤的急性筋膜室综合征。恢复受影响肢体的动脉血流会将氧气充盈到缺血组织中。分子氧与黄嘌呤氧化酶、NADPH氧化酶和一氧化氮合酶反应，形成活性氧（ROS），如超氧化物、羟基和单线态氧。ROS破坏细胞功能，导致DNA突变、蛋白质合成中断和膜脂质过氧化。\n\n抗氧化酶，如超氧化物歧化酶、谷胱甘肽过氧化物酶和过氧化氢酶，将ROS转化为氧气和水，从而中和其对细胞的损伤能力。细胞呼吸过程中产生的ROS通常在它们变得有问题之前就被抗氧化剂中和。然而，在缺血后状态下，ROS的产生超过了抗氧化酶的中和能力（高氧化应激），导致细胞损伤和死亡增加。\n\n（选项A）细胞色素氧化酶是电子传递链的最终组分，其功能是将分子氧转化为水，同时建立合成ATP所必需的质子梯度。\n\n（选项B）细胞色素P450酶代谢内源性毒素以及药物。它们能够产生活性氧，这可能导致某些药物出现肝毒性。\n\n（选项C）髓过氧化物酶存在于中性粒细胞中，将过氧化氢转化为次氯酸，这是一种杀菌化合物，也会对宿主细胞造成氧化损伤。\n\n（选项D）NADPH氧化酶催化分子氧还原为超氧自由基，有助于吞噬细胞破坏细菌。缺乏会导致慢性肉芽肿病，受影响者无法破坏过氧化氢酶阳性生物。\n\n教学目标：作为一种抗氧化剂，超氧化物歧化酶中和活性氧，防止细胞损伤。在病理状态下，如缺血后再灌注，氧化应激较高，活性氧的产生超过了抗氧化剂的中和能力，导致细胞损伤和死亡增加。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of reactive oxygen species (ROS) production during reperfusion injury and the role of antioxidant enzymes in neutralizing these damaging molecules. It specifically assesses knowledge of the enzymes involved in mitigating oxidative stress in conditions like acute compartment syndrome following embolectomy.\n\nTo solve this question, one must first identify the pathophysiological process described (reperfusion injury leading to oxidative stress). Then, recall the mechanisms by which the body combats ROS and identify the primary enzyme responsible for neutralizing superoxide radicals, which are a major component of the initial ROS burst.",
+    "zh": "本题考察对再灌注损伤期间活性氧（ROS）产生的理解，以及抗氧化酶在中和这些损伤分子中的作用。它特别评估了对参与减轻栓塞切除术后急性筋膜室综合征等情况下氧化应激的酶的知识。\n\n要解决这个问题，首先必须确定所描述的病理生理过程（导致氧化应激的再灌注损伤）。然后，回忆身体对抗ROS的机制，并确定负责中和超氧自由基（初始ROS爆发的主要组成部分）的主要酶。"
+  },
+  "tags": "Reperfusion injury; Reactive oxygen species; Antioxidant enzymes; Superoxide dismutase; Acute compartment syndrome; Oxidative stress; Vascular surgery; Emergency medicine",
+  "category": "Pathology",
+  "question_id": "11916",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\11916",
+  "extracted_at": "2025-11-05T19:43:37.881058",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:45:21.858633",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

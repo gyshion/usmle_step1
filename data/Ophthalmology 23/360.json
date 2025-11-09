@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 64-year-old man comes to the emergency department due to painless loss of vision in the right eye. The patient's symptoms started suddenly several hours ago and have persisted. He has had no trauma or any similar episode in the past. He has a history of coronary artery disease, atrial fibrillation, and type 2 diabetes mellitus. Blood pressure is 144/86 mm Hg and pulse is 92/min. Cardiovascular examination reveals irregularly irregular rhythm with no murmurs, no peripheral edema, and slightly diminished pedal pulses in both feet symmetrically. Visual acuity in the right eye is hand motion only and normal in the left eye. Funduscopic examination of the right eye is shown in the image below. {{exhibit_1}}",
+    "zh": "一名64岁男性因右眼无痛性视力丧失前来急诊科就诊。患者的症状于数小时前突然开始，并持续存在。他过去没有外伤或任何类似的病史。他有冠状动脉疾病、心房颤动和2型糖尿病病史。血压为144/86 mm Hg，脉搏为92次/分钟。心血管检查显示心律不规则，无杂音，无周围水肿，双足对称性轻度足背动脉搏动减弱。右眼视力仅为手动，左眼正常。右眼眼底检查如下图所示。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's loss of vision?",
+    "zh": "以下哪项最可能是该患者视力丧失的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Amaurosis fugax",
+      "zh": "短暂性黑矇"
+    },
+    "B": {
+      "en": "Diabetic retinopathy",
+      "zh": "糖尿病视网膜病变"
+    },
+    "C": {
+      "en": "Pituitary adenoma",
+      "zh": "垂体腺瘤"
+    },
+    "D": {
+      "en": "Retinal artery occlusion",
+      "zh": "视网膜动脉阻塞"
+    },
+    "E": {
+      "en": "Temporal lobe stroke",
+      "zh": "颞叶卒中"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The correct answer is D. Acute and painless monocular vision loss is characteristic of CENTRAL RETINAL ARTERY OCCLUSION (CRAO). The vision loss includes the entire visual field and is often permanent. Funduscopic findings include a pale retina (due to ischemia and edema) and a \"cherry-red macula\" (the fovea and foveola are thin and have a separate blood supply from the choroid artery; the red choroid is easily visible underneath). {{exhibit_2}} The central retinal artery is a branch of the ophthalmic artery, which arises from the internal carotid artery. ATHERO-EMBOLISM and THROMBOEMBOLISM are the most common causes of CRAO. Predisposing conditions include atrial fibrillation and carotid artery stenosis. CRAO may also be caused by vasculitic diseases (eg, giant cell arteritis). (Choice A) Amaurosis fugax is a painless, transient, monocular vision loss caused by a small embolus to the ophthalmic artery. It usually does not last more than a few seconds. (Choice B) Diabetic retinopathy manifests with blurry vision, black spots, floaters, and decreased peripheral vision. Acute visual loss may occur in the setting of a complication such as vitreous hemorrhage, but this patient does not have evidence of neovascularization or hemorrhage. (Choice C) Large pituitary adenomas may compress the central part of the optic chiasm, causing bitemporal hemianopia. (Choice E) The lower division of the geniculocalcarine tract (Meyer loop), which carries impulses from the lower retina, passes through the temporal lobe. Temporal lobe infarcts involving the Meyer loop cause contralateral upper quadrantanopsia (\"pie in the sky\" visual defect).",
+    "zh": "正确答案是D。急性且无痛的单眼视力丧失是中央视网膜动脉阻塞(CRAO)的特征。视力丧失包括整个视野，并且通常是永久性的。眼底检查结果包括视网膜苍白（由于缺血和水肿）和“樱桃红斑”（中央凹和中央小凹很薄，并且有来自脉络膜动脉的独立血液供应；红色脉络膜很容易在下方看到）。{{exhibit_2}}中央视网膜动脉是眼动脉的分支，眼动脉起自颈内动脉。动脉粥样硬化栓塞和血栓栓塞是CRAO最常见的原因。易感因素包括心房颤动和颈动脉狭窄。CRAO也可能由血管炎性疾病（如巨细胞性动脉炎）引起。(选项A)短暂性黑矇是由小栓子阻塞眼动脉引起的无痛、短暂的单眼视力丧失。它通常不会持续超过几秒钟。(选项B)糖尿病视网膜病变的表现为视力模糊、黑点、飞蚊症和周围视力下降。在玻璃体出血等并发症的情况下，可能发生急性视力丧失，但该患者没有新生血管形成或出血的证据。(选项C)大型垂体腺瘤可能会压迫视交叉的中央部分，导致双颞侧偏盲。(选项E)携带有来自下视网膜的冲动的膝状体-距状束（Meyer环）的下部通过颞叶。涉及Meyer环的颞叶梗死会引起对侧上象限偏盲（“天空中的馅饼”视野缺损）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the clinical presentation and funduscopic findings of central retinal artery occlusion (CRAO) and its differentiation from other causes of acute vision loss. It requires knowledge of the pathophysiology of vascular occlusive events affecting the eye.\n\nThe approach to solving this question involves carefully analyzing the patient's symptoms (sudden, painless, monocular vision loss), medical history (risk factors for vascular disease), and physical examination findings, particularly the funduscopic examination. Comparing these findings with the typical presentations of the given differential diagnoses is crucial for identifying the most likely cause.",
+    "zh": "本题测试对中央视网膜动脉阻塞(CRAO)的临床表现和眼底检查结果的理解，以及将其与其他急性视力丧失原因区分开来。这需要了解影响眼睛的血管阻塞事件的病理生理学。\n\n解决此问题的方法涉及仔细分析患者的症状（突发、无痛、单眼视力丧失）、病史（血管疾病的危险因素）和体格检查结果，特别是眼底检查。将这些发现与给定鉴别诊断的典型表现进行比较，对于确定最可能的原因至关重要。"
+  },
+  "tags": "Central retinal artery occlusion; Funduscopic examination; Cherry-red macula; Pale retina; Atheroembolism; Thromboembolism; Amaurosis fugax; Diabetic retinopathy; Pituitary adenoma; Temporal lobe stroke; Ophthalmology; Neurology; Cardiology",
+  "category": "Ophthalmology",
+  "question_id": "360",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ophthalmology 23\\360",
+  "extracted_at": "2025-11-05T19:43:15.484362",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:44:48.138606",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

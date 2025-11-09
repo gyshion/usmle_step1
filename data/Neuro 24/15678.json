@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 26-year-old man is brought to the emergency department after a high-speed motorcycle collision. The patient was thrown several feet after his motorcycle collided with a car. On arrival, he is profoundly comatose. A CT scan of the head performed within an hour of the event shows no abnormalities. The patient dies several hours later, and autopsy examination is performed. Brain histopathology shows widespread axonal swelling, predominantly at the {{exhibit_1}} junction. Immunohistochemical staining of these axons reveals accumulation of alpha-synuclein and amyloid precursor proteins. Which of the following is the most likely cause of these observed findings?",
+    "zh": "一名26岁男性在高速摩托车碰撞后被送往急诊科。患者的摩托车与一辆汽车相撞后被甩出数英尺。到达时，他处于深度昏迷状态。事件发生一小时内进行的头部CT扫描未见异常。患者数小时后死亡，并进行尸检。脑组织病理学显示广泛的轴突肿胀，主要位于{{exhibit_1}}交界处。对这些轴突的免疫组织化学染色显示α-突触核蛋白和淀粉样前体蛋白的积聚。以下哪项最可能是这些观察结果的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of these observed findings?",
+    "zh": "以下哪项最可能是这些观察结果的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Diffuse cerebral hypoperfusion",
+      "zh": "弥漫性脑低灌注"
+    },
+    "B": {
+      "en": "Disruption of the bridging cortical veins",
+      "zh": "皮质桥静脉破裂"
+    },
+    "C": {
+      "en": "Glutamate-mediated neuronal injury",
+      "zh": "谷氨酸介导的神经元损伤"
+    },
+    "D": {
+      "en": "Interruption of the white matter tracts",
+      "zh": "白质束中断"
+    },
+    "E": {
+      "en": "Secondary microvascular spasm",
+      "zh": "继发性微血管痉挛"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The patient's presentation of profound coma after a high-speed motorcycle collision, followed by the autopsy findings of widespread axonal swelling predominantly at the gray-white matter junction with accumulation of alpha-synuclein and amyloid precursor proteins, is characteristic of diffuse axonal injury (DAI). DAI is a type of severe traumatic brain injury that results from the shearing forces that disrupt the white matter tracts. The CT scan showing no abnormalities is typical in the early stages of DAI, as macroscopic changes may not be evident. Microscopic examination, however, reveals the widespread axonal swelling. The accumulation of alpha-synuclein and amyloid precursor proteins within the axonal swellings is a hallmark of DAI. Therefore, interruption of the white matter tracts is the most likely cause of these observed findings.",
+    "zh": "患者在高速摩托车碰撞后出现深度昏迷，随后尸检结果显示广泛的轴突肿胀，主要位于灰质-白质交界处，伴有α-突触核蛋白和淀粉样前体蛋白的积聚，这都是弥漫性轴索损伤（DAI）的特征。DAI是一种严重的创伤性脑损伤，由剪切力引起，这些剪切力会破坏白质束。CT扫描未见异常在DAI早期很常见，因为宏观变化可能不明显。然而，显微镜检查显示广泛的轴突肿胀。轴突肿胀内α-突触核蛋白和淀粉样前体蛋白的积聚是DAI的标志。因此，白质束中断是最可能导致这些观察结果的原因。"
+  },
+  "summary": {
+    "en": "A comatose patient with no initial CT findings dies hours later. Autopsy reveals widespread axonal swelling at the gray-white matter junction with accumulation of alpha-synuclein and amyloid precursor proteins, consistent with diffuse axonal injury (DAI) caused by disruption of white matter tracts.",
+    "zh": "一名最初CT检查无异常的昏迷患者数小时后死亡。尸检显示灰质-白质交界处广泛的轴突肿胀，伴有α-突触核蛋白和淀粉样前体蛋白的积聚，这与由白质束中断引起的弥漫性轴索损伤（DAI）一致。"
+  },
+  "tags": [
+    "neurology",
+    "trauma",
+    "diffuse axonal injury",
+    "histopathology",
+    "brain injury"
+  ],
+  "category": "Neuro",
+  "question_id": "15678",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\15678",
+  "extracted_at": "2025-11-05T19:35:07.023891",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:34:57.521406",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

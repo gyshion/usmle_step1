@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "An 8-year-old boy is brought to the office for rapid and irregular movements of his hands for one week. His parents say that he is also making unintentional \"funny faces\" and has trouble controlling the volume of his voice. His temperature is 38.9 C (102 F). On physical examination, the boy moves his hands frequently and erratically. He has a new III/VI systolic murmur and several circular, faintly erythematous lesions on his abdomen. {{exhibit_1}}",
+    "zh": "一名8岁男孩因双手快速而不规则的运动一周被带到诊所。他的父母说，他还在做无意的“鬼脸”，并且难以控制他的音量。他的体温为38.9°C（102°F）。体格检查显示，男孩经常且不规律地移动他的手。他有一个新的III/VI级收缩期杂音，并且腹部有几个圆形、略带红斑的病灶。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely mechanism for this patient's condition?",
+    "zh": "以下哪项最可能是该患者病情的机制？"
+  },
+  "options": {
+    "A": {
+      "en": "Nonspecific T cell receptor activation",
+      "zh": "非特异性T细胞受体激活"
+    },
+    "B": {
+      "en": "Cross-reactivity of antibodies against bacterial and host antigens",
+      "zh": "针对细菌和宿主抗原的抗体交叉反应"
+    },
+    "C": {
+      "en": "Embolization of an infected thrombus",
+      "zh": "感染性血栓栓塞"
+    },
+    "D": {
+      "en": "Injury from immune complex deposition",
+      "zh": "免疫复合物沉积引起的损伤"
+    },
+    "E": {
+      "en": "Release of an erythrogenic toxin",
+      "zh": "红疹毒素的释放"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has acute rheumatic fever, an immune-mediated disease following an untreated group A streptococcal (GAS) infection. Antibodies against GAS cross-react with host tissues due to molecular mimicry between GAS antigens and cardiac and central nervous system antigens. Specifically, antibodies directed against GAS antigens, M protein and N-acetyl-beta-D-glucosamine, subsequently attack myosin, a cardiac protein, and lysoganglioside, a neuronal surface protein.\n\nThe major manifestations of acute rheumatic fever include arthritis, pancarditis, Sydenham chorea, erythema marginatum, and subcutaneous nodules. This patient's murmur is likely due to mitral regurgitation from pancarditis. Sydenham chorea presents with non-rhythmic movements of the hands, feet, and face. Patients often have sudden changes in voice pitch and volume. Erythema marginatum presents as faintly erythematous, circular lesions with central clearing that come and go on the trunk and extremities.\n\n(Choice A) Superantigens cause a tremendous release of cytokines through nonspecific T cell receptor activation, leading to acute fever, hypotension, and erythroderma. This is the mechanism of action of the toxic shock syndrome exotoxins produced by both Staphylococcus aureus and Streptococcus pyogenes.\n\n(Choice C) An embolic stroke from infective endocarditis can present with fever, a new-onset murmur, and focal neurologic deficits. In addition, Janeway lesions, Osler nodes, and Roth spots are specific findings of infectious endocarditis. The most common pathogens are S aureus, viridans group streptococci, and enterococci.\n\n(Choice D) The deposition of streptococcal antigen immune complexes in glomeruli causes post-streptococcal glomerulonephritis, a type III hypersensitivity reaction. Patients have microscopic or gross hematuria, edema, hypertension, and proteinuria.\n\n(Choice E) Scarlet fever is caused by the body's response to an erythrogenic (pyrogenic) toxin released by group A Streptococcus. It presents with a diffuse, erythematous, \"sandpaper\"-textured rash most notable in the skin folds (eg, inguinal, axillary, antecubital areas). Scarlet fever can occur with pharyngitis and can lead to acute rheumatic fever if untreated. {{exhibit_2}}",
+    "zh": "该患者患有急性风湿热，这是一种继发于未经治疗的A组链球菌（GAS）感染的免疫介导性疾病。针对GAS的抗体由于GAS抗原与心脏和中枢神经系统抗原之间的分子模拟而与宿主组织发生交叉反应。具体而言，针对GAS抗原、M蛋白和N-乙酰-β-D-葡糖胺的抗体随后会攻击心肌蛋白肌球蛋白和神经元表面蛋白溶血神经节苷脂。\n\n急性风湿热的主要表现包括关节炎、全心炎、Sydenham舞蹈病、环形红斑和皮下结节。该患者的杂音很可能由全心炎引起的二尖瓣反流所致。Sydenham舞蹈病表现为手、脚和面部的非节律性运动。患者经常突然改变音调和音量。环形红斑表现为躯干和四肢上出现和消失的略带红斑的圆形病灶，中央有清除区。\n\n（选项A）超抗原通过非特异性T细胞受体激活引起细胞因子的大量释放，导致急性发热、低血压和红皮病。这是由金黄色葡萄球菌和化脓性链球菌产生的毒性休克综合征外毒素的作用机制。\n\n（选项C）感染性心内膜炎引起的栓塞性卒中可表现为发热、新发杂音和局灶性神经功能缺损。此外，Janeway病变、Osler结节和Roth斑是感染性心内膜炎的特异性发现。最常见的病原体是金黄色葡萄球菌、草绿色链球菌和肠球菌。\n\n（选项D）链球菌抗原免疫复合物在肾小球中的沉积引起链球菌感染后肾小球肾炎，这是一种III型超敏反应。患者有镜下或肉眼血尿、水肿、高血压和蛋白尿。\n\n（选项E）猩红热是由机体对A组链球菌释放的红疹（致热）毒素的反应引起的。它表现为弥漫性、红斑性、“砂纸”样纹理的皮疹，最常见于皮肤褶皱处（例如腹股沟、腋窝、肘前区）。猩红热可与咽炎同时发生，如果不治疗，可导致急性风湿热。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of acute rheumatic fever, specifically the mechanism of molecular mimicry leading to cross-reactivity of antibodies. It also tests the ability to recognize the clinical manifestations of acute rheumatic fever, including Sydenham chorea, carditis, and erythema marginatum.\n\nTo solve this question, recognize the constellation of symptoms (chorea, murmur, skin lesions) as suggestive of acute rheumatic fever. Recall that acute rheumatic fever is caused by cross-reactivity of antibodies against streptococcal antigens with host tissues, leading to inflammation and damage.",
+    "zh": "此题考察对急性风湿热的病理生理学的理解，特别是分子模拟机制导致抗体的交叉反应。它还考察识别急性风湿热的临床表现的能力，包括Sydenham舞蹈病、心炎和环形红斑。\n\n要解决这个问题，需要认识到这些症状（舞蹈病、杂音、皮肤病变）提示急性风湿热。回想一下，急性风湿热是由抗链球菌抗原的抗体与宿主组织的交叉反应引起的，导致炎症和损伤。"
+  },
+  "tags": "Acute rheumatic fever; Molecular mimicry; Group A Streptococcus; Sydenham chorea; Carditis; Erythema marginatum; Immunology; Autoimmune disease",
+  "category": "Micro",
+  "question_id": "724",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\724",
+  "extracted_at": "2025-11-05T15:05:24.293451",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:13:10.386127",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

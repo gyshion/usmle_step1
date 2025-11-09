@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old man with multiple injuries sustained in a motorcycle accident develops osteomyelitis while in the hospital. The organism is identified as methicillin-sensitive Staphylococcus aureus, and antibiotics are started.",
+    "zh": "一名25岁男性，因摩托车事故导致多处受伤，在住院期间发生骨髓炎。 病原体鉴定为甲氧西林敏感的金黄色葡萄球菌，已开始使用抗生素。"
+  },
+  "question": {
+    "en": "Which of the following is the most important measure to reduce the risk of transmission to other patients?",
+    "zh": "以下哪项是降低传染给其他患者风险的最重要措施？"
+  },
+  "options": {
+    "A": {
+      "en": "Contact precautions",
+      "zh": "接触隔离措施"
+    },
+    "B": {
+      "en": "Hand hygiene",
+      "zh": "手卫生"
+    },
+    "C": {
+      "en": "Isolation precautions",
+      "zh": "隔离预防措施"
+    },
+    "D": {
+      "en": "Masks",
+      "zh": "口罩"
+    },
+    "E": {
+      "en": "Restricting visitors",
+      "zh": "限制访客"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Hand hygiene by health care workers is the single most important measure to reduce the risk of transmission of microorganisms between patients. It includes handwashing with soap and water or using alcohol-based hand sanitizers that do not require water. Proper handwashing technique involves washing all surfaces of the hands and fingers with soap and water for at least 15 seconds, drying with a disposable towel, and using the towel to turn off the faucet. Alcohol-based hand sanitizer should cover all surfaces of the hands and fingers and be allowed to dry. The World Health Organization recommends handwashing before and after touching a patient, before aseptic procedures, and after contact with body fluids or patient surroundings.\n\n(Choice A) Contact precautions involve wearing nonsterile gloves for all patient contact and gowns during substantial contact with infective material. These precautions are indicated when caring for patients with specific multidrug-resistant bacteria (eg, methicillin-resistant Staphylococcus aureus, vancomycin-resistant enterococci) or with certain parasitic or viral pathogens. This patient's methicillin-sensitive Staphylococcus aureus infection does not require use of contact precautions.\n\n(Choice C) Isolation precautions are indicated in the care of patients with infectious airborne diseases (eg, tuberculosis) and involve a private airborne infection isolation room with negative air pressure, closed doors, and the use of specialized particulate respirator masks.\n\n(Choice D) Facemasks are used as a barrier for respiratory secretions and are not a substitute for hand-washing.\n\n(Choice E) Restricting visitors is unnecessary, although all visitors should wash their hands before and after contact with the patient.\n\nEducational objective:\nHand hygiene is the single most important measure to reduce the risk of transmission of hospital-acquired infections.",
+    "zh": "医护人员的手卫生是降低患者之间微生物传播风险的最重要措施。它包括用肥皂和水洗手或使用无需水的含酒精洗手液。 适当的洗手技术包括用肥皂和水清洗手和手指的所有表面，至少15秒钟，用一次性毛巾擦干，并用毛巾关掉水龙头。 含酒精洗手液应覆盖手和手指的所有表面，并使其干燥。 世界卫生组织建议在接触患者前后、无菌操作前以及接触体液或患者周围环境后洗手。\n\n(选项A) 接触隔离措施包括在与所有患者接触时戴上非无菌手套，并在与感染物质大量接触时穿上防护服。当护理患有特定多药耐药细菌（例如，耐甲氧西林金黄色葡萄球菌、耐万古霉素肠球菌）或某些寄生虫或病毒病原体的患者时，应采取这些预防措施。该患者的甲氧西林敏感的金黄色葡萄球菌感染不需要使用接触隔离措施。\n\n(选项C) 隔离预防措施适用于护理患有传染性空气传播疾病（例如，肺结核）的患者，包括使用具有负压的私人空气传播感染隔离室、关门和使用专用颗粒呼吸器面罩。\n\n(选项D) 口罩用作呼吸道分泌物的屏障，不能替代洗手。\n\n(选项E) 限制访客是不必要的，尽管所有访客都应在与患者接触前后洗手。\n\n教育目标：\n手卫生是降低医院获得性感染传播风险的最重要措施。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of infection control practices, specifically the most effective method for preventing the spread of hospital-acquired infections. It emphasizes the importance of hand hygiene in healthcare settings.\n\nThe best approach is to identify the most universally applicable and effective measure for preventing transmission of microorganisms. Consider the specific scenario and the type of infection to determine if additional precautions are necessary, but prioritize the foundational practice of hand hygiene.",
+    "zh": "此题考察对感染控制措施的了解，特别是预防医院获得性感染传播的最有效方法。 它强调了手卫生在医疗保健环境中的重要性。\n\n最好的方法是确定预防微生物传播的最普遍适用和有效的措施。 考虑具体情况和感染类型，以确定是否需要额外的预防措施，但优先考虑手卫生的基本做法。"
+  },
+  "tags": "Infection control; Hand hygiene; Staphylococcus aureus; Osteomyelitis; Hospital-acquired infections; Healthcare-associated infections; Contact precautions; Isolation precautions; Transmission prevention; Public health",
+  "category": "Micro",
+  "question_id": "11514",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\11514",
+  "extracted_at": "2025-11-05T14:50:35.750855",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:05:37.756973",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

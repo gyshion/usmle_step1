@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "Researchers develop a novel agent to treat extrinsic asthma. In a clinical trial, patients with moderate to severe asthma treated with this medication experience fewer exacerbations. They are also found to have lower levels of serum IgE, even after exposure to triggering allergens. Analysis of genomic DNA shows reduced IgE isotype switching in activated B lymphocytes. The new medication most likely inhibits which of the following cytokines? {{exhibit_1}}",
+    "zh": "研究人员开发了一种治疗外源性哮喘的新型药物。在临床试验中，接受这种药物治疗的中度至重度哮喘患者的病情恶化次数减少。他们也被发现即使在接触触发过敏原后，血清 IgE 水平也较低。基因组 DNA 分析显示，活化的 B 淋巴细胞中 IgE 同型转换减少。这种新药最有可能抑制以下哪种细胞因子？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "The new medication most likely inhibits which of the following cytokines?",
+    "zh": "这种新药最有可能抑制以下哪种细胞因子？"
+  },
+  "options": {
+    "A": {
+      "en": "IL-1",
+      "zh": "白细胞介素-1（IL-1）"
+    },
+    "B": {
+      "en": "IL-3",
+      "zh": "白细胞介素-3（IL-3）"
+    },
+    "C": {
+      "en": "IL-4",
+      "zh": "白细胞介素-4（IL-4）"
+    },
+    "D": {
+      "en": "IL-5",
+      "zh": "白细胞介素-5（IL-5）"
+    },
+    "E": {
+      "en": "Interferon-gamma",
+      "zh": "干扰素-γ（IFN-γ）"
+    },
+    "F": {
+      "en": "Transforming growth factor-beta",
+      "zh": "转化生长因子-β（TGF-β）"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "There are 2 classes of CD4+ T-helper cells, Th1 cells and Th2 cells. Th1 cells contribute to cell-mediated adaptive immunity (targeting intracellular pathogens) and type IV (delayed-type) hypersensitivity reactions. On the other hand, Th2 cells play a prominent role in allergic response and type I hypersensitivity reactions.\n\nOne hypothesis for the pathogenesis of asthma is an excess of Th2 cell activity relative to Th1 cell activity, resulting in excessive IgE production, an abnormal propensity for type I hypersensitivity reactions, and associated chronic eosinophilic bronchitis. In the asthma sensitization phase, inhaled antigens stimulate Th2 cells to secrete IL-4 and other lymphokines to stimulate B-cell antibody production as part of humoral adaptive immunity. Th2 cells also release IL-13, which, together with IL-4, promotes B-cell immunoglobulin class switching to IgE and leads to mast cell priming.\n\nRepeat exposure to inhaled antigens leads to mast cell degranulation of inflammatory substances (eg, histamine, leukotrienes) and further activation of eosinophils with release of tissue-damaging substances (eg, major basic protein).\n\n(Choice A) IL-1 is predominantly involved in the Th1 response and stimulates fever and acute inflammation. It also induces lymphokine secretion to recruit other leukocytes, including lymphocytes.\n\n(Choice B) IL-3 is secreted by both Th1 and Th2 cells and promotes the growth and differentiation of bone marrow stem cells.\n\n(Choice D) IL-5 is secreted by activated Th2 cells and stimulates the growth and differentiation of eosinophils. However, IL-5 promotes the class switching of B-cell immunoglobulin synthesis to IgA rather than to IgE.\n\n(Choice E) Interferon-gamma secreted by Th1 cells activates macrophages and, along with IL-2, stimulates CD8+ cytotoxic T cells. It also inhibits the differentiation of Th2 cells.\n\n(Choice F) Transforming growth factor-beta (TGF-β) is involved in tissue regeneration and repair. It can be produced by T lymphocytes, platelets, macrophages, endothelial cells, smooth muscle cells, fibroblasts, and keratinocytes.\n\nEducational objective:\nAn excess of Th2 cell activity relative to Th1 cell activity may underlie the pathogenesis of asthma. In the asthma sensitization phase, inhaled antigens stimulate Th2 cells to secrete IL-4 and IL-13, which together promote B-lymphocyte class switching for IgE synthesis, leading to mast cell priming. Th2 cells also secrete IL-5, which activates eosinophils.",
+    "zh": "有 2 类 CD4+ 辅助 T 细胞，即 Th1 细胞和 Th2 细胞。Th1 细胞有助于细胞介导的适应性免疫（靶向细胞内病原体）和 IV 型（迟发型）超敏反应。另一方面，Th2 细胞在过敏反应和 I 型超敏反应中起重要作用。\n\n关于哮喘发病机制的一个假设是，Th2 细胞活性相对于 Th1 细胞活性过高，导致 IgE 过量产生、I 型超敏反应的异常倾向以及相关的慢性嗜酸性粒细胞性支气管炎。在哮喘致敏阶段，吸入的抗原刺激 Th2 细胞分泌 IL-4 和其他淋巴因子，以刺激 B 细胞抗体产生，作为体液适应性免疫的一部分。Th2 细胞还会释放 IL-13，IL-13 与 IL-4 一起促进 B 细胞免疫球蛋白类别转换至 IgE，并导致肥大细胞活化。\n\n反复接触吸入的抗原会导致肥大细胞脱颗粒，释放炎症物质（例如，组胺、白三烯），并进一步激活嗜酸性粒细胞，释放组织损伤物质（例如，主要碱性蛋白）。\n\n（选项 A）IL-1 主要参与 Th1 反应，并刺激发烧和急性炎症。它还会诱导淋巴因子分泌，以募集其他白细胞，包括淋巴细胞。\n\n（选项 B）IL-3 由 Th1 细胞和 Th2 细胞分泌，并促进骨髓干细胞的生长和分化。\n\n（选项 D）IL-5 由活化的 Th2 细胞分泌，并刺激嗜酸性粒细胞的生长和分化。但是，IL-5 促进 B 细胞免疫球蛋白合成的类别转换为 IgA，而不是 IgE。\n\n（选项 E）Th1 细胞分泌的干扰素-γ 激活巨噬细胞，并与 IL-2 一起刺激 CD8+ 细胞毒性 T 细胞。它还抑制 Th2 细胞的分化。\n\n（选项 F）转化生长因子-β (TGF-β) 参与组织再生和修复。它可由 T 淋巴细胞、血小板、巨噬细胞、内皮细胞、平滑肌细胞、成纤维细胞和角质形成细胞产生。\n\n教育目标：\nTh2 细胞活性相对于 Th1 细胞活性过高可能构成哮喘发病机制的基础。在哮喘致敏阶段，吸入的抗原刺激 Th2 细胞分泌 IL-4 和 IL-13，它们共同促进 B 淋巴细胞类别转换为 IgE 合成，从而导致肥大细胞活化。Th2 细胞还会分泌 IL-5，它激活嗜酸性粒细胞。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of asthma, specifically the role of Th2 cells and cytokines like IL-4 in IgE production and allergic responses. Understanding the mechanism of action of medications targeting these cytokines is also assessed.\n\nThe key to solving this question is recognizing that the medication reduces IgE levels and isotype switching. Since IL-4 is a major cytokine involved in stimulating IgE production by B cells, inhibiting IL-4 would be the most likely mechanism of action.",
+    "zh": "这个问题考察了对哮喘病理生理学的了解，特别是 Th2 细胞和细胞因子（如 IL-4）在 IgE 产生和过敏反应中的作用。同时也评估了对靶向这些细胞因子的药物作用机制的理解。\n\n解决这个问题的关键是认识到该药物降低了 IgE 水平并抑制了同型转换。由于 IL-4 是参与刺激 B 细胞产生 IgE 的主要细胞因子，因此抑制 IL-4 可能是最有可能的作用机制。"
+  },
+  "tags": "Asthma; Extrinsic asthma; IgE; IL-4; Th2 cells; Cytokines; Allergy; Immunology; B lymphocytes; Isotype switching",
+  "category": "Chest",
+  "question_id": "526",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\526",
+  "extracted_at": "2025-11-05T11:45:56.154299",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:40:29.875487",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

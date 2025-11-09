@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": " Researchers is shown in the graph below {{exhibit_1}}.\n\nThe equilibrium potentials of different ions under physiologic conditions are as follows:\n\nEna = +60 mV\nEk = -90 mV\nECl = -75 mV\nECa = +125 mV",
+    "zh": "研究人员在下图{{exhibit_1}}中显示。\n\n不同离子在生理条件下的平衡电位如下：\n\nEna = +60 mV\nEk = -90 mV\nECl = -75 mV\nECa = +125 mV"
+  },
+  "question": {
+    "en": "Which of the following options would best explain the changes in this neuron's membrane potential during the experiment?",
+    "zh": "以下哪项最能解释该神经元在实验期间的膜电位变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Sodium; Calcium; Chloride",
+      "zh": "钠；钙；氯"
+    },
+    "B": {
+      "en": "Sodium; Calcium; Potassium",
+      "zh": "钠；钙；钾"
+    },
+    "C": {
+      "en": "Potassium; Calcium; Sodium",
+      "zh": "钾；钙；钠"
+    },
+    "D": {
+      "en": "Potassium; Sodium; Calcium",
+      "zh": "钾；钠；钙"
+    },
+    "E": {
+      "en": "Potassium; Sodium; Chloride",
+      "zh": "钾；钠；氯"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Equilibrium potentials of cellular ions reflect how they affect the membrane potential if the membrane were permeable solely for that ion. The resting membrane potential shown in the graph is negative, indicating that at rest, the membrane is permeable to an ion with a negative equilibrium potential (potassium or chloride).\n\nOpening of Ligand-gated ion channels in response to neurotransmitter binding (black arrow) causes an increase in membrane potential to above zero. This indicates that the membrane has become permeable for an ion with a positive equilibrium potential (sodium or calcium). Opening of voltage-gated ion channels in response to the change in membrane potential (red arrow) causes a drop in membrane potential, indicating that the membrane becomes permeable to an ion with a negative equilibrium potential (potassium or chloride).\n\n(Choices A and B) If the membrane were permeable for sodium at rest, the resting membrane potential would be positive as the equilibrium potential of sodium is +60 mV.\n\n(Choices C and D) Had the membrane become more permeable for calcium or sodium following the opening of the voltage-gated ion channels, the membrane potential would have remained positive as both ions have positive equilibrium potentials.",
+    "zh": "细胞离子的平衡电位反映了如果细胞膜仅对该离子具有通透性，它们将如何影响膜电位。图中显示的静息膜电位为负值，表明在静息状态下，细胞膜对具有负平衡电位的离子（钾或氯）具有通透性。\n\n配体门控离子通道响应神经递质结合（黑色箭头）而开放，导致膜电位增加到零以上。这表明细胞膜对具有正平衡电位的离子（钠或钙）变得具有通透性。电压门控离子通道响应膜电位的变化（红色箭头）而开放，导致膜电位下降，表明细胞膜对具有负平衡电位的离子（钾或氯）变得具有通透性。\n\n（选项 A 和 B）如果细胞膜在静息状态下对钠具有通透性，则静息膜电位将为正值，因为钠的平衡电位为 +60 mV。\n\n（选项 C 和 D）如果细胞膜在电压门控离子通道开放后对钙或钠变得更具通透性，则膜电位将保持为正值，因为这两种离子的平衡电位均为正值。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of how changes in neuronal membrane permeability to various ions affect the membrane potential, based on their equilibrium potentials. The key to solving this question is to analyze the graph of membrane potential changes and relate them to the equilibrium potentials of sodium, potassium, calcium, and chloride, considering the sequence of ion channel openings.",
+    "zh": "本题考察对神经元膜对各种离子通透性的变化如何影响膜电位的理解，基于它们的平衡电位。解决此题的关键是分析膜电位变化图，并将它们与钠、钾、钙和氯的平衡电位联系起来，同时考虑离子通道开放的顺序。"
+  },
+  "tags": "Membrane potential; Ion channels; Equilibrium potential; Neurotransmitter; Neuronal permeability",
+  "category": "Neuro",
+  "question_id": "2007",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\2007",
+  "extracted_at": "2025-11-05T15:32:09.329449",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:24:24.787095",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

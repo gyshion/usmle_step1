@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 10-year-old boy is brought to clinic for evaluation of excessive sunburns. The patient has recently been spending more time outside due to school sports. He applies sunscreen before going outside, but often forgets to reapply it during prolonged outdoor periods. He states that he sunburns easily and has never been able to suntan like his peers. The patient has otherwise been healthy. Temperature is 37.1 C (98.8 F), blood pressure is 110/70 mm Hg, pulse is 90/min, and respirations are 20/min. Examination of exposed surfaces of the skin shows patches of tender, erythematous skin without blistering, findings consistent with a sunburn. The remainder of the skin is milky white without bruises, rashes, or freckling. The hair is diffusely white. Examination of the eyes shows sensitivity to light.",
+    "zh": "一名10岁男孩因过度晒伤到诊所就诊。患者最近由于参加学校体育活动而增加了户外活动时间。他在外出前涂抹了防晒霜，但经常忘记在长时间的户外活动期间重新涂抹。他表示自己很容易晒伤，而且从未像同龄人一样能够晒黑。患者其他方面都很健康。体温为37.1°C (98.8°F)，血压为110/70 mmHg，脉搏为90次/分钟，呼吸频率为20次/分钟。检查皮肤暴露部位，显示出触痛、红斑性皮肤斑块，无水疱，这些发现与晒伤一致。其余皮肤呈乳白色，无瘀伤、皮疹或雀斑。头发呈弥漫性白色。眼部检查显示对光敏感。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely mechanism underlying this patient's skin condition?",
+    "zh": "以下哪项最可能是该患者皮肤状况的潜在机制？"
+  },
+  "options": {
+    "A": {
+      "en": "CD8+ lymphocyte–mediated melanocyte apoptosis",
+      "zh": "CD8+ 淋巴细胞介导的黑素细胞凋亡"
+    },
+    "B": {
+      "en": "Decreased number of premelanosomes",
+      "zh": "前黑素体数量减少"
+    },
+    "C": {
+      "en": "Disrupted keratinocyte melanin uptake",
+      "zh": "角质形成细胞黑素摄取受损"
+    },
+    "D": {
+      "en": "Impaired melanin synthesis in melanosomes",
+      "zh": "黑素体中黑素合成受损"
+    },
+    "E": {
+      "en": "Reduced differentiation of neural crest cells into melanocytes",
+      "zh": "神经嵴细胞分化为黑素细胞减少"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with diffuse lack of pigmentation and light sensitivity likely has oculocutaneous albinism (OCA), a condition characterized by impaired production or distribution of melanin, particularly eumelanin. Isolated OCA is most often caused by autosomal recessive mutations causing dysfunctional MELANIN SYNTHESIS within melanosomes (most commonly tyrosinase or P protein [regulates melanosome pH]), resulting in low or often completely absent melanin production. {{exhibit_1}}\n\nCharacteristic findings of OCA include diffuse white hair and skin and light irides. PHOTOPHOBIA is common because translucent irides allow in excess light. Because eumelanin protects against ultraviolet damage, patients with OCA are predisposed to SUNBURNS, as in this boy. Patients are also at increased risk for skin cancer, particularly squamous cell carcinoma.\n\n(Choice A) The pathogenesis of vitiligo is multifactorial but likely involves CD8+ lymphocyte–mediated melanocyte apoptosis. Patches of depigmentation are characteristic; although the patches can coalesce to cause universal depigmentation, the process is gradual, chronic, and highly unlikely by age 10.\n\n(Choice B) Formation of premelanosomes occurs normally in OCA. Melanized melanosome numbers may be decreased, which is secondary to reduced melanin production and not the primary mechanism of pigmentation defects in OCA.\n\n(Choice C) Uptake of melanin by keratinocytes is disrupted in Chédiak-Higashi syndrome due to a defect in organelle trafficking. Patients have OCA, but recurrent pyogenic infections and coagulopathy would also be expected in early childhood.\n\n(Choice E) Impaired differentiation of neural crest cells into melanocytes is a rare cause of scattered areas of depigmentation in piebaldism and Waardenburg syndrome. A white forelock is characteristic but is not seen in this patient. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "该患者弥漫性色素缺乏和光敏感，可能患有眼皮肤白化病 (OCA)，这是一种以黑素（尤其是真黑素）产生或分布受损为特征的疾病。孤立性 OCA 最常由常染色体隐性突变引起，导致黑素体内的黑素合成功能障碍（最常见的是酪氨酸酶或 P 蛋白 [调节黑素体 pH 值]），导致黑素产生量低或完全缺失。 {{exhibit_1}}\n\nOCA 的特征性表现包括弥漫性白发、皮肤苍白和虹膜颜色浅淡。畏光很常见，因为半透明的虹膜会允许过多的光线进入。由于真黑素可以防止紫外线损伤，因此 OCA 患者容易发生晒伤，就像这个男孩一样。患者患皮肤癌的风险也会增加，尤其是鳞状细胞癌。\n\n(选项 A) 白癜风的发病机制是多因素的，但可能涉及 CD8+ 淋巴细胞介导的黑素细胞凋亡。色素脱失斑是其特征；尽管这些斑块可以融合导致普遍的色素脱失，但该过程是渐进的、慢性的，并且在10岁时极不可能发生。\n\n(选项 B) 前黑素体的形成在 OCA 中正常发生。黑素化的黑素体数量可能会减少，这是黑素产生减少的继发表现，而不是 OCA 中色素沉着缺陷的主要机制。\n\n(选项 C) 由于细胞器运输缺陷，角质形成细胞对黑素的摄取在 Chédiak-Higashi 综合征中受到破坏。患者患有 OCA，但在儿童早期也应预期会出现复发性化脓性感染和凝血病。\n\n(选项 E) 神经嵴细胞分化为黑素细胞受损是斑驳病和 Waardenburg 综合征中散在色素脱失的罕见原因。白发绺是其特征，但在此患者中未见。 {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of oculocutaneous albinism (OCA), its underlying pathophysiology related to melanin synthesis, and associated clinical findings like photophobia and increased sunburn risk. It also requires differentiating OCA from other conditions causing hypopigmentation.\n\nTo solve this question, recognize the patient's diffuse hypopigmentation, light sensitivity, and easy sunburns as suggestive of OCA. Recall that OCA is most commonly caused by defects in melanin synthesis within melanosomes, often due to tyrosinase mutations.",
+    "zh": "本题考察对眼皮肤白化病 (OCA) 的了解，及其与黑素合成相关的潜在病理生理学，以及畏光和增加晒伤风险等相关临床表现。它还需要将 OCA 与其他引起色素减退的疾病区分开来。\n\n要解决这个问题，请认识到患者的弥漫性色素减退、光敏感和易晒伤提示 OCA。回想一下，OCA 最常由黑素体内的黑素合成缺陷引起，通常是由于酪氨酸酶突变所致。"
+  },
+  "tags": "Oculocutaneous albinism; Melanin synthesis; Tyrosinase; Hypopigmentation; Photophobia; Sunburn; Genetics; Dermatology; Ophthalmology",
+  "category": "Derma",
+  "question_id": "21306",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\21306",
+  "extracted_at": "2025-11-05T13:55:49.125739",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:35:29.643925",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

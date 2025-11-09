@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 58-year-old man comes to the office due to exertional dyspnea and cough. His symptoms started 6 months ago and have progressively worsened. Other medical conditions include recurrent pyelonephritis, peptic ulcer disease, and rheumatoid arthritis. The patient had taken a medication for rheumatoid arthritis for many years but stopped a year ago, as the drug failed to improve his worsening hand arthritis. He does not use tobacco, alcohol, or illicit drugs. Physical examination shows joint disease consistent with rheumatoid arthritis. Chest x-ray is shown in the image below {{exhibit_1}}.",
+    "zh": "一名58岁男性因劳力性呼吸困难和咳嗽前来就诊。他的症状始于6个月前，并逐渐恶化。其他疾病包括复发性肾盂肾炎、消化性溃疡病和类风湿关节炎。该患者曾长期服用治疗类风湿关节炎的药物，但一年前停药，因为该药未能改善他恶化的手部关节炎。他不吸烟、不饮酒，也不使用非法药物。体格检查显示关节疾病与类风湿关节炎一致。胸片如下图{{exhibit_1}}所示。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely explanation for this patient's pulmonary symptoms?",
+    "zh": "以下哪项最能解释该患者的肺部症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Bilateral atelectasis",
+      "zh": "双侧肺不张"
+    },
+    "B": {
+      "en": "Left ventricular failure",
+      "zh": "左心衰竭"
+    },
+    "C": {
+      "en": "Obstructive lung disease",
+      "zh": "阻塞性肺病"
+    },
+    "D": {
+      "en": "Pulmonary fibrosis",
+      "zh": "肺纤维化"
+    },
+    "E": {
+      "en": "Pulmonary hypertension",
+      "zh": "肺动脉高压"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "As compared to normal imaging, this patient's chest x-ray shows a bilateral and diffuse pattern of small, irregular (reticulonodular) opacities that are most pronounced in the lower lobes. These findings are most consistent with pulmonary fibrosis, which typically manifests with gradual-onset progressive dyspnea, nonproductive cough, fatigue, and eventual weight loss and failure to thrive. Auscultation may reveal end-inspiratory crackles at the lung bases. Pulmonary function tests show a restrictive pattern with decreased lung volumes, decreased FEV1 and FVC levels, a normal or increased FEV1/FVC ratio, and decreased diffusion capacity of carbon monoxide. Microscopically, progressive fibrosis can lead to cystically dilated bronchioles that later coalesce to form the honeycomb appearance found in advanced disease. Rheumatoid arthritis (RA) can cause a variety of pulmonary manifestations; the most common is a form of interstitial lung disease similar to idiopathic interstitial pneumonia. In addition, multiple agents used to treat RA (eg, methotrexate, cyclophosphamide, sulfasalazine) can cause fibrotic lung disease.\n\n(Choice A) Atelectasis refers to diminished air volume in part of the lung and most commonly occurs due to obstruction of the corresponding bronchus or bronchiole. Chest x-ray shows opacification (collapse) of the corresponding lobe/lobule.\n\n(Choice B) Chest x-ray in decompensated left ventricular failure shows cardiomegaly (heart >1 hemithorax in size), pulmonary edema, pleural effusions, and enlarged pulmonary vessels.\n\n(Choice C) Obstructive pulmonary diseases (eg, asthma, chronic obstructive pulmonary disease) are associated with lung hyper inflation on chest x-ray. This patient has mild hyperinflation (likely due to a deep inspiration during imaging) however the diaphragms are not markedly flattened. In addition, reticulonodular opacities are not seen in these conditions.\n\n(Choice E) Chest x-ray in pulmonary hypertension shows enlargement of the pulmonary arteries and the right ventricle.\n\nEducational objective: Pulmonary fibrosis presents with gradual-onset progressive dyspnea, nonproductive cough, fatigue, eventual weight loss, and bilateral reticulonodular opacities on chest x-ray. Pulmonary function tests reveal a restrictive pattern. Patients with rheumatoid arthritis can develop interstitial lung diseases, both from the pulmonary manifestations of the disease itself and from certain therapies (eg, methotrexate, cyclophosphamide, sulfasalazine).",
+    "zh": "与正常影像学相比，该患者的胸片显示双侧弥漫性小而不规则（网状结节状）阴影，在下叶最明显。这些发现与肺纤维化最一致，肺纤维化通常表现为逐渐起病的进行性呼吸困难、非生产性咳嗽、疲劳，并最终出现体重减轻和生长迟滞。听诊可能会发现肺底吸气末爆裂音。肺功能检查显示限制性通气功能障碍，伴有肺容积减少、FEV1和FVC水平降低、FEV1/FVC比率正常或升高，以及一氧化碳弥散量降低。在显微镜下，进行性纤维化可导致囊性扩张的细支气管，这些细支气管随后融合形成晚期疾病中发现的蜂窝状外观。类风湿关节炎（RA）可引起多种肺部表现；最常见的是间质性肺病，类似于特发性间质性肺炎。此外，用于治疗RA的多种药物（例如，甲氨蝶呤、环磷酰胺、柳氮磺胺吡啶）可引起纤维性肺病。\n\n（选项A）肺不张是指肺部部分气体积减少，最常由于相应支气管或细支气管的阻塞引起。胸片显示相应肺叶/小叶的密度增高（萎陷）。\n\n（选项B）失代偿性左心衰竭的胸片显示心脏增大（心脏大小>1个半胸腔）、肺水肿、胸腔积液和肺血管扩张。\n\n（选项C）阻塞性肺病（例如，哮喘、慢性阻塞性肺病）与胸片上的肺过度充气有关。该患者有轻度过度充气（可能由于在影像学检查期间深吸气），但膈肌并未明显变平。此外，在这些情况下未见网状结节状阴影。\n\n（选项E）肺动脉高压的胸片显示肺动脉和右心室增大。\n\n教学目的：肺纤维化表现为逐渐起病的进行性呼吸困难、非生产性咳嗽、疲劳、最终体重减轻和胸片上的双侧网状结节状阴影。肺功能检查显示限制性通气功能障碍。类风湿关节炎患者可发生间质性肺病，这既来自疾病本身的肺部表现，也来自某些治疗方法（例如，甲氨蝶呤、环磷酰胺、柳氮磺胺吡啶）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pulmonary fibrosis presentation, radiographic findings, and association with rheumatoid arthritis. It also requires differentiating pulmonary fibrosis from other causes of dyspnea based on clinical and radiographic features.\n\nTo solve this question, analyze the chest X-ray for reticulonodular opacities, consider the patient's history of rheumatoid arthritis, and recognize the typical presentation of pulmonary fibrosis. Rule out other options based on their expected radiographic findings.",
+    "zh": "本题考察对肺纤维化的表现、影像学发现及其与类风湿关节炎关系的认识。它还需要根据临床和影像学特征，将肺纤维化与其他导致呼吸困难的原因区分开来。\n\n要解决这个问题，分析胸片上的网状结节状阴影，考虑患者的类风湿关节炎病史，并认识肺纤维化的典型表现。根据其他选项的预期影像学发现，排除其他选项。"
+  },
+  "tags": "Pulmonary fibrosis; Rheumatoid arthritis; Interstitial lung disease; Chest X-ray; Respiratory medicine; Reticulonodular opacities; Restrictive lung disease; Dyspnea; Autoimmune disease",
+  "category": "Chest",
+  "question_id": "653",
+  "has_exhibits": true,
+  "exhibit_count": 9,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg",
+    "image9.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\653",
+  "extracted_at": "2025-11-05T11:46:48.076054",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:41:19.947712",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

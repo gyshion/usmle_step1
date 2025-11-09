@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "Biochemistry researchers are investigating the speed at which various carbohydrates are metabolized within the liver. They hypothesize that different monosaccharides delivered to the liver have different rates of intracellular metabolism. Which of the following substances is most likely to have the fastest rate of metabolism in the glycolytic pathway? {{exhibit_1}}",
+    "zh": "生物化学研究人员正在研究肝脏中各种碳水化合物的代谢速度。他们假设输送到肝脏的不同单糖具有不同的细胞内代谢速率。以下哪种物质最有可能在糖酵解途径中具有最快的代谢速率？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following substances is most likely to have the fastest rate of metabolism in the glycolytic pathway?",
+    "zh": "以下哪种物质最有可能在糖酵解途径中具有最快的代谢速率？"
+  },
+  "options": {
+    "A": {
+      "en": "Fructose-1-phosphate",
+      "zh": "果糖-1-磷酸"
+    },
+    "B": {
+      "en": "Galactose-1-phosphate",
+      "zh": "半乳糖-1-磷酸"
+    },
+    "C": {
+      "en": "Glucose-1-phosphate",
+      "zh": "葡萄糖-1-磷酸"
+    },
+    "D": {
+      "en": "Glucose-6-phosphate",
+      "zh": "葡萄糖-6-磷酸"
+    },
+    "E": {
+      "en": "Mannose-6-phosphate",
+      "zh": "甘露糖-6-磷酸"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Non-glucose monosaccharides & glycolysis\n\nNon-glucose monosaccharides (eg, galactose, mannose, fructose) enter the glycolytic pathway at different points as intermediates of glycolysis. Of these, fructose is the only one whose metabolites bypass phosphofructokinase, one of the key enzymes involved in regulating the rate of glycolysis. As a result, fructose is metabolized by the liver faster than the other monosaccharides and is rapidly cleared from the bloodstream following dietary absorption.\n\nMetabolism of fructose in the liver begins with phosphorylation by fructokinase to fructose-1-phosphate (F1P). Aldolase B can use both fructose-1,6-bisphosphate and F1P as substrates; it converts F1P into dihydroxyacetone phosphate (DHAP) and glyceraldehyde. Glyceraldehyde can be either phosphorylated to glyceraldehyde-3-phosphate by triokinase or converted to DHAP. DHAP is converted by triose phosphate isomerase to glyceraldehyde-3-phosphate, which continues down the glycolytic pathway.\n\n(Choices B, C, D, and E) Galactose-1-phosphate, glucose-1-phosphate, glucose-6-phosphate, and mannose-6-phosphate enter glycolysis upstream of phosphofructokinase, a major rate-limiting enzyme of glycolysis. This slows down the rate of their metabolism relative to fructose and its metabolites (eg, F1P).\n\nEducational objective:\nDietary fructose is phosphorylated in the liver to F1P and is rapidly metabolized because it bypasses PFK-1, the major rate-limiting enzyme of glycolysis. Other sugars (eg, glucose, galactose, mannose) enter glycolysis prior to PFK-1 and as a result are metabolized more slowly.",
+    "zh": "非葡萄糖单糖和糖酵解\n\n非葡萄糖单糖（例如，半乳糖、甘露糖、果糖）作为糖酵解的中间体，在糖酵解途径的不同位点进入。在这些单糖中，果糖是唯一一种其代谢物绕过磷酸果糖激酶的单糖，磷酸果糖激酶是参与调节糖酵解速率的关键酶之一。因此，肝脏对果糖的代谢速度快于其他单糖，并且在膳食吸收后迅速从血液中清除。\n\n肝脏中果糖的代谢始于果糖激酶的磷酸化，生成果糖-1-磷酸（F1P）。醛缩酶B可以使用果糖-1,6-二磷酸和F1P作为底物；它将F1P转化为二羟基丙酮磷酸（DHAP）和甘油醛。甘油醛可以通过三激酶磷酸化成甘油醛-3-磷酸，或者转化为DHAP。DHAP由磷酸丙糖异构酶转化为甘油醛-3-磷酸，后者继续进入糖酵解途径。\n\n（选项B、C、D和E）半乳糖-1-磷酸、葡萄糖-1-磷酸、葡萄糖-6-磷酸和甘露糖-6-磷酸在磷酸果糖激酶（糖酵解的主要限速酶）的上游进入糖酵解。这减慢了它们相对于果糖及其代谢物（例如，F1P）的代谢速率。\n\n教育目标：\n膳食果糖在肝脏中被磷酸化为F1P，并迅速代谢，因为它绕过了PFK-1，这是糖酵解的主要限速酶。其他糖类（例如，葡萄糖、半乳糖、甘露糖）在PFK-1之前进入糖酵解，因此代谢较慢。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of monosaccharide metabolism in the liver, specifically how fructose bypasses a key regulatory step in glycolysis, leading to faster metabolism compared to other sugars. Understanding the role of phosphofructokinase (PFK-1) as a rate-limiting enzyme is crucial.\n\nTo solve this question, recall that fructose metabolism bypasses PFK-1, the major rate-limiting enzyme in glycolysis. This allows fructose to be metabolized more rapidly than other monosaccharides like glucose, galactose, and mannose, which enter glycolysis upstream of PFK-1.",
+    "zh": "这个问题测试了肝脏中单糖代谢的知识，特别是果糖如何绕过糖酵解中的一个关键调节步骤，从而导致比其他糖类更快的代谢。了解磷酸果糖激酶 (PFK-1) 作为限速酶的作用至关重要。\n\n为了解决这个问题，回想一下果糖代谢绕过了糖酵解中的主要限速酶 PFK-1。这使得果糖的代谢速度快于其他单糖，如葡萄糖、半乳糖和甘露糖，它们在 PFK-1 上游进入糖酵解。"
+  },
+  "tags": "Monosaccharide metabolism; Glycolysis; Fructose; Phosphofructokinase; Liver; Biochemistry; Carbohydrate metabolism",
+  "category": "GIT",
+  "question_id": "1068",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\1068",
+  "extracted_at": "2025-11-05T14:21:51.184134",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:49:46.920690",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

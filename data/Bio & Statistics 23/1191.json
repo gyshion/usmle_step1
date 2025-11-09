@@ -1,0 +1,56 @@
+{
+  "question_stem": {
+    "en": "A novel serum biomarker, UWRLD99, is being evaluated for early detection of pancreatic cancer. The concentration of UWRLD99 (measured in international units [IU] per dL) has been found to be elevated in patients with pancreatic adenocarcinoma. Test results in 200 volunteers (\"healthy\") and 190 patients with biopsy-proven pancreatic cancer (\"diseased\") are given in the figure below. The investigators determined the sensitivity and specificity of UWRLD99 for pancreatic cancer using a cutoff of 200 IU/dL (indicated by the solid vertical line). {{exhibit_1}}",
+    "zh": "一种新型血清生物标志物UWRLD99正在评估用于胰腺癌的早期检测。研究发现UWRLD99的浓度（以国际单位[IU]每分升[dL]衡量）在胰腺腺癌患者中升高。下图显示了200名志愿者（“健康”）和190名经活检证实的胰腺癌患者（“患病”）的测试结果。研究人员使用200 IU/dL的临界值（由实线垂直线表示）确定了UWRLD99对胰腺癌的敏感性和特异性。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "If they had instead used a lower cutoff as indicated by the dashed vertical line, which of the following would most likely be seen?",
+    "zh": "如果他们改为使用虚线垂直线所示的较低临界值，最有可能看到以下哪项？"
+  },
+  "options": {
+    "A": {
+      "en": "Higher number of false negatives",
+      "zh": "假阴性数量增加"
+    },
+    "B": {
+      "en": "Higher positive predictive value",
+      "zh": "阳性预测值增加"
+    },
+    "C": {
+      "en": "Higher sensitivity",
+      "zh": "敏感性增加"
+    },
+    "D": {
+      "en": "Lower number of false positives",
+      "zh": "假阳性数量减少"
+    },
+    "E": {
+      "en": "Lower number of true positives",
+      "zh": "真阳性数量减少"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "(Choices A, D, and E) Raising the cutoff value (shift to the right) would cause fewer individuals with the disease to have a positive test result (↓TP, ^FN), so sensitivity would decrease. Fewer individuals without the disease would also test positive (↑TN, ↓FP), so specificity would increase.\n\n(Choice B) Positive predictive value (PPV = TP / [TP + FP]) represents the probability that a patient with a positive test result actually has the disease. In this case, the lower cutoff value would increase both TP and FP: how this affects the PPV depends on disease prevalence, which is not provided. In a population with very low disease prevalence, the number of FP would be expected to increase proportionately more than the number of TP, which would lower the PPV.\n\nThe cutoff value of a quantitative diagnostic test determines whether a given result is interpreted as positive or negative. Depending on the disease or condition being tested for, sensitivity or specificity may be preferred and the cutoff value adjusted accordingly. A cutoff value just outside the overlapping region of the curves can maximize the sensitivity or specificity at 100% by correctly classifying all diseased or healthy individuals, respectively.\n\nIn the above example, changing the cutoff point to a lower value (shift to the left) would cause more patients with the disease to test positive (↑TP, ↓FN), increasing the sensitivity of the test. However, as a consequence, more patients without the disease would also test positive (↓TN, ↑FP), resulting in decreased specificity.",
+    "zh": "（选项A、D和E）提高临界值（向右移动）会导致更少的患病个体获得阳性测试结果（↓TP，^FN），因此敏感性会降低。更少的未患病个体也会呈阳性（↑TN，↓FP），因此特异性会增加。\n\n（选项B）阳性预测值（PPV = TP / [TP + FP]）表示具有阳性测试结果的患者实际患病的概率。在这种情况下，较低的临界值将增加TP和FP：这如何影响PPV取决于疾病的患病率，此处未提供。在疾病患病率非常低的人群中，预计FP的数量会比TP的数量增加更多，这将降低PPV。\n\n定量诊断测试的临界值决定了给定结果是解释为阳性还是阴性。根据要测试的疾病或病症，可能更倾向于敏感性或特异性，并相应地调整临界值。临界值刚好在曲线重叠区域之外可以使敏感性或特异性最大化至100％，分别正确分类所有患病或健康个体。\n\n在上述示例中，将临界点更改为较低的值（向左移动）将导致更多患有该疾病的患者测试呈阳性（↑TP，↓FN），从而增加测试的敏感性。但是，因此，更多未患病患者也将测试呈阳性（↓TN，↑FP），导致特异性降低。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of sensitivity, specificity, and how changing the cutoff value affects these measures in a diagnostic test. It requires knowledge of the relationship between cutoff values, true positives, false positives, true negatives, and false negatives.\n\nThe key to solving this question is to recognize that lowering the cutoff will lead to more positive results. This increases the number of true positives and false positives, thus increasing the sensitivity of the test while decreasing its specificity.",
+    "zh": "此问题测试对敏感性、特异性的理解，以及改变临界值如何影响诊断测试中的这些指标。它需要了解临界值、真阳性、假阳性、真阴性和假阴性之间的关系。\n\n解决此问题的关键是认识到降低临界值将导致更多阳性结果。这会增加真阳性和假阳性的数量，从而增加测试的敏感性，同时降低其特异性。"
+  },
+  "tags": "Sensitivity; Specificity; Cutoff value; False positive; False negative; True positive; True negative; Diagnostic testing; Biostatistics",
+  "category": "Bio",
+  "question_id": "1191",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1191",
+  "extracted_at": "2025-11-05T10:28:23.260402",
+  "translated_at": "2025-11-07T16:19:15.942408",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

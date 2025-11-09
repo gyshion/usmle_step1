@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old man comes to the office due to recurrent, painful skin lesions in the right axilla for the past 6 months. The patient has no other medical history and takes no medication. He smokes a pack of cigarettes every day and works as a roofer. Vital signs are normal. Examination reveals tender, subcutaneous nodules in the right axilla and other findings as shown in the exhibit {{exhibit_1}}. The remainder of the examination is normal. Which of the following is the most likely cause of the condition?",
+    "zh": "一名45岁男性因过去6个月右腋窝反复出现疼痛性皮肤病变前来就诊。患者无其他病史，未服用任何药物。他每天吸一包香烟，是一名屋顶工。生命体征正常。检查显示右腋窝有触痛的皮下结节，以及如{{exhibit_1}}所示的其他发现。其余检查结果正常。以下哪项最可能是导致这种情况的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of the condition?",
+    "zh": "以下哪项最可能是导致这种情况的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Bacterial proliferation in eccrine sweat glands",
+      "zh": "外泌汗腺中细菌增殖"
+    },
+    "B": {
+      "en": "Immune response to Cutibacterium acnes",
+      "zh": "对痤疮丙酸杆菌的免疫反应"
+    },
+    "C": {
+      "en": "Malignant transformation of epithelial cells",
+      "zh": "上皮细胞的恶性转化"
+    },
+    "D": {
+      "en": "Obstruction of folliculopilosebaceous units",
+      "zh": "毛囊皮脂腺单位阻塞"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has hidradenitis suppurativa (HS), which is characterized by painful, deep-seated nodules and scar formation in the axillae, groin, and medial thighs. The pathogenesis of HS begins with the OCCLUSION of folliculopilosebaceous units caused by keratinocyte hyperproliferation and abnormal keratinocyte differentiation. Mechanical stress (eg, friction in intertriginous areas) then leads to follicular rupture and the release of proinflammatory contents. Contributing factors include tobacco use, immune dysregulation, hormonal factors (eg, excessive androgen effect), and bacterial colonization/infection.\n\nHS is a chronic, recurring condition with progressive formation of draining abscesses, sinus tracts (formed by epithelial stem cells released from follicular rupture), comedones (from significant follicular damage), and extensive fibrosis. In contrast to common furuncles and carbuncles, which usually resolve completely with drainage and antibacterial therapy, HS may persist and recur despite months of antibiotic therapy. {{exhibit_2}}\n\n(Choice A) It was once thought that HS is a suppurative disease involving the apocrine, not the eccrine, sweat glands. However, current understanding supports follicular occlusion as the cause.\n\n(Choice B) Colonization of hair follicles by Cutibacterium acnes triggers the inflammatory response seen in acne vulgaris, which typically begins in adolescence and primarily affects the face, chest, and upper back. In contrast, HS involves the intertriginous regions, with symptoms usually beginning after age 18. Early HS lesions are typically sterile but later become colonized or infected with gram-positive, gram-negative, and anaerobic bacteria.\n\n(Choice C) Squamous cell carcinoma can occasionally arise in areas affected by HS due to chronic inflammation. However, it typically presents as a well-demarcated, scaly papule or plaque, features absent in this patient's lesion.\n\nEducational objective:\nHidradenitis suppurativa results from the occlusion of folliculopilosebaceous units. Subsequent follicular rupture and inflammation form painful nodules and abscesses, which may progress to sinus tracts, scars, and comedones with chronic, recurrent disease. {{exhibit_3}}",
+    "zh": "该患者患有化脓性汗腺炎（HS），其特征是在腋窝、腹股沟和大腿内侧出现疼痛、深部结节和瘢痕形成。HS的发病机制始于毛囊皮脂腺单位的阻塞，由角质形成细胞过度增殖和角质形成细胞异常分化引起。机械应力（例如，间擦区域的摩擦）随后导致毛囊破裂和促炎物质的释放。促成因素包括烟草使用、免疫失调、激素因素（例如，雄激素过量效应）和细菌定植/感染。\n\nHS是一种慢性、复发性疾病，可逐渐形成引流性脓肿、窦道（由毛囊破裂释放的上皮干细胞形成）、粉刺（由显著的毛囊损伤引起）和广泛的纤维化。与通常通过引流和抗菌治疗即可完全消退的常见疖和痈不同，HS即使经过数月的抗生素治疗也可能持续存在和复发。{{exhibit_2}}\n\n（选项A）曾认为HS是一种涉及顶泌汗腺（而非外泌汗腺）的化脓性疾病。然而，目前的理解支持毛囊阻塞是病因。\n\n（选项B）痤疮丙酸杆菌对毛囊的定植会触发寻常痤疮中可见的炎症反应，该病通常始于青春期，主要影响面部、胸部和上背部。相反，HS涉及间擦区域，症状通常在18岁以后开始。早期HS病变通常是无菌的，但后来会被革兰氏阳性菌、革兰氏阴性菌和厌氧菌定植或感染。\n\n（选项C）由于慢性炎症，鳞状细胞癌偶可在受HS影响的区域发生。然而，它通常表现为界限清楚、鳞屑状的丘疹或斑块，而这些特征在该患者的病变中并不存在。\n\n教育目标：化脓性汗腺炎是由于毛囊皮脂腺单位的阻塞引起的。随后的毛囊破裂和炎症形成疼痛性结节和脓肿，这可能进展为窦道、瘢痕和粉刺，伴有慢性、复发性疾病。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hidradenitis suppurativa (HS), its clinical presentation, and underlying pathophysiology involving follicular occlusion. It requires differentiating HS from other skin conditions with similar presentations.\n\nTo solve this question, recognize the key features of HS: recurrent painful nodules and abscesses in intertriginous areas (axilla), chronic course, and association with risk factors like smoking. Rule out other conditions based on their typical presentation and location.",
+    "zh": "本题考察对化脓性汗腺炎（HS）的认识，包括其临床表现和涉及毛囊阻塞的潜在病理生理学。它需要将HS与其他具有相似表现的皮肤病区分开来。\n\n要解决这个问题，需要识别HS的关键特征：间擦区域（腋窝）反复出现疼痛性结节和脓肿，病程慢性，并与吸烟等危险因素相关。根据其他疾病的典型表现和位置排除它们。"
+  },
+  "tags": "Hidradenitis suppurativa; Folliculopilosebaceous unit; Skin infection; Dermatology; Inflammatory skin disease; Axilla; Follicular occlusion",
+  "category": "Derma",
+  "question_id": "20587",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\20587",
+  "extracted_at": "2025-11-05T13:55:35.059639",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:35:10.448070",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

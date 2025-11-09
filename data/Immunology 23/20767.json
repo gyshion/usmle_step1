@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old woman is brought to the emergency department 40 minutes after being stung by several wasps. She reports throat tightness and dizziness. She has no chronic medical conditions and takes no medication. Blood pressure is 80/40 mm Hg, pulse is 120/min, and respirations are 32/min. Examination shows diffuse erythematous plaques over the trunk and 1+ pitting edema of the ankles.",
+    "zh": "一名25岁女性在被几只黄蜂蜇伤40分钟后被送往急诊科。她报告有咽喉紧绷感和头晕。她没有慢性疾病，也没有服用任何药物。血压为80/40 mmHg，脉搏120次/分钟，呼吸32次/分钟。检查显示躯干弥漫性红斑，踝部1+水肿。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's hypotension?",
+    "zh": "以下哪项最可能是该患者低血压的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Chemical mediator–induced decreased myocardial contractility",
+      "zh": "化学介质诱导的心肌收缩力下降"
+    },
+    "B": {
+      "en": "Chemical mediator–induced increased vascular permeability",
+      "zh": "化学介质诱导的血管通透性增加"
+    },
+    "C": {
+      "en": "Impaired endogenous sympathetic nerve activity",
+      "zh": "内源性交感神经活性受损"
+    },
+    "D": {
+      "en": "Toxin-mediated decreased myocardial contractility",
+      "zh": "毒素介导的心肌收缩力下降"
+    },
+    "E": {
+      "en": "Toxin-mediated increased capillary permeability",
+      "zh": "毒素介导的毛细血管通透性增加"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient with throat tightness, dizziness, hypotension, and urticaria (ie, diffuse erythematous plaques) has anaphylaxis, a type I (immediate) hypersensitivity reaction that occurs in response to an allergen (eg, wasp venom).\n\nIn patients who will eventually develop anaphylaxis, the initial exposure to an allergen results in antibody class switching and the production of allergen-specific IgE by plasma cells. The allergen-specific IgE then binds to an IgE receptor on mast cells or basophils. Subsequent reexposure leads to allergen interaction with cell-bound IgE, IgE receptor aggregation, mast cell or basophil degranulation, and release of chemical mediators (histamine, prostaglandin, leukotrienes) that can cause anaphylactic shock.\n\nAnaphylactic shock is characterized by profound peripheral vasodilation. Arteriolar vasodilation causes decreased systemic vascular resistance and consequent hypotension; venular vasodilation causes decreased central venous pressure and reduces venous return to the right atrium. In addition, the inflammatory chemical mediators increase vascular permeability, leading to large fluid shifts from the intravascular to the extravascular space; this decreases intravascular volume and worsens hypotension.\n\n(Choice A) Chemical mediators (eg, histamine) released from cardiac mast cells may exert negative inotropic effects on the heart, decreasing cardiac contractility. However, this is typically counterbalanced by the body's sympathetic response to anaphylaxis; increased sympathetic activity has a positive inotropic effect and increases the heart rate in an attempt to compensate for widespread peripheral vasodilation.\n\n(Choice C) Increased, not impaired, endogenous sympathetic nerve activity is the body's early compensatory response in anaphylaxis. In response to anaphylaxis-induced hypotension, an intact baroreceptor reflex leads to increased sympathetic activity, tachycardia, and compensatory vasoconstriction.\n\n(Choices D and E) A toxin-mediated decrease in myocardial contractility and an increase in capillary permeability occur in toxic shock syndrome (TSS). Most cases are linked to a prolonged use of tampons and wound/nasal packing (not wasp envenomation), which provide a medium for Staphylococcus aureus to replicate and release an exotoxin (eg, TSS toxin 1) that is capable of nonspecifically activating T cells (ie, a superantigen). The subsequent dramatic release of inflammatory cytokines results in increased capillary permeability and hypotension, as well as high fever and a diffuse, erythematous rash. In addition, the exotoxin can directly inhibit myocardial function.\n\nEducational objective: In anaphylaxis, allergen exposure triggers widespread IgE-mediated release of inflammatory chemical mediators (eg, histamine, prostaglandin, leukotrienes). These chemical mediators cause peripheral vasodilation and increase vascular permeability, leading to hypotension.",
+    "zh": "该患者出现咽喉紧绷、头晕、低血压和荨麻疹（即弥漫性红斑）症状，提示过敏反应，这是一种I型（速发型）超敏反应，是对过敏原（如黄蜂毒液）的反应。\n\n在最终会发生过敏反应的患者中，最初接触过敏原会导致抗体类别转换，血浆细胞产生过敏原特异性IgE。然后，过敏原特异性IgE与肥大细胞或嗜碱性粒细胞上的IgE受体结合。随后再次接触会导致过敏原与细胞结合IgE相互作用，IgE受体聚集，肥大细胞或嗜碱性粒细胞脱颗粒，并释放可引起过敏性休克的化学介质（组胺、前列腺素、白三烯）。\n\n过敏性休克的特征是严重的周围血管舒张。小动脉舒张导致全身血管阻力降低，进而导致低血压；小静脉舒张导致中心静脉压降低，并减少回流到右心房的静脉血量。此外，炎性化学介质增加血管通透性，导致大量液体从血管内转移到血管外间隙；这会降低血管内容量并加重低血压。\n\n（选项A）从心脏肥大细胞释放的化学介质（如组胺）可能会对心脏产生负性肌力作用，降低心肌收缩力。然而，这通常会被机体对过敏反应的交感神经反应所抵消；交感神经活性增加具有正性肌力作用，并增加心率，试图代偿广泛的周围血管舒张。\n\n（选项C）内源性交感神经活性增加（而非受损）是机体对过敏反应的早期代偿反应。为了应对过敏反应引起的低血压，完整的压力感受器反射会导致交感神经活性增加、心动过速和代偿性血管收缩。\n\n（选项D和E）毒素介导的心肌收缩力下降和毛细血管通透性增加发生在中毒性休克综合征（TSS）中。大多数病例与长时间使用卫生棉条和伤口/鼻腔填塞（而非黄蜂蜇伤）有关，这些为金黄色葡萄球菌复制并释放外毒素（如TSS毒素1）提供了培养基，这种毒素能够非特异性地激活T细胞（即超抗原）。随后炎性细胞因子的剧烈释放导致毛细血管通透性增加和低血压，以及高烧和弥漫性红斑。此外，外毒素可以直接抑制心肌功能。\n\n教学目标：在过敏反应中，过敏原暴露会触发广泛的IgE介导的炎性化学介质（如组胺、前列腺素、白三烯）释放。这些化学介质会导致周围血管舒张和血管通透性增加，从而导致低血压。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of anaphylactic shock, its pathophysiology, and the role of chemical mediators in causing hypotension. It requires understanding of type I hypersensitivity reactions and the physiological responses to anaphylaxis. \n\nTo solve this question, recognize the signs and symptoms of anaphylaxis (urticaria, throat tightness, hypotension). Then, recall that anaphylactic shock is primarily caused by increased vascular permeability due to the release of chemical mediators, leading to fluid shifts and hypotension.",
+    "zh": "本题考察对过敏性休克、其病理生理学以及化学介质在引起低血压中的作用的知识。它需要理解I型超敏反应和对过敏反应的生理反应。\n\n要解决这个问题，需要识别过敏反应的体征和症状（荨麻疹、咽喉紧绷、低血压）。然后，回忆起过敏性休克主要是由于释放化学介质导致的血管通透性增加，从而导致体液转移和低血压。"
+  },
+  "tags": "Anaphylaxis; Type I hypersensitivity; Chemical mediators; Vascular permeability; Hypotension; Immunology; Emergency medicine",
+  "category": "Immunology",
+  "question_id": "20767",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\20767",
+  "extracted_at": "2025-11-05T14:43:55.075798",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:01:43.183578",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

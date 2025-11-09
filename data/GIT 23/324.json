@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 14-month-old girl is brought to the office due to a 2-month history of diarrhea. Her parents report that she has 3-5 loose, nonbloody bowel movements daily with occasional episodes of vomiting. She was breastfed exclusively until age 9 months and has since had a well-varied diet including whole milk, fruits, vegetables, bread, and meats. However, the girl has been less interested in food over the past several weeks. There is no history of travel or contacts with similar symptoms. On physical examination, the patient appears well but has lost 1.1 kg (2.5 lb) in the last 2 months. After laboratory evaluation, duodenal biopsy findings are shown in the exhibit {{exhibit_1}}.",
+    "zh": "一名14个月大的女孩因2个月的腹泻病史被带到诊所。她的父母报告说她每天有3-5次稀便，无血便，偶尔呕吐。她完全母乳喂养至9个月大，此后饮食多样，包括全脂牛奶、水果、蔬菜、面包和肉类。然而，在过去的几周里，女孩对食物的兴趣有所下降。没有旅行史，也没有与类似症状的接触者。体格检查显示，患者状况良好，但在过去2个月内体重减轻了1.1公斤（2.5磅）。在实验室评估后，十二指肠活检结果显示在展品{{exhibit_1}}中。"
+  },
+  "question": {
+    "en": "Which of the following would most likely improve this patient's symptoms?",
+    "zh": "以下哪项最有可能改善该患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Acid reduction therapy",
+      "zh": "抑酸治疗"
+    },
+    "B": {
+      "en": "Anti-inflammatory medications",
+      "zh": "抗炎药物"
+    },
+    "C": {
+      "en": "Antibiotic therapy",
+      "zh": "抗生素治疗"
+    },
+    "D": {
+      "en": "Enzyme supplementation",
+      "zh": "酶补充剂"
+    },
+    "E": {
+      "en": "Modified dairy diet",
+      "zh": "改良乳制品饮食"
+    },
+    "F": {
+      "en": "Modified grain diet",
+      "zh": "改良谷物饮食"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "Celiac disease is a chronic malabsorptive disorder caused by a HYPERSENSITIVITY TO GLUTEN, a protein found in wheat, barley, and rye. Gliadin (a gluten component) triggers an immune-mediated reaction causing VILLOUS ATROPHY, CRYPT HYPERPLASIA, and intraepithelial lymphocyte infiltration. Normal intestinal villi allow for increased small intestinal surface area to begin the process of digestion and nutrient absorption. The atrophy in celiac disease causes impairment of nutrient absorption in the duodenum and proximal jejunum, regions where the concentration of gluten is the highest.\n\nClassic celiac disease presents after introduction of gluten into the diet (between age 6-24 months) with symptoms of malabsorption (eg, diarrhea, steatorrhea, flatulence, nutrient deficiencies, weight loss). Other manifestations include delayed puberty and short stature in children and anemia in adults. Screening is with serology testing for elevated IgA anti-endomysial and ANTI-TISSUE TRANSGLUTAMINASE ANTIBODIES; diagnosis is confirmed by endoscopic biopsy. With strict adherence to a GLUTEN-FREE DIET, symptom resolution occurs within weeks and is followed by normalization of histology and antibody levels. {{exhibit_2}}\n\n(Choice A) Mild gastroesophageal reflux is physiologic in healthy infants, but it can lead to irritability, poor feeding, and inadequate weight gain when severe. The diagnosis is often made clinically and can be treated with conservative changes (eg, smaller feedings) and acid suppression (eg, proton pump inhibitor). Refractory cases may require biopsy, which shows esophageal inflammation.\n\n(Choice B) Anti-inflammatory medications (eg, glucocorticoids, aminosalicylates) are the mainstay of treatment for inflammatory bowel disease (ulcerative colitis [UC] and Crohn disease [CD]). Symptoms include abdominal pain, bloody diarrhea, and weight loss. Colonoscopy may show diffuse colonic inflammation in UC and focal areas of small intestinal and colonic inflammation in CD.\n\n(Choice C) Tropical sprue can occur with extended travel to the tropics and presents with chronic diarrhea, abdominal pain, and flatulence along with similar histologic findings to celiac disease (eg, villous atrophy). The etiology is likely infectious, and the disease is treated with antibiotics. However, this patient has no history of travel.\n\n(Choices D and E) Lactase supplementation or limited lactose intake is recommended for patients with lactose intolerance, which classically presents in older children and adults with bloating, flatulence, abdominal discomfort, and diarrhea. Although biopsy is not indicated for diagnosis, histology would show normal small intestinal architecture with decreased lactase activity. {{exhibit_3}}",
+    "zh": "乳糜泻是一种慢性吸收不良疾病，由对麸质的超敏反应引起，麸质是存在于小麦、大麦和黑麦中的一种蛋白质。麦醇溶蛋白（一种麸质成分）会触发免疫介导的反应，导致绒毛萎缩、隐窝增生和上皮内淋巴细胞浸润。正常的肠绒毛可以增加小肠表面积，从而开始消化和营养吸收的过程。乳糜泻中的萎缩会导致十二指肠和近端空肠的营养吸收受损，这些区域的麸质浓度最高。\n\n典型的乳糜泻在饮食中引入麸质后出现（年龄在6-24个月之间），表现为吸收不良的症状（例如，腹泻、脂肪泻、腹胀、营养缺乏、体重减轻）。其他表现包括儿童青春期延迟和身材矮小，以及成人贫血。筛查使用血清学检测，检测升高的IgA抗肌内膜抗体和抗组织转谷氨酰胺酶抗体；诊断通过内镜活检确认。严格遵守无麸质饮食，症状会在几周内缓解，随后组织学和抗体水平恢复正常。{{exhibit_2}}\n\n（选项A）轻度胃食管反流在健康的婴儿中是生理性的，但如果严重，会导致烦躁、喂养不良和体重增加不足。诊断通常是临床进行的，可以通过保守的改变（例如，少量喂养）和抑酸治疗（例如，质子泵抑制剂）来治疗。难治性病例可能需要活检，显示食管炎症。\n\n（选项B）抗炎药物（例如，糖皮质激素、氨基水杨酸盐）是炎症性肠病（溃疡性结肠炎[UC]和克罗恩病[CD]）的主要治疗方法。症状包括腹痛、血性腹泻和体重减轻。结肠镜检查可能显示UC中弥漫性结肠炎症，以及CD中小肠和结肠的局灶性炎症。\n\n（选项C）热带口炎可能发生在长期前往热带地区的情况下，并表现为慢性腹泻、腹痛和腹胀，以及与乳糜泻相似的组织学发现（例如，绒毛萎缩）。病因可能是感染性的，并且该疾病用抗生素治疗。然而，该患者没有旅行史。\n\n（选项D和E）对于乳糖不耐受的患者，建议补充乳糖酶或限制乳糖摄入，乳糖不耐受通常在较大儿童和成人中表现为腹胀、腹胀、腹部不适和腹泻。虽然活检不适用于诊断，但组织学将显示正常的小肠结构，但乳糖酶活性降低。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of celiac disease presentation in children, including typical age of onset, symptoms, diagnostic testing (serology and biopsy), and treatment with a gluten-free diet. It also requires differentiating celiac disease from other causes of diarrhea and malabsorption in children.\n\nTo solve this question, recognize the classic presentation of celiac disease after gluten introduction (6-24 months), the malabsorption symptoms (diarrhea, weight loss), and the importance of duodenal biopsy findings (villous atrophy, crypt hyperplasia). Rule out other causes based on history and clinical features.",
+    "zh": "这个问题测试了对儿童乳糜泻表现的了解，包括典型的发病年龄、症状、诊断测试（血清学和活检）以及无麸质饮食的治疗。它还需要将乳糜泻与其他儿童腹泻和吸收不良的原因区分开来。\n\n要解决这个问题，需要认识到乳糜泻在引入麸质后（6-24个月）的典型表现、吸收不良的症状（腹泻、体重减轻）以及十二指肠活检结果（绒毛萎缩、隐窝增生）的重要性。根据病史和临床特征排除其他原因。"
+  },
+  "tags": "Celiac disease; Gluten sensitivity; Malabsorption; Diarrhea; Villous atrophy; Duodenal biopsy; Anti-tissue transglutaminase antibodies; Gluten-free diet; Pediatric gastroenterology",
+  "category": "GIT",
+  "question_id": "324",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\324",
+  "extracted_at": "2025-11-05T14:33:15.697488",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:56:23.711436",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

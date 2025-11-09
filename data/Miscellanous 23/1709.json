@@ -1,0 +1,57 @@
+{
+  "question_stem": {
+    "en": "Investigators assessing the bioavailability of a new drug administer it intravenously (IV) to a volunteer and measure plasma concentrations of the drug over time. After the drug is completely cleared from the volunteer's circulation, the investigators administer the same dose of the drug orally (PO) and again measure plasma concentrations of the drug over time. The data obtained are plotted on the graph shown below. {{exhibit_1}}",
+    "zh": "研究人员评估一种新药的生物利用度，将其静脉注射 (IV) 给志愿者，并测量药物的血浆浓度随时间的变化。当药物从志愿者的循环系统中完全清除后，研究人员口服 (PO) 相同剂量的药物，并再次测量药物的血浆浓度随时间的变化。获得的数据绘制在下图上。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the best determinant of oral bioavailability of this drug?",
+    "zh": "以下哪项是该药物口服生物利用度的最佳决定因素？"
+  },
+  "options": {
+    "A": {
+      "en": "Area under the PO curve",
+      "zh": "PO 曲线下的面积"
+    },
+    "B": {
+      "en": "Area under the PO curve divided by area under the IV curve",
+      "zh": "PO 曲线下的面积除以 IV 曲线下的面积"
+    },
+    "C": {
+      "en": "Maximal concentration at the peak of the PO curve",
+      "zh": "PO 曲线峰值的最大浓度"
+    },
+    "D": {
+      "en": "Maximal concentration at the peak of the PO curve divided by maximal concentration at the peak of the IV curve",
+      "zh": "PO 曲线峰值的最大浓度除以 IV 曲线峰值的最大浓度"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Bioavailability refers to the fraction of administered drug that reaches the systemic circulation and is therefore available for eliciting the desired pharmacologic effect. A drug administered by the intravenous (IV) route has 100% bioavailability by definition. For other modes of drug administration (eg, oral [PO], intramuscular [IM], subcutaneous [SQ], transdermal [TD], rectal [PR]), the bioavailability is usually less than 100%.\n\nThe bioavailability of a drug for a given route of administration can be determined by plotting plasma drug concentrations over time for a given dose administered by both the IV route and the other route being studied (eg, PO). The AREA UNDER THE CURVE (AUC) of each plot represents the TOTAL SYSTEMIC DRUG EXPOSURE for the given dose and route (Choice A). Bioavailability can then be determined by comparing the AUCs of each curve. In this case, PO bioavailability can be calculated by dividing the AUC of the PO curve by the AUC of the IV curve.\n\n(Choice C) The maximal concentration at the peak of the PO curve (ie, peak plasma level) is dose dependent and is not an indicator of drug bioavailability.\n\n(Choice D) PO administration of a drug usually results in lower peak serum drug levels compared to IV administration, even when PO bioavailability is near 100%, due to delayed absorption from the gastrointestinal tract (versus near-instantaneous delivery of IV drugs). As a result, comparing peak PO to peak IV concentration levels is not an appropriate way to determine bioavailability.\n\nEducational objective:\nBioavailability refers to the fraction of administered drug that reaches the systemic circulation. For a drug administered by any route other than intravenous (IV), bioavailability is usually less than 100%. Bioavailability can be determined by graphing plasma drug concentrations over time for a given dose administered by both the IV route and the other route being studied. Oral (PO) bioavailability is calculated by dividing the area under the PO curve by the area under the IV curve.",
+    "zh": "生物利用度是指到达全身循环并因此可用于产生所需药理作用的给药药物的比例。静脉注射 (IV) 给药的药物，根据定义，其生物利用度为 100%。对于其他给药方式（例如，口服 [PO]、肌内 [IM]、皮下 [SQ]、经皮 [TD]、直肠 [PR]），生物利用度通常小于 100%。\n\n可以通过绘制血浆药物浓度随时间的变化曲线来确定药物在给定给药途径下的生物利用度，其中给药剂量分别采用 IV 途径和正在研究的另一种途径（例如，PO）。每条曲线下的面积 (AUC) 代表给定剂量和途径的总全身药物暴露（选项 A）。然后可以通过比较每条曲线的 AUC 来确定生物利用度。在这种情况下，口服生物利用度可以通过将 PO 曲线的 AUC 除以 IV 曲线的 AUC 来计算。\n\n（选项 C）PO 曲线峰值的最大浓度（即，峰值血浆水平）是剂量依赖性的，并非药物生物利用度的指标。\n\n（选项 D）口服药物给药通常会导致峰值血清药物水平低于 IV 给药，即使口服生物利用度接近 100%，这也归因于药物从胃肠道的吸收延迟（相对于 IV 药物的近乎瞬时递送）。因此，比较峰值 PO 与峰值 IV 浓度水平不是确定生物利用度的合适方法。\n\n教育目标：\n生物利用度是指到达全身循环的给药药物的比例。对于通过静脉 (IV) 以外的任何途径给药的药物，生物利用度通常小于 100%。可以通过绘制血浆药物浓度随时间的变化曲线来确定生物利用度，其中给药剂量分别采用 IV 途径和正在研究的另一种途径。口服 (PO) 生物利用度通过将 PO 曲线下的面积除以 IV 曲线下的面积来计算。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of drug bioavailability and how it is calculated using plasma concentration-time data from intravenous and oral administration. It specifically assesses the knowledge that the ratio of the Area Under the Curve (AUC) for oral versus intravenous administration is the standard method for determining oral bioavailability.\n\nTo solve this question, one must recall the definition of bioavailability and the pharmacokinetic principles behind drug absorption and systemic exposure. The key is to recognize that AUC represents total systemic exposure, and the ratio of AUCs from different routes of administration (with the IV route serving as the 100% reference) directly quantifies bioavailability.",
+    "zh": "此问题测试对药物生物利用度的理解，以及如何使用静脉注射和口服给药的血浆浓度-时间数据来计算生物利用度。它特别评估了以下知识：口服与静脉注射给药的曲线下面积 (AUC) 的比率是确定口服生物利用度的标准方法。\n\n要解决此问题，必须回忆生物利用度的定义以及药物吸收和全身暴露背后的药代动力学原理。关键在于认识到 AUC 代表总的全身暴露，并且来自不同给药途径的 AUC 之比（以 IV 途径作为 100% 的参考）直接量化了生物利用度。"
+  },
+  "tags": "Pharmacology; Bioavailability; Pharmacokinetics; Area Under the Curve (AUC); Intravenous administration; Oral administration; Drug absorption; Systemic circulation",
+  "category": "Miscellanous",
+  "question_id": "1709",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Miscellanous 23\\1709",
+  "extracted_at": "2025-11-05T19:25:13.539660",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:14:25.034056",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 54-year-old woman comes to the office for a yearly preventive examination. She has no specific concerns. Blood pressure is 144/95 mm Hg and pulse is 86/min. BMI is 50 kg/m². Examination shows severe obesity but is otherwise unremarkable. Fasting glucose is 128 mg/dL. When the subject of her weight is mentioned, the patient says, \"In my family, we just like to eat. My mother is heavy, my father is heavy, and my kids are heavy. There's no point in trying to lose weight now.\"",
+    "zh": "一位 54 岁的女性前来就诊，进行年度预防性检查。她没有特别的顾虑。血压为 144/95 mm Hg，脉搏为 86 次/分钟。BMI 为 50 kg/m²。体检显示重度肥胖，但其他方面无异常。空腹血糖为 128 mg/dL。当提到她的体重时，患者说：“我家就喜欢吃。我妈妈胖，我爸爸胖，我的孩子也胖。现在试图减肥没意义。”"
+  },
+  "question": {
+    "en": "Which of the following is the most appropriate response to this patient's statement?",
+    "zh": "以下哪一项是对这位患者的陈述最合适的回答？"
+  },
+  "options": {
+    "A": {
+      "en": "\"Bariatric surgery might be a good option for you to consider.\"",
+      "zh": "“减肥手术可能是一个你可以考虑的好选择。”"
+    },
+    "B": {
+      "en": "\"Even with your family history, simple changes in your diet can lower your blood pressure.\"",
+      "zh": "“即使你有家族史，饮食上的简单改变也可以降低你的血压。”"
+    },
+    "C": {
+      "en": "\"Tell me how you think your weight might relate to your blood pressure and glucose.\"",
+      "zh": "“告诉我你认为你的体重可能与你的血压和血糖有什么关系。”"
+    },
+    "D": {
+      "en": "\"You can still eat whatever you want as long as you don't eat so much of it.\"",
+      "zh": "“你仍然可以吃任何你喜欢的食物，只要你不要吃那么多。”"
+    },
+    "E": {
+      "en": "\"You don't have to lose all the weight at once. A little at a time will eventually make a difference.\"",
+      "zh": "“你不必一次减掉所有体重。一次一点最终会有所不同。”"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has obesity with weight-related complications including hypertension and (likely) type 2 diabetes mellitus. However, she does not acknowledge the adverse effects of obesity and voices no readiness to institute behavioral changes (eg, diet, exercise). Counseling of patients with obesity and other lifestyle-related disorders (eg, smoking, alcohol abuse) can often be tailored to the individual patient by using a stages of change model; this patient is considered to be in the precontemplation stage.\n\nPatients in the precontemplation stage are not ready to explore lifestyle change options or implement specific behavioral interventions. However, it is often beneficial to explore the patient's current understanding of their condition and how it can affect their future health. Patients with obesity frequently understand much about the potential health consequences; engaging in a nonjudgmental discussion of how this patient's weight affects her blood pressure and glucose may facilitate more productive conversations in future visits.\n\n(Choice A) Although bariatric surgery is indicated based on this patient's BMI, noninvasive treatments (ie, diet, weight loss medication) are usually attempted first. Also, specific interventions are generally not discussed until the patient is ready to consider options for change.\n\n(Choice B) Once a patient voices willingness to consider lifestyle change (ie, contemplation stage), the clinician should start introducing potential interventions in general terms, discussing the various pros and cons. However, in this case, the clinician should first encourage the patient to consider the need for lifestyle change before discussing possible interventions.\n\n(Choice D) Many diets (eg, low-fat, low-carbohydrate, reduced-calorie blended) have been shown to produce weight loss, but most require changes in food choices, not just food quantity. Details of implementation generally would not be discussed until the patient voices some level of readiness to change.\n\n(Choice E) Initiating a weight loss program with small, incremental goals is frequently helpful in the implementation of lifestyle change. However, setting goals is more appropriate at the time the patient is preparing to institute behavior change (ie, preparation stage).\n\nEducational objective:\nPatients in a precontemplation stage of change do not acknowledge the negative consequences of current behaviors and are not ready to implement specific lifestyle changes. Providers working with patients in the precontemplation stage should avoid recommending specific actions but instead discuss patients' understanding of their condition and its effect on their future health. A nonjudgmental discussion of lifestyle can often facilitate more productive conversations in the future.",
+    "zh": "这位患者患有肥胖症，并伴有与体重相关的并发症，包括高血压和（可能）2 型糖尿病。然而，她没有认识到肥胖的负面影响，也没有表示准备好采取行为改变（例如，饮食、锻炼）。对于肥胖症和其他与生活方式相关的疾病（例如，吸烟、酗酒）的患者的咨询，通常可以通过使用改变阶段模型来针对个体患者；这位患者被认为处于前沉思阶段。\n\n处于前沉思阶段的患者还没有准备好探索生活方式改变的选项或实施特定的行为干预措施。然而，探索患者目前对他们病情的理解以及它如何影响他们未来的健康状况通常是有益的。肥胖症患者通常对潜在的健康后果了解很多；参与对这位患者的体重如何影响她的血压和血糖的非评判性讨论，可能有助于在未来的就诊中进行更富有成效的对话。\n\n（选项 A）尽管根据这位患者的 BMI 指示进行减肥手术，但通常首先尝试非侵入性治疗（即饮食、减肥药物）。此外，通常直到患者准备好考虑改变的选项时，才讨论具体的干预措施。\n\n（选项 B）一旦患者表示愿意考虑改变生活方式（即沉思阶段），临床医生就应该开始以一般术语介绍潜在的干预措施，讨论各种利弊。然而，在这种情况下，临床医生应该首先鼓励患者考虑改变生活方式的必要性，然后再讨论可能的干预措施。\n\n（选项 D）许多饮食（例如，低脂、低碳水化合物、减少热量的混合）已被证明可以产生减肥效果，但大多数都需要改变食物选择，而不仅仅是食物量。实施细节通常不会在患者表示某种程度的改变意愿之前进行讨论。\n\n（选项 E）以小的、渐进的目标开始减肥计划通常有助于生活方式的改变的实施。然而，设定目标更适合患者准备实施行为改变的时候（即准备阶段）。\n\n教育目标：\n处于改变的前沉思阶段的患者没有认识到当前行为的负面后果，也没有准备好实施特定的生活方式改变。与处于前沉思阶段的患者一起工作的提供者应避免推荐具体行动，而是讨论患者对他们病情的理解及其对他们未来健康的影响。对生活方式的非评判性讨论通常可以在未来促进更有成效的对话。"
+  },
+  "summary": {
+    "en": "This question tests the application of the Stages of Change model in the context of obesity management and patient counseling. It assesses the ability to identify a patient's readiness to change and tailor the approach accordingly. \n\nThe key to solving this question is recognizing the patient's precontemplation stage and selecting a response that explores their understanding of the condition rather than suggesting specific interventions. Focus on open-ended questions that encourage self-reflection and avoid premature recommendations.",
+    "zh": "这个问题测试了改变阶段模型在肥胖管理和患者咨询中的应用。它评估了识别患者改变意愿并相应调整方法的能力。\n\n解决这个问题的关键是认识到患者的前沉思阶段，并选择一个能够探索他们对病情的理解而不是建议具体干预措施的回答。侧重于鼓励自我反思的开放式问题，并避免过早的建议。"
+  },
+  "tags": "Obesity; Stages of Change model; Motivational interviewing; Precontemplation; Lifestyle modification; Preventive medicine; Patient counseling",
+  "category": "Ethics",
+  "question_id": "18636",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ethics 23\\18636",
+  "extracted_at": "2025-11-05T14:17:30.267088",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:47:21.919354",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

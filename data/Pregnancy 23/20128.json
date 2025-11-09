@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old woman comes to the office due to amenorrhea. The patient's last menstrual period was 8 weeks ago, and she normally has regular, monthly menses. The patient has no chronic medical conditions and has had no surgeries. She takes no daily medications. Blood pressure is 100/60 mm Hg and pulse is 92/min. BMI is 24 kg/m². Abdominal examination shows a soft, nontender abdomen with no palpable masses. Pelvic examination shows an 8-week-sized, nontender uterus. Serum β-hCG level is elevated.",
+    "zh": "一名25岁的女性因闭经前来就诊。患者上次月经是8周前，通常月经规律，每月来潮。患者无慢性疾病病史，未接受过手术。她不服用日常药物。血压为100/60 mmHg，脉搏为92次/分。BMI为24 kg/m²。腹部检查显示腹部柔软，无触痛，无可触及肿块。盆腔检查显示子宫大小相当于8周，无触痛。血清β-hCG水平升高。"
+  },
+  "question": {
+    "en": "Which of the following is the most important direct role of hCG in this patient?",
+    "zh": "对于该患者而言，以下哪项是hCG最重要的直接作用？"
+  },
+  "options": {
+    "A": {
+      "en": "Induction of prolactin production by the pituitary",
+      "zh": "诱导垂体产生催乳素"
+    },
+    "B": {
+      "en": "Inhibition of uterine contractions",
+      "zh": "抑制子宫收缩"
+    },
+    "C": {
+      "en": "Initiation of embryonic cell division and differentiation",
+      "zh": "启动胚胎细胞分裂和分化"
+    },
+    "D": {
+      "en": "Maintenance of the corpus luteum",
+      "zh": "维持黄体"
+    },
+    "E": {
+      "en": "Promotion and maintenance of embryonic implantation",
+      "zh": "促进和维持胚胎植入"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Early pregnancy depends on hormonal feedback between the ovary, uterine endometrium, and embryo. In a normal menstrual cycle, ovulation (ie, oocyte release) creates the OVARIAN CORPUS LUTEUM, which increases PROGESTERONE PRODUCTION to induce endometrial decidualization (ie, uterine lining thickening, formation of the decidua basalis) in preparation for both promotion and maintenance of embryonic implantation (Choice E).\n\nWhen the oocyte is fertilized, a blastocyst eventually develops and implants into the uterine decidua basalis approximately 6-7 days after fertilization. The outer cells of the blastocyst (ie, trophoblast) then differentiate into the cytotrophoblast and syncytiotrophoblast, which develop into the placenta.\n\nThe SYNCYTIO TROPHOBLAST invades the decidua basalis and SECRETS β-hCG into maternal circulation. β-hCG signals the ovary to MAINTAIN THE CORPUS LUTEUM and to continue progesterone production, which maintains both the decidualized endometrium and the pregnancy until the placenta has developed enough to completely take over progesterone production (typically by 10 weeks gestation). Following this LUTEO-PLACENTAL TRANSITION, the corpus luteum degenerates, and the role of progesterone changes to maintain uterine quiescence (ie, inhibit contractions) (Choice B).\n\n(Choice A) Estrogen, not hCG, stimulates the anterior pituitary to produce prolactin during pregnancy.\n\n(Choice C) The process of embryonic cell division and differentiation begins before the formation of the placental syncytiotrophoblast, which secretes hCG; therefore, hCG does not cause embryonic cell division.\n\nEducational objective: β-hCG is a hormone secreted by the placental syncytiotrophoblast after uterine invasion that signals the ovary to maintain the corpus luteum, which produces progesterone in early pregnancy.",
+    "zh": "早孕依赖于卵巢、子宫内膜和胚胎之间的激素反馈。在正常的月经周期中，排卵（即卵母细胞释放）产生卵巢黄体，从而增加孕酮的产生，诱导子宫内膜蜕膜化（即子宫内膜增厚，形成基蜕膜），为促进和维持胚胎植入做准备（选项 E）。\n\n当卵母细胞受精时，囊胚最终发育并在受精后大约6-7天植入子宫基蜕膜。囊胚的外部细胞（即滋养层）随后分化为细胞滋养层和合胞滋养层，后者发育成胎盘。\n\n合胞滋养层侵入基蜕膜并将β-hCG分泌到母体循环中。β-hCG向卵巢发出信号，维持黄体并继续产生孕酮，这既维持了蜕膜化的子宫内膜，也维持了妊娠，直到胎盘发育到足以完全接管孕酮的产生（通常在妊娠10周时）。在此黄体-胎盘过渡之后，黄体退化，孕酮的作用转变为维持子宫静止（即，抑制收缩）（选项B）。\n\n（选项 A）雌激素而不是hCG刺激垂体前叶在妊娠期间产生催乳素。\n\n（选项 C）胚胎细胞分裂和分化的过程在分泌hCG的胎盘合胞滋养层形成之前就开始了；因此，hCG不会引起胚胎细胞分裂。\n\n教育目标：β-hCG是子宫侵入后由胎盘合胞滋养层分泌的激素，它向卵巢发出信号，以维持黄体，黄体在早孕期间产生孕酮。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the hormonal regulation of early pregnancy, specifically the role of human chorionic gonadotropin (hCG) in maintaining the corpus luteum and progesterone production.\n\nTo solve this question, one must recall the sequence of events in early pregnancy, including ovulation, fertilization, implantation, and the hormonal signals involved. Identifying the primary function of hCG in preventing luteolysis is key to selecting the correct answer.",
+    "zh": "本题考察对早孕激素调节的理解，特别是人绒毛膜促性腺激素（hCG）在维持黄体和孕酮产生中的作用。\n\n为了解决这个问题，必须回忆早孕的事件顺序，包括排卵、受精、着床以及所涉及的激素信号。确定 hCG 在防止黄体溶解中的主要功能是选择正确答案的关键。"
+  },
+  "tags": "Human chorionic gonadotropin (hCG); Corpus luteum; Progesterone; Early pregnancy; Endocrinology; Reproductive system; Hormonal regulation",
+  "category": "Pregnancy",
+  "question_id": "20128",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pregnancy 23\\20128",
+  "extracted_at": "2025-11-05T19:47:09.872105",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:49:16.010883",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

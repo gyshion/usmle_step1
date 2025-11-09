@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 21-year-old woman comes to the office due to a long history of episodic headaches, dizziness, and gait imbalance. The headaches are located in the occipital region, are characterized as dull, and last for several hours. Physical examination reveals gait ataxia but no focal weakness or sensory loss. MRI of the brain shows low-lying cerebellar tonsils extending below the plane of the foramen magnum into the vertebral canal.",
+    "zh": "一名21岁的女性因长期反复发作的头痛、头晕和步态不稳前来就诊。头痛位于枕部，呈钝痛，持续数小时。体格检查显示步态共济失调，但无局灶性无力或感觉丧失。脑部 MRI 显示小脑扁桃体下垂，延伸至枕骨大孔平面以下，进入椎管。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's condition?",
+    "zh": "以下哪项最可能是该患者病情的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Autoimmune disease",
+      "zh": "自身免疫性疾病"
+    },
+    "B": {
+      "en": "Congenital malformation",
+      "zh": "先天性畸形"
+    },
+    "C": {
+      "en": "Germline mutation",
+      "zh": "生殖细胞突变"
+    },
+    "D": {
+      "en": "Neoplastic disease",
+      "zh": "肿瘤性疾病"
+    },
+    "E": {
+      "en": "Sequelae of prior trauma",
+      "zh": "既往创伤的后遗症"
+    },
+    "F": {
+      "en": "Vascular disease",
+      "zh": "血管性疾病"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Chiari malformations are a group of congenital disorders caused by underdevelopment of the posterior fossa. The small size of the fossa causes parts of the cerebellum and medulla to herniate through the foramen magnum. There are 2 types of Chiari malformations. Chiari type I is the most common and benign, and is characterized by low-lying cerebellar tonsils that extend below the foramen magnum into the vertebral canal. Patients typically present during adolescence/adulthood with paroxysmal occipital headaches (due to meningeal irritation) and cerebellar dysfunction (eg, dizziness; ataxia) due to compression of the cerebellar tonsils.\n\nChiari type II, Arnold-Chiari malformation, is more severe and typically becomes evident during the neonatal period. It is characterized by downward displacement of the cerebellum (vermis, tonsils) and medulla through the foramen magnum. Non-communicating hydrocephalus almost always occurs due to aqueductal stenosis. Compression of the medulla may result in dysphagia, stridor, and apnea. Patients also often have an associated lumbar myelomeningocele, which can cause lower limb paralysis.\n\n(Choice A) Multiple sclerosis is an autoimmune demyelinating disorder of the central nervous system that typically presents in young adult women with neurologic deficits disseminated in space and time. Neuroimaging typically shows periventricular white matter lesions.\n\n(Choice C) Friedreich ataxia is an autosomal recessive trinucleotide repeat disorder that presents during childhood with ataxia, loss of vibration/proprioception sense, and skeletal abnormalities (eg, kyphoscoliosis, pes cavus).\n\n(Choice D) Cerebellar neoplasms (eg, medulloblastoma, pilocytic astrocytoma) often present in children with symptoms of increased intracranial pressure (eg, headache, vomiting) and cerebellar dysfunction. However, the absence of a cerebellar tumor on neuroimaging makes this unlikely.\n\n(Choice E) Traumatic brain injury can cause headache and neurologic impairment; however, this patient's MRI findings are highly characteristic of Chiari type I malformation.\n\n(Choice F) Cerebellar stroke may present with acute-onset occipital headache, dizziness, and ataxia. However, this patient's young age, absence of cardiovascular risk factors, and long history of episodic symptoms make this less likely.\n\nEducational objective:\n\nChiari malformations are congenital disorders that result from underdevelopment of the posterior fossa, causing parts of the cerebellum and medulla to herniate through the foramen magnum. Chiari type I is relatively benign and presents during adulthood with occipital headache and cerebellar dysfunction. Chiari type II is a more severe form that affects neonates and is often associated with lumbar myelomeningocele and hydrocephalus.",
+    "zh": "Chiari 畸形是一组由后颅窝发育不全引起的先天性疾病。后颅窝体积小导致小脑和延髓部分通过枕骨大孔疝出。Chiari 畸形分为 2 种类型。Chiari I 型最常见且良性，其特征是小脑扁桃体下垂，延伸至枕骨大孔以下进入椎管。患者通常在青春期/成年期出现阵发性枕部头痛（由于脑膜刺激）和小脑功能障碍（如头晕；共济失调），这是由于小脑扁桃体受压所致。\n\nChiari II 型，Arnold-Chiari 畸形，更为严重，通常在新生儿期变得明显。其特征是小脑（蚓部、扁桃体）和延髓向下移位通过枕骨大孔。由于导水管狭窄，几乎总是发生非交通性脑积水。延髓受压可导致吞咽困难、喘鸣和呼吸暂停。患者也常伴有腰椎脊髓脊膜膨出，可导致下肢瘫痪。\n\n(选项 A) 多发性硬化症是一种中枢神经系统的自身免疫性脱髓鞘疾病，通常在年轻女性中表现为神经功能缺损，在时间和空间上弥散。神经影像学检查通常显示脑室周围白质病变。\n\n(选项 C) Friedreich 共济失调是一种常染色体隐性三核苷酸重复序列疾病，在儿童期表现为共济失调、振动/本体感觉丧失和骨骼异常（如脊柱侧弯、弓形足）。\n\n(选项 D) 小脑肿瘤（如成髓细胞瘤、毛细胞星形细胞瘤）常在儿童中表现为颅内压增高（如头痛、呕吐）和小脑功能障碍。然而，神经影像学检查未见小脑肿瘤，这使得可能性较小。\n\n(选项 E) 颅脑外伤可引起头痛和神经功能障碍；然而，该患者的 MRI 结果高度符合 Chiari I 型畸形的特征。\n\n(选项 F) 小脑卒中可表现为急性发作的枕部头痛、头晕和共济失调。然而，该患者的年轻、无心血管危险因素以及长期发作性症状的病史，使得这种情况不太可能发生。\n\n教学目标：\n\nChiari 畸形是由于后颅窝发育不全引起的先天性疾病，导致小脑和延髓部分通过枕骨大孔疝出。Chiari I 型相对良性，在成年期表现为枕部头痛和小脑功能障碍。Chiari II 型是一种更严重的类型，影响新生儿，并且常与腰椎脊髓脊膜膨出和脑积水相关。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Chiari malformations, specifically Chiari type I, and its typical presentation with occipital headaches and cerebellar dysfunction in young adults. It also requires differentiating Chiari malformations from other causes of headache and cerebellar symptoms. \n\nTo solve this question, recognize the key findings of episodic occipital headaches, gait ataxia, and MRI showing low-lying cerebellar tonsils. This clinical picture is highly suggestive of Chiari type I malformation, making congenital malformation the most likely cause.",
+    "zh": "本题考察对 Chiari 畸形的认识，特别是 Chiari I 型，及其在年轻人中以枕部头痛和小脑功能障碍为典型表现。它还需要将 Chiari 畸形与其他引起头痛和小脑症状的原因区分开来。\n\n要解决这个问题，需要认识到反复发作的枕部头痛、步态共济失调以及 MRI 显示小脑扁桃体下垂的关键发现。这种临床表现高度提示 Chiari I 型畸形，使先天性畸形成为最可能的原因。"
+  },
+  "tags": "Chiari malformation; Congenital malformation; Cerebellum; Foramen magnum; Occipital headache; Ataxia; Neurology; MRI; Posterior fossa",
+  "category": "Neuro",
+  "question_id": "504",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\504",
+  "extracted_at": "2025-11-05T15:35:15.459541",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:26:58.931142",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

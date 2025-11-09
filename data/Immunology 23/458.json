@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "An 18-year-old woman comes to the emergency department for evaluation of a rash. The patient developed mild aches involving her knees and ankles 2 days ago. Before going to sleep last night, she noticed purplish spots around her right knee. Today, the rash involves both of the lower extremities. She has had no fever, weight loss, sore throat, abdominal pain, vomiting, or diarrhea. The patient has no chronic medical conditions and takes no medications. Temperature is 37 C (98.6 F), blood pressure is 146/90 mm Hg, pulse is 90/min, and respirations are 20/min. Cardiopulmonary examination is unremarkable. The patient has pain with passive range of motion of the knees and ankles. Skin examination is seen in the exhibit {{exhibit_1}}.\n\nLaboratory results are as follows:\n\nComplete blood count\n\nHemoglobin 14 g/dL\nPlatelets 260,000/mm³\nLeukocytes 9,000/mm³\n\nUrinalysis\n\nSpecific gravity 1.016\nProtein +2",
+    "zh": "一名18岁女性因皮疹到急诊科就诊。患者2天前出现轻微的膝盖和脚踝疼痛。昨晚睡前，她注意到右膝周围出现紫红色斑点。今天，皮疹累及双下肢。她没有发烧、体重减轻、咽喉痛、腹痛、呕吐或腹泻。患者没有慢性病，也没有服用药物。体温37°C（98.6°F），血压146/90mmHg，脉搏90次/分钟，呼吸20次/分钟。心肺检查无异常。患者膝盖和脚踝的被动活动范围受限。皮肤检查见于图{{exhibit_1}}。\n\n实验室检查结果如下：\n\n全血细胞计数\n\n血红蛋白14 g/dL\n血小板260,000/mm³\n白细胞9,000/mm³\n\n尿液分析\n\n比重1.016\n蛋白+2"
+  },
+  "question": {
+    "en": "Histologic examination of the rash is most likely to show which of the following?",
+    "zh": "皮疹的组织学检查最有可能显示以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Abundant intravascular fibrin without inflammatory cells",
+      "zh": "丰富的血管内纤维蛋白，无炎症细胞"
+    },
+    "B": {
+      "en": "Obliterative endarteritis with lymphocytes and plasma cells",
+      "zh": "伴有淋巴细胞和浆细胞的闭塞性动脉内膜炎"
+    },
+    "C": {
+      "en": "Perivascular necrotizing granulomas with eosinophilic infiltration",
+      "zh": "血管周围坏死性肉芽肿伴嗜酸性粒细胞浸润"
+    },
+    "D": {
+      "en": "Small vessels damaged by perivascular neutrophil accumulation",
+      "zh": "小血管受损，伴有血管周围中性粒细胞聚集"
+    },
+    "E": {
+      "en": "Vessels with transmural granulomatous infiltration and fragmentation of elastic fibers",
+      "zh": "血管壁有全壁性肉芽肿性浸润和弹性纤维断裂"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "HSP is an immune-mediated type III hypersensitivity reaction in which deposition of IgA immune complexes (which may form in response to a preceding upper respiratory infection) triggers complement activation and inflammation of small vessels throughout the body. Vasculitis within the papillary dermis manifests as nonthrombocytopenic palpable purpura on dependent areas, such as the buttocks and lower extremities. Histopathology {{exhibit_2}} shows leukocytoclastic vasculitis, in which small superficial blood vessels are damaged by perivascular neutrophilic inflammation, resulting in fibrin deposition in the vessel wall (ie, fibrinoid necrosis) and red blood cell extravasation. Neutrophil breakdown (leukocytoclasis) leads to the formation of perivascular nuclear debris. Immunofluorescence reveals IgA and C3 in the vessel walls.\n\nHSP is usually benign and self-limiting, particularly in children. However, adults are at increased risk for renal complications, such as nephrotic syndrome and acute kidney injury.\n\n(Choice A) Disseminated intravascular coagulation is characterized by abundant intravascular fibrin deposition (ie, fibrin thrombi) in the absence of vascular inflammation. It occurs most often in the setting of trauma, sepsis, or malignancy and presents with bleeding (eg, purpura) due to thrombocytopenia and coagulopathy. Although fibrin thrombi may be seen with HSP, extensive inflammatory infiltrate is also present.\n\n(Choice B) Obliterative endarteritis with lymphocytes and plasma cells is seen with later-stage syphilis, which can cause arthralgias, renal abnormalities, and a rash; however, classic skin findings include scaly red/brown macules or papules that are typically diffuse and involve the palms and soles. In contrast, this patient has purpuric lesions localized to the lower extremities.\n\n(Choice C) Perivascular necrotizing granulomas with eosinophilic infiltration are characteristic of eosinophilic granulomatosis with polyangiitis (Churg-Strauss syndrome), a small- to medium-vessel vasculitis. It can cause renal, skin, and joint involvement later in life (eg, third to fourth decades) but initially presents with asthma symptoms, which are not seen in this patient.\n\n(Choice E) Transmural granulomatous inflammation with fragmentation of elastic fibers is a typical finding of giant cell arteritis, seen in adults age >50. It involves medium/large arteries and most commonly presents with headache.\n\nEducational objective:\nHENOCH-SCHÖNLEIN PURPURA, or IgA vasculitis, classically presents with palpable purpura, with or without abdominal pain, arthralgias, and renal involvement. Histopathologic examination of the skin lesions reveals damaged small vessels with fibrinoid necrosis, perivascular neutrophilic inflammation, and nuclear debris (ie, leukocytoclastic vasculitis). Immunofluorescence reveals deposition of IgA and C3.",
+    "zh": "HSP是一种免疫介导的III型超敏反应，其中IgA免疫复合物的沉积（可能对先前的上呼吸道感染产生反应）会触发补体激活和全身小血管的炎症。真皮乳头内的血管炎表现为非血小板减少性可触性紫癜，位于依赖部位，如臀部和下肢。组织病理学{{exhibit_2}}显示白细胞碎裂性血管炎，其中小表浅血管因血管周围中性粒细胞炎症而受损，导致血管壁纤维蛋白沉积（即纤维蛋白样坏死）和红细胞外渗。中性粒细胞崩解（白细胞碎裂）导致血管周围核碎片的形成。免疫荧光显示血管壁内有IgA和C3。\n\nHSP通常是良性和自限性的，尤其是在儿童中。然而，成年人发生肾脏并发症的风险增加，如肾病综合征和急性肾损伤。\n\n（选项A）弥散性血管内凝血的特征是在没有血管炎症的情况下，大量的血管内纤维蛋白沉积（即纤维蛋白血栓）。它最常发生在创伤、脓毒症或恶性肿瘤的情况下，表现为由于血小板减少症和凝血病引起的出血（例如，紫癜）。虽然HSP中可能出现纤维蛋白血栓，但也会出现广泛的炎症浸润。\n\n（选项B）伴有淋巴细胞和浆细胞的闭塞性动脉内膜炎见于晚期梅毒，可引起关节痛、肾脏异常和皮疹；然而，典型的皮肤表现包括鳞屑状红/棕色斑点或丘疹，通常弥漫且累及手掌和足底。相比之下，该患者有局限于下肢的紫癜性病变。\n\n（选项C）血管周围坏死性肉芽肿伴嗜酸性粒细胞浸润是嗜酸性肉芽肿性多血管炎（Churg-Strauss综合征）的特征，这是一种中小血管血管炎。它可能会在后期引起肾脏、皮肤和关节受累（例如，30至40岁），但最初表现为哮喘症状，而该患者没有出现。\n\n（选项E）全壁性肉芽肿性炎症伴弹性纤维断裂是巨细胞性动脉炎的典型发现，见于50岁以上成年人。它涉及中/大动脉，最常表现为头痛。\n\n教育目标：\nHENOCH-SCHÖNLEIN紫癜，或IgA血管炎，典型表现为可触性紫癜，可伴或不伴腹痛、关节痛和肾脏受累。皮肤病变的组织病理学检查显示受损的小血管伴纤维蛋白样坏死、血管周围中性粒细胞炎症和核碎片（即，白细胞碎裂性血管炎）。免疫荧光显示IgA和C3的沉积。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Henoch-Schönlein purpura (HSP), specifically its clinical presentation and histopathologic findings. HSP is characterized by palpable purpura, arthralgia, abdominal pain, and renal involvement, with leukocytoclastic vasculitis on skin biopsy.\n\nTo solve this question, recognize the classic features of HSP in the clinical vignette (palpable purpura, arthralgia, proteinuria). Then, select the histopathologic finding most consistent with HSP, which is small vessel damage with perivascular neutrophil accumulation (leukocytoclastic vasculitis).",
+    "zh": "本题考察对亨-舍二氏紫癜（HSP）的认识，特别是其临床表现和组织病理学发现。HSP的特征是可触性紫癜、关节痛、腹痛和肾脏受累，皮肤活检可见白细胞碎裂性血管炎。\n\n要解决这个问题，需要在临床描述中识别HSP的典型特征（可触性紫癜、关节痛、蛋白尿）。然后，选择与HSP最一致的组织病理学发现，即小血管受损伴血管周围中性粒细胞聚集（白细胞碎裂性血管炎）。"
+  },
+  "tags": "Henoch-Schönlein purpura; IgA vasculitis; Leukocytoclastic vasculitis; Palpable purpura; Arthralgia; Renal disease; Nephritis; Vasculitis; Pathology; Immunology; {{exhibit_3}}",
+  "category": "Immunology",
+  "question_id": "458",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\458",
+  "extracted_at": "2025-11-05T14:44:55.403500",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:02:23.742757",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

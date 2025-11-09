@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 46-year-old man comes to the office with the skin lesions shown in the photograph below {{exhibit_1}}. The patient first noticed the lesions a week ago after he returned from a trip to Hawaii. He has not had any other significant rashes or skin lesions but does have a history of autoimmune thyroiditis.",
+    "zh": "一名46岁男性前来就诊，表现为以下照片{{exhibit_1}}中的皮肤损伤。患者一周前从夏威夷旅行回来后首次注意到这些病变。他没有其他显著的皮疹或皮肤损伤，但有自身免疫性甲状腺炎病史。"
+  },
+  "question": {
+    "en": "Which of the following would most likely be seen on histopathologic examination of this patient's lesions?",
+    "zh": "对该患者的病变进行组织病理学检查时，最有可能看到以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Absence of melanocytes in the epidermis",
+      "zh": "表皮中黑素细胞缺失"
+    },
+    "B": {
+      "en": "Linear pattern of melanocyte proliferation",
+      "zh": "黑素细胞增殖的线性模式"
+    },
+    "C": {
+      "en": "Melanosome aggregates within the cytoplasm of melanocytes",
+      "zh": "黑素细胞胞质内的黑素体聚集"
+    },
+    "D": {
+      "en": "Normal melanocytes with diminished pigment transfer to keratinocytes",
+      "zh": "正常的黑素细胞，色素向角质形成细胞的转移减少"
+    },
+    "E": {
+      "en": "Poor melanin formation in melanocytes",
+      "zh": "黑素细胞中黑色素形成不良"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has vitiligo, which is characterized by flat, well-circumscribed patches of depigmentation of variable size due to the partial or complete loss of melanocytes. These lesions often manifest by the second or third decade of life and can be more obvious in individuals with darkly pigmented skin. Vitiligo classically erupts on the face, extremities, axillae, groin, and over hard bony surfaces (eg, knees). Histologic examination of the affected epidermis would demonstrate the absence of melanocytes and melanin pigment.\n\nThe pathogenesis of melanocyte loss in vitiligo is likely a combination of autoimmune activity, neurohumoral toxicity specific for melanocytes, and melanocyte self-destruction (eg, toxic intermediate exposure during melanin synthesis). Autoimmune activity seems to have the strongest correlation with vitiligo due to the presence of circulating melanocyte antibodies in patients and the high prevalence of concurrent autoimmune disorders (e.g., type I diabetes mellitus, pernicious anemia, Addison disease, autoimmune thyroiditis).\n\n(Choice B) Lentigines are small, benign pigmented lesions characterized by linear melanocytic hyperplasia.\n\n(Choice C) Café-au-lait spots demonstrate increased melanosome aggregates within the melanocyte cytoplasm. These macules are hyperpigmented and associated with neurofibromatosis type 1.\n\n(Choice D) Postinflammatory hypopigmentation can occur after significant inflammatory skin lesions (eg, discoid lupus, psoriasis) and is characterized by redistribution of existing melanin within the skin and/or reduced transfer of melanin to keratinocytes.\n\n(Choice E) Individuals with albinism have melanocytes that do not produce melanin because of absent or defective tyrosinase.\n\nEducational objective:\nVitiligo is a common condition characterized by the loss of epidermal melanocytes. It occurs more commonly in patients with autoimmune disorders (eg, autoimmune thyroiditis, type I diabetes) and results in well-defined, variably sized patches of hypopigmentation. {{exhibit_2}}",
+    "zh": "该患者患有白癜风，其特征是由于黑素细胞部分或完全缺失而导致的，大小不一的、边界清楚的色素减退斑。这些病变通常在生命的第二或第三个十年出现，在深色皮肤的人中可能更明显。白癜风的典型表现包括面部、四肢、腋窝、腹股沟和坚硬骨骼表面（如膝盖）。受影响表皮的组织学检查将显示黑素细胞和黑色素色素的缺失。\n\n白癜风中黑素细胞丢失的发病机制可能是自身免疫活性、对黑素细胞特异的神经体液毒性和黑素细胞的自毁（例如，在黑色素合成过程中接触有毒中间体）的组合。由于患者体内存在循环的黑素细胞抗体，以及并发自身免疫性疾病（例如，I型糖尿病、恶性贫血、Addison病、自身免疫性甲状腺炎）的高患病率，自身免疫活性似乎与白癜风具有最强的相关性。\n\n(选项 B) 雀斑是小的、良性的色素性病变，其特征是黑素细胞的线性增生。\n\n(选项 C) 牛奶咖啡斑显示黑素细胞胞质内黑素体聚集增加。这些斑点色素沉着过度，并与1型神经纤维瘤病相关。\n\n(选项 D) 炎症后色素减退可能发生在显著的炎症性皮肤病变（如盘状红斑狼疮、银屑病）之后，其特征是皮肤内现有黑色素的重新分布和/或黑色素向角质形成细胞的转移减少。\n\n(选项 E) 白化病患者的黑素细胞不产生黑色素，因为酪氨酸酶缺失或有缺陷。\n\n教育目标：\n白癜风是一种常见病，其特征是表皮黑素细胞的缺失。它更常见于患有自身免疫性疾病的患者（例如，自身免疫性甲状腺炎、I型糖尿病），并导致界限清晰、大小不一的色素减退斑。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of vitiligo, its clinical presentation, and the expected histopathologic findings. Vitiligo is characterized by loss of melanocytes in the epidermis, leading to depigmented patches.\n\nTo solve this question, recognize the clinical presentation of vitiligo (depigmented skin patches) and associate it with the underlying pathophysiology (loss of melanocytes). Consider the patient's history of autoimmune thyroiditis, which is associated with vitiligo.",
+    "zh": "此题考察对白癜风、其临床表现和预期的组织病理学发现的了解。白癜风的特征是表皮中黑素细胞的缺失，导致色素减退斑。\n\n要解决这个问题，需要认识到白癜风的临床表现（色素减退的皮肤斑块），并将其与潜在的病理生理学（黑素细胞的缺失）联系起来。考虑患者的自身免疫性甲状腺炎病史，这与白癜风相关。"
+  },
+  "tags": "Vitiligo; Autoimmune disease; Skin lesions; Melanocytes; Histopathology; Depigmentation; Autoimmune thyroiditis; Dermatology",
+  "category": "Derma",
+  "question_id": "1110",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\1110",
+  "extracted_at": "2025-11-05T12:20:55.832933",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:33:10.180292",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

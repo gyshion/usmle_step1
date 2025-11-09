@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 61-year-old man comes to the emergency department due to fever, chills, and a productive cough with thick, blood-tinged sputum for the past several days. His temperature is 38.8 C (102 F), blood pressure is 90/60 mm Hg, and pulse is 110/min. On examination, the patient is lethargic and ill appearing. Bronchial breath sounds and crackles are present in the right lung. Blood and sputum cultures grow Klebsiella pneumoniae. It is determined that the bacteria express a lipopolysaccharide on their outer membrane surface that stimulates toll-like receptors in the inflammatory cells. This in turn leads to degradation of the IκB inhibitor protein, which normally binds to a latent transcription factor found in the cytoplasm. Which of the following factors is most likely to be directly activated by the removal of this inhibitor protein?",
+    "zh": "一名61岁男性因发烧、寒战以及过去几天出现带有血性痰液的咳嗽到急诊科就诊。他的体温为38.8摄氏度（102华氏度），血压为90/60毫米汞柱，脉搏为110次/分钟。体格检查显示患者嗜睡，病情严重。右肺出现支气管呼吸音和爆裂音。血培养和痰培养均培养出肺炎克雷伯菌。经确定，细菌在其外膜表面表达脂多糖，刺激炎症细胞中的 toll 样受体。这反过来会导致 IκB 抑制蛋白的降解，该蛋白通常与细胞质中潜伏的转录因子结合。下列哪种因子最有可能被该抑制蛋白的移除直接激活？"
+  },
+  "question": {
+    "en": "Which of the following factors is most likely to be directly activated by the removal of this inhibitor protein?",
+    "zh": "下列哪种因子最有可能被该抑制蛋白的移除直接激活？"
+  },
+  "options": {
+    "A": {
+      "en": "Granulocyte colony-stimulating factor",
+      "zh": "粒细胞集落刺激因子"
+    },
+    "B": {
+      "en": "Janus kinase 2",
+      "zh": "Janus 激酶 2"
+    },
+    "C": {
+      "en": "Nuclear factor-kappa B",
+      "zh": "核因子-κB"
+    },
+    "D": {
+      "en": "Transforming growth factor-β",
+      "zh": "转化生长因子-β"
+    },
+    "E": {
+      "en": "Tumor necrosis factor-α",
+      "zh": "肿瘤坏死因子-α"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The correct answer is C because Nuclear factor-kappa B (NF-κB) is a transcription factor that is normally held inactive in the cytoplasm by its inhibitor protein, IκB. Activation of toll-like receptors by bacterial lipopolysaccharide leads to the activation of IκB kinase, which then phosphorylates IκB. This results in the ubiquitination and degradation of IκB, freeing NF-κB to translocate to the nucleus and activate the transcription of inflammatory genes. The image {{exhibit_1}} depicts the Nuclear factor kappa B (NF-κB) signaling pathway, illustrating how bacterial products binding to TLRs lead to IκB degradation and NF-κB activation.\n\n(Choices A and E) Granulocyte colony-stimulating factor (G-CSF) and Tumor necrosis factor-α (TNF-α) are cytokines that are downstream targets of NF-κB activation. While they are involved in the inflammatory response, they are not directly activated by the removal of IκB. NF-κB upregulates the transcription of G-CSF and TNF-α, but IκB degradation is not directly involved in their activation.\n\n(Choice B) Janus kinase 2 (JAK2) is a tyrosine kinase involved in signaling pathways for myeloproliferation and is associated with conditions like polycythemia vera. It does not play a primary role in the direct activation pathway initiated by IκB degradation in response to infection.\n\n(Choice D) Transforming growth factor-β (TGF-β) is a cytokine involved in various cellular processes, including immune response, cell growth, and differentiation. Its signaling pathway is complex and involves binding to specific receptors and activation of downstream SMAD proteins. It is not directly activated by the removal of IκB.\n\nEducational objective: Nuclear factor-kappa B (NF-κB) is a transcription factor with a critical role in the immune response to infection. NF-κB is normally present in the cytoplasm in a latent, inactive state bound to its inhibitor protein, IκB. Extracellular substances such as lipopolysaccharide can initiate a signal cascade that results in the destruction of IκB and translocation of free NF-κB to the nucleus.",
+    "zh": "正确答案是C，因为核因子-κB（NF-κB）是一种转录因子，通常由其抑制蛋白 IκB 在细胞质中保持非活性状态。细菌脂多糖激活 toll 样受体会导致 IκB 激酶的激活，然后磷酸化 IκB。这导致 IκB 的泛素化和降解，释放 NF-κB 易位至细胞核并激活炎症基因的转录。图像{{exhibit_1}}描述了核因子 kappa B (NF-κB) 信号通路，说明了细菌产物与 TLR 结合如何导致 IκB 降解和 NF-κB 激活。\n\n（选项 A 和 E）粒细胞集落刺激因子（G-CSF）和肿瘤坏死因子-α（TNF-α）是 NF-κB 激活的下游靶标。虽然它们参与炎症反应，但它们不会被 IκB 的移除直接激活。NF-κB 上调 G-CSF 和 TNF-α 的转录，但 IκB 降解与其激活没有直接关系。\n\n（选项 B）Janus 激酶 2 (JAK2) 是一种酪氨酸激酶，参与骨髓增生信号通路，与真性红细胞增多症等疾病有关。它在 IκB 降解响应感染启动的直接激活途径中不起主要作用。\n\n（选项 D）转化生长因子-β (TGF-β) 是一种细胞因子，参与各种细胞过程，包括免疫反应、细胞生长和分化。它的信号通路很复杂，涉及与特定受体的结合以及下游 SMAD 蛋白的激活。它不会被 IκB 的移除直接激活。\n\n教学目标：核因子-κB (NF-κB) 是一种转录因子，在对感染的免疫反应中起关键作用。NF-κB 通常以潜伏、非活性状态存在于细胞质中，并与抑制蛋白 IκB 结合。细胞外物质如脂多糖可以启动一个信号级联反应，导致 IκB 的破坏和游离 NF-κB 易位至细胞核。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the NF-κB signaling pathway, a critical component of the innate immune response to bacterial infections. Specifically, it assesses the knowledge of how bacterial products trigger the degradation of the inhibitor protein IκB, leading to the activation of the transcription factor NF-κB.\n\nTo solve this question, one must identify the key components of the inflammatory signaling cascade described in the vignette. Recognizing that the removal of an inhibitor protein typically leads to the activation of the molecule it was inhibiting is crucial. Understanding the role of NF-κB as a transcription factor that is normally sequestered by IκB is the central concept to apply.",
+    "zh": "此题考察了对 NF-κB 信号通路的理解，这是对细菌感染的先天免疫反应的一个关键组成部分。具体而言，它评估了对细菌产物如何触发抑制蛋白 IκB 降解从而激活转录因子 NF-κB 的认识。\n\n要解决这个问题，必须确定短文中所述炎症信号级联反应的关键组成部分。认识到移除抑制蛋白通常会导致其所抑制分子的激活至关重要。理解 NF-κB 作为一种通常被 IκB 隔离的转录因子的作用是需要应用的核心概念。"
+  },
+  "tags": "Nuclear factor-kappa B; NF-κB signaling; IκB degradation; Toll-like receptors; Lipopolysaccharide; Innate immunity; Inflammation; Transcription factors; Klebsiella pneumoniae",
+  "category": "Pathology",
+  "question_id": "11955",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pathology 23\\11955",
+  "extracted_at": "2025-11-05T19:43:38.705401",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:45:23.229330",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

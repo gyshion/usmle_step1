@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "Researchers are investigating the use of immune checkpoint inhibitors for the treatment of advanced colorectal cancer. They find that this therapy is more effective in patients with DNA mismatch-repair deficiency compared to patients with an intact mismatch-repair mechanism. Which of the following most likely explains the improved efficacy of the drug in the first group of patients?",
+    "zh": "研究人员正在研究使用免疫检查点抑制剂治疗晚期结直肠癌。他们发现，与具有完整错配修复机制的患者相比，这种疗法在具有 DNA 错配修复缺陷的患者中更有效。以下哪项最有可能解释该药物在第一组患者中疗效提高的原因？"
+  },
+  "question": {
+    "en": "Which of the following most likely explains the improved efficacy of the drug in the first group of patients?",
+    "zh": "以下哪项最有可能解释该药物在第一组患者中疗效提高的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Higher burden of tumor neoantigens",
+      "zh": "肿瘤新抗原负荷较高"
+    },
+    "B": {
+      "en": "Increased MHC class I expression in tumor cells",
+      "zh": "肿瘤细胞中 MHC I 类表达增加"
+    },
+    "C": {
+      "en": "Increased number of regulatory T cells",
+      "zh": "调节性 T 细胞数量增加"
+    },
+    "D": {
+      "en": "Increased synthesis of metalloproteinases",
+      "zh": "金属蛋白酶合成增加"
+    },
+    "E": {
+      "en": "Lower frequency of DNA mutations",
+      "zh": "DNA 突变频率较低"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "DNA mismatch repair (MMR) is a highly conserved pathway that maintains genomic integrity by correcting base-base mismatches and insertions/deletions during DNA replication, recombination, or repair. Loss of MMR in germline cells is a common driver of malignancy (eg, colorectal cancer) because it leads to the development of unrepaired oncogenic mutations during cellular division, which accumulate through generations of cellular progeny. Mutations in genes that control apoptosis, cellular growth, and epigenetics eventually lead to malignant transformation.\n\nCancer cells with damaged MMR typically contain >1,000 somatic coding mutations, whereas cancer cells with intact MMR usually have only 40-50 (Choice E). MMR impairment greatly increases the rate of frameshift mutation, resulting in the formation of large quantities of neoantigens not seen in healthy cells. These neoantigens are displayed on class I major histocompatibility complexes (MHCs) on the cancer cell surface, leading to the activation of a diverse, polyclonal pool of antitumor cytotoxic T cells.\n\nTherefore, in order to survive and proliferate, malignant cells with impaired MMR are particularly dependent on adaptations to avoid cytotoxic T-cell-mediated destruction; these adaptations typically include downregulating expression of class I MHCs (Choice B), which impairs identification of the cancer cell by cytotoxic T cells, and overexpressing immune checkpoint molecules (eg, CTLA4, PD-L1), which impairs T-cell activation and effector function. Although no approved therapy targets diminished class I MHC expression, treatment with immune checkpoint inhibitors (eg, ipilimumab, pembrolizumab) can restore cytotoxic T-cell function in the tumor microenvironment, leading to aggressive antitumor activity.\n\n(Choice C) Regulatory T cells suppress immune activity with surface receptors (eg, CTLA4) and cytokines (eg, IL-10, TGF-beta). Increased regulatory T cells in the tumor microenvironment is associated with poor prognosis. but MMR mutations are not associated with regulatory T-cell recruitment.\n\n(Choice D) Metalloproteinases allow tumor cells to open a channel through the basement membrane and dislodge from their site of origin. This is an important component of metastasis but is not strongly associated with MMR deficiency.\n\nEducational objective:\nBecause tumors with defective DNA mismatch repair generate high levels of neoantigens, they are particularly dependent on adaptations (eg, overexpression of immune checkpoints) to avoid cytotoxic T-cell destruction. Treatment with immune checkpoint inhibitors restore antitumor cytotoxic T-cell activity and often dramatically reduce tumor burden.",
+    "zh": "DNA 错配修复 (MMR) 是一种高度保守的途径，通过在 DNA 复制、重组或修复过程中纠正碱基错配和插入/缺失来维持基因组完整性。 种系细胞中 MMR 的缺失是恶性肿瘤（例如，结直肠癌）的常见驱动因素，因为它会导致细胞分裂过程中未修复的致癌突变的发展，这些突变会通过几代细胞后代积累。 控制细胞凋亡、细胞生长和表观遗传学的基因突变最终导致恶性转化。\n\nMMR 受损的癌细胞通常包含 >1,000 个体细胞编码突变，而 MMR 完整的癌细胞通常只有 40-50 个 (选项 E)。 MMR 损伤会大大增加移码突变的速率，导致形成大量在健康细胞中未见的新抗原。 这些新抗原显示在癌细胞表面的 I 类主要组织相容性复合物 (MHC) 上，从而导致多种抗肿瘤细胞毒性 T 细胞的激活。\n\n因此，为了生存和增殖，MMR 受损的恶性细胞特别依赖于适应以避免细胞毒性 T 细胞介导的破坏； 这些适应通常包括下调 I 类 MHC 的表达（选项 B），从而损害细胞毒性 T 细胞对癌细胞的识别，并过度表达免疫检查点分子（例如，CTLA4、PD-L1），从而损害 T 细胞激活和效应功能。 尽管目前还没有获批的治疗方法靶向 I 类 MHC 表达降低，但使用免疫检查点抑制剂（例如，ipilimumab、pembrolizumab）可以恢复肿瘤微环境中细胞毒性 T 细胞的功能，从而导致积极的抗肿瘤活性。\n\n(选项 C) 调节性 T 细胞通过表面受体（例如，CTLA4）和细胞因子（例如，IL-10、TGF-β）抑制免疫活性。 肿瘤微环境中调节性 T 细胞的增加与不良预后相关。 但 MMR 突变与调节性 T 细胞募集无关。\n\n(选项 D) 金属蛋白酶允许肿瘤细胞通过基底膜打开通道并从其起源部位脱离。 这是转移的重要组成部分，但与 MMR 缺陷没有很强的相关性。\n\n教育目标：\n由于具有缺陷性 DNA 错配修复的肿瘤会产生高水平的新抗原，因此它们特别依赖于适应（例如，过度表达免疫检查点）以避免细胞毒性 T 细胞的破坏。 使用免疫检查点抑制剂可恢复抗肿瘤细胞毒性 T 细胞活性，并且通常会显着降低肿瘤负荷。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of DNA mismatch repair (MMR) deficiency in cancer and its impact on neoantigen production and response to immune checkpoint inhibitors. It assesses the knowledge of how MMR deficiency leads to increased neoantigen burden, making tumors more susceptible to immune checkpoint blockade. \n\nThe key to solving this question is recognizing that MMR deficiency results in a higher mutation rate and, consequently, a greater number of neoantigens. These neoantigens make the tumor more immunogenic and responsive to immune checkpoint inhibitors, which enhance T-cell activity against cancer cells. {{exhibit_1}} {{exhibit_2}}",
+    "zh": "这个问题考察了对癌症中 DNA 错配修复 (MMR) 缺陷的理解及其对新抗原产生和对免疫检查点抑制剂反应的影响。 它评估了对 MMR 缺陷如何导致新抗原负荷增加的认识，从而使肿瘤更容易受到免疫检查点阻断的影响。\n\n解决这个问题的关键是认识到 MMR 缺陷会导致更高的突变率，因此会产生更多的新抗原。 这些新抗原使肿瘤更具免疫原性，并且对免疫检查点抑制剂的反应更敏感，从而增强了 T 细胞对癌细胞的活性。 {{exhibit_1}} {{exhibit_2}}"
+  },
+  "tags": "DNA mismatch repair; Neoantigens; Immune checkpoint inhibitors; Colorectal cancer; Tumor immunology; Mutation rate; Immunotherapy; T-cell activation; CTLA4; PD-L1",
+  "category": "Blood",
+  "question_id": "22785",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\22785",
+  "extracted_at": "2025-11-05T11:33:01.846841",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:31:36.277645",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

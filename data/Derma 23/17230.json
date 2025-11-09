@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old man is brought to the emergency department from a homeless shelter due to alcohol intoxication. The patient has no other symptoms or history of significant medical conditions. Examination of the scalp reveals the findings shown in the exhibit {{exhibit_1}}. Which of the following organisms is most likely responsible for this patient's condition?",
+    "zh": "一名62岁男性因饮酒过量从收容所被送往急诊科。患者无其他症状或重大病史。头皮检查显示了展品{{exhibit_1}}中的发现。以下哪种病原体最有可能导致该患者的病情？"
+  },
+  "question": {
+    "en": "Which of the following organisms is most likely responsible for this patient's condition?",
+    "zh": "以下哪种病原体最有可能导致该患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Cimex lectularius",
+      "zh": "温床虫"
+    },
+    "B": {
+      "en": "Malassezia species",
+      "zh": "马拉色菌属"
+    },
+    "C": {
+      "en": "Pediculus humanus capitis",
+      "zh": "头虱"
+    },
+    "D": {
+      "en": "Pthirus pubis",
+      "zh": "阴虱"
+    },
+    "E": {
+      "en": "Sarcoptes scabiei",
+      "zh": "疥螨"
+    },
+    "F": {
+      "en": "Trichophyton tonsurans",
+      "zh": "断发毛癣菌"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has numerous nits, which are egg casings of the head louse Pediculus humanus capitis. Pediculosis capitis (ie, head lice infestation) is common in school children and adults who come into close contact with infested individuals (eg, sports teams, homeless shelters). Transmission is usually by direct contact, although transmission by fomites (eg, hats, hairbrushes) can also occur. Head lice require multiple blood meals a day and die within 2 days if separated from a host. They do not carry arthropod-borne infection, but the bite can induce a pruritic allergic reaction.\n\nFemale lice attach their nits to the hair shaft about 0.5 cm from the skin surface; nits further from the surface often represent old egg casings that have hatched and generally do not require treatment. First-line treatment includes topical pediculicides (eg, permethrin, ivermectin). Manual lice removal via wet combing is an alternate treatment for patients for whom standard pediculicides are not feasible (eg, children age <2 years, resource-poor populations).\n\n(Choice A) Cimex lectularius (ie, bedbugs) bites present as pruritic, red papules in clusters. The females lay eggs away from the host and do not produce nits.\n\n(Choice B) Colonization with Malassezia yeasts is associated with seborrheic dermatitis. On the scalp, this condition can produce white skin flakes in the hair (ie, dandruff). The flakes are not adherent to the hair shaft and are typically found loosely throughout the hair and on the clothing.\n\n(Choice D) Pthirus pubis (ie, crab louse, pubic louse) is usually transmitted by sexual contact. The louse is adapted for attaching to thick hair shafts, and the nits are usually found on pubic and other thick hair (eg, eyelashes); however, scalp hair is not typically affected.\n\n(Choice E) Sarcoptes scabiei causes scabies, which presents with pruritic papules and burrows on the interdigital and flexural skin of the extremities. The female mite lays eggs in burrows and does not form nits.\n\n(Choice F) Trichophyton tonsurans is a dermatophyte that causes tinea capitis, which presents as a scaly, erythematous patch of hair loss. There are often small, black dots that represent broken hair shafts. {{exhibit_2}}",
+    "zh": "该患者有许多虱卵，是头虱Pediculus humanus capitis的卵壳。头虱病（即，头虱感染）在学龄儿童和与感染者密切接触的成年人中很常见（例如，运动队、收容所）。传播通常通过直接接触，尽管也可能通过污染物（例如，帽子、梳子）传播。头虱每天需要多次吸血，如果与宿主分离，则在2天内死亡。它们不携带节肢动物传播的感染，但叮咬可引起瘙痒性过敏反应。\n\n雌性虱子将它们的虱卵附着在距皮肤表面约0.5厘米的毛干上；远离表面的虱卵通常代表已孵化的旧卵壳，通常不需要治疗。一线治疗包括局部杀虱剂（例如，苄氯菊酯、伊维菌素）。通过湿梳手动去除虱子是标准杀虱剂不可行患者（例如，年龄<2岁的儿童、资源匮乏的人群）的替代治疗方法。\n\n（选项A）温床虫叮咬表现为簇状瘙痒性红色丘疹。雌虫将卵产在宿主之外，不产生虱卵。\n\n（选项B）马拉色菌酵母菌定植与脂溢性皮炎有关。在头皮上，这种情况会在头发中产生白色皮屑（即，头皮屑）。这些皮屑不粘附在毛干上，通常松散地分布在头发中和衣服上。\n\n（选项D）阴虱通常通过性接触传播。这种虱子适应于附着在粗毛干上，虱卵通常位于阴毛和其他粗毛（例如，睫毛）上；然而，头皮毛通常不受影响。\n\n（选项E）疥螨引起疥疮，其表现为四肢指间和屈曲皮肤上的瘙痒性丘疹和隧道。雌性螨虫在隧道中产卵，不形成虱卵。\n\n（选项F）断发毛癣菌是一种皮肤癣菌，可引起头癣，其表现为鳞屑状、红斑性脱发斑片。通常有代表断发的小黑点。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the etiology, presentation, and treatment of pediculosis capitis (head lice). It requires recognizing the characteristic nits (egg casings) attached to the hair shafts and identifying the causative organism.\n\nTo solve this question, carefully examine the clinical description and the exhibit. Identify the presence of nits attached to the hair shafts, which is a key finding in pediculosis capitis. Rule out other conditions based on their distinct clinical features and the absence of nits.",
+    "zh": "这道题考察对头虱病（头虱）的病因、表现和治疗的了解。它需要识别附着在毛干上的特征性虱卵（卵壳），并识别病原体。\n\n要解决这个问题，请仔细检查临床描述和展品。确定是否存在附着在毛干上的虱卵，这是头虱病的关键发现。根据其他疾病的独特临床特征和不存在虱卵来排除它们。"
+  },
+  "tags": "Pediculosis capitis; Head lice; Pediculus humanus capitis; Dermatology; Infectious disease; Nits; Permethrin; Ivermectin",
+  "category": "Derma",
+  "question_id": "17230",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\17230",
+  "extracted_at": "2025-11-05T12:22:06.413625",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:34:35.779415",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

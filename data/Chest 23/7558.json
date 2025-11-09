@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 48-year-old man comes to the office for an initial visit. He says that he feels well and has no known medical conditions. The patient has a 20-pack-year smoking history and does not use alcohol or recreational drugs. He is counseled on smoking cessation. During the discussion of how smoking affects lung function, the patient is shown a graph of the expected change in forced expiratory volume in 1 second (FEV₁) over time if he continues to smoke at the same rate (Curve D shown below). Which of the following curves most likely demonstrates the expected FEV₁ over time if this patient were to stop smoking now? {{exhibit_1}}",
+    "zh": "一名48岁的男性来诊所进行初次就诊。他说自己感觉良好，并且没有任何已知的健康问题。患者有20包年的吸烟史，并且不饮酒或吸食娱乐性药物。他被建议戒烟。在讨论吸烟如何影响肺功能时，向患者展示了一张图表，显示如果他以相同的速率继续吸烟，1秒用力呼气量 (FEV₁) 随时间推移的预期变化（如下所示的曲线 D）。如果该患者现在戒烟，以下哪条曲线最可能显示 FEV₁ 随时间推移的预期变化？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following curves most likely demonstrates the expected FEV₁ over time if this patient were to stop smoking now?",
+    "zh": "如果该患者现在戒烟，以下哪条曲线最可能显示 FEV₁ 随时间推移的预期变化？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "In healthy persons who never smoke, lung function peaks at approximately age 30. Afterward, there is a gradual decline in forced expiratory volume in 1 second (FEV₁) of approximately 25 mL/year. In the average person who smokes tobacco, the rate of lung function declines approximately 3 times faster.\n\nCigarette smoke contains numerous toxins (eg, formaldehyde, acrolein) that provoke inflammatory proteolytic damage to the airways and alveoli. These changes are responsible for airway inflammation and narrowing (chronic bronchitis: ↑ airway resistance) and alveolar septal destruction (emphysema: ↓ elastic recoil pressure). Together these conditions lead to expiratory flow limitation, typically measured as a reduction in FEV₁.\n\nOnce lost, lung function is not recoverable. However, smoking cessation can markedly slow the decline in FEV₁. Within a year of complete abstinence, a successful quitter's rate of FEV₁ decline returns to that of normally aging nonsmokers. Therefore, after this patient quits smoking, the slope of his FEV₁ decline curve will decrease, but no function will be regained. This trajectory is best represented by Curve C.\n\n(Choices A and B) FEV₁ declines persistently with age in all individuals past age 30. It is not physiologically possible for FEV₁ to increase with further aging. Pulmonary function decline in normal aging is mostly due to a gradual, spontaneous loss of lung elastin.\n\n(Choice D) This curve represents the expected result if the patient continues smoking at his current level. With smoking cessation, the rate of FEV₁ decline would slow down rather than continue on the same accelerated trajectory.\n\n(Choice E) This curve represents further acceleration of FEV₁ decline, which would occur if the patient increased his cigarette smoking.\n\nEducational objective:\nCigarette smoking substantially accelerates the normal age-related decline of lung function that occurs after age 30. Smoking cessation does not restore lung function that has already been lost. However, it slows the decline in forced expiratory volume in 1 second, restoring its trajectory to that of normally aging nonsmokers.\n\nReferences\n\nSmoking cessation: effects on symptoms, spirometry and future trends in COPD.",
+    "zh": "在从未吸烟的健康人中，肺功能在30岁左右达到峰值。此后，1秒用力呼气量 (FEV₁) 逐渐下降，约为每年25 mL。在吸烟的普通人中，肺功能下降的速度大约快3倍。\n\n香烟烟雾含有多种毒素（例如，甲醛、丙烯醛），这些毒素会引起气道和肺泡的炎性蛋白水解损伤。这些变化导致气道炎症和狭窄（慢性支气管炎：↑气道阻力）以及肺泡间隔破坏（肺气肿：↓弹性回缩压力）。这些情况共同导致呼气流量受限，通常表现为FEV₁的降低。\n\n一旦失去，肺功能就无法恢复。然而，戒烟可以明显减缓 FEV₁ 的下降。在完全戒烟一年内，成功戒烟者的 FEV₁ 下降速度恢复到正常衰老非吸烟者的水平。因此，在该患者戒烟后，其 FEV₁ 下降曲线的斜率将减小，但不会恢复任何功能。这种轨迹最好由曲线 C 表示。\n\n（选项 A 和 B）在所有超过30岁的个体中，FEV₁ 会随着年龄的增长而持续下降。 FEV₁ 随着年龄的增长而增加在生理上是不可能的。正常衰老中的肺功能下降主要是由于肺弹性蛋白的逐渐、自发性丧失。\n\n（选项 D）这条曲线代表了如果患者以目前水平继续吸烟的预期结果。通过戒烟，FEV₁ 下降的速度将会减慢，而不是继续以相同的加速轨迹下降。\n\n（选项 E）这条曲线代表了 FEV₁ 下降的进一步加速，如果患者增加了吸烟量，就会发生这种情况。\n\n教育目标：\n吸烟会大大加速30岁以后发生的与年龄相关的正常肺功能下降。戒烟不能恢复已经丧失的肺功能。然而，它会减缓1秒用力呼气量的下降，使其轨迹恢复到正常衰老非吸烟者的水平。\n\n参考文献\n\n戒烟：对症状、肺活量测定和 COPD 未来趋势的影响。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the impact of smoking cessation on the decline of forced expiratory volume in 1 second (FEV1) over time. It assesses knowledge of how smoking accelerates lung function decline and how quitting can slow this process, but not restore lost function.\n\nThe key to solving this question is recognizing that smoking cessation will slow the rate of FEV1 decline, but not reverse it. Therefore, the correct curve should show a less steep decline compared to the curve representing continued smoking.",
+    "zh": "这道题测试对戒烟对 1 秒用力呼气量 (FEV1) 随时间推移下降的影响的理解。它评估了对吸烟如何加速肺功能下降以及戒烟如何减缓这一过程的知识，但无法恢复已丧失的功能。\n\n解决这道题的关键是认识到戒烟会减缓 FEV1 下降的速度，但不会逆转它。因此，正确的曲线应该显示与代表持续吸烟的曲线相比，下降幅度较小。"
+  },
+  "tags": "Smoking cessation; FEV1; Lung function; COPD; Pulmonary function testing; Respiratory medicine; Emphysema; Chronic bronchitis; Airway obstruction",
+  "category": "Chest",
+  "question_id": "7558",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\7558",
+  "extracted_at": "2025-11-05T11:47:37.439420",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:41:54.045332",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

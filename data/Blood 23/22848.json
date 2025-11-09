@@ -1,0 +1,56 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old man comes to the office due to pain while swallowing for the past 4 weeks. He has had no fever, upper respiratory illness, or cough but has noticed a lump on the left upper anterior neck. Medical history is significant for prolonged tobacco use. Physical examination shows a firm mass at the base of the tongue. CT scan confirms a 3-cm mass at the tongue base with a small central area of necrosis. Several anterior cervical lymph nodes are enlarged on the left side. Biopsy of the tongue lesion shows invasive squamous cell carcinoma. External beam radiation therapy is planned. Malignant cells in which of the following portions of the tumor mass would be most resistant to this treatment?",
+    "zh": "一名62岁男性因吞咽疼痛就诊，病程4周。患者无发热、上呼吸道感染或咳嗽，但注意到左上颈前部有一个肿块。病史提示长期吸烟。体格检查显示舌根部有一个质硬肿块。CT扫描证实舌根部有一个3厘米的肿块，伴有小的中央坏死区域。左侧几个颈前淋巴结肿大。舌部病变活检显示浸润性鳞状细胞癌。计划进行外照射放疗。肿瘤块的以下哪一部分的恶性细胞对这种治疗的抵抗力最强？"
+  },
+  "question": {
+    "en": "Malignant cells in which of the following portions of the tumor mass would be most resistant to this treatment?",
+    "zh": "肿瘤块的以下哪一部分的恶性细胞对这种治疗的抵抗力最强？"
+  },
+  "options": {
+    "A": {
+      "en": "Regions with higher T-lymphocyte infiltration",
+      "zh": "T淋巴细胞浸润较高的区域"
+    },
+    "B": {
+      "en": "Regions with lower tissue oxygenation",
+      "zh": "组织氧合较低的区域"
+    },
+    "C": {
+      "en": "Regions with neoplastic lymphatic invasion",
+      "zh": "肿瘤淋巴管侵犯的区域"
+    },
+    "D": {
+      "en": "Regions with rapid neoplastic cell proliferation",
+      "zh": "肿瘤细胞快速增殖的区域"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Radiation therapy damages cells by inducing DNA strand breaks by breaking DNA strands both directly and indirectly (via the production of free radicals). Approximately two-thirds of the effect of ionizing radiation is due to the formation of destructive reactive oxygen species derived from radiolysis of water. {{exhibit_1}}\n\nHowever, tumors generally have highly irregular and poorly formed vasculature systems, leading to regions that are significantly hypoxic. Hypoxic tumor cells are often resistant to the effects of radiation. Oxygen augments the DNA damage induced by free radicals by forming persistent DNA adducts that cannot be easily repaired. In contrast, in the hypoxic environment, free radicals are more easily scavenged and eliminated by reducing compounds (eg, molecules that contain sulfhydryl groups), resulting in improved DNA repair. In addition, hypoxic tumor cells overexpress hypoxia-inducible factor 1-alpha, leading to the upregulation of pathways that increase antioxidant production.\n\nBecause solid tumors commonly contain hypoxic regions, radiation therapy alone is rarely curative; it is usually combined with other treatment modalities (eg, chemotherapy, surgery).\n\n(Choice A) Tumors that have a high amount of T-lymphocyte infiltration are often more resistant to treatment with immunotherapy medications because regulatory T cells in the tumor microenvironment exert a strong immunosuppressive effect. T-lymphocyte infiltration would not significantly promote resistance to radiation therapy.\n\n(Choice C) Lymphatic invasion is associated with more aggressive and advanced tumors but does not affect the efficacy of radiation therapy.\n\n(Choice D) Rapidly dividing neoplastic cells are more sensitive to radiation therapy due to the decreased time for DNA repair.\n\nEducational objective:\nRadiation therapy damages cells by inducing DNA strand breaks. Most of the effect of ionizing radiation is mediated by the production of reactive oxygen species, and hypoxic tumor regions are most resistant to radiotherapy.",
+    "zh": "放射治疗通过诱导DNA链断裂来损伤细胞，直接和间接（通过产生自由基）断裂DNA链。大约三分之二的电离辐射效应是由于水辐射分解产生的破坏性活性氧的形成。{{exhibit_1}}\n\n然而，肿瘤通常具有高度不规则和形成不良的血管系统，导致显著缺氧的区域。缺氧的肿瘤细胞通常对辐射的影响具有抵抗力。氧气通过形成不易修复的持久的DNA加合物来增强自由基诱导的DNA损伤。相比之下，在缺氧环境中，自由基更容易被清除，并通过还原性化合物（例如，含有巯基的分子）消除，从而改善DNA修复。此外，缺氧的肿瘤细胞过度表达缺氧诱导因子1-α，导致上调增加抗氧化剂产生的途径。\n\n由于实体瘤通常包含缺氧区域，单独的放射治疗很少能治愈；它通常与其他治疗方式（例如，化疗、手术）相结合。\n\n（选项A）具有大量T淋巴细胞浸润的肿瘤通常对免疫治疗药物的治疗更具抵抗力，因为肿瘤微环境中的调节性T细胞会产生强烈的免疫抑制作用。T淋巴细胞浸润不会显著促进对放射治疗的抵抗力。\n\n（选项C）淋巴管侵犯与更具侵袭性和进展性的肿瘤相关，但不影响放射治疗的疗效。\n\n（选项D）快速分裂的肿瘤细胞对放射治疗更敏感，因为DNA修复的时间减少。\n\n教育目标：\n放射治疗通过诱导DNA链断裂来损伤细胞。电离辐射的大部分效应是由活性氧的产生介导的，缺氧的肿瘤区域对放射治疗的抵抗力最强。"
+  },
+  "summary": {
+    "en": "This question tests the mechanism of radiation therapy and the factors that influence tumor cell sensitivity to radiation, specifically the role of hypoxia. It requires understanding that radiation induces DNA damage via free radicals, and hypoxic conditions reduce the effectiveness of this process. \n\nTo solve this question, recall that radiation therapy works by damaging DNA. Hypoxic tumor cells are resistant to radiation because oxygen is needed for the formation of destructive reactive oxygen species. Therefore, regions with lower tissue oxygenation are most resistant.",
+    "zh": "这个问题考察了放射治疗的机制以及影响肿瘤细胞对辐射敏感性的因素，特别是缺氧的作用。它要求理解放射通过自由基诱导DNA损伤，而缺氧条件会降低此过程的有效性。\n\n要解决这个问题，请回忆放射治疗通过损伤DNA起作用。缺氧的肿瘤细胞对辐射具有抵抗力，因为形成破坏性活性氧需要氧气。因此，组织氧合较低的区域抵抗力最强。"
+  },
+  "tags": "Radiation therapy; Tumor hypoxia; Squamous cell carcinoma; Head and neck cancer; DNA damage; Reactive oxygen species; Cancer treatment",
+  "category": "Blood",
+  "question_id": "22848",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\22848",
+  "extracted_at": "2025-11-05T11:33:01.283930",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:31:36.288334",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

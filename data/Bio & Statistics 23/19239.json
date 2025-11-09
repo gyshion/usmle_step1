@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "Researchers want to study the effects of labyrinthectomy with cochlear implantation on hearing, vertigo, and tinnitus. A random sample of medical charts is selected from a cohort of patients who had undergone labyrinthectomy with cochlear implantation in the same ear for intractable vertigo and hearing loss and who had documentation of both preoperative and postoperative audiometric evaluations. Tinnitus is quantified using the Tinnitus Handicap Inventory (THI) before and after the interventions. The THI score ranges from 0 to 100, with higher values indicating greater tinnitus severity. {{exhibit_1}}",
+    "zh": "研究人员希望研究迷路切除术与人工耳蜗植入术对听力、眩晕和耳鸣的影响。从一组因难治性眩晕和听力损失而接受了同侧耳迷路切除术和人工耳蜗植入术的患者中，随机抽取了医疗图表样本，这些患者有术前和术后听力评估的记录。使用耳鸣障碍量表（THI）量化干预前后的耳鸣。THI 评分范围为 0 到 100，数值越高表示耳鸣严重程度越高。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following statistical tests is most appropriate for comparing preoperative and postoperative THI scores?",
+    "zh": "以下哪种统计检验最适合比较术前和术后 THI 评分？"
+  },
+  "options": {
+    "A": {
+      "en": "Analysis of variance",
+      "zh": "方差分析"
+    },
+    "B": {
+      "en": "Chi-square test",
+      "zh": "卡方检验"
+    },
+    "C": {
+      "en": "Correlation analysis",
+      "zh": "相关性分析"
+    },
+    "D": {
+      "en": "Meta-analysis",
+      "zh": "荟萃分析"
+    },
+    "E": {
+      "en": "Paired t-test",
+      "zh": "配对 t 检验"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "A t-test will determine whether there is a statistically significant difference in mean THI scores between the preoperative and postoperative audiometric evaluations. A large, statistically significant difference in mean scores indicates that labyrinthectomy with cochlear implantation is associated with changes in tinnitus (ie, the null hypothesis is rejected).\n\nThere are 2 types of t-tests: the independent samples t-test (used when 2 groups are independent) and the paired t-test ( used  {{exhibit_2}}",
+    "zh": "t 检验将确定术前和术后听力评估的平均 THI 评分之间是否存在统计学上的显著差异。平均评分的巨大且具有统计学意义的差异表明迷路切除术与人工耳蜗植入术与耳鸣的变化相关（即，拒绝原假设）。\n\n有 2 种类型的 t 检验：独立样本 t 检验（当 2 组独立时使用）和配对 t 检验（使用 {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "The question asks about the appropriate statistical test to compare preoperative and postoperative THI scores. The correct answer is the paired t-test because it compares the mean of 2 related groups, which is appropriate for comparing THI scores before and after an intervention in the same patients.",
+    "zh": "该问题询问比较术前和术后 THI 评分的适当统计检验方法。正确答案是配对 t 检验，因为它比较了 2 个相关组的均值，这适用于比较同一患者干预前后的 THI 评分。"
+  },
+  "tags": [
+    "statistics",
+    "t-test",
+    "paired t-test",
+    "research methods",
+    "audiology",
+    "tinnitus"
+  ],
+  "category": "Bio",
+  "question_id": "19239",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19239",
+  "extracted_at": "2025-11-05T13:21:40.935000",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:22:19.026554",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

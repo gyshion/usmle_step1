@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old previously healthy man is brought to the emergency department after being involved in a motor vehicle collision. He was an unrestrained driver and hit his chest against the steering wheel during the collision. When the paramedics reached him, he reported chest discomfort but was hemodynamically stable. Shortly after arrival at the emergency department, the patient experiences worsening respiratory distress and becomes hypotensive. On physical examination, the patient appears anxious and is tachycardic and tachypneic. The trachea is midline; the jugular veins are distended. The anterior chest wall is bruised and tender to palpation. Vesicular breath sounds are present bilaterally. The abdomen is soft and nontender.",
+    "zh": "一名先前健康的 35 岁男性在卷入车祸后被送往急诊科。他未系安全带驾驶，在碰撞过程中胸部撞到了方向盘。当医护人员赶到时，他报告了胸部不适，但血流动力学稳定。到达急诊科后不久，患者出现呼吸窘迫加重并出现低血压。体格检查显示，患者焦虑，心动过速和呼吸急促。气管居中；颈静脉扩张。胸前壁有瘀伤，触诊压痛。双侧可闻及肺泡呼吸音。腹部柔软，无压痛。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's clinical deterioration?",
+    "zh": "以下哪项最可能是导致该患者病情恶化的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Aortic rupture",
+      "zh": "主动脉破裂"
+    },
+    "B": {
+      "en": "Cardiac tamponade",
+      "zh": "心脏压塞"
+    },
+    "C": {
+      "en": "Diaphragmatic rupture",
+      "zh": "膈肌破裂"
+    },
+    "D": {
+      "en": "Hemothorax",
+      "zh": "血胸"
+    },
+    "E": {
+      "en": "Tension pneumothorax",
+      "zh": "张力性气胸"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient experienced significant blunt chest trauma when his chest struck the steering wheel, evidenced by anterior chest wall bruising and tenderness on examination. Such trauma can lead to several life-threatening cardiopulmonary injuries; this patient with progressive hypotension, tachycardia, and jugular venous distension most likely has acute cardiac tamponade.\n\nBlunt cardiac injury can cause rapid accumulation of blood within the pericardium. Because the pericardium is relatively noncompliant and does not have time to adapt, even a small amount of pericardial fluid (eg, 100-200 mL) can dramatically increase intrapericardial pressure and lead to tamponade. The increased pericardial pressure compresses the relatively low-pressure, right-sided heart chambers and restricts diastolic filling of the right side of the heart. This elevates right atrial pressure, which is transmitted backward to the vena cava, the central venous system, and the jugular veins (causing distension).\n\nWith decreased right-sided filling, less blood is pumped through the pulmonary circulation to the left atrium and left ventricle, resulting in decreased cardiac output. This results in systemic hypotension, despite compensatory tachycardia. Impaired peripheral perfusion leads to unmet oxygen demand in the tissues with resulting dyspnea, increased respiratory drive, and tachypnea.\n\n(Choice A) Blunt deceleration during chest trauma can cause tearing of the aorta (ie, aortic rupture). However, aortic rupture usually causes massive internal hemorrhage with rapidly developing hypovolemic shock (eg, flat jugular veins). Most affected patients do not survive transport to the hospital.\n\n(Choice C) Diaphragmatic rupture can occur with blunt trauma, typically from a sudden increase in intraabdominal pressure. It may result in intrathoracic herniation of abdominal organs and respiratory symptoms (eg, dyspnea, tachypnea), but it often causes abdominal tenderness and does not typically cause significant bleeding or hypotension.\n\n(Choice D) Blunt chest trauma could cause a massive hemothorax with hypotension and tachycardia (ie, hypovolemic shock) as well as tachypnea due to the mass effect on the lung. However, flat jugular veins and absent basilar breath sounds are expected.\n\n(Choice E) Tension pneumothorax can result from blunt chest trauma that injures the visceral pleura or tracheobronchial tree. It can cause tachypnea and obstructive shock (eg, hypotension, tachycardia, jugular venous distension); however, unilaterally absent breath sounds are expected, and tracheal deviation is often present.\n\nEducational objective:\nBlunt chest trauma can lead to several life-threatening cardiopulmonary injuries. Progressive hypotension with tachycardia, jugular venous distension, and bilateral vesicular breath sounds suggests acute cardiac tamponade.",
+    "zh": "该患者在胸部撞击方向盘时遭受了严重的钝性胸部创伤，检查显示胸前壁有瘀伤和压痛。这种创伤可导致多种危及生命的心肺损伤；该患者出现进行性低血压、心动过速和颈静脉扩张，最有可能患有急性心脏压塞。\n\n钝性心脏损伤可导致血液在心包内迅速积聚。由于心包相对不顺应且没有时间适应，即使少量的心包积液（例如，100-200 mL）也能显著增加心包内压力并导致压塞。增加的心包压力压迫相对低压的右侧心脏腔室，并限制右侧心脏的舒张期充盈。这会升高右心房压力，该压力向后传递至腔静脉、中心静脉系统和颈静脉（导致扩张）。\n\n随着右侧充盈减少，泵入肺循环到左心房和左心室的血液减少，导致心输出量降低。这导致全身性低血压，尽管有代偿性心动过速。外周灌注受损导致组织对氧气需求未得到满足，从而导致呼吸困难、呼吸驱动增加和呼吸急促。\n\n（选项 A）胸部创伤期间的钝性减速可导致主动脉撕裂（即主动脉破裂）。然而，主动脉破裂通常会导致大量内出血，并迅速发展为低血容量性休克（例如，颈静脉扁平）。大多数受影响的患者无法存活到医院。\n\n（选项 C）膈肌破裂可发生在钝性创伤中，通常是由于腹内压突然升高所致。它可能导致腹部器官向胸腔内疝入和呼吸系统症状（例如，呼吸困难、呼吸急促），但通常会导致腹部压痛，并且通常不会引起明显的出血或低血压。\n\n（选项 D）钝性胸部创伤可导致大量血胸，伴有低血压和心动过速（即低血容量性休克），以及由于对肺部的占位效应引起的呼吸急促。然而，预计颈静脉扁平和基底部呼吸音消失。\n\n（选项 E）张力性气胸可由损伤脏层胸膜或气管支气管树的钝性胸部创伤引起。它可导致呼吸急促和阻塞性休克（例如，低血压、心动过速、颈静脉扩张）；然而，预计单侧呼吸音消失，并且通常存在气管偏离。\n\n教育目标：\n钝性胸部创伤可导致多种危及生命的心肺损伤。进行性低血压伴心动过速、颈静脉扩张和双侧肺泡呼吸音提示急性心脏压塞。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the presentation and pathophysiology of cardiac tamponade following blunt chest trauma. Key findings include hypotension, tachycardia, jugular venous distension, and a history of chest trauma. \n\nThe best approach is to recognize the classic Beck's triad (hypotension, JVD, muffled heart sounds - although heart sounds are not explicitly mentioned as muffled in the stem) and relate it to the mechanism of blunt chest trauma causing pericardial effusion and tamponade.",
+    "zh": "本题考察了钝性胸部创伤后心脏压塞的临床表现和病理生理学知识。关键发现包括低血压、心动过速、颈静脉扩张和胸部创伤史。\n\n最好的方法是识别经典的 Beck 三联征（低血压、颈静脉扩张、心音低钝——尽管心音在题干中没有明确提到为低钝），并将其与导致心包积液和压塞的钝性胸部创伤机制联系起来。"
+  },
+  "tags": "Cardiac tamponade; Blunt chest trauma; Beck's triad; Hypotension; Jugular venous distension; Tachycardia; Pericardial effusion; Emergency medicine; Cardiology",
+  "category": "CVS",
+  "question_id": "1439",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1439",
+  "extracted_at": "2025-11-05T11:53:34.858061",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:45:28.979577",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

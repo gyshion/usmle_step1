@@ -1,0 +1,69 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old man comes to the office for evaluation of progressive exertional dyspnea. His medical history is significant for pneumonia and hypertension. He has a 45-pack-year smoking history. On physical examination, breath sounds are decreased bilaterally and wheezes are heard. A CT scan of the chest is shown below {{exhibit_1}}.",
+    "zh": "一名62岁男性前来就诊，评估进行性劳力性呼吸困难。他的病史包括肺炎和高血压。他有45包年的吸烟史。体格检查显示双侧呼吸音减弱，可闻及喘鸣。胸部CT扫描如下图所示 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Increased activity of which of the following cells is most likely responsible for the development of this patient's lung condition?",
+    "zh": "以下哪种细胞的活性增加最有可能导致该患者的肺部疾病发展？"
+  },
+  "options": {
+    "A": {
+      "en": "Club cells",
+      "zh": "Clara细胞"
+    },
+    "B": {
+      "en": "Eosinophils",
+      "zh": "嗜酸性粒细胞"
+    },
+    "C": {
+      "en": "Mast cells",
+      "zh": "肥大细胞"
+    },
+    "D": {
+      "en": "Neutrophils",
+      "zh": "中性粒细胞"
+    },
+    "E": {
+      "en": "Type I pneumocytes",
+      "zh": "I型肺泡上皮细胞"
+    },
+    "F": {
+      "en": "Type II pneumocytes",
+      "zh": "II型肺泡上皮细胞"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's heavy smoking history, exertional dyspnea, and dilated airspaces on CT scan are consistent with centracinar emphysema.\n\nThe pathogenesis of smoking-induced emphysema involves oxidative injury to the respiratory bronchioles and activation of resident alveolar macrophages by components of cigarette smoke. This is followed by inflammatory recruitment of neutrophils into the affected airspaces. Activated macrophages and neutrophils release proteases, including elastase and others (eg, cathepsins, matrix metalloproteinases), that degrade the extracellular matrix; they also generate oxygen free radicals that impair the function of protease inhibitors (eg, alpha-1 antitrypsin).\n\nThe resultant protease-antiprotease imbalance leads to acinar wall destruction and irreversible airspace dilation distal to the terminal bronchioles. Excess protease activity is also involved in panacinar emphysema, such as occurs with alpha-1 antitrypsin deficiency.\n\n(Choice A) Club cells are nonciliated, secretory constituents of the terminal respiratory epithelium. They secrete club cell secretory protein and surfactant components and also help detoxify inhaled substances (eg, tobacco smoke) by a cytochrome P450 mechanism.\n\n(Choice B) Eosinophils play an important role in the late-phase component of Type I immediate hypersensitivity reactions. In the lung, they are recruited to help sustain the localized inflammatory response that follows exposure to allergens.\n\n(Choice C) Interstitial pulmonary mast cells play a central role in the pathogenesis of allergic asthma by releasing histamine and leukotrienes that induce bronchospasm.\n\n(Choice E) Type I pneumocytes constitute >95% of the inner epithelial lining of the alveoli. In emphysema, these cells are destroyed by the acinar wall damage inflicted by neutrophils and other inflammatory cells.\n\n(Choice F) Type II pneumocytes are the source of pulmonary surfactant and the main cell type responsible for repair of alveolar epithelium after destruction of Type I pneumocytes.\n\nEducational objective:\nThe pathogenesis of centracinar emphysema associated with chronic, heavy smoking predominantly involves the release of proteases, especially elastase, from infiltrating neutrophils and alveolar macrophages. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "该患者的重度吸烟史、劳力性呼吸困难和CT扫描上扩张的肺泡腔与小叶中心型肺气肿一致。\n\n吸烟引起的肺气肿的发病机制涉及呼吸性细支气管的氧化损伤，以及肺泡巨噬细胞被香烟烟雾的成分激活。随后，炎症会募集大量中性粒细胞进入受影响的肺泡腔。活化的巨噬细胞和中性粒细胞释放蛋白酶，包括弹性蛋白酶和其他酶（如组织蛋白酶、基质金属蛋白酶），这些酶会降解细胞外基质；它们还会产生氧自由基，从而损害蛋白酶抑制剂（如α-1抗胰蛋白酶）的功能。\n\n由此产生的蛋白酶-抗蛋白酶失衡导致肺泡壁破坏和终末细支气管远端的不可逆肺泡腔扩张。蛋白酶活性过高也参与了全小叶型肺气肿，例如α-1抗胰蛋白酶缺乏症。\n\n（选项A）Clara细胞是终末呼吸上皮的非纤毛分泌成分。它们分泌Clara细胞分泌蛋白和表面活性物质成分，并有助于通过细胞色素P450机制解毒吸入的物质（如烟草烟雾）。\n\n（选项B）嗜酸性粒细胞在I型速发型超敏反应的晚期成分中起重要作用。在肺部，它们被募集以帮助维持接触过敏原后发生的局部炎症反应。\n\n（选项C）间质性肺肥大细胞通过释放组胺和白三烯来诱导支气管痉挛，在过敏性哮喘的发病机制中起核心作用。\n\n（选项E）I型肺泡上皮细胞构成肺泡内上皮内衬的95%以上。在肺气肿中，这些细胞会被中性粒细胞和其他炎症细胞造成的肺泡壁损伤破坏。\n\n（选项F）II型肺泡上皮细胞是肺表面活性物质的来源，也是在I型肺泡上皮细胞被破坏后负责修复肺泡上皮的主要细胞类型。\n\n教育目标：与长期重度吸烟相关的中心小叶型肺气肿的发病机制主要涉及从浸润的中性粒细胞和肺泡巨噬细胞释放蛋白酶，特别是弹性蛋白酶。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathogenesis of emphysema, specifically the role of neutrophils and macrophages in the destruction of lung tissue due to protease release. It also requires interpretation of clinical findings and CT imaging suggestive of emphysema.\n\nThe key to solving this question is recognizing the patient's smoking history and the CT scan findings, which point towards emphysema. Understanding the inflammatory process involving neutrophils and macrophages in emphysema is crucial to selecting the correct answer.",
+    "zh": "此题考察对肺气肿发病机制的理解，特别是中性粒细胞和巨噬细胞在由于蛋白酶释放引起的肺组织破坏中的作用。它还需要解释提示肺气肿的临床表现和CT影像学结果。\n\n解决此题的关键是认识到患者的吸烟史和CT扫描结果，这些指向肺气肿。理解肺气肿中涉及中性粒细胞和巨噬细胞的炎症过程对于选择正确答案至关重要。"
+  },
+  "tags": "Emphysema; Neutrophils; Macrophages; Protease-antiprotease imbalance; Smoking; Pulmonary disease; Respiratory system; CT scan",
+  "category": "Chest",
+  "question_id": "488",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\488",
+  "extracted_at": "2025-11-05T11:45:43.231250",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:40:07.964645",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

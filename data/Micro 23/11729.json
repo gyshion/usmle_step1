@@ -1,0 +1,70 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man is brought to the emergency department due to high fevers and confusion. His family says that he has been acting strangely and has been disoriented over the last 2 days. He has also had severe headaches. This morning he was difficult to arouse and reportedly had a seizure on the way to the hospital. His temperature is 39.4 C (103 F), blood pressure is 140/90 mm Hg, and pulse is 112/min. The patient is obtunded with preserved brainstem reflexes and reduced motor responses to pain. CT scan of the head without contrast is negative. Cerebrospinal fluid analysis reveals an elevated opening pressure with a hemorrhagic lymphocytic pleocytosis, increased protein, and normal glucose. An MRI of the brain reveals an abnormal signal in the bilateral temporal lobes. ",
+    "zh": "一名65岁男性因高热和意识模糊被送往急诊科。他的家人说他在过去2天里行为异常并且定向力障碍。他也有严重的头痛。今天早上他难以唤醒，据报告在去医院的路上曾发生癫痫发作。他的体温为39.4°C (103°F)，血压为140/90 mmHg，脉搏为112/min。患者呈嗜睡状态，脑干反射保留，对疼痛的运动反应减弱。头部CT扫描未见异常。脑脊液分析显示开放压升高，伴有出血性淋巴细胞增多、蛋白升高和葡萄糖正常。脑部MRI显示双侧颞叶有异常信号。"
+  },
+  "question": {
+    "en": "Inhibition of which of the following would be most effective for treating this patient's condition?",
+    "zh": "抑制下列哪一项对治疗该患者的病情最有效？"
+  },
+  "options": {
+    "A": {
+      "en": "Bacterial cell wall synthesis",
+      "zh": "细菌细胞壁合成"
+    },
+    "B": {
+      "en": "Bacterial folic acid metabolism",
+      "zh": "细菌叶酸代谢"
+    },
+    "C": {
+      "en": "Bacterial nucleic acid synthesis",
+      "zh": "细菌核酸合成"
+    },
+    "D": {
+      "en": "Bacterial ribosomes",
+      "zh": "细菌核糖体"
+    },
+    "E": {
+      "en": "Viral DNA polymerase",
+      "zh": "病毒DNA聚合酶"
+    },
+    "F": {
+      "en": "Viral protease",
+      "zh": "病毒蛋白酶"
+    },
+    "G": {
+      "en": "Viral reverse transcriptase",
+      "zh": "病毒逆转录酶"
+    },
+    "H": {
+      "en": "Viral RNase H",
+      "zh": "病毒RNase H"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient has herpes simplex virus (HSV) encephalitis, which can cause acute/subacute changes in mental status, seizures, headache, and, in some cases, focal neurologic deficits. Cerebrospinal fluid (CSF) analysis usually reveals a hemorrhagic lymphocytic pleocytosis with increased protein and normal glucose. On neuroimaging, the classic finding is the presence of an abnormal MRI signal in the bilateral temporal lobes.\n\nThe treatment for HSV encephalitis is intravenous acyclovir, a nucleoside analog that, once activated, competes with deoxyguanosine triphosphate for viral DNA polymerase; when acyclovir triphosphate becomes incorporated into the replicating viral DNA chain, viral DNA synthesis is terminated.\n\n(Choices A, B, C, and D) Bacterial meningitis can present similarly to HSV encephalitis; however, unlike HSV encephalitis, there is no predilection for the temporal lobes and CSF analysis typically shows a nonhemorrhagic neutrophilic pleocytosis with low glucose.\n\n(Choice F) Viral proteases are responsible for cleavage of protein precursors necessary for the production of infectious viral particles. Protease inhibitors are important in the treatment of HIV and hepatitis C, not HSV.\n\n(Choices G and H) Viral RNase H (removes the RNA primers during viral DNA replication) and viral reverse transcriptase (generates complementary DNA from an RNA template) are important pharmaceutical targets for the treatment of retroviruses such as HIV.\n\nEducational objective:\nThe most effective treatment for herpes simplex virus encephalitis is intravenous acyclovir. Acyclovir is a nucleoside analogue whose active component is incorporated into replicating viral DNA, leading to termination of viral synthesis.",
+    "zh": "该患者患有单纯疱疹病毒(HSV)脑炎，可引起精神状态的急性和亚急性变化、癫痫、头痛，在某些情况下，还会引起局灶性神经功能缺损。脑脊液(CSF)分析通常显示出血性淋巴细胞增多，伴有蛋白升高和葡萄糖正常。在神经影像学上，典型的发现是双侧颞叶出现异常MRI信号。\n\nHSV脑炎的治疗方法是静脉注射阿昔洛韦，这是一种核苷类似物，一旦被激活，就会与脱氧鸟苷三磷酸竞争病毒DNA聚合酶；当阿昔洛韦三磷酸被掺入复制的病毒DNA链中时，病毒DNA的合成就会终止。\n\n（选项A、B、C和D）细菌性脑膜炎的临床表现可能与HSV脑炎相似；然而，与HSV脑炎不同，细菌性脑膜炎没有颞叶易感性，而且脑脊液分析通常显示非出血性中性粒细胞增多，葡萄糖降低。\n\n（选项F）病毒蛋白酶负责切割产生感染性病毒颗粒所必需的蛋白质前体。蛋白酶抑制剂对HIV和丙型肝炎的治疗很重要，但对HSV无效。\n\n（选项G和H）病毒RNase H（在病毒DNA复制过程中去除RNA引物）和病毒逆转录酶（从RNA模板生成互补DNA）是治疗逆转录病毒（如HIV）的重要药物靶点。\n\n教学目标：治疗单纯疱疹病毒脑炎最有效的方法是静脉注射阿昔洛韦。阿昔洛韦是一种核苷类似物，其活性成分被掺入复制的病毒DNA中，从而导致病毒合成终止。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of herpes simplex virus (HSV) encephalitis, including its clinical presentation, CSF findings, neuroimaging characteristics, and appropriate treatment with acyclovir. It requires understanding the mechanism of action of acyclovir as a viral DNA polymerase inhibitor.\n\nTo solve this question, recognize the signs and symptoms suggestive of encephalitis, consider the CSF findings of hemorrhagic lymphocytic pleocytosis, and identify the temporal lobe involvement on MRI. Then, select the antiviral agent that targets viral DNA polymerase, which is the mechanism of action of acyclovir.",
+    "zh": "这道题考察了单纯疱疹病毒(HSV)脑炎的知识，包括其临床表现、脑脊液检查结果、神经影像学特征以及用阿昔洛韦的适当治疗。这需要理解阿昔洛韦作为病毒DNA聚合酶抑制剂的作用机制。\n\n要解决这个问题，需要识别提示脑炎的体征和症状，考虑出血性淋巴细胞增多的脑脊液检查结果，并在MRI上识别颞叶受累情况。然后，选择靶向病毒DNA聚合酶的抗病毒药物，这是阿昔洛韦的作用机制。"
+  },
+  "tags": "Herpes simplex encephalitis; Encephalitis; Viral DNA polymerase; Acyclovir; Central nervous system; Infectious disease; Cerebrospinal fluid; Temporal lobe; MRI",
+  "category": "Micro",
+  "question_id": "11729",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\11729",
+  "extracted_at": "2025-11-05T14:51:32.675181",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:06:03.770669",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

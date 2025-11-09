@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A new aminoglycoside antibiotic is developed that is believed to be particularly effective against Pseudomonas. The volume of distribution of the drug is measured in a group of volunteers and is determined to be 4.5 L. This new drug is most likely to have which of the following properties?",
+    "zh": "开发了一种新的氨基糖苷类抗生素，据信对假单胞菌特别有效。 在一组志愿者中测量了该药物的分布容积，确定为 4.5 升。这种新药最有可能具有以下哪种特性？"
+  },
+  "question": {
+    "en": "This new drug is most likely to have which of the following properties?",
+    "zh": "这种新药最有可能具有以下哪种特性？"
+  },
+  "options": {
+    "A": {
+      "en": "It has low molecular weight",
+      "zh": "它具有低分子量"
+    },
+    "B": {
+      "en": "It is lipophilic",
+      "zh": "它是亲脂性的"
+    },
+    "C": {
+      "en": "It does not bind to albumin",
+      "zh": "它不与白蛋白结合"
+    },
+    "D": {
+      "en": "It is highly charged",
+      "zh": "它带高度电荷"
+    },
+    "E": {
+      "en": "It has high oral bioavailability",
+      "zh": "它具有高口服生物利用度"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The volume of distribution (Vd) refers to a hypothetical volume of fluid into which the administered amount of drug would need to be uniformly distributed to produce the observed plasma concentration. The volume of distribution is determined by administering a given amount of drug by the intravenous route and subsequently measuring the initial plasma concentration of the drug. The formula is as follows:\n\nVd (L) = amount of drug given (mg) / plasma concentration of drug (mg/L)\n\nThe average total body water is approximately 41 liters. Of that, the extracellular fluid volume is about 14 L, or 1/3 of total body water. Within the extracellular fluid, the plasma volume is about 3 L, and interstitial fluid makes up the rest. Initially, the drug enters the plasma compartment by the IV route. If a drug has a large molecular weight, is bound extensively to plasma proteins, or is highly charged (hydrophilic), then the drug generally remains in the plasma compartment and the volume of distribution is usually low in the case above (about 3-5 liters). If the drug has a small molecular weight but is hydrophilic, it can distribute into the interstitial fluid compartment outside of the blood vessels as well as in the intravascular compartment. In these cases the volume of distribution is limited to a total volume of about 14-16 liters (plasma volume plus interstitial volume). If the drug has a small molecular weight and is also uncharged (hydrophobic or lipophilic), then the drug can cross cell membranes and reach intracellular compartment. These drugs have the highest volume of distribution (41 liters). Drugs that are avidly bound in the tissues exhibit the highest volumes of distribution, often much higher than the total body water volume, because these drugs accumulate readily within cells thereby maintaining low plasma concentrations.\n\n(Choice A) If the molecular weight of the drug is low, then the drug will tend to easily pass through endothelial junctions into the interstitial fluid, making the volume of distribution of at least 14 liters.\n\n(Choice B) Lipophilic drugs tend to readily cross cell membranes and distribute widely outside the plasma and interstitial compartments. This tendency to collect within cells gives these drugs a high volume of distribution.\n\n(Choice C) A drug with a Vd of 4.5 L, which is approximately the same as the plasma volume, is likely to be highly bound to plasma proteins such as albumin. Binding to plasma proteins tends to retain drug in the plasma compartment and prevent the diffusion of drug into the extravascular compartments.\n\n(Choice D) The correct answer is D. Aminoglycosides are typically polar molecules that are highly charged and do not readily cross cell membranes. This limits their distribution primarily to the extracellular fluid, resulting in a low volume of distribution, typically around 0.2-0.3 L/kg. A Vd of 4.5 L for an adult suggests a drug that is largely confined to the plasma and interstitial fluid, consistent with a highly charged, hydrophilic molecule. The low Vd is characteristic of drugs that are primarily confined to the extracellular fluid, which includes plasma and interstitial fluid. Highly charged molecules, like aminoglycosides, are hydrophilic and do not easily cross cell membranes, thus remaining within the extracellular space. This leads to a low volume of distribution.\n\n(Choice E) Bioavailability is a measure of absorption and is unrelated to the distribution of a drug.",
+    "zh": "分布容积 (Vd) 是指药物在体内均匀分布以产生观察到的血浆浓度所需的假想液体容积。分布容积是通过静脉途径给予一定量的药物，然后测量药物的初始血浆浓度来确定的。公式如下：\n\nVd (L) = 给药量 (mg) / 药物血浆浓度 (mg/L)\n\n平均总体水约为 41 升。其中，细胞外液容量约为 14 L，即总体水的 1/3。 在细胞外液中，血浆容量约为 3 L，间质液构成其余部分。最初，药物通过静脉途径进入血浆室。如果药物分子量大，广泛与血浆蛋白结合，或带高度电荷（亲水性），则药物通常保留在血浆室中，并且上述情况下的分布容积通常较低（约 3-5 升）。如果药物分子量小但亲水，它也可以分布到血管外的间质液室以及血管内室。在这些情况下，分布容积限制在总容积约 14-16 升（血浆容积加上间质容积）。如果药物分子量小且不带电荷（疏水性或亲脂性），则药物可以穿过细胞膜并到达细胞内室。这些药物具有最高的分布容积（41 升）。在组织中 avidly 结合的药物表现出最高的分布容积，通常远高于总体水容积，因为这些药物容易在细胞内积聚，从而维持低血浆浓度。\n\n(选项 A) 如果药物的分子量低，则药物往往容易通过内皮连接进入间质液，使分布容积至少为 14 升。\n\n(选项 B) 亲脂性药物往往容易穿过细胞膜并在血浆和间质室外广泛分布。这种在细胞内聚集的趋势使这些药物具有高分布容积。\n\n(选项 C) Vd 为 4.5 升的药物，大约与血浆量相同，很可能与白蛋白等血浆蛋白高度结合。与血浆蛋白结合往往会将药物保留在血浆室中，并阻止药物扩散到血管外室。\n\n(选项 D) 正确答案是 D。氨基糖苷类药物通常是极性分子，带有高度电荷，不易穿过细胞膜。 这限制了它们主要分布到细胞外液，导致低分布容积，通常约为 0.2-0.3 L/kg。成人 Vd 为 4.5 L 表明药物主要局限于血浆和间质液中，这与高度带电、亲水性分子一致。低 Vd 是主要局限于细胞外液（包括血浆和间质液）的药物的特征。高度带电的分子，如氨基糖苷类药物，是亲水的，不易穿过细胞膜，因此保留在细胞外空间内。这导致低分布容积。\n\n(选项 E) 生物利用度是吸收的量度，与药物的分布无关。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the volume of distribution (Vd) and its relationship to drug properties such as molecular weight, charge, lipophilicity, and protein binding. It specifically assesses the ability to infer drug characteristics based on a given Vd value, particularly in the context of aminoglycoside antibiotics.\n\nTo solve this question, one must recall the definition of Vd and how different drug properties influence its value. A low Vd, such as 4.5 L, suggests that the drug is largely confined to the plasma and interstitial fluid. This is characteristic of hydrophilic, highly charged molecules that do not readily cross cell membranes or bind extensively to tissues. Conversely, high Vd values are associated with lipophilic drugs or those that extensively distribute into tissues.",
+    "zh": "这个问题测试了对分布容积 (Vd) 及其与药物特性（例如分子量、电荷、亲脂性和蛋白质结合）之间关系的理解。它特别评估了根据给定的 Vd 值推断药物特性的能力，特别是在氨基糖苷类抗生素的背景下。\n\n要解决这个问题，必须回忆 Vd 的定义以及不同的药物特性如何影响其值。低 Vd，例如 4.5 升，表明药物主要局限于血浆和间质液。这是亲水性、高度带电分子的特征，它们不易穿过细胞膜或广泛与组织结合。相反，高 Vd 值与亲脂性药物或广泛分布到组织的药物相关。"
+  },
+  "tags": "Volume of distribution; Pharmacokinetics; Aminoglycosides; Pseudomonas; Drug properties; Hydrophilic; Charged molecules; Extracellular fluid",
+  "category": "Pharma",
+  "question_id": "1710",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\1710",
+  "extracted_at": "2025-11-05T19:45:24.960006",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:47:01.770383",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,53 @@
+{
+  "question_stem": {
+    "en": "A meta-analysis of several trials on the effect of cocoa intake on systolic blood pressure (SBP) revealed the following results:\n\nStudy\tMean SBP in cocoa group – mean SBP in control group (mm Hg) [95% confidence interval]\n1\t-5.2 [-7.3, -3.4]\n2\t1.6 [-5.3, 10.4]\n3\t-4.2 [-8.1, -2.7]\n4\t-2.9 [-4.1, -1.4]\n5\t-2.8 [-5.2, -1.1]\n6\t0.8 [0.1, 1.2]\n7\t1.0 [-1.2, 3.3]\nTotal\t-2.2 [-2.7, -1.3]\n\nAll the trials evaluated the difference in SBP at 2 weeks. Based on the data, which of the following is the most appropriate conclusion?",
+    "zh": "一项关于可可摄入对收缩压 (SBP) 影响的几项试验的荟萃分析显示以下结果：\n\n研究\t可可组平均 SBP – 对照组平均 SBP (mm Hg) [95% 置信区间]\n1\t-5.2 [-7.3, -3.4]\n2\t1.6 [-5.3, 10.4]\n3\t-4.2 [-8.1, -2.7]\n4\t-2.9 [-4.1, -1.4]\n5\t-2.8 [-5.2, -1.1]\n6\t0.8 [0.1, 1.2]\n7\t1.0 [-1.2, 3.3]\n总计\t-2.2 [-2.7, -1.3]\n\n所有试验均评估了 SBP 在 2 周时的差异。 根据数据，以下哪个是最合适的结论？"
+  },
+  "question": {
+    "en": "Based on the data, which of the following is the most appropriate conclusion?",
+    "zh": "根据数据，以下哪个是最合适的结论？"
+  },
+  "options": {
+    "A": {
+      "en": "A higher mean SBP was seen in the cocoa groups overall",
+      "zh": "总体而言，可可组的平均 SBP 较高"
+    },
+    "B": {
+      "en": "Cocoa intake should be recommended for blood pressure management",
+      "zh": "应推荐可可摄入用于血压管理"
+    },
+    "C": {
+      "en": "Cocoa intake was associated with a statistically significant decrease in SBP",
+      "zh": "可可摄入与 SBP 具有统计学意义的降低相关"
+    },
+    "D": {
+      "en": "Studies 2, 6, and 7 showed a statistically significant increase in SBP",
+      "zh": "研究 2、6 和 7 显示 SBP 具有统计学意义的升高"
+    },
+    "E": {
+      "en": "There was no statistically significant change in SBP overall",
+      "zh": "总体而言，SBP 没有统计学意义的变化"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "A meta-analysis groups the results of several trials (ideally, highly-quality randomized controlled trials) to increase statistical power and provide an overall estimate of the effect of an exposure (eg, cocoa intake) on an outcome (eg, systolic blood pressure [SBP]). The individual results of the trials are assessed and weighted to obtain a pooled effect estimate. In this example, the meta-analysis showed an overall change in mean SBP of -2.2 mm Hg (ie, decrease in SBP) in the cocoa intake group compared to the control group. The 95% confidence interval (CI) was -2.7 to -1.3 mm Hg, indicating a statistically significant difference because the CI does not include the null value (explained below).\n\nCIs give a range of plausible values for an unknown parameter (eg, difference between 2 mean SBPs) based on results from a sample. If the CI does not include the null value, then the result is statistically significant; if it crosses the null value, then the result is not statistically significant. All CIs have a null value, but the null value is not the same for all CIs. For an odds ratio or a relative risk (RR), the null value is 1 because these statistics are ratios (ie, RR = 1 represents no difference in risk between the groups). However, if the parameter of interest is a difference (eg, difference in mean SBP between cocoa intake and control groups), then the null value is 0 because that represents no difference between the groups.\n\nIn this case, the 95% CI of [-2.7, -1.3] does not include the null value of 0 and therefore the result is statistically significant. In summary, cocoa intake was associated with a statistically significant decrease in SBP.\n\n(Choices A and E) The overall mean change in SBP was negative at -2.2 mm Hg, reflecting a lower SBP in the cocoa group compared to the control group. The change was statistically significant.\n\n(Choice B) Although there was a statistically significant decrease in SBP in the cocoa intake group, the clinical significance may be limited as the absolute SBP decrease is only about 2 mm Hg. Furthermore, the trials measured SBP at 2 weeks, so it is possible that the effect of cocoa intake on SBP was short-lived. Finally, no information is provided regarding adverse effects of cocoa intake.\n\n(Choice D) Given that the CI crossed the null value in studies 2 and 7, there was no statistically significant difference between the groups in these studies.",
+    "zh": "荟萃分析将几项试验（理想情况下，高质量的随机对照试验）的结果分组，以增加统计功效并提供对暴露（例如，可可摄入）对结果（例如，收缩压 [SBP]）的总体估计。 评估并加权试验的各个结果，以获得合并效应估计值。 在此示例中，荟萃分析显示，与对照组相比，可可摄入组的平均 SBP 总变化为 -2.2 mm Hg（即，SBP 降低）。 95% 置信区间 (CI) 为 -2.7 至 -1.3 mm Hg，表明差异具有统计学意义，因为 CI 不包括零值（如下所述）。\n\nCI 根据样本结果给出一个未知参数（例如，两个平均 SBP 之间的差异）的合理值范围。 如果 CI 不包括零值，则结果具有统计学意义；如果它穿过零值，则结果不具有统计学意义。 所有 CI 都有一个零值，但零值对于所有 CI 而言并不相同。 对于比值比或相对风险 (RR)，零值为 1，因为这些统计数据是比率（即，RR = 1 表示各组之间的风险没有差异）。 然而，如果感兴趣的参数是差异（例如，可可摄入组和对照组之间的平均 SBP 差异），那么零值为 0，因为这表示各组之间没有差异。\n\n在这种情况下，95% CI 为 [-2.7, -1.3] 不包括零值 0，因此结果具有统计学意义。 总之，可可摄入与 SBP 具有统计学意义的降低相关。\n\n（选项 A 和 E）SBP 的总平均变化为负值，为 -2.2 mm Hg，反映了可可组的 SBP 低于对照组。 这种变化具有统计学意义。\n\n（选项 B）尽管可可摄入组的 SBP 具有统计学意义的降低，但临床意义可能有限，因为绝对 SBP 降低仅约为 2 mm Hg。 此外，试验测量 SBP 的时间为 2 周，因此可可摄入对 SBP 的影响可能很短暂。 最后，没有提供关于可可摄入不良反应的信息。\n\n（选项 D）鉴于 CI 在研究 2 和 7 中穿过零值，这些研究中各组之间没有统计学意义的差异。"
+  },
+  "summary": {
+    "en": "This question tests the ability to interpret meta-analysis data and determine statistical significance based on confidence intervals. Specifically, it requires understanding the concept of null value and how it relates to the confidence interval when assessing the significance of a difference between groups.\n\nTo solve this type of question, examine the confidence interval provided. If the confidence interval does not include the null value (0 for differences), the result is statistically significant. Consider the clinical significance of the finding, as statistical significance does not always translate to clinical importance.",
+    "zh": "这个问题测试了根据置信区间解释荟萃分析数据并确定统计学意义的能力。 具体来说，它需要理解零值的概念以及它在评估组间差异的显着性时如何与置信区间相关。\n\n要解决这种类型的问题，请检查提供的置信区间。 如果置信区间不包含零值（对于差异为 0），则结果具有统计学意义。 考虑该发现的临床意义，因为统计学意义并不总是转化为临床重要性。"
+  },
+  "tags": "Meta-analysis; Confidence interval; Statistical significance; Systolic blood pressure; Epidemiology; Biostatistics",
+  "category": "Bio",
+  "question_id": "10672",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\10672",
+  "extracted_at": "2025-11-05T10:25:38.462506",
+  "translated_at": "2025-11-07T15:43:48.043201",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

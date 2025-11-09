@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man comes to the clinic for evaluation of a heart murmur. The patient has no chest pain, palpitations, dizziness, or shortness of breath at rest. He also exercises regularly without any abnormal symptoms. Cardiac auscultation in the second right intercostal space reveals an ejection click along with a soft systolic murmur radiating to the neck. A normal volume and pressure tracing of the left ventricle is shown in the image below {{exhibit_1}}.",
+    "zh": "一名34岁男性因心杂音来诊。患者静息状态下无胸痛、心悸、头晕或呼吸短促。他 regular 运动，无任何异常症状。心脏听诊在右侧第二肋间隙显示喷射音以及向颈部放射的轻柔收缩期杂音。下图{{exhibit_1}}显示了左心室的正常容积和压力描记图。"
+  },
+  "question": {
+    "en": "Which of the following letters corresponds to the opening of the valve most likely affected in this patient?",
+    "zh": "以下哪个字母对应于该患者最可能受影响的瓣膜的开放？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This young, asymptomatic patient with a soft systolic ejection murmur at the right second intercostal space most likely has a bicuspid aortic valve. \n\nThe graph above depicts the normal left ventricular (LV) pressure and volume curves during the cardiac cycle. Ventricular pressure and volume curves allow one to identify the phases of the cardiac cycle and to determine the exact time of opening and closure of the cardiac valves. Aortic valve opening occurs when the LV pressure exceeds the central aortic pressure at the end of isovolumetric contraction. Subsequently, LV pressure continues to rise with forward blood flow into the aorta, until the pressure in the left ventricle falls below the aortic pressure leading to aortic valve closure.\n\n(Choice A) The initial part of the LV pressure and volume curves corresponds to atrial systole, which results in a slight increase in LV volume and pressure. This is immediately followed by mitral valve closure and the beginning of isovolumetric contraction, where the LV pressure remains constant.\n\n(Choice C) This point corresponds to aortic valve closure, where LV pressure falls below the central aortic pressure. This also marks the beginning of isovolumetric relaxation, where the LV pressure rapidly falls while LV volume remains relatively constant.\n\n(Choice D) Left atrial pressure gradually increases from passive filling from the pulmonary veins and exceeds LV pressure at the end of isovolumetric relaxation, leading to the opening of the mitral valves.\n\n(Choice E) This point corresponds to passive LV filling with blood flow from the left atrium, which results in a gradual rise in LV volume and pressure. {{exhibit_2}}",
+    "zh": "这位年轻的、无症状的患者在右侧第二肋间隙出现轻柔的收缩期喷射杂音，最有可能患有二叶式主动脉瓣。 \n\n上图描绘了心脏周期中正常的左心室 (LV) 压力和容积曲线。心室压力和容积曲线允许识别心脏周期的各个阶段，并确定心脏瓣膜的开放和关闭的确切时间。当左心室压力超过等容收缩结束时的中心主动脉压力时，主动脉瓣开放。随后，左心室压力继续升高，血液向前流入主动脉，直到左心室内的压力低于主动脉压力，导致主动脉瓣关闭。\n\n(选项 A) LV 压力和容积曲线的初始部分对应于心房收缩，这会导致 LV 容积和压力略有增加。紧接着是二尖瓣关闭和等容收缩的开始，此时 LV 压力保持恒定。\n\n(选项 C) 此点对应于主动脉瓣关闭，此时 LV 压力降至中心主动脉压力以下。这也标志着等容舒张的开始，此时 LV 压力迅速下降，而 LV 容积保持相对恒定。\n\n(选项 D) 左心房压力从肺静脉的被动充盈逐渐增加，并在等容舒张结束时超过 LV 压力，导致二尖瓣开放。\n\n(选项 E) 此点对应于来自左心房的血液被动地填充左心室，这导致 LV 容积和压力逐渐升高。 {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of cardiac physiology, specifically the relationship between left ventricular pressure and volume during the cardiac cycle, and how these relate to valve opening and closing. It also tests the ability to correlate auscultation findings with potential valve abnormalities.\n\nTo solve this question, analyze the provided pressure-volume loop to identify the point corresponding to aortic valve opening. Relate the patient's murmur characteristics (ejection click, systolic murmur radiating to the neck) to the most likely underlying valve abnormality (bicuspid aortic valve).",
+    "zh": "本题考察对心脏生理学的理解，特别是左心室压力和容积在心脏周期中的关系，以及它们与瓣膜开放和关闭的关系。它还考察了将听诊结果与潜在瓣膜异常相关联的能力。\n\n要解决此问题，请分析提供的压力-容积环以确定与主动脉瓣开放相对应的点。将患者的杂音特征（喷射音、向颈部放射的收缩期杂音）与最有可能的潜在瓣膜异常（二叶式主动脉瓣）相关联。"
+  },
+  "tags": "Cardiac cycle; Left ventricular pressure; Aortic valve; Bicuspid aortic valve; Heart murmur; Cardiac auscultation; Cardiology; Physiology",
+  "category": "CVS",
+  "question_id": "1530",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1530",
+  "extracted_at": "2025-11-05T11:58:24.710467",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:48:43.229132",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

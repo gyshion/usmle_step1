@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 6-year-old boy is brought to the emergency department by his parents with a 2-day history of fever and headaches. The parents report that he vomited once this afternoon. All of his vaccinations are up-to-date and he has no significant past medical history. His temperature is 38.7 C (102 F). Examination shows mild pharyngeal erythema in addition to neck stiffness. Cerebrospinal fluid analysis reveals the following:\n\nGlucose 70 mg/dL\nProtein 85 mg/dL\nLeukocytes 300/mm³\n\nDifferential\nNeutrophils 15%\nLymphocytes 85%\nRed blood cells none",
+    "zh": "一名6岁男孩由父母带到急诊科，主诉发热和头痛2天。父母报告说他今天下午呕吐过一次。他所有的疫苗接种均已完成，并且没有重要的既往病史。他的体温为38.7°C（102°F）。检查显示轻度咽部红斑以及颈部僵硬。脑脊液分析显示：\n\n葡萄糖70 mg/dL\n蛋白质85 mg/dL\n白细胞300/mm³\n\n分类\n中性粒细胞15%\n淋巴细胞85%\n红细胞无"
+  },
+  "question": {
+    "en": "Which of the following infectious agents is most likely to have caused this patient's illness?",
+    "zh": "以下哪种感染病原体最有可能引起该患者的疾病？"
+  },
+  "options": {
+    "A": {
+      "en": "Coronavirus",
+      "zh": "冠状病毒"
+    },
+    "B": {
+      "en": "Cryptococcus neoformans",
+      "zh": "新型隐球菌"
+    },
+    "C": {
+      "en": "Enterovirus",
+      "zh": "肠道病毒"
+    },
+    "D": {
+      "en": "Mumps virus",
+      "zh": "腮腺炎病毒"
+    },
+    "E": {
+      "en": "Neisseria meningitidis",
+      "zh": "脑膜炎奈瑟菌"
+    },
+    "F": {
+      "en": "Streptococcus agalactiae",
+      "zh": "无乳链球菌"
+    },
+    "G": {
+      "en": "Streptococcus pneumoniae",
+      "zh": "肺炎链球菌"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This child has clinical evidence of meningitis (fever, headache, vomiting, stiff neck). Analysis of the cerebrospinal fluid (CSF) shows normal glucose, marginally elevated protein (generally <150 mg/dL), and pleocytosis with a LYMPHOCYTIC predominance. This pattern suggests ASEPTIC MENINGITIS, which is usually VIRAL in etiology. Enteroviruses (eg, coxsackievirus, echovirus, poliovirus) are responsible for >90% of cases. Clinical symptoms are similar to meningitis caused by bacterial or fungal pathogens. However, aseptic meningitis is generally LESS SEVERE, and focal neurologic signs, seizures, and alterations in mental status are absent. The presence of any of these should prompt consideration of other conditions, including bacterial meningitis, encephalitis, and intracranial hemorrhage. A negative Gram stain and STERILE CULTURE will further support the diagnosis of aseptic meningitis.\n\n(Choice A) Coronaviruses are a common cause of cold symptoms and have caused fatal respiratory illnesses (eg, severe acute respiratory syndromes). They are not a common cause of viral meningitis.\n\n(Choice B) Cryptococcus neoformans is a common cause of meningitis in immunocompromised patients (eg, AIDS patients). The diagnosis is made by testing for cryptococcal antigens or by identifying India ink-stained organisms in the CSF.\n\n(Choice D) The mumps virus can cause aseptic meningitis, but this would be extremely unlikely in this fully immunized child. Meningitis caused by mumps is accompanied by parotitis in 50% of cases.\n\n(Choices E, F, and G) Streptococcus pneumoniae and Neisseria meningitidis are the most common causes of bacterial meningitis in adults; S agalactiae (group B Streptococcus) is the most common cause of meningitis in neonates. Bacterial and viral meningitis both cause fever, nuchal rigidity, and headache. However, this patient's CSF analysis is more suggestive of aseptic meningitis.\n\nEducational objective: Fever; meningeal signs (eg, headache, neck stiffness); and cerebrospinal fluid that shows lymphocytic pleocytosis, a modestly elevated protein level (<150 mg/dL), and normal glucose are suggestive of aseptic meningitis. Enteroviruses are the most common cause of aseptic meningitis.",
+    "zh": "该儿童有脑膜炎的临床证据（发热、头痛、呕吐、颈部僵硬）。脑脊液 (CSF) 分析显示葡萄糖正常，蛋白质轻度升高（通常 <150 mg/dL），并且淋巴细胞占优势的细胞增多。这种模式提示无菌性脑膜炎，通常病因为病毒。肠道病毒（例如，柯萨奇病毒、埃可病毒、脊髓灰质炎病毒）导致 >90% 的病例。临床症状与细菌或真菌病原体引起的脑膜炎相似。然而，无菌性脑膜炎通常不那么严重，并且不存在局灶性神经系统体征、癫痫发作和精神状态改变。存在其中任何一种情况都应促使考虑其他疾病，包括细菌性脑膜炎、脑炎和颅内出血。革兰氏染色阴性和无菌培养将进一步支持无菌性脑膜炎的诊断。\n\n（选项 A）冠状病毒是感冒症状的常见原因，并已导致致命的呼吸道疾病（例如，严重急性呼吸系统综合征）。它们不是病毒性脑膜炎的常见原因。\n\n（选项 B）新型隐球菌是免疫功能低下患者（例如，艾滋病患者）脑膜炎的常见原因。诊断是通过检测隐球菌抗原或通过鉴定 CSF 中印度墨水染色的微生物来实现的。\n\n（选项 D）腮腺炎病毒可引起无菌性脑膜炎，但这对于完全免疫接种的儿童来说极不可能。腮腺炎引起的脑膜炎伴有腮腺炎，发生率为 50%。\n\n（选项 E、F 和 G）肺炎链球菌和脑膜炎奈瑟菌是成人细菌性脑膜炎的最常见原因；无乳链球菌（B 群链球菌）是新生儿脑膜炎的最常见原因。细菌性和病毒性脑膜炎都会引起发热、颈项强直和头痛。然而，该患者的 CSF 分析更提示无菌性脑膜炎。\n\n教育目标：发热；脑膜体征（例如，头痛、颈部僵硬）；以及显示淋巴细胞性细胞增多、中度升高的蛋白质水平（<150 mg/dL）和正常葡萄糖的脑脊液提示无菌性脑膜炎。肠道病毒是无菌性脑膜炎最常见的原因。"
+  },
+  "summary": {
+    "en": "This question tests the ability to differentiate between viral and bacterial meningitis based on clinical presentation and cerebrospinal fluid (CSF) analysis. It specifically assesses knowledge of the common etiologies of aseptic meningitis.\n\nThe approach to solving this question involves analyzing the CSF findings (glucose, protein, cell count, and differential) in the context of the patient's symptoms to determine if the meningitis is likely viral (aseptic) or bacterial. Identifying the most common viral cause of aseptic meningitis based on the CSF profile is key.",
+    "zh": "此问题测试根据临床表现和脑脊液 (CSF) 分析区分病毒性和细菌性脑膜炎的能力。它专门评估对无菌性脑膜炎常见病因的了解。\n\n解决此问题的方法包括在患者症状的背景下分析 CSF 结果（葡萄糖、蛋白质、细胞计数和分类），以确定脑膜炎是可能为病毒性（无菌性）还是细菌性的。根据 CSF 描述识别无菌性脑膜炎最常见的病毒病因是关键。"
+  },
+  "tags": "Aseptic meningitis; Viral meningitis; Bacterial meningitis; Cerebrospinal fluid analysis; Enterovirus; CSF pleocytosis; Lymphocytic predominance; Fever; Neck stiffness; Headache",
+  "category": "Neuro",
+  "question_id": "1966",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\1966",
+  "extracted_at": "2025-11-05T19:38:20.246833",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:37:47.539583",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

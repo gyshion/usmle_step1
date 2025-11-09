@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 4-year-old, previously healthy boy is brought to the emergency department due to fever, abdominal pain, and frequent bloody diarrhea for 2 days. A few children at day care have developed diarrhea over the past week as well. He takes no medications and has not traveled outside the United States. Temperature is 39 C (102.2 F), blood pressure is 110/70 mm Hg, and pulse is 90/min. Physical examination shows increased bowel sounds and left sided abdominal tenderness.",
+    "zh": "一名先前健康的4岁男孩因发烧、腹痛和2天内频繁的血性腹泻被带到急诊科。过去一周，日托中心也有几个孩子出现了腹泻。他没有服用任何药物，也没有离开过美国。体温为39°C (102.2°F)，血压为110/70 mmHg，脉搏为90/min。体格检查显示肠鸣音增强和左侧腹部压痛。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely causal organism?",
+    "zh": "以下哪项是最可能的病原体？"
+  },
+  "options": {
+    "A": {
+      "en": "Clostridioides difficile",
+      "zh": "艰难梭菌"
+    },
+    "B": {
+      "en": "Clostridium perfringens",
+      "zh": "产气荚膜梭菌"
+    },
+    "C": {
+      "en": "Enterotoxigenic Escherichia coli",
+      "zh": "产毒性大肠杆菌"
+    },
+    "D": {
+      "en": "Salmonella typhi",
+      "zh": "伤寒沙门菌"
+    },
+    "E": {
+      "en": "Shigella sonnei",
+      "zh": "宋内志贺菌"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This child has acute-onset fever, abdominal pain, and DIARRHEA, findings suggestive of ACUTE BACTERIAL GASTROENTERITIS. Common causative organisms in bacterial gastroenteritis with bloody diarrhea include Escherichia coli O157:H7, Shigella, and Campylobacter.\n\nOf the given choices, the most likely pathogen is Shigella sonnei, which is transmitted by ingestion of contaminated food or water. S sonnei is also sometimes implicated in outbreaks in community settings (eg, day care facilities) due to the low infectious dose required for person-to-person spread.\n\nShigella gastroenteritis presents abruptly with HIGH FEVER, abdominal cramping, and stools that are initially watery before mucus and/or blood appears. Shigella preferentially involves the rectosigmoid region (ie, left-sided abdominal tenderness), causing frequent episodes of small-volume bloody/mucoid diarrhea. Nausea and vomiting are often absent but may occur, and seizure is a severe, uncommon complication that can occur in children. Stool culture is diagnostic.\n\n(Choice A) Clostridioides difficile infection most commonly causes profuse, watery diarrhea. This diagnosis is rare without risk factors, such as recent antibiotic use or hospitalization, neither of which is seen in this patient.\n\n(Choice B) Clostridium perfringens gastroenteritis, which typically occurs after ingestion of contaminated food (particularly meat) that was inadequately cooked or refrigerated, causes watery, not bloody, diarrhea.\n\n(Choice C) Enterotoxigenic Escherichia coli infection is a common cause of watery diarrhea, particularly in resource-limited countries (traveler's diarrhea). In contrast, this patient has bloody diarrhea and no travel history outside the United States.\n\n(Choice D) In contrast to nontyphoidal Salmonella gastroenteritis, which can cause bloody diarrhea. Salmonella serovar Typhi infection is most common in resource-limited countries. It causes fever and bacteremia; abdominal pain with or without diarrhea is common but typically begins a week after initial symptoms. This patient's acute-onset bloody diarrhea and lack of travel history make this diagnosis unlikely.\n\nEducational objective:\nAcute-onset bloody diarrhea is most commonly due to Escherichia coli O157:H7, Shigella, or Campylobacter infection. Shigella infection also classically causes high fever and left-sided abdominal tenderness (due to rectosigmoid involvement) and often occurs in outbreaks (eg, day care center).",
+    "zh": "该儿童有急性发热、腹痛和腹泻，提示急性细菌性胃肠炎。引起血性腹泻的细菌性胃肠炎常见病原体包括O157:H7型大肠杆菌、志贺菌属和弯曲杆菌。\n\n在给出的选项中，最可能的病原体是宋内志贺菌，它通过摄入被污染的食物或水传播。宋内志贺菌有时也与社区环境（例如，日托中心）的爆发有关，这归因于人际传播所需的低感染剂量。\n\n志贺菌性胃肠炎表现为突然发病，伴有高烧、腹部绞痛，大便最初为水样，然后出现粘液和/或血液。志贺菌优先累及直乙状结肠区（即左侧腹部压痛），导致频繁的小量血性/粘液性腹泻发作。恶心和呕吐通常不存在，但可能发生，惊厥是一种严重的、不常见的并发症，可能发生在儿童身上。粪便培养是诊断性的。\n\n（选项A）艰难梭菌感染最常引起大量水样腹泻。如果没有危险因素，如最近使用抗生素或住院，这种诊断是罕见的，而该患者两者都没有。\n\n（选项B）产气荚膜梭菌性胃肠炎通常发生在摄入被污染的食物（特别是肉类）后，这些食物没有充分煮熟或冷藏，会导致水样而不是血性腹泻。\n\n（选项C）产毒性大肠杆菌感染是水样腹泻的常见原因，尤其是在资源有限的国家（旅行者腹泻）。相比之下，该患者有血性腹泻，并且没有离开过美国的旅行史。\n\n（选项D）与非伤寒沙门菌性胃肠炎相反，后者可引起血性腹泻。伤寒沙门菌感染在资源有限的国家最常见。它引起发烧和菌血症；伴有或不伴有腹泻的腹痛很常见，但通常在最初症状出现一周后开始。该患者的急性血性腹泻和缺乏旅行史使得这一诊断不太可能。\n\n教育目标：\n急性血性腹泻最常见的原因是O157:H7型大肠杆菌、志贺菌属或弯曲杆菌感染。志贺菌感染也典型地引起高烧和左侧腹部压痛（由于直乙状结肠受累），并且经常发生在暴发中（例如，日托中心）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of common causes of acute bacterial gastroenteritis, particularly those causing bloody diarrhea in children, and the associated risk factors and clinical presentations.\n\nTo solve this question, consider the patient's age, symptoms (bloody diarrhea, fever, abdominal pain), and potential exposures (daycare outbreak). Rule out options based on inconsistent symptoms or risk factors.",
+    "zh": "本题考察了关于急性细菌性胃肠炎常见病因的知识，特别是那些引起儿童血性腹泻的病因，以及相关的风险因素和临床表现。\n\n为了解决这个问题，请考虑患者的年龄、症状（血性腹泻、发烧、腹痛）和潜在的暴露（日托中心爆发）。根据不一致的症状或危险因素排除选项。"
+  },
+  "tags": "Shigella sonnei; Gastroenteritis; Bloody diarrhea; Pediatric infectious disease; Daycare outbreak; Bacterial infection; Infectious Diseases; Acute diarrhea; Fever; Abdominal pain",
+  "category": "Micro",
+  "question_id": "105601",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\105601",
+  "extracted_at": "2025-11-05T14:48:50.381928",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:04:03.280687",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

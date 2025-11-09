@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 70-year-old woman has been enrolled in a longitudinal research study on aging for the last 30 years. Medical history is significant for osteoporosis; she has developed moderate kyphosis due to gradual loss of vertebral body height. She is otherwise active and healthy with no additional medical issues. She has never smoked. Compared to her physiology testing done years ago, which of the following changes is most consistent with normal aging? {{exhibit_1}}",
+    "zh": "一位70岁的女性参与了一项关于衰老的纵向研究，该研究已持续了30年。病史提示骨质疏松；由于椎体高度逐渐降低，她出现了轻度脊柱后凸。她身体健康，积极活跃，没有其他医疗问题。她从未吸烟。与她多年前进行的生理学检查相比，以下哪种变化与正常衰老最一致？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Compared to her physiology testing done years ago, which of the following changes is most consistent with normal aging?",
+    "zh": "与她多年前进行的生理学检查相比，以下哪种变化与正常衰老最一致？"
+  },
+  "options": {
+    "A": {
+      "en": "Lung compliance: ↑; Total respiratory system compliance: -; Physiologic dead space: ↑",
+      "zh": "肺顺应性：↑；总呼吸系统顺应性：-；生理死腔：↑"
+    },
+    "B": {
+      "en": "Lung compliance: ↑; Total respiratory system compliance: ↑; Physiologic dead space: -",
+      "zh": "肺顺应性：↑；总呼吸系统顺应性：↑；生理死腔：-"
+    },
+    "C": {
+      "en": "Lung compliance: ↑; Total respiratory system compliance: ↓; Physiologic dead space: ↑",
+      "zh": "肺顺应性：↑；总呼吸系统顺应性：↓；生理死腔：↑"
+    },
+    "D": {
+      "en": "Lung compliance: -; Total respiratory system compliance: ↑; Physiologic dead space: -",
+      "zh": "肺顺应性：-；总呼吸系统顺应性：↑；生理死腔：-"
+    },
+    "E": {
+      "en": "Lung compliance: -; Total respiratory system compliance: Unchanged; Physiologic dead space: -",
+      "zh": "肺顺应性：-；总呼吸系统顺应性：不变；生理死腔：-"
+    },
+    "F": {
+      "en": "Lung compliance: ↓; Total respiratory system compliance: ↓; Physiologic dead space: ↑",
+      "zh": "肺顺应性：↓；总呼吸系统顺应性：↓；生理死腔：↑"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The human respiratory system undergoes significant changes during NORMAL AGING. The mechanics of breathing are compromised due to alteration of lung, chest wall, and total respiratory system compliance:\n\n*   Lung compliance increases (\"loose, baggy lungs\") due to loss of elastin content. This process resembles mild emphysema and leads to dynamic expiratory airflow obstruction, premature airway closure, and progressive hyperinflation.\n*   Chest wall compliance decreases (\"stiff rib cage\") due to degenerative changes (ossification, arthritis) of the sternocostal and costovertebral joints and kyphosis of the thoracic spine.\n*   Total respiratory system compliance, the combination of lung parenchymal and chest wall compliance, is decreased because the stiffness of the chest wall dominates over the increased laxity of the lung.\n\nAs these mechanical changes occur, there is also a marked increase in dead space ventilation. Although anatomic dead space (nasopharynx to terminal bronchioles) remains constant after early adulthood when the bronchial tree reaches full maturity, alveolar dead space increases with age due to progressive elastin degeneration, alveolar simplification, and capillary dropout.\n\nThe net result is a mechanically disadvantaged respiratory system (lower compliance) that must contend with increased dead space. A greater work of breathing is required to maintain the same alveolar minute ventilation and the efficiency of breathing (ventilation per unit of work) steadily declines.\n\nEducational objective:\nNormal aging is characterized by decreased respiratory system compliance (increased lung compliance outweighed by higher chest wall stiffness) and increased dead space (loss of alveolar surface area). For this reason, elderly persons are less equipped to tolerate illnesses that impair respiratory compliance and/or gas exchange (eg, pneumonia, pulmonary edema). {{exhibit_2}} {{exhibit_3}}",
+    "zh": "在正常衰老过程中，人体呼吸系统会发生显著变化。呼吸的机制受到肺、胸壁和总呼吸系统顺应性改变的影响：\n\n*   肺顺应性增加（“松弛的，袋状的肺”）是由于弹性蛋白含量减少。这个过程类似于轻度肺气肿，并导致动态呼气气流阻塞、气道过早闭合和进行性过度充气。\n*   胸壁顺应性降低（“僵硬的胸腔”）是由于胸肋关节和肋椎关节的退行性变（骨化、关节炎）以及胸椎后凸。\n*   总呼吸系统顺应性，即肺实质和胸壁顺应性的结合，会降低，因为胸壁的僵硬程度超过了肺的弹性增加。\n\n随着这些机械变化发生，死腔通气也会显着增加。虽然解剖死腔（鼻咽到末端细支气管）在成年早期（当支气管树完全成熟时）保持不变，但由于进行性弹性蛋白变性、肺泡简化和毛细血管脱落，肺泡死腔会随着年龄的增长而增加。\n\n最终结果是一个机械上不利的呼吸系统（顺应性降低），必须应对增加的死腔。需要更大的呼吸功才能维持相同的肺泡每分通气量，并且呼吸效率（每单位功的通气量）稳步下降。\n\n教育目标：\n正常衰老的特点是呼吸系统顺应性降低（肺顺应性增加被更高的胸壁僵硬度抵消）和死腔增加（肺泡表面积减少）。因此，老年人不太能耐受损害呼吸顺应性和/或气体交换的疾病（如肺炎、肺水肿）。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the physiological changes that occur in the respiratory system during normal aging, specifically focusing on lung compliance, total respiratory system compliance, and physiologic dead space. Understanding these changes is crucial for differentiating normal aging from pathological respiratory conditions.\n\nThe key to solving this question is to remember that with normal aging, lung compliance increases due to elastin loss, chest wall compliance decreases due to stiffening, and total respiratory system compliance decreases as the chest wall stiffness dominates. Additionally, alveolar dead space increases due to alveolar simplification and capillary dropout.",
+    "zh": "这个问题测试对正常衰老过程中呼吸系统发生的生理变化的了解，特别侧重于肺顺应性、总呼吸系统顺应性和生理死腔。理解这些变化对于区分正常衰老和病理性呼吸系统疾病至关重要。\n\n解决这个问题的关键是要记住，随着正常衰老，由于弹性蛋白的损失，肺顺应性增加，由于僵硬，胸壁顺应性降低，并且随着胸壁僵硬度的增加，总呼吸系统顺应性降低。此外，由于肺泡简化和毛细血管脱落，肺泡死腔增加。"
+  },
+  "tags": "Aging; Respiratory physiology; Lung compliance; Chest wall compliance; Physiologic dead space; Pulmonary function tests; Geriatrics",
+  "category": "Chest",
+  "question_id": "21036",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\21036",
+  "extracted_at": "2025-11-05T11:44:43.432118",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:39:00.483838",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

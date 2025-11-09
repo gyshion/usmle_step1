@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 28-year-old woman is brought to the emergency department by her family due to acute left flank pain. The pain radiates to her groin and is associated with pink hematuria and urinary urgency. Past medical history is unremarkable, and the patient has never experienced similar symptoms. CT scan of the urinary system confirms the presence of a stone at the ureterovesical junction. The patient is given intravenous morphine for pain relief. Fifteen minutes later, she develops diffuse itching involving the arms, legs, and back.",
+    "zh": "一名28岁女性由家人带到急诊科，原因是突发性左侧腰痛。疼痛放射至腹股沟，并伴有粉红色血尿和尿频。既往病史无特殊，患者从未经历过类似症状。泌尿系统CT扫描证实输尿管膀胱连接处存在结石。患者被给予静脉注射吗啡以缓解疼痛。15分钟后，她出现弥漫性瘙痒，涉及手臂、腿部和背部。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely mechanism of this patient's adverse drug reaction?",
+    "zh": "以下哪项最可能是该患者不良药物反应的机制？"
+  },
+  "options": {
+    "A": {
+      "en": "IgE-dependent mast cell degranulation",
+      "zh": "IgE依赖性肥大细胞脱颗粒"
+    },
+    "B": {
+      "en": "IgE-Independent mast cell degranulation",
+      "zh": "IgE非依赖性肥大细胞脱颗粒"
+    },
+    "C": {
+      "en": "Inhibition of prostaglandin synthesis",
+      "zh": "前列腺素合成抑制"
+    },
+    "D": {
+      "en": "Precipitation of immune complexes",
+      "zh": "免疫复合物沉淀"
+    },
+    "E": {
+      "en": "T cell release of inflammatory cytokines",
+      "zh": "T细胞释放炎症细胞因子"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient with acute pruritus following administration of morphine most likely has medication-induced IgE-independent mast cell activation, a pseudoallergic response. A number of medications, including opioids, radiocontrast agents, and some antibiotics (eg, vancomycin), can induce mast cell degranulation by activation of protein kinase A and PI3 kinase. This results in release of several mediators, including histamine, bradykinin, heparin, and a number of enzymes and chemotactic factors. Common symptoms include diffuse itching and pain, bronchospasm, and localized swelling (urticaria).\n\n(Choice A) IgE-mediated degranulation is typically associated with environmental exposures such as foods or vespid stings or with medications such as beta-lactam and sulfonamide antibiotics. Opioids rarely cause IgE-dependent degranulation; IgE-independent reactions are more common.\n\n(Choice C) Inhibition of cyclooxygenase 1 by aspirin and nonsteroidal anti-inflammatory drugs can trigger urticaria in patients with chronic idiopathic urticaria. These medications shunt arachidonic acid metabolites toward formation of leukotrienes, which increase vascular permeability.\n\n(Choice D) Serum sickness is a type III hypersensitivity reaction caused by precipitation of circulating immune complexes. Typical symptoms include fever, pruritic rash, and arthralgias starting 7-14 days after antigen exposure. Common triggers include beta-lactam and sulfonamide antibiotics.\n\n(Choice E) Acute allergic contact dermatitis is caused by a T cell-mediated type IV (delayed) hypersensitivity reaction to an antigen on the skin surface. Gross findings include erythematous, papulovesicular, weeping lesions.",
+    "zh": "该患者在给予吗啡后出现急性瘙痒，最可能的原因是药物诱导的IgE非依赖性肥大细胞活化，这是一种假性过敏反应。许多药物，包括阿片类药物、造影剂和一些抗生素（如万古霉素），可以通过激活蛋白激酶A和PI3激酶诱导肥大细胞脱颗粒。这会导致多种介质的释放，包括组胺、缓激肽、肝素以及一些酶和趋化因子。常见症状包括弥漫性瘙痒和疼痛、支气管痉挛和局部肿胀（荨麻疹）。\n\n（选项A） IgE介导的脱颗粒通常与环境暴露有关，例如食物或蜂螫，或与药物有关，例如β-内酰胺类和磺胺类抗生素。阿片类药物很少引起IgE依赖性脱颗粒；IgE非依赖性反应更为常见。\n\n（选项C） 阿司匹林和非甾体类抗炎药对环氧合酶1的抑制作用可诱发慢性特发性荨麻疹患者出现荨麻疹。这些药物将花生四烯酸代谢物分流到白三烯的形成，从而增加血管通透性。\n\n（选项D） 血清病是一种由循环免疫复合物沉淀引起的III型超敏反应。典型症状包括发烧、瘙痒性皮疹和关节痛，在抗原暴露后7-14天开始。常见诱因包括β-内酰胺类和磺胺类抗生素。\n\n（选项E） 急性过敏性接触性皮炎是由T细胞介导的针对皮肤表面抗原的IV型（迟发型）超敏反应引起的。肉眼所见包括红斑、丘疹水疱性、渗出性病变。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pseudoallergic drug reactions, specifically IgE-independent mast cell activation caused by certain medications like opioids. It requires understanding the mechanism of action and differentiating it from other types of hypersensitivity reactions.\n\nThe best approach is to recognize the rapid onset of itching after morphine administration and associate it with non-IgE mediated mast cell activation. Rule out other hypersensitivity reactions based on their typical presentations and triggers.",
+    "zh": "本题测试对假性过敏药物反应的理解，特别是某些药物（如阿片类药物）引起的IgE非依赖性肥大细胞活化。它需要了解其作用机制，并将其与其他类型的超敏反应区分开来。\n\n最佳方法是认识到注射吗啡后迅速出现的瘙痒，并将其与非IgE介导的肥大细胞活化联系起来。根据其他超敏反应的典型表现和诱因，排除其他超敏反应。"
+  },
+  "tags": "Drug hypersensitivity; IgE-independent mast cell activation; Pseudoallergy; Opioids; Morphine; Pruritus; Urticaria; Emergency medicine; Immunology",
+  "category": "Derma",
+  "question_id": "11852",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\11852",
+  "extracted_at": "2025-11-05T13:52:15.487889",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:33:28.714915",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

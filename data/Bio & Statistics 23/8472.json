@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A study is performed to compare the effect of tramadol when compared to placebo for painful polyneuropathy. Fifty patients are selected and randomly allocated to 1 of 2 treatment sequences: Tramadol followed by placebo, or placebo followed by tramadol. The initial treatment period is delivered for 4 weeks followed by an interim 1-week washout phase, after which the second treatment period is delivered for an additional 4 weeks. After each treatment period, patients use a 10-point numeric scale to rate pain, paresthesia, and tenderness. Which of the following best describes this study design? {{exhibit_1}}",
+    "zh": "进行一项研究，比较曲马多与安慰剂对疼痛性多发性神经病变的疗效。选择了 50 名患者，并随机分配到 2 种治疗方案中的 1 种：曲马多后接安慰剂，或安慰剂后接曲马多。初始治疗期为 4 周，随后是 1 周的过渡期（清洗期），之后进行第二治疗期，再持续 4 周。在每个治疗期后，患者使用 10 分制量表来评估疼痛、感觉异常和触痛。以下哪项最好地描述了这项研究设计？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following best describes this study design?",
+    "zh": "以下哪项最能描述这项研究设计？"
+  },
+  "options": {
+    "A": {
+      "en": "Case-control study",
+      "zh": "病例对照研究"
+    },
+    "B": {
+      "en": "Case series study",
+      "zh": "病例系列研究"
+    },
+    "C": {
+      "en": "Crossover study",
+      "zh": "交叉研究"
+    },
+    "D": {
+      "en": "Cross-sectional study",
+      "zh": "横断面研究"
+    },
+    "E": {
+      "en": "Prospective cohort study",
+      "zh": "前瞻性队列研究"
+    },
+    "F": {
+      "en": "Retrospective cohort study",
+      "zh": "回顾性队列研究"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "In this example, patients are allocated to 1 of 2 treatment groups: Group A receives placebo followed by tramadol and Group B receives tramadol followed by placebo. After the initial 4-week treatment period and the 1-week washout phase, the treatments are switched and delivered for an additional 4 weeks. This is consistent with a crossover study, in which subjects are randomly allocated to a sequence of 2 or more treatments given consecutively. The simplest model is the AB/BA type of study in which half of the subjects are allocated to the AB study arm and receive treatment A followed by treatment B, while the other half of the subjects are allocated to the BA study arm and receive the same treatments but in reverse order. In this way, crossover trials allow the patients to serve as their own controls.\n\nThe principal drawback of crossover trials is that the effects of one treatment may carry over and alter the response to a subsequent treatment. To avoid this, a washout phase (no treatment) is often added between treatments. The washout period is designed to be long enough to allow the effects of prior treatment to wear off.\n\n(Choice A) A case-control study is designed by selecting patients with a particular disease (cases) and without that disease (controls), then determining their past exposure status to ≥1 risk factors believed to be associated with the disease of interest.\n\n(Choice B) A case series is a descriptive study that tracks patients with a known condition (eg, a particular exposure, risk factor, or disease) to document the natural history or response to treatment. Unlike a case-control study, a case series is a descriptive study that cannot quantify statistical significance.\n\n(Choice D) A cross-sectional study is also known as a prevalence study. It is characterized by the simultaneous measurement of exposure and outcome. It is a snapshot study design that frequently uses surveys. These studies are relatively inexpensive and easy to perform.\n\n(Choices E and F) Prospective cohort studies identify 2 groups of individuals (ie, cohorts), based on their exposure status to a risk factor. These 2 cohorts are then followed over time to assess development of the disease of interest.\n\nSometimes the exposure status is determined retrospectively, typically using medical records, and patients are tracked from the point of exposure onward.\n\nEducational objective:\nIn a crossover study, subjects are randomly allocated to a sequence of 2 or more treatments given consecutively. A washout (no treatment) period is often added between treatment intervals to limit the confounding effects of prior treatment.",
+    "zh": "在这个例子中，患者被分配到 2 组治疗方案中的 1 组：A 组接受安慰剂，然后是曲马多，B 组接受曲马多，然后是安慰剂。在最初的 4 周治疗期和 1 周的清洗期后，治疗方案切换并在另外 4 周内进行。这与交叉研究一致，在这种研究中，受试者被随机分配到连续给予 2 种或多种治疗方案的顺序中。最简单的模型是 AB/BA 型研究，其中一半受试者被分配到 AB 研究组，接受 A 治疗，然后是 B 治疗，而另一半受试者被分配到 BA 研究组，接受相同的治疗，但顺序相反。通过这种方式，交叉试验允许患者充当他们自己的对照。\n\n交叉试验的主要缺点是，一种治疗的效果可能会延续并改变对后续治疗的反应。为了避免这种情况，通常在治疗之间加入清洗期（不治疗）。清洗期的设计要足够长，以使先前治疗的效果消失。\n\n(选项 A) 病例对照研究是通过选择患有特定疾病的患者（病例）和未患该疾病的患者（对照），然后确定他们过去暴露于 ≥1 个被认为与感兴趣疾病相关的风险因素的状态来设计的。\n\n(选项 B) 病例系列研究是一项描述性研究，追踪患有已知疾病（例如，特定的暴露、危险因素或疾病）的患者，以记录自然病程或对治疗的反应。与病例对照研究不同，病例系列研究是一项描述性研究，无法量化统计学意义。\n\n(选项 D) 横断面研究也称为患病率研究。它的特征是同时测量暴露和结局。它是一种快照研究设计，经常使用调查。这些研究相对便宜且易于进行。\n\n(选项 E 和 F) 前瞻性队列研究根据个体暴露于危险因素的状态，确定 2 组个体（即，队列）。然后，对这 2 个队列进行长期随访，以评估感兴趣疾病的发生。\n\n有时，暴露状态是回顾性确定的，通常使用医疗记录，并从暴露点开始跟踪患者。\n\n教学目标：\n在交叉研究中，受试者被随机分配到连续给予 2 种或多种治疗方案的顺序中。通常在治疗间隔之间加入清洗期（不治疗），以限制先前治疗的混杂效应。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of different study designs, specifically the characteristics of a crossover study. It requires understanding the key features of crossover trials, including the random allocation of subjects to treatment sequences and the inclusion of a washout period.\n\nTo solve this question, identify the elements that define a crossover study: subjects receiving multiple treatments in sequence, a washout period between treatments, and the aim to have each subject serve as their own control. Eliminate options that describe other study designs like case-control, case series, cross-sectional, or cohort studies.",
+    "zh": "这个问题考察了对不同研究设计的知识，特别是交叉研究的特征。它要求理解交叉试验的关键特征，包括受试者随机分配到治疗顺序和包括清洗期。\n\n为了解决这个问题，确定定义交叉研究的要素：受试者连续接受多种治疗，治疗之间有清洗期，以及让每个受试者充当自己的对照。排除描述其他研究设计的选项，如病例对照、病例系列、横断面或队列研究。"
+  },
+  "tags": "Study design; Crossover study; Clinical trials; Biostatistics; Epidemiology",
+  "category": "Bio",
+  "question_id": "8472",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\8472",
+  "extracted_at": "2025-11-05T11:16:43.557276",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:24:46.276939",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

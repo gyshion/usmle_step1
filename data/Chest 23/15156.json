@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "An 8-year-old girl is brought to the emergency department due to worsening shortness of breath and chest tightness for the past 2 hours. On physical examination, the patient speaks in short sentences. Lung auscultation reveals diffuse wheezing. During the evaluation, the patient is instructed to take a deep breath and blow as hard as possible into the mouthpiece of a hand-held device. The measured airflow rate is significantly lower than expected. Treatment with an inhaled medication is begun. A repeat evaluation several minutes later shows an increase in the airflow rate.",
+    "zh": "一名8岁女孩因过去2小时呼吸困难和胸闷加重而被送往急诊科。体格检查显示，患者说话断断续续。肺部听诊显示弥漫性喘息。在评估期间，指示患者深吸一口气，然后尽可能用力地吹入手持设备的吹嘴。测得的气流速率明显低于预期。开始使用吸入药物治疗。几分钟后的复查显示气流速率增加。"
+  },
+  "question": {
+    "en": "The administered medication most likely affected which of the following to produce the observed finding in this patient?",
+    "zh": "所给药物最有可能影响以下哪一项，从而在该患者中产生观察到的结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Airway inflammatory response",
+      "zh": "气道炎症反应"
+    },
+    "B": {
+      "en": "Alveolar surfactant production",
+      "zh": "肺泡表面活性物质产生"
+    },
+    "C": {
+      "en": "Bronchiolar smooth muscle tone",
+      "zh": "细支气管平滑肌张力"
+    },
+    "D": {
+      "en": "Lower-airway bacterial load",
+      "zh": "下呼吸道细菌负荷"
+    },
+    "E": {
+      "en": "Pulmonary vascular resistance",
+      "zh": "肺血管阻力"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient's acute-onset shortness of breath and chest tightness are consistent with the AIRWAY SPASM and BRONCHOCONSTRICTION that occurs in ASTHMA. She received a BRONCHODILATOR to reduce airway resistance and increase airway flow. In asthma, bronchodilation is typically accomplished with a BETA-2 RECEPTOR AGONIST (eg, albuterol); these drugs work by stimulating beta-2 adrenergic receptors on bronchial smooth muscle cells, leading to an increase in cyclic AMP and consequent SMOOTH MUSCLE RELAXATION (decrease in smooth muscle tone).\n\n(Choices A and B) Corticosteroids, both inhaled (eg, budesonide, fluticasone) and systemic (eg, prednisone), modify gene transcription to reduce the airway inflammatory response in patients with asthma. Corticosteroids are also used to stimulate alveolar surfactant production and reduce the risk of neonatal respiratory distress syndrome in premature infants.\n\n(Choice D) Inhaled antibiotics (eg, tobramycin) are used to reduce lower-airway bacterial load in patients with cystic fibrosis.\n\n(Choice E) Several medications, including endothelin receptor antagonists (eg, bosentan), phosphodiesterase inhibitors (eg, sildenafil), and prostacyclin analogs, are used to lower pulmonary vascular resistance in patients with pulmonary arterial hypertension.",
+    "zh": "该患者的急性呼吸困难和胸闷与哮喘中发生的**气道痉挛**和**支气管收缩**一致。她接受了支气管扩张剂以降低气道阻力并增加气流。在哮喘中，支气管扩张通常通过**β-2受体激动剂**（例如，沙丁胺醇）实现；这些药物通过刺激支气管平滑肌细胞上的β-2肾上腺素能受体起作用，导致环磷酸腺苷（cAMP）增加，从而导致**平滑肌松弛**（平滑肌张力降低）。\n\n（选项A和B）吸入性（例如，布地奈德、氟替卡松）和全身性（例如，泼尼松）皮质类固醇通过修饰基因转录来降低哮喘患者的气道炎症反应。皮质类固醇也用于刺激肺泡表面活性物质的产生，并降低早产儿新生儿呼吸窘迫综合征的风险。\n\n（选项D）吸入抗生素（例如，妥布霉素）用于减少囊性纤维化患者的下呼吸道细菌负荷。\n\n（选项E）几种药物，包括内皮素受体拮抗剂（例如，波生坦）、磷酸二酯酶抑制剂（例如，西地那非）和前列环素类似物，用于降低肺动脉高压患者的肺血管阻力。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of asthma pathophysiology and the mechanism of action of bronchodilators, specifically beta-2 agonists. It requires understanding how these medications reverse bronchoconstriction to improve airflow.\n\nThe key to solving this question is recognizing the patient's asthma presentation and linking the inhaled medication (likely a beta-2 agonist) to its effect on bronchial smooth muscle tone, leading to relaxation and increased airflow. {{exhibit_1}}",
+    "zh": "此问题测试对哮喘病理生理学和支气管扩张剂（特别是β-2激动剂）的作用机制的了解。它要求理解这些药物如何逆转支气管收缩以改善气流。\n\n解决此问题的关键是认识到患者的哮喘表现，并将吸入药物（可能是β-2激动剂）与其对支气管平滑肌张力的影响联系起来，从而导致松弛和气流增加。{{exhibit_1}}"
+  },
+  "tags": "Asthma; Bronchoconstriction; Beta-2 agonists; Smooth muscle relaxation; Airway resistance; Pulmonary function tests; Emergency medicine; Respiratory system",
+  "category": "Chest",
+  "question_id": "15156",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\15156",
+  "extracted_at": "2025-11-05T11:38:13.216210",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:35:06.049393",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

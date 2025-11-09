@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 12-year-old boy is evaluated in the clinic due to excessive bleeding following a tooth extraction. The patient also develops large bruises after only minor injury but has had no major bleeding episodes in the past. His maternal uncle died from an intracranial hemorrhage. Laboratory testing reveals decreased coagulation factor VIII activity levels. A referral is made to a clinical geneticist, who suspects that the patient has a deletion mutation in the enhancer sequence of the factor VIII gene. This mutation has resulted in decreased transcription of factor VIII by RNA polymerase II.",
+    "zh": "一名12岁男孩因拔牙后过度出血在诊所接受评估。患者在仅受到轻微损伤后也会出现大片瘀伤，但过去没有发生过大的出血事件。他的舅舅死于颅内出血。实验室检查显示凝血因子VIII活性水平降低。转诊至临床遗传学家，后者怀疑患者的因子VIII基因增强子序列存在缺失突变。这种突变导致RNA聚合酶II对因子VIII的转录减少。"
+  },
+  "question": {
+    "en": "Which of the following is the most accurate statement regarding the abnormal genetic sequence in this patient?",
+    "zh": "关于该患者异常基因序列，以下哪项陈述最准确？"
+  },
+  "options": {
+    "A": {
+      "en": "It can be located upstream, downstream, or within introns of the gene",
+      "zh": "它可以位于基因的上游、下游或内含子内"
+    },
+    "B": {
+      "en": "It can function within only a short distance of the gene",
+      "zh": "它只能在基因的短距离内起作用"
+    },
+    "C": {
+      "en": "It directly binds RNA polymerase and general transcription factors",
+      "zh": "它直接与RNA聚合酶和一般转录因子结合"
+    },
+    "D": {
+      "en": "It does not require protein binding to affect transcription",
+      "zh": "它不需要蛋白质结合来影响转录"
+    },
+    "E": {
+      "en": "It is required to initiate transcription",
+      "zh": "它是启动转录所必需的"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has hemophilia A, an X-linked recessive disorder characterized by easy bruising and excessive bleeding due to a deficiency in coagulation factor VIII. The disorder can be caused by a variety of different mutations in the factor VIII gene, including deletions in the enhancer sequence. \n\nIn eukaryotic gene transcription, nuclear RNA polymerase II uses a DNA template to generate complementary mRNA, which is then processed and translated into protein. Eukaryotic genes have associated promoter and enhancer sequences that mediate transcription. Promoter sequences directly bind general transcription factors and RNA polymerase II upstream from the gene locus, which is necessary for the initiation of transcription (Choices C and E). There are 2 types of eukaryotic promoter regions: the TATA, or Hogness, box, which is located approximately 25 bases upstream from the gene being transcribed; and the CAAT box, which is 70-80 bases upstream from the gene. \n\nIn contrast to promoters, enhancer sequences bind activator proteins that facilitate bending of DNA. DNA bending allows activator proteins to interact with general transcription factors and RNA polymerase II at the promoter, increasing the rate of transcription (Choice D). Enhancers can be located upstream or downstream from the gene being transcribed and may be near the gene or thousands of base pairs away (Choice B). They have also been identified both within introns of the gene being transcribed as well as on separate chromosomes. Silencers are similar to enhancers, but they decrease transcription rates by binding repressor proteins. {{exhibit_1}}\n\nEducational objective:\nEnhancers and silencers may be located upstream, downstream, or within a transcribed gene; these gene sequences function to increase and decrease the rate of transcription, respectively. In contrast, promoter regions are typically located 25 or 75 bases upstream from their associated genes and function to initiate transcription.",
+    "zh": "该患者患有血友病A，这是一种X连锁隐性遗传病，其特征是由于凝血因子VIII缺乏而导致的易于瘀伤和过度出血。该疾病可由因子VIII基因中的多种不同突变引起，包括增强子序列中的缺失。\n\n在真核基因转录中，核RNA聚合酶II使用DNA模板生成互补的mRNA，然后mRNA被加工并翻译成蛋白质。真核基因具有相关的启动子和增强子序列，这些序列介导转录。启动子序列直接与一般转录因子和RNA聚合酶II结合，位于基因位点上游，这对于转录的启动是必需的（选项C和E）。真核启动子区域有两种类型：TATA盒（或Hogness盒），位于转录基因上游大约25个碱基处；以及CAAT盒，位于基因上游70-80个碱基处。\n\n与启动子相反，增强子序列结合激活蛋白，从而促进DNA弯曲。DNA弯曲使激活蛋白能够与启动子上的一般转录因子和RNA聚合酶II相互作用，从而增加转录速率（选项D）。增强子可以位于转录基因的上游或下游，并且可以靠近基因或数千个碱基对之外（选项B）。它们也已在被转录基因的内含子内以及在单独的染色体上被鉴定出来。沉默子与增强子相似，但它们通过结合抑制蛋白来降低转录速率。{{exhibit_1}}\n\n教育目标：\n增强子和沉默子可以位于转录基因的上游、下游或内部；这些基因序列分别用于增加和降低转录速率。相反，启动子区域通常位于其相关基因上游25或75个碱基处，并起动转录的作用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of eukaryotic gene transcription, specifically the function and location of enhancer sequences. It requires understanding that enhancers can be located in various positions relative to the gene they regulate.\n\nTo answer this question, recall the characteristics of enhancer sequences: they bind activator proteins, influence transcription rate, and can be located upstream, downstream, or within introns of the gene. Eliminate options that describe promoter sequences or other transcription factors.",
+    "zh": "这个问题考察了对真核基因转录的知识，特别是增强子序列的功能和位置。它需要理解增强子可以位于它们所调节的基因的各种相对位置。\n\n为了回答这个问题，请回顾增强子序列的特征：它们与激活蛋白结合，影响转录速率，并且可以位于基因的上游、下游或内含子内。排除描述启动子序列或其他转录因子的选项。"
+  },
+  "tags": "Eukaryotic gene transcription; Enhancer sequences; RNA polymerase II; Hemophilia A; Genetics; Molecular biology",
+  "category": "Bio",
+  "question_id": "2025",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\2025",
+  "extracted_at": "2025-11-05T11:15:29.164132",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:23:44.941147",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

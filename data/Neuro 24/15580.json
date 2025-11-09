@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 38-year-old man is brought to the emergency department after a generalized tonic-clonic seizure. He had several days of progressive headache, vomiting, and confusion prior to the episode. Temperature is 38 C (100.4 F). Physical examination shows a lethargic patient with bilateral papilledema and neck rigidity. His condition progressively worsens, and the patient dies in the hospital several days later. An autopsy is performed, and the brain histopathology is shown below. {{exhibit_1}}",
+    "zh": "一名38岁男性因全身性强直-阵挛性癫痫发作被送往急诊科。在发作前数天，他出现进行性头痛、呕吐和意识模糊。体温为38°C (100.4°F)。体格检查显示患者嗜睡，双侧视乳头水肿和颈项强直。他的病情进行性恶化，几天后在医院死亡。进行了尸检，脑组织病理学检查结果如下。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following pathogens is most likely responsible for these findings?",
+    "zh": "以下哪种病原体最有可能导致这些发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Bacteria with mycolic acid in cell wall",
+      "zh": "细胞壁中含有分枝菌酸的细菌"
+    },
+    "B": {
+      "en": "Infectious agent lacking nucleic acid",
+      "zh": "缺乏核酸的感染原"
+    },
+    "C": {
+      "en": "Neurotrophic double-stranded DNA virus",
+      "zh": "嗜神经双链DNA病毒"
+    },
+    "D": {
+      "en": "Obligate intracellular protozoan parasite",
+      "zh": "专性细胞内原生动物寄生虫"
+    },
+    "E": {
+      "en": "Yeast with polysaccharide capsule",
+      "zh": "具有多糖荚膜的酵母菌"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The patient's presentation of headache, vomiting, confusion, seizure, papilledema, and neck rigidity, followed by progressive neurological decline and death, is highly suggestive of meningoencephalitis. The autopsy findings of a round/oval yeast surrounded by a thick polysaccharide capsule {{exhibit_2}} are characteristic of Cryptococcus neoformans. Cryptococcus neoformans is a yeast that commonly causes meningoencephalitis in immunocompromised individuals, particularly those with advanced AIDS. The yeast is found in soil contaminated by bird droppings and is transmitted via inhalation. Healthy individuals can usually clear the infection, but those with compromised immunity are susceptible. C neoformans can cause infection and hematologic dissemination to the brain, leading to cryptococcal meningitis. Replication of C neoformans in the brain clogs the arachnoid villi with yeast antigens and capsular proteins, leading to obstructed cerebrospinal fluid outflow. This elevates intracranial pressure and causes the symptoms described: progressive headache, nausea, vomiting, confusion, neck rigidity, and papilledema. Seizures and brain herniation can subsequently occur. The diagnosis is typically confirmed by detection of cryptococcal antigens in cerebrospinal fluid (CSF) or visualization of encapsulated, budding yeasts in CSF using specialized stains (e.g., India ink, methenamine silver). These special stains are needed because the yeasts are surrounded by clear CSF (unlike in tissue sections). Patients who develop cryptococcal meningitis often are unaware of underlying HIV infection (as is likely in this case); it is considered an AIDS-defining illness.\n\n(Choice A) Mycolic acid is the primary component of the cell wall of Mycobacterium tuberculosis. Although pulmonary infection is most common, M tuberculosis can spread to the brain and cause subacute meningitis or a focal parenchymal infection called a tuberculoma. Histopathology would show granulomas with giant cells and acid-fast bacteria.\n\n(Choice B) Prions, infectious proteins that lack nucleic acid, can cause Creutzfeldt-Jakob disease. Most cases are marked by rapidly progressive dementia and startle myoclonus. Histopathology typically reveals brain atrophy, spongiform vacuoles, and the accumulation of prions in neuronal tissue.\n\n(Choice C) Herpes simplex virus is a neurotrophic, double-stranded DNA virus that can spread through the olfactory tract to the olfactory cortex in the temporal lobe of the brain. Patients usually develop acute fever, headache, confusion, and focal neurologic issues. Histopathology typically reveals hemorrhagic inflammation with an infiltration of mononuclear cells.\n\n(Choice D) Toxoplasma gondii is a feline parasite that can cause encephalitis in patients with untreated AIDS. Manifestations include headache, confusion, fever, seizures, and focal neurologic deficits. However, histopathology would reveal T gondii cysts, not encapsulated yeasts.\n\nEducational objective: Cryptococcus neoformans is a round/oval yeast with a thick polysaccharide capsule. It is a common cause of meningoencephalitis (eg, headache, vomiting, confusion, seizure) in patients with untreated AIDS. The yeast can frequently be visualized in the cerebrospinal fluid by India ink or silver stain. {{exhibit_3}} {{exhibit_4}}",
+    "zh": "患者表现为头痛、呕吐、意识模糊、癫痫发作、视乳头水肿和颈项强直，随后出现进行性神经系统功能衰退和死亡，高度提示脑膜脑炎。尸检发现圆形/卵圆形酵母菌，周围环绕着厚厚的多糖荚膜{{exhibit_2}}，这是新型隐球菌的特征。新型隐球菌是一种酵母菌，通常会导致免疫功能低下个体的脑膜脑炎，尤其是患有晚期艾滋病的患者。这种酵母菌存在于受鸟粪污染的土壤中，通过吸入传播。健康个体通常可以清除感染，但免疫功能受损的个体容易感染。新型隐球菌可引起感染，并血行播散至大脑，导致隐球菌性脑膜炎。新型隐球菌在大脑中的复制会导致酵母菌抗原和荚膜蛋白堵塞蛛网膜绒毛，导致脑脊液流出受阻。这会升高颅内压，并引起上述症状：进行性头痛、恶心、呕吐、意识模糊、颈项强直和视乳头水肿。随后可能发生癫痫发作和脑疝。诊断通常通过检测脑脊液 (CSF) 中的隐球菌抗原或使用特殊染色（例如，墨汁染色、银胺染色）观察 CSF 中有包膜的芽生酵母菌来确诊。需要这些特殊染色，因为酵母菌周围环绕着清澈的脑脊液（不像在组织切片中）。发生隐球菌性脑膜炎的患者通常不知道潜在的 HIV 感染（在这种情况下很可能如此）；它被认为是艾滋病的定义性疾病。\n\n(选项A) 分枝菌酸是结核分枝杆菌细胞壁的主要成分。虽然肺部感染最常见，但结核分枝杆菌可以扩散到大脑并引起亚急性脑膜炎或称为结核瘤的局灶性实质感染。组织病理学检查会显示肉芽肿，其中有巨细胞和抗酸染色细菌。\n\n(选项B) 朊病毒，缺乏核酸的感染性蛋白质，可引起克雅病。大多数病例的特征是快速进展的痴呆和惊跳肌阵挛。组织病理学检查通常显示脑萎缩、海绵状空泡和神经元组织中朊病毒的积累。\n\n(选项C) 单纯疱疹病毒是一种嗜神经双链DNA病毒，可以通过嗅束扩散到大脑颞叶的嗅皮质。患者通常会出现急性发烧、头痛、意识模糊和局灶性神经系统问题。组织病理学检查通常显示出血性炎症伴有单核细胞浸润。\n\n(选项D) 弓形虫是一种猫科寄生虫，可引起未经治疗的艾滋病患者脑炎。表现包括头痛、意识模糊、发烧、癫痫发作和局灶性神经功能缺损。然而，组织病理学检查会显示弓形虫包囊，而不是有包膜的酵母菌。\n\n教育目标：新型隐球菌是一种圆形/卵圆形酵母菌，具有厚厚的多糖荚膜。它是未经治疗的艾滋病患者脑膜脑炎（如，头痛、呕吐、意识模糊、癫痫发作）的常见原因。通过墨汁染色或银染，可以在脑脊液中经常观察到酵母菌。{{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests the recognition of Cryptococcus neoformans as a cause of meningoencephalitis in an immunocompromised patient, based on clinical presentation and histopathological findings. It assesses knowledge of the characteristic morphology of the yeast and its association with AIDS.\n\nTo solve this question, one must correlate the patient's symptoms (headache, vomiting, confusion, seizure, papilledema, neck rigidity) with the autopsy findings (yeast with a thick capsule). This pattern strongly suggests a fungal infection, specifically Cryptococcus, in an immunocompromised host. The options provided require differentiating between various pathogens based on their cellular components and typical clinical presentations.",
+    "zh": "本题基于临床表现和组织病理学发现，考察对新型隐球菌作为免疫功能低下患者脑膜脑炎病因的认识。它评估了对酵母菌的特征性形态及其与艾滋病相关的知识。\n\n要解决这个问题，必须将患者的症状（头痛、呕吐、意识模糊、癫痫发作、视乳头水肿、颈项强直）与尸检结果（具有厚荚膜的酵母菌）相关联。这种模式强烈提示在免疫功能低下的宿主中存在真菌感染，特别是隐球菌感染。提供的选项需要根据各种病原体的细胞成分和典型的临床表现进行区分。"
+  },
+  "tags": "Meningoencephalitis; Cryptococcus neoformans; AIDS; Yeast; Fungal infection; Histopathology; Central nervous system infection; Opportunistic infection",
+  "category": "Neuro",
+  "question_id": "15580",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\15580",
+  "extracted_at": "2025-11-05T19:34:24.474576",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:34:32.864201",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

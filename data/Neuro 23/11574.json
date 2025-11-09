@@ -1,0 +1,77 @@
+{
+  "question_stem": {
+    "en": "The patient sustained a traumatic head injury. {{exhibit_1}} shows a noncontrast CT scan of the head. {{exhibit_2}} The patient is comatose with midpositioned and fixed pupils and rigid extension of the upper and lower extremities. {{exhibit_3}} Damage to which of the following structures is the most likely explanation for this patient's abnormal posturing? {{exhibit_4}}",
+    "zh": "患者遭受了头部外伤。{{exhibit_1}}显示头部非增强CT扫描。{{exhibit_2}} 患者处于昏迷状态，瞳孔居中且固定，四肢僵硬伸展。{{exhibit_3}} 下列哪种结构的损伤最可能是该患者姿势异常的解释？{{exhibit_4}}"
+  },
+  "question": {
+    "en": "Damage to which of the following structures is the most likely explanation for this patient's abnormal posturing?",
+    "zh": "下列哪种结构的损伤最可能是该患者姿势异常的解释？"
+  },
+  "options": {
+    "A": {
+      "en": "Cerebellar vermis",
+      "zh": "蚓部"
+    },
+    "B": {
+      "en": "Cerebral hemisphere",
+      "zh": "大脑半球"
+    },
+    "C": {
+      "en": "Cervical spinal cord",
+      "zh": "颈髓"
+    },
+    "D": {
+      "en": "Internal capsule",
+      "zh": "内囊"
+    },
+    "E": {
+      "en": "Pons",
+      "zh": "脑桥"
+    },
+    "F": {
+      "en": "Substantia nigra",
+      "zh": "黑质"
+    },
+    "G": {
+      "en": "Thalamus",
+      "zh": "丘脑"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Brain herniation also causes abnormal posturing from disruption of descending tracts (eg, rubrospinal, vestibulospinal) typically involved in reflexive and postural movements. The vestibulospinal tract maintains extensor tone and originates from vestibular nuclei at the pontomedullary junction. The rubrospinal tract regulates upper extremity flexor tone and originates from the red nuclei in the rostral midbrain; it is inhibited by descending cortical input from the cerebral cortex.\n\n*   Damage above the red nucleus (eg, cerebral hemisphere, internal capsule) typically results in decorticate (flexor) posturing due to loss of descending inhibition of the red nucleus and subsequent hyperactivity of upper limb flexors (Choices B and D).\n*   Damage below the red nucleus (eg, pons) or to the nucleus itself (eg, midbrain) often causes decerebrate (extensor) posturing due to loss of descending excitation to the upper limb flexors (via the rubrospinal tract) and extensor predominance (due to unopposed vestibulospinal tract output).\n\n(Choice A) Damage to the cerebellar vermis usually affects balance and coordination of the axial/proximal limb muscles, resulting in gait and truncal ataxia. Cerebellar vermis injury may also result in nystagmus and vertigo due to this structure's role in vestibular function.\n\n(Choice C) The cervical spinal cord is commonly damaged in the setting of closed-head injury, which may lead acutely to flaccid quadriplegia/spinal shock (ie, absence of flexor and extensor motor tone) due to loss of excitatory input from the descending motor pathways.\n\n(Choice F) Damage to the substantia nigra can result in excessive inhibition of the thalamus with subsequent decrease in excitation of the motor cortex. This leads to motor features of Parkinson disease (eg, rigidity, bradykinesia, tremor).\n\n(Choice G) The thalamus is a major relay station for motor and sensory information and also help regulate alertness and consciousness. Although bilateral damage to the thalamus may result in coma, flexor/extensor posturing is not characteristic of thalamic injury.",
+    "zh": "脑疝也导致异常姿势，这是由于下行束（例如，红核脊髓束、前庭脊髓束）的破坏，这些下行束通常参与反射性和姿势性运动。前庭脊髓束维持伸肌张力，起源于脑桥延髓交界处的前庭核。红核脊髓束调节上肢屈肌张力，起源于中脑头端的红核；它受到来自大脑皮层的下行皮质输入的抑制。\n\n*   红核以上（例如，大脑半球、内囊）的损伤通常导致去皮质（屈曲）姿势，这是由于红核下行抑制的丧失以及随后上肢屈肌的过度活动（选项 B 和 D）。\n*   红核以下（例如，脑桥）或核本身（例如，中脑）的损伤通常导致去大脑（伸展）姿势，这是由于对上肢屈肌的下行兴奋的丧失（通过红核脊髓束）和伸肌占优势（由于不受对抗的前庭脊髓束输出）。\n\n（选项 A）蚓部的损伤通常影响躯干/近端肢体肌肉的平衡和协调，导致步态和躯干性共济失调。蚓部损伤也可能导致眼球震颤和眩晕，这与该结构在vestibular 功能中的作用有关。\n\n（选项 C）颈髓通常在闭合性头部损伤中受损，这可能导致急性弛缓性四肢瘫/脊髓休克（即，缺乏屈肌和伸肌张力），这是由于下行运动通路的兴奋性输入丧失。\n\n（选项 F）黑质的损伤会导致丘脑过度抑制，进而减少对运动皮层的兴奋。这会导致帕金森病的运动特征（例如，僵硬、运动迟缓、震颤）。\n\n（选项 G）丘脑是运动和感觉信息的主要中继站，也有助于调节警觉性和意识。虽然丘脑双侧损伤可能导致昏迷，但屈曲/伸展姿势并非丘脑损伤的特征。"
+  },
+  "summary": {
+    "en": "Brain herniation causes abnormal posturing due to disruption of descending motor tracts (eg, rubrospinal, vestibulospinal). Damage above the level of the red nucleus (eg, cerebral hemispheres, internal capsule) typically results in decorticate (flexor) posturing. Damage at or below the red nucleus (eg, midbrain to pons) typically results in decerebrate (extensor) posturing.",
+    "zh": "脑疝会导致姿势异常，这是由于下行运动束（例如，红核脊髓束、前庭脊髓束）的破坏。红核水平以上的损伤（例如，大脑半球、内囊）通常导致去皮质（屈曲）姿势。红核水平或以下的损伤（例如，中脑到脑桥）通常导致去大脑（伸展）姿势。"
+  },
+  "tags": [
+    "neurology",
+    "brain herniation",
+    "posturing",
+    "CT scan",
+    "traumatic brain injury"
+  ],
+  "category": "Neuro",
+  "question_id": "11574",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\11574",
+  "extracted_at": "2025-11-05T15:09:19.452073",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:16:59.925466",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

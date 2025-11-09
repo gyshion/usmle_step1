@@ -1,0 +1,74 @@
+{
+  "question_stem": {
+    "en": "A 72-year-old woman is brought to the emergency department due to severe shortness of breath, tachypnea, and pleuritic-type chest pain. She had a similar episode 3 weeks ago and has been treated with warfarin since then. The patient has several other medical conditions and is taking all her medications as recommended. On examination, her temperature is 36.7 C (98 F), blood pressure is 120/60 mm Hg, pulse is 118/min, and respirations are 28/min. Pulse oximetry is 93% on room air. Laboratory results are notable for the following:\n\nCoagulation studies\n\nProthrombin time (PT) 18 sec\n\nInternational Normalized Ratio (INR) 1.6\n\nThe patient's INR is subtherapeutic compared to her target INR range of 2.0-3.0 with warfarin.",
+    "zh": "一名72岁的女性因严重呼吸困难、呼吸急促和胸膜性胸痛被送往急诊科。她3周前曾发生过类似的情况，此后一直使用华法林治疗。患者还有其他几种疾病，并且按照医嘱服用所有药物。检查显示，她的体温为36.7摄氏度（98华氏度），血压为120/60毫米汞柱，脉搏为118次/分钟，呼吸为28次/分钟。在室内空气中，脉搏血氧饱和度为93%。实验室结果值得注意，如下所示：\n\n凝血研究\n\n凝血酶原时间 (PT) 18秒\n\n国际标准化比值 (INR) 1.6\n\n与华法林的靶INR范围2.0-3.0相比，患者的INR处于亚治疗水平。"
+  },
+  "question": {
+    "en": "This patient is most likely taking which of the following additional medications?",
+    "zh": "该患者最有可能服用以下哪种附加药物？"
+  },
+  "options": {
+    "A": {
+      "en": "Acetaminophen",
+      "zh": "对乙酰氨基酚"
+    },
+    "B": {
+      "en": "Amiodarone",
+      "zh": "胺碘酮"
+    },
+    "C": {
+      "en": "Aspirin",
+      "zh": "阿司匹林"
+    },
+    "D": {
+      "en": "Cimetidine",
+      "zh": "西咪替丁"
+    },
+    "E": {
+      "en": "Diazepam",
+      "zh": "地西泮"
+    },
+    "F": {
+      "en": "Indomethacin",
+      "zh": "吲哚美辛"
+    },
+    "G": {
+      "en": "Metronidazole",
+      "zh": "甲硝唑"
+    },
+    "H": {
+      "en": "Oxycodone",
+      "zh": "羟考酮"
+    },
+    "I": {
+      "en": "Phenytoin",
+      "zh": "苯妥英"
+    }
+  },
+  "correct_answer": "I",
+  "explanation": {
+    "en": "This patient with pleuritic chest pain, dyspnea, tachypnea, tachycardia, and hypoxia most likely experienced a recurrent PULMONARY EMBOLISM (PE) in the setting of a subtherapeutic INR level, reflecting decreased warfarin efficacy. Warfarin is an oral anticoagulant that inhibits activation of vitamin K–dependent clotting factors, particularly factor VII. As a result, warfarin administration leads to prolongation of the prothrombin time (PT) and INR (ratio of a patient’s PT compared to a normal control). In patients with atrial fibrillation, deep venous thrombosis, or PE who are taking warfarin for anticoagulation, the dose is usually adjusted to achieve a target therapeutic INR range (generally 2.0-3.0).\n\nPrecise dosing of warfarin can be difficult due to its many interactions with other drugs that affect cytochrome P-450 activity, plasma protein binding, and/or gastrointestinal absorption. Warfarin elimination occurs primarily through hepatic metabolism by cytochrome P-450 enzymes. Drugs that increase P-450 activity, such as phenytoin, phenobarbital, and rifampin, increase warfarin elimination and decrease its anticoagulant activity (reflected as a subtherapeutic INR <2.0). Cholestyramine binds warfarin (and other drugs) in the intestine, thereby decreasing warfarin’s therapeutic effect.\n\n(Choices A, C, and F) When used concurrently with warfarin, aspirin and other nonsteroidal anti-inflammatory drugs such as indomethacin increase the risk of bleeding due to antiplatelet effects and gastrointestinal ulceration. These drugs can also displace warfarin from plasma protein binding sites (increasing the concentration of free warfarin). Acetaminophen can interfere with vitamin K metabolism and enhance the effect of warfarin.\n\n(Choices B, D, and G) Both cimetidine and amiodarone inhibit the metabolism of warfarin, which can result in an increased PT/INR and bleeding risk. The interaction between amiodarone and warfarin is important because some patients with atrial fibrillation may be prescribed both medications. The commonly used antibiotics metronidazole and trimethoprim-sulfamethoxazole also inhibit warfarin metabolism.\n\n(Choices E and H) Benzodiazepines and opiates usually do not interact significantly with warfarin.\n\nEducational objective:\nRifampin, phenobarbital, and phenytoin are potent enhancers of the cytochrome P-450 pathway; concurrent use of warfarin with these medications results in decreased efficacy of warfarin. In contrast, cimetidine, amiodarone, and trimethoprim-sulfamethoxazole inhibit warfarin metabolism, increasing the risk of bleeding.",
+    "zh": "该患者出现胸膜性胸痛、呼吸困难、呼吸急促、心动过速和低氧血症，最有可能是在亚治疗INR水平的情况下经历了复发性肺栓塞 (PE)，这反映了华法林的疗效降低。华法林是一种口服抗凝剂，可抑制维生素K依赖性凝血因子的激活，特别是因子VII。因此，华法林的给药会导致凝血酶原时间 (PT) 和 INR（患者PT与正常对照的比例）延长。对于服用华法林进行抗凝治疗的房颤、深静脉血栓形成或PE患者，通常调整剂量以达到靶治疗INR范围（通常为2.0-3.0）。\n\n由于华法林与其他影响细胞色素P-450活性、血浆蛋白结合和/或胃肠道吸收的药物有多种相互作用，因此精确给药华法林可能很困难。华法林的清除主要通过肝脏细胞色素P-450酶的代谢进行。增加P-450活性的药物，如苯妥英、苯巴比妥和利福平，会增加华法林的清除并降低其抗凝活性（反映为亚治疗INR <2.0）。考来烯胺在肠道内与华法林（和其他药物）结合，从而降低华法林的治疗效果。\n\n（选项A、C和F）当与华法林同时使用时，阿司匹林和其他非甾体抗炎药（如吲哚美辛）会因抗血小板作用和胃肠道溃疡而增加出血风险。这些药物也可以将华法林从血浆蛋白结合位点移位（增加游离华法林的浓度）。对乙酰氨基酚会干扰维生素K代谢并增强华法林的作用。\n\n（选项B、D和G）西咪替丁和胺碘酮均抑制华法林的代谢，这可能导致PT/INR升高和出血风险。胺碘酮和华法林之间的相互作用很重要，因为一些房颤患者可能会被同时开具这两种药物。常用的抗生素甲硝唑和复方磺胺甲恶唑也抑制华法林代谢。\n\n（选项E和H）苯二氮卓类药物和阿片类药物通常不会与华法林发生明显相互作用。\n\n教学目标：\n利福平、苯巴比妥和苯妥英是细胞色素P-450通路的强效增强剂；同时使用华法林和这些药物会导致华法林的疗效降低。相反，西咪替丁、胺碘酮和复方磺胺甲恶唑抑制华法林代谢，增加出血风险。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of drug interactions with warfarin, specifically focusing on medications that can induce the cytochrome P-450 enzyme system and decrease warfarin's efficacy, leading to a subtherapeutic INR. It also assesses understanding of medications that can increase the risk of bleeding when taken with warfarin.\n\nTo solve this question, identify the medications that are known CYP450 inducers, as these will decrease the effectiveness of warfarin. Recognize that a subtherapeutic INR in a patient on warfarin suggests a potential drug interaction that is decreasing the anticoagulant effect of warfarin.",
+    "zh": "本题考察华法林与药物的相互作用知识，特别关注可诱导细胞色素P-450酶系统并降低华法林疗效的药物，从而导致亚治疗INR。它还评估了对与华法林同时服用时会增加出血风险的药物的理解。\n\n要解决此问题，请确定已知是CYP450诱导剂的药物，因为这些药物会降低华法林的有效性。认识到服用华法林的患者的亚治疗INR表明可能存在药物相互作用，从而降低了华法林的抗凝作用。"
+  },
+  "tags": "Warfarin; Drug interactions; Cytochrome P-450; INR; Anticoagulation; Phenytoin; Pulmonary embolism; Pharmacology",
+  "category": "Blood",
+  "question_id": "1090",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1090",
+  "extracted_at": "2025-11-05T11:19:07.317918",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:25:41.430658",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

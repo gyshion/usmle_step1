@@ -1,0 +1,69 @@
+{
+  "question_stem": {
+    "en": "A 38-year-old woman is brought to the emergency department after a motor vehicle collision. She sustained no injuries in the collision but is adamant she did not see the car that hit her along the front side of her vehicle. The patient also reports that she has been having daily headaches and has not menstruated in the last 4 months. On physical examination, there is bitemporal hemianopia but no other abnormalities. MRI of the brain is shown below. {{exhibit_1}}",
+    "zh": "一名38岁的女性在车祸后被送往急诊科。她在碰撞中没有受伤，但坚称她没有看到撞击她车辆前侧的汽车。患者还报告说，她每天都头痛，并且在过去4个月里没有月经。体格检查显示双颞侧偏盲，但没有其他异常。以下显示脑部MRI。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "This patient's lesion most likely originates from which of the following embryologic layers?",
+    "zh": "该患者的病变最有可能起源于以下哪一层胚胎层？"
+  },
+  "options": {
+    "A": {
+      "en": "Endoderm",
+      "zh": "内胚层"
+    },
+    "B": {
+      "en": "Mesoderm",
+      "zh": "中胚层"
+    },
+    "C": {
+      "en": "Neural crest",
+      "zh": "神经嵴"
+    },
+    "D": {
+      "en": "Neural tube",
+      "zh": "神经管"
+    },
+    "E": {
+      "en": "Notochord",
+      "zh": "脊索"
+    },
+    "F": {
+      "en": "Surface ectoderm",
+      "zh": "表面外胚层"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "This patient has symptoms suggestive of a pituitary adenoma, including bitemporal hemianopia (due to compression of the optic chiasm), headaches, and amenorrhea (likely due to hormonal dysfunction). The MRI {{exhibit_2}} would show a sellar mass. Pituitary adenomas arise from the ANTERIOR PITUITARY, which develops from the RATHKE POUCH. The Rathke pouch is an invagination of the primitive oral ectoderm, which is a derivative of the SURFACE ECTODERM. Therefore, the lesion most likely originates from the surface ectoderm.\n\n(A) Endoderm gives rise to the gastrointestinal tract, liver, pancreas, lungs, and thyroid follicular cells, among other structures. It is not involved in the formation of the pituitary gland.\n(B) Mesoderm gives rise to muscles, bone, connective tissue, cardiovascular system, and urogenital system. It is not involved in the formation of the pituitary gland.\n(C) Neural crest cells contribute to the peripheral nervous system, melanocytes, and craniofacial bones. While some parts of the pituitary stalk are derived from neuroectoderm, the anterior pituitary is not.\n(D) The neural tube gives rise to the central nervous system (brain and spinal cord) and the posterior pituitary. The anterior pituitary is not derived from the neural tube.\n(E) The notochord forms the nucleus pulposus of the intervertebral discs and plays a role in axial skeleton development. It is not involved in pituitary formation.\n\nKey clinical pearls: Bitemporal hemianopia is a classic sign of optic chiasm compression, often caused by sellar masses like pituitary adenomas. The anterior pituitary arises from Rathke pouch (surface ectoderm), while the posterior pituitary arises from the neural tube. {{exhibit_3}}",
+    "zh": "该患者的症状提示垂体腺瘤，包括双颞侧偏盲（由于视交叉受压）、头痛和闭经（可能由于激素功能障碍）。MRI {{exhibit_2}} 将显示鞍内肿块。垂体腺瘤源自前叶，其由Rathke囊发育而来。Rathke囊是原始口外胚层的内陷，口外胚层是表面外胚层的衍生物。因此，该病变最有可能起源于表面外胚层。\n\n(A) 内胚层形成胃肠道、肝脏、胰腺、肺和甲状腺滤泡细胞等结构。它不参与垂体腺的形成。\n(B) 中胚层形成肌肉、骨骼、结缔组织、心血管系统和泌尿生殖系统。它不参与垂体腺的形成。\n(C) 神经嵴细胞参与周围神经系统、黑色素细胞和颅面骨的形成。虽然垂体柄的某些部分源自神经外胚层，但前叶并非如此。\n(D) 神经管形成中枢神经系统（大脑和脊髓）和垂体后叶。前叶并非源自神经管。\n(E) 脊索形成椎间盘的髓核，并在轴向骨骼发育中起作用。它不参与垂体的形成。\n\n关键临床要点：双颞侧偏盲是视交叉受压的经典征象，通常由鞍内肿块（如垂体腺瘤）引起。前叶源自Rathke囊（表面外胚层），而垂体后叶源自神经管。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the embryologic origin of the anterior pituitary gland and its derivatives, specifically in the context of a pituitary adenoma presenting with visual disturbances and hormonal dysfunction.\n\nTo solve this question, one must first recognize the clinical presentation suggestive of a pituitary adenoma. Then, recall or deduce the embryologic origin of the anterior pituitary gland, which is derived from the surface ectoderm via the Rathke pouch.",
+    "zh": "此问题考察了对垂体前叶及其衍生物的胚胎学起源的理解，特别是针对表现为视觉障碍和激素功能障碍的垂体腺瘤。\n\n要解决这个问题，首先必须识别出提示垂体腺瘤的临床表现。然后，回忆或推断出垂体前叶的胚胎学起源，它通过Rathke囊来源于表面外胚层。"
+  },
+  "tags": "Pituitary adenoma; Embryology; Surface ectoderm; Rathke pouch; Bitemporal hemianopia; Sellar mass; Endocrinology; Neurology",
+  "category": "Neuro",
+  "question_id": "8702",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\8702",
+  "extracted_at": "2025-11-05T19:30:13.369457",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:29:18.054864",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 50-year-old man is brought to the ER with severe dizziness and confusion. He states that he had an episode of chest pain and took several tablets of nitroglycerin. His current medications include a daily aspirin for heart attack prevention, an occasional acetaminophen for headaches and occasionally tadalafil for erectile dysfunction. His blood pressure is 50/20 mmHg and his heart rate is 120 beats/min.",
+    "zh": "一名50岁男性被送往急诊室，伴有严重头晕和意识模糊。他表示自己曾发生过胸痛，并服用了几片硝酸甘油。他目前正在服用的药物包括用于预防心脏病发作的每日阿司匹林、偶尔用于治疗头痛的对乙酰氨基酚，以及偶尔用于治疗勃起功能障碍的他达拉非。他的血压为50/20 mmHg，心率为120次/分钟。"
+  },
+  "question": {
+    "en": "Which of the following cellular changes is most likely responsible for this patient's symptoms?",
+    "zh": "以下哪种细胞变化最有可能导致该患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Receptor downregulation",
+      "zh": "受体下调"
+    },
+    "B": {
+      "en": "Gₓ protein phosphorylation",
+      "zh": "Gₓ 蛋白磷酸化"
+    },
+    "C": {
+      "en": "Cyclic GMP accumulation",
+      "zh": "环磷酸鸟苷 (cGMP) 蓄积"
+    },
+    "D": {
+      "en": "Tyrosine kinase overactivity",
+      "zh": "酪氨酸激酶活性过高"
+    },
+    "E": {
+      "en": "Enhanced phospholipid metabolism",
+      "zh": "磷脂代谢增强"
+    },
+    "F": {
+      "en": "Tolerance development",
+      "zh": "耐受性产生"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The interaction between nitrates and phosphodiesterase inhibitors used in erectile dysfunction (tadalafil, sildenafil, vardenafil) is well known and very important to understand. Nitrates are converted to nitric oxide by vascular smooth muscle cells, and nitric oxide causes increased intracellular cGMP as a second-messenger. Increased cGMP concentration leads to vascular smooth muscle relaxation. Additionally, cGMP is metabolized within the cells by phosphodiesterase, and phosphodiesterase inhibitors will lead to increased intracellular cGMP. cGMP accumulation in vascular smooth muscle cells due to both enhanced synthesis (nitrates) and inhibited degradation (PDE inhibitors) is responsible for profound hypotension due to extreme vasodilation when these drugs are used together.\n(Choice A) Receptor downregulation or tachyphylaxis occurs with many drug classes including topical glucocorticoids, opiates, L-dopa and more. It is one mechanism by which the body develops tolerance to drugs on a cellular level, but it is not the cause of hypotension in this patient who took nitrates together with a PDE inhibitor.\n(Choice B) Gₓ protein phosphorylation leads to activation of the Gₓ protein, a stimulatory protein which acts as a part of the adenylate cyclase second messenger system. It has no role in cGMP pathways that are affected by nitrates and PDE inhibitors.\n(Choice D) Tyrosine kinase overactivity would lead to an exaggeration of the effects of insulin or insulin-like growth factor. Tyrosine kinase has no role in the effect of nitrates or PDE inhibitors on vascular smooth muscle.\n(Choice E) Enhanced phospholipid metabolism would lead to an increase in the production of prostaglandins (via diacylglycerol) and inositol triphosphate (leading to calcium release from the endoplasmic reticulum). This is the inositol triphosphate second-messenger system, and it mediates the effects of alpha-1 adrenergic receptors, angiotensin II receptors, oxytocin receptors and vascular vasopressin receptors. It is not involved in the action of nitrates or PDE inhibitors.\n(Choice F) Tolerance refers to the need for a larger dose of drug to achieve the same clinical effect achieved previously with a smaller dose of drug. Development of tolerance can occur by multiple mechanisms such as a change in cellular response to drug (decreased receptors, decreased response to receptor stimulation), as well as increased rate of drug elimination by the body. Tolerance is not the reason for this patient to experience hypotension with this drug combination.",
+    "zh": "硝酸盐和用于治疗勃起功能障碍的磷酸二酯酶抑制剂（他达拉非、西地那非、伐地那非）之间的相互作用是众所周知的，并且非常重要。硝酸盐通过血管平滑肌细胞转化为一氧化氮，一氧化氮导致细胞内环磷酸鸟苷（cGMP）作为第二信使增加。cGMP浓度升高导致血管平滑肌松弛。此外，cGMP在细胞内被磷酸二酯酶代谢，而磷酸二酯酶抑制剂将导致细胞内cGMP增加。由于增强的合成（硝酸盐）和抑制的降解（PDE抑制剂），血管平滑肌细胞中cGMP的蓄积是由于使用这些药物时极度血管扩张导致严重低血压的原因。\n(选项A) 受体下调或快速耐受性发生在许多药物类别中，包括局部糖皮质激素、阿片类药物、左旋多巴等。这是身体在细胞水平上对药物产生耐受性的一个机制，但它不是该患者同时服用硝酸盐和PDE抑制剂出现低血压的原因。\n(选项B) Gₓ蛋白磷酸化导致Gₓ蛋白的激活，Gₓ蛋白是一种兴奋性蛋白，作为腺苷酸环化酶第二信使系统的一部分。它在硝酸盐和PDE抑制剂影响的cGMP通路中没有作用。\n(选项D) 酪氨酸激酶活性过高会导致胰岛素或胰岛素样生长因子的作用夸大。酪氨酸激酶在硝酸盐或PDE抑制剂对血管平滑肌的作用中没有作用。\n(选项E) 磷脂代谢增强会导致前列腺素（通过二酰甘油）和肌醇三磷酸（导致内质网释放钙）的产生增加。这是肌醇三磷酸第二信使系统，它介导α-1肾上腺素能受体、血管紧张素II受体、催产素受体和血管加压素受体的作用。它不参与硝酸盐或PDE抑制剂的作用。\n(选项F) 耐受性是指需要更大剂量的药物才能达到先前使用较小剂量药物所达到的相同临床效果。耐受性的发展可以通过多种机制发生，例如细胞对药物的反应发生变化（受体减少、对受体刺激的反应减少），以及身体对药物的清除率增加。耐受性不是该患者使用这种药物组合出现低血压的原因。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pharmacodynamic interaction between nitrates and phosphodiesterase-5 (PDE5) inhibitors, specifically the mechanism leading to severe hypotension when used concurrently. It assesses knowledge of second messenger systems and drug tolerance.\nTo solve this question, one must recognize that the patient is experiencing symptoms of severe hypotension due to the combined use of nitroglycerin (a nitrate) and tadalafil (a PDE5 inhibitor). The key is to understand that nitrates increase cGMP levels, and PDE5 inhibitors prevent its breakdown, leading to excessive cGMP accumulation and vasodilation.",
+    "zh": "本题考察了对硝酸盐和磷酸二酯酶-5 (PDE5) 抑制剂之间药效学相互作用的理解，特别是当同时使用时导致严重低血压的机制。它评估了对第二信使系统和药物耐受性的了解。\n要解决这个问题，必须认识到患者由于联合使用硝酸甘油（一种硝酸盐）和他达拉非（一种 PDE5 抑制剂）而出现严重低血压的症状。关键是要理解硝酸盐会增加 cGMP 水平，而 PDE5 抑制剂会阻止其分解，从而导致 cGMP 过度积累和血管扩张。"
+  },
+  "tags": "Nitrates; Phosphodiesterase inhibitors; Tadalafil; Nitroglycerin; Hypotension; Vasodilation; Cyclic GMP; Second messenger system; Pharmacology; Cardiovascular system",
+  "category": "CVS",
+  "question_id": "143",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\143",
+  "extracted_at": "2025-11-05T19:18:58.207244",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:45:24.474988",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

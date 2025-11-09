@@ -1,0 +1,57 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man comes to the office for evaluation of opioid use disorder. He was prescribed oxycodone for a sports-related injury in his mid-20s, developed dependency, and began using intravenous heroin in its place. In the past few weeks, the patient has had multiple overdoses requiring naloxone administration. He recently tried quitting heroin on his own but experienced recurrent relapses. He has now been abstinent for 2 days but reports significant cravings. After a discussion of various treatment options, the patient is prescribed buprenorphine. The dose-response curve of this medication is shown in the image below: {{exhibit_1}}",
+    "zh": "一位34岁男性来诊所就诊，评估阿片类药物使用障碍。他在20多岁时因运动相关的损伤被处方羟考酮，之后产生了依赖性，并开始使用静脉注射海洛因来替代。在过去几周内，患者多次发生过量，需要使用纳洛酮。他最近曾尝试自己戒断海洛因，但经历了反复的复发。他现在已经戒断2天，但报告有强烈的渴求感。在讨论了各种治疗方案后，患者被处方丁丙诺啡。该药物的剂量反应曲线如下图所示：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following clinical pharmacologic effects of buprenorphine is most likely?",
+    "zh": "以下哪项是丁丙诺啡最可能的临床药理作用？"
+  },
+  "options": {
+    "A": {
+      "en": "Buprenorphine can fully reverse the effect of heroin overdose",
+      "zh": "丁丙诺啡可以完全逆转海洛因过量的影响"
+    },
+    "B": {
+      "en": "Buprenorphine can precipitate or treat opioid withdrawal from heroin",
+      "zh": "丁丙诺啡可以诱发或治疗海洛因引起的阿片类药物戒断症状"
+    },
+    "C": {
+      "en": "Buprenorphine carries a higher risk of hypoventilation compared to heroin",
+      "zh": "与海洛因相比，丁丙诺啡具有更高的通气不足风险"
+    },
+    "D": {
+      "en": "Buprenorphine overdose is more easily reversed with naloxone compared to heroin",
+      "zh": "与海洛因相比，丁丙诺啡过量更容易用纳洛酮逆转"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Buprenorphine is a semisythetic opioid used to replace and treat dependency on unregulated opioids (eg, heroin) due to its favorable pharmacokinetics. As a partial agonist at the mu opioid receptor (ie, mixed agonist and antagonist activity), buprenorphine has a ceiling effect. At higher doses, the agonist activity is equally opposed by the antagonist activity, leading to a plateau (ceiling) in the dose-response curve. This ceiling effect caps its analgesic potency but reduces unwanted adverse effects such as respiratory depression. Therefore, high doses of buprenorphine carry a lower risk of respiratory depression compared to full agonists such as heroin (Choice C). {{exhibit_2}}\n\nA key drawback of partial agonists (eg, buprenorphine) is the potential to displace full agonists from the receptor: partial agonists act as relative antagonists in the presence of full agonists. Therefore, buprenorphine can precipitate acute withdrawal if administered when receptors are still occupied by full agonists (eg, heroin). For this reason, patients must discontinue opioids and partially enter the withdrawal state (eg, wait 48 hours) prior to the initiation of buprenorphine.\n\n(Choice A) Complete reversal of a full agonist (eg, heroin) requires a full antagonist (eg, naloxone). Because buprenorphine is a partial agonist-antagonist, the degree of reversal is limited by the ceiling effect.\n\n(Choice D) The ability of antagonists to displace bound drugs is determined by the affinity of the drug-receptor interaction. Drugs that bind tightly have a steep binding curve; in other words, a lower concentration of drug is required to achieve the same effect. Naloxone has a higher affinity to the mu receptor than heroin, which is apparent from its steeper binding curve. Overdose with buprenorphine often requires repeated, high doses of naloxone due to this higher affinity.",
+    "zh": "丁丙诺啡是一种半合成阿片类药物，由于其良好的药代动力学特性，可用于替代和治疗对非管制阿片类药物（如海洛因）的依赖。作为μ阿片受体的部分激动剂（即混合的激动剂和拮抗剂活性），丁丙诺啡具有天花板效应。在高剂量下，激动剂活性与拮抗剂活性相等，导致剂量反应曲线出现平台期（天花板）。这种天花板效应限制了其镇痛效力，但减少了不良反应，如呼吸抑制。因此，与海洛因等完全激动剂相比，高剂量的丁丙诺啡发生呼吸抑制的风险较低（选项C）。{{exhibit_2}}\n\n部分激动剂（如丁丙诺啡）的一个主要缺点是可能从受体上置换完全激动剂：部分激动剂在完全激动剂存在下充当相对拮抗剂。因此，如果在受体仍被完全激动剂（如海洛因）占据时给予丁丙诺啡，则可能诱发急性戒断。由于这个原因，患者必须停止使用阿片类药物并部分进入戒断状态（例如，等待48小时）才能开始使用丁丙诺啡。\n\n（选项A）完全逆转完全激动剂（如海洛因）需要完全拮抗剂（如纳洛酮）。由于丁丙诺啡是部分激动剂-拮抗剂，逆转程度受到天花板效应的限制。\n\n（选项D）拮抗剂置换结合药物的能力取决于药物-受体相互作用的亲和力。结合紧密的药物具有陡峭的结合曲线；换句话说，实现相同效果所需的药物浓度较低。纳洛酮对μ受体的亲和力高于海洛因，这从其更陡峭的结合曲线中可见。由于这种较高的亲和力，丁丙诺啡过量通常需要重复、高剂量的纳洛酮。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pharmacologic properties of buprenorphine, specifically its classification as a partial opioid agonist and its implications for treatment of opioid use disorder, including precipitated withdrawal and respiratory depression.\n\nTo solve this question, one must interpret the provided dose-response curve, recognizing the ceiling effect of buprenorphine compared to heroin, and apply this knowledge to clinical scenarios such as overdose reversal and withdrawal management.",
+    "zh": "此问题考察对丁丙诺啡药理特性的理解，特别是其作为部分阿片受体激动剂的分类及其对阿片类药物使用障碍治疗（包括诱发性戒断和呼吸抑制）的影响。\n\n要解决这个问题，必须解释所提供的剂量反应曲线，认识到丁丙诺啡与海洛因相比的天花板效应，并将此知识应用于临床场景，如过量逆转和戒断管理。"
+  },
+  "tags": "Opioid use disorder; Buprenorphine; Partial agonist; Ceiling effect; Precipitated withdrawal; Naloxone; Respiratory depression; Pharmacokinetics; Mu opioid receptor",
+  "category": "Psychiatry",
+  "question_id": "13994",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\13994",
+  "extracted_at": "2025-11-05T19:48:57.002427",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:52:29.243860",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

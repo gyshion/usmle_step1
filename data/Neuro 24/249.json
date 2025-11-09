@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "An 11-year-old boy is brought to the emergency department by ambulance after he briefly lost consciousness. The patient's mother found him on the kitchen floor shaking and jerking. She believes that he was out of her sight for only a few minutes. When asked about any other abnormal behaviors, she says that her son often stares into space and does not respond to questions during these episodes. The patient has no known medical conditions or history of recent illnesses. He is afebrile with normal vital signs. The patient seems sleepy but is oriented to time and place and has no abnormalities on physical examination. Several hours later, he is alert and says that he wants to go home.",
+    "zh": "一名11岁男孩因短暂意识丧失被救护车送往急诊科。患者的母亲发现他在厨房地板上抽搐和抽动。她认为他离开她的视线只有几分钟。当被问及是否有其他异常行为时，她说她的儿子经常凝视着虚空，在这些发作期间对问题没有反应。患者没有已知的病史或近期疾病史。他没有发烧，生命体征正常。患者似乎嗜睡，但能辨别时间和地点，体格检查无异常。几个小时后，他清醒过来，说他想回家。"
+  },
+  "question": {
+    "en": "Which of the following agents is the best long-term treatment for this patient?",
+    "zh": "以下哪种药物是该患者的最佳长期治疗方案？"
+  },
+  "options": {
+    "A": {
+      "en": "Carbamazepine",
+      "zh": "卡马西平"
+    },
+    "B": {
+      "en": "Ethosuximide",
+      "zh": "乙琥胺"
+    },
+    "C": {
+      "en": "Gabapentin",
+      "zh": "加巴喷丁"
+    },
+    "D": {
+      "en": "Phenytoin",
+      "zh": "苯妥英"
+    },
+    "E": {
+      "en": "Valproic acid",
+      "zh": "丙戊酸"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient presents with a history suggestive of both absence seizures (staring spells) and a tonic-clonic seizure (shaking and jerking, loss of consciousness). The table {{exhibit_1}} shows that absence seizures are treated with ethosuximide (a narrow-spectrum antiepileptic), while tonic-clonic seizures are treated with broad-spectrum antiepileptics such as valproic acid. The explanation {{exhibit_2}} states that this patient with frequent staring spells (absence seizures) and an unprovoked tonic-clonic seizure most likely has undiagnosed juvenile absence epilepsy. Absence seizures are characterized by momentary lapses in consciousness associated with a classic 3-Hz spike-wave pattern on electroencephalogram. Younger children with absence seizures typically do not develop other seizure types; however, later onset (age 10-12) of absence epilepsy is associated with an increased incidence of generalized onset tonic-clonic or myoclonic seizures. Although a first-time unprovoked seizure may not require treatment, this patient has had multiple seizures, including both absence and tonic-clonic seizures. Ethosuximide is the preferred first-line agent for the treatment of isolated absence seizures; however, it does not suppress tonic-clonic seizures. Treatment with a broad-spectrum antiepileptic such as valproic acid is required in these patients because it is effective for both absence and tonic-clonic seizures. (Choices A, C, and D). Carbamazepine, phenytoin, and gabapentin are narrow-spectrum antiepileptics that can be used to treat focal onset seizures (including focal onset seizures that progress to bilateral tonic-clonic seizures). However, they are not effective for treating generalized onset seizures (eg, absence, myoclonic) which can actually be worsened by carbamazepine or phenytoin. Educational objective: Older children with absence seizures may also develop generalized onset tonic-clonic or myoclonic seizures. Although ethosuximide is effective against isolated absence seizures, it is not effective for tonic-clonic seizures. Valproic acid is a broad-spectrum antiepileptic that treats both types of seizures.",
+    "zh": "该患者的病史提示存在失神发作（凝视发作）和强直-阵挛性发作（抽搐和抽动，意识丧失）。表格{{exhibit_1}}显示，失神发作使用乙琥胺（一种窄谱抗癫痫药）治疗，而强直-阵挛性发作使用丙戊酸等广谱抗癫痫药治疗。解释{{exhibit_2}}指出，这名经常凝视发作（失神发作）且有未诱发的强直-阵挛性发作的患者很可能患有未确诊的青少年失神癫痫。失神发作的特征是意识短暂丧失，伴有脑电图上典型的3 Hz棘慢波模式。患有失神发作的年幼儿童通常不会发展成其他类型的癫痫发作；然而，起病较晚（10-12岁）的失神癫痫与全身性强直-阵挛性或肌阵挛性发作的发生率增加有关。尽管首次未诱发癫痫发作可能不需要治疗，但该患者已出现多次癫痫发作，包括失神发作和强直-阵挛性发作。乙琥胺是治疗孤立性失神发作的首选一线药物；然而，它不能抑制强直-阵挛性发作。这些患者需要使用丙戊酸等广谱抗癫痫药治疗，因为它对失神发作和强直-阵挛性发作均有效。（选项 A、C 和 D）。卡马西平、苯妥英和加巴喷丁是窄谱抗癫痫药，可用于治疗局灶起病性发作（包括进展为双侧强直-阵挛性发作的局灶起病性发作）。然而，它们对治疗全身性起病性发作（例如，失神、肌阵挛）无效，实际上可能会因卡马西平或苯妥英而恶化。教育目标：患有失神发作的年龄较大的儿童也可能发生全身性强直-阵挛性或肌阵挛性发作。尽管乙琥胺对孤立性失神发作有效，但对强直-阵挛性发作无效。丙戊酸是一种广谱抗癫痫药，可治疗这两种类型的癫痫发作。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of seizure types and the appropriate selection of antiepileptic medications based on seizure classification. It specifically assesses the knowledge of broad-spectrum versus narrow-spectrum antiepileptics and their efficacy in treating generalized versus focal onset seizures, particularly in the context of absence and tonic-clonic seizures.\n\nTo solve this question, one must first identify the seizure types described in the clinical vignette. Then, by referencing a table or knowledge base of antiepileptic drug spectrums, determine which medication is effective for all identified seizure types. The patient's presentation of both absence and tonic-clonic seizures necessitates a broad-spectrum antiepileptic agent.",
+    "zh": "本题考察对癫痫发作类型的理解，以及根据癫痫发作分类选择合适的抗癫痫药物。它特别评估了对广谱与窄谱抗癫痫药的了解，以及它们在治疗全身性与局灶起病性发作方面的疗效，特别是在失神发作和强直-阵挛性发作的背景下。\n\n要解决这个问题，首先必须确定临床短文中描述的癫痫发作类型。然后，通过参考抗癫痫药物谱的表格或知识库，确定哪种药物对所有已确定的癫痫发作类型有效。患者同时出现失神发作和强直-阵挛性发作，需要使用广谱抗癫痫药。"
+  },
+  "tags": "Absence seizures; Tonic-clonic seizures; Juvenile absence epilepsy; Antiepileptic drugs; Broad-spectrum antiepileptics; Narrow-spectrum antiepileptics; Valproic acid; Ethosuximide; Neurology; Pediatrics",
+  "category": "Neuro",
+  "question_id": "249",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\249",
+  "extracted_at": "2025-11-05T19:39:51.726845",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:40:09.325065",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 71-year-old woman is brought to the physician by her daughter. She says that her mother went shopping yesterday and could not find her way back home. Two years ago, her mother \"started forgetting things like where she put her keys\" and \"began to have problems remembering the right words.\" Now she has trouble keeping up with her activities of daily living and refuses to pay her bills because \"it's a waste of money.\" The patient's past medical history is unremarkable. Brain magnetic resonance imaging (MRI) is most likely to show atrophy of which of the following structures? {{exhibit_1}}",
+    "zh": "一位71岁的女性由她的女儿带到医生处。她说她的母亲昨天去购物，但找不到回家的路。两年前，她的母亲“开始忘记东西，比如她把钥匙放在哪里”，并且“开始在回忆正确的词语方面出现问题”。现在，她很难维持日常生活，并拒绝支付账单，因为“这是在浪费钱”。患者的既往病史无特殊。脑磁共振成像（MRI）最有可能显示以下哪个结构的萎缩？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Brain magnetic resonance imaging (MRI) is most likely to show atrophy of which of the following structures?",
+    "zh": "脑磁共振成像（MRI）最有可能显示以下哪个结构的萎缩？"
+  },
+  "options": {
+    "A": {
+      "en": "Hippocampus",
+      "zh": "海马体"
+    },
+    "B": {
+      "en": "Cerebellum",
+      "zh": "小脑"
+    },
+    "C": {
+      "en": "Corpus callosum",
+      "zh": "胼胝体"
+    },
+    "D": {
+      "en": "Pons",
+      "zh": "脑桥"
+    },
+    "E": {
+      "en": "Thalamus",
+      "zh": "丘脑"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Advanced Alzheimer's disease is associated with diffuse brain atrophy. Atrophy is most pronounced in the temporoparietal lobes and hippocampus. Hippocampal atrophy is evident even in the early stages of the disease and can be detected by brain MRI. {{exhibit_2}}\n\nThe cerebellum (Choice B), corpus callosum (Choice C), pons (Choice D), and thalamus (Choice E) are not obviously atrophied in Alzheimer's disease. {{exhibit_3}}",
+    "zh": "晚期阿尔茨海默病与弥漫性脑萎缩有关。萎缩在颞顶叶和海马体中最明显。即使在疾病的早期阶段，海马体萎缩也很明显，并且可以通过脑MRI检测到。 {{exhibit_2}}\n\n小脑（选项B）、胼胝体（选项C）、脑桥（选项D）和丘脑（选项E）在阿尔茨海默病中没有明显的萎缩。 {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the neurodegenerative changes associated with Alzheimer's disease, specifically the pattern of brain atrophy seen on MRI. It emphasizes the importance of recognizing hippocampal atrophy as an early and characteristic finding in Alzheimer's disease.\n\nThe key to solving this question is to recall the typical pattern of brain atrophy in Alzheimer's disease. Hippocampal atrophy is a prominent early feature, making it the most likely finding on MRI in a patient with progressive memory loss and cognitive decline.",
+    "zh": "这个问题考察了与阿尔茨海默病相关的神经退行性变知识，特别是MRI上可见的脑萎缩模式。它强调了将海马体萎缩识别为阿尔茨海默病早期和特征性发现的重要性。\n\n解决这个问题的关键是回忆阿尔茨海默病中典型的脑萎缩模式。海马体萎缩是一个突出的早期特征，使其成为患有进行性记忆力减退和认知能力下降的患者在MRI上最可能的发现。"
+  },
+  "tags": "Alzheimer's disease; Neurodegeneration; Hippocampus; Brain atrophy; MRI; Dementia; Cognitive decline; Memory loss; Geriatrics; Neurology",
+  "category": "Neuro",
+  "question_id": "794",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\794",
+  "extracted_at": "2025-11-07T15:50:11.540497",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:28:29.839858",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

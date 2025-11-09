@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 68-year-old man with a history of Parkinson disease is hospitalized for pneumonia and sepsis. The patient is treated with intravenous (IV) fluids and antibiotics. He is also started on an infusion of IV dopamine for hemodynamic support. Although the manifestations of Parkinson disease are attributed to dopaminergic neuron degeneration in the substantia nigra, IV dopamine does not improve this patient's Parkinson symptoms.",
+    "zh": "一名有帕金森病病史的68岁男性因肺炎和脓毒症住院。患者接受静脉（IV）输液和抗生素治疗。他还开始静脉注射多巴胺以进行血流动力学支持。尽管帕金森病的表现归因于黑质多巴胺能神经元变性，但静脉注射多巴胺并未改善该患者的帕金森病症状。"
+  },
+  "question": {
+    "en": "Which of the following cell structures accounts for this lack of responsiveness? {{exhibit_1}}",
+    "zh": "以下哪种细胞结构解释了这种缺乏反应的原因？ {{exhibit_1}}"
+  },
+  "options": {
+    "A": {
+      "en": "Desmosomes",
+      "zh": "桥粒"
+    },
+    "B": {
+      "en": "Fenestrae",
+      "zh": "孔隙"
+    },
+    "C": {
+      "en": "Gap junctions",
+      "zh": "间隙连接"
+    },
+    "D": {
+      "en": "Hemidesmosomes",
+      "zh": "半桥粒"
+    },
+    "E": {
+      "en": "Intermediate junctions",
+      "zh": "中间连接"
+    },
+    "F": {
+      "en": "Tight junctions",
+      "zh": "紧密连接"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "This patient's Parkinson symptoms do not improve with intravenous dopamine infusion because dopamine is unable to cross the blood-brain barrier. The BLOOD-BRAIN BARRIER is formed by tight junctions between nonfenestrated capillary endothelial cells that prevent the paracellular passage of fluid and solutes. TIGHT JUNCTIONS, also known as zonulae occludentes, are composed of transmembrane proteins (eg, claudins and occludins) that associate with actin filaments, forming a beltlike seal around the apical intercellular space. This seal only permits the passage of substances from the blood to the brain via transcellular movement.\n\nTranscellular movement of dopamine is limited by the molecule's low lipid solubility and the lack of dopamine-specific transport carriers in capillary endothelial cells of the blood-brain barrier. L-DOPA (dopamine precursor) also has low lipid solubility, but it is able to enter the brain due to its high affinity for the large neutral amino acid transporter.\n\n(Choice A) Desmosomes (maculae adherentes) are spotlike junctions that anchor adjacent cells together via keratin intermediate filament interactions. Autoantibodies against desmosomes in the stratum spinosum of the skin cause pemphigus vulgaris.\n\n(Choice B) Fenestrae are small pores within endothelial cells that allow free fluid exchange between the intravascular and extravascular spaces. They are found in capillaries perfusing the intestine, renal tubules, and endocrine glands.\n\n(Choice C) Gap junctions are composed of connexin proteins that create channels between cells, permitting the free passage of small ions (eg, Ca2+) and molecules.\n\n(Choice D) Hemidesmosomes are similar to desmosomes but bind the basal layer of epithelial cells to the basement membrane. Autoantibodies against hemidesmosomes in the skin cause bullous pemphigoid.\n\n(Choice E) Intermediate junctions (zonula adherens or belt desmosomes) are located below tight junctions and form a beltlike anchor between adjacent cells in association with actin microfilaments.",
+    "zh": "该患者的帕金森病症状并不会因静脉注射多巴胺而改善，因为多巴胺无法穿过血脑屏障。血脑屏障由非孔隙毛细血管内皮细胞之间的紧密连接形成，可阻止液体和溶质的旁细胞通路。紧密连接，也称为闭锁小带，由跨膜蛋白（例如，claudins和occludins）组成，这些蛋白与肌动蛋白丝相关联，在顶端细胞间隙周围形成带状密封。该密封仅允许物质通过细胞转运从血液进入大脑。\n\n多巴胺的细胞转运受到该分子低脂溶性以及血脑屏障毛细血管内皮细胞中缺乏多巴胺特异性转运载体的限制。左旋多巴（多巴胺前体）的脂溶性也较低，但由于其对大中性氨基酸转运体的亲和力高，因此能够进入大脑。\n\n（选项A）桥粒（斑点附着点）是点状连接，通过角蛋白中间丝相互作用将相邻细胞锚定在一起。针对皮肤棘层桥粒的自身抗体可引起寻常型天疱疮。\n\n（选项B）孔隙是内皮细胞内的小孔，允许血管内和血管外空间之间自由交换液体。它们存在于灌注肠、肾小管和内分泌腺的毛细血管中。\n\n（选项C）间隙连接由连接蛋白组成，这些蛋白在细胞之间创建通道，允许小离子（例如Ca2+）和分子自由通过。\n\n（选项D）半桥粒与桥粒相似，但将上皮细胞的基底层与基底膜结合。针对皮肤半桥粒的自身抗体可引起大疱性类天疱疮。\n\n（选项E）中间连接（粘附带或带状桥粒）位于紧密连接下方，并与肌动蛋白微丝相关联，形成相邻细胞之间的带状锚。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the blood-brain barrier and the role of tight junctions in preventing paracellular transport of substances, including dopamine, into the brain. It also assesses understanding of why L-DOPA, a dopamine precursor, is used in Parkinson's disease treatment.\n\nTo solve this question, recognize that dopamine's inability to cross the blood-brain barrier is the key factor. Recall that tight junctions are the primary structural component of the blood-brain barrier, restricting the passage of molecules between cells.",
+    "zh": "此问题测试对血脑屏障以及紧密连接在阻止物质（包括多巴胺）旁细胞转运进入大脑中的作用的了解。它还评估对为何左旋多巴（多巴胺前体）被用于帕金森病治疗的理解。\n\n要解决这个问题，请认识到多巴胺无法穿过血脑屏障是关键因素。回想一下，紧密连接是血脑屏障的主要结构成分，限制了分子在细胞之间的通过。"
+  },
+  "tags": "Blood-brain barrier; Tight junctions; Parkinson disease; Dopamine; L-DOPA; Neurology; Cell junctions; Neuropharmacology",
+  "category": "Neuro",
+  "question_id": "1536",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1536",
+  "extracted_at": "2025-11-05T15:17:38.821537",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:20:01.351698",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

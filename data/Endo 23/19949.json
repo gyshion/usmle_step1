@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 67-year-old woman comes to the office due to polymyalgia rheumatica. She was diagnosed a year ago and has required supraphysiologic doses of prednisone to control her symptoms. The patient has no other medical conditions. She has adequate intake of calcium and vitamin D from her diet and supplements. The patient does not use tobacco or alcohol. Physical examination is unremarkable. Laboratory evaluation shows normal serum creatinine, 25-hydroxyvitamin D, and calcium levels. Bone density measured by dual x-ray absorptiometry (DXA) reveals a significant decline when compared to her bone density measured at age 65. Which of the following is most likely contributing to this patient's bone loss?",
+    "zh": "一位67岁的女性因风湿性多肌痛前来就诊。一年前她被诊断出患有此病，并且需要超生理剂量的泼尼松来控制症状。患者没有其他疾病。她从饮食和补充剂中摄入了足够的钙和维生素D。患者不吸烟也不饮酒。体格检查无特殊发现。实验室评估显示血清肌酐、25-羟基维生素D和钙水平正常。与她65岁时测量的骨密度相比，通过双能X线吸收测量法（DXA）测量的骨密度显示出显著下降。以下哪一项最有可能导致该患者的骨质流失？"
+  },
+  "question": {
+    "en": "Which of the following is most likely contributing to this patient's bone loss?",
+    "zh": "以下哪一项最有可能导致该患者的骨质流失？"
+  },
+  "options": {
+    "A": {
+      "en": "Increased activity of osteoprotegerin",
+      "zh": "骨保护素活性增加"
+    },
+    "B": {
+      "en": "Increased levels of insulin-like growth factor-1",
+      "zh": "胰岛素样生长因子-1水平升高"
+    },
+    "C": {
+      "en": "Inhibition of osteoblast precursor cell replication and differentiation",
+      "zh": "成骨细胞前体细胞复制和分化受到抑制"
+    },
+    "D": {
+      "en": "Inhibition of receptor activator of nuclear factor kappa B",
+      "zh": "核因子κB受体激活剂的抑制"
+    },
+    "E": {
+      "en": "Suppression of parathyroid hormone release",
+      "zh": "甲状旁腺激素释放受到抑制"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Chronic or recurrent glucocorticoid (eg, prednisone) use, as is needed in patients with polymyalgia rheumatica, is associated with an increased risk for osteoporosis. Glucocorticoids accelerate the development of osteoporosis by a number of mechanisms:\n\n*   **Decreased osteoblast effect:** Glucocorticoids inhibit the proliferation and differentiation of osteoblast precursor cells. They also induce increased rates of apoptosis in mature osteoblasts.\n*   **Increased osteoclast effect:** Osteoclast differentiation and activity are promoted by the receptor activator of nuclear factor kappa B (RANK)/RANK-ligand; this effect is inhibited by osteoprotegerin, which acts as a decoy receptor. Glucocorticoids increase the expression of RANK and RANK-ligand (Choice D) and decrease the expression of osteoprotegerin (Choice A), leading to increased bone resorption.\n*   **Renal and intestinal calcium wasting:** Glucocorticoids suppress intestinal calcium absorption and renal calcium reabsorption, requiring increased release of calcium from bone to maintain calcium homeostasis.\n\n(Choice B) Insulin-like growth factor-1 (IGF-1) is produced primarily in the liver but also locally in bone. It mediates many of the anabolic effects of growth hormone, including maintenance of bone mass. Glucocorticoids suppress (not increase) levels of IGF-1; in animal models, administration of exogenous IGF-1 mitigates much of the bone loss associated with glucocorticoids.\n\n(Choice E) Glucocorticoids alter the pattern of parathyroid hormone (PTH) secretion (eg, reduced tonic secretion and increased pulsatile PTH secretion), but overall secretion is only minimally changed. In general, bone loss is seen with excessive PTH secretion (ie, hyperparathyroidism) but not suppressed secretion.\n\nEducational objective:\nChronic or recurrent glucocorticoid (eg, prednisone) use can lead to loss of bone density. Glucocorticoids inhibit replication and differentiation of osteoblast precursor cells, increase osteoclast activity, and promote intestinal and renal calcium wasting. {{exhibit_1}} The glucocorticoid effect on bone is summarized in the image {{exhibit_2}}.",
+    "zh": "慢性或复发性糖皮质激素（如泼尼松）的使用，正如风湿性多肌痛患者所需的那样，与骨质疏松症的风险增加有关。糖皮质激素通过多种机制加速骨质疏松症的发展：\n\n*   **成骨细胞效应降低：** 糖皮质激素抑制成骨细胞前体细胞的增殖和分化。它们还会诱导成熟成骨细胞的凋亡率增加。\n*   **破骨细胞效应增加：** 破骨细胞的分化和活性受核因子κB受体激活剂（RANK）/RANK配体的促进；这种效应受到骨保护素的抑制，骨保护素充当诱饵受体。糖皮质激素增加RANK和RANK配体的表达（选项D），并降低骨保护素的表达（选项A），从而导致骨吸收增加。\n*   **肾脏和肠道钙丢失：** 糖皮质激素抑制肠道钙吸收和肾脏钙重吸收，这需要从骨骼中释放更多的钙以维持钙稳态。\n\n（选项B）胰岛素样生长因子-1（IGF-1）主要在肝脏中产生，但在骨骼中也有局部产生。它介导生长激素的许多合成代谢作用，包括维持骨量。糖皮质激素抑制（而不是增加）IGF-1的水平；在动物模型中，外源性IGF-1的施用减轻了与糖皮质激素相关的许多骨质流失。\n\n（选项E）糖皮质激素改变甲状旁腺激素（PTH）分泌模式（例如，持续分泌减少和脉冲式PTH分泌增加），但总体分泌量仅略有变化。一般来说，骨质流失见于PTH分泌过多（即甲状旁腺功能亢进），但分泌受到抑制则不然。\n\n教育目标：\n慢性或复发性糖皮质激素（如泼尼松）的使用可导致骨密度下降。糖皮质激素抑制成骨细胞前体细胞的复制和分化，增加破骨细胞活性，并促进肠道和肾脏钙丢失。{{exhibit_1}} 糖皮质激素对骨骼的影响总结在图像{{exhibit_2}}中。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanisms by which glucocorticoids induce osteoporosis, focusing on their effects on osteoblast and osteoclast activity, as well as calcium handling. Understanding the impact of glucocorticoids on bone remodeling and calcium balance is crucial for managing patients on long-term steroid therapy.\n\nTo solve this question, recall that glucocorticoids inhibit osteoblast activity, leading to decreased bone formation, and increase osteoclast activity, leading to increased bone resorption. Also, remember that glucocorticoids can cause calcium wasting, further contributing to bone loss.",
+    "zh": "这个问题考察了糖皮质激素诱发骨质疏松症的机制知识，重点关注其对成骨细胞和破骨细胞活性的影响，以及钙的处理。了解糖皮质激素对骨重塑和钙平衡的影响对于管理长期接受类固醇治疗的患者至关重要。\n\n要解决这个问题，请回想一下，糖皮质激素抑制成骨细胞活性，导致骨形成减少，并增加破骨细胞活性，导致骨吸收增加。此外，请记住，糖皮质激素会导致钙丢失，从而进一步导致骨质流失。"
+  },
+  "tags": "Glucocorticoids; Osteoporosis; Osteoblasts; Osteoclasts; Bone remodeling; Calcium metabolism; Polymyalgia rheumatica; Prednisone; Endocrinology; Pharmacology",
+  "category": "Endo",
+  "question_id": "19949",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\19949",
+  "extracted_at": "2025-11-05T14:05:40.898878",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:40:09.491895",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

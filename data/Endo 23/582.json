@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 27-year-old man comes to the office for an infertility evaluation. He and his wife have been trying to conceive for the last 16 months. A previous evaluation of his wife showed no abnormalities. The patient has no prior medical conditions and takes no medications. Height is 188 cm (6' 2\") and weight is 75 kg (165.3 lb). BMI is 21 kg/m². On physical examination, heart and lung sounds are normal. There is bilateral gynecomastia, and genital examination shows small, firm testes. The lower extremities appear abnormally long. Further evaluation will most likely show which of the following sets of findings in this patient? {{exhibit_1}}",
+    "zh": "一名27岁男性因不育评估前来就诊。他和妻子在过去16个月里一直在尝试受孕。先前对其妻子的评估未见异常。患者既往无任何病史，也未服用任何药物。身高188 cm (6' 2\")，体重75 kg (165.3 lb)。BMI为21 kg/m²。体格检查显示心肺音正常。存在双侧男性乳房发育，生殖器检查显示睾丸小而硬。下肢显得异常长。进一步评估最有可能显示该患者的以下哪一组发现？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Further evaluation will most likely show which of the following sets of findings in this patient?",
+    "zh": "进一步评估最有可能显示该患者的以下哪一组发现？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased Decreased Decreased Decreased",
+      "zh": "降低 降低 降低 降低"
+    },
+    "B": {
+      "en": "Normal Normal Normal Absent",
+      "zh": "正常 正常 正常 缺失"
+    },
+    "C": {
+      "en": "Decreased Normal Increased Decreased",
+      "zh": "降低 正常 升高 降低"
+    },
+    "D": {
+      "en": "Increased Increased Decreased Absent",
+      "zh": "升高 升高 降低 缺失"
+    },
+    "E": {
+      "en": "Normal Increased Normal Decreased",
+      "zh": "正常 升高 正常 降低"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has infertility, gynecomastia, and long lower extremities, findings which together are highly suggestive of Klinefelter syndrome. Klinefelter syndrome is a chromosomal disorder (47,XXY) that can lead to azoospermia and infertility, although individuals with mosaic variants may have variable degrees of spermatogenesis. Common nonreproductive manifestations include intellectual and language impairment.\n\nKlinefelter syndrome is the most common cause of male hypogonadism and is characterized by progressive destruction and hyalinization of the seminiferous tubules, leading to small, firm testes. Serum inhibin levels are decreased as a result of the Sertoli cell damage; Leydig cells are usually dysfunctional as well, resulting in reduced testosterone levels. The loss of feedback inhibition leads to increased FSH and LH secretion. Gynecomastia is caused by an increased ratio of estrogens to androgens (high gonadotropin levels increase aromatase activity, which increases conversion of testosterone to estradiol).\n\n(Choice A) Hypogonadotropic (central) hypogonadism is caused by injury or dysfunction of the hypothalamus (eg, Kallmann syndrome) or pituitary gland (eg, adenomas). LH, FSH, and testosterone levels are all low, and spermatogenesis is impaired. Unlike in this patient, testes in central hypogonadism are atrophic and soft (not hyalinized and firm), and gynecomastia is uncommon because the decrease in gonadotropins reduces aromatase activity.\n\n(Choice B) Azoospermia associated with a normal hormonal profile suggests an obstruction along the path from the testes to the seminal fluid (eg, congenital absence of the vas deferens in cystic fibrosis). In these patients, the testes and breasts are grossly normal.\n\n(Choice C) Decreased LH, normal FSH, and elevated testosterone in the setting of a low sperm count suggest exogenous testosterone use. High androgen levels suppress LH secretion, decreasing endogenous testosterone production. Despite the high circulating levels of exogenous androgen, these patients have a low sperm count because local androgen concentrations in the seminiferous tubule are suboptimal for spermatogenesis. Over time, this leads to atrophy of the seminiferous tubules and soft, small testes.\n\n(Choice E) Normal LH and testosterone, elevated FSH, and a low sperm count can be seen in patients with cryptorchidism. In this condition, the seminiferous tubules are damaged (resulting in elevated FSH levels), and the interstitial Leydig cells are preserved (maintaining normal LH and testosterone levels). {{exhibit_2}}",
+    "zh": "该患者患有不育症、男性乳房发育症和下肢过长，这些发现共同高度提示Klinefelter综合征。Klinefelter综合征是一种染色体疾病 (47,XXY)，可导致无精子症和不育症，尽管嵌合体变异患者可能存在不同程度的生精功能。常见的非生殖表现包括智力和语言障碍。\n\nKlinefelter综合征是男性性腺功能减退症的最常见原因，其特征是生精小管进行性破坏和玻璃样变性，导致睾丸小而硬。由于支持细胞受损，血清抑制素水平降低；间质细胞通常也出现功能障碍，导致睾酮水平降低。反馈抑制的丧失导致FSH和LH分泌增加。男性乳房发育症是由雌激素与雄激素的比例增加引起的（促性腺激素水平升高增加芳香化酶活性，从而增加睾酮向雌二醇的转化）。\n\n(选项 A) 性腺功能减退性（中枢性）性腺功能减退症是由下丘脑（例如，Kallmann综合征）或脑垂体（例如，腺瘤）的损伤或功能障碍引起的。LH、FSH和睾酮水平均低，并且生精功能受损。与该患者不同，中枢性性腺功能减退症患者的睾丸萎缩且柔软（而非玻璃样变性和坚硬），并且男性乳房发育症不常见，因为促性腺激素的减少降低了芳香化酶活性。\n\n(选项 B) 与正常激素谱相关的无精子症提示睾丸到精液通道的梗阻（例如，囊性纤维化患者先天性输精管缺如）。在这些患者中，睾丸和乳房总体上是正常的。\n\n(选项 C) 在精子计数低的情况下，LH降低、FSH正常和睾酮升高提示外源性睾酮的使用。高水平的雄激素会抑制LH分泌，从而降低内源性睾酮的产生。尽管这些患者循环中的外源性雄激素水平较高，但他们的精子计数较低，因为生精小管中的局部雄激素浓度对于生精功能而言并非最佳。随着时间的推移，这会导致生精小管萎缩，睾丸柔软、变小。\n\n(选项 E) 在隐睾症患者中，可见LH和睾酮正常、FSH升高以及精子计数低。在这种情况下，生精小管受损（导致FSH水平升高），而间质间质细胞得到保留（维持正常的LH和睾酮水平）。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Klinefelter syndrome, including its characteristic physical findings, hormonal profile, and underlying pathophysiology. Klinefelter syndrome is characterized by primary hypogonadism (elevated FSH and LH, low testosterone) and azoospermia. Other findings include long lower extremities; small, firm testes; and gynecomastia.\n\nTo solve this question, recognize the clinical features suggestive of Klinefelter syndrome (gynecomastia, small testes, long extremities). Recall the hormonal changes associated with primary hypogonadism, specifically elevated FSH and LH due to loss of feedback inhibition from low testosterone.",
+    "zh": "这道题测试对Klinefelter综合征的了解，包括其特征性的体征、激素谱和潜在的病理生理学。Klinefelter综合征的特征是原发性性腺功能减退症（FSH和LH升高，睾酮低）和无精子症。其他发现包括下肢过长；睾丸小而硬；和男性乳房发育症。\n\n要解决这个问题，需要识别提示Klinefelter综合征的临床特征（男性乳房发育症、睾丸小、四肢长）。回想与原发性性腺功能减退症相关的激素变化，特别是FSH和LH升高，这是由于来自低睾酮的反馈抑制的丧失。"
+  },
+  "tags": "Klinefelter syndrome; Infertility; Gynecomastia; Hypogonadism; FSH; LH; Testosterone; Azoospermia; Endocrinology; Genetics",
+  "category": "Endo",
+  "question_id": "582",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\582",
+  "extracted_at": "2025-11-05T14:08:17.520133",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:41:44.538294",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

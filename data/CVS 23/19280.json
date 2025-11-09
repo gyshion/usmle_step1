@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old woman is brought to the hospital due to sudden-onset chest heaviness and shortness of breath that began an hour ago. Her medical history is significant for type 2 diabetes mellitus, obesity, and hypertension. Temperature is 36.7 C (98.1 F), blood pressure is 80/50 mm Hg, pulse is 110/min, and respirations are 20/min. Extremities are cold and clammy. Diaphoresis is present. ECG shows ST-segment elevation in the lateral leads.",
+    "zh": "一名65岁女性因突发性胸闷气短被送往医院，症状发生于一小时前。她的病史包括2型糖尿病、肥胖症和高血压。体温36.7°C (98.1°F)，血压80/50 mmHg，脉搏110次/分，呼吸20次/分。四肢冰冷湿冷，有出汗。心电图显示侧导联ST段抬高。"
+  },
+  "question": {
+    "en": "Which of the following hemodynamic changes are most likely present in this patient?",
+    "zh": "该患者最有可能出现以下哪种血流动力学改变？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased; Decreased; Decreased",
+      "zh": "降低；降低；降低"
+    },
+    "B": {
+      "en": "Decreased; Increased; Decreased",
+      "zh": "降低；升高；降低"
+    },
+    "C": {
+      "en": "Decreased; Increased; Increased",
+      "zh": "降低；升高；升高"
+    },
+    "D": {
+      "en": "Increased; Decreased; Decreased",
+      "zh": "升高；降低；降低"
+    },
+    "E": {
+      "en": "Increased; Increased; Increased",
+      "zh": "升高；升高；升高"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with acute-onset chest heaviness and shortness of breath and ECG showing ST-segment elevation has a myocardial infarction (MI). Localization to the lateral leads is consistent with involvement of the left ventricle. Hypotension and cold and clammy extremities (evidence of poor tissue perfusion) suggest cardiogenic shock due to MI-induced acute left ventricular (LV) failure. {{exhibit_1}}\n\nA large MI can cause profoundly decreased cardiac contractility. The resulting LV systolic failure leads to markedly reduced cardiac output and hypotension. In response to the hypotension, the aortic and carotid baroreceptors stimulate peripheral vasoconstriction to increase systemic vascular resistance in an effort to maintain blood pressure. Heart rate is also increased (ie, tachycardia) to help increase cardiac output.\n\nFailure to eject blood from the left ventricle also increases LV end-diastolic pressure, which is transmitted backward to increase pulmonary capillary wedge pressure (an estimate of left atrial pressure) and cause pulmonary edema. This increase in pulmonary venous pressure also necessitates higher pulmonary arterial systolic pressure to maintain forward blood movement, which may precipitate acute right ventricular failure.\n\nEducational objective:\nMyocardial infarction may cause acute left ventricular (LV) failure and cardiogenic shock. Decreased cardiac contractility leads to reduced cardiac output and hypotension. In response, systemic vascular resistance is increased (via peripheral vasoconstriction) to maintain blood pressure. The LV systolic failure increases LV end-diastolic pressure, which is transmitted backward to increase pulmonary capillary wedge pressure and pulmonary arterial pressure.",
+    "zh": "该患者突发胸闷气短，心电图显示ST段抬高，提示心肌梗死（MI）。定位到侧导联提示左心室受累。低血压和四肢冰冷湿冷（提示组织灌注不良）提示由于MI引起的急性左心室（LV）衰竭导致心源性休克。{{exhibit_1}}\n\n大面积MI可导致心肌收缩力严重下降。由此产生的LV收缩功能衰竭导致心输出量显著降低和低血压。针对低血压，主动脉和颈动脉压力感受器刺激外周血管收缩，以增加全身血管阻力，从而努力维持血压。心率也会增加（即心动过速）以帮助增加心输出量。\n\n左心室射血失败也会增加LV舒张末压，该压力逆向传递以增加肺毛细血管楔压（左心房压力的估计值）并引起肺水肿。肺静脉压力的增加也需要更高的肺动脉收缩压以维持血液向前移动，这可能导致急性右心室衰竭。\n\n教育目标：\n心肌梗死可导致急性左心室（LV）衰竭和心源性休克。心肌收缩力降低导致心输出量减少和低血压。作为回应，全身血管阻力增加（通过外周血管收缩）以维持血压。LV收缩功能衰竭会增加LV舒张末压，该压力逆向传递以增加肺毛细血管楔压和肺动脉压力。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of cardiogenic shock pathophysiology following myocardial infarction, specifically the hemodynamic changes that occur. The question requires understanding of how decreased cardiac contractility leads to compensatory mechanisms affecting systemic vascular resistance and pulmonary artery pressure.\n\nTo solve this question, recognize the patient is in cardiogenic shock due to MI. Understand that decreased contractility leads to increased systemic vascular resistance (SVR) as the body tries to compensate for low blood pressure. Also, the backflow from LV failure increases pulmonary pressures.",
+    "zh": "本题考察心肌梗死后心源性休克的病理生理学知识，特别是发生的血流动力学改变。 题目要求理解心肌收缩力下降如何导致影响全身血管阻力和肺动脉压力的代偿机制。\n\n解决此题，需要认识到患者由于MI处于心源性休克状态。理解收缩力下降会导致全身血管阻力（SVR）增加，因为身体试图代偿低血压。此外，LV衰竭引起的血液回流会增加肺部压力。"
+  },
+  "tags": "Cardiogenic shock; Myocardial infarction; Hemodynamics; Systemic vascular resistance; Pulmonary artery pressure; Left ventricular failure; Cardiology; Critical care; Shock",
+  "category": "CVS",
+  "question_id": "19280",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\19280",
+  "extracted_at": "2025-11-05T12:04:56.326827",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:25:41.670005",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

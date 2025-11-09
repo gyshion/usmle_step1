@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old woman comes to the office for progressive itchiness and fatigue. She also notes yellowing of the eyes and skin. Physical examination shows scleral icterus, multiple excoriations on both the upper and the lower extremities, and hepatomegaly. Laboratory results are as follows: {{exhibit_1}}\n\nLiver biopsy reveals dense lymphocytic infiltration of the portal triads, as well as granulomatous destruction of interlobular bile ducts.",
+    "zh": "一名45岁女性因进行性瘙痒和疲劳前来就诊。她还注意到眼睛和皮肤发黄。体格检查显示巩膜黄疸、四肢上下多处抓痕和肝肿大。实验室检查结果如下：{{exhibit_1}}\n\n肝活检显示门管区淋巴细胞浸润，以及小叶间胆管肉芽肿性破坏。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Acute hepatitis B",
+      "zh": "急性乙型肝炎"
+    },
+    "B": {
+      "en": "Autoimmune hepatitis",
+      "zh": "自身免疫性肝炎"
+    },
+    "C": {
+      "en": "Primary biliary cholangitis",
+      "zh": "原发性胆汁性胆管炎"
+    },
+    "D": {
+      "en": "Primary sclerosing cholangitis",
+      "zh": "原发性硬化性胆管炎"
+    },
+    "E": {
+      "en": "Sarcoidosis",
+      "zh": "结节病"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Primary biliary cholangitis\n\nThis patient with fatigue, pruritus, jaundice, and elevated alkaline phosphatase has liver biopsy results consistent with PRIMARY BILIARY CHOLANGITIS (PBC), a chronic autoimmune disorder that disproportionately affects middle-aged women. PBC is characterized by T-cell-mediated destruction of the small intralobular bile ducts, which is visualized histologically as a dense lymphocytic inflammation of portal tracts with granulomatous destruction of interlobular bile ducts (ie, florid duct lesions).\n\nPBC typically develops insidiously; fatigue and pruritus are often the presenting symptoms. Cholestasis results in a characteristic pattern of liver injury (ie, elevated alkaline phosphatase, elevated gamma-glutamyl transferase, direct hyperbilirubinemia, normal or mildly elevated aminotransferases) and examination findings (eg, hepatomegaly, jaundice). Hypercholesterolemia is also common due to reduced cholesterol excretion. Elevated antimitochondrial antibodies are highly characteristic.\n\n(Choices A and B) Acute hepatitis B and autoimmune hepatitis (AIH) both result in a hepatocellular, not a cholestatic, pattern of liver injury. Hepatitis B is characterized histologically by lobular mononuclear inflammation, hepatocyte balloon degeneration, and ground-glass hepatocytes, whereas AIH results in portal and periportal lymphoplasmacytic infiltration of the liver (ie, interface hepatitis).\n\n(Choice D) Primary sclerosing cholangitis causes a cholestatic pattern of liver injury but it is identified histologically by fibrous obliteration of bile ducts, as well as concentric periductal deposition of connective tissue in an onion skin-like pattern. It is strongly associated with ulcerative colitis.\n\n(Choice E) Sarcoidosis can cause a cholestatic pattern of liver injury but is characterized by noncaseating granulomas with hepatic fibrosis and a multinucleated giant cell formation. The dense portal lymphocytic infiltration characteristic of PBC is not seen. In addition, most patients have symptoms of systemic sarcoidosis (eg, cough, hilar lymphadenopathy). {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\nEducational objective:\nPrimary biliary cholangitis is an autoimmune disorder that most commonly affects middle-aged women and is characterized by fatigue, pruritus, jaundice, cholestasis (eg, elevated alkaline phosphatase, elevated gamma-glutamyl transferase, direct hyperbilirubinemia), and antimitochondrial antibodies. Histologic findings include dense lymphocytic portal tract inflammation with granulomatous destruction of interlobular bile ducts.",
+    "zh": "原发性胆汁性胆管炎\n\n该患者出现疲劳、瘙痒、黄疸和碱性磷酸酶升高，肝活检结果与原发性胆汁性胆管炎（PBC）一致，PBC是一种慢性自身免疫性疾病，对中年女性的影响尤为严重。PBC的特征是T细胞介导的小叶内胆管破坏，组织学上表现为门管区的密集淋巴细胞性炎症，伴有小叶间胆管肉芽肿性破坏（即，活跃性胆管病变）。\n\nPBC通常隐匿起病；疲劳和瘙痒通常是首发症状。胆汁淤积导致特征性的肝损伤模式（即，碱性磷酸酶升高、γ-谷氨酰转移酶升高、直接胆红素血症、转氨酶正常或轻度升高）和体格检查结果（如肝肿大、黄疸）。由于胆固醇排泄减少，高胆固醇血症也很常见。抗线粒体抗体升高具有高度特征性。\n\n（选项A和B） 急性乙型肝炎和自身免疫性肝炎（AIH）都会导致肝细胞性而非胆汁淤积性肝损伤模式。乙型肝炎的组织学特征是小叶单核细胞炎症、肝细胞气球样变性和磨玻璃样肝细胞，而AIH导致肝脏门管区和肝周淋巴浆细胞浸润（即，界面性肝炎）。\n\n（选项D） 原发性硬化性胆管炎引起胆汁淤积性肝损伤模式，但其组织学特征是胆管纤维性闭塞，以及洋葱皮样同心性管周结缔组织沉积。它与溃疡性结肠炎密切相关。\n\n（选项E） 结节病可引起胆汁淤积性肝损伤模式，但其特征是非干酪性肉芽肿，伴有肝纤维化和多核巨细胞形成。PBC的特征性密集门管区淋巴细胞浸润未见。此外，大多数患者有全身性结节病的症状（如咳嗽、肺门淋巴结病）。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}\n\n教育目标：\n原发性胆汁性胆管炎是一种自身免疫性疾病，最常见于中年女性，其特征是疲劳、瘙痒、黄疸、胆汁淤积（如碱性磷酸酶升高、γ-谷氨酰转移酶升高、直接胆红素血症）和抗线粒体抗体。组织学发现包括门管区密集淋巴细胞浸润，伴有小叶间胆管肉芽肿性破坏。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the presentation, diagnosis, and pathophysiology of primary biliary cholangitis (PBC). PBC is a chronic autoimmune liver disease characterized by cholestasis and destruction of small intrahepatic bile ducts.\n\nTo solve this question, recognize the classic triad of fatigue, pruritus, and jaundice in a middle-aged woman, along with elevated alkaline phosphatase. The liver biopsy showing dense lymphocytic infiltration and granulomatous destruction of bile ducts is key to confirming the diagnosis of PBC.",
+    "zh": "本题考察对原发性胆汁性胆管炎（PBC）的临床表现、诊断和病理生理学的知识。PBC是一种慢性自身免疫性肝病，其特征是胆汁淤积和小肝内胆管的破坏。\n\n要解决这个问题，需要识别中年女性的疲劳、瘙痒和黄疸的典型三联征，以及碱性磷酸酶升高。肝活检显示胆管的密集淋巴细胞浸润和肉芽肿性破坏是确诊PBC的关键。"
+  },
+  "tags": "Primary biliary cholangitis; Autoimmune liver disease; Cholestasis; Pruritus; Fatigue; Liver biopsy; Alkaline phosphatase; Antimitochondrial antibodies; Hepatology; Gastroenterology",
+  "category": "GIT",
+  "question_id": "403",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\403",
+  "extracted_at": "2025-11-05T14:34:22.949699",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:57:16.834142",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

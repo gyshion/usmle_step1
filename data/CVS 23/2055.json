@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 56-year-old man comes to the emergency department due to chest palpitations. The patient feels that his heartbeat is fast and irregular. He has had no chest pain, shortness of breath, or dizziness. The patient normally drinks only 2-3 times a year, but he hosted a party last night for his wife's birthday and consumed a large amount of alcohol. He is otherwise healthy and takes no medications. Pulse check confirms the presence of an irregularly irregular rhythm with a rate of 138/min. This patient's ECG strip is most likely to show which of the following? {{exhibit_1}}",
+    "zh": "一名56岁男性因胸部心悸来到急诊科。患者感觉心跳加快且不规律。他没有胸痛、呼吸急促或头晕。患者通常一年只喝酒2-3次，但他昨晚为妻子的生日举办了一个派对，并饮用了大量酒精。他身体健康，没有服用药物。脉搏检查证实存在不规则的节律，心率138次/分钟。该患者的ECG图最有可能显示以下哪一项？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "This patient's ECG strip is most likely to show which of the following?",
+    "zh": "该患者的ECG图最有可能显示以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": " ",
+      "zh": " "
+    },
+    "B": {
+      "en": " ",
+      "zh": " "
+    },
+    "C": {
+      "en": " ",
+      "zh": " "
+    },
+    "D": {
+      "en": " ",
+      "zh": " "
+    },
+    "E": {
+      "en": " ",
+      "zh": " "
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Palpitations are a subjective sensation of the heartbeat usually caused by rapid arrhythmia or forceful ventricular contraction. This patient with palpitations and an irregularly irregular pulse most likely has ATRIAL FIBRILLATION, the most common cause of an irregularly irregular rhythm.\n\nIn atrial fibrillation, the atria experience rapid and chaotic electrical activity, and organized atrial depolarization is lost. In addition, because the rate of atrial electrical impulses is so high (eg, 500-600/min) and the atrioventricular node does not transmit impulses that quickly, impulses are transmitted to the ventricles randomly and intermittently. Therefore, ECG typically shows an ABSENCE OF P WAVES and an irregularly irregular rhythm with VARYING R-R INTERVALS; the ventricular rate is often (but not always) >100/min. In addition, irregular, low-amplitude FIBRILLATORY WAVES are sometimes present between the QRS complexes.\n\nThe development of atrial fibrillation is encouraged by ATRIAL REMODELING, which involves changes to atrial conduction pathways that occur as a result of aging and underlying chronic disease (eg, hypertension, heart failure). Once a certain degree of remodeling is present, acute illness (eg, sepsis or other causes of increased sympathetic tone) and other conditions (eg, hyperthyroidism) can initiate foci of electrical activity that TRIGGER the arrhythmia. Excessive ALCOHOL CONSUMPTION is also a common trigger (ie, \"holiday heart syndrome\").\n\n(Choice A) Ventricular bigeminy involves a premature ventricular contraction after each normal sinus beat and is often triggered by periods of increased sympathetic tone. Palpitations are common, but the rhythm is regularly irregular (ie, R-R interval varies in a predictable manner), with 2 beats occurring close together followed by a relatively long pause before the next beat.\n\n(Choice B) Ventricular tachycardia demonstrates wide QRS complexes on ECG. It may cause palpitations, but the rhythm is regular.\n\n(Choice C) Atrial flutter demonstrates saw-toothed flutter waves on ECG and may cause palpitations. Because atrial activity is slower (eg, 300/min) and somewhat more organized than in atrial fibrillation, the rhythm can be regular or irregular, depending on the steadiness of conduction through the atrioventricular node. This ECG shows steady 2:1 conduction with a regular rhythm, which is not consistent with this patient's irregularly irregular pulse.\n\n(Choice E) Atrioventricular nodal reentrant tachycardia commonly causes palpitations, but the rhythm is regular. P waves are often not visible on ECG because they are buried within the QRS complexes. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "心悸是一种主观感觉，通常由快速心律失常或强烈的室性收缩引起。该患者出现心悸和不规则的脉搏，最有可能患有房颤，这是引起不规则节律的最常见原因。\n\n在房颤中，心房经历快速而混乱的电活动，并且有组织的房房去极化消失。此外，由于心房电冲动的速率非常高（例如，500-600次/分钟），并且房室结不能如此快速地传导冲动，因此冲动随机且间歇地传递到心室。因此，ECG通常显示P波缺失和R-R间期变化的完全不规则节律；心室率通常（但不总是）>100次/分钟。此外，有时在QRS波群之间存在不规则的、低振幅的颤动波。\n\n房颤的发展受到心房重塑的促进，这涉及心房传导通路的变化，这些变化是由于衰老和潜在的慢性疾病（例如，高血压、心力衰竭）引起的。一旦存在一定程度的重塑，急性疾病（例如，败血症或其他交感神经兴奋性增加的原因）和其他疾病（例如，甲状腺功能亢进症）可以启动电活动病灶，从而触发心律失常。过量饮酒也是一个常见的诱因（即，“假日心脏综合征”）。\n\n（选项A）室性二联律涉及在每个正常的窦性心跳后出现过早的室性收缩，并且通常由交感神经兴奋性增加的时期触发。心悸很常见，但节律是不规则的（即，R-R间期以可预测的方式变化），有2次心跳紧密相连，然后是相对较长的停顿，然后是下一次心跳。\n\n（选项B）室性心动过速在ECG上显示宽QRS波群。它可能导致心悸，但节律是规则的。\n\n（选项C）房扑在ECG上显示锯齿状扑动波，并且可能导致心悸。由于心房活动较慢（例如，300次/分钟）并且比房颤更具组织性，节律可以是规则的或不规则的，这取决于通过房室结的传导的稳定性。该ECG显示稳定的2：1传导，节律规则，这与该患者的不规则脉搏不一致。\n\n（选项E）房室结折返性心动过速通常引起心悸，但节律是规则的。由于P波隐藏在QRS波群中，因此通常在ECG上看不到。 {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of atrial fibrillation (AFib) diagnosis based on ECG findings and clinical presentation. It requires recognizing the characteristic irregularly irregular rhythm and absence of P waves in AFib, and differentiating it from other arrhythmias.\n\nTo solve this, identify the irregularly irregular rhythm on the ECG strips. Rule out rhythms with regular patterns or distinct P waves. Consider the patient's history of alcohol consumption, a known trigger for AFib.",
+    "zh": "此问题测试基于ECG结果和临床表现对房颤（AFib）的诊断知识。它需要识别房颤中不规则的节律和P波的缺失，并将其与其他心律失常区分开来。\n\n要解决此问题，请在ECG图上识别不规则节律。排除具有规则模式或清晰P波的节律。考虑患者的饮酒史，这是房颤的已知诱因。"
+  },
+  "tags": "Atrial fibrillation; ECG interpretation; Arrhythmia; Cardiology; Palpitations; Alcohol consumption; Holiday heart syndrome",
+  "category": "CVS",
+  "question_id": "2055",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\2055",
+  "extracted_at": "2025-11-05T12:09:31.631358",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:27:51.312866",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

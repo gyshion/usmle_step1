@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 36-year-old man comes to the office due to chronic, mild dyspnea and fatigue. The patient also says that his mind seems “foggy” all the time and he is not able to think clearly. He has no significant past medical history and does not take any medication. He lives a sedentary lifestyle and has smoked a half-pack of cigarettes a day for 5 years. Blood pressure is 140/85 mm Hg, pulse is 84/min, and respirations are 18/min. BMI is 32 kg/m². Lung auscultation is unremarkable. Chest x-ray is normal. Arterial blood gas analysis shows partial pressure of oxygen (PaO₂) is 66 mm Hg and partial pressure of carbon dioxide (PaCO₂) is 58 mm Hg. His estimated alveolar to arterial oxygen gradient is 10 mm Hg.",
+    "zh": "一名36岁男性因慢性、轻度呼吸困难和疲劳前来就诊。患者还表示他一直感觉头脑“模糊”，无法清晰思考。他没有重要的既往病史，也没有服用任何药物。他过着久坐不动的生活方式，每天吸半包香烟，持续5年。血压为140/85 mm Hg，脉搏为84次/分，呼吸频率为18次/分。BMI为32 kg/m²。肺部听诊无特殊。胸部X光检查正常。动脉血气分析显示氧分压（PaO₂）为66 mm Hg，二氧化碳分压（PaCO₂）为58 mm Hg。他估计的肺泡-动脉氧分压差为10 mm Hg。"
+  },
+  "question": {
+    "en": "Which of the following best explains this patient's laboratory findings?",
+    "zh": "以下哪项最能解释该患者的实验室检查结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Chronic hypoventilation",
+      "zh": "慢性通气不足"
+    },
+    "B": {
+      "en": "Decreased lung diffusing capacity",
+      "zh": "肺弥散能力下降"
+    },
+    "C": {
+      "en": "Destruction of lung parenchyma",
+      "zh": "肺实质破坏"
+    },
+    "D": {
+      "en": "Increased lung compliance",
+      "zh": "肺顺应性增加"
+    },
+    "E": {
+      "en": "Increased tissue oxygen consumption",
+      "zh": "组织耗氧量增加"
+    },
+    "F": {
+      "en": "Right-to-left shunt",
+      "zh": "右向左分流"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient with chronic fatigue, dyspnea, difficulty concentrating, hypoxemia (PaO₂ <75 mm Hg), and hypercapnia (PaCO₂ >45 mm Hg) in the setting of obesity (BMI >30 kg/m²) likely has OBESITY HYPOVENTILATION SYNDROME (OHS). OHS results from physical restriction of lung expansion by excessive thoracic tissue mass. As such, the hypoventilation mostly results from reduced tidal volume and patients may have normal or increased respiratory rate. Most patients with OHS also have concomitant obstructive sleep apnea (OSA); unlike isolated OSA that involves hypoventilation only with sleep, OHS involves hypoventilation throughout the waking hours.\n\nIn healthy individuals, a normal alveolar to arterial (A-a) gradient ranges from 4-15 mm Hg, with older individuals having a gradient towards the higher end of normal. A normal A-a gradient indicates that the efficiency of gas exchange between the alveoli and the blood is intact; therefore, hypoxemia must result from low partial pressure of alveolar oxygen (PAO₂). Low PAO₂ can occur due to alveolar hypoventilation (eg, OHS, neuromuscular disease, central depression of respiratory drive) or inspiration of low partial pressure of oxygen at high altitude.\n\n(Choices B and C) Destruction of lung parenchyma occurs with both emphysema and interstitial lung disease. This leads to disruption of the alveolar-capillary membrane and impaired diffusion capacity with an increased A-a gradient. In OHS, the lung parenchyma is undamaged and diffusion capacity is intact.\n\n(Choice D) Although the lung parenchyma is unaffected in OHS, restricted expansion of the chest wall secondarily restricts lung expansion, effectively decreasing lung compliance.\n\n(Choice E) Tissue oxygen consumption does increase with increased body mass, but it is a relatively minor factor and would not cause hypoxemia or hypercapnia in the absence of hypoventilation.\n\n(Choice F) Right-to-left shunting (eg, Eisenmenger syndrome) results in hypoxemia with an elevated A-a gradient because a large percentage of cardiac output bypasses the alveolar capillaries and does not undergo gas exchange.\n\nEducational objective:\nObesity hypoventilation syndrome commonly presents with chronic fatigue, dyspnea, and difficulty concentrating. Patients will have BMI >30 kg/m² and arterial blood gas while awake showing evidence of hypoventilation, including hypercapnia (PaCO₂ >45 mm Hg) and usually hypoxemia (PaO₂ <75 mm Hg). The expected alveolar to arterial oxygen gradient is normal (4-15 mm Hg) with hypoventilation.",
+    "zh": "该患者出现慢性疲劳、呼吸困难、注意力难以集中、低氧血症（PaO₂ <75 mm Hg）和高碳酸血症（PaCO₂ >45 mm Hg），并且存在肥胖（BMI >30 kg/m²），很可能患有肥胖性低通气综合征（OHS）。OHS是由于过多的胸部组织质量对肺扩张的物理限制所致。因此，低通气主要由潮气量减少导致，患者的呼吸频率可能正常或增加。大多数OHS患者也同时患有阻塞性睡眠呼吸暂停（OSA）；与仅在睡眠时出现低通气的孤立性OSA不同，OHS在清醒时段都会发生低通气。\n\n在健康个体中，肺泡-动脉（A-a）氧分压差的正常范围为4-15 mm Hg，老年人则更倾向于正常范围的上限。正常的A-a梯度表明肺泡与血液之间的气体交换效率是完整的；因此，低氧血症必须由肺泡氧分压（PAO₂）低引起。PAO₂低可能由于肺泡低通气（例如，OHS、神经肌肉疾病、呼吸中枢抑制）或在高海拔地区吸入低氧分压的氧气而发生。\n\n（选项B和C）肺实质破坏见于肺气肿和间质性肺病。这会导致肺泡毛细血管膜的破坏和弥散能力受损，伴随A-a梯度升高。在OHS中，肺实质未受损，弥散能力完整。\n\n（选项D）尽管在OHS中肺实质未受影响，但胸壁受限扩张会继发限制肺扩张，从而有效地降低肺顺应性。\n\n（选项E）组织耗氧量确实会随着体重增加而增加，但它是一个相对较小的因素，并且在没有低通气的情况下不会导致低氧血症或高碳酸血症。\n\n（选项F）右向左分流（例如，艾森门格综合征）会导致低氧血症，伴有A-a梯度升高，因为很大一部分心输出量绕过肺泡毛细血管，没有进行气体交换。\n\n教育目标：\n肥胖性低通气综合征通常表现为慢性疲劳、呼吸困难和注意力难以集中。患者BMI >30 kg/m²，清醒时的动脉血气分析显示低通气证据，包括高碳酸血症（PaCO₂ >45 mm Hg）和通常的低氧血症（PaO₂ <75 mm Hg）。在低通气的情况下，预计的肺泡-动脉氧分压差是正常的（4-15 mm Hg）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of obesity hypoventilation syndrome (OHS), its presentation with chronic fatigue, dyspnea, hypoxemia, and hypercapnia, and the underlying mechanism of alveolar hypoventilation due to restricted lung expansion. It also tests the interpretation of arterial blood gas results and the significance of a normal A-a gradient in the context of hypoxemia. \n\nTo solve this question, recognize the clinical features suggestive of OHS (obesity, hypoxemia, hypercapnia), understand the pathophysiology of alveolar hypoventilation in OHS, and differentiate it from other causes of hypoxemia that would present with an increased A-a gradient.",
+    "zh": "此题考察对肥胖性低通气综合征（OHS）的了解，包括其表现为慢性疲劳、呼吸困难、低氧血症和高碳酸血症，以及由于肺扩张受限导致的肺泡低通气的潜在机制。它还测试对动脉血气结果的解读以及在低氧血症背景下正常A-a梯度的意义。\n\n要解决这个问题，需要认识到提示OHS的临床特征（肥胖、低氧血症、高碳酸血症），了解OHS中肺泡低通气的病理生理学，并将其与其他会导致A-a梯度升高的低氧血症原因区分开来。"
+  },
+  "tags": "Obesity hypoventilation syndrome; OHS; Hypoxemia; Hypercapnia; Alveolar hypoventilation; Arterial blood gas; A-a gradient; Pulmonary medicine; Respiratory failure",
+  "category": "Chest",
+  "question_id": "1526",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1526",
+  "extracted_at": "2025-11-05T11:38:47.865386",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:35:38.040128",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

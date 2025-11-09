@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 15-year-old girl is hospitalized due to confusion and hematemesis for 2 days. Medical history is notable for depression over the past year. Temperature is 37.2 C (99 F), blood pressure is 86/56 mm Hg, pulse is 112/min, and respirations are 20/min; BMI is 23 kg/m². She is oriented to person but disoriented to time and place. The patient quickly deteriorates and dies during hospitalization. Autopsy examination reveals a nodular liver, esophageal varices, splenomegaly, and atrophy of the basal ganglia with increased copper content. The most likely cause of this patient's condition is an abnormality in which of the following physiologic processes? {{exhibit_1}}",
+    "zh": "一名15岁女孩因意识模糊和呕血入院2天。病史记录过去一年有抑郁症。体温37.2°C (99°F)，血压86/56 mm Hg，脉搏112次/分钟，呼吸20次/分钟；BMI为23 kg/m²。她定向力正常，但对时间和地点定向力障碍。患者在住院期间病情迅速恶化并死亡。尸检显示结节性肝脏、食管静脉曲张、脾肿大和基底神经节萎缩伴铜含量增加。该患者病情最可能的原因是以下哪种生理过程的异常？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "The most likely cause of this patient's condition is an abnormality in which of the following physiologic processes?",
+    "zh": "该患者病情最可能的原因是以下哪种生理过程的异常？"
+  },
+  "options": {
+    "A": {
+      "en": "Biliary excretion",
+      "zh": "胆汁排泄"
+    },
+    "B": {
+      "en": "Immunoglobulin production",
+      "zh": "免疫球蛋白生成"
+    },
+    "C": {
+      "en": "Intestinal absorption",
+      "zh": "肠道吸收"
+    },
+    "D": {
+      "en": "Lipid metabolism",
+      "zh": "脂质代谢"
+    },
+    "E": {
+      "en": "Renal tubular reabsorption",
+      "zh": "肾小管重吸收"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has evidence of cirrhosis (eg, nodular liver, splenomegaly, esophageal varices) with ACUTE LIVER FAILURE (ie, encephalopathy) in addition to copper deposition in the basal ganglia. These findings are consistent with Wilson disease, an autosomal recessive disorder characterized by accumulation of copper due to a defective copper transport protein, ATP7B.\n\nIn general, dietary copper is absorbed in the stomach and duodenum and bound to circulating albumin. It is then transported to the liver and taken up by hepatocytes. Excessive intracellular copper levels normally cause ATP7B to transfer the excess copper into the bile canaliculi. This process is essential for biliary excretion of copper, which accounts for the majority of total body copper excretion.\n\nIn Wilson disease, defective ATP7B results in impaired biliary excretion of copper. The accumulation of hepatocellular copper results in oxidative stress and apoptosis. Upon cell death, free copper is released into the bloodstream and deposited into extrahepatic tissues (eg, basal ganglia, cornea), causing the classic triad of hepatic, neurologic, and psychiatric (eg, depression) symptoms.\n\nATP7B is also required for the hepatic production of ceruloplasmin, which is apoceruloplasmin bound to copper. The inability to create and secrete ceruloplasmin in Wilson disease results in low serum ceruloplasmin. This abnormality does not account for the clinical manifestations of Wilson disease but is an important diagnostic finding.\n\n(Choice B) Autoimmune hepatitis due to production of autoantibodies can cause cirrhosis and acute liver failure but not copper accumulation.\n\n(Choice C) Hereditary hemochromatosis is an autosomal recessive disorder that can cause cirrhosis due to increased intestinal absorption of iron, not copper.\n\n(Choice D) Niemann-Pick disease and Gaucher disease are lipid storage disorders that cause hepatosplenomegaly. Symptoms usually present in early childhood, and copper deposition is not seen in either condition.\n\n(Choice E) Renal copper deposition in Wilson disease can cause Fanconi syndrome (eg, proximal tubular dysfunction). However, this occurs as a result of impaired biliary excretion of copper; it is not the cause of copper accumulation in Wilson disease.\n\nEducational objective:\nWilson disease is caused by defective copper transport within hepatocytes, which leads to impaired biliary excretion of copper. Hepatic copper accumulation eventually results in the release of free copper into the bloodstream and copper deposition into extrahepatic tissues (eg, basal ganglia, cornea).",
+    "zh": "该患者有肝硬化（例如，结节性肝脏、脾肿大、食管静脉曲张）的证据，并伴有急性肝功能衰竭（即，脑病），此外基底神经节也有铜沉积。这些发现与威尔逊病一致，威尔逊病是一种常染色体隐性遗传疾病，其特征是由于铜转运蛋白ATP7B缺陷导致铜蓄积。\n\n一般而言，膳食铜在胃和十二指肠中被吸收，并与循环白蛋白结合。然后它被转运到肝脏，被肝细胞吸收。过量的细胞内铜水平通常会导致ATP7B将多余的铜转移到胆管中。这个过程对于胆汁排泄铜至关重要，胆汁排泄占全身铜排泄的大部分。\n\n在威尔逊病中，ATP7B缺陷导致铜的胆汁排泄受损。肝细胞内铜的蓄积导致氧化应激和细胞凋亡。细胞死亡后，游离铜释放到血流中并沉积到肝外组织（例如，基底神经节、角膜），引起肝脏、神经和精神（例如，抑郁症）症状的典型三联征。\n\nATP7B也需要用于肝脏生成血浆铜蓝蛋白，血浆铜蓝蛋白是与铜结合的脱血浆铜蓝蛋白。威尔逊病中无法生成和分泌血浆铜蓝蛋白导致血清铜蓝蛋白水平降低。这种异常并不能解释威尔逊病的临床表现，但这是一个重要的诊断发现。\n\n(选项B) 由于自身抗体的产生引起的自身免疫性肝炎可导致肝硬化和急性肝功能衰竭，但不会导致铜蓄积。\n\n(选项C) 遗传性血色素沉着病是一种常染色体隐性遗传疾病，可由于铁的肠道吸收增加而导致肝硬化，而不是铜。\n\n(选项D) 尼曼-匹克病和戈谢病是导致肝脾肿大的脂质储存疾病。症状通常在幼儿期出现，并且在这两种情况下均未见铜沉积。\n\n(选项E) 威尔逊病中的肾铜沉积可引起范可尼综合征（例如，近端肾小管功能障碍）。然而，这发生于铜的胆汁排泄受损的结果；它不是威尔逊病中铜蓄积的原因。\n\n教学目标：\n威尔逊病是由肝细胞内铜转运缺陷引起的，导致铜的胆汁排泄受损。肝脏铜蓄积最终导致游离铜释放到血流中，并将铜沉积到肝外组织（例如，基底神经节、角膜）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Wilson disease, specifically the pathophysiology of copper accumulation due to defective biliary excretion and its clinical manifestations. It requires recognizing the classic triad of hepatic, neurologic, and psychiatric symptoms associated with Wilson disease.\n\nTo solve this question, identify the key findings of cirrhosis, acute liver failure, and copper deposition in the basal ganglia. Recognize that these findings are consistent with Wilson disease, which is caused by impaired biliary excretion of copper due to a defective copper transport protein.",
+    "zh": "本题考察对威尔逊病的了解，特别是由于胆汁排泄缺陷导致的铜蓄积的病理生理学及其临床表现。它要求识别与威尔逊病相关的肝脏、神经和精神症状的经典三联征。\n\n要解决这个问题，需要确定肝硬化、急性肝功能衰竭和基底神经节铜沉积的关键发现。认识到这些发现与威尔逊病一致，威尔逊病是由铜转运蛋白缺陷导致铜的胆汁排泄受损引起的。"
+  },
+  "tags": "Wilson disease; Copper metabolism; Biliary excretion; Liver failure; Basal ganglia; ATP7B; Cirrhosis; Hepatolenticular degeneration",
+  "category": "GIT",
+  "question_id": "396",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\396",
+  "extracted_at": "2025-11-05T14:34:10.586536",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:57:07.129460",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

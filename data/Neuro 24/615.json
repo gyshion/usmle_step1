@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 12-year-old boy is brought to the office by his mother due to headaches and gait instability. The headaches wake the patient and are associated with nausea and vomiting. Symptoms began several months ago and have progressively worsened. The patient has lost 2.7 kg (6 lb) since his last well visit 6 months ago. On physical examination, gait is unsteady, and there is dysmetria on finger-to-nose testing. MRI of the brain is shown in the image below. {{exhibit_1}}",
+    "zh": "一名12岁男孩由其母亲带到诊所，因为头痛和步态不稳。头痛会唤醒患者，并伴有恶心和呕吐。症状始于几个月前，并逐渐恶化。自上次6个月前的健康检查以来，患者已减轻2.7公斤（6磅）。体格检查显示，步态不稳，指鼻试验有辨距不良。脑部MRI如下图所示。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Ependymoma",
+      "zh": "室管膜瘤"
+    },
+    "B": {
+      "en": "Glioblastoma",
+      "zh": "胶质母细胞瘤"
+    },
+    "C": {
+      "en": "Medulloblastoma",
+      "zh": "髓母细胞瘤"
+    },
+    "D": {
+      "en": "Oligodendroglioma",
+      "zh": "少突胶质细胞瘤"
+    },
+    "E": {
+      "en": "Pilocytic astrocytoma",
+      "zh": "毛细胞型星形细胞瘤"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Brain tumors are the second most common childhood cancer (after leukemia) and the most common solid organ tumors of childhood. This patient with a mixed solid/cystic, well-circumscribed cerebellar mass most likely has a PILOCYTIC ASTROCYTOMA (PCA), the most common type of brain tumor in children. {{exhibit_2}} PCAs are low-grade gliomas that occur most frequently in the cerebellum. Patients typically have headaches (increased intracranial pressure) and cerebellar findings (eg, loss of balance, incoordination). Imaging studies often reveal a well-demarcated, prominent CYSTIC LESION with solid components that avidly enhance following contrast administration. {{exhibit_3}} Due to the slow-growing (benign) nature, the majority of patients can be treated with surgical resection and have a favorable prognosis.\n\n(Choice A) Ependymomas arise from the ependymal lining and grow into the ventricles. In children, they commonly occupy the fourth ventricle and can extend through the foramina of Luschka and Magendie, causing obstructive hydrocephalus.\n\n(Choice B) Glioblastoma is the most common primary adult brain tumor and is typically located within the cerebral hemispheres (often crossing the corpus callosum).\n\n(Choice C) Medulloblastoma is another common pediatric brain tumor that primarily involves the cerebellum. However, imaging typically reveals a SOLID LESION; cystic components, if present, are usually small and multiple (unlike this patient). Leptomeningeal dissemination (eg, drop metastases) is also frequently seen due to the malignant nature of the tumor. {{exhibit_4}}\n\n(Choice D) Oligodendrogliomas typically present as calcified masses within the frontal lobe; they are rarely seen in children. {{exhibit_5}}",
+    "zh": "脑肿瘤是儿童期第二常见的癌症（仅次于白血病），也是儿童期最常见的实体器官肿瘤。 这位患者的脑部MRI显示混合性实性/囊性、边界清楚的小脑肿块，最有可能患有毛细胞型星形细胞瘤（PCA），这是儿童最常见的脑肿瘤类型。{{exhibit_2}} PCA是低级别胶质瘤，最常发生在小脑中。患者通常有头痛（颅内压增高）和小脑体征（如失去平衡、协调障碍）。影像学研究通常显示边界清楚、突出的囊性病变，伴有在对比剂给药后明显增强的实性成分。{{exhibit_3}} 由于生长缓慢（良性），大多数患者可以通过手术切除治疗并具有良好的预后。\n\n（选项A）室管膜瘤源自室管膜内衬并生长到脑室中。 在儿童中，它们通常占据第四脑室，并可以延伸通过Luschka孔和Magendie孔，引起梗阻性脑积水。\n\n（选项B）胶质母细胞瘤是成人最常见的原发性脑肿瘤，通常位于大脑半球内（通常穿过胼胝体）。\n\n（选项C）髓母细胞瘤是另一种常见的儿童脑肿瘤，主要累及小脑。 然而，影像学检查通常显示实性病变；如果存在囊性成分，通常很小且多个（与该患者不同）。 由于肿瘤的恶性性质，也经常看到软脑膜播散（例如，滴状转移）。{{exhibit_4}}\n\n（选项D）少突胶质细胞瘤通常表现为额叶内的钙化肿块； 它们很少见于儿童。{{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests the ability to diagnose common pediatric brain tumors based on clinical presentation and imaging findings. It specifically assesses knowledge of the characteristics and typical locations of pilocytic astrocytoma, ependymoma, glioblastoma, medulloblastoma, and oligodendroglioma in children.\n\nTo solve this question, one should correlate the patient's age, symptoms (headaches, nausea, vomiting, gait instability, dysmetria), and MRI findings (mixed solid/cystic cerebellar mass) with the known epidemiology and imaging features of various pediatric brain tumors. Differentiating between cystic and solid components, location, and degree of enhancement is crucial.",
+    "zh": "这个问题考察了根据临床表现和影像学发现诊断常见儿童脑肿瘤的能力。它专门评估了对儿童毛细胞型星形细胞瘤、室管膜瘤、胶质母细胞瘤、髓母细胞瘤和少突胶质细胞瘤的特征和典型位置的了解。\n\n要解决这个问题，应该将患者的年龄、症状（头痛、恶心、呕吐、步态不稳、辨距不良）和MRI发现（混合实性/囊性小脑肿块）与各种儿童脑肿瘤的已知流行病学和影像学特征相关联。区分囊性和实性成分、位置和增强程度至关重要。"
+  },
+  "tags": "Pediatric brain tumors; Pilocytic astrocytoma; Cerebellum; MRI; Glioma; Neuro-oncology; Childhood cancer",
+  "category": "Neuro",
+  "question_id": "615",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\615",
+  "extracted_at": "2025-11-05T19:40:47.074498",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:41:52.214888",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

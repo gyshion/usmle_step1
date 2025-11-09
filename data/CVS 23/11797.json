@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 16-year-old previously healthy boy is brought to the office due to palpitations. He was watching a documentary at a movie theater when his heart suddenly began to race and he became lightheaded. The patient says that he has felt \"rapid heartbeats\" in the past and thought that they were due to stress from school examinations, but he has never had associated lightheadedness before. He has no chest pain or dyspnea. Physical examination is within normal limits. Resting ECG is shown in the exhibit {{exhibit_1}}. Which of the following is most likely present in this patient?",
+    "zh": "一名先前健康的16岁男孩因心悸来就诊。他在电影院观看纪录片时，心脏突然开始加速，并感到头晕。患者说他过去曾感到“心跳加速”，并认为这是学校考试带来的压力所致，但他从未有过相关的头晕。他没有胸痛或呼吸困难。体格检查结果在正常范围内。静息心电图见展品{{exhibit_1}}。该患者最有可能存在以下哪种情况？"
+  },
+  "question": {
+    "en": "Which of the following is most likely present in this patient?",
+    "zh": "该患者最有可能存在以下哪种情况？"
+  },
+  "options": {
+    "A": {
+      "en": "Accessory bypass tract connecting the atria and ventricles",
+      "zh": "连接心房和心室的旁路"
+    },
+    "B": {
+      "en": "Cardiac conduction system degeneration below the level of the atrioventricular node",
+      "zh": "房室结水平以下的心脏传导系统退化"
+    },
+    "C": {
+      "en": "Ectopic atrial foci that serve as the dominant pacemaker",
+      "zh": "作为主要起搏器的异位心房灶"
+    },
+    "D": {
+      "en": "Impaired generation of impulses in the sinoatrial node",
+      "zh": "窦房结冲动生成受损"
+    },
+    "E": {
+      "en": "Prolonged ventricular action potential due to myocyte ion channel abnormality",
+      "zh": "由于心肌细胞离子通道异常导致的心室动作电位延长"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's resting ECG shows the characteristic Wolff-Parkinson-White (WPW) pattern, which consists of the following triad:\n\n*   Short PR interval, generally <120 msec\n*   Slurred and broad upstroke of the QRS complex (delta wave)\n*   QRS widening, often with ST segment/T wave changes\n\nThese findings are created by an accessory pathway (bundle of Kent), which allows ventricular depolarization to begin before the normal depolarization impulse can pass through the atrioventricular node (ie, ventricular preexcitation). Many patients with WPW pattern on ECG remain asymptomatic, but some develop paroxysmal tachyarrhythmias (ie, episodes of palpitations and lightheadedness); these patients are considered to have WPW syndrome.\n\nAtrioventricular reentrant tachycardia (AVRT), a form of paroxysmal supraventricular tachycardia, is the most common arrhythmia seen with WPW syndrome. It results when a premature atrial or ventricular contraction creates a reentrant circuit involving the accessory pathway and the atrioventricular node. Notably, the characteristic findings of WPW pattern are not evident on ECG during AVRT and are best demonstrated during normal sinus rhythm.\n\n(Choice B) Cardiac conduction system degeneration below the level of the atrioventricular node (eg, His Purkinje system) leads to variable degrees of conduction block and typically presents with symptomatic bradycardia.\n\n(Choice C) Patients with wandering atrial pacemaker or ectopic atrial rhythm have ectopic atrial foci that replace the sinus node as the dominant pacemaker; P waves of varying morphology are seen on ECG. This patient has normal, uniform P waves suggesting normal sinus node function.\n\n(Choice D) Impaired generation of impulses in the sinoatrial node can occur with sick sinus syndrome, which usually affects elderly patients. It appears on ECG as a delayed P wave or the absence of a P wave with the QRS complex formed by a junctional escape beat.\n\n(Choice E) Congenital long QT syndrome is caused by mutations in the genes encoding cardiac sodium or potassium channels. The prolonged repolarization interval (eg, QTc > 450 msec) puts patients at risk for developing polymorphic ventricular tachycardia (eg, torsades de pointes).\n\nEducational objective:\nWolff-Parkinson-White (WPW) pattern is characterized by a shortened PR interval, slurred initial upstroke of the QRS complex (delta wave), and widening of the QRS complex. It is caused by an accessory pathway that bypasses the atrioventricular node, leading to ventricular preexcitation. Some patients develop paroxysmal tachyarrhythmias (eg, atrioventricular reentrant tachycardia) due to reentry of electrical impulses through the accessory conduction pathway (ie, WPW syndrome). {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}}",
+    "zh": "该患者的静息心电图显示了特征性的Wolff-Parkinson-White (WPW) 图案，该图案由以下三联征组成：\n\n*   PR间期缩短，通常 <120毫秒\n*   QRS波群的上升支起始部分呈模糊且宽大（δ波）\n*   QRS波群增宽，常伴有ST段/T波改变\n\n这些发现是由旁路（Kent束）产生的，它允许心室去极化在正常的去极化冲动通过房室结之前开始（即，心室预激）。许多ECG上出现WPW图案的患者仍无症状，但一些患者会发生阵发性心动过速（即，心悸和头晕发作）；这些患者被认为患有WPW综合征。\n\n房室折返性心动过速 (AVRT) 是一种阵发性室上性心动过速，是WPW综合征中最常见的心律失常。当过早的心房或心室收缩产生涉及旁路和房室结的折返回路时，就会发生这种情况。值得注意的是，在AVRT期间，ECG上不会出现WPW图案的特征性发现，并且在正常窦性心律期间可以最好地显示这些特征。\n\n（选项B）房室结以下水平（例如，His-Purkinje系统）的心脏传导系统退化会导致不同程度的传导阻滞，并且通常表现为有症状的缓慢性心动过速。\n\n（选项C）患有游走性心房起搏器或异位性心房节律的患者，其异位心房灶取代窦房结作为主要起搏器；ECG上可见形态不同的P波。该患者具有正常的、一致的P波，表明窦房结功能正常。\n\n（选项D）窦房结冲动生成受损可发生在病态窦房结综合征中，该综合征通常影响老年患者。它在ECG上表现为P波延迟或没有P波，QRS波群由交界性逸搏形成。\n\n（选项E）先天性长QT综合征是由编码心脏钠或钾离子通道的基因突变引起的。延长的复极化间期（例如，QTc > 450毫秒）使患者面临发生多形性室性心动过速（例如，尖端扭转型室速）的风险。\n\n教育目标：\nWolff-Parkinson-White (WPW) 图案的特征是PR间期缩短、QRS波群起始部分呈模糊状（δ波）以及QRS波群增宽。它是由绕过房室结的旁路引起的，导致心室预激。一些患者由于电脉冲通过辅助传导通路（即，WPW综合征）折返而发生阵发性心动过速（例如，房室折返性心动过速）。 {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Wolff-Parkinson-White (WPW) syndrome, including its ECG characteristics (short PR interval, delta wave, QRS widening) and underlying mechanism (accessory pathway). It also requires differentiating WPW from other causes of palpitations and ECG abnormalities. \n\nTo solve this question, recognize the classic WPW triad on the ECG. Understand that WPW is caused by an accessory pathway bypassing the AV node, leading to ventricular preexcitation. Rule out other options based on their ECG findings and clinical presentations.",
+    "zh": "此问题考察对Wolff-Parkinson-White (WPW) 综合征的了解，包括其心电图特征（短PR间期、δ波、QRS波群增宽）和潜在机制（旁路）。它还需要将WPW与其他心悸和心电图异常的原因区分开来。\n\n要解决此问题，请识别心电图上的经典WPW三联征。了解WPW是由绕过房室结的旁路引起的，导致心室预激。根据其他选项的心电图结果和临床表现排除其他选项。"
+  },
+  "tags": "Wolff-Parkinson-White syndrome; ECG interpretation; Accessory pathway; Ventricular preexcitation; Atrioventricular reentrant tachycardia; Cardiology; Electrophysiology",
+  "category": "CVS",
+  "question_id": "11797",
+  "has_exhibits": true,
+  "exhibit_count": 7,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\11797",
+  "extracted_at": "2025-11-05T11:50:30.518225",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:44:27.336398",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

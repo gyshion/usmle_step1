@@ -1,0 +1,69 @@
+{
+  "question_stem": {
+    "en": "A 46-year-old man comes to the office due to intermittent, bloody diarrhea and abdominal pain for the past month. The patient has lost 12 lb (5.4 kg) during this period. He was diagnosed with HIV 5 years ago but has been inconsistent with his antiretroviral medications. Current CD4 count is 50/mm³ and plasma HIV viral load is 650,000 copies/mL. Colonoscopy reveals multiple hemorrhagic, polypoidal lesions. Biopsy of these lesions reveals a proliferation of spindle-shaped cells and small blood vessels.",
+    "zh": "一名46岁的男性因过去一个月的间歇性血性腹泻和腹痛前来就诊。患者在此期间体重减轻了12磅（5.4公斤）。他5年前被诊断患有HIV，但他的抗逆转录病毒药物治疗一直不规律。目前的CD4计数为50/mm³，血浆HIV病毒载量为650,000拷贝/mL。结肠镜检查显示多个出血性、息肉样病变。这些病变的活检显示梭形细胞和小血管增生。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's diarrhea?",
+    "zh": "以下哪项最可能是该患者腹泻的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Adenocarcinoma",
+      "zh": "腺癌"
+    },
+    "B": {
+      "en": "Cryptosporidium parvum",
+      "zh": "微孢子虫"
+    },
+    "C": {
+      "en": "Cytomegalovirus",
+      "zh": "巨细胞病毒"
+    },
+    "D": {
+      "en": "Entamoeba histolytica",
+      "zh": "溶组织阿米巴"
+    },
+    "E": {
+      "en": "Kaposi sarcoma",
+      "zh": "卡波西肉瘤"
+    },
+    "F": {
+      "en": "Ulcerative colitis",
+      "zh": "溃疡性结肠炎"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient with advanced HIV and diarrhea has endoscopic and histopathologic findings consistent with Kaposi sarcoma (KS). KS, a vascular neoplasm that often presents in HIV-positive individuals, is caused by human herpesvirus 8 (HHV-8).\n\nSkin involvement is characteristic (eg, purple papules on the lower extremities), but visceral involvement (eg, gastrointestinal tract, oral cavity, lung) may also occur, particularly in patients with advanced HIV. Gastrointestinal KS is usually asymptomatic, but some patients may experience bloody diarrhea, weight loss, and/or abdominal pain.\n\nKS can often be identified endoscopically from infectious causes of diarrhea. It usually appears as red-violet maculopapular lesions, raised hemorrhagic nodules, or polypoid masses. Histopathology typically shows a proliferation of spindle-shaped endothelial cells with irregular, slit-like vascular spaces and extravasated red blood cells. {{exhibit_1}}\n\n(Choice A) Colonic adenocarcinoma may appear polypoid endoscopically, but histopathology typically shows dysplastic epithelial cells with variable gland formation and/or mucin production, depending on the differentiation of the tumor.\n\n(Choice B) Cryptosporidium can cause profuse, watery, nonbloody diarrhea, particularly in patients with AIDS. Endoscopy shows inflammation without ulcers, and microscopy shows basophilic organisms on the surface of intestinal epithelial cells.\n\n(Choice C) Although cytomegalovirus colitis may present with diarrhea and abdominal pain, colonoscopy usually shows multiple ulcers and mucosal erosions. Histopathology shows characteristic cytomegalic cells with inclusion bodies.\n\n(Choice D) Entamoeba histolytica can cause bloody diarrhea and abdominal pain. However, colonoscopy shows flask-shaped ulcers, and histopathology often shows trophozoites.\n\n(Choice F) Although ulcerative colitis may present with bloody diarrhea and abdominal pain, colonoscopy typically shows erythematous, friable, granular mucosa and possibly pseudopolyps (isolated areas of regenerative mucosa). Histopathology often shows an inflammatory infiltrate involving the mucosa and submucosa with crypt abscesses.\n\nEducational objective:\nKaposi sarcoma, a vascular neoplasm that often presents in HIV-positive individuals, may involve the gastrointestinal tract, causing bloody diarrhea, weight loss, and abdominal pain. Endoscopy characteristically reveals red-violet maculopapular lesions, raised hemorrhagic nodules, or polypoid masses. Histopathology often shows spindle-shaped endothelial cells, slit-like vascular spaces, and extravasated red blood cells. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "这位晚期HIV合并腹泻的患者，其内镜和组织病理学发现与卡波西肉瘤（KS）一致。KS是一种血管性肿瘤，常见于HIV阳性个体，由人类疱疹病毒8型（HHV-8）引起。\n\n皮肤受累是其特征（例如，下肢出现紫红色丘疹），但内脏受累（例如，胃肠道、口腔、肺）也可能发生，尤其是在晚期HIV患者中。胃肠道KS通常无症状，但一些患者可能会出现血性腹泻、体重减轻和/或腹痛。\n\nKS通常可以通过内镜与感染性腹泻病因区分。它通常表现为红紫色斑丘疹、隆起的出血性结节或息肉样肿块。组织病理学通常显示梭形内皮细胞增生，伴有不规则的裂隙样血管腔隙和外渗的红细胞。{{exhibit_1}}\n\n(选项A) 结肠腺癌在内镜下可能表现为息肉样，但组织病理学通常显示异型上皮细胞，伴有不同的腺体形成和/或粘蛋白产生，这取决于肿瘤的分化程度。\n\n(选项B) 隐孢子虫病可引起大量水样、非血性腹泻，尤其是在艾滋病患者中。内镜检查显示炎症，但无溃疡，显微镜下显示嗜碱性生物体位于肠上皮细胞表面。\n\n(选项C) 尽管巨细胞病毒性结肠炎可能表现为腹泻和腹痛，但结肠镜检查通常显示多个溃疡和黏膜糜烂。组织病理学显示特征性的巨细胞，伴有包涵体。\n\n(选项D) 溶组织阿米巴可引起血性腹泻和腹痛。然而，结肠镜检查显示烧瓶状溃疡，组织病理学常显示滋养体。\n\n(选项F) 尽管溃疡性结肠炎可能表现为血性腹泻和腹痛，但结肠镜检查通常显示红斑、脆弱、颗粒状的黏膜，可能伴有假性息肉（再生黏膜的孤立区域）。组织病理学常显示累及黏膜和黏膜下层的炎性浸润，伴有隐窝脓肿。\n\n教学目标：\n卡波西肉瘤是一种血管性肿瘤，常见于HIV阳性个体，可能累及胃肠道，引起血性腹泻、体重减轻和腹痛。内镜检查的特征性表现为红紫色斑丘疹、隆起的出血性结节或息肉样肿块。组织病理学常显示梭形内皮细胞、裂隙样血管腔隙和外渗的红细胞。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests the ability to recognize Kaposi sarcoma (KS) as a cause of bloody diarrhea in an HIV-positive patient with a low CD4 count, based on endoscopic and histopathologic findings. It requires knowledge of the typical presentation of KS in the gastrointestinal tract.\n\nThe best approach is to correlate the patient's HIV status, low CD4 count, and the description of hemorrhagic, polypoidal lesions on colonoscopy with the characteristic histopathology of spindle-shaped cells and small blood vessels. Rule out other common causes of diarrhea in HIV patients based on their differing clinical and endoscopic features.",
+    "zh": "此题考察根据内镜和组织病理学发现，识别卡波西肉瘤（KS）是HIV阳性、CD4计数低的患者出现血性腹泻的原因。它要求了解KS在胃肠道的典型表现。\n\n最佳方法是将患者的HIV状态、低CD4计数，以及结肠镜检查中出血性息肉样病变的描述，与梭形细胞和小血管的特征性组织病理学相关联。根据HIV患者腹泻的其他常见病因的不同临床和内镜特征，排除这些病因。"
+  },
+  "tags": "Kaposi sarcoma; HIV; Bloody diarrhea; Colonoscopy; Histopathology; HHV-8; Gastrointestinal tract; AIDS; CD4 count",
+  "category": "GIT",
+  "question_id": "8290",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\8290",
+  "extracted_at": "2025-11-05T14:39:15.627844",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:59:21.161488",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

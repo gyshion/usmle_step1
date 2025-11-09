@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 28-year-old woman, gravida 3 para 2, at 31 weeks gestation comes to the office for a prenatal visit. The patient has had increasing shortness of breath while climbing stairs and during long walks for the past few weeks but has had no cough, sick contacts, hemoptysis, orthopnea, or chest pain. She has had no contractions or vaginal bleeding, and fetal movement is normal. The patient has no chronic medical conditions, and her pregnancy has been uncomplicated. Blood pressure is 110/80 mm Hg, pulse is 70/min, and respirations are 18/min. Fetal heart tones are normal. Cardiac examination reveals no rubs or murmurs. The lungs are clear to auscultation bilaterally. The remainder of the examination is unremarkable. Which of the following laboratory findings will most likely be found in this patient? {{exhibit_1}}",
+    "zh": "一名28岁的女性，孕3产2，妊娠31周，前来就诊进行产前检查。过去几周以来，患者在爬楼梯和长时间步行时出现进行性呼吸急促，但无咳嗽、接触过患病者、咯血、端坐呼吸或胸痛。她没有出现宫缩或阴道出血，胎动正常。患者没有慢性病史，妊娠过程未见并发症。血压110/80 mmHg，脉搏70次/分，呼吸18次/分。胎心音正常。心脏检查未发现摩擦音或杂音。双肺呼吸音清。其余检查无特殊发现。该患者最有可能出现以下哪种实验室检查结果？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following laboratory findings will most likely be found in this patient?",
+    "zh": "该患者最有可能出现以下哪种实验室检查结果？"
+  },
+  "options": {
+    "A": {
+      "en": "pH 7.26, PaCO2 45 mm Hg, PaO2 101 mm Hg, Urine bicarbonate ↓",
+      "zh": "pH 7.26，PaCO2 45 mmHg，PaO2 101 mmHg，尿碳酸氢盐 ↓"
+    },
+    "B": {
+      "en": "pH 7.34, PaCO2 30 mm Hg, PaO2 97 mm Hg, Urine bicarbonate ↑",
+      "zh": "pH 7.34，PaCO2 30 mmHg，PaO2 97 mmHg，尿碳酸氢盐 ↑"
+    },
+    "C": {
+      "en": "pH 7.46, PaCO2 29 mm Hg, PaO2 102 mm Hg, Urine bicarbonate •",
+      "zh": "pH 7.46，PaCO2 29 mmHg，PaO2 102 mmHg，尿碳酸氢盐 •"
+    },
+    "D": {
+      "en": "pH 7.48, PaCO2 44 mm Hg, PaO2 98 mm Hg, Urine bicarbonate •",
+      "zh": "pH 7.48，PaCO2 44 mmHg，PaO2 98 mmHg，尿碳酸氢盐 •"
+    },
+    "E": {
+      "en": "pH 7.60, PaCO2 25 mm Hg, PaO2 94 mm Hg, Urine bicarbonate ↓",
+      "zh": "pH 7.60，PaCO2 25 mmHg，PaO2 94 mmHg，尿碳酸氢盐 ↓"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The normal physiology of pregnancy involves chronic hyperventilation owing to elevated progesterone levels, which stimulate the hypothalamus to increase respiratory drive. Ventilation is increased primarily via increased tidal volume, which is facilitated by increased diaphragmatic excursion and hormone-induced laxity of the intercostal muscles that allows for enlargement of the thoracic cavity (although the expanding uterus displaces the resting position of the diaphragm upward, diaphragmatic excursion is not impaired). A slight increase in respiratory rate also contributes. The hyperventilation of pregnancy creates an expected RESPIRATORY ALKALOSIS (ie, pH >7.45 and partial pressure of carbon dioxide in arterial blood [PaCO2] <40 mm Hg) with metabolic compensation (INCREASED RENAL BICARBONATE [HCO3-] excretion). Arterial oxygenation is also increased slightly above normal (ie, arterial partial pressure of oxygen [PaO2] >100 mm Hg). These changes help facilitate the transport of acidic wastes from, and the transport of oxygen to, the developing fetus.\n\n(Choice A) Low pH (<7.35) with elevated PaCO2 (>40 mm Hg) indicates respiratory acidosis. Urine HCO3- is low as the kidneys increase HCO3- reabsorption for metabolic compensation.\n\n(Choice B) Low pH is not explained by low PaCO2 (<40 mm Hg); therefore, the low PaCO2 likely represents respiratory compensation for metabolic acidosis. Renal loss of HCO3- (ie, high urine HCO3-), as occurs with renal tubular acidosis, is a common cause of metabolic acidosis.\n\n(Choice D) High pH (>7.45) is not explained by elevated PaCO2; therefore, the elevated PaCO2 likely represents respiratory compensation for metabolic alkalosis. Renal retention of HCO3- (ie, low urine HCO3-), as occurs with severe vomiting and diuretic overuse, commonly contributes to metabolic alkalosis.\n\n(Choice E) High pH with low PaCO2 indicates respiratory alkalosis. Urine HCO3- may be low in the acute setting but begins to increase after several hours to provide metabolic compensation (full metabolic compensation requires approximately 72 hours). This patient at 31 weeks gestation will have fully compensated respiratory alkalosis with increased urine HCO3- excretion.",
+    "zh": "妊娠的正常生理机制涉及慢性过度通气，这归因于孕酮水平升高，孕酮刺激下丘脑，增加呼吸驱动。通气主要通过潮气量增加而增加，这由膈肌活动增加和激素诱导的肋间肌松弛所促进，后者允许胸腔扩大（尽管不断扩大的子宫向上位移膈肌的静止位置，但膈肌活动并未受损）。呼吸频率的略微增加也有贡献。妊娠期间的过度通气会产生预期的呼吸性碱中毒（即，pH >7.45，动脉血中二氧化碳分压 [PaCO2] <40 mmHg），并伴有代谢代偿（肾脏碳酸氢盐 [HCO3-] 排泄增加）。动脉血氧合也略高于正常水平（即，动脉血氧分压 [PaO2] >100 mmHg）。这些变化有助于将酸性废物从发育中的胎儿转运，并将氧气转运至发育中的胎儿。\n\n（选项 A）低 pH (<7.35) 伴 PaCO2 升高 (>40 mmHg) 表示呼吸性酸中毒。由于肾脏增加 HCO3- 重吸收以进行代谢代偿，因此尿 HCO3- 偏低。\n\n（选项 B）低 pH 无法用低 PaCO2 (<40 mmHg) 解释；因此，低 PaCO2 可能代表代谢性酸中毒的呼吸代偿。肾脏丢失 HCO3-（即，高尿 HCO3-），如肾小管性酸中毒，是代谢性酸中毒的常见原因。\n\n（选项 D）高 pH (>7.45) 无法用 PaCO2 升高解释；因此，PaCO2 升高可能代表代谢性碱中毒的呼吸代偿。肾脏潴留 HCO3-（即，低尿 HCO3-），如严重呕吐和利尿剂过度使用所致，通常会导致代谢性碱中毒。\n\n（选项 E）高 pH 伴低 PaCO2 表示呼吸性碱中毒。在急性情况下，尿 HCO3- 可能会偏低，但在几个小时后开始增加以提供代谢代偿（完全的代谢代偿需要大约 72 小时）。这位妊娠 31 周的患者将出现完全代偿性呼吸性碱中毒，并伴有尿 HCO3- 排泄增加。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the normal physiological changes in acid-base balance during pregnancy, specifically the development of respiratory alkalosis with metabolic compensation.\n\nTo solve this question, one must recognize that pregnancy leads to hyperventilation and respiratory alkalosis. Then, evaluate the provided laboratory values to identify the pattern consistent with respiratory alkalosis and assess the degree of metabolic compensation indicated by the bicarbonate level.",
+    "zh": "本题考察对妊娠期间酸碱平衡正常生理变化的理解，特别是伴有代谢代偿的呼吸性碱中毒的发展。\n\n为了解决这个问题，必须认识到妊娠会导致过度通气和呼吸性碱中毒。然后，评估提供的实验室值以确定与呼吸性碱中毒一致的模式，并评估由碳酸氢盐水平指示的代谢代偿程度。"
+  },
+  "tags": "Respiratory alkalosis; Pregnancy; Acid-base balance; Hyperventilation; Progesterone; Metabolic compensation; Renal bicarbonate excretion; Arterial blood gases",
+  "category": "Pregnancy",
+  "question_id": "19065",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pregnancy 23\\19065",
+  "extracted_at": "2025-11-05T19:46:36.057070",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:48:44.298393",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

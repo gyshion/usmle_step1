@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 52-year-old woman comes to the office with a 2-month history of skin rash that worsens with sun exposure. Her family says that lately she has become irritable and hostile and has had episodes of disorientation. The patient does not use tobacco or recreational drugs but has been drinking a half bottle of gin daily. Further questioning reveals poor nutritional intake and intermittent diarrhea. The patient restricts her diet for weight control. BMI is 17 kg/m². On examination, she has a well-demarcated, hyperpigmented, scaly rash on the hands, forearms, and upper chest. It is determined that the patient is deficient in a vitamin that is used to synthesize the NAD-coenzyme.",
+    "zh": "一名 52 岁的女性来到诊所，主诉有 2 个月的皮疹病史，在阳光照射下会加重。她的家人说，最近她变得易怒和具有敌意，并且出现过定向力障碍。患者不吸烟，也不使用娱乐性药物，但每天喝半瓶杜松子酒。进一步询问发现营养摄入不足和间歇性腹泻。该患者限制饮食以控制体重。BMI 为 17 kg/m²。检查时，她的手、前臂和上胸部有界限分明、色素沉着过度、鳞屑状皮疹。经确定，该患者缺乏一种用于合成 NAD 辅酶的维生素。"
+  },
+  "question": {
+    "en": "Which of the following substances can also be used as a precursor during production of this coenzyme?",
+    "zh": "以下哪种物质也可以用作该辅酶生产过程中的前体？"
+  },
+  "options": {
+    "A": {
+      "en": "Arginine",
+      "zh": "精氨酸"
+    },
+    "B": {
+      "en": "Carotene",
+      "zh": "胡萝卜素"
+    },
+    "C": {
+      "en": "Cholesterol",
+      "zh": "胆固醇"
+    },
+    "D": {
+      "en": "Orotic acid",
+      "zh": "乳清酸"
+    },
+    "E": {
+      "en": "Phenylalanine",
+      "zh": "苯丙氨酸"
+    },
+    "F": {
+      "en": "Tryptophan",
+      "zh": "色氨酸"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "Pellagra (\"rough skin\" in Italian vernacular) is due to NIACIN DEFICIENCY and is characterized by 3 Ds: dermatitis, diarrhea, and dementia:\n\n*   Dermatitis is bilateral and symmetric on sun-exposed areas of the body and is characterized by rough, thick, scaly skin.\n*   Diarrhea is due to atrophy (and occasional ulceration) of columnar epithelium of the gastrointestinal tract.\n*   Dementia is due to neuronal degeneration in the brain and spinal cord, with lesions like those associated with pernicious anemia.\n\nNiacin (nicotinic acid, or vitamin B3) is an essential component of the coenzymes NAD and NADP, which participate in redox metabolism. Specifically, NAD functions as a coenzyme for dehydrogenases involved in the metabolism of fats, carbohydrates, and amino acids; NADP is crucial in the hexose-monophosphate shunt of glucose metabolism and for biosynthesis of cholesterol and fatty acids.\n\nNiacin can be obtained through dietary intake or synthesized endogenously from TRYPTOPHAN. In developing countries, niacin deficiency is seen in populations that subsist primarily on corn products (niacin in corn occurs in a bound, unabsorbable form). In developed countries, it is primarily seen in patients with impaired nutritional intake (eg, alcohol use disorder, chronic illness). Pellagra can also be seen occasionally in those with carcinoid syndrome, prolonged isoniazid therapy, or Hartnup disease.\n\n(Choice A) Arginine is a nonessential amino acid and a precursor of nitric oxide, urea, ornithine, and agmatine. It is also necessary for the formation of creatine.\n\n(Choice B) Carotene is the precursor to vitamin A. Carotene deficiency may result in night blindness and immune dysfunction.\n\n(Choice C) Cholesterol is the precursor to steroid hormones.\n\n(Choice D) Orotic acid is a precursor of pyrimidine. Hereditary orotic aciduria occurs due to impairment of the enzyme uridine monophosphate synthetase, which synthesizes pyrimidines from orotic acid. The accumulation of orotic acid leads to megaloblastic anemia, developmental delay, and failure to thrive.\n\n(Choice E) Phenylalanine is an essential amino acid and the precursor to tyrosine, an amino acid necessary for the formation of catecholamines. Phenylketonuria (PKU) occurs due to impairment of the enzyme phenylalanine hydroxylase, which synthesizes tyrosine from phenylalanine.\n\nEducational objective:\nNiacin (vitamin B3) can be synthesized endogenously from tryptophan and is an essential component of NAD and NADP. A deficiency of this vitamin results in pellagra, which is characterized by dermatitis, diarrhea, and dementia. {{exhibit_1}} {{exhibit_2}}",
+    "zh": "糙皮病（意大利语中意为“粗糙的皮肤”）是由于 烟酸缺乏 引起的，其特征是 3 个 D：皮炎、腹泻和痴呆：\n\n*   皮炎位于身体的日晒部位，呈双侧对称，其特征是皮肤粗糙、增厚、有鳞屑。\n*   腹泻是由于胃肠道柱状上皮萎缩（偶尔发生溃疡）引起的。\n*   痴呆是由于大脑和脊髓的神经元变性，病变类似于恶性贫血。\n\n烟酸（烟酸或维生素 B3）是辅酶 NAD 和 NADP 的重要组成部分，它们参与氧化还原代谢。具体来说，NAD 是参与脂肪、碳水化合物和氨基酸代谢的脱氢酶的辅酶；NADP 在葡萄糖代谢的己糖单磷酸旁路中以及胆固醇和脂肪酸的生物合成中至关重要。\n\n烟酸可以通过膳食摄入或从 色氨酸 内源性合成。在发展中国家，烟酸缺乏症常见于主要以玉米产品为生的人群（玉米中的烟酸以结合、不可吸收的形式存在）。在发达国家，它主要见于营养摄入受损的患者（例如，酒精使用障碍、慢性疾病）。糙皮病有时也可见于类癌综合征、长期异烟肼治疗或哈特纳普病的患者。\n\n（选项 A）精氨酸是一种非必需氨基酸，是 一氧化氮、尿素、鸟氨酸和精胺丁 的前体。它也是形成肌酸所必需的。\n\n（选项 B）胡萝卜素是维生素 A 的前体。胡萝卜素缺乏症可能导致夜盲症和免疫功能障碍。\n\n（选项 C）胆固醇是类固醇激素的前体。\n\n（选项 D）乳清酸是嘧啶的前体。遗传性乳清酸尿症是由于尿苷单磷酸合成酶受损，该酶从乳清酸合成嘧啶。乳清酸的积累导致巨幼红细胞性贫血、发育迟缓和生长迟缓。\n\n（选项 E）苯丙氨酸是一种必需氨基酸，是酪氨酸的前体，酪氨酸是形成儿茶酚胺所必需的氨基酸。苯丙酮尿症 (PKU) 是由于苯丙氨酸羟化酶受损，该酶从苯丙氨酸合成酪氨酸而发生的。\n\n教学目标：\n烟酸（维生素 B3）可以从色氨酸内源性合成，是 NAD 和 NADP 的重要组成部分。这种维生素缺乏会导致糙皮病，其特征是皮炎、腹泻和痴呆。{{exhibit_1}} {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of pellagra, a condition caused by niacin (vitamin B3) deficiency, and its characteristic symptoms (dermatitis, diarrhea, dementia). It also tests the ability to identify the precursor for endogenous niacin synthesis.\n\nThe key to solving this question is recognizing the symptoms of pellagra in the clinical vignette and recalling that tryptophan is a precursor for niacin synthesis. Understanding the underlying pathophysiology of niacin deficiency and its impact on NAD/NADP coenzymes is also helpful.",
+    "zh": "此题考察对糙皮病的知识，糙皮病是由烟酸（维生素 B3）缺乏引起的疾病，其特征性症状（皮炎、腹泻、痴呆）。它还考察了识别内源性烟酸合成前体的能力。\n\n解决这个问题的关键是识别临床病例文本中糙皮病的症状，并回忆起色氨酸是烟酸合成的前体。了解烟酸缺乏症的潜在病理生理学及其对 NAD/NADP 辅酶的影响也很有帮助。"
+  },
+  "tags": "Pellagra; Niacin deficiency; Vitamin B3; Tryptophan; NAD; NADP; Dermatitis; Diarrhea; Dementia; Nutritional deficiency; Alcohol use disorder",
+  "category": "GIT",
+  "question_id": "1064",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\1064",
+  "extracted_at": "2025-11-05T14:21:46.732553",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:49:45.278650",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

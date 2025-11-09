@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 54-year-old woman comes to the clinic due to difficulty hearing for the past few weeks. During the neurologic examination, the physician assesses her hearing using a vibrating tuning fork. The handle of the tuning fork is placed on her left mastoid process until the sound is no longer audible. The tines are then quickly placed near the patient's left auditory meatus, and she reports hearing no sound. When the handle of the vibrating fork is placed on the middle of her forehead, she hears the vibration more strongly in her left ear than her right.",
+    "zh": "一名54岁女性因过去几周听力困难前来就诊。在神经系统检查期间，医生使用振动的音叉评估她的听力。将音叉柄放在她的左侧乳突上，直到声音不再可听。然后迅速将叉齿放在患者的左侧外耳道附近，她报告没有听到声音。当将振动音叉的柄放在她额头中间时，她感觉振动在她的左耳比右耳更强。"
+  },
+  "question": {
+    "en": "This patient is most likely experiencing which of the following types of hearing loss?",
+    "zh": "该患者最有可能经历以下哪种类型的听力损失？"
+  },
+  "options": {
+    "A": {
+      "en": "Conductive loss in both ears",
+      "zh": "双耳传导性听力损失"
+    },
+    "B": {
+      "en": "Conductive loss in left ear",
+      "zh": "左耳传导性听力损失"
+    },
+    "C": {
+      "en": "Conductive loss in right ear",
+      "zh": "右耳传导性听力损失"
+    },
+    "D": {
+      "en": "Sensorineural loss in both ears",
+      "zh": "双耳感音神经性听力损失"
+    },
+    "E": {
+      "en": "Sensorineural loss in left ear",
+      "zh": "左耳感音神经性听力损失"
+    },
+    "F": {
+      "en": "Sensorineural loss in right ear",
+      "zh": "右耳感音神经性听力损失"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Interpretation of Weber & Rinne tests {{exhibit_1}}\n(involving the cochlea or auditory nerve). The Rinne and Weber tests can be used to help determine the type of hearing loss.\n\nThe Rinne test compares air versus bone conduction (via the mastoid bone). As the vibration of the tuning fork fades, air-conducted sound is normally louder and heard longer than bone-conducted sound. The Rinne test is considered positive (normal) if the sound is heard best at the external auditory meatus (air conduction) and negative (abnormal) if the patient hears the vibration better at the mastoid (bone conduction).\n\n*   Bone conduction greater than air conduction suggests conductive hearing loss.\n\nThe Weber test is performed by placing a vibrating tuning fork on the middle of forehead equidistant from both ears. The vibration carried by bone conduction is normally heard equally in both ears; vibration heard louder in one ear is abnormal.\n\n*   Conductive hearing loss causes lateralization to the affected ear as the conduction deficit masks the ambient noise in the room, allowing the vibration to be better heard.\n*   Sensorineural hearing loss causes lateralization to the unaffected ear as the unimpaired inner ear can better sense the vibration.\n\nThe Rinne test is abnormal in this patient's left ear, and the Weber test lateralizes to her left ear. These findings suggest conductive hearing loss in the left ear.\n\nEducational objective:\nIn conductive hearing loss, bone conduction will be greater than air conduction (abnormal Rinne test), and the Weber test will lateralize to the affected ear. In sensorineural hearing loss, air conduction will be greater than bone conduction (normal Rinne test), and the Weber test will lateralize to the unaffected ear.",
+    "zh": "韦伯和林内测试的解读 {{exhibit_1}}（涉及耳蜗或听神经）。林内和韦伯测试可用于帮助确定听力损失的类型。\n\n林内测试比较空气传导与骨传导（通过乳突骨）。当音叉的振动逐渐减弱时，空气传导的声音通常比骨传导的声音更大且持续时间更长。如果声音在外耳道（空气传导）处听得最清楚，则林内测试被认为是阳性（正常）；如果患者在乳突（骨传导）处听到振动更好，则为阴性（异常）。\n\n*   骨传导大于空气传导提示传导性听力损失。\n\n韦伯测试通过将振动的音叉放在额头中间，与双耳等距进行。通过骨传导传递的振动通常在双耳中均匀听到；在一只耳朵中听到的振动更大则为异常。\n\n*   传导性听力损失会导致侧向患耳，因为传导缺陷掩盖了房间中的环境噪音，从而使振动更容易听到。\n*   感音神经性听力损失会导致侧向未受影响的耳朵，因为未受损的内耳可以更好地感知振动。\n\n该患者的左耳林内测试异常，韦伯测试偏向她的左耳。这些发现提示左耳传导性听力损失。\n\n教育目标：\n在传导性听力损失中，骨传导将大于空气传导（林内测试异常），韦伯测试将偏向患耳。在感音神经性听力损失中，空气传导将大于骨传导（林内测试正常），韦伯测试将偏向未受影响的耳朵。"
+  },
+  "summary": {
+    "en": "This question tests the interpretation of Weber and Rinne tests to differentiate between conductive and sensorineural hearing loss. It requires understanding how sound lateralizes in each type of hearing loss during the Weber test and the comparison of air and bone conduction in the Rinne test. \n\nTo solve this question, analyze the Weber and Rinne test results provided in the vignette. Determine if the Weber test lateralizes to one ear and whether the Rinne test indicates better bone conduction than air conduction. Match these findings to the characteristics of conductive or sensorineural hearing loss to arrive at the correct diagnosis.",
+    "zh": "此题考察韦伯和林内测试的解读，以区分传导性和感音神经性听力损失。它需要理解在韦伯测试中声音如何在每种类型的听力损失中偏向，以及林内测试中空气和骨传导的比较。\n\n要解决此问题，请分析短案例中提供的韦伯和林内测试结果。确定韦伯测试是否偏向一只耳朵，以及林内测试是否表明骨传导优于空气传导。将这些发现与传导性或感音神经性听力损失的特征相匹配，以得出正确的诊断。"
+  },
+  "tags": "Weber test; Rinne test; Conductive hearing loss; Sensorineural hearing loss; Audiology; Otolaryngology; Hearing assessment",
+  "category": "ENT",
+  "question_id": "8589",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\ENT 23\\8589",
+  "extracted_at": "2025-11-05T14:15:10.712601",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:45:20.066174",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

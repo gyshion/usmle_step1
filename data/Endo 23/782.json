@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 6-year-old boy is brought to the emergency department after a traumatic fall from his bicycle. Physical examination shows a large laceration over his left leg that is irrigated and closed with sutures. While he is receiving care, a routine blood draw shows milky plasma that forms a creamy-appearing supernatant upon standing. Further testing shows that his plasma lipoprotein lipase activity measured after intravenous heparin administration is substantially lower than normal. If his condition remains untreated, this patient is most likely to develop which of the following features? {{exhibit_1}}",
+    "zh": "一名6岁男孩因从自行车上摔倒而外伤性跌倒被带到急诊科。体格检查显示其左腿大面积撕裂伤，已用缝线冲洗和缝合。在接受治疗期间，一项常规抽血检查显示血浆呈乳白色，静置后形成奶油状上清液。进一步检测显示，静脉注射肝素后测得的血浆脂蛋白脂酶活性远低于正常水平。如果他的病情未得到治疗，该患者最有可能出现以下哪种特征？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "If his condition remains untreated, this patient is most likely to develop which of the following features?",
+    "zh": "如果他的病情未得到治疗，该患者最有可能出现以下哪种特征？"
+  },
+  "options": {
+    "A": {
+      "en": "Acute pancreatitis",
+      "zh": "急性胰腺炎"
+    },
+    "B": {
+      "en": "Intellectual disability",
+      "zh": "智力障碍"
+    },
+    "C": {
+      "en": "Myocardial infarction",
+      "zh": "心肌梗死"
+    },
+    "D": {
+      "en": "Tendon xanthomas",
+      "zh": "肌腱黄瘤"
+    },
+    "E": {
+      "en": "Xanthelasmas",
+      "zh": "睑黄瘤"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has FAMILIAL CHYLOMICRONEMIA SYNDROME (type 1 hyperlipoproteinemia), an autosomal recessive condition most often caused by LIPOPROTEIN LIPASE (LPL) deficiency. LPL is normally bound to heparan sulfate moieties on the vascular endothelium, allowing it to interact with chylomicrons and VLDL in the circulation and release free fatty acids into the adjacent tissues. Heparin administration releases these endothelium-bound lipases, allowing LPL activity to be measured in the laboratory. Without sufficient LPL activity, the body is unable to clear dietary lipid loads due to defective hydrolysis of serum triglycerides (especially chylomicrons).\n\nPatients with familial chylomicronemia syndrome present in childhood with marked HYPERTRIGLYCERIDEMIA, recurrent ACUTE PANCREATITIS, lipemia retinalis (milky-appearing retinal vasculature), and eruptive xanthomas (small yellowish papules surrounded by erythema found mainly on extensor surfaces).\n\n(Choice B) The familial hyperlipoproteinemias are not associated with intellectual disability.\n\n(Choices C, D, and E) Accelerated coronary artery disease, tendon xanthomas (nodular lipid deposits in the tendons, particularly the Achilles), and xanthelasmas are seen in familial hypercholesterolemia, a condition caused by defects in the LDL receptor or its ligand, ApoB-100. As LDL is mainly cleared from the circulation by receptor-mediated uptake in the liver, individuals with familial hypercholesterolemia have dramatically elevated LDL concentrations.\n\nEducational objective:\nFamilial chylomicronemia syndrome frequently presents in childhood with recurrent episodes of acute pancreatitis. Patients with this disorder are not usually at increased risk for premature coronary artery disease. Eruptive skin xanthomas may be present in hypertriglyceridemia, but tendon xanthomas and xanthelasmas are primarily seen with hypercholesterolemia.",
+    "zh": "该患者患有家族性乳糜微粒血症综合征（1型高脂蛋白血症），这是一种常由脂蛋白脂酶 (LPL) 缺乏引起的常染色体隐性遗传病。 LPL 通常与血管内皮上的肝素硫酸盐部分结合，使其能够与循环中的乳糜微粒和 VLDL 相互作用，并将游离脂肪酸释放到邻近组织中。 肝素给药释放这些与内皮结合的脂肪酶，从而可以在实验室中测量 LPL 活性。 如果 LPL 活性不足，由于血清甘油三酯（尤其是乳糜微粒）水解缺陷，身体将无法清除膳食脂质负荷。\n\n家族性乳糜微粒血症综合征患者在儿童时期表现为明显的血脂异常，反复发作的急性胰腺炎，视网膜脂血症（乳白色视网膜血管）和爆发性黄瘤（主要位于伸肌表面的被红斑包围的小黄色丘疹）。\n\n（选项 B） 家族性高脂蛋白血症与智力障碍无关。\n\n（选项 C、D 和 E） 家族性高胆固醇血症可见加速性冠状动脉疾病、肌腱黄瘤（肌腱中的结节性脂质沉积物，特别是跟腱）和睑黄瘤，这是一种由 LDL 受体或其配体 ApoB-100 缺陷引起的疾病。 由于 LDL 主要通过肝脏中的受体介导的摄取从循环中清除，因此家族性高胆固醇血症患者的 LDL 浓度会显着升高。\n\n教育目标：\n家族性乳糜微粒血症综合征常在儿童时期表现为反复发作的急性胰腺炎。 患有这种疾病的患者通常不会增加早发性冠状动脉疾病的风险。 爆发性皮肤黄瘤可能存在于高甘油三酯血症中，但肌腱黄瘤和睑黄瘤主要见于高胆固醇血症。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of inherited hyperlipoproteinemias, specifically familial chylomicronemia syndrome (type 1) and its clinical manifestations. It requires recognizing the association between lipoprotein lipase deficiency, hypertriglyceridemia, and the characteristic presentation of acute pancreatitis in childhood.\n\nThe key to solving this question is identifying the patient's underlying condition based on the milky plasma, low lipoprotein lipase activity after heparin, and then recalling the typical features of familial chylomicronemia syndrome, which include acute pancreatitis, lipemia retinalis, and eruptive xanthomas.",
+    "zh": "此题考察对遗传性高脂蛋白血症的了解，特别是家族性乳糜微粒血症综合征（1型）及其临床表现。 它需要认识到脂蛋白脂酶缺乏症、高甘油三酯血症与儿童时期急性胰腺炎的特征性表现之间的关联。\n\n解决此题的关键是根据乳白色血浆、肝素后脂蛋白脂酶活性低，确定患者的潜在病症，然后回忆家族性乳糜微粒血症综合征的典型特征，包括急性胰腺炎、视网膜脂血症和爆发性黄瘤。"
+  },
+  "tags": "Familial chylomicronemia syndrome; Hyperlipoproteinemia; Lipoprotein lipase deficiency; Acute pancreatitis; Lipemia retinalis; Eruptive xanthomas; Dyslipidemia; Metabolic disorders; Pediatrics",
+  "category": "Endo",
+  "question_id": "782",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\782",
+  "extracted_at": "2025-11-05T14:10:50.921361",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:43:00.193681",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

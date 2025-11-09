@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 38-year-old woman comes to the emergency department due to severe abdominal pain and delivers a stillborn neonate who is missing a large portion of the scalp and skull, partially exposing the brain, which is also only partially formed. The patient did not know she was pregnant and had no prenatal care. Medical history is significant for bipolar disorder and chronic hypertension. Interview of the patient reveals pressured and tangential speech, and she states that she takes certain prescription medications when she remembers but cannot identify which ones. If used during pregnancy, which of the following substances most likely contributed to this neonate's abnormalities?",
+    "zh": "一名38岁的女性因剧烈腹痛来到急诊科，并分娩出一名死产新生儿，其头皮和颅骨缺失大部分，部分暴露大脑，大脑也仅部分形成。患者不知道自己怀孕，也没有接受产前护理。病史显示有双相情感障碍和慢性高血压。对患者的访谈显示其言语急促且跳跃，她说她记得的时候会服用某些处方药，但无法识别是哪些药。如果在怀孕期间使用，以下哪种物质最有可能导致这名新生儿的畸形？"
+  },
+  "question": {
+    "en": "If used during pregnancy, which of the following substances most likely contributed to this neonate's abnormalities?",
+    "zh": "如果在怀孕期间使用，以下哪种物质最有可能导致这名新生儿的畸形？"
+  },
+  "options": {
+    "A": {
+      "en": "ACE inhibitor",
+      "zh": "血管紧张素转换酶抑制剂"
+    },
+    "B": {
+      "en": "Alcohol",
+      "zh": "酒精"
+    },
+    "C": {
+      "en": "Heroin",
+      "zh": "海洛因"
+    },
+    "D": {
+      "en": "Isotretinoin",
+      "zh": "异维A酸"
+    },
+    "E": {
+      "en": "Lithium",
+      "zh": "锂"
+    },
+    "F": {
+      "en": "Valproate",
+      "zh": "丙戊酸"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "This newborn has anencephaly, a severe neural tube defect (NTD) characterized by the absence of the forebrain and major portions of the scalp and skull. NTDs are caused by defective primary neurulation, an embryonic process in which the neural tube folds in the midline to create the neural tube. Fusion starts in the cervical region and extends rostrally and caudally to the anterior and posterior neuropores, respectively. Failure of anterior (rostral) neuropore closure results in anencephaly, whereas failure of posterior (caudal) neuropore closure results in an open spinal dysraphism (eg, myelomeningocele).\n\nMost isolated NTDs are related to folate (vitamin B9) deficiency (eg, poor dietary intake). Folate supplementation is recommended for all women of childbearing age because the neural tube develops during the first few weeks of pregnancy, a time when most women are unaware of their pregnancy.\n\nIn addition to insufficient dietary folate, first-trimester use of medications that impair folate metabolism is associated with a 10- to 20-fold increased risk of NTDs. These medications include valproate, which is typically prescribed for bipolar disorder (likely in this patient) or epilepsy. Other medications that impair folate metabolism and are contraindicated in pregnancy include methotrexate and trimethoprim-sulfamethoxazole.\n\n(Choices A, D, and E) ACE inhibitors, isotretinoin, and lithium are contraindicated in pregnancy due to teratogenic effects. ACE inhibitors can cause fetal renal damage, lithium use is associated with increased incidence of Ebstein anomaly, and isotretinoin is a potent teratogen that can cause a multitude of defects (eg, microcephaly, ear/facial deformities, cardiac defects). However, use of these substances during pregnancy is not associated with NTDs.\n\n(Choices B and C) Alcohol use is associated with fetal alcohol syndrome, which includes a smooth philtrum, thin upper lip, and small palpebral fissures. Heroin or other opiate use during pregnancy can lead to withdrawal in the infant postnatally (neonatal abstinence syndrome). NTDs are not associated with prenatal alcohol or opiate use.\n\nEducational objective:\nFailure of neural tube closure results in neural tube defects (eg, anencephaly, meningomyelocele). Folate deficiency is the greatest risk factor for neural tube defects. Folate metabolism impairment (eg, valproate) are associated with an increased risk.",
+    "zh": "这名新生儿患有无脑畸形，这是一种严重的神经管缺陷 (NTD)，其特征是前脑和大部分头皮和颅骨缺失。NTD 是由初级神经胚胎发生缺陷引起的，这是一种胚胎过程，其中神经管在中线处折叠以形成神经管。融合从颈部区域开始，并分别向头端和尾端延伸到前神经孔和后神经孔。前（头端）神经孔闭合失败导致无脑畸形，而后（尾端）神经孔闭合失败导致开放性脊柱裂（例如，脊髓脊膜膨出）。\n\n大多数孤立的 NTD 与叶酸（维生素 B9）缺乏症相关（例如，膳食摄入不足）。建议所有育龄妇女补充叶酸，因为神经管在怀孕的最初几周发育，而此时大多数妇女并不知道自己怀孕。\n\n除了膳食叶酸不足外，孕早期使用损害叶酸代谢的药物与 NTD 的风险增加 10 至 20 倍相关。这些药物包括丙戊酸，通常用于治疗双相情感障碍（在这位患者中可能）或癫痫。其他会损害叶酸代谢且在怀孕期间禁用的药物包括甲氨蝶呤和复方磺胺甲噁唑。\n\n（选项 A、D 和 E）ACE 抑制剂、异维A酸和锂因致畸作用而在怀孕期间禁用。ACE 抑制剂可导致胎儿肾损伤，锂的使用与 Ebstein 畸形的发病率增加有关，异维A酸是一种有效的致畸剂，可导致多种缺陷（例如，小头畸形、耳朵/面部畸形、心脏缺陷）。然而，在怀孕期间使用这些物质与 NTD 无关。\n\n（选项 B 和 C）饮酒与胎儿酒精综合征相关，其中包括人中平滑、上唇薄和睑裂小。怀孕期间使用海洛因或其他鸦片类药物会导致婴儿产后戒断（新生儿戒断综合征）。NTD 与产前饮酒或鸦片类药物使用无关。\n\n教育目标：\n神经管闭合失败会导致神经管缺陷（例如，无脑畸形、脑膜膨出）。叶酸缺乏是神经管缺陷的最大危险因素。叶酸代谢受损（例如，丙戊酸）与风险增加相关。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of teratogenic medications and their association with neural tube defects, specifically anencephaly. It highlights the importance of folate metabolism and the risks associated with certain anticonvulsant and mood-stabilizing drugs during early pregnancy.\n\nTo solve this question, one must identify the specific neural tube defect described, recall the common causes of NTDs including folate deficiency and medications that interfere with folate metabolism, and then match the patient's likely medication (given her history of bipolar disorder) to the teratogen most strongly associated with the observed defect.",
+    "zh": "这个问题测试了对致畸药物及其与神经管缺陷（特别是无脑畸形）的关联的理解。它强调了叶酸代谢的重要性以及与孕早期某些抗惊厥药和情绪稳定剂相关的风险。\n\n要解决这个问题，必须确定所描述的特定神经管缺陷，回忆 NTD 的常见原因，包括叶酸缺乏和干扰叶酸代谢的药物，然后将患者可能的药物（鉴于她有双相情感障碍病史）与与观察到的缺陷最密切相关的致畸物相匹配。"
+  },
+  "tags": "Neural tube defects; Anencephaly; Teratogens; Valproate; Folate metabolism; Pregnancy; Bipolar disorder; Embryology",
+  "category": "Neuro",
+  "question_id": "496",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\496",
+  "extracted_at": "2025-11-05T19:40:14.462604",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:40:57.229388",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man comes to the hospital due to difficulty swallowing, dry mouth, and blurred vision that began several hours ago. Examination shows mydriasis and poorly reactive pupils. Elect диагностические studies reveal normal nerve conduction velocity but decreased compound muscle action potential (CMAP). Rapid, repetitive nerve stimulation leads to facilitation of CMAP. Further review of this patient's medical history would most likely reveal which of the following? {{exhibit_1}}",
+    "zh": "一名34岁男性因吞咽困难、口干和视力模糊就诊，这些症状开始于数小时前。检查显示瞳孔散大且对光反应迟钝。电生理研究显示神经传导速度正常，但复合肌肉动作电位（CMAP）降低。快速重复神经刺激导致CMAP易化。进一步回顾该患者的病史，最有可能揭示以下哪一项？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Further review of this patient's medical history would most likely reveal which of the following?",
+    "zh": "进一步回顾该患者的病史，最有可能揭示以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Consumption of home-canned food",
+      "zh": "食用家庭自制罐头食品"
+    },
+    "B": {
+      "en": "Diarrheal disease after eating undercooked poultry",
+      "zh": "食用未煮熟家禽后出现腹泻"
+    },
+    "C": {
+      "en": "Episodic diplopia and ptosis",
+      "zh": "阵发性复视和眼睑下垂"
+    },
+    "D": {
+      "en": "Occupational exposure to insecticides",
+      "zh": "职业性杀虫剂暴露"
+    },
+    "E": {
+      "en": "Recent consumption of puffer fish",
+      "zh": "近期食用河豚"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's combined nicotinic (eg, diplopia, dysphagia) and muscarinic blockade (eg, dry mouth) is suggestive of IMPAIRED ACETYLCHOLINE RELEASE (in contrast, receptor blockade typically affects muscarinic or nicotinic acetylcholine receptors). This mechanism is characteristic of botulinum toxin, a highly potent preformed neurotoxin that cleaves the SNARE proteins that mediate vesicle fusion within presynaptic acetylcholine nerve terminals.\n\nThe anaerobic environment within certain foods that are fermented, preserved, or canned at home (where improper processing can lead to contamination by viable Clostridium botulinum spores) allows for germination and growth of the organism, with subsequent toxin production by vegetative bacteria. The toxin is readily destroyed by heat; however, if food containing the toxin is not cooked properly, the classic findings of diplopia, dysphagia, and dysphonia (\"3 Ds\") can develop within 12-36 hours of consumption.\n\nNeuromuscular effects of botulinum toxin can be seen on electromyography as decrease in the compound muscle action potential (CMAP, or electrical response of the muscle) following stimulation of a motor nerve. However, high-rate, repetitive nerve stimulation improves the deficit because a rapid depolarization rate increases calcium concentration in the presynaptic nerve terminal, helping mobilize additional acetylcholine vesicles. {{exhibit_2}}\n\n(Choice B) Guillain-Barré syndrome is an autoimmune demyelinating disorder classically triggered after Campylobacter jejuni infection and characterized by ascending progressive symmetric weakness with absent reflexes. Because it results from reduced nerve conduction due to autoimmune demyelination, repetitive stimulation would not overcome the deficit in CMAP.\n\n(Choice C) Episodic diplopia and ptosis are particularly characteristic of myasthenia gravis, which affects postsynaptic nicotinic receptors; muscarinic symptoms (eg, dry mouth, mydriasis) are not characteristic (CMAP would also worsen with repetitive nerve stimulation). Although Lambert-Eaton syndrome can present with muscarinic symptoms and improved CMAP with repetitive nerve stimulation, the initial weakness typically involves the proximal extremities (particularly legs). In addition, neither condition would present so acutely.\n\n(Choice D) Poisoning due to organophosphates (acetylcholinesterase inhibitors) used in insecticides reflects depolarizing blockade (muscle weakness, fasciculations, paralysis), CNS effects (lethargy, seizures), and muscarinic overstimulation (miosis, bradycardia, increased lacrimation and salivation).\n\n(Choice E) Tetrodotoxin poisoning (due to contaminated puffer fish ingestion) leads to inhibition of sodium influx into nerve cells. Manifestations include weakness, paresthesia (face, extremities), loss of reflexes, and sometimes severe hypotension. Patients commonly remain conscious although paralyzed.\n\nEducational objective:\nBotulinum neurotoxin produced by Clostridium botulinum prevents the release of acetylcholine from presynaptic nerve terminals. The toxin impairs peripheral muscarinic and nicotinic neurotransmission, causing both autonomic symptoms and skeletal muscle weakness. Electromyography reveals a decrease in muscle contraction that improves with high-frequency repetitive stimulation. {{exhibit_3}}",
+    "zh": "该患者的nicotinic（如复视、吞咽困难）和毒蕈碱受体阻断（如口干）相结合，提示乙酰胆碱释放受损（相比之下，受体阻断通常影响毒蕈碱或烟碱型乙酰胆碱受体）。这种机制是肉毒杆菌毒素的特征，肉毒杆菌毒素是一种高度有效的预制神经毒素，它切割介导突触前乙酰胆碱神经末梢内囊泡融合的SNARE蛋白。\n\n在某些发酵、保藏或在家中罐装的食物中（不正确的加工可能导致被活的肉毒梭菌孢子污染），厌氧环境允许生物体萌发和生长，随后由营养型细菌产生毒素。该毒素很容易被热破坏；然而，如果含有毒素的食物没有经过适当的烹饪，则可在食用后12-36小时内出现复视、吞咽困难和发音障碍（“3个D”）的典型表现。\n\n肉毒杆菌毒素的神经肌肉效应可在肌电图上看到，表现为刺激运动神经后复合肌肉动作电位（CMAP，或肌肉的电反应）降低。然而，高频重复神经刺激可以改善这种缺陷，因为快速去极化率增加了突触前神经末梢中的钙浓度，有助于动员额外的乙酰胆碱囊泡。 {{exhibit_2}}\n\n（选项B）格林-巴利综合征是一种自身免疫性脱髓鞘疾病，通常在空肠弯曲菌感染后被触发，其特征是进行性对称性无力，伴有反射消失。由于其源于自身免疫性脱髓鞘引起的神经传导减慢，重复刺激无法克服CMAP的缺陷。\n\n（选项C）阵发性复视和眼睑下垂是重症肌无力的特征，重症肌无力影响突触后烟碱型受体；毒蕈碱样症状（例如，口干、瞳孔散大）不是其特征（重复神经刺激时CMAP也会恶化）。虽然Lambert-Eaton综合征可表现出毒蕈碱样症状，并在重复神经刺激时CMAP改善，但最初的无力通常涉及近端肢体（特别是腿部）。此外，这两种情况都不会如此急性发病。\n\n（选项D）因杀虫剂中有机磷酸盐（乙酰胆碱酯酶抑制剂）中毒反映去极化阻断（肌肉无力、肌束颤动、麻痹）、中枢神经系统效应（嗜睡、癫痫发作）和毒蕈碱过度刺激（缩瞳、心动过缓、泪液和唾液分泌增加）。\n\n（选项E）河豚毒素中毒（由于摄入了受污染的河豚）会导致钠内流到神经细胞中。表现包括无力、感觉异常（面部、四肢）、反射消失，有时还出现严重的低血压。患者通常保持清醒，尽管瘫痪。\n\n教育目标：\n肉毒梭菌产生的肉毒杆菌神经毒素阻止乙酰胆碱从突触前神经末梢释放。该毒素损害周围毒蕈碱和烟碱型神经传递，引起自主神经症状和骨骼肌无力。肌电图显示肌肉收缩减少，通过高频重复刺激可改善。 {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of botulism presentation, pathophysiology, and diagnosis. It requires recognizing the classic symptoms and understanding the mechanism of action of botulinum toxin on neuromuscular transmission.\n\nTo solve this question, identify the key symptoms (dysphagia, dry mouth, blurred vision, mydriasis), recognize the EMG findings (decreased CMAP with facilitation on repetitive stimulation), and associate these with the most likely cause: botulism from improperly canned food.",
+    "zh": "本题考察对肉毒杆菌中毒的表现、病理生理学和诊断的知识。它要求识别典型症状并了解肉毒杆菌毒素对神经肌肉传递的作用机制。\n\n要解决这个问题，需要识别关键症状（吞咽困难、口干、视力模糊、瞳孔散大），识别肌电图结果（CMAP降低，重复刺激时易化），并将这些症状与最可能的原因联系起来：食用不当罐头食品引起的肉毒杆菌中毒。"
+  },
+  "tags": "Botulism; Clostridium botulinum; Neuromuscular junction; Acetylcholine; Food poisoning; Electromyography; Mydriasis; Dysphagia; Toxin; Neurology",
+  "category": "Neuro",
+  "question_id": "1399",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1399",
+  "extracted_at": "2025-11-05T15:15:46.917432",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:19:17.783765",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

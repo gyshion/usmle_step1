@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old woman comes to the office due to slowly progressive dyspnea on exertion and cough productive of white-yellow sputum over the past several years. She has a history of rheumatoid arthritis and seasonal allergies. The patient has smoked a pack of cigarettes daily for 40 years. Blood pressure is 135/80 mm Hg and pulse is 76/min. Lung examination demonstrates bilateral expiratory wheezes, and chest x-ray reveals hyperinflated lungs. Pulmonary function test results are as follows: {{exhibit_1}}",
+    "zh": "一名63岁的女性因过去几年逐渐加重的劳力性呼吸困难和咳出白色-黄色痰液而前来就诊。她有类风湿性关节炎和季节性过敏史。患者每天吸烟一包，已持续40年。血压为135/80 mm Hg，脉搏为76次/分钟。肺部检查显示双侧呼气性喘鸣，胸部X光片显示肺过度充气。肺功能检查结果如下：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following cell types likely contributed the most to this patient's decline in pulmonary function?",
+    "zh": "以下哪种细胞类型最有可能导致该患者肺功能的下降？"
+  },
+  "options": {
+    "A": {
+      "en": "B lymphocytes",
+      "zh": "B淋巴细胞"
+    },
+    "B": {
+      "en": "CD4+ T lymphocytes",
+      "zh": "CD4+ T淋巴细胞"
+    },
+    "C": {
+      "en": "Eosinophils",
+      "zh": "嗜酸性粒细胞"
+    },
+    "D": {
+      "en": "Mast cells",
+      "zh": "肥大细胞"
+    },
+    "E": {
+      "en": "Neutrophils",
+      "zh": "中性粒细胞"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient with dyspnea, productive cough, and an obstructive pattern on pulmonary function testing—in the setting of a prolonged smoking history—likely has CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD). COPD is characterized by chronic airway inflammation, which results in both parenchymal destruction (emphysema) and remodeling of the airways (chronic bronchitis).\n\nThe primary cell lines that are increased in the airways of patients with COPD are NEUTROPHILS, MACROPHAGES, and CD8- T lymphocytes. These cells release cytotoxic enzymes and proteases that cause alveolar damage, reduced ciliary motion, and increased mucus secretion by goblet cells. Although more abundant, the infiltrating inflammatory cells show impaired ability to phagocytize bacterial pathogens, contributing to increased risk of respiratory infections such as community-acquired pneumonia.\n\n(Choice A) The involvement of B lymphocytes in COPD pathogenesis is controversial; however, they do not appear to have a major role, and their increased numbers may actually be protective against bacterial colonization.\n\n(Choice B) Although CD4+ T lymphocytes are slightly increased in COPD, their numbers and pathologic role are much less significant than those of CD8- T lymphocytes; CD4+ T lymphocytes (in particular TH2 cells) play a more important role in asthma pathogenesis.\n\n(Choice C) Eosinophils play an important role in asthma but do not appear to have a major impact in COPD. Their increased presence in patients with COPD may indicate coexisting asthma.\n\n(Choice D) Patients with mast cell disorders can have flushing, abdominal discomfort, and respiratory symptoms such as dyspnea and wheezing due to bronchoconstriction. However, mast cells do not play an important role in the pathogenesis of COPD.",
+    "zh": "该患者出现呼吸困难、咳痰，且肺功能检查呈阻塞性模式——在长期吸烟史的背景下——很可能患有慢性阻塞性肺病(COPD)。 COPD的特征是慢性气道炎症，导致肺实质破坏（肺气肿）和气道重塑（慢性支气管炎）。\n\n在COPD患者的气道中，主要增加的细胞类型是中性粒细胞、巨噬细胞和CD8- T淋巴细胞。 这些细胞释放细胞毒性酶和蛋白酶，导致肺泡损伤、纤毛运动减少和杯状细胞分泌的粘液增加。 虽然浸润的炎症细胞数量更多，但其吞噬细菌病原体的能力受损，导致社区获得性肺炎等呼吸道感染的风险增加。\n\n（选项A）B淋巴细胞参与COPD发病机制存在争议； 然而，它们似乎没有主要作用，并且其数量增加实际上可能对细菌定植具有保护作用。\n\n（选项B）尽管CD4+ T淋巴细胞在COPD中略有增加，但其数量和病理作用远不如CD8- T淋巴细胞； CD4+ T淋巴细胞（特别是TH2细胞）在哮喘发病机制中起着更重要的作用。\n\n（选项C）嗜酸性粒细胞在哮喘中起重要作用，但在COPD中似乎没有重大影响。 它们在COPD患者中的增加可能表明合并哮喘。\n\n（选项D）患有肥大细胞疾病的患者可能会因支气管收缩而出现潮红、腹部不适和呼吸道症状，如呼吸困难和喘息。 然而，肥大细胞在COPD的发病机制中不起重要作用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of chronic obstructive pulmonary disease (COPD), specifically the inflammatory cell types involved in its pathogenesis. It requires understanding the role of neutrophils, macrophages, and CD8+ T lymphocytes in causing alveolar damage and airway remodeling.\n\nTo solve this question, recognize the clinical presentation of COPD based on smoking history, dyspnea, productive cough, and obstructive pulmonary function tests. Then, recall the key inflammatory cells involved in COPD pathogenesis, focusing on neutrophils as the most prominent contributor.",
+    "zh": "本题考察对慢性阻塞性肺病（COPD）病理生理学的了解，特别是参与其发病机制的炎症细胞类型。 需要了解中性粒细胞、巨噬细胞和CD8+ T淋巴细胞在引起肺泡损伤和气道重塑中的作用。\n\n要解决这个问题，首先要根据吸烟史、呼吸困难、咳痰和阻塞性肺功能检查来识别COPD的临床表现。 然后，回忆参与COPD发病机制的关键炎症细胞，重点关注中性粒细胞作为最主要的贡献者。"
+  },
+  "tags": "Chronic obstructive pulmonary disease; COPD; Neutrophils; Macrophages; CD8+ T lymphocytes; Pulmonary function tests; Respiratory system; Inflammation; Emphysema; Chronic bronchitis",
+  "category": "Chest",
+  "question_id": "12082",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\12082",
+  "extracted_at": "2025-11-05T11:36:32.674465",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:33:39.584586",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "An 8-month-old girl is brought to the emergency department due to fussiness. Symptoms began about 4 hours ago, and the patient has vomited several times. The parents state that the vomitus is dark green but nonbloody. The patient was born at term via spontaneous vaginal delivery after an uncomplicated pregnancy. She has no known medical conditions and normally consumes breast milk and pureed foods. Examination demonstrates abdominal distension. Abdominal imaging is shown in the exhibit {{exhibit_1}}. Surgical intervention is needed in this patient to prevent ischemia to structures supplied by which of the following?",
+    "zh": "一名8个月大的女孩因烦躁不安被送往急诊科。症状大约在4小时前开始，并且患者已经呕吐了几次。父母陈述呕吐物呈深绿色，但没有血迹。患者足月经阴道自然分娩，妊娠过程无并发症。她没有已知的病史，通常食用母乳和泥状食物。检查显示腹部膨胀。腹部影像学检查见附图 {{exhibit_1}}。 这名患者需要进行手术干预以防止哪些结构缺血？"
+  },
+  "question": {
+    "en": "Surgical intervention is needed in this patient to prevent ischemia to structures supplied by which of the following?",
+    "zh": "该患者需要手术干预以防止哪些结构缺血？"
+  },
+  "options": {
+    "A": {
+      "en": "Common hepatic artery",
+      "zh": "肝总动脉"
+    },
+    "B": {
+      "en": "Inferior mesenteric artery",
+      "zh": "肠系膜下动脉"
+    },
+    "C": {
+      "en": "Left gastric artery",
+      "zh": "胃左动脉"
+    },
+    "D": {
+      "en": "Splenic artery",
+      "zh": "脾动脉"
+    },
+    "E": {
+      "en": "Superior mesenteric artery",
+      "zh": "肠系膜上动脉"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient with bilious (dark green) emesis has midgut malrotation, as evidenced by the upper gastrointestinal series (sequential x-ray studies obtained after ingestion of radiopaque contrast) revealing proximal small bowel loops on the right side of the abdomen {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}.\n\nNormally, at 4-8 weeks gestation, the rapidly growing midgut physiologically herniates through the umbilical ring and rotates 90 degrees counterclockwise; the midgut then returns to the abdominal cavity and rotates an additional 180 degrees counterclockwise. This rotation allows for appropriate positioning of the bowel loops within the abdomen to create a wide mesenteric base that extends from the duodenojejunal flexure in the left upper quadrant to the cecum in the right lower quadrant.\n\nIncomplete rotation causes midgut malrotation. Pathologic anatomic findings include the following:\n\n*   The duodenojejunal flexure and jejunal loops lie on the right (instead of the left) side of the abdomen\n*   The partially rotated cecum still lies within the right side of the abdomen but in the mid to upper quadrants and is held in place by fibrous bands (Ladd bands) crossing the duodenum. This results in a narrow mesenteric base that is abnormally mobile.\n\nThis mobility permits twisting around the SUPERIOR MESENTERIC ARTERY (SMA), or midgut volvulus, that can lead to life-threatening bowel ischemia and necrosis involving the intestinal segments that the SMA perfuses (ie, distal duodenum to proximal transverse colon). The most common presenting symptom is bilious emesis and management is prompt surgical correction.\n\n(Choices A, C, and D) The common hepatic, left gastric, and splenic arteries do not supply the intestines and are not involved in midgut volvulus.\n\n(Choice B) The inferior mesenteric artery supplies the hindgut (distal transverse colon to rectum).\n\nEducational objective:\n\nIntestinal malrotation occurs when the midgut undergoes incomplete physiologic rotation in utero. A life-threatening complication of malrotation is midgut volvulus, in which the small intestines twist around the superior mesenteric artery due to the abnormally mobile mesenteric base. Patients have bilious emesis, and an upper gastrointestinal series typically shows proximal small intestinal loops on the right side of the abdomen.",
+    "zh": "这位有胆汁性（深绿色）呕吐的患者患有中肠旋转不良，这可以通过上消化道系列检查（摄入不透射线的造影剂后获得的连续X射线研究）证明，该检查显示腹部右侧的近端小肠袢 {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}。\n\n正常情况下，在妊娠4-8周时，快速生长的中肠生理性地通过脐环疝出，并逆时针旋转90度；然后中肠返回腹腔，再逆时针旋转180度。这种旋转使得肠袢在腹部内适当定位，从而形成一个宽阔的肠系膜基底，该基底从左上象限的十二指肠空肠曲延伸到右上象限的盲肠。\n\n不完全旋转会导致中肠旋转不良。病理解剖学发现包括以下内容：\n\n*   十二指肠空肠曲和空肠袢位于腹部的右侧（而不是左侧）\n*   部分旋转的盲肠仍然位于腹部的右侧，但在中上象限，并由穿过十二指肠的纤维带（Ladd带）固定。这导致了狭窄的肠系膜基底异常活动。\n\n这种活动性允许围绕肠系膜上动脉 (SMA) 或中肠扭转发生扭转，这可能导致危及生命的肠缺血和坏死，涉及SMA灌注的肠段（即，远端十二指肠到近端横结肠）。最常见的表现症状是胆汁性呕吐，并且需要及时进行手术矫正。\n\n（选项A、C和D）肝总动脉、胃左动脉和脾动脉不供应肠道，并且不参与中肠扭转。\n\n（选项B）肠系膜下动脉供应后肠（远端横结肠到直肠）。\n\n教育目标：\n\n当妊娠期中肠发生不完全的生理性旋转时，就会发生肠旋转不良。旋转不良的一种危及生命的并发症是中肠扭转，其中小肠由于异常活动性肠系膜基底而围绕肠系膜上动脉扭转。患者出现胆汁性呕吐，并且上消化道系列检查通常显示腹部右侧的近端小肠袢。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of midgut malrotation and volvulus, a surgical emergency in infants. It assesses understanding of the anatomical consequences of incomplete intestinal rotation and the resulting risk of ischemia due to twisting around the superior mesenteric artery.\n\nTo solve this question, recognize the clinical presentation of bilious emesis and abdominal distension in an infant. Consider the diagnosis of midgut malrotation with volvulus. Recall that the superior mesenteric artery is the axis around which the volvulus occurs, leading to ischemia of the midgut.",
+    "zh": "本题考察了中肠旋转不良和扭转的知识，这是婴儿的一种外科急症。它评估了对不完全肠旋转的解剖学后果以及由于围绕肠系膜上动脉扭转而导致的缺血风险的理解。\n\n要解决这个问题，请识别婴儿胆汁性呕吐和腹胀的临床表现。考虑中肠旋转不良合并扭转的诊断。回想一下，肠系膜上动脉是扭转发生的轴，导致中肠缺血。"
+  },
+  "tags": "Midgut malrotation; Volvulus; Superior mesenteric artery; Intestinal ischemia; Bilious emesis; Pediatric surgery; Gastrointestinal anatomy; Abdominal imaging",
+  "category": "GIT",
+  "question_id": "22149",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\22149",
+  "extracted_at": "2025-11-05T14:31:51.396521",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:55:22.276574",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

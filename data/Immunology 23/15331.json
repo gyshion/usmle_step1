@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 1-year-old boy is brought to the office for medical evaluation. The patient was recently diagnosed with type 1 diabetes mellitus. He has also had chronic diarrhea, failure to thrive, and eczematous dermatitis since early infancy. Small bowel biopsy reveals villous atrophy and extensive lymphocytic infiltration. Immunologic testing shows significantly increased serum immunoglobulins and decreased IL-10 and transforming growth factor-beta levels. Genetic testing reveals a missense mutation affecting FOXP3. Which of the following is the most likely cause of this patient's current condition?",
+    "zh": "一名1岁男孩因需要进行医学评估而被带到诊所。患者最近被诊断为1型糖尿病。自婴儿期以来，他一直有慢性腹泻、生长迟缓和湿疹性皮炎。小肠活检显示绒毛萎缩和广泛的淋巴细胞浸润。免疫学检测显示血清免疫球蛋白显着增加，IL-10和转化生长因子-β水平降低。基因检测显示FOXP3发生了错义突变。以下哪项最可能是该患者目前病情的病因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's current condition?",
+    "zh": "以下哪项最可能是该患者目前病情的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Defective B-cell differentiation into plasma cells",
+      "zh": "B细胞分化成浆细胞缺陷"
+    },
+    "B": {
+      "en": "Dysfunction of regulatory T cells",
+      "zh": "调节性T细胞功能障碍"
+    },
+    "C": {
+      "en": "Dysfunction of T-helper cell type 17",
+      "zh": "T辅助细胞17型功能障碍"
+    },
+    "D": {
+      "en": "Impaired immunoglobulin isotype switching",
+      "zh": "免疫球蛋白同种型转换受损"
+    },
+    "E": {
+      "en": "Impaired positive selection of thymic T cells",
+      "zh": "胸腺T细胞的阳性选择受损"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "FOXP3 encodes a transcriptional regulator that converts activated CD4 cells into regulatory T cells (Treg), a population of T lymphocytes that inhibit immune activation. Expression of FOXP3 drives the production of the following inhibitory cytokines and surface ligands:\n\n*   IL-10 inhibits macrophage function, blocks inflammatory cytokine release by CD4+ T cells, and downregulates expression of major histocompatibility complex (MHC) class II on antigen-presenting cells (APCs).\n*   Transforming growth factor-beta (TGF-β) inhibits B-lymphocyte proliferation/activation and promotes Treg differentiation (eg, FOXP3 expression).\n*   Cytotoxic T-lymphocyte antigen-4 (CTLA-4) binds with high affinity to CD80/86 on APCs, a surface protein required for costimulation of CD4+ and CD8+ T cells; because CTLA-4 binds up CD80/86, less is available for the activation of T cells.\n\nMutations in FOXP3 lead to excessive and unregulated T- and B-lymphocyte activity and is associated with a rare genetic disorder called IPEX (Immune dysregulation, Polyendocrinopathy, Enteropathy, and X-linked transmission); it is marked by autoimmune enteritis (eg, lymphocytic infiltrate, villous atrophy, chronic diarrhea), eczematous dermatitis, and type 1 diabetes in infancy. {{exhibit_1}}\n\n(Choice A) Impaired differentiation of B cells into plasma cells is the hallmark of combined variable immunodeficiency, which typically presents after puberty with recurrent infections (eg, sinopulmonary, gastrointestinal) and autoimmune disease. Patients have dramatically reduced (not increased) serum immunoglobulins due to a lack of functioning plasma cells.\n\n(Choice C) T-helper cell type 17 (Th17) dysfunction is associated with hyperimmunoglobulin E (Job) syndrome. Th17 cells assist in neutrophil recruitment and are crucial for pathogen defense at mucosal sites. Although patients with Job syndrome have eczema and recurrent infection (eg, staphylococcal abscesses), they do not have FOXP3 mutation.\n\n(Choice D) Mutations in CD40 ligand or CD40 prevent activated CD4 cells from triggering activated B cells to undergo immunoglobulin isotype (class) switching; this results in overproduction of IgM (hyper-IgM syndrome). Patients have recurrent infections and chronic diarrhea but not FOXP3 mutation.\n\n(Choice E) Developing T cells that bind too strongly to self MHC die by apoptosis as part of negative selection; therefore, reduced negative (not positive) selection would lead to autoimmunity. In contrast, positive selection provides survival signals to developing T cells that bind to self MHC with moderate affinity.\n\nEducational objective:\nFOXP3 is a transcriptional regulator protein that is required for the development of regulatory T cells; it triggers production of cytokines (eg, IL-10, transforming growth factor-beta) and ligands (eg, cytotoxic T-lymphocyte antigen-4) that suppress immune activation. FOXP3 mutations result in immune dysregulation marked by excessive immunoglobulin production and the development of autoimmunity. {{exhibit_2}}",
+    "zh": "FOXP3编码一种转录调节因子，可将活化的CD4细胞转化为调节性T细胞（Treg），这是一种抑制免疫激活的T淋巴细胞群体。FOXP3的表达驱动以下抑制性细胞因子和表面配体的产生：\n\n*   IL-10抑制巨噬细胞功能，阻断CD4+ T细胞释放炎症细胞因子，并下调抗原呈递细胞（APC）上主要组织相容性复合体（MHC）II类的表达。\n*   转化生长因子-β（TGF-β）抑制B淋巴细胞增殖/活化，促进Treg分化（例如，FOXP3表达）。\n*   细胞毒性T淋巴细胞抗原-4（CTLA-4）以高亲和力结合APC上的CD80/86，这是一种CD4+和CD8+ T细胞共刺激所需的表面蛋白；由于CTLA-4结合了CD80/86，因此可用于激活T细胞的量减少。\n\nFOXP3突变导致过度且不受调节的T淋巴细胞和B淋巴细胞活性，并与一种罕见的遗传性疾病IPEX（免疫失调、多内分泌病、肠病和X连锁遗传）相关；其特征是自身免疫性肠炎（例如，淋巴细胞浸润、绒毛萎缩、慢性腹泻）、湿疹性皮炎和婴儿期1型糖尿病。{{exhibit_1}}\n\n（选项A）B细胞分化成浆细胞受损是联合型可变免疫缺陷的标志，该病通常在青春期后出现，伴有反复感染（例如，鼻窦肺、胃肠道）和自身免疫性疾病。由于缺乏功能的浆细胞，患者的血清免疫球蛋白显着降低（而非增加）。\n\n（选项C）T辅助细胞17型（Th17）功能障碍与高免疫球蛋白E（Job）综合征相关。Th17细胞协助中性粒细胞募集，对粘膜部位的病原体防御至关重要。尽管Job综合征患者有湿疹和反复感染（例如，葡萄球菌脓肿），但他们没有FOXP3突变。\n\n（选项D）CD40配体或CD40突变阻止活化的CD4细胞触发活化的B细胞进行免疫球蛋白同种型（类别）转换；这导致IgM过度产生（高IgM综合征）。患者有反复感染和慢性腹泻，但没有FOXP3突变。\n\n（选项E）发育中的T细胞与自身MHC结合过强，会通过凋亡死亡，这是负选择的一部分；因此，负选择减少（而非正选择）会导致自身免疫。相比之下，正选择为发育中的T细胞提供生存信号，这些T细胞以中等亲和力与自身MHC结合。\n\n教育目标：\nFOXP3是一种转录调节蛋白，是调节性T细胞发育所必需的；它触发细胞因子（例如，IL-10、转化生长因子-β）和配体（例如，细胞毒性T淋巴细胞抗原-4）的产生，从而抑制免疫激活。FOXP3突变导致免疫失调，其特征是免疫球蛋白过度产生和自身免疫性疾病的发展。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of IPEX syndrome (Immune dysregulation, Polyendocrinopathy, Enteropathy, X-linked) caused by FOXP3 mutation, leading to regulatory T cell dysfunction and autoimmunity. It assesses the understanding of the role of FOXP3 in Treg development and the clinical manifestations of IPEX. \n\nTo solve this question, recognize the classic triad of IPEX syndrome: autoimmune enteritis, eczematous dermatitis, and type 1 diabetes. The FOXP3 mutation is key, pointing to regulatory T cell dysfunction as the underlying cause. Rule out other immunodeficiencies based on clinical and laboratory findings.",
+    "zh": "此题考察对IPEX综合征（免疫失调、多内分泌病、肠病、X连锁）的了解，该综合征由FOXP3突变引起，导致调节性T细胞功能障碍和自身免疫。它评估了对FOXP3在Treg发育中的作用以及IPEX临床表现的理解。\n\n要解决这个问题，需要识别IPEX综合征的经典三联征：自身免疫性肠炎、湿疹性皮炎和1型糖尿病。FOXP3突变是关键，表明调节性T细胞功能障碍是根本原因。根据临床和实验室检查结果排除其他免疫缺陷。"
+  },
+  "tags": "IPEX syndrome; FOXP3; Regulatory T cells; Autoimmunity; Immune dysregulation; Type 1 diabetes; Eczematous dermatitis; Enteropathy; Immunodeficiency; Genetics",
+  "category": "Immunology",
+  "question_id": "15331",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\15331",
+  "extracted_at": "2025-11-05T14:40:38.975271",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:00:33.971913",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

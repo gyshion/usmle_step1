@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "An 87-year-old woman comes to the office to discuss treatment for colon cancer, which was recently diagnosed by colonoscopy. CT scan was negative for metastatic disease. The patient has no other medical conditions, and family history is unremarkable. She does not drink alcohol. Vital signs are normal. A chemotherapy regimen containing a medication that is primarily metabolized by the liver is chosen for therapy. Because of the patient's age, the physician is considering adjusting the dose to prevent adverse effects.",
+    "zh": "一位87岁的女性来诊所讨论结肠癌的治疗方案，该病最近通过结肠镜检查确诊。CT扫描未发现转移性疾病。患者没有其他疾病，家族史无特殊。她不饮酒。生命体征正常。选择了一种主要由肝脏代谢的化疗方案。由于患者的年龄，医生正在考虑调整剂量以防止不良反应。"
+  },
+  "question": {
+    "en": "Which of the following parameters is likely to be the most similar between this patient and a healthy 40-year-old individual?",
+    "zh": "该患者与一位健康的40岁个体相比，以下哪项参数最有可能相似？"
+  },
+  "options": {
+    "A": {
+      "en": "Hepatic concentration of cytochrome P-450",
+      "zh": "肝细胞色素P-450的浓度"
+    },
+    "B": {
+      "en": "Liver blood perfusion",
+      "zh": "肝脏血流灌注"
+    },
+    "C": {
+      "en": "Rate of hepatic regeneration",
+      "zh": "肝脏再生速率"
+    },
+    "D": {
+      "en": "Serum aminotransferase levels",
+      "zh": "血清氨基转移酶水平"
+    },
+    "E": {
+      "en": "Size of the liver",
+      "zh": "肝脏大小"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "A number of age-related changes take place in the liver that impair its ability to metabolize drugs. These changes place elderly individuals, such as this patient, at higher risk for drug-related toxicity. Normal age-related changes include the following:\n\n- Decreased liver mass, which is largely explained by the decrease in hepatic blood flow that occurs with aging, can impair metabolism because the liver is unable to take up as much drug from the systemic circulation as it once could.\n\n- Decreased cytochrome P-450 expression and concentration slows the rate of hepatic metabolism of numerous drugs (eg, some antineoplastic agents).\n\n- Reduced rate of hepatic regeneration impairs the liver's ability to recover after injury.\n\nAlthough the liver's metabolic capabilities generally decline with age, aminotransferase levels are unchanged in healthy elderly individuals. Elevations in liver enzymes should therefore raise suspicion for undiagnosed hepatic disease or hepatotoxin exposure. Small variations may be seen in bilirubin, alkaline phosphatase, and gamma-glutamyltransferase levels, but they are generally minimal.\n\n(Choices A, B, C, and E) Concentration of cytochrome P-450 and the liver's perfusion, regenerative capabilities, and size are all decreased in the elderly compared to younger individuals.",
+    "zh": "肝脏中发生的一些与年龄相关的变化会损害其代谢药物的能力。这些变化使老年人（例如该患者）面临更高的药物相关毒性风险。正常的年龄相关变化包括以下内容：\n\n- 肝脏质量下降，这主要由衰老引起的肝血流量减少所解释，这会损害代谢，因为肝脏无法像以前那样从全身循环中吸收那么多药物。\n\n- 细胞色素P-450表达和浓度降低会减慢多种药物（例如，一些抗肿瘤药物）的肝脏代谢速率。\n\n- 肝脏再生速率降低会损害肝脏在损伤后恢复的能力。\n\n尽管肝脏的代谢能力通常会随着年龄的增长而下降，但健康老年人的氨基转移酶水平保持不变。因此，肝酶升高应引起对未确诊的肝病或肝毒素暴露的怀疑。胆红素、碱性磷酸酶和γ-谷氨酰转移酶水平可能会出现小的变化，但通常是最小的。\n\n（选项A、B、C和E）与年轻人相比，老年人的细胞色素P-450浓度以及肝脏灌注、再生能力和大小都会降低。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of age-related changes in liver function and their impact on drug metabolism. It requires understanding which liver parameters are affected by aging and which remain relatively stable.\n\nThe best approach is to recall the specific age-related changes in the liver, focusing on factors that influence drug metabolism. Recognizing that aminotransferase levels are typically unchanged in healthy elderly individuals is key to answering correctly.",
+    "zh": "此问题测试对肝功能中与年龄相关的变化的了解及其对药物代谢的影响。它要求了解哪些肝脏参数受到衰老的影响，哪些参数保持相对稳定。\n\n最好的方法是回忆肝脏中与年龄相关的具体变化，重点关注影响药物代谢的因素。认识到健康老年人的氨基转移酶水平通常保持不变是正确回答的关键。"
+  },
+  "tags": "Aging; Liver function; Drug metabolism; Cytochrome P-450; Aminotransferases; Hepatology; Geriatrics",
+  "category": "GIT",
+  "question_id": "21033",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\21033",
+  "extracted_at": "2025-11-05T14:31:45.516471",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:54:57.397088",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old woman comes to the office due to a 6-month history of abdominal bloating, excessive flatulence, and watery diarrhea. Past medical history is significant for long-standing type 1 diabetes mellitus managed with insulin. Vital signs are normal. Abdominal examination shows no abnormalities. Jejunal aspirate is obtained during upper gastrointestinal endoscopy by placing a sterile catheter; culture of the aspirate reveals >10,000 colony-forming units/mL of *Bacteroides* species.",
+    "zh": "一名45岁的女性因腹胀、过度胀气和水样腹泻6个月来诊。既往病史提示长期1型糖尿病，并使用胰岛素治疗。生命体征正常。腹部检查未见异常。通过放置无菌导管进行上消化内镜检查，获得空肠抽吸物；抽吸物的培养显示*Bacteroides*菌种的菌落形成单位/mL >10,000个。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's current symptoms?",
+    "zh": "以下哪项最可能是该患者目前症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Excessive bile acid synthesis",
+      "zh": "胆汁酸过度合成"
+    },
+    "B": {
+      "en": "Excessive gastric acid production",
+      "zh": "胃酸过度产生"
+    },
+    "C": {
+      "en": "Excessive pancreatic proteolytic enzyme secretion",
+      "zh": "胰蛋白酶过度分泌"
+    },
+    "D": {
+      "en": "Impaired migrating motor complex function",
+      "zh": "移行性运动复合体功能受损"
+    },
+    "E": {
+      "en": "Spasm of the ileocecal valve",
+      "zh": "回盲瓣痉挛"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has SMALL INTESTINAL BACTERIAL OVERGROWTH (SIBO), which presents with excessive intestinal gas (ie, bloating, flatulence) and diarrhea. Diagnosis is sometimes confirmed by quantitative culture of jejunal fluid; normal small intestine bacterial load is <1,000 colony-forming unit/mL. SIBO is caused by excessive bacterial proliferation in the small intestine, resulting in mucosal injury and fermentation of dietary carbohydrates.\n\nIn normal individuals, MIGRATING MOTOR COMPLEXES cause intestinal peristalsis, which clears bacteria and reduces the reflux of colonic organisms into the small bowel. Patients with IMPAIRED GUT MOTILITY (eg, long-standing DIABETES MELLITUS with autonomic neuropathy) are at increased risk for SIBO, as are patients with anatomic (eg, bowel adhesions, intestinal blind loops from surgery) or fibrotic (eg, scleroderma, prior radiotherapy) disruptions of intestinal flow.\n\nOther patient factors contributing to SIBO include the following:\n\n*   Pancreaticobiliary dysfunction: Bile acids have a detergent effect that disrupts bacterial membranes and increases exposure of organisms in ingested food particles to residual acid and proteolytic enzymes, which further deter growth. Lack of these protective factors (eg, chronic pancreatitis) increases the risk for SIBO (Choices A and B).\n*   Reduced gastric acid: Residual gastric acid impairs bacterial growth in the proximal small bowel. Achlorhydria from either atrophic gastritis or chronic proton pump inhibitor therapy predisposes to SIBO (Choice B).\n*   Blind gut loops/pouches: Blind-ended gut segments (eg, Roux-en-Y gastric bypass surgery) provide a protected environment for bacterial proliferation.\n*   Impaired enteric immunity: Secretory IgA and innate inflammatory mechanisms inhibit bacterial growth in the small bowel. Immunodeficiency states increase the risk for SIBO.\n\n(Choice E) The ileocecal valve prevents the reflux of colonic flora into the small intestine; mechanical disruption (eg, surgical resection) or functional incompetence can increase the risk for SIBO. Spasm of the valve would not increase SIBO risk.\n\nEducational objective:\nSmall intestinal bacterial overgrowth is caused by bacterial proliferation in the small intestine. In normal individuals, intestinal peristalsis clears bacteria and reduces the reflux of colonic organisms into the small bowel; however, patients with impaired gut motility have an increased risk for bacterial overgrowth.",
+    "zh": "该患者患有小肠细菌过度生长（SIBO），其表现为肠道气体过多（即腹胀、胀气）和腹泻。诊断有时通过定量培养空肠液进行确诊；正常小肠细菌负荷<1,000菌落形成单位/mL。SIBO是由小肠内细菌过度增殖引起的，导致粘膜损伤和膳食碳水化合物的发酵。\n\n在正常个体中，移行性运动复合体引起肠蠕动，从而清除细菌并减少结肠生物体反流入小肠。胃肠动力受损（如，长期糖尿病伴自主神经病变）的患者SIBO的风险增加，解剖结构（如，肠粘连、手术引起的肠盲袢）或纤维化（如，硬皮病、既往放疗）引起的肠道血流中断的患者也是如此。\n\n其他导致SIBO的患者因素包括：\n\n*   胰胆功能障碍：胆汁酸具有去污剂作用，可破坏细菌膜，并增加摄入食物颗粒中的生物体暴露于残留的酸和蛋白水解酶，从而进一步阻止生长。缺乏这些保护因素（例如，慢性胰腺炎）会增加SIBO的风险（选项A和B）。\n*   胃酸减少：残留的胃酸会损害近端小肠中的细菌生长。来自萎缩性胃炎或长期质子泵抑制剂治疗的无胃酸症易患SIBO（选项B）。\n*   盲肠袢/囊袋：盲端肠段（例如，Roux-en-Y胃旁路手术）为细菌增殖提供了受保护的环境。\n*   肠道免疫力受损：分泌性IgA和先天性炎症机制抑制小肠中的细菌生长。免疫缺陷状态增加SIBO的风险。\n\n（选项E）回盲瓣可防止结肠菌群反流入小肠；机械性破坏（例如，手术切除）或功能不全可增加SIBO的风险。瓣膜痉挛不会增加SIBO的风险。\n\n教育目标：\n小肠细菌过度生长是由小肠内细菌增殖引起的。在正常个体中，肠蠕动清除细菌并减少结肠生物体反流入小肠；然而，胃肠动力受损的患者发生细菌过度生长的风险增加。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of small intestinal bacterial overgrowth (SIBO), its causes, and predisposing factors. Specifically, it assesses the role of impaired migrating motor complexes in the pathogenesis of SIBO, especially in patients with diabetes mellitus.\n\nTo solve this question, recognize the symptoms of SIBO (bloating, flatulence, diarrhea) and identify the patient's risk factors (diabetes mellitus). Then, link the diabetes-related autonomic neuropathy to impaired gut motility and subsequent bacterial overgrowth.",
+    "zh": "本题考查对小肠细菌过度生长（SIBO）的认识，包括其病因和易感因素。具体来说，它评估了移行性运动复合体受损在SIBO发病机制中的作用，尤其是在糖尿病患者中。\n\n要解决这个问题，需要识别SIBO的症状（腹胀、胀气、腹泻）并确定患者的危险因素（糖尿病）。然后，将糖尿病相关的自主神经病变与肠道动力受损以及随后的细菌过度生长联系起来。"
+  },
+  "tags": "Small intestinal bacterial overgrowth; SIBO; Diabetes mellitus; Autonomic neuropathy; Gastrointestinal motility; Migrating motor complex; Bacteroides; Jejunal aspirate; Gastroenterology",
+  "category": "GIT",
+  "question_id": "105712",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\105712",
+  "extracted_at": "2025-11-05T14:21:40.011730",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:49:33.320150",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

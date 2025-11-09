@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 3-year-old boy is being evaluated for recurrent respiratory infections. The patient's family immigrated to the United States 5 months after his birth. Since then, the boy has experienced multiple episodes of pneumonia and bronchitis, and has developed a persistent cough and failure to thrive. His older brother has no medical issues. A genetic test is performed and reveals a mutation in an exon of a gene that codes for a transmembrane chloride channel. The abnormal mRNA is isolated from cultured epithelial cells, and its complementary DNA is synthesized. Amplified cDNA samples from both the patient and his healthy sibling are analyzed using gel electrophoresis and compared to DNA fragments of known size to determine base pair length. The results are shown below.",
+    "zh": "一名3岁男孩正在接受反复呼吸道感染的评估。该患儿的家人在他出生后5个月移民到美国。此后，男孩经历了多次肺炎和支气管炎发作，并出现了持续性咳嗽和生长迟缓。他的哥哥没有任何健康问题。进行基因检测后发现，编码跨膜氯离子通道的基因的一个外显子发生了突变。从培养的上皮细胞中分离出异常mRNA，并合成其互补DNA。使用凝胶电泳分析来自患者及其健康兄弟的扩增cDNA样本，并与已知大小的DNA片段进行比较，以确定碱基对长度。结果如下所示。"
+  },
+  "question": {
+    "en": "Which of the following is most likely responsible for this patient's condition?",
+    "zh": "以下哪项最有可能导致该患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Frameshift mutation",
+      "zh": "移码突变"
+    },
+    "B": {
+      "en": "In-frame deletion",
+      "zh": "框内缺失"
+    },
+    "C": {
+      "en": "Missense mutation",
+      "zh": "错义突变"
+    },
+    "D": {
+      "en": "Nonsense mutation",
+      "zh": "无义突变"
+    },
+    "E": {
+      "en": "Silent mutation",
+      "zh": "沉默突变"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The patient's mutation affects an exon, meaning that the mutation will be detectable in the mRNA sequence. Complementary DNA (cDNA) is double-stranded DNA that is synthesized from an mRNA template. In this case, cDNA was synthesized using CFTR mRNA from the patient and his brother. Subsequent gel electrophoresis shows that the patient's cDNA is 28 base pairs shorter than that of his brother, indicating the patient has a 28-base pair deletion affecting the coding region of CFTR. Deletion or insertion of a number of bases that is not divisible by 3 results in frameshift mutations. As the name implies, frameshift mutations alter the reading frame of the genetic code, resulting in the formation of nonfunctional proteins due to the incorporation of many incorrect amino acids.\n\n(Choice B) One or more complete codons (genetic triplet codes) are removed in an in-frame deletion, which does not affect the reading frame of subsequent codons. This patient's 28-base pair deletion is not divisible by 3, so it will result in a reading frame shift.\n\n(Choices C and D) Missense and nonsense mutations are due to single base substitutions that result in the placement of an incorrect amino acid or introduction of a premature stop codon, respectively. These mutations occur in exons and affect protein translation. However, in this scenario, gel electrophoresis is being performed on cDNA (not protein) and the results indicate the length of the mature RNA transcript. Termination of RNA transcription occurs by specific sequences in the 3' untranslated region that cause RNA hairpin loop formation and/or recruitment of termination factors. As a result, point mutations in the exons of a gene (such as those responsible for causing nonsense mutations) are unlikely to affect total mRNA (cDNA) size.\n\n(Choice E) Silent mutations can occur in both coding and noncoding regions, but they do not alter protein quantity or function and do not affect phenotype. This patient's mutation caused him to develop cystic fibrosis, so it is not a silent mutation.\n\n(Choice F) Trinucleotide expansions increase the number of trinucleotide repeats in the coding region of a gene, often resulting in large proteins with abnormal function. This patient's abnormal CFTR gene is shorter (not longer) than the normal gene from his sibling, which indicates a deletion has occurred.",
+    "zh": "患者的突变影响一个外显子，这意味着该突变将在mRNA序列中被检测到。互补DNA (cDNA) 是由mRNA模板合成的双链DNA。在本例中，cDNA是使用来自患者及其兄弟的CFTR mRNA合成的。随后的凝胶电泳显示，患者的cDNA比其兄弟的短28个碱基对，表明患者有一个28个碱基对的缺失，影响CFTR的编码区。缺失或插入的碱基数量不能被3整除，会导致移码突变。顾名思义，移码突变改变了遗传密码的阅读框架，导致由于掺入许多不正确的氨基酸而形成无功能的蛋白质。\n\n(选项B) 框内缺失中会移除一个或多个完整的密码子（遗传三联体密码），这不会影响后续密码子的阅读框架。该患者的28个碱基对缺失不能被3整除，因此将导致阅读框架移位。\n\n(选项C和D) 错义突变和无义突变是由于单碱基取代造成的，分别导致放置不正确的氨基酸或引入过早的终止密码子。这些突变发生在exon中，并影响蛋白质翻译。然而，在这种情况下，凝胶电泳是在cDNA（而不是蛋白质）上进行的，结果表明了成熟RNA转录本的长度。RNA转录的终止发生在3'非翻译区中的特定序列处，这些序列会导致RNA发夹环的形成和/或终止因子的募集。因此，基因外显子中的点突变（例如那些导致无义突变的突变）不太可能影响总mRNA（cDNA）的大小。\n\n(选项E) 沉默突变可以发生在编码区和非编码区，但它们不会改变蛋白质的数量或功能，也不会影响表型。该患者的突变导致他患上囊性纤维化，因此它不是一个沉默突变。\n\n(选项F) 三核苷酸扩增增加了基因编码区中三核苷酸重复序列的数量，通常会导致具有异常功能的大蛋白质。该患者的异常CFTR基因比其兄弟的正常基因短（而不是更长），这表明发生了缺失。"
+  },
+  "summary": {
+    "en": "The patient has a 28-base pair deletion in the CFTR gene, which is not divisible by 3. This results in a frameshift mutation, altering the reading frame and leading to nonfunctional proteins.",
+    "zh": "患者的CFTR基因中有28个碱基对的缺失，该缺失不能被3整除。这会导致移码突变，改变阅读框架并导致无功能蛋白质的产生。"
+  },
+  "tags": [
+    "Genetics",
+    "Genetics (General Principles)",
+    "Mutations"
+  ],
+  "category": "Bio",
+  "question_id": "1412",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1412",
+  "extracted_at": "2025-11-05T10:59:14.281723",
+  "extraction_config": {
+    "temperature": 0.5,
+    "top_k": 60,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:21:06.098902",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

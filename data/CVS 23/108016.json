@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 63-year-old woman with a prolonged history of hypertension is brought to the emergency department after a syncopal episode. The patient was at church when she experienced sudden-onset, severe chest pain radiating to her back and collapsed to the floor. She regained consciousness spontaneously but has had persistent chest pain. On arrival at the emergency department, the patient is confused and agitated. Blood pressure is 85/60 mm Hg and pulse is 110/min. The jugular veins are distended. The lungs are clear on auscultation. An intraarterial catheter in the radial artery shows significant variation in systolic blood pressure related to the respiratory cycle. Chest x-ray reveals widening of the mediastinum {{exhibit_1}}. Which of the following is the most likely cause of this patient's syncope?",
+    "zh": "一名有长期高血压病史的63岁女性因晕厥发作被送往急诊科。患者在教堂时突然出现、剧烈胸痛并向后背放射，然后倒在地上。她自主恢复意识，但持续存在胸痛。到达急诊科时，患者意识模糊且烦躁。血压为85/60 mmHg，脉搏110次/分。颈静脉扩张。肺部听诊清晰。桡动脉内动脉内导管显示收缩压随呼吸周期的显著变化。胸部X光片显示纵隔增宽 {{exhibit_1}}。以下哪项最可能是该患者晕厥的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's syncope?",
+    "zh": "以下哪项最可能是该患者晕厥的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Cardiac tachyarrhythmia",
+      "zh": "心动过速性心律失常"
+    },
+    "B": {
+      "en": "Intravascular volume depletion",
+      "zh": "血管内容量减少"
+    },
+    "C": {
+      "en": "Papillary muscle dysfunction",
+      "zh": "乳头肌功能障碍"
+    },
+    "D": {
+      "en": "Pericardial fluid accumulation",
+      "zh": "心包积液"
+    },
+    "E": {
+      "en": "Severe aortic valve narrowing",
+      "zh": "严重的主动脉瓣狭窄"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with a history of chronic hypertension has sudden-onset, severe chest pain and a widened mediastinum on chest x-ray, which suggest an acute aortic dissection. The hypotension and syncope are likely due to cardiac tamponade (ie, pericardial fluid accumulation), a potential complication of ascending (type A) aortic dissection. \n\nIn aortic dissection, an intimal tear allows pressurized blood to enter the aortic wall, creating a split that becomes a false aortic lumen. Complications arise from the extension of the dissection into nearby structures; a proximal extension can involve the pericardium and cause aortic rupture into the pericardial sac, resulting in hemopericardium. The abrupt pericardial accumulation of even small amounts of blood can significantly raise pericardial pressure, causing compression of the right-sided cardiac chambers with restricted diastolic filling and jugular venous distension. Less blood is then pumped through the lungs to the left side of the heart, causing reduced cardiac output and hypotension (and sometimes syncope). The lungs remain clear. \n\nPulsus paradoxus is a sensitive (ie, usually present) finding in cardiac tamponade that involves an exaggerated drop in systolic blood pressure during inspiration. It results from the restricted right ventricle bowing into the left ventricle during inspiration, causing a transient further decrease in cardiac output. {{exhibit_2}}\n\n(Choice A) Cardiac tachyarrhythmias, most commonly ventricular tachycardia, can cause syncope due to rapid heart rate with impaired diastolic filling and reduced cardiac output. However, cardiac tachyarrhythmia would not explain pulsus paradoxus and a widened mediastinum on chest x-ray. \n\n(Choice B) Intravascular volume depletion can occur with acute blood loss or dehydration and may cause orthostatic syncope (ie, syncope upon standing). In patients with significant intravascular volume depletion, reduced jugular venous pressure (ie, flat neck veins) is expected. \n\n(Choice C) Papillary muscle dysfunction is a potential complication of myocardial infarction that leads to acute mitral regurgitation. Sudden onset hypotension is typical and syncope may occur, but pulmonary edema is expected and pulsus paradoxus is not present. \n\n(Choice E) Syncope can occur with severe aortic stenosis, but it is usually exertional. Physical examination reveals pulsus parvus et tardus (weak and delayed pulses) rather than pulsus paradoxus, and a widened mediastinum is not expected. \n\nEducational objective: \nCardiac tamponade can occur as a complication of acute aortic dissection. It should be suspected in patients with sudden-onset, severe chest pain in combination with hypotension, jugular venous distension, and pulsus paradoxus. {{exhibit_3}} {{exhibit_4}}",
+    "zh": "这位有慢性高血压病史的患者突然出现、剧烈胸痛，胸部X光片显示纵隔增宽，提示急性主动脉夹层。低血压和晕厥可能由于心脏压塞（即心包积液），这是升主动脉（A型）夹层的潜在并发症。\n\n在主动脉夹层中，内膜撕裂使加压血液进入主动脉壁，产生一个裂口，形成假性主动脉腔。并发症源于夹层延伸到附近结构；近端延伸可能累及心包并导致主动脉破裂入心包囊，导致血心包。即使少量血液的突然心包积聚也会显着升高心包压力，导致右侧心腔受压，限制舒张期充盈和颈静脉扩张。然后泵入肺部的血液减少，输送到心脏左侧，导致心输出量减少和低血压（有时会出现晕厥）。肺部保持清晰。\n\n奇脉是心脏压塞的一个敏感（即，通常存在）的发现，它涉及吸气期间收缩压的过度下降。这是由于吸气期间受限的右心室弯曲到左心室，导致心输出量进一步短暂下降。{{exhibit_2}}\n\n(选项A) 心动过速性心律失常，最常见的是室性心动过速，可由于心率加快、舒张期充盈受损和心输出量减少而导致晕厥。然而，心动过速性心律失常并不能解释奇脉和胸部X光片上纵隔增宽。\n\n(选项B) 血管内容量减少可发生在急性失血或脱水时，并可能导致直立性晕厥（即站立时晕厥）。在血管内容量严重减少的患者中，预计颈静脉压降低（即颈静脉扁平）。\n\n(选项C) 乳头肌功能障碍是心肌梗死的一个潜在并发症，可导致急性二尖瓣反流。突然发病的低血压是典型的，并且可能发生晕厥，但预计会出现肺水肿，并且不会出现奇脉。\n\n(选项E) 严重的主动脉瓣狭窄可引起晕厥，但通常是劳力性。体格检查显示脉搏微弱且延迟（脉搏微弱且延迟），而不是奇脉，并且预计不会出现纵隔增宽。\n\n教育目标：\n心脏压塞可作为急性主动脉夹层的并发症发生。对于突然发病、剧烈胸痛并伴有低血压、颈静脉扩张和奇脉的患者，应怀疑是心脏压塞。{{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the presentation, complications, and diagnosis of acute aortic dissection leading to cardiac tamponade. It requires recognizing the classic triad of sudden-onset chest pain, hypotension, and widened mediastinum, along with physical exam findings of jugular venous distension and pulsus paradoxus. \n\nTo solve this question, prioritize the most life-threatening conditions given the patient's presentation. Recognize the association between aortic dissection and cardiac tamponade. Eliminate options that do not explain all the findings, particularly the widened mediastinum and pulsus paradoxus.",
+    "zh": "此题考察对导致心脏压塞的急性主动脉夹层的表现、并发症和诊断的知识。它需要识别突发性胸痛、低血压和纵隔增宽的经典三联征，以及颈静脉扩张和奇脉的体格检查结果。\n\n要解决这个问题，请根据患者的表现优先考虑最危及生命的状况。认识到主动脉夹层和心脏压塞之间的关联。排除不能解释所有发现的选项，特别是纵隔增宽和奇脉。"
+  },
+  "tags": "Aortic dissection; Cardiac tamponade; Pericardial effusion; Hypotension; Syncope; Chest pain; Pulsus paradoxus; Jugular venous distension; Cardiovascular system; Emergency medicine",
+  "category": "CVS",
+  "question_id": "108016",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\108016",
+  "extracted_at": "2025-11-05T11:50:00.332247",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:43:56.283281",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

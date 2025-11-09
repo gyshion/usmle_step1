@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "An 8-year-old boy comes to the office due to a mass in the right mandible. His family first noticed it a few months ago, and it has grown rapidly. He has had no fevers, chills, cough, or weight loss. The patient and his family recently immigrated to the United States from East Africa. He has no known medical problems. Temperature is 37 C (98.6 F). Physical examination shows a large tumor on the right mandible with palpable regional lymphadenopathy. A biopsy of the lesion is performed. Histopathologic examination shows a diffuse infiltrate of lymphoid cells with numerous mitotic figures; interspersed macrophages with clear cytoplasm are also seen. {{exhibit_1}}",
+    "zh": "一名8岁男孩因右侧下颌骨肿块前来就诊。他的家人几个月前首次注意到肿块，并且它正在迅速增大。他没有发烧、寒战、咳嗽或体重减轻。患者及其家人最近从东非移民到美国。他没有已知的健康问题。体温37°C（98.6°F）。体格检查显示右侧下颌骨有一个大肿瘤，可触及区域淋巴结肿大。进行了病变活检。组织病理学检查显示淋巴细胞弥漫浸润，伴有大量有丝分裂象；也可见散在的细胞质清晰的巨噬细胞。 {{exhibit_1}}"
+  },
+  "question": {
+    "en": "These lymphoid cells most likely have a chromosomal translocation that directly alters which of the following processes?",
+    "zh": "这些淋巴细胞最有可能具有直接改变以下哪种过程的染色体易位？"
+  },
+  "options": {
+    "A": {
+      "en": "Apoptosis inhibition",
+      "zh": "细胞凋亡抑制"
+    },
+    "B": {
+      "en": "DNA repair",
+      "zh": "DNA修复"
+    },
+    "C": {
+      "en": "Regulation of G1 to S-phase transition",
+      "zh": "G1期至S期过渡的调控"
+    },
+    "D": {
+      "en": "Transcription activation",
+      "zh": "转录激活"
+    },
+    "E": {
+      "en": "Tyrosine kinase upregulation",
+      "zh": "酪氨酸激酶上调"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient likely has the endemic African form of Burkitt lymphoma, which primarily affects children and typically presents as a maxillary or mandibular mass. This type of lymphoma is strongly associated with Epstein-Barr virus (EBV) infection.\n\nOn histopathologic examination, Burkitt lymphoma consists of monomorphic, intermediate-sized lymphoid cells with round nuclei, multiple nucleoli, and basophilic cytoplasm. A high mitotic index and high cell death rate are typically seen. Benign macrophages that phagocytize the resulting cellular debris (\"tingible body macrophages\") are distributed throughout the malignant tissue. The clear cytoplasm of the macrophages contributes to the characteristic \"starry sky\" appearance of Burkitt lymphoma.\n\nMost Burkitt lymphomas demonstrate a translocation between the c-Myc oncogene on the long arm of chromosome 8 and the Ig heavy chain region on chromosome 14 [t(8;14)]; this results in Myc overexpression due to the highly active immunoglobulin promoter in B cells. The product of c-Myc is a nuclear phosphoprotein that functions as a transcription activator, stimulating cell growth and proliferation.\n\n(Choice A) Follicular lymphoma is often characterized by a translocation between the long arm of chromosome 18 near the BCL2 gene and the Ig heavy chain gene on chromosome 14 [t(14;18)]. This translocation leads to overexpression of the apoptosis inhibitor protein Bcl-2.\n\n(Choice B) Mutations of DNA repair enzymes (eg, BRCA1, BRCA2) are associated with breast cancer, ovarian cancer, Lynch syndrome, xeroderma pigmentosum, Fanconi anemia, and many other diseases.\n\n(Choice C) Translocation between the cyclin D1 locus on chromosome 11 and the Ig heavy chain locus on chromosome 14 [t(11;14)] is characteristic of mantle cell lymphoma. This abnormality results in increased production of cyclin D1, a promoter of G1 to S-phase transition during the cell cycle.\n\n(Choice E) Translocation of the ABL gene from chromosome 9 to 22 [t(9;22)] results in the Philadelphia chromosome, a typical finding in chronic myeloid leukemia. BCR-ABL, the resulting fusion gene, encodes a protein with increased tyrosine kinase activity that inhibits apoptosis while promoting mitogenesis.\n\nEducational objective:\nBurkitt lymphoma is characterized by aggressive rapid growth and a \"starry sky\" microscopic appearance. Translocation between the c-Myc oncogene on the long arm of chromosome 8 with the Ig heavy chain region on chromosome 14 leads to overexpression of Myc, a nuclear phosphoprotein that functions as a transcription activator.",
+    "zh": "该患者可能患有伯基特淋巴瘤的非洲地方性形式，主要影响儿童，通常表现为上颌或下颌肿块。这种类型的淋巴瘤与爱泼斯坦-巴尔病毒 (EBV) 感染密切相关。\n\n在组织病理学检查中，伯基特淋巴瘤由单形性、中间大小的淋巴细胞组成，这些淋巴细胞具有圆形核、多个核仁和嗜碱性细胞质。通常可见高有丝分裂指数和高细胞死亡率。良性巨噬细胞吞噬由此产生的细胞碎片（“tingible body macrophages”）分布在整个恶性组织中。巨噬细胞的透明细胞质有助于伯基特淋巴瘤的特征性“星空”外观。\n\n大多数伯基特淋巴瘤表现为位于 8 号染色体长臂上的 c-Myc 癌基因与 14 号染色体上的 Ig 重链区域之间的易位 [t(8;14)]；这导致 Myc 过表达，这是由于 B 细胞中高度活跃的免疫球蛋白启动子所致。 c-Myc 的产物是一种核磷蛋白，其功能是转录激活因子，刺激细胞生长和增殖。\n\n（选项 A）滤泡性淋巴瘤通常的特征是位于 18 号染色体长臂（靠近 BCL2 基因）与 14 号染色体上的 Ig 重链基因之间的易位 [t(14;18)]。这种易位导致细胞凋亡抑制蛋白 Bcl-2 的过表达。\n\n（选项 B）DNA 修复酶（例如，BRCA1、BRCA2）的突变与乳腺癌、卵巢癌、Lynch 综合征、着色性干皮病、范可尼贫血和许多其他疾病相关。\n\n（选项 C）位于 11 号染色体上的细胞周期蛋白 D1 位点和 14 号染色体上的 Ig 重链位点之间的易位 [t(11;14)] 是套细胞淋巴瘤的特征。这种异常导致细胞周期中细胞周期蛋白 D1 的产量增加，细胞周期蛋白 D1 是 G1 期到 S 期过渡的启动子。\n\n（选项 E）ABL 基因从 9 号染色体易位到 22 号染色体 [t(9;22)] 导致费城染色体，这是慢性髓细胞白血病的典型发现。BCR-ABL，所得的融合基因，编码一种具有增加的酪氨酸激酶活性的蛋白质，该蛋白质抑制细胞凋亡，同时促进有丝分裂。\n\n教育目标：\n伯基特淋巴瘤的特征是侵袭性快速生长和“星空”微观外观。位于 8 号染色体长臂上的 c-Myc 癌基因与 14 号染色体上的 Ig 重链区域之间的易位导致 Myc 过表达，Myc 是一种核磷蛋白，其功能是转录激活因子。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Burkitt lymphoma, specifically the chromosomal translocation and its effect on transcription activation. It also assesses the ability to recognize the clinical presentation and histopathological features of Burkitt lymphoma.\n\nTo solve this question, recognize the key features of Burkitt lymphoma (rapid growth, mandibular mass, starry sky appearance). Recall the characteristic t(8;14) translocation involving the c-Myc oncogene, which leads to increased transcription activation.",
+    "zh": "此问题测试对伯基特淋巴瘤的了解，特别是染色体易位及其对转录激活的影响。它还评估识别伯基特淋巴瘤的临床表现和组织病理学特征的能力。\n\n要解决这个问题，请识别伯基特淋巴瘤的关键特征（快速生长、下颌肿块、星空外观）。 回忆涉及 c-Myc 癌基因的特征性 t(8;14) 易位，这会导致转录激活增加。"
+  },
+  "tags": "Burkitt lymphoma; Chromosomal translocation; c-Myc; Transcription activation; Epstein-Barr virus; Lymphoma; Oncology; Histopathology",
+  "category": "Blood",
+  "question_id": "1755",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1755",
+  "extracted_at": "2025-11-05T11:27:25.766894",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:28:58.019310",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

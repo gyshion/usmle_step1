@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old man comes to the office due to intermittent shortness of breath, cough, and chest tightness over the past 3 months. The patient has asthma as a child that improved in adolescence, and he has not required inhalers or steroids since. He feels that his current symptoms are similar to his prior asthma symptoms. The patient was recently diagnosed with essential tremor, which has improved with medical therapy; he has no other chronic medical conditions. He is a lifetime nonsmoker and does not use alcohol or illicit drugs. Blood pressure is 125/75 mm Hg, pulse is 58/min, and respirations are 16/min. Physical examination reveals bilateral scattered expiratory wheezes. Heart sounds are normal and there is no extremity edema. This patient's symptom recurrence is most likely attributable to a medication that affects which of the following steps? Catecholamine pathway {{exhibit_1}}",
+    "zh": "一名55岁男性因过去3个月出现间歇性呼吸困难、咳嗽和胸闷前来就诊。患者在儿童时期患有哮喘，青春期有所好转，此后无需吸入器或类固醇。他感觉目前的症状与之前的哮喘症状相似。患者最近被诊断出患有原发性震颤，经药物治疗后有所改善；他没有其他慢性疾病。他一生不吸烟，不饮酒或使用违禁药物。血压125/75 mmHg，脉搏58次/分，呼吸16次/分。体格检查显示双侧散在呼气性哮鸣音。心音正常，无肢体水肿。该患者的症状复发最可能归因于影响以下哪个步骤的药物？儿茶酚胺通路 {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following steps is most likely affected by the medication causing the patient's symptom recurrence?",
+    "zh": "引起患者症状复发的药物最有可能影响以下哪个步骤？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    },
+    "F": {
+      "en": "F",
+      "zh": "F"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "The patient has developed symptoms of intermittent asthma (eg, cough, wheeze, dyspnea) associated with a new medication for his essential tremor (ET). ET is a common movement disorder, and beta blockers are often used as first-line therapy for debilitating or distressful symptoms. Beta blockers prevent the interaction of epinephrine and norepinephrine with receptors at adrenergic synapses; in ET, this is thought to help dampen the sensitivity of muscle spindles, which improves tremor symptoms by smoothing out the force of contraction.\n\nPropranolol, the most commonly used medication for treatment of ET, is a NONSELECTIVE BETA BLOCKER (ie, inhibits both beta-1 and beta-2 receptors). In patients with reactive airway diseases (eg, asthma, chronic obstructive pulmonary disease), INHIBITION OF BETA-2 RECEPTORS can cause BRONCHOCONSTRICTION with resultant asthma symptoms. Selective beta-1 blockers are often better tolerated in patients with asthma; however, selectivity is dose-dependent and patients can develop bronchoconstriction at high doses.\n\n(Choice A) Tyrosine is transported into the cell by the large neutral amino acid transporter. This step is not directly affected by beta blockers.\n\n(Choice B) The conversion of tyrosine to dihydroxyphenylalanine (DOPA) by tyrosine hydroxylase is the rate-limiting step in catecholamine biosynthesis. This enzyme was previously inhibited by drugs used to treat pheochromocytoma, but these are no longer used due to a poor side effect profile. This step is not directly affected by beta blockers.\n\n(Choice C) The medication reserpine inhibits vesicular monoamine transporter, thereby inhibiting dopamine entry into presynaptic vesicles and essentially causing a chemical sympathectomy. Reserpine is occasionally used as an antipsychotic. It may cause wheezing in some patients but is not indicated in the treatment of ET.\n\n(Choice D) Adrenergic neuron blockers such as guanethidine inhibit norepinephrine release, lowering blood pressure and heart rate. Guanethidine is occasionally used for chronic pain syndrome but does not cause bronchoconstriction; it is not used in management of ET.\n\n(Choice E) Tricyclic antidepressants and cocaine work by inhibiting norepinephrine reuptake by presynaptic neurons. These agents can worsen symptoms in ET.\n\n(Choice F) The diagram shows that step F represents the action of beta-adrenergic receptors, which are blocked by beta blockers like propranolol. Blockade of beta-2 adrenergic receptors in the lungs leads to bronchoconstriction, causing the patient's asthma symptoms. The table \"Effects of adrenergic blockade\" shows that B2-adrenergic blockade in the lungs causes bronchoconstriction. This is the mechanism by which the patient's asthma symptoms are exacerbated by his medication for essential tremor.",
+    "zh": "患者出现了与治疗原发性震颤（ET）的新药相关的间歇性哮喘症状（例如，咳嗽、喘息、呼吸困难）。ET是一种常见的运动障碍，β受体阻滞剂常被用作治疗致残或痛苦症状的一线疗法。β受体阻滞剂阻止肾上腺素和去甲肾上腺素与肾上腺素能突触的受体相互作用；在ET中，这被认为有助于减弱肌梭的敏感性，通过平滑收缩力来改善震颤症状。\n\n普萘洛尔，是治疗ET最常用的药物，是一种非选择性β受体阻滞剂（即，抑制β-1和β-2受体）。在患有反应性气道疾病（如哮喘、慢性阻塞性肺病）的患者中，抑制β-2受体可引起支气管收缩，从而导致哮喘症状。选择性β-1受体阻滞剂通常在哮喘患者中耐受性更好；然而，选择性是剂量依赖性的，患者在高剂量下可能会出现支气管收缩。\n\n（选项A）酪氨酸通过大中性氨基酸转运体转运到细胞中。β受体阻滞剂不会直接影响此步骤。\n\n（选项B）酪氨酸羟化酶将酪氨酸转化为二羟基苯丙氨酸（DOPA）是儿茶酚胺生物合成的限速步骤。该酶以前被用于治疗嗜铬细胞瘤的药物抑制，但由于不良反应而不再使用。β受体阻滞剂不会直接影响此步骤。\n\n（选项C）药物利血平抑制囊泡单胺转运体，从而抑制多巴胺进入突触前囊泡，并实质上引起化学交感神经切除术。利血平偶尔用作抗精神病药。它可能导致某些患者出现喘息，但未被用于治疗ET。\n\n（选项D）肾上腺素能神经元阻滞剂（如胍乙啶）抑制去甲肾上腺素的释放，降低血压和心率。胍乙啶偶尔用于慢性疼痛综合征，但不会引起支气管收缩；它不用于ET的管理。\n\n（选项E）三环类抗抑郁药和可卡因通过抑制突触前神经元对去甲肾上腺素的再摄取而起作用。这些药物可以加重ET的症状。\n\n（选项F）图表显示，步骤F代表β-肾上腺素受体的作用，这些受体被普萘洛尔等β受体阻滞剂阻断。肺部β-2肾上腺素受体的阻断导致支气管收缩，引起患者的哮喘症状。“肾上腺素能阻滞的影响”表显示，肺部的B2-肾上腺素能阻滞会导致支气管收缩。这就是患者因治疗原发性震颤的药物而加重哮喘症状的机制。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the mechanism by which beta-blockers, commonly used for essential tremor, can precipitate or worsen asthma symptoms in patients with a history of reactive airway disease. It specifically assesses knowledge of beta-adrenergic receptor blockade and its effects on the respiratory system.\n\nTo solve this question, one must identify the patient's new medication (implied to be a beta-blocker for essential tremor) and recall its potential adverse effects, particularly on the respiratory system. Connecting the patient's history of asthma with the known side effect of beta-2 receptor blockade (bronchoconstriction) is crucial. The provided diagram of the catecholamine pathway helps to visualize the steps involved, and the correct answer corresponds to the step involving beta-adrenergic receptors.",
+    "zh": "这个问题测试了对β受体阻滞剂（常用于原发性震颤）的机制的理解，该机制可导致有反应性气道疾病病史的患者出现或加重哮喘症状。它特别评估了对β-肾上腺素受体阻滞及其对呼吸系统影响的了解。\n\n要解决这个问题，必须确定患者的新药（暗示是治疗原发性震颤的β受体阻滞剂），并回忆其潜在的不良反应，尤其是在呼吸系统方面。将患者的哮喘病史与已知的β-2受体阻滞（支气管收缩）的副作用联系起来至关重要。提供的儿茶酚胺通路图有助于可视化所涉及的步骤，并且正确的答案对应于涉及β-肾上腺素受体的步骤。"
+  },
+  "tags": "Essential tremor; Beta-blocker; Propranolol; Asthma; Bronchoconstriction; Beta-2 adrenergic receptor; Catecholamine pathway; Adverse drug reaction; Pulmonary medicine; Neurology",
+  "category": "Neuro",
+  "question_id": "2000",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\2000",
+  "extracted_at": "2025-11-05T19:38:50.626141",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:38:41.962615",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

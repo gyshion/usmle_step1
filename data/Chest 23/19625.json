@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 12-year-old boy is brought to the clinic for a follow-up examination. The patient was admitted to the hospital 3 months ago after a nonfatal drowning event that resulted in severe acute respiratory distress syndrome. He was intubated and mechanically ventilated for 1 week and then discharged 2 weeks later. The patient currently feels well and reports mild dyspnea with exertion.",
+    "zh": "一名12岁男孩来诊所进行复诊。该患者3个月前因非致命性溺水事件入院，导致严重的急性呼吸窘迫综合征。他接受了1周的插管和机械通气，2周后出院。患者目前感觉良好，报告轻度劳力性呼吸困难。"
+  },
+  "question": {
+    "en": "Which of the following parameters is most likely increased in this patient compared to a child with normal cardiopulmonary function?",
+    "zh": "与心肺功能正常的儿童相比，该患者最有可能增加以下哪项参数？"
+  },
+  "options": {
+    "A": {
+      "en": "Alveolar-arterial oxygen difference",
+      "zh": "肺泡-动脉氧分压差"
+    },
+    "B": {
+      "en": "Diffusion capacity of the lung",
+      "zh": "肺弥散容量"
+    },
+    "C": {
+      "en": "Forced vital capacity",
+      "zh": "用力肺活量"
+    },
+    "D": {
+      "en": "Left atrial pressure",
+      "zh": "左心房压力"
+    },
+    "E": {
+      "en": "Lung compliance",
+      "zh": "肺顺应性"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "{{exhibit_1}}\nARDS (eg, aspiration of water) or intense systemic inflammation (eg, sepsis, pancreatitis). ARDS has a mortality rate of approximately 40%; those who survive often have reduced lung function that persists for months or years and is sometimes permanent.\n\nThe pathogenesis of ARDS can progress through 3 phases, although most patients move through only the first 2. The exudative phase (phase 1) involves inflammatory disruption of the alveolar-capillary membrane with leakage of protein-rich fluid from the alveolar capillaries into the alveoli and surrounding interstitium. Gas exchange is acutely impaired by alveolar edema and by hyaline membranes that develop on the alveolar surface. After 1–2 weeks, ARDS progresses to the proliferative phase (phase 2), during which endothelial cells, pneumocytes, and fibroblasts proliferate in an attempt to repair damage. Collagen is deposited in the interstitium and may lead to scarring.\n\nThe majority of ARDS survivors have a persistent reduction in diffusion capacity that eventually normalizes after several years (Choice B). These patients may remain in a prolonged proliferative phase in which interstitial collagen deposition and remodeling impair gas diffusion across the alveolar-capillary membrane, causing an increased alveolar-arterial oxygen gradient that manifests clinically with mild dyspnea. A small percentage of surviving patients likely enter and remain in the fibrotic phase (phase 3) of ARDS, during which severe interstitial fibrosis develops and manifests as an irreversible reduction in diffusion capacity with marked clinical symptoms (eg, severe dyspnea).\n\n(Choices C and E) Collagen deposition during recovery from ARDS typically leads to decreased lung compliance, which in some patients manifests as a restrictive defect with reductions in both forced vital capacity and forced expiratory volume in 1 second on pulmonary function testing. The reductions in expiratory lung volumes typically normalize within 6 months.\n\n(Choice D) The pulmonary edema in ARDS is noncardiogenic, meaning it does not result from heart failure and involves normal left atrial pressure (estimated by pulmonary capillary wedge pressure) during both the acute disease and recovery.",
+    "zh": "{{exhibit_1}}\nARDS（例如，吸入水）或强烈的全身炎症（例如，脓毒症，胰腺炎）。ARDS的死亡率约为40%；幸存者通常肺功能下降，持续数月或数年，有时是永久性的。\n\nARDS的发病机制可以经历3个阶段，尽管大多数患者仅经历前2个阶段。渗出期（第1阶段）涉及炎症破坏肺泡毛细血管膜，导致富含蛋白质的液体从肺泡毛细血管渗漏到肺泡和周围间质。肺泡水肿和在肺泡表面形成的透明膜会急性损害气体交换。1-2周后，ARDS进展到增殖期（第2阶段），在此期间，内皮细胞、肺泡上皮细胞和成纤维细胞增殖，试图修复损伤。胶原蛋白沉积在间质中，可能导致瘢痕形成。\n\n大多数ARDS幸存者肺弥散容量持续下降，最终在几年后恢复正常（选项B）。这些患者可能保持在延长的增殖期，在此期间，间质胶原沉积和重塑会损害气体穿过肺泡毛细血管膜的弥散，导致肺泡-动脉氧分压梯度升高，临床表现为轻度呼吸困难。一小部分幸存患者可能进入并留在ARDS的纤维化期（第3阶段），在此期间，发生严重的间质纤维化，表现为不可逆的弥散容量下降，伴有明显的临床症状（例如，严重呼吸困难）。\n\n（选项C和E）从ARDS恢复期间的胶原沉积通常会导致肺顺应性降低，在某些患者中表现为限制性缺陷，导致肺功能检查中的用力肺活量和1秒钟用力呼气量均下降。呼气肺容积的减少通常在6个月内恢复正常。\n\n（选项D）ARDS中的肺水肿是非心源性的，这意味着它不是由心力衰竭引起的，并且在急性疾病和恢复期间涉及正常的左心房压力（通过肺毛细血管楔压估计）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the long-term pulmonary sequelae of acute respiratory distress syndrome (ARDS) in children, specifically focusing on changes in lung function parameters. It requires understanding the pathophysiology of ARDS and its impact on gas exchange and lung mechanics.\n\nThe best approach is to consider the typical changes that occur in the lungs following ARDS, such as fibrosis and impaired gas exchange. Then, evaluate how these changes would affect parameters like alveolar-arterial oxygen difference, diffusion capacity, lung compliance, and lung volumes.",
+    "zh": "此题考察对儿童急性呼吸窘迫综合征（ARDS）长期肺部后遗症的知识，特别侧重于肺功能参数的变化。它需要理解ARDS的病理生理学及其对气体交换和肺部力学的影响。\n\n最好的方法是考虑ARDS后肺部发生的典型变化，例如纤维化和气体交换受损。然后，评估这些变化将如何影响肺泡-动脉氧分压差、弥散容量、肺顺应性和肺容积等参数。"
+  },
+  "tags": "Acute respiratory distress syndrome; ARDS; Pulmonary fibrosis; Alveolar-arterial oxygen difference; Diffusion capacity; Lung compliance; Respiratory medicine; Pediatric pulmonology",
+  "category": "Chest",
+  "question_id": "19625",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\19625",
+  "extracted_at": "2025-11-05T11:42:40.304217",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:37:54.227949",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

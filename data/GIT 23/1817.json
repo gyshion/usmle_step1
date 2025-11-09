@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": " A 64-year-old woman comes to the emergency department due to intractable nausea and vomiting. She has not been able to keep anything down and feels weak and tired. The patient has had no diarrhea, constipation, or abdominal pain. She was diagnosed with breast cancer 4 weeks ago and received her first cycle of chemotherapy 1 week ago. Vital signs are within normal limits. Mucous membranes are dry. Cardiopulmonary examination is normal. Bowel sounds are normal.",
+    "zh": "一位64岁的女性因顽固性恶心和呕吐来到急诊科。她无法保留任何食物，感到虚弱和疲倦。患者没有腹泻、便秘或腹痛。她于4周前被诊断患有乳腺癌，并于1周前接受了第一个疗程的化疗。生命体征在正常范围内。黏膜干燥。心肺检查正常。肠鸣音正常。"
+  },
+  "question": {
+    "en": "Which of the following agents would be most helpful in treating this patient's symptoms?",
+    "zh": "以下哪种药物对治疗该患者的症状最有效？"
+  },
+  "options": {
+    "A": {
+      "en": "Histamine H₁ blocker",
+      "zh": "组胺H₁受体阻滞剂"
+    },
+    "B": {
+      "en": "Motilin receptor agonist",
+      "zh": "生长抑素受体激动剂"
+    },
+    "C": {
+      "en": "Mu opioid receptor agonist",
+      "zh": "μ阿片受体激动剂"
+    },
+    "D": {
+      "en": "Muscarinic M₁ receptor antagonist",
+      "zh": "毒蕈碱M₁受体拮抗剂"
+    },
+    "E": {
+      "en": "Serotonin 5-HT₃ receptor antagonist",
+      "zh": "5-羟色胺5-HT₃受体拮抗剂"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The vomiting reflex can be activated by either humoral or neuronal stimuli. The AREA POSTREMA in the fourth ventricle has a CHEMORECEPTOR TRIGGER ZONE that can respond to many neurotransmitters, drugs, or toxins. The NUCLEUS TRACTUS SOLITARIUS (NTS) in the medulla receives information from the area postrema, gastrointestinal (GI) tract via the vagus nerve, vestibular system, and central nervous system (eg, meninges, hypothalamus). Neurons from the NTS project to other medullary nuclei and coordinate the vomiting process. The 5 major receptors involved in stimulating the vomiting reflex in the area postrema and adjacent vomiting center nuclei are M₁ muscarinic, D₂ dopaminergic, H₁ histaminic, 5-HT₃ serotonergic, and neurokinin 1 (NK1)re<ctrl100>ceptors.{{exhibit_1}}\n\n5-HT₃ RECEPTOR ANTAGONISTS (eg, ondansetron, granisetron, dolasetron) are highly effective in preventing CHEMOTHERAPY-INDUCED VOMITING. These agents act by 2 primary mechanisms: blocking VAGUS-mediated nausea and vomiting (from the GI tract stimuli) and blocking central SEROTONIN receptors in the area postrema and the NTS. Other agents useful for chemotherapy-induced vomiting include NK1 RECEPTOR ANTAGONISTS (eg, aprepitant), which inhibit substance P and help prevent both acute vomiting and delayed emesis; and dopamine receptor antagonists (eg, metoclopramide), which are associated with drowsiness and dystonic reactions.\n\n(Choices A and D) Histamine blockers and antimuscarinic/anticholinergic agents are most helpful for vestibular nausea and vomiting.\n\n(Choice B) Motilin regulates interdigestive migrating contractions. Erythromycin is a motilin receptor agonist used for gastroparesis.\n\n(Choice C) Mu opioid receptor agonists (eg, morphine) are useful for cancer-related pain control but often have side effects such as nausea and vomiting.\n\nEducational objective:\nOndansetron inhibits serotonin (5-HT₃) receptors and is used primarily to treat nausea and vomiting following chemotherapy. 5-HT₃ receptors are located peripherally in the presynaptic nerve terminals of the vagus nerve in the gastrointestinal tract. These receptors are also present centrally in the chemoreceptor trigger zone and the solitary nucleus and tract.",
+    "zh": "呕吐反射可由体液或神经元刺激激活。第四脑室中的后区有一个化学感受器触发区，可对许多神经递质、药物或毒素做出反应。延髓中的孤束核 (NTS) 从后区、胃肠道 (GI) 经迷走神经、前庭系统和中枢神经系统（例如，脑膜、下丘脑）接收信息。来自NTS的神经元投射到其他延髓核，并协调呕吐过程。涉及刺激后区和邻近呕吐中枢核的呕吐反射的5个主要受体是M₁毒蕈碱受体、D₂多巴胺受体、H₁组胺受体、5-HT₃血清素受体和神经激肽1 (NK1)受体。{{exhibit_1}}\n\n5-HT₃受体拮抗剂（例如，昂丹司琼、格拉司琼、多拉司琼）在预防化疗引起的呕吐方面非常有效。这些药物通过两种主要机制发挥作用：阻断迷走神经介导的恶心和呕吐（来自胃肠道刺激）和阻断后区和NTS中的中枢血清素受体。其他用于化疗引起的呕吐的药物包括NK1受体拮抗剂（例如，阿瑞匹坦），其抑制P物质并有助于预防急性和延迟性呕吐；以及多巴胺受体拮抗剂（例如，甲氧氯普胺），其与嗜睡和肌张力障碍反应有关。\n\n（选项A和D）组胺阻滞剂和抗毒蕈碱/抗胆碱能药物对前庭性恶心和呕吐最有效。\n\n（选项B）生长抑素调节消化间移行性收缩。红霉素是一种生长抑素受体激动剂，用于胃轻瘫。\n\n（选项C）μ阿片受体激动剂（例如，吗啡）可用于控制与癌症相关的疼痛，但通常有恶心和呕吐等副作用。\n\n教育目标：\n昂丹司琼抑制血清素 (5-HT₃) 受体，主要用于治疗化疗后的恶心和呕吐。5-HT₃受体位于胃肠道中迷走神经的突触前神经末梢。这些受体也存在于化学感受器触发区和孤束核中。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of antiemetic medications and their mechanisms of action, specifically in the context of chemotherapy-induced nausea and vomiting. It requires understanding the different receptors involved in the vomiting reflex and how various antiemetic drugs target these receptors. \n\nTo solve this question, recognize that the patient's nausea and vomiting are likely due to chemotherapy. Recall that serotonin 5-HT3 receptor antagonists are the first-line treatment for chemotherapy-induced emesis. Eliminate other options based on their primary uses for different types of nausea or other conditions.",
+    "zh": "此问题测试对止吐药物及其作用机制的了解，特别是在化疗引起的恶心和呕吐的背景下。它需要了解参与呕吐反射的不同受体以及各种止吐药物如何靶向这些受体。\n\n要解决这个问题，请认识到患者的恶心和呕吐很可能与化疗有关。回想一下，5-羟色胺5-HT3受体拮抗剂是化疗引起的呕吐的一线治疗方法。根据其他选项主要用于不同类型的恶心或其他病症的用途来排除它们。"
+  },
+  "tags": "Chemotherapy-induced nausea and vomiting; Antiemetics; Serotonin 5-HT3 receptor antagonists; Area postrema; Vagus nerve",
+  "category": "GIT",
+  "question_id": "1817",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\1817",
+  "extracted_at": "2025-11-05T14:28:35.126705",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:53:28.301806",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

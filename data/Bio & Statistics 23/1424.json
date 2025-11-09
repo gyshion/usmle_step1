@@ -1,0 +1,55 @@
+{
+  "question_stem": {
+    "en": "A researcher develops 2 functional mRNA sequences composed of CUC and CUU trinucleotide repeats, respectively. He subsequently incubates these mRNAs in a solution containing functional ribosomes and tRNAs charged with the appropriate amino acids. After several hours, it is found that both mRNA sequences produce polypeptide chains containing leucine repeats. This observed finding is due to which of the following genetic principles?",
+    "zh": "一位研究人员分别开发了由CUC和CUU三核苷酸重复序列组成的2个功能性mRNA序列。随后，他在一个含有功能性核糖体和带有所需氨基酸的tRNA的溶液中孵育这些mRNA。几个小时后，发现这两个mRNA序列都产生含有亮氨酸重复序列的多肽链。这种观察到的发现是由于以下哪种遗传学原理？"
+  },
+  "question": {
+    "en": "This observed finding is due to which of the following genetic principles?",
+    "zh": "这种观察到的发现是由于以下哪种遗传学原理？"
+  },
+  "options": {
+    "A": {
+      "en": "Ambiguity",
+      "zh": "歧义性"
+    },
+    "B": {
+      "en": "No punctuation",
+      "zh": "无标点"
+    },
+    "C": {
+      "en": "Transition",
+      "zh": "转换"
+    },
+    "D": {
+      "en": "Universality",
+      "zh": "普遍性"
+    },
+    "E": {
+      "en": "Wobble",
+      "zh": "摆动"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Wobble hypothesis\n\nIndividual tRNA molecules are specific for certain amino acids and recognize the mRNA codons associated with those amino acids. Certain tRNA molecules can recognize multiple different codons coding for the same amino acid, a phenomenon explained by the WOBBLE HYPOTHESIS. This hypothesis states that the first 2 nucleotide positions on the mRNA codon require traditional (Watson-Crick) base pairing with their complementary nucleotides on tRNA, whereas the third \"wobble\" nucleotide position may undergo less stringent (nontraditional) base pairing. In the case of leucine, for example, 1 tRNA molecule recognizes 2 codons (CUC and CUU) because only the first 2 nucleotide positions (CU in the codon) form traditional bonds.\n\n(Choice A) The genetic code is not ambiguous as each codon is associated with only a single amino acid.\n\n(Choice B) The genetic code is read sequentially from a starting point and has no internal punctuation as each codon is adjacent to the next without spacer nucleotides in between.\n\n(Choice C) Genetic transition refers to a point mutation that results in replacement of a purine nucleotide for another purine or a pyrimidine nucleotide for another pyrimidine. In contrast, transversion refers to a point mutation that results in the replacement of a purine nucleotide for a pyrimidine or a pyrimidine nucleotide for a purine.\n\n(Choice D) The genetic code is almost universal as amino acid codons are nearly identical across species; however, mitochondria and some bacteria and single-celled eukaryotes deviate from the standard genetic code.",
+    "zh": "摆动假说\n\n单个tRNA分子特异于某些氨基酸，并识别与这些氨基酸相关的mRNA密码子。某些tRNA分子可以识别多个不同的密码子，这些密码子编码相同的氨基酸，这种现象可以用摆动假说来解释。该假说指出，mRNA密码子的前两个核苷酸位置需要与tRNA上的互补核苷酸进行传统的（沃森-克里克）碱基配对，而第三个“摆动”核苷酸位置可能经历不太严格的（非传统）碱基配对。例如，对于亮氨酸，1个tRNA分子识别2个密码子（CUC和CUU），因为只有前两个核苷酸位置（密码子中的CU）形成传统键。\n\n（选项A）遗传密码没有歧义，因为每个密码子只与单个氨基酸相关联。\n\n（选项B）遗传密码从起始点顺序读取，没有内部标点，因为每个密码子与下一个相邻，之间没有间隔核苷酸。\n\n（选项C）遗传转换是指导致嘌呤核苷酸被另一个嘌呤或嘧啶核苷酸被另一个嘧啶取代的点突变。相比之下，转换是指导致嘌呤核苷酸被嘧啶或嘧啶核苷酸被嘌呤取代的点突变。\n\n（选项D）遗传密码几乎是普遍的，因为氨基酸密码子在不同物种中几乎相同；然而，线粒体和一些细菌以及单细胞真核生物偏离了标准遗传密码。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the wobble hypothesis and how it relates to tRNA recognition of multiple codons for the same amino acid. The key to solving this question is recognizing that the wobble hypothesis allows for non-traditional base pairing at the third nucleotide position of the mRNA codon, enabling a single tRNA to recognize multiple codons.",
+    "zh": "这道题考察了对摆动假说的理解，以及它与tRNA识别相同氨基酸的多个密码子的关系。解决这个问题的关键是认识到，摆动假说允许在mRNA密码子的第三个核苷酸位置进行非传统的碱基配对，使单个tRNA能够识别多个密码子。"
+  },
+  "tags": "Wobble hypothesis; tRNA; mRNA; Codon; Translation; Genetics; Molecular biology",
+  "category": "Bio",
+  "question_id": "1424",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1424",
+  "extracted_at": "2025-11-05T10:34:48.732444",
+  "translated_at": "2025-11-07T16:21:12.781178",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

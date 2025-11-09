@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 79-year-old man comes to the office for routine follow-up for chronic conditions. The patient has hypertension, for which he takes amlodipine, and mild Alzheimer dementia, which is managed by his family with behavioral measures. Medical history is notable for locally advanced prostate cancer, for which chronic leuprolide therapy has been prescribed. The patient is otherwise healthy, eats a balanced diet, and exercises regularly. Bone density testing with DXA was normal 2 years ago but now reveals osteoporosis. Which of the following is the most likely cause of the reduced bone density in this patient?",
+    "zh": "一名79岁男性前来就诊，进行慢性疾病的常规复诊。患者患有高血压，正在服用氨氯地平，并患有轻度阿尔茨海默病，由其家人通过行为措施进行管理。病史中值得注意的是局部晚期前列腺癌，已开具了长期亮丙瑞林治疗方案。患者总体健康状况良好，饮食均衡，并 নিয়মিত 锻炼。两年前进行的DXA骨密度检测结果正常，但现在显示有骨质疏松。以下哪项最可能是该患者骨密度降低的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of the reduced bone density in this patient?",
+    "zh": "以下哪项最可能是该患者骨密度降低的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased estrogen and testosterone levels",
+      "zh": "雌激素和睾酮水平降低"
+    },
+    "B": {
+      "en": "Decreased intestinal calcium absorption",
+      "zh": "肠道钙吸收减少"
+    },
+    "C": {
+      "en": "Impaired 25-hydroxycholecalciferol activation",
+      "zh": "25-羟胆钙化醇活化受损"
+    },
+    "D": {
+      "en": "Increased parathyroid hormone levels",
+      "zh": "甲状旁腺激素水平升高"
+    },
+    "E": {
+      "en": "Paraneoplastic effects of the cancer cells",
+      "zh": "癌细胞的副肿瘤效应"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The patient is being treated with leuprolide, a gonadotropin-releasing hormone (GnRH) agonist, for locally advanced prostate cancer. GnRH agonists initially cause a surge in luteinizing hormone (LH) and follicle-stimulating hormone (FSH) release, followed by downregulation of GnRH receptors on the pituitary gland. This leads to a sustained suppression of LH and FSH, resulting in significantly reduced production of testosterone by the Leydig cells in the testes. In men, androgens (testosterone) are aromatized to estrogens, which play a crucial role in maintaining bone density by reducing osteoclast activity and promoting osteoblast function. Therefore, the chronic suppression of testosterone and subsequent decrease in estrogen levels due to leuprolide therapy is the most likely cause of the patient's osteoporosis. {{exhibit_1}} illustrates the GnRH-pituitary-gonadal axis and how GnRH agonists lead to reduced testosterone production.\n\n(Choice B) Decreased intestinal calcium absorption is not directly caused by leuprolide therapy. While vitamin D deficiency can impair calcium absorption, leuprolide's primary mechanism affecting bone density is through sex hormone suppression. Glucocorticoids and proton pump inhibitors are more commonly associated with decreased intestinal calcium absorption and osteoporosis.\n\n(Choices C and D) Elevated parathyroid hormone (PTH) levels can lead to increased bone resorption and osteoporosis, particularly in patients with chronic kidney disease. However, leuprolide therapy does not directly cause elevated PTH levels. While vitamin D deficiency can impair calcium absorption and lead to secondary hyperparathyroidism, this is not the primary mechanism of bone loss induced by leuprolide.\n\n(Choice E) Paraneoplastic syndromes, such as humoral hypercalcemia of malignancy (HHM), can cause bone resorption. However, HHM is typically associated with elevated PTH-related protein (PTHrP) and presents with hypercalcemia, constipation, and lethargy, rather than osteoporosis as the primary manifestation. While prostate cancer can rarely cause paraneoplastic syndromes, the direct effect of leuprolide on sex hormone production is a much more common and direct cause of osteoporosis in this clinical scenario.\n\nEducational objective: Chronic administration of GnRH agonists (eg, leuprolide) suppresses pituitary LH release and leads to reduced production of testosterone. Lower levels of circulating testosterone produce a clinical effect similar to that of surgical orchiectomy and can lead to accelerated bone loss and increased risk for osteoporosis.",
+    "zh": "患者正在接受亮丙瑞林治疗，这是一种促性腺激素释放激素(GnRH)激动剂，用于治疗局部晚期前列腺癌。 GnRH激动剂最初会导致促黄体生成素(LH)和促卵泡刺激素(FSH)释放激增，随后垂体上的GnRH受体下调。这会导致LH和FSH的持续抑制，导致睾丸间质细胞产生的睾酮显著减少。在男性中，雄激素(睾酮)会被芳香化为雌激素，雌激素通过降低破骨细胞活性和促进成骨细胞功能在维持骨密度方面发挥关键作用。因此，由于亮丙瑞林治疗导致睾酮长期抑制和随后雌激素水平降低，是患者骨质疏松症最可能的原因。 {{exhibit_1}}说明了GnRH-垂体-性腺轴以及GnRH激动剂如何导致睾酮产量减少。\n\n(选项B) 肠道钙吸收减少并非由亮丙瑞林治疗直接引起。虽然维生素D缺乏症会损害钙吸收，但亮丙瑞林影响骨密度的主要机制是通过性激素抑制。糖皮质激素和质子泵抑制剂更常与肠道钙吸收减少和骨质疏松症相关。\n\n(选项C和D) 甲状旁腺激素(PTH)水平升高可导致骨吸收增加和骨质疏松症，尤其是在患有慢性肾病的患者中。然而，亮丙瑞林治疗不会直接导致PTH水平升高。虽然维生素D缺乏症会损害钙吸收并导致继发性甲状旁腺功能亢进，但这并不是亮丙瑞林引起的骨丢失的主要机制。\n\n(选项E) 副肿瘤综合征，例如恶性肿瘤的体液性高钙血症(HHM)，可引起骨吸收。然而，HHM通常与PTH相关蛋白(PTHrP)升高有关，并表现为高钙血症、便秘和嗜睡，而不是骨质疏松症作为主要表现。虽然前列腺癌很少会引起副肿瘤综合征，但在这种临床情况下，亮丙瑞林对性激素产生的直接影响是骨质疏松症更常见且直接的原因。\n\n教育目标：长期使用GnRH激动剂（例如，亮丙瑞林）会抑制垂体LH的释放，并导致睾酮产量降低。较低水平的循环睾酮会产生与手术去势相似的临床效果，并可能导致骨丢失加速和骨质疏松症的风险增加。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the endocrine effects of GnRH agonist therapy, specifically leuprolide, on bone density in men. It assesses the knowledge of how hormonal suppression, particularly of testosterone and its aromatized form, estrogen, contributes to the development of osteoporosis.\n\nTo solve this question, one must identify the patient's medication (leuprolide) and its known mechanism of action on the hypothalamic-pituitary-gonadal axis. Understanding the role of sex hormones (testosterone and estrogen) in bone metabolism is crucial to linking the medication's effects to the observed osteoporosis.",
+    "zh": "这道题考察了对GnRH激动剂治疗（特别是亮丙瑞林）对男性骨密度的内分泌影响的理解。它评估了对激素抑制（特别是睾酮及其芳香化形式雌激素）如何促进骨质疏松症发展的知识。\n\n要解决这个问题，必须确定患者的药物（亮丙瑞林）及其在下丘脑-垂体-性腺轴上的已知作用机制。了解性激素（睾酮和雌激素）在骨代谢中的作用对于将药物的作用与观察到的骨质疏松症联系起来至关重要。"
+  },
+  "tags": "Osteoporosis; Leuprolide; GnRH agonist; Prostate cancer; Testosterone deficiency; Estrogen deficiency; Bone density; Endocrinology; Urology",
+  "category": "Endo",
+  "question_id": "14952",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\14952",
+  "extracted_at": "2025-11-05T19:21:01.729019",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:37:32.215428",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

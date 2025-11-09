@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old woman comes to the hospital due to worsening dyspnea. The patient was previously healthy; 2 months ago, she delivered a healthy baby boy at 38 weeks gestation. Her arterial blood gas analysis shows evidence of hypoventilation. During further evaluation, she is asked to take several maximally deep breaths, and the following physiologic information is obtained: {{exhibit_1}}",
+    "zh": "一名25岁的女性因呼吸困难加重来到医院。患者此前身体健康； 2个月前，她在妊娠38周时顺产生下了一个健康的男婴。她的动脉血气分析显示通气不足的证据。在进一步评估期间，她被要求进行几次最大限度的深呼吸，并获得以下生理信息：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following locations is the most likely site of this patient's disease?",
+    "zh": "以下哪个位置最可能是该患者疾病的部位？"
+  },
+  "options": {
+    "A": {
+      "en": "Brainstem",
+      "zh": "脑干"
+    },
+    "B": {
+      "en": "Nasopharynx",
+      "zh": "鼻咽"
+    },
+    "C": {
+      "en": "Neuromuscular junction",
+      "zh": "神经肌肉接头"
+    },
+    "D": {
+      "en": "Pericardial space",
+      "zh": "心包腔"
+    },
+    "E": {
+      "en": "Peripheral nerves",
+      "zh": "周围神经"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The above graph shows phrenic nerve signaling and the corresponding diaphragmatic response (or contraction to produce a more negative intrapleural pressure). The patient's results show progressive attenuation of the intrapleural pressure (ie, progressively weaker diaphragmatic contractions) despite no decrease in nerve activity, which could potentially be caused by primary respiratory muscle fatigue (due to increased work of breathing from severe obstructive/restrictive lung disease) or impaired neuromuscular transmission; onset in the postpartum period is suggestive of myasthenia gravis, an autoimmune disorder that impacts the neuromuscular junction.\n\nIn myasthenia gravis, autoantibodies against postsynaptic acetylcholine receptors cause fatigable muscle weakness as acetylcholine stores within the presynaptic nerve terminal become progressively depleted with repetitive stimulation. Although weakness in myasthenia gravis most commonly impacts the eyes (eg, diplopia), bulbar muscles, and/or extremities, it can manifest as respiratory failure (ie, myasthenic crisis), as seen in this patient.\n\n(Choice A) Impairment of the respiratory control centers in the brainstem can result in decreased frequency and/or amplitude of involuntary respirations (Ondine curse). Voluntary breathing is unaffected.\n\n(Choice B) Nasopharyngeal lesions are unlikely to cause inspiratory airflow obstruction severe enough to cause rapid diaphragmatic fatigue because the oropharynx remains unobstructed (allowing the patient to breathe from the mouth).\n\n(Choices D and E) Metastatic disease to the pericardium could compress the phrenic nerve along its course. In addition, the phrenic nerve can be affected by peripheral neuropathy. However, both diseases cause uniform, weak inspirations during maximal voluntary ventilation rather than progressively weaker (ie, fatigable) diaphragmatic contractions.\n\nEducational objective:\nProgressively weakening diaphragmatic contractions during maximal voluntary ventilation with intact phrenic nerve stimulation indicate neuromuscular junction pathology (eg, myasthenia gravis) or abnormally rapid primary muscle fatigue (eg, severe obstructive/restrictive lung disease).",
+    "zh": "上图显示了膈神经信号传导和相应的膈肌反应（或收缩以产生更负的胸腔内压力）。患者的结果显示，尽管神经活动没有下降，但胸腔内压力逐渐减弱（即，膈肌收缩逐渐减弱），这可能由原发性呼吸肌疲劳（由于严重阻塞性/限制性肺病导致呼吸做功增加）或神经肌肉传递受损引起；产后发病提示重症肌无力，这是一种影响神经肌肉接头的自身免疫性疾病。\n\n在重症肌无力中，针对突触后乙酰胆碱受体的自身抗体导致易疲劳的肌肉无力，因为突触前神经末梢内的乙酰胆碱储存随着重复刺激而逐渐耗尽。尽管重症肌无力中最常见的无力影响眼睛（例如，复视）、延髓肌和/或四肢，但它可能表现为呼吸衰竭（即，肌无力危象），如该患者所见。\n\n(选项A) 脑干中呼吸控制中心的损伤可导致不自主呼吸的频率和/或振幅降低（Ondine诅咒）。自主呼吸不受影响。\n\n(选项B) 鼻咽病变不太可能引起足以导致膈肌快速疲劳的吸气气流阻塞，因为口咽保持畅通（允许患者通过口腔呼吸）。\n\n(选项D和E) 转移性疾病到心包可能会在其过程中压迫膈神经。此外，周围神经病变也会影响膈神经。然而，这两种疾病都会在最大自主通气期间引起均匀、微弱的吸气，而不是逐渐减弱（即，易疲劳）的膈肌收缩。\n\n教育目标：\n在最大自主通气期间，膈肌收缩逐渐减弱，同时膈神经刺激完整，表明神经肌肉接头病变（例如，重症肌无力）或异常快速的原发性肌肉疲劳（例如，严重阻塞性/限制性肺病）。"
+  },
+  "summary": {
+    "en": "This question tests the ability to interpret physiological data (phrenic nerve activity and intrapleural pressure) in the context of a patient presenting with dyspnea, and to identify the most likely location of the disease process. It requires knowledge of neuromuscular junction disorders, specifically myasthenia gravis, and its effect on respiratory function.\n\nThe key to solving this question is recognizing the progressive attenuation of intrapleural pressure despite intact phrenic nerve activity, which points towards a problem at the neuromuscular junction. Ruling out other options based on the clinical presentation and the physiological data is also crucial.",
+    "zh": "此问题测试了在出现呼吸困难的患者的背景下解释生理数据（膈神经活动和胸腔内压力）的能力，并确定最可能的疾病过程部位。这需要了解神经肌肉接头疾病，特别是重症肌无力，及其对呼吸功能的影响。\n\n解决此问题的关键是认识到尽管膈神经活动完整，但胸腔内压力逐渐减弱，这表明神经肌肉接头存在问题。根据临床表现和生理数据排除其他选项也很关键。"
+  },
+  "tags": "Myasthenia gravis; Neuromuscular junction; Respiratory failure; Phrenic nerve; Diaphragm; Autoimmune disease; Neurology; Pulmonary function testing; Postpartum; Hypoventilation",
+  "category": "Neuro",
+  "question_id": "1657",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1657",
+  "extracted_at": "2025-11-05T15:21:04.057560",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:21:15.957626",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

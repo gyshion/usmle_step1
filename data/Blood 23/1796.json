@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old woman comes to the office due to reduced energy and fatigue. She reports heavy menstrual bleeding over the past 6 months. The patient is found to have hypochromic microcytic anemia. Iron supplementation is prescribed. A week later, a peripheral blood smear shows numerous enlarged red blood cells that have a bluish hue on Wright-Giemsa staining. {{exhibit_1}}",
+    "zh": "一名35岁的女性因精力下降和疲劳来就诊。她报告说过去6个月月经量多。患者被发现患有低色素性小细胞性贫血。处方铁剂补充。一周后，外周血涂片显示大量扩大的红细胞，在瑞氏-吉姆萨染色下呈蓝调。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "The bluish color of these red blood cells is best explained by the presence of which of the following?",
+    "zh": "这些红细胞的蓝染颜色最好地解释为以下哪一种物质的存在？"
+  },
+  "options": {
+    "A": {
+      "en": "Golgi apparatus",
+      "zh": "高尔基体"
+    },
+    "B": {
+      "en": "Hemoglobin precipitates",
+      "zh": "血红蛋白沉淀"
+    },
+    "C": {
+      "en": "Histones",
+      "zh": "组蛋白"
+    },
+    "D": {
+      "en": "Mitochondria",
+      "zh": "线粒体"
+    },
+    "E": {
+      "en": "Nuclear remnant",
+      "zh": "核残余"
+    },
+    "F": {
+      "en": "Ribosomal RNA",
+      "zh": "核糖体RNA"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "Reticulocytes (immature RBCs) has iron deficiency anemia (mostly due to menstrual blood loss); characterized by the presence of microcytic (ie, small), hypochromic (ie, pale) red blood cells (RBCs). Patients with iron deficiency anemia who receive iron replacement therapy experience enhanced erythropoiesis and accelerated release of reticulocytes into the bloodstream as the bone marrow attempts to correct the anemia.\n\nReticulocytes (immature RBCs) are anucleate (like mature RBCs) but are enlarged and have a blue-gray hue on Wright-Giemsa staining. This bluish color (ie, polychromatophilia) is due to the presence of large amounts of ribosomal RNA necessary for adequate hemoglobin synthesis. The ribosomal RNA can be distinguished using a supravital stain that binds RNA (eg, new methylene blue) and appears as a blue, reticular (ie, net-like) substance. Ribosomal RNA is gradually degraded as the reticulocyte matures. After spending a day or more in the bloodstream, the maturation process is complete, and the reticulocyte transforms into a mature RBC, which has a lifespan of approximately 120 days. {{exhibit_2}}\n\n(Choices A and D) Young reticulocytes contain organelles necessary for cell development, including mitochondria and remnants of Golgi apparatus, which are also removed as the reticulocyte matures. However, it is the ribosomal RNA that imparts the bluish color on Wright-Giemsa staining.\n\n(Choice B) Heinz bodies consist of denatured hemoglobin precipitate and are associated with glucose-6-phosphate dehydrogenase deficiency. They cannot be seen on Wright-Giemsa staining but appear as round, peripheral RBC inclusions using a supravital stain.\n\n(Choice C) Histone proteins are found in the nucleus. During erythropoiesis, the erythroblast ejects its nucleus, forming a reticulocyte; because the reticulocyte does not have a nucleus, it does not contain histones.\n\n(Choice E) Howell-Jolly bodies are nuclear remnants visible on Wright-Giemsa staining as purple, round, peripheral RBC inclusions. They are associated with asplenia or hyposplenia because the spleen typically removes these nuclear remnants.\n\nEducational objective:\nReticulocytes (immature red blood cells) appear as blue-gray (ie, polychromatophilic) red blood cells on Wright-Giemsa staining due to the presence of ribosomal RNA. In patients with iron deficiency anemia, iron supplementation results in increased bone marrow erythropoiesis and accelerated release of reticulocytes into the bloodstream.",
+    "zh": "网织红细胞（未成熟红细胞）有缺铁性贫血（主要由于月经失血）；其特征是存在小细胞性（即小）、低色素性（即苍白）的红细胞（RBC）。接受铁剂替代治疗的缺铁性贫血患者，由于骨髓试图纠正贫血，会经历红细胞生成增强和网织红细胞加速释放到血流中。\n\n网织红细胞（未成熟红细胞）无核（如成熟红细胞），但增大并在瑞氏-吉姆萨染色下呈蓝灰色。这种蓝染颜色（即，嗜多染性）是由于存在大量核糖体RNA，而核糖体RNA是充足血红蛋白合成所必需的。可以使用与RNA结合的活体染色剂（例如，新亚甲蓝）来区分核糖体RNA，其显示为蓝色、网状物质。随着网织红细胞的成熟，核糖体RNA逐渐降解。在血流中停留一天或更长时间后，成熟过程完成，网织红细胞转化为成熟红细胞，其寿命约为120天。{{exhibit_2}}\n\n（选项 A 和 D）年轻的网织红细胞含有细胞发育所需的细胞器，包括线粒体和高尔基体的残余，这些也会随着网织红细胞的成熟而被移除。然而，正是核糖体RNA赋予了瑞氏-吉姆萨染色的蓝染颜色。\n\n（选项 B）Heinz小体由变性血红蛋白沉淀物组成，与葡萄糖-6-磷酸脱氢酶缺乏症有关。它们不能在瑞氏-吉姆萨染色中看到，但在活体染色剂下显示为圆形、外周RBC包涵体。\n\n（选项 C）组蛋白存在于细胞核中。在红细胞生成过程中，原红细胞会射出其细胞核，形成网织红细胞；由于网织红细胞没有细胞核，因此不含组蛋白。\n\n（选项 E）Howell-Jolly小体是细胞核残余，在瑞氏-吉姆萨染色中可见，为紫色、圆形、外周RBC包涵体。它们与无脾或脾功能减退有关，因为脾脏通常会清除这些核残余。\n\n教育目标：\n网织红细胞（未成熟红细胞）在瑞氏-吉姆萨染色中表现为蓝灰色（即嗜多染性）红细胞，这是由于存在核糖体RNA。在缺铁性贫血患者中，补充铁剂会导致骨髓红细胞生成增加，并加速网织红细胞释放到血流中。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of reticulocyte characteristics and the cause of their bluish appearance on Wright-Giemsa staining. It also assesses understanding of iron deficiency anemia and the body's response to iron supplementation.\n\nTo solve this question, recognize the clinical scenario of iron deficiency anemia treated with iron supplementation, leading to increased reticulocyte production. Recall that reticulocytes have a bluish hue due to ribosomal RNA, which is essential for hemoglobin synthesis.",
+    "zh": "此题考查对网织红细胞特征及其在瑞氏-吉姆萨染色下呈蓝染外观原因的了解。 它还评估对缺铁性贫血和身体对铁剂补充反应的理解。\n\n要解决这个问题，需要识别使用铁剂补充治疗缺铁性贫血的临床情况，从而导致网织红细胞的产生增加。 回忆一下，网织红细胞由于核糖体RNA而呈现蓝色调，而核糖体RNA对于血红蛋白合成至关重要。"
+  },
+  "tags": "Reticulocytes; Wright-Giemsa stain; Ribosomal RNA; Iron deficiency anemia; Polychromatophilia; Hematology; Anemia",
+  "category": "Blood",
+  "question_id": "1796",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1796",
+  "extracted_at": "2025-11-05T11:28:26.785944",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:29:20.932164",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

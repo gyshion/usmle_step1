@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "42-year-old man comes to the emergency department due to several hours of dyspnea. He is a long-haul truck driver who became acutely short of breath during a 36-hour trip but previously had been healthy. The patient smokes a pack of cigarettes daily and drinks a 6-pack of beer on weekends. Pulmonary examination reveals vesicular breath sounds bilaterally with the overlying areas resonant to percussion. CT pulmonary angiogram {{exhibit_1}} shows a right lower lobe pulmonary artery occlusion consistent with pulmonary embolism but no evidence of pulmonary infarction. Which of the following is the most likely reason for the lack of lung tissue necrosis in this patient?",
+    "zh": "一名42岁男性因数小时的呼吸困难来到急诊科就诊。他是一名长途卡车司机，在36小时的旅程中突然出现呼吸急促，但此前一直很健康。该患者每天吸一包香烟，周末喝6罐啤酒。肺部检查显示双侧肺泡呼吸音，叩诊呈清音。CT肺血管造影 {{exhibit_1}} 显示右肺下叶肺动脉闭塞，与肺栓塞一致，但无肺梗死的证据。以下哪项最可能是该患者缺乏肺组织坏死的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely reason for the lack of lung tissue necrosis in this patient?",
+    "zh": "以下哪项最可能是该患者缺乏肺组织坏死的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Collateral circulation",
+      "zh": "侧支循环"
+    },
+    "B": {
+      "en": "Decreased surfactant",
+      "zh": "表面活性物质减少"
+    },
+    "C": {
+      "en": "Endothelial tissue plasminogen activator",
+      "zh": "内皮组织纤溶酶原激活物"
+    },
+    "D": {
+      "en": "Increased pulmonary venous pressure",
+      "zh": "肺静脉压升高"
+    },
+    "E": {
+      "en": "Intrapulmonary shunting",
+      "zh": "肺内分流"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The lung is supplied by dual circulation from both the pulmonary arteries and bronchial arteries. This collateral circulation can help protect against lung infarction as a complication of PULMONARY EMBOLISM (PE). {{exhibit_2}}\n\nThe pulmonary arteries are the major suppliers of blood to the lungs, providing deoxygenated blood for gas exchange; the bronchial arteries supply nutrients, remove waste from the bronchi, and provide collateral blood flow to the remainder of the lung parenchyma. When a clot occludes the pulmonary system, the bronchial system continues to supply nutrients to pulmonary tissue and can even backfill the pulmonary capillaries to partially maintain gas exchange in the area of the thromboembolism.\n\nDistal PEs in small arteries (≤3 mm) are more likely to cause infarction as they may occlude areas distal to the pulmonary-bronchial anastomoses. When a pulmonary infarction does occur, it is typically hemorrhagic (red) rather than ischemic (white) due to the relatively low density of lung tissue and the dual blood supply.\n\n(Choice B) Alveolar inflammation triggered by PE can eventually lead to decreased surfactant and some degree of atelectasis. This process can take up to 2 days to develop, and the resulting intrapulmonary shunting makes a small contribution to the hypoxemia that occurs with PE.\n\n(Choice C) Recombinant tissue plasminogen activator (TPA) may be used to treat PE in patients who are hemodynamically unstable. However, endothelial-derived TPA is limited primarily to the bronchial circulation, and spontaneous recanalization of the pulmonary artery is a slow process.\n\n(Choice D) PE leads to increased pulmonary arterial pressure; however, the pulmonary venous pressure is unchanged or decreased as blood flow through the proximal pulmonary circulation is obstructed. Patients with an underlying elevation in pulmonary venous pressure (eg, decompensated heart failure) may be more likely to experience lung infarction with PE due to the high pulmonary venous pressure impairing collateral flow from the bronchial circulation.\n\n(Choice E) Intrapulmonary shunting occurs when an area of the lung is adequately perfused but poorly ventilated. PE causes intrapulmonary shunting due to redistribution of blood away from segments directly affected by the clot; the remaining accessible alveoli are unable to fully oxygenate all the blood passing through the pulmonary circulation, resulting in hypoxemia. In contrast, areas distal to the clot receive adequate ventilation but poor perfusion (ie, dead space ventilation).\n\nEducational objective:\nThe lungs are supplied by dual circulation from both the pulmonary and bronchial arteries. This collateral circulation can help protect against lung infarction due to pulmonary artery occlusion (ie, pulmonary embolism), as the bronchial circulation can continue to provide blood to the lung parenchyma.",
+    "zh": "肺部由肺动脉和支气管动脉的双重循环供血。这种侧支循环可以帮助预防肺梗死，作为肺栓塞 (PE) 的并发症。{{exhibit_2}}\n\n肺动脉是肺的主要供血动脉，提供脱氧血进行气体交换；支气管动脉供应营养物质，清除支气管内的废物，并向其余肺实质提供侧支血流。当血栓阻塞肺循环系统时，支气管系统继续向肺组织供应营养物质，甚至可以回填肺毛细血管，部分维持血栓栓塞区域的气体交换。\n\n远端肺动脉栓塞，发生在小动脉（≤3毫米）中，更容易导致梗死，因为它们可能会阻塞肺-支气管吻合的远端区域。当发生肺梗死时，由于肺组织的密度相对较低以及双重血液供应，它通常是出血性的（红色）而不是缺血性的（白色）。\n\n（选项 B）肺栓塞触发的肺泡炎症最终可能导致表面活性物质减少和一定程度的肺不张。这个过程可能需要长达 2 天才能发展，由此产生的肺内分流对肺栓塞引起的低氧血症有小的影响。\n\n（选项 C）重组组织纤溶酶原激活剂 (TPA) 可用于治疗血流动力学不稳定的肺栓塞患者。然而，内皮来源的 TPA 主要限于支气管循环，肺动脉的自发再通是一个缓慢的过程。\n\n（选项 D）肺栓塞导致肺动脉压力升高；然而，由于通过近端肺循环的血流受阻，肺静脉压保持不变或降低。患有潜在肺静脉压升高（例如，失代偿性心力衰竭）的患者更容易因肺静脉压高而导致肺栓塞引起肺梗死，从而损害支气管循环的侧支血流。\n\n（选项 E）当肺部某区域灌注充足但通气不良时，会发生肺内分流。由于血液从血栓直接影响的肺段重新分布，肺栓塞引起肺内分流；剩余的可及肺泡无法完全氧化所有通过肺循环的血液，导致低氧血症。相反，血栓远端区域通气充足但灌注不良（即无效腔通气）。\n\n教学目标：\n肺部由肺动脉和支气管动脉的双重循环供血。这种侧支循环可以帮助预防肺动脉闭塞（即肺栓塞）引起的肺梗死，因为支气管循环可以继续向肺实质供血。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the dual blood supply to the lungs and how it protects against infarction in the setting of pulmonary embolism. It also tests understanding of the pathophysiology of pulmonary embolism and its complications.\n\nTo solve this question, recognize that the lungs have both pulmonary and bronchial arterial supply. The bronchial circulation provides collateral blood flow, preventing infarction when the pulmonary artery is occluded. Consider the other options in the context of pulmonary embolism pathophysiology.",
+    "zh": "此题考察对肺部双重血供的知识，以及它如何在肺栓塞的情况下防止梗死。它还考察对肺栓塞的病理生理学及其并发症的理解。\n\n要解决此题，请认识到肺部具有肺动脉和支气管动脉的供应。当肺动脉闭塞时，支气管循环提供侧支血流，防止梗死。考虑其他选项在肺栓塞病理生理学的背景下。"
+  },
+  "tags": "Pulmonary embolism; Lung infarction; Collateral circulation; Bronchial arteries; Pulmonary arteries; Respiratory system; Vascular system",
+  "category": "Chest",
+  "question_id": "11774",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\11774",
+  "extracted_at": "2025-11-05T11:36:24.837580",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:33:33.038031",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

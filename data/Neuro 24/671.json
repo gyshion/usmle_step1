@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 16-year-old boy is evaluated for progressive gait instability, dysmetria, and dysarthria for the past several years. The patient enjoys basketball but can no longer play due to his worsening symptoms. He is worried because his brother developed similar symptoms and died at age 21. Physical examination of the lower extremities reveals bilateral motor weakness and loss of deep tendon reflexes, joint position, and vibration sense. MRI of the brain and spine shows degeneration of the posterior columns and spinocerebellar tracts. {{exhibit_1}}",
+    "zh": "一名16岁男孩因过去几年进行性步态不稳、辨距障碍和构音障碍前来就诊。患者喜欢打篮球，但由于症状恶化，无法再打。他很担心，因为他的兄弟出现了类似的症状，并在21岁时去世。下肢体格检查显示双侧运动无力，深腱反射、关节位置感和振动感丧失。脑和脊髓的MRI显示后柱和脊髓小脑束退变。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following conditions has neurologic manifestations that most closely resemble this patient's disease?",
+    "zh": "以下哪种疾病的神经系统表现与该患者的疾病最为相似？"
+  },
+  "options": {
+    "A": {
+      "en": "Acute intermittent porphyria",
+      "zh": "急性间歇性卟啉症"
+    },
+    "B": {
+      "en": "Guillain-Barré syndrome",
+      "zh": "格林-巴利综合征"
+    },
+    "C": {
+      "en": "Lead intoxication",
+      "zh": "铅中毒"
+    },
+    "D": {
+      "en": "Prion disease",
+      "zh": "朊蛋白病"
+    },
+    "E": {
+      "en": "Vitamin E deficiency",
+      "zh": "维生素E缺乏症"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient has progressive ataxia, dysmetria, and dysarthria. With a family history of similar symptoms, the most likely diagnosis is Friedrich ataxia (FA), the most common hereditary form of ataxia. This degenerative condition is due to an autosomal recessive mutation in the frataxin gene, which leads to degeneration of the posterior columns and spinocerebellar tracts; affected patients usually have symptom onset in adolescence and a shortened life span.\n\nA condition that can mimic FA is VITAMIN E DEFICIENCY. Vitamin E is a lipid-soluble, antioxidant vitamin that is widely available in the diet; deficiency is rare and typically occurs in patients with fat malabsorption (eg, cystic fibrosis) or abetalipoproteinemia. Neurologic dysfunction in vitamin E deficiency occurs due to free radical damage to neuronal cell membranes. Shared features of FA and vitamin E deficiency include:\n\n* Ataxia due to degeneration of spinocerebellar tracts\n* Loss of position and vibration sense due to degeneration of the dorsal columns\n* Weakness and loss of deep tendon reflexes due to peripheral nerve degeneration\n\nPatients with suspected FA but without a frataxin mutation should undergo vitamin E testing. Unlike FA, individuals with vitamin E deficiency often have additional HEMOLYTIC ANEMIA due to free radical damage of erythrocyte membranes. Vitamin B12 deficiency may also present similarly to FA due to subacute combined degeneration of the dorsal and lateral spinal columns.\n\n(Choice A) Acute intermittent porphyria presents with acute attacks of abdominal pain and peripheral neuropathy (eg, numbness, paresthesias), not progressive ataxia. In addition, it does not cause spinal cord degeneration.\n\n(Choice B) Guillain-Barré syndrome typically presents after a diarrhea (eg, Campylobacter jejuni) or upper respiratory infection with symmetric, ascending weakness, hyporeflexia, and paresthesias due to demyelination of peripheral nerves. The spinal cord is not affected, so proprioception remains intact and ataxia does not occur.\n\n(Choice C) Lead intoxication is usually asymptomatic but can cause nonspecific gastrointestinal symptoms (eg, constipation, abdominal pain) and neurobehavioral problems (eg, poor memory, difficulty concentrating). Severe toxicity may lead to encephalopathy and ataxia, but spinal cord degeneration would not be seen.\n\n(Choice D) Creutzfeldt-Jakob disease is a prion disease that presents with progressive dementia and myoclonic jerks of the extremities. Ataxia can occur due to involvement of the cerebellum. However, patients usually experience rapid neurologic decline and death within a year of symptom onset.\n\nEducational objective: Neurologic symptoms of vitamin E deficiency closely mimic those of Friedrich ataxia and include ataxia (spinocerebellar tract degeneration), loss of position and vibration sense (dorsal columns degeneration), and weakness and hyporeflexia (peripheral nerve degeneration).",
+    "zh": "该患者出现进行性共济失调、辨距障碍和构音障碍。结合相似症状的家族史，最可能的诊断是弗里德里希共济失调（FA），这是一种最常见的遗传性共济失调。这种退行性疾病是由于frataxin基因的常染色体隐性突变引起的，导致后柱和脊髓小脑束退变；受影响的患者通常在青春期发病，寿命缩短。\n\n可模仿FA的一种情况是维生素E缺乏症。维生素E是一种脂溶性抗氧化维生素，广泛存在于饮食中；缺乏症很少见，通常发生在脂肪吸收不良的患者中（例如，囊性纤维化）或无β脂蛋白血症患者中。维生素E缺乏症引起的神经功能障碍是由于自由基损伤神经元细胞膜所致。FA和维生素E缺乏症的共同特征包括：\n\n* 由于脊髓小脑束退变引起的共济失调\n* 由于后索退变引起的体位觉和振动觉丧失\n* 由于周围神经退变引起的无力和深腱反射消失\n\n怀疑患有FA但无frataxin基因突变的患者应接受维生素E检测。与FA不同的是，维生素E缺乏症患者通常还会出现溶血性贫血，这是由于自由基损伤红细胞膜所致。维生素B12缺乏症也可能表现出与FA相似的症状，这归因于脊髓背侧和侧索的亚急性联合变性。\n\n(选项A) 急性间歇性卟啉症表现为急腹痛和周围神经病变（例如，麻木、感觉异常），而非进行性共济失调。此外，它不会引起脊髓退变。\n\n(选项B) 格林-巴利综合征通常在腹泻（例如，空肠弯曲菌）或上呼吸道感染后出现，表现为对称性、进行性无力、反射减弱和感觉异常，这是由于周围神经脱髓鞘所致。脊髓不受影响，因此本体感觉保持完整，不会出现共济失调。\n\n(选项C) 铅中毒通常无症状，但可引起非特异性胃肠道症状（例如，便秘、腹痛）和神经行为问题（例如，记忆力差、难以集中注意力）。严重中毒可导致脑病和共济失调，但不会出现脊髓退变。\n\n(选项D) 克雅病是一种朊蛋白病，表现为进行性痴呆和四肢肌阵挛。由于小脑受累，可发生共济失调。然而，患者通常在症状出现后一年内经历快速的神经系统衰退和死亡。\n\n教学目标：维生素E缺乏症的神经系统症状与弗里德里希共济失调的症状非常相似，包括共济失调（脊髓小脑束退变）、体位觉和振动觉丧失（后索退变）以及无力和反射减弱（周围神经退变）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of rare causes of neurological deficits that mimic common hereditary ataxias, specifically focusing on the differential diagnosis of progressive ataxia and the clinical features of vitamin E deficiency. It requires recognizing the overlap in symptoms and MRI findings between Friedrich ataxia and vitamin E deficiency.\n\nTo solve this question, one should first identify the key clinical features presented: progressive ataxia, dysmetria, dysarthria, family history of similar symptoms, degeneration of posterior columns and spinocerebellar tracts, and loss of reflexes, position, and vibration sense. Then, consider the differential diagnoses provided and evaluate which condition best fits this constellation of findings, paying close attention to the specific patterns of neurological involvement and potential underlying etiologies.",
+    "zh": "此题考察对模仿常见遗传性共济失调的罕见神经系统缺陷的理解，特别侧重于进行性共济失调的鉴别诊断以及维生素E缺乏症的临床特征。它需要识别弗里德里希共济失调和维生素E缺乏症之间的症状和MRI结果的重叠。\n\n要解决这个问题，首先应该确定呈现的关键临床特征：进行性共济失调、辨距障碍、构音障碍、相似症状的家族史、后柱和脊髓小脑束退变以及反射、位置感和振动感的丧失。然后，考虑提供的鉴别诊断，并评估哪种情况最符合这些发现的组合，密切关注神经系统受累的特定模式和潜在的病因。"
+  },
+  "tags": "Vitamin E deficiency; Friedrich ataxia; Spinocerebellar degeneration; Posterior column degeneration; Ataxia; Peripheral neuropathy; Hereditary ataxia; Differential diagnosis; Neurology",
+  "category": "Neuro",
+  "question_id": "671",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\671",
+  "extracted_at": "2025-11-05T19:41:04.340584",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:42:20.484559",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

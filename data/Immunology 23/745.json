@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A researcher identifies a group of malignant epithelial cells in the sigmoid colon that have decreased their surface expression of MHC class I antigen. ",
+    "zh": "一名研究人员在乙状结肠中鉴定出一组恶性上皮细胞，这些细胞的 MHC I 类抗原表面表达减少。"
+  },
+  "question": {
+    "en": "Which of the following immune effector cell types is most likely to kill the transformed epithelial cells?",
+    "zh": "以下哪种免疫效应细胞类型最有可能杀死转化的上皮细胞？"
+  },
+  "options": {
+    "A": {
+      "en": "Neutrophils",
+      "zh": "中性粒细胞"
+    },
+    "B": {
+      "en": "Macrophages",
+      "zh": "巨噬细胞"
+    },
+    "C": {
+      "en": "Dendritic cells",
+      "zh": "树突状细胞"
+    },
+    "D": {
+      "en": "CD4+ T lymphocytes",
+      "zh": "CD4+ T 淋巴细胞"
+    },
+    "E": {
+      "en": "Plasma cells",
+      "zh": "浆细胞"
+    },
+    "F": {
+      "en": "Natural killer cells",
+      "zh": "自然杀伤细胞"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "Natural killer (NK) cells are responsible for the destruction of cells with decreased or absent MHC class I proteins on their surfaces. Such changes in MHC I antigen expression occur in virus-infected cells and tumor cells. Natural killer cells are derived from lymphoid stem cells and comprise approximately 10% of all circulating lymphocytes. They are large cells with cytoplasmic granules containing perforins, which produce holes in target cell membranes, and granzymes, chemicals that induce target cell apoptosis. Granzymes gain access to the target cell via membrane holes created by perforin. The target cell subsequently undergoes apoptosis. NK cells do not directly lyse cells.\n\nNK cells:\n\n1.  Do not express CD4, CD8 or CD3 molecules on their surface. They do express either CD16 or CD 56.\n2.  Do not require the thymus for maturation and are present in athymic patients.\n3.  Have no antigen-specific activities, do not require exposure to antigen for activation, and do not possess antigen memory ability.\n4.  Are activated by interferon-γ and IL-12.\n\n(Choice A) Neutrophils do not directly kill malignant cells.\n\n(Choice B) The functions of macrophages include phagocytosis, antigen presentation to T-helper lymphocytes in association with MHC class II molecules, and secretion of immunomodulatory cytokines, like TNF and IL-1.\n\n(Choice C) Dendritic cells are avid antigen presenting cells that constantly sample their environment by endocytosis and become activated upon encountering a foreign antigen. When activated, dendritic cells migrate to the lymph nodes and spleen where they display antigen with MHC II and co-stimulatory molecules to activate T-cells and B-cells.\n\n(Choice D) CD4+ T-lymphocytes (Tₑ cells) are activated by antigen presented in association with MHC II molecules and can promote cell-mediated (macrophages and CD8+ cells) and/or humoral (B-cells) immune responses.\n\n(Choice E) B-cells transform into plasma cells under the influence of activated Tₑ cells. Plasma cells secrete antigen-specific immunoglobulins.\n\nEducational Objective:\nNK cells recognize and kill cells with decreased MHC class I antigen cell surface expression, such as virus-infected cells and tumor cells. They are large lymphocytes that contain perforins and granzymes in cytoplasmic granules. NK cells kill target cells by inducing apoptosis.",
+    "zh": "自然杀伤 (NK) 细胞负责摧毁表面 MHC I 类蛋白减少或缺失的细胞。 这种 MHC I 类抗原表达的变化发生在病毒感染的细胞和肿瘤细胞中。 自然杀伤细胞源自淋巴干细胞，约占所有循环淋巴细胞的 10%。 它们是大细胞，细胞质颗粒包含穿孔素，穿孔素在靶细胞膜上产生孔洞，以及颗粒酶，一种诱导靶细胞凋亡的化学物质。 颗粒酶通过穿孔素产生的膜孔进入靶细胞。 随后靶细胞发生凋亡。 NK 细胞不直接溶解细胞。\n\nNK 细胞：\n\n1.  在其表面不表达 CD4、CD8 或 CD3 分子。 它们确实表达 CD16 或 CD56。\n2.  不需要胸腺进行成熟，并且存在于无胸腺患者中。\n3.  没有抗原特异性活性，不需要接触抗原来激活，并且不具备抗原记忆能力。\n4.  被干扰素-γ 和 IL-12 激活。\n\n(选项 A) 中性粒细胞不直接杀死恶性细胞。\n\n(选项 B) 巨噬细胞的功能包括吞噬作用、与 MHC II 类分子相关的抗原呈递给辅助性 T 淋巴细胞，以及分泌免疫调节细胞因子，如 TNF 和 IL-1。\n\n(选项 C) 树突状细胞是活跃的抗原呈递细胞，通过内吞作用不断地采样其环境，并在遇到外来抗原后被激活。 当被激活时，树突状细胞迁移到淋巴结和脾脏，在那里它们与 MHC II 类和共刺激分子一起展示抗原，以激活 T 细胞和 B 细胞。\n\n(选项 D) CD4+ T 淋巴细胞 (Tₑ 细胞) 被与 MHC II 类分子相关的呈递抗原激活，并且可以促进细胞介导 (巨噬细胞和 CD8+ 细胞) 和/或体液 (B 细胞) 免疫反应。\n\n(选项 E) 在激活的 Tₑ 细胞的影响下，B 细胞转化为浆细胞。 浆细胞分泌抗原特异性免疫球蛋白。\n\n教育目标：\nNK 细胞识别并杀死 MHC I 类抗原细胞表面表达减少的细胞，例如病毒感染的细胞和肿瘤细胞。 它们是大型淋巴细胞，细胞质颗粒中含有穿孔素和颗粒酶。 NK 细胞通过诱导凋亡来杀死靶细胞。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Natural Killer (NK) cells and their role in eliminating cells with decreased MHC class I expression, a common characteristic of virally infected or cancerous cells. It also tests understanding of the mechanisms by which NK cells induce apoptosis in target cells.\n\nTo solve this question, recall that NK cells are part of the innate immune system and target cells with reduced MHC class I expression. Understanding the function of other immune cells (neutrophils, macrophages, dendritic cells, T cells, and plasma cells) helps to eliminate incorrect options.",
+    "zh": "此问题测试对自然杀伤 (NK) 细胞及其在消除 MHC I 类表达降低的细胞中的作用的了解，这是病毒感染或癌细胞的常见特征。 它还测试对 NK 细胞诱导靶细胞凋亡的机制的理解。\n\n要解决这个问题，请回忆一下 NK 细胞是先天免疫系统的一部分，并靶向 MHC I 类表达降低的细胞。 了解其他免疫细胞（中性粒细胞、巨噬细胞、树突状细胞、T 细胞和浆细胞）的功能有助于排除不正确的选项。"
+  },
+  "tags": "Natural killer cells; MHC class I; Immune response; Apoptosis; Tumor immunology; Viral immunology; Innate immunity",
+  "category": "Immunology",
+  "question_id": "745",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\745",
+  "extracted_at": "2025-11-05T14:45:59.072182",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:03:15.758652",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

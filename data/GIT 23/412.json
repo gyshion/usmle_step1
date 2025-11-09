@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old woman diagnosed with Crohn disease 3 years ago comes to the office due to recurrent right upper quadrant abdominal pain. The pain is graded 5/10 in intensity, is characterized as dull, and occasionally radiates to the right shoulder. It typically occurs after eating fatty meals and is associated with nausea. The patient has no fever, vomiting, melena, or hematochezia. She currently takes infliximab for Crohn disease and atorvastatin for hyperlipidemia. Vital signs and abdominal examination are normal. Abdominal ultrasonography reveals multiple mobile calculi within the gallbladder.",
+    "zh": "一名 45 岁女性，3 年前诊断患有克罗恩病，因反复出现的右上腹疼痛前来就诊。 疼痛程度评为 5/10，表现为钝痛，偶尔放射至右肩。 它通常发生在进食高脂餐后，并伴有恶心。 患者无发热、呕吐、黑便或便血。 她目前服用英夫利昔单抗治疗克罗恩病，并服用阿托伐他汀治疗高脂血症。 生命体征和腹部检查均正常。 腹部超声检查显示胆囊内有多个可移动的结石。"
+  },
+  "question": {
+    "en": "Which of the following processes is most likely responsible for the development of gallstones in this patient?",
+    "zh": "以下哪种过程最有可能导致该患者胆结石的形成？"
+  },
+  "options": {
+    "A": {
+      "en": "Gallbladder hypomotility",
+      "zh": "胆囊收缩功能减退"
+    },
+    "B": {
+      "en": "Increased bile acid wasting",
+      "zh": "胆汁酸流失增加"
+    },
+    "C": {
+      "en": "Increased intestinal oxalate absorption",
+      "zh": "肠道草酸盐吸收增加"
+    },
+    "D": {
+      "en": "Medication side effect",
+      "zh": "药物副作用"
+    },
+    "E": {
+      "en": "Red blood cell destruction",
+      "zh": "红细胞破坏"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient with Crohn disease most likely developed gallstones due to inflammation of the terminal ileum causing decreased bile acid reabsorption. {{exhibit_1}}\n\nBile acids are produced in the liver and excreted with bile into the duodenum. There, they emulsify fat droplets to form water-soluble micelles that allow pancreatic lipase to efficiently hydrolyze triglycerides into fatty acids and monoglycerides. In the jejunum, these micelles come in close contact with the gut epithelium, which facilitates the passive absorption of fatty acids, monoglycerides, and cholesterol across the brush border into enterocytes. However, bile acids are ionized molecules that cannot passively cross the intestinal wall. The bile acids eventually reach the terminal ileum, where specialized transport proteins allow them to be reabsorbed.\n\nThe terminal ileum is a typical location of activity in Crohn disease. When the mucosa of the terminal ileum is inflamed, bile acids are lost in the feces. As a result, a lesser amount of bile acid is present in the bile, so the ratio of cholesterol/bile acids increases. Supersaturation of the bile with cholesterol then leads to formation of gallstones.\n\n(Choice A) Gallbladder hypomotility may contribute to cholesterol gallstone formation in patients with spinal cord injury or those receiving total parenteral nutrition; however, this is not observed with Crohn disease.\n\n(Choice C) Increased intestinal oxalate absorption can contribute to calcium oxalate kidney stone formation in patients with Crohn disease (enteric oxaluria). However, this process is not responsible for the development of gallstones.\n\n(Choice D) Statins inhibit the rate-limiting step of cholesterol synthesis (HMG-CoA reductase), which reduces the risk of gallstone formation. Infliximab is a tumor necrosis factor-alpha inhibitor used to treat severe or refractory Crohn disease; it is associated with an increased risk of serious infections.\n\n(Choice E) Chronic hemolytic anemias are associated with the development of pigment gallstones due to the increased secretion of bilirubin into bile. Crohn disease can cause anemia due to nutrient deficiency (eg, vitamin B₁₂, iron) and chronic inflammation (eg, anemia of chronic disease), but it does not typically cause hemolysis.\n\nEducational objective:\nPatients with Crohn disease affecting the terminal ileum (most common site of involvement) are prone to developing gallstones. Decreased bile acid reabsorption by the inflamed terminal ileum promotes cholesterol supersaturation of the bile, resulting in gallstone formation.",
+    "zh": "该克罗恩病患者最有可能因回肠末端炎症导致胆汁酸重吸收减少而形成胆结石。 {{exhibit_1}}\n\n胆汁酸在肝脏中产生，并随胆汁排泄到十二指肠中。 在那里，它们乳化脂肪滴，形成水溶性胶束，使胰脂肪酶能够有效地将甘油三酯水解为脂肪酸和单酰甘油。 在空肠中，这些胶束与肠上皮细胞密切接触，这促进了脂肪酸、单酰甘油和胆固醇通过刷状缘进入肠细胞的被动吸收。 然而，胆汁酸是离子化分子，不能被动穿过肠壁。 胆汁酸最终到达回肠末端，在那里，专门的转运蛋白允许它们被重吸收。\n\n回肠末端是克罗恩病的典型活动部位。 当回肠末端的粘膜发炎时，胆汁酸会随粪便流失。 因此，胆汁中存在的胆汁酸量减少，因此胆固醇/胆汁酸的比例增加。 胆汁中胆固醇过饱和会导致胆结石的形成。\n\n（选项 A） 胆囊收缩功能减退可能导致脊髓损伤患者或接受全胃肠外营养的患者形成胆固醇结石； 然而，在克罗恩病中没有观察到这种情况。\n\n（选项 C） 肠道草酸盐吸收增加可导致克罗恩病患者形成草酸钙肾结石（肠性草酸尿）。 然而，此过程不是导致胆结石形成的原因。\n\n（选项 D） 他汀类药物抑制胆固醇合成的限速步骤（HMG-CoA 还原酶），从而降低胆结石形成的风险。 英夫利昔单抗是一种肿瘤坏死因子-α 抑制剂，用于治疗严重或难治性克罗恩病； 它与严重感染的风险增加相关。\n\n（选项 E） 慢性溶血性贫血与因胆汁中胆红素分泌增加而导致的色素性胆结石的形成有关。 克罗恩病可因营养缺乏（例如，维生素 B₁₂、铁）和慢性炎症（例如，慢性病贫血）引起贫血，但通常不会引起溶血。\n\n教育目标：\n影响回肠末端的克罗恩病患者（最常见的受累部位）容易患上胆结石。 发炎的回肠末端对胆汁酸的重吸收减少促进了胆汁中胆固醇的过饱和，导致胆结石的形成。"
+  },
+  "summary": {
+    "en": "This question tests the pathophysiology of gallstone formation in patients with Crohn's disease, specifically focusing on the role of bile acid malabsorption in the terminal ileum. The key to solving this question is recognizing the connection between Crohn's disease affecting the terminal ileum and the subsequent disruption of bile acid reabsorption, leading to cholesterol supersaturation and gallstone formation.",
+    "zh": "此问题测试克罗恩病患者胆结石形成的病理生理学，特别是侧重于回肠末端胆汁酸吸收不良的作用。 解决此问题的关键是认识到影响回肠末端的克罗恩病与随后的胆汁酸重吸收中断之间的联系，从而导致胆固醇过饱和和胆结石形成。"
+  },
+  "tags": "Crohn's disease; Gallstones; Bile acid malabsorption; Terminal ileum; Gastroenterology",
+  "category": "GIT",
+  "question_id": "412",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\412",
+  "extracted_at": "2025-11-05T14:35:02.288961",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:57:34.672461",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

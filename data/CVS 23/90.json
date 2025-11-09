@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 21-year-old man comes to the office due to recurrent heart palpitations that start and stop abruptly. Further evaluation is indicative of an abnormal conduction pathway in the patient's heart that bypasses the atrioventricular node. Which of the following portions of this patient's ECG is most likely to be affected during normal sinus rhythm? {{exhibit_1}}",
+    "zh": "一名21岁男性因反复发作、突然开始和停止的心悸而就诊。进一步评估表明，患者心脏存在异常传导通路，绕过了房室结。在正常窦性心律期间，以下患者心电图的哪个部分最有可能受到影响？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following portions of this patient's ECG is most likely to be affected during normal sinus rhythm?",
+    "zh": "在正常窦性心律期间，以下患者心电图的哪个部分最有可能受到影响？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This young patient has paroxysmal supraventricular tachycardia (eg, repeated palpitation episodes) due to Wolff-Parkinson-White (WPW) syndrome. WPW syndrome is caused by an accessory pathway (bundle of Kent) that allows electrical impulses to bypass the atrioventricular node and cause preexcitation of the ventricles. This preexcitation leads to characteristic findings on baseline ECG during sinus rhythm, including a shortened PR interval (often <120 msec), slurred upslope of the QRS complex (delta wave), and a widened QRS complex.\n\nMany patients with an accessory conduction pathway are asymptomatic and diagnosed only when a WPW pattern is incidentally recognized on ECG. However, some patients will develop symptomatic arrhythmias. Atrioventricular reentrant tachycardia (AVRT), a type of paroxysmal supraventricular tachycardia, is the most common arrhythmia that occurs with WPW. AVRT results from a rapid reentrant circuit that typically travels down the AV node to the ventricles and back up the accessory pathway, with patients often experiencing palpitations or a feeling of a racing heart.\n\n(Choice A) When in sinus rhythm, a patient with an accessory conduction pathway should have a normal P wave on ECG.\n\n(Choice C) The terminal portion of the QRS complex on ECG is typically unaffected in patients with an accessory conduction pathway.\n\n(Choices D and E) The ST segment and T wave roughly correspond to the plateau and repolarization phases of the ventricular cardiomyocyte action potential, respectively. Because preexcitation causes abnormal ventricular depolarization, it follows that repolarization changes may be present as well, manifesting as alterations in the ST segment and T wave. However, these findings are less common than the usual WPW triad of ECG abnormalities and, when present, are nonspecific for diagnosing an accessory conduction pathway.\n\nEducational objective:\nAn accessory atrioventricular conduction pathway causes ventricular preexcitation that manifests on ECG with a Wolff-Parkinson-White (WPW) pattern, consisting of a shortened PR interval, slurred upslope of the QRS complex (delta wave), and a widened QRS interval. Some patients with an accessory conduction pathway develop paroxysmal tachyarrhythmias, most commonly atrioventricular reentrant tachycardia, which constitutes WPW syndrome. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "这位年轻患者由于Wolff-Parkinson-White (WPW)综合征而出现阵发性室上性心动过速（例如，反复发作的心悸）。WPW综合征是由辅助通路（Kent束）引起的，该通路允许电冲动绕过房室结并引起心室的预激。这种预激导致窦性心律期间基线心电图上出现特征性表现，包括PR间期缩短（通常<120毫秒）、QRS波群的斜坡上升（δ波）以及QRS波群增宽。\n\n许多具有辅助传导通路的患者无症状，仅在心电图上偶然识别出WPW模式时才被诊断出来。然而，一些患者会发展为有症状的心律失常。房室折返性心动过速（AVRT）是一种阵发性室上性心动过速，是WPW最常见的心律失常。AVRT源于一个快速的折返回路，该回路通常沿房室结下行至心室，并沿辅助通路返回，患者通常会感到心悸或心跳加速。\n\n(选项A) 在窦性心律时，具有辅助传导通路的患者应在心电图上具有正常的P波。\n\n(选项C) 具有辅助传导通路的患者的心电图上QRS波群的终末部分通常不受影响。\n\n(选项D和E) ST段和T波分别大致对应于心室心肌细胞动作电位的平台期和复极化期。由于预激引起异常的心室去极化，因此复极化变化也可能存在，表现为ST段和T波的变化。然而，这些发现不如典型WPW心电图异常三联征常见，并且在存在时，对诊断辅助传导通路没有特异性。\n\n教学目标：\n辅助房室传导通路引起心室预激，在心电图上表现为Wolff-Parkinson-White (WPW)模式，包括PR间期缩短、QRS波群的斜坡上升（δ波）和QRS间期增宽。一些具有辅助传导通路的患者会发展为阵发性快速性心律失常，最常见的是房室折返性心动过速，这构成了WPW综合征。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Wolff-Parkinson-White (WPW) syndrome and its characteristic ECG findings during normal sinus rhythm, specifically the presence of a delta wave due to ventricular preexcitation. The key to solving this question is recognizing the ECG changes associated with WPW, including a shortened PR interval, slurred QRS upstroke (delta wave), and widened QRS complex.",
+    "zh": "本题考察对Wolff-Parkinson-White (WPW)综合征及其在正常窦性心律期间的特征性心电图表现的了解，特别是由于心室预激引起的δ波的存在。解决此问题的关键是识别与WPW相关的心电图变化，包括PR间期缩短、QRS波群斜坡上升（δ波）和QRS波群增宽。"
+  },
+  "tags": "Wolff-Parkinson-White syndrome; ECG interpretation; Delta wave; Ventricular preexcitation; Accessory pathway; Atrioventricular reentrant tachycardia; Cardiology; Electrophysiology",
+  "category": "CVS",
+  "question_id": "90",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\90",
+  "extracted_at": "2025-11-05T12:19:21.920136",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:32:19.457448",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

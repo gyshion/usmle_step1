@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "An elderly patient is diagnosed with aggressive non-Hodgkin's lymphoma. The tumor cells are shown to stain strongly for the CD20 marker.",
+    "zh": "一位老年患者被诊断患有侵袭性非霍奇金淋巴瘤。肿瘤细胞显示对CD20标志物有强染色反应。"
+  },
+  "question": {
+    "en": "Which of the following biologic agents can be added to this patient's chemotherapy regimen to help improve the treatment response?",
+    "zh": "以下哪种生物制剂可以添加到该患者的化疗方案中，以帮助改善治疗反应？"
+  },
+  "options": {
+    "A": {
+      "en": "Infliximab",
+      "zh": "英夫利昔单抗"
+    },
+    "B": {
+      "en": "Rituximab",
+      "zh": "利妥昔单抗"
+    },
+    "C": {
+      "en": "Interleukin-2",
+      "zh": "白细胞介素-2"
+    },
+    "D": {
+      "en": "Imatinib",
+      "zh": "伊马替尼"
+    },
+    "E": {
+      "en": "Abciximab",
+      "zh": "阿昔单抗"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The class of treatments known as biologic response modifiers (BRMs) includes antibodies, cytokines and other substances intended to restore or induce the immune system's ability to overcome disease. All of the answer choices here are BRMs.\n\nThe patient described above has a lymphoma that expresses surface CD20, a B-cell marker. Rituximab is a monoclonal antibody used in lymphoma immunotherapy that specifically targets the CD20 surface immunoglobulin.\n\nAnother monoclonal antibody used in cancer treatment is trastuzumab (Herceptin), which is used in the treatment of breast cancer.\n\n(Choice A) Infliximab is a chimeric (human/murine) IgG1 monoclonal antibody to TNF-alpha. This medication has had a significant impact on the management of rheumatoid arthritis. Infliximab is also used to treat ankylosing spondylitis and fistulizing Crohn's disease.\n\n(Choice C) Interleukin-2 is a cytokine that regulates the activation and differentiation of T-cells to aid in tumor cell destruction. It is FDA-approved for the treatment of renal cell carcinoma and melanoma.\n\n(Choice D) Diagnosis of CML requires the presence of the Philadelphia chromosome or the BCR/ABL fusion gene. Imatinib mesylate is a potent inhibitor of the BCR/ABL protein tyrosine kinase. It inhibits the cellular proliferation of BCR/ABL-expressing cells without inducing apoptosis. This oral medication has dramatically changed the management of CML since its introduction.\n\n(Choice E) Abciximab is a chimeric mouse-human monoclonal antibody against the platelet GP IIb/IIIa receptor. It works by blocking the final step in platelet aggregation. Abciximab is often administered during angioplasty in patients with acute coronary syndrome.\n\nEducational Objective:\nRituximab is a monoclonal antibody directed against the CD20 antigen. Its introduction has improved the prognosis of some lymphomas.",
+    "zh": "被称为生物反应调节剂 (BRMs) 的一类治疗方法包括抗体、细胞因子和其他旨在恢复或诱导免疫系统克服疾病能力的物质。这里的回答选项都是BRMs。\n\n上述患者患有表达表面 CD20（一种 B 细胞标志物）的淋巴瘤。利妥昔单抗是一种用于淋巴瘤免疫疗法的单克隆抗体，专门靶向 CD20 表面免疫球蛋白。\n\n另一种用于癌症治疗的单克隆抗体是曲妥珠单抗（赫赛汀），用于治疗乳腺癌。\n\n(选项 A) 英夫利昔单抗是一种针对 TNF-α 的嵌合（人/鼠）IgG1 单克隆抗体。该药物对类风湿关节炎的治疗具有重大影响。英夫利昔单抗还用于治疗强直性脊柱炎和瘘管性克罗恩病。\n\n(选项 C) 白细胞介素-2 是一种调节 T 细胞活化和分化的细胞因子，有助于肿瘤细胞的破坏。它已获得 FDA 批准，用于治疗肾细胞癌和黑色素瘤。\n\n(选项 D) 慢性髓性白血病 (CML) 的诊断需要存在费城染色体或 BCR/ABL 融合基因。伊马替尼甲磺酸盐是 BCR/ABL 蛋白酪氨酸激酶的强效抑制剂。它抑制表达 BCR/ABL 的细胞的增殖，而不诱导细胞凋亡。自该口服药物问世以来，它极大地改变了 CML 的治疗方式。\n\n(选项 E) 阿昔单抗是一种针对血小板 GP IIb/IIIa 受体的嵌合鼠-人单克隆抗体。它通过阻断血小板聚集的最后一步发挥作用。阿昔单抗通常在患有急性冠状动脉综合征的患者的血管成形术期间给药。\n\n教育目标：\n利妥昔单抗是一种针对 CD20 抗原的单克隆抗体。它的引入改善了一些淋巴瘤的预后。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of biologic response modifiers, specifically monoclonal antibodies used in the treatment of non-Hodgkin's lymphoma. It assesses the understanding of CD20 as a target for immunotherapy.\n\nThe key to solving this question is recognizing that the lymphoma expresses CD20 and identifying the monoclonal antibody that specifically targets this marker. Understanding the mechanisms of action of other biologic agents helps eliminate incorrect options.",
+    "zh": "此问题测试对生物反应调节剂的了解，特别是用于治疗非霍奇金淋巴瘤的单克隆抗体。它评估了对 CD20 作为免疫治疗靶点的理解。\n\n解决此问题的关键是认识到淋巴瘤表达 CD20 并确定专门靶向该标志物的单克隆抗体。了解其他生物制剂的作用机制有助于排除不正确的选项。"
+  },
+  "tags": "Non-Hodgkin's lymphoma; CD20; Rituximab; Monoclonal antibody; Immunotherapy; Biologic response modifiers; Oncology",
+  "category": "Blood",
+  "question_id": "1628",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1628",
+  "extracted_at": "2025-11-05T11:26:23.329973",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:28:33.074078",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

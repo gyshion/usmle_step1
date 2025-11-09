@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 42-year-old man is brought to the emergency department following a generalized tonic-clonic seizure witnessed by his family. He has no history of seizures but has had headaches for the past several weeks. The patient works in construction. He lives in the United States and has not traveled recently. The patient has never had pets. He smokes a pack of cigarettes daily and drinks 3 or 4 cans of beer every evening. Physical examination is notable for a postictal state, oral thrush, and several enlarged cervical and inguinal lymph nodes. MRI of the brain with contrast is shown in the image below {{exhibit_1}}.",
+    "zh": "一名42岁男性因家人目击的全身强直-阵挛性癫痫发作被送往急诊科。他既往无癫痫病史，但过去几周一直有头痛。患者从事建筑工作。他居住在美国，近期未曾旅行。患者从未养过宠物。他每天吸一包香烟，每天晚上喝3或4罐啤酒。体格检查可见发作后状态、口腔鹅口疮以及数个颈部和腹股沟淋巴结肿大。以下图片显示了增强的脑部MRI检查结果 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "以下哪项最可能是该患者症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Aspergillus fumigatus",
+      "zh": "烟曲霉"
+    },
+    "B": {
+      "en": "Glioblastoma multiforme",
+      "zh": "多形性胶质母细胞瘤"
+    },
+    "C": {
+      "en": "Neurocysticercosis",
+      "zh": "神经囊尾蚴病"
+    },
+    "D": {
+      "en": "Nocardiosis",
+      "zh": "诺卡菌病"
+    },
+    "E": {
+      "en": "Toxoplasmosis",
+      "zh": "弓形虫病"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The presence of oropharyngeal candidiasis should raise suspicion for HIV infection when a patient has no other risk factors for thrush (eg, dentures, xerostomia, inhaled corticosteroid use, recent antibiotic exposure). Patients with HIV are often unaware of infection and come to clinical attention due to an AIDS-defining illness; in this case, the patient's subacute headaches, new seizure, and multiple ring-enhancing lesions on MRI of the brain suggest toxoplasmic encephalitis {{exhibit_2}}.\n\nToxoplasmic encephalitis is the most common CNS infection in patients with AIDS. Although exposure often occurs due to accidental ingestion of oocytes following handling of feline feces (eg, litter box cleaning, cat handling), many cases arise following ingestion of undercooked meat from an intermediate host (eg, pig, sheep). Therefore, pet exposure is not a prerequisite.\n\nToxoplasmic encephalitis usually presents with slowly progressive headaches, seizures, focal neurologic findings, and/or personality changes. Brain imaging with contrast frequently reveals multiple ring-enhancing lesions with surrounding edema. Diagnosis is supported by the presence of positive toxoplasma serology.\n\n(Choice A) Aspergillus fumigatus is not a common opportunistic pathogen in patients with AIDS, possibly because phagocytic function is relatively preserved despite T-cell dysfunction. A fumigatus typically affects the lungs; however, it can cause brain abscesses in patients who are immunocompromised due to neutropenia or transplant.\n\n(Choice B) Although CNS glioblastomas are ring-enhancing, they are typically solitary and often have a characteristic butterfly appearance.\n\n(Choice C) Neurocysticercosis (due to Taenia solium [pork tapeworm] ingestion) can cause multiple brain lesions, but neuroimaging typically shows lesions at variable stages of degeneration, including cysts, calcifications, and enhancement.\n\n(Choice D) Nocardiosis is more common in patients with defects in cell-mediated immunity (eg, AIDS). Although it can cause headache and seizure, brain imaging would show evidence of abscess (eg, loculation, fluid-filled cavities).\n\nEducational objective:\nPatients with HIV are often unaware of infection and come to clinical attention due to an AIDS-defining illness. The presence of multiple ring-enhancing lesions in a patient with AIDS most likely indicates toxoplasmosis {{exhibit_3}}.",
+    "zh": "当患者没有鹅口疮的其他危险因素（例如，假牙、口干症、吸入皮质类固醇的使用、最近使用抗生素）时，口腔咽念珠菌病的出现应引起对HIV感染的怀疑。HIV感染患者通常并不知道自己被感染，并因艾滋病确诊疾病而就医；在这种情况下，患者的亚急性头痛、新发癫痫发作以及脑部MRI上的多个环状增强病灶提示弓形虫脑炎 {{exhibit_2}}。\n\n弓形虫脑炎是艾滋病患者中最常见的CNS感染。尽管暴露通常是由于意外摄入卵母细胞，在处理猫的粪便后（例如，清理猫砂盆、处理猫）发生，但许多病例是在摄入来自中间宿主（例如，猪、羊）的未煮熟的肉类后发生的。因此，接触宠物并非先决条件。\n\n弓形虫脑炎通常表现为缓慢进展的头痛、癫痫发作、局灶性神经系统表现和/或人格改变。对比增强的脑部影像学检查经常显示多个环状增强病灶伴周围水肿。诊断得到弓形虫血清学阳性的支持。\n\n(选项 A) 烟曲霉不是艾滋病患者中常见的机会性病原体，这可能是因为尽管T细胞功能障碍，吞噬功能相对保留。烟曲霉通常影响肺部；但是，它会导致因中性粒细胞减少或移植而免疫功能低下的患者出现脑脓肿。\n\n(选项 B) 尽管CNS胶质母细胞瘤是环状增强的，但它们通常是孤立的，并且通常具有特征性的蝴蝶状外观。\n\n(选项 C) 神经囊尾蚴病（由于摄入猪肉绦虫）可引起多个脑部病灶，但神经影像学检查通常显示不同退化阶段的病灶，包括囊肿、钙化和增强。\n\n(选项 D) 诺卡菌病在细胞介导免疫缺陷（例如，艾滋病）的患者中更常见。虽然它可引起头痛和癫痫发作，但脑部影像学检查将显示脓肿的证据（例如，分隔、充满液体的空腔）。\n\n教学目标：\nHIV感染患者通常并不知道自己被感染，并因艾滋病确诊疾病而就医。艾滋病患者出现多个环状增强病灶最可能表明弓形虫病 {{exhibit_3}}。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of opportunistic infections in HIV/AIDS patients, specifically toxoplasmic encephalitis. It requires recognizing the clinical presentation and interpreting brain imaging findings to arrive at the most likely diagnosis.\n\nThe key to solving this question is to recognize the risk factors for HIV (thrush, lymphadenopathy, risky behaviors), the neurological symptoms (headaches, seizures), and the characteristic multiple ring-enhancing lesions on brain MRI. This combination strongly suggests toxoplasmic encephalitis in an immunocompromised individual.",
+    "zh": "此题考察HIV/AIDS患者机会性感染的知识，特别是弓形虫脑炎。它需要识别临床表现并解释脑部影像学检查结果，以得出最可能的诊断。\n\n解决此题的关键是识别HIV的危险因素（鹅口疮、淋巴结病、危险行为）、神经系统症状（头痛、癫痫发作）以及脑部MRI上特征性的多个环状增强病灶。这种组合强烈提示免疫功能低下个体的弓形虫脑炎。"
+  },
+  "tags": "Toxoplasmosis; HIV/AIDS; Opportunistic infection; Brain MRI; Ring-enhancing lesions; Neurology; Infectious disease; Immunodeficiency",
+  "category": "Neuro",
+  "question_id": "1573",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1573",
+  "extracted_at": "2025-11-05T15:20:07.930087",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:20:52.937939",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

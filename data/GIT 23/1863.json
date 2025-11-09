@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man comes to the office due to anorexia, nausea, and dark-colored urine for the last 2 days. He travels frequently for business and recently returned from a trip to Mexico. The patient has a history of asthma and occasionally uses inhaled albuterol for symptom management. Temperature is 37.8 C (100.2 F), blood pressure is 125/70 mm Hg, and pulse is 94/min. Cardiopulmonary examination is normal. There is mild right upper quadrant abdominal tenderness with no guarding or rebound. Serologic testing for *Entamoeba histolytica* is negative.",
+    "zh": "一名34岁男性因厌食、恶心和近2天出现深色尿液而就诊。他经常出差，最近刚从墨西哥旅行回来。患者有哮喘病史，偶尔使用吸入性沙丁胺醇来控制症状。体温37.8°C (100.2°F)，血压125/70 mmHg，脉搏94次/分。心肺检查正常。右上腹轻度压痛，无肌紧张或反跳痛。溶组织内阿米巴血清学检测呈阴性。"
+  },
+  "question": {
+    "en": "Which of the following histologic findings is most likely to be found within this patient's liver?",
+    "zh": "该患者的肝脏中最有可能发现以下哪种组织学表现？"
+  },
+  "options": {
+    "A": {
+      "en": "Fibrinoid necrosis",
+      "zh": "纤维素样坏死"
+    },
+    "B": {
+      "en": "Hepatocyte swelling",
+      "zh": "肝细胞肿胀"
+    },
+    "C": {
+      "en": "Liquefactive necrosis",
+      "zh": "液化性坏死"
+    },
+    "D": {
+      "en": "Malignant cells",
+      "zh": "恶性细胞"
+    },
+    "E": {
+      "en": "Regenerative nodules",
+      "zh": "再生结节"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's low-grade fever, anorexia/nausea, dark-colored urine, and right upper quadrant abdominal tenderness is suggestive of ACUTE VIRAL HEPATITIS. Hepatitis A virus (HAV) is most likely responsible because it is the most common cause of acute viral hepatitis in young adults, and this patient has just returned from an endemic region.\n\nAlthough liver biopsy is not required to make the diagnosis, the hallmark histologic findings of acute viral hepatitis include hepatocyte damage with mononuclear infiltration. Ballooning degeneration, characterized by CELLULAR SWELLING and CYTOPLASMIC EMPTYING, is a form of hepatocyte injury caused by ATP depletion and disruption of the intermediate filament network that often progresses to cell rupture and death (eg, NECROSIS). Hepatocytes may also undergo apoptosis, which is characterized by cellular shrinkage and nuclear fragmentation with intensely eosinophilic cytoplasm (eg, Councilman bodies) and is likely caused by mitochondrial oxidative damage.\n\nIn severe cases, swaths of dead hepatocytes may span across the lobules (eg, bridging necrosis). The presence of virally infected and dying hepatocytes promotes MONONUCLEAR INFLAMMATION (eg, lymphocytes) throughout the lobule and around the portal tracts.\n\n(Choice A) Fibrinoid necrosis is characterized by the deposition of amorphous, proteinaceous material in the walls of blood vessels affected by immune vasculitis or malignant hypertension.\n\n(Choice C) Severe viral hepatitis can cause coagulative necrosis of hepatocytes. However, liquefactive necrosis classically occurs in the CNS due to enzymatic degradation of tissue. Amebic liver abscesses caused by *Entamoeba histolytica* infection may also produce liquefactive necrosis, but this is unlikely in the setting of negative serologic testing.\n\n(Choice D) HAV is not associated with an increased risk of hepatocellular cancer. However, hepatitis B and C infections, aflatoxin B exposure, and all other forms of chronic hepatocyte injury are associated with increased incidence of hepatocellular carcinoma.\n\n(Choice E) Nodular regeneration of hepatocytes is generally found in patients with cirrhosis, which can be caused by chronic viral hepatitis. Hepatitis B and hepatitis C viruses (not HAV) are associated with chronic hepatitis.",
+    "zh": "该患者的低烧、厌食/恶心、深色尿液和右上腹压痛提示急性病毒性肝炎。甲型肝炎病毒（HAV）最有可能导致这种情况，因为它是年轻人急性病毒性肝炎最常见的原因，而且该患者刚从流行地区返回。\n\n虽然不需要肝活检来做出诊断，但急性病毒性肝炎的标志性组织学发现包括肝细胞损伤伴单核细胞浸润。气球样变性，其特征是细胞肿胀和细胞质空虚，这是一种肝细胞损伤，由ATP耗竭和中间丝网络的破坏引起，通常进展为细胞破裂和死亡（例如，坏死）。肝细胞也可能发生细胞凋亡，其特征是细胞缩小和核碎裂，伴有强嗜伊红性细胞质（例如，Councilman小体），这很可能由线粒体氧化损伤引起。\n\n在严重的情况下，大片死亡的肝细胞可能跨越整个小叶（例如，桥接坏死）。病毒感染和垂死的肝细胞的存在促进整个小叶和门管周围的单核细胞炎症（例如，淋巴细胞）。\n\n（选项 A）纤维素样坏死的特征是无定形、蛋白质样物质沉积在受免疫性血管炎或恶性高血压影响的血管壁中。\n\n（选项 C）严重的病毒性肝炎可导致肝细胞凝固性坏死。然而，液化性坏死通常发生在CNS，这是由于组织的酶解。由溶组织内阿米巴感染引起的阿米巴肝脓肿也可能产生液化性坏死，但在血清学检测阴性的情况下，这种情况不太可能。\n\n（选项 D）HAV与肝细胞癌风险增加无关。然而，乙型肝炎和丙型肝炎感染、黄曲霉毒素B暴露以及所有其他形式的慢性肝细胞损伤均与肝细胞癌发生率增加相关。\n\n（选项 E）肝细胞结节性再生通常见于肝硬化患者，肝硬化可由慢性病毒性肝炎引起。乙型肝炎和丙型肝炎病毒（而非HAV）与慢性肝炎相关。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the clinical presentation and histologic findings associated with acute viral hepatitis, specifically Hepatitis A virus (HAV). It requires recognizing the symptoms and correlating them with the expected liver biopsy results.\n\nTo solve this question, consider the patient's recent travel history to an endemic area, the symptoms of acute hepatitis, and the fact that HAV is the most common cause of acute viral hepatitis in young adults. Then, recall the typical histologic findings of acute viral hepatitis, which include hepatocyte swelling and mononuclear cell infiltration.",
+    "zh": "本题考察了与急性病毒性肝炎（特别是甲型肝炎病毒[HAV]）相关的临床表现和组织学发现。它要求识别症状并将其与预期的肝活检结果相关联。\n\n要解决这个问题，请考虑患者最近前往流行地区的旅行史、急性肝炎的症状，以及HAV是年轻人急性病毒性肝炎最常见原因的事实。然后，回忆急性病毒性肝炎的典型组织学发现，其中包括肝细胞肿胀和单核细胞浸润。"
+  },
+  "tags": "Hepatitis A; Acute viral hepatitis; Hepatocyte swelling; Liver biopsy; Infectious disease; Gastroenterology; Hepatology; Anorexia; Nausea; Dark urine",
+  "category": "GIT",
+  "question_id": "1863",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\1863",
+  "extracted_at": "2025-11-05T14:29:15.018386",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:53:53.082391",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

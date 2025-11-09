@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 54-year-old woman comes to the emergency department due to a 2-day history of fevers, chills, and severe fatigue. She has no chronic medical problems and takes no medication. Temperature is 38.9 C (102 F), blood pressure is 80/50 mm Hg, pulse is 130/min, and respirations are 20/min. The patient's left flank is tender to palpation. Cardiovascular examination reveals tachycardia, decreased capillary refill, and an estimated jugular venous pressure of 3 cm H2O above the sternal notch. Laboratory results are as follows: {{exhibit_1}}",
+    "zh": "一名54岁的女性因2天来的发烧、寒战和严重疲劳来到急诊科。她没有慢性疾病，也没有服用药物。体温38.9°C（102°F），血压80/50 mmHg，脉搏130/min，呼吸20/min。患者的左侧腹部触痛。心血管检查显示心动过速、毛细血管充盈减少，颈静脉压估计比胸骨切迹高3 cm H2O。实验室检查结果如下：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is most likely decreased in this patient?",
+    "zh": "该患者最可能降低的是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "C-reactive protein",
+      "zh": "C-反应蛋白"
+    },
+    "B": {
+      "en": "Endotoxin",
+      "zh": "内毒素"
+    },
+    "C": {
+      "en": "IL-1",
+      "zh": "白介素-1"
+    },
+    "D": {
+      "en": "Nitric oxide",
+      "zh": "一氧化氮"
+    },
+    "E": {
+      "en": "Vasopressin",
+      "zh": "加压素"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient with pyelonephritis (eg, flank pain, pyuria) has likely developed sepsis (eg, fever, peripheral blood leukocytosis). **Sepsis** is a florid inflammatory response to an infectious pathogen that can lead to widespread dysfunction of multiple organ systems. Cardiovascular manifestations include profound vasodilation resulting in low systemic vascular resistance and hypotension. Refractory hypotension (ie, vasoplegia) despite adequate intravascular volume (ie, normal jugular venous pressure), as in this patient, indicates progression to **septic shock**. \n\nSeptic shock is an extreme manifestation of sepsis, in which vasodilatory mediators overwhelm endogenous vasoconstrictor mechanisms. Key vasodilators include **nitric oxide** and prostaglandins; their production is upregulated by acute-phase cytokines such as tumor necrosis factor-α, **IL-1**, and IL-6 released from innate immune cells and endothelium exposed to bacterial cell wall glycoproteins and endotoxins (Choices C and D). \n\nThe normal physiologic response to hypotension is compensatory secretion of vasopressin (antidiuretic hormone) by the posterior pituitary. In addition to promoting water retention (via renal collecting duct V₂ receptors), vasopressin is one of the most potent vasoconstrictors (via arteriolar smooth muscle V₁ receptors). In septic shock, however, **vasopressin is suppressed**, possibly due to impaired baroreceptor reflexes and/or depletion of endogenous stores. \n\nFor this reason, infusion of vasopressin can be helpful during treatment of septic shock, often decreasing the need for other pharmacologic vasoconstrictor agents (eg, norepinephrine). {{exhibit_2}}\n\n(Choice A) C-reactive protein is an acute-phase protein produced in the liver in response to inflammation; it activates the classical complement pathway and promotes phagocytosis, thereby facilitating clearance of bacteria and cellular debris. Levels of C-reactive protein are elevated in sepsis. \n\n(Choice B) Endotoxin (lipopolysaccharide) is a cell wall component of gram-negative bacteria that triggers an acute inflammatory response by binding to toll-like receptor 4 on immune cells. The vast majority of urinary tract infections are caused by gram-negative bacteria, and nitrite production is generally exclusive to gram-negative bacteria; therefore, endotoxin concentrations are likely markedly elevated in this patient.",
+    "zh": "该患有肾盂肾炎（如，腰痛，脓尿）的患者可能已经发展为脓毒症（如，发烧，外周血白细胞增多）。**脓毒症**是对感染病原体的一种活跃的炎症反应，可导致多个器官系统的广泛功能障碍。心血管表现包括严重的血管舒张，导致全身血管阻力降低和低血压。尽管血管内容量充足（即，颈静脉压正常），但顽固性低血压（即，血管麻痹），如该患者，表明进展为**脓毒性休克**。\n\n脓毒性休克是脓毒症的极端表现，其中血管舒张介质压倒内源性血管收缩机制。关键的血管舒张剂包括**一氧化氮**和前列腺素；它们的产生由急性期细胞因子（如肿瘤坏死因子-α、**白介素-1**和白介素-6）上调，这些细胞因子由暴露于细菌细胞壁糖蛋白和内毒素的先天免疫细胞和内皮细胞释放。（选项C和D）。\n\n对低血压的正常生理反应是垂体后叶代偿性分泌加压素（抗利尿激素）。除了促进水分潴留（通过肾集合管V₂受体）外，加压素是最有效的血管收缩剂之一（通过小动脉平滑肌V₁受体）。然而，在脓毒性休克中，**加压素受到抑制**，这可能由于受损的压力感受器反射和/或内源性储备的耗竭。\n\n因此，在脓毒性休克的治疗过程中，输注加压素可能有所帮助，通常减少了对其他药理血管收缩剂（例如，去甲肾上腺素）的需求。{{exhibit_2}}\n\n（选项A）C-反应蛋白是一种在肝脏中产生的急性期蛋白，以响应炎症；它激活经典补体途径并促进吞噬作用，从而促进细菌和细胞碎片的清除。脓毒症时C-反应蛋白水平升高。\n\n（选项B）内毒素（脂多糖）是革兰氏阴性细菌的细胞壁成分，通过与免疫细胞上的toll样受体4结合来触发急性炎症反应。绝大多数尿路感染是由革兰氏阴性细菌引起的，而亚硝酸盐的产生通常仅限于革兰氏阴性细菌；因此，该患者的内毒素浓度可能显着升高。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of septic shock, specifically the hormonal changes that occur in response to severe infection and vasodilation. It assesses the understanding of how vasopressin levels are affected in septic shock and the rationale for its use as a vasopressor in this condition.\n\nTo solve this question, recognize the patient's presentation as septic shock secondary to pyelonephritis. Understand that while vasopressin is normally released in response to hypotension, it is often suppressed in septic shock due to impaired baroreceptor reflexes and depletion of endogenous stores.",
+    "zh": "此题考察了对脓毒性休克的病理生理学的理解，特别是对严重感染和血管舒张的反应中发生的激素变化。它评估了对脓毒性休克中加压素水平如何受到影响的理解，以及在该情况下使用加压素作为血管加压药的原理。\n\n要解决这个问题，需要认识到患者的表现为继发于肾盂肾炎的脓毒性休克。理解虽然加压素通常在对低血压的反应中释放，但在脓毒性休克中由于受损的压力感受器反射和内源性储备的耗竭，加压素通常被抑制。"
+  },
+  "tags": "Septic shock; Vasopressin; Pyelonephritis; Vasodilation; Hypotension; Inflammatory response; Nitric oxide; IL-1; C-reactive protein; Endotoxin",
+  "category": "Chest",
+  "question_id": "19339",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\19339",
+  "extracted_at": "2025-11-05T11:42:20.438391",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:37:34.934759",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

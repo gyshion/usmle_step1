@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old man is referred to the gastroenterology clinic due to a 3-year history of recurring abdominal pain accompanied by cramps and diarrhea. The patient has noticed an increased frequency of episodes lately with worsening pain. He also says that his urine occasionally appears dark brown and his urine stream sometimes sputters. Imaging studies reveal a colovesical fistula. Biopsy obtained during colonoscopy shows chronic ileocolitis with discontinuous transmural inflammation and noncaseating granulomas. When given the diagnosis of Crohn disease, the patient becomes skeptical and says, \"There's no way I'm getting a colostomy bag.\" He then refuses treatment and pursues a second opinion once his symptoms subside. A second biopsy demonstrates reduced inflammation in regions of previously active ileocolitis. An increase in which of the following cytokines is most likely responsible for this patient's clinical regression?",
+    "zh": "一名23岁男性因3年来反复发作的腹痛、伴有痉挛和腹泻，被转诊至肠胃病诊所。患者注意到最近发作的频率增加，疼痛加重。他还说他的尿液有时呈深棕色，尿流有时会断断续续。影像学研究显示存在膀胱结肠瘘。结肠镜检查获得的活检显示慢性回结肠炎，伴有间断性全层炎症和非干酪性肉芽肿。当被诊断为克罗恩病时，患者变得怀疑，并说：“我不可能做结肠造口术。”然后他拒绝治疗，并在症状消退后寻求第二次意见。第二次活检显示先前活动性回结肠炎区域的炎症减轻。以下哪种细胞因子的增加最有可能导致该患者的临床消退？"
+  },
+  "question": {
+    "en": "An increase in which of the following cytokines is most likely responsible for this patient's clinical regression?",
+    "zh": "以下哪种细胞因子的增加最有可能导致该患者的临床消退？"
+  },
+  "options": {
+    "A": {
+      "en": "IL-1",
+      "zh": "白介素-1（IL-1）"
+    },
+    "B": {
+      "en": "IL-5",
+      "zh": "白介素-5（IL-5）"
+    },
+    "C": {
+      "en": "IL-10",
+      "zh": "白介素-10（IL-10）"
+    },
+    "D": {
+      "en": "IL-12",
+      "zh": "白介素-12（IL-12）"
+    },
+    "E": {
+      "en": "Interferon gamma",
+      "zh": "干扰素-γ"
+    },
+    "F": {
+      "en": "Tumor necrosis factor-alpha",
+      "zh": "肿瘤坏死因子-α"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The balance of pro- and anti-inflammatory cytokines in the intestinal mucosa is essential for homeostasis. Overproduction of proinflammatory cytokines leads to pathology such as that observed in inflammatory bowel diseases. Among the listed choices, IL-10 is the only cytokine with anti-inflammatory properties. IL-10 reduces production of proinflammatory T H 1 cytokines (IL-2 and interferon gamma) and major histocompatibility complex class II expression (important for antigen presentation and T-helper cell response). It also inhibits activated dendritic cells and macrophages. These effects of IL-10 result in the attenuation of cellular-mediated immunity with some enhancement of the humoral response, leading to a protective effect in Crohn disease.\n\n(Choice A) IL-1, produced by macrophages and epithelial cells, has proinflammatory properties such as endothelium activation, increased chemokine expression (promoting leukocyte recruitment), and induction of fever. IL-1β is important for differentiation of T H 17 cells.\n\n(Choice B) IL-5 is secreted by T-2 cells and promotes the humoral response by stimulating differentiation of B cells and increasing IgA production. It also promotes the growth and differentiation of eosinophils and is implicated in the pathogenesis of many allergic diseases (eg, asthma).\n\n(Choice D) IL-12 is secreted by macrophages and induces differentiation of T H 1 cells and activation of natural killer cells.\n\n(Choice E) Interferon gamma is secreted by T H 1 cells and promotes proinflammatory pathways by activating macrophages, increasing antigen presentation, and inducing the death of epithelial cells.\n\n(Choice F) Tumor necrosis factor-alpha, produced by macrophages, natural killer cells, and T cells, is a proinflammatory mediator that promotes leukocyte recruitment and activates the endothelium (increases expression of adhesion molecules).\n\nEducational objective:\nOf the cytokines released in the setting of tissue injury, IL-10 plays important anti-inflammatory and immunomodulatory roles, especially in the pathogenesis of inflammatory bowel disease. IL-10 attenuates the immune response through the inhibition of T H 1 cytokines, reduction of major histocompatibility complex class II expression, and suppression of activated macrophages and dendritic cells.",
+    "zh": "肠道粘膜中促炎和抗炎细胞因子的平衡对于体内平衡至关重要。促炎细胞因子的过度产生会导致病理改变，如在炎症性肠病中观察到的。在列出的选项中，IL-10是唯一具有抗炎特性的细胞因子。IL-10可减少促炎性T H 1细胞因子（IL-2和干扰素γ）的产生，以及主要组织相容性复合物II类分子的表达（对抗原呈递和T辅助细胞反应很重要）。它还可以抑制活化的树突状细胞和巨噬细胞。IL-10的这些作用导致细胞介导的免疫力减弱，并增强体液免疫反应，从而在克罗恩病中发挥保护作用。\n\n（选项A）IL-1由巨噬细胞和上皮细胞产生，具有促炎特性，如内皮细胞激活、趋化因子表达增加（促进白细胞募集）和诱发发热。IL-1β对T H 17细胞的分化很重要。\n\n（选项B）IL-5由T-2细胞分泌，通过刺激B细胞分化和增加IgA产生来促进体液免疫反应。它还促进嗜酸性粒细胞的生长和分化，并参与许多过敏性疾病（如哮喘）的发病机制。\n\n（选项D）IL-12由巨噬细胞分泌，诱导T H 1细胞分化和自然杀伤细胞的活化。\n\n（选项E）干扰素γ由T H 1细胞分泌，通过激活巨噬细胞、增加抗原呈递和诱导上皮细胞死亡来促进促炎途径。\n\n（选项F）肿瘤坏死因子-α由巨噬细胞、自然杀伤细胞和T细胞产生，是一种促炎介质，可促进白细胞募集并激活内皮细胞（增加粘附分子的表达）。\n\n教学目标：\n在组织损伤的情况下释放的细胞因子中，IL-10发挥重要的抗炎和免疫调节作用，尤其是在炎症性肠病的发病机制中。IL-10通过抑制T H 1细胞因子、减少主要组织相容性复合物II类分子的表达以及抑制活化的巨噬细胞和树突状细胞来减弱免疫反应。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the roles of various cytokines in the pathogenesis of inflammatory bowel disease, specifically Crohn disease, and their impact on clinical regression. It requires knowledge of which cytokines possess anti-inflammatory properties and how they modulate the immune response.\n\nTo solve this question, one must identify the cytokine associated with anti-inflammatory effects and clinical improvement in the context of Crohn disease. This involves recalling the functions of key cytokines and their involvement in immune regulation, particularly in chronic inflammatory conditions of the gut.",
+    "zh": "此题考察对各种细胞因子在炎症性肠病（特别是克罗恩病）发病机制中的作用及其对临床消退的影响的理解。它需要了解哪些细胞因子具有抗炎特性以及它们如何调节免疫反应。\n\n要解决这个问题，必须确定与克罗恩病背景下的抗炎作用和临床改善相关的细胞因子。这包括回忆关键细胞因子的功能及其在免疫调节中的作用，特别是在肠道的慢性炎症性疾病中。"
+  },
+  "tags": "Crohn disease; Inflammatory bowel disease; Cytokines; IL-10; Anti-inflammatory; Immune response; Gastroenterology",
+  "category": "GIT",
+  "question_id": "1597",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\1597",
+  "extracted_at": "2025-11-05T19:22:15.298212",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:52:31.241458",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

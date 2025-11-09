@@ -1,0 +1,72 @@
+{
+  "question_stem": {
+    "en": "A 31-year-old woman comes to the emergency department due to worsening right upper quadrant pain, fever, nausea, and vomiting for a day. The patient increases with deep inspiration. Other medical conditions include uterine fibroids and sickle cell anemia. The patient does not use tobacco, alcohol, or illicit drugs. Temperature is 38.6 C (101.5 F), blood pressure is 120/70 mm Hg, and pulse is 102/min. BMI is 24 kg/m^2. On examination, the patient appears uncomfortable because of the pain; there is no jaundice. Tenderness and guarding are present over the right upper quadrant. Bowel sounds are decreased. Hemoglobin is 10.1 g/dL and white blood cell count is 18,000/mm^3 with 7% band forms. Abdominal ultrasound shows evidence of cholelithiasis and gallbladder wall thickening. Gross inspection of the specimen obtained during laparoscopic cholecystectomy is shown in the image below: {{exhibit_1}}",
+    "zh": "一名31岁的女性因右右上腹疼痛加重、发烧、恶心和呕吐一天而到急诊科就诊。患者深吸气时疼痛加剧。其他疾病包括子宫肌瘤和镰状细胞性贫血。患者不吸烟、不饮酒，也不吸毒。体温38.6摄氏度（101.5华氏度），血压120/70毫米汞柱，脉搏102次/分钟。BMI为24公斤/平方米。检查时，患者因疼痛而感到不适；无黄疸。右上腹有压痛和腹肌紧张。肠鸣音减弱。血红蛋白为10.1克/分升，白细胞计数为18,000/立方毫米，其中7%为杆状核粒细胞。腹部超声显示胆石症和胆囊壁增厚。腹腔镜胆囊切除术期间获得的标本的肉眼检查结果如下图所示：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is most likely responsible for this patient's symptoms?",
+    "zh": "以下哪项最有可能导致该患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Altered enterohepatic circulation of bilirubin",
+      "zh": "胆红素的肝肠循环改变"
+    },
+    "B": {
+      "en": "Biliary stasis due to lack of enteral stimulation",
+      "zh": "由于缺乏肠道刺激引起的胆汁淤滞"
+    },
+    "C": {
+      "en": "Decreased gallbladder motility due to denervation",
+      "zh": "由于神经支配缺失导致的胆囊蠕动减弱"
+    },
+    "D": {
+      "en": "Impaired bile acid synthesis",
+      "zh": "胆汁酸合成受损"
+    },
+    "E": {
+      "en": "Increased cholesterol synthesis",
+      "zh": "胆固醇合成增加"
+    },
+    "F": {
+      "en": "Increased efflux of bilirubin into bile",
+      "zh": "胆红素进入胆汁的流出增加"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "This patient with fever, right upper quadrant pain, and leukocytosis has acute cholecystitis. Cholecystitis is inflammation of the gallbladder that usually occurs when gallstones obstruct the cystic duct. Gallstones form due to supersaturation of bile constituents (eg, cholesterol, bilirubin), which then crystallize out of solution with other bile components (eg, mucin, calcium, proteins) to produce stones. Black gallstones, as seen in this patient, form due to the supersaturation of bilirubin, which precipitates with calcium to form multiple small calcium bilirubinate stones. Bilirubin supersaturation occurs through the following mechanisms:\n\n*   Increased bilirubin production: Chronic hemolysis, as seen in sickle cell anemia, hereditary spherocytosis, and thalassemia, increases circulating levels of free bilirubin, which is taken up by the liver and excreted into bile.\n*   Altered enterohepatic circulation of bilirubin: Ileal disease (eg, Crohn disease) or resection allows bile acids, which are normally reabsorbed in the ileum, to spill into the colon. There, bile acids solubilize unconjugated bilirubin, allowing its reabsorption and concentration within the bile (Choice A).\n\nThis patient with sickle cell anemia most likely has chronic hemolysis, which has increased bilirubin efflux into the bile, promoting formation of black stones. {{exhibit_2}}",
+    "zh": "该患者出现发热、右上腹疼痛和白细胞增多，提示患有急性胆囊炎。胆囊炎是胆囊的炎症，通常发生在胆结石阻塞胆囊管时。胆结石的形成是由于胆汁成分（如胆固醇、胆红素）过饱和，这些成分然后与其他胆汁成分（如黏蛋白、钙、蛋白质）一起从溶液中结晶析出，形成结石。如本患者所见，黑色胆结石是由于胆红素过饱和形成的，胆红素与钙结合形成多个小的胆红素钙结石。胆红素过饱和通过以下机制发生：\n\n*   胆红素产生增加：慢性溶血，如镰状细胞性贫血、遗传性球形红细胞增多症和地中海贫血，会增加循环中游离胆红素的水平，这些胆红素被肝脏吸收并分泌到胆汁中。\n*   胆红素的肝肠循环改变：回肠疾病（例如，克罗恩病）或切除术导致胆汁酸（通常在回肠中被重吸收）溢入结肠。在那里，胆汁酸溶解非结合胆红素，使其重新吸收并在胆汁中浓缩（选项A）。\n\n该镰状细胞性贫血患者很可能患有慢性溶血，这增加了胆红素进入胆汁的流出，从而促进了黑色结石的形成。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "The patient presents with symptoms of acute cholecystitis. The presence of black gallstones, combined with a history of sickle cell anemia, points towards increased bilirubin production and subsequent supersaturation of bilirubin in the bile as the primary cause of gallstone formation and the patient's symptoms.",
+    "zh": "患者出现急性胆囊炎的症状。黑色胆结石的存在，加上镰状细胞性贫血的病史，表明胆红素产生增加，随后胆汁中胆红素过饱和是胆结石形成和患者症状的主要原因。"
+  },
+  "tags": [
+    "cholecystitis",
+    "gallstones",
+    "sickle cell anemia",
+    "bilirubin",
+    "hemolysis",
+    "pathophysiology"
+  ],
+  "category": "GIT",
+  "question_id": "16117",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\16117",
+  "extracted_at": "2025-11-05T20:07:08.937397",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T17:52:41.095913",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

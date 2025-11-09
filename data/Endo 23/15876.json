@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 55-year-old man comes to the emergency department due to progressive weakness and lethargy. Over the past 3 months, he has had excessive thirst, frequent urination, and an unintentional 5-kg (11-lb) weight loss. The patient has not seen a physician in several years. His parents have type 2 diabetes mellitus. Blood pressure is 108/60 mm Hg and pulse is 98/min. BMI is 38 kg/m². Physical examination shows dry mucous membranes and poor skin turgor. Laboratory testing reveals a blood glucose concentration of 600 mg/dL. Serum beta-hydroxybutyrate is normal and hemoglobin A1c is 14%. The patient is admitted for intravenous fluids and insulin infusion. The next day, his symptoms and blood glucose significantly improve. In preparation for discharge, the insulin infusion is changed to a subcutaneous regimen that mimics the physiologic pattern of insulin release. This patient's insulin therapy was most likely transitioned to which of the following regimens?",
+    "zh": "一名55岁男性因进行性乏力和嗜睡来到急诊科。在过去3个月里，他一直有过度口渴、尿频和5公斤（11磅）的非意向性体重减轻。患者已多年未就医。他的父母患有2型糖尿病。血压为108/60 mmHg，脉搏为98次/分。BMI为38 kg/m²。体格检查显示黏膜干燥，皮肤弹性差。实验室检查显示血糖浓度为600 mg/dL。血清β-羟基丁酸正常，糖化血红蛋白A1c为14%。患者入院接受静脉输液和胰岛素输注。第二天，他的症状和血糖显着改善。为出院做准备，胰岛素输注改为模拟胰岛素释放生理模式的皮下给药方案。该患者的胰岛素治疗最有可能过渡到以下哪种方案？"
+  },
+  "question": {
+    "en": "This patient's insulin therapy was most likely transitioned to which of the following regimens?",
+    "zh": "该患者的胰岛素治疗最有可能过渡到以下哪种方案？"
+  },
+  "options": {
+    "A": {
+      "en": "Insulin aspart before each meal",
+      "zh": "餐前使用门冬胰岛素"
+    },
+    "B": {
+      "en": "Insulin detemir twice daily",
+      "zh": "每日两次使用地特胰岛素"
+    },
+    "C": {
+      "en": "Insulin glargine once daily",
+      "zh": "每日一次使用甘精胰岛素"
+    },
+    "D": {
+      "en": "Insulin glargine once daily plus insulin lispro before each meal",
+      "zh": "每日一次使用甘精胰岛素，餐前使用赖脯胰岛素"
+    },
+    "E": {
+      "en": "NPH insulin premixed with regular insulin given twice daily",
+      "zh": "每日两次使用NPH胰岛素与普通胰岛素预混制剂"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has an elevated hemoglobin A1c, confirming a diagnosis of TYPE 2 diabetes mellitus; he has altered mentation (eg, lethargy), dehydration (eg, dry mucous membranes), and severe hyperglycemia that is consistent with a hyperosmolar hyperglycemic state. After acute management (eg, intravenous fluids and insulin infusion), he needs to transition to chronic (subcutaneous) insulin therapy.\n\nA variety of commercial insulin analogues with different pharmacokinetics are available; the ideal regimen mimics normal insulin secretion using separate injections of the following:\n\n*   **Long-acting insulins** (eg, glargine) mimic continuous, steady-level basal insulin secretion by the pancreas that suppresses hepatic gluconeogenesis; they have an extended duration of action and little or no peak effect. They are typically given once daily and are used to control fasting hyperglycemia that is attributable to inappropriate hepatic gluconeogenesis.\n*   **Rapid-acting insulins** (eg, lispro, aspart) mimic rapid-onset, short-lived postprandial insulin surges in response to meals; they peak and are cleared quickly. They are given multiple times daily, just before each meal, so that the peak effect coincides with postprandial glucose surges. {{exhibit_1}}\n\n(Choice A) Insulin aspart alone can replicate postprandial insulin secretion but does not provide a basal insulin effect.\n\n(Choices B and C) Insulins detemir and glargine are long-acting basal insulins without significant peak effects; because of detemir's shorter duration of action (ie, <24 hr), it is sometimes given twice daily to ensure 24-hour coverage. These medications do not treat postprandial hyperglycemia.\n\n(Choice E) NPH is an intermediate-acting insulin; it can be used as a basal insulin if given twice daily to provide 24-hour coverage. Unlike physiologic basal insulin secretions, NPH has a significant peak effect that increases the risk for hypoglycemia. In addition, premixing with regular insulin does not easily allow for premeal bolus adjustments. Therefore, a combined formulation of NPH and regular insulin (usually in a 70/30 ratio) is less representative of physiologic insulin secretion compared to separate injections of basal and rapid-acting premeal insulin.\n\nEducational objective:\n\nPhysiologic insulin secretion can be approximated by separate administrations of long-acting and rapid-acting insulin analogues. Long-acting preparations (eg, glargine) replicate basal insulin secretion, whereas premeal, rapid-acting insulin (eg, lispro) replicates meal-related insulin surges.",
+    "zh": "该患者糖化血红蛋白A1c升高，确诊为2型糖尿病；他有精神状态改变（如嗜睡）、脱水（如黏膜干燥）和严重的血糖升高，这与高渗性高血糖状态一致。经过急性期治疗（如静脉输液和胰岛素输注）后，他需要过渡到慢性（皮下）胰岛素治疗。\n\n有多种具有不同药代动力学的商品化胰岛素类似物；理想的方案是使用以下单独注射来模拟正常的胰岛素分泌：\n\n*   **长效胰岛素**（如甘精胰岛素）模拟胰腺持续、稳定水平的胰岛素基础分泌，抑制肝脏糖异生；它们的作用时间长，峰值效应小或没有峰值效应。它们通常每天使用一次，用于控制空腹高血糖，这归因于不适当的肝脏糖异生。\n*   **速效胰岛素**（如赖脯胰岛素、门冬胰岛素）模拟进食后快速出现的、短时间的餐后胰岛素激增；它们达到峰值并迅速清除。它们每天使用多次，在每餐前使用，以便峰值效应与餐后血糖升高同时发生。{{exhibit_1}}\n\n(选项A) 单独使用门冬胰岛素可以复制餐后胰岛素分泌，但不能提供基础胰岛素效应。\n\n(选项B和C) 地特胰岛素和甘精胰岛素是长效基础胰岛素，没有明显的峰值效应；由于地特胰岛素的作用时间较短（即<24小时），有时每天使用两次以确保24小时覆盖。这些药物不能治疗餐后高血糖。\n\n(选项E) NPH是一种中效胰岛素；如果每天使用两次以提供24小时覆盖，它可以用作基础胰岛素。与生理性基础胰岛素分泌不同，NPH具有显着的峰值效应，会增加低血糖的风险。此外，与普通胰岛素预混不能轻易进行餐前推注调整。因此，与单独注射基础和餐前速效胰岛素相比，NPH和普通胰岛素的联合制剂（通常以70/30的比例）不能更好地代表生理性胰岛素分泌。\n\n教育目标：\n\n可以通过分别给予长效和速效胰岛素类似物来近似生理性胰岛素分泌。长效制剂（如甘精胰岛素）复制基础胰岛素分泌，而餐前速效胰岛素（如赖脯胰岛素）复制餐后胰岛素激增。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of appropriate insulin regimens for patients with type 2 diabetes mellitus transitioning from intravenous to subcutaneous insulin therapy. It requires understanding the different types of insulin (long-acting, rapid-acting) and their pharmacokinetic profiles to mimic physiologic insulin secretion. \n\nThe best approach is to consider the patient's need for both basal and prandial insulin coverage. Long-acting insulin provides basal coverage, while rapid-acting insulin covers postprandial glucose surges. The ideal regimen should combine these two types of insulin to closely mimic normal insulin secretion.",
+    "zh": "这个问题测试了对2型糖尿病患者从静脉注射过渡到皮下注射胰岛素治疗的适当胰岛素方案的了解。它要求理解不同类型的胰岛素（长效、速效）及其药代动力学特征，以模拟生理性胰岛素分泌。\n\n最好的方法是考虑患者对基础和餐时胰岛素覆盖的需求。长效胰岛素提供基础覆盖，而速效胰岛素覆盖餐后血糖升高。理想的方案应该结合这两种类型的胰岛素，以紧密模拟正常的胰岛素分泌。"
+  },
+  "tags": "Type 2 diabetes mellitus; Insulin therapy; Hyperosmolar hyperglycemic state; Long-acting insulin; Rapid-acting insulin; Endocrinology; Glucose control",
+  "category": "Endo",
+  "question_id": "15876",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\15876",
+  "extracted_at": "2025-11-05T14:01:17.574003",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:38:08.054638",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

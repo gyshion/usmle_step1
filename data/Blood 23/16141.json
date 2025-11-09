@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 56-year-old, previously healthy man has worsening fatigue and recurrent epistaxis. Evaluation shows anemia, thrombocytopenia, and abnormal circulating leukocytes. Bone marrow biopsy establishes a diagnosis of acute myeloid leukemia. The patient is initially treated with induction chemotherapy, and an allogeneic hematopoietic stem cell transplant is recommended. A nonrelated, HLA-matched donor is not found, so the patient's adult son volunteers to be the donor. The plan is for the patient to receive conditioning chemotherapy and radiotherapy followed by bone marrow transplant. Prior to transplant, a procedure is performed to deplete CD3+ cells in the marrow graft. This pretransplant procedure would be most helpful in decreasing this patient's risk for which of the following?",
+    "zh": "一名 56 岁、此前健康的男性出现疲劳加重和反复鼻衄。评估显示贫血、血小板减少和异常循环白细胞。骨髓活检确诊为急性髓细胞白血病。患者最初接受诱导化疗，并建议进行异体造血干细胞移植。未找到非亲属、HLA 匹配的供者，因此患者的成年儿子自愿成为供者。计划是患者接受预处理化疗和放疗，然后进行骨髓移植。在移植前，进行一个程序以耗竭骨髓移植物中的 CD3+ 细胞。这种移植前程序对于降低患者发生以下哪种风险最有帮助？"
+  },
+  "question": {
+    "en": "This pretransplant procedure would be most helpful in decreasing this patient's risk for which of the following?",
+    "zh": "这种移植前程序对于降低患者发生以下哪种风险最有帮助？"
+  },
+  "options": {
+    "A": {
+      "en": "Cytomegalovirus infection",
+      "zh": "巨细胞病毒感染"
+    },
+    "B": {
+      "en": "Graft versus host disease",
+      "zh": "移植物抗宿主病"
+    },
+    "C": {
+      "en": "Immunoglobulin deficiency",
+      "zh": "免疫球蛋白缺乏"
+    },
+    "D": {
+      "en": "Leukemia relapse",
+      "zh": "白血病复发"
+    },
+    "E": {
+      "en": "Lymphoproliferative disease",
+      "zh": "淋巴细胞增生性疾病"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Graft versus host disease\n\n*   Most commonly occurs after allogeneic hematopoietic cell transplant\n*   Donor CD3+ T cells recognize host cells as foreign → widespread, multisystem inflammatory response\n*   Increased risk with:\n    *   HLA mismatch\n    *   Lack of pretransplant CD3+ T-cell depletion\n*   Skin: maculopapular rash, which can progress to bullous lesions\n*   Liver: abnormal function tests (eg, increased bilirubin & alkaline phosphatase)\n*   Gastrointestinal tract: diarrhea, abdominal pain, nausea & vomiting\n\nHLA = human leukocyte antigen.\n\nAllogeneic stem cell transplantation is used in the treatment of leukemia to provide a new source of hematopoietic stem cells (HSCs) after destruction of the patient's immune cells (including malignant cells) with chemoradiotherapy. The donor's HSCs are frequently obtained from bone marrow or peripheral blood and contain differentiated immune cells such as CD3+ T cells.\n\nThese donor CD3+ (CD4+/CD8+) T cells can recognize human leukocyte antigen (HLA)-mismatched host cells (including residual leukemia cells) as foreign, providing a beneficial graft versus leukemia/tumor effect. However, they can also attack normal host cells and initiate GRAFT VERSUS HOST DISEASE (GVHD), a widespread inflammatory response that characteristically damages the skin (eg, maculopapular rash), gastrointestinal tract (eg, diarrhea, abdominal pain), and liver (eg, elevated serum bilirubin).\n\nDepletion of donor CD3- T cells prior to HSC transplant is performed primarily to decrease GVHD risk, but it also has the following undesirable effects on the host:\n\n*   Decreased graft versus leukemia effect, increasing the risk of leukemia relapse (Choice D).\n*   Depletion of memory T cells, which increases the risk of viral (eg, cytomegalovirus, human herpes virus 6) infections (Choice A). This also increases the risk of posttransplant lymphoproliferative disease due to the reduction in donor T cells that normally attack proliferating B cells infected with Epstein-Barr virus (Choice E).\n\n(Choice C) Immunoglobulin deficiency is a normal effect of myeloablative chemoradiotherapy that improves over time with engraftment (proliferation and differentiation) of donor HSCs. Removal of donor T cells before the transplant would increase the period of B cell and immunoglobulin deficiency by slowing engraftment and reestablishment of host immune function.\n\nEducational objective:\nAllogeneic hematopoietic stem cell grafts normally include donor CD3+ T cells that can initiate graft versus host disease (GVHD), a widespread inflammatory response that can damage multiple organs. Depletion of donor CD3- T cells prior to transplant decreases the risk of GVHD but also decreases the beneficial graft versus tumor effect, increasing the likelihood of cancer relapse.",
+    "zh": "移植物抗宿主病\n\n*   最常发生在异基因造血细胞移植后\n*   供者 CD3+ T 细胞将宿主细胞识别为异物 → 广泛的、多系统炎症反应\n*   风险增加与以下因素有关：\n    *   HLA 不匹配\n    *   缺乏移植前 CD3+ T 细胞耗竭\n*   皮肤：斑丘疹，可发展为大疱性病变\n*   肝脏：肝功能检查异常（例如，胆红素和碱性磷酸酶升高）\n*   胃肠道：腹泻、腹痛、恶心和呕吐\n\nHLA = 人类白细胞抗原。\n\n异基因干细胞移植用于治疗白血病，在通过放化疗破坏患者的免疫细胞（包括恶性细胞）后，提供新的造血干细胞 (HSC) 来源。供者的 HSC 经常从骨髓或外周血中获得，并且包含分化的免疫细胞，例如 CD3+ T 细胞。\n\n这些供者 CD3+ (CD4+/CD8+) T 细胞可以识别 HLA 不匹配的宿主细胞（包括残留的白血病细胞）为异物，从而提供有益的移植物抗白血病/肿瘤作用。然而，它们也可以攻击正常的宿主细胞并引发移植物抗宿主病 (GVHD)，这是一种广泛的炎症反应，其特征是会损害皮肤（例如，斑丘疹）、胃肠道（例如，腹泻、腹痛）和肝脏（例如，血清胆红素升高）。\n\n在 HSC 移植前耗竭供者 CD3- T 细胞的主要目的是降低 GVHD 的风险，但它对宿主也有以下不良影响：\n\n*   移植物抗白血病作用降低，增加了白血病复发的风险（选项 D）。\n*   记忆 T 细胞耗竭，这增加了病毒（例如，巨细胞病毒、人类疱疹病毒 6 型）感染的风险（选项 A）。这也增加了移植后淋巴细胞增生性疾病的风险，原因是通常攻击感染 Epstein-Barr 病毒的增殖 B 细胞的供者 T 细胞减少（选项 E）。\n\n（选项 C）免疫球蛋白缺乏是清髓性放化疗的正常作用，随着供者 HSC 植入（增殖和分化）而随时间改善。在移植前去除供者 T 细胞会通过减缓植入和恢复宿主免疫功能来延长 B 细胞和免疫球蛋白缺乏的时间。\n\n教育目标：\n异基因造血干细胞移植物通常包括可引发移植物抗宿主病 (GVHD) 的供者 CD3+ T 细胞，GVHD 是一种可损害多个器官的广泛炎症反应。移植前耗竭供者 CD3- T 细胞可降低 GVHD 的风险，但也会降低有益的移植物抗肿瘤作用，从而增加癌症复发的可能性。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of allogeneic hematopoietic stem cell transplantation and the role of T-cell depletion in preventing graft versus host disease (GVHD). It also assesses understanding of the potential complications associated with T-cell depletion.\n\nTo solve this question, recognize that GVHD is caused by donor T cells attacking host tissues. Depleting CD3+ T cells from the donor graft reduces the risk of GVHD, but also has other consequences like increased risk of viral infections and leukemia relapse.",
+    "zh": "此题考察对异基因造血干细胞移植的理解以及 T 细胞耗竭在预防移植物抗宿主病 (GVHD) 中的作用。它还评估了对与 T 细胞耗竭相关的潜在并发症的理解。\n\n要解决此题，需要认识到 GVHD 是由供者 T 细胞攻击宿主组织引起的。从供者移植物中耗竭 CD3+ T 细胞可降低 GVHD 的风险，但也有其他后果，如病毒感染和白血病复发的风险增加。"
+  },
+  "tags": "Allogeneic hematopoietic stem cell transplantation; Graft versus host disease; T-cell depletion; Acute myeloid leukemia; Immunology; Hematology; CD3+ T cells; HLA mismatch",
+  "category": "Blood",
+  "question_id": "16141",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\16141",
+  "extracted_at": "2025-11-05T11:26:16.115151",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:28:30.835997",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

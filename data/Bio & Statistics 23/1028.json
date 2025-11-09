@@ -1,0 +1,55 @@
+{
+  "question_stem": {
+    "en": "A 31-year-old man comes to the office for a routine checkup. He has no significant medical problems and does not take any medications. The patient works as a fitness trainer and lifts weights recreationally. He has been consuming carbohydrate-rich food prior to his weightlifting sessions and claims that it increases muscle strength. A literature review shows that the rate of glycogenolysis within myocytes increases several hundredfold during active skeletal muscle contraction.",
+    "zh": "一名31岁的男性前来就诊进行例行体检。他没有重大的医疗问题，也没有服用任何药物。该患者是一名健身教练，并且喜欢进行休闲举重。他在举重前摄入富含碳水化合物的食物，并声称这可以增加肌肉力量。文献综述显示，在主动的骨骼肌收缩期间，肌细胞内的糖原分解速率增加了数百倍。"
+  },
+  "question": {
+    "en": "Which of the following substances is most likely responsible for increasing the reaction rate during active contraction?",
+    "zh": "以下哪种物质最有可能负责在主动收缩期间增加反应速率？"
+  },
+  "options": {
+    "A": {
+      "en": "ATP",
+      "zh": "ATP"
+    },
+    "B": {
+      "en": "Ca²⁺",
+      "zh": "Ca²⁺"
+    },
+    "C": {
+      "en": "cAMP",
+      "zh": "cAMP"
+    },
+    "D": {
+      "en": "Glucose-6-phosphate",
+      "zh": "葡萄糖-6-磷酸"
+    },
+    "E": {
+      "en": "Lactate",
+      "zh": "乳酸"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Glycogen is broken down by the enzyme glycogen phosphorylase, which is regulated through phosphorylation (active state) and dephosphorylation (inactive state). Phosphorylase kinase (PK) is the enzyme responsible for the phosphorylation of glycogen phosphorylase, whereas phosphoprotein phosphatase catalyzes its dephosphorylation.\n\nPK is regulated differently in liver than in muscles. Glycogen stored in the liver is used to maintain blood glucose levels during the fasting state, whereas glycogen in the muscles is used to provide energy for muscle contraction. In the liver, PK is activated primarily through the binding of epinephrine and glucagon to G, protein-coupled receptors, which increases cAMP concentrations and causes phosphorylation of PK (via protein kinase A).\n\nSkeletal muscle lacks glucagon receptors, but muscle PK can still be phosphorylated in response to an epinephrine-induced increase in cAMP concentrations. However, increased intracellular calcium is a more powerful activator of muscle PK. Release of sarcoplasmic calcium stores following neuromuscular acetylcholine stimulation allows for synchronization of skeletal muscle contraction and glycogen breakdown, providing the energy necessary for anaerobic muscle contraction.\n\n(Choices A and D) Phosphorylated glycogen phosphorylase (active form) is allosterically inhibited by ATP and glucose-6-phosphate in both liver and muscle cells. Increased intracellular ATP levels help to decrease the rate of glycogenolysis upon cessation of active muscle contraction.\n\n(Choice C) Although increased cAMP stimulates muscle glycogen breakdown via the action of epinephrine on beta-1 adrenergic receptors, it is not responsible for synchronization of active muscle contraction and glycogen breakdown.\n\n(Choice E) Lactate is produced in tissues during anaerobic glycolysis, such as in muscles during strenuous exercise as a result of relatively hypoxic conditions. The lactate produced by the muscles can be converted to glucose in the liver via gluconeogenesis.\n\nEducational objective:\nSynchronization of glycogen degradation with skeletal muscle contraction occurs due to release of sarcoplasmic calcium following neuromuscular stimulation. Increased intracellular calcium causes activation of phosphorylase kinase, stimulating glycogen phosphorylase to increase glycogenolysis.",
+    "zh": "糖原由糖原磷酸化酶分解，该酶通过磷酸化（活性状态）和去磷酸化（非活性状态）进行调节。磷酸化酶激酶（PK）是负责糖原磷酸化酶磷酸化的酶，而磷酸蛋白磷酸酶催化其去磷酸化。\n\nPK在肝脏和肌肉中的调节方式不同。储存在肝脏中的糖原用于在禁食状态下维持血糖水平，而肌肉中的糖原用于为肌肉收缩提供能量。在肝脏中，PK主要通过肾上腺素和胰高血糖素与G蛋白偶联受体的结合而被激活，这增加了cAMP浓度并引起PK的磷酸化（通过蛋白激酶A）。\n\n骨骼肌缺乏胰高血糖素受体，但肌肉PK仍可响应肾上腺素诱导的cAMP浓度升高而被磷酸化。然而，增加的细胞内钙是肌肉PK更强大的激活剂。神经肌肉乙酰胆碱刺激后，肌浆钙储存的释放使骨骼肌收缩和糖原分解同步，从而提供无氧肌肉收缩所需的能量。\n\n（选项A和D）磷酸化的糖原磷酸化酶（活性形式）被ATP和葡萄糖-6-磷酸在肝细胞和肌细胞中变构抑制。细胞内ATP水平的增加有助于在主动肌肉收缩停止后降低糖原分解的速率。\n\n（选项C）尽管增加的cAMP通过肾上腺素对β-1肾上腺素能受体的作用刺激肌肉糖原分解，但它并不能负责主动肌肉收缩和糖原分解的同步。\n\n（选项E）乳酸在无氧糖酵解期间在组织中产生，例如在剧烈运动期间的肌肉中，这是由于相对缺氧的条件所致。肌肉产生的乳酸可以通过糖异生作用转化为肝脏中的葡萄糖。\n\n教育目标：\n由于神经肌肉刺激后肌浆钙的释放，糖原降解与骨骼肌收缩同步发生。增加的细胞内钙导致磷酸化酶激酶的激活，刺激糖原磷酸化酶增加糖原分解。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the regulation of glycogenolysis in skeletal muscle, specifically the role of calcium in activating phosphorylase kinase. It also assesses understanding of how different signaling pathways regulate glycogen breakdown in liver versus muscle.\n\nTo solve this question, remember that calcium is a key regulator of muscle contraction and glycogen breakdown. Recognize that muscle lacks glucagon receptors, making cAMP less influential than calcium in muscle glycogenolysis. Eliminate options that inhibit glycogenolysis (ATP, glucose-6-phosphate) or are products of anaerobic glycolysis (lactate).",
+    "zh": "这个问题测试了对骨骼肌中糖原分解的调节知识，特别是钙在激活磷酸化酶激酶中的作用。它还评估了对不同信号通路如何调节肝脏和肌肉中糖原分解的理解。\n\n要解决这个问题，请记住钙是肌肉收缩和糖原分解的关键调节因子。认识到肌肉缺乏胰高血糖素受体，这使得cAMP在肌肉糖原分解中不如钙有影响力。排除抑制糖原分解的选项（ATP、葡萄糖-6-磷酸）或无氧糖酵解的产物（乳酸）。"
+  },
+  "tags": "Glycogenolysis; Muscle contraction; Calcium signaling; Phosphorylase kinase; Skeletal muscle metabolism",
+  "category": "Bio",
+  "question_id": "1028",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1028",
+  "extracted_at": "2025-11-05T10:25:35.906570",
+  "translated_at": "2025-11-07T15:43:17.377192",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

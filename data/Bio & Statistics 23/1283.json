@@ -1,0 +1,55 @@
+{
+  "question_stem": {
+    "en": "Plasma homocysteine levels are measured in patients with acute coronary syndrome who are treated at a large community hospital. The mean plasma homocysteine level in this group is determined to be 11.1 µmol/L with a standard deviation of 1.2 µmol/L. In a separate group of patients hospitalized on the general ward in the same hospital, the mean plasma level is 9.5 µmol/L and the standard deviation is 1.3 µmol/L.",
+    "zh": "在大型社区医院接受治疗的急性冠状动脉综合征患者中测量血浆同型半胱氨酸水平。该组的平均血浆同型半胱氨酸水平确定为 11.1 µmol/L，标准差为 1.2 µmol/L。在同一家医院普通病房住院的另一组患者中，平均血浆水平为 9.5 µmol/L，标准差为 1.3 µmol/L。"
+  },
+  "question": {
+    "en": "Which of the following statistical methods should be used to compare the mean homocysteine levels of these 2 groups of patients?",
+    "zh": "以下哪种统计方法应用于比较这两组患者的平均同型半胱氨酸水平？"
+  },
+  "options": {
+    "A": {
+      "en": "Two-sample t test",
+      "zh": "两样本 t 检验"
+    },
+    "B": {
+      "en": "Linear regression",
+      "zh": "线性回归"
+    },
+    "C": {
+      "en": "Correlation coefficient",
+      "zh": "相关系数"
+    },
+    "D": {
+      "en": "Chi-square test",
+      "zh": "卡方检验"
+    },
+    "E": {
+      "en": "Meta-analysis",
+      "zh": "Meta 分析"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The two-sample t test is commonly employed to determine if the means of 2 populations are equal. Several statistical approaches can be used, but the basic numerical requirements needed to perform this test are the 2 mean values, the sample variances (eg, standard deviations), and the sample sizes. The t statistic is then calculated, from which the p value can be determined. If p < 0.05, the null hypothesis (which assumes that there is no difference between 2 groups) is rejected and the 2 means are assumed to be statistically different.\n\n(Choice B) Linear regression is used to model the linear relationship between a dependent variable and an independent variable. For example, linear regression could be used to determine the relationship (described in terms of a trend line) between the number of cigarettes smoked per day and the number of yearly hospitalizations in COPD patients.\n\n(Choice C) The correlation coefficient is a measure of the strength and direction of a linear relationship between 2 variables. For example, a study may report a correlation coefficient describing the association between estrogen levels and breast cancer risk in postmenopausal women. It is different from linear regression in that a single number is reported describing the strength and magnitude of the association.\n\n(Choice D) The chi-square test is most appropriate for use with categorical data. It can be used to evaluate whether the expected frequency of an occurrence is consistent with the observed frequency of that occurrence (“goodness of fit”). For instance, a study evaluating Mendelian inheritance of red and green seed colors would use a chi-square test to compare the observed and expected proportions of each seed type.\n\n(Choice E) Meta-analysis is an epidemiologic method of analyzing pooled data from several studies, thereby increasing the statistical power beyond that of the individual studies.",
+    "zh": "两样本 t 检验常用于确定 2 个总体的均值是否相等。可以使用几种统计方法，但执行此检验所需的基本数值要求是 2 个均值、样本方差（例如，标准差）和样本量。然后计算 t 统计量，从中可以确定 p 值。如果 p < 0.05，则拒绝零假设（假设 2 组之间没有差异），并且假设 2 个均值在统计学上有所不同。\n\n（选项 B）线性回归用于对因变量和自变量之间的线性关系进行建模。例如，可以使用线性回归来确定每天吸烟的支数与 COPD 患者每年住院次数之间的关系（用趋势线描述）。\n\n（选项 C）相关系数是衡量 2 个变量之间线性关系的强度和方向的指标。例如，一项研究可能会报告一个相关系数，描述绝经后妇女的雌激素水平与乳腺癌风险之间的关联。它与线性回归的不同之处在于，报告了一个数字，描述了这种关联的强度和大小。\n\n（选项 D）卡方检验最适用于分类数据。它可用于评估发生事件的预期频率是否与该事件的观察频率一致（“拟合优度”）。例如，一项评估红绿种子颜色孟德尔遗传的研究将使用卡方检验来比较每种种子类型的观察比例和预期比例。\n\n（选项 E）Meta 分析是一种流行病学方法，用于分析来自多项研究的汇总数据，从而提高统计功效，超越各个研究的统计功效。"
+  },
+  "summary": {
+    "en": "This question tests the knowledge of appropriate statistical tests to compare the means of two independent groups, specifically the two-sample t-test.\n\nTo solve this question, recognize that you need to compare the means of two independent groups with continuous data, which aligns with the purpose of a two-sample t-test.",
+    "zh": "这个问题考察了比较两个独立组的均值时适当的统计检验的知识，特别是两样本 t 检验。\n\n要解决这个问题，需要认识到你需要使用连续数据比较两个独立组的均值，这与两样本 t 检验的目的相符。"
+  },
+  "tags": "Biostatistics; Hypothesis testing; Two-sample t test; Statistical analysis; Mean comparison",
+  "category": "Bio",
+  "question_id": "1283",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1283",
+  "extracted_at": "2025-11-05T10:31:46.517980",
+  "translated_at": "2025-11-07T16:20:30.277763",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

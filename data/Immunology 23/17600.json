@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 2-year-old boy is brought to the emergency department due to wheezing and difficulty breathing. The patient had been trick-or-treating with his parents and ate several packs of candy containing peanuts. After he receives an intramuscular epinephrine injection, his symptoms resolve. At a follow up appointment, an allergy specialist places droplets of various allergens on the patient's skin and punctures the epidermis at each site. After 15 minutes, the skin at the site with peanut extract is erythematous with a raised, itchy bump that improves by the time the family leaves the office. Three hours later, the parents notice increased swelling at the puncture site. Which of the following is most likely involved in this secondary reaction?",
+    "zh": "一名2岁男孩因喘息和呼吸困难被带到急诊科。该患儿曾与父母一起玩“不给糖就捣蛋”，并吃了数包含有花生的糖果。在接受肌内注射肾上腺素后，他的症状得到缓解。在随访预约时，一位过敏专科医生将各种过敏原的液滴滴在患者的皮肤上，并在每个部位刺破表皮。15分钟后，涂有花生提取物的部位皮肤发红，出现隆起、发痒的肿块，但当家人离开诊所时，肿块有所改善。三个小时后，父母注意到穿刺部位的肿胀加剧。以下哪项最有可能参与这种继发反应？"
+  },
+  "question": {
+    "en": "Which of the following is most likely involved in this secondary reaction?",
+    "zh": "以下哪项最有可能参与这种继发反应？"
+  },
+  "options": {
+    "A": {
+      "en": "Cell lysis following IgG autoantibody binding",
+      "zh": "IgG自身抗体结合后的细胞溶解"
+    },
+    "B": {
+      "en": "Complement activation by immune complexes",
+      "zh": "免疫复合物引起的补体激活"
+    },
+    "C": {
+      "en": "Epithelial damage by major basic protein",
+      "zh": "主要碱性蛋白对上皮细胞的损伤"
+    },
+    "D": {
+      "en": "IgE-mediated histamine release from mast cells",
+      "zh": "IgE介导的肥大细胞组胺释放"
+    },
+    "E": {
+      "en": "Interferon gamma release from CD4+ T cells",
+      "zh": "CD4+ T细胞释放干扰素γ"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Following skin prick testing, this patient developed an erythematous, edematous wheal that was followed 3 hours later by an indurated skin lesion. These findings are consistent with the early and late phases of a type I hypersensitivity reaction. {{exhibit_1}}\n\nAfter first exposure to an allergen (eg, peanuts), antigen specific IgE is produced by B-cells and binds to the surface of mast cells. If repeat exposure occurs, the bound IgE can cross-link and stimulate the release of preformed histamine and leukotrienes that cause vasodilation and increased capillary permeability. The result is a rapid (eg, minutes after exposure) early-phase type I hypersensitivity response characterized by superficial dermal edema and erythema (eg, wheal and flare reaction) that can progress to a more systemic response (eg, anaphylaxis) (Choice D).\n\nIgE also initiates the late phase of a type I hypersensitivity reaction by stimulating type 2 helper T cells to release cytokines (eg, IL-5) that activate EOSINOPHILS. Cationic proteins (eg, MAJOR BASIC PROTEIN, eosinophil peroxidase) released from eosinophils cause TISSUE DAMAGE, which usually manifests as a palpable, INDURATED LESION 2-10 hours following the early-phase reaction.\n\n(Choice A) Binding of preformed IgG antibodies to cell surface antigens initiates cell lysis mediated by complement and/or natural killer cells (type II hypersensitivity reactions). These reactions can develop hours to days after exposure to an antigen (eg, medications, transfused red blood cells), resulting in destruction of erythrocytes (causing fatigue, pallor), platelets (petechial bleeding), or leukocytes (fever, sepsis).\n\n(Choice B) Immune complex-mediated complement activation typically causes tissue damage in sites where immune complexes tend to deposit (eg, skin, joints, kidneys) days to weeks after initial antigen exposure in type III hypersensitivity reactions. Although an Arthus reaction can cause local swelling within hours of an exposure, it is usually associated with intradermal injection of a vaccine.\n\n(Choice E) In type IV (delayed) hypersensitivity reactions, CD4+ T cells release cytokines (eg, interferon gamma) that promote T cell- and macrophage-mediated tissue damage. Although these reactions can also present as an indurated skin lesion (eg, tuberculosis skin testing), type IV hypersensitivity reactions develop over days (rather than hours) because of the time needed for cellular amplification.\n\nEducational objective: The late phase of dermatologic type I hypersensitivity reactions manifests as an indurated skin lesion hours after exposure to the allergen due to local tissue damage caused by major basic protein released from eosinophils. In contrast, type IV hypersensitivity reactions develop over days because of the time needed to produce a cell-mediated immune response.",
+    "zh": "在皮肤点刺试验后，该患者出现了红斑、水肿性风团，3小时后出现硬化性皮肤病变。这些发现与I型超敏反应的早期和晚期一致。{{exhibit_1}}\n\n在首次接触过敏原（如花生）后，B细胞会产生抗原特异性IgE，并与肥大细胞表面结合。如果再次接触，结合的IgE可以交联并刺激预制组胺和白三烯的释放，从而引起血管舒张和毛细血管通透性增加。结果是一种快速（例如，暴露后几分钟）的早期I型超敏反应，其特征是浅表真皮水肿和红斑（例如，风团和红晕反应），可能进展为更全身性的反应（例如，过敏性休克）（选项D）。\n\nIgE还通过刺激2型辅助T细胞释放细胞因子（如IL-5）来启动I型超敏反应的晚期反应，从而激活嗜酸性粒细胞。从嗜酸性粒细胞释放的阳离子蛋白（例如，主要碱性蛋白、嗜酸性粒细胞过氧化物酶）会导致组织损伤，这通常表现为在早期反应后的2-10小时内出现的触及到的、硬化的病变。\n\n（选项A）预制IgG抗体与细胞表面抗原的结合会启动由补体和/或自然杀伤细胞介导的细胞溶解（II型超敏反应）。这些反应可以在接触抗原（例如，药物、输血的红细胞）后数小时到数天内发生，导致红细胞（引起疲劳、苍白）、血小板（瘀点出血）或白细胞（发烧、败血症）的破坏。\n\n（选项B）免疫复合物介导的补体激活通常会导致免疫复合物倾向于沉积的部位（例如，皮肤、关节、肾脏）的组织损伤，这发生在最初接触抗原后数天到数周的III型超敏反应中。虽然Arthus反应可能在接触后数小时内引起局部肿胀，但它通常与疫苗的皮内注射有关。\n\n（选项E）在IV型（迟发型）超敏反应中，CD4+ T细胞释放细胞因子（例如，干扰素γ），促进T细胞和巨噬细胞介导的组织损伤。尽管这些反应也可以表现为硬化性皮肤病变（例如，结核病皮肤试验），但由于需要细胞扩增的时间，IV型超敏反应会在数天（而不是数小时）内发展。\n\n教学目标：皮肤I型超敏反应的晚期表现为接触过敏原后数小时出现的硬化性皮肤病变，这是由于嗜酸性粒细胞释放的主要碱性蛋白引起的局部组织损伤所致。相比之下，IV型超敏反应需要数天才能发展，因为需要时间来产生细胞介导的免疫反应。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of type I hypersensitivity reactions, specifically the late-phase response and the role of eosinophils and major basic protein in tissue damage. It also requires differentiating between the early and late phases of type I hypersensitivity and distinguishing them from other types of hypersensitivity reactions.\n\nTo solve this question, recognize the timeline of the reaction (hours after exposure) and the description of the lesion (indurated swelling). This points to the late-phase type I hypersensitivity reaction mediated by eosinophils and major basic protein. Rule out other hypersensitivity types based on their mechanisms and timelines.",
+    "zh": "这个问题测试对I型超敏反应的知识，特别是晚期反应以及嗜酸性粒细胞和主要碱性蛋白在组织损伤中的作用。它还需要区分I型超敏反应的早期和晚期，并将它们与其他类型的超敏反应区分开来。\n\n要解决这个问题，需要识别反应的时间线（暴露后数小时）和病变的描述（硬化性肿胀）。这指向由嗜酸性粒细胞和主要碱性蛋白介导的晚期I型超敏反应。根据其他超敏反应的机制和时间线排除它们。"
+  },
+  "tags": "Type I hypersensitivity; Allergy; Eosinophils; Major basic protein; IgE; Skin prick test; Late-phase reaction; Immunology; Dermatology; Anaphylaxis",
+  "category": "Immunology",
+  "question_id": "17600",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\17600",
+  "extracted_at": "2025-11-05T14:40:55.212948",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:00:59.149807",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 57-year-old man with a history of alcohol-induced cirrhosis is brought to the emergency department due to altered mental status. Over the weekend, he ate a lot of smoked meats at a local barbecue competition. Since then, he has been sleeping most of the day and is confused and disoriented when awake. On examination, he has abdominal distension with shifting dullness. The patient answers correctly when asked for his name but does not know that he is in the hospital and says the year is \"1997.\" When asked to extend his hands as if stopping traffic, the patient makes rhythmic flapping movements. He is started on rifaximin.",
+    "zh": "一名有酒精性肝硬化病史的57岁男性因精神状态改变被送往急诊科。周末，他在当地的烧烤比赛中吃了大量的熏肉。从那时起，他大部分时间都在睡觉，清醒时感到困惑和定向力障碍。检查显示，他有腹部膨隆，伴有移动性浊音。当被问及他的名字时，患者回答正确，但他不知道自己身在医院，并说年份是“1997年”。当被要求像阻止交通一样伸出手时，患者做出了有节奏的扑动动作。他开始服用利福昔明。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely mechanism of action of this drug when used to treat this patient's current condition?",
+    "zh": "当使用该药物治疗该患者目前的病情时，以下哪项是最可能的作用机制？"
+  },
+  "options": {
+    "A": {
+      "en": "Binding of dietary phosphate",
+      "zh": "结合膳食磷酸盐"
+    },
+    "B": {
+      "en": "Decreased intraluminal ammonia production",
+      "zh": "减少肠腔内氨的产生"
+    },
+    "C": {
+      "en": "Exchange of intraluminal sodium ions for potassium ions",
+      "zh": "用钾离子交换肠腔内钠离子"
+    },
+    "D": {
+      "en": "Formation of a nonabsorbable complex with bile acids",
+      "zh": "与胆汁酸形成不可吸收的复合物"
+    },
+    "E": {
+      "en": "Increased conversion of ammonia to ammonium ion",
+      "zh": "增加氨转化为铵离子"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient likely has hepatic encephalopathy (HE), a neurologic complication of cirrhosis due in part to the liver's inability to convert ammonia (a neurotoxin) to urea. Excess ammonia is shunted past the liver and crosses the blood-brain barrier, leading to altered mental status (thought due to impaired neurotransmitter release, astrocyte dysfunction, neuroinflammation, and/or edema). Asterixis, the rhythmic flapping of dorsiflexed hands, is another common manifestation of HE.\n\nA primary source of ammonia is degradation of nitrogen products by intestinal bacteria. Therefore, gastrointestinal (GI) bleeding can precipitate HE as hemoglobin breakdown leads to increased nitrogen products in the gut. Excess dietary protein intake (eg, large steak meal) is another common trigger. Others include infection, sedatives, and metabolic derangements (eg, hypokalemia).\n\nRifaximin is a nonabsorbable antibiotic that alters GI flora to decrease intestinal production and absorption of ammonia. In patients with HE, rifaximin is generally used in addition to lactulose, which is catabolized by intestinal bacterial flora to short chain fatty acids, lowering the colonic pH and increasing conversion of ammonia to ammonium (Choice E). Rifaximin is also sometimes used for traveler's diarrhea, as it inhibits bacterial RNA synthesis through binding with DNA-dependent RNA polymerase.\n\n(Choices A and C) Phosphate binders (eg, calcium acetate) lower serum phosphate in patients with end-stage renal disease. Sodium polystyrene resin (eg, sodium polystyrene sulfonate) exchanges intraluminal sodium for potassium ions and can lower serum potassium in patients with hyperkalemia. However, neither effectively treats HE.\n\n(Choice D) Bile acid sequestrants (cholestyramine, colestipol) bind intestinal bile acids to lower serum cholesterol, but they are not used for treating HE.\n\nEducational objective:\nTreatments for hepatic encephalopathy include lactulose (increases conversion of ammonia to ammonium) and rifaximin (decreases intraluminal ammonia production).",
+    "zh": "该患者可能患有肝性脑病 (HE)，这是肝硬化的一种神经系统并发症，部分原因是肝脏无法将氨（一种神经毒素）转化为尿素。过多的氨绕过肝脏并穿过血脑屏障，导致精神状态改变（据认为是由神经递质释放受损、星形胶质细胞功能障碍、神经炎症和/或水肿引起的）。扑翼样震颤（手背屈的、有节奏的扑动）是 HE 的另一种常见表现。\n\n氨的主要来源是肠道细菌对含氮产物的降解。因此，胃肠道 (GI) 出血可诱发 HE，因为血红蛋白分解会导致肠道内含氮产物增加。过多的膳食蛋白质摄入（例如，大量牛排餐）是另一个常见诱因。其他包括感染、镇静剂和代谢紊乱（例如，低钾血症）。\n\n利福昔明是一种不可吸收的抗生素，可改变胃肠道菌群，以减少肠道内氨的产生和吸收。在 HE 患者中，利福昔明通常与乳果糖一起使用，乳果糖被肠道细菌菌群分解为短链脂肪酸，降低结肠 pH 值并增加氨向铵的转化（选项 E）。利福昔明有时也用于治疗旅行者腹泻，因为它通过与 DNA 依赖性 RNA 聚合酶结合来抑制细菌 RNA 合成。\n\n（选项 A 和 C）磷酸盐结合剂（例如，醋酸钙）可降低终末期肾病患者的血清磷酸盐。聚苯乙烯磺酸钠树脂（例如，聚苯乙烯磺酸钠）用钾离子交换肠腔内钠离子，可降低高钾血症患者的血清钾。然而，两者都不能有效治疗 HE。\n\n（选项 D）胆汁酸螯合剂（考来烯胺、考来替泊）结合肠道胆汁酸以降低血清胆固醇，但它们不用于治疗 HE。\n\n教育目标：\n肝性脑病的治疗方法包括乳果糖（增加氨向铵的转化）和利福昔明（减少肠腔内氨的产生）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hepatic encephalopathy pathophysiology and the mechanism of action of rifaximin in treating this condition. Hepatic encephalopathy results from the liver's inability to convert ammonia to urea, leading to altered mental status and asterixis. \n\nThe key to solving this question is recognizing the patient's symptoms as hepatic encephalopathy and understanding that rifaximin reduces intraluminal ammonia production by altering gut flora.",
+    "zh": "本题测试对肝性脑病病理生理学以及利福昔明治疗该疾病的作用机制的知识。肝性脑病是由于肝脏无法将氨转化为尿素，导致精神状态改变和扑翼样震颤。\n\n解决本题的关键是认识到患者的症状是肝性脑病，并了解利福昔明通过改变肠道菌群来减少肠腔内氨的产生。"
+  },
+  "tags": "Hepatic encephalopathy; Cirrhosis; Ammonia; Rifaximin; Lactulose; Liver disease; Gastroenterology; Antibiotics; Asterixis; Altered mental status",
+  "category": "GIT",
+  "question_id": "11661",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\11661",
+  "extracted_at": "2025-11-05T14:22:17.515489",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:50:14.340755",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 30-year-old woman comes to the emergency department with sudden-onset abdominal pain and ascites. Laboratory studies show anemia, reticulocytosis, leukopenia, and thrombocytopenia. Flow cytometry of the patient's peripheral blood cells using the appropriate monoclonal antibodies shows CD55 and CD59 deficiency. CT scan of the abdomen shows hepatic vein thrombosis. {{exhibit_1}} Which of the following is the most likely cause of this patient's anemia?",
+    "zh": "一名30岁女性因突发性腹痛和腹水前来急诊。实验室研究显示贫血、网织红细胞增多、白细胞减少和血小板减少。使用适当单克隆抗体的患者外周血细胞流式细胞术显示CD55和CD59缺乏。腹部CT扫描显示肝静脉血栓形成。{{exhibit_1}}以下哪项最可能是该患者贫血的原因？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's anemia?",
+    "zh": "以下哪项最可能是该患者贫血的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Complement activation",
+      "zh": "补体激活"
+    },
+    "B": {
+      "en": "Factor V mutation",
+      "zh": "凝血因子V突变"
+    },
+    "C": {
+      "en": "Intracellular dehydration",
+      "zh": "细胞内脱水"
+    },
+    "D": {
+      "en": "Mutation in beta globin chain",
+      "zh": "β珠蛋白链突变"
+    },
+    "E": {
+      "en": "Splenic sequestration",
+      "zh": "脾脏滞留"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's combination of hemolytic anemia, hypercoagulability (eg, hepatic vein thrombosis), and pancytopenia are characteristic of PAROXYSMAL NOCTURNAL HEMOGLOBINURIA (PNH). Despite the name, hemolysis has been shown to occur at low baseline levels throughout the day, with exacerbations caused by a variety of inflammatory triggers (eg, infections, surgery).\n\nPNH is caused by an acquired mutation of the *PIGA* gene within a clonal population of multipotent hematopoietic stem cells. This gene is involved in the synthesis of the glycosylphosphatidylinositol (GPI) anchor, a glycolipid necessary for the attachment of several cell-surface proteins, including CD55 (decay-accelerating factor) and CD59 (MAC inhibitory protein). These proteins help inactivate complement and prevent the membrane attack complex from forming on normal cells.\n\nAbsence of the GPI anchor results in CD55 and CD59 deficiency and COMPLEMENT-MEDIATED HEMOLYSIS. The hemolysis occurs more often at night because complement activity is increased during sleep due to lower blood pH. Patients also develop thrombotic complications (eg, Budd-Chiari syndrome), likely due to release of free hemoglobin and other prothrombotic factors from lysed red blood cells and platelets. PNH is often associated with pancytopenia and APLASTIC ANEMIA (possibly due to autoimmune attack against GPI-antigens on stem cells). Flow cytometry is the gold standard for the diagnosis of PNH and will show absence of the GPI anchor and CD55 and CD59 deficiency.\n\n(Choice B) Factor V mutation can result in an aberration called factor V Leiden, which is resistant to cleavage by activated protein C. Patients with factor V Leiden are at increased risk of thrombotic events, but hemolytic anemia and pancytopenia are not seen.\n\n(Choice C) Intracellular dehydration occurs during the pathogenesis of sickle cell anemia and spherocytosis.\n\n(Choice D) Mutations affecting the beta globin chain cause β-thalassemia.\n\n(Choice E) Splenic sequestration is a common complication of sickle cell anemia.",
+    "zh": "该患者的溶血性贫血、高凝状态（如肝静脉血栓形成）和全血细胞减少的组合是阵发性睡眠性血红蛋白尿（PNH）的特征。尽管有这个名称，但溶血已被证明在一天中的低基线水平发生，并因各种炎症诱因（如感染、手术）而加重。\n\nPNH是由多能造血干细胞克隆群体内*PIGA*基因的获得性突变引起的。该基因参与糖基磷脂酰肌醇(GPI)锚的合成，这是一种糖脂，是附着几种细胞表面蛋白所必需的，包括CD55（衰变加速因子）和CD59（MAC抑制蛋白）。这些蛋白有助于灭活补体，防止膜攻击复合物在正常细胞上形成。\n\nGPI锚的缺失导致CD55和CD59缺乏以及补体介导的溶血。溶血在夜间更常发生，因为睡眠期间由于血液pH值降低，补体活性增加。患者还会出现血栓形成并发症（如Budd-Chiari综合征），这可能是由于溶血红细胞和血小板释放游离血红蛋白和其他促血栓形成因子所致。PNH常与全血细胞减少和再生障碍性贫血相关（可能由于针对干细胞上GPI抗原的自身免疫攻击）。流式细胞术是诊断PNH的金标准，将显示GPI锚的缺失和CD55和CD59的缺乏。\n\n（选项B）凝血因子V突变可导致称为凝血因子V Leiden的异常，该异常对活化蛋白C的切割具有抵抗力。凝血因子V Leiden患者发生血栓形成的风险增加，但未见溶血性贫血和全血细胞减少。\n\n（选项C）细胞内脱水发生在镰状细胞贫血和球形红细胞增多症的发病机制中。\n\n（选项D）影响β珠蛋白链的突变会导致β-地中海贫血。\n\n（选项E）脾脏滞留是镰状细胞贫血的常见并发症。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of paroxysmal nocturnal hemoglobinuria (PNH), including its clinical presentation, pathophysiology, and diagnostic findings. Key features include hemolytic anemia, hypercoagulability, pancytopenia, and CD55/CD59 deficiency.\n\nTo solve this question, recognize the triad of hemolytic anemia, hypercoagulability, and pancytopenia, which strongly suggests PNH. Then, correlate the flow cytometry results (CD55/CD59 deficiency) with the underlying complement-mediated hemolysis.",
+    "zh": "本题考察对阵发性睡眠性血红蛋白尿（PNH）的了解，包括其临床表现、病理生理学和诊断发现。关键特征包括溶血性贫血、高凝状态、全血细胞减少和CD55/CD59缺乏。\n\n要解决这个问题，需要识别溶血性贫血、高凝状态和全血细胞减少的三联征，这强烈提示PNH。然后，将流式细胞术结果（CD55/CD59缺乏）与潜在的补体介导的溶血相关联。"
+  },
+  "tags": "Paroxysmal nocturnal hemoglobinuria; Hemolytic anemia; Thrombosis; Pancytopenia; CD55; CD59; Flow cytometry; Complement system; Hematology; PIGA gene",
+  "category": "Blood",
+  "question_id": "897",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\897",
+  "extracted_at": "2025-11-05T11:35:04.418213",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:32:51.950615",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

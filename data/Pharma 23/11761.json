@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old kidney transplant patient treated with cyclosporine comes to the office due to nausea and anorexia. The patient underwent transplantation 6 months ago and had been doing well until recently. On examination, his blood pressure is 160/96 mm Hg. There is no tenderness at the site of the transplanted kidney. Serum creatinine is 3.4 mg/dL, and the serum cyclosporine level is markedly increased. A month ago, he had normal blood pressure and normal levels of cyclosporine and serum creatinine. Further questioning reveals that the patient has been drinking increased amounts of grapefruit juice lately as part of an attempt to improve his overall health.",
+    "zh": "一名34岁的肾移植患者，正在接受环孢素治疗，因恶心和食欲不振前来就诊。患者6个月前接受了移植，直到最近一直状况良好。体格检查显示其血压为160/96 mmHg。移植肾脏部位无压痛。血清肌酐为3.4 mg/dL，血清环孢素水平显著升高。一个月前，他的血压和环孢素及血清肌酐水平均正常。进一步询问发现，患者最近为了改善整体健康状况，一直在饮用大量葡萄柚汁。"
+  },
+  "question": {
+    "en": "Which of the following mechanisms is most likely responsible for this patient's current condition?",
+    "zh": "以下哪种机制最有可能导致患者目前的状况？"
+  },
+  "options": {
+    "A": {
+      "en": "Alteration of gastric acidity",
+      "zh": "胃酸度的改变"
+    },
+    "B": {
+      "en": "Inhibition of cytochrome P450 enzymes in the gut wall",
+      "zh": "肠壁内细胞色素P450酶的抑制"
+    },
+    "C": {
+      "en": "Modification of transmembrane drug transport",
+      "zh": "跨膜药物转运的改变"
+    },
+    "D": {
+      "en": "Pharmacodynamic potentiation",
+      "zh": "药效动力学增强"
+    },
+    "E": {
+      "en": "Reduction of plasma protein binding",
+      "zh": "血浆蛋白结合减少"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient's new-onset hypertension and elevated levels of serum creatinine and cyclosporine are suggestive of acute CALCINEURIN INHIBITOR NEPHROTOXICITY. Calcineurin inhibitors such as cyclosporine cause dose-dependent renal vasoconstriction and tubular cell damage, which can precipitate acute renal failure.\n\nCyclosporine is extensively metabolized by the liver and gastrointestinal tract via the cytochrome P450 system, specifically the CYP3A isoenzymes. Inhibition of intestinal P450 enzymes by the furocoumarins present in GRAPEFRUIT JUICE can slow the breakdown of drugs metabolized by this pathway, raising circulating levels of the affected drugs. Medications with a narrow therapeutic index (eg, cyclosporine) have the highest risk of toxicity.\n\n(Choice A) Changes in gastric pH do not significantly affect the oral bioavailability of cyclosporine.\n(Choice C) Transmembrane cyclosporine transport is not affected by grapefruit juice.\n(Choice D) Pharmacodynamic potentiation is defined as a greater than additive effect that occurs when 2 different drugs are administered simultaneously due to functional interactions within the target tissues. Grapefruit juice increases the effect of cyclosporine by slowing its metabolism, which is a pharmacokinetic mechanism.\n(Choice E) A decrease in plasma protein binding could lower the apparent volume of distribution of a fixed dose of cyclosporine, thereby increasing the amount of free drug in circulation. However, grapefruit juice does not influence the binding of cyclosporine to plasma proteins.\n\nEducational objective: Calcineurin inhibitor nephrotoxicity with resultant impairment of renal function is the most significant adverse effect of cyclosporine. Cytochrome P450 3A (CYP3A) is responsible for cyclosporine metabolism in the small intestine and liver. Grapefruit juice inhibits this enzyme and increases the nephrotoxicity of cyclosporine by raising drug levels (pharmacokinetic interaction).",
+    "zh": "该患者新发高血压和血清肌酐及环孢素水平升高提示急性钙调神经磷酸酶抑制剂肾毒性。环孢素等钙调神经磷酸酶抑制剂可引起剂量依赖性的肾血管收缩和肾小管细胞损伤，从而诱发急性肾衰竭。\n\n环孢素主要通过肝脏和胃肠道经细胞色素P450系统代谢，特别是CYP3A同工酶。葡萄柚汁中存在的呋喃香豆素可抑制肠道P450酶，从而减缓该途径代谢的药物的分解，导致受影响药物的循环水平升高。治疗指数窄的药物（如环孢素）具有最高的毒性风险。\n\n（选项A）胃pH值的变化不会显著影响环孢素的口服生物利用度。\n（选项C）跨膜环孢素转运不受葡萄柚汁的影响。\n（选项D）药效动力学增强定义为当两种不同的药物同时给药时，由于靶组织内的功能相互作用而发生的超加和效应。葡萄柚汁通过减缓其代谢来增加环孢素的作用，这是一种药代动力学机制。\n（选项E）血浆蛋白结合的降低可能会降低固定剂量的环孢素的表观分布容积，从而增加循环中的游离药物量。然而，葡萄柚汁不影响环孢素与血浆蛋白的结合。\n\n教育目标：钙调神经磷酸酶抑制剂肾毒性伴肾功能损害是环孢素最显著的不良反应。细胞色素P450 3A (CYP3A) 负责环孢素在小肠和肝脏中的代谢。葡萄柚汁抑制这种酶，并通过提高药物水平（药代动力学相互作用）来增加环孢素的肾毒性。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of drug interactions and their impact on the pharmacokinetics of immunosuppressive agents, specifically cyclosporine. It assesses the knowledge of how grapefruit juice affects drug metabolism via the cytochrome P450 system and the resulting clinical consequences, such as nephrotoxicity.\n\nTo solve this question, one must identify the clinical signs of cyclosporine toxicity (elevated creatinine, increased cyclosporine levels, hypertension) and correlate them with the patient's recent dietary change (grapefruit juice consumption). Recognizing grapefruit juice as an inhibitor of CYP3A4 enzymes is key to understanding the pharmacokinetic mechanism leading to increased cyclosporine levels and subsequent toxicity.",
+    "zh": "此题考察对药物相互作用及其对免疫抑制剂（特别是环孢素）药代动力学的影响的理解。它评估了对葡萄柚汁如何通过细胞色素P450系统影响药物代谢以及由此产生的临床后果（如肾毒性）的认识。\n\n要解决这个问题，必须识别环孢素毒性的临床体征（肌酐升高、环孢素水平升高、高血压），并将其与患者最近的饮食变化（葡萄柚汁摄入）联系起来。将葡萄柚汁识别为CYP3A4酶的抑制剂是理解导致环孢素水平升高和随后的毒性的药代动力学机制的关键。"
+  },
+  "tags": "Cyclosporine; Kidney transplant; Drug interaction; Grapefruit juice; Cytochrome P450; CYP3A4; Nephrotoxicity; Pharmacokinetics; Calcineurin inhibitor",
+  "category": "Pharma",
+  "question_id": "11761",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\11761",
+  "extracted_at": "2025-11-05T19:44:45.666338",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:46:36.475113",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

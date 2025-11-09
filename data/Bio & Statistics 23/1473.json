@@ -1,0 +1,55 @@
+{
+  "question_stem": {
+    "en": "Researchers analyzing eukaryotic genome structure and function perform an experiment to extract DNA from exocrine pancreatic cells. During the purification process, they isolate small circular DNA molecules that resemble a bacterial chromosome. Further analysis shows that these molecules code for proteins, transfer RNA, and ribosomal RNA. {{exhibit_1}}",
+    "zh": "研究人员分析真核生物基因组结构和功能，进行了一项实验，从外分泌胰腺细胞中提取DNA。在纯化过程中，他们分离出类似细菌染色体的小型环状DNA分子。进一步分析表明，这些分子编码蛋白质、转运RNA和核糖体RNA。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "From which of the following cellular structures did these DNA molecules most likely originate?",
+    "zh": "这些DNA分子最有可能起源于以下哪种细胞结构？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Nuclear chromosomes contain most of the DNA found in human cells. However, mitochondria also contain their own DNA called mitochondrial DNA (mtDNA). This DNA exists as a small circular chromosome with a slightly different genetic code than that of nuclear DNA, consistent with the endosymbiotic theory that mitochondria originated as prokaryotic cells that were later engulfed by ancient eukaryotes.\n\nOver time, most of the genes coding for mitochondrial proteins have migrated to nuclear DNA. However, mtDNA still codes for about 14 proteins (some involved in oxidative metabolic pathways) and the ribosomal and transfer RNA needed for mitochondrial protein synthesis. Each mitochondrion contains 1-10 copies of maternally derived mtDNA. As a result, diseases arising from mutations in mtDNA are transmitted from the mother to all of her offspring.\n\nMitochondria can be identified on electron microscopy by their characteristic double membrane and wavy cristae.\n\n(Choice A) The rough endoplasmic reticulum has a stippled appearance secondary to the presence of numerous ribosomes bound to its membranes. These ribosomes are involved in the synthesis of integral membrane proteins and proteins destined for export or packaging into granules or organelles.\n\n(Choice B) The dark region identified within the nucleus is the nucleolus, the site of synthesis and assembly of eukaryotic ribosomal components. There is no lipid membrane separating the nucleolus from the rest of the nucleus.\n\n(Choice C) The lighter “electron-lucent” regions within the nucleus signify euchromatin (unpackaged DNA being actively transcribed).\n\n(Choice E) This electron-dense membrane-bound spherical structure represents an exocrine granule containing enzymes and other proteins packaged for secretion.",
+    "zh": "细胞核染色体包含人体细胞中发现的大部分DNA。然而，线粒体也含有它们自己的DNA，称为线粒体DNA（mtDNA）。这种DNA以小型环状染色体的形式存在，其遗传密码与细胞核DNA略有不同，这与内共生理论一致，即线粒体起源于原核细胞，后来被古代真核生物吞噬。\n\n随着时间的推移，大多数编码线粒体蛋白质的基因已经转移到细胞核DNA中。然而，mtDNA仍然编码大约14种蛋白质（一些参与氧化代谢途径）以及线粒体蛋白质合成所需的核糖体RNA和转运RNA。每个线粒体包含1-10份母源性mtDNA。因此，由mtDNA突变引起的疾病会从母亲传播给她的所有后代。\n\n线粒体可以通过其特有的双层膜和波浪状嵴在电子显微镜下识别。\n\n（选项A）粗面内质网由于其膜上存在大量核糖体而呈现点缀状外观。这些核糖体参与整合膜蛋白和旨在出口或包装到颗粒或细胞器中的蛋白质的合成。\n\n（选项B）在细胞核内鉴定的暗区是核仁，是真核生物核糖体组分的合成和组装位点。没有脂质膜将核仁与细胞核的其余部分分开。\n\n（选项C）细胞核内的较亮的“电子透明”区域表示常染色质（未包装的DNA正在积极转录）。\n\n（选项E）这种电子致密的膜结合球形结构代表一个外分泌颗粒，其中包含酶和其他包装用于分泌的蛋白质。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of mitochondrial DNA (mtDNA), its structure, origin, and function, as well as the ability to identify mitochondria on electron microscopy.\n\nThe key to solving this question is recognizing that mitochondria contain their own DNA in the form of a circular chromosome, similar to bacteria. Identifying the mitochondria in the electron microscopy image is crucial.",
+    "zh": "这个问题考察了线粒体DNA（mtDNA）的知识，包括其结构、起源和功能，以及在电子显微镜下识别线粒体的能力。\n\n解决这个问题的关键是认识到线粒体以环状染色体的形式包含它们自己的DNA，类似于细菌。识别电子显微镜图像中的线粒体至关重要。"
+  },
+  "tags": "Mitochondria; Mitochondrial DNA; Electron microscopy; Cell biology; Genetics",
+  "category": "Bio",
+  "question_id": "1473",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1473",
+  "extracted_at": "2025-11-05T10:35:18.497170",
+  "translated_at": "2025-11-07T16:21:25.795882",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

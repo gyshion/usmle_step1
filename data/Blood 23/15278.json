@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 15-year-old boy is brought to the emergency department due to progressive shortness of breath. The patient has no chronic medical conditions. Temperature is 37.1 C (98.8 F), pulse is 130/min, and respirations are 32/min. Pulse oximetry is 94% on room air. Lung examination demonstrates diffusely diminished breath sounds. Clusters of enlarged cervical lymph nodes are palpable bilaterally. A large mediastinal mass is visualized on chest x-ray. The leukocyte count is elevated, and a peripheral blood smear shows abnormal white blood cells, as shown in the image below {{exhibit_1}}.",
+    "zh": "一名15岁男孩因进行性呼吸困难被送往急诊科。患者无慢性疾病史。体温37.1°C (98.8°F)，脉搏130次/分钟，呼吸32次/分钟。室气下脉搏血氧饱和度为94%。肺部检查显示弥漫性呼吸音减弱。双侧可触及成簇的颈部淋巴结肿大。胸片显示有大的纵隔肿块。白细胞计数升高，外周血涂片显示异常白细胞，如下图 {{exhibit_1}} 所示。"
+  },
+  "question": {
+    "en": "Specialized staining shows the cells are positive for terminal deoxynucleotidyl transferase (TdT) and CD3; they are negative for CD19 and myeloperoxidase (MPO). Which of the following is the most likely diagnosis?",
+    "zh": "特殊染色显示细胞对末端脱氧核苷酸转移酶 (TdT) 和 CD3 呈阳性；对 CD19 和髓过氧化物酶 (MPO) 呈阴性。以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Acute myeloid leukemia",
+      "zh": "急性髓细胞白血病"
+    },
+    "B": {
+      "en": "B-lymphoblastic leukemia",
+      "zh": "B 淋巴母细胞白血病"
+    },
+    "C": {
+      "en": "Burkitt lymphoma",
+      "zh": "伯基特淋巴瘤"
+    },
+    "D": {
+      "en": "Hodgkin lymphoma",
+      "zh": "霍奇金淋巴瘤"
+    },
+    "E": {
+      "en": "T-lymphoblastic leukemia",
+      "zh": "T 淋巴母细胞白血病"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's peripheral blood smear demonstrates blast cells characterized by large nuclei, scant cytoplasm, visible nucleoli, and immature (ie, fine) chromatin. These early hematologic precursors normally comprise a small percentage in the bone marrow but, with malignant transformation, can proliferate and be detected in peripheral blood (eg, acute leukemia).\n\nThe presence of myeloperoxidase (MPO) helps determine whether blasts are lymphoid or myeloid in origin. Because MPO is an enzyme involved in microbial killing by myeloid derivatives (eg, neutrophils), it is absent in lymphoid cells. In addition, positive terminal deoxynucleotidyl transferase (TdT) indicates lymphoblasts; TdT is a DNA polymerase involved in V(D)J recombination, which generates antigen receptor diversity during early lymphoid maturation. Therefore, negative MPO and positive TdT confirm that these are lymphoblasts.\n\nLymphoblasts are further differentiated by markers unique to B (eg, CD19) or T (eg, CD3) cells. This patient's CD3-positive lymphoblasts indicate T-lymphoblastic leukemia (T-ALL). Unlike B-lymphoblastic leukemia (B-ALL), which usually occurs in early childhood, T-ALL is most common in adolescence. Tumors classically develop in the thymus, the site of T-cell development, and often result in the formation of a mediastinal mass that compresses the airway, causing cough and dyspnea, or the nearby blood vessels, causing superior vena cava syndrome.\n\n(Choice A) Acute myeloid leukemia arises from myeloid precursors (myeloblasts), and cells therefore express MPO, not CD3 and TdT.\n\n(Choice B) B-ALL, the most common ALL subtype, expresses TdT. However, expression of B-cell surface markers (eg, CD19) would be expected. In addition, presentation usually involves signs of bone marrow failure (eg, pallor, bruising) in young children, not a mediastinal mass in an adolescent.\n\n(Choice C) Burkitt lymphoma, a malignancy derived from mature B cells, can present with disseminated disease involving the bone marrow. An enlarging mass can be seen, but it is usually in the abdomen or jaw, not the mediastinum. Cells express B-cell, not T-cell, markers. Because Burkitt lymphoma is composed of mature B cells, TdT is negative.\n\n(Choice D) Hodgkin lymphoma can present with a mediastinal mass and painless lymphadenopathy. Circulating blasts are not typical. Instead, Reed-Sternberg cells (large cells with multilobated nuclei and eosinophilic nucleoli) within lymph nodes are characteristic. Because they arise from mature germinal or post-germinal center B cells, TdT is negative.\n\nEducational objective:\nT-lymphoblastic leukemia (T-ALL) is characterized by circulating lymphoblasts that express terminal deoxynucleotidyl transferase (TdT) and CD3. T-ALL often presents in adolescents/young adults with a mediastinal mass.",
+    "zh": "该患者的外周血涂片显示原始细胞，其特征是大核、胞质稀少、可见核仁和未成熟（即，细）染色质。这些早期血液学前体通常在骨髓中占很小的百分比，但发生恶性转化后，可以增殖并在外周血中被检测到（例如，急性白血病）。\n\n髓过氧化物酶 (MPO) 的存在有助于确定原始细胞的来源是淋巴细胞还是髓细胞。由于 MPO 是一种参与髓细胞衍生物（例如，中性粒细胞）杀灭微生物的酶，因此它在淋巴细胞中不存在。此外，末端脱氧核苷酸转移酶 (TdT) 阳性表明淋巴母细胞；TdT 是一种参与 V(D)J 重组的 DNA 聚合酶，可在早期淋巴细胞成熟过程中产生抗原受体多样性。因此，MPO 阴性和 TdT 阳性证实这些是淋巴母细胞。\n\n淋巴母细胞通过 B 细胞（例如，CD19）或 T 细胞（例如，CD3）特有的标志物进一步区分。该患者的 CD3 阳性淋巴母细胞提示 T 淋巴母细胞白血病 (T-ALL)。与通常发生在幼儿期的 B 淋巴母细胞白血病 (B-ALL) 不同，T-ALL 最常见于青春期。肿瘤通常在胸腺中发展，胸腺是 T 细胞发育的部位，并且经常导致纵隔肿块的形成，压迫气道，引起咳嗽和呼吸困难，或压迫附近的血管，引起上腔静脉综合征。\n\n(选项 A) 急性髓细胞白血病源于髓细胞前体（成髓细胞），因此细胞表达 MPO，而不是 CD3 和 TdT。\n\n(选项 B) B-ALL 是最常见的 ALL 亚型，表达 TdT。但是，预计会表达 B 细胞表面标志物（例如，CD19）。此外，表现通常涉及幼儿的骨髓衰竭体征（例如，苍白、瘀伤），而不是青少年出现纵隔肿块。\n\n(选项 C) 伯基特淋巴瘤是一种源自成熟 B 细胞的恶性肿瘤，可表现为涉及骨髓的播散性疾病。可以看到肿块增大，但通常位于腹部或下颌，而不是纵隔。细胞表达 B 细胞标志物，而不是 T 细胞标志物。由于伯基特淋巴瘤由成熟 B 细胞组成，因此 TdT 阴性。\n\n(选项 D) 霍奇金淋巴瘤可表现为纵隔肿块和无痛性淋巴结病。循环原始细胞不典型。相反，淋巴结内的里-斯细胞（具有多叶核和嗜酸性核仁的大细胞）是其特征。由于它们源自成熟的生发中心或生发后中心 B 细胞，因此 TdT 阴性。\n\n教育目标：\nT 淋巴母细胞白血病 (T-ALL) 的特征是循环淋巴母细胞表达末端脱氧核苷酸转移酶 (TdT) 和 CD3。T-ALL 经常在青少年/年轻人中出现，表现为纵隔肿块。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of acute lymphoblastic leukemia (ALL) subtypes, specifically T-ALL, and its characteristic immunophenotype and clinical presentation. It requires differentiating T-ALL from other hematologic malignancies based on cell markers and age of presentation.\n\nTo solve this question, identify the key findings: mediastinal mass in an adolescent, TdT and CD3 positivity, and CD19 and MPO negativity. These findings are highly suggestive of T-ALL. Rule out other lymphomas and leukemias based on their typical immunophenotype and clinical features.",
+    "zh": "此题考察对急性淋巴细胞白血病 (ALL) 亚型，特别是 T-ALL 及其特征性免疫表型和临床表现的认识。它需要根据细胞标记物和发病年龄将 T-ALL 与其他血液系统恶性肿瘤区分开来。\n\n要解决这个问题，请确定关键发现：青少年出现纵隔肿块，TdT 和 CD3 阳性，以及 CD19 和 MPO 阴性。这些发现高度提示 T-ALL。根据其他淋巴瘤和白血病的典型免疫表型和临床特征排除它们。"
+  },
+  "tags": "T-lymphoblastic leukemia; Acute lymphoblastic leukemia; Mediastinal mass; Terminal deoxynucleotidyl transferase; CD3; CD19; Myeloperoxidase; Hematology; Oncology",
+  "category": "Blood",
+  "question_id": "15278",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\15278",
+  "extracted_at": "2025-11-05T11:25:05.501751",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:27:39.711149",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

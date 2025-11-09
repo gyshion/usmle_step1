@@ -1,0 +1,69 @@
+{
+  "question_stem": {
+    "en": "A 9-year-old girl is brought to the emergency department due to prolonged epistaxis. The girl says that she picked her nose immediately before the bleeding started. Her parents decided to bring her to the emergency department after the epistaxis persisted for 20 minutes despite constant compression of the nasal alae. The patient has had frequent nosebleeds that often last >10 minutes. Her family history is significant for a grandfather who had an unspecified bleeding disorder. Given the history of prolonged, recurrent nosebleeds, laboratory tests are ordered, and results are as follows: {{exhibit_1}}",
+    "zh": "一名9岁女孩因长时间鼻出血被带到急诊科。女孩说她在出血前立刻抠了鼻子。在持续压迫鼻翼20分钟后，鼻出血仍在持续，她的父母决定带她去急诊科。患者经常鼻出血，通常持续超过10分钟。她的家族史显示，她的祖父患有未明确的出血性疾病。考虑到病史中存在长时间、反复发作的鼻出血，医嘱进行了实验室检查，结果如下：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Disseminated intravascular coagulopathy",
+      "zh": "弥散性血管内凝血"
+    },
+    "B": {
+      "en": "Dysfibrinogenemia",
+      "zh": "纤维蛋白原异常血症"
+    },
+    "C": {
+      "en": "Factor XIII deficiency",
+      "zh": "凝血因子XIII缺乏症"
+    },
+    "D": {
+      "en": "Hemophilia A",
+      "zh": "甲型血友病"
+    },
+    "E": {
+      "en": "Hemophilia B",
+      "zh": "乙型血友病"
+    },
+    "F": {
+      "en": "Vitamin K deficiency",
+      "zh": "维生素K缺乏症"
+    },
+    "G": {
+      "en": "von Willebrand disease",
+      "zh": "von Willebrand病"
+    }
+  },
+  "correct_answer": "G",
+  "explanation": {
+    "en": "This patient has a normal prothrombin time (PT) and thrombin time (TT) and a prolonged partial thromboplastin time (PTT), indicating a defect in the intrinsic pathway (coagulation factors VIII, IX, XI, or XII). Bleeding time is a test of platelet function and is prolonged by qualitative and quantitative platelet defects. The term \"bleeding time\" refers to this particular test and not the duration of bleeding, which can be prolonged from other coagulopathies.\n\nvon Willebrand disease (vWD) will cause both a prolonged PTT and bleeding time. von Willebrand factor (vWF) is produced by endothelial cells and megakaryocytes and functions as a carrier protein for factor VIII and as a mediator of platelet adhesion to the endothelium. Absence of vWF leads to impaired platelet function and coagulation pathway abnormalities. vWD is inherited in an autosomal dominant fashion with variable penetrance and is the most common heritable bleeding disorder.\n\n(Choice A) Disseminated intravascular coagulopathy (DIC) is a consumptive coagulopathy most commonly seen in septic shock. PT, PTT, and bleeding time are prolonged, and the D-dimer, a degradation product of cross-linked fibrin, is elevated.\n\n(Choice B) Dysfibrinogenemias are inherited abnormalities in the fibrinogen molecule that can cause excessive bleeding or thrombophilia. TT, PT, and PTT are abnormal in this condition, but bleeding time is unaffected.\n\n(Choice C) Factor XIII is a transglutaminase that cross-links fibrin polymers, thereby stabilizing clots. Factor XIII deficiency causes spontaneous or excessive bleeding, but it would not prolong the bleeding time, PT, or PTT.\n\n(Choice D) Hemophilia A is an X-linked hereditary deficiency of factor VIII that causes coagulopathy with a prolonged PTT but shows normal bleeding time.\n\n(Choice E) Hemophilia B is an X-linked hereditary deficiency of factor IX that causes coagulopathy with a prolonged PTT but shows normal bleeding time.\n\n(Choice F) Vitamin K is required for activation of clotting factors II, VII, IX, and X. Vitamin K deficiency causes a coagulopathy that primarily prolongs PT, with PTT prolongation occurring in severe cases. Bleeding time is not affected. {{exhibit_2}}",
+    "zh": "该患者的凝血酶原时间（PT）和凝血酶时间（TT）正常，部分凝血活酶时间（PTT）延长，表明内源性途径（凝血因子VIII、IX、XI或XII）存在缺陷。出血时间是血小板功能的测试，可因血小板的质和量缺陷而延长。“出血时间”一词指的是这项特定的测试，而不是出血持续时间，出血持续时间可能因其他凝血病而延长。\n\nvon Willebrand病（vWD）将导致PTT和出血时间延长。von Willebrand因子（vWF）由内皮细胞和巨核细胞产生，其功能是作为凝血因子VIII的载体蛋白，以及作为血小板粘附于内皮的介质。缺乏vWF会导致血小板功能受损和凝血途径异常。vWD以常染色体显性方式遗传，表现为可变的穿透力，是最常见的遗传性出血性疾病。\n\n（选项A）弥散性血管内凝血（DIC）是一种消耗性凝血病，最常见于感染性休克。PT、PTT和出血时间延长，D-二聚体（交联纤维蛋白的降解产物）升高。\n\n（选项B）纤维蛋白原异常血症是纤维蛋白原分子中的遗传性异常，可引起过度出血或血栓形成。TT、PT和PTT在此病症中异常，但出血时间不受影响。\n\n（选项C）凝血因子XIII是一种转谷氨酰胺酶，可使纤维蛋白聚合物交联，从而稳定凝块。凝血因子XIII缺乏症可引起自发性或过度出血，但不会延长出血时间、PT或PTT。\n\n（选项D）甲型血友病是凝血因子VIII的X连锁遗传性缺乏症，可引起凝血病，PTT延长，但出血时间正常。\n\n（选项E）乙型血友病是凝血因子IX的X连锁遗传性缺乏症，可引起凝血病，PTT延长，但出血时间正常。\n\n（选项F）维生素K是激活凝血因子II、VII、IX和X所必需的。维生素K缺乏症会导致凝血病，主要延长PT，严重情况下PTT也会延长。出血时间不受影响。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the presentation, diagnosis, and laboratory findings associated with von Willebrand disease (vWD), the most common inherited bleeding disorder. It requires differentiating vWD from other bleeding disorders based on coagulation studies and clinical history.\n\nTo solve this question, focus on the prolonged bleeding time and PTT with a normal PT. Consider the family history and recurrent nosebleeds. Recognize that vWD affects both platelet function and the intrinsic coagulation pathway, leading to these specific lab abnormalities.",
+    "zh": "本题考察对von Willebrand病（vWD，最常见的遗传性出血性疾病）相关的表现、诊断和实验室发现的了解。它要求根据凝血研究和临床病史区分vWD与其他出血性疾病。\n\n要解决这个问题，请关注出血时间延长和PTT延长，PT正常的情况。考虑家族史和反复鼻出血。认识到vWD同时影响血小板功能和内源性凝血途径，导致这些特定的实验室异常。"
+  },
+  "tags": "von Willebrand disease; Bleeding disorders; Coagulation studies; PTT; Bleeding time; Hematology; Genetics; Epistaxis",
+  "category": "Blood",
+  "question_id": "1923",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\1923",
+  "extracted_at": "2025-11-05T11:31:10.734683",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:30:29.363567",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

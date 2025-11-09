@@ -1,0 +1,69 @@
+{
+  "question_stem": {
+    "en": "The combined compliance of the lung and chest wall of a healthy individual is measured and plotted as shown below. It is noted that the intrapleural pressure at the end of maximal inspiration is -8 cm H₂O (marked x). {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "测量并绘制健康个体的肺和胸壁的联合顺应性，如下图所示。注意到最大吸气末的胸腔内压力为-8 cm H₂O（标记为x）。{{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "question": {
+    "en": "Which of the following is the best estimate of the intrapleural pressure at the point marked by the black dot?",
+    "zh": "以下哪项是黑点所标记点的胸腔内压力的最佳估计值？"
+  },
+  "options": {
+    "A": {
+      "en": "+ 10 cm H₂O",
+      "zh": "+10 cm H₂O"
+    },
+    "B": {
+      "en": "+ 5 cm H₂O",
+      "zh": "+5 cm H₂O"
+    },
+    "C": {
+      "en": "0 cm H₂O",
+      "zh": "0 cm H₂O"
+    },
+    "D": {
+      "en": "- 5 cm H₂O",
+      "zh": "-5 cm H₂O"
+    },
+    "E": {
+      "en": "-10 cm H₂O",
+      "zh": "-10 cm H₂O"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Intrapleural pressures are not represented on the lung pressure-volume curve. The expanding force of the chest wall working in opposition to the collapsing force of the lungs creates negative intrapleural pressure throughout the respiratory cycle. Inspiration is driven by active expansion of the chest wall, which generates even greater intrapleural negative pressure and pulls the lungs outward. Intrapleural negative pressure peaks at maximal inspiration at a value of approximately -8 cm H₂O. During passive expiration the chest wall relaxes and the respiratory system returns to its equilibrium position, in which intrapleural pressure is approximately -5 cm H₂O.",
+    "zh": "胸腔内压力未在肺压力-容积曲线上表示。胸壁的扩张力与肺的收缩力相反，在整个呼吸周期内产生负的胸腔内压力。吸气由胸壁的主动扩张驱动，这会产生更大的胸腔内负压，并将肺向外拉。胸腔内负压在最大吸气时达到峰值，约为-8 cm H₂O。在被动呼气期间，胸壁放松，呼吸系统恢复到其平衡位置，胸腔内压力约为-5 cm H₂O。"
+  },
+  "summary": {
+    "en": "The question asks about estimating intrapleural pressure from a compliance curve. The correct answer is -5 cm H₂O, based on the explanation of intrapleural pressure changes during respiration.",
+    "zh": "该问题要求根据顺应性曲线估算胸腔内压力。正确答案是-5 cm H₂O，基于对呼吸期间胸腔内压力变化的解释。"
+  },
+  "tags": [
+    "physiology",
+    "lung compliance",
+    "intrapleural pressure",
+    "respiration"
+  ],
+  "category": "Chest",
+  "question_id": "1519",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1519",
+  "extracted_at": "2025-11-05T11:38:34.815291",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:35:11.765164",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

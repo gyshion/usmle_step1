@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 16-year-old boy is brought to the emergency department due to nosebleeds and worsening bruising. He first noticed mild bruising on his lower legs a couple of days ago, and since then, the bruises have progressed along the thighs and hips. Today, he developed epistaxis that was difficult to control with applied pressure. The patient has Crohn disease and has had multiple hospitalizations for complications. He takes no anticoagulants. Vital signs are normal. Scant blood oozes from the nares. Abdominal examination is unremarkable, and pulses are strong. Skin examination shows large ecchymoses distributed along the lower extremities. Laboratory results are as follows: \n\nPlatelets 230,000/mm³\nPT 28 sec\nActivated PTT 68 sec",
+    "zh": "一名16岁男孩因鼻出血和瘀伤加重被送往急诊科。几天前，他首次注意到腿部轻微瘀伤，此后，瘀伤沿着大腿和臀部蔓延。今天，他出现了难以通过施加压力控制的鼻衄。患者患有克罗恩病，并因并发症多次住院。他没有服用抗凝剂。生命体征正常。少量血液从鼻孔渗出。腹部检查无特殊，脉搏强。皮肤检查显示大片瘀斑分布在下肢。实验室结果如下：\n\n血小板 230,000/mm³\nPT 28 秒\n活化 PTT 68 秒"
+  },
+  "question": {
+    "en": "Reversal of this patient's coagulation abnormalities is achieved with the intravenous administration of a medication. This treatment most likely directly affected which of the following cellular processes?",
+    "zh": "通过静脉注射药物可以逆转该患者的凝血功能异常。这种治疗最可能直接影响以下哪种细胞过程？"
+  },
+  "options": {
+    "A": {
+      "en": "Epigenetic modification",
+      "zh": "表观遗传修饰"
+    },
+    "B": {
+      "en": "Posttranscriptional modification",
+      "zh": "转录后修饰"
+    },
+    "C": {
+      "en": "Posttranslational modification",
+      "zh": "翻译后修饰"
+    },
+    "D": {
+      "en": "Transcription",
+      "zh": "转录"
+    },
+    "E": {
+      "en": "Translation",
+      "zh": "翻译"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with Crohn disease has epistaxis, bruising, and prolonged PT and PTT that are corrected with an intravenous medication. This presentation is consistent with VITAMIN K DEFICIENCY. Intestinal diseases associated with MALABSORPTION (eg, inflammatory bowel disease [IBD]) are a risk factor for vitamin K deficiency. Infectious complications of IBD may also require frequent ANTIBIOTICS, another possible contributing factor. {{exhibit_1}}\n\nVitamin K is a cofactor for gamma-glutamyl carboxylase, an enzyme required for the ACTIVATION of coagulation factors II (prothrombin), VII, IX, and X. These factors are produced in the liver as inactive forms. The carboxylase enzyme converts glutamic acid residues to gamma-carboxyglutamic acid in the hepatocyte endoplasmic reticulum (ie, POSTTRANSLATIONAL CARBOXYLATION). Carboxylation allows the coagulation proteins to bind calcium ions in the blood and subsequently adhere to the platelet's negatively charged phospholipid bilayer, resulting in efficient coagulation.\n\nVitamin K deficiency leads to decreased coagulation factor activity, which predisposes to bruising and mucosal bleeding. Patients have prolonged PT and, in severe cases, PTT. Vitamin K replacement allows for carboxylation of vitamin K–dependent coagulation factors and reverses the coagulopathy.\n\n(Choice A) Some chemotherapeutic medications alter gene expression by affecting epigenetic modifications (eg, DNA methylation). Azacitidine, used to treat myelodysplastic syndrome, inhibits DNA methyltransferase, leading to hypomethylation and increased expression of tumor suppressor genes.\n\n(Choice B) RNA processing (posttranscriptional modification) includes 5' capping, polyadenylation, and splicing. Targeting splicing machinery is a new approach for treating several neoplastic/genetic diseases; for example, eteplirsen may be used to treat Duchenne muscular dystrophy.\n\n(Choice D) Certain chemotherapeutic agents (eg, dactinomycin, doxorubicin) interfere with transcription by intercalating in DNA, therefore preventing RNA synthesis.\n\n(Choice E) Asparaginase, used in the treatment of acute lymphoblastic leukemia/lymphoma, interferes with protein translation within the leukemic cells by reducing the amount of asparagine available.\n\nEducational objective:\nVitamin K is a cofactor for gamma-glutamyl carboxylase, an enzyme that activates coagulation factors II, VII, IX, and X via posttranslational gamma carboxylation. Intestinal diseases associated with malabsorption (eg, inflammatory bowel disease) are a risk factor for vitamin K deficiency, which typically presents with mucosal bleeding, bruising, and prolonged PT and PTT (if severe). {{exhibit_2}}",
+    "zh": "这位克罗恩病患者出现鼻出血、瘀伤以及 PT 和 PTT 延长，这些症状通过静脉注射药物得以纠正。这种表现与维生素 K 缺乏症一致。与吸收不良相关的肠道疾病（例如，炎症性肠病 [IBD]）是维生素 K 缺乏症的危险因素。IBD 的感染并发症也可能需要经常使用抗生素，这也是另一个可能的促成因素。{{exhibit_1}}\n\n维生素 K 是γ-谷氨酰羧化酶的辅因子，γ-谷氨酰羧化酶是一种激活凝血因子 II（凝血酶原）、VII、IX 和 X 的酶。这些因子在肝脏中以非活性形式产生。羧化酶将肝细胞内质网中的谷氨酸残基转化为 γ-羧基谷氨酸（即，翻译后羧化）。羧化作用使凝血蛋白能够结合血液中的钙离子，随后粘附于血小板的带负电荷的磷脂双层，从而实现有效的凝血。\n\n维生素 K 缺乏会导致凝血因子活性降低，从而易患瘀伤和黏膜出血。患者的 PT 延长，在严重情况下，PTT 也延长。补充维生素 K 可使维生素 K 依赖性凝血因子羧化，从而逆转凝血病。\n\n（选项 A）一些化疗药物通过影响表观遗传修饰（例如，DNA 甲基化）来改变基因表达。用于治疗骨髓增生异常综合征的阿扎胞苷可抑制 DNA 甲基转移酶，导致低甲基化和肿瘤抑制基因表达增加。\n\n（选项 B）RNA 加工（转录后修饰）包括 5' 加帽、多腺苷酸化和剪接。靶向剪接机制是治疗几种肿瘤/遗传性疾病的新方法；例如，eteplirsen 可用于治疗杜氏肌营养不良症。\n\n（选项 D）某些化疗药物（例如，放线菌素 D、多柔比星）通过插入 DNA 来干扰转录，从而阻止 RNA 合成。\n\n（选项 E）天冬酰胺酶，用于治疗急性淋巴细胞白血病/淋巴瘤，通过减少天冬酰胺的可用量来干扰白血病细胞内的蛋白质翻译。\n\n教育目标：\n维生素 K 是 γ-谷氨酰羧化酶的辅因子，γ-谷氨酰羧化酶是一种通过翻译后 γ-羧化激活凝血因子 II、VII、IX 和 X 的酶。与吸收不良相关的肠道疾病（例如，炎症性肠病）是维生素 K 缺乏症的危险因素，其典型表现为黏膜出血、瘀伤以及 PT 和 PTT 延长（如果严重）。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of vitamin K deficiency, its association with malabsorption (especially in Crohn's disease), and the mechanism by which vitamin K affects coagulation factor activation through posttranslational modification.\n\nTo solve this question, recognize the clinical presentation of bleeding and bruising in a patient with Crohn's disease, consider vitamin K deficiency as a likely cause, and understand that vitamin K is essential for the posttranslational carboxylation of coagulation factors.",
+    "zh": "这个问题考察了对维生素 K 缺乏症的了解，维生素 K 缺乏症与吸收不良（尤其是在克罗恩病中）的关联，以及维生素 K 通过翻译后修饰影响凝血因子活化的机制。\n\n要解决这个问题，需要认识到克罗恩病患者出现出血和瘀伤的临床表现，考虑维生素 K 缺乏症作为可能的病因，并了解维生素 K 对于凝血因子的翻译后羧化至关重要。"
+  },
+  "tags": "Vitamin K deficiency; Crohn's disease; Malabsorption; Coagulation factors; Posttranslational modification; Bleeding; Bruising; PT; PTT; Hematology; Gastroenterology",
+  "category": "Blood",
+  "question_id": "106673",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\106673",
+  "extracted_at": "2025-11-05T11:18:32.049785",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:25:17.514061",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

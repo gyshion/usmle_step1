@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 25-year-old woman is brought to the emergency department after a motor vehicle collision. She has a pneumothorax, multiple rib fractures, and a right femur and tibial fracture. A chest tube is placed. The patient receives resuscitation and undergoes repair of the femur and tibial fractures. The following day, she develops respiratory distress, decreased urine output, and persistent bleeding from the chest tube drains and around the intravenous lines. {{exhibit_1}}",
+    "zh": "一名25岁女性在车祸后被送往急诊科。她患有气胸、多发性肋骨骨折以及右股骨和胫骨骨折。放置胸腔引流管。患者接受复苏并接受股骨和胫骨骨折的修复。第二天，她出现呼吸窘迫、尿量减少，以及持续的胸腔引流管引流和静脉输液管周围出血。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following sets of laboratory findings is most likely to be seen in this patient?",
+    "zh": "该患者最有可能出现以下哪组实验室检查结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Fibrinogen ↓, Protein C ↓, Factor VII -",
+      "zh": "纤维蛋白原↓，蛋白C↓，凝血因子VII -"
+    },
+    "B": {
+      "en": "Fibrinogen ↓, Protein C ↓, Factor VII -",
+      "zh": "纤维蛋白原↓，蛋白C↓，凝血因子VII -"
+    },
+    "C": {
+      "en": "Fibrinogen ↓, Protein C ↑, Factor VII -",
+      "zh": "纤维蛋白原↓，蛋白C↑，凝血因子VII -"
+    },
+    "D": {
+      "en": "Fibrinogen ↓, Protein C ↑, Factor VII -",
+      "zh": "纤维蛋白原↓，蛋白C↑，凝血因子VII -"
+    },
+    "E": {
+      "en": "Fibrinogen ↑, Protein C ↑, Factor VII -",
+      "zh": "纤维蛋白原↑，蛋白C↑，凝血因子VII -"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Acute disseminated intravascular coagulation\n\nThis patient with multiple injuries following a severe motor vehicle accident developed respiratory distress, reduced renal output, and oozing from the catheter and venipuncture sites. This presentation raises strong suspicion for disseminated intravascular coagulation (DIC), a consumptive coagulopathy associated with trauma, sepsis, malignancy, and obstetrical complications.\n\nIn DIC due to trauma, the coagulation cascade is triggered by damage to the vascular endothelium (exposes tissue factor) and tissues (releases procoagulant proteins and phospholipids). This leads to the generation of fibrin- and platelet-rich microvascular thrombi, which consumes platelets, coagulation factors (eg, low factor VII), and fibrinogen. Fibrinolysis and anticoagulant proteins then dissolve the clots, which depletes protein C, protein S, and antithrombin.\n\nMost patients with acute DIC develop bleeding complications such as oozing from catheters/venipuncture sites, ecchymosis, and petechiae. End organ damage to the kidneys (eg, renal insufficiency) and lungs (eg, pulmonary hemorrhage) is common. Many patients also have microangiopathic hemolytic anemia (eg, schistocytes) due to shearing of red blood cells by intravascular thrombi.\n\nEducational objective:\nAcute disseminated intravascular coagulation is a consumptive coagulopathy linked to severe trauma. Widespread formation of microvascular thrombi leads to consumption of platelets, coagulation factors, and fibrinogen. Subsequent activation of anticoagulant proteins leads to low protein C/S; fibrinolysis elevates D-dimer. Most patients have bleeding complications (eg, oozing from venipuncture/catheter sites) and end organ damage to the lungs or kidneys.",
+    "zh": "急性弥散性血管内凝血\n\n该患者在严重的机动车事故后有多处损伤，出现了呼吸窘迫、尿量减少，以及来自导管和静脉穿刺部位的渗出。这种表现高度提示弥散性血管内凝血（DIC），这是一种与创伤、脓毒症、恶性肿瘤和产科并发症相关的消耗性凝血病。\n\n在由创伤引起的DIC中，凝血级联反应是由血管内皮损伤（暴露组织因子）和组织损伤（释放促凝血蛋白和磷脂）触发的。这导致产生富含纤维蛋白和血小板的微血管血栓，消耗血小板、凝血因子（例如，低凝血因子VII）和纤维蛋白原。纤维蛋白溶解和抗凝蛋白随后溶解血栓，从而消耗蛋白C、蛋白S和抗凝血酶。\n\n大多数急性DIC患者会出现出血并发症，例如导管/静脉穿刺部位的渗出、瘀斑和瘀点。器官损伤，如肾脏（例如，肾功能不全）和肺（例如，肺出血），很常见。许多患者还患有微血管病性溶血性贫血（例如，裂红细胞），这是由于血管内血栓对红细胞的剪切所致。\n\n教育目标：\n急性弥散性血管内凝血是一种与严重创伤相关的消耗性凝血病。微血管血栓的广泛形成导致血小板、凝血因子和纤维蛋白原的消耗。随后激活抗凝蛋白导致蛋白C/S水平降低；纤维蛋白溶解升高D-二聚体。大多数患者会出现出血并发症（例如，静脉穿刺/导管部位的渗出）以及肺或肾脏的器官损伤。"
+  },
+  "summary": {
+    "en": "The patient's presentation (multiple injuries, respiratory distress, reduced renal output, oozing) suggests disseminated intravascular coagulation (DIC). DIC is a consumptive coagulopathy associated with trauma, sepsis, malignancy, and obstetrical complications. In DIC, the coagulation cascade is triggered by damage to the vascular endothelium and tissues, leading to the generation of fibrin- and platelet-rich microvascular thrombi, which consumes platelets, coagulation factors, and fibrinogen. Fibrinolysis and anticoagulant proteins then dissolve the clots, which depletes protein C, protein S, and antithrombin. Most patients with acute DIC develop bleeding complications such as oozing from catheters/venipuncture sites, ecchymosis, and petechiae. End organ damage to the kidneys (eg, renal insufficiency) and lungs (eg, pulmonary hemorrhage) is common. Many patients also have microangiopathic hemolytic anemia (eg, schistocytes) due to shearing of red blood cells by intravascular thrombi.",
+    "zh": "患者的临床表现（多处损伤、呼吸窘迫、尿量减少、渗出）提示弥散性血管内凝血（DIC）。DIC是一种与创伤、脓毒症、恶性肿瘤和产科并发症相关的消耗性凝血病。在DIC中，凝血级联反应是由血管内皮和组织的损伤触发的，导致产生富含纤维蛋白和血小板的微血管血栓，从而消耗血小板、凝血因子和纤维蛋白原。纤维蛋白溶解和抗凝蛋白随后溶解血栓，从而消耗蛋白C、蛋白S和抗凝血酶。大多数急性DIC患者会出现出血并发症，例如导管/静脉穿刺部位的渗出、瘀斑和瘀点。器官损伤，如肾脏（例如，肾功能不全）和肺（例如，肺出血），很常见。许多患者还患有微血管病性溶血性贫血（例如，裂红细胞），这是由于血管内血栓对红细胞的剪切所致。"
+  },
+  "tags": [
+    "Pathology",
+    "Hematology & Oncology",
+    "DIC"
+  ],
+  "category": "Blood",
+  "question_id": "16441",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\16441",
+  "extracted_at": "2025-11-05T13:29:38.513291",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:28:43.843664",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 6-year-old boy is brought to the office by his mother due to recurrent episodes of sinusitis. He also has a chronic cough that never seems to go away. The mother says that his previous pediatrician performed a “sweat test” to help determine the cause of his frequent infections, but results were normal. DNA testing was inconclusive. Despite these results, the new physician suspects that the patient has an inherited disorder and orders nasal transepithelial potential difference measurements. In this test, an isotonic solution of sodium chloride is applied to the nasal mucosal surface, and the electrical potential overlying the mucosa is compared with that of the interstitial fluid. The results show a transepithelial potential difference that is more negative than normal. This patient’s nasal mucosa is most likely to demonstrate which of the following physiologic changes?",
+    "zh": "一位6岁男孩因反复发作的鼻窦炎由母亲带到诊所就诊。他还有慢性咳嗽，似乎从未消失。母亲说他之前的儿科医生进行了“汗液测试”以帮助确定他频繁感染的原因，但结果是正常的。DNA检测结果也无法确定。尽管如此，新医生怀疑患者患有遗传性疾病，并要求进行鼻腔跨上皮电位差测量。在该测试中，将等渗氯化钠溶液应用于鼻粘膜表面，并将覆盖在粘膜上的电位与间质液的电位进行比较。结果显示跨上皮电位差比正常值更负。该患者的鼻粘膜最有可能表现出以下哪种生理变化？"
+  },
+  "question": {
+    "en": "This patient’s nasal mucosa is most likely to demonstrate which of the following physiologic changes?",
+    "zh": "该患者的鼻粘膜最有可能表现出以下哪种生理变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased bicarbonate secretion",
+      "zh": "碳酸氢盐分泌减少"
+    },
+    "B": {
+      "en": "Increased chloride secretion",
+      "zh": "氯离子分泌增加"
+    },
+    "C": {
+      "en": "Increased mucus water content",
+      "zh": "黏液含水量增加"
+    },
+    "D": {
+      "en": "Increased sodium absorption",
+      "zh": "钠吸收增加"
+    },
+    "E": {
+      "en": "Intracellular potassium depletion",
+      "zh": "细胞内钾离子耗竭"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Chronic cough and recurrent sinusitis in a young patient should raise suspicion for CYSTIC FIBROSIS (CF). The diagnosis of CF typically is based on elevated sweat chloride concentrations, characteristic clinical findings (recurrent sinopulmonary infections, pancreatic insufficiency), and/or a positive family history. However, patients with mild mutations of the CF transmembrane conductance regulator (CFTR) gene may have normal sweat testing. In these cases, a useful diagnostic adjunct involves measuring the nasal transepithelial potential difference. \n\nIn intestinal and respiratory epithelia, the CFTR channel secretes chloride ions into the lumen and also has a tonic inhibitory effect on the opening of the epithelial sodium channel (ENaC), which decreases sodium reabsorption into the cell. This high luminal salt content helps retain water in the lumen, forming well-hydrated mucus. During the nasal transepithelial potential difference test, a saline solution is applied to the nose. Because patients with CF have increased sodium absorption via the ENaC, sodium is absorbed intracellularly but chloride in the saline solution is retained in the lumen. The higher relative amounts of negatively charged chloride on the epithelial surface result in a more negative transepithelial voltage difference. CFTR channel functioning is reversed in sweat ducts compared with that in respiratory and intestinal glands. CFTR reduces the salt content of sweat by reabsorbing luminal chloride and stimulating ENaC to increase sodium absorption from the lumen into the cells. CFTR mutations therefore result in the production of sweat with high chloride and sodium content. {{exhibit_1}}\n\n(Choice A) CFTR mutations lower the rate of bicarbonate secretion in the pancreatic ducts, promoting mucin precipitation and the formation of intraductal concretions that cause exocrine pancreatic insufficiency. However, this effect is not related to the nasal transepithelial potential difference test.\n\n(Choice B) CFTR mutations impair the passive transport of chloride along its concentration gradient, decreasing chloride secretion by respiratory epithelial cells.\n\n(Choice C) The water content of mucus is decreased (not increased) in patients with CF, resulting in dehydrated mucus that predisposes to the formation of mucus plugs and chronic sinopulmonary infections.\n\n(Choice E) CFTR mutations do not significantly alter transmembrane potassium transport.\n\nEducational objective:\nIn cystic fibrosis, impairment of the cystic fibrosis transmembrane conductance regulator (CFTR) protein reduces chloride secretion and increases sodium absorption by the respiratory epithelia, resulting in dehydrated mucus. When saline is applied to the nasal mucosa, the increased sodium absorption in patients with CF causes a more negative nasal transepithelial potential difference, which can be used to diagnose cystic fibrosis.",
+    "zh": "年轻患者的慢性咳嗽和反复鼻窦炎应引起对囊性纤维化 (CF) 的怀疑。CF 的诊断通常基于升高的汗液氯离子浓度、特征性临床表现（反复呼吸系统感染、胰腺功能不全）和/或阳性家族史。然而，CF 跨膜电导调节器 (CFTR) 基因发生轻微突变的患者可能具有正常的汗液测试结果。在这些情况下，一种有用的诊断辅助方法涉及测量鼻腔跨上皮电位差。\n\n在肠道和呼吸道上皮中，CFTR 通道将氯离子分泌到腔内，并且还对上皮钠通道 (ENaC) 的开放具有紧张性抑制作用，从而减少了钠向细胞内的重吸收。这种高腔内盐含量有助于将水分保留在腔内，形成水合良好的黏液。在鼻腔跨上皮电位差测试期间，将盐水溶液涂抹在鼻子上。由于 CF 患者通过 ENaC 吸收增加的钠，钠在细胞内被吸收，但盐水溶液中的氯离子保留在腔内。上皮表面上相对较高量的带负电荷的氯离子导致跨上皮电压差更负。CFTR 通道的功能在汗腺导管中与在呼吸道和肠道腺体中相反。CFTR 通过重吸收腔内氯离子并刺激 ENaC 增加钠从腔内到细胞内的吸收来降低汗液的盐含量。因此，CFTR 突变导致产生高氯离子和钠含量的汗液。{{exhibit_1}}\n\n(选项 A) CFTR 突变会降低胰管中碳酸氢盐的分泌速率，促进黏蛋白沉淀和形成导致外分泌胰腺功能不全的管内凝结物。然而，这种影响与鼻腔跨上皮电位差测试无关。\n\n(选项 B) CFTR 突变会损害氯离子沿其浓度梯度的被动转运，从而减少呼吸道上皮细胞的氯离子分泌。\n\n(选项 C) CF 患者的黏液含水量降低（而不是增加），导致脱水黏液，这易于形成黏液栓和慢性鼻窦肺部感染。\n\n(选项 E) CFTR 突变不会显着改变跨膜钾离子的转运。\n\n教育目标：\n在囊性纤维化中，囊性纤维化跨膜电导调节器 (CFTR) 蛋白受损会减少氯离子分泌并增加呼吸道上皮的钠吸收，导致脱水黏液。当将盐水应用于鼻粘膜时，CF 患者中钠吸收的增加会导致鼻腔跨上皮电位差更负，这可用于诊断囊性纤维化。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of cystic fibrosis (CF) and how it affects ion transport in the respiratory epithelium, specifically focusing on the nasal transepithelial potential difference test. It assesses understanding of how CFTR mutations lead to increased sodium absorption and a more negative potential difference in the nasal mucosa.\n\nTo solve this question, recognize the clinical presentation suggestive of CF (chronic cough, recurrent sinusitis) and the significance of the negative nasal transepithelial potential difference. Recall that CFTR mutations lead to increased sodium absorption in the respiratory epithelium, resulting in a more negative potential difference when saline is applied to the nasal mucosa.",
+    "zh": "本题考察对囊性纤维化 (CF) 的病理生理学的了解，以及其如何影响呼吸道上皮的离子转运，特别关注鼻腔跨上皮电位差测试。它评估了对 CFTR 突变如何导致鼻粘膜中钠吸收增加和电位差更负的理解。\n\n要解决这个问题，请识别提示 CF 的临床表现（慢性咳嗽、反复鼻窦炎）以及鼻腔跨上皮电位差为负的重要性。回想一下，当盐水应用于鼻粘膜时，CFTR 突变会导致呼吸道上皮中钠吸收增加，从而导致电位差更负。"
+  },
+  "tags": "Cystic fibrosis; CFTR; Nasal transepithelial potential difference; Respiratory epithelium; Sodium absorption; Chloride secretion; Sinusitis; Chronic cough; Genetics; {{exhibit_2}}",
+  "category": "Chest",
+  "question_id": "804",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\804",
+  "extracted_at": "2025-11-05T11:48:34.854583",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:42:19.954562",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

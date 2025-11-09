@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 4-year-old girl is brought to the clinic for her routine yearly visit. She has no chronic medical conditions and has received all previously recommended vaccinations. The patient is due to receive several vaccinations today including a second measles vaccine.",
+    "zh": "一名4岁女孩因例行年度体检就诊。她没有慢性疾病，并且已经接种了之前推荐的所有疫苗。今天，该患者将接种几种疫苗，包括第二剂麻疹疫苗。"
+  },
+  "question": {
+    "en": "Which of the following IgM and IgG trends is expected to occur after initial and subsequent measles vaccinations?",
+    "zh": "在初次和后续麻疹疫苗接种后，预期会出现以下哪种IgM和IgG趋势？"
+  },
+  "options": {
+    "A": {
+      "en": "Primary\n\nSecondary\n\nSerum antibody titer\n\nIgG\n\nIgG\n\nIgM\n\nIgM\n\n0 5 10 15 20 25\n\n0 5 10 15 20 25\n\nDays from first exposure\n\nDays from reexposure\n\nto antigen\n\nto same antigen",
+      "zh": "初次\n\n二次\n\n血清抗体滴度\n\nIgG\n\nIgG\n\nIgM\n\nIgM\n\n0 5 10 15 20 25\n\n0 5 10 15 20 25\n\n首次暴露天数\n\n再次暴露天数\n\n于抗原\n\n于相同抗原"
+    },
+    "B": {
+      "en": "Primary\n\nSecondary\n\nSerum antibody titer\n\nIgG\n\nIgG\n\nIgM\n\nIgM\n\n0 5 10 15 20 25\n\n0 5 10 15 20 25\n\nDays from first exposure\n\nDays from reexposure\n\nto antigen\n\nto same antigen",
+      "zh": "初次\n\n二次\n\n血清抗体滴度\n\nIgG\n\nIgG\n\nIgM\n\nIgM\n\n0 5 10 15 20 25\n\n0 5 10 15 20 25\n\n首次暴露天数\n\n再次暴露天数\n\n于抗原\n\n于相同抗原"
+    },
+    "C": {
+      "en": "Primary\n\nSecondary\n\nSerum antibody titer\n\nIgG\n\nIgM\n\nIgM\n\nIgG\n\n0 5 10 15 20 25\n\n0 5 10 15 20 25\n\nDays from first exposure\n\nDays from reexposure\n\nto antigen\n\nto same antigen",
+      "zh": "初次\n\n二次\n\n血清抗体滴度\n\nIgG\n\nIgM\n\nIgM\n\nIgG\n\n0 5 10 15 20 25\n\n0 5 10 15 20 25\n\n首次暴露天数\n\n再次暴露天数\n\n于抗原\n\n于相同抗原"
+    },
+    "D": {
+      "en": "Primary\n\nSecondary\n\nSerum antibody titer\n\nIgG\n\nIgM\n\nIgM\n\nIgG\n\n0 5 10 15 20 25\n\n0 5 10 15 20 25\n\nDays from first exposure\n\nDays from reexposure\n\nto antigen\n\nto same antigen",
+      "zh": "初次\n\n二次\n\n血清抗体滴度\n\nIgG\n\nIgM\n\nIgM\n\nIgG\n\n0 5 10 15 20 25\n\n0 5 10 15 20 25\n\n首次暴露天数\n\n再次暴露天数\n\n于抗原\n\n于相同抗原"
+    },
+    "E": {
+      "en": "Primary\n\nSecondary\n\nSerum antibody titer\n\nIgG\n\nIgM\n\nIgM\n\nIgG\n\n0 5 10 15 20 25\n\n0 5 10 15 20 25\n\nDays from first exposure\n\nDays from reexposure\n\nto antigen\n\nto same antigen",
+      "zh": "初次\n\n二次\n\n血清抗体滴度\n\nIgG\n\nIgM\n\nIgM\n\nIgG\n\n0 5 10 15 20 25\n\n0 5 10 15 20 25\n\n首次暴露天数\n\n再次暴露天数\n\n于抗原\n\n于相同抗原"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Initial vaccination generates an early IgM response by short-lived plasma cells followed by a delayed-onset, longer-lasting IgG response due to T-cell dependent class switching (IgM peaks before IgG). Due to formation of memory B cells, secondary responses (eg, booster vaccination, pathogen exposure) are characterized by a rapid and sustained IgG response with a short-term, more muted IgM response.",
+    "zh": "初次疫苗接种通过短寿命的浆细胞产生早期的IgM反应，随后由于T细胞依赖性类别转换（IgM在IgG之前达到峰值），出现延迟发生的、持续时间更长的IgG反应。由于记忆B细胞的形成，二次反应（例如，加强疫苗接种、病原体暴露）的特征是IgG反应迅速且持续，同时IgM反应短期且较弱。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the humoral immune response to vaccination, specifically the timing and magnitude of IgM and IgG antibody production following initial and subsequent exposures to an antigen.\n\nThe key to solving this question is understanding that the primary response involves an initial IgM peak followed by IgG, while the secondary response is characterized by a rapid and sustained IgG response with a less pronounced IgM response.",
+    "zh": "本题考察对疫苗接种的体液免疫反应的了解，特别是初次和后续暴露于抗原后IgM和IgG抗体产生的时机和数量。\n\n解决此问题的关键在于理解，初次反应涉及最初的IgM峰值，随后是IgG，而二次反应的特征是IgG反应迅速而持续，IgM反应则不那么明显。"
+  },
+  "tags": "Immunology; Vaccination; IgM; IgG; Humoral immunity; Primary immune response; Secondary immune response",
+  "category": "Micro",
+  "question_id": "15152",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\15152",
+  "extracted_at": "2025-11-05T14:57:24.660765",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:08:19.264974",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

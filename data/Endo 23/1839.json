@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 19-year-old woman comes to the office for evaluation of amenorrhea. The patient underwent menarche at age 12, and she previously had menses regularly every 25-28 days. However, for the past year, her menses have been irregular, and her last menstrual period was 3 months ago. The patient has no significant medical history, eats mainly fruits and vegetables, and exercises regularly at a local gym. On further questioning, she expresses concern about being overweight and asks for suggestions on cutting down her caloric intake. BMI is 18 kg/m². The patient is thin and has dry skin covered by fine, downy hair. A pregnancy test is negative. Which of the following laboratory findings are most likely present in this patient? {{exhibit_1}}",
+    "zh": "一名19岁的女性前来就诊，评估闭经情况。患者于12岁时初潮，既往月经规律，周期为25-28天。然而，在过去一年中，她的月经不规律，上次月经来潮是3个月前。患者无重要的病史，主要进食水果和蔬菜，并在当地健身房 নিয়মিত锻炼。在进一步询问时，她表达了对超重的担忧，并要求提供减少热量摄入的建议。BMI为18 kg/m²。患者消瘦，皮肤干燥，覆盖着细小的绒毛。妊娠试验阴性。该患者最有可能出现以下哪种实验室检查结果？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following laboratory findings are most likely present in this patient?",
+    "zh": "该患者最有可能出现以下哪种实验室检查结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Increased Increased Decreased",
+      "zh": "升高 升高 降低"
+    },
+    "B": {
+      "en": "Increased Decreased Decreased",
+      "zh": "升高 降低 降低"
+    },
+    "C": {
+      "en": "Decreased Normal Normal",
+      "zh": "降低 正常 正常"
+    },
+    "D": {
+      "en": "Decreased Decreased Decreased",
+      "zh": "降低 降低 降低"
+    },
+    "E": {
+      "en": "Normal Normal Decreased",
+      "zh": "正常 正常 降低"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Functional hypothalamic amenorrhea\n\nExcessive weight loss\nStrenuous exercise\nChronic illness\nEating disorder\n\nAmenorrhea is categorized as primary (no onset of menarche by age 15) or secondary (no menses for ≥3 months in premenopausal patients with previously regular menses). This patient has secondary amenorrhea, which usually occurs due to endocrine dysfunction (eg, hypothalamic-pituitary-ovarian axis dysfunction, thyroid disorder), pregnancy, or intrauterine adhesions (ie, Asherman syndrome).\n\nThis patient's distorted body image (feeling overweight despite underweight BMI), restricted diet, exercise regimen, dry skin, and lanugo (fine hair indicating inadequate caloric intake) suggest anorexia nervosa, a common cause of functional hypothalamic amenorrhea (FHA). The pathophysiology of FHA is incompletely understood but is thought to arise due to diminished adipose tissue stores, which reduce circulating leptin levels. In response, the hypothalamus decreases the amplitude and frequency of pulsatile gonadotropin-releasing hormone (GnRH) release, leading to low GnRH levels, decreased pituitary LH and FSH secretion, low circulating estrogen levels, anovulation, and amenorrhea (Choices C and E).\n\nIn addition to anorexia nervosa, FHA can also occur when caloric expenditure is out of proportion to intake, such as in female athletes (eg, distance runners, dancers) or patients with chronic illness, particularly those with low adipose stores. FHA is a form of hypogonadotropic (low LH and FSH) hypogonadism (low estrogen). Therefore, potential complications in young patients include reduced peak bone mass, which may lead to early-onset osteoporosis.\n\n(Choice A) Low circulating estrogen levels despite increased GnRH and FSH secretion are consistent with a primary ovarian disorder (eg, primary ovarian insufficiency [POI], menopause). POI is associated with Turner syndrome and prior chemoradiation, not anorexia nervosa.\n\n(Choice B) Pituitary dysfunction, which includes anatomic (eg, prolactinoma) and functional disorders (eg, hypopituitarism due to infarction [Sheehan syndrome]), can cause hypogonadotropic hypogonadism and amenorrhea characterized by increased GnRH, low FSH and LH, and low estrogen. However, prolactinomas typically present with additional clinical features (eg, bilateral galactorrhea), and Sheehan syndrome is usually associated with prior hemorrhage, particularly obstetric hemorrhage.\n\nEducational objective:\nFunctional hypothalamic amenorrhea is a common cause of secondary amenorrhea and occurs due to decreased amplitude and frequency of pulsatile gonadotropin-releasing hormone release from the hypothalamus, which in turn leads to low FSH, LH, and estrogen levels. Causes include anorexia nervosa (eg, distorted body image, restricted diet, lanugo), excessive strenuous exercise, and chronic illness.",
+    "zh": "功能性下丘脑闭经\n\n过度体重减轻\n剧烈运动\n慢性疾病\n饮食失调\n\n闭经可分为原发性（15岁前未出现初潮）或继发性（既往月经规律的绝经前患者≥3个月未月经来潮）。该患者患有继发性闭经，通常是由于内分泌功能障碍（例如，下丘脑-垂体-卵巢轴功能障碍、甲状腺疾病）、妊娠或宫腔内粘连（即Asherman综合征）引起的。\n\n该患者的体像扭曲（尽管BMI偏低，但仍感觉超重）、限制饮食、锻炼方案、皮肤干燥和毳毛（细毛，表明热量摄入不足）提示神经性厌食症，这是功能性下丘脑闭经 (FHA) 的常见原因。FHA 的病理生理学尚不完全清楚，但认为它是由脂肪组织储存减少引起的，从而降低了循环瘦素水平。作为回应，下丘脑降低了脉冲性促性腺激素释放激素 (GnRH) 释放的幅度和频率，导致 GnRH 水平降低、垂体 LH 和 FSH 分泌减少、循环雌激素水平降低、无排卵和闭经（选项 C 和 E）。\n\n除了神经性厌食症外，当热量消耗与摄入不成比例时，也可能发生 FHA，例如在女性运动员（例如，长跑运动员、舞蹈演员）或患有慢性疾病的患者中，尤其是在脂肪储存量低的患者中。FHA 是一种低促性腺激素性（低 LH 和 FSH）性腺功能减退症（低雌激素）。因此，年轻患者的潜在并发症包括峰值骨量降低，这可能导致早发性骨质疏松症。\n\n(选项 A) 尽管GnRH和FSH分泌增加，但循环雌激素水平低与原发性卵巢疾病（例如，原发性卵巢功能不全 [POI]，绝经）一致。POI 与 Turner 综合征和既往放化疗有关，与神经性厌食症无关。\n\n(选项 B) 垂体功能障碍，包括解剖学（例如，催乳素瘤）和功能性疾病（例如，梗死引起的垂体功能减退 [Sheehan 综合征]），可引起低促性腺激素性性腺功能减退症和闭经，其特征是 GnRH 升高、FSH 和 LH 降低以及雌激素降低。然而，催乳素瘤通常表现出其他临床特征（例如，双侧溢乳），而 Sheehan 综合征通常与既往出血有关，特别是产科出血。\n\n教育目标：\n功能性下丘脑闭经是继发性闭经的常见原因，是由于下丘脑释放脉冲性促性腺激素释放激素的幅度和频率降低引起的，这反过来又导致 FSH、LH 和雌激素水平降低。病因包括神经性厌食症（例如，体像扭曲、限制饮食、毳毛）、过度剧烈运动和慢性疾病。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of functional hypothalamic amenorrhea (FHA), its causes (e.g., anorexia nervosa), and the resulting hormonal changes (decreased GnRH, FSH, LH, and estrogen). It also tests the ability to differentiate FHA from other causes of secondary amenorrhea. \n\nThe key to solving this question is recognizing the clinical features suggestive of anorexia nervosa (distorted body image, restricted diet, lanugo) and understanding the pathophysiology of FHA, which leads to decreased pulsatile GnRH release and subsequent hormonal changes.",
+    "zh": "此题考察对功能性下丘脑闭经 (FHA) 的认识，其病因（例如，神经性厌食症）以及由此产生的激素变化（GnRH、FSH、LH 和雌激素降低）。同时也考察了将 FHA 与继发性闭经的其他病因区分开来的能力。\n\n解决此题的关键是识别提示神经性厌食症的临床特征（体像扭曲、限制饮食、毳毛），并理解 FHA 的病理生理学，这会导致脉冲性 GnRH 释放减少，从而导致随后的激素变化。"
+  },
+  "tags": "Functional hypothalamic amenorrhea; Amenorrhea; Anorexia nervosa; GnRH; FSH; Estrogen; Hypothalamus; Endocrine system; Eating disorders",
+  "category": "Endo",
+  "question_id": "1839",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\1839",
+  "extracted_at": "2025-11-05T14:02:36.873813",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:38:48.394731",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

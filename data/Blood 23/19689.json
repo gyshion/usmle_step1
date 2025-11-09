@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 9-year-old boy with a history of sickle cell disease is brought to the office due to fatigue. The patient takes penicillin, hydroxyurea, and folic acid daily. Temperature is 37.1 C (98.8 F), blood pressure is 102/68 mm Hg, pulse is 130/min, and respirations are 20/min. Examination shows conjunctival pallor {{exhibit_1}}. The oropharynx is clear and the neck is supple. The lungs are clear to auscultation bilaterally, and the abdomen is soft with normal bowel sounds; there is no organomegaly. Skin examination is unremarkable. Laboratory results are as follows:\n\nHemoglobin 5.8 g/dL\nMean corpuscular volume 116 μm3\nReticulocytes 0.5%\nPlatelets 90,000/mm3\nLeukocytes 3,000/mm3",
+    "zh": "一名有镰状细胞病病史的9岁男孩因疲劳到诊所就诊。患者每天服用青霉素、羟基脲和叶酸。体温37.1摄氏度（98.8华氏度），血压102/68 mmHg，脉搏130次/分钟，呼吸20次/分钟。检查显示结膜苍白{{exhibit_1}}。口咽部清晰，颈部柔软。双肺呼吸音清，腹部柔软，肠鸣音正常；无器官肿大。皮肤检查无异常。实验室检查结果如下：\n\n血红蛋白5.8 g/dL\n平均红细胞体积116 μm3\n网织红细胞0.5%\n血小板90,000/mm3\n白细胞3,000/mm3"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's findings?",
+    "zh": "以下哪项最可能是该患者检查结果的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Antibiotic-associated autoimmune hemolysis",
+      "zh": "抗生素相关的自身免疫性溶血"
+    },
+    "B": {
+      "en": "Decreased methyl group donors involved in DNA synthesis",
+      "zh": "参与DNA合成的甲基供体减少"
+    },
+    "C": {
+      "en": "Loss of complement inhibition in hematopoietic stem cells",
+      "zh": "造血干细胞中补体抑制的丧失"
+    },
+    "D": {
+      "en": "Medication-induced inhibition of a nucleic acid synthesis enzyme",
+      "zh": "药物诱导的核酸合成酶抑制"
+    },
+    "E": {
+      "en": "Sequestration of cells in the reticuloendothelial system",
+      "zh": "细胞在网状内皮系统中的滞留"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Hydroxyurea inhibits ribonucleoside reductase, an enzyme that generates deoxyribonucleoside triphosphates for DNA synthesis/repair. A lack of deoxyribonucleoside triphosphates slows erythrocyte nuclear development, leading to decreased cellular division with an overall increase in erythrocyte size. High doses of hydroxyurea also impair nuclear development in precursors of leukocytes and thrombocytes, leading to pancytopenia.\n\nHydroxyurea is the major disease-modifying medication in SCD; it reduces production of the mutated beta globin gene and increases production of the fetal hemoglobin gene, which increases fetal hemoglobin (HbF). Because HbF functions normally, erythrocytes with increased HbF are less likely to sickle in the microvasculature.\n\n(Choice A) Autoimmune hemolytic anemia is associated with high (not low) reticulocytes due to increased erythropoiesis. Because reticulocytes are larger (MCV 125-135 μm³) than mature erythrocytes, reticulocytosis can cause macrocytosis; however, leukopenia and thrombocytopenia would not be seen.\n\n(Choice B) Folate is a methyl group donor for the synthesis of purines and pyrimidines. Folate deficiency impairs DNA synthesis, which can lead to pancytopenia and macrocytosis. However, this patient is taking folic acid, making deficiency unlikely.\n\n(Choice C) Paroxysmal nocturnal hemoglobinuria is an acquired disorder of hematopoietic stem/progenitor cells marked by lack of complement inhibitor on the erythrocyte surface. Hemolytic anemia is the primary manifestation; reticulocytosis is common, and pancytopenia rarely occurs.\n\n(Choice E) SCD can cause hypersplenism due to splenic congestion with damaged erythrocytes. Although this can occasionally cause pancytopenia, patients with hypersplenism usually have splenomegaly and normocytic (not macrocytic) anemia.",
+    "zh": "羟基脲抑制核糖核苷酸还原酶，这是一种为DNA合成/修复产生脱氧核糖核苷三磷酸的酶。缺乏脱氧核糖核苷三磷酸会减缓红细胞核的发育，导致细胞分裂减少，红细胞总体积增加。高剂量的羟基脲也会损害白细胞和血小板前体细胞的核发育，导致全血细胞减少。\n\n羟基脲是镰状细胞病的主要疾病修正药物；它减少突变的β珠蛋白基因的产生，并增加胎儿血红蛋白基因的产生，从而增加胎儿血红蛋白（HbF）。由于HbF功能正常，HbF增加的红细胞在微血管中不太可能发生镰变。\n\n（选项A）自身免疫性溶血性贫血与高（而非低）网织红细胞相关，这是由于红细胞生成增加所致。由于网织红细胞比成熟红细胞大（MCV 125-135 μm³），网织红细胞增多症可引起大细胞性贫血；然而，不会出现白细胞减少症和血小板减少症。\n\n（选项B）叶酸是嘌呤和嘧啶合成的甲基供体。叶酸缺乏会损害DNA合成，这可能导致全血细胞减少症和大细胞性贫血。然而，该患者正在服用叶酸，因此缺乏的可能性不大。\n\n（选项C）阵发性夜间血红蛋白尿是一种造血干/祖细胞的获得性疾病，其特征是红细胞表面缺乏补体抑制剂。溶血性贫血是主要表现；网织红细胞增多症很常见，而全血细胞减少症很少发生。\n\n（选项E）镰状细胞病可因脾脏淤血和受损的红细胞而引起脾功能亢进。尽管这偶尔会导致全血细胞减少症，但脾功能亢进的患者通常有脾肿大和正细胞性（而非大细胞性）贫血。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the side effects of hydroxyurea, a common medication used in sickle cell disease, specifically its impact on DNA synthesis and subsequent hematologic abnormalities. It requires understanding of how hydroxyurea can lead to pancytopenia and macrocytosis. \n\nTo solve this question, recognize the patient's sickle cell disease history and current medication regimen (hydroxyurea). Then, correlate the lab findings (pancytopenia, macrocytosis, low reticulocyte count) with the known side effects of hydroxyurea, which inhibits DNA synthesis and affects blood cell production.",
+    "zh": "此题考查对羟基脲（一种用于镰状细胞病的常用药物）的副作用的了解，特别是其对DNA合成和随后的血液学异常的影响。它需要理解羟基脲如何导致全血细胞减少症和大细胞性贫血。\n\n要解决这个问题，首先要认识到患者的镰状细胞病史和当前的用药方案（羟基脲）。然后，将实验室检查结果（全血细胞减少症、大细胞性贫血、低网织红细胞计数）与羟基脲的已知副作用（抑制DNA合成并影响血细胞生成）相关联。"
+  },
+  "tags": "Sickle cell disease; Hydroxyurea; Pancytopenia; Macrocytosis; Anemia; Hematology; Medication side effects; DNA synthesis; Reticulocytes",
+  "category": "Blood",
+  "question_id": "19689",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\19689",
+  "extracted_at": "2025-11-05T11:31:37.266009",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:30:51.332842",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 13-month-old boy is admitted to the hospital due to diarrhea and dehydration. Over the past week, the patient has developed severe, watery diarrhea and has had poor oral intake. Medical history includes multiple episodes of bronchiolitis and, at age 8 months, an intensive care unit admission due to pneumococcal pneumonia requiring a brief period of mechanical intubation and chest tube placement. The parents say that he has been growing poorly over the past 6 months despite feeding well and supplementation with high-calorie formulas. On examination, the patient appears lethargic with sunken eyes and poor skin turgor, as well as moderate tachycardia and tachypnea. As part of the laboratory evaluation, flow cytometry of in vitro-stimulated CD4- T cells reveals a near absence of CD40 ligand. Which of the following additional findings is most likely associated with this patient's condition?",
+    "zh": "一名13个月大的男孩因腹泻和脱水入院。在过去的一周里，患者出现了严重的、水样便腹泻，并且口服摄入不足。病史包括多次毛细支气管炎发作，并且在8个月大时因肺炎球菌性肺炎入住重症监护室，需要短暂的机械通气和胸腔闭式引流。父母说，尽管喂养良好并补充了高热量配方奶，但他在过去的6个月里生长不良。体格检查显示，患者嗜睡，眼窝凹陷，皮肤弹性差，以及中度心动过速和呼吸急促。作为实验室评估的一部分，体外刺激的CD4+ T细胞的流式细胞术显示CD40配体几乎缺失。以下哪一项附加发现最有可能与该患者的病情相关？"
+  },
+  "question": {
+    "en": "Which of the following additional findings is most likely associated with this patient's condition?",
+    "zh": "以下哪一项附加发现最有可能与该患者的病情相关？"
+  },
+  "options": {
+    "A": {
+      "en": "Absent thymic tissue",
+      "zh": "胸腺组织缺失"
+    },
+    "B": {
+      "en": "Giant granules within neutrophils",
+      "zh": "中性粒细胞内出现巨大颗粒"
+    },
+    "C": {
+      "en": "Hypoplastic bone marrow",
+      "zh": "骨髓发育不良"
+    },
+    "D": {
+      "en": "Lack of secondary germinal centers",
+      "zh": "缺乏二级生发中心"
+    },
+    "E": {
+      "en": "Small-volume platelets",
+      "zh": "小体积血小板"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has a severe diarrheal illness, failure to thrive, and a history of recurrent respiratory infections: findings concerning for a primary immunodeficiency. In this case, the absent CD40 ligand (CD40L) on flow cytometry is diagnostic for hyper-IgM syndrome {{exhibit_1}}. \n\nCD40L is normally present on activated CD4+ T cells and interacts primarily with CD40 on B cells in the secondary germinal centers of lymphoid tissues. This T-cell–dependent interaction is required to form B-cell germinal centers; without it, patients with hyper-IgM syndrome lack secondary germinal centers and often have small/nonpalpable lymph nodes. \n\nBecause the interaction of CD40L with CD40 allows for B-cell activation and differentiation into immunoglobulin-producing plasma cells and memory B cells, lack of CD40L causes B cells to remain in their native IgM-producing state. Without opsonizing IgG antibody, patients with hyper-IgM syndrome are predisposed to recurrent sinopulmonary infections (eg, pneumonia, sinusitis) caused by encapsulated bacteria. In addition, lack of mucosal IgA increases the risk for GASTROINTESTINAL INFECTIONS (eg, Giardia). Failure to thrive is also common because of increased metabolic demands from recurrent infections, as well as nutrient loss from chronic diarrhea. \n\n(Choice A) Absent thymic tissue, which can be seen in DiGeorge syndrome, results in absent T-cell production. T-cell deficiency presents with opportunistic infections and failure to thrive in infancy but would be associated with absence of CD4+ T cells themselves (not just CD40L). \n\n(Choice B) Giant granules within neutrophils is a pathognomonic finding for Chédiak-Higashi syndrome, a condition caused by impaired intracellular trafficking of vesicles (eg, lysosomes, melanosomes). In addition to pyogenic infections, patients typically have oculocutaneous albinism and neurologic dysfunction. \n\n(Choice C) Hypoplastic bone marrow is seen with aplastic anemia. Recurrent infections occur due to the absence of leukocyte production, but signs of anemia (eg, fatigue, pallor) and thrombocytopenia (eg, bleeding, bruising) are also typically present. \n\n(Choice E) Small-volume platelets are characteristic of Wiskott-Aldrich syndrome, in which a defect in the leukocyte cytoskeleton leads to recurrent infections. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}\n\nEducational objective:\nHyper-IgM syndrome presents with recurrent sinopulmonary and gastrointestinal infections due to the absence of CD40 ligand on CD4+ T cells. Lack of interaction between CD40L and CD40 on B cells prevents the development of secondary germinal centers and impairs B-cell activation and immunoglobulin class switching.",
+    "zh": "该患者患有严重的腹泻疾病、生长迟缓以及反复呼吸道感染病史：这些发现提示原发性免疫缺陷。在这种情况下，流式细胞术中CD40配体（CD40L）缺失是诊断高IgM综合征的依据{{exhibit_1}}。\n\nCD40L通常存在于活化的CD4+ T细胞上，并主要与淋巴组织二级生发中心的B细胞上的CD40相互作用。这种T细胞依赖性相互作用是形成B细胞生发中心所必需的；没有它，高IgM综合征患者会缺乏二级生发中心，并且通常有小/不可触及的淋巴结。\n\n由于CD40L与CD40的相互作用允许B细胞活化并分化成产生免疫球蛋白的浆细胞和记忆B细胞，因此缺乏CD40L会导致B细胞保持其原生的产生IgM的状态。如果没有调理性IgG抗体，高IgM综合征患者更容易受到由包膜细菌引起的反复鼻窦肺部感染（如肺炎、鼻窦炎）。此外，缺乏黏膜IgA会增加胃肠道感染（如贾第虫病）的风险。生长迟缓也很常见，因为反复感染导致代谢需求增加，以及慢性腹泻导致的营养流失。\n\n（选项A）胸腺组织缺失，可在DiGeorge综合征中看到，导致T细胞产生缺失。T细胞缺陷在婴儿期表现为机会性感染和生长迟缓，但与CD4+ T细胞本身的缺失相关（不仅仅是CD40L）。\n\n（选项B）中性粒细胞内出现巨大颗粒是Chédiak-Higashi综合征的特征性发现，这是一种由囊泡（如溶酶体、黑素体）的细胞内运输受损引起的疾病。除了化脓性感染外，患者通常还患有眼皮肤白化病和神经功能障碍。\n\n（选项C）骨髓发育不良可见于再生障碍性贫血。反复感染是由于白细胞产生缺失，但通常也会出现贫血的体征（如疲劳、苍白）和血小板减少症（如出血、瘀伤）。\n\n（选项E）小体积血小板是Wiskott-Aldrich综合征的特征，其中白细胞细胞骨架的缺陷导致反复感染。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}}\n\n教育目标：\n高IgM综合征表现为反复鼻窦肺部和胃肠道感染，这是由于CD4+ T细胞上缺乏CD40配体所致。CD40L与B细胞上的CD40之间缺乏相互作用，阻止了二级生发中心的发育，并损害了B细胞活化和免疫球蛋白类别转换。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Hyper-IgM syndrome, a primary immunodeficiency characterized by recurrent infections, failure to thrive, and absent CD40 ligand on CD4+ T cells. It assesses the understanding of the pathophysiology and associated clinical findings of this condition. \n\nTo solve this question, recognize the clinical presentation suggestive of immunodeficiency, identify the absent CD40 ligand as a key diagnostic clue, and recall that Hyper-IgM syndrome is associated with a lack of secondary germinal centers due to impaired B-cell activation.",
+    "zh": "此题考察对高IgM综合征的知识，这是一种以反复感染、生长迟缓和CD4+ T细胞上缺乏CD40配体为特征的原发性免疫缺陷。它评估了对这种疾病的病理生理学和相关临床发现的理解。\n\n要解决此题，需要识别提示免疫缺陷的临床表现，将CD40配体缺失确定为关键诊断线索，并回忆高IgM综合征与由于B细胞活化受损而缺乏二级生发中心有关。"
+  },
+  "tags": "Hyper-IgM syndrome; Immunodeficiency; CD40 ligand; Germinal centers; Recurrent infections; Gastroenteritis; Failure to thrive; Immunology; B-cell activation",
+  "category": "Immunology",
+  "question_id": "21499",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\21499",
+  "extracted_at": "2025-11-05T14:44:46.781804",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:02:17.696051",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

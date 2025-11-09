@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 56-year-old man is brought to the emergency department with new-onset tonic-clonic seizures. His past medical history is unremarkable. The patient recently has had right-sided headaches and has taken acetaminophen with some relief. MRI of the brain reveals several round lesions in the right temporal lobe. After initial evaluation, a stereotactic biopsy of one of the lesions is performed. The biopsy results show neoplastic tissue containing a mutation in the gene that encodes BRAF, a protein kinase. The point mutation results in a valine → glutamic acid substitution at position 600 of the protein.",
+    "zh": "一名56岁男性因新发强直-阵挛性癫痫发作被送往急诊科。他的既往病史无特殊。患者近期有右侧头痛，服用对乙酰氨基酚后有所缓解。脑部MRI显示右颞叶有几个圆形病灶。初步评估后，对其中一个病灶进行了立体定向活检。活检结果显示肿瘤组织含有编码BRAF（一种蛋白激酶）的基因突变。该点突变导致蛋白质第600位缬氨酸→谷氨酸的取代。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Glioblastoma",
+      "zh": "胶质母细胞瘤"
+    },
+    "B": {
+      "en": "Melanoma",
+      "zh": "黑色素瘤"
+    },
+    "C": {
+      "en": "Prostate cancer",
+      "zh": "前列腺癌"
+    },
+    "D": {
+      "en": "Renal cell carcinoma",
+      "zh": "肾细胞癌"
+    },
+    "E": {
+      "en": "Small cell lung cancer",
+      "zh": "小细胞肺癌"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The main environmental risk factor for cutaneous melanoma is increased exposure to ultraviolet radiation (eg, solar or tanning bed sources), which can cause malignant transformation of melanocytes. The risk of melanoma is also increased by mutations in specific genetic factors, most commonly tumor suppressor genes and various oncogenes. BRAF is a protein kinase involved in activating the signaling pathways of melanocyte proliferation. BRAF mutation V600E (valine → glutamic acid), seen in 40%-60% of patients with melanoma, leads to greatly increased activation of the signaling pathways for melanocyte growth, survival, and metastasis. {{exhibit_1}}\n\nVemurafenib, a potent inhibitor of mutated BRAF, has significant anti-tumor effects with improved survival and long-term outcomes in advanced stage V600E-positive melanoma patients. The presence of this BRAF mutation in this patient's tissue sample most likely indicates a diagnosis of metastatic melanoma. {{exhibit_2}}\n\n(Choice A) Glioblastoma is more likely to present as a single lesion; BRAF mutations are less common than with melanoma.\n\n(Choice C) Prostate cancer is associated with BRCA1 and BRCA2 mutations, not BRAF mutations. BRCA mutations also increase the risk of breast cancer.\n\n(Choices D and E) Renal cell carcinoma and small cell lung cancer appear to be multifactorial in origin, involving many different genes and environmental factors. However, BRAF has not been associated with either malignancy.\n\nEducational objective:\nBRAF is a protein kinase involved in activation of signaling pathways for melanocyte proliferation; the BRAF V600E mutation is seen in 40%-60% of patients with melanoma.",
+    "zh": "皮肤黑色素瘤的主要环境危险因素是增加暴露于紫外线辐射（例如，来自太阳或日光浴床），这可导致黑色素细胞的恶性转化。黑色素瘤的风险也因特定遗传因素的突变而增加，最常见的是抑癌基因和各种癌基因。BRAF 是一种蛋白激酶，参与激活黑色素细胞增殖的信号通路。在40%-60%的黑色素瘤患者中可见BRAF V600E（缬氨酸→谷氨酸）突变，导致黑色素细胞生长、存活和转移的信号通路显着激活。{{exhibit_1}}\n\nVemurafenib 是一种有效的突变BRAF抑制剂，对晚期V600E阳性黑色素瘤患者具有显着的抗肿瘤作用，可改善生存期和长期预后。在该患者的组织样本中存在这种BRAF突变，最有可能提示转移性黑色素瘤的诊断。{{exhibit_2}}\n\n（选项A）胶质母细胞瘤更可能表现为单个病灶；BRAF突变不如黑色素瘤常见。\n\n（选项C）前列腺癌与BRCA1和BRCA2突变相关，而不是BRAF突变。BRCA突变也会增加患乳腺癌的风险。\n\n（选项D和E）肾细胞癌和小细胞肺癌的病因似乎是多因素的，涉及许多不同的基因和环境因素。然而，BRAF 尚未与这两种恶性肿瘤相关。\n\n教育目的：\nBRAF 是一种蛋白激酶，参与激活黑色素细胞增殖的信号通路；在40%-60%的黑色素瘤患者中可见BRAF V600E突变。"
+  },
+  "summary": {
+    "en": "This question tests the knowledge of genetic mutations associated with different cancers, specifically the BRAF V600E mutation and its association with melanoma. It also tests the ability to correlate clinical presentation with genetic findings to arrive at the most likely diagnosis.\n\nThe approach to solving this question involves recognizing the significance of the BRAF V600E mutation. Knowing that this mutation is commonly found in melanoma, especially metastatic melanoma, allows one to quickly identify the correct answer. Ruling out other options based on their typical genetic associations is also crucial.",
+    "zh": "此题考察与不同癌症相关的基因突变的知识，特别是BRAF V600E突变及其与黑色素瘤的关系。它还考察了将临床表现与基因发现相关联，以得出最有可能的诊断的能力。\n\n解决此题的方法包括认识到BRAF V600E突变的重要性。了解这种突变常见于黑色素瘤，尤其是转移性黑色素瘤，可以快速确定正确答案。根据其他选项的典型基因关联将其排除也是至关重要的。"
+  },
+  "tags": "Melanoma; BRAF mutation; V600E; Oncology; Metastasis; Protein kinase; Genetic mutations; Cancer; Neurology; Seizures",
+  "category": "Derma",
+  "question_id": "7707",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\7707",
+  "extracted_at": "2025-11-05T13:56:54.555937",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:36:00.159153",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

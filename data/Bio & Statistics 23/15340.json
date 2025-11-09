@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "An 18-year-old woman comes to the office for evaluation of graying hair. The patient has no other concerns and has otherwise been healthy. She reports that her mother had similar features at a young age and died of progressive pulmonary fibrosis. Examination shows diffuse gray hair. There are white patches on the surface of the tongue. Cardiopulmonary examination is unremarkable, and the abdomen is soft and nondistended. Skin examination shows areas of reticular hyperpigmentation on the neck and torso. The nails of the fingers and toes appear thin. Genetic testing reveals a loss-of-function mutation affecting the telomerase reverse transcriptase gene.",
+    "zh": "一名18岁的女性来到诊所，评估其白发。患者没有其他担忧，并且一直很健康。她报告说她的母亲在年轻时也有类似的特征，并且死于进行性肺纤维化。检查显示弥漫性白发。舌头表面有白色斑块。心肺检查无异常，腹部柔软且无膨胀。皮肤检查显示颈部和躯干有网状色素沉着过度区域。手指和脚趾的指甲看起来很薄。基因检测显示存在影响端粒酶逆转录酶基因的丧失功能突变。"
+  },
+  "question": {
+    "en": "Which of the following cell types is most likely to be affected by this mutation?",
+    "zh": "以下哪种细胞类型最有可能受到这种突变的影响？"
+  },
+  "options": {
+    "A": {
+      "en": "Cardiac myocytes",
+      "zh": "心肌细胞"
+    },
+    "B": {
+      "en": "CNS neurons",
+      "zh": "中枢神经系统神经元"
+    },
+    "C": {
+      "en": "Compact bone osteocytes",
+      "zh": "密质骨骨细胞"
+    },
+    "D": {
+      "en": "Hematopoietic stem cells",
+      "zh": "造血干细胞"
+    },
+    "E": {
+      "en": "Secondary oocytes",
+      "zh": "次级卵母细胞"
+    },
+    "F": {
+      "en": "Vascular endothelial cells",
+      "zh": "血管内皮细胞"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has dyskeratosis congenita; a genetic disorder involving a mutation in the genes related to telomere maintenance (eg, TELOMERASE REVERSE TRANSCRIPTASE) that results in short telomeres. TELOMERES are a complex of protein (eg, shelterin) and DNA repeats (eg, TTAGGG) at the ends of chromosomes that prevent CHROMOSOMAL DEGRADATION and fusion with neighboring chromosomes. With each cellular division telomeres progressively shorten, eventually reaching a critical length at which apoptosis or senescence is triggered.\n\nIn cells with a high turnover rate (eg, epithelial cells, lymphocytes, HEMATOPOIETIC STEM CELLS), telomere length is maintained by telomerase. This complex, composed of an RNA template and a reverse transcriptase, adds DNA repeats to the end of telomeres as they are lost with cell division. Without normal telomerase activity, rapidly dividing cells cannot maintain chromosomal integrity, triggering PREMATURE CELL DEATH. In patients with short telomere disorders, loss of these cells can cause characteristic mucocutaneous changes (eg, oral leukoplakia, dystrophic nails), BONE MARROW FAILURE (eg, pancytopenia), and pulmonary fibrosis (due to alveolar epithelial dysfunction).\n\n(Choices A, B, C, and F) Telomerase is inactivated in long-lived, differentiated cells such as cardiac myocytes, CNS neurons, compact bone osteocytes, and vascular endothelial cells; therefore, these cells are not likely to be affected by this patient's mutation. However, in cancer cells derived from differentiated cells, telomerase is reactivated, allowing continuous cellular division without loss of telomere length.\n\n(Choice E) Secondary oocytes are immature ova that form as a result of the division of a primary oocyte during meiosis I. They do not continue to divide and therefore are also not likely to be affected by this patient's mutation.",
+    "zh": "该患者患有先天性角化不良；这是一种遗传性疾病，涉及与端粒维持相关的基因（例如，端粒酶逆转录酶）的突变，导致端粒缩短。端粒是位于染色体末端由蛋白质（例如，shelterin）和 DNA 重复序列（例如，TTAGGG）组成的复合物，可防止染色体降解和与相邻染色体融合。随着每次细胞分裂，端粒逐渐缩短，最终达到触发细胞凋亡或衰老的临界长度。\n\n在具有高更新率的细胞（例如，上皮细胞、淋巴细胞、造血干细胞）中，端粒长度由端粒酶维持。该复合物由 RNA 模板和逆转录酶组成，当端粒在细胞分裂中丢失时，它会将 DNA 重复序列添加到端粒的末端。如果没有正常的端粒酶活性，快速分裂的细胞就无法维持染色体完整性，从而触发过早的细胞死亡。在患有端粒缩短疾病的患者中，这些细胞的丢失会导致特征性的粘膜皮肤变化（例如，口腔白斑、营养不良性指甲）、骨髓衰竭（例如，全血细胞减少症）和肺纤维化（由于肺泡上皮功能障碍）。\n\n（选项 A、B、C 和 F）心肌细胞、中枢神经系统神经元、密质骨骨细胞和血管内皮细胞等寿命长、分化的细胞中，端粒酶被灭活；因此，这些细胞不太可能受到该患者突变的影响。然而，在源自分化细胞的癌细胞中，端粒酶被重新激活，允许细胞持续分裂而不会损失端粒长度。\n\n（选项 E）次级卵母细胞是作为减数分裂 I 期间初级卵母细胞分裂的结果而形成的未成熟卵子。它们不会继续分裂，因此也不太可能受到该患者突变的影响。"
+  },
+  "summary": {
+    "en": "1) Dyskeratosis congenita is a genetic disorder involving a mutation in the genes related to telomere maintenance. 2) Telomerase is inactivated in long-lived, differentiated cells such as cardiac myocytes, CNS neurons, compact bone osteocytes, and vascular endothelial cells.",
+    "zh": "1) 先天性角化不良是一种遗传性疾病，涉及与端粒维持相关的基因的突变。2) 心肌细胞、中枢神经系统神经元、密质骨骨细胞和血管内皮细胞等寿命长、分化的细胞中，端粒酶被灭活。"
+  },
+  "tags": "Dyskeratosis congenita; Telomerase; Hematopoietic stem cells; Telomeres; Premature cell death",
+  "category": "Bio",
+  "question_id": "15340",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\15340",
+  "extracted_at": "2025-11-05T10:59:36.675355",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:21:51.897228",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,70 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old man comes to the office for hearing loss, tinnitus, and unsteadiness with walking. A contrast-enhanced, T1-weighted image of his brain is shown below {{exhibit_1}}.",
+    "zh": "一名24岁男性因听力下降、耳鸣和行走不稳来就诊。下图显示了他的脑部增强T1加权图像 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "This patient is most likely to have a mutation involving which of the following genes?",
+    "zh": "该患者最有可能发生涉及以下哪个基因的突变？"
+  },
+  "options": {
+    "A": {
+      "en": "NF1 on chromosome 17",
+      "zh": "17号染色体上的NF1"
+    },
+    "B": {
+      "en": "NF2 on chromosome 22",
+      "zh": "22号染色体上的NF2"
+    },
+    "C": {
+      "en": "RB1 on chromosome 13",
+      "zh": "13号染色体上的RB1"
+    },
+    "D": {
+      "en": "TP53 on chromosome 17",
+      "zh": "17号染色体上的TP53"
+    },
+    "E": {
+      "en": "TSC1 on chromosome 9",
+      "zh": "9号染色体上的TSC1"
+    },
+    "F": {
+      "en": "VHL on chromosome 3",
+      "zh": "3号染色体上的VHL"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has enhancing masses affecting both internal auditory canals with extension into the cerebellopontine angles, findings characteristic of VESTIBULAR SCHWANNOMA (VS). Also called acoustic neuromas, they typically cause hearing loss, tinnitus, and/or imbalance (true vertigo is uncommon). BILATERAL VS are the hallmark of neurofibromatosis type 2 (NF2).\n\nNF2 is an autosomal dominant disorder caused by mutations in the NF2 gene on chromosome 22 that encodes for merlin, a tumor suppressor protein associated with the plasma membrane. Because merlin is expressed primarily in neural cells, loss of function results in multiple nervous system tumors. Schwann cells are most susceptible, giving rise to the most common tumor (schwannoma), and merlin's alternative name (schwannomin).\n\nPatients with NF2 can also develop schwannomas affecting other cranial and spinal nerves; central nervous system ependymomas and meningiomas also occur with increased frequency.\n\n(Choice A) Mutations of the NF1 tumor suppressor gene (chromosome 17) cause neurofibromatosis type 1 (NF1). Although NF1 can have CNS involvement (eg, optic pathway gliomas), bilateral VS are not characteristic. In addition, cutaneous manifestations (eg, café-au-lait macules) are more common, and the peripheral nerve tumors of NF1 are neurofibromas (not schwannomas).\n\n(Choice C) Mutations of the RB1 tumor suppressor gene (chromosome 13) increase the risk for retinoblastoma and osteosarcoma.\n\n(Choice D) Mutations affecting the TP53 gene (codes for p53) on chromosome 17 are the most commonly acquired mutations in cancer. Inherited mutations cause the rare cancer-predisposing Li-Fraumeni syndrome (eg, breast cancer, sarcomas). Although affected patients frequently develop brain tumors at a young age, bilateral VS are much more suggestive of schwannomatosis (eg, NF2).\n\n(Choice E) Mutation of the TSC1 tumor suppressor gene (chromosome 9) or TSC2 (chromosome 16) leads to tuberous sclerosis complex, an inherited neurocutaneous disorder that can cause brain tumors. However, these are typically periventricular (subependymal nodules) and associated with multisystemic findings, including skin (eg, facial angiofibromas, ash-leaf macules), eye, and heart manifestations.\n\n(Choice F) Mutation of the VHL tumor suppressor gene (chromosome 3) causes von Hippel-Lindau (VHL) disease. Although VHL can cause cerebellopontine angle masses (endolymphatic sac tumors), other CNS (eg, hemangioblastomas) and visceral (eg, clear renal carcinomas, pheochromocytomas) tumors are common.\n\nEducational objective:\nBilateral vestibular schwannomas are the hallmark of neurofibromatosis type 2, a dominantly inherited disorder caused by mutations of the NF2 gene on chromosome 22. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}}",
+    "zh": "该患者有增强的肿块影响双侧内听道，并延伸至脑桥小脑角，这是前庭神经鞘瘤（VS）的特征。也称为听神经瘤，它们通常引起听力下降、耳鸣和/或平衡障碍（真正的眩晕不常见）。双侧VS是2型神经纤维瘤病（NF2）的标志。\n\nNF2是一种常染色体显性遗传病，由22号染色体上的NF2基因突变引起，该基因编码merlin，这是一种与质膜相关的抑癌蛋白。由于merlin主要在神经细胞中表达，功能丧失会导致多种神经系统肿瘤。雪旺细胞最易感，从而产生最常见的肿瘤（神经鞘瘤），以及merlin的另一个名称（schwannomin）。\n\nNF2患者也可能发生影响其他颅神经和脊神经的神经鞘瘤；中枢神经系统室管膜瘤和脑膜瘤也更频繁地发生。\n\n(选项A) 17号染色体上NF1抑癌基因的突变导致1型神经纤维瘤病（NF1）。尽管NF1可累及中枢神经系统（如，视通路神经胶质瘤），但双侧VS并非其特征。此外，皮肤表现（如，咖啡牛奶斑）更为常见，并且NF1的外周神经肿瘤是神经纤维瘤（而非神经鞘瘤）。\n\n(选项C) 13号染色体上RB1抑癌基因的突变增加了视网膜母细胞瘤和骨肉瘤的风险。\n\n(选项D) 影响17号染色体上TP53基因（编码p53）的突变是癌症中最常见的获得性突变。遗传性突变会导致罕见的癌症易感性Li-Fraumeni综合征（如，乳腺癌、肉瘤）。尽管受影响的患者经常在年轻时发生脑肿瘤，但双侧VS更提示神经鞘瘤病（如，NF2）。\n\n(选项E) 9号染色体上的TSC1抑癌基因或16号染色体上的TSC2的突变导致结节性硬化症，这是一种可引起脑肿瘤的遗传性神经皮肤病。然而，这些肿瘤通常位于脑室周围（室管膜下结节），并与多系统表现相关，包括皮肤（如，面部血管纤维瘤、白叶斑）、眼和心脏的表现。\n\n(选项F) 3号染色体上VHL抑癌基因的突变导致von Hippel-Lindau (VHL) 病。尽管VHL可引起脑桥小脑角肿块（内淋巴囊肿瘤），但其他中枢神经系统（如，血管母细胞瘤）和内脏（如，透明细胞肾细胞癌、嗜铬细胞瘤）肿瘤也很常见。\n\n教育目标：\n双侧前庭神经鞘瘤是2型神经纤维瘤病的标志，这是一种由22号染色体上NF2基因突变引起的显性遗传病。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}} {{exhibit_7}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of neurofibromatosis type 2 (NF2) and its characteristic presentation of bilateral vestibular schwannomas. It also requires the ability to interpret imaging findings and associate them with the correct genetic mutation.\n\nTo solve this question, recognize the key finding of bilateral vestibular schwannomas on the MRI. Recall that this is a hallmark of NF2, which is caused by a mutation in the NF2 gene on chromosome 22. Eliminate other options based on their association with different genetic disorders and clinical presentations.",
+    "zh": "此题考察对2型神经纤维瘤病（NF2）及其特征性表现——双侧前庭神经鞘瘤的知识。它还需要能够解读影像学发现并将其与正确的基因突变联系起来。\n\n要解决这个问题，需要认识到MRI上双侧前庭神经鞘瘤的关键发现。回想一下，这是NF2的标志，由22号染色体上NF2基因的突变引起。根据其他选项与不同遗传疾病和临床表现的关联来排除其他选项。"
+  },
+  "tags": "Neurofibromatosis type 2; Vestibular schwannoma; NF2 gene; Chromosome 22; Hearing loss; Tinnitus; Cerebellopontine angle tumor; Genetics; Neurology",
+  "category": "Neuro",
+  "question_id": "1305",
+  "has_exhibits": true,
+  "exhibit_count": 7,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1305",
+  "extracted_at": "2025-11-05T15:15:09.031994",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:18:43.549932",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

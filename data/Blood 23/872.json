@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 59-year-old man comes to the office due to 3 months of progressive fatigue and back pain. The back pain occurs mainly with movement or positional changes. Physical examination reveals midline tenderness over the middle and lower back. Laboratory evaluation shows a hemoglobin level of 10.2 g/dL and serum calcium level of 12 mg/dL. A bone marrow aspirate is performed, and the histopathologic findings are shown below {{exhibit_1}}.",
+    "zh": "一名59岁男性因进行性疲劳和背痛3个月来诊。背痛主要发生在活动或体位改变时。体格检查显示中线压痛位于中下背部。实验室评估显示血红蛋白水平为10.2 g/dL，血清钙水平为12 mg/dL。进行了骨髓穿刺，组织病理学结果如下所示 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "This patient is at greatest risk for developing which of the following conditions?",
+    "zh": "该患者发生以下哪种疾病的风险最高？"
+  },
+  "options": {
+    "A": {
+      "en": "Amyloidosis",
+      "zh": "淀粉样变性"
+    },
+    "B": {
+      "en": "Cardiac tamponade",
+      "zh": "心脏压塞"
+    },
+    "C": {
+      "en": "Hepatic failure",
+      "zh": "肝功能衰竭"
+    },
+    "D": {
+      "en": "Hyperthyroidism",
+      "zh": "甲状腺功能亢进"
+    },
+    "E": {
+      "en": "Meningeal carcinomatosis",
+      "zh": "脑膜癌病"
+    },
+    "F": {
+      "en": "Splenic rupture",
+      "zh": "脾破裂"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's bone marrow aspirate shows numerous plasma cells, which can be identified by abundant basophilic cytoplasm, eccentric nuclei, well-developed Golgi apparatus (perinuclear paleness), and \"clock-face\" (peripheral) chromatin. A bone marrow sample with >10% plasma cells is strongly suggestive of MULTIPLE MYELOMA (MM), a clonal plasma cell malignancy.\n\nIn MM, neoplastic plasma cells:\n\n*   Replicate in the bone marrow and choke out normal hematopoiesis, leading to normocytic, normochromic anemia (impaired erythropoiesis) and increased risk of infection (impaired B-cell lymphopoiesis).\n*   Secrete osteolytic cytokines, leading to bone pain, osteolytic (radiolucent) bone lesions, and hypercalcemia.\n*   Produce large quantities of monoclonal immunoglobulin (paraprotein) composed of heavy and light chains (eg, IgG, IgA) or light chains alone. Light chains can deposit in the renal tubules, leading to light-chain cast nephropathy, which is usually characterized by mild renal insufficiency and waxy, laminated urinary casts (Bence Jones).\n*   Light chains can also form insoluble fibrils and deposit in major organs, leading to amyloid light-chain amyloidosis. This can contribute to the already elevated risk of renal failure as well as heart failure and neurologic dysfunction. Amyloidosis can often be identified on biopsy using hematoxylin and eosin stain (eosinophilic extracellular deposits) or Congo red stain viewed under polarized light (apple-green birefringence).\n\n(Choice B) Cardiac tamponade can be associated with some neoplasms (eg, lung, breast) due to tumor invasion of the pericardium. MM does not typically cause pericardial disease; therefore, it is not associated with cardiac tamponade.\n\n(Choice C) Hepatic failure is most often linked to viral hepatitis or chronic alcohol use. It occasionally occurs due to malignant infiltration of the liver (eg, lymphoma, breast cancer); however, risk of hepatic failure with MM is low; amyloidosis is a far more common complication.\n\n(Choice D) Hyperthyroidism is most often due to Graves disease, an autoimmune disorder that generates TSH-receptor antibodies. It can also be seen with medications (eg, lithium) and tumors that produce TSH (eg, pituitary adenoma). MM is not linked to hyperthyroidism.\n\n(Choice E) Meningeal carcinomatosis is a rare condition associated with some solid tumors (eg, breast cancer, lung cancer, melanoma). Tumor spread to the leptomeninges can cause mass effect (eg, headache, hydrocephalus), cranial/spinal nerve dysfunction, and focal neurologic issues. MM does not typically spread to the leptomeninges.\n\n(Choice F) Traumatic splenic rupture can occur with leukemia and lymphoma due to massive splenomegaly from extramedullary hematopoiesis and/or underlying tumor infiltration. MM does not typically cause significant ramifications in the bone marrow and usually replicates in the bone marrow, not the spleen.\n\nEducational objective:\nAmyloid light-chain amyloidosis is associated with multiple myeloma and other monoclonal plasma cell dyscrasias due to the deposition of insoluble immunoglobulin light-chain fibrils in major organs (eg, kidneys, heart, neurologic system). A bone marrow sample with >10% plasma cells is strongly suggestive of multiple myeloma.",
+    "zh": "该患者的骨髓穿刺显示大量浆细胞，其特征在于丰富的嗜碱性细胞质、偏心核、发育良好的高尔基体（核周苍白）和“钟面”（外周）染色质。骨髓样本中浆细胞>10%强烈提示多发性骨髓瘤 (MM)，这是一种单克隆浆细胞恶性肿瘤。\n\n在 MM 中，肿瘤性浆细胞：\n\n*   在骨髓中复制并抑制正常的造血，导致正细胞性正色素性贫血（红细胞生成受损）和感染风险增加（B细胞淋巴细胞生成受损）。\n*   分泌溶骨细胞因子，导致骨痛、溶骨性（透射性）骨病变和高钙血症。\n*   产生大量由重链和轻链（例如，IgG、IgA）或仅由轻链组成的单克隆免疫球蛋白（副蛋白）。轻链可沉积在肾小管中，导致轻链管型肾病，其通常以轻度肾功能不全和蜡样、层状尿管型（本周-琼斯）为特征。\n*   轻链也可形成不溶性原纤维并在主要器官中沉积，导致淀粉样蛋白轻链淀粉样变性。这可能导致肾衰竭的风险已经升高，以及心力衰竭和神经功能障碍。淀粉样变性通常可以通过使用苏木精和伊红染色（嗜伊红细胞外沉积物）或在偏振光下观察的刚果红染色（苹果绿色双折射）进行活检来识别。\n\n（选项 B）心脏压塞可能与一些肿瘤（例如，肺、乳腺）相关，这是由于肿瘤侵犯心包所致。MM 通常不会引起心包疾病；因此，它与心脏压塞无关。\n\n（选项 C）肝功能衰竭最常与病毒性肝炎或长期饮酒有关。它偶尔因肝脏的恶性浸润（例如，淋巴瘤、乳腺癌）而发生；然而，MM 引起的肝衰竭风险较低；淀粉样变性是一种更常见的并发症。\n\n（选项 D）甲状腺功能亢进最常是由于格雷夫斯病（一种产生促甲状腺激素受体抗体的自身免疫性疾病）所致。它也可以见于药物（例如，锂）和产生促甲状腺激素的肿瘤（例如，垂体腺瘤）。MM 与甲状腺功能亢进无关。\n\n（选项 E）脑膜癌病是一种罕见病症，与一些实体瘤（例如，乳腺癌、肺癌、黑色素瘤）相关。肿瘤扩散到软脑膜可引起占位效应（例如，头痛、脑积水）、颅/脊神经功能障碍和局灶性神经系统问题。MM 通常不会扩散到软脑膜。\n\n（选项 F）脾破裂可能发生在白血病和淋巴瘤中，这与骨髓外造血引起的巨大脾肿大和/或潜在的肿瘤浸润有关。MM 通常不会对骨髓造成重大影响，并且通常在骨髓中复制，而不是在脾脏中复制。\n\n教育目标：\n淀粉样蛋白轻链淀粉样变性与多发性骨髓瘤和其他单克隆浆细胞血浆异常有关，这是由于不溶性免疫球蛋白轻链原纤维在主要器官（例如，肾脏、心脏、神经系统）中的沉积所致。骨髓样本中浆细胞 >10% 强烈提示多发性骨髓瘤。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of multiple myeloma (MM) and its associated complications, specifically amyloid light-chain amyloidosis. It requires recognizing the clinical presentation of MM (fatigue, back pain, anemia, hypercalcemia) and the characteristic bone marrow findings (increased plasma cells) to identify the patient's risk of developing amyloidosis. \n\nThe key to solving this question is to recognize the signs and symptoms suggestive of MM and understand the pathophysiology of amyloid light-chain amyloidosis as a complication of MM. The bone marrow aspirate {{exhibit_2}} showing numerous plasma cells is a critical clue. Eliminate options that are not typically associated with MM.",
+    "zh": "此题考察对多发性骨髓瘤 (MM) 及其相关并发症（特别是淀粉样蛋白轻链淀粉样变性）的了解。它要求识别 MM 的临床表现（疲劳、背痛、贫血、高钙血症）和特征性骨髓表现（浆细胞增多）以确定患者发生淀粉样变性的风险。\n\n解决此题的关键是识别提示 MM 的体征和症状，并了解淀粉样蛋白轻链淀粉样变性作为 MM 并发症的病理生理学。骨髓穿刺 {{exhibit_2}} 显示大量浆细胞是一个关键线索。排除通常与 MM 无关的选项。"
+  },
+  "tags": "Multiple myeloma; Amyloidosis; Bone marrow aspirate; Plasma cells; Hypercalcemia; Anemia; Light-chain amyloidosis; Monoclonal gammopathy; Hematology; Oncology",
+  "category": "Blood",
+  "question_id": "872",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\872",
+  "extracted_at": "2025-11-05T11:34:40.764561",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:32:39.151015",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

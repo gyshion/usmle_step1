@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 45-year-old woman comes to the office for follow-up of type 2 diabetes mellitus. The patient is taking the maximum dose of metformin. Despite adherence to medications and lifestyle changes, her hemoglobin A1c is 7.7%. Family history is significant for an osteoporotic fracture in her mother. Blood pressure is 134/86 mm Hg and pulse is 72/min. BMI is 33 kg/m². Physical examination shows no abnormalities. The results of other laboratory tests are normal. After discussion, a sodium-glucose cotransporter-2 inhibitor is added to the patient's drug regimen.",
+    "zh": "一名 45 岁的女性前来就诊，随访 2 型糖尿病。患者正在服用最大剂量的二甲双胍。尽管坚持服药和改变生活方式，但她的血红蛋白 A1c 为 7.7%。家族史显示她母亲有骨质疏松性骨折。血压为 134/86 mm Hg，脉搏为 72 次/分钟。BMI 为 33 kg/m²。体格检查未见异常。其他实验室检查结果正常。经过讨论，在患者的药物治疗方案中加入了钠-葡萄糖协同转运蛋白 2 抑制剂。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely additional effect of the newly prescribed medication?",
+    "zh": "以下哪项是新开药物最可能产生的附加作用？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased blood pressure",
+      "zh": "降低血压"
+    },
+    "B": {
+      "en": "Increased bone mineral density",
+      "zh": "增加骨密度"
+    },
+    "C": {
+      "en": "Increased fluid retention",
+      "zh": "增加体液潴留"
+    },
+    "D": {
+      "en": "Increased postprandial satiety",
+      "zh": "增加餐后饱腹感"
+    },
+    "E": {
+      "en": "Increased risk for fasting hypoglycemia",
+      "zh": "增加空腹低血糖的风险"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Sodium-glucose cotransporter-2 (SGLT-2) is a transport protein that reabsorbs 90% of filtered glucose in the proximal renal tubule. SGLT-2 inhibitors (eg, canagliflozin, dapagliflozin) are oral antidiabetic agents that decrease renal reabsorption of glucose and sodium, lowering blood glucose and causing OSMOTIC DIURESIS. Because of their diuretic effects, SGLT-2 inhibitors consequently:\n\n*   decrease blood pressure (due to intravascular volume reduction)\n*   lower mortality for HEART FAILURE (due to preload/afterload reduction)\n*   slow progression of DIABETIC NEPHROPATHY (due to natriuresis, which reduces glomerular hyperfiltration)\n\nIn elderly patients taking diuretics (eg, furosemide) and antihypertensives, SGLT-2 inhibitors should be used with caution due to concern for ORTHOSTATIC HYPOTENSION, which can lead to falls and acute kidney injury. Because of increased renal glucose excretion, patients typically experience a mild reduction in weight (often desirable) but may be at increased risk for genitourinary infections (eg, vaginal candidiasis).\n\n(Choice B) SGLT-2 inhibitors may decrease (not increase) bone density, possibly because decreased sodium reabsorption is associated with increased phosphate reabsorption in the proximal tubule, resulting in increased parathyroid hormone secretion and, subsequently, increased bone resorption.\n\n(Choice C) Thiazolidinediones (eg, pioglitazone) are antidiabetic medications associated with fluid retention. In contrast, SGLT-2 inhibitors induce a net loss of sodium and fluid.\n\n(Choice D) Glucagon-like peptide-1 (GLP-1) regulates glucose by slowing gastric emptying and increasing glucose-dependent insulin release. Pharmacologic GLP-1 agonists (eg, exenatide) increase postprandial satiety, which leads to weight loss, and are used in the treatment of type 2 diabetes mellitus.\n\n(Choice E) Because renal glucose filtration is proportional to blood glucose level (eg, less glucose is filtered if serum glucose is normal or low, such as in a fasting state), SGLT-2 inhibitors carry a low risk for hypoglycemia. In addition, they do not increase pancreatic insulin secretion, further reducing the risk for hypoglycemia.\n\nEducational objective:\nSodium-glucose cotransporter-2 inhibitors (eg, canagliflozin, dapagliflozin) decrease renal reabsorption of glucose and sodium. The resultant osmotic diuresis and natriuresis lead to reduced blood pressure, decreased mortality in heart failure, and slowed progression of diabetic nephropathy. {{exhibit_1}}",
+    "zh": "钠-葡萄糖协同转运蛋白 2 (SGLT-2) 是一种转运蛋白，在近端肾小管中重吸收 90% 的滤过葡萄糖。SGLT-2 抑制剂（例如，卡格列净、达格列净）是口服降糖药，可减少肾脏对葡萄糖和钠的重吸收，从而降低血糖并引起渗透性利尿。由于它们的利尿作用，SGLT-2 抑制剂因此：\n\n*   降低血压（由于血管内容量减少）\n*   降低心力衰竭的死亡率（由于前负荷/后负荷降低）\n*   延缓糖尿病肾病的进展（由于利钠，减少肾小球过度滤过）\n\n在服用利尿剂（例如，呋塞米）和降压药的老年患者中，应谨慎使用 SGLT-2 抑制剂，因为需要警惕体位性低血压，这可能导致跌倒和急性肾损伤。由于肾脏葡萄糖排泄增加，患者通常会经历轻微的体重减轻（通常是理想的），但可能会增加泌尿生殖系统感染（例如，阴道念珠菌病）的风险。\n\n（选项 B）SGLT-2 抑制剂可能会降低（而不是增加）骨密度，这可能是因为钠重吸收减少与近端小管中磷酸盐重吸收增加有关，导致甲状旁腺激素分泌增加，进而导致骨吸收增加。\n\n（选项 C）噻唑烷二酮类药物（例如，吡格列酮）是与体液潴留相关的降糖药。相比之下，SGLT-2 抑制剂会诱导钠和体液的净损失。\n\n（选项 D）胰高血糖素样肽-1 (GLP-1) 通过减缓胃排空和增加葡萄糖依赖性胰岛素释放来调节葡萄糖。药理学 GLP-1 激动剂（例如，艾塞那肽）可增加餐后饱腹感，从而导致体重减轻，并用于治疗 2 型糖尿病。\n\n（选项 E）由于肾脏葡萄糖滤过与血糖水平成正比（例如，如果血清葡萄糖正常或低，例如在空腹状态下，滤过的葡萄糖较少），SGLT-2 抑制剂发生低血糖的风险较低。此外，它们不会增加胰腺胰岛素分泌，从而进一步降低低血糖的风险。\n\n教学目标：\n钠-葡萄糖协同转运蛋白 2 抑制剂（例如，卡格列净、达格列净）可减少肾脏对葡萄糖和钠的重吸收。由此产生的渗透性利尿和利钠导致血压降低、心力衰竭死亡率降低和糖尿病肾病进展减缓。{{exhibit_1}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the mechanism of action and side effects of SGLT-2 inhibitors, specifically their effect on blood pressure. It requires understanding how these medications work in the kidneys to lower glucose and sodium levels. \n\nThe best approach is to recall that SGLT-2 inhibitors cause osmotic diuresis and natriuresis, leading to decreased blood volume and blood pressure. Rule out options that are inconsistent with this mechanism, such as increased fluid retention or increased risk of hypoglycemia.",
+    "zh": "这个问题考察了对 SGLT-2 抑制剂的作用机制和副作用的了解，特别是它们对血压的影响。它要求理解这些药物如何在肾脏中发挥作用以降低葡萄糖和钠的水平。\n\n最好的方法是回忆 SGLT-2 抑制剂引起渗透性利尿和利钠，导致血容量和血压降低。排除与此机制不符的选项，例如增加体液潴留或增加低血糖风险。"
+  },
+  "tags": "Type 2 diabetes mellitus; SGLT-2 inhibitors; Canagliflozin; Dapagliflozin; Blood pressure; Osmotic diuresis; Natriuresis; Diabetic nephropathy; Heart failure; Endocrinology",
+  "exhibit_1": "{{exhibit_2}}",
+  "category": "Endo",
+  "question_id": "15770",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\15770",
+  "extracted_at": "2025-11-05T14:01:16.572695",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:38:06.824005",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 12-year-old boy is brought to the office due to a rash on the posterior neck. The patient has had this rash intermittently over the past several years. During the last 2 months, the rash has become increasingly pruritic with the cooler weather, and the patient is constantly scratching his neck. The patient has no other medical conditions and takes no medications. Vital signs are normal. The posterior neck is shown in the image below: {{exhibit_1}}",
+    "zh": "一名12岁的男孩因后颈部皮疹到诊所就诊。过去几年，患者间断出现这种皮疹。在过去的2个月里，随着天气转凉，皮疹变得越来越痒，患者一直在抓挠脖子。患者没有其他疾病，也没有服用药物。生命体征正常。后颈部的图片如下所示：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's rash?",
+    "zh": "以下哪项最可能是该患者皮疹的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Cutaneous infection with mites",
+      "zh": "螨虫引起的皮肤感染"
+    },
+    "B": {
+      "en": "Cutaneous infection with *Trichophyton rubrum*",
+      "zh": "红色毛癣菌引起的皮肤感染"
+    },
+    "C": {
+      "en": "Genetically mediated skin barrier dysfunction",
+      "zh": "遗传介导的皮肤屏障功能障碍"
+    },
+    "D": {
+      "en": "Hormone-mediated keratinocyte and dermal fibroblast proliferation",
+      "zh": "激素介导的角质形成细胞和真皮成纤维细胞增生"
+    },
+    "E": {
+      "en": "Proliferation of atypical keratinocytes due to *p53* mutation",
+      "zh": "由于*p53*基因突变引起的非典型角质形成细胞增生"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with a pruritic, lichenified plaque on the posterior neck most likely has CHRONIC ATOPIC DERMATITIS (eczema), a common inflammatory condition that begins in infancy or early childhood and often flares with low humidity (eg, winter months) or excessive heat. The pathogenesis of atopic dermatitis is multifactorial and includes immune dysfunction (eg, a Th2-skewed response) and genetically mediated epidermal barrier dysfunction. Of the epidermal components, *filaggrin* is thought to play a key role in maintaining skin barrier function. Loss-of-function mutations result in decreased natural moisturizing factors, impaired keratin filament aggregation, and decreased tight junction expression. These changes result in loss of epidermal water content, increased permeability to environmental allergens/irritants, and skin inflammation.\n\nClinical findings in acute atopic dermatitis include intensely pruritic, dry, erythematous papules and/or vesicles; histologic findings include spongiosis (ie, epidermal intercellular edema), as well as T-cell, eosinophil, and mast cell infiltration. In contrast, chronic lesions present with lichenified plaques due to repetitive scratching, corresponding to regions of hyperkeratosis (epidermal thickening) with elongated rete ridges.\n\n(Choice A) Cutaneous infection with the mite *Sarcoptes scabiei* causes scabies, which manifests as intensely pruritic, excoriated papules (not lichenified plaques) in the finger webs, wrists, axillae, and genitalia. When left untreated, the rash spreads and does not follow an intermittent course, as in this patient.\n\n(Choice B) *Trichophyton rubrum* causes tinea corporis, which presents as pruritic, scaly, annular patches, not lichenified plaques. Untreated infection usually results in expansion or spread of the rash.\n\n(Choice D) Insulin-mediated keratinocyte and dermal fibroblast proliferation occurs in acanthosis nigricans, a rash commonly involving the posterior neck that is typically seen in insulin-resistant states (eg, obesity, type 2 diabetes mellitus). In contrast to the marked pruritus seen in this case, acanthosis nigricans is asymptomatic.\n\n(Choice E) Mutation of the *p53* tumor suppressor gene in keratinocytes (eg, from chronic sun exposure) can lead to development of actinic keratosis, the proliferation of atypical keratinocytes within the epidermis. Although this condition causes hyperkeratotic papules or plaques on sun-exposed areas, lesions are typically small (<1 cm) and occur mostly in older adults.",
+    "zh": "该患者后颈部出现瘙痒性、苔藓样斑块，最有可能患有慢性特应性皮炎（湿疹），这是一种常见的炎症性疾病，始于婴儿期或幼儿期，通常在低湿度（如冬季）或过热时加重。特应性皮炎的发病机制是多因素的，包括免疫功能障碍（例如，Th2细胞反应偏移）和遗传介导的表皮屏障功能障碍。在表皮成分中，*聚丝蛋白*被认为在维持皮肤屏障功能方面起着关键作用。功能缺失突变导致天然保湿因子减少，角蛋白丝聚集受损，以及紧密连接表达降低。这些变化导致表皮含水量降低，对环境过敏原/刺激物的通透性增加，以及皮肤炎症。\n\n急性特应性皮炎的临床表现包括剧烈瘙痒的、干燥的、红斑性丘疹和/或水疱；组织学发现包括海绵状变性（即，表皮细胞间水肿），以及T细胞、嗜酸性粒细胞和肥大细胞浸润。相比之下，慢性病变表现为苔藓样斑块，这是由于反复抓挠引起的，与角化过度（表皮增厚）伴有伸长的钉突有关。\n\n（选项A）螨虫*疥螨*引起的皮肤感染会导致疥疮，表现为指间、腕部、腋窝和生殖器部位的剧烈瘙痒、抓痕丘疹（而非苔藓样斑块）。如果不治疗，皮疹会扩散，并且不像该患者那样呈间歇性病程。\n\n（选项B）红色毛癣菌引起体癣，表现为瘙痒性、鳞屑性、环状斑片，而非苔藓样斑块。未经治疗的感染通常会导致皮疹的扩大或扩散。\n\n（选项D）胰岛素介导的角质形成细胞和真皮成纤维细胞增生发生在黑棘皮病中，这是一种常累及后颈部的皮疹，通常见于胰岛素抵抗状态（例如，肥胖、2型糖尿病）。与本例中明显的瘙痒不同，黑棘皮病无症状。\n\n（选项E）角质形成细胞中*p53*抑癌基因的突变（例如，由长期阳光照射引起）可导致光化性角化病的发生，即表皮内非典型角质形成细胞的增生。虽然这种情况会导致阳光照射部位出现角化过度丘疹或斑块，但病变通常很小（<1厘米），并且主要发生在老年人中。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the etiology and presentation of atopic dermatitis, focusing on the role of genetic factors and skin barrier dysfunction. It also requires differentiating atopic dermatitis from other common skin conditions based on clinical features.\n\nTo solve this question, recognize the key features of atopic dermatitis (pruritic, lichenified plaque, intermittent course) and associate them with genetically mediated skin barrier dysfunction. Rule out other options based on their distinct clinical presentations and etiologies.",
+    "zh": "本题考察对特应性皮炎病因和表现的了解，重点关注遗传因素和皮肤屏障功能障碍的作用。它还需要根据临床特征将特应性皮炎与其他常见皮肤病区分开来。\n\n为了解决这个问题，需要认识到特应性皮炎的关键特征（瘙痒性、苔藓样斑块、间歇性病程），并将它们与遗传介导的皮肤屏障功能障碍联系起来。根据其他选项的不同临床表现和病因，排除其他选项。"
+  },
+  "tags": "Atopic dermatitis; Eczema; Skin barrier dysfunction; Filaggrin; Pruritus; Lichenification; Dermatology",
+  "category": "Derma",
+  "question_id": "15411",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Derma 23\\15411",
+  "extracted_at": "2025-11-05T13:53:15.315866",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:34:01.180213",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

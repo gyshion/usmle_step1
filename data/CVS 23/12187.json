@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old man is evaluated in the emergency department due to fever, night sweats, and chills over the last several days. The patient has been using intravenous drugs recently as he is \"stressed out.\" He has otherwise been in good health with no medical problems. Temperature is 38.3 C (101 F), blood pressure is 120/80 mm Hg, and pulse is 105/min and regular. Further evaluation reveals aortic valve endocarditis with an intracardiac abscess and small fistula formation between the aortic root and right ventricle. Doppler ultrasound interrogation of the fistula will most likely reveal which of the following blood flow patterns? {{exhibit_1}}",
+    "zh": "一名32岁男性因最近几天发热、盗汗和寒战在急诊科就诊。患者最近一直在使用静脉注射毒品，因为他“压力很大”。他此前身体健康，无任何医疗问题。体温38.3°C (101°F)，血压120/80 mmHg，脉搏105次/分且规律。进一步评估显示主动脉瓣心内膜炎，伴有心内脓肿以及主动脉根部和右心室之间的小瘘管形成。多普勒超声检查该瘘管最有可能显示以下哪种血流模式？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Doppler ultrasound interrogation of the fistula will most likely reveal which of the following blood flow patterns?",
+    "zh": "多普勒超声检查该瘘管最有可能显示以下哪种血流模式？"
+  },
+  "options": {
+    "A": {
+      "en": "Flow from the aortic root to the right ventricle continuously",
+      "zh": "血流从主动脉根部持续流向右心室"
+    },
+    "B": {
+      "en": "Flow from the aortic root to the right ventricle only in diastole",
+      "zh": "血流仅在舒张期从主动脉根部流向右心室"
+    },
+    "C": {
+      "en": "Flow from the aortic root to the right ventricle only in systole",
+      "zh": "血流仅在收缩期从主动脉根部流向右心室"
+    },
+    "D": {
+      "en": "Flow from the right ventricle to the aortic root continuously",
+      "zh": "血流从右心室持续流向主动脉根部"
+    },
+    "E": {
+      "en": "Flow from the right ventricle to the aortic root only in diastole",
+      "zh": "血流仅在舒张期从右心室流向主动脉根部"
+    },
+    "F": {
+      "en": "Flow from the right ventricle to the aortic root only in systole",
+      "zh": "血流仅在收缩期从右心室流向主动脉根部"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient with aortic valve endocarditis has developed an intracardiac fistula between the aortic root and right ventricle. Aortocavitary fistulas are an uncommon complication of bacterial endocarditis caused by extension of the infection from the valve to the adjacent myocardium.\n\nEchocardiography with Doppler analysis can be used to detect and quantify shunts in patients with intracardiac fistulas. During the normal cardiac cycle, central aortic pressure (eg, 120/80 mm Hg) is higher than right ventricular pressure (eg, 25/5 mm Hg) during systole and diastole. Consequently, in patients with aortocavitary fistula, Doppler interrogation will most likely demonstrate continuous blood flow from the higher-pressure aortic root to the lower-pressure right ventricle (left-to-right cardiac shunt) (Choices B and C). This can lead to a continuous murmur heard on cardiac auscultation.\n\n(Choices D, E, and F) Pressure in the aortic root is always greater than in the right ventricle throughout systole and diastole; therefore, blood flow from the right ventricle to the aortic root would not be expected in this patient.\n\nEducational objective:\nDuring the normal cardiac cycle, central aortic pressure is higher than right ventricular pressure during systole and diastole. Consequently, an intracardiac fistula between the aortic root and right ventricle will most likely demonstrate a left-to-right cardiac shunt as blood continuously flows from the aortic root (high pressure) to the right ventricle (low pressure).",
+    "zh": "这名患有主动脉瓣心内膜炎的患者发生了主动脉根部和右心室之间的心内瘘。主动脉腔瘘是细菌性心内膜炎的一种罕见并发症，由感染从瓣膜蔓延到邻近的心肌引起。\n\n多普勒分析的超声心动图可用于检测和量化心内瘘患者的分流。在正常心脏周期中，中心主动脉压力（例如，120/80 mmHg）在收缩期和舒张期均高于右心室压力（例如，25/5 mmHg）。因此，在患有主动脉腔瘘的患者中，多普勒检查最有可能显示血流从高压主动脉根部持续流向低压右心室（左向右心分流）（选项B和C）。这可能导致在心脏听诊时听到连续性杂音。\n\n（选项D、E和F）在整个收缩期和舒张期，主动脉根部的压力始终大于右心室；因此，在这种患者中，不应出现血流从右心室流向主动脉根部的情况。\n\n教学目标：\n在正常心脏周期中，中心主动脉压力在收缩期和舒张期均高于右心室压力。因此，主动脉根部和右心室之间的心内瘘最有可能表现为左向右心分流，因为血液持续从主动脉根部（高压）流向右心室（低压）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of aortocavitary fistulas, specifically the direction of blood flow in a fistula between the aortic root and right ventricle. It requires understanding of pressure gradients in the heart during systole and diastole.\n\nThe key to solving this question is recognizing that blood flows from high pressure to low pressure. Since aortic pressure is higher than right ventricular pressure throughout the cardiac cycle, blood will flow continuously from the aorta to the right ventricle in the presence of a fistula.",
+    "zh": "此问题考察对主动脉腔瘘的了解，特别是主动脉根部和右心室之间瘘管中的血流方向。这需要理解心脏在收缩期和舒张期内的压力梯度。\n\n解决此问题的关键在于认识到血液从高压流向低压。由于在整个心脏周期中，主动脉压力均高于右心室压力，因此在存在瘘管的情况下，血液将持续从主动脉流向右心室。"
+  },
+  "tags": "Aortocavitary fistula; Bacterial endocarditis; Echocardiography; Doppler ultrasound; Cardiac shunt; Aortic root; Right ventricle; Cardiology; Infectious disease",
+  "category": "CVS",
+  "question_id": "12187",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\12187",
+  "extracted_at": "2025-11-05T11:52:50.142540",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:44:50.276481",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 1-month-old boy is brought to the emergency department during winter with cough and difficulty breathing. He has had rhinorrhea, cough, and congestion for the past 3 days. Today, the patient began breathing harder and faster with increased cough. Temperature is 37.8 C (100 F) and respirations are 68/min. Oxygen saturation is 91%. The patient is alert and awake and has subcostal and suprasternal retractions. Mucous membranes are moist, and the anterior fontanelle is open and flat. Physical examination reveals diffuse expiratory wheezes and scattered rales.",
+    "zh": "一名1个月大的男孩在冬季因咳嗽和呼吸困难被带到急诊科。他过去3天有流涕、咳嗽和鼻塞症状。今天，患者开始呼吸更费力、更快，咳嗽加重。体温为37.8°C (100°F)，呼吸频率为68次/分钟。氧饱和度为91%。患者清醒，有肋下和胸骨上凹陷。黏膜湿润，前囟门开放且平坦。体格检查显示弥漫性呼气性喘鸣和散在的啰音。"
+  },
+  "question": {
+    "en": "Which of the following pathogens is most likely causing this patient's condition?",
+    "zh": "以下哪种病原体最有可能导致该患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "Adenovirus",
+      "zh": "腺病毒"
+    },
+    "B": {
+      "en": "Bordetella pertussis",
+      "zh": "百日咳博德特氏菌"
+    },
+    "C": {
+      "en": "Mycoplasma pneumoniae",
+      "zh": "肺炎支原体"
+    },
+    "D": {
+      "en": "Parainfluenza virus",
+      "zh": "副流感病毒"
+    },
+    "E": {
+      "en": "Respiratory syncytial virus",
+      "zh": "呼吸道合胞病毒"
+    },
+    "F": {
+      "en": "Streptococcus pneumoniae",
+      "zh": "肺炎链球菌"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This infant with worsening cough and respiratory distress has diffuse wheezing and crackles, findings suggestive of bronchiolitis. Bronchiolitis is a lower respiratory tract infection that typically affects children age <2 years, usually during the fall and winter. The most common cause is respiratory syncytial virus (RSV).\n\nInitial symptoms include rhinorrhea and congestion, followed by cough, low-grade fever, and increased work of breathing. Classic findings include hypoxemia, tachypnea, and retractions with diffuse wheezes and crackles. Although illness severity typically peaks at 3-5 days, cough may last several weeks.\n\nIn older infants and young children, bronchiolitis is typically a mild, self-limited illness. However, in premature or young (age <2 months) infants, symptoms may be severe (eg, cyanosis, poor perfusion, poor feeding) and lead to apnea and/or respiratory failure.\n\nDiagnosis of bronchiolitis is clinical, and treatment is supportive (eg, supplemental oxygen, nasal suctioning).\n\n(Choices A and D) Adenovirus most commonly causes pharyngitis with conjunctivitis and fever. Parainfluenza virus is the most common cause of croup (laryngotracheobronchitis), which presents with a barky, seal-like cough and inspiratory stridor. Both viruses cause bronchiolitis far less commonly than RSV does.\n\n(Choice B) Bordetella pertussis infection in infants classically causes upper respiratory symptoms (eg, rhinorrhea, congestion) with progression to a whooping cough and bouts of coughing and posttussive emesis. In contrast to this patient's examination, the lungs are usually clear to auscultation.\n\n(Choice C) Pneumonia caused by Mycoplasma pneumoniae typically presents with fever, cough, and rales and wheezing on examination. However, M pneumoniae usually affects children age >5 years and is a rare cause of bronchiolitis.\n\n(Choice F) Streptococcus pneumoniae is the most common cause of lobar pneumonia in children and presents with fever and cough. However, examination typically reveals focal rales, not diffuse findings, as seen in this patient.\n\nEducational objective:\nViral bronchiolitis is most commonly caused by respiratory syncytial virus and presents with low-grade fever, cough, and respiratory distress (eg, tachypnea, retractions) in children age <2 years. Examination typically shows diffuse wheezes and/or crackles.",
+    "zh": "这个咳嗽和呼吸窘迫加重的婴儿有弥漫性喘鸣和啰音，这些发现提示毛细支气管炎。毛细支气管炎是一种下呼吸道感染，通常影响年龄<2岁的儿童，通常在秋冬季节发生。最常见的原因是呼吸道合胞病毒 (RSV)。\n\n最初的症状包括流涕和鼻塞，然后是咳嗽、低烧和呼吸费力。典型发现包括低氧血症、呼吸急促和凹陷，伴有弥漫性喘鸣和啰音。尽管疾病严重程度通常在3-5天达到高峰，但咳嗽可能会持续数周。\n\n在较大的婴儿和幼儿中，毛细支气管炎通常是一种轻度、自限性疾病。然而，在早产儿或幼儿（年龄<2个月）中，症状可能很严重（例如，发绀、灌注不良、喂养不良），并导致呼吸暂停和/或呼吸衰竭。\n\n毛细支气管炎的诊断是临床性的，治疗是支持性的（例如，补充氧气、鼻腔吸痰）。\n\n（选项 A 和 D）腺病毒最常引起咽炎，伴有结膜炎和发烧。副流感病毒是哮吼（喉气管支气管炎）的最常见原因，其表现为犬吠样咳嗽和吸气性喘鸣。这两种病毒引起毛细支气管炎的频率远低于 RSV。\n\n（选项 B）婴儿中百日咳博德特氏菌感染通常会导致上呼吸道症状（例如，流涕、鼻塞），并进展为百日咳、阵发性咳嗽和咳嗽后呕吐。与该患者的检查相反，肺通常在听诊时清晰。\n\n（选项 C）肺炎支原体引起的肺炎通常表现为发烧、咳嗽，并在检查时出现啰音和喘鸣。然而，肺炎支原体通常影响年龄>5岁的儿童，并且是毛细支气管炎的罕见原因。\n\n（选项 F）肺炎链球菌是儿童肺叶性肺炎最常见的原因，表现为发烧和咳嗽。然而，检查通常显示局灶性啰音，而不是该患者所见的弥漫性发现。\n\n教育目标：\n病毒性毛细支气管炎最常由呼吸道合胞病毒引起，表现为年龄<2岁的儿童出现低烧、咳嗽和呼吸窘迫（例如，呼吸急促、凹陷）。检查通常显示弥漫性喘鸣和/或啰音。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of bronchiolitis, its common causative agent (RSV), and its typical presentation in infants. It also requires differentiating bronchiolitis from other respiratory infections based on clinical findings.\n\nTo solve this question, recognize the signs and symptoms of bronchiolitis in a young infant, consider the most common etiology, and rule out other potential causes based on their distinct clinical features.",
+    "zh": "这个问题测试了对毛细支气管炎、其常见病原体 (RSV) 及其在婴儿中的典型表现的了解。它还需要根据临床发现区分毛细支气管炎与其他呼吸道感染。\n\n要解决这个问题，需要识别年轻婴儿毛细支气管炎的体征和症状，考虑最常见的病因，并根据其独特的临床特征排除其他潜在原因。"
+  },
+  "tags": "Bronchiolitis; Respiratory syncytial virus; RSV; Pediatric respiratory infection; Wheezing; Rales; Tachypnea; Retractions; Viral infection; Lower respiratory tract infection",
+  "category": "Micro",
+  "question_id": "1668",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\1668",
+  "extracted_at": "2025-11-05T15:01:42.651334",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:10:02.380490",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

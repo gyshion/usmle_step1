@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A hospital wants to estimate the prevalence of diabetic nephropathy in the surrounding population of adults with type 2 diabetes. Kidney biopsy samples are obtained from 500 adult patients with diabetes who receive care at the hospital. The samples are then interpreted by 10 different pathologists, 5 of whom work at the hospital and 5 of whom work at nearby institutions. A preliminary analysis shows that the pathologists who work for the hospital are 3 times more likely to interpret the biopsy samples as diabetic nephropathy compared to those who do not work for the hospital.",
+    "zh": "一家医院希望估计周围成人2型糖尿病患者中糖尿病肾病的患病率。从在该医院接受治疗的 500 名糖尿病成人患者中获得肾活检样本。然后由 10 位不同的病理学家解读样本，其中 5 位在该医院工作，5 位在附近的机构工作。初步分析显示，在该医院工作的病理学家将活检样本解读为糖尿病肾病的可能性，是未在该医院工作的病理学家的 3 倍。"
+  },
+  "question": {
+    "en": "Which of the following most likely explains this difference in interpretation?",
+    "zh": "以下哪项最有可能解释这种解读差异？"
+  },
+  "options": {
+    "A": {
+      "en": "Confounding",
+      "zh": "混杂"
+    },
+    "B": {
+      "en": "Lead-time bias",
+      "zh": "提前期偏倚"
+    },
+    "C": {
+      "en": "Observer bias",
+      "zh": "观察者偏倚"
+    },
+    "D": {
+      "en": "Recall bias",
+      "zh": "回忆偏倚"
+    },
+    "E": {
+      "en": "Selection bias",
+      "zh": "选择偏倚"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "OBSERVER BIAS (also known as expectancy bias) occurs when investigators MISCLASSIFY DATA due to preconceived expectations or PRIOR KNOWLEDGE concerning the study or its participants. This type of bias is particularly important when outcomes are SUBJECTIVE (ie, involve personal interpretation of clinical, microscopic, or radiographic findings). In this case, the pathologists who work at the hospital where the study is being conducted may know that the study is investigating diabetic nephropathy, or they may have access to additional medical records that indicate diabetes status. Conversely, the pathologists at other institutions are more likely to be blinded to the study's objectives and the patients' medical history.",
+    "zh": "观察者偏倚（也称为期望偏倚）是指研究者由于先入为主的期望或关于研究或其参与者的先前知识而对数据进行错误分类时发生的情况。当结果是主观的（即涉及对临床、显微或放射学发现的个人解读）时，这种偏倚尤为重要。在这种情况下，在该研究进行所在的医院工作的病理学家可能知道该研究正在调查糖尿病肾病，或者他们可能能够访问表明糖尿病状况的额外病历。相反，其他机构的病理学家更有可能对研究的目标和患者的病史一无所知。"
+  },
+  "summary": {
+    "en": "1) Types of bias 2) Observer bias occurs when investigators misclassify data due to preconceived expectations or prior knowledge.",
+    "zh": "1) 偏倚的类型 2) 当研究者由于先入为主的期望或先前的知识而错误分类数据时，就会发生观察者偏倚。"
+  },
+  "tags": "Bias; Observer bias; Confounding; Lead-time bias; Recall bias; Selection bias",
+  "category": "Bio",
+  "question_id": "1275",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1275",
+  "extracted_at": "2025-11-05T10:58:39.583323",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:20:15.772411",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

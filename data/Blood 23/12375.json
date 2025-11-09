@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 14-year-old girl with sickle cell disease is admitted to the hospital due to fever for 2 days. Temperature is 38 C (100.4 F), blood pressure is 120/80 mm Hg, pulse is 120/min, and respirations are 18/min. Examination shows no abnormalities. Laboratory studies reveal: \n\nComplete blood count\nHemoglobin 10 g/dL\nMean corpuscular volume 86 μm³\nReticulocytes 2%\nPlatelets 240,000/mm³\nLeukocytes 14,000/mm³\n\nBlood cultures are obtained, and appropriate pharmacotherapy is initiated. Her peripheral blood smear is shown in the exhibit {{exhibit_1}}. The smear findings indicated by the arrow most likely reflect which of the following processes?",
+    "zh": "一名患有镰状细胞病（SCD）的14岁女孩因发烧两天入院。体温38摄氏度（100.4华氏度），血压120/80毫米汞柱，脉搏120次/分钟，呼吸18次/分钟。检查未见异常。实验室研究显示：\n\n全血细胞计数\n血红蛋白10克/分升\n平均红细胞体积86 μm³\n网织红细胞2%\n血小板240,000/mm³\n白细胞14,000/mm³\n\n已进行血培养，并开始适当的药物治疗。她的外周血涂片显示在图{{exhibit_1}}中。箭头所示的涂片发现最有可能反映以下哪种过程？"
+  },
+  "question": {
+    "en": "The smear findings indicated by the arrow most likely reflect which of the following processes?",
+    "zh": "箭头所示的涂片发现最有可能反映以下哪种过程？"
+  },
+  "options": {
+    "A": {
+      "en": "Bone marrow suppression",
+      "zh": "骨髓抑制"
+    },
+    "B": {
+      "en": "Intracellular parasitic infection",
+      "zh": "细胞内寄生虫感染"
+    },
+    "C": {
+      "en": "Leukemic infiltration",
+      "zh": "白血病浸润"
+    },
+    "D": {
+      "en": "Splenic dysfunction",
+      "zh": "脾功能障碍"
+    },
+    "E": {
+      "en": "Toxic granulations",
+      "zh": "中毒颗粒"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's peripheral smear shows a Howell-Jolly body, a dark-purple remnant of a red blood cell (RBC) nucleus that is normally removed by the spleen. In patients with asplenia, which can be anatomic (eg, splenectomy) or functional (eg, sickle cell disease [SCD]), Howell-Jolly bodies are not removed from circulation and are therefore present on peripheral smear. This patient also has sickle-shaped RBCs and polychromasia (indicative of reticulocytosis) on peripheral smear, consistent with her underlying SCD.\n\nA point mutation in the beta-globin gene causes sickling of RBCs and the classic manifestations of SCD, including hemolytic anemia and vasoocclusive episodes. Recurrent infarction from the poorly deformable RBCs in the splenic vasculature leads to progressive splenic dysfunction with functional asplenia by age 5 in most patients. Because splenic macrophages are critical in the immune response against encapsulated bacteria (eg, Streptococcus pneumoniae, Haemophilus influenzae, Neisseria meningitidis), patients with SCD are at increased risk of potentially fatal infection. Therefore, fever (with or without leukocytosis) in the setting of SCD warrants hospitalization and empiric antibiotic therapy.\n\n(Choice A) Bone marrow suppression can occur in patients with SCD and parvovirus (eg, aplastic crisis). Expected laboratory findings include acute anemia and absent reticulocytes. This patient's hemoglobin level and mild reticulocytosis (due to chronic hemolysis) are typical of SCD at baseline.\n\n(Choice B) Unlike in this patient, peripheral smear abnormalities with intraerythrocytic parasites include trophozoites (ring forms) in malaria and babesiosis. In addition, both conditions would present with anemia relative to the patient's baseline.\n\n(Choice C) Peripheral smear in leukemia shows circulating blasts, immature cells with a large nucleus and scant cytoplasm. In addition, abnormalities in two cell lines (eg, leukocytosis and thrombocytopenia) are usually seen.\n\n(Choice E) Toxic granulations are purple cytoplasmic granules in the periphery of neutrophils (not RBCs) that are typically seen with infection.\n\nEducational objective:\nHowell-Jolly bodies on peripheral smear reflect splenic dysfunction, which occurs in sickle cell disease due to recurrent infarction of the splenic vasculature. Functional asplenia increases the risk of invasive infection with encapsulated organisms. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "该患者的外周血涂片显示Howell-Jolly小体，这是一种暗紫色的红细胞（RBC）核残余，通常由脾脏移除。在无脾症患者中，可能为解剖学（如脾切除术）或功能性（如镰状细胞病[SCD]），Howell-Jolly小体不会从循环中移除，因此出现在外周血涂片中。该患者在外周血涂片中还存在镰刀形红细胞和多染性（提示网织红细胞增多），这与其潜在的SCD一致。\n\nβ-珠蛋白基因中的点突变导致红细胞镰变和SCD的经典表现，包括溶血性贫血和血管阻塞事件。由于脾血管中变形能力差的红细胞导致的反复梗塞导致进行性脾功能障碍，大多数患者在5岁时出现功能性无脾症。由于脾巨噬细胞在抵抗包膜细菌（例如，肺炎链球菌、流感嗜血杆菌、脑膜炎奈瑟菌）的免疫反应中至关重要，因此SCD患者发生潜在致命感染的风险增加。因此，在SCD背景下发烧（伴或不伴白细胞增多）需要住院和经验性抗生素治疗。\n\n（选项A）骨髓抑制可发生在SCD和细小病毒感染患者中（例如，再生障碍性危象）。预期的实验室结果包括急性贫血和网织红细胞缺失。该患者的血红蛋白水平和轻度网织红细胞增多（由于慢性溶血）是SCD的典型基线表现。\n\n（选项B）与该患者不同，伴有红细胞内寄生虫的外周血涂片异常包括疟疾和巴贝虫病中的滋养体（环形体）。此外，这两种情况都会出现相对于患者基线的贫血。\n\n（选项C）白血病的外周血涂片显示循环母细胞，即具有大核和少量细胞质的未成熟细胞。此外，通常可见两条细胞系异常（例如，白细胞增多和血小板减少症）。\n\n（选项E）中毒颗粒是中性粒细胞（非红细胞）外周的紫色细胞质颗粒，通常见于感染。\n\n教育目标：\n外周血涂片上的Howell-Jolly小体反映脾功能障碍，这发生在镰状细胞病中，由于脾血管的反复梗塞所致。功能性无脾症增加了侵袭性感染包膜生物的风险。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of sickle cell disease, specifically the splenic dysfunction that leads to Howell-Jolly bodies on peripheral smear and increased risk of infection with encapsulated organisms.\n\nTo solve this question, recognize the Howell-Jolly body on the peripheral smear and associate it with splenic dysfunction, a common complication of sickle cell disease. Consider the patient's history of sickle cell disease and the implications of functional asplenia.",
+    "zh": "这个问题考察了对镰状细胞病病理生理学的了解，特别是导致外周血涂片上出现Howell-Jolly小体和增加包膜生物感染风险的脾功能障碍。\n\n要解决这个问题，需要识别外周血涂片上的Howell-Jolly小体，并将其与脾功能障碍联系起来，这是镰状细胞病常见的并发症。考虑患者的镰状细胞病病史以及功能性无脾症的含义。"
+  },
+  "tags": "Sickle cell disease; Splenic dysfunction; Howell-Jolly bodies; Peripheral smear; Functional asplenia; Encapsulated bacteria; Infection risk; Hematology; Internal medicine",
+  "category": "Blood",
+  "question_id": "12375",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\12375",
+  "extracted_at": "2025-11-05T11:20:10.798647",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:26:23.968550",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

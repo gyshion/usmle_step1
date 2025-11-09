@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old man comes to the emergency department due to a 2-day history of progressive difficulty walking and tingling in his feet. He says that his feet feel \"like they've gone to sleep\" and states that he tripped while walking this morning. Medical history is unremarkable except for an episode of acute diarrhea 2 weeks ago that resolved spontaneously. The patient takes no medications. He drinks 1-2 alcoholic beverages daily and does not use tobacco products or illicit drugs. Vital signs are within normal limits. Physical examination shows decreased muscular strength in the lower extremities bilaterally with absent deep tendon reflexes.",
+    "zh": "一名32岁男性因2天来进行性行走困难和足部麻刺感就诊于急诊科。他说他的脚感觉“好像睡着了”，并表示今天早上走路时绊倒了。病史无特殊，除了2周前曾出现一过性急性腹泻，已自愈。患者未服用任何药物。他每天喝1-2杯含酒精饮料，不使用烟草或违禁药物。生命体征在正常范围内。体格检查显示双下肢肌肉力量减弱，深腱反射消失。"
+  },
+  "question": {
+    "en": "Which of the following agents is most likely associated with this patient's condition?",
+    "zh": "以下哪种病原体最有可能与该患者的病情相关？"
+  },
+  "options": {
+    "A": {
+      "en": "Campylobacter jejuni",
+      "zh": "空肠弯曲菌"
+    },
+    "B": {
+      "en": "Rotavirus",
+      "zh": "轮状病毒"
+    },
+    "C": {
+      "en": "Salmonella",
+      "zh": "沙门氏菌"
+    },
+    "D": {
+      "en": "Shiga toxin-producing Escherichia coli",
+      "zh": "产志贺毒素大肠杆菌"
+    },
+    "E": {
+      "en": "Shigella",
+      "zh": "志贺氏菌"
+    },
+    "F": {
+      "en": "Zika virus",
+      "zh": "寨卡病毒"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient with progressive lower extremity weakness, depressed deep tendon reflexes, and paresthesias has GUILLAIN-BARRÉ SYNDROME (GBS). GBS represents a group of immune-mediated demyelinating polyneuropathies that are thought to be caused by MOLECULAR MIMICRY. An antecedent event (typically an infection) provokes an immune response that cross-reacts with the Schwann cells and myelin sheath of the peripheral nerves. The myelin sheath is stripped from the axon, leading to loss of neuronal conductivity and axonal degeneration. Up to one-third of GBS cases are preceded by Campylobacter jejuni infection, a common cause of acute (sometimes bloody) DIARRHEA. Less common antecedent infections include upper respiratory viral illnesses, Epstein-Barr virus, cytomegalovirus, Zika virus, and HIV.\n\nPatients with GBS experience SYMMETRIC, ASCENDING WEAKNESS that typically begins in the legs and progresses to flaccid paralysis and respiratory failure. Decreased or absent deep tendon reflexes, paresthesias, pain (often of the back), and dysautonomia are common.\n\n(Choices B, C, D, and E) Rotavirus, Salmonella, Shiga toxin-producing Escherichia coli, and Shigella are all important causes of diarrhea but are not associated with GBS. Both Shiga toxin-producing E. coli and Shigella can cause bloody diarrhea and are associated with hemolytic uremic syndrome. Salmonella typically causes nonbloody diarrhea and may lead to bacteremia, particularly in an asplenic patient. Rotavirus, most commonly seen in children, causes nonbloody diarrhea and can lead to gastrointestinal obstruction due to small bowel intussusception.\n\n(Choice F) Zika virus is associated with GBS; however, patients with Zika virus typically present with a pruritic maculopapular rash, low-grade fever, arthralgias, and conjunctivitis rather than diarrhea.\n\nEducational objective:\nGuillain-Barré syndrome represents a group of immune-mediated polyneuropathies that are thought to be caused by molecular mimicry, leading to demyelination of the peripheral nerves. Up to one-third of GBS cases are preceded by a Campylobacter jejuni infection, which is a common cause of acute diarrheal illness.",
+    "zh": "该患者出现进行性下肢无力、深腱反射减弱和感觉异常，患有格林-巴利综合征（GBS）。GBS代表一组免疫介导的脱髓鞘性多发性神经病，被认为是由分子模拟引起的。一个先发事件（通常是感染）引发免疫反应，该反应与周围神经的许旺细胞和髓鞘发生交叉反应。髓鞘从轴突剥离，导致神经传导丧失和轴突变性。高达三分之一的GBS病例之前有空肠弯曲菌感染，这是急性（有时是血性）腹泻的常见原因。不太常见的先发感染包括上呼吸道病毒感染、EB病毒、巨细胞病毒、寨卡病毒和HIV。\n\nGBS患者会出现对称性、上升性无力，通常从腿部开始，进展到弛缓性麻痹和呼吸衰竭。深腱反射减弱或消失、感觉异常、疼痛（通常是背痛）和自主神经功能障碍是常见的。\n\n（选项B、C、D和E）轮状病毒、沙门氏菌、产志贺毒素大肠杆菌和志贺氏菌都是腹泻的重要病因，但与GBS无关。产志贺毒素大肠杆菌和志贺氏菌均可引起血性腹泻，并与溶血性尿毒症综合征相关。沙门氏菌通常引起非血性腹泻，并可能导致菌血症，特别是在脾切除患者中。轮状病毒最常见于儿童，引起非血性腹泻，并可能由于小肠套叠而导致胃肠道梗阻。\n\n（选项F）寨卡病毒与GBS有关；然而，寨卡病毒患者通常表现为瘙痒性斑丘疹、低烧、关节痛和结膜炎，而不是腹泻。\n\n教学目标：\n格林-巴利综合征代表一组免疫介导的多发性神经病，被认为是由分子模拟引起的，导致周围神经脱髓鞘。高达三分之一的GBS病例之前有空肠弯曲菌感染，这是急性腹泻的常见原因。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of Guillain-Barré syndrome, its common antecedent triggers, pathophysiology, and clinical manifestations. It specifically assesses the association between Campylobacter jejuni infection and the development of GBS.\n\nTo solve this question, one must recognize the classic presentation of GBS, including ascending weakness, absent deep tendon reflexes, and paresthesias, and then recall the most common infectious trigger for this condition, which is Campylobacter jejuni.",
+    "zh": "此题考查对格林-巴利综合征的理解，包括其常见的先发诱因、病理生理学和临床表现。它特别评估了空肠弯曲菌感染与GBS发展的关联。\n\n要解决这个问题，必须认识到GBS的典型表现，包括上升性无力、深腱反射消失和感觉异常，然后回忆起该病最常见的感染诱因，即空肠弯曲菌。"
+  },
+  "tags": "Guillain-Barré syndrome; Campylobacter jejuni; Molecular mimicry; Demyelinating polyneuropathy; Ascending weakness; Absent deep tendon reflexes; Paresthesias; Infectious diseases; Neurology",
+  "category": "Neuro",
+  "question_id": "1601",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\1601",
+  "extracted_at": "2025-11-05T19:35:45.420353",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:35:22.162594",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

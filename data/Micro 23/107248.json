@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A previously healthy 34-year-old woman comes to the emergency department due to 3 days of severe headache. The patient has had a global headache that has progressively worsened and has now become intolerable. She has also had nausea but no fever, emesis, or diarrhea. The patient works as an international reporter and, over the past month, has traveled extensively in Europe and Asia. CT scan of the head is normal. Cerebrospinal fluid results from lumbar puncture are as follows:\n\nOpening pressure 280 mm H₂O\nGlucose 60 mg/dL\nProtein 110 mg/dL\nLeukocytes 1,000/mm³\nNeutrophils 5%\nLymphocytes 10%\nEosinophils 85%\nRed blood cells 10/mm³",
+    "zh": "一名先前健康的34岁女性因3天严重的头痛来到急诊科就诊。患者有弥漫性头痛，且头痛逐渐加重，现已无法忍受。她还出现恶心，但没有发热、呕吐或腹泻。该患者是一名国际记者，过去一个月曾在欧洲和亚洲广泛旅行。头部CT扫描结果正常。腰椎穿刺的脑脊液结果如下：\n\n起始压力 280 mm H₂O\n葡萄糖 60 mg/dL\n蛋白质 110 mg/dL\n白细胞 1,000/mm³\n中性粒细胞 5%\n淋巴细胞 10%\n嗜酸性粒细胞 85%\n红细胞 10/mm³"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's illness?",
+    "zh": "以下哪项最可能是该患者疾病的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Angiostrongylus cantonensis",
+      "zh": "广州管圆线虫"
+    },
+    "B": {
+      "en": "Cryptococcus neoformans",
+      "zh": "新型隐球菌"
+    },
+    "C": {
+      "en": "Mycobacterium tuberculosis",
+      "zh": "结核分枝杆菌"
+    },
+    "D": {
+      "en": "Herpes simplex virus",
+      "zh": "单纯疱疹病毒"
+    },
+    "E": {
+      "en": "West Nile virus",
+      "zh": "西尼罗病毒"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient has a severe headache, nausea, and an elevated eosinophil count in the cerebrospinal fluid, indicating EOSINOPHILIC MENINGITIS, a condition most often caused by Angiostrongylus cantonensis infection. Humans are incidental hosts and typically acquire the helminth by eating contaminated mollusks or snails while in Southeast Asia or the Pacific Islands. Eosinophilic meningitis can also be caused by other helminths (eg, Gnathostoma, Baylisascaris) or, less commonly, by fungi (eg, coccidioidomycosis), leukoproliferative disorders (eg, Hodgkin lymphoma), or an adverse drug reaction.\n\nEosinophils are of the granulocyte lineage (along with basophils and neutrophils), and the majority of total body eosinophils are in tissue (eg, spleen, lymph nodes, thymus, digestive tract). However, polyclonal expansion of peripheral eosinophils can occur due to release of IL-5 by TH2 lymphocytes and innate lymphoid cells in response to helminth infection, allergens, drugs, or rheumatic disease; IL-5 may also be constitutively expressed by solid organ malignancies.\n\n(Choice B) Cryptococcus neoformans can rarely cause eosinophilic meningitis. However, cryptococcal infections primarily occur in those with profound immunocompromise (eg, AIDS) and typically present with subacute manifestations (eg, fever and headache over 1-2 weeks). This patient who is otherwise healthy and recently traveled to Asia is far more likely to have Angiostrongylus cantonensis.\n\n(Choice C) Mycobacterium tuberculosis is possible in a patient who travels extensively to endemic areas. Although tubercular meningitis may occur, it causes lymphocyte-predominant meningitis; eosinophilic meningitis is not seen.\n\n(Choice D) Herpes simplex virus can cause encephalitis due to infection of the temporal lobe. Patients usually present with fever, focal neurologic deficit, and/or seizure. Dramatically elevated erythrocytes (due to cerebral microhemorrhage), not eosinophils, are typically seen on cerebrospinal fluid analysis. In addition, brain imaging generally reveals temporal lobe abnormalities.\n\n(Choice E) West Nile virus is usually marked by a lymphocyte-predominant meningitis; profound cerebrospinal fluid eosinophilia is uncommon.\n\nEducational objective: Eosinophilic meningitis is most often due to helminth infection (eg, Angiostrongylus). Peripheral eosinophilia is largely mediated by the release of IL-5 in response to helminths, allergens, drugs, or rheumatic disease.",
+    "zh": "该患者有严重的头痛、恶心，并且脑脊液中嗜酸性粒细胞计数升高，提示嗜酸性粒细胞性脑膜炎，这种情况通常由广州管圆线虫感染引起。人类是偶然宿主，通常通过在东南亚或太平洋岛屿食用受污染的软体动物或蜗牛而感染这种蠕虫。嗜酸性粒细胞性脑膜炎也可能由其他蠕虫（如颚口线虫、贝氏弓蛔虫）引起，或者，不太常见的是由真菌（如球孢子菌病）、淋巴细胞增生性疾病（如霍奇金淋巴瘤）或药物不良反应引起。\n\n嗜酸性粒细胞属于粒细胞谱系（与嗜碱性粒细胞和中性粒细胞一样），大多数全身性嗜酸性粒细胞存在于组织中（如脾脏、淋巴结、胸腺、消化道）。然而，由于TH2淋巴细胞和先天性淋巴样细胞释放IL-5，外周嗜酸性粒细胞可能发生多克隆性增生，以应对蠕虫感染、过敏原、药物或风湿病；IL-5也可能由实体器官恶性肿瘤组成性表达。\n\n(选项 B) 新型隐球菌很少引起嗜酸性粒细胞性脑膜炎。然而，隐球菌感染主要发生在严重免疫功能低下的人群（如艾滋病）中，并且通常表现为亚急性表现（如发烧和头痛持续1-2周）。这位健康状况良好且最近去亚洲旅行的患者更有可能感染广州管圆线虫。\n\n(选项 C) 结核分枝杆菌可能存在于广泛前往流行地区的患者中。虽然可能发生结核性脑膜炎，但它会导致淋巴细胞为主的脑膜炎；不会出现嗜酸性粒细胞性脑膜炎。\n\n(选项 D) 单纯疱疹病毒可因颞叶感染而引起脑炎。患者通常表现为发热、局灶性神经功能缺损和/或癫痫发作。在脑脊液分析中，通常会看到红细胞显着升高（由于脑微出血），而不是嗜酸性粒细胞。此外，脑成像通常显示颞叶异常。\n\n(选项 E) 西尼罗病毒通常以淋巴细胞为主的脑膜炎为特征；脑脊液嗜酸性粒细胞增多不常见。\n\n教育目标：嗜酸性粒细胞性脑膜炎最常由蠕虫感染引起（如广州管圆线虫）。外周嗜酸性粒细胞增多主要由IL-5的释放介导，以应对蠕虫、过敏原、药物或风湿病。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of eosinophilic meningitis, its common causes, and the importance of considering travel history in the differential diagnosis. It also assesses the ability to interpret cerebrospinal fluid findings and correlate them with potential etiologies. \n\nTo solve this question, focus on the patient's travel history to Asia and the presence of eosinophilia in the cerebrospinal fluid. Consider the most common causes of eosinophilic meningitis, particularly helminthic infections like Angiostrongylus cantonensis, which are prevalent in Southeast Asia.",
+    "zh": "本题考察对嗜酸性粒细胞性脑膜炎的认识、其常见病因，以及在鉴别诊断中考虑旅行史的重要性。同时，评估解读脑脊液结果并将其与潜在病因相关联的能力。\n\n要解决这个问题，重点关注患者的亚洲旅行史和脑脊液中嗜酸性粒细胞的出现。考虑嗜酸性粒细胞性脑膜炎最常见的病因，特别是像广州管圆线虫这样的蠕虫感染，这种感染在东南亚很流行。"
+  },
+  "tags": "Eosinophilic meningitis; Angiostrongylus cantonensis; Helminth infection; Cerebrospinal fluid analysis; Infectious disease; Travel medicine; Neurology; Meningitis; Eosinophilia",
+  "category": "Micro",
+  "question_id": "107248",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\107248",
+  "extracted_at": "2025-11-05T14:49:26.523057",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:04:28.607130",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

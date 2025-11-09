@@ -1,0 +1,70 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old woman with ovarian cancer undergoing chemotherapy is hospitalized due to fever, headache, ataxia, and progressive confusion. Two days later, a 26-year-old pregnant woman is admitted to the same hospital with fever, nausea, vomiting, diarrhea, and muscle aches and spontaneously delivers a preterm infant who has generalized skin rash. Laboratory evaluation reveals that these patients' conditions were caused by the same microbial organism. The state health department is notified. Reports of similar illnesses are noted in neighboring cities. A subsequent investigation reveals that 8 people were affected, all of whom consumed food products from a single processing facility.",
+    "zh": "一名65岁患有卵巢癌并接受化疗的女性因发烧、头痛、共济失调和进行性意识模糊而住院。两天后，一名26岁的孕妇因发烧、恶心、呕吐、腹泻和肌肉酸痛被送往同一家医院，并自发分娩了一个患有全身皮疹的早产儿。实验室评估显示，这些患者的病情是由同一种微生物引起的。州卫生部门已收到通知。在邻近城市也发现了类似的疾病报告。随后的调查显示，8人受到影响，所有人都食用了来自同一加工厂的食品。"
+  },
+  "question": {
+    "en": "Which of the following organisms is most likely responsible for this outbreak?",
+    "zh": "以下哪种生物体最有可能导致这次疫情爆发？"
+  },
+  "options": {
+    "A": {
+      "en": "Aspergillus fumigatus",
+      "zh": "烟曲霉"
+    },
+    "B": {
+      "en": "Cytomegalovirus",
+      "zh": "巨细胞病毒"
+    },
+    "C": {
+      "en": "Escherichia coli O157:H7",
+      "zh": "大肠杆菌O157:H7"
+    },
+    "D": {
+      "en": "Herpes simplex virus",
+      "zh": "单纯疱疹病毒"
+    },
+    "E": {
+      "en": "Listeria monocytogenes",
+      "zh": "单核细胞增生李斯特菌"
+    },
+    "F": {
+      "en": "Neisseria meningitidis",
+      "zh": "脑膜炎奈瑟菌"
+    },
+    "G": {
+      "en": "Streptococcus pneumoniae",
+      "zh": "肺炎链球菌"
+    },
+    "H": {
+      "en": "Toxoplasma gondii",
+      "zh": "弓形虫"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Listeria monocytogenes is a facultative intracellular gram-positive bacillus that can multiply at REFRIGERATED temperatures in both anaerobic and microaerophilic conditions. It is an important cause of foodborne illness; outbreaks are frequently associated with consumption of CONTAMINATED FOOD PRODUCTS (eg, processed meats, soft cheeses, raw fruits & vegetables).\n\nHealthy patients who ingest high inoculums of Listeria are at risk for febrile gastroenteritis. Invasive infections such as sepsis and MENINGOENCEPHALITIS are primarily seen in patients with IMPAIRED CELL-MEDIATED IMMUNITY (eg, AIDS, malignancy, extremes of age, pregnancy). Pregnant women are at greatest risk in the third trimester and often present with flu-like symptoms and diarrhea. Infection during pregnancy can cause PRETERM LABOR, neonatal sepsis, or granulomatosis infantiseptica (ie, infant with papular & pustular skin lesions, widespread abscesses/granulomas).\n\n(Choice A) Epidemic fungal meningitis due to Aspergillus fumigatus has been associated with contaminated glucocorticoid injections. Aspergillus is not typically associated with foodborne illness.\n\n(Choices B and D) Cytomegalovirus and herpes simplex virus can cause a variety of clinical syndromes in immunocompromised patients, including encephalitis, esophagitis, pneumonitis, and colitis. These viruses are ubiquitous and not associated with foodborne outbreaks.\n\n(Choice C) Foodborne outbreaks of Escherichia coli O157:H7 have been linked to the ingestion of contaminated beef (primarily) and are usually associated with hemorrhagic colitis. Patients may also develop hemolytic uremic syndrome. Meningitis and neonatal infection would be atypical.\n\n(Choice F) Neisseria meningitidis causes sepsis and acute meningitis. It is transmitted primarily by respiratory droplets; most cases occur in those who live in congregate settings (eg, dormitories, military barracks).\n\n(Choice G) Streptococcus pneumoniae is a common cause of bacterial meningitis in elderly and immunocompromised individuals but is not associated with foodborne outbreaks.\n\n(Choice H) Toxoplasma may be acquired via consumption of undercooked meat and unwashed produce or contact with cat feces. It is associated with meningoencephalitis in immunocompromised patients (eg, advanced AIDS). In immunocompetent individuals, toxoplasmosis is usually asymptomatic but may present with flu-like symptoms and lymphadenopathy; diarrhea would be less likely.\n\nEducational objective: Listeria is a relatively common foodborne illness associated with outbreaks after the consumption of contaminated food, particularly processed meats and dairy products. Healthy patients may develop gastroenteritis; patients with impaired cell-mediated immunity are at risk for invasive infection (eg, sepsis, meningoencephalitis); and listeriosis in pregnancy is associated with adverse fetal outcomes (eg, fetal death, premature birth).",
+    "zh": "单核细胞增生李斯特菌是一种兼性细胞内革兰氏阳性杆菌，可在冷藏温度下于厌氧和微需氧条件下繁殖。它是食源性疾病的重要原因；疫情爆发 thường与食用受污染的食品（例如，加工肉类、软奶酪、生水果和蔬菜）有关。\n\n摄入高剂量李斯特菌的健康患者有发生发热性胃肠炎的风险。侵袭性感染，如败血症和脑膜脑炎，主要见于细胞介导免疫受损的患者（例如，艾滋病、恶性肿瘤、高龄或低龄、妊娠）。孕妇在妊娠晚期风险最高，通常表现为流感样症状和腹泻。妊娠期间的感染可导致早产、新生儿败血症或婴儿肉芽肿病（即，婴儿出现丘疹和脓疱性皮肤损伤、广泛性脓肿/肉芽肿）。\n\n（选项 A）烟曲霉引起的流行性真菌性脑膜炎与受污染的糖皮质激素注射有关。烟曲霉通常与食源性疾病无关。\n\n（选项 B 和 D）巨细胞病毒和单纯疱疹病毒可在免疫功能低下的患者中引起多种临床综合征，包括脑炎、食管炎、肺炎和结肠炎。这些病毒无处不在，与食源性疫情无关。\n\n（选项 C）大肠杆菌O157:H7的食源性疫情与摄入受污染的牛肉（主要）有关，通常与出血性结肠炎有关。患者还可能发展为溶血性尿毒症综合征。脑膜炎和新生儿感染是不典型的。\n\n（选项 F）脑膜炎奈瑟菌引起败血症和急性脑膜炎。它主要通过呼吸道飞沫传播；大多数病例发生在居住在聚集环境（例如，宿舍、军营）中的人中。\n\n（选项 G）肺炎链球菌是老年人和免疫功能低下个体细菌性脑膜炎的常见原因，但与食源性疫情无关。\n\n（选项 H）弓形虫可能通过食用未煮熟的肉类和未清洗的农产品或接触猫粪便获得。它与免疫功能低下的患者（例如，晚期艾滋病）的脑膜脑炎有关。在免疫功能正常的个体中，弓形体病通常无症状，但可能表现为流感样症状和淋巴结病；腹泻不太可能发生。\n\n教育目标：李斯特菌是一种相对常见的食源性疾病，在食用受污染的食物后会爆发疫情，特别是加工肉类和乳制品。健康患者可能发生胃肠炎；细胞介导免疫受损的患者有侵袭性感染（例如，败血症、脑膜脑炎）的风险；妊娠期李斯特菌病与不良胎儿结局相关（例如，胎儿死亡、早产）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of common foodborne illnesses and their associated pathogens, specifically focusing on Listeria monocytogenes and its predilection for causing severe infections in immunocompromised individuals and pregnant women. It also tests the ability to recognize outbreak scenarios and identify the most likely causative agent based on clinical presentation and epidemiological context.\n\nTo solve this question, consider the patient populations affected (immunocompromised and pregnant), the symptoms (fever, headache, ataxia, diarrhea, preterm labor, neonatal rash), and the outbreak context (food processing facility). Rule out pathogens that are not typically associated with foodborne outbreaks or that cause different clinical presentations. Focus on pathogens known to cause severe infections in pregnant women and their newborns.",
+    "zh": "此题考察了常见食源性疾病及其相关病原体的知识，特别是侧重于单核细胞增生李斯特菌及其易于在免疫功能低下个体和孕妇中引起严重感染的特性。它还考察了识别疫情情况并根据临床表现和流行病学背景确定最可能病原体的能力。\n\n要解决这个问题，请考虑受影响的患者人群（免疫功能低下和孕妇）、症状（发烧、头痛、共济失调、腹泻、早产、新生儿皮疹）和疫情背景（食品加工厂）。排除通常与食源性疫情无关或引起不同临床表现的病原体。重点关注已知可导致孕妇及其新生儿严重感染的病原体。"
+  },
+  "tags": "Listeria monocytogenes; Foodborne illness; Meningoencephalitis; Pregnancy; Immunocompromised; Outbreak; Infectious disease; Gastroenteritis; Neonatal sepsis",
+  "category": "Micro",
+  "question_id": "11650",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\11650",
+  "extracted_at": "2025-11-05T14:51:26.672190",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:06:01.387959",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

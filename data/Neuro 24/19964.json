@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old woman, gravida 1 para 0, at 35 weeks gestation comes to the emergency department due to absent fetal movement for the past 24 hours. The patient has had no prenatal care. Fetal ultrasonography confirms an intrauterine fetal demise. Autopsy examination of the fetus reveals incomplete separation of the cerebral hemispheres with a single ventricle, as shown in the image below: {{exhibit_1}}",
+    "zh": "一名32岁女性，孕1产0，妊娠35周，因过去24小时未感觉到胎动而就诊于急诊科。患者未接受产前护理。胎儿超声检查证实宫内胎儿死亡。对胎儿进行尸检，发现大脑半球未完全分离，只有一个脑室，如下图所示：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is most closely associated with this fetal condition?",
+    "zh": "以下哪项与这种胎儿状况最相关？"
+  },
+  "options": {
+    "A": {
+      "en": "Congenital rubella syndrome",
+      "zh": "先天性风疹综合征"
+    },
+    "B": {
+      "en": "Intrauterine Zika virus infection",
+      "zh": "宫内寨卡病毒感染"
+    },
+    "C": {
+      "en": "Maternal lithium use",
+      "zh": "孕妇使用锂盐"
+    },
+    "D": {
+      "en": "Trisomy 13",
+      "zh": "13三体综合征"
+    },
+    "E": {
+      "en": "Trisomy 21",
+      "zh": "21三体综合征"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "Fetal brain development begins at week 3, when the ectodermal cells thicken and invaginate to form the neural tube, which differentiates into the primitive forebrain (prosencephalon), midbrain (mesencephalon), and hindbrain (rhombencephalon). The prosencephalon gives rise to the diencephalon, which develops into the thalamus and third ventricle, and telencephalon, which develops into the cerebral hemispheres and lateral ventricles. {{exhibit_2}}\n\nThis fetus has an incomplete separation of the cerebral hemispheres with a single lateral ventricle consistent with HOLOPROSENCEPHALY, a condition in which the forebrain fails to completely divide into right and left hemispheres. Disease severity and midline facial malformations (eg, facial clefts, cyclopia) are dependent upon the degree of hemisphere division; mild forms can be asymptomatic whereas severe cases can be lethal (as in this case). {{exhibit_3}}\n\nHoloprosencephaly may be due to a variety of factors (eg, sonic hedgehog gene mutations); the most common associated chromosomal abnormality is TRISOMY 13 (Patau syndrome). Other midline defects of trisomy 13 include microcephaly, microphthalmia, cleft lip/palate, and omphalocele. Cardiac abnormalities are also common, and cutis aplasia (scalp defect) is characteristic. The majority of affected fetuses die in utero. {{exhibit_4}}\n\n(Choice A) Congenital rubella syndrome may be fatal in utero or present in neonates with the characteristic triad of sensorineural hearing loss, cataracts, and congenital heart disease (eg, patent ductus arteriosus). Although CNS infection can result in microcephaly, holoprosencephaly is rare.\n\n(Choice B) Zika virus infection in utero causes infection of neural progenitor cells, resulting in impaired fetal brain development. Due to the destruction of the neurons, patients with congenital Zika virus infection typically have microcephaly, intracranial calcifications (a sign of tissue necrosis), and ventriculomegaly; holoprosencephaly is uncommon with Zika infection.\n\n(Choice C) Maternal lithium use is classically associated with fetal cardiac abnormalities (eg, Ebstein anomaly), not neurologic structural defects.\n\n(Choice E) Trisomy 21 (Down syndrome) can cause ventriculomegaly and decreased brain volume, but patients still have 2 separate cerebral hemispheres and ventricles (not holoprosencephaly). {{exhibit_5}}",
+    "zh": "胎儿大脑发育始于第3周，外胚层细胞增厚并内陷形成神经管，神经管分化为原始的前脑（prosencephalon）、中脑（mesencephalon）和后脑（rhombencephalon）。前脑产生间脑，间脑发育成丘脑和第三脑室，以及端脑，端脑发育成大脑半球和侧脑室。{{exhibit_2}}\n\n该胎儿的大脑半球未完全分离，只有一个侧脑室，这与全前脑发育不全（HOLOPROSENCEPHALY）一致，这是一种前脑未能完全分裂成左右半球的疾病。疾病的严重程度和中线面部畸形（如，面部裂隙，独眼畸形）取决于半球分裂的程度；轻度形式可以无症状，而严重病例可能致命（如本例）。{{exhibit_3}}\n\n全前脑发育不全可能是由于多种因素造成的（例如，音猬基因突变）；最常见的相关染色体异常是13三体综合征（帕陶综合征）。13三体综合征的其他中线缺陷包括小头畸形、小眼球、唇/腭裂和脐膨出。心脏异常也很常见，以及皮肤发育不全（头皮缺陷）是其特征。大多数受影响的胎儿在子宫内死亡。{{exhibit_4}}\n\n(选项A) 先天性风疹综合征可能在子宫内致命，或以新生儿出现特征性三联征，包括感音神经性听力损失、白内障和先天性心脏病（例如，动脉导管未闭）。虽然中枢神经系统感染可导致小头畸形，但全前脑发育不全很少见。\n\n(选项B) 宫内寨卡病毒感染会导致神经祖细胞感染，导致胎儿大脑发育受损。由于神经元的破坏，先天性寨卡病毒感染的患者通常有小头畸形、颅内钙化（组织坏死的迹象）和脑室扩大；寨卡病毒感染引起全前脑发育不全并不常见。\n\n(选项C) 孕妇使用锂盐通常与胎儿心脏异常相关（例如，Ebstein畸形），而不是神经系统结构缺陷。\n\n(选项E) 21三体综合征（唐氏综合征）可导致脑室扩大和脑容量减少，但患者仍有2个独立的大脑半球和脑室（而不是全前脑发育不全）。{{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests the understanding of holoprosencephaly, its embryological basis, and its association with genetic and environmental factors. Specifically, it assesses the ability to recognize the condition from imaging and recall its most common etiology.\n\nThe approach to solving this question involves identifying the key imaging finding of a single ventricle and fused cerebral hemispheres, recognizing this as holoprosencephaly, and then recalling the most common associated genetic abnormality, which is Trisomy 13.",
+    "zh": "此问题测试对全前脑发育不全、其胚胎学基础及其与遗传和环境因素相关的理解。具体来说，它评估了从影像学中识别该病症并回忆其最常见病因的能力。\n\n解决此问题的方法包括确定单一脑室和融合大脑半球的关键影像学发现，将其识别为全前脑发育不全，然后回忆最常见的相关遗传异常，即13三体综合征。"
+  },
+  "tags": "Holoprosencephaly; Trisomy 13; Fetal demise; Embryology; Genetics; Neural tube defects; Midline facial malformations; Autopsy; Ultrasonography",
+  "category": "Neuro",
+  "question_id": "19964",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\19964",
+  "extracted_at": "2025-11-05T19:38:45.662398",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:38:18.292286",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

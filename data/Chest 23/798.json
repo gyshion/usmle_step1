@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 36-year-old woman comes to the office due to arthralgias and nodules on her legs. She has no prior medical conditions and takes no medications. On physical examination, there is moderate hepatomegaly. A representative skin rash is shown in the image below {{exhibit_1}}. The lesions are tender and present predominantly on the anterior surface of the lower extremities. Chest x-ray demonstrates enlarged hilar lymph nodes, and laboratory testing reveals an elevated ACE level.",
+    "zh": "一名36岁的女性因关节痛和腿部结节前来就诊。她没有既往病史，也没有服用任何药物。体格检查显示有中度肝肿大。下图{{exhibit_1}}显示了代表性的皮疹。这些病变触痛，主要位于下肢的前表面。胸部X光片显示肺门淋巴结肿大，实验室检查显示ACE水平升高。"
+  },
+  "question": {
+    "en": "Which of the following would most likely be found on liver biopsy in this patient?",
+    "zh": "该患者的肝活检最有可能发现以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "Centrilobular necrosis",
+      "zh": "中央小叶坏死"
+    },
+    "B": {
+      "en": "Fatty change",
+      "zh": "脂肪变性"
+    },
+    "C": {
+      "en": "Nodular regeneration",
+      "zh": "结节性再生"
+    },
+    "D": {
+      "en": "Periportal fibrosis",
+      "zh": "门周纤维化"
+    },
+    "E": {
+      "en": "Portal inflammation",
+      "zh": "门静脉炎症"
+    },
+    "F": {
+      "en": "Scattered granulomas",
+      "zh": "散在肉芽肿"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "This patient has tender erythematous nodules on the anterior lower extremities, consistent with ERYTHEMA NODOSUM, a nonspecific, delayed hypersensitivity reaction that can be seen in a variety of infections or inflammatory disorders. However, in combination with hilar adenopathy and elevated ACE levels (formed by activated macrophages), this presentation is highly suggestive of SARCOIDOSIS. Sarcoidosis is a systemic inflammatory disorder of unknown etiology characterized pathologically by noncaseating granulomas.\n\nGranulomas can occur in any organ but commonly involve the lymph nodes (eg, BILATERAL HILAR ADENOPATHY), lungs (interstitial lung disease), joints (eg, ARTHRALGIAS), eyes (uveitis), or skin. Most patients with sarcoidosis also develop LIVER INVOLVEMENT, typically in the form of asymptomatic hepatomegaly with mild liver function test abnormalities (alkaline phosphatase > aminotransferases). Biopsy will show scattered noncaseating granulomas predominantly around the portal veins.\n\n(Choice A) Centrilobular necrosis is the death of hepatocytes immediately surrounding the terminal hepatic vein. Ischemic injury (as in right-sided heart failure), drugs, toxins, and fulminant hepatitis can be responsible.\n\n(Choice B) Fatty change (steatosis) is most commonly seen in alcohol use or obesity, although it can also be seen with a reversible hypoxic, toxic, or metabolic injury (eg, protein malnutrition).\n\n(Choice C) Nodular regeneration is seen with cirrhosis. Sarcoidosis does not typically progress to hepatic cirrhosis.\n\n(Choice D) Periportal fibrosis may be seen in chronic cholestasis (eg, primary sclerosing cholangitis, primary biliary cholangitis) or chronic viral hepatitis; it is not associated with sarcoidosis.\n\n(Choice E) Portal inflammation is a very nonspecific finding that occurs with many forms of hepatitis, toxin- and drug-induced liver injury, and metabolic and cholestatic liver diseases.",
+    "zh": "该患者下肢前侧有触痛性红斑结节，与结节性红斑一致，结节性红斑是一种非特异性的迟发型超敏反应，可见于各种感染或炎症性疾病。然而，结合肺门淋巴结病和ACE水平升高（由活化的巨噬细胞形成），这种表现高度提示为结节病。结节病是一种病因不明的全身性炎症性疾病，其病理特征为非干酪样肉芽肿。\n\n肉芽肿可发生在任何器官，但通常累及淋巴结（例如，双侧肺门淋巴结病）、肺（间质性肺病）、关节（例如，关节痛）、眼睛（葡萄膜炎）或皮肤。大多数结节病患者也会出现肝脏受累，通常表现为无症状性肝肿大和轻度肝功能检查异常（碱性磷酸酶>转氨酶）。活检将显示散在的非干酪样肉芽肿，主要位于门静脉周围。\n\n（选项A）中央小叶坏死是肝细胞死亡，发生在终末肝静脉周围。缺血性损伤（如右心衰竭）、药物、毒素和暴发性肝炎可能是原因。\n\n（选项B）脂肪变性最常见于饮酒或肥胖，尽管也可发生于可逆性缺氧、毒性或代谢性损伤（如蛋白质营养不良）。\n\n（选项C）结节性再生见于肝硬化。结节病通常不会进展为肝硬化。\n\n（选项D）门周纤维化可能见于慢性胆汁淤积（如原发性硬化性胆管炎、原发性胆汁性胆管炎）或慢性病毒性肝炎；它与结节病无关。\n\n（选项E）门静脉炎症是一个非常非特异性的发现，发生在多种类型的肝炎、毒素和药物引起的肝损伤以及代谢性和胆汁淤积性肝病中。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of sarcoidosis, its common clinical manifestations, and characteristic pathological findings, particularly in the liver. It requires recognizing the constellation of symptoms (arthralgia, erythema nodosum), signs (hepatomegaly), and lab findings (elevated ACE) that point towards sarcoidosis.\n\nThe key to solving this question is recognizing the clinical picture of sarcoidosis and knowing that liver involvement in sarcoidosis typically presents with asymptomatic hepatomegaly and noncaseating granulomas on liver biopsy. Eliminate options that are associated with other liver diseases.",
+    "zh": "此问题测试对结节病的认识、其常见的临床表现和特征性病理发现，尤其是在肝脏方面。它需要识别指向结节病的症状（关节痛、结节性红斑）、体征（肝肿大）和实验室检查结果（ACE升高）的组合。\n\n解决此问题的关键是识别结节病的临床表现，并了解结节病中肝脏受累通常表现为无症状性肝肿大和肝活检上的非干酪样肉芽肿。排除与其他肝病相关的选项。"
+  },
+  "tags": "Sarcoidosis; Erythema nodosum; Hepatomegaly; ACE level; Liver biopsy; Noncaseating granulomas; Hilar adenopathy; Arthralgia; Pulmonary disease; Granulomatous disease",
+  "category": "Chest",
+  "question_id": "798",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\798",
+  "extracted_at": "2025-11-05T11:48:16.788625",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:42:06.848392",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

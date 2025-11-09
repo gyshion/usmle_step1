@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old man comes to the emergency department due to severe nausea and vomiting 2 hours after a church picnic. He ate chicken salad that had been sitting out in the sun. The patient has no prior medical conditions. Temperature is 37.2 C (98.9 F), blood pressure is 126/84 mm Hg, and pulse is 86/min. No abdominal tenderness is present, and bowel sounds are normal. Blood cell counts and serum chemistry studies are within normal limits. Symptoms improve significantly within several hours with supportive care.",
+    "zh": "一名24岁男性因严重恶心和呕吐来到急诊科，起病时间为参加教堂野餐2小时后。他吃了放在太阳下的鸡肉沙拉。患者无既往病史。体温37.2°C (98.9°F)，血压126/84 mmHg，脉搏86次/分。无腹部压痛，肠鸣音正常。血细胞计数和血清化学研究均在正常范围内。在支持治疗数小时后，症状明显改善。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's symptoms?",
+    "zh": "以下哪项最可能是该患者症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Bacterial exotoxin production in the gut",
+      "zh": "肠道内细菌外毒素的产生"
+    },
+    "B": {
+      "en": "Bacterial invasion of the gut mucosa",
+      "zh": "细菌侵入肠粘膜"
+    },
+    "C": {
+      "en": "Ingestion of preformed enterotoxin",
+      "zh": "摄入预先形成的肠毒素"
+    },
+    "D": {
+      "en": "Microbial attachment to the intestinal surface",
+      "zh": "微生物附着在肠道表面"
+    },
+    "E": {
+      "en": "Systemic absorption of luminal endotoxin",
+      "zh": "腔内内毒素的全身吸收"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Enterotoxigenic STAPHYLOCOCCUS AUREUS is a leading cause of foodborne illness. This pathogen inoculates food during unsanitary preparation by an asymptomatic carrier. Storage of the food at room temperature for extended periods (eg, picnic, pot luck meal) allows the bacteria to proliferate and generate a heat-stable enterotoxin. Ingestion of the preformed toxin leads to rapid-onset illness that includes nausea, vomiting, and abdominal pain. Occasionally, mild fever and diarrhea may also be present. Symptoms resolve in a few hours with symptomatic care.\n\nBecause the disease is due to the ingestion of a preformed toxin, no person-to-person transmission occurs. However, outbreaks may arise when people eat the same contaminated food at an event or party. High risk foods include dairy products, produce, precooked meat, eggs, and mayonnaise-based salads (eg, chicken salad).\n\nA similar clinical picture of rapid-onset nausea, vomiting, and abdominal cramping can be seen with food-borne illness due to BACILLUS CEREUS, which also produces a heat-stable enterotoxin. B CEREUS characteristically contaminates starchy foods (eg, rice); illness is often associated with reheated rice.\n\n(Choices A, B, and D) Foodborne illness can also be caused by other bacterial mechanisms, such as:\n\n*   Enterotoxin production within the intestine by enterotoxigenic ESCHERICHIA COLI (ETEC) and VIBRIO CHOLERAE, whose toxins cause watery diarrhea, and enterohemorrhagic E COLI (EHEC) and SHIGELLA, whose toxins cause inflammatory/bloody diarrhea\n*   Bacterial invasion of the intestinal mucosa by SALMONELLA, enteroinvasive E COLI (EIEC), and CAMPYLOBACTER JEJUNI causes inflammatory/bloody diarrhea\n*   Enteropathogenic E COLI (EPEC) attaches to enterocytes and effaces their surface, resulting in watery diarrhea; this strain does not produce toxins\n\nHowever, gastroenteritis due to these bacteria generally takes >24 hours to manifest, as the bacteria require time to proliferate and subsequently produce enterotoxin and/or invade the intestinal epithelium.\n\n(Choice E) Most gram-negative enteric pathogens contain endotoxin (lipopolysaccharide) that is released upon cell lysis. However, endotoxin released in the gastrointestinal tract is not typically absorbed in sufficient quantities to cause systemic illness. Endotoxin-mediated illness (eg, sepsis) occurs when gram-negative bacteria are present in the bloodstream.\n\nEducational objective:\n\nStaphylococcal food poisoning is mediated by the ingestion of a preformed, heat-stable enterotoxin that induces rapid-onset (<6 hours) nausea and vomiting. Most cases arise due to improper food handling and storage. Common culprit foods include eggs, dairy products, and mayonnaise-based salads.",
+    "zh": "产肠毒素的金黄色葡萄球菌是食源性疾病的主要原因。这种病原体在无症状携带者的不卫生准备过程中接种食物。将食物在室温下长时间储存（例如，野餐、聚餐）使细菌增殖并产生耐热肠毒素。摄入预先形成的毒素会导致快速发病的疾病，包括恶心、呕吐和腹痛。偶尔，也可能出现轻度发烧和腹泻。在对症治疗几个小时后，症状会缓解。\n\n由于该病是由于摄入预先形成的毒素引起的，因此不会发生人与人之间的传播。然而，当人们在活动或聚会上食用相同的受污染食物时，可能会爆发疫情。高风险食物包括乳制品、农产品、预煮肉、鸡蛋和以蛋黄酱为基础的沙拉（例如，鸡肉沙拉）。\n\n由蜡样芽孢杆菌引起的食源性疾病也可见到类似的快速发病的恶心、呕吐和腹部痉挛的临床表现，蜡样芽孢杆菌也会产生耐热肠毒素。蜡样芽孢杆菌的特征是污染淀粉类食物（例如，米饭）；该病通常与重新加热的米饭有关。\n\n（选项 A、B 和 D）食源性疾病也可能由其他细菌机制引起，例如：\n\n*   产肠毒素大肠杆菌（ETEC）和霍乱弧菌在肠道内产生肠毒素，其毒素引起水样腹泻，而产肠出血性大肠杆菌（EHEC）和志贺氏菌的毒素引起炎性/血性腹泻\n*   沙门氏菌、侵袭性大肠杆菌（EIEC）和空肠弯曲菌侵入肠粘膜引起炎性/血性腹泻\n*   致病性大肠杆菌（EPEC）附着在肠细胞上并使其表面消失，导致水样腹泻；这种菌株不产生毒素\n\n然而，由这些细菌引起的胃肠炎通常需要>24小时才能显现，因为细菌需要时间增殖并随后产生肠毒素和/或侵入肠上皮。\n\n（选项 E）大多数革兰氏阴性肠道病原体都含有内毒素（脂多糖），该内毒素在细胞裂解时释放。然而，在胃肠道中释放的内毒素通常不会被吸收足够的量以引起全身性疾病。内毒素介导的疾病（例如，败血症）发生在革兰氏阴性细菌存在于血流中时。\n\n教育目标：\n\n葡萄球菌食物中毒是由摄入预先形成的耐热肠毒素引起的，该毒素诱发快速发作（<6小时）的恶心和呕吐。大多数病例是由于不当的食物处理和储存引起的。常见的罪魁祸首食物包括鸡蛋、乳制品和以蛋黄酱为基础的沙拉。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of foodborne illness, specifically the rapid-onset nausea and vomiting caused by preformed enterotoxins like those produced by Staphylococcus aureus. It requires differentiating between illnesses caused by preformed toxins versus those requiring bacterial proliferation and toxin production within the intestine. \n\nTo solve this question, focus on the rapid onset of symptoms (2 hours) after eating potentially contaminated food. This suggests a preformed toxin rather than bacterial invasion or toxin production within the gut. Consider common sources of Staphylococcus aureus contamination, such as improperly stored salads.",
+    "zh": "这个问题考察了对食源性疾病的了解，特别是金黄色葡萄球菌等产生的预先形成的肠毒素引起的快速发作的恶心和呕吐。它需要区分由预先形成的毒素引起的疾病与那些需要在肠道内进行细菌增殖和毒素产生的疾病。\n\n要解决这个问题，重点关注食用可能被污染的食物后症状的快速发作（2小时）。这表明是预先形成的毒素，而不是细菌侵入或在肠道内产生毒素。考虑金黄色葡萄球菌污染的常见来源，例如不正确储存的沙拉。"
+  },
+  "tags": "Foodborne illness; Staphylococcus aureus; Enterotoxin; Gastroenteritis; Nausea; Vomiting; Infectious Diseases; Toxin-mediated disease",
+  "category": "Micro",
+  "question_id": "644",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\644",
+  "extracted_at": "2025-11-05T15:04:51.268887",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:12:40.280780",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

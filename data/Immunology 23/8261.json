@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 28-year-old woman, gravida 2 para 2, brings her healthy 6-day-old girl to the office for her first well-baby checkup. The infant was born full-term, with a birth weight of 4.2 kg (9.3 lb) and a length of 51 cm (20 in). She was discharged from the nursery with no concerns. Physical examination is normal. The infant's blood type is A negative, whereas the mother's is B negative. High circulating levels of anti-A antibodies are found in the mother's blood. Hemolysis did not occur in the infant because these maternal antibodies are most likely of which class?",
+    "zh": "一位28岁的女性，经产妇2次，带她健康的6天大女孩来诊所进行第一次健康婴儿检查。婴儿足月出生，出生体重4.2 kg（9.3 lb），身长51 cm（20 in）。她出院时没有任何问题。体格检查正常。婴儿的血型为A阴性，而母亲为B阴性。在母亲的血液中发现了高浓度的抗A抗体。婴儿没有发生溶血，因为这些母体抗体最有可能属于哪一类？"
+  },
+  "question": {
+    "en": "Hemolysis did not occur in the infant because these maternal antibodies are most likely of which class?",
+    "zh": "婴儿没有发生溶血，因为这些母体抗体最有可能属于哪一类？"
+  },
+  "options": {
+    "A": {
+      "en": "IgA",
+      "zh": "IgA"
+    },
+    "B": {
+      "en": "IgD",
+      "zh": "IgD"
+    },
+    "C": {
+      "en": "IgE",
+      "zh": "IgE"
+    },
+    "D": {
+      "en": "IgG",
+      "zh": "IgG"
+    },
+    "E": {
+      "en": "IgM",
+      "zh": "IgM"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "Hemolytic disease of the fetus and newborn (HDFN) is caused by maternal anti-fetal erythrocyte IgG antibodies, which can cross the placenta and produce a type II (antibody-mediated) hypersensitivity response. With maternal blood types A or B, hemolysis (eg, erythrocyte destruction) does not occur because the maternal antibodies (anti-A or anti-B) are of the IgM type, which cannot cross the placenta. However, mothers with blood type O also produce IgG antibodies which can cause hemolysis in the fetus.\n\nThe association of a fetus with blood type A or B and a mother with blood type O occurs in approximately 15% of pregnancies; however, HDFN occurs in only 3% of these pregnancies due to variations in fetal ABO antigen expression. Unlike Rh disease, HDFN can occur with the first pregnancy because anti-A and anti-B antibodies are formed early in life from exposure to A- or B-like antigens present in foods, bacteria, and viruses.\n\n(Choice A) IgA plays an important role in mucosal immunity and is found in high amounts in colostrum. The secretory IgA provided by the mother's breast milk coats the infant's intestinal mucosa and provides protection from ingested pathogens.\n\n(Choice B) IgD is an immunoglobulin of unclear significance. It is often concurrently expressed with IgM on the membranes of B lymphocytes and is believed to act as a cell surface antigen receptor for those cells.\n\n(Choice C) IgE is the immunoglobulin most notably responsible for atopic diseases such as asthma, atopic dermatitis, and allergic rhinitis. It also plays a role in defense against helminth parasites.\n\n(Choice D) IgG crosses the placenta and remains circulating in the bloodstream of infants, providing them with passive immunity for up to 6 months.\n\nEducational objective:\nWith maternal blood types A or B, hemolytic disease of the fetus and newborn very rarely occurs because maternal antibodies (anti-A or anti-B) are of the IgM type and cannot cross the placenta. In contrast, mothers with blood type O also produce IgG antibodies (anti-A and anti-B), which can cross the placenta and cause fetal hemolysis.",
+    "zh": "胎儿和新生儿溶血病（HDFN）是由母体抗胎儿红细胞IgG抗体引起的，这些抗体可以穿过胎盘并产生II型（抗体介导）超敏反应。对于母亲血型为A或B，溶血（例如，红细胞破坏）不会发生，因为母体抗体（抗A或抗B）属于IgM型，不能穿过胎盘。然而，血型为O的母亲也会产生IgG抗体，这可能导致胎儿溶血。\n\n大约15％的妊娠中会出现胎儿血型为A或B，母亲血型为O的情况；然而，由于胎儿ABO抗原表达的差异，只有3％的这些妊娠会发生HDFN。与Rh病不同，HDFN可以在第一次妊娠时发生，因为抗A和抗B抗体在生命早期就形成了，这是由于接触了食物、细菌和病毒中存在的A或B样抗原。\n\n(选项A) IgA在黏膜免疫中起重要作用，并在初乳中大量存在。母乳提供的分泌型IgA覆盖婴儿的肠道黏膜，并提供对摄入病原体的保护。\n\n(选项B) IgD是一种意义不明的免疫球蛋白。它通常与B淋巴细胞膜上的IgM共同表达，并被认为充当这些细胞的细胞表面抗原受体。\n\n(选项C) IgE是引起特应性疾病（如哮喘、特应性皮炎和过敏性鼻炎）的免疫球蛋白。它还在抵抗蠕虫寄生虫方面发挥作用。\n\n(选项D) IgG穿过胎盘，并在婴儿的血液中循环，为婴儿提供长达6个月的被动免疫。\n\n教育目标：\n对于母亲血型为A或B，胎儿和新生儿溶血病很少发生，因为母体抗体（抗A或抗B）属于IgM型，不能穿过胎盘。相比之下，血型为O的母亲也会产生IgG抗体（抗A和抗B），这些抗体可以穿过胎盘并引起胎儿溶血。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of hemolytic disease of the fetus and newborn (HDFN) specifically related to ABO incompatibility and the types of antibodies involved. It requires understanding which antibodies can cross the placenta and cause hemolysis.\n\nThe key to solving this question is recognizing that mothers with blood types A or B produce IgM antibodies against the corresponding antigen, and IgM antibodies cannot cross the placenta. Therefore, hemolysis is unlikely in these cases, unlike in mothers with blood type O who can produce IgG antibodies.",
+    "zh": "这个问题考察了关于胎儿和新生儿溶血病（HDFN）的知识，特别是与ABO不相容性和所涉及的抗体类型有关。它要求理解哪些抗体可以穿过胎盘并引起溶血。\n\n解决这个问题的关键是认识到，血型为A或B的母亲产生针对相应抗原的IgM抗体，而IgM抗体不能穿过胎盘。因此，在这些情况下，溶血不太可能发生，这与可以产生IgG抗体的O型血母亲不同。"
+  },
+  "tags": "Hemolytic disease of the fetus and newborn; ABO incompatibility; IgM; IgG; Maternal antibodies; Neonatology; Immunology",
+  "category": "Immunology",
+  "question_id": "8261",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\8261",
+  "extracted_at": "2025-11-05T14:46:23.851803",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:03:26.743065",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

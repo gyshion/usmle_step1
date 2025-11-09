@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old man dies suddenly in his sleep. An autopsy is performed and the heart is examined for signs of structural cardiac disease. The heart shows a left ventricle with a large area of apical thinning composed of fibrotic scar tissue. The mid and basal left ventricular segments show normal myocardial thickness. The coronary arteries show no evidence of obstructive atherosclerosis. The right ventricle appears normal in size. No apparent valve damage is present. Dilation and wall-thickening of the esophagus is also noted. Which of the following factors in this patient's medical history would be most helpful in determining the cause of death?",
+    "zh": "一名32岁男性在睡梦中猝死。进行尸检，检查心脏是否有结构性心脏病的迹象。心脏显示左心室心尖区域大面积变薄，由纤维化瘢痕组织组成。中段和基底部左心室节段显示正常心肌厚度。冠状动脉未见阻塞性动脉粥样硬化的证据。右心室大小正常。未见明显瓣膜损伤。食管扩张和壁增厚也有记录。以下患者病史中的哪一项因素最有助于确定死亡原因？"
+  },
+  "question": {
+    "en": "Which of the following factors in this patient's medical history would be most helpful in determining the cause of death?",
+    "zh": "以下患者病史中的哪一项因素最有助于确定死亡原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Alcohol consumption",
+      "zh": "饮酒"
+    },
+    "B": {
+      "en": "Location of residence",
+      "zh": "居住地"
+    },
+    "C": {
+      "en": "Childhood vaccinations",
+      "zh": "儿童疫苗接种"
+    },
+    "D": {
+      "en": "Family history of cardiomyopathy",
+      "zh": "心肌病家族史"
+    },
+    "E": {
+      "en": "Occupational chemical exposure",
+      "zh": "职业性化学物质暴露"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The patient's autopsy findings are highly suggestive of chronic Chagas cardiomyopathy. Chagas disease is caused by the protozoan Trypanosoma cruzi, which is transmitted by the triatomine (\"kissing\") bug. This vector is endemic in Central and South America, and infection is rare in developed regions but can occur in individuals who have traveled to or lived in endemic areas. The characteristic cardiac manifestations of chronic Chagas disease include dilated cardiomyopathy with biventricular failure, apical wall thinning with aneurysm and mural thrombus, and ventricular arrhythmias, all of which are described in the autopsy findings. Gastrointestinal manifestations, such as megaesophagus and megacolon, are also common and are noted in this patient. Therefore, the patient's location of residence or travel history would be the most helpful factor in determining the cause of death, as it would strongly suggest Chagas disease as the etiology.\n\n(A) Excessive alcohol consumption can lead to dilated cardiomyopathy (DCM), but the apical thinning and aneurysm are not typical features. The autopsy findings are more specific for Chagas disease.\n(C) Childhood vaccinations are generally not related to the development of cardiomyopathy or sudden death in this manner.\n(D) A family history of cardiomyopathy could suggest a genetic cause, but the specific findings of apical thinning, aneurysm, and esophageal dilation are more characteristic of Chagas disease.\n(E) Occupational chemical exposure can sometimes be linked to cardiac disease, but there are no specific chemicals that are known to cause this constellation of findings, especially the apical thinning and esophageal involvement, as strongly as Trypanosoma cruzi infection.",
+    "zh": "患者的尸检结果高度提示慢性查加斯病性心肌病。查加斯病是由锥虫（Trypanosoma cruzi）引起的，锥虫通过锥蝽（“接吻虫”）传播。这种媒介在拉丁美洲和南美洲是地方性的，在发达地区感染很少见，但可能发生在去过或居住在流行地区的人身上。慢性查加斯病具有特征性的心脏表现，包括扩张型心肌病伴双心室衰竭、心尖壁变薄伴动脉瘤和壁栓，以及室性心律失常，所有这些都在尸检结果中有所描述。胃肠道表现，如巨食管和巨结肠，也很常见，并且在此患者中也有记录。因此，患者的居住地或旅行史将是最有助于确定死亡原因的因素，因为它强烈提示查加斯病是病因。\n\n(A) 过量饮酒可导致扩张型心肌病 (DCM)，但心尖变薄和动脉瘤并非典型特征。尸检结果对查加斯病的特异性更高。\n(C) 儿童疫苗接种通常与心肌病或这种方式的猝死无关。\n(D) 心肌病家族史可能提示遗传原因，但心尖变薄、动脉瘤和食管扩张的具体发现更具查加斯病的特征。\n(E) 职业性化学物质暴露有时可能与心脏病有关，但没有特定的化学物质已知会引起这种综合表现，尤其是心尖变薄和食管受累，正如锥虫感染那样。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the clinical presentation and etiology of Chagas cardiomyopathy, a parasitic infection with specific cardiac and gastrointestinal manifestations. It requires correlating autopsy findings with potential historical risk factors.\n\nTo solve this question, one must recognize the pathognomonic autopsy findings of apical thinning, aneurysm, and esophageal dilation as highly suggestive of Chagas disease. Then, consider the epidemiological risk factors for Chagas disease, particularly the geographic location of residence or travel, to determine the most relevant historical information for diagnosis.",
+    "zh": "此题考察对查加斯病性心肌病的临床表现和病因的理解，这是一种具有特定心脏和胃肠道表现的寄生虫感染。它需要将尸检结果与潜在的病史风险因素相关联。\n\n要解决这个问题，必须认识到心尖变薄、动脉瘤和食管扩张的病理学尸检发现高度提示查加斯病。然后，考虑查加斯病的流行病学风险因素，特别是居住地或旅行的地理位置，以确定最相关的病史信息以进行诊断。"
+  },
+  "tags": "Chagas disease; Trypanosoma cruzi; Cardiomyopathy; Dilated cardiomyopathy; Apical aneurysm; Megaesophagus; Sudden cardiac death; Autopsy findings; Epidemiology; Infectious disease",
+  "category": "CVS",
+  "question_id": "15213",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\15213",
+  "extracted_at": "2025-11-05T19:19:19.478670",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:48:35.651643",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

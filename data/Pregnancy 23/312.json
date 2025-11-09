@@ -1,0 +1,70 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old woman, gravida 1 para 0, comes to the office to discuss abnormal laboratory results. The patient is at 18 weeks gestation based on her last menstrual period. She has no chronic medical conditions and takes no daily medications. Results of the quadruple screen performed previously are as follows:\n\nMaternal serum \\u03b1-fetoprotein: Low\nUnconjugated estriol: Low\n\\u03b2-hCG: High\nInhibin A: High\n\n{{exhibit_1}}\n\nWhich of the following is the most likely diagnosis?",
+    "zh": "一位32岁女性，孕1产0，前来诊所讨论异常的实验室检查结果。患者根据末次月经推算已怀孕18周。她没有慢性疾病，也没有服用日常药物。之前进行的四联筛查结果如下：\n\n孕妇血清甲胎蛋白：低\n非结合雌三醇：低\nβ-hCG：高\n抑制素A：高\n\n{{exhibit_1}}\n\n以下哪项是最可能的诊断？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Amniotic band sequence",
+      "zh": "羊膜带序列"
+    },
+    "B": {
+      "en": "Gastroschisis",
+      "zh": "腹裂"
+    },
+    "C": {
+      "en": "Multiple gestation",
+      "zh": "多胎妊娠"
+    },
+    "D": {
+      "en": "Myelomeningocele",
+      "zh": "脊髓脊膜膨出"
+    },
+    "E": {
+      "en": "Trisomy 21",
+      "zh": "21-三体综合征"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "The quadruple screen results show low maternal serum \\u03b1-fetoprotein (MSAFP) and low unconjugated estriol, along with high \\u03b2-hCG and high inhibin A. This pattern is characteristic of Trisomy 21 (Down syndrome). {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "四联筛查结果显示孕妇血清甲胎蛋白（MSAFP）低，非结合雌三醇低，以及β-hCG高，抑制素A高。这种模式是21-三体综合征（唐氏综合征）的特征。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "The patient's quadruple screen results (low MSAFP, low estriol, high \\u03b2-hCG, high inhibin A) are most consistent with Trisomy 21.",
+    "zh": "患者的四联筛查结果（MSAFP低，雌三醇低，β-hCG高，抑制素A高）与21-三体综合征最为一致。"
+  },
+  "tags": [
+    "obstetrics",
+    "genetics",
+    "prenatal screening",
+    "quadruple screen",
+    "Trisomy 21",
+    "Down syndrome"
+  ],
+  "category": "Pregnancy",
+  "question_id": "312",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pregnancy 23\\312",
+  "extracted_at": "2025-11-05T19:47:19.618962",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:49:26.046761",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

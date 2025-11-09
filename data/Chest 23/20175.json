@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 54-year-old woman comes to the office due to worsening nonproductive cough and dyspnea for the past several months. She also reports anorexia and an unintentional weight loss of 7 kg (15.4 lb). The patient has no prior medical conditions, takes no medications, and is a lifelong nonsmoker. Physical examination shows decreased breath sounds on the left side. Chest x-ray reveals a large left-sided pleural effusion {{exhibit_1}}. Thoracentesis yields fluid with a large number of red blood cells and numerous atypical cells staining positive for mucin. Which of the following is the most likely primary mechanism of this patient's pleural effusion?",
+    "zh": "一名54岁女性因过去几个月来非生产性咳嗽和呼吸困难恶化就诊。她还报告了厌食症，并且意外地体重减轻了7公斤（15.4磅）。患者既往无任何疾病史，不服用任何药物，且终身不吸烟。体格检查显示左侧呼吸音减弱。胸部X光片显示左侧大量胸腔积液 {{exhibit_1}}。胸腔穿刺术获得的液体中有大量红细胞和许多非典型细胞，对粘蛋白染色呈阳性。以下哪项是该患者胸腔积液最可能的主要机制？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely primary mechanism of this patient's pleural effusion?",
+    "zh": "以下哪项是该患者胸腔积液最可能的主要机制？"
+  },
+  "options": {
+    "A": {
+      "en": "Decreased plasma oncotic pressure",
+      "zh": "血浆胶体渗透压降低"
+    },
+    "B": {
+      "en": "Disruption of the thoracic lymphatic duct",
+      "zh": "胸导管破裂"
+    },
+    "C": {
+      "en": "Increased intercostal venous pressure",
+      "zh": "肋间静脉压升高"
+    },
+    "D": {
+      "en": "Increased pulmonary capillary pressure",
+      "zh": "肺毛细血管压升高"
+    },
+    "E": {
+      "en": "Occlusion of pleural lymphatic stoma",
+      "zh": "胸膜淋巴孔阻塞"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's several-month history of nonproductive cough, shortness of breath, and weight loss combined with a large left-sided pleural effusion on chest x-ray raises suspicion for malignancy. Thoracentesis yielding a high erythrocyte concentration (a common finding in malignant effusions) and atypical mucin cells is consistent with adenocarcinoma; lung adenocarcinoma and breast adenocarcinoma are 2 of the most common causes of malignant pleural effusion.\n\nMalignant effusions are exudative by Light criteria and can occur via several mechanisms:\n\n*   Localized lung inflammation can cause increased vascular permeability, resulting in increased inflow of fluid into the pleural space.\n*   Once malignant cells have metastasized to the pleural space, they can occlude the pleural lymphatic stoma located on the parietal surface and prevent pleural fluid reabsorption. This is likely the primary mechanism of effusion in this patient with evidence of pleural metastasis (ie, atypical mucin cells in pleural fluid).\n*   Disruption of the thoracic lymphatic duct is an occasional cause of malignant effusion that leads to a chylothorax (milky white pleural fluid with high triglyceride content). This mechanism is most commonly seen with lymphoma; it can sometimes occur due to mass effect of lung cancer on the thoracic duct, but this is relatively uncommon (Choice B).\n\n(Choice A) Decreased plasma oncotic pressure (ie, hypoalbuminemia) is a common cause of transudative pleural effusion. Although hypoalbuminemia due to malnutrition may complicate malignancy and could contribute to pleural effusion, it is unlikely to be the primary mechanism in this patient with evidence of pleural metastatic disease.\n\n(Choices C and D) Increased hydrostatic pressure in the pulmonary capillaries and intercostal veins can cause transudative pleural effusion in patients with decompensated heart failure or other causes of intravascular volume overload (eg, renal failure).\n\nEducational objective:\nMalignant pleural effusions are usually exudative by Light criteria and can occur via several mechanisms, including an inflammation-induced increase in vascular permeability (leading to increased inflow) and blockage of pleural fluid reabsorption by parietal pleura lymphatics (leading to decreased outflow) {{exhibit_2}}{{exhibit_3}}.",
+    "zh": "该患者数月来非生产性咳嗽、呼吸急促和体重减轻的病史，加上胸部X光片上显示的左侧大量胸腔积液，提示可能患有恶性肿瘤。胸腔穿刺术显示红细胞浓度高（恶性积液的常见发现）和非典型粘蛋白细胞，与腺癌一致；肺腺癌和乳腺腺癌是恶性胸腔积液的两种最常见原因。\n\n恶性积液根据Light标准属于渗出液，可通过多种机制发生：\n\n*   局部肺部炎症可导致血管通透性增加，导致液体流入胸膜腔增加。\n*   一旦恶性细胞转移到胸膜腔，它们可以阻塞位于壁层表面的胸膜淋巴孔，阻止胸膜液的再吸收。这可能是该患者积液的主要机制，患者有胸膜转移的证据（即，胸膜液中的非典型粘蛋白细胞）。\n*   胸导管破裂是恶性积液的偶发原因，会导致乳糜胸（乳白色胸膜液，甘油三酯含量高）。这种机制最常见于淋巴瘤；有时可能由于肺癌对胸导管的压迫作用而发生，但这相对不常见（选项B）。\n\n（选项A）血浆胶体渗透压降低（即低白蛋白血症）是漏出性胸腔积液的常见原因。尽管由于营养不良引起的低白蛋白血症可能使恶性肿瘤复杂化，并可能导致胸腔积液，但对于该患者来说，这不太可能是主要机制，因为该患者有胸膜转移性疾病的证据。\n\n（选项C和D）肺毛细血管和肋间静脉中的静水压升高可导致失代偿性心力衰竭或其他血管内容量超负荷（例如，肾衰竭）患者出现漏出性胸腔积液。\n\n教育目标：\n恶性胸腔积液通常根据Light标准属于渗出液，可通过多种机制发生，包括炎症引起的血管通透性增加（导致流入增加）和壁层胸膜淋巴管阻塞胸膜液的再吸收（导致流出减少） {{exhibit_2}}{{exhibit_3}}。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the pathophysiology of pleural effusions, specifically malignant effusions, and their common mechanisms. It requires understanding the clinical presentation suggestive of malignancy and how it relates to the development of pleural effusion.\n\nTo solve this question, consider the patient's risk factors (weight loss, smoking history), clinical findings (pleural effusion, decreased breath sounds), and thoracentesis results (atypical cells). These findings point towards a malignant effusion, making occlusion of pleural lymphatic stoma the most likely mechanism.",
+    "zh": "此问题考察对胸腔积液（特别是恶性积液）的病理生理学及其常见机制的了解。它要求理解提示恶性肿瘤的临床表现以及它与胸腔积液发展的关系。\n\n要解决这个问题，请考虑患者的危险因素（体重减轻、吸烟史）、临床发现（胸腔积液、呼吸音减弱）和胸腔穿刺结果（非典型细胞）。这些发现指向恶性积液，使胸膜淋巴孔阻塞成为最可能的机制。"
+  },
+  "tags": "Pleural effusion; Malignancy; Adenocarcinoma; Thoracentesis; Exudative effusion; Lymphatic obstruction; Vascular permeability; Oncology; Respiratory medicine",
+  "category": "Chest",
+  "question_id": "20175",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\20175",
+  "extracted_at": "2025-11-05T11:44:19.715816",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:38:40.693592",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,56 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man is evaluated in the clinic due to easy bruising. The patient says that even minor trauma causes a bruise and that he sometimes has spontaneous bruising over his legs. He has also experienced generalized fatigue, poor appetite, and dull pain and stiffness in his lower back and joints at night. The patient has a history of Crohn disease that required a partial bowel resection a year ago; he had no excessive bleeding during the perioperative period. Three months ago, he was treated with oral antibiotics for a perianal fistula. Physical examination shows an abdominal wall hematoma and several large ecchymoses on his lower extremities. Which of the following is the most likely underlying cause of this patient's excessive bleeding? {{exhibit_1}}",
+    "zh": "一名34岁男性因易于出现瘀伤而在诊所接受评估。患者表示，即使是轻微的创伤也会导致瘀伤，并且他有时腿部会出现自发性瘀伤。他还经历了全身疲劳、食欲不振、以及夜间下背部和关节的钝痛和僵硬。患者有克罗恩病的病史，一年前接受了部分肠切除术；围手术期无过度出血。三个月前，他因肛周瘘管接受了口服抗生素治疗。体格检查显示腹壁血肿和下肢多处大片瘀斑。以下哪项最可能是该患者过度出血的潜在原因？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely underlying cause of this patient's excessive bleeding?",
+    "zh": "以下哪项最可能是该患者过度出血的潜在原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Autoimmune hepatitis",
+      "zh": "自身免疫性肝炎"
+    },
+    "B": {
+      "en": "Bile acid malabsorption",
+      "zh": "胆汁酸吸收不良"
+    },
+    "C": {
+      "en": "Factor VIII deficiency",
+      "zh": "凝血因子VIII缺乏症"
+    },
+    "D": {
+      "en": "Leukocytoclastic vasculitis",
+      "zh": "白细胞碎裂性血管炎"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Although this patient underwent bowel resection for Crohn disease, his persistent fatigue, poor appetite, and joint/back pain (likely representing IBD-associated arthritis) are highly suggestive of recurrent/refractory disease, which frequently occurs despite operative management.\n\nCrohn disease causes transmural inflammation of the bowel wall that most frequently affects the terminal ileum. Bile acids, necessary for the absorption of fat, are normally reabsorbed in the terminal ileum, recycled in the liver, and then reused in the absorptive process (ie, enterohepatic circulation). Patients with extensive terminal ileum inflammation or a history of ileal resection can lose excessive amounts of bile acids in the feces. This causes FAT MALABSORPTION, which may lead to deficiencies in fat-soluble vitamins (A, D, E, K).\n\nVitamin K is a cofactor for several carboxylase enzymes necessary for the activation of coagulation factors II, VII, IX, and X. Coagulation disorders such as VITAMIN K DEFICIENCY typically result in easy bruising, bleeding in deep tissues and joints (eg, muscular hematomas, hemarthrosis) after minor trauma, and prolonged bleeding after surgery.\n\n(Choice A) Because the liver produces most coagulation factors, including vitamin K–dependent factors, autoimmune hepatitis may present with coagulopathy. However, patients with severe coagulopathy would be expected to have other signs of acute liver failure (eg, jaundice, hepatosplenomegaly, ascites). Furthermore, autoimmune hepatitis is more common in women than men and is more often associated with ulcerative colitis than Crohn disease.\n\n(Choice C) Factor VIII deficiency (hemophilia A) is an X-linked recessive coagulation disorder that tends to present in infancy or early childhood. Typical features include easy bruising, hemarthrosis, and prolonged bleeding after surgery (eg, tooth extraction).\n\n(Choice D) Leukocytoclastic vasculitis can be associated with antibiotic use (eg, penicillins, cephalosporins) or viral hepatitis infection; patients usually develop nonblanching petechiae or palpable purpura without excessive bleeding.\n\nEducational objective:\nCrohn disease with ileal resection or extensive ileal involvement can cause bile acid malabsorption, which may lead to impaired absorption of fat-soluble vitamins (A, D, E, K). Vitamin K deficiency can result in impaired coagulation with easy bruising, large hematoma formation in deep tissues and joints, and prolonged bleeding after surgery.",
+    "zh": "虽然该患者因克罗恩病接受了肠切除术，但其持续性疲劳、食欲不振和关节/背痛（可能代表IBD相关性关节炎）高度提示复发/难治性疾病，尽管进行了手术治疗，这种情况也经常发生。\n\n克罗恩病会导致肠壁的全层炎症，最常影响末端回肠。胆汁酸是脂肪吸收所必需的，通常在末端回肠被重吸收，在肝脏中再循环，然后在吸收过程中被重复使用（即，肝肠循环）。患有广泛末端回肠炎症或有回肠切除病史的患者，粪便中会丢失过量的胆汁酸。这会导致脂肪吸收不良，这可能导致脂溶性维生素（A、D、E、K）缺乏。\n\n维生素K是几种羧化酶的辅因子，这些酶对于凝血因子II、VII、IX和X的激活是必需的。凝血障碍，如维生素K缺乏症，通常会导致轻微创伤后易于出现瘀伤、深部组织和关节出血（如肌肉血肿、血肿）以及手术后出血时间延长。\n\n(选项A) 由于肝脏产生大多数凝血因子，包括维生素K依赖性因子，自身免疫性肝炎可能表现为凝血病。然而，患有严重凝血病的患者预计会出现急性肝功能衰竭的其他体征（例如，黄疸、肝脾肿大、腹水）。此外，自身免疫性肝炎在女性中比男性更常见，并且与溃疡性结肠炎的关系比克罗恩病更密切。\n\n(选项C) 凝血因子VIII缺乏症（血友病A）是一种X连锁隐性凝血障碍，通常在婴儿期或幼儿期出现。典型特征包括易于出现瘀伤、血肿和手术后出血时间延长（例如，拔牙）。\n\n(选项D) 白细胞碎裂性血管炎可能与抗生素使用（例如，青霉素、头孢菌素）或病毒性肝炎感染有关；患者通常会出现非褪色性瘀点或可触及的紫癜，但无过度出血。\n\n教育目标：\n克罗恩病伴回肠切除或广泛的回肠受累可引起胆汁酸吸收不良，这可能导致脂溶性维生素（A、D、E、K）吸收受损。维生素K缺乏症可导致凝血功能受损，表现为易于出现瘀伤、深部组织和关节大血肿形成，以及手术后出血时间延长。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the complications of Crohn's disease, specifically the malabsorption of fat-soluble vitamins like vitamin K due to bile acid malabsorption following ileal resection, leading to coagulopathy. It also tests the ability to differentiate this from other causes of bleeding disorders.\n\nTo solve this question, recognize the history of Crohn's disease and ileal resection, which predisposes to bile acid malabsorption. Consider the consequences of vitamin K deficiency on coagulation and rule out other bleeding disorders based on their typical presentations.",
+    "zh": "此题考察对克罗恩病并发症的了解，特别是由于回肠切除术后胆汁酸吸收不良而导致的脂溶性维生素（如维生素K）吸收不良，从而导致凝血病。它还测试了区分这种情况与其他出血性疾病原因的能力。\n\n要解决这个问题，需要认识到克罗恩病和回肠切除术的病史，这易于发生胆汁酸吸收不良。考虑维生素K缺乏症对凝血的影响，并根据其他出血性疾病的典型表现排除它们。"
+  },
+  "tags": "Crohn disease; Ileal resection; Bile acid malabsorption; Vitamin K deficiency; Coagulopathy; Fat-soluble vitamins; Gastrointestinal disease; Hematology",
+  "category": "Immunology",
+  "question_id": "12047",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\12047",
+  "extracted_at": "2025-11-05T14:40:13.383333",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:00:09.702615",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

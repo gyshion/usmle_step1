@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old man comes to the office due to chest pain over the last 6 months. He describes pressure-like pain in the substernal area when walking fast or climbing stairs that gradually subsides when he stops. The patient does not smoke cigarettes or use illicit drugs. He has no family history of heart disease or sudden death. Physical examination shows a {{exhibit_1}} mid-systolic murmur at the upper sternum and slow-rising carotid pulses. After initial evaluation, cardiac catheterization is performed and reveals 30% stenosis of the mid-left anterior descending artery. A 50 mm Hg pressure gradient is seen when a catheter is passed across the aortic valve. Which of the following is the most important contributor to this patient's presenting symptoms?",
+    "zh": "一名62岁男性因过去6个月的胸痛来就诊。他描述当快速行走或爬楼梯时，胸骨下区域出现压迫样疼痛，停下来时逐渐缓解。患者不吸烟，也不使用违禁药物。他无心脏病或猝死的家族史。体格检查显示{{exhibit_1}}在上胸骨处听到中收缩期杂音，并且颈动脉搏动缓慢上升。初步评估后，进行心脏导管插入术，显示左前降支中段有30%的狭窄。当导管通过主动脉瓣时，可见50 mm Hg的压力梯度。以下哪项是导致该患者出现症状的最重要因素？"
+  },
+  "question": {
+    "en": "Which of the following is the most important contributor to this patient's presenting symptoms?",
+    "zh": "以下哪项是导致该患者出现症状的最重要因素？"
+  },
+  "options": {
+    "A": {
+      "en": "Decrease in coronary blood supply due to lipid-rich plaque",
+      "zh": "由于富含脂质的斑块导致冠状动脉血供减少"
+    },
+    "B": {
+      "en": "Decrease in coronary blood supply due to vasospasm",
+      "zh": "由于血管痉挛导致冠状动脉血供减少"
+    },
+    "C": {
+      "en": "Decrease in left ventricular compliance",
+      "zh": "左心室顺应性降低"
+    },
+    "D": {
+      "en": "Increase in left ventricular stroke volume",
+      "zh": "左心室每搏输出量增加"
+    },
+    "E": {
+      "en": "Increase in left ventricular wall stress",
+      "zh": "左心室壁应力增加"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's slow-rising carotid pulses, mid-systolic murmur, and large pressure gradient across the aortic valve are consistent with severe aortic stenosis (AS). Patients can remain asymptomatic for long periods but eventually develop classic symptoms of severe AS: dyspnea is typically the first manifestation, followed by angina, presyncope or syncope, and overt heart failure. The symptoms of severe AS usually occur with exertion, as the capacity to increase stroke volume and cardiac output is limited due to the fixed left ventricular outflow obstruction (Choice D). This outflow obstruction also leads to higher chamber pressures and increased wall stress during systole and diastole. The rise in systolic wall stress increases myocardial oxygen demand while the increased diastolic wall stress reduces the coronary perfusion pressure gradient, leading to decreased myocardial perfusion. Increased left ventricular mass due to concentric hypertrophy further increases myocardial oxygen demand and contributes to anginal symptoms. (Choice A) Reduced coronary blood supply due to flow-limiting atherosclerotic plaque can cause angina in patients with obstructive coronary artery disease. Stenosis >70% is typically necessary for anginal symptoms to develop; this patient's 30% stenosis is not clinically significant. Angina often occurs in severe AS in the absence of coronary artery disease. (Choice B) Decreased coronary blood supply due to vasospasm is seen in patients with vasospastic (Prinzmetal) angina. Coronary vasospasm typically affects relatively young patients (age <50) and is not related to the angina that occurs with severe AS. (Choice C) Decreased left ventricular compliance occurs over time in AS due to the prolonged high-pressure load created by the stenotic valve. This can result in heart failure (eg, fatigue, dyspnea) due to diastolic dysfunction, but would be less likely to induce anginal symptoms.",
+    "zh": "该患者的颈动脉搏动缓慢上升、中收缩期杂音以及主动脉瓣上的大压差与重度主动脉瓣狭窄（AS）一致。患者可能在很长一段时间内没有症状，但最终会出现重度AS的典型症状：呼吸困难通常是首发表现，随后是心绞痛、晕厥前或晕厥，以及明显的充血性心力衰竭。重度AS的症状通常发生在劳累时，因为由于固定的左心室流出道梗阻（选项D），增加每搏输出量和心输出量的能力受到限制。这种流出道梗阻也会导致收缩期和舒张期心腔压力升高和壁应力增加。收缩期壁应力的升高会增加心肌耗氧量，而舒张期壁应力的增加会降低冠状动脉灌注压梯度，从而导致心肌灌注减少。由于向心性肥大引起的左心室质量增加会进一步增加心肌耗氧量，并导致心绞痛症状。（选项A）由于血流受限的动脉粥样硬化斑块导致的冠状动脉血供减少，可导致阻塞性冠状动脉疾病患者出现心绞痛。通常需要>70%的狭窄才会出现心绞痛症状；该患者30%的狭窄在临床上无意义。心绞痛通常发生在重度AS中，而没有冠状动脉疾病。（选项B）由于血管痉挛导致的冠状动脉血供减少见于血管痉挛性（Prinzmetal）心绞痛患者。冠状动脉痉挛通常影响相对年轻的患者（年龄<50岁），与重度AS引起的心绞痛无关。（选项C）由于狭窄瓣膜产生的长期高压负荷，AS患者的左心室顺应性会随着时间的推移而降低。这可能导致由于舒张功能障碍引起心力衰竭（如疲劳、呼吸困难），但不太可能诱发心绞痛症状。"
+  },
+  "summary": {
+    "en": "The patient presents with symptoms suggestive of severe aortic stenosis, characterized by a mid-systolic murmur, slow-rising carotid pulses, and a significant pressure gradient across the aortic valve. The chest pain is primarily attributed to increased left ventricular wall stress, which elevates myocardial oxygen demand and reduces coronary perfusion, especially during exertion. While other factors like coronary artery disease or vasospasm can cause angina, they are less likely in this specific clinical context. The increased wall stress is a direct consequence of the outflow obstruction caused by aortic stenosis.",
+    "zh": "患者出现提示重度主动脉瓣狭窄的症状，其特征是中收缩期杂音、颈动脉搏动缓慢上升和主动脉瓣上的显着压力梯度。胸痛主要归因于左心室壁应力增加，这会提高心肌耗氧量并减少冠状动脉灌注，尤其是在劳累期间。虽然像冠状动脉疾病或血管痉挛之类的其他因素可能导致心绞痛，但在这种特定的临床背景下，它们发生的可能性较小。增加的壁应力是主动脉瓣狭窄引起的流出道梗阻的直接结果。"
+  },
+  "tags": [
+    "cardiology",
+    "aortic stenosis",
+    "angina",
+    "chest pain",
+    "left ventricular wall stress",
+    "myocardial oxygen demand"
+  ],
+  "category": "CVS",
+  "question_id": "14966",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\14966",
+  "extracted_at": "2025-11-05T19:19:04.937685",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:45:55.400100",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

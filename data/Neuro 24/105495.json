@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 66-year-old, right-handed man is brought to the emergency department due to possible stroke. This morning, his wife noticed that the patient's face appeared drooped and he was not moving his left arm. On physical examination, the patient is awake and alert and preferentially looks toward the right. Muscle strength is decreased in the left lower face and left upper and lower extremities. When asked to draw an analog clock face to show 3 o'clock, the patient places the numbers and hands on the right half, leaving an empty space on the left. Occlusion of which of the following labeled arteries in the image below {{exhibit_1}} is the most likely cause of this patient's current condition?",
+    "zh": "一名66岁、右利手的男性因可能发生的中风被送往急诊科。今天早上，他的妻子注意到患者的面部出现下垂，并且他的左臂无法活动。体格检查显示，患者清醒且警觉，并倾向于向右看。左侧面部下半部分和左侧上肢和下肢的肌力减弱。当被要求画一个模拟钟面来显示3点钟时，患者将数字和指针放在右半边，在左边留出空白。下图{{exhibit_1}}中标注的哪条动脉的闭塞最可能是导致该患者目前状况的原因？"
+  },
+  "question": {
+    "en": "Occlusion of which of the following labeled arteries in the image below {{exhibit_1}} is the most likely cause of this patient's current condition?",
+    "zh": "下图{{exhibit_1}}中标注的哪条动脉的闭塞最可能是导致该患者目前状况的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient presents with symptoms suggestive of a stroke affecting the right hemisphere of the brain. The findings include left-sided weakness (face, arm, and leg), gaze deviation to the right, and left hemineglect (demonstrated by the clock drawing). These deficits point to a lesion in the contralateral (right) cerebral hemisphere.\n\nSpecifically:\n- Weakness of the left arm, leg, and face (upper motor neuron pattern) suggests a defect impacting the contralateral (right) primary motor cortex.\n- Gaze deviation to the right is usually due to a lesion impacting the frontal eye fields (location overlaps the premotor and prefrontal cortices). Gaze preference is typically toward the side of the lesion, suggesting a lesion in the right frontal cortex.\n- Left hemineglect is unawareness of the left side of the world and/or body (as seen in this patient's clock drawing), usually due to a lesion in the nondominant (right) parietal cortex.\n\nThe posterior portions of the right frontal lobe and anterior portions of the right parietal lobe are supplied by the right middle cerebral artery (MCA), which arises from the internal carotid artery. In the provided angiogram {{exhibit_2}}, Choice C indicates the right MCA.\n\n(Choices A and B) Occlusion of the anterior cerebral artery (ACA) typically leads to contralateral motor or sensory deficits, which are more pronounced in the lower limb than in the upper limb and face. Urinary incontinence can also be seen due to disruption of the frontal micturition center. Behavioral changes due to dysfunction of the prefrontal cortex can include abulia, emotional disturbances, executive dysfunction, and the appearance of primitive reflexes (e.g., grasp reflex).\n\n(Choice D) Occlusion of the left middle cerebral artery would lead to right hemiparesis or hemisensory loss and gaze deviation to the left. In addition, because the left hemisphere is typically dominant, patients with left MCA occlusion often have aphasia.\n\n(Choice E) Occlusion of the basilar artery most often leads to a stroke impacting the pons. Strokes in the brainstem, including the pons, often cause crossed signs of contralateral hemiparesis or hemisensory loss with ipsilateral cranial nerve deficits.\n\nEducational objective: A stroke involving the middle cerebral artery often leads to contralateral hemiparesis and/or hemisensory loss. If it is in the nondominant (typically right) hemisphere, hemineglect and an unawareness of the condition are often present; aphasia is absent. {{exhibit_3}} {{exhibit_4}} {{exhibit_5}}",
+    "zh": "该患者表现出提示影响大脑右半球的中风的症状。 检查结果包括左侧无力（面部、手臂和腿部）、向右凝视偏斜和左侧忽略（通过时钟绘画显示）。这些缺陷表明对侧（右侧）大脑半球存在病变。\n\n具体来说：\n- 左臂、腿和面部的无力（上运动神经元模式）提示影响对侧（右侧）初级运动皮质的缺陷。\n- 向右凝视偏斜通常是由于影响额叶眼动区（位置与前运动皮质和前额叶皮质重叠）的病变引起的。 凝视偏好通常朝向病变侧，表明右额叶皮质存在病变。\n- 左侧忽略是对世界和/或身体左侧的无知（如该患者的时钟绘画所示），通常是由于非优势（右侧）顶叶皮质的病变引起的。\n\n右额叶后部和右顶叶前部由右侧大脑中动脉（MCA）供血，该动脉源自颈内动脉。在提供的血管造影图{{exhibit_2}}中，选项C表示右侧MCA。\n\n（选项A和B）前脑动脉（ACA）的闭塞通常会导致对侧运动或感觉缺陷，在下肢比在上肢和面部更明显。由于额叶排尿中枢的破坏，也可能出现尿失禁。由于前额叶皮质功能障碍引起的行为改变可包括冷漠、情绪障碍、执行功能障碍以及原始反射的出现（例如，抓握反射）。\n\n（选项D）左侧大脑中动脉闭塞将导致右侧轻偏瘫或感觉丧失，并向左凝视偏斜。此外，由于左半球通常占优势，左侧MCA闭塞的患者通常会出现失语症。\n\n（选项E）基底动脉闭塞最常导致影响脑桥的中风。脑干中风，包括脑桥，通常会导致对侧轻偏瘫或感觉丧失，并伴有同侧脑神经功能缺损。\n\n教学目标：涉及大脑中动脉的中风通常会导致对侧轻偏瘫和/或感觉丧失。 如果它位于非优势（通常是右侧）半球，通常存在忽略和对该状况的无知； 失语症不存在。{{exhibit_3}} {{exhibit_4}} {{exhibit_5}}"
+  },
+  "summary": {
+    "en": "This question tests the understanding of stroke localization based on neurological deficits and the anatomical supply of cerebral arteries. It requires correlating specific symptoms like hemiparesis, gaze deviation, and hemineglect with the affected brain regions and their vascular supply, particularly the middle cerebral artery.\n\nTo solve this question, one must first identify the laterality of the neurological deficits (left-sided weakness, right gaze deviation, left hemineglect) to infer a lesion in the right cerebral hemisphere. Then, by recognizing that the MCA supplies large portions of the lateral cerebral hemisphere, including motor and sensory cortices and frontal eye fields, and by identifying the right MCA on the provided angiogram, the correct answer can be determined.",
+    "zh": "这个问题考察了基于神经功能缺损和脑动脉解剖供应的中风定位的理解。它需要将特定症状（如轻偏瘫、凝视偏斜和忽略）与受影响的脑区及其血管供应（尤其是大脑中动脉）相关联。\n\n要解决这个问题，首先必须确定神经功能缺损的侧向性（左侧无力、右侧凝视偏斜、左侧忽略）以推断右侧大脑半球的病变。然后，通过认识到MCA为大脑外侧半球的大部分区域供血，包括运动和感觉皮质以及额叶眼动区，并通过在提供的血管造影图上识别右侧MCA，可以确定正确的答案。"
+  },
+  "tags": "Stroke; Cerebrovascular accident; Middle cerebral artery; Hemiparesis; Hemineglect; Gaze deviation; Angiography; Neurology; Localization of lesions",
+  "category": "Neuro",
+  "question_id": "105495",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\105495",
+  "extracted_at": "2025-11-05T19:30:49.716631",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:30:08.129976",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

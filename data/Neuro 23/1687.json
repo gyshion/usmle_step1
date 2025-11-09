@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old man comes to the office with left arm clumsiness. Physical examination reveals motor weakness involving the left arm and leg. The patient's speech is slurred, and there is drooping of the left lower face. On passive flexion of the left arm, there is initial resistance followed by a sudden release of tension as flexion is continued. A lesion affecting which of the following brain structures is most likely responsible for this patient's condition? {{exhibit_1}}",
+    "zh": "一名62岁男性前来就诊，主诉左臂笨拙。体格检查显示左臂和腿部出现运动无力。患者言语不清，左侧下脸下垂。被动屈曲左臂时，最初有阻力，随后在继续屈曲时突然释放张力。影响以下哪个脑结构的病变最有可能导致该患者的病情？ {{exhibit_1}}"
+  },
+  "question": {
+    "en": "A lesion affecting which of the following brain structures is most likely responsible for this patient's condition?",
+    "zh": "影响以下哪个脑结构的病变最有可能导致该患者的病情？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has clasp-knife spasticity, which is characterized by initial resistance to passive flexion followed by a sudden release of tension. This form of spasticity is seen with UPPER MOTOR NEURON lesions and results from a lack of upper motor neuron inhibition on the spinal stretch reflex arc. With passive arm flexion, the extensor muscles are activated by the disinhibited stretch reflex, causing initial resistance that can be overcome with continued flexion.\n\nUpper motor neuron lesions can affect any part of the pyramidal motor system (eg, corticobulbar/corticospinal tracts), which runs from the precentral gyrus (primary motor cortex) through the internal capsule to the brainstem and spinal cord. Patients with an INTERNAL CAPSULE STROKE can have both sensory and motor deficits, but most commonly have pure MOTOR WEAKNESS affecting the contralateral arm, leg, and lower face as well as clasp-knife spasticity, hyperreflexia, and a positive Babinski sign.\n\n(Choices A, D, and E) The caudate nucleus, putamen, and globus pallidus (ie, basal ganglia) are part of the extrapyramidal motor system, which regulates both voluntary and involuntary motor function (eg, posture, muscle tone, prevention of erratic movements). Lesions to these structures can result in motor dysfunction, including chorea (ie, random, jerky, uncontrollable movements), tremor, bradykinesia, or rigidity, as well as changes in cognition and behavior.\n\n(Choice C) The insular cortex (insula) plays a role in emotional experience (in conjunction with the limbic system), autonomic function, and introspection/awareness of visceral sensations.\n\nEducational objective:\nUpper motor neuron lesions (ie, internal capsule stroke) cause contralateral weakness with clasp-knife spastic rigidity, hyperreflexia, and a positive Babinski sign. These lesions damage the pyramidal motor system (eg, corticospinal tracts), which runs from the precentral gyrus (primary motor cortex) through the internal capsule to the brainstem and spinal cord. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "该患者患有折刀样痉挛，其特征是最初对被动屈曲有阻力，随后突然释放张力。这种形式的痉挛见于上运动神经元病变，是由于上运动神经元对脊髓牵张反射弧的抑制不足所致。在被动屈曲手臂时，伸肌被去抑制的牵张反射激活，引起最初的阻力，但可以通过持续屈曲克服。\n\n上运动神经元病变可影响锥体运动系统的任何部分（例如，皮质脑干/皮质脊髓束），该系统从中央前回（初级运动皮层）通过内囊延伸至脑干和脊髓。内囊卒中的患者可出现感觉和运动功能障碍，但最常见的是纯粹的运动无力，影响对侧手臂、腿和下脸，以及折刀样痉挛、反射亢进和巴宾斯基征阳性。\n\n（选项 A、D 和 E）尾状核、壳核和苍白球（即，基底神经节）是锥体外系运动系统的一部分，该系统调节自主和不自主的运动功能（例如，姿势、肌张力、防止不规则运动）。这些结构的病变可导致运动功能障碍，包括舞蹈症（即，随机、抽搐、无法控制的运动）、震颤、运动迟缓或僵硬，以及认知和行为的改变。\n\n（选项 C）脑岛皮层（岛叶）在情绪体验（与边缘系统一起）、自主神经功能和内省/内脏感觉意识中起作用。\n\n教育目标：\n上运动神经元病变（即，内囊卒中）引起对侧无力，伴有折刀样痉挛性僵硬、反射亢进和巴宾斯基征阳性。这些病变损伤锥体运动系统（例如，皮质脊髓束），该系统从中央前回（初级运动皮层）通过内囊延伸至脑干和脊髓。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of upper motor neuron lesions, specifically internal capsule stroke, and its characteristic presentation including contralateral weakness and clasp-knife spasticity. It also requires understanding of brain anatomy and the functions of different brain structures.\n\nTo solve this question, identify the key findings of upper motor neuron lesion (weakness, spasticity) and correlate them with the anatomical location of the internal capsule. Rule out other brain structures based on their known functions and the patient's presentation.",
+    "zh": "此题考察上运动神经元病变的知识，特别是内囊卒中，以及其特征性表现，包括对侧无力和折刀样痉挛。它还需要了解脑部解剖结构和不同脑结构的功能。\n\n要解决这个问题，需要识别上运动神经元病变的关键发现（无力、痉挛），并将它们与内囊的解剖位置相关联。根据其他脑结构的已知功能和患者的表现，排除其他脑结构。"
+  },
+  "tags": "Internal capsule stroke; Upper motor neuron lesion; Clasp-knife spasticity; Motor weakness; Neurology; Brain anatomy; Pyramidal tract",
+  "category": "Neuro",
+  "question_id": "1687",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1687",
+  "extracted_at": "2025-11-05T15:21:07.153530",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:21:17.705360",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

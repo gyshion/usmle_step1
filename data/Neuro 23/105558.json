@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man with a history of hypertension is brought to the hospital due to sudden-onset vertigo and dizziness that started an hour ago. On physical examination, there is ptosis and pupillary constriction in the left eye. Extraocular movements are normal in both eyes. Pain and temperature sensations are decreased over the left side of the face, and the direct corneal reflex is absent on the left. Pain and temperature are also decreased over the right side of the body. Muscle strength is 5/5 in all 4 extremities with normal deep tendon reflexes. {{exhibit_1}}",
+    "zh": "一名有高血压病史的65岁男性因突发性眩晕和头晕被送往医院，症状发生于一小时前。体格检查显示，左眼出现眼睑下垂和瞳孔缩小。双眼眼外肌运动正常。左侧面部疼痛和温度感觉降低，左侧直接角膜反射消失。身体右侧的疼痛和温度也降低。四肢肌力均为5/5，深腱反射正常。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's asymmetrical pupils?",
+    "zh": "以下哪项最可能是该患者瞳孔不对称的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Abnormal neuromuscular junction transmission",
+      "zh": "神经肌肉接头传递异常"
+    },
+    "B": {
+      "en": "Compression of the oculomotor nerve (CN III)",
+      "zh": "动眼神经（CN III）受压"
+    },
+    "C": {
+      "en": "Compression of the trigeminal nerve (CN V)",
+      "zh": "三叉神经（CN V）受压"
+    },
+    "D": {
+      "en": "Decreased parasympathetic activity",
+      "zh": "副交感神经活动降低"
+    },
+    "E": {
+      "en": "Impaired sympathetic activity",
+      "zh": "交感神经活动受损"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient with acute vertigo, sensory loss, and abnormal eye findings most likely suffered a stroke affecting the brainstem. The presence of unilateral ptosis and miosis indicates impaired sympathetic activity (ie, Horner syndrome). Sympathetic innervation of the eye follows a complex pathway:\n\n*   First order axons originate in the hypothalamus and descend in the lateral brainstem (next to the spinothalamic tract)\n*   They exit the spinal cord at T1 and T2 to reach the paravertebral sympathetic chain\n*   Second order axons ascend to the superior cervical ganglion\n*   Third order axons then continue to ascend along the carotid artery via the carotid plexus\n*   They then traverse the ciliary and oculomotor nerves to innervate the:\n    *   Pupillary dilator muscle (dilates pupil)\n    *   Superior tarsal muscle (elevates upper lid)\n\nThis patient also has a unilateral loss of the direct (afferent) corneal reflex, which is mediated by the ophthalmic nerve (CN V1). In combination with the loss of pain and temperature sensation on the same side of the face, these findings suggest damage to the ipsilateral spinal trigeminal nucleus in the lateral medulla. The patient's vertigo (vestibular nucleus) and contralateral loss of pain and temperature sensation of the body (spinothalamic tract) are further consistent with damage to the lateral medulla (ie, lateral medullary syndrome).\n\n(Choice A) Abnormal neuromuscular junction function can result in myasthenia gravis, which often causes asymmetric fluctuating ptosis. However, patients with myasthenia gravis often have diplopia, the pupils are not affected, and they do not have sensation deficits.\n\n(Choice B) The oculomotor nerve (CN III) provides parasympathetic input to the iris and lens, and also regulates pupillary constriction. However, damage to parasympathetics would lead to abnormal pupillary dilation. In addition, because CN III provides motor innervation to most of the extraocular muscles, dysfunction would also lead to abnormal extraocular movements.\n\n(Choice C) Compression of the trigeminal nerve (CN V) could lead to impaired facial sensation and an absent corneal reflex (due to interruption of the afferent sensory limb of the corneal reflex). However, it would not lead to ptosis or a constricted pupil.\n\n(Choice D) A constricted pupil occurs in Horner syndrome because the normal parasympathetic activity is not balanced by the sympathetic activity. This relative overactivity of parasympathetics when compared to the activity of sympathetics leads to pupillary constriction. Decreased parasympathetic activity would be expected to cause a dilated pupil.\n\nEducational objective:\nA stroke in the lateral brainstem can lead to ipsilateral Horner syndrome because sympathetic neurons travel next to the spinothalamic tract in the lateral medulla. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "该患者出现急性眩晕、感觉丧失和眼部异常表现，最有可能患有影响脑干的卒中。单侧眼睑下垂和瞳孔缩小表明交感神经活动受损（即Horner综合征）。眼睛的交感神经支配遵循复杂的通路：\n\n*   第一级轴突起源于下丘脑，在脑干侧部（邻近脊髓丘脑束）下降\n*   它们从T1和T2的脊髓发出，到达椎旁交感神经链\n*   第二级轴突上升到颈上神经节\n*   第三级轴突然后继续沿着颈动脉，通过颈动脉丛上升\n*   然后它们穿过睫状神经和动眼神经，支配：\n    *   瞳孔开大肌（扩张瞳孔）\n    *   上睑提肌（抬高上眼睑）\n\n该患者还出现单侧直接（传入）角膜反射消失，该反射由眼神经（CN V1）介导。结合面部同侧疼痛和温度感觉丧失，这些发现提示同侧延髓侧部脊髓三叉神经核受损。患者的眩晕（前庭神经核）和身体对侧疼痛和温度感觉丧失（脊髓丘脑束）进一步支持延髓侧部受损（即延髓侧综合征）。\n\n(选项A) 神经肌肉接头功能异常可导致重症肌无力，这常常引起不对称性波动性眼睑下垂。然而，重症肌无力患者常有复视，瞳孔不受影响，并且没有感觉缺陷。\n\n(选项B) 动眼神经（CN III）为虹膜和晶状体提供副交感神经输入，并且还调节瞳孔收缩。然而，副交感神经受损会导致瞳孔异常放大。此外，由于CN III为大多数眼外肌提供运动神经支配，功能障碍也会导致眼外肌运动异常。\n\n(选项C) 三叉神经（CN V）受压可能导致面部感觉受损和角膜反射消失（由于角膜反射传入感觉分支中断）。然而，它不会导致眼睑下垂或瞳孔缩小。\n\n(选项D) 霍纳综合征中发生瞳孔缩小，因为正常的副交感神经活动未被交感神经活动平衡。与交感神经的活动相比，副交感神经的这种相对过度活跃导致瞳孔收缩。预计副交感神经活动降低会导致瞳孔放大。\n\n教育目标：\n脑干侧部的卒中可导致同侧Horner综合征，因为交感神经元在延髓侧部与脊髓丘脑束相邻。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Horner's syndrome and its association with lateral medullary syndrome (Wallenberg syndrome) following a stroke. It requires understanding the anatomical pathways involved in sympathetic innervation of the eye and the clinical presentation of lesions affecting these pathways.\n\nTo solve this question, recognize the constellation of ptosis, miosis, and sensory deficits as indicative of Horner's syndrome. Consider the patient's history of sudden-onset vertigo and dizziness, suggesting a brainstem stroke, and correlate the findings with the anatomical location of the sympathetic pathways in the lateral medulla.",
+    "zh": "此题考察对Horner综合征及其与卒中后延髓侧综合征（Wallenberg综合征）关联性的知识。它需要理解涉及眼睛交感神经支配的解剖通路以及影响这些通路的病变的临床表现。\n\n要解决这个问题，需要认识到眼睑下垂、瞳孔缩小和感觉缺陷的组合表明Horner综合征。考虑患者突发眩晕和头晕的病史，提示脑干卒中，并将这些发现与延髓侧部交感神经通路的解剖位置相关联。"
+  },
+  "tags": "Horner syndrome; Lateral medullary syndrome; Wallenberg syndrome; Stroke; Brainstem; Sympathetic nervous system; Ptosis; Miosis; Neurology",
+  "category": "Neuro",
+  "question_id": "105558",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\105558",
+  "extracted_at": "2025-11-05T15:07:33.878842",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:16:19.010385",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

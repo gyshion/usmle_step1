@@ -1,0 +1,54 @@
+{
+  "question_stem": {
+    "en": "An 18-year-old woman comes to the office to discuss her pain medication. Five months ago, the patient fractured her vertebrae in a ski accident, requiring surgery and prolonged postsurgical rehabilitation. Since the accident, she has been prescribed hydrocodone/acetaminophen 4 times a day for pain. The patient's pain is adequately controlled and does not interfere with day-to-day activities. Over the past month, she has tried to stop the medication, but each time, she develops rhinorrhea, lacrimation, and vomiting, requiring her to take it to relieve the discomfort. The patient has reduced hydrocodone/acetaminophen intake from 4 to 3 times daily and cannot reduce it further due to these symptoms. She is anxious and frustrated about not being able to discontinue it. Urine drug screen is positive for hydrocodone only. A review of the state prescription drug monitoring database reveals no other controlled substances or irregularities.",
+    "zh": "一名18岁的女性前来就诊，讨论她的止痛药问题。五个月前，该患者在滑雪事故中骨折了椎骨，需要手术和长时间的术后康复。自事故发生以来，她每天被处方氢可酮/对乙酰氨基酚，每日4次，用于止痛。患者的疼痛得到了充分控制，并且不干扰日常活动。在过去的一个月里，她曾尝试停止用药，但每次都会出现鼻漏、流泪和呕吐，需要服用药物来缓解不适。患者已将氢可酮/对乙酰氨基酚的摄入量从每日4次减少到3次，由于这些症状，无法进一步减少。她对无法停药感到焦虑和沮丧。尿液药物筛查仅氢可酮呈阳性。对州处方药监测数据库的审查显示没有其他受控物质或异常情况。"
+  },
+  "question": {
+    "en": "Which of the following best describes this patient's condition?",
+    "zh": "以下哪项最能描述该患者的状况？"
+  },
+  "options": {
+    "A": {
+      "en": "Misuse",
+      "zh": "误用"
+    },
+    "B": {
+      "en": "Opioid use disorder",
+      "zh": "阿片类药物使用障碍"
+    },
+    "C": {
+      "en": "Physical dependence",
+      "zh": "躯体依赖"
+    },
+    "D": {
+      "en": "Tolerance",
+      "zh": "耐受性"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient on chronic opioid therapy has adequate pain control and is attempting to decrease the medication dose. However, she has features of PHYSICAL DEPENDENCE characterized by significant WITHDRAWAL SYMPTOMS (eg, vomiting, diarrhea, lacrimation, sweating) on discontinuation or decreased dosage.\n\nOpioid binding to mu opioid receptors inhibits the presynaptic release of pain neurotransmitters (eg, substance P, glutamate, calcitonin gene-related peptide). With continued use, opioids can induce receptor down-regulation and desensitization. Subsequently, loss of receptor activation due to reduction or cessation of the medication can cause withdrawal symptoms, as in this patient. Management of physical dependence may require a prolonged, scheduled taper of the medication, often with the assistance of a pain-management specialist.\n\n(Choice A) Opioid misuse is defined as using opioids in a way that deviates from their prescribed dosage (eg, overuse) or purpose (eg, relieving anxiety, sharing with or selling pills to others). It also includes obtaining opioids from multiple prescribers or taking nonprescribed controlled substances. This patient has no features of opioid misuse.\n\n(Choice B) Opioid use disorder is characterized by uncontrolled use despite harmful consequences (eg, social, professional). Although this patient exhibits withdrawal symptoms, her opioid use remains controlled. Also, her primary focus is stopping opioid therapy rather than securing the next dose, which is a feature common in patients with opioid use disorder.\n\n(Choice D) Opioid tolerance refers to increasing dose requirements to achieve the same pain control. Tolerance is commonly seen in patients with physical dependence, but would not explain this patient's withdrawal symptoms upon attempted dose reduction.\n\nEducational objective:\nChronic opioid therapy can lead to tolerance (ie, increased amount of opioids to achieve the same pain relief), physical dependence (ie, development of withdrawal symptoms after abrupt cessation), and opioid use disorder (ie, uncontrolled use despite harmful effects).",
+    "zh": "这位接受长期阿片类药物治疗的患者，疼痛控制良好，并且试图减少药物剂量。然而，她具有躯体依赖的特征，其特征在于停药或减少剂量时出现明显的戒断症状（如呕吐、腹泻、流泪、出汗）。\n\n阿片类药物与μ阿片受体结合会抑制突触前释放的疼痛神经递质（如P物质、谷氨酸、降钙素基因相关肽）。持续使用时，阿片类药物可诱导受体下调和脱敏。随后，由于药物的减少或停止导致受体激活的丧失，可能会引起戒断症状，如本患者。躯体依赖的管理可能需要延长、有计划的药物递减，通常需要疼痛管理专家的协助。\n\n（选项A）阿片类药物误用的定义是，以偏离其处方剂量（例如，过度使用）或目的（例如，缓解焦虑、与他人分享或出售药丸）的方式使用阿片类药物。它还包括从多个处方医生处获取阿片类药物或服用非处方的受控物质。该患者没有阿片类药物误用的特征。\n\n（选项B）阿片类药物使用障碍的特征是，尽管后果有害（例如，社会、职业），但仍不受控制地使用。尽管该患者表现出戒断症状，但她对阿片类药物的使用仍然受到控制。此外，她的主要关注点是停止阿片类药物治疗，而不是获取下一剂，这是阿片类药物使用障碍患者的常见特征。\n\n（选项D）阿片类药物耐受性是指需要增加剂量以达到相同的疼痛控制。耐受性常见于躯体依赖的患者，但无法解释该患者在尝试减少剂量时出现的戒断症状。\n\n教育目标：\n长期阿片类药物治疗可导致耐受性（即，需要增加阿片类药物剂量以达到相同的止痛效果）、躯体依赖性（即，突然停药后出现戒断症状）和阿片类药物使用障碍（即，尽管有有害影响，仍不受控制地使用）。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the differences between tolerance, physical dependence, and opioid use disorder in the context of chronic opioid therapy. It requires the clinician to differentiate these conditions based on the patient's presentation of withdrawal symptoms upon attempting to reduce or discontinue the medication, despite adequate pain control and no evidence of misuse or uncontrolled use.\n\nTo solve this question, one must carefully analyze the patient's symptoms and behaviors. The key is to identify the presence of withdrawal symptoms upon dose reduction or cessation, which is the hallmark of physical dependence. Differentiating this from misuse (deviant drug-taking behavior) and opioid use disorder (compulsive use despite harm) is crucial for accurate diagnosis and management.",
+    "zh": "此题考察了在长期阿片类药物治疗的背景下，对耐受性、躯体依赖和阿片类药物使用障碍之间差异的理解。它要求临床医生根据患者试图减少或停止用药时出现的戒断症状，尽管疼痛控制良好且无误用或不受控制使用的证据，来区分这些情况。\n\n要解决这个问题，必须仔细分析患者的症状和行为。关键是识别减少剂量或停药后出现戒断症状的情况，这是躯体依赖的标志。将这种情况与误用（异常的服药行为）和阿片类药物使用障碍（尽管有害，仍强迫性使用）区分开来，对于准确的诊断和管理至关重要。"
+  },
+  "tags": "Opioid therapy; Physical dependence; Withdrawal symptoms; Opioid misuse; Opioid use disorder; Tolerance; Pain management; Pharmacology",
+  "category": "Psychiatry",
+  "question_id": "106307",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\106307",
+  "extracted_at": "2025-11-05T19:47:37.749857",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:50:15.910000",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

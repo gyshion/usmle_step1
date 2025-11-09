@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 19-year-old woman with obesity comes to the office due to bifrontal headaches and early-morning nausea and vomiting for 4 weeks. She appears alert and is cooperative. Blood pressure is 114/78 mm Hg and pulse is 80/min. BMI is 31 kg/m². Funduscopy shows bilateral papilledema. Visual acuity is 20/20 bilaterally. Neurologic examination shows no abnormalities. CT scan of the head reveals no abnormalities {{exhibit_1}}.",
+    "zh": "一名患有肥胖症的 19 岁女性因双额头痛以及持续 4 周的清晨恶心和呕吐来就诊。她看起来很清醒并且配合。血压为 114/78 mmHg，脉搏为 80 次/分钟。BMI 为 31 kg/m²。眼底镜检查显示双侧视乳头水肿。双眼视力均为 20/20。神经系统检查未见异常。头部 CT 扫描未见异常 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely explanation for this patient's symptoms?",
+    "zh": "以下哪项最能解释该患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Aqueductal stenosis",
+      "zh": "导水管狭窄"
+    },
+    "B": {
+      "en": "Astrocyte swelling",
+      "zh": "星形胶质细胞肿胀"
+    },
+    "C": {
+      "en": "Cerebral venous hypertension",
+      "zh": "脑静脉高压"
+    },
+    "D": {
+      "en": "Increased production of cerebrospinal fluid",
+      "zh": "脑脊液产生增加"
+    },
+    "E": {
+      "en": "Neurodegeneration",
+      "zh": "神经退行性变"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient's headaches, nausea/vomiting, and papilledema are consistent with increased intracranial pressure (ICP). Headaches are nearly always present in patients with increased ICP. They can be of variable patterns but classically worsen during recumbent positioning (eg, at night, on waking in the morning) or while straining (eg, during bowel movements or heavy lifting), which increases ICP.\n\nAlthough the underlying cause of this patient's elevated ICP has yet to be proved, idiopathic intracranial hypertension (IIH) is likely, given her young age, obesity, lack of additional comorbidities, and normal CT scan of the head. Alternately, her presentation can be explained by a clot in the cerebral venous system (ie, cerebral venous sinus thrombosis [CVST]), which can also present with signs of increased ICP without obvious head CT findings.\n\nIIH and CVST are thought to share a similar pathophysiology. Cerebrospinal fluid (CSF) normally flows through the ventricular system until it is reabsorbed by the arachnoid granulations, after which it drains into the cerebral venous sinuses. Congestion of the venous system (ie, cerebral venous hypertension) due to either a clot (in CVST) or a primary increase in intracranial venous pressure (in IIH) leads to decreased CSF resorption, resulting in increased ICP.\n\n(Choices A and D) Aqueductal stenosis blocks CSF flow from the lateral and third ventricles into the fourth ventricle. It could present with increased ICP, but CT scan would show enlarged lateral and third ventricles. Increased CSF production, which can be caused by choroid plexus papilloma (CPP), would also present with ventriculomegaly (and an intraventricular mass in the case of CPP) on CT scan.\n\n(Choice B) Astrocyte swelling (cytotoxic cerebral edema) can present with increased ICP. However, cerebral edema is usually appreciated on CT scan, revealing flattening of the ventricles, effaced gyri, and a decrease in gray-white differentiation {{exhibit_2}}.\n\n(Choice E) Neurodegenerative diseases (eg, Alzheimer) can lead to decreased brain volume, which may allow the CSF spaces to expand (hydrocephalus ex vacuo). This tends to occur slowly, so the ICP has time to equilibrate and remain in the normal range {{exhibit_3}}.\n\nEducational objective:\nElevated intracranial pressure in the absence of an intracranial mass lesion or ventriculomegaly is suggestive of decreased resorption of cerebrospinal fluid. This often occurs when the cerebral venous sinus system drainage is impaired due to either idiopathic intracranial hypertension or cerebral venous sinus thrombosis.",
+    "zh": "该患者的头痛、恶心/呕吐和视乳头水肿与颅内压 (ICP) 升高一致。 几乎所有颅内压升高的患者都会出现头痛。它们可以呈现不同的模式，但在卧位（例如，在夜间、清晨醒来时）或用力时（例如，在排便或举重时）会加重，从而增加颅内压。\n\n尽管该患者颅内压升高的根本原因尚未得到证实，但考虑到她年轻、肥胖、没有其他合并症以及头部 CT 扫描正常，特发性颅内高压 (IIH) 可能性很大。或者，她的表现可以用脑静脉系统血栓（即脑静脉窦血栓形成 [CVST]）来解释，这种情况也可能表现出颅内压升高的迹象，但头部 CT 扫描结果不明显。\n\nIIH 和 CVST 被认为具有相似的病理生理学。脑脊液 (CSF) 通常流经脑室系统，直到被蛛网膜颗粒吸收，然后引流到脑静脉窦。由于血栓（在 CVST 中）或颅内静脉压力的原发性升高（在 IIH 中）引起的静脉系统充血（即脑静脉高压）导致脑脊液吸收减少，从而导致颅内压升高。\n\n（选项 A 和 D）导水管狭窄会阻止脑脊液从侧脑室和第三脑室流入第四脑室。它可能表现为颅内压升高，但 CT 扫描会显示侧脑室和第三脑室扩大。脑脊液产生增加，这可能由脉络丛乳头状瘤 (CPP) 引起，在 CT 扫描上也会表现为脑室扩大（如果是 CPP，则会出现脑室内肿块）。\n\n（选项 B）星形胶质细胞肿胀（细胞毒性脑水肿）可表现为颅内压升高。 然而，通常可在 CT 扫描上看到脑水肿，显示脑室扁平、脑回消失以及灰质-白质分界减少 {{exhibit_2}}。\n\n（选项 E）神经退行性疾病（例如，阿尔茨海默病）可导致脑容量减少，这可能使脑脊液空间扩大（真空性脑积水）。 这种情况往往缓慢发生，因此 ICP 有时间达到平衡并保持在正常范围内 {{exhibit_3}}。\n\n教育目标：\n在没有颅内占位病变或脑室扩大的情况下颅内压升高提示脑脊液吸收减少。当脑静脉窦系统引流受损时，这种情况通常会发生，这可能是由于特发性颅内高压或脑静脉窦血栓形成引起的。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the differential diagnosis of increased intracranial pressure (ICP) in the setting of a normal CT scan, focusing on idiopathic intracranial hypertension (IIH) and cerebral venous sinus thrombosis (CVST). It requires understanding the pathophysiology of CSF flow and resorption.\n\nThe key to solving this question is recognizing the classic presentation of IIH (young, obese female with headaches, papilledema, and normal imaging) and considering alternative causes of increased ICP. Ruling out other options based on their expected CT scan findings is crucial.",
+    "zh": "本题考察在 CT 扫描正常的情况下，对颅内压 (ICP) 升高的鉴别诊断知识，重点关注特发性颅内高压 (IIH) 和脑静脉窦血栓形成 (CVST)。它需要理解脑脊液的流动和吸收的病理生理学。\n\n解决此问题的关键是认识 IIH 的典型表现（年轻、肥胖的女性，伴有头痛、视乳头水肿和影像学检查正常）并考虑颅内压升高的其他原因。根据其他选项的预期 CT 扫描结果排除其他选项至关重要。"
+  },
+  "tags": "Idiopathic intracranial hypertension; Cerebral venous sinus thrombosis; Intracranial pressure; Papilledema; Headache; Neurology; Neuroimaging; Cerebrospinal fluid",
+  "category": "Neuro",
+  "question_id": "107433",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\107433",
+  "extracted_at": "2025-11-05T15:07:58.354097",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:16:34.048735",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

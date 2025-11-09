@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 57-year-old man is brought to the emergency department following a generalized tonic-clonic seizure. His wife reports that he has no history of seizures. However, she says that he has been complaining of intermittent headaches, memory loss, and vision disturbances for the past 2 weeks. Brain imaging shows a solitary mass within the right temporal lobe. {{exhibit_1}}",
+    "zh": "一名57岁男性因全身强直-阵挛性癫痫发作被送往急诊科。他的妻子报告说他没有癫痫病史。然而，她说他在过去2周一直抱怨间歇性头痛、记忆力减退和视力障碍。脑部影像学检查显示右颞叶内有一个孤立的肿块。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following visual field defects (areas of vision loss in black) is most likely present in this patient?",
+    "zh": "该患者最有可能出现以下哪种视野缺损（黑色区域代表视野缺失）？"
+  },
+  "options": {
+    "A": {
+      "en": "Left eye: no loss; Right eye: loss of entire visual field",
+      "zh": "左眼：无视野缺损；右眼：整个视野缺失"
+    },
+    "B": {
+      "en": "Left eye: loss of left hemifield; Right eye: loss of right hemifield",
+      "zh": "左眼：左半视野缺失；右眼：右半视野缺失"
+    },
+    "C": {
+      "en": "Left eye: loss of left hemifield; Right eye: loss of left hemifield",
+      "zh": "左眼：左半视野缺失；右眼：左半视野缺失"
+    },
+    "D": {
+      "en": "Left eye: loss of right superior quadrant; Right eye: loss of left superior quadrant",
+      "zh": "左眼：右上方象限缺失；右眼：左上方象限缺失"
+    },
+    "E": {
+      "en": "Left eye: loss of right inferior quadrant; Right eye: loss of left inferior quadrant",
+      "zh": "左眼：右下方象限缺失；右眼：左下方象限缺失"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "After traversing the lateral geniculate nucleus, visual information travels to the primary visual cortex in the occipital lobe by way of the optic radiations. The optic radiations fan out as they project posteriorly into 2 major pathways:\n\nSuperior optic radiations carry information from the superior retina/inferior visual field. They travel through the parietal lobe, so lesions in that area result in contralateral inferior quadrant visual field defects (ie, contralateral homonymous inferior quadrantanopia) (Choice E).\n\nInferior optic radiations carry information from the inferior retina/superior visual field. They travel through the temporal lobe (Meyer loop), so lesions in that area (such as this patient's temporal lobe mass) result in contralateral superior quadrant visual field defects (ie, contralateral homonymous superior quadrantanopia).\n\nTherefore, this patient's tumor in the right temporal lobe is likely impacting the inferior optic radiations, causing a left homonymous (both eyes the same) superior quadrantanopia.\n\n(Choice A) Monocular vision loss results from a lesion anterior to the optic chiasm, including lesions to the optic nerve, retina, or globe.\n\n(Choice B) In the optic chiasm, fibers from the nasal retina (which process the temporal visual field) cross so that the hemivisual fields from both eyes are processed in the same contralateral hemisphere. A lesion that affects these crossing fibers in the middle of the optic chiasm can produce bitemporal hemianopia.\n\n(Choice C) Left homonymous hemianopia may occur with lesions to the right optic tract or the right occipital cortex. It may also occur with lesions to the optic radiations, but only if they affect both the superior and inferior optic radiations. This is less likely to occur with a mass lesion localized within the temporal lobe.\n\nEducational objective:\nThe inferior optic radiations travel through the temporal lobe in the Meyer loop. They carry information from the inferior retina, which covers the superior visual field. Therefore, temporal lobe lesions can result in contralateral homonymous superior quadrantanopia.",
+    "zh": "在穿过外侧膝状体后，视觉信息通过视放射传到枕叶的初级视觉皮层。视放射向后投射时分为2条主要通路：\n\n上视放射携带来自视网膜上方/下方视野的信息。它们穿过顶叶，因此该区域的病变会导致对侧下方象限视野缺损（即对侧同向性下方象限盲）（选项E）。\n\n下视放射携带来自视网膜下方/上方视野的信息。它们穿过颞叶（Meyer袢），因此该区域的病变（如该患者的颞叶肿块）会导致对侧上方象限视野缺损（即对侧同向性上方象限盲）。\n\n因此，该患者右颞叶的肿瘤很可能影响下视放射，导致左侧同向性（双眼相同）上方象限盲。\n\n（选项A）单眼视力丧失是由视交叉前方的病变引起的，包括视神经、视网膜或眼球的病变。\n\n（选项B）在视交叉中，来自鼻侧视网膜（处理颞侧视野）的纤维交叉，使得双眼的半视野在同一个对侧半球中被处理。影响视交叉中间这些交叉纤维的病变可产生双颞侧偏盲。\n\n（选项C）左侧同向性偏盲可能发生在右侧视束或右侧枕叶皮层病变时。它也可能发生在视放射病变时，但前提是它们影响上视放射和下视放射。这不太可能发生在局限于颞叶内的肿块病变中。\n\n教育目标：下视放射通过颞叶中的Meyer袢。它们携带来自视网膜下方的信息，该信息覆盖上方视野。因此，颞叶病变可导致对侧同向性上方象限盲。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of visual pathways and the localization of visual field defects based on the location of brain lesions. Specifically, it assesses knowledge of the optic radiations and how lesions in the temporal lobe, parietal lobe, or occipital cortex lead to specific patterns of homonymous hemianopia.\n\nTo solve this question, one must correlate the location of the brain lesion (right temporal lobe mass) with the known anatomical course of the optic radiations. Understanding that the inferior optic radiations pass through the temporal lobe and carry information from the superior visual field is crucial for identifying the resulting contralateral superior quadrantanopia.",
+    "zh": "此题考察对视觉通路以及根据脑部病变定位视野缺损的理解。具体而言，它评估了对视放射的认识，以及颞叶、顶叶或枕叶的病变如何导致特定模式的同向性偏盲。\n\n为了解决这个问题，必须将脑部病变的位置（右颞叶肿块）与已知的视放射解剖学走行相关联。理解下视放射穿过颞叶并携带来自上方视野的信息，对于确定由此产生的对侧上方象限盲至关重要。"
+  },
+  "tags": "Optic radiations; Temporal lobe lesion; Visual field defects; Homonymous hemianopia; Neurology; Neuroanatomy; Meyer loop; Occipital cortex",
+  "category": "Ophthalmology",
+  "question_id": "8594",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Ophthalmology 23\\8594",
+  "extracted_at": "2025-11-05T19:43:23.049896",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:44:59.298191",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

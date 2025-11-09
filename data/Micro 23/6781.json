@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 24-year-old previously healthy man comes to the office due to a week of low-grade fever, malaise, sore throat, and persistent nonproductive cough. He does not use tobacco, alcohol, or illicit drugs. The patient takes no medications and has no drug allergies. He lives in Connecticut and has not traveled recently. Physical examination reveals mild pharyngeal erythema, no nasal congestion, and bilateral vesicular breath sounds with no crackles or wheezes. Chest x-ray shows patchy, interstitial infiltrates. Sputum Gram stain shows numerous leukocytes but no organisms.",
+    "zh": "一名24岁 previously 健康的男性因一周的低烧、不适、咽痛和持续性干咳前来就诊。他不使用烟草、酒精或违禁药物。患者未服用任何药物，且无药物过敏史。他住在康涅狄格州，最近没有旅行。体格检查显示轻度咽部红斑，无鼻塞，双侧肺泡呼吸音，无啰音或喘息。胸片显示斑片状间质浸润。痰革兰染色显示大量白细胞，但无微生物。"
+  },
+  "question": {
+    "en": "Which of the following agents is the best initial treatment for this patient?",
+    "zh": "以下哪种药物是该患者的最佳初始治疗方案？"
+  },
+  "options": {
+    "A": {
+      "en": "Antagonist of folate metabolism",
+      "zh": "叶酸代谢拮抗剂"
+    },
+    "B": {
+      "en": "Inhibitor of bacterial cell wall synthesis",
+      "zh": "细菌细胞壁合成抑制剂"
+    },
+    "C": {
+      "en": "Inhibitor of bacterial protein synthesis",
+      "zh": "细菌蛋白质合成抑制剂"
+    },
+    "D": {
+      "en": "Inhibitor of ergosterol synthesis",
+      "zh": "麦角固醇合成抑制剂"
+    },
+    "E": {
+      "en": "Inhibitor of mycolic acid synthesis",
+      "zh": "分枝菌酸合成抑制剂"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient with low-grade fever, sore throat, persistent cough, and chest x-ray evidence of a bilateral patchy infiltrate likely has \"walking pneumonia\", a form of ATYPICAL PNEUMONIA usually caused by MYCOPLASMA PNEUMONIAE or CHLAMYDIA PNEUMONIAE.\n\nUnlike most bacteria, MYCOPLASMA and CHLAMYDIA do not have cell walls composed of peptidoglycan. MYCOPLASMA completely lacks a cell wall, while CHLAMYDIA has a cell wall composed of an alternate protein. Therefore, these pathogens cannot be seen on Gram stain (which stains peptidoglycan) and cannot be treated with antibacterial agents that target peptidoglycan such as penicillins, cephalosporins, vancomycin, or carbapenems (Choice B). Treatment requires a BACTERIAL PROTEIN SYNTHESIS INHIBITOR such as a macrolide or tetracycline.\n\n(Choice A) Trimethoprim and sulfamethoxazole are folate metabolism antagonists. They are the first-line therapy for PNEUMOCYSTIS pneumonia, which often presents with subacute pulmonary symptoms and a bilateral patchy interstitial infiltrate. However, most patients have significant shortness of breath and nearly all are immunocompromised (eg, AIDS, chronic steroids).\n\n(Choice D) Azole medications (eg, fluconazole) inhibit the synthesis of ergosterol, a primary component of the fungal cell membrane. Fungal pneumonias are often associated with lobar, nodular, or cavitary infiltrates. However, most occur in the setting of immunosuppression, and an accompanying sore throat would be unusual.\n\n(Choice E) Mycolic acid is found in the cell wall of MYCOBACTERIUM and can be targeted by isoniazid, a mycolic acid synthesis inhibitor. Active pulmonary tuberculosis often presents with several weeks of cough, weight loss, malaise, and upper lobe cavitary infiltrates.\n\nEducational objective: MYCOPLASMA PNEUMONIAE is a leading cause of atypical pneumonia. Because this pathogen lacks a cell wall, it does not show up on Gram stain and cannot be treated with beta-lactam antibiotics. Protein synthesis inhibitors (eg, macrolides, tetracycline) are the treatment of choice.",
+    "zh": "该患者出现低烧、咽痛、持续性咳嗽和胸片提示双侧斑片状浸润，可能患有“行走性肺炎”，这是一种非典型肺炎，通常由肺炎支原体或肺炎衣原体引起。\n\n与大多数细菌不同，支原体和衣原体没有由肽聚糖构成的细胞壁。支原体完全缺乏细胞壁，而衣原体具有由替代蛋白构成的细胞壁。因此，这些病原体无法通过革兰染色（对肽聚糖染色）观察到，也不能用针对肽聚糖的抗菌药物治疗，如青霉素、头孢菌素、万古霉素或碳青霉烯类药物（选项 B）。治疗需要使用细菌蛋白质合成抑制剂，如大环内酯类或四环素。\n\n（选项 A）甲氧苄氨嘧啶和磺胺甲噁唑是叶酸代谢拮抗剂。它们是肺孢子菌肺炎的一线治疗药物，后者常表现为亚急性肺部症状和双侧斑片状间质浸润。然而，大多数患者有明显的呼吸急促，而且几乎所有患者都存在免疫功能低下（例如，艾滋病、长期使用类固醇）。\n\n（选项 D）唑类药物（例如，氟康唑）抑制麦角固醇的合成，麦角固醇是真菌细胞膜的主要成分。真菌性肺炎常与肺叶性、结节性或空洞性浸润有关。然而，大多数发生在免疫抑制的情况下，并且伴有咽痛的情况不常见。\n\n（选项 E）分枝菌酸存在于分枝杆菌的细胞壁中，可以通过异烟肼靶向，后者是一种分枝菌酸合成抑制剂。活动性肺结核常表现为数周的咳嗽、体重减轻、不适和上叶空洞性浸润。\n\n教育目标：肺炎支原体是非典型肺炎的主要病因。由于该病原体缺乏细胞壁，因此无法通过革兰染色观察到，也不能用β-内酰胺类抗生素治疗。蛋白质合成抑制剂（例如，大环内酯类、四环素）是首选治疗方法。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of atypical pneumonia, specifically Mycoplasma pneumoniae, including its characteristic presentation, lack of cell wall, and appropriate antibiotic treatment. It also tests the ability to differentiate atypical pneumonia from other pulmonary infections based on clinical and radiographic findings.\n\nThe best approach is to recognize the clinical scenario as suggestive of atypical pneumonia. Then, recall that Mycoplasma lacks a cell wall, making cell wall inhibitors ineffective. Finally, select an antibiotic class that targets protein synthesis, such as macrolides or tetracyclines.",
+    "zh": "本题考察了对非典型肺炎（尤其是肺炎支原体）的知识，包括其特征性表现、缺乏细胞壁以及适当的抗生素治疗。它还考察了根据临床和影像学发现区分非典型肺炎与其他肺部感染的能力。\n\n最好的方法是识别临床情况，提示为非典型肺炎。然后，记住支原体缺乏细胞壁，使得细胞壁抑制剂无效。最后，选择靶向蛋白质合成的抗生素类别，如大环内酯类或四环素。"
+  },
+  "tags": "Atypical pneumonia; Mycoplasma pneumoniae; Antibiotics; Protein synthesis inhibitors; Respiratory infections; Gram stain; Cell wall; Macrolides; Tetracyclines",
+  "category": "Micro",
+  "question_id": "6781",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\6781",
+  "extracted_at": "2025-11-05T15:05:10.526529",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:12:52.673992",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

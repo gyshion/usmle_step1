@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A study is conducted to describe the age-sex distribution of a certain country. According to national data, the population pyramid of the country has the shape shown below {{exhibit_1}}.\n\nBased on the population pyramid, which of the following is most likely true about this country and its population?",
+    "zh": "一项研究旨在描述某个国家的年龄-性别分布。根据国家数据，该国的人口金字塔形状如下所示 {{exhibit_1}}。\n\n根据人口金字塔，关于该国及其人口，以下哪项最有可能成立？"
+  },
+  "question": {
+    "en": "Based on the population pyramid, which of the following is most likely true about this country and its population?",
+    "zh": "根据人口金字塔，关于该国及其人口，以下哪项最有可能成立？"
+  },
+  "options": {
+    "A": {
+      "en": "The country seems to have high birth rates; therefore, the population must be growing",
+      "zh": "该国似乎有高出生率；因此，人口一定在增长"
+    },
+    "B": {
+      "en": "The country seems to have a high death rate; therefore, the population must be shrinking",
+      "zh": "该国似乎有高死亡率；因此，人口一定在萎缩"
+    },
+    "C": {
+      "en": "The country seems to have a low birth rate; therefore, the population must be old",
+      "zh": "该国似乎有低出生率；因此，人口一定老龄化"
+    },
+    "D": {
+      "en": "The country seems to have a short life expectancy; therefore, the population must be young",
+      "zh": "该国似乎预期寿命短；因此，人口一定年轻"
+    },
+    "E": {
+      "en": "The country seems to have a similar percentage of people in each age cohort; therefore, the population must be stable",
+      "zh": "该国似乎每个年龄组的人口比例相似；因此，人口一定稳定"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "In this question, the population pyramid has a narrow bottom, which represents a LOW BIRTH RATE, and a wide top, which represents a low mortality rate (Choices A and B). The percentage of people in each age cohort increases with age, with the greatest proportion of people in the age 70+ cohort (Choice E). This means that the population has a LONG LIFE EXPECTANCY—a characteristic of OLD POPULATIONS (Choice D).\n\nBecause the percentage of people in the age 0-9 cohort (about 10% for both men and women) is lower than the percentage of people in the age 70+ cohort (about 20% for both men and women), the younger cohorts are not able to replace the older cohorts as they die off, leading to a reduction in the population (ie, POPULATION SHRINKS). This is a classic example of a constrictive pyramid {{exhibit_2}}.",
+    "zh": "在本题中，人口金字塔底部狭窄，代表着低出生率，顶部宽阔，代表着低死亡率（选项 A 和 B）。每个年龄组的人口比例随着年龄的增长而增加，70 岁以上年龄组的人口比例最高（选项 E）。这意味着该人口具有长寿命——这是老龄人口的特征（选项 D）。\n\n由于 0-9 岁年龄组的人口比例（男性和女性均约为 10%）低于 70 岁以上年龄组的人口比例（男性和女性均约为 20%），因此年轻人群无法替代年老人群的死亡，导致人口减少（即，人口萎缩）。这是一个收缩型金字塔的典型例子 {{exhibit_2}}。"
+  },
+  "summary": {
+    "en": "This question tests the interpretation of population pyramids and their relationship to birth rates, death rates, life expectancy, and population growth. Understanding the shape of the pyramid and its implications for the age structure of the population is crucial.\n\nTo solve this question, analyze the shape of the population pyramid. A narrow base indicates low birth rates, while a wide top suggests a high proportion of older individuals and longer life expectancy. This combination is characteristic of an aging population.",
+    "zh": "本题考察对人口金字塔的解读及其与出生率、死亡率、预期寿命和人口增长的关系。理解金字塔的形状及其对人口年龄结构的影响至关重要。\n\n为了解决这个问题，分析人口金字塔的形状。狭窄的底部表示低出生率，而宽阔的顶部表明老年人比例高和预期寿命长。这种组合是老龄化人口的特征。"
+  },
+  "tags": "Population pyramid; Demographics; Birth rate; Death rate; Life expectancy; Aging population; Epidemiology; Biostatistics",
+  "category": "Bio",
+  "question_id": "20088",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\20088",
+  "extracted_at": "2025-11-05T11:14:40.646675",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:23:39.003925",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

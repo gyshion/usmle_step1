@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "Researchers conduct a study in an animal fetus with circulation similar to that of humans. The fetus is delivered close to term by cesarean delivery. Prior to placental separation and the initiation of pulmonary respiration, blood samples are simultaneously collected from several different fetal blood vessels. The blood oxygen saturations measured from each of the samples are 71%, 64%, 62%, 55%, and 43%.",
+    "zh": "研究人员对循环系统与人类相似的动物胎儿进行了一项研究。 胎儿通过剖腹产术在接近足月时分娩。 在胎盘分离和肺呼吸开始之前，同时从几个不同的胎儿血管中采集血样。 从每个样本中测得的血氧饱和度分别为 71%、64%、62%、55% 和 43%。"
+  },
+  "question": {
+    "en": "The sample with the greatest oxygen saturation was most likely obtained from which of the following blood vessels?",
+    "zh": "氧饱和度最高的样本最有可能来自以下哪条血管？"
+  },
+  "options": {
+    "A": {
+      "en": "Descending aorta",
+      "zh": "降主动脉"
+    },
+    "B": {
+      "en": "Ductus arteriosus",
+      "zh": "动脉导管"
+    },
+    "C": {
+      "en": "Inferior vena cava",
+      "zh": "下腔静脉"
+    },
+    "D": {
+      "en": "Pulmonary trunk",
+      "zh": "肺动脉干"
+    },
+    "E": {
+      "en": "Superior vena cava",
+      "zh": "上腔静脉"
+    },
+    "F": {
+      "en": "Umbilical artery",
+      "zh": "脐动脉"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "Fetal circulation differs considerably from adult circulation in that oxygen is supplied to the fetus by the mother's placenta, no gas exchange occurs in the fetal lungs, and the majority of blood is directed away from the lungs via right-to-left shunting (eg, foramen ovale, ductus arteriosus). {{exhibit_1}}\n\nOxygenated blood from the placenta is delivered to the fetus via the umbilical vein. Upon entering the fetal abdomen, a portion of this oxygen-rich blood is directed to the portal vein to supply the liver, while the majority is shunted through the ductus venosus to the inferior vena cava (IVC). In the IVC, oxygen-rich blood from the ductus venosus runs alongside a stream of deoxygenated blood returning from the lower body.\n\nAs blood from the IVC enters the right atrium, a preferential streaming effect allows the majority of the oxygenated blood to pass directly through the foramen ovale into the left atrium. The oxygen-rich blood delivered to the left atrium proceeds to the left ventricle and out the aorta, where it is supplied to the brain, myocardium (via the coronary arteries), and upper extremities.\n\nMeanwhile, deoxygenated blood from the IVC and superior vena cava fills the right atrium and proceeds to the right ventricle. High pulmonary vascular resistance causes most of the blood ejected into the pulmonary trunk to be shunted away from the lungs, with 90% of the deoxygenated blood being shunted through the ductus arteriosus into the aorta (Choices B and D). This deoxygenated blood mixes with the oxygen-rich blood in the aorta, sending moderately oxygenated blood down the descending aorta to supply the intestines, kidneys, and lower body.\n\n(Choice A) Oxygen saturation in the descending aorta is significantly lower than in the ductus venosus because the oxygenated blood in the descending aorta is mixed with deoxygenated blood from both the lower and the upper body.\n\n(Choice E) The superior vena cava carries deoxygenated blood returning from the brain and upper extremities.\n\n(Choice F) The umbilical arteries branch off the internal iliac arteries to return moderately oxygenated blood to the placenta, where carbon dioxide and other wastes are unloaded and oxygen is again collected.\n\nEducational objective:\nThe most highly oxygenated blood in the fetus is carried by the umbilical vein, which empties directly into the inferior vena cava via the ductus venosus.",
+    "zh": "胎儿循环与成人循环有很大不同，因为氧气由母亲的胎盘供给胎儿，胎儿肺部不发生气体交换，并且大部分血液通过右向左分流（例如，卵圆孔、动脉导管）远离肺部。 {{exhibit_1}}\n\n来自胎盘的含氧血通过脐静脉输送给胎儿。 进入胎儿腹部后，这部分富含氧气的血液被引导到门静脉以供给肝脏，而大部分血液通过静脉导管分流到下腔静脉 (IVC)。 在下腔静脉中，来自静脉导管的富含氧气的血液与来自下半身的脱氧血流并排流过。\n\n当来自下腔静脉的血液进入右心房时，优先分流效应使大部分含氧血直接通过卵圆孔进入左心房。 输送到左心房的富含氧气的血液进入左心室并流出主动脉，在那里供给大脑、心肌（通过冠状动脉）和上肢。\n\n与此同时，来自下腔静脉和上腔静脉的脱氧血充满右心房并进入右心室。 肺血管阻力高导致大部分射入肺动脉干的血液分流到远离肺部的地方，其中 90% 的脱氧血通过动脉导管分流到主动脉（选项 B 和 D）。 这种脱氧血与主动脉中的富氧血混合，将中度氧合的血向下行主动脉输送，以供给肠、肾脏和下半身。\n\n（选项 A）降主动脉中的氧饱和度明显低于静脉导管，因为降主动脉中的含氧血与来自下半身和上半身的脱氧血混合。\n\n（选项 E）上腔静脉携带来自大脑和上肢的脱氧血。\n\n（选项 F）脐动脉从髂内动脉分支出来，将中度氧合的血液返回到胎盘，在那里二氧化碳和其他废物被卸载，氧气再次被收集。\n\n教育目标：\n胎儿中氧合程度最高的血液由脐静脉携带，脐静脉通过静脉导管直接流入下腔静脉。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of fetal circulation and oxygen saturation levels in different fetal blood vessels. It requires understanding the path of oxygenated blood from the placenta to the fetus and the mixing of oxygenated and deoxygenated blood in various vessels. \n\nTo solve this question, recall that the umbilical vein carries the most oxygenated blood from the placenta. Trace the path of this blood through the fetal circulatory system, noting where mixing with deoxygenated blood occurs. The vessel closest to the umbilical vein will have the highest oxygen saturation.",
+    "zh": "本题考察对胎儿循环和不同胎儿血管中氧饱和度水平的了解。 它需要了解含氧血从胎盘到胎儿的路径，以及氧合血和脱氧血在不同血管中的混合。 \n\n要解决这个问题，请记住脐静脉携带来自胎盘的含氧量最高的血液。 追踪这种血液通过胎儿循环系统的路径，注意与脱氧血混合的位置。 离脐静脉最近的血管将具有最高的氧饱和度。"
+  },
+  "tags": "Fetal circulation; Oxygen saturation; Umbilical vein; Ductus venosus; Inferior vena cava; Placenta; Physiology; Cardiovascular system",
+  "category": "CVS",
+  "question_id": "1833",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1833",
+  "extracted_at": "2025-11-05T12:02:50.897646",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:52:53.897872",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 66-year-old man comes to the clinic due to numbness and tingling in his hands and feet that developed over the last few weeks. The patient was healthy until he was diagnosed with pulmonary tuberculosis 3 months ago. He takes only isoniazid and rifampin. Temperature is 37.1 C (98.8 F), blood pressure is 126/80 mm Hg, pulse is 90/min, and respirations are 16/min. Cardiopulmonary examination is unremarkable. Neurologic examination shows ataxia and decreased pain sensation in the distal extremities. This patient's condition is most likely due to which of the following?",
+    "zh": "一名66岁男性因手和脚的麻木和刺痛感前来就诊，这些症状在过去几周内出现。该患者在3个月前被诊断患有肺结核病之前一直很健康。他仅服用异烟肼和利福平。体温37.1摄氏度（98.8华氏度），血压126/80毫米汞柱，脉搏90次/分钟，呼吸16次/分钟。心肺检查无特殊发现。神经系统检查显示共济失调和远端肢体疼痛感降低。该患者的病情最可能由以下哪种原因引起？"
+  },
+  "question": {
+    "en": "This patient's condition is most likely due to which of the following?",
+    "zh": "该患者的病情最可能由以下哪种原因引起？"
+  },
+  "options": {
+    "A": {
+      "en": "Antibody-mediated demyelination",
+      "zh": "抗体介导的脱髓鞘"
+    },
+    "B": {
+      "en": "Diabetic advanced glycation end product–induced nerve ischemia",
+      "zh": "糖尿病晚期糖基化终末产物诱导的神经缺血"
+    },
+    "C": {
+      "en": "Direct drug-mediated toxic neuron damage",
+      "zh": "药物直接介导的神经元毒性损伤"
+    },
+    "D": {
+      "en": "Mycobacterium-directed demyelination",
+      "zh": "分枝杆菌导致的脱髓鞘"
+    },
+    "E": {
+      "en": "Vitamin-dependent neurotransmitter deficiency",
+      "zh": "维生素依赖性神经递质缺乏"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient with tuberculosis has developed paresthesia and ataxia consistent with isoniazid-induced peripheral neuropathy. Isoniazid is structurally similar to pyridoxine (vitamin B6), a cofactor for enzymes involved in synthesis of certain neurotransmitters. Because of this similarity, isoniazid acts as a competitive inhibitor of pyridoxine and can cause dose-related peripheral neuropathy (eg, numbness and tingling in the hands and feet). Sensory ataxia (due to loss of peripheral proprioception) and decreased pain sensation are also common features.\n\nPatients at increased risk of isoniazid-induced peripheral neuropathy include those who are elderly, are malnourished (eg, alcohol use disorder), or have liver or kidney dysfunction; management involves supplementation with pyridoxine.\n\n(Choice A) Paresthesia is common in Guillain-Barré syndrome, an immune-mediated demyelinating disorder, but a progressive ascending paralysis would be seen. Multiple sclerosis is also an immune-mediated demyelinating disease, and ataxia can occur, but symmetric, bilateral paresthesia would not be expected. Neither condition is associated with Mycobacterium tuberculosis infection or isoniazid therapy.\n\n(Choice B) Advanced glycation end products (eg, hemoglobin A1c) in patients with diabetes mellitus (DM) contribute to the development of peripheral nerve ischemia. This typically occurs in those with chronic (ie, >20 years), poorly controlled DM. In contrast, this otherwise healthy patient developed neuropathy within months of starting isoniazid without pyridoxine, making diabetic neuropathy far less likely.\n\n(Choice C) Certain chemotherapeutic drugs (eg, vincristine) may directly cause peripheral neuropathy by inhibiting microtubule formation. In contrast, isoniazid is not directly toxic to neurons.\n\n(Choice D) Infection with Mycobacterium leprae (ie, leprosy) can cause peripheral neuropathy from impaired myelin production (due to bacterial replication within infected Schwann cells); however, skin findings (eg, erythematous macules, nodules) are also characteristic but are not seen in this patient. In contrast, this patient has pulmonary tuberculosis caused by M tuberculosis, which does not affect myelin production.\n\nEducational objective:\nIsoniazid is structurally similar to pyridoxine (vitamin B6) and competes for binding sites on pyridoxine-dependent enzymes. This leads to decreased synthesis of certain neurotransmitters, which may result in peripheral neuropathy. Management involves pyridoxine supplementation.",
+    "zh": "这位结核病患者出现了感觉异常和共济失调，与异烟肼引起的周围神经病变一致。异烟肼在结构上与吡哆醇（维生素B6）相似，吡哆醇是参与某些神经递质合成的酶的辅因子。由于这种相似性，异烟肼充当吡哆醇的竞争性抑制剂，并可引起剂量相关的周围神经病变（如手和脚的麻木和刺痛）。感觉性共济失调（由于周围本体感觉的丧失）和疼痛感降低也是常见特征。\n\n异烟肼引起的周围神经病变的风险增加的患者包括老年人、营养不良者（如酒精使用障碍）或肝肾功能障碍患者；治疗包括补充吡哆醇。\n\n（选项A）感觉异常在格林-巴利综合征中很常见，这是一种免疫介导的脱髓鞘疾病，但会看到进行性上升性麻痹。多发性硬化症也是一种免疫介导的脱髓鞘疾病，并且可能发生共济失调，但不会出现对称性、双侧感觉异常。这两种情况均与结核分枝杆菌感染或异烟肼治疗无关。\n\n（选项B）糖尿病患者的晚期糖基化终末产物（如血红蛋白A1c）有助于周围神经缺血的发生。这通常发生在患有慢性（即>20年）、控制不佳的DM患者中。相比之下，这位原本健康的患者在开始服用异烟肼而未补充吡哆醇后数月内出现了神经病变，这使得糖尿病性神经病变的发生可能性大大降低。\n\n（选项C）某些化疗药物（如长春新碱）可能通过抑制微管形成直接引起周围神经病变。相比之下，异烟肼对神经元没有直接毒性。\n\n（选项D）麻风分枝杆菌（即麻风病）感染可因髓鞘产生受损（由于细菌在受感染的施万细胞内复制）而引起周围神经病变；然而，皮肤表现（如红斑性斑疹、结节）也是特征性的，但在此患者中未见。相比之下，该患者患有由结核分枝杆菌引起的肺结核病，这不会影响髓鞘的产生。\n\n教育目标：\n异烟肼在结构上与吡哆醇（维生素B6）相似，并竞争吡哆醇依赖性酶的结合位点。这导致某些神经递质的合成减少，这可能导致周围神经病变。治疗包括补充吡哆醇。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of isoniazid-induced peripheral neuropathy, its mechanism of action, risk factors, and management. It also tests the ability to differentiate this condition from other causes of peripheral neuropathy.\n\nTo solve this question, recognize the association between isoniazid use and peripheral neuropathy, understand the mechanism involving pyridoxine (vitamin B6) inhibition, and consider the patient's risk factors and clinical presentation.",
+    "zh": "此题考察对异烟肼引起的周围神经病变的知识，包括其作用机制、危险因素和治疗。它还考察了将这种情况与其他周围神经病变原因区分开来的能力。\n\n要解决此问题，需要认识到异烟肼的使用与周围神经病变之间的关联，了解涉及吡哆醇（维生素B6）抑制的机制，并考虑患者的危险因素和临床表现。"
+  },
+  "tags": "Isoniazid; Peripheral neuropathy; Vitamin B6 deficiency; Tuberculosis; Drug side effects; Neurology; Infectious disease",
+  "category": "Neuro",
+  "question_id": "1308",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1308",
+  "extracted_at": "2025-11-05T15:15:14.911673",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:19:02.692236",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

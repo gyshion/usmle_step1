@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 26-year-old woman is evaluated for intermittent abdominal discomfort, diarrhea, and melena. The patient undergoes colonoscopy followed by total colectomy due to significant colonic abnormalities. Representative colon findings are shown in the image below {{exhibit_1}}.\n\nHer sister, who has the same biological parents and has no symptoms, also undergoes screening colonoscopy and has similar findings. If left untreated, which of the following is the most likely lifetime risk of colon cancer in the patient's sister?",
+    "zh": "一名 26 岁的女性因间歇性腹部不适、腹泻和黑便而接受评估。该患者接受结肠镜检查，随后因显著的结肠异常而接受全结肠切除术。代表性的结肠发现见下图 {{exhibit_1}}。\n\n她的姐妹，与她有相同的生物学父母，并且没有症状，也接受了筛查性结肠镜检查，并有相似的发现。如果未经治疗，该患者的姐妹一生中患结肠癌的可能性有多大？"
+  },
+  "question": {
+    "en": "If left untreated, which of the following is the most likely lifetime risk of colon cancer in the patient's sister?",
+    "zh": "如果未经治疗，该患者的姐妹一生中患结肠癌的可能性有多大？"
+  },
+  "options": {
+    "A": {
+      "en": "About 25%",
+      "zh": "大约 25%"
+    },
+    "B": {
+      "en": "About 50%",
+      "zh": "大约 50%"
+    },
+    "C": {
+      "en": "About 75%",
+      "zh": "大约 75%"
+    },
+    "D": {
+      "en": "Close to 100%",
+      "zh": "接近 100%"
+    },
+    "E": {
+      "en": "Same as general population",
+      "zh": "与一般人群相同"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient and her sister have innumerable colonic polyps, raising strong suspicion for the autosomal dominant hereditary disorder FAMILIAL ADENOMATOUS POLYPOSIS (FAP). Patients with this disorder develop hundreds or thousands of colonic polyps in the second or third decade of life. These polyps behave similarly to colonic polyps that form in patients who do not have FAP (spontaneous polyps); they typically grow over time, do not regress, and are associated with a progressive risk for high-grade dysplasia and transformation to invasive cancer as they enlarge. Because patients with FAP have innumerable polyps, the risk that one or more will transform into invasive COLONIC CARCINOMA is nearly 100%. Therefore, colectomy is generally recommended.\n\nFAP is caused by a germline mutation to the tumor suppressor gene ADENOMATOUS POLYPOSIS COLI (APC). The APC gene encodes for a protein that destroys beta-catenin. Loss of the APC protein results in elevated beta-catenin levels, which stimulates a transcriptional activator that leads to proliferation of intestinal crypt cells (and the subsequent formation of polyps). Patients may also have extracolonic manifestations such as gastric or duodenal polyps, desmoid tumors, and brain cancer, but these manifestations have lower penetrance than colonic polyps.\n\nLoss of control of the APC pathway is a crucial first step in the development of both hereditary and sporadic forms of colon cancer. Nearly 80% of sporadic colon cancers have somatic mutations to both APC alleles; the remainder usually have activating mutations to the downstream products of this pathway.\n\nEducational objective:\nFamilial adenomatous polyposis (FAP) is an autosomal dominant disorder caused by germline mutation to the tumor suppressor gene adenomatous polyposis coli. Patients with FAP develop hundreds or thousands of polyps; lifetime risk of colon cancer is close to 100%. {{exhibit_2}}",
+    "zh": "该患者及其姐妹有无数的结肠息肉，这强烈提示常染色体显性遗传疾病家族性腺瘤性息肉病 (FAP)。患有这种疾病的患者在生命的第二或第三个十年中会发展出数百甚至数千个结肠息肉。这些息肉的行为类似于未患有 FAP 的患者（自发性息肉）中形成的结肠息肉；它们通常会随着时间的推移而生长，不会消退，并且随着它们的增大，与高级别发育异常和转化为浸润性癌的进行性风险相关。由于 FAP 患者有无数息肉，其中一个或多个转化为浸润性结肠癌的风险接近 100%。因此，通常建议进行结肠切除术。\n\nFAP 是由抑癌基因腺瘤性息肉病 (APC) 的种系突变引起的。 APC 基因编码一种破坏 β-连环蛋白的蛋白质。 APC 蛋白的缺失导致 β-连环蛋白水平升高，从而刺激转录激活因子，导致肠隐窝细胞增殖（以及随后的息肉形成）。患者还可能出现结肠外表现，如胃或十二指肠息肉、纤维瘤和脑癌，但这些表现的渗透率低于结肠息肉。\n\nAPC 通路失控是遗传性和散发性结肠癌发展的关键第一步。近 80% 的散发性结肠癌具有两个 APC 等位基因的体细胞突变；其余通常具有对该通路下游产物的激活突变。\n\n教育目标：\n家族性腺瘤性息肉病 (FAP) 是一种常染色体显性遗传病，由抑癌基因腺瘤性息肉病引起的种系突变引起。 FAP 患者会发展出数百甚至数千个息肉；如果未经治疗，终生患结肠癌的风险接近 100%。 {{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of familial adenomatous polyposis (FAP), an autosomal dominant disorder characterized by numerous colonic polyps and a near 100% lifetime risk of colon cancer if untreated. It assesses the understanding of the genetic basis of FAP and its implications for affected individuals and their family members.\n\nTo solve this question, recognize the clinical presentation of a young patient with multiple colonic polyps and a family history suggestive of FAP. Recall that FAP is associated with a very high risk of colon cancer, approaching 100% if left untreated.",
+    "zh": "本题考察对家族性腺瘤性息肉病 (FAP) 的了解，这是一种常染色体显性遗传病，其特征是存在大量结肠息肉，如果未经治疗，终生患结肠癌的风险接近 100%。它评估了对 FAP 遗传基础的理解及其对受影响个体及其家庭成员的影响。\n\n要解决这个问题，需要识别年轻患者的临床表现，其表现为多个结肠息肉，并且有提示 FAP 的家族史。回想一下，如果未经治疗，FAP 与患结肠癌的风险非常高，接近 100%。"
+  },
+  "tags": "Familial adenomatous polyposis; FAP; Colon cancer; Colorectal cancer; Genetics; Autosomal dominant; APC gene; Colonoscopy; Polyps",
+  "category": "GIT",
+  "question_id": "15020",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\15020",
+  "extracted_at": "2025-11-05T14:25:05.134585",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:52:03.336022",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

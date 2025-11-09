@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old woman, gravida 0, comes to the office for evaluation of pregnancy. Menarche was at age 12, and her menstrual cycles are regular; they occur every 30 days with 5 days of menses. The patient and her husband have been trying to conceive for the past 6 months and plan intercourse during her fertile window according to an ovulation predictor kit. She has no medical conditions, takes no medications, and has no allergies. BMI is 23 kg/m². Vital signs and physical examination are normal. If fertilization and implantation occurred in this cycle, when would the {{exhibit_1}} $\\beta$-hCG level first be detectable in the serum?",
+    "zh": "一位34岁的女性，孕0产0，前来就诊评估怀孕情况。初潮年龄为12岁，月经周期规律，每30天一次，经期5天。患者和她的丈夫过去6个月一直在尝试受孕，并根据排卵预测试剂盒计划在她的生育窗口期进行性交。她没有其他疾病，不服用任何药物，也没有任何过敏史。BMI为23 kg/m²。生命体征和体格检查均正常。如果受精和着床发生在本周期，{{exhibit_1}} β-hCG水平何时会在血清中首次被检测到？"
+  },
+  "question": {
+    "en": "When would the $\\beta$-hCG level first be detectable in the serum?",
+    "zh": "β-hCG水平何时会在血清中首次被检测到？"
+  },
+  "options": {
+    "A": {
+      "en": "1 day after fertilization",
+      "zh": "受精后1天"
+    },
+    "B": {
+      "en": "3 days after fertilization",
+      "zh": "受精后3天"
+    },
+    "C": {
+      "en": "8 days after fertilization",
+      "zh": "受精后8天"
+    },
+    "D": {
+      "en": "14 days after fertilization",
+      "zh": "受精后14天"
+    },
+    "E": {
+      "en": "On the day of fertilization",
+      "zh": "受精当天"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The syncytiotrophoblast invades the endometrial tissue 6-7 days after fertilization and begins secreting $\\beta$-hCG, which enters the maternal circulation and contains corpus luteum progesterone secretion. Accordingly, $\\beta$-hCG may appear in the maternal serum as early as 6 days after fertilization; however, additional time (typically 8 days) is often required for the serum to rise to a detectable level. $\\beta$-hCG is detectable in the maternal serum at <5 IU/L, making serum $\\beta$-hCG testing the most sensitive method of detecting pregnancy. (Choice D) A urine pregnancy test is less sensitive than a serum pregnancy test; it is positive when $\\beta$-hCG reaches 20 IU/L, which typically occurs 14 days following fertilization. Therefore, a serum pregnancy test will be positive before a urine pregnancy test. {{exhibit_2}}",
+    "zh": "合体滋养层在受精后6-7天侵入子宫内膜组织，并开始分泌β-hCG，β-hCG进入母体循环，维持黄体分泌孕酮。因此，β-hCG最早可能在受精后6天出现在母体血清中；然而，血清水平通常需要更长的时间（通常为8天）才能升高到可检测水平。母体血清中β-hCG的检测水平为<5 IU/L，使得血清β-hCG检测成为检测妊娠最敏感的方法。（选项D）尿妊娠试验不如血清妊娠试验敏感；当β-hCG达到20 IU/L时呈阳性，这通常发生在受精后14天。因此，血清妊娠试验会在尿妊娠试验之前呈阳性。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "The question asks when $\\beta$-hCG would first be detectable in serum after fertilization and implantation. The explanation states that $\\beta$-hCG is secreted by the syncytiotrophoblast 6-7 days after fertilization, and typically becomes detectable in serum around 8 days after fertilization.",
+    "zh": "本题询问受精和着床后，β-hCG何时会在血清中首次被检测到。解释指出，β-hCG由合体滋养层在受精后6-7天分泌，通常在受精后8天左右在血清中被检测到。"
+  },
+  "tags": [
+    "Embryology",
+    "Pregnancy",
+    "Norma pregnancy"
+  ],
+  "category": "Pregnancy",
+  "question_id": "1772",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pregnancy 23\\1772",
+  "extracted_at": "2025-11-05T19:46:34.390456",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:48:35.630917",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

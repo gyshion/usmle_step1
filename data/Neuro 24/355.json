@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 15-year-old boy is brought to the office because of 3 months of sudden, brief jerking movements involving both arms. The episodes usually occur shortly after awakening in the morning and are aggravated by sleep deprivation. The movements are neither suppressible nor preceded by an urge to make a movement. The patient has never lost consciousness and has no known medical conditions. Family history includes a seizure disorder in his uncle. Vital signs are within normal limits. Physical examination shows normal development with no abnormalities.",
+    "zh": "一名15岁男孩因3个月来双臂突发、短暂的抽搐运动来到诊室就诊。这些发作通常发生在早晨醒来后不久，并且因睡眠不足而加重。这些运动既不能被抑制，也没有做出运动的冲动。患者从未失去知觉，也没有已知的疾病。家族史包括他叔叔的癫痫病。生命体征在正常范围内。体格检查显示发育正常，无异常。"
+  },
+  "question": {
+    "en": "Which of the following is the best initial treatment for this patient?",
+    "zh": "以下哪项是该患者的最佳初始治疗方案？"
+  },
+  "options": {
+    "A": {
+      "en": "Baclofen",
+      "zh": "巴氯芬"
+    },
+    "B": {
+      "en": "Carbamazepine",
+      "zh": "卡马西平"
+    },
+    "C": {
+      "en": "Clonidine",
+      "zh": "可乐定"
+    },
+    "D": {
+      "en": "Diazepam",
+      "zh": "地西泮"
+    },
+    "E": {
+      "en": "Propranolol",
+      "zh": "普萘洛尔"
+    },
+    "F": {
+      "en": "Valproic acid",
+      "zh": "丙戊酸"
+    },
+    "G": {
+      "en": "Tetrabenzamine",
+      "zh": "丁苯那嗪"
+    }
+  },
+  "correct_answer": "F",
+  "explanation": {
+    "en": "This patient most likely has MYOCLONIC SEIZURES due to JUVENILE MYOCLONIC EPILEPSY (JME), a form of GENERALIZED ONSET EPILEPSY (ie, affecting both cerebral hemispheres at onset) that may be familial. Typically, JME manifests in an otherwise healthy adolescent with myoclonic seizures (ie, brief, involuntary jerking movements) involving both upper extremities with preservation of consciousness. Symptoms usually occur within the first hour of awakening and can be provoked by sleep deprivation. Patients can also develop tonic-clonic and/or absence seizures.\n\nTreatment of generalized onset epilepsies like JME should include a BROAD-SPECTRUM ANTICONVULSANT (eg, VALPROIC ACID, levetiracetam) which can treat both focal and generalized seizures. In contrast, narrow-spectrum anticonvulsants (eg, carbamazepine, phenytoin) are primarily used in patients with focal onset seizures and can worsen seizure symptoms in patients with absence or myoclonic seizures (Choice B).\n\n(Choice A) Baclofen is a GABA-B agonist that can treat chronic muscle spasticity (eg, cerebral palsy). Patients with chronic muscle spasticity typically have progressive changes in development and muscle tone that would be apparent on physical examination.\n\n(Choice C) Clonidine is an alpha-2 adrenergic receptor agonist that may be effective in children with attention-deficit hyperactivity disorder who have failed treatment with stimulants (eg, methylphenidate).\n\n(Choice D) Diazepam is a benzodiazepine that can be used acutely to treat prolonged seizures such as status epilepticus (≥5 minutes of continuous seizure activity or >1 seizure without recovery in between). However, diazepam would not be indicated for this patient's brief episodes of myoclonus.\n\n(Choice E) Propranolol is a nonselective beta blocker that can treat benign essential tremor, which typically presents in middle-aged adults with bilateral, rhythmic hand tremor that worsens during fine motor activity.\n\n(Choice G) Tetrabenzamine is a dopamine depletion agent that can treat Tourette syndrome, a disorder characterized by motor and phonic tics that persist for >1 year. Motor tics can manifest as periodic, sudden, jerking movements, but they are usually temporarily suppressible and often preceded by an urge to make the stereotyped movement.\n\nEducational objective:\nBroad-spectrum anticonvulsants (eg, levetiracetam, valproic acid) treat both generalized and focal onset seizures, whereas narrow-spectrum anticonvulsants (eg, carbamazepine, phenytoin) are primarily used only for focal onset seizures. Because the seizures in juvenile myoclonic epilepsy are usually generalized onset (ie, affect both cerebral hemispheres at onset), treatment is with a broad-spectrum agent such as valproic acid.",
+    "zh": "该患者最有可能患有肌阵挛性癫痫发作，病因是青少年肌阵挛性癫痫 (JME)，这是一种全面起病的癫痫 (即，在发病时影响两个大脑半球)，可能具有家族性。通常，JME表现为原本健康的青少年出现肌阵挛性癫痫发作（即，涉及双上肢的短暂、不自主的抽搐运动），并保留意识。症状通常发生在清醒后的第一个小时内，并可能由睡眠不足引起。患者还可能出现强直-阵挛性和/或失神发作。\n\n治疗像JME这样的全面起病癫痫，应包括广谱抗惊厥药（例如，丙戊酸、左乙拉西坦），可以治疗局灶性和全面性癫痫发作。相比之下，窄谱抗惊厥药（例如，卡马西平、苯妥英钠）主要用于局灶起病癫痫发作的患者，并且可能加重伴有失神或肌阵挛性癫痫发作患者的癫痫症状（选项B）。\n\n（选项A）巴氯芬是一种 GABA-B 受体激动剂，可用于治疗慢性肌肉痉挛（例如，脑瘫）。患有慢性肌肉痉挛的患者通常在发育和肌张力方面有进行性变化，这在体格检查中是显而易见的。\n\n（选项C）可乐定是一种α-2肾上腺素受体激动剂，可能对注意力缺陷多动障碍且经兴奋剂（例如，哌甲酯）治疗失败的儿童有效。\n\n（选项D）地西泮是一种苯二氮卓类药物，可用于急性治疗持续性癫痫发作，例如癫痫持续状态（≥5分钟的持续癫痫活动或>1次癫痫发作且中间未恢复）。然而，地西泮不适用于该患者的短暂阵挛发作。\n\n（选项E）普萘洛尔是一种非选择性β受体阻滞剂，可用于治疗良性特发性震颤，该病通常表现为中年成年人的双侧、节律性手部震颤，在精细运动活动期间恶化。\n\n（选项G）丁苯那嗪是一种多巴胺耗竭剂，可用于治疗图雷特综合征，该病症的特征是持续>1年的运动和发声抽动。运动抽动可表现为周期性、突然的抽搐运动，但它们通常是暂时可抑制的，并且通常先于做出刻板运动的冲动。\n\n教育目标：\n广谱抗惊厥药（例如，左乙拉西坦、丙戊酸）治疗全面性和局灶性癫痫发作，而窄谱抗惊厥药（例如，卡马西平、苯妥英钠）主要仅用于局灶性癫痫发作。由于青少年肌阵挛性癫痫的癫痫发作通常是全面起病的（即，在发病时影响两个大脑半球），因此治疗应使用广谱药物，如丙戊酸。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of seizure types, specifically myoclonic seizures characteristic of Juvenile Myoclonic Epilepsy (JME), and the appropriate selection of antiepileptic drugs based on seizure classification.\n\nTo solve this question, one must identify the seizure type based on the patient's presentation (brief, jerking movements, aggravated by sleep deprivation, normal consciousness) and then match this to the recommended broad-spectrum anticonvulsant treatment for generalized onset epilepsies.",
+    "zh": "这道题测试对癫痫发作类型的理解，特别是青少年肌阵挛性癫痫 (JME) 的特征性肌阵挛性发作，以及根据癫痫发作分类选择合适的抗癫痫药物。\n\n要解决这个问题，必须根据患者的表现（短暂的抽搐运动、因睡眠不足而加重、意识正常）确定癫痫发作的类型，然后将其与推荐的用于全面起病癫痫的广谱抗惊厥治疗方案相匹配。"
+  },
+  "tags": "Juvenile Myoclonic Epilepsy; Myoclonic seizures; Generalized onset epilepsy; Broad-spectrum anticonvulsants; Valproic acid; Epilepsy; Neurology",
+  "category": "Neuro",
+  "question_id": "355",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\355",
+  "extracted_at": "2025-11-05T19:40:03.827186",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:40:36.749550",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

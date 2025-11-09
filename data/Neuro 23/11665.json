@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 5-year-old boy is brought to the emergency department due to recurrent, generalized tonic-clonic seizures over the past 24 hours. The patient has been having high fever and flulike symptoms for the past 3 days. He has a past medical history of febrile seizures at age 6 months. He takes no medications and has no family history of epilepsy. The patient's temperature is 39.4 C (103 F), blood pressure is 110/70 mm Hg, pulse is 112/min, and respirations are 10/min. He appears lethargic and does not follow simple commands consistently. His neck is supple. During the examination, the patient suddenly develops sustained, generalized tonic-clonic convulsions without fully regaining consciousness between episodes.",
+    "zh": "一名5岁男孩因过去24小时内反复出现全身强直-阵挛性抽搐被送往急诊科。患者过去3天一直有高烧和流感样症状。他有6个月大时发生热性惊厥的病史。他未服用任何药物，且无癫痫家族史。患者体温为39.4°C（103°F），血压为110/70 mmHg，脉搏为112次/分钟，呼吸为10次/分钟。他看起来嗜睡，不能持续地遵循简单的指令。他的颈部柔软。在检查过程中，患者突然出现持续性全身强直-阵挛性抽搐，且在发作间歇期间未完全恢复意识。"
+  },
+  "question": {
+    "en": "Which of the following describes the mechanism of action of the most appropriate initial therapy for his seizures?",
+    "zh": "以下哪项描述了针对其癫痫发作最合适的初始治疗机制？"
+  },
+  "options": {
+    "A": {
+      "en": "Blockade of presynaptic voltage-gated calcium channels",
+      "zh": "阻断突触前电压门控钙通道"
+    },
+    "B": {
+      "en": "Blockade of presynaptic voltage-gated sodium channels",
+      "zh": "阻断突触前电压门控钠通道"
+    },
+    "C": {
+      "en": "Enhanced postsynaptic chloride influx",
+      "zh": "增强突触后氯离子内流"
+    },
+    "D": {
+      "en": "Inhibition of presynaptic neurotransmitter reuptake",
+      "zh": "抑制突触前神经递质再摄取"
+    },
+    "E": {
+      "en": "Inhibition of vesicle fusion and neurotransmitter release",
+      "zh": "抑制囊泡融合和神经递质释放"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient has STATUS EPILEPTICUS, possibly due to complex febrile seizures or infectious meningitis/encephalitis. Regardless of etiology, the initial drug of choice for treating status epilepticus is an INTRAVENOUS BENZODIAZEPINE (eg, lorazepam), due to its efficacy and rapid onset of action.\n\nBenzodiazepines enhance the effect of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA) at the GABA-A receptor, a ligand-gated ion channel. Allosteric attachment of benzodiazepines to the GABA-A receptor causes increased INFLUX of negatively charged CHLORIDE IONS in response to GABA binding. This leads to hyperpolarization of the postsynaptic neuron and suppression of action potential firing (anticonvulsant effect).\n\n(Choices A and E) Presynaptic voltage-gated calcium channels mediate the influx of calcium into the axon terminal, promoting vesicle fusion and neurotransmitter release into the synaptic cleft. Gabapentin is an anticonvulsant that works by blocking voltage-gated calcium channels, thereby attenuating excitatory neurotransmitter release.\n\n(Choice B) Presynaptic voltage-gated sodium channels open when the cell becomes sufficiently depolarized, triggering an action potential that propagates down the axon. Phenytoin blocks presynaptic voltage-gated sodium channels and can be used to prevent recurrence of status epilepticus due to its long duration of action. However, it has a slow onset of action, and patients in status epilepticus should be given a rapid-acting benzodiazepine first.\n\n(Choice D) Selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs) are examples of medications that prevent presynaptic neurotransmitter reuptake. They are typically used to treat depression and anxiety disorders.",
+    "zh": "该患者患有癫痫持续状态，可能由于复杂性热性惊厥或感染性脑膜炎/脑炎所致。无论病因如何，治疗癫痫持续状态的首选药物是静脉注射苯二氮卓类药物（例如劳拉西泮），因为其有效且起效迅速。\n\n苯二氮卓类药物增强抑制性神经递质γ-氨基丁酸（GABA）在GABA-A受体（一种配体门控离子通道）上的作用。苯二氮卓类药物与GABA-A受体的变构结合，会导致对GABA结合的响应中带负电荷的氯离子内流增加。这会导致突触后神经元的超极化，并抑制动作电位放电（抗惊厥作用）。\n\n（选项 A 和 E）突触前电压门控钙通道介导钙离子流入轴突末端，从而促进囊泡融合和神经递质释放到突触间隙。加巴喷丁是一种通过阻断电压门控钙通道起作用的抗惊厥药，从而减弱兴奋性神经递质的释放。\n\n（选项 B）当细胞充分去极化时，突触前电压门控钠通道开放，触发沿轴突传播的动作电位。苯妥英阻断突触前电压门控钠通道，并可用于预防癫痫持续状态的复发，因为它具有较长的作用持续时间。然而，它起效缓慢，患有癫痫持续状态的患者应首先给予速效苯二氮卓类药物。\n\n（选项 D）选择性5-羟色胺再摄取抑制剂（SSRIs）和5-羟色胺-去甲肾上腺素再摄取抑制剂（SNRIs）是防止突触前神经递质再摄取的药物的例子。它们通常用于治疗抑郁症和焦虑症。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the initial management of status epilepticus and the mechanism of action of benzodiazepines. The key is to recognize the patient is in status epilepticus and to select the medication with the most rapid onset of action.\n\nTo solve this question, recognize the patient's presentation as status epilepticus. Recall that benzodiazepines are the first-line treatment and that they work by enhancing GABA-mediated chloride influx, leading to neuronal hyperpolarization.",
+    "zh": "本题考察对癫痫持续状态的初始处理以及苯二氮卓类药物的作用机制的知识。关键在于认识到患者处于癫痫持续状态，并选择起效最快的药物。\n\n要解决这个问题，首先要认识到患者的症状是癫痫持续状态。回想一下，苯二氮卓类药物是一线治疗药物，它们通过增强GABA介导的氯离子内流来发挥作用，从而导致神经元超极化。"
+  },
+  "tags": "Status epilepticus; Benzodiazepines; GABA receptor; Chloride influx; Seizures; Emergency medicine; Neurology; Anticonvulsants",
+  "category": "Neuro",
+  "question_id": "11665",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\11665",
+  "extracted_at": "2025-11-05T15:10:06.721155",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:17:09.073453",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

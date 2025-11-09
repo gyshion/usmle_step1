@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 32-year-old man comes to the office due to fever, jaundice, vomiting, and decreased appetite for the past 5 days. He recently returned home from South America and reports that a couple of his travel companions have had similar symptoms. The patient does not use alcohol, tobacco, or illicit drugs and has no relevant family history. Temperature is 38.8 C (101.8 F), blood pressure is 125/80 mm Hg, pulse is 85/min. Scleral icterus and hepatomegaly are present. Laboratory results are as follows:{{exhibit_1}}",
+    "zh": "一位32岁的男性因发烧、黄疸、呕吐和食欲下降5天来诊。他最近从南美洲旅行归来，报告说他的几位旅伴也有类似的症状。患者不饮酒、不吸烟、不吸毒，也没有相关的家族史。体温38.8摄氏度（101.8华氏度），血压125/80毫米汞柱，脉搏85次/分钟。存在巩膜黄染和肝肿大。实验室结果如下：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following pathophysiologic events is most likely occurring in this patient?",
+    "zh": "该患者最有可能发生以下哪种病理生理事件？"
+  },
+  "options": {
+    "A": {
+      "en": "Accumulation of misfolded protein within hepatocytes",
+      "zh": "肝细胞内错误折叠蛋白的蓄积"
+    },
+    "B": {
+      "en": "CD8+ T-cell response against affected hepatocytes",
+      "zh": "针对受影响肝细胞的CD8+ T细胞反应"
+    },
+    "C": {
+      "en": "Neutrophilic infiltration of the liver",
+      "zh": "中性粒细胞浸润肝脏"
+    },
+    "D": {
+      "en": "Periportal lymphoplasmacytic infiltration",
+      "zh": "门管区淋巴浆细胞浸润"
+    },
+    "E": {
+      "en": "Transformation of hepatic stellate cells into myofibroblasts",
+      "zh": "肝星状细胞转化为肌成纤维细胞"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has hepatitis A, a fecal-orally transmitted virus often linked to undercooked shellfish and unsanitary water supplies. Individuals at increased risk include those traveling to endemic areas (eg, South America), homeless shelter residents, and men who have sex with men. Typical manifestations include fever, jaundice, hepatomegaly, and leukocytosis. Liver aminotransferase levels (eg, alanine aminotransferase [ALT], aspartate aminotransferase [AST]) are dramatically elevated with levels often >1,000 U/L. Hepatitis A triggers a robust CD8+ lymphocytic and natural killer cell response to clear infected hepatocytes: the resulting hepatocellular damage is self-limited, with complete resolution within 2-3 months. Biopsy is not usually necessary for diagnosis, but typically shows a mononuclear periportal infiltrate; ballooning degeneration of hepatocytes and focal necrosis are also sometimes seen in the periportal parenchyma. {{exhibit_2}}\n\n(Choice A) Alpha-1 antitrypsin (AAT) deficiency causes liver disease characterized by intracytoplasmic accumulation of a misfolded and abnormally polymerized AAT protein. However, the onset of symptoms is chronic, fever is not present, and aminotransferase elevations are generally <1,000 U/L. Also, pulmonary symptoms (eg, dyspnea, cough) are common because AAT deficiency also causes early-onset emphysema.\n\n(Choice C) Histologic findings in alcohol-induced liver disease include lobular neutrophilic infiltrates, steatosis, ballooning of hepatocytes, and formation of Mallory-Denk bodies (eg, cytoplasmic eosinophilic inclusions within hepatocytes). However, aminotransferase elevations are modest and rarely exceed 300 U/L, usually with an AST/ALT ratio >2:1, which is not present in this patient.\n\n(Choice D) Lymphoplasmacytic infiltration is characteristic of autoimmune hepatitis. However, multiple people would not be affected with similar symptoms (as in this case) and fever is uncommon.\n\n(Choice E) Chronic hepatic injury due to a variety of causes is associated with stellate cell activation and transformation into collagen-producing myofibroblasts, leading to hepatic fibrosis and cirrhosis. However, although acute hepatic injury in hepatitis A infection may be severe, chronic infection with progression to cirrhosis is rare.\n\nEducational objective:\nHepatitis A presents with fever, jaundice, hepatomegaly, leukocytosis, and aminotransferase levels >1,000 U/L. It triggers a robust CD8+ lymphocytic response to clear infected hepatocytes. The resulting hepatocellular damage is self-limited, with complete resolution within 2-3 months.",
+    "zh": "该患者患有甲型肝炎，这是一种粪口传播病毒，通常与未煮熟的贝类和不卫生的水源有关。高危人群包括前往流行地区（如南美洲）旅行者、无家可归者收容所居民以及与男性发生性行为的男性。典型表现包括发烧、黄疸、肝肿大和白细胞增多。肝转氨酶水平（例如，丙氨酸氨基转移酶[ALT]，天冬氨酸氨基转移酶[AST]）显着升高，通常>1,000 U/L。甲型肝炎会触发强大的CD8+淋巴细胞和自然杀伤细胞反应以清除受感染的肝细胞：由此产生的肝细胞损伤是自限性的，在2-3个月内完全消退。活检通常不是诊断所必需的，但通常显示单核细胞门管区浸润；肝细胞气球样变性和局灶性坏死有时也会在门管区实质中观察到。{{exhibit_2}}\n\n（选项A）α-1抗胰蛋白酶（AAT）缺乏症会导致肝病，其特征是细胞内错误折叠和异常聚合的AAT蛋白积聚。然而，症状的出现是慢性的，不存在发烧，转氨酶升高通常<1,000 U/L。此外，肺部症状（例如，呼吸困难、咳嗽）很常见，因为AAT缺乏症还会导致早发性肺气肿。\n\n（选项C）酒精引起的肝病的组织学发现包括小叶中性粒细胞浸润、脂肪变性、肝细胞气球样变性和Mallory-Denk小体的形成（例如，肝细胞内的细胞质嗜酸性包涵体）。然而，转氨酶升高是轻度的，很少超过300 U/L，通常AST/ALT比率>2:1，而该患者没有这种情况。\n\n（选项D）淋巴浆细胞浸润是自身免疫性肝炎的特征。但是，不会有多人受到类似的症状影响（如本例），而且发烧不常见。\n\n（选项E）由于各种原因引起的慢性肝损伤与星状细胞活化和转化为产生胶原的肌成纤维细胞有关，导致肝纤维化和肝硬化。然而，尽管甲型肝炎感染中的急性肝损伤可能很严重，但进展为肝硬化的慢性感染很少见。\n\n教育目标：\n甲型肝炎表现为发烧、黄疸、肝肿大、白细胞增多和转氨酶水平>1,000 U/L。它会触发强大的CD8+淋巴细胞反应以清除受感染的肝细胞。由此产生的肝细胞损伤是自限性的，在2-3个月内完全消退。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Hepatitis A infection, including its clinical presentation, laboratory findings, and underlying pathophysiology involving CD8+ T-cell response. It also requires differentiating Hepatitis A from other liver diseases based on clinical and laboratory features. \n\nTo solve this question, recognize the key features of Hepatitis A: recent travel to an endemic area, fever, jaundice, hepatomegaly, elevated liver enzymes, and leukocytosis. Then, select the option that aligns with the immune response triggered by Hepatitis A, which is a CD8+ T-cell response against infected hepatocytes.",
+    "zh": "本题考察对甲型肝炎感染的了解，包括其临床表现、实验室检查结果以及涉及CD8+ T细胞反应的潜在病理生理学。它还需要根据临床和实验室特征将甲型肝炎与其他肝病区分开来。\n\n要解决这个问题，需要认识到甲型肝炎的关键特征：近期前往流行地区旅行、发烧、黄疸、肝肿大、肝酶升高和白细胞增多。然后，选择与甲型肝炎触发的免疫反应相符的选项，即针对受感染肝细胞的CD8+ T细胞反应。"
+  },
+  "tags": "Hepatitis A; Liver disease; CD8+ T-cells; Viral hepatitis; Infectious disease; Gastroenterology; Hepatomegaly; Jaundice; Liver function tests; Aminotransferases",
+  "category": "GIT",
+  "question_id": "19701",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\GIT 23\\19701",
+  "extracted_at": "2025-11-05T14:30:34.326200",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:54:22.919661",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

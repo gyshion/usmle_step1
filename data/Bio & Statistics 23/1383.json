@@ -1,0 +1,55 @@
+{
+  "question_stem": {
+    "en": "A pharmaceutical researcher is studying a target protein involved in the signal transduction and cellular response to TSH. The protein is isolated and purified from thyroid follicular cells. Further analysis reveals that the protein contains multiple alpha-helical regions. Each of these regions is composed of approximately 20 amino acid residues consisting primarily of valine, alanine, and isoleucine. ",
+    "zh": "一位制药研究员正在研究一种参与 TSH 信号转导和细胞反应的靶蛋白。该蛋白从甲状腺滤泡细胞中分离纯化。进一步分析表明，该蛋白包含多个 α-螺旋区域。这些区域中的每一个都由大约 20 个氨基酸残基组成，主要由缬氨酸、丙氨酸和异亮氨酸构成。"
+  },
+  "question": {
+    "en": "This particular region of the protein most likely performs which of the following functions?",
+    "zh": "该蛋白的这个特定区域最有可能执行以下哪种功能？"
+  },
+  "options": {
+    "A": {
+      "en": "Anchoring to the cell membrane",
+      "zh": "锚定到细胞膜"
+    },
+    "B": {
+      "en": "Binding to an extracellular ligand",
+      "zh": "与细胞外配体结合"
+    },
+    "C": {
+      "en": "Binding to intranuclear DNA",
+      "zh": "与核内 DNA 结合"
+    },
+    "D": {
+      "en": "Interacting with metal ions in transporting proteins",
+      "zh": "与转运蛋白中的金属离子相互作用"
+    },
+    "E": {
+      "en": "Phosphorylating tyrosine residues",
+      "zh": "磷酸化酪氨酸残基"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "{{exhibit_1}}\nThe transmembrane domain is made up of nonpolar, hydrophobic amino acids (eg, alanine, valine, leucine, isoleucine, phenylalanine, tryptophan, methionine, proline, glycine). These amino acids are arranged in an alpha-helical fashion and project their hydrophobic R groups outwardly, anchoring the transmembrane region of the protein to the hydrophobic core of the phospholipid bilayer. The transmembrane domain may also play an important role in cellular signaling and transport.\n\n(Choice B) Binding of a ligand to the extracellular domain of a transmembrane receptor can result in activation of the cAMP or phosphatidylinositol second messenger system, activation of receptor tyrosine kinases, opening of ion channels, and activation of the calcium-calmodulin system. The extracellular domain of these receptors is typically composed of hydrophilic amino acids.\n\n(Choice C) Activation of G protein-coupled receptors utilizing the cAMP second messenger system results in increased synthesis of intracellular cAMP and subsequent activation of protein kinase A. Protein kinase A then phosphorylates cytosolic proteins that translocate into the nucleus and bind to DNA promoter regions to modulate transcription.\n\n(Choice D) Intracellular iron-containing proteins (hemeproteins) include hemoglobin, myoglobin, and cytochrome oxidase. Heme is a complex of protoporphyrin IX and iron. Hemoglobin A, the most common hemoglobin in adults, consists of 2 alpha and 2 beta globin chains held together by noncovalent interactions. Each subunit contains stretches of alpha helices that form a heme-binding pocket lined by nonpolar amino acids.\n\n(Choice E) Insulin and IGF-1 bind to receptors that possess tyrosine kinase on their intracellular domain (receptor tyrosine kinases). These receptors dimerize upon ligand binding to the extracellular domain, which subsequently activates tyrosine kinase. Tyrosine kinase phosphorylates tyrosine residues, triggering a downstream cellular response.\n\nEducational objective:\nIntegral membrane proteins contain transmembrane domains composed of alpha helices with hydrophobic amino acid residues (eg, alanine, valine, leucine, isoleucine, phenylalanine, tryptophan, methionine, proline, glycine). These transmembrane domains help anchor the protein to the phospholipid bilayer of the cell membrane.",
+    "zh": "{{exhibit_1}}\n跨膜结构域由非极性疏水性氨基酸（如丙氨酸、缬氨酸、亮氨酸、异亮氨酸、苯丙氨酸、色氨酸、甲硫氨酸、脯氨酸、甘氨酸）组成。这些氨基酸以 α-螺旋方式排列，并向外突出其疏水性 R 基团，将蛋白质的跨膜区域锚定到磷脂双分子层的疏水核心。跨膜结构域也可能在细胞信号传导和转运中发挥重要作用。\n\n(选项 B) 配体与跨膜受体的细胞外结构域结合可导致 cAMP 或磷脂酰肌醇第二信使系统的激活、受体酪氨酸激酶的激活、离子通道的开放以及钙调蛋白系统的激活。这些受体的细胞外结构域通常由亲水性氨基酸组成。\n\n(选项 C) 利用 cAMP 第二信使系统激活 G 蛋白偶联受体，导致细胞内 cAMP 增加，随后激活蛋白激酶 A。然后，蛋白激酶 A 磷酸化转位到细胞核并与 DNA 启动子区域结合以调节转录的胞质蛋白。\n\n(选项 D) 细胞内含铁蛋白（血红蛋白）包括血红蛋白、肌红蛋白和细胞色素氧化酶。血红素是原卟啉 IX 和铁的复合物。成人中最常见的血红蛋白 A 由 2 个 α 和 2 个 β 球蛋白链组成，它们通过非共价相互作用连接在一起。每个亚基都包含 α 螺旋的延伸，形成由非极性氨基酸构成的血红素结合口袋。\n\n(选项 E) 胰岛素和 IGF-1 与在其细胞内结构域（受体酪氨酸激酶）上具有酪氨酸激酶的受体结合。这些受体在配体与细胞外结构域结合时发生二聚化，随后激活酪氨酸激酶。酪氨酸激酶磷酸化酪氨酸残基，触发下游细胞反应。\n\n教育目标：\n整合膜蛋白包含跨膜结构域，该结构域由具有疏水性氨基酸残基（如丙氨酸、缬氨酸、亮氨酸、异亮氨酸、苯丙氨酸、色氨酸、甲硫氨酸、脯氨酸、甘氨酸）的 α 螺旋组成。这些跨膜结构域有助于将蛋白质锚定到细胞膜的磷脂双分子层。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the structure and function of transmembrane proteins, particularly G protein-coupled receptors and their anchoring to the cell membrane's phospholipid bilayer. It requires understanding the role of hydrophobic amino acids in transmembrane domains. \n\nTo solve this question, focus on the amino acid composition described (valine, alanine, isoleucine). Recognize that these are hydrophobic amino acids typically found in the transmembrane domains of integral membrane proteins, which function to anchor the protein within the hydrophobic core of the cell membrane.",
+    "zh": "此问题测试对跨膜蛋白的结构和功能的了解，特别是 G 蛋白偶联受体及其锚定到细胞膜磷脂双分子层。它需要了解疏水性氨基酸在跨膜结构域中的作用。\n\n要解决这个问题，请关注所描述的氨基酸组成（缬氨酸、丙氨酸、异亮氨酸）。认识到这些是疏水性氨基酸，通常存在于整合膜蛋白的跨膜结构域中，其功能是将蛋白质锚定在细胞膜的疏水核心内。"
+  },
+  "tags": "Transmembrane proteins; G protein-coupled receptors; Cell membrane; Phospholipid bilayer; Hydrophobic amino acids; Protein structure; Signal transduction",
+  "category": "Bio",
+  "question_id": "1383",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\1383",
+  "extracted_at": "2025-11-05T10:34:27.532051",
+  "translated_at": "2025-11-07T16:21:04.073942",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

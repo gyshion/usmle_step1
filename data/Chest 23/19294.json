@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 65-year-old man comes to the office due to shortness of breath, weakness, and cough for 1 week. He underwent bilateral lung transplantation for idiopathic pulmonary fibrosis 3 months ago. Temperature is 38.3 C (101 F), blood pressure is 130/80 mm Hg, pulse is 90/min, and respirations are 18/min. Chest x-ray shows perihilar opacities and interstitial edema. Transbronchial biopsies reveal moderate perivascular and peribronchiolar mononuclear infiltrate predominantly composed of lymphocytes. No viral inclusions are present.",
+    "zh": "一名65岁男性因呼吸困难、乏力和咳嗽一周来诊。3个月前，他因特发性肺纤维化接受了双侧肺移植。体温38.3°C（101°F），血压130/80 mmHg，脉搏90次/分钟，呼吸18次/分钟。胸片显示肺门周围不透光影和间质性水肿。经支气管活检显示中度血管周围和支气管周围单核细胞浸润，主要由淋巴细胞组成。未见病毒包涵体。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Left ventricular dysfunction",
+      "zh": "左心室功能障碍"
+    },
+    "B": {
+      "en": "Pneumococcal pneumonia",
+      "zh": "肺炎链球菌肺炎"
+    },
+    "C": {
+      "en": "Polyarteritis nodosa",
+      "zh": "结节性多动脉炎"
+    },
+    "D": {
+      "en": "Recurrence of primary lung disease",
+      "zh": "原发性肺病复发"
+    },
+    "E": {
+      "en": "Transplant rejection",
+      "zh": "移植排斥反应"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient with dyspnea, cough, fever, and lung biopsy revealing lymphocytic infiltration several months after lung transplant likely has ACUTE lung transplant rejection. Acute transplant rejection (ATR) is a cell-mediated response involving T-lymphocyte activation against donor antigens (eg, mismatched HLA types) and most commonly occurs within 6 months of transplant.\n\nPatients with ATR may be asymptomatic (with rejection detected by surveillance biopsy) or can present with low-grade fever, dyspnea, cough, and/or fatigue. Chest x-ray may reveal hilar lymphatic enlargement and edematous interstitial thickening. Lung biopsy reveals perivascular and peribronchiolar mononuclear infiltrate primarily composed of lymphocytes. The absence of viral inclusions in epithelial cells helps rule out cytomegalovirus, a common infection in lung transplant recipients that can present similarly to acute rejection.\n\nThe risk of ATR markedly increases with poor adherence to immunosuppression medications (eg, tacrolimus, mycophenolate), but it can affect all transplant recipients, regardless of medication adherence. Episodes of ATR are usually reversible with increased immunosuppression (eg, high-dose steroids); however, patients with frequent episodes of ATR are at greater risk of developing chronic transplant rejection, which is typically irreversible.\n\n(Choice A) Left ventricular dysfunction can cause pulmonary edema with similar appearance to ATR on chest x-ray. However, fever is not expected, and lung biopsy typically reveals hemosiderin-laden macrophages with no evidence of inflammatory lymphocytic infiltrate.\n\n(Choice B) Lung transplant recipients are at increased risk of bacterial (eg, Pneumococcal) pneumonia; however, chest x-ray is more likely to reveal focal alveolar consolidation, and neutrophil predominance is expected on lung biopsy.\n\n(Choice C) Polyarteritis nodosa is a medium vessel vasculitis that typically demonstrates lymphocytic infiltrate with vascular wall necrosis on biopsy. It can affect multiple organs, including the liver, kidneys, intestines, and skin; however, it characteristically spares the lungs.\n\n(Choice D) Eventual recurrence of primary lung disease following lung transplantation is possible for many diseases (eg, interstitial lung disease, bronchiectasis) but is unlikely within only several months.\n\nEducational objective:\nAcute lung transplant rejection is a cell-mediated response involving T-lymphocyte activation against donor antigens and typically occurs within 6 months of transplant. Affected patients can have shortness of breath, cough, and low-grade fever. Lung biopsy reveals perivascular and peribronchiolar lymphocytic infiltrate and absence of epithelial cell viral inclusions (ruling out cytomegalovirus).",
+    "zh": "这位出现呼吸困难、咳嗽、发热，且肺活检显示肺移植后数月出现淋巴细胞浸润的患者，很可能患有急性肺移植排斥反应。急性移植排斥反应 (ATR) 是一种细胞介导的反应，涉及 T 淋巴细胞激活以对抗供体抗原（例如，不匹配的 HLA 类型），最常发生在移植后 6 个月内。\n\nATR 患者可能无症状（通过监测活检检测到排斥反应），或可表现为低烧、呼吸困难、咳嗽和/或疲劳。胸片可能显示肺门淋巴结肿大和水肿性间质增厚。肺活检显示血管周围和支气管周围单核细胞浸润，主要由淋巴细胞组成。上皮细胞中不存在病毒包涵体有助于排除巨细胞病毒，巨细胞病毒是肺移植受者中常见的感染，其表现可能与急性排斥反应相似。\n\n未遵守免疫抑制药物（例如，他克莫司、霉酚酸酯）的风险会显着增加 ATR 的风险，但它会影响所有移植受者，而与药物依从性无关。ATR 发作通常可以通过增加免疫抑制（例如，大剂量类固醇）来逆转；然而，频繁发生 ATR 的患者发生慢性移植排斥反应的风险更高，而慢性移植排斥反应通常是不可逆的。\n\n（选项 A）左心室功能障碍可导致肺水肿，在胸片上与 ATR 相似。然而，预计不会发热，并且肺活检通常显示含铁血黄素巨噬细胞，而没有炎症性淋巴细胞浸润的证据。\n\n（选项 B）肺移植受者发生细菌性（例如，肺炎球菌）肺炎的风险增加；然而，胸片更有可能显示局灶性肺泡实变，并且肺活检预计以中性粒细胞为主。\n\n（选项 C）结节性多动脉炎是一种中型血管血管炎，通常在活检中显示淋巴细胞浸润伴血管壁坏死。它会影响多个器官，包括肝脏、肾脏、肠道和皮肤；然而，它具有典型的肺部缺失。\n\n（选项 D）在肺移植后，许多疾病（例如，间质性肺病、支气管扩张）最终可能复发原发性肺病，但不太可能在几个月内发生。\n\n教育目标：\n急性肺移植排斥反应是一种细胞介导的反应，涉及 T 淋巴细胞激活以对抗供体抗原，通常发生在移植后 6 个月内。受影响的患者可能出现呼吸困难、咳嗽和低烧。肺活检显示血管周围和支气管周围淋巴细胞浸润，并且不存在上皮细胞病毒包涵体（排除巨细胞病毒）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of acute lung transplant rejection, its clinical presentation, diagnostic findings, and underlying pathophysiology. It emphasizes the importance of recognizing the signs and symptoms of rejection in a post-transplant patient.\n\nThe best approach is to consider the patient's recent lung transplant history, the timeframe of symptom onset (within 6 months), and the specific findings on chest x-ray and lung biopsy. Rule out other potential causes of respiratory symptoms in transplant recipients, such as infection or recurrence of the original lung disease.",
+    "zh": "此问题考察了关于急性肺移植排斥反应、其临床表现、诊断发现和潜在病理生理学的知识。它强调了识别移植后患者排斥反应的体征和症状的重要性。\n\n最好的方法是考虑患者最近的肺移植史、症状出现的时间范围（6 个月内）以及胸片和肺活检的具体发现。排除移植受者呼吸系统症状的其他潜在原因，例如感染或原始肺病的复发。"
+  },
+  "tags": "Lung transplantation; Acute transplant rejection; Immunosuppression; Lymphocytic infiltrate; Cell-mediated immunity; Respiratory medicine; Pulmonary fibrosis; Infectious disease; Cytomegalovirus",
+  "category": "Chest",
+  "question_id": "19294",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\19294",
+  "extracted_at": "2025-11-05T11:42:13.848139",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:37:26.584690",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

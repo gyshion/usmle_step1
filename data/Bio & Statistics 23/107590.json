@@ -1,0 +1,56 @@
+{
+  "question_stem": {
+    "en": "A 20-year-old woman comes to the clinic for evaluation of fatigue that has progressively worsened over the past month. The patient was recently diagnosed with celiac disease, but she has not strictly adhered to a gluten-free diet. Laboratory evaluation reveals macrocytic anemia with a low folate level but normal vitamin B₁₂ level. Oral folic acid is prescribed.",
+    "zh": "一名20岁的女性前来就诊，评估她在过去一个月内逐渐恶化的疲劳症状。患者最近被诊断为乳糜泻，但她没有严格遵守无麸质饮食。实验室评估显示大细胞性贫血，叶酸水平低，但维生素B₁₂水平正常。口服叶酸已开具处方。"
+  },
+  "question": {
+    "en": "Which of the following biochemical changes is most likely to occur in this patient after starting treatment?",
+    "zh": "开始治疗后，该患者最有可能发生以下哪种生化变化？"
+  },
+  "options": {
+    "A": {
+      "en": "Homocysteine ↓\nMethionine ↑\nMethylmalonic acid No change",
+      "zh": "同型半胱氨酸 ↓\n甲硫氨酸 ↑\n甲基丙二酸 无变化"
+    },
+    "B": {
+      "en": "Homocysteine ↓\nMethionine ↑\nMethylmalonic acid ↓",
+      "zh": "同型半胱氨酸 ↓\n甲硫氨酸 ↑\n甲基丙二酸 ↓"
+    },
+    "C": {
+      "en": "Homocysteine ↑\nMethionine ↓\nMethylmalonic acid No change",
+      "zh": "同型半胱氨酸 ↑\n甲硫氨酸 ↓\n甲基丙二酸 无变化"
+    },
+    "D": {
+      "en": "Homocysteine ↑\nMethionine ↓\nMethylmalonic acid ↑",
+      "zh": "同型半胱氨酸 ↑\n甲硫氨酸 ↓\n甲基丙二酸 ↑"
+    },
+    "E": {
+      "en": "Homocysteine No change\nMethionine No change\nMethylmalonic acid ↑",
+      "zh": "同型半胱氨酸 无变化\n甲硫氨酸 无变化\n甲基丙二酸 ↑"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Folate is a naturally occurring vitamin found in animal and plant products, most notably liver and leafy green vegetables; it is also fortified in many cereals and grains. Therefore, FOLATE DEFICIENCY is rare in persons who consume a varied diet. However, deficiency can occur in the setting of increased cell turnover (eg, pregnancy, chronic hemolytic anemia), medications that interfere with folate metabolism (eg, methotrexate, antiseizure agents), and INTESTINAL MALABSORPTION. This patient with CELIAC DISEASE, who is noncompliant with dietary restrictions, likely developed folate deficiency due to inflammation in the wall of the jejunum, which impaired folate absorption.\n\nFolate has a crucial role in the generation of purines and pyrimidines by converting homocysteine to methionine. Specifically, 5-methyl-tetrahydrofolate donates its methyl group to vitamin B₁₂, forming methylcobalamin, then methylcobalamin donates its methyl group to homocysteine to form methionine. In folate deficiency, homocysteine cannot be converted to methionine, leading to homocysteine accumulation (Choice C). In contrast, FOLATE SUPPLEMENTATION results in the rapid conversion of homocysteine to methionine, leading to low homocysteine and high methionine.\n\nMethylmalonic acid is a biomarker for vitamin B₁₂ because conversion of methylmalonyl-coenzyme A (CoA) to succinyl-CoA requires vitamin B₁₂. Because methylmalonyl-CoA mutase is not a folate-dependent enzyme, it is UNAFFECTED by changes in folate level.\n\n(Choice B) Decreased homocysteine, increased methionine, and decreased methylmalonic acid would be expected after vitamin B₁₂ supplementation, not folate supplementation.\n\n(Choice D) Increased homocysteine, decreased methionine, and increased methylmalonic acid would be expected in vitamin B₁₂ deficiency.\n\n(Choice E) Isolated methylmalonic acidemia occurs in a rare autosomal recessive condition and is unrelated to folate deficiency and supplementation.",
+    "zh": "叶酸是一种天然存在的维生素，存在于动物和植物产品中，最常见的是肝脏和绿叶蔬菜；它也强化在许多谷物中。因此，在饮食多样化的人群中，叶酸缺乏症很少见。然而，缺乏症可发生在细胞更新增加（例如，妊娠、慢性溶血性贫血）、干扰叶酸代谢的药物（例如，甲氨蝶呤、抗癫痫药）和肠道吸收不良的情况下。这名患有乳糜泻的患者，不遵守饮食限制，很可能由于空肠壁的炎症导致叶酸缺乏，从而损害了叶酸的吸收。\n\n叶酸通过将同型半胱氨酸转化为甲硫氨酸，在嘌呤和嘧啶的生成中起着关键作用。具体来说，5-甲基四氢叶酸将它的甲基转移给维生素B₁₂，形成甲基钴胺素，然后甲基钴胺素将它的甲基转移给同型半胱氨酸，形成甲硫氨酸。在叶酸缺乏症中，同型半胱氨酸不能转化为甲硫氨酸，导致同型半胱氨酸积累（选项C）。相反，补充叶酸会导致同型半胱氨酸迅速转化为甲硫氨酸，从而导致同型半胱氨酸降低，甲硫氨酸升高。\n\n甲基丙二酸是维生素B₁₂的生物标志物，因为将甲基丙二酰辅酶A (CoA) 转化为琥珀酰辅酶A需要维生素B₁₂。由于甲基丙二酰CoA变位酶不是叶酸依赖性酶，因此它不受叶酸水平变化的影响。\n\n(选项 B) 同型半胱氨酸降低、甲硫氨酸升高和甲基丙二酸降低，这种情况预计发生在补充维生素B₁₂之后，而不是叶酸补充剂。\n\n(选项 D) 同型半胱氨酸升高、甲硫氨酸降低和甲基丙二酸升高，这种情况预计发生在维生素B₁₂缺乏症中。\n\n(选项 E) 孤立性甲基丙二酸血症发生在一种罕见的常染色体隐性遗传病中，与叶酸缺乏症和补充无关。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of folate deficiency and its effects on homocysteine, methionine, and methylmalonic acid levels. It also tests the understanding of how folate supplementation impacts these biochemical markers.\n\nThe key to solving this question is to recall that folate is essential for converting homocysteine to methionine. Folate supplementation will, therefore, decrease homocysteine and increase methionine levels. Methylmalonic acid is affected by vitamin B12, not folate.",
+    "zh": "这道题考察了对叶酸缺乏症及其对同型半胱氨酸、甲硫氨酸和甲基丙二酸水平的影响的认识。它还考察了对叶酸补充如何影响这些生化指标的理解。\n\n解决这道题的关键是记住叶酸对于将同型半胱氨酸转化为甲硫氨酸至关重要。因此，补充叶酸会降低同型半胱氨酸，增加甲硫氨酸水平。甲基丙二酸受维生素B12的影响，而不是叶酸。"
+  },
+  "tags": "Folate deficiency; Macrocytic anemia; Homocysteine; Methionine; Methylmalonic acid; Celiac disease; Malabsorption; Vitamin B12; Folate supplementation",
+  "category": "Bio",
+  "question_id": "107590",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\107590",
+  "extracted_at": "2025-11-05T10:26:51.509402",
+  "translated_at": "2025-11-07T15:43:58.627921",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

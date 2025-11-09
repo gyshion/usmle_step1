@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 48-year-old woman enrolls in a clinical trial. The patient has had persistent discomfort in her lower extremities for the past 2 years. She describes an uncomfortable sensation in her legs, particularly in the evening and at night, but no pain. The symptoms are relieved with leg movement or walking. She has experienced no behavioral or mood changes. The patient intermittently experiences mild migraines, and during a recent episode she found that antiemetic therapy worsened the leg discomfort. Vital signs are normal, and physical examination shows no abnormalities. Blood cell counts, serum chemistry studies, and serum iron levels are within normal limits. Treatment with a novel agent, an alpha-2-delta calcium channel ligand, is initiated. The patient receives significant symptom relief with this therapy.",
+    "zh": "一位48岁的女性参加了一项临床试验。患者在过去的2年里持续出现下肢不适。她描述了腿部不舒服的感觉，特别是在晚上，但没有疼痛。腿部活动或行走可以缓解症状。她没有经历任何行为或情绪变化。患者间歇性地出现轻度偏头痛，在最近一次发作中，她发现止吐治疗使腿部不适加重。生命体征正常，体格检查未见异常。血细胞计数、血清化学研究和血清铁水平均在正常范围内。开始使用一种新型药物，一种α-2-δ钙通道配体。患者使用这种疗法后症状得到明显缓解。"
+  },
+  "question": {
+    "en": "The novel agent used in this trial is most similar to which of the following medications?",
+    "zh": "该试验中使用的新型药物与以下哪种药物最相似？"
+  },
+  "options": {
+    "A": {
+      "en": "Benzotropine",
+      "zh": "苯托品"
+    },
+    "B": {
+      "en": "Gabapentin",
+      "zh": "加巴喷丁"
+    },
+    "C": {
+      "en": "Oxycodone",
+      "zh": "羟考酮"
+    },
+    "D": {
+      "en": "Propranolol",
+      "zh": "普萘洛尔"
+    },
+    "E": {
+      "en": "Sertraline",
+      "zh": "舍曲林"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient with vague lower extremity discomfort and an urge to move the legs that worsens at night has typical features of RESTLESS LEGS SYNDROME (RLS). RLS is characterized by uncomfortable sensations in the legs that are often difficult to describe and associated with an urge to move the lower extremities. Symptoms are RELIEVED WITH MOVEMENT (eg, walking, stretching) and are TYPICALLY WORSE AT NIGHT. As a result, patients often develop sleep-onset insomnia.\n\nThe pathophysiology of RLS is incompletely understood but likely involves CNS IRON DEFICIENCY (even in patients with normal serum iron levels) and ABNORMALITIES IN DOPAMINERGIC TRANSMISSION. Certain medications, including dopamine antagonists (eg, antipsychotics, certain antiemetics [metoclopramide]), first-generation antihistamines (eg, diphenhydramine), and antidepressants (eg, selective serotonin reuptake inhibitors [eg, sertraline], mirtazapine), are associated with worsening symptoms (Choice E).\n\nTreatment includes lifestyle measures (eg, limiting alcohol and caffeine) and ALPHA-2-DELTA CALCIUM CHANNEL LIGANDS (eg, gabapentin, pregabalin). Dopamine agonists (eg, pramipexole) are alternate agents, but regular use can lead to augmentation of symptoms (ie, paradoxical worsening with chronic therapy) as well as the risk of impulse control disorders.\n\n(Choice A) Muscarinic receptor antagonists (eg, benztropine) have been used for the treatment of dystonia, which is characterized by sustained muscle contractions usually associated with abnormal posturing (eg, torticollis).\n\n(Choice C) Opioid mu-receptor agonists (eg, oxycodone) are occasionally used for refractory RLS but carry significant risks (eg, sedation, abuse, respiratory depression). Opioid antagonists (eg, naltrexone) are not useful.\n\n(Choice D) Beta-adrenergic antagonists (eg, propranolol) are used for treating akathisia (ie, a strong urge to move), which occurs most commonly as an adverse effect of dopamine antagonists (ie, antipsychotic drugs). Although akathisia is similar to RLS, it is not accompanied by an unpleasant sensation in the legs and does not follow a circadian rhythm.\n\nEducational objective:\nRestless legs syndrome is characterized by an uncomfortable sensation in the legs accompanied by an urge to move them; symptoms worsen with inactivity and at night and are temporarily relieved by movement. Alpha-2-delta calcium channel ligands (eg, gabapentin, pregabalin) and dopamine agonists (eg, pramipexole) can be used to treat persistent symptoms.",
+    "zh": "这位患者出现下肢不适，并有夜间加重的腿部活动冲动，具有典型的不宁腿综合征（RLS）特征。RLS的特征是腿部出现不舒服的感觉，通常难以描述，并伴有活动下肢的冲动。症状可通过活动（如行走、伸展）缓解，并且通常在夜间加重。因此，患者经常会发生入睡困难。\n\nRLS的病理生理学尚不完全清楚，但可能涉及中枢神经系统铁缺乏症（即使在血清铁水平正常的患者中）和多巴胺能传递的异常。某些药物，包括多巴胺拮抗剂（如抗精神病药、某些止吐药[甲氧氯普胺]）、第一代抗组胺药（如苯海拉明）和抗抑郁药（如选择性5-羟色胺再摄取抑制剂[如舍曲林]、米氮平）与症状恶化有关（选项E）。\n\n治疗包括生活方式措施（如限制酒精和咖啡因）和α-2-δ钙通道配体（如加巴喷丁、普瑞巴林）。多巴胺激动剂（如普拉克索）是替代药物，但长期使用会导致症状加重（即，慢性治疗导致矛盾性恶化），以及冲动控制障碍的风险。\n\n（选项A）毒蕈碱受体拮抗剂（如苯托品）已用于治疗肌张力障碍，其特征是持续的肌肉收缩，通常与异常姿势（如斜颈）相关。\n\n（选项C）阿片类μ-受体激动剂（如羟考酮）偶尔用于难治性RLS，但存在重大风险（如镇静、滥用、呼吸抑制）。阿片类拮抗剂（如纳曲酮）无用。\n\n（选项D）β-肾上腺素能受体拮抗剂（如普萘洛尔）用于治疗静坐不能（即，强烈的活动冲动），这最常见于多巴胺拮抗剂（即抗精神病药物）的不良反应。虽然静坐不能与RLS相似，但它不伴有腿部不适感，也不会遵循昼夜节律。\n\n教育目标：\n不宁腿综合征的特征是腿部出现不舒服的感觉，并伴有活动它们的冲动；症状在不活动和夜间加重，并通过活动暂时缓解。α-2-δ钙通道配体（如加巴喷丁、普瑞巴林）和多巴胺激动剂（如普拉克索）可用于治疗持续性症状。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of Restless Legs Syndrome (RLS), its characteristic symptoms, pathophysiology, and pharmacological management. Specifically, it assesses the ability to identify RLS based on a clinical vignette and recognize the class of medication used to treat it, particularly alpha-2-delta calcium channel ligands.\n\nTo solve this question, first identify the key features of RLS in the vignette: discomfort in the legs, urge to move, worsening at night, and relief with movement. Then, recognize that the described \"novel agent, an alpha-2-delta calcium channel ligand\" points to a specific class of drugs. Finally, match this class to the provided medication options, knowing that gabapentin is an alpha-2-delta calcium channel ligand.",
+    "zh": "此问题测试对不宁腿综合征（RLS）、其特征性症状、病理生理学和药物治疗的理解。具体来说，它评估了基于临床病例识别RLS并识别用于治疗它的药物类别，特别是α-2-δ钙通道配体的能力。\n\n要解决这个问题，首先识别病例中的RLS关键特征：腿部不适、活动冲动、夜间加重和活动缓解。然后，认识到所描述的“新型药物，α-2-δ钙通道配体”指向一类特定的药物。最后，将此类药物与提供的药物选项匹配，了解加巴喷丁是一种α-2-δ钙通道配体。"
+  },
+  "tags": "Restless Legs Syndrome; Neurological disorders; Alpha-2-delta calcium channel ligands; Gabapentin; Dopaminergic transmission; Iron deficiency; Sleep disorders; Pharmacotherapy",
+  "category": "Neuro",
+  "question_id": "10362",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\10362",
+  "extracted_at": "2025-11-05T19:30:45.200001",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:30:02.186938",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

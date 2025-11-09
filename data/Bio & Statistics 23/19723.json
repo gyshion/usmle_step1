@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A clinical study examines the usefulness of 5 different biomarkers to detect Barrett esophagus (BE), the only known precursor lesion of esophageal adenocarcinoma. Researchers evaluate the performance of each biomarker and report the sensitivity, specificity, and area under the curve (AUC) estimates. {{exhibit_1}}",
+    "zh": "一项临床研究考察了5种不同的生物标志物在检测Barrett食管 (BE，食管腺癌的唯一已知前驱病变) 中的效用。研究人员评估了每种生物标志物的性能，并报告了敏感度、特异性和曲线下面积 (AUC) 的估计值。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the biomarkers is most accurate?",
+    "zh": "哪种生物标志物最准确？"
+  },
+  "options": {
+    "A": {
+      "en": "1",
+      "zh": "1"
+    },
+    "B": {
+      "en": "2",
+      "zh": "2"
+    },
+    "C": {
+      "en": "3",
+      "zh": "3"
+    },
+    "D": {
+      "en": "4",
+      "zh": "4"
+    },
+    "E": {
+      "en": "5",
+      "zh": "5"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The accuracy of screening or diagnostic tests (defined as the number of true positives plus true negatives divided by the number of all observations) is generally quantified by the area under the ROC curve (AUC). ROC (receiver operating characteristic) curves are created by plotting sensitivity (true-positive rate) against 1 – specificity (false-positive rate) for various cutoff thresholds (ie, the value that determines if a given test result is positive or negative). A highly accurate test is highly sensitive (high true-positive rate) and highly specific (low false-positive rate). The more accurate the test is (ie, the higher sensitivity and specificity), the closer the AUC value is to 1.0. Therefore, tests with higher AUCs are more accurate than tests with lower AUCs.\n\nIn this study, the ROCs for the tests (ie, biomarkers) are not provided; however, it is possible to draw conclusions about the accuracy of each biomarker based on the values given for their AUCs. Biomarker 3 has the largest AUC (0.879) compared to biomarker 1 (0.603), biomarker 2 (0.758), biomarker 4 (0.763), and biomarker 5 (0.756). Therefore, biomarker 3 is the most accurate test of the 5 tests for Barrett esophagus screening.\n\n(Choices A, B, D, and E) Biomarker 3 (0.879) is more accurate than biomarker 4 (0.763); biomarker 4 is more accurate than biomarker 2 (0.758); biomarker 2 is more accurate than biomarker 5 (0.756); and biomarker 5 is more accurate than biomarker 1 (0.603).\n\nEducational objective:\nThe accuracy of screening or diagnostic tests is quantified by the area under the ROC curve (AUC). The more accurate the test is (ie, higher sensitivity and specificity), the closer the AUC value is to 1.0. Tests with higher AUCs are more accurate than tests with lower AUCs.",
+    "zh": "筛查或诊断测试的准确性（定义为真阳性数加上真阴性数除以所有观察值的总数）通常通过ROC曲线下面积 (AUC) 来量化。ROC（受试者工作特征）曲线是通过绘制敏感度（真阳性率）与1 – 特异度（假阳性率）的关系，针对各种临界值阈值（即，确定给定测试结果为阳性或阴性的值）创建的。高度准确的测试具有高敏感度（高真阳性率）和高特异度（低假阳性率）。测试越准确（即，敏感度和特异度越高），AUC值就越接近1.0。因此，具有较高AUC的测试比具有较低AUC的测试更准确。\n\n在这项研究中，未提供测试（即，生物标志物）的ROC曲线；然而，可以根据其AUC值对每个生物标志物的准确性得出结论。生物标志物3的AUC最大 (0.879)，而生物标志物1 (0.603)、生物标志物2 (0.758)、生物标志物4 (0.763) 和生物标志物5 (0.756) 的AUC较小。因此，生物标志物3是5个Barrett食管筛查测试中最准确的测试。\n\n（选项 A、B、D 和 E） 生物标志物3 (0.879) 比生物标志物4 (0.763) 更准确；生物标志物4比生物标志物2 (0.758) 更准确；生物标志物2比生物标志物5 (0.756) 更准确；生物标志物5比生物标志物1 (0.603) 更准确。\n\n教育目标：\n筛查或诊断测试的准确性通过ROC曲线下面积 (AUC) 来量化。测试越准确（即，敏感度和特异度越高），AUC值就越接近1.0。具有较高AUC的测试比具有较低AUC的测试更准确。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of diagnostic test accuracy, specifically how the area under the ROC curve (AUC) relates to the overall accuracy of a screening or diagnostic test. A higher AUC indicates a more accurate test, reflecting a better balance between sensitivity and specificity.\n\nTo solve this question, identify the biomarker with the highest AUC value. The biomarker with the highest AUC is the most accurate test among the options provided. In this case, biomarker 3 has the highest AUC (0.879), making it the most accurate.",
+    "zh": "此问题测试对诊断测试准确性的理解，特别是ROC曲线下面积 (AUC) 与筛查或诊断测试的整体准确性之间的关系。较高的AUC表示测试更准确，反映了敏感度和特异度之间更好的平衡。\n\n要解决此问题，请确定具有最高AUC值的生物标志物。具有最高AUC的生物标志物是所提供选项中最准确的测试。在这种情况下，生物标志物3的AUC最高 (0.879)，使其成为最准确的。"
+  },
+  "tags": "Diagnostic test accuracy; Area under the ROC curve (AUC); Sensitivity; Specificity; Barrett esophagus; Esophageal adenocarcinoma; Biomarkers; Screening tests; Receiver operating characteristic (ROC)",
+  "category": "Bio",
+  "question_id": "19723",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\19723",
+  "extracted_at": "2025-11-05T11:14:22.840495",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:23:17.589908",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

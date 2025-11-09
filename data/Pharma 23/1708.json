@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A group of investigators examined the effects of different muscarinic agonists and antagonists on the bladder musculature. The curves presented below were constructed after application of different agents. Curve A represents the effect of bethanechol, a pure cholinergic agonist. {{exhibit_1}} Which of the curves most likely represents the effect of bethanechol after application of a reversible competitive antagonist?",
+    "zh": "一组研究人员检查了不同毒蕈碱激动剂和拮抗剂对膀胱肌肉的影响。 下面呈现的曲线是在应用不同药物后构建的。 曲线 A 代表比胆碱（一种纯胆碱能激动剂）的作用。 {{exhibit_1}} 哪条曲线最有可能代表在应用可逆竞争性拮抗剂后比胆碱的作用？"
+  },
+  "question": {
+    "en": "Which of the curves most likely represents the effect of bethanechol after application of a reversible competitive antagonist?",
+    "zh": "哪条曲线最有可能代表在应用可逆竞争性拮抗剂后比胆碱的作用？"
+  },
+  "options": {
+    "A": {
+      "en": "Curve A",
+      "zh": "曲线 A"
+    },
+    "B": {
+      "en": "Curve B",
+      "zh": "曲线 B"
+    },
+    "C": {
+      "en": "Curve C",
+      "zh": "曲线 C"
+    },
+    "D": {
+      "en": "Curve D",
+      "zh": "曲线 D"
+    },
+    "E": {
+      "en": "Curve E",
+      "zh": "曲线 E"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "A reversible competitive antagonist binds to the same receptor site as the agonist but does not activate it. This binding is reversible, meaning the antagonist can dissociate from the receptor, allowing the agonist to bind. In the presence of a competitive antagonist, higher concentrations of the agonist are required to achieve the same level of biological effect. This results in a rightward shift of the dose-response curve, meaning the EC50 (the concentration of agonist that produces 50% of the maximal effect) increases. However, the maximal effect (Emax) achievable by the agonist remains unchanged, as the antagonist can be overcome by sufficient agonist concentrations. Curve E shows a rightward shift of the dose-response curve compared to Curve A, with no significant change in the maximal biological effect. This is characteristic of a reversible competitive antagonist. Curves B and C show a decrease in the maximal effect, which is indicative of a noncompetitive antagonist. Curve D shows a different shape of the curve, suggesting a more complex interaction or a different type of antagonist.",
+    "zh": "可逆竞争性拮抗剂与激动剂结合到相同的受体位点，但不激活它。 这种结合是可逆的，这意味着拮抗剂可以从受体上解离，从而允许激动剂结合。 在存在竞争性拮抗剂的情况下，需要更高浓度的激动剂才能达到相同的生物学效应水平。 这导致剂量反应曲线向右移位，这意味着 EC50（产生最大效应 50% 的激动剂浓度）增加。 然而，激动剂可实现的最大效应 (Emax) 保持不变，因为拮抗剂可以通过足够的激动剂浓度来克服。 曲线 E 显示剂量反应曲线相对于曲线 A 向右移位，而最大生物学效应没有显着变化。 这是可逆竞争性拮抗剂的特征。 曲线 B 和 C 显示最大效应降低，这表明非竞争性拮抗剂。 曲线 D 显示曲线形状不同，表明更复杂的相互作用或不同类型的拮抗剂。"
+  },
+  "summary": {
+    "en": "The question asks to identify the dose-response curve representing the effect of a reversible competitive antagonist on bethanechol's action. A reversible competitive antagonist shifts the agonist's dose-response curve to the right (increasing EC50) without altering the maximal effect (Emax). Curve E exhibits this characteristic rightward shift while maintaining the maximal effect, making it the correct representation.",
+    "zh": "该问题要求确定代表可逆竞争性拮抗剂对比胆碱作用影响的剂量反应曲线。 可逆竞争性拮抗剂将激动剂的剂量反应曲线向右移动（增加 EC50），而不会改变最大效应 (Emax)。 曲线 E 表现出这种特征性的右移，同时保持最大效应，使其成为正确的表示。"
+  },
+  "tags": [
+    "pharmacology",
+    "drug-receptor interactions",
+    "competitive antagonism",
+    "dose-response curves"
+  ],
+  "category": "Pharma",
+  "question_id": "1708",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\1708",
+  "extracted_at": "2025-11-05T19:44:59.401907",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:46:54.351754",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

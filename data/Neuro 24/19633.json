@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 60-year-old man comes to the office for a follow-up appointment. The patient underwent coronary catheterization 2 weeks ago due to anginal symptoms and had stenting of the left circumflex artery. He has had no chest pain but reports a dark spot in the upper part of his vision since the procedure. The spot disappears when the patient covers the right eye. Medical history also includes hypertension and type 2 diabetes mellitus. On physical examination, visual acuity is normal bilaterally. Computerized visual field testing shows the following finding (dark area representing region of vision loss): {{exhibit_1}}",
+    "zh": "一名60岁男性前来复诊。患者2周前因心绞痛症状接受了冠状动脉导管插入术，并进行了左旋支动脉支架置入术。他没有胸痛，但报告称自该手术以来，视力上方出现了一个黑点。当患者遮住右眼时，黑点会消失。病史还包括高血压和2型糖尿病。体格检查显示，双眼视力正常。计算机视野检查显示以下结果（黑区代表视野缺失区域）：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Occlusion of an artery supplying which of the following structures is the most likely cause of this patient's symptoms?",
+    "zh": "为以下哪种结构供血的动脉闭塞最可能是导致该患者症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Left occipital lobe",
+      "zh": "左枕叶"
+    },
+    "B": {
+      "en": "Left parietal lobe",
+      "zh": "左顶叶"
+    },
+    "C": {
+      "en": "Left temporal lobe",
+      "zh": "左颞叶"
+    },
+    "D": {
+      "en": "Lower right retina",
+      "zh": "右下视网膜"
+    },
+    "E": {
+      "en": "Right lateral geniculate nucleus",
+      "zh": "右侧膝状体"
+    },
+    "F": {
+      "en": "Upper right retina",
+      "zh": "右上视网膜"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The patient presents with a new-onset dark spot in the upper part of his vision in the right eye, which is described as a visual field defect. The computerized visual field testing {{exhibit_2}} shows a defect in the right visual field. The fact that the spot disappears when the patient covers the right eye indicates it is a monocular visual field defect, meaning the lesion is anterior to the optic chiasm. The image shows a defect in the superior portion of the right visual field. Because the image projected onto the retina is inverted and reversed, a defect in the superior visual field corresponds to a lesion in the INFERIOR retina. Therefore, the patient's symptoms are most likely due to occlusion of an artery supplying the lower right retina. This could be a complication of his recent coronary catheterization procedure, potentially leading to an embolus lodging in a retinal artery.\n\n(Choice A) A lesion in the left occipital lobe would impact the primary visual cortex. Because of the crossing fibers in the optic chiasm, the left occipital cortex receives information from the right visual fields of both eyes. A lesion in this area would result in homonymous hemianopia (classically with macular sparing due to collaterals from the middle cerebral artery), affecting both eyes, not just one.\n\n(Choices B and C) After synapsing in the lateral geniculate nucleus (LGN), the optic radiations fan out and project to the occipital lobe. The inferior optic radiations, which carry information from the inferior retina/superior visual field, travel through the temporal lobe white matter. Lesions in this area would lead to superior quadrant visual field defects (ie, contralateral homonymous superior quadrantanopia), affecting both eyes.\n\n(Choice E) After the axons of the retinal ganglion cells travel through the optic chiasm, they synapse in the lateral geniculate nucleus of the thalamus. Therefore, a lesion in the right LGN would lead to left-sided visual loss (eg, left homonymous hemianopia), affecting both eyes.\n\n(Choice F) Because the image projected on the retina is inverted and reversed, a lesion of the upper right retina would lead to a lower left visual field defect. The patient has a defect in the upper right visual field.\n\nEducational objective: Visual loss in only one eye indicates that the lesion is anterior to the optic chiasm. Images projected onto the retina are inverted and reversed. {{exhibit_3}}",
+    "zh": "患者表现为右眼视力上方新发黑点，这被描述为视野缺损。计算机视野检查{{exhibit_2}}显示右侧视野缺损。当患者遮住右眼时，黑点会消失，这表明是单眼视野缺损，这意味着病灶位于视交叉前。图像显示右侧视野的上部出现缺损。由于投射到视网膜上的图像是上下颠倒和左右翻转的，因此，上部视野的缺损对应于下视网膜的病变。因此，患者的症状最可能是由于为右下视网膜供血的动脉闭塞所致。这可能是他最近接受的冠状动脉导管插入术的并发症，可能导致栓子滞留在视网膜动脉中。\n\n（选项A）左枕叶的病变会影响主要的视觉皮层。由于视交叉中的纤维交叉，左枕叶皮层接收来自双眼右侧视野的信息。该区域的病变会导致同侧偏盲（经典伴有黄斑保留，由于来自大脑中动脉的侧支循环），影响双眼，而不仅仅是一只眼。\n\n（选项B和C）在侧膝状体（LGN）突触后，视放射扇出并投射到枕叶。携带来自下视网膜/上视野信息的下视放射穿过颞叶白质。该区域的病变将导致上象限视野缺损（即，对侧同侧上位象限盲），影响双眼。\n\n（选项E）视网膜神经节细胞的轴突穿过视交叉后，它们在丘脑的侧膝状体处发生突触。因此，右侧LGN的病变将导致左侧视觉丧失（例如，左侧同侧偏盲），影响双眼。\n\n（选项F）由于投射在视网膜上的图像是上下颠倒和左右翻转的，因此，右上视网膜的病变将导致左下视野缺损。患者的右上方视野有缺损。\n\n教学目标：仅一只眼的视力丧失表明病灶位于视交叉的前方。投射到视网膜上的图像是上下颠倒和左右翻转的。{{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the visual pathway and how lesions at different points along the pathway result in specific visual field defects. It requires correlating the location of a lesion with the resulting visual field deficit, considering the inversion and reversal of images on the retina.\n\nTo solve this question, first identify that the visual field defect is monocular, indicating a lesion anterior to the optic chiasm. Then, analyze the location of the visual field defect (superior right visual field) and relate it to the corresponding retinal location (inferior retina), considering the inverted and reversed nature of retinal images.",
+    "zh": "此问题测试对视觉通路以及通路中不同点位的病变如何导致特定视野缺损的理解。它需要将病变的位置与由此产生的视野缺陷相关联，同时考虑视网膜上图像的颠倒和翻转。\n\n要解决这个问题，首先要确定视野缺损是单眼的，这表明病变位于视交叉的前方。然后，分析视野缺损的位置（右上视野），并将其与相应的视网膜位置（下视网膜）联系起来，同时考虑视网膜图像的颠倒和翻转性质。"
+  },
+  "tags": "Visual pathway; Retinal artery occlusion; Visual field defect; Monocular vision loss; Ophthalmology; Neurology; Coronary catheterization complications",
+  "category": "Neuro",
+  "question_id": "19633",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\19633",
+  "extracted_at": "2025-11-05T19:38:35.047558",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:37:40.283577",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

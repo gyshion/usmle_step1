@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A 17-year-old girl is brought to the clinic due to irregular menses. Menarche was at age 12 and her cycles since then have been irregular, often with multiple months between menstrual periods. The patient also has had an increase in hair growth along her chest and face. Temperature is 37.3 C (99.1 F), blood pressure is 110/70 mm Hg, and pulse is 80/min. There are dark, terminal hairs above the patient's upper lip and nodulocystic acne across her forehead. Cardiopulmonary examination is normal. Sexual maturity rating (Tanner stage) is 5. Ultrasound examination of the pelvis reveals a normal uterus and ovaries. Electrolytes are normal; other laboratory results are as follows:\n\nTestosterone, serum 400 ng/dL (normal: 25-75 ng/dL)\n17-hydroxyprogesterone 350 ng/dL (normal: <200 ng/dL)",
+    "zh": "一名17岁女孩因月经不规律前来就诊。初潮发生在12岁，此后月经周期一直不规律，月经间期经常为数月。患者胸部和面部的毛发生长也有所增加。体温37.3°C（99.1°F），血压110/70 mmHg，脉搏80次/分钟。患者上唇上方有黑色终毛，额头上也有结节囊肿性痤疮。心肺检查正常。性成熟度（Tanner分期）为5期。盆腔超声检查显示子宫和卵巢正常。电解质正常；其他实验室检查结果如下：\n\n血清睾酮400 ng/dL（正常：25-75 ng/dL）\n17-羟孕酮350 ng/dL（正常：<200 ng/dL）"
+  },
+  "question": {
+    "en": "Which of the following enzyme reaction steps is most likely to be disrupted in this patient?",
+    "zh": "该患者最有可能中断以下哪种酶促反应步骤？"
+  },
+  "options": {
+    "A": {
+      "en": "11-deoxycorticosterone conversion to corticosterone",
+      "zh": "11-脱氧皮质酮转化为皮质酮"
+    },
+    "B": {
+      "en": "11-deoxycortisol conversion to cortisol",
+      "zh": "11-脱氧皮质醇转化为皮质醇"
+    },
+    "C": {
+      "en": "Pregnenolone conversion to 17-hydroxypregnenolone",
+      "zh": "孕烯醇酮转化为17-羟孕烯醇酮"
+    },
+    "D": {
+      "en": "Progesterone conversion to 11-deoxycorticosterone",
+      "zh": "孕酮转化为11-脱氧皮质酮"
+    },
+    "E": {
+      "en": "Testosterone conversion to estradiol",
+      "zh": "睾酮转化为雌二醇"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's laboratory findings are consistent with 21-HYDROXYLASE deficiency {{exhibit_1}}, the most common cause of congenital adrenal hyperplasia (CAH). The 21-hycroxylase enzyme is responsible for conversion of progesterone to 11-deoxycorticosterone and 17-hydroxyprogesterone (17-OHP) to 11-deoxycortisol. Enzyme deficiency causes the buildup of 17-OHP, which is then shunted toward androgen production.\n\nDeficiency of 21-hydroxylase can result in varying clinical phenotypes depending on the amount of residual enzyme available. This patient's presentation in adolescence with menstrual irregularities and signs of androgen excess (ie, hirsutism, nodulocystic acne) is consistent with the mildest form, nonclassic (late-onset) CAH. Other common findings of nonclassic CAH include premature pubarche (ie, early appearance of pubic/axillary hair) and accelerated growth and bone age in school-aged children. Because 21-hydroxylase is not completely absent in nonclassic CAH, sufficient mineralocorticoids are produced to avoid the salt wasting (ie, hypotension, hyperkalemia) seen in neonates with severe classic CAH.\n\nLaboratory studies in all forms of 21-hydroxylase deficiency reveal elevated 17-OHP and testosterone levels.\n\n(Choices A and B) Patients with 11 beta-hydroxylase deficiency have impaired conversion of 11-deoxycorticosterone to corticosterone and 11-deoxycortisol to cortisol. In addition to hyperandrogenism, patients have hypertension and hypokalemia (not seen here) due to increased 11-deoxycorticosterone (a weak mineralocorticoid).\n\n(Choice C) Conversion of pregnenolone to 17-hydroxypregnenolone is impaired with *7 alpha-hydroxylase deficiency. Patients have hypertension and hypokalemia due to increased mineralocorticoid synthesis and amenorrhea and absent secondary sexual characteristics due to absent sex hormone production. In addition, 17-OHP and testosterone are decreased with this disorder.\n\n(Choice E) Aromatase converts testosterone to estradiol. Due to lack of estrogens, aromatase deficiency results in primary amenorrhea, absent breast development, and virilized genitalia (eg, clitoromegaly) in girls.\n\nEducational objective:\nNonclassic congenital adrenal hyperplasia is due to mild deficiency of 21-hydroxylase, an enzyme that converts progesterone to 11-deoxycorticosterone and 17-hydroxyprogesterone to 11-deoxycortisol. In adolescent girls, it presents with signs of hyperandrogenism (eg, hirsutism, acne, menstrual irregularities) as well as increased 17-hydroxyprogesterone and testosterone levels. {{exhibit_2}} {{exhibit_3}} {{exhibit_4}}",
+    "zh": "该患者的实验室检查结果与21-羟化酶缺乏症 {{exhibit_1}} 一致，21-羟化酶缺乏症是先天性肾上腺皮质增生症 (CAH) 最常见的原因。21-羟化酶负责将孕酮转化为11-脱氧皮质酮，将17-羟孕酮 (17-OHP) 转化为11-脱氧皮质醇。酶缺乏会导致17-OHP的堆积，然后被分流到雄激素的产生。\n\n21-羟化酶缺乏症可导致不同的临床表型，这取决于残留酶的量。该患者在青春期出现月经不规律和雄激素过多的体征（即多毛症、结节囊肿性痤疮）与最轻形式的非典型（迟发型）CAH一致。非典型CAH的其他常见发现包括性早熟（即阴毛/腋毛提前出现）和学龄儿童的生长加速和骨龄加速。由于21-羟化酶在非典型CAH中并未完全缺失，因此会产生足够的盐皮质激素，以避免在患有严重典型CAH的新生儿中出现的失盐（即低血压、高钾血症）。\n\n所有形式的21-羟化酶缺乏症的实验室研究均显示17-OHP和睾酮水平升高。\n\n（选项A和B）患有11β-羟化酶缺乏症的患者，11-脱氧皮质酮向皮质酮的转化以及11-脱氧皮质醇向皮质醇的转化会受损。除了高雄激素血症外，患者还会因11-脱氧皮质酮（一种弱盐皮质激素）升高而出现高血压和低钾血症（此处未见）。\n\n（选项C）孕烯醇酮向17-羟孕烯醇酮的转化在7α-羟化酶缺乏症中受损。患者因盐皮质激素合成增加而出现高血压和低钾血症，并因性激素产生缺失而出现闭经和缺乏第二性征。此外，在这种疾病中，17-OHP和睾酮会降低。\n\n（选项E）芳香化酶将睾酮转化为雌二醇。由于缺乏雌激素，芳香化酶缺乏会导致女孩原发性闭经、乳房发育不全和生殖器男性化（如阴蒂肥大）。\n\n教育目标：\n非典型先天性肾上腺皮质增生症是由于21-羟化酶轻度缺乏所致，该酶将孕酮转化为11-脱氧皮质酮，将17-羟孕酮转化为11-脱氧皮质醇。在青春期女孩中，它表现为高雄激素血症的体征（如多毛症、痤疮、月经不规律）以及17-羟孕酮和睾酮水平升高。{{exhibit_2}} {{exhibit_3}} {{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of nonclassic congenital adrenal hyperplasia (NCAH) due to 21-hydroxylase deficiency, its presentation in adolescent girls, and the associated laboratory findings of elevated 17-hydroxyprogesterone and testosterone. It also tests understanding of the specific enzyme deficiency involved in the conversion of progesterone to 11-deoxycorticosterone.\n\nTo solve this question, recognize the clinical presentation of hirsutism, acne, and menstrual irregularities in an adolescent girl, along with elevated 17-hydroxyprogesterone and testosterone levels, as suggestive of NCAH due to 21-hydroxylase deficiency. Then, identify the specific enzyme reaction disrupted in this condition, which is the conversion of progesterone to 11-deoxycorticosterone.",
+    "zh": "此题考察对由于21-羟化酶缺乏引起的非典型先天性肾上腺皮质增生症 (NCAH) 的认识，其在青春期女孩中的表现，以及相关的实验室检查结果（17-羟孕酮和睾酮升高）。它还考察了对孕酮转化为11-脱氧皮质酮过程中涉及的特定酶缺乏的理解。\n\n要解决这个问题，需要认识到青春期女孩出现多毛症、痤疮和月经不规律的临床表现，以及17-羟孕酮和睾酮水平升高，提示可能由于21-羟化酶缺乏引起的NCAH。然后，确定在这种情况下被破坏的特定酶促反应，即孕酮转化为11-脱氧皮质酮。"
+  },
+  "tags": "Congenital adrenal hyperplasia; 21-hydroxylase deficiency; Hirsutism; Menstrual irregularities; 17-hydroxyprogesterone; Testosterone; Endocrinology; Adolescent medicine; Steroidogenesis",
+  "category": "Endo",
+  "question_id": "19975",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\19975",
+  "extracted_at": "2025-11-05T14:06:00.731356",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:40:19.465605",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

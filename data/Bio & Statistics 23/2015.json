@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A pharmaceutical researcher performs preclinical testing on a novel chemotherapeutic drug. When rat embryos are exposed to this drug during an early stage of organogenesis, they develop severe skeletal malformations. Further genetic analysis reveals that the drug causes mutations in numerous homeobox genes containing highly conserved 180 base pair DNA sequences. The genes affected by this drug most likely code for which of the following proteins? {{exhibit_1}}",
+    "zh": "一位药物研究员对一种新型化疗药物进行临床前测试。当大鼠胚胎在器官发生早期暴露于该药物时，它们会出现严重的骨骼畸形。进一步的基因分析显示，该药物会导致多个同源异型基因发生突变，这些基因包含高度保守的180个碱基对DNA序列。这种药物影响的基因最有可能编码以下哪种蛋白质？{{exhibit_1}}"
+  },
+  "question": {
+    "en": "The genes affected by this drug most likely code for which of the following proteins?",
+    "zh": "这种药物影响的基因最有可能编码以下哪种蛋白质？"
+  },
+  "options": {
+    "A": {
+      "en": "Cell surface receptors",
+      "zh": "细胞表面受体"
+    },
+    "B": {
+      "en": "Cytoplasmic enzymes",
+      "zh": "细胞质酶"
+    },
+    "C": {
+      "en": "DNA replication enzymes",
+      "zh": "DNA复制酶"
+    },
+    "D": {
+      "en": "Structural proteins",
+      "zh": "结构蛋白"
+    },
+    "E": {
+      "en": "Transcription regulators",
+      "zh": "转录调节因子"
+    },
+    "F": {
+      "en": "Transport proteins",
+      "zh": "转运蛋白"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "A homeobox is a highly conserved DNA sequence that is usually about 180 nucleotides in length. A gene containing a homeobox sequence is called a homeobox or hox gene. These genes typically code for transcription factors that bind to regulatory regions on DNA, altering the expression of genes involved in the segmental organization of the embryo. Proper morphogenesis ensures that tissues, organs, and structural elements of the body are formed in the correct position along the cranio-caudal axis. Homeobox gene mutations interrupt this developmental process, often resulting in severe abnormalities such as skeletal malformations and improperly positioned limbs and appendages.\n\n(Choices A, B, C, and F) Homeobox genes do not typically encode cell surface receptors, cytoplasmic enzymes, DNA replication enzymes, structural proteins, or transport proteins.\n\nEducational objective:\nHomeobox genes encode DNA-binding transcription factors that play an important role in the segmental organization of the embryo along the cranio-caudal axis.",
+    "zh": "同源异型框是一个高度保守的DNA序列，通常长度约为180个核苷酸。包含同源异型框序列的基因称为同源异型基因或hox基因。这些基因通常编码转录因子，转录因子与DNA上的调控区域结合，从而改变参与胚胎节段组织基因的表达。适当的形态发生确保了身体的组织、器官和结构元件沿头尾轴以正确的位置形成。同源异型基因突变会中断这一发育过程，通常导致严重的异常，如骨骼畸形和肢体和附属物的定位不正确。\n\n（选项A、B、C和F）同源异型基因通常不编码细胞表面受体、细胞质酶、DNA复制酶、结构蛋白或转运蛋白。\n\n教育目标：\n同源异型基因编码DNA结合转录因子，在胚胎沿头尾轴的节段组织中起重要作用。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of homeobox genes and their function in embryonic development. Specifically, it assesses the understanding that homeobox genes encode transcription factors involved in segmental organization and morphogenesis.\n\nTo solve this question, recall that homeobox genes are crucial for embryonic development and encode transcription factors that regulate the expression of other genes involved in the formation of body structures along the cranio-caudal axis. Mutations in these genes can lead to severe developmental abnormalities.",
+    "zh": "这个问题测试了对同源异型基因及其在胚胎发育中的功能的了解。具体来说，它评估了对同源异型基因编码转录因子（参与节段组织和形态发生）的理解。\n\n为了解决这个问题，请记住同源异型基因对胚胎发育至关重要，并编码调节参与沿头尾轴形成身体结构的其他基因的表达的转录因子。这些基因的突变可导致严重的发育异常。"
+  },
+  "tags": "Homeobox genes; Transcription factors; Embryonic development; Organogenesis; Skeletal malformations",
+  "category": "Bio",
+  "question_id": "2015",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\2015",
+  "extracted_at": "2025-11-05T11:14:54.512391",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:23:39.613187",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

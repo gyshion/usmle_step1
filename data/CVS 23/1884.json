@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 52-year-old man is being evaluated for nonspecific, chronic abdominal pain. As part of the workup, he undergoes an abdominal CT scan with intravenous contrast, which reveals no significant findings. An axial image from the scan is shown below {{exhibit_1}}.",
+    "zh": "一名52岁男性因非特异性慢性腹痛就诊。作为检查的一部分，他接受了腹部CT扫描，并静脉注射了造影剂，结果未发现明显异常。扫描的轴位图像如下所示 {{exhibit_1}}。"
+  },
+  "question": {
+    "en": "Which of the following statements best describes the structure indicated by the arrow?",
+    "zh": "以下哪项陈述最好地描述了箭头所指的结构？"
+  },
+  "options": {
+    "A": {
+      "en": "It drains into the left subclavian vein in the thorax.",
+      "zh": "它排入胸腔内的左锁骨下静脉。"
+    },
+    "B": {
+      "en": "It drains through the cystic duct into the common bile duct.",
+      "zh": "它通过胆囊管排入胆总管。"
+    },
+    "C": {
+      "en": "It gives rise to the right and left renal arteries.",
+      "zh": "它发出右肾动脉和左肾动脉。"
+    },
+    "D": {
+      "en": "It is formed by the union of the common iliac veins.",
+      "zh": "它由髂总静脉汇合而成。"
+    },
+    "E": {
+      "en": "It joins the splenic vein to form the portal vein.",
+      "zh": "它与脾静脉汇合形成门静脉。"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This axial CT image reveals the abdomen near the L1 vertebral level. At this level, the INFERIOR VENA CAVA (IVC) lies just anterior to the right renal artery and to the right of the aorta. The IVC is formed by the union of the right and left common iliac veins at the level of L4-L5 and drains into the right atrium just above the level of the diaphragm at T8. The IVC returns venous blood to the right atrium from the lower extremities, portal system, and abdominal and pelvic viscera.\n\n(Choice A) The thoracic duct drains lymph from the entire left side of the body and all regions inferior to the umbilicus (including the entire gastrointestinal tract). It enters the thorax through the aortic hiatus and empties into the left subclavian vein near its junction with the internal jugular vein.\n\n(Choice B) The cystic duct drains bile from the gallbladder into the common bile duct. The gallbladder is typically visualized just below the liver in the anterior right abdomen but is not well seen in this image.\n\n(Choice C) The image reveals the abdominal aorta giving rise to the right and left renal arteries at the L1 vertebral level. The abdominal aorta lies posteromedial to the IVC within the abdomen.\n\n(Choice E) The superior mesenteric vein joins the splenic vein to form the portal vein. The portal vein can be seen vaguely near the head of the pancreas in this cross-sectional image. {{exhibit_2}}",
+    "zh": "该轴位CT图像显示腹部位于L1椎体水平附近。在该水平，下腔静脉 (IVC) 位于右肾动脉的前方，主动脉的右侧。下腔静脉由右髂总静脉和左髂总静脉在L4-L5水平汇合而成，并排入右心房，刚好位于T8水平的膈肌上方。下腔静脉将来自下肢、门静脉系统以及腹部和盆腔脏器的静脉血回流到右心房。\n\n(选项A) 胸导管引流来自身体整个左侧和脐以下所有区域（包括整个胃肠道）的淋巴液。它通过主动脉裂孔进入胸腔，并排入左锁骨下静脉，靠近其与颈内静脉的交界处。\n\n(选项B) 胆囊管引流来自胆囊的胆汁到胆总管。胆囊通常位于肝脏下方，位于右腹前部，但在此图像中不易看到。\n\n(选项C) 图像显示腹主动脉在L1椎体水平发出右肾动脉和左肾动脉。腹主动脉位于腹部下腔静脉的后内侧。\n\n(选项E) 肠系膜上静脉与脾静脉汇合形成门静脉。门静脉在此横截面图像中隐约可见于胰头附近。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of abdominal anatomy, specifically the location and formation of the inferior vena cava (IVC). It requires interpreting a CT scan and understanding the relationship of the IVC to other abdominal structures.\n\nTo solve this question, identify the structure indicated by the arrow on the CT scan. Recall the anatomical location of the IVC and its formation from the common iliac veins at the L4-L5 vertebral level.",
+    "zh": "此题考查腹部解剖学的知识，特别是下腔静脉（IVC）的位置和形成。它需要解读CT扫描，并理解IVC与其他腹部结构的关系。\n\n要解决这个问题，请确定CT扫描中箭头所指的结构。回想IVC的解剖位置及其在L4-L5椎体水平由髂总静脉形成的过程。"
+  },
+  "tags": "Inferior vena cava; Abdominal anatomy; CT scan; Common iliac veins; Renal arteries; Portal vein; Cardiovascular system; Radiology",
+  "category": "CVS",
+  "question_id": "1884",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\1884",
+  "extracted_at": "2025-11-05T12:04:31.131113",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:53:41.103960",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

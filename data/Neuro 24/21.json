@@ -1,0 +1,85 @@
+{
+  "question_stem": {
+    "en": "A 66-year-old, right-handed man is brought to the emergency department due to left-sided numbness and weakness. The patient woke with left-hand clumsiness that rapidly progressed to profound left-sided weakness, affecting the left arm more than the left leg. He has a history of hypertension and has smoked a pack of cigarettes daily for the past 40 years. Blood pressure is 175/90 mm Hg and pulse is 82/min and regular. Neurologic examination reveals impaired touch discrimination in the left arm with left facial weakness sparing the forehead. 2/5 muscle strength in the left upper limb, and 4/5 muscle strength in the left lower limb. Right-sided strength and visual field examinations are normal. {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}",
+    "zh": "一名66岁、右利手的男性因左侧麻木和无力被送往急诊科。患者醒来时左手笨拙，迅速进展为严重的左侧无力，影响左臂多于左腿。他有高血压病史，并且在过去40年中每天吸一包香烟。血压为175/90 mmHg，脉搏为82次/分钟，规律。神经系统检查显示左臂触觉辨别受损，伴有左侧面部无力，额头不受影响。左上肢肌力为2/5，左下肢肌力为4/5。右侧力量和视野检查正常。{{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}"
+  },
+  "question": {
+    "en": "Which of the following labeled arteries is most likely occluded in this patient?",
+    "zh": "该患者最有可能发生阻塞的动脉是以下哪一项？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    },
+    "F": {
+      "en": "F",
+      "zh": "F"
+    },
+    "G": {
+      "en": "G",
+      "zh": "G"
+    },
+    "H": {
+      "en": "H",
+      "zh": "H"
+    },
+    "I": {
+      "en": "I",
+      "zh": "I"
+    },
+    "J": {
+      "en": "J",
+      "zh": "J"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The patient presents with symptoms suggestive of an acute ischemic stroke affecting the territory supplied by the right middle cerebral artery (MCA). The left-sided hemiparesis (more pronounced in the arm than the leg), left facial weakness sparing the forehead, and impaired touch discrimination are classic findings of MCA involvement. The relative sparing of the lower limb suggests that the primary motor and sensory cortices for the leg, which are supplied by the anterior cerebral artery (ACA), are less affected. The diagram shows that artery B supplies the left hemisphere, and its distribution appears to cover the areas responsible for arm and face function. {{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}\n\n(Choices A and G) Occlusion of the anterior cerebral artery (ACA) typically causes contralateral motor and sensory deficits, with the lower limb being affected more than the upper limb. This is contrary to the patient's presentation.\n\n(Choices C and F) Saccular aneurysms affecting the anterior and posterior communicating arteries in the circle of Willis can cause various deficits depending on the location and size, but typically not the specific pattern of hemiparesis and hemisensory loss seen here. Anterior communicating artery aneurysms can compress the optic chiasm, causing bitemporal hemianopia. Posterior communicating artery aneurysms can compress the oculomotor nerve, causing ipsilateral mydriasis, ptosis, and \"down and out\" eye deviation.\n\n(Choices D and I) Posterior cerebral artery (PCA) territory infarction typically results in contralateral hemianopia due to infarction of the visual cortex. The macula is often spared due to collateral circulation from the MCA. This patient has normal visual fields.\n\n(Choice E) Basilar artery occlusion usually damages the pons, which contains the corticospinal and corticobulbar tracts, and the paramedian tegmentum. Consequently, patients typically have quadriplegia, bulbar dysfunction (eg, facial weakness, dysarthria), and oculomotor deficits (eg, horizontal gaze palsy).\n\n(Choice J) Occlusion of the anterior inferior cerebellar artery causes lateral pontine syndrome. Patients with this condition typically have ipsilateral loss of pain or temperature in the face (trigeminal nucleus), ipsilateral facial weakness (facial nucleus), ipsilateral hearing impairment (cochlear nucleus), contralateral loss of pain and temperature in the trunk and extremities (spinothalamic tract), and cerebellar dysfunction (eg, ataxia, dysmetria).\n\nKey clinical pearls:\n- MCA stroke: Contralateral hemiparesis (arm > leg), hemisensory loss, aphasia (if dominant hemisphere), neglect (if non-dominant hemisphere), conjugate gaze deviation towards the infarct.\n- ACA stroke: Contralateral leg > arm weakness, sensory loss, behavioral changes, urinary incontinence.\n- PCA stroke: Visual field deficits (hemianopia), visual hallucinations, cortical blindness, memory deficits.",
+    "zh": "患者出现的症状提示为影响右侧大脑中动脉(MCA)供血区域的急性缺血性卒中。左侧偏瘫（手臂比腿更明显）、额头不受影响的左侧面部无力以及触觉辨别受损是MCA受累的典型表现。下肢相对保留提示主要负责腿部的运动和感觉皮层，这些皮层由大脑前动脉(ACA)供血，受影响较小。该图显示动脉B供应左半球，其分布似乎覆盖了负责手臂和面部功能的区域。{{exhibit_1}} {{exhibit_2}} {{exhibit_3}} {{exhibit_4}} {{exhibit_5}} {{exhibit_6}}\n\n(选项 A 和 G) 大脑前动脉(ACA)阻塞通常会导致对侧运动和感觉障碍，下肢比上肢受影响更大。这与患者的临床表现相反。\n\n(选项 C 和 F) 影响Willis环的前交通动脉和后交通动脉的囊性动脉瘤可导致各种缺陷，具体取决于位置和大小，但通常不会出现此处可见的特定偏瘫和感觉缺失模式。前交通动脉动脉瘤可压迫视交叉，导致双颞侧偏盲。后交通动脉动脉瘤可压迫动眼神经，导致同侧瞳孔散大、上睑下垂和“向下向外”的眼球偏斜。\n\n(选项 D 和 I) 后脑动脉(PCA)供血区域梗死通常由于视觉皮层的梗死导致对侧偏盲。黄斑通常会因MCA的侧支循环而幸免于难。该患者视野正常。\n\n(选项 E) 基底动脉阻塞通常会损害脑桥，脑桥包含皮质脊髓束和皮质延髓束以及正中被盖。因此，患者通常会出现四肢瘫痪、延髓功能障碍（如面部无力、言语不清）和动眼神经功能障碍（如水平凝视麻痹）。\n\n(选项 J) 前下小脑动脉阻塞会导致外侧脑桥综合征。患有此病的患者通常会出现面部同侧疼痛或温度丧失（三叉神经核）、同侧面部无力（面神经核）、同侧听力障碍（耳蜗核）、躯干和四肢对侧疼痛和温度丧失（脊髓丘脑束）以及小脑功能障碍（如共济失调、运动失调）。\n\n关键临床要点：\n- MCA卒中：对侧偏瘫（手臂>腿）、感觉缺失、失语（如果优势半球）、忽略（如果非优势半球）、共轭凝视偏向梗死区。\n- ACA卒中：对侧腿>手臂无力、感觉缺失、行为改变、尿失禁。\n- PCA卒中：视野缺损（偏盲）、视觉幻觉、皮质盲、记忆障碍。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the neurovascular anatomy of the brain and the clinical presentation of stroke based on the affected arterial territory. Specifically, it assesses the ability to correlate focal neurological deficits with the specific cerebral artery occlusion.\n\nTo solve this question, one must first identify the pattern of neurological deficits presented in the case. Then, recall the vascular supply of the brain and the functions of the areas supplied by each major cerebral artery. Finally, match the observed deficits to the territory of the most likely occluded artery, considering the diagram provided.",
+    "zh": "此问题考察了对大脑神经血管解剖结构的理解以及基于受影响动脉区域的卒中临床表现。具体来说，它评估了将局灶性神经功能缺损与特定脑动脉闭塞相关联的能力。\n\n要解决这个问题，首先必须确定病例中出现的神经功能缺损模式。然后，回忆大脑的血管供应以及每条主要脑动脉所供应区域的功能。最后，将观察到的缺陷与最有可能阻塞的动脉的区域进行匹配，并考虑所提供的图表。"
+  },
+  "tags": "Middle cerebral artery occlusion; Ischemic stroke; Hemiparesis; Hemisensory loss; Facial weakness; Neurovascular anatomy; Cerebral arteries; Neurology; Stroke localization",
+  "category": "Neuro",
+  "question_id": "21",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\21",
+  "extracted_at": "2025-11-05T19:39:19.281312",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:39:15.956847",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

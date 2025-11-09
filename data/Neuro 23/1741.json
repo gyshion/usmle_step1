@@ -1,0 +1,67 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man begins treatment with combination chemotherapy for Hodgkin lymphoma. Shortly thereafter, he experiences severe vomiting and requires intravenous fluid supplementation. {{exhibit_1}} Which of the following sites in the brain, as indicated in {{exhibit_2}}, is most likely responsible for his symptoms?",
+    "zh": "一名34岁的男性开始接受联合化疗治疗霍奇金淋巴瘤。此后不久，他出现严重呕吐，需要静脉补液。{{exhibit_1}} {{exhibit_2}} 中所示，以下大脑中的哪个部位最有可能导致他的症状？"
+  },
+  "question": {
+    "en": "Which of the following sites in the brain is most likely responsible for his symptoms?",
+    "zh": "以下大脑中的哪个部位最有可能导致他的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "A",
+      "zh": "A"
+    },
+    "B": {
+      "en": "B",
+      "zh": "B"
+    },
+    "C": {
+      "en": "C",
+      "zh": "C"
+    },
+    "D": {
+      "en": "D",
+      "zh": "D"
+    },
+    "E": {
+      "en": "E",
+      "zh": "E"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient developed acute vomiting after treatment with systemic chemotherapy. The vomiting reflex is initiated by the chemoreceptor trigger zone (CTZ, or area postrema) and nucleus tractus solitarius. The area postrema is located on the dorsal surface of the medulla at the caudal end of the fourth ventricle; this region does not have a well-developed blood-brain barrier, allowing it to be exposed to chemicals circulating in the blood.\n\nTheCTZcanbetriggereddirectlybyemetogenicsubstances(eg,drugs,toxins)orindirectlybyvagalafferentsfromthegastrointestinaltract. Chemotherapeuticagents(eg,cyclophosphamide)cause damagetoenterocytes,resultinginreleaseofserotonin.Thisstimulates5-HT3receptorsonvagalafferentfiberslocatedinthebowelwall,whichthenascendtotheCTZtotriggerthevomitingreflex.Chemotherapy-associatedemeticstimuliinthecerebrospinalfluidandbloodstreamalsocanstimulatetheareapostremadirectlybycausinglocalreleaseofsubstanceP,whichactivatesneurokinin-1(NK1)receptorsinthebrainstemtoinducevomiting.Selective5-HT3receptorantagonists(eg,ondansetron)andNK1receptorantagonists(eg,aprepitant,fosaprepitant)canbeusedtoamelioreatechemotherapy-inducednauseaandvomitingbyreducingoverstimulationoftheCTZ.\n\n(ChoiceA)Thethalamusissuperiortothemidbrainandmakesuppartofthelateralwallofthethirdventricle.Itcoordinatessensoryandmotormotion,regulatessleepandwakefulness,andplaysanimportantroleinmemoryandcognition.\n\n(ChoiceB)Thesuperiorandinferiorcolliculiarelocatedinthedorsalmidbrain.Theyareinvolvedinprocessingvisual(superiorcolliculi)andauditory(inferiorcolliculus)informationandinitiatingmovementoftheheadandeyesinresponsetovisualorauditoryinput.\n\n(ChoiceC)Theventralponsisinferiortothemidbraininthebrainstemandcontainsthecorticospinaltract(eg,limb/torsomovement),corticobulbartract(eg.face/head/neckmovement),andabducensnucleus(eg,horizontaleyemovement).\n\n(ChoiceE)Thecerebellummakesuptheposteriorwallofthefourthventricleandplaysanimportantroleinmotormotion(eg,coordination,precisemotions,posture)andcognitivefunction(eg,attention,language).\n\nEducationalobjective:\nThevomitingreflexisinitiatedbythechemoreceptortriggerzone(ie.areapostrema)andnucleustractussolitariuswithinthedorsalmedullaatthecaudalendofthefourthventricle.Theareapostremadoesnothaveawell-developedbloodbrainbarrier,allowingittobeactivateddirectlybyemetogenicsubstances(eg,drugs,toxins)orindirectlybyascendingafferentsfromthebowelwall(eg,chemotherapy-inducedreleaseofserotonin).",
+    "zh": "该患者在接受全身化疗后出现急性呕吐。呕吐反射由化学感受器触发区 (CTZ，或称后区) 和孤束核启动。后区位于延髓背侧、第四脑室的尾端；该区域的血脑屏障发育不全，因此可暴露于血液中循环的化学物质。\n\nCTZ可直接被催吐物质（如药物、毒素）或通过来自胃肠道的迷走神经传入神经间接触发。化疗药物（如环磷酰胺）会导致肠细胞损伤，导致血清素释放。这会刺激位于肠壁内的迷走神经传入纤维上的 5-HT3 受体，然后上传至 CTZ 以触发呕吐反射。脑脊液和血流中与化疗相关的催吐刺激物也可以通过引起 P 物质的局部释放来直接刺激后区，P 物质可激活脑干中的神经激肽-1 (NK1) 受体以诱发呕吐。选择性 5-HT3 受体拮抗剂（如昂丹司琼）和 NK1 受体拮抗剂（如阿瑞吡坦、磷酸阿瑞吡坦）可用于通过减少 CTZ 的过度刺激来改善化疗引起的恶心和呕吐。\n\n(选项A) 丘脑位于中脑上方，构成第三脑室的侧壁的一部分。它协调感觉和运动，调节睡眠和觉醒，并在记忆和认知中起重要作用。\n\n(选项B) 上丘和下丘位于中脑背侧。它们参与处理视觉（上丘）和听觉（下丘）信息，并启动头部和眼睛对视觉或听觉输入的反应。\n\n(选项C) 脑桥腹侧位于脑干的中脑下方，包含皮质脊髓束（如肢体/躯干运动）、皮质脑干束（如面部/头部/颈部运动）和外展神经核（如水平眼球运动）。\n\n(选项E) 小脑构成第四脑室的后壁，并在运动（如协调、精确的运动、姿势）和认知功能（如注意力、语言）中起重要作用。\n\n教学目标：\n呕吐反射由延髓背侧第四脑室尾端的化学感受器触发区（即后区）和孤束核启动。后区没有发达的血脑屏障，允许其直接被催吐物质（如药物、毒素）激活或间接被来自肠壁的上传神经传入（如化疗诱导的血清素释放）激活。"
+  },
+  "summary": {
+    "en": "Vomiting after chemotherapy is likely due to the chemoreceptor trigger zone (area postrema) in the medulla, which lacks a strong blood-brain barrier and is sensitive to emetogenic substances. The correct answer is D, which corresponds to the area postrema.",
+    "zh": "化疗后呕吐可能由于延髓中的化学感受器触发区（后区）引起，该区域缺乏强大的血脑屏障，对催吐物质敏感。正确答案是 D，对应于后区。"
+  },
+  "tags": [
+    "Neurology",
+    "Chemotherapy",
+    "Vomiting",
+    "Area Postrema",
+    "Brainstem"
+  ],
+  "category": "Neuro",
+  "question_id": "1741",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\1741",
+  "extracted_at": "2025-11-05T15:24:12.665633",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T18:21:38.744434",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

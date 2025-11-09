@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 60-year-old man comes to the office for a follow-up appointment. The patient underwent coronary catheterization 2 weeks ago due to anginal symptoms and had stenting of the left circumflex artery. He has had no chest pain but reports a dark spot in the upper part of his vision since the procedure. The spot disappears when the patient covers the right eye. Medical history also includes hypertension and type 2 diabetes mellitus. On physical examination, visual acuity is normal bilaterally. Computerized visual field testing shows the following finding (dark area representing region of vision loss): {{exhibit_1}}",
+    "zh": "一名60岁男性前来复诊。患者2周前因心绞痛症状接受了冠状动脉导管插入术，并进行了左旋支动脉支架置入术。他没有胸痛，但报告称自该手术以来，视力上方出现了一个黑点。当患者遮住右眼时，黑点消失。病史还包括高血压和2型糖尿病。体格检查显示双眼视力正常。计算机视觉视野测试显示以下结果（黑点代表视野缺失区域）：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Occlusion of an artery supplying which of the following structures is the most likely cause of this patient's symptoms?",
+    "zh": "供应以下哪个结构的动脉闭塞最可能是导致患者症状的原因？"
+  },
+  "options": {
+    "A": {
+      "en": "Left occipital lobe",
+      "zh": "左枕叶"
+    },
+    "B": {
+      "en": "Left parietal lobe",
+      "zh": "左顶叶"
+    },
+    "C": {
+      "en": "Left temporal lobe",
+      "zh": "左颞叶"
+    },
+    "D": {
+      "en": "Lower right retina",
+      "zh": "右下视网膜"
+    },
+    "E": {
+      "en": "Right lateral geniculate nucleus",
+      "zh": "右侧膝状体"
+    },
+    "F": {
+      "en": "Upper right retina",
+      "zh": "右上视网膜"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "The patient presents with a new-onset dark spot in the upper part of his vision in the right eye, which is described as a visual field defect. The visual field testing {{exhibit_1}} shows a defect in the right eye's visual field. Specifically, the defect is in the superior (upper) portion of the visual field. The image shows a scotoma in the right visual field. The visual pathway from the retina to the occipital cortex is complex, with inversions and reversals. The image projected onto the retina is inverted and reversed. Therefore, the superior visual field corresponds to the inferior retina, and the inferior visual field corresponds to the superior retina. Similarly, the right visual field corresponds to the left side of the brain, and the left visual field corresponds to the right side of the brain. A lesion affecting the right eye's superior visual field defect implies a problem with the contralateral (left) visual cortex or optic radiations. However, the patient's symptoms are localized to a single eye and the defect is described as a 'dark spot' that disappears when the other eye is covered, suggesting a monocular visual deficit. This means the lesion must be anterior to the optic chiasm. The visual field defect is in the upper part of the right eye's vision. Because the image on the retina is inverted and reversed, the upper visual field corresponds to the lower retina. Therefore, a lesion affecting the lower right retina would cause a defect in the upper right visual field. The patient's history of recent coronary catheterization and stenting of the left circumflex artery places him at risk for embolic events. Occlusion of a branch of the retinal artery, such as the ciliary artery supplying the retina, is a plausible complication. (Choice A) A lesion in the left occipital lobe would cause a contralateral homonymous hemianopia (loss of the right visual field in both eyes), not a monocular defect. (Choices B and C) Lesions in the optic radiations or temporal/parietal lobes would also typically cause homonymous visual field defects, often quadrantanopias, affecting both eyes. (Choice E) A lesion in the right lateral geniculate nucleus (LGN) would cause a contralateral homonymous hemianopia. (Choice F) A lesion in the upper right retina would cause a defect in the lower right visual field, not the upper right visual field. Therefore, occlusion of an artery supplying the lower right retina is the most likely cause of the patient's symptoms. Educational objective: Visual loss in only one eye indicates that the lesion is anterior to the optic chiasm. Images projected onto the retina are inverted and reversed.",
+    "zh": "患者表现为右眼视力上方出现新发黑点，这被描述为视野缺损。视野测试{{exhibit_1}}显示右眼视野存在缺损。具体来说，缺损位于视野的上方（上部）。图像显示右视野出现暗点。从视网膜到枕叶皮层的视觉通路很复杂，存在倒置和反转。投射到视网膜上的图像是倒置和反转的。因此，上方视野对应于下方视网膜，下方视野对应于上方视网膜。同样，右视野对应于大脑的左侧，左视野对应于大脑的右侧。影响右眼上方视野缺损的病变意味着对侧（左侧）视觉皮层或视放射出现问题。然而，患者的症状仅限于一只眼睛，并且这种缺损被描述为“黑点”，当遮住另一只眼睛时就会消失，这表明单眼视觉缺陷。这意味着病变必须位于视交叉前。视野缺损位于右眼视力的上方。由于视网膜上的图像是倒置和反转的，因此上方视野对应于下方视网膜。因此，影响右下视网膜的病变会导致右上方视野出现缺损。患者近期冠状动脉导管插入术和左旋支动脉支架置入术的病史使其面临栓塞事件的风险。视网膜动脉（如供应视网膜的睫状动脉）的分支闭塞是一种可能的并发症。（选项A）左枕叶的病变会导致对侧同向偏盲（双眼右视野丧失），而不是单眼缺损。（选项B和C）视放射或颞叶/顶叶的病变通常也会导致同向性视野缺损，通常是象限盲，影响双眼。（选项E）右侧膝状体（LGN）的病变会导致对侧同向性偏盲。（选项F）右上视网膜的病变会导致右下视野出现缺损，而不是右上视野。因此，供应右下视网膜的动脉闭塞最可能是导致患者症状的原因。教育目标：仅一只眼睛的视力丧失表明病变位于视交叉前。投射到视网膜上的图像是倒置和反转的。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the visual pathway and how lesions at different points along this pathway manifest as specific visual field defects. It requires correlating the location of a lesion with the resulting visual deficit, considering the inversions and reversals that occur in the visual system.\nTo solve this question, one must first identify the location and nature of the visual field defect described and shown in the visual field testing. Then, trace the visual pathway backward from the affected visual field to the potential site of arterial occlusion, remembering that retinal images are inverted and reversed, and that lesions anterior to the optic chiasm cause monocular deficits.",
+    "zh": "此问题测试对视觉通路的理解，以及该通路上不同位置的病变如何表现为特定的视野缺损。它需要将病变的位置与产生的视觉缺陷相关联，考虑视觉系统中发生的倒置和反转。\n要解决这个问题，必须首先确定在视野测试中描述和显示的视野缺损的位置和性质。然后，从受影响的视野向后追踪视觉通路到可能的动脉闭塞部位，记住视网膜图像是倒置和反转的，并且视交叉前的病变会导致单眼缺陷。"
+  },
+  "tags": "Visual pathway; Retinal artery occlusion; Visual field defect; Scotoma; Monocular vision loss; Ophthalmology; Neurology; Embolism; Coronary catheterization",
+  "category": "Neuro",
+  "question_id": "19633",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 23\\19633",
+  "extracted_at": "2025-11-05T19:28:15.984855",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:23:26.556739",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

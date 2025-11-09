@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 12-month-old boy is brought to the pediatrician by his parents for an upper respiratory infection. Temperature is 38.3 C (101 F), blood pressure is 92/45 mm Hg, pulse is 110/min, and respirations are 25/min. Physical examination shows erythema and swelling of the nasal mucosa and nasal discharge. Cardiac auscultation findings at the left sternal border are given below {{exhibit_1}}. Pulses are equal in all 4 extremities. The remainder of the examination is unremarkable. Which of the following is the most likely diagnosis?",
+    "zh": "一位 12 个月大的男孩因上呼吸道感染由父母带到儿科医生处就诊。体温为 38.3°C (101°F)，血压为 92/45 mmHg，脉搏为 110 次/分，呼吸为 25 次/分。体格检查显示鼻粘膜充血和肿胀，并有鼻涕。左侧胸骨旁的听诊结果如下 {{exhibit_1}}。四肢脉搏均等。其余检查无特殊发现。以下哪项是最可能的诊断？"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Aortic coarctation",
+      "zh": "主动脉缩窄"
+    },
+    "B": {
+      "en": "Ascending aortic aneurysm",
+      "zh": "升主动脉瘤"
+    },
+    "C": {
+      "en": "Atrial septal defect",
+      "zh": "房间隔缺损"
+    },
+    "D": {
+      "en": "Mitral valve prolapse",
+      "zh": "二尖瓣脱垂"
+    },
+    "E": {
+      "en": "Patent ductus arteriosus",
+      "zh": "动脉导管未闭"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's auscultation findings reveal a continuous murmur with maximal intensity at S2 (when pressure in the aorta is at a peak), which is characteristic of a PATENT DUCTUS ARTERIOSUS (PDA). The murmur is usually best heard at the left infraclavicular or posterior interscapular region. The symptoms caused by a PDA are variable depending on its size and resulting degree of LEFT-TO-RIGHT SHUNTING from the aorta to the pulmonary arterial trunk. Because this patient was ASYMPTOMATIC and the PDA was detected incidentally, he most likely has a SMALL PDA. Larger PDAs typically present with respiratory distress, poor feeding, and/or retracted growth during the first year of life. Patients at greatest risk of PDA are those born prematurely and those with cyanotic congenital heart disease.\n\n(Choice A) Aortic coarctation is usually associated with a systolic murmur best heard at the left infraclavicular area. It can sometimes cause a continuous murmur due to blood flow through large collateral vessels, but this is a much less common cause of continuous murmur than a PDA. In addition, equal pulses in the upper and lower extremities make aortic coarctation unlikely.\n\n(Choice B) An ascending aortic aneurysm is often associated with aortic regurgitation, which causes a decrescendo early diastolic murmur as opposed to a continuous murmur. Aortic regurgitation resulting from aortic root (as opposed to valvular) pathology is typically best heard at the right upper sternal border.\n\n(Choice C) An atrial septal defect typically causes a faint, crescendo-decrescendo systolic murmur (best heard at the left upper sternal border) caused by increased blood flow through the pulmonic valve (ie, pulmonic flow murmur). Splitting of S2 is wide and fixed.\n\n(Choice D) Mitral valve prolapse classically causes a midsystolic click followed by a late systolic murmur of mitral regurgitation (best heard at the cardiac apex). The timing of the click (and murmur) varies with changes in left ventricular blood volume.\n\nEducational objective:\nA patent ductus arteriosus (PDA) causes a continuous murmur best heard at the left infraclavicular or posterior interscapular region. A small PDA is often asymptomatic and detected incidentally during routine cardiac auscultation. It most commonly occurs in patients born prematurely and those with cyanotic congenital heart disease. {{exhibit_2}}",
+    "zh": "该患者的听诊结果显示，在 S2 (主动脉压力达到峰值时) 处，连续性杂音的强度最大，这是动脉导管未闭 (PDA) 的特征。这种杂音通常在左锁骨下或肩胛间后部最易听到。PDA 引起的症状取决于其大小以及从主动脉到肺动脉干的左向右分流程度。由于该患者无症状且 PDA 是偶然发现的，他很可能患有小型 PDA。较大的 PDA 通常在出生后一年内出现呼吸窘迫、喂养不良和/或生长迟缓。PDA 风险最高的患者是早产儿和患有发绀型先天性心脏病的患者。\n\n(选项 A) 主动脉缩窄通常与在左锁骨下区域听诊最清楚的收缩期杂音有关。它有时会因血流通过大的侧支血管而引起连续性杂音，但这比 PDA 引起连续性杂音的情况要少得多。此外，四肢脉搏相等使得主动脉缩窄不太可能。\n\n(选项 B) 升主动脉瘤通常与主动脉瓣关闭不全有关，后者会引起递减的舒张早期杂音，而不是连续性杂音。主动脉瓣关闭不全由主动脉根部（而不是瓣膜）病变引起，通常在右侧胸骨上缘听诊最清楚。\n\n(选项 C) 房间隔缺损通常会导致微弱的、渐强-渐弱的收缩期杂音（在左上胸骨缘听诊最清楚），这是由于通过肺动脉瓣的血流量增加所致（即，肺动脉血流杂音）。S2 的分裂是宽而固定的。\n\n(选项 D) 二尖瓣脱垂通常会导致收缩中期喀喇声，然后是二尖瓣反流的收缩晚期杂音（在心脏心尖处听诊最清楚）。喀喇声（和杂音）的时间取决于左心室血容量的变化。\n\n教育目标：\n动脉导管未闭 (PDA) 会引起连续性杂音，在左锁骨下或肩胛间后部听诊最清楚。小的 PDA 通常无症状，并在常规心脏听诊期间偶然发现。它最常发生在早产儿和患有发绀型先天性心脏病的患者中。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the presentation and diagnosis of patent ductus arteriosus (PDA), including characteristic murmur and associated findings.\n\nTo solve this question, recognize the continuous murmur at the left sternal border as suggestive of PDA, especially in an asymptomatic child. Rule out other cardiac conditions based on murmur characteristics and associated symptoms.",
+    "zh": "此题考察对动脉导管未闭 (PDA) 的表现和诊断的了解，包括特征性杂音和相关发现。\n\n要解决这个问题，需要认识到左侧胸骨旁的连续性杂音提示 PDA，尤其是在无症状儿童中。根据杂音特征和相关症状排除其他心脏疾病。"
+  },
+  "tags": "Patent ductus arteriosus; Cardiac murmur; Congenital heart disease; Cardiology; Pediatric cardiology; Continuous murmur; Left-to-right shunt",
+  "category": "CVS",
+  "question_id": "2109",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\2109",
+  "extracted_at": "2025-11-05T12:10:28.628621",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:28:22.239269",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

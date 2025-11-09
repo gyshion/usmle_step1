@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 43-year-old man comes to the office due to progressive memory loss and cognitive decline over the past several years. Medical history includes HIV infection diagnosed 11 years ago. Highly active antiretroviral therapy was prescribed, but he is nonadherent. The patient describes concerns with attention, concentration, and speech. In the past few months, he has become more apathetic and increasingly lethargic. More recently, he has had difficulty with balance and has fallen on multiple occasions. The patient has had no headache, tremor, vision change, fever, nausea, vomiting, or urinary incontinence. His brother has a history of severe intellectual disability and epilepsy. The patient scores 18/30 on the Mini-Mental State Examination and appears emotionally blunt. He also has postural instability and difficulty performing fine motor tasks. Noncontrast CT scan of the head is shown in the exhibits (2 images). {{exhibit_1}} {{exhibit_2}} This patient's condition can best be characterized as which of the following?",
+    "zh": "一名43岁男性因过去几年进行性记忆力减退和认知能力下降就诊。病史包括11年前诊断为HIV感染。曾处方高效抗逆转录病毒疗法，但患者依从性差。患者主诉注意力、专注力和言语方面的问题。过去几个月，他变得更加冷漠，越来越嗜睡。最近，他出现了平衡障碍，并多次摔倒。患者没有头痛、震颤、视力改变、发热、恶心、呕吐或尿失禁。他的兄弟有严重的智力障碍和癫痫病史。患者在简易精神状态检查中得分为18/30，并且情绪迟钝。他也有姿势不稳和难以完成精细运动任务。头部非对比CT扫描见于展品（2张图像）。{{exhibit_1}} {{exhibit_2}} 该患者的病情最适合描述为以下哪项？"
+  },
+  "question": {
+    "en": "This patient's condition can best be characterized as which of the following?",
+    "zh": "该患者的病情最适合描述为以下哪项？"
+  },
+  "options": {
+    "A": {
+      "en": "Communicating hydrocephalus",
+      "zh": "交通性脑积水"
+    },
+    "B": {
+      "en": "Hydrocephalus ex vacuo",
+      "zh": "真空性脑积水"
+    },
+    "C": {
+      "en": "Lissencephaly",
+      "zh": "平脑症"
+    },
+    "D": {
+      "en": "Noncommunicating hydrocephalus",
+      "zh": "非交通性脑积水"
+    },
+    "E": {
+      "en": "Pseudotumor cerebri",
+      "zh": "假性脑肿瘤"
+    },
+    "F": {
+      "en": "Transtentorial (uncal) herniation",
+      "zh": "经小脑幕（钩回）疝"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has HIV infection and is nonadherent to antiretroviral therapy, leading to likely progression of HIV-associated dementia. The clinical presentation of progressive memory loss, cognitive decline, attention deficits, apathy, lethargy, difficulty with balance, and postural instability is consistent with AIDS dementia complex (also known as HIV-associated neurocognitive disorder). The CT scan findings of enlarged ventricles and prominent sulci {{exhibit_1}} {{exhibit_2}} are indicative of hydrocephalus. However, the enlarged ventricles are compensatory for significant neuronal loss (cortical atrophy), which is characteristic of hydrocephalus ex vacuo. This condition occurs when there is a loss of brain parenchyma, leading to an increase in cerebrospinal fluid (CSF) volume to fill the void, rather than an obstruction of CSF flow. The educational objective states: Hydrocephalus ex vacuo can occur due to neurodegenerative disease (eg, HIV infection) when significant neuronal loss leads to a compensatory increase in the volume of cerebrospinal fluid.\n\n(Choice A and D) Communicating and noncommunicating hydrocephalus are characterized by an inappropriate increase in CSF volume due to obstruction of CSF flow within the ventricular system or subarachnoid space. While this patient has enlarged ventricles, the underlying cause is neuronal loss, not obstruction. Therefore, these are less likely.\n\n(Choice C) Lissencephaly is a congenital disorder characterized by the absence of gyri, resulting in a smooth brain surface. This condition is typically associated with severe intellectual disability and seizures from birth, which is not consistent with the patient's history of progressive decline in adulthood.\n\n(Choice E) Pseudotumor cerebri (idiopathic intracranial hypertension) is characterized by elevated intracranial pressure in the absence of a mass lesion or hydrocephalus. It typically presents with headache, visual disturbances (papilledema), and pulsatile tinnitus, which are not described in this patient's presentation.\n\n(Choice F) Transtentorial (uncal) herniation occurs when intracranial pressure forces brain tissue through the tentorial notch. This is a medical emergency and typically presents with signs of uncal herniation, such as ipsilateral pupillary dilation, contralateral hemiparesis, and altered consciousness, which are not evident in this patient's presentation.",
+    "zh": "该患者患有HIV感染，且对逆转录病毒治疗依从性差，这可能导致HIV相关性痴呆进展。进行性记忆力减退、认知能力下降、注意力缺陷、冷漠、嗜睡、平衡障碍和姿势不稳的临床表现与艾滋病痴呆综合征（也称为HIV相关性神经认知障碍）一致。CT扫描结果显示脑室扩大和脑沟加深{{exhibit_1}} {{exhibit_2}}，提示脑积水。然而，扩大的脑室是代偿性地补偿了显著的神经元丢失（皮质萎缩），这是真空性脑积水的特征。这种情况发生在脑实质丢失时，导致脑脊液（CSF）体积增加以填充空隙，而不是脑脊液流动的阻塞。教育目标指出：真空性脑积水可由神经退行性疾病（如HIV感染）引起，当显著的神经元丢失导致脑脊液体积的代偿性增加。\n\n（选项A和D）交通性和非交通性脑积水的特征是由于脑室系统或蛛网膜下腔内脑脊液流动的阻塞导致脑脊液体积不适当增加。虽然该患者脑室扩大，但根本原因在于神经元丢失，而非阻塞。因此，这些可能性较小。\n\n（选项C）平脑症是一种先天性疾病，其特征是缺乏脑回，导致大脑表面光滑。这种情况通常与出生时即存在的严重智力障碍和癫痫发作相关，这与患者成年后进行性衰退的病史不符。\n\n（选项E）假性脑肿瘤（特发性颅内高压）的特征是在不存在占位病变或脑积水的情况下颅内压升高。它通常表现为头痛、视觉障碍（视乳头水肿）和搏动性耳鸣，而这些在患者的临床表现中并未描述。\n\n（选项F）经小脑幕（钩回）疝发生在颅内压迫使脑组织穿过小脑幕切迹时。这是一种医疗急症，通常表现为钩回疝的体征，例如同侧瞳孔扩大、对侧轻偏瘫和意识改变，而这些在患者的临床表现中并不明显。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of hydrocephalus and its various etiologies, specifically differentiating between obstructive hydrocephalus and hydrocephalus ex vacuo in the context of HIV-associated neurocognitive disorder. It requires correlating clinical symptoms with imaging findings to arrive at the correct diagnosis.\n\nThe approach to solving this question involves first identifying the key clinical features suggestive of a neurological disorder, then interpreting the provided imaging findings of enlarged ventricles and sulci. The next step is to consider the differential diagnoses of hydrocephalus and relate them to the patient's underlying condition (HIV infection) and the specific pattern of ventricular enlargement to determine the most appropriate characterization.",
+    "zh": "此题考察对脑积水的理解及其各种病因，特别是在HIV相关性神经认知障碍的背景下区分梗阻性脑积水和真空性脑积水。它需要将临床症状与影像学发现相关联，以得出正确的诊断。\n\n解决此题的方法包括首先识别提示神经系统疾病的关键临床特征，然后解释提供的脑室扩大和脑沟加深的影像学发现。下一步是考虑脑积水的鉴别诊断，并将它们与患者的潜在疾病（HIV感染）和脑室扩大的特定模式相关联，以确定最合适的特征描述。"
+  },
+  "tags": "HIV infection; AIDS dementia complex; HIV-associated neurocognitive disorder; Hydrocephalus ex vacuo; Neurodegenerative disease; CT scan; Ventriculomegaly; Cortical atrophy; Differential diagnosis",
+  "category": "Neuro",
+  "question_id": "14",
+  "has_exhibits": true,
+  "exhibit_count": 5,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\14",
+  "extracted_at": "2025-11-05T19:33:48.711345",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:33:40.592893",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

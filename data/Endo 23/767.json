@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A nuclear waste disposal plant suffers a containment failure and several grams of iodine-131 are released into the local environment. A number of workers are believed to have been exposed to dangerous levels of the radioactive material. {{exhibit_1}}",
+    "zh": "一家核废料处理厂发生安全事故，导致大量碘-131泄漏到当地环境中。据信，一些工人暴露于危险水平的放射性物质。{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following should be immediately administered to help prevent tissue damage in these individuals?",
+    "zh": "应立即给予以下哪项措施，以帮助预防这些个体的组织损伤？"
+  },
+  "options": {
+    "A": {
+      "en": "Levothyroxine",
+      "zh": "左甲状腺素"
+    },
+    "B": {
+      "en": "Potassium iodide",
+      "zh": "碘化钾"
+    },
+    "C": {
+      "en": "Prednisone",
+      "zh": "泼尼松"
+    },
+    "D": {
+      "en": "Propranolol",
+      "zh": "普萘洛尔"
+    },
+    "E": {
+      "en": "Propylthiouracil",
+      "zh": "丙硫氧嘧啶"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Radioactive material such as iodine-131 (¹³¹I) can be released into the environment following nuclear reactor accidents, breach-of-containment at waste disposal sites, or atomic bomb blasts. Like non-radioactive iodine, ¹³¹I is preferentially taken up and concentrated within the thyroid gland. There it can cause significant tissue damage that may result in radiation-induced hypothyroidism and thyroid carcinoma (particularly in younger patients). In the event of a nuclear accident, potassium iodide is given prophylactically to protect the thyroid from excessive accumulation of radioactive ¹³¹I.\n\nEnergy-dependent transport of inorganic iodide into the thyroid follicular cell (iodide trapping) is accomplished by the sodium-iodide symporter located on the basolateral membrane. Because this transporter takes up all isotopes of iodide (as well as other ions such as perchlorate and pertechnetate), high serum levels of nonradioactive iodide can competitively inhibit radioactive ¹³¹I from entering thyroid follicular cells. Large increases in serum iodide levels also inhibit iodine organification (Wolff-Chaikoff effect) and reduce thyroid hormone release.\n\n(Choice A) Levothyroxine is a synthetic form of T4 used to treat hypothyroidism. High doses of levothyroxine suppress TSH, just as high amounts of natural T4 would. Because TSH stimulates iodine trapping, high doses of levothyroxine would ultimately reduce iodine uptake in the thyroid follicular cells. However, this regulatory process requires several days to weeks to take effect.\n\n(Choices C and D) Propranolol is used to reduce the adrenergic effects of thyrotoxicosis (eg, tachycardia, tremor). Prednisone is used to reduce lymphocyte-mediated inflammatory effects in Graves ophthalmopathy. However, neither propranolol nor prednisone affects the uptake of iodine in thyroid follicular cells.\n\n(Choice E) Propylthiouracil is used in the treatment of hyperthyroidism and decreases formation of thyroid hormone by inhibiting the enzyme thyroid peroxidase. Although inhibition of iodine organification will cause decreased iodide uptake by the thyroid, potassium iodide promotes this effect more rapidly and efficiently by also acting as a competitive inhibitor for iodide entry into the cell.\n\nEducational objective:\nPotassium iodide competitively inhibits thyroid uptake of radioactive iodine isotopes and is often administered following nuclear accidents to protect the thyroid and prevent development of radiation-induced thyroid carcinoma.",
+    "zh": "诸如碘-131 (¹³¹I) 等放射性物质可在核反应堆事故、废料处理场泄漏或原子弹爆炸后释放到环境中。与非放射性碘一样，¹³¹I 优先被甲状腺吸收并浓缩。在那里，它会导致严重的组织损伤，可能导致放射引起的甲状腺功能减退和甲状腺癌（尤其是在年轻患者中）。在发生核事故时，预防性地给予碘化钾以保护甲状腺免受放射性 ¹³¹I 的过度积累。\n\n无机碘离子进入甲状腺滤泡细胞（碘离子捕获）的能量依赖性转运，由位于基底外侧膜上的钠-碘离子协同转运体完成。由于该转运体吸收所有碘的同位素（以及其他离子，如高氯酸盐和高锝酸盐），高血清水平的非放射性碘可以竞争性地抑制放射性 ¹³¹I 进入甲状腺滤泡细胞。血清碘水平的大幅升高也会抑制碘的有机化（Wolff-Chaikoff 效应）并减少甲状腺激素的释放。\n\n（选项 A）左甲状腺素是用于治疗甲状腺功能减退症的 T4 的合成形式。高剂量的左甲状腺素会抑制促甲状腺激素 (TSH)，就像高剂量的天然 T4 一样。由于 TSH 刺激碘的捕获，高剂量的左甲状腺素最终会减少甲状腺滤泡细胞对碘的摄取。然而，这种调节过程需要数天到数周才能生效。\n\n（选项 C 和 D）普萘洛尔用于减少甲状腺毒症的肾上腺素能效应（例如，心动过速、震颤）。泼尼松用于减少 Graves 眼病的淋巴细胞介导的炎症反应。然而，普萘洛尔和泼尼松均不影响甲状腺滤泡细胞对碘的摄取。\n\n（选项 E）丙硫氧嘧啶用于治疗甲状腺功能亢进，并通过抑制酶甲状腺过氧化物酶来减少甲状腺激素的形成。尽管抑制碘的有机化会导致甲状腺对碘的摄取减少，但碘化钾通过同时充当碘进入细胞的竞争性抑制剂，从而更快速有效地促进这种效应。\n\n教育目标：\n碘化钾竞争性抑制甲状腺对放射性碘同位素的摄取，通常在核事故后给予，以保护甲状腺并预防放射引起的甲状腺癌的发生。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of appropriate prophylaxis following exposure to radioactive iodine-131. Potassium iodide competitively inhibits the uptake of radioactive iodine by the thyroid gland, preventing radiation-induced damage and subsequent thyroid carcinoma.\n\nTo solve this question, recognize the scenario of radioactive iodine exposure and recall the mechanism of action of potassium iodide in blocking thyroid uptake. Eliminate options that do not directly address iodine uptake or are used for other thyroid conditions.",
+    "zh": "本题测试对暴露于放射性碘-131后的适当预防措施的了解。碘化钾通过竞争性抑制甲状腺对放射性碘的摄取，从而预防放射引起的损伤和随后的甲状腺癌。\n\n要解决这个问题，需要识别放射性碘暴露的情景，并回忆起碘化钾在阻断甲状腺摄取中的作用机制。排除不直接针对碘摄取或用于其他甲状腺疾病的选项。"
+  },
+  "tags": "Radioactive iodine; Potassium iodide; Thyroid gland; Radiation exposure; Nuclear accident; Prophylaxis; Thyroid carcinoma; Wolff-Chaikoff effect",
+  "category": "Endo",
+  "question_id": "767",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\767",
+  "extracted_at": "2025-11-05T14:10:31.119139",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:42:45.758052",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

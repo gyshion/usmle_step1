@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 46-year-old woman is admitted for elective hysterectomy due to abnormal uterine bleeding. The patient has a history of diabetes mellitus and urinary incontinence, and she smoked cigarettes occasionally for years before quitting 5 years ago. She is prepared for surgery, and an indwelling urinary catheter is placed. The surgery is completed without complications and the patient is transferred to the hospital ward for recovery. The indwelling catheter is kept in place for the next 72 hours. The patient subsequently develops a fever of 39 C (102.2 F), along with suprapubic and costovertebral angle tenderness. Urine culture shows >10⁵ colony-forming units/mL of extended-spectrum, beta-lactamase–producing Escherichia coli.",
+    "zh": "一名46岁的女性因异常子宫出血入院，准备进行选择性子宫切除术。患者有糖尿病和尿失禁病史，并且在5年前戒烟之前偶尔吸烟多年。她为手术做好了准备，并放置了一根留置导尿管。手术顺利完成，患者被转移到病房进行康复。留置导尿管在接下来的72小时内保持在位。患者随后出现39摄氏度（102.2华氏度）的发烧，伴有耻骨上和肋脊角压痛。尿培养显示>10⁵个菌落形成单位/毫升的产超广谱β-内酰胺酶的大肠杆菌。"
+  },
+  "question": {
+    "en": "Which of the following is the most important risk factor for this patient's infection?",
+    "zh": "以下哪项是该患者感染的最重要危险因素？"
+  },
+  "options": {
+    "A": {
+      "en": "Comorbid diabetes mellitus",
+      "zh": "合并糖尿病"
+    },
+    "B": {
+      "en": "Duration of catheterization",
+      "zh": "导管置入时间"
+    },
+    "C": {
+      "en": "Female sex",
+      "zh": "女性"
+    },
+    "D": {
+      "en": "History of smoking",
+      "zh": "吸烟史"
+    },
+    "E": {
+      "en": "Urinary incontinence",
+      "zh": "尿失禁"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "This patient has a catheter-associated urinary tract infection (CAUTI), and the antibiotic resistance pattern (ie, extended-spectrum, beta-lactamase–producing Escherichia coli) suggests a nosocomial source. CAUTI is most commonly due to the formation of a bacterial biofilm on the catheter surface or retrograde passage of bacteria via the catheter lumen.\n\nThe duration of catheterization is the single most important risk factor for CAUTI. Placement of a catheter for >48 hours (when biofilm formation is most likely to occur) significantly increases CAUTI risk. Prevention includes avoiding inappropriate catheterization (eg, incontinence alone is an inappropriate indication for indwelling catheter placement) and promptly removing the catheter when it is no longer needed (eg, immediately following surgery).\n\n(Choices A and C) Patients with diabetes mellitus are at increased risk for infections, including CAUTI; glucosuria (spontaneous or due to glucosuric medications [eg, sodium-glucose cotransporter 2 inhibitors]) further increases the risk. Female patients are also at increased risk, likely due to a shorter transit distance to the bladder. However, the duration of catheterization has a higher attributable risk for CAUTI compared to these factors.\n\n(Choice D) Smoking may increase susceptibility to bladder infection but only minimally increases CAUTI risk; moreover, this patient's light and remote smoking history represents a less significant risk factor than her extended duration of catheterization.\n\n(Choice E) Urinary incontinence is the most common inappropriate indication for placement of an indwelling catheter. However, incontinence itself is not associated with a significant increase in risk for CAUTI.\n\nEducational objective:\nThe duration of catheterization (especially >48 hr) is the most important risk factor for catheter-associated urinary tract infection. Prevention strategies include avoiding inappropriate catheterization (eg, placing catheter solely due to incontinence) and promptly removing the catheter when it is no longer needed.",
+    "zh": "该患者患有导管相关性尿路感染(CAUTI)，其抗生素耐药模式(即产超广谱β-内酰胺酶的大肠杆菌)提示为医院获得性感染。CAUTI最常见的原因是在导管表面形成细菌生物膜或细菌通过导管腔逆行传播。\n\n导管置入时间是CAUTI最主要的危险因素。置入导管超过48小时(生物膜最有可能形成)会显著增加CAUTI的风险。预防措施包括避免不适当的导管置入(例如，仅因尿失禁而放置导尿管是不合适的)并在不再需要时立即移除导管(例如，手术后立即移除)。\n\n(选项A和C)患有糖尿病的患者发生感染的风险增加，包括CAUTI；糖尿(自发性或由于降糖药物[例如，钠-葡萄糖协同转运蛋白2抑制剂])会进一步增加风险。女性患者的风险也增加，这可能是由于膀胱的转运距离较短。然而，与这些因素相比，导管置入时间对CAUTI的归因风险更高。\n\n(选项D)吸烟可能会增加对膀胱感染的易感性，但只会略微增加CAUTI的风险；此外，该患者轻度和遥远的吸烟史代表的危险因素不如其延长的导管置入时间重要。\n\n(选项E)尿失禁是放置留置导管最常见的不适当指征。然而，尿失禁本身与CAUTI风险的显著增加无关。\n\n教育目标：\n导管置入时间(特别是>48小时)是导管相关性尿路感染最重要的危险因素。预防策略包括避免不适当的导管置入(例如，仅因尿失禁而放置导管)并在不再需要时立即移除导管。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of risk factors for catheter-associated urinary tract infections (CAUTI), specifically the importance of duration of catheterization. It also assesses understanding of appropriate indications for catheter placement and prevention strategies.\n\nTo solve this question, identify the patient's risk factors and prioritize the most significant one for CAUTI. Recognize that prolonged catheterization (>48 hours) is the most important modifiable risk factor, while other factors like diabetes and female sex contribute but are less directly causative.",
+    "zh": "本题考察对导管相关性尿路感染(CAUTI)危险因素的了解，特别是导管置入时间的重要性。同时评估对导管放置的适当指征和预防策略的理解。\n\n要解决这个问题，需要识别患者的危险因素，并优先考虑CAUTI最重要的因素。认识到延长导管置入时间(>48小时)是最重要的可改变危险因素，而其他因素如糖尿病和女性虽然有影响，但直接致病性较小。"
+  },
+  "tags": "Catheter-associated urinary tract infection; CAUTI; Urinary tract infection; Nosocomial infection; Escherichia coli; Catheterization; Risk factors; Infectious Diseases; Urology",
+  "category": "Micro",
+  "question_id": "22577",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\22577",
+  "extracted_at": "2025-11-05T15:03:52.199665",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:11:42.772230",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

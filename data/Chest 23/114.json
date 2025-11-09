@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": " A 45-year-old man comes to the emergency department due to 2 weeks of chest pain and cough. He has a history of advanced HIV and has taken his antiretroviral medications inconsistently over the past few months. Temperature is 38.1 C (100.6 F). Crackles are heard on pulmonary examination. CD4 cell count is 98/mm³. Chest x-ray reveals lung nodules and hilar lymphadenopathy. A bronchoscopy is performed. Mucicarmine staining of the patient's bronchoalveolar fluid reveals budding yeast forms with thick capsules. {{exhibit_1}} The microorganism responsible for this patient's pulmonary infection most frequently causes which of the following?",
+    "zh": "一位45岁男性因2周的胸痛和咳嗽来到急诊科。他有晚期HIV病史，且在过去几个月里一直断断续续地服用抗逆转录病毒药物。体温38.1°C（100.6°F）。肺部检查可闻及爆裂音。CD4细胞计数为98/mm³。胸部X光片显示肺部结节和肺门淋巴结肿大。进行了支气管镜检查。患者的支气管肺泡灌洗液的粘蛋白胭脂红染色显示出带有厚荚膜的芽生酵母样形态。{{exhibit_1}} 导致该患者肺部感染的微生物最常引起以下哪种疾病？"
+  },
+  "question": {
+    "en": "The microorganism responsible for this patient's pulmonary infection most frequently causes which of the following?",
+    "zh": "导致该患者肺部感染的微生物最常引起以下哪种疾病？"
+  },
+  "options": {
+    "A": {
+      "en": "Esophagitis",
+      "zh": "食管炎"
+    },
+    "B": {
+      "en": "Interstitial pneumonia",
+      "zh": "间质性肺炎"
+    },
+    "C": {
+      "en": "Meningoencephalitis",
+      "zh": "脑膜脑炎"
+    },
+    "D": {
+      "en": "Oral plaques",
+      "zh": "口腔斑块"
+    },
+    "E": {
+      "en": "Sinusitis",
+      "zh": "鼻窦炎"
+    },
+    "F": {
+      "en": "Skin infection",
+      "zh": "皮肤感染"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Budding yeasts with thick capsules that stain with mucicarmine are characteristic of Cryptococcus neoformans, which typically affects immunocompromised patients (ie, opportunistic pathogen). C neoformans is present in soil and pigeon droppings; it is transmitted by the respiratory route but not acquired via person-to-person contact. Inhaled yeast forms enter the lungs, and in immunocompetent persons, they are cleared by a macrophage response directed by T cells. In individuals with an impaired cellular immune response, C neoformans can disseminate and cause symptomatic disease, most commonly meningoencephalitis.\n\nCryptococcal meningoencephalitis is typically seen in patients with HIV, sarcoidosis, or leukemia and in those on high-dose corticosteroid therapy. Headache, nausea, vomiting, and confusion are common symptoms. Diagnosis can be made by examining cerebrospinal fluid (CSF), which shows round, budding, encapsulated yeasts. With India ink staining, the thick polysaccharide capsules classically appear as peripheral clearings or halos. Serologic testing (latex agglutination) is used to detect the C neoformans capsular antigen in CSF.\n\n(Choices A and D) Esophagitis in a patient with HIV is most commonly caused by Candida infection; it presents with odynophagia and is diagnosed by endoscopy with biopsy. Oral thrush due to Candida, which manifests as white oral plaques, is associated with diabetes mellitus, immunosuppression (eg, HIV), and treatment with antibiotics and corticosteroids.\n\n(Choice B) Although C neoformans enters the body through the lungs, pulmonary symptoms are often not prominent. Some patients may develop cough, dyspnea, or pleuritic chest pain, but pulmonary cryptococcosis is a less common manifestation than cryptococcal meningoencephalitis. In contrast, Pneumocystis jirovecii is a frequent cause of pneumonia in immunocompromised individuals, but microscopy would show cup- or crescent-shaped organisms (not budding yeast with thick, mucicarmine-positive capsules).\n\n(Choice E) Mucormycosis, which classically affects the paranasal sinuses, occurs in immunocompromised patients and is strongly associated with diabetes mellitus and diabetic ketoacidosis. Aspergillus fumigatus is another fungus that may cause sinusitis.\n\n(Choice F) Cutaneous cryptococcal disease (eg, papules, pustules) is rare. Dimorphic fungi Blastomyces and Histoplasma may cause cutaneous lesions, but the yeast forms do not have mucicarmine-positive capsules.\n\nEducational objective:\nMeningoencephalitis is the most common symptomatic presentation of Cryptococcus neoformans infection and typically occurs in immunocompromised patients. Microscopically, C neoformans appears as budding yeasts with thick polysaccharide capsules, which can be demonstrated using mucicarmine or India ink staining. {{exhibit_2}}",
+    "zh": "用粘蛋白胭脂红染色的带有厚荚膜的芽生酵母是新型隐球菌的特征，新型隐球菌通常影响免疫功能低下的患者（即机会性病原体）。新型隐球菌存在于土壤和鸽子粪便中；它通过呼吸道传播，但不是通过人与人之间的接触获得。吸入的酵母形式进入肺部，在免疫功能健全的人中，它们会被T细胞介导的巨噬细胞反应清除。在细胞免疫反应受损的个体中，新型隐球菌可以播散并引起症状性疾病，最常见的是脑膜脑炎。\n\n隐球菌性脑膜脑炎通常见于HIV、结节病或白血病患者以及接受大剂量皮质类固醇治疗的患者。头痛、恶心、呕吐和意识模糊是常见症状。可以通过检查脑脊液（CSF）来进行诊断，脑脊液显示圆形、芽生、包膜酵母。使用墨汁染色，厚厚的多糖荚膜通常表现为周围的透明区或光晕。血清学检测（胶乳凝集）用于检测脑脊液中的新型隐球菌荚膜抗原。\n\n（选项A和D）HIV患者的食管炎最常见的原因是念珠菌感染；它表现为吞咽疼痛，并通过内镜检查和活检进行诊断。由于念珠菌引起的口腔鹅口疮，表现为白色口腔斑块，与糖尿病、免疫抑制（如HIV）以及使用抗生素和皮质类固醇治疗有关。\n\n（选项B）尽管新型隐球菌通过肺部进入人体，但肺部症状通常不明显。一些患者可能会出现咳嗽、呼吸困难或胸膜炎性胸痛，但肺隐球菌病不如隐球菌性脑膜脑炎常见。相比之下，肺孢子虫是免疫功能低下个体肺炎的常见原因，但显微镜检查会显示杯状或新月形的生物体（不是带有厚、粘蛋白胭脂红阳性荚膜的芽生酵母）。\n\n（选项E）毛霉病通常影响鼻旁窦，发生在免疫功能低下的患者中，并且与糖尿病和糖尿病酮症酸中毒密切相关。烟曲霉是另一种可能引起鼻窦炎的真菌。\n\n（选项F）皮肤隐球菌病（例如，丘疹、脓疱）很少见。双相真菌芽生菌和组织胞浆菌可能引起皮肤损伤，但酵母形式没有粘蛋白胭脂红阳性荚膜。\n\n教育目标：\n脑膜脑炎是新型隐球菌感染最常见的症状性表现，通常发生在免疫功能低下的患者中。在显微镜下，新型隐球菌表现为带有厚多糖荚膜的芽生酵母，可以使用粘蛋白胭脂红或墨汁染色进行检测。{{exhibit_2}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of opportunistic infections in HIV patients, specifically Cryptococcus neoformans, and its most common presentation as meningoencephalitis. It also assesses the ability to interpret staining results and correlate them with clinical findings.\n\nTo solve this question, recognize the key findings: HIV patient with low CD4 count, lung nodules, and mucicarmine-positive budding yeast with thick capsules. This points to Cryptococcus, and given the patient's immunocompromised state, meningoencephalitis is the most likely manifestation.",
+    "zh": "此题考察了对HIV患者机会性感染的知识，特别是新型隐球菌，以及其最常见的表现形式——脑膜脑炎。它还评估了对染色结果的解读能力，并将其与临床发现相关联。\n\n要解决这个问题，需要识别关键发现：HIV患者CD4计数低，肺部结节，以及粘蛋白胭脂红阳性、带有厚荚膜的芽生酵母。这指向了隐球菌，并且考虑到患者的免疫功能低下状态，脑膜脑炎是最有可能的表现。"
+  },
+  "tags": "Cryptococcus neoformans; Meningoencephalitis; HIV; Opportunistic infection; Mucicarmine stain; Fungal infection; Pulmonary nodules; CD4 count; Infectious disease; Neurology",
+  "category": "Chest",
+  "question_id": "114",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\114",
+  "extracted_at": "2025-11-05T11:36:00.040841",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:33:19.440710",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

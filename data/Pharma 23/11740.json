@@ -1,0 +1,61 @@
+{
+  "question_stem": {
+    "en": "A 35-year-old man comes to the emergency department due to acute onset coffee-ground emesis and lightheadedness. Two months ago, he developed lower back pain with stiffness and began taking naproxen and cyclobenzaprine. Medical history is notable for moderate persistent asthma, hepatitis C, and HIV. His last CD4 count was 550/mm³. The patient has a remote history of intravenous drug use but currently does not use any recreational drugs. He has an allergy to penicillin that causes a rash and pruritus. Upper gastrointestinal endoscopy reveals gastric mucosal erythema and erosions. Which of the following best explains this patient's current symptoms?",
+    "zh": "一名35岁男性因突发咖啡色渣样呕吐和头晕来到急诊科。两个月前，他出现下背痛和僵硬，并开始服用萘普生和环苯扎普林。病史值得关注的是中度持续性哮喘、丙型肝炎和HIV。他上次的CD4计数为550/mm³。患者有静脉注射毒品的病史，但目前不使用任何娱乐性药物。他对青霉素过敏，引起皮疹和瘙痒。上消化道内镜检查显示胃粘膜发红和糜烂。以下哪项最能解释该患者目前的症状？"
+  },
+  "question": {
+    "en": "Which of the following best explains this patient's current symptoms?",
+    "zh": "以下哪项最能解释该患者目前的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Exaggerated drug sensitivity",
+      "zh": "药物敏感性增强"
+    },
+    "B": {
+      "en": "Idiosyncratic drug reaction",
+      "zh": "特异质性药物反应"
+    },
+    "C": {
+      "en": "Immunologic drug reaction",
+      "zh": "免疫性药物反应"
+    },
+    "D": {
+      "en": "Predictable drug reaction",
+      "zh": "可预测的药物反应"
+    },
+    "E": {
+      "en": "Pseudoallergic drug reaction",
+      "zh": "假性过敏性药物反应"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient has upper gastrointestinal hemorrhage, which is an adverse effect of the nonsteroidal anti-inflammatory drug (NSAID) he has been taking. Cyclooxygenase (COX) catalyzes the rate-limiting step in the conversion of arachidonic acid to prostaglandins, prostacyclin, and thromboxane. COX enzymes are involved in mediating inflammation but are also required for housekeeping functions such as platelet aggregation, renal protection, and gastric mucosal protection. Inhibition of COX enzymes by NSAIDs (eg, naproxen, ibuprofen) leads to impaired prostaglandin-dependent gastric mucosal protection and the potential development of gastritis (ie, erythema, erosions) and ulceration. Changes to the gastric mucosa may be seen within the first week of initiating NSAID therapy.\n\nMost adverse drug reactions are PREDICTABLE and result from the known pharmacologic properties of the drug, and often occur after extended drug exposure. Unpredictable reactions are less common and occur due to relatively patient-specific immunologic processes or other mechanisms (eg, genetic enzyme deficiencies). In this case, upper gastrointestinal bleeding due to an NSAID is a well-known and predictable adverse effect.\n\n(Choice A) Exaggerated drug sensitivity, also sometimes called drug intolerance, refers to an unpredictable reaction that occurs due to a known pharmacologic action of the drug but at a lower dose than expected (likely due to patient-specific alterations in metabolism or end-organ susceptibility). For example, patients with deficiency of thiopurine methyltransferase, an enzyme that metabolizes azathioprine, are more likely to experience azathioprine intolerance.\n\n(Choice B) An idiosyncratic drug reaction is an unpredictable reaction (ie, results from patient-specific complexities) that does not involve a typical pharmacologic action of the drug. For example, the use of the antibiotic trimethoprim-sulfamethoxazole in patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency can lead to oxidative cellular injury and nonimmune hemolytic anemia.\n\n(Choice C) Immunologic drug reactions (drug allergies) are unpredictable antibody- or T cell-mediated responses to medications. This patient's history of rash and pruritus with penicillin likely represents IgE-mediated type I hypersensitivity.\n\n(Choice E) Pseudoallergic drug reactions mimic immunologic reactions but occur via a nonimmunologic mechanism (eg, direct immune cell activation) in those with patient-specific susceptibility. Vancomycin, opioids, and radioiodine contrast can directly activate mast cells to cause a pseudoallergic reaction that closely mimics IgE-mediated type I hypersensitivity.\n\nEducational objective: Most adverse drug reactions are predictable and result from known pharmacologic properties of the drug. Unpredictable reactions are less common and are typically driven by patient-specific genetics (eg, enzyme deficiency) or immunologic mechanisms.",
+    "zh": "该患者出现上消化道出血，这是他正在服用的非甾体抗炎药 (NSAID) 的不良反应。环氧化酶 (COX) 催化花生四烯酸转化为前列腺素、前列环素和血栓烷的限速步骤。COX 酶参与介导炎症，但也需要执行诸如血小板聚集、肾脏保护和胃粘膜保护等内务功能。NSAIDs（例如，萘普生、布洛芬）抑制 COX 酶会导致前列腺素依赖性胃粘膜保护受损，并可能导致胃炎（即，红斑、糜烂）和溃疡形成。在开始 NSAID 治疗的第一周内，可能会观察到胃粘膜的变化。\n\n大多数不良药物反应都是可预测的，并且是由药物已知的药理特性引起的，并且通常在长期接触药物后发生。不可预测的反应不太常见，并且由于相对特定于患者的免疫过程或其他机制（例如，基因酶缺陷）而发生。在这种情况下，由 NSAID 引起的上消化道出血是一种众所周知且可预测的不良反应。\n\n(选项 A) 药物敏感性增强，有时也称为药物不耐受，是指由于药物已知的药理作用而发生的不可预测的反应，但剂量低于预期（可能是由于患者特异性的代谢或靶器官易感性改变）。例如，缺乏硫嘌呤甲基转移酶（一种代谢硫唑嘌呤的酶）的患者更容易出现硫唑嘌呤不耐受。\n\n(选项 B) 特异质性药物反应是一种不可预测的反应（即，由患者特异性的复杂性引起），不涉及药物的典型药理作用。例如，在葡萄糖-6-磷酸脱氢酶 (G6PD) 缺乏的患者中使用抗生素甲氧苄氨嘧啶-磺胺甲恶唑可导致氧化性细胞损伤和非免疫性溶血性贫血。\n\n(选项 C) 免疫性药物反应（药物过敏）是对药物不可预测的抗体或 T 细胞介导的反应。该患者既往有青霉素引起的皮疹和瘙痒病史，可能代表 IgE 介导的 I 型超敏反应。\n\n(选项 E) 假性过敏性药物反应模拟免疫反应，但通过非免疫机制发生（例如，直接免疫细胞激活），发生在那些具有患者特异性易感性的患者中。万古霉素、阿片类药物和放射碘造影剂可以直接激活肥大细胞，引起假性过敏反应，这种反应与 IgE 介导的 I 型超敏反应非常相似。\n\n教育目标：大多数不良药物反应是可预测的，并且是由药物已知的药理特性引起的。不可预测的反应不太常见，并且通常由患者特异性遗传学（例如，酶缺乏）或免疫机制驱动。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of drug adverse effects, specifically differentiating between predictable and unpredictable reactions. It requires knowledge of NSAID pharmacodynamics and common gastrointestinal side effects.\n\nThe approach to solving this question involves identifying the drug taken by the patient (naproxen, an NSAID) and correlating it with the presenting symptoms (coffee-ground emesis, lightheadedness, gastric mucosal erythema and erosions, indicative of upper GI bleeding). Recognizing that NSAID-induced gastric injury is a well-documented and expected side effect is key to selecting the correct answer.",
+    "zh": "此问题考察对药物不良反应的理解，特别是区分可预测和不可预测的反应。它需要了解 NSAID 的药效学和常见的胃肠道副作用。\n\n解决此问题的方法包括识别患者服用的药物（萘普生，一种 NSAID）并将其与出现的症状（咖啡渣样呕吐、头晕、胃粘膜发红和糜烂，提示上消化道出血）相关联。认识到 NSAID 引起的胃损伤是一种有充分记录的预期副作用，是选择正确答案的关键。"
+  },
+  "tags": "NSAID adverse effects; Gastrointestinal bleeding; Predictable drug reaction; Pharmacology; Gastroenterology; Drug-induced gastritis; COX inhibition",
+  "category": "Pharma",
+  "question_id": "11740",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\11740",
+  "extracted_at": "2025-11-05T19:44:44.095618",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:46:38.837183",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

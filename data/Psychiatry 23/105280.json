@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 22-year-old woman is brought to the emergency department for bizarre behavior over the past week. Her parents state that she has been \"talking nonsense\" nonstop, laughing for no reason, and has not slept for several days. During triage, the patient attempted to hit a staff member, resulting in administration of haloperidol. While awaiting further evaluation, the parents alert the nurse that the patient is starting to \"make weird faces\" while sticking out her tongue. Medical history is noncontributory, and the patient takes no medications. Urine drug screen is positive for cannabis and opiates.",
+    "zh": "一名22岁的女性因过去一周的怪异行为被送往急诊科。她的父母说她一直“胡言乱语”，无缘无故地大笑，并且已经好几天没睡觉了。在分诊期间，患者试图殴打一名工作人员，导致给予氟哌啶醇。在等待进一步评估时，父母提醒护士，患者开始“做怪脸”并伸出舌头。病史无特殊之处，患者未服用任何药物。尿液药物筛查对大麻和鸦片呈阳性。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely explanation for this patient's motor symptoms?",
+    "zh": "以下哪项最能解释该患者的运动症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Catatonia",
+      "zh": "紧张症"
+    },
+    "B": {
+      "en": "Conversion disorder",
+      "zh": "转换障碍"
+    },
+    "C": {
+      "en": "Medication reaction",
+      "zh": "药物反应"
+    },
+    "D": {
+      "en": "Opioid withdrawal",
+      "zh": "阿片类药物戒断"
+    },
+    "E": {
+      "en": "Psychotic agitation",
+      "zh": "精神病性激越"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This patient is likely experiencing an ACUTE DYSTONIC REACTION in response to administration of haloperidol, a high-potency, first-generation antipsychotic. Acute dystonic reactions are a type of EXTRAPYRAMIDAL SYMPTOM (EPS) thought to result from D2 ANTAGONISM in the nigrostriatal pathway. The condition develops abruptly within hours to days after receiving ANTIPSYCHOTIC MEDICATION and is characterized by SUDDEN INVOLUNTARY CONTRACTION of a major muscle group (eg, this patient's tongue protrusion and facial grimacing). Other examples include torticollis (neck muscle contraction), oculogyric crisis (forced, sustained elevation of the eyes in an upward position), opisthotonus (arching of the back with the head thrown backward), and, rarely, laryngospasm.\n\nTreatment of dystonic reactions consists of medications with anticholinergic properties (eg, diphenhydramine, benztropine), which alter cholinergic signaling in the striatum to decrease spontaneous movement. In addition to acute dystonia, other types of antipsychotic-induced EPS include akathisia (inner restlessness) and drug-induced parkinsonism (tremor, rigidity, bradykinesia, masked facies).\n\n(Choice A) Catatonia is a motor disturbance seen in severe psychiatric or medical illness characterized by inability to move normally and resulting in either marked reduction in movements (eg, immobility, stupor) or marked agitation (stereotypy, hyperkinetic limb movements). The sudden onset of a spasm in a specific muscle group is more consistent with a dystonic reaction.\n\n(Choice B) Conversion disorder (functional neurologic symptom disorder) is characterized by neurologic symptoms (eg, weakness, abnormal movements, nonepileptic seizures) that are inconsistent with known neurologic disease. It would not be diagnosed in a patient whose abnormal movements are readily explained by a medication reaction.\n\n(Choice D) Symptoms of opioid withdrawal include gastrointestinal distress, lacrimation, rhinorrhea, myalgias/arthralgias, and yawning. These symptoms are not present in this patient and opioid withdrawal would not explain her tongue protrusion.\n\n(Choice E) Patients with psychotic agitation may exhibit unusual movements and postures. However, the abrupt onset of tongue protrusion following administration of haloperidol is more likely explained as an acute dystonic reaction.\n\nEducational objective:\nAcute dystonic reaction is characterized by sudden, involuntary contraction of a major muscle group. It is a type of extrapyramidal symptom and a common adverse effect of antipsychotic medications, particularly high-potency, first-generation antipsychotics such as haloperidol.",
+    "zh": "该患者很可能正在经历对氟哌啶醇（一种高效力、第一代抗精神病药）给药的急性肌张力障碍反应。急性肌张力障碍反应是一种锥体外系症状 (EPS)，被认为是由黑质纹状体通路中的 D2 受体拮抗作用引起的。这种情况在接受抗精神病药物后数小时到数天内突然发生，其特征是主要肌肉群的突然不自主收缩（例如，该患者的舌头伸出和面部怪相）。其他例子包括斜颈（颈部肌肉收缩）、眼球危象（眼睛被迫持续向上抬高）、角弓反张（背部弓起，头部向后仰）以及罕见的喉痉挛。\n\n肌张力障碍反应的治疗包括具有抗胆碱能特性的药物（例如，苯海拉明、苯托品），这些药物会改变纹状体中的胆碱能信号传导，以减少自发运动。除了急性肌张力障碍外，其他类型的抗精神病药引起的 EPS 包括静坐不能（内在烦躁不安）和药物引起的帕金森病（震颤、僵硬、运动迟缓、面具脸）。\n\n(选项 A) 紧张症是在严重的精神疾病或内科疾病中出现的运动障碍，其特征是无法正常移动，导致运动显着减少（例如，不动、昏迷）或显着激动（刻板行为、过度运动的肢体运动）。特定肌肉群突然痉挛更符合肌张力障碍反应。\n\n(选项 B) 转换障碍（功能性神经症状障碍）的特征是与已知神经系统疾病不一致的神经系统症状（例如，无力、异常运动、非癫痫性癫痫发作）。在异常运动很容易被药物反应解释的患者中，不会被诊断出来。\n\n(选项 D) 阿片类药物戒断的症状包括胃肠道不适、流泪、流涕、肌痛/关节痛和打哈欠。这些症状在患者中不存在，阿片类药物戒断也无法解释她舌头的伸出。\n\n(选项 E) 精神病性激越患者可能会表现出异常的运动和姿势。然而，在给予氟哌啶醇后舌头突然伸出更可能被解释为急性肌张力障碍反应。\n\n教育目标：\n急性肌张力障碍反应的特征是主要肌肉群的突然、不自主收缩。它是一种锥体外系症状，是抗精神病药物的常见不良反应，尤其是高效力的第一代抗精神病药，如氟哌啶醇。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of acute dystonic reactions, a common extrapyramidal side effect of antipsychotic medications, specifically haloperidol. It requires differentiating this condition from other causes of altered mental status and motor abnormalities.\n\nTo solve this question, identify the temporal relationship between the administration of haloperidol and the onset of motor symptoms. Recognize that acute dystonic reactions are characterized by sudden, involuntary muscle contractions and are a known side effect of high-potency antipsychotics.",
+    "zh": "这个问题测试对急性肌张力障碍反应的理解，这是抗精神病药物（特别是氟哌啶醇）常见的锥体外系副作用。它需要将这种情况与其他原因引起的精神状态改变和运动异常区分开来。\n\n要解决这个问题，请确定氟哌啶醇给药与运动症状出现之间的时间关系。认识到急性肌张力障碍反应的特征是突然、不自主的肌肉收缩，并且是高效力抗精神病药物的已知副作用。"
+  },
+  "tags": "Acute dystonic reaction; Extrapyramidal symptoms; Haloperidol; Antipsychotic medications; D2 antagonism; Nigrostriatal pathway; Pharmacology; Neurology; Psychiatry",
+  "category": "Psychiatry",
+  "question_id": "105280",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\105280",
+  "extracted_at": "2025-11-05T19:47:36.771167",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:50:09.156472",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

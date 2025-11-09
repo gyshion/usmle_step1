@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old hospitalized woman is evaluated for muscle weakness. The patient was admitted 2 weeks ago due to septic shock from acute pyelonephritis. She was treated in the intensive care unit with intravenous fluids, vasopressors, and broad-spectrum antibiotics. The patient was also mechanically ventilated due to respiratory failure. Her hemodynamic status and infection gradually improved, but she has had difficulty being taken off the ventilator due to respiratory muscle weakness. She is also noted to have significant extremity weakness. Physical examination shows diffuse mild atrophy of the extremity muscles. Bilateral upper and lower extremity deep tendon reflexes are decreased.",
+    "zh": "一名62岁住院女性因肌肉无力接受评估。患者2周前因急性肾盂肾炎引起的感染性休克入院。她在重症监护病房接受静脉输液、血管加压药和广谱抗生素治疗。患者还因呼吸衰竭接受了机械通气。她的血流动力学状态和感染逐渐改善，但由于呼吸肌无力，她难以脱离呼吸机。她也被注意到有明显的肢体无力。体格检查显示肢体肌肉弥漫性轻度萎缩。双侧上肢和下肢的深腱反射减弱。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's current condition?",
+    "zh": "以下哪项最可能是该患者目前病情的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Corticospinal tract demyelination",
+      "zh": "皮质脊髓束脱髓鞘"
+    },
+    "B": {
+      "en": "Motor cortex ischemic injury",
+      "zh": "运动皮质缺血性损伤"
+    },
+    "C": {
+      "en": "Motor endplate receptor loss",
+      "zh": "运动终板受体缺失"
+    },
+    "D": {
+      "en": "Myofiber lymphocytic inflammation",
+      "zh": "肌纤维淋巴细胞性炎症"
+    },
+    "E": {
+      "en": "Peripheral nerve axonal degeneration",
+      "zh": "周围神经轴突变性"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient has weakness, muscle atrophy, and decreased deep tendon reflexes after CRITICAL ILLNESS. Critical illness, especially due to sepsis, can result in NEUROMUSCULAR WEAKNESS caused by one or both of the following:\n\n* Critical illness myopathy (CIM), which results in a decrease of muscle membrane excitability and loss of myosin with resultant ATROPHY OF MYOFIBERS\n\n* Critical illness polyneuropathy (CIP), which results in decreased nerve excitability (due to inactivation of sodium channels) and AXONAL DEGENERATION (possibly due to injury to the microcirculation by inflammatory mediators)\n\nClinical features of CIM and CIP typically include symmetric weakness greater in PROXIMAL, rather than distal, muscles with DECREASED DEEP TENDON REFLEXES. It is often diagnosed when patients are unable to be liberated from the ventilator due to chest wall weakness. Treatment is focused on controlling underlying medical conditions, preventing further complications, and rehabilitation. Patients may improve over weeks to months with rehabilitation, but many have persistent weakness.\n\n(Choice A) Corticospinal tract demyelination can occur at multiple levels including the pons (eg, central pontine myelinolysis) or spinal cord (eg, vitamin B12 deficiency). However, this would result in upper motor neuron signs (eg, hyperreflexia).\n\n(Choice B) Patients with sepsis have an increased risk of stroke, which can result in motor cortex ischemic injury. However, patients with stroke often have asymmetric neurologic findings, and because it affects upper motor neurons, hyperreflexia (rather than loss of deep tendon reflexes) would be expected.\n\n(Choice C) Myasthenia gravis (MG) can lead to antibody-induced motor endplate receptor loss; myasthenic crisis can be triggered by infection and lead to respiratory failure. However, patients with MG rarely have muscle atrophy, and deep tendon reflexes are classically preserved (MG causes fatigable weakness).\n\n(Choice D) Myofiber lymphocytic inflammation occurs with inflammatory myopathies (eg, polymyositis), which classically present insidiously (rather than over 2 weeks) with symmetrical proximal muscle weakness. In addition, polymyositis does not typically affect the respiratory muscles, and deep tendon reflexes are usually normal.\n\nEducational objective:\nCritical illness can lead to weakness due to both myopathy (eg, atrophy of muscles) and polyneuropathy (eg, axonal degeneration, decreased nerve excitability). This can lead to both extremity weakness and difficulty breathing due to chest wall weakness.",
+    "zh": "该患者在危重疾病后出现无力、肌肉萎缩和深腱反射减弱。危重疾病，特别是由于脓毒症引起的危重疾病，可导致神经肌肉无力，原因如下之一或两者皆有：\n\n* 危重疾病性肌病 (CIM)，导致肌肉膜兴奋性降低和肌球蛋白丢失，从而导致肌纤维萎缩\n\n* 危重疾病性多发性神经病 (CIP)，导致神经兴奋性降低（由于钠离子通道失活）和轴突变性（可能由于炎症介质对微循环的损伤）\n\nCIM和CIP的临床特征通常包括对称性无力，在近端肌肉中比在远端肌肉中更严重，并伴有深腱反射减弱。当患者因胸壁无力而无法脱离呼吸机时，通常会诊断为CIP。治疗的重点是控制潜在的疾病，预防进一步的并发症和康复。患者可能在几周到几个月内通过康复得到改善，但许多患者仍有持续的无力。\n\n（选项 A）皮质脊髓束脱髓鞘可发生在多个水平，包括脑桥（例如，脑桥中央髓鞘溶解症）或脊髓（例如，维生素B12缺乏症）。但是，这将导致上运动神经元体征（例如，反射亢进）。\n\n（选项 B）脓毒症患者发生卒中的风险增加，这可能导致运动皮质缺血性损伤。但是，卒中患者通常有不对称的神经系统表现，并且因为它影响上运动神经元，所以预期会出现反射亢进（而不是深腱反射消失）。\n\n（选项 C）重症肌无力 (MG) 可导致抗体诱导的运动终板受体丢失；感染可诱发肌无力危象并导致呼吸衰竭。但是，MG患者很少出现肌肉萎缩，并且深腱反射通常保留（MG引起易疲劳性无力）。\n\n（选项 D）肌纤维淋巴细胞性炎症发生在炎症性肌病（例如，多发性肌炎）中，其典型表现为隐匿起病（而非超过2周）和对称性近端肌肉无力。此外，多发性肌炎通常不影响呼吸肌，并且深腱反射通常是正常的。\n\n教育目标：\n危重疾病可由于肌病（例如，肌肉萎缩）和多发性神经病（例如，轴突变性，神经兴奋性降低）而导致无力。这可能导致肢体无力和由于胸壁无力而引起的呼吸困难。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of neuromuscular complications following critical illness, specifically differentiating between critical illness myopathy and polyneuropathy based on clinical presentation and examination findings.\n\nThe approach to solving this question involves recognizing the patient's history of sepsis and mechanical ventilation, correlating the physical exam findings of diffuse weakness, muscle atrophy, and decreased deep tendon reflexes with potential neuromuscular causes, and then systematically ruling out other differential diagnoses based on their characteristic clinical features.",
+    "zh": "此题考察对危重疾病后神经肌肉并发症的理解，特别是根据临床表现和检查结果区分危重疾病性肌病和多发性神经病。\n\n解决此题的方法包括：识别患者的脓毒症和机械通气病史，将体格检查结果（弥漫性无力、肌肉萎缩和深腱反射减弱）与潜在的神经肌肉病因相关联，然后根据其他鉴别诊断的特征性临床表现，系统地排除其他鉴别诊断。"
+  },
+  "tags": "Critical illness myopathy; Critical illness polyneuropathy; Sepsis; Neuromuscular weakness; Muscle atrophy; Decreased deep tendon reflexes; Respiratory failure; Axonal degeneration; Intensive care unit; Neurology",
+  "category": "Neuro",
+  "question_id": "19487",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\19487",
+  "extracted_at": "2025-11-05T19:37:54.364610",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:37:26.978529",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

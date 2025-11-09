@@ -1,0 +1,66 @@
+{
+  "question_stem": {
+    "en": "A 27-year-old man comes to the office due to recurrent episodes of muscle weakness. He has no other significant medical history. The patient's weight has been stable for the past few years with a BMI of 23 kg/m². Blood pressure is 190/110 mm Hg supine and 195/110 mm Hg standing. Pulse is 70/min supine and 72/min standing. The rest of the physical examination is unremarkable. Laboratory evaluation shows very low plasma renin levels. Adrenal cortical structure & function {{exhibit_1}}",
+    "zh": "一名27岁男性因反复发作的肌无力前来就诊。患者无其他重要的病史。过去几年，患者体重稳定，BMI为23 kg/m²。仰卧位血压为190/110 mm Hg，站立位血压为195/110 mm Hg。仰卧位脉搏为70次/分，站立位脉搏为72次/分。其余体格检查无特殊发现。实验室评估显示血浆肾素水平非常低。肾上腺皮质结构与功能 {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Overactivity of which of the following is most likely responsible for this patient's symptoms?",
+    "zh": "以下哪项的过度活动最有可能导致该患者的症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Chromaffin cells of the adrenals",
+      "zh": "肾上腺的嗜铬细胞"
+    },
+    "B": {
+      "en": "Extraadrenal paraganglion cells",
+      "zh": "肾上腺外副神经节细胞"
+    },
+    "C": {
+      "en": "Juxtaglomerular cells of the kidney",
+      "zh": "肾脏的球旁细胞"
+    },
+    "D": {
+      "en": "Zona fasciculata of the adrenals",
+      "zh": "肾上腺的束状带"
+    },
+    "E": {
+      "en": "Zona glomerulosa of the adrenals",
+      "zh": "肾上腺的球状带"
+    },
+    "F": {
+      "en": "Zona reticularis of the adrenals",
+      "zh": "肾上腺的网状带"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient's onset of hypertension at a young age is suggestive of a secondary underlying cause; his low plasma renin levels most likely indicate primary hyperaldosteronism (Conn syndrome), which is characterized by autonomous aldosterone secretion from the ZONA GLOMERULOSA of the adrenal cortex. Bilateral adrenal hyperplasia is the most common cause, followed by a unilateral adrenal adenoma.\n\nAldosterone, which is normally regulated by angiotensin II and K+ levels, stimulates reabsorption of sodium (Na+) and secretion of potassium (K+) and hydrogen (H+) in the renal collecting ducts. Excess aldosterone causes Na+ retention, hypertension, and feedback suppression of the renin-angiotensin system (ie, low renin activity). Some patients also develop metabolic alkalosis and HYPOKALEMIA. Symptomatic hypokalemia may cause muscle weakness, cramps, and, occasionally, rhabdomyolysis and cardiac arrhythmias.\n\nDespite increased Na+ reabsorption, extravascular volume overload (eg, peripheral edema) is rarely seen due to a phenomenon known as aldosterone escape. With aldosterone escape, increased intravascular volume increases pressure natriuresis and augments atrial natriuretic peptide release, thereby limiting net Na+ retention and extravascular volume overload. Hypernatremia is also not typically seen because the temporary increase in serum osmolality triggers a compensatory rise in antidiuretic hormone release.\n\n(Choices A and B) Pheochromocytomas are catecholamine-secreting tumors arising from the chromaffin cells of the adrenal medulla or extraadrenal sympathetic chain that typically present with severe hypertension. Pheochromocytomas stimulate the renin-angiotensin system due to high circulating catecholamine levels and are associated with tachycardia and symptoms of catecholamine excess (eg, sweating, palpitations, headache).\n\n(Choice C) Increased renin production by the juxtaglomerular apparatus leads to hypertension with elevated aldosterone levels. This typically occurs in the setting of renal artery stenosis due to decreased renal blood flow. However, this patient's renin activity is suppressed.\n\n(Choices D and F) Hypersecretion from cells of the zona fasciculata or zona reticularis would lead to Cushing syndrome or hyperandrogenism, respectively. Cushing syndrome can cause hypertension and hypokalemia but is usually associated with weight gain and a cushingoid body habitus (eg, central obesity, moon facies). Clinical manifestations of adrenal hyperandrogenism are typically minimal in men because androgen levels are already high due to testicular testosterone production. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "该患者年轻时起病的高血压提示潜在的继发病因；其低血浆肾素水平最有可能表明原发性醛固酮增多症（Conn综合征），其特征是肾上腺皮质球状带自主分泌醛固酮。双侧肾上腺增生是最常见的原因，其次是单侧肾上腺腺瘤。\n\n醛固酮通常受血管紧张素II和K+水平调节，它刺激肾集合管对钠（Na+）的重吸收以及钾（K+）和氢（H+）的分泌。醛固酮过多会导致Na+潴留、高血压，并反馈抑制肾素-血管紧张素系统（即，低肾素活性）。一些患者还会出现代谢性碱中毒和低钾血症。有症状的低钾血症可引起肌无力、痉挛，偶尔还会引起横纹肌溶解和心律失常。\n\n尽管Na+重吸收增加，但由于称为醛固酮逃逸的现象，很少出现血管外容量超负荷（例如，周围性水肿）。发生醛固酮逃逸时，血管内容量增加会增加压力性钠尿，并增强心房钠尿肽的释放，从而限制净Na+潴留和血管外容量超负荷。高钠血症通常也不会出现，因为血清渗透压的暂时性升高会触发抗利尿激素释放的代偿性升高。\n\n（选项A和B）嗜铬细胞瘤是由肾上腺髓质或肾上腺外交感神经链的嗜铬细胞产生的儿茶酚胺分泌肿瘤，通常表现为严重的高血压。嗜铬细胞瘤由于循环儿茶酚胺水平高而刺激肾素-血管紧张素系统，并与心动过速和儿茶酚胺过多的症状（例如，出汗、心悸、头痛）相关。\n\n（选项C）肾小球旁器产生的肾素增加导致高血压和醛固酮水平升高。这种情况通常发生在肾动脉狭窄的情况下，原因是肾血流量减少。然而，该患者的肾素活性受到抑制。\n\n（选项D和F）束状带或网状带细胞分泌过多分别会导致Cushing综合征或高雄激素血症。Cushing综合征可引起高血压和低钾血症，但通常与体重增加和Cushing样体征（例如，向心性肥胖、满月脸）相关。肾上腺雄激素过多的临床表现通常在男性中是最小的，因为雄激素水平由于睾丸睾酮的产生而已经很高。 {{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of primary hyperaldosteronism (Conn syndrome), its pathophysiology related to aldosterone excess, and the resulting clinical presentation of hypertension, hypokalemia, and low renin levels. It also requires differentiating Conn syndrome from other causes of hypertension, such as pheochromocytoma and Cushing's syndrome.\n\nTo solve this question, recognize the key findings of hypertension and muscle weakness with low renin levels, which strongly suggest primary hyperaldosteronism. Recall that aldosterone is produced in the zona glomerulosa of the adrenal cortex, making overactivity of this zone the most likely cause.",
+    "zh": "此题考察对原发性醛固酮增多症（Conn综合征）的知识，包括其与醛固酮过多的相关病理生理学，以及由此产生的高血压、低钾血症和低肾素水平的临床表现。它还需要将Conn综合征与其他高血压病因（如嗜铬细胞瘤和Cushing综合征）区分开来。\n\n要解决这个问题，需要识别高血压和肌无力伴低肾素水平的关键发现，这强烈提示原发性醛固酮增多症。回想一下，醛固酮是在肾上腺皮质的球状带中产生的，这使得该区域的过度活动成为最可能的原因。"
+  },
+  "tags": "Primary hyperaldosteronism; Conn syndrome; Hypertension; Hypokalemia; Low renin; Zona glomerulosa; Adrenal cortex; Endocrinology; Metabolic alkalosis",
+  "category": "Endo",
+  "question_id": "547",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Endo 23\\547",
+  "extracted_at": "2025-11-05T14:07:57.976327",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T17:41:41.309721",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

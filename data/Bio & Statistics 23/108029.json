@@ -1,0 +1,56 @@
+{
+  "question_stem": {
+    "en": "A researcher selects a random sample of 100 men age 18-24 and determines their mean serum total cholesterol is 180 mg/dL with a standard deviation of 40 mg/dL. According to national statistics, cholesterol levels for the population of men age 18-24 follow a normal (gaussian) distribution. Based on this information, approximately 50% of the men in the sample will have which of the following serum total cholesterol levels?",
+    "zh": "一名研究人员选取了100名18-24岁的男性作为随机样本，确定他们的平均血清总胆固醇为180 mg/dL，标准差为40 mg/dL。根据国家统计数据，18-24岁男性人群的胆固醇水平遵循正态（高斯）分布。根据这些信息，样本中大约50%的男性将具有以下哪种血清总胆固醇水平？"
+  },
+  "question": {
+    "en": "",
+    "zh": ""
+  },
+  "options": {
+    "A": {
+      "en": "100-260 mg/dL",
+      "zh": "100-260 mg/dL"
+    },
+    "B": {
+      "en": "<140 mg/dL or >220 mg/dL",
+      "zh": "<140 mg/dL 或 >220 mg/dL"
+    },
+    "C": {
+      "en": "140-220 mg/dL",
+      "zh": "140-220 mg/dL"
+    },
+    "D": {
+      "en": "<180 mg/dL",
+      "zh": "<180 mg/dL"
+    },
+    "E": {
+      "en": ">260 mg/dL",
+      "zh": ">260 mg/dL"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "A normal distribution refers to a symmetric, bell-shaped distribution pattern with a fixed proportion of observations lying within specific distances from the mean. For a normal distribution, mean equals median. The median divides a distribution of data in half, so for a normal distribution about 50% of observations lie below the mean and 50% of observations lie above the mean.\n\nIn this case, a researcher took a random sample of men age 18-24 and estimated their mean serum total cholesterol at 180 mg/dL with a standard deviation of 40 mg/dL. Therefore, approximately 50% of men age 18-24 in the sample will have serum total cholesterol levels <180 mg/dL.\n\n(Choices A, B, C, and E) According to the 68-95-99.7 rule for normal distributions, the distribution of serum total cholesterol levels should have the following pattern:\n\n*   68% of serum total cholesterol values will be within 1 SD from the mean, calculated as being between [180 – (1 × 40)] = 140 mg/dL and [180 + (1 × 40)] = 220 mg/dL, and (100% – 68%) = 32% will be <140 mg/dL or >220 mg/dL.\n*   95% of serum total cholesterol values will be within 2 SDs from the mean, calculated as being between [180 – (2 × 40)] = 100 mg/dL and [180 + (2 × 40)] = 260 mg/dL, and (100% – 95%) = 5% will be <100 mg/dL or >260 mg/dL.\n*   99.7% of serum total cholesterol will be within 3 SDs from the mean, calculated as being between [180 – (3 × 40)] = 60 mg/dL and [180 + (3 × 40)] = 300 mg/dL, and (100% – 99.7%) = 0.3% will be <60 mg/dL or >300 mg/dL.\n\nEducational objective:\n\nIn a normal distribution, the mean is equal to the median; 50% of observations lie below the mean and 50% of observations lie above the mean.",
+    "zh": "正态分布是指一种对称的钟形分布模式，其中固定比例的观察值位于与均值的特定距离内。对于正态分布，均值等于中位数。中位数将数据分布一分为二，因此对于正态分布，大约50%的观察值低于均值，50%的观察值高于均值。\n\n在这种情况下，一名研究人员选取了18-24岁男性的随机样本，并估计他们的平均血清总胆固醇为180 mg/dL，标准差为40 mg/dL。因此，样本中大约50%的18-24岁男性将具有<180 mg/dL的血清总胆固醇水平。\n\n（选项A、B、C和E）根据正态分布的68-95-99.7规则，血清总胆固醇水平的分布应具有以下模式：\n\n*   68%的血清总胆固醇值将在距均值1个标准差（SD）的范围内，计算为介于 [180 – (1 × 40)] = 140 mg/dL 和 [180 + (1 × 40)] = 220 mg/dL之间，并且(100% – 68%) = 32% 将小于140 mg/dL或大于220 mg/dL。\n*   95%的血清总胆固醇值将在距均值2个标准差（SD）的范围内，计算为介于 [180 – (2 × 40)] = 100 mg/dL 和 [180 + (2 × 40)] = 260 mg/dL之间，并且(100% – 95%) = 5% 将小于100 mg/dL或大于260 mg/dL。\n*   99.7%的血清总胆固醇值将在距均值3个标准差（SD）的范围内，计算为介于 [180 – (3 × 40)] = 60 mg/dL 和 [180 + (3 × 40)] = 300 mg/dL之间，并且(100% – 99.7%) = 0.3% 将小于60 mg/dL或大于300 mg/dL。\n\n教学目标：\n\n在正态分布中，均值等于中位数；50%的观察值低于均值，50%的观察值高于均值。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of normal distribution and its properties, particularly the relationship between the mean, median, and the distribution of values around the mean. It also tests the ability to apply the concept of standard deviation in a normal distribution.\n\nThe best approach is to recognize that in a normal distribution, the mean equals the median. Since the median divides the distribution in half, approximately 50% of observations lie below the mean. Therefore, the answer should be less than the mean cholesterol level.",
+    "zh": "此题考察对正态分布及其性质的理解，特别是均值、中位数以及围绕均值的数值分布之间的关系。它还测试了在正态分布中应用标准差概念的能力。\n\n最好的方法是认识到在正态分布中，均值等于中位数。由于中位数将分布一分为二，因此大约50%的观察值低于均值。因此，答案应该小于平均胆固醇水平。"
+  },
+  "tags": "Normal distribution; Biostatistics; Epidemiology; Standard deviation; Mean; Median; Cholesterol levels",
+  "category": "Bio",
+  "question_id": "108029",
+  "has_exhibits": true,
+  "exhibit_count": 2,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Bio & Statistics 23\\108029",
+  "extracted_at": "2025-11-05T10:27:08.576051",
+  "translated_at": "2025-11-07T15:44:08.916444",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

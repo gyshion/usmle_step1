@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 62-year-old man dies suddenly in his sleep. The patient had a history of type 2 diabetes mellitus and hypertension, and he smoked a pack of cigarettes daily for 25 years. His adherence to medical care was poor. Autopsy is performed, and a histologic section of his left ventricular myocardium is shown below: {{exhibit_1}}",
+    "zh": "一名62岁男性在睡梦中猝死。患者有2型糖尿病和高血压病史，并且每天吸一包香烟，持续25年。他对医疗护理的依从性很差。进行尸检，显示其左心室心肌的组织学切片如下：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following directly promotes the formation of the tissue indicated by the arrow?",
+    "zh": "以下哪项直接促进箭头所指组织的形成？"
+  },
+  "options": {
+    "A": {
+      "en": "Endothelium-derived relaxing factor",
+      "zh": "内皮源性舒张因子"
+    },
+    "B": {
+      "en": "Interferon-beta",
+      "zh": "干扰素β"
+    },
+    "C": {
+      "en": "Interleukin-8",
+      "zh": "白细胞介素-8"
+    },
+    "D": {
+      "en": "Transforming growth factor-beta",
+      "zh": "转化生长因子β"
+    },
+    "E": {
+      "en": "Tumor necrosis factor-alpha",
+      "zh": "肿瘤坏死因子α"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's autopsy shows a large area of **fibrosis** replacing myocardium, consistent with scar tissue from a resolved **myocardial infarction** (MI). Myocardial tissue damage due to ischemia initiates a series of changes that are analogous to cutaneous wound healing.\n\n*   Inflammation: Hours to days post-MI, neutrophils and macrophages remove necrotic tissue and release cytokines and growth factors that initiate tissue proliferation.\n*   Proliferation: Days to weeks post-MI, **transforming growth factor-beta (TGF-β)** and other anti-inflammatory cytokines downregulate the inflammatory response and stimulate **fibroblast** migration and proliferation, causing extensive type I and III collagen deposition.\n*   Remodeling: Weeks to months post-MI, TGF-β also stimulates production of matrix metalloproteinases (MMPs) that facilitate collagen remodeling (ie, fiber rearrangement) and crosslinking to form dense **scar tissue**.\n\nBecause cardiac myocytes are terminally differentiated and do not proliferate to a significant degree in response to injury, areas of extensive myocardial fibrosis do not regain the electrical properties of normal myocardium. Therefore, patients with large scars from previous MIs are at increased risk of **sudden death** due to arrhythmia.\n\n(Choice A) Endothelium-derived relaxing factor (ie, nitric oxide), causes vasodilation via stimulation of vascular smooth muscle relaxation. Although local synthesis of nitric oxide is increased post-MI, it contributes to reperfusion rather than fibrosis at the site of injury.\n\n(Choice B) Interferon-beta (IFN-β) is released by a variety of cells, including macrophages, and functions as an anti-inflammatory cytokine that reduces the formation of fibrotic tissue.\n\n(Choices C and E) Interleukin-8 and tumor necrosis factor-alpha (TNF-α) are proinflammatory cytokines that stimulate the recruitment and activation of other immune cells (eg, neutrophils). However, neither directly promotes fibrosis in a healing wound.\n\nEducational objective:\nAfter myocardial infarction, transforming growth factor-beta (TGF-β) reduces inflammation and promotes tissue remodeling due to fibroblast proliferation and collagen deposition, resulting in fibrosis in the area damaged by ischemia. Abnormal myocardium at the scar border can predispose patients to sudden death as a result of arrhythmia. {{exhibit_2}} {{exhibit_3}}",
+    "zh": "该患者的尸检显示大面积的**纤维化**取代了心肌，这与已解决的**心肌梗死** (MI) 形成的瘢痕组织一致。由于缺血导致的心肌组织损伤会引发一系列类似于皮肤伤口愈合的变化。\n\n*   炎症：MI 后数小时到数天，中性粒细胞和巨噬细胞清除坏死组织，并释放细胞因子和生长因子，启动组织增殖。\n*   增殖：MI 后数天到数周，**转化生长因子-β (TGF-β)** 和其他抗炎细胞因子下调炎症反应并刺激**成纤维细胞**迁移和增殖，导致大量I型和III型胶原沉积。\n*   重塑：MI 后数周到数月，TGF-β 还刺激基质金属蛋白酶 (MMPs) 的产生，从而促进胶原重塑（即纤维重新排列）和交联，形成致密的**瘢痕组织**。\n\n由于心肌细胞已分化到终末期，对损伤的反应不会出现显着的增殖，因此大面积心肌纤维化的区域不会恢复正常心肌的电学特性。因此，既往 MI 形成大瘢痕的患者发生**猝死**的风险增加，原因是心律失常。\n\n（选项A）内皮源性舒张因子（即一氧化氮）通过刺激血管平滑肌松弛引起血管舒张。尽管MI后局部一氧化氮的合成增加，但它有助于再灌注，而不是在损伤部位形成纤维化。\n\n（选项B）干扰素-β (IFN-β) 由多种细胞（包括巨噬细胞）释放，并作为抗炎细胞因子，可减少纤维化组织的形成。\n\n（选项 C 和 E）白细胞介素-8 和肿瘤坏死因子-α (TNF-α) 是促炎细胞因子，可刺激其他免疫细胞（例如中性粒细胞）的募集和活化。然而，两者都不能直接促进愈合伤口的纤维化。\n\n教育目标：\n心肌梗死后，转化生长因子-β (TGF-β) 减少炎症并促进组织重塑，这是由于成纤维细胞增殖和胶原沉积所致，从而导致缺血损伤区域的纤维化。瘢痕边界的异常心肌可使患者易于因心律失常而猝死。{{exhibit_2}} {{exhibit_3}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the wound healing process following myocardial infarction, specifically the role of transforming growth factor-beta (TGF-β) in promoting fibrosis and scar tissue formation. It also requires understanding of the other cytokines involved in the inflammatory and remodeling phases of wound healing.\n\nTo solve this question, identify the key process indicated by the arrow (fibrosis) and recall the factors that directly promote fibroblast proliferation and collagen deposition. Eliminate options that are primarily involved in inflammation or vasodilation.",
+    "zh": "此题考察对心肌梗死后伤口愈合过程的了解，特别是转化生长因子-β (TGF-β) 在促进纤维化和瘢痕组织形成中的作用。它还需要了解参与伤口愈合炎症和重塑阶段的其他细胞因子。\n\n要解决这个问题，确定箭头所指的关键过程（纤维化），并回忆直接促进成纤维细胞增殖和胶原沉积的因素。排除主要参与炎症或血管舒张的选项。"
+  },
+  "tags": "Myocardial infarction; Wound healing; Fibrosis; Transforming growth factor-beta; Cytokines; Cardiology; Pathology",
+  "category": "CVS",
+  "question_id": "15188",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\15188",
+  "extracted_at": "2025-11-05T11:56:53.831669",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:48:03.820167",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

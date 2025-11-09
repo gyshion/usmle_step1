@@ -1,0 +1,68 @@
+{
+  "question_stem": {
+    "en": "A 54-year-old man comes to the emergency department with pain and swelling in the right leg. The patient has no other medical problems and takes no medications. He has smoked a pack of cigarettes daily for the past 30 years. He is a business executive and just returned from an overseas trip. {{exhibit_1}} Physical examination shows pitting edema of the right leg and tenderness on deep palpation of the calf muscles. Peripheral pulses are symmetric and full. He is started on a medication that prolongs activated partial thromboplastin time and prothrombin time in a dose-dependent manner but has no effect on thrombin time. {{exhibit_2}} Which of the following agents was this patient most likely administered?",
+    "zh": "一名54岁男性来到急诊科，主诉右腿疼痛和肿胀。患者无其他疾病，未服用任何药物。他过去30年来每天吸一包香烟。他是一名商业主管，刚从海外旅行归来。{{exhibit_1}} 体格检查显示右腿凹陷性水肿，深部触诊腓肠肌时有压痛。周围脉搏对称且饱满。他开始服用一种药物，该药物以剂量依赖性方式延长活化部分凝血活酶时间 (APTT) 和凝血酶原时间 (PT)，但对凝血酶时间 (TT) 没有影响。{{exhibit_2}} 该患者最有可能被给予以下哪种药物？"
+  },
+  "question": {
+    "en": "Which of the following agents was this patient most likely administered?",
+    "zh": "该患者最有可能被给予以下哪种药物？"
+  },
+  "options": {
+    "A": {
+      "en": "Cyclooxygenase inhibitor",
+      "zh": "环氧合酶抑制剂"
+    },
+    "B": {
+      "en": "Direct factor VIIa inhibitor",
+      "zh": "直接因子VIIa抑制剂"
+    },
+    "C": {
+      "en": "Direct factor Xa inhibitor",
+      "zh": "直接因子Xa抑制剂"
+    },
+    "D": {
+      "en": "Direct thrombin inhibitor",
+      "zh": "直接凝血酶抑制剂"
+    },
+    "E": {
+      "en": "Unfractionated heparin",
+      "zh": "普通肝素"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "The patient presents with symptoms suggestive of deep vein thrombosis (DVT). The medication administered prolongs activated partial thromboplastin time (aPTT) and prothrombin time (PT) in a dose-dependent manner but has no effect on thrombin time (TT). {{exhibit_3}} This pattern of laboratory findings is characteristic of direct factor Xa inhibitors. Direct factor Xa inhibitors prolong aPTT and PT by inhibiting factor Xa, which is upstream of thrombin formation. They do not directly affect thrombin, hence no effect on TT. Unfractionated heparin prolongs aPTT and TT. Direct thrombin inhibitors prolong TT. Cyclooxygenase inhibitors affect platelet aggregation. Direct factor VIIa inhibitors are not commonly used and would primarily affect PT.",
+    "zh": "该患者的症状提示深静脉血栓形成 (DVT)。所用药物以剂量依赖性方式延长活化部分凝血活酶时间 (APTT) 和凝血酶原时间 (PT)，但对凝血酶时间 (TT) 没有影响。{{exhibit_3}} 这种实验室结果模式是直接因子Xa抑制剂的特征。直接因子Xa抑制剂通过抑制因子Xa（凝血酶形成的上游）来延长APTT和PT。它们不直接影响凝血酶，因此对TT没有影响。普通肝素延长APTT和TT。直接凝血酶抑制剂延长TT。环氧合酶抑制剂影响血小板聚集。直接因子VIIa抑制剂不常用，主要影响PT。"
+  },
+  "summary": {
+    "en": "A patient with suspected DVT is treated with a medication that prolongs aPTT and PT but not TT. This laboratory profile is indicative of a direct factor Xa inhibitor.",
+    "zh": "怀疑 DVT 的患者接受了延长 aPTT 和 PT 但不延长 TT 的药物治疗。这种实验室检查结果表明是直接因子 Xa 抑制剂。"
+  },
+  "tags": [
+    "DVT",
+    "Anticoagulation",
+    "Factor Xa inhibitor",
+    "Pharmacology",
+    "Internal Medicine"
+  ],
+  "category": "Blood",
+  "question_id": "2133",
+  "has_exhibits": true,
+  "exhibit_count": 3,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\2133",
+  "extracted_at": "2025-11-05T19:18:00.346366",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T16:31:28.602082",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

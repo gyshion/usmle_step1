@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 30-year-old man is brought to the emergency department due to high fever, chills, and rigors for 4 hours. He has no other symptoms. He was recently diagnosed with Hodgkin lymphoma and received his first cycle of chemotherapy 10 days ago. Temperature is 39.2 C (102.6 F), blood pressure is 90/40 mm Hg, pulse is 125/min, and respirations are 22/min. There is no evidence of skin rash or mucositis. The chest is clear to auscultation. The abdomen is soft and nontender. Perianal area is normal. Laboratory results are as follows:\n\nHemoglobin 11.1 g/dL\nWhite blood cells 700/mm³ with 20% neutrophils and 10% band forms\nPlatelets 90,000/mm³\n\nChest radiograph is normal. Urinalysis is normal.",
+    "zh": "一名30岁男性因高热、寒战和畏寒4小时被送入急诊科。他没有其他症状。他最近被诊断患有霍奇金淋巴瘤，并在10天前接受了第一个周期的化疗。体温为39.2°C (102.6°F)，血压为90/40 mm Hg，脉搏为125/min，呼吸为22/min。没有皮肤皮疹或黏膜炎的证据。胸部听诊清亮。腹部柔软且无压痛。肛周区域正常。实验室检查结果如下：\n\n血红蛋白11.1 g/dL\n白细胞700/mm³，其中中性粒细胞20%，杆状细胞10%\n血小板90,000/mm³\n\n胸部X光片正常。尿常规正常。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's current condition?",
+    "zh": "以下哪项最可能是该患者目前病情的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Activation of latent viral infection",
+      "zh": "潜伏病毒感染激活"
+    },
+    "B": {
+      "en": "Anaerobic bacterial infection",
+      "zh": "厌氧菌感染"
+    },
+    "C": {
+      "en": "Disseminated tuberculosis",
+      "zh": "播散性结核病"
+    },
+    "D": {
+      "en": "Gram-negative bacteremia",
+      "zh": "革兰氏阴性菌血症"
+    },
+    "E": {
+      "en": "Invasive fungal pathogen",
+      "zh": "侵袭性真菌病原体"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient undergoing chemotherapy has **neutropenic fever**, defined as a temperature >38.3 C (>101 F) and an **absolute neutrophil count <500/mm³** (ie, 700 leukocytes × [20% neutrophils +10% bands] = 210 neutrophils/mm³). Neutropenic fever without an identifiable source (eg, normal chest x-ray, normal urine culture, normal examination) is believed to be caused by translocation of endogenous bacteria into the bloodstream from **mucositis**, which results from chemotherapy-induced disruption of the gastrointestinal epithelium. Patients with severe neutropenia are at higher risk for **overwhelming bacterial infection** due to a blunted neutrophil-mediated inflammatory response.\n\nThis patient's **very rapid onset** (eg, 4 hours) of fever and signs of septic shock (eg, hypotension, tachycardia) is most consistent with a **gram-negative bacterial infection** (eg, *Pseudomonas aeruginosa*). Gram-negative infections are frequently identified as the causative pathogen of neutropenic fever and are associated with a **rapid clinical deterioration** due to the production of **endotoxins**, which stimulate the widespread release of proinflammatory mediators (eg, tumor necrosis factor) that results in hemodynamic decompensation. Gram-positive infections (eg, from indwelling catheters) also occur but tend to be less virulent with a slower onset and less severe course.\n\n(Choice A) Latent viral infections are typically from the family *Herpesviridae* (eg, herpes simplex virus 1, varicella zoster virus) and can be a source of neutropenic fever. However, skin findings (eg, ulceration of the oral mucosa, disseminated vesicles in multiple dermatomes) are usually present.\n\n(Choice B) Although anaerobic bacteria are part of the normal flora of the gastrointestinal tract, anaerobes are not typically identified as pathogens in patients with neutropenic fever unless the infection is polymicrobial (which is uncommon) or associated with abdominal surgery.\n\n(Choice C) Disseminated tuberculosis can be a cause of fever in an immunocompromised patient, but weight loss, fatigue, respiratory symptoms, and abnormal chest x-ray are typically present. In addition, the presentation is usually subacute over days to weeks (vs 4 hours).\n\n(Choice E) Invasive fungal infections can occur in neutropenic patients. However, they are typically slower growing (vs 4 hours) and are rarely the cause of an initial presentation of neutropenic fever. Instead, they are more commonly found in patients with persistent (eg, 7 days) or recurrent neutropenic fever who are at high risk (eg, increased number of chemotherapy cycles).\n\nEducational objective:\nPatients with neutropenic fever (ie, temperature >38.3 C [>101 F] and absolute neutrophil count <500/mm³) are at risk for **overwhelming bacterial infections**. The majority of severe infections that cause rapid clinical deterioration (eg, 4 hours) are caused by gram-negative organisms that produce **endotoxins**.",
+    "zh": "该接受化疗的患者患有**中性粒细胞减少性发热**，定义为体温>38.3°C (>101°F) 且**中性粒细胞绝对计数<500/mm³**（即，700个白细胞×[20%中性粒细胞+10%杆状细胞] = 210个中性粒细胞/mm³）。在没有可识别来源的情况下出现中性粒细胞减少性发热（例如，胸片正常，尿培养正常，体格检查正常），通常认为是由内源性细菌从**黏膜炎**转移到血流中引起的，而黏膜炎是化疗引起的胃肠道上皮细胞破坏的结果。由于中性粒细胞介导的炎症反应减弱，重度中性粒细胞减少症的患者发生**压倒性细菌感染**的风险更高。\n\n该患者**非常快速的起病**（例如，4小时）出现发热和脓毒性休克的体征（例如，低血压，心动过速）最符合**革兰氏阴性菌感染**（例如，*铜绿假单胞菌*）。革兰氏阴性菌感染经常被确定为中性粒细胞减少性发热的病原体，并且与**病情迅速恶化**有关，这是由于产生了**内毒素**，内毒素刺激了促炎介质（例如，肿瘤坏死因子）的广泛释放，从而导致血流动力学失代偿。革兰氏阳性菌感染（例如，来自留置导管）也会发生，但往往毒力较低，起病较慢，病程较轻。\n\n（选项A）潜伏病毒感染通常来自*疱疹病毒科*（例如，单纯疱疹病毒1型，水痘带状疱疹病毒），并且可能是中性粒细胞减少性发热的来源。然而，通常会出现皮肤表现（例如，口腔黏膜溃疡，多皮节播散性水疱）。\n\n（选项B）尽管厌氧菌是胃肠道正常菌群的一部分，但在患有中性粒细胞减少性发热的患者中，厌氧菌通常不被认为是病原体，除非感染是多菌感染（这种情况很少见）或与腹部手术相关。\n\n（选项C）播散性结核病可引起免疫功能低下的患者发热，但通常会出现体重减轻、疲劳、呼吸系统症状和胸片异常。此外，其表现通常为亚急性，持续数天到数周（而不是4小时）。\n\n（选项E）侵袭性真菌感染可发生在中性粒细胞减少的患者中。然而，它们的生长速度通常较慢（与4小时相比），并且很少是中性粒细胞减少性发热初始表现的原因。相反，它们更常见于持续性（例如，7天）或复发性中性粒细胞减少性发热的高危患者（例如，化疗周期增加）。\n\n教育目标：\n患有中性粒细胞减少性发热（即，体温>38.3°C [>101°F] 且中性粒细胞绝对计数<500/mm³）的患者有发生**压倒性细菌感染**的风险。大多数导致病情迅速恶化的严重感染（例如，4小时）是由产生**内毒素**的革兰氏阴性菌引起的。"
+  },
+  "summary": {
+    "en": "This question tests the ability to recognize neutropenic fever and its most likely cause in a patient undergoing chemotherapy. It requires knowledge of the common pathogens associated with rapid clinical deterioration in neutropenic patients. \n\nThe key to solving this question is identifying the neutropenia (low absolute neutrophil count) and the rapid onset of fever and septic shock. This points towards a gram-negative bacterial infection as the most likely cause due to the production of endotoxins and rapid clinical deterioration.",
+    "zh": "这个问题测试了识别正在接受化疗的患者的中性粒细胞减少性发热及其最可能病因的能力。它需要了解与中性粒细胞减少症患者快速临床恶化相关的常见病原体。\n\n解决这个问题的关键是确定中性粒细胞减少症（中性粒细胞绝对计数低）以及发热和脓毒性休克的快速发病。这表明革兰氏阴性菌感染是最可能的原因，这是由于内毒素的产生和病情快速恶化。"
+  },
+  "tags": "Neutropenic fever; Gram-negative bacteremia; Hodgkin lymphoma; Chemotherapy; Septic shock; Absolute neutrophil count; Infectious Diseases; Oncology; Pseudomonas aeruginosa",
+  "category": "Micro",
+  "question_id": "106465",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\106465",
+  "extracted_at": "2025-11-05T14:48:59.239216",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:04:17.277614",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

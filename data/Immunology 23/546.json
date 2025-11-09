@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 44-year-old man with diabetic nephropathy undergoes a renal transplant. One week later, he develops low-grade fever, body aches, and decreased urine output. Temperature is 37.2 C (99 F), blood pressure is 124/76 mm Hg, and pulse is 88/min. Physical examination shows mild tenderness over the graft on palpation. Serum creatinine is 2.2 mg/dL, an increase from 1.2 mg/dL two days ago. Arterial and venous Doppler studies reveal adequate graft perfusion. Graft biopsy demonstrates dense interstitial infiltration by mononuclear cells.",
+    "zh": "一名44岁患有糖尿病肾病的男性接受了肾移植。一周后，他出现低热、全身酸痛和尿量减少。体温为37.2°C（99°F），血压为124/76 mmHg，脉搏为88次/分。体格检查显示触诊时移植部位轻微压痛。血清肌酐为2.2 mg/dL，比两天前的1.2 mg/dL有所增加。动脉和静脉多普勒研究显示移植肾灌注充足。移植肾活检显示单核细胞密集浸润。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely cause of this patient's current condition?",
+    "zh": "以下哪项最可能是该患者目前病情的病因？"
+  },
+  "options": {
+    "A": {
+      "en": "Graft B-cell sensitization against host MHC antigens",
+      "zh": "移植肾B细胞对宿主MHC抗原的致敏"
+    },
+    "B": {
+      "en": "Graft T-cell sensitization against host MHC antigens",
+      "zh": "移植肾T细胞对宿主MHC抗原的致敏"
+    },
+    "C": {
+      "en": "Host B-cell sensitization against graft MHC antigens",
+      "zh": "宿主B细胞对移植肾MHC抗原的致敏"
+    },
+    "D": {
+      "en": "Host T-cell sensitization against graft MHC antigens",
+      "zh": "宿主T细胞对移植肾MHC抗原的致敏"
+    },
+    "E": {
+      "en": "Preformed antibodies against graft ABO antigens",
+      "zh": "针对移植肾ABO抗原的预存抗体"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient with impaired renal function within the first few weeks following renal transplant likely has ACUTE REJECTION. This process is mostly cell-mediated and results from sensitization of recipient T cells to donor graft MHC antigens (human leukocyte antigens). Humoral (antibody-mediated) immunity may also be involved in acute rejection, but it typically plays a smaller role.\n\nAcute rejection usually occurs within the first 6 months following transplantation. Patients often have an asymptomatic rise in serum creatinine, but they may also have low-grade fever, malaise, joint pains, and graft tenderness. Histology reveals a dense lymphocytic infiltrate sometimes accompanied by vascular inflammation. Acute rejection is typically reversible and usually treated with high-dose glucocorticoids. Chronic immunosuppression with a calcineurin inhibitor–based regimen (eg, tacrolimus plus mycophenolate and low-dose prednisone) helps prevent acute rejection episodes.\n\n(Choices A and B) Graft versus host disease (GVHD) primarily involves activation of donor T cells within grafted tissue against recipient (host) antigens. B cells are also involved to a lesser extent. GVHD typically occurs only when the recipient lacks a competent immune response (eg, in the setting of bone marrow transplant).\n\n(Choice C) Host B-cell sensitization against donor antigens results in a humoral antibody response and is sometimes involved in acute rejection. Histology is expected to show deposition of complement (eg, C4d), neutrophilic infiltrate, and necrotizing vasculitis; this patient's mononuclear (lymphocytic) infiltrate is consistent with a cell-mediated T-cell response. Although it can occur acutely, the humoral response tends to be more involved in chronic rejection, which occurs months to years following transplant.\n\n(Choice E) Preformed antibodies against graft ABO or other antigens can lead to hyperacute graft rejection. Because the antibodies are already present in the recipient circulation, there is rapid response against the donor graft, leading to arterial fibrinoid necrosis and vascular thrombosis with graft mottling and cyanosis. Thorough crossmatching prior to transplant makes hyperacute rejection a rare occurrence.\n\nEducational objective:\nOrgan rejection can be hyperacute, acute, or chronic. Acute rejection most often occurs within weeks or up to 6 months after transplant and is predominantly cell-mediated, involving sensitization of host T lymphocytes against donor MHC antigens. There is typically graft dysfunction with histology showing a dense, mononuclear (ie, lymphocytic) infiltrate.",
+    "zh": "该患者在肾移植后几周内出现肾功能损害，很可能患有急性排斥反应。这个过程主要由细胞介导，由受体T细胞对供体移植肾MHC抗原（人类白细胞抗原）的致敏引起。体液（抗体介导的）免疫也可能参与急性排斥反应，但通常作用较小。\n\n急性排斥反应通常发生在移植后的前6个月内。患者常出现无症状的血清肌酐升高，但也可能出现低热、不适、关节疼痛和移植肾压痛。组织学显示密集的淋巴细胞浸润，有时伴有血管炎症。急性排斥反应通常是可逆的，通常用大剂量糖皮质激素治疗。以钙调磷酸酶抑制剂为基础的方案（例如，他克莫司加霉酚酸酯和低剂量泼尼松）有助于预防急性排斥反应发作。\n\n（选项A和B）移植物抗宿主病（GVHD）主要涉及移植组织内供体T细胞对受体（宿主）抗原的激活。B细胞的参与程度也较低。GVHD通常仅在受体缺乏有效的免疫反应时发生（例如，在骨髓移植的情况下）。\n\n（选项C）宿主B细胞对供体抗原的致敏导致体液抗体反应，有时参与急性排斥反应。组织学预计会显示补体沉积（例如，C4d）、中性粒细胞浸润和坏死性血管炎；该患者的单核细胞（淋巴细胞）浸润与细胞介导的T细胞反应一致。虽然它可能急性发生，但体液反应往往更多地参与慢性排斥反应，发生在移植后数月至数年。\n\n（选项E）针对移植肾ABO或其他抗原的预存抗体可导致超急性移植肾排斥反应。由于抗体已存在于受体循环中，因此会对供体移植肾产生快速反应，导致动脉纤维蛋白样坏死和血管血栓形成，伴有移植肾斑驳和发绀。移植前的彻底交叉配型使超急性排斥反应成为一种罕见的现象。\n\n教学目标：\n器官排斥反应可分为超急性、急性或慢性。急性排斥反应最常发生在移植后数周或长达6个月内，主要由细胞介导，涉及宿主T淋巴细胞对供体MHC抗原的致敏。通常存在移植肾功能障碍，组织学显示密集的单核细胞（即淋巴细胞）浸润。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of the different types of transplant rejection (hyperacute, acute, chronic) and their underlying mechanisms, specifically focusing on acute rejection and its cell-mediated nature. It also assesses the ability to differentiate acute rejection from other types of rejection based on the clinical presentation and biopsy findings.\n\nTo solve this question, recognize the timeframe (one week post-transplant) and the biopsy findings (dense mononuclear infiltrate), which are characteristic of acute rejection. Rule out hyperacute rejection (occurs within minutes to hours) and chronic rejection (occurs months to years). Consider the cell-mediated nature of acute rejection to identify the correct answer.",
+    "zh": "本题测试对不同类型移植排斥反应（超急性、急性、慢性）及其潜在机制的了解，特别侧重于急性排斥反应及其细胞介导的性质。它还评估了根据临床表现和活检结果区分急性排斥反应与其他类型排斥反应的能力。\n\n要解决这个问题，需要认识到时间范围（移植后一周）和活检结果（密集的单核细胞浸润），这些都是急性排斥反应的特征。排除超急性排斥反应（在数分钟到数小时内发生）和慢性排斥反应（在数月到数年内发生）。考虑急性排斥反应的细胞介导性质以确定正确答案。"
+  },
+  "tags": "Renal transplant; Acute rejection; T-cell sensitization; MHC antigens; Graft biopsy; Cell-mediated immunity; Immunosuppression; Calcineurin inhibitors; Glucocorticoids; Nephrology",
+  "category": "Immunology",
+  "question_id": "546",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\546",
+  "extracted_at": "2025-11-05T14:45:15.870354",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:02:43.830303",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 42-year-old woman comes to the office due to several months of episodic shortness of breath and cough. The patient has a history of migraines and occasionally takes acetaminophen. She is a school teacher and does not use tobacco, alcohol, or illicit drugs. Temperature is 36.1 C (97 F), blood pressure is 110/80 mm Hg, and pulse is 84/min. Pulse oximetry shows 96% on room air. Lung examination and chest x-ray are normal. Spirometry shows that FEV1 is 71% of the predicted value. Sputum analysis shows predominant eosinophils.",
+    "zh": "一名42岁女性因数月来阵发性呼吸困难和咳嗽就诊。患者有偏头痛病史，偶尔服用对乙酰氨基酚。她是一名教师，不吸烟、不饮酒、不吸毒。体温36.1°C (97°F)，血压110/80 mmHg，脉搏84次/分。脉搏血氧饱和度显示在室内空气中为96%。肺部检查和胸部X线检查均正常。肺活量测定显示FEV1为预测值的71%。痰液分析显示嗜酸性粒细胞占优势。"
+  },
+  "question": {
+    "en": "Exposure to which of the following is most closely associated with this patient's symptoms?",
+    "zh": "暴露于以下哪一项与该患者的症状最相关？"
+  },
+  "options": {
+    "A": {
+      "en": "Acetaminophen",
+      "zh": "对乙酰氨基酚"
+    },
+    "B": {
+      "en": "Gliadin-containing grains",
+      "zh": "含麦醇溶蛋白的谷物"
+    },
+    "C": {
+      "en": "Histoplasma microconidia",
+      "zh": "组织胞浆菌微小分生孢子"
+    },
+    "D": {
+      "en": "House dust mites",
+      "zh": "室内尘螨"
+    },
+    "E": {
+      "en": "Shellfish and other seafood",
+      "zh": "贝类和其他海鲜"
+    },
+    "F": {
+      "en": "Thermophilic actinomycetes",
+      "zh": "嗜热放线菌"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "This patient's intermittent respiratory symptoms (eg, dyspnea, cough) in the setting of a normal chest x-ray, sputum eosinophils, and reduced FEV1 (<80% predicted) are highly suggestive of asthma. Asthma is a reversible obstructive pulmonary disease characterized by bronchial hyperresponsiveness to various triggers, such as exercise, cold air, respiratory infection, and exposure to inhaled allergens. Common aeroallergens include dust mites, cockroaches, pet dander, mold, and pollen. In sensitive individuals, allergens promote bronchospasm and airway inflammation by interacting with IgE bound to pulmonary mast cells; subsequent mast cell activation leads to the release of inflammatory mediators (eg, histamine, prostaglandins, leukotrienes) and recruitment of inflammatory cells, particularly eosinophils. Therefore, allergen avoidance is an important preventive measure for patients with asthma. {{exhibit_1}}\n\n(Choice A) Aspirin and other nonsteroidal anti-inflammatory drugs that inhibit cyclooxygenase can precipitate asthma attacks due to leukotriene overproduction in the airways. Acetaminophen is only a weak inhibitor of cyclooxygenase, and although some evidence suggests an increased incidence of asthma in patients with frequent acetaminophen use, a clear association has not been established.\n\n(Choice B) Celiac disease (gluten-sensitive enteropathy) is caused by antibodies to gliadin, a gluten protein found in wheat. Patients classically have signs/symptoms of malabsorption (eg, diarrhea, steatorrhea, weight loss, nutrient/vitamin deficiencies).\n\n(Choice C) Although Aspergillus molds are ubiquitous in the environment and are a common trigger of asthma symptoms, Histoplasma mold is a relatively uncommon trigger. Aspergillus molds can also cause allergic bronchopulmonary aspergillosis, a chronic allergic lung condition that typically affects patients with asthma or cystic fibrosis.\n\n(Choice E) Hypersensitivity to shellfish or other seafood usually presents with urticaria, angioedema, and/or anaphylaxis immediately after food consumption. Food is rarely an inciting factor for asthma. Most commonly, food-related asthma is the result of added preservatives, such as sulfites.\n\n(Choice F) Inhalational exposure to thermophilic actinomycetes species is classically associated with hypersensitivity pneumonitis in farmers (farmer's lung). Patients typically develop respiratory and systemic symptoms (eg, fever, headache, malaise) after exposure to moldy hay or contaminated compost.",
+    "zh": "该患者在胸部X线检查正常、痰液嗜酸性粒细胞增多、FEV1降低（<预测值的80%）的情况下出现间歇性呼吸系统症状（如呼吸困难、咳嗽），高度提示哮喘。哮喘是一种可逆性气道阻塞性疾病，其特征在于支气管对各种诱因的反应过度，例如运动、冷空气、呼吸道感染和吸入过敏原。常见的气传过敏原包括尘螨、蟑螂、宠物皮屑、霉菌和花粉。在敏感个体中，过敏原通过与结合于肺部肥大细胞的IgE相互作用，促进支气管痉挛和气道炎症；随后的肥大细胞激活导致炎症介质（如组胺、前列腺素、白三烯）的释放和炎症细胞的募集，特别是嗜酸性粒细胞。因此，避免过敏原是哮喘患者的重要预防措施。{{exhibit_1}}\n\n(选项A) 阿司匹林和其他抑制环氧合酶的非甾体抗炎药可因气道中白三烯过度产生而诱发哮喘发作。对乙酰氨基酚仅为环氧合酶的弱抑制剂，尽管有证据表明频繁使用对乙酰氨基酚的患者哮喘发病率增加，但尚未建立明确的关联。\n\n(选项B) 乳糜泻（麸质敏感性肠病）是由针对麦醇溶蛋白（一种存在于小麦中的麸质蛋白）的抗体引起的。患者通常有吸收不良的体征/症状（如腹泻、脂肪泻、体重减轻、营养/维生素缺乏）。\n\n(选项C) 虽然曲霉菌在环境中无处不在，是哮喘症状的常见诱因，但组织胞浆菌霉菌是一种相对不常见的诱因。曲霉菌霉菌也可引起过敏性支气管肺曲霉病，这是一种慢性过敏性肺部疾病，通常影响哮喘或囊性纤维化患者。\n\n(选项E) 对贝类或其他海鲜的超敏反应通常表现为荨麻疹、血管性水肿和/或食物摄入后立即发生的过敏性休克。食物很少是哮喘的诱因。最常见的是，与食物相关的哮喘是由于添加的防腐剂（如亚硫酸盐）引起的。\n\n(选项F) 吸入性暴露于嗜热放线菌与农民的超敏性肺炎（农民肺）有关。患者通常在暴露于发霉的干草或受污染的堆肥后出现呼吸系统和全身症状（如发烧、头痛、不适）。"
+  },
+  "summary": {
+    "en": "This question tests the knowledge of asthma triggers and the clinical presentation of asthma. It assesses the ability to identify common inhaled allergens associated with asthma exacerbations based on patient history and findings such as sputum eosinophils and reduced FEV1. \n\nTo solve this question, consider the patient's symptoms (shortness of breath, cough, eosinophils, reduced FEV1) and normal chest x-ray, which point towards asthma. Then, identify the most common inhaled allergens that trigger asthma, such as dust mites, cockroaches, pet dander, mold, and pollen.",
+    "zh": "本题考察对哮喘诱因和哮喘临床表现的了解。它评估根据病史和发现（如痰液嗜酸性粒细胞和FEV1降低）识别与哮喘加重相关的常见吸入过敏原的能力。\n\n要解决这个问题，请考虑患者的症状（呼吸短促、咳嗽、嗜酸性粒细胞、FEV1降低）和正常的胸部X线检查，这些都指向哮喘。然后，确定最常见的诱发哮喘的吸入过敏原，如尘螨、蟑螂、宠物皮屑、霉菌和花粉。"
+  },
+  "tags": "Asthma; Inhaled allergens; Dust mites; Respiratory symptoms; FEV1; Sputum eosinophils; Pulmonary disease; Bronchial hyperresponsiveness; Allergy",
+  "category": "Chest",
+  "question_id": "1925",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\1925",
+  "extracted_at": "2025-11-05T11:42:07.366859",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:37:24.638313",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

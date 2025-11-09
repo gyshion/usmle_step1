@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 39-year-old woman is brought to the emergency department after her husband found her confused. The patient was unable to answer questions about why she did not go to work that day and could not remember the day of the week. She has a history of bipolar disorder and has taken the same dose of Lithium for the past 10 years. Over the past week, the patient started taking several daily doses of a new medication following a dental extraction. Yesterday, she felt nauseated and vomited twice, and earlier today, she started having diarrhea. Vital signs are within normal limits. The patient is alert and oriented to self only. The abdomen is soft and nontender with increased bowel sounds. Coarse tremors are noted in the upper extremities. Deep tendon reflexes are 2+ in the bilateral extremities. Gait is mildly ataxic. A drug interaction involving which of the following medications is most likely causing this patient's symptoms?",
+    "zh": "一名39岁的女性因意识模糊被丈夫送往急诊科。患者无法回答关于她那天为什么没去上班的问题，也记不起星期几。她有双相情感障碍病史，并且在过去10年中一直服用相同剂量的锂盐。在过去的一周里，患者在拔牙后开始每天服用几次新的药物。昨天，她感到恶心并呕吐了两次，今天早些时候，她开始腹泻。生命体征在正常范围内。患者仅对自身情况有意识和定向。腹部柔软且无压痛，肠鸣音增强。观察到上肢粗大震颤。双侧肢体深腱反射为2+。步态轻度共济失调。涉及以下哪种药物的相互作用最有可能导致患者出现这些症状？"
+  },
+  "question": {
+    "en": "A drug interaction involving which of the following medications is most likely causing this patient's symptoms?",
+    "zh": "涉及以下哪种药物的相互作用最有可能导致患者出现这些症状？"
+  },
+  "options": {
+    "A": {
+      "en": "Acetaminophen",
+      "zh": "对乙酰氨基酚"
+    },
+    "B": {
+      "en": "Ibuprofen",
+      "zh": "布洛芬"
+    },
+    "C": {
+      "en": "Ondansetron",
+      "zh": "昂丹司琼"
+    },
+    "D": {
+      "en": "Prednisone",
+      "zh": "泼尼松"
+    },
+    "E": {
+      "en": "Tramadol",
+      "zh": "曲马多"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "Lithium, a mood stabilizer used to treat bipolar disorder, has a narrow therapeutic index and is excreted by the kidneys. As a result, drugs or medical conditions that affect kidney function or compete with Lithium for clearance may interfere with lithium excretion and lead to toxicity. This patient's acute gastrointestinal upset followed by the development of neurologic symptoms (ie, confusion, coarse tremors, ataxia) is consistent with LITHIUM TOXICITY.\n\nThe most likely cause of lithium toxicity in this patient is a DRUG INTERACTION with a nonsteroidal anti-inflammatory drug (NSAID), such as ibuprofen. NSAIDs decrease renal blood flow and lithium clearance, increasing serum lithium levels. Other drugs that increase lithium levels and the risk for toxicity include THIAZIDE DIURETICS, ACE INHIBITORS, TETRACYCLINES, and METRONIDAZOLE. Lithium levels should be monitored closely in patients taking these medications.\n\n(Choices A, C, and E) Acetaminophen, ondansetron (5-HT3 antagonist), and tramadol (opioid agonist) do not impair renal clearance of lithium and therefore are not associated with an increased risk for lithium toxicity.\n\n(Choice D) Although prednisone can precipitate neuropsychiatric symptoms (eg, confusion, emotional lability, akathisia), it does not increase the risk for lithium toxicity because it does not interfere with kidney function or lithium clearance.",
+    "zh": "锂盐是一种用于治疗双相情感障碍的情绪稳定剂，其治疗指数范围窄，并通过肾脏排泄。因此，影响肾功能或与锂竞争清除的药物或医学状况可能会干扰锂的排泄并导致毒性。该患者的急性胃肠道不适，随后出现神经系统症状（如意识模糊、粗大震颤、共济失调），与锂中毒一致。\n\n该患者锂中毒最可能的原因是与非甾体抗炎药 (NSAID)（如布洛芬）的药物相互作用。NSAID 降低肾血流量和锂的清除率，从而增加血清锂水平。其他增加锂水平和中毒风险的药物包括噻嗪类利尿剂、ACE 抑制剂、四环素和甲硝唑。服用这些药物的患者应密切监测锂水平。\n\n（选项 A、C 和 E）对乙酰氨基酚、昂丹司琼 (5-HT3 受体拮抗剂) 和曲马多（阿片类激动剂）不会损害锂的肾脏清除，因此与锂中毒风险增加无关。\n\n（选项 D）虽然泼尼松可引起神经精神症状（如意识模糊、情绪不稳、静坐不能），但它不会增加锂中毒的风险，因为它不会干扰肾功能或锂的清除。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of LITHIUM TOXICITY, specifically its causes, clinical features, and drug interactions. It assesses the ability to recognize the signs and symptoms of lithium toxicity and identify medications that can precipitate this condition.\n\nTo solve this question, one must first identify the signs and symptoms suggestive of lithium toxicity. Then, consider the patient's medication history and identify potential drug interactions that can lead to increased lithium levels, focusing on medications that affect renal function or compete for lithium excretion.",
+    "zh": "此问题测试对锂中毒的理解，特别是其病因、临床特征和药物相互作用。它评估识别锂中毒的体征和症状以及确定可诱发此病症的药物的能力。\n\n要解决这个问题，首先必须确定提示锂中毒的体征和症状。然后，考虑患者的用药史，并确定可能导致锂水平升高的潜在药物相互作用，重点关注影响肾功能或竞争锂排泄的药物。"
+  },
+  "tags": "Lithium toxicity; Bipolar disorder; NSAIDs; Drug interaction; Renal function; Pharmacology; Psychiatric Behavioral & Substance Use Disorder",
+  "category": "Psychiatry",
+  "question_id": "15388",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Psychiatry 23\\15388",
+  "extracted_at": "2025-11-05T19:49:29.449408",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:53:18.297605",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

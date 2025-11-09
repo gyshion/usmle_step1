@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "An 18-year-old woman collapsed while practicing for a marathon in hot, humid weather. The patient subsequently vomited 3 times and had a tonic-clonic seizure. She has no chronic medical conditions and takes no medications. The patient does not use alcohol or illicit drugs. Temperature is 40.8 C (105.4 F), blood pressure is 90/60 mm Hg, pulse is 130/min, and respirations are 22/min. The patient is profusely sweating and is confused. Pupils are sluggishly reactive to light. Cardiopulmonary examination reveals clear lungs and normal heart sounds. Laboratory results are as follows: {{exhibit_1}}",
+    "zh": "一名18岁女性在炎热、潮湿的天气中练习马拉松时晕倒。患者随后呕吐3次，并出现阵挛-强直性癫痫发作。她没有慢性疾病，也没有服用药物。患者不饮酒，也不使用违禁药物。体温为40.8°C（105.4°F），血压为90/60 mmHg，脉搏为130次/分，呼吸为22次/分。患者大汗淋漓且意识模糊。瞳孔对光反射迟缓。心肺检查显示肺部清晰，心音正常。实验室检查结果如下：{{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following sets of hematologic findings is most likely to be present in this patient?",
+    "zh": "该患者最有可能出现以下哪组血液学检查结果？"
+  },
+  "options": {
+    "A": {
+      "en": "Fibrinolysis: ↓; Thrombin production/generation: -; Plasmin generation: -",
+      "zh": "纤维蛋白溶解：↓；凝血酶生成：-；纤溶酶生成：-"
+    },
+    "B": {
+      "en": "Fibrinolysis: ↓; Thrombin production/generation: ↓; Plasmin generation: ↑",
+      "zh": "纤维蛋白溶解：↓；凝血酶生成：↓；纤溶酶生成：↑"
+    },
+    "C": {
+      "en": "Fibrinolysis: ↓; Thrombin production/generation: ↑; Plasmin generation: ↑",
+      "zh": "纤维蛋白溶解：↓；凝血酶生成：↑；纤溶酶生成：↑"
+    },
+    "D": {
+      "en": "Fibrinolysis: ↓; Thrombin production/generation: ↑; Plasmin generation: ↓",
+      "zh": "纤维蛋白溶解：↓；凝血酶生成：↑；纤溶酶生成：↓"
+    },
+    "E": {
+      "en": "Fibrinolysis: ↑; Thrombin production/generation: ↑; Plasmin generation: ↑",
+      "zh": "纤维蛋白溶解：↑；凝血酶生成：↑；纤溶酶生成：↑"
+    },
+    "F": {
+      "en": "Fibrinolysis: -; Thrombin production/generation: -; Plasmin generation: ↓",
+      "zh": "纤维蛋白溶解：-；凝血酶生成：-；纤溶酶生成：↓"
+    }
+  },
+  "correct_answer": "E",
+  "explanation": {
+    "en": "This patient with extreme hyperthermia and seizures has exertional heat stroke, a life-threatening multisystem disorder caused by inadequate body heat dissipation. Severe hyperthermia increases tissue oxygen demand and metabolic rate and shunts blood away from the central organs (eg, brain, kidneys, liver, GI tract) to skin to dissipate heat. This can lead to tissue ischemia/necrosis and the release of procoagulant proteins (eg, tissue factor), which can trigger DISSEMINATED INTRAVASCULAR COAGULATION (DIC).\n\nDIC is marked by the excessive activation of the extrinsic (tissue factor) coagulation cascade, leading to the generation of thrombin and cross-linked fibrin clots. Fibrinolysis is then activated to clear the intravascular thrombi; plasminogen is converted to plasmin, which cuts the cross-linked fibrin-fibers and generates fibrin-degradation products (eg, elevated D-dimer). Other anticoagulant proteins (eg, protein C, protein S) are also rapidly consumed.\n\nPatients with acute DIC usually have bleeding (eg, oozing from venipuncture sites) and end organ damage (eg, confusion, lung injury, renal insufficiency): laboratory studies are diagnostic and show thrombocytopenia (due to consumption of platelets) and prolonged PT/PTT (due to consumption of coagulation factors).\n\nEducational objective:\nDisseminated intravascular coagulation is marked by widespread activation of the coagulation cascade, leading to excessive thrombin production and formation of microthrombi. Subsequent conversion of plasminogen to plasmin results in increased fibrinolysis to clear the thrombi. Laboratory studies show a consumption of clotting factors (prolonged PT/PTT) and platelets (thrombocytopenia) and signs of excessive fibrinolysis (eg, elevated D-dimer).",
+    "zh": "该患者出现极度高热和癫痫发作，患有劳力性中暑，这是一种危及生命的多系统疾病，由机体散热不足引起。严重的高热会增加组织耗氧量和代谢率，并将血液从中央器官（如大脑、肾脏、肝脏、胃肠道）分流到皮肤以散热。这可导致组织缺血/坏死，并释放促凝血蛋白（如组织因子），进而引发弥散性血管内凝血（DIC）。\n\nDIC的特征是外源性（组织因子）凝血级联反应过度激活，导致凝血酶生成和交联纤维蛋白凝块的形成。然后激活纤维蛋白溶解以清除血管内血栓；纤溶酶原转化为纤溶酶，纤溶酶切割交联的纤维蛋白纤维并产生纤维蛋白降解产物（例如，D-二聚体升高）。其他抗凝血蛋白（例如，蛋白C，蛋白S）也会迅速消耗。\n\n患有急性DIC的患者通常有出血（例如，静脉穿刺部位渗出）和终末器官损伤（例如，意识模糊、肺损伤、肾功能不全）：实验室研究具有诊断意义，显示血小板减少症（由于血小板消耗）和PT/PTT延长（由于凝血因子消耗）。\n\n教育目标：\n弥散性血管内凝血的特点是凝血级联反应广泛激活，导致凝血酶过度生成和微血栓形成。随后，纤溶酶原转化为纤溶酶，导致纤维蛋白溶解增加，以清除血栓。实验室研究显示凝血因子（PT/PTT延长）和血小板（血小板减少症）的消耗，以及纤维蛋白溶解过度的迹象（例如，D-二聚体升高）。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of disseminated intravascular coagulation (DIC) pathophysiology and expected hematologic findings. It requires understanding the coagulation cascade, fibrinolysis, and the consumption of clotting factors in DIC.\n\nTo solve this question, recognize the clinical scenario suggestive of DIC (heat stroke, seizures, confusion, thrombocytopenia, prolonged PT/PTT). Then, recall that DIC involves increased thrombin production, plasmin generation, and fibrinolysis due to the widespread activation of the coagulation cascade.",
+    "zh": "本题考察对弥散性血管内凝血（DIC）的病理生理学和预期血液学检查结果的了解。它要求理解凝血级联反应、纤维蛋白溶解以及DIC中凝血因子的消耗。\n\n要解决这个问题，需要认识到提示DIC的临床情况（中暑、癫痫发作、意识模糊、血小板减少症、PT/PTT延长）。然后，回想一下，由于凝血级联反应的广泛激活，DIC涉及凝血酶生成增加、纤溶酶生成增加和纤维蛋白溶解增加。"
+  },
+  "tags": "Disseminated intravascular coagulation; DIC; Heat stroke; Coagulation cascade; Fibrinolysis; Thrombocytopenia; PT; PTT; Hematology; Critical care",
+  "category": "Blood",
+  "question_id": "16442",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Blood 23\\16442",
+  "extracted_at": "2025-11-05T13:29:26.531332",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:28:45.578999",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

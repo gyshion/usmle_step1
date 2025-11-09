@@ -1,0 +1,62 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old woman is brought to the emergency department after having a tonic-clonic seizure. She has a history of epilepsy and takes phenytoin. She does not use tobacco, alcohol, or recreational drugs. Physical examination is unremarkable. Laboratory studies show a lower than normal plasma phenytoin level. This patient most likely recently started taking which of the following medications?",
+    "zh": "一名 23 岁女性因强直-阵挛性癫痫发作被送往急诊科。她有癫痫病史并服用苯妥英钠。她不使用烟草、酒精或娱乐性药物。体格检查无特殊发现。实验室研究显示血浆苯妥英钠水平低于正常值。该患者最近最有可能开始服用以下哪种药物？"
+  },
+  "question": {
+    "en": "This patient most likely recently started taking which of the following medications?",
+    "zh": "该患者最近最有可能开始服用以下哪种药物？"
+  },
+  "options": {
+    "A": {
+      "en": "Amoxicillin",
+      "zh": "阿莫西林"
+    },
+    "B": {
+      "en": "Rifampin",
+      "zh": "利福平"
+    },
+    "C": {
+      "en": "Fluconazole",
+      "zh": "氟康唑"
+    },
+    "D": {
+      "en": "Cimetidine",
+      "zh": "西咪替丁"
+    },
+    "E": {
+      "en": "Omeprazole",
+      "zh": "奥美拉唑"
+    },
+    "F": {
+      "en": "Oral contraceptives",
+      "zh": "口服避孕药"
+    }
+  },
+  "correct_answer": "B",
+  "explanation": {
+    "en": "The patient has a history of epilepsy and is taking phenytoin. She presented with a tonic-clonic seizure and has a lower than normal plasma phenytoin level. This suggests that her phenytoin is being metabolized more rapidly, leading to subtherapeutic levels. Phenytoin is metabolized by hepatic P450 oxidase enzymes. Drugs that induce these enzymes will increase the rate of phenytoin metabolism, leading to lower plasma levels. The provided table lists various cytochrome P450 (CYP450) interactions. Rifampin is listed as an inducer of CYP450 enzymes. Therefore, if the patient recently started taking rifampin, it would induce the metabolism of phenytoin, causing her plasma levels to drop and potentially leading to a seizure.\n\n(Choice A) Amoxicillin is an antibiotic and does not typically affect hepatic metabolism of phenytoin.\n(Choices C, D, and E) Fluconazole, cimetidine, and omeprazole are listed as inhibitors of P450 enzymes. Inhibitors would decrease the metabolism of phenytoin, leading to higher plasma levels, not lower levels.\n(Choice F) Oral contraceptives are affected by P450 enzymes, but they are not listed as inducers or inhibitors of the enzymes that metabolize phenytoin. While phenytoin can affect the efficacy of oral contraceptives, the reverse is not typically the primary mechanism for a decrease in phenytoin levels.\n\nKey concepts: PHENYTOIN METABOLISM; CYP450 INDUCERS; DRUG INTERACTIONS. Phenytoin metabolism is dose-dependent and mediated by CYP450 enzymes. Drugs that induce CYP450 enzymes, such as rifampin, increase phenytoin metabolism and decrease its serum concentration, potentially leading to loss of seizure control. Conversely, CYP450 inhibitors, such as fluconazole, cimetidine, and omeprazole, decrease phenytoin metabolism and increase its serum concentration, increasing the risk of toxicity.",
+    "zh": "患者有癫痫病史并正在服用苯妥英钠。她表现为强直-阵挛性癫痫发作，并且血浆苯妥英钠水平低于正常值。这表明她的苯妥英钠被代谢得更快，导致低于治疗水平。苯妥英钠由肝脏 P450 氧化酶代谢。诱导这些酶的药物将增加苯妥英钠的代谢速率，从而导致血浆水平降低。提供的表格列出了各种细胞色素 P450 (CYP450) 相互作用。利福平被列为 CYP450 酶的诱导剂。因此，如果患者最近开始服用利福平，它将诱导苯妥英钠的代谢，导致她的血浆水平下降，并可能导致癫痫发作。\n\n(选项 A) 阿莫西林是一种抗生素，通常不会影响苯妥英钠的肝脏代谢。\n(选项 C、D 和 E) 氟康唑、西咪替丁和奥美拉唑被列为 P450 酶的抑制剂。抑制剂会降低苯妥英钠的代谢，导致血浆水平升高，而不是降低水平。\n(选项 F) 口服避孕药受 P450 酶的影响，但它们未被列为代谢苯妥英钠的酶的诱导剂或抑制剂。虽然苯妥英钠会影响口服避孕药的疗效，但反之通常不是苯妥英钠水平降低的主要机制。\n\n关键概念：苯妥英钠代谢；CYP450 诱导剂；药物相互作用。苯妥英钠的代谢是剂量依赖性的，并由 CYP450 酶介导。诱导 CYP450 酶的药物（如利福平）会增加苯妥英钠的代谢并降低其血清浓度，从而可能导致癫痫发作控制的丧失。相反，CYP450 抑制剂（如氟康唑、西咪替丁和奥美拉唑）会降低苯妥英钠的代谢并增加其血清浓度，从而增加毒性风险。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of drug interactions, specifically how other medications can affect the metabolism of phenytoin, a common antiepileptic drug. It assesses knowledge of CYP450 enzyme inducers and inhibitors and their clinical consequences.\n\nTo solve this question, one must identify that a low phenytoin level in a patient with epilepsy suggests increased metabolism. Then, by reviewing the provided table of CYP450 interactions, the clinician should identify which of the listed medications is a known inducer of the enzymes responsible for phenytoin metabolism. Rifampin is a potent inducer, explaining the decreased phenytoin level and subsequent seizure.",
+    "zh": "此问题测试对药物相互作用的理解，特别是其他药物如何影响苯妥英钠（一种常见的抗癫痫药）的代谢。它评估对 CYP450 酶诱导剂和抑制剂及其临床后果的了解。\n\n要解决这个问题，必须确定癫痫患者的苯妥英钠水平低表明代谢增加。然后，通过查看提供的 CYP450 相互作用表，临床医生应确定所列药物中哪一种是已知负责苯妥英钠代谢的酶的诱导剂。利福平是一种强效诱导剂，解释了苯妥英钠水平降低和随后的癫痫发作。"
+  },
+  "tags": "Phenytoin; Epilepsy; Drug interactions; CYP450 enzymes; Enzyme inducers; Enzyme inhibitors; Rifampin; Fluconazole; Cimetidine; Omeprazole; Oral contraceptives; Pharmacokinetics; Seizures",
+  "category": "Neuro",
+  "question_id": "351",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Neuro 24\\351",
+  "extracted_at": "2025-11-05T19:39:59.812916",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:40:28.580755",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

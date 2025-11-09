@@ -1,0 +1,65 @@
+{
+  "question_stem": {
+    "en": "A 72-year-old woman comes to the office due to a persistent cough over the last 2 months that is occasionally associated with scant, white sputum. She has also lost 4.5 kg (10 lb) since the onset of her symptoms. The patient is an ex-smoker with a 25-pack-year history. She was diagnosed with mild chronic obstructive pulmonary disease several years ago, and she uses albuterol as needed for episodes of wheezing and shortness of breath. Physical examination shows scattered wheezes bilaterally. Chest CT scan reveals a mass in the right lung. Light microscopy of the mass is shown below {{exhibit_1}}:",
+    "zh": "一位72岁的女性因过去2个月持续性咳嗽来诊，偶尔伴有少量白色痰液。自出现症状以来，她还减了4.5公斤（10磅）体重。该患者曾吸烟，有25包年的吸烟史。几年前她被诊断患有轻度慢性阻塞性肺病，并根据需要使用沙丁胺醇治疗喘息和呼吸急促。体格检查显示双侧散在性哮鸣音。胸部CT扫描显示右肺有肿块。肿块的显微镜检查结果如下 {{exhibit_1}}:"
+  },
+  "question": {
+    "en": "Which of the following is the most likely diagnosis?",
+    "zh": "以下哪项是最可能的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Adenocarcinoma of the lung",
+      "zh": "肺腺癌"
+    },
+    "B": {
+      "en": "Mesothelioma",
+      "zh": "间皮瘤"
+    },
+    "C": {
+      "en": "Pulmonary tuberculosis",
+      "zh": "肺结核"
+    },
+    "D": {
+      "en": "Small cell lung cancer",
+      "zh": "小细胞肺癌"
+    },
+    "E": {
+      "en": "Squamous cell lung cancer",
+      "zh": "鳞状细胞肺癌"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "This patient's histologic findings are consistent with adenocarcinoma of the lung, the most common type of primary lung cancer in the United States. It is also the most common type seen in nonsmokers, although like most forms of lung cancer, the risk is increased with prolonged smoking history. Adenocarcinoma arises from the alveolar epithelium and is characterized by invasive cells with abundant cytoplasm and eccentrically placed nuclei that form irregular glandular elements {{exhibit_2}}; mucin production is common.\n\nClinical manifestations are similar to other types of lung cancer and include cough, dyspnea, hemoptysis, and unexplained weight loss. Mucinous forms can produce copious amounts of watery sputum (bronchorrhea). Imaging shows a discrete mass or pneumonia-like consolidation, typically located on the periphery of the lung.\n\n(Choice B) Mesothelioma is a rare malignancy associated with asbestos exposure; it arises from mesothelial cells and is located in the pleura (not the lung parenchyma, as in this patient). Histopathology demonstrates cuboidal or spindle cells that stain positive for cytokeratin.\n\n(Choice C) Pulmonary tuberculosis typically presents with a cavitary lesion in the upper lungs, often associated with hilar adenopathy. Histology demonstrates caseating granulomas with multinucleated giant cells.\n\n(Choice D) Small cell lung cancer is an aggressive malignancy strongly associated with smoking; it often arises in the major bronchi. Histopathology demonstrates small, blue cells with scant cytoplasm, indistinct nucleoli, and granular chromatin (salt and pepper pattern).\n\n(Choice E) Squamous cell lung cancer is associated with smoking and typically arises centrally within a bronchial lumen. Histopathology demonstrates invasive squamous cells with intercellular bridges and keratin pearls.\n\nEducational objective: Adenocarcinoma, the most common pulmonary malignancy, is characterized histopathologically by invasive glandular cells with abundant cytoplasm and eccentrically placed nuclei; mucin production is common. Imaging typically demonstrates a discrete mass or pneumonia-like consolidation at the periphery of the lung. {{exhibit_3}}{{exhibit_4}}{{exhibit_5}}{{exhibit_6}}",
+    "zh": "该患者的组织学发现与肺腺癌一致，肺腺癌是美国最常见的原发性肺癌类型。它也是非吸烟者中最常见的类型，尽管像大多数形式的肺癌一样，长期吸烟史会增加患病风险。肺腺癌起源于肺泡上皮，其特征是具有丰富细胞质和偏心核的浸润性细胞，形成不规则的腺体结构 {{exhibit_2}}；常有黏蛋白产生。\n\n临床表现与其他类型的肺癌相似，包括咳嗽、呼吸困难、咯血和不明原因的体重减轻。黏液性形式可产生大量水样痰（支气管溢液）。影像学检查显示离散的肿块或肺炎样实变，通常位于肺的周围。\n\n（选项 B）间皮瘤是一种罕见的恶性肿瘤，与石棉暴露有关；它起源于间皮细胞，位于胸膜（而不是该患者的肺实质）。组织病理学显示立方或梭形细胞，对细胞角蛋白呈阳性。\n\n（选项 C）肺结核通常表现为上肺的空洞病变，常伴有肺门淋巴结病。组织学显示干酪样肉芽肿伴多核巨细胞。\n\n（选项 D）小细胞肺癌是一种与吸烟密切相关的侵袭性恶性肿瘤；它通常起源于主要支气管。组织病理学显示小而蓝色的细胞，细胞质稀少，核仁不清楚，染色质呈颗粒状（椒盐样）。\n\n（选项 E）鳞状细胞肺癌与吸烟有关，通常起源于支气管腔内。组织病理学显示浸润性鳞状细胞，细胞间桥和角蛋白珠。\n\n教育目标：肺腺癌是最常见的肺部恶性肿瘤，其组织病理学特征是具有丰富细胞质和偏心核的浸润性腺样细胞；常有黏蛋白产生。影像学检查通常显示肺周围有离散的肿块或肺炎样实变。 {{exhibit_3}}{{exhibit_4}}{{exhibit_5}}{{exhibit_6}}"
+  },
+  "summary": {
+    "en": "This question tests knowledge of lung cancer diagnosis, specifically adenocarcinoma, based on clinical presentation, risk factors, and histological findings. It requires differentiating adenocarcinoma from other types of lung cancer and pulmonary diseases.\n\nTo solve this question, consider the patient's history (ex-smoker, COPD), symptoms (cough, weight loss), and imaging findings (mass in the lung). Then, analyze the histological description for features characteristic of adenocarcinoma, such as glandular elements and mucin production.",
+    "zh": "本题考察基于临床表现、危险因素和组织学发现对肺癌诊断，特别是腺癌的认识。它需要将腺癌与其他类型的肺癌和肺部疾病区分开来。\n\n要解决这个问题，请考虑患者的病史（前吸烟者、慢阻肺）、症状（咳嗽、体重减轻）和影像学检查结果（肺部肿块）。然后，分析组织学描述，寻找腺癌的特征，如腺体结构和黏蛋白产生。"
+  },
+  "tags": "Adenocarcinoma; Lung cancer; Pulmonary medicine; Histopathology; Smoking; COPD; Oncology",
+  "category": "Chest",
+  "question_id": "564",
+  "has_exhibits": true,
+  "exhibit_count": 6,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\564",
+  "extracted_at": "2025-11-05T11:46:38.493264",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:41:07.348143",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 34-year-old man comes to the emergency department due to 2 days of fever, malaise, and myalgia. He has also had worsening shortness of breath and cough. The patient works in the mail room at a large company, does not smoke cigarettes, and drinks alcohol occasionally. Chest imaging shows lung infiltrates and prominent widening of the mediastinum. Sputum and blood cultures yield large, gram-positive rods that form colonies resembling a \"Medusa head.\"",
+    "zh": "一名34岁男性因发热、不适和肌痛2天来到急诊科。他还出现了呼吸困难和咳嗽加重。该患者在一家大公司的邮件室工作，不吸烟，偶尔饮酒。胸部影像学显示肺部浸润和纵隔明显增宽。痰和血培养显示大型革兰氏阳性杆菌，形成的菌落类似于“美杜莎头”。"
+  },
+  "question": {
+    "en": "Which of the following is the most likely bacterial virulence factor contributing to this patient's condition?",
+    "zh": "以下哪项是最有可能导致该患者病情的细菌毒力因子？"
+  },
+  "options": {
+    "A": {
+      "en": "Antiphagocytic D-glutamate capsule",
+      "zh": "抗吞噬D-谷氨酸荚膜"
+    },
+    "B": {
+      "en": "Antiphagocytic polysaccaride capsule",
+      "zh": "抗吞噬多糖荚膜"
+    },
+    "C": {
+      "en": "IgG-binding, outer membrane protein",
+      "zh": "IgG结合的外膜蛋白"
+    },
+    "D": {
+      "en": "Intracellular polyphosphate granules",
+      "zh": "细胞内多磷酸盐颗粒"
+    },
+    "E": {
+      "en": "Peritrichous flagella",
+      "zh": "周身鞭毛"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "Bacillus anthracis is a large, nonmotile, nonhemolytic, gram-positive rod that forms colonies in culture with multiple curled extensions at the edges that resemble a \"Medusa head.\" Because the organism proliferates in soil contaminated with manure, pasture-grazing herbivores such as sheep, cattle, and horses are at greatest risk for infection. However, transmission to humans occasionally occurs when B anthracis spores are inhaled, ingested, or inoculated into the skin.\n\nInhalation of spores into the alveoli causes pulmonary anthrax. Alveolar macrophages phagocytose the spores and bring them to mediastinal lymph nodes, where the spores germinate into vegetative rods and multiply. The vegetative form of the bacteria contains a polypeptide capsule composed of D-glutamic acid, which is antiphagocytic. B anthracis rods also produce a potent exotoxin complex composed of edema factor, lethal factor, and protective antigen, which enter host cells and cause cell death.\n\nInitial manifestations of infection are nonspecific (eg, myalgia, fever, malaise), but proliferation of the bacteria in the mediastinum eventually causes hemorrhagic mediastinitis (often visible on chest x-ray as a widened mediastinum). Subsequent dissemination through the bloodstream causes shock, brain edema/hemorrhage, and death. Although pulmonary anthrax is quite rare, it can be seen in individuals who handle contaminated hides or animal hair (\"woolsorter's disease\") or those exposed to aerosolized biologic weapons (eg, opening contaminated mail).\n\n(Choice B) Many bacteria (eg, Streptococcus pneumoniae) are resistant to phagocytosis due to the presence of a polysaccharide capsule. However, B anthracis has a polypeptide, not polysaccharide, capsule.\n\n(Choice C) Staphylococcus aureus produces protein A, which binds the Fc portion of IgG. This inhibits opsonization and complement-mediated killing of the bacteria.\n\n(Choice D) Intracellular polyphosphate granules are characteristic of Corynebacterium diphtheriae; they can be visualized on microscopy after growing the pathogen on Loeffler medium and staining it with methylene blue.\n\n(Choice E) Peritrichous flagella (flagella distributed uniformly over the entire surface of a bacterial cell) are not present on the surface of B anthracis as this organism is nonmotile. Peritrichous flagella are characteristic of highly motile organisms such as Proteus mirabilis.\n\nEducational objective:\nBacillus anthracis is a large, sporulating, gram-positive rod that is encased in an antiphagocytic polypeptide capsule composed of D-glutamic acid. Inhalation of B anthracis spores can cause pulmonary anthrax, which is usually characterized by nonspecific symptoms followed by hemorrhagic mediastinitis, shock, and death.",
+    "zh": "炭疽芽孢杆菌是一种大型、无动力、无溶血性的革兰氏阳性杆菌，在培养中形成菌落，边缘有多个卷曲的延伸，类似于“美杜莎头”。由于这种生物体在被粪便污染的土壤中增殖，以牧场为食的草食动物，如绵羊、牛和马，感染的风险最大。然而，当炭疽芽孢杆菌孢子被吸入、摄入或接种到皮肤中时，偶尔会发生向人类的传播。\n\n吸入孢子进入肺泡会导致肺炭疽。肺泡巨噬细胞吞噬孢子，并将其带到纵隔淋巴结，在那里孢子发育成营养杆菌并繁殖。细菌的营养形式包含由D-谷氨酸组成的肽荚膜，具有抗吞噬作用。炭疽芽孢杆菌杆菌还会产生一种由水肿因子、致死因子和保护性抗原组成的强效外毒素复合物，这些复合物进入宿主细胞并导致细胞死亡。\n\n感染的最初表现是非特异性的（如，肌痛、发热、不适），但细菌在纵隔中的增殖最终会导致出血性纵隔炎（通常在胸部X光片上表现为纵隔增宽）。随后通过血流的播散会导致休克、脑水肿/出血和死亡。虽然肺炭疽非常罕见，但它可见于处理被污染的兽皮或动物毛发（“理毛工病”）或暴露于气溶胶生物武器（如，打开被污染的邮件）的个体。\n\n（选项 B）许多细菌（例如，肺炎链球菌）由于存在多糖荚膜而对吞噬作用具有抵抗力。然而，炭疽芽孢杆菌具有肽，而不是多糖，荚膜。\n\n（选项 C）金黄色葡萄球菌产生蛋白A，它与IgG的Fc段结合。这会抑制调理作用和补体介导的细菌杀灭。\n\n（选项 D）细胞内多磷酸盐颗粒是白喉棒状杆菌的特征；在Loeffler培养基上培养病原体并用亚甲基蓝染色后，可以在显微镜下观察到它们。\n\n（选项 E）周身鞭毛（鞭毛均匀分布在细菌细胞的整个表面）不存在于炭疽芽孢杆菌的表面，因为该生物体是无动力的。周身鞭毛是高度运动生物体的特征，例如奇异变形杆菌。\n\n教育目标：\n炭疽芽孢杆菌是一种大型的、形成孢子的革兰氏阳性杆菌，被包裹在由D-谷氨酸组成的抗吞噬肽荚膜中。吸入炭疽芽孢杆菌孢子可引起肺炭疽，其特征通常是非特异性症状，随后是出血性纵隔炎、休克和死亡。"
+  },
+  "summary": {
+    "en": "This question tests knowledge of Bacillus anthracis virulence factors, specifically the antiphagocytic D-glutamate capsule, and the clinical presentation of pulmonary anthrax, including hemorrhagic mediastinitis. It also requires differentiating anthrax from other bacterial infections based on virulence factors and microscopic characteristics.\n\nTo solve this question, recognize the key features of the case (mailroom worker, mediastinal widening, gram-positive rods resembling \"Medusa head\") to identify Bacillus anthracis. Then, recall that the antiphagocytic D-glutamate capsule is the major virulence factor that allows the bacteria to evade phagocytosis and cause infection.",
+    "zh": "此问题测试对炭疽芽孢杆菌毒力因子（特别是抗吞噬D-谷氨酸荚膜）的知识，以及肺炭疽的临床表现，包括出血性纵隔炎。它还需要根据毒力因子和显微镜特征将炭疽与其他细菌感染区分开来。\n\n要解决这个问题，需要识别病例的关键特征（邮件室工作人员、纵隔增宽、类似于“美杜莎头”的革兰氏阳性杆菌）以识别炭疽芽孢杆菌。然后，回想起抗吞噬D-谷氨酸荚膜是主要的毒力因子，它允许细菌逃避吞噬作用并引起感染。"
+  },
+  "tags": "Bacillus anthracis; Pulmonary anthrax; Antiphagocytic capsule; D-glutamate; Hemorrhagic mediastinitis; Gram-positive rods; Infectious diseases; Microbiology",
+  "category": "Micro",
+  "question_id": "972",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Micro 23\\972",
+  "extracted_at": "2025-11-05T15:06:53.353263",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:14:00.048612",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

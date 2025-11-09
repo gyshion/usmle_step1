@@ -1,0 +1,63 @@
+{
+  "question_stem": {
+    "en": "A pharmaceutical company in the final stages of designing a new nonsteroidal anti-inflammatory agent develops 2 different oral formulations of the drug. Two groups of volunteers are each administered a different formulation, and average plasma drug levels are monitored over the next 12 hours. The results are shown below: {{exhibit_1}}\n\nCompared to the red curve, the formulation represented by the blue curve is most likely to have which of the following characteristics?",
+    "zh": "一家制药公司在设计一种新型非甾体抗炎药的最后阶段，开发了该药物的 2 种不同的口服制剂。两组志愿者分别接受不同的制剂，并在接下来的 12 小时内监测平均血浆药物水平。结果如下所示：{{exhibit_1}}\n\n与红线相比，蓝线所代表的制剂最有可能具有以下哪种特征？"
+  },
+  "question": {
+    "en": "Compared to the red curve, the formulation represented by the blue curve is most likely to have which of the following characteristics?",
+    "zh": "与红线相比，蓝线所代表的制剂最有可能具有以下哪种特征？"
+  },
+  "options": {
+    "A": {
+      "en": "Delayed intestinal absorption",
+      "zh": "肠道吸收延迟"
+    },
+    "B": {
+      "en": "Enhanced CYP enzyme induction",
+      "zh": "增强的 CYP 酶诱导"
+    },
+    "C": {
+      "en": "Increased biliary excretion",
+      "zh": "胆汁排泄增加"
+    },
+    "D": {
+      "en": "Increased enterohepatic cycling",
+      "zh": "肝肠循环增加"
+    },
+    "E": {
+      "en": "Reduced first-pass metabolism",
+      "zh": "首过效应代谢降低"
+    }
+  },
+  "correct_answer": "A",
+  "explanation": {
+    "en": "The above graph shows the plasma drug concentration-time curves of the 2 different oral formulations. The one represented by the blue curve shows a reduced and delayed peak level relative to the red curve, which is consistent with a SUSTAINED-RELEASE PREPARATION.\n\nThe absorption speed of an orally administered drug depends on the rate at which it dissolves in gastrointestinal fluids. Capsules and tablets can be designed with the active ingredient embedded in an insoluble matrix or encapsulated with coatings that dissolve at different rates to DELAY INTESTINAL ABSORPTION. Slower drug absorption can have several advantages, including:\n\n* Reduced incidence of adverse effects due to dampening of peak levels\n* Longer duration of therapeutic effect due to prolonged absorption of the drug\n* Improved patient compliance due to less frequent administration\n\nThese benefits make sustained-release preparations particularly useful for drugs with short half-lives (ie, allowing prolonged effect without need for multiple doses) or narrow therapeutic windows (ie, maintaining effective drug levels while minimizing absorption peaks).\n\n(Choice B) Enhanced CYP enzyme induction by the blue formulation would cause increased drug metabolism over time as additional enzymes are synthesized, leading to decreased serum drug levels. {{exhibit_3}}\n\n(Choice C) Increased biliary excretion of the blue formulation would be expected to decrease peak serum levels, but would not explain the delay in peak levels relative to the red curve. {{exhibit_3}}\n\n(Choice D) Drugs that are excreted into the bile can undergo enterohepatic cycling, which can prolong the drug's effect longer than expected given the drug's half-life. However, increased enterohepatic cycling would not explain the initial delay in peak serum levels seen in the blue curve. {{exhibit_3}}\n\n(Choice E) Reduced first-pass metabolism by the blue formulation would result in higher peak serum levels compared to the red curve due to increased quantities of drug entering the circulation. {{exhibit_3}}\n\nEducational objective:\nSustained-release drug preparations have reduced and delayed peak levels compared to immediate-release preparations due to slower absorption in the gastrointestinal tract. Dampening of peak levels and prolonged absorption of the drug help maintain effective drug levels while minimizing toxicity. {{exhibit_4}}",
+    "zh": "上图显示了两种不同口服制剂的血浆药物浓度-时间曲线。蓝线代表的制剂相对于红线显示出降低和延迟的峰值水平，这与缓释制剂一致。\n\n口服给药药物的吸收速度取决于其在胃肠道液体中溶解的速度。胶囊和药片可以设计成将活性成分嵌入不溶性基质中或包覆在以不同速率溶解的涂层中，以延迟肠道吸收。较慢的药物吸收可以带来几个优势，包括：\n\n* 由于峰值水平降低，不良反应的发生率降低\n* 由于药物吸收延长，治疗效果的持续时间更长\n* 由于给药频率降低，患者依从性提高\n\n这些益处使缓释制剂特别适用于半衰期短（即，允许延长效应而无需多次给药）或治疗窗窄（即，维持有效药物水平，同时最大限度地减少吸收峰值）的药物。\n\n（选项 B）蓝线制剂增强的 CYP 酶诱导将随着额外酶的合成而导致药物代谢随时间增加，从而导致血清药物水平降低。{{exhibit_3}}\n\n（选项 C）蓝线制剂的胆汁排泄增加，预计会降低峰值血清水平，但不能解释峰值水平相对于红线的延迟。{{exhibit_3}}\n\n（选项 D）排泄到胆汁中的药物可以进行肝肠循环，这可以延长药物的作用时间，比药物的半衰期所预期的更长。然而，肝肠循环的增加并不能解释蓝线中出现的峰值血清水平的最初延迟。{{exhibit_3}}\n\n（选项 E）蓝线制剂的首过效应代谢降低将导致峰值血清水平高于红线，因为进入循环的药物量增加。{{exhibit_3}}\n\n教育目标：\n缓释药物制剂由于在胃肠道中的吸收较慢，与速释制剂相比，其峰值水平降低且延迟。峰值水平的降低和药物的延长吸收有助于维持有效的药物水平，同时最大限度地减少毒性。{{exhibit_4}}"
+  },
+  "summary": {
+    "en": "This question tests the understanding of pharmacokinetic principles related to drug formulation and absorption, specifically how different release profiles affect plasma drug concentration over time. It assesses the ability to interpret drug concentration-time curves and relate them to formulation characteristics like sustained-release mechanisms.\n\nTo solve this question, one must analyze the provided graph to identify the characteristics of the blue curve compared to the red curve, noting the delayed and reduced peak plasma concentration. This pattern should then be linked to potential pharmacokinetic mechanisms, with delayed intestinal absorption being the most direct explanation for such a profile.",
+    "zh": "此问题测试对与药物制剂和吸收相关的药代动力学原理的理解，特别是不同的释放曲线如何影响血浆药物浓度随时间的变化。它评估了解释药物浓度-时间曲线并将其与制剂特征（如缓释机制）相关联的能力。\n\n为了解决这个问题，必须分析提供的图表，以确定蓝线相对于红线的特征，注意延迟和降低的峰值血浆浓度。然后，这种模式应与潜在的药代动力学机制联系起来，其中肠道吸收延迟是对此类曲线最直接的解释。"
+  },
+  "tags": "Pharmacokinetics; Drug formulation; Sustained-release; Absorption; Plasma drug levels; Pharmacodynamics; Nonsteroidal anti-inflammatory agent; Graph interpretation; Pharmacology",
+  "category": "Pharma",
+  "question_id": "18022",
+  "has_exhibits": true,
+  "exhibit_count": 4,
+  "exhibit_files": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Pharma 23\\18022",
+  "extracted_at": "2025-11-05T19:45:16.077562",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:47:21.734991",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

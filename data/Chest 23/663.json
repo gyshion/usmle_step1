@@ -1,0 +1,58 @@
+{
+  "question_stem": {
+    "en": "A 14-year-old girl is brought to the office due to intermittent shortness of breath over the past 4 months. She is unable to link the episodes to specific events or exposures. The patient has no prior medical conditions and takes no medications. She does not smoke and has no second-hand tobacco exposure. Her family has a cat that remains indoors. There is no significant family history. Blood pressure is 110/65 mm Hg, pulse is 80/min, and respirations are 16/min. On physical examination, heart sounds are normal and the lungs are clear to auscultation. Lung function tests reveal a FEV1/FVC ratio of 83%.",
+    "zh": "一名14岁女孩因过去4个月出现间歇性呼吸短促而就诊。她无法将这些发作与特定事件或暴露联系起来。患者无既往病史，未服用任何药物。她不吸烟，也没有二手烟暴露。她的家人有一只室内饲养的猫。无重要的家族史。血压为110/65 mmHg，脉搏80次/分，呼吸16次/分。体格检查显示，心音正常，肺部听诊清亮。肺功能检查显示FEV1/FVC比值为83%。"
+  },
+  "question": {
+    "en": "Which of the following would be most helpful in excluding a diagnosis of asthma in this patient?",
+    "zh": "以下哪项最有助于排除该患者哮喘的诊断？"
+  },
+  "options": {
+    "A": {
+      "en": "Absence of peripheral blood eosinophilia",
+      "zh": "外周血嗜酸性粒细胞缺乏"
+    },
+    "B": {
+      "en": "Negative allergy skin tests",
+      "zh": "过敏皮肤试验阴性"
+    },
+    "C": {
+      "en": "Negative methacholine challenge",
+      "zh": "乙酰甲胆碱激发试验阴性"
+    },
+    "D": {
+      "en": "Normal chest radiography",
+      "zh": "胸部X线检查正常"
+    },
+    "E": {
+      "en": "Normal total serum IgE level",
+      "zh": "血清总IgE水平正常"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "Asthma is a disease of airway inflammation and bronchial hyperreactivity, with VARIABLE AIRFLOW OBSTRUCTION that improves with bronchodilator medications. Classic symptoms include cough, shortness of breath, and wheeze, although these are nonspecific. Most patients with asthma have a chronic reduction in the FEV1/FVC ratio (≤70%; normal ~80%) due to increased expiratory airflow resistance. However, asymptomatic patients may have normal lung function tests, with alterations in lung function occurring only during exacerbations. This patient with intermittent shortness of breath has a normal FEV1/FVC ratio; therefore, further studies are required to exclude the diagnosis of asthma.\n\nBronchial challenge testing is a highly sensitive test with HIGH NEGATIVE PREDICTIVE VALUE used to assess bronchial hyperreactivity and exclude asthma. A provocative stimulus (typically aerosolized methacholine, a cholinergic muscarinic agonist) is administered at increasing concentrations to induce bronchoconstriction. Patients with asthma are hyperresponsive to this stimulus and experience a decline in FEV1 at lower doses than nonasthmatics. However, the test is nonspecific and positive results may also be seen with chronic obstructive pulmonary disease, cystic fibrosis, and allergic rhinitis.\n\n(Choice A) Although peripheral eosinophil counts may be elevated in asthmatics, the presence of eosinophilia is not a sensitive or specific indicator of asthma and may be seen in other allergic diseases (eg, allergic rhinitis, drug reactions), parasitic infections (eg, strongyloides), and certain myeloid neoplasms.\n\n(Choice B) Most patients with asthma are sensitive to a variety of inhaled allergens, and in such patients, skin tests to various allergens will provoke a localized, immediate, type I hypersensitivity reaction. However, patients may have allergic disease without asthma and patients with nonallergic (intrinsic) asthma may not have allergies; therefore this test is not useful for diagnosing asthma.\n\n(Choice D) During an asthma attack, the lungs may appear hyperinflated on chest x-ray. However, chest x-rays are often normal between attacks; therefore, a chest x-ray cannot exclude asthma.\n\n(Choice E) Although serum IgE levels are generally elevated in patients with allergic asthma, patients with nonimmune-mediated asthma have normal levels of serum IgE. Intrinsic asthma can be precipitated by pulmonary infections (especially viral), aspirin ingestion, cold air, inhaled irritants (eg, perfumes), stress, and exercise.",
+    "zh": "哮喘是一种气道炎症和支气管高反应性疾病，伴有可变的 气流阻塞，可通过支气管扩张剂药物改善。典型症状包括咳嗽、呼吸短促和喘息，尽管这些症状是非特异性的。大多数哮喘患者的FEV1/FVC比率长期降低（≤70%；正常~80%），这归因于呼气气流阻力增加。然而，无症状患者的肺功能检查结果可能正常，仅在疾病加重期间才会出现肺功能改变。这名间歇性呼吸短促的患者的FEV1/FVC比率正常；因此，需要进一步的研究来排除哮喘的诊断。\n\n支气管激发试验是一种高度敏感的试验，具有高阴性预测值，用于评估支气管高反应性并排除哮喘。使用激发物（通常是雾化乙酰甲胆碱，一种胆碱能毒蕈碱受体激动剂），以递增的浓度给药，以诱导支气管收缩。哮喘患者对这种刺激具有过度反应，并且在比非哮喘患者更低的剂量下出现FEV1下降。然而，该试验是非特异性的，慢性阻塞性肺病、囊性纤维化和过敏性鼻炎患者也可能出现阳性结果。\n\n（选项A）尽管哮喘患者的外周血嗜酸性粒细胞计数可能升高，但嗜酸性粒细胞增多症的存在并不是哮喘的敏感或特异性指标，也可能出现在其他过敏性疾病（例如，过敏性鼻炎、药物反应）、寄生虫感染（例如，粪圆线虫）和某些骨髓增生性肿瘤中。\n\n（选项B）大多数哮喘患者对多种吸入性过敏原敏感，在这种患者中，针对各种过敏原的皮肤试验将引发局部的、即刻的、I型超敏反应。然而，患者可能患有过敏性疾病而没有哮喘，而非过敏性（内在性）哮喘患者可能没有过敏；因此，该试验对于诊断哮喘无用。\n\n（选项D）在哮喘发作期间，胸部X线片上肺部可能显得过度充气。然而，在发作之间，胸部X线片通常是正常的；因此，胸部X线片无法排除哮喘。\n\n（选项E）尽管过敏性哮喘患者的血清IgE水平通常升高，但非免疫介导性哮喘患者的血清IgE水平正常。内在性哮喘可由肺部感染（尤其是病毒）、阿司匹林摄入、冷空气、吸入性刺激物（例如，香水）、压力和运动诱发。"
+  },
+  "summary": {
+    "en": "This question tests the diagnostic approach to asthma, specifically the role of methacholine challenge testing in excluding the diagnosis. It emphasizes the high negative predictive value of a negative methacholine challenge in ruling out asthma, especially when clinical presentation and initial lung function tests are inconclusive.\n\nTo solve this question, recognize that the patient's normal FEV1/FVC ratio does not exclude asthma. Consider the sensitivity and specificity of each test option, focusing on which test has the best ability to rule out the disease. Remember that methacholine challenge is highly sensitive for bronchial hyperreactivity, a key feature of asthma.",
+    "zh": "本题考察哮喘的诊断方法，特别是乙酰甲胆碱激发试验在排除诊断中的作用。它强调了乙酰甲胆碱激发试验阴性在排除哮喘方面的较高阴性预测值，特别是在临床表现和初始肺功能检查结果不明确时。\n\n要解决这个问题，需要认识到患者正常的FEV1/FVC比率并不能排除哮喘。考虑每个测试选项的敏感性和特异性，重点关注哪个测试最能排除该疾病。请记住，乙酰甲胆碱激发试验对支气管高反应性高度敏感，这是哮喘的一个关键特征。"
+  },
+  "tags": "Asthma; Methacholine challenge; Pulmonary function tests; Bronchial hyperreactivity; Respiratory medicine; Allergy; Diagnosis",
+  "category": "Chest",
+  "question_id": "663",
+  "has_exhibits": false,
+  "exhibit_count": 0,
+  "exhibit_files": [],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Chest 23\\663",
+  "extracted_at": "2025-11-05T11:46:55.192085",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 1,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T16:41:22.503430",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

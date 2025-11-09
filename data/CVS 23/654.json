@@ -1,0 +1,64 @@
+{
+  "question_stem": {
+    "en": "A 23-year-old previously healthy man is brought to the emergency department after a stab injury. His friends report that they were \"walking down the street minding our own business when a guy jumped out in front of us from behind a dumpster and stabbed him in the chest.\" They were able to disarm the man after this single attack, and the man then ran off into an alley. The patient is conscious but in distress. Physical examination shows a laterally directed anterior chest wall stab wound at the fifth intercostal space along the left midclavicular line. {{exhibit_1}}",
+    "zh": "一名先前健康的23岁男性因刺伤被送往急诊科。他的朋友报告说，他们“在街上走着，管着自己的事，突然有一个家伙从垃圾箱后面跳出来，从前面刺了他的胸部。” 他们在这次袭击后能够解除该男子的武装，然后该男子跑进了一条小巷。患者意识清醒，但情况危急。体格检查显示，在左锁骨中线第五肋间隙处，前胸壁有一个向外侧方向的刺伤。 {{exhibit_1}}"
+  },
+  "question": {
+    "en": "Which of the following structures is most likely to have been injured in this patient?",
+    "zh": "该患者最有可能损伤以下哪种结构？"
+  },
+  "options": {
+    "A": {
+      "en": "Azygos vein",
+      "zh": "奇静脉"
+    },
+    "B": {
+      "en": "Inferior vena cava",
+      "zh": "下腔静脉"
+    },
+    "C": {
+      "en": "Left atrium",
+      "zh": "左心房"
+    },
+    "D": {
+      "en": "Left lung",
+      "zh": "左肺"
+    },
+    "E": {
+      "en": "Right ventricle",
+      "zh": "右心室"
+    }
+  },
+  "correct_answer": "D",
+  "explanation": {
+    "en": "A penetrating, laterally directed stab wound (possibly from a left-handed assaulter) that involves the fifth intercostal space (ICS) at the left anterior midclavicular line (MCL) would most likely injure the left lung. The lungs occupy most of the volume of the thoracic cavity. The apex of each lung extends into the neck (3-4 cm above the first rib). The lung bases are in direct contact with the diaphragm, which separates the right lung from the right lobe of the liver and the left lung from the stomach, spleen, and (occasionally) left lobe of the liver. The mediastinal surface of each lung has a cardiac impression that accommodates the heart.\n\nA deeper (and more medially directed) wound could have injured the left (not the right) ventricle. The heart is located behind the sternum, and its anterior surface is partially covered by the lungs. The cardiac apex is formed by the left ventricle. Depending on heart size, the point of maximal apical impulse can be felt at the fifth left ICS (between the fifth and sixth ribs) at the left MCL. All other heart chambers, including the right ventricle, lie medial to the left MCL and are unlikely to have been affected by the injury. The right ventricle forms the sternocostal (anterior) surface of the heart (Choice E). The diaphragmatic (inferior) surface is formed by the left and right ventricles and is in contact with the central tendon of the diaphragm. The posterior surface of the heart is formed mainly by the left atrium (Choice C).\n\n(Choice A) The azygos vein lies in the posterior mediastinum immediately to the right of the midline. It drains blood from the posterior intercostal veins into the superior vena cava.\n\n(Choice B) The inferior vena cava is located in the mediastinum, lies to the right of midline, and drains into the right atrium.",
+    "zh": "一个穿透性、向外侧方向的刺伤（可能来自左撇子袭击者），涉及左前锁骨中线（MCL）的第五肋间隙（ICS），最有可能损伤左肺。 肺占据胸腔的大部分体积。每个肺的尖端延伸到颈部（在第一根肋骨上方3-4厘米处）。肺底直接接触横膈膜，横膈膜将右肺与肝脏的右叶分开，将左肺与胃、脾脏和（偶尔）肝脏的左叶分开。每个肺的纵隔面都有一个容纳心脏的心脏压迹。\n\n更深（和更向内侧方向）的伤口可能损伤左心室（而非右心室）。心脏位于胸骨后方，其前面部分被肺覆盖。心脏的尖端由左心室形成。根据心脏大小，搏动最强的尖端冲动点可以在左侧MCL的第五肋间隙（第五和第六肋骨之间）处感觉到。所有其他心腔，包括右心室，都位于左侧MCL的内侧，并且不太可能受到损伤的影响。右心室形成心脏的胸骨（前）表面（选项E）。 横膈（下）表面由左心室和右心室形成，并与横膈膜的中心腱接触。心脏的后表面主要由左心房形成（选项C）。\n\n（选项A）奇静脉位于后纵隔，正中线右侧。 它将血液从后肋间静脉引流到上腔静脉。\n\n（选项B）下腔静脉位于纵隔，位于中线的右侧，并引流入右心房。"
+  },
+  "summary": {
+    "en": "A stab wound at the fifth intercostal space along the left midclavicular line is most likely to injure the left lung.",
+    "zh": "沿左锁骨中线第五肋间隙的刺伤最有可能损伤左肺。"
+  },
+  "tags": [
+    "Anatomy",
+    "Cardiovascular System",
+    "Penetrating thoracic trauma"
+  ],
+  "category": "CVS",
+  "question_id": "654",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\CVS 23\\654",
+  "extracted_at": "2025-11-05T12:15:29.115166",
+  "extraction_config": {
+    "temperature": 0.3,
+    "top_k": 20,
+    "prompt_strategy": "minimal"
+  },
+  "translated_at": "2025-11-07T17:30:38.321533",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

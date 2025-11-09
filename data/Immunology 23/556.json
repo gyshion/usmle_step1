@@ -1,0 +1,60 @@
+{
+  "question_stem": {
+    "en": "A 5-year-old child is brought to the emergency department by his parents for right arm pain. The patient reports that he was playing hide and seek outside and felt a sharp pain on his arm while hiding in some thick bushes. His parents suspect that something had stung him. Physical examination shows an edematous and erythematous plaque with mild central pallor. A residual stinger, located central to the lesion, is readily extracted. The physical examination is otherwise not significant.",
+    "zh": "一名5岁儿童因右臂疼痛被父母带到急诊科。患者报告说，他在户外玩捉迷藏时，躲在一些茂密的灌木丛中时，感觉手臂一阵刺痛。他的父母怀疑有什么东西蛰了他。体格检查显示水肿和红斑斑块，伴有轻度中央苍白。一个残留的刺，位于病灶中心，很容易被取出。体格检查的其他方面无异常。"
+  },
+  "question": {
+    "en": "Which of the following substances is most likely directly responsible for the skin findings observed in this patient?",
+    "zh": "以下哪种物质最有可能直接导致该患者观察到的皮肤表现？"
+  },
+  "options": {
+    "A": {
+      "en": "C3b",
+      "zh": "C3b"
+    },
+    "B": {
+      "en": "IL-2",
+      "zh": "IL-2"
+    },
+    "C": {
+      "en": "Histamine",
+      "zh": "组胺"
+    },
+    "D": {
+      "en": "Lysozyme",
+      "zh": "溶菌酶"
+    },
+    "E": {
+      "en": "TNF-α",
+      "zh": "TNF-α"
+    }
+  },
+  "correct_answer": "C",
+  "explanation": {
+    "en": "This child is experiencing a local allergic reaction (type I hypersensitivity) to an insect sting. The cutaneous findings are consistent with a wheal-and-flare reaction, an erythematous papule or plaque often with central pallor (wheal) and peripheral erythema (flare).\n\nDuring initial allergen exposure, a patient predisposed to an allergic response will undergo antibody class switching from IgM to IgE antibodies specific for the allergen. IgE produced by B lymphocytes and plasma cells then binds to high-affinity IgE Fc receptors on basophils and mast cells. Re-exposure to the allergen results in cross-linking of bound IgE antibodies with subsequent degranulation and release of inflammatory mediators (eg, histamine, proteases [tryptase], leukotrienes, prostaglandins). Localized vasodilation and increased vascular permeability result in the characteristic wheal-and-flare lesions. In severe cases, widespread release of these agents can also cause systemic vasodilation, bronchoconstriction, and massive fluid shifts, leading to anaphylactic shock and potentially death.\n\n(Choice A) C3b, the larger subunit produced by cleavage of complement component 3, binds to pathogens and enhances phagocytosis. The C3b component of immune complexes formed by type III hypersensitivity reactions can also bind to CR1 receptors on erythrocytes, facilitating their clearance in the liver and spleen.\n\n(Choice B) IL-2 is a cytokine produced by T₁ lymphocytes that increases proliferation and activity of helper, cytotoxic, and regulatory T cells as well as NK cells. T₁ cells are responsible for inducing macrophage and cytotoxic T lymphocyte-mediated (type IV) inflammatory reactions. In contrast, IL-4 is responsible for driving the production of T₂ cells, which promote antibody-mediated (humoral) immunity and facilitate type I hypersensitivity.\n\n(Choice D) Lysozyme is an antimicrobial enzyme found in specific granules of neutrophils and bodily secretions (tears, mucus). Lysozyme functions by hydrolyzing bonds within the peptidoglycan cell walls of bacterial organisms. It is an important component of innate immunity, not hypersensitivity reactions.\n\n(Choice E) TNF-α is a proinflammatory cytokine produced by macrophages and T cells that induces and maintains granuloma formation (important for host defense against tuberculosis). It also plays a pathogenic role in inflammatory conditions such as rheumatoid arthritis, psoriasis, and inflammatory bowel disease. TNF-α may be elevated in type IV (delayed type) hypersensitivity, but not type I.\n\nEducational objective:\nWheal-and-flare lesions usually result from allergic (type I hypersensitivity) reactions. On initial exposure, an allergen (eg, insect venom) promotes antibody class switching to IgE. Subsequent exposure promotes cross-linking of IgE on basophils and mast cells, resulting in degranulation and release of multiple vasoactive mediators, including histamine.",
+    "zh": "该儿童正在经历对昆虫叮咬的局部过敏反应（I型超敏反应）。皮肤表现与风团-红晕反应一致，即红斑性丘疹或斑块，通常伴有中央苍白（风团）和周围红斑（红晕）。\n\n在最初接触过敏原期间，易发生过敏反应的患者将经历抗体类别转换，从针对过敏原的IgM转换为IgE抗体。由B淋巴细胞和浆细胞产生的IgE然后与嗜碱性粒细胞和肥大细胞上的高亲和力IgE Fc受体结合。再次接触过敏原会导致结合的IgE抗体交联，随后发生脱颗粒和释放炎症介质（例如，组胺、蛋白酶[胰蛋白酶]、白三烯、前列腺素）。局部血管舒张和血管通透性增加导致特征性的风团-红晕病变。在严重的情况下，这些物质的广泛释放也会引起全身性血管舒张、支气管收缩和大量液体转移，导致过敏性休克，甚至死亡。\n\n（选项A）C3b，由补体C3裂解产生的较大亚基，与病原体结合并增强吞噬作用。由III型超敏反应形成的免疫复合物的C3b成分也可以与红细胞上的CR1受体结合，促进其在肝脏和脾脏中的清除。\n\n（选项B）IL-2是由T₁淋巴细胞产生的一种细胞因子，可增加辅助性、细胞毒性和调节性T细胞以及NK细胞的增殖和活性。T₁细胞负责诱导巨噬细胞和细胞毒性T淋巴细胞介导的（IV型）炎症反应。相比之下，IL-4负责驱动T₂细胞的产生，从而促进抗体介导的（体液）免疫并促进I型超敏反应。\n\n（选项D）溶菌酶是一种抗菌酶，存在于中性粒细胞的特定颗粒和体液分泌物（泪液、粘液）中。溶菌酶通过水解细菌生物体的肽聚糖细胞壁中的键起作用。它是先天免疫的重要组成部分，而不是超敏反应。\n\n（选项E）TNF-α是由巨噬细胞和T细胞产生的一种促炎细胞因子，可诱导和维持肉芽肿形成（对宿主防御结核病很重要）。它还在类风湿关节炎、牛皮癣和炎症性肠病等炎症性疾病中起病理作用。TNF-α可能在IV型（迟发型）超敏反应中升高，但不在I型超敏反应中升高。\n\n教育目标：\n风团-红晕病变通常由过敏（I型超敏反应）反应引起。在最初接触时，过敏原（例如，昆虫毒液）会促进抗体类别转换为IgE。随后的接触会促进嗜碱性粒细胞和肥大细胞上IgE的交联，导致脱颗粒并释放多种血管活性介质，包括组胺。"
+  },
+  "summary": {
+    "en": "This question tests the understanding of the pathophysiology of immediate hypersensitivity reactions, specifically the role of inflammatory mediators released from mast cells and basophils in response to insect stings. It assesses the knowledge of the substances responsible for the characteristic wheal-and-flare skin lesions.\n\nTo solve this question, one must recognize the clinical presentation as a type I hypersensitivity reaction. The key is to identify the primary mediator responsible for vasodilation and increased vascular permeability, which are the hallmarks of the wheal-and-flare response, and differentiate it from other immune mediators or enzymes.",
+    "zh": "这个问题测试对速发型超敏反应的病理生理学的理解，特别是肥大细胞和嗜碱性粒细胞对昆虫叮咬的反应中释放的炎症介质的作用。它评估了对导致特征性风团-红晕皮肤病变的物质的了解。\n\n要解决这个问题，必须将临床表现识别为I型超敏反应。关键是确定导致血管舒张和血管通透性增加的主要介质，这是风团-红晕反应的标志，并将其与其他免疫介质或酶区分开来。"
+  },
+  "tags": "Type I hypersensitivity; Insect sting; Allergic reaction; Mast cells; Basophils; Histamine; Wheal-and-flare reaction; Immunology; Dermatology",
+  "category": "Immunology",
+  "question_id": "556",
+  "has_exhibits": true,
+  "exhibit_count": 1,
+  "exhibit_files": [
+    "image1.jpg"
+  ],
+  "folder_path": "C:\\Datas\\usmle\\step1\\clip\\Immunology 23\\556",
+  "extracted_at": "2025-11-05T19:23:48.012240",
+  "extraction_config": {
+    "temperature": 0.1,
+    "top_k": 2,
+    "prompt_strategy": "standard"
+  },
+  "translated_at": "2025-11-07T18:02:53.599027",
+  "translation_model": "gemini-2.0-flash-lite",
+  "embedding_model": "models/embedding-001",
+  "embedding_dimension": 768
+}

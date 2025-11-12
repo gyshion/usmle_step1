@@ -1,128 +1,56 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>USMLE Step 1 Review System</title>
-    <link rel="stylesheet" href="styles.css">
+    <meta http-equiv="refresh" content="0; url=https://usmle-step1-7507b.web.app/">
+    <title>正在跳转 - Redirecting</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        .container {
+            text-align: center;
+            padding: 2rem;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+        }
+        h1 { margin: 0 0 1rem 0; font-size: 2rem; }
+        p { margin: 0.5rem 0; font-size: 1.1rem; }
+        a { color: white; text-decoration: underline; }
+        .spinner {
+            border: 3px solid rgba(255, 255, 255, 0.3);
+            border-top: 3px solid white;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 1.5rem auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
 </head>
-<body class="main-page">
-    <!-- 语言切换和登出 -->
-    <div class="language-switcher">
-        <button class="lang-btn active" data-lang="en">Eng</button>
-        <button class="lang-btn" data-lang="zh">中</button>
-        <button class="lang-btn" data-lang="both">Both</button>
-        <button class="lang-btn logout-btn" id="logout-btn">
-            <span class="text-zh">登出</span>
-            <span class="text-en">Logout</span>
-        </button>
-    </div>
-
-    <!-- 主容器 -->
+<body>
     <div class="container">
-        <!-- 欢迎信息 -->
-        <div class="welcome-section">
-            <h1 class="main-title">
-                <span class="text-zh">USMLE Step 1 复习系统</span>
-                <span class="text-en">USMLE Step 1 Review System</span>
-            </h1>
-            <p class="user-info" id="user-info">
-                <span class="text-zh">欢迎</span>
-                <span class="text-en">Welcome</span>
-                <span id="user-email"></span>
-            </p>
-        </div>
-
-        <!-- 科目选择 -->
-        <div class="subject-section">
-            <h2 class="section-title">
-                <span class="text-zh">选择复习科目</span>
-                <span class="text-en">Select Subject</span>
-            </h2>
-            <div class="loading" id="subjects-loading">
-                <span class="text-zh">加载中...</span>
-                <span class="text-en">Loading...</span>
-            </div>
-            <div class="subject-grid" id="subject-grid">
-                <!-- 动态生成科目卡片 -->
-            </div>
-        </div>
-
-        <!-- 学习统计 -->
-        <div class="stats-section">
-            <h2 class="section-title">
-                <span class="text-zh">学习统计</span>
-                <span class="text-en">Study Statistics</span>
-            </h2>
-            <div class="stats-grid">
-                <div class="stat-card">
-                    <div class="stat-number" id="stat-today">0</div>
-                    <div class="stat-label">
-                        <span class="text-zh">今天</span>
-                        <span class="text-en">Today</span>
-                    </div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number" id="stat-week">0</div>
-                    <div class="stat-label">
-                        <span class="text-zh">本周</span>
-                        <span class="text-en">This Week</span>
-                    </div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number" id="stat-month">0</div>
-                    <div class="stat-label">
-                        <span class="text-zh">本月</span>
-                        <span class="text-en">This Month</span>
-                    </div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number" id="stat-total">0</div>
-                    <div class="stat-label">
-                        <span class="text-zh">总计</span>
-                        <span class="text-en">Total</span>
-                    </div>
-                </div>
-            </div>
-
-            <!-- 学习热力图 -->
-            <div class="heatmap-section">
-                <h3 class="heatmap-title">
-                    <span class="text-zh">学习活动</span>
-                    <span class="text-en">Study Activity</span>
-                </h3>
-                <div class="heatmap-container" id="heatmap-container">
-                    <!-- 动态生成热力图 -->
-                </div>
-                <div class="heatmap-legend">
-                    <span class="legend-label">
-                        <span class="text-zh">少</span>
-                        <span class="text-en">Less</span>
-                    </span>
-                    <div class="legend-colors">
-                        <div class="legend-color" data-level="0"></div>
-                        <div class="legend-color" data-level="1"></div>
-                        <div class="legend-color" data-level="2"></div>
-                        <div class="legend-color" data-level="3"></div>
-                        <div class="legend-color" data-level="4"></div>
-                    </div>
-                    <span class="legend-label">
-                        <span class="text-zh">多</span>
-                        <span class="text-en">More</span>
-                    </span>
-                </div>
-            </div>
-        </div>
+        <h1>正在跳转到新网站 / Redirecting</h1>
+        <div class="spinner"></div>
+        <p>我们已迁移到新网站 / We have moved</p>
+        <p>如果没有自动跳转，请点击：</p>
+        <p><a href="https://usmle-step1-7507b.web.app/">https://usmle-step1-7507b.web.app/</a></p>
     </div>
-
-    <!-- Firebase SDK -->
-    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore-compat.js"></script>
-
-    <!-- 配置和脚本 -->
-    <script src="firebase-config.js"></script>
-    <script src="data-loader.js"></script>
-    <script src="app.js"></script>
+    <script>
+        window.location.replace('https://usmle-step1-7507b.web.app/');
+    </script>
 </body>
 </html>
